@@ -52,6 +52,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
       ..._repository.getConcepts('nature_animals'),
       ..._repository.getConcepts('work_study'),
       ..._repository.getConcepts('feelings_adjectives'),
+      ..._repository.getConcepts('travel_hotel'),
     ];
   }
 
@@ -66,7 +67,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: const [
             Text('Trilingual Lab', style: TextStyle(color: Color(0xFF0F172A), fontSize: 18, fontWeight: FontWeight.bold)),
-            Text('A1 Foundation • 280 مفردة + 15 فعلًا + 20 جملة', style: TextStyle(color: Color(0xFF64748B), fontSize: 11)),
+            Text('A1 Foundation • 305 مفردات + 15 فعلًا + 20 جملة', style: TextStyle(color: Color(0xFF64748B), fontSize: 11)),
           ],
         ),
         actions: [
@@ -180,7 +181,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
                 ),
                 const SizedBox(height: 16),
 
-                // الأقسام الـ 11 النشطة
+                // الأقسام الـ 12 النشطة
                 _buildCategoryCard('العائلة', 'Familie', 'Family', _repository.getConcepts('family'), Icons.people_outline, const Color(0xFF0284C7)),
                 const SizedBox(height: 12),
                 _buildCategoryCard('الطعام والشراب', 'Essen & Trinken', 'Food & Drinks', _repository.getConcepts('food'), Icons.restaurant_outlined, const Color(0xFFEA580C)),
@@ -203,9 +204,11 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
                 const SizedBox(height: 12),
                 _buildCategoryCard('المشاعر والصفات', 'Gefühle & Adjektive', 'Feelings & Adjectives', _repository.getConcepts('feelings_adjectives'), Icons.sentiment_satisfied_alt_outlined, const Color(0xFFB45309)),
                 const SizedBox(height: 12),
+                _buildCategoryCard('السفر والفندق', 'Reisen & Hotel', 'Travel & Hotel', _repository.getConcepts('travel_hotel'), Icons.flight_takeoff_outlined, const Color(0xFF0D9488)),
+                const SizedBox(height: 12),
 
-                // قسم قادم
-                _buildLockedCard('السفر والفندق', 'Reisen & Hotel', 'Travel & Hotel', 25),
+                // أقسام قادمة
+                _buildLockedCard('التسوق والمال', 'Einkaufen & Geld', 'Shopping & Money', 30),
               ],
             ),
     );

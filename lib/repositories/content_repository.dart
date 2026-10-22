@@ -105,6 +105,13 @@ class ContentRepository {
       titleEn: 'Feelings & Adjectives',
       jsonPath: 'content/vocabulary/feelings_adjectives_a1.json',
     ),
+    CategoryInfo(
+      id: 'travel_hotel',
+      titleAr: 'السفر والفندق',
+      titleDe: 'Reisen & Hotel',
+      titleEn: 'Travel & Hotel',
+      jsonPath: 'content/vocabulary/travel_hotel_a1.json',
+    ),
   ];
 
   Future<bool> loadAllActiveCategories() async {

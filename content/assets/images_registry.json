@@ -2065,6 +2065,181 @@
       "ownership": "Project Original",
       "license": "CC0-1.0",
       "size_bytes": 262
+    },
+    "img_travel_globe": {
+      "asset_path": "content/assets/svg/img_travel_globe.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 390
+    },
+    "img_travel_palm": {
+      "asset_path": "content/assets/svg/img_travel_palm.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 343
+    },
+    "img_travel_passport": {
+      "asset_path": "content/assets/svg/img_travel_passport.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 362
+    },
+    "img_travel_visa": {
+      "asset_path": "content/assets/svg/img_travel_visa.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 343
+    },
+    "img_travel_luggage": {
+      "asset_path": "content/assets/svg/img_travel_luggage.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 454
+    },
+    "img_travel_suitcase": {
+      "asset_path": "content/assets/svg/img_travel_suitcase.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 454
+    },
+    "img_travel_flight": {
+      "asset_path": "content/assets/svg/img_travel_flight.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 390
+    },
+    "img_travel_boarding": {
+      "asset_path": "content/assets/svg/img_travel_boarding.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 343
+    },
+    "img_travel_reception": {
+      "asset_path": "content/assets/svg/img_travel_reception.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 393
+    },
+    "img_travel_booking": {
+      "asset_path": "content/assets/svg/img_travel_booking.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 343
+    },
+    "img_travel_single_room": {
+      "asset_path": "content/assets/svg/img_travel_single_room.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 393
+    },
+    "img_travel_double_room": {
+      "asset_path": "content/assets/svg/img_travel_double_room.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 393
+    },
+    "img_travel_keycard": {
+      "asset_path": "content/assets/svg/img_travel_keycard.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 343
+    },
+    "img_travel_tourist": {
+      "asset_path": "content/assets/svg/img_travel_tourist.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 365
+    },
+    "img_travel_guide": {
+      "asset_path": "content/assets/svg/img_travel_guide.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 390
+    },
+    "img_travel_map": {
+      "asset_path": "content/assets/svg/img_travel_map.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 343
+    },
+    "img_travel_beach": {
+      "asset_path": "content/assets/svg/img_travel_beach.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 343
+    },
+    "img_travel_island": {
+      "asset_path": "content/assets/svg/img_travel_island.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 343
+    },
+    "img_travel_border": {
+      "asset_path": "content/assets/svg/img_travel_border.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 362
+    },
+    "img_travel_exchange": {
+      "asset_path": "content/assets/svg/img_travel_exchange.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 343
+    },
+    "img_travel_souvenir": {
+      "asset_path": "content/assets/svg/img_travel_souvenir.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 365
+    },
+    "img_travel_camera": {
+      "asset_path": "content/assets/svg/img_travel_camera.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 365
+    },
+    "img_travel_restaurant": {
+      "asset_path": "content/assets/svg/img_travel_restaurant.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 393
+    },
+    "img_travel_bill": {
+      "asset_path": "content/assets/svg/img_travel_bill.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 343
+    },
+    "img_travel_trip": {
+      "asset_path": "content/assets/svg/img_travel_trip.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 390
     }
   }
 }

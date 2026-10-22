@@ -1,0 +1,183 @@
+{
+  "category_id": "travel_hotel",
+  "category_name": { "ar": "السفر والفندق", "de": "Reisen & Hotel", "en": "Travel & Hotel" },
+  "level": "A1",
+  "version": 1,
+  "concepts": [
+    {
+      "concept_id": "travel_001_travel",
+      "ar": { "word": "سفر", "vocalized": "سَفَر", "gender": "m", "plural": "أَسْفَار", "example": "أُحِبُّ السَّفَرَ كَثِيرًا." },
+      "de": { "article": "die", "word": "Reise", "plural": "Reisen", "example": "Ich reise sehr gerne." },
+      "en": { "word": "travel", "plural": "travels", "example": "I like traveling very much." },
+      "image_id": "img_travel_globe"
+    },
+    {
+      "concept_id": "travel_002_vacation",
+      "ar": { "word": "عطلة", "vocalized": "عُطْلَة", "gender": "f", "plural": "عُطَل", "example": "نَقْضِي العُطْلَةَ عَلَى البَحْرِ." },
+      "de": { "article": "der", "word": "Urlaub", "plural": "Urlaube", "example": "Wir verbringen den Urlaub am Meer." },
+      "en": { "word": "vacation", "plural": "vacations", "example": "We spend the vacation by the sea." },
+      "image_id": "img_travel_palm"
+    },
+    {
+      "concept_id": "travel_003_passport",
+      "ar": { "word": "جواز سفر", "vocalized": "جَوَازُ سَفَرٍ", "gender": "m", "plural": "جَوَازَاتُ سَفَرٍ", "example": "جَوَازُ سَفَرِي صَالِحٌ." },
+      "de": { "article": "der", "word": "Reisepass", "plural": "Reisepässe", "example": "Mein Reisepass ist gültig." },
+      "en": { "word": "passport", "plural": "passports", "example": "My passport is valid." },
+      "image_id": "img_travel_passport"
+    },
+    {
+      "concept_id": "travel_004_visa",
+      "ar": { "word": "تأشيرة", "vocalized": "تَأْشِيرَة", "gender": "f", "plural": "تَأْشِيرَات", "example": "أَحْتَاجُ إِلَى تَأْشِيرَةٍ." },
+      "de": { "article": "das", "word": "Visum", "plural": "Visa", "example": "Ich brauche ein Visum." },
+      "en": { "word": "visa", "plural": "visas", "example": "I need a visa." },
+      "image_id": "img_travel_visa"
+    },
+    {
+      "concept_id": "travel_005_luggage",
+      "ar": { "word": "أمتعة", "vocalized": "أَمْتِعَة", "gender": "f", "plural": "أَمْتِعَة", "example": "أَمْتِعَتِي جَاهِزَةٌ لِلسَّفَرِ." },
+      "de": { "article": "das", "word": "Gepäck", "plural": "Gepäck", "example": "Mein Gepäck ist fertig." },
+      "en": { "word": "luggage", "plural": "luggages", "example": "My luggage is ready." },
+      "image_id": "img_travel_luggage"
+    },
+    {
+      "concept_id": "travel_006_suitcase",
+      "ar": { "word": "حقيبة سفر", "vocalized": "حَقِيبَةُ سَفَرٍ", "gender": "f", "plural": "حَقَائِبُ سَفَرٍ", "example": "الحَقِيبَةُ ثَقِيلَةٌ جِدًّا." },
+      "de": { "article": "der", "word": "Koffer", "plural": "Koffer", "example": "Der Koffer ist sehr schwer." },
+      "en": { "word": "suitcase", "plural": "suitcases", "example": "The suitcase is very heavy." },
+      "image_id": "img_travel_suitcase"
+    },
+    {
+      "concept_id": "travel_007_flight",
+      "ar": { "word": "رحلة طيران", "vocalized": "رِحْلَةُ طَيَرَانٍ", "gender": "f", "plural": "رِحْلَاتُ طَيَرَانٍ", "example": "رِحْلَةُ الطَّيَرَانِ فِي المَوْعِدِ." },
+      "de": { "article": "der", "word": "Flug", "plural": "Flüge", "example": "Der Flug ist pünktlich." },
+      "en": { "word": "flight", "plural": "flights", "example": "The flight is on time." },
+      "image_id": "img_travel_flight"
+    },
+    {
+      "concept_id": "travel_008_boarding_pass",
+      "ar": { "word": "بطاقة صعود", "vocalized": "بِطَاقَةُ صُعُودٍ", "gender": "f", "plural": "بِطَاقَاتُ صُعُودٍ", "example": "أُظْهِرُ بِطَاقَةَ الصُّعُودِ." },
+      "de": { "article": "die", "word": "Bordkarte", "plural": "Bordkarten", "example": "Ich zeige die Bordkarte." },
+      "en": { "word": "boarding pass", "plural": "boarding passes", "example": "I show the boarding pass." },
+      "image_id": "img_travel_boarding"
+    },
+    {
+      "concept_id": "travel_009_reception",
+      "ar": { "word": "استقبال", "vocalized": "اِسْتِقْبَال", "gender": "m", "plural": "اِسْتِقْبَالَات", "example": "أَسْتَلِمُ المِفْتَاحَ مِنَ الاِسْتِقْبَالِ." },
+      "de": { "article": "die", "word": "Rezeption", "plural": "Rezeptionen", "example": "Ich hole den Schlüssel an der Rezeption." },
+      "en": { "word": "reception", "plural": "receptions", "example": "I get the key at reception." },
+      "image_id": "img_travel_reception"
+    },
+    {
+      "concept_id": "travel_010_reservation",
+      "ar": { "word": "حجز", "vocalized": "حَجْز", "gender": "m", "plural": "حُجُوزَات", "example": "لَدَيَّ حَجْزٌ فُنْدُقِيٌّ." },
+      "de": { "article": "die", "word": "Reservierung", "plural": "Reservierungen", "example": "Ich habe eine Reservierung." },
+      "en": { "word": "reservation", "plural": "reservations", "example": "I have a reservation." },
+      "image_id": "img_travel_booking"
+    },
+    {
+      "concept_id": "travel_011_single_room",
+      "ar": { "word": "غرفة مفردة", "vocalized": "غُرْفَةٌ مُفْرَدَةٌ", "gender": "f", "plural": "غُرَفٌ مُفْرَدَةٌ", "example": "أُفَضِّلُ غُرْفَةً مُفْرَدَةً." },
+      "de": { "article": "das", "word": "Einzelzimmer", "plural": "Einzelzimmer", "example": "Ich möchte ein Einzelzimmer." },
+      "en": { "word": "single room", "plural": "single rooms", "example": "I would like a single room." },
+      "image_id": "img_travel_single_room"
+    },
+    {
+      "concept_id": "travel_012_double_room",
+      "ar": { "word": "غرفة مزدوجة", "vocalized": "غُرْفَةٌ مُزْدَوَجَةٌ", "gender": "f", "plural": "غُرَفٌ مُزْدَوَجَةٌ", "example": "حَجَزْنَا غُرْفَةً مُزْدَوَجَةً." },
+      "de": { "article": "das", "word": "Doppelzimmer", "plural": "Doppelzimmer", "example": "Wir haben ein Doppelzimmer gebucht." },
+      "en": { "word": "double room", "plural": "double rooms", "example": "We booked a double room." },
+      "image_id": "img_travel_double_room"
+    },
+    {
+      "concept_id": "travel_013_keycard",
+      "ar": { "word": "بطاقة مفتاح", "vocalized": "بِطَاقَةُ مِفْتَاحٍ", "gender": "f", "plural": "بِطَاقَاتُ مَفَاتِيح", "example": "افْتَحِ البَابَ بِالبِطَاقَةِ." },
+      "de": { "article": "die", "word": "Schlüsselkarte", "plural": "Schlüsselkarten", "example": "Öffne die Tür mit der Schlüsselkarte." },
+      "en": { "word": "keycard", "plural": "keycards", "example": "Open the door with the keycard." },
+      "image_id": "img_travel_keycard"
+    },
+    {
+      "concept_id": "travel_014_tourist",
+      "ar": { "word": "سائح", "vocalized": "سَائِح", "gender": "m", "plural": "سُيَّاح", "example": "السَّائِحُ يَزُورُ المَدِينَةَ." },
+      "de": { "article": "der", "word": "Tourist", "plural": "Touristen", "example": "Der Tourist besucht die Stadt." },
+      "en": { "word": "tourist", "plural": "tourists", "example": "The tourist visits the city." },
+      "image_id": "img_travel_tourist"
+    },
+    {
+      "concept_id": "travel_015_guide",
+      "ar": { "word": "مرشد سياحي", "vocalized": "مُرْشِدٌ سِيَاحِيٌّ", "gender": "m", "plural": "مُرْشِدُونَ سِيَاحِيُّون", "example": "المُرْشِدُ يَشْرَحُ المَعَالِمَ." },
+      "de": { "article": "der", "word": "Reiseleiter", "plural": "Reiseleiter", "example": "Der Reiseleiter erklärt die Sehenswürdigkeiten." },
+      "en": { "word": "tour guide", "plural": "tour guides", "example": "The tour guide explains the sights." },
+      "image_id": "img_travel_guide"
+    },
+    {
+      "concept_id": "travel_016_map",
+      "ar": { "word": "خريطة", "vocalized": "خَرِيطَة", "gender": "f", "plural": "خَرَائِط", "example": "أَنْظُرُ إِلَى خَرِيطَةِ المَدِينَةِ." },
+      "de": { "article": "die", "word": "Karte", "plural": "Karten", "example": "Ich schaue auf die Karte." },
+      "en": { "word": "map", "plural": "maps", "example": "I look at the map." },
+      "image_id": "img_travel_map"
+    },
+    {
+      "concept_id": "travel_017_beach",
+      "ar": { "word": "شاطئ", "vocalized": "شَاطِئ", "gender": "m", "plural": "شَوَاطِئ", "example": "أَجْلِسُ عَلَى الشَّاطِئِ." },
+      "de": { "article": "der", "word": "Strand", "plural": "Strände", "example": "Ich sitze am Strand." },
+      "en": { "word": "beach", "plural": "beaches", "example": "I sit on the beach." },
+      "image_id": "img_travel_beach"
+    },
+    {
+      "concept_id": "travel_018_island",
+      "ar": { "word": "جزيرة", "vocalized": "جَزِيرَة", "gender": "f", "plural": "جُزُر", "example": "سَافَرْنَا إِلَى جَزِيرَةٍ جَمِيلَةٍ." },
+      "de": { "article": "die", "word": "Insel", "plural": "Inseln", "example": "Wir sind auf eine schöne Insel gereist." },
+      "en": { "word": "island", "plural": "islands", "example": "We traveled to a beautiful island." },
+      "image_id": "img_travel_island"
+    },
+    {
+      "concept_id": "travel_019_border",
+      "ar": { "word": "حدود", "vocalized": "حُدُود", "gender": "f", "plural": "حُدُود", "example": "عَبَرْنَا الحُدُودَ بِأَمَانٍ." },
+      "de": { "article": "die", "word": "Grenze", "plural": "Grenzen", "example": "Wir haben die Grenze überquert." },
+      "en": { "word": "border", "plural": "borders", "example": "We crossed the border safely." },
+      "image_id": "img_travel_border"
+    },
+    {
+      "concept_id": "travel_020_currency_exchange",
+      "ar": { "word": "صرافة", "vocalized": "صِرَافَة", "gender": "f", "plural": "صِرَافَات", "example": "أُحَوِّلُ النُّقُودَ فِي الصِّرَافَةِ." },
+      "de": { "article": "der", "word": "Geldwechsel", "plural": "Geldwechsel", "example": "Ich wechsle Geld bei der Wechselstube." },
+      "en": { "word": "exchange", "plural": "exchanges", "example": "I exchange money at the exchange." },
+      "image_id": "img_travel_exchange"
+    },
+    {
+      "concept_id": "travel_021_souvenir",
+      "ar": { "word": "تذكار", "vocalized": "تِذْكَار", "gender": "m", "plural": "تِذْكَارَات", "example": "اشْتَرَيْتُ تِذْكَارًا رَائِعًا." },
+      "de": { "article": "das", "word": "Souvenir", "plural": "Souvenirs", "example": "Ich habe ein Souvenir gekauft." },
+      "en": { "word": "souvenir", "plural": "souvenirs", "example": "I bought a nice souvenir." },
+      "image_id": "img_travel_souvenir"
+    },
+    {
+      "concept_id": "travel_022_camera",
+      "ar": { "word": "كاميرا", "vocalized": "كَامِيرَا", "gender": "f", "plural": "كَامِيرَات", "example": "أَلْتَقِطُ صُوَرًا بِالكَامِيرَا." },
+      "de": { "article": "die", "word": "Kamera", "plural": "Kameras", "example": "Ich mache Fotos mit der Kamera." },
+      "en": { "word": "camera", "plural": "cameras", "example": "I take photos with the camera." },
+      "image_id": "img_travel_camera"
+    },
+    {
+      "concept_id": "travel_023_restaurant",
+      "ar": { "word": "مطعم", "vocalized": "مَطْعَم", "gender": "m", "plural": "مَطَاعِم", "example": "نَأْكُلُ فِي مَطْعَمٍ مُمَيَّزٍ." },
+      "de": { "article": "das", "word": "Restaurant", "plural": "Restaurants", "example": "Wir essen in einem Restaurant." },
+      "en": { "word": "restaurant", "plural": "restaurants", "example": "We eat at a restaurant." },
+      "image_id": "img_travel_restaurant"
+    },
+    {
+      "concept_id": "travel_024_bill",
+      "ar": { "word": "فاتورة", "vocalized": "فَاتُورَة", "gender": "f", "plural": "فَوَاتِير", "example": "الحِسَابُ مِنْ فَضْلِكَ." },
+      "de": { "article": "die", "word": "Rechnung", "plural": "Rechnungen", "example": "Die Rechnung, bitte." },
+      "en": { "word": "bill", "plural": "bills", "example": "The bill, please." },
+      "image_id": "img_travel_bill"
+    },
+    {
+      "concept_id": "travel_025_trip",
+      "ar": { "word": "رحلة", "vocalized": "رِحْلَة", "gender": "f", "plural": "رِحْلَات", "example": "قُمْنَا بِرِحْلَةٍ مُمْتِعَةٍ." },
+      "de": { "article": "der", "word": "Ausflug", "plural": "Ausflüge", "example": "Wir haben einen schönen Ausflug gemacht." },
+      "en": { "word": "trip", "plural": "trips", "example": "We went on a nice trip." },
+      "image_id": "img_travel_trip"
+    }
+  ]
+}
