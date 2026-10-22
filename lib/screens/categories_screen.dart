@@ -29,7 +29,8 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
   }
 
   Future<void> _loadAll() async {
-    await _repository.loadAllActiveCategories();
+    // Only load verbs on startup for fast initial render.
+    // Categories are loaded lazily on demand (see _openCategory / search).
     try {
       final vString = await rootBundle.loadString('content/verbs/verbs_a1.json');
       final Map<String, dynamic> vData = jsonDecode(vString);
@@ -39,15 +40,35 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
     if (mounted) setState(() => _isLoading = false);
   }
 
-  List<Concept> get _allConcepts {
-    return [
-      ..._repository.getConcepts('family'),
-      ..._repository.getConcepts('food'),
-      ..._repository.getConcepts('home'),
-      ..._repository.getConcepts('clothes'),
-      ..._repository.getConcepts('colors_numbers'),
-      ..._repository.getConcepts('time_calendar'),
-    ];
+  Future<void> _openCategory(String id, String ar, String de, String en, IconData icon, Color color) async {
+    final concepts = await _repository.loadCategory(id);
+    if (!mounted) return;
+    final active = _targetLang == 'de' ? de : en;
+    Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (_) => CategoryDetailScreen(
+          categoryName: '$ar • $active',
+          concepts: concepts,
+          targetLang: _targetLang,
+        ),
+      ),
+    );
+  }
+
+  Future<void> _openSearch() async {
+    final concepts = await _repository.loadAllConcepts();
+    if (!mounted) return;
+    Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (_) => SearchScreen(
+          concepts: concepts,
+          verbs: _verbs,
+          targetLang: _targetLang,
+        ),
+      ),
+    );
   }
 
   @override
@@ -67,18 +88,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
         actions: [
           IconButton(
             icon: const Icon(Icons.search, color: Color(0xFF0F172A)),
-            onPressed: () {
-              Navigator.push(
-                context,
-                MaterialPageRoute(
-                  builder: (_) => SearchScreen(
-                    concepts: _allConcepts,
-                    verbs: _verbs,
-                    targetLang: _targetLang,
-                  ),
-                ),
-              );
-            },
+            onPressed: _openSearch,
           ),
           Padding(
             padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 8),
@@ -175,18 +185,18 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
                 ),
                 const SizedBox(height: 16),
 
-                // الأقسام الستة النشطة
-                _buildCategoryCard('العائلة', 'Familie', 'Family', _repository.getConcepts('family'), Icons.people_outline, const Color(0xFF0284C7)),
+                // الأقسام الستة النشطة – lazy loaded on tap
+                _buildCategoryCard('family', 'العائلة', 'Familie', 'Family', Icons.people_outline, const Color(0xFF0284C7)),
                 const SizedBox(height: 12),
-                _buildCategoryCard('الطعام والشراب', 'Essen & Trinken', 'Food & Drinks', _repository.getConcepts('food'), Icons.restaurant_outlined, const Color(0xFFEA580C)),
+                _buildCategoryCard('food', 'الطعام والشراب', 'Essen & Trinken', 'Food & Drinks', Icons.restaurant_outlined, const Color(0xFFEA580C)),
                 const SizedBox(height: 12),
-                _buildCategoryCard('المنزل والأثاث', 'Zuhause & Möbel', 'Home & Furniture', _repository.getConcepts('home'), Icons.home_outlined, const Color(0xFF7C3AED)),
+                _buildCategoryCard('home', 'المنزل والأثاث', 'Zuhause & Möbel', 'Home & Furniture', Icons.home_outlined, const Color(0xFF7C3AED)),
                 const SizedBox(height: 12),
-                _buildCategoryCard('الملابس والمظهر', 'Kleidung & Aussehen', 'Clothes & Appearance', _repository.getConcepts('clothes'), Icons.checkroom_outlined, const Color(0xFFE11D48)),
+                _buildCategoryCard('clothes', 'الملابس والمظهر', 'Kleidung & Aussehen', 'Clothes & Appearance', Icons.checkroom_outlined, const Color(0xFFE11D48)),
                 const SizedBox(height: 12),
-                _buildCategoryCard('الألوان والأرقام', 'Farben & Zahlen', 'Colors & Numbers', _repository.getConcepts('colors_numbers'), Icons.palette_outlined, const Color(0xFFD97706)),
+                _buildCategoryCard('colors_numbers', 'الألوان والأرقام', 'Farben & Zahlen', 'Colors & Numbers', Icons.palette_outlined, const Color(0xFFD97706)),
                 const SizedBox(height: 12),
-                _buildCategoryCard('الوقت والتقويم', 'Zeit & Kalender', 'Time & Calendar', _repository.getConcepts('time_calendar'), Icons.access_time_outlined, const Color(0xFF0891B2)),
+                _buildCategoryCard('time_calendar', 'الوقت والتقويم', 'Zeit & Kalender', 'Time & Calendar', Icons.access_time_outlined, const Color(0xFF0891B2)),
                 const SizedBox(height: 12),
 
                 // أقسام قادمة
@@ -198,12 +208,11 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
     );
   }
 
-  Widget _buildCategoryCard(String ar, String de, String en, List concepts, IconData icon, Color color) {
+  Widget _buildCategoryCard(String id, String ar, String de, String en, IconData icon, Color color) {
     final String active = _targetLang == 'de' ? de : en;
+    // Count is unknown until loaded; show a generic message to avoid eager load.
     return InkWell(
-      onTap: () {
-        Navigator.push(context, MaterialPageRoute(builder: (_) => CategoryDetailScreen(categoryName: '$ar • $active', concepts: List.from(concepts), targetLang: _targetLang)));
-      },
+      onTap: () => _openCategory(id, ar, de, en, icon, color),
       borderRadius: BorderRadius.circular(16),
       child: Container(
         padding: const EdgeInsets.all(16),
@@ -221,7 +230,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
               child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
                 Text('$ar • $active', style: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold, color: Color(0xFF0F172A))),
                 const SizedBox(height: 4),
-                Text('${concepts.length} مفردة واختبارات جاهزة', style: const TextStyle(fontSize: 13, color: Color(0xFF64748B))),
+                const Text('مفردات واختبارات جاهزة', style: TextStyle(fontSize: 13, color: Color(0xFF64748B))),
               ]),
             ),
             const Icon(Icons.arrow_forward_ios, size: 16, color: Color(0xFF94A3B8)),
