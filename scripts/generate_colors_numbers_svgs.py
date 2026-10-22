@@ -33,17 +33,14 @@ def create_number_svg(path, label):
 with open("content/assets/images_registry.json", "r", encoding="utf-8") as f:
     reg = json.load(f)
 
-# 1. توليد الألوان
 for img_id, (c1, c2) in COLOR_DEFS.items():
     p = f"content/assets/svg/{img_id}.svg"
     create_color_svg(p, c1, c2)
     reg["assets"][img_id] = {"asset_path": p, "format": "svg", "ownership": "Project Original", "license": "CC0-1.0", "size_bytes": os.path.getsize(p)}
 
-# لوحة الألوان
 create_color_svg("content/assets/svg/img_col_palette.svg", "#6366F1", "#4F46E5")
 reg["assets"]["img_col_palette"] = {"asset_path": "content/assets/svg/img_col_palette.svg", "format": "svg", "ownership": "Project Original", "license": "CC0-1.0", "size_bytes": os.path.getsize("content/assets/svg/img_col_palette.svg")}
 
-# 2. توليد الأرقام
 NUM_MAP = [
     ("img_num_0", "0"), ("img_num_1", "1"), ("img_num_2", "2"), ("img_num_3", "3"),
     ("img_num_4", "4"), ("img_num_5", "5"), ("img_num_6", "6"), ("img_num_7", "7"),
