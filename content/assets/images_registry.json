@@ -350,6 +350,111 @@
       "ownership": "Project Original",
       "license": "CC0-1.0",
       "size_bytes": 320
+    },
+    "img_verb_be": {
+      "asset_path": "content/assets/svg/img_verb_be.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 276
+    },
+    "img_verb_have": {
+      "asset_path": "content/assets/svg/img_verb_have.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 309
+    },
+    "img_verb_eat": {
+      "asset_path": "content/assets/svg/img_verb_eat.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 268
+    },
+    "img_verb_drink": {
+      "asset_path": "content/assets/svg/img_verb_drink.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 238
+    },
+    "img_verb_go": {
+      "asset_path": "content/assets/svg/img_verb_go.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 301
+    },
+    "img_verb_come": {
+      "asset_path": "content/assets/svg/img_verb_come.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 278
+    },
+    "img_verb_speak": {
+      "asset_path": "content/assets/svg/img_verb_speak.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 456
+    },
+    "img_verb_learn": {
+      "asset_path": "content/assets/svg/img_verb_learn.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 298
+    },
+    "img_verb_sleep": {
+      "asset_path": "content/assets/svg/img_verb_sleep.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 364
+    },
+    "img_verb_see": {
+      "asset_path": "content/assets/svg/img_verb_see.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 314
+    },
+    "img_verb_hear": {
+      "asset_path": "content/assets/svg/img_verb_hear.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 314
+    },
+    "img_verb_write": {
+      "asset_path": "content/assets/svg/img_verb_write.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 287
+    },
+    "img_verb_read": {
+      "asset_path": "content/assets/svg/img_verb_read.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 332
+    },
+    "img_verb_make": {
+      "asset_path": "content/assets/svg/img_verb_make.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 312
+    },
+    "img_verb_live": {
+      "asset_path": "content/assets/svg/img_verb_live.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 318
     }
   }
 }

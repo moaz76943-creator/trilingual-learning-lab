@@ -1,0 +1,203 @@
+{
+  "category_id": "verbs_a1",
+  "category_name": { "ar": "الأفعال اليومية والتصريفات", "de": "Tägliche Verben", "en": "Daily Verbs" },
+  "level": "A1",
+  "version": 1,
+  "verbs": [
+    {
+      "verb_id": "v_001_sein",
+      "root_ar": "ك-و-ن",
+      "type_de": "irregular",
+      "infinitive": { "ar": "كَانَ - يَكُونُ", "de": "sein", "en": "to be" },
+      "image_id": "img_verb_be",
+      "conjugations": {
+        "de": { "ich": "bin", "du": "bist", "er_sie_es": "ist", "wir": "sind", "ihr": "seid", "sie_Sie": "sind" },
+        "en": { "I": "am", "you": "are", "he_she_it": "is", "we": "are", "they": "are" },
+        "ar": { "أنا": "أَكُونُ", "أنتَ": "تَكُونُ", "أنتِ": "تَكُونِينَ", "هو": "يَكُونُ", "هي": "تَكُونُ", "نحن": "نَكُونُ", "هم": "يَكُونُونَ" }
+      },
+      "examples": { "ar": "أَنَا طَالِبٌ هُنَا.", "de": "Ich bin Student hier.", "en": "I am a student here." }
+    },
+    {
+      "verb_id": "v_002_haben",
+      "root_ar": "م-ل-ك",
+      "type_de": "irregular",
+      "infinitive": { "ar": "مَلَكَ - يَمْلِكُ (عِنْدَ / لَدَى)", "de": "haben", "en": "to have" },
+      "image_id": "img_verb_have",
+      "conjugations": {
+        "de": { "ich": "habe", "du": "hast", "er_sie_es": "hat", "wir": "haben", "ihr": "habt", "sie_Sie": "haben" },
+        "en": { "I": "have", "you": "have", "he_she_it": "has", "we": "have", "they": "have" },
+        "ar": { "أنا": "عِنْدِي", "أنتَ": "عِنْدَكَ", "أنتِ": "عِنْدَكِ", "هو": "عِنْدَهُ", "هي": "عِنْدَهَا", "نحن": "عِنْدَنَا", "هم": "عِنْدَهُمْ" }
+      },
+      "examples": { "ar": "لَدَيَّ سُؤَالٌ مُهِمٌّ.", "de": "Ich habe eine wichtige Frage.", "en": "I have an important question." }
+    },
+    {
+      "verb_id": "v_003_essen",
+      "root_ar": "أ-ك-ل",
+      "type_de": "irregular",
+      "infinitive": { "ar": "أَكَلَ - يَأْكُلُ", "de": "essen", "en": "to eat" },
+      "image_id": "img_verb_eat",
+      "conjugations": {
+        "de": { "ich": "esse", "du": "isst", "er_sie_es": "isst", "wir": "essen", "ihr": "esst", "sie_Sie": "essen" },
+        "en": { "I": "eat", "you": "eat", "he_she_it": "eats", "we": "eat", "they": "eat" },
+        "ar": { "أنا": "آكُلُ", "أنتَ": "تَأْكُلُ", "أنتِ": "تَأْكُلِينَ", "هو": "يَأْكُلُ", "هي": "تَأْكُلُ", "نحن": "نَأْكُلُ", "هم": "يَأْكُلُونَ" }
+      },
+      "examples": { "ar": "نَحْنُ نَأْكُلُ الفُطُورَ مَعًا.", "de": "Wir essen zusammen das Frühstück.", "en": "We eat breakfast together." }
+    },
+    {
+      "verb_id": "v_004_trinken",
+      "root_ar": "ش-ر-ب",
+      "type_de": "regular",
+      "infinitive": { "ar": "شَرِبَ - يَشْرَبُ", "de": "trinken", "en": "to drink" },
+      "image_id": "img_verb_drink",
+      "conjugations": {
+        "de": { "ich": "trinke", "du": "trinkst", "er_sie_es": "trinkt", "wir": "trinken", "ihr": "trinkt", "sie_Sie": "trinken" },
+        "en": { "I": "drink", "you": "drink", "he_she_it": "drinks", "we": "drink", "they": "drink" },
+        "ar": { "أنا": "أَشْرَبُ", "أنتَ": "تَشْرَبُ", "أنتِ": "تَشْرَبِينَ", "هو": "يَشْرَبُ", "هي": "تَشْرَبُ", "نحن": "نَشْرَبُ", "هم": "يَشْرَبُونَ" }
+      },
+      "examples": { "ar": "هُوَ يَشْرَبُ الشَّايَ.", "de": "Er trinkt den Tee.", "en": "He drinks tea." }
+    },
+    {
+      "verb_id": "v_005_gehen",
+      "root_ar": "ذ-ه-ب",
+      "type_de": "regular",
+      "infinitive": { "ar": "ذَهَبَ - يَذْهَبُ", "de": "gehen", "en": "to go" },
+      "image_id": "img_verb_go",
+      "conjugations": {
+        "de": { "ich": "gehe", "du": "gehst", "er_sie_es": "geht", "wir": "gehen", "ihr": "geht", "sie_Sie": "gehen" },
+        "en": { "I": "go", "you": "go", "he_she_it": "goes", "we": "go", "they": "go" },
+        "ar": { "أنا": "أَذْهَبُ", "أنتَ": "تَذْهَبُ", "أنتِ": "تَذْهَبِينَ", "هو": "يَذْهَبُ", "هي": "تَذْهَبُ", "نحن": "نَذْهَبُ", "هم": "يَذْهَبُونَ" }
+      },
+      "examples": { "ar": "أَنَا أَذْهَبُ إِلَى المَدْرَسَةِ.", "de": "Ich gehe zur Schule.", "en": "I go to school." }
+    },
+    {
+      "verb_id": "v_006_kommen",
+      "root_ar": "ق-د-م",
+      "type_de": "regular",
+      "infinitive": { "ar": "جَاءَ - يَجِيءُ (أَتَى)", "de": "kommen", "en": "to come" },
+      "image_id": "img_verb_come",
+      "conjugations": {
+        "de": { "ich": "komme", "du": "kommst", "er_sie_es": "kommt", "wir": "kommen", "ihr": "kommt", "sie_Sie": "kommen" },
+        "en": { "I": "come", "you": "come", "he_she_it": "comes", "we": "come", "they": "come" },
+        "ar": { "أنا": "آتِي", "أنتَ": "تَأْتِي", "أنتِ": "تَأْتِينَ", "هو": "يَأْتِي", "هي": "تَأْتِي", "نحن": "نَأْتِي", "هم": "يَأْتُونَ" }
+      },
+      "examples": { "ar": "مِنْ أَيْنَ أَنْتَ قَادِمٌ؟", "de": "Woher kommst du?", "en": "Where do you come from?" }
+    },
+    {
+      "verb_id": "v_007_sprechen",
+      "root_ar": "ك-ل-م",
+      "type_de": "irregular",
+      "infinitive": { "ar": "تَحَدَّثَ - يَتَحَدَّثُ", "de": "sprechen", "en": "to speak" },
+      "image_id": "img_verb_speak",
+      "conjugations": {
+        "de": { "ich": "spreche", "du": "sprichst", "er_sie_es": "spricht", "wir": "sprechen", "ihr": "sprecht", "sie_Sie": "sprechen" },
+        "en": { "I": "speak", "you": "speak", "he_she_it": "speaks", "we": "speak", "they": "speak" },
+        "ar": { "أنا": "أَتَحَدَّثُ", "أنتَ": "تَتَحَدَّثُ", "أنتِ": "تَتَحَدَّثِينَ", "هو": "يَتَحَدَّثُ", "هي": "تَتَحَدَّثُ", "نحن": "نَتَحَدَّثُ", "هم": "يَتَحَدَّثُونَ" }
+      },
+      "examples": { "ar": "أَتَحَدَّثُ ثَلَاثَ لُغَاتٍ.", "de": "Ich spreche drei Sprachen.", "en": "I speak three languages." }
+    },
+    {
+      "verb_id": "v_008_lernen",
+      "root_ar": "ع-ل-م",
+      "type_de": "regular",
+      "infinitive": { "ar": "تَعَلَّمَ - يَتَعَلَّمُ", "de": "lernen", "en": "to learn" },
+      "image_id": "img_verb_learn",
+      "conjugations": {
+        "de": { "ich": "lerne", "du": "lernst", "er_sie_es": "lernt", "wir": "lernen", "ihr": "lernt", "sie_Sie": "lernen" },
+        "en": { "I": "learn", "you": "learn", "he_she_it": "learns", "we": "learn", "they": "learn" },
+        "ar": { "أنا": "أَتَعَلَّمُ", "أنتَ": "تَتَعَلَّمُ", "أنتِ": "تَتَعَلَّمِينَ", "هو": "يَتَعَلَّمُ", "هي": "تَتَعَلَّمُ", "نحن": "نَتَعَلَّمُ", "هم": "يَتَعَلَّمُونَ" }
+      },
+      "examples": { "ar": "أَتَعَلَّمُ الأَلْمَانِيَّةَ بِحَمَاسٍ.", "de": "Ich lerne Deutsch mit Begeisterung.", "en": "I learn German with enthusiasm." }
+    },
+    {
+      "verb_id": "v_009_schlafen",
+      "root_ar": "ن-و-م",
+      "type_de": "irregular",
+      "infinitive": { "ar": "نَامَ - يَنَامُ", "de": "schlafen", "en": "to sleep" },
+      "image_id": "img_verb_sleep",
+      "conjugations": {
+        "de": { "ich": "schlafe", "du": "schläfst", "er_sie_es": "schläft", "wir": "schlafen", "ihr": "schlaft", "sie_Sie": "schlafen" },
+        "en": { "I": "sleep", "you": "sleep", "he_she_it": "sleeps", "we": "sleep", "they": "sleep" },
+        "ar": { "أنا": "أَنَامُ", "أنتَ": "تَنَامُ", "أنتِ": "تَنَامِينَ", "هو": "يَنَامُ", "هي": "تَنَامُ", "نحن": "نَنَامُ", "هم": "يَنَامُونَ" }
+      },
+      "examples": { "ar": "الطِّفْلُ يَنَامُ بَاكِرًا.", "de": "Das Kind schläft früh.", "en": "The child sleeps early." }
+    },
+    {
+      "verb_id": "v_010_sehen",
+      "root_ar": "ر-أ-ي",
+      "type_de": "irregular",
+      "infinitive": { "ar": "رَأَى - يَرَى", "de": "sehen", "en": "to see" },
+      "image_id": "img_verb_see",
+      "conjugations": {
+        "de": { "ich": "sehe", "du": "siehst", "er_sie_es": "sieht", "wir": "sehen", "ihr": "seht", "sie_Sie": "sehen" },
+        "en": { "I": "see", "you": "see", "he_she_it": "sees", "we": "see", "they": "see" },
+        "ar": { "أنا": "أَرَى", "أنتَ": "تَرَى", "أنتِ": "تَرَيْنَ", "هو": "يَرَى", "هي": "تَرَى", "نحن": "نَرَى", "هم": "يَرَوْنَ" }
+      },
+      "examples": { "ar": "أَرَى المَنْظَرَ الجَمِيلَ.", "de": "Ich sehe die schöne Aussicht.", "en": "I see the beautiful view." }
+    },
+    {
+      "verb_id": "v_011_hoeren",
+      "root_ar": "س-م-ع",
+      "type_de": "regular",
+      "infinitive": { "ar": "سَمِعَ - يَسْمَعُ", "de": "hören", "en": "to hear" },
+      "image_id": "img_verb_hear",
+      "conjugations": {
+        "de": { "ich": "höre", "du": "hörst", "er_sie_es": "hört", "wir": "hören", "ihr": "hört", "sie_Sie": "hören" },
+        "en": { "I": "hear", "you": "hear", "he_she_it": "hears", "we": "hear", "they": "hear" },
+        "ar": { "أنا": "أَسْمَعُ", "أنتَ": "تَسْمَعُ", "أنتِ": "تَسْمَعِينَ", "هو": "يَسْمَعُ", "هي": "تَسْمَعُ", "نحن": "نَسْمَعُ", "هم": "يَسْمَعُونَ" }
+      },
+      "examples": { "ar": "أَسْمَعُ الصَّوْتَ بِوُضُوحٍ.", "de": "Ich höre die Stimme deutlich.", "en": "I hear the voice clearly." }
+    },
+    {
+      "verb_id": "v_012_schreiben",
+      "root_ar": "ك-ت-ب",
+      "type_de": "regular",
+      "infinitive": { "ar": "كَتَبَ - يَكْتُبُ", "de": "schreiben", "en": "to write" },
+      "image_id": "img_verb_write",
+      "conjugations": {
+        "de": { "ich": "schreibe", "du": "schreibst", "er_sie_es": "schreibt", "wir": "schreiben", "ihr": "schreibt", "sie_Sie": "schreiben" },
+        "en": { "I": "write", "you": "write", "he_she_it": "writes", "we": "write", "they": "write" },
+        "ar": { "أنا": "أَكْتُبُ", "أنتَ": "تَكْتُبُ", "أنتِ": "تَكْتُبِينَ", "هو": "يَكْتُبُ", "هي": "تَكْتُبُ", "نحن": "نَكْتُبُ", "هم": "يَكْتُبُونَ" }
+      },
+      "examples": { "ar": "أَكْتُبُ رِسَالَةً لِصَدِيقِي.", "de": "Ich schreibe einen Brief an meinen Freund.", "en": "I write a letter to my friend." }
+    },
+    {
+      "verb_id": "v_013_lesen",
+      "root_ar": "ق-ر-أ",
+      "type_de": "irregular",
+      "infinitive": { "ar": "قَرَأَ - يَقْرَأُ", "de": "lesen", "en": "to read" },
+      "image_id": "img_verb_read",
+      "conjugations": {
+        "de": { "ich": "lese", "du": "liest", "er_sie_es": "liest", "wir": "lesen", "ihr": "lest", "sie_Sie": "lesen" },
+        "en": { "I": "read", "you": "read", "he_she_it": "reads", "we": "read", "they": "read" },
+        "ar": { "أنا": "أَقْرَأُ", "أنتَ": "تَقْرَأُ", "أنتِ": "تَقْرَئِينَ", "هو": "يَقْرَأُ", "هي": "تَقْرَأُ", "نحن": "نَقْرَأُ", "هم": "يَقْرَءُونَ" }
+      },
+      "examples": { "ar": "أَقْرَأُ كِتَابًا مُمْتِعًا.", "de": "Ich lese ein interessantes Buch.", "en": "I read an interesting book." }
+    },
+    {
+      "verb_id": "v_014_machen",
+      "root_ar": "ف-ع-ل",
+      "type_de": "regular",
+      "infinitive": { "ar": "فَعَلَ - يَفْعَلُ (عَمِلَ)", "de": "machen", "en": "to do / make" },
+      "image_id": "img_verb_make",
+      "conjugations": {
+        "de": { "ich": "mache", "du": "machst", "er_sie_es": "macht", "wir": "machen", "ihr": "macht", "sie_Sie": "machen" },
+        "en": { "I": "do", "you": "do", "he_she_it": "does", "we": "do", "they": "do" },
+        "ar": { "أنا": "أَفْعَلُ", "أنتَ": "تَفْعَلُ", "أنتِ": "تَفْعَلِينَ", "هو": "يَفْعَلُ", "هي": "تَفْعَلُ", "نحن": "نَفْعَلُ", "هم": "يَفْعَلُونَ" }
+      },
+      "examples": { "ar": "مَاذَا تَفْعَلُ اليَوْمَ؟", "de": "Was machst du heute?", "en": "What are you doing today?" }
+    },
+    {
+      "verb_id": "v_015_wohnen",
+      "root_ar": "س-ك-ن",
+      "type_de": "regular",
+      "infinitive": { "ar": "سَكَنَ - يَسْكُنُ", "de": "wohnen", "en": "to live / reside" },
+      "image_id": "img_verb_live",
+      "conjugations": {
+        "de": { "ich": "wohne", "du": "wohnst", "er_sie_es": "wohnt", "wir": "wohnen", "ihr": "wohnt", "sie_Sie": "wohnen" },
+        "en": { "I": "live", "you": "live", "he_she_it": "lives", "we": "live", "they": "live" },
+        "ar": { "أنا": "أَسْكُنُ", "أنتَ": "تَسْكُنُ", "أنتِ": "تَسْكُنِينَ", "هو": "يَسْكُنُ", "هي": "تَسْكُنُ", "نحن": "نَسْكُنُ", "هم": "يَسْكُنُونَ" }
+      },
+      "examples": { "ar": "أَسْكُنُ فِي مَدِينَةٍ كَبِيرَةٍ.", "de": "Ich wohne in einer großen Stadt.", "en": "I live in a big city." }
+    }
+  ]
+}
