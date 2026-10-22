@@ -1,11 +1,11 @@
 import json, glob, sys, os
 
 def validate_all():
-    # 1. فحص الأصول المسجلة (340 صورة SVG)
+    # 1. فحص الأصول المسجلة (345 صورة SVG)
     with open("content/assets/images_registry.json", "r", encoding="utf-8") as f:
         reg = json.load(f)
     assets = reg.get("assets", {})
-    assert len(assets) >= 340, f"Expected at least 340 assets, found {len(assets)}"
+    assert len(assets) >= 345, f"Expected at least 345 assets, found {len(assets)}"
 
     for img_id, meta in assets.items():
         p = meta["asset_path"]
@@ -36,9 +36,19 @@ def validate_all():
     preps = pdata.get("prepositions", [])
     assert len(preps) >= 20, f"Expected 20 prepositions, found {len(preps)}"
 
-    print(f"PASS: 12 active categories validated ({v_total} concepts).")
+    # 6. فحص المحادثات اليومية (5 مواقف حوارية كاملة)
+    with open("content/dialogues/dialogues_a1.json", "r", encoding="utf-8") as f:
+        ddata = json.load(f)
+    dials = ddata.get("dialogues", [])
+    assert len(dials) >= 5, f"Expected 5 dialogues, found {len(dials)}"
+    for d in dials:
+        assert len(d["lines"]) >= 6, f"Dialogue {d['id']} has fewer than 6 lines"
+        assert d["image_id"] in assets
+
+    print(f"PASS: 12 active vocabulary categories validated ({v_total} concepts).")
     print(f"PASS: 15 comprehensive verbs and 20 sentence builder exercises validated.")
-    print(f"PASS: 20 prepositions with case rules (Wechsel/Dativ/Akkusativ) validated.")
+    print(f"PASS: 20 prepositions with case rules validated.")
+    print(f"PASS: 5 situational dialogues with 30+ interactive turns validated.")
     print(f"PASS: Total {len(assets)} vector SVG assets verified on disk.")
 
 if __name__ == "__main__":

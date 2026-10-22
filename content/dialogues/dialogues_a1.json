@@ -1,0 +1,77 @@
+{
+  "category_id": "dialogues_a1",
+  "title": { "ar": "المحادثات اليومية والمواقف الواقعية", "de": "Alltagsdialoge A1", "en": "Daily Dialogues A1" },
+  "version": 1,
+  "dialogues": [
+    {
+      "id": "dial_001_meeting",
+      "image_id": "img_dial_meeting",
+      "title": { "ar": "التعارف واللقاء الأول", "de": "Kennenlernen & Begrüßung", "en": "Meeting & Greetings" },
+      "situation": { "ar": "شخصان يتعرفان على بعضهما في دورة لغة.", "de": "Zwei Personen lernen sich im Sprachkurs kennen.", "en": "Two people meet in a language course." },
+      "lines": [
+        { "speaker": "A", "name": "Omar", "de": "Hallo! Wie heißt du?", "en": "Hello! What is your name?", "ar": "مَرْحَبًا! مَا اسْمُكَ؟" },
+        { "speaker": "B", "name": "Lukas", "de": "Hallo! Ich heiße Lukas, und du?", "en": "Hello! My name is Lukas, and you?", "ar": "أَهْلًا! اسْمِي لُوكَاس، وأَنْتَ؟" },
+        { "speaker": "A", "name": "Omar", "de": "Ich bin Omar. Woher kommst du, Lukas?", "en": "I am Omar. Where do you come from, Lukas?", "ar": "أَنَا عُمَر. مِنْ أَيْنَ أَنْتَ يَا لُوكَاس؟" },
+        { "speaker": "B", "name": "Lukas", "de": "Ich komme aus Deutschland, und du?", "en": "I come from Germany, and you?", "ar": "أَنَا قَادِمٌ مِنْ أَلْمَانِيَا، وأَنْتَ؟" },
+        { "speaker": "A", "name": "Omar", "de": "Ich komme aus Ägypten. Ich lerne hier Deutsch.", "en": "I come from Egypt. I learn German here.", "ar": "أَنَا مِنْ مِصْرَ. أَتَعَلَّمُ هُنَا الأَلْمَانِيَّةَ." },
+        { "speaker": "B", "name": "Lukas", "de": "Sehr schön! Freut mich, dich kennenzulernen.", "en": "Very nice! Pleased to meet you.", "ar": "جَمِيلٌ جِدًّا! تَشَرَّفْتُ بِمَعْرِفَتِكَ." }
+      ]
+    },
+    {
+      "id": "dial_002_cafe",
+      "image_id": "img_dial_cafe",
+      "title": { "ar": "في المقهى وطلب المشروبات", "de": "Im Café bestellen", "en": "Ordering at the Café" },
+      "situation": { "ar": "زبون يطلب قهوة وحلوى في المقهى.", "de": "Ein Gast bestellt Kaffee und Kuchen im Café.", "en": "A guest orders coffee and cake at the café." },
+      "lines": [
+        { "speaker": "A", "name": "Kellner", "de": "Guten Tag! Was möchten Sie bestellen?", "en": "Good day! What would you like to order?", "ar": "طَابَ يَوْمُكَ! مَاذَا تُحِبُّ أَنْ تَطْلُبَ؟" },
+        { "speaker": "B", "name": "Gast", "de": "Guten Tag! Ich möchte bitte einen Kaffee mit Milch.", "en": "Good day! I would like a coffee with milk, please.", "ar": "طَابَ يَوْمُكَ! أُرِيدُ قَهْوَةً مَعَ الحَلِيبِ مِنْ فَضْلِكَ." },
+        { "speaker": "A", "name": "Kellner", "de": "Gerne. Möchten Sie auch etwas essen?", "en": "With pleasure. Would you like something to eat too?", "ar": "بِكُلِّ سُرُورٍ. هَلْ تَرْغَبُ فِي تَنَاوُلِ شَيْءٍ أَيْضًا؟" },
+        { "speaker": "B", "name": "Gast", "de": "Ja, bitte ein Stück Apfelkuchen.", "en": "Yes, a piece of apple cake, please.", "ar": "نَعَمْ، قِطْعَةً مِنْ كَعْكَةِ التُّفَّاحِ لَوْ سَمَحْتَ." },
+        { "speaker": "B", "name": "Gast", "de": "Entschuldigung, was kostet das zusammen?", "en": "Excuse me, how much is that together?", "ar": "عَفْوًا، كَمِ الحِسَابُ مَعًا؟" },
+        { "speaker": "A", "name": "Kellner", "de": "Das macht zusammen sechs Euro, bitte.", "en": "That is six euros altogether, please.", "ar": "المَجْمُوعُ سِتَّةُ يُورُو، مِنْ فَضْلِكَ." }
+      ]
+    },
+    {
+      "id": "dial_003_supermarket",
+      "image_id": "img_dial_supermarket",
+      "title": { "ar": "في السوبرماركت والتسوق", "de": "Im Supermarkt einkaufen", "en": "Shopping at the Supermarket" },
+      "situation": { "ar": "مشتري يسأل موظف السوبرماركت عن مكان الأرز.", "de": "Ein Kunde fragt nach dem Reis im Supermarkt.", "en": "A customer asks for rice in the supermarket." },
+      "lines": [
+        { "speaker": "A", "name": "Kunde", "de": "Entschuldigung, wo finde ich den Reis?", "en": "Excuse me, where can I find the rice?", "ar": "مَعْذِرَةً، أَيْنَ أَجِدُ الأُرْزَ؟" },
+        { "speaker": "B", "name": "Verkäufer", "de": "Der Reis ist in Gang drei, rechts neben dem Brot.", "en": "The rice is in aisle three, on the right next to the bread.", "ar": "الأُرْزُ فِي المَمَرِّ الثَّالِثِ، عَلَى اليَمِينِ بِجَانِبِ الخُبْزِ." },
+        { "speaker": "A", "name": "Kunde", "de": "Vielen Dank! Haben Sie auch frische Tomaten?", "en": "Thank you very much! Do you also have fresh tomatoes?", "ar": "شُكْرًا جَزِيلًا! هَلْ لَدَيْكُمْ أَيْضًا طَمَاطِمُ طَازَجَةٌ؟" },
+        { "speaker": "B", "name": "Verkäufer", "de": "Ja, das Gemüse ist vorne am Eingang.", "en": "Yes, the vegetables are at the front by the entrance.", "ar": "نَعَمْ، الخُضْرَاوَاتُ فِي الأَمَامِ عِنْدَ المَدْخَلِ." },
+        { "speaker": "A", "name": "Kunde", "de": "Perfekt, danke für Ihre Hilfe!", "en": "Perfect, thanks for your help!", "ar": "مُمْتَازٌ، شُكْرًا لِمُسَاعَدَتِكَ!" },
+        { "speaker": "B", "name": "Verkäufer", "de": "Sehr gerne! Einen schönen Tag noch.", "en": "You are welcome! Have a nice day.", "ar": "عَلَى الرَّحْبِ والسَّعَةِ! يَوْمًا طَيِّبًا لَكَ." }
+      ]
+    },
+    {
+      "id": "dial_004_directions",
+      "image_id": "img_dial_directions",
+      "title": { "ar": "السؤال عن الطريق والاتجاهات", "de": "Nach dem Weg fragen", "en": "Asking for Directions" },
+      "situation": { "ar": "سائح يسأل شخصًا في الشارع عن محطة القطار.", "de": "Ein Tourist fragt auf der Straße nach dem Bahnhof.", "en": "A tourist asks on the street for the station." },
+      "lines": [
+        { "speaker": "A", "name": "Tourist", "de": "Entschuldigung, wie komme ich zum Bahnhof?", "en": "Excuse me, how do I get to the station?", "ar": "مَعْذِرَةً، كَيْفَ أَصِلُ إِلَى المَحَطَّةِ؟" },
+        { "speaker": "B", "name": "Passant", "de": "Gehen Sie geradeaus und dann nach links.", "en": "Go straight ahead and then to the left.", "ar": "امْشِ إِلَى الأَمَامِ مُبَاشَرَةً ثُمَّ إِلَى اليَسَارِ." },
+        { "speaker": "A", "name": "Tourist", "de": "Ist der Bahnhof weit von hier?", "en": "Is the station far from here?", "ar": "هَلِ المَحَطَّةُ بَعِيدَةٌ مِنْ هُنَا؟" },
+        { "speaker": "B", "name": "Passant", "de": "Nein, nur fünf Minuten zu Fuß.", "en": "No, only five minutes on foot.", "ar": "لَا، فَقَطْ خَمْسُ دَقَائِقَ مَشْيًا عَلَى الأَقْدَامِ." },
+        { "speaker": "A", "name": "Tourist", "de": "Vielen Dank für die Auskunft!", "en": "Thank you very much for the information!", "ar": "شُكْرًا جَزِيلًا لَكَ عَلَى المَعْلُومَةِ!" },
+        { "speaker": "B", "name": "Passant", "de": "Kein Problem, gute Reise!", "en": "No problem, have a good journey!", "ar": "لَا مُشْكِلَةَ، رِحْلَةً سَعِيدَةً!" }
+      ]
+    },
+    {
+      "id": "dial_005_hotel",
+      "image_id": "img_dial_hotel",
+      "title": { "ar": "تسجيل الوصول في الفندق", "de": "Einchecken im Hotel", "en": "Checking in at the Hotel" },
+      "situation": { "ar": "نزيل يصل للاستقبال لاستلام مفتاح غرفته.", "de": "Ein Gast checkt an der Rezeption ein.", "en": "A guest checks in at the reception." },
+      "lines": [
+        { "speaker": "A", "name": "Rezeptionist", "de": "Guten Abend! Willkommen im Hotel.", "en": "Good evening! Welcome to the hotel.", "ar": "مَسَاءُ الخَيْرِ! أَهْلًا بِكَ فِي الفُنْدُقِ." },
+        { "speaker": "B", "name": "Gast", "de": "Guten Abend! Ich habe eine Reservierung auf den Namen Miller.", "en": "Good evening! I have a reservation under the name Miller.", "ar": "مَسَاءُ الخَيْرِ! لَدَيَّ حَجْزٌ بِاسْمِ مِيلَر." },
+        { "speaker": "A", "name": "Rezeptionist", "de": "Ja, genau. Ein Doppelzimmer für drei Nächte.", "en": "Yes, exactly. A double room for three nights.", "ar": "نَعَمْ، تَمَامًا. غُرْفَةٌ مُزْدَوَجَةٌ لِثَلَاثِ لَيَالٍ." },
+        { "speaker": "B", "name": "Gast", "de": "Richtig. Wann gibt es Frühstück?", "en": "Right. When is breakfast served?", "ar": "صَحِيحٌ. مَتَى يُقَدَّمُ الإِفْطَارُ؟" },
+        { "speaker": "A", "name": "Rezeptionist", "de": "Das Frühstück ist von sieben bis zehn Uhr. Hier ist Ihre Schlüsselkarte.", "en": "Breakfast is from 7 to 10 o'clock. Here is your keycard.", "ar": "الإِفْطَارُ مِنْ السَّابِعَةِ حَتَّى العَاشِرَةِ. تَفَضَّلْ بِطَاقَةَ المِفْتَاحِ." },
+        { "speaker": "B", "name": "Gast", "de": "Vielen Dank und schönen Abend!", "en": "Thank you very much and have a nice evening!", "ar": "شُكْرًا جَزِيلًا ومَسَاءً سَعِيدًا لَكَ!" }
+      ]
+    }
+  ]
+}

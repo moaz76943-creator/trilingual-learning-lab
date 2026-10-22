@@ -8,6 +8,7 @@ import 'category_detail_screen.dart';
 import 'verbs_screen.dart';
 import 'sentence_builder_screen.dart';
 import 'prepositions_screen.dart';
+import 'dialogues_screen.dart';
 import 'search_screen.dart';
 
 class CategoriesScreen extends StatefulWidget {
@@ -68,7 +69,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: const [
             Text('Trilingual Lab', style: TextStyle(color: Color(0xFF0F172A), fontSize: 18, fontWeight: FontWeight.bold)),
-            Text('A1 Foundation • 305 مفردات + 15 فعلًا + 20 حرف جر', style: TextStyle(color: Color(0xFF64748B), fontSize: 11)),
+            Text('A1 Foundation • 305 مفردات + 15 فعلًا + 5 محادثات', style: TextStyle(color: Color(0xFF64748B), fontSize: 11)),
           ],
         ),
         actions: [
@@ -106,7 +107,40 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
           : ListView(
               padding: const EdgeInsets.all(16),
               children: [
-                // 1. تمرين بناء الجمل
+                // 1. بطاقة المحادثات اليومية وحوارات المواقف (الجديدة)
+                InkWell(
+                  onTap: () {
+                    Navigator.push(context, MaterialPageRoute(builder: (_) => DialoguesScreen(targetLang: _targetLang)));
+                  },
+                  borderRadius: BorderRadius.circular(16),
+                  child: Container(
+                    padding: const EdgeInsets.all(14),
+                    decoration: BoxDecoration(
+                      gradient: const LinearGradient(colors: [Color(0xFF8B5CF6), Color(0xFF6D28D9)]),
+                      borderRadius: BorderRadius.circular(16),
+                      boxShadow: [BoxShadow(color: const Color(0xFF8B5CF6).withOpacity(0.3), blurRadius: 8, offset: const Offset(0, 3))],
+                    ),
+                    child: Row(
+                      children: [
+                        Container(padding: const EdgeInsets.all(10), decoration: BoxDecoration(color: Colors.white.withOpacity(0.2), borderRadius: BorderRadius.circular(12)), child: const Icon(Icons.forum_outlined, color: Colors.white, size: 26)),
+                        const SizedBox(width: 14),
+                        Expanded(
+                          child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: const [
+                              Text('المحادثات وحوارات المواقف 💬', style: TextStyle(fontSize: 15, fontWeight: FontWeight.bold, color: Colors.white)),
+                              Text('5 حوارات واقعية تفاعلية للتعارف والمطعم والفندق', style: TextStyle(fontSize: 11, color: Color(0xFFEDE9FE))),
+                            ],
+                          ),
+                        ),
+                        const Icon(Icons.arrow_forward_ios, size: 14, color: Colors.white),
+                      ],
+                    ),
+                  ),
+                ),
+                const SizedBox(height: 10),
+
+                // 2. بطاقة تمرين بناء الجمل
                 InkWell(
                   onTap: () {
                     Navigator.push(context, MaterialPageRoute(builder: (_) => SentenceBuilderScreen(targetLang: _targetLang)));
@@ -139,7 +173,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
                 ),
                 const SizedBox(height: 10),
 
-                // 2. بطاقة الأفعال
+                // 3. بطاقة الأفعال والتصريفات
                 InkWell(
                   onTap: () {
                     Navigator.push(context, MaterialPageRoute(builder: (_) => VerbsScreen(targetLang: _targetLang)));
@@ -172,7 +206,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
                 ),
                 const SizedBox(height: 10),
 
-                // 3. بطاقة حروف الجر والقواعد الجديدة
+                // 4. بطاقة حروف الجر
                 InkWell(
                   onTap: () {
                     Navigator.push(context, MaterialPageRoute(builder: (_) => PrepositionsScreen(targetLang: _targetLang)));

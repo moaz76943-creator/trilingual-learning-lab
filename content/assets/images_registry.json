@@ -2380,6 +2380,41 @@
       "ownership": "Project Original",
       "license": "CC0-1.0",
       "size_bytes": 322
+    },
+    "img_dial_meeting": {
+      "asset_path": "content/assets/svg/img_dial_meeting.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 822
+    },
+    "img_dial_cafe": {
+      "asset_path": "content/assets/svg/img_dial_cafe.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 822
+    },
+    "img_dial_supermarket": {
+      "asset_path": "content/assets/svg/img_dial_supermarket.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 822
+    },
+    "img_dial_directions": {
+      "asset_path": "content/assets/svg/img_dial_directions.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 822
+    },
+    "img_dial_hotel": {
+      "asset_path": "content/assets/svg/img_dial_hotel.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 822
     }
   }
 }
