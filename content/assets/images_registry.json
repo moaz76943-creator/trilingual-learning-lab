@@ -1540,6 +1540,181 @@
       "ownership": "Project Original",
       "license": "CC0-1.0",
       "size_bytes": 441
+    },
+    "img_nat_sun": {
+      "asset_path": "content/assets/svg/img_nat_sun.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 310
+    },
+    "img_nat_moon": {
+      "asset_path": "content/assets/svg/img_nat_moon.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 262
+    },
+    "img_nat_star": {
+      "asset_path": "content/assets/svg/img_nat_star.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 310
+    },
+    "img_nat_sky": {
+      "asset_path": "content/assets/svg/img_nat_sky.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 310
+    },
+    "img_nat_tree": {
+      "asset_path": "content/assets/svg/img_nat_tree.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 317
+    },
+    "img_nat_flower": {
+      "asset_path": "content/assets/svg/img_nat_flower.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 386
+    },
+    "img_nat_sea": {
+      "asset_path": "content/assets/svg/img_nat_sea.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 231
+    },
+    "img_nat_river": {
+      "asset_path": "content/assets/svg/img_nat_river.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 231
+    },
+    "img_nat_mountain": {
+      "asset_path": "content/assets/svg/img_nat_mountain.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 269
+    },
+    "img_nat_rain": {
+      "asset_path": "content/assets/svg/img_nat_rain.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 569
+    },
+    "img_nat_snow": {
+      "asset_path": "content/assets/svg/img_nat_snow.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 569
+    },
+    "img_nat_wind": {
+      "asset_path": "content/assets/svg/img_nat_wind.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 231
+    },
+    "img_nat_weather": {
+      "asset_path": "content/assets/svg/img_nat_weather.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 310
+    },
+    "img_nat_dog": {
+      "asset_path": "content/assets/svg/img_nat_dog.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 431
+    },
+    "img_nat_cat": {
+      "asset_path": "content/assets/svg/img_nat_cat.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 431
+    },
+    "img_nat_bird": {
+      "asset_path": "content/assets/svg/img_nat_bird.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 431
+    },
+    "img_nat_horse": {
+      "asset_path": "content/assets/svg/img_nat_horse.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 431
+    },
+    "img_nat_cow": {
+      "asset_path": "content/assets/svg/img_nat_cow.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 431
+    },
+    "img_nat_sheep": {
+      "asset_path": "content/assets/svg/img_nat_sheep.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 431
+    },
+    "img_nat_fish": {
+      "asset_path": "content/assets/svg/img_nat_fish.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 231
+    },
+    "img_nat_lion": {
+      "asset_path": "content/assets/svg/img_nat_lion.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 431
+    },
+    "img_nat_mouse": {
+      "asset_path": "content/assets/svg/img_nat_mouse.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 431
+    },
+    "img_nat_rabbit": {
+      "asset_path": "content/assets/svg/img_nat_rabbit.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 431
+    },
+    "img_nat_duck": {
+      "asset_path": "content/assets/svg/img_nat_duck.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 431
+    },
+    "img_nat_animal": {
+      "asset_path": "content/assets/svg/img_nat_animal.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 382
     }
   }
 }

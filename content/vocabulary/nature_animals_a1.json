@@ -1,0 +1,183 @@
+{
+  "category_id": "nature_animals",
+  "category_name": { "ar": "الطبيعة والحيوانات", "de": "Natur & Tiere", "en": "Nature & Animals" },
+  "level": "A1",
+  "version": 1,
+  "concepts": [
+    {
+      "concept_id": "nat_001_sun",
+      "ar": { "word": "شمس", "vocalized": "شَمْس", "gender": "f", "plural": "شُمُوس", "example": "الشَّمْسُ تُشْرِقُ صَبَاحًا." },
+      "de": { "article": "die", "word": "Sonne", "plural": "Sonnen", "example": "Die Sonne scheint am Morgen." },
+      "en": { "word": "sun", "plural": "suns", "example": "The sun shines in the morning." },
+      "image_id": "img_nat_sun"
+    },
+    {
+      "concept_id": "nat_002_moon",
+      "ar": { "word": "قمر", "vocalized": "قَمَر", "gender": "m", "plural": "أَقْمَار", "example": "القَمَرُ مُضِيءٌ فِي اللَّيْلِ." },
+      "de": { "article": "der", "word": "Mond", "plural": "Monde", "example": "Der Mond leuchtet in der Nacht." },
+      "en": { "word": "moon", "plural": "moons", "example": "The moon shines at night." },
+      "image_id": "img_nat_moon"
+    },
+    {
+      "concept_id": "nat_003_star",
+      "ar": { "word": "نجمة", "vocalized": "نَجْمَة", "gender": "f", "plural": "نُجُوم", "example": "أَرَى نُجُومًا فِي السَّمَاءِ." },
+      "de": { "article": "der", "word": "Stern", "plural": "Sterne", "example": "Ich sehe Sterne am Himmel." },
+      "en": { "word": "star", "plural": "stars", "example": "I see stars in the sky." },
+      "image_id": "img_nat_star"
+    },
+    {
+      "concept_id": "nat_004_sky",
+      "ar": { "word": "سماء", "vocalized": "سَمَاء", "gender": "f", "plural": "سَمَاوَات", "example": "السَّمَاءُ صَافِيَةٌ اليَوْمَ." },
+      "de": { "article": "der", "word": "Himmel", "plural": "Himmel", "example": "Der Himmel ist heute klar." },
+      "en": { "word": "sky", "plural": "skies", "example": "The sky is clear today." },
+      "image_id": "img_nat_sky"
+    },
+    {
+      "concept_id": "nat_005_tree",
+      "ar": { "word": "شجرة", "vocalized": "شَجَرَة", "gender": "f", "plural": "أَشْجَار", "example": "هَذِهِ شَجَرَةٌ عَالِيَةٌ." },
+      "de": { "article": "der", "word": "Baum", "plural": "Bäume", "example": "Das ist ein hoher Baum." },
+      "en": { "word": "tree", "plural": "trees", "example": "This is a tall tree." },
+      "image_id": "img_nat_tree"
+    },
+    {
+      "concept_id": "nat_006_flower",
+      "ar": { "word": "زهرة", "vocalized": "زَهْرَة", "gender": "f", "plural": "أَزْهَار", "example": "الزَّهْرَةُ رَائِحَتُهَا عَطِرَةٌ." },
+      "de": { "article": "die", "word": "Blume", "plural": "Blumen", "example": "Die Blume riecht gut." },
+      "en": { "word": "flower", "plural": "flowers", "example": "The flower smells good." },
+      "image_id": "img_nat_flower"
+    },
+    {
+      "concept_id": "nat_007_sea",
+      "ar": { "word": "بحر", "vocalized": "بَحْر", "gender": "m", "plural": "بِحَار", "example": "نَسْبَحُ فِي البَحْرِ صَيْفًا." },
+      "de": { "article": "das", "word": "Meer", "plural": "Meere", "example": "Wir schwimmen im Sommer im Meer." },
+      "en": { "word": "sea", "plural": "seas", "example": "We swim in the sea in summer." },
+      "image_id": "img_nat_sea"
+    },
+    {
+      "concept_id": "nat_008_river",
+      "ar": { "word": "نهر", "vocalized": "نَهْر", "gender": "m", "plural": "أَنْهَار", "example": "المَاءُ يَجْرِي فِي النَّهْرِ." },
+      "de": { "article": "der", "word": "Fluss", "plural": "Flüsse", "example": "Das Wasser fließt im Fluss." },
+      "en": { "word": "river", "plural": "rivers", "example": "Water flows in the river." },
+      "image_id": "img_nat_river"
+    },
+    {
+      "concept_id": "nat_009_mountain",
+      "ar": { "word": "جبل", "vocalized": "جَبَل", "gender": "m", "plural": "جِبَال", "example": "الجَبَلُ مُغَطًّى بِالثَّلْجِ." },
+      "de": { "article": "der", "word": "Berg", "plural": "Berge", "example": "Der Berg ist mit Schnee bedeckt." },
+      "en": { "word": "mountain", "plural": "mountains", "example": "The mountain is covered with snow." },
+      "image_id": "img_nat_mountain"
+    },
+    {
+      "concept_id": "nat_010_rain",
+      "ar": { "word": "مطر", "vocalized": "مَطَر", "gender": "m", "plural": "أَمْطَار", "example": "المَطَرُ يَهْطِلُ اليَوْمَ." },
+      "de": { "article": "der", "word": "Regen", "plural": "Regen", "example": "Der Regen fällt heute." },
+      "en": { "word": "rain", "plural": "rains", "example": "Rain falls today." },
+      "image_id": "img_nat_rain"
+    },
+    {
+      "concept_id": "nat_011_snow",
+      "ar": { "word": "ثلج", "vocalized": "ثَلْج", "gender": "m", "plural": "ثُلُوج", "example": "الأَطْفَالُ يَلْعَبُونَ بِالثَّلْجِ." },
+      "de": { "article": "der", "word": "Schnee", "plural": "Schnee", "example": "Die Kinder spielen im Schnee." },
+      "en": { "word": "snow", "plural": "snows", "example": "Children play in the snow." },
+      "image_id": "img_nat_snow"
+    },
+    {
+      "concept_id": "nat_012_wind",
+      "ar": { "word": "رياح", "vocalized": "رِيَاح", "gender": "f", "plural": "رِيَاح", "example": "الرِّيَاحُ قَوِيَّةٌ جِدًّا." },
+      "de": { "article": "der", "word": "Wind", "plural": "Winde", "example": "Der Wind ist sehr stark." },
+      "en": { "word": "wind", "plural": "winds", "example": "The wind is very strong." },
+      "image_id": "img_nat_wind"
+    },
+    {
+      "concept_id": "nat_013_weather",
+      "ar": { "word": "طقس", "vocalized": "طَقْس", "gender": "m", "plural": "طُقُوس", "example": "الطَّقْسُ جَمِيلٌ ومُعْتَدِلٌ." },
+      "de": { "article": "das", "word": "Wetter", "plural": "Wetter", "example": "Das Wetter ist schön und mild." },
+      "en": { "word": "weather", "plural": "weathers", "example": "The weather is nice and mild." },
+      "image_id": "img_nat_weather"
+    },
+    {
+      "concept_id": "nat_014_dog",
+      "ar": { "word": "كلب", "vocalized": "كَلْب", "gender": "m", "plural": "كِلَاب", "example": "الكَلْبُ حَيَوَانٌ وَفِيٌّ." },
+      "de": { "article": "der", "word": "Hund", "plural": "Hunde", "example": "Der Hund ist ein treues Tier." },
+      "en": { "word": "dog", "plural": "dogs", "example": "The dog is a loyal animal." },
+      "image_id": "img_nat_dog"
+    },
+    {
+      "concept_id": "nat_015_cat",
+      "ar": { "word": "قطة", "vocalized": "قِطَّة", "gender": "f", "plural": "قِطَط", "example": "القِطَّةُ تَنَامُ عَلَى السَّرِيرِ." },
+      "de": { "article": "die", "word": "Katze", "plural": "Katzen", "example": "Die Katze schläft auf dem Bett." },
+      "en": { "word": "cat", "plural": "cats", "example": "The cat sleeps on the bed." },
+      "image_id": "img_nat_cat"
+    },
+    {
+      "concept_id": "nat_016_bird",
+      "ar": { "word": "عصفور", "vocalized": "عُصْفُور", "gender": "m", "plural": "عَصَافِير", "example": "العُصْفُورُ يُغَرِّدُ عَلَى الشَّجَرَةِ." },
+      "de": { "article": "der", "word": "Vogel", "plural": "Vögel", "example": "Der Vogel singt auf dem Baum." },
+      "en": { "word": "bird", "plural": "birds", "example": "The bird sings on the tree." },
+      "image_id": "img_nat_bird"
+    },
+    {
+      "concept_id": "nat_017_horse",
+      "ar": { "word": "حصان", "vocalized": "حِصَان", "gender": "m", "plural": "أَحْصِنَة", "example": "الحِصَانُ يَجْرِي بِسُرْعَةٍ." },
+      "de": { "article": "das", "word": "Pferd", "plural": "Pferde", "example": "Das Pferd läuft schnell." },
+      "en": { "word": "horse", "plural": "horses", "example": "The horse runs fast." },
+      "image_id": "img_nat_horse"
+    },
+    {
+      "concept_id": "nat_018_cow",
+      "ar": { "word": "بقرة", "vocalized": "بَقَرَة", "gender": "f", "plural": "أَبْقَار", "example": "البَقَرَةُ تُعْطِينَا الحَلِيبَ." },
+      "de": { "article": "die", "word": "Kuh", "plural": "Kühe", "example": "Die Kuh gibt uns Milch." },
+      "en": { "word": "cow", "plural": "cows", "example": "The cow gives us milk." },
+      "image_id": "img_nat_cow"
+    },
+    {
+      "concept_id": "nat_019_sheep",
+      "ar": { "word": "خروف", "vocalized": "خَرُوف", "gender": "m", "plural": "خِرَاف", "example": "الخَرُوفُ لَدَيْهِ صُوفٌ دَافِئٌ." },
+      "de": { "article": "das", "word": "Schaf", "plural": "Schafe", "example": "Das Schaf hat warme Wolle." },
+      "en": { "word": "sheep", "plural": "sheep", "example": "The sheep has warm wool." },
+      "image_id": "img_nat_sheep"
+    },
+    {
+      "concept_id": "nat_020_fish_animal",
+      "ar": { "word": "سمكة", "vocalized": "سَمَكَة", "gender": "f", "plural": "أَسْمَاك", "example": "السَّمَكَةُ تَسْبَحُ فِي المَاءِ." },
+      "de": { "article": "der", "word": "Fisch", "plural": "Fische", "example": "Der Fisch schwimmt im Wasser." },
+      "en": { "word": "fish", "plural": "fish", "example": "The fish swims in the water." },
+      "image_id": "img_nat_fish"
+    },
+    {
+      "concept_id": "nat_021_lion",
+      "ar": { "word": "أسد", "vocalized": "أَسَد", "gender": "m", "plural": "أُسُود", "example": "الأَسَدُ حَيَوَانٌ شُجَاعٌ." },
+      "de": { "article": "der", "word": "Löwe", "plural": "Löwen", "example": "Der Löwe ist ein mutiges Tier." },
+      "en": { "word": "lion", "plural": "lions", "example": "The lion is a brave animal." },
+      "image_id": "img_nat_lion"
+    },
+    {
+      "concept_id": "nat_022_mouse",
+      "ar": { "word": "فأر", "vocalized": "فَأْر", "gender": "m", "plural": "فِئْرَان", "example": "الفَأْرُ صَغِيرٌ وسَرِيعٌ." },
+      "de": { "article": "die", "word": "Maus", "plural": "Mäuse", "example": "Die Maus ist klein und schnell." },
+      "en": { "word": "mouse", "plural": "mice", "example": "The mouse is small and fast." },
+      "image_id": "img_nat_mouse"
+    },
+    {
+      "concept_id": "nat_023_rabbit",
+      "ar": { "word": "أرنب", "vocalized": "أَرْنَب", "gender": "m", "plural": "أَرَانِب", "example": "الأَرْنَبُ يُحِبُّ الجَزَرَ." },
+      "de": { "article": "der", "word": "Hase", "plural": "Hasen", "example": "Der Hase mag Karotten." },
+      "en": { "word": "rabbit", "plural": "rabbits", "example": "The rabbit likes carrots." },
+      "image_id": "img_nat_rabbit"
+    },
+    {
+      "concept_id": "nat_024_duck",
+      "ar": { "word": "بطة", "vocalized": "بَطَّة", "gender": "f", "plural": "بَطّ", "example": "البَطَّةُ تَعُومُ فِي البُحَيْرَةِ." },
+      "de": { "article": "die", "word": "Ente", "plural": "Enten", "example": "Die Ente schwimmt im See." },
+      "en": { "word": "duck", "plural": "ducks", "example": "The duck swims in the lake." },
+      "image_id": "img_nat_duck"
+    },
+    {
+      "concept_id": "nat_025_animal",
+      "ar": { "word": "حيوان", "vocalized": "حَيَوَان", "gender": "m", "plural": "حَيَوَانَات", "example": "أَنَا أُحِبُّ الحَيَوَانَاتِ." },
+      "de": { "article": "das", "word": "Tier", "plural": "Tiere", "example": "Ich liebe Tiere." },
+      "en": { "word": "animal", "plural": "animals", "example": "I love animals." },
+      "image_id": "img_nat_animal"
+    }
+  ]
+}

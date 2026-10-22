@@ -84,6 +84,13 @@ class ContentRepository {
       titleEn: 'City & Transport',
       jsonPath: 'content/vocabulary/city_transport_a1.json',
     ),
+    CategoryInfo(
+      id: 'nature_animals',
+      titleAr: 'الطبيعة والحيوانات',
+      titleDe: 'Natur & Tiere',
+      titleEn: 'Nature & Animals',
+      jsonPath: 'content/vocabulary/nature_animals_a1.json',
+    ),
   ];
 
   Future<bool> loadAllActiveCategories() async {
