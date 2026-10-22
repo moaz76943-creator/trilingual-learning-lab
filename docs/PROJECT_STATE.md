@@ -1,17 +1,18 @@
 # حالة المشروع (PROJECT_STATE)
 
-* **Cycle**: 022
-* **Phase**: PHASE 20 — محرك المحادثات اليومية والمواقف الواقعية (Situational Dialogues Engine)
+* **Cycle**: 023
+* **Phase**: PHASE 17 — خوارزمية التكرار المتباعد الذكي (SM-2 Spaced Repetition Engine)
 * **Status**: Local Verified & Pushed
 * **Content Inventory**:
   - `Vocabulary`: 305 مفاهيم لغوية متكاملة عبر 12 قسمًا نشطًا كاملًا
   - `Verbs`: 15 فعلًا أساسيًا مع جداول تصريف كاملة باللغات الثلاث
-  - `Prepositions`: 20 حرف جر مصنف بالحالات الإعرابية
+  - `Prepositions`: 20 حرف جر مع القواعد الإعرابية
   - `Sentences`: 20 تمرين تركيب جمل تفاعلي
-  - `Dialogues`: 5 محادثات مواقف واقعية بنظام فقاعات المحادثة والترجمة الفورية بالنقرة (Tap-to-Reveal)
+  - `Dialogues`: 5 محادثات مواقف واقعية بنظام فقاعات المحادثة
   - `Assets`: 345 ملف SVG متجهي أصلي مدمج محليًا
 * **Architecture Additions**:
-  - `dialogues_a1.json`: محتوى المحادثات اليومية للمواقف الحياتية (التعارف، المقهى، السوبرماركت، الطريق، الفندق).
-  - `lib/models/dialogue_model.dart`: نموذج Dart للمحادثات وأسطر الحوار.
-  - `lib/screens/dialogues_screen.dart`: واجهة دردشة تفاعلية وميزة إظهار وإخفاء التشكيل والترجمة بالنقرة.
-* **Next Step**: CYCLE 023 — إطلاق خوارزمية التكرار المتباعد الذكي (SuperMemo-2 / Leitner Spaced Repetition Algorithm) لجدولة مراجعة المفردات والأفعال بناءً على أداء المتعلم.
+  - `lib/models/srs_card.dart`: نموذج خوارزمية SM-2 التكيفية.
+  - `lib/repositories/srs_repository.dart`: محرك التخزين الذري لبيانات المراجعة والذاكرة الدائمة.
+  - `lib/screens/srs_review_screen.dart`: شاشة بطاقات الاسترجاع النشط مع أزرار التقييم الذكي.
+  - شريط المراجعة اليومية الذكية في قمة الشاشة الرئيسية.
+* **Next Step**: CYCLE 024 — إطلاق القسم الثالث عشر: التسوق والمال والأسعار (Shopping & Money - 25 مفردة + 25 SVG) لتخطي حاجز 330 مفردة و 370 أصلًا بصريًا.
