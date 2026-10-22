@@ -22,9 +22,9 @@ class CategoryInfo {
 
 class ContentRepository {
   final Map<String, List<Concept>> _categoriesData = {};
-  bool _isLoaded = false;
+  bool _isFullyLoaded = false;
 
-  bool get isLoaded => _isLoaded;
+  bool get isFullyLoaded => _isFullyLoaded;
   List<Concept> getConcepts(String categoryId) => _categoriesData[categoryId] ?? [];
 
   final List<CategoryInfo> registeredCategories = [
@@ -72,20 +72,52 @@ class ContentRepository {
     ),
   ];
 
+  /// Lazy load a single category. Caches the result.
+  Future<List<Concept>> loadCategory(String categoryId) async {
+    if (_categoriesData.containsKey(categoryId)) {
+      return _categoriesData[categoryId]!;
+    }
+
+    final cat = registeredCategories.firstWhere(
+      (c) => c.id == categoryId,
+      orElse: () => throw Exception('Unknown category: $categoryId'),
+    );
+
+    try {
+      final jsonString = await rootBundle.loadString(cat.jsonPath);
+      final Map<String, dynamic> data = jsonDecode(jsonString);
+      final List raw = data['concepts'] ?? [];
+      final parsed = raw.map((item) => Concept.fromJson(item)).toList();
+      _categoriesData[categoryId] = parsed;
+      cat.concepts = parsed;
+      return parsed;
+    } catch (e) {
+      // Return empty on failure (e.g. missing asset) without crashing
+      _categoriesData[categoryId] = [];
+      cat.concepts = [];
+      return [];
+    }
+  }
+
+  /// Load all categories (used for search). Idempotent.
   Future<bool> loadAllActiveCategories() async {
+    if (_isFullyLoaded) return true;
     try {
       for (var cat in registeredCategories) {
-        final jsonString = await rootBundle.loadString(cat.jsonPath);
-        final Map<String, dynamic> data = jsonDecode(jsonString);
-        final List raw = data['concepts'] ?? [];
-        final parsed = raw.map((item) => Concept.fromJson(item)).toList();
-        _categoriesData[cat.id] = parsed;
-        cat.concepts = parsed;
+        await loadCategory(cat.id);
       }
-      _isLoaded = true;
+      _isFullyLoaded = true;
       return true;
     } catch (e) {
       return false;
     }
+  }
+
+  /// Convenience for search: ensures all are loaded then returns flattened list.
+  Future<List<Concept>> loadAllConcepts() async {
+    await loadAllActiveCategories();
+    return [
+      for (final cat in registeredCategories) ...getConcepts(cat.id),
+    ];
   }
 }
