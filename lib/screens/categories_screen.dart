@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import '../repositories/content_repository.dart';
 import 'category_detail_screen.dart';
 import 'verbs_screen.dart';
+import 'sentence_builder_screen.dart';
 
 class CategoriesScreen extends StatefulWidget {
   const CategoriesScreen({super.key});
@@ -37,7 +38,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: const [
             Text('Trilingual Lab', style: TextStyle(color: Color(0xFF0F172A), fontSize: 18, fontWeight: FontWeight.bold)),
-            Text('A1 Foundation • 50 مفردة + 15 فعلًا', style: TextStyle(color: Color(0xFF64748B), fontSize: 12)),
+            Text('A1 Foundation • 50 مفردة + 15 فعلًا + 20 جملة', style: TextStyle(color: Color(0xFF64748B), fontSize: 11)),
           ],
         ),
         actions: [
@@ -60,7 +61,45 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
           : ListView(
               padding: const EdgeInsets.all(16),
               children: [
-                // بطاقة مميزة للأفعال والتصريفات
+                // 1. بطاقة بناء الجمل الزمردية
+                InkWell(
+                  onTap: () {
+                    Navigator.push(context, MaterialPageRoute(builder: (_) => SentenceBuilderScreen(targetLang: _targetLang)));
+                  },
+                  borderRadius: BorderRadius.circular(16),
+                  child: Container(
+                    padding: const EdgeInsets.all(16),
+                    decoration: BoxDecoration(
+                      gradient: const LinearGradient(colors: [Color(0xFF059669), Color(0xFF047857)]),
+                      borderRadius: BorderRadius.circular(16),
+                      boxShadow: [BoxShadow(color: const Color(0xFF059669).withOpacity(0.3), blurRadius: 10, offset: const Offset(0, 4))],
+                    ),
+                    child: Row(
+                      children: [
+                        Container(
+                          padding: const EdgeInsets.all(12),
+                          decoration: BoxDecoration(color: Colors.white.withOpacity(0.2), borderRadius: BorderRadius.circular(12)),
+                          child: const Icon(Icons.extension, color: Colors.white, size: 28),
+                        ),
+                        const SizedBox(width: 16),
+                        Expanded(
+                          child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: const [
+                              Text('تمرين تركيب الجمل 🧩', style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold, color: Colors.white)),
+                              SizedBox(height: 4),
+                              Text('20 تدريب تفاعلي لترتيب الكلمات وقواعد الجمل', style: TextStyle(fontSize: 12, color: Color(0xFFD1FAE5))),
+                            ],
+                          ),
+                        ),
+                        const Icon(Icons.arrow_forward_ios, size: 16, color: Colors.white),
+                      ],
+                    ),
+                  ),
+                ),
+                const SizedBox(height: 12),
+
+                // 2. بطاقة الأفعال الزرقاء
                 InkWell(
                   onTap: () {
                     Navigator.push(context, MaterialPageRoute(builder: (_) => VerbsScreen(targetLang: _targetLang)));
@@ -85,9 +124,9 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
                           child: Column(
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: const [
-                              Text('الأفعال اليومية والتصريفات ⚡', style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold, color: Colors.white)),
+                              Text('الأفعال والتصريفات ⚡', style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold, color: Colors.white)),
                               SizedBox(height: 4),
-                              Text('15 فعلًا مع جداول التصريف الثلاثية', style: TextStyle(fontSize: 13, color: Color(0xFFDBEAFE))),
+                              Text('15 فعلًا مع جداول التصريف في الحاضر', style: TextStyle(fontSize: 12, color: Color(0xFFDBEAFE))),
                             ],
                           ),
                         ),
@@ -98,15 +137,11 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
                 ),
                 const SizedBox(height: 16),
 
-                // قسم العائلة
+                // أقسام المفردات
                 _buildCategoryCard('العائلة', 'Familie', 'Family', _repository.getConcepts('family'), Icons.people_outline, const Color(0xFF0284C7)),
                 const SizedBox(height: 12),
-
-                // قسم الطعام
                 _buildCategoryCard('الطعام والشراب', 'Essen & Trinken', 'Food & Drinks', _repository.getConcepts('food'), Icons.restaurant_outlined, const Color(0xFFEA580C)),
                 const SizedBox(height: 12),
-
-                // أقسام قادمة
                 _buildLockedCard('المنزل', 'Zuhause', 'Home', 30),
                 const SizedBox(height: 12),
                 _buildLockedCard('الملابس', 'Kleidung', 'Clothes', 25),

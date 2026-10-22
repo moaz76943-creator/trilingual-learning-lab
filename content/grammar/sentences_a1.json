@@ -1,0 +1,127 @@
+{
+  "category_id": "sentences_a1",
+  "title": { "ar": "بناء الجمل الأولى", "de": "Satzbau A1", "en": "Sentence Building A1" },
+  "version": 1,
+  "sentences": [
+    {
+      "id": "s_001",
+      "ar": { "full": "يَشْرَبُ الأَبُ الشَّايَ.", "tokens": ["يَشْرَبُ", "الأَبُ", "الشَّايَ"] },
+      "de": { "full": "Der Vater trinkt den Tee.", "tokens": ["Der", "Vater", "trinkt", "den", "Tee."] },
+      "en": { "full": "The father drinks tea.", "tokens": ["The", "father", "drinks", "tea."] }
+    },
+    {
+      "id": "s_002",
+      "ar": { "full": "تَأْكُلُ الأُمُّ تُفَّاحَةً.", "tokens": ["تَأْكُلُ", "الأُمُّ", "تُفَّاحَةً"] },
+      "de": { "full": "Die Mutter isst einen Apfel.", "tokens": ["Die", "Mutter", "isst", "einen", "Apfel."] },
+      "en": { "full": "The mother eats an apple.", "tokens": ["The", "mother", "eats", "an", "apple."] }
+    },
+    {
+      "id": "s_003",
+      "ar": { "full": "عِنْدِي أُخْتٌ وَاحِدَةٌ.", "tokens": ["عِنْدِي", "أُخْتٌ", "وَاحِدَةٌ"] },
+      "de": { "full": "Ich habe eine Schwester.", "tokens": ["Ich", "habe", "eine", "Schwester."] },
+      "en": { "full": "I have one sister.", "tokens": ["I", "have", "one", "sister."] }
+    },
+    {
+      "id": "s_004",
+      "ar": { "full": "نَأْكُلُ الخُبْزَ والجُبْنَ.", "tokens": ["نَأْكُلُ", "الخُبْزَ", "والجُبْنَ"] },
+      "de": { "full": "Wir essen Brot und Käse.", "tokens": ["Wir", "essen", "Brot", "und", "Käse."] },
+      "en": { "full": "We eat bread and cheese.", "tokens": ["We", "eat", "bread", "and", "cheese."] }
+    },
+    {
+      "id": "s_005",
+      "ar": { "full": "يَقْرَأُ أَخِي كِتَابًا مُمْتِعًا.", "tokens": ["يَقْرَأُ", "أَخِي", "كِتَابًا"] },
+      "de": { "full": "Mein Bruder liest ein Buch.", "tokens": ["Mein", "Bruder", "liest", "ein", "Buch."] },
+      "en": { "full": "My brother reads a book.", "tokens": ["My", "brother", "reads", "a", "book."] }
+    },
+    {
+      "id": "s_006",
+      "ar": { "full": "يَنَامُ الرَّضِيعُ فِي المَنْزِلِ.", "tokens": ["يَنَامُ", "الرَّضِيعُ", "فِي", "المَنْزِلِ"] },
+      "de": { "full": "Das Baby schläft zu Hause.", "tokens": ["Das", "Baby", "schläft", "zu", "Hause."] },
+      "en": { "full": "The baby sleeps at home.", "tokens": ["The", "baby", "sleeps", "at", "home."] }
+    },
+    {
+      "id": "s_007",
+      "ar": { "full": "أَشْرَبُ المَاءَ كُلَّ يَوْمٍ.", "tokens": ["أَشْرَبُ", "المَاءَ", "كُلَّ", "يَوْمٍ"] },
+      "de": { "full": "Ich trinke jeden Tag Wasser.", "tokens": ["Ich", "trinke", "jeden", "Tag", "Wasser."] },
+      "en": { "full": "I drink water every day.", "tokens": ["I", "drink", "water", "every", "day."] }
+    },
+    {
+      "id": "s_008",
+      "ar": { "full": "أَنَا أَتَعَلَّمُ اللُّغَةَ الأَلْمَانِيَّةَ.", "tokens": ["أَنَا", "أَتَعَلَّمُ", "اللُّغَةَ", "الأَلْمَانِيَّةَ"] },
+      "de": { "full": "Ich lerne die deutsche Sprache.", "tokens": ["Ich", "lerne", "die", "deutsche", "Sprache."] },
+      "en": { "full": "I learn the German language.", "tokens": ["I", "learn", "the", "German", "language."] }
+    },
+    {
+      "id": "s_009",
+      "ar": { "full": "نَحْنُ نَطْبُخُ اللَّحْمَ مَعًا.", "tokens": ["نَحْنُ", "نَطْبُخُ", "اللَّحْمَ", "مَعًا"] },
+      "de": { "full": "Wir kochen zusammen Fleisch.", "tokens": ["Wir", "kochen", "zusammen", "Fleisch."] },
+      "en": { "full": "We cook meat together.", "tokens": ["We", "cook", "meat", "together."] }
+    },
+    {
+      "id": "s_010",
+      "ar": { "full": "أَكْتُبُ رِسَالَةً إِلَى أُمِّي.", "tokens": ["أَكْتُبُ", "رِسَالَةً", "إِلَى", "أُمِّي"] },
+      "de": { "full": "Ich schreibe einen Brief an meine Mutter.", "tokens": ["Ich", "schreibe", "einen", "Brief", "an", "meine", "Mutter."] },
+      "en": { "full": "I write a letter to my mother.", "tokens": ["I", "write", "a", "letter", "to", "my", "mother."] }
+    },
+    {
+      "id": "s_011",
+      "ar": { "full": "عَمِّي يَعْمَلُ فِي المَدِينَةِ.", "tokens": ["عَمِّي", "يَعْمَلُ", "فِي", "المَدِينَةِ"] },
+      "de": { "full": "Mein Onkel arbeitet in der Stadt.", "tokens": ["Mein", "Onkel", "arbeitet", "in", "der", "Stadt."] },
+      "en": { "full": "My uncle works in the city.", "tokens": ["My", "uncle", "works", "in", "the", "city."] }
+    },
+    {
+      "id": "s_012",
+      "ar": { "full": "هَلْ تَشْرَبُ قَهْوَةً أَمْ شَايًا؟", "tokens": ["هَلْ", "تَشْرَبُ", "قَهْوَةً", "أَمْ", "شَايًا؟"] },
+      "de": { "full": "Trinkst du Kaffee oder Tee?", "tokens": ["Trinkst", "du", "Kaffee", "oder", "Tee?"] },
+      "en": { "full": "Do you drink coffee or tea?", "tokens": ["Do", "you", "drink", "coffee", "or", "tea?"] }
+    },
+    {
+      "id": "s_013",
+      "ar": { "full": "جَدِّي يَتَحَدَّثُ بِهُدُوءٍ.", "tokens": ["جَدِّي", "يَتَحَدَّثُ", "بِهُدُوءٍ"] },
+      "de": { "full": "Mein Großvater spricht ruhig.", "tokens": ["Mein", "Großvater", "spricht", "ruhig."] },
+      "en": { "full": "My grandfather speaks quietly.", "tokens": ["My", "grandfather", "speaks", "quietly."] }
+    },
+    {
+      "id": "s_014",
+      "ar": { "full": "نَأْكُلُ السَّمَكَ مَعَ الأُرْزِ.", "tokens": ["نَأْكُلُ", "السَّمَكَ", "مَعَ", "الأُرْزِ"] },
+      "de": { "full": "Wir essen Fisch mit Reis.", "tokens": ["Wir", "essen", "Fisch", "mit", "Reis."] },
+      "en": { "full": "We eat fish with rice.", "tokens": ["We", "eat", "fish", "with", "rice."] }
+    },
+    {
+      "id": "s_015",
+      "ar": { "full": "أَنَا أَسْكُنُ هُنَا مَعَ عَائِلَتِي.", "tokens": ["أَنَا", "أَسْكُنُ", "هُنَا", "مَعَ", "عَائِلَتِي"] },
+      "de": { "full": "Ich wohne hier mit meiner Familie.", "tokens": ["Ich", "wohne", "hier", "mit", "meiner", "Familie."] },
+      "en": { "full": "I live here with my family.", "tokens": ["I", "live", "here", "with", "my", "family."] }
+    },
+    {
+      "id": "s_016",
+      "ar": { "full": "خَالَتِي تُعِدُّ حَسَاءً دَافِئًا.", "tokens": ["خَالَتِي", "تُعِدُّ", "حَسَاءً", "دَافِئًا"] },
+      "de": { "full": "Meine Tante kocht eine warme Suppe.", "tokens": ["Meine", "Tante", "kocht", "eine", "warme", "Suppe."] },
+      "en": { "full": "My aunt cooks warm soup.", "tokens": ["My", "aunt", "cooks", "warm", "soup."] }
+    },
+    {
+      "id": "s_017",
+      "ar": { "full": "الأَطْفَالُ يَلْعَبُونَ مَعَ الحَفِيدِ.", "tokens": ["الأَطْفَالُ", "يَلْعَبُونَ", "مَعَ", "الحَفِيدِ"] },
+      "de": { "full": "Die Kinder spielen mit dem Enkel.", "tokens": ["Die", "Kinder", "spielen", "mit", "dem", "Enkel."] },
+      "en": { "full": "The children play with the grandson.", "tokens": ["The", "children", "play", "with", "the", "grandson."] }
+    },
+    {
+      "id": "s_018",
+      "ar": { "full": "أَضَعُ زُبْدَةً وَعَسَلًا عَلَى الخُبْزِ.", "tokens": ["أَضَعُ", "زُبْدَةً", "وَعَسَلًا", "عَلَى", "الخُبْزِ"] },
+      "de": { "full": "Ich gebe Butter und Honig auf das Brot.", "tokens": ["Ich", "gebe", "Butter", "und", "Honig", "auf", "das", "Brot."] },
+      "en": { "full": "I put butter and honey on the bread.", "tokens": ["I", "put", "butter", "and", "honey", "on", "the", "bread."] }
+    },
+    {
+      "id": "s_019",
+      "ar": { "full": "أَنْتَ تَسْمَعُ كَلَامَ المُعَلِّمِ.", "tokens": ["أَنْتَ", "تَسْمَعُ", "كَلَامَ", "المُعَلِّمِ"] },
+      "de": { "full": "Du hörst den Lehrer.", "tokens": ["Du", "hörst", "den", "Lehrer."] },
+      "en": { "full": "You hear the teacher.", "tokens": ["You", "hear", "the", "teacher."] }
+    },
+    {
+      "id": "s_020",
+      "ar": { "full": "السَّلَطَةُ مَعَ الطَّمَاطِمِ طَيِّبَةٌ جِدًّا.", "tokens": ["السَّلَطَةُ", "مَعَ", "الطَّمَاطِمِ", "طَيِّبَةٌ"] },
+      "de": { "full": "Der Salat mit Tomaten ist sehr gut.", "tokens": ["Der", "Salat", "mit", "Tomaten", "ist", "sehr", "gut."] },
+      "en": { "full": "The salad with tomatoes is very good.", "tokens": ["The", "salad", "with", "tomatoes", "is", "very", "good."] }
+    }
+  ]
+}
