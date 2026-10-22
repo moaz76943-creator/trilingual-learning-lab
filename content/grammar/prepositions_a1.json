@@ -1,0 +1,147 @@
+{
+  "category_id": "prepositions_a1",
+  "title": { "ar": "حروف الجر والعلاقات المكانية", "de": "Präpositionen A1", "en": "Prepositions A1" },
+  "version": 1,
+  "prepositions": [
+    {
+      "id": "prep_001_in",
+      "ar": { "word": "في", "meaning": "داخل الشيء", "example": "أَنَا فِي المَطْبَخِ." },
+      "de": { "word": "in", "case_rule": "Wechsel (Dativ/Akk)", "example": "Ich bin in der Küche." },
+      "en": { "word": "in", "type": "inside", "example": "I am in the kitchen." },
+      "image_id": "img_prep_in"
+    },
+    {
+      "id": "prep_002_auf",
+      "ar": { "word": "على", "meaning": "فوق سطح أفقي بتلامس", "example": "الكِتَابُ عَلَى الطَّاوِلَةِ." },
+      "de": { "word": "auf", "case_rule": "Wechsel (Dativ/Akk)", "example": "Das Buch liegt auf dem Tisch." },
+      "en": { "word": "on", "type": "surface", "example": "The book is on the table." },
+      "image_id": "img_prep_auf"
+    },
+    {
+      "id": "prep_003_unter",
+      "ar": { "word": "تحت", "meaning": "أسفل الشيء", "example": "القِطَّةُ تَنَامُ تَحْتَ السَّرِيرِ." },
+      "de": { "word": "unter", "case_rule": "Wechsel (Dativ/Akk)", "example": "Die Katze schläft unter dem Bett." },
+      "en": { "word": "under", "type": "below", "example": "The cat sleeps under the bed." },
+      "image_id": "img_prep_unter"
+    },
+    {
+      "id": "prep_004_hinter",
+      "ar": { "word": "خلف", "meaning": "وراء الشيء", "example": "الحَدِيقَةُ خَلْفَ المَنْزِلِ." },
+      "de": { "word": "hinter", "case_rule": "Wechsel (Dativ/Akk)", "example": "Der Garten ist hinter dem Haus." },
+      "en": { "word": "behind", "type": "rear", "example": "The garden is behind the house." },
+      "image_id": "img_prep_hinter"
+    },
+    {
+      "id": "prep_005_vor",
+      "ar": { "word": "أمام", "meaning": "في مقدمة الشيء (أو قبل زمانيًا)", "example": "نَلْتَقِي أَمَامَ المَحَطَّةِ." },
+      "de": { "word": "vor", "case_rule": "Wechsel (Dativ/Akk)", "example": "Wir treffen uns vor dem Bahnhof." },
+      "en": { "word": "in front of", "type": "front", "example": "We meet in front of the station." },
+      "image_id": "img_prep_vor"
+    },
+    {
+      "id": "prep_006_neben",
+      "ar": { "word": "بجانب", "meaning": "إلى جوار الشيء", "example": "المِصْبَاحُ بِجَانِبِ الأَرِيكَةِ." },
+      "de": { "word": "neben", "case_rule": "Wechsel (Dativ/Akk)", "example": "Die Lampe steht neben dem Sofa." },
+      "en": { "word": "next to", "type": "beside", "example": "The lamp is next to the sofa." },
+      "image_id": "img_prep_neben"
+    },
+    {
+      "id": "prep_007_zwischen",
+      "ar": { "word": "بين", "meaning": "في الوسط بين شيئين", "example": "الطَّاوِلَةُ بَيْنَ الكَرَاسِيِّ." },
+      "de": { "word": "zwischen", "case_rule": "Wechsel (Dativ/Akk)", "example": "Der Tisch steht zwischen den Stühlen." },
+      "en": { "word": "between", "type": "middle", "example": "The table is between the chairs." },
+      "image_id": "img_prep_zwischen"
+    },
+    {
+      "id": "prep_008_ueber",
+      "ar": { "word": "فوق", "meaning": "أعلى من الشيء بدون تلامس", "example": "الصُّورَةُ فَوْقَ الطَّاوِلَةِ." },
+      "de": { "word": "über", "case_rule": "Wechsel (Dativ/Akk)", "example": "Das Bild hängt über dem Tisch." },
+      "en": { "word": "above / over", "type": "overhead", "example": "The picture is above the table." },
+      "image_id": "img_prep_ueber"
+    },
+    {
+      "id": "prep_009_an",
+      "ar": { "word": "على / عند", "meaning": "ملامس لسطح رأسي أو عند حافة", "example": "الصُّورَةُ عَلَى الجِدَارِ." },
+      "de": { "word": "an", "case_rule": "Wechsel (Dativ/Akk)", "example": "Das Bild hängt an der Wand." },
+      "en": { "word": "at / on", "type": "vertical", "example": "The picture hangs on the wall." },
+      "image_id": "img_prep_an"
+    },
+    {
+      "id": "prep_010_mit",
+      "ar": { "word": "مع / بـ", "meaning": "المصاحبة أو الوسيلة", "example": "أَشْرَبُ الشَّايَ مَعَ السُّكَّرِ." },
+      "de": { "word": "mit", "case_rule": "Immer Dativ", "example": "Ich trinke Tee mit Zucker." },
+      "en": { "word": "with", "type": "accompaniment", "example": "I drink tea with sugar." },
+      "image_id": "img_prep_mit"
+    },
+    {
+      "id": "prep_011_nach",
+      "ar": { "word": "إلى / بعد", "meaning": "الاتجاه للمدن والدول أو الترتيب الزمني", "example": "أُسَافِرُ إِلَى بَرْلِينَ." },
+      "de": { "word": "nach", "case_rule": "Immer Dativ", "example": "Ich reise nach Berlin." },
+      "en": { "word": "to / after", "type": "direction/time", "example": "I travel to Berlin." },
+      "image_id": "img_prep_nach"
+    },
+    {
+      "id": "prep_012_zu",
+      "ar": { "word": "إلى", "meaning": "الاتجاه للأشخاص والمباني العامة", "example": "أَذْهَبُ إِلَى الطَّبِيبِ." },
+      "de": { "word": "zu", "case_rule": "Immer Dativ", "example": "Ich gehe zum Arzt." },
+      "en": { "word": "to", "type": "direction_person", "example": "I go to the doctor." },
+      "image_id": "img_prep_zu"
+    },
+    {
+      "id": "prep_013_aus",
+      "ar": { "word": "من", "meaning": "الخروج من مكان أو البلد الأصلي", "example": "أَنَا قَادِمٌ مِنْ مِصْرَ." },
+      "de": { "word": "aus", "case_rule": "Immer Dativ", "example": "Ich komme aus Ägypten." },
+      "en": { "word": "from (origin)", "type": "origin", "example": "I come from Egypt." },
+      "image_id": "img_prep_aus"
+    },
+    {
+      "id": "prep_014_von",
+      "ar": { "word": "من / عن", "meaning": "مصدر الشيء أو الانطلاق من نقطة", "example": "الهَدِيَّةُ مِنْ أَبِي." },
+      "de": { "word": "von", "case_rule": "Immer Dativ", "example": "Das Geschenk ist von meinem Vater." },
+      "en": { "word": "from / of", "type": "source", "example": "The gift is from my father." },
+      "image_id": "img_prep_von"
+    },
+    {
+      "id": "prep_015_bei",
+      "ar": { "word": "عند / لدى", "meaning": "السكن عند شخص أو العمل لدى شركة", "example": "أَسْكُنُ عِنْدَ عَائِلَتِي." },
+      "de": { "word": "bei", "case_rule": "Immer Dativ", "example": "Ich wohne bei meiner Familie." },
+      "en": { "word": "at / with", "type": "location_person", "example": "I live with my family." },
+      "image_id": "img_prep_bei"
+    },
+    {
+      "id": "prep_016_fuer",
+      "ar": { "word": "لأجل / لـ", "meaning": "الغاية أو المستفيد", "example": "هَذَا الكِتَابُ لَكَ." },
+      "de": { "word": "für", "case_rule": "Immer Akkusativ", "example": "Dieses Buch ist für dich." },
+      "en": { "word": "for", "type": "beneficiary", "example": "This book is for you." },
+      "image_id": "img_prep_fuer"
+    },
+    {
+      "id": "prep_017_ohne",
+      "ar": { "word": "بدون", "meaning": "نفي المصاحبة أو الغياب", "example": "أَشْرَبُ القَهْوَةَ بِدُونِ حَلِيبٍ." },
+      "de": { "word": "ohne", "case_rule": "Immer Akkusativ", "example": "Ich trinke Kaffee ohne Milch." },
+      "en": { "word": "without", "type": "absence", "example": "I drink coffee without milk." },
+      "image_id": "img_prep_ohne"
+    },
+    {
+      "id": "prep_018_durch",
+      "ar": { "word": "عبر / خلال", "meaning": "المرور في وسط المكان", "example": "نَمْشِي عَبْرَ المُتَنَزَّهِ." },
+      "de": { "word": "durch", "case_rule": "Immer Akkusativ", "example": "Wir gehen durch den Park." },
+      "en": { "word": "through", "type": "passage", "example": "We walk through the park." },
+      "image_id": "img_prep_durch"
+    },
+    {
+      "id": "prep_019_um",
+      "ar": { "word": "حول / في تمام", "meaning": "الدوران حول شيء أو التوقيت الدقيق", "example": "نَجْلِسُ حَوْلَ الطَّاوِلَةِ." },
+      "de": { "word": "um", "case_rule": "Immer Akkusativ", "example": "Wir sitzen um den Tisch." },
+      "en": { "word": "around / at (time)", "type": "circumference/time", "example": "We sit around the table." },
+      "image_id": "img_prep_um"
+    },
+    {
+      "id": "prep_020_bis",
+      "ar": { "word": "حتى", "meaning": "نهاية المدى الزمني أو المكاني", "example": "أَدْرُسُ حَتَّى السَّاعَةِ العَاشِرَةِ." },
+      "de": { "word": "bis", "case_rule": "Immer Akkusativ", "example": "Ich lerne bis zehn Uhr." },
+      "en": { "word": "until", "type": "limit", "example": "I study until ten o'clock." },
+      "image_id": "img_prep_bis"
+    }
+  ]
+}

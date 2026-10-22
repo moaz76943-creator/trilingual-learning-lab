@@ -2240,6 +2240,146 @@
       "ownership": "Project Original",
       "license": "CC0-1.0",
       "size_bytes": 390
+    },
+    "img_prep_in": {
+      "asset_path": "content/assets/svg/img_prep_in.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 295
+    },
+    "img_prep_auf": {
+      "asset_path": "content/assets/svg/img_prep_auf.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 264
+    },
+    "img_prep_unter": {
+      "asset_path": "content/assets/svg/img_prep_unter.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 264
+    },
+    "img_prep_hinter": {
+      "asset_path": "content/assets/svg/img_prep_hinter.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 264
+    },
+    "img_prep_vor": {
+      "asset_path": "content/assets/svg/img_prep_vor.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 264
+    },
+    "img_prep_neben": {
+      "asset_path": "content/assets/svg/img_prep_neben.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 264
+    },
+    "img_prep_zwischen": {
+      "asset_path": "content/assets/svg/img_prep_zwischen.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 329
+    },
+    "img_prep_ueber": {
+      "asset_path": "content/assets/svg/img_prep_ueber.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 264
+    },
+    "img_prep_an": {
+      "asset_path": "content/assets/svg/img_prep_an.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 264
+    },
+    "img_prep_mit": {
+      "asset_path": "content/assets/svg/img_prep_mit.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 322
+    },
+    "img_prep_nach": {
+      "asset_path": "content/assets/svg/img_prep_nach.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 322
+    },
+    "img_prep_zu": {
+      "asset_path": "content/assets/svg/img_prep_zu.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 322
+    },
+    "img_prep_aus": {
+      "asset_path": "content/assets/svg/img_prep_aus.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 322
+    },
+    "img_prep_von": {
+      "asset_path": "content/assets/svg/img_prep_von.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 322
+    },
+    "img_prep_bei": {
+      "asset_path": "content/assets/svg/img_prep_bei.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 264
+    },
+    "img_prep_fuer": {
+      "asset_path": "content/assets/svg/img_prep_fuer.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 322
+    },
+    "img_prep_ohne": {
+      "asset_path": "content/assets/svg/img_prep_ohne.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 264
+    },
+    "img_prep_durch": {
+      "asset_path": "content/assets/svg/img_prep_durch.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 295
+    },
+    "img_prep_um": {
+      "asset_path": "content/assets/svg/img_prep_um.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 275
+    },
+    "img_prep_bis": {
+      "asset_path": "content/assets/svg/img_prep_bis.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 322
     }
   }
 }

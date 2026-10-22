@@ -7,6 +7,7 @@ import '../models/verb_model.dart';
 import 'category_detail_screen.dart';
 import 'verbs_screen.dart';
 import 'sentence_builder_screen.dart';
+import 'prepositions_screen.dart';
 import 'search_screen.dart';
 
 class CategoriesScreen extends StatefulWidget {
@@ -67,7 +68,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: const [
             Text('Trilingual Lab', style: TextStyle(color: Color(0xFF0F172A), fontSize: 18, fontWeight: FontWeight.bold)),
-            Text('A1 Foundation • 305 مفردات + 15 فعلًا + 20 جملة', style: TextStyle(color: Color(0xFF64748B), fontSize: 11)),
+            Text('A1 Foundation • 305 مفردات + 15 فعلًا + 20 حرف جر', style: TextStyle(color: Color(0xFF64748B), fontSize: 11)),
           ],
         ),
         actions: [
@@ -112,36 +113,31 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
                   },
                   borderRadius: BorderRadius.circular(16),
                   child: Container(
-                    padding: const EdgeInsets.all(16),
+                    padding: const EdgeInsets.all(14),
                     decoration: BoxDecoration(
                       gradient: const LinearGradient(colors: [Color(0xFF059669), Color(0xFF047857)]),
                       borderRadius: BorderRadius.circular(16),
-                      boxShadow: [BoxShadow(color: const Color(0xFF059669).withOpacity(0.3), blurRadius: 10, offset: const Offset(0, 4))],
+                      boxShadow: [BoxShadow(color: const Color(0xFF059669).withOpacity(0.3), blurRadius: 8, offset: const Offset(0, 3))],
                     ),
                     child: Row(
                       children: [
-                        Container(
-                          padding: const EdgeInsets.all(12),
-                          decoration: BoxDecoration(color: Colors.white.withOpacity(0.2), borderRadius: BorderRadius.circular(12)),
-                          child: const Icon(Icons.extension, color: Colors.white, size: 28),
-                        ),
-                        const SizedBox(width: 16),
+                        Container(padding: const EdgeInsets.all(10), decoration: BoxDecoration(color: Colors.white.withOpacity(0.2), borderRadius: BorderRadius.circular(12)), child: const Icon(Icons.extension, color: Colors.white, size: 26)),
+                        const SizedBox(width: 14),
                         Expanded(
                           child: Column(
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: const [
-                              Text('تمرين تركيب الجمل 🧩', style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold, color: Colors.white)),
-                              SizedBox(height: 4),
-                              Text('20 تدريب تفاعلي لترتيب الكلمات وقواعد الجمل', style: TextStyle(fontSize: 12, color: Color(0xFFD1FAE5))),
+                              Text('تمرين تركيب الجمل 🧩', style: TextStyle(fontSize: 15, fontWeight: FontWeight.bold, color: Colors.white)),
+                              Text('20 تدريب تفاعلي لترتيب الكلمات وقواعد الجمل', style: TextStyle(fontSize: 11, color: Color(0xFFD1FAE5))),
                             ],
                           ),
                         ),
-                        const Icon(Icons.arrow_forward_ios, size: 16, color: Colors.white),
+                        const Icon(Icons.arrow_forward_ios, size: 14, color: Colors.white),
                       ],
                     ),
                   ),
                 ),
-                const SizedBox(height: 12),
+                const SizedBox(height: 10),
 
                 // 2. بطاقة الأفعال
                 InkWell(
@@ -150,65 +146,89 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
                   },
                   borderRadius: BorderRadius.circular(16),
                   child: Container(
-                    padding: const EdgeInsets.all(16),
+                    padding: const EdgeInsets.all(14),
                     decoration: BoxDecoration(
                       gradient: const LinearGradient(colors: [Color(0xFF2563EB), Color(0xFF1D4ED8)]),
                       borderRadius: BorderRadius.circular(16),
-                      boxShadow: [BoxShadow(color: const Color(0xFF2563EB).withOpacity(0.3), blurRadius: 10, offset: const Offset(0, 4))],
+                      boxShadow: [BoxShadow(color: const Color(0xFF2563EB).withOpacity(0.3), blurRadius: 8, offset: const Offset(0, 3))],
                     ),
                     child: Row(
                       children: [
-                        Container(
-                          padding: const EdgeInsets.all(12),
-                          decoration: BoxDecoration(color: Colors.white.withOpacity(0.2), borderRadius: BorderRadius.circular(12)),
-                          child: const Icon(Icons.flash_on, color: Colors.white, size: 28),
-                        ),
-                        const SizedBox(width: 16),
+                        Container(padding: const EdgeInsets.all(10), decoration: BoxDecoration(color: Colors.white.withOpacity(0.2), borderRadius: BorderRadius.circular(12)), child: const Icon(Icons.flash_on, color: Colors.white, size: 26)),
+                        const SizedBox(width: 14),
                         Expanded(
                           child: Column(
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: const [
-                              Text('الأفعال والتصريفات ⚡', style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold, color: Colors.white)),
-                              SizedBox(height: 4),
-                              Text('15 فعلًا مع جداول التصريف في الحاضر', style: TextStyle(fontSize: 12, color: Color(0xFFDBEAFE))),
+                              Text('الأفعال والتصريفات ⚡', style: TextStyle(fontSize: 15, fontWeight: FontWeight.bold, color: Colors.white)),
+                              Text('15 فعلًا مع جداول التصريف في الحاضر', style: TextStyle(fontSize: 11, color: Color(0xFFDBEAFE))),
                             ],
                           ),
                         ),
-                        const Icon(Icons.arrow_forward_ios, size: 16, color: Colors.white),
+                        const Icon(Icons.arrow_forward_ios, size: 14, color: Colors.white),
+                      ],
+                    ),
+                  ),
+                ),
+                const SizedBox(height: 10),
+
+                // 3. بطاقة حروف الجر والقواعد الجديدة
+                InkWell(
+                  onTap: () {
+                    Navigator.push(context, MaterialPageRoute(builder: (_) => PrepositionsScreen(targetLang: _targetLang)));
+                  },
+                  borderRadius: BorderRadius.circular(16),
+                  child: Container(
+                    padding: const EdgeInsets.all(14),
+                    decoration: BoxDecoration(
+                      gradient: const LinearGradient(colors: [Color(0xFFEA580C), Color(0xFFC2410C)]),
+                      borderRadius: BorderRadius.circular(16),
+                      boxShadow: [BoxShadow(color: const Color(0xFFEA580C).withOpacity(0.3), blurRadius: 8, offset: const Offset(0, 3))],
+                    ),
+                    child: Row(
+                      children: [
+                        Container(padding: const EdgeInsets.all(10), decoration: BoxDecoration(color: Colors.white.withOpacity(0.2), borderRadius: BorderRadius.circular(12)), child: const Icon(Icons.near_me_outlined, color: Colors.white, size: 26)),
+                        const SizedBox(width: 14),
+                        Expanded(
+                          child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: const [
+                              Text('حروف الجر والقواعد المكانية 📍', style: TextStyle(fontSize: 15, fontWeight: FontWeight.bold, color: Colors.white)),
+                              Text('20 حرف جر مع حالات Dativ و Akkusativ و Wechsel', style: TextStyle(fontSize: 11, color: Color(0xFFFFEDD5))),
+                            ],
+                          ),
+                        ),
+                        const Icon(Icons.arrow_forward_ios, size: 14, color: Colors.white),
                       ],
                     ),
                   ),
                 ),
                 const SizedBox(height: 16),
 
-                // الأقسام الـ 12 النشطة
+                // الأقسام الـ 12 النشطة للمفردات
                 _buildCategoryCard('العائلة', 'Familie', 'Family', _repository.getConcepts('family'), Icons.people_outline, const Color(0xFF0284C7)),
-                const SizedBox(height: 12),
+                const SizedBox(height: 10),
                 _buildCategoryCard('الطعام والشراب', 'Essen & Trinken', 'Food & Drinks', _repository.getConcepts('food'), Icons.restaurant_outlined, const Color(0xFFEA580C)),
-                const SizedBox(height: 12),
+                const SizedBox(height: 10),
                 _buildCategoryCard('المنزل والأثاث', 'Zuhause & Möbel', 'Home & Furniture', _repository.getConcepts('home'), Icons.home_outlined, const Color(0xFF7C3AED)),
-                const SizedBox(height: 12),
+                const SizedBox(height: 10),
                 _buildCategoryCard('الملابس والمظهر', 'Kleidung & Aussehen', 'Clothes & Appearance', _repository.getConcepts('clothes'), Icons.checkroom_outlined, const Color(0xFFE11D48)),
-                const SizedBox(height: 12),
+                const SizedBox(height: 10),
                 _buildCategoryCard('الألوان والأرقام', 'Farben & Zahlen', 'Colors & Numbers', _repository.getConcepts('colors_numbers'), Icons.palette_outlined, const Color(0xFFD97706)),
-                const SizedBox(height: 12),
+                const SizedBox(height: 10),
                 _buildCategoryCard('الوقت والتقويم', 'Zeit & Kalender', 'Time & Calendar', _repository.getConcepts('time_calendar'), Icons.access_time_outlined, const Color(0xFF0891B2)),
-                const SizedBox(height: 12),
+                const SizedBox(height: 10),
                 _buildCategoryCard('الجسم والصحة', 'Körper & Gesundheit', 'Body & Health', _repository.getConcepts('body_health'), Icons.favorite_border, const Color(0xFF059669)),
-                const SizedBox(height: 12),
+                const SizedBox(height: 10),
                 _buildCategoryCard('المدينة والمواصلات', 'Stadt & Verkehr', 'City & Transport', _repository.getConcepts('city_transport'), Icons.directions_bus_outlined, const Color(0xFF1E3A8A)),
-                const SizedBox(height: 12),
+                const SizedBox(height: 10),
                 _buildCategoryCard('الطبيعة والحيوانات', 'Natur & Tiere', 'Nature & Animals', _repository.getConcepts('nature_animals'), Icons.eco_outlined, const Color(0xFF15803D)),
-                const SizedBox(height: 12),
+                const SizedBox(height: 10),
                 _buildCategoryCard('العمل والمهن', 'Arbeit & Berufe', 'Work & Jobs', _repository.getConcepts('work_study'), Icons.work_outline, const Color(0xFF6B21A8)),
-                const SizedBox(height: 12),
+                const SizedBox(height: 10),
                 _buildCategoryCard('المشاعر والصفات', 'Gefühle & Adjektive', 'Feelings & Adjectives', _repository.getConcepts('feelings_adjectives'), Icons.sentiment_satisfied_alt_outlined, const Color(0xFFB45309)),
-                const SizedBox(height: 12),
+                const SizedBox(height: 10),
                 _buildCategoryCard('السفر والفندق', 'Reisen & Hotel', 'Travel & Hotel', _repository.getConcepts('travel_hotel'), Icons.flight_takeoff_outlined, const Color(0xFF0D9488)),
-                const SizedBox(height: 12),
-
-                // أقسام قادمة
-                _buildLockedCard('التسوق والمال', 'Einkaufen & Geld', 'Shopping & Money', 30),
               ],
             ),
     );
@@ -222,41 +242,27 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
       },
       borderRadius: BorderRadius.circular(16),
       child: Container(
-        padding: const EdgeInsets.all(16),
+        padding: const EdgeInsets.all(14),
         decoration: BoxDecoration(
           color: Colors.white,
           borderRadius: BorderRadius.circular(16),
           border: Border.all(color: color.withOpacity(0.3), width: 1.5),
-          boxShadow: [BoxShadow(color: color.withOpacity(0.06), blurRadius: 10, offset: const Offset(0, 4))],
+          boxShadow: [BoxShadow(color: color.withOpacity(0.05), blurRadius: 8, offset: const Offset(0, 3))],
         ),
         child: Row(
           children: [
-            Container(padding: const EdgeInsets.all(12), decoration: BoxDecoration(color: color.withOpacity(0.1), borderRadius: BorderRadius.circular(12)), child: Icon(icon, color: color, size: 28)),
-            const SizedBox(width: 16),
+            Container(padding: const EdgeInsets.all(10), decoration: BoxDecoration(color: color.withOpacity(0.1), borderRadius: BorderRadius.circular(12)), child: Icon(icon, color: color, size: 26)),
+            const SizedBox(width: 14),
             Expanded(
               child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-                Text('$ar • $active', style: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold, color: Color(0xFF0F172A))),
-                const SizedBox(height: 4),
-                Text('${concepts.length} مفردة واختبارات جاهزة', style: const TextStyle(fontSize: 13, color: Color(0xFF64748B))),
+                Text('$ar • $active', style: const TextStyle(fontSize: 15, fontWeight: FontWeight.bold, color: Color(0xFF0F172A))),
+                const SizedBox(height: 2),
+                Text('${concepts.length} مفردة واختبارات جاهزة', style: const TextStyle(fontSize: 12, color: Color(0xFF64748B))),
               ]),
             ),
-            const Icon(Icons.arrow_forward_ios, size: 16, color: Color(0xFF94A3B8)),
+            const Icon(Icons.arrow_forward_ios, size: 14, color: Color(0xFF94A3B8)),
           ],
         ),
-      ),
-    );
-  }
-
-  Widget _buildLockedCard(String ar, String de, String en, int count) {
-    return Container(
-      padding: const EdgeInsets.all(16),
-      decoration: BoxDecoration(color: Colors.white.withOpacity(0.6), borderRadius: BorderRadius.circular(16), border: Border.all(color: const Color(0xFFE2E8F0))),
-      child: Row(
-        children: [
-          Container(padding: const EdgeInsets.all(12), decoration: BoxDecoration(color: const Color(0xFFF1F5F9), borderRadius: BorderRadius.circular(12)), child: const Icon(Icons.lock_outline, color: Color(0xFF94A3B8), size: 24)),
-          const SizedBox(width: 16),
-          Expanded(child: Text('$ar • ${_targetLang == 'de' ? de : en} ($count مفردة)', style: const TextStyle(fontSize: 14, color: Color(0xFF94A3B8), fontWeight: FontWeight.w500))),
-        ],
       ),
     );
   }

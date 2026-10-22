@@ -1,14 +1,16 @@
 # حالة المشروع (PROJECT_STATE)
 
-* **Cycle**: 020
-* **Phase**: PHASE 13 — تفعيل قسم السفر والفندق (305 Concepts Milestone)
+* **Cycle**: 021
+* **Phase**: PHASE 16 — محرك حروف الجر والقواعد المكانية (Prepositions Engine)
 * **Status**: Local Verified & Pushed
 * **Content Inventory**:
   - `Vocabulary`: 305 مفاهيم لغوية متكاملة عبر 12 قسمًا نشطًا كاملًا
   - `Verbs`: 15 فعلًا أساسيًا مع جداول تصريف كاملة باللغات الثلاث
+  - `Prepositions`: 20 حرف جر بقواعد الحالات الإعرابية (Wechsel / Dativ / Akkusativ)
   - `Sentences`: 20 تمرين تركيب جمل تفاعلي
-  - `Assets`: 320 ملف SVG متجهي أصلي مدمج محليًا
+  - `Assets`: 340 ملف SVG متجهي أصلي مدمج محليًا
 * **Architecture Additions**:
-  - `travel_hotel_a1.json`: قسم السفر والفندق والسياحة مدمج ومفحوص بالكامل.
-  - فهرسة فورية لمصطلحات المطارات والمطاعم والحجز الفندقي ضمن محرك البحث والـ Quiz.
-* **Next Step**: CYCLE 021 — إطلاق محرك حروف الجر المكانية والزمانية (Prepositions Engine) لربط الأسماء بالاتجاهات والأوقات.
+  - `prepositions_a1.json`: قاعدة بيانات حروف الجر مع تصنيف الحالات الإعرابية والأمثلة.
+  - `lib/models/preposition_model.dart`: نموذج Dart لحروف الجر وقواعدها.
+  - `lib/screens/prepositions_screen.dart`: واجهة تفاعلية مع فلاتر سريعة للـ Wechsel و Dativ و Akkusativ.
+* **Next Step**: CYCLE 022 — إطلاق محرك المحادثات اليومية وحوارات التعارف والمواقف الواقعية (Situational Dialogues Engine).
