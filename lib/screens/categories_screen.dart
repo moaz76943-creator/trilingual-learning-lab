@@ -188,7 +188,6 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
 
                 // أقسام قادمة
                 _buildLockedCard('الوقت والتقويم', 'Zeit & Kalender', 'Time & Calendar', 25),
-                const SizedBox(height: 12),
                 _buildLockedCard('الجسم والصحة', 'Körper & Gesundheit', 'Body & Health', 30),
               ],
             ),
