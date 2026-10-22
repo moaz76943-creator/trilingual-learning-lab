@@ -191,7 +191,6 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
 
                 // أقسام قادمة
                 _buildLockedCard('الجسم والصحة', 'Körper & Gesundheit', 'Body & Health', 30),
-                const SizedBox(height: 12),
                 _buildLockedCard('المدينة والمواصلات', 'Stadt & Verkehr', 'City & Transport', 30),
               ],
             ),

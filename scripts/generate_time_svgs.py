@@ -1,10 +1,10 @@
 import json, os
 
 PALETTES = {
-    "day": {"bg": "#EFF6FF", "primary": "#2563EB", "secondary": "#60A5FA"},       # أزرق أيقونات النهار
-    "sun": {"bg": "#FEF3C7", "primary": "#D97706", "secondary": "#FBBF24"},       # شمس وصباح وظهر
-    "night": {"bg": "#0F172A", "primary": "#6366F1", "secondary": "#C7D2FE"},     # ليل وظلام ونجوم
-    "calendar": {"bg": "#ECFDF5", "primary": "#059669", "secondary": "#34D399"}   # تقويم وعطلة
+    "day": {"bg": "#EFF6FF", "primary": "#2563EB", "secondary": "#60A5FA"},
+    "sun": {"bg": "#FEF3C7", "primary": "#D97706", "secondary": "#FBBF24"},
+    "night": {"bg": "#0F172A", "primary": "#6366F1", "secondary": "#C7D2FE"},
+    "calendar": {"bg": "#ECFDF5", "primary": "#059669", "secondary": "#34D399"}
 }
 
 def create_time_svg(path, theme, sym, text_label=""):
