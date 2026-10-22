@@ -1190,6 +1190,181 @@
       "ownership": "Project Original",
       "license": "CC0-1.0",
       "size_bytes": 485
+    },
+    "img_body_body": {
+      "asset_path": "content/assets/svg/img_body_body.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 271
+    },
+    "img_body_head": {
+      "asset_path": "content/assets/svg/img_body_head.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 271
+    },
+    "img_body_eye": {
+      "asset_path": "content/assets/svg/img_body_eye.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 302
+    },
+    "img_body_ear": {
+      "asset_path": "content/assets/svg/img_body_ear.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 314
+    },
+    "img_body_nose": {
+      "asset_path": "content/assets/svg/img_body_nose.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 271
+    },
+    "img_body_mouth": {
+      "asset_path": "content/assets/svg/img_body_mouth.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 271
+    },
+    "img_body_tooth": {
+      "asset_path": "content/assets/svg/img_body_tooth.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 335
+    },
+    "img_body_hand": {
+      "asset_path": "content/assets/svg/img_body_hand.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 424
+    },
+    "img_body_finger": {
+      "asset_path": "content/assets/svg/img_body_finger.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 424
+    },
+    "img_body_arm": {
+      "asset_path": "content/assets/svg/img_body_arm.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 424
+    },
+    "img_body_foot": {
+      "asset_path": "content/assets/svg/img_body_foot.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 424
+    },
+    "img_body_leg": {
+      "asset_path": "content/assets/svg/img_body_leg.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 424
+    },
+    "img_body_stomach": {
+      "asset_path": "content/assets/svg/img_body_stomach.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 262
+    },
+    "img_body_back": {
+      "asset_path": "content/assets/svg/img_body_back.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 271
+    },
+    "img_body_heart": {
+      "asset_path": "content/assets/svg/img_body_heart.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 262
+    },
+    "img_body_hair": {
+      "asset_path": "content/assets/svg/img_body_hair.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 271
+    },
+    "img_body_doctor": {
+      "asset_path": "content/assets/svg/img_body_doctor.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 283
+    },
+    "img_body_hospital": {
+      "asset_path": "content/assets/svg/img_body_hospital.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 283
+    },
+    "img_body_medicine": {
+      "asset_path": "content/assets/svg/img_body_medicine.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 291
+    },
+    "img_body_pharmacy": {
+      "asset_path": "content/assets/svg/img_body_pharmacy.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 283
+    },
+    "img_body_health": {
+      "asset_path": "content/assets/svg/img_body_health.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 262
+    },
+    "img_body_pain": {
+      "asset_path": "content/assets/svg/img_body_pain.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 262
+    },
+    "img_body_fever": {
+      "asset_path": "content/assets/svg/img_body_fever.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 322
+    },
+    "img_body_sick": {
+      "asset_path": "content/assets/svg/img_body_sick.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 322
+    },
+    "img_body_healthy": {
+      "asset_path": "content/assets/svg/img_body_healthy.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 262
     }
   }
 }

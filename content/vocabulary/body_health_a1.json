@@ -1,0 +1,183 @@
+{
+  "category_id": "body_health",
+  "category_name": { "ar": "الجسم والصحة", "de": "Körper & Gesundheit", "en": "Body & Health" },
+  "level": "A1",
+  "version": 1,
+  "concepts": [
+    {
+      "concept_id": "body_001_body",
+      "ar": { "word": "جسم", "vocalized": "جِسْم", "gender": "m", "plural": "أَجْسَام", "example": "الرِّيَاضَةُ مُفِيدَةٌ لِلْجِسْمِ." },
+      "de": { "article": "der", "word": "Körper", "plural": "Körper", "example": "Sport ist gesund für den Körper." },
+      "en": { "word": "body", "plural": "bodies", "example": "Exercise is good for the body." },
+      "image_id": "img_body_body"
+    },
+    {
+      "concept_id": "body_002_head",
+      "ar": { "word": "رأس", "vocalized": "رَأْس", "gender": "m", "plural": "رُؤُوس", "example": "أَشْعُرُ بِأَلَمٍ فِي الرَّأْسِ." },
+      "de": { "article": "der", "word": "Kopf", "plural": "Köpfe", "example": "Ich habe Kopfschmerzen." },
+      "en": { "word": "head", "plural": "heads", "example": "I have pain in my head." },
+      "image_id": "img_body_head"
+    },
+    {
+      "concept_id": "body_003_eye",
+      "ar": { "word": "عين", "vocalized": "عَيْن", "gender": "f", "plural": "عُيُون", "example": "عَيْنَايَ بُنِّيَّتَانِ." },
+      "de": { "article": "das", "word": "Auge", "plural": "Augen", "example": "Meine Augen sind braun." },
+      "en": { "word": "eye", "plural": "eyes", "example": "My eyes are brown." },
+      "image_id": "img_body_eye"
+    },
+    {
+      "concept_id": "body_004_ear",
+      "ar": { "word": "أذن", "vocalized": "أُذُن", "gender": "f", "plural": "آذَان", "example": "أَسْمَعُ الصَّوْتَ بِأُذُنِي." },
+      "de": { "article": "das", "word": "Ohr", "plural": "Ohren", "example": "Ich höre mit den Ohren." },
+      "en": { "word": "ear", "plural": "ears", "example": "I hear with my ears." },
+      "image_id": "img_body_ear"
+    },
+    {
+      "concept_id": "body_005_nose",
+      "ar": { "word": "أنف", "vocalized": "أَنْف", "gender": "m", "plural": "آنَاف", "example": "أَتَنَفَّسُ مِنَ الأَنْفِ." },
+      "de": { "article": "die", "word": "Nase", "plural": "Nasen", "example": "Ich atme durch die Nase." },
+      "en": { "word": "nose", "plural": "noses", "example": "I breathe through my nose." },
+      "image_id": "img_body_nose"
+    },
+    {
+      "concept_id": "body_006_mouth",
+      "ar": { "word": "فم", "vocalized": "فَم", "gender": "m", "plural": "أَفْوَاه", "example": "افْتَحْ فَمَكَ عِنْدَ الطَّبِيبِ." },
+      "de": { "article": "der", "word": "Mund", "plural": "Münder", "example": "Öffne den Mund beim Arzt." },
+      "en": { "word": "mouth", "plural": "mouths", "example": "Open your mouth at the doctor's." },
+      "image_id": "img_body_mouth"
+    },
+    {
+      "concept_id": "body_007_tooth",
+      "ar": { "word": "سن", "vocalized": "سِنّ", "gender": "m", "plural": "أَسْنَان", "example": "أُنَظِّفُ أَسْنَانِي كُلَّ يَوْمٍ." },
+      "de": { "article": "der", "word": "Zahn", "plural": "Zähne", "example": "Ich putze meine Zähne jeden Tag." },
+      "en": { "word": "tooth", "plural": "teeth", "example": "I brush my teeth every day." },
+      "image_id": "img_body_tooth"
+    },
+    {
+      "concept_id": "body_008_hand",
+      "ar": { "word": "يد", "vocalized": "يَد", "gender": "f", "plural": "أَيْدٍ", "example": "اغْسِلْ يَدَيْكَ قَبْلَ الأَكْلِ." },
+      "de": { "article": "die", "word": "Hand", "plural": "Hände", "example": "Wasche deine Hände vor dem Essen." },
+      "en": { "word": "hand", "plural": "hands", "example": "Wash your hands before eating." },
+      "image_id": "img_body_hand"
+    },
+    {
+      "concept_id": "body_009_finger",
+      "ar": { "word": "إصبع", "vocalized": "إِصْبَع", "gender": "m", "plural": "أَصَابِع", "example": "فِي اليَدِ خَمْسُ أَصَابِعَ." },
+      "de": { "article": "der", "word": "Finger", "plural": "Finger", "example": "Die Hand hat fünf Finger." },
+      "en": { "word": "finger", "plural": "fingers", "example": "The hand has five fingers." },
+      "image_id": "img_body_finger"
+    },
+    {
+      "concept_id": "body_010_arm",
+      "ar": { "word": "ذراع", "vocalized": "ذِرَاع", "gender": "f", "plural": "أَذْرُع", "example": "ذِرَاعِي قَوِيَّةٌ." },
+      "de": { "article": "der", "word": "Arm", "plural": "Arme", "example": "Mein Arm ist stark." },
+      "en": { "word": "arm", "plural": "arms", "example": "My arm is strong." },
+      "image_id": "img_body_arm"
+    },
+    {
+      "concept_id": "body_011_foot",
+      "ar": { "word": "قدم", "vocalized": "قَدَم", "gender": "f", "plural": "أَقْدَام", "example": "أَمْشِي عَلَى قَدَمَيَّ." },
+      "de": { "article": "der", "word": "Fuß", "plural": "Füße", "example": "Ich gehe zu Fuß." },
+      "en": { "word": "foot", "plural": "feet", "example": "I go on foot." },
+      "image_id": "img_body_foot"
+    },
+    {
+      "concept_id": "body_012_leg",
+      "ar": { "word": "ساق", "vocalized": "سَاق", "gender": "f", "plural": "سِيقَان", "example": "سَاقِي تُؤْلِمُنِي بَعْدَ الجَرْيِ." },
+      "de": { "article": "das", "word": "Bein", "plural": "Beine", "example": "Mein Bein tut nach dem Laufen weh." },
+      "en": { "word": "leg", "plural": "legs", "example": "My leg hurts after running." },
+      "image_id": "img_body_leg"
+    },
+    {
+      "concept_id": "body_013_stomach",
+      "ar": { "word": "معدة", "vocalized": "مَعِدَة", "gender": "f", "plural": "مَعِدَات", "example": "مَعِدَتِي مُمْتَلِئَةٌ بِالطَّعَامِ." },
+      "de": { "article": "der", "word": "Bauch", "plural": "Bäuche", "example": "Mein Magen ist voll mit Essen." },
+      "en": { "word": "stomach", "plural": "stomachs", "example": "My stomach is full of food." },
+      "image_id": "img_body_stomach"
+    },
+    {
+      "concept_id": "body_014_back",
+      "ar": { "word": "ظهر", "vocalized": "ظَهْر", "gender": "m", "plural": "ظُهُور", "example": "ظَهْرِي يَحْتَاجُ إِلَى الرَّاحَةِ." },
+      "de": { "article": "der", "word": "Rücken", "plural": "Rücken", "example": "Mein Rücken braucht Erholung." },
+      "en": { "word": "back", "plural": "backs", "example": "My back needs rest." },
+      "image_id": "img_body_back"
+    },
+    {
+      "concept_id": "body_015_heart",
+      "ar": { "word": "قلب", "vocalized": "قَلْب", "gender": "m", "plural": "قُلُوب", "example": "القَلْبُ يَنْبِضُ بَانْتِظَامٍ." },
+      "de": { "article": "das", "word": "Herz", "plural": "Herzen", "example": "Das Herz schlägt regelmäßig." },
+      "en": { "word": "heart", "plural": "hearts", "example": "The heart beats regularly." },
+      "image_id": "img_body_heart"
+    },
+    {
+      "concept_id": "body_016_hair",
+      "ar": { "word": "شعر", "vocalized": "شَعْر", "gender": "m", "plural": "شُعُور", "example": "شَعْرُهَا أَسْوَدُ وجَمِيلٌ." },
+      "de": { "article": "das", "word": "Haar", "plural": "Haare", "example": "Ihr Haar ist schwarz und schön." },
+      "en": { "word": "hair", "plural": "hairs", "example": "Her hair is black and beautiful." },
+      "image_id": "img_body_hair"
+    },
+    {
+      "concept_id": "body_017_doctor",
+      "ar": { "word": "طبيب", "vocalized": "طَبِيب", "gender": "m", "plural": "أَطِبَّاء", "example": "أَذْهَبُ إِلَى الطَّبِيبِ عِنْدَ المَرَضِ." },
+      "de": { "article": "der", "word": "Arzt", "plural": "Ärzte", "example": "Ich gehe zum Arzt, wenn ich krank bin." },
+      "en": { "word": "doctor", "plural": "doctors", "example": "I go to the doctor when I am sick." },
+      "image_id": "img_body_doctor"
+    },
+    {
+      "concept_id": "body_018_hospital",
+      "ar": { "word": "مستشفى", "vocalized": "مُسْتَشْفَى", "gender": "m", "plural": "مُسْتَشْفَيَات", "example": "المُسْتَشْفَى قَرِيبٌ مِنْ هُنَا." },
+      "de": { "article": "das", "word": "Krankenhaus", "plural": "Krankenhäuser", "example": "Das Krankenhaus ist in der Nähe." },
+      "en": { "word": "hospital", "plural": "hospitals", "example": "The hospital is nearby." },
+      "image_id": "img_body_hospital"
+    },
+    {
+      "concept_id": "body_019_medicine",
+      "ar": { "word": "دواء", "vocalized": "دَوَاء", "gender": "m", "plural": "أَدْوِيَة", "example": "آخُذُ الدَّوَاءَ فِي وَقْتِهِ." },
+      "de": { "article": "das", "word": "Medikament", "plural": "Medikamente", "example": "Ich nehme das Medikament rechtzeitig." },
+      "en": { "word": "medicine", "plural": "medicines", "example": "I take the medicine on time." },
+      "image_id": "img_body_medicine"
+    },
+    {
+      "concept_id": "body_020_pharmacy",
+      "ar": { "word": "صيدلية", "vocalized": "صَيْدَلِيَّة", "gender": "f", "plural": "صَيْدَلِيَّات", "example": "أَشْتَرِي الدَّوَاءَ مِنَ الصَّيْدَلِيَّةِ." },
+      "de": { "article": "die", "word": "Apotheke", "plural": "Apotheken", "example": "Ich kaufe Medizin in der Apotheke." },
+      "en": { "word": "pharmacy", "plural": "pharmacies", "example": "I buy medicine at the pharmacy." },
+      "image_id": "img_body_pharmacy"
+    },
+    {
+      "concept_id": "body_021_health",
+      "ar": { "word": "صحة", "vocalized": "صِحَّة", "gender": "f", "plural": "صِحَّات", "example": "الصِّحَّةُ أَهَمُّ شَيْءٍ." },
+      "de": { "article": "die", "word": "Gesundheit", "plural": "Gesundheiten", "example": "Gesundheit ist das Wichtigste." },
+      "en": { "word": "health", "plural": "healths", "example": "Health is the most important thing." },
+      "image_id": "img_body_health"
+    },
+    {
+      "concept_id": "body_022_pain",
+      "ar": { "word": "ألم", "vocalized": "أَلَم", "gender": "m", "plural": "آلَام", "example": "أَيْنَ مَكَانُ الأَلَمِ؟" },
+      "de": { "article": "der", "word": "Schmerz", "plural": "Schmerzen", "example": "Wo ist der Schmerz?" },
+      "en": { "word": "pain", "plural": "pains", "example": "Where is the pain?" },
+      "image_id": "img_body_pain"
+    },
+    {
+      "concept_id": "body_023_fever",
+      "ar": { "word": "حمى", "vocalized": "حُمَّى", "gender": "f", "plural": "حُمَّيَات", "example": "عِنْدَهُ حُمَّى شَدِيدَةٌ." },
+      "de": { "article": "das", "word": "Fieber", "plural": "Fieber", "example": "Er hat hohes Fieber." },
+      "en": { "word": "fever", "plural": "fevers", "example": "He has a high fever." },
+      "image_id": "img_body_fever"
+    },
+    {
+      "concept_id": "body_024_sick",
+      "ar": { "word": "مريض", "vocalized": "مَرِيض", "gender": "m", "plural": "مَرْضَى", "example": "صَدِيقِي مَرِيضٌ اليَوْمَ." },
+      "de": { "article": "der", "word": "Kranke", "plural": "Kranke", "example": "Mein Freund ist heute krank." },
+      "en": { "word": "sick", "plural": "sicks", "example": "My friend is sick today." },
+      "image_id": "img_body_sick"
+    },
+    {
+      "concept_id": "body_025_healthy",
+      "ar": { "word": "سليم", "vocalized": "سَلِيم", "gender": "m", "plural": "سُلَمَاء", "example": "أَنَا سَلِيمٌ ومُعَافَى." },
+      "de": { "article": "der", "word": "Gesunde", "plural": "Gesunde", "example": "Ich bin gesund und fit." },
+      "en": { "word": "healthy", "plural": "healthies", "example": "I am healthy and fit." },
+      "image_id": "img_body_healthy"
+    }
+  ]
+}

@@ -70,6 +70,13 @@ class ContentRepository {
       titleEn: 'Time & Calendar',
       jsonPath: 'content/vocabulary/time_calendar_a1.json',
     ),
+    CategoryInfo(
+      id: 'body_health',
+      titleAr: 'الجسم والصحة',
+      titleDe: 'Körper & Gesundheit',
+      titleEn: 'Body & Health',
+      jsonPath: 'content/vocabulary/body_health_a1.json',
+    ),
   ];
 
   Future<bool> loadAllActiveCategories() async {
