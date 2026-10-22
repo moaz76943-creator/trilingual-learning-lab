@@ -98,6 +98,13 @@ class ContentRepository {
       titleEn: 'Work & Jobs',
       jsonPath: 'content/vocabulary/work_study_a1.json',
     ),
+    CategoryInfo(
+      id: 'feelings_adjectives',
+      titleAr: 'المشاعر والصفات',
+      titleDe: 'Gefühle & Adjektive',
+      titleEn: 'Feelings & Adjectives',
+      jsonPath: 'content/vocabulary/feelings_adjectives_a1.json',
+    ),
   ];
 
   Future<bool> loadAllActiveCategories() async {

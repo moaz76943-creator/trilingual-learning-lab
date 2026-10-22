@@ -1890,6 +1890,181 @@
       "ownership": "Project Original",
       "license": "CC0-1.0",
       "size_bytes": 332
+    },
+    "img_feel_happy": {
+      "asset_path": "content/assets/svg/img_feel_happy.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 381
+    },
+    "img_feel_sad": {
+      "asset_path": "content/assets/svg/img_feel_sad.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 381
+    },
+    "img_feel_big": {
+      "asset_path": "content/assets/svg/img_feel_big.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 280
+    },
+    "img_feel_small": {
+      "asset_path": "content/assets/svg/img_feel_small.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 260
+    },
+    "img_feel_good": {
+      "asset_path": "content/assets/svg/img_feel_good.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 320
+    },
+    "img_feel_bad": {
+      "asset_path": "content/assets/svg/img_feel_bad.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 384
+    },
+    "img_feel_hot": {
+      "asset_path": "content/assets/svg/img_feel_hot.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 381
+    },
+    "img_feel_cold": {
+      "asset_path": "content/assets/svg/img_feel_cold.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 381
+    },
+    "img_feel_fast": {
+      "asset_path": "content/assets/svg/img_feel_fast.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 280
+    },
+    "img_feel_slow": {
+      "asset_path": "content/assets/svg/img_feel_slow.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 260
+    },
+    "img_feel_tired": {
+      "asset_path": "content/assets/svg/img_feel_tired.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 381
+    },
+    "img_feel_active": {
+      "asset_path": "content/assets/svg/img_feel_active.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 381
+    },
+    "img_feel_new": {
+      "asset_path": "content/assets/svg/img_feel_new.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 320
+    },
+    "img_feel_old": {
+      "asset_path": "content/assets/svg/img_feel_old.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 260
+    },
+    "img_feel_beautiful": {
+      "asset_path": "content/assets/svg/img_feel_beautiful.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 262
+    },
+    "img_feel_ugly": {
+      "asset_path": "content/assets/svg/img_feel_ugly.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 381
+    },
+    "img_feel_easy": {
+      "asset_path": "content/assets/svg/img_feel_easy.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 320
+    },
+    "img_feel_difficult": {
+      "asset_path": "content/assets/svg/img_feel_difficult.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 384
+    },
+    "img_feel_rich": {
+      "asset_path": "content/assets/svg/img_feel_rich.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 280
+    },
+    "img_feel_poor": {
+      "asset_path": "content/assets/svg/img_feel_poor.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 260
+    },
+    "img_feel_hungry": {
+      "asset_path": "content/assets/svg/img_feel_hungry.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 381
+    },
+    "img_feel_thirsty": {
+      "asset_path": "content/assets/svg/img_feel_thirsty.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 381
+    },
+    "img_feel_friendly": {
+      "asset_path": "content/assets/svg/img_feel_friendly.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 381
+    },
+    "img_feel_angry": {
+      "asset_path": "content/assets/svg/img_feel_angry.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 494
+    },
+    "img_feel_heart": {
+      "asset_path": "content/assets/svg/img_feel_heart.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 262
     }
   }
 }

@@ -1,0 +1,183 @@
+{
+  "category_id": "feelings_adjectives",
+  "category_name": { "ar": "المشاعر والصفات", "de": "Gefühle & Adjektive", "en": "Feelings & Adjectives" },
+  "level": "A1",
+  "version": 1,
+  "concepts": [
+    {
+      "concept_id": "feel_001_happy",
+      "ar": { "word": "سعيد", "vocalized": "سَعِيد", "gender": "m", "plural": "سُعَدَاء", "example": "أَنَا سَعِيدٌ جِدًّا اليَوْمَ." },
+      "de": { "article": "das", "word": "Glücklich", "plural": "Glückliche", "example": "Ich bin heute sehr glücklich." },
+      "en": { "word": "happy", "plural": "happy", "example": "I am very happy today." },
+      "image_id": "img_feel_happy"
+    },
+    {
+      "concept_id": "feel_002_sad",
+      "ar": { "word": "حزين", "vocalized": "حَزِين", "gender": "m", "plural": "حَزَانَى", "example": "لِمَاذَا أَنْتَ حَزِينٌ؟" },
+      "de": { "article": "das", "word": "Traurig", "plural": "Traurige", "example": "Warum bist du traurig?" },
+      "en": { "word": "sad", "plural": "sad", "example": "Why are you sad?" },
+      "image_id": "img_feel_sad"
+    },
+    {
+      "concept_id": "feel_003_big",
+      "ar": { "word": "كبير", "vocalized": "كَبِير", "gender": "m", "plural": "كِبَار", "example": "هَذَا البَيْتُ كَبِيرٌ وَوَاسِعٌ." },
+      "de": { "article": "das", "word": "Groß", "plural": "Große", "example": "Dieses Haus ist sehr groß." },
+      "en": { "word": "big", "plural": "big", "example": "This house is very big." },
+      "image_id": "img_feel_big"
+    },
+    {
+      "concept_id": "feel_004_small",
+      "ar": { "word": "صغير", "vocalized": "صَغِير", "gender": "m", "plural": "صِغَار", "example": "القِطَّةُ صَغِيرَةٌ وَلَطِيفَةٌ." },
+      "de": { "article": "das", "word": "Klein", "plural": "Kleine", "example": "Die Katze ist klein und süß." },
+      "en": { "word": "small", "plural": "small", "example": "The cat is small and cute." },
+      "image_id": "img_feel_small"
+    },
+    {
+      "concept_id": "feel_005_good",
+      "ar": { "word": "جيد", "vocalized": "جَيِّد", "gender": "m", "plural": "جِيَاد", "example": "الفِكْرَةُ جَيِّدَةٌ ومُمْتَازَةٌ." },
+      "de": { "article": "das", "word": "Gut", "plural": "Gute", "example": "Die Idee ist wirklich gut." },
+      "en": { "word": "good", "plural": "good", "example": "The idea is really good." },
+      "image_id": "img_feel_good"
+    },
+    {
+      "concept_id": "feel_006_bad",
+      "ar": { "word": "سيئ", "vocalized": "سَيِّئ", "gender": "m", "plural": "سَيِّئُون", "example": "الطَّقْسُ سَيِّئٌ اليَوْمَ." },
+      "de": { "article": "das", "word": "Schlecht", "plural": "Schlechte", "example": "Das Wetter ist heute schlecht." },
+      "en": { "word": "bad", "plural": "bad", "example": "The weather is bad today." },
+      "image_id": "img_feel_bad"
+    },
+    {
+      "concept_id": "feel_007_hot",
+      "ar": { "word": "ساخن", "vocalized": "سَاخِن", "gender": "m", "plural": "سَاخِنُون", "example": "الشَّايُ سَاخِنٌ جِدًّا." },
+      "de": { "article": "das", "word": "Heiß", "plural": "Heiße", "example": "Der Tee ist sehr heiß." },
+      "en": { "word": "hot", "plural": "hot", "example": "The tea is very hot." },
+      "image_id": "img_feel_hot"
+    },
+    {
+      "concept_id": "feel_008_cold",
+      "ar": { "word": "بارد", "vocalized": "بَارِد", "gender": "m", "plural": "بَارِدُون", "example": "المَاءُ بَارِدٌ ومُنْعِشٌ." },
+      "de": { "article": "das", "word": "Kalt", "plural": "Kalte", "example": "Das Wasser ist kalt." },
+      "en": { "word": "cold", "plural": "cold", "example": "The water is cold." },
+      "image_id": "img_feel_cold"
+    },
+    {
+      "concept_id": "feel_009_fast",
+      "ar": { "word": "سريع", "vocalized": "سَرِيع", "gender": "m", "plural": "سِرَاع", "example": "القِطَارُ سَرِيعٌ جِدًّا." },
+      "de": { "article": "das", "word": "Schnell", "plural": "Schnelle", "example": "Der Zug ist sehr schnell." },
+      "en": { "word": "fast", "plural": "fast", "example": "The train is very fast." },
+      "image_id": "img_feel_fast"
+    },
+    {
+      "concept_id": "feel_010_slow",
+      "ar": { "word": "بطيء", "vocalized": "بَطِيء", "gender": "m", "plural": "بِطَاء", "example": "السُّلَحْفَاةُ بَطِيئَةٌ." },
+      "de": { "article": "das", "word": "Langsam", "plural": "Langsame", "example": "Die Schildkröte ist langsam." },
+      "en": { "word": "slow", "plural": "slow", "example": "The turtle is slow." },
+      "image_id": "img_feel_slow"
+    },
+    {
+      "concept_id": "feel_011_tired",
+      "ar": { "word": "تعبان", "vocalized": "تَعْبَان", "gender": "m", "plural": "تَعَابَى", "example": "أَنَا تَعْبَانٌ وأُرِيدُ النَّوْمَ." },
+      "de": { "article": "das", "word": "Müde", "plural": "Müde", "example": "Ich bin müde und will schlafen." },
+      "en": { "word": "tired", "plural": "tired", "example": "I am tired and want to sleep." },
+      "image_id": "img_feel_tired"
+    },
+    {
+      "concept_id": "feel_012_active",
+      "ar": { "word": "نشيط", "vocalized": "نَشِيط", "gender": "m", "plural": "نُشَطَاء", "example": "أَشْعُرُ بِالنَّشَاطِ فِي الصَّبَاحِ." },
+      "de": { "article": "das", "word": "Fit", "plural": "Fitte", "example": "Ich bin morgens fit." },
+      "en": { "word": "active", "plural": "active", "example": "I am active in the morning." },
+      "image_id": "img_feel_active"
+    },
+    {
+      "concept_id": "feel_013_new",
+      "ar": { "word": "جديد", "vocalized": "جَدِيد", "gender": "m", "plural": "جُدُد", "example": "اشْتَرَيْتُ هَاتِفًا جَدِيدًا." },
+      "de": { "article": "das", "word": "Neu", "plural": "Neue", "example": "Ich habe ein neues Handy." },
+      "en": { "word": "new", "plural": "new", "example": "I have a new phone." },
+      "image_id": "img_feel_new"
+    },
+    {
+      "concept_id": "feel_014_old",
+      "ar": { "word": "قديم", "vocalized": "قَدِيم", "gender": "m", "plural": "قُدَمَاء", "example": "هَذَا الكِتَابُ قَدِيمٌ." },
+      "de": { "article": "das", "word": "Alt", "plural": "Alte", "example": "Dieses Buch ist alt." },
+      "en": { "word": "old", "plural": "old", "example": "This book is old." },
+      "image_id": "img_feel_old"
+    },
+    {
+      "concept_id": "feel_015_beautiful",
+      "ar": { "word": "جميل", "vocalized": "جَمِيل", "gender": "m", "plural": "جُمَلَاء", "example": "المَدِينَةُ جَمِيلَةٌ لَيْلًا." },
+      "de": { "article": "das", "word": "Schön", "plural": "Schöne", "example": "Die Stadt ist nachts schön." },
+      "en": { "word": "beautiful", "plural": "beautiful", "example": "The city is beautiful at night." },
+      "image_id": "img_feel_beautiful"
+    },
+    {
+      "concept_id": "feel_016_ugly",
+      "ar": { "word": "قبيح", "vocalized": "قَبِيح", "gender": "m", "plural": "قِبَاح", "example": "المَنْظَرُ لَيْسَ جَمِيلًا." },
+      "de": { "article": "das", "word": "Hässlich", "plural": "Hässliche", "example": "Die Aussicht ist hässlich." },
+      "en": { "word": "ugly", "plural": "ugly", "example": "The view is ugly." },
+      "image_id": "img_feel_ugly"
+    },
+    {
+      "concept_id": "feel_017_easy",
+      "ar": { "word": "سهل", "vocalized": "سَهْل", "gender": "m", "plural": "سُهُول", "example": "الدَّرْسُ سَهْلٌ لِلْغَايَةِ." },
+      "de": { "article": "das", "word": "Einfach", "plural": "Einfache", "example": "Die Lektion ist einfach." },
+      "en": { "word": "easy", "plural": "easy", "example": "The lesson is easy." },
+      "image_id": "img_feel_easy"
+    },
+    {
+      "concept_id": "feel_018_difficult",
+      "ar": { "word": "صعب", "vocalized": "صَعْب", "gender": "m", "plural": "صِعَاب", "example": "السُّؤَالُ لَيْسَ صَعْبًا." },
+      "de": { "article": "das", "word": "Schwer", "plural": "Schwere", "example": "Die Frage ist nicht schwer." },
+      "en": { "word": "difficult", "plural": "difficult", "example": "The question is not difficult." },
+      "image_id": "img_feel_difficult"
+    },
+    {
+      "concept_id": "feel_019_rich",
+      "ar": { "word": "غني", "vocalized": "غَنِيّ", "gender": "m", "plural": "أَغْنِيَاء", "example": "هُوَ رَجُلٌ غَنِيٌّ وكَرِيمٌ." },
+      "de": { "article": "das", "word": "Reich", "plural": "Reiche", "example": "Er ist ein reicher Mann." },
+      "en": { "word": "rich", "plural": "rich", "example": "He is a rich man." },
+      "image_id": "img_feel_rich"
+    },
+    {
+      "concept_id": "feel_020_poor",
+      "ar": { "word": "فقير", "vocalized": "فَقِير", "gender": "m", "plural": "فُقَرَاء", "example": "نُسَاعِدُ الشَّخْصَ الفَقِيرَ." },
+      "de": { "article": "das", "word": "Arm", "plural": "Arme", "example": "Wir helfen armen Menschen." },
+      "en": { "word": "poor", "plural": "poor", "example": "We help poor people." },
+      "image_id": "img_feel_poor"
+    },
+    {
+      "concept_id": "feel_021_hungry",
+      "ar": { "word": "جائع", "vocalized": "جَائِع", "gender": "m", "plural": "جِيَاع", "example": "أَنَا جَائِعٌ وأُرِيدُ طَعَامًا." },
+      "de": { "article": "das", "word": "Hungrig", "plural": "Hungrige", "example": "Ich bin hungrig." },
+      "en": { "word": "hungry", "plural": "hungry", "example": "I am hungry." },
+      "image_id": "img_feel_hungry"
+    },
+    {
+      "concept_id": "feel_022_thirsty",
+      "ar": { "word": "عطشان", "vocalized": "عَطْشَان", "gender": "m", "plural": "عِطَاش", "example": "أَنَا عَطْشَانٌ وأُرِيدُ مَاءً." },
+      "de": { "article": "das", "word": "Durstig", "plural": "Durstige", "example": "Ich bin durstig." },
+      "en": { "word": "thirsty", "plural": "thirsty", "example": "I am thirsty." },
+      "image_id": "img_feel_thirsty"
+    },
+    {
+      "concept_id": "feel_023_friendly",
+      "ar": { "word": "لطيف", "vocalized": "لَطِيف", "gender": "m", "plural": "لُطَفَاء", "example": "جَارِي لَطِيفٌ ومُبْتَسِمٌ." },
+      "de": { "article": "das", "word": "Freundlich", "plural": "Freundliche", "example": "Mein Nachbar ist freundlich." },
+      "en": { "word": "friendly", "plural": "friendly", "example": "My neighbor is friendly." },
+      "image_id": "img_feel_friendly"
+    },
+    {
+      "concept_id": "feel_024_angry",
+      "ar": { "word": "غاضب", "vocalized": "غَاضِب", "gender": "m", "plural": "غِضَاب", "example": "لَا تَكُنْ غَاضِبًا." },
+      "de": { "article": "das", "word": "Wütend", "plural": "Wütende", "example": "Sei nicht wütend." },
+      "en": { "word": "angry", "plural": "angry", "example": "Do not be angry." },
+      "image_id": "img_feel_angry"
+    },
+    {
+      "concept_id": "feel_025_feeling",
+      "ar": { "word": "شعور", "vocalized": "شُعُور", "gender": "m", "plural": "مَشَاعِر", "example": "لَدَيَّ شُعُورٌ إِيجَابِيٌّ." },
+      "de": { "article": "das", "word": "Gefühl", "plural": "Gefühle", "example": "Ich habe ein gutes Gefühl." },
+      "en": { "word": "feeling", "plural": "feelings", "example": "I have a good feeling." },
+      "image_id": "img_feel_heart"
+    }
+  ]
+}
