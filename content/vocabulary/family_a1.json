@@ -1,0 +1,82 @@
+{
+  "category_id": "family",
+  "category_name": {
+    "ar": "العائلة",
+    "de": "Familie",
+    "en": "Family"
+  },
+  "level": "A1",
+  "version": 1,
+  "concepts": [
+    {
+      "concept_id": "fam_001_family",
+      "ar": { "word": "عائلة", "vocalized": "عَائِلَة", "gender": "f", "plural": "عَائِلَات", "example": "هَذِهِ عَائِلَتِي." },
+      "de": { "article": "die", "word": "Familie", "plural": "Familien", "example": "Das ist meine Familie." },
+      "en": { "word": "family", "plural": "families", "example": "This is my family." },
+      "image_id": "img_fam_family"
+    },
+    {
+      "concept_id": "fam_002_father",
+      "ar": { "word": "أب", "vocalized": "أَب", "gender": "m", "plural": "آبَاء", "example": "أَبِي مُعَلِّمٌ." },
+      "de": { "article": "der", "word": "Vater", "plural": "Väter", "example": "Mein Vater ist Lehrer." },
+      "en": { "word": "father", "plural": "fathers", "example": "My father is a teacher." },
+      "image_id": "img_fam_father"
+    },
+    {
+      "concept_id": "fam_003_mother",
+      "ar": { "word": "أم", "vocalized": "أُمّ", "gender": "f", "plural": "أُمَّهَات", "example": "أُمِّي طَبِيبَةٌ." },
+      "de": { "article": "die", "word": "Mutter", "plural": "Mütter", "example": "Meine Mutter ist Ärztin." },
+      "en": { "word": "mother", "plural": "mothers", "example": "My mother is a doctor." },
+      "image_id": "img_fam_mother"
+    },
+    {
+      "concept_id": "fam_004_son",
+      "ar": { "word": "ابن", "vocalized": "اِبْن", "gender": "m", "plural": "أَبْنَاء", "example": "لَدَيَّ ابْنٌ وَاحِدٌ." },
+      "de": { "article": "der", "word": "Sohn", "plural": "Söhne", "example": "Ich habe einen Sohn." },
+      "en": { "word": "son", "plural": "sons", "example": "I have one son." },
+      "image_id": "img_fam_son"
+    },
+    {
+      "concept_id": "fam_005_daughter",
+      "ar": { "word": "ابنة", "vocalized": "اِبْنَة", "gender": "f", "plural": "بَنَات", "example": "اِبْنَتِي ذَكِيَّةٌ." },
+      "de": { "article": "die", "word": "Tochter", "plural": "Töchter", "example": "Meine Tochter ist klug." },
+      "en": { "word": "daughter", "plural": "daughters", "example": "My daughter is smart." },
+      "image_id": "img_fam_daughter"
+    },
+    {
+      "concept_id": "fam_006_brother",
+      "ar": { "word": "أخ", "vocalized": "أَخ", "gender": "m", "plural": "إِخْوَة", "example": "أَخِي يَسْكُنُ هُنَا." },
+      "de": { "article": "der", "word": "Bruder", "plural": "Brüder", "example": "Mein Bruder wohnt hier." },
+      "en": { "word": "brother", "plural": "brothers", "example": "My brother lives here." },
+      "image_id": "img_fam_brother"
+    },
+    {
+      "concept_id": "fam_007_sister",
+      "ar": { "word": "أخت", "vocalized": "أُخْت", "gender": "f", "plural": "أَخَوَات", "example": "أُخْتِي تَقْرَأُ." },
+      "de": { "article": "die", "word": "Schwester", "plural": "Schwestern", "example": "Meine Schwester liest." },
+      "en": { "word": "sister", "plural": "sisters", "example": "My sister reads." },
+      "image_id": "img_fam_sister"
+    },
+    {
+      "concept_id": "fam_008_grandfather",
+      "ar": { "word": "جد", "vocalized": "جَدّ", "gender": "m", "plural": "أَجْدَاد", "example": "جَدِّي حَكِيمٌ." },
+      "de": { "article": "der", "word": "Großvater", "plural": "Großväter", "example": "Mein Großvater ist weise." },
+      "en": { "word": "grandfather", "plural": "grandfathers", "example": "My grandfather is wise." },
+      "image_id": "img_fam_grandfather"
+    },
+    {
+      "concept_id": "fam_009_grandmother",
+      "ar": { "word": "جدة", "vocalized": "جَدَّة", "gender": "f", "plural": "جَدَّات", "example": "جَدَّتِي لَطِيفَةٌ." },
+      "de": { "article": "die", "word": "Großmutter", "plural": "Großmütter", "example": "Meine Großmutter ist nett." },
+      "en": { "word": "grandmother", "plural": "grandmothers", "example": "My grandmother is kind." },
+      "image_id": "img_fam_grandmother"
+    },
+    {
+      "concept_id": "fam_010_parents",
+      "ar": { "word": "والدان", "vocalized": "وَالِدَان", "gender": "m", "plural": "وَالِدُون", "example": "وَالِدَايَ فِي المَنْزِلِ." },
+      "de": { "article": "die", "word": "Eltern", "plural": "Eltern", "example": "Meine Eltern sind zu Hause." },
+      "en": { "word": "parents", "plural": "parents", "example": "My parents are at home." },
+      "image_id": "img_fam_parents"
+    }
+  ]
+}
