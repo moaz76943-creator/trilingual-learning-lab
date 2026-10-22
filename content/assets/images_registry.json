@@ -1,0 +1,180 @@
+{
+  "version": 1,
+  "assets": {
+    "img_fam_family": {
+      "asset_path": "content/assets/svg/img_fam_family.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 485
+    },
+    "img_fam_father": {
+      "asset_path": "content/assets/svg/img_fam_father.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 319
+    },
+    "img_fam_mother": {
+      "asset_path": "content/assets/svg/img_fam_mother.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 451
+    },
+    "img_fam_son": {
+      "asset_path": "content/assets/svg/img_fam_son.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 319
+    },
+    "img_fam_daughter": {
+      "asset_path": "content/assets/svg/img_fam_daughter.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 319
+    },
+    "img_fam_brother": {
+      "asset_path": "content/assets/svg/img_fam_brother.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 319
+    },
+    "img_fam_sister": {
+      "asset_path": "content/assets/svg/img_fam_sister.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 451
+    },
+    "img_fam_grandfather": {
+      "asset_path": "content/assets/svg/img_fam_grandfather.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 430
+    },
+    "img_fam_grandmother": {
+      "asset_path": "content/assets/svg/img_fam_grandmother.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 379
+    },
+    "img_fam_parents": {
+      "asset_path": "content/assets/svg/img_fam_parents.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 485
+    },
+    "img_fam_paternal_uncle": {
+      "asset_path": "content/assets/svg/img_fam_paternal_uncle.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 319
+    },
+    "img_fam_maternal_uncle": {
+      "asset_path": "content/assets/svg/img_fam_maternal_uncle.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 319
+    },
+    "img_fam_paternal_aunt": {
+      "asset_path": "content/assets/svg/img_fam_paternal_aunt.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 451
+    },
+    "img_fam_maternal_aunt": {
+      "asset_path": "content/assets/svg/img_fam_maternal_aunt.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 451
+    },
+    "img_fam_cousin_male": {
+      "asset_path": "content/assets/svg/img_fam_cousin_male.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 319
+    },
+    "img_fam_cousin_female": {
+      "asset_path": "content/assets/svg/img_fam_cousin_female.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 451
+    },
+    "img_fam_nephew": {
+      "asset_path": "content/assets/svg/img_fam_nephew.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 319
+    },
+    "img_fam_niece": {
+      "asset_path": "content/assets/svg/img_fam_niece.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 319
+    },
+    "img_fam_husband": {
+      "asset_path": "content/assets/svg/img_fam_husband.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 319
+    },
+    "img_fam_wife": {
+      "asset_path": "content/assets/svg/img_fam_wife.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 451
+    },
+    "img_fam_child": {
+      "asset_path": "content/assets/svg/img_fam_child.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 319
+    },
+    "img_fam_baby": {
+      "asset_path": "content/assets/svg/img_fam_baby.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 376
+    },
+    "img_fam_grandson": {
+      "asset_path": "content/assets/svg/img_fam_grandson.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 319
+    },
+    "img_fam_granddaughter": {
+      "asset_path": "content/assets/svg/img_fam_granddaughter.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 319
+    },
+    "img_fam_relatives": {
+      "asset_path": "content/assets/svg/img_fam_relatives.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 485
+    }
+  }
+}
