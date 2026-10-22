@@ -1,0 +1,183 @@
+{
+  "category_id": "shopping_money",
+  "category_name": { "ar": "التسوق والمال", "de": "Einkaufen & Geld", "en": "Shopping & Money" },
+  "level": "A1",
+  "version": 1,
+  "concepts": [
+    {
+      "concept_id": "shop_001_shopping",
+      "ar": { "word": "تسوق", "vocalized": "تَسَوُّق", "gender": "m", "plural": "تَسَوُّق", "example": "أَذْهَبُ لِلتَّسَوُّقِ يَوْمَ السَّبْتِ." },
+      "de": { "article": "das", "word": "Einkaufen", "plural": "Einkäufe", "example": "Ich gehe am Samstag einkaufen." },
+      "en": { "word": "shopping", "plural": "shoppings", "example": "I go shopping on Saturday." },
+      "image_id": "img_shop_bag"
+    },
+    {
+      "concept_id": "shop_002_money",
+      "ar": { "word": "مال", "vocalized": "مَال", "gender": "m", "plural": "أَمْوَال", "example": "لَيْسَ مَعِي مَالٌ كَافٍ." },
+      "de": { "article": "das", "word": "Geld", "plural": "Gelder", "example": "Ich habe nicht genug Geld dabei." },
+      "en": { "word": "money", "plural": "monies", "example": "I do not have enough money." },
+      "image_id": "img_shop_cash"
+    },
+    {
+      "concept_id": "shop_003_price",
+      "ar": { "word": "سعر", "vocalized": "سِعْر", "gender": "m", "plural": "أَسْعَار", "example": "هَذَا السِّعْرُ مُنَاسِبٌ جِدًّا." },
+      "de": { "article": "der", "word": "Preis", "plural": "Preise", "example": "Dieser Preis ist sehr günstig." },
+      "en": { "word": "price", "plural": "prices", "example": "This price is very good." },
+      "image_id": "img_shop_price_tag"
+    },
+    {
+      "concept_id": "shop_004_expensive",
+      "ar": { "word": "غال", "vocalized": "غَالٍ", "gender": "m", "plural": "غَالِيَة", "example": "هَذِهِ السَّاعَةُ غَالِيَةٌ جِدًّا." },
+      "de": { "article": "das", "word": "Teuer", "plural": "Teure", "example": "Diese Uhr ist sehr teuer." },
+      "en": { "word": "expensive", "plural": "expensive", "example": "This watch is very expensive." },
+      "image_id": "img_shop_expensive"
+    },
+    {
+      "concept_id": "shop_005_cheap",
+      "ar": { "word": "رخيص", "vocalized": "رَخِيص", "gender": "m", "plural": "رِخَاص", "example": "الخُضْرَاوَاتُ رَخِيصَةٌ هُنَا." },
+      "de": { "article": "das", "word": "Billig", "plural": "Billige", "example": "Das Gemüse ist hier billig." },
+      "en": { "word": "cheap", "plural": "cheap", "example": "The vegetables are cheap here." },
+      "image_id": "img_shop_cheap"
+    },
+    {
+      "concept_id": "shop_006_cash",
+      "ar": { "word": "نقدا", "vocalized": "نَقْدًا", "gender": "m", "plural": "نَقْدًا", "example": "أَدْفَعُ نَقْدًا مِنْ فَضْلِكَ." },
+      "de": { "article": "das", "word": "Bargeld", "plural": "Bargeld", "example": "Ich bezahle bitte bar." },
+      "en": { "word": "cash", "plural": "cash", "example": "I pay in cash, please." },
+      "image_id": "img_shop_cash"
+    },
+    {
+      "concept_id": "shop_007_credit_card",
+      "ar": { "word": "بطاقة بنكية", "vocalized": "بِطَاقَةٌ بَنْكِيَّةٌ", "gender": "f", "plural": "بِطَاقَاتٌ بَنْكِيَّةٌ", "example": "هَلْ يُمْكِنُ الدَّفْعُ بِالبِطَاقَةِ؟" },
+      "de": { "article": "die", "word": "Kreditkarte", "plural": "Kreditkarten", "example": "Kann ich mit Karte zahlen?" },
+      "en": { "word": "credit card", "plural": "credit cards", "example": "Can I pay by card?" },
+      "image_id": "img_shop_card"
+    },
+    {
+      "concept_id": "shop_008_receipt",
+      "ar": { "word": "إيصال", "vocalized": "إِيصَال", "gender": "m", "plural": "إِيصَالَات", "example": "هَلْ تُرِيدُ الإِيصَالَ؟" },
+      "de": { "article": "die", "word": "Quittung", "plural": "Quittungen", "example": "Brauchen Sie die Quittung?" },
+      "en": { "word": "receipt", "plural": "receipts", "example": "Do you need the receipt?" },
+      "image_id": "img_shop_receipt"
+    },
+    {
+      "concept_id": "shop_009_discount",
+      "ar": { "word": "خصم", "vocalized": "خَصْم", "gender": "m", "plural": "خُصُومَات", "example": "هَلْ يُوجَدُ خَصْمٌ عَلَى هَذَا؟" },
+      "de": { "article": "der", "word": "Rabatt", "plural": "Rabatte", "example": "Gibt es einen Rabatt darauf?" },
+      "en": { "word": "discount", "plural": "discounts", "example": "Is there a discount on this?" },
+      "image_id": "img_shop_discount"
+    },
+    {
+      "concept_id": "shop_010_cashier",
+      "ar": { "word": "صندوق الدفع", "vocalized": "صُنْدُوقُ الدَّفْعِ", "gender": "m", "plural": "صَنَادِيقُ الدَّفْعِ", "example": "ادْفَعْ عِنْدَ الصُّنْدُوقِ." },
+      "de": { "article": "die", "word": "Kasse", "plural": "Kassen", "example": "Zahlen Sie bitte an der Kasse." },
+      "en": { "word": "cash desk", "plural": "cash desks", "example": "Please pay at the cashier." },
+      "image_id": "img_shop_cashier"
+    },
+    {
+      "concept_id": "shop_011_shopping_cart",
+      "ar": { "word": "عربة تسوق", "vocalized": "عَرَبَةُ تَسَوُّقٍ", "gender": "f", "plural": "عَرَبَاتُ تَسَوُّقٍ", "example": "عَرَبَةُ التَّسَوُّقِ مُمْتَلِئَةٌ." },
+      "de": { "article": "der", "word": "Einkaufswagen", "plural": "Einkaufswagen", "example": "Der Einkaufswagen ist voll." },
+      "en": { "word": "shopping cart", "plural": "shopping carts", "example": "The shopping cart is full." },
+      "image_id": "img_shop_cart"
+    },
+    {
+      "concept_id": "shop_012_shopping_basket",
+      "ar": { "word": "سلة تسوق", "vocalized": "سَلَّةُ تَسَوُّقٍ", "gender": "f", "plural": "سَلَّاتُ تَسَوُّقٍ", "example": "آخُذُ سَلَّةً صَغِيرَةً." },
+      "de": { "article": "der", "word": "Einkaufskorb", "plural": "Einkaufskörbe", "example": "Ich nehme einen Korb." },
+      "en": { "word": "shopping basket", "plural": "shopping baskets", "example": "I take a basket." },
+      "image_id": "img_shop_basket"
+    },
+    {
+      "concept_id": "shop_013_store",
+      "ar": { "word": "متجر", "vocalized": "مَتْجَر", "gender": "m", "plural": "مَتَاجِر", "example": "المَتْجَرُ مَفْتُوحٌ حَتَّى المَسَاءِ." },
+      "de": { "article": "das", "word": "Geschäft", "plural": "Geschäfte", "example": "Das Geschäft ist geöffnet." },
+      "en": { "word": "store", "plural": "stores", "example": "The store is open." },
+      "image_id": "img_shop_store"
+    },
+    {
+      "concept_id": "shop_014_bakery",
+      "ar": { "word": "مخبز", "vocalized": "مَخْبَز", "gender": "m", "plural": "مَخَابِز", "example": "أَشْتَرِي الخُبْزَ مِنَ المَخْبَزِ." },
+      "de": { "article": "die", "word": "Bäckerei", "plural": "Bäckereien", "example": "Ich kaufe Brot in der Bäckerei." },
+      "en": { "word": "bakery", "plural": "bakeries", "example": "I buy bread at the bakery." },
+      "image_id": "img_shop_bakery"
+    },
+    {
+      "concept_id": "shop_015_butcher",
+      "ar": { "word": "ملحمة", "vocalized": "مَلْحَمَة", "gender": "f", "plural": "مَلَاحِم", "example": "اللَّحْمُ طَازَجٌ عِنْدَ الجَزَّارِ." },
+      "de": { "article": "die", "word": "Metzgerei", "plural": "Metzgereien", "example": "Das Fleisch ist frisch beim Metzger." },
+      "en": { "word": "butcher shop", "plural": "butcher shops", "example": "The meat is fresh at the butcher's." },
+      "image_id": "img_shop_butcher"
+    },
+    {
+      "concept_id": "shop_016_offer",
+      "ar": { "word": "عرض خاص", "vocalized": "عَرْضٌ خَاصٌّ", "gender": "m", "plural": "عُرُوضٌ خَاصَّةٌ", "example": "هَذَا عَرْضٌ خَاصٌّ لِلْيَوْمِ." },
+      "de": { "article": "das", "word": "Angebot", "plural": "Angebote", "example": "Das ist ein gutes Angebot." },
+      "en": { "word": "special offer", "plural": "special offers", "example": "This is a special offer." },
+      "image_id": "img_shop_discount"
+    },
+    {
+      "concept_id": "shop_017_customer",
+      "ar": { "word": "زبون", "vocalized": "زَبُون", "gender": "m", "plural": "زَبَائِن", "example": "الزَّبُونُ يَخْتَارُ البِضَاعَةَ." },
+      "de": { "article": "der", "word": "Kunde", "plural": "Kunden", "example": "Der Kunde wählt die Ware." },
+      "en": { "word": "customer", "plural": "customers", "example": "The customer chooses goods." },
+      "image_id": "img_shop_customer"
+    },
+    {
+      "concept_id": "shop_018_seller",
+      "ar": { "word": "بائع", "vocalized": "بَائِع", "gender": "m", "plural": "بَائِعُون", "example": "البَائِعُ يُسَاعِدُ النَّاسَ." },
+      "de": { "article": "der", "word": "Verkäufer", "plural": "Verkäufer", "example": "Der Verkäufer hilft den Leuten." },
+      "en": { "word": "seller", "plural": "sellers", "example": "The seller helps people." },
+      "image_id": "img_shop_seller"
+    },
+    {
+      "concept_id": "shop_019_size",
+      "ar": { "word": "مقاس", "vocalized": "مَقَاس", "gender": "m", "plural": "مَقَاسَات", "example": "مَا هُوَ مَقَاسُكَ؟" },
+      "de": { "article": "die", "word": "Größe", "plural": "Größen", "example": "Welche Größe haben Sie?" },
+      "en": { "word": "size", "plural": "sizes", "example": "What is your size?" },
+      "image_id": "img_shop_size"
+    },
+    {
+      "concept_id": "shop_020_fitting_room",
+      "ar": { "word": "غرفة قياس", "vocalized": "غُرْفَةُ قِيَاسٍ", "gender": "f", "plural": "غُرَفُ قِيَاسٍ", "example": "أُجَرِّبُ القَمِيصَ فِي غُرْفَةِ القِيَاسِ." },
+      "de": { "article": "die", "word": "Umkleidekabine", "plural": "Umkleidekabinen", "example": "Ich probiere das Hemd in der Kabine an." },
+      "en": { "word": "fitting room", "plural": "fitting rooms", "example": "I try the shirt in the fitting room." },
+      "image_id": "img_shop_fitting"
+    },
+    {
+      "concept_id": "shop_021_coin",
+      "ar": { "word": "عملة معدنية", "vocalized": "عُمْلَةٌ مَعْدَنِيَّةٌ", "gender": "f", "plural": "عُمْلَاتٌ مَعْدَنِيَّةٌ", "example": "مَعِي عُمْلَاتٌ مَعْدَنِيَّةٌ صَغِيرَةٌ." },
+      "de": { "article": "die", "word": "Münze", "plural": "Münzen", "example": "Ich habe kleine Münzen." },
+      "en": { "word": "coin", "plural": "coins", "example": "I have small coins." },
+      "image_id": "img_shop_coin"
+    },
+    {
+      "concept_id": "shop_022_banknote",
+      "ar": { "word": "ورقة نقدية", "vocalized": "وَرَقَةٌ نَقْدِيَّةٌ", "gender": "f", "plural": "أَوْرَاقٌ نَقْدِيَّةٌ", "example": "وَرَقَةٌ نَقْدِيَّةٌ مِنْ فِئَةِ عِشْرِينَ يُورُو." },
+      "de": { "article": "der", "word": "Geldschein", "plural": "Geldscheine", "example": "Ein Zwanzig-Euro-Schein." },
+      "en": { "word": "banknote", "plural": "banknotes", "example": "A twenty-euro note." },
+      "image_id": "img_shop_cash"
+    },
+    {
+      "concept_id": "shop_023_euro",
+      "ar": { "word": "يورو", "vocalized": "يُورُو", "gender": "m", "plural": "يُورُو", "example": "السِّعْرُ خَمْسَةُ يُورُو." },
+      "de": { "article": "der", "word": "Euro", "plural": "Euro", "example": "Der Preis ist fünf Euro." },
+      "en": { "word": "euro", "plural": "euros", "example": "The price is five euros." },
+      "image_id": "img_shop_coin"
+    },
+    {
+      "concept_id": "shop_024_cent",
+      "ar": { "word": "سنت", "vocalized": "سِنْت", "gender": "m", "plural": "سِنْتَات", "example": "خَمْسُونَ سِنْتًا بَاقِيَةً." },
+      "de": { "article": "der", "word": "Cent", "plural": "Cent", "example": "Fünfzig Cent Rückgeld." },
+      "en": { "word": "cent", "plural": "cents", "example": "Fifty cents change." },
+      "image_id": "img_shop_coin"
+    },
+    {
+      "concept_id": "shop_025_buy",
+      "ar": { "word": "شراء", "vocalized": "شِرَاء", "gender": "m", "plural": "شِرَاء", "example": "شِرَاءُ الحَاجِيَّاتِ ضَرُورِيٌّ." },
+      "de": { "article": "der", "word": "Einkauf", "plural": "Einkäufe", "example": "Der Einkauf ist erledigt." },
+      "en": { "word": "purchase", "plural": "purchases", "example": "The purchase is done." },
+      "image_id": "img_shop_bag"
+    }
+  ]
+}

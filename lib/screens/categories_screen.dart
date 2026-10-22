@@ -59,6 +59,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
       ..._repository.getConcepts('work_study'),
       ..._repository.getConcepts('feelings_adjectives'),
       ..._repository.getConcepts('travel_hotel'),
+      ..._repository.getConcepts('shopping_money'),
     ];
   }
 
@@ -75,7 +76,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: const [
             Text('Trilingual Lab', style: TextStyle(color: Color(0xFF0F172A), fontSize: 18, fontWeight: FontWeight.bold)),
-            Text('A1 Foundation • 305 مفردات + خوارزمية SM-2', style: TextStyle(color: Color(0xFF64748B), fontSize: 11)),
+            Text('A1 Foundation • 330 مفردة + 15 فعلًا + 20 حرف جر', style: TextStyle(color: Color(0xFF64748B), fontSize: 11)),
           ],
         ),
         actions: [
@@ -101,7 +102,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
           : ListView(
               padding: const EdgeInsets.all(16),
               children: [
-                // 🌟 بطاقة المراجعة اليومية الذكية (SRS Banner) في قمة الشاشة
+                // شريط المراجعة اليومية الذكية (SRS)
                 InkWell(
                   onTap: () {
                     Navigator.push(context, MaterialPageRoute(builder: (_) => SRSReviewScreen(dueConcepts: dueCards, targetLang: _targetLang))).then((_) => setState(() {}));
@@ -124,7 +125,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
                             children: [
                               const Text('المراجعة الذكية التباعدية (SRS) 🧠', style: TextStyle(fontSize: 15, fontWeight: FontWeight.bold, color: Colors.white)),
                               const SizedBox(height: 2),
-                              Text('${dueCards.length} بطاقات مستحقة للمراجعة والتثبيت اليوم', style: const TextStyle(fontSize: 12, color: Color(0xFFE0F2FE))),
+                              Text('${dueCards.length} بطاقات مستحقة للمراجعة اليوم', style: const TextStyle(fontSize: 12, color: Color(0xFFE0F2FE))),
                             ],
                           ),
                         ),
@@ -211,7 +212,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
                 ),
                 const SizedBox(height: 16),
 
-                // الأقسام الـ 12 النشطة للمفردات
+                // الأقسام الـ 13 النشطة للمفردات
                 _buildCategoryCard('العائلة', 'Familie', 'Family', _repository.getConcepts('family'), Icons.people_outline, const Color(0xFF0284C7)),
                 const SizedBox(height: 8),
                 _buildCategoryCard('الطعام والشراب', 'Essen & Trinken', 'Food & Drinks', _repository.getConcepts('food'), Icons.restaurant_outlined, const Color(0xFFEA580C)),
@@ -235,6 +236,8 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
                 _buildCategoryCard('المشاعر والصفات', 'Gefühle & Adjektive', 'Feelings & Adjectives', _repository.getConcepts('feelings_adjectives'), Icons.sentiment_satisfied_alt_outlined, const Color(0xFFB45309)),
                 const SizedBox(height: 8),
                 _buildCategoryCard('السفر والفندق', 'Reisen & Hotel', 'Travel & Hotel', _repository.getConcepts('travel_hotel'), Icons.flight_takeoff_outlined, const Color(0xFF0D9488)),
+                const SizedBox(height: 8),
+                _buildCategoryCard('التسوق والمال', 'Einkaufen & Geld', 'Shopping & Money', _repository.getConcepts('shopping_money'), Icons.shopping_cart_outlined, const Color(0xFFD97706)),
               ],
             ),
     );

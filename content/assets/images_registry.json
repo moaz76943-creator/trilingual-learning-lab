@@ -2415,6 +2415,139 @@
       "ownership": "Project Original",
       "license": "CC0-1.0",
       "size_bytes": 822
+    },
+    "img_shop_bag": {
+      "asset_path": "content/assets/svg/img_shop_bag.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 308
+    },
+    "img_shop_cash": {
+      "asset_path": "content/assets/svg/img_shop_cash.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 354
+    },
+    "img_shop_price_tag": {
+      "asset_path": "content/assets/svg/img_shop_price_tag.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 257
+    },
+    "img_shop_expensive": {
+      "asset_path": "content/assets/svg/img_shop_expensive.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 257
+    },
+    "img_shop_cheap": {
+      "asset_path": "content/assets/svg/img_shop_cheap.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 257
+    },
+    "img_shop_card": {
+      "asset_path": "content/assets/svg/img_shop_card.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 352
+    },
+    "img_shop_receipt": {
+      "asset_path": "content/assets/svg/img_shop_receipt.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 257
+    },
+    "img_shop_discount": {
+      "asset_path": "content/assets/svg/img_shop_discount.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 257
+    },
+    "img_shop_cashier": {
+      "asset_path": "content/assets/svg/img_shop_cashier.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 352
+    },
+    "img_shop_cart": {
+      "asset_path": "content/assets/svg/img_shop_cart.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 380
+    },
+    "img_shop_basket": {
+      "asset_path": "content/assets/svg/img_shop_basket.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 380
+    },
+    "img_shop_store": {
+      "asset_path": "content/assets/svg/img_shop_store.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 324
+    },
+    "img_shop_bakery": {
+      "asset_path": "content/assets/svg/img_shop_bakery.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 324
+    },
+    "img_shop_butcher": {
+      "asset_path": "content/assets/svg/img_shop_butcher.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 324
+    },
+    "img_shop_customer": {
+      "asset_path": "content/assets/svg/img_shop_customer.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 308
+    },
+    "img_shop_seller": {
+      "asset_path": "content/assets/svg/img_shop_seller.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 352
+    },
+    "img_shop_size": {
+      "asset_path": "content/assets/svg/img_shop_size.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 257
+    },
+    "img_shop_fitting": {
+      "asset_path": "content/assets/svg/img_shop_fitting.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 324
+    },
+    "img_shop_coin": {
+      "asset_path": "content/assets/svg/img_shop_coin.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 354
     }
   }
 }
