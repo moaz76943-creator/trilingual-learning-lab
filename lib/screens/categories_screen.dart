@@ -43,6 +43,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
     return [
       ..._repository.getConcepts('family'),
       ..._repository.getConcepts('food'),
+      ..._repository.getConcepts('home'),
     ];
   }
 
@@ -57,11 +58,10 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: const [
             Text('Trilingual Lab', style: TextStyle(color: Color(0xFF0F172A), fontSize: 18, fontWeight: FontWeight.bold)),
-            Text('A1 Foundation • 50 مفردة + 15 فعلًا', style: TextStyle(color: Color(0xFF64748B), fontSize: 11)),
+            Text('A1 Foundation • 75 مفردة + 15 فعلًا + 20 جملة', style: TextStyle(color: Color(0xFF64748B), fontSize: 11)),
           ],
         ),
         actions: [
-          // زر البحث الفوري الجديد
           IconButton(
             icon: const Icon(Icons.search, color: Color(0xFF0F172A)),
             onPressed: () {
@@ -96,7 +96,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
           : ListView(
               padding: const EdgeInsets.all(16),
               children: [
-                // 1. بطاقة بناء الجمل
+                // 1. تمرين بناء الجمل
                 InkWell(
                   onTap: () {
                     Navigator.push(context, MaterialPageRoute(builder: (_) => SentenceBuilderScreen(targetLang: _targetLang)));
@@ -172,14 +172,18 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
                 ),
                 const SizedBox(height: 16),
 
-                // أقسام المفردات
+                // أقسام المفردات الثلاثة النشطة
                 _buildCategoryCard('العائلة', 'Familie', 'Family', _repository.getConcepts('family'), Icons.people_outline, const Color(0xFF0284C7)),
                 const SizedBox(height: 12),
                 _buildCategoryCard('الطعام والشراب', 'Essen & Trinken', 'Food & Drinks', _repository.getConcepts('food'), Icons.restaurant_outlined, const Color(0xFFEA580C)),
                 const SizedBox(height: 12),
-                _buildLockedCard('المنزل', 'Zuhause', 'Home', 30),
+                _buildCategoryCard('المنزل والأثاث', 'Zuhause & Möbel', 'Home & Furniture', _repository.getConcepts('home'), Icons.home_outlined, const Color(0xFF7C3AED)),
                 const SizedBox(height: 12),
+
+                // أقسام قادمة
                 _buildLockedCard('الملابس', 'Kleidung', 'Clothes', 25),
+                const SizedBox(height: 12),
+                _buildLockedCard('الألوان والأرقام', 'Farben & Zahlen', 'Colors & Numbers', 30),
               ],
             ),
     );

@@ -455,6 +455,181 @@
       "ownership": "Project Original",
       "license": "CC0-1.0",
       "size_bytes": 318
+    },
+    "img_home_house": {
+      "asset_path": "content/assets/svg/img_home_house.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 318
+    },
+    "img_home_apartment": {
+      "asset_path": "content/assets/svg/img_home_apartment.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 318
+    },
+    "img_home_room": {
+      "asset_path": "content/assets/svg/img_home_room.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 441
+    },
+    "img_home_door": {
+      "asset_path": "content/assets/svg/img_home_door.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 263
+    },
+    "img_home_window": {
+      "asset_path": "content/assets/svg/img_home_window.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 441
+    },
+    "img_home_table": {
+      "asset_path": "content/assets/svg/img_home_table.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 333
+    },
+    "img_home_chair": {
+      "asset_path": "content/assets/svg/img_home_chair.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 332
+    },
+    "img_home_bed": {
+      "asset_path": "content/assets/svg/img_home_bed.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 397
+    },
+    "img_home_kitchen": {
+      "asset_path": "content/assets/svg/img_home_kitchen.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 333
+    },
+    "img_home_bathroom": {
+      "asset_path": "content/assets/svg/img_home_bathroom.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 441
+    },
+    "img_home_living_room": {
+      "asset_path": "content/assets/svg/img_home_living_room.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 332
+    },
+    "img_home_bedroom": {
+      "asset_path": "content/assets/svg/img_home_bedroom.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 397
+    },
+    "img_home_sofa": {
+      "asset_path": "content/assets/svg/img_home_sofa.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 332
+    },
+    "img_home_lamp": {
+      "asset_path": "content/assets/svg/img_home_lamp.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 332
+    },
+    "img_home_wardrobe": {
+      "asset_path": "content/assets/svg/img_home_wardrobe.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 263
+    },
+    "img_home_fridge": {
+      "asset_path": "content/assets/svg/img_home_fridge.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 263
+    },
+    "img_home_balcony": {
+      "asset_path": "content/assets/svg/img_home_balcony.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 441
+    },
+    "img_home_key": {
+      "asset_path": "content/assets/svg/img_home_key.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 344
+    },
+    "img_home_wall": {
+      "asset_path": "content/assets/svg/img_home_wall.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 441
+    },
+    "img_home_floor": {
+      "asset_path": "content/assets/svg/img_home_floor.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 333
+    },
+    "img_home_roof": {
+      "asset_path": "content/assets/svg/img_home_roof.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 318
+    },
+    "img_home_garden": {
+      "asset_path": "content/assets/svg/img_home_garden.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 318
+    },
+    "img_home_stairs": {
+      "asset_path": "content/assets/svg/img_home_stairs.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 311
+    },
+    "img_home_mirror": {
+      "asset_path": "content/assets/svg/img_home_mirror.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 310
+    },
+    "img_home_carpet": {
+      "asset_path": "content/assets/svg/img_home_carpet.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 333
     }
   }
 }

@@ -27,7 +27,6 @@ class ContentRepository {
   bool get isLoaded => _isLoaded;
   List<Concept> getConcepts(String categoryId) => _categoriesData[categoryId] ?? [];
 
-  // قائمة الفئات المسجلة في التطبيق
   final List<CategoryInfo> registeredCategories = [
     CategoryInfo(
       id: 'family',
@@ -43,9 +42,15 @@ class ContentRepository {
       titleEn: 'Food & Drinks',
       jsonPath: 'content/vocabulary/food_a1.json',
     ),
+    CategoryInfo(
+      id: 'home',
+      titleAr: 'المنزل والأثاث',
+      titleDe: 'Zuhause & Möbel',
+      titleEn: 'Home & Furniture',
+      jsonPath: 'content/vocabulary/home_a1.json',
+    ),
   ];
 
-  // تحميل آمن لجميع الفئات النشطة
   Future<bool> loadAllActiveCategories() async {
     try {
       for (var cat in registeredCategories) {
@@ -59,7 +64,6 @@ class ContentRepository {
       _isLoaded = true;
       return true;
     } catch (e) {
-      // إقلاع آمن: حتى لو تعثر ملف يستمر التطبيق بما توفر
       return false;
     }
   }

@@ -1,0 +1,183 @@
+{
+  "category_id": "home",
+  "category_name": { "ar": "المنزل والأثاث", "de": "Zuhause & Möbel", "en": "Home & Furniture" },
+  "level": "A1",
+  "version": 1,
+  "concepts": [
+    {
+      "concept_id": "home_001_house",
+      "ar": { "word": "منزل", "vocalized": "مَنْزِل", "gender": "m", "plural": "مَنَازِل", "example": "هَذَا مَنْزِلُنَا الجَمِيلُ." },
+      "de": { "article": "das", "word": "Haus", "plural": "Häuser", "example": "Das ist unser schönes Haus." },
+      "en": { "word": "house", "plural": "houses", "example": "This is our beautiful house." },
+      "image_id": "img_home_house"
+    },
+    {
+      "concept_id": "home_002_apartment",
+      "ar": { "word": "شقة", "vocalized": "شَقَّة", "gender": "f", "plural": "شُقَق", "example": "أَسْكُنُ فِي شَقَّةٍ وَاسِعَةٍ." },
+      "de": { "article": "die", "word": "Wohnung", "plural": "Wohnungen", "example": "Ich wohne in einer geräumigen Wohnung." },
+      "en": { "word": "apartment", "plural": "apartments", "example": "I live in a spacious apartment." },
+      "image_id": "img_home_apartment"
+    },
+    {
+      "concept_id": "home_003_room",
+      "ar": { "word": "غرفة", "vocalized": "غُرْفَة", "gender": "f", "plural": "غُرَف", "example": "غُرْفَتِي مُرَتَّبَةٌ ونَظِيفَةٌ." },
+      "de": { "article": "das", "word": "Zimmer", "plural": "Zimmer", "example": "Mein Zimmer ist ordentlich und sauber." },
+      "en": { "word": "room", "plural": "rooms", "example": "My room is tidy and clean." },
+      "image_id": "img_home_room"
+    },
+    {
+      "concept_id": "home_004_door",
+      "ar": { "word": "باب", "vocalized": "بَاب", "gender": "m", "plural": "أَبْوَاب", "example": "افْتَحِ البَابَ مِنْ فَضْلِكَ." },
+      "de": { "article": "die", "word": "Tür", "plural": "Türen", "example": "Öffne bitte die Tür." },
+      "en": { "word": "door", "plural": "doors", "example": "Please open the door." },
+      "image_id": "img_home_door"
+    },
+    {
+      "concept_id": "home_005_window",
+      "ar": { "word": "نافذة", "vocalized": "نَافِذَة", "gender": "f", "plural": "نَوَافِذ", "example": "النَّافِذَةُ مَفْتُوحَةٌ لِلْهَوَاءِ." },
+      "de": { "article": "das", "word": "Fenster", "plural": "Fenster", "example": "Das Fenster ist offen für frische Luft." },
+      "en": { "word": "window", "plural": "windows", "example": "The window is open for fresh air." },
+      "image_id": "img_home_window"
+    },
+    {
+      "concept_id": "home_006_table",
+      "ar": { "word": "طاولة", "vocalized": "طَاوِلَة", "gender": "f", "plural": "طَاوِلَات", "example": "نَجْلِسُ حَوْلَ الطَّاوِلَةِ." },
+      "de": { "article": "der", "word": "Tisch", "plural": "Tische", "example": "Wir sitzen um den Tisch." },
+      "en": { "word": "table", "plural": "tables", "example": "We sit around the table." },
+      "image_id": "img_home_table"
+    },
+    {
+      "concept_id": "home_007_chair",
+      "ar": { "word": "كرسي", "vocalized": "كُرْسِيّ", "gender": "m", "plural": "كَرَاسِيّ", "example": "هَذَا الكُرْسِيُّ مُرِيحٌ جِدًّا." },
+      "de": { "article": "der", "word": "Stuhl", "plural": "Stühle", "example": "Dieser Stuhl ist sehr bequem." },
+      "en": { "word": "chair", "plural": "chairs", "example": "This chair is very comfortable." },
+      "image_id": "img_home_chair"
+    },
+    {
+      "concept_id": "home_008_bed",
+      "ar": { "word": "سرير", "vocalized": "سَرِير", "gender": "m", "plural": "أَسِرَّة", "example": "أَنَامُ فِي سَرِيرِي الدَّافِئِ." },
+      "de": { "article": "das", "word": "Bett", "plural": "Betten", "example": "Ich schlafe in meinem warmen Bett." },
+      "en": { "word": "bed", "plural": "beds", "example": "I sleep in my warm bed." },
+      "image_id": "img_home_bed"
+    },
+    {
+      "concept_id": "home_009_kitchen",
+      "ar": { "word": "مطبخ", "vocalized": "مَطْبَخ", "gender": "m", "plural": "مَطَابِخ", "example": "نَطْبُخُ الطَّعَامَ فِي المَطْبَخِ." },
+      "de": { "article": "die", "word": "Küche", "plural": "Küchen", "example": "Wir kochen das Essen in der Küche." },
+      "en": { "word": "kitchen", "plural": "kitchens", "example": "We cook food in the kitchen." },
+      "image_id": "img_home_kitchen"
+    },
+    {
+      "concept_id": "home_010_bathroom",
+      "ar": { "word": "حمام", "vocalized": "حَمَّام", "gender": "m", "plural": "حَمَّامَات", "example": "الحَمَّامُ نَظِيفٌ ومُعَقَّمٌ." },
+      "de": { "article": "das", "word": "Badezimmer", "plural": "Badezimmer", "example": "Das Badezimmer ist sauber." },
+      "en": { "word": "bathroom", "plural": "bathrooms", "example": "The bathroom is clean." },
+      "image_id": "img_home_bathroom"
+    },
+    {
+      "concept_id": "home_011_living_room",
+      "ar": { "word": "غرفة معيشة", "vocalized": "غُرْفَةُ المَعِيشَةِ", "gender": "f", "plural": "غُرَفُ المَعِيشَةِ", "example": "نَجْتَمِعُ فِي غُرْفَةِ المَعِيشَةِ." },
+      "de": { "article": "das", "word": "Wohnzimmer", "plural": "Wohnzimmer", "example": "Wir versammeln uns im Wohnzimmer." },
+      "en": { "word": "living room", "plural": "living rooms", "example": "We gather in the living room." },
+      "image_id": "img_home_living_room"
+    },
+    {
+      "concept_id": "home_012_bedroom",
+      "ar": { "word": "غرفة نوم", "vocalized": "غُرْفَةُ النَّوْمِ", "gender": "f", "plural": "غُرَفُ النَّوْمِ", "example": "غُرْفَةُ النَّوْمِ هَادِئَةٌ لِلرَّاحَةِ." },
+      "de": { "article": "das", "word": "Schlafzimmer", "plural": "Schlafzimmer", "example": "Das Schlafzimmer ist ruhig zum Ausruhen." },
+      "en": { "word": "bedroom", "plural": "bedrooms", "example": "The bedroom is quiet for resting." },
+      "image_id": "img_home_bedroom"
+    },
+    {
+      "concept_id": "home_013_sofa",
+      "ar": { "word": "أريكة", "vocalized": "أَرِيكَة", "gender": "f", "plural": "أَرَائِك", "example": "أَجْلِسُ عَلَى الأَرِيكَةِ وأَقْرَأُ." },
+      "de": { "article": "das", "word": "Sofa", "plural": "Sofas", "example": "Ich sitze auf dem Sofa und lese." },
+      "en": { "word": "sofa", "plural": "sofas", "example": "I sit on the sofa and read." },
+      "image_id": "img_home_sofa"
+    },
+    {
+      "concept_id": "home_014_lamp",
+      "ar": { "word": "مصباح", "vocalized": "مِصْبَاح", "gender": "m", "plural": "مَصَابِيح", "example": "المِصْبَاحُ يُضِيءُ الغُرْفَةَ." },
+      "de": { "article": "die", "word": "Lampe", "plural": "Lampen", "example": "Die Lampe erhellt das Zimmer." },
+      "en": { "word": "lamp", "plural": "lamps", "example": "The lamp lights up the room." },
+      "image_id": "img_home_lamp"
+    },
+    {
+      "concept_id": "home_015_wardrobe",
+      "ar": { "word": "خزانة", "vocalized": "خِزَانَة", "gender": "f", "plural": "خَزَائِن", "example": "أَضَعُ مَلَابِسِي فِي الخِزَانَةِ." },
+      "de": { "article": "der", "word": "Schrank", "plural": "Schränke", "example": "Ich lege meine Kleider in den Schrank." },
+      "en": { "word": "wardrobe", "plural": "wardrobes", "example": "I put my clothes in the wardrobe." },
+      "image_id": "img_home_wardrobe"
+    },
+    {
+      "concept_id": "home_016_fridge",
+      "ar": { "word": "ثلاجة", "vocalized": "ثَلَّاجَة", "gender": "f", "plural": "ثَلَّاجَات", "example": "العَصِيرُ بَارِدٌ فِي الثَّلَّاجَةِ." },
+      "de": { "article": "der", "word": "Kühlschrank", "plural": "Kühlschränke", "example": "Der Saft ist kalt im Kühlschrank." },
+      "en": { "word": "refrigerator", "plural": "refrigerators", "example": "The juice is cold in the fridge." },
+      "image_id": "img_home_fridge"
+    },
+    {
+      "concept_id": "home_017_balcony",
+      "ar": { "word": "شرفة", "vocalized": "شُرْفَة", "gender": "f", "plural": "شُرُفَات", "example": "نَشْرَبُ الشَّايَ فِي الشُّرْفَةِ." },
+      "de": { "article": "der", "word": "Balkon", "plural": "Balkone", "example": "Wir trinken Tee auf dem Balkon." },
+      "en": { "word": "balcony", "plural": "balconies", "example": "We drink tea on the balcony." },
+      "image_id": "img_home_balcony"
+    },
+    {
+      "concept_id": "home_018_key",
+      "ar": { "word": "مفتاح", "vocalized": "مِفْتَاح", "gender": "m", "plural": "مَفَاتِيح", "example": "أَيْنَ مِفْتَاحُ البَابِ؟" },
+      "de": { "article": "der", "word": "Schlüssel", "plural": "Schlüssel", "example": "Wo ist der Schlüssel zur Tür?" },
+      "en": { "word": "key", "plural": "keys", "example": "Where is the door key?" },
+      "image_id": "img_home_key"
+    },
+    {
+      "concept_id": "home_019_wall",
+      "ar": { "word": "جدار", "vocalized": "جِدَار", "gender": "m", "plural": "جُدْرَان", "example": "عَلَى الجِدَارِ لَوْحَةٌ جَمِيلَةٌ." },
+      "de": { "article": "die", "word": "Wand", "plural": "Wände", "example": "An der Wand hängt ein schönes Bild." },
+      "en": { "word": "wall", "plural": "walls", "example": "On the wall hangs a beautiful painting." },
+      "image_id": "img_home_wall"
+    },
+    {
+      "concept_id": "home_020_floor",
+      "ar": { "word": "أرضية", "vocalized": "أَرْضِيَّة", "gender": "f", "plural": "أَرْضِيَّات", "example": "الأَرْضِيَّةُ خَشَبِيَّةٌ نَظِيفَةٌ." },
+      "de": { "article": "der", "word": "Boden", "plural": "Böden", "example": "Der Boden ist aus Holz und sauber." },
+      "en": { "word": "floor", "plural": "floors", "example": "The floor is wooden and clean." },
+      "image_id": "img_home_floor"
+    },
+    {
+      "concept_id": "home_021_roof",
+      "ar": { "word": "سقف", "vocalized": "سَقْف", "gender": "m", "plural": "سُقُوف", "example": "السَّقْفُ يَحْمِي المَنْزِلَ مِنَ المَطَرِ." },
+      "de": { "article": "das", "word": "Dach", "plural": "Dächer", "example": "Das Dach schützt das Haus vor Regen." },
+      "en": { "word": "roof", "plural": "roofs", "example": "The roof protects the house from rain." },
+      "image_id": "img_home_roof"
+    },
+    {
+      "concept_id": "home_022_garden",
+      "ar": { "word": "حديقة", "vocalized": "حَدِيقَة", "gender": "f", "plural": "حَدَائِق", "example": "فِي الحَدِيقَةِ أَزْهَارٌ مُلَوَّنَةٌ." },
+      "de": { "article": "der", "word": "Garten", "plural": "Gärten", "example": "Im Garten gibt es bunte Blumen." },
+      "en": { "word": "garden", "plural": "gardens", "example": "In the garden there are colorful flowers." },
+      "image_id": "img_home_garden"
+    },
+    {
+      "concept_id": "home_023_stairs",
+      "ar": { "word": "درج", "vocalized": "دَرَج", "gender": "m", "plural": "أَدْرَاج", "example": "أَصْعَدُ الدَّرَجَ إِلَى الطَّابِقِ العُلْوِيِّ." },
+      "de": { "article": "die", "word": "Treppe", "plural": "Treppen", "example": "Ich steige die Treppe in den oberen Stock." },
+      "en": { "word": "stairs", "plural": "stairs", "example": "I climb the stairs to the upper floor." },
+      "image_id": "img_home_stairs"
+    },
+    {
+      "concept_id": "home_024_mirror",
+      "ar": { "word": "مرآة", "vocalized": "مِرْآة", "gender": "f", "plural": "مَرَايَا", "example": "أَنْظُرُ فِي المِرْآةِ كُلَّ صَبَاحٍ." },
+      "de": { "article": "der", "word": "Spiegel", "plural": "Spiegel", "example": "Ich schaue jeden Morgen in den Spiegel." },
+      "en": { "word": "mirror", "plural": "mirrors", "example": "I look in the mirror every morning." },
+      "image_id": "img_home_mirror"
+    },
+    {
+      "concept_id": "home_025_carpet",
+      "ar": { "word": "سجادة", "vocalized": "سِجَّادَة", "gender": "f", "plural": "سَجَاجِيد", "example": "السِّجَّادَةُ نَاعِمَةٌ ودَافِئَةٌ." },
+      "de": { "article": "der", "word": "Teppich", "plural": "Teppiche", "example": "Der Teppich ist weich und warm." },
+      "en": { "word": "carpet", "plural": "carpets", "example": "The carpet is soft and warm." },
+      "image_id": "img_home_carpet"
+    }
+  ]
+}
