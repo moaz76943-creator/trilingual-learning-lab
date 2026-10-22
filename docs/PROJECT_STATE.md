@@ -1,12 +1,13 @@
 # حالة المشروع (PROJECT_STATE)
 
-* **Cycle**: 002
-* **Phase**: PHASE 04 — الأصول البصرية المتجهية وسجل الصور
+* **Cycle**: 003
+* **Phase**: PHASE 05 — نواة Flutter وأتمتة CI
 * **Status**: Local Verified & Pushed
 * **Active Concepts**: 25 (قسم العائلة A1)
-* **Active Visual Assets**: 25 ملف SVG متجهي خفيف أصلي مدمج محليًا (< 2KB لكل صورة).
-* **Recent Changes**:
-  - إنشاء مجلد `content/assets/svg/` مع 25 أيقونة متناسقة بالألوان الهادئة.
-  - إنشاء `content/assets/images_registry.json` وتوثيق الملكية وحجم الملفات.
-  - ترقية فاحص الجودة لتدقيق سلامة وحجم ملفات الـ SVG والربط اللغوي-البصري.
-* **Next Step**: CYCLE 003 — تأسيس تطبيق Flutter الأساسي (Minimal Viable App) مع دعم العرض ثنائي الاتجاه (RTL/LTR) والوضع دون اتصال.
+* **Active Visual Assets**: 25 ملف SVG متجهي
+* **CI / Automation**: تفعيل `.github/workflows/ci.yml` على المشغلات القياسية
+* **Architecture Additions**:
+  - `pubspec.yaml` للتحكم بالحزم ومسارات الأصول
+  - `lib/models/concept.dart` لهيكلة الكائنات بثلاث لغات
+  - `lib/repositories/content_repository.dart` للتحميل الآمن المقاوم للانهيار
+* **Next Step**: CYCLE 004 — بناء واجهة قائمة الأقسام الرأسية (Vertical Categories Screen) وتصميم بطاقة المفردة.
