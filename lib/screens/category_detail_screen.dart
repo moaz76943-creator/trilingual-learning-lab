@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import '../models/concept.dart';
+import 'quiz_screen.dart';
 
 class CategoryDetailScreen extends StatefulWidget {
   final String categoryName;
@@ -19,7 +20,6 @@ class CategoryDetailScreen extends StatefulWidget {
 }
 
 class _CategoryDetailScreenState extends State<CategoryDetailScreen> {
-  // حالة الذاكرة المؤقتة التفاعلية للشاشة
   final Set<String> _favs = {};
   final Set<String> _learned = {};
 
@@ -47,8 +47,25 @@ class _CategoryDetailScreenState extends State<CategoryDetailScreen> {
         elevation: 0,
         foregroundColor: const Color(0xFF0F172A),
       ),
+      floatingActionButton: FloatingActionButton.extended(
+        onPressed: () {
+          Navigator.push(
+            context,
+            MaterialPageRoute(
+              builder: (_) => QuizScreen(
+                concepts: widget.concepts,
+                targetLang: widget.targetLang,
+                categoryTitle: widget.categoryName,
+              ),
+            ),
+          );
+        },
+        backgroundColor: const Color(0xFF0284C7),
+        icon: const Icon(Icons.school, color: Colors.white),
+        label: const Text('بدء اختبار سريع', style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold)),
+      ),
       body: ListView.separated(
-        padding: const EdgeInsets.all(16),
+        padding: const EdgeInsets.only(left: 16, right: 16, top: 16, bottom: 80),
         itemCount: widget.concepts.length,
         separatorBuilder: (_, __) => const SizedBox(height: 12),
         itemBuilder: (context, index) {
