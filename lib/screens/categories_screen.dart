@@ -60,6 +60,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
       ..._repository.getConcepts('feelings_adjectives'),
       ..._repository.getConcepts('travel_hotel'),
       ..._repository.getConcepts('shopping_money'),
+      ..._repository.getConcepts('hobbies_sports'),
     ];
   }
 
@@ -76,7 +77,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: const [
             Text('Trilingual Lab', style: TextStyle(color: Color(0xFF0F172A), fontSize: 18, fontWeight: FontWeight.bold)),
-            Text('A1 Foundation • 330 مفردة + 15 فعلًا + 20 حرف جر', style: TextStyle(color: Color(0xFF64748B), fontSize: 11)),
+            Text('A1 Foundation • 355 مفردة + 15 فعلًا + 20 حرف جر', style: TextStyle(color: Color(0xFF64748B), fontSize: 11)),
           ],
         ),
         actions: [
@@ -176,7 +177,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
 
                 // الأفعال والتصريفات
                 InkWell(
-                  onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => VerbsScreen(targetLang: _targetLang))),
+                  onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => VerbsScreen(targetLang: _targetLang)));
                   borderRadius: BorderRadius.circular(16),
                   child: Container(
                     padding: const EdgeInsets.all(12),
@@ -195,7 +196,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
 
                 // حروف الجر
                 InkWell(
-                  onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => PrepositionsScreen(targetLang: _targetLang))),
+                  onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => PrepositionsScreen(targetLang: _targetLang)));
                   borderRadius: BorderRadius.circular(16),
                   child: Container(
                     padding: const EdgeInsets.all(12),
@@ -212,7 +213,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
                 ),
                 const SizedBox(height: 16),
 
-                // الأقسام الـ 13 النشطة للمفردات
+                // الأقسام الـ 14 النشطة للمفردات
                 _buildCategoryCard('العائلة', 'Familie', 'Family', _repository.getConcepts('family'), Icons.people_outline, const Color(0xFF0284C7)),
                 const SizedBox(height: 8),
                 _buildCategoryCard('الطعام والشراب', 'Essen & Trinken', 'Food & Drinks', _repository.getConcepts('food'), Icons.restaurant_outlined, const Color(0xFFEA580C)),
@@ -238,6 +239,8 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
                 _buildCategoryCard('السفر والفندق', 'Reisen & Hotel', 'Travel & Hotel', _repository.getConcepts('travel_hotel'), Icons.flight_takeoff_outlined, const Color(0xFF0D9488)),
                 const SizedBox(height: 8),
                 _buildCategoryCard('التسوق والمال', 'Einkaufen & Geld', 'Shopping & Money', _repository.getConcepts('shopping_money'), Icons.shopping_cart_outlined, const Color(0xFFD97706)),
+                const SizedBox(height: 8),
+                _buildCategoryCard('الهوايات والرياضة', 'Hobbys & Sport', 'Hobbies & Sports', _repository.getConcepts('hobbies_sports'), Icons.sports_soccer_outlined, const Color(0xFFE11D48)),
               ],
             ),
     );

@@ -1,22 +1,22 @@
 import json, glob, sys, os
 
 def validate_all():
-    # 1. فحص الأصول المسجلة (370 صورة SVG)
+    # 1. فحص الأصول المسجلة (395 صورة SVG)
     with open("content/assets/images_registry.json", "r", encoding="utf-8") as f:
         reg = json.load(f)
     assets = reg.get("assets", {})
-    assert len(assets) >= 370, f"Expected at least 370 assets, found {len(assets)}"
+    assert len(assets) >= 395, f"Expected at least 395 assets, found {len(assets)}"
 
     for img_id, meta in assets.items():
         p = meta["asset_path"]
         assert os.path.exists(p), f"Missing: {p}"
         assert os.path.getsize(p) <= 20480, f"Too large: {p}"
 
-    # 2. فحص المفردات (13 فئة نشطة = 330 مفردة)
+    # 2. فحص المفردات (14 فئة نشطة = 355 مفردة)
     files = glob.glob("content/vocabulary/*.json")
-    assert len(files) >= 13, f"Expected at least 13 vocabulary files, found {len(files)}"
+    assert len(files) >= 14, f"Expected at least 14 vocabulary files, found {len(files)}"
     v_total = sum(len(json.load(open(fp, "r", encoding="utf-8"))["concepts"]) for fp in files)
-    assert v_total >= 330, f"Expected 330 concepts, found {v_total}"
+    assert v_total >= 355, f"Expected 355 concepts, found {v_total}"
 
     # 3. فحص الأفعال والتصريفات (15 فعلًا)
     with open("content/verbs/verbs_a1.json", "r", encoding="utf-8") as f:
@@ -42,7 +42,7 @@ def validate_all():
     dials = ddata.get("dialogues", [])
     assert len(dials) >= 5, f"Expected 5 dialogues, found {len(dials)}"
 
-    print(f"PASS: 13 active vocabulary categories validated ({v_total} concepts).")
+    print(f"PASS: 14 active vocabulary categories validated ({v_total} concepts).")
     print(f"PASS: 15 comprehensive verbs and 20 sentence builder exercises validated.")
     print(f"PASS: 20 prepositions with case rules validated.")
     print(f"PASS: 5 situational dialogues validated.")

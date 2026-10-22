@@ -1,0 +1,183 @@
+{
+  "category_id": "hobbies_sports",
+  "category_name": { "ar": "الهوايات والرياضة", "de": "Hobbys & Sport", "en": "Hobbies & Sports" },
+  "level": "A1",
+  "version": 1,
+  "concepts": [
+    {
+      "concept_id": "hob_001_hobby",
+      "ar": { "word": "هواية", "vocalized": "هِوَايَة", "gender": "f", "plural": "هِوَايَات", "example": "مَا هِيَ هِوَايَتُكَ المُفَضَّلَةُ؟" },
+      "de": { "article": "das", "word": "Hobby", "plural": "Hobbys", "example": "Was ist dein Lieblingshobby?" },
+      "en": { "word": "hobby", "plural": "hobbies", "example": "What is your favorite hobby?" },
+      "image_id": "img_hob_palette"
+    },
+    {
+      "concept_id": "hob_002_sport",
+      "ar": { "word": "رياضة", "vocalized": "رِيَاضَة", "gender": "f", "plural": "رِيَاضَات", "example": "أُمَارِسُ الرِّيَاضَةَ دَائِمًا." },
+      "de": { "article": "der", "word": "Sport", "plural": "Sportarten", "example": "Ich treibe regelmäßig Sport." },
+      "en": { "word": "sport", "plural": "sports", "example": "I do sports regularly." },
+      "image_id": "img_hob_medal"
+    },
+    {
+      "concept_id": "hob_003_football",
+      "ar": { "word": "كرة القدم", "vocalized": "كُرَةُ القَدَمِ", "gender": "f", "plural": "كُرَاتُ قَدَمٍ", "example": "نَلْعَبُ كُرَةَ القَدَمِ فِي المَلْعَبِ." },
+      "de": { "article": "der", "word": "Fußball", "plural": "Fußbälle", "example": "Wir spielen Fußball auf dem Platz." },
+      "en": { "word": "football", "plural": "footballs", "example": "We play football on the field." },
+      "image_id": "img_hob_football"
+    },
+    {
+      "concept_id": "hob_004_swimming",
+      "ar": { "word": "سباحة", "vocalized": "سِبَاحَة", "gender": "f", "plural": "سِبَاحَة", "example": "السِّبَاحَةُ رِيَاضَةٌ مُمْتَازَةٌ." },
+      "de": { "article": "das", "word": "Schwimmen", "plural": "Schwimmen", "example": "Schwimmen ist sehr gesund." },
+      "en": { "word": "swimming", "plural": "swimming", "example": "Swimming is very healthy." },
+      "image_id": "img_hob_swimming"
+    },
+    {
+      "concept_id": "hob_005_reading",
+      "ar": { "word": "قراءة", "vocalized": "قِرَاءَة", "gender": "f", "plural": "قِرَاءَات", "example": "القِرَاءَةُ تُغَذِّي العَقْلَ." },
+      "de": { "article": "das", "word": "Lesen", "plural": "Lesen", "example": "Lesen ist mein Hobby." },
+      "en": { "word": "reading", "plural": "reading", "example": "Reading is my hobby." },
+      "image_id": "img_hob_book"
+    },
+    {
+      "concept_id": "hob_006_music",
+      "ar": { "word": "موسيقى", "vocalized": "مُوسِيقَى", "gender": "f", "plural": "مُوسِيقَى", "example": "أَسْتَمِعُ إِلَى المُوسِيقَى." },
+      "de": { "article": "die", "word": "Musik", "plural": "Musiken", "example": "Ich höre gerne Musik." },
+      "en": { "word": "music", "plural": "musics", "example": "I like listening to music." },
+      "image_id": "img_hob_music"
+    },
+    {
+      "concept_id": "hob_007_drawing",
+      "ar": { "word": "رسم", "vocalized": "رَسْم", "gender": "m", "plural": "رُسُوم", "example": "أُحِبُّ رَسْمَ المَنَاظِرِ." },
+      "de": { "article": "das", "word": "Zeichnen", "plural": "Zeichnen", "example": "Ich zeichne sehr gerne." },
+      "en": { "word": "drawing", "plural": "drawings", "example": "I like drawing very much." },
+      "image_id": "img_hob_drawing"
+    },
+    {
+      "concept_id": "hob_008_photography",
+      "ar": { "word": "تصوير", "vocalized": "تَصْوِير", "gender": "m", "plural": "تَصْوِير", "example": "التَّصْوِيرُ هِوَايَتِي." },
+      "de": { "article": "das", "word": "Fotografieren", "plural": "Fotografieren", "example": "Fotografieren macht Spaß." },
+      "en": { "word": "photography", "plural": "photographies", "example": "Photography is fun." },
+      "image_id": "img_hob_camera"
+    },
+    {
+      "concept_id": "hob_009_cooking",
+      "ar": { "word": "طبخ", "vocalized": "طَبْخ", "gender": "m", "plural": "طَبْخ", "example": "الطَّبْخُ هِوَايَةٌ مُسَلِّيَةٌ." },
+      "de": { "article": "das", "word": "Kochen", "plural": "Kochen", "example": "Kochen ist meine Leidenschaft." },
+      "en": { "word": "cooking", "plural": "cookings", "example": "Cooking is my passion." },
+      "image_id": "img_hob_cooking"
+    },
+    {
+      "concept_id": "hob_010_running",
+      "ar": { "word": "جري", "vocalized": "جَرْي", "gender": "m", "plural": "جَرْي", "example": "أَجْرِي فِي الصَّبَاحِ." },
+      "de": { "article": "das", "word": "Laufen", "plural": "Laufen", "example": "Ich gehe morgens laufen." },
+      "en": { "word": "running", "plural": "runnings", "example": "I go running in the morning." },
+      "image_id": "img_hob_running"
+    },
+    {
+      "concept_id": "hob_011_cycling",
+      "ar": { "word": "ركوب الدراجة", "vocalized": "رُكُوبُ الدَّرَّاجَةِ", "gender": "m", "plural": "رُكُوبُ الدَّرَّاجَاتِ", "example": "رُكُوبُ الدَّرَّاجَةِ مُفِيدٌ." },
+      "de": { "article": "das", "word": "Radfahren", "plural": "Radfahren", "example": "Radfahren hält mich fit." },
+      "en": { "word": "cycling", "plural": "cyclings", "example": "Cycling keeps me fit." },
+      "image_id": "img_hob_cycling"
+    },
+    {
+      "concept_id": "hob_012_gaming",
+      "ar": { "word": "ألعاب فيديو", "vocalized": "أَلْعَابُ فِيدْيُو", "gender": "f", "plural": "أَلْعَابُ فِيدْيُو", "example": "أَلْعَبُ مَعَ أَصْدِقَائِي." },
+      "de": { "article": "das", "word": "Videospiel", "plural": "Videospiele", "example": "Ich spiele gerne Videospiele." },
+      "en": { "word": "video game", "plural": "video games", "example": "I like playing video games." },
+      "image_id": "img_hob_gamepad"
+    },
+    {
+      "concept_id": "hob_013_cinema",
+      "ar": { "word": "سينما", "vocalized": "سِينَمَا", "gender": "f", "plural": "سِينَمَا", "example": "نَذْهَبُ إِلَى السِّينَمَا." },
+      "de": { "article": "das", "word": "Kino", "plural": "Kinos", "example": "Wir gehen heute ins Kino." },
+      "en": { "word": "cinema", "plural": "cinemas", "example": "We are going to the cinema today." },
+      "image_id": "img_hob_cinema"
+    },
+    {
+      "concept_id": "hob_014_theatre",
+      "ar": { "word": "مسرح", "vocalized": "مَسْرَح", "gender": "m", "plural": "مَسَارِح", "example": "شَاهَدْنَا مَسْرَحِيَّةً جَمِيلَةً." },
+      "de": { "article": "das", "word": "Theater", "plural": "Theater", "example": "Wir gehen ins Theater." },
+      "en": { "word": "theatre", "plural": "theatres", "example": "We are going to the theatre." },
+      "image_id": "img_hob_theatre"
+    },
+    {
+      "concept_id": "hob_015_guitar",
+      "ar": { "word": "غيتار", "vocalized": "غِيتَار", "gender": "m", "plural": "غِيتَارَات", "example": "أَعْزِفُ عَلَى الغِيتَارِ." },
+      "de": { "article": "die", "word": "Gitarre", "plural": "Gitarren", "example": "Ich lerne Gitarre spielen." },
+      "en": { "word": "guitar", "plural": "guitars", "example": "I am learning to play guitar." },
+      "image_id": "img_hob_guitar"
+    },
+    {
+      "concept_id": "hob_016_piano",
+      "ar": { "word": "بيانو", "vocalized": "بِيَانُو", "gender": "m", "plural": "بِيَانُو", "example": "البِيَانُو آلَةٌ رَائِعَةٌ." },
+      "de": { "article": "das", "word": "Klavier", "plural": "Klaviere", "example": "Er spielt sehr gut Klavier." },
+      "en": { "word": "piano", "plural": "pianos", "example": "He plays piano very well." },
+      "image_id": "img_hob_piano"
+    },
+    {
+      "concept_id": "hob_017_dance",
+      "ar": { "word": "رقص", "vocalized": "رَقْص", "gender": "m", "plural": "رَقَصَات", "example": "نَتَعَلَّمُ الرَّقْصَ مَعًا." },
+      "de": { "article": "das", "word": "Tanzen", "plural": "Tanzen", "example": "Tanzen macht fröhlich." },
+      "en": { "word": "dancing", "plural": "dancings", "example": "Dancing makes you happy." },
+      "image_id": "img_hob_dance"
+    },
+    {
+      "concept_id": "hob_018_basketball",
+      "ar": { "word": "كرة السلة", "vocalized": "كُرَةُ السَّلَّةِ", "gender": "f", "plural": "كُرَاتُ سَلَّةٍ", "example": "أَلْعَبُ كُرَةَ السَّلَّةِ." },
+      "de": { "article": "der", "word": "Basketball", "plural": "Basketbälle", "example": "Basketball ist ein schneller Sport." },
+      "en": { "word": "basketball", "plural": "basketballs", "example": "Basketball is a fast sport." },
+      "image_id": "img_hob_basketball"
+    },
+    {
+      "concept_id": "hob_019_tennis",
+      "ar": { "word": "تنس", "vocalized": "تِنِس", "gender": "m", "plural": "تِنِس", "example": "نَلْعَبُ التِّنِسَ كُلَّ أُحَدٍ." },
+      "de": { "article": "das", "word": "Tennis", "plural": "Tennis", "example": "Wir spielen Tennis am Sonntag." },
+      "en": { "word": "tennis", "plural": "tennis", "example": "We play tennis on Sunday." },
+      "image_id": "img_hob_tennis"
+    },
+    {
+      "concept_id": "hob_020_gardening",
+      "ar": { "word": "بستنة", "vocalized": "بَسْتَنَة", "gender": "f", "plural": "بَسْتَنَة", "example": "أَعْتَنِي بِأَزْهَارِ الحَدِيقَةِ." },
+      "de": { "article": "die", "word": "Gartenarbeit", "plural": "Gartenarbeiten", "example": "Gartenarbeit entspannt mich." },
+      "en": { "word": "gardening", "plural": "gardenings", "example": "Gardening relaxes me." },
+      "image_id": "img_hob_gardening"
+    },
+    {
+      "concept_id": "hob_021_fishing",
+      "ar": { "word": "صيد السمك", "vocalized": "صَيْدُ السَّمَكِ", "gender": "m", "plural": "صَيْدُ السَّمَكِ", "example": "صَيْدُ السَّمَكِ يَحْتَاجُ صَبْرًا." },
+      "de": { "article": "das", "word": "Angeln", "plural": "Angeln", "example": "Angeln am See ist ruhig." },
+      "en": { "word": "fishing", "plural": "fishings", "example": "Fishing at the lake is quiet." },
+      "image_id": "img_hob_fishing"
+    },
+    {
+      "concept_id": "hob_022_hiking",
+      "ar": { "word": "مشي في الطبيعة", "vocalized": "مَشْيٌ فِي الطَّبِيعَةِ", "gender": "m", "plural": "مَشْيٌ فِي الطَّبِيعَةِ", "example": "نَمْشِي فِي الجِبَالِ." },
+      "de": { "article": "das", "word": "Wandern", "plural": "Wandern", "example": "Wandern in den Bergen ist herrlich." },
+      "en": { "word": "hiking", "plural": "hikings", "example": "Hiking in the mountains is wonderful." },
+      "image_id": "img_hob_hiking"
+    },
+    {
+      "concept_id": "hob_023_ball",
+      "ar": { "word": "كرة", "vocalized": "كُرَة", "gender": "f", "plural": "كُرَات", "example": "الأَطْفَالُ يَلْعَبُونَ بِالكُرَةِ." },
+      "de": { "article": "der", "word": "Ball", "plural": "Bälle", "example": "Der Ball ist rund und bunt." },
+      "en": { "word": "ball", "plural": "balls", "example": "The ball is round and colorful." },
+      "image_id": "img_hob_ball"
+    },
+    {
+      "concept_id": "hob_024_club",
+      "ar": { "word": "ناد", "vocalized": "نَادٍ", "gender": "m", "plural": "أَنْدِيَة", "example": "أَنَا عُضْوٌ فِي نَادِي الرِّيَاضَةِ." },
+      "de": { "article": "der", "word": "Verein", "plural": "Vereine", "example": "Ich bin Mitglied im Sportverein." },
+      "en": { "word": "club", "plural": "clubs", "example": "I am a member of the sports club." },
+      "image_id": "img_hob_club"
+    },
+    {
+      "concept_id": "hob_025_free_time",
+      "ar": { "word": "وقت الفراغ", "vocalized": "وَقْتُ الفَرَاغِ", "gender": "m", "plural": "أَوْقَاتُ فَرَاغٍ", "example": "مَاذَا تَفْعَلُ فِي وَقْتِ فَرَاغِكَ؟" },
+      "de": { "article": "die", "word": "Freizeit", "plural": "Freizeiten", "example": "In meiner Freizeit lese ich viel." },
+      "en": { "word": "free time", "plural": "free times", "example": "In my free time I read a lot." },
+      "image_id": "img_hob_clock"
+    }
+  ]
+}

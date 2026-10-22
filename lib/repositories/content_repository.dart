@@ -41,6 +41,7 @@ class ContentRepository {
     CategoryInfo(id: 'feelings_adjectives', titleAr: 'المشاعر والصفات', titleDe: 'Gefühle & Adjektive', titleEn: 'Feelings & Adjectives', jsonPath: 'content/vocabulary/feelings_adjectives_a1.json'),
     CategoryInfo(id: 'travel_hotel', titleAr: 'السفر والفندق', titleDe: 'Reisen & Hotel', titleEn: 'Travel & Hotel', jsonPath: 'content/vocabulary/travel_hotel_a1.json'),
     CategoryInfo(id: 'shopping_money', titleAr: 'التسوق والمال', titleDe: 'Einkaufen & Geld', titleEn: 'Shopping & Money', jsonPath: 'content/vocabulary/shopping_money_a1.json'),
+    CategoryInfo(id: 'hobbies_sports', titleAr: 'الهوايات والرياضة', titleDe: 'Hobbys & Sport', titleEn: 'Hobbies & Sports', jsonPath: 'content/vocabulary/hobbies_sports_a1.json'),
   ];
 
   Future<bool> loadAllActiveCategories() async {
