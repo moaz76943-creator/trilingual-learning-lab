@@ -6,7 +6,7 @@
     "en": "Family"
   },
   "level": "A1",
-  "version": 1,
+  "version": 2,
   "concepts": [
     {
       "concept_id": "fam_001_family",
@@ -77,6 +77,117 @@
       "de": { "article": "die", "word": "Eltern", "plural": "Eltern", "example": "Meine Eltern sind zu Hause." },
       "en": { "word": "parents", "plural": "parents", "example": "My parents are at home." },
       "image_id": "img_fam_parents"
+    },
+    {
+      "concept_id": "fam_011_paternal_uncle",
+      "semantic_distinction": "father's brother",
+      "ar": { "word": "عم", "vocalized": "عَمّ", "gender": "m", "plural": "أَعْمَام", "example": "عَمِّي يَعْمَلُ مُهَنْدِسًا." },
+      "de": { "article": "der", "word": "Onkel", "plural": "Onkel", "example": "Mein Onkel väterlicherseits arbeitet als Ingenieur." },
+      "en": { "word": "paternal uncle", "plural": "paternal uncles", "example": "My uncle on my father's side is an engineer." },
+      "image_id": "img_fam_paternal_uncle"
+    },
+    {
+      "concept_id": "fam_012_maternal_uncle",
+      "semantic_distinction": "mother's brother",
+      "ar": { "word": "خال", "vocalized": "خَال", "gender": "m", "plural": "أَخْوَال", "example": "زَارَنَا خَالِي أَمْسِ." },
+      "de": { "article": "der", "word": "Onkel", "plural": "Onkel", "example": "Mein Onkel mütterlicherseits hat uns gestern besucht." },
+      "en": { "word": "maternal uncle", "plural": "maternal uncles", "example": "My uncle on my mother's side visited us yesterday." },
+      "image_id": "img_fam_maternal_uncle"
+    },
+    {
+      "concept_id": "fam_013_paternal_aunt",
+      "semantic_distinction": "father's sister",
+      "ar": { "word": "عمة", "vocalized": "عَمَّة", "gender": "f", "plural": "عَمَّات", "example": "عَمَّتِي تُحِبُّ السَّفَرَ." },
+      "de": { "article": "die", "word": "Tante", "plural": "Tanten", "example": "Meine Tante reist gern." },
+      "en": { "word": "paternal aunt", "plural": "paternal aunts", "example": "My aunt on my father's side likes to travel." },
+      "image_id": "img_fam_paternal_aunt"
+    },
+    {
+      "concept_id": "fam_014_maternal_aunt",
+      "semantic_distinction": "mother's sister",
+      "ar": { "word": "خالة", "vocalized": "خَالَة", "gender": "f", "plural": "خَالَات", "example": "خَالَتِي تُعِدُّ طَعَامًا لَذِيذًا." },
+      "de": { "article": "die", "word": "Tante", "plural": "Tanten", "example": "Meine Tante kocht leckeres Essen." },
+      "en": { "word": "maternal aunt", "plural": "maternal aunts", "example": "My aunt on my mother's side cooks delicious food." },
+      "image_id": "img_fam_maternal_aunt"
+    },
+    {
+      "concept_id": "fam_015_cousin_male",
+      "semantic_distinction": "male cousin",
+      "ar": { "word": "ابن العم/الخال", "vocalized": "اِبْنُ العَمِّ / اِبْنُ الخَالِ", "gender": "m", "plural": "أَبْنَاءُ العَمِّ", "example": "اِبْنُ عَمِّي فِي نَفْسِ عُمْرِي." },
+      "de": { "article": "der", "word": "Cousin", "plural": "Cousins", "example": "Mein Cousin ist so alt wie ich." },
+      "en": { "word": "cousin", "plural": "cousins", "example": "My male cousin is my age." },
+      "image_id": "img_fam_cousin_male"
+    },
+    {
+      "concept_id": "fam_016_cousin_female",
+      "semantic_distinction": "female cousin",
+      "ar": { "word": "ابنة العم/الخال", "vocalized": "اِبْنَةُ العَمِّ / اِبْنَةُ الخَالِ", "gender": "f", "plural": "بَنَاتُ العَمِّ", "example": "اِبْنَةُ خَالِي طَالِبَةٌ." },
+      "de": { "article": "die", "word": "Cousine", "plural": "Cousinen", "example": "Meine Cousine ist Studentin." },
+      "en": { "word": "cousin", "plural": "cousins", "example": "My female cousin is a student." },
+      "image_id": "img_fam_cousin_female"
+    },
+    {
+      "concept_id": "fam_017_nephew",
+      "ar": { "word": "ابن الأخ/الأخت", "vocalized": "اِبْنُ الأَخِ / اِبْنُ الأُخْتِ", "gender": "m", "plural": "أَبْنَاءُ الإِخْوَةِ", "example": "اِبْنُ أَخِي مَرِحٌ جِدًّا." },
+      "de": { "article": "der", "word": "Neffe", "plural": "Neffen", "example": "Mein Neffe ist sehr fröhlich." },
+      "en": { "word": "nephew", "plural": "nephews", "example": "My nephew is very cheerful." },
+      "image_id": "img_fam_nephew"
+    },
+    {
+      "concept_id": "fam_018_niece",
+      "ar": { "word": "ابنة الأخ/الأخت", "vocalized": "اِبْنَةُ الأَخِ / اِبْنَةُ الأُخْتِ", "gender": "f", "plural": "بَنَاتُ الإِخْوَةِ", "example": "اِبْنَةُ أُخْتِي تَرْسُمُ جَيِّدًا." },
+      "de": { "article": "die", "word": "Nichte", "plural": "Nichten", "example": "Meine Nichte zeichnet gut." },
+      "en": { "word": "niece", "plural": "nieces", "example": "My niece draws well." },
+      "image_id": "img_fam_niece"
+    },
+    {
+      "concept_id": "fam_019_husband",
+      "ar": { "word": "زوج", "vocalized": "زَوْج", "gender": "m", "plural": "أَزْوَاج", "example": "زَوْجُهَا كَرِيمٌ." },
+      "de": { "article": "der", "word": "Ehemann", "plural": "Ehemänner", "example": "Ihr Ehemann ist großzügig." },
+      "en": { "word": "husband", "plural": "husbands", "example": "Her husband is generous." },
+      "image_id": "img_fam_husband"
+    },
+    {
+      "concept_id": "fam_020_wife",
+      "ar": { "word": "زوجة", "vocalized": "زَوْجَة", "gender": "f", "plural": "زَوْجَات", "example": "زَوْجَتُهُ مُتَعَاوِنَةٌ." },
+      "de": { "article": "die", "word": "Ehefrau", "plural": "Ehefrauen", "example": "Seine Ehefrau ist hilfsbereit." },
+      "en": { "word": "wife", "plural": "wives", "example": "His wife is helpful." },
+      "image_id": "img_fam_wife"
+    },
+    {
+      "concept_id": "fam_021_child",
+      "ar": { "word": "طفل", "vocalized": "طِفْل", "gender": "m", "plural": "أَطْفَال", "example": "الطِّفْلُ يَلْعَبُ بِالكُرَةِ." },
+      "de": { "article": "das", "word": "Kind", "plural": "Kinder", "example": "Das Kind spielt mit dem Ball." },
+      "en": { "word": "child", "plural": "children", "example": "The child plays with the ball." },
+      "image_id": "img_fam_child"
+    },
+    {
+      "concept_id": "fam_022_baby",
+      "ar": { "word": "رضيع", "vocalized": "رَضِيع", "gender": "m", "plural": "رُضَّع", "example": "الرَّضِيعُ يَنَامُ بِهُدُوءٍ." },
+      "de": { "article": "das", "word": "Baby", "plural": "Babys", "example": "Das Baby schläft ruhig." },
+      "en": { "word": "baby", "plural": "babies", "example": "The baby sleeps quietly." },
+      "image_id": "img_fam_baby"
+    },
+    {
+      "concept_id": "fam_023_grandson",
+      "ar": { "word": "حفيد", "vocalized": "حَفِيد", "gender": "m", "plural": "أَحْفَاد", "example": "حَفِيدِي يُحِبُّ القِصَصَ." },
+      "de": { "article": "der", "word": "Enkel", "plural": "Enkel", "example": "Mein Enkel mag Geschichten." },
+      "en": { "word": "grandson", "plural": "grandsons", "example": "My grandson loves stories." },
+      "image_id": "img_fam_grandson"
+    },
+    {
+      "concept_id": "fam_024_granddaughter",
+      "ar": { "word": "حفيدة", "vocalized": "حَفِيدَة", "gender": "f", "plural": "حَفِيدَات", "example": "حَفِيدَتِي تَكْتُبُ وَاجِبَهَا." },
+      "de": { "article": "die", "word": "Enkelin", "plural": "Enkelinnen", "example": "Meine Enkelin schreibt ihre Hausaufgabe." },
+      "en": { "word": "granddaughter", "plural": "granddaughters", "example": "My granddaughter writes her homework." },
+      "image_id": "img_fam_granddaughter"
+    },
+    {
+      "concept_id": "fam_025_relatives",
+      "ar": { "word": "أقارب", "vocalized": "أَقَارِب", "gender": "m", "plural": "أَقَارِب", "example": "نَجْتَمِعُ مَعَ الأَقَارِبِ فِي العِيدِ." },
+      "de": { "article": "die", "word": "Verwandten", "plural": "Verwandten", "example": "Wir treffen uns mit den Verwandten am Feiertag." },
+      "en": { "word": "relatives", "plural": "relatives", "example": "We gather with relatives on holidays." },
+      "image_id": "img_fam_relatives"
     }
   ]
 }

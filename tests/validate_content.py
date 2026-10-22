@@ -13,20 +13,22 @@ def validate_category_file(file_path):
         assert field in data, f"Missing top-level field: {field}"
 
     concepts = data["concepts"]
-    assert len(concepts) > 0, "No concepts found in category"
+    assert len(concepts) >= 25, f"Expected at least 25 concepts, found {len(concepts)}"
 
     seen_ids = set()
     valid_articles = {"der", "die", "das"}
+    valid_genders = {"m", "f", "n"}
 
     for idx, c in enumerate(concepts):
         cid = c.get("concept_id")
         assert cid, f"Missing concept_id at index {idx}"
-        assert cid not in seen_ids, f"Duplicate concept_id: {cid}"
+        assert cid not in seen_ids, f"Duplicate concept_id detected: {cid}"
         seen_ids.add(cid)
 
         # Arabic check
         ar = c.get("ar", {})
         assert ar.get("word") and ar.get("vocalized") and ar.get("example"), f"Incomplete AR data in {cid}"
+        assert ar.get("gender") in valid_genders, f"Invalid AR gender in {cid}"
 
         # German check
         de = c.get("de", {})
@@ -37,7 +39,7 @@ def validate_category_file(file_path):
         en = c.get("en", {})
         assert en.get("word") and en.get("example"), f"Incomplete EN data in {cid}"
 
-        # Image ID check
+        # Visual Link Check
         assert c.get("image_id"), f"Missing image_id in {cid}"
 
     print(f"PASS: {len(concepts)} concepts verified successfully in {os.path.basename(file_path)}.")
