@@ -1,22 +1,22 @@
 import json, glob, sys, os
 
 def validate_all():
-    # 1. فحص الأصول المسجلة (195 صورة SVG)
+    # 1. فحص الأصول المسجلة (220 صورة SVG)
     with open("content/assets/images_registry.json", "r", encoding="utf-8") as f:
         reg = json.load(f)
     assets = reg.get("assets", {})
-    assert len(assets) >= 195, f"Expected at least 195 assets, found {len(assets)}"
+    assert len(assets) >= 220, f"Expected at least 220 assets, found {len(assets)}"
 
     for img_id, meta in assets.items():
         p = meta["asset_path"]
         assert os.path.exists(p), f"Missing: {p}"
         assert os.path.getsize(p) <= 20480, f"Too large: {p}"
 
-    # 2. فحص المفردات (7 فئات نشطة = 180 مفردة بالتمام والكمال)
+    # 2. فحص المفردات (8 فئات نشطة = 205 مفردات بالتمام والكمال)
     files = glob.glob("content/vocabulary/*.json")
-    assert len(files) >= 7, f"Expected at least 7 vocabulary files, found {len(files)}"
+    assert len(files) >= 8, f"Expected at least 8 vocabulary files, found {len(files)}"
     v_total = sum(len(json.load(open(fp, "r", encoding="utf-8"))["concepts"]) for fp in files)
-    assert v_total >= 180, f"Expected 180 concepts, found {v_total}"
+    assert v_total >= 205, f"Expected 205 concepts, found {v_total}"
 
     # 3. فحص الأفعال والتصريفات (15 فعلًا)
     with open("content/verbs/verbs_a1.json", "r", encoding="utf-8") as f:
@@ -30,7 +30,7 @@ def validate_all():
     sentences = sdata.get("sentences", [])
     assert len(sentences) >= 20, f"Expected 20 sentences, found {len(sentences)}"
 
-    print(f"PASS: 7 active categories validated ({v_total} concepts).")
+    print(f"PASS: 8 active categories validated ({v_total} concepts - 200 Milestone passed!).")
     print(f"PASS: 15 comprehensive verbs and 20 sentence builder exercises validated.")
     print(f"PASS: Total {len(assets)} vector SVG assets verified on disk.")
 

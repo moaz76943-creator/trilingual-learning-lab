@@ -1,0 +1,183 @@
+{
+  "category_id": "city_transport",
+  "category_name": { "ar": "المدينة والمواصلات", "de": "Stadt & Verkehr", "en": "City & Transport" },
+  "level": "A1",
+  "version": 1,
+  "concepts": [
+    {
+      "concept_id": "city_001_city",
+      "ar": { "word": "مدينة", "vocalized": "مَدِينَة", "gender": "f", "plural": "مُدُن", "example": "هَذِهِ مَدِينَةٌ كَبِيرَةٌ." },
+      "de": { "article": "die", "word": "Stadt", "plural": "Städte", "example": "Das ist eine große Stadt." },
+      "en": { "word": "city", "plural": "cities", "example": "This is a big city." },
+      "image_id": "img_city_city"
+    },
+    {
+      "concept_id": "city_002_street",
+      "ar": { "word": "شارع", "vocalized": "شَارِع", "gender": "m", "plural": "شَوَارِع", "example": "الشَّارِعُ وَاسِعٌ ومُزْدَحِمٌ." },
+      "de": { "article": "die", "word": "Straße", "plural": "Straßen", "example": "Die Straße ist breit und belebt." },
+      "en": { "word": "street", "plural": "streets", "example": "The street is wide and busy." },
+      "image_id": "img_city_street"
+    },
+    {
+      "concept_id": "city_003_car",
+      "ar": { "word": "سيارة", "vocalized": "سَيَّارَة", "gender": "f", "plural": "سَيَّارَات", "example": "أَقُودُ السَّيَّارَةَ إِلَى العَمَلِ." },
+      "de": { "article": "das", "word": "Auto", "plural": "Autos", "example": "Ich fahre mit dem Auto zur Arbeit." },
+      "en": { "word": "car", "plural": "cars", "example": "I drive the car to work." },
+      "image_id": "img_city_car"
+    },
+    {
+      "concept_id": "city_004_bus",
+      "ar": { "word": "حافلة", "vocalized": "حَافِلَة", "gender": "f", "plural": "حَافِلَات", "example": "أَنْتَظِرُ الحَافِلَةَ فِي المَحَطَّةِ." },
+      "de": { "article": "der", "word": "Bus", "plural": "Busse", "example": "Ich warte an der Haltestelle auf den Bus." },
+      "en": { "word": "bus", "plural": "buses", "example": "I wait for the bus at the stop." },
+      "image_id": "img_city_bus"
+    },
+    {
+      "concept_id": "city_005_train",
+      "ar": { "word": "قطار", "vocalized": "قِطَار", "gender": "m", "plural": "قِطَارَات", "example": "القِطَارُ سَرِيعٌ ومُرِيحٌ." },
+      "de": { "article": "der", "word": "Zug", "plural": "Züge", "example": "Der Zug ist schnell und bequem." },
+      "en": { "word": "train", "plural": "trains", "example": "The train is fast and comfortable." },
+      "image_id": "img_city_train"
+    },
+    {
+      "concept_id": "city_006_subway",
+      "ar": { "word": "مترو", "vocalized": "مِتْرُو", "gender": "m", "plural": "مِتْرُو", "example": "أَرْكَبُ المِتْرُو لِتَفَادِي الاِزْدِحَامِ." },
+      "de": { "article": "die", "word": "U-Bahn", "plural": "U-Bahnen", "example": "Ich nehme die U-Bahn." },
+      "en": { "word": "subway", "plural": "subways", "example": "I take the subway." },
+      "image_id": "img_city_subway"
+    },
+    {
+      "concept_id": "city_007_bicycle",
+      "ar": { "word": "دراجة", "vocalized": "دَرَّاجَة", "gender": "f", "plural": "دَرَّاجَات", "example": "أَرْكَبُ الدَّرَّاجَةَ فِي الصَّبَاحِ." },
+      "de": { "article": "das", "word": "Fahrrad", "plural": "Fahrräder", "example": "Ich fahre morgens Fahrrad." },
+      "en": { "word": "bicycle", "plural": "bicycles", "example": "I ride a bicycle in the morning." },
+      "image_id": "img_city_bicycle"
+    },
+    {
+      "concept_id": "city_008_airplane",
+      "ar": { "word": "طائرة", "vocalized": "طَائِرَة", "gender": "f", "plural": "طَائِرَات", "example": "الطَّائِرَةُ تَطِيرُ فِي السَّمَاءِ." },
+      "de": { "article": "das", "word": "Flugzeug", "plural": "Flugzeuge", "example": "Das Flugzeug fliegt am Himmel." },
+      "en": { "word": "airplane", "plural": "airplanes", "example": "The airplane flies in the sky." },
+      "image_id": "img_city_airplane"
+    },
+    {
+      "concept_id": "city_009_airport",
+      "ar": { "word": "مطار", "vocalized": "مَطَار", "gender": "m", "plural": "مَطَارَات", "example": "المَطَارُ بَعِيدٌ عَنِ المَرْكَزِ." },
+      "de": { "article": "der", "word": "Flughafen", "plural": "Flughäfen", "example": "Der Flughafen ist weit entfernt." },
+      "en": { "word": "airport", "plural": "airports", "example": "The airport is far away." },
+      "image_id": "img_city_airport"
+    },
+    {
+      "concept_id": "city_010_station",
+      "ar": { "word": "محطة", "vocalized": "مَحَطَّة", "gender": "f", "plural": "مَحَطَّات", "example": "نَلْتَقِي أَمَامَ المَحَطَّةِ." },
+      "de": { "article": "der", "word": "Bahnhof", "plural": "Bahnhöfe", "example": "Wir treffen uns vor dem Bahnhof." },
+      "en": { "word": "station", "plural": "stations", "example": "We meet in front of the station." },
+      "image_id": "img_city_station"
+    },
+    {
+      "concept_id": "city_011_ticket",
+      "ar": { "word": "تذكرة", "vocalized": "تَذْكِرَة", "gender": "f", "plural": "تَذَاكِر", "example": "أَشْتَرِي تَذْكِرَةَ القِطَارِ." },
+      "de": { "article": "die", "word": "Fahrkarte", "plural": "Fahrkarten", "example": "Ich kaufe eine Fahrkarte für den Zug." },
+      "en": { "word": "ticket", "plural": "tickets", "example": "I buy a train ticket." },
+      "image_id": "img_city_ticket"
+    },
+    {
+      "concept_id": "city_012_taxi",
+      "ar": { "word": "تاكسي", "vocalized": "تَاكْسِي", "gender": "m", "plural": "تَاكْسِي", "example": "أَطْلُبُ سَيَّارَةَ أُجْرَةٍ." },
+      "de": { "article": "das", "word": "Taxi", "plural": "Taxis", "example": "Ich nehme ein Taxi." },
+      "en": { "word": "taxi", "plural": "taxis", "example": "I take a taxi." },
+      "image_id": "img_city_taxi"
+    },
+    {
+      "concept_id": "city_013_hotel",
+      "ar": { "word": "فندق", "vocalized": "فُنْدُق", "gender": "m", "plural": "فَنَادِق", "example": "نَحْجِزُ غُرْفَةً فِي الفُنْدُقِ." },
+      "de": { "article": "das", "word": "Hotel", "plural": "Hotels", "example": "Wir buchen ein Zimmer im Hotel." },
+      "en": { "word": "hotel", "plural": "hotels", "example": "We book a room in the hotel." },
+      "image_id": "img_city_hotel"
+    },
+    {
+      "concept_id": "city_014_bank",
+      "ar": { "word": "بنك", "vocalized": "بَنْك", "gender": "m", "plural": "بُنُوك", "example": "أَسْحَبُ النُّقُودَ مِنَ البَنْكِ." },
+      "de": { "article": "die", "word": "Bank", "plural": "Banken", "example": "Ich hebe Geld von der Bank ab." },
+      "en": { "word": "bank", "plural": "banks", "example": "I withdraw money from the bank." },
+      "image_id": "img_city_bank"
+    },
+    {
+      "concept_id": "city_015_post_office",
+      "ar": { "word": "بريد", "vocalized": "بَرِيد", "gender": "m", "plural": "بَرِيد", "example": "أُرْسِلُ رِسَالَةً عَبْرَ البَرِيدِ." },
+      "de": { "article": "die", "word": "Post", "plural": "Post", "example": "Ich schicke einen Brief mit der Post." },
+      "en": { "word": "post office", "plural": "post offices", "example": "I send a letter via post." },
+      "image_id": "img_city_post_office"
+    },
+    {
+      "concept_id": "city_016_market",
+      "ar": { "word": "سوق", "vocalized": "سُوق", "gender": "m", "plural": "أَسْوَاق", "example": "السُّوقُ مَلِيءٌ بِالخُضَارِ." },
+      "de": { "article": "der", "word": "Markt", "plural": "Märkte", "example": "Der Markt ist voller Gemüse." },
+      "en": { "word": "market", "plural": "markets", "example": "The market is full of vegetables." },
+      "image_id": "img_city_market"
+    },
+    {
+      "concept_id": "city_017_supermarket",
+      "ar": { "word": "سوبرماركت", "vocalized": "سُوبَرْمَارْكِت", "gender": "m", "plural": "سُوبَرْمَارْكِت", "example": "أَتَسَوَّقُ مِنَ السُّوبَرْمَارْكِت." },
+      "de": { "article": "der", "word": "Supermarkt", "plural": "Supermärkte", "example": "Ich kaufe im Supermarkt ein." },
+      "en": { "word": "supermarket", "plural": "supermarkets", "example": "I shop at the supermarket." },
+      "image_id": "img_city_supermarket"
+    },
+    {
+      "concept_id": "city_018_park",
+      "ar": { "word": "متنزه", "vocalized": "مُتَنَزَّه", "gender": "m", "plural": "مُتَنَزَّهَات", "example": "أَتَمَشَّى فِي المُتَنَزَّهِ." },
+      "de": { "article": "der", "word": "Park", "plural": "Parks", "example": "Ich gehe im Park spazieren." },
+      "en": { "word": "park", "plural": "parks", "example": "I walk in the park." },
+      "image_id": "img_city_park"
+    },
+    {
+      "concept_id": "city_019_bridge",
+      "ar": { "word": "جسر", "vocalized": "جِسْر", "gender": "m", "plural": "جُسُور", "example": "تَعْبُرُ السَّيَّارَاتُ فَوْقَ الجِسْرِ." },
+      "de": { "article": "die", "word": "Brücke", "plural": "Brücken", "example": "Die Autos fahren über die Brücke." },
+      "en": { "word": "bridge", "plural": "bridges", "example": "Cars drive over the bridge." },
+      "image_id": "img_city_bridge"
+    },
+    {
+      "concept_id": "city_020_traffic_light",
+      "ar": { "word": "إشارة مرور", "vocalized": "إِشَارَةُ مُرُورٍ", "gender": "f", "plural": "إِشَارَاتُ مُرُورٍ", "example": "تَوَقَّفْ عِنْدَ الإِشَارَةِ الحَمْرَاءِ." },
+      "de": { "article": "die", "word": "Ampel", "plural": "Ampeln", "example": "Halte an der roten Ampel." },
+      "en": { "word": "traffic light", "plural": "traffic lights", "example": "Stop at the red traffic light." },
+      "image_id": "img_city_traffic_light"
+    },
+    {
+      "concept_id": "city_021_crossroad",
+      "ar": { "word": "تقاطع", "vocalized": "تَقَاطُع", "gender": "m", "plural": "تَقَاطُعَات", "example": "انْعَطِفْ يَمِينًا عِنْدَ التَّقَاطُعِ." },
+      "de": { "article": "die", "word": "Kreuzung", "plural": "Kreuzungen", "example": "Biege an der Kreuzung rechts ab." },
+      "en": { "word": "crossroad", "plural": "crossroads", "example": "Turn right at the crossroad." },
+      "image_id": "img_city_crossroad"
+    },
+    {
+      "concept_id": "city_022_parking",
+      "ar": { "word": "موقف سيارات", "vocalized": "مَوْقِفُ سَيَّارَاتٍ", "gender": "m", "plural": "مَوَاقِفُ سَيَّارَاتٍ", "example": "أَبْحَثُ عَنْ مَوْقِفٍ لِلسَّيَّارَةِ." },
+      "de": { "article": "der", "word": "Parkplatz", "plural": "Parkplätze", "example": "Ich suche einen Parkplatz." },
+      "en": { "word": "parking", "plural": "parkings", "example": "I am looking for parking." },
+      "image_id": "img_city_parking"
+    },
+    {
+      "concept_id": "city_023_museum",
+      "ar": { "word": "متحف", "vocalized": "مُتْحَف", "gender": "m", "plural": "مَتَاحِف", "example": "نَزُورُ المُتْحَفَ فِي العُطْلَةِ." },
+      "de": { "article": "das", "word": "Museum", "plural": "Museen", "example": "Wir besuchen das Museum am Wochenende." },
+      "en": { "word": "museum", "plural": "museums", "example": "We visit the museum on the weekend." },
+      "image_id": "img_city_museum"
+    },
+    {
+      "concept_id": "city_024_school",
+      "ar": { "word": "مدرسة", "vocalized": "مَدْرَسَة", "gender": "f", "plural": "مَدَارِس", "example": "يَذْهَبُ الأَطْفَالُ إِلَى المَدْرَسَةِ." },
+      "de": { "article": "die", "word": "Schule", "plural": "Schulen", "example": "Die Kinder gehen zur Schule." },
+      "en": { "word": "school", "plural": "schools", "example": "Children go to school." },
+      "image_id": "img_city_school"
+    },
+    {
+      "concept_id": "city_025_library",
+      "ar": { "word": "مكتبة", "vocalized": "مَكْتَبَة", "gender": "f", "plural": "مَكْتَبَات", "example": "أَقْرَأُ الكُتُبَ فِي المَكْتَبَةِ." },
+      "de": { "article": "die", "word": "Bibliothek", "plural": "Bibliotheken", "example": "Ich lese Bücher in der Bibliothek." },
+      "en": { "word": "library", "plural": "libraries", "example": "I read books in the library." },
+      "image_id": "img_city_library"
+    }
+  ]
+}

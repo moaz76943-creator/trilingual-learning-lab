@@ -1365,6 +1365,181 @@
       "ownership": "Project Original",
       "license": "CC0-1.0",
       "size_bytes": 262
+    },
+    "img_city_city": {
+      "asset_path": "content/assets/svg/img_city_city.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 441
+    },
+    "img_city_street": {
+      "asset_path": "content/assets/svg/img_city_street.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 365
+    },
+    "img_city_car": {
+      "asset_path": "content/assets/svg/img_city_car.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 365
+    },
+    "img_city_bus": {
+      "asset_path": "content/assets/svg/img_city_bus.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 435
+    },
+    "img_city_train": {
+      "asset_path": "content/assets/svg/img_city_train.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 373
+    },
+    "img_city_subway": {
+      "asset_path": "content/assets/svg/img_city_subway.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 373
+    },
+    "img_city_bicycle": {
+      "asset_path": "content/assets/svg/img_city_bicycle.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 365
+    },
+    "img_city_airplane": {
+      "asset_path": "content/assets/svg/img_city_airplane.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 291
+    },
+    "img_city_airport": {
+      "asset_path": "content/assets/svg/img_city_airport.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 291
+    },
+    "img_city_station": {
+      "asset_path": "content/assets/svg/img_city_station.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 373
+    },
+    "img_city_ticket": {
+      "asset_path": "content/assets/svg/img_city_ticket.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 325
+    },
+    "img_city_taxi": {
+      "asset_path": "content/assets/svg/img_city_taxi.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 365
+    },
+    "img_city_hotel": {
+      "asset_path": "content/assets/svg/img_city_hotel.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 441
+    },
+    "img_city_bank": {
+      "asset_path": "content/assets/svg/img_city_bank.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 441
+    },
+    "img_city_post_office": {
+      "asset_path": "content/assets/svg/img_city_post_office.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 441
+    },
+    "img_city_market": {
+      "asset_path": "content/assets/svg/img_city_market.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 441
+    },
+    "img_city_supermarket": {
+      "asset_path": "content/assets/svg/img_city_supermarket.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 441
+    },
+    "img_city_park": {
+      "asset_path": "content/assets/svg/img_city_park.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 441
+    },
+    "img_city_bridge": {
+      "asset_path": "content/assets/svg/img_city_bridge.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 365
+    },
+    "img_city_traffic_light": {
+      "asset_path": "content/assets/svg/img_city_traffic_light.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 355
+    },
+    "img_city_crossroad": {
+      "asset_path": "content/assets/svg/img_city_crossroad.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 365
+    },
+    "img_city_parking": {
+      "asset_path": "content/assets/svg/img_city_parking.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 365
+    },
+    "img_city_museum": {
+      "asset_path": "content/assets/svg/img_city_museum.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 441
+    },
+    "img_city_school": {
+      "asset_path": "content/assets/svg/img_city_school.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 441
+    },
+    "img_city_library": {
+      "asset_path": "content/assets/svg/img_city_library.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 441
     }
   }
 }

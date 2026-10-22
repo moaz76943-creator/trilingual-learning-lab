@@ -48,6 +48,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
       ..._repository.getConcepts('colors_numbers'),
       ..._repository.getConcepts('time_calendar'),
       ..._repository.getConcepts('body_health'),
+      ..._repository.getConcepts('city_transport'),
     ];
   }
 
@@ -62,7 +63,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: const [
             Text('Trilingual Lab', style: TextStyle(color: Color(0xFF0F172A), fontSize: 18, fontWeight: FontWeight.bold)),
-            Text('A1 Foundation • 180 مفردة + 15 فعلًا + 20 جملة', style: TextStyle(color: Color(0xFF64748B), fontSize: 11)),
+            Text('A1 Foundation • 205 مفردات + 15 فعلًا + 20 جملة', style: TextStyle(color: Color(0xFF64748B), fontSize: 11)),
           ],
         ),
         actions: [
@@ -176,7 +177,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
                 ),
                 const SizedBox(height: 16),
 
-                // الأقسام السبعة النشطة
+                // الأقسام الثمانية النشطة
                 _buildCategoryCard('العائلة', 'Familie', 'Family', _repository.getConcepts('family'), Icons.people_outline, const Color(0xFF0284C7)),
                 const SizedBox(height: 12),
                 _buildCategoryCard('الطعام والشراب', 'Essen & Trinken', 'Food & Drinks', _repository.getConcepts('food'), Icons.restaurant_outlined, const Color(0xFFEA580C)),
@@ -191,11 +192,13 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
                 const SizedBox(height: 12),
                 _buildCategoryCard('الجسم والصحة', 'Körper & Gesundheit', 'Body & Health', _repository.getConcepts('body_health'), Icons.favorite_border, const Color(0xFF059669)),
                 const SizedBox(height: 12),
+                _buildCategoryCard('المدينة والمواصلات', 'Stadt & Verkehr', 'City & Transport', _repository.getConcepts('city_transport'), Icons.directions_bus_outlined, const Color(0xFF1E3A8A)),
+                const SizedBox(height: 12),
 
                 // أقسام قادمة
-                _buildLockedCard('المدينة والمواصلات', 'Stadt & Verkehr', 'City & Transport', 30),
-                const SizedBox(height: 12),
                 _buildLockedCard('الطبيعة والحيوانات', 'Natur & Tiere', 'Nature & Animals', 30),
+                const SizedBox(height: 12),
+                _buildLockedCard('العمل والمهن', 'Arbeit & Berufe', 'Work & Jobs', 25),
               ],
             ),
     );

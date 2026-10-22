@@ -77,6 +77,13 @@ class ContentRepository {
       titleEn: 'Body & Health',
       jsonPath: 'content/vocabulary/body_health_a1.json',
     ),
+    CategoryInfo(
+      id: 'city_transport',
+      titleAr: 'المدينة والمواصلات',
+      titleDe: 'Stadt & Verkehr',
+      titleEn: 'City & Transport',
+      jsonPath: 'content/vocabulary/city_transport_a1.json',
+    ),
   ];
 
   Future<bool> loadAllActiveCategories() async {
