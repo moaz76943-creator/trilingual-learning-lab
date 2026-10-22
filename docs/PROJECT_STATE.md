@@ -1,12 +1,11 @@
 # حالة المشروع (PROJECT_STATE)
 
-* **Cycle**: 004
-* **Phase**: PHASE 06 — واجهة الأقسام الرأسية وبطاقات المفردات
+* **Cycle**: 005
+* **Phase**: PHASE 09 — حفظ التفضيلات والتقدم (Zero Data Loss Storage)
 * **Status**: Local Verified & Pushed
 * **Active Concepts**: 25 (قسم العائلة A1)
-* **UI Features Implemented**:
-  - `lib/screens/categories_screen.dart`: شاشة الأقسام الرأسية مع مؤشر عدد المفردات وخريطة الأقسام المستقبلية.
-  - `lib/screens/category_detail_screen.dart`: عرض المفردات في بطاقات ناعمة مع تمييز أدوات التعريف الألمانية (der/die/das)، التشكيل العربي الكامل، والأمثلة.
-  - زر تبديل فوري للغة المستهدفة (DE / EN).
-  - ربط مباشر لأيقونات الـ SVG المحلية بدون تحميل شبكي.
-* **Next Step**: CYCLE 005 — بناء نظام التفضيلات وحفظ المفردات محليًا (Local Favorites / Bookmark Storage) مع حماية بيانات المتعلم من الفقدان.
+* **Storage Architecture**:
+  - `lib/repositories/progress_repository.dart`: محرك تخزين محلي يعتمد الكتابة الذرية (Atomic File Replacement) لحماية التقدم من الانهيار عند انقطاع الطاقة.
+  - دعم تمييز المفضلة (Favorites ⭐) والكلمات المتقنة (Learned Words ✓).
+  - اختبار أمان آلي `tests/test_storage_safety.py`.
+* **Next Step**: CYCLE 006 — بناء محرك جلسة التعلم والمراجعة السريعة (Quiz & Flashcard Mode).
