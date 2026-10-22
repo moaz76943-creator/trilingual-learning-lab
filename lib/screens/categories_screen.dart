@@ -1,8 +1,13 @@
+import 'dart:convert';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart' show rootBundle;
 import '../repositories/content_repository.dart';
+import '../models/concept.dart';
+import '../models/verb_model.dart';
 import 'category_detail_screen.dart';
 import 'verbs_screen.dart';
 import 'sentence_builder_screen.dart';
+import 'search_screen.dart';
 
 class CategoriesScreen extends StatefulWidget {
   const CategoriesScreen({super.key});
@@ -13,6 +18,7 @@ class CategoriesScreen extends StatefulWidget {
 
 class _CategoriesScreenState extends State<CategoriesScreen> {
   final ContentRepository _repository = ContentRepository();
+  List<VerbModel> _verbs = [];
   bool _isLoading = true;
   String _targetLang = 'de';
 
@@ -24,7 +30,20 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
 
   Future<void> _loadAll() async {
     await _repository.loadAllActiveCategories();
+    try {
+      final vString = await rootBundle.loadString('content/verbs/verbs_a1.json');
+      final Map<String, dynamic> vData = jsonDecode(vString);
+      final List vList = vData['verbs'] ?? [];
+      _verbs = vList.map((i) => VerbModel.fromJson(i)).toList();
+    } catch (_) {}
     if (mounted) setState(() => _isLoading = false);
+  }
+
+  List<Concept> get _allConcepts {
+    return [
+      ..._repository.getConcepts('family'),
+      ..._repository.getConcepts('food'),
+    ];
   }
 
   @override
@@ -38,12 +57,28 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: const [
             Text('Trilingual Lab', style: TextStyle(color: Color(0xFF0F172A), fontSize: 18, fontWeight: FontWeight.bold)),
-            Text('A1 Foundation • 50 مفردة + 15 فعلًا + 20 جملة', style: TextStyle(color: Color(0xFF64748B), fontSize: 11)),
+            Text('A1 Foundation • 50 مفردة + 15 فعلًا', style: TextStyle(color: Color(0xFF64748B), fontSize: 11)),
           ],
         ),
         actions: [
+          // زر البحث الفوري الجديد
+          IconButton(
+            icon: const Icon(Icons.search, color: Color(0xFF0F172A)),
+            onPressed: () {
+              Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (_) => SearchScreen(
+                    concepts: _allConcepts,
+                    verbs: _verbs,
+                    targetLang: _targetLang,
+                  ),
+                ),
+              );
+            },
+          ),
           Padding(
-            padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+            padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 8),
             child: SegmentedButton<String>(
               segments: const [
                 ButtonSegment(value: 'de', label: Text('DE')),
@@ -61,7 +96,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
           : ListView(
               padding: const EdgeInsets.all(16),
               children: [
-                // 1. بطاقة بناء الجمل الزمردية
+                // 1. بطاقة بناء الجمل
                 InkWell(
                   onTap: () {
                     Navigator.push(context, MaterialPageRoute(builder: (_) => SentenceBuilderScreen(targetLang: _targetLang)));
@@ -99,7 +134,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
                 ),
                 const SizedBox(height: 12),
 
-                // 2. بطاقة الأفعال الزرقاء
+                // 2. بطاقة الأفعال
                 InkWell(
                   onTap: () {
                     Navigator.push(context, MaterialPageRoute(builder: (_) => VerbsScreen(targetLang: _targetLang)));

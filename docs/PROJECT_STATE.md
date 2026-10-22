@@ -1,15 +1,15 @@
 # حالة المشروع (PROJECT_STATE)
 
-* **Cycle**: 009
-* **Phase**: PHASE 11 — محرك تركيب الجمل وترتيب الكلمات (Sentence Builder Engine)
+* **Cycle**: 010
+* **Phase**: PHASE 14 — محرك البحث اللحظي والتطبيع اللغوي (Instant Search Engine)
 * **Status**: Local Verified & Pushed
 * **Content Inventory**:
   - `Vocabulary`: 50 مفهومًا متكاملًا (العائلة 25 + الطعام 25)
-  - `Verbs`: 15 فعلًا أساسيًا مع تصريفات الحاضر باللغات الثلاث
-  - `Sentences`: 20 تمرين تركيب جمل تفاعلي (Word Puzzle / Satzbau)
+  - `Verbs`: 15 فعلًا أساسيًا مع جداول تصريف ثلاثية
+  - `Sentences`: 20 تمرين بناء جمل تفاعلي
   - `Assets`: 65 ملف SVG متجهي أصلي مدمج محليًا
-* **Architecture Additions**:
-  - `lib/models/sentence_model.dart`: نموذج الجمل والتراكيب النحوية.
-  - `lib/screens/sentence_builder_screen.dart`: واجهة تركيب الجمل ببنك كلمات تفاعلي وفحص مباشر لصحة الترتيب.
-  - اختبار آلي `tests/test_sentence_builder.py`.
-* **Next Step**: CYCLE 010 — تفعيل محرك البحث اللحظي الثلاثي (Instant Trilingual Search Engine) للبحث الفوري في الـ 50 مفردة والـ 15 فعلًا مع دعم التشكيل والـ Umlauts.
+* **Search Engine Capabilities**:
+  - `lib/models/search_engine.dart`: محرك بحث لحظي في الذاكرة مع تطبيع فوري لإهمال التشكيل العربي والهمزات ودعم Umlauts الألمانية.
+  - `lib/screens/search_screen.dart`: واجهة بحث تفاعلية مع فلاتر سريعة (الكل / مفردات / أفعال).
+  - زر بحث مباشر في الشريط العلوي للشاشة الرئيسية.
+* **Next Step**: CYCLE 011 — إطلاق القسم الثالث: المنزل والأثاث (Home & Furniture - 25 مفردة + 25 SVG) لرفع الرصيد إلى 75 مفردة.
