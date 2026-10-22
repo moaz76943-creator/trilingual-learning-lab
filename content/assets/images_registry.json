@@ -175,6 +175,181 @@
       "ownership": "Project Original",
       "license": "CC0-1.0",
       "size_bytes": 413
+    },
+    "img_food_water": {
+      "asset_path": "content/assets/svg/img_food_water.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 320
+    },
+    "img_food_bread": {
+      "asset_path": "content/assets/svg/img_food_bread.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 448
+    },
+    "img_food_milk": {
+      "asset_path": "content/assets/svg/img_food_milk.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 320
+    },
+    "img_food_apple": {
+      "asset_path": "content/assets/svg/img_food_apple.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 259
+    },
+    "img_food_tea": {
+      "asset_path": "content/assets/svg/img_food_tea.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 347
+    },
+    "img_food_coffee": {
+      "asset_path": "content/assets/svg/img_food_coffee.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 347
+    },
+    "img_food_egg": {
+      "asset_path": "content/assets/svg/img_food_egg.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 309
+    },
+    "img_food_cheese": {
+      "asset_path": "content/assets/svg/img_food_cheese.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 265
+    },
+    "img_food_meat": {
+      "asset_path": "content/assets/svg/img_food_meat.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 304
+    },
+    "img_food_chicken": {
+      "asset_path": "content/assets/svg/img_food_chicken.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 304
+    },
+    "img_food_fish": {
+      "asset_path": "content/assets/svg/img_food_fish.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 319
+    },
+    "img_food_rice": {
+      "asset_path": "content/assets/svg/img_food_rice.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 265
+    },
+    "img_food_soup": {
+      "asset_path": "content/assets/svg/img_food_soup.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 347
+    },
+    "img_food_salad": {
+      "asset_path": "content/assets/svg/img_food_salad.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 265
+    },
+    "img_food_banana": {
+      "asset_path": "content/assets/svg/img_food_banana.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 259
+    },
+    "img_food_orange": {
+      "asset_path": "content/assets/svg/img_food_orange.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 259
+    },
+    "img_food_vegetables": {
+      "asset_path": "content/assets/svg/img_food_vegetables.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 334
+    },
+    "img_food_sugar": {
+      "asset_path": "content/assets/svg/img_food_sugar.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 265
+    },
+    "img_food_salt": {
+      "asset_path": "content/assets/svg/img_food_salt.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 265
+    },
+    "img_food_butter": {
+      "asset_path": "content/assets/svg/img_food_butter.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 265
+    },
+    "img_food_honey": {
+      "asset_path": "content/assets/svg/img_food_honey.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 347
+    },
+    "img_food_potato": {
+      "asset_path": "content/assets/svg/img_food_potato.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 259
+    },
+    "img_food_tomato": {
+      "asset_path": "content/assets/svg/img_food_tomato.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 259
+    },
+    "img_food_carrot": {
+      "asset_path": "content/assets/svg/img_food_carrot.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 334
+    },
+    "img_food_juice": {
+      "asset_path": "content/assets/svg/img_food_juice.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 320
     }
   }
 }

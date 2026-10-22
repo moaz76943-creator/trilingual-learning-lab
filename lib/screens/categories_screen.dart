@@ -12,19 +12,17 @@ class CategoriesScreen extends StatefulWidget {
 class _CategoriesScreenState extends State<CategoriesScreen> {
   final ContentRepository _repository = ContentRepository();
   bool _isLoading = true;
-  String _targetLang = 'de'; // 'de' = Deutsch, 'en' = English
+  String _targetLang = 'de';
 
   @override
   void initState() {
     super.initState();
-    _loadData();
+    _loadAll();
   }
 
-  Future<void> _loadData() async {
-    await _repository.loadCategory('content/vocabulary/family_a1.json');
-    if (mounted) {
-      setState(() => _isLoading = false);
-    }
+  Future<void> _loadAll() async {
+    await _repository.loadAllActiveCategories();
+    if (mounted) setState(() => _isLoading = false);
   }
 
   @override
@@ -34,22 +32,14 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
       appBar: AppBar(
         backgroundColor: Colors.white,
         elevation: 0,
-        centerTitle: false,
         title: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: const [
-            Text(
-              'Trilingual Lab',
-              style: TextStyle(color: Color(0xFF0F172A), fontSize: 18, fontWeight: FontWeight.bold),
-            ),
-            Text(
-              'A1 Foundation • الأساسيات',
-              style: TextStyle(color: Color(0xFF64748B), fontSize: 12),
-            ),
+            Text('Trilingual Lab', style: TextStyle(color: Color(0xFF0F172A), fontSize: 18, fontWeight: FontWeight.bold)),
+            Text('A1 Foundation • 50 مفردة نشطة', style: TextStyle(color: Color(0xFF64748B), fontSize: 12)),
           ],
         ),
         actions: [
-          // شريط اختيار لغة التعلم المستهدفة
           Padding(
             padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
             child: SegmentedButton<String>(
@@ -69,48 +59,59 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
           : ListView(
               padding: const EdgeInsets.all(16),
               children: [
-                _buildActiveCategoryCard(
+                // 1. قسم العائلة النشط
+                _buildCategoryCard(
                   titleAr: 'العائلة',
                   titleDe: 'Familie',
                   titleEn: 'Family',
-                  conceptCount: _repository.concepts.length,
+                  concepts: _repository.getConcepts('family'),
                   icon: Icons.people_outline,
                   color: const Color(0xFF0284C7),
-                  onTap: () {
-                    Navigator.push(
-                      context,
-                      MaterialPageRoute(
-                        builder: (_) => CategoryDetailScreen(
-                          categoryName: _targetLang == 'de' ? 'Familie' : 'Family',
-                          concepts: _repository.concepts,
-                          targetLang: _targetLang,
-                        ),
-                      ),
-                    );
-                  },
                 ),
                 const SizedBox(height: 12),
-                _buildLockedCategoryCard(titleAr: 'المنزل', titleDe: 'Zuhause', titleEn: 'Home', count: 30),
+                // 2. قسم الطعام والشراب النشط الجديد
+                _buildCategoryCard(
+                  titleAr: 'الطعام والشراب',
+                  titleDe: 'Essen & Trinken',
+                  titleEn: 'Food & Drinks',
+                  concepts: _repository.getConcepts('food'),
+                  icon: Icons.restaurant_outlined,
+                  color: const Color(0xFFEA580C),
+                ),
                 const SizedBox(height: 12),
-                _buildLockedCategoryCard(titleAr: 'الطعام والشراب', titleDe: 'Essen & Trinken', titleEn: 'Food', count: 35),
+                // الأقسام القادمة
+                _buildLockedCard('المنزل', 'Zuhause', 'Home', 30),
                 const SizedBox(height: 12),
-                _buildLockedCategoryCard(titleAr: 'الملابس', titleDe: 'Kleidung', titleEn: 'Clothes', count: 25),
+                _buildLockedCard('الملابس', 'Kleidung', 'Clothes', 25),
+                const SizedBox(height: 12),
+                _buildLockedCard('الألوان والأرقام', 'Farben & Zahlen', 'Colors & Numbers', 30),
               ],
             ),
     );
   }
 
-  Widget _buildActiveCategoryCard({
+  Widget _buildCategoryCard({
     required String titleAr,
     required String titleDe,
     required String titleEn,
-    required int conceptCount,
+    required List concepts,
     required IconData icon,
     required Color color,
-    required VoidCallback onTap,
   }) {
+    final String activeTitle = _targetLang == 'de' ? titleDe : titleEn;
     return InkWell(
-      onTap: onTap,
+      onTap: () {
+        Navigator.push(
+          context,
+          MaterialPageRoute(
+            builder: (_) => CategoryDetailScreen(
+              categoryName: '$titleAr • $activeTitle',
+              concepts: List.from(concepts),
+              targetLang: _targetLang,
+            ),
+          ),
+        );
+      },
       borderRadius: BorderRadius.circular(16),
       child: Container(
         padding: const EdgeInsets.all(16),
@@ -118,9 +119,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
           color: Colors.white,
           borderRadius: BorderRadius.circular(16),
           border: Border.all(color: color.withOpacity(0.3), width: 1.5),
-          boxShadow: [
-            BoxShadow(color: color.withOpacity(0.06), blurRadius: 10, offset: const Offset(0, 4)),
-          ],
+          boxShadow: [BoxShadow(color: color.withOpacity(0.06), blurRadius: 10, offset: const Offset(0, 4))],
         ),
         child: Row(
           children: [
@@ -134,15 +133,9 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  Text(
-                    '$titleAr • ${_targetLang == 'de' ? titleDe : titleEn}',
-                    style: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold, color: Color(0xFF0F172A)),
-                  ),
+                  Text('$titleAr • $activeTitle', style: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold, color: Color(0xFF0F172A))),
                   const SizedBox(height: 4),
-                  Text(
-                    '$conceptCount مفردة جاهزة للتعلم',
-                    style: const TextStyle(fontSize: 13, color: Color(0xFF64748B)),
-                  ),
+                  Text('${concepts.length} مفردة واختبارات جاهزة', style: const TextStyle(fontSize: 13, color: Color(0xFF64748B))),
                 ],
               ),
             ),
@@ -153,19 +146,10 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
     );
   }
 
-  Widget _buildLockedCategoryCard({
-    required String titleAr,
-    required String titleDe,
-    required String titleEn,
-    required int count,
-  }) {
+  Widget _buildLockedCard(String ar, String de, String en, int count) {
     return Container(
       padding: const EdgeInsets.all(16),
-      decoration: BoxDecoration(
-        color: Colors.white.withOpacity(0.6),
-        borderRadius: BorderRadius.circular(16),
-        border: Border.all(color: const Color(0xFFE2E8F0)),
-      ),
+      decoration: BoxDecoration(color: Colors.white.withOpacity(0.6), borderRadius: BorderRadius.circular(16), border: Border.all(color: const Color(0xFFE2E8F0))),
       child: Row(
         children: [
           Container(
@@ -175,20 +159,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
           ),
           const SizedBox(width: 16),
           Expanded(
-            child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                Text(
-                  '$titleAr • ${_targetLang == 'de' ? titleDe : titleEn}',
-                  style: const TextStyle(fontSize: 15, fontWeight: FontWeight.w600, color: Color(0xFF94A3B8)),
-                ),
-                const SizedBox(height: 4),
-                Text(
-                  '$count مفردة (المرحلة القادمة)',
-                  style: const TextStyle(fontSize: 12, color: Color(0xFFCBD5E1)),
-                ),
-              ],
-            ),
+            child: Text('$ar • ${_targetLang == 'de' ? de : en} ($count مفردة)', style: const TextStyle(fontSize: 14, color: Color(0xFF94A3B8), fontWeight: FontWeight.w500)),
           ),
         ],
       ),

@@ -1,0 +1,187 @@
+{
+  "category_id": "food",
+  "category_name": {
+    "ar": "الطعام والشراب",
+    "de": "Essen & Trinken",
+    "en": "Food & Drinks"
+  },
+  "level": "A1",
+  "version": 1,
+  "concepts": [
+    {
+      "concept_id": "food_001_water",
+      "ar": { "word": "ماء", "vocalized": "مَاء", "gender": "m", "plural": "مِيَاه", "example": "أَشْرَبُ المَاءَ يَوْمِيًّا." },
+      "de": { "article": "das", "word": "Wasser", "plural": "Wasser", "example": "Ich trinke jeden Tag Wasser." },
+      "en": { "word": "water", "plural": "waters", "example": "I drink water every day." },
+      "image_id": "img_food_water"
+    },
+    {
+      "concept_id": "food_002_bread",
+      "ar": { "word": "خبز", "vocalized": "خُبْز", "gender": "m", "plural": "أَخْبَاز", "example": "الخُبْزُ طَازَجٌ ولَذِيذٌ." },
+      "de": { "article": "das", "word": "Brot", "plural": "Brote", "example": "Das Brot ist frisch und lecker." },
+      "en": { "word": "bread", "plural": "breads", "example": "The bread is fresh and delicious." },
+      "image_id": "img_food_bread"
+    },
+    {
+      "concept_id": "food_003_milk",
+      "ar": { "word": "حليب", "vocalized": "حَلِيب", "gender": "m", "plural": "أَلْبَان", "example": "الحَلِيبُ مُفِيدٌ لِلصِّحَّةِ." },
+      "de": { "article": "die", "word": "Milch", "plural": "Milch", "example": "Die Milch ist gesund." },
+      "en": { "word": "milk", "plural": "milks", "example": "Milk is healthy." },
+      "image_id": "img_food_milk"
+    },
+    {
+      "concept_id": "food_004_apple",
+      "ar": { "word": "تفاحة", "vocalized": "تُفَّاحَة", "gender": "f", "plural": "تُفَّاحَات", "example": "آكُلُ تُفَّاحَةً حَمْرَاءَ." },
+      "de": { "article": "der", "word": "Apfel", "plural": "Äpfel", "example": "Ich esse einen roten Apfel." },
+      "en": { "word": "apple", "plural": "apples", "example": "I eat a red apple." },
+      "image_id": "img_food_apple"
+    },
+    {
+      "concept_id": "food_005_tea",
+      "ar": { "word": "شاي", "vocalized": "شَاي", "gender": "m", "plural": "أَشْيَاء", "example": "أُفَضِّلُ الشَّايَ السَّاخِنَ." },
+      "de": { "article": "der", "word": "Tee", "plural": "Tees", "example": "Ich bevorzuge heißen Tee." },
+      "en": { "word": "tea", "plural": "teas", "example": "I prefer hot tea." },
+      "image_id": "img_food_tea"
+    },
+    {
+      "concept_id": "food_006_coffee",
+      "ar": { "word": "قهوة", "vocalized": "قَهْوَة", "gender": "f", "plural": "قَهَوَات", "example": "أَشْرَبُ القَهْوَةَ صَبَاحًا." },
+      "de": { "article": "der", "word": "Kaffee", "plural": "Kaffees", "example": "Ich trinke morgens Kaffee." },
+      "en": { "word": "coffee", "plural": "coffees", "example": "I drink coffee in the morning." },
+      "image_id": "img_food_coffee"
+    },
+    {
+      "concept_id": "food_007_egg",
+      "ar": { "word": "بيضة", "vocalized": "بَيْضَة", "gender": "f", "plural": "بَيْضَات", "example": "آكُلُ بَيْضَةً مَسْلُوقَةً." },
+      "de": { "article": "das", "word": "Ei", "plural": "Eier", "example": "Ich esse ein gekochtes Ei." },
+      "en": { "word": "egg", "plural": "eggs", "example": "I eat a boiled egg." },
+      "image_id": "img_food_egg"
+    },
+    {
+      "concept_id": "food_008_cheese",
+      "ar": { "word": "جبن", "vocalized": "جُبْن", "gender": "m", "plural": "أَجْبَان", "example": "الجُبْنُ الأَبْيَضُ طَيِّبٌ." },
+      "de": { "article": "der", "word": "Käse", "plural": "Käse", "example": "Der weiße Käse ist gut." },
+      "en": { "word": "cheese", "plural": "cheeses", "example": "The white cheese is tasty." },
+      "image_id": "img_food_cheese"
+    },
+    {
+      "concept_id": "food_009_meat",
+      "ar": { "word": "لحم", "vocalized": "لَحْم", "gender": "m", "plural": "لُحُوم", "example": "نَطْبُخُ اللَّحْمَ لِلغَدَاءِ." },
+      "de": { "article": "das", "word": "Fleisch", "plural": "Fleisch", "example": "Wir kochen Fleisch zum Mittagessen." },
+      "en": { "word": "meat", "plural": "meats", "example": "We cook meat for lunch." },
+      "image_id": "img_food_meat"
+    },
+    {
+      "concept_id": "food_010_chicken",
+      "ar": { "word": "دجاج", "vocalized": "دَجَاج", "gender": "m", "plural": "دَجَاجَات", "example": "الدَّجَاجُ المَشْوِيُّ لَذِيذٌ." },
+      "de": { "article": "das", "word": "Hähnchen", "plural": "Hähnchen", "example": "Das gegrillte Hähnchen ist köstlich." },
+      "en": { "word": "chicken", "plural": "chickens", "example": "Grilled chicken is delicious." },
+      "image_id": "img_food_chicken"
+    },
+    {
+      "concept_id": "food_011_fish",
+      "ar": { "word": "سمك", "vocalized": "سَمَك", "gender": "m", "plural": "أَسْمَاك", "example": "السَّمَكُ طَازَجٌ مِنَ البَحْرِ." },
+      "de": { "article": "der", "word": "Fisch", "plural": "Fische", "example": "Der Fisch ist frisch aus dem Meer." },
+      "en": { "word": "fish", "plural": "fishes", "example": "The fish is fresh from the sea." },
+      "image_id": "img_food_fish"
+    },
+    {
+      "concept_id": "food_012_rice",
+      "ar": { "word": "أرز", "vocalized": "أُرْز", "gender": "m", "plural": "أَرْزَاز", "example": "آكُلُ الأُرْزَ مَعَ الخُضَارِ." },
+      "de": { "article": "der", "word": "Reis", "plural": "Reis", "example": "Ich esse Reis mit Gemüse." },
+      "en": { "word": "rice", "plural": "rices", "example": "I eat rice with vegetables." },
+      "image_id": "img_food_rice"
+    },
+    {
+      "concept_id": "food_013_soup",
+      "ar": { "word": "حساء", "vocalized": "حَسَاء", "gender": "m", "plural": "أَحْسِيَة", "example": "الحَسَاءُ دَافِئٌ فِي الشِّتَاءِ." },
+      "de": { "article": "die", "word": "Suppe", "plural": "Suppen", "example": "Die Suppe ist warm im Winter." },
+      "en": { "word": "soup", "plural": "soups", "example": "The soup is warm in winter." },
+      "image_id": "img_food_soup"
+    },
+    {
+      "concept_id": "food_014_salad",
+      "ar": { "word": "سلطة", "vocalized": "سَلَطَة", "gender": "f", "plural": "سَلَطَات", "example": "السَّلَطَةُ مَلِيئَةٌ بِالفِيتَامِينَاتِ." },
+      "de": { "article": "der", "word": "Salat", "plural": "Salate", "example": "Der Salat ist reich an Vitaminen." },
+      "en": { "word": "salad", "plural": "salads", "example": "The salad is full of vitamins." },
+      "image_id": "img_food_salad"
+    },
+    {
+      "concept_id": "food_015_banana",
+      "ar": { "word": "موزة", "vocalized": "مَوْزَة", "gender": "f", "plural": "مَوْزَات", "example": "المَوْزُ فَاكِهَةٌ حُلْوَةٌ." },
+      "de": { "article": "die", "word": "Banane", "plural": "Bananen", "example": "Die Banane ist eine süße Frucht." },
+      "en": { "word": "banana", "plural": "bananas", "example": "The banana is a sweet fruit." },
+      "image_id": "img_food_banana"
+    },
+    {
+      "concept_id": "food_016_orange",
+      "ar": { "word": "برتقالة", "vocalized": "بُرْتُقَالَة", "gender": "f", "plural": "بُرْتُقَالَات", "example": "البُرْتُقَالُ غَنِيٌّ بِفِيتَامِينِ ج." },
+      "de": { "article": "die", "word": "Orange", "plural": "Orangen", "example": "Die Orange ist reich an Vitamin C." },
+      "en": { "word": "orange", "plural": "oranges", "example": "The orange is rich in vitamin C." },
+      "image_id": "img_food_orange"
+    },
+    {
+      "concept_id": "food_017_vegetables",
+      "ar": { "word": "خضراوات", "vocalized": "خُضْرَاوَات", "gender": "f", "plural": "خُضْرَاوَات", "example": "نَشْتَرِي الخُضْرَاوَاتِ مِنَ السُّوقِ." },
+      "de": { "article": "das", "word": "Gemüse", "plural": "Gemüse", "example": "Wir kaufen das Gemüse auf dem Markt." },
+      "en": { "word": "vegetables", "plural": "vegetables", "example": "We buy vegetables from the market." },
+      "image_id": "img_food_vegetables"
+    },
+    {
+      "concept_id": "food_018_sugar",
+      "ar": { "word": "سكر", "vocalized": "سُكَّر", "gender": "m", "plural": "سُكَّرَات", "example": "أَضَعُ مِلْعَقَةَ سُكَّرٍ." },
+      "de": { "article": "der", "word": "Zucker", "plural": "Zucker", "example": "Ich nehme einen Löffel Zucker." },
+      "en": { "word": "sugar", "plural": "sugars", "example": "I take a spoon of sugar." },
+      "image_id": "img_food_sugar"
+    },
+    {
+      "concept_id": "food_019_salt",
+      "ar": { "word": "ملح", "vocalized": "مِلْح", "gender": "m", "plural": "أَمْلَاح", "example": "قَلِيلٌ مِنَ المِلْحِ يَكْفِي." },
+      "de": { "article": "das", "word": "Salz", "plural": "Salze", "example": "Wenig Salz reicht aus." },
+      "en": { "word": "salt", "plural": "salts", "example": "A little salt is enough." },
+      "image_id": "img_food_salt"
+    },
+    {
+      "concept_id": "food_020_butter",
+      "ar": { "word": "زبدة", "vocalized": "زُبْدَة", "gender": "f", "plural": "زُبَد", "example": "أَدْهَنُ الزُّبْدَةَ عَلَى الخُبْزِ." },
+      "de": { "article": "die", "word": "Butter", "plural": "Butter", "example": "Ich streiche Butter auf das Brot." },
+      "en": { "word": "butter", "plural": "butters", "example": "I spread butter on the bread." },
+      "image_id": "img_food_butter"
+    },
+    {
+      "concept_id": "food_021_honey",
+      "ar": { "word": "عسل", "vocalized": "عَسَل", "gender": "m", "plural": "أَعْسَال", "example": "العَسَلُ طَبِيعِيٌّ وشَافٍ." },
+      "de": { "article": "der", "word": "Honig", "plural": "Honige", "example": "Der Honig ist natürlich und gesund." },
+      "en": { "word": "honey", "plural": "honeys", "example": "Honey is natural and healthy." },
+      "image_id": "img_food_honey"
+    },
+    {
+      "concept_id": "food_022_potato",
+      "ar": { "word": "بطاطس", "vocalized": "بَطَاطِس", "gender": "f", "plural": "بَطَاطِس", "example": "نُحِبُّ البَطَاطِسَ المَقْلِيَّةَ." },
+      "de": { "article": "die", "word": "Kartoffel", "plural": "Kartoffeln", "example": "Wir mögen gebratene Kartoffeln." },
+      "en": { "word": "potato", "plural": "potatoes", "example": "We love fried potatoes." },
+      "image_id": "img_food_potato"
+    },
+    {
+      "concept_id": "food_023_tomato",
+      "ar": { "word": "طماطم", "vocalized": "طَمَاطِم", "gender": "f", "plural": "طَمَاطِم", "example": "الطَّمَاطِمُ حَمْرَاءُ وطَازَجَةٌ." },
+      "de": { "article": "die", "word": "Tomate", "plural": "Tomaten", "example": "Die Tomate ist rot und frisch." },
+      "en": { "word": "tomato", "plural": "tomatoes", "example": "The tomato is red and fresh." },
+      "image_id": "img_food_tomato"
+    },
+    {
+      "concept_id": "food_024_carrot",
+      "ar": { "word": "جزر", "vocalized": "جَزَر", "gender": "m", "plural": "جَزَرَات", "example": "الجَزَرُ يُقَوِّي النَّظَرَ." },
+      "de": { "article": "die", "word": "Karotte", "plural": "Karotten", "example": "Die Karotte stärkt die Sehkraft." },
+      "en": { "word": "carrot", "plural": "carrots", "example": "Carrots are good for eyesight." },
+      "image_id": "img_food_carrot"
+    },
+    {
+      "concept_id": "food_025_juice",
+      "ar": { "word": "عصير", "vocalized": "عَصِير", "gender": "m", "plural": "عَصَائِر", "example": "أَشْرَبُ عَصِيرَ البُرْتُقَالِ." },
+      "de": { "article": "der", "word": "Saft", "plural": "Säfte", "example": "Ich trinke Orangensaft." },
+      "en": { "word": "juice", "plural": "juices", "example": "I drink orange juice." },
+      "image_id": "img_food_juice"
+    }
+  ]
+}

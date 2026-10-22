@@ -1,7 +1,7 @@
 name: trilingual_learning_lab
 description: "Trilingual vocabulary learning app (Arabic, German, English) - Offline First"
 publish_to: "none"
-version: 0.1.0+1
+version: 0.2.0+2
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
@@ -20,5 +20,6 @@ flutter:
   uses-material-design: true
   assets:
     - content/vocabulary/family_a1.json
+    - content/vocabulary/food_a1.json
     - content/assets/images_registry.json
     - content/assets/svg/
