@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'screens/categories_screen.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
@@ -17,21 +18,11 @@ class TrilingualApp extends StatelessWidget {
         useMaterial3: true,
         colorScheme: ColorScheme.fromSeed(
           seedColor: const Color(0xFF0284C7),
-          background: const Color(0xFFF8FAFC),
+          surface: const Color(0xFFF8FAFC),
         ),
         scaffoldBackgroundColor: const Color(0xFFF8FAFC),
       ),
-      home: const Scaffold(
-        body: SafeArea(
-          child: Center(
-            child: Text(
-              'Trilingual Learning Lab\nالعربية • Deutsch • English',
-              textAlign: TextAlign.center,
-              style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
-            ),
-          ),
-        ),
-      ),
+      home: const CategoriesScreen(),
     );
   }
 }
