@@ -50,6 +50,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
       ..._repository.getConcepts('body_health'),
       ..._repository.getConcepts('city_transport'),
       ..._repository.getConcepts('nature_animals'),
+      ..._repository.getConcepts('work_study'),
     ];
   }
 
@@ -64,7 +65,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: const [
             Text('Trilingual Lab', style: TextStyle(color: Color(0xFF0F172A), fontSize: 18, fontWeight: FontWeight.bold)),
-            Text('A1 Foundation • 230 مفردة + 15 فعلًا + 20 جملة', style: TextStyle(color: Color(0xFF64748B), fontSize: 11)),
+            Text('A1 Foundation • 255 مفردة + 15 فعلًا + 20 جملة', style: TextStyle(color: Color(0xFF64748B), fontSize: 11)),
           ],
         ),
         actions: [
@@ -178,7 +179,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
                 ),
                 const SizedBox(height: 16),
 
-                // الأقسام التسعة النشطة
+                // الأقسام العشرة النشطة
                 _buildCategoryCard('العائلة', 'Familie', 'Family', _repository.getConcepts('family'), Icons.people_outline, const Color(0xFF0284C7)),
                 const SizedBox(height: 12),
                 _buildCategoryCard('الطعام والشراب', 'Essen & Trinken', 'Food & Drinks', _repository.getConcepts('food'), Icons.restaurant_outlined, const Color(0xFFEA580C)),
@@ -197,11 +198,13 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
                 const SizedBox(height: 12),
                 _buildCategoryCard('الطبيعة والحيوانات', 'Natur & Tiere', 'Nature & Animals', _repository.getConcepts('nature_animals'), Icons.eco_outlined, const Color(0xFF15803D)),
                 const SizedBox(height: 12),
+                _buildCategoryCard('العمل والمهن', 'Arbeit & Berufe', 'Work & Jobs', _repository.getConcepts('work_study'), Icons.work_outline, const Color(0xFF6B21A8)),
+                const SizedBox(height: 12),
 
                 // أقسام قادمة
-                _buildLockedCard('العمل والمهن', 'Arbeit & Berufe', 'Work & Jobs', 25),
-                const SizedBox(height: 12),
                 _buildLockedCard('المشاعر والصفات', 'Gefühle & Adjektive', 'Feelings & Adjectives', 30),
+                const SizedBox(height: 12),
+                _buildLockedCard('السفر والفندق', 'Reisen & Urlaub', 'Travel & Vacation', 25),
               ],
             ),
     );

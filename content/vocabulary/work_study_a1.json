@@ -1,0 +1,183 @@
+{
+  "category_id": "work_study",
+  "category_name": { "ar": "العمل والمهن والدراسة", "de": "Arbeit & Berufe", "en": "Work & Jobs" },
+  "level": "A1",
+  "version": 1,
+  "concepts": [
+    {
+      "concept_id": "work_001_work",
+      "ar": { "word": "عمل", "vocalized": "عَمَل", "gender": "m", "plural": "أَعْمَال", "example": "أَذْهَبُ إِلَى العَمَلِ بَاكِرًا." },
+      "de": { "article": "die", "word": "Arbeit", "plural": "Arbeiten", "example": "Ich gehe früh zur Arbeit." },
+      "en": { "word": "work", "plural": "works", "example": "I go to work early." },
+      "image_id": "img_work_briefcase"
+    },
+    {
+      "concept_id": "work_002_profession",
+      "ar": { "word": "مهنة", "vocalized": "مِهْنَة", "gender": "f", "plural": "مِهَن", "example": "مَا هِيَ مِهْنَتُكَ؟" },
+      "de": { "article": "der", "word": "Beruf", "plural": "Berufe", "example": "Was ist dein Beruf?" },
+      "en": { "word": "profession", "plural": "professions", "example": "What is your profession?" },
+      "image_id": "img_work_badge"
+    },
+    {
+      "concept_id": "work_003_office",
+      "ar": { "word": "مكتب", "vocalized": "مَكْتَب", "gender": "m", "plural": "مَكَاتِب", "example": "أَعْمَلُ فِي مَكْتَبٍ هَادِئٍ." },
+      "de": { "article": "das", "word": "Büro", "plural": "Büros", "example": "Ich arbeite in einem ruhigen Büro." },
+      "en": { "word": "office", "plural": "offices", "example": "I work in a quiet office." },
+      "image_id": "img_work_office"
+    },
+    {
+      "concept_id": "work_004_teacher_m",
+      "ar": { "word": "معلم", "vocalized": "مُعَلِّم", "gender": "m", "plural": "مُعَلِّمُون", "example": "المُعَلِّمُ يَشْرَحُ الدَّرْسَ." },
+      "de": { "article": "der", "word": "Lehrer", "plural": "Lehrer", "example": "Der Lehrer erklärt den Unterricht." },
+      "en": { "word": "teacher", "plural": "teachers", "example": "The teacher explains the lesson." },
+      "image_id": "img_work_teacher_m"
+    },
+    {
+      "concept_id": "work_005_teacher_f",
+      "ar": { "word": "معلمة", "vocalized": "مُعَلِّمَة", "gender": "f", "plural": "مُعَلِّمَات", "example": "مُعَلِّمَتِي صَبُورَةٌ ولَطِيفَةٌ." },
+      "de": { "article": "die", "word": "Lehrerin", "plural": "Lehrerinnen", "example": "Meine Lehrerin ist sehr nett." },
+      "en": { "word": "female teacher", "plural": "female teachers", "example": "My teacher is very kind." },
+      "image_id": "img_work_teacher_f"
+    },
+    {
+      "concept_id": "work_006_doctor_m",
+      "ar": { "word": "طبيب", "vocalized": "طَبِيب", "gender": "m", "plural": "أَطِبَّاء", "example": "الطَّبِيبُ يُعَالِجُ المَرْضَى." },
+      "de": { "article": "der", "word": "Arzt", "plural": "Ärzte", "example": "Der Arzt hilft den Kranken." },
+      "en": { "word": "doctor", "plural": "doctors", "example": "The doctor helps the sick." },
+      "image_id": "img_work_doctor_m"
+    },
+    {
+      "concept_id": "work_007_doctor_f",
+      "ar": { "word": "طبيبة", "vocalized": "طَبِيبَة", "gender": "f", "plural": "طَبِيبَات", "example": "أُمِّي طَبِيبَةٌ مَاهِرَةٌ." },
+      "de": { "article": "die", "word": "Ärztin", "plural": "Ärztinnen", "example": "Meine Mutter ist eine gute Ärztin." },
+      "en": { "word": "female doctor", "plural": "female doctors", "example": "My mother is a good doctor." },
+      "image_id": "img_work_doctor_f"
+    },
+    {
+      "concept_id": "work_008_engineer_m",
+      "ar": { "word": "مهندس", "vocalized": "مُهَنْدِس", "gender": "m", "plural": "مُهَنْدِسُون", "example": "المُهَنْدِسُ يُصَمِّمُ المَبْنَى." },
+      "de": { "article": "der", "word": "Ingenieur", "plural": "Ingenieure", "example": "Der Ingenieur plant das Gebäude." },
+      "en": { "word": "engineer", "plural": "engineers", "example": "The engineer plans the building." },
+      "image_id": "img_work_engineer_m"
+    },
+    {
+      "concept_id": "work_009_engineer_f",
+      "ar": { "word": "مهندسة", "vocalized": "مُهَنْدِسَة", "gender": "f", "plural": "مُهَنْدِسَات", "example": "أُخْتِي تَعْمَلُ مُهَنْدِسَةً." },
+      "de": { "article": "die", "word": "Ingenieurin", "plural": "Ingenieurinnen", "example": "Meine Schwester ist Ingenieurin." },
+      "en": { "word": "female engineer", "plural": "female engineers", "example": "My sister is an engineer." },
+      "image_id": "img_work_engineer_f"
+    },
+    {
+      "concept_id": "work_010_student_m",
+      "ar": { "word": "طالب", "vocalized": "طَالِب", "gender": "m", "plural": "طُلَّاب", "example": "أَنَا طَالِبٌ فِي الجَامِعَةِ." },
+      "de": { "article": "der", "word": "Student", "plural": "Studenten", "example": "Ich bin Student an der Uni." },
+      "en": { "word": "student", "plural": "students", "example": "I am a student at the uni." },
+      "image_id": "img_work_student_m"
+    },
+    {
+      "concept_id": "work_011_student_f",
+      "ar": { "word": "طالبة", "vocalized": "طَالِبَة", "gender": "f", "plural": "طَالِبَات", "example": "هِيَ طَالِبَةٌ مُجْتَهِدَةٌ." },
+      "de": { "article": "die", "word": "Studentin", "plural": "Studentinnen", "example": "Sie ist eine fleißige Studentin." },
+      "en": { "word": "female student", "plural": "female students", "example": "She is a diligent student." },
+      "image_id": "img_work_student_f"
+    },
+    {
+      "concept_id": "work_012_university",
+      "ar": { "word": "جامعة", "vocalized": "جَامِعَة", "gender": "f", "plural": "جَامِعَات", "example": "الجَامِعَةُ كَبِيرَةٌ وعَرِيقَةٌ." },
+      "de": { "article": "die", "word": "Universität", "plural": "Universitäten", "example": "Die Universität ist sehr groß." },
+      "en": { "word": "university", "plural": "universities", "example": "The university is very large." },
+      "image_id": "img_work_university"
+    },
+    {
+      "concept_id": "work_013_book",
+      "ar": { "word": "كتاب", "vocalized": "كِتَاب", "gender": "m", "plural": "كُتُب", "example": "أَقْرَأُ كِتَابًا كُلَّ أُسْبُوعٍ." },
+      "de": { "article": "das", "word": "Buch", "plural": "Bücher", "example": "Ich lese jede Woche ein Buch." },
+      "en": { "word": "book", "plural": "books", "example": "I read a book every week." },
+      "image_id": "img_work_book"
+    },
+    {
+      "concept_id": "work_014_pen",
+      "ar": { "word": "قلم", "vocalized": "قَلَم", "gender": "m", "plural": "أَقْلَام", "example": "أَكْتُبُ بِالقَلَمِ الأَزْرَقِ." },
+      "de": { "article": "der", "word": "Stift", "plural": "Stifte", "example": "Ich schreibe mit dem Stift." },
+      "en": { "word": "pen", "plural": "pens", "example": "I write with the pen." },
+      "image_id": "img_work_pen"
+    },
+    {
+      "concept_id": "work_015_notebook",
+      "ar": { "word": "دفتر", "vocalized": "دَفْتَر", "gender": "m", "plural": "دَفَاتِر", "example": "أُسَجِّلُ المُلَاحَظَاتِ فِي الدَّفْتَرِ." },
+      "de": { "article": "das", "word": "Heft", "plural": "Hefte", "example": "Ich schreibe Notizen in das Heft." },
+      "en": { "word": "notebook", "plural": "notebooks", "example": "I write notes in the notebook." },
+      "image_id": "img_work_notebook"
+    },
+    {
+      "concept_id": "work_016_computer",
+      "ar": { "word": "حاسوب", "vocalized": "حَاسُوب", "gender": "m", "plural": "حَوَاسِيب", "example": "أَعْمَلُ عَلَى الحَاسُوبِ يَوْمِيًّا." },
+      "de": { "article": "der", "word": "Computer", "plural": "Computer", "example": "Ich arbeite am Computer." },
+      "en": { "word": "computer", "plural": "computers", "example": "I work on the computer." },
+      "image_id": "img_work_computer"
+    },
+    {
+      "concept_id": "work_017_boss",
+      "ar": { "word": "مدير", "vocalized": "مُدِير", "gender": "m", "plural": "مُدَرَاء", "example": "المُدِيرُ فِي اجْتِمَاعٍ مُهِمٍّ." },
+      "de": { "article": "der", "word": "Chef", "plural": "Chefs", "example": "Der Chef ist in einer Besprechung." },
+      "en": { "word": "boss", "plural": "bosses", "example": "The boss is in a meeting." },
+      "image_id": "img_work_boss"
+    },
+    {
+      "concept_id": "work_018_colleague",
+      "ar": { "word": "زميل", "vocalized": "زَمِيل", "gender": "m", "plural": "زُمَلَاء", "example": "زَمِيلِي فِي العَمَلِ مُتَعَاوِنٌ." },
+      "de": { "article": "der", "word": "Kollege", "plural": "Kollegen", "example": "Mein Kollege ist hilfsbereit." },
+      "en": { "word": "colleague", "plural": "colleagues", "example": "My colleague is helpful." },
+      "image_id": "img_work_colleague"
+    },
+    {
+      "concept_id": "work_019_meeting",
+      "ar": { "word": "اجتماع", "vocalized": "اِجْتِمَاع", "gender": "m", "plural": "اِجْتِمَاعَات", "example": "لَدَيْنَا اجْتِمَاعٌ فِي الصَّبَاحِ." },
+      "de": { "article": "die", "word": "Besprechung", "plural": "Besprechungen", "example": "Wir haben eine Besprechung am Morgen." },
+      "en": { "word": "meeting", "plural": "meetings", "example": "We have a meeting in the morning." },
+      "image_id": "img_work_meeting"
+    },
+    {
+      "concept_id": "work_020_salary",
+      "ar": { "word": "راتب", "vocalized": "رَاتِب", "gender": "m", "plural": "رَوَاتِب", "example": "يَصِلُ الرَّاتِبُ آخِرَ الشَّهْرِ." },
+      "de": { "article": "das", "word": "Gehalt", "plural": "Gehälter", "example": "Das Gehalt kommt am Monatsende." },
+      "en": { "word": "salary", "plural": "salaries", "example": "The salary comes at the end of the month." },
+      "image_id": "img_work_salary"
+    },
+    {
+      "concept_id": "work_021_break",
+      "ar": { "word": "استراحة", "vocalized": "اِسْتِرَاحَة", "gender": "f", "plural": "اِسْتِرَاحَات", "example": "نَأْخُذُ اسْتِرَاحَةً لِشُرْبِ الشَّايِ." },
+      "de": { "article": "die", "word": "Pause", "plural": "Pausen", "example": "Wir machen eine Pause für Tee." },
+      "en": { "word": "break", "plural": "breaks", "example": "We take a break for tea." },
+      "image_id": "img_work_break"
+    },
+    {
+      "concept_id": "work_022_question",
+      "ar": { "word": "سؤال", "vocalized": "سُؤَال", "gender": "m", "plural": "أَسْئِلَة", "example": "عِنْدِي سُؤَالٌ بَسِيطٌ." },
+      "de": { "article": "die", "word": "Frage", "plural": "Fragen", "example": "Ich habe eine einfache Frage." },
+      "en": { "word": "question", "plural": "questions", "example": "I have a simple question." },
+      "image_id": "img_work_question"
+    },
+    {
+      "concept_id": "work_023_answer",
+      "ar": { "word": "جواب", "vocalized": "جَوَاب", "gender": "m", "plural": "أَجْوِبَة", "example": "هَذَا هُوَ الجَوَابُ الصَّحِيحُ." },
+      "de": { "article": "die", "word": "Antwort", "plural": "Antworten", "example": "Das ist die richtige Antwort." },
+      "en": { "word": "answer", "plural": "answers", "example": "That is the correct answer." },
+      "image_id": "img_work_answer"
+    },
+    {
+      "concept_id": "work_024_language",
+      "ar": { "word": "لغة", "vocalized": "لُغَة", "gender": "f", "plural": "لُغَات", "example": "اللُّغَةُ جِسْرٌ بَيْنَ النَّاسِ." },
+      "de": { "article": "die", "word": "Sprache", "plural": "Sprachen", "example": "Die Sprache verbindet Menschen." },
+      "en": { "word": "language", "plural": "languages", "example": "Language connects people." },
+      "image_id": "img_work_language"
+    },
+    {
+      "concept_id": "work_025_lesson",
+      "ar": { "word": "درس", "vocalized": "دَرْس", "gender": "m", "plural": "دُرُوس", "example": "دَرْسُ اليَوْمِ مُمْتِعٌ وسَهْلٌ." },
+      "de": { "article": "die", "word": "Lektion", "plural": "Lektionen", "example": "Die heutige Lektion ist einfach." },
+      "en": { "word": "lesson", "plural": "lessons", "example": "Today's lesson is easy." },
+      "image_id": "img_work_lesson"
+    }
+  ]
+}

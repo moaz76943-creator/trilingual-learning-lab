@@ -1715,6 +1715,181 @@
       "ownership": "Project Original",
       "license": "CC0-1.0",
       "size_bytes": 382
+    },
+    "img_work_briefcase": {
+      "asset_path": "content/assets/svg/img_work_briefcase.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 421
+    },
+    "img_work_badge": {
+      "asset_path": "content/assets/svg/img_work_badge.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 306
+    },
+    "img_work_office": {
+      "asset_path": "content/assets/svg/img_work_office.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 396
+    },
+    "img_work_teacher_m": {
+      "asset_path": "content/assets/svg/img_work_teacher_m.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 320
+    },
+    "img_work_teacher_f": {
+      "asset_path": "content/assets/svg/img_work_teacher_f.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 345
+    },
+    "img_work_doctor_m": {
+      "asset_path": "content/assets/svg/img_work_doctor_m.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 320
+    },
+    "img_work_doctor_f": {
+      "asset_path": "content/assets/svg/img_work_doctor_f.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 345
+    },
+    "img_work_engineer_m": {
+      "asset_path": "content/assets/svg/img_work_engineer_m.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 320
+    },
+    "img_work_engineer_f": {
+      "asset_path": "content/assets/svg/img_work_engineer_f.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 345
+    },
+    "img_work_student_m": {
+      "asset_path": "content/assets/svg/img_work_student_m.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 320
+    },
+    "img_work_student_f": {
+      "asset_path": "content/assets/svg/img_work_student_f.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 345
+    },
+    "img_work_university": {
+      "asset_path": "content/assets/svg/img_work_university.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 421
+    },
+    "img_work_book": {
+      "asset_path": "content/assets/svg/img_work_book.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 332
+    },
+    "img_work_pen": {
+      "asset_path": "content/assets/svg/img_work_pen.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 287
+    },
+    "img_work_notebook": {
+      "asset_path": "content/assets/svg/img_work_notebook.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 332
+    },
+    "img_work_computer": {
+      "asset_path": "content/assets/svg/img_work_computer.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 396
+    },
+    "img_work_boss": {
+      "asset_path": "content/assets/svg/img_work_boss.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 320
+    },
+    "img_work_colleague": {
+      "asset_path": "content/assets/svg/img_work_colleague.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 320
+    },
+    "img_work_meeting": {
+      "asset_path": "content/assets/svg/img_work_meeting.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 421
+    },
+    "img_work_salary": {
+      "asset_path": "content/assets/svg/img_work_salary.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 306
+    },
+    "img_work_break": {
+      "asset_path": "content/assets/svg/img_work_break.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 306
+    },
+    "img_work_question": {
+      "asset_path": "content/assets/svg/img_work_question.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 389
+    },
+    "img_work_answer": {
+      "asset_path": "content/assets/svg/img_work_answer.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 389
+    },
+    "img_work_language": {
+      "asset_path": "content/assets/svg/img_work_language.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 332
+    },
+    "img_work_lesson": {
+      "asset_path": "content/assets/svg/img_work_lesson.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 332
     }
   }
 }

@@ -91,6 +91,13 @@ class ContentRepository {
       titleEn: 'Nature & Animals',
       jsonPath: 'content/vocabulary/nature_animals_a1.json',
     ),
+    CategoryInfo(
+      id: 'work_study',
+      titleAr: 'العمل والمهن',
+      titleDe: 'Arbeit & Berufe',
+      titleEn: 'Work & Jobs',
+      jsonPath: 'content/vocabulary/work_study_a1.json',
+    ),
   ];
 
   Future<bool> loadAllActiveCategories() async {
