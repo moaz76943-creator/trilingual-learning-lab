@@ -1,0 +1,183 @@
+{
+  "category_id": "time_calendar",
+  "category_name": { "ar": "الوقت والتقويم", "de": "Zeit & Kalender", "en": "Time & Calendar" },
+  "level": "A1",
+  "version": 1,
+  "concepts": [
+    {
+      "concept_id": "time_001_monday",
+      "ar": { "word": "الإثنين", "vocalized": "الإِثْنَيْن", "gender": "m", "plural": "أَيَّامُ الإِثْنَيْن", "example": "يَوْمُ الإِثْنَيْنِ بِدَايَةُ الأُسْبُوعِ." },
+      "de": { "article": "der", "word": "Montag", "plural": "Montage", "example": "Montag ist der Anfang der Woche." },
+      "en": { "word": "Monday", "plural": "Mondays", "example": "Monday is the start of the week." },
+      "image_id": "img_time_monday"
+    },
+    {
+      "concept_id": "time_002_tuesday",
+      "ar": { "word": "الثلاثاء", "vocalized": "الثُّلَاثَاء", "gender": "m", "plural": "أَيَّامُ الثُّلَاثَاء", "example": "عِنْدِي دَرْسٌ يَوْمَ الثُّلَاثَاءِ." },
+      "de": { "article": "der", "word": "Dienstag", "plural": "Dienstage", "example": "Ich habe am Dienstag Unterricht." },
+      "en": { "word": "Tuesday", "plural": "Tuesdays", "example": "I have a class on Tuesday." },
+      "image_id": "img_time_tuesday"
+    },
+    {
+      "concept_id": "time_003_wednesday",
+      "ar": { "word": "الأربعاء", "vocalized": "الأَرْبِعَاء", "gender": "m", "plural": "أَيَّامُ الأَرْبِعَاء", "example": "نَلْتَقِي يَوْمَ الأَرْبِعَاءِ." },
+      "de": { "article": "der", "word": "Mittwoch", "plural": "Mittwoche", "example": "Wir treffen uns am Mittwoch." },
+      "en": { "word": "Wednesday", "plural": "Wednesdays", "example": "We meet on Wednesday." },
+      "image_id": "img_time_wednesday"
+    },
+    {
+      "concept_id": "time_004_thursday",
+      "ar": { "word": "الخميس", "vocalized": "الخَمِيس", "gender": "m", "plural": "أَيَّامُ الخَمِيس", "example": "يَوْمُ الخَمِيسِ يَوْمٌ مَلِيءٌ بِالعَمَلِ." },
+      "de": { "article": "der", "word": "Donnerstag", "plural": "Donnerstage", "example": "Der Donnerstag ist arbeitsreich." },
+      "en": { "word": "Thursday", "plural": "Thursdays", "example": "Thursday is a busy day." },
+      "image_id": "img_time_thursday"
+    },
+    {
+      "concept_id": "time_005_friday",
+      "ar": { "word": "الجمعة", "vocalized": "الجُمُعَة", "gender": "m", "plural": "أَيَّامُ الجُمُعَة", "example": "يَوْمُ الجُمُعَةِ يَوْمُ عُطْلَةٍ." },
+      "de": { "article": "der", "word": "Freitag", "plural": "Freitage", "example": "Der Freitag ist ein Feiertag." },
+      "en": { "word": "Friday", "plural": "Fridays", "example": "Friday is a day off." },
+      "image_id": "img_time_friday"
+    },
+    {
+      "concept_id": "time_006_saturday",
+      "ar": { "word": "السبت", "vocalized": "السَّبْت", "gender": "m", "plural": "أَيَّامُ السَّبْت", "example": "أَسْتَرِيحُ يَوْمَ السَّبْتِ." },
+      "de": { "article": "der", "word": "Samstag", "plural": "Samstage", "example": "Ich ruhe mich am Samstag aus." },
+      "en": { "word": "Saturday", "plural": "Saturdays", "example": "I rest on Saturday." },
+      "image_id": "img_time_saturday"
+    },
+    {
+      "concept_id": "time_007_sunday",
+      "ar": { "word": "الأحد", "vocalized": "الأَحَد", "gender": "m", "plural": "أَيَّامُ الأَحَد", "example": "الأَحَدُ يَوْمٌ عَائِلِيٌّ هَادِئٌ." },
+      "de": { "article": "der", "word": "Sonntag", "plural": "Sonntage", "example": "Der Sonntag ist ein Familientag." },
+      "en": { "word": "Sunday", "plural": "Sundays", "example": "Sunday is a quiet family day." },
+      "image_id": "img_time_sunday"
+    },
+    {
+      "concept_id": "time_008_day",
+      "ar": { "word": "يوم", "vocalized": "يَوْم", "gender": "m", "plural": "أَيَّام", "example": "اليَوْمُ يَوْمٌ جَمِيلٌ." },
+      "de": { "article": "der", "word": "Tag", "plural": "Tage", "example": "Heute ist ein schöner Tag." },
+      "en": { "word": "day", "plural": "days", "example": "Today is a beautiful day." },
+      "image_id": "img_time_day"
+    },
+    {
+      "concept_id": "time_009_week",
+      "ar": { "word": "أسبوع", "vocalized": "أُسْبُوع", "gender": "m", "plural": "أَسَابِيع", "example": "فِي الأُسْبُوعِ سَبْعَةُ أَيَّامٍ." },
+      "de": { "article": "die", "word": "Woche", "plural": "Wochen", "example": "Die Woche hat sieben Tage." },
+      "en": { "word": "week", "plural": "weeks", "example": "The week has seven days." },
+      "image_id": "img_time_week"
+    },
+    {
+      "concept_id": "time_010_month",
+      "ar": { "word": "شهر", "vocalized": "شَهْر", "gender": "m", "plural": "أَشْهُر", "example": "الشَّهْرُ يَمُرُّ سَرِيعًا." },
+      "de": { "article": "der", "word": "Monat", "plural": "Monate", "example": "Der Monat vergeht schnell." },
+      "en": { "word": "month", "plural": "months", "example": "The month passes quickly." },
+      "image_id": "img_time_month"
+    },
+    {
+      "concept_id": "time_011_year",
+      "ar": { "word": "سنة", "vocalized": "سَنَة", "gender": "f", "plural": "سَنَوَات", "example": "سَنَةٌ جَدِيدَةٌ وسَعِيدَةٌ." },
+      "de": { "article": "das", "word": "Jahr", "plural": "Jahre", "example": "Ein frohes neues Jahr." },
+      "en": { "word": "year", "plural": "years", "example": "A happy new year." },
+      "image_id": "img_time_year"
+    },
+    {
+      "concept_id": "time_012_today",
+      "ar": { "word": "اليوم", "vocalized": "اليَوْم", "gender": "m", "plural": "أَيَّام", "example": "مَاذَا تَفْعَلُ اليَوْمَ؟" },
+      "de": { "article": "das", "word": "Heute", "plural": "Heute", "example": "Was machst du heute?" },
+      "en": { "word": "today", "plural": "todays", "example": "What are you doing today?" },
+      "image_id": "img_time_today"
+    },
+    {
+      "concept_id": "time_013_tomorrow",
+      "ar": { "word": "غدا", "vocalized": "غَدًا", "gender": "m", "plural": "غَد", "example": "أَرَاكَ غَدًا فِي الصَّبَاحِ." },
+      "de": { "article": "das", "word": "Morgen", "plural": "Morgen", "example": "Bis morgen früh." },
+      "en": { "word": "tomorrow", "plural": "tomorrows", "example": "See you tomorrow morning." },
+      "image_id": "img_time_tomorrow"
+    },
+    {
+      "concept_id": "time_014_yesterday",
+      "ar": { "word": "أمس", "vocalized": "أَمْسِ", "gender": "m", "plural": "أَمْس", "example": "وَصَلْتُ أَمْسِ مَسَاءً." },
+      "de": { "article": "das", "word": "Gestern", "plural": "Gestern", "example": "Ich bin gestern angekommen." },
+      "en": { "word": "yesterday", "plural": "yesterdays", "example": "I arrived yesterday." },
+      "image_id": "img_time_yesterday"
+    },
+    {
+      "concept_id": "time_015_morning",
+      "ar": { "word": "صباح", "vocalized": "صَبَاح", "gender": "m", "plural": "صَبَاحَات", "example": "صَبَاحُ الخَيْرِ يَا صَدِيقِي." },
+      "de": { "article": "der", "word": "Morgen", "plural": "Morgen", "example": "Guten Morgen, mein Freund." },
+      "en": { "word": "morning", "plural": "mornings", "example": "Good morning, my friend." },
+      "image_id": "img_time_morning"
+    },
+    {
+      "concept_id": "time_016_noon",
+      "ar": { "word": "ظهر", "vocalized": "ظُهْر", "gender": "m", "plural": "أَظْهَار", "example": "نَأْكُلُ الغَدَاءَ فِي الظُّهْرِ." },
+      "de": { "article": "der", "word": "Mittag", "plural": "Mittage", "example": "Wir essen zu Mittag." },
+      "en": { "word": "noon", "plural": "noons", "example": "We eat at noon." },
+      "image_id": "img_time_noon"
+    },
+    {
+      "concept_id": "time_017_afternoon",
+      "ar": { "word": "بعد الظهر", "vocalized": "بَعْدَ الظُّهْرِ", "gender": "m", "plural": "بَعْدَ الظُّهْرِ", "example": "أَقْرَأُ كِتَابًا بَعْدَ الظُّهْرِ." },
+      "de": { "article": "der", "word": "Nachmittag", "plural": "Nachmittage", "example": "Ich lese am Nachmittag." },
+      "en": { "word": "afternoon", "plural": "afternoons", "example": "I read in the afternoon." },
+      "image_id": "img_time_afternoon"
+    },
+    {
+      "concept_id": "time_018_evening",
+      "ar": { "word": "مساء", "vocalized": "مَسَاء", "gender": "m", "plural": "أَمْسِيَات", "example": "مَسَاءُ الخَيْرِ والجَمَالِ." },
+      "de": { "article": "der", "word": "Abend", "plural": "Abende", "example": "Guten Abend." },
+      "en": { "word": "evening", "plural": "evenings", "example": "Good evening." },
+      "image_id": "img_time_evening"
+    },
+    {
+      "concept_id": "time_019_night",
+      "ar": { "word": "ليل", "vocalized": "لَيْل", "gender": "m", "plural": "لَيَالٍ", "example": "تُصْبِحُ عَلَى خَيْرٍ ولَيْلَةٌ سَعِيدَةٌ." },
+      "de": { "article": "die", "word": "Nacht", "plural": "Nächte", "example": "Gute Nacht und schlaf gut." },
+      "en": { "word": "night", "plural": "nights", "example": "Good night and sleep well." },
+      "image_id": "img_time_night"
+    },
+    {
+      "concept_id": "time_020_hour",
+      "ar": { "word": "ساعة", "vocalized": "سَاعَة", "gender": "f", "plural": "سَاعَات", "example": "دَرْسُ اللُّغَةِ مُدَّتُهُ سَاعَةٌ." },
+      "de": { "article": "die", "word": "Stunde", "plural": "Stunden", "example": "Der Unterricht dauert eine Stunde." },
+      "en": { "word": "hour", "plural": "hours", "example": "The lesson lasts one hour." },
+      "image_id": "img_time_hour"
+    },
+    {
+      "concept_id": "time_021_minute",
+      "ar": { "word": "دقيقة", "vocalized": "دَقِيقَة", "gender": "f", "plural": "دَقَائِق", "example": "انْتَظِرْنِي دَقِيقَةً وَاحِدَةً." },
+      "de": { "article": "die", "word": "Minute", "plural": "Minuten", "example": "Warte eine Minute auf mich." },
+      "en": { "word": "minute", "plural": "minutes", "example": "Wait for me for one minute." },
+      "image_id": "img_time_minute"
+    },
+    {
+      "concept_id": "time_022_second",
+      "ar": { "word": "ثانية", "vocalized": "ثَانِيَة", "gender": "f", "plural": "ثَوَانٍ", "example": "كُلُّ ثَانِيَةٍ لَهَا قِيمَةٌ." },
+      "de": { "article": "die", "word": "Sekunde", "plural": "Sekunden", "example": "Jede Sekunde zählt." },
+      "en": { "word": "second", "plural": "seconds", "example": "Every second counts." },
+      "image_id": "img_time_second"
+    },
+    {
+      "concept_id": "time_023_clock_time",
+      "ar": { "word": "ساعة الوقت", "vocalized": "سَاعَةُ الوَقْتِ", "gender": "f", "plural": "سَاعَات", "example": "كَمِ السَّاعَةُ الآنَ؟" },
+      "de": { "article": "die", "word": "Uhr", "plural": "Uhren", "example": "Wie viel Uhr ist es?" },
+      "en": { "word": "o'clock", "plural": "clocks", "example": "What time is it?" },
+      "image_id": "img_time_clock"
+    },
+    {
+      "concept_id": "time_024_weekend",
+      "ar": { "word": "عطلة نهاية الأسبوع", "vocalized": "عُطْلَةُ نِهَايَةِ الأُسْبُوعِ", "gender": "f", "plural": "عُطَل", "example": "عُطْلَةُ أُسْبُوعٍ سَعِيدَةٌ." },
+      "de": { "article": "das", "word": "Wochenende", "plural": "Wochenenden", "example": "Schönes Wochenende." },
+      "en": { "word": "weekend", "plural": "weekends", "example": "Have a nice weekend." },
+      "image_id": "img_time_weekend"
+    },
+    {
+      "concept_id": "time_025_calendar",
+      "ar": { "word": "تقويم", "vocalized": "تَقْوِيم", "gender": "m", "plural": "تَقَاوِيم", "example": "سَجَّلْتُ المَوْعِدَ فِي التَّقْوِيمِ." },
+      "de": { "article": "der", "word": "Kalender", "plural": "Kalender", "example": "Ich habe den Termin im Kalender eingetragen." },
+      "en": { "word": "calendar", "plural": "calendars", "example": "I wrote the date in the calendar." },
+      "image_id": "img_time_calendar"
+    }
+  ]
+}

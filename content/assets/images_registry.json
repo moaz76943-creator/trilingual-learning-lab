@@ -1015,6 +1015,181 @@
       "ownership": "Project Original",
       "license": "CC0-1.0",
       "size_bytes": 314
+    },
+    "img_time_monday": {
+      "asset_path": "content/assets/svg/img_time_monday.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 484
+    },
+    "img_time_tuesday": {
+      "asset_path": "content/assets/svg/img_time_tuesday.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 484
+    },
+    "img_time_wednesday": {
+      "asset_path": "content/assets/svg/img_time_wednesday.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 484
+    },
+    "img_time_thursday": {
+      "asset_path": "content/assets/svg/img_time_thursday.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 484
+    },
+    "img_time_friday": {
+      "asset_path": "content/assets/svg/img_time_friday.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 484
+    },
+    "img_time_saturday": {
+      "asset_path": "content/assets/svg/img_time_saturday.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 484
+    },
+    "img_time_sunday": {
+      "asset_path": "content/assets/svg/img_time_sunday.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 484
+    },
+    "img_time_day": {
+      "asset_path": "content/assets/svg/img_time_day.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 366
+    },
+    "img_time_week": {
+      "asset_path": "content/assets/svg/img_time_week.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 484
+    },
+    "img_time_month": {
+      "asset_path": "content/assets/svg/img_time_month.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 485
+    },
+    "img_time_year": {
+      "asset_path": "content/assets/svg/img_time_year.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 485
+    },
+    "img_time_today": {
+      "asset_path": "content/assets/svg/img_time_today.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 467
+    },
+    "img_time_tomorrow": {
+      "asset_path": "content/assets/svg/img_time_tomorrow.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 467
+    },
+    "img_time_yesterday": {
+      "asset_path": "content/assets/svg/img_time_yesterday.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 273
+    },
+    "img_time_morning": {
+      "asset_path": "content/assets/svg/img_time_morning.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 366
+    },
+    "img_time_noon": {
+      "asset_path": "content/assets/svg/img_time_noon.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 366
+    },
+    "img_time_afternoon": {
+      "asset_path": "content/assets/svg/img_time_afternoon.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 366
+    },
+    "img_time_evening": {
+      "asset_path": "content/assets/svg/img_time_evening.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 348
+    },
+    "img_time_night": {
+      "asset_path": "content/assets/svg/img_time_night.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 348
+    },
+    "img_time_hour": {
+      "asset_path": "content/assets/svg/img_time_hour.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 467
+    },
+    "img_time_minute": {
+      "asset_path": "content/assets/svg/img_time_minute.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 467
+    },
+    "img_time_second": {
+      "asset_path": "content/assets/svg/img_time_second.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 467
+    },
+    "img_time_clock": {
+      "asset_path": "content/assets/svg/img_time_clock.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 467
+    },
+    "img_time_weekend": {
+      "asset_path": "content/assets/svg/img_time_weekend.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 485
+    },
+    "img_time_calendar": {
+      "asset_path": "content/assets/svg/img_time_calendar.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 485
     }
   }
 }

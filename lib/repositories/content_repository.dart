@@ -63,6 +63,13 @@ class ContentRepository {
       titleEn: 'Colors & Numbers',
       jsonPath: 'content/vocabulary/colors_numbers_a1.json',
     ),
+    CategoryInfo(
+      id: 'time_calendar',
+      titleAr: 'الوقت والتقويم',
+      titleDe: 'Zeit & Kalender',
+      titleEn: 'Time & Calendar',
+      jsonPath: 'content/vocabulary/time_calendar_a1.json',
+    ),
   ];
 
   Future<bool> loadAllActiveCategories() async {
