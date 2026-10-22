@@ -49,6 +49,13 @@ class ContentRepository {
       titleEn: 'Home & Furniture',
       jsonPath: 'content/vocabulary/home_a1.json',
     ),
+    CategoryInfo(
+      id: 'clothes',
+      titleAr: 'الملابس والمظهر',
+      titleDe: 'Kleidung & Aussehen',
+      titleEn: 'Clothes & Appearance',
+      jsonPath: 'content/vocabulary/clothes_a1.json',
+    ),
   ];
 
   Future<bool> loadAllActiveCategories() async {

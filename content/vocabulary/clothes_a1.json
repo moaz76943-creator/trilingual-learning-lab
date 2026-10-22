@@ -1,0 +1,183 @@
+{
+  "category_id": "clothes",
+  "category_name": { "ar": "الملابس والمظهر", "de": "Kleidung & Aussehen", "en": "Clothes & Appearance" },
+  "level": "A1",
+  "version": 1,
+  "concepts": [
+    {
+      "concept_id": "cloth_001_shirt",
+      "ar": { "word": "قميص", "vocalized": "قَمِيص", "gender": "m", "plural": "قُمْصَان", "example": "أَرْتَدِي قَمِيصًا أَبْيَضَ." },
+      "de": { "article": "das", "word": "Hemd", "plural": "Hemden", "example": "Ich trage ein weißes Hemd." },
+      "en": { "word": "shirt", "plural": "shirts", "example": "I wear a white shirt." },
+      "image_id": "img_cloth_shirt"
+    },
+    {
+      "concept_id": "cloth_002_tshirt",
+      "ar": { "word": "تيشيرت", "vocalized": "تِيشِيرْت", "gender": "m", "plural": "تِيشِيرْتَات", "example": "التِّيشِيرْتُ مُرِيحٌ فِي الصَّيْفِ." },
+      "de": { "article": "das", "word": "T-Shirt", "plural": "T-Shirts", "example": "Das T-Shirt ist bequem im Sommer." },
+      "en": { "word": "T-shirt", "plural": "T-shirts", "example": "The T-shirt is comfortable in summer." },
+      "image_id": "img_cloth_tshirt"
+    },
+    {
+      "concept_id": "cloth_003_trousers",
+      "ar": { "word": "بنطال", "vocalized": "بِنْطَال", "gender": "m", "plural": "بَنَاطِيل", "example": "هَذَا البِنْطَالُ طَوِيلٌ وأَزْرَقُ." },
+      "de": { "article": "die", "word": "Hose", "plural": "Hosen", "example": "Diese Hose ist lang und blau." },
+      "en": { "word": "trousers", "plural": "trousers", "example": "These trousers are long and blue." },
+      "image_id": "img_cloth_trousers"
+    },
+    {
+      "concept_id": "cloth_004_jacket",
+      "ar": { "word": "سترة", "vocalized": "سُتْرَة", "gender": "f", "plural": "سُتَرَات", "example": "أَحْتَاجُ سُتْرَةً فِي الخَرِيفِ." },
+      "de": { "article": "die", "word": "Jacke", "plural": "Jacken", "example": "Ich brauche eine Jacke im Herbst." },
+      "en": { "word": "jacket", "plural": "jackets", "example": "I need a jacket in autumn." },
+      "image_id": "img_cloth_jacket"
+    },
+    {
+      "concept_id": "cloth_005_coat",
+      "ar": { "word": "معطف", "vocalized": "مِعْطَف", "gender": "m", "plural": "مَعَاطِف", "example": "المِعْطَفُ ثَقِيلٌ ودَافِئٌ." },
+      "de": { "article": "der", "word": "Mantel", "plural": "Mäntel", "example": "Der Mantel ist schwer und warm." },
+      "en": { "word": "coat", "plural": "coats", "example": "The coat is heavy and warm." },
+      "image_id": "img_cloth_coat"
+    },
+    {
+      "concept_id": "cloth_006_dress",
+      "ar": { "word": "فستان", "vocalized": "فُسْتَان", "gender": "m", "plural": "فَسَاتِين", "example": "الفُسْتَانُ أَنِيقٌ ومُنَاسِبٌ." },
+      "de": { "article": "das", "word": "Kleid", "plural": "Kleider", "example": "Das Kleid ist elegant und passend." },
+      "en": { "word": "dress", "plural": "dresses", "example": "The dress is elegant and fitting." },
+      "image_id": "img_cloth_dress"
+    },
+    {
+      "concept_id": "cloth_007_skirt",
+      "ar": { "word": "تنورة", "vocalized": "تَنُّورَة", "gender": "f", "plural": "تَنَانِير", "example": "تَلْبَسُ أُخْتِي تَنُّورَةً طَوِيلَةً." },
+      "de": { "article": "der", "word": "Rock", "plural": "Röcke", "example": "Meine Schwester trägt einen langen Rock." },
+      "en": { "word": "skirt", "plural": "skirts", "example": "My sister wears a long skirt." },
+      "image_id": "img_cloth_skirt"
+    },
+    {
+      "concept_id": "cloth_008_shoes",
+      "ar": { "word": "حذاء", "vocalized": "حِذَاء", "gender": "m", "plural": "أَحْذِيَة", "example": "الحِذَاءُ الجَدِيدُ مَقَاسُهُ مُمْتَازٌ." },
+      "de": { "article": "der", "word": "Schuh", "plural": "Schuhe", "example": "Die neuen Schuhe passen perfekt." },
+      "en": { "word": "shoe", "plural": "shoes", "example": "The new shoes fit perfectly." },
+      "image_id": "img_cloth_shoes"
+    },
+    {
+      "concept_id": "cloth_009_boots",
+      "ar": { "word": "حذاء طويل", "vocalized": "حِذَاءٌ طَوِيلٌ", "gender": "m", "plural": "أَحْذِيَةٌ طَوِيلَةٌ", "example": "أَنْتَعِلُ البُوتَ فِي المَطَرِ." },
+      "de": { "article": "der", "word": "Stiefel", "plural": "Stiefel", "example": "Ich trage Stiefel im Regen." },
+      "en": { "word": "boot", "plural": "boots", "example": "I wear boots in the rain." },
+      "image_id": "img_cloth_boots"
+    },
+    {
+      "concept_id": "cloth_010_socks",
+      "ar": { "word": "جورب", "vocalized": "جَوْرَب", "gender": "m", "plural": "جَوَارِب", "example": "الجَوَارِبُ قُطْنِيَّةٌ نَاعِمَةٌ." },
+      "de": { "article": "die", "word": "Socke", "plural": "Socken", "example": "Die Socken sind aus weicher Baumwolle." },
+      "en": { "word": "sock", "plural": "socks", "example": "The socks are soft cotton." },
+      "image_id": "img_cloth_socks"
+    },
+    {
+      "concept_id": "cloth_011_hat",
+      "ar": { "word": "قبعة", "vocalized": "قُبَّعَة", "gender": "f", "plural": "قُبَّعَات", "example": "القُبَّعَةُ تَحْمِي مِنَ الشَّمْسِ." },
+      "de": { "article": "der", "word": "Hut", "plural": "Hüte", "example": "Der Hut schützt vor der Sonne." },
+      "en": { "word": "hat", "plural": "hats", "example": "The hat protects from the sun." },
+      "image_id": "img_cloth_hat"
+    },
+    {
+      "concept_id": "cloth_012_cap",
+      "ar": { "word": "قبعة صوفية", "vocalized": "قُبَّعَةٌ صُوفِيَّةٌ", "gender": "f", "plural": "قُبَّعَاتٌ صُوفِيَّةٌ", "example": "أَرْتَدِي قُبَّعَةً فِي الشِّتَاءِ." },
+      "de": { "article": "die", "word": "Mütze", "plural": "Mützen", "example": "Ich trage eine Mütze im Winter." },
+      "en": { "word": "cap", "plural": "caps", "example": "I wear a cap in winter." },
+      "image_id": "img_cloth_cap"
+    },
+    {
+      "concept_id": "cloth_013_scarf",
+      "ar": { "word": "وشاح", "vocalized": "وِشَاح", "gender": "m", "plural": "أَوْشِحَة", "example": "الوِشَاحُ يَلُفُّ الرَّقَبَةَ." },
+      "de": { "article": "der", "word": "Schal", "plural": "Schals", "example": "Der Schal wärmt den Hals." },
+      "en": { "word": "scarf", "plural": "scarves", "example": "The scarf warms the neck." },
+      "image_id": "img_cloth_scarf"
+    },
+    {
+      "concept_id": "cloth_014_gloves",
+      "ar": { "word": "قفازات", "vocalized": "قُفَّازَات", "gender": "f", "plural": "قُفَّازَات", "example": "أَلْبَسُ القُفَّازَاتِ فِي الثَّلْجِ." },
+      "de": { "article": "die", "word": "Handschuhe", "plural": "Handschuhe", "example": "Ich trage Handschuhe im Schnee." },
+      "en": { "word": "gloves", "plural": "gloves", "example": "I wear gloves in the snow." },
+      "image_id": "img_cloth_gloves"
+    },
+    {
+      "concept_id": "cloth_015_belt",
+      "ar": { "word": "حزام", "vocalized": "حِزَام", "gender": "m", "plural": "أَحْزِمَة", "example": "الحِزَامُ جِلْدِيٌّ أَسْوَدُ." },
+      "de": { "article": "der", "word": "Gürtel", "plural": "Gürtel", "example": "Der Gürtel ist aus schwarzem Leder." },
+      "en": { "word": "belt", "plural": "belts", "example": "The belt is black leather." },
+      "image_id": "img_cloth_belt"
+    },
+    {
+      "concept_id": "cloth_016_tie",
+      "ar": { "word": "ربطة عنق", "vocalized": "رَبْطَةُ عُنُقٍ", "gender": "f", "plural": "رَبَطَاتُ عُنُقٍ", "example": "يَلْبَسُ رَبْطَةَ عُنُقٍ حَمْرَاءَ." },
+      "de": { "article": "die", "word": "Krawatte", "plural": "Krawatten", "example": "Er trägt eine rote Krawatte." },
+      "en": { "word": "tie", "plural": "ties", "example": "He wears a red tie." },
+      "image_id": "img_cloth_tie"
+    },
+    {
+      "concept_id": "cloth_017_suit",
+      "ar": { "word": "بدلة", "vocalized": "بَدْلَة", "gender": "f", "plural": "بِدَل", "example": "البَدْلَةُ الرَّسْمِيَّةُ أَنِيقَةٌ." },
+      "de": { "article": "der", "word": "Anzug", "plural": "Anzüge", "example": "Der Anzug ist sehr elegant." },
+      "en": { "word": "suit", "plural": "suits", "example": "The suit is very elegant." },
+      "image_id": "img_cloth_suit"
+    },
+    {
+      "concept_id": "cloth_018_pullover",
+      "ar": { "word": "كنزة", "vocalized": "كَنْزَة", "gender": "f", "plural": "كَنَزَات", "example": "الكَنْزَةُ الصُّوفِيَّةُ دَافِئَةٌ." },
+      "de": { "article": "der", "word": "Pullover", "plural": "Pullover", "example": "Der Pullover ist warm und bequem." },
+      "en": { "word": "sweater", "plural": "sweaters", "example": "The sweater is warm and comfortable." },
+      "image_id": "img_cloth_pullover"
+    },
+    {
+      "concept_id": "cloth_019_glasses",
+      "ar": { "word": "نظارة", "vocalized": "نَظَّارَة", "gender": "f", "plural": "نَظَّارَات", "example": "أَحْتَاجُ النَّظَّارَةَ لِلْقِرَاءَةِ." },
+      "de": { "article": "die", "word": "Brille", "plural": "Brillen", "example": "Ich brauche die Brille zum Lesen." },
+      "en": { "word": "glasses", "plural": "glasses", "example": "I need glasses for reading." },
+      "image_id": "img_cloth_glasses"
+    },
+    {
+      "concept_id": "cloth_020_watch",
+      "ar": { "word": "ساعة يد", "vocalized": "سَاعَةُ يَدٍ", "gender": "f", "plural": "سَاعَاتُ يَدٍ", "example": "سَاعَتِي دَقِيقَةٌ وفِضِّيَّةٌ." },
+      "de": { "article": "die", "word": "Armbanduhr", "plural": "Armbanduhren", "example": "Meine Armbanduhr ist präzise." },
+      "en": { "word": "wristwatch", "plural": "wristwatches", "example": "My wristwatch is precise." },
+      "image_id": "img_cloth_watch"
+    },
+    {
+      "concept_id": "cloth_021_ring",
+      "ar": { "word": "خاتم", "vocalized": "خَاتَم", "gender": "m", "plural": "خَوَاتِم", "example": "هَذَا خَاتَمٌ فِضِّيٌّ لَامِعٌ." },
+      "de": { "article": "der", "word": "Ring", "plural": "Ringe", "example": "Das ist ein glänzender Silberring." },
+      "en": { "word": "ring", "plural": "rings", "example": "This is a shiny silver ring." },
+      "image_id": "img_cloth_ring"
+    },
+    {
+      "concept_id": "cloth_022_umbrella",
+      "ar": { "word": "مظلة", "vocalized": "مِظَلَّة", "gender": "f", "plural": "مِظَلَّات", "example": "أَحْمِلُ المِظَلَّةَ عِنْدَ المَطَرِ." },
+      "de": { "article": "der", "word": "Regenschirm", "plural": "Regenschirme", "example": "Ich nehme den Regenschirm bei Regen." },
+      "en": { "word": "umbrella", "plural": "umbrellas", "example": "I take the umbrella when it rains." },
+      "image_id": "img_cloth_umbrella"
+    },
+    {
+      "concept_id": "cloth_023_wallet",
+      "ar": { "word": "محفظة", "vocalized": "مَحْفَظَة", "gender": "f", "plural": "مَحَافِظ", "example": "المَحْفَظَةُ فِيهَا النُّقُودُ." },
+      "de": { "article": "die", "word": "Brieftasche", "plural": "Brieftaschen", "example": "In der Brieftasche ist Geld." },
+      "en": { "word": "wallet", "plural": "wallets", "example": "The wallet has money." },
+      "image_id": "img_cloth_wallet"
+    },
+    {
+      "concept_id": "cloth_024_bag",
+      "ar": { "word": "حقيبة", "vocalized": "حَقِيبَة", "gender": "f", "plural": "حَقَائِب", "example": "أَحْمِلُ الحَقِيبَةَ إِلَى العَمَلِ." },
+      "de": { "article": "die", "word": "Tasche", "plural": "Taschen", "example": "Ich trage die Tasche zur Arbeit." },
+      "en": { "word": "bag", "plural": "bags", "example": "I carry the bag to work." },
+      "image_id": "img_cloth_bag"
+    },
+    {
+      "concept_id": "cloth_025_pajamas",
+      "ar": { "word": "ملابس نوم", "vocalized": "مَلَابِسُ نَوْمٍ", "gender": "f", "plural": "مَلَابِسُ نَوْمٍ", "example": "أَلْبَسُ مَلَابِسَ النَّوْمِ لَيْلًا." },
+      "de": { "article": "der", "word": "Schlafanzug", "plural": "Schlafanzüge", "example": "Ich ziehe den Schlafanzug an." },
+      "en": { "word": "pajamas", "plural": "pajamas", "example": "I put on the pajamas." },
+      "image_id": "img_cloth_pajamas"
+    }
+  ]
+}

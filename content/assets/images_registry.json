@@ -630,6 +630,181 @@
       "ownership": "Project Original",
       "license": "CC0-1.0",
       "size_bytes": 333
+    },
+    "img_cloth_shirt": {
+      "asset_path": "content/assets/svg/img_cloth_shirt.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 305
+    },
+    "img_cloth_tshirt": {
+      "asset_path": "content/assets/svg/img_cloth_tshirt.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 305
+    },
+    "img_cloth_trousers": {
+      "asset_path": "content/assets/svg/img_cloth_trousers.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 301
+    },
+    "img_cloth_jacket": {
+      "asset_path": "content/assets/svg/img_cloth_jacket.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 305
+    },
+    "img_cloth_coat": {
+      "asset_path": "content/assets/svg/img_cloth_coat.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 305
+    },
+    "img_cloth_dress": {
+      "asset_path": "content/assets/svg/img_cloth_dress.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 267
+    },
+    "img_cloth_skirt": {
+      "asset_path": "content/assets/svg/img_cloth_skirt.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 267
+    },
+    "img_cloth_shoes": {
+      "asset_path": "content/assets/svg/img_cloth_shoes.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 280
+    },
+    "img_cloth_boots": {
+      "asset_path": "content/assets/svg/img_cloth_boots.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 280
+    },
+    "img_cloth_socks": {
+      "asset_path": "content/assets/svg/img_cloth_socks.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 280
+    },
+    "img_cloth_hat": {
+      "asset_path": "content/assets/svg/img_cloth_hat.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 289
+    },
+    "img_cloth_cap": {
+      "asset_path": "content/assets/svg/img_cloth_cap.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 289
+    },
+    "img_cloth_scarf": {
+      "asset_path": "content/assets/svg/img_cloth_scarf.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 289
+    },
+    "img_cloth_gloves": {
+      "asset_path": "content/assets/svg/img_cloth_gloves.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 289
+    },
+    "img_cloth_belt": {
+      "asset_path": "content/assets/svg/img_cloth_belt.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 301
+    },
+    "img_cloth_tie": {
+      "asset_path": "content/assets/svg/img_cloth_tie.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 305
+    },
+    "img_cloth_suit": {
+      "asset_path": "content/assets/svg/img_cloth_suit.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 305
+    },
+    "img_cloth_pullover": {
+      "asset_path": "content/assets/svg/img_cloth_pullover.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 305
+    },
+    "img_cloth_glasses": {
+      "asset_path": "content/assets/svg/img_cloth_glasses.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 380
+    },
+    "img_cloth_watch": {
+      "asset_path": "content/assets/svg/img_cloth_watch.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 500
+    },
+    "img_cloth_ring": {
+      "asset_path": "content/assets/svg/img_cloth_ring.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 275
+    },
+    "img_cloth_umbrella": {
+      "asset_path": "content/assets/svg/img_cloth_umbrella.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 361
+    },
+    "img_cloth_wallet": {
+      "asset_path": "content/assets/svg/img_cloth_wallet.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 308
+    },
+    "img_cloth_bag": {
+      "asset_path": "content/assets/svg/img_cloth_bag.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 308
+    },
+    "img_cloth_pajamas": {
+      "asset_path": "content/assets/svg/img_cloth_pajamas.svg",
+      "format": "svg",
+      "ownership": "Project Original",
+      "license": "CC0-1.0",
+      "size_bytes": 305
     }
   }
 }

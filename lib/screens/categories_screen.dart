@@ -44,6 +44,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
       ..._repository.getConcepts('family'),
       ..._repository.getConcepts('food'),
       ..._repository.getConcepts('home'),
+      ..._repository.getConcepts('clothes'),
     ];
   }
 
@@ -58,7 +59,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: const [
             Text('Trilingual Lab', style: TextStyle(color: Color(0xFF0F172A), fontSize: 18, fontWeight: FontWeight.bold)),
-            Text('A1 Foundation • 75 مفردة + 15 فعلًا + 20 جملة', style: TextStyle(color: Color(0xFF64748B), fontSize: 11)),
+            Text('A1 Foundation • 100 مفردة + 15 فعلًا + 20 جملة', style: TextStyle(color: Color(0xFF64748B), fontSize: 11)),
           ],
         ),
         actions: [
@@ -172,18 +173,20 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
                 ),
                 const SizedBox(height: 16),
 
-                // أقسام المفردات الثلاثة النشطة
+                // الأقسام الأربعة النشطة
                 _buildCategoryCard('العائلة', 'Familie', 'Family', _repository.getConcepts('family'), Icons.people_outline, const Color(0xFF0284C7)),
                 const SizedBox(height: 12),
                 _buildCategoryCard('الطعام والشراب', 'Essen & Trinken', 'Food & Drinks', _repository.getConcepts('food'), Icons.restaurant_outlined, const Color(0xFFEA580C)),
                 const SizedBox(height: 12),
                 _buildCategoryCard('المنزل والأثاث', 'Zuhause & Möbel', 'Home & Furniture', _repository.getConcepts('home'), Icons.home_outlined, const Color(0xFF7C3AED)),
                 const SizedBox(height: 12),
+                _buildCategoryCard('الملابس والمظهر', 'Kleidung & Aussehen', 'Clothes & Appearance', _repository.getConcepts('clothes'), Icons.checkroom_outlined, const Color(0xFFE11D48)),
+                const SizedBox(height: 12),
 
                 // أقسام قادمة
-                _buildLockedCard('الملابس', 'Kleidung', 'Clothes', 25),
-                const SizedBox(height: 12),
                 _buildLockedCard('الألوان والأرقام', 'Farben & Zahlen', 'Colors & Numbers', 30),
+                const SizedBox(height: 12),
+                _buildLockedCard('الوقت والتقويم', 'Zeit & Kalender', 'Time & Calendar', 25),
               ],
             ),
     );
