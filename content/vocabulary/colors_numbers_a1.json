@@ -1,0 +1,218 @@
+{
+  "category_id": "colors_numbers",
+  "category_name": { "ar": "الألوان والأرقام", "de": "Farben & Zahlen", "en": "Colors & Numbers" },
+  "level": "A1",
+  "version": 1,
+  "concepts": [
+    {
+      "concept_id": "col_001_red",
+      "ar": { "word": "أحمر", "vocalized": "أَحْمَر", "gender": "m", "plural": "حُمْر", "example": "التُّفَّاحَةُ لَوْنُهَا أَحْمَرُ." },
+      "de": { "article": "das", "word": "Rot", "plural": "Rottöne", "example": "Der Apfel ist rot." },
+      "en": { "word": "red", "plural": "reds", "example": "The apple is red." },
+      "image_id": "img_col_red"
+    },
+    {
+      "concept_id": "col_002_blue",
+      "ar": { "word": "أزرق", "vocalized": "أَزْرَق", "gender": "m", "plural": "زُرْق", "example": "السَّمَاءُ زَرْقَاءُ صَافِيَةٌ." },
+      "de": { "article": "das", "word": "Blau", "plural": "Blautöne", "example": "Der Himmel ist blau." },
+      "en": { "word": "blue", "plural": "blues", "example": "The sky is blue." },
+      "image_id": "img_col_blue"
+    },
+    {
+      "concept_id": "col_003_green",
+      "ar": { "word": "أخضر", "vocalized": "أَخْضَر", "gender": "m", "plural": "خُضْر", "example": "العُشْبُ أَخْضَرُ جَمِيلٌ." },
+      "de": { "article": "das", "word": "Grün", "plural": "Grüntöne", "example": "Das Gras ist grün." },
+      "en": { "word": "green", "plural": "greens", "example": "The grass is green." },
+      "image_id": "img_col_green"
+    },
+    {
+      "concept_id": "col_004_yellow",
+      "ar": { "word": "أصفر", "vocalized": "أَصْفَر", "gender": "m", "plural": "صُفْر", "example": "الشَّمْسُ صَفْرَاءُ دَافِئَةٌ." },
+      "de": { "article": "das", "word": "Gelb", "plural": "Gelbtöne", "example": "Die Sonne ist gelb." },
+      "en": { "word": "yellow", "plural": "yellows", "example": "The sun is yellow." },
+      "image_id": "img_col_yellow"
+    },
+    {
+      "concept_id": "col_005_black",
+      "ar": { "word": "أسود", "vocalized": "أَسْوَد", "gender": "m", "plural": "سُود", "example": "اللَّيْلُ أَسْوَدُ وهَادِئٌ." },
+      "de": { "article": "das", "word": "Schwarz", "plural": "Schwarztöne", "example": "Die Nacht ist schwarz." },
+      "en": { "word": "black", "plural": "blacks", "example": "The night is black." },
+      "image_id": "img_col_black"
+    },
+    {
+      "concept_id": "col_006_white",
+      "ar": { "word": "أبيض", "vocalized": "أَبْيَض", "gender": "m", "plural": "بِيض", "example": "الثَّلْجُ أَبْيَضُ نَاصِعٌ." },
+      "de": { "article": "das", "word": "Weiß", "plural": "Weißtöne", "example": "Der Schnee ist weiß." },
+      "en": { "word": "white", "plural": "whites", "example": "The snow is white." },
+      "image_id": "img_col_white"
+    },
+    {
+      "concept_id": "col_007_orange",
+      "ar": { "word": "برتقالي", "vocalized": "بُرْتُقَالِيّ", "gender": "m", "plural": "بُرْتُقَالِيُّون", "example": "البُرْتُقَالُ لَوْنُهُ بُرْتُقَالِيٌّ." },
+      "de": { "article": "das", "word": "Orange", "plural": "Orangetöne", "example": "Die Orange ist orange." },
+      "en": { "word": "orange", "plural": "oranges", "example": "The orange is orange." },
+      "image_id": "img_col_orange"
+    },
+    {
+      "concept_id": "col_008_brown",
+      "ar": { "word": "بني", "vocalized": "بُنِّيّ", "gender": "m", "plural": "بُنِّيُّون", "example": "القَهْوَةُ لَوْنُهَا بُنِّيٌّ." },
+      "de": { "article": "das", "word": "Braun", "plural": "Brauntöne", "example": "Der Kaffee ist braun." },
+      "en": { "word": "brown", "plural": "browns", "example": "The coffee is brown." },
+      "image_id": "img_col_brown"
+    },
+    {
+      "concept_id": "col_009_grey",
+      "ar": { "word": "رمادي", "vocalized": "رَمَادِيّ", "gender": "m", "plural": "رَمَادِيُّون", "example": "السَّحَابُ رَمَادِيٌّ مُمْطِرٌ." },
+      "de": { "article": "das", "word": "Grau", "plural": "Grautöne", "example": "Die Wolke ist grau." },
+      "en": { "word": "grey", "plural": "greys", "example": "The cloud is grey." },
+      "image_id": "img_col_grey"
+    },
+    {
+      "concept_id": "col_010_purple",
+      "ar": { "word": "بنفسجي", "vocalized": "بَنَفْسَجِيّ", "gender": "m", "plural": "بَنَفْسَجِيُّون", "example": "الزَّهْرَةُ بَنَفْسَجِيَّةٌ جَمِيلَةٌ." },
+      "de": { "article": "das", "word": "Lila", "plural": "Lilatöne", "example": "Die Blume ist lila." },
+      "en": { "word": "purple", "plural": "purples", "example": "The flower is purple." },
+      "image_id": "img_col_purple"
+    },
+    {
+      "concept_id": "col_011_pink",
+      "ar": { "word": "وردي", "vocalized": "وَرْدِيّ", "gender": "m", "plural": "وَرْدِيُّون", "example": "الفُسْتَانُ وَرْدِيٌّ لَطِيفٌ." },
+      "de": { "article": "das", "word": "Rosa", "plural": "Rosatöne", "example": "Das Kleid ist rosa." },
+      "en": { "word": "pink", "plural": "pinks", "example": "The dress is pink." },
+      "image_id": "img_col_pink"
+    },
+    {
+      "concept_id": "col_012_color",
+      "ar": { "word": "لون", "vocalized": "لَوْن", "gender": "m", "plural": "أَلْوَان", "example": "مَا لَوْنُكَ المُفَضَّلُ؟" },
+      "de": { "article": "die", "word": "Farbe", "plural": "Farben", "example": "Was ist deine Lieblingsfarbe?" },
+      "en": { "word": "color", "plural": "colors", "example": "What is your favorite color?" },
+      "image_id": "img_col_palette"
+    },
+    {
+      "concept_id": "num_013_zero",
+      "ar": { "word": "صفر", "vocalized": "صِفْر", "gender": "m", "plural": "أَصْفَار", "example": "دَرَجَةُ الحَرَارَةِ صِفْرٌ." },
+      "de": { "article": "die", "word": "Null", "plural": "Nullen", "example": "Die Temperatur ist null Grad." },
+      "en": { "word": "zero", "plural": "zeros", "example": "The temperature is zero degrees." },
+      "image_id": "img_num_0"
+    },
+    {
+      "concept_id": "num_014_one",
+      "ar": { "word": "واحد", "vocalized": "وَاحِد", "gender": "m", "plural": "آحَاد", "example": "عِنْدِي ابْنٌ وَاحِدٌ." },
+      "de": { "article": "die", "word": "Eins", "plural": "Einsen", "example": "Ich habe einen Sohn." },
+      "en": { "word": "one", "plural": "ones", "example": "I have one son." },
+      "image_id": "img_num_1"
+    },
+    {
+      "concept_id": "num_015_two",
+      "ar": { "word": "اثنان", "vocalized": "اِثْنَان", "gender": "m", "plural": "اِثْنَان", "example": "لَدَيَّ أُخْتَانِ اثْنَتَانِ." },
+      "de": { "article": "die", "word": "Zwei", "plural": "Zweien", "example": "Ich habe zwei Schwestern." },
+      "en": { "word": "two", "plural": "twos", "example": "I have two sisters." },
+      "image_id": "img_num_2"
+    },
+    {
+      "concept_id": "num_016_three",
+      "ar": { "word": "ثلاثة", "vocalized": "ثَلَاثَة", "gender": "f", "plural": "ثَلَاثَات", "example": "نَحْنُ ثَلَاثَةُ إِخْوَةٍ." },
+      "de": { "article": "die", "word": "Drei", "plural": "Dreien", "example": "Wir sind drei Brüder." },
+      "en": { "word": "three", "plural": "threes", "example": "We are three brothers." },
+      "image_id": "img_num_3"
+    },
+    {
+      "concept_id": "num_017_four",
+      "ar": { "word": "أربعة", "vocalized": "أَرْبَعَة", "gender": "f", "plural": "أَرْبَعَات", "example": "لِلطَّاوِلَةِ أَرْبَعُ أَرْجُلٍ." },
+      "de": { "article": "die", "word": "Vier", "plural": "Vieren", "example": "Der Tisch hat vier Beine." },
+      "en": { "word": "four", "plural": "fours", "example": "The table has four legs." },
+      "image_id": "img_num_4"
+    },
+    {
+      "concept_id": "num_018_five",
+      "ar": { "word": "خمسة", "vocalized": "خَمْسَة", "gender": "f", "plural": "خَمْسَات", "example": "فِي اليَدِ خَمْسُ أَصَابِعَ." },
+      "de": { "article": "die", "word": "Fünf", "plural": "Fünfen", "example": "Die Hand hat fünf Finger." },
+      "en": { "word": "five", "plural": "fives", "example": "The hand has five fingers." },
+      "image_id": "img_num_5"
+    },
+    {
+      "concept_id": "num_019_six",
+      "ar": { "word": "ستة", "vocalized": "سِتَّة", "gender": "f", "plural": "سِتَّات", "example": "السَّاعَةُ الآنَ السَّادِسَةُ." },
+      "de": { "article": "die", "word": "Sechs", "plural": "Sechsen", "example": "Es ist sechs Uhr." },
+      "en": { "word": "six", "plural": "sixes", "example": "It is six o'clock." },
+      "image_id": "img_num_6"
+    },
+    {
+      "concept_id": "num_020_seven",
+      "ar": { "word": "سبعة", "vocalized": "سَبْعَة", "gender": "f", "plural": "سَبْعَات", "example": "أَيَّامُ الأُسْبُوعِ سَبْعَةٌ." },
+      "de": { "article": "die", "word": "Sieben", "plural": "Siebenen", "example": "Die Woche hat sieben Tage." },
+      "en": { "word": "seven", "plural": "sevens", "example": "The week has seven days." },
+      "image_id": "img_num_7"
+    },
+    {
+      "concept_id": "num_021_eight",
+      "ar": { "word": "ثمانية", "vocalized": "ثَمَانِيَة", "gender": "f", "plural": "ثَمَانِيَات", "example": "أَنَامُ ثَمَانِيَ سَاعَاتٍ." },
+      "de": { "article": "die", "word": "Acht", "plural": "Achten", "example": "Ich schlafe acht Stunden." },
+      "en": { "word": "eight", "plural": "eights", "example": "I sleep eight hours." },
+      "image_id": "img_num_8"
+    },
+    {
+      "concept_id": "num_022_nine",
+      "ar": { "word": "تسعة", "vocalized": "تِسْعَة", "gender": "f", "plural": "تِسْعَات", "example": "عُمْرُ ابْنَتِي تِسْعُ سَنَوَاتٍ." },
+      "de": { "article": "die", "word": "Neun", "plural": "Neunen", "example": "Meine Tochter ist neun Jahre alt." },
+      "en": { "word": "nine", "plural": "nines", "example": "My daughter is nine years old." },
+      "image_id": "img_num_9"
+    },
+    {
+      "concept_id": "num_023_ten",
+      "ar": { "word": "عشرة", "vocalized": "عَشَرَة", "gender": "f", "plural": "عَشَرَات", "example": "لَدَيَّ عَشَرَةُ كُتُبٍ." },
+      "de": { "article": "die", "word": "Zehn", "plural": "Zehnen", "example": "Ich habe zehn Bücher." },
+      "en": { "word": "ten", "plural": "tens", "example": "I have ten books." },
+      "image_id": "img_num_10"
+    },
+    {
+      "concept_id": "num_024_eleven",
+      "ar": { "word": "أحد عشر", "vocalized": "أَحَدَ عَشَرَ", "gender": "m", "plural": "أَحَدَ عَشَرَ", "example": "الغُرْفَةُ رَقْمُ أَحَدَ عَشَرَ." },
+      "de": { "article": "die", "word": "Elf", "plural": "Elfen", "example": "Das Zimmer Nummer elf." },
+      "en": { "word": "eleven", "plural": "elevens", "example": "Room number eleven." },
+      "image_id": "img_num_11"
+    },
+    {
+      "concept_id": "num_025_twelve",
+      "ar": { "word": "اثنا عشر", "vocalized": "اِثْنَا عَشَرَ", "gender": "m", "plural": "اِثْنَا عَشَرَ", "example": "فِي السَّنَةِ اثْنَا عَشَرَ شَهْرًا." },
+      "de": { "article": "die", "word": "Zwölf", "plural": "Zwölfen", "example": "Das Jahr hat zwölf Monate." },
+      "en": { "word": "twelve", "plural": "twelves", "example": "The year has twelve months." },
+      "image_id": "img_num_12"
+    },
+    {
+      "concept_id": "num_026_twenty",
+      "ar": { "word": "عشرون", "vocalized": "عِشْرُونَ", "gender": "m", "plural": "عِشْرُونَ", "example": "عُمْرِي عِشْرُونَ عَامًا." },
+      "de": { "article": "die", "word": "Zwanzig", "plural": "Zwanziger", "example": "Ich bin zwanzig Jahre alt." },
+      "en": { "word": "twenty", "plural": "twenties", "example": "I am twenty years old." },
+      "image_id": "img_num_20"
+    },
+    {
+      "concept_id": "num_027_thirty",
+      "ar": { "word": "ثلاثون", "vocalized": "ثَلَاثُونَ", "gender": "m", "plural": "ثَلَاثُونَ", "example": "الشَّهْرُ ثَلَاثُونَ يَوْمًا." },
+      "de": { "article": "die", "word": "Dreißig", "plural": "Dreißiger", "example": "Der Monat hat dreißig Tage." },
+      "en": { "word": "thirty", "plural": "thirties", "example": "The month has thirty days." },
+      "image_id": "img_num_30"
+    },
+    {
+      "concept_id": "num_028_fifty",
+      "ar": { "word": "خمسون", "vocalized": "خَمْسُونَ", "gender": "m", "plural": "خَمْسُونَ", "example": "المَسَافَةُ خَمْسُونَ كِيلُومِتْرًا." },
+      "de": { "article": "die", "word": "Fünfzig", "plural": "Fünfziger", "example": "Die Entfernung ist fünfzig Kilometer." },
+      "en": { "word": "fifty", "plural": "fifties", "example": "The distance is fifty kilometers." },
+      "image_id": "img_num_50"
+    },
+    {
+      "concept_id": "num_029_hundred",
+      "ar": { "word": "مئة", "vocalized": "مِئَة", "gender": "f", "plural": "مِئَات", "example": "قَرَأْتُ مِئَةَ صَفْحَةٍ." },
+      "de": { "article": "das", "word": "Hundert", "plural": "Hunderte", "example": "Ich habe hundert Seiten gelesen." },
+      "en": { "word": "hundred", "plural": "hundreds", "example": "I read a hundred pages." },
+      "image_id": "img_num_100"
+    },
+    {
+      "concept_id": "num_030_number",
+      "ar": { "word": "رقم", "vocalized": "رَقْم", "gender": "m", "plural": "أَرْقَام", "example": "مَا هُوَ رَقْمُ هَاتِفِكَ؟" },
+      "de": { "article": "die", "word": "Zahl", "plural": "Zahlen", "example": "Wie ist deine Telefonnummer?" },
+      "en": { "word": "number", "plural": "numbers", "example": "What is your phone number?" },
+      "image_id": "img_num_digits"
+    }
+  ]
+}

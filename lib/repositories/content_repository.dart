@@ -56,6 +56,13 @@ class ContentRepository {
       titleEn: 'Clothes & Appearance',
       jsonPath: 'content/vocabulary/clothes_a1.json',
     ),
+    CategoryInfo(
+      id: 'colors_numbers',
+      titleAr: 'الألوان والأرقام',
+      titleDe: 'Farben & Zahlen',
+      titleEn: 'Colors & Numbers',
+      jsonPath: 'content/vocabulary/colors_numbers_a1.json',
+    ),
   ];
 
   Future<bool> loadAllActiveCategories() async {

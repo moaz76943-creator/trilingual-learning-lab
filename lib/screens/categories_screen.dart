@@ -45,6 +45,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
       ..._repository.getConcepts('food'),
       ..._repository.getConcepts('home'),
       ..._repository.getConcepts('clothes'),
+      ..._repository.getConcepts('colors_numbers'),
     ];
   }
 
@@ -59,7 +60,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: const [
             Text('Trilingual Lab', style: TextStyle(color: Color(0xFF0F172A), fontSize: 18, fontWeight: FontWeight.bold)),
-            Text('A1 Foundation • 100 مفردة + 15 فعلًا + 20 جملة', style: TextStyle(color: Color(0xFF64748B), fontSize: 11)),
+            Text('A1 Foundation • 130 مفردة + 15 فعلًا + 20 جملة', style: TextStyle(color: Color(0xFF64748B), fontSize: 11)),
           ],
         ),
         actions: [
@@ -173,7 +174,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
                 ),
                 const SizedBox(height: 16),
 
-                // الأقسام الأربعة النشطة
+                // الأقسام الخمسة النشطة
                 _buildCategoryCard('العائلة', 'Familie', 'Family', _repository.getConcepts('family'), Icons.people_outline, const Color(0xFF0284C7)),
                 const SizedBox(height: 12),
                 _buildCategoryCard('الطعام والشراب', 'Essen & Trinken', 'Food & Drinks', _repository.getConcepts('food'), Icons.restaurant_outlined, const Color(0xFFEA580C)),
@@ -182,11 +183,13 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
                 const SizedBox(height: 12),
                 _buildCategoryCard('الملابس والمظهر', 'Kleidung & Aussehen', 'Clothes & Appearance', _repository.getConcepts('clothes'), Icons.checkroom_outlined, const Color(0xFFE11D48)),
                 const SizedBox(height: 12),
+                _buildCategoryCard('الألوان والأرقام', 'Farben & Zahlen', 'Colors & Numbers', _repository.getConcepts('colors_numbers'), Icons.palette_outlined, const Color(0xFFD97706)),
+                const SizedBox(height: 12),
 
                 // أقسام قادمة
-                _buildLockedCard('الألوان والأرقام', 'Farben & Zahlen', 'Colors & Numbers', 30),
-                const SizedBox(height: 12),
                 _buildLockedCard('الوقت والتقويم', 'Zeit & Kalender', 'Time & Calendar', 25),
+                const SizedBox(height: 12),
+                _buildLockedCard('الجسم والصحة', 'Körper & Gesundheit', 'Body & Health', 30),
               ],
             ),
     );
