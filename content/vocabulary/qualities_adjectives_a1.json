@@ -1,0 +1,561 @@
+{
+  "category_id": "qualities_adjectives",
+  "category_name": {
+    "ar": "الصفات والخصائص",
+    "de": "Eigenschaften & Adjektive",
+    "en": "Qualities & Adjectives"
+  },
+  "level": "A1",
+  "concepts": [
+    {
+      "id": "adj_fast",
+      "category": "qualities_adjectives",
+      "arabic": {
+        "word": "سَرِيعٌ",
+        "transliteration": "Saree'",
+        "notes": "صفة تدل على السرعة العالية في الحركة أو الإنجاز"
+      },
+      "german": {
+        "article": "",
+        "word": "schnell",
+        "plural": "",
+        "gender": "adjective",
+        "example": "Der moderne Zug fährt sehr schnell."
+      },
+      "english": {
+        "word": "fast / quick",
+        "phonetic": "/fɑːst/",
+        "example": "The express train is very fast."
+      },
+      "image_id": "img_adj_fast"
+    },
+    {
+      "id": "adj_slow",
+      "category": "qualities_adjectives",
+      "arabic": {
+        "word": "بَطِيءٌ",
+        "transliteration": "Batee'",
+        "notes": "ضد سريع، قليل السرعة"
+      },
+      "german": {
+        "article": "",
+        "word": "langsam",
+        "plural": "",
+        "gender": "adjective",
+        "example": "Die Schildkröte bewegt sich sehr langsam."
+      },
+      "english": {
+        "word": "slow",
+        "phonetic": "/sləʊ/",
+        "example": "The turtle moves at a very slow pace."
+      },
+      "image_id": "img_adj_slow"
+    },
+    {
+      "id": "adj_easy",
+      "category": "qualities_adjectives",
+      "arabic": {
+        "word": "سَهْلٌ / بَسِيطٌ",
+        "transliteration": "Sahl",
+        "notes": "غير معقد وميسور الفهم"
+      },
+      "german": {
+        "article": "",
+        "word": "einfach / leicht",
+        "plural": "",
+        "gender": "adjective",
+        "example": "Diese Grammatikübung ist wirklich einfach."
+      },
+      "english": {
+        "word": "easy / simple",
+        "phonetic": "/ˈiː.zi/",
+        "example": "This vocabulary exercise is quite easy."
+      },
+      "image_id": "img_adj_easy"
+    },
+    {
+      "id": "adj_difficult",
+      "category": "qualities_adjectives",
+      "arabic": {
+        "word": "صَعْبٌ / مُعَقَّدٌ",
+        "transliteration": "Sa'b",
+        "notes": "يتطلب جهدًا وتركيزًا كبيرين"
+      },
+      "german": {
+        "article": "",
+        "word": "schwierig / schwer",
+        "plural": "",
+        "gender": "adjective",
+        "example": "Die Deutschprüfung war ziemlich schwierig."
+      },
+      "english": {
+        "word": "difficult / hard",
+        "phonetic": "/ˈdɪf.ɪ.kəlt/",
+        "example": "The final test was somewhat difficult."
+      },
+      "image_id": "img_adj_difficult"
+    },
+    {
+      "id": "adj_heavy",
+      "category": "qualities_adjectives",
+      "arabic": {
+        "word": "ثَقِيلُ الوَزْنِ",
+        "transliteration": "Thaqeel",
+        "notes": "كبير الوزن وصعب الحمل"
+      },
+      "german": {
+        "article": "",
+        "word": "schwer",
+        "plural": "",
+        "gender": "adjective",
+        "example": "Dieser Reisekoffer ist viel zu schwer."
+      },
+      "english": {
+        "word": "heavy",
+        "phonetic": "/ˈhev.i/",
+        "example": "This suitcase is too heavy to carry alone."
+      },
+      "image_id": "img_adj_heavy"
+    },
+    {
+      "id": "adj_light_weight",
+      "category": "qualities_adjectives",
+      "arabic": {
+        "word": "خَفِيفُ الوَزْنِ",
+        "transliteration": "Khafeef",
+        "notes": "ضد ثقيل، يسير الحمل"
+      },
+      "german": {
+        "article": "",
+        "word": "leicht",
+        "plural": "",
+        "gender": "adjective",
+        "example": "Die Feder ist unglaublich leicht."
+      },
+      "english": {
+        "word": "light (weight)",
+        "phonetic": "/laɪt/",
+        "example": "A bird's feather is extremely light."
+      },
+      "image_id": "img_adj_light_weight"
+    },
+    {
+      "id": "adj_clean",
+      "category": "qualities_adjectives",
+      "arabic": {
+        "word": "نَظِيفٌ / طَاهِرٌ",
+        "transliteration": "Natheef",
+        "notes": "خالٍ من الأوساخ والشوائب"
+      },
+      "german": {
+        "article": "",
+        "word": "sauber",
+        "plural": "",
+        "gender": "adjective",
+        "example": "Die Hotelzimmer sind immer blitzsauber."
+      },
+      "english": {
+        "word": "clean",
+        "phonetic": "/kliːn/",
+        "example": "The hotel rooms are spotlessly clean."
+      },
+      "image_id": "img_adj_clean"
+    },
+    {
+      "id": "adj_dirty",
+      "category": "qualities_adjectives",
+      "arabic": {
+        "word": "مُتَّسِخٌ / غَيْرُ نَظِيفٍ",
+        "transliteration": "Muttasikh",
+        "notes": "يحتاج إلى غسيل وتنظيف"
+      },
+      "german": {
+        "article": "",
+        "word": "schmutzig",
+        "plural": "",
+        "gender": "adjective",
+        "example": "Nach dem Spiel waren seine Schuhe schmutzig."
+      },
+      "english": {
+        "word": "dirty",
+        "phonetic": "/ˈdɜː.ti/",
+        "example": "His shoes were dirty after playing outside."
+      },
+      "image_id": "img_adj_dirty"
+    },
+    {
+      "id": "adj_expensive",
+      "category": "qualities_adjectives",
+      "arabic": {
+        "word": "غَالٍ / ثَمِينٌ",
+        "transliteration": "Ghalin",
+        "notes": "مرتفع الثمن والقيمة المادية"
+      },
+      "german": {
+        "article": "",
+        "word": "teuer",
+        "plural": "",
+        "gender": "adjective",
+        "example": "Dieses Designer-Kleid ist sehr teuer."
+      },
+      "english": {
+        "word": "expensive",
+        "phonetic": "/ɪkˈspen.sɪv/",
+        "example": "That designer jacket is quite expensive."
+      },
+      "image_id": "img_adj_expensive"
+    },
+    {
+      "id": "adj_cheap",
+      "category": "qualities_adjectives",
+      "arabic": {
+        "word": "رَخِيصٌ / زَهِيدُ الثَّمَنِ",
+        "transliteration": "Rakhees",
+        "notes": "منخفض السعر والتكلفة"
+      },
+      "german": {
+        "article": "",
+        "word": "billig / günstig",
+        "plural": "",
+        "gender": "adjective",
+        "example": "Auf dem Markt gibt es günstiges Obst."
+      },
+      "english": {
+        "word": "cheap / affordable",
+        "phonetic": "/tʃiːp/",
+        "example": "Fresh fruit is very affordable at the local market."
+      },
+      "image_id": "img_adj_cheap"
+    },
+    {
+      "id": "adj_strong",
+      "category": "qualities_adjectives",
+      "arabic": {
+        "word": "قَوِيٌّ / شَدِيدُ البَأْسِ",
+        "transliteration": "Qawiyy",
+        "notes": "يمتلك طاقة وقدرة جسدية أو معنوية"
+      },
+      "german": {
+        "article": "",
+        "word": "stark",
+        "plural": "",
+        "gender": "adjective",
+        "example": "Der Athlet ist außerordentlich stark."
+      },
+      "english": {
+        "word": "strong",
+        "phonetic": "/strɒŋ/",
+        "example": "The weightlifter is exceptionally strong."
+      },
+      "image_id": "img_adj_strong"
+    },
+    {
+      "id": "adj_weak",
+      "category": "qualities_adjectives",
+      "arabic": {
+        "word": "ضَعِيفٌ / هَزِيلٌ",
+        "transliteration": "Da'eef",
+        "notes": "قليل القوة أو العزم"
+      },
+      "german": {
+        "article": "",
+        "word": "schwach",
+        "plural": "",
+        "gender": "adjective",
+        "example": "Nach der Grippe fühlte er sich noch schwach."
+      },
+      "english": {
+        "word": "weak",
+        "phonetic": "/wiːk/",
+        "example": "He still felt somewhat weak after the fever."
+      },
+      "image_id": "img_adj_weak"
+    },
+    {
+      "id": "adj_quiet",
+      "category": "qualities_adjectives",
+      "arabic": {
+        "word": "هَادِئٌ / سَاكِنٌ",
+        "transliteration": "Hadi'",
+        "notes": "خالٍ من الضجيج والاضطراب"
+      },
+      "german": {
+        "article": "",
+        "word": "ruhig / leise",
+        "plural": "",
+        "gender": "adjective",
+        "example": "Im Lesesaal ist es wunderbar ruhig."
+      },
+      "english": {
+        "word": "quiet / peaceful",
+        "phonetic": "/ˈkwaɪ.ət/",
+        "example": "The library reading room is very quiet."
+      },
+      "image_id": "img_adj_quiet"
+    },
+    {
+      "id": "adj_loud",
+      "category": "qualities_adjectives",
+      "arabic": {
+        "word": "صَاخِبٌ / عَالِي الصَّوْتِ",
+        "transliteration": "Sakhib",
+        "notes": "يحدث جلبة وضوضاء شديدة"
+      },
+      "german": {
+        "article": "",
+        "word": "laut",
+        "plural": "",
+        "gender": "adjective",
+        "example": "Die Musik auf dem Konzert war extrem laut."
+      },
+      "english": {
+        "word": "loud / noisy",
+        "phonetic": "/laʊd/",
+        "example": "The music at the open-air festival was very loud."
+      },
+      "image_id": "img_adj_loud"
+    },
+    {
+      "id": "adj_early",
+      "category": "qualities_adjectives",
+      "arabic": {
+        "word": "مُبَكِّرٌ / فِي الصَّبَاحِ الأَوَّلِ",
+        "transliteration": "Mubakkir",
+        "notes": "قبل الوقت المعتاد أو في أوله"
+      },
+      "german": {
+        "article": "",
+        "word": "früh",
+        "plural": "",
+        "gender": "adjective",
+        "example": "Wir stehen jeden Tag sehr früh auf."
+      },
+      "english": {
+        "word": "early",
+        "phonetic": "/ˈɜː.li/",
+        "example": "They wake up very early every weekday morning."
+      },
+      "image_id": "img_adj_early"
+    },
+    {
+      "id": "adj_late",
+      "category": "qualities_adjectives",
+      "arabic": {
+        "word": "مُتَأَخِّرٌ",
+        "transliteration": "Muta'akh-khir",
+        "notes": "بعد الوقت المحدد أو في الليل"
+      },
+      "german": {
+        "article": "",
+        "word": "spät",
+        "plural": "",
+        "gender": "adjective",
+        "example": "Es ist schon spät, wir sollten schlafen gehen."
+      },
+      "english": {
+        "word": "late",
+        "phonetic": "/leɪt/",
+        "example": "It is getting late, we should head home."
+      },
+      "image_id": "img_adj_late"
+    },
+    {
+      "id": "adj_near",
+      "category": "qualities_adjectives",
+      "arabic": {
+        "word": "قَرِيبٌ / غَيْرُ بَعِيدٍ",
+        "transliteration": "Qareeb",
+        "notes": "قريب في المسافة أو المكان"
+      },
+      "german": {
+        "article": "",
+        "word": "nah",
+        "plural": "",
+        "gender": "adjective",
+        "example": "Die U-Bahn-Station ist ganz nah am Hotel."
+      },
+      "english": {
+        "word": "near / close",
+        "phonetic": "/nɪər/",
+        "example": "The subway station is quite near our apartment."
+      },
+      "image_id": "img_adj_near"
+    },
+    {
+      "id": "adj_far",
+      "category": "qualities_adjectives",
+      "arabic": {
+        "word": "بَعِيدٌ / شَاسِعُ المَسَافَةِ",
+        "transliteration": "Ba'eed",
+        "notes": "يفصل بينه وبين المكان مسافة طويلة"
+      },
+      "german": {
+        "article": "",
+        "word": "weit / fern",
+        "plural": "",
+        "gender": "adjective",
+        "example": "Der Flughafen liegt ziemlich weit von der Stadt entfernt."
+      },
+      "english": {
+        "word": "far / distant",
+        "phonetic": "/fɑːr/",
+        "example": "The international airport is rather far from here."
+      },
+      "image_id": "img_adj_far"
+    },
+    {
+      "id": "adj_bright",
+      "category": "qualities_adjectives",
+      "arabic": {
+        "word": "سَاطِعٌ / مُضِيءٌ",
+        "transliteration": "Sati'",
+        "notes": "وافر الضوء والنور"
+      },
+      "german": {
+        "article": "",
+        "word": "hell",
+        "plural": "",
+        "gender": "adjective",
+        "example": "Die Sonne scheint hell am blauen Himmel."
+      },
+      "english": {
+        "word": "bright / light",
+        "phonetic": "/braɪt/",
+        "example": "The morning sun shines bright in the sky."
+      },
+      "image_id": "img_adj_bright"
+    },
+    {
+      "id": "adj_dark",
+      "category": "qualities_adjectives",
+      "arabic": {
+        "word": "مُظْلِمٌ / عَاتِمٌ",
+        "transliteration": "Muthlim",
+        "notes": "شديد السواد أو قليل الضوء"
+      },
+      "german": {
+        "article": "",
+        "word": "dunkel",
+        "plural": "",
+        "gender": "adjective",
+        "example": "Im dichten Wald ist es nachts stockdunkel."
+      },
+      "english": {
+        "word": "dark",
+        "phonetic": "/dɑːk/",
+        "example": "It gets pitch dark outside after twilight."
+      },
+      "image_id": "img_adj_dark"
+    },
+    {
+      "id": "adj_sweet",
+      "category": "qualities_adjectives",
+      "arabic": {
+        "word": "حُلْوُ المَذَاقِ",
+        "transliteration": "Hulw",
+        "notes": "طعمه كالسكر أو العسل"
+      },
+      "german": {
+        "article": "",
+        "word": "süß",
+        "plural": "",
+        "gender": "adjective",
+        "example": "Die reifen Erdbeeren schmecken wunderbar süß."
+      },
+      "english": {
+        "word": "sweet",
+        "phonetic": "/swiːt/",
+        "example": "These ripe strawberries taste delicious and sweet."
+      },
+      "image_id": "img_adj_sweet"
+    },
+    {
+      "id": "adj_sour",
+      "category": "qualities_adjectives",
+      "arabic": {
+        "word": "حَامِضُ الطَّعْمِ",
+        "transliteration": "Hamid",
+        "notes": "طعمه كالليمون أو الخل"
+      },
+      "german": {
+        "article": "",
+        "word": "sauer",
+        "plural": "",
+        "gender": "adjective",
+        "example": "Frische Zitronen sind sehr sauer."
+      },
+      "english": {
+        "word": "sour",
+        "phonetic": "/saʊər/",
+        "example": "Unsweetened lemon juice is extremely sour."
+      },
+      "image_id": "img_adj_sour"
+    },
+    {
+      "id": "adj_safe",
+      "category": "qualities_adjectives",
+      "arabic": {
+        "word": "آمِنٌ / سَلِيمٌ",
+        "transliteration": "Aamin",
+        "notes": "مطمئن لا خطر فيه"
+      },
+      "german": {
+        "article": "",
+        "word": "sicher",
+        "plural": "",
+        "gender": "adjective",
+        "example": "Diese ruhige Nachbarschaft ist absolut sicher."
+      },
+      "english": {
+        "word": "safe / secure",
+        "phonetic": "/seɪf/",
+        "example": "This residential area is remarkably safe."
+      },
+      "image_id": "img_adj_safe"
+    },
+    {
+      "id": "adj_dangerous",
+      "category": "qualities_adjectives",
+      "arabic": {
+        "word": "خَطِيرٌ / ذُو خَطَرٍ",
+        "transliteration": "Khateer",
+        "notes": "ينطوي على مجازفة وأذى محتمل"
+      },
+      "german": {
+        "article": "",
+        "word": "gefährlich",
+        "plural": "",
+        "gender": "adjective",
+        "example": "Klettern ohne Seil ist lebensgefährlich."
+      },
+      "english": {
+        "word": "dangerous",
+        "phonetic": "/ˈdeɪn.dʒər.əs/",
+        "example": "Climbing without safety equipment is very dangerous."
+      },
+      "image_id": "img_adj_dangerous"
+    },
+    {
+      "id": "adj_important",
+      "category": "qualities_adjectives",
+      "arabic": {
+        "word": "مُهِمٌّ / ضَرُورِيٌّ",
+        "transliteration": "Muhimm",
+        "notes": "ذو شأن وقيمة بالغة"
+      },
+      "german": {
+        "article": "",
+        "word": "wichtig",
+        "plural": "",
+        "gender": "adjective",
+        "example": "Pünktlichkeit ist im Berufsleben sehr wichtig."
+      },
+      "english": {
+        "word": "important",
+        "phonetic": "/ɪmˈpɔː.tənt/",
+        "example": "Punctuality is crucial and important in business."
+      },
+      "image_id": "img_adj_important"
+    }
+  ]
+}
