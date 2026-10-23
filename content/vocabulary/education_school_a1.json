@@ -1,0 +1,561 @@
+{
+  "category_id": "education_school",
+  "category_name": {
+    "ar": "التعليم والمدرسة",
+    "de": "Bildung & Schule",
+    "en": "Education & School"
+  },
+  "level": "A1",
+  "concepts": [
+    {
+      "id": "edu_school",
+      "category": "education_school",
+      "arabic": {
+        "word": "المَدْرَسَةُ",
+        "transliteration": "Al-Madrasah",
+        "notes": "اسم مؤنث يدل على مؤسسة التعليم الأساسي والثانوي"
+      },
+      "german": {
+        "article": "die",
+        "word": "Schule",
+        "plural": "die Schulen",
+        "gender": "feminine",
+        "example": "Die Kinder gehen um acht Uhr in die Schule."
+      },
+      "english": {
+        "word": "school",
+        "phonetic": "/skuːl/",
+        "example": "School starts at eight o'clock in the morning."
+      },
+      "image_id": "img_edu_school"
+    },
+    {
+      "id": "edu_classroom",
+      "category": "education_school",
+      "arabic": {
+        "word": "الفَصْلُ الدِّرَاسِيُّ",
+        "transliteration": "Al-Fasl Ad-Dirasi",
+        "notes": "القاعة التعليمية داخل المدرسة"
+      },
+      "german": {
+        "article": "das",
+        "word": "Klassenzimmer",
+        "plural": "die Klassenzimmer",
+        "gender": "neuter",
+        "example": "Unser Klassenzimmer ist groß und hell."
+      },
+      "english": {
+        "word": "classroom",
+        "phonetic": "/ˈklɑːs.ruːm/",
+        "example": "Our classroom is bright and comfortable."
+      },
+      "image_id": "img_edu_classroom"
+    },
+    {
+      "id": "edu_teacher_m",
+      "category": "education_school",
+      "arabic": {
+        "word": "المُعَلِّمُ / الأُسْتَاذُ",
+        "transliteration": "Al-Mu'allim",
+        "notes": "المدرّس المذكر"
+      },
+      "german": {
+        "article": "der",
+        "word": "Lehrer",
+        "plural": "die Lehrer",
+        "gender": "masculine",
+        "example": "Der Lehrer erklärt die Grammatik sehr geduldig."
+      },
+      "english": {
+        "word": "teacher (male)",
+        "phonetic": "/ˈtiː.tʃər/",
+        "example": "The teacher explains the grammar clearly."
+      },
+      "image_id": "img_edu_teacher_m"
+    },
+    {
+      "id": "edu_teacher_f",
+      "category": "education_school",
+      "arabic": {
+        "word": "المُعَلِّمَةُ / الأُسْتَاذَةُ",
+        "transliteration": "Al-Mu'allimah",
+        "notes": "المدرّسة المؤنثة"
+      },
+      "german": {
+        "article": "die",
+        "word": "Lehrerin",
+        "plural": "die Lehrerinnen",
+        "gender": "feminine",
+        "example": "Die Lehrerin stellt eine interessante Frage."
+      },
+      "english": {
+        "word": "teacher (female)",
+        "phonetic": "/ˈtiː.tʃər/",
+        "example": "The female teacher asks an engaging question."
+      },
+      "image_id": "img_edu_teacher_f"
+    },
+    {
+      "id": "edu_student_m",
+      "category": "education_school",
+      "arabic": {
+        "word": "التِّلْمِيذُ / الطَّالِبُ",
+        "transliteration": "At-Tilmeez",
+        "notes": "المتعلم الذكر"
+      },
+      "german": {
+        "article": "der",
+        "word": "Schüler",
+        "plural": "die Schüler",
+        "gender": "masculine",
+        "example": "Der Schüler macht seine Hausaufgaben sorgfältig."
+      },
+      "english": {
+        "word": "pupil / student (male)",
+        "phonetic": "/ˈpjuː.pəl/",
+        "example": "The student completes his homework carefully."
+      },
+      "image_id": "img_edu_student_m"
+    },
+    {
+      "id": "edu_student_f",
+      "category": "education_school",
+      "arabic": {
+        "word": "التِّلْمِيذَةُ / الطَّالِبَةُ",
+        "transliteration": "At-Tilmeezah",
+        "notes": "المتعلمة الأنثى"
+      },
+      "german": {
+        "article": "die",
+        "word": "Schülerin",
+        "plural": "die Schülerinnen",
+        "gender": "feminine",
+        "example": "Die Schülerin liest einen spannenden Text vor."
+      },
+      "english": {
+        "word": "pupil / student (female)",
+        "phonetic": "/ˈpjuː.pəl/",
+        "example": "The student reads an exciting story aloud."
+      },
+      "image_id": "img_edu_student_f"
+    },
+    {
+      "id": "edu_university",
+      "category": "education_school",
+      "arabic": {
+        "word": "الجَامِعَةُ",
+        "transliteration": "Al-Jami'ah",
+        "notes": "مؤسسة التعليم العالي"
+      },
+      "german": {
+        "article": "die",
+        "word": "Universität",
+        "plural": "die Universitäten",
+        "gender": "feminine",
+        "example": "Sie studiert Informatik an der Universität."
+      },
+      "english": {
+        "word": "university",
+        "phonetic": "/ˌjuː.nɪˈvɜː.sə.ti/",
+        "example": "She studies computer science at the university."
+      },
+      "image_id": "img_edu_university"
+    },
+    {
+      "id": "edu_library",
+      "category": "education_school",
+      "arabic": {
+        "word": "المَكْتَبَةُ",
+        "transliteration": "Al-Maktabah",
+        "notes": "دار الكتب والمطالعة"
+      },
+      "german": {
+        "article": "die",
+        "word": "Bibliothek",
+        "plural": "die Bibliotheken",
+        "gender": "feminine",
+        "example": "Wir lernen jeden Nachmittag in der Bibliothek."
+      },
+      "english": {
+        "word": "library",
+        "phonetic": "/ˈlaɪ.brər.i/",
+        "example": "We study quietly in the campus library."
+      },
+      "image_id": "img_edu_library"
+    },
+    {
+      "id": "edu_book",
+      "category": "education_school",
+      "arabic": {
+        "word": "الكِتَابُ",
+        "transliteration": "Al-Kitab",
+        "notes": "مجلد القراءة أو التعلم"
+      },
+      "german": {
+        "article": "das",
+        "word": "Buch",
+        "plural": "die Bücher",
+        "gender": "neuter",
+        "example": "Schlagt bitte eure Bücher auf Seite zwanzig auf."
+      },
+      "english": {
+        "word": "book",
+        "phonetic": "/bʊk/",
+        "example": "Please open your course books to page twenty."
+      },
+      "image_id": "img_edu_book"
+    },
+    {
+      "id": "edu_notebook",
+      "category": "education_school",
+      "arabic": {
+        "word": "الدَّفْتَرُ / الكُرَّاسَةُ",
+        "transliteration": "Ad-Daftar",
+        "notes": "كراس التدوين والكتابة"
+      },
+      "german": {
+        "article": "das",
+        "word": "Heft",
+        "plural": "die Hefte",
+        "gender": "neuter",
+        "example": "Ich notiere alle neuen Vokabeln in mein Heft."
+      },
+      "english": {
+        "word": "notebook",
+        "phonetic": "/ˈnəʊt.bʊk/",
+        "example": "I write down all new vocabulary in my notebook."
+      },
+      "image_id": "img_edu_notebook"
+    },
+    {
+      "id": "edu_pen",
+      "category": "education_school",
+      "arabic": {
+        "word": "قَلَمُ الحِبْرِ الجَافُّ",
+        "transliteration": "Qalam Al-Hibr",
+        "notes": "أداة كتابة بالحبر"
+      },
+      "german": {
+        "article": "der",
+        "word": "Kugelschreiber",
+        "plural": "die Kugelschreiber",
+        "gender": "masculine",
+        "example": "Hast du einen blauen Kugelschreiber für mich?"
+      },
+      "english": {
+        "word": "ballpoint pen",
+        "phonetic": "/ˈbɔːl.pɔɪnt pen/",
+        "example": "Do you have an extra blue pen for me?"
+      },
+      "image_id": "img_edu_pen"
+    },
+    {
+      "id": "edu_pencil",
+      "category": "education_school",
+      "arabic": {
+        "word": "قَلَمُ الرَّصَاصِ",
+        "transliteration": "Qalam Ar-Rasas",
+        "notes": "قلم غرافيت قابل للمحو"
+      },
+      "german": {
+        "article": "der",
+        "word": "Bleistift",
+        "plural": "die Bleistifte",
+        "gender": "masculine",
+        "example": "Zeichne die Skizze zuerst mit einem Bleistift."
+      },
+      "english": {
+        "word": "pencil",
+        "phonetic": "/ˈpen.səl/",
+        "example": "Draw the diagram first using a sharp pencil."
+      },
+      "image_id": "img_edu_pencil"
+    },
+    {
+      "id": "edu_eraser",
+      "category": "education_school",
+      "arabic": {
+        "word": "المِمْحَاةُ",
+        "transliteration": "Al-Mimhah",
+        "notes": "أداة إزالة أثر الرصاص"
+      },
+      "german": {
+        "article": "der",
+        "word": "Radiergummi",
+        "plural": "die Radiergummis",
+        "gender": "masculine",
+        "example": "Ich habe einen Fehler gemacht und brauche einen Radiergummi."
+      },
+      "english": {
+        "word": "eraser / rubber",
+        "phonetic": "/ɪˈreɪ.zər/",
+        "example": "I made an error and need an eraser."
+      },
+      "image_id": "img_edu_eraser"
+    },
+    {
+      "id": "edu_ruler",
+      "category": "education_school",
+      "arabic": {
+        "word": "المِسْطَرَةُ",
+        "transliteration": "Al-Mistarah",
+        "notes": "أداة رسم الخطوط المستقيمة والقياس"
+      },
+      "german": {
+        "article": "das",
+        "word": "Lineal",
+        "plural": "die Lineale",
+        "gender": "neuter",
+        "example": "Mit dem Lineal zieht er eine gerade Linie."
+      },
+      "english": {
+        "word": "ruler",
+        "phonetic": "/ˈruː.lər/",
+        "example": "Draw a straight baseline using the plastic ruler."
+      },
+      "image_id": "img_edu_ruler"
+    },
+    {
+      "id": "edu_backpack",
+      "category": "education_school",
+      "arabic": {
+        "word": "الحَقِيبَةُ المَدْرَسِيَّةُ",
+        "transliteration": "Al-Haqeebah Al-Madrasiyyah",
+        "notes": "حقيبة حمل الكتب والدفاتر"
+      },
+      "german": {
+        "article": "der",
+        "word": "Schulranzen",
+        "plural": "die Schulranzen",
+        "gender": "masculine",
+        "example": "Sein Schulranzen ist heute besonders schwer."
+      },
+      "english": {
+        "word": "school bag / backpack",
+        "phonetic": "/ˈskuːl.bæɡ/",
+        "example": "His school backpack is quite heavy today."
+      },
+      "image_id": "img_edu_backpack"
+    },
+    {
+      "id": "edu_blackboard",
+      "category": "education_school",
+      "arabic": {
+        "word": "السَّبُّورَةُ",
+        "transliteration": "As-Saboorah",
+        "notes": "لوح الشرح في الفصل"
+      },
+      "german": {
+        "article": "die",
+        "word": "Tafel",
+        "plural": "die Tafeln",
+        "gender": "feminine",
+        "example": "Die Lehrerin schreibt den neuen Satz an die Tafel."
+      },
+      "english": {
+        "word": "blackboard / whiteboard",
+        "phonetic": "/ˈblæk.bɔːd/",
+        "example": "The teacher writes the sentence on the board."
+      },
+      "image_id": "img_edu_blackboard"
+    },
+    {
+      "id": "edu_lesson",
+      "category": "education_school",
+      "arabic": {
+        "word": "الدَّرْسُ / الحِصَّةُ",
+        "transliteration": "Ad-Dars",
+        "notes": "الحصة التعليمية المحددة"
+      },
+      "german": {
+        "article": "die",
+        "word": "Lektion",
+        "plural": "die Lektionen",
+        "gender": "feminine",
+        "example": "Die heutige Deutschlektion war sehr lehrreich."
+      },
+      "english": {
+        "word": "lesson",
+        "phonetic": "/ˈles.ən/",
+        "example": "Today's language lesson was very engaging."
+      },
+      "image_id": "img_edu_lesson"
+    },
+    {
+      "id": "edu_homework",
+      "category": "education_school",
+      "arabic": {
+        "word": "الوَاجِبُ المَنْزِلِيُّ",
+        "transliteration": "Al-Wajib Al-Manzili",
+        "notes": "التكاليف الدراسية للبيت"
+      },
+      "german": {
+        "article": "die",
+        "word": "Hausaufgabe",
+        "plural": "die Hausaufgaben",
+        "gender": "feminine",
+        "example": "Hast du deine Hausaufgaben für morgen schon erledigt?"
+      },
+      "english": {
+        "word": "homework",
+        "phonetic": "/ˈhəʊm.wɜːk/",
+        "example": "Have you finished your homework for tomorrow?"
+      },
+      "image_id": "img_edu_homework"
+    },
+    {
+      "id": "edu_exam",
+      "category": "education_school",
+      "arabic": {
+        "word": "الِامْتِحَانُ / الِاخْتِبَارُ",
+        "transliteration": "Al-Imtihan",
+        "notes": "تقييم تحصيل المتعلم"
+      },
+      "german": {
+        "article": "die",
+        "word": "Prüfung",
+        "plural": "die Prüfungen",
+        "gender": "feminine",
+        "example": "Morgen schreiben wir eine wichtige Deutschprüfung."
+      },
+      "english": {
+        "word": "exam / test",
+        "phonetic": "/ɪɡˈzæm/",
+        "example": "Tomorrow we have a crucial language exam."
+      },
+      "image_id": "img_edu_exam"
+    },
+    {
+      "id": "edu_grade",
+      "category": "education_school",
+      "arabic": {
+        "word": "العَلَامَةُ / الدَّرَجَةُ",
+        "transliteration": "Al-'Alamah",
+        "notes": "النتيجة الرقمية أو التقديرية"
+      },
+      "german": {
+        "article": "die",
+        "word": "Note",
+        "plural": "die Noten",
+        "gender": "feminine",
+        "example": "Sie hat eine ausgezeichnete Note bekommen."
+      },
+      "english": {
+        "word": "grade / mark",
+        "phonetic": "/ɡreɪd/",
+        "example": "She received an excellent grade in mathematics."
+      },
+      "image_id": "img_edu_grade"
+    },
+    {
+      "id": "edu_question",
+      "category": "education_school",
+      "arabic": {
+        "word": "السُّؤَالُ",
+        "transliteration": "As-Su'al",
+        "notes": "طلب المعرفة والاستفسار"
+      },
+      "german": {
+        "article": "die",
+        "word": "Frage",
+        "plural": "die Fragen",
+        "gender": "feminine",
+        "example": "Darf ich dazu eine kurze Frage stellen?"
+      },
+      "english": {
+        "word": "question",
+        "phonetic": "/ˈkwes.tʃən/",
+        "example": "May I ask a quick clarifying question?"
+      },
+      "image_id": "img_edu_question"
+    },
+    {
+      "id": "edu_answer",
+      "category": "education_school",
+      "arabic": {
+        "word": "الجَوَابُ / الإِجَابَةُ",
+        "transliteration": "Al-Jawab",
+        "notes": "رد على استفسار أو حل لمسألة"
+      },
+      "german": {
+        "article": "die",
+        "word": "Antwort",
+        "plural": "die Antworten",
+        "gender": "feminine",
+        "example": "Deine Antwort war absolut richtig."
+      },
+      "english": {
+        "word": "answer / reply",
+        "phonetic": "/ˈɑːn.sər/",
+        "example": "Your answer was completely accurate."
+      },
+      "image_id": "img_edu_answer"
+    },
+    {
+      "id": "edu_dictionary",
+      "category": "education_school",
+      "arabic": {
+        "word": "القَامُوسُ / المُعْجَمُ",
+        "transliteration": "Al-Qamoos",
+        "notes": "مرجع شرح المفردات وترجمتها"
+      },
+      "german": {
+        "article": "das",
+        "word": "Wörterbuch",
+        "plural": "die Wörterbücher",
+        "gender": "neuter",
+        "example": "Schlage das unbekannte Wort im Wörterbuch nach."
+      },
+      "english": {
+        "word": "dictionary",
+        "phonetic": "/ˈdɪk.ʃən.ər.i/",
+        "example": "Look up the unfamiliar term in the dictionary."
+      },
+      "image_id": "img_edu_dictionary"
+    },
+    {
+      "id": "edu_break",
+      "category": "education_school",
+      "arabic": {
+        "word": "الِاسْتِرَاحَةُ المَدْرَسِيَّةُ / الفُسْحَةُ",
+        "transliteration": "Al-Istirahah",
+        "notes": "فترة الراحة بين الدروس"
+      },
+      "german": {
+        "article": "die",
+        "word": "Schulpause",
+        "plural": "die Schulpausen",
+        "gender": "feminine",
+        "example": "In der großen Pause spielen die Schüler auf dem Schulhof."
+      },
+      "english": {
+        "word": "school recess / break",
+        "phonetic": "/ˈriː.ses/",
+        "example": "Students play football outside during the break."
+      },
+      "image_id": "img_edu_break"
+    },
+    {
+      "id": "edu_desk",
+      "category": "education_school",
+      "arabic": {
+        "word": "مَكْتَبُ الدِّرَاسَةِ",
+        "transliteration": "Maktab Ad-Dirasah",
+        "notes": "طاولة المذاكرة والكتابة"
+      },
+      "german": {
+        "article": "der",
+        "word": "Schreibtisch",
+        "plural": "die Schreibtische",
+        "gender": "masculine",
+        "example": "Auf meinem Schreibtisch stehen eine Lampe und mein Laptop."
+      },
+      "english": {
+        "word": "study desk",
+        "phonetic": "/ˈstʌd.i desk/",
+        "example": "Keep your study desk neat and tidy."
+      },
+      "image_id": "img_edu_desk"
+    }
+  ]
+}
