@@ -1,0 +1,561 @@
+{
+  "category_id": "technology_digital",
+  "category_name": {
+    "ar": "التقنية والعالم الرقمي",
+    "de": "Technologie & Digitale Welt",
+    "en": "Technology & Digital World"
+  },
+  "level": "A1",
+  "concepts": [
+    {
+      "id": "tech_computer",
+      "category": "technology_digital",
+      "arabic": {
+        "word": "الحَاسُوبُ / الكُمْبِيُوتَرُ",
+        "transliteration": "Al-Hasoob",
+        "notes": "جهاز معالجة البيانات المكتبي"
+      },
+      "german": {
+        "article": "der",
+        "word": "Computer",
+        "plural": "die Computer",
+        "gender": "masculine",
+        "example": "Der Computer im Büro funktioniert sehr schnell."
+      },
+      "english": {
+        "word": "computer",
+        "phonetic": "/kəmˈpjuː.tər/",
+        "example": "The desktop computer in the office is powerful."
+      },
+      "image_id": "img_tech_computer"
+    },
+    {
+      "id": "tech_laptop",
+      "category": "technology_digital",
+      "arabic": {
+        "word": "الحَاسُوبُ المَحْمُولُ",
+        "transliteration": "Al-Hasoob Al-Mahmool",
+        "notes": "كمبيوتر شخصي متنقل وخفيف"
+      },
+      "german": {
+        "article": "der",
+        "word": "Laptop",
+        "plural": "die Laptops",
+        "gender": "masculine",
+        "example": "Ich nehme meinen Laptop jeden Tag mit zur Universität."
+      },
+      "english": {
+        "word": "laptop",
+        "phonetic": "/ˈlæp.tɒp/",
+        "example": "I take my laptop to lectures every day."
+      },
+      "image_id": "img_tech_laptop"
+    },
+    {
+      "id": "tech_smartphone",
+      "category": "technology_digital",
+      "arabic": {
+        "word": "الهَاتِفُ الذَّكِيُّ",
+        "transliteration": "Al-Hatif Ath-Thaki",
+        "notes": "هاتف متعدد الوظائف والاتصال"
+      },
+      "german": {
+        "article": "das",
+        "word": "Smartphone",
+        "plural": "die Smartphones",
+        "gender": "neuter",
+        "example": "Mein Smartphone hat eine hochauflösende Kamera."
+      },
+      "english": {
+        "word": "smartphone",
+        "phonetic": "/ˈsmɑːt.fəʊn/",
+        "example": "Her smartphone takes amazing high-resolution photos."
+      },
+      "image_id": "img_tech_smartphone"
+    },
+    {
+      "id": "tech_tablet",
+      "category": "technology_digital",
+      "arabic": {
+        "word": "الحَاسُوبُ اللَّوْحِيُّ / التَّابْلِت",
+        "transliteration": "Al-Hasoob Al-Lawhi",
+        "notes": "شاشة لمسية مسطحة تفاعلية"
+      },
+      "german": {
+        "article": "das",
+        "word": "Tablet",
+        "plural": "die Tablets",
+        "gender": "neuter",
+        "example": "Auf dem Tablet lese ich abends gerne E-Books."
+      },
+      "english": {
+        "word": "tablet",
+        "phonetic": "/ˈtæb.lət/",
+        "example": "He reads digital magazines comfortably on his tablet."
+      },
+      "image_id": "img_tech_tablet"
+    },
+    {
+      "id": "tech_keyboard",
+      "category": "technology_digital",
+      "arabic": {
+        "word": "لَوْحَةُ المَفَاتِيحِ",
+        "transliteration": "Lawhat Al-Mafateeh",
+        "notes": "أداة كتابة الحروف والأوامر"
+      },
+      "german": {
+        "article": "die",
+        "word": "Tastatur",
+        "plural": "die Tastaturen",
+        "gender": "feminine",
+        "example": "Die kabellose Tastatur lässt sich angenehm bedienen."
+      },
+      "english": {
+        "word": "keyboard",
+        "phonetic": "/ˈkiː.bɔːd/",
+        "example": "The mechanical keyboard has very responsive keys."
+      },
+      "image_id": "img_tech_keyboard"
+    },
+    {
+      "id": "tech_mouse",
+      "category": "technology_digital",
+      "arabic": {
+        "word": "فَأْرَةُ التَّحَكُّمِ",
+        "transliteration": "Fa'rat At-Tahakkum",
+        "notes": "مؤشر التوجيه والنقر بالحاسوب"
+      },
+      "german": {
+        "article": "die",
+        "word": "Maus",
+        "plural": "die Mäuse",
+        "gender": "feminine",
+        "example": "Klicke mit der Maus doppelt auf das Symbol."
+      },
+      "english": {
+        "word": "computer mouse",
+        "phonetic": "/maʊs/",
+        "example": "Double-click the desktop icon with your mouse."
+      },
+      "image_id": "img_tech_mouse"
+    },
+    {
+      "id": "tech_screen",
+      "category": "technology_digital",
+      "arabic": {
+        "word": "الشَّاشَةُ",
+        "transliteration": "Ash-Shashah",
+        "notes": "شاشة عرض البيانات والصور"
+      },
+      "german": {
+        "article": "der",
+        "word": "Bildschirm",
+        "plural": "die Bildschirme",
+        "gender": "masculine",
+        "example": "Der neue Bildschirm zeigt kräftige und klare Farben."
+      },
+      "english": {
+        "word": "screen / monitor",
+        "phonetic": "/skriːn/",
+        "example": "The high-definition screen shows vivid colors."
+      },
+      "image_id": "img_tech_screen"
+    },
+    {
+      "id": "tech_headphones",
+      "category": "technology_digital",
+      "arabic": {
+        "word": "سَمَّاعَاتُ الرَّأْسِ",
+        "transliteration": "Samma'at Ar-Ra's",
+        "notes": "سماعات الأذن للاستماع الصوتي"
+      },
+      "german": {
+        "article": "die",
+        "word": "Kopfhörer",
+        "plural": "die Kopfhörer",
+        "gender": "masculine",
+        "example": "Im Zug höre ich Musik über meine Kopfhörer."
+      },
+      "english": {
+        "word": "headphones",
+        "phonetic": "/ˈhed.fəʊnz/",
+        "example": "I listen to podcasts through my noise-cancelling headphones."
+      },
+      "image_id": "img_tech_headphones"
+    },
+    {
+      "id": "tech_internet",
+      "category": "technology_digital",
+      "arabic": {
+        "word": "الإِنْتَرْنِت / الشَّبَكَةُ الدَّوْلِيَّةُ",
+        "transliteration": "Al-Internet",
+        "notes": "الشبكة العالمية لربط المعلومات"
+      },
+      "german": {
+        "article": "das",
+        "word": "Internet",
+        "plural": "die Internets",
+        "gender": "neuter",
+        "example": "Das Internet erleichtert das Lernen neuer Fremdsprachen enorm."
+      },
+      "english": {
+        "word": "internet",
+        "phonetic": "/ˈɪn.tə.net/",
+        "example": "The internet makes global communication instantaneous."
+      },
+      "image_id": "img_tech_internet"
+    },
+    {
+      "id": "tech_website",
+      "category": "technology_digital",
+      "arabic": {
+        "word": "المَوْقِعُ الإِلِكْتُرُونِيُّ",
+        "transliteration": "Al-Mawqi' Al-Elektroni",
+        "notes": "صفحة أو منصة على الويب"
+      },
+      "german": {
+        "article": "die",
+        "word": "Webseite",
+        "plural": "die Webseiten",
+        "gender": "feminine",
+        "example": "Besuchen Sie unsere informative Webseite für weitere Details."
+      },
+      "english": {
+        "word": "website",
+        "phonetic": "/ˈweb.saɪt/",
+        "example": "Check out our official website for comprehensive tutorials."
+      },
+      "image_id": "img_tech_website"
+    },
+    {
+      "id": "tech_email",
+      "category": "technology_digital",
+      "arabic": {
+        "word": "البَرِيدُ الإِلِكْتُرُونِيُّ",
+        "transliteration": "Al-Bareed Al-Elektroni",
+        "notes": "الرسائل الرقمية عبر الشبكة"
+      },
+      "german": {
+        "article": "die",
+        "word": "E-Mail",
+        "plural": "die E-Mails",
+        "gender": "feminine",
+        "example": "Ich habe dir gerade eine wichtige E-Mail geschickt."
+      },
+      "english": {
+        "word": "email",
+        "phonetic": "/ˈiː.meɪl/",
+        "example": "I just sent you a confirmation email with all details."
+      },
+      "image_id": "img_tech_email"
+    },
+    {
+      "id": "tech_password",
+      "category": "technology_digital",
+      "arabic": {
+        "word": "كَلِمَةُ المُرُورِ / السِّرِّ",
+        "transliteration": "Kalimat Al-Muroor",
+        "notes": "رمز الحماية والتحقق الأمني"
+      },
+      "german": {
+        "article": "das",
+        "word": "Passwort",
+        "plural": "die Passwörter",
+        "gender": "neuter",
+        "example": "Wähle immer ein sicheres Passwort mit Zahlen und Sonderzeichen."
+      },
+      "english": {
+        "word": "password",
+        "phonetic": "/ˈpɑːs.wɜːd/",
+        "example": "Create a strong password to protect your user account."
+      },
+      "image_id": "img_tech_password"
+    },
+    {
+      "id": "tech_app",
+      "category": "technology_digital",
+      "arabic": {
+        "word": "التَّطْبِيقُ الرَّقْمِيُّ",
+        "transliteration": "At-Tatbeeq",
+        "notes": "برنامج مصغر للهواتف أو الحواسيب"
+      },
+      "german": {
+        "article": "die",
+        "word": "App",
+        "plural": "die Apps",
+        "gender": "feminine",
+        "example": "Mit dieser App kann ich jeden Tag Vokabeln üben."
+      },
+      "english": {
+        "word": "app / application",
+        "phonetic": "/æp/",
+        "example": "This learning app helps me practice German every morning."
+      },
+      "image_id": "img_tech_app"
+    },
+    {
+      "id": "tech_download",
+      "category": "technology_digital",
+      "arabic": {
+        "word": "التَّنْزِيلُ / التَّحْمِيلُ",
+        "transliteration": "At-Tanzeel",
+        "notes": "نقل البيانات من الخادم إلى الجهاز"
+      },
+      "german": {
+        "article": "der",
+        "word": "Download",
+        "plural": "die Downloads",
+        "gender": "masculine",
+        "example": "Der Download der Datei ist in wenigen Sekunden abgeschlossen."
+      },
+      "english": {
+        "word": "download",
+        "phonetic": "/ˈdaʊn.ləʊd/",
+        "example": "The document download finished in just a few seconds."
+      },
+      "image_id": "img_tech_download"
+    },
+    {
+      "id": "tech_camera",
+      "category": "technology_digital",
+      "arabic": {
+        "word": "الكَامِيرَا الرَّقْمِيَّةُ",
+        "transliteration": "Al-Kamera",
+        "notes": "أداة التقاط الصور وتسجيل الفيديو"
+      },
+      "german": {
+        "article": "die",
+        "word": "Kamera",
+        "plural": "die Kameras",
+        "gender": "feminine",
+        "example": "Schalte bitte deine Kamera für das Online-Meeting ein."
+      },
+      "english": {
+        "word": "camera",
+        "phonetic": "/ˈkæm.rə/",
+        "example": "Please turn on your camera during the video conference."
+      },
+      "image_id": "img_tech_camera"
+    },
+    {
+      "id": "tech_battery",
+      "category": "technology_digital",
+      "arabic": {
+        "word": "البَطَّارِيَّةُ",
+        "transliteration": "Al-Battariyyah",
+        "notes": "مصدر الطاقة المتجددة في الأجهزة"
+      },
+      "german": {
+        "article": "der",
+        "word": "Akku",
+        "plural": "die Akkus",
+        "gender": "masculine",
+        "example": "Der Akku meines Handys ist fast leer."
+      },
+      "english": {
+        "word": "battery",
+        "phonetic": "/ˈbæt.ər.i/",
+        "example": "My phone battery lasts for two full days."
+      },
+      "image_id": "img_tech_battery"
+    },
+    {
+      "id": "tech_charger",
+      "category": "technology_digital",
+      "arabic": {
+        "word": "الشَّاحِنُ / سِلْكُ الشَّحْنِ",
+        "transliteration": "Ash-Shahin",
+        "notes": "كابل تزويد البطارية بالكهرباء"
+      },
+      "german": {
+        "article": "das",
+        "word": "Ladekabel",
+        "plural": "die Ladekabel",
+        "gender": "neuter",
+        "example": "Hast du ein passendes Ladekabel für mein Telefon?"
+      },
+      "english": {
+        "word": "charger / charging cable",
+        "phonetic": "/ˈtʃɑː.dʒər/",
+        "example": "Do you have a USB-C charging cable I could borrow?"
+      },
+      "image_id": "img_tech_charger"
+    },
+    {
+      "id": "tech_printer",
+      "category": "technology_digital",
+      "arabic": {
+        "word": "الطَّابِعَةُ",
+        "transliteration": "At-Tabi'ah",
+        "notes": "جهاز طباعة النصوص والوثائق"
+      },
+      "german": {
+        "article": "der",
+        "word": "Drucker",
+        "plural": "die Drucker",
+        "gender": "masculine",
+        "example": "Der Drucker druckt die Übungsblätter in Farbe."
+      },
+      "english": {
+        "word": "printer",
+        "phonetic": "/ˈprɪn.tər/",
+        "example": "The office printer prints double-sided pages quickly."
+      },
+      "image_id": "img_tech_printer"
+    },
+    {
+      "id": "tech_wifi",
+      "category": "technology_digital",
+      "arabic": {
+        "word": "الشَّبَكَةُ اللَّاسِلْكِيَّةُ (الواي فاي)",
+        "transliteration": "Al-Wi-Fi",
+        "notes": "الاتصال اللاسلكي بالإنترنت"
+      },
+      "german": {
+        "article": "das",
+        "word": "WLAN",
+        "plural": "die WLANs",
+        "gender": "neuter",
+        "example": "Gibt es hier im Café ein kostenloses WLAN?"
+      },
+      "english": {
+        "word": "Wi-Fi / wireless network",
+        "phonetic": "/ˈwaɪ.faɪ/",
+        "example": "Is there free Wi-Fi access available in this coffee shop?"
+      },
+      "image_id": "img_tech_wifi"
+    },
+    {
+      "id": "tech_file",
+      "category": "technology_digital",
+      "arabic": {
+        "word": "المَلَفُّ الرَّقْمِيُّ",
+        "transliteration": "Al-Malaff",
+        "notes": "وحدة حفظ المستندات والبيانات"
+      },
+      "german": {
+        "article": "die",
+        "word": "Datei",
+        "plural": "die Dateien",
+        "gender": "feminine",
+        "example": "Ich speichere die fertige Datei auf dem Desktop ab."
+      },
+      "english": {
+        "word": "digital file",
+        "phonetic": "/faɪl/",
+        "example": "Make sure you save the document file before closing."
+      },
+      "image_id": "img_tech_file"
+    },
+    {
+      "id": "tech_folder",
+      "category": "technology_digital",
+      "arabic": {
+        "word": "المُجَلَّدُ الرَّقْمِيُّ",
+        "transliteration": "Al-Mujallad",
+        "notes": "حاوية تنظيم الملفات داخل النظام"
+      },
+      "german": {
+        "article": "der",
+        "word": "Ordner",
+        "plural": "die Ordner",
+        "gender": "masculine",
+        "example": "Erstelle einen neuen Ordner für deine Deutschkurse."
+      },
+      "english": {
+        "word": "folder",
+        "phonetic": "/ˈfəʊl.dər/",
+        "example": "Create a new project folder to keep documents organized."
+      },
+      "image_id": "img_tech_folder"
+    },
+    {
+      "id": "tech_message",
+      "category": "technology_digital",
+      "arabic": {
+        "word": "الرِّسَالَةُ النَّصِّيَّةُ",
+        "transliteration": "Ar-Risalah An-Nassiyyah",
+        "notes": "رسالة سريعة عبر المحادثات الفورية"
+      },
+      "german": {
+        "article": "die",
+        "word": "Nachricht",
+        "plural": "die Nachrichten",
+        "gender": "feminine",
+        "example": "Schreib mir eine kurze Nachricht, wenn du ankommst."
+      },
+      "english": {
+        "word": "text message",
+        "phonetic": "/ˈmes.ɪdʒ/",
+        "example": "Send me a quick text message when you arrive safely."
+      },
+      "image_id": "img_tech_message"
+    },
+    {
+      "id": "tech_link",
+      "category": "technology_digital",
+      "arabic": {
+        "word": "الرَّابِطُ التَّشَعُّبِيُّ",
+        "transliteration": "Ar-Rabit",
+        "notes": "عنوان URL للانتقال إلى صفحة أخرى"
+      },
+      "german": {
+        "article": "der",
+        "word": "Link",
+        "plural": "die Links",
+        "gender": "masculine",
+        "example": "Klicke einfach auf den blauen Link im Text."
+      },
+      "english": {
+        "word": "hyperlink / web link",
+        "phonetic": "/lɪŋk/",
+        "example": "Click on the shared link to access the live dashboard."
+      },
+      "image_id": "img_tech_link"
+    },
+    {
+      "id": "tech_social_media",
+      "category": "technology_digital",
+      "arabic": {
+        "word": "وَسَائِلُ التَّوَاصُلِ الِاجْتِمَاعِيِّ",
+        "transliteration": "Wasa'il At-Tawasul",
+        "notes": "شبكات ومنصات التفاعل الجماعي"
+      },
+      "german": {
+        "article": "die",
+        "word": "sozialen Medien",
+        "plural": "die sozialen Medien",
+        "gender": "plural",
+        "example": "Viele Menschen nutzen soziale Medien zum Informationsaustausch."
+      },
+      "english": {
+        "word": "social media",
+        "phonetic": "/ˌsəʊ.ʃəl ˈmiː.di.ə/",
+        "example": "Social media connects people across continents instantly."
+      },
+      "image_id": "img_tech_social_media"
+    },
+    {
+      "id": "tech_video_call",
+      "category": "technology_digital",
+      "arabic": {
+        "word": "مُكَالَمَةُ الفِيدْيُو",
+        "transliteration": "Mukalamat Al-Video",
+        "notes": "محادثة مرئية ومسموعة عبر الإنترنت"
+      },
+      "german": {
+        "article": "der",
+        "word": "Videoanruf",
+        "plural": "die Videoanrufe",
+        "gender": "masculine",
+        "example": "Wir führen morgen einen gemeinsamen Videoanruf durch."
+      },
+      "english": {
+        "word": "video call",
+        "phonetic": "/ˈvɪd.i.əʊ ˌkɔːl/",
+        "example": "Let's schedule a video call to discuss the project."
+      },
+      "image_id": "img_tech_video_call"
+    }
+  ]
+}
