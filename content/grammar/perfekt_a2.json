@@ -1,0 +1,348 @@
+{
+  "engine_name": "perfekt_partizip_ii_engine",
+  "level": "A2",
+  "title": {
+    "ar": "محرك صيغة الماضي التام (Perfekt & Partizip II)",
+    "de": "Das Perfekt im Deutschen: Bildung mit haben und sein",
+    "en": "German Present Perfect Tense Engine (Perfekt)"
+  },
+  "grammar_rules": {
+    "structure": "Subjekt + Hilfsverb (haben/sein im Präsens) + ... + Partizip II (am Satzende)",
+    "haben_rule": "تستخدم haben مع غالبية الأفعال (الأفعال المتعدية والأنشطة الثابتة).",
+    "sein_rule": "تستخدم sein مع أفعال الانتقال المكاني (Ortswechsel)، تغير الحالة (Zustandswechsel)، والأفعال: sein, bleiben, werden.",
+    "ieren_rule": "الأفعال المنتهية بـ -ieren تصاغ بإضافة t فقط للنهاية دون بادئة ge- (studiert, repariert).",
+    "trennbar_rule": "الأفعال المنفصلة تضع المقطع ge بين البادئة وأصل الفعل (auf-ge-standen, ein-ge-kauft)."
+  },
+  "verbs": [
+    {
+      "id": "perf_lernen",
+      "infinitive": "lernen",
+      "auxiliary": "haben",
+      "partizip_ii": "gelernt",
+      "type": "regelmäßig",
+      "rule": "ge + Stamm + t",
+      "arabic": {
+        "past": "تَعَلَّمَ / دَرَسَ",
+        "present": "يَتَعَلَّمُ",
+        "notes": "فعل متعدٍّ عادي يأخذ الفعل المساعد haben"
+      },
+      "german": {
+        "perfekt_phrase": "hat gelernt",
+        "example": "Ich habe gestern fleißig Deutsch gelernt."
+      },
+      "english": {
+        "past": "learned / studied",
+        "example": "I learned German diligently yesterday."
+      },
+      "image_id": "img_perf_lernen"
+    },
+    {
+      "id": "perf_machen",
+      "infinitive": "machen",
+      "auxiliary": "haben",
+      "partizip_ii": "gemacht",
+      "type": "regelmäßig",
+      "rule": "ge + Stamm + t",
+      "arabic": {
+        "past": "فَعَلَ / عَمِلَ / صَنَعَ",
+        "present": "يَفْعَلُ",
+        "notes": "فعل قياسي شائع يأخذ haben"
+      },
+      "german": {
+        "perfekt_phrase": "hat gemacht",
+        "example": "Er hat seine Hausaufgaben ordentlich gemacht."
+      },
+      "english": {
+        "past": "did / made",
+        "example": "He did his homework properly."
+      },
+      "image_id": "img_perf_machen"
+    },
+    {
+      "id": "perf_kaufen",
+      "infinitive": "kaufen",
+      "auxiliary": "haben",
+      "partizip_ii": "gekauft",
+      "type": "regelmäßig",
+      "rule": "ge + Stamm + t",
+      "arabic": {
+        "past": "اشْتَرَى",
+        "present": "يَشْتَرِي",
+        "notes": "فعل قياسي يأخذ haben"
+      },
+      "german": {
+        "perfekt_phrase": "hat gekauft",
+        "example": "Wir haben frisches Obst auf dem Markt gekauft."
+      },
+      "english": {
+        "past": "bought / purchased",
+        "example": "We bought fresh fruit at the farmers market."
+      },
+      "image_id": "img_perf_kaufen"
+    },
+    {
+      "id": "perf_spielen",
+      "infinitive": "spielen",
+      "auxiliary": "haben",
+      "partizip_ii": "gespielt",
+      "type": "regelmäßig",
+      "rule": "ge + Stamm + t",
+      "arabic": {
+        "past": "لَعِبَ / عَزَفَ",
+        "present": "يَلْعَبُ",
+        "notes": "فعل قياسي يأخذ haben"
+      },
+      "german": {
+        "perfekt_phrase": "hat gespielt",
+        "example": "Die Kinder haben den ganzen Nachmittag im Garten gespielt."
+      },
+      "english": {
+        "past": "played",
+        "example": "The children played in the garden all afternoon."
+      },
+      "image_id": "img_perf_spielen"
+    },
+    {
+      "id": "perf_essen",
+      "infinitive": "essen",
+      "auxiliary": "haben",
+      "partizip_ii": "gegessen",
+      "type": "unregelmäßig",
+      "rule": "ge + Stamm + en (Vokalwechsel)",
+      "arabic": {
+        "past": "أَكَلَ / تَنَاوَلَ الطَّعَامَ",
+        "present": "يَأْكُلُ",
+        "notes": "فعل شاذ يأخذ haben"
+      },
+      "german": {
+        "perfekt_phrase": "hat gegessen",
+        "example": "Sie hat heute Mittag eine leckere Suppe gegessen."
+      },
+      "english": {
+        "past": "ate / has eaten",
+        "example": "She ate a delicious vegetable soup for lunch."
+      },
+      "image_id": "img_perf_essen"
+    },
+    {
+      "id": "perf_trinken",
+      "infinitive": "trinken",
+      "auxiliary": "haben",
+      "partizip_ii": "getrunken",
+      "type": "unregelmäßig",
+      "rule": "ge + Stamm (i->u) + en",
+      "arabic": {
+        "past": "شَرِبَ",
+        "present": "يَشْرَبُ",
+        "notes": "فعل شاذ مع تغير حركة الجذر (i->u)"
+      },
+      "german": {
+        "perfekt_phrase": "hat getrunken",
+        "example": "Er hat morgens zwei Tassen Kaffee getrunken."
+      },
+      "english": {
+        "past": "drank / has drunk",
+        "example": "He drank two cups of hot coffee this morning."
+      },
+      "image_id": "img_perf_trinken"
+    },
+    {
+      "id": "perf_schreiben",
+      "infinitive": "schreiben",
+      "auxiliary": "haben",
+      "partizip_ii": "geschrieben",
+      "type": "unregelmäßig",
+      "rule": "ge + Stamm (ei->ie) + en",
+      "arabic": {
+        "past": "كَتَبَ / دَوَّنَ",
+        "present": "يَكْتُبُ",
+        "notes": "فعل شاذ مع انقلاب (ei) إلى (ie)"
+      },
+      "german": {
+        "perfekt_phrase": "hat geschrieben",
+        "example": "Ich habe gestern einen langen Brief geschrieben."
+      },
+      "english": {
+        "past": "wrote / has written",
+        "example": "I wrote a long letter to my family yesterday."
+      },
+      "image_id": "img_perf_schreiben"
+    },
+    {
+      "id": "perf_lesen",
+      "infinitive": "lesen",
+      "auxiliary": "haben",
+      "partizip_ii": "gelesen",
+      "type": "unregelmäßig",
+      "rule": "ge + Stamm + en",
+      "arabic": {
+        "past": "قَرَأَ / طَالَعَ",
+        "present": "يَقْرَأُ",
+        "notes": "فعل شاذ يأخذ haben"
+      },
+      "german": {
+        "perfekt_phrase": "hat gelesen",
+        "example": "Hast du diesen interessanten Artikel schon gelesen?"
+      },
+      "english": {
+        "past": "read / has read",
+        "example": "Have you already read this fascinating article?"
+      },
+      "image_id": "img_perf_lesen"
+    },
+    {
+      "id": "perf_gehen",
+      "infinitive": "gehen",
+      "auxiliary": "sein",
+      "partizip_ii": "gegangen",
+      "type": "unregelmäßig (Ortswechsel)",
+      "rule": "ist + gegangen (فعل حركة وانتقال مكاني)",
+      "arabic": {
+        "past": "ذَهَبَ / مَشَى",
+        "present": "يَذْهَبُ",
+        "notes": "فعل حركة وانتقال مكاني، يأخذ دائمًا الفعل المساعد sein"
+      },
+      "german": {
+        "perfekt_phrase": "ist gegangen",
+        "example": "Er ist gestern zu Fuß zur Schule gegangen."
+      },
+      "english": {
+        "past": "went / has gone",
+        "example": "He walked to school on foot yesterday."
+      },
+      "image_id": "img_perf_gehen"
+    },
+    {
+      "id": "perf_fahren",
+      "infinitive": "fahren",
+      "auxiliary": "sein",
+      "partizip_ii": "gefahren",
+      "type": "unregelmäßig (Ortswechsel)",
+      "rule": "ist + gefahren (فعل حركة بمَركبة)",
+      "arabic": {
+        "past": "سَافَرَ / انْتَقَلَ بِالمَرْكَبَةِ",
+        "present": "يُسَافِرُ",
+        "notes": "فعل انتقال مكاني، يقترن بالفعل المساعد sein"
+      },
+      "german": {
+        "perfekt_phrase": "ist gefahren",
+        "example": "Wir sind am Wochenende mit dem Zug nach Berlin gefahren."
+      },
+      "english": {
+        "past": "traveled / drove",
+        "example": "We traveled to Berlin by train over the weekend."
+      },
+      "image_id": "img_perf_fahren"
+    },
+    {
+      "id": "perf_kommen",
+      "infinitive": "kommen",
+      "auxiliary": "sein",
+      "partizip_ii": "gekommen",
+      "type": "unregelmäßig (Ortswechsel)",
+      "rule": "ist + gekommen (فعل وصول وحركة)",
+      "arabic": {
+        "past": "جَاءَ / أَتَى / وَصَلَ",
+        "present": "يَأْتِي",
+        "notes": "فعل حركة يقترن بالفعل المساعد sein"
+      },
+      "german": {
+        "perfekt_phrase": "ist gekommen",
+        "example": "Der Gast ist pünktlich um sieben Uhr gekommen."
+      },
+      "english": {
+        "past": "came / has arrived",
+        "example": "The guest arrived promptly at seven o'clock."
+      },
+      "image_id": "img_perf_kommen"
+    },
+    {
+      "id": "perf_bleiben",
+      "infinitive": "bleiben",
+      "auxiliary": "sein",
+      "partizip_ii": "geblieben",
+      "type": "unregelmäßig (Zustand)",
+      "rule": "ist + geblieben (حفظ الحالة)",
+      "arabic": {
+        "past": "بَقِيَ / مَكَثَ / ظَلَّ",
+        "present": "يَبْقَى",
+        "notes": "فعل يدل على الثبات والدوام، ويأخذ sein شذوذًا"
+      },
+      "german": {
+        "perfekt_phrase": "ist geblieben",
+        "example": "Wegen des Regens sind wir den ganzen Tag zu Hause geblieben."
+      },
+      "english": {
+        "past": "stayed / remained",
+        "example": "Because of the heavy rain, we stayed at home all day."
+      },
+      "image_id": "img_perf_bleiben"
+    },
+    {
+      "id": "perf_aufstehen",
+      "infinitive": "aufstehen",
+      "auxiliary": "sein",
+      "partizip_ii": "aufgestanden",
+      "type": "trennbar (Zustandswechsel)",
+      "rule": "Präfix + ge + Stamm + en",
+      "arabic": {
+        "past": "اسْتَيْقَظَ / نَهَضَ مِنَ النَّوْمِ",
+        "present": "يَسْتَيْقِظُ",
+        "notes": "فعل مركب منفصل يدخل المقطع ge بين البادئة وأصل الفعل"
+      },
+      "german": {
+        "perfekt_phrase": "ist aufgestanden",
+        "example": "Sie ist heute schon um fünf Uhr morgens aufgestanden."
+      },
+      "english": {
+        "past": "woke up / got up",
+        "example": "She got up at five o'clock early this morning."
+      },
+      "image_id": "img_perf_aufstehen"
+    },
+    {
+      "id": "perf_einschlafen",
+      "infinitive": "einschlafen",
+      "auxiliary": "sein",
+      "partizip_ii": "eingeschlafen",
+      "type": "trennbar (Zustandswechsel)",
+      "rule": "Präfix + ge + Stamm + en",
+      "arabic": {
+        "past": "غَلَبَهُ النَّوْمُ / اسْتَغْرَقَ فِي النَّوْمِ",
+        "present": "يَنَامُ",
+        "notes": "تغير حالة من اليقظة إلى النوم؛ لذلك يقترن بـ sein"
+      },
+      "german": {
+        "perfekt_phrase": "ist eingeschlafen",
+        "example": "Das Kind ist auf dem Sofa schnell eingeschlafen."
+      },
+      "english": {
+        "past": "fell asleep",
+        "example": "The tired child fell asleep quickly on the sofa."
+      },
+      "image_id": "img_perf_einschlafen"
+    },
+    {
+      "id": "perf_studieren",
+      "infinitive": "studieren",
+      "auxiliary": "haben",
+      "partizip_ii": "studiert",
+      "type": "Verben auf -ieren",
+      "rule": "Stamm + t (بدون ge)",
+      "arabic": {
+        "past": "دَرَسَ بِالجَامِعَةِ / تَخَصَّصَ",
+        "present": "يَدْرُسُ",
+        "notes": "الأفعال المنتهية بـ -ieren لا تأخذ بادئة ge- في الماضي التام"
+      },
+      "german": {
+        "perfekt_phrase": "hat studiert",
+        "example": "Er hat fünf Jahre lang Medizin in Heidelberg studiert."
+      },
+      "english": {
+        "past": "studied at university",
+        "example": "He studied medicine for five years in Heidelberg."
+      },
+      "image_id": "img_perf_studieren"
+    }
+  ]
+}
