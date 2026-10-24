@@ -1,0 +1,179 @@
+{
+  "engine_name": "adjective_declension_engine",
+  "level": "A2",
+  "title": {
+    "ar": "محرك تصريف ونهايات الصفات الشامل (Adjektivdeklination)",
+    "de": "Die Adjektivdeklination: Schwache, Gemischte und Starke Deklination",
+    "en": "German Adjective Declension Engine (Types 1, 2 & 3)"
+  },
+  "golden_rules": {
+    "rule_typ_1": "بعد أداة التعريف (der/die/das): تأخذ الصفة نهاية (-e) في الرفع المفرد والنصب للمؤنث والمحايد فقط، وتأخذ (-en) في جميع الحالات الأخرى (المفعول به المذكر، وكل المجرور Dativ، والمضاف إليه Genitiv، والجمع).",
+    "rule_typ_2": "بعد أداة التنكير والنفي والملكية (ein/kein/mein): نظرًا لأن (ein) لا تحمل علامة جنس في المذكر المرفوع والمحايد، تأخذ الصفة العلامة مباشرة: (ein guter Mann / ein gutes Kind).",
+    "rule_typ_3": "بدون أداة (Nullartikel): ترث الصفة نهاية أداة التعريف الأصلية مباشرة (guter Kaffee, heißen Tee, mit kaltem Wasser, frisches Brot)."
+  },
+  "declension_tables": {
+    "typ_1_definite": {
+      "description": "Nach bestimmtem Artikel (der, die, das, die)",
+      "Nominativ": {
+        "masculine": "-e (der gute Mann)",
+        "feminine": "-e (die gute Frau)",
+        "neuter": "-e (das gute Kind)",
+        "plural": "-en (die guten Kinder)"
+      },
+      "Akkusativ": {
+        "masculine": "-en (den guten Mann)",
+        "feminine": "-e (die gute Frau)",
+        "neuter": "-e (das gute Kind)",
+        "plural": "-en (die guten Kinder)"
+      },
+      "Dativ": {
+        "masculine": "-en (dem guten Mann)",
+        "feminine": "-en (der guten Frau)",
+        "neuter": "-en (dem guten Kind)",
+        "plural": "-en (den guten Kindern)"
+      },
+      "Genitiv": {
+        "masculine": "-en (des guten Mannes)",
+        "feminine": "-en (der guten Frau)",
+        "neuter": "-en (des guten Kindes)",
+        "plural": "-en (der guten Kinder)"
+      }
+    },
+    "typ_2_indefinite": {
+      "description": "Nach unbestimmtem / negativem / Possessivartikel (ein, kein, mein)",
+      "Nominativ": {
+        "masculine": "-er (ein guter Mann)",
+        "feminine": "-e (eine gute Frau)",
+        "neuter": "-es (ein gutes Kind)",
+        "plural": "-en (keine guten Kinder)"
+      },
+      "Akkusativ": {
+        "masculine": "-en (einen guten Mann)",
+        "feminine": "-e (eine gute Frau)",
+        "neuter": "-es (ein gutes Kind)",
+        "plural": "-en (keine guten Kinder)"
+      },
+      "Dativ": {
+        "masculine": "-en (einem guten Mann)",
+        "feminine": "-en (einer guten Frau)",
+        "neuter": "-en (einem guten Kind)",
+        "plural": "-en (keinen guten Kindern)"
+      },
+      "Genitiv": {
+        "masculine": "-en (eines guten Mannes)",
+        "feminine": "-en (einer guten Frau)",
+        "neuter": "-en (eines guten Kindes)",
+        "plural": "-en (keiner guten Kinder)"
+      }
+    },
+    "typ_3_zero_article": {
+      "description": "Ohne Artikel / Nullartikel (bei unzählbaren Nomen und Plural)",
+      "Nominativ": {
+        "masculine": "-er (guter Kaffee)",
+        "feminine": "-e (frische Milch)",
+        "neuter": "-es (frisches Brot)",
+        "plural": "-e (gute Freunde)"
+      },
+      "Akkusativ": {
+        "masculine": "-en (guten Kaffee)",
+        "feminine": "-e (frische Milch)",
+        "neuter": "-es (frisches Brot)",
+        "plural": "-e (gute Freunde)"
+      },
+      "Dativ": {
+        "masculine": "-em (mit gutem Kaffee)",
+        "feminine": "-er (mit frischer Milch)",
+        "neuter": "-em (mit frischem Brot)",
+        "plural": "-en (mit guten Freunden)"
+      },
+      "Genitiv": {
+        "masculine": "-en (guten Kaffees)",
+        "feminine": "-er (frischer Milch)",
+        "neuter": "-en (frischen Brotes)",
+        "plural": "-er (guter Freunde)"
+      }
+    }
+  },
+  "templates": [
+    {
+      "id": "adek_zug",
+      "type": "Typ 1 (Bestimmter Artikel - Nominativ Maskulin)",
+      "german": "Der schnelle Zug fährt pünktlich vom Hauptbahnhof ab.",
+      "arabic": "يَنْطَلِقُ القِطَارُ السَّرِيعُ فِي مَوْعِدِهِ مِنَ المَحَطَّةِ الرَّئِيسِيَّةِ.",
+      "english": "The fast train departs on time from the central station.",
+      "image_id": "img_adek_zug"
+    },
+    {
+      "id": "adek_apfel",
+      "type": "Typ 1 (Bestimmter Artikel - Akkusativ Maskulin)",
+      "german": "Ich kaufe den roten Apfel auf dem Wochenmarkt.",
+      "arabic": "أَشْتَرِي التُّفَّاحَةَ الحَمْرَاءَ مِنْ سُوقِ الأُسْبُوعِ.",
+      "english": "I buy the red apple at the farmers market.",
+      "image_id": "img_adek_apfel"
+    },
+    {
+      "id": "adek_freund",
+      "type": "Typ 2 (Unbestimmter Artikel - Nominativ Maskulin)",
+      "german": "Ein guter Freund hilft immer in schwierigen Zeiten.",
+      "arabic": "الصَّدِيقُ الصَّالِحُ يُسَاعِدُ دَائِمًا فِي الأَوْقَاتِ الصَّعْبَةِ.",
+      "english": "A good friend always helps during difficult times.",
+      "image_id": "img_adek_freund"
+    },
+    {
+      "id": "adek_buch",
+      "type": "Typ 2 (Unbestimmter Artikel - Akkusativ Neutral)",
+      "german": "Sie liest ein interessantes Buch im ruhigen Stadtpark.",
+      "arabic": "تَقْرَأُ كِتَابًا مُثِيرًا لِلِاهْتِمَامِ فِي حَدِيقَةِ المَدِينَةِ الهَادِئَةِ.",
+      "english": "She reads an interesting book in the quiet city park.",
+      "image_id": "img_adek_buch"
+    },
+    {
+      "id": "adek_wohnung",
+      "type": "Typ 2 (Unbestimmter Artikel - Dativ Feminin)",
+      "german": "Wir wohnen in einer schönen großen Wohnung im Zentrum.",
+      "arabic": "نَسْكُنُ فِي شَقَّةٍ جَمِيلَةٍ وَكَبِيرَةٍ فِي وَسَطِ المَدِينَةِ.",
+      "english": "We live in a beautiful large apartment in the city center.",
+      "image_id": "img_adek_wohnung"
+    },
+    {
+      "id": "adek_kaffee",
+      "type": "Typ 3 (Nullartikel - Akkusativ Maskulin)",
+      "german": "Morgens trinke ich gern heißen schwarzen Kaffee.",
+      "arabic": "أُحِبُّ شُرْبَ القَهْوَةِ السَّوْدَاءِ السَّاخِنَةِ صَبَاحًا.",
+      "english": "In the morning, I enjoy drinking hot black coffee.",
+      "image_id": "img_adek_kaffee"
+    },
+    {
+      "id": "adek_wasser",
+      "type": "Typ 3 (Nullartikel - Nominativ Neutral)",
+      "german": "Frisches kaltes Wasser ist im Sommer besonders erfrischend.",
+      "arabic": "المَاءُ البَارِدُ العَذْبُ مُنْعِشٌ خُصُوصًا فِي الصَّيْفِ.",
+      "english": "Fresh cold water is especially refreshing in summer.",
+      "image_id": "img_adek_wasser"
+    },
+    {
+      "id": "adek_wetter",
+      "type": "Typ 3 (Nullartikel - Dativ Neutral)",
+      "german": "Bei schönem sonnigem Wetter machen wir einen Ausflug.",
+      "arabic": "فِي الطَّقْسِ الجَمِيلِ وَالمُشْمِسِ نَقُومُ بِنُزْهَةٍ.",
+      "english": "In nice sunny weather, we go on an excursion.",
+      "image_id": "img_adek_wetter"
+    },
+    {
+      "id": "adek_kinder",
+      "type": "Typ 1 (Bestimmter Artikel - Nominativ Plural)",
+      "german": "Die kleinen Kinder spielen fröhlich auf dem Spielplatz.",
+      "arabic": "الأَطْفَالُ الصِّغَارُ يَلْعَبُونَ بِمَرَحٍ فِي سَاحَةِ الأَلْعَابِ.",
+      "english": "The small children are playing happily on the playground.",
+      "image_id": "img_adek_kinder"
+    },
+    {
+      "id": "adek_rosen",
+      "type": "Typ 2 Dativ + Typ 3 Akkusativ Plural",
+      "german": "Er schenkt seiner lieben Mutter duftende rote Rosen.",
+      "arabic": "يُهْدِي أُمَّهُ الحَبِيبَةَ وُرُودًا حَمْرَاءَ عَطِرَةً.",
+      "english": "He gives his dear mother fragrant red roses.",
+      "image_id": "img_adek_rosen"
+    }
+  ]
+}
