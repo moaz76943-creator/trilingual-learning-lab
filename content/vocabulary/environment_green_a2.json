@@ -1,0 +1,561 @@
+{
+  "category_id": "environment_green",
+  "category_name": {
+    "ar": "البيئة وإعادة التدوير والحياة الخضراء",
+    "de": "Umwelt & Grünes Leben",
+    "en": "Environment & Green Life"
+  },
+  "level": "A2",
+  "concepts": [
+    {
+      "id": "env_umwelt",
+      "category": "environment_green",
+      "arabic": {
+        "word": "البِيئَةُ / المُحِيطُ الطَّبِيعِيُّ",
+        "transliteration": "Al-Bee'ah",
+        "notes": "المحيط الحيوي الذي تعيش فيه الكائنات"
+      },
+      "german": {
+        "article": "die",
+        "word": "Umwelt",
+        "plural": "die Umwelten",
+        "gender": "feminine",
+        "example": "Wir müssen unsere Umwelt für die Zukunft schützen."
+      },
+      "english": {
+        "word": "environment",
+        "phonetic": "/ɪnˈvaɪ.rən.mənt/",
+        "example": "Protecting our natural environment is a global responsibility."
+      },
+      "image_id": "img_env_umwelt"
+    },
+    {
+      "id": "env_naturschutz",
+      "category": "environment_green",
+      "arabic": {
+        "word": "حِمَايَةُ الطَّبِيعَةِ",
+        "transliteration": "Himayat At-Tabee'ah",
+        "notes": "صيانة الموارد الطبيعية والحياة البرية"
+      },
+      "german": {
+        "article": "der",
+        "word": "Naturschutz",
+        "plural": "die Naturschutze",
+        "gender": "masculine",
+        "example": "Der Naturschutz engagiert sich für den Erhalt seltener Tierarten."
+      },
+      "english": {
+        "word": "nature conservation",
+        "phonetic": "/ˈneɪ.tʃər ˌkɒn.səˈveɪ.ʃən/",
+        "example": "Nature conservation projects safeguard biodiversity."
+      },
+      "image_id": "img_env_naturschutz"
+    },
+    {
+      "id": "env_klimawandel",
+      "category": "environment_green",
+      "arabic": {
+        "word": "تَغَيُّرُ المُنَاخِ",
+        "transliteration": "Taghayyur Al-Munakh",
+        "notes": "التحول طويل الأجل في درجات الحرارة والطقس"
+      },
+      "german": {
+        "article": "der",
+        "word": "Klimawandel",
+        "plural": "die Klimawandel",
+        "gender": "masculine",
+        "example": "Der weltweite Klimawandel verursacht extreme Wetterereignisse."
+      },
+      "english": {
+        "word": "climate change",
+        "phonetic": "/ˈklaɪ.mət ˌtʃeɪndʒ/",
+        "example": "Global climate change demands urgent sustainable solutions."
+      },
+      "image_id": "img_env_klimawandel"
+    },
+    {
+      "id": "env_verschmutzung",
+      "category": "environment_green",
+      "arabic": {
+        "word": "التَّلَوُّثُ البِيئِيُّ",
+        "transliteration": "At-Talawwuth Al-Bee'i",
+        "notes": "إدخال المواد الضارة إلى الهواء أو الماء أو التربة"
+      },
+      "german": {
+        "article": "die",
+        "word": "Umweltverschmutzung",
+        "plural": "die Umweltverschmutzungen",
+        "gender": "feminine",
+        "example": "Plastikmüll im Meer führt zu schwerer Umweltverschmutzung."
+      },
+      "english": {
+        "word": "environmental pollution",
+        "phonetic": "/pəˈluː.ʃən/",
+        "example": "Air and water pollution pose major threats to public health."
+      },
+      "image_id": "img_env_verschmutzung"
+    },
+    {
+      "id": "env_muell",
+      "category": "environment_green",
+      "arabic": {
+        "word": "النِّفَايَاتُ / القُمَامَةُ",
+        "transliteration": "An-Nifayat",
+        "notes": "المخلفات المنزلية والصناعية"
+      },
+      "german": {
+        "article": "der",
+        "word": "Müll",
+        "plural": "die Mülle",
+        "gender": "masculine",
+        "example": "Bitte wirf deinen Müll immer in die richtige Tonne."
+      },
+      "english": {
+        "word": "garbage / waste",
+        "phonetic": "/ˈɡɑː.bɪdʒ/",
+        "example": "Please dispose of domestic waste responsibly."
+      },
+      "image_id": "img_env_muell"
+    },
+    {
+      "id": "env_recycling",
+      "category": "environment_green",
+      "arabic": {
+        "word": "إِعَادَةُ التَّدْوِيرِ",
+        "transliteration": "I'adat At-Tadweer",
+        "notes": "تحويل المخلفات إلى مواد ومنتجات جديدة"
+      },
+      "german": {
+        "article": "das",
+        "word": "Recycling",
+        "plural": "die Recyclings",
+        "gender": "neuter",
+        "example": "Effektives Recycling spart wertvolle Rohstoffe und Energie."
+      },
+      "english": {
+        "word": "recycling",
+        "phonetic": "/ˌriːˈsaɪ.klɪŋ/",
+        "example": "Recycling paper and glass conserves vital natural resources."
+      },
+      "image_id": "img_env_recycling"
+    },
+    {
+      "id": "env_muelltrennung",
+      "category": "environment_green",
+      "arabic": {
+        "word": "فَرْزُ النِّفَايَاتِ",
+        "transliteration": "Farz An-Nifayat",
+        "notes": "فصل المخلفات حسب نوعها لتسهيل تدويرها"
+      },
+      "german": {
+        "article": "die",
+        "word": "Mülltrennung",
+        "plural": "die Mülltrennungen",
+        "gender": "feminine",
+        "example": "In Deutschland ist eine gründliche Mülltrennung sehr wichtig."
+      },
+      "english": {
+        "word": "waste separation",
+        "phonetic": "/weɪst ˌsep.ərˈeɪ.ʃən/",
+        "example": "Careful waste separation makes municipal recycling efficient."
+      },
+      "image_id": "img_env_muelltrennung"
+    },
+    {
+      "id": "env_plastik",
+      "category": "environment_green",
+      "arabic": {
+        "word": "البِلَاسْتِيكُ / اللَّدَائِنُ",
+        "transliteration": "Al-Blastik",
+        "notes": "المادة الاصطناعية بطيئة التحلل"
+      },
+      "german": {
+        "article": "das",
+        "word": "Plastik",
+        "plural": "die Plastike",
+        "gender": "neuter",
+        "example": "Wir sollten den Konsum von Einweg-Plastik reduzieren."
+      },
+      "english": {
+        "word": "plastic",
+        "phonetic": "/ˈplæs.tɪk/",
+        "example": "Reducing single-use plastic prevents marine pollution."
+      },
+      "image_id": "img_env_plastik"
+    },
+    {
+      "id": "env_altglas",
+      "category": "environment_green",
+      "arabic": {
+        "word": "حَاوِيَةُ الزُّجَاجِ المُسْتَعْمَلِ",
+        "transliteration": "Hawiyat Az-Zujaj",
+        "notes": "حاوية مخصصة لجمع الزجاج الفارغ للتدوير"
+      },
+      "german": {
+        "article": "der",
+        "word": "Altglascontainer",
+        "plural": "die Altglascontainer",
+        "gender": "masculine",
+        "example": "Grüne und weiße Flaschen kommen in getrennte Altglascontainer."
+      },
+      "english": {
+        "word": "bottle bank / glass container",
+        "phonetic": "/ˈbɒt.əl bæŋk/",
+        "example": "Drop empty glass bottles into the designated bottle bank."
+      },
+      "image_id": "img_env_altglas"
+    },
+    {
+      "id": "env_altpapier",
+      "category": "environment_green",
+      "arabic": {
+        "word": "نِفَايَاتُ الوَرَقِ",
+        "transliteration": "Nifayat Al-Waraq",
+        "notes": "الورق والكرتون القديم المخصص للتدوير"
+      },
+      "german": {
+        "article": "das",
+        "word": "Altpapier",
+        "plural": "die Altpapiere",
+        "gender": "neuter",
+        "example": "Zeitungen und Pappkartons gehören in die blaue Tonne für Altpapier."
+      },
+      "english": {
+        "word": "waste paper",
+        "phonetic": "/weɪst ˈpeɪ.pər/",
+        "example": "Recycle old cardboard and newspapers in the paper bin."
+      },
+      "image_id": "img_env_altpapier"
+    },
+    {
+      "id": "env_solarenergie",
+      "category": "environment_green",
+      "arabic": {
+        "word": "الطَّاقَةُ الشَّمْسِيَّةُ",
+        "transliteration": "At-Taqah Ash-Shamsiyyah",
+        "notes": "الكهرباء المولدة من أشعة الشمس"
+      },
+      "german": {
+        "article": "die",
+        "word": "Solarenergie",
+        "plural": "die Solarenergien",
+        "gender": "feminine",
+        "example": "Viele Hausbesitzer installieren Solaranlagen zur Stromerzeugung."
+      },
+      "english": {
+        "word": "solar energy",
+        "phonetic": "/ˈsəʊ.lər ˈen.ə.dʒi/",
+        "example": "Solar energy provides clean and renewable electricity."
+      },
+      "image_id": "img_env_solarenergie"
+    },
+    {
+      "id": "env_windenergie",
+      "category": "environment_green",
+      "arabic": {
+        "word": "طَاقَةُ الرِّيَاحِ",
+        "transliteration": "Taqat Ar-Riyah",
+        "notes": "توليد الكهرباء عبر توربينات الرياح"
+      },
+      "german": {
+        "article": "die",
+        "word": "Windenergie",
+        "plural": "die Windenergien",
+        "gender": "feminine",
+        "example": "Große Windräder auf den Feldern erzeugen saubere Windenergie."
+      },
+      "english": {
+        "word": "wind power / energy",
+        "phonetic": "/wɪnd ˈen.ə.dʒi/",
+        "example": "Modern wind turbines harness kinetic wind power efficiently."
+      },
+      "image_id": "img_env_windenergie"
+    },
+    {
+      "id": "env_erneuerbar",
+      "category": "environment_green",
+      "arabic": {
+        "word": "الطَّاقَةُ المُتَجَدِّدَةُ",
+        "transliteration": "At-Taqah Al-Mutajaddidah",
+        "notes": "الطاقة المستمدة من مصادر طبيعية لا تنضب"
+      },
+      "german": {
+        "article": "die",
+        "word": "erneuerbare Energie",
+        "plural": "die erneuerbaren Energien",
+        "gender": "feminine",
+        "example": "Die Zukunft gehört den erneuerbaren Energien."
+      },
+      "english": {
+        "word": "renewable energy",
+        "phonetic": "/rɪˈnjuː.ə.bəl ˈen.ə.dʒi/",
+        "example": "Transitioning to renewable energy mitigates carbon emissions."
+      },
+      "image_id": "img_env_erneuerbar"
+    },
+    {
+      "id": "env_bio_lebensmittel",
+      "category": "environment_green",
+      "arabic": {
+        "word": "الأَغْذِيَةُ العُضْوِيَّةُ",
+        "transliteration": "Al-Aghthiyah Al-'Udwiyyah",
+        "notes": "أطعمة مزروعة بدون مبيدات كيميائية"
+      },
+      "german": {
+        "article": "die",
+        "word": "Bio-Lebensmittel",
+        "plural": "die Bio-Lebensmittel",
+        "gender": "plural",
+        "example": "Ich kaufe Bio-Äpfel und Gemüse direkt beim Bio-Bauern."
+      },
+      "english": {
+        "word": "organic food",
+        "phonetic": "/ɔːˈɡæn.ɪk fuːd/",
+        "example": "Organic food is cultivated without synthetic pesticides."
+      },
+      "image_id": "img_env_bio_lebensmittel"
+    },
+    {
+      "id": "env_wald",
+      "category": "environment_green",
+      "arabic": {
+        "word": "الغَابَةُ",
+        "transliteration": "Al-Ghabah",
+        "notes": "رئة الأرض والمساحة الشجرية الكثيفة"
+      },
+      "german": {
+        "article": "der",
+        "word": "Wald",
+        "plural": "die Wälder",
+        "gender": "masculine",
+        "example": "Ein Spaziergang durch den grünen Wald ist erholsam."
+      },
+      "english": {
+        "word": "forest",
+        "phonetic": "/ˈfɒr.ɪst/",
+        "example": "Temperate forests absorb vast amounts of carbon dioxide."
+      },
+      "image_id": "img_env_wald"
+    },
+    {
+      "id": "env_baum",
+      "category": "environment_green",
+      "arabic": {
+        "word": "الشَّجَرَةُ",
+        "transliteration": "Ash-Shajarah",
+        "notes": "النبات الخشبي المعمر منتج الأكسجين"
+      },
+      "german": {
+        "article": "der",
+        "word": "Baum",
+        "plural": "die Bäume",
+        "gender": "masculine",
+        "example": "Die Schüler haben im Schulgarten einen neuen Baum gepflanzt."
+      },
+      "english": {
+        "word": "tree",
+        "phonetic": "/triː/",
+        "example": "Planting a native tree helps restore local wildlife habitats."
+      },
+      "image_id": "img_env_baum"
+    },
+    {
+      "id": "env_ozean",
+      "category": "environment_green",
+      "arabic": {
+        "word": "المُحِيطُ المَائِيُّ",
+        "transliteration": "Al-Muheet",
+        "notes": "المسطح المائي المالح الشاسع"
+      },
+      "german": {
+        "article": "der",
+        "word": "Ozean",
+        "plural": "die Ozeane",
+        "gender": "masculine",
+        "example": "Die Ozeane regulieren das gesamte Weltklima."
+      },
+      "english": {
+        "word": "ocean",
+        "phonetic": "/ˈəʊ.ʃən/",
+        "example": "Healthy oceans are vital for climate balance and marine life."
+      },
+      "image_id": "img_env_ozean"
+    },
+    {
+      "id": "env_saubere_luft",
+      "category": "environment_green",
+      "arabic": {
+        "word": "الهَوَاءُ النَّقِيُّ",
+        "transliteration": "Al-Hawa' An-Naqiyy",
+        "notes": "هواء خالٍ من الدخان والانبعاثات الضارة"
+      },
+      "german": {
+        "article": "die",
+        "word": "saubere Luft",
+        "plural": "die sauberen Lüfte",
+        "gender": "feminine",
+        "example": "In den Bergen genießt man herrlich saubere Luft."
+      },
+      "english": {
+        "word": "clean air",
+        "phonetic": "/kliːn eər/",
+        "example": "Every citizen has the right to breathe clean air."
+      },
+      "image_id": "img_env_saubere_luft"
+    },
+    {
+      "id": "env_trinkwasser",
+      "category": "environment_green",
+      "arabic": {
+        "word": "مِيَاهُ الشُّرْبِ العَذْبَةُ",
+        "transliteration": "Miyah Ash-Shurb",
+        "notes": "الماء الصالح للاستهلاك الآدمي"
+      },
+      "german": {
+        "article": "das",
+        "word": "Trinkwasser",
+        "plural": "die Trinkwasser",
+        "gender": "neuter",
+        "example": "Sauberes Trinkwasser ist ein kostbares Gut auf der Welt."
+      },
+      "english": {
+        "word": "drinking water",
+        "phonetic": "/ˈdrɪŋ.kɪŋ ˌwɔː.tər/",
+        "example": "Access to clean drinking water is essential for human life."
+      },
+      "image_id": "img_env_trinkwasser"
+    },
+    {
+      "id": "env_energiesparen",
+      "category": "environment_green",
+      "arabic": {
+        "word": "تَوْفِيرُ الطَّاقَةِ / التَّرْشِيدُ",
+        "transliteration": "Tawfeer At-Taqah",
+        "notes": "الحد من استهلاك الكهرباء والوقود"
+      },
+      "german": {
+        "article": "das",
+        "word": "Energiesparen",
+        "plural": "die Energiesparen",
+        "gender": "neuter",
+        "example": "LED-Lampen helfen beim täglichen Energiesparen im Haushalt."
+      },
+      "english": {
+        "word": "energy saving",
+        "phonetic": "/ˈen.ə.dʒi ˈseɪ.vɪŋ/",
+        "example": "Smart energy saving lowers utility bills and emissions."
+      },
+      "image_id": "img_env_energiesparen"
+    },
+    {
+      "id": "env_nachhaltigkeit",
+      "category": "environment_green",
+      "arabic": {
+        "word": "الِاسْتِدَامَةُ",
+        "transliteration": "Al-Istidamah",
+        "notes": "تلبية احتياجات الحاضر دون الإضرار بالأجيال القادمة"
+      },
+      "german": {
+        "article": "die",
+        "word": "Nachhaltigkeit",
+        "plural": "die Nachhaltigkeiten",
+        "gender": "feminine",
+        "example": "Nachhaltigkeit steht im Mittelpunkt moderner Architektur."
+      },
+      "english": {
+        "word": "sustainability",
+        "phonetic": "/səˌsteɪ.nəˈbɪl.ə.ti/",
+        "example": "Long-term environmental sustainability requires collective action."
+      },
+      "image_id": "img_env_nachhaltigkeit"
+    },
+    {
+      "id": "env_radweg",
+      "category": "environment_green",
+      "arabic": {
+        "word": "مَسَارُ الدَّرَّاجَاتِ الهَوَائِيَّةِ",
+        "transliteration": "Masar Ad-Darrajat",
+        "notes": "طريق مخصص لراكبي الدراجات للحد من انبعاثات السيارات"
+      },
+      "german": {
+        "article": "der",
+        "word": "Radweg",
+        "plural": "die Radwege",
+        "gender": "masculine",
+        "example": "Der neue breite Radweg verbindet den Bahnhof mit dem Stadtzentrum."
+      },
+      "english": {
+        "word": "cycle lane / bicycle path",
+        "phonetic": "/ˈbaɪ.sɪ.kəl pɑːθ/",
+        "example": "Commuting via the protected bicycle path is fast and green."
+      },
+      "image_id": "img_env_radweg"
+    },
+    {
+      "id": "env_umweltfreundlich",
+      "category": "environment_green",
+      "arabic": {
+        "word": "صَدِيقٌ لِلْبِيئَةِ",
+        "transliteration": "Sadeeq Lil-Bee'ah",
+        "notes": "لا يسبب ضررًا للطبيعة والمناخ"
+      },
+      "german": {
+        "article": "",
+        "word": "umweltfreundlich",
+        "plural": "",
+        "gender": "adjective",
+        "example": "Zugfahren ist eine umweltfreundliche Alternative zum Flugzeug."
+      },
+      "english": {
+        "word": "eco-friendly / green",
+        "phonetic": "/ˌiː.kəʊˈfrend.li/",
+        "example": "Public transit is an eco-friendly commuting option."
+      },
+      "image_id": "img_env_umweltfreundlich"
+    },
+    {
+      "id": "env_schuetzen",
+      "category": "environment_green",
+      "arabic": {
+        "word": "يَحْمِي / يُحَافِظُ عَلَى",
+        "transliteration": "Yahmee",
+        "notes": "يقي الطبيعة من الأذى والتدمير"
+      },
+      "german": {
+        "article": "",
+        "word": "schützen",
+        "plural": "",
+        "gender": "verb",
+        "example": "Gemeinsam können wir unseren blauen Planeten schützen."
+      },
+      "english": {
+        "word": "to protect / conserve",
+        "phonetic": "/prəˈtekt/",
+        "example": "Together we can protect our fragile ecosystems."
+      },
+      "image_id": "img_env_schuetzen"
+    },
+    {
+      "id": "env_planet",
+      "category": "environment_green",
+      "arabic": {
+        "word": "كَوْكَبُ الأَرْضِ / كَوْكَبُنَا",
+        "transliteration": "Kawkab Al-Ard",
+        "notes": "الموطن المشترك لجميع الكائنات الحية"
+      },
+      "german": {
+        "article": "der",
+        "word": "Planet",
+        "plural": "die Planeten",
+        "gender": "masculine (n-Deklination)",
+        "example": "Es gibt keinen zweiten Planeten; wir haben nur diese eine Erde."
+      },
+      "english": {
+        "word": "planet Earth",
+        "phonetic": "/ˈplæn.ɪt/",
+        "example": "There is no planet B; caring for Earth is paramount."
+      },
+      "image_id": "img_env_planet"
+    }
+  ]
+}
