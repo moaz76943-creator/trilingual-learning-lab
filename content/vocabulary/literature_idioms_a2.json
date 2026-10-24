@@ -1,0 +1,561 @@
+{
+  "category_id": "literature_idioms",
+  "category_name": {
+    "ar": "الأدب والشعر والتعبيرات",
+    "de": "Literatur, Poesie & Redewendungen",
+    "en": "Literature, Poetry & Idioms"
+  },
+  "level": "A2",
+  "concepts": [
+    {
+      "id": "lit_literatur",
+      "category": "literature_idioms",
+      "arabic": {
+        "word": "الأَدَبُ الرَّفِيعُ",
+        "transliteration": "Al-Adab",
+        "notes": "الإنتاج الفكري الإبداعي المكتوب شعرًا أو نثرًا"
+      },
+      "german": {
+        "article": "die",
+        "word": "Literatur",
+        "plural": "die Literaturen",
+        "gender": "feminine",
+        "example": "Klassische deutsche Literatur begeistert Leser auf der ganzen Welt."
+      },
+      "english": {
+        "word": "literature",
+        "phonetic": "/ˈlɪt.rə.tʃər/",
+        "example": "World literature offers profound perspectives on universal human nature."
+      },
+      "image_id": "img_lit_literatur"
+    },
+    {
+      "id": "lit_poesie",
+      "category": "literature_idioms",
+      "arabic": {
+        "word": "الشِّعْرُ / الفَنُّ الشِّعْرِيُّ",
+        "transliteration": "Ash-Shi'r",
+        "notes": "التعبير الوجداني الإيقاعي البليغ"
+      },
+      "german": {
+        "article": "die",
+        "word": "Poesie",
+        "plural": "die Poesien",
+        "gender": "feminine",
+        "example": "Die emotionale Poesie berührt die tiefsten Saiten des Herzens."
+      },
+      "english": {
+        "word": "poetry",
+        "phonetic": "/ˈpəʊ.ɪ.tri/",
+        "example": "Lyrical poetry conveys deep sorrow, joy, and transcendent wonder."
+      },
+      "image_id": "img_lit_poesie"
+    },
+    {
+      "id": "lit_gedicht",
+      "category": "literature_idioms",
+      "arabic": {
+        "word": "القَصِيدَةُ الشِّعْرِيَّةُ",
+        "transliteration": "Al-Qaseedah",
+        "notes": "النص الأدبي المنظوم في أبيات موزونة"
+      },
+      "german": {
+        "article": "das",
+        "word": "Gedicht",
+        "plural": "die Gedichte",
+        "gender": "neuter",
+        "example": "In der Schule lernten die Schüler Goethes berühmtes Gedicht auswendig."
+      },
+      "english": {
+        "word": "poem",
+        "phonetic": "/ˈpəʊ.ɪm/",
+        "example": "The actress recited a moving romantic poem with great passion."
+      },
+      "image_id": "img_lit_gedicht"
+    },
+    {
+      "id": "lit_dichter",
+      "category": "literature_idioms",
+      "arabic": {
+        "word": "الشَّاعِرُ / الأَدِيبُ المُنْشِدُ",
+        "transliteration": "Ash-Sha'ir",
+        "notes": "منشئ الشعر وصائغ الأبيات"
+      },
+      "german": {
+        "article": "der",
+        "word": "Dichter",
+        "plural": "die Dichter",
+        "gender": "masculine",
+        "example": "Der gefeierte Dichter verfasste Verse über Freiheit und Gerechtigkeit."
+      },
+      "english": {
+        "word": "poet",
+        "phonetic": "/ˈpəʊ.ɪt/",
+        "example": "The classical poet composed timeless stanzas about nature and peace."
+      },
+      "image_id": "img_lit_dichter"
+    },
+    {
+      "id": "lit_roman",
+      "category": "literature_idioms",
+      "arabic": {
+        "word": "الرِّوَايَةُ الأَدَبِيَّةُ",
+        "transliteration": "Ar-Riwayah",
+        "notes": "العمل النثري السردي الطويل المتعدد الشخصيات"
+      },
+      "german": {
+        "article": "der",
+        "word": "Roman",
+        "plural": "die Romane",
+        "gender": "masculine",
+        "example": "Dieser historische Roman stand monatelang an der Spitze der Bestsellerlisten."
+      },
+      "english": {
+        "word": "novel",
+        "phonetic": "/ˈnɒv.əl/",
+        "example": "She finished reading a gripping historical mystery novel."
+      },
+      "image_id": "img_lit_roman"
+    },
+    {
+      "id": "lit_erzaehlung",
+      "category": "literature_idioms",
+      "arabic": {
+        "word": "القِصَّةُ / الحِكَايَةُ السَّرْدِيَّةُ",
+        "transliteration": "Al-Qissah",
+        "notes": "العمل السردي المتوسط أو القصير"
+      },
+      "german": {
+        "article": "die",
+        "word": "Erzählung",
+        "plural": "die Erzählungen",
+        "gender": "feminine",
+        "example": "Die spannende Erzählung schildert das Leben im mittelalterlichen Wien."
+      },
+      "english": {
+        "word": "short story / narrative",
+        "phonetic": "/ˈnær.ə.tɪv/",
+        "example": "The engaging narrative captures the essence of rural childhood."
+      },
+      "image_id": "img_lit_erzaehlung"
+    },
+    {
+      "id": "lit_maerchen",
+      "category": "literature_idioms",
+      "arabic": {
+        "word": "حِكَايَةٌ خُرَافِيَّةٌ / قِصَّةٌ شَعْبِيَّةٌ",
+        "transliteration": "Al-Hikayah Ash-Sha'biyyah",
+        "notes": "القصص التراثية الخيالية (كحكايات الأخوين غريم وألف ليلة وليلة)"
+      },
+      "german": {
+        "article": "das",
+        "word": "Märchen",
+        "plural": "die Märchen",
+        "gender": "neuter",
+        "example": "Die Gebrüder Grimm sammelten weltbekannte deutsche Märchen."
+      },
+      "english": {
+        "word": "fairy tale",
+        "phonetic": "/ˈfeə.ri ˌteɪl/",
+        "example": "Traditional fairy tales teach ethical lessons through whimsical folklore."
+      },
+      "image_id": "img_lit_maerchen"
+    },
+    {
+      "id": "lit_sprichwort",
+      "category": "literature_idioms",
+      "arabic": {
+        "word": "المَثَلُ السَّائِرُ / الحِكْمَةُ المَأْثُورَةُ",
+        "transliteration": "Al-Mathal",
+        "notes": "قول موجز يلخص حكمة مجتمعية متوارثة"
+      },
+      "german": {
+        "article": "das",
+        "word": "Sprichwort",
+        "plural": "die Sprichwörter",
+        "gender": "neuter",
+        "example": "Das deutsche Sprichwort 'Morgenstund hat Gold im Mund' lobt das Früheaufstehen."
+      },
+      "english": {
+        "word": "proverb / saying",
+        "phonetic": "/ˈprɒv.ɜːb/",
+        "example": "An ancient proverb reminds us that actions speak louder than words."
+      },
+      "image_id": "img_lit_sprichwort"
+    },
+    {
+      "id": "lit_redewendung",
+      "category": "literature_idioms",
+      "arabic": {
+        "word": "التَّعْبِيرُ الِاصْطِلَاحِيُّ المَجَازِيُّ",
+        "transliteration": "At-Ta'beer Al-Istilahi",
+        "notes": "تركيب لغوي يحمل معنى كنائيًا غير حرفي"
+      },
+      "german": {
+        "article": "die",
+        "word": "Redewendung",
+        "plural": "die Redewendungen",
+        "gender": "feminine",
+        "example": "Um Deutsch wie ein Muttersprachler zu sprechen, muss man gängige Redewendungen lernen."
+      },
+      "english": {
+        "word": "idiom / idiomatic expression",
+        "phonetic": "/ˈɪd.i.əm/",
+        "example": "Mastering cultural idioms is crucial for natural conversational fluency."
+      },
+      "image_id": "img_lit_redewendung"
+    },
+    {
+      "id": "lit_metapher",
+      "category": "literature_idioms",
+      "arabic": {
+        "word": "الِاسْتِعَارَةُ / التَّشْبِيهُ البَلِيغُ",
+        "transliteration": "Al-Isti'arah",
+        "notes": "استعمال اللفظ في غير معناه الحقيقي لعلاقة المشابهة"
+      },
+      "german": {
+        "article": "die",
+        "word": "Metapher",
+        "plural": "die Metaphern",
+        "gender": "feminine",
+        "example": "'Ein Meer von Möglichkeiten' ist eine wunderschöne poetische Metapher."
+      },
+      "english": {
+        "word": "metaphor",
+        "phonetic": "/ˈmet.ə.fɔːr/",
+        "example": "The author employed a striking visual metaphor in the opening chapter."
+      },
+      "image_id": "img_lit_metapher"
+    },
+    {
+      "id": "lit_reim",
+      "category": "literature_idioms",
+      "arabic": {
+        "word": "القَافِيَةُ / الجِنَاسُ الصَّوْتِيُّ",
+        "transliteration": "Al-Qafiyah",
+        "notes": "توافق أواخر الكلمات صوتيًا في الشعر"
+      },
+      "german": {
+        "article": "der",
+        "word": "Reim",
+        "plural": "die Reime",
+        "gender": "masculine",
+        "example": "Der melodische Reim verleiht den Versen einen harmonischen Klang."
+      },
+      "english": {
+        "word": "rhyme",
+        "phonetic": "/raɪm/",
+        "example": "The rhythmic rhyme structure creates an enchanting poetic cadence."
+      },
+      "image_id": "img_lit_reim"
+    },
+    {
+      "id": "lit_vers",
+      "category": "literature_idioms",
+      "arabic": {
+        "word": "البَيْتُ الشِّعْرِيُّ / الشَّطْرُ",
+        "transliteration": "Al-Bayt Ash-Shi'ri",
+        "notes": "السطر الشعري الواحد المكون للمنظومة"
+      },
+      "german": {
+        "article": "der",
+        "word": "Vers",
+        "plural": "die Verse",
+        "gender": "masculine",
+        "example": "Dieser lyrische Vers drückt tiefes Heimweh und Sehnsucht aus."
+      },
+      "english": {
+        "word": "verse / stanza line",
+        "phonetic": "/vɜːs/",
+        "example": "Each poetic verse resonates with emotional authenticity."
+      },
+      "image_id": "img_lit_vers"
+    },
+    {
+      "id": "lit_drama",
+      "category": "literature_idioms",
+      "arabic": {
+        "word": "الدِّرَامَا / المَسْرَحِيَّةُ",
+        "transliteration": "Ad-Drama",
+        "notes": "النص الأدبي المكتوب ليمثله الممثلون على خشبة المسرح"
+      },
+      "german": {
+        "article": "das",
+        "word": "Drama",
+        "plural": "die Dramen",
+        "gender": "neuter",
+        "example": "Schillers berühmtes Drama 'Wilhelm Tell' feiert den Freiheitskampf."
+      },
+      "english": {
+        "word": "drama / theatrical play",
+        "phonetic": "/ˈdrɑː.mə/",
+        "example": "The classical drama portrays political intrigue and sacrifice."
+      },
+      "image_id": "img_lit_drama"
+    },
+    {
+      "id": "lit_tragoedie",
+      "category": "literature_idioms",
+      "arabic": {
+        "word": "المَأْسَاةُ / التَّرَاجِيدْيَا",
+        "transliteration": "Al-Ma'sah",
+        "notes": "المسرحية الحزينة ذات النهاية المفجعة"
+      },
+      "german": {
+        "article": "die",
+        "word": "Tragödie",
+        "plural": "die Tragödien",
+        "gender": "feminine",
+        "example": "Shakespeares 'Hamlet' gilt als eine der größten Tragödien der Weltliteratur."
+      },
+      "english": {
+        "word": "tragedy",
+        "phonetic": "/ˈtrædʒ.ə.di/",
+        "example": "The ancient Greek tragedy depicts the conflict between fate and duty."
+      },
+      "image_id": "img_lit_tragoedie"
+    },
+    {
+      "id": "lit_komoedie",
+      "category": "literature_idioms",
+      "arabic": {
+        "word": "المَلْهَاةُ / الكُومِيدْيَا",
+        "transliteration": "Al-Malhah",
+        "notes": "المسرحية الهزلية ذات النهاية السعيدة والفكاهة"
+      },
+      "german": {
+        "article": "die",
+        "word": "Komödie",
+        "plural": "die Komödien",
+        "gender": "feminine",
+        "example": "Die heitere Komödie brachte das gesamte Theaterpublikum zum Lachen."
+      },
+      "english": {
+        "word": "comedy",
+        "phonetic": "/ˈkɒm.ə.di/",
+        "example": "The witty romantic comedy delighted the audience with clever satire."
+      },
+      "image_id": "img_lit_komoedie"
+    },
+    {
+      "id": "lit_kapitel",
+      "category": "literature_idioms",
+      "arabic": {
+        "word": "الفَصْلُ مِنَ الكِتَابِ",
+        "transliteration": "Al-Fasl",
+        "notes": "الجزء المستقل المقسم إليه الكتاب أو الرواية"
+      },
+      "german": {
+        "article": "das",
+        "word": "Kapitel",
+        "plural": "die Kapitel",
+        "gender": "neuter",
+        "example": "Ich lese jeden Abend vor dem Schlafen noch ein spannendes Kapitel."
+      },
+      "english": {
+        "word": "chapter",
+        "phonetic": "/ˈtʃæp.tər/",
+        "example": "The final chapter resolves the plot's lingering central mystery."
+      },
+      "image_id": "img_lit_kapitel"
+    },
+    {
+      "id": "lit_handlung",
+      "category": "literature_idioms",
+      "arabic": {
+        "word": "حَبْكَةُ القِصَّةِ / السِّيَاقُ الدِّرَامِيُّ",
+        "transliteration": "Habkat Al-Qissah",
+        "notes": "تسلسل وترابط الأحداث في العمل السردي"
+      },
+      "german": {
+        "article": "die",
+        "word": "Handlung",
+        "plural": "die Handlungen",
+        "gender": "feminine",
+        "example": "Die unvorhersehbare Handlung hielt die Leser bis zur letzten Seite in Atem."
+      },
+      "english": {
+        "word": "plot / storyline",
+        "phonetic": "/plɒt/",
+        "example": "A well-structured narrative plot weaves suspense through every twist."
+      },
+      "image_id": "img_lit_handlung"
+    },
+    {
+      "id": "lit_figur",
+      "category": "literature_idioms",
+      "arabic": {
+        "word": "الشَّخْصِيَّةُ الأَدَبِيَّةُ / البَطَلُ",
+        "transliteration": "Ash-Shakhsiyyah",
+        "notes": "الفرد المصور في الرواية أو المسرحية"
+      },
+      "german": {
+        "article": "die",
+        "word": "Figur",
+        "plural": "die Figuren",
+        "gender": "feminine",
+        "example": "Die Hauptfigur des Buches entwickelt sich im Laufe der Geschichte weiter."
+      },
+      "english": {
+        "word": "character / protagonist",
+        "phonetic": "/ˈkær.ək.tər/",
+        "example": "The complex protagonist faces immense ethical crossroads throughout."
+      },
+      "image_id": "img_lit_figur"
+    },
+    {
+      "id": "lit_fabel",
+      "category": "literature_idioms",
+      "arabic": {
+        "word": "الخُرَافَةُ الرَّمْزِيَّةُ / مَثَلُ الحَيَوَانِ",
+        "transliteration": "Al-Khurafah Ar-Ramziyyah",
+        "notes": "قصة حكيمة على لسان الحيوانات تنتهي بموعظة (كحكايات إيسوب وكليلة ودمنة)"
+      },
+      "german": {
+        "article": "die",
+        "word": "Fabel",
+        "plural": "die Fabeln",
+        "gender": "feminine",
+        "example": "In der Fabel vom Fuchs und dem Raben wird vor falscher Schmeichelei gewarnt."
+      },
+      "english": {
+        "word": "fable",
+        "phonetic": "/ˈfeɪ.bəl/",
+        "example": "Ancient fables employ talking animal characters to teach timeless morals."
+      },
+      "image_id": "img_lit_fabel"
+    },
+    {
+      "id": "lit_daumen_druecken",
+      "category": "literature_idioms",
+      "arabic": {
+        "word": "تَمَنِّي التَّوْفِيقِ («أَشُدُّ لَكَ عَلَى إِبْهَامِي»)",
+        "transliteration": "Tamanni At-Tawfeeq (Daumen drücken)",
+        "notes": "تعبير اصطلاحي ألماني شهير يقابل 'Cross fingers' لتمني النجاح في الامتحان أو المقابلة"
+      },
+      "german": {
+        "article": "",
+        "word": "Daumen drücken",
+        "plural": "",
+        "gender": "Idiom",
+        "example": "Ich drücke dir für deine morgige Deutschprüfung ganz fest die Daumen!"
+      },
+      "english": {
+        "word": "to keep fingers crossed / wish luck",
+        "phonetic": "/kɪːp ˈfɪŋ.ɡəz krɒst/",
+        "example": "I will keep my fingers crossed for your final driving exam tomorrow!"
+      },
+      "image_id": "img_lit_daumen_druecken"
+    },
+    {
+      "id": "lit_schwein_haben",
+      "category": "literature_idioms",
+      "arabic": {
+        "word": "الحَظُّ السَّعِيدُ المُفَاجِئُ («حَالَفَهُ الحَظُّ»)",
+        "transliteration": "Schwein haben (Al-Hath Al-Wafir)",
+        "notes": "تعبير اصطلاحي تاريخي يعود لمسابقات العصور الوسطى يعني النجاة من ورطة أو مصادفة حظ غير متوقعة"
+      },
+      "german": {
+        "article": "",
+        "word": "Schwein haben",
+        "plural": "",
+        "gender": "Idiom",
+        "example": "Da hast du aber Schwein gehabt, dass der Zug fünf Minuten Verspätung hatte!"
+      },
+      "english": {
+        "word": "to strike luck / get lucky",
+        "phonetic": "/ɡet ˈlʌk.i/",
+        "example": "You really struck luck that the train was delayed just enough for you to catch it!"
+      },
+      "image_id": "img_lit_schwein_haben"
+    },
+    {
+      "id": "lit_zwei_linke_haende",
+      "category": "literature_idioms",
+      "arabic": {
+        "word": "قِلَّةُ المَهَارَةِ اليَدَوِيَّةِ («لَهُ يَدَانِ يُسْرَيَانِ»)",
+        "transliteration": "Zwei linke Hände",
+        "notes": "تعبير اصطلاحي يقال لمن لا يحسن الحرف اليدوية والإصلاحات المنزلية (يقابله All thumbs)"
+      },
+      "german": {
+        "article": "",
+        "word": "zwei linke Hände haben",
+        "plural": "",
+        "gender": "Idiom",
+        "example": "Beim Heimwerken hat er leider zwei linke Hände."
+      },
+      "english": {
+        "word": "to be all thumbs / clumsy",
+        "phonetic": "/ɔːl θʌmz/",
+        "example": "When it comes to assembling furniture, I am completely all thumbs."
+      },
+      "image_id": "img_lit_zwei_linke_haende"
+    },
+    {
+      "id": "lit_nerven_treten",
+      "category": "literature_idioms",
+      "arabic": {
+        "word": "إِزْعَاجُ الأَعْصَابِ («الدَّعْسُ عَلَى الأَعْصَابِ»)",
+        "transliteration": "Auf die Nerven gehen / treten",
+        "notes": "تعبير اصطلاحي دارج للتعبير عن الضيق الشديد والإزعاج المتكرر"
+      },
+      "german": {
+        "article": "",
+        "word": "auf die Nerven gehen",
+        "plural": "",
+        "gender": "Idiom",
+        "example": "Dieser ständige Baulärm geht mir tierisch auf die Nerven."
+      },
+      "english": {
+        "word": "to get on someone's nerves",
+        "phonetic": "/ɡet ɒn nɜːvz/",
+        "example": "The repetitive construction drilling is truly getting on my nerves."
+      },
+      "image_id": "img_lit_nerven_treten"
+    },
+    {
+      "id": "lit_inspiration",
+      "category": "literature_idioms",
+      "arabic": {
+        "word": "الإِلْهَامُ الإِبْدَاعِيُّ",
+        "transliteration": "Al-Ilham",
+        "notes": "انبثاق الفكرة الخلابة والدافع الفني في ذهن الكاتب أو الشاعر"
+      },
+      "german": {
+        "article": "die",
+        "word": "Inspiration",
+        "plural": "die Inspirationen",
+        "gender": "feminine",
+        "example": "Die stille Schönheit der Berge schenkte dem Autor neue Inspiration."
+      },
+      "english": {
+        "word": "creative inspiration",
+        "phonetic": "/ˌɪn.spɪˈreɪ.ʃən/",
+        "example": "Solitude in natural landscapes sparked fresh artistic inspiration."
+      },
+      "image_id": "img_lit_inspiration"
+    },
+    {
+      "id": "lit_meisterwerk",
+      "category": "literature_idioms",
+      "arabic": {
+        "word": "التُّحْفَةُ الأَدَبِيَّةُ / الشَّاهْكَار",
+        "transliteration": "At-Tuhfah Al-Adabiyyah",
+        "notes": "العمل الفني أو الأدبي البارع الذي يبلغ قمة الإتقان والخلود"
+      },
+      "german": {
+        "article": "das",
+        "word": "Meisterwerk",
+        "plural": "die Meisterwerke",
+        "gender": "neuter",
+        "example": "Goethes 'Faust' gilt unbestritten als Meisterwerk der deutschen Sprache."
+      },
+      "english": {
+        "word": "masterpiece / magnum opus",
+        "phonetic": "/ˈmɑː.stə.piːs/",
+        "example": "The timeless tragedy is recognized as a genuine literary masterpiece."
+      },
+      "image_id": "img_lit_meisterwerk"
+    }
+  ]
+}
