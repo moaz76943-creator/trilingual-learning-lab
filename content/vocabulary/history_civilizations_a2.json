@@ -1,0 +1,561 @@
+{
+  "category_id": "history_civilizations",
+  "category_name": {
+    "ar": "التاريخ والحضارات القديمة",
+    "de": "Geschichte & Zivilisationen",
+    "en": "History & Civilizations"
+  },
+  "level": "A2",
+  "concepts": [
+    {
+      "id": "his_zivilisation",
+      "category": "history_civilizations",
+      "arabic": {
+        "word": "الحَضَارَةُ الإِنْسَانِيَّةُ",
+        "transliteration": "Al-Hadarah",
+        "notes": "الرقي الفكري والعمراني والاجتماعي للشعوب"
+      },
+      "german": {
+        "article": "die",
+        "word": "Zivilisation",
+        "plural": "die Zivilisationen",
+        "gender": "feminine",
+        "example": "Alte Zivilisationen hinterließen beeindruckende Monumente und Schriften."
+      },
+      "english": {
+        "word": "civilization",
+        "phonetic": "/ˌsɪv.əl.aɪˈzeɪ.ʃən/",
+        "example": "Ancient civilizations built advanced irrigation and writing systems."
+      },
+      "image_id": "img_his_zivilisation"
+    },
+    {
+      "id": "his_archaeologie",
+      "category": "history_civilizations",
+      "arabic": {
+        "word": "عِلْمُ الآثَارِ",
+        "transliteration": "Ilm Al-Aathar",
+        "notes": "دراسة مخلفات الحضارات الإنسانية الماضية"
+      },
+      "german": {
+        "article": "die",
+        "word": "Archäologie",
+        "plural": "die Archäologien",
+        "gender": "feminine",
+        "example": "Die moderne Archäologie nutzt Satellitenbilder zur Ortung antiker Stätten."
+      },
+      "english": {
+        "word": "archaeology",
+        "phonetic": "/ˌɑː.kiˈɒl.ə.dʒi/",
+        "example": "Modern archaeology relies on satellite imagery to unearth buried ruins."
+      },
+      "image_id": "img_his_archaeologie"
+    },
+    {
+      "id": "his_denkmal",
+      "category": "history_civilizations",
+      "arabic": {
+        "word": "الأَثَرُ التَّارِيخِيُّ / النَّصْبُ التَّذْكَارِيُّ",
+        "transliteration": "Al-Athar At-Tareekhi",
+        "notes": "المبنى أو النصب المحفوظ تخليدًا لحدث تاريخي"
+      },
+      "german": {
+        "article": "das",
+        "word": "Denkmal",
+        "plural": "die Denkmäler",
+        "gender": "neuter",
+        "example": "Dieses historische Denkmal erinnert an den Friedensvertrag von 1648."
+      },
+      "english": {
+        "word": "historical monument",
+        "phonetic": "/ˈmɒn.jə.mənt/",
+        "example": "This stone monument commemorates the ancient peace treaty."
+      },
+      "image_id": "img_his_denkmal"
+    },
+    {
+      "id": "his_pyramide",
+      "category": "history_civilizations",
+      "arabic": {
+        "word": "الهَرَمُ الأَثَرِيُّ",
+        "transliteration": "Al-Haram",
+        "notes": "البناء الهندسي الحجري الشهير في الحضارات القديمة"
+      },
+      "german": {
+        "article": "die",
+        "word": "Pyramide",
+        "plural": "die Pyramiden",
+        "gender": "feminine",
+        "example": "Die Pyramiden von Gizeh gehören zu den sieben Weltwundern der Antike."
+      },
+      "english": {
+        "word": "pyramid",
+        "phonetic": "/ˈpɪr.ə.mɪd/",
+        "example": "The great stone pyramids showcase remarkable architectural precision."
+      },
+      "image_id": "img_his_pyramide"
+    },
+    {
+      "id": "his_ruinen",
+      "category": "history_civilizations",
+      "arabic": {
+        "word": "الأَطْلَالُ / الآثَارُ القَدِيمَةُ",
+        "transliteration": "Al-Atlal",
+        "notes": "بقايا المباني والمدن الغابرة"
+      },
+      "german": {
+        "article": "die",
+        "word": "Ruinen",
+        "plural": "die Ruinen",
+        "gender": "plural",
+        "example": "Wir wanderten durch die eindrucksvollen römischen Ruinen in Jordanien."
+      },
+      "english": {
+        "word": "ancient ruins",
+        "phonetic": "/ˈruː.ɪnz/",
+        "example": "Tourists explored the majestic Greco-Roman ruins under the sunset."
+      },
+      "image_id": "img_his_ruinen"
+    },
+    {
+      "id": "his_reich",
+      "category": "history_civilizations",
+      "arabic": {
+        "word": "الإِمْبِرَاطُورِيَّةُ / المَمْلَكَةُ العَظِيمَةُ",
+        "transliteration": "Al-Imbratooriyyah",
+        "notes": "دولة مترامية الأطراف تضم شعوبًا متعددة"
+      },
+      "german": {
+        "article": "das",
+        "word": "Reich",
+        "plural": "die Reiche",
+        "gender": "neuter",
+        "example": "Das Römische Reich erstreckte sich über drei Kontinente."
+      },
+      "english": {
+        "word": "empire",
+        "phonetic": "/ˈem.paɪər/",
+        "example": "The historic empire connected trade networks across three continents."
+      },
+      "image_id": "img_his_reich"
+    },
+    {
+      "id": "his_jahrhundert",
+      "category": "history_civilizations",
+      "arabic": {
+        "word": "القَرْنُ (مِئَةُ عَامٍ)",
+        "transliteration": "Al-Qarn",
+        "notes": "الفترة الزمنية البالغة مئة سنة"
+      },
+      "german": {
+        "article": "das",
+        "word": "Jahrhundert",
+        "plural": "die Jahrhunderte",
+        "gender": "neuter",
+        "example": "Im fünfzehnten Jahrhundert veränderte der Buchdruck die Welt."
+      },
+      "english": {
+        "word": "century",
+        "phonetic": "/ˈsen.tʃər.i/",
+        "example": "The invention of printing transformed learning in the fifteenth century."
+      },
+      "image_id": "img_his_jahrhundert"
+    },
+    {
+      "id": "his_epoche",
+      "category": "history_civilizations",
+      "arabic": {
+        "word": "العَصْرُ / الحِقْبَةُ التَّارِيخِيَّةُ",
+        "transliteration": "Al-'Asr / Al-Hiqbah",
+        "notes": "مرحلة تاريخية مميزة بخصائص معينة"
+      },
+      "german": {
+        "article": "die",
+        "word": "Epoche",
+        "plural": "die Epochen",
+        "gender": "feminine",
+        "example": "Die Renaissance war eine blühende Epoche der Kunst und Philosophie."
+      },
+      "english": {
+        "word": "era / epoch",
+        "phonetic": "/ˈɪə.rə/",
+        "example": "The Renaissance marked a transformative cultural era in science and arts."
+      },
+      "image_id": "img_his_epoche"
+    },
+    {
+      "id": "his_koenig",
+      "category": "history_civilizations",
+      "arabic": {
+        "word": "المَلِكُ",
+        "transliteration": "Al-Malik",
+        "notes": "الحاكم في النظام الملكي"
+      },
+      "german": {
+        "article": "der",
+        "word": "König",
+        "plural": "die Könige",
+        "gender": "masculine",
+        "example": "Der weise König förderte Wissenschaft, Handel und Bildung."
+      },
+      "english": {
+        "word": "king",
+        "phonetic": "/kɪŋ/",
+        "example": "The medieval king established peaceful treaties with neighboring realms."
+      },
+      "image_id": "img_his_koenig"
+    },
+    {
+      "id": "his_koenigin",
+      "category": "history_civilizations",
+      "arabic": {
+        "word": "المَلِكَةُ",
+        "transliteration": "Al-Malikah",
+        "notes": "الحاكمة أو قرينة الملك"
+      },
+      "german": {
+        "article": "die",
+        "word": "Königin",
+        "plural": "die Königinnen",
+        "gender": "feminine",
+        "example": "Die Königin herrschte mit diplomatischem Geschick und Weitsicht."
+      },
+      "english": {
+        "word": "queen",
+        "phonetic": "/kwiːn/",
+        "example": "The legendary queen ruled the ancient empire with renowned wisdom."
+      },
+      "image_id": "img_his_koenigin"
+    },
+    {
+      "id": "his_ritter",
+      "category": "history_civilizations",
+      "arabic": {
+        "word": "الفَارِسُ النَّبِيلُ",
+        "transliteration": "Al-Faris",
+        "notes": "المحارب الممتطي جوادًا والمتسلح بالدرع في العصور الوسطى"
+      },
+      "german": {
+        "article": "der",
+        "word": "Ritter",
+        "plural": "die Ritter",
+        "gender": "masculine",
+        "example": "Der tapfere Ritter verteidigte die Burg gegen feindliche Angreifer."
+      },
+      "english": {
+        "word": "knight",
+        "phonetic": "/naɪt/",
+        "example": "The armored knight pledged loyalty to protect his realm with honor."
+      },
+      "image_id": "img_his_ritter"
+    },
+    {
+      "id": "his_burg",
+      "category": "history_civilizations",
+      "arabic": {
+        "word": "القَلْعَةُ الحَصِينَةُ / الحِصْنُ",
+        "transliteration": "Al-Qal'ah",
+        "notes": "البناء الحصين على المرتفعات للدفاع والسكن"
+      },
+      "german": {
+        "article": "die",
+        "word": "Burg",
+        "plural": "die Burgen",
+        "gender": "feminine",
+        "example": "Auf dem steilen Felsen thront eine mittelalterliche Burg."
+      },
+      "english": {
+        "word": "castle / fortress",
+        "phonetic": "/ˈkɑː.səl/",
+        "example": "The stone fortress stands perched high atop the rugged mountain cliff."
+      },
+      "image_id": "img_his_burg"
+    },
+    {
+      "id": "his_tempel",
+      "category": "history_civilizations",
+      "arabic": {
+        "word": "المَعْبَدُ القَدِيمُ",
+        "transliteration": "Al-Ma'bad",
+        "notes": "دار العبادة والطقوس في الحضارات القديمة"
+      },
+      "german": {
+        "article": "der",
+        "word": "Tempel",
+        "plural": "die Tempel",
+        "gender": "masculine",
+        "example": "Die mächtigen Säulen des antiken Tempels ragen in den blauen Himmel."
+      },
+      "english": {
+        "word": "ancient temple",
+        "phonetic": "/ˈtem.pəl/",
+        "example": "Carved marble columns support the portico of the ancient temple."
+      },
+      "image_id": "img_his_tempel"
+    },
+    {
+      "id": "his_grabmal",
+      "category": "history_civilizations",
+      "arabic": {
+        "word": "المَقْبَرَةُ الأَثَرِيَّةُ / الضَّرِيحُ",
+        "transliteration": "Al-Madfan / Ad-Dareeha",
+        "notes": "النصب أو الغرفة المدفنية المزخرفة للملوك القدماء"
+      },
+      "german": {
+        "article": "das",
+        "word": "Grabmal",
+        "plural": "die Grabmäler",
+        "gender": "neuter",
+        "example": "Das weltberühmte Grabmal des Tutanchamun enthielt kostbare Schätze."
+      },
+      "english": {
+        "word": "tomb / mausoleum",
+        "phonetic": "/tuːm/",
+        "example": "Archaeologists uncovered pristine gold treasures within the royal tomb."
+      },
+      "image_id": "img_his_grabmal"
+    },
+    {
+      "id": "his_hieroglyphen",
+      "category": "history_civilizations",
+      "arabic": {
+        "word": "الهِيرُوغْلِيفِيَّةُ / الرُّمُوزُ المَنْقُوشَةُ",
+        "transliteration": "Al-Heeroghleefiyyah",
+        "notes": "الكتابة التصويرية القديمة في مصر وحضارات الشرق"
+      },
+      "german": {
+        "article": "die",
+        "word": "Hieroglyphen",
+        "plural": "die Hieroglyphen",
+        "gender": "plural",
+        "example": "Mit dem Stein von Rosette gelang die Entzifferung der ägyptischen Hieroglyphen."
+      },
+      "english": {
+        "word": "hieroglyphs",
+        "phonetic": "/ˈhaɪə.rə.ɡlɪfs/",
+        "example": "Scholars deciphered historical inscriptions recorded in ancient hieroglyphs."
+      },
+      "image_id": "img_his_hieroglyphen"
+    },
+    {
+      "id": "his_papyrus",
+      "category": "history_civilizations",
+      "arabic": {
+        "word": "وَرَقُ البَرْدِيِّ",
+        "transliteration": "Waraq Al-Bardi",
+        "notes": "مادة الكتابة الأولى المستخرجة من نبات البردي"
+      },
+      "german": {
+        "article": "der",
+        "word": "Papyrus",
+        "plural": "die Papyri",
+        "gender": "masculine",
+        "example": "Uralte medizinische Rezepte wurden auf Papyrusrollen überliefert."
+      },
+      "english": {
+        "word": "papyrus",
+        "phonetic": "/pəˈpaɪ.rəs/",
+        "example": "Ancient administrative records were written on durable papyrus scrolls."
+      },
+      "image_id": "img_his_papyrus"
+    },
+    {
+      "id": "his_muenze",
+      "category": "history_civilizations",
+      "arabic": {
+        "word": "العُمْلَةُ الأَثَرِيَّةُ المَسْكُوكَةُ",
+        "transliteration": "Al-'Umlah Al-Athariyyah",
+        "notes": "القطع النقدية المعدنية المسكوكة في العصور الغابرة"
+      },
+      "german": {
+        "article": "die",
+        "word": "Münze",
+        "plural": "die Münzen",
+        "gender": "feminine",
+        "example": "Der Schatzsucher fand eine gut erhaltene römische Goldmünze."
+      },
+      "english": {
+        "word": "ancient coin",
+        "phonetic": "/kɔɪn/",
+        "example": "The museum collection exhibits rare engraved Roman silver coins."
+      },
+      "image_id": "img_his_muenze"
+    },
+    {
+      "id": "his_schwert",
+      "category": "history_civilizations",
+      "arabic": {
+        "word": "السَّيْفُ",
+        "transliteration": "As-Sayf",
+        "notes": "السلاح المعدني ذو النصل القاطع المستخدم تاريخيًا"
+      },
+      "german": {
+        "article": "das",
+        "word": "Schwert",
+        "plural": "die Schwerter",
+        "gender": "neuter",
+        "example": "Das geschmiedete Schwert trug kunstvolle heidnische Ornamente."
+      },
+      "english": {
+        "word": "sword",
+        "phonetic": "/sɔːd/",
+        "example": "The forged steel sword was discovered inside a ceremonial royal tomb."
+      },
+      "image_id": "img_his_schwert"
+    },
+    {
+      "id": "his_schild",
+      "category": "history_civilizations",
+      "arabic": {
+        "word": "الدِّرْعُ / التُّرْسُ",
+        "transliteration": "Ad-Dir' / At-Turs",
+        "notes": "أداة الوقاية والحماية أثناء المبارزة والحروب القديمة"
+      },
+      "german": {
+        "article": "der",
+        "word": "Schild",
+        "plural": "die Schilde",
+        "gender": "masculine",
+        "example": "Der bronzene Schild schützte den Krieger vor Speeren und Pfeilen."
+      },
+      "english": {
+        "word": "shield",
+        "phonetic": "/ʃiːld/",
+        "example": "Warriors carried painted wooden shields into battlefield formations."
+      },
+      "image_id": "img_his_schild"
+    },
+    {
+      "id": "his_legende",
+      "category": "history_civilizations",
+      "arabic": {
+        "word": "الأُسْطُورَةُ / الحِكَايَةُ الشَّعْبِيَّةُ",
+        "transliteration": "Al-Ustoorah",
+        "notes": "الرواية التراثية المتناقلة الممزوجة بالخيال"
+      },
+      "german": {
+        "article": "die",
+        "word": "Legende",
+        "plural": "die Legenden",
+        "gender": "feminine",
+        "example": "Zahlreiche Legenden ranken sich um den sagenumwobenen König Artus."
+      },
+      "english": {
+        "word": "legend / myth",
+        "phonetic": "/ˈledʒ.ənd/",
+        "example": "Epic folk legends preserve cultural memory and ancestral values."
+      },
+      "image_id": "img_his_legende"
+    },
+    {
+      "id": "his_kulturerbe",
+      "category": "history_civilizations",
+      "arabic": {
+        "word": "التُّرَاثُ الثَّقَافِيُّ العَالَمِيُّ",
+        "transliteration": "At-Turath Ath-Thaqafi",
+        "notes": "الموروث الحضاري والمعماري المصنف للحماية الدولية"
+      },
+      "german": {
+        "article": "das",
+        "word": "Kulturerbe",
+        "plural": "die Kulturerbe",
+        "gender": "neuter",
+        "example": "Die Felsenstadt Petra gehört zum geschützten UNESCO-Weltkulturerbe."
+      },
+      "english": {
+        "word": "cultural heritage",
+        "phonetic": "/ˈkʌl.tʃər.əl ˈher.ɪ.tɪdʒ/",
+        "example": "UNESCO designated the ancient carved city as world cultural heritage."
+      },
+      "image_id": "img_his_kulturerbe"
+    },
+    {
+      "id": "his_ausgrabung",
+      "category": "history_civilizations",
+      "arabic": {
+        "word": "التَّنْقِيبُ الأَثَرِيُّ / الحَفْرِيَّةُ",
+        "transliteration": "At-Tanqeeb",
+        "notes": "الحفر المنهجي لاستخراج الآثار من باطن الأرض"
+      },
+      "german": {
+        "article": "die",
+        "word": "Ausgrabung",
+        "plural": "die Ausgrabungen",
+        "gender": "feminine",
+        "example": "Bei den Ausgrabungen legten Archäologen ein antikes Theater frei."
+      },
+      "english": {
+        "word": "archaeological excavation",
+        "phonetic": "/ˌek.skəˈveɪ.ʃən/",
+        "example": "Recent excavations in the valley uncovered an amphitheater."
+      },
+      "image_id": "img_his_ausgrabung"
+    },
+    {
+      "id": "his_manuskript",
+      "category": "history_civilizations",
+      "arabic": {
+        "word": "المَخْطُوطَةُ الأَثَرِيَّةُ",
+        "transliteration": "Al-Makhtootah",
+        "notes": "الوثيقة أو الكتاب المدون بخط اليد قبل الطباعة"
+      },
+      "german": {
+        "article": "das",
+        "word": "Manuskript",
+        "plural": "die Manuskripte",
+        "gender": "neuter",
+        "example": "Das handgeschriebene Manuskript wird in der Universitätsbibliothek aufbewahrt."
+      },
+      "english": {
+        "word": "ancient manuscript",
+        "phonetic": "/ˈmæn.jə.skrɪpt/",
+        "example": "Scholars conserved the illuminated manuscript under controlled climate."
+      },
+      "image_id": "img_his_manuskript"
+    },
+    {
+      "id": "his_chronik",
+      "category": "history_civilizations",
+      "arabic": {
+        "word": "السِّجِلُّ التَّارِيخِيُّ / الحَوْلِيَّةُ",
+        "transliteration": "As-Sijill At-Tareekhi",
+        "notes": "تدوين الوقائع التاريخية وفق تسلسلها الزمني"
+      },
+      "german": {
+        "article": "die",
+        "word": "Chronik",
+        "plural": "die Chroniken",
+        "gender": "feminine",
+        "example": "Die Chronik der Stadt dokumentiert alle Ereignisse seit dem Mittelalter."
+      },
+      "english": {
+        "word": "historical chronicle",
+        "phonetic": "/ˈkrɒn.ɪ.kəl/",
+        "example": "Monastic chronicles record weather anomalies and royal accessions."
+      },
+      "image_id": "img_his_chronik"
+    },
+    {
+      "id": "his_dynastie",
+      "category": "history_civilizations",
+      "arabic": {
+        "word": "السُّلَالَةُ الحَاكِمَةُ",
+        "transliteration": "As-Sulalah Al-Hakamah",
+        "notes": "سلسلة الحكام المتوارثين للحكم من نفس العائلة"
+      },
+      "german": {
+        "article": "die",
+        "word": "Dynastie",
+        "plural": "die Dynastien",
+        "gender": "feminine",
+        "example": "Diese einflussreiche Dynastie prägte die Architektur über mehrere Generationen."
+      },
+      "english": {
+        "word": "ruling dynasty",
+        "phonetic": "/ˈdɪn.ə.sti/",
+        "example": "The imperial dynasty oversaw monumental infrastructure projects."
+      },
+      "image_id": "img_his_dynastie"
+    }
+  ]
+}
