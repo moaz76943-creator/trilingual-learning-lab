@@ -1,0 +1,136 @@
+{
+  "engine_name": "infinitive_with_zu_engine",
+  "level": "A2",
+  "title": {
+    "ar": "محرك صيغة المصدر المقترن بـ zu (Infinitiv mit zu)",
+    "de": "Infinitivkonstruktionen mit zu im Deutschen",
+    "en": "German Infinitive with 'zu' Engine"
+  },
+  "grammar_rules": {
+    "structure": "Hauptsatz, + (Ergänzungen) + zu + Infinitiv (am Satzende)",
+    "separable_verbs_rule": "مع الأفعال المنفصلة (Trennbare Verben)، تنحشر zu بين البادئة وجذر الفعل في كلمة واحدة: Präfix + zu + Stamm + en (z.B. einzukaufen, aufzustehen, mitzubringen).",
+    "verbs_without_zu": [
+      "Modalverben (können, müssen, wollen, dürfen, sollen, möchten)",
+      "Bewegungsverben (gehen, fahren)",
+      "Wahrnehmungsverben (sehen, hören)",
+      "Sonderverben (bleiben, lassen)"
+    ],
+    "trigger_categories": [
+      {
+        "category": "Nomen + haben",
+        "examples": [
+          "Lust haben",
+          "Zeit haben",
+          "Angst haben",
+          "den Plan haben",
+          "die Absicht haben"
+        ]
+      },
+      {
+        "category": "Es ist + Adjektiv",
+        "examples": [
+          "Es ist wichtig",
+          "Es ist schön",
+          "Es ist gesund",
+          "Es ist schwierig",
+          "Es ist verboten"
+        ]
+      },
+      {
+        "category": "Spezielle Verben",
+        "examples": [
+          "vorhaben",
+          "versuchen",
+          "planen",
+          "vergessen",
+          "anfangen",
+          "aufhören",
+          "versprechen",
+          "hoffen"
+        ]
+      }
+    ]
+  },
+  "templates": [
+    {
+      "id": "zu_kino",
+      "trigger_type": "Nomen + haben (Lust)",
+      "german": "Ich habe heute große Lust, mit dir ins Kino zu gehen.",
+      "arabic": "لَدَيَّ رَغْبَةٌ كَبِيرَةٌ اليَوْمَ فِي الذَّهَابِ مَعَكَ إِلَى السِّينَمَا.",
+      "english": "I really feel like going to the cinema with you today.",
+      "image_id": "img_zu_kino"
+    },
+    {
+      "id": "zu_vokabeln",
+      "trigger_type": "Es ist + Adjektiv (wichtig)",
+      "german": "Es ist sehr wichtig, täglich neue deutsche Vokabeln zu wiederholen.",
+      "arabic": "مِنَ المُهِمِّ جِدًّا تِكْرَارُ المُفْرَدَاتِ الأَلْمَانِيَّةِ الجَدِيدَةِ يَوْمِيًّا.",
+      "english": "It is very important to review new German vocabulary every day.",
+      "image_id": "img_zu_vokabeln"
+    },
+    {
+      "id": "zu_reise",
+      "trigger_type": "Verb (vorhaben)",
+      "german": "Wir haben vor, im kommenden Sommer nach Deutschland zu reisen.",
+      "arabic": "نَنْوِي السَّفَرَ إِلَى أَلْمَانْيَا فِي فَصْلِ الصَّيْفِ القَادِمِ.",
+      "english": "We intend to travel to Germany next summer.",
+      "image_id": "img_zu_reise"
+    },
+    {
+      "id": "zu_brot",
+      "trigger_type": "Verb + Trennbar (vergessen + einkaufen)",
+      "german": "Er hat leider vergessen, frisches Brot für das Abendessen einzukaufen.",
+      "arabic": "لِلأَسَفِ، نَسِيَ هُوَ أَنْ يَشْتَرِيَ خُبْزًا طَازَجًا لِوَجْبَةِ العَشَاءِ.",
+      "english": "Unfortunately, he forgot to buy fresh bread for dinner.",
+      "image_id": "img_zu_brot"
+    },
+    {
+      "id": "zu_wecker",
+      "trigger_type": "Es ist + Adjektiv + Trennbar (schwer + aufstehen)",
+      "german": "Es ist im Winter schwer für mich, frühmorgens im Dunkeln aufzustehen.",
+      "arabic": "مِنَ الصَّعْبِ عَلَيَّ فِي الشِّتَاءِ الِاسْتَيْقَاظُ بَاكِرًا فِي الظَّلَامِ.",
+      "english": "It is hard for me to get up early in the dark during winter.",
+      "image_id": "img_zu_wecker"
+    },
+    {
+      "id": "zu_wasser",
+      "trigger_type": "Es ist + Adjektiv (gesund)",
+      "german": "Es ist sehr gesund, jeden Tag mindestens zwei Liter Wasser zu trinken.",
+      "arabic": "مِنَ الصِّحِّيِّ جِدًّا شُرْبُ لِتْرَيْنِ مِنَ المَاءِ عَلَى الأَقَلِّ يَوْمِيًّا.",
+      "english": "It is very healthy to drink at least two liters of water every day.",
+      "image_id": "img_zu_wasser"
+    },
+    {
+      "id": "zu_flughafen",
+      "trigger_type": "Nomen + haben + Trennbar (Zeit + abholen)",
+      "german": "Hast du morgen Zeit, mich pünktlich vom Flughafen abzuholen?",
+      "arabic": "هَلْ لَدَيْكَ وَقْتٌ غَدًا لِتَسْتَقْبِلَنِي فِي المَوْعِدِ مِنَ المَطَارِ؟",
+      "english": "Do you have time tomorrow to pick me up on time from the airport?",
+      "image_id": "img_zu_flughafen"
+    },
+    {
+      "id": "zu_verstehen",
+      "trigger_type": "Verb (versuchen)",
+      "german": "Ich versuche geduldig, diese anspruchsvolle Grammatikregel zu verstehen.",
+      "arabic": "أُحَاوِلُ بِصَبْرٍ أَنْ أَفْهَمَ هَذِهِ القَاعِدَةَ النَّحْوِيَّةَ الدَّقِيقَةَ.",
+      "english": "I am patiently trying to understand this challenging grammar rule.",
+      "image_id": "img_zu_verstehen"
+    },
+    {
+      "id": "zu_gruendung",
+      "trigger_type": "Verb (planen)",
+      "german": "Sie plant entschlossen, bald ihr eigenes innovatives Unternehmen zu gründen.",
+      "arabic": "تُخَطِّطُ بِعَزِيمَةٍ لِتَأْسِيسِ شَرِكَتِهَا الابْتِكَارِيَّةِ الخَاصَّةِ قَرِيبًا.",
+      "english": "She is determinedly planning to establish her own innovative company soon.",
+      "image_id": "img_zu_gruendung"
+    },
+    {
+      "id": "zu_verbot",
+      "trigger_type": "Es ist + Adjektiv (verboten)",
+      "german": "Es ist gesetzlich streng verboten, in diesem öffentlichen Gebäude zu rauchen.",
+      "arabic": "مَمْنُوعٌ قَانُونًا مَنْعًا بَاتًّا التَّدْخِينُ دَاخِلَ هَذَا المَبْنَى العَامِّ.",
+      "english": "It is strictly legally forbidden to smoke in this public building.",
+      "image_id": "img_zu_verbot"
+    }
+  ]
+}
