@@ -1,0 +1,153 @@
+{
+  "engine_name": "relative_clauses_engine",
+  "level": "A2",
+  "title": {
+    "ar": "محرك جمل الوصل والأسماء الموصولة (Relativsätze im Nominativ und Akkusativ)",
+    "de": "Relativsätze und Relativpronomen im Nominativ und Akkusativ",
+    "en": "German Relative Clauses Engine (Nominative & Accusative)"
+  },
+  "grammar_rules": {
+    "structure": "Hauptsatz + Komma (,) + Relativpronomen + ... + konjugiertes Verb (am Satzende)",
+    "gender_rule": "يأخذ الضمير النسبي جنس وعدّة الاسم الموصوف (Bezugswort) من الجملة الرئيسية.",
+    "case_rule": "تحدد الحالة الإعرابية (رفع Nominativ أو نصب Akkusativ) حسب وظيفة الضمير داخل جملة الوصل.",
+    "verb_position": "في اللغة الألمانية، يجب دائمًا نقل الفعل المصرف إلى نهاية جملة الوصل تمامًا."
+  },
+  "pronouns_table": {
+    "Nominativ": {
+      "masculine": {
+        "pronoun": "der",
+        "ar": "الَّذِي (فاعل مذكر)",
+        "en": "who / which / that"
+      },
+      "feminine": {
+        "pronoun": "die",
+        "ar": "الَّتِي (فاعل مؤنث)",
+        "en": "who / which / that"
+      },
+      "neuter": {
+        "pronoun": "das",
+        "ar": "الَّذِي (فاعل محايد)",
+        "en": "which / that"
+      },
+      "plural": {
+        "pronoun": "die",
+        "ar": "الَّذِينَ / اللَّاتِي (فاعل جمع)",
+        "en": "who / that"
+      }
+    },
+    "Akkusativ": {
+      "masculine": {
+        "pronoun": "den",
+        "ar": "الَّذِي (مفعول به مذكر)",
+        "en": "whom / that"
+      },
+      "feminine": {
+        "pronoun": "die",
+        "ar": "الَّتِي (مفعول به مؤنث)",
+        "en": "whom / that"
+      },
+      "neuter": {
+        "pronoun": "das",
+        "ar": "الَّذِي (مفعول به محايد)",
+        "en": "which / that"
+      },
+      "plural": {
+        "pronoun": "die",
+        "ar": "الَّذِينَ / اللَّاتِي (مفعول به جمع)",
+        "en": "whom / that"
+      }
+    }
+  },
+  "templates": [
+    {
+      "id": "rel_mann_nom",
+      "case": "Nominativ",
+      "gender": "masculine",
+      "german": "Das ist der Mann, der fließend Deutsch spricht.",
+      "arabic": "هَذَا هُوَ الرَّجُلُ الَّذِي يَتَحَدَّثُ الأَلْمَانِيَّةَ بِطَلَاقَةٍ.",
+      "english": "That is the man who speaks fluent German.",
+      "image_id": "img_rel_mann_nom"
+    },
+    {
+      "id": "rel_frau_nom",
+      "case": "Nominativ",
+      "gender": "feminine",
+      "german": "Das ist die Frau, die im Nachbarhaus wohnt.",
+      "arabic": "هَذِهِ هِيَ المَرْأَةُ الَّتِي تَسْكُنُ فِي البَيْتِ المُجَاوِرِ.",
+      "english": "That is the woman who lives next door.",
+      "image_id": "img_rel_frau_nom"
+    },
+    {
+      "id": "rel_kind_nom",
+      "case": "Nominativ",
+      "gender": "neuter",
+      "german": "Das ist das Kind, das fröhlich im Garten spielt.",
+      "arabic": "هَذَا هُوَ الطِّفْلُ الَّذِي يَلْعَبُ بِمَرَحٍ فِي الحَدِيقَةِ.",
+      "english": "That is the child who is playing joyfully in the garden.",
+      "image_id": "img_rel_kind_nom"
+    },
+    {
+      "id": "rel_freunde_nom",
+      "case": "Nominativ",
+      "gender": "plural",
+      "german": "Das sind die Freunde, die uns immer unterstützen.",
+      "arabic": "هَؤُلَاءِ هُمُ الأَصْدِقَاءُ الَّذِينَ يَدْعَمُونَنَا دَائِمًا.",
+      "english": "Those are the friends who always support us.",
+      "image_id": "img_rel_freunde_nom"
+    },
+    {
+      "id": "rel_lehrer_akk",
+      "case": "Akkusativ",
+      "gender": "masculine",
+      "german": "Das ist der Lehrer, den alle Schüler sehr schätzen.",
+      "arabic": "هَذَا هُوَ المُعَلِّمُ الَّذِي يُقَدِّرُهُ جَمِيعُ التَّلَامِيذِ.",
+      "english": "That is the teacher whom all students respect.",
+      "image_id": "img_rel_lehrer_akk"
+    },
+    {
+      "id": "rel_stadt_akk",
+      "case": "Akkusativ",
+      "gender": "feminine",
+      "german": "Berlin ist die Stadt, die wir im Sommer besuchen möchten.",
+      "arabic": "بَرْلِينُ هِيَ المَدِينَةُ الَّتِي نَوَدُّ زِيَارَتَهَا فِي الصَّيْفِ.",
+      "english": "Berlin is the city that we want to visit in summer.",
+      "image_id": "img_rel_stadt_akk"
+    },
+    {
+      "id": "rel_buch_akk",
+      "case": "Akkusativ",
+      "gender": "neuter",
+      "german": "Hier ist das Buch, das ich gestern gekauft habe.",
+      "arabic": "هُنَا الكِتَابُ الَّذِي اشْتَرَيْتُهُ أَمْسِ.",
+      "english": "Here is the book that I bought yesterday.",
+      "image_id": "img_rel_buch_akk"
+    },
+    {
+      "id": "rel_fotos_akk",
+      "case": "Akkusativ",
+      "gender": "plural",
+      "german": "Wo sind die Fotos, die du im Urlaub gemacht hast?",
+      "arabic": "أَيْنَ الصُّوَرُ الَّتِي التَقَطْتَهَا فِي العُطْلَةِ؟",
+      "english": "Where are the photos that you took during the vacation?",
+      "image_id": "img_rel_fotos_akk"
+    },
+    {
+      "id": "rel_hund_nom",
+      "case": "Nominativ",
+      "gender": "masculine",
+      "german": "Ich mag den Hund, der so freundlich mit dem Schwanz wedelt.",
+      "arabic": "أُحِبُّ الكَلْبَ الَّذِي يَهُزُّ ذَيْلَهُ بِمَوَدَّةٍ.",
+      "english": "I like the dog that wags its tail so happily.",
+      "image_id": "img_rel_hund_nom"
+    },
+    {
+      "id": "rel_auto_akk",
+      "case": "Akkusativ",
+      "gender": "neuter",
+      "german": "Er fährt das Auto, das er von seinem Großvater geerbt hat.",
+      "arabic": "يَقُودُ السَّيَّارَةَ الَّتِي وَرِثَهَا عَنْ جَدِّهِ.",
+      "english": "He drives the car that he inherited from his grandfather.",
+      "image_id": "img_rel_auto_akk"
+    }
+  ]
+}
