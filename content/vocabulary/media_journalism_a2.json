@@ -1,0 +1,561 @@
+{
+  "category_id": "media_journalism",
+  "category_name": {
+    "ar": "الإعلام والصحافة",
+    "de": "Medien, Journalismus & Information",
+    "en": "Media, Journalism & Information"
+  },
+  "level": "A2",
+  "concepts": [
+    {
+      "id": "med_journalismus",
+      "category": "media_journalism",
+      "arabic": {
+        "word": "الصِّحَافَةُ / مِهْنَةُ الإِعْلَامِ",
+        "transliteration": "As-Sihafah",
+        "notes": "جمع الأخبار وتحليلها ونشرها للجماهير"
+      },
+      "german": {
+        "article": "der",
+        "word": "Journalismus",
+        "plural": "die Journalismen",
+        "gender": "masculine",
+        "example": "Unabhängiger Journalismus ist unverzichtbar für eine freie Gesellschaft."
+      },
+      "english": {
+        "word": "journalism",
+        "phonetic": "/ˈdʒɜː.nə.lɪ.zəm/",
+        "example": "Investigative journalism uncovers essential public facts."
+      },
+      "image_id": "img_med_journalismus"
+    },
+    {
+      "id": "med_journalist",
+      "category": "media_journalism",
+      "arabic": {
+        "word": "الصَّحَفِيُّ / الإِعْلَامِيُّ",
+        "transliteration": "As-Sahafi",
+        "notes": "المشتغل بجمع ونشر التقارير الإخبارية (يتبع N-Deklination)"
+      },
+      "german": {
+        "article": "der",
+        "word": "Journalist",
+        "plural": "die Journalisten",
+        "gender": "masculine (n-Deklination)",
+        "example": "Der mutige Journalist berichtete direkt aus dem Krisengebiet."
+      },
+      "english": {
+        "word": "journalist / reporter (male)",
+        "phonetic": "/ˈdʒɜː.nə.lɪst/",
+        "example": "The seasoned journalist verified every source thoroughly."
+      },
+      "image_id": "img_med_journalist"
+    },
+    {
+      "id": "med_journalistin",
+      "category": "media_journalism",
+      "arabic": {
+        "word": "الصَّحَفِيَّةُ / الإِعْلَامِيَّةُ",
+        "transliteration": "As-Sahafiyyah",
+        "notes": "المرأة المشتغلة بنقل الأخبار والتحقيقات"
+      },
+      "german": {
+        "article": "die",
+        "word": "Journalistin",
+        "plural": "die Journalistinnen",
+        "gender": "feminine",
+        "example": "Die Journalistin führte ein exklusives Interview mit dem Minister."
+      },
+      "english": {
+        "word": "journalist / reporter (female)",
+        "phonetic": "/ˈdʒɜː.nə.lɪst/",
+        "example": "The foreign correspondent conducted a comprehensive interview."
+      },
+      "image_id": "img_med_journalistin"
+    },
+    {
+      "id": "med_presse",
+      "category": "media_journalism",
+      "arabic": {
+        "word": "الصَّحَافَةُ المَطْبُوعَةُ / أَهْلُ القَلَمِ",
+        "transliteration": "Al-Pressah",
+        "notes": "المؤسسات الصحفية والوسائل الإخبارية"
+      },
+      "german": {
+        "article": "die",
+        "word": "Presse",
+        "plural": "die Pressen",
+        "gender": "feminine",
+        "example": "Die internationale Presse berichtete ausführlich über den Gipfel."
+      },
+      "english": {
+        "word": "press / news media",
+        "phonetic": "/pres/",
+        "example": "Freedom of the press is constitutionally safeguarded."
+      },
+      "image_id": "img_med_presse"
+    },
+    {
+      "id": "med_pressekonferenz",
+      "category": "media_journalism",
+      "arabic": {
+        "word": "المُؤْتَمَرُ الصَّحَفِيُّ",
+        "transliteration": "Al-Mu'tamar As-Sahafi",
+        "notes": "لقاء المسؤولين مع ممثلي وسائل الإعلام"
+      },
+      "german": {
+        "article": "die",
+        "word": "Pressekonferenz",
+        "plural": "die Pressekonferenzen",
+        "gender": "feminine",
+        "example": "Auf der Pressekonferenz beantwortete die Sprecherin alle Fragen."
+      },
+      "english": {
+        "word": "press conference",
+        "phonetic": "/ˈpres ˌkɒn.fər.əns/",
+        "example": "Reporters gathered eagerly for the emergency press conference."
+      },
+      "image_id": "img_med_pressekonferenz"
+    },
+    {
+      "id": "med_schlagzeile",
+      "category": "media_journalism",
+      "arabic": {
+        "word": "العُنْوَانُ الرَّئِيسِيُّ / المَانْشِيت",
+        "transliteration": "Al-'Unwan Ar-Ra'eessi",
+        "notes": "عنوان الخبر البارز بالخط العريض"
+      },
+      "german": {
+        "article": "die",
+        "word": "Schlagzeile",
+        "plural": "die Schlagzeilen",
+        "gender": "feminine",
+        "example": "Die dramatische Schlagzeile auf der Titelseite erregte großes Aufsehen."
+      },
+      "english": {
+        "word": "headline",
+        "phonetic": "/ˈhed.laɪn/",
+        "example": "The morning headline drew global attention to the treaty."
+      },
+      "image_id": "img_med_schlagzeile"
+    },
+    {
+      "id": "med_bericht",
+      "category": "media_journalism",
+      "arabic": {
+        "word": "التَّقْرِيرُ الإِخْبَارِيُّ",
+        "transliteration": "At-Taqreer",
+        "notes": "عرض تفصيلي للوقائع والأحداث"
+      },
+      "german": {
+        "article": "der",
+        "word": "Bericht",
+        "plural": "die Berichte",
+        "gender": "masculine",
+        "example": "Ein fundierter Bericht beleuchtete die Hintergründe der Entscheidung."
+      },
+      "english": {
+        "word": "news report",
+        "phonetic": "/rɪˈpɔːt/",
+        "example": "The investigative report examined the environmental impacts."
+      },
+      "image_id": "img_med_bericht"
+    },
+    {
+      "id": "med_artikel",
+      "category": "media_journalism",
+      "arabic": {
+        "word": "المَقَالُ الصَّحَفِيُّ",
+        "transliteration": "Al-Maqal",
+        "notes": "قطعة كتابية تحليلية في جريدة أو مجلة"
+      },
+      "german": {
+        "article": "der",
+        "word": "Artikel",
+        "plural": "die Artikel",
+        "gender": "masculine",
+        "example": "Ich habe einen lesenswerten Artikel über künstliche Intelligenz gelesen."
+      },
+      "english": {
+        "word": "article / column",
+        "phonetic": "/ˈɑː.tɪ.kəl/",
+        "example": "She wrote an insightful article for the weekend edition."
+      },
+      "image_id": "img_med_artikel"
+    },
+    {
+      "id": "med_interview",
+      "category": "media_journalism",
+      "arabic": {
+        "word": "الحِوَارُ الصَّحَفِيُّ / المُقَابَلَةُ",
+        "transliteration": "Al-Hiwar As-Sahafi",
+        "notes": "حوار إعلامي مسجل بين صحفي وشخصية"
+      },
+      "german": {
+        "article": "das",
+        "word": "Interview",
+        "plural": "die Interviews",
+        "gender": "neuter",
+        "example": "Das aufschlussreiche Interview wurde im Fernsehen live übertragen."
+      },
+      "english": {
+        "word": "media interview",
+        "phonetic": "/ˈɪn.tə.vjuː/",
+        "example": "The broadcast featured an exclusive live interview."
+      },
+      "image_id": "img_med_interview"
+    },
+    {
+      "id": "med_sendung",
+      "category": "media_journalism",
+      "arabic": {
+        "word": "البَرْنَامَجُ الإِعْلَامِيُّ / البَثُّ",
+        "transliteration": "Al-Barnamaj",
+        "notes": "المحتوى المذاع عبر التلفاز أو الراديو"
+      },
+      "german": {
+        "article": "die",
+        "word": "Sendung",
+        "plural": "die Sendungen",
+        "gender": "feminine",
+        "example": "Die wöchentliche Kultursendung erfreut sich großer Beliebtheit."
+      },
+      "english": {
+        "word": "broadcast / television program",
+        "phonetic": "/ˈbrɔːd.kɑːst/",
+        "example": "The documentary program airs prime-time every Thursday."
+      },
+      "image_id": "img_med_sendung"
+    },
+    {
+      "id": "med_quelle",
+      "category": "media_journalism",
+      "arabic": {
+        "word": "المَصْدَرُ الإِخْبَارِيُّ",
+        "transliteration": "Al-Masdar",
+        "notes": "الجهة أو الوثيقة التي يستقى منها الخبر"
+      },
+      "german": {
+        "article": "die",
+        "word": "Quelle",
+        "plural": "die Quellen",
+        "gender": "feminine",
+        "example": "Seriöse Journalisten prüfen immer mindestens zwei unabhängige Quellen."
+      },
+      "english": {
+        "word": "news source",
+        "phonetic": "/sɔːs/",
+        "example": "Reporters must protect confidential sources of information."
+      },
+      "image_id": "img_med_quelle"
+    },
+    {
+      "id": "med_falschnachrichten",
+      "category": "media_journalism",
+      "arabic": {
+        "word": "الأَخْبَارُ الزَّائِفَةُ / المُضَلِّلَةُ",
+        "transliteration": "Al-Akhbar Az-Za'ifah",
+        "notes": "المعلومات الكاذبة التي تنشر عمدًا للتضليل"
+      },
+      "german": {
+        "article": "die",
+        "word": "Falschnachrichten",
+        "plural": "die Falschnachrichten",
+        "gender": "plural",
+        "example": "Faktenchecker decken Falschnachrichten in sozialen Netzwerken auf."
+      },
+      "english": {
+        "word": "fake news / misinformation",
+        "phonetic": "/feɪk njuːz/",
+        "example": "Fact-checkers actively combat digital misinformation."
+      },
+      "image_id": "img_med_falschnachrichten"
+    },
+    {
+      "id": "med_information",
+      "category": "media_journalism",
+      "arabic": {
+        "word": "المَعْلُومَةُ",
+        "transliteration": "Al-Ma'loomah",
+        "notes": "البيانات الموثقة ذات الدلالة والفائدة"
+      },
+      "german": {
+        "article": "die",
+        "word": "Information",
+        "plural": "die Informationen",
+        "gender": "feminine",
+        "example": "Der freie Zugang zu wahrhaftiger Information ist ein Bürgerrecht."
+      },
+      "english": {
+        "word": "information",
+        "phonetic": "/ˌɪn.fəˈmeɪ.ʃən/",
+        "example": "Transparent public information strengthens civic trust."
+      },
+      "image_id": "img_med_information"
+    },
+    {
+      "id": "med_pressefreiheit",
+      "category": "media_journalism",
+      "arabic": {
+        "word": "حُرِّيَّةُ الصَّحَافَةِ",
+        "transliteration": "Hurriyyat As-Sihafah",
+        "notes": "حق الصحفيين في النشر دون رقابة أو ترهيب"
+      },
+      "german": {
+        "article": "die",
+        "word": "Pressefreiheit",
+        "plural": "die Pressefreiheiten",
+        "gender": "feminine",
+        "example": "Die Pressefreiheit schützt Journalisten vor politischer Zensur."
+      },
+      "english": {
+        "word": "freedom of the press",
+        "phonetic": "/ˈfriː.dəm əv ðə pres/",
+        "example": "Press freedom is a vital pillar of a healthy democracy."
+      },
+      "image_id": "img_med_pressefreiheit"
+    },
+    {
+      "id": "med_redakteur",
+      "category": "media_journalism",
+      "arabic": {
+        "word": "المُحَرِّرُ الصَّحَفِيُّ",
+        "transliteration": "Al-Muharrir",
+        "notes": "المسؤول عن تدقيق وصياغة المواد قبل النشر"
+      },
+      "german": {
+        "article": "der",
+        "word": "Redakteur",
+        "plural": "die Redakteure",
+        "gender": "masculine",
+        "example": "Der leitende Redakteur korrigierte den Text vor der Drucklegung."
+      },
+      "english": {
+        "word": "editor (male)",
+        "phonetic": "/ˈed.ɪ.tər/",
+        "example": "The senior editor reviewed the lead story before publishing."
+      },
+      "image_id": "img_med_redakteur"
+    },
+    {
+      "id": "med_podcast",
+      "category": "media_journalism",
+      "arabic": {
+        "word": "البُودْكَاسْت / التَّدْوِينُ الصَّوْتِيُّ",
+        "transliteration": "Al-Podcast",
+        "notes": "الملفات الصوتية الرقمية المتاحة عبر الإنترنت"
+      },
+      "german": {
+        "article": "der",
+        "word": "Podcast",
+        "plural": "die Podcasts",
+        "gender": "masculine",
+        "example": "Ich höre auf dem Weg zur Arbeit täglich einen Bildungspodcast."
+      },
+      "english": {
+        "word": "podcast",
+        "phonetic": "/ˈpɒd.kɑːst/",
+        "example": "The weekly history podcast reached a global listening audience."
+      },
+      "image_id": "img_med_podcast"
+    },
+    {
+      "id": "med_sender",
+      "category": "media_journalism",
+      "arabic": {
+        "word": "القَنَاةُ الإِعْلَامِيَّةُ / المَحَطَّةُ",
+        "transliteration": "Al-Qanah",
+        "notes": "المؤسسة الباثة للبرامج الإذاعية أو التلفزيونية"
+      },
+      "german": {
+        "article": "der",
+        "word": "Sender",
+        "plural": "die Sender",
+        "gender": "masculine",
+        "example": "Der öffentlich-rechtliche Sender bietet verlässliche Nachrichten."
+      },
+      "english": {
+        "word": "broadcasting channel / station",
+        "phonetic": "/ˈbrɔːd.kɑːs.tɪŋ ˌtʃæn.əl/",
+        "example": "The public broadcasting channel provides impartial news coverage."
+      },
+      "image_id": "img_med_sender"
+    },
+    {
+      "id": "med_publikum",
+      "category": "media_journalism",
+      "arabic": {
+        "word": "الجُمْهُورُ / المُتَلَقُّونَ",
+        "transliteration": "Al-Jumhoor",
+        "notes": "مجموع المتابعين والقراء والمشاهدين"
+      },
+      "german": {
+        "article": "das",
+        "word": "Publikum",
+        "plural": "die Publika",
+        "gender": "neuter",
+        "example": "Das interessierte Publikum stellte nach dem Vortrag viele Fragen."
+      },
+      "english": {
+        "word": "audience / viewers",
+        "phonetic": "/ˈɔː.di.əns/",
+        "example": "The live television debate engaged a diverse national audience."
+      },
+      "image_id": "img_med_publikum"
+    },
+    {
+      "id": "med_auflage",
+      "category": "media_journalism",
+      "arabic": {
+        "word": "عَدَدُ النُّسَخِ المَطْبُوعَةِ / التَّدَاوُلُ",
+        "transliteration": "Al-'Ittlaq / Al-Mu'addal",
+        "notes": "كمية النسخ الصادرة من المطبوعة"
+      },
+      "german": {
+        "article": "die",
+        "word": "Auflage",
+        "plural": "die Auflagen",
+        "gender": "feminine",
+        "example": "Die überregionale Tageszeitung erscheint in hoher Auflage."
+      },
+      "english": {
+        "word": "circulation / print run",
+        "phonetic": "/ˌsɜː.kjəˈleɪ.ʃən/",
+        "example": "The newspaper boasts the largest weekend print circulation."
+      },
+      "image_id": "img_med_auflage"
+    },
+    {
+      "id": "med_livestream",
+      "category": "media_journalism",
+      "arabic": {
+        "word": "البَثُّ الحَيُّ المُبَاشِرُ",
+        "transliteration": "Al-Bath Al-Mubashir",
+        "notes": "نقل الأحداث في لحظة وقوعها رقميًا"
+      },
+      "german": {
+        "article": "der",
+        "word": "Livestream",
+        "plural": "die Livestreams",
+        "gender": "masculine",
+        "example": "Tausende Zuschauer verfolgten den spannenden Livestream im Internet."
+      },
+      "english": {
+        "word": "live stream",
+        "phonetic": "/ˈlaɪv.striːm/",
+        "example": "Viewers tuned in to watch the press briefing live stream."
+      },
+      "image_id": "img_med_livestream"
+    },
+    {
+      "id": "med_kommentar",
+      "category": "media_journalism",
+      "arabic": {
+        "word": "التَّعْلِيقُ الصَّحَفِيُّ / الرَّأْيُ",
+        "transliteration": "At-Ta'leeq",
+        "notes": "رأي الصحفي وتحليله لحدث معين"
+      },
+      "german": {
+        "article": "der",
+        "word": "Kommentar",
+        "plural": "die Kommentare",
+        "gender": "masculine",
+        "example": "Im meinungsstarken Kommentar analysierte sie die Wahlergebnisse."
+      },
+      "english": {
+        "word": "commentary / editorial",
+        "phonetic": "/ˈkɒm.ən.tər.i/",
+        "example": "The editorial commentary offered a balanced political perspective."
+      },
+      "image_id": "img_med_kommentar"
+    },
+    {
+      "id": "med_pr",
+      "category": "media_journalism",
+      "arabic": {
+        "word": "العَلَاقَاتُ العَامَّةُ",
+        "transliteration": "Al-'Alaqat Al-'Ammah",
+        "notes": "إدارة التواصل وبناء الصورة الإيجابية للمؤسسة"
+      },
+      "german": {
+        "article": "die",
+        "word": "Öffentlichkeitsarbeit",
+        "plural": "die Öffentlichkeitsarbeiten",
+        "gender": "feminine",
+        "example": "Gute Öffentlichkeitsarbeit fördert das Vertrauen in Organisationen."
+      },
+      "english": {
+        "word": "public relations (PR)",
+        "phonetic": "/ˌpʌb.lɪk rɪˈleɪ.ʃənz/",
+        "example": "Transparent public relations builds enduring community goodwill."
+      },
+      "image_id": "img_med_pr"
+    },
+    {
+      "id": "med_recherche",
+      "category": "media_journalism",
+      "arabic": {
+        "word": "التَّحْقِيقُ الِاسْتِقْصَائِيُّ / التَّدْقِيقُ",
+        "transliteration": "At-Tahqeeq",
+        "notes": "البحث المعمق في الوثائق والشهادات لكشف الحقائق"
+      },
+      "german": {
+        "article": "die",
+        "word": "Recherche",
+        "plural": "die Recherchen",
+        "gender": "feminine",
+        "example": "Gründliche journalistische Recherche erfordert oft monatelange Arbeit."
+      },
+      "english": {
+        "word": "fact-checking / investigation",
+        "phonetic": "/rɪˈsɜːtʃ/",
+        "example": "Meticulous investigative research uncovers hidden discrepancies."
+      },
+      "image_id": "img_med_recherche"
+    },
+    {
+      "id": "med_netzwerk",
+      "category": "media_journalism",
+      "arabic": {
+        "word": "الشَّبَكَةُ الِاجْتِمَاعِيَّةُ",
+        "transliteration": "Ash-Shabakah Al-Ijtima'iyyah",
+        "notes": "منصات التواصل والتفاعل الرقمي"
+      },
+      "german": {
+        "article": "das",
+        "word": "soziale Netzwerk",
+        "plural": "die sozialen Netzwerke",
+        "gender": "neuter",
+        "example": "Nachrichten verbreiten sich rasend schnell im sozialen Netzwerk."
+      },
+      "english": {
+        "word": "social network",
+        "phonetic": "/ˌsəʊ.ʃəl ˈnet.wɜːk/",
+        "example": "Modern breaking news breaks immediately on social networks."
+      },
+      "image_id": "img_med_netzwerk"
+    },
+    {
+      "id": "med_glaubwuerdigkeit",
+      "category": "media_journalism",
+      "arabic": {
+        "word": "المِصْدَاقِيَّةُ الإِعْلَامِيَّةُ",
+        "transliteration": "Al-Misdaqiyyah",
+        "notes": "الثقة والنزاهة التي تحظى بها الوسيلة الإعلامية"
+      },
+      "german": {
+        "article": "die",
+        "word": "Glaubwürdigkeit",
+        "plural": "die Glaubwürdigkeiten",
+        "gender": "feminine",
+        "example": "Glaubwürdigkeit ist das wertvollste Kapital einer Redaktion."
+      },
+      "english": {
+        "word": "credibility / trustworthiness",
+        "phonetic": "/ˌkred.əˈbɪl.ə.ti/",
+        "example": "Rigorous accuracy cements enduring journalistic credibility."
+      },
+      "image_id": "img_med_glaubwuerdigkeit"
+    }
+  ]
+}
