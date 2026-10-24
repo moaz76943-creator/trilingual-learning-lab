@@ -1,0 +1,133 @@
+{
+  "engine_name": "subordinating_conjunctions_engine",
+  "level": "A2",
+  "title": {
+    "ar": "محرك أدوات الربط الثانوية والجمل التابعة (Subjunktionen)",
+    "de": "Nebensätze mit unterordnenden Konjunktionen (weil, dass, obwohl, wenn, da, ob)",
+    "en": "German Subordinating Conjunctions Engine"
+  },
+  "grammar_rules": {
+    "structure": "Hauptsatz, + Konjunktion + Subjekt + ... + konjugiertes Verb (am Satzende)",
+    "inversion_rule": "إذا بدأت العبارة بالجملة التابعة (Nebensatz)، يأتي فعلها في نهايتها، ويبدأ الشطر الثاني مباشرة بفعل الجملة الرئيسية (Verb vor Subjekt).",
+    "conjunctions_list": [
+      {
+        "conjunction": "weil",
+        "ar": "لِأَنَّ (لِلتَّعْلِيلِ وَبَيَانِ السَّبَبِ)",
+        "en": "because",
+        "type": "kausal"
+      },
+      {
+        "conjunction": "dass",
+        "ar": "أَنَّ (لِلرَّبْطِ الإِخْبَارِيِّ وَالمَفْعُولِيِّ)",
+        "en": "that",
+        "type": "inhaltsbezogen"
+      },
+      {
+        "conjunction": "obwohl",
+        "ar": "رَغْمَ أَنَّ (لِلتَّنَاقُضِ وَالِاسْتِدْرَاكِ)",
+        "en": "although / even though",
+        "type": "konzessiv"
+      },
+      {
+        "conjunction": "wenn",
+        "ar": "إِذَا / لَوْ / عِنْدَمَا (شَرْطِيَّةٌ وَزَمَنِيَّةٌ)",
+        "en": "if / whenever",
+        "type": "konditional / temporal"
+      },
+      {
+        "conjunction": "da",
+        "ar": "بِمَا أَنَّ / حَيْثُ إِنَّ (سَبَبٌ مَعْرُوفٌ غَالِبًا فِي الصَّدْرِ)",
+        "en": "since / as",
+        "type": "kausal"
+      },
+      {
+        "conjunction": "ob",
+        "ar": "عَمَّا إِذَا / إِذَا مَا كَانَ (لِلسُّؤَالِ غَيْرِ المُبَاشِرِ)",
+        "en": "whether / if",
+        "type": "indirekte Frage"
+      }
+    ]
+  },
+  "templates": [
+    {
+      "id": "conj_weil",
+      "conjunction": "weil",
+      "german": "Ich lerne Deutsch, weil ich in Deutschland studieren möchte.",
+      "arabic": "أَتَعَلَّمُ الأَلْمَانِيَّةَ لِأَنَّنِي أَرْغَبُ بِالدِّرَاسَةِ فِي أَلْمَانْيَا.",
+      "english": "I am learning German because I want to study in Germany.",
+      "image_id": "img_conj_weil"
+    },
+    {
+      "id": "conj_dass",
+      "conjunction": "dass",
+      "german": "Ich weiß genau, dass du die Prüfung erfolgreich bestehst.",
+      "arabic": "أَعْلَمُ عِلْمَ اليَقِينِ أَنَّكَ سَتَجْتَازُ الِامْتِحَانَ بِنَجَاحٍ.",
+      "english": "I know for sure that you will pass the exam successfully.",
+      "image_id": "img_conj_dass"
+    },
+    {
+      "id": "conj_obwohl",
+      "conjunction": "obwohl",
+      "german": "Er geht im Park spazieren, obwohl es draußen stark regnet.",
+      "arabic": "يَذْهَبُ لِلتَّنَزُّهِ فِي الحَدِيقَةِ رَغْمَ أَنَّ المَطَرَ يَهْطِلُ بِغَزَارَةٍ.",
+      "english": "He is going for a walk in the park although it is raining heavily outside.",
+      "image_id": "img_conj_obwohl"
+    },
+    {
+      "id": "conj_wenn",
+      "conjunction": "wenn",
+      "german": "Wenn ich heute früher Feierabend habe, rufe ich dich an.",
+      "arabic": "إِذَا أَنْهَيْتُ عَمَلِي مُبَكِّرًا اليَوْمَ، فَسَأَتَّصِلُ بِكَ هَاتِفِيًّا.",
+      "english": "If I finish work earlier today, I will give you a call.",
+      "image_id": "img_conj_wenn"
+    },
+    {
+      "id": "conj_da",
+      "conjunction": "da",
+      "german": "Da er erkältet ist, bleibt er heute den ganzen Tag im Bett.",
+      "arabic": "بِمَا أَنَّهُ مُصَابٌ بِالزُّكَامِ، فَإِنَّهُ يَبْقَى اليَوْمَ طَوَالَ الوَقْتِ فِي الفِرَاشِ.",
+      "english": "Since he has a cold, he is staying in bed all day today.",
+      "image_id": "img_conj_da"
+    },
+    {
+      "id": "conj_ob",
+      "conjunction": "ob",
+      "german": "Ich frage mich, ob der Schnellzug heute pünktlich ankommt.",
+      "arabic": "أَتَسَاءَلُ عَمَّا إِذَا كَانَ القِطَارُ السَّرِيعُ سَيَصِلُ فِي مَوْعِدِهِ اليَوْمَ.",
+      "english": "I wonder whether the express train will arrive on time today.",
+      "image_id": "img_conj_ob"
+    },
+    {
+      "id": "conj_pruefung",
+      "conjunction": "weil",
+      "german": "Wir feiern heute, weil alle Studenten die B1-Prüfung bestanden haben.",
+      "arabic": "نَحْتَفِلُ اليَوْمَ لِأَنَّ جَمِيعَ الطُّلَّابِ اجْتَازُوا امْتِحَانَ B1.",
+      "english": "We are celebrating today because all students passed the B1 exam.",
+      "image_id": "img_conj_pruefung"
+    },
+    {
+      "id": "conj_gesund",
+      "conjunction": "dass",
+      "german": "Der Arzt sagt, dass tägliche Bewegung sehr gesund ist.",
+      "arabic": "يَقُولُ الطَّبِيبُ إِنَّ الحَرَكَةَ اليَوْمِيَّةَ صِحِّيَّةٌ جِدًّا.",
+      "english": "The doctor says that daily physical activity is very healthy.",
+      "image_id": "img_conj_gesund"
+    },
+    {
+      "id": "conj_laecheln",
+      "conjunction": "obwohl",
+      "german": "Sie lächelt freundlich, obwohl sie von der Arbeit sehr müde ist.",
+      "arabic": "تَبْتَسِمُ بِلُطْفٍ رَغْمَ أَنَّهَا مُتْعَبَةٌ كَثِيرًا مِنَ العَمَلِ.",
+      "english": "She smiles kindly although she is very tired from work.",
+      "image_id": "img_conj_laecheln"
+    },
+    {
+      "id": "conj_picknick",
+      "conjunction": "wenn",
+      "german": "Wenn das Wetter sonnig und warm ist, machen wir ein Picknick.",
+      "arabic": "عِنْدَمَا يَكُونُ الطَّقْسُ مُشْمِسًا وَدَافِئًا، نَقُومُ بِنُزْهَةٍ خَلَوِيَّةٍ.",
+      "english": "When the weather is sunny and warm, we have a picnic.",
+      "image_id": "img_conj_picknick"
+    }
+  ]
+}
