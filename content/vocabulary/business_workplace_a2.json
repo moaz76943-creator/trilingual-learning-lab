@@ -1,0 +1,561 @@
+{
+  "category_id": "business_workplace",
+  "category_name": {
+    "ar": "الأعمال والمراسلات المهنية",
+    "de": "Wirtschaft, Beruf & Kommunikation",
+    "en": "Business & Workplace"
+  },
+  "level": "A2",
+  "concepts": [
+    {
+      "id": "biz_unternehmen",
+      "category": "business_workplace",
+      "arabic": {
+        "word": "الشَّرِكَةُ / المُؤَسَّسَةُ",
+        "transliteration": "Ash-Sharikah",
+        "notes": "الكيان التجاري أو الاقتصادي"
+      },
+      "german": {
+        "article": "das",
+        "word": "Unternehmen",
+        "plural": "die Unternehmen",
+        "gender": "neuter",
+        "example": "Das internationale Unternehmen beschäftigt über tausend Mitarbeiter."
+      },
+      "english": {
+        "word": "company / enterprise",
+        "phonetic": "/ˈkʌm.pə.ni/",
+        "example": "The tech enterprise expanded into new global markets."
+      },
+      "image_id": "img_biz_unternehmen"
+    },
+    {
+      "id": "biz_buero",
+      "category": "business_workplace",
+      "arabic": {
+        "word": "المَكْتَبُ / مَقَرُّ العَمَلِ",
+        "transliteration": "Al-Maktab",
+        "notes": "مكان ممارسة الأعمال الإدارية"
+      },
+      "german": {
+        "article": "das",
+        "word": "Büro",
+        "plural": "die Büros",
+        "gender": "neuter",
+        "example": "Ich arbeite montags und mittwochs im modernen Büro."
+      },
+      "english": {
+        "word": "office",
+        "phonetic": "/ˈɒf.ɪs/",
+        "example": "Our open-plan office is located in the financial district."
+      },
+      "image_id": "img_biz_buero"
+    },
+    {
+      "id": "biz_besprechung",
+      "category": "business_workplace",
+      "arabic": {
+        "word": "الِاجْتِمَاعُ المِهْنِيُّ",
+        "transliteration": "Al-Ijtima'",
+        "notes": "جلسة تشاور وتنسيق بين فرق العمل"
+      },
+      "german": {
+        "article": "die",
+        "word": "Besprechung",
+        "plural": "die Besprechungen",
+        "gender": "feminine",
+        "example": "Die wichtige Teambesprechung beginnt um zehn Uhr im Konferenzraum."
+      },
+      "english": {
+        "word": "meeting / briefing",
+        "phonetic": "/ˈmiː.tɪŋ/",
+        "example": "We scheduled an urgent strategy meeting with stakeholders."
+      },
+      "image_id": "img_biz_besprechung"
+    },
+    {
+      "id": "biz_kollege",
+      "category": "business_workplace",
+      "arabic": {
+        "word": "الزَّمِيلُ فِي العَمَلِ",
+        "transliteration": "Az-Zameel",
+        "notes": "الموظف الزميل في نفس المؤسسة"
+      },
+      "german": {
+        "article": "der",
+        "word": "Kollege",
+        "plural": "die Kollegen",
+        "gender": "masculine (n-Deklination)",
+        "example": "Mein erfahrener Kollege half mir bei der Einarbeitung."
+      },
+      "english": {
+        "word": "colleague / coworker (male)",
+        "phonetic": "/ˈkɒl.iːɡ/",
+        "example": "My senior colleague offered insightful professional guidance."
+      },
+      "image_id": "img_biz_kollege"
+    },
+    {
+      "id": "biz_kollegin",
+      "category": "business_workplace",
+      "arabic": {
+        "word": "الزَّمِيلَةُ فِي العَمَلِ",
+        "transliteration": "Az-Zameelah",
+        "notes": "الموظفة الزميلة في المؤسسة"
+      },
+      "german": {
+        "article": "die",
+        "word": "Kollegin",
+        "plural": "die Kolleginnen",
+        "gender": "feminine",
+        "example": "Die freundliche Kollegin leitet das neue IT-Projekt."
+      },
+      "english": {
+        "word": "colleague / coworker (female)",
+        "phonetic": "/ˈkɒl.iːɡ/",
+        "example": "Our new colleague manages international client relations."
+      },
+      "image_id": "img_biz_kollegin"
+    },
+    {
+      "id": "biz_manager",
+      "category": "business_workplace",
+      "arabic": {
+        "word": "المُدِيرُ / المَسْؤُولُ التَّنْفِيذِيُّ",
+        "transliteration": "Al-Mudeer",
+        "notes": "المسؤول عن توجيه الأقسام وإدارتها"
+      },
+      "german": {
+        "article": "der",
+        "word": "Manager",
+        "plural": "die Manager",
+        "gender": "masculine",
+        "example": "Der Manager präsentierte die Quartalszahlen dem Vorstand."
+      },
+      "english": {
+        "word": "manager / executive",
+        "phonetic": "/ˈmæn.ɪ.dʒər/",
+        "example": "The executive manager introduced the quarterly performance goals."
+      },
+      "image_id": "img_biz_manager"
+    },
+    {
+      "id": "biz_kunde",
+      "category": "business_workplace",
+      "arabic": {
+        "word": "العَمِيلُ / الزَّبُونُ",
+        "transliteration": "Al-'Ameel",
+        "notes": "الشخص أو الجهة المستفيدة من الخدمات"
+      },
+      "german": {
+        "article": "der",
+        "word": "Kunde",
+        "plural": "die Kunden",
+        "gender": "masculine (n-Deklination)",
+        "example": "Kundenzufriedenheit steht bei uns an erster Stelle."
+      },
+      "english": {
+        "word": "client / customer",
+        "phonetic": "/ˈklaɪ.ənt/",
+        "example": "Building lasting client relationships is essential for success."
+      },
+      "image_id": "img_biz_kunde"
+    },
+    {
+      "id": "biz_vertrag",
+      "category": "business_workplace",
+      "arabic": {
+        "word": "عَقْدُ العَمَلِ",
+        "transliteration": "Aqd Al-'Amal",
+        "notes": "الاتفاق القانوني المحدد للحقوق والواجبات"
+      },
+      "german": {
+        "article": "der",
+        "word": "Arbeitsvertrag",
+        "plural": "die Arbeitsverträge",
+        "gender": "masculine",
+        "example": "Er hat gestern seinen unbefristeten Arbeitsvertrag unterschrieben."
+      },
+      "english": {
+        "word": "employment contract",
+        "phonetic": "/ˈkɒn.trækt/",
+        "example": "She signed a permanent employment contract with the firm."
+      },
+      "image_id": "img_biz_vertrag"
+    },
+    {
+      "id": "biz_gehalt",
+      "category": "business_workplace",
+      "arabic": {
+        "word": "الرَّاتِبُ الشَّهْرِيُّ",
+        "transliteration": "Ar-Ratib",
+        "notes": "المقابل المالي الدوري للعمل"
+      },
+      "german": {
+        "article": "das",
+        "word": "Gehalt",
+        "plural": "die Gehälter",
+        "gender": "neuter",
+        "example": "Das Gehalt wird am Monatsende pünktlich überwiesen."
+      },
+      "english": {
+        "word": "salary / compensation",
+        "phonetic": "/ˈsæl.ər.i/",
+        "example": "Employees receive competitive monthly salaries and bonuses."
+      },
+      "image_id": "img_biz_gehalt"
+    },
+    {
+      "id": "biz_vorstellungsgespraech",
+      "category": "business_workplace",
+      "arabic": {
+        "word": "مُقَابَلَةُ التَّوْظِيفِ",
+        "transliteration": "Muqabalat At-Tawtheef",
+        "notes": "المحادثة التقييمية لاختيار الموظف المناسب"
+      },
+      "german": {
+        "article": "das",
+        "word": "Vorstellungsgespräch",
+        "plural": "die Vorstellungsgespräche",
+        "gender": "neuter",
+        "example": "Sie hat morgen ein wichtiges Vorstellungsgespräch in Frankfurt."
+      },
+      "english": {
+        "word": "job interview",
+        "phonetic": "/dʒɒb ˈɪn.tə.vjuː/",
+        "example": "He prepared thoroughly for his technical job interview."
+      },
+      "image_id": "img_biz_vorstellungsgespraech"
+    },
+    {
+      "id": "biz_lebenslauf",
+      "category": "business_workplace",
+      "arabic": {
+        "word": "السِّيرَةُ الذَّاتِيَّةُ",
+        "transliteration": "As-Seerah Ath-Thatiyyah",
+        "notes": "ملخص الخبرات الأكاديمية والمهنية"
+      },
+      "german": {
+        "article": "der",
+        "word": "Lebenslauf",
+        "plural": "die Lebensläufe",
+        "gender": "masculine",
+        "example": "Ein lückenloser tabellarischer Lebenslauf gehört zur Bewerbung."
+      },
+      "english": {
+        "word": "resume / CV",
+        "phonetic": "/ˈrez.juː.meɪ/",
+        "example": "Keep your professional resume concise and updated."
+      },
+      "image_id": "img_biz_lebenslauf"
+    },
+    {
+      "id": "biz_bewerbung",
+      "category": "business_workplace",
+      "arabic": {
+        "word": "طَلَبُ التَّقَدُّمِ لِوَظِيفَةٍ",
+        "transliteration": "Talab At-Taqaddum",
+        "notes": "الملف التقديمي لشغل شاغر وظيفي"
+      },
+      "german": {
+        "article": "die",
+        "word": "Bewerbung",
+        "plural": "die Bewerbungen",
+        "gender": "feminine",
+        "example": "Ich habe meine Bewerbung heute per E-Mail abgeschickt."
+      },
+      "english": {
+        "word": "job application",
+        "phonetic": "/ˌæp.lɪˈkeɪ.ʃən/",
+        "example": "Submit your job application through the online career portal."
+      },
+      "image_id": "img_biz_bewerbung"
+    },
+    {
+      "id": "biz_projekt",
+      "category": "business_workplace",
+      "arabic": {
+        "word": "المَشْرُوعُ",
+        "transliteration": "Al-Mashroo'",
+        "notes": "الخطة ذات الأهداف والجدول الزمني المحدد"
+      },
+      "german": {
+        "article": "das",
+        "word": "Projekt",
+        "plural": "die Projekte",
+        "gender": "neuter",
+        "example": "Wir arbeiten gemeinsam an einem zukunftsweisenden Softwareprojekt."
+      },
+      "english": {
+        "word": "project",
+        "phonetic": "/ˈprɒdʒ.ekt/",
+        "example": "The development team delivered the software project ahead of time."
+      },
+      "image_id": "img_biz_projekt"
+    },
+    {
+      "id": "biz_praesentation",
+      "category": "business_workplace",
+      "arabic": {
+        "word": "العَرْضُ التَّقْدِيمِيُّ",
+        "transliteration": "Al-'Ard At-Taqdeemi",
+        "notes": "استعراض الأفكار والبيانات بصريًا"
+      },
+      "german": {
+        "article": "die",
+        "word": "Präsentation",
+        "plural": "die Präsentationen",
+        "gender": "feminine",
+        "example": "Seine überzeugende Präsentation begeisterte die Kunden."
+      },
+      "english": {
+        "word": "presentation",
+        "phonetic": "/ˌprez.ənˈteɪ.ʃən/",
+        "example": "She delivered an engaging slide presentation on innovation."
+      },
+      "image_id": "img_biz_praesentation"
+    },
+    {
+      "id": "biz_verhandlung",
+      "category": "business_workplace",
+      "arabic": {
+        "word": "التَّفَاوُضُ / المُفَاوَضَاتُ",
+        "transliteration": "At-Tafawud",
+        "notes": "الحوار الهادف للتوصل إلى اتفاق مرضي"
+      },
+      "german": {
+        "article": "die",
+        "word": "Verhandlung",
+        "plural": "die Verhandlungen",
+        "gender": "feminine",
+        "example": "Die Verhandlungen führten zu einem fairen Kompromiss."
+      },
+      "english": {
+        "word": "negotiation",
+        "phonetic": "/nəˌɡəʊ.ʃiˈeɪ.ʃən/",
+        "example": "Constructive contract negotiations finalized the partnership."
+      },
+      "image_id": "img_biz_verhandlung"
+    },
+    {
+      "id": "biz_frist",
+      "category": "business_workplace",
+      "arabic": {
+        "word": "المَوْعِدُ النِّهَائِيُّ / الأَجَلُ",
+        "transliteration": "Al-Maw'id An-Niha'i",
+        "notes": "آخر مهلة لتسليم الأعمال أو المهام"
+      },
+      "german": {
+        "article": "die",
+        "word": "Frist",
+        "plural": "die Fristen",
+        "gender": "feminine",
+        "example": "Wir müssen die Frist bis Freitag unbedingt einhalten."
+      },
+      "english": {
+        "word": "deadline",
+        "phonetic": "/ˈded.laɪn/",
+        "example": "The project deadline must be met without compromise."
+      },
+      "image_id": "img_biz_frist"
+    },
+    {
+      "id": "biz_abteilung",
+      "category": "business_workplace",
+      "arabic": {
+        "word": "القِسْمُ الإِدَارِيُّ",
+        "transliteration": "Al-Qism Al-Idari",
+        "notes": "فرع متخصص داخل المؤسسة كالمالية أو التسويق"
+      },
+      "german": {
+        "article": "die",
+        "word": "Abteilung",
+        "plural": "die Abteilungen",
+        "gender": "feminine",
+        "example": "Die Marketing-Abteilung plant eine neue Werbekampagne."
+      },
+      "english": {
+        "word": "department / division",
+        "phonetic": "/dɪˈpɑːt.mənt/",
+        "example": "The marketing department launched a creative campaign."
+      },
+      "image_id": "img_biz_abteilung"
+    },
+    {
+      "id": "biz_teamarbeit",
+      "category": "business_workplace",
+      "arabic": {
+        "word": "العَمَلُ الجَمَاعِيُّ",
+        "transliteration": "Al-'Amal Al-Jama'i",
+        "notes": "تكاتف الفريق لتحقيق هدف مشترك"
+      },
+      "german": {
+        "article": "die",
+        "word": "Teamarbeit",
+        "plural": "die Teamarbeiten",
+        "gender": "feminine",
+        "example": "Erfolgreiche Teamarbeit basiert auf Vertrauen und offener Kommunikation."
+      },
+      "english": {
+        "word": "teamwork / collaboration",
+        "phonetic": "/ˈtiːm.wɜːk/",
+        "example": "Close cross-functional teamwork drives organizational innovation."
+      },
+      "image_id": "img_biz_teamarbeit"
+    },
+    {
+      "id": "biz_rechnung",
+      "category": "business_workplace",
+      "arabic": {
+        "word": "الفَاتُورَةُ",
+        "transliteration": "Al-Fatoorah",
+        "notes": "المستند المالي المطالب بقيمة الخدمات أو البضائع"
+      },
+      "german": {
+        "article": "die",
+        "word": "Rechnung",
+        "plural": "die Rechnungen",
+        "gender": "feminine",
+        "example": "Bitte begleichen Sie die beiliegende Rechnung innerhalb von zwei Wochen."
+      },
+      "english": {
+        "word": "invoice / bill",
+        "phonetic": "/ˈɪn.vɔɪs/",
+        "example": "The accounting team issued the official tax invoice."
+      },
+      "image_id": "img_biz_rechnung"
+    },
+    {
+      "id": "biz_angebot",
+      "category": "business_workplace",
+      "arabic": {
+        "word": "العَرْضُ التِّجَارِيُّ",
+        "transliteration": "Al-'Ard At-Tijari",
+        "notes": "مقترح تقديم خدمة أو بيع سلعة بشروط معينة"
+      },
+      "german": {
+        "article": "das",
+        "word": "Angebot",
+        "plural": "die Angebote",
+        "gender": "neuter",
+        "example": "Wir haben dem Kunden ein sehr günstiges Angebot unterbreitet."
+      },
+      "english": {
+        "word": "business proposal / offer",
+        "phonetic": "/ˈɒf.ər/",
+        "example": "We submitted a comprehensive proposal to the prospective client."
+      },
+      "image_id": "img_biz_angebot"
+    },
+    {
+      "id": "biz_ueberstunden",
+      "category": "business_workplace",
+      "arabic": {
+        "word": "السَّاعَاتُ الإِضَافِيَّةُ",
+        "transliteration": "As-Sa'at Al-Idafiyyah",
+        "notes": "وقت العمل الزائد عن الساعات المقررة"
+      },
+      "german": {
+        "article": "die",
+        "word": "Überstunden",
+        "plural": "die Überstunden",
+        "gender": "plural",
+        "example": "Wegen des engen Zeitplans musste das Team Überstunden machen."
+      },
+      "english": {
+        "word": "overtime hours",
+        "phonetic": "/ˈəʊ.və.taɪm/",
+        "example": "Staff were compensated fairly for working overtime hours."
+      },
+      "image_id": "img_biz_ueberstunden"
+    },
+    {
+      "id": "biz_erfolg",
+      "category": "business_workplace",
+      "arabic": {
+        "word": "النَّجَاحُ المِهْنِيُّ",
+        "transliteration": "An-Najah Al-Mihni",
+        "notes": "تحقيق الإنجازات والنتائج المرجوة"
+      },
+      "german": {
+        "article": "der",
+        "word": "Erfolg",
+        "plural": "die Erfolge",
+        "gender": "masculine",
+        "example": "Harte Arbeit und Ausdauer führten schließlich zum großen Erfolg."
+      },
+      "english": {
+        "word": "professional success",
+        "phonetic": "/səkˈses/",
+        "example": "Dedication and continuous learning ensure professional success."
+      },
+      "image_id": "img_biz_erfolg"
+    },
+    {
+      "id": "biz_karriere",
+      "category": "business_workplace",
+      "arabic": {
+        "word": "المَسَارُ المِهْنِيُّ / المِهْنَةُ",
+        "transliteration": "Al-Masar Al-Mihni",
+        "notes": "التطور والترقي في السلم الوظيفي"
+      },
+      "german": {
+        "article": "die",
+        "word": "Karriere",
+        "plural": "die Karrieren",
+        "gender": "feminine",
+        "example": "Sie verfolgt eine zielstrebige Karriere im Finanzsektor."
+      },
+      "english": {
+        "word": "career",
+        "phonetic": "/kəˈrɪər/",
+        "example": "He built an illustrious career in software architecture."
+      },
+      "image_id": "img_biz_karriere"
+    },
+    {
+      "id": "biz_qualifikation",
+      "category": "business_workplace",
+      "arabic": {
+        "word": "المُؤَهِّلُ المِهْنِيُّ",
+        "transliteration": "Al-Mu'ahhil",
+        "notes": "الشهادات والمهارات المتخصصة لشغل وظيفة"
+      },
+      "german": {
+        "article": "die",
+        "word": "Qualifikation",
+        "plural": "die Qualifikationen",
+        "gender": "feminine",
+        "example": "Ihre fundierten Sprachkenntnisse sind eine hervorragende Qualifikation."
+      },
+      "english": {
+        "word": "qualification / credential",
+        "phonetic": "/ˌkwɒl.ɪ.fɪˈkeɪ.ʃən/",
+        "example": "Multilingual proficiency is an outstanding professional qualification."
+      },
+      "image_id": "img_biz_qualifikation"
+    },
+    {
+      "id": "biz_dienstreise",
+      "category": "business_workplace",
+      "arabic": {
+        "word": "رِحْلَةُ العَمَلِ / مَهَمَّةُ العَمَلِ",
+        "transliteration": "Rihlat Al-'Amal",
+        "notes": "السفر الرسمي لإنجاز مهام لصالح المؤسسة"
+      },
+      "german": {
+        "article": "die",
+        "word": "Dienstreise",
+        "plural": "die Dienstreisen",
+        "gender": "feminine",
+        "example": "Nächste Woche fliegt der Ingenieur auf Dienstreise nach Tokio."
+      },
+      "english": {
+        "word": "business trip",
+        "phonetic": "/ˈbɪz.nɪs ˌtrɪp/",
+        "example": "The lead engineer embarked on an international business trip."
+      },
+      "image_id": "img_biz_dienstreise"
+    }
+  ]
+}
