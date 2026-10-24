@@ -1,0 +1,561 @@
+{
+  "category_id": "wellness_fitness",
+  "category_name": {
+    "ar": "الصحة النفسية واللياقة البدنية",
+    "de": "Fitness & Wohlbefinden",
+    "en": "Wellness & Fitness"
+  },
+  "level": "A2",
+  "concepts": [
+    {
+      "id": "wel_wohlbefinden",
+      "category": "wellness_fitness",
+      "arabic": {
+        "word": "العَافِيَةُ / العِنَايَةُ بِالصِّحَّةِ",
+        "transliteration": "Al-'Aafiyah",
+        "notes": "حالة السلامة الجسدية والنفسية الشاملة"
+      },
+      "german": {
+        "article": "das",
+        "word": "Wohlbefinden",
+        "plural": "die Wohlbefinden",
+        "gender": "neuter",
+        "example": "Regelmäßige Bewegung steigert das persönliche Wohlbefinden."
+      },
+      "english": {
+        "word": "well-being / wellness",
+        "phonetic": "/ˌwelˈbiː.ɪŋ/",
+        "example": "Regular gentle exercise enhances physical and emotional well-being."
+      },
+      "image_id": "img_wel_wohlbefinden"
+    },
+    {
+      "id": "wel_psychische_gesundheit",
+      "category": "wellness_fitness",
+      "arabic": {
+        "word": "الصِّحَّةُ النَّفْسِيَّةُ",
+        "transliteration": "As-Sihhah An-Nafsiyyah",
+        "notes": "التوازن والاستقرار النفسي والعاطفي"
+      },
+      "german": {
+        "article": "die",
+        "word": "psychische Gesundheit",
+        "plural": "die psychischen Gesundheiten",
+        "gender": "feminine",
+        "example": "Psychische Gesundheit ist genauso wichtig wie körperliche Fitness."
+      },
+      "english": {
+        "word": "mental health",
+        "phonetic": "/ˌmen.təl ˈhelθ/",
+        "example": "Prioritizing mental health leads to a more balanced life."
+      },
+      "image_id": "img_wel_psychische_gesundheit"
+    },
+    {
+      "id": "wel_fitness",
+      "category": "wellness_fitness",
+      "arabic": {
+        "word": "اللِّيَاقَةُ البَدَنِيَّةُ",
+        "transliteration": "Al-Liyaqah Al-Badaniyyah",
+        "notes": "مستوى القدرة والتحمل الجسدي"
+      },
+      "german": {
+        "article": "die",
+        "word": "Fitness",
+        "plural": "die Fitness",
+        "gender": "feminine",
+        "example": "Mit täglichem Training verbessert er seine allgemeine Fitness."
+      },
+      "english": {
+        "word": "fitness",
+        "phonetic": "/ˈfɪt.nəs/",
+        "example": "Consistent cardio training builds overall physical fitness."
+      },
+      "image_id": "img_wel_fitness"
+    },
+    {
+      "id": "wel_meditation",
+      "category": "wellness_fitness",
+      "arabic": {
+        "word": "التَّأَمُّلُ",
+        "transliteration": "At-Ta'ammul",
+        "notes": "تمرين التركيز الذهني وتصفية الذهن"
+      },
+      "german": {
+        "article": "die",
+        "word": "Meditation",
+        "plural": "die Meditationen",
+        "gender": "feminine",
+        "example": "Zehn Minuten Meditation am Morgen bringen innere Ruhe."
+      },
+      "english": {
+        "word": "meditation",
+        "phonetic": "/ˌmed.ɪˈteɪ.ʃən/",
+        "example": "Daily morning meditation clears mental clutter effectively."
+      },
+      "image_id": "img_wel_meditation"
+    },
+    {
+      "id": "wel_stress",
+      "category": "wellness_fitness",
+      "arabic": {
+        "word": "الضَّغْطُ النَّفْسِيُّ / الإِجْهَادُ",
+        "transliteration": "Ad-Daqt An-Nafsi",
+        "notes": "التوتر الناتج عن الأعباء المتراكمة"
+      },
+      "german": {
+        "article": "der",
+        "word": "Stress",
+        "plural": "die Stresse",
+        "gender": "masculine",
+        "example": "Tiefes Durchatmen hilft effektiv beim Abbau von Stress."
+      },
+      "english": {
+        "word": "stress",
+        "phonetic": "/stres/",
+        "example": "Deep conscious breathing relieves daily workplace stress."
+      },
+      "image_id": "img_wel_stress"
+    },
+    {
+      "id": "wel_entspannung",
+      "category": "wellness_fitness",
+      "arabic": {
+        "word": "الِاسْتِرْخَاءُ / الرَّاحَةُ",
+        "transliteration": "Al-Istirkha'",
+        "notes": "التحرر من التوتر العضلي والعصبي"
+      },
+      "german": {
+        "article": "die",
+        "word": "Entspannung",
+        "plural": "die Entspannungen",
+        "gender": "feminine",
+        "example": "Ein warmes Bad sorgt für tiefe Entspannung nach der Arbeit."
+      },
+      "english": {
+        "word": "relaxation",
+        "phonetic": "/ˌriː.lækˈseɪ.ʃən/",
+        "example": "Listening to calm acoustics promotes muscle relaxation."
+      },
+      "image_id": "img_wel_entspannung"
+    },
+    {
+      "id": "wel_fitnessstudio",
+      "category": "wellness_fitness",
+      "arabic": {
+        "word": "صَالَةُ الأَلْعَابِ الرِّيَاضِيَّةِ",
+        "transliteration": "Salat Al-Al'ab",
+        "notes": "مكان مجهز بأجهزة تقوية العضلات واللياقة"
+      },
+      "german": {
+        "article": "das",
+        "word": "Fitnessstudio",
+        "plural": "die Fitnessstudios",
+        "gender": "neuter",
+        "example": "Er trainiert dreimal pro Woche im modernen Fitnessstudio."
+      },
+      "english": {
+        "word": "gym / fitness center",
+        "phonetic": "/dʒɪm/",
+        "example": "She works out at the community gym three times a week."
+      },
+      "image_id": "img_wel_fitnessstudio"
+    },
+    {
+      "id": "wel_uebung",
+      "category": "wellness_fitness",
+      "arabic": {
+        "word": "التَّمْرِينُ البَدَنِيُّ",
+        "transliteration": "At-Tamreen Al-Badani",
+        "notes": "حركة رياضية مكررة لتقوية الجسد"
+      },
+      "german": {
+        "article": "die",
+        "word": "Übung",
+        "plural": "die Übungen",
+        "gender": "feminine",
+        "example": "Diese Dehnübung ist besonders gut für den Rücken."
+      },
+      "english": {
+        "word": "exercise / workout",
+        "phonetic": "/ˈek.sə.saɪz/",
+        "example": "This stretching exercise relieves lower back stiffness."
+      },
+      "image_id": "img_wel_uebung"
+    },
+    {
+      "id": "wel_atmung",
+      "category": "wellness_fitness",
+      "arabic": {
+        "word": "التَّنَفُّسُ العَمِيقُ",
+        "transliteration": "At-Tanaffus",
+        "notes": "عملية الشهيق والزفير الهادفة لتهدئة النبض"
+      },
+      "german": {
+        "article": "die",
+        "word": "Atmung",
+        "plural": "die Atmungen",
+        "gender": "feminine",
+        "example": "Achte während des Trainings auf eine gleichmäßige Atmung."
+      },
+      "english": {
+        "word": "breathing / respiration",
+        "phonetic": "/ˈbriː.ðɪŋ/",
+        "example": "Controlled breathing lowers heart rate during tension."
+      },
+      "image_id": "img_wel_atmung"
+    },
+    {
+      "id": "wel_yoga",
+      "category": "wellness_fitness",
+      "arabic": {
+        "word": "اليُوغَا",
+        "transliteration": "Al-Yoga",
+        "notes": "رياضة روحية وجسدية تعزز المرونة والتركيز"
+      },
+      "german": {
+        "article": "das",
+        "word": "Yoga",
+        "plural": "die Yogas",
+        "gender": "neuter",
+        "example": "Yoga fördert sowohl körperliche Beweglichkeit als auch mentale Ruhe."
+      },
+      "english": {
+        "word": "yoga",
+        "phonetic": "/ˈjəʊ.ɡə/",
+        "example": "Practicing yoga improves posture, flexibility, and focus."
+      },
+      "image_id": "img_wel_yoga"
+    },
+    {
+      "id": "wel_joggen",
+      "category": "wellness_fitness",
+      "arabic": {
+        "word": "الجَرْيُ / الرَّكْضُ الخَفِيفُ",
+        "transliteration": "Al-Jary",
+        "notes": "رياضة الركض في الهواء الطلق"
+      },
+      "german": {
+        "article": "das",
+        "word": "Joggen",
+        "plural": "die Joggen",
+        "gender": "neuter",
+        "example": "Frühmorgens gehe ich gerne eine halbe Stunde im Park joggen."
+      },
+      "english": {
+        "word": "jogging / running",
+        "phonetic": "/ˈdʒɒɡ.ɪŋ/",
+        "example": "Morning jogging through green parks boosts cardiovascular stamina."
+      },
+      "image_id": "img_wel_joggen"
+    },
+    {
+      "id": "wel_muskel",
+      "category": "wellness_fitness",
+      "arabic": {
+        "word": "العَضَلَةُ",
+        "transliteration": "Al-'Adalah",
+        "notes": "النسيج العضلي المسؤول عن حركة الجسم وقوته"
+      },
+      "german": {
+        "article": "der",
+        "word": "Muskel",
+        "plural": "die Muskeln",
+        "gender": "masculine",
+        "example": "Krafttraining baut starke Muskeln auf und schützt die Gelenke."
+      },
+      "english": {
+        "word": "muscle",
+        "phonetic": "/ˈmʌs.əl/",
+        "example": "Resistance training builds lean muscle and strengthens joints."
+      },
+      "image_id": "img_wel_muskel"
+    },
+    {
+      "id": "wel_herzschlag",
+      "category": "wellness_fitness",
+      "arabic": {
+        "word": "نَبْضُ القَلْبِ",
+        "transliteration": "Nabd Al-Qalb",
+        "notes": "دقات القلب المعبرة عن الجهد والراحة"
+      },
+      "german": {
+        "article": "der",
+        "word": "Herzschlag",
+        "plural": "die Herzschläge",
+        "gender": "masculine",
+        "example": "Beim Ausdauertraining erhöht sich der Herzschlag spürbar."
+      },
+      "english": {
+        "word": "heartbeat / pulse",
+        "phonetic": "/ˈhɑːt.biːt/",
+        "example": "Aerobic workouts gradually increase your resting heartbeat efficiency."
+      },
+      "image_id": "img_wel_herzschlag"
+    },
+    {
+      "id": "wel_ernaehrung",
+      "category": "wellness_fitness",
+      "arabic": {
+        "word": "التَّغْذِيَةُ السَّلِيمَةُ",
+        "transliteration": "At-Taghthiyah As-Saleemah",
+        "notes": "تناول الأطعمة الغنية بالمعادن والفيتامينات"
+      },
+      "german": {
+        "article": "die",
+        "word": "Ernährung",
+        "plural": "die Ernährungen",
+        "gender": "feminine",
+        "example": "Eine ausgewogene Ernährung liefert Energie für den ganzen Tag."
+      },
+      "english": {
+        "word": "nutrition / diet",
+        "phonetic": "/njuːˈtrɪʃ.ən/",
+        "example": "Balanced daily nutrition provides sustained vitality and energy."
+      },
+      "image_id": "img_wel_ernaehrung"
+    },
+    {
+      "id": "wel_vitamin",
+      "category": "wellness_fitness",
+      "arabic": {
+        "word": "الفِيتَامِينُ",
+        "transliteration": "Al-Vitamin",
+        "notes": "المركب الغذائي الضروري للمناعة والنمو"
+      },
+      "german": {
+        "article": "das",
+        "word": "Vitamin",
+        "plural": "die Vitamine",
+        "gender": "neuter",
+        "example": "Frisches Obst und Gemüse enthalten wertvolle Vitamine."
+      },
+      "english": {
+        "word": "vitamin",
+        "phonetic": "/ˈvɪt.ə.mɪn/",
+        "example": "Citrus fruits are packed with immune-boosting vitamin C."
+      },
+      "image_id": "img_wel_vitamin"
+    },
+    {
+      "id": "wel_schlaf",
+      "category": "wellness_fitness",
+      "arabic": {
+        "word": "جَوْدَةُ النَّوْمِ / النَّوْمُ العَمِيقُ",
+        "transliteration": "Jawdat An-Nawm",
+        "notes": "الراحة الليلية الكافية لترميم الخلايا"
+      },
+      "german": {
+        "article": "der",
+        "word": "Schlaf",
+        "plural": "die Schlafe",
+        "gender": "masculine",
+        "example": "Acht Stunden erholsamer Schlaf sind unverzichtbar für die Regeneration."
+      },
+      "english": {
+        "word": "sleep quality / rest",
+        "phonetic": "/sliːp/",
+        "example": "Uninterrupted deep sleep is crucial for cellular repair."
+      },
+      "image_id": "img_wel_schlaf"
+    },
+    {
+      "id": "wel_energie",
+      "category": "wellness_fitness",
+      "arabic": {
+        "word": "مُسْتَوَى الطَّاقَةِ وَالنَّشَاطِ",
+        "transliteration": "Mustawa At-Taqah",
+        "notes": "الحيوية والقدرة على العمل دون إعياء"
+      },
+      "german": {
+        "article": "die",
+        "word": "Energie",
+        "plural": "die Energien",
+        "gender": "feminine",
+        "example": "Nach einem gesunden Frühstück habe ich viel Energie."
+      },
+      "english": {
+        "word": "energy level / vitality",
+        "phonetic": "/ˈen.ə.dʒi/",
+        "example": "A wholesome protein breakfast sustains high energy levels."
+      },
+      "image_id": "img_wel_energie"
+    },
+    {
+      "id": "wel_gleichgewicht",
+      "category": "wellness_fitness",
+      "arabic": {
+        "word": "التَّوَازُنُ البَدَنِيُّ وَالنَّفْسِيُّ",
+        "transliteration": "At-Tawazun",
+        "notes": "حالة الاستقرار بين الجهد والراحة"
+      },
+      "german": {
+        "article": "das",
+        "word": "Gleichgewicht",
+        "plural": "die Gleichgewichte",
+        "gender": "neuter",
+        "example": "Finde das richtige Gleichgewicht zwischen Arbeit und Erholung."
+      },
+      "english": {
+        "word": "balance / equilibrium",
+        "phonetic": "/ˈbæl.əns/",
+        "example": "Striking a healthy work-life balance prevents burnout."
+      },
+      "image_id": "img_wel_gleichgewicht"
+    },
+    {
+      "id": "wel_erschoepfung",
+      "category": "wellness_fitness",
+      "arabic": {
+        "word": "الإِرْهَاقُ الشَّدِيدُ / التَّعَبُ",
+        "transliteration": "Al-Irhaq",
+        "notes": "نفاد طاقة الجسم والحاجة الماسة للراحة"
+      },
+      "german": {
+        "article": "die",
+        "word": "Erschöpfung",
+        "plural": "die Erschöpfungen",
+        "gender": "feminine",
+        "example": "Chronische Erschöpfung ist ein deutliches Warnsignal des Körpers."
+      },
+      "english": {
+        "word": "exhaustion / fatigue",
+        "phonetic": "/ɪɡˈzɔːs.tʃən/",
+        "example": "Chronic physical exhaustion indicates a serious need for rest."
+      },
+      "image_id": "img_wel_erschoepfung"
+    },
+    {
+      "id": "wel_laune",
+      "category": "wellness_fitness",
+      "arabic": {
+        "word": "المِزَاجُ / الحَالَةُ النَّفْسِيَّةُ",
+        "transliteration": "Al-Mizaj",
+        "notes": "المشاعر السائدة للشخص خلال اليوم"
+      },
+      "german": {
+        "article": "die",
+        "word": "Laune",
+        "plural": "die Launen",
+        "gender": "feminine",
+        "example": "Sonniges Wetter sorgt meist für gute Laune."
+      },
+      "english": {
+        "word": "mood / spirits",
+        "phonetic": "/muːd/",
+        "example": "A brisk morning stroll instantly lifts your mood."
+      },
+      "image_id": "img_wel_laune"
+    },
+    {
+      "id": "wel_motivation",
+      "category": "wellness_fitness",
+      "arabic": {
+        "word": "الحَافِزُ / الدَّافِعِيَّةُ",
+        "transliteration": "Al-Hafiz",
+        "notes": "الرغبة الداخلية الدافعة لإنجاز الأهداف"
+      },
+      "german": {
+        "article": "die",
+        "word": "Motivation",
+        "plural": "die Motivationen",
+        "gender": "feminine",
+        "example": "Gemeinsames Lernen steigert die Motivation beim Sprachenlernen."
+      },
+      "english": {
+        "word": "motivation",
+        "phonetic": "/ˌməʊ.tɪˈveɪ.ʃən/",
+        "example": "Shared community goals foster long-term learning motivation."
+      },
+      "image_id": "img_wel_motivation"
+    },
+    {
+      "id": "wel_ruhe",
+      "category": "wellness_fitness",
+      "arabic": {
+        "word": "الهُدُوءُ / الطُّمَأْنِينَةُ",
+        "transliteration": "Al-Hodoo'",
+        "notes": "سكون النفس وغياب الضجيج والاضطراب"
+      },
+      "german": {
+        "article": "die",
+        "word": "Ruhe",
+        "plural": "die Ruhen",
+        "gender": "feminine",
+        "example": "In der Ruhe liegt die Kraft für neue Herausforderungen."
+      },
+      "english": {
+        "word": "calmness / tranquility",
+        "phonetic": "/ˈkɑːm.nəs/",
+        "example": "Inner calmness allows for rational decision-making."
+      },
+      "image_id": "img_wel_ruhe"
+    },
+    {
+      "id": "wel_dehnen",
+      "category": "wellness_fitness",
+      "arabic": {
+        "word": "تَمْدِيدُ العَضَلَاتِ / الإِطَالَةُ",
+        "transliteration": "Tamdeed Al-'Adalat",
+        "notes": "تليين العضلات قبل التمارين وبعدها"
+      },
+      "german": {
+        "article": "das",
+        "word": "Dehnen",
+        "plural": "die Dehnen",
+        "gender": "neuter",
+        "example": "Sanftes Dehnen nach dem Laufen verhindert Muskelkater."
+      },
+      "english": {
+        "word": "stretching",
+        "phonetic": "/ˈstretʃ.ɪŋ/",
+        "example": "Post-workout stretching maintains muscle elasticity and flexibility."
+      },
+      "image_id": "img_wel_dehnen"
+    },
+    {
+      "id": "wel_hydratation",
+      "category": "wellness_fitness",
+      "arabic": {
+        "word": "شُرْبُ المَاءِ الكَافِي / التَّرْطِيبُ",
+        "transliteration": "Shurb Al-Ma'",
+        "notes": "تزويد الجسم بالسوائل اللازمة لوظائفه الحيوية"
+      },
+      "german": {
+        "article": "die",
+        "word": "Flüssigkeitszufuhr",
+        "plural": "die Flüssigkeitszufuhren",
+        "gender": "feminine",
+        "example": "Ausreichende Flüssigkeitszufuhr hält den Kreislauf stabil."
+      },
+      "english": {
+        "word": "hydration",
+        "phonetic": "/haɪˈdreɪ.ʃən/",
+        "example": "Proper hydration keeps energy levels steady throughout the day."
+      },
+      "image_id": "img_wel_hydratation"
+    },
+    {
+      "id": "wel_lebensstil",
+      "category": "wellness_fitness",
+      "arabic": {
+        "word": "نَمَطُ الحَيَاةِ الصِّحِّيُّ",
+        "transliteration": "Namat Al-Hayah As-Sihhi",
+        "notes": "منظومة العادات اليومية الإيجابية"
+      },
+      "german": {
+        "article": "der",
+        "word": "Lebensstil",
+        "plural": "die Lebensstile",
+        "gender": "masculine",
+        "example": "Ein gesunder Lebensstil beugt vielen Krankheiten vor."
+      },
+      "english": {
+        "word": "healthy lifestyle",
+        "phonetic": "/ˈlaɪf.staɪl/",
+        "example": "Adopting an active healthy lifestyle enriches longevity."
+      },
+      "image_id": "img_wel_lebensstil"
+    }
+  ]
+}
