@@ -1,0 +1,133 @@
+{
+  "engine_name": "modal_particles_engine",
+  "level": "A2",
+  "title": {
+    "ar": "محرك النبرات الكلامية التعبيرية وأدوات المشاعر (Modalpartikeln)",
+    "de": "Die deutschen Modalpartikeln (denn, doch, ja, mal, halt, eben, eigentlich)",
+    "en": "German Modal Particles Engine: Tone, Nuance & Conversational Flow"
+  },
+  "grammar_rules": {
+    "nature": "أدوات تعبيرية غير قابلة للإعراب، وظيفتها تلوين نبرة المتحدث (إظهار الود، الدهشة، الاستعجال، اللطف، أو التسليم بالواقع) ولا تُترجم ترجمة حرفية.",
+    "position": "تأتي عادة في منتصف الجملة (im Mittelfeld) مباشرة بعد الفعل المصرف والضمائر الشخصية.",
+    "core_particles": [
+      {
+        "particle": "denn",
+        "tone_ar": "تلطيف السؤال وإظهار الاهتمام الشخصي والفضول الودي",
+        "en": "softens questions, shows genuine personal interest",
+        "example": "Wie spät ist es denn?"
+      },
+      {
+        "particle": "doch",
+        "tone_ar": "الحث الودي، التذكير بأمر متفق عليه، والتطمين ونفي المخاوف",
+        "en": "encouragement, reminder of shared fact, reassurance",
+        "example": "Komm doch mit! / Das ist doch kein Problem!"
+      },
+      {
+        "particle": "ja",
+        "tone_ar": "المفاجأة الإيجابية غير المتوقعة أو التأكيد على أمر جلي",
+        "en": "pleasant surprise, confirmation of obvious fact",
+        "example": "Das ist ja wunderbar! / Du bist ja schon fertig!"
+      },
+      {
+        "particle": "mal",
+        "tone_ar": "تلطيف صيغ الأمر والطلبات القصيرة لجعلها ودية وعفوية",
+        "en": "softens commands, makes requests casual and brief",
+        "example": "Schau mal! / Hilf mir mal bitte!"
+      },
+      {
+        "particle": "halt / eben",
+        "tone_ar": "التسليم الرضائي الهادئ بالأمر الواقع والظروف الحتمية",
+        "en": "resignation to facts, accepting reality calmly",
+        "example": "Das ist halt so / Da kann man eben nichts machen"
+      },
+      {
+        "particle": "eigentlich",
+        "tone_ar": "الاستفسار العفوي أو التعبير عن الأصل الحقيقي للوضع",
+        "en": "casual inquiry, 'actually / by the way'",
+        "example": "Was machst du heute eigentlich?"
+      }
+    ]
+  },
+  "templates": [
+    {
+      "id": "prt_denn",
+      "particle": "denn",
+      "german": "Wie spät ist es denn jetzt eigentlich genau?",
+      "arabic": "كَمِ السَّاعَةُ الآنَ يَا تُرَى بِالتَّحْدِيدِ؟ (سُؤَالٌ وِدِّيٌّ مُلَطَّفٌ).",
+      "english": "What time is it actually right now, by the way?",
+      "image_id": "img_prt_denn"
+    },
+    {
+      "id": "prt_doch",
+      "particle": "doch",
+      "german": "Komm doch einfach heute Abend mit uns ins Theater!",
+      "arabic": "تَعَالَ مَعَنَا هَذَا المَسَاءَ إِلَى المَسْرَحِ، فَلَا تَتَرَدَّدْ! (حَثٌّ وِدِّيٌّ).",
+      "english": "Just come along with us to the theater tonight, won't you!",
+      "image_id": "img_prt_doch"
+    },
+    {
+      "id": "prt_ja",
+      "particle": "ja",
+      "german": "Das ist ja eine absolut fantastische Überraschung!",
+      "arabic": "يَا لَهَا مِنْ مُفَاجَأَةٍ رَائِعَةٍ وَمُدْهِشَةٍ حَقًّا! (دَهْشَةٌ إِيجَابِيَّةٌ).",
+      "english": "That is indeed such an absolutely fantastic surprise!",
+      "image_id": "img_prt_ja"
+    },
+    {
+      "id": "prt_mal",
+      "particle": "mal",
+      "german": "Gib mir mal bitte kurz das Wörterbuch von dem Tisch.",
+      "arabic": "أَعْطِنِي القَامُوسَ لِلَحْظَةٍ مِنْ فَضْلِكَ عَنِ الطَّاوِلَةِ (طَلَبٌ مُلَطَّفٌ).",
+      "english": "Hand me the dictionary from the table for a moment, please.",
+      "image_id": "img_prt_mal"
+    },
+    {
+      "id": "prt_halt",
+      "particle": "halt",
+      "german": "Das Wetter im November ist halt oft regnerisch und kühl.",
+      "arabic": "هَكَذَا هُوَ الطَّقْسُ فِي نُوفَمْبِر، مَا بِاليَدِ حِيلَةٌ (تَسْلِيمٌ بِالوَاقِعِ).",
+      "english": "The weather in November is simply often rainy and chilly, that's life.",
+      "image_id": "img_prt_halt"
+    },
+    {
+      "id": "prt_eben",
+      "particle": "eben",
+      "german": "Da kann man jetzt eben leider nichts mehr daran ändern.",
+      "arabic": "لَا يُمْكِنُنَا فِعْلُ أَيِّ شَيْءٍ حِيَالَ ذَلِكَ الآنَ لِلأَسَفِ (وَاقِعِيَّةٌ).",
+      "english": "There is simply nothing more we can do about it now, unfortunately.",
+      "image_id": "img_prt_eben"
+    },
+    {
+      "id": "prt_eigentlich",
+      "particle": "eigentlich",
+      "german": "Was wolltest du mir vorhin eigentlich Wichtiges erzählen?",
+      "arabic": "مَاذَا كُنْتَ تُرِيدُ أَنْ تُخْبِرَنِي بِهِ فِي الحَقِيقَةِ قَبْلَ قَلِيلٍ؟",
+      "english": "What was it that you actually wanted to tell me earlier?",
+      "image_id": "img_prt_eigentlich"
+    },
+    {
+      "id": "prt_problem",
+      "particle": "doch",
+      "german": "Mach dir keine Sorgen, das ist doch überhaupt kein Problem!",
+      "arabic": "لَا تَقْلَقْ أَبَدًا، لَيْسَتْ هَذِهِ مُشْكِلَةً عَلَى الإِطْلَاقِ! (تَطْمِينٌ).",
+      "english": "Do not worry at all, that is surely no problem whatsoever!",
+      "image_id": "img_prt_problem"
+    },
+    {
+      "id": "prt_fertig",
+      "particle": "ja",
+      "german": "Du bist ja schon mit allen schwierigen Aufgaben fertig!",
+      "arabic": "مَا شَاءَ اللهُ! لَقَدْ أَنْهَيْتَ كُلَّ المَهَامِّ الصَّعْبَةِ بِالفِعْلِ! (إِعْجَابٌ).",
+      "english": "Wow, you are already done with all the difficult assignments!",
+      "image_id": "img_prt_fertig"
+    },
+    {
+      "id": "prt_schau",
+      "particle": "mal",
+      "german": "Schau mal da drüben, wie prächtig der Regenbogen leuchtet!",
+      "arabic": "انْظُرْ لِلَحْظَةٍ هُنَاكَ، كَمْ يَلْمَعُ قَوْسُ قُزَحَ بَبَهَاءٍ!",
+      "english": "Look over there for a moment, how brilliantly the rainbow shines!",
+      "image_id": "img_prt_schau"
+    }
+  ]
+}
