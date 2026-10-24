@@ -1,0 +1,561 @@
+{
+  "category_id": "culture_media",
+  "category_name": {
+    "ar": "الثقافة والإعلام والفنون",
+    "de": "Kultur, Medien & Kunst",
+    "en": "Culture, Media & Arts"
+  },
+  "level": "A1",
+  "concepts": [
+    {
+      "id": "cul_museum",
+      "category": "culture_media",
+      "arabic": {
+        "word": "المَتْحَفُ",
+        "transliteration": "Al-Mathaf",
+        "notes": "دار حفظ وعرض الآثار والفنون التاريخية"
+      },
+      "german": {
+        "article": "das",
+        "word": "Museum",
+        "plural": "die Museen",
+        "gender": "neuter",
+        "example": "Wir besuchen am Samstag das historische Museum."
+      },
+      "english": {
+        "word": "museum",
+        "phonetic": "/mjuːˈziː.əm/",
+        "example": "We plan to visit the historical museum this Saturday."
+      },
+      "image_id": "img_cul_museum"
+    },
+    {
+      "id": "cul_theater",
+      "category": "culture_media",
+      "arabic": {
+        "word": "المَسْرَحُ",
+        "transliteration": "Al-Masrah",
+        "notes": "مكان عرض المسرحيات والفنون الأدائية"
+      },
+      "german": {
+        "article": "das",
+        "word": "Theater",
+        "plural": "die Theater",
+        "gender": "neuter",
+        "example": "Heute Abend schauen wir ein Drama im Theater an."
+      },
+      "english": {
+        "word": "theater",
+        "phonetic": "/ˈθɪə.tər/",
+        "example": "We are watching a classic drama at the theater tonight."
+      },
+      "image_id": "img_cul_theater"
+    },
+    {
+      "id": "cul_cinema",
+      "category": "culture_media",
+      "arabic": {
+        "word": "السِّينَمَا / دَارُ العَرْضِ",
+        "transliteration": "As-Cinema",
+        "notes": "دار عرض الأفلام السينمائية"
+      },
+      "german": {
+        "article": "das",
+        "word": "Kino",
+        "plural": "die Kinos",
+        "gender": "neuter",
+        "example": "Gehen wir am Wochenende zusammen ins Kino?"
+      },
+      "english": {
+        "word": "cinema / movie theater",
+        "phonetic": "/ˈsɪn.ə.mɑː/",
+        "example": "Shall we go to the cinema together this weekend?"
+      },
+      "image_id": "img_cul_cinema"
+    },
+    {
+      "id": "cul_concert",
+      "category": "culture_media",
+      "arabic": {
+        "word": "الحَفْلُ المُوسِيقِيُّ",
+        "transliteration": "Al-Hafl Al-Moseeqi",
+        "notes": "عرض موسيقي حي بحضور الجمهور"
+      },
+      "german": {
+        "article": "das",
+        "word": "Konzert",
+        "plural": "die Konzerte",
+        "gender": "neuter",
+        "example": "Das klassische Konzert im Park war wunderschön."
+      },
+      "english": {
+        "word": "concert",
+        "phonetic": "/ˈkɒn.sət/",
+        "example": "The open-air orchestra concert was fantastic."
+      },
+      "image_id": "img_cul_concert"
+    },
+    {
+      "id": "cul_music",
+      "category": "culture_media",
+      "arabic": {
+        "word": "المُوسِيقَى",
+        "transliteration": "Al-Moseeqa",
+        "notes": "فن تأليف الأنغام والألحان"
+      },
+      "german": {
+        "article": "die",
+        "word": "Musik",
+        "plural": "die Musiken",
+        "gender": "feminine",
+        "example": "Ich höre beim Lernen gerne ruhige Musik."
+      },
+      "english": {
+        "word": "music",
+        "phonetic": "/ˈmjuː.zɪk/",
+        "example": "I love listening to relaxing acoustic music while reading."
+      },
+      "image_id": "img_cul_music"
+    },
+    {
+      "id": "cul_art",
+      "category": "culture_media",
+      "arabic": {
+        "word": "الفَنُّ",
+        "transliteration": "Al-Fann",
+        "notes": "التعبير الجمالي والإبداعي الإنساني"
+      },
+      "german": {
+        "article": "die",
+        "word": "Kunst",
+        "plural": "die Künste",
+        "gender": "feminine",
+        "example": "Moderne Kunst regt viele interessante Diskussionen an."
+      },
+      "english": {
+        "word": "art",
+        "phonetic": "/ɑːt/",
+        "example": "Modern art often sparks captivating conversations."
+      },
+      "image_id": "img_cul_art"
+    },
+    {
+      "id": "cul_painting",
+      "category": "culture_media",
+      "arabic": {
+        "word": "اللَّوْحَةُ الفَنِّيَّةُ",
+        "transliteration": "Al-Lawhah Al-Fanniyyah",
+        "notes": "رسمة تشكيلية بالألوان"
+      },
+      "german": {
+        "article": "das",
+        "word": "Gemälde",
+        "plural": "die Gemälde",
+        "gender": "neuter",
+        "example": "Dieses berühmte Gemälde hängt in der Galerie."
+      },
+      "english": {
+        "word": "painting",
+        "phonetic": "/ˈpeɪn.tɪŋ/",
+        "example": "This famous oil painting hangs in the national gallery."
+      },
+      "image_id": "img_cul_painting"
+    },
+    {
+      "id": "cul_statue",
+      "category": "culture_media",
+      "arabic": {
+        "word": "التِّمْثَالُ المَنْحُوتُ",
+        "transliteration": "At-Timthal",
+        "notes": "مجسم منحوت من الحجر أو البرونز"
+      },
+      "german": {
+        "article": "die",
+        "word": "Statue",
+        "plural": "die Statuen",
+        "gender": "feminine",
+        "example": "Auf dem Marktplatz steht eine historische Statue."
+      },
+      "english": {
+        "word": "statue / sculpture",
+        "phonetic": "/ˈstætʃ.uː/",
+        "example": "A bronze statue stands in the center of the town square."
+      },
+      "image_id": "img_cul_statue"
+    },
+    {
+      "id": "cul_newspaper",
+      "category": "culture_media",
+      "arabic": {
+        "word": "الجَرِيدَةُ / الصَّحِيفَةُ",
+        "transliteration": "Al-Jareedah",
+        "notes": "مطبوعة ورقية إخبارية يومية أو أسبوعية"
+      },
+      "german": {
+        "article": "die",
+        "word": "Zeitung",
+        "plural": "die Zeitungen",
+        "gender": "feminine",
+        "example": "Mein Vater liest morgens beim Frühstück die Zeitung."
+      },
+      "english": {
+        "word": "newspaper",
+        "phonetic": "/ˈnjuːzˌpeɪ.pər/",
+        "example": "My father reads the morning newspaper over breakfast."
+      },
+      "image_id": "img_cul_newspaper"
+    },
+    {
+      "id": "cul_magazine",
+      "category": "culture_media",
+      "arabic": {
+        "word": "المَجَلَّةُ الدَّوْرِيَّةُ",
+        "transliteration": "Al-Majallah",
+        "notes": "مطبوعة ثقافية أو ترفيهية دورية"
+      },
+      "german": {
+        "article": "die",
+        "word": "Zeitschrift",
+        "plural": "die Zeitschriften",
+        "gender": "feminine",
+        "example": "Ich kaufe monatlich eine wissenschaftliche Zeitschrift."
+      },
+      "english": {
+        "word": "magazine / journal",
+        "phonetic": "/ˌmæɡ.əˈziːn/",
+        "example": "She subscribes to a monthly cultural magazine."
+      },
+      "image_id": "img_cul_magazine"
+    },
+    {
+      "id": "cul_television",
+      "category": "culture_media",
+      "arabic": {
+        "word": "التِّلْفَازُ",
+        "transliteration": "At-Tilfaz",
+        "notes": "جهاز بث البرامج التلفزيونية"
+      },
+      "german": {
+        "article": "der",
+        "word": "Fernseher",
+        "plural": "die Fernseher",
+        "gender": "masculine",
+        "example": "Wir haben einen großen Fernseher im Wohnzimmer."
+      },
+      "english": {
+        "word": "television / TV",
+        "phonetic": "/ˈtel.ɪ.vɪʒ.ən/",
+        "example": "They have a smart television set in the living room."
+      },
+      "image_id": "img_cul_television"
+    },
+    {
+      "id": "cul_radio",
+      "category": "culture_media",
+      "arabic": {
+        "word": "المِذْيَاعُ / الرَّادْيُو",
+        "transliteration": "Al-Mithya'",
+        "notes": "جهاز استقبال البث الإذاعي الصوتي"
+      },
+      "german": {
+        "article": "das",
+        "word": "Radio",
+        "plural": "die Radios",
+        "gender": "neuter",
+        "example": "Im Auto höre ich immer die Nachrichten im Radio."
+      },
+      "english": {
+        "word": "radio",
+        "phonetic": "/ˈreɪ.di.əʊ/",
+        "example": "I tune into the local radio station while driving."
+      },
+      "image_id": "img_cul_radio"
+    },
+    {
+      "id": "cul_news",
+      "category": "culture_media",
+      "arabic": {
+        "word": "الأَخْبَارُ / الأَنْبَاءُ",
+        "transliteration": "Al-Akhbar",
+        "notes": "موجز الأحداث الجارية محليًا وعالميًا"
+      },
+      "german": {
+        "article": "die",
+        "word": "Nachrichten",
+        "plural": "die Nachrichten",
+        "gender": "plural",
+        "example": "Um zwanzig Uhr beginnen die täglichen Fernsehnachrichten."
+      },
+      "english": {
+        "word": "news",
+        "phonetic": "/njuːz/",
+        "example": "The evening news broadcast starts promptly at eight."
+      },
+      "image_id": "img_cul_news"
+    },
+    {
+      "id": "cul_movie",
+      "category": "culture_media",
+      "arabic": {
+        "word": "الفِيلْمُ السِّينَمَائِيُّ",
+        "transliteration": "Al-Film",
+        "notes": "عمل سينمائي مصور وقصة درامية"
+      },
+      "german": {
+        "article": "der",
+        "word": "Film",
+        "plural": "die Filme",
+        "gender": "masculine",
+        "example": "Der neue Dokumentarfilm war äußerst spannend."
+      },
+      "english": {
+        "word": "movie / film",
+        "phonetic": "/muː.vi/",
+        "example": "The newly released documentary film was inspiring."
+      },
+      "image_id": "img_cul_movie"
+    },
+    {
+      "id": "cul_actor",
+      "category": "culture_media",
+      "arabic": {
+        "word": "المُمَثِّلُ",
+        "transliteration": "Al-Mumath-thil",
+        "notes": "المؤدي المذكر للأدوار المسرحية أو السينمائية"
+      },
+      "german": {
+        "article": "der",
+        "word": "Schauspieler",
+        "plural": "die Schauspieler",
+        "gender": "masculine",
+        "example": "Der talentierte Schauspieler spielte seine Rolle brillant."
+      },
+      "english": {
+        "word": "actor",
+        "phonetic": "/ˈæk.tər/",
+        "example": "The talented actor portrayed his role convincingly."
+      },
+      "image_id": "img_cul_actor"
+    },
+    {
+      "id": "cul_actress",
+      "category": "culture_media",
+      "arabic": {
+        "word": "المُمَثِّلَةُ",
+        "transliteration": "Al-Mumath-thilah",
+        "notes": "المؤدية المؤنثة للأدوار المسرحية أو السينمائية"
+      },
+      "german": {
+        "article": "die",
+        "word": "Schauspielerin",
+        "plural": "die Schauspielerinnen",
+        "gender": "feminine",
+        "example": "Die bekannte Schauspielerin gewann einen renommierten Preis."
+      },
+      "english": {
+        "word": "actress",
+        "phonetic": "/ˈæk.trəs/",
+        "example": "The renowned actress won an international film award."
+      },
+      "image_id": "img_cul_actress"
+    },
+    {
+      "id": "cul_author",
+      "category": "culture_media",
+      "arabic": {
+        "word": "الكَاتِبُ / المُؤَلِّفُ",
+        "transliteration": "Al-Katib",
+        "notes": "مبدع النصوص والروايات الأدبية"
+      },
+      "german": {
+        "article": "der",
+        "word": "Autor",
+        "plural": "die Autoren",
+        "gender": "masculine",
+        "example": "Der deutsche Autor stellte seinen neuen Roman vor."
+      },
+      "english": {
+        "word": "author / writer",
+        "phonetic": "/ˈɔː.θər/",
+        "example": "The prominent author presented his latest novel."
+      },
+      "image_id": "img_cul_author"
+    },
+    {
+      "id": "cul_song",
+      "category": "culture_media",
+      "arabic": {
+        "word": "الأُغْنِيَةُ",
+        "transliteration": "Al-Ughniyah",
+        "notes": "قطعة موسيقية مصحوبة بالغناء"
+      },
+      "german": {
+        "article": "das",
+        "word": "Lied",
+        "plural": "die Lieder",
+        "gender": "neuter",
+        "example": "Die Kinder singen fröhlich ein bekanntes Volkslied."
+      },
+      "english": {
+        "word": "song",
+        "phonetic": "/sɒŋ/",
+        "example": "The choir sang a delightful traditional song."
+      },
+      "image_id": "img_cul_song"
+    },
+    {
+      "id": "cul_instrument",
+      "category": "culture_media",
+      "arabic": {
+        "word": "الآلَةُ المُوسِيقِيَّةُ",
+        "transliteration": "Al-Alah Al-Moseeqiyyah",
+        "notes": "أداة عزف الإيقاع والأنغام"
+      },
+      "german": {
+        "article": "das",
+        "word": "Musikinstrument",
+        "plural": "die Musikinstrumente",
+        "gender": "neuter",
+        "example": "Er lernt schon seit zwei Jahren ein Musikinstrument."
+      },
+      "english": {
+        "word": "musical instrument",
+        "phonetic": "/ˈmjuː.zɪ.kəl ˈɪn.strə.mənt/",
+        "example": "Learning a musical instrument enhances concentration."
+      },
+      "image_id": "img_cul_instrument"
+    },
+    {
+      "id": "cul_guitar",
+      "category": "culture_media",
+      "arabic": {
+        "word": "القِيثَارَةُ / الغِيتَارُ",
+        "transliteration": "Al-Qeetharah",
+        "notes": "آلة وترية شعبية للعزف"
+      },
+      "german": {
+        "article": "die",
+        "word": "Gitarre",
+        "plural": "die Gitarren",
+        "gender": "feminine",
+        "example": "Sie spielt abends gerne spanische Lieder auf der Gitarre."
+      },
+      "english": {
+        "word": "guitar",
+        "phonetic": "/ɡɪˈtɑːr/",
+        "example": "He learned to play acoustic guitar during his youth."
+      },
+      "image_id": "img_cul_guitar"
+    },
+    {
+      "id": "cul_piano",
+      "category": "culture_media",
+      "arabic": {
+        "word": "البِيَانُو",
+        "transliteration": "Al-Piano",
+        "notes": "آلة موسيقية وترية ذات مفاتيح بيضاء وسوداء"
+      },
+      "german": {
+        "article": "das",
+        "word": "Klavier",
+        "plural": "die Klaviere",
+        "gender": "neuter",
+        "example": "Mein Bruder übt täglich eine Stunde am Klavier."
+      },
+      "english": {
+        "word": "piano",
+        "phonetic": "/piˈæn.əʊ/",
+        "example": "She plays classical sonatas gracefully on the piano."
+      },
+      "image_id": "img_cul_piano"
+    },
+    {
+      "id": "cul_exhibition",
+      "category": "culture_media",
+      "arabic": {
+        "word": "المَعْرِضُ الفَنِّيُّ",
+        "transliteration": "Al-Ma'rid Al-Fanni",
+        "notes": "فعالية استعراض الإنتاج الإبداعي"
+      },
+      "german": {
+        "article": "die",
+        "word": "Ausstellung",
+        "plural": "die Ausstellungen",
+        "gender": "feminine",
+        "example": "Die Fotoausstellung in der Galerie ist bis Sonntag geöffnet."
+      },
+      "english": {
+        "word": "art exhibition",
+        "phonetic": "/ˌek.sɪˈbɪʃ.ən/",
+        "example": "The modern photography exhibition runs until Sunday."
+      },
+      "image_id": "img_cul_exhibition"
+    },
+    {
+      "id": "cul_ticket",
+      "category": "culture_media",
+      "arabic": {
+        "word": "تَذْكِرَةُ الدُّخُولِ",
+        "transliteration": "Tathkirat Ad-Dukhool",
+        "notes": "بطاقة تصريح الحضور للفعاليات"
+      },
+      "german": {
+        "article": "die",
+        "word": "Eintrittskarte",
+        "plural": "die Eintrittskarten",
+        "gender": "feminine",
+        "example": "Ich habe zwei Eintrittskarten für das Theater reserviert."
+      },
+      "english": {
+        "word": "admission ticket",
+        "phonetic": "/ədˈmɪʃ.ən ˌtɪk.ɪt/",
+        "example": "Please show your admission ticket at the main entrance."
+      },
+      "image_id": "img_cul_ticket"
+    },
+    {
+      "id": "cul_culture",
+      "category": "culture_media",
+      "arabic": {
+        "word": "الثَّقَافَةُ",
+        "transliteration": "Ath-Thaqafah",
+        "notes": "العادات والتقاليد والمعارف المشتركة للشعوب"
+      },
+      "german": {
+        "article": "die",
+        "word": "Kultur",
+        "plural": "die Kulturen",
+        "gender": "feminine",
+        "example": "Das Erlernen einer Sprache öffnet Türen zu einer neuen Kultur."
+      },
+      "english": {
+        "word": "culture",
+        "phonetic": "/ˈkʌl.tʃər/",
+        "example": "Learning a new language opens the door to another rich culture."
+      },
+      "image_id": "img_cul_culture"
+    },
+    {
+      "id": "cul_history",
+      "category": "culture_media",
+      "arabic": {
+        "word": "التَّارِيخُ",
+        "transliteration": "At-Tareekh",
+        "notes": "سجل الأحداث والماضي الإنساني"
+      },
+      "german": {
+        "article": "die",
+        "word": "Geschichte",
+        "plural": "die Geschichten",
+        "gender": "feminine",
+        "example": "Die alte Stadt hat eine faszinierende und reiche Geschichte."
+      },
+      "english": {
+        "word": "history",
+        "phonetic": "/ˈhɪs.tər.i/",
+        "example": "The ancient cathedral is steeped in centuries of history."
+      },
+      "image_id": "img_cul_history"
+    }
+  ]
+}
