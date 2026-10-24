@@ -1,0 +1,147 @@
+{
+  "engine_name": "comparatives_superlatives_engine",
+  "level": "A2",
+  "title": {
+    "ar": "محرك صيغ التفضيل والمقارنة المتقدمة (Komparativ & Superlativ)",
+    "de": "Die Steigerung der Adjektive: Positiv, Komparativ und Superlativ",
+    "en": "German Adjective Comparison Engine: Comparative & Superlative"
+  },
+  "grammar_rules": {
+    "positiv_gleichheit": {
+      "formula": "so / genauso + Adjektiv (Grundform) + wie",
+      "ar": "للتعبير عن التساوي والتطابق التام بين طرفين",
+      "example": "Der Bus ist genauso schnell wie die Bahn."
+    },
+    "komparativ_ungleichheit": {
+      "formula": "Adjektivstamm + -er + als",
+      "ar": "للمقارنة التفضيلية (أفعل من)",
+      "example": "Der Zug ist schneller als das Auto.",
+      "umlaut_rule": "تكتسب معظم الصفات أحادية المقطع إمالة Umlaut: alt -> älter, groß -> größer, warm -> wärmer, kurz -> kürzer."
+    },
+    "superlativ_hoechste_stufe": {
+      "formula_predicative": "am + Adjektivstamm + -(e)sten",
+      "formula_attributive": "der / die / das + Adjektivstamm + -(e)ste + Nomen",
+      "ar": "للتفضيل المطلق الأسمى (الأفضل / الأكثر)",
+      "example": "Dieses Hotel ist am teuersten. / Das ist das älteste Gebäude."
+    }
+  },
+  "irregular_forms": [
+    {
+      "positiv": "gut",
+      "komparativ": "besser",
+      "superlativ": "am besten",
+      "ar": "جَيِّدٌ -> أَفْضَلُ -> الأَفْضَلُ",
+      "en": "good -> better -> best"
+    },
+    {
+      "positiv": "viel",
+      "komparativ": "mehr",
+      "superlativ": "am meisten",
+      "ar": "كَثِيرٌ -> أَكْثَرُ -> الأَكْثَرُ",
+      "en": "much / many -> more -> most"
+    },
+    {
+      "positiv": "gern",
+      "komparativ": "lieber",
+      "superlativ": "am liebsten",
+      "ar": "بِرَغْبَةٍ -> يُفَضِّلُ -> الأَكْثَرُ تَفْضِيلًا",
+      "en": "gladly -> rather / prefer -> favorite"
+    },
+    {
+      "positiv": "hoch",
+      "komparativ": "höher",
+      "superlativ": "am höchsten",
+      "ar": "عَالٍ -> أَعْلَى -> الأَعْلَى",
+      "en": "high -> higher -> highest"
+    },
+    {
+      "positiv": "nah",
+      "komparativ": "näher",
+      "superlativ": "am nächsten",
+      "ar": "قَرِيبٌ -> أَقْرَبُ -> الأَقْرَبُ",
+      "en": "near -> nearer -> nearest"
+    }
+  ],
+  "templates": [
+    {
+      "id": "cmp_schneller",
+      "type": "Komparativ (-er als)",
+      "german": "Der moderne ICE-Zug ist deutlich schneller als das Auto.",
+      "arabic": "قِطَارُ السُّرْعَةِ الفَائِقَةِ الحَدِيثُ أَسْرَعُ بِوُضُوحٍ مِنَ السَّيَّارَةِ.",
+      "english": "The modern high-speed train is significantly faster than the car.",
+      "image_id": "img_cmp_schneller"
+    },
+    {
+      "id": "cmp_besser",
+      "type": "Unregelmäßig: gut -> besser",
+      "german": "Übung macht den Meister: Heute spreche ich viel besser Deutsch als gestern.",
+      "arabic": "المُمَارَسَةُ تُؤَدِّي لِلإِتْقَانِ: اليَوْمَ أَتَحَدَّثُ الأَلْمَانِيَّةَ أَفْضَلَ بِكَثِيرٍ مِنْ أَمْسِ.",
+      "english": "Practice makes perfect: today I speak German much better than yesterday.",
+      "image_id": "img_cmp_besser"
+    },
+    {
+      "id": "cmp_am_besten",
+      "type": "Superlativ (am besten)",
+      "german": "Von allen historischen Romanen gefällt mir dieses Buch am besten.",
+      "arabic": "مِنْ بَيْنِ جَمِيعِ الرِّوَايَاتِ التَّارِيخِيَّةِ، يُعْجِبُنِي هَذَا الكِتَابُ أَكْثَرَ مِنْ غَيْرِهِ.",
+      "english": "Out of all historical novels, I like this book the best.",
+      "image_id": "img_cmp_am_besten"
+    },
+    {
+      "id": "cmp_genauso",
+      "type": "Positiv (genauso ... wie)",
+      "german": "Die deutsche Grammatik ist genauso logisch und faszinierend wie die arabische.",
+      "arabic": "قَوَاعِدُ اللُّغَةِ الأَلْمَانِيَّةِ مَنْطِقِيَّةٌ وَرَائِعَةٌ تَمَامًا مِثْلَ العَرَبِيَّةِ.",
+      "english": "German grammar is just as logical and fascinating as Arabic.",
+      "image_id": "img_cmp_genauso"
+    },
+    {
+      "id": "cmp_groesser",
+      "type": "Komparativ mit Umlaut (groß -> größer)",
+      "german": "Die Metropole Berlin ist flächenmäßig viel größer als Frankfurt am Main.",
+      "arabic": "العَاصِمَةُ بَرْلِينُ أَكْبَرُ مِسَاحَةً بِكَثِيرٍ مِنْ مَدِينَةِ فْرَانْكْفُورْت.",
+      "english": "The metropolis of Berlin is significantly larger in area than Frankfurt.",
+      "image_id": "img_cmp_groesser"
+    },
+    {
+      "id": "cmp_aelteste",
+      "type": "Attributiver Superlativ (der/die/das älteste)",
+      "german": "Die Universität Heidelberg ist die älteste Universität in ganz Deutschland.",
+      "arabic": "جَامِعَةُ هَايْدِلْبِيرْغ هِيَ أَقْدَمُ جَامِعَةٍ فِي أَلْمَانْيَا كُلِّهَا.",
+      "english": "Heidelberg University is the oldest university in all of Germany.",
+      "image_id": "img_cmp_aelteste"
+    },
+    {
+      "id": "cmp_lieber",
+      "type": "Unregelmäßig: gern -> lieber",
+      "german": "Im heißen Sommer trinke ich lieber frischen Eistee als heißen Kaffee.",
+      "arabic": "فِي الصَّيْفِ الحَارِّ أُفَضِّلُ شُرْبَ المِثْلَجَاتِ وَالشَّايِ البَارِدِ عَلَى القَهْوَةِ السَّاخِنَةِ.",
+      "english": "In hot summer, I prefer drinking fresh iced tea rather than hot coffee.",
+      "image_id": "img_cmp_lieber"
+    },
+    {
+      "id": "cmp_am_meisten",
+      "type": "Unregelmäßig: viel -> am meisten",
+      "german": "Am meisten Zeit widmet der Wissenschaftler der innovativen Laborforschung.",
+      "arabic": "يُخَصِّصُ العَالِمُ مُعْظَمَ وَقْتِهِ لِلأَبْحَاثِ المِخْبَرِيَّةِ الِابْتِكَارِيَّةِ.",
+      "english": "The scientist dedicates the most time to innovative laboratory research.",
+      "image_id": "img_cmp_am_meisten"
+    },
+    {
+      "id": "cmp_hoeher",
+      "type": "Unregelmäßig: hoch -> höher",
+      "german": "Der moderne Fernsehturm ist deutlich höher als die historischen Kirchtürme.",
+      "arabic": "بُرْجُ التِّلْفَازِ الحَدِيثُ أَعْلَى بِوُضُوحٍ مِنْ أَبْرَاجِ الكَنَائِسِ التَّارِيخِيَّةِ.",
+      "english": "The modern television tower is significantly taller than historic church spires.",
+      "image_id": "img_cmp_hoeher"
+    },
+    {
+      "id": "cmp_naechste",
+      "type": "Unregelmäßig: nah -> nächste",
+      "german": "Können Sie mir sagen, wo sich die nächste Haltestelle befindet?",
+      "arabic": "هَلْ يُمْكِنُكَ أَنْ تَدُلَّنِي أَيْنَ تَقَعُ أَقْرَبُ مَحَطَّةِ حَافِلَاتٍ؟",
+      "english": "Could you tell me where the nearest transit stop is located?",
+      "image_id": "img_cmp_naechste"
+    }
+  ]
+}
