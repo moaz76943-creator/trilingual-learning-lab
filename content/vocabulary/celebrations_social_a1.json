@@ -1,0 +1,561 @@
+{
+  "category_id": "celebrations_social",
+  "category_name": {
+    "ar": "المناسبات والاحتفالات والحياة الاجتماعية",
+    "de": "Feste & Soziales Leben",
+    "en": "Celebrations & Social Life"
+  },
+  "level": "A1",
+  "concepts": [
+    {
+      "id": "cel_celebration",
+      "category": "celebrations_social",
+      "arabic": {
+        "word": "الِاحْتِفَالُ / المِهْرَجَانُ",
+        "transliteration": "Al-Ihtifal",
+        "notes": "مناسبة بهيجة تجمع الأهل والأصدقاء"
+      },
+      "german": {
+        "article": "das",
+        "word": "Fest",
+        "plural": "die Feste",
+        "gender": "neuter",
+        "example": "Das jährliche Sommerfest der Nachbarschaft war wunderbar."
+      },
+      "english": {
+        "word": "celebration / festival",
+        "phonetic": "/ˌsel.əˈbreɪ.ʃən/",
+        "example": "The annual community celebration was vibrant and joyful."
+      },
+      "image_id": "img_cel_celebration"
+    },
+    {
+      "id": "cel_birthday",
+      "category": "celebrations_social",
+      "arabic": {
+        "word": "عِيدُ المِيلَادِ",
+        "transliteration": "Eed Al-Meelad",
+        "notes": "يوم ذكرى مولد الشخص"
+      },
+      "german": {
+        "article": "der",
+        "word": "Geburtstag",
+        "plural": "die Geburtstage",
+        "gender": "masculine",
+        "example": "Ich lade dich herzlich zu meinem Geburtstag ein."
+      },
+      "english": {
+        "word": "birthday",
+        "phonetic": "/ˈbɜːθ.deɪ/",
+        "example": "We are organizing a surprise birthday party for Sarah."
+      },
+      "image_id": "img_cel_birthday"
+    },
+    {
+      "id": "cel_gift",
+      "category": "celebrations_social",
+      "arabic": {
+        "word": "الهَدِيَّةُ",
+        "transliteration": "Al-Hadiyyah",
+        "notes": "عطية تعبيرية عن الود والتقدير"
+      },
+      "german": {
+        "article": "das",
+        "word": "Geschenk",
+        "plural": "die Geschenke",
+        "gender": "neuter",
+        "example": "Vielen Dank für dieses wunderschöne Geschenk!"
+      },
+      "english": {
+        "word": "gift / present",
+        "phonetic": "/ɡɪft/",
+        "example": "Thank you so much for this thoughtful birthday gift!"
+      },
+      "image_id": "img_cel_gift"
+    },
+    {
+      "id": "cel_invitation",
+      "category": "celebrations_social",
+      "arabic": {
+        "word": "الدَّعْوَةُ",
+        "transliteration": "Ad-Da'wah",
+        "notes": "طلب الحضور إلى مناسبة معينة"
+      },
+      "german": {
+        "article": "die",
+        "word": "Einladung",
+        "plural": "die Einladungen",
+        "gender": "feminine",
+        "example": "Ich habe gestern die offizielle Einladung erhalten."
+      },
+      "english": {
+        "word": "invitation",
+        "phonetic": "/ˌɪn.vɪˈteɪ.ʃən/",
+        "example": "Have you sent out the wedding invitations yet?"
+      },
+      "image_id": "img_cel_invitation"
+    },
+    {
+      "id": "cel_guest",
+      "category": "celebrations_social",
+      "arabic": {
+        "word": "الضَّيْفُ",
+        "transliteration": "Ad-Dayf",
+        "notes": "النازل عند غيره مستضافًا"
+      },
+      "german": {
+        "article": "der",
+        "word": "Gast",
+        "plural": "die Gäste",
+        "gender": "masculine",
+        "example": "Heute Abend erwarten wir liebe Gäste zum Abendessen."
+      },
+      "english": {
+        "word": "guest",
+        "phonetic": "/ɡest/",
+        "example": "Our dinner guests arrived promptly at seven."
+      },
+      "image_id": "img_cel_guest"
+    },
+    {
+      "id": "cel_party",
+      "category": "celebrations_social",
+      "arabic": {
+        "word": "الحَفْلَةُ",
+        "transliteration": "Al-Haflah",
+        "notes": "تجمع ترفيهي واجتماعي مسلٍّ"
+      },
+      "german": {
+        "article": "die",
+        "word": "Party",
+        "plural": "die Partys",
+        "gender": "feminine",
+        "example": "Die Musik auf der Party war großartig."
+      },
+      "english": {
+        "word": "party",
+        "phonetic": "/ˈpɑː.ti/",
+        "example": "They threw a lively farewell party for their colleague."
+      },
+      "image_id": "img_cel_party"
+    },
+    {
+      "id": "cel_holiday",
+      "category": "celebrations_social",
+      "arabic": {
+        "word": "العُطْلَةُ الرَّسْمِيَّةُ / العِيدُ",
+        "transliteration": "Al-'Utlah Ar-Rasmiyyah",
+        "notes": "يوم إجازة وطني أو ديني معتمد"
+      },
+      "german": {
+        "article": "der",
+        "word": "Feiertag",
+        "plural": "die Feiertage",
+        "gender": "masculine",
+        "example": "Morgen ist ein gesetzlicher Feiertag, alle Geschäfte haben geschlossen."
+      },
+      "english": {
+        "word": "public holiday",
+        "phonetic": "/ˈhɒl.ə.deɪ/",
+        "example": "Tomorrow is a national public holiday across the country."
+      },
+      "image_id": "img_cel_holiday"
+    },
+    {
+      "id": "cel_wedding",
+      "category": "celebrations_social",
+      "arabic": {
+        "word": "حَفْلُ الزِّفَافِ / العُرْسُ",
+        "transliteration": "Hafl Az-Zifaf",
+        "notes": "احتفال عقد القران والزواج"
+      },
+      "german": {
+        "article": "die",
+        "word": "Hochzeit",
+        "plural": "die Hochzeiten",
+        "gender": "feminine",
+        "example": "Die Hochzeit fand in einem romantischen Schlossgarten statt."
+      },
+      "english": {
+        "word": "wedding",
+        "phonetic": "/ˈwed.ɪŋ/",
+        "example": "The outdoor wedding ceremony was breathtaking."
+      },
+      "image_id": "img_cel_wedding"
+    },
+    {
+      "id": "cel_congratulation",
+      "category": "celebrations_social",
+      "arabic": {
+        "word": "التَّهْنِئَةُ / التَّبْرِيكُ",
+        "transliteration": "At-Tahni'ah",
+        "notes": "التعبير عن الفرح بإنجاز أو مناسبة سعيدة"
+      },
+      "german": {
+        "article": "der",
+        "word": "Glückwunsch",
+        "plural": "die Glückwünsche",
+        "gender": "masculine",
+        "example": "Herzlichen Glückwunsch zur bestandenen Deutschprüfung!"
+      },
+      "english": {
+        "word": "congratulation",
+        "phonetic": "/kənˌɡrætʃ.əˈleɪ.ʃən/",
+        "example": "Warm congratulations on passing your exam with top marks!"
+      },
+      "image_id": "img_cel_congratulation"
+    },
+    {
+      "id": "cel_greeting",
+      "category": "celebrations_social",
+      "arabic": {
+        "word": "التَّحِيَّةُ / السَّلَامُ",
+        "transliteration": "At-Tahiyyah",
+        "notes": "بادرة اللقاء والسلام الودي"
+      },
+      "german": {
+        "article": "der",
+        "word": "Gruß",
+        "plural": "die Grüße",
+        "gender": "masculine",
+        "example": "Schöne Grüße an deine ganze Familie!"
+      },
+      "english": {
+        "word": "greeting",
+        "phonetic": "/ˈɡriː.tɪŋ/",
+        "example": "Send my warmest personal greetings to your family."
+      },
+      "image_id": "img_cel_greeting"
+    },
+    {
+      "id": "cel_flower",
+      "category": "celebrations_social",
+      "arabic": {
+        "word": "الزَّهْرَةُ / الوَرْدَةُ",
+        "transliteration": "Az-Zahrah",
+        "notes": "نبات عطري يهدى في المناسبات"
+      },
+      "german": {
+        "article": "die",
+        "word": "Blume",
+        "plural": "die Blumen",
+        "gender": "feminine",
+        "example": "Er brachte ihr einen bunten Blumenstrauß mit."
+      },
+      "english": {
+        "word": "flower",
+        "phonetic": "/flaʊər/",
+        "example": "She arranged fresh spring flowers in a glass vase."
+      },
+      "image_id": "img_cel_flower"
+    },
+    {
+      "id": "cel_candle",
+      "category": "celebrations_social",
+      "arabic": {
+        "word": "الشَّمْعَةُ",
+        "transliteration": "Ash-Sham'ah",
+        "notes": "عمود من الشمع يضاء في الحفلات والأعياد"
+      },
+      "german": {
+        "article": "die",
+        "word": "Kerze",
+        "plural": "die Kerzen",
+        "gender": "feminine",
+        "example": "Puste alle Kerzen auf dem Geburtstagskuchen aus!"
+      },
+      "english": {
+        "word": "candle",
+        "phonetic": "/ˈkæn.dəl/",
+        "example": "Make a silent wish before blowing out the birthday candles."
+      },
+      "image_id": "img_cel_candle"
+    },
+    {
+      "id": "cel_cake",
+      "category": "celebrations_social",
+      "arabic": {
+        "word": "كَعْكَةُ الحَفْلِ / الطَّوْرْطَةُ",
+        "transliteration": "Ka'kat Al-Hafl",
+        "notes": "حلوى المناسبات المخبوزة والمزينة"
+      },
+      "german": {
+        "article": "die",
+        "word": "Torte",
+        "plural": "die Torten",
+        "gender": "feminine",
+        "example": "Die Schokoladentorte schmeckte köstlich."
+      },
+      "english": {
+        "word": "celebration cake / tart",
+        "phonetic": "/keɪk/",
+        "example": "The baker decorated the festive cake beautifully."
+      },
+      "image_id": "img_cel_cake"
+    },
+    {
+      "id": "cel_balloon",
+      "category": "celebrations_social",
+      "arabic": {
+        "word": "البَالُونُ / النُّفَّاخَةُ",
+        "transliteration": "Al-Baloon",
+        "notes": "كيس مطاطي ملون يملأ بالهواء للزينة"
+      },
+      "german": {
+        "article": "der",
+        "word": "Luftballon",
+        "plural": "die Luftballons",
+        "gender": "masculine",
+        "example": "Bunte Luftballons schmücken den gesamten Festsaal."
+      },
+      "english": {
+        "word": "balloon",
+        "phonetic": "/bəˈluːn/",
+        "example": "Bright red and gold balloons decorated the courtyard."
+      },
+      "image_id": "img_cel_balloon"
+    },
+    {
+      "id": "cel_toast",
+      "category": "celebrations_social",
+      "arabic": {
+        "word": "نَخْبُ التَّهْنِئَةِ (فِي صِحَّتِكُمْ)",
+        "transliteration": "Nakhb At-Tahni'ah",
+        "notes": "عبارة التمني بالصحة والتوفيق في الجمع"
+      },
+      "german": {
+        "article": "der",
+        "word": "Trinkspruch",
+        "plural": "die Trinksprüche",
+        "gender": "masculine",
+        "example": "Der Gastgeber hielt einen herzlichen Trinkspruch auf das Brautpaar."
+      },
+      "english": {
+        "word": "toast (cheers)",
+        "phonetic": "/təʊst/",
+        "example": "The host proposed an emotional toast to the newlyweds."
+      },
+      "image_id": "img_cel_toast"
+    },
+    {
+      "id": "cel_friendship",
+      "category": "celebrations_social",
+      "arabic": {
+        "word": "الصَّدَاقَةُ",
+        "transliteration": "As-Sadaqah",
+        "notes": "رابطة الإخاء والمودة الصادقة بين الأفراد"
+      },
+      "german": {
+        "article": "die",
+        "word": "Freundschaft",
+        "plural": "die Freundschaften",
+        "gender": "feminine",
+        "example": "Eine wahre Freundschaft hält ein Leben lang."
+      },
+      "english": {
+        "word": "friendship",
+        "phonetic": "/ˈfrend.ʃɪp/",
+        "example": "Lifelong friendship is one of life's greatest treasures."
+      },
+      "image_id": "img_cel_friendship"
+    },
+    {
+      "id": "cel_meeting",
+      "category": "celebrations_social",
+      "arabic": {
+        "word": "اللِّقَاءُ / المَوْعِدُ",
+        "transliteration": "Al-Liqa'",
+        "notes": "اجتماع شخصين أو أكثر في مكان محدد"
+      },
+      "german": {
+        "article": "das",
+        "word": "Treffen",
+        "plural": "die Treffen",
+        "gender": "neuter",
+        "example": "Unser Treffen im Stadtcafé war sehr angenehm."
+      },
+      "english": {
+        "word": "gathering / meeting",
+        "phonetic": "/ˈmiː.tɪŋ/",
+        "example": "Our casual coffee meeting was truly refreshing."
+      },
+      "image_id": "img_cel_meeting"
+    },
+    {
+      "id": "cel_visit",
+      "category": "celebrations_social",
+      "arabic": {
+        "word": "الزِّيَارَةُ",
+        "transliteration": "Az-Ziyarah",
+        "notes": "الذهاب إلى الأقارب أو الأصدقاء للتواصل"
+      },
+      "german": {
+        "article": "der",
+        "word": "Besuch",
+        "plural": "die Besuche",
+        "gender": "masculine",
+        "example": "Am Wochenende freuen wir uns auf den Besuch der Großeltern."
+      },
+      "english": {
+        "word": "visit",
+        "phonetic": "/ˈvɪz.ɪt/",
+        "example": "We always look forward to my grandparents' weekend visit."
+      },
+      "image_id": "img_cel_visit"
+    },
+    {
+      "id": "cel_tradition",
+      "category": "celebrations_social",
+      "arabic": {
+        "word": "التَّقْلِيدُ / العَادَةُ العَرِيقَةُ",
+        "transliteration": "At-Taqleed",
+        "notes": "الموروث الثقافي والاجتماعي المتوارث عبر الأجيال"
+      },
+      "german": {
+        "article": "die",
+        "word": "Tradition",
+        "plural": "die Traditionen",
+        "gender": "feminine",
+        "example": "In jedem Land gibt es einzigartige festliche Traditionen."
+      },
+      "english": {
+        "word": "tradition / custom",
+        "phonetic": "/trəˈdɪʃ.ən/",
+        "example": "Every culture cherishes distinct holiday traditions."
+      },
+      "image_id": "img_cel_tradition"
+    },
+    {
+      "id": "cel_new_year",
+      "category": "celebrations_social",
+      "arabic": {
+        "word": "رَأْسُ السَّنَةِ الجَدِيدَةِ",
+        "transliteration": "Ra's As-Sanah",
+        "notes": "مستهل العام التقويمي الجديد"
+      },
+      "german": {
+        "article": "das",
+        "word": "Neujahr",
+        "plural": "die Neujahre",
+        "gender": "neuter",
+        "example": "Ich wünsche dir ein frohes und gesundes neues Jahr!"
+      },
+      "english": {
+        "word": "New Year",
+        "phonetic": "/ˌnjuː ˈjɪər/",
+        "example": "Wishing you peace, happiness, and prosperity in the New Year!"
+      },
+      "image_id": "img_cel_new_year"
+    },
+    {
+      "id": "cel_eid_festival",
+      "category": "celebrations_social",
+      "arabic": {
+        "word": "العِيدُ الدِّينِيُّ / المِهْرَجَانُ",
+        "transliteration": "Al-'Eed Ad-Deeni",
+        "notes": "أيام الفرح والشعائر الدينية كالفطر والأضحى"
+      },
+      "german": {
+        "article": "das",
+        "word": "Fest",
+        "plural": "die Feste",
+        "gender": "neuter",
+        "example": "Eid ist ein wunderschönes Familienfest des Teilens und der Freude."
+      },
+      "english": {
+        "word": "Eid / festive holiday",
+        "phonetic": "/iːd/",
+        "example": "Eid is a blessed occasion celebrated with loved ones."
+      },
+      "image_id": "img_cel_eid_festival"
+    },
+    {
+      "id": "cel_surprise",
+      "category": "celebrations_social",
+      "arabic": {
+        "word": "المُفَاجَأَةُ",
+        "transliteration": "Al-Mufaja'ah",
+        "notes": "أمر سار غير متوقع يبهج النفس"
+      },
+      "german": {
+        "article": "die",
+        "word": "Überraschung",
+        "plural": "die Überraschungen",
+        "gender": "feminine",
+        "example": "Die gelungene Überraschung hat ihr ein Lächeln ins Gesicht gezaubert."
+      },
+      "english": {
+        "word": "surprise",
+        "phonetic": "/səˈpraɪz/",
+        "example": "The unexpected surprise brought tears of joy to her eyes."
+      },
+      "image_id": "img_cel_surprise"
+    },
+    {
+      "id": "cel_decoration",
+      "category": "celebrations_social",
+      "arabic": {
+        "word": "الزِّينَةُ / الدِّيكُورُ الِاحْتِفَالِيُّ",
+        "transliteration": "Az-Zeenah",
+        "notes": "المظاهر الجمالية لتجهيز مكان الفرح"
+      },
+      "german": {
+        "article": "die",
+        "word": "Dekoration",
+        "plural": "die Dekorationen",
+        "gender": "feminine",
+        "example": "Die glitzernde Dekoration verwandelte den Raum in einen Festsaal."
+      },
+      "english": {
+        "word": "decoration",
+        "phonetic": "/ˌdek.əˈreɪ.ʃən/",
+        "example": "The festive decorations created a cheerful ambience."
+      },
+      "image_id": "img_cel_decoration"
+    },
+    {
+      "id": "cel_cheers",
+      "category": "celebrations_social",
+      "arabic": {
+        "word": "فِي صِحَّتِكُمْ / هَنِيئًا",
+        "transliteration": "Hanee'an / Fee Sihhatikum",
+        "notes": "عبارة المباركة والشرب المشترك"
+      },
+      "german": {
+        "article": "",
+        "word": "Prost! / Zum Wohl!",
+        "plural": "",
+        "gender": "interjection",
+        "example": "Prost und auf eine erfolgreiche gemeinsame Zukunft!"
+      },
+      "english": {
+        "word": "cheers!",
+        "phonetic": "/tʃɪəz/",
+        "example": "Cheers to good health, true friends, and happiness!"
+      },
+      "image_id": "img_cel_cheers"
+    },
+    {
+      "id": "cel_farewell",
+      "category": "celebrations_social",
+      "arabic": {
+        "word": "الوَدَاعُ / حَفْلُ التَّوْدِيعِ",
+        "transliteration": "Al-Wada'",
+        "notes": "لحظة الافتراق وتمني السلامة واللقاء مجددًا"
+      },
+      "german": {
+        "article": "der",
+        "word": "Abschied",
+        "plural": "die Abschiede",
+        "gender": "masculine",
+        "example": "Der Abschied von den Kollegen fiel ihm nicht leicht."
+      },
+      "english": {
+        "word": "farewell / goodbye",
+        "phonetic": "/feəˈwel/",
+        "example": "They bid a warm farewell and promised to stay in touch."
+      },
+      "image_id": "img_cel_farewell"
+    }
+  ]
+}
