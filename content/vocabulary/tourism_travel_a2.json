@@ -1,0 +1,561 @@
+{
+  "category_id": "tourism_travel",
+  "category_name": {
+    "ar": "السياحة والاستكشاف العالمي",
+    "de": "Tourismus & Kulturelle Entdeckungen",
+    "en": "Global Tourism & Travel"
+  },
+  "level": "A2",
+  "concepts": [
+    {
+      "id": "tou_tourismus",
+      "category": "tourism_travel",
+      "arabic": {
+        "word": "السِّيَاحَةُ / قِطَاعُ السَّفَرِ",
+        "transliteration": "As-Siyahah",
+        "notes": "النشاط الترفيهي والاستكشافي للتنقل بين البلدان"
+      },
+      "german": {
+        "article": "der",
+        "word": "Tourismus",
+        "plural": "die Tourismen",
+        "gender": "masculine",
+        "example": "Der nachhaltige Tourismus schützt Natur und lokale Gemeinschaften."
+      },
+      "english": {
+        "word": "tourism",
+        "phonetic": "/ˈtʊə.rɪ.zəm/",
+        "example": "Sustainable eco-tourism benefits remote rural communities."
+      },
+      "image_id": "img_tou_tourismus"
+    },
+    {
+      "id": "tou_tourist",
+      "category": "tourism_travel",
+      "arabic": {
+        "word": "السَّائِحُ",
+        "transliteration": "As-Sa'ih",
+        "notes": "المسافر لغرض الاستجمام أو التعرف الثقافي (يتبع N-Deklination)"
+      },
+      "german": {
+        "article": "der",
+        "word": "Tourist",
+        "plural": "die Touristen",
+        "gender": "masculine (n-Deklination)",
+        "example": "Der interessierte Tourist fotografiert die historische Kathedrale."
+      },
+      "english": {
+        "word": "tourist / traveler (male)",
+        "phonetic": "/ˈtʊə.rɪst/",
+        "example": "The foreign tourist admired the intricate palace architecture."
+      },
+      "image_id": "img_tou_tourist"
+    },
+    {
+      "id": "tou_touristin",
+      "category": "tourism_travel",
+      "arabic": {
+        "word": "السَّائِحَةُ",
+        "transliteration": "As-Sa'ihah",
+        "notes": "المسافرة لغرض الاستجمام والثقافة"
+      },
+      "german": {
+        "article": "die",
+        "word": "Touristin",
+        "plural": "die Touristinnen",
+        "gender": "feminine",
+        "example": "Die Touristin erkundete die malerischen Gassen der Altstadt."
+      },
+      "english": {
+        "word": "tourist / traveler (female)",
+        "phonetic": "/ˈtʊə.rɪst/",
+        "example": "The solo female tourist documented her trek across Europe."
+      },
+      "image_id": "img_tou_touristin"
+    },
+    {
+      "id": "tou_reiseziel",
+      "category": "tourism_travel",
+      "arabic": {
+        "word": "الوُجْهَةُ السِّيَاحِيَّةُ / المَقْصِدُ",
+        "transliteration": "Al-Wijhah As-Siyahiyyah",
+        "notes": "المكان المختار للسفر إليه"
+      },
+      "german": {
+        "article": "das",
+        "word": "Reiseziel",
+        "plural": "die Reiseziele",
+        "gender": "neuter",
+        "example": "Die Alpen sind ein weltweit begehrtes Reiseziel für Wintersportler."
+      },
+      "english": {
+        "word": "travel destination",
+        "phonetic": "/ˈtræv.əl ˌdes.tɪˈneɪ.ʃən/",
+        "example": "The coastal island is a top holiday travel destination."
+      },
+      "image_id": "img_tou_reiseziel"
+    },
+    {
+      "id": "tou_reiseplan",
+      "category": "tourism_travel",
+      "arabic": {
+        "word": "خَطُّ سَيْرِ الرِّحْلَةِ / الجَدْوَلُ",
+        "transliteration": "Khatt Sayr Ar-Rihlah",
+        "notes": "برنامج التنقل والمحطات المحددة مسبقًا"
+      },
+      "german": {
+        "article": "der",
+        "word": "Reiseplan",
+        "plural": "die Reisepläne",
+        "gender": "masculine",
+        "example": "Wir haben einen abwechslungsreichen Reiseplan für zwei Wochen ausgearbeitet."
+      },
+      "english": {
+        "word": "itinerary / travel plan",
+        "phonetic": "/aɪˈtɪn.ər.ər.i/",
+        "example": "Their vacation itinerary includes visits to three historic cities."
+      },
+      "image_id": "img_tou_reiseplan"
+    },
+    {
+      "id": "tou_sehenswuerdigkeit",
+      "category": "tourism_travel",
+      "arabic": {
+        "word": "المَعْلَمُ السِّيَاحِيُّ البَارِزُ",
+        "transliteration": "Al-Ma'lam As-Siyahi",
+        "notes": "الموقع الأثري أو المعماري الجذاب للزوار"
+      },
+      "german": {
+        "article": "die",
+        "word": "Sehenswürdigkeit",
+        "plural": "die Sehenswürdigkeiten",
+        "gender": "feminine",
+        "example": "Das Brandenburger Tor ist die bekannteste Sehenswürdigkeit in Berlin."
+      },
+      "english": {
+        "word": "tourist attraction / sight",
+        "phonetic": "/əˈtræk.ʃən/",
+        "example": "The ancient amphitheater is a major tourist attraction."
+      },
+      "image_id": "img_tou_sehenswuerdigkeit"
+    },
+    {
+      "id": "tou_reisepass",
+      "category": "tourism_travel",
+      "arabic": {
+        "word": "جَوَازُ السَّفَرِ",
+        "transliteration": "Jawaz As-Safar",
+        "notes": "وثيقة الهوية الدولية الرسمية للسفر بين الدول"
+      },
+      "german": {
+        "article": "der",
+        "word": "Reisepass",
+        "plural": "die Reisepässe",
+        "gender": "masculine",
+        "example": "Vergiss nicht zu prüfen, ob dein Reisepass noch gültig ist."
+      },
+      "english": {
+        "word": "passport",
+        "phonetic": "/ˈpɑːs.pɔːt/",
+        "example": "Keep your official passport in a secure travel wallet."
+      },
+      "image_id": "img_tou_reisepass"
+    },
+    {
+      "id": "tou_visum",
+      "category": "tourism_travel",
+      "arabic": {
+        "word": "تَأْشِيرَةُ الدُّخُولِ (الفِيزَا)",
+        "transliteration": "Ta'sheerat Ad-Dukhool",
+        "notes": "التصريح الدبلوماسي الرسمي لدخول أراضي الدولة"
+      },
+      "german": {
+        "article": "das",
+        "word": "Visum",
+        "plural": "die Visa",
+        "gender": "neuter",
+        "example": "Für die Einreise in manche Länder benötigt man rechtzeitig ein Visum."
+      },
+      "english": {
+        "word": "visa",
+        "phonetic": "/ˈviː.zə/",
+        "example": "International applicants must apply for a tourist visa early."
+      },
+      "image_id": "img_tou_visum"
+    },
+    {
+      "id": "tou_zoll",
+      "category": "tourism_travel",
+      "arabic": {
+        "word": "الجَمَارِكُ",
+        "transliteration": "Al-Jamarik",
+        "notes": "الهيئة الحدودية لمراقبة السلع والمسافرين"
+      },
+      "german": {
+        "article": "der",
+        "word": "Zoll",
+        "plural": "die Zölle",
+        "gender": "masculine",
+        "example": "Am Flughafen kontrolliert der Zoll das Gepäck auf verbotene Waren."
+      },
+      "english": {
+        "word": "customs",
+        "phonetic": "/ˈkʌs.təmz/",
+        "example": "Passengers must declare foreign purchases at airport customs."
+      },
+      "image_id": "img_tou_zoll"
+    },
+    {
+      "id": "tou_grenze",
+      "category": "tourism_travel",
+      "arabic": {
+        "word": "الحُدُودُ الدَّوْلِيَّةُ",
+        "transliteration": "Al-Hudood",
+        "notes": "الخط الفاصل السيادي بين بلدين"
+      },
+      "german": {
+        "article": "die",
+        "word": "Grenze",
+        "plural": "die Grenzen",
+        "gender": "feminine",
+        "example": "Innerhalb des Schengen-Raums überquert man Grenzen ohne Passkontrolle."
+      },
+      "english": {
+        "word": "border / frontier",
+        "phonetic": "/ˈbɔː.dər/",
+        "example": "Vehicles passed peacefully across the European border crossing."
+      },
+      "image_id": "img_tou_grenze"
+    },
+    {
+      "id": "tou_reiseleiter",
+      "category": "tourism_travel",
+      "arabic": {
+        "word": "المُرْشِدُ السِّيَاحِيُّ",
+        "transliteration": "Al-Murshid As-Siyahi",
+        "notes": "الدليل المصاحب للشرح وتوجيه الأفواج"
+      },
+      "german": {
+        "article": "der",
+        "word": "Reiseleiter",
+        "plural": "die Reiseleiter",
+        "gender": "masculine",
+        "example": "Der ortskundige Reiseleiter erklärte uns die Geschichte des Schlosses."
+      },
+      "english": {
+        "word": "tour guide",
+        "phonetic": "/ˈtʊə ˌɡaɪd/",
+        "example": "Our licensed tour guide provided fascinating historical context."
+      },
+      "image_id": "img_tou_reiseleiter"
+    },
+    {
+      "id": "tou_gepaeck",
+      "category": "tourism_travel",
+      "arabic": {
+        "word": "أَمْتِعَةُ السَّفَرِ",
+        "transliteration": "Amti'at As-Safar",
+        "notes": "مجموع الحقائب المنقولة مع المسافر (اسم مفرد دائم)"
+      },
+      "german": {
+        "article": "das",
+        "word": "Gepäck",
+        "plural": "die Gepäcke",
+        "gender": "neuter",
+        "example": "Geben Sie Ihr schweres Gepäck bitte am Schalter auf."
+      },
+      "english": {
+        "word": "luggage / baggage",
+        "phonetic": "/ˈlʌɡ.ɪdʒ/",
+        "example": "Airline passengers are permitted one piece of cabin luggage."
+      },
+      "image_id": "img_tou_gepaeck"
+    },
+    {
+      "id": "tou_koffer",
+      "category": "tourism_travel",
+      "arabic": {
+        "word": "حَقِيبَةُ السَّفَرِ",
+        "transliteration": "Haqeebat As-Safar",
+        "notes": "الصندوق المتنقل ذو العجلات لحمل الملابس"
+      },
+      "german": {
+        "article": "der",
+        "word": "Koffer",
+        "plural": "die Koffer",
+        "gender": "masculine",
+        "example": "Er packte seinen robusten Koffer am Vorabend der Abreise."
+      },
+      "english": {
+        "word": "suitcase",
+        "phonetic": "/ˈsuːt.keɪs/",
+        "example": "She packed her lightweight suitcase for the weekend getaway."
+      },
+      "image_id": "img_tou_koffer"
+    },
+    {
+      "id": "tou_flugticket",
+      "category": "tourism_travel",
+      "arabic": {
+        "word": "تَذْكِرَةُ الطَّيَرَانِ / بِطَاقَةُ الصُّعُودِ",
+        "transliteration": "Tathkirat At-Tayaran",
+        "notes": "وثيقة حجز مقعد السفر الجوي"
+      },
+      "german": {
+        "article": "das",
+        "word": "Flugticket",
+        "plural": "die Flugtickets",
+        "gender": "neuter",
+        "example": "Ich habe mein digitales Flugticket auf dem Smartphone gespeichert."
+      },
+      "english": {
+        "word": "flight ticket / boarding pass",
+        "phonetic": "/ˈflaɪt ˌtɪk.ɪt/",
+        "example": "Present your mobile flight ticket at the security gate."
+      },
+      "image_id": "img_tou_flugticket"
+    },
+    {
+      "id": "tou_kreuzfahrt",
+      "category": "tourism_travel",
+      "arabic": {
+        "word": "الرِّحْلَةُ البَحْرِيَّةُ (الكُرُوز)",
+        "transliteration": "Ar-Rihlah Al-Bahriyyah",
+        "notes": "السفر الاستجمامي على متن سفينة سياحية عملاقة"
+      },
+      "german": {
+        "article": "die",
+        "word": "Kreuzfahrt",
+        "plural": "die Kreuzfahrten",
+        "gender": "feminine",
+        "example": "Eine entspannte Kreuzfahrt auf dem Mittelmeer ist ein unvergessliches Erlebnis."
+      },
+      "english": {
+        "word": "cruise / sea voyage",
+        "phonetic": "/kruːz/",
+        "example": "They embarked on a Mediterranean luxury cruise for ten days."
+      },
+      "image_id": "img_tou_kreuzfahrt"
+    },
+    {
+      "id": "tou_insel",
+      "category": "tourism_travel",
+      "arabic": {
+        "word": "الجَزِيرَةُ",
+        "transliteration": "Al-Jazeerah",
+        "notes": "الأرض اليابسة المحاطة بالماء من جميع الجهات"
+      },
+      "german": {
+        "article": "die",
+        "word": "Insel",
+        "plural": "die Inseln",
+        "gender": "feminine",
+        "example": "Rügen ist die flächenmäßig größte deutsche Insel in der Ostsee."
+      },
+      "english": {
+        "word": "island",
+        "phonetic": "/ˈaɪ.lənd/",
+        "example": "The tropical island features turquoise lagoons and white sand."
+      },
+      "image_id": "img_tou_insel"
+    },
+    {
+      "id": "tou_gebirge",
+      "category": "tourism_travel",
+      "arabic": {
+        "word": "السِّلْسِلَةُ الجَبَلِيَّةُ",
+        "transliteration": "As-Silsilah Al-Jabaliyyah",
+        "notes": "مجموعة الجبال الشاهقة المترابطة"
+      },
+      "german": {
+        "article": "das",
+        "word": "Gebirge",
+        "plural": "die Gebirge",
+        "gender": "neuter",
+        "example": "Das schneebedeckte Gebirge lockt Bergsteiger und Wanderer an."
+      },
+      "english": {
+        "word": "mountain range",
+        "phonetic": "/ˈmaʊn.tɪn reɪndʒ/",
+        "example": "The rugged mountain range offers panoramic hiking trails."
+      },
+      "image_id": "img_tou_gebirge"
+    },
+    {
+      "id": "tou_wasserfall",
+      "category": "tourism_travel",
+      "arabic": {
+        "word": "الشَّلَّالُ الطَّبِيعِيُّ",
+        "transliteration": "Ash-Shallal",
+        "notes": "انحدار الماء المتدفق من علٍ بشدة وجمال"
+      },
+      "german": {
+        "article": "der",
+        "word": "Wasserfall",
+        "plural": "die Wasserfälle",
+        "gender": "masculine",
+        "example": "Der tosende Wasserfall stürzt über fünfzig Meter in die Tiefe."
+      },
+      "english": {
+        "word": "waterfall",
+        "phonetic": "/ˈwɔː.tə.fɔːl/",
+        "example": "The roaring waterfall cascades into a crystal-clear plunge pool."
+      },
+      "image_id": "img_tou_wasserfall"
+    },
+    {
+      "id": "tou_resort",
+      "category": "tourism_travel",
+      "arabic": {
+        "word": "المُنْتَجَعُ السِّيَاحِيُّ",
+        "transliteration": "Al-Muntaja'",
+        "notes": "المجمع الفندقي المتكامل للراحة والترفيه"
+      },
+      "german": {
+        "article": "das",
+        "word": "Resort",
+        "plural": "die Resorts",
+        "gender": "neuter",
+        "example": "Das exklusive Strandresort bietet Schwimmbäder und hervorragendes Essen."
+      },
+      "english": {
+        "word": "holiday resort",
+        "phonetic": "/rɪˈzɔːt/",
+        "example": "The seaside resort offers wellness spas and watersports."
+      },
+      "image_id": "img_tou_resort"
+    },
+    {
+      "id": "tou_souvenir",
+      "category": "tourism_travel",
+      "arabic": {
+        "word": "التِّذْكَارُ السِّيَاحِيُّ",
+        "transliteration": "At-Tithkar",
+        "notes": "القطعة المقتناة لتذكر زيارة بلد أو معلم"
+      },
+      "german": {
+        "article": "das",
+        "word": "Souvenir",
+        "plural": "die Souvenirs",
+        "gender": "neuter",
+        "example": "Als schönes Souvenir brachte sie handbemalte Keramik aus Spanien mit."
+      },
+      "english": {
+        "word": "souvenir / keepsake",
+        "phonetic": "/ˌsuː.vənˈɪər/",
+        "example": "He bought handcrafted ceramic plates as holiday souvenirs."
+      },
+      "image_id": "img_tou_souvenir"
+    },
+    {
+      "id": "tou_abenteuer",
+      "category": "tourism_travel",
+      "arabic": {
+        "word": "المُغَامَرَةُ الِاسْتِكْشَافِيَّةُ",
+        "transliteration": "Al-Mughamarah",
+        "notes": "التجربة المثيرة غير المألوفة في الطبيعة"
+      },
+      "german": {
+        "article": "das",
+        "word": "Abenteuer",
+        "plural": "die Abenteuer",
+        "gender": "neuter",
+        "example": "Die Wüstensafari war ein unvergessliches und packendes Abenteuer."
+      },
+      "english": {
+        "word": "adventure",
+        "phonetic": "/ədˈven.tʃər/",
+        "example": "Exploring the Amazon rainforest was an unforgettable adventure."
+      },
+      "image_id": "img_tou_abenteuer"
+    },
+    {
+      "id": "tou_wechselstube",
+      "category": "tourism_travel",
+      "arabic": {
+        "word": "مَكْتَبُ صِرَافَةِ العُمْلَاتِ",
+        "transliteration": "Maktab As-Sirafah",
+        "notes": "مكان تبديل النقود بين العملات الأجنبية"
+      },
+      "german": {
+        "article": "die",
+        "word": "Wechselstube",
+        "plural": "die Wechselstuben",
+        "gender": "feminine",
+        "example": "In der Wechselstube am Bahnhof tauschte er Euro in Schweizer Franken."
+      },
+      "english": {
+        "word": "currency exchange bureau",
+        "phonetic": "/ˈkʌr.ən.si ɪksˌtʃeɪndʒ/",
+        "example": "Check conversion fees at the airport currency exchange."
+      },
+      "image_id": "img_tou_wechselstube"
+    },
+    {
+      "id": "tou_checkin",
+      "category": "tourism_travel",
+      "arabic": {
+        "word": "إِجْرَاءَاتُ التَّسْجِيلِ / الوُصُولِ",
+        "transliteration": "At-Tasjeel (Check-in)",
+        "notes": "تأكيد الحضور واستلام بطاقة الغرفة أو الطيران"
+      },
+      "german": {
+        "article": "der",
+        "word": "Check-in",
+        "plural": "die Check-ins",
+        "gender": "masculine",
+        "example": "Der Online-Check-in spart am Flughafen wertvolle Zeit."
+      },
+      "english": {
+        "word": "check-in",
+        "phonetic": "/ˈtʃek.ɪn/",
+        "example": "Hotel check-in begins at three o'clock in the afternoon."
+      },
+      "image_id": "img_tou_checkin"
+    },
+    {
+      "id": "tou_backpacking",
+      "category": "tourism_travel",
+      "arabic": {
+        "word": "سِيَاحَةُ حَقِيبَةِ الظَّهْرِ",
+        "transliteration": "Siyahat Haqibat Ath-Thahr",
+        "notes": "السفر الاستكشافي الاقتصادي بحقيبة ظهر والتنقل الحر"
+      },
+      "german": {
+        "article": "das",
+        "word": "Backpacking",
+        "plural": "die Backpackings",
+        "gender": "neuter",
+        "example": "Beim Backpacking durch Asien lernt man fremde Kulturen intensiv kennen."
+      },
+      "english": {
+        "word": "backpacking",
+        "phonetic": "/ˈbæk.pæk.ɪŋ/",
+        "example": "Backpacking across Southeast Asia teaches self-reliance."
+      },
+      "image_id": "img_tou_backpacking"
+    },
+    {
+      "id": "tou_weltwunder",
+      "category": "tourism_travel",
+      "arabic": {
+        "word": "أُعْجُوبَةُ العَالَمِ",
+        "transliteration": "U'joobat Al-'Alam",
+        "notes": "الإنجاز المعماري الاستثنائي الخالد عبر التاريخ"
+      },
+      "german": {
+        "article": "das",
+        "word": "Weltwunder",
+        "plural": "die Weltwunder",
+        "gender": "neuter",
+        "example": "Die Felsenstadt Petra in Jordanien gehört zu den neuen sieben Weltwundern."
+      },
+      "english": {
+        "word": "wonder of the world",
+        "phonetic": "/ˈwʌn.dər əv ðə wɜːld/",
+        "example": "The ancient city of Petra is celebrated as a wonder of the world."
+      },
+      "image_id": "img_tou_weltwunder"
+    }
+  ]
+}
