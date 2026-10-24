@@ -1,0 +1,561 @@
+{
+  "category_id": "philosophy_logic",
+  "category_name": {
+    "ar": "الفلسفة والمنطق والتفكير النقدي",
+    "de": "Philosophie, Logik & Kritisches Denken",
+    "en": "Philosophy, Logic & Critical Thinking"
+  },
+  "level": "A2",
+  "concepts": [
+    {
+      "id": "phi_philosophie",
+      "category": "philosophy_logic",
+      "arabic": {
+        "word": "الفَلْسَفَةُ / حُبُّ الحِكْمَةِ",
+        "transliteration": "Al-Falsafah",
+        "notes": "البحث في الأسئلة الجوهرية للوجود والمعرفة والأخلاق"
+      },
+      "german": {
+        "article": "die",
+        "word": "Philosophie",
+        "plural": "die Philosophien",
+        "gender": "feminine",
+        "example": "Die antike Philosophie sucht nach den Ursprüngen des Seins."
+      },
+      "english": {
+        "word": "philosophy",
+        "phonetic": "/fɪˈlɒs.ə.fi/",
+        "example": "Classical philosophy examines the fundamental nature of reality."
+      },
+      "image_id": "img_phi_philosophie"
+    },
+    {
+      "id": "phi_logik",
+      "category": "philosophy_logic",
+      "arabic": {
+        "word": "المَنْطِقُ",
+        "transliteration": "Al-Mantiq",
+        "notes": "قواعد التفكير السليم والاستدلال الصحيح"
+      },
+      "german": {
+        "article": "die",
+        "word": "Logik",
+        "plural": "die Logiken",
+        "gender": "feminine",
+        "example": "Die strenge Logik verhindert fehlerhafte Schlussfolgerungen."
+      },
+      "english": {
+        "word": "logic",
+        "phonetic": "/ˈlɒdʒ.ɪk/",
+        "example": "Sound formal logic ensures valid deductions and reasoning."
+      },
+      "image_id": "img_phi_logik"
+    },
+    {
+      "id": "phi_gedanke",
+      "category": "philosophy_logic",
+      "arabic": {
+        "word": "الفِكْرَةُ / الخَاطِرَةُ",
+        "transliteration": "Al-Fikrah",
+        "notes": "النتاج الذهني الواعي (اسم مذكر شاذ يتبع N-Deklination مع s في الإضافة)"
+      },
+      "german": {
+        "article": "der",
+        "word": "Gedanke",
+        "plural": "die Gedanken",
+        "gender": "masculine (des Gedankens)",
+        "example": "Ein tiefer Gedanke inspirierte die gesamte Forschungsgruppe."
+      },
+      "english": {
+        "word": "thought / idea",
+        "phonetic": "/θɔːt/",
+        "example": "A profound philosophical thought reshaped his worldview."
+      },
+      "image_id": "img_phi_gedanke"
+    },
+    {
+      "id": "phi_vernunft",
+      "category": "philosophy_logic",
+      "arabic": {
+        "word": "العَقْلُ / الرُّشْدُ",
+        "transliteration": "Al-'Aql",
+        "notes": "ملكة الإدراك والتمييز الرشيد بين الصواب والخطأ"
+      },
+      "german": {
+        "article": "die",
+        "word": "Vernunft",
+        "plural": "die Vernünfte",
+        "gender": "feminine",
+        "example": "Die Vernunft leitet den Menschen zu besonnenem Handeln."
+      },
+      "english": {
+        "word": "reason / rationality",
+        "phonetic": "/ˈriː.zən/",
+        "example": "Human reason guides objective judgment in complex dilemmas."
+      },
+      "image_id": "img_phi_vernunft"
+    },
+    {
+      "id": "phi_wahrheit",
+      "category": "philosophy_logic",
+      "arabic": {
+        "word": "الحَقِيقَةُ",
+        "transliteration": "Al-Haqeeqah",
+        "notes": "المطابقة التامة للواقع والصدق المعرفي"
+      },
+      "german": {
+        "article": "die",
+        "word": "Wahrheit",
+        "plural": "die Wahrheiten",
+        "gender": "feminine",
+        "example": "Wissenschaftler und Philosophen streben unermüdlich nach der Wahrheit."
+      },
+      "english": {
+        "word": "truth",
+        "phonetic": "/truːθ/",
+        "example": "Honest intellectual inquiry relentlessly pursues objective truth."
+      },
+      "image_id": "img_phi_wahrheit"
+    },
+    {
+      "id": "phi_realitaet",
+      "category": "philosophy_logic",
+      "arabic": {
+        "word": "الوَاقِعُ / الحَقِيقَةُ العَيْنِيَّةُ",
+        "transliteration": "Al-Waqi'",
+        "notes": "ما هو موجود بالفعل ومتحقق خارج الذهن"
+      },
+      "german": {
+        "article": "die",
+        "word": "Realität",
+        "plural": "die Realitäten",
+        "gender": "feminine",
+        "example": "Manchmal weicht die subjektive Wahrnehmung von der objektiven Realität ab."
+      },
+      "english": {
+        "word": "reality",
+        "phonetic": "/riˈæl.ə.ti/",
+        "example": "Critical thinking helps distinguish illusion from concrete reality."
+      },
+      "image_id": "img_phi_realitaet"
+    },
+    {
+      "id": "phi_erkenntnis",
+      "category": "philosophy_logic",
+      "arabic": {
+        "word": "المَعْرِفَةُ / الإِدْرَاكُ",
+        "transliteration": "Al-Ma'rifah",
+        "notes": "الوصول إلى الفهم العميق للحقائق"
+      },
+      "german": {
+        "article": "die",
+        "word": "Erkenntnis",
+        "plural": "die Erkenntnisse",
+        "gender": "feminine",
+        "example": "Neue wissenschaftliche Erkenntnisse erweitern unseren Horizont."
+      },
+      "english": {
+        "word": "knowledge / insight",
+        "phonetic": "/ˈnɒl.ɪdʒ/",
+        "example": "Philosophical insight illuminates the complexities of human nature."
+      },
+      "image_id": "img_phi_erkenntnis"
+    },
+    {
+      "id": "phi_weisheit",
+      "category": "philosophy_logic",
+      "arabic": {
+        "word": "الحِكْمَةُ",
+        "transliteration": "Al-Hikmah",
+        "notes": "وضع الأمور في مواضعها وحسن التصرف بالمعرفة"
+      },
+      "german": {
+        "article": "die",
+        "word": "Weisheit",
+        "plural": "die Weisheiten",
+        "gender": "feminine",
+        "example": "Weisheit wächst durch Lebenserfahrung und ständige Reflexion."
+      },
+      "english": {
+        "word": "wisdom",
+        "phonetic": "/ˈwɪz.dəm/",
+        "example": "True wisdom combines extensive experience with ethical restraint."
+      },
+      "image_id": "img_phi_weisheit"
+    },
+    {
+      "id": "phi_argument",
+      "category": "philosophy_logic",
+      "arabic": {
+        "word": "الحُجَّةُ / البُرْهَانُ",
+        "transliteration": "Al-Hujjah",
+        "notes": "الدليل المنطقي الداعم للرأي أو النظرية"
+      },
+      "german": {
+        "article": "das",
+        "word": "Argument",
+        "plural": "die Argumente",
+        "gender": "neuter",
+        "example": "Er untermauerte seine These mit einem stichhaltigen Argument."
+      },
+      "english": {
+        "word": "argument",
+        "phonetic": "/ˈɑːɡ.jə.mənt/",
+        "example": "She presented a compelling and well-grounded argument."
+      },
+      "image_id": "img_phi_argument"
+    },
+    {
+      "id": "phi_beweis",
+      "category": "philosophy_logic",
+      "arabic": {
+        "word": "الدَّلِيلُ / الإِثْبَاتُ",
+        "transliteration": "Ad-Daleel",
+        "notes": "البرهان القاطع الذي ينفي الشك"
+      },
+      "german": {
+        "article": "der",
+        "word": "Beweis",
+        "plural": "die Beweise",
+        "gender": "masculine",
+        "example": "Für diese mathematische Behauptung gibt es einen exakten Beweis."
+      },
+      "english": {
+        "word": "proof / evidence",
+        "phonetic": "/pruːf/",
+        "example": "Empirical evidence is mandatory to substantiate the scientific claim."
+      },
+      "image_id": "img_phi_beweis"
+    },
+    {
+      "id": "phi_zweifel",
+      "category": "philosophy_logic",
+      "arabic": {
+        "word": "الشَّكُّ المَنْهَجِيُّ",
+        "transliteration": "Ash-Shakk",
+        "notes": "التردد في الحكم لإعادة الفحص والتدقيق"
+      },
+      "german": {
+        "article": "der",
+        "word": "Zweifel",
+        "plural": "die Zweifel",
+        "gender": "masculine",
+        "example": "Methodischer Zweifel ist der erste Schritt zu gesicherter Erkenntnis."
+      },
+      "english": {
+        "word": "doubt / skepticism",
+        "phonetic": "/daʊt/",
+        "example": "Methodological doubt prevents accepting dogmas unquestioned."
+      },
+      "image_id": "img_phi_zweifel"
+    },
+    {
+      "id": "phi_gewissheit",
+      "category": "philosophy_logic",
+      "arabic": {
+        "word": "اليَقِينُ / الجَزْمُ",
+        "transliteration": "Al-Yaqeen",
+        "notes": "الاطمئنان القاطع لصحة الأمر دون شك"
+      },
+      "german": {
+        "article": "die",
+        "word": "Gewissheit",
+        "plural": "die Gewissheiten",
+        "gender": "feminine",
+        "example": "Nach gründlicher Prüfung erlangte der Forscher absolute Gewissheit."
+      },
+      "english": {
+        "word": "certainty / conviction",
+        "phonetic": "/ˈsɜː.tən.ti/",
+        "example": "Logical deduction brings intellectual certainty to the mind."
+      },
+      "image_id": "img_phi_gewissheit"
+    },
+    {
+      "id": "phi_ethik",
+      "category": "philosophy_logic",
+      "arabic": {
+        "word": "الأَخْلَاقِيَّاتُ / عِلْمُ الأَخْلَاقِ",
+        "transliteration": "Al-Akhlaqiyyat",
+        "notes": "فلسفة المبادئ والقيم الحاكمة للسلوك الإنساني"
+      },
+      "german": {
+        "article": "die",
+        "word": "Ethik",
+        "plural": "die Ethiken",
+        "gender": "feminine",
+        "example": "Medizinische Ethik regelt den verantwortungsvollen Umgang mit Patienten."
+      },
+      "english": {
+        "word": "ethics / moral philosophy",
+        "phonetic": "/ˈeθ.ɪks/",
+        "example": "Applied ethics guides responsible decision-making in technology."
+      },
+      "image_id": "img_phi_ethik"
+    },
+    {
+      "id": "phi_wert",
+      "category": "philosophy_logic",
+      "arabic": {
+        "word": "القِيمَةُ الإِنْسَانِيَّةُ",
+        "transliteration": "Al-Qeemah",
+        "notes": "المبدأ السامي الذي يوجه التقدير والعمل"
+      },
+      "german": {
+        "article": "der",
+        "word": "Wert",
+        "plural": "die Werte",
+        "gender": "masculine",
+        "example": "Toleranz und Gerechtigkeit sind grundlegende demokratische Werte."
+      },
+      "english": {
+        "word": "moral value / principle",
+        "phonetic": "/ˈvæl.juː/",
+        "example": "Integrity is a fundamental human value in civil discourse."
+      },
+      "image_id": "img_phi_wert"
+    },
+    {
+      "id": "phi_sinn",
+      "category": "philosophy_logic",
+      "arabic": {
+        "word": "المَعْنَى / المَغْزَى",
+        "transliteration": "Al-Ma'na",
+        "notes": "الغاية والهدف الوجودي من الحياة والعمل"
+      },
+      "german": {
+        "article": "der",
+        "word": "Sinn",
+        "plural": "die Sinne",
+        "gender": "masculine",
+        "example": "Viele Denker fragen nach dem tieferen Sinn des Lebens."
+      },
+      "english": {
+        "word": "meaning / purpose",
+        "phonetic": "/ˈmiː.nɪŋ/",
+        "example": "Searching for meaning and purpose drives creative human pursuits."
+      },
+      "image_id": "img_phi_sinn"
+    },
+    {
+      "id": "phi_existenz",
+      "category": "philosophy_logic",
+      "arabic": {
+        "word": "الوُجُودُ / الكَيْنُونَةُ",
+        "transliteration": "Al-Wujood",
+        "notes": "حالة التحقق والحضور في الكون"
+      },
+      "german": {
+        "article": "die",
+        "word": "Existenz",
+        "plural": "die Existenzen",
+        "gender": "feminine",
+        "example": "Die Existenzphilosophie betont die menschliche Freiheit und Verantwortung."
+      },
+      "english": {
+        "word": "existence / being",
+        "phonetic": "/ɪɡˈzɪs.təns/",
+        "example": "Existential philosophy ponders freedom, choice, and authentic being."
+      },
+      "image_id": "img_phi_existenz"
+    },
+    {
+      "id": "phi_bewusstsein",
+      "category": "philosophy_logic",
+      "arabic": {
+        "word": "الوَعْيُ / الإِدْرَاكُ الذَّاتِيُّ",
+        "transliteration": "Al-Wa'y",
+        "notes": "إدراك الكائن لذاته ومحيطه ومشاعره"
+      },
+      "german": {
+        "article": "das",
+        "word": "Bewusstsein",
+        "plural": "die Bewusstsein",
+        "gender": "neuter",
+        "example": "Das menschliche Bewusstsein ist ein faszinierendes Forschungsfeld."
+      },
+      "english": {
+        "word": "consciousness / awareness",
+        "phonetic": "/ˈkɒn.ʃəs.nəs/",
+        "example": "Self-reflective consciousness distinguishes sentient human thought."
+      },
+      "image_id": "img_phi_bewusstsein"
+    },
+    {
+      "id": "phi_meinung",
+      "category": "philosophy_logic",
+      "arabic": {
+        "word": "الرَّأْيُ / وِجْهَةُ النَّظَرِ",
+        "transliteration": "Ar-Ra'y",
+        "notes": "التقدير الذاتي غير القائم بالضرورة على يقين قطعي"
+      },
+      "german": {
+        "article": "die",
+        "word": "Meinung",
+        "plural": "die Meinungen",
+        "gender": "feminine",
+        "example": "Jeder Mensch hat das Recht auf seine eigene freie Meinung."
+      },
+      "english": {
+        "word": "opinion / standpoint",
+        "phonetic": "/əˈpɪn.jən/",
+        "example": "Respecting differing personal opinions enriches constructive debate."
+      },
+      "image_id": "img_phi_meinung"
+    },
+    {
+      "id": "phi_perspektive",
+      "category": "philosophy_logic",
+      "arabic": {
+        "word": "المَنْظُورُ / زَاوِيَةُ الرُّؤْيَةِ",
+        "transliteration": "Al-Manthoor",
+        "notes": "الزاوية التي يُنظر من خلالها إلى القضايا"
+      },
+      "german": {
+        "article": "die",
+        "word": "Perspektive",
+        "plural": "die Perspektiven",
+        "gender": "feminine",
+        "example": "Ein Wechsel der Perspektive hilft oft, Probleme besser zu verstehen."
+      },
+      "english": {
+        "word": "perspective / viewpoint",
+        "phonetic": "/pəˈspek.tɪv/",
+        "example": "Looking at issues from a broader perspective fosters empathy."
+      },
+      "image_id": "img_phi_perspektive"
+    },
+    {
+      "id": "phi_prinzip",
+      "category": "philosophy_logic",
+      "arabic": {
+        "word": "المَبْدَأُ / القَاعِدَةُ الأَسَاسِيَّةُ",
+        "transliteration": "Al-Mabda'",
+        "notes": "القانون الجوهري الحاكم للتصرف والتفكير"
+      },
+      "german": {
+        "article": "das",
+        "word": "Prinzip",
+        "plural": "die Prinzipien",
+        "gender": "neuter",
+        "example": "Er bleibt seinen ethischen Prinzipien auch in schweren Zeiten treu."
+      },
+      "english": {
+        "word": "principle / maxim",
+        "phonetic": "/ˈprɪn.sə.pəl/",
+        "example": "Acting according to universal moral principles ensures fairness."
+      },
+      "image_id": "img_phi_prinzip"
+    },
+    {
+      "id": "phi_schlussfolgerung",
+      "category": "philosophy_logic",
+      "arabic": {
+        "word": "الِاسْتِنْتَاجُ / الخُلَاصَةُ المَنْطِقِيَّةُ",
+        "transliteration": "Al-Istintaj",
+        "notes": "النتيجة المشتقة منطقيًا من مقدمات صحيحة"
+      },
+      "german": {
+        "article": "die",
+        "word": "Schlussfolgerung",
+        "plural": "die Schlussfolgerungen",
+        "gender": "feminine",
+        "example": "Die logische Schlussfolgerung ergab sich aus den vorgelegten Fakten."
+      },
+      "english": {
+        "word": "deduction / conclusion",
+        "phonetic": "/dɪˈdʌk.ʃən/",
+        "example": "His conclusion followed logically from valid empirical premises."
+      },
+      "image_id": "img_phi_schlussfolgerung"
+    },
+    {
+      "id": "phi_widerspruch",
+      "category": "philosophy_logic",
+      "arabic": {
+        "word": "التَّنَاقُضُ / التَّعَارُضُ",
+        "transliteration": "At-Tanaqud",
+        "notes": "اجتماع النقيضين الذي يبطله المنطق السليم"
+      },
+      "german": {
+        "article": "der",
+        "word": "Widerspruch",
+        "plural": "die Widersprüche",
+        "gender": "masculine",
+        "example": "Seine zweite Aussage stand im klaren Widerspruch zur ersten."
+      },
+      "english": {
+        "word": "contradiction / paradox",
+        "phonetic": "/ˌkɒn.trəˈdɪk.ʃən/",
+        "example": "A logical contradiction renders an argumentative premise invalid."
+      },
+      "image_id": "img_phi_widerspruch"
+    },
+    {
+      "id": "phi_dialog",
+      "category": "philosophy_logic",
+      "arabic": {
+        "word": "الحِوَارُ الفِكْرِيُّ",
+        "transliteration": "Al-Hiwar",
+        "notes": "تبادل الآراء البنّاء للوصول إلى الحقيقة (كحوارات سقراط)"
+      },
+      "german": {
+        "article": "der",
+        "word": "Dialog",
+        "plural": "die Dialoge",
+        "gender": "masculine",
+        "example": "Platons philosophische Dialoge behandeln Gerechtigkeit und Tugend."
+      },
+      "english": {
+        "word": "dialogue / discourse",
+        "phonetic": "/ˈdaɪ.ə.lɒɡ/",
+        "example": "Socratic dialogue examines fundamental assumptions through questions."
+      },
+      "image_id": "img_phi_dialog"
+    },
+    {
+      "id": "phi_frage",
+      "category": "philosophy_logic",
+      "arabic": {
+        "word": "التَّسَاؤُلُ الجَوْهَرِيُّ",
+        "transliteration": "At-Tasa'ul",
+        "notes": "طرح الاستفهام الوجودي المحرك للتفكير والبحث"
+      },
+      "german": {
+        "article": "die",
+        "word": "Frage",
+        "plural": "die Fragen",
+        "gender": "feminine",
+        "example": "Kants vier berühmte Fragen definieren die Aufgaben der Philosophie."
+      },
+      "english": {
+        "word": "fundamental question",
+        "phonetic": "/ˈkwes.tʃən/",
+        "example": "Philosophical questions challenge unexamined everyday conventions."
+      },
+      "image_id": "img_phi_frage"
+    },
+    {
+      "id": "phi_kritisches_denken",
+      "category": "philosophy_logic",
+      "arabic": {
+        "word": "التَّفْكِيرُ النَّقْدِيُّ",
+        "transliteration": "At-Tafkeer An-Naqdi",
+        "notes": "فحص الأدلة وتقييم الحجج بحياد وتجرد"
+      },
+      "german": {
+        "article": "das",
+        "word": "kritische Denken",
+        "plural": "die kritischen Denken",
+        "gender": "neuter",
+        "example": "Kritisches Denken schützt vor Fehlinformationen und Manipulation."
+      },
+      "english": {
+        "word": "critical thinking",
+        "phonetic": "/ˈkrɪt.ɪ.kəl ˈθɪŋ.kɪŋ/",
+        "example": "Cultivating critical thinking strengthens intellectual independence."
+      },
+      "image_id": "img_phi_kritisches_denken"
+    }
+  ]
+}
