@@ -1,0 +1,561 @@
+{
+  "category_id": "politics_law",
+  "category_name": {
+    "ar": "السياسة والقانون والمجتمع",
+    "de": "Politik, Recht & Gesellschaft",
+    "en": "Politics, Law & Society"
+  },
+  "level": "A2",
+  "concepts": [
+    {
+      "id": "pol_politik",
+      "category": "politics_law",
+      "arabic": {
+        "word": "السِّيَاسَةُ",
+        "transliteration": "As-Siyasah",
+        "notes": "علم إدارة شؤون الدولة والمجتمع"
+      },
+      "german": {
+        "article": "die",
+        "word": "Politik",
+        "plural": "die Politiken",
+        "gender": "feminine",
+        "example": "Er interessiert sich seit seiner Jugend für internationale Politik."
+      },
+      "english": {
+        "word": "politics",
+        "phonetic": "/ˈpɒl.ə.tɪks/",
+        "example": "She has been actively engaged in local politics for years."
+      },
+      "image_id": "img_pol_politik"
+    },
+    {
+      "id": "pol_regierung",
+      "category": "politics_law",
+      "arabic": {
+        "word": "الحُكُومَةُ",
+        "transliteration": "Al-Hukoomah",
+        "notes": "الهيئة التنفيذية العليا للدولة"
+      },
+      "german": {
+        "article": "die",
+        "word": "Regierung",
+        "plural": "die Regierungen",
+        "gender": "feminine",
+        "example": "Die Regierung beschließt neue Maßnahmen zur wirtschaftlichen Förderung."
+      },
+      "english": {
+        "word": "government",
+        "phonetic": "/ˈɡʌv.ən.mənt/",
+        "example": "The federal government announced new educational reforms."
+      },
+      "image_id": "img_pol_regierung"
+    },
+    {
+      "id": "pol_parlament",
+      "category": "politics_law",
+      "arabic": {
+        "word": "البَرْلَمَانُ / مَجْلِسُ النُّوَّابِ",
+        "transliteration": "Al-Barlaman",
+        "notes": "المؤسسة التشريعية المنتخبة من الشعب"
+      },
+      "german": {
+        "article": "das",
+        "word": "Parlament",
+        "plural": "die Parlamente",
+        "gender": "neuter",
+        "example": "Die Abgeordneten debattieren im Parlament über das neue Gesetz."
+      },
+      "english": {
+        "word": "parliament",
+        "phonetic": "/ˈpɑː.lɪ.mənt/",
+        "example": "Members of parliament debated the national budget today."
+      },
+      "image_id": "img_pol_parlament"
+    },
+    {
+      "id": "pol_demokratie",
+      "category": "politics_law",
+      "arabic": {
+        "word": "الدِّيمُقْرَاطِيَّةُ",
+        "transliteration": "Ad-Deemuqratiyyah",
+        "notes": "حكم الشعب بالشعب عبر سيادة القانون والتعددية"
+      },
+      "german": {
+        "article": "die",
+        "word": "Demokratie",
+        "plural": "die Demokratien",
+        "gender": "feminine",
+        "example": "Freie Meinungsäußerung ist ein tragender Pfeiler der Demokratie."
+      },
+      "english": {
+        "word": "democracy",
+        "phonetic": "/dɪˈmɒk.rə.si/",
+        "example": "Democratic participation empowers citizens across the country."
+      },
+      "image_id": "img_pol_demokratie"
+    },
+    {
+      "id": "pol_wahl",
+      "category": "politics_law",
+      "arabic": {
+        "word": "الِانْتِخَابَاتُ",
+        "transliteration": "Al-Intikhabat",
+        "notes": "عملية اختيار ممثلي الشعب الدورية"
+      },
+      "german": {
+        "article": "die",
+        "word": "Wahl",
+        "plural": "die Wahlen",
+        "gender": "feminine",
+        "example": "Am Sonntag findet die demokratische Parlamentswahl statt."
+      },
+      "english": {
+        "word": "election",
+        "phonetic": "/iˈlek.ʃən/",
+        "example": "Voter turnout at the general election was exceptionally high."
+      },
+      "image_id": "img_pol_wahl"
+    },
+    {
+      "id": "pol_abstimmung",
+      "category": "politics_law",
+      "arabic": {
+        "word": "التَّصْوِيتُ / الإِدْلَاءُ بِالصَّوْتِ",
+        "transliteration": "At-Tasweet",
+        "notes": "ممارسة حق الاختيار في صندوق الاقتراع"
+      },
+      "german": {
+        "article": "die",
+        "word": "Abstimmung",
+        "plural": "die Abstimmungen",
+        "gender": "feminine",
+        "example": "Die Bürger nehmen zahlreich an der geheimen Abstimmung teil."
+      },
+      "english": {
+        "word": "vote / ballot",
+        "phonetic": "/vəʊt/",
+        "example": "Every eligible citizen is encouraged to cast their vote."
+      },
+      "image_id": "img_pol_abstimmung"
+    },
+    {
+      "id": "pol_gesetz",
+      "category": "politics_law",
+      "arabic": {
+        "word": "القَانُونُ",
+        "transliteration": "Al-Qanoon",
+        "notes": "القاعدة التشريعية الملزمة للجميع"
+      },
+      "german": {
+        "article": "das",
+        "word": "Gesetz",
+        "plural": "die Gesetze",
+        "gender": "neuter",
+        "example": "Vor dem Gesetz sind alle Menschen vollkommen gleich."
+      },
+      "english": {
+        "word": "law",
+        "phonetic": "/lɔː/",
+        "example": "All citizens must abide by the rule of law."
+      },
+      "image_id": "img_pol_gesetz"
+    },
+    {
+      "id": "pol_verfassung",
+      "category": "politics_law",
+      "arabic": {
+        "word": "الدُّسْتُورُ / القَانُونُ الأَسَاسِيُّ",
+        "transliteration": "Ad-Dustoor",
+        "notes": "القانون الأسمى الذي يحدد شكل الدولة وحقوق مواطنيها"
+      },
+      "german": {
+        "article": "die",
+        "word": "Verfassung",
+        "plural": "die Verfassungen",
+        "gender": "feminine",
+        "example": "Das Grundgesetz ist die Verfassung der Bundesrepublik Deutschland."
+      },
+      "english": {
+        "word": "constitution",
+        "phonetic": "/ˌkɒn.stɪˈtʃuː.ʃən/",
+        "example": "The constitution guarantees fundamental individual rights."
+      },
+      "image_id": "img_pol_verfassung"
+    },
+    {
+      "id": "pol_gericht",
+      "category": "politics_law",
+      "arabic": {
+        "word": "المَحْكَمَةُ",
+        "transliteration": "Al-Mahkamah",
+        "notes": "دار القضاء وفصل النزاعات بحياد"
+      },
+      "german": {
+        "article": "das",
+        "word": "Gericht",
+        "plural": "die Gerichte",
+        "gender": "neuter",
+        "example": "Der Fall wird morgen vor dem zuständigen Gericht verhandelt."
+      },
+      "english": {
+        "word": "court of law",
+        "phonetic": "/kɔːt/",
+        "example": "The civil case was heard before the district court."
+      },
+      "image_id": "img_pol_gericht"
+    },
+    {
+      "id": "pol_richter",
+      "category": "politics_law",
+      "arabic": {
+        "word": "القَاضِي",
+        "transliteration": "Al-Qadi",
+        "notes": "المسؤول عن إصدار الأحكام القضائية النزيهة"
+      },
+      "german": {
+        "article": "der",
+        "word": "Richter",
+        "plural": "die Richter",
+        "gender": "masculine",
+        "example": "Der erfahrene Richter fällte ein faires und begründetes Urteil."
+      },
+      "english": {
+        "word": "judge",
+        "phonetic": "/dʒʌdʒ/",
+        "example": "The presiding judge examined all the forensic evidence."
+      },
+      "image_id": "img_pol_richter"
+    },
+    {
+      "id": "pol_anwalt",
+      "category": "politics_law",
+      "arabic": {
+        "word": "المُحَامِي",
+        "transliteration": "Al-Muhami",
+        "notes": "المدافع القانوني عن حقوق الأفراد أمام القضاء"
+      },
+      "german": {
+        "article": "der",
+        "word": "Anwalt",
+        "plural": "die Anwälte",
+        "gender": "masculine",
+        "example": "Der Anwalt berät seinen Mandanten in allen Rechtsfragen."
+      },
+      "english": {
+        "word": "lawyer / attorney",
+        "phonetic": "/ˈlɔɪ.ər/",
+        "example": "She consulted an experienced lawyer before signing the contract."
+      },
+      "image_id": "img_pol_anwalt"
+    },
+    {
+      "id": "pol_buerger",
+      "category": "politics_law",
+      "arabic": {
+        "word": "المُواطِنُ",
+        "transliteration": "Al-Muwatin",
+        "notes": "عضو المجتمع الذي يتمتع بحقوق ويتحمل واجبات"
+      },
+      "german": {
+        "article": "der",
+        "word": "Bürger",
+        "plural": "die Bürger",
+        "gender": "masculine",
+        "example": "Engagierte Bürger beteiligen sich aktiv an der Stadtentwicklung."
+      },
+      "english": {
+        "word": "citizen",
+        "phonetic": "/ˈsɪt.ɪ.zən/",
+        "example": "Every active citizen contributes to a thriving society."
+      },
+      "image_id": "img_pol_buerger"
+    },
+    {
+      "id": "pol_staatsbuergerschaft",
+      "category": "politics_law",
+      "arabic": {
+        "word": "الجِنْسِيَّةُ / المُواطَنَةُ",
+        "transliteration": "Al-Jinsiyyah",
+        "notes": "الرابطة القانونية والسياسية بين الفرد والدولة"
+      },
+      "german": {
+        "article": "die",
+        "word": "Staatsbürgerschaft",
+        "plural": "die Staatsbürgerschaften",
+        "gender": "feminine",
+        "example": "Nach mehreren Jahren erfolgreicher Integration erhielt er die Staatsbürgerschaft."
+      },
+      "english": {
+        "word": "citizenship / nationality",
+        "phonetic": "/ˈsɪt.ɪ.zən.ʃɪp/",
+        "example": "He proudly received his citizenship certificate today."
+      },
+      "image_id": "img_pol_staatsbuergerschaft"
+    },
+    {
+      "id": "pol_recht",
+      "category": "politics_law",
+      "arabic": {
+        "word": "الحَقُّ القَانُونِيُّ",
+        "transliteration": "Al-Haqq",
+        "notes": "الامتياز أو الحماية التي يضمنها القانون للفرد"
+      },
+      "german": {
+        "article": "das",
+        "word": "Recht",
+        "plural": "die Rechte",
+        "gender": "neuter",
+        "example": "Jedes Kind hat das fundamentale Recht auf Bildung und Schutz."
+      },
+      "english": {
+        "word": "right / legal right",
+        "phonetic": "/raɪt/",
+        "example": "Access to education is a universal human right."
+      },
+      "image_id": "img_pol_recht"
+    },
+    {
+      "id": "pol_pflicht",
+      "category": "politics_law",
+      "arabic": {
+        "word": "الوَاجِبُ المَدَنِيُّ",
+        "transliteration": "Al-Wajib",
+        "notes": "المسؤولية الأخلاقية أو القانونية تجاه المجتمع"
+      },
+      "german": {
+        "article": "die",
+        "word": "Pflicht",
+        "plural": "die Pflichten",
+        "gender": "feminine",
+        "example": "Steuern zu zahlen ist eine gesetzliche Pflicht aller Einwohner."
+      },
+      "english": {
+        "word": "duty / civic obligation",
+        "phonetic": "/ˈdʒuː.ti/",
+        "example": "Voting is both a cherished right and a civic duty."
+      },
+      "image_id": "img_pol_pflicht"
+    },
+    {
+      "id": "pol_freiheit",
+      "category": "politics_law",
+      "arabic": {
+        "word": "الحُرِّيَّةُ",
+        "transliteration": "Al-Hurriyyah",
+        "notes": "القدرة على التفكير والتعبير والتصرف بوعي ومسؤولية"
+      },
+      "german": {
+        "article": "die",
+        "word": "Freiheit",
+        "plural": "die Freiheiten",
+        "gender": "feminine",
+        "example": "Freiheit und Gerechtigkeit sind die höchsten Werte des Zusammenlebens."
+      },
+      "english": {
+        "word": "freedom / liberty",
+        "phonetic": "/ˈfriː.dəm/",
+        "example": "Freedom of thought is protected by international charters."
+      },
+      "image_id": "img_pol_freiheit"
+    },
+    {
+      "id": "pol_gerechtigkeit",
+      "category": "politics_law",
+      "arabic": {
+        "word": "العَدَالَةُ / الإِنْصَافُ",
+        "transliteration": "Al-'Adalah",
+        "notes": "إعطاء كل ذي حق حقه دون تمييز"
+      },
+      "german": {
+        "article": "die",
+        "word": "Gerechtigkeit",
+        "plural": "die Gerechtigkeiten",
+        "gender": "feminine",
+        "example": "Soziale Gerechtigkeit stärkt den Frieden innerhalb der Gesellschaft."
+      },
+      "english": {
+        "word": "justice / fairness",
+        "phonetic": "/ˈdʒʌs.tɪs/",
+        "example": "True social justice ensures equal opportunities for everyone."
+      },
+      "image_id": "img_pol_gerechtigkeit"
+    },
+    {
+      "id": "pol_frieden",
+      "category": "politics_law",
+      "arabic": {
+        "word": "السَّلَامُ / الطُّمَأْنِينَةُ",
+        "transliteration": "As-Salam",
+        "notes": "حالة الأمن والوئام وغياب النزاعات المسلحة"
+      },
+      "german": {
+        "article": "der",
+        "word": "Frieden",
+        "plural": "die Frieden",
+        "gender": "masculine",
+        "example": "Diplomatie ist der beste Weg, um dauerhaften Frieden zu sichern."
+      },
+      "english": {
+        "word": "peace",
+        "phonetic": "/piːs/",
+        "example": "Diplomatic dialogue remains essential to lasting global peace."
+      },
+      "image_id": "img_pol_frieden"
+    },
+    {
+      "id": "pol_praesident",
+      "category": "politics_law",
+      "arabic": {
+        "word": "رَئِيسُ الدَّوْلَةِ",
+        "transliteration": "Ra'ees Ad-Dawlah",
+        "notes": "الرأس الدستوري الأعلى للجمهورية"
+      },
+      "german": {
+        "article": "der",
+        "word": "Präsident",
+        "plural": "die Präsidenten",
+        "gender": "masculine (n-Deklination)",
+        "example": "Der Bundespräsident vertritt das Land völkerrechtlich."
+      },
+      "english": {
+        "word": "president",
+        "phonetic": "/ˈprez.ɪ.dənt/",
+        "example": "The president addressed the nation in a live speech."
+      },
+      "image_id": "img_pol_praesident"
+    },
+    {
+      "id": "pol_kanzler",
+      "category": "politics_law",
+      "arabic": {
+        "word": "المُسْتَشَارُ (رَئِيسُ الحُكُومَةِ)",
+        "transliteration": "Al-Mustashar",
+        "notes": "رئيس مجلس الوزراء في ألمانيا والنمسا"
+      },
+      "german": {
+        "article": "der",
+        "word": "Kanzler",
+        "plural": "die Kanzler",
+        "gender": "masculine",
+        "example": "Der Bundeskanzler bestimmt die allgemeinen Richtlinien der Politik."
+      },
+      "english": {
+        "word": "chancellor / prime minister",
+        "phonetic": "/ˈtʃɑːn.səl.ər/",
+        "example": "The federal chancellor met with fellow European leaders."
+      },
+      "image_id": "img_pol_kanzler"
+    },
+    {
+      "id": "pol_staat",
+      "category": "politics_law",
+      "arabic": {
+        "word": "الدَّوْلَةُ",
+        "transliteration": "Ad-Dawlah",
+        "notes": "الكيان السياسي والقانوني ذو السيادة على إقليم وشعب"
+      },
+      "german": {
+        "article": "der",
+        "word": "Staat",
+        "plural": "die Staaten",
+        "gender": "masculine",
+        "example": "Der Staat schützt die Sicherheit und das Wohl seiner Bürger."
+      },
+      "english": {
+        "word": "state / nation",
+        "phonetic": "/steɪt/",
+        "example": "The modern sovereign state provides essential infrastructure."
+      },
+      "image_id": "img_pol_staat"
+    },
+    {
+      "id": "pol_gesellschaft",
+      "category": "politics_law",
+      "arabic": {
+        "word": "المُجْتَمَعُ",
+        "transliteration": "Al-Mujtama'",
+        "notes": "مجموع الأفراد المترابطين بنظام وعلاقات مشتركة"
+      },
+      "german": {
+        "article": "die",
+        "word": "Gesellschaft",
+        "plural": "die Gesellschaften",
+        "gender": "feminine",
+        "example": "Eine offene Gesellschaft zeichnet sich durch Toleranz und Respekt aus."
+      },
+      "english": {
+        "word": "society",
+        "phonetic": "/səˈsaɪ.ə.ti/",
+        "example": "A cohesive society values cultural inclusion and cooperation."
+      },
+      "image_id": "img_pol_gesellschaft"
+    },
+    {
+      "id": "pol_menschenrechte",
+      "category": "politics_law",
+      "arabic": {
+        "word": "حُقُوقُ الإِنْسَانِ",
+        "transliteration": "Huqooq Al-Insan",
+        "notes": "الحقوق الطبيعية الأصيلة لكل إنسان في العالم"
+      },
+      "german": {
+        "article": "die",
+        "word": "Menschenrechte",
+        "plural": "die Menschenrechte",
+        "gender": "plural",
+        "example": "Die Achtung der Menschenrechte ist für alle Staaten verbindlich."
+      },
+      "english": {
+        "word": "human rights",
+        "phonetic": "/ˌhjuː.mən ˈraɪts/",
+        "example": "Universal human rights safeguard dignity across the globe."
+      },
+      "image_id": "img_pol_menschenrechte"
+    },
+    {
+      "id": "pol_vertrag",
+      "category": "politics_law",
+      "arabic": {
+        "word": "المُعَاهَدَةُ / الِاتِّفَاقِيَّةُ الدَّوْلِيَّةُ",
+        "transliteration": "Al-Mu'ahadah",
+        "notes": "اتفاق رسمي ملزم بين دولتين أو أكثر"
+      },
+      "german": {
+        "article": "der",
+        "word": "Vertrag",
+        "plural": "die Verträge",
+        "gender": "masculine",
+        "example": "Die Staaten unterzeichneten einen historischen internationalen Vertrag."
+      },
+      "english": {
+        "word": "treaty / international agreement",
+        "phonetic": "/ˈtriː.ti/",
+        "example": "The bilateral trade treaty was signed by both ministers."
+      },
+      "image_id": "img_pol_vertrag"
+    },
+    {
+      "id": "pol_solidaritaet",
+      "category": "politics_law",
+      "arabic": {
+        "word": "التَّضَامُنُ / التَّكَافُلُ",
+        "transliteration": "At-Tadamun",
+        "notes": "التعاون المتبادل ونصرة الآخرين وقت الشدائد"
+      },
+      "german": {
+        "article": "die",
+        "word": "Solidarität",
+        "plural": "die Solidaritäten",
+        "gender": "feminine",
+        "example": "In Krisenzeiten beweisen die Menschen große gegenseitige Solidarität."
+      },
+      "english": {
+        "word": "solidarity",
+        "phonetic": "/ˌsɒl.ɪˈdær.ə.ti/",
+        "example": "International solidarity is vital when responding to natural crises."
+      },
+      "image_id": "img_pol_solidaritaet"
+    }
+  ]
+}
