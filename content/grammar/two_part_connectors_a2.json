@@ -1,0 +1,221 @@
+{
+  "engine_id": "two_part_connectors_a2",
+  "title": {
+    "ar": "الروابط الثنائية والمزدوجة في اللغة الألمانية",
+    "de": "Zweiteilige Konnektoren (Doppelkonnektoren)",
+    "en": "Two-Part German Connectors"
+  },
+  "level": "A2-B1",
+  "connectors": [
+    {
+      "id": "sowohl_als_auch",
+      "name": "sowohl ... als auch",
+      "meaning": {
+        "ar": "كذلك / ليس فقط بل وأيضاً (عطف وتكافؤ)",
+        "de": "kopulativ (sowohl A als auch B)",
+        "en": "both ... and / as well as"
+      },
+      "icon": "con2_sowohl",
+      "rule": "Verbindet gleichwertige Satzglieder oder Hauptsätze ohne Positionsänderung.",
+      "examples": [
+        {
+          "de": "Er spricht sowohl Deutsch als auch Arabisch fließend.",
+          "ar": "هُوَ يَتَحَدَّثُ كُلًّا مِنَ الأَلْمَانِيَّةِ وَالعَرَبِيَّةِ بِطَلَاقَةٍ.",
+          "en": "He speaks both German and Arabic fluently."
+        },
+        {
+          "de": "Wir bieten sowohl Online-Kurse als auch Präsenzunterricht an.",
+          "ar": "نَحْنُ نُقَدِّمُ دَوْرَاتٍ عَبْرَ الإِنْتَرْنِتْ وَكَذَلِكَ دُرُوسًا حُضُورِيَّةً.",
+          "en": "We offer both online courses and in-person classes."
+        }
+      ]
+    },
+    {
+      "id": "nicht_nur_sondern_auch",
+      "name": "nicht nur ... sondern auch",
+      "meaning": {
+        "ar": "ليس فقط ... بل وأيضاً (توكيد وتصعيد)",
+        "de": "steigernd / betonend",
+        "en": "not only ... but also"
+      },
+      "icon": "con2_nicht_nur",
+      "rule": "Betont die zweite Information nach 'sondern auch' besonders stark.",
+      "examples": [
+        {
+          "de": "Sie lernt nicht nur Grammatik, sondern auch viele Vokabeln.",
+          "ar": "هِيَ لَا تَتَعَلَّمُ القَوَاعِدَ فَحَسْبُ، بَلْ أَيْضًا الكَثِيرَ مِنَ المُفْرَدَاتِ.",
+          "en": "She learns not only grammar, but also many vocabulary words."
+        },
+        {
+          "de": "Er ist nicht nur klug, sondern auch sehr hilfsbereit.",
+          "ar": "هُوَ لَيْسَ ذَكِيًّا فَحَسْبُ، بَلْ مُتَعَاوِنٌ جِدًّا أَيْضًا.",
+          "en": "He is not only smart, but also very helpful."
+        }
+      ]
+    },
+    {
+      "id": "weder_noch",
+      "name": "weder ... noch",
+      "meaning": {
+        "ar": "لا ... ولا (نفي مزدوج)",
+        "de": "doppelte Verneinung (weder A noch B)",
+        "en": "neither ... nor"
+      },
+      "icon": "con2_weder",
+      "rule": "Verneint zwei Elemente gleichzeitig. Braucht kein zusätzliches 'nicht' oder 'kein'.",
+      "examples": [
+        {
+          "de": "Ich trinke weder Kaffee noch schwarzen Tee.",
+          "ar": "أَنَا لَا أَشْرَبُ القَهْوَةَ وَلَا الشَّايَ الأَسْوَدَ.",
+          "en": "I drink neither coffee nor black tea."
+        },
+        {
+          "de": "Er hat weder Zeit noch Lust auf eine lange Diskussion.",
+          "ar": "لَيْسَ لَدَيْهِ وَقْتٌ وَلَا رَغْبَةٌ فِي نِقَاشٍ طَوِيلٍ.",
+          "en": "He has neither time nor desire for a long discussion."
+        }
+      ]
+    },
+    {
+      "id": "entweder_oder",
+      "name": "entweder ... oder",
+      "meaning": {
+        "ar": "إما ... أو (تخيير وبدائل)",
+        "de": "alternativ (entweder A oder B)",
+        "en": "either ... or"
+      },
+      "icon": "con2_entweder",
+      "rule": "Zeigt zwei alternative Möglichkeiten an, von denen meist nur eine gewählt wird.",
+      "examples": [
+        {
+          "de": "Wir fahren im Sommer entweder nach Deutschland oder nach Spanien.",
+          "ar": "سَنُسَافِرُ فِي الصَّيْفِ إِمَّا إِلَى أَلْمَانِيَا أَوْ إِلَى إِسْبَانِيَا.",
+          "en": "In summer we will travel either to Germany or to Spain."
+        },
+        {
+          "de": "Entweder du lernst heute fleißig, oder du wiederholst die Prüfung.",
+          "ar": "إِمَّا أَنْ تَدْرُسَ بِاجْتِهَادٍ اليَوْمَ، أَوْ سَتُعِيدُ الِامْتِحَانَ.",
+          "en": "Either you study hard today, or you retake the exam."
+        }
+      ]
+    },
+    {
+      "id": "zwar_aber",
+      "name": "zwar ... aber",
+      "meaning": {
+        "ar": "صحيح أن ... ولكن (استدراك ومقارنة)",
+        "de": "konzessiv (Einschränkung)",
+        "en": "indeed / although ... but"
+      },
+      "icon": "con2_zwar_aber",
+      "rule": "'Zwar' leitet eine Einschränkung ein, 'aber' führt das Gegenargument an.",
+      "examples": [
+        {
+          "de": "Die deutsche Sprache ist zwar schwer, aber sehr logisch.",
+          "ar": "اللُّغَةُ الأَلْمَانِيَّةُ صَعْبَةٌ حَقًّا، لَكِنَّهَا مَنْطِقِيَّةٌ جِدًّا.",
+          "en": "The German language is indeed difficult, but very logical."
+        },
+        {
+          "de": "Er hat zwar wenig Freizeit, aber er treibt täglich Sport.",
+          "ar": "صَحِيحٌ أَنَّ لَدَيْهِ وَقْتَ فَرَاغٍ قَلِيلًا، لَكِنَّهُ يُمَارِسُ الرِّيَاضَةَ يَوْمِيًّا.",
+          "en": "He indeed has little free time, but he exercises daily."
+        }
+      ]
+    },
+    {
+      "id": "einerseits_andererseits",
+      "name": "einerseits ... andererseits",
+      "meaning": {
+        "ar": "من ناحية ... ومن ناحية أخرى (تناظر وموازنة)",
+        "de": "kontrastiv / abwägend",
+        "en": "on the one hand ... on the other hand"
+      },
+      "icon": "con2_einerseits",
+      "rule": "Nach 'einerseits' und 'andererseits' steht das finite Verb direkt auf Position 2, wenn sie am Satzanfang stehen.",
+      "examples": [
+        {
+          "de": "Einerseits liebt er seine Heimat, andererseits möchte er im Ausland studieren.",
+          "ar": "مِنْ نَاحِيَةٍ هُوَ يُحِبُّ وَطَنَهُ، وَمِنْ نَاحِيَةٍ أُخْرَى يُرِيدُ الدِّرَاسَةَ فِي الخَارِجِ.",
+          "en": "On the one hand he loves his homeland, on the other hand he wants to study abroad."
+        },
+        {
+          "de": "Einerseits ist die Miete teuer, andererseits liegt die Wohnung zentral.",
+          "ar": "مِنْ جِهَةٍ الإِيجَارُ مُرْتَفِعٌ، وَمِنْ جِهَةٍ أُخْرَى الشَّقَّةُ فِي مَوْقِعٍ مَرْكَزِيٍّ.",
+          "en": "On the one hand the rent is expensive, on the other hand the apartment is centrally located."
+        }
+      ]
+    }
+  ],
+  "practice_templates": [
+    {
+      "id": "tpl_con2_01",
+      "connector": "sowohl_als_auch",
+      "german": "Ich lerne sowohl Englisch als auch Deutsch.",
+      "arabic": "أَنَا أَتَعَلَّمُ الإِنْجِلِيزِيَّةَ وَكَذَلِكَ الأَلْمَانِيَّةَ.",
+      "english": "I am learning both English and German."
+    },
+    {
+      "id": "tpl_con2_02",
+      "connector": "nicht_nur_sondern_auch",
+      "german": "Das Buch ist nicht nur interessant, sondern auch lehrreich.",
+      "arabic": "الكِتَابُ لَيْسَ مُمَتِّعًا فَحَسْبُ، بَلْ أَيْضًا مُفِيدٌ تَعْلِيمِيًّا.",
+      "english": "The book is not only interesting, but also educational."
+    },
+    {
+      "id": "tpl_con2_03",
+      "connector": "weder_noch",
+      "german": "Er isst weder Fleisch noch Fisch.",
+      "arabic": "هُوَ لَا يَأْكُلُ اللَّحْمَ وَلَا السَّمَكَ.",
+      "english": "He eats neither meat nor fish."
+    },
+    {
+      "id": "tpl_con2_04",
+      "connector": "entweder_oder",
+      "german": "Wir buchen entweder den Flug oder den Zug.",
+      "arabic": "سَنَحْجِزُ إِمَّا رِحْلَةَ الطَّيَرَانِ أَوْ القِطَارَ.",
+      "english": "We will book either the flight or the train."
+    },
+    {
+      "id": "tpl_con2_05",
+      "connector": "zwar_aber",
+      "german": "Das Auto ist zwar alt, aber sehr zuverlässig.",
+      "arabic": "السَّيَّارَةُ قَدِيمَةٌ حَقًّا، لَكِنَّهَا مَوْثُوقَةٌ جِدًّا.",
+      "english": "The car is indeed old, but very reliable."
+    },
+    {
+      "id": "tpl_con2_06",
+      "connector": "einerseits_andererseits",
+      "german": "Einerseits sparen wir Geld, andererseits verlieren wir Zeit.",
+      "arabic": "مِنْ نَاحِيَةٍ نُوَفِّرُ المَالَ، وَمِنْ نَاحِيَةٍ أُخْرَى نَخْسَرُ الوَقْتَ.",
+      "english": "On the one hand we save money, on the other hand we lose time."
+    },
+    {
+      "id": "tpl_con2_07",
+      "connector": "sowohl_als_auch",
+      "german": "Sie schätzt sowohl Kunst als auch Wissenschaft.",
+      "arabic": "هِيَ تُقَدِّرُ الفَنَّ كَمَا تُقَدِّرُ العِلْمَ أَيْضًا.",
+      "english": "She appreciates both art and science."
+    },
+    {
+      "id": "tpl_con2_08",
+      "connector": "nicht_nur_sondern_auch",
+      "german": "Wir brauchen nicht nur Mut, sondern auch Geduld.",
+      "arabic": "نَحْنُ لَا نَحْتَاجُ إِلَى الشَّجَاعَةِ فَحَسْبُ، بَلْ إِلَى الصَّبْرِ أَيْضًا.",
+      "english": "We need not only courage, but also patience."
+    },
+    {
+      "id": "tpl_con2_09",
+      "connector": "weder_noch",
+      "german": "Sie hat weder angerufen noch eine Nachricht geschickt.",
+      "arabic": "هِيَ لَمْ تَتَّصِلْ هَاتِفِيًّا وَلَمْ تُرْسِلْ رِسَالَةً أَيْضًا.",
+      "english": "She neither called nor sent a message."
+    },
+    {
+      "id": "tpl_con2_10",
+      "connector": "zwar_aber",
+      "german": "Er wohnt zwar in Berlin, aber arbeitet in Potsdam.",
+      "arabic": "صَحِيحٌ أَنَّهُ يَسْكُنُ فِي بَرْلِينَ، لَكِنَّهُ يَعْمَلُ فِي بُوتْسْدَام.",
+      "english": "He indeed lives in Berlin, but works in Potsdam."
+    }
+  ]
+}
