@@ -1,0 +1,150 @@
+{
+  "engine_name": "temporal_prepositions_engine",
+  "level": "A2",
+  "title": {
+    "ar": "محرك حروف الجر والروابط الزمنية المتقدمة (Temporale Präpositionen)",
+    "de": "Temporale Präpositionen und Zeitangaben im Deutschen",
+    "en": "German Temporal Prepositions & Time Connectors Engine"
+  },
+  "grammar_rules": {
+    "dativ_prepositions": [
+      {
+        "prep": "vor",
+        "meaning_ar": "قَبْلَ (نقطة زمنية) / مُنْذُ (مدة ماضية منتهية)",
+        "example": "vor dem Essen / vor einem Jahr"
+      },
+      {
+        "prep": "nach",
+        "meaning_ar": "بَعْدَ (حدث أو وقت منتهٍ)",
+        "example": "nach der Arbeit / nach dem Unterricht"
+      },
+      {
+        "prep": "seit",
+        "meaning_ar": "مُنْذُ (حدث مستمر حتى اللحظة مع فعل مضارع)",
+        "example": "seit zwei Monaten / seit einem Jahr"
+      },
+      {
+        "prep": "ab",
+        "meaning_ar": "بَدْءًا مِنْ / اعْتِبَارًا مِنْ",
+        "example": "ab nächster Woche / ab morgen"
+      },
+      {
+        "prep": "bei",
+        "meaning_ar": "أَثْنَاءَ / عِنْدَ (تزامن فوري)",
+        "example": "beim Frühstück / beim Sport"
+      },
+      {
+        "prep": "zwischen",
+        "meaning_ar": "بَيْنَ (وقتين أو تاريخين)",
+        "example": "zwischen 12 und 14 Uhr"
+      }
+    ],
+    "akkusativ_prepositions": [
+      {
+        "prep": "bis",
+        "meaning_ar": "حَتَّى / إِلَى غَايَةِ",
+        "example": "bis Freitag / bis morgen"
+      },
+      {
+        "prep": "für",
+        "meaning_ar": "لِمُدَّةِ (فترة محددة)",
+        "example": "für zwei Monate / für eine Woche"
+      }
+    ],
+    "genitiv_prepositions": [
+      {
+        "prep": "während",
+        "meaning_ar": "خِلَالَ / أَثْنَاءَ",
+        "example": "während der Ferien / während des Tages"
+      },
+      {
+        "prep": "innerhalb",
+        "meaning_ar": "فِي غُضُونِ / خِلَالَ مَدَى أَقْصَاهُ",
+        "example": "innerhalb einer Woche"
+      }
+    ],
+    "core_distinctions": "تأخذ seit دائمًا صيغة المضارع لأن الحدث لم ينتهِ، بينما تدل vor على نقطة زمنية منتهية في الماضي."
+  },
+  "templates": [
+    {
+      "id": "tmp_vor",
+      "preposition": "vor (+ Dativ)",
+      "german": "Vor dem Frühstück gehe ich eine halbe Stunde im Park joggen.",
+      "arabic": "قَبْلَ الإِفْطَارِ أَذْهَبُ لِلرَّكْضِ نِصْفَ سَاعَةٍ فِي الحَدِيقَةِ.",
+      "english": "Before breakfast, I go jogging for half an hour in the park.",
+      "image_id": "img_tmp_vor"
+    },
+    {
+      "id": "tmp_nach",
+      "preposition": "nach (+ Dativ)",
+      "german": "Nach der anstrengenden Arbeit treffe ich mich gerne mit meinen Freunden.",
+      "arabic": "بَعْدَ العَمَلِ الشَّاقِّ، يَسُرُّنِي أَنْ أَلْتَقِيَ بِأَصْدِقَائِي.",
+      "english": "After exhausting work, I enjoy meeting up with my friends.",
+      "image_id": "img_tmp_nach"
+    },
+    {
+      "id": "tmp_seit",
+      "preposition": "seit (+ Dativ)",
+      "german": "Ich lerne seit sechs Monaten intensiv und mit Freude Deutsch.",
+      "arabic": "أَتَعَلَّمُ اللُّغَةَ الأَلْمَانِيَّةَ بِكَثَافَةٍ وَشَغَفٍ مُنْذُ سِتَّةِ أَشْهُرٍ.",
+      "english": "I have been learning German intensively and with passion for six months.",
+      "image_id": "img_tmp_seit"
+    },
+    {
+      "id": "tmp_waehrend",
+      "preposition": "während (+ Genitiv)",
+      "german": "Während der Sommerferien reisen viele Familien mit Kindern ans Meer.",
+      "arabic": "خِلَالَ العُطْلَةِ الصَّيْفِيَّةِ، تُسَافِرُ كَثِيرٌ مِنَ العَائِلَاتِ مَعَ أَطْفَالِهَا إِلَى شَاطِئِ البَحْرِ.",
+      "english": "During the summer vacation, many families with children travel to the seaside.",
+      "image_id": "img_tmp_waehrend"
+    },
+    {
+      "id": "tmp_ab",
+      "preposition": "ab (+ Dativ)",
+      "german": "Ab nächster Woche beginnt der neue fortgeschrittene Sprachkurs.",
+      "arabic": "اعْتِبَارًا مِنَ الأُسْبُوعِ القَادِمِ، سَيَبْدَأُ كُورْسُ اللُّغَةِ المُتَقَدِّمُ الجَدِيدُ.",
+      "english": "Starting next week, the new advanced language course commences.",
+      "image_id": "img_tmp_ab"
+    },
+    {
+      "id": "tmp_bis",
+      "preposition": "bis (+ Akkusativ)",
+      "german": "Wir müssen das wichtige Forschungsprojekt bis Freitag abschließen.",
+      "arabic": "يَتَعَيَّنُ عَلَيْنَا إِنْهَاءُ مَشْرُوعِ البَحْثِ الهَامِّ حَتَّى يَوْمِ الجُمُعَةِ.",
+      "english": "We must conclude the important research project by Friday.",
+      "image_id": "img_tmp_bis"
+    },
+    {
+      "id": "tmp_fuer",
+      "preposition": "für (+ Akkusativ)",
+      "german": "Sie bleibt für zwei Monate als Gastwissenschaftlerin in Berlin.",
+      "arabic": "سَتَمْكُثُ لِمُدَّةِ شَهْرَيْنِ كَبَاحِثَةٍ زَائِرَةٍ فِي بَرْلِينَ.",
+      "english": "She is staying in Berlin for two months as a visiting scholar.",
+      "image_id": "img_tmp_fuer"
+    },
+    {
+      "id": "tmp_zwischen",
+      "preposition": "zwischen (+ Dativ)",
+      "german": "Die Arztpraxis ist zwischen zwölf und vierzehn Uhr wegen Mittagspause geschlossen.",
+      "arabic": "عِيَادَةُ الطَّبِيبِ مُغْلَقَةٌ بَيْنَ السَّاعَةِ الثَّانِيَةَ عَشْرَةَ وَالثَّانِيَةِ ظُهْرًا بِسَبَبِ اسْتِرَاحَةِ الغَدَاءِ.",
+      "english": "The medical clinic is closed between twelve and two o'clock for lunch break.",
+      "image_id": "img_tmp_zwischen"
+    },
+    {
+      "id": "tmp_bei",
+      "preposition": "bei / beim (+ Dativ)",
+      "german": "Beim gemeinsamen Abendessen sprechen wir über die schönsten Erlebnisse des Tages.",
+      "arabic": "أَثْنَاءَ تَنَاوُلِ طَعَامِ العَشَاءِ مَعًا، نَتَحَدَّثُ عَنْ أَجْمَلِ لَحَظَاتِ اليَوْمِ.",
+      "english": "Over dinner together, we discuss the day's brightest moments.",
+      "image_id": "img_tmp_bei"
+    },
+    {
+      "id": "tmp_innerhalb",
+      "preposition": "innerhalb (+ Genitiv)",
+      "german": "Bitte überweisen Sie den ausstehenden Rechnungsbetrag innerhalb einer Woche.",
+      "arabic": "يُرْجَى التَّكَرُّمُ بِتَحْوِيلِ مَبْلَغِ الفَاتُورَةِ المُسْتَحَقِّ فِي غُضُونِ أُسْبُوعٍ وَاحِدٍ.",
+      "english": "Please transfer the outstanding invoice amount within one week.",
+      "image_id": "img_tmp_innerhalb"
+    }
+  ]
+}
