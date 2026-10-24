@@ -1,0 +1,561 @@
+{
+  "category_id": "psychology_behavior",
+  "category_name": {
+    "ar": "علم النفس والسلوك الإنساني",
+    "de": "Psychologie, Verhalten & Gewohnheiten",
+    "en": "Psychology, Behavior & Daily Habits"
+  },
+  "level": "A2",
+  "concepts": [
+    {
+      "id": "psy_psychologie",
+      "category": "psychology_behavior",
+      "arabic": {
+        "word": "عِلْمُ النَّفْسِ",
+        "transliteration": "Ilm An-Nafs",
+        "notes": "دراسة العمليات العقلية والسلوك البشري"
+      },
+      "german": {
+        "article": "die",
+        "word": "Psychologie",
+        "plural": "die Psychologien",
+        "gender": "feminine",
+        "example": "Die angewandte Psychologie hilft Menschen, Krisen zu bewältigen."
+      },
+      "english": {
+        "word": "psychology",
+        "phonetic": "/saɪˈkɒl.ə.dʒi/",
+        "example": "Modern psychology investigates cognitive processes and emotional well-being."
+      },
+      "image_id": "img_psy_psychologie"
+    },
+    {
+      "id": "psy_verhalten",
+      "category": "psychology_behavior",
+      "arabic": {
+        "word": "السُّلُوكُ / التَّصَرُّفُ",
+        "transliteration": "As-Sulook",
+        "notes": "مجموع الأفعال والاستجابات الصادرة عن الفرد"
+      },
+      "german": {
+        "article": "das",
+        "word": "Verhalten",
+        "plural": "die Verhalten",
+        "gender": "neuter",
+        "example": "Positives soziales Verhalten stärkt das Miteinander in der Gruppe."
+      },
+      "english": {
+        "word": "behavior / conduct",
+        "phonetic": "/bɪˈheɪ.vjər/",
+        "example": "Prosocial behavior promotes mutual trust within the community."
+      },
+      "image_id": "img_psy_verhalten"
+    },
+    {
+      "id": "psy_gewohnheit",
+      "category": "psychology_behavior",
+      "arabic": {
+        "word": "العَادَةُ اليَوْمِيَّةُ",
+        "transliteration": "Al-'Adah",
+        "notes": "النمط السلوكي المكتسب المتكرر تلقائيًا"
+      },
+      "german": {
+        "article": "die",
+        "word": "Gewohnheit",
+        "plural": "die Gewohnheiten",
+        "gender": "feminine",
+        "example": "Gute Gewohnheiten am Morgen erleichtern einen erfolgreichen Tag."
+      },
+      "english": {
+        "word": "habit / routine",
+        "phonetic": "/ˈhæb.ɪt/",
+        "example": "Building healthy daily habits requires consistent patience."
+      },
+      "image_id": "img_psy_gewohnheit"
+    },
+    {
+      "id": "psy_persoenlichkeit",
+      "category": "psychology_behavior",
+      "arabic": {
+        "word": "الشَّخْصِيَّةُ",
+        "transliteration": "Ash-Shakhsiyyah",
+        "notes": "مجموع السمات النفسية والفكرية المميزة للفرد"
+      },
+      "german": {
+        "article": "die",
+        "word": "Persönlichkeit",
+        "plural": "die Persönlichkeiten",
+        "gender": "feminine",
+        "example": "Jeder Mensch besitzt eine einzigartige und vielschichtige Persönlichkeit."
+      },
+      "english": {
+        "word": "personality",
+        "phonetic": "/ˌpɜː.sənˈæl.ə.ti/",
+        "example": "Childhood experiences profoundly shape an individual's adult personality."
+      },
+      "image_id": "img_psy_persoenlichkeit"
+    },
+    {
+      "id": "psy_charakter",
+      "category": "psychology_behavior",
+      "arabic": {
+        "word": "الطَّبْعُ / المِزَاجُ الخُلُقِيُّ",
+        "transliteration": "At-Tab' / Al-Khuluq",
+        "notes": "البنية الأخلاقية والوجدانية الأصيلة للإنسان"
+      },
+      "german": {
+        "article": "der",
+        "word": "Charakter",
+        "plural": "die Charaktere",
+        "gender": "masculine",
+        "example": "Ein ehrlicher und standhafter Charakter zeigt sich in schwierigen Zeiten."
+      },
+      "english": {
+        "word": "character / temperament",
+        "phonetic": "/ˈkær.ək.tər/",
+        "example": "True moral character reveals itself during challenging moments."
+      },
+      "image_id": "img_psy_charakter"
+    },
+    {
+      "id": "psy_emotion",
+      "category": "psychology_behavior",
+      "arabic": {
+        "word": "العَاطِفَةُ / الانْفِعَالُ النَّفْسِيُّ",
+        "transliteration": "Al-'Aatifah",
+        "notes": "الحالة الوجدانية كالفرح أو الحزن أو الغضب"
+      },
+      "german": {
+        "article": "die",
+        "word": "Emotion",
+        "plural": "die Emotionen",
+        "gender": "feminine",
+        "example": "Musik vermag starke Emotionen im Menschen hervorzurufen."
+      },
+      "english": {
+        "word": "emotion / feeling",
+        "phonetic": "/ɪˈməʊ.ʃən/",
+        "example": "Emotional intelligence involves recognizing and regulating intense feelings."
+      },
+      "image_id": "img_psy_emotion"
+    },
+    {
+      "id": "psy_angst",
+      "category": "psychology_behavior",
+      "arabic": {
+        "word": "الخَوْفُ / القَلَقُ",
+        "transliteration": "Al-Khawf",
+        "notes": "الشعور الفطري بالحذر تجاه الخطر"
+      },
+      "german": {
+        "article": "die",
+        "word": "Angst",
+        "plural": "die Ängste",
+        "gender": "feminine",
+        "example": "Mut bedeutet nicht, keine Angst zu haben, sondern sie zu überwinden."
+      },
+      "english": {
+        "word": "fear / anxiety",
+        "phonetic": "/fɪər/",
+        "example": "Courage is not the absence of fear, but the triumph over it."
+      },
+      "image_id": "img_psy_angst"
+    },
+    {
+      "id": "psy_mut",
+      "category": "psychology_behavior",
+      "arabic": {
+        "word": "الشَّجَاعَةُ / الإِقْدَامُ",
+        "transliteration": "Ash-Shaja'ah",
+        "notes": "القدرة النفسية على مواجهة التحديات والصعاب"
+      },
+      "german": {
+        "article": "der",
+        "word": "Mut",
+        "plural": "die Mute",
+        "gender": "masculine",
+        "example": "Es erfordert Mut, eine neue Sprache im Ausland zu sprechen."
+      },
+      "english": {
+        "word": "courage / bravery",
+        "phonetic": "/ˈkʌr.ɪdʒ/",
+        "example": "Taking the first step into the unknown requires genuine courage."
+      },
+      "image_id": "img_psy_mut"
+    },
+    {
+      "id": "psy_selbstvertrauen",
+      "category": "psychology_behavior",
+      "arabic": {
+        "word": "الثِّقَةُ بِالنَّفْسِ",
+        "transliteration": "Ath-Thiqah Bin-Nafs",
+        "notes": "الإيمان الداخلي بقدرة الذات على النجاح والإنجاز"
+      },
+      "german": {
+        "article": "das",
+        "word": "Selbstvertrauen",
+        "plural": "die Selbstvertrauen",
+        "gender": "neuter",
+        "example": "Kleine tägliche Erfolge stärken das Selbstvertrauen nachhaltig."
+      },
+      "english": {
+        "word": "self-confidence",
+        "phonetic": "/ˌselfˈkɒn.fɪ.dəns/",
+        "example": "Celebrating incremental achievements builds lasting self-confidence."
+      },
+      "image_id": "img_psy_selbstvertrauen"
+    },
+    {
+      "id": "psy_empathie",
+      "category": "psychology_behavior",
+      "arabic": {
+        "word": "التَّعَاطُفُ الوِجْدَانِيُّ",
+        "transliteration": "At-Ta'atuf",
+        "notes": "القدرة على وضع النفس موضع الآخر ومشاركتهم مشاعرهم"
+      },
+      "german": {
+        "article": "die",
+        "word": "Empathie",
+        "plural": "die Empathien",
+        "gender": "feminine",
+        "example": "Empathie ist der Schlüssel zu harmonischen menschlichen Beziehungen."
+      },
+      "english": {
+        "word": "empathy / compassion",
+        "phonetic": "/ˈem.pə.θi/",
+        "example": "Active listening and heartfelt empathy bridge cultural divides."
+      },
+      "image_id": "img_psy_empathie"
+    },
+    {
+      "id": "psy_geduld",
+      "category": "psychology_behavior",
+      "arabic": {
+        "word": "الصَّبْرُ / الأَنَاةُ",
+        "transliteration": "As-Sabr",
+        "notes": "التحمل الهادئ والانتظار دون تذمر أو يأس"
+      },
+      "german": {
+        "article": "die",
+        "word": "Geduld",
+        "plural": "die Gedulden",
+        "gender": "feminine",
+        "example": "Beim Erlernen einer Fremdsprache braucht man Geduld und Ausdauer."
+      },
+      "english": {
+        "word": "patience",
+        "phonetic": "/ˈpeɪ.ʃəns/",
+        "example": "Mastering any complex skill requires discipline and persistent patience."
+      },
+      "image_id": "img_psy_geduld"
+    },
+    {
+      "id": "psy_neugier",
+      "category": "psychology_behavior",
+      "arabic": {
+        "word": "الفُضُولُ المَعْرِفِيُّ / الشَّغَفُ",
+        "transliteration": "Al-Fudool",
+        "notes": "الرغبة الفطرية في الاستكشاف والتعلم"
+      },
+      "german": {
+        "article": "die",
+        "word": "Neugier",
+        "plural": "die Neugier",
+        "gender": "feminine",
+        "example": "Kindliche Neugier treibt den menschlichen Erkenntnisdrang an."
+      },
+      "english": {
+        "word": "curiosity / inquisitiveness",
+        "phonetic": "/ˌnjʊə.riˈɒs.ə.ti/",
+        "example": "Intellectual curiosity inspires scientific breakthroughs and artistic wonder."
+      },
+      "image_id": "img_psy_neugier"
+    },
+    {
+      "id": "psy_disziplin",
+      "category": "psychology_behavior",
+      "arabic": {
+        "word": "الِانْضِبَاطُ الذَّاتِيُّ",
+        "transliteration": "Al-Indibat",
+        "notes": "الالتزام الواعي بتنفيذ الواجبات وتطوير النفس"
+      },
+      "german": {
+        "article": "die",
+        "word": "Disziplin",
+        "plural": "die Disziplinen",
+        "gender": "feminine",
+        "example": "Eiserne Disziplin führt oft sicherer zum Erfolg als reines Talent."
+      },
+      "english": {
+        "word": "self-discipline",
+        "phonetic": "/ˈdɪs.ə.plɪn/",
+        "example": "Consistent self-discipline turns ambitious aspirations into reality."
+      },
+      "image_id": "img_psy_disziplin"
+    },
+    {
+      "id": "psy_intuition",
+      "category": "psychology_behavior",
+      "arabic": {
+        "word": "الحَدْسُ / البَدِيهَةُ",
+        "transliteration": "Al-Hads",
+        "notes": "الإدراك الفوري المباشر دون تفكير استدلالي طويل"
+      },
+      "german": {
+        "article": "die",
+        "word": "Intuition",
+        "plural": "die Intuitionen",
+        "gender": "feminine",
+        "example": "Oft hilft uns die innere Intuition, die richtige Entscheidung zu treffen."
+      },
+      "english": {
+        "word": "intuition / gut feeling",
+        "phonetic": "/ˌɪn.tʃuːˈɪʃ.ən/",
+        "example": "Trusting your trained intuition often guides sound decisions."
+      },
+      "image_id": "img_psy_intuition"
+    },
+    {
+      "id": "psy_gedaechtnis",
+      "category": "psychology_behavior",
+      "arabic": {
+        "word": "الذَّاكِرَةُ",
+        "transliteration": "Ath-Thakirah",
+        "notes": "ملكة تخزين المعلومات واسترجاعها في الوقت المناسب"
+      },
+      "german": {
+        "article": "das",
+        "word": "Gedächtnis",
+        "plural": "die Gedächtnisse",
+        "gender": "neuter",
+        "example": "Spaced Repetition trainiert das Langzeitgedächtnis optimal."
+      },
+      "english": {
+        "word": "memory",
+        "phonetic": "/ˈmem.ər.i/",
+        "example": "Spaced repetition algorithms strengthen long-term memory recall."
+      },
+      "image_id": "img_psy_gedaechtnis"
+    },
+    {
+      "id": "psy_wahrnehmung",
+      "category": "psychology_behavior",
+      "arabic": {
+        "word": "الإِدْرَاكُ الحِسِّيُّ",
+        "transliteration": "Al-Idrak",
+        "notes": "استقبال وتفسير المعلومات الواردة من الحواس"
+      },
+      "german": {
+        "article": "die",
+        "word": "Wahrnehmung",
+        "plural": "die Wahrnehmungen",
+        "gender": "feminine",
+        "example": "Unsere subjektive Wahrnehmung wird von Gefühlen und Erfahrungen geprägt."
+      },
+      "english": {
+        "word": "perception",
+        "phonetic": "/pəˈsep.ʃən/",
+        "example": "Sensory perception is deeply influenced by cultural context."
+      },
+      "image_id": "img_psy_wahrnehmung"
+    },
+    {
+      "id": "psy_unterbewusstsein",
+      "category": "psychology_behavior",
+      "arabic": {
+        "word": "العَقْلُ اللَّاوَاعِي (البَاطِنُ)",
+        "transliteration": "Al-'Aql Al-Batin",
+        "notes": "مخزن الذكريات والمشاعر غير الواعية المؤثرة على السلوك"
+      },
+      "german": {
+        "article": "das",
+        "word": "Unterbewusstsein",
+        "plural": "die Unterbewusstsein",
+        "gender": "neuter",
+        "example": "Das Unterbewusstsein verarbeitet im Schlaf die Erlebnisse des Tages."
+      },
+      "english": {
+        "word": "subconscious mind",
+        "phonetic": "/ˌsʌbˈkɒn.ʃəs/",
+        "example": "The subconscious mind integrates learned speech patterns while sleeping."
+      },
+      "image_id": "img_psy_unterbewusstsein"
+    },
+    {
+      "id": "psy_entscheidung",
+      "category": "psychology_behavior",
+      "arabic": {
+        "word": "القَرَارُ",
+        "transliteration": "Al-Qarar",
+        "notes": "الاختيار الحاسم بين عدة بدائل"
+      },
+      "german": {
+        "article": "die",
+        "word": "Entscheidung",
+        "plural": "die Entscheidungen",
+        "gender": "feminine",
+        "example": "Er traf eine wohlüberlegte Entscheidung für seine berufliche Zukunft."
+      },
+      "english": {
+        "word": "decision",
+        "phonetic": "/dɪˈsɪʒ.ən/",
+        "example": "Making a well-considered decision requires balancing reason and intuition."
+      },
+      "image_id": "img_psy_entscheidung"
+    },
+    {
+      "id": "psy_reaktion",
+      "category": "psychology_behavior",
+      "arabic": {
+        "word": "رَدَّةُ الفِعْلِ / الِاسْتِجَابَةُ",
+        "transliteration": "Raddat Al-Fi'l",
+        "notes": "التصرف التلقائي الناتج عن مؤثر خارجي"
+      },
+      "german": {
+        "article": "die",
+        "word": "Reaktion",
+        "plural": "die Reaktionen",
+        "gender": "feminine",
+        "example": "Seine ruhige Reaktion deeskalierte den drohenden Streit sofort."
+      },
+      "english": {
+        "word": "reaction / response",
+        "phonetic": "/riˈæk.ʃən/",
+        "example": "A measured response prevents minor conflicts from escalating."
+      },
+      "image_id": "img_psy_reaktion"
+    },
+    {
+      "id": "psy_frustration",
+      "category": "psychology_behavior",
+      "arabic": {
+        "word": "الإِحْبَاطُ / خَيْبَةُ الأَمَلِ",
+        "transliteration": "Al-Ihbat",
+        "notes": "الشعور بالعجز عند تعذر تحقيق الهدف"
+      },
+      "german": {
+        "article": "die",
+        "word": "Frustration",
+        "plural": "die Frustrationen",
+        "gender": "feminine",
+        "example": "Rückschläge gehören zum Lernen dazu und dürfen nicht zu Frustration führen."
+      },
+      "english": {
+        "word": "frustration",
+        "phonetic": "/frʌsˈtreɪ.ʃən/",
+        "example": "Overcoming initial learning frustration builds true expertise."
+      },
+      "image_id": "img_psy_frustration"
+    },
+    {
+      "id": "psy_resilienz",
+      "category": "psychology_behavior",
+      "arabic": {
+        "word": "الصُّمُودُ النَّفْسِيُّ / المُرُونَةُ",
+        "transliteration": "As-Sumood An-Nafsi",
+        "notes": "القدرة النفسية على التعافي السريع من الأزمات والضغوط"
+      },
+      "german": {
+        "article": "die",
+        "word": "Resilienz",
+        "plural": "die Resilienzen",
+        "gender": "feminine",
+        "example": "Psychische Resilienz hilft uns, gestärkt aus Lebenskrisen hervorzugehen."
+      },
+      "english": {
+        "word": "resilience / fortitude",
+        "phonetic": "/rɪˈzɪl.jəns/",
+        "example": "Emotional resilience allows people to bounce back from adversity."
+      },
+      "image_id": "img_psy_resilienz"
+    },
+    {
+      "id": "psy_hoffnung",
+      "category": "psychology_behavior",
+      "arabic": {
+        "word": "الأَمَلُ وَالرَّجَاءُ",
+        "transliteration": "Al-Amal",
+        "notes": "التطلع الإيجابي للغد وتوقع الخير"
+      },
+      "german": {
+        "article": "die",
+        "word": "Hoffnung",
+        "plural": "die Hoffnungen",
+        "gender": "feminine",
+        "example": "Die Hoffnung gibt uns Kraft in dunklen Momenten."
+      },
+      "english": {
+        "word": "hope / optimism",
+        "phonetic": "/həʊp/",
+        "example": "Unwavering hope illuminates the path toward personal renewal."
+      },
+      "image_id": "img_psy_hoffnung"
+    },
+    {
+      "id": "psy_dankbarkeit",
+      "category": "psychology_behavior",
+      "arabic": {
+        "word": "الِامْتِنَانُ وَالشُّكْرُ",
+        "transliteration": "Al-Imtinan",
+        "notes": "الاعتراف بجميل النعم والفضل والرضا القلبي"
+      },
+      "german": {
+        "article": "die",
+        "word": "Dankbarkeit",
+        "plural": "die Dankbarkeiten",
+        "gender": "feminine",
+        "example": "Tägliche Dankbarkeit fördert nachweislich die seelische Gesundheit."
+      },
+      "english": {
+        "word": "gratitude / thankfulness",
+        "phonetic": "/ˈɡræt.ɪ.tʃuːd/",
+        "example": "Practicing daily gratitude cultivates enduring inner contentment."
+      },
+      "image_id": "img_psy_dankbarkeit"
+    },
+    {
+      "id": "psy_selbstbeherrschung",
+      "category": "psychology_behavior",
+      "arabic": {
+        "word": "ضَبْطُ النَّفْسِ / التَّحَكُّمُ الذَّاتِيُّ",
+        "transliteration": "Dabt An-Nafs",
+        "notes": "القدرة على كبح الانفعالات والشهوات بعقلانية"
+      },
+      "german": {
+        "article": "die",
+        "word": "Selbstbeherrschung",
+        "plural": "die Selbstbeherrschungen",
+        "gender": "feminine",
+        "example": "In hitzigen Diskussionen ist eiserne Selbstbeherrschung Gold wert."
+      },
+      "english": {
+        "word": "self-control / restraint",
+        "phonetic": "/ˌself.kənˈtrəʊl/",
+        "example": "Exhibiting self-control during disputes preserves vital friendships."
+      },
+      "image_id": "img_psy_selbstbeherrschung"
+    },
+    {
+      "id": "psy_identitaet",
+      "category": "psychology_behavior",
+      "arabic": {
+        "word": "الهُوِيَّةُ الذَّاتِيَّةُ",
+        "transliteration": "Al-Huwiyyah",
+        "notes": "إدراك الفرد لخصائصه وقيمه وانتمائه"
+      },
+      "german": {
+        "article": "die",
+        "word": "Identität",
+        "plural": "die Identitäten",
+        "gender": "feminine",
+        "example": "Sprache und Kultur bilden das Fundament unserer Identität."
+      },
+      "english": {
+        "word": "identity",
+        "phonetic": "/aɪˈden.tɪ.ti/",
+        "example": "Language and culture form the bedrock of personal identity."
+      },
+      "image_id": "img_psy_identitaet"
+    }
+  ]
+}
