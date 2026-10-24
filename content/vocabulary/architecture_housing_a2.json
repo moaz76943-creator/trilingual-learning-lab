@@ -1,0 +1,561 @@
+{
+  "category_id": "architecture_housing",
+  "category_name": {
+    "ar": "العمارة والتخطيط الحضري والسكن المعاصر",
+    "de": "Architektur, Stadt & Wohnen",
+    "en": "Architecture, Urban Spaces & Modern Housing"
+  },
+  "level": "A2",
+  "concepts": [
+    {
+      "id": "arc_architektur",
+      "category": "architecture_housing",
+      "arabic": {
+        "word": "العِمَارَةُ / الفَنُّ المِعْمَارِيُّ",
+        "transliteration": "Al-'Imarah",
+        "notes": "علم وفن تصميم وتشييد المباني"
+      },
+      "german": {
+        "article": "die",
+        "word": "Architektur",
+        "plural": "die Architekturen",
+        "gender": "feminine",
+        "example": "Die historische Architektur dieser Altstadt zieht viele Touristen an."
+      },
+      "english": {
+        "word": "architecture",
+        "phonetic": "/ˈɑː.kɪ.tek.tʃər/",
+        "example": "Modern architecture balances aesthetic beauty with environmental sustainability."
+      },
+      "image_id": "img_arc_architektur"
+    },
+    {
+      "id": "arc_architekt",
+      "category": "architecture_housing",
+      "arabic": {
+        "word": "المُهَنْدِسُ المِعْمَارِيُّ",
+        "transliteration": "Al-Muhandis Al-Mi'mari",
+        "notes": "المصمم المخطط للمنشآت (يتبع N-Deklination)"
+      },
+      "german": {
+        "article": "der",
+        "word": "Architekt",
+        "plural": "die Architekten",
+        "gender": "masculine (n-Deklination)",
+        "example": "Der renommierte Architekt entwarf ein energieeffizientes Wohngebäude."
+      },
+      "english": {
+        "word": "architect",
+        "phonetic": "/ˈɑː.kɪ.tekt/",
+        "example": "The award-winning architect designed an innovative civic complex."
+      },
+      "image_id": "img_arc_architekt"
+    },
+    {
+      "id": "arc_wolkenkratzer",
+      "category": "architecture_housing",
+      "arabic": {
+        "word": "نَاطِحَةُ السَّحَابِ",
+        "transliteration": "Natihat As-Sahab",
+        "notes": "المبنى الشاهق الارتفاع متعدد الطوابق"
+      },
+      "german": {
+        "article": "der",
+        "word": "Wolkenkratzer",
+        "plural": "die Wolkenkratzer",
+        "gender": "masculine",
+        "example": "In der Frankfurter Skyline stehen beeindruckende Wolkenkratzer."
+      },
+      "english": {
+        "word": "skyscraper",
+        "phonetic": "/ˈskaɪˌskreɪ.pər/",
+        "example": "The iconic glass skyscraper towers over the bustling metropolis."
+      },
+      "image_id": "img_arc_wolkenkratzer"
+    },
+    {
+      "id": "arc_balkon",
+      "category": "architecture_housing",
+      "arabic": {
+        "word": "الشُّرْفَةُ",
+        "transliteration": "Ash-Shurfah",
+        "notes": "المساحة المفتوحة البارزة من واجهة المبنى"
+      },
+      "german": {
+        "article": "der",
+        "word": "Balkon",
+        "plural": "die Balkone",
+        "gender": "masculine",
+        "example": "Im Sommer frühstücken wir gerne sonntags auf dem Balkon."
+      },
+      "english": {
+        "word": "balcony",
+        "phonetic": "/ˈbæl.kə.ni/",
+        "example": "They planted colorful geraniums along their sunny balcony railing."
+      },
+      "image_id": "img_arc_balkon"
+    },
+    {
+      "id": "arc_terrasse",
+      "category": "architecture_housing",
+      "arabic": {
+        "word": "الشُّرْفَةُ الوَاسِعَةُ / التِّرَاس",
+        "transliteration": "At-Teras",
+        "notes": "المساحة الخارجية المبلطة للاستجمام"
+      },
+      "german": {
+        "article": "die",
+        "word": "Terrasse",
+        "plural": "die Terrassen",
+        "gender": "feminine",
+        "example": "Die Wohnung im Erdgeschoss hat eine wunderschöne grüne Terrasse."
+      },
+      "english": {
+        "word": "terrace / patio",
+        "phonetic": "/ˈter.əs/",
+        "example": "We enjoyed our afternoon tea outdoors on the rooftop terrace."
+      },
+      "image_id": "img_arc_terrasse"
+    },
+    {
+      "id": "arc_aufzug",
+      "category": "architecture_housing",
+      "arabic": {
+        "word": "المِصْعَدُ",
+        "transliteration": "Al-Mis'ad",
+        "notes": "كابينة النقل الرأسي بين الأدوار"
+      },
+      "german": {
+        "article": "der",
+        "word": "Aufzug",
+        "plural": "die Aufzüge",
+        "gender": "masculine",
+        "example": "Nehmen Sie den Aufzug in den vierten Stock."
+      },
+      "english": {
+        "word": "elevator / lift",
+        "phonetic": "/ˈel.ɪ.veɪ.tər/",
+        "example": "Take the modern elevator directly to the penthouse suite."
+      },
+      "image_id": "img_arc_aufzug"
+    },
+    {
+      "id": "arc_treppe",
+      "category": "architecture_housing",
+      "arabic": {
+        "word": "السُّلَّمُ / الدَّرَجُ",
+        "transliteration": "As-Sullam / Ad-Daraj",
+        "notes": "درجات الصعود والهبوط في المباني"
+      },
+      "german": {
+        "article": "die",
+        "word": "Treppe",
+        "plural": "die Treppen",
+        "gender": "feminine",
+        "example": "Aus Fitnessgründen nehme ich lieber die Treppe statt des Aufzugs."
+      },
+      "english": {
+        "word": "stairs / staircase",
+        "phonetic": "/steəz/",
+        "example": "Taking the stairs instead of the elevator provides healthy exercise."
+      },
+      "image_id": "img_arc_treppe"
+    },
+    {
+      "id": "arc_keller",
+      "category": "architecture_housing",
+      "arabic": {
+        "word": "القَبْوُ / الطَّابَقُ السُّفْلِيُّ",
+        "transliteration": "Al-Qabw",
+        "notes": "المساحة التخزينية تحت مستوى الأرض"
+      },
+      "german": {
+        "article": "der",
+        "word": "Keller",
+        "plural": "die Keller",
+        "gender": "masculine",
+        "example": "Wir lagern unsere Fahrräder und Werkzeuge sicher im Keller."
+      },
+      "english": {
+        "word": "basement / cellar",
+        "phonetic": "/ˈbeɪs.mənt/",
+        "example": "We store vintage preserves and winter gear in the dry basement."
+      },
+      "image_id": "img_arc_keller"
+    },
+    {
+      "id": "arc_dachgeschoss",
+      "category": "architecture_housing",
+      "arabic": {
+        "word": "العِلِّيَّةُ / طَابَقُ السَّقْفِ",
+        "transliteration": "Al-'Illiyyah",
+        "notes": "الشقة السكنية الواقعة مباشرة تحت سقف المبنى"
+      },
+      "german": {
+        "article": "das",
+        "word": "Dachgeschoss",
+        "plural": "die Dachgeschosse",
+        "gender": "neuter",
+        "example": "Die helle Dachgeschosswohnung bietet einen fantastischen Blick über die Stadt."
+      },
+      "english": {
+        "word": "attic / top-floor apartment",
+        "phonetic": "/ˈæt.ɪk/",
+        "example": "The cozy attic flat has exposed wooden ceiling beams."
+      },
+      "image_id": "img_arc_dachgeschoss"
+    },
+    {
+      "id": "arc_heizung",
+      "category": "architecture_housing",
+      "arabic": {
+        "word": "التَّدْفِئَةُ المَرْكَزِيَّةُ",
+        "transliteration": "At-Tadfi'ah",
+        "notes": "نظام تدفئة الغرف والمباني شتاءً"
+      },
+      "german": {
+        "article": "die",
+        "word": "Heizung",
+        "plural": "die Heizungen",
+        "gender": "feminine",
+        "example": "Im kalten Winter drehen wir die Heizung auf die mittlere Stufe."
+      },
+      "english": {
+        "word": "central heating",
+        "phonetic": "/ˈhiː.tɪŋ/",
+        "example": "The smart central heating system regulates room temperature automatically."
+      },
+      "image_id": "img_arc_heizung"
+    },
+    {
+      "id": "arc_klimaanlage",
+      "category": "architecture_housing",
+      "arabic": {
+        "word": "مُكَيِّفُ الهَوَاءِ",
+        "transliteration": "Mukayyif Al-Hawa'",
+        "notes": "نظام تبريد وتلطيف الهواء صيفًا"
+      },
+      "german": {
+        "article": "die",
+        "word": "Klimaanlage",
+        "plural": "die Klimaanlagen",
+        "gender": "feminine",
+        "example": "An heißen Sommertagen sorgt die Klimaanlage für angenehme Kühle."
+      },
+      "english": {
+        "word": "air conditioning",
+        "phonetic": "/ˈeə kənˌdɪʃ.ən.ɪŋ/",
+        "example": "The office air conditioning maintains a comfortable environment in July."
+      },
+      "image_id": "img_arc_klimaanlage"
+    },
+    {
+      "id": "arc_miete",
+      "category": "architecture_housing",
+      "arabic": {
+        "word": "الإِيجَارُ الشَّهْرِيُّ",
+        "transliteration": "Al-Iejar",
+        "notes": "المبلغ المالي الدوري المدفوع مقابل السكن"
+      },
+      "german": {
+        "article": "die",
+        "word": "Miete",
+        "plural": "die Mieten",
+        "gender": "feminine",
+        "example": "Die monatliche Warmmiete überweisen wir immer zum Monatsersten."
+      },
+      "english": {
+        "word": "rent",
+        "phonetic": "/rent/",
+        "example": "Monthly apartment rent is payable on the first day of each month."
+      },
+      "image_id": "img_arc_miete"
+    },
+    {
+      "id": "arc_vermieter",
+      "category": "architecture_housing",
+      "arabic": {
+        "word": "صَاحِبُ العَقَارِ / المُؤَجِّرُ",
+        "transliteration": "Al-Mu'ajjir",
+        "notes": "مالك العقار الذي يؤجره للغير"
+      },
+      "german": {
+        "article": "der",
+        "word": "Vermieter",
+        "plural": "die Vermieter",
+        "gender": "masculine",
+        "example": "Der Vermieter kümmert sich zügig um Reparaturen im Haus."
+      },
+      "english": {
+        "word": "landlord",
+        "phonetic": "/ˈlænd.lɔːd/",
+        "example": "The responsive landlord arranged for immediate plumbing repairs."
+      },
+      "image_id": "img_arc_vermieter"
+    },
+    {
+      "id": "arc_mieter",
+      "category": "architecture_housing",
+      "arabic": {
+        "word": "المُسْتَأْجِرُ",
+        "transliteration": "Al-Musta'jir",
+        "notes": "الشخص المنتفع بالعين المؤجرة"
+      },
+      "german": {
+        "article": "der",
+        "word": "Mieter",
+        "plural": "die Mieter",
+        "gender": "masculine",
+        "example": "Die neuen Mieter sind sehr freundlich und rücksichtsvoll."
+      },
+      "english": {
+        "word": "tenant",
+        "phonetic": "/ˈten.ənt/",
+        "example": "The prospective tenant submitted all necessary income verifications."
+      },
+      "image_id": "img_arc_mieter"
+    },
+    {
+      "id": "arc_kaution",
+      "category": "architecture_housing",
+      "arabic": {
+        "word": "مَبْلَغُ التَّأْمِينِ (الكَفَالَةُ)",
+        "transliteration": "Al-Kaution",
+        "notes": "المبلغ الضامن لسلامة العقار المودع عند التأجير"
+      },
+      "german": {
+        "article": "die",
+        "word": "Kaution",
+        "plural": "die Kautionen",
+        "gender": "feminine",
+        "example": "Beim Einzug hinterlegt man meist drei Monatskaltmieten als Kaution."
+      },
+      "english": {
+        "word": "security deposit",
+        "phonetic": "/sɪˈkjʊə.rə.ti dɪˌpɒz.ɪt/",
+        "example": "Tenants typically pay a refundable security deposit before move-in."
+      },
+      "image_id": "img_arc_kaution"
+    },
+    {
+      "id": "arc_nachbarschaft",
+      "category": "architecture_housing",
+      "arabic": {
+        "word": "الحَيُّ السَّكَنِيُّ / الجِوَارُ",
+        "transliteration": "Al-Hayy As-Sakani",
+        "notes": "المحيط السكني ومجتمع الجيران"
+      },
+      "german": {
+        "article": "die",
+        "word": "Nachbarschaft",
+        "plural": "die Nachbarschaften",
+        "gender": "feminine",
+        "example": "In unserer ruhigen Nachbarschaft hilft man sich gerne gegenseitig."
+      },
+      "english": {
+        "word": "neighborhood",
+        "phonetic": "/ˈneɪ.bə.hʊd/",
+        "example": "Our family friendly neighborhood features parks and quiet streets."
+      },
+      "image_id": "img_arc_nachbarschaft"
+    },
+    {
+      "id": "arc_oeffentliche_verkehrsmittel",
+      "category": "architecture_housing",
+      "arabic": {
+        "word": "وَسَائِلُ النَّقْلِ العَامِّ",
+        "transliteration": "Wasa'il An-Naql Al-'Aamm",
+        "notes": "المواصلات الحضرية كالمترو والترام والحافلات"
+      },
+      "german": {
+        "article": "die",
+        "word": "öffentlichen Verkehrsmittel",
+        "plural": "die öffentlichen Verkehrsmittel",
+        "gender": "plural",
+        "example": "Die Wohnung ist optimal an die öffentlichen Verkehrsmittel angebunden."
+      },
+      "english": {
+        "word": "public transit / transport",
+        "phonetic": "/ˈpʌb.lɪk ˈtræn.zɪt/",
+        "example": "The urban flat is well connected to rapid public transit networks."
+      },
+      "image_id": "img_arc_oeffentliche_verkehrsmittel"
+    },
+    {
+      "id": "arc_vorort",
+      "category": "architecture_housing",
+      "arabic": {
+        "word": "الضَّاحِيَةُ السَّكَنِيَّةُ",
+        "transliteration": "Ad-Dahiyah",
+        "notes": "المنطقة السكنية الهادئة خارج مركز المدينة"
+      },
+      "german": {
+        "article": "der",
+        "word": "Vorort",
+        "plural": "die Vororte",
+        "gender": "masculine",
+        "example": "Viele Familien mit Kindern ziehen in einen ruhigen Vorort."
+      },
+      "english": {
+        "word": "suburb",
+        "phonetic": "/ˈsʌb.ɜːb/",
+        "example": "Living in a peaceful suburb offers a calm escape from city crowds."
+      },
+      "image_id": "img_arc_vorort"
+    },
+    {
+      "id": "arc_stadtplatz",
+      "category": "architecture_housing",
+      "arabic": {
+        "word": "المَيْدَانُ / السَّاحَةُ العَامَّةُ",
+        "transliteration": "Al-Maydan",
+        "notes": "الساحة المركزية المفتوحة للقاء والتنزه"
+      },
+      "german": {
+        "article": "der",
+        "word": "Stadtplatz",
+        "plural": "die Stadtplätze",
+        "gender": "masculine",
+        "example": "Auf dem historischen Stadtplatz findet samstags der Wochenmarkt statt."
+      },
+      "english": {
+        "word": "city square / plaza",
+        "phonetic": "/ˈsɪt.i skweər/",
+        "example": "Local farmers gather on the pedestrian city square every weekend."
+      },
+      "image_id": "img_arc_stadtplatz"
+    },
+    {
+      "id": "arc_smart_home",
+      "category": "architecture_housing",
+      "arabic": {
+        "word": "المَنْزِلُ الذَّكِيُّ",
+        "transliteration": "Al-Manzil Ath-Thaki",
+        "notes": "المنزل المتصل بتقنيات التحكم الآلي بالطاقة والأمان"
+      },
+      "german": {
+        "article": "das",
+        "word": "Smart Home",
+        "plural": "die Smart Homes",
+        "gender": "neuter",
+        "example": "Im Smart Home lassen sich Beleuchtung und Heizung per App steuern."
+      },
+      "english": {
+        "word": "smart home",
+        "phonetic": "/ˈsmɑːt həʊm/",
+        "example": "A connected smart home optimizes electricity and automated security."
+      },
+      "image_id": "img_arc_smart_home"
+    },
+    {
+      "id": "arc_renovierung",
+      "category": "architecture_housing",
+      "arabic": {
+        "word": "التَّرْمِيمُ / التَّجْدِيدُ",
+        "transliteration": "At-Tarmeem",
+        "notes": "إصلاح وتحديث المباني القديمة وتحسين كفاءتها"
+      },
+      "german": {
+        "article": "die",
+        "word": "Renovierung",
+        "plural": "die Renovierungen",
+        "gender": "feminine",
+        "example": "Nach der Renovierung erstrahlt das alte Stadthaus in neuem Glanz."
+      },
+      "english": {
+        "word": "renovation / refurbishment",
+        "phonetic": "/ˌren.əˈveɪ.ʃən/",
+        "example": "Comprehensive eco-renovation significantly upgraded the insulation."
+      },
+      "image_id": "img_arc_renovierung"
+    },
+    {
+      "id": "arc_gebaeude",
+      "category": "architecture_housing",
+      "arabic": {
+        "word": "المَبْنَى / العِمَارَةُ",
+        "transliteration": "Al-Mabna",
+        "notes": "الهيكل الإنشائي المخصص للسكن أو العمل"
+      },
+      "german": {
+        "article": "das",
+        "word": "Gebäude",
+        "plural": "die Gebäude",
+        "gender": "neuter",
+        "example": "Das historische Gebäude steht unter Denkmalschutz."
+      },
+      "english": {
+        "word": "building / structure",
+        "phonetic": "/ˈbɪl.dɪŋ/",
+        "example": "The municipal civic building received heritage conservation status."
+      },
+      "image_id": "img_arc_gebaeude"
+    },
+    {
+      "id": "arc_fassade",
+      "category": "architecture_housing",
+      "arabic": {
+        "word": "وَاجِهَةُ المَبْنَى",
+        "transliteration": "Wajahat Al-Mabna",
+        "notes": "المظهر الخارجي الأمامي للمبنى"
+      },
+      "german": {
+        "article": "die",
+        "word": "Fassade",
+        "plural": "die Fassaden",
+        "gender": "feminine",
+        "example": "Die Fassade wurde mit moderner Wärmedämmung neu verkleidet."
+      },
+      "english": {
+        "word": "facade / exterior",
+        "phonetic": "/fəˈsɑːd/",
+        "example": "The building facade incorporates solar panels and vertical gardens."
+      },
+      "image_id": "img_arc_fassade"
+    },
+    {
+      "id": "arc_beton",
+      "category": "architecture_housing",
+      "arabic": {
+        "word": "الخَرَسَانَةُ / الإِسْمَنْتُ المُسَلَّحُ",
+        "transliteration": "Al-Kharasanah",
+        "notes": "مادة البناء المكونة من الإسمنت والركام والماء"
+      },
+      "german": {
+        "article": "der",
+        "word": "Beton",
+        "plural": "die Betone",
+        "gender": "masculine",
+        "example": "Moderner Recycling-Beton reduziert den ökologischen Fußabdruck beim Bau."
+      },
+      "english": {
+        "word": "concrete",
+        "phonetic": "/ˈkɒŋ.kriːt/",
+        "example": "Reinforced concrete provides structural resilience to high-rises."
+      },
+      "image_id": "img_arc_beton"
+    },
+    {
+      "id": "arc_stadtplanung",
+      "category": "architecture_housing",
+      "arabic": {
+        "word": "التَّخْطِيطُ الحَضَرِيُّ",
+        "transliteration": "At-Takhteet Al-Hadari",
+        "notes": "تنظيم المساحات والمباني وشبكات الطرق وتوزيع الخدمات"
+      },
+      "german": {
+        "article": "die",
+        "word": "Stadtplanung",
+        "plural": "die Stadtplanungen",
+        "gender": "feminine",
+        "example": "Nachhaltige Stadtplanung schafft grüne Zonen und kurze Wege."
+      },
+      "english": {
+        "word": "urban planning",
+        "phonetic": "/ˌɜː.bən ˈplæn.ɪŋ/",
+        "example": "Thoughtful urban planning promotes walkable and sustainable cities."
+      },
+      "image_id": "img_arc_stadtplanung"
+    }
+  ]
+}
