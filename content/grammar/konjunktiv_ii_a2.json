@@ -1,0 +1,178 @@
+{
+  "engine_name": "konjunktiv_ii_engine",
+  "level": "A2",
+  "title": {
+    "ar": "محرك صيغة الرجاء والطلب المهذب والأمنيات (Konjunktiv II)",
+    "de": "Der Konjunktiv II: Höflichkeit, Wünsche und Ratschläge",
+    "en": "German Subjunctive II Engine: Politeness, Wishes & Advice"
+  },
+  "grammar_rules": {
+    "usage_pillars": [
+      {
+        "topic": "Höfliche Bitte / Frage",
+        "ar": "الطلب المهذب والاستئذان اللبق",
+        "example": "Könnten Sie mir bitte helfen? / Würden Sie bitte die Tür schließen?"
+      },
+      {
+        "topic": "Wünsche und Träume",
+        "ar": "الأمنيات والرغبات غير المحققة",
+        "example": "Ich wäre gern im Urlaub. / Ich hätte gern mehr Freizeit."
+      },
+      {
+        "topic": "Ratschläge und Empfehlungen",
+        "ar": "إسداء النصائح والمقترحات الودية",
+        "example": "Du solltest mehr schlafen. / Du müsstest zum Arzt gehen."
+      },
+      {
+        "topic": "Irreale Bedingungen",
+        "ar": "الجمل الشرطية الافتراضية (لو... لـ...)",
+        "example": "Wenn ich reich wäre, würde ich um die Welt reisen."
+      }
+    ],
+    "formation_rule": "يصاغ Konjunktiv II بإضافة الـ Umlaut إلى جذر الماضي البسيط (Präteritum) مع نهايات المضارع، أو باستخدام الصيغة الأكثر شيوعًا: würde + Infinitiv am Satzende."
+  },
+  "verbs_table": {
+    "sein (wäre)": {
+      "ich": "wäre",
+      "du": "wärst",
+      "er/sie/es": "wäre",
+      "wir": "wären",
+      "ihr": "wärt",
+      "sie/Sie": "wären",
+      "ar": "لو كُنْتُ / كُنْتُ لِأَكُونَ",
+      "en": "would be / were"
+    },
+    "haben (hätte)": {
+      "ich": "hätte",
+      "du": "hättest",
+      "er/sie/es": "hätte",
+      "wir": "hätten",
+      "ihr": "hättet",
+      "sie/Sie": "hätten",
+      "ar": "لو امْتَلَكْتُ / لَكَانَ لَدَيَّ",
+      "en": "would have / had"
+    },
+    "werden (würde + Infinitiv)": {
+      "ich": "würde",
+      "du": "würdest",
+      "er/sie/es": "würde",
+      "wir": "würden",
+      "ihr": "würdet",
+      "sie/Sie": "würden",
+      "ar": "كُنْتُ لِأَفْعَلَ (لِصِيَاغَةِ الأَفْعَالِ الأُخْرَى)",
+      "en": "would do"
+    },
+    "können (könnte)": {
+      "ich": "könnte",
+      "du": "könntest",
+      "er/sie/es": "könnte",
+      "wir": "könnten",
+      "ihr": "könntet",
+      "sie/Sie": "könnten",
+      "ar": "هَلْ يُمْكِنُكَ / لَاسْتَطَعْتُ",
+      "en": "could / would be able to"
+    },
+    "sollen (sollte)": {
+      "ich": "sollte",
+      "du": "solltest",
+      "er/sie/es": "sollte",
+      "wir": "sollten",
+      "ihr": "solltet",
+      "sie/Sie": "sollten",
+      "ar": "يَنْبَغِي عَلَيْكَ / يَجْدُرُ بِكَ",
+      "en": "should / ought to"
+    },
+    "müssen (müsste)": {
+      "ich": "müsste",
+      "du": "müsstest",
+      "er/sie/es": "müsste",
+      "wir": "müssten",
+      "ihr": "müsstet",
+      "sie/Sie": "müssten",
+      "ar": "كَانَ يَلْزَمُ أَنْ / يَتَوَجَّبُ",
+      "en": "would have to"
+    }
+  },
+  "templates": [
+    {
+      "id": "k2_waere",
+      "category": "Wunsch",
+      "german": "Ich wäre jetzt so gern im Urlaub am Meer.",
+      "arabic": "أَوَدُّ كَثِيرًا لَوْ كُنْتُ الآنَ فِي عُطْلَةٍ عَلَى شَاطِئِ البَحْرِ.",
+      "english": "I wish I were on vacation by the sea right now.",
+      "image_id": "img_k2_waere"
+    },
+    {
+      "id": "k2_haette",
+      "category": "Höfliche Bestellung",
+      "german": "Ich hätte gern eine Tasse frischen Pfefferminztee.",
+      "arabic": "أَوَدُّ لَوْ أَحْصُلُ عَلَى كُوبٍ مِنْ شَايِ النَّعْنَاعِ الطَّازَجِ (طَلَبٌ مُهَذَّبٌ).",
+      "english": "I would like to have a fresh cup of peppermint tea.",
+      "image_id": "img_k2_haette"
+    },
+    {
+      "id": "k2_wuerde",
+      "category": "Interesse",
+      "german": "Ich würde gern eine neue Fremdsprache lernen.",
+      "arabic": "أَوَدُّ كَثِيرًا لَوْ أَتَعَلَّمُ لُغَةً أَجْنَبِيَّةً جَدِيدَةً.",
+      "english": "I would love to learn a new foreign language.",
+      "image_id": "img_k2_wuerde"
+    },
+    {
+      "id": "k2_koennte",
+      "category": "Höfliche Frage",
+      "german": "Könnten Sie mir bitte den Weg zum Bahnhof erklären?",
+      "arabic": "هَلْ يُمْكِنُكَ مِنْ فَضْلِكَ أَنْ تَشْرَحَ لِي الطَّرِيقَ إِلَى مَحَطَّةِ القِطَارِ؟",
+      "english": "Could you please explain the way to the train station to me?",
+      "image_id": "img_k2_koennte"
+    },
+    {
+      "id": "k2_sollte",
+      "category": "Ratschlag",
+      "german": "Du solltest dich nach dem langen Arbeitstag etwas ausruhen.",
+      "arabic": "يَنْبَغِي عَلَيْكَ أَنْ تَنَالَ قِسْطًا مِنَ الرَّاحَةِ بَعْدَ يَوْمِ العَمَلِ الطَّوِيلِ.",
+      "english": "You should get some rest after the long workday.",
+      "image_id": "img_k2_sollte"
+    },
+    {
+      "id": "k2_muesste",
+      "category": "Notwendigkeit",
+      "german": "Er müsste eigentlich heute für seine Prüfung lernen.",
+      "arabic": "كَانَ يَلْزَمُ أَنْ يَدْرُسَ هُوَ فِي الحَقِيقَةِ اليَوْمَ لِامْتِحَانِهِ.",
+      "english": "He really ought to be studying for his exam today.",
+      "image_id": "img_k2_muesste"
+    },
+    {
+      "id": "k2_fenster",
+      "category": "Höfliche Bitte",
+      "german": "Würdest du bitte das Fenster kurz öffnen?",
+      "arabic": "هَلْ تَتَفَضَّلُ بِفَتْحِ النَّافِذَةِ قَلِيلًا مِنْ فَضْلِكَ؟",
+      "english": "Would you please open the window for a moment?",
+      "image_id": "img_k2_fenster"
+    },
+    {
+      "id": "k2_wenn_zeit",
+      "category": "Irreale Bedingung",
+      "german": "Wenn ich mehr Freizeit hätte, würde ich dich öfter besuchen.",
+      "arabic": "لَوْ كَانَ لَدَيَّ مَزِيدٌ مِنَ الفَرَاغِ، لَزُرْتُكَ كَثِيرًا.",
+      "english": "If I had more free time, I would visit you more often.",
+      "image_id": "img_k2_wenn_zeit"
+    },
+    {
+      "id": "k2_wenn_reich",
+      "category": "Irreale Bedingung",
+      "german": "Wenn wir reich wären, würden wir bedürftigen Menschen helfen.",
+      "arabic": "لَوْ كُنَّا أَثْرِيَاءَ، لَسَاعَدْنَا كُلَّ الم Needful.",
+      "english": "If we were rich, we would help people in need.",
+      "image_id": "img_k2_wenn_reich"
+    },
+    {
+      "id": "k2_treffen",
+      "category": "Höfliche Absprache",
+      "german": "Könnten wir den Termin auf morgen verschieben?",
+      "arabic": "هَلْ يُمْكِنُنَا تَأْجِيلُ المَوْعِدِ إِلَى الغَدِ؟",
+      "english": "Could we possibly reschedule the appointment to tomorrow?",
+      "image_id": "img_k2_treffen"
+    }
+  ]
+}
