@@ -1,0 +1,115 @@
+{
+  "engine_name": "passive_voice_engine",
+  "level": "A2",
+  "title": {
+    "ar": "محرك المبني للمجهول في الحاضر (Vorgangspassiv im Präsens)",
+    "de": "Das Vorgangspassiv im Präsens: Bildung mit werden und Partizip II",
+    "en": "German Present Passive Voice Engine (werden + Partizip II)"
+  },
+  "grammar_rules": {
+    "structure": "Subjekt (Akkusativobjekt aus dem Aktivsatz) + werden (im Präsens) + ... + Partizip II (am Satzende)",
+    "agent_rules": [
+      {
+        "preposition": "von + Dativ",
+        "ar": "للإشارة إلى الفاعل المباشر أو الشخص القائم بالعمل",
+        "example": "vom Arzt / von den Mechanikern"
+      },
+      {
+        "preposition": "durch + Akkusativ",
+        "ar": "للإشارة إلى الوسيلة أو الأداة أو السبب الطبيعي غير المباشر",
+        "example": "durch das Hochwasser / durch die Explosion"
+      }
+    ],
+    "distinction_rule": "يتميز المبني للمجهول باقتران werden باسم المفعول (Partizip II)، بخلاف صيغة المستقبل التي يقترن فيها werden بالمصدر (Infinitiv)."
+  },
+  "werden_conjugation": {
+    "ich": "werde",
+    "du": "wirst",
+    "er/sie/es": "wird",
+    "wir": "werden",
+    "ihr": "werdet",
+    "sie/Sie": "werden"
+  },
+  "templates": [
+    {
+      "id": "pas_patient",
+      "active_sentence": "Der Arzt untersucht den Patienten gründlich.",
+      "passive_sentence": "Der Patient wird vom Arzt gründlich untersucht.",
+      "arabic": "يُفْحَصُ المَرِيضُ مِنْ قِبَلِ الطَّبِيبِ بِدِقَّةٍ.",
+      "english": "The patient is examined thoroughly by the doctor.",
+      "image_id": "img_pas_patient"
+    },
+    {
+      "id": "pas_auto",
+      "active_sentence": "Der Mechaniker repariert das Auto in der Werkstatt.",
+      "passive_sentence": "Das Auto wird in der Werkstatt repariert.",
+      "arabic": "تُصْلَحُ السَّيَّارَةُ فِي وَرْشَةِ الصِّيَانَةِ.",
+      "english": "The car is repaired in the automotive workshop.",
+      "image_id": "img_pas_auto"
+    },
+    {
+      "id": "pas_haus",
+      "active_sentence": "Die Arbeiter bauen das moderne Haus.",
+      "passive_sentence": "Das moderne Haus wird von den Arbeitern gebaut.",
+      "arabic": "يُبْنَى البَيْتُ الحَدِيثُ مِنْ قِبَلِ العُمَّالِ.",
+      "english": "The modern house is built by the construction workers.",
+      "image_id": "img_pas_haus"
+    },
+    {
+      "id": "pas_essen",
+      "active_sentence": "Die Köchin bereitet das Abendessen frisch zu.",
+      "passive_sentence": "Das Abendessen wird von der Köchin frisch zubereitet.",
+      "arabic": "يُعَدُّ طَعَامُ العَشَاءِ طَازَجًا مِنْ قِبَلِ الطَّاهِيَةِ.",
+      "english": "Dinner is freshly prepared by the chef.",
+      "image_id": "img_pas_essen"
+    },
+    {
+      "id": "pas_zimmer",
+      "active_sentence": "Das Personal reinigt das Hotelzimmer täglich.",
+      "passive_sentence": "Das Hotelzimmer wird täglich gründlich gereinigt.",
+      "arabic": "تُنَظَّفُ غُرْفَةُ الفُنْدُقِ يَوْمِيًّا بِعِنَايَةٍ.",
+      "english": "The hotel room is cleaned thoroughly every day.",
+      "image_id": "img_pas_zimmer"
+    },
+    {
+      "id": "pas_buch",
+      "active_sentence": "Der Verlag druckt die neuen Bücher.",
+      "passive_sentence": "Die neuen Bücher werden in hoher Auflage gedruckt.",
+      "arabic": "تُطْبَعُ الكُتُبُ الجَدِيدَةُ بِأَعْدَادٍ كَبِيرَةٍ.",
+      "english": "The new books are printed in large quantities.",
+      "image_id": "img_pas_buch"
+    },
+    {
+      "id": "pas_email",
+      "active_sentence": "Die Sekretärin beantwortet die wichtige E-Mail sofort.",
+      "passive_sentence": "Die wichtige E-Mail wird sofort beantwortet.",
+      "arabic": "يُجَابُ عَلَى البَرِيدِ الإِلِكْتُرُونِيِّ الهَامِّ فَوْرًا.",
+      "english": "The urgent email is answered immediately.",
+      "image_id": "img_pas_email"
+    },
+    {
+      "id": "pas_restaurant",
+      "active_sentence": "Die Kellner bedienen die Gäste sehr freundlich.",
+      "passive_sentence": "Die Gäste werden im Restaurant sehr freundlich bedient.",
+      "arabic": "يُخْدَمُ الضُّيُوفُ فِي المَطْعَمِ بِلَطَافَةٍ بَالِغَةٍ.",
+      "english": "Guests are served very politely in the restaurant.",
+      "image_id": "img_pas_restaurant"
+    },
+    {
+      "id": "pas_bruecke",
+      "active_sentence": "Das schwere Hochwasser beschädigt die alte Brücke.",
+      "passive_sentence": "Die alte Brücke wird durch das Hochwasser beschädigt.",
+      "arabic": "تَتَضَرَّرُ القَنْطَرَةُ القَدِيمَةُ بِفِعْلِ الفَيَضَانِ.",
+      "english": "The historic bridge is damaged by the floodwaters.",
+      "image_id": "img_pas_bruecke"
+    },
+    {
+      "id": "pas_museum",
+      "active_sentence": "Der Bürgermeister eröffnet das Museum feierlich.",
+      "passive_sentence": "Das Museum wird heute feierlich eröffnet.",
+      "arabic": "يُفْتَتَحُ المَتْحَفُ اليَوْمَ فِي حَفْلٍ بَهِيجٍ.",
+      "english": "The museum is officially inaugurated today.",
+      "image_id": "img_pas_museum"
+    }
+  ]
+}
