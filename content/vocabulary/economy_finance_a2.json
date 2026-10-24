@@ -1,0 +1,561 @@
+{
+  "category_id": "economy_finance",
+  "category_name": {
+    "ar": "الاقتصاد والمال والتجارة العالمية",
+    "de": "Wirtschaft, Finanzen & Welthandel",
+    "en": "Economy, Finance & Global Trade"
+  },
+  "level": "A2",
+  "concepts": [
+    {
+      "id": "eco_wirtschaft",
+      "category": "economy_finance",
+      "arabic": {
+        "word": "الِاقْتِصَادُ",
+        "transliteration": "Al-Iqtisad",
+        "notes": "منظومة الإنتاج والتوزيع والتبادل والاستهلاك"
+      },
+      "german": {
+        "article": "die",
+        "word": "Wirtschaft",
+        "plural": "die Wirtschaften",
+        "gender": "feminine",
+        "example": "Eine starke Wirtschaft schafft viele sichere Arbeitsplätze."
+      },
+      "english": {
+        "word": "economy",
+        "phonetic": "/iˈkɒn.ə.mi/",
+        "example": "A resilient national economy fosters sustainable job growth."
+      },
+      "image_id": "img_eco_wirtschaft"
+    },
+    {
+      "id": "eco_markt",
+      "category": "economy_finance",
+      "arabic": {
+        "word": "السُّوقُ التِّجَارِيُّ / المَالِيُّ",
+        "transliteration": "As-Sooq",
+        "notes": "ميدان التقاء البائعين والمشترين وتبادل السلع"
+      },
+      "german": {
+        "article": "der",
+        "word": "Markt",
+        "plural": "die Märkte",
+        "gender": "masculine",
+        "example": "Das Unternehmen erschließt erfolgreich neue internationale Märkte."
+      },
+      "english": {
+        "word": "market",
+        "phonetic": "/ˈmɑː.kɪt/",
+        "example": "The global tech market is expanding rapidly this quarter."
+      },
+      "image_id": "img_eco_markt"
+    },
+    {
+      "id": "eco_handel",
+      "category": "economy_finance",
+      "arabic": {
+        "word": "التِّجَارَةُ / التَّبَادُلُ التِّجَارِيُّ",
+        "transliteration": "At-Tijarah",
+        "notes": "عمليات البيع والشراء وتبادل البضائع"
+      },
+      "german": {
+        "article": "der",
+        "word": "Handel",
+        "plural": "die Händel",
+        "gender": "masculine",
+        "example": "Der faire internationale Handel stärkt die weltweite Zusammenarbeit."
+      },
+      "english": {
+        "word": "trade / commerce",
+        "phonetic": "/treɪd/",
+        "example": "Maritime trade routes connect continents across the globe."
+      },
+      "image_id": "img_eco_handel"
+    },
+    {
+      "id": "eco_export",
+      "category": "economy_finance",
+      "arabic": {
+        "word": "التَّصْدِيرُ / الصَّادِرَاتُ",
+        "transliteration": "At-Tasdeer",
+        "notes": "بيع السلع المنتجة محليًا إلى الأسواق الخارجية"
+      },
+      "german": {
+        "article": "der",
+        "word": "Export",
+        "plural": "die Exporte",
+        "gender": "masculine",
+        "example": "Der Export von modernen Maschinen ist ein wichtiger Wirtschaftszweig."
+      },
+      "english": {
+        "word": "export",
+        "phonetic": "/ˈek.spɔːt/",
+        "example": "Industrial exports reached a record high this year."
+      },
+      "image_id": "img_eco_export"
+    },
+    {
+      "id": "eco_import",
+      "category": "economy_finance",
+      "arabic": {
+        "word": "الِاسْتِيرَادُ / الوَارِدَاتُ",
+        "transliteration": "Al-Isteerad",
+        "notes": "جلب البضائع والموارد من الخارج للسوق المحلي"
+      },
+      "german": {
+        "article": "der",
+        "word": "Import",
+        "plural": "die Importe",
+        "gender": "masculine",
+        "example": "Das Land ist auf den Import von seltenen Rohstoffen angewiesen."
+      },
+      "english": {
+        "word": "import",
+        "phonetic": "/ˈɪm.pɔːt/",
+        "example": "The country relies on the import of tropical agricultural goods."
+      },
+      "image_id": "img_eco_import"
+    },
+    {
+      "id": "eco_bank",
+      "category": "economy_finance",
+      "arabic": {
+        "word": "المَصْرِفُ / البَنْكُ",
+        "transliteration": "Al-Masrif / Al-Bank",
+        "notes": "المؤسسة المالية لحفظ الودائع وتقديم التمويل"
+      },
+      "german": {
+        "article": "die",
+        "word": "Bank",
+        "plural": "die Banken",
+        "gender": "feminine",
+        "example": "Ich gehe heute zur Bank, um ein neues Konto zu eröffnen."
+      },
+      "english": {
+        "word": "bank",
+        "phonetic": "/bæŋk/",
+        "example": "The central bank regulates monetary stability."
+      },
+      "image_id": "img_eco_bank"
+    },
+    {
+      "id": "eco_bankkonto",
+      "category": "economy_finance",
+      "arabic": {
+        "word": "الحِسَابُ المَصْرِفِيُّ",
+        "transliteration": "Al-Hisab Al-Masrifi",
+        "notes": "السجل المالي الشخصي أو التجاري لدى البنك"
+      },
+      "german": {
+        "article": "das",
+        "word": "Bankkonto",
+        "plural": "die Bankkonten",
+        "gender": "neuter",
+        "example": "Für das Studium in Deutschland benötigt man ein aktives Bankkonto."
+      },
+      "english": {
+        "word": "bank account",
+        "phonetic": "/ˈbæŋk əˌkaʊnt/",
+        "example": "You can manage your savings bank account via mobile banking."
+      },
+      "image_id": "img_eco_bankkonto"
+    },
+    {
+      "id": "eco_ueberweisung",
+      "category": "economy_finance",
+      "arabic": {
+        "word": "التَّحْوِيلُ المَصْرِفِيُّ",
+        "transliteration": "At-Tahweel Al-Masrifi",
+        "notes": "نقل الأموال إلكترونيًا من حساب إلى آخر"
+      },
+      "german": {
+        "article": "die",
+        "word": "Überweisung",
+        "plural": "die Überweisungen",
+        "gender": "feminine",
+        "example": "Ich bezahle die monatliche Miete bequem per Banküberweisung."
+      },
+      "english": {
+        "word": "bank transfer",
+        "phonetic": "/ˈbæŋk ˌtræns.fɜːr/",
+        "example": "International wire transfers now process within minutes."
+      },
+      "image_id": "img_eco_ueberweisung"
+    },
+    {
+      "id": "eco_zins",
+      "category": "economy_finance",
+      "arabic": {
+        "word": "الفَائِدَةُ المَالِيَّةُ / العَائِدُ",
+        "transliteration": "Al-Fa'idah",
+        "notes": "النسبة المئوية المضافة على الودائع أو القروض"
+      },
+      "german": {
+        "article": "der",
+        "word": "Zins",
+        "plural": "die Zinsen",
+        "gender": "masculine",
+        "example": "Auf diesem Sparkonto erhält man jährlich attraktive Zinsen."
+      },
+      "english": {
+        "word": "interest / rate",
+        "phonetic": "/ˈɪn.trəst/",
+        "example": "Lower interest rates encourage housing investments."
+      },
+      "image_id": "img_eco_zins"
+    },
+    {
+      "id": "eco_steuer",
+      "category": "economy_finance",
+      "arabic": {
+        "word": "الضَّرِيبَةُ",
+        "transliteration": "Ad-Dareebah",
+        "notes": "الاقتطاع المالي القانوني لتمويل الخدمات العامة"
+      },
+      "german": {
+        "article": "die",
+        "word": "Steuer",
+        "plural": "die Steuern",
+        "gender": "feminine",
+        "example": "Aus den gezahlten Steuern werden Schulen und Straßen finanziert."
+      },
+      "english": {
+        "word": "tax",
+        "phonetic": "/tæks/",
+        "example": "Public infrastructure is funded through annual income taxes."
+      },
+      "image_id": "img_eco_steuer"
+    },
+    {
+      "id": "eco_inflation",
+      "category": "economy_finance",
+      "arabic": {
+        "word": "التَّضَخُّمُ المَالِيُّ",
+        "transliteration": "At-Tadakh-khum",
+        "notes": "الارتفاع العام في الأسعار وانخفاض القوة الشرائية"
+      },
+      "german": {
+        "article": "die",
+        "word": "Inflation",
+        "plural": "die Inflationen",
+        "gender": "feminine",
+        "example": "Hohe Inflation verringert die Kaufkraft des Geldes im Alltag."
+      },
+      "english": {
+        "word": "inflation",
+        "phonetic": "/ɪnˈfleɪ.ʃən/",
+        "example": "Rising inflation affects household grocery budgets."
+      },
+      "image_id": "img_eco_inflation"
+    },
+    {
+      "id": "eco_investition",
+      "category": "economy_finance",
+      "arabic": {
+        "word": "الِاسْتِثْمَارُ",
+        "transliteration": "Al-Istithmar",
+        "notes": "توظيف رأس المال في مشاريع منتجة لتحقيق نمو مستقبلي"
+      },
+      "german": {
+        "article": "die",
+        "word": "Investition",
+        "plural": "die Investitionen",
+        "gender": "feminine",
+        "example": "Bildung ist die beste und sicherste Investition in die Zukunft."
+      },
+      "english": {
+        "word": "investment",
+        "phonetic": "/ɪnˈvest.mənt/",
+        "example": "Strategic investment in renewable energy yields long-term returns."
+      },
+      "image_id": "img_eco_investition"
+    },
+    {
+      "id": "eco_aktie",
+      "category": "economy_finance",
+      "arabic": {
+        "word": "السَّهْمُ المَالِيُّ",
+        "transliteration": "As-Sahm",
+        "notes": "حصة ملكية في شركة مساهمة مطروحة للتداول"
+      },
+      "german": {
+        "article": "die",
+        "word": "Aktie",
+        "plural": "die Aktien",
+        "gender": "feminine",
+        "example": "Der Kurs dieser Technologie-Aktie ist im letzten Jahr stark gestiegen."
+      },
+      "english": {
+        "word": "share / stock",
+        "phonetic": "/ʃeər/",
+        "example": "She purchased shares in a promising green technology firm."
+      },
+      "image_id": "img_eco_aktie"
+    },
+    {
+      "id": "eco_boerse",
+      "category": "economy_finance",
+      "arabic": {
+        "word": "البُورْصَةُ / سُوقُ الأَسْهُمِ",
+        "transliteration": "Al-Boorsah",
+        "notes": "السوق المالي المنظم لتداول الأوراق المالية والأسهم"
+      },
+      "german": {
+        "article": "die",
+        "word": "Börse",
+        "plural": "die Börsen",
+        "gender": "feminine",
+        "example": "An der Frankfurter Börse werden täglich Millionen Aktien gehandelt."
+      },
+      "english": {
+        "word": "stock exchange",
+        "phonetic": "/ˈstɒk ɪksˌtʃeɪndʒ/",
+        "example": "Trading volume on the stock exchange surged this morning."
+      },
+      "image_id": "img_eco_boerse"
+    },
+    {
+      "id": "eco_gewinn",
+      "category": "economy_finance",
+      "arabic": {
+        "word": "الرِّبْحُ / العَائِدُ الصَّافِي",
+        "transliteration": "Ar-Ribh",
+        "notes": "الفائض المالي الإيجابي بعد خصم التكاليف"
+      },
+      "german": {
+        "article": "der",
+        "word": "Gewinn",
+        "plural": "die Gewinne",
+        "gender": "masculine",
+        "example": "Die Firma erzielte im vergangenen Geschäftsjahr einen hohen Gewinn."
+      },
+      "english": {
+        "word": "profit / net gain",
+        "phonetic": "/ˈprɒf.ɪt/",
+        "example": "The company reinvested its annual profit into research."
+      },
+      "image_id": "img_eco_gewinn"
+    },
+    {
+      "id": "eco_verlust",
+      "category": "economy_finance",
+      "arabic": {
+        "word": "الخَسَارَةُ المَالِيَّةُ",
+        "transliteration": "Al-Khasarah",
+        "notes": "نقصان رأس المال أو زيادة النفقات عن الإيرادات"
+      },
+      "german": {
+        "article": "der",
+        "word": "Verlust",
+        "plural": "die Verluste",
+        "gender": "masculine",
+        "example": "Durch kluge Planung konnte das Unternehmen finanzielle Verluste vermeiden."
+      },
+      "english": {
+        "word": "financial loss",
+        "phonetic": "/lɒs/",
+        "example": "Careful risk management prevented severe financial losses."
+      },
+      "image_id": "img_eco_verlust"
+    },
+    {
+      "id": "eco_budget",
+      "category": "economy_finance",
+      "arabic": {
+        "word": "المِيزَانِيَّةُ المَالِيَّةُ",
+        "transliteration": "Al-Meezaniyyah",
+        "notes": "الخطة التقديرية للإيرادات والمصروفات"
+      },
+      "german": {
+        "article": "das",
+        "word": "Budget",
+        "plural": "die Budgets",
+        "gender": "neuter",
+        "example": "Für das neue Forschungsprojekt steht ein ausreichendes Budget bereit."
+      },
+      "english": {
+        "word": "budget",
+        "phonetic": "/ˈbʌdʒ.ɪt/",
+        "example": "Sticking to a monthly household budget builds financial security."
+      },
+      "image_id": "img_eco_budget"
+    },
+    {
+      "id": "eco_schuld",
+      "category": "economy_finance",
+      "arabic": {
+        "word": "الدُّيُونُ / الِالْتِزَامَاتُ المَالِيَّةُ",
+        "transliteration": "Ad-Duyoon",
+        "notes": "المبالغ المستحقة السداد للغير (تُستعمل غالبًا بصيغة الجمع die Schulden)"
+      },
+      "german": {
+        "article": "die",
+        "word": "Schulden",
+        "plural": "die Schulden",
+        "gender": "plural",
+        "example": "Er hat alle seine Bankkredite abbezahlt und hat nun keine Schulden mehr."
+      },
+      "english": {
+        "word": "debt / liabilities",
+        "phonetic": "/det/",
+        "example": "Paying off high-interest debt is a smart financial priority."
+      },
+      "image_id": "img_eco_schuld"
+    },
+    {
+      "id": "eco_kredit",
+      "category": "economy_finance",
+      "arabic": {
+        "word": "القَرْضُ المَصْرِفِيُّ / التَّمْوِيلُ",
+        "transliteration": "Al-Qard",
+        "notes": "مبلغ مالي يمنحه البنك على أن يُردّ على أقساط"
+      },
+      "german": {
+        "article": "der",
+        "word": "Kredit",
+        "plural": "die Kredite",
+        "gender": "masculine",
+        "example": "Die Familie nahm einen günstigen Kredit für den Hausbau auf."
+      },
+      "english": {
+        "word": "loan / credit",
+        "phonetic": "/ləʊn/",
+        "example": "The small business secured a low-interest development loan."
+      },
+      "image_id": "img_eco_kredit"
+    },
+    {
+      "id": "eco_waehrung",
+      "category": "economy_finance",
+      "arabic": {
+        "word": "العُمْلَةُ النَّقْدِيَّةُ",
+        "transliteration": "Al-'Umlah",
+        "notes": "وحدة التبادل النقدي الرسمية للدولة كاليورو والدينار والدولار"
+      },
+      "german": {
+        "article": "die",
+        "word": "Währung",
+        "plural": "die Währungen",
+        "gender": "feminine",
+        "example": "Der Euro ist die gemeinsame offizielle Währung vieler europäischer Länder."
+      },
+      "english": {
+        "word": "currency",
+        "phonetic": "/ˈkʌr.ən.si/",
+        "example": "You can exchange foreign currency at the international airport."
+      },
+      "image_id": "img_eco_waehrung"
+    },
+    {
+      "id": "eco_wechselkurs",
+      "category": "economy_finance",
+      "arabic": {
+        "word": "سِعْرُ الصَّرْفِ",
+        "transliteration": "Si'r As-Sarf",
+        "notes": "قيمة عملة دولة ما مقابل عملة دولة أخرى"
+      },
+      "german": {
+        "article": "der",
+        "word": "Wechselkurs",
+        "plural": "die Wechselkurse",
+        "gender": "masculine",
+        "example": "Vor der Auslandsreise prüfe ich den aktuellen Wechselkurs."
+      },
+      "english": {
+        "word": "exchange rate",
+        "phonetic": "/ɪksˈtʃeɪndʒ ˌreɪt/",
+        "example": "Fluctuating exchange rates impact international travel costs."
+      },
+      "image_id": "img_eco_wechselkurs"
+    },
+    {
+      "id": "eco_wohlstand",
+      "category": "economy_finance",
+      "arabic": {
+        "word": "الثَّرْوَةُ / الرَّخَاءُ الِاقْتِصَادِيُّ",
+        "transliteration": "Ar-Rakha'",
+        "notes": "حالة الازدهار المادي وجودة المعيشة المرتفعة"
+      },
+      "german": {
+        "article": "der",
+        "word": "Wohlstand",
+        "plural": "die Wohlstände",
+        "gender": "masculine",
+        "example": "Bildung, Frieden und Fleiß bilden die Grundlage für gesellschaftlichen Wohlstand."
+      },
+      "english": {
+        "word": "prosperity / wealth",
+        "phonetic": "/prɒsˈper.ə.ti/",
+        "example": "Innovation and fair trade promote shared economic prosperity."
+      },
+      "image_id": "img_eco_wohlstand"
+    },
+    {
+      "id": "eco_wettbewerb",
+      "category": "economy_finance",
+      "arabic": {
+        "word": "المُنَافَسَةُ التِّجَارِيَّةُ",
+        "transliteration": "Al-Munafasah",
+        "notes": "التسابق بين الشركات لتقديم أفضل جودة وسعر"
+      },
+      "german": {
+        "article": "der",
+        "word": "Wettbewerb",
+        "plural": "die Wettbewerbe",
+        "gender": "masculine",
+        "example": "Ein fairer Wettbewerb fördert die Qualität und senkt die Preise."
+      },
+      "english": {
+        "word": "competition",
+        "phonetic": "/ˌkɒm.pəˈtɪʃ.ən/",
+        "example": "Healthy market competition drives continuous product innovation."
+      },
+      "image_id": "img_eco_wettbewerb"
+    },
+    {
+      "id": "eco_angebot",
+      "category": "economy_finance",
+      "arabic": {
+        "word": "العَرْضُ الِاقْتِصَادِيُّ",
+        "transliteration": "Al-'Ard Al-Iqtisadi",
+        "notes": "كمية السلع والخدمات المتاحة للبيع في السوق"
+      },
+      "german": {
+        "article": "das",
+        "word": "Angebot",
+        "plural": "die Angebote",
+        "gender": "neuter",
+        "example": "Auf dem freien Markt regeln Angebot und Nachfrage den Preis."
+      },
+      "english": {
+        "word": "economic supply",
+        "phonetic": "/səˈplaɪ/",
+        "example": "When supply exceeds demand, market prices generally fall."
+      },
+      "image_id": "img_eco_angebot"
+    },
+    {
+      "id": "eco_nachfrage",
+      "category": "economy_finance",
+      "arabic": {
+        "word": "الطَّلَبُ الِاقْتِصَادِيُّ",
+        "transliteration": "At-Talab Al-Iqtisadi",
+        "notes": "رغبة وقدرة المستهلكين على شراء سلعة معينة"
+      },
+      "german": {
+        "article": "die",
+        "word": "Nachfrage",
+        "plural": "die Nachfragen",
+        "gender": "feminine",
+        "example": "Die Nachfrage nach Elektroautos und Solartechnik wächst weltweit."
+      },
+      "english": {
+        "word": "economic demand",
+        "phonetic": "/dɪˈmɑːnd/",
+        "example": "Consumer demand for eco-friendly products is rising steadily."
+      },
+      "image_id": "img_eco_nachfrage"
+    }
+  ]
+}
