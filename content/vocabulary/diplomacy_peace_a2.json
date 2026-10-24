@@ -1,0 +1,561 @@
+{
+  "category_id": "diplomacy_peace",
+  "category_name": {
+    "ar": "الدبلوماسية والسلام الإنساني",
+    "de": "Diplomatie & Frieden",
+    "en": "Diplomacy & Global Peace"
+  },
+  "level": "A2",
+  "concepts": [
+    {
+      "id": "dip_diplomatie",
+      "category": "diplomacy_peace",
+      "arabic": {
+        "word": "الدِّبْلُومَاسِيَّةُ / العَلَاقَاتُ الدَّوْلِيَّةُ",
+        "transliteration": "Ad-Diblomasiyyah",
+        "notes": "فن إدارة المفاوضات والعلاقات السياسية بين الدول سلميًا"
+      },
+      "german": {
+        "article": "die",
+        "word": "Diplomatie",
+        "plural": "die Diplomatien",
+        "gender": "feminine",
+        "example": "Kluge Diplomatie verhindert kriegerische Auseinandersetzungen."
+      },
+      "english": {
+        "word": "diplomacy",
+        "phonetic": "/dɪˈpləʊ.mə.si/",
+        "example": "Skilled diplomacy resolves international disputes peacefully."
+      },
+      "image_id": "img_dip_diplomatie"
+    },
+    {
+      "id": "dip_diplomat",
+      "category": "diplomacy_peace",
+      "arabic": {
+        "word": "الدِّبْلُومَاسِيُّ",
+        "transliteration": "Ad-Diblomasi",
+        "notes": "الممثل الرسمي المعتمد لدولته في الخارج (يتبع N-Deklination)"
+      },
+      "german": {
+        "article": "der",
+        "word": "Diplomat",
+        "plural": "die Diplomaten",
+        "gender": "masculine (n-Deklination)",
+        "example": "Der erfahrene Diplomat handelte den humanitären Waffenstillstand aus."
+      },
+      "english": {
+        "word": "diplomat",
+        "phonetic": "/ˈdɪp.lə.mæt/",
+        "example": "The seasoned diplomat negotiated the bilateral ceasefire accord."
+      },
+      "image_id": "img_dip_diplomat"
+    },
+    {
+      "id": "dip_botschaft",
+      "category": "diplomacy_peace",
+      "arabic": {
+        "word": "السَّفَارَةُ",
+        "transliteration": "As-Safarah",
+        "notes": "المقر الدبلوماسي الرسمي لتمثيل الدولة في بلد أجنبي"
+      },
+      "german": {
+        "article": "die",
+        "word": "Botschaft",
+        "plural": "die Botschaften",
+        "gender": "feminine",
+        "example": "Die deutsche Botschaft hilft Bürgern in konsularischen Angelegenheiten."
+      },
+      "english": {
+        "word": "embassy",
+        "phonetic": "/ˈem.bə.si/",
+        "example": "Citizens can request consular assistance at the embassy."
+      },
+      "image_id": "img_dip_botschaft"
+    },
+    {
+      "id": "dip_botschafter",
+      "category": "diplomacy_peace",
+      "arabic": {
+        "word": "السَّفِيرُ",
+        "transliteration": "As-Safeer",
+        "notes": "الممثل الدبلوماسي الأرفع رتبة لدولته لدى دولة أخرى"
+      },
+      "german": {
+        "article": "der",
+        "word": "Botschafter",
+        "plural": "die Botschafter",
+        "gender": "masculine",
+        "example": "Der Botschafter überreichte dem Staatsoberhaupt sein Beglaubigungsschreiben."
+      },
+      "english": {
+        "word": "ambassador",
+        "phonetic": "/æmˈbæs.ə.dər/",
+        "example": "The new ambassador presented his formal diplomatic credentials."
+      },
+      "image_id": "img_dip_botschafter"
+    },
+    {
+      "id": "dip_gipfel",
+      "category": "diplomacy_peace",
+      "arabic": {
+        "word": "القِمَّةُ الدَّوْلِيَّةُ / مُؤْتَمَرُ القِمَّةِ",
+        "transliteration": "Al-Qimmah",
+        "notes": "اجتماع رفيع المستوى يضم قادة ورؤساء الدول"
+      },
+      "german": {
+        "article": "der",
+        "word": "Gipfel",
+        "plural": "die Gipfel",
+        "gender": "masculine",
+        "example": "Auf dem internationalen Klimagipfel verhandelten die Regierungschefs neue Ziele."
+      },
+      "english": {
+        "word": "summit / international summit",
+        "phonetic": "/ˈsʌm.ɪt/",
+        "example": "World leaders gathered for the annual international peace summit."
+      },
+      "image_id": "img_dip_gipfel"
+    },
+    {
+      "id": "dip_konflikt",
+      "category": "diplomacy_peace",
+      "arabic": {
+        "word": "النِّزَاعُ / الصِّرَاعُ",
+        "transliteration": "An-Niza'",
+        "notes": "الخلاف السياسي أو العسكري القائم بين الأطراف"
+      },
+      "german": {
+        "article": "der",
+        "word": "Konflikt",
+        "plural": "die Konflikte",
+        "gender": "masculine",
+        "example": "Ein friedlicher Dialog ist der nachhaltigste Weg zur Beilegung des Konflikts."
+      },
+      "english": {
+        "word": "conflict",
+        "phonetic": "/ˈkɒn.flɪkt/",
+        "example": "Peaceful dialogue remains vital to settling regional conflicts."
+      },
+      "image_id": "img_dip_konflikt"
+    },
+    {
+      "id": "dip_verhandlung",
+      "category": "diplomacy_peace",
+      "arabic": {
+        "word": "المُفَاوَضَاتُ السِّلْمِيَّةُ",
+        "transliteration": "Al-Mufawadat As-Silmiyyah",
+        "notes": "جلسات الحوار للتوصل إلى تسوية للنزاع"
+      },
+      "german": {
+        "article": "die",
+        "word": "Friedensverhandlungen",
+        "plural": "die Friedensverhandlungen",
+        "gender": "plural",
+        "example": "Die diplomatischen Friedensverhandlungen machten deutliche Fortschritte."
+      },
+      "english": {
+        "word": "peace negotiations",
+        "phonetic": "/piːs nɪˌɡəʊ.ʃiˈeɪ.ʃənz/",
+        "example": "Both delegations resumed constructive peace negotiations."
+      },
+      "image_id": "img_dip_verhandlung"
+    },
+    {
+      "id": "dip_friedensvertrag",
+      "category": "diplomacy_peace",
+      "arabic": {
+        "word": "مُعَاهَدَةُ السَّلَامِ",
+        "transliteration": "Mu'ahadat As-Salam",
+        "notes": "الاتفاق الرسمي الملزم لإنهاء النزاع وإرساء السلام"
+      },
+      "german": {
+        "article": "der",
+        "word": "Friedensvertrag",
+        "plural": "die Friedensverträge",
+        "gender": "masculine",
+        "example": "Die Unterzeichnung des Friedensvertrags beendete den jahrelangen Krieg."
+      },
+      "english": {
+        "word": "peace treaty",
+        "phonetic": "/piːs ˈtriː.ti/",
+        "example": "Signing the historic peace treaty brought security to the region."
+      },
+      "image_id": "img_dip_friedensvertrag"
+    },
+    {
+      "id": "dip_waffenstillstand",
+      "category": "diplomacy_peace",
+      "arabic": {
+        "word": "وَقْفُ إِطْلَاقِ النَّارِ / الهُدْنَةُ",
+        "transliteration": "Waqf Itlaq An-Nar",
+        "notes": "التعليق الفوري للعمليات القتالية والعسكرية"
+      },
+      "german": {
+        "article": "der",
+        "word": "Waffenstillstand",
+        "plural": "die Waffenstillstände",
+        "gender": "masculine",
+        "example": "Beide Konfliktparteien einigten sich auf einen humanitären Waffenstillstand."
+      },
+      "english": {
+        "word": "ceasefire / truce",
+        "phonetic": "/ˈsiːs.faɪər/",
+        "example": "Both conflicting parties agreed to an immediate humanitarian ceasefire."
+      },
+      "image_id": "img_dip_waffenstillstand"
+    },
+    {
+      "id": "dip_sicherheitsrat",
+      "category": "diplomacy_peace",
+      "arabic": {
+        "word": "مَجْلِسُ الأَمْنِ الدَّوْلِيُّ",
+        "transliteration": "Majlis Al-Amn Ad-Dawli",
+        "notes": "الهيئة الأممية المسؤولة عن صون السلم والأمن الدوليين"
+      },
+      "german": {
+        "article": "der",
+        "word": "Sicherheitsrat",
+        "plural": "die Sicherheitsräte",
+        "gender": "masculine",
+        "example": "Der UN-Sicherheitsrat verabschiedete einstimmig eine neue Resolution."
+      },
+      "english": {
+        "word": "Security Council",
+        "phonetic": "/sɪˈkjʊə.rə.ti ˌkaʊn.səl/",
+        "example": "The United Nations Security Council passed a binding resolution."
+      },
+      "image_id": "img_dip_sicherheitsrat"
+    },
+    {
+      "id": "dip_un",
+      "category": "diplomacy_peace",
+      "arabic": {
+        "word": "الأُمَمُ المُتَّحِدَةُ",
+        "transliteration": "Al-Umam Al-Muttahidah",
+        "notes": "المنظمة الدولية العالمية الداعية للسلام والتعاون"
+      },
+      "german": {
+        "article": "die",
+        "word": "Vereinten Nationen",
+        "plural": "die Vereinten Nationen",
+        "gender": "plural",
+        "example": "Die Vereinten Nationen setzen sich weltweit für Frieden und Menschenrechte ein."
+      },
+      "english": {
+        "word": "United Nations (UN)",
+        "phonetic": "/jʊˌnaɪ.tɪd ˈneɪ.ʃənz/",
+        "example": "The United Nations coordinates international humanitarian missions."
+      },
+      "image_id": "img_dip_un"
+    },
+    {
+      "id": "dip_hilfe",
+      "category": "diplomacy_peace",
+      "arabic": {
+        "word": "المُسَاعَدَاتُ الإِنْسَانِيَّةُ",
+        "transliteration": "Al-Musa'adat Al-Insaniyyah",
+        "notes": "الإمدادات الإغاثية للمتضررين من الكوارث والحروب"
+      },
+      "german": {
+        "article": "die",
+        "word": "humanitäre Hilfe",
+        "plural": "die humanitären Hilfen",
+        "gender": "feminine",
+        "example": "Internationale Hilfskonvois lieferten Nahrung und Medikamente."
+      },
+      "english": {
+        "word": "humanitarian aid",
+        "phonetic": "/hjuːˌmæn.ɪˈteə.ri.ən eɪd/",
+        "example": "Humanitarian aid supplies were distributed to displaced families."
+      },
+      "image_id": "img_dip_hilfe"
+    },
+    {
+      "id": "dip_fluechtling",
+      "category": "diplomacy_peace",
+      "arabic": {
+        "word": "اللَّاجِئُ",
+        "transliteration": "Al-Laji'",
+        "notes": "الشخص المجبر على مغادرة وطنه بسبب النزاعات والاضطهاد"
+      },
+      "german": {
+        "article": "der",
+        "word": "Flüchtling",
+        "plural": "die Flüchtlinge",
+        "gender": "masculine",
+        "example": "Hilfsorganisationen versorgen schutzbedürftige Flüchtlinge mit warmen Decken."
+      },
+      "english": {
+        "word": "refugee",
+        "phonetic": "/ˌref.jʊˈdʒiː/",
+        "example": "International agencies ensure safe shelter for incoming refugees."
+      },
+      "image_id": "img_dip_fluechtling"
+    },
+    {
+      "id": "dip_asyl",
+      "category": "diplomacy_peace",
+      "arabic": {
+        "word": "اللُّجُوءُ الإِنْسَانِيُّ / المَلَاذُ",
+        "transliteration": "Al-Lujoo'",
+        "notes": "الحماية القانونية الممنوحة للأشخاص المضطهدين"
+      },
+      "german": {
+        "article": "das",
+        "word": "Asyl",
+        "plural": "die Asyle",
+        "gender": "neuter",
+        "example": "Das Recht auf politisches Asyl ist im Grundgesetz verankert."
+      },
+      "english": {
+        "word": "asylum / sanctuary",
+        "phonetic": "/əˈsaɪ.ləm/",
+        "example": "Persecuted individuals have a legal right to seek political asylum."
+      },
+      "image_id": "img_dip_asyl"
+    },
+    {
+      "id": "dip_versoehnung",
+      "category": "diplomacy_peace",
+      "arabic": {
+        "word": "المُصَالَحَةُ وَالوِفَاقُ",
+        "transliteration": "Al-Musalahah",
+        "notes": "تجاوز الأحقاد التاريخية وإعادة بناء الروابط الودية"
+      },
+      "german": {
+        "article": "die",
+        "word": "Versöhnung",
+        "plural": "die Versöhnungen",
+        "gender": "feminine",
+        "example": "Wahrhaftige Versöhnung erfordert Mut zur Vergebung und gemeinsamen Zukunft."
+      },
+      "english": {
+        "word": "reconciliation",
+        "phonetic": "/ˌrek.ənˌsɪl.iˈeɪ.ʃən/",
+        "example": "Reconciliation commissions paved the path toward lasting harmony."
+      },
+      "image_id": "img_dip_versoehnung"
+    },
+    {
+      "id": "dip_kompromiss",
+      "category": "diplomacy_peace",
+      "arabic": {
+        "word": "الحَلُّ الوَسَطُ / التَّسْوِيَةُ",
+        "transliteration": "Al-Hall Al-Wasat",
+        "notes": "الاتفاق الذي يقدم فيه كل طرف تنازلات للوصول للوفاق"
+      },
+      "german": {
+        "article": "der",
+        "word": "Kompromiss",
+        "plural": "die Kompromisse",
+        "gender": "masculine",
+        "example": "Ein tragfähiger Kompromiss berücksichtigt die berechtigten Interessen beider Seiten."
+      },
+      "english": {
+        "word": "compromise",
+        "phonetic": "/ˈkɒm.prə.maɪz/",
+        "example": "Finding a mutually acceptable compromise enabled the accord."
+      },
+      "image_id": "img_dip_kompromiss"
+    },
+    {
+      "id": "dip_buendnis",
+      "category": "diplomacy_peace",
+      "arabic": {
+        "word": "التَّحَالُفُ الدَّوْلِيُّ",
+        "transliteration": "At-Tahaluf",
+        "notes": "المعاهدة المشتركة للدفاع أو التعاون بين دول ذات سيادة"
+      },
+      "german": {
+        "article": "das",
+        "word": "Bündnis",
+        "plural": "die Bündnisse",
+        "gender": "neuter",
+        "example": "Das internationale Bündnis engagiert sich für globale Stabilität."
+      },
+      "english": {
+        "word": "international alliance",
+        "phonetic": "/əˈlaɪ.əns/",
+        "example": "The diplomatic alliance bolstered security and economic stability."
+      },
+      "image_id": "img_dip_buendnis"
+    },
+    {
+      "id": "dip_vermittlung",
+      "category": "diplomacy_peace",
+      "arabic": {
+        "word": "الوَسَاطَةُ لِحَلِّ الخِلَافَاتِ",
+        "transliteration": "Al-Wasatah",
+        "notes": "تدخل طرف ثالث محايد لتقريب وجهات النظر"
+      },
+      "german": {
+        "article": "die",
+        "word": "Vermittlung",
+        "plural": "die Vermittlungen",
+        "gender": "feminine",
+        "example": "Dank der neutralen Vermittlung der Schweiz trafen sich die Delegationen."
+      },
+      "english": {
+        "word": "mediation / arbitration",
+        "phonetic": "/ˌmiː.diˈeɪ.ʃən/",
+        "example": "Third-party mediation brought the conflicting parties back to talks."
+      },
+      "image_id": "img_dip_vermittlung"
+    },
+    {
+      "id": "dip_neutralitaet",
+      "category": "diplomacy_peace",
+      "arabic": {
+        "word": "الحِيَادُ الإِيجَابِيُّ",
+        "transliteration": "Al-Hiyad",
+        "notes": "عدم الانحياز لأي من الأطراف المتحاربة في النزاعات"
+      },
+      "german": {
+        "article": "die",
+        "word": "Neutralität",
+        "plural": "die Neutralitäten",
+        "gender": "feminine",
+        "example": "Die verfassungsmäßige Neutralität ermöglichte erfolgreiche Friedensgespräche."
+      },
+      "english": {
+        "word": "neutrality",
+        "phonetic": "/njuːˈtræl.ə.ti/",
+        "example": "Strict political neutrality allows a nation to host impartial peace talks."
+      },
+      "image_id": "img_dip_neutralitaet"
+    },
+    {
+      "id": "dip_solidaritaet",
+      "category": "diplomacy_peace",
+      "arabic": {
+        "word": "التَّكَافُلُ وَالتَّضَامُنُ الدَّوْلِيُّ",
+        "transliteration": "At-Tadamun Ad-Dawli",
+        "notes": "وقوف الشعوب والدول معًا في مواجهة الشدائد والكوارث"
+      },
+      "german": {
+        "article": "die",
+        "word": "internationale Solidarität",
+        "plural": "die internationalen Solidaritäten",
+        "gender": "feminine",
+        "example": "Globale Krisen erfordern grenzüberschreitende internationale Solidarität."
+      },
+      "english": {
+        "word": "international solidarity",
+        "phonetic": "/ˌsɒl.ɪˈdær.ə.ti/",
+        "example": "Widespread international solidarity brought humanitarian aid quickly."
+      },
+      "image_id": "img_dip_solidaritaet"
+    },
+    {
+      "id": "dip_abruestung",
+      "category": "diplomacy_peace",
+      "arabic": {
+        "word": "نَزْعُ السِّلَاحِ",
+        "transliteration": "Naz' As-Silah",
+        "notes": "تقليص أو إزالة الترسانات العسكرية والأسلحة الفتاكة"
+      },
+      "german": {
+        "article": "die",
+        "word": "Abrüstung",
+        "plural": "die Abrüstungen",
+        "gender": "feminine",
+        "example": "Verhandlungen über nukleare Abrüstung verringern die weltweite Kriegsgefahr."
+      },
+      "english": {
+        "word": "disarmament",
+        "phonetic": "/dɪˈsɑː.mə.mənt/",
+        "example": "Multilateral nuclear disarmament treaties protect future generations."
+      },
+      "image_id": "img_dip_abruestung"
+    },
+    {
+      "id": "dip_souveraenitaet",
+      "category": "diplomacy_peace",
+      "arabic": {
+        "word": "السِّيَادَةُ الوَطَنِيَّةُ",
+        "transliteration": "As-Siyadah",
+        "notes": "استقلال الدولة التام وسلطتها العليا على أراضيها وشعبها"
+      },
+      "german": {
+        "article": "die",
+        "word": "Souveränität",
+        "plural": "die Souveränitäten",
+        "gender": "feminine",
+        "example": "Die territoriale Souveränität aller Staaten ist völkerrechtlich unantastbar."
+      },
+      "english": {
+        "word": "sovereignty",
+        "phonetic": "/ˈsɒv.rɪn.ti/",
+        "example": "International law affirms the sovereign equality of all independent nations."
+      },
+      "image_id": "img_dip_souveraenitaet"
+    },
+    {
+      "id": "dip_dialog",
+      "category": "diplomacy_peace",
+      "arabic": {
+        "word": "الحِوَارُ الدَّوْلِيُّ",
+        "transliteration": "Al-Hiwar Ad-Dawli",
+        "notes": "التواصل الحضاري والسياسي المستمر بين الحكومات والشعوب"
+      },
+      "german": {
+        "article": "der",
+        "word": "Dialog",
+        "plural": "die Dialoge",
+        "gender": "masculine",
+        "example": "Der konstruktive Dialog zwischen den Kulturen baut Vorurteile ab."
+      },
+      "english": {
+        "word": "intergovernmental dialogue",
+        "phonetic": "/ˈdaɪ.ə.lɒɡ/",
+        "example": "Constructive cross-cultural dialogue dispels long-standing prejudices."
+      },
+      "image_id": "img_dip_dialog"
+    },
+    {
+      "id": "dip_resolution",
+      "category": "diplomacy_peace",
+      "arabic": {
+        "word": "القَرَارُ الأُمَمِيُّ",
+        "transliteration": "Al-Qarar Al-Umami",
+        "notes": "البيان أو التوصية الرسمية الصادرة عن الهيئات الدولية"
+      },
+      "german": {
+        "article": "die",
+        "word": "Resolution",
+        "plural": "die Resolutionen",
+        "gender": "feminine",
+        "example": "Die Generalversammlung verabschiedete eine Resolution zum Schutz der Zivilbevölkerung."
+      },
+      "english": {
+        "word": "international resolution",
+        "phonetic": "/ˌrez.əˈluː.ʃən/",
+        "example": "The General Assembly approved a binding protection resolution."
+      },
+      "image_id": "img_dip_resolution"
+    },
+    {
+      "id": "dip_weltfrieden",
+      "category": "diplomacy_peace",
+      "arabic": {
+        "word": "السَّلَامُ العَالَمِيُّ",
+        "transliteration": "As-Salam Al-'Alami",
+        "notes": "الغاية الإنسانية الكبرى بسيادة الأمن والعدالة والوئام على كوكب الأرض"
+      },
+      "german": {
+        "article": "der",
+        "word": "Weltfrieden",
+        "plural": "die Weltfrieden",
+        "gender": "masculine",
+        "example": "Der dauerhafte Weltfrieden bleibt das höchste Ziel der vereinten Menschheit."
+      },
+      "english": {
+        "word": "world peace",
+        "phonetic": "/wɜːld piːs/",
+        "example": "Achieving lasting world peace is humanity's highest collective aspiration."
+      },
+      "image_id": "img_dip_weltfrieden"
+    }
+  ]
+}
