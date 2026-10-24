@@ -1,0 +1,147 @@
+{
+  "engine_name": "genitive_prepositions_engine",
+  "level": "A2",
+  "title": {
+    "ar": "محرك المضاف إليه وحروف الجر السببية والملكية (Genitiv)",
+    "de": "Der Genitiv und Genitiv-Präpositionen (wegen, während, trotz, statt)",
+    "en": "German Genitive Case & Possessive Prepositions Engine"
+  },
+  "declension_rules": {
+    "masculine": {
+      "article": "des",
+      "noun_ending": "+(e)s",
+      "example": "des Mannes / des Tages"
+    },
+    "neuter": {
+      "article": "des",
+      "noun_ending": "+(e)s",
+      "example": "des Kindes / des Hauses"
+    },
+    "feminine": {
+      "article": "der",
+      "noun_ending": "ohne Endung",
+      "example": "der Frau / der Mutter"
+    },
+    "plural": {
+      "article": "der",
+      "noun_ending": "ohne Endung",
+      "example": "der Kinder / der Freunde"
+    }
+  },
+  "prepositions": [
+    {
+      "id": "prep_wegen",
+      "german": "wegen",
+      "arabic": "بِسَبَبِ / جَرَّاءَ",
+      "english": "because of / due to",
+      "case": "Genitiv",
+      "example": "Wegen des schlechten Wetters bleiben wir zu Hause."
+    },
+    {
+      "id": "prep_waehrend",
+      "german": "während",
+      "arabic": "أَثْنَاءَ / خِلَالَ",
+      "english": "during / while",
+      "case": "Genitiv",
+      "example": "Während der Pause trinke ich einen heißen Tee."
+    },
+    {
+      "id": "prep_trotz",
+      "german": "trotz",
+      "arabic": "رَغْمَ / عَلَى الرَّغْمِ مِنْ",
+      "english": "in spite of / despite",
+      "case": "Genitiv",
+      "example": "Trotz des starken Regens gehen die Kinder spazieren."
+    },
+    {
+      "id": "prep_statt",
+      "german": "statt / anstelle",
+      "arabic": "بَدَلًا مِنْ / عِوَضًا عَنْ",
+      "english": "instead of",
+      "case": "Genitiv",
+      "example": "Er trinkt Wasser statt des süßen Saftes."
+    }
+  ],
+  "phrases": [
+    {
+      "id": "gen_des_tages",
+      "german": "während des Tages",
+      "arabic": "خِلَالَ النَّهَارِ",
+      "english": "during the day",
+      "explanation": "المذكر der Tag يتحول إلى des Tages بعد während.",
+      "image_id": "img_gen_des_tages"
+    },
+    {
+      "id": "gen_des_wetters",
+      "german": "wegen des Wetters",
+      "arabic": "بِسَبَبِ الطَّقْسِ",
+      "english": "because of the weather",
+      "explanation": "المحايد das Wetter يتحول إلى des Wetters بعد wegen.",
+      "image_id": "img_gen_wegen"
+    },
+    {
+      "id": "gen_der_arbeit",
+      "german": "während der Arbeit",
+      "arabic": "أَثْنَاءَ العَمَلِ",
+      "english": "during work",
+      "explanation": "المؤنث die Arbeit يتحول إلى der Arbeit دون إضافة لحروف الاسم.",
+      "image_id": "img_gen_waehrend"
+    },
+    {
+      "id": "gen_des_regens",
+      "german": "trotz des Regens",
+      "arabic": "رَغْمَ المَطَرِ",
+      "english": "despite the rain",
+      "explanation": "المذكر der Regen يتحول إلى des Regens بعد trotz.",
+      "image_id": "img_gen_trotz"
+    },
+    {
+      "id": "gen_des_geldes",
+      "german": "statt des Geldes",
+      "arabic": "بَدَلًا مِنَ المَالِ",
+      "english": "instead of the money",
+      "explanation": "المحايد das Geld يتحول إلى des Geldes بعد statt.",
+      "image_id": "img_gen_statt"
+    },
+    {
+      "id": "gen_auto_vaters",
+      "german": "das Auto des Vaters",
+      "arabic": "سَيَّارَةُ الأَبِ (إِضَافَةٌ مَلَكِيَّةٌ)",
+      "english": "the father's car",
+      "explanation": "إضافة ملكية للمذكر: der Vater -> des Vaters.",
+      "image_id": "img_gen_auto_vaters"
+    },
+    {
+      "id": "gen_buch_mutter",
+      "german": "das Buch der Mutter",
+      "arabic": "كِتَابُ الأُمِّ",
+      "english": "the mother's book",
+      "explanation": "إضافة ملكية للمؤنث: die Mutter -> der Mutter.",
+      "image_id": "img_gen_buch_mutter"
+    },
+    {
+      "id": "gen_spielzeug_kind",
+      "german": "das Spielzeug des Kindes",
+      "arabic": "لُعْبَةُ الطِّفْلِ",
+      "english": "the child's toy",
+      "explanation": "إضافة ملكية للمحايد: das Kind -> des Kindes.",
+      "image_id": "img_gen_spielzeug_kind"
+    },
+    {
+      "id": "gen_tasche_lehrerin",
+      "german": "die Tasche der Lehrerin",
+      "arabic": "حَقِيبَةُ المُعَلِّمَةِ",
+      "english": "the teacher's bag",
+      "explanation": "إضافة ملكية للمؤنث: die Lehrerin -> der Lehrerin.",
+      "image_id": "img_gen_tasche_lehrerin"
+    },
+    {
+      "id": "gen_hilfe_freunde",
+      "german": "die Hilfe der Freunde",
+      "arabic": "مُسَاعَدَةُ الأَصْدِقَاءِ",
+      "english": "the friends' help",
+      "explanation": "إضافة ملكية للجمع: die Freunde -> der Freunde.",
+      "image_id": "img_gen_hilfe_freunde"
+    }
+  ]
+}
