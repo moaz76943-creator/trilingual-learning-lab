@@ -1,0 +1,1217 @@
+{
+  "category_id": "academia_research_b1",
+  "id": "academia_research_b1",
+  "level": "B1",
+  "title": {
+    "ar": "البحث الأكاديمي والجامعات والمنهج العلمي",
+    "de": "Wissenschaft & Studium",
+    "en": "Academia & Scientific Method"
+  },
+  "name_ar": "البحث الأكاديمي والجامعات والمنهج العلمي",
+  "name_de": "Wissenschaft & Studium",
+  "name_en": "Academia & Scientific Method",
+  "concepts": [
+    {
+      "id": "academia_research_b1_01",
+      "icon": "academ_01",
+      "image_id": "academ_01",
+      "level": "B1",
+      "ar": "الأُطْرُوحَةُ العِلْمِيَّة",
+      "de": "die Dissertation",
+      "en": "dissertation",
+      "arabic": {
+        "word": "الأُطْرُوحَةُ العِلْمِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "die Dissertation",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Dissertationen",
+        "example": "die Dissertation spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "dissertation",
+        "example": "The concept of dissertation plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_02",
+      "icon": "academ_02",
+      "image_id": "academ_02",
+      "level": "B1",
+      "ar": "الفَرَضِيَّةُ البَحْثِيَّة",
+      "de": "die Hypothese",
+      "en": "hypothesis",
+      "arabic": {
+        "word": "الفَرَضِيَّةُ البَحْثِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "die Hypothese",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Hypothesen",
+        "example": "die Hypothese spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "hypothesis",
+        "example": "The concept of hypothesis plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_03",
+      "icon": "academ_03",
+      "image_id": "academ_03",
+      "level": "B1",
+      "ar": "المَنْهَجِيَّةُ العِلْمِيَّة",
+      "de": "die Methodik",
+      "en": "methodology",
+      "arabic": {
+        "word": "المَنْهَجِيَّةُ العِلْمِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "die Methodik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Methodiken",
+        "example": "die Methodik spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "methodology",
+        "example": "The concept of methodology plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_04",
+      "icon": "academ_04",
+      "image_id": "academ_04",
+      "level": "B1",
+      "ar": "المِنْحَةُ الدِّرَاسِيَّة",
+      "de": "das Stipendium",
+      "en": "scholarship",
+      "arabic": {
+        "word": "المِنْحَةُ الدِّرَاسِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "das Stipendium",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Stipendien",
+        "example": "das Stipendium spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "scholarship",
+        "example": "The concept of scholarship plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_05",
+      "icon": "academ_05",
+      "image_id": "academ_05",
+      "level": "B1",
+      "ar": "المُحَاضَرَةُ الجَامِعِيَّة",
+      "de": "die Vorlesung",
+      "en": "lecture",
+      "arabic": {
+        "word": "المُحَاضَرَةُ الجَامِعِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "die Vorlesung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Vorlesungen",
+        "example": "die Vorlesung spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "lecture",
+        "example": "The concept of lecture plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_06",
+      "icon": "academ_06",
+      "image_id": "academ_06",
+      "level": "B1",
+      "ar": "النَّدْوَةُ البَحْثِيَّة",
+      "de": "das Seminar",
+      "en": "seminar",
+      "arabic": {
+        "word": "النَّدْوَةُ البَحْثِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "das Seminar",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Seminare",
+        "example": "das Seminar spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "seminar",
+        "example": "The concept of seminar plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_07",
+      "icon": "academ_07",
+      "image_id": "academ_07",
+      "level": "B1",
+      "ar": "الاِقْتِبَاسُ المَرْجِعِيّ",
+      "de": "das Zitat",
+      "en": "citation",
+      "arabic": {
+        "word": "الاِقْتِبَاسُ المَرْجِعِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "das Zitat",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Zitate",
+        "example": "das Zitat spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "citation",
+        "example": "The concept of citation plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_08",
+      "icon": "academ_08",
+      "image_id": "academ_08",
+      "level": "B1",
+      "ar": "قَائِمَةُ المَرَاجِع",
+      "de": "das Literaturverzeichnis",
+      "en": "bibliography",
+      "arabic": {
+        "word": "قَائِمَةُ المَرَاجِع",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "das Literaturverzeichnis",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Verzeichnisse",
+        "example": "das Literaturverzeichnis spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "bibliography",
+        "example": "The concept of bibliography plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_09",
+      "icon": "academ_09",
+      "image_id": "academ_09",
+      "level": "B1",
+      "ar": "التَّحْكِيمُ العِلْمِيّ",
+      "de": "das Peer-Review",
+      "en": "peer review",
+      "arabic": {
+        "word": "التَّحْكِيمُ العِلْمِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "das Peer-Review",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Peer-Reviews",
+        "example": "das Peer-Review spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "peer review",
+        "example": "The concept of peer review plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_10",
+      "icon": "academ_10",
+      "image_id": "academ_10",
+      "level": "B1",
+      "ar": "الدِّرَاسَةُ التَّجْرِيبِيَّة",
+      "de": "die empirische Studie",
+      "en": "empirical study",
+      "arabic": {
+        "word": "الدِّرَاسَةُ التَّجْرِيبِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "die empirische Studie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Studien",
+        "example": "die empirische Studie spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "empirical study",
+        "example": "The concept of empirical study plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_11",
+      "icon": "academ_11",
+      "image_id": "academ_11",
+      "level": "B1",
+      "ar": "الإِحْصَاءُ التَّحْلِيلِيّ",
+      "de": "die Statistik",
+      "en": "statistics",
+      "arabic": {
+        "word": "الإِحْصَاءُ التَّحْلِيلِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "die Statistik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Statistiken",
+        "example": "die Statistik spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "statistics",
+        "example": "The concept of statistics plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_12",
+      "icon": "academ_12",
+      "image_id": "academ_12",
+      "level": "B1",
+      "ar": "الكُلِّيَّةُ الجَامِعِيَّة",
+      "de": "die Fakultät",
+      "en": "faculty",
+      "arabic": {
+        "word": "الكُلِّيَّةُ الجَامِعِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "die Fakultät",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Fakultäten",
+        "example": "die Fakultät spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "faculty",
+        "example": "The concept of faculty plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_13",
+      "icon": "academ_13",
+      "image_id": "academ_13",
+      "level": "B1",
+      "ar": "الفَصْلُ الدِّرَاسِيّ",
+      "de": "das Semester",
+      "en": "semester",
+      "arabic": {
+        "word": "الفَصْلُ الدِّرَاسِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "das Semester",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Semester",
+        "example": "das Semester spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "semester",
+        "example": "The concept of semester plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_14",
+      "icon": "academ_14",
+      "image_id": "academ_14",
+      "level": "B1",
+      "ar": "المُخْتَبَرُ البَحْثِيّ",
+      "de": "das Forschungslabor",
+      "en": "research lab",
+      "arabic": {
+        "word": "المُخْتَبَرُ البَحْثِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "das Forschungslabor",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Forschungslabore",
+        "example": "das Forschungslabor spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "research lab",
+        "example": "The concept of research lab plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_15",
+      "icon": "academ_15",
+      "image_id": "academ_15",
+      "level": "B1",
+      "ar": "النَّظَرِيَّةُ العِلْمِيَّة",
+      "de": "die Theorie",
+      "en": "theory",
+      "arabic": {
+        "word": "النَّظَرِيَّةُ العِلْمِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "die Theorie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Theorien",
+        "example": "die Theorie spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "theory",
+        "example": "The concept of theory plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_16",
+      "icon": "academ_16",
+      "image_id": "academ_16",
+      "level": "B1",
+      "ar": "الاسْتِبْيَانُ المَيْدَانِيّ",
+      "de": "die Umfrage",
+      "en": "survey",
+      "arabic": {
+        "word": "الاسْتِبْيَانُ المَيْدَانِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "die Umfrage",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Umfragen",
+        "example": "die Umfrage spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "survey",
+        "example": "The concept of survey plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_17",
+      "icon": "academ_17",
+      "image_id": "academ_17",
+      "level": "B1",
+      "ar": "النَّزَاهَةُ الأَكَادِيمِيَّة",
+      "de": "die akademische Integrität",
+      "en": "academic integrity",
+      "arabic": {
+        "word": "النَّزَاهَةُ الأَكَادِيمِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "die akademische Integrität",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Integritäten",
+        "example": "die akademische Integrität spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "academic integrity",
+        "example": "The concept of academic integrity plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_18",
+      "icon": "academ_18",
+      "image_id": "academ_18",
+      "level": "B1",
+      "ar": "المَجَلَّةُ العِلْمِيَّة",
+      "de": "die Fachzeitschrift",
+      "en": "academic journal",
+      "arabic": {
+        "word": "المَجَلَّةُ العِلْمِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "die Fachzeitschrift",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Fachzeitschriften",
+        "example": "die Fachzeitschrift spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "academic journal",
+        "example": "The concept of academic journal plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_19",
+      "icon": "academ_19",
+      "image_id": "academ_19",
+      "level": "B1",
+      "ar": "المُؤْتَمَرُ الدَّوْلِيّ",
+      "de": "die Konferenz",
+      "en": "conference",
+      "arabic": {
+        "word": "المُؤْتَمَرُ الدَّوْلِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "die Konferenz",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Konferenzen",
+        "example": "die Konferenz spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "conference",
+        "example": "The concept of conference plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_20",
+      "icon": "academ_20",
+      "image_id": "academ_20",
+      "level": "B1",
+      "ar": "البَاحِثُ الأَكَادِيمِيّ",
+      "de": "der Wissenschaftler",
+      "en": "researcher",
+      "arabic": {
+        "word": "البَاحِثُ الأَكَادِيمِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "der Wissenschaftler",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Wissenschaftler",
+        "example": "der Wissenschaftler spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "researcher",
+        "example": "The concept of researcher plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_21",
+      "icon": "academ_21",
+      "image_id": "academ_21",
+      "level": "B1",
+      "ar": "الدَّرَجَةُ الجَامِعِيَّة",
+      "de": "der Studienabschluss",
+      "en": "degree",
+      "arabic": {
+        "word": "الدَّرَجَةُ الجَامِعِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "der Studienabschluss",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Studienabschlüsse",
+        "example": "der Studienabschluss spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "degree",
+        "example": "The concept of degree plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_22",
+      "icon": "academ_22",
+      "image_id": "academ_22",
+      "level": "B1",
+      "ar": "المُلَخَّصُ البَحْثِيّ",
+      "de": "die Zusammenfassung",
+      "en": "abstract",
+      "arabic": {
+        "word": "المُلَخَّصُ البَحْثِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "die Zusammenfassung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Zusammenfassungen",
+        "example": "die Zusammenfassung spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "abstract",
+        "example": "The concept of abstract plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_23",
+      "icon": "academ_23",
+      "image_id": "academ_23",
+      "level": "B1",
+      "ar": "الاِسْتِنْتَاجُ المَنْطِقِيّ",
+      "de": "die Schlussfolgerung",
+      "en": "conclusion",
+      "arabic": {
+        "word": "الاِسْتِنْتَاجُ المَنْطِقِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "die Schlussfolgerung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Schlussfolgerungen",
+        "example": "die Schlussfolgerung spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "conclusion",
+        "example": "The concept of conclusion plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_24",
+      "icon": "academ_24",
+      "image_id": "academ_24",
+      "level": "B1",
+      "ar": "التَّخَصُّصُ الدَّقِيق",
+      "de": "das Fachgebiet",
+      "en": "field of study",
+      "arabic": {
+        "word": "التَّخَصُّصُ الدَّقِيق",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "das Fachgebiet",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Fachgebiete",
+        "example": "das Fachgebiet spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "field of study",
+        "example": "The concept of field of study plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_25",
+      "icon": "academ_25",
+      "image_id": "academ_25",
+      "level": "B1",
+      "ar": "المَعْرِفَةُ المَوْسُوعِيَّة",
+      "de": "das Erkenntnisinteresse",
+      "en": "epistemic interest",
+      "arabic": {
+        "word": "المَعْرِفَةُ المَوْسُوعِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "das Erkenntnisinteresse",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Interessen",
+        "example": "das Erkenntnisinteresse spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "epistemic interest",
+        "example": "The concept of epistemic interest plays a key role in Academia & Scientific Method."
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "academia_research_b1_01",
+      "icon": "academ_01",
+      "image_id": "academ_01",
+      "level": "B1",
+      "ar": "الأُطْرُوحَةُ العِلْمِيَّة",
+      "de": "die Dissertation",
+      "en": "dissertation",
+      "arabic": {
+        "word": "الأُطْرُوحَةُ العِلْمِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "die Dissertation",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Dissertationen",
+        "example": "die Dissertation spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "dissertation",
+        "example": "The concept of dissertation plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_02",
+      "icon": "academ_02",
+      "image_id": "academ_02",
+      "level": "B1",
+      "ar": "الفَرَضِيَّةُ البَحْثِيَّة",
+      "de": "die Hypothese",
+      "en": "hypothesis",
+      "arabic": {
+        "word": "الفَرَضِيَّةُ البَحْثِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "die Hypothese",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Hypothesen",
+        "example": "die Hypothese spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "hypothesis",
+        "example": "The concept of hypothesis plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_03",
+      "icon": "academ_03",
+      "image_id": "academ_03",
+      "level": "B1",
+      "ar": "المَنْهَجِيَّةُ العِلْمِيَّة",
+      "de": "die Methodik",
+      "en": "methodology",
+      "arabic": {
+        "word": "المَنْهَجِيَّةُ العِلْمِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "die Methodik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Methodiken",
+        "example": "die Methodik spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "methodology",
+        "example": "The concept of methodology plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_04",
+      "icon": "academ_04",
+      "image_id": "academ_04",
+      "level": "B1",
+      "ar": "المِنْحَةُ الدِّرَاسِيَّة",
+      "de": "das Stipendium",
+      "en": "scholarship",
+      "arabic": {
+        "word": "المِنْحَةُ الدِّرَاسِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "das Stipendium",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Stipendien",
+        "example": "das Stipendium spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "scholarship",
+        "example": "The concept of scholarship plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_05",
+      "icon": "academ_05",
+      "image_id": "academ_05",
+      "level": "B1",
+      "ar": "المُحَاضَرَةُ الجَامِعِيَّة",
+      "de": "die Vorlesung",
+      "en": "lecture",
+      "arabic": {
+        "word": "المُحَاضَرَةُ الجَامِعِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "die Vorlesung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Vorlesungen",
+        "example": "die Vorlesung spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "lecture",
+        "example": "The concept of lecture plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_06",
+      "icon": "academ_06",
+      "image_id": "academ_06",
+      "level": "B1",
+      "ar": "النَّدْوَةُ البَحْثِيَّة",
+      "de": "das Seminar",
+      "en": "seminar",
+      "arabic": {
+        "word": "النَّدْوَةُ البَحْثِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "das Seminar",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Seminare",
+        "example": "das Seminar spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "seminar",
+        "example": "The concept of seminar plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_07",
+      "icon": "academ_07",
+      "image_id": "academ_07",
+      "level": "B1",
+      "ar": "الاِقْتِبَاسُ المَرْجِعِيّ",
+      "de": "das Zitat",
+      "en": "citation",
+      "arabic": {
+        "word": "الاِقْتِبَاسُ المَرْجِعِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "das Zitat",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Zitate",
+        "example": "das Zitat spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "citation",
+        "example": "The concept of citation plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_08",
+      "icon": "academ_08",
+      "image_id": "academ_08",
+      "level": "B1",
+      "ar": "قَائِمَةُ المَرَاجِع",
+      "de": "das Literaturverzeichnis",
+      "en": "bibliography",
+      "arabic": {
+        "word": "قَائِمَةُ المَرَاجِع",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "das Literaturverzeichnis",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Verzeichnisse",
+        "example": "das Literaturverzeichnis spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "bibliography",
+        "example": "The concept of bibliography plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_09",
+      "icon": "academ_09",
+      "image_id": "academ_09",
+      "level": "B1",
+      "ar": "التَّحْكِيمُ العِلْمِيّ",
+      "de": "das Peer-Review",
+      "en": "peer review",
+      "arabic": {
+        "word": "التَّحْكِيمُ العِلْمِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "das Peer-Review",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Peer-Reviews",
+        "example": "das Peer-Review spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "peer review",
+        "example": "The concept of peer review plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_10",
+      "icon": "academ_10",
+      "image_id": "academ_10",
+      "level": "B1",
+      "ar": "الدِّرَاسَةُ التَّجْرِيبِيَّة",
+      "de": "die empirische Studie",
+      "en": "empirical study",
+      "arabic": {
+        "word": "الدِّرَاسَةُ التَّجْرِيبِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "die empirische Studie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Studien",
+        "example": "die empirische Studie spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "empirical study",
+        "example": "The concept of empirical study plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_11",
+      "icon": "academ_11",
+      "image_id": "academ_11",
+      "level": "B1",
+      "ar": "الإِحْصَاءُ التَّحْلِيلِيّ",
+      "de": "die Statistik",
+      "en": "statistics",
+      "arabic": {
+        "word": "الإِحْصَاءُ التَّحْلِيلِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "die Statistik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Statistiken",
+        "example": "die Statistik spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "statistics",
+        "example": "The concept of statistics plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_12",
+      "icon": "academ_12",
+      "image_id": "academ_12",
+      "level": "B1",
+      "ar": "الكُلِّيَّةُ الجَامِعِيَّة",
+      "de": "die Fakultät",
+      "en": "faculty",
+      "arabic": {
+        "word": "الكُلِّيَّةُ الجَامِعِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "die Fakultät",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Fakultäten",
+        "example": "die Fakultät spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "faculty",
+        "example": "The concept of faculty plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_13",
+      "icon": "academ_13",
+      "image_id": "academ_13",
+      "level": "B1",
+      "ar": "الفَصْلُ الدِّرَاسِيّ",
+      "de": "das Semester",
+      "en": "semester",
+      "arabic": {
+        "word": "الفَصْلُ الدِّرَاسِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "das Semester",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Semester",
+        "example": "das Semester spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "semester",
+        "example": "The concept of semester plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_14",
+      "icon": "academ_14",
+      "image_id": "academ_14",
+      "level": "B1",
+      "ar": "المُخْتَبَرُ البَحْثِيّ",
+      "de": "das Forschungslabor",
+      "en": "research lab",
+      "arabic": {
+        "word": "المُخْتَبَرُ البَحْثِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "das Forschungslabor",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Forschungslabore",
+        "example": "das Forschungslabor spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "research lab",
+        "example": "The concept of research lab plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_15",
+      "icon": "academ_15",
+      "image_id": "academ_15",
+      "level": "B1",
+      "ar": "النَّظَرِيَّةُ العِلْمِيَّة",
+      "de": "die Theorie",
+      "en": "theory",
+      "arabic": {
+        "word": "النَّظَرِيَّةُ العِلْمِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "die Theorie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Theorien",
+        "example": "die Theorie spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "theory",
+        "example": "The concept of theory plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_16",
+      "icon": "academ_16",
+      "image_id": "academ_16",
+      "level": "B1",
+      "ar": "الاسْتِبْيَانُ المَيْدَانِيّ",
+      "de": "die Umfrage",
+      "en": "survey",
+      "arabic": {
+        "word": "الاسْتِبْيَانُ المَيْدَانِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "die Umfrage",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Umfragen",
+        "example": "die Umfrage spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "survey",
+        "example": "The concept of survey plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_17",
+      "icon": "academ_17",
+      "image_id": "academ_17",
+      "level": "B1",
+      "ar": "النَّزَاهَةُ الأَكَادِيمِيَّة",
+      "de": "die akademische Integrität",
+      "en": "academic integrity",
+      "arabic": {
+        "word": "النَّزَاهَةُ الأَكَادِيمِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "die akademische Integrität",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Integritäten",
+        "example": "die akademische Integrität spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "academic integrity",
+        "example": "The concept of academic integrity plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_18",
+      "icon": "academ_18",
+      "image_id": "academ_18",
+      "level": "B1",
+      "ar": "المَجَلَّةُ العِلْمِيَّة",
+      "de": "die Fachzeitschrift",
+      "en": "academic journal",
+      "arabic": {
+        "word": "المَجَلَّةُ العِلْمِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "die Fachzeitschrift",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Fachzeitschriften",
+        "example": "die Fachzeitschrift spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "academic journal",
+        "example": "The concept of academic journal plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_19",
+      "icon": "academ_19",
+      "image_id": "academ_19",
+      "level": "B1",
+      "ar": "المُؤْتَمَرُ الدَّوْلِيّ",
+      "de": "die Konferenz",
+      "en": "conference",
+      "arabic": {
+        "word": "المُؤْتَمَرُ الدَّوْلِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "die Konferenz",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Konferenzen",
+        "example": "die Konferenz spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "conference",
+        "example": "The concept of conference plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_20",
+      "icon": "academ_20",
+      "image_id": "academ_20",
+      "level": "B1",
+      "ar": "البَاحِثُ الأَكَادِيمِيّ",
+      "de": "der Wissenschaftler",
+      "en": "researcher",
+      "arabic": {
+        "word": "البَاحِثُ الأَكَادِيمِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "der Wissenschaftler",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Wissenschaftler",
+        "example": "der Wissenschaftler spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "researcher",
+        "example": "The concept of researcher plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_21",
+      "icon": "academ_21",
+      "image_id": "academ_21",
+      "level": "B1",
+      "ar": "الدَّرَجَةُ الجَامِعِيَّة",
+      "de": "der Studienabschluss",
+      "en": "degree",
+      "arabic": {
+        "word": "الدَّرَجَةُ الجَامِعِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "der Studienabschluss",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Studienabschlüsse",
+        "example": "der Studienabschluss spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "degree",
+        "example": "The concept of degree plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_22",
+      "icon": "academ_22",
+      "image_id": "academ_22",
+      "level": "B1",
+      "ar": "المُلَخَّصُ البَحْثِيّ",
+      "de": "die Zusammenfassung",
+      "en": "abstract",
+      "arabic": {
+        "word": "المُلَخَّصُ البَحْثِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "die Zusammenfassung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Zusammenfassungen",
+        "example": "die Zusammenfassung spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "abstract",
+        "example": "The concept of abstract plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_23",
+      "icon": "academ_23",
+      "image_id": "academ_23",
+      "level": "B1",
+      "ar": "الاِسْتِنْتَاجُ المَنْطِقِيّ",
+      "de": "die Schlussfolgerung",
+      "en": "conclusion",
+      "arabic": {
+        "word": "الاِسْتِنْتَاجُ المَنْطِقِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "die Schlussfolgerung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Schlussfolgerungen",
+        "example": "die Schlussfolgerung spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "conclusion",
+        "example": "The concept of conclusion plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_24",
+      "icon": "academ_24",
+      "image_id": "academ_24",
+      "level": "B1",
+      "ar": "التَّخَصُّصُ الدَّقِيق",
+      "de": "das Fachgebiet",
+      "en": "field of study",
+      "arabic": {
+        "word": "التَّخَصُّصُ الدَّقِيق",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "das Fachgebiet",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Fachgebiete",
+        "example": "das Fachgebiet spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "field of study",
+        "example": "The concept of field of study plays a key role in Academia & Scientific Method."
+      }
+    },
+    {
+      "id": "academia_research_b1_25",
+      "icon": "academ_25",
+      "image_id": "academ_25",
+      "level": "B1",
+      "ar": "المَعْرِفَةُ المَوْسُوعِيَّة",
+      "de": "das Erkenntnisinteresse",
+      "en": "epistemic interest",
+      "arabic": {
+        "word": "المَعْرِفَةُ المَوْسُوعِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي البحث الأكاديمي والجامعات والمنهج العلمي"
+      },
+      "german": {
+        "word": "das Erkenntnisinteresse",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Interessen",
+        "example": "das Erkenntnisinteresse spielt eine zentrale Rolle im Bereich Wissenschaft & Studium."
+      },
+      "english": {
+        "word": "epistemic interest",
+        "example": "The concept of epistemic interest plays a key role in Academia & Scientific Method."
+      }
+    }
+  ]
+}
