@@ -1,2553 +1,3820 @@
 {
-  "version": 1,
   "assets": {
     "img_fam_family": {
       "asset_path": "content/assets/svg/img_fam_family.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 413
+      "category": "family_a1"
     },
     "img_fam_father": {
       "asset_path": "content/assets/svg/img_fam_father.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 275
+      "category": "family_a1"
     },
     "img_fam_mother": {
       "asset_path": "content/assets/svg/img_fam_mother.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 394
+      "category": "family_a1"
     },
     "img_fam_son": {
       "asset_path": "content/assets/svg/img_fam_son.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 275
+      "category": "family_a1"
     },
     "img_fam_daughter": {
       "asset_path": "content/assets/svg/img_fam_daughter.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 275
+      "category": "family_a1"
     },
     "img_fam_brother": {
       "asset_path": "content/assets/svg/img_fam_brother.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 275
+      "category": "family_a1"
     },
     "img_fam_sister": {
       "asset_path": "content/assets/svg/img_fam_sister.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 394
+      "category": "family_a1"
     },
     "img_fam_grandfather": {
       "asset_path": "content/assets/svg/img_fam_grandfather.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 372
+      "category": "family_a1"
     },
     "img_fam_grandmother": {
       "asset_path": "content/assets/svg/img_fam_grandmother.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 321
+      "category": "family_a1"
     },
     "img_fam_parents": {
       "asset_path": "content/assets/svg/img_fam_parents.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 413
+      "category": "family_a1"
     },
     "img_fam_paternal_uncle": {
       "asset_path": "content/assets/svg/img_fam_paternal_uncle.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 275
+      "category": "family_a1"
     },
     "img_fam_maternal_uncle": {
       "asset_path": "content/assets/svg/img_fam_maternal_uncle.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 275
+      "category": "family_a1"
     },
     "img_fam_paternal_aunt": {
       "asset_path": "content/assets/svg/img_fam_paternal_aunt.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 394
+      "category": "family_a1"
     },
     "img_fam_maternal_aunt": {
       "asset_path": "content/assets/svg/img_fam_maternal_aunt.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 394
+      "category": "family_a1"
     },
     "img_fam_cousin_male": {
       "asset_path": "content/assets/svg/img_fam_cousin_male.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 275
+      "category": "family_a1"
     },
     "img_fam_cousin_female": {
       "asset_path": "content/assets/svg/img_fam_cousin_female.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 394
+      "category": "family_a1"
     },
     "img_fam_nephew": {
       "asset_path": "content/assets/svg/img_fam_nephew.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 275
+      "category": "family_a1"
     },
     "img_fam_niece": {
       "asset_path": "content/assets/svg/img_fam_niece.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 275
+      "category": "family_a1"
     },
     "img_fam_husband": {
       "asset_path": "content/assets/svg/img_fam_husband.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 275
+      "category": "family_a1"
     },
     "img_fam_wife": {
       "asset_path": "content/assets/svg/img_fam_wife.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 394
+      "category": "family_a1"
     },
     "img_fam_child": {
       "asset_path": "content/assets/svg/img_fam_child.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 275
+      "category": "family_a1"
     },
     "img_fam_baby": {
       "asset_path": "content/assets/svg/img_fam_baby.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 318
+      "category": "family_a1"
     },
     "img_fam_grandson": {
       "asset_path": "content/assets/svg/img_fam_grandson.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 275
+      "category": "family_a1"
     },
     "img_fam_granddaughter": {
       "asset_path": "content/assets/svg/img_fam_granddaughter.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 275
+      "category": "family_a1"
     },
     "img_fam_relatives": {
       "asset_path": "content/assets/svg/img_fam_relatives.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 413
+      "category": "family_a1"
     },
     "img_food_water": {
       "asset_path": "content/assets/svg/img_food_water.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 320
+      "category": "food_a1"
     },
     "img_food_bread": {
       "asset_path": "content/assets/svg/img_food_bread.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 448
+      "category": "food_a1"
     },
     "img_food_milk": {
       "asset_path": "content/assets/svg/img_food_milk.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 320
+      "category": "food_a1"
     },
     "img_food_apple": {
       "asset_path": "content/assets/svg/img_food_apple.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 259
+      "category": "food_a1"
     },
     "img_food_tea": {
       "asset_path": "content/assets/svg/img_food_tea.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 347
+      "category": "food_a1"
     },
     "img_food_coffee": {
       "asset_path": "content/assets/svg/img_food_coffee.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 347
+      "category": "food_a1"
     },
     "img_food_egg": {
       "asset_path": "content/assets/svg/img_food_egg.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 309
+      "category": "food_a1"
     },
     "img_food_cheese": {
       "asset_path": "content/assets/svg/img_food_cheese.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 265
+      "category": "food_a1"
     },
     "img_food_meat": {
       "asset_path": "content/assets/svg/img_food_meat.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 304
+      "category": "food_a1"
     },
     "img_food_chicken": {
       "asset_path": "content/assets/svg/img_food_chicken.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 304
+      "category": "food_a1"
     },
     "img_food_fish": {
       "asset_path": "content/assets/svg/img_food_fish.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 319
+      "category": "food_a1"
     },
     "img_food_rice": {
       "asset_path": "content/assets/svg/img_food_rice.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 265
+      "category": "food_a1"
     },
     "img_food_soup": {
       "asset_path": "content/assets/svg/img_food_soup.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 347
+      "category": "food_a1"
     },
     "img_food_salad": {
       "asset_path": "content/assets/svg/img_food_salad.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 265
+      "category": "food_a1"
     },
     "img_food_banana": {
       "asset_path": "content/assets/svg/img_food_banana.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 259
+      "category": "food_a1"
     },
     "img_food_orange": {
       "asset_path": "content/assets/svg/img_food_orange.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 259
+      "category": "food_a1"
     },
     "img_food_vegetables": {
       "asset_path": "content/assets/svg/img_food_vegetables.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 334
+      "category": "food_a1"
     },
     "img_food_sugar": {
       "asset_path": "content/assets/svg/img_food_sugar.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 265
+      "category": "food_a1"
     },
     "img_food_salt": {
       "asset_path": "content/assets/svg/img_food_salt.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 265
+      "category": "food_a1"
     },
     "img_food_butter": {
       "asset_path": "content/assets/svg/img_food_butter.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 265
+      "category": "food_a1"
     },
     "img_food_honey": {
       "asset_path": "content/assets/svg/img_food_honey.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 347
+      "category": "food_a1"
     },
     "img_food_potato": {
       "asset_path": "content/assets/svg/img_food_potato.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 259
+      "category": "food_a1"
     },
     "img_food_tomato": {
       "asset_path": "content/assets/svg/img_food_tomato.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 259
+      "category": "food_a1"
     },
     "img_food_carrot": {
       "asset_path": "content/assets/svg/img_food_carrot.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 334
+      "category": "food_a1"
     },
     "img_food_juice": {
       "asset_path": "content/assets/svg/img_food_juice.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 320
-    },
-    "img_verb_be": {
-      "asset_path": "content/assets/svg/img_verb_be.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 276
-    },
-    "img_verb_have": {
-      "asset_path": "content/assets/svg/img_verb_have.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 309
-    },
-    "img_verb_eat": {
-      "asset_path": "content/assets/svg/img_verb_eat.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 268
-    },
-    "img_verb_drink": {
-      "asset_path": "content/assets/svg/img_verb_drink.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 238
-    },
-    "img_verb_go": {
-      "asset_path": "content/assets/svg/img_verb_go.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 301
-    },
-    "img_verb_come": {
-      "asset_path": "content/assets/svg/img_verb_come.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 278
-    },
-    "img_verb_speak": {
-      "asset_path": "content/assets/svg/img_verb_speak.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 456
-    },
-    "img_verb_learn": {
-      "asset_path": "content/assets/svg/img_verb_learn.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 298
-    },
-    "img_verb_sleep": {
-      "asset_path": "content/assets/svg/img_verb_sleep.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 364
-    },
-    "img_verb_see": {
-      "asset_path": "content/assets/svg/img_verb_see.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 314
-    },
-    "img_verb_hear": {
-      "asset_path": "content/assets/svg/img_verb_hear.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 314
-    },
-    "img_verb_write": {
-      "asset_path": "content/assets/svg/img_verb_write.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 287
-    },
-    "img_verb_read": {
-      "asset_path": "content/assets/svg/img_verb_read.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 332
-    },
-    "img_verb_make": {
-      "asset_path": "content/assets/svg/img_verb_make.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 312
-    },
-    "img_verb_live": {
-      "asset_path": "content/assets/svg/img_verb_live.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 318
+      "category": "food_a1"
     },
     "img_home_house": {
       "asset_path": "content/assets/svg/img_home_house.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 318
+      "category": "home_a1"
     },
     "img_home_apartment": {
       "asset_path": "content/assets/svg/img_home_apartment.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 318
+      "category": "home_a1"
     },
     "img_home_room": {
       "asset_path": "content/assets/svg/img_home_room.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 441
+      "category": "home_a1"
     },
     "img_home_door": {
       "asset_path": "content/assets/svg/img_home_door.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 263
+      "category": "home_a1"
     },
     "img_home_window": {
       "asset_path": "content/assets/svg/img_home_window.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 441
+      "category": "home_a1"
     },
     "img_home_table": {
       "asset_path": "content/assets/svg/img_home_table.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 333
+      "category": "home_a1"
     },
     "img_home_chair": {
       "asset_path": "content/assets/svg/img_home_chair.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 332
+      "category": "home_a1"
     },
     "img_home_bed": {
       "asset_path": "content/assets/svg/img_home_bed.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 397
+      "category": "home_a1"
     },
     "img_home_kitchen": {
       "asset_path": "content/assets/svg/img_home_kitchen.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 333
+      "category": "home_a1"
     },
     "img_home_bathroom": {
       "asset_path": "content/assets/svg/img_home_bathroom.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 441
+      "category": "home_a1"
     },
     "img_home_living_room": {
       "asset_path": "content/assets/svg/img_home_living_room.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 332
+      "category": "home_a1"
     },
     "img_home_bedroom": {
       "asset_path": "content/assets/svg/img_home_bedroom.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 397
+      "category": "home_a1"
     },
     "img_home_sofa": {
       "asset_path": "content/assets/svg/img_home_sofa.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 332
+      "category": "home_a1"
     },
     "img_home_lamp": {
       "asset_path": "content/assets/svg/img_home_lamp.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 332
+      "category": "home_a1"
     },
     "img_home_wardrobe": {
       "asset_path": "content/assets/svg/img_home_wardrobe.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 263
+      "category": "home_a1"
     },
     "img_home_fridge": {
       "asset_path": "content/assets/svg/img_home_fridge.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 263
+      "category": "home_a1"
     },
     "img_home_balcony": {
       "asset_path": "content/assets/svg/img_home_balcony.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 441
+      "category": "home_a1"
     },
     "img_home_key": {
       "asset_path": "content/assets/svg/img_home_key.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 344
+      "category": "home_a1"
     },
     "img_home_wall": {
       "asset_path": "content/assets/svg/img_home_wall.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 441
+      "category": "home_a1"
     },
     "img_home_floor": {
       "asset_path": "content/assets/svg/img_home_floor.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 333
+      "category": "home_a1"
     },
     "img_home_roof": {
       "asset_path": "content/assets/svg/img_home_roof.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 318
+      "category": "home_a1"
     },
     "img_home_garden": {
       "asset_path": "content/assets/svg/img_home_garden.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 318
+      "category": "home_a1"
     },
     "img_home_stairs": {
       "asset_path": "content/assets/svg/img_home_stairs.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 311
+      "category": "home_a1"
     },
     "img_home_mirror": {
       "asset_path": "content/assets/svg/img_home_mirror.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 310
+      "category": "home_a1"
     },
     "img_home_carpet": {
       "asset_path": "content/assets/svg/img_home_carpet.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 333
+      "category": "home_a1"
     },
     "img_cloth_shirt": {
       "asset_path": "content/assets/svg/img_cloth_shirt.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 305
+      "category": "clothes_a1"
     },
     "img_cloth_tshirt": {
       "asset_path": "content/assets/svg/img_cloth_tshirt.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 305
+      "category": "clothes_a1"
     },
     "img_cloth_trousers": {
       "asset_path": "content/assets/svg/img_cloth_trousers.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 301
+      "category": "clothes_a1"
     },
     "img_cloth_jacket": {
       "asset_path": "content/assets/svg/img_cloth_jacket.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 305
+      "category": "clothes_a1"
     },
     "img_cloth_coat": {
       "asset_path": "content/assets/svg/img_cloth_coat.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 305
+      "category": "clothes_a1"
     },
     "img_cloth_dress": {
       "asset_path": "content/assets/svg/img_cloth_dress.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 267
+      "category": "clothes_a1"
     },
     "img_cloth_skirt": {
       "asset_path": "content/assets/svg/img_cloth_skirt.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 267
+      "category": "clothes_a1"
     },
     "img_cloth_shoes": {
       "asset_path": "content/assets/svg/img_cloth_shoes.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 280
+      "category": "clothes_a1"
     },
     "img_cloth_boots": {
       "asset_path": "content/assets/svg/img_cloth_boots.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 280
+      "category": "clothes_a1"
     },
     "img_cloth_socks": {
       "asset_path": "content/assets/svg/img_cloth_socks.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 280
+      "category": "clothes_a1"
     },
     "img_cloth_hat": {
       "asset_path": "content/assets/svg/img_cloth_hat.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 289
+      "category": "clothes_a1"
     },
     "img_cloth_cap": {
       "asset_path": "content/assets/svg/img_cloth_cap.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 289
+      "category": "clothes_a1"
     },
     "img_cloth_scarf": {
       "asset_path": "content/assets/svg/img_cloth_scarf.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 289
+      "category": "clothes_a1"
     },
     "img_cloth_gloves": {
       "asset_path": "content/assets/svg/img_cloth_gloves.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 289
+      "category": "clothes_a1"
     },
     "img_cloth_belt": {
       "asset_path": "content/assets/svg/img_cloth_belt.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 301
+      "category": "clothes_a1"
     },
     "img_cloth_tie": {
       "asset_path": "content/assets/svg/img_cloth_tie.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 305
+      "category": "clothes_a1"
     },
     "img_cloth_suit": {
       "asset_path": "content/assets/svg/img_cloth_suit.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 305
+      "category": "clothes_a1"
     },
     "img_cloth_pullover": {
       "asset_path": "content/assets/svg/img_cloth_pullover.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 305
+      "category": "clothes_a1"
     },
     "img_cloth_glasses": {
       "asset_path": "content/assets/svg/img_cloth_glasses.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 380
+      "category": "clothes_a1"
     },
     "img_cloth_watch": {
       "asset_path": "content/assets/svg/img_cloth_watch.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 500
+      "category": "clothes_a1"
     },
     "img_cloth_ring": {
       "asset_path": "content/assets/svg/img_cloth_ring.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 275
+      "category": "clothes_a1"
     },
     "img_cloth_umbrella": {
       "asset_path": "content/assets/svg/img_cloth_umbrella.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 361
+      "category": "clothes_a1"
     },
     "img_cloth_wallet": {
       "asset_path": "content/assets/svg/img_cloth_wallet.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 308
+      "category": "clothes_a1"
     },
     "img_cloth_bag": {
       "asset_path": "content/assets/svg/img_cloth_bag.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 308
+      "category": "clothes_a1"
     },
     "img_cloth_pajamas": {
       "asset_path": "content/assets/svg/img_cloth_pajamas.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 305
+      "category": "clothes_a1"
     },
     "img_col_red": {
       "asset_path": "content/assets/svg/img_col_red.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 253
+      "category": "colors_numbers_a1"
     },
     "img_col_blue": {
       "asset_path": "content/assets/svg/img_col_blue.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 253
+      "category": "colors_numbers_a1"
     },
     "img_col_green": {
       "asset_path": "content/assets/svg/img_col_green.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 253
+      "category": "colors_numbers_a1"
     },
     "img_col_yellow": {
       "asset_path": "content/assets/svg/img_col_yellow.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 253
+      "category": "colors_numbers_a1"
     },
     "img_col_black": {
       "asset_path": "content/assets/svg/img_col_black.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 253
+      "category": "colors_numbers_a1"
     },
     "img_col_white": {
       "asset_path": "content/assets/svg/img_col_white.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 253
+      "category": "colors_numbers_a1"
     },
     "img_col_orange": {
       "asset_path": "content/assets/svg/img_col_orange.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 253
+      "category": "colors_numbers_a1"
     },
     "img_col_brown": {
       "asset_path": "content/assets/svg/img_col_brown.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 253
+      "category": "colors_numbers_a1"
     },
     "img_col_grey": {
       "asset_path": "content/assets/svg/img_col_grey.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 253
+      "category": "colors_numbers_a1"
     },
     "img_col_purple": {
       "asset_path": "content/assets/svg/img_col_purple.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 253
+      "category": "colors_numbers_a1"
     },
     "img_col_pink": {
       "asset_path": "content/assets/svg/img_col_pink.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 253
+      "category": "colors_numbers_a1"
     },
     "img_col_palette": {
       "asset_path": "content/assets/svg/img_col_palette.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 253
+      "category": "colors_numbers_a1"
     },
     "img_num_0": {
       "asset_path": "content/assets/svg/img_num_0.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 314
+      "category": "colors_numbers_a1"
     },
     "img_num_1": {
       "asset_path": "content/assets/svg/img_num_1.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 314
+      "category": "colors_numbers_a1"
     },
     "img_num_2": {
       "asset_path": "content/assets/svg/img_num_2.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 314
+      "category": "colors_numbers_a1"
     },
     "img_num_3": {
       "asset_path": "content/assets/svg/img_num_3.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 314
+      "category": "colors_numbers_a1"
     },
     "img_num_4": {
       "asset_path": "content/assets/svg/img_num_4.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 314
+      "category": "colors_numbers_a1"
     },
     "img_num_5": {
       "asset_path": "content/assets/svg/img_num_5.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 314
+      "category": "colors_numbers_a1"
     },
     "img_num_6": {
       "asset_path": "content/assets/svg/img_num_6.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 314
+      "category": "colors_numbers_a1"
     },
     "img_num_7": {
       "asset_path": "content/assets/svg/img_num_7.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 314
+      "category": "colors_numbers_a1"
     },
     "img_num_8": {
       "asset_path": "content/assets/svg/img_num_8.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 314
+      "category": "colors_numbers_a1"
     },
     "img_num_9": {
       "asset_path": "content/assets/svg/img_num_9.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 314
+      "category": "colors_numbers_a1"
     },
     "img_num_10": {
       "asset_path": "content/assets/svg/img_num_10.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 315
+      "category": "colors_numbers_a1"
     },
     "img_num_11": {
       "asset_path": "content/assets/svg/img_num_11.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 315
+      "category": "colors_numbers_a1"
     },
     "img_num_12": {
       "asset_path": "content/assets/svg/img_num_12.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 315
+      "category": "colors_numbers_a1"
     },
     "img_num_20": {
       "asset_path": "content/assets/svg/img_num_20.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 315
+      "category": "colors_numbers_a1"
     },
     "img_num_30": {
       "asset_path": "content/assets/svg/img_num_30.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 315
+      "category": "colors_numbers_a1"
     },
     "img_num_50": {
       "asset_path": "content/assets/svg/img_num_50.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 315
+      "category": "colors_numbers_a1"
     },
     "img_num_100": {
       "asset_path": "content/assets/svg/img_num_100.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 316
+      "category": "colors_numbers_a1"
     },
     "img_num_digits": {
       "asset_path": "content/assets/svg/img_num_digits.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 314
+      "category": "colors_numbers_a1"
     },
     "img_time_monday": {
       "asset_path": "content/assets/svg/img_time_monday.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 484
+      "category": "time_calendar_a1"
     },
     "img_time_tuesday": {
       "asset_path": "content/assets/svg/img_time_tuesday.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 484
+      "category": "time_calendar_a1"
     },
     "img_time_wednesday": {
       "asset_path": "content/assets/svg/img_time_wednesday.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 484
+      "category": "time_calendar_a1"
     },
     "img_time_thursday": {
       "asset_path": "content/assets/svg/img_time_thursday.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 484
+      "category": "time_calendar_a1"
     },
     "img_time_friday": {
       "asset_path": "content/assets/svg/img_time_friday.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 484
+      "category": "time_calendar_a1"
     },
     "img_time_saturday": {
       "asset_path": "content/assets/svg/img_time_saturday.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 484
+      "category": "time_calendar_a1"
     },
     "img_time_sunday": {
       "asset_path": "content/assets/svg/img_time_sunday.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 484
+      "category": "time_calendar_a1"
     },
     "img_time_day": {
       "asset_path": "content/assets/svg/img_time_day.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 366
+      "category": "time_calendar_a1"
     },
     "img_time_week": {
       "asset_path": "content/assets/svg/img_time_week.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 484
+      "category": "time_calendar_a1"
     },
     "img_time_month": {
       "asset_path": "content/assets/svg/img_time_month.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 485
+      "category": "time_calendar_a1"
     },
     "img_time_year": {
       "asset_path": "content/assets/svg/img_time_year.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 485
+      "category": "time_calendar_a1"
     },
     "img_time_today": {
       "asset_path": "content/assets/svg/img_time_today.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 467
+      "category": "time_calendar_a1"
     },
     "img_time_tomorrow": {
       "asset_path": "content/assets/svg/img_time_tomorrow.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 467
+      "category": "time_calendar_a1"
     },
     "img_time_yesterday": {
       "asset_path": "content/assets/svg/img_time_yesterday.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 273
+      "category": "time_calendar_a1"
     },
     "img_time_morning": {
       "asset_path": "content/assets/svg/img_time_morning.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 366
+      "category": "time_calendar_a1"
     },
     "img_time_noon": {
       "asset_path": "content/assets/svg/img_time_noon.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 366
+      "category": "time_calendar_a1"
     },
     "img_time_afternoon": {
       "asset_path": "content/assets/svg/img_time_afternoon.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 366
+      "category": "time_calendar_a1"
     },
     "img_time_evening": {
       "asset_path": "content/assets/svg/img_time_evening.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 348
+      "category": "time_calendar_a1"
     },
     "img_time_night": {
       "asset_path": "content/assets/svg/img_time_night.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 348
+      "category": "time_calendar_a1"
     },
     "img_time_hour": {
       "asset_path": "content/assets/svg/img_time_hour.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 467
+      "category": "time_calendar_a1"
     },
     "img_time_minute": {
       "asset_path": "content/assets/svg/img_time_minute.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 467
+      "category": "time_calendar_a1"
     },
     "img_time_second": {
       "asset_path": "content/assets/svg/img_time_second.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 467
+      "category": "time_calendar_a1"
     },
     "img_time_clock": {
       "asset_path": "content/assets/svg/img_time_clock.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 467
+      "category": "time_calendar_a1"
     },
     "img_time_weekend": {
       "asset_path": "content/assets/svg/img_time_weekend.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 485
+      "category": "time_calendar_a1"
     },
     "img_time_calendar": {
       "asset_path": "content/assets/svg/img_time_calendar.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 485
+      "category": "time_calendar_a1"
     },
     "img_body_body": {
       "asset_path": "content/assets/svg/img_body_body.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 271
+      "category": "body_health_a1"
     },
     "img_body_head": {
       "asset_path": "content/assets/svg/img_body_head.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 271
+      "category": "body_health_a1"
     },
     "img_body_eye": {
       "asset_path": "content/assets/svg/img_body_eye.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 302
+      "category": "body_health_a1"
     },
     "img_body_ear": {
       "asset_path": "content/assets/svg/img_body_ear.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 314
+      "category": "body_health_a1"
     },
     "img_body_nose": {
       "asset_path": "content/assets/svg/img_body_nose.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 271
+      "category": "body_health_a1"
     },
     "img_body_mouth": {
       "asset_path": "content/assets/svg/img_body_mouth.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 271
+      "category": "body_health_a1"
     },
     "img_body_tooth": {
       "asset_path": "content/assets/svg/img_body_tooth.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 335
+      "category": "body_health_a1"
     },
     "img_body_hand": {
       "asset_path": "content/assets/svg/img_body_hand.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 424
+      "category": "body_health_a1"
     },
     "img_body_finger": {
       "asset_path": "content/assets/svg/img_body_finger.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 424
+      "category": "body_health_a1"
     },
     "img_body_arm": {
       "asset_path": "content/assets/svg/img_body_arm.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 424
+      "category": "body_health_a1"
     },
     "img_body_foot": {
       "asset_path": "content/assets/svg/img_body_foot.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 424
+      "category": "body_health_a1"
     },
     "img_body_leg": {
       "asset_path": "content/assets/svg/img_body_leg.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 424
+      "category": "body_health_a1"
     },
     "img_body_stomach": {
       "asset_path": "content/assets/svg/img_body_stomach.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 262
+      "category": "body_health_a1"
     },
     "img_body_back": {
       "asset_path": "content/assets/svg/img_body_back.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 271
+      "category": "body_health_a1"
     },
     "img_body_heart": {
       "asset_path": "content/assets/svg/img_body_heart.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 262
+      "category": "body_health_a1"
     },
     "img_body_hair": {
       "asset_path": "content/assets/svg/img_body_hair.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 271
+      "category": "body_health_a1"
     },
     "img_body_doctor": {
       "asset_path": "content/assets/svg/img_body_doctor.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 283
+      "category": "body_health_a1"
     },
     "img_body_hospital": {
       "asset_path": "content/assets/svg/img_body_hospital.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 283
+      "category": "body_health_a1"
     },
     "img_body_medicine": {
       "asset_path": "content/assets/svg/img_body_medicine.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 291
+      "category": "body_health_a1"
     },
     "img_body_pharmacy": {
       "asset_path": "content/assets/svg/img_body_pharmacy.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 283
+      "category": "body_health_a1"
     },
     "img_body_health": {
       "asset_path": "content/assets/svg/img_body_health.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 262
+      "category": "body_health_a1"
     },
     "img_body_pain": {
       "asset_path": "content/assets/svg/img_body_pain.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 262
+      "category": "body_health_a1"
     },
     "img_body_fever": {
       "asset_path": "content/assets/svg/img_body_fever.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 322
+      "category": "body_health_a1"
     },
     "img_body_sick": {
       "asset_path": "content/assets/svg/img_body_sick.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 322
+      "category": "body_health_a1"
     },
     "img_body_healthy": {
       "asset_path": "content/assets/svg/img_body_healthy.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 262
+      "category": "body_health_a1"
     },
     "img_city_city": {
       "asset_path": "content/assets/svg/img_city_city.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 441
+      "category": "city_transport_a1"
     },
     "img_city_street": {
       "asset_path": "content/assets/svg/img_city_street.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 365
+      "category": "city_transport_a1"
     },
     "img_city_car": {
       "asset_path": "content/assets/svg/img_city_car.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 365
+      "category": "city_transport_a1"
     },
     "img_city_bus": {
       "asset_path": "content/assets/svg/img_city_bus.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 435
+      "category": "city_transport_a1"
     },
     "img_city_train": {
       "asset_path": "content/assets/svg/img_city_train.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 373
+      "category": "city_transport_a1"
     },
     "img_city_subway": {
       "asset_path": "content/assets/svg/img_city_subway.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 373
+      "category": "city_transport_a1"
     },
     "img_city_bicycle": {
       "asset_path": "content/assets/svg/img_city_bicycle.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 365
+      "category": "city_transport_a1"
     },
     "img_city_airplane": {
       "asset_path": "content/assets/svg/img_city_airplane.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 291
+      "category": "city_transport_a1"
     },
     "img_city_airport": {
       "asset_path": "content/assets/svg/img_city_airport.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 291
+      "category": "city_transport_a1"
     },
     "img_city_station": {
       "asset_path": "content/assets/svg/img_city_station.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 373
+      "category": "city_transport_a1"
     },
     "img_city_ticket": {
       "asset_path": "content/assets/svg/img_city_ticket.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 325
+      "category": "city_transport_a1"
     },
     "img_city_taxi": {
       "asset_path": "content/assets/svg/img_city_taxi.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 365
+      "category": "city_transport_a1"
     },
     "img_city_hotel": {
       "asset_path": "content/assets/svg/img_city_hotel.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 441
+      "category": "city_transport_a1"
     },
     "img_city_bank": {
       "asset_path": "content/assets/svg/img_city_bank.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 441
+      "category": "city_transport_a1"
     },
     "img_city_post_office": {
       "asset_path": "content/assets/svg/img_city_post_office.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 441
+      "category": "city_transport_a1"
     },
     "img_city_market": {
       "asset_path": "content/assets/svg/img_city_market.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 441
+      "category": "city_transport_a1"
     },
     "img_city_supermarket": {
       "asset_path": "content/assets/svg/img_city_supermarket.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 441
+      "category": "city_transport_a1"
     },
     "img_city_park": {
       "asset_path": "content/assets/svg/img_city_park.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 441
+      "category": "city_transport_a1"
     },
     "img_city_bridge": {
       "asset_path": "content/assets/svg/img_city_bridge.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 365
+      "category": "city_transport_a1"
     },
     "img_city_traffic_light": {
       "asset_path": "content/assets/svg/img_city_traffic_light.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 355
+      "category": "city_transport_a1"
     },
     "img_city_crossroad": {
       "asset_path": "content/assets/svg/img_city_crossroad.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 365
+      "category": "city_transport_a1"
     },
     "img_city_parking": {
       "asset_path": "content/assets/svg/img_city_parking.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 365
+      "category": "city_transport_a1"
     },
     "img_city_museum": {
       "asset_path": "content/assets/svg/img_city_museum.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 441
+      "category": "city_transport_a1"
     },
     "img_city_school": {
       "asset_path": "content/assets/svg/img_city_school.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 441
+      "category": "city_transport_a1"
     },
     "img_city_library": {
       "asset_path": "content/assets/svg/img_city_library.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 441
+      "category": "city_transport_a1"
     },
     "img_nat_sun": {
       "asset_path": "content/assets/svg/img_nat_sun.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 310
+      "category": "nature_animals_a1"
     },
     "img_nat_moon": {
       "asset_path": "content/assets/svg/img_nat_moon.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 262
+      "category": "nature_animals_a1"
     },
     "img_nat_star": {
       "asset_path": "content/assets/svg/img_nat_star.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 310
+      "category": "nature_animals_a1"
     },
     "img_nat_sky": {
       "asset_path": "content/assets/svg/img_nat_sky.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 310
+      "category": "nature_animals_a1"
     },
     "img_nat_tree": {
       "asset_path": "content/assets/svg/img_nat_tree.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 317
+      "category": "nature_animals_a1"
     },
     "img_nat_flower": {
       "asset_path": "content/assets/svg/img_nat_flower.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 386
+      "category": "nature_animals_a1"
     },
     "img_nat_sea": {
       "asset_path": "content/assets/svg/img_nat_sea.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 231
+      "category": "nature_animals_a1"
     },
     "img_nat_river": {
       "asset_path": "content/assets/svg/img_nat_river.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 231
+      "category": "nature_animals_a1"
     },
     "img_nat_mountain": {
       "asset_path": "content/assets/svg/img_nat_mountain.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 269
+      "category": "nature_animals_a1"
     },
     "img_nat_rain": {
       "asset_path": "content/assets/svg/img_nat_rain.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 569
+      "category": "nature_animals_a1"
     },
     "img_nat_snow": {
       "asset_path": "content/assets/svg/img_nat_snow.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 569
+      "category": "nature_animals_a1"
     },
     "img_nat_wind": {
       "asset_path": "content/assets/svg/img_nat_wind.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 231
+      "category": "nature_animals_a1"
     },
     "img_nat_weather": {
       "asset_path": "content/assets/svg/img_nat_weather.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 310
+      "category": "nature_animals_a1"
     },
     "img_nat_dog": {
       "asset_path": "content/assets/svg/img_nat_dog.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 431
+      "category": "nature_animals_a1"
     },
     "img_nat_cat": {
       "asset_path": "content/assets/svg/img_nat_cat.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 431
+      "category": "nature_animals_a1"
     },
     "img_nat_bird": {
       "asset_path": "content/assets/svg/img_nat_bird.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 431
+      "category": "nature_animals_a1"
     },
     "img_nat_horse": {
       "asset_path": "content/assets/svg/img_nat_horse.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 431
+      "category": "nature_animals_a1"
     },
     "img_nat_cow": {
       "asset_path": "content/assets/svg/img_nat_cow.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 431
+      "category": "nature_animals_a1"
     },
     "img_nat_sheep": {
       "asset_path": "content/assets/svg/img_nat_sheep.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 431
+      "category": "nature_animals_a1"
     },
     "img_nat_fish": {
       "asset_path": "content/assets/svg/img_nat_fish.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 231
+      "category": "nature_animals_a1"
     },
     "img_nat_lion": {
       "asset_path": "content/assets/svg/img_nat_lion.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 431
+      "category": "nature_animals_a1"
     },
     "img_nat_mouse": {
       "asset_path": "content/assets/svg/img_nat_mouse.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 431
+      "category": "nature_animals_a1"
     },
     "img_nat_rabbit": {
       "asset_path": "content/assets/svg/img_nat_rabbit.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 431
+      "category": "nature_animals_a1"
     },
     "img_nat_duck": {
       "asset_path": "content/assets/svg/img_nat_duck.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 431
+      "category": "nature_animals_a1"
     },
     "img_nat_animal": {
       "asset_path": "content/assets/svg/img_nat_animal.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 382
+      "category": "nature_animals_a1"
     },
     "img_work_briefcase": {
       "asset_path": "content/assets/svg/img_work_briefcase.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 421
+      "category": "work_study_a1"
     },
     "img_work_badge": {
       "asset_path": "content/assets/svg/img_work_badge.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 306
+      "category": "work_study_a1"
     },
     "img_work_office": {
       "asset_path": "content/assets/svg/img_work_office.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 396
+      "category": "work_study_a1"
     },
     "img_work_teacher_m": {
       "asset_path": "content/assets/svg/img_work_teacher_m.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 320
+      "category": "work_study_a1"
     },
     "img_work_teacher_f": {
       "asset_path": "content/assets/svg/img_work_teacher_f.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 345
+      "category": "work_study_a1"
     },
     "img_work_doctor_m": {
       "asset_path": "content/assets/svg/img_work_doctor_m.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 320
+      "category": "work_study_a1"
     },
     "img_work_doctor_f": {
       "asset_path": "content/assets/svg/img_work_doctor_f.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 345
+      "category": "work_study_a1"
     },
     "img_work_engineer_m": {
       "asset_path": "content/assets/svg/img_work_engineer_m.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 320
+      "category": "work_study_a1"
     },
     "img_work_engineer_f": {
       "asset_path": "content/assets/svg/img_work_engineer_f.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 345
+      "category": "work_study_a1"
     },
     "img_work_student_m": {
       "asset_path": "content/assets/svg/img_work_student_m.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 320
+      "category": "work_study_a1"
     },
     "img_work_student_f": {
       "asset_path": "content/assets/svg/img_work_student_f.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 345
+      "category": "work_study_a1"
     },
     "img_work_university": {
       "asset_path": "content/assets/svg/img_work_university.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 421
+      "category": "work_study_a1"
     },
     "img_work_book": {
       "asset_path": "content/assets/svg/img_work_book.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 332
+      "category": "work_study_a1"
     },
     "img_work_pen": {
       "asset_path": "content/assets/svg/img_work_pen.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 287
+      "category": "work_study_a1"
     },
     "img_work_notebook": {
       "asset_path": "content/assets/svg/img_work_notebook.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 332
+      "category": "work_study_a1"
     },
     "img_work_computer": {
       "asset_path": "content/assets/svg/img_work_computer.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 396
+      "category": "work_study_a1"
     },
     "img_work_boss": {
       "asset_path": "content/assets/svg/img_work_boss.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 320
+      "category": "work_study_a1"
     },
     "img_work_colleague": {
       "asset_path": "content/assets/svg/img_work_colleague.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 320
+      "category": "work_study_a1"
     },
     "img_work_meeting": {
       "asset_path": "content/assets/svg/img_work_meeting.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 421
+      "category": "work_study_a1"
     },
     "img_work_salary": {
       "asset_path": "content/assets/svg/img_work_salary.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 306
+      "category": "work_study_a1"
     },
     "img_work_break": {
       "asset_path": "content/assets/svg/img_work_break.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 306
+      "category": "work_study_a1"
     },
     "img_work_question": {
       "asset_path": "content/assets/svg/img_work_question.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 389
+      "category": "work_study_a1"
     },
     "img_work_answer": {
       "asset_path": "content/assets/svg/img_work_answer.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 389
+      "category": "work_study_a1"
     },
     "img_work_language": {
       "asset_path": "content/assets/svg/img_work_language.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 332
+      "category": "work_study_a1"
     },
     "img_work_lesson": {
       "asset_path": "content/assets/svg/img_work_lesson.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 332
+      "category": "work_study_a1"
     },
     "img_feel_happy": {
       "asset_path": "content/assets/svg/img_feel_happy.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 381
+      "category": "feelings_adjectives_a1"
     },
     "img_feel_sad": {
       "asset_path": "content/assets/svg/img_feel_sad.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 381
+      "category": "feelings_adjectives_a1"
     },
     "img_feel_big": {
       "asset_path": "content/assets/svg/img_feel_big.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 280
+      "category": "feelings_adjectives_a1"
     },
     "img_feel_small": {
       "asset_path": "content/assets/svg/img_feel_small.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 260
+      "category": "feelings_adjectives_a1"
     },
     "img_feel_good": {
       "asset_path": "content/assets/svg/img_feel_good.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 320
+      "category": "feelings_adjectives_a1"
     },
     "img_feel_bad": {
       "asset_path": "content/assets/svg/img_feel_bad.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 384
+      "category": "feelings_adjectives_a1"
     },
     "img_feel_hot": {
       "asset_path": "content/assets/svg/img_feel_hot.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 381
+      "category": "feelings_adjectives_a1"
     },
     "img_feel_cold": {
       "asset_path": "content/assets/svg/img_feel_cold.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 381
+      "category": "feelings_adjectives_a1"
     },
     "img_feel_fast": {
       "asset_path": "content/assets/svg/img_feel_fast.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 280
+      "category": "feelings_adjectives_a1"
     },
     "img_feel_slow": {
       "asset_path": "content/assets/svg/img_feel_slow.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 260
+      "category": "feelings_adjectives_a1"
     },
     "img_feel_tired": {
       "asset_path": "content/assets/svg/img_feel_tired.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 381
+      "category": "feelings_adjectives_a1"
     },
     "img_feel_active": {
       "asset_path": "content/assets/svg/img_feel_active.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 381
+      "category": "feelings_adjectives_a1"
     },
     "img_feel_new": {
       "asset_path": "content/assets/svg/img_feel_new.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 320
+      "category": "feelings_adjectives_a1"
     },
     "img_feel_old": {
       "asset_path": "content/assets/svg/img_feel_old.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 260
+      "category": "feelings_adjectives_a1"
     },
     "img_feel_beautiful": {
       "asset_path": "content/assets/svg/img_feel_beautiful.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 262
+      "category": "feelings_adjectives_a1"
     },
     "img_feel_ugly": {
       "asset_path": "content/assets/svg/img_feel_ugly.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 381
+      "category": "feelings_adjectives_a1"
     },
     "img_feel_easy": {
       "asset_path": "content/assets/svg/img_feel_easy.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 320
+      "category": "feelings_adjectives_a1"
     },
     "img_feel_difficult": {
       "asset_path": "content/assets/svg/img_feel_difficult.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 384
+      "category": "feelings_adjectives_a1"
     },
     "img_feel_rich": {
       "asset_path": "content/assets/svg/img_feel_rich.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 280
+      "category": "feelings_adjectives_a1"
     },
     "img_feel_poor": {
       "asset_path": "content/assets/svg/img_feel_poor.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 260
+      "category": "feelings_adjectives_a1"
     },
     "img_feel_hungry": {
       "asset_path": "content/assets/svg/img_feel_hungry.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 381
+      "category": "feelings_adjectives_a1"
     },
     "img_feel_thirsty": {
       "asset_path": "content/assets/svg/img_feel_thirsty.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 381
+      "category": "feelings_adjectives_a1"
     },
     "img_feel_friendly": {
       "asset_path": "content/assets/svg/img_feel_friendly.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 381
+      "category": "feelings_adjectives_a1"
     },
     "img_feel_angry": {
       "asset_path": "content/assets/svg/img_feel_angry.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 494
+      "category": "feelings_adjectives_a1"
     },
     "img_feel_heart": {
       "asset_path": "content/assets/svg/img_feel_heart.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 262
+      "category": "feelings_adjectives_a1"
     },
     "img_travel_globe": {
       "asset_path": "content/assets/svg/img_travel_globe.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 390
+      "category": "travel_hotel_a1"
     },
     "img_travel_palm": {
       "asset_path": "content/assets/svg/img_travel_palm.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 343
+      "category": "travel_hotel_a1"
     },
     "img_travel_passport": {
       "asset_path": "content/assets/svg/img_travel_passport.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 362
+      "category": "travel_hotel_a1"
     },
     "img_travel_visa": {
       "asset_path": "content/assets/svg/img_travel_visa.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 343
+      "category": "travel_hotel_a1"
     },
     "img_travel_luggage": {
       "asset_path": "content/assets/svg/img_travel_luggage.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 454
+      "category": "travel_hotel_a1"
     },
     "img_travel_suitcase": {
       "asset_path": "content/assets/svg/img_travel_suitcase.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 454
+      "category": "travel_hotel_a1"
     },
     "img_travel_flight": {
       "asset_path": "content/assets/svg/img_travel_flight.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 390
+      "category": "travel_hotel_a1"
     },
     "img_travel_boarding": {
       "asset_path": "content/assets/svg/img_travel_boarding.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 343
+      "category": "travel_hotel_a1"
     },
     "img_travel_reception": {
       "asset_path": "content/assets/svg/img_travel_reception.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 393
+      "category": "travel_hotel_a1"
     },
     "img_travel_booking": {
       "asset_path": "content/assets/svg/img_travel_booking.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 343
+      "category": "travel_hotel_a1"
     },
     "img_travel_single_room": {
       "asset_path": "content/assets/svg/img_travel_single_room.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 393
+      "category": "travel_hotel_a1"
     },
     "img_travel_double_room": {
       "asset_path": "content/assets/svg/img_travel_double_room.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 393
+      "category": "travel_hotel_a1"
     },
     "img_travel_keycard": {
       "asset_path": "content/assets/svg/img_travel_keycard.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 343
+      "category": "travel_hotel_a1"
     },
     "img_travel_tourist": {
       "asset_path": "content/assets/svg/img_travel_tourist.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 365
+      "category": "travel_hotel_a1"
     },
     "img_travel_guide": {
       "asset_path": "content/assets/svg/img_travel_guide.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 390
+      "category": "travel_hotel_a1"
     },
     "img_travel_map": {
       "asset_path": "content/assets/svg/img_travel_map.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 343
+      "category": "travel_hotel_a1"
     },
     "img_travel_beach": {
       "asset_path": "content/assets/svg/img_travel_beach.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 343
+      "category": "travel_hotel_a1"
     },
     "img_travel_island": {
       "asset_path": "content/assets/svg/img_travel_island.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 343
+      "category": "travel_hotel_a1"
     },
     "img_travel_border": {
       "asset_path": "content/assets/svg/img_travel_border.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 362
+      "category": "travel_hotel_a1"
     },
     "img_travel_exchange": {
       "asset_path": "content/assets/svg/img_travel_exchange.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 343
+      "category": "travel_hotel_a1"
     },
     "img_travel_souvenir": {
       "asset_path": "content/assets/svg/img_travel_souvenir.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 365
+      "category": "travel_hotel_a1"
     },
     "img_travel_camera": {
       "asset_path": "content/assets/svg/img_travel_camera.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 365
+      "category": "travel_hotel_a1"
     },
     "img_travel_restaurant": {
       "asset_path": "content/assets/svg/img_travel_restaurant.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 393
+      "category": "travel_hotel_a1"
     },
     "img_travel_bill": {
       "asset_path": "content/assets/svg/img_travel_bill.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 343
+      "category": "travel_hotel_a1"
     },
     "img_travel_trip": {
       "asset_path": "content/assets/svg/img_travel_trip.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 390
-    },
-    "img_prep_in": {
-      "asset_path": "content/assets/svg/img_prep_in.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 295
-    },
-    "img_prep_auf": {
-      "asset_path": "content/assets/svg/img_prep_auf.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 264
-    },
-    "img_prep_unter": {
-      "asset_path": "content/assets/svg/img_prep_unter.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 264
-    },
-    "img_prep_hinter": {
-      "asset_path": "content/assets/svg/img_prep_hinter.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 264
-    },
-    "img_prep_vor": {
-      "asset_path": "content/assets/svg/img_prep_vor.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 264
-    },
-    "img_prep_neben": {
-      "asset_path": "content/assets/svg/img_prep_neben.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 264
-    },
-    "img_prep_zwischen": {
-      "asset_path": "content/assets/svg/img_prep_zwischen.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 329
-    },
-    "img_prep_ueber": {
-      "asset_path": "content/assets/svg/img_prep_ueber.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 264
-    },
-    "img_prep_an": {
-      "asset_path": "content/assets/svg/img_prep_an.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 264
-    },
-    "img_prep_mit": {
-      "asset_path": "content/assets/svg/img_prep_mit.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 322
-    },
-    "img_prep_nach": {
-      "asset_path": "content/assets/svg/img_prep_nach.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 322
-    },
-    "img_prep_zu": {
-      "asset_path": "content/assets/svg/img_prep_zu.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 322
-    },
-    "img_prep_aus": {
-      "asset_path": "content/assets/svg/img_prep_aus.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 322
-    },
-    "img_prep_von": {
-      "asset_path": "content/assets/svg/img_prep_von.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 322
-    },
-    "img_prep_bei": {
-      "asset_path": "content/assets/svg/img_prep_bei.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 264
-    },
-    "img_prep_fuer": {
-      "asset_path": "content/assets/svg/img_prep_fuer.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 322
-    },
-    "img_prep_ohne": {
-      "asset_path": "content/assets/svg/img_prep_ohne.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 264
-    },
-    "img_prep_durch": {
-      "asset_path": "content/assets/svg/img_prep_durch.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 295
-    },
-    "img_prep_um": {
-      "asset_path": "content/assets/svg/img_prep_um.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 275
-    },
-    "img_prep_bis": {
-      "asset_path": "content/assets/svg/img_prep_bis.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 322
-    },
-    "img_dial_meeting": {
-      "asset_path": "content/assets/svg/img_dial_meeting.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 822
-    },
-    "img_dial_cafe": {
-      "asset_path": "content/assets/svg/img_dial_cafe.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 822
-    },
-    "img_dial_supermarket": {
-      "asset_path": "content/assets/svg/img_dial_supermarket.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 822
-    },
-    "img_dial_directions": {
-      "asset_path": "content/assets/svg/img_dial_directions.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 822
-    },
-    "img_dial_hotel": {
-      "asset_path": "content/assets/svg/img_dial_hotel.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 822
+      "category": "travel_hotel_a1"
     },
     "img_shop_bag": {
       "asset_path": "content/assets/svg/img_shop_bag.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 308
+      "category": "shopping_money_a1"
     },
     "img_shop_cash": {
       "asset_path": "content/assets/svg/img_shop_cash.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 354
+      "category": "shopping_money_a1"
     },
     "img_shop_price_tag": {
       "asset_path": "content/assets/svg/img_shop_price_tag.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 257
+      "category": "shopping_money_a1"
     },
     "img_shop_expensive": {
       "asset_path": "content/assets/svg/img_shop_expensive.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 257
+      "category": "shopping_money_a1"
     },
     "img_shop_cheap": {
       "asset_path": "content/assets/svg/img_shop_cheap.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 257
+      "category": "shopping_money_a1"
     },
     "img_shop_card": {
       "asset_path": "content/assets/svg/img_shop_card.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 352
+      "category": "shopping_money_a1"
     },
     "img_shop_receipt": {
       "asset_path": "content/assets/svg/img_shop_receipt.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 257
+      "category": "shopping_money_a1"
     },
     "img_shop_discount": {
       "asset_path": "content/assets/svg/img_shop_discount.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 257
+      "category": "shopping_money_a1"
     },
     "img_shop_cashier": {
       "asset_path": "content/assets/svg/img_shop_cashier.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 352
+      "category": "shopping_money_a1"
     },
     "img_shop_cart": {
       "asset_path": "content/assets/svg/img_shop_cart.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 380
+      "category": "shopping_money_a1"
     },
     "img_shop_basket": {
       "asset_path": "content/assets/svg/img_shop_basket.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 380
+      "category": "shopping_money_a1"
     },
     "img_shop_store": {
       "asset_path": "content/assets/svg/img_shop_store.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 324
+      "category": "shopping_money_a1"
     },
     "img_shop_bakery": {
       "asset_path": "content/assets/svg/img_shop_bakery.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 324
+      "category": "shopping_money_a1"
     },
     "img_shop_butcher": {
       "asset_path": "content/assets/svg/img_shop_butcher.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 324
+      "category": "shopping_money_a1"
     },
     "img_shop_customer": {
       "asset_path": "content/assets/svg/img_shop_customer.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 308
+      "category": "shopping_money_a1"
     },
     "img_shop_seller": {
       "asset_path": "content/assets/svg/img_shop_seller.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 352
+      "category": "shopping_money_a1"
     },
     "img_shop_size": {
       "asset_path": "content/assets/svg/img_shop_size.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 257
+      "category": "shopping_money_a1"
     },
     "img_shop_fitting": {
       "asset_path": "content/assets/svg/img_shop_fitting.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 324
+      "category": "shopping_money_a1"
     },
     "img_shop_coin": {
       "asset_path": "content/assets/svg/img_shop_coin.svg",
-      "format": "svg",
-      "ownership": "Project Original",
-      "license": "CC0-1.0",
-      "size_bytes": 354
+      "category": "shopping_money_a1"
+    },
+    "img_hob_palette": {
+      "asset_path": "content/assets/svg/img_hob_palette.svg",
+      "category": "hobbies_sports_a1"
+    },
+    "img_hob_medal": {
+      "asset_path": "content/assets/svg/img_hob_medal.svg",
+      "category": "hobbies_sports_a1"
+    },
+    "img_hob_football": {
+      "asset_path": "content/assets/svg/img_hob_football.svg",
+      "category": "hobbies_sports_a1"
+    },
+    "img_hob_swimming": {
+      "asset_path": "content/assets/svg/img_hob_swimming.svg",
+      "category": "hobbies_sports_a1"
+    },
+    "img_hob_book": {
+      "asset_path": "content/assets/svg/img_hob_book.svg",
+      "category": "hobbies_sports_a1"
+    },
+    "img_hob_music": {
+      "asset_path": "content/assets/svg/img_hob_music.svg",
+      "category": "hobbies_sports_a1"
+    },
+    "img_hob_drawing": {
+      "asset_path": "content/assets/svg/img_hob_drawing.svg",
+      "category": "hobbies_sports_a1"
+    },
+    "img_hob_camera": {
+      "asset_path": "content/assets/svg/img_hob_camera.svg",
+      "category": "hobbies_sports_a1"
+    },
+    "img_hob_cooking": {
+      "asset_path": "content/assets/svg/img_hob_cooking.svg",
+      "category": "hobbies_sports_a1"
+    },
+    "img_hob_running": {
+      "asset_path": "content/assets/svg/img_hob_running.svg",
+      "category": "hobbies_sports_a1"
+    },
+    "img_hob_cycling": {
+      "asset_path": "content/assets/svg/img_hob_cycling.svg",
+      "category": "hobbies_sports_a1"
+    },
+    "img_hob_gamepad": {
+      "asset_path": "content/assets/svg/img_hob_gamepad.svg",
+      "category": "hobbies_sports_a1"
+    },
+    "img_hob_cinema": {
+      "asset_path": "content/assets/svg/img_hob_cinema.svg",
+      "category": "hobbies_sports_a1"
+    },
+    "img_hob_theatre": {
+      "asset_path": "content/assets/svg/img_hob_theatre.svg",
+      "category": "hobbies_sports_a1"
+    },
+    "img_hob_guitar": {
+      "asset_path": "content/assets/svg/img_hob_guitar.svg",
+      "category": "hobbies_sports_a1"
+    },
+    "img_hob_piano": {
+      "asset_path": "content/assets/svg/img_hob_piano.svg",
+      "category": "hobbies_sports_a1"
+    },
+    "img_hob_dance": {
+      "asset_path": "content/assets/svg/img_hob_dance.svg",
+      "category": "hobbies_sports_a1"
+    },
+    "img_hob_basketball": {
+      "asset_path": "content/assets/svg/img_hob_basketball.svg",
+      "category": "hobbies_sports_a1"
+    },
+    "img_hob_tennis": {
+      "asset_path": "content/assets/svg/img_hob_tennis.svg",
+      "category": "hobbies_sports_a1"
+    },
+    "img_hob_gardening": {
+      "asset_path": "content/assets/svg/img_hob_gardening.svg",
+      "category": "hobbies_sports_a1"
+    },
+    "img_hob_fishing": {
+      "asset_path": "content/assets/svg/img_hob_fishing.svg",
+      "category": "hobbies_sports_a1"
+    },
+    "img_hob_hiking": {
+      "asset_path": "content/assets/svg/img_hob_hiking.svg",
+      "category": "hobbies_sports_a1"
+    },
+    "img_hob_ball": {
+      "asset_path": "content/assets/svg/img_hob_ball.svg",
+      "category": "hobbies_sports_a1"
+    },
+    "img_hob_club": {
+      "asset_path": "content/assets/svg/img_hob_club.svg",
+      "category": "hobbies_sports_a1"
+    },
+    "img_hob_clock": {
+      "asset_path": "content/assets/svg/img_hob_clock.svg",
+      "category": "hobbies_sports_a1"
+    },
+    "img_edu_school": {
+      "asset_path": "content/assets/svg/img_edu_school.svg",
+      "category": "education_school_a1"
+    },
+    "img_edu_classroom": {
+      "asset_path": "content/assets/svg/img_edu_classroom.svg",
+      "category": "education_school_a1"
+    },
+    "img_edu_teacher_m": {
+      "asset_path": "content/assets/svg/img_edu_teacher_m.svg",
+      "category": "education_school_a1"
+    },
+    "img_edu_teacher_f": {
+      "asset_path": "content/assets/svg/img_edu_teacher_f.svg",
+      "category": "education_school_a1"
+    },
+    "img_edu_student_m": {
+      "asset_path": "content/assets/svg/img_edu_student_m.svg",
+      "category": "education_school_a1"
+    },
+    "img_edu_student_f": {
+      "asset_path": "content/assets/svg/img_edu_student_f.svg",
+      "category": "education_school_a1"
+    },
+    "img_edu_university": {
+      "asset_path": "content/assets/svg/img_edu_university.svg",
+      "category": "education_school_a1"
+    },
+    "img_edu_library": {
+      "asset_path": "content/assets/svg/img_edu_library.svg",
+      "category": "education_school_a1"
+    },
+    "img_edu_book": {
+      "asset_path": "content/assets/svg/img_edu_book.svg",
+      "category": "education_school_a1"
+    },
+    "img_edu_notebook": {
+      "asset_path": "content/assets/svg/img_edu_notebook.svg",
+      "category": "education_school_a1"
+    },
+    "img_edu_pen": {
+      "asset_path": "content/assets/svg/img_edu_pen.svg",
+      "category": "education_school_a1"
+    },
+    "img_edu_pencil": {
+      "asset_path": "content/assets/svg/img_edu_pencil.svg",
+      "category": "education_school_a1"
+    },
+    "img_edu_eraser": {
+      "asset_path": "content/assets/svg/img_edu_eraser.svg",
+      "category": "education_school_a1"
+    },
+    "img_edu_ruler": {
+      "asset_path": "content/assets/svg/img_edu_ruler.svg",
+      "category": "education_school_a1"
+    },
+    "img_edu_backpack": {
+      "asset_path": "content/assets/svg/img_edu_backpack.svg",
+      "category": "education_school_a1"
+    },
+    "img_edu_blackboard": {
+      "asset_path": "content/assets/svg/img_edu_blackboard.svg",
+      "category": "education_school_a1"
+    },
+    "img_edu_lesson": {
+      "asset_path": "content/assets/svg/img_edu_lesson.svg",
+      "category": "education_school_a1"
+    },
+    "img_edu_homework": {
+      "asset_path": "content/assets/svg/img_edu_homework.svg",
+      "category": "education_school_a1"
+    },
+    "img_edu_exam": {
+      "asset_path": "content/assets/svg/img_edu_exam.svg",
+      "category": "education_school_a1"
+    },
+    "img_edu_grade": {
+      "asset_path": "content/assets/svg/img_edu_grade.svg",
+      "category": "education_school_a1"
+    },
+    "img_edu_question": {
+      "asset_path": "content/assets/svg/img_edu_question.svg",
+      "category": "education_school_a1"
+    },
+    "img_edu_answer": {
+      "asset_path": "content/assets/svg/img_edu_answer.svg",
+      "category": "education_school_a1"
+    },
+    "img_edu_dictionary": {
+      "asset_path": "content/assets/svg/img_edu_dictionary.svg",
+      "category": "education_school_a1"
+    },
+    "img_edu_break": {
+      "asset_path": "content/assets/svg/img_edu_break.svg",
+      "category": "education_school_a1"
+    },
+    "img_edu_desk": {
+      "asset_path": "content/assets/svg/img_edu_desk.svg",
+      "category": "education_school_a1"
+    },
+    "img_adj_fast": {
+      "asset_path": "content/assets/svg/img_adj_fast.svg",
+      "category": "qualities_adjectives_a1"
+    },
+    "img_adj_slow": {
+      "asset_path": "content/assets/svg/img_adj_slow.svg",
+      "category": "qualities_adjectives_a1"
+    },
+    "img_adj_easy": {
+      "asset_path": "content/assets/svg/img_adj_easy.svg",
+      "category": "qualities_adjectives_a1"
+    },
+    "img_adj_difficult": {
+      "asset_path": "content/assets/svg/img_adj_difficult.svg",
+      "category": "qualities_adjectives_a1"
+    },
+    "img_adj_heavy": {
+      "asset_path": "content/assets/svg/img_adj_heavy.svg",
+      "category": "qualities_adjectives_a1"
+    },
+    "img_adj_light_weight": {
+      "asset_path": "content/assets/svg/img_adj_light_weight.svg",
+      "category": "qualities_adjectives_a1"
+    },
+    "img_adj_clean": {
+      "asset_path": "content/assets/svg/img_adj_clean.svg",
+      "category": "qualities_adjectives_a1"
+    },
+    "img_adj_dirty": {
+      "asset_path": "content/assets/svg/img_adj_dirty.svg",
+      "category": "qualities_adjectives_a1"
+    },
+    "img_adj_expensive": {
+      "asset_path": "content/assets/svg/img_adj_expensive.svg",
+      "category": "qualities_adjectives_a1"
+    },
+    "img_adj_cheap": {
+      "asset_path": "content/assets/svg/img_adj_cheap.svg",
+      "category": "qualities_adjectives_a1"
+    },
+    "img_adj_strong": {
+      "asset_path": "content/assets/svg/img_adj_strong.svg",
+      "category": "qualities_adjectives_a1"
+    },
+    "img_adj_weak": {
+      "asset_path": "content/assets/svg/img_adj_weak.svg",
+      "category": "qualities_adjectives_a1"
+    },
+    "img_adj_quiet": {
+      "asset_path": "content/assets/svg/img_adj_quiet.svg",
+      "category": "qualities_adjectives_a1"
+    },
+    "img_adj_loud": {
+      "asset_path": "content/assets/svg/img_adj_loud.svg",
+      "category": "qualities_adjectives_a1"
+    },
+    "img_adj_early": {
+      "asset_path": "content/assets/svg/img_adj_early.svg",
+      "category": "qualities_adjectives_a1"
+    },
+    "img_adj_late": {
+      "asset_path": "content/assets/svg/img_adj_late.svg",
+      "category": "qualities_adjectives_a1"
+    },
+    "img_adj_near": {
+      "asset_path": "content/assets/svg/img_adj_near.svg",
+      "category": "qualities_adjectives_a1"
+    },
+    "img_adj_far": {
+      "asset_path": "content/assets/svg/img_adj_far.svg",
+      "category": "qualities_adjectives_a1"
+    },
+    "img_adj_bright": {
+      "asset_path": "content/assets/svg/img_adj_bright.svg",
+      "category": "qualities_adjectives_a1"
+    },
+    "img_adj_dark": {
+      "asset_path": "content/assets/svg/img_adj_dark.svg",
+      "category": "qualities_adjectives_a1"
+    },
+    "img_adj_sweet": {
+      "asset_path": "content/assets/svg/img_adj_sweet.svg",
+      "category": "qualities_adjectives_a1"
+    },
+    "img_adj_sour": {
+      "asset_path": "content/assets/svg/img_adj_sour.svg",
+      "category": "qualities_adjectives_a1"
+    },
+    "img_adj_safe": {
+      "asset_path": "content/assets/svg/img_adj_safe.svg",
+      "category": "qualities_adjectives_a1"
+    },
+    "img_adj_dangerous": {
+      "asset_path": "content/assets/svg/img_adj_dangerous.svg",
+      "category": "qualities_adjectives_a1"
+    },
+    "img_adj_important": {
+      "asset_path": "content/assets/svg/img_adj_important.svg",
+      "category": "qualities_adjectives_a1"
+    },
+    "img_tech_computer": {
+      "asset_path": "content/assets/svg/img_tech_computer.svg",
+      "category": "technology_digital_a1"
+    },
+    "img_tech_laptop": {
+      "asset_path": "content/assets/svg/img_tech_laptop.svg",
+      "category": "technology_digital_a1"
+    },
+    "img_tech_smartphone": {
+      "asset_path": "content/assets/svg/img_tech_smartphone.svg",
+      "category": "technology_digital_a1"
+    },
+    "img_tech_tablet": {
+      "asset_path": "content/assets/svg/img_tech_tablet.svg",
+      "category": "technology_digital_a1"
+    },
+    "img_tech_keyboard": {
+      "asset_path": "content/assets/svg/img_tech_keyboard.svg",
+      "category": "technology_digital_a1"
+    },
+    "img_tech_mouse": {
+      "asset_path": "content/assets/svg/img_tech_mouse.svg",
+      "category": "technology_digital_a1"
+    },
+    "img_tech_screen": {
+      "asset_path": "content/assets/svg/img_tech_screen.svg",
+      "category": "technology_digital_a1"
+    },
+    "img_tech_headphones": {
+      "asset_path": "content/assets/svg/img_tech_headphones.svg",
+      "category": "technology_digital_a1"
+    },
+    "img_tech_internet": {
+      "asset_path": "content/assets/svg/img_tech_internet.svg",
+      "category": "technology_digital_a1"
+    },
+    "img_tech_website": {
+      "asset_path": "content/assets/svg/img_tech_website.svg",
+      "category": "technology_digital_a1"
+    },
+    "img_tech_email": {
+      "asset_path": "content/assets/svg/img_tech_email.svg",
+      "category": "technology_digital_a1"
+    },
+    "img_tech_password": {
+      "asset_path": "content/assets/svg/img_tech_password.svg",
+      "category": "technology_digital_a1"
+    },
+    "img_tech_app": {
+      "asset_path": "content/assets/svg/img_tech_app.svg",
+      "category": "technology_digital_a1"
+    },
+    "img_tech_download": {
+      "asset_path": "content/assets/svg/img_tech_download.svg",
+      "category": "technology_digital_a1"
+    },
+    "img_tech_camera": {
+      "asset_path": "content/assets/svg/img_tech_camera.svg",
+      "category": "technology_digital_a1"
+    },
+    "img_tech_battery": {
+      "asset_path": "content/assets/svg/img_tech_battery.svg",
+      "category": "technology_digital_a1"
+    },
+    "img_tech_charger": {
+      "asset_path": "content/assets/svg/img_tech_charger.svg",
+      "category": "technology_digital_a1"
+    },
+    "img_tech_printer": {
+      "asset_path": "content/assets/svg/img_tech_printer.svg",
+      "category": "technology_digital_a1"
+    },
+    "img_tech_wifi": {
+      "asset_path": "content/assets/svg/img_tech_wifi.svg",
+      "category": "technology_digital_a1"
+    },
+    "img_tech_file": {
+      "asset_path": "content/assets/svg/img_tech_file.svg",
+      "category": "technology_digital_a1"
+    },
+    "img_tech_folder": {
+      "asset_path": "content/assets/svg/img_tech_folder.svg",
+      "category": "technology_digital_a1"
+    },
+    "img_tech_message": {
+      "asset_path": "content/assets/svg/img_tech_message.svg",
+      "category": "technology_digital_a1"
+    },
+    "img_tech_link": {
+      "asset_path": "content/assets/svg/img_tech_link.svg",
+      "category": "technology_digital_a1"
+    },
+    "img_tech_social_media": {
+      "asset_path": "content/assets/svg/img_tech_social_media.svg",
+      "category": "technology_digital_a1"
+    },
+    "img_tech_video_call": {
+      "asset_path": "content/assets/svg/img_tech_video_call.svg",
+      "category": "technology_digital_a1"
+    },
+    "img_cul_museum": {
+      "asset_path": "content/assets/svg/img_cul_museum.svg",
+      "category": "culture_media_a1"
+    },
+    "img_cul_theater": {
+      "asset_path": "content/assets/svg/img_cul_theater.svg",
+      "category": "culture_media_a1"
+    },
+    "img_cul_cinema": {
+      "asset_path": "content/assets/svg/img_cul_cinema.svg",
+      "category": "culture_media_a1"
+    },
+    "img_cul_concert": {
+      "asset_path": "content/assets/svg/img_cul_concert.svg",
+      "category": "culture_media_a1"
+    },
+    "img_cul_music": {
+      "asset_path": "content/assets/svg/img_cul_music.svg",
+      "category": "culture_media_a1"
+    },
+    "img_cul_art": {
+      "asset_path": "content/assets/svg/img_cul_art.svg",
+      "category": "culture_media_a1"
+    },
+    "img_cul_painting": {
+      "asset_path": "content/assets/svg/img_cul_painting.svg",
+      "category": "culture_media_a1"
+    },
+    "img_cul_statue": {
+      "asset_path": "content/assets/svg/img_cul_statue.svg",
+      "category": "culture_media_a1"
+    },
+    "img_cul_newspaper": {
+      "asset_path": "content/assets/svg/img_cul_newspaper.svg",
+      "category": "culture_media_a1"
+    },
+    "img_cul_magazine": {
+      "asset_path": "content/assets/svg/img_cul_magazine.svg",
+      "category": "culture_media_a1"
+    },
+    "img_cul_television": {
+      "asset_path": "content/assets/svg/img_cul_television.svg",
+      "category": "culture_media_a1"
+    },
+    "img_cul_radio": {
+      "asset_path": "content/assets/svg/img_cul_radio.svg",
+      "category": "culture_media_a1"
+    },
+    "img_cul_news": {
+      "asset_path": "content/assets/svg/img_cul_news.svg",
+      "category": "culture_media_a1"
+    },
+    "img_cul_movie": {
+      "asset_path": "content/assets/svg/img_cul_movie.svg",
+      "category": "culture_media_a1"
+    },
+    "img_cul_actor": {
+      "asset_path": "content/assets/svg/img_cul_actor.svg",
+      "category": "culture_media_a1"
+    },
+    "img_cul_actress": {
+      "asset_path": "content/assets/svg/img_cul_actress.svg",
+      "category": "culture_media_a1"
+    },
+    "img_cul_author": {
+      "asset_path": "content/assets/svg/img_cul_author.svg",
+      "category": "culture_media_a1"
+    },
+    "img_cul_song": {
+      "asset_path": "content/assets/svg/img_cul_song.svg",
+      "category": "culture_media_a1"
+    },
+    "img_cul_instrument": {
+      "asset_path": "content/assets/svg/img_cul_instrument.svg",
+      "category": "culture_media_a1"
+    },
+    "img_cul_guitar": {
+      "asset_path": "content/assets/svg/img_cul_guitar.svg",
+      "category": "culture_media_a1"
+    },
+    "img_cul_piano": {
+      "asset_path": "content/assets/svg/img_cul_piano.svg",
+      "category": "culture_media_a1"
+    },
+    "img_cul_exhibition": {
+      "asset_path": "content/assets/svg/img_cul_exhibition.svg",
+      "category": "culture_media_a1"
+    },
+    "img_cul_ticket": {
+      "asset_path": "content/assets/svg/img_cul_ticket.svg",
+      "category": "culture_media_a1"
+    },
+    "img_cul_culture": {
+      "asset_path": "content/assets/svg/img_cul_culture.svg",
+      "category": "culture_media_a1"
+    },
+    "img_cul_history": {
+      "asset_path": "content/assets/svg/img_cul_history.svg",
+      "category": "culture_media_a1"
+    },
+    "img_cel_celebration": {
+      "asset_path": "content/assets/svg/img_cel_celebration.svg",
+      "category": "celebrations_social_a1"
+    },
+    "img_cel_birthday": {
+      "asset_path": "content/assets/svg/img_cel_birthday.svg",
+      "category": "celebrations_social_a1"
+    },
+    "img_cel_gift": {
+      "asset_path": "content/assets/svg/img_cel_gift.svg",
+      "category": "celebrations_social_a1"
+    },
+    "img_cel_invitation": {
+      "asset_path": "content/assets/svg/img_cel_invitation.svg",
+      "category": "celebrations_social_a1"
+    },
+    "img_cel_guest": {
+      "asset_path": "content/assets/svg/img_cel_guest.svg",
+      "category": "celebrations_social_a1"
+    },
+    "img_cel_party": {
+      "asset_path": "content/assets/svg/img_cel_party.svg",
+      "category": "celebrations_social_a1"
+    },
+    "img_cel_holiday": {
+      "asset_path": "content/assets/svg/img_cel_holiday.svg",
+      "category": "celebrations_social_a1"
+    },
+    "img_cel_wedding": {
+      "asset_path": "content/assets/svg/img_cel_wedding.svg",
+      "category": "celebrations_social_a1"
+    },
+    "img_cel_congratulation": {
+      "asset_path": "content/assets/svg/img_cel_congratulation.svg",
+      "category": "celebrations_social_a1"
+    },
+    "img_cel_greeting": {
+      "asset_path": "content/assets/svg/img_cel_greeting.svg",
+      "category": "celebrations_social_a1"
+    },
+    "img_cel_flower": {
+      "asset_path": "content/assets/svg/img_cel_flower.svg",
+      "category": "celebrations_social_a1"
+    },
+    "img_cel_candle": {
+      "asset_path": "content/assets/svg/img_cel_candle.svg",
+      "category": "celebrations_social_a1"
+    },
+    "img_cel_cake": {
+      "asset_path": "content/assets/svg/img_cel_cake.svg",
+      "category": "celebrations_social_a1"
+    },
+    "img_cel_balloon": {
+      "asset_path": "content/assets/svg/img_cel_balloon.svg",
+      "category": "celebrations_social_a1"
+    },
+    "img_cel_toast": {
+      "asset_path": "content/assets/svg/img_cel_toast.svg",
+      "category": "celebrations_social_a1"
+    },
+    "img_cel_friendship": {
+      "asset_path": "content/assets/svg/img_cel_friendship.svg",
+      "category": "celebrations_social_a1"
+    },
+    "img_cel_meeting": {
+      "asset_path": "content/assets/svg/img_cel_meeting.svg",
+      "category": "celebrations_social_a1"
+    },
+    "img_cel_visit": {
+      "asset_path": "content/assets/svg/img_cel_visit.svg",
+      "category": "celebrations_social_a1"
+    },
+    "img_cel_tradition": {
+      "asset_path": "content/assets/svg/img_cel_tradition.svg",
+      "category": "celebrations_social_a1"
+    },
+    "img_cel_new_year": {
+      "asset_path": "content/assets/svg/img_cel_new_year.svg",
+      "category": "celebrations_social_a1"
+    },
+    "img_cel_eid_festival": {
+      "asset_path": "content/assets/svg/img_cel_eid_festival.svg",
+      "category": "celebrations_social_a1"
+    },
+    "img_cel_surprise": {
+      "asset_path": "content/assets/svg/img_cel_surprise.svg",
+      "category": "celebrations_social_a1"
+    },
+    "img_cel_decoration": {
+      "asset_path": "content/assets/svg/img_cel_decoration.svg",
+      "category": "celebrations_social_a1"
+    },
+    "img_cel_cheers": {
+      "asset_path": "content/assets/svg/img_cel_cheers.svg",
+      "category": "celebrations_social_a1"
+    },
+    "img_cel_farewell": {
+      "asset_path": "content/assets/svg/img_cel_farewell.svg",
+      "category": "celebrations_social_a1"
+    },
+    "img_env_umwelt": {
+      "asset_path": "content/assets/svg/img_env_umwelt.svg",
+      "category": "environment_green_a2"
+    },
+    "img_env_naturschutz": {
+      "asset_path": "content/assets/svg/img_env_naturschutz.svg",
+      "category": "environment_green_a2"
+    },
+    "img_env_klimawandel": {
+      "asset_path": "content/assets/svg/img_env_klimawandel.svg",
+      "category": "environment_green_a2"
+    },
+    "img_env_verschmutzung": {
+      "asset_path": "content/assets/svg/img_env_verschmutzung.svg",
+      "category": "environment_green_a2"
+    },
+    "img_env_muell": {
+      "asset_path": "content/assets/svg/img_env_muell.svg",
+      "category": "environment_green_a2"
+    },
+    "img_env_recycling": {
+      "asset_path": "content/assets/svg/img_env_recycling.svg",
+      "category": "environment_green_a2"
+    },
+    "img_env_muelltrennung": {
+      "asset_path": "content/assets/svg/img_env_muelltrennung.svg",
+      "category": "environment_green_a2"
+    },
+    "img_env_plastik": {
+      "asset_path": "content/assets/svg/img_env_plastik.svg",
+      "category": "environment_green_a2"
+    },
+    "img_env_altglas": {
+      "asset_path": "content/assets/svg/img_env_altglas.svg",
+      "category": "environment_green_a2"
+    },
+    "img_env_altpapier": {
+      "asset_path": "content/assets/svg/img_env_altpapier.svg",
+      "category": "environment_green_a2"
+    },
+    "img_env_solarenergie": {
+      "asset_path": "content/assets/svg/img_env_solarenergie.svg",
+      "category": "environment_green_a2"
+    },
+    "img_env_windenergie": {
+      "asset_path": "content/assets/svg/img_env_windenergie.svg",
+      "category": "environment_green_a2"
+    },
+    "img_env_erneuerbar": {
+      "asset_path": "content/assets/svg/img_env_erneuerbar.svg",
+      "category": "environment_green_a2"
+    },
+    "img_env_bio_lebensmittel": {
+      "asset_path": "content/assets/svg/img_env_bio_lebensmittel.svg",
+      "category": "environment_green_a2"
+    },
+    "img_env_wald": {
+      "asset_path": "content/assets/svg/img_env_wald.svg",
+      "category": "environment_green_a2"
+    },
+    "img_env_baum": {
+      "asset_path": "content/assets/svg/img_env_baum.svg",
+      "category": "environment_green_a2"
+    },
+    "img_env_ozean": {
+      "asset_path": "content/assets/svg/img_env_ozean.svg",
+      "category": "environment_green_a2"
+    },
+    "img_env_saubere_luft": {
+      "asset_path": "content/assets/svg/img_env_saubere_luft.svg",
+      "category": "environment_green_a2"
+    },
+    "img_env_trinkwasser": {
+      "asset_path": "content/assets/svg/img_env_trinkwasser.svg",
+      "category": "environment_green_a2"
+    },
+    "img_env_energiesparen": {
+      "asset_path": "content/assets/svg/img_env_energiesparen.svg",
+      "category": "environment_green_a2"
+    },
+    "img_env_nachhaltigkeit": {
+      "asset_path": "content/assets/svg/img_env_nachhaltigkeit.svg",
+      "category": "environment_green_a2"
+    },
+    "img_env_radweg": {
+      "asset_path": "content/assets/svg/img_env_radweg.svg",
+      "category": "environment_green_a2"
+    },
+    "img_env_umweltfreundlich": {
+      "asset_path": "content/assets/svg/img_env_umweltfreundlich.svg",
+      "category": "environment_green_a2"
+    },
+    "img_env_schuetzen": {
+      "asset_path": "content/assets/svg/img_env_schuetzen.svg",
+      "category": "environment_green_a2"
+    },
+    "img_env_planet": {
+      "asset_path": "content/assets/svg/img_env_planet.svg",
+      "category": "environment_green_a2"
+    },
+    "img_wel_wohlbefinden": {
+      "asset_path": "content/assets/svg/img_wel_wohlbefinden.svg",
+      "category": "wellness_fitness_a2"
+    },
+    "img_wel_psychische_gesundheit": {
+      "asset_path": "content/assets/svg/img_wel_psychische_gesundheit.svg",
+      "category": "wellness_fitness_a2"
+    },
+    "img_wel_fitness": {
+      "asset_path": "content/assets/svg/img_wel_fitness.svg",
+      "category": "wellness_fitness_a2"
+    },
+    "img_wel_meditation": {
+      "asset_path": "content/assets/svg/img_wel_meditation.svg",
+      "category": "wellness_fitness_a2"
+    },
+    "img_wel_stress": {
+      "asset_path": "content/assets/svg/img_wel_stress.svg",
+      "category": "wellness_fitness_a2"
+    },
+    "img_wel_entspannung": {
+      "asset_path": "content/assets/svg/img_wel_entspannung.svg",
+      "category": "wellness_fitness_a2"
+    },
+    "img_wel_fitnessstudio": {
+      "asset_path": "content/assets/svg/img_wel_fitnessstudio.svg",
+      "category": "wellness_fitness_a2"
+    },
+    "img_wel_uebung": {
+      "asset_path": "content/assets/svg/img_wel_uebung.svg",
+      "category": "wellness_fitness_a2"
+    },
+    "img_wel_atmung": {
+      "asset_path": "content/assets/svg/img_wel_atmung.svg",
+      "category": "wellness_fitness_a2"
+    },
+    "img_wel_yoga": {
+      "asset_path": "content/assets/svg/img_wel_yoga.svg",
+      "category": "wellness_fitness_a2"
+    },
+    "img_wel_joggen": {
+      "asset_path": "content/assets/svg/img_wel_joggen.svg",
+      "category": "wellness_fitness_a2"
+    },
+    "img_wel_muskel": {
+      "asset_path": "content/assets/svg/img_wel_muskel.svg",
+      "category": "wellness_fitness_a2"
+    },
+    "img_wel_herzschlag": {
+      "asset_path": "content/assets/svg/img_wel_herzschlag.svg",
+      "category": "wellness_fitness_a2"
+    },
+    "img_wel_ernaehrung": {
+      "asset_path": "content/assets/svg/img_wel_ernaehrung.svg",
+      "category": "wellness_fitness_a2"
+    },
+    "img_wel_vitamin": {
+      "asset_path": "content/assets/svg/img_wel_vitamin.svg",
+      "category": "wellness_fitness_a2"
+    },
+    "img_wel_schlaf": {
+      "asset_path": "content/assets/svg/img_wel_schlaf.svg",
+      "category": "wellness_fitness_a2"
+    },
+    "img_wel_energie": {
+      "asset_path": "content/assets/svg/img_wel_energie.svg",
+      "category": "wellness_fitness_a2"
+    },
+    "img_wel_gleichgewicht": {
+      "asset_path": "content/assets/svg/img_wel_gleichgewicht.svg",
+      "category": "wellness_fitness_a2"
+    },
+    "img_wel_erschoepfung": {
+      "asset_path": "content/assets/svg/img_wel_erschoepfung.svg",
+      "category": "wellness_fitness_a2"
+    },
+    "img_wel_laune": {
+      "asset_path": "content/assets/svg/img_wel_laune.svg",
+      "category": "wellness_fitness_a2"
+    },
+    "img_wel_motivation": {
+      "asset_path": "content/assets/svg/img_wel_motivation.svg",
+      "category": "wellness_fitness_a2"
+    },
+    "img_wel_ruhe": {
+      "asset_path": "content/assets/svg/img_wel_ruhe.svg",
+      "category": "wellness_fitness_a2"
+    },
+    "img_wel_dehnen": {
+      "asset_path": "content/assets/svg/img_wel_dehnen.svg",
+      "category": "wellness_fitness_a2"
+    },
+    "img_wel_hydratation": {
+      "asset_path": "content/assets/svg/img_wel_hydratation.svg",
+      "category": "wellness_fitness_a2"
+    },
+    "img_wel_lebensstil": {
+      "asset_path": "content/assets/svg/img_wel_lebensstil.svg",
+      "category": "wellness_fitness_a2"
+    },
+    "img_pol_politik": {
+      "asset_path": "content/assets/svg/img_pol_politik.svg",
+      "category": "politics_law_a2"
+    },
+    "img_pol_regierung": {
+      "asset_path": "content/assets/svg/img_pol_regierung.svg",
+      "category": "politics_law_a2"
+    },
+    "img_pol_parlament": {
+      "asset_path": "content/assets/svg/img_pol_parlament.svg",
+      "category": "politics_law_a2"
+    },
+    "img_pol_demokratie": {
+      "asset_path": "content/assets/svg/img_pol_demokratie.svg",
+      "category": "politics_law_a2"
+    },
+    "img_pol_wahl": {
+      "asset_path": "content/assets/svg/img_pol_wahl.svg",
+      "category": "politics_law_a2"
+    },
+    "img_pol_abstimmung": {
+      "asset_path": "content/assets/svg/img_pol_abstimmung.svg",
+      "category": "politics_law_a2"
+    },
+    "img_pol_gesetz": {
+      "asset_path": "content/assets/svg/img_pol_gesetz.svg",
+      "category": "politics_law_a2"
+    },
+    "img_pol_verfassung": {
+      "asset_path": "content/assets/svg/img_pol_verfassung.svg",
+      "category": "politics_law_a2"
+    },
+    "img_pol_gericht": {
+      "asset_path": "content/assets/svg/img_pol_gericht.svg",
+      "category": "politics_law_a2"
+    },
+    "img_pol_richter": {
+      "asset_path": "content/assets/svg/img_pol_richter.svg",
+      "category": "politics_law_a2"
+    },
+    "img_pol_anwalt": {
+      "asset_path": "content/assets/svg/img_pol_anwalt.svg",
+      "category": "politics_law_a2"
+    },
+    "img_pol_buerger": {
+      "asset_path": "content/assets/svg/img_pol_buerger.svg",
+      "category": "politics_law_a2"
+    },
+    "img_pol_staatsbuergerschaft": {
+      "asset_path": "content/assets/svg/img_pol_staatsbuergerschaft.svg",
+      "category": "politics_law_a2"
+    },
+    "img_pol_recht": {
+      "asset_path": "content/assets/svg/img_pol_recht.svg",
+      "category": "politics_law_a2"
+    },
+    "img_pol_pflicht": {
+      "asset_path": "content/assets/svg/img_pol_pflicht.svg",
+      "category": "politics_law_a2"
+    },
+    "img_pol_freiheit": {
+      "asset_path": "content/assets/svg/img_pol_freiheit.svg",
+      "category": "politics_law_a2"
+    },
+    "img_pol_gerechtigkeit": {
+      "asset_path": "content/assets/svg/img_pol_gerechtigkeit.svg",
+      "category": "politics_law_a2"
+    },
+    "img_pol_frieden": {
+      "asset_path": "content/assets/svg/img_pol_frieden.svg",
+      "category": "politics_law_a2"
+    },
+    "img_pol_praesident": {
+      "asset_path": "content/assets/svg/img_pol_praesident.svg",
+      "category": "politics_law_a2"
+    },
+    "img_pol_kanzler": {
+      "asset_path": "content/assets/svg/img_pol_kanzler.svg",
+      "category": "politics_law_a2"
+    },
+    "img_pol_staat": {
+      "asset_path": "content/assets/svg/img_pol_staat.svg",
+      "category": "politics_law_a2"
+    },
+    "img_pol_gesellschaft": {
+      "asset_path": "content/assets/svg/img_pol_gesellschaft.svg",
+      "category": "politics_law_a2"
+    },
+    "img_pol_menschenrechte": {
+      "asset_path": "content/assets/svg/img_pol_menschenrechte.svg",
+      "category": "politics_law_a2"
+    },
+    "img_pol_vertrag": {
+      "asset_path": "content/assets/svg/img_pol_vertrag.svg",
+      "category": "politics_law_a2"
+    },
+    "img_pol_solidaritaet": {
+      "asset_path": "content/assets/svg/img_pol_solidaritaet.svg",
+      "category": "politics_law_a2"
+    },
+    "img_biz_unternehmen": {
+      "asset_path": "content/assets/svg/img_biz_unternehmen.svg",
+      "category": "business_workplace_a2"
+    },
+    "img_biz_buero": {
+      "asset_path": "content/assets/svg/img_biz_buero.svg",
+      "category": "business_workplace_a2"
+    },
+    "img_biz_besprechung": {
+      "asset_path": "content/assets/svg/img_biz_besprechung.svg",
+      "category": "business_workplace_a2"
+    },
+    "img_biz_kollege": {
+      "asset_path": "content/assets/svg/img_biz_kollege.svg",
+      "category": "business_workplace_a2"
+    },
+    "img_biz_kollegin": {
+      "asset_path": "content/assets/svg/img_biz_kollegin.svg",
+      "category": "business_workplace_a2"
+    },
+    "img_biz_manager": {
+      "asset_path": "content/assets/svg/img_biz_manager.svg",
+      "category": "business_workplace_a2"
+    },
+    "img_biz_kunde": {
+      "asset_path": "content/assets/svg/img_biz_kunde.svg",
+      "category": "business_workplace_a2"
+    },
+    "img_biz_vertrag": {
+      "asset_path": "content/assets/svg/img_biz_vertrag.svg",
+      "category": "business_workplace_a2"
+    },
+    "img_biz_gehalt": {
+      "asset_path": "content/assets/svg/img_biz_gehalt.svg",
+      "category": "business_workplace_a2"
+    },
+    "img_biz_vorstellungsgespraech": {
+      "asset_path": "content/assets/svg/img_biz_vorstellungsgespraech.svg",
+      "category": "business_workplace_a2"
+    },
+    "img_biz_lebenslauf": {
+      "asset_path": "content/assets/svg/img_biz_lebenslauf.svg",
+      "category": "business_workplace_a2"
+    },
+    "img_biz_bewerbung": {
+      "asset_path": "content/assets/svg/img_biz_bewerbung.svg",
+      "category": "business_workplace_a2"
+    },
+    "img_biz_projekt": {
+      "asset_path": "content/assets/svg/img_biz_projekt.svg",
+      "category": "business_workplace_a2"
+    },
+    "img_biz_praesentation": {
+      "asset_path": "content/assets/svg/img_biz_praesentation.svg",
+      "category": "business_workplace_a2"
+    },
+    "img_biz_verhandlung": {
+      "asset_path": "content/assets/svg/img_biz_verhandlung.svg",
+      "category": "business_workplace_a2"
+    },
+    "img_biz_frist": {
+      "asset_path": "content/assets/svg/img_biz_frist.svg",
+      "category": "business_workplace_a2"
+    },
+    "img_biz_abteilung": {
+      "asset_path": "content/assets/svg/img_biz_abteilung.svg",
+      "category": "business_workplace_a2"
+    },
+    "img_biz_teamarbeit": {
+      "asset_path": "content/assets/svg/img_biz_teamarbeit.svg",
+      "category": "business_workplace_a2"
+    },
+    "img_biz_rechnung": {
+      "asset_path": "content/assets/svg/img_biz_rechnung.svg",
+      "category": "business_workplace_a2"
+    },
+    "img_biz_angebot": {
+      "asset_path": "content/assets/svg/img_biz_angebot.svg",
+      "category": "business_workplace_a2"
+    },
+    "img_biz_ueberstunden": {
+      "asset_path": "content/assets/svg/img_biz_ueberstunden.svg",
+      "category": "business_workplace_a2"
+    },
+    "img_biz_erfolg": {
+      "asset_path": "content/assets/svg/img_biz_erfolg.svg",
+      "category": "business_workplace_a2"
+    },
+    "img_biz_karriere": {
+      "asset_path": "content/assets/svg/img_biz_karriere.svg",
+      "category": "business_workplace_a2"
+    },
+    "img_biz_qualifikation": {
+      "asset_path": "content/assets/svg/img_biz_qualifikation.svg",
+      "category": "business_workplace_a2"
+    },
+    "img_biz_dienstreise": {
+      "asset_path": "content/assets/svg/img_biz_dienstreise.svg",
+      "category": "business_workplace_a2"
+    },
+    "img_sci_wissenschaft": {
+      "asset_path": "content/assets/svg/img_sci_wissenschaft.svg",
+      "category": "science_space_a2"
+    },
+    "img_sci_forscher": {
+      "asset_path": "content/assets/svg/img_sci_forscher.svg",
+      "category": "science_space_a2"
+    },
+    "img_sci_forschung": {
+      "asset_path": "content/assets/svg/img_sci_forschung.svg",
+      "category": "science_space_a2"
+    },
+    "img_sci_labor": {
+      "asset_path": "content/assets/svg/img_sci_labor.svg",
+      "category": "science_space_a2"
+    },
+    "img_sci_experiment": {
+      "asset_path": "content/assets/svg/img_sci_experiment.svg",
+      "category": "science_space_a2"
+    },
+    "img_sci_entdeckung": {
+      "asset_path": "content/assets/svg/img_sci_entdeckung.svg",
+      "category": "science_space_a2"
+    },
+    "img_sci_erfindung": {
+      "asset_path": "content/assets/svg/img_sci_erfindung.svg",
+      "category": "science_space_a2"
+    },
+    "img_sci_innovation": {
+      "asset_path": "content/assets/svg/img_sci_innovation.svg",
+      "category": "science_space_a2"
+    },
+    "img_sci_technologie": {
+      "asset_path": "content/assets/svg/img_sci_technologie.svg",
+      "category": "science_space_a2"
+    },
+    "img_sci_mikroskop": {
+      "asset_path": "content/assets/svg/img_sci_mikroskop.svg",
+      "category": "science_space_a2"
+    },
+    "img_sci_teleskop": {
+      "asset_path": "content/assets/svg/img_sci_teleskop.svg",
+      "category": "science_space_a2"
+    },
+    "img_sci_weltraum": {
+      "asset_path": "content/assets/svg/img_sci_weltraum.svg",
+      "category": "science_space_a2"
+    },
+    "img_sci_universum": {
+      "asset_path": "content/assets/svg/img_sci_universum.svg",
+      "category": "science_space_a2"
+    },
+    "img_sci_galaxie": {
+      "asset_path": "content/assets/svg/img_sci_galaxie.svg",
+      "category": "science_space_a2"
+    },
+    "img_sci_stern": {
+      "asset_path": "content/assets/svg/img_sci_stern.svg",
+      "category": "science_space_a2"
+    },
+    "img_sci_planet": {
+      "asset_path": "content/assets/svg/img_sci_planet.svg",
+      "category": "science_space_a2"
+    },
+    "img_sci_mond": {
+      "asset_path": "content/assets/svg/img_sci_mond.svg",
+      "category": "science_space_a2"
+    },
+    "img_sci_satellit": {
+      "asset_path": "content/assets/svg/img_sci_satellit.svg",
+      "category": "science_space_a2"
+    },
+    "img_sci_rakete": {
+      "asset_path": "content/assets/svg/img_sci_rakete.svg",
+      "category": "science_space_a2"
+    },
+    "img_sci_astronaut": {
+      "asset_path": "content/assets/svg/img_sci_astronaut.svg",
+      "category": "science_space_a2"
+    },
+    "img_sci_schwerkraft": {
+      "asset_path": "content/assets/svg/img_sci_schwerkraft.svg",
+      "category": "science_space_a2"
+    },
+    "img_sci_ki": {
+      "asset_path": "content/assets/svg/img_sci_ki.svg",
+      "category": "science_space_a2"
+    },
+    "img_sci_roboter": {
+      "asset_path": "content/assets/svg/img_sci_roboter.svg",
+      "category": "science_space_a2"
+    },
+    "img_sci_daten": {
+      "asset_path": "content/assets/svg/img_sci_daten.svg",
+      "category": "science_space_a2"
+    },
+    "img_sci_zukunft": {
+      "asset_path": "content/assets/svg/img_sci_zukunft.svg",
+      "category": "science_space_a2"
+    },
+    "img_phi_philosophie": {
+      "asset_path": "content/assets/svg/img_phi_philosophie.svg",
+      "category": "philosophy_logic_a2"
+    },
+    "img_phi_logik": {
+      "asset_path": "content/assets/svg/img_phi_logik.svg",
+      "category": "philosophy_logic_a2"
+    },
+    "img_phi_gedanke": {
+      "asset_path": "content/assets/svg/img_phi_gedanke.svg",
+      "category": "philosophy_logic_a2"
+    },
+    "img_phi_vernunft": {
+      "asset_path": "content/assets/svg/img_phi_vernunft.svg",
+      "category": "philosophy_logic_a2"
+    },
+    "img_phi_wahrheit": {
+      "asset_path": "content/assets/svg/img_phi_wahrheit.svg",
+      "category": "philosophy_logic_a2"
+    },
+    "img_phi_realitaet": {
+      "asset_path": "content/assets/svg/img_phi_realitaet.svg",
+      "category": "philosophy_logic_a2"
+    },
+    "img_phi_erkenntnis": {
+      "asset_path": "content/assets/svg/img_phi_erkenntnis.svg",
+      "category": "philosophy_logic_a2"
+    },
+    "img_phi_weisheit": {
+      "asset_path": "content/assets/svg/img_phi_weisheit.svg",
+      "category": "philosophy_logic_a2"
+    },
+    "img_phi_argument": {
+      "asset_path": "content/assets/svg/img_phi_argument.svg",
+      "category": "philosophy_logic_a2"
+    },
+    "img_phi_beweis": {
+      "asset_path": "content/assets/svg/img_phi_beweis.svg",
+      "category": "philosophy_logic_a2"
+    },
+    "img_phi_zweifel": {
+      "asset_path": "content/assets/svg/img_phi_zweifel.svg",
+      "category": "philosophy_logic_a2"
+    },
+    "img_phi_gewissheit": {
+      "asset_path": "content/assets/svg/img_phi_gewissheit.svg",
+      "category": "philosophy_logic_a2"
+    },
+    "img_phi_ethik": {
+      "asset_path": "content/assets/svg/img_phi_ethik.svg",
+      "category": "philosophy_logic_a2"
+    },
+    "img_phi_wert": {
+      "asset_path": "content/assets/svg/img_phi_wert.svg",
+      "category": "philosophy_logic_a2"
+    },
+    "img_phi_sinn": {
+      "asset_path": "content/assets/svg/img_phi_sinn.svg",
+      "category": "philosophy_logic_a2"
+    },
+    "img_phi_existenz": {
+      "asset_path": "content/assets/svg/img_phi_existenz.svg",
+      "category": "philosophy_logic_a2"
+    },
+    "img_phi_bewusstsein": {
+      "asset_path": "content/assets/svg/img_phi_bewusstsein.svg",
+      "category": "philosophy_logic_a2"
+    },
+    "img_phi_meinung": {
+      "asset_path": "content/assets/svg/img_phi_meinung.svg",
+      "category": "philosophy_logic_a2"
+    },
+    "img_phi_perspektive": {
+      "asset_path": "content/assets/svg/img_phi_perspektive.svg",
+      "category": "philosophy_logic_a2"
+    },
+    "img_phi_prinzip": {
+      "asset_path": "content/assets/svg/img_phi_prinzip.svg",
+      "category": "philosophy_logic_a2"
+    },
+    "img_phi_schlussfolgerung": {
+      "asset_path": "content/assets/svg/img_phi_schlussfolgerung.svg",
+      "category": "philosophy_logic_a2"
+    },
+    "img_phi_widerspruch": {
+      "asset_path": "content/assets/svg/img_phi_widerspruch.svg",
+      "category": "philosophy_logic_a2"
+    },
+    "img_phi_dialog": {
+      "asset_path": "content/assets/svg/img_phi_dialog.svg",
+      "category": "philosophy_logic_a2"
+    },
+    "img_phi_frage": {
+      "asset_path": "content/assets/svg/img_phi_frage.svg",
+      "category": "philosophy_logic_a2"
+    },
+    "img_phi_kritisches_denken": {
+      "asset_path": "content/assets/svg/img_phi_kritisches_denken.svg",
+      "category": "philosophy_logic_a2"
+    },
+    "img_med_journalismus": {
+      "asset_path": "content/assets/svg/img_med_journalismus.svg",
+      "category": "media_journalism_a2"
+    },
+    "img_med_journalist": {
+      "asset_path": "content/assets/svg/img_med_journalist.svg",
+      "category": "media_journalism_a2"
+    },
+    "img_med_journalistin": {
+      "asset_path": "content/assets/svg/img_med_journalistin.svg",
+      "category": "media_journalism_a2"
+    },
+    "img_med_presse": {
+      "asset_path": "content/assets/svg/img_med_presse.svg",
+      "category": "media_journalism_a2"
+    },
+    "img_med_pressekonferenz": {
+      "asset_path": "content/assets/svg/img_med_pressekonferenz.svg",
+      "category": "media_journalism_a2"
+    },
+    "img_med_schlagzeile": {
+      "asset_path": "content/assets/svg/img_med_schlagzeile.svg",
+      "category": "media_journalism_a2"
+    },
+    "img_med_bericht": {
+      "asset_path": "content/assets/svg/img_med_bericht.svg",
+      "category": "media_journalism_a2"
+    },
+    "img_med_artikel": {
+      "asset_path": "content/assets/svg/img_med_artikel.svg",
+      "category": "media_journalism_a2"
+    },
+    "img_med_interview": {
+      "asset_path": "content/assets/svg/img_med_interview.svg",
+      "category": "media_journalism_a2"
+    },
+    "img_med_sendung": {
+      "asset_path": "content/assets/svg/img_med_sendung.svg",
+      "category": "media_journalism_a2"
+    },
+    "img_med_quelle": {
+      "asset_path": "content/assets/svg/img_med_quelle.svg",
+      "category": "media_journalism_a2"
+    },
+    "img_med_falschnachrichten": {
+      "asset_path": "content/assets/svg/img_med_falschnachrichten.svg",
+      "category": "media_journalism_a2"
+    },
+    "img_med_information": {
+      "asset_path": "content/assets/svg/img_med_information.svg",
+      "category": "media_journalism_a2"
+    },
+    "img_med_pressefreiheit": {
+      "asset_path": "content/assets/svg/img_med_pressefreiheit.svg",
+      "category": "media_journalism_a2"
+    },
+    "img_med_redakteur": {
+      "asset_path": "content/assets/svg/img_med_redakteur.svg",
+      "category": "media_journalism_a2"
+    },
+    "img_med_podcast": {
+      "asset_path": "content/assets/svg/img_med_podcast.svg",
+      "category": "media_journalism_a2"
+    },
+    "img_med_sender": {
+      "asset_path": "content/assets/svg/img_med_sender.svg",
+      "category": "media_journalism_a2"
+    },
+    "img_med_publikum": {
+      "asset_path": "content/assets/svg/img_med_publikum.svg",
+      "category": "media_journalism_a2"
+    },
+    "img_med_auflage": {
+      "asset_path": "content/assets/svg/img_med_auflage.svg",
+      "category": "media_journalism_a2"
+    },
+    "img_med_livestream": {
+      "asset_path": "content/assets/svg/img_med_livestream.svg",
+      "category": "media_journalism_a2"
+    },
+    "img_med_kommentar": {
+      "asset_path": "content/assets/svg/img_med_kommentar.svg",
+      "category": "media_journalism_a2"
+    },
+    "img_med_pr": {
+      "asset_path": "content/assets/svg/img_med_pr.svg",
+      "category": "media_journalism_a2"
+    },
+    "img_med_recherche": {
+      "asset_path": "content/assets/svg/img_med_recherche.svg",
+      "category": "media_journalism_a2"
+    },
+    "img_med_netzwerk": {
+      "asset_path": "content/assets/svg/img_med_netzwerk.svg",
+      "category": "media_journalism_a2"
+    },
+    "img_med_glaubwuerdigkeit": {
+      "asset_path": "content/assets/svg/img_med_glaubwuerdigkeit.svg",
+      "category": "media_journalism_a2"
+    },
+    "img_arc_architektur": {
+      "asset_path": "content/assets/svg/img_arc_architektur.svg",
+      "category": "architecture_housing_a2"
+    },
+    "img_arc_architekt": {
+      "asset_path": "content/assets/svg/img_arc_architekt.svg",
+      "category": "architecture_housing_a2"
+    },
+    "img_arc_wolkenkratzer": {
+      "asset_path": "content/assets/svg/img_arc_wolkenkratzer.svg",
+      "category": "architecture_housing_a2"
+    },
+    "img_arc_balkon": {
+      "asset_path": "content/assets/svg/img_arc_balkon.svg",
+      "category": "architecture_housing_a2"
+    },
+    "img_arc_terrasse": {
+      "asset_path": "content/assets/svg/img_arc_terrasse.svg",
+      "category": "architecture_housing_a2"
+    },
+    "img_arc_aufzug": {
+      "asset_path": "content/assets/svg/img_arc_aufzug.svg",
+      "category": "architecture_housing_a2"
+    },
+    "img_arc_treppe": {
+      "asset_path": "content/assets/svg/img_arc_treppe.svg",
+      "category": "architecture_housing_a2"
+    },
+    "img_arc_keller": {
+      "asset_path": "content/assets/svg/img_arc_keller.svg",
+      "category": "architecture_housing_a2"
+    },
+    "img_arc_dachgeschoss": {
+      "asset_path": "content/assets/svg/img_arc_dachgeschoss.svg",
+      "category": "architecture_housing_a2"
+    },
+    "img_arc_heizung": {
+      "asset_path": "content/assets/svg/img_arc_heizung.svg",
+      "category": "architecture_housing_a2"
+    },
+    "img_arc_klimaanlage": {
+      "asset_path": "content/assets/svg/img_arc_klimaanlage.svg",
+      "category": "architecture_housing_a2"
+    },
+    "img_arc_miete": {
+      "asset_path": "content/assets/svg/img_arc_miete.svg",
+      "category": "architecture_housing_a2"
+    },
+    "img_arc_vermieter": {
+      "asset_path": "content/assets/svg/img_arc_vermieter.svg",
+      "category": "architecture_housing_a2"
+    },
+    "img_arc_mieter": {
+      "asset_path": "content/assets/svg/img_arc_mieter.svg",
+      "category": "architecture_housing_a2"
+    },
+    "img_arc_kaution": {
+      "asset_path": "content/assets/svg/img_arc_kaution.svg",
+      "category": "architecture_housing_a2"
+    },
+    "img_arc_nachbarschaft": {
+      "asset_path": "content/assets/svg/img_arc_nachbarschaft.svg",
+      "category": "architecture_housing_a2"
+    },
+    "img_arc_oeffentliche_verkehrsmittel": {
+      "asset_path": "content/assets/svg/img_arc_oeffentliche_verkehrsmittel.svg",
+      "category": "architecture_housing_a2"
+    },
+    "img_arc_vorort": {
+      "asset_path": "content/assets/svg/img_arc_vorort.svg",
+      "category": "architecture_housing_a2"
+    },
+    "img_arc_stadtplatz": {
+      "asset_path": "content/assets/svg/img_arc_stadtplatz.svg",
+      "category": "architecture_housing_a2"
+    },
+    "img_arc_smart_home": {
+      "asset_path": "content/assets/svg/img_arc_smart_home.svg",
+      "category": "architecture_housing_a2"
+    },
+    "img_arc_renovierung": {
+      "asset_path": "content/assets/svg/img_arc_renovierung.svg",
+      "category": "architecture_housing_a2"
+    },
+    "img_arc_gebaeude": {
+      "asset_path": "content/assets/svg/img_arc_gebaeude.svg",
+      "category": "architecture_housing_a2"
+    },
+    "img_arc_fassade": {
+      "asset_path": "content/assets/svg/img_arc_fassade.svg",
+      "category": "architecture_housing_a2"
+    },
+    "img_arc_beton": {
+      "asset_path": "content/assets/svg/img_arc_beton.svg",
+      "category": "architecture_housing_a2"
+    },
+    "img_arc_stadtplanung": {
+      "asset_path": "content/assets/svg/img_arc_stadtplanung.svg",
+      "category": "architecture_housing_a2"
+    },
+    "img_eco_wirtschaft": {
+      "asset_path": "content/assets/svg/img_eco_wirtschaft.svg",
+      "category": "economy_finance_a2"
+    },
+    "img_eco_markt": {
+      "asset_path": "content/assets/svg/img_eco_markt.svg",
+      "category": "economy_finance_a2"
+    },
+    "img_eco_handel": {
+      "asset_path": "content/assets/svg/img_eco_handel.svg",
+      "category": "economy_finance_a2"
+    },
+    "img_eco_export": {
+      "asset_path": "content/assets/svg/img_eco_export.svg",
+      "category": "economy_finance_a2"
+    },
+    "img_eco_import": {
+      "asset_path": "content/assets/svg/img_eco_import.svg",
+      "category": "economy_finance_a2"
+    },
+    "img_eco_bank": {
+      "asset_path": "content/assets/svg/img_eco_bank.svg",
+      "category": "economy_finance_a2"
+    },
+    "img_eco_bankkonto": {
+      "asset_path": "content/assets/svg/img_eco_bankkonto.svg",
+      "category": "economy_finance_a2"
+    },
+    "img_eco_ueberweisung": {
+      "asset_path": "content/assets/svg/img_eco_ueberweisung.svg",
+      "category": "economy_finance_a2"
+    },
+    "img_eco_zins": {
+      "asset_path": "content/assets/svg/img_eco_zins.svg",
+      "category": "economy_finance_a2"
+    },
+    "img_eco_steuer": {
+      "asset_path": "content/assets/svg/img_eco_steuer.svg",
+      "category": "economy_finance_a2"
+    },
+    "img_eco_inflation": {
+      "asset_path": "content/assets/svg/img_eco_inflation.svg",
+      "category": "economy_finance_a2"
+    },
+    "img_eco_investition": {
+      "asset_path": "content/assets/svg/img_eco_investition.svg",
+      "category": "economy_finance_a2"
+    },
+    "img_eco_aktie": {
+      "asset_path": "content/assets/svg/img_eco_aktie.svg",
+      "category": "economy_finance_a2"
+    },
+    "img_eco_boerse": {
+      "asset_path": "content/assets/svg/img_eco_boerse.svg",
+      "category": "economy_finance_a2"
+    },
+    "img_eco_gewinn": {
+      "asset_path": "content/assets/svg/img_eco_gewinn.svg",
+      "category": "economy_finance_a2"
+    },
+    "img_eco_verlust": {
+      "asset_path": "content/assets/svg/img_eco_verlust.svg",
+      "category": "economy_finance_a2"
+    },
+    "img_eco_budget": {
+      "asset_path": "content/assets/svg/img_eco_budget.svg",
+      "category": "economy_finance_a2"
+    },
+    "img_eco_schuld": {
+      "asset_path": "content/assets/svg/img_eco_schuld.svg",
+      "category": "economy_finance_a2"
+    },
+    "img_eco_kredit": {
+      "asset_path": "content/assets/svg/img_eco_kredit.svg",
+      "category": "economy_finance_a2"
+    },
+    "img_eco_waehrung": {
+      "asset_path": "content/assets/svg/img_eco_waehrung.svg",
+      "category": "economy_finance_a2"
+    },
+    "img_eco_wechselkurs": {
+      "asset_path": "content/assets/svg/img_eco_wechselkurs.svg",
+      "category": "economy_finance_a2"
+    },
+    "img_eco_wohlstand": {
+      "asset_path": "content/assets/svg/img_eco_wohlstand.svg",
+      "category": "economy_finance_a2"
+    },
+    "img_eco_wettbewerb": {
+      "asset_path": "content/assets/svg/img_eco_wettbewerb.svg",
+      "category": "economy_finance_a2"
+    },
+    "img_eco_angebot": {
+      "asset_path": "content/assets/svg/img_eco_angebot.svg",
+      "category": "economy_finance_a2"
+    },
+    "img_eco_nachfrage": {
+      "asset_path": "content/assets/svg/img_eco_nachfrage.svg",
+      "category": "economy_finance_a2"
+    },
+    "img_his_zivilisation": {
+      "asset_path": "content/assets/svg/img_his_zivilisation.svg",
+      "category": "history_civilizations_a2"
+    },
+    "img_his_archaeologie": {
+      "asset_path": "content/assets/svg/img_his_archaeologie.svg",
+      "category": "history_civilizations_a2"
+    },
+    "img_his_denkmal": {
+      "asset_path": "content/assets/svg/img_his_denkmal.svg",
+      "category": "history_civilizations_a2"
+    },
+    "img_his_pyramide": {
+      "asset_path": "content/assets/svg/img_his_pyramide.svg",
+      "category": "history_civilizations_a2"
+    },
+    "img_his_ruinen": {
+      "asset_path": "content/assets/svg/img_his_ruinen.svg",
+      "category": "history_civilizations_a2"
+    },
+    "img_his_reich": {
+      "asset_path": "content/assets/svg/img_his_reich.svg",
+      "category": "history_civilizations_a2"
+    },
+    "img_his_jahrhundert": {
+      "asset_path": "content/assets/svg/img_his_jahrhundert.svg",
+      "category": "history_civilizations_a2"
+    },
+    "img_his_epoche": {
+      "asset_path": "content/assets/svg/img_his_epoche.svg",
+      "category": "history_civilizations_a2"
+    },
+    "img_his_koenig": {
+      "asset_path": "content/assets/svg/img_his_koenig.svg",
+      "category": "history_civilizations_a2"
+    },
+    "img_his_koenigin": {
+      "asset_path": "content/assets/svg/img_his_koenigin.svg",
+      "category": "history_civilizations_a2"
+    },
+    "img_his_ritter": {
+      "asset_path": "content/assets/svg/img_his_ritter.svg",
+      "category": "history_civilizations_a2"
+    },
+    "img_his_burg": {
+      "asset_path": "content/assets/svg/img_his_burg.svg",
+      "category": "history_civilizations_a2"
+    },
+    "img_his_tempel": {
+      "asset_path": "content/assets/svg/img_his_tempel.svg",
+      "category": "history_civilizations_a2"
+    },
+    "img_his_grabmal": {
+      "asset_path": "content/assets/svg/img_his_grabmal.svg",
+      "category": "history_civilizations_a2"
+    },
+    "img_his_hieroglyphen": {
+      "asset_path": "content/assets/svg/img_his_hieroglyphen.svg",
+      "category": "history_civilizations_a2"
+    },
+    "img_his_papyrus": {
+      "asset_path": "content/assets/svg/img_his_papyrus.svg",
+      "category": "history_civilizations_a2"
+    },
+    "img_his_muenze": {
+      "asset_path": "content/assets/svg/img_his_muenze.svg",
+      "category": "history_civilizations_a2"
+    },
+    "img_his_schwert": {
+      "asset_path": "content/assets/svg/img_his_schwert.svg",
+      "category": "history_civilizations_a2"
+    },
+    "img_his_schild": {
+      "asset_path": "content/assets/svg/img_his_schild.svg",
+      "category": "history_civilizations_a2"
+    },
+    "img_his_legende": {
+      "asset_path": "content/assets/svg/img_his_legende.svg",
+      "category": "history_civilizations_a2"
+    },
+    "img_his_kulturerbe": {
+      "asset_path": "content/assets/svg/img_his_kulturerbe.svg",
+      "category": "history_civilizations_a2"
+    },
+    "img_his_ausgrabung": {
+      "asset_path": "content/assets/svg/img_his_ausgrabung.svg",
+      "category": "history_civilizations_a2"
+    },
+    "img_his_manuskript": {
+      "asset_path": "content/assets/svg/img_his_manuskript.svg",
+      "category": "history_civilizations_a2"
+    },
+    "img_his_chronik": {
+      "asset_path": "content/assets/svg/img_his_chronik.svg",
+      "category": "history_civilizations_a2"
+    },
+    "img_his_dynastie": {
+      "asset_path": "content/assets/svg/img_his_dynastie.svg",
+      "category": "history_civilizations_a2"
+    },
+    "img_lit_literatur": {
+      "asset_path": "content/assets/svg/img_lit_literatur.svg",
+      "category": "literature_idioms_a2"
+    },
+    "img_lit_poesie": {
+      "asset_path": "content/assets/svg/img_lit_poesie.svg",
+      "category": "literature_idioms_a2"
+    },
+    "img_lit_gedicht": {
+      "asset_path": "content/assets/svg/img_lit_gedicht.svg",
+      "category": "literature_idioms_a2"
+    },
+    "img_lit_dichter": {
+      "asset_path": "content/assets/svg/img_lit_dichter.svg",
+      "category": "literature_idioms_a2"
+    },
+    "img_lit_roman": {
+      "asset_path": "content/assets/svg/img_lit_roman.svg",
+      "category": "literature_idioms_a2"
+    },
+    "img_lit_erzaehlung": {
+      "asset_path": "content/assets/svg/img_lit_erzaehlung.svg",
+      "category": "literature_idioms_a2"
+    },
+    "img_lit_maerchen": {
+      "asset_path": "content/assets/svg/img_lit_maerchen.svg",
+      "category": "literature_idioms_a2"
+    },
+    "img_lit_sprichwort": {
+      "asset_path": "content/assets/svg/img_lit_sprichwort.svg",
+      "category": "literature_idioms_a2"
+    },
+    "img_lit_redewendung": {
+      "asset_path": "content/assets/svg/img_lit_redewendung.svg",
+      "category": "literature_idioms_a2"
+    },
+    "img_lit_metapher": {
+      "asset_path": "content/assets/svg/img_lit_metapher.svg",
+      "category": "literature_idioms_a2"
+    },
+    "img_lit_reim": {
+      "asset_path": "content/assets/svg/img_lit_reim.svg",
+      "category": "literature_idioms_a2"
+    },
+    "img_lit_vers": {
+      "asset_path": "content/assets/svg/img_lit_vers.svg",
+      "category": "literature_idioms_a2"
+    },
+    "img_lit_drama": {
+      "asset_path": "content/assets/svg/img_lit_drama.svg",
+      "category": "literature_idioms_a2"
+    },
+    "img_lit_tragoedie": {
+      "asset_path": "content/assets/svg/img_lit_tragoedie.svg",
+      "category": "literature_idioms_a2"
+    },
+    "img_lit_komoedie": {
+      "asset_path": "content/assets/svg/img_lit_komoedie.svg",
+      "category": "literature_idioms_a2"
+    },
+    "img_lit_kapitel": {
+      "asset_path": "content/assets/svg/img_lit_kapitel.svg",
+      "category": "literature_idioms_a2"
+    },
+    "img_lit_handlung": {
+      "asset_path": "content/assets/svg/img_lit_handlung.svg",
+      "category": "literature_idioms_a2"
+    },
+    "img_lit_figur": {
+      "asset_path": "content/assets/svg/img_lit_figur.svg",
+      "category": "literature_idioms_a2"
+    },
+    "img_lit_fabel": {
+      "asset_path": "content/assets/svg/img_lit_fabel.svg",
+      "category": "literature_idioms_a2"
+    },
+    "img_lit_daumen_druecken": {
+      "asset_path": "content/assets/svg/img_lit_daumen_druecken.svg",
+      "category": "literature_idioms_a2"
+    },
+    "img_lit_schwein_haben": {
+      "asset_path": "content/assets/svg/img_lit_schwein_haben.svg",
+      "category": "literature_idioms_a2"
+    },
+    "img_lit_zwei_linke_haende": {
+      "asset_path": "content/assets/svg/img_lit_zwei_linke_haende.svg",
+      "category": "literature_idioms_a2"
+    },
+    "img_lit_nerven_treten": {
+      "asset_path": "content/assets/svg/img_lit_nerven_treten.svg",
+      "category": "literature_idioms_a2"
+    },
+    "img_lit_inspiration": {
+      "asset_path": "content/assets/svg/img_lit_inspiration.svg",
+      "category": "literature_idioms_a2"
+    },
+    "img_lit_meisterwerk": {
+      "asset_path": "content/assets/svg/img_lit_meisterwerk.svg",
+      "category": "literature_idioms_a2"
+    },
+    "img_psy_psychologie": {
+      "asset_path": "content/assets/svg/img_psy_psychologie.svg",
+      "category": "psychology_behavior_a2"
+    },
+    "img_psy_verhalten": {
+      "asset_path": "content/assets/svg/img_psy_verhalten.svg",
+      "category": "psychology_behavior_a2"
+    },
+    "img_psy_gewohnheit": {
+      "asset_path": "content/assets/svg/img_psy_gewohnheit.svg",
+      "category": "psychology_behavior_a2"
+    },
+    "img_psy_persoenlichkeit": {
+      "asset_path": "content/assets/svg/img_psy_persoenlichkeit.svg",
+      "category": "psychology_behavior_a2"
+    },
+    "img_psy_charakter": {
+      "asset_path": "content/assets/svg/img_psy_charakter.svg",
+      "category": "psychology_behavior_a2"
+    },
+    "img_psy_emotion": {
+      "asset_path": "content/assets/svg/img_psy_emotion.svg",
+      "category": "psychology_behavior_a2"
+    },
+    "img_psy_angst": {
+      "asset_path": "content/assets/svg/img_psy_angst.svg",
+      "category": "psychology_behavior_a2"
+    },
+    "img_psy_mut": {
+      "asset_path": "content/assets/svg/img_psy_mut.svg",
+      "category": "psychology_behavior_a2"
+    },
+    "img_psy_selbstvertrauen": {
+      "asset_path": "content/assets/svg/img_psy_selbstvertrauen.svg",
+      "category": "psychology_behavior_a2"
+    },
+    "img_psy_empathie": {
+      "asset_path": "content/assets/svg/img_psy_empathie.svg",
+      "category": "psychology_behavior_a2"
+    },
+    "img_psy_geduld": {
+      "asset_path": "content/assets/svg/img_psy_geduld.svg",
+      "category": "psychology_behavior_a2"
+    },
+    "img_psy_neugier": {
+      "asset_path": "content/assets/svg/img_psy_neugier.svg",
+      "category": "psychology_behavior_a2"
+    },
+    "img_psy_disziplin": {
+      "asset_path": "content/assets/svg/img_psy_disziplin.svg",
+      "category": "psychology_behavior_a2"
+    },
+    "img_psy_intuition": {
+      "asset_path": "content/assets/svg/img_psy_intuition.svg",
+      "category": "psychology_behavior_a2"
+    },
+    "img_psy_gedaechtnis": {
+      "asset_path": "content/assets/svg/img_psy_gedaechtnis.svg",
+      "category": "psychology_behavior_a2"
+    },
+    "img_psy_wahrnehmung": {
+      "asset_path": "content/assets/svg/img_psy_wahrnehmung.svg",
+      "category": "psychology_behavior_a2"
+    },
+    "img_psy_unterbewusstsein": {
+      "asset_path": "content/assets/svg/img_psy_unterbewusstsein.svg",
+      "category": "psychology_behavior_a2"
+    },
+    "img_psy_entscheidung": {
+      "asset_path": "content/assets/svg/img_psy_entscheidung.svg",
+      "category": "psychology_behavior_a2"
+    },
+    "img_psy_reaktion": {
+      "asset_path": "content/assets/svg/img_psy_reaktion.svg",
+      "category": "psychology_behavior_a2"
+    },
+    "img_psy_frustration": {
+      "asset_path": "content/assets/svg/img_psy_frustration.svg",
+      "category": "psychology_behavior_a2"
+    },
+    "img_psy_resilienz": {
+      "asset_path": "content/assets/svg/img_psy_resilienz.svg",
+      "category": "psychology_behavior_a2"
+    },
+    "img_psy_hoffnung": {
+      "asset_path": "content/assets/svg/img_psy_hoffnung.svg",
+      "category": "psychology_behavior_a2"
+    },
+    "img_psy_dankbarkeit": {
+      "asset_path": "content/assets/svg/img_psy_dankbarkeit.svg",
+      "category": "psychology_behavior_a2"
+    },
+    "img_psy_selbstbeherrschung": {
+      "asset_path": "content/assets/svg/img_psy_selbstbeherrschung.svg",
+      "category": "psychology_behavior_a2"
+    },
+    "img_psy_identitaet": {
+      "asset_path": "content/assets/svg/img_psy_identitaet.svg",
+      "category": "psychology_behavior_a2"
+    },
+    "img_tou_tourismus": {
+      "asset_path": "content/assets/svg/img_tou_tourismus.svg",
+      "category": "tourism_travel_a2"
+    },
+    "img_tou_tourist": {
+      "asset_path": "content/assets/svg/img_tou_tourist.svg",
+      "category": "tourism_travel_a2"
+    },
+    "img_tou_touristin": {
+      "asset_path": "content/assets/svg/img_tou_touristin.svg",
+      "category": "tourism_travel_a2"
+    },
+    "img_tou_reiseziel": {
+      "asset_path": "content/assets/svg/img_tou_reiseziel.svg",
+      "category": "tourism_travel_a2"
+    },
+    "img_tou_reiseplan": {
+      "asset_path": "content/assets/svg/img_tou_reiseplan.svg",
+      "category": "tourism_travel_a2"
+    },
+    "img_tou_sehenswuerdigkeit": {
+      "asset_path": "content/assets/svg/img_tou_sehenswuerdigkeit.svg",
+      "category": "tourism_travel_a2"
+    },
+    "img_tou_reisepass": {
+      "asset_path": "content/assets/svg/img_tou_reisepass.svg",
+      "category": "tourism_travel_a2"
+    },
+    "img_tou_visum": {
+      "asset_path": "content/assets/svg/img_tou_visum.svg",
+      "category": "tourism_travel_a2"
+    },
+    "img_tou_zoll": {
+      "asset_path": "content/assets/svg/img_tou_zoll.svg",
+      "category": "tourism_travel_a2"
+    },
+    "img_tou_grenze": {
+      "asset_path": "content/assets/svg/img_tou_grenze.svg",
+      "category": "tourism_travel_a2"
+    },
+    "img_tou_reiseleiter": {
+      "asset_path": "content/assets/svg/img_tou_reiseleiter.svg",
+      "category": "tourism_travel_a2"
+    },
+    "img_tou_gepaeck": {
+      "asset_path": "content/assets/svg/img_tou_gepaeck.svg",
+      "category": "tourism_travel_a2"
+    },
+    "img_tou_koffer": {
+      "asset_path": "content/assets/svg/img_tou_koffer.svg",
+      "category": "tourism_travel_a2"
+    },
+    "img_tou_flugticket": {
+      "asset_path": "content/assets/svg/img_tou_flugticket.svg",
+      "category": "tourism_travel_a2"
+    },
+    "img_tou_kreuzfahrt": {
+      "asset_path": "content/assets/svg/img_tou_kreuzfahrt.svg",
+      "category": "tourism_travel_a2"
+    },
+    "img_tou_insel": {
+      "asset_path": "content/assets/svg/img_tou_insel.svg",
+      "category": "tourism_travel_a2"
+    },
+    "img_tou_gebirge": {
+      "asset_path": "content/assets/svg/img_tou_gebirge.svg",
+      "category": "tourism_travel_a2"
+    },
+    "img_tou_wasserfall": {
+      "asset_path": "content/assets/svg/img_tou_wasserfall.svg",
+      "category": "tourism_travel_a2"
+    },
+    "img_tou_resort": {
+      "asset_path": "content/assets/svg/img_tou_resort.svg",
+      "category": "tourism_travel_a2"
+    },
+    "img_tou_souvenir": {
+      "asset_path": "content/assets/svg/img_tou_souvenir.svg",
+      "category": "tourism_travel_a2"
+    },
+    "img_tou_abenteuer": {
+      "asset_path": "content/assets/svg/img_tou_abenteuer.svg",
+      "category": "tourism_travel_a2"
+    },
+    "img_tou_wechselstube": {
+      "asset_path": "content/assets/svg/img_tou_wechselstube.svg",
+      "category": "tourism_travel_a2"
+    },
+    "img_tou_checkin": {
+      "asset_path": "content/assets/svg/img_tou_checkin.svg",
+      "category": "tourism_travel_a2"
+    },
+    "img_tou_backpacking": {
+      "asset_path": "content/assets/svg/img_tou_backpacking.svg",
+      "category": "tourism_travel_a2"
+    },
+    "img_tou_weltwunder": {
+      "asset_path": "content/assets/svg/img_tou_weltwunder.svg",
+      "category": "tourism_travel_a2"
+    },
+    "img_dip_diplomatie": {
+      "asset_path": "content/assets/svg/img_dip_diplomatie.svg",
+      "category": "diplomacy_peace_a2"
+    },
+    "img_dip_diplomat": {
+      "asset_path": "content/assets/svg/img_dip_diplomat.svg",
+      "category": "diplomacy_peace_a2"
+    },
+    "img_dip_botschaft": {
+      "asset_path": "content/assets/svg/img_dip_botschaft.svg",
+      "category": "diplomacy_peace_a2"
+    },
+    "img_dip_botschafter": {
+      "asset_path": "content/assets/svg/img_dip_botschafter.svg",
+      "category": "diplomacy_peace_a2"
+    },
+    "img_dip_gipfel": {
+      "asset_path": "content/assets/svg/img_dip_gipfel.svg",
+      "category": "diplomacy_peace_a2"
+    },
+    "img_dip_konflikt": {
+      "asset_path": "content/assets/svg/img_dip_konflikt.svg",
+      "category": "diplomacy_peace_a2"
+    },
+    "img_dip_verhandlung": {
+      "asset_path": "content/assets/svg/img_dip_verhandlung.svg",
+      "category": "diplomacy_peace_a2"
+    },
+    "img_dip_friedensvertrag": {
+      "asset_path": "content/assets/svg/img_dip_friedensvertrag.svg",
+      "category": "diplomacy_peace_a2"
+    },
+    "img_dip_waffenstillstand": {
+      "asset_path": "content/assets/svg/img_dip_waffenstillstand.svg",
+      "category": "diplomacy_peace_a2"
+    },
+    "img_dip_sicherheitsrat": {
+      "asset_path": "content/assets/svg/img_dip_sicherheitsrat.svg",
+      "category": "diplomacy_peace_a2"
+    },
+    "img_dip_un": {
+      "asset_path": "content/assets/svg/img_dip_un.svg",
+      "category": "diplomacy_peace_a2"
+    },
+    "img_dip_hilfe": {
+      "asset_path": "content/assets/svg/img_dip_hilfe.svg",
+      "category": "diplomacy_peace_a2"
+    },
+    "img_dip_fluechtling": {
+      "asset_path": "content/assets/svg/img_dip_fluechtling.svg",
+      "category": "diplomacy_peace_a2"
+    },
+    "img_dip_asyl": {
+      "asset_path": "content/assets/svg/img_dip_asyl.svg",
+      "category": "diplomacy_peace_a2"
+    },
+    "img_dip_versoehnung": {
+      "asset_path": "content/assets/svg/img_dip_versoehnung.svg",
+      "category": "diplomacy_peace_a2"
+    },
+    "img_dip_kompromiss": {
+      "asset_path": "content/assets/svg/img_dip_kompromiss.svg",
+      "category": "diplomacy_peace_a2"
+    },
+    "img_dip_buendnis": {
+      "asset_path": "content/assets/svg/img_dip_buendnis.svg",
+      "category": "diplomacy_peace_a2"
+    },
+    "img_dip_vermittlung": {
+      "asset_path": "content/assets/svg/img_dip_vermittlung.svg",
+      "category": "diplomacy_peace_a2"
+    },
+    "img_dip_neutralitaet": {
+      "asset_path": "content/assets/svg/img_dip_neutralitaet.svg",
+      "category": "diplomacy_peace_a2"
+    },
+    "img_dip_solidaritaet": {
+      "asset_path": "content/assets/svg/img_dip_solidaritaet.svg",
+      "category": "diplomacy_peace_a2"
+    },
+    "img_dip_abruestung": {
+      "asset_path": "content/assets/svg/img_dip_abruestung.svg",
+      "category": "diplomacy_peace_a2"
+    },
+    "img_dip_souveraenitaet": {
+      "asset_path": "content/assets/svg/img_dip_souveraenitaet.svg",
+      "category": "diplomacy_peace_a2"
+    },
+    "img_dip_dialog": {
+      "asset_path": "content/assets/svg/img_dip_dialog.svg",
+      "category": "diplomacy_peace_a2"
+    },
+    "img_dip_resolution": {
+      "asset_path": "content/assets/svg/img_dip_resolution.svg",
+      "category": "diplomacy_peace_a2"
+    },
+    "img_dip_weltfrieden": {
+      "asset_path": "content/assets/svg/img_dip_weltfrieden.svg",
+      "category": "diplomacy_peace_a2"
+    },
+    "img_rel_mann_nom": {
+      "asset_path": "content/assets/svg/img_rel_mann_nom.svg",
+      "category": "relative_clauses_a2"
+    },
+    "img_rel_frau_nom": {
+      "asset_path": "content/assets/svg/img_rel_frau_nom.svg",
+      "category": "relative_clauses_a2"
+    },
+    "img_rel_kind_nom": {
+      "asset_path": "content/assets/svg/img_rel_kind_nom.svg",
+      "category": "relative_clauses_a2"
+    },
+    "img_rel_freunde_nom": {
+      "asset_path": "content/assets/svg/img_rel_freunde_nom.svg",
+      "category": "relative_clauses_a2"
+    },
+    "img_rel_lehrer_akk": {
+      "asset_path": "content/assets/svg/img_rel_lehrer_akk.svg",
+      "category": "relative_clauses_a2"
+    },
+    "img_rel_stadt_akk": {
+      "asset_path": "content/assets/svg/img_rel_stadt_akk.svg",
+      "category": "relative_clauses_a2"
+    },
+    "img_rel_buch_akk": {
+      "asset_path": "content/assets/svg/img_rel_buch_akk.svg",
+      "category": "relative_clauses_a2"
+    },
+    "img_rel_fotos_akk": {
+      "asset_path": "content/assets/svg/img_rel_fotos_akk.svg",
+      "category": "relative_clauses_a2"
+    },
+    "img_rel_hund_nom": {
+      "asset_path": "content/assets/svg/img_rel_hund_nom.svg",
+      "category": "relative_clauses_a2"
+    },
+    "img_rel_auto_akk": {
+      "asset_path": "content/assets/svg/img_rel_auto_akk.svg",
+      "category": "relative_clauses_a2"
+    },
+    "img_k2_waere": {
+      "asset_path": "content/assets/svg/img_k2_waere.svg",
+      "category": "konjunktiv_ii_a2"
+    },
+    "img_k2_haette": {
+      "asset_path": "content/assets/svg/img_k2_haette.svg",
+      "category": "konjunktiv_ii_a2"
+    },
+    "img_k2_wuerde": {
+      "asset_path": "content/assets/svg/img_k2_wuerde.svg",
+      "category": "konjunktiv_ii_a2"
+    },
+    "img_k2_koennte": {
+      "asset_path": "content/assets/svg/img_k2_koennte.svg",
+      "category": "konjunktiv_ii_a2"
+    },
+    "img_k2_sollte": {
+      "asset_path": "content/assets/svg/img_k2_sollte.svg",
+      "category": "konjunktiv_ii_a2"
+    },
+    "img_k2_muesste": {
+      "asset_path": "content/assets/svg/img_k2_muesste.svg",
+      "category": "konjunktiv_ii_a2"
+    },
+    "img_k2_fenster": {
+      "asset_path": "content/assets/svg/img_k2_fenster.svg",
+      "category": "konjunktiv_ii_a2"
+    },
+    "img_k2_wenn_zeit": {
+      "asset_path": "content/assets/svg/img_k2_wenn_zeit.svg",
+      "category": "konjunktiv_ii_a2"
+    },
+    "img_k2_wenn_reich": {
+      "asset_path": "content/assets/svg/img_k2_wenn_reich.svg",
+      "category": "konjunktiv_ii_a2"
+    },
+    "img_k2_treffen": {
+      "asset_path": "content/assets/svg/img_k2_treffen.svg",
+      "category": "konjunktiv_ii_a2"
+    },
+    "img_pas_patient": {
+      "asset_path": "content/assets/svg/img_pas_patient.svg",
+      "category": "passive_voice_a2"
+    },
+    "img_pas_auto": {
+      "asset_path": "content/assets/svg/img_pas_auto.svg",
+      "category": "passive_voice_a2"
+    },
+    "img_pas_haus": {
+      "asset_path": "content/assets/svg/img_pas_haus.svg",
+      "category": "passive_voice_a2"
+    },
+    "img_pas_essen": {
+      "asset_path": "content/assets/svg/img_pas_essen.svg",
+      "category": "passive_voice_a2"
+    },
+    "img_pas_zimmer": {
+      "asset_path": "content/assets/svg/img_pas_zimmer.svg",
+      "category": "passive_voice_a2"
+    },
+    "img_pas_buch": {
+      "asset_path": "content/assets/svg/img_pas_buch.svg",
+      "category": "passive_voice_a2"
+    },
+    "img_pas_email": {
+      "asset_path": "content/assets/svg/img_pas_email.svg",
+      "category": "passive_voice_a2"
+    },
+    "img_pas_restaurant": {
+      "asset_path": "content/assets/svg/img_pas_restaurant.svg",
+      "category": "passive_voice_a2"
+    },
+    "img_pas_bruecke": {
+      "asset_path": "content/assets/svg/img_pas_bruecke.svg",
+      "category": "passive_voice_a2"
+    },
+    "img_pas_museum": {
+      "asset_path": "content/assets/svg/img_pas_museum.svg",
+      "category": "passive_voice_a2"
+    },
+    "img_conj_weil": {
+      "asset_path": "content/assets/svg/img_conj_weil.svg",
+      "category": "conjunctions_a2"
+    },
+    "img_conj_dass": {
+      "asset_path": "content/assets/svg/img_conj_dass.svg",
+      "category": "conjunctions_a2"
+    },
+    "img_conj_obwohl": {
+      "asset_path": "content/assets/svg/img_conj_obwohl.svg",
+      "category": "conjunctions_a2"
+    },
+    "img_conj_wenn": {
+      "asset_path": "content/assets/svg/img_conj_wenn.svg",
+      "category": "conjunctions_a2"
+    },
+    "img_conj_da": {
+      "asset_path": "content/assets/svg/img_conj_da.svg",
+      "category": "conjunctions_a2"
+    },
+    "img_conj_ob": {
+      "asset_path": "content/assets/svg/img_conj_ob.svg",
+      "category": "conjunctions_a2"
+    },
+    "img_conj_pruefung": {
+      "asset_path": "content/assets/svg/img_conj_pruefung.svg",
+      "category": "conjunctions_a2"
+    },
+    "img_conj_gesund": {
+      "asset_path": "content/assets/svg/img_conj_gesund.svg",
+      "category": "conjunctions_a2"
+    },
+    "img_conj_laecheln": {
+      "asset_path": "content/assets/svg/img_conj_laecheln.svg",
+      "category": "conjunctions_a2"
+    },
+    "img_conj_picknick": {
+      "asset_path": "content/assets/svg/img_conj_picknick.svg",
+      "category": "conjunctions_a2"
+    },
+    "img_zu_kino": {
+      "asset_path": "content/assets/svg/img_zu_kino.svg",
+      "category": "infinitive_zu_a2"
+    },
+    "img_zu_vokabeln": {
+      "asset_path": "content/assets/svg/img_zu_vokabeln.svg",
+      "category": "infinitive_zu_a2"
+    },
+    "img_zu_reise": {
+      "asset_path": "content/assets/svg/img_zu_reise.svg",
+      "category": "infinitive_zu_a2"
+    },
+    "img_zu_brot": {
+      "asset_path": "content/assets/svg/img_zu_brot.svg",
+      "category": "infinitive_zu_a2"
+    },
+    "img_zu_wecker": {
+      "asset_path": "content/assets/svg/img_zu_wecker.svg",
+      "category": "infinitive_zu_a2"
+    },
+    "img_zu_wasser": {
+      "asset_path": "content/assets/svg/img_zu_wasser.svg",
+      "category": "infinitive_zu_a2"
+    },
+    "img_zu_flughafen": {
+      "asset_path": "content/assets/svg/img_zu_flughafen.svg",
+      "category": "infinitive_zu_a2"
+    },
+    "img_zu_verstehen": {
+      "asset_path": "content/assets/svg/img_zu_verstehen.svg",
+      "category": "infinitive_zu_a2"
+    },
+    "img_zu_gruendung": {
+      "asset_path": "content/assets/svg/img_zu_gruendung.svg",
+      "category": "infinitive_zu_a2"
+    },
+    "img_zu_verbot": {
+      "asset_path": "content/assets/svg/img_zu_verbot.svg",
+      "category": "infinitive_zu_a2"
+    },
+    "img_adek_zug": {
+      "asset_path": "content/assets/svg/img_adek_zug.svg",
+      "category": "adjective_declension_a2"
+    },
+    "img_adek_apfel": {
+      "asset_path": "content/assets/svg/img_adek_apfel.svg",
+      "category": "adjective_declension_a2"
+    },
+    "img_adek_freund": {
+      "asset_path": "content/assets/svg/img_adek_freund.svg",
+      "category": "adjective_declension_a2"
+    },
+    "img_adek_buch": {
+      "asset_path": "content/assets/svg/img_adek_buch.svg",
+      "category": "adjective_declension_a2"
+    },
+    "img_adek_wohnung": {
+      "asset_path": "content/assets/svg/img_adek_wohnung.svg",
+      "category": "adjective_declension_a2"
+    },
+    "img_adek_kaffee": {
+      "asset_path": "content/assets/svg/img_adek_kaffee.svg",
+      "category": "adjective_declension_a2"
+    },
+    "img_adek_wasser": {
+      "asset_path": "content/assets/svg/img_adek_wasser.svg",
+      "category": "adjective_declension_a2"
+    },
+    "img_adek_wetter": {
+      "asset_path": "content/assets/svg/img_adek_wetter.svg",
+      "category": "adjective_declension_a2"
+    },
+    "img_adek_kinder": {
+      "asset_path": "content/assets/svg/img_adek_kinder.svg",
+      "category": "adjective_declension_a2"
+    },
+    "img_adek_rosen": {
+      "asset_path": "content/assets/svg/img_adek_rosen.svg",
+      "category": "adjective_declension_a2"
+    },
+    "img_cmp_schneller": {
+      "asset_path": "content/assets/svg/img_cmp_schneller.svg",
+      "category": "comparatives_a2"
+    },
+    "img_cmp_besser": {
+      "asset_path": "content/assets/svg/img_cmp_besser.svg",
+      "category": "comparatives_a2"
+    },
+    "img_cmp_am_besten": {
+      "asset_path": "content/assets/svg/img_cmp_am_besten.svg",
+      "category": "comparatives_a2"
+    },
+    "img_cmp_genauso": {
+      "asset_path": "content/assets/svg/img_cmp_genauso.svg",
+      "category": "comparatives_a2"
+    },
+    "img_cmp_groesser": {
+      "asset_path": "content/assets/svg/img_cmp_groesser.svg",
+      "category": "comparatives_a2"
+    },
+    "img_cmp_aelteste": {
+      "asset_path": "content/assets/svg/img_cmp_aelteste.svg",
+      "category": "comparatives_a2"
+    },
+    "img_cmp_lieber": {
+      "asset_path": "content/assets/svg/img_cmp_lieber.svg",
+      "category": "comparatives_a2"
+    },
+    "img_cmp_am_meisten": {
+      "asset_path": "content/assets/svg/img_cmp_am_meisten.svg",
+      "category": "comparatives_a2"
+    },
+    "img_cmp_hoeher": {
+      "asset_path": "content/assets/svg/img_cmp_hoeher.svg",
+      "category": "comparatives_a2"
+    },
+    "img_cmp_naechste": {
+      "asset_path": "content/assets/svg/img_cmp_naechste.svg",
+      "category": "comparatives_a2"
+    },
+    "img_tmp_vor": {
+      "asset_path": "content/assets/svg/img_tmp_vor.svg",
+      "category": "temporal_prepositions_a2"
+    },
+    "img_tmp_nach": {
+      "asset_path": "content/assets/svg/img_tmp_nach.svg",
+      "category": "temporal_prepositions_a2"
+    },
+    "img_tmp_seit": {
+      "asset_path": "content/assets/svg/img_tmp_seit.svg",
+      "category": "temporal_prepositions_a2"
+    },
+    "img_tmp_waehrend": {
+      "asset_path": "content/assets/svg/img_tmp_waehrend.svg",
+      "category": "temporal_prepositions_a2"
+    },
+    "img_tmp_ab": {
+      "asset_path": "content/assets/svg/img_tmp_ab.svg",
+      "category": "temporal_prepositions_a2"
+    },
+    "img_tmp_bis": {
+      "asset_path": "content/assets/svg/img_tmp_bis.svg",
+      "category": "temporal_prepositions_a2"
+    },
+    "img_tmp_fuer": {
+      "asset_path": "content/assets/svg/img_tmp_fuer.svg",
+      "category": "temporal_prepositions_a2"
+    },
+    "img_tmp_zwischen": {
+      "asset_path": "content/assets/svg/img_tmp_zwischen.svg",
+      "category": "temporal_prepositions_a2"
+    },
+    "img_tmp_bei": {
+      "asset_path": "content/assets/svg/img_tmp_bei.svg",
+      "category": "temporal_prepositions_a2"
+    },
+    "img_tmp_innerhalb": {
+      "asset_path": "content/assets/svg/img_tmp_innerhalb.svg",
+      "category": "temporal_prepositions_a2"
+    },
+    "img_prt_denn": {
+      "asset_path": "content/assets/svg/img_prt_denn.svg",
+      "category": "modal_particles_a2"
+    },
+    "img_prt_doch": {
+      "asset_path": "content/assets/svg/img_prt_doch.svg",
+      "category": "modal_particles_a2"
+    },
+    "img_prt_ja": {
+      "asset_path": "content/assets/svg/img_prt_ja.svg",
+      "category": "modal_particles_a2"
+    },
+    "img_prt_mal": {
+      "asset_path": "content/assets/svg/img_prt_mal.svg",
+      "category": "modal_particles_a2"
+    },
+    "img_prt_halt": {
+      "asset_path": "content/assets/svg/img_prt_halt.svg",
+      "category": "modal_particles_a2"
+    },
+    "img_prt_eben": {
+      "asset_path": "content/assets/svg/img_prt_eben.svg",
+      "category": "modal_particles_a2"
+    },
+    "img_prt_eigentlich": {
+      "asset_path": "content/assets/svg/img_prt_eigentlich.svg",
+      "category": "modal_particles_a2"
+    },
+    "img_prt_problem": {
+      "asset_path": "content/assets/svg/img_prt_problem.svg",
+      "category": "modal_particles_a2"
+    },
+    "img_prt_fertig": {
+      "asset_path": "content/assets/svg/img_prt_fertig.svg",
+      "category": "modal_particles_a2"
+    },
+    "img_prt_schau": {
+      "asset_path": "content/assets/svg/img_prt_schau.svg",
+      "category": "modal_particles_a2"
+    },
+    "img_fin_sparen": {
+      "asset_path": "content/assets/svg/img_fin_sparen.svg",
+      "category": "final_clauses_a2"
+    },
+    "img_fin_bildung": {
+      "asset_path": "content/assets/svg/img_fin_bildung.svg",
+      "category": "final_clauses_a2"
+    },
+    "img_fin_fitness": {
+      "asset_path": "content/assets/svg/img_fin_fitness.svg",
+      "category": "final_clauses_a2"
+    },
+    "img_fin_schnellzug": {
+      "asset_path": "content/assets/svg/img_fin_schnellzug.svg",
+      "category": "final_clauses_a2"
+    },
+    "img_fin_nebenjob": {
+      "asset_path": "content/assets/svg/img_fin_nebenjob.svg",
+      "category": "final_clauses_a2"
+    },
+    "img_fin_baby": {
+      "asset_path": "content/assets/svg/img_fin_baby.svg",
+      "category": "final_clauses_a2"
+    },
+    "img_fin_pruefung": {
+      "asset_path": "content/assets/svg/img_fin_pruefung.svg",
+      "category": "final_clauses_a2"
+    },
+    "img_fin_chef": {
+      "asset_path": "content/assets/svg/img_fin_chef.svg",
+      "category": "final_clauses_a2"
+    },
+    "img_fin_abnehmen": {
+      "asset_path": "content/assets/svg/img_fin_abnehmen.svg",
+      "category": "final_clauses_a2"
+    },
+    "img_fin_telefon": {
+      "asset_path": "content/assets/svg/img_fin_telefon.svg",
+      "category": "final_clauses_a2"
+    },
+    "img_verb_be": {
+      "asset_path": "content/assets/svg/img_verb_be.svg",
+      "category": "verbs_a1"
+    },
+    "img_verb_have": {
+      "asset_path": "content/assets/svg/img_verb_have.svg",
+      "category": "verbs_a1"
+    },
+    "img_verb_eat": {
+      "asset_path": "content/assets/svg/img_verb_eat.svg",
+      "category": "verbs_a1"
+    },
+    "img_verb_drink": {
+      "asset_path": "content/assets/svg/img_verb_drink.svg",
+      "category": "verbs_a1"
+    },
+    "img_verb_go": {
+      "asset_path": "content/assets/svg/img_verb_go.svg",
+      "category": "verbs_a1"
+    },
+    "img_verb_come": {
+      "asset_path": "content/assets/svg/img_verb_come.svg",
+      "category": "verbs_a1"
+    },
+    "img_verb_speak": {
+      "asset_path": "content/assets/svg/img_verb_speak.svg",
+      "category": "verbs_a1"
+    },
+    "img_verb_learn": {
+      "asset_path": "content/assets/svg/img_verb_learn.svg",
+      "category": "verbs_a1"
+    },
+    "img_verb_sleep": {
+      "asset_path": "content/assets/svg/img_verb_sleep.svg",
+      "category": "verbs_a1"
+    },
+    "img_verb_see": {
+      "asset_path": "content/assets/svg/img_verb_see.svg",
+      "category": "verbs_a1"
+    },
+    "img_verb_hear": {
+      "asset_path": "content/assets/svg/img_verb_hear.svg",
+      "category": "verbs_a1"
+    },
+    "img_verb_write": {
+      "asset_path": "content/assets/svg/img_verb_write.svg",
+      "category": "verbs_a1"
+    },
+    "img_verb_read": {
+      "asset_path": "content/assets/svg/img_verb_read.svg",
+      "category": "verbs_a1"
+    },
+    "img_verb_make": {
+      "asset_path": "content/assets/svg/img_verb_make.svg",
+      "category": "verbs_a1"
+    },
+    "img_verb_live": {
+      "asset_path": "content/assets/svg/img_verb_live.svg",
+      "category": "verbs_a1"
+    },
+    "img_sep_aufstehen": {
+      "asset_path": "content/assets/svg/img_sep_aufstehen.svg",
+      "category": "separable_verbs_a2"
+    },
+    "img_sep_einkaufen": {
+      "asset_path": "content/assets/svg/img_sep_einkaufen.svg",
+      "category": "separable_verbs_a2"
+    },
+    "img_sep_anrufen": {
+      "asset_path": "content/assets/svg/img_sep_anrufen.svg",
+      "category": "separable_verbs_a2"
+    },
+    "img_sep_mitbringen": {
+      "asset_path": "content/assets/svg/img_sep_mitbringen.svg",
+      "category": "separable_verbs_a2"
+    },
+    "img_sep_fernsehen": {
+      "asset_path": "content/assets/svg/img_sep_fernsehen.svg",
+      "category": "separable_verbs_a2"
+    },
+    "img_sep_einladen": {
+      "asset_path": "content/assets/svg/img_sep_einladen.svg",
+      "category": "separable_verbs_a2"
+    },
+    "img_sep_abfahren": {
+      "asset_path": "content/assets/svg/img_sep_abfahren.svg",
+      "category": "separable_verbs_a2"
+    },
+    "img_sep_anfangen": {
+      "asset_path": "content/assets/svg/img_sep_anfangen.svg",
+      "category": "separable_verbs_a2"
+    },
+    "img_sep_bekommen": {
+      "asset_path": "content/assets/svg/img_sep_bekommen.svg",
+      "category": "separable_verbs_a2"
+    },
+    "img_sep_versprechen": {
+      "asset_path": "content/assets/svg/img_sep_versprechen.svg",
+      "category": "separable_verbs_a2"
+    },
+    "img_dial_meeting": {
+      "asset_path": "content/assets/svg/img_dial_meeting.svg",
+      "category": "dialogues_a1"
+    },
+    "img_dial_cafe": {
+      "asset_path": "content/assets/svg/img_dial_cafe.svg",
+      "category": "dialogues_a1"
+    },
+    "img_dial_supermarket": {
+      "asset_path": "content/assets/svg/img_dial_supermarket.svg",
+      "category": "dialogues_a1"
+    },
+    "img_dial_directions": {
+      "asset_path": "content/assets/svg/img_dial_directions.svg",
+      "category": "dialogues_a1"
+    },
+    "img_dial_hotel": {
+      "asset_path": "content/assets/svg/img_dial_hotel.svg",
+      "category": "dialogues_a1"
     }
   }
 }
