@@ -4335,6 +4335,106 @@
     "ren_efficiency": {
       "asset_path": "content/assets/svg/ren_efficiency.svg",
       "category": "energy"
+    },
+    "cyb_security": {
+      "asset_path": "content/assets/svg/cyb_security.svg",
+      "category": "technology"
+    },
+    "cyb_ai": {
+      "asset_path": "content/assets/svg/cyb_ai.svg",
+      "category": "technology"
+    },
+    "cyb_coding": {
+      "asset_path": "content/assets/svg/cyb_coding.svg",
+      "category": "technology"
+    },
+    "cyb_data": {
+      "asset_path": "content/assets/svg/cyb_data.svg",
+      "category": "technology"
+    },
+    "cyb_password": {
+      "asset_path": "content/assets/svg/cyb_password.svg",
+      "category": "technology"
+    },
+    "cyb_firewall": {
+      "asset_path": "content/assets/svg/cyb_firewall.svg",
+      "category": "technology"
+    },
+    "cyb_virus": {
+      "asset_path": "content/assets/svg/cyb_virus.svg",
+      "category": "technology"
+    },
+    "cyb_hacker": {
+      "asset_path": "content/assets/svg/cyb_hacker.svg",
+      "category": "technology"
+    },
+    "cyb_encryption": {
+      "asset_path": "content/assets/svg/cyb_encryption.svg",
+      "category": "technology"
+    },
+    "cyb_server": {
+      "asset_path": "content/assets/svg/cyb_server.svg",
+      "category": "technology"
+    },
+    "cyb_cloud": {
+      "asset_path": "content/assets/svg/cyb_cloud.svg",
+      "category": "technology"
+    },
+    "cyb_network": {
+      "asset_path": "content/assets/svg/cyb_network.svg",
+      "category": "technology"
+    },
+    "cyb_algorithm": {
+      "asset_path": "content/assets/svg/cyb_algorithm.svg",
+      "category": "technology"
+    },
+    "cyb_software": {
+      "asset_path": "content/assets/svg/cyb_software.svg",
+      "category": "technology"
+    },
+    "cyb_hardware": {
+      "asset_path": "content/assets/svg/cyb_hardware.svg",
+      "category": "technology"
+    },
+    "cyb_app": {
+      "asset_path": "content/assets/svg/cyb_app.svg",
+      "category": "technology"
+    },
+    "cyb_update": {
+      "asset_path": "content/assets/svg/cyb_update.svg",
+      "category": "technology"
+    },
+    "cyb_login": {
+      "asset_path": "content/assets/svg/cyb_login.svg",
+      "category": "technology"
+    },
+    "cyb_logout": {
+      "asset_path": "content/assets/svg/cyb_logout.svg",
+      "category": "technology"
+    },
+    "cyb_delete": {
+      "asset_path": "content/assets/svg/cyb_delete.svg",
+      "category": "technology"
+    },
+    "cyb_save": {
+      "asset_path": "content/assets/svg/cyb_save.svg",
+      "category": "technology"
+    },
+    "cyb_search": {
+      "asset_path": "content/assets/svg/cyb_search.svg",
+      "category": "technology"
+    },
+    "cyb_download": {
+      "asset_path": "content/assets/svg/cyb_download.svg",
+      "category": "technology"
+    },
+    "cyb_upload": {
+      "asset_path": "content/assets/svg/cyb_upload.svg",
+      "category": "technology"
+    },
+    "cyb_bug": {
+      "asset_path": "content/assets/svg/cyb_bug.svg",
+      "category": "technology"
     }
   }
 }

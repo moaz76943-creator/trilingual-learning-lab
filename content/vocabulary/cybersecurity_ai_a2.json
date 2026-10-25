@@ -1,0 +1,204 @@
+{
+  "concepts": [
+    {
+      "id": "cyb_001",
+      "german": "die Cybersicherheit",
+      "plural": "-",
+      "arabic": "الْأَمْنُ السِّيبِرَانِيُّ",
+      "english": "cybersecurity",
+      "image_id": "cyb_security"
+    },
+    {
+      "id": "cyb_002",
+      "german": "die künstliche Intelligenz",
+      "plural": "-",
+      "arabic": "الذَّكَاءُ الِاصْطِنَاعِيُّ",
+      "english": "artificial intelligence",
+      "image_id": "cyb_ai"
+    },
+    {
+      "id": "cyb_003",
+      "german": "die Programmierung",
+      "plural": "die Programmierungen",
+      "arabic": "الْبَرْمَجَةُ",
+      "english": "programming",
+      "image_id": "cyb_coding"
+    },
+    {
+      "id": "cyb_004",
+      "german": "die Daten",
+      "plural": "-",
+      "arabic": "الْبَيَانَاتُ",
+      "english": "data",
+      "image_id": "cyb_data"
+    },
+    {
+      "id": "cyb_005",
+      "german": "das Passwort",
+      "plural": "die Passwörter",
+      "arabic": "كَلِمَةُ الْمُرُورِ",
+      "english": "password",
+      "image_id": "cyb_password"
+    },
+    {
+      "id": "cyb_006",
+      "german": "die Firewall",
+      "plural": "die Firewalls",
+      "arabic": "جِدَارُ الْحِمَايَةِ",
+      "english": "firewall",
+      "image_id": "cyb_firewall"
+    },
+    {
+      "id": "cyb_007",
+      "german": "der Virus",
+      "plural": "die Viren",
+      "arabic": "الْفَيْرُوسُ",
+      "english": "virus",
+      "image_id": "cyb_virus"
+    },
+    {
+      "id": "cyb_008",
+      "german": "der Hacker",
+      "plural": "die Hacker",
+      "arabic": "الْمُخْتَرِقُ (الْهَاكِرُ)",
+      "english": "hacker",
+      "image_id": "cyb_hacker"
+    },
+    {
+      "id": "cyb_009",
+      "german": "die Verschlüsselung",
+      "plural": "die Verschlüsselungen",
+      "arabic": "التَّشْفِيرُ",
+      "english": "encryption",
+      "image_id": "cyb_encryption"
+    },
+    {
+      "id": "cyb_010",
+      "german": "der Server",
+      "plural": "die Server",
+      "arabic": "الْخَادِمُ (السِّيرْفَرُ)",
+      "english": "server",
+      "image_id": "cyb_server"
+    },
+    {
+      "id": "cyb_011",
+      "german": "die Cloud",
+      "plural": "-",
+      "arabic": "السَّحَابَةُ (الْكَلَاوُدُ)",
+      "english": "cloud",
+      "image_id": "cyb_cloud"
+    },
+    {
+      "id": "cyb_012",
+      "german": "das Netzwerk",
+      "plural": "die Netzwerke",
+      "arabic": "الشَّبَكَةُ",
+      "english": "network",
+      "image_id": "cyb_network"
+    },
+    {
+      "id": "cyb_013",
+      "german": "der Algorithmus",
+      "plural": "die Algorithmen",
+      "arabic": "الْخَوَارِزْمِيَّةُ",
+      "english": "algorithm",
+      "image_id": "cyb_algorithm"
+    },
+    {
+      "id": "cyb_014",
+      "german": "die Software",
+      "plural": "-",
+      "arabic": "الْبَرْمَجِيَّاتُ",
+      "english": "software",
+      "image_id": "cyb_software"
+    },
+    {
+      "id": "cyb_015",
+      "german": "die Hardware",
+      "plural": "-",
+      "arabic": "الْعَتَادُ (الْهَارْدْوِيرُ)",
+      "english": "hardware",
+      "image_id": "cyb_hardware"
+    },
+    {
+      "id": "cyb_016",
+      "german": "die Anwendung (App)",
+      "plural": "die Anwendungen",
+      "arabic": "التَّطْبِيقُ",
+      "english": "application (app)",
+      "image_id": "cyb_app"
+    },
+    {
+      "id": "cyb_017",
+      "german": "das Update",
+      "plural": "die Updates",
+      "arabic": "التَّحْدِيثُ",
+      "english": "update",
+      "image_id": "cyb_update"
+    },
+    {
+      "id": "cyb_018",
+      "german": "die Anmeldung",
+      "plural": "die Anmeldungen",
+      "arabic": "تَسْجِيلُ الدُّخُولِ",
+      "english": "login",
+      "image_id": "cyb_login"
+    },
+    {
+      "id": "cyb_019",
+      "german": "die Abmeldung",
+      "plural": "die Abmeldungen",
+      "arabic": "تَسْجِيلُ الْخُرُوجِ",
+      "english": "logout",
+      "image_id": "cyb_logout"
+    },
+    {
+      "id": "cyb_020",
+      "german": "löschen",
+      "plural": "-",
+      "arabic": "يَحْذِفُ",
+      "english": "to delete",
+      "image_id": "cyb_delete"
+    },
+    {
+      "id": "cyb_021",
+      "german": "speichern",
+      "plural": "-",
+      "arabic": "يَحْفَظُ",
+      "english": "to save",
+      "image_id": "cyb_save"
+    },
+    {
+      "id": "cyb_022",
+      "german": "suchen",
+      "plural": "-",
+      "arabic": "يَبْحَثُ",
+      "english": "to search",
+      "image_id": "cyb_search"
+    },
+    {
+      "id": "cyb_023",
+      "german": "herunterladen",
+      "plural": "-",
+      "arabic": "يُحَمِّلُ (دَاوُنْلُودْ)",
+      "english": "to download",
+      "image_id": "cyb_download"
+    },
+    {
+      "id": "cyb_024",
+      "german": "hochladen",
+      "plural": "-",
+      "arabic": "يَرْفَعُ (أَبْلُودْ)",
+      "english": "to upload",
+      "image_id": "cyb_upload"
+    },
+    {
+      "id": "cyb_025",
+      "german": "der Fehler (Bug)",
+      "plural": "die Fehler",
+      "arabic": "الْخَطَأُ (الْبَاغُ)",
+      "english": "bug",
+      "image_id": "cyb_bug"
+    }
+  ]
+}
