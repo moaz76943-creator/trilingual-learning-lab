@@ -1,0 +1,122 @@
+{
+  "engine": "Indefinite Pronouns & Quantities (A2)",
+  "templates": [
+    {
+      "id": "ind_001",
+      "german": "Jemand hat angerufen.",
+      "arabic": "اتَّصَلَ شَخْصٌ مَا.",
+      "english": "Someone called.",
+      "image_id": "ind_someone",
+      "explanation": "jemand (someone)"
+    },
+    {
+      "id": "ind_002",
+      "german": "Niemand ist zu Hause.",
+      "arabic": "لَا أَحَدَ فِي الْمَنْزِلِ.",
+      "english": "No one is home.",
+      "image_id": "ind_no_one",
+      "explanation": "niemand (no one)"
+    },
+    {
+      "id": "ind_003",
+      "german": "Hast du etwas gehört?",
+      "arabic": "هَلْ سَمِعْتَ شَيْئًا مَا؟",
+      "english": "Did you hear something?",
+      "image_id": "ind_something",
+      "explanation": "etwas (something)"
+    },
+    {
+      "id": "ind_004",
+      "german": "Ich weiß nichts.",
+      "arabic": "أَنَا لَا أَعْرِفُ شَيْئًا.",
+      "english": "I know nothing.",
+      "image_id": "ind_nothing",
+      "explanation": "nichts (nothing)"
+    },
+    {
+      "id": "ind_005",
+      "german": "Man darf hier nicht rauchen.",
+      "arabic": "الْمَرْءُ لَا يُسْمَحُ لَهُ بِالتَّدْخِينِ هُنَا.",
+      "english": "One is not allowed to smoke here.",
+      "image_id": "ind_man",
+      "explanation": "man (one/people)"
+    },
+    {
+      "id": "ind_006",
+      "german": "Alle Kinder spielen draußen.",
+      "arabic": "كُلُّ الْأَطْفَالِ يَلْعَبُونَ فِي الْخَارِجِ.",
+      "english": "All children are playing outside.",
+      "image_id": "ind_all",
+      "explanation": "alle (all)"
+    },
+    {
+      "id": "ind_007",
+      "german": "Manche Leute sind sehr freundlich.",
+      "arabic": "بَعْضُ النَّاسِ لَطِيفُونَ جِدًّا.",
+      "english": "Some people are very friendly.",
+      "image_id": "ind_some",
+      "explanation": "manche (some)"
+    },
+    {
+      "id": "ind_008",
+      "german": "Ich habe einige Fragen.",
+      "arabic": "لَدَيَّ بَعْضُ الْأَسْئِلَةِ.",
+      "english": "I have some/several questions.",
+      "image_id": "ind_several",
+      "explanation": "einige (some/several)"
+    },
+    {
+      "id": "ind_009",
+      "german": "Viele Studenten lernen Deutsch.",
+      "arabic": "كَثِيرٌ مِنَ الطُّلَّابِ يَتَعَلَّمُونَ الْأَلْمَانِيَّةَ.",
+      "english": "Many students learn German.",
+      "image_id": "ind_many",
+      "explanation": "viele (many)"
+    },
+    {
+      "id": "ind_010",
+      "german": "Wir haben nur wenige Minuten Zeit.",
+      "arabic": "لَدَيْنَا فَقَطْ دَقَائِقُ قَلِيلَةٌ.",
+      "english": "We have only a few minutes.",
+      "image_id": "ind_few",
+      "explanation": "wenige (few)"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "ind_s_1",
+      "german": "Ist jemand da?",
+      "arabic": "هَلْ هُنَاكَ أَحَدٌ؟",
+      "english": "Is someone there?",
+      "image_id": "ind_presence"
+    },
+    {
+      "id": "ind_s_2",
+      "german": "Ich habe nichts zu essen.",
+      "arabic": "لَيْسَ لَدَيَّ شَيْءٌ لِأَكْلِهِ.",
+      "english": "I have nothing to eat.",
+      "image_id": "ind_food"
+    },
+    {
+      "id": "ind_s_3",
+      "german": "Alle sind glücklich.",
+      "arabic": "الْجَمِيعُ سُعَدَاءُ.",
+      "english": "Everyone is happy.",
+      "image_id": "ind_happy"
+    },
+    {
+      "id": "ind_s_4",
+      "german": "Einige Leute warten.",
+      "arabic": "بَعْضُ النَّاسِ يَنْتَظِرُونَ.",
+      "english": "Some people are waiting.",
+      "image_id": "ind_waiting"
+    },
+    {
+      "id": "ind_s_5",
+      "german": "Wie viele Bücher hast du?",
+      "arabic": "كَمْ عَدَدُ الْكُتُبِ الَّتِي تَمْلِكُهَا؟",
+      "english": "How many books do you have?",
+      "image_id": "ind_quantity"
+    }
+  ]
+}

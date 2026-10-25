@@ -3975,6 +3975,66 @@
     "agr_delicacy": {
       "asset_path": "content/assets/svg/agr_delicacy.svg",
       "category": "agriculture"
+    },
+    "ind_someone": {
+      "asset_path": "content/assets/svg/ind_someone.svg",
+      "category": "grammar"
+    },
+    "ind_no_one": {
+      "asset_path": "content/assets/svg/ind_no_one.svg",
+      "category": "grammar"
+    },
+    "ind_something": {
+      "asset_path": "content/assets/svg/ind_something.svg",
+      "category": "grammar"
+    },
+    "ind_nothing": {
+      "asset_path": "content/assets/svg/ind_nothing.svg",
+      "category": "grammar"
+    },
+    "ind_man": {
+      "asset_path": "content/assets/svg/ind_man.svg",
+      "category": "grammar"
+    },
+    "ind_all": {
+      "asset_path": "content/assets/svg/ind_all.svg",
+      "category": "grammar"
+    },
+    "ind_some": {
+      "asset_path": "content/assets/svg/ind_some.svg",
+      "category": "grammar"
+    },
+    "ind_several": {
+      "asset_path": "content/assets/svg/ind_several.svg",
+      "category": "grammar"
+    },
+    "ind_many": {
+      "asset_path": "content/assets/svg/ind_many.svg",
+      "category": "grammar"
+    },
+    "ind_few": {
+      "asset_path": "content/assets/svg/ind_few.svg",
+      "category": "grammar"
+    },
+    "ind_presence": {
+      "asset_path": "content/assets/svg/ind_presence.svg",
+      "category": "grammar"
+    },
+    "ind_food": {
+      "asset_path": "content/assets/svg/ind_food.svg",
+      "category": "grammar"
+    },
+    "ind_happy": {
+      "asset_path": "content/assets/svg/ind_happy.svg",
+      "category": "grammar"
+    },
+    "ind_waiting": {
+      "asset_path": "content/assets/svg/ind_waiting.svg",
+      "category": "grammar"
+    },
+    "ind_quantity": {
+      "asset_path": "content/assets/svg/ind_quantity.svg",
+      "category": "grammar"
     }
   }
 }
