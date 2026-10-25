@@ -1,0 +1,204 @@
+{
+  "concepts": [
+    {
+      "id": "med_001",
+      "german": "die Medizin",
+      "plural": "-",
+      "arabic": "الطِّبُّ",
+      "english": "medicine",
+      "image_id": "med_medicine"
+    },
+    {
+      "id": "med_002",
+      "german": "die Chirurgie",
+      "plural": "-",
+      "arabic": "الْجِرَاحَةُ",
+      "english": "surgery",
+      "image_id": "med_surgery"
+    },
+    {
+      "id": "med_003",
+      "german": "der Notfall",
+      "plural": "die Notfälle",
+      "arabic": "الْحَالَةُ الطَّارِئَةُ",
+      "english": "emergency",
+      "image_id": "med_emergency"
+    },
+    {
+      "id": "med_004",
+      "german": "der Rettungswagen",
+      "plural": "die Rettungswagen",
+      "arabic": "سَيَّارَةُ الْإِسْعَافِ",
+      "english": "ambulance",
+      "image_id": "med_ambulance"
+    },
+    {
+      "id": "med_005",
+      "german": "die Notaufnahme",
+      "plural": "die Notaufnahmen",
+      "arabic": "قِسْمُ الطَّوَارِئِ",
+      "english": "emergency room",
+      "image_id": "med_er"
+    },
+    {
+      "id": "med_006",
+      "german": "der Patient",
+      "plural": "die Patienten",
+      "arabic": "الْمَرِيضُ",
+      "english": "patient",
+      "image_id": "med_patient"
+    },
+    {
+      "id": "med_007",
+      "german": "die Operation",
+      "plural": "die Operationen",
+      "arabic": "الْعَمَلِيَّةُ الْجِرَاحِيَّةُ",
+      "english": "operation",
+      "image_id": "med_operation"
+    },
+    {
+      "id": "med_008",
+      "german": "das Krankenhaus",
+      "plural": "die Krankenhäuser",
+      "arabic": "الْمُسْتَشْفَى",
+      "english": "hospital",
+      "image_id": "med_hospital"
+    },
+    {
+      "id": "med_009",
+      "german": "der Arzt",
+      "plural": "die Ärzte",
+      "arabic": "الطَّبِيبُ",
+      "english": "doctor",
+      "image_id": "med_doctor"
+    },
+    {
+      "id": "med_010",
+      "german": "die Ärztin",
+      "plural": "die Ärztinnen",
+      "arabic": "الطَّبِيبَةُ",
+      "english": "female doctor",
+      "image_id": "med_doctor_f"
+    },
+    {
+      "id": "med_011",
+      "german": "die Krankenschwester",
+      "plural": "die Krankenschwestern",
+      "arabic": "الْمُمَرِّضَةُ",
+      "english": "nurse",
+      "image_id": "med_nurse"
+    },
+    {
+      "id": "med_012",
+      "german": "das Medikament",
+      "plural": "die Medikamente",
+      "arabic": "الدَّوَاءُ",
+      "english": "medication",
+      "image_id": "med_medication"
+    },
+    {
+      "id": "med_013",
+      "german": "das Rezept",
+      "plural": "die Rezepte",
+      "arabic": "الرُّوشِتَّةُ الطِّبِّيَّةُ",
+      "english": "prescription",
+      "image_id": "med_prescription"
+    },
+    {
+      "id": "med_014",
+      "german": "die Apotheke",
+      "plural": "die Apotheken",
+      "arabic": "الصَّيْدَلِيَّةُ",
+      "english": "pharmacy",
+      "image_id": "med_pharmacy"
+    },
+    {
+      "id": "med_015",
+      "german": "die Diagnose",
+      "plural": "die Diagnosen",
+      "arabic": "التَّشْخِيصُ",
+      "english": "diagnosis",
+      "image_id": "med_diagnosis"
+    },
+    {
+      "id": "med_016",
+      "german": "die Therapie",
+      "plural": "die Therapien",
+      "arabic": "الْعِلَاجُ / الْجَلَسَةُ",
+      "english": "therapy",
+      "image_id": "med_therapy"
+    },
+    {
+      "id": "med_017",
+      "german": "die Impfung",
+      "plural": "die Impfungen",
+      "arabic": "التَّطْعِيمُ (اللَّقَاحُ)",
+      "english": "vaccination",
+      "image_id": "med_vaccination"
+    },
+    {
+      "id": "med_018",
+      "german": "das Symptom",
+      "plural": "die Symptome",
+      "arabic": "الْعَرَضُ (طِبِّيٌّ)",
+      "english": "symptom",
+      "image_id": "med_symptom"
+    },
+    {
+      "id": "med_019",
+      "german": "das Fieber",
+      "plural": "-",
+      "arabic": "الْحُمَّى",
+      "english": "fever",
+      "image_id": "med_fever"
+    },
+    {
+      "id": "med_020",
+      "german": "der Schmerz",
+      "plural": "die Schmerzen",
+      "arabic": "الْأَلَمُ",
+      "english": "pain",
+      "image_id": "med_pain"
+    },
+    {
+      "id": "med_021",
+      "german": "die Untersuchung",
+      "plural": "die Untersuchungen",
+      "arabic": "الْفَحْصُ",
+      "english": "examination",
+      "image_id": "med_examination"
+    },
+    {
+      "id": "med_022",
+      "german": "das Blut",
+      "plural": "-",
+      "arabic": "الدَّمُ",
+      "english": "blood",
+      "image_id": "med_blood"
+    },
+    {
+      "id": "med_023",
+      "german": "der Puls",
+      "plural": "die Pulse",
+      "arabic": "النَّبْضُ",
+      "english": "pulse",
+      "image_id": "med_pulse"
+    },
+    {
+      "id": "med_024",
+      "german": "die Heilung",
+      "plural": "-",
+      "arabic": "الشِّفَاءُ",
+      "english": "healing/cure",
+      "image_id": "med_cure"
+    },
+    {
+      "id": "med_025",
+      "german": "die Gesundheit",
+      "plural": "-",
+      "arabic": "الصِّحَّةُ",
+      "english": "health",
+      "image_id": "med_health"
+    }
+  ]
+}

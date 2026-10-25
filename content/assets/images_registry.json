@@ -4135,6 +4135,106 @@
     "mob_vision": {
       "asset_path": "content/assets/svg/mob_vision.svg",
       "category": "mobility"
+    },
+    "med_medicine": {
+      "asset_path": "content/assets/svg/med_medicine.svg",
+      "category": "medicine"
+    },
+    "med_surgery": {
+      "asset_path": "content/assets/svg/med_surgery.svg",
+      "category": "medicine"
+    },
+    "med_emergency": {
+      "asset_path": "content/assets/svg/med_emergency.svg",
+      "category": "medicine"
+    },
+    "med_ambulance": {
+      "asset_path": "content/assets/svg/med_ambulance.svg",
+      "category": "medicine"
+    },
+    "med_er": {
+      "asset_path": "content/assets/svg/med_er.svg",
+      "category": "medicine"
+    },
+    "med_patient": {
+      "asset_path": "content/assets/svg/med_patient.svg",
+      "category": "medicine"
+    },
+    "med_operation": {
+      "asset_path": "content/assets/svg/med_operation.svg",
+      "category": "medicine"
+    },
+    "med_hospital": {
+      "asset_path": "content/assets/svg/med_hospital.svg",
+      "category": "medicine"
+    },
+    "med_doctor": {
+      "asset_path": "content/assets/svg/med_doctor.svg",
+      "category": "medicine"
+    },
+    "med_doctor_f": {
+      "asset_path": "content/assets/svg/med_doctor_f.svg",
+      "category": "medicine"
+    },
+    "med_nurse": {
+      "asset_path": "content/assets/svg/med_nurse.svg",
+      "category": "medicine"
+    },
+    "med_medication": {
+      "asset_path": "content/assets/svg/med_medication.svg",
+      "category": "medicine"
+    },
+    "med_prescription": {
+      "asset_path": "content/assets/svg/med_prescription.svg",
+      "category": "medicine"
+    },
+    "med_pharmacy": {
+      "asset_path": "content/assets/svg/med_pharmacy.svg",
+      "category": "medicine"
+    },
+    "med_diagnosis": {
+      "asset_path": "content/assets/svg/med_diagnosis.svg",
+      "category": "medicine"
+    },
+    "med_therapy": {
+      "asset_path": "content/assets/svg/med_therapy.svg",
+      "category": "medicine"
+    },
+    "med_vaccination": {
+      "asset_path": "content/assets/svg/med_vaccination.svg",
+      "category": "medicine"
+    },
+    "med_symptom": {
+      "asset_path": "content/assets/svg/med_symptom.svg",
+      "category": "medicine"
+    },
+    "med_fever": {
+      "asset_path": "content/assets/svg/med_fever.svg",
+      "category": "medicine"
+    },
+    "med_pain": {
+      "asset_path": "content/assets/svg/med_pain.svg",
+      "category": "medicine"
+    },
+    "med_examination": {
+      "asset_path": "content/assets/svg/med_examination.svg",
+      "category": "medicine"
+    },
+    "med_blood": {
+      "asset_path": "content/assets/svg/med_blood.svg",
+      "category": "medicine"
+    },
+    "med_pulse": {
+      "asset_path": "content/assets/svg/med_pulse.svg",
+      "category": "medicine"
+    },
+    "med_cure": {
+      "asset_path": "content/assets/svg/med_cure.svg",
+      "category": "medicine"
+    },
+    "med_health": {
+      "asset_path": "content/assets/svg/med_health.svg",
+      "category": "medicine"
     }
   }
 }
