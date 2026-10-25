@@ -1,0 +1,1217 @@
+{
+  "category_id": "sociology_culture_b1",
+  "id": "sociology_culture_b1",
+  "level": "B1",
+  "title": {
+    "ar": "علم الاجتماع والتعايش الثقافي",
+    "de": "Soziologie & Kultur",
+    "en": "Sociology & Coexistence"
+  },
+  "name_ar": "علم الاجتماع والتعايش الثقافي",
+  "name_de": "Soziologie & Kultur",
+  "name_en": "Sociology & Coexistence",
+  "concepts": [
+    {
+      "id": "sociology_culture_b1_01",
+      "icon": "sociol_01",
+      "image_id": "sociol_01",
+      "level": "B1",
+      "ar": "التَّنَوُّعُ الثَّقَافِيّ",
+      "de": "die kulturelle Vielfalt",
+      "en": "cultural diversity",
+      "arabic": {
+        "word": "التَّنَوُّعُ الثَّقَافِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "die kulturelle Vielfalt",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Vielfalten",
+        "example": "die kulturelle Vielfalt spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "cultural diversity",
+        "example": "The concept of cultural diversity plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_02",
+      "icon": "sociol_02",
+      "image_id": "sociol_02",
+      "level": "B1",
+      "ar": "الاندِمَاجُ المُجْتَمَعِيّ",
+      "de": "die Integration",
+      "en": "integration",
+      "arabic": {
+        "word": "الاندِمَاجُ المُجْتَمَعِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "die Integration",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Integrationen",
+        "example": "die Integration spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "integration",
+        "example": "The concept of integration plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_03",
+      "icon": "sociol_03",
+      "image_id": "sociol_03",
+      "level": "B1",
+      "ar": "التَّكَافُلُ الاجْتِمَاعِيّ",
+      "de": "die Solidarität",
+      "en": "solidarity",
+      "arabic": {
+        "word": "التَّكَافُلُ الاجْتِمَاعِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "die Solidarität",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Solidaritäten",
+        "example": "die Solidarität spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "solidarity",
+        "example": "The concept of solidarity plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_04",
+      "icon": "sociol_04",
+      "image_id": "sociol_04",
+      "level": "B1",
+      "ar": "الهَوِيَّةُ الثَّقَافِيَّة",
+      "de": "die kulturelle Identität",
+      "en": "cultural identity",
+      "arabic": {
+        "word": "الهَوِيَّةُ الثَّقَافِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "die kulturelle Identität",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Identitäten",
+        "example": "die kulturelle Identität spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "cultural identity",
+        "example": "The concept of cultural identity plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_05",
+      "icon": "sociol_05",
+      "image_id": "sociol_05",
+      "level": "B1",
+      "ar": "التَّسَامُحُ الفِكْرِيّ",
+      "de": "die Toleranz",
+      "en": "tolerance",
+      "arabic": {
+        "word": "التَّسَامُحُ الفِكْرِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "die Toleranz",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Toleranzen",
+        "example": "die Toleranz spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "tolerance",
+        "example": "The concept of tolerance plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_06",
+      "icon": "sociol_06",
+      "image_id": "sociol_06",
+      "level": "B1",
+      "ar": "العَدَالَةُ الاجْتِمَاعِيَّة",
+      "de": "die soziale Gerechtigkeit",
+      "en": "social justice",
+      "arabic": {
+        "word": "العَدَالَةُ الاجْتِمَاعِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "die soziale Gerechtigkeit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Gerechtigkeiten",
+        "example": "die soziale Gerechtigkeit spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "social justice",
+        "example": "The concept of social justice plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_07",
+      "icon": "sociol_07",
+      "image_id": "sociol_07",
+      "level": "B1",
+      "ar": "التَّقَالِيدُ المَوْرُوثَة",
+      "de": "die Tradition",
+      "en": "tradition",
+      "arabic": {
+        "word": "التَّقَالِيدُ المَوْرُوثَة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "die Tradition",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Traditionen",
+        "example": "die Tradition spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "tradition",
+        "example": "The concept of tradition plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_08",
+      "icon": "sociol_08",
+      "image_id": "sociol_08",
+      "level": "B1",
+      "ar": "التَّغَيُّرُ الدِّيمُوغْرَافِيّ",
+      "de": "der demografische Wandel",
+      "en": "demographic change",
+      "arabic": {
+        "word": "التَّغَيُّرُ الدِّيمُوغْرَافِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "der demografische Wandel",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Wandel",
+        "example": "der demografische Wandel spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "demographic change",
+        "example": "The concept of demographic change plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_09",
+      "icon": "sociol_09",
+      "image_id": "sociol_09",
+      "level": "B1",
+      "ar": "المُوَاطَنَةُ الفَاعِلَة",
+      "de": "die Bürgerschaft",
+      "en": "citizenship",
+      "arabic": {
+        "word": "المُوَاطَنَةُ الفَاعِلَة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "die Bürgerschaft",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Bürgerschaften",
+        "example": "die Bürgerschaft spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "citizenship",
+        "example": "The concept of citizenship plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_10",
+      "icon": "sociol_10",
+      "image_id": "sociol_10",
+      "level": "B1",
+      "ar": "الحِوَارُ الحَضَارِيّ",
+      "de": "der interkulturelle Dialog",
+      "en": "intercultural dialogue",
+      "arabic": {
+        "word": "الحِوَارُ الحَضَارِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "der interkulturelle Dialog",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Dialoge",
+        "example": "der interkulturelle Dialog spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "intercultural dialogue",
+        "example": "The concept of intercultural dialogue plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_11",
+      "icon": "sociol_11",
+      "image_id": "sociol_11",
+      "level": "B1",
+      "ar": "القِيَمُ الأَخْلَاقِيَّة",
+      "de": "der Wert",
+      "en": "moral value",
+      "arabic": {
+        "word": "القِيَمُ الأَخْلَاقِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "der Wert",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Werte",
+        "example": "der Wert spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "moral value",
+        "example": "The concept of moral value plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_12",
+      "icon": "sociol_12",
+      "image_id": "sociol_12",
+      "level": "B1",
+      "ar": "العَمَلُ التَّطَوُّعِيّ",
+      "de": "das Ehrenamt",
+      "en": "volunteering",
+      "arabic": {
+        "word": "العَمَلُ التَّطَوُّعِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "das Ehrenamt",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Ehrenämter",
+        "example": "das Ehrenamt spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "volunteering",
+        "example": "The concept of volunteering plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_13",
+      "icon": "sociol_13",
+      "image_id": "sociol_13",
+      "level": "B1",
+      "ar": "التَّمَاسُكُ الأُسَرِيّ",
+      "de": "der Zusammenhalt",
+      "en": "social cohesion",
+      "arabic": {
+        "word": "التَّمَاسُكُ الأُسَرِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "der Zusammenhalt",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Zusammenhalte",
+        "example": "der Zusammenhalt spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "social cohesion",
+        "example": "The concept of social cohesion plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_14",
+      "icon": "sociol_14",
+      "image_id": "sociol_14",
+      "level": "B1",
+      "ar": "المُسَاوَاةُ القَانُونِيَّة",
+      "de": "die Gleichberechtigung",
+      "en": "equal rights",
+      "arabic": {
+        "word": "المُسَاوَاةُ القَانُونِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "die Gleichberechtigung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Gleichberechtigungen",
+        "example": "die Gleichberechtigung spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "equal rights",
+        "example": "The concept of equal rights plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_15",
+      "icon": "sociol_15",
+      "image_id": "sociol_15",
+      "level": "B1",
+      "ar": "الرَّأْيُ العَامّ",
+      "de": "die öffentliche Meinung",
+      "en": "public opinion",
+      "arabic": {
+        "word": "الرَّأْيُ العَامّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "die öffentliche Meinung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Meinungen",
+        "example": "die öffentliche Meinung spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "public opinion",
+        "example": "The concept of public opinion plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_16",
+      "icon": "sociol_16",
+      "image_id": "sociol_16",
+      "level": "B1",
+      "ar": "المُجْتَمَعُ المَدَنِيّ",
+      "de": "die Zivilgesellschaft",
+      "en": "civil society",
+      "arabic": {
+        "word": "المُجْتَمَعُ المَدَنِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "die Zivilgesellschaft",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Zivilgesellschaften",
+        "example": "die Zivilgesellschaft spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "civil society",
+        "example": "The concept of civil society plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_17",
+      "icon": "sociol_17",
+      "image_id": "sociol_17",
+      "level": "B1",
+      "ar": "التَّنْشِئَةُ الاجْتِمَاعِيَّة",
+      "de": "die Sozialisation",
+      "en": "socialization",
+      "arabic": {
+        "word": "التَّنْشِئَةُ الاجْتِمَاعِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "die Sozialisation",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Sozialisationen",
+        "example": "die Sozialisation spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "socialization",
+        "example": "The concept of socialization plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_18",
+      "icon": "sociol_18",
+      "image_id": "sociol_18",
+      "level": "B1",
+      "ar": "النَّمَطُ المَعِيشِيّ",
+      "de": "der Lebensstil",
+      "en": "lifestyle",
+      "arabic": {
+        "word": "النَّمَطُ المَعِيشِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "der Lebensstil",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Lebensstile",
+        "example": "der Lebensstil spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "lifestyle",
+        "example": "The concept of lifestyle plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_19",
+      "icon": "sociol_19",
+      "image_id": "sociol_19",
+      "level": "B1",
+      "ar": "التَّحَضُّرُ المَدَنِيّ",
+      "de": "die Urbanisierung",
+      "en": "urbanization",
+      "arabic": {
+        "word": "التَّحَضُّرُ المَدَنِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "die Urbanisierung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Urbanisierungen",
+        "example": "die Urbanisierung spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "urbanization",
+        "example": "The concept of urbanization plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_20",
+      "icon": "sociol_20",
+      "image_id": "sociol_20",
+      "level": "B1",
+      "ar": "التَّبَادُلُ الثَّقَافِيّ",
+      "de": "der Kulturaustausch",
+      "en": "cultural exchange",
+      "arabic": {
+        "word": "التَّبَادُلُ الثَّقَافِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "der Kulturaustausch",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Kulturaustausche",
+        "example": "der Kulturaustausch spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "cultural exchange",
+        "example": "The concept of cultural exchange plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_21",
+      "icon": "sociol_21",
+      "image_id": "sociol_21",
+      "level": "B1",
+      "ar": "الأَقَلِّيَّةُ الثَّقَافِيَّة",
+      "de": "die Minderheit",
+      "en": "minority",
+      "arabic": {
+        "word": "الأَقَلِّيَّةُ الثَّقَافِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "die Minderheit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Minderheiten",
+        "example": "die Minderheit spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "minority",
+        "example": "The concept of minority plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_22",
+      "icon": "sociol_22",
+      "image_id": "sociol_22",
+      "level": "B1",
+      "ar": "الأَغْلَبِيَّةُ السُّكَّانِيَّة",
+      "de": "die Mehrheit",
+      "en": "majority",
+      "arabic": {
+        "word": "الأَغْلَبِيَّةُ السُّكَّانِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "die Mehrheit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Mehrheiten",
+        "example": "die Mehrheit spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "majority",
+        "example": "The concept of majority plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_23",
+      "icon": "sociol_23",
+      "image_id": "sociol_23",
+      "level": "B1",
+      "ar": "الانتِمَاءُ الوَطَنِيّ",
+      "de": "die Zugehörigkeit",
+      "en": "belonging",
+      "arabic": {
+        "word": "الانتِمَاءُ الوَطَنِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "die Zugehörigkeit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Zugehörigkeiten",
+        "example": "die Zugehörigkeit spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "belonging",
+        "example": "The concept of belonging plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_24",
+      "icon": "sociol_24",
+      "image_id": "sociol_24",
+      "level": "B1",
+      "ar": "الوَعْيُ الجَمْعِيّ",
+      "de": "das Kollektivbewusstsein",
+      "en": "collective consciousness",
+      "arabic": {
+        "word": "الوَعْيُ الجَمْعِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "das Kollektivbewusstsein",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Bewusstseine",
+        "example": "das Kollektivbewusstsein spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "collective consciousness",
+        "example": "The concept of collective consciousness plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_25",
+      "icon": "sociol_25",
+      "image_id": "sociol_25",
+      "level": "B1",
+      "ar": "التَّعَايُشُ السِّلْمِيّ",
+      "de": "das friedliche Zusammenleben",
+      "en": "peaceful coexistence",
+      "arabic": {
+        "word": "التَّعَايُشُ السِّلْمِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "das friedliche Zusammenleben",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Zusammenleben",
+        "example": "das friedliche Zusammenleben spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "peaceful coexistence",
+        "example": "The concept of peaceful coexistence plays a key role in Sociology & Coexistence."
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "sociology_culture_b1_01",
+      "icon": "sociol_01",
+      "image_id": "sociol_01",
+      "level": "B1",
+      "ar": "التَّنَوُّعُ الثَّقَافِيّ",
+      "de": "die kulturelle Vielfalt",
+      "en": "cultural diversity",
+      "arabic": {
+        "word": "التَّنَوُّعُ الثَّقَافِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "die kulturelle Vielfalt",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Vielfalten",
+        "example": "die kulturelle Vielfalt spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "cultural diversity",
+        "example": "The concept of cultural diversity plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_02",
+      "icon": "sociol_02",
+      "image_id": "sociol_02",
+      "level": "B1",
+      "ar": "الاندِمَاجُ المُجْتَمَعِيّ",
+      "de": "die Integration",
+      "en": "integration",
+      "arabic": {
+        "word": "الاندِمَاجُ المُجْتَمَعِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "die Integration",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Integrationen",
+        "example": "die Integration spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "integration",
+        "example": "The concept of integration plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_03",
+      "icon": "sociol_03",
+      "image_id": "sociol_03",
+      "level": "B1",
+      "ar": "التَّكَافُلُ الاجْتِمَاعِيّ",
+      "de": "die Solidarität",
+      "en": "solidarity",
+      "arabic": {
+        "word": "التَّكَافُلُ الاجْتِمَاعِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "die Solidarität",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Solidaritäten",
+        "example": "die Solidarität spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "solidarity",
+        "example": "The concept of solidarity plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_04",
+      "icon": "sociol_04",
+      "image_id": "sociol_04",
+      "level": "B1",
+      "ar": "الهَوِيَّةُ الثَّقَافِيَّة",
+      "de": "die kulturelle Identität",
+      "en": "cultural identity",
+      "arabic": {
+        "word": "الهَوِيَّةُ الثَّقَافِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "die kulturelle Identität",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Identitäten",
+        "example": "die kulturelle Identität spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "cultural identity",
+        "example": "The concept of cultural identity plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_05",
+      "icon": "sociol_05",
+      "image_id": "sociol_05",
+      "level": "B1",
+      "ar": "التَّسَامُحُ الفِكْرِيّ",
+      "de": "die Toleranz",
+      "en": "tolerance",
+      "arabic": {
+        "word": "التَّسَامُحُ الفِكْرِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "die Toleranz",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Toleranzen",
+        "example": "die Toleranz spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "tolerance",
+        "example": "The concept of tolerance plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_06",
+      "icon": "sociol_06",
+      "image_id": "sociol_06",
+      "level": "B1",
+      "ar": "العَدَالَةُ الاجْتِمَاعِيَّة",
+      "de": "die soziale Gerechtigkeit",
+      "en": "social justice",
+      "arabic": {
+        "word": "العَدَالَةُ الاجْتِمَاعِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "die soziale Gerechtigkeit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Gerechtigkeiten",
+        "example": "die soziale Gerechtigkeit spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "social justice",
+        "example": "The concept of social justice plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_07",
+      "icon": "sociol_07",
+      "image_id": "sociol_07",
+      "level": "B1",
+      "ar": "التَّقَالِيدُ المَوْرُوثَة",
+      "de": "die Tradition",
+      "en": "tradition",
+      "arabic": {
+        "word": "التَّقَالِيدُ المَوْرُوثَة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "die Tradition",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Traditionen",
+        "example": "die Tradition spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "tradition",
+        "example": "The concept of tradition plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_08",
+      "icon": "sociol_08",
+      "image_id": "sociol_08",
+      "level": "B1",
+      "ar": "التَّغَيُّرُ الدِّيمُوغْرَافِيّ",
+      "de": "der demografische Wandel",
+      "en": "demographic change",
+      "arabic": {
+        "word": "التَّغَيُّرُ الدِّيمُوغْرَافِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "der demografische Wandel",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Wandel",
+        "example": "der demografische Wandel spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "demographic change",
+        "example": "The concept of demographic change plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_09",
+      "icon": "sociol_09",
+      "image_id": "sociol_09",
+      "level": "B1",
+      "ar": "المُوَاطَنَةُ الفَاعِلَة",
+      "de": "die Bürgerschaft",
+      "en": "citizenship",
+      "arabic": {
+        "word": "المُوَاطَنَةُ الفَاعِلَة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "die Bürgerschaft",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Bürgerschaften",
+        "example": "die Bürgerschaft spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "citizenship",
+        "example": "The concept of citizenship plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_10",
+      "icon": "sociol_10",
+      "image_id": "sociol_10",
+      "level": "B1",
+      "ar": "الحِوَارُ الحَضَارِيّ",
+      "de": "der interkulturelle Dialog",
+      "en": "intercultural dialogue",
+      "arabic": {
+        "word": "الحِوَارُ الحَضَارِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "der interkulturelle Dialog",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Dialoge",
+        "example": "der interkulturelle Dialog spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "intercultural dialogue",
+        "example": "The concept of intercultural dialogue plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_11",
+      "icon": "sociol_11",
+      "image_id": "sociol_11",
+      "level": "B1",
+      "ar": "القِيَمُ الأَخْلَاقِيَّة",
+      "de": "der Wert",
+      "en": "moral value",
+      "arabic": {
+        "word": "القِيَمُ الأَخْلَاقِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "der Wert",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Werte",
+        "example": "der Wert spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "moral value",
+        "example": "The concept of moral value plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_12",
+      "icon": "sociol_12",
+      "image_id": "sociol_12",
+      "level": "B1",
+      "ar": "العَمَلُ التَّطَوُّعِيّ",
+      "de": "das Ehrenamt",
+      "en": "volunteering",
+      "arabic": {
+        "word": "العَمَلُ التَّطَوُّعِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "das Ehrenamt",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Ehrenämter",
+        "example": "das Ehrenamt spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "volunteering",
+        "example": "The concept of volunteering plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_13",
+      "icon": "sociol_13",
+      "image_id": "sociol_13",
+      "level": "B1",
+      "ar": "التَّمَاسُكُ الأُسَرِيّ",
+      "de": "der Zusammenhalt",
+      "en": "social cohesion",
+      "arabic": {
+        "word": "التَّمَاسُكُ الأُسَرِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "der Zusammenhalt",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Zusammenhalte",
+        "example": "der Zusammenhalt spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "social cohesion",
+        "example": "The concept of social cohesion plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_14",
+      "icon": "sociol_14",
+      "image_id": "sociol_14",
+      "level": "B1",
+      "ar": "المُسَاوَاةُ القَانُونِيَّة",
+      "de": "die Gleichberechtigung",
+      "en": "equal rights",
+      "arabic": {
+        "word": "المُسَاوَاةُ القَانُونِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "die Gleichberechtigung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Gleichberechtigungen",
+        "example": "die Gleichberechtigung spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "equal rights",
+        "example": "The concept of equal rights plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_15",
+      "icon": "sociol_15",
+      "image_id": "sociol_15",
+      "level": "B1",
+      "ar": "الرَّأْيُ العَامّ",
+      "de": "die öffentliche Meinung",
+      "en": "public opinion",
+      "arabic": {
+        "word": "الرَّأْيُ العَامّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "die öffentliche Meinung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Meinungen",
+        "example": "die öffentliche Meinung spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "public opinion",
+        "example": "The concept of public opinion plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_16",
+      "icon": "sociol_16",
+      "image_id": "sociol_16",
+      "level": "B1",
+      "ar": "المُجْتَمَعُ المَدَنِيّ",
+      "de": "die Zivilgesellschaft",
+      "en": "civil society",
+      "arabic": {
+        "word": "المُجْتَمَعُ المَدَنِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "die Zivilgesellschaft",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Zivilgesellschaften",
+        "example": "die Zivilgesellschaft spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "civil society",
+        "example": "The concept of civil society plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_17",
+      "icon": "sociol_17",
+      "image_id": "sociol_17",
+      "level": "B1",
+      "ar": "التَّنْشِئَةُ الاجْتِمَاعِيَّة",
+      "de": "die Sozialisation",
+      "en": "socialization",
+      "arabic": {
+        "word": "التَّنْشِئَةُ الاجْتِمَاعِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "die Sozialisation",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Sozialisationen",
+        "example": "die Sozialisation spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "socialization",
+        "example": "The concept of socialization plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_18",
+      "icon": "sociol_18",
+      "image_id": "sociol_18",
+      "level": "B1",
+      "ar": "النَّمَطُ المَعِيشِيّ",
+      "de": "der Lebensstil",
+      "en": "lifestyle",
+      "arabic": {
+        "word": "النَّمَطُ المَعِيشِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "der Lebensstil",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Lebensstile",
+        "example": "der Lebensstil spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "lifestyle",
+        "example": "The concept of lifestyle plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_19",
+      "icon": "sociol_19",
+      "image_id": "sociol_19",
+      "level": "B1",
+      "ar": "التَّحَضُّرُ المَدَنِيّ",
+      "de": "die Urbanisierung",
+      "en": "urbanization",
+      "arabic": {
+        "word": "التَّحَضُّرُ المَدَنِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "die Urbanisierung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Urbanisierungen",
+        "example": "die Urbanisierung spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "urbanization",
+        "example": "The concept of urbanization plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_20",
+      "icon": "sociol_20",
+      "image_id": "sociol_20",
+      "level": "B1",
+      "ar": "التَّبَادُلُ الثَّقَافِيّ",
+      "de": "der Kulturaustausch",
+      "en": "cultural exchange",
+      "arabic": {
+        "word": "التَّبَادُلُ الثَّقَافِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "der Kulturaustausch",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Kulturaustausche",
+        "example": "der Kulturaustausch spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "cultural exchange",
+        "example": "The concept of cultural exchange plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_21",
+      "icon": "sociol_21",
+      "image_id": "sociol_21",
+      "level": "B1",
+      "ar": "الأَقَلِّيَّةُ الثَّقَافِيَّة",
+      "de": "die Minderheit",
+      "en": "minority",
+      "arabic": {
+        "word": "الأَقَلِّيَّةُ الثَّقَافِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "die Minderheit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Minderheiten",
+        "example": "die Minderheit spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "minority",
+        "example": "The concept of minority plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_22",
+      "icon": "sociol_22",
+      "image_id": "sociol_22",
+      "level": "B1",
+      "ar": "الأَغْلَبِيَّةُ السُّكَّانِيَّة",
+      "de": "die Mehrheit",
+      "en": "majority",
+      "arabic": {
+        "word": "الأَغْلَبِيَّةُ السُّكَّانِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "die Mehrheit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Mehrheiten",
+        "example": "die Mehrheit spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "majority",
+        "example": "The concept of majority plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_23",
+      "icon": "sociol_23",
+      "image_id": "sociol_23",
+      "level": "B1",
+      "ar": "الانتِمَاءُ الوَطَنِيّ",
+      "de": "die Zugehörigkeit",
+      "en": "belonging",
+      "arabic": {
+        "word": "الانتِمَاءُ الوَطَنِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "die Zugehörigkeit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Zugehörigkeiten",
+        "example": "die Zugehörigkeit spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "belonging",
+        "example": "The concept of belonging plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_24",
+      "icon": "sociol_24",
+      "image_id": "sociol_24",
+      "level": "B1",
+      "ar": "الوَعْيُ الجَمْعِيّ",
+      "de": "das Kollektivbewusstsein",
+      "en": "collective consciousness",
+      "arabic": {
+        "word": "الوَعْيُ الجَمْعِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "das Kollektivbewusstsein",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Bewusstseine",
+        "example": "das Kollektivbewusstsein spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "collective consciousness",
+        "example": "The concept of collective consciousness plays a key role in Sociology & Coexistence."
+      }
+    },
+    {
+      "id": "sociology_culture_b1_25",
+      "icon": "sociol_25",
+      "image_id": "sociol_25",
+      "level": "B1",
+      "ar": "التَّعَايُشُ السِّلْمِيّ",
+      "de": "das friedliche Zusammenleben",
+      "en": "peaceful coexistence",
+      "arabic": {
+        "word": "التَّعَايُشُ السِّلْمِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي علم الاجتماع والتعايش الثقافي"
+      },
+      "german": {
+        "word": "das friedliche Zusammenleben",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Zusammenleben",
+        "example": "das friedliche Zusammenleben spielt eine zentrale Rolle im Bereich Soziologie & Kultur."
+      },
+      "english": {
+        "word": "peaceful coexistence",
+        "example": "The concept of peaceful coexistence plays a key role in Sociology & Coexistence."
+      }
+    }
+  ]
+}
