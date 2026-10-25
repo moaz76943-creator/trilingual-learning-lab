@@ -4235,6 +4235,106 @@
     "med_health": {
       "asset_path": "content/assets/svg/med_health.svg",
       "category": "medicine"
+    },
+    "ren_energy": {
+      "asset_path": "content/assets/svg/ren_energy.svg",
+      "category": "energy"
+    },
+    "ren_renewable": {
+      "asset_path": "content/assets/svg/ren_renewable.svg",
+      "category": "energy"
+    },
+    "ren_solar": {
+      "asset_path": "content/assets/svg/ren_solar.svg",
+      "category": "energy"
+    },
+    "ren_wind": {
+      "asset_path": "content/assets/svg/ren_wind.svg",
+      "category": "energy"
+    },
+    "ren_hydro": {
+      "asset_path": "content/assets/svg/ren_hydro.svg",
+      "category": "energy"
+    },
+    "ren_solar_panel": {
+      "asset_path": "content/assets/svg/ren_solar_panel.svg",
+      "category": "energy"
+    },
+    "ren_wind_turbine": {
+      "asset_path": "content/assets/svg/ren_wind_turbine.svg",
+      "category": "energy"
+    },
+    "ren_sustainability": {
+      "asset_path": "content/assets/svg/ren_sustainability.svg",
+      "category": "energy"
+    },
+    "ren_climate_change": {
+      "asset_path": "content/assets/svg/ren_climate_change.svg",
+      "category": "energy"
+    },
+    "ren_greenhouse": {
+      "asset_path": "content/assets/svg/ren_greenhouse.svg",
+      "category": "energy"
+    },
+    "ren_emission": {
+      "asset_path": "content/assets/svg/ren_emission.svg",
+      "category": "energy"
+    },
+    "ren_physics": {
+      "asset_path": "content/assets/svg/ren_physics.svg",
+      "category": "energy"
+    },
+    "ren_atom": {
+      "asset_path": "content/assets/svg/ren_atom.svg",
+      "category": "energy"
+    },
+    "ren_molecule": {
+      "asset_path": "content/assets/svg/ren_molecule.svg",
+      "category": "energy"
+    },
+    "ren_electricity": {
+      "asset_path": "content/assets/svg/ren_electricity.svg",
+      "category": "energy"
+    },
+    "ren_circuit": {
+      "asset_path": "content/assets/svg/ren_circuit.svg",
+      "category": "energy"
+    },
+    "ren_gravity": {
+      "asset_path": "content/assets/svg/ren_gravity.svg",
+      "category": "energy"
+    },
+    "ren_wavelength": {
+      "asset_path": "content/assets/svg/ren_wavelength.svg",
+      "category": "energy"
+    },
+    "ren_experiment": {
+      "asset_path": "content/assets/svg/ren_experiment.svg",
+      "category": "energy"
+    },
+    "ren_research": {
+      "asset_path": "content/assets/svg/ren_research.svg",
+      "category": "energy"
+    },
+    "ren_raw_material": {
+      "asset_path": "content/assets/svg/ren_raw_material.svg",
+      "category": "energy"
+    },
+    "ren_resource": {
+      "asset_path": "content/assets/svg/ren_resource.svg",
+      "category": "energy"
+    },
+    "ren_save": {
+      "asset_path": "content/assets/svg/ren_save.svg",
+      "category": "energy"
+    },
+    "ren_consume": {
+      "asset_path": "content/assets/svg/ren_consume.svg",
+      "category": "energy"
+    },
+    "ren_efficiency": {
+      "asset_path": "content/assets/svg/ren_efficiency.svg",
+      "category": "energy"
     }
   }
 }

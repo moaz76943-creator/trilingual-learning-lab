@@ -1,0 +1,204 @@
+{
+  "concepts": [
+    {
+      "id": "ren_001",
+      "german": "die Energie",
+      "plural": "die Energien",
+      "arabic": "الطَّاقَةُ",
+      "english": "energy",
+      "image_id": "ren_energy"
+    },
+    {
+      "id": "ren_002",
+      "german": "erneuerbar",
+      "plural": "-",
+      "arabic": "مُتَجَدِّدَةٌ",
+      "english": "renewable",
+      "image_id": "ren_renewable"
+    },
+    {
+      "id": "ren_003",
+      "german": "die Sonnenenergie",
+      "plural": "-",
+      "arabic": "الطَّاقَةُ الشَّمْسِيَّةُ",
+      "english": "solar energy",
+      "image_id": "ren_solar"
+    },
+    {
+      "id": "ren_004",
+      "german": "die Windkraft",
+      "plural": "-",
+      "arabic": "طَاقَةُ الرِّيَاحِ",
+      "english": "wind power",
+      "image_id": "ren_wind"
+    },
+    {
+      "id": "ren_005",
+      "german": "die Wasserkraft",
+      "plural": "-",
+      "arabic": "الطَّاقَةُ الْمَائِيَّةُ",
+      "english": "hydroelectric power",
+      "image_id": "ren_hydro"
+    },
+    {
+      "id": "ren_006",
+      "german": "das Solarmodul",
+      "plural": "die Solarmodule",
+      "arabic": "اللَّوْحُ الشَّمْسِيُّ",
+      "english": "solar panel",
+      "image_id": "ren_solar_panel"
+    },
+    {
+      "id": "ren_007",
+      "german": "das Windrad",
+      "plural": "die Windräder",
+      "arabic": "تُورْبِينُ الرِّيَاحِ",
+      "english": "wind turbine",
+      "image_id": "ren_wind_turbine"
+    },
+    {
+      "id": "ren_008",
+      "german": "die Nachhaltigkeit",
+      "plural": "-",
+      "arabic": "الِاسْتِدَامَةُ",
+      "english": "sustainability",
+      "image_id": "ren_sustainability"
+    },
+    {
+      "id": "ren_009",
+      "german": "der Klimawandel",
+      "plural": "-",
+      "arabic": "تَغَيُّرُ الْمُنَاخِ",
+      "english": "climate change",
+      "image_id": "ren_climate_change"
+    },
+    {
+      "id": "ren_010",
+      "german": "das Treibhausgas",
+      "plural": "die Treibhausgase",
+      "arabic": "غَازَاتُ الدَّفِيئَةِ",
+      "english": "greenhouse gas",
+      "image_id": "ren_greenhouse"
+    },
+    {
+      "id": "ren_011",
+      "german": "die Emission",
+      "plural": "die Emissionen",
+      "arabic": "الِانْبِعَاثُ",
+      "english": "emission",
+      "image_id": "ren_emission"
+    },
+    {
+      "id": "ren_012",
+      "german": "die Physik",
+      "plural": "-",
+      "arabic": "الْفِيزْيَاءُ",
+      "english": "physics",
+      "image_id": "ren_physics"
+    },
+    {
+      "id": "ren_013",
+      "german": "das Atom",
+      "plural": "die Atome",
+      "arabic": "الذَّرَّةُ",
+      "english": "atom",
+      "image_id": "ren_atom"
+    },
+    {
+      "id": "ren_014",
+      "german": "das Molekül",
+      "plural": "die Moleküle",
+      "arabic": "الْجُزَيْءُ",
+      "english": "molecule",
+      "image_id": "ren_molecule"
+    },
+    {
+      "id": "ren_015",
+      "german": "die Elektrizität",
+      "plural": "-",
+      "arabic": "الْكَهْرُبَاءُ",
+      "english": "electricity",
+      "image_id": "ren_electricity"
+    },
+    {
+      "id": "ren_016",
+      "german": "der Stromkreis",
+      "plural": "die Stromkreise",
+      "arabic": "الدَّارَةُ الْكَهْرُبَائِيَّةُ",
+      "english": "electric circuit",
+      "image_id": "ren_circuit"
+    },
+    {
+      "id": "ren_017",
+      "german": "die Schwerkraft",
+      "plural": "-",
+      "arabic": "الْجَاذِبِيَّةُ",
+      "english": "gravity",
+      "image_id": "ren_gravity"
+    },
+    {
+      "id": "ren_018",
+      "german": "die Wellenlänge",
+      "plural": "die Wellenlängen",
+      "arabic": "الطُّولُ الْمَوْجِيُّ",
+      "english": "wavelength",
+      "image_id": "ren_wavelength"
+    },
+    {
+      "id": "ren_019",
+      "german": "das Experiment",
+      "plural": "die Experimente",
+      "arabic": "التَّجْرِبَةُ",
+      "english": "experiment",
+      "image_id": "ren_experiment"
+    },
+    {
+      "id": "ren_020",
+      "german": "die Forschung",
+      "plural": "die Forschungen",
+      "arabic": "الْبَحْثُ الْعِلْمِيُّ",
+      "english": "research",
+      "image_id": "ren_research"
+    },
+    {
+      "id": "ren_021",
+      "german": "der Rohstoff",
+      "plural": "die Rohstoffe",
+      "arabic": "الْمَادَّةُ الْخَامُ",
+      "english": "raw material",
+      "image_id": "ren_raw_material"
+    },
+    {
+      "id": "ren_022",
+      "german": "die Ressource",
+      "plural": "die Ressourcen",
+      "arabic": "الْمَوْرِدُ",
+      "english": "resource",
+      "image_id": "ren_resource"
+    },
+    {
+      "id": "ren_023",
+      "german": "sparen",
+      "plural": "-",
+      "arabic": "يُوَفِّرُ / يَدَّخِرُ",
+      "english": "to save",
+      "image_id": "ren_save"
+    },
+    {
+      "id": "ren_024",
+      "german": "verbrauchen",
+      "plural": "-",
+      "arabic": "يَسْتَهْلِكُ",
+      "english": "to consume",
+      "image_id": "ren_consume"
+    },
+    {
+      "id": "ren_025",
+      "german": "die Effizienz",
+      "plural": "-",
+      "arabic": "الْكَفَاءَةُ",
+      "english": "efficiency",
+      "image_id": "ren_efficiency"
+    }
+  ]
+}
