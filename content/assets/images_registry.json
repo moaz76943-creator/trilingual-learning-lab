@@ -3815,6 +3815,66 @@
     "img_dial_hotel": {
       "asset_path": "content/assets/svg/img_dial_hotel.svg",
       "category": "dialogues_a1"
+    },
+    "tpc_both_and": {
+      "asset_path": "content/assets/svg/tpc_both_and.svg",
+      "category": "grammar"
+    },
+    "tpc_not_only": {
+      "asset_path": "content/assets/svg/tpc_not_only.svg",
+      "category": "grammar"
+    },
+    "tpc_neither_nor": {
+      "asset_path": "content/assets/svg/tpc_neither_nor.svg",
+      "category": "grammar"
+    },
+    "tpc_either_or": {
+      "asset_path": "content/assets/svg/tpc_either_or.svg",
+      "category": "grammar"
+    },
+    "tpc_zwar_aber": {
+      "asset_path": "content/assets/svg/tpc_zwar_aber.svg",
+      "category": "grammar"
+    },
+    "tpc_on_one_hand": {
+      "asset_path": "content/assets/svg/tpc_on_one_hand.svg",
+      "category": "grammar"
+    },
+    "tpc_music": {
+      "asset_path": "content/assets/svg/tpc_music.svg",
+      "category": "grammar"
+    },
+    "tpc_resources": {
+      "asset_path": "content/assets/svg/tpc_resources.svg",
+      "category": "grammar"
+    },
+    "tpc_skills": {
+      "asset_path": "content/assets/svg/tpc_skills.svg",
+      "category": "grammar"
+    },
+    "tpc_decision": {
+      "asset_path": "content/assets/svg/tpc_decision.svg",
+      "category": "grammar"
+    },
+    "tpc_parents": {
+      "asset_path": "content/assets/svg/tpc_parents.svg",
+      "category": "grammar"
+    },
+    "tpc_book": {
+      "asset_path": "content/assets/svg/tpc_book.svg",
+      "category": "grammar"
+    },
+    "tpc_hunger": {
+      "asset_path": "content/assets/svg/tpc_hunger.svg",
+      "category": "grammar"
+    },
+    "tpc_time": {
+      "asset_path": "content/assets/svg/tpc_time.svg",
+      "category": "grammar"
+    },
+    "tpc_study": {
+      "asset_path": "content/assets/svg/tpc_study.svg",
+      "category": "grammar"
     }
   }
 }
