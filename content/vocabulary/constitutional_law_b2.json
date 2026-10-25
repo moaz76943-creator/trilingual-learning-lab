@@ -1,0 +1,1217 @@
+{
+  "category_id": "constitutional_law_b2",
+  "id": "constitutional_law_b2",
+  "level": "B2",
+  "title": {
+    "ar": "القانون الدستوري وحقوق الإنسان",
+    "de": "Verfassungsrecht & Menschenrechte",
+    "en": "Constitutional Law & Human Rights"
+  },
+  "name_ar": "القانون الدستوري وحقوق الإنسان",
+  "name_de": "Verfassungsrecht & Menschenrechte",
+  "name_en": "Constitutional Law & Human Rights",
+  "concepts": [
+    {
+      "id": "constitutional_law_b2_01",
+      "icon": "consti_01",
+      "image_id": "consti_01",
+      "level": "B2",
+      "ar": "الدُّسْتُورُ الوَطَنِيّ",
+      "de": "die Verfassung",
+      "en": "constitution",
+      "arabic": {
+        "word": "الدُّسْتُورُ الوَطَنِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Verfassung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Verfassungen",
+        "example": "die Verfassung spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "constitution",
+        "example": "The concept of constitution plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_02",
+      "icon": "consti_02",
+      "image_id": "consti_02",
+      "level": "B2",
+      "ar": "فَصْلُ السُّلُطَات",
+      "de": "die Gewaltenteilung",
+      "en": "separation of powers",
+      "arabic": {
+        "word": "فَصْلُ السُّلُطَات",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Gewaltenteilung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Gewaltenteilungen",
+        "example": "die Gewaltenteilung spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "separation of powers",
+        "example": "The concept of separation of powers plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_03",
+      "icon": "consti_03",
+      "image_id": "consti_03",
+      "level": "B2",
+      "ar": "سِيَادَةُ القَانُون",
+      "de": "die Rechtsstaatlichkeit",
+      "en": "rule of law",
+      "arabic": {
+        "word": "سِيَادَةُ القَانُون",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Rechtsstaatlichkeit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Rechtsstaatlichkeiten",
+        "example": "die Rechtsstaatlichkeit spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "rule of law",
+        "example": "The concept of rule of law plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_04",
+      "icon": "consti_04",
+      "image_id": "consti_04",
+      "level": "B2",
+      "ar": "الكَرَامَةُ الإِنْسَانِيَّة",
+      "de": "die Menschenwürde",
+      "en": "human dignity",
+      "arabic": {
+        "word": "الكَرَامَةُ الإِنْسَانِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Menschenwürde",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Menschenwürden",
+        "example": "die Menschenwürde spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "human dignity",
+        "example": "The concept of human dignity plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_05",
+      "icon": "consti_05",
+      "image_id": "consti_05",
+      "level": "B2",
+      "ar": "الحَقُّ الأَسَاسِيّ",
+      "de": "das Grundrecht",
+      "en": "fundamental right",
+      "arabic": {
+        "word": "الحَقُّ الأَسَاسِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "das Grundrecht",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Grundrechte",
+        "example": "das Grundrecht spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "fundamental right",
+        "example": "The concept of fundamental right plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_06",
+      "icon": "consti_06",
+      "image_id": "consti_06",
+      "level": "B2",
+      "ar": "السُّلْطَةُ القَضَائِيَّة",
+      "de": "die Judikative",
+      "en": "judiciary",
+      "arabic": {
+        "word": "السُّلْطَةُ القَضَائِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Judikative",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Judikativen",
+        "example": "die Judikative spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "judiciary",
+        "example": "The concept of judiciary plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_07",
+      "icon": "consti_07",
+      "image_id": "consti_07",
+      "level": "B2",
+      "ar": "السُّلْطَةُ التَّشْرِيعِيَّة",
+      "de": "die Legislative",
+      "en": "legislature",
+      "arabic": {
+        "word": "السُّلْطَةُ التَّشْرِيعِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Legislative",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Legislativen",
+        "example": "die Legislative spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "legislature",
+        "example": "The concept of legislature plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_08",
+      "icon": "consti_08",
+      "image_id": "consti_08",
+      "level": "B2",
+      "ar": "السُّلْطَةُ التَّنْفِيذِيَّة",
+      "de": "die Exekutive",
+      "en": "executive branch",
+      "arabic": {
+        "word": "السُّلْطَةُ التَّنْفِيذِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Exekutive",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Exekutiven",
+        "example": "die Exekutive spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "executive branch",
+        "example": "The concept of executive branch plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_09",
+      "icon": "consti_09",
+      "image_id": "consti_09",
+      "level": "B2",
+      "ar": "المَحْكَمَةُ الدُّسْتُورِيَّة",
+      "de": "das Verfassungsgericht",
+      "en": "constitutional court",
+      "arabic": {
+        "word": "المَحْكَمَةُ الدُّسْتُورِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "das Verfassungsgericht",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Verfassungsgerichte",
+        "example": "das Verfassungsgericht spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "constitutional court",
+        "example": "The concept of constitutional court plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_10",
+      "icon": "consti_10",
+      "image_id": "consti_10",
+      "level": "B2",
+      "ar": "المُعَاهَدَةُ الدَّوْلِيَّة",
+      "de": "der Staatsvertrag",
+      "en": "international treaty",
+      "arabic": {
+        "word": "المُعَاهَدَةُ الدَّوْلِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "der Staatsvertrag",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Staatsverträge",
+        "example": "der Staatsvertrag spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "international treaty",
+        "example": "The concept of international treaty plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_11",
+      "icon": "consti_11",
+      "image_id": "consti_11",
+      "level": "B2",
+      "ar": "الحَصَانَةُ القَانُونِيَّة",
+      "de": "die Immunität",
+      "en": "legal immunity",
+      "arabic": {
+        "word": "الحَصَانَةُ القَانُونِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Immunität",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Immunitäten",
+        "example": "die Immunität spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "legal immunity",
+        "example": "The concept of legal immunity plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_12",
+      "icon": "consti_12",
+      "image_id": "consti_12",
+      "level": "B2",
+      "ar": "الاسْتِئْنَافُ القَضَائِيّ",
+      "de": "die Berufung",
+      "en": "appeal",
+      "arabic": {
+        "word": "الاسْتِئْنَافُ القَضَائِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Berufung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Berufungen",
+        "example": "die Berufung spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "appeal",
+        "example": "The concept of appeal plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_13",
+      "icon": "consti_13",
+      "image_id": "consti_13",
+      "level": "B2",
+      "ar": "البَرَاءَةُ الأَصْلِيَّة",
+      "de": "die Unschuldsvermutung",
+      "en": "presumption of innocence",
+      "arabic": {
+        "word": "البَرَاءَةُ الأَصْلِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Unschuldsvermutung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Unschuldsvermutungen",
+        "example": "die Unschuldsvermutung spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "presumption of innocence",
+        "example": "The concept of presumption of innocence plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_14",
+      "icon": "consti_14",
+      "image_id": "consti_14",
+      "level": "B2",
+      "ar": "التَّشْرِيعُ البَرْلَمَانِيّ",
+      "de": "die Gesetzgebung",
+      "en": "legislation",
+      "arabic": {
+        "word": "التَّشْرِيعُ البَرْلَمَانِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Gesetzgebung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Gesetzgebungen",
+        "example": "die Gesetzgebung spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "legislation",
+        "example": "The concept of legislation plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_15",
+      "icon": "consti_15",
+      "image_id": "consti_15",
+      "level": "B2",
+      "ar": "العُرْفُ الدَّوْلِيّ",
+      "de": "das Völkerrecht",
+      "en": "international law",
+      "arabic": {
+        "word": "العُرْفُ الدَّوْلِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "das Völkerrecht",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Völkerrechte",
+        "example": "das Völkerrecht spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "international law",
+        "example": "The concept of international law plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_16",
+      "icon": "consti_16",
+      "image_id": "consti_16",
+      "level": "B2",
+      "ar": "حُرِّيَّةُ التَّعْبِير",
+      "de": "die Meinungsfreiheit",
+      "en": "freedom of expression",
+      "arabic": {
+        "word": "حُرِّيَّةُ التَّعْبِير",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Meinungsfreiheit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Meinungsfreiheiten",
+        "example": "die Meinungsfreiheit spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "freedom of expression",
+        "example": "The concept of freedom of expression plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_17",
+      "icon": "consti_17",
+      "image_id": "consti_17",
+      "level": "B2",
+      "ar": "المُسَاءَلَةُ القَانُونِيَّة",
+      "de": "die Rechenschaftspflicht",
+      "en": "accountability",
+      "arabic": {
+        "word": "المُسَاءَلَةُ القَانُونِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Rechenschaftspflicht",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Pflichten",
+        "example": "die Rechenschaftspflicht spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "accountability",
+        "example": "The concept of accountability plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_18",
+      "icon": "consti_18",
+      "image_id": "consti_18",
+      "level": "B2",
+      "ar": "الحُكْمُ القَضَائِيّ",
+      "de": "das Gerichtsurteil",
+      "en": "court verdict",
+      "arabic": {
+        "word": "الحُكْمُ القَضَائِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "das Gerichtsurteil",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Gerichtsurteile",
+        "example": "das Gerichtsurteil spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "court verdict",
+        "example": "The concept of court verdict plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_19",
+      "icon": "consti_19",
+      "image_id": "consti_19",
+      "level": "B2",
+      "ar": "المُرَافَعَةُ الدِّفَاعِيَّة",
+      "de": "das Plädoyer",
+      "en": "plea / closing argument",
+      "arabic": {
+        "word": "المُرَافَعَةُ الدِّفَاعِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "das Plädoyer",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Plädoyers",
+        "example": "das Plädoyer spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "plea / closing argument",
+        "example": "The concept of plea / closing argument plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_20",
+      "icon": "consti_20",
+      "image_id": "consti_20",
+      "level": "B2",
+      "ar": "الاخْتِصَاصُ القَضَائِيّ",
+      "de": "die Zuständigkeit",
+      "en": "jurisdiction",
+      "arabic": {
+        "word": "الاخْتِصَاصُ القَضَائِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Zuständigkeit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Zuständigkeiten",
+        "example": "die Zuständigkeit spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "jurisdiction",
+        "example": "The concept of jurisdiction plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_21",
+      "icon": "consti_21",
+      "image_id": "consti_21",
+      "level": "B2",
+      "ar": "العَقُوبَةُ الرَّادِعَة",
+      "de": "die Sanktion",
+      "en": "sanction",
+      "arabic": {
+        "word": "العَقُوبَةُ الرَّادِعَة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Sanktion",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Sanktionen",
+        "example": "die Sanktion spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "sanction",
+        "example": "The concept of sanction plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_22",
+      "icon": "consti_22",
+      "image_id": "consti_22",
+      "level": "B2",
+      "ar": "التَّحْكِيمُ الدَّوْلِيّ",
+      "de": "die Schiedsgerichtsbarkeit",
+      "en": "arbitration",
+      "arabic": {
+        "word": "التَّحْكِيمُ الدَّوْلِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Schiedsgerichtsbarkeit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die barkeiten",
+        "example": "die Schiedsgerichtsbarkeit spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "arbitration",
+        "example": "The concept of arbitration plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_23",
+      "icon": "consti_23",
+      "image_id": "consti_23",
+      "level": "B2",
+      "ar": "السِّيَادَةُ الوَطَنِيَّة",
+      "de": "die Souveränität",
+      "en": "sovereignty",
+      "arabic": {
+        "word": "السِّيَادَةُ الوَطَنِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Souveränität",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Souveränitäten",
+        "example": "die Souveränität spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "sovereignty",
+        "example": "The concept of sovereignty plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_24",
+      "icon": "consti_24",
+      "image_id": "consti_24",
+      "level": "B2",
+      "ar": "المِيثَاقُ الأُمَمِيّ",
+      "de": "die Charta",
+      "en": "charter",
+      "arabic": {
+        "word": "المِيثَاقُ الأُمَمِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Charta",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Chartas",
+        "example": "die Charta spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "charter",
+        "example": "The concept of charter plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_25",
+      "icon": "consti_25",
+      "image_id": "consti_25",
+      "level": "B2",
+      "ar": "الإنْصَافُ الحُقُوقِيّ",
+      "de": "die Billigkeit",
+      "en": "equity",
+      "arabic": {
+        "word": "الإنْصَافُ الحُقُوقِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Billigkeit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Billigkeiten",
+        "example": "die Billigkeit spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "equity",
+        "example": "The concept of equity plays a key role in Constitutional Law & Human Rights."
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "constitutional_law_b2_01",
+      "icon": "consti_01",
+      "image_id": "consti_01",
+      "level": "B2",
+      "ar": "الدُّسْتُورُ الوَطَنِيّ",
+      "de": "die Verfassung",
+      "en": "constitution",
+      "arabic": {
+        "word": "الدُّسْتُورُ الوَطَنِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Verfassung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Verfassungen",
+        "example": "die Verfassung spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "constitution",
+        "example": "The concept of constitution plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_02",
+      "icon": "consti_02",
+      "image_id": "consti_02",
+      "level": "B2",
+      "ar": "فَصْلُ السُّلُطَات",
+      "de": "die Gewaltenteilung",
+      "en": "separation of powers",
+      "arabic": {
+        "word": "فَصْلُ السُّلُطَات",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Gewaltenteilung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Gewaltenteilungen",
+        "example": "die Gewaltenteilung spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "separation of powers",
+        "example": "The concept of separation of powers plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_03",
+      "icon": "consti_03",
+      "image_id": "consti_03",
+      "level": "B2",
+      "ar": "سِيَادَةُ القَانُون",
+      "de": "die Rechtsstaatlichkeit",
+      "en": "rule of law",
+      "arabic": {
+        "word": "سِيَادَةُ القَانُون",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Rechtsstaatlichkeit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Rechtsstaatlichkeiten",
+        "example": "die Rechtsstaatlichkeit spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "rule of law",
+        "example": "The concept of rule of law plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_04",
+      "icon": "consti_04",
+      "image_id": "consti_04",
+      "level": "B2",
+      "ar": "الكَرَامَةُ الإِنْسَانِيَّة",
+      "de": "die Menschenwürde",
+      "en": "human dignity",
+      "arabic": {
+        "word": "الكَرَامَةُ الإِنْسَانِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Menschenwürde",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Menschenwürden",
+        "example": "die Menschenwürde spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "human dignity",
+        "example": "The concept of human dignity plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_05",
+      "icon": "consti_05",
+      "image_id": "consti_05",
+      "level": "B2",
+      "ar": "الحَقُّ الأَسَاسِيّ",
+      "de": "das Grundrecht",
+      "en": "fundamental right",
+      "arabic": {
+        "word": "الحَقُّ الأَسَاسِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "das Grundrecht",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Grundrechte",
+        "example": "das Grundrecht spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "fundamental right",
+        "example": "The concept of fundamental right plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_06",
+      "icon": "consti_06",
+      "image_id": "consti_06",
+      "level": "B2",
+      "ar": "السُّلْطَةُ القَضَائِيَّة",
+      "de": "die Judikative",
+      "en": "judiciary",
+      "arabic": {
+        "word": "السُّلْطَةُ القَضَائِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Judikative",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Judikativen",
+        "example": "die Judikative spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "judiciary",
+        "example": "The concept of judiciary plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_07",
+      "icon": "consti_07",
+      "image_id": "consti_07",
+      "level": "B2",
+      "ar": "السُّلْطَةُ التَّشْرِيعِيَّة",
+      "de": "die Legislative",
+      "en": "legislature",
+      "arabic": {
+        "word": "السُّلْطَةُ التَّشْرِيعِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Legislative",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Legislativen",
+        "example": "die Legislative spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "legislature",
+        "example": "The concept of legislature plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_08",
+      "icon": "consti_08",
+      "image_id": "consti_08",
+      "level": "B2",
+      "ar": "السُّلْطَةُ التَّنْفِيذِيَّة",
+      "de": "die Exekutive",
+      "en": "executive branch",
+      "arabic": {
+        "word": "السُّلْطَةُ التَّنْفِيذِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Exekutive",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Exekutiven",
+        "example": "die Exekutive spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "executive branch",
+        "example": "The concept of executive branch plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_09",
+      "icon": "consti_09",
+      "image_id": "consti_09",
+      "level": "B2",
+      "ar": "المَحْكَمَةُ الدُّسْتُورِيَّة",
+      "de": "das Verfassungsgericht",
+      "en": "constitutional court",
+      "arabic": {
+        "word": "المَحْكَمَةُ الدُّسْتُورِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "das Verfassungsgericht",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Verfassungsgerichte",
+        "example": "das Verfassungsgericht spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "constitutional court",
+        "example": "The concept of constitutional court plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_10",
+      "icon": "consti_10",
+      "image_id": "consti_10",
+      "level": "B2",
+      "ar": "المُعَاهَدَةُ الدَّوْلِيَّة",
+      "de": "der Staatsvertrag",
+      "en": "international treaty",
+      "arabic": {
+        "word": "المُعَاهَدَةُ الدَّوْلِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "der Staatsvertrag",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Staatsverträge",
+        "example": "der Staatsvertrag spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "international treaty",
+        "example": "The concept of international treaty plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_11",
+      "icon": "consti_11",
+      "image_id": "consti_11",
+      "level": "B2",
+      "ar": "الحَصَانَةُ القَانُونِيَّة",
+      "de": "die Immunität",
+      "en": "legal immunity",
+      "arabic": {
+        "word": "الحَصَانَةُ القَانُونِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Immunität",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Immunitäten",
+        "example": "die Immunität spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "legal immunity",
+        "example": "The concept of legal immunity plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_12",
+      "icon": "consti_12",
+      "image_id": "consti_12",
+      "level": "B2",
+      "ar": "الاسْتِئْنَافُ القَضَائِيّ",
+      "de": "die Berufung",
+      "en": "appeal",
+      "arabic": {
+        "word": "الاسْتِئْنَافُ القَضَائِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Berufung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Berufungen",
+        "example": "die Berufung spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "appeal",
+        "example": "The concept of appeal plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_13",
+      "icon": "consti_13",
+      "image_id": "consti_13",
+      "level": "B2",
+      "ar": "البَرَاءَةُ الأَصْلِيَّة",
+      "de": "die Unschuldsvermutung",
+      "en": "presumption of innocence",
+      "arabic": {
+        "word": "البَرَاءَةُ الأَصْلِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Unschuldsvermutung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Unschuldsvermutungen",
+        "example": "die Unschuldsvermutung spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "presumption of innocence",
+        "example": "The concept of presumption of innocence plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_14",
+      "icon": "consti_14",
+      "image_id": "consti_14",
+      "level": "B2",
+      "ar": "التَّشْرِيعُ البَرْلَمَانِيّ",
+      "de": "die Gesetzgebung",
+      "en": "legislation",
+      "arabic": {
+        "word": "التَّشْرِيعُ البَرْلَمَانِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Gesetzgebung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Gesetzgebungen",
+        "example": "die Gesetzgebung spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "legislation",
+        "example": "The concept of legislation plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_15",
+      "icon": "consti_15",
+      "image_id": "consti_15",
+      "level": "B2",
+      "ar": "العُرْفُ الدَّوْلِيّ",
+      "de": "das Völkerrecht",
+      "en": "international law",
+      "arabic": {
+        "word": "العُرْفُ الدَّوْلِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "das Völkerrecht",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Völkerrechte",
+        "example": "das Völkerrecht spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "international law",
+        "example": "The concept of international law plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_16",
+      "icon": "consti_16",
+      "image_id": "consti_16",
+      "level": "B2",
+      "ar": "حُرِّيَّةُ التَّعْبِير",
+      "de": "die Meinungsfreiheit",
+      "en": "freedom of expression",
+      "arabic": {
+        "word": "حُرِّيَّةُ التَّعْبِير",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Meinungsfreiheit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Meinungsfreiheiten",
+        "example": "die Meinungsfreiheit spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "freedom of expression",
+        "example": "The concept of freedom of expression plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_17",
+      "icon": "consti_17",
+      "image_id": "consti_17",
+      "level": "B2",
+      "ar": "المُسَاءَلَةُ القَانُونِيَّة",
+      "de": "die Rechenschaftspflicht",
+      "en": "accountability",
+      "arabic": {
+        "word": "المُسَاءَلَةُ القَانُونِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Rechenschaftspflicht",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Pflichten",
+        "example": "die Rechenschaftspflicht spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "accountability",
+        "example": "The concept of accountability plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_18",
+      "icon": "consti_18",
+      "image_id": "consti_18",
+      "level": "B2",
+      "ar": "الحُكْمُ القَضَائِيّ",
+      "de": "das Gerichtsurteil",
+      "en": "court verdict",
+      "arabic": {
+        "word": "الحُكْمُ القَضَائِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "das Gerichtsurteil",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Gerichtsurteile",
+        "example": "das Gerichtsurteil spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "court verdict",
+        "example": "The concept of court verdict plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_19",
+      "icon": "consti_19",
+      "image_id": "consti_19",
+      "level": "B2",
+      "ar": "المُرَافَعَةُ الدِّفَاعِيَّة",
+      "de": "das Plädoyer",
+      "en": "plea / closing argument",
+      "arabic": {
+        "word": "المُرَافَعَةُ الدِّفَاعِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "das Plädoyer",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Plädoyers",
+        "example": "das Plädoyer spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "plea / closing argument",
+        "example": "The concept of plea / closing argument plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_20",
+      "icon": "consti_20",
+      "image_id": "consti_20",
+      "level": "B2",
+      "ar": "الاخْتِصَاصُ القَضَائِيّ",
+      "de": "die Zuständigkeit",
+      "en": "jurisdiction",
+      "arabic": {
+        "word": "الاخْتِصَاصُ القَضَائِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Zuständigkeit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Zuständigkeiten",
+        "example": "die Zuständigkeit spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "jurisdiction",
+        "example": "The concept of jurisdiction plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_21",
+      "icon": "consti_21",
+      "image_id": "consti_21",
+      "level": "B2",
+      "ar": "العَقُوبَةُ الرَّادِعَة",
+      "de": "die Sanktion",
+      "en": "sanction",
+      "arabic": {
+        "word": "العَقُوبَةُ الرَّادِعَة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Sanktion",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Sanktionen",
+        "example": "die Sanktion spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "sanction",
+        "example": "The concept of sanction plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_22",
+      "icon": "consti_22",
+      "image_id": "consti_22",
+      "level": "B2",
+      "ar": "التَّحْكِيمُ الدَّوْلِيّ",
+      "de": "die Schiedsgerichtsbarkeit",
+      "en": "arbitration",
+      "arabic": {
+        "word": "التَّحْكِيمُ الدَّوْلِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Schiedsgerichtsbarkeit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die barkeiten",
+        "example": "die Schiedsgerichtsbarkeit spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "arbitration",
+        "example": "The concept of arbitration plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_23",
+      "icon": "consti_23",
+      "image_id": "consti_23",
+      "level": "B2",
+      "ar": "السِّيَادَةُ الوَطَنِيَّة",
+      "de": "die Souveränität",
+      "en": "sovereignty",
+      "arabic": {
+        "word": "السِّيَادَةُ الوَطَنِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Souveränität",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Souveränitäten",
+        "example": "die Souveränität spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "sovereignty",
+        "example": "The concept of sovereignty plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_24",
+      "icon": "consti_24",
+      "image_id": "consti_24",
+      "level": "B2",
+      "ar": "المِيثَاقُ الأُمَمِيّ",
+      "de": "die Charta",
+      "en": "charter",
+      "arabic": {
+        "word": "المِيثَاقُ الأُمَمِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Charta",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Chartas",
+        "example": "die Charta spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "charter",
+        "example": "The concept of charter plays a key role in Constitutional Law & Human Rights."
+      }
+    },
+    {
+      "id": "constitutional_law_b2_25",
+      "icon": "consti_25",
+      "image_id": "consti_25",
+      "level": "B2",
+      "ar": "الإنْصَافُ الحُقُوقِيّ",
+      "de": "die Billigkeit",
+      "en": "equity",
+      "arabic": {
+        "word": "الإنْصَافُ الحُقُوقِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي القانون الدستوري وحقوق الإنسان"
+      },
+      "german": {
+        "word": "die Billigkeit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Billigkeiten",
+        "example": "die Billigkeit spielt eine zentrale Rolle im Bereich Verfassungsrecht & Menschenrechte."
+      },
+      "english": {
+        "word": "equity",
+        "example": "The concept of equity plays a key role in Constitutional Law & Human Rights."
+      }
+    }
+  ]
+}
