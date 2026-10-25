@@ -1,0 +1,204 @@
+{
+  "concepts": [
+    {
+      "id": "mob_001",
+      "german": "die Mobilität",
+      "plural": "-",
+      "arabic": "التَّنَقُّلُ (الْحَرَكِيَّةُ)",
+      "english": "mobility",
+      "image_id": "mob_mobility"
+    },
+    {
+      "id": "mob_002",
+      "german": "das Verkehrsmittel",
+      "plural": "die Verkehrsmittel",
+      "arabic": "وَسِيلَةُ النَّقْلِ",
+      "english": "means of transport",
+      "image_id": "mob_transport"
+    },
+    {
+      "id": "mob_003",
+      "german": "das Elektroauto",
+      "plural": "die Elektroautos",
+      "arabic": "السَّيَّارَةُ الْكَهْرُبَائِيَّةُ",
+      "english": "electric car",
+      "image_id": "mob_e_car"
+    },
+    {
+      "id": "mob_004",
+      "german": "die Ladestation",
+      "plural": "die Ladestationen",
+      "arabic": "مَحَطَّةُ الشَّحْنِ",
+      "english": "charging station",
+      "image_id": "mob_charging"
+    },
+    {
+      "id": "mob_005",
+      "german": "selbstfahrend",
+      "plural": "-",
+      "arabic": "ذَاتِيُّ الْقِيَادَةِ",
+      "english": "self-driving",
+      "image_id": "mob_autonomous"
+    },
+    {
+      "id": "mob_006",
+      "german": "die künstliche Intelligenz",
+      "plural": "-",
+      "arabic": "الذَّكَاءُ الِاصْطِنَاعِيُّ",
+      "english": "artificial intelligence",
+      "image_id": "mob_ai"
+    },
+    {
+      "id": "mob_007",
+      "german": "der Stau",
+      "plural": "die Staus",
+      "arabic": "الِازْدِحَامُ الْمُرُورِيُّ",
+      "english": "traffic jam",
+      "image_id": "mob_traffic_jam"
+    },
+    {
+      "id": "mob_008",
+      "german": "die Autobahn",
+      "plural": "die Autobahnen",
+      "arabic": "الطَّرِيقُ السَّرِيعُ",
+      "english": "highway",
+      "image_id": "mob_highway"
+    },
+    {
+      "id": "mob_009",
+      "german": "der Radweg",
+      "plural": "die Radwege",
+      "arabic": "مَسَارُ الدَّرَّاجَاتِ",
+      "english": "bike path",
+      "image_id": "mob_bike_path"
+    },
+    {
+      "id": "mob_010",
+      "german": "der öffentliche Nahverkehr",
+      "plural": "-",
+      "arabic": "النَّقْلُ الْعَامُّ الْمَحَلِّيُّ",
+      "english": "public transport",
+      "image_id": "mob_public_transport"
+    },
+    {
+      "id": "mob_011",
+      "german": "die Schiene",
+      "plural": "die Schienen",
+      "arabic": "السِّكَّةُ الْحَدِيدِيَّةُ",
+      "english": "rail",
+      "image_id": "mob_rail"
+    },
+    {
+      "id": "mob_012",
+      "german": "die Verbindung",
+      "plural": "die Verbindungen",
+      "arabic": "الرَّبْطُ / التَّوْصِيلَةُ",
+      "english": "connection",
+      "image_id": "mob_connection"
+    },
+    {
+      "id": "mob_013",
+      "german": "die Geschwindigkeit",
+      "plural": "die Geschwindigkeiten",
+      "arabic": "السُّرْعَةُ",
+      "english": "speed",
+      "image_id": "mob_speed"
+    },
+    {
+      "id": "mob_014",
+      "german": "die Sicherheit",
+      "plural": "-",
+      "arabic": "الْأَمَانُ / السَّلَامَةُ",
+      "english": "safety",
+      "image_id": "mob_safety"
+    },
+    {
+      "id": "mob_015",
+      "german": "innovativ",
+      "plural": "-",
+      "arabic": "مُبْتَكَرٌ",
+      "english": "innovative",
+      "image_id": "mob_innovative"
+    },
+    {
+      "id": "mob_016",
+      "german": "der Kraftstoff",
+      "plural": "die Kraftstoffe",
+      "arabic": "الْوَقُودُ",
+      "english": "fuel",
+      "image_id": "mob_fuel"
+    },
+    {
+      "id": "mob_017",
+      "german": "die Emission",
+      "plural": "die Emissionen",
+      "arabic": "الِانْبِعَاثُ",
+      "english": "emission",
+      "image_id": "mob_emission"
+    },
+    {
+      "id": "mob_018",
+      "german": "umweltfreundlich",
+      "plural": "-",
+      "arabic": "صَدِيقٌ لِلْبِيئَةِ",
+      "english": "environmentally friendly",
+      "image_id": "mob_eco"
+    },
+    {
+      "id": "mob_019",
+      "german": "der Pendler",
+      "plural": "die Pendler",
+      "arabic": "الْمُسَافِرُ يَوْمِيًّا لِلْعَمَلِ",
+      "english": "commuter",
+      "image_id": "mob_commuter"
+    },
+    {
+      "id": "mob_020",
+      "german": "die Infrastruktur",
+      "plural": "die Infrastrukturen",
+      "arabic": "الْبِنْيَةُ التَّحْتِيَّةُ",
+      "english": "infrastructure",
+      "image_id": "mob_infrastructure"
+    },
+    {
+      "id": "mob_021",
+      "german": "vernetzt",
+      "plural": "-",
+      "arabic": "مُتَّصِلٌ / شَبَكِيٌّ",
+      "english": "networked",
+      "image_id": "mob_networked"
+    },
+    {
+      "id": "mob_022",
+      "german": "das Sharing-Angebot",
+      "plural": "die Sharing-Angebote",
+      "arabic": "خِدْمَةُ التَّشَارُكِ",
+      "english": "sharing service",
+      "image_id": "mob_sharing"
+    },
+    {
+      "id": "mob_023",
+      "german": "die Reichweite",
+      "plural": "die Reichweiten",
+      "arabic": "الْمَدَى (لِلشَّحْنِ)",
+      "english": "range",
+      "image_id": "mob_range"
+    },
+    {
+      "id": "mob_024",
+      "german": "der Prototyp",
+      "plural": "die Prototypen",
+      "arabic": "النَّمُوذَجُ الْأَوَّلِيُّ",
+      "english": "prototype",
+      "image_id": "mob_prototype"
+    },
+    {
+      "id": "mob_025",
+      "german": "die Zukunftsvision",
+      "plural": "die Zukunftsvisionen",
+      "arabic": "رُؤْيَةٌ مُسْتَقْبَلِيَّةٌ",
+      "english": "vision of the future",
+      "image_id": "mob_vision"
+    }
+  ]
+}

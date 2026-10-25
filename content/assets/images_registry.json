@@ -4035,6 +4035,106 @@
     "ind_quantity": {
       "asset_path": "content/assets/svg/ind_quantity.svg",
       "category": "grammar"
+    },
+    "mob_mobility": {
+      "asset_path": "content/assets/svg/mob_mobility.svg",
+      "category": "mobility"
+    },
+    "mob_transport": {
+      "asset_path": "content/assets/svg/mob_transport.svg",
+      "category": "mobility"
+    },
+    "mob_e_car": {
+      "asset_path": "content/assets/svg/mob_e_car.svg",
+      "category": "mobility"
+    },
+    "mob_charging": {
+      "asset_path": "content/assets/svg/mob_charging.svg",
+      "category": "mobility"
+    },
+    "mob_autonomous": {
+      "asset_path": "content/assets/svg/mob_autonomous.svg",
+      "category": "mobility"
+    },
+    "mob_ai": {
+      "asset_path": "content/assets/svg/mob_ai.svg",
+      "category": "mobility"
+    },
+    "mob_traffic_jam": {
+      "asset_path": "content/assets/svg/mob_traffic_jam.svg",
+      "category": "mobility"
+    },
+    "mob_highway": {
+      "asset_path": "content/assets/svg/mob_highway.svg",
+      "category": "mobility"
+    },
+    "mob_bike_path": {
+      "asset_path": "content/assets/svg/mob_bike_path.svg",
+      "category": "mobility"
+    },
+    "mob_public_transport": {
+      "asset_path": "content/assets/svg/mob_public_transport.svg",
+      "category": "mobility"
+    },
+    "mob_rail": {
+      "asset_path": "content/assets/svg/mob_rail.svg",
+      "category": "mobility"
+    },
+    "mob_connection": {
+      "asset_path": "content/assets/svg/mob_connection.svg",
+      "category": "mobility"
+    },
+    "mob_speed": {
+      "asset_path": "content/assets/svg/mob_speed.svg",
+      "category": "mobility"
+    },
+    "mob_safety": {
+      "asset_path": "content/assets/svg/mob_safety.svg",
+      "category": "mobility"
+    },
+    "mob_innovative": {
+      "asset_path": "content/assets/svg/mob_innovative.svg",
+      "category": "mobility"
+    },
+    "mob_fuel": {
+      "asset_path": "content/assets/svg/mob_fuel.svg",
+      "category": "mobility"
+    },
+    "mob_emission": {
+      "asset_path": "content/assets/svg/mob_emission.svg",
+      "category": "mobility"
+    },
+    "mob_eco": {
+      "asset_path": "content/assets/svg/mob_eco.svg",
+      "category": "mobility"
+    },
+    "mob_commuter": {
+      "asset_path": "content/assets/svg/mob_commuter.svg",
+      "category": "mobility"
+    },
+    "mob_infrastructure": {
+      "asset_path": "content/assets/svg/mob_infrastructure.svg",
+      "category": "mobility"
+    },
+    "mob_networked": {
+      "asset_path": "content/assets/svg/mob_networked.svg",
+      "category": "mobility"
+    },
+    "mob_sharing": {
+      "asset_path": "content/assets/svg/mob_sharing.svg",
+      "category": "mobility"
+    },
+    "mob_range": {
+      "asset_path": "content/assets/svg/mob_range.svg",
+      "category": "mobility"
+    },
+    "mob_prototype": {
+      "asset_path": "content/assets/svg/mob_prototype.svg",
+      "category": "mobility"
+    },
+    "mob_vision": {
+      "asset_path": "content/assets/svg/mob_vision.svg",
+      "category": "mobility"
     }
   }
 }
