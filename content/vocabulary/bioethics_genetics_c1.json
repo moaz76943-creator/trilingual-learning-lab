@@ -1,0 +1,488 @@
+{
+  "category_id": "bioethics_genetics_c1",
+  "category_number": 50,
+  "level": "C1",
+  "title": {
+    "ar": "الأخلاقيات الحيوية، الهندسة الوراثية والبيولوجيا التركيبية",
+    "de": "Bioethik, Gentechnik & synthetische Biologie",
+    "en": "Bioethics, Genetic Engineering & Synthetic Biology"
+  },
+  "icon": "bg_bioethik",
+  "concepts": [
+    {
+      "id": "bg_001",
+      "icon": "bg_bioethik",
+      "arabic": {
+        "word": "الأَخْلَاقِيَّاتُ الحَيَوِيَّة",
+        "meaning": "الدِّرَاسَةُ الفَلْسَفِيَّةُ لِلْمَسَائِلِ الأَخْلَاقِيَّةِ النَّاشِئَةِ عَنِ التَّقَدُّمِ فِي عُلُومِ الطِّبِّ وَالأَحْيَاءِ"
+      },
+      "german": {
+        "word": "die Bioethik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Bioethiken",
+        "example": "Der Deutsche Ethikrat befasst sich intensiv mit Fragen der modernen Bioethik."
+      },
+      "english": {
+        "word": "bioethics",
+        "example": "The German Ethics Council deals intensively with issues of modern bioethics."
+      }
+    },
+    {
+      "id": "bg_002",
+      "icon": "bg_gentechnik",
+      "arabic": {
+        "word": "الهَنْدَسَةُ الوِرَاثِيَّة",
+        "meaning": "مَجْمُوعُ التِّقْنِيَّاتِ الَّتِي تُتِيحُ تَعْدِيلَ المَادَّةِ الوِرَاثِيَّةِ لِلْكَائِنَاتِ الحَيَّةِ بِشَكْلٍ مُوَجَّهٍ"
+      },
+      "german": {
+        "word": "die Gentechnik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Gentechniken",
+        "example": "Die Gentechnik eröffnet neue Wege in der Krebstherapie, birgt jedoch ethische Risiken."
+      },
+      "english": {
+        "word": "genetic engineering",
+        "example": "Genetic engineering opens new avenues in cancer therapy, but entails ethical risks."
+      }
+    },
+    {
+      "id": "bg_003",
+      "icon": "bg_sequenzierung",
+      "arabic": {
+        "word": "تَسَلْسُلُ الجِينُوم",
+        "meaning": "تَحْدِيدُ التَّرْتِيبِ الدَّقِيقِ لِلْقَوَاعِدِ النِّيُوكْلِيُوتِيدِيَّةِ فِي الحَمْضِ النَّوَوِيِّ"
+      },
+      "german": {
+        "word": "die Gensequenzierung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Gensequenzierungen",
+        "example": "Die Hochdurchsatz-Gensequenzierung ermöglicht die Entschlüsselung des Erbguts in wenigen Stunden."
+      },
+      "english": {
+        "word": "DNA sequencing",
+        "example": "High-throughput DNA sequencing enables decoding of genetic material in a few hours."
+      }
+    },
+    {
+      "id": "bg_004",
+      "icon": "bg_crispr",
+      "arabic": {
+        "word": "تِقْنِيَّةُ كْرِيسْبِر (المِقَصُّ الجِينِيّ)",
+        "meaning": "أَدَاةٌ ثَوْرِيَّةٌ لِتَحْرِيرِ الجِينُومِ تَقُومُ بِقَصِّ وَتَعْدِيلِ قِطَعٍ مُحَدَّدَةٍ مِنَ الحمض النووي بدقة فائقة"
+      },
+      "german": {
+        "word": "die CRISPR-Cas-Methode",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die CRISPR-Cas-Methoden",
+        "example": "Die CRISPR-Cas-Methode revolutioniert die molekulare Genetik durch punktgenaue Eingriffe."
+      },
+      "english": {
+        "word": "CRISPR-Cas gene editing",
+        "example": "The CRISPR-Cas method revolutionizes molecular genetics through pinpoint interventions."
+      }
+    },
+    {
+      "id": "bg_005",
+      "icon": "bg_genom",
+      "arabic": {
+        "word": "الجِينُوم",
+        "meaning": "المَجْمُوعُ الكَامِلُ لِلْمَعْلُومَاتِ الوِرَاثِيَّةِ الخَاصَّةِ بِكَائِنٍ حَيٍّ مُعَيَّنٍ"
+      },
+      "german": {
+        "word": "das Genom",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Genome",
+        "example": "Das menschliche Genom besteht aus mehr als drei Milliarden Basenpaaren."
+      },
+      "english": {
+        "word": "genome",
+        "example": "The human genome consists of more than three billion base pairs."
+      }
+    },
+    {
+      "id": "bg_006",
+      "icon": "bg_epigenetik",
+      "arabic": {
+        "word": "عِلْمُ فَوْقِ الجِينَات",
+        "meaning": "دِرَاسَةُ التَّغَيُّرَاتِ فِي نَشَاطِ الجِينَاتِ الَّتِي لَا تَتَضَمَّنُ تَعْدِيلًا فِي تَسَلْسُلِ الحَمْضِ النَّوَوِيِّ ذَاتِهِ"
+      },
+      "german": {
+        "word": "die Epigenetik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Epigenetiken",
+        "example": "Die Epigenetik zeigt, wie Umweltfaktoren und Lebensstil die Genaktivität beeinflussen."
+      },
+      "english": {
+        "word": "epigenetics",
+        "example": "Epigenetics demonstrates how environmental factors and lifestyle influence gene activity."
+      }
+    },
+    {
+      "id": "bg_007",
+      "icon": "bg_klonen",
+      "arabic": {
+        "word": "الاسْتِنْسَاخُ الجِينِيّ",
+        "meaning": "إِنْتَاجُ نُسَخٍ مُتَطَابِقَةٍ جِينِيًّا مِنْ كَائِنٍ حَيٍّ أَوْ خَلِيَّةٍ"
+      },
+      "german": {
+        "word": "das Klonen",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Klonverfahren",
+        "example": "Das reproduktive Klonen von Menschen ist völkerrechtlich streng verboten."
+      },
+      "english": {
+        "word": "cloning",
+        "example": "Reproductive cloning of human beings is strictly prohibited under international law."
+      }
+    },
+    {
+      "id": "bg_008",
+      "icon": "bg_stammzelle",
+      "arabic": {
+        "word": "الخَلِيَّةُ الجِذْعِيَّة",
+        "meaning": "خَلِيَّةٌ غَيْرُ مُتَمَايِزَةٍ قَادِرَةٌ عَلَى التَّحَوُّلِ إِلَى أَنْوَاعٍ مُخْتَلِفَةٍ مِنَ الخَلَايَا المُتَخَصِّصَةِ"
+      },
+      "german": {
+        "word": "die Stammzelle",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Stammzellen",
+        "example": "Induzierte pluripotente Stammzellen bergen enormes Potenzial für die regenerative Medizin."
+      },
+      "english": {
+        "word": "stem cell",
+        "example": "Induced pluripotent stem cells hold enormous potential for regenerative medicine."
+      }
+    },
+    {
+      "id": "bg_009",
+      "icon": "bg_synthetisch",
+      "arabic": {
+        "word": "البِيُولُوجْيَا التَّرْكِيبِيَّة",
+        "meaning": "مَجَالٌ هَنْدَسِيٌّ يَسْعَى إِلَى تَصْمِيمِ وَبِنَاءِ أَنْظِمَةٍ حَيَوِيَّةٍ اصْطِنَاعِيَّةٍ غَيْرِ مَوْجُودَةٍ فِي الطَّبِيعَةِ"
+      },
+      "german": {
+        "word": "die synthetische Biologie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die synthetischen Biologien",
+        "example": "Die synthetische Biologie konstruiert künstliche Mikroorganismen zur Produktion von Biokraftstoffen."
+      },
+      "english": {
+        "word": "synthetic biology",
+        "example": "Synthetic biology engineers artificial microorganisms to produce biofuels."
+      }
+    },
+    {
+      "id": "bg_010",
+      "icon": "bg_manipulation",
+      "arabic": {
+        "word": "التَّلَاعُبُ الوِرَاثِيّ",
+        "meaning": "التَّدَخُّلُ الاصْطِنَاعِيُّ فِي الشَّفْرَةِ الوِرَاثِيَّةِ لِتَغْيِيرِ صِفَاتِ الكَائِنِ"
+      },
+      "german": {
+        "word": "die Genmanipulation",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Genmanipulationen",
+        "example": "Genmanipulation an landwirtschaftlichen Nutzpflanzen ruft weltweit gesellschaftliche Debatten hervor."
+      },
+      "english": {
+        "word": "genetic manipulation",
+        "example": "Genetic manipulation of agricultural crops sparks worldwide societal debate."
+      }
+    },
+    {
+      "id": "bg_011",
+      "icon": "bg_keimbahn",
+      "arabic": {
+        "word": "عِلَاجُ الخَطِّ الإِنْتَاشِيّ",
+        "meaning": "تَعْدِيلٌ جِينِيٌّ يَمَسُّ الخَلَايَا التَّنَاسُلِيَّةَ فَيَنْتَقِلُ الأَثَرُ تِلْقَائِيًّا إِلَى الأَجْيَالِ القَادِمَةِ"
+      },
+      "german": {
+        "word": "die Keimbahntherapie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Keimbahntherapien",
+        "example": "Eingriffe in die menschliche Keimbahnlinie sind aus bioethischen Gründen hochgradig umstritten."
+      },
+      "english": {
+        "word": "germline gene therapy",
+        "example": "Interventions in the human germline are highly contentious for bioethical reasons."
+      }
+    },
+    {
+      "id": "bg_012",
+      "icon": "bg_somatisch",
+      "arabic": {
+        "word": "العِلَاجُ الجِينِيُّ الجَسَدِيّ",
+        "meaning": "تَعْدِيلٌ جِينِيٌّ يَقْتَصِرُ عَلَى خَلَايَا الجِسْمِ غَيْرِ التَّنَاسُلِيَّةِ وَلَا يَنْتَقِلُ لِلأَبْنَاءِ"
+      },
+      "german": {
+        "word": "die somatische Gentherapie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die somatischen Gentherapien",
+        "example": "Die somatische Gentherapie heilt Erbkrankheiten beim einzelnen Patienten, ohne Nachkommen zu verändern."
+      },
+      "english": {
+        "word": "somatic gene therapy",
+        "example": "Somatic gene therapy cures hereditary diseases in the individual patient without altering offspring."
+      }
+    },
+    {
+      "id": "bg_013",
+      "icon": "bg_erbgut",
+      "arabic": {
+        "word": "المَادَّةُ الوِرَاثِيَّة",
+        "meaning": "مَجْمُوعُ المَعْلُومَاتِ الحَيَوِيَّةِ المَوْرُوثَةِ عَبْرَ الأَجْيَالِ فِي صُورَةِ دَنَا (DNA)"
+      },
+      "german": {
+        "word": "das Erbgut",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Erbgüter",
+        "example": "Radioaktive Strahlung kann schwere Schäden am Erbgut lebender Organismen verursachen."
+      },
+      "english": {
+        "word": "hereditary material / DNA",
+        "example": "Radioactive radiation can cause severe damage to the hereditary material of living organisms."
+      }
+    },
+    {
+      "id": "bg_014",
+      "icon": "bg_praenatal",
+      "arabic": {
+        "word": "الفَحْصُ الجِينِيُّ قَبْلَ الوِلَادَة",
+        "meaning": "اخْتِبَارَاتٌ طِبِّيَّةٌ لِلْكَشْفِ عَنِ الاِخْتِلَالَاتِ الوِرَاثِيَّةِ فِي الجَنِينِ أَثْنَاءَ الحَمْلِ"
+      },
+      "german": {
+        "word": "die Pränataldiagnostik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Pränataldiagnostiken",
+        "example": "Moderne Pränataldiagnostik ermöglicht die frühzeitige Erkennung genetischer Anomalien."
+      },
+      "english": {
+        "word": "prenatal diagnosis",
+        "example": "Modern prenatal diagnosis enables early detection of genetic anomalies."
+      }
+    },
+    {
+      "id": "bg_015",
+      "icon": "bg_pid",
+      "arabic": {
+        "word": "التَّشْخِيصُ الوِرَاثِيُّ قَبْلَ الزَّرْع (PID)",
+        "meaning": "فَحْصُ الأَجِنَّةِ المُخَصَّبَةِ مَخْبَرِيًّا قَبْلَ غَرْسِهَا فِي رَحِمِ الأُمِّ"
+      },
+      "german": {
+        "word": "die Präimplantationsdiagnostik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Präimplantationsdiagnostiken",
+        "example": "In Deutschland ist die Präimplantationsdiagnostik nur in eng begrenzten Ausnahmefällen zulässig."
+      },
+      "english": {
+        "word": "pre-implantation genetic diagnosis (PGD)",
+        "example": "In Germany, pre-implantation genetic diagnosis is permitted only in strictly limited exceptional cases."
+      }
+    },
+    {
+      "id": "bg_016",
+      "icon": "bg_gendefekt",
+      "arabic": {
+        "word": "العَيْبُ الوِرَاثِيّ",
+        "meaning": "طَفْرَةٌ جِينِيَّةٌ ضَارَّةٌ تُؤَدِّي إِلَى مَرَضٍ أَوْ اخْتِلَالٍ وَظِيفِيٍّ خِلْقِيٍّ"
+      },
+      "german": {
+        "word": "der Gendefekt",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Gendefekte",
+        "example": "Zystische Fibrose wird durch einen spezifischen Gendefekt auf Chromosom 7 verursacht."
+      },
+      "english": {
+        "word": "genetic defect",
+        "example": "Cystic fibrosis is caused by a specific genetic defect on chromosome 7."
+      }
+    },
+    {
+      "id": "bg_017",
+      "icon": "bg_biosicherheit",
+      "arabic": {
+        "word": "الأَمْنُ الحَيَوِيّ",
+        "meaning": "التَّدَابِيرُ الوِقَائِيَّةُ لِمَنْعِ تَسَرُّبِ الكَائِنَاتِ المُعَدَّلَةِ جِينِيًّا أَوْ السُّمُومِ البِيُولُوجِيَّةِ"
+      },
+      "german": {
+        "word": "die Biosicherheit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Biosicherheiten",
+        "example": "Forschungslabore der höchsten Sicherheitsstufe unterliegen strengen Protokollen der Biosicherheit."
+      },
+      "english": {
+        "word": "biosafety",
+        "example": "Research laboratories of the highest security level are subject to strict biosafety protocols."
+      }
+    },
+    {
+      "id": "bg_018",
+      "icon": "bg_klonieren",
+      "arabic": {
+        "word": "اسْتِنْسَاخُ الجِينَاتِ جُزَيْئِيًّا",
+        "meaning": "عَمَلِيَّةُ مُضَاعَفَةِ قِطْعَةٍ مُعَيَّنَةٍ مِنَ الحَمْضِ النَّوَوِيِّ دَاخِلَ خَلِيَّةٍ مُضِيفَةٍ"
+      },
+      "german": {
+        "word": "das Klonieren",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Klonierungsverfahren",
+        "example": "Das Klonieren von Genen in Plasmide ist eine Standardmethode im biochemischen Labor."
+      },
+      "english": {
+        "word": "molecular cloning",
+        "example": "Cloning genes into plasmids is a standard method in the biochemical laboratory."
+      }
+    },
+    {
+      "id": "bg_019",
+      "icon": "bg_genexpression",
+      "arabic": {
+        "word": "التَّعْبِيرُ الجِينِيّ",
+        "meaning": "العَمَلِيَّةُ الَّتِي تُتَرْجَمُ بِهَا مَعْلُومَاتُ الجِينِ إِلَى بُرُوتِينَاتٍ وَظِيفِيَّةٍ"
+      },
+      "german": {
+        "word": "die Genexpression",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Genexpressionen",
+        "example": "Fehlregulierte Genexpression spielt eine zentrale Rolle bei der Entstehung von Tumoren."
+      },
+      "english": {
+        "word": "gene expression",
+        "example": "Misregulated gene expression plays a central role in the development of tumors."
+      }
+    },
+    {
+      "id": "bg_020",
+      "icon": "bg_editierung",
+      "arabic": {
+        "word": "تَحْرِيرُ الجِينُوم",
+        "meaning": "تَعْدِيلٌ مُوَجَّهٌ بِدِقَّةٍ شَدِيدَةٍ لِلتَّسَلْسُلِ النِّيُوكْلِيُوتِيدِيِّ فِي خَلَايَا الكَائِنِ الحَيِّ"
+      },
+      "german": {
+        "word": "die Genom-Editierung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Genom-Editierungen",
+        "example": "Die präzise Genom-Editierung verspricht Durchbrüche in der Behandlung erblicher Blindheit."
+      },
+      "english": {
+        "word": "genome editing",
+        "example": "Precise genome editing promises breakthroughs in treating hereditary blindness."
+      }
+    },
+    {
+      "id": "bg_021",
+      "icon": "bg_biodiversitaet",
+      "arabic": {
+        "word": "التَّنَوُّعُ البِيُولُوجِيّ",
+        "meaning": "تَعَدُّدُ أَصْنَافِ الكَائِنَاتِ الحَيَّةِ وَالأَنْظِمَةِ البِيئِيَّةِ وَالتَّبَايُنَاتِ الوِرَاثِيَّةِ"
+      },
+      "german": {
+        "word": "die biologische Vielfalt",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die biologischen Vielfalten",
+        "example": "Der Schutz der biologischen Vielfalt sichert die ökologische Stabilität unseres Planeten."
+      },
+      "english": {
+        "word": "biodiversity",
+        "example": "Protecting biodiversity secures the ecological stability of our planet."
+      }
+    },
+    {
+      "id": "bg_022",
+      "icon": "bg_moralkodex",
+      "arabic": {
+        "word": "المِيثَاقُ الأَخْلَاقِيُّ الطِّبِّيّ",
+        "meaning": "مَجْمُوعَةُ المَبَادِئِ المُلْزِمَةِ لِلْمُمَارَسَةِ الطِّبِّيَّةِ وَالبَحْثِيَّةِ العَادِلَةِ"
+      },
+      "german": {
+        "word": "der Moralkodex",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Moralkodizes",
+        "example": "Jeder klinische Versuch muss zwingend mit dem internationalen Moralkodex übereinstimmen."
+      },
+      "english": {
+        "word": "code of ethics",
+        "example": "Every clinical trial must strictly comply with the international code of ethics."
+      }
+    },
+    {
+      "id": "bg_023",
+      "icon": "bg_wuerde",
+      "arabic": {
+        "word": "كَرَامَةُ الكَائِنِ الحَيّ",
+        "meaning": "المَبْدَأُ الدُّسْتُورِيُّ وَالفَلْسَفِيُّ الَّذِي يَحْظُرُ اسْتِغْلَالَ الكَائِنَاتِ بِطَرِيقَةٍ غَيْرِ مُبَرَّرَةٍ"
+      },
+      "german": {
+        "word": "die Würde der Kreatur",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Würden der Kreaturen",
+        "example": "Die Schweizer Bundesverfassung verankert ausdrücklich den Schutz der Würde der Kreatur."
+      },
+      "english": {
+        "word": "dignity of living beings",
+        "example": "The Swiss Federal Constitution explicitly enshrines the protection of the dignity of living beings."
+      }
+    },
+    {
+      "id": "bg_024",
+      "icon": "bg_allokation",
+      "arabic": {
+        "word": "تَوْزِيعُ المَوَارِدِ الطِّبِّيَّة",
+        "meaning": "المُعَادَلَةُ الأَخْلَاقِيَّةُ لِتَوْزِيعِ الأَدْوِيَةِ وَالأَعْضَاءِ وَالأَجْهِزَةِ الشَّحِيحَةِ بِعَدَالَةٍ"
+      },
+      "german": {
+        "word": "die Allokation",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Allokationen",
+        "example": "In Pandemiezeiten erfordert die Allokation intensivmedizinischer Betten klare ethische Kriterien."
+      },
+      "english": {
+        "word": "resource allocation",
+        "example": "During pandemics, the allocation of intensive care beds requires transparent ethical criteria."
+      }
+    },
+    {
+      "id": "bg_025",
+      "icon": "bg_anthropozaen",
+      "arabic": {
+        "word": "عَصْرُ التَّأْثِيرِ البَشَرِيّ (الأَنْثْرُوبُوسِين)",
+        "meaning": "الحِقْبَةُ الجِيُولُوجِيَّةُ الحَالِيَّةُ الَّتِي صَارَ فِيهَا النَّشَاطُ الإِنْسَانِيُّ العَامِلَ المُهَيْمِنَ عَلَى المُنَاخِ وَالبِيئَةِ"
+      },
+      "german": {
+        "word": "das Anthropozän",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Anthropozäne",
+        "example": "Im Anthropozän trägt die Menschheit direkte Verantwortung für planetare Biosphärenprozesse."
+      },
+      "english": {
+        "word": "Anthropocene",
+        "example": "In the Anthropocene, humanity bears direct responsibility for planetary biosphere processes."
+      }
+    }
+  ]
+}

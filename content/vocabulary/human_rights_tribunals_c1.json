@@ -1,0 +1,488 @@
+{
+  "category_id": "human_rights_tribunals_c1",
+  "category_number": 52,
+  "level": "C1",
+  "title": {
+    "ar": "القانون الجنائي الدولي، المحاكم الإنسانية والعدالة الانتقالية",
+    "de": "Völkerstrafrecht, Menschengerichtshöfe & Übergangsjustiz",
+    "en": "International Criminal Law, Human Rights Tribunals & Transitional Justice"
+  },
+  "icon": "law_voelkerstrafrecht",
+  "concepts": [
+    {
+      "id": "law_001",
+      "icon": "law_voelkerstrafrecht",
+      "arabic": {
+        "word": "القَانُونُ الجِنَائِيُّ الدَّوْلِيّ",
+        "meaning": "فَرْعٌ مِنَ القَانُونِ يُحَدِّدُ المَسْؤُولِيَّةَ الجِنَائِيَّةَ الفَرْدِيَّةَ عَنِ الجَرَائِمِ الجَسِيمَةِ المُرْتَكَبَةِ دَوْلِيًّا"
+      },
+      "german": {
+        "word": "das Völkerstrafrecht",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Völkerstrafrechte",
+        "example": "Das moderne Völkerstrafrecht beendet die traditionelle Straflosigkeit staatlicher Machthaber."
+      },
+      "english": {
+        "word": "international criminal law",
+        "example": "Modern international criminal law ends the traditional impunity of state rulers."
+      }
+    },
+    {
+      "id": "law_002",
+      "icon": "law_istgh",
+      "arabic": {
+        "word": "المَحْكَمَةُ الجِنَائِيَّةُ الدَّوْلِيَّة (IStGH)",
+        "meaning": "هَيْئَةٌ قَضَائِيَّةٌ دَوْلِيَّةٌ دَائِمَةٌ مَقَرُّهَا لَاهَاي، مُخْتَصَّةٌ بِمُحَاكَمَةِ مُرْتَكِبِي أَشَدِّ الجَرَائِمِ خُطُورَةً"
+      },
+      "german": {
+        "word": "der Internationale Strafgerichtshof",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Internationalen Strafgerichtshöfe",
+        "example": "Der Internationale Strafgerichtshof in Den Haag verfolgt schwerste Verbrechen gegen die Menschlichkeit."
+      },
+      "english": {
+        "word": "International Criminal Court (ICC)",
+        "example": "The International Criminal Court in The Hague prosecutes the gravest crimes against humanity."
+      }
+    },
+    {
+      "id": "law_003",
+      "icon": "law_kriegsverbrechen",
+      "arabic": {
+        "word": "جَرِيمَةُ الحَرْب",
+        "meaning": "انْتِهَاكٌ جَسِيمٌ لِقَوَانِينِ وَأَعْرَافِ الحَرْبِ وَاتِّفَاقِيَّاتِ جِنِيفِ الدَّوْلِيَّةِ"
+      },
+      "german": {
+        "word": "das Kriegsverbrechen",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Kriegsverbrechen",
+        "example": "Gezielte Angriffe auf zivile Infrastruktur gelten völkerrechtlich als schweres Kriegsverbrechen."
+      },
+      "english": {
+        "word": "war crime",
+        "example": "Targeted attacks on civilian infrastructure are deemed a grave war crime under international law."
+      }
+    },
+    {
+      "id": "law_004",
+      "icon": "law_menschlichkeit",
+      "arabic": {
+        "word": "الجَرِيمَةُ ضِدَّ الإنْسَانِيَّة",
+        "meaning": "أَفْعَالٌ غَيْرُ إِنْسَانِيَّةٍ تُقْتَرَفُ فِي إِطَارِ هُجُومٍ وَاسِعِ النِّطَاقِ أَوْ مَنْهَجِيٍّ مُوَجَّهٍ ضِدَّ مَدَنِيِّينَ"
+      },
+      "german": {
+        "word": "das Verbrechen gegen die Menschlichkeit",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Verbrechen gegen die Menschlichkeit",
+        "example": "Systematische Verfolgung ethnischer Gruppen erfüllt den Tatbestand der Verbrechen gegen die Menschlichkeit."
+      },
+      "english": {
+        "word": "crime against humanity",
+        "example": "Systematic persecution of ethnic groups satisfies the elements of crimes against humanity."
+      }
+    },
+    {
+      "id": "law_005",
+      "icon": "law_voelkermord",
+      "arabic": {
+        "word": "الإِبَادَةُ الجَمَاعِيَّة",
+        "meaning": "أَفْعَالٌ تُقْتَرَفُ بِقَصْدِ التَّدْمِيرِ الكُلِّيِّ أَوْ الجُزْئِيِّ لِجَمَاعَةٍ قَوْمِيَّةٍ أَوْ إِثْنِيَّةٍ أَوْ دِينِيَّةٍ"
+      },
+      "german": {
+        "word": "der Völkermord",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Völkermorde",
+        "example": "Die UN-Völkermordkonvention von 1948 verpflichtet alle Signatarstaaten zur Verhütung von Völkermord."
+      },
+      "english": {
+        "word": "genocide",
+        "example": "The 1948 UN Genocide Convention obligates all signatory states to prevent genocide."
+      }
+    },
+    {
+      "id": "law_006",
+      "icon": "law_universal",
+      "arabic": {
+        "word": "الوَلايَةُ القَضَائِيَّةُ العَالَمِيَّة",
+        "meaning": "مَبْدَأٌ يُخَوِّلُ المَحَاكِمَ الوَطَنِيَّةَ مُحَاكَمَةَ مُرْتَكِبِي الجَرَائِمِ الدَّوْلِيَّةِ بِغَضِّ النَّظَرِ عَنْ مَكَانِ ارْتِكَابِهَا"
+      },
+      "german": {
+        "word": "das Weltrechtsprinzip",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Weltrechtsprinzipien",
+        "example": "Deutsche Gerichte wenden das Weltrechtsprinzip an, um Völkerstraftaten im Ausland abzuurteilen."
+      },
+      "english": {
+        "word": "universal jurisdiction",
+        "example": "German courts apply universal jurisdiction to adjudicate international crimes committed abroad."
+      }
+    },
+    {
+      "id": "law_007",
+      "icon": "law_uebergangsjustiz",
+      "arabic": {
+        "word": "العَدَالَةُ الانْتِقَالِيَّة",
+        "meaning": "مَجْمُوعُ الآلِيَّاتِ القَضَائِيَّةِ وَغَيْرِ القَضَائِيَّةِ لِمُعَالَجَةِ إِرْثِ انْتِهَاكَاتِ حُقُوقِ الإنْسَانِ المَاضِيَةِ"
+      },
+      "german": {
+        "word": "die Übergangsjustiz",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Übergangsjustizen",
+        "example": "Übergangsjustiz ist unverzichtbar für die gesellschaftliche Versöhnung nach bewaffneten Konflikten."
+      },
+      "english": {
+        "word": "transitional justice",
+        "example": "Transitional justice is indispensable for societal reconciliation following armed conflicts."
+      }
+    },
+    {
+      "id": "law_008",
+      "icon": "law_wahrheit",
+      "arabic": {
+        "word": "لَجْنَةُ الحَقِيقَةِ وَالمُصَالَحَة",
+        "meaning": "هَيْئَةٌ تَحْقِيقِيَّةٌ تَهْدِفُ لِكَشْفِ الحَقَائِقِ حَوْلَ الجَرَائِمِ التَّارِيخِيَّةِ وَإِنْصَافِ الضَّحَايَا"
+      },
+      "german": {
+        "word": "die Wahrheitskommission",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Wahrheitskommissionen",
+        "example": "Die Wahrheitskommission in Südafrika wurde zum weltweiten Vorbild für friedliche Versöhnung."
+      },
+      "english": {
+        "word": "truth and reconciliation commission",
+        "example": "The truth commission in South Africa became a global model for peaceful reconciliation."
+      }
+    },
+    {
+      "id": "law_009",
+      "icon": "law_amnestie",
+      "arabic": {
+        "word": "العَفْوُ العَامّ",
+        "meaning": "إِسْقَاطٌ قَانُونِيٌّ رَسْمِيٌّ لِلْمُلَاحَقَةِ الجِنَائِيَّةِ عَنْ فِئَةٍ مِنَ الأَفْعَالِ لِتَحْقِيقِ السِّلْمِ"
+      },
+      "german": {
+        "word": "die Amnestie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Amnestien",
+        "example": "Eine Amnestie für schwerste Völkerrechtsverbrechen ist nach internationalem Recht unzulässig."
+      },
+      "english": {
+        "word": "amnesty",
+        "example": "Amnesty for the gravest international crimes is impermissible under international law."
+      }
+    },
+    {
+      "id": "law_010",
+      "icon": "law_wiedergutmachung",
+      "arabic": {
+        "word": "جَبْرُ الضَّرَرِ وَالتَّعْوِيضَات",
+        "meaning": "إِجْرَاءَاتٌ مَادِّيَّةٌ أَوْ مَعْنَوِيَّةٌ تُقَدَّمُ لِلضَّحَايَا لِمُعَالَجَةِ الآثَارِ المُتَرَتِّبَةِ عَلَى الانْتِهَاكَاتِ"
+      },
+      "german": {
+        "word": "die Wiedergutmachung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Wiedergutmachungen",
+        "example": "Opfer von Menschenrechtsverletzungen haben einen völkerrechtlichen Anspruch auf Wiedergutmachung."
+      },
+      "english": {
+        "word": "reparations / redress",
+        "example": "Victims of human rights violations have an international claim to reparations."
+      }
+    },
+    {
+      "id": "law_011",
+      "icon": "law_anklage",
+      "arabic": {
+        "word": "لَائِحَةُ الاتِّهَام",
+        "meaning": "وَثِيقَةٌ قَانُونِيَّةٌ رَسْمِيَّةٌ تُفَصِّلُ التُّهَمَ الجِنَائِيَّةَ المُوَجَّهَةَ إِلَى المُدَّعَى عَلَيْهِ"
+      },
+      "german": {
+        "word": "die Anklageschrift",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Anklageschriften",
+        "example": "Der Chefankläger verlas die Anklageschrift vor der voll besetzten Gerichtskammer."
+      },
+      "english": {
+        "word": "indictment",
+        "example": "The chief prosecutor read the indictment before the fully packed court chamber."
+      }
+    },
+    {
+      "id": "law_012",
+      "icon": "law_beweislast",
+      "arabic": {
+        "word": "عِبْءُ الإِثْبَات",
+        "meaning": "وَاجِبُ الطَّرَفِ المُدَّعِي فِي تَقْدِيمِ الأَدِلَّةِ القَاطِعَةِ لإِثْبَاتِ الجَرِيمَةِ بِمَا لَا يَدَعُ مَجَالاً لِلشَّكِّ"
+      },
+      "german": {
+        "word": "die Beweislast",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Beweislasten",
+        "example": "Im Strafprozess liegt die Beweislast vollumfänglich bei der Anklagebehörde."
+      },
+      "english": {
+        "word": "burden of proof",
+        "example": "In criminal proceedings, the burden of proof rests entirely on the prosecution."
+      }
+    },
+    {
+      "id": "law_013",
+      "icon": "law_zeugenschutz",
+      "arabic": {
+        "word": "بَرْنَامَجُ حِمَايَةِ الشُّهُود",
+        "meaning": "إِجْرَاءَاتٌ أَمْنِيَّةٌ مُشَدَّدَةٌ لِضَمَانِ سَلَامَةِ الشُّهُودِ المُهَدَّدَةِ حَيَاتُهُمْ"
+      },
+      "german": {
+        "word": "das Zeugenschutzprogramm",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Zeugenschutzprogramme",
+        "example": "Schlüsselzeugen werden zum Schutz vor Vergeltung in ein internationales Zeugenschutzprogramm aufgenommen."
+      },
+      "english": {
+        "word": "witness protection program",
+        "example": "Key witnesses are admitted into an international witness protection program to guard against retaliation."
+      }
+    },
+    {
+      "id": "law_014",
+      "icon": "law_verjaehrung",
+      "arabic": {
+        "word": "مُدَّةُ التَّقَادُم",
+        "meaning": "المُدَّةُ الزَّمَنِيَّةُ الَّتِي يَسْقُطُ بَعْدَهَا حَقُّ المُلَاحَقَةِ الجِنَائِيَّةِ قَانُونًا"
+      },
+      "german": {
+        "word": "die Verjährungsfrist",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Verjährungsfristen",
+        "example": "Gewöhnliche Straftaten unterliegen festen gesetzlichen Verjährungsfristen."
+      },
+      "english": {
+        "word": "statute of limitations",
+        "example": "Ordinary criminal offenses are subject to fixed statutory limitation periods."
+      }
+    },
+    {
+      "id": "law_015",
+      "icon": "law_unverjaehrbarkeit",
+      "arabic": {
+        "word": "عَدَمُ السُّقُوطِ بِالتَّقَادُم",
+        "meaning": "مَبْدَأٌ يَنُصُّ عَلَى أَنَّ الجَرَائِمَ الدَّوْلِيَّةَ الكُبْرَى كَالإِبَادَةِ لَا تَسْقُطُ مَهْمَا مَرَّ عَلَيْهَا الزَّمَنُ"
+      },
+      "german": {
+        "word": "die Unverjährbarkeit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Unverjährbarkeiten",
+        "example": "Die Unverjährbarkeit von Völkermord garantiert, dass Täter lebenslang strafrechtlich verfolgt werden können."
+      },
+      "english": {
+        "word": "imprescriptibility (no statute of limitations)",
+        "example": "The imprescriptibility of genocide guarantees that perpetrators can be prosecuted for life."
+      }
+    },
+    {
+      "id": "law_016",
+      "icon": "law_tribunal",
+      "arabic": {
+        "word": "المَحْكَمَةُ الجِنَائِيَّةُ الخَاصَّة",
+        "meaning": "مَحْكَمَةٌ دَوْلِيَّةٌ مُؤَقَّتَةٌ تُنْشَأُ بِقَرَارٍ أُمَمِيٍّ لِمُحَاكَمَةِ جَرَائِمَ نِزَاعٍ مُحَدَّدٍ"
+      },
+      "german": {
+        "word": "das Sondertribunal",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Sondertribunale",
+        "example": "Das UN-Sondertribunal für Ruanda leistete wegweisende Rechtsfortbildung im Völkerstrafrecht."
+      },
+      "english": {
+        "word": "special tribunal",
+        "example": "The UN Special Tribunal for Rwanda delivered pioneering jurisprudence in international criminal law."
+      }
+    },
+    {
+      "id": "law_017",
+      "icon": "law_egmr",
+      "arabic": {
+        "word": "المَحْكَمَةُ الأُورُوبِّيَّةُ لِحُقُوقِ الإنْسَان",
+        "meaning": "مَحْكَمَةٌ إِقْلِيمِيَّةٌ فِي سِتْرَاسْبُورْغ تَنْظُرُ فِي شَكَاوَى المُواطِنِينَ ضِدَّ انْتِهَاكَاتِ دُوَلِهِمْ"
+      },
+      "german": {
+        "word": "der Europäische Gerichtshof für Menschenrechte",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Gerichtshöfe für Menschenrechte",
+        "example": "Der Europäische Gerichtshof für Menschenrechte schützt die Grundfreiheiten von über 700 Millionen Bürgern."
+      },
+      "english": {
+        "word": "European Court of Human Rights (ECHR)",
+        "example": "The European Court of Human Rights protects the fundamental freedoms of over 700 million citizens."
+      }
+    },
+    {
+      "id": "law_018",
+      "icon": "law_beschwerde",
+      "arabic": {
+        "word": "الشَّكْوَى الدُّسْتُورِيَّة",
+        "meaning": "دَعْوَى قَضَائِيَّةٌ يَرْفَعُهَا الفَرْدُ أَمَامَ المَحْكَمَةِ العُلْيَا عِنْدَ انْتِهَاكِ حُقُوقِهِ الدُّسْتُورِيَّةِ"
+      },
+      "german": {
+        "word": "die Verfassungsbeschwerde",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Verfassungsbeschwerden",
+        "example": "Die Verfassungsbeschwerde ist das schärfste Schwert des Bürgers gegen staatliche Willkür."
+      },
+      "english": {
+        "word": "constitutional complaint",
+        "example": "The constitutional complaint is the citizen's sharpest sword against state arbitrariness."
+      }
+    },
+    {
+      "id": "law_019",
+      "icon": "law_haftbefehl",
+      "arabic": {
+        "word": "مُذَكَّرَةُ التَّوْقِيفِ الدَّوْلِيَّة",
+        "meaning": "أَمْرٌ قَضَائِيٌّ دَوْلِيٌّ مُلْزِمٌ يَقْضِي بِالقَبْضِ عَلَى مُتَّهَمٍ فَوْرَ دُخُولِهِ أَرَاضِيَ الدُّوَلِ الأَعْضَاءِ"
+      },
+      "german": {
+        "word": "der internationale Haftbefehl",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die internationalen Haftbefehle",
+        "example": "Interpol vollstreckt internationale Haftbefehle in enger Kooperation mit nationalen Polizeibehörden."
+      },
+      "english": {
+        "word": "international arrest warrant",
+        "example": "Interpol executes international arrest warrants in close cooperation with national police authorities."
+      }
+    },
+    {
+      "id": "law_020",
+      "icon": "law_auslieferung",
+      "arabic": {
+        "word": "تَسْلِيمُ المُجْرِمِينَ",
+        "meaning": "إِجْرَاءٌ رَسْمِيٌّ تُسَلِّمُ بِمُوجَبِهِ دَوْلَةٌ شَخْصًا مَطْلُوبًا قَضَائِيًّا إِلَى دَوْلَةٍ أُخْرَى"
+      },
+      "german": {
+        "word": "die Auslieferung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Auslieferungen",
+        "example": "Ein Auslieferungsabkommen regelt die Bedingungen für die Überstellung mutmaßlicher Straftäter."
+      },
+      "english": {
+        "word": "extradition",
+        "example": "An extradition treaty governs the conditions for the transfer of suspected offenders."
+      }
+    },
+    {
+      "id": "law_021",
+      "icon": "law_immunitaet",
+      "arabic": {
+        "word": "حَصَانَةُ المَسْؤُولِينَ الرَّسْمِيِّينَ",
+        "meaning": "حِمَايَةٌ قَانُونِيَّةٌ تَمْنَعُ مُقَاضَاةَ رُؤَسَاءِ الدُّوَلِ مَحَلِّيًّا، لَكِنَّهَا تَسْقُطُ أَمَامَ المَحَاكِمِ الجِنَائِيَّةِ الدَّوْلِيَّةِ"
+      },
+      "german": {
+        "word": "die Immunität von Amtsträgern",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Immunitäten von Amtsträgern",
+        "example": "Vor dem Internationalen Strafgerichtshof schützt funktionelle Immunität nicht vor Strafverfolgung."
+      },
+      "english": {
+        "word": "official immunity",
+        "example": "Before the International Criminal Court, functional immunity does not protect against prosecution."
+      }
+    },
+    {
+      "id": "law_022",
+      "icon": "law_straflosigkeit",
+      "arabic": {
+        "word": "الإِفْلَاتُ مِنَ العِقَاب",
+        "meaning": "غِيَابُ العُقُوبَةِ أَوْ تَعَذُّرُ مُحَاسَبَةِ مُرْتَكِبِي الانْتِهَاكَاتِ القَانُونِيَّةِ الجَسِيمَةِ"
+      },
+      "german": {
+        "word": "die Straflosigkeit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Straflosigkeiten",
+        "example": "Die Bekämpfung von Straflosigkeit ist die Grundvoraussetzung für dauerhaften Frieden."
+      },
+      "english": {
+        "word": "impunity",
+        "example": "Combating impunity is the fundamental prerequisite for enduring peace."
+      }
+    },
+    {
+      "id": "law_023",
+      "icon": "law_verantwortlichkeit",
+      "arabic": {
+        "word": "المَسْؤُولِيَّةُ القَانُونِيَّةُ الدَّوْلِيَّة",
+        "meaning": "التِزَامُ الدَّوْلَةِ أَوْ الفَرْدِ بِتَحَمُّلِ التَّبِعَاتِ القَانُونِيَّةِ عَنْ خَرْقِ قَوَاعِدِ القَانُونِ الدَّوْلِيِّ"
+      },
+      "german": {
+        "word": "die völkerrechtliche Verantwortlichkeit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die völkerrechtlichen Verantwortlichkeiten",
+        "example": "Staaten haften im Rahmen der völkerrechtlichen Verantwortlichkeit für begangene Unrechtstaten."
+      },
+      "english": {
+        "word": "state responsibility under international law",
+        "example": "States are liable under international law responsibility for wrongful acts committed."
+      }
+    },
+    {
+      "id": "law_024",
+      "icon": "law_genf",
+      "arabic": {
+        "word": "اتِّفَاقِيَّاتُ جِنِيف",
+        "meaning": "مُعَاهَدَاتٌ دَوْلِيَّةٌ أَرْبَعٌ تُشَكِّلُ قَلْبَ القَانُونِ الدَّوْلِيِّ الإِنْسَانِيِّ لِحِمَايَةِ ضَحَايَا النِّزَاعَاتِ"
+      },
+      "german": {
+        "word": "die Genfer Konventionen",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Genfer Konventionen",
+        "example": "Die Genfer Konventionen schützen Verwundete, Kriegsgefangene und die Zivilbevölkerung im Krieg."
+      },
+      "english": {
+        "word": "Geneva Conventions",
+        "example": "The Geneva Conventions protect the wounded, prisoners of war, and civilians during armed conflict."
+      }
+    },
+    {
+      "id": "law_025",
+      "icon": "law_rom_statut",
+      "arabic": {
+        "word": "نِظَامُ رُومَا الأَسَاسِيّ",
+        "meaning": "المُعَاهَدَةُ المُنْشِئَةُ لِلْمَحْكَمَةِ الجِنَائِيَّةِ الدَّوْلِيَّةِ الَّتِي اعْتُمِدَتْ عَامَ 1998"
+      },
+      "german": {
+        "word": "das Römische Statut",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Römischen Statute",
+        "example": "Über 120 Staaten haben das Römische Statut des Internationalen Strafgerichtshofs ratifiziert."
+      },
+      "english": {
+        "word": "Rome Statute",
+        "example": "Over 120 states have ratified the Rome Statute of the International Criminal Court."
+      }
+    }
+  ]
+}

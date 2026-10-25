@@ -1,0 +1,148 @@
+{
+  "engine_id": "text_cohesion_c1",
+  "title": {
+    "ar": "الروابط النصية المعقدة والاتساق البلاغي الأكاديمي (C1)",
+    "de": "Textkohäsion & komplexe Satzverknüpfungen (C1)",
+    "en": "Complex Text Cohesion & Discourse Connectors (C1 Academic)"
+  },
+  "level": "C1",
+  "concept_overview": {
+    "de": "Textkohäsion verbindet Sätze auf C1-Niveau nicht nur grammatikalisch, sondern stellt präzise logische, konzessive und kausale Nuancen her.",
+    "ar": "يُمَثِّلُ الِاتِّسَاقُ النَّصِّيُّ فِي مُسْتَوَى C1 الأَدَاةَ الرَّئِيسِيَّةَ لِرَبْطِ الجُمَلِ بِدِقَّةٍ مَنْطِقِيَّةٍ تَمْنَحُ الخِطَابَ الأَكَاِديِمِيَّ بَلَاغَةً وَرَصَانَةً.",
+    "en": "Text cohesion on C1 level connects sentences not merely grammatically, but establishes precise logical, concessive, and causal discourse nuances."
+  },
+  "connectors": [
+    {
+      "connector": "geschweige denn",
+      "syntax": "Satzverbindung nach Negation (meist Infinitiv oder Ellipse)",
+      "meaning_ar": "نَاهِيكَ عَنْ / فَمَا بَالُكَ بِـ (تَوْكِيدُ الِاسْتِحَالَةِ بَعْدَ نَفْيٍ)",
+      "meaning_de": "Steigernde Verneinung nach einem negierten Hauptsatz",
+      "example_de": "Er hat das Grundprinzip nicht verstanden, geschweige denn die komplexen Details.",
+      "example_ar": "لَمْ يَفْهَمِ المَبْدَأَ الأَسَاسِيَّ، نَاهِيكَ عَنِ التَّفَاصِيلِ المُعَقَّدَةِ."
+    },
+    {
+      "connector": "insofern ... als (dass)",
+      "syntax": "Subjunktion mit Verb am Ende",
+      "meaning_ar": "مِنْ حَيْثُ إِنَّ / بِقَدْرِ مَا أَنَّ (تَقْيِيدٌ دَلَالِيٌّ وَسَبَبِيٌّ)",
+      "meaning_de": "Einschränkende und begründende Satzverbindung",
+      "example_de": "Der Beschluss ist vorteilhaft, insofern als er Rechtssicherheit schafft.",
+      "example_ar": "القَرَارُ نَافِعٌ مِنْ حَيْثُ إِنَّهُ يُرْسِي أَمْنًا قَانُونِيًّا."
+    },
+    {
+      "connector": "je nachdem, ob/wie",
+      "syntax": "Interrogative Nebensatzeinleitung",
+      "meaning_ar": "تَبَعًا لِـ / بِحَسْبِ مَا إِذَا (تَبَعِيَّةٌ احْتِمَالِيَّةٌ)",
+      "meaning_de": "Bedingte Abhängigkeit von mehreren Optionen",
+      "example_de": "Die Maßnahme greift, je nachdem, wie stark die Infektionszahlen steigen.",
+      "example_ar": "التَّدْبِيرُ سَيَكُونُ نَافِذًا تَبَعًا لِمَدَى ارْتِفَاعِ حَالَاتِ الإِصَابَةِ."
+    },
+    {
+      "connector": "ungeachtet dessen",
+      "syntax": "Adverbialer Konnektor (Position 1 mit Inversion)",
+      "meaning_ar": "بِصَرْفِ النَّظَرِ عَنْ ذَلِكَ / رَغْمَ ذَلِكَ (اسْتِدْرَاكٌ صَارِمٌ)",
+      "meaning_de": "Strikte konzessive Verknüpfung",
+      "example_de": "Die Risiken sind bekannt. Ungeachtet dessen setzen wir das Projekt fort.",
+      "example_ar": "المَخَاطِرُ مَعْلُومَةٌ؛ وَبِصَرْفِ النَّظَرِ عَنْ ذَلِكَ فَإِنَّنَا سَنُوَاكِبُ تَنْفِيذَ المَشْرُوعِ."
+    },
+    {
+      "connector": "demzufolge",
+      "syntax": "Konsekutiver Konnektor (Position 1 oder im Mittelfeld)",
+      "meaning_ar": "وَبِنَاءً عَلَى ذَلِكَ / تَبَعًا لِذَلِكَ (نَتِيجَةٌ قَاطِعَةٌ)",
+      "meaning_de": "Folgerichtige logische Schlussfolgerung",
+      "example_de": "Die Datenbasis war unvollständig; demzufolge müssen die Berechnungen wiederholt werden.",
+      "example_ar": "قَاعِدَةُ البَيَانَاتِ كَانَتْ غَيْرَ مُكْتَمِلَةٍ؛ وَبِنَاءً عَلَى ذَلِكَ يَجِبُ إِعَادَةُ الحِسَابَاتِ."
+    }
+  ],
+  "practice_templates": [
+    {
+      "id": "tpl_coh_01",
+      "connector": "geschweige denn",
+      "icon": "coh_geschweige",
+      "german": "Das kleine Labor konnte die Grundtests kaum finanzieren, geschweige denn klinische Studien durchführen.",
+      "arabic": "كَانَ المُخْتَبَرُ الصَّغِيرُ عَاجِزًا حَتَّى عَنْ تَمْوِيلِ الفُحُوصَاتِ الأَسَاسِيَّةِ، نَاهِيكَ عَنْ إِجْرَاءِ دِرَاسَاتٍ سَرِيرِيَّةٍ.",
+      "english": "The small laboratory could barely fund the basic tests, let alone conduct clinical trials.",
+      "analysis": "Geschweige denn folgt auf verneinte Aussage und bindet den erweiterten Infinitiv ein."
+    },
+    {
+      "id": "tpl_coh_02",
+      "connector": "insofern als",
+      "icon": "coh_insofern",
+      "german": "Die neue Gesetzgebung ist innovativ, insofern als sie ethische Standards für Algorithmen festschreibt.",
+      "arabic": "التَّشْرِيعُ الجَدِيدُ مُبْتَكَرٌ مِنْ حَيْثُ إِنَّهُ يُرَسِّخُ مَعَايِيرَ أَخْلَاقِيَّةً لِلْخُوَارِزْمِيَّاتِ.",
+      "english": "The new legislation is innovative in that it establishes ethical standards for algorithms.",
+      "analysis": "Insofern als leitet einen restriktiven Begründungsnebensatz mit Verb am Ende ein."
+    },
+    {
+      "id": "tpl_coh_03",
+      "connector": "je nachdem ob",
+      "icon": "coh_jenachdem",
+      "german": "Die Finanzierung wird bewilligt, je nachdem, ob die Forschungsberichte termingerecht eingereicht werden.",
+      "arabic": "سَيَتِمُّ اعْتِمَادُ التَّمْوِيلِ تَبَعًا لِمَا إِذَا كَانَتِ التَّقَارِيرُ البَحْثِيَّةُ سَتُقَدَّمُ فِي المَوْعِدِ المُحَدَّدِ.",
+      "english": "The funding will be granted depending on whether the research reports are submitted on schedule.",
+      "analysis": "Abhängiger Konditionalsatz mit indirekter Ja/Nein-Entscheidung."
+    },
+    {
+      "id": "tpl_coh_04",
+      "connector": "ungeachtet dessen",
+      "icon": "coh_ungeachtet",
+      "german": "Die geopolitischen Spannungen nehmen zu; ungeachtet dessen halten die Partner an ihren Verträgen fest.",
+      "arabic": "التَّوَتُّرَاتُ الجِيُوبُولِيتِيكِيَّةُ آخِذَةٌ فِي التَّصَاعُدِ؛ وَبِصَرْفِ النَّظَرِ عَنْ ذَلِكَ يَتَمَسَّكُ الشُّرَكَاءُ بِعُقُودِهِمْ.",
+      "english": "Geopolitical tensions are mounting; regardless of that, the partners adhere firmly to their treaties.",
+      "analysis": "Inversion: Ungeachtet dessen steht auf Position 1, gefolgt vom finiten Verb (halten)."
+    },
+    {
+      "id": "tpl_coh_05",
+      "connector": "demzufolge",
+      "icon": "coh_demzufolge",
+      "german": "Die Nachfrage übersteigt das Angebot erheblich; demzufolge steigen die Marktpreise unweigerlich an.",
+      "arabic": "الطَّلَبُ يَتَجَاوَزُ العَرْضَ بِشَكْلٍ كَبِيرٍ؛ وَبِنَاءً عَلَى ذَلِكَ تَرْتَفِعُ أَسْعَارُ السُّوقِ حَتْمًا.",
+      "english": "Demand considerably exceeds supply; consequently, market prices inevitably rise.",
+      "analysis": "Konsekutive Verknüpfung mit Verbzweitstellung (Position 2: steigen)."
+    },
+    {
+      "id": "tpl_coh_06",
+      "connector": "zumal",
+      "icon": "coh_zumal",
+      "german": "Wir sollten den Vertrag nicht vorzeitig kündigen, zumal die Verhandlungen bisher vielversprechend verlaufen sind.",
+      "arabic": "لَا يَنْبَغِي لَنَا فَسْخُ العَقْدِ قَبْلَ أَوَانِهِ، لَا سِيَّمَا وَأَنَّ المُفَاوَضَاتِ سَارَتْ حَتَّى الآنَ بِشَكْلٍ وَاعِدٍ جِدًّا.",
+      "english": "We should not terminate the contract prematurely, especially since negotiations have been promising so far.",
+      "analysis": "Zumal verstärkt das vorangehende Argument und verlangt das Verb am Satzende."
+    },
+    {
+      "id": "tpl_coh_07",
+      "connector": "wohingegen",
+      "icon": "coh_wohingegen",
+      "german": "Traditionelle Industrien schrumpfen, wohingegen der Sektor der erneuerbaren Energien dynamisch wächst.",
+      "arabic": "الصِّنَاعَاتُ التَّقْلِيدِيَّةُ تَتَقَلَّصُ، فِي حِينِ أَنَّ قِطَاعَ الطَّاقَاتِ المُتَجَدِّدَةِ يَنْمُو بِشَكْلٍ دِينَامِيكِيٍّ.",
+      "english": "Traditional industries are shrinking, whereas the renewable energy sector is growing dynamically.",
+      "analysis": "Kontrastiver Nebensatz: wohingegen stellt zwei gegensätzliche Fakten gegenüber."
+    },
+    {
+      "id": "tpl_coh_08",
+      "connector": "sei es ... sei es",
+      "icon": "coh_seies",
+      "german": "Jeder Bürger muss seinen Beitrag leisten, sei es durch Ressourcenschonung, sei es durch ehrenamtlichen Einsatz.",
+      "arabic": "يَجِبُ عَلَى كُلِّ مُوَاطِنٍ أَنْ يُسَاهِمَ، سَوَاءٌ كَانَ ذَلِكَ بِتَرْشِيدِ المَوَارِدِ، أَمْ عَبْرَ العَمَلِ التَّطَوُّعِيِّ.",
+      "english": "Every citizen must make a contribution, be it through conserving resources or through volunteer commitment.",
+      "analysis": "Mehrteiliger Konnektor mit Konjunktiv I (sei) zur Aufzählung gleichwertiger Alternativen."
+    },
+    {
+      "id": "tpl_coh_09",
+      "connector": "angenommen dass",
+      "icon": "coh_angenommen",
+      "german": "Angenommen, dass die Konjunkturprognosen zutreffen, wird die Zentralbank den Leitzins senken.",
+      "arabic": "بِافْتِرَاضِ أَنَّ تَوَقُّعَاتِ النُّمُوِّ الِاقْتِصَادِيِّ صَحِيحَةٌ، فَإِنَّ البَنْكَ المَرْكَزِيَّ سَيَخْفِضُ سِعْرَ الفَائِدَةِ.",
+      "english": "Assuming that economic forecasts prove accurate, the central bank will lower the key interest rate.",
+      "analysis": "Konditionales Partizipialgefüge zur Formulierung wissenschaftlicher Hypothesen."
+    },
+    {
+      "id": "tpl_coh_10",
+      "connector": "nicht zuletzt deshalb weil",
+      "icon": "coh_nichtzuletzt",
+      "german": "Die Initiative fand breite Zustimmung, nicht zuletzt deshalb, weil sie allen Bürgern echten Mehrwert bietet.",
+      "arabic": "لَقِيَتِ المُبَادَرَةُ تَأْيِيدًا وَاسِعًا، لَيْسَ آخِرًا بِسَبَبِ أَنَّهَا تُوَفِّرُ قِيمَةً مُضَافَةً حَقِيقِيَّةً لِجَمِيعِ المُواطِنِينَ.",
+      "english": "The initiative met with broad approval, not least because it offers genuine added value to all citizens.",
+      "analysis": "Hervorhebende Kausalverbindung: betont einen ausschlaggebenden Grund besonders stark."
+    }
+  ]
+}

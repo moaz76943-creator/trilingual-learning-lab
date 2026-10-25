@@ -5035,6 +5035,1206 @@
     "macroe_25": {
       "path": "content/assets/svg/macroe_25.svg",
       "category": "macroeconomics_b2"
+    },
+    "c1_epistemologie": {
+      "path": "content/assets/svg/c1_epistemologie.svg",
+      "type": "vector_svg",
+      "category": "academic_discourse_c1"
+    },
+    "c1_hermeneutik": {
+      "path": "content/assets/svg/c1_hermeneutik.svg",
+      "type": "vector_svg",
+      "category": "academic_discourse_c1"
+    },
+    "c1_paradigmenwechsel": {
+      "path": "content/assets/svg/c1_paradigmenwechsel.svg",
+      "type": "vector_svg",
+      "category": "academic_discourse_c1"
+    },
+    "c1_dialektik": {
+      "path": "content/assets/svg/c1_dialektik.svg",
+      "type": "vector_svg",
+      "category": "academic_discourse_c1"
+    },
+    "c1_diskurs": {
+      "path": "content/assets/svg/c1_diskurs.svg",
+      "type": "vector_svg",
+      "category": "academic_discourse_c1"
+    },
+    "c1_hegemonie": {
+      "path": "content/assets/svg/c1_hegemonie.svg",
+      "type": "vector_svg",
+      "category": "academic_discourse_c1"
+    },
+    "c1_dekonstruktion": {
+      "path": "content/assets/svg/c1_dekonstruktion.svg",
+      "type": "vector_svg",
+      "category": "academic_discourse_c1"
+    },
+    "c1_postulat": {
+      "path": "content/assets/svg/c1_postulat.svg",
+      "type": "vector_svg",
+      "category": "academic_discourse_c1"
+    },
+    "c1_ambiguitaet": {
+      "path": "content/assets/svg/c1_ambiguitaet.svg",
+      "type": "vector_svg",
+      "category": "academic_discourse_c1"
+    },
+    "c1_plausibilitaet": {
+      "path": "content/assets/svg/c1_plausibilitaet.svg",
+      "type": "vector_svg",
+      "category": "academic_discourse_c1"
+    },
+    "c1_kausalitaet": {
+      "path": "content/assets/svg/c1_kausalitaet.svg",
+      "type": "vector_svg",
+      "category": "academic_discourse_c1"
+    },
+    "c1_axiom": {
+      "path": "content/assets/svg/c1_axiom.svg",
+      "type": "vector_svg",
+      "category": "academic_discourse_c1"
+    },
+    "c1_ontologie": {
+      "path": "content/assets/svg/c1_ontologie.svg",
+      "type": "vector_svg",
+      "category": "academic_discourse_c1"
+    },
+    "c1_differenzierung": {
+      "path": "content/assets/svg/c1_differenzierung.svg",
+      "type": "vector_svg",
+      "category": "academic_discourse_c1"
+    },
+    "c1_pragmatismus": {
+      "path": "content/assets/svg/c1_pragmatismus.svg",
+      "type": "vector_svg",
+      "category": "academic_discourse_c1"
+    },
+    "c1_phaenomen": {
+      "path": "content/assets/svg/c1_phaenomen.svg",
+      "type": "vector_svg",
+      "category": "academic_discourse_c1"
+    },
+    "c1_evidenz": {
+      "path": "content/assets/svg/c1_evidenz.svg",
+      "type": "vector_svg",
+      "category": "academic_discourse_c1"
+    },
+    "c1_verifikation": {
+      "path": "content/assets/svg/c1_verifikation.svg",
+      "type": "vector_svg",
+      "category": "academic_discourse_c1"
+    },
+    "c1_falsifikation": {
+      "path": "content/assets/svg/c1_falsifikation.svg",
+      "type": "vector_svg",
+      "category": "academic_discourse_c1"
+    },
+    "c1_moratorium": {
+      "path": "content/assets/svg/c1_moratorium.svg",
+      "type": "vector_svg",
+      "category": "academic_discourse_c1"
+    },
+    "c1_ratifizierung": {
+      "path": "content/assets/svg/c1_ratifizierung.svg",
+      "type": "vector_svg",
+      "category": "academic_discourse_c1"
+    },
+    "c1_interdependenz": {
+      "path": "content/assets/svg/c1_interdependenz.svg",
+      "type": "vector_svg",
+      "category": "academic_discourse_c1"
+    },
+    "c1_multilateral": {
+      "path": "content/assets/svg/c1_multilateral.svg",
+      "type": "vector_svg",
+      "category": "academic_discourse_c1"
+    },
+    "c1_kontroverse": {
+      "path": "content/assets/svg/c1_kontroverse.svg",
+      "type": "vector_svg",
+      "category": "academic_discourse_c1"
+    },
+    "c1_primat": {
+      "path": "content/assets/svg/c1_primat.svg",
+      "type": "vector_svg",
+      "category": "academic_discourse_c1"
+    },
+    "dlg_wohnung": {
+      "path": "content/assets/svg/dlg_wohnung.svg",
+      "type": "vector_svg",
+      "category": "dialogues_advanced"
+    },
+    "dlg_job": {
+      "path": "content/assets/svg/dlg_job.svg",
+      "type": "vector_svg",
+      "category": "dialogues_advanced"
+    },
+    "dlg_bank": {
+      "path": "content/assets/svg/dlg_bank.svg",
+      "type": "vector_svg",
+      "category": "dialogues_advanced"
+    },
+    "dlg_projekt": {
+      "path": "content/assets/svg/dlg_projekt.svg",
+      "type": "vector_svg",
+      "category": "dialogues_advanced"
+    },
+    "dlg_recht": {
+      "path": "content/assets/svg/dlg_recht.svg",
+      "type": "vector_svg",
+      "category": "dialogues_advanced"
+    },
+    "dlg_diplomatie": {
+      "path": "content/assets/svg/dlg_diplomatie.svg",
+      "type": "vector_svg",
+      "category": "dialogues_advanced"
+    },
+    "dlg_audio": {
+      "path": "content/assets/svg/dlg_audio.svg",
+      "type": "vector_svg",
+      "category": "dialogues_advanced"
+    },
+    "dlg_quiz": {
+      "path": "content/assets/svg/dlg_quiz.svg",
+      "type": "vector_svg",
+      "category": "dialogues_advanced"
+    },
+    "dlg_chat": {
+      "path": "content/assets/svg/dlg_chat.svg",
+      "type": "vector_svg",
+      "category": "dialogues_advanced"
+    },
+    "dlg_cert": {
+      "path": "content/assets/svg/dlg_cert.svg",
+      "type": "vector_svg",
+      "category": "dialogues_advanced"
+    },
+    "rhet_rhetorik": {
+      "path": "content/assets/svg/rhet_rhetorik.svg",
+      "type": "vector_svg",
+      "category": "rhetoric_oratory_c1"
+    },
+    "rhet_beredsamkeit": {
+      "path": "content/assets/svg/rhet_beredsamkeit.svg",
+      "type": "vector_svg",
+      "category": "rhetoric_oratory_c1"
+    },
+    "rhet_argumentation": {
+      "path": "content/assets/svg/rhet_argumentation.svg",
+      "type": "vector_svg",
+      "category": "rhetoric_oratory_c1"
+    },
+    "rhet_praemisse": {
+      "path": "content/assets/svg/rhet_praemisse.svg",
+      "type": "vector_svg",
+      "category": "rhetoric_oratory_c1"
+    },
+    "rhet_konklusion": {
+      "path": "content/assets/svg/rhet_konklusion.svg",
+      "type": "vector_svg",
+      "category": "rhetoric_oratory_c1"
+    },
+    "rhet_trugschluss": {
+      "path": "content/assets/svg/rhet_trugschluss.svg",
+      "type": "vector_svg",
+      "category": "rhetoric_oratory_c1"
+    },
+    "rhet_metapher": {
+      "path": "content/assets/svg/rhet_metapher.svg",
+      "type": "vector_svg",
+      "category": "rhetoric_oratory_c1"
+    },
+    "rhet_allokution": {
+      "path": "content/assets/svg/rhet_allokution.svg",
+      "type": "vector_svg",
+      "category": "rhetoric_oratory_c1"
+    },
+    "rhet_pathos": {
+      "path": "content/assets/svg/rhet_pathos.svg",
+      "type": "vector_svg",
+      "category": "rhetoric_oratory_c1"
+    },
+    "rhet_ethos": {
+      "path": "content/assets/svg/rhet_ethos.svg",
+      "type": "vector_svg",
+      "category": "rhetoric_oratory_c1"
+    },
+    "rhet_logos": {
+      "path": "content/assets/svg/rhet_logos.svg",
+      "type": "vector_svg",
+      "category": "rhetoric_oratory_c1"
+    },
+    "rhet_polemik": {
+      "path": "content/assets/svg/rhet_polemik.svg",
+      "type": "vector_svg",
+      "category": "rhetoric_oratory_c1"
+    },
+    "rhet_paradoxon": {
+      "path": "content/assets/svg/rhet_paradoxon.svg",
+      "type": "vector_svg",
+      "category": "rhetoric_oratory_c1"
+    },
+    "rhet_ironie": {
+      "path": "content/assets/svg/rhet_ironie.svg",
+      "type": "vector_svg",
+      "category": "rhetoric_oratory_c1"
+    },
+    "rhet_euphemismus": {
+      "path": "content/assets/svg/rhet_euphemismus.svg",
+      "type": "vector_svg",
+      "category": "rhetoric_oratory_c1"
+    },
+    "rhet_hyperbel": {
+      "path": "content/assets/svg/rhet_hyperbel.svg",
+      "type": "vector_svg",
+      "category": "rhetoric_oratory_c1"
+    },
+    "rhet_antithese": {
+      "path": "content/assets/svg/rhet_antithese.svg",
+      "type": "vector_svg",
+      "category": "rhetoric_oratory_c1"
+    },
+    "rhet_redundanz": {
+      "path": "content/assets/svg/rhet_redundanz.svg",
+      "type": "vector_svg",
+      "category": "rhetoric_oratory_c1"
+    },
+    "rhet_eloquenz": {
+      "path": "content/assets/svg/rhet_eloquenz.svg",
+      "type": "vector_svg",
+      "category": "rhetoric_oratory_c1"
+    },
+    "rhet_oxymoron": {
+      "path": "content/assets/svg/rhet_oxymoron.svg",
+      "type": "vector_svg",
+      "category": "rhetoric_oratory_c1"
+    },
+    "rhet_dialektik_art": {
+      "path": "content/assets/svg/rhet_dialektik_art.svg",
+      "type": "vector_svg",
+      "category": "rhetoric_oratory_c1"
+    },
+    "rhet_stichhaltigkeit": {
+      "path": "content/assets/svg/rhet_stichhaltigkeit.svg",
+      "type": "vector_svg",
+      "category": "rhetoric_oratory_c1"
+    },
+    "rhet_replik": {
+      "path": "content/assets/svg/rhet_replik.svg",
+      "type": "vector_svg",
+      "category": "rhetoric_oratory_c1"
+    },
+    "rhet_schlagfertigkeit": {
+      "path": "content/assets/svg/rhet_schlagfertigkeit.svg",
+      "type": "vector_svg",
+      "category": "rhetoric_oratory_c1"
+    },
+    "rhet_fazit": {
+      "path": "content/assets/svg/rhet_fazit.svg",
+      "type": "vector_svg",
+      "category": "rhetoric_oratory_c1"
+    },
+    "part_attribut": {
+      "path": "content/assets/svg/part_attribut.svg",
+      "type": "vector_svg",
+      "category": "grammar_partizip_c1"
+    },
+    "part_gerundiv": {
+      "path": "content/assets/svg/part_gerundiv.svg",
+      "type": "vector_svg",
+      "category": "grammar_partizip_c1"
+    },
+    "part_transformation": {
+      "path": "content/assets/svg/part_transformation.svg",
+      "type": "vector_svg",
+      "category": "grammar_partizip_c1"
+    },
+    "part_aktiv": {
+      "path": "content/assets/svg/part_aktiv.svg",
+      "type": "vector_svg",
+      "category": "grammar_partizip_c1"
+    },
+    "part_passiv": {
+      "path": "content/assets/svg/part_passiv.svg",
+      "type": "vector_svg",
+      "category": "grammar_partizip_c1"
+    },
+    "part_adjektiv": {
+      "path": "content/assets/svg/part_adjektiv.svg",
+      "type": "vector_svg",
+      "category": "grammar_partizip_c1"
+    },
+    "part_syntax": {
+      "path": "content/assets/svg/part_syntax.svg",
+      "type": "vector_svg",
+      "category": "grammar_partizip_c1"
+    },
+    "part_akademie": {
+      "path": "content/assets/svg/part_akademie.svg",
+      "type": "vector_svg",
+      "category": "grammar_partizip_c1"
+    },
+    "part_kompakt": {
+      "path": "content/assets/svg/part_kompakt.svg",
+      "type": "vector_svg",
+      "category": "grammar_partizip_c1"
+    },
+    "part_dsh": {
+      "path": "content/assets/svg/part_dsh.svg",
+      "type": "vector_svg",
+      "category": "grammar_partizip_c1"
+    },
+    "qc_quantenmechanik": {
+      "path": "content/assets/svg/qc_quantenmechanik.svg",
+      "type": "vector_svg",
+      "category": "quantum_cosmology_c1"
+    },
+    "qc_verschraenkung": {
+      "path": "content/assets/svg/qc_verschraenkung.svg",
+      "type": "vector_svg",
+      "category": "quantum_cosmology_c1"
+    },
+    "qc_superposition": {
+      "path": "content/assets/svg/qc_superposition.svg",
+      "type": "vector_svg",
+      "category": "quantum_cosmology_c1"
+    },
+    "qc_raumzeit": {
+      "path": "content/assets/svg/qc_raumzeit.svg",
+      "type": "vector_svg",
+      "category": "quantum_cosmology_c1"
+    },
+    "qc_gravitationswelle": {
+      "path": "content/assets/svg/qc_gravitationswelle.svg",
+      "type": "vector_svg",
+      "category": "quantum_cosmology_c1"
+    },
+    "qc_schwarzes_loch": {
+      "path": "content/assets/svg/qc_schwarzes_loch.svg",
+      "type": "vector_svg",
+      "category": "quantum_cosmology_c1"
+    },
+    "qc_ereignishorizont": {
+      "path": "content/assets/svg/qc_ereignishorizont.svg",
+      "type": "vector_svg",
+      "category": "quantum_cosmology_c1"
+    },
+    "qc_dunkle_materie": {
+      "path": "content/assets/svg/qc_dunkle_materie.svg",
+      "type": "vector_svg",
+      "category": "quantum_cosmology_c1"
+    },
+    "qc_dunkle_energie": {
+      "path": "content/assets/svg/qc_dunkle_energie.svg",
+      "type": "vector_svg",
+      "category": "quantum_cosmology_c1"
+    },
+    "qc_kosmologie": {
+      "path": "content/assets/svg/qc_kosmologie.svg",
+      "type": "vector_svg",
+      "category": "quantum_cosmology_c1"
+    },
+    "qc_unschaerfe": {
+      "path": "content/assets/svg/qc_unschaerfe.svg",
+      "type": "vector_svg",
+      "category": "quantum_cosmology_c1"
+    },
+    "qc_wellenfunktion": {
+      "path": "content/assets/svg/qc_wellenfunktion.svg",
+      "type": "vector_svg",
+      "category": "quantum_cosmology_c1"
+    },
+    "qc_photon": {
+      "path": "content/assets/svg/qc_photon.svg",
+      "type": "vector_svg",
+      "category": "quantum_cosmology_c1"
+    },
+    "qc_ueberlegenheit": {
+      "path": "content/assets/svg/qc_ueberlegenheit.svg",
+      "type": "vector_svg",
+      "category": "quantum_cosmology_c1"
+    },
+    "qc_quantencomputer": {
+      "path": "content/assets/svg/qc_quantencomputer.svg",
+      "type": "vector_svg",
+      "category": "quantum_cosmology_c1"
+    },
+    "qc_qubit": {
+      "path": "content/assets/svg/qc_qubit.svg",
+      "type": "vector_svg",
+      "category": "quantum_cosmology_c1"
+    },
+    "qc_urknall": {
+      "path": "content/assets/svg/qc_urknall.svg",
+      "type": "vector_svg",
+      "category": "quantum_cosmology_c1"
+    },
+    "qc_entropie": {
+      "path": "content/assets/svg/qc_entropie.svg",
+      "type": "vector_svg",
+      "category": "quantum_cosmology_c1"
+    },
+    "qc_relativitaet": {
+      "path": "content/assets/svg/qc_relativitaet.svg",
+      "type": "vector_svg",
+      "category": "quantum_cosmology_c1"
+    },
+    "qc_standardmodell": {
+      "path": "content/assets/svg/qc_standardmodell.svg",
+      "type": "vector_svg",
+      "category": "quantum_cosmology_c1"
+    },
+    "qc_higgs_boson": {
+      "path": "content/assets/svg/qc_higgs_boson.svg",
+      "type": "vector_svg",
+      "category": "quantum_cosmology_c1"
+    },
+    "qc_teilchenphysik": {
+      "path": "content/assets/svg/qc_teilchenphysik.svg",
+      "type": "vector_svg",
+      "category": "quantum_cosmology_c1"
+    },
+    "qc_kernfusion": {
+      "path": "content/assets/svg/qc_kernfusion.svg",
+      "type": "vector_svg",
+      "category": "quantum_cosmology_c1"
+    },
+    "qc_thermodynamik": {
+      "path": "content/assets/svg/qc_thermodynamik.svg",
+      "type": "vector_svg",
+      "category": "quantum_cosmology_c1"
+    },
+    "qc_multiversum": {
+      "path": "content/assets/svg/qc_multiversum.svg",
+      "type": "vector_svg",
+      "category": "quantum_cosmology_c1"
+    },
+    "bg_bioethik": {
+      "path": "content/assets/svg/bg_bioethik.svg",
+      "type": "vector_svg",
+      "category": "bioethics_genetics_c1"
+    },
+    "bg_gentechnik": {
+      "path": "content/assets/svg/bg_gentechnik.svg",
+      "type": "vector_svg",
+      "category": "bioethics_genetics_c1"
+    },
+    "bg_sequenzierung": {
+      "path": "content/assets/svg/bg_sequenzierung.svg",
+      "type": "vector_svg",
+      "category": "bioethics_genetics_c1"
+    },
+    "bg_crispr": {
+      "path": "content/assets/svg/bg_crispr.svg",
+      "type": "vector_svg",
+      "category": "bioethics_genetics_c1"
+    },
+    "bg_genom": {
+      "path": "content/assets/svg/bg_genom.svg",
+      "type": "vector_svg",
+      "category": "bioethics_genetics_c1"
+    },
+    "bg_epigenetik": {
+      "path": "content/assets/svg/bg_epigenetik.svg",
+      "type": "vector_svg",
+      "category": "bioethics_genetics_c1"
+    },
+    "bg_klonen": {
+      "path": "content/assets/svg/bg_klonen.svg",
+      "type": "vector_svg",
+      "category": "bioethics_genetics_c1"
+    },
+    "bg_stammzelle": {
+      "path": "content/assets/svg/bg_stammzelle.svg",
+      "type": "vector_svg",
+      "category": "bioethics_genetics_c1"
+    },
+    "bg_synthetisch": {
+      "path": "content/assets/svg/bg_synthetisch.svg",
+      "type": "vector_svg",
+      "category": "bioethics_genetics_c1"
+    },
+    "bg_manipulation": {
+      "path": "content/assets/svg/bg_manipulation.svg",
+      "type": "vector_svg",
+      "category": "bioethics_genetics_c1"
+    },
+    "bg_keimbahn": {
+      "path": "content/assets/svg/bg_keimbahn.svg",
+      "type": "vector_svg",
+      "category": "bioethics_genetics_c1"
+    },
+    "bg_somatisch": {
+      "path": "content/assets/svg/bg_somatisch.svg",
+      "type": "vector_svg",
+      "category": "bioethics_genetics_c1"
+    },
+    "bg_erbgut": {
+      "path": "content/assets/svg/bg_erbgut.svg",
+      "type": "vector_svg",
+      "category": "bioethics_genetics_c1"
+    },
+    "bg_praenatal": {
+      "path": "content/assets/svg/bg_praenatal.svg",
+      "type": "vector_svg",
+      "category": "bioethics_genetics_c1"
+    },
+    "bg_pid": {
+      "path": "content/assets/svg/bg_pid.svg",
+      "type": "vector_svg",
+      "category": "bioethics_genetics_c1"
+    },
+    "bg_gendefekt": {
+      "path": "content/assets/svg/bg_gendefekt.svg",
+      "type": "vector_svg",
+      "category": "bioethics_genetics_c1"
+    },
+    "bg_biosicherheit": {
+      "path": "content/assets/svg/bg_biosicherheit.svg",
+      "type": "vector_svg",
+      "category": "bioethics_genetics_c1"
+    },
+    "bg_klonieren": {
+      "path": "content/assets/svg/bg_klonieren.svg",
+      "type": "vector_svg",
+      "category": "bioethics_genetics_c1"
+    },
+    "bg_genexpression": {
+      "path": "content/assets/svg/bg_genexpression.svg",
+      "type": "vector_svg",
+      "category": "bioethics_genetics_c1"
+    },
+    "bg_editierung": {
+      "path": "content/assets/svg/bg_editierung.svg",
+      "type": "vector_svg",
+      "category": "bioethics_genetics_c1"
+    },
+    "bg_biodiversitaet": {
+      "path": "content/assets/svg/bg_biodiversitaet.svg",
+      "type": "vector_svg",
+      "category": "bioethics_genetics_c1"
+    },
+    "bg_moralkodex": {
+      "path": "content/assets/svg/bg_moralkodex.svg",
+      "type": "vector_svg",
+      "category": "bioethics_genetics_c1"
+    },
+    "bg_wuerde": {
+      "path": "content/assets/svg/bg_wuerde.svg",
+      "type": "vector_svg",
+      "category": "bioethics_genetics_c1"
+    },
+    "bg_allokation": {
+      "path": "content/assets/svg/bg_allokation.svg",
+      "type": "vector_svg",
+      "category": "bioethics_genetics_c1"
+    },
+    "bg_anthropozaen": {
+      "path": "content/assets/svg/bg_anthropozaen.svg",
+      "type": "vector_svg",
+      "category": "bioethics_genetics_c1"
+    },
+    "coh_geschweige": {
+      "path": "content/assets/svg/coh_geschweige.svg",
+      "type": "vector_svg",
+      "category": "grammar_cohesion_c1"
+    },
+    "coh_insofern": {
+      "path": "content/assets/svg/coh_insofern.svg",
+      "type": "vector_svg",
+      "category": "grammar_cohesion_c1"
+    },
+    "coh_jenachdem": {
+      "path": "content/assets/svg/coh_jenachdem.svg",
+      "type": "vector_svg",
+      "category": "grammar_cohesion_c1"
+    },
+    "coh_ungeachtet": {
+      "path": "content/assets/svg/coh_ungeachtet.svg",
+      "type": "vector_svg",
+      "category": "grammar_cohesion_c1"
+    },
+    "coh_demzufolge": {
+      "path": "content/assets/svg/coh_demzufolge.svg",
+      "type": "vector_svg",
+      "category": "grammar_cohesion_c1"
+    },
+    "coh_zumal": {
+      "path": "content/assets/svg/coh_zumal.svg",
+      "type": "vector_svg",
+      "category": "grammar_cohesion_c1"
+    },
+    "coh_wohingegen": {
+      "path": "content/assets/svg/coh_wohingegen.svg",
+      "type": "vector_svg",
+      "category": "grammar_cohesion_c1"
+    },
+    "coh_seies": {
+      "path": "content/assets/svg/coh_seies.svg",
+      "type": "vector_svg",
+      "category": "grammar_cohesion_c1"
+    },
+    "coh_angenommen": {
+      "path": "content/assets/svg/coh_angenommen.svg",
+      "type": "vector_svg",
+      "category": "grammar_cohesion_c1"
+    },
+    "coh_nichtzuletzt": {
+      "path": "content/assets/svg/coh_nichtzuletzt.svg",
+      "type": "vector_svg",
+      "category": "grammar_cohesion_c1"
+    },
+    "idiom_waage": {
+      "path": "content/assets/svg/idiom_waage.svg",
+      "type": "vector_svg",
+      "category": "grammar_idiom_c1"
+    },
+    "idiom_teufelskreis": {
+      "path": "content/assets/svg/idiom_teufelskreis.svg",
+      "type": "vector_svg",
+      "category": "grammar_idiom_c1"
+    },
+    "idiom_tatsachen": {
+      "path": "content/assets/svg/idiom_tatsachen.svg",
+      "type": "vector_svg",
+      "category": "grammar_idiom_c1"
+    },
+    "idiom_messer": {
+      "path": "content/assets/svg/idiom_messer.svg",
+      "type": "vector_svg",
+      "category": "grammar_idiom_c1"
+    },
+    "idiom_massstab": {
+      "path": "content/assets/svg/idiom_massstab.svg",
+      "type": "vector_svg",
+      "category": "grammar_idiom_c1"
+    },
+    "idiom_weichen": {
+      "path": "content/assets/svg/idiom_weichen.svg",
+      "type": "vector_svg",
+      "category": "grammar_idiom_c1"
+    },
+    "idiom_schroepfen": {
+      "path": "content/assets/svg/idiom_schroepfen.svg",
+      "type": "vector_svg",
+      "category": "grammar_idiom_c1"
+    },
+    "idiom_schranken": {
+      "path": "content/assets/svg/idiom_schranken.svg",
+      "type": "vector_svg",
+      "category": "grammar_idiom_c1"
+    },
+    "idiom_nagel": {
+      "path": "content/assets/svg/idiom_nagel.svg",
+      "type": "vector_svg",
+      "category": "grammar_idiom_c1"
+    },
+    "idiom_zweierlei": {
+      "path": "content/assets/svg/idiom_zweierlei.svg",
+      "type": "vector_svg",
+      "category": "grammar_idiom_c1"
+    },
+    "geo_geopolitik": {
+      "path": "content/assets/svg/geo_geopolitik.svg",
+      "type": "vector_svg",
+      "category": "geopolitics_security_c1"
+    },
+    "geo_dilemma": {
+      "path": "content/assets/svg/geo_dilemma.svg",
+      "type": "vector_svg",
+      "category": "geopolitics_security_c1"
+    },
+    "geo_abschreckung": {
+      "path": "content/assets/svg/geo_abschreckung.svg",
+      "type": "vector_svg",
+      "category": "geopolitics_security_c1"
+    },
+    "geo_buendnis": {
+      "path": "content/assets/svg/geo_buendnis.svg",
+      "type": "vector_svg",
+      "category": "geopolitics_security_c1"
+    },
+    "geo_nichtverbreitung": {
+      "path": "content/assets/svg/geo_nichtverbreitung.svg",
+      "type": "vector_svg",
+      "category": "geopolitics_security_c1"
+    },
+    "geo_abruestung": {
+      "path": "content/assets/svg/geo_abruestung.svg",
+      "type": "vector_svg",
+      "category": "geopolitics_security_c1"
+    },
+    "geo_kontrolle": {
+      "path": "content/assets/svg/geo_kontrolle.svg",
+      "type": "vector_svg",
+      "category": "geopolitics_security_c1"
+    },
+    "geo_gleichgewicht": {
+      "path": "content/assets/svg/geo_gleichgewicht.svg",
+      "type": "vector_svg",
+      "category": "geopolitics_security_c1"
+    },
+    "geo_einfluss": {
+      "path": "content/assets/svg/geo_einfluss.svg",
+      "type": "vector_svg",
+      "category": "geopolitics_security_c1"
+    },
+    "geo_annexion": {
+      "path": "content/assets/svg/geo_annexion.svg",
+      "type": "vector_svg",
+      "category": "geopolitics_security_c1"
+    },
+    "geo_veto": {
+      "path": "content/assets/svg/geo_veto.svg",
+      "type": "vector_svg",
+      "category": "geopolitics_security_c1"
+    },
+    "geo_pufferzone": {
+      "path": "content/assets/svg/geo_pufferzone.svg",
+      "type": "vector_svg",
+      "category": "geopolitics_security_c1"
+    },
+    "geo_demarkation": {
+      "path": "content/assets/svg/geo_demarkation.svg",
+      "type": "vector_svg",
+      "category": "geopolitics_security_c1"
+    },
+    "geo_sanktionen": {
+      "path": "content/assets/svg/geo_sanktionen.svg",
+      "type": "vector_svg",
+      "category": "geopolitics_security_c1"
+    },
+    "geo_waffenstillstand": {
+      "path": "content/assets/svg/geo_waffenstillstand.svg",
+      "type": "vector_svg",
+      "category": "geopolitics_security_c1"
+    },
+    "geo_sicherheitsrat": {
+      "path": "content/assets/svg/geo_sicherheitsrat.svg",
+      "type": "vector_svg",
+      "category": "geopolitics_security_c1"
+    },
+    "geo_deeskalation": {
+      "path": "content/assets/svg/geo_deeskalation.svg",
+      "type": "vector_svg",
+      "category": "geopolitics_security_c1"
+    },
+    "geo_embargo": {
+      "path": "content/assets/svg/geo_embargo.svg",
+      "type": "vector_svg",
+      "category": "geopolitics_security_c1"
+    },
+    "geo_territorial": {
+      "path": "content/assets/svg/geo_territorial.svg",
+      "type": "vector_svg",
+      "category": "geopolitics_security_c1"
+    },
+    "geo_hybrid": {
+      "path": "content/assets/svg/geo_hybrid.svg",
+      "type": "vector_svg",
+      "category": "geopolitics_security_c1"
+    },
+    "geo_bilateral": {
+      "path": "content/assets/svg/geo_bilateral.svg",
+      "type": "vector_svg",
+      "category": "geopolitics_security_c1"
+    },
+    "geo_kollektiv": {
+      "path": "content/assets/svg/geo_kollektiv.svg",
+      "type": "vector_svg",
+      "category": "geopolitics_security_c1"
+    },
+    "geo_souveraenitaet": {
+      "path": "content/assets/svg/geo_souveraenitaet.svg",
+      "type": "vector_svg",
+      "category": "geopolitics_security_c1"
+    },
+    "geo_friedenseinsatz": {
+      "path": "content/assets/svg/geo_friedenseinsatz.svg",
+      "type": "vector_svg",
+      "category": "geopolitics_security_c1"
+    },
+    "geo_nichtangriff": {
+      "path": "content/assets/svg/geo_nichtangriff.svg",
+      "type": "vector_svg",
+      "category": "geopolitics_security_c1"
+    },
+    "law_voelkerstrafrecht": {
+      "path": "content/assets/svg/law_voelkerstrafrecht.svg",
+      "type": "vector_svg",
+      "category": "human_rights_tribunals_c1"
+    },
+    "law_istgh": {
+      "path": "content/assets/svg/law_istgh.svg",
+      "type": "vector_svg",
+      "category": "human_rights_tribunals_c1"
+    },
+    "law_kriegsverbrechen": {
+      "path": "content/assets/svg/law_kriegsverbrechen.svg",
+      "type": "vector_svg",
+      "category": "human_rights_tribunals_c1"
+    },
+    "law_menschlichkeit": {
+      "path": "content/assets/svg/law_menschlichkeit.svg",
+      "type": "vector_svg",
+      "category": "human_rights_tribunals_c1"
+    },
+    "law_voelkermord": {
+      "path": "content/assets/svg/law_voelkermord.svg",
+      "type": "vector_svg",
+      "category": "human_rights_tribunals_c1"
+    },
+    "law_universal": {
+      "path": "content/assets/svg/law_universal.svg",
+      "type": "vector_svg",
+      "category": "human_rights_tribunals_c1"
+    },
+    "law_uebergangsjustiz": {
+      "path": "content/assets/svg/law_uebergangsjustiz.svg",
+      "type": "vector_svg",
+      "category": "human_rights_tribunals_c1"
+    },
+    "law_wahrheit": {
+      "path": "content/assets/svg/law_wahrheit.svg",
+      "type": "vector_svg",
+      "category": "human_rights_tribunals_c1"
+    },
+    "law_amnestie": {
+      "path": "content/assets/svg/law_amnestie.svg",
+      "type": "vector_svg",
+      "category": "human_rights_tribunals_c1"
+    },
+    "law_wiedergutmachung": {
+      "path": "content/assets/svg/law_wiedergutmachung.svg",
+      "type": "vector_svg",
+      "category": "human_rights_tribunals_c1"
+    },
+    "law_anklage": {
+      "path": "content/assets/svg/law_anklage.svg",
+      "type": "vector_svg",
+      "category": "human_rights_tribunals_c1"
+    },
+    "law_beweislast": {
+      "path": "content/assets/svg/law_beweislast.svg",
+      "type": "vector_svg",
+      "category": "human_rights_tribunals_c1"
+    },
+    "law_zeugenschutz": {
+      "path": "content/assets/svg/law_zeugenschutz.svg",
+      "type": "vector_svg",
+      "category": "human_rights_tribunals_c1"
+    },
+    "law_verjaehrung": {
+      "path": "content/assets/svg/law_verjaehrung.svg",
+      "type": "vector_svg",
+      "category": "human_rights_tribunals_c1"
+    },
+    "law_unverjaehrbarkeit": {
+      "path": "content/assets/svg/law_unverjaehrbarkeit.svg",
+      "type": "vector_svg",
+      "category": "human_rights_tribunals_c1"
+    },
+    "law_tribunal": {
+      "path": "content/assets/svg/law_tribunal.svg",
+      "type": "vector_svg",
+      "category": "human_rights_tribunals_c1"
+    },
+    "law_egmr": {
+      "path": "content/assets/svg/law_egmr.svg",
+      "type": "vector_svg",
+      "category": "human_rights_tribunals_c1"
+    },
+    "law_beschwerde": {
+      "path": "content/assets/svg/law_beschwerde.svg",
+      "type": "vector_svg",
+      "category": "human_rights_tribunals_c1"
+    },
+    "law_haftbefehl": {
+      "path": "content/assets/svg/law_haftbefehl.svg",
+      "type": "vector_svg",
+      "category": "human_rights_tribunals_c1"
+    },
+    "law_auslieferung": {
+      "path": "content/assets/svg/law_auslieferung.svg",
+      "type": "vector_svg",
+      "category": "human_rights_tribunals_c1"
+    },
+    "law_immunitaet": {
+      "path": "content/assets/svg/law_immunitaet.svg",
+      "type": "vector_svg",
+      "category": "human_rights_tribunals_c1"
+    },
+    "law_straflosigkeit": {
+      "path": "content/assets/svg/law_straflosigkeit.svg",
+      "type": "vector_svg",
+      "category": "human_rights_tribunals_c1"
+    },
+    "law_verantwortlichkeit": {
+      "path": "content/assets/svg/law_verantwortlichkeit.svg",
+      "type": "vector_svg",
+      "category": "human_rights_tribunals_c1"
+    },
+    "law_genf": {
+      "path": "content/assets/svg/law_genf.svg",
+      "type": "vector_svg",
+      "category": "human_rights_tribunals_c1"
+    },
+    "law_rom_statut": {
+      "path": "content/assets/svg/law_rom_statut.svg",
+      "type": "vector_svg",
+      "category": "human_rights_tribunals_c1"
+    },
+    "dip_protokoll": {
+      "path": "content/assets/svg/dip_protokoll.svg",
+      "type": "vector_svg",
+      "category": "diplomatic_protocol_c1"
+    },
+    "dip_beglaubigung": {
+      "path": "content/assets/svg/dip_beglaubigung.svg",
+      "type": "vector_svg",
+      "category": "diplomatic_protocol_c1"
+    },
+    "dip_botschafter": {
+      "path": "content/assets/svg/dip_botschafter.svg",
+      "type": "vector_svg",
+      "category": "diplomatic_protocol_c1"
+    },
+    "dip_immunitaet": {
+      "path": "content/assets/svg/dip_immunitaet.svg",
+      "type": "vector_svg",
+      "category": "diplomatic_protocol_c1"
+    },
+    "dip_staatenimmunitaet": {
+      "path": "content/assets/svg/dip_staatenimmunitaet.svg",
+      "type": "vector_svg",
+      "category": "diplomatic_protocol_c1"
+    },
+    "dip_wien": {
+      "path": "content/assets/svg/dip_wien.svg",
+      "type": "vector_svg",
+      "category": "diplomatic_protocol_c1"
+    },
+    "dip_demarche": {
+      "path": "content/assets/svg/dip_demarche.svg",
+      "type": "vector_svg",
+      "category": "diplomatic_protocol_c1"
+    },
+    "dip_aidememoire": {
+      "path": "content/assets/svg/dip_aidememoire.svg",
+      "type": "vector_svg",
+      "category": "diplomatic_protocol_c1"
+    },
+    "dip_verbalnote": {
+      "path": "content/assets/svg/dip_verbalnote.svg",
+      "type": "vector_svg",
+      "category": "diplomatic_protocol_c1"
+    },
+    "dip_praeambel": {
+      "path": "content/assets/svg/dip_praeambel.svg",
+      "type": "vector_svg",
+      "category": "diplomatic_protocol_c1"
+    },
+    "dip_vorbehalt": {
+      "path": "content/assets/svg/dip_vorbehalt.svg",
+      "type": "vector_svg",
+      "category": "diplomatic_protocol_c1"
+    },
+    "dip_urkunde": {
+      "path": "content/assets/svg/dip_urkunde.svg",
+      "type": "vector_svg",
+      "category": "diplomatic_protocol_c1"
+    },
+    "dip_depositar": {
+      "path": "content/assets/svg/dip_depositar.svg",
+      "type": "vector_svg",
+      "category": "diplomatic_protocol_c1"
+    },
+    "dip_inkrafttreten": {
+      "path": "content/assets/svg/dip_inkrafttreten.svg",
+      "type": "vector_svg",
+      "category": "diplomatic_protocol_c1"
+    },
+    "dip_kuendigung": {
+      "path": "content/assets/svg/dip_kuendigung.svg",
+      "type": "vector_svg",
+      "category": "diplomatic_protocol_c1"
+    },
+    "dip_geschaeftstraeger": {
+      "path": "content/assets/svg/dip_geschaeftstraeger.svg",
+      "type": "vector_svg",
+      "category": "diplomatic_protocol_c1"
+    },
+    "dip_personanongrata": {
+      "path": "content/assets/svg/dip_personanongrata.svg",
+      "type": "vector_svg",
+      "category": "diplomatic_protocol_c1"
+    },
+    "dip_akkreditierung": {
+      "path": "content/assets/svg/dip_akkreditierung.svg",
+      "type": "vector_svg",
+      "category": "diplomatic_protocol_c1"
+    },
+    "dip_konsulat": {
+      "path": "content/assets/svg/dip_konsulat.svg",
+      "type": "vector_svg",
+      "category": "diplomatic_protocol_c1"
+    },
+    "dip_exequatur": {
+      "path": "content/assets/svg/dip_exequatur.svg",
+      "type": "vector_svg",
+      "category": "diplomatic_protocol_c1"
+    },
+    "dip_note": {
+      "path": "content/assets/svg/dip_note.svg",
+      "type": "vector_svg",
+      "category": "diplomatic_protocol_c1"
+    },
+    "dip_zeremonie": {
+      "path": "content/assets/svg/dip_zeremonie.svg",
+      "type": "vector_svg",
+      "category": "diplomatic_protocol_c1"
+    },
+    "dip_rang": {
+      "path": "content/assets/svg/dip_rang.svg",
+      "type": "vector_svg",
+      "category": "diplomatic_protocol_c1"
+    },
+    "dip_souveraen": {
+      "path": "content/assets/svg/dip_souveraen.svg",
+      "type": "vector_svg",
+      "category": "diplomatic_protocol_c1"
+    },
+    "dip_gewohnheitsrecht": {
+      "path": "content/assets/svg/dip_gewohnheitsrecht.svg",
+      "type": "vector_svg",
+      "category": "diplomatic_protocol_c1"
+    },
+    "log_lieferkette": {
+      "path": "content/assets/svg/log_lieferkette.svg",
+      "type": "vector_svg",
+      "category": "logistics_maritime_c1"
+    },
+    "log_resilienz": {
+      "path": "content/assets/svg/log_resilienz.svg",
+      "type": "vector_svg",
+      "category": "logistics_maritime_c1"
+    },
+    "log_seerecht": {
+      "path": "content/assets/svg/log_seerecht.svg",
+      "type": "vector_svg",
+      "category": "logistics_maritime_c1"
+    },
+    "log_konnossement": {
+      "path": "content/assets/svg/log_konnossement.svg",
+      "type": "vector_svg",
+      "category": "logistics_maritime_c1"
+    },
+    "log_haverei": {
+      "path": "content/assets/svg/log_haverei.svg",
+      "type": "vector_svg",
+      "category": "logistics_maritime_c1"
+    },
+    "log_fracht": {
+      "path": "content/assets/svg/log_fracht.svg",
+      "type": "vector_svg",
+      "category": "logistics_maritime_c1"
+    },
+    "log_multimodal": {
+      "path": "content/assets/svg/log_multimodal.svg",
+      "type": "vector_svg",
+      "category": "logistics_maritime_c1"
+    },
+    "log_zoll": {
+      "path": "content/assets/svg/log_zoll.svg",
+      "type": "vector_svg",
+      "category": "logistics_maritime_c1"
+    },
+    "log_akkreditiv": {
+      "path": "content/assets/svg/log_akkreditiv.svg",
+      "type": "vector_svg",
+      "category": "logistics_maritime_c1"
+    },
+    "log_incoterms": {
+      "path": "content/assets/svg/log_incoterms.svg",
+      "type": "vector_svg",
+      "category": "logistics_maritime_c1"
+    },
+    "log_container": {
+      "path": "content/assets/svg/log_container.svg",
+      "type": "vector_svg",
+      "category": "logistics_maritime_c1"
+    },
+    "log_seetuechtig": {
+      "path": "content/assets/svg/log_seetuechtig.svg",
+      "type": "vector_svg",
+      "category": "logistics_maritime_c1"
+    },
+    "log_register": {
+      "path": "content/assets/svg/log_register.svg",
+      "type": "vector_svg",
+      "category": "logistics_maritime_c1"
+    },
+    "log_flagge": {
+      "path": "content/assets/svg/log_flagge.svg",
+      "type": "vector_svg",
+      "category": "logistics_maritime_c1"
+    },
+    "log_hafen": {
+      "path": "content/assets/svg/log_hafen.svg",
+      "type": "vector_svg",
+      "category": "logistics_maritime_c1"
+    },
+    "log_engpass": {
+      "path": "content/assets/svg/log_engpass.svg",
+      "type": "vector_svg",
+      "category": "logistics_maritime_c1"
+    },
+    "log_awz": {
+      "path": "content/assets/svg/log_awz.svg",
+      "type": "vector_svg",
+      "category": "logistics_maritime_c1"
+    },
+    "log_abfertigung": {
+      "path": "content/assets/svg/log_abfertigung.svg",
+      "type": "vector_svg",
+      "category": "logistics_maritime_c1"
+    },
+    "log_frachtfuehrer": {
+      "path": "content/assets/svg/log_frachtfuehrer.svg",
+      "type": "vector_svg",
+      "category": "logistics_maritime_c1"
+    },
+    "log_retouren": {
+      "path": "content/assets/svg/log_retouren.svg",
+      "type": "vector_svg",
+      "category": "logistics_maritime_c1"
+    },
+    "log_sorgfalt": {
+      "path": "content/assets/svg/log_sorgfalt.svg",
+      "type": "vector_svg",
+      "category": "logistics_maritime_c1"
+    },
+    "log_kommissar": {
+      "path": "content/assets/svg/log_kommissar.svg",
+      "type": "vector_svg",
+      "category": "logistics_maritime_c1"
+    },
+    "log_justintime": {
+      "path": "content/assets/svg/log_justintime.svg",
+      "type": "vector_svg",
+      "category": "logistics_maritime_c1"
+    },
+    "log_zolllager": {
+      "path": "content/assets/svg/log_zolllager.svg",
+      "type": "vector_svg",
+      "category": "logistics_maritime_c1"
+    },
+    "log_schiedsgericht": {
+      "path": "content/assets/svg/log_schiedsgericht.svg",
+      "type": "vector_svg",
+      "category": "logistics_maritime_c1"
     }
   }
 }

@@ -1,0 +1,488 @@
+{
+  "category_id": "rhetoric_oratory_c1",
+  "category_number": 48,
+  "level": "C1",
+  "title": {
+    "ar": "البلاغة وفن الخطابة والمحاججة الأكاديمية",
+    "de": "Rhetorik, Redekunst & philosophische Argumentation",
+    "en": "Rhetoric, Public Oratory & Philosophical Argumentation"
+  },
+  "icon": "rhet_rhetorik",
+  "concepts": [
+    {
+      "id": "rhet_001",
+      "icon": "rhet_rhetorik",
+      "arabic": {
+        "word": "عِلْمُ البَلَاغَة",
+        "meaning": "فَنُّ اسْتِخْدَامِ اللُّغَةِ بِطَرِيقَةٍ مُؤَثِّرَةٍ وَمُقْنِعَةٍ لِلْمُتَلَقِّي"
+      },
+      "german": {
+        "word": "die Rhetorik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Rhetoriken",
+        "example": "Die klassische Rhetorik bildet das Fundament jeder überzeugenden politischen Rede."
+      },
+      "english": {
+        "word": "rhetoric",
+        "example": "Classical rhetoric forms the foundation of any persuasive political speech."
+      }
+    },
+    {
+      "id": "rhet_002",
+      "icon": "rhet_beredsamkeit",
+      "arabic": {
+        "word": "الفَصَاحَةُ الخِطَابِيَّة",
+        "meaning": "المَهَارَةُ الفَائِقَةُ فِي الإِبَانَةِ وَالتَّعْبِيرِ بِعُذُوبَةٍ وَتَأْثِيرٍ"
+      },
+      "german": {
+        "word": "die Beredsamkeit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Beredsamkeiten",
+        "example": "Seine außergewöhnliche Beredsamkeit zog das gesamte Auditorium in ihren Bann."
+      },
+      "english": {
+        "word": "oratory / eloquence",
+        "example": "His extraordinary eloquence captivated the entire auditorium."
+      }
+    },
+    {
+      "id": "rhet_003",
+      "icon": "rhet_argumentation",
+      "arabic": {
+        "word": "المُحَاجَجَةُ المَنْطِقِيَّة",
+        "meaning": "تَرْتِيبُ الحُجَجِ وَالأَدِلَّةِ بِإِحْكَامٍ لِإِثْبَاتِ صِحَّةِ المَوْقِفِ"
+      },
+      "german": {
+        "word": "die Argumentation",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Argumentationen",
+        "example": "Eine stichhaltige Argumentation stützt sich stets auf überprüfbare Tatsachen."
+      },
+      "english": {
+        "word": "argumentation",
+        "example": "A cogent argumentation always relies on verifiable facts."
+      }
+    },
+    {
+      "id": "rhet_004",
+      "icon": "rhet_praemisse",
+      "arabic": {
+        "word": "المُقَدِّمَةُ المَنْطِقِيَّة",
+        "meaning": "قَضِيَّةٌ مَعْلُومَةٌ يُنْطَلَقُ مِنْهَا لِلتَّوَصُّلِ إِلَى نَتِيجَةٍ قَاطِعَةٍ"
+      },
+      "german": {
+        "word": "die Prämisse",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Prämissen",
+        "example": "Wenn die Prämisse fehlerhaft ist, verliert der gesamte logische Schluss seine Gültigkeit."
+      },
+      "english": {
+        "word": "premise",
+        "example": "If the premise is flawed, the entire logical conclusion loses its validity."
+      }
+    },
+    {
+      "id": "rhet_005",
+      "icon": "rhet_konklusion",
+      "arabic": {
+        "word": "النَّتِيجَةُ الاسْتِنْتَاجِيَّة",
+        "meaning": "الحُكْمُ المَنْطِقِيُّ النِّهَائِيُّ المُشْتَقُّ مِنَ المُقَدِّمَاتِ"
+      },
+      "german": {
+        "word": "die Konklusion",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Konklusionen",
+        "example": "Aus den vorgelegten Daten lässt sich zwingend diese Konklusion ziehen."
+      },
+      "english": {
+        "word": "conclusion / deduction",
+        "example": "From the presented data, this conclusion can be drawn compellingly."
+      }
+    },
+    {
+      "id": "rhet_006",
+      "icon": "rhet_trugschluss",
+      "arabic": {
+        "word": "المُغَالَطَةُ المَنْطِقِيَّة",
+        "meaning": "اسْتِدْلَالٌ يَبْدُو صَحِيحًا فِي الظَّاهِرِ لَكِنَّهُ فَاسِدٌ فِي المَنْطِقِ"
+      },
+      "german": {
+        "word": "der Trugschluss",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Trugschlüsse",
+        "example": "Der Vorwurf erwies sich bei genauerer Analyse als klassischer Trugschluss."
+      },
+      "english": {
+        "word": "fallacy",
+        "example": "Upon closer analysis, the accusation proved to be a classic fallacy."
+      }
+    },
+    {
+      "id": "rhet_007",
+      "icon": "rhet_metapher",
+      "arabic": {
+        "word": "الاسْتِعَارَةُ البَلَاغِيَّة",
+        "meaning": "اسْتِعْمَالُ اللَّفْظِ فِي غَيْرِ مَعْنَاهُ الأَصْلِيِّ لِعَلَاقَةِ المُشَابَهَةِ"
+      },
+      "german": {
+        "word": "die Metapher",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Metaphern",
+        "example": "Der Redner nutzte die Metapher des 'stürmischen Meeres' für die Krise."
+      },
+      "english": {
+        "word": "metaphor",
+        "example": "The speaker used the metaphor of a 'stormy sea' for the crisis."
+      }
+    },
+    {
+      "id": "rhet_008",
+      "icon": "rhet_allokution",
+      "arabic": {
+        "word": "الخِطَابُ التَّوْجِيهِيّ",
+        "meaning": "كَلِمَةٌ رَسْمِيَّةٌ بَلِيغَةٌ تُوَجَّهُ لِحَثِّ الجَمَاعَةِ عَلَى مَوْقِفٍ مُحَدَّدٍ"
+      },
+      "german": {
+        "word": "die Allokution",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Allokutionen",
+        "example": "Die Allokution des Staatsoberhaupts rief zur nationalen Einheit auf."
+      },
+      "english": {
+        "word": "formal address / allocution",
+        "example": "The head of state's formal address called for national unity."
+      }
+    },
+    {
+      "id": "rhet_009",
+      "icon": "rhet_pathos",
+      "arabic": {
+        "word": "الاسْتِعْطَافُ الوِجْدَانِيّ (البَاثُوس)",
+        "meaning": "مُخَاطَبَةُ عَوَاطِفِ الجُمْهُورِ وَإِثَارَةُ انْفِعَالَاتِهِمْ لِكَسْبِ تَأْيِيدِهِمْ"
+      },
+      "german": {
+        "word": "das Pathos",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Pathosformen",
+        "example": "Seine Rede war voller Pathos und bewegte die Zuhörer zutiefst."
+      },
+      "english": {
+        "word": "pathos",
+        "example": "His speech was full of pathos and deeply moved the listeners."
+      }
+    },
+    {
+      "id": "rhet_010",
+      "icon": "rhet_ethos",
+      "arabic": {
+        "word": "المِصْدَاقِيَّةُ الأَخْلَاقِيَّة (الإِيثُوس)",
+        "meaning": "بِنَاءُ الثِّقَةِ وَالإِقْنَاعِ عَبْرَ نَزَاهَةِ الخَطِيبِ وَسُمْعَتِهِ المَعْنَوِيَّةِ"
+      },
+      "german": {
+        "word": "das Ethos",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Ethea",
+        "example": "Das persönliche Ethos der Wissenschaftlerin verlieh ihren Worten enormes Gewicht."
+      },
+      "english": {
+        "word": "ethos",
+        "example": "The scientist's personal ethos gave her words enormous weight."
+      }
+    },
+    {
+      "id": "rhet_011",
+      "icon": "rhet_logos",
+      "arabic": {
+        "word": "البُرْهَانُ المَنْطِقِيّ (اللُّوغُوس)",
+        "meaning": "الاحْتِكَامُ إِلَى العَقْلِ وَالبَيَانَاتِ وَالتَّحْلِيلِ العِلْمِيِّ الصَّارِمِ"
+      },
+      "german": {
+        "word": "der Logos",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Logoi",
+        "example": "Der Logos ihrer Darlegung beruhte auf unanfechtbaren statistischen Befunden."
+      },
+      "english": {
+        "word": "logos",
+        "example": "The logos of her presentation rested on indisputable statistical findings."
+      }
+    },
+    {
+      "id": "rhet_012",
+      "icon": "rhet_polemik",
+      "arabic": {
+        "word": "المُسَاجَلَةُ الحَادَّة",
+        "meaning": "جِدَالٌ كَلَامِيٌّ أَوْ كِتَابِيٌّ لَاذِعٌ يَسْتَهْدِفُ تَفْنِيدَ رَأْيِ الخَصْمِ"
+      },
+      "german": {
+        "word": "die Polemik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Polemiken",
+        "example": "Wir sollten uns auf sachliche Argumente konzentrieren und unnötige Polemik vermeiden."
+      },
+      "english": {
+        "word": "polemic",
+        "example": "We should concentrate on factual arguments and avoid unnecessary polemic."
+      }
+    },
+    {
+      "id": "rhet_013",
+      "icon": "rhet_paradoxon",
+      "arabic": {
+        "word": "المُفَارَقَةُ الظَّاهِرِيَّة",
+        "meaning": "عِبَارَةٌ تَبْدُو مُتَنَاقِضَةً مَعَ نَفْسِهَا لَكِنَّهَا تَحْمِلُ حَقِيقَةً عَمِيقَةً"
+      },
+      "german": {
+        "word": "das Paradoxon",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Paradoxa",
+        "example": "'Weniger ist mehr' ist ein bekanntes Paradoxon in der Kunst und Rhetorik."
+      },
+      "english": {
+        "word": "paradox",
+        "example": "'Less is more' is a well-known paradox in art and rhetoric."
+      }
+    },
+    {
+      "id": "rhet_014",
+      "icon": "rhet_ironie",
+      "arabic": {
+        "word": "السُّخْرِيَةُ التَّهَكُّمِيَّة",
+        "meaning": "التَّعْبِيرُ عَنِ المَعْنَى بِضِدِّ لَفْظِهِ الظَّاهِرِ بِأُسْلُوبٍ ذَكِيٍّ"
+      },
+      "german": {
+        "word": "die Ironie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Ironien",
+        "example": "Mit feiner Ironie entlarvte die Autorin die Widersprüche der Debatte."
+      },
+      "english": {
+        "word": "irony",
+        "example": "With subtle irony, the author exposed the contradictions of the debate."
+      }
+    },
+    {
+      "id": "rhet_015",
+      "icon": "rhet_euphemismus",
+      "arabic": {
+        "word": "حُسْنُ التَّعْبِير / التَّلْطِيف",
+        "meaning": "اسْتِخْدَامُ لَفْظٍ لَطِيفٍ لِلتَّعْبِيرِ عَنْ أَمْرٍ مَكْرُوهٍ أَوْ قَاسٍ"
+      },
+      "german": {
+        "word": "der Euphemismus",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Euphemismen",
+        "example": "'Freisetzung von Personal' ist ein zynischer Euphemismus für Entlassungen."
+      },
+      "english": {
+        "word": "euphemism",
+        "example": "'Personnel release' is a cynical euphemism for dismissals."
+      }
+    },
+    {
+      "id": "rhet_016",
+      "icon": "rhet_hyperbel",
+      "arabic": {
+        "word": "المُبَالَغَةُ المَجَازِيَّة",
+        "meaning": "تَهْوِيلُ الوَصْفِ لِتَأْكِيدِ المَعْنَى وَتَرْسِيخِهِ فِي الأَذْهَانِ"
+      },
+      "german": {
+        "word": "die Hyperbel",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Hyperbeln",
+        "example": "Ausdrücke wie 'ein Meer von Tränen' sind klassische Hyperbeln."
+      },
+      "english": {
+        "word": "hyperbole",
+        "example": "Expressions like 'a sea of tears' are classic hyperboles."
+      }
+    },
+    {
+      "id": "rhet_017",
+      "icon": "rhet_antithese",
+      "arabic": {
+        "word": "المُقَابَلَةُ التَّضَادِّيَّة",
+        "meaning": "الجَمْعُ بَيْنَ مَعْنَيَيْنِ مُتَقَابِلَيْنِ فِي جُمْلَةٍ وَاحِدَةٍ لِإِبْرَازِ الفَرْقِ"
+      },
+      "german": {
+        "word": "die Antithese",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Antithesen",
+        "example": "'Der Wahn ist kurz, die Reu ist lang' veranschaulicht eine wirkungsvolle Antithese."
+      },
+      "english": {
+        "word": "antithesis",
+        "example": "'Short is the illusion, long the regret' illustrates an effective antithesis."
+      }
+    },
+    {
+      "id": "rhet_018",
+      "icon": "rhet_redundanz",
+      "arabic": {
+        "word": "الحَشْوُ اللَّفْظِيّ",
+        "meaning": "إِعَادَةُ نَفْسِ المَعْنَى بِكَلِمَاتٍ مُتَرَادِفَةٍ دُونَ إِضَافَةِ فَائِدَةٍ جَدِيدَةٍ"
+      },
+      "german": {
+        "word": "die Redundanz",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Redundanzen",
+        "example": "In präzisen akademischen Texten sollte sprachliche Redundanz vermieden werden."
+      },
+      "english": {
+        "word": "redundancy",
+        "example": "In precise academic texts, linguistic redundancy should be avoided."
+      }
+    },
+    {
+      "id": "rhet_019",
+      "icon": "rhet_eloquenz",
+      "arabic": {
+        "word": "البَلَاغَةُ التَّعْبِيرِيَّة",
+        "meaning": "الطَّلَاقَةُ اللِّسَانِيَّةُ المَقْرُونَةُ بِعُمْقِ المَعْنَى وَحُسْنِ البَيَانِ"
+      },
+      "german": {
+        "word": "die Eloquenz",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Eloquenzen",
+        "example": "Ihre diplomatische Eloquenz half, die verfahrene Situation zu deeskalieren."
+      },
+      "english": {
+        "word": "eloquence",
+        "example": "Her diplomatic eloquence helped to de-escalate the deadlocked situation."
+      }
+    },
+    {
+      "id": "rhet_020",
+      "icon": "rhet_oxymoron",
+      "arabic": {
+        "word": "التَّنَاقُضُ اللَّفْظِيُّ الجَمْعِيّ",
+        "meaning": "تَرْكِيبٌ يَتَأَلَّفُ مِنْ لَفْظَيْنِ مُتَنَاقِضَيْنِ ظَاهِرِيًّا فِي عِبَارَةٍ وَاحِدَةٍ"
+      },
+      "german": {
+        "word": "das Oxymoron",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Oxymora",
+        "example": "'Stummer Schrei' oder 'bittersüß' sind prägnante Beispiele für ein Oxymoron."
+      },
+      "english": {
+        "word": "oxymoron",
+        "example": "'Silent scream' or 'bittersweet' are concise examples of an oxymoron."
+      }
+    },
+    {
+      "id": "rhet_021",
+      "icon": "rhet_dialektik_art",
+      "arabic": {
+        "word": "فَنُّ التَّفَاوُضِ الجَدَلِيّ",
+        "meaning": "إِدَارَةُ النِّقَاشِ بِتَوْلِيدِ الحَقَائِقِ مِنْ خِلَالِ تَفْكِيكِ حُجَجِ الطَّرَفِ الآخَرِ"
+      },
+      "german": {
+        "word": "die dialektische Verhandlungsführung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Verhandlungsführungen",
+        "example": "Die dialektische Verhandlungsführung ermöglicht es, gemeinsame Schnittmengen zu identifizieren."
+      },
+      "english": {
+        "word": "dialectic negotiation",
+        "example": "Dialectic negotiation makes it possible to identify common ground."
+      }
+    },
+    {
+      "id": "rhet_022",
+      "icon": "rhet_stichhaltigkeit",
+      "arabic": {
+        "word": "الصَّلَابَةُ المَنْطِقِيَّة",
+        "meaning": "قُوَّةُ الدَّلِيلِ وَتَمَاسُكُهُ بِحَيْثُ يَصْمُدُ أَمَامَ أَيِّ اعْتِرَاضٍ مُضَادٍّ"
+      },
+      "german": {
+        "word": "die Stichhaltigkeit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Stichhaltigkeiten",
+        "example": "Niemand konnte die Stichhaltigkeit seiner ökonomischen Analyse widerlegen."
+      },
+      "english": {
+        "word": "cogency / validity",
+        "example": "Nobody could refute the cogency of his economic analysis."
+      }
+    },
+    {
+      "id": "rhet_023",
+      "icon": "rhet_replik",
+      "arabic": {
+        "word": "الرَّدُّ المُفْحِم",
+        "meaning": "إِجَابَةٌ نَقْدِيَّةٌ دَقِيقَةٌ تُفَنِّدُ اعْتِرَاضَاتِ الخَصْمِ فِي المُنَاظَرَةِ"
+      },
+      "german": {
+        "word": "die Replik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Repliken",
+        "example": "In seiner brillanten Replik ging der Anwalt Punkt für Punkt auf die Anklage ein."
+      },
+      "english": {
+        "word": "rejoinder / counter-argument",
+        "example": "In his brilliant rejoinder, the attorney addressed the charges point by point."
+      }
+    },
+    {
+      "id": "rhet_024",
+      "icon": "rhet_schlagfertigkeit",
+      "arabic": {
+        "word": "سُرْعَةُ البَدِيهَة",
+        "meaning": "القُدْرَةُ عَلَى الرَّدِّ الفَوْرِيِّ الذَّكِيِّ وَالمُقْنِعِ عَلَى الأَسْئِلَةِ غَيْرِ المُتَوَقَّعَةِ"
+      },
+      "german": {
+        "word": "die Schlagfertigkeit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Schlagfertigkeiten",
+        "example": "Ihre beeindruckende Schlagfertigkeit brachte ihr den Respekt der Journalisten ein."
+      },
+      "english": {
+        "word": "quick-wittedness",
+        "example": "Her impressive quick-wittedness earned her the respect of the journalists."
+      }
+    },
+    {
+      "id": "rhet_025",
+      "icon": "rhet_fazit",
+      "arabic": {
+        "word": "الخُلَاصَةُ التَّرْكِيبِيَّة",
+        "meaning": "الحَصِيلَةُ النِّهَائِيَّةُ المَوْجَزَةُ الَّتِي تُتَوِّجُ المَبْحَثَ أَوِ الخِطَابَ"
+      },
+      "german": {
+        "word": "das Fazit",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Fazite",
+        "example": "Als Fazit lässt sich festhalten, dass nachhaltige Bildung der Schlüssel zum Erfolg ist."
+      },
+      "english": {
+        "word": "bottom line / synthesis",
+        "example": "In conclusion, it can be stated that sustainable education is the key to success."
+      }
+    }
+  ]
+}

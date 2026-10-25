@@ -1,0 +1,488 @@
+{
+  "category_id": "logistics_maritime_c1",
+  "category_number": 54,
+  "level": "C1",
+  "title": {
+    "ar": "سلاسل الإمداد العالمية، اللوجستيات البحرية وقانون التجارة الدولي",
+    "de": "Globale Lieferketten, Seerecht & Handelslogistik",
+    "en": "Global Supply Chains, Maritime Law & Trade Logistics"
+  },
+  "icon": "log_lieferkette",
+  "concepts": [
+    {
+      "id": "log_001",
+      "icon": "log_lieferkette",
+      "arabic": {
+        "word": "سِلْسِلَةُ الإِمْدَادِ العَالَمِيَّة",
+        "meaning": "شَبَكَةُ العَمَلِيَّاتِ وَالمُنَظَّمَاتِ الَّتِي تُشَارِكُ فِي إِنْتَاجِ وَنَقْلِ السِّلَعِ مِنَ المَصْدَرِ إِلَى المُسْتَهْلِكِ"
+      },
+      "german": {
+        "word": "die globale Lieferkette",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die globalen Lieferketten",
+        "example": "Globale Lieferketten sind hochgradig vernetzt und anfällig für geopolitische Erschütterungen."
+      },
+      "english": {
+        "word": "global supply chain",
+        "example": "Global supply chains are highly interconnected and vulnerable to geopolitical shocks."
+      }
+    },
+    {
+      "id": "log_002",
+      "icon": "log_resilienz",
+      "arabic": {
+        "word": "مُرُونَةُ سِلْسِلَةِ التَّوْرِيد",
+        "meaning": "قُدْرَةُ الشَّبَكَةِ اللُّوجِسْتِيَّةِ عَلَى التَّكَيُّفِ مَعَ الأَزَمَاتِ وَمُوَاصَلَةِ العَمَلِ دُونَ انْقِطَاعٍ"
+      },
+      "german": {
+        "word": "die Lieferkettenresilienz",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Lieferkettenresilienzen",
+        "example": "Die Erhöhung der Lieferkettenresilienz erfordert eine Diversifizierung der Zulieferer."
+      },
+      "english": {
+        "word": "supply chain resilience",
+        "example": "Enhancing supply chain resilience requires a diversification of suppliers."
+      }
+    },
+    {
+      "id": "log_003",
+      "icon": "log_seerecht",
+      "arabic": {
+        "word": "قَانُونُ البِحَار",
+        "meaning": "القَوَاعِدُ القَانُونِيَّةُ الدَّوْلِيَّةُ الَّتِي تُنَظِّمُ حُقُوقَ المِلْكِيَّةِ وَالمِلَاحَةَ وَاسْتِغْلَالَ المَوَارِدِ البَحْرِيَّةِ"
+      },
+      "german": {
+        "word": "das internationale Seerecht",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Seerechte",
+        "example": "Das UN-Seerechtsübereinkommen bildet den universellen Rechtsrahmen für die Nutzung der Ozeane."
+      },
+      "english": {
+        "word": "maritime law / law of the sea",
+        "example": "The UN Convention on the Law of the Sea forms the universal legal framework for ocean use."
+      }
+    },
+    {
+      "id": "log_004",
+      "icon": "log_konnossement",
+      "arabic": {
+        "word": "بُولِيصَةُ الشَّحْنِ البَحْرِيّ (الكُونُوسِيمَان)",
+        "meaning": "وَثِيقَةٌ رَسْمِيَّةٌ تُثْبِتُ اسْتِلَامَ الشَّحْنَةِ عَلَى مَتْنِ السَّفِينَةِ وَتُمَثِّلُ سَنَدَ مِلْكِيَّةِ البَضَائِعِ"
+      },
+      "german": {
+        "word": "das Konnossement",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Konnossemente",
+        "example": "Ohne Vorlage des Original-Konnossements verweigert die Reederei die Herausgabe der Ware."
+      },
+      "english": {
+        "word": "bill of lading (B/L)",
+        "example": "Without presentation of the original bill of lading, the shipping line will refuse release of cargo."
+      }
+    },
+    {
+      "id": "log_005",
+      "icon": "log_haverei",
+      "arabic": {
+        "word": "الخَسَارَةُ البَحْرِيَّةُ المُشْتَرَكَة (الهَافَارِي)",
+        "meaning": "مَبْدَأٌ قَانُونِيٌّ يُلْزِمُ جَمِيعَ أَطْرَافِ الرِّحْلَةِ بِالمُشَارَكَةِ فِي تَحَمُّلِ نَفَقَاتِ إِنْقَاذِ السَّفِينَةِ وَشِحْنَتِهَا"
+      },
+      "german": {
+        "word": "die große Haverei",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Havereien",
+        "example": "Im Falle einer Havarie werden die Rettungskosten nach den York-Antwerp-Regeln aufgeteilt."
+      },
+      "english": {
+        "word": "general average",
+        "example": "In the event of general average, salvage costs are apportioned under the York-Antwerp Rules."
+      }
+    },
+    {
+      "id": "log_006",
+      "icon": "log_fracht",
+      "arabic": {
+        "word": "الشَّحْنَةُ التِّجَارِيَّة",
+        "meaning": "البَضَائِعُ وَالمَوَادُّ الَّتِي تَنْتَقِلُ بِوَاسِطَةِ السُّفُنِ أَوْ الطَّائِرَاتِ لِأَغْرَاضٍ تِجَارِيَّةٍ"
+      },
+      "german": {
+        "word": "die Seefracht",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Seefrachten",
+        "example": "Über neunzig Prozent des Welthandelsvolumens werden als Seefracht transportiert."
+      },
+      "english": {
+        "word": "sea freight / maritime cargo",
+        "example": "Over ninety percent of world trade volume is transported as sea freight."
+      }
+    },
+    {
+      "id": "log_007",
+      "icon": "log_multimodal",
+      "arabic": {
+        "word": "النَّقْلُ مُتَعَدِّدُ الوَسَائِط",
+        "meaning": "نَقْلُ البَضَائِعِ عَبْرَ عِدَّةِ وَسَائِلَ (سَفِينَة، قِطَار، شَاحِنَة) بِمُوجَبِ عَقْدِ شَحْنٍ وَاحِدٍ"
+      },
+      "german": {
+        "word": "der multimodale Transport",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die multimodalen Transporte",
+        "example": "Der multimodale Transport verknüpft Schiene und Seeweg zur Senkung von CO2-Emissionen."
+      },
+      "english": {
+        "word": "multimodal transport",
+        "example": "Multimodal transport combines rail and ocean shipping to reduce carbon emissions."
+      }
+    },
+    {
+      "id": "log_008",
+      "icon": "log_zoll",
+      "arabic": {
+        "word": "اتِّفَاقِيَّةُ التَّعْرِيفَةِ الجُمْرُكِيَّة",
+        "meaning": "مُعَاهَدَةٌ تُحَدِّدُ الرُّسُومَ المَفْرُوضَةَ عَلَى السِّلَعِ المُسْتَوْرَدَةِ وَالمُصَدَّرَةِ بَيْنَ الدُّوَلِ"
+      },
+      "german": {
+        "word": "das Zollabkommen",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Zollabkommen",
+        "example": "Das neue Zollabkommen baut bürokratische Hürden für exportorientierte Unternehmen ab."
+      },
+      "english": {
+        "word": "customs agreement",
+        "example": "The new customs agreement eliminates bureaucratic hurdles for export-oriented enterprises."
+      }
+    },
+    {
+      "id": "log_009",
+      "icon": "log_akkreditiv",
+      "arabic": {
+        "word": "الاعْتِمَادُ المُسْتَنَدِيّ",
+        "meaning": "تَعَهُّدٌ مَصْرِفِيٌّ بِدَفْعِ قِيمَةِ البَضَائِعِ لِلْمُصَدِّرِ شَرِيطَةَ تَقْدِيمِ مُسْتَنَدَاتِ الشَّحْنِ المُطَابِقَةِ"
+      },
+      "german": {
+        "word": "das Akkreditiv",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Akkreditive",
+        "example": "Ein unwiderrufliches Dokumentenakkreditiv sichert das Zahlungsrisiko im Überseehandel optimal ab."
+      },
+      "english": {
+        "word": "letter of credit (L/C)",
+        "example": "An irrevocable documentary letter of credit securely hedges payment risk in overseas trade."
+      }
+    },
+    {
+      "id": "log_010",
+      "icon": "log_incoterms",
+      "arabic": {
+        "word": "مُصْطَلَحَاتُ التِّجَارَةِ الدَّوْلِيَّة (Incoterms)",
+        "meaning": "قَوَاعِدُ مِعْيَارِيَّةٌ تُحَدِّدُ تَوَزُّعَ التَّكَالِيفِ وَالمَخَاطِرِ بَيْنَ البَائِعِ وَالمُشْتَرِي (مِثْلَ FOB وCIF)"
+      },
+      "german": {
+        "word": "die Incoterms",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Incoterms",
+        "example": "Die Klausel CIF (Kosten, Versicherung, Fracht) regelt die Gefahrenübertragung am Verschiffungshafen."
+      },
+      "english": {
+        "word": "Incoterms (International Commercial Terms)",
+        "example": "The CIF clause (Cost, Insurance, and Freight) governs the transfer of risk at the port of shipment."
+      }
+    },
+    {
+      "id": "log_011",
+      "icon": "log_container",
+      "arabic": {
+        "word": "أَمْنُ الحَاوِيَاتِ البَحْرِيَّة",
+        "meaning": "مَعَايِيرُ تَقْنِيَّةٌ وَأَمْنِيَّةٌ لِتَفْتِيشِ الحَاوِيَاتِ وَحِمَايَتِهَا مِنَ التَّهْرِيبِ وَالإِرْهَابِ"
+      },
+      "german": {
+        "word": "die Containersicherheit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Containersicherheiten",
+        "example": "Röntgenscanner und GPS-Siegel erhöhen die maritime Containersicherheit in Welthäfen."
+      },
+      "english": {
+        "word": "container security",
+        "example": "X-ray scanners and GPS seals enhance maritime container security across global ports."
+      }
+    },
+    {
+      "id": "log_012",
+      "icon": "log_seetuechtig",
+      "arabic": {
+        "word": "صَلَاحِيَّةُ السَّفِينَةِ لِلْمِلَاحَة",
+        "meaning": "الحَالَةُ الفَنِّيَّةُ وَالقَانُونِيَّةُ الَّتِي تُؤَهِّلُ السَّفِينَةَ لِخَوْضِ البِحَارِ بِأَمَانٍ كَامِلٍ"
+      },
+      "german": {
+        "word": "die Seetüchtigkeit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Seetüchtigkeiten",
+        "example": "Der Reeder haftet zwingend für die absolute Seetüchtigkeit seines Schiffes vor Auslaufen."
+      },
+      "english": {
+        "word": "seaworthiness",
+        "example": "The shipowner is strictly liable for the absolute seaworthiness of his vessel prior to sailing."
+      }
+    },
+    {
+      "id": "log_013",
+      "icon": "log_register",
+      "arabic": {
+        "word": "سِجِلُّ السُّفُن",
+        "meaning": "قَيْدٌ رَسْمِيٌّ تُدَوِّنُ فِيهِ الدَّوْلَةُ بَيَانَاتِ مِلْكِيَّةِ وَجِنْسِيَّةِ السُّفُنِ التَّابِعَةِ لَهَا"
+      },
+      "german": {
+        "word": "das Schiffsregister",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Schiffsregister",
+        "example": "Die Eintragung in das nationale Schiffsregister begründet das Recht zum Führen der Bundesflagge."
+      },
+      "english": {
+        "word": "shipping register / ship registry",
+        "example": "Entry into the national shipping register establishes the right to fly the federal flag."
+      }
+    },
+    {
+      "id": "log_014",
+      "icon": "log_flagge",
+      "arabic": {
+        "word": "عَلَمُ المُلَاءَمَة",
+        "meaning": "تَسْجِيلُ السَّفِينَةِ فِي دَوْلَةٍ أُخْرَى لِتَفَادِي الضَّرَائِبِ وَمَعَايِيرِ السَّلَامَةِ الصَّارِمَةِ"
+      },
+      "german": {
+        "word": "die Billigflagge",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Billigflaggen",
+        "example": "Gewerkschaften kritisieren Schiffe unter Billigflagge wegen mangelhafter Arbeitsbedingungen an Bord."
+      },
+      "english": {
+        "word": "flag of convenience",
+        "example": "Unions criticize vessels flying flags of convenience due to deficient working conditions on board."
+      }
+    },
+    {
+      "id": "log_015",
+      "icon": "log_hafen",
+      "arabic": {
+        "word": "مِينَاءُ المُنَاقَلَة (التَّرَانْزِيت)",
+        "meaning": "مَرْكَزٌ بَحْرِيٌّ رَئِيسِيٌّ تُنْقَلُ فِيهِ الحَاوِيَاتُ بَيْنَ السُّفُنِ العِمْلَاقَةِ وَالسُّفُنِ الصَّغِيرَةِ"
+      },
+      "german": {
+        "word": "der Umschlaghafen",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Umschlaghäfen",
+        "example": "Rotterdam und Singapur zählen zu den weltweit führenden Umschlaghäfen für Containerfracht."
+      },
+      "english": {
+        "word": "transshipment port / hub",
+        "example": "Rotterdam and Singapore rank among the world's leading transshipment ports for container cargo."
+      }
+    },
+    {
+      "id": "log_016",
+      "icon": "log_engpass",
+      "arabic": {
+        "word": "عُنُقُ الزُّجَاجَةِ اللُّوجِسْتِيّ",
+        "meaning": "مَمَرٌّ بَحْرِيٌّ ضَيِّقٌ أَوْ نُقْطَةُ اخْتِنَاقٍ تِجَارِيَّةٌ (مِثْلَ مَضِيقِ مَلَقَا أَوْ قَنَاةِ السُّوَيْسِ)"
+      },
+      "german": {
+        "word": "der logistische Engpass",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die logistischen Engpässe",
+        "example": "Maritime Engpässe wie die Straße von Malakka bergen enorme Risiken für den Welthandel."
+      },
+      "english": {
+        "word": "logistical bottleneck / maritime chokepoint",
+        "example": "Maritime chokepoints like the Strait of Malacca harbor enormous risks for global commerce."
+      }
+    },
+    {
+      "id": "log_017",
+      "icon": "log_awz",
+      "arabic": {
+        "word": "المِنْطَقَةُ الِاقْتِصَادِيَّةُ الخَالِصَة (AWZ)",
+        "meaning": "مِنْطَقَةٌ بَحْرِيَّةٌ تَمْتَدُّ حَتَّى 200 مِيلٍ بَحْرِيٍّ تَحْتَفِظُ فِيهَا الدَّوْلَةُ بِحُقُوقٍ حَصْرِيَّةٍ فِي المَوَارِدِ"
+      },
+      "german": {
+        "word": "die Ausschließliche Wirtschaftszone",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Ausschließlichen Wirtschaftszonen",
+        "example": "Küstenstaaten besitzen in ihrer Ausschließlichen Wirtschaftszone souveräne Rechte zur Rohstoffgewinnung."
+      },
+      "english": {
+        "word": "Exclusive Economic Zone (EEZ)",
+        "example": "Coastal states possess sovereign rights to extract natural resources within their Exclusive Economic Zone."
+      }
+    },
+    {
+      "id": "log_018",
+      "icon": "log_abfertigung",
+      "arabic": {
+        "word": "التَّخْلِيصُ الجُمْرُكِيّ",
+        "meaning": "إِكْمَالُ الإِجْرَاءَاتِ القَانُونِيَّةِ وَسَدَادِ الضَّرَائِبِ لِإِفْرَاجِ الجَمَارِكِ عَنِ البَضَائِعِ"
+      },
+      "german": {
+        "word": "die Zollabfertigung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Zollabfertigungen",
+        "example": "Automatisierte IT-Verfahren beschleunigen die zügige Zollabfertigung im Seehafen."
+      },
+      "english": {
+        "word": "customs clearance",
+        "example": "Automated IT procedures expedite swift customs clearance at sea ports."
+      }
+    },
+    {
+      "id": "log_019",
+      "icon": "log_frachtfuehrer",
+      "arabic": {
+        "word": "مُتَعَهِّدُ الشَّحْن / النَّاقِل",
+        "meaning": "الشَّخْصُ أَوْ الشَّرِكَةُ الَّتِي تَلْتَزِمُ قَانُونًا بِنَقْلِ البَضَائِعِ وَتَسْلِيمِهَا لِلْمُرْسَلِ إِلَيْهِ"
+      },
+      "german": {
+        "word": "der Frachtführer",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Frachtführer",
+        "example": "Der Frachtführer haftet für Beschädigungen der Ladung während des gesamten Seetransports."
+      },
+      "english": {
+        "word": "freight forwarder / carrier",
+        "example": "The carrier is liable for cargo damage throughout the entire maritime transit."
+      }
+    },
+    {
+      "id": "log_020",
+      "icon": "log_retouren",
+      "arabic": {
+        "word": "اللُّوجِسْتِيَّاتُ العَكْسِيَّة",
+        "meaning": "إِدَارَةُ إِعَادَةِ المُنْتَجَاتِ وَالمَوَادِّ لِإِعَادَةِ التَّدْوِيرِ أَوِ التَّصْلِيحِ أَوِ الاسْتِرْجَاعِ"
+      },
+      "german": {
+        "word": "die Retourenlogistik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Retourenlogistiken",
+        "example": "Eine effiziente Retourenlogistik schont Ressourcen und senkt betriebliche Kosten im E-Commerce."
+      },
+      "english": {
+        "word": "reverse logistics / returns management",
+        "example": "Efficient reverse logistics conserves resources and reduces operating costs in e-commerce."
+      }
+    },
+    {
+      "id": "log_021",
+      "icon": "log_sorgfalt",
+      "arabic": {
+        "word": "وَاجِبُ العِنَايَةِ بِسَلَاسِلِ التَّوْرِيد",
+        "meaning": "الِالْتِزَامُ القَانُونِيُّ لِلشَّرِكَاتِ بِمُرَاقَبَةِ احْتِرَامِ حُقُوقِ الإِنْسَانِ وَالبِيئَةِ عَبْرَ مُوَرِّدِيهَا"
+      },
+      "german": {
+        "word": "die Lieferkettensorgfaltspflicht",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Lieferkettensorgfaltspflichten",
+        "example": "Das deutsche Lieferkettengesetz verpflichtet Konzerne zur lückenlosen Einhaltung von Menschenrechten."
+      },
+      "english": {
+        "word": "supply chain due diligence",
+        "example": "The German Supply Chain Act mandates corporations to ensure comprehensive compliance with human rights."
+      }
+    },
+    {
+      "id": "log_022",
+      "icon": "log_kommissar",
+      "arabic": {
+        "word": "خَبِيرُ تَسْوِيَةِ الخَسَائِرِ البَحْرِيَّة",
+        "meaning": "خَبِيرٌ مُعْتَمَدٌ يُعَايِنُ الحَوَادِثَ البَحْرِيَّةَ وَيُقَدِّرُ قِيمَةَ الأَضْرَارِ لِشَرِكَاتِ التَّأْمِينِ"
+      },
+      "german": {
+        "word": "der Havariekommissar",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Havariekommissare",
+        "example": "Der Havariekommissar erstellte ein detailliertes Schadensgutachten nach der Kollision der Frachter."
+      },
+      "english": {
+        "word": "average adjuster / marine surveyor",
+        "example": "The average adjuster compiled a comprehensive survey report following the freighter collision."
+      }
+    },
+    {
+      "id": "log_023",
+      "icon": "log_justintime",
+      "arabic": {
+        "word": "التَّسْلِيمُ فِي المَوْعِدِ المُحَدَّدِ تَمَامًا",
+        "meaning": "إِسْتِرَاتِيجِيَّةٌ تَقْضِي بِتَوْرِيدِ القِطَعِ مُبَاشَرَةً إِلَى خَطِّ الإِنْتَاجِ لِتَقْلِيلِ تَكَالِيفِ التَّخْزِينِ"
+      },
+      "german": {
+        "word": "die Just-in-Time-Lieferung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Just-in-Time-Lieferungen",
+        "example": "Just-in-Time-Lieferungen erfordern fehlerfreie logistische Abstimmung ohne Verzögerung."
+      },
+      "english": {
+        "word": "just-in-time delivery",
+        "example": "Just-in-time deliveries demand flawless logistical coordination without delay."
+      }
+    },
+    {
+      "id": "log_024",
+      "icon": "log_zolllager",
+      "arabic": {
+        "word": "المُسْتَوْدَعُ الجُمْرُكِيّ",
+        "meaning": "مُسْتَوْدَعٌ مَحْمِيٌّ قَانُونِيًّا يَتِمُّ فِيهِ تَخْزِينُ البَضَائِعِ المُسْتَوْرَدَةِ دُونَ سَدَادِ الرُّسُومِ فَوْرًا"
+      },
+      "german": {
+        "word": "das Zolllager",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Zolllager",
+        "example": "Im Zolllager können Importwaren unversteuert gelagert werden, bis sie weiterverarbeitet werden."
+      },
+      "english": {
+        "word": "bonded warehouse",
+        "example": "In a bonded warehouse, imported goods can be stored duty-free until further processing."
+      }
+    },
+    {
+      "id": "log_025",
+      "icon": "log_schiedsgericht",
+      "arabic": {
+        "word": "مَحْكَمَةُ التَّحْكِيمِ البَحْرِيّ",
+        "meaning": "هَيْئَةُ فَضِّ مُنَازَعَاتٍ مُتَخَصِّصَةٌ لِحَلِّ الخِلَافَاتِ النَّاشِئَةِ عَنْ عُقُودِ الشَّحْنِ وَالتَّأْمِينِ البَحْرِيِّ"
+      },
+      "german": {
+        "word": "das Schiedsgericht für Seerecht",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Schiedsgerichte für Seerecht",
+        "example": "Internationale Reedereien vereinbaren oft London oder Hamburg als Sitz des Schiedsgerichts für Seerecht."
+      },
+      "english": {
+        "word": "maritime arbitration tribunal",
+        "example": "International shipping lines often designate London or Hamburg as seat for maritime arbitration."
+      }
+    }
+  ]
+}

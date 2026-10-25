@@ -1,0 +1,148 @@
+{
+  "engine_id": "idiomatic_synthesis_c1",
+  "title": {
+    "ar": "التعابير الاصطلاحية الأكاديمية والتركيب الامتحاني الرفيع (C1)",
+    "de": "Akademische Idiomatik & C1-Prüfungssynthese",
+    "en": "Academic Idioms & C1 Exam Synthesis Matrix"
+  },
+  "level": "C1",
+  "concept_overview": {
+    "de": "Idiomatische Redewendungen auf C1/C2-Niveau verleihen akademischen Essays und mündlichen Prüfungen stilistische Eleganz und rhetorische Überzeugungskraft.",
+    "ar": "تَمْنَحُ التَّعَابِيرُ الِاصْطِلَاحِيَّةُ الرَّفِيعَةُ فِي مُسْتَوَى C1 النُّصُوصَ الأَكَادِيمِيَّةَ وَالامْتِحَانَاتِ الشَّفَهِيَّةَ أَنَاقَةً أُسْلُوبِيَّةً وَقُوَّةً إِقْنَاعِيَّةً اسْتِثْنَائِيَّةً.",
+    "en": "Advanced idiomatic expressions at C1/C2 level grant academic essays and oral presentations stylistic elegance and rhetorical persuasiveness."
+  },
+  "idioms": [
+    {
+      "phrase": "das Zünglein an der Waage sein",
+      "literal_origin": "der Zeiger an einer mechanischen Waage",
+      "figurative_meaning_de": "den entscheidenden Ausschlag geben",
+      "meaning_ar": "يَكُونُ العَامِلَ الحَاسِمَ الَّذِي يَرْجَحُ بِهِ المِيزَانُ",
+      "meaning_en": "to tip the balance / to be the deciding factor",
+      "icon": "idiom_waage"
+    },
+    {
+      "phrase": "den Teufelskreis durchbrechen",
+      "literal_origin": "eine verhängnisvolle Kreisbewegung",
+      "figurative_meaning_de": "eine Kette negativer Wechselwirkungen beenden",
+      "meaning_ar": "يَكْسِرُ الحَلْقَةَ المُفْرَغَةَ مِنَ الآثَارِ السَّلْبِيَّةِ المُتَكَرِّرَةِ",
+      "meaning_en": "to break the vicious cycle",
+      "icon": "idiom_teufelskreis"
+    },
+    {
+      "phrase": "den Tatsachen ins Auge sehen",
+      "literal_origin": "den Blick unverwandt auf die Fakten richten",
+      "figurative_meaning_de": "die Realität mutig und schonungslos anerkennen",
+      "meaning_ar": "يُوَاجِهُ الحَقَائِقَ وَالوَاقِعَ بِشَجَاعَةٍ وَدُونَ مُوَارَبَةٍ",
+      "meaning_en": "to face the facts / to confront reality squarely",
+      "icon": "idiom_tatsachen"
+    },
+    {
+      "phrase": "auf Messers Schneide stehen",
+      "literal_origin": "die schmale, scharfe Schneide einer Klinge",
+      "figurative_meaning_de": "äußerst kritisch oder ungewiss sein",
+      "meaning_ar": "يَقِفُ عَلَى حَدِّ السِّكِّينِ (فِي وَضْعٍ حَرِجٍ وَمَصِيرِيٍّ)",
+      "meaning_en": "to be on a knife-edge / on the razor's edge",
+      "icon": "idiom_messer"
+    },
+    {
+      "phrase": "neue Maßstäbe setzen",
+      "literal_origin": "Messlatte oder Normmaß festlegen",
+      "figurative_meaning_de": "ein neues Qualitätsniveau etablieren",
+      "meaning_ar": "يُرْسِي مَعَايِيرَ جَدِيدَةً غَيْرَ مَسْبُوقَةٍ لِلْجَوْدَةِ",
+      "meaning_en": "to set new benchmarks / to raise the bar",
+      "icon": "idiom_massstab"
+    }
+  ],
+  "practice_templates": [
+    {
+      "id": "tpl_idiom_01",
+      "idiom": "das Zünglein an der Waage sein",
+      "icon": "idiom_waage",
+      "german": "In den zähen Verhandlungen war die Stimme der unabhängigen Fraktion das Zünglein an der Waage.",
+      "arabic": "فِي المُفَاوَضَاتِ المُسْتَعْصِيَةِ، كَانَ صَوْتُ الكُتْلَةِ المُسْتَقِلَّةِ هُوَ العَامِلَ الحَاسِمَ الَّذِي رَجَّحَ الكَفَّةَ.",
+      "english": "In the arduous negotiations, the vote of the independent caucus was the deciding factor.",
+      "stylistic_tier": "C1 Geopolitischer Diskurs"
+    },
+    {
+      "id": "tpl_idiom_02",
+      "idiom": "den Teufelskreis durchbrechen",
+      "icon": "idiom_teufelskreis",
+      "german": "Gezielte Investitionen in frühkindliche Bildung können den Teufelskreis der Armut nachhaltig durchbrechen.",
+      "arabic": "الاسْتِثْمَارَاتُ المُوَجَّهَةُ فِي تَعْلِيمِ الطُّفُولَةِ المُبَكِّرَةِ يُمْكِنُهَا أَنْ تَكْسِرَ الحَلْقَةَ المُفْرَغَةَ لِلْفَقْرِ بِشَكْلٍ مُسْتَدَامٍ.",
+      "english": "Targeted investments in early childhood education can sustainably break the vicious cycle of poverty.",
+      "stylistic_tier": "C1 Soziologische Analyse"
+    },
+    {
+      "id": "tpl_idiom_03",
+      "idiom": "den Tatsachen ins Auge sehen",
+      "icon": "idiom_tatsachen",
+      "german": "Die Staatengemeinschaft muss den Tatsachen ins Auge sehen und ihre Klimaziele drastisch verschärfen.",
+      "arabic": "يَجِبُ عَلَى المُجْتَمَعِ الدَّوْلِيِّ أَنْ يُوَاجِهَ الحَقَائِقَ بِشَجَاعَةٍ وَأَنْ يُشَدِّدَ أَهْدَافَهُ المُنَاخِيَّةَ جَذْرِيًّا.",
+      "english": "The international community must face the facts and drastically tighten its climate targets.",
+      "stylistic_tier": "C1 Umwelt- und Energiepolitik"
+    },
+    {
+      "id": "tpl_idiom_04",
+      "idiom": "auf Messers Schneide stehen",
+      "icon": "idiom_messer",
+      "german": "Der Erfolg des gesamten wirtschaftlichen Sanierungsplans stand wochenlang auf Messers Schneide.",
+      "arabic": "كَانَ نَجَاحُ خُطَّةِ الإِنْقَاذِ الِاقْتِصَادِيِّ بِرُمَّتِهَا وَاقِفًا عَلَى حَدِّ السِّكِّينِ طَوَالَ أَسَابِيعَ عِدَّةٍ.",
+      "english": "The success of the entire economic recovery plan hung on a knife-edge for weeks.",
+      "stylistic_tier": "C1 Finanz- und Wirtschaftsbericht"
+    },
+    {
+      "id": "tpl_idiom_05",
+      "idiom": "neue Maßstäbe setzen",
+      "icon": "idiom_massstab",
+      "german": "Die Entwicklung des Quantenprozessors setzt neue Maßstäbe in der globalen Hochleistungsrechnung.",
+      "arabic": "تَطْوِيرُ المُعَالِجِ الكَمِّيِّ يُرْسِي مَعَايِيرَ جَدِيدَةً غَيْرَ مَسْبُوقَةٍ فِي الحَوْسَبَةِ فَائِقَةِ الأَدَاءِ عَالَمِيًّا.",
+      "english": "The development of the quantum processor sets new benchmarks in global high-performance computing.",
+      "stylistic_tier": "C1 Deep-Tech & Innovation"
+    },
+    {
+      "id": "tpl_idiom_06",
+      "idiom": "die Weichen für die Zukunft stellen",
+      "icon": "idiom_weichen",
+      "german": "Mit dieser multilateralen Vereinbarung stellen die Nationen entscheidende Weichen für die Zukunft.",
+      "arabic": "بِهَذَا الِاتِّفَاقِ مُتَعَدِّدِ الأَطْرَافِ، تَضَعُ الدُّوَلُ المَسَارَاتِ الحَاسِمَةَ لِصِيَاغَةِ المُسْتَقْبَلِ.",
+      "english": "With this multilateral agreement, the nations set decisive tracks for the future.",
+      "stylistic_tier": "C1 Diplomatische Erklärung"
+    },
+    {
+      "id": "tpl_idiom_07",
+      "idiom": "aus dem Vollen schöpfen",
+      "icon": "idiom_schroepfen",
+      "german": "Dank üppiger Fördergelder konnte das Forschungsinstitut bei der Ausstattung aus dem Vollen schöpfen.",
+      "arabic": "بِفَضْلِ أَمْوَالِ الدَّعْمِ السَّخِيَّةِ، اسْتَطَاعَ مَعْهَدُ البَحْثِ العِلْمِيِّ الاسْتِفَادَةَ مِنَ المَوَارِدِ بِوَفْرَةٍ لَا مَحْدُودَةٍ.",
+      "english": "Thanks to lavish grant funding, the research institute was able to draw from ample resources for equipment.",
+      "stylistic_tier": "C1 Akademische Wissenschaftsförderung"
+    },
+    {
+      "id": "tpl_idiom_08",
+      "idiom": "in die Schranken weisen",
+      "icon": "idiom_schranken",
+      "german": "Das Verfassungsgericht wies den Gesetzgeber mit deutlichen Worten in die verfassungsrechtlichen Schranken.",
+      "arabic": "أَلْزَمَتِ المَحْكَمَةُ الدُّسْتُورِيَّةُ المُشَرِّعَ بِعِبَارَاتٍ قَاطِعَةٍ بِالوُقُوفِ عِنْدَ الحُدُودِ الدُّسْتُورِيَّةِ المَرْسُومَةِ.",
+      "english": "The constitutional court firmly put the legislature in its place within constitutional boundaries.",
+      "stylistic_tier": "C1 Juristische Rechtsprechung"
+    },
+    {
+      "id": "tpl_idiom_09",
+      "idiom": "den Nagel auf den Kopf treffen",
+      "icon": "idiom_nagel",
+      "german": "Ihre präzise Kritik an den bürokratischen Hürden traf den Nagel exakt auf den Kopf.",
+      "arabic": "أَصَابَ انْتِقَادُهَا الدَّقِيقُ لِلْعَرَاقِيلِ البِيرُوقْرَاطِيَّةِ كَبِدَ الحَقِيقَةِ تَمَامًا.",
+      "english": "Her precise critique of bureaucratic hurdles hit the nail right on the head.",
+      "stylistic_tier": "C1 Rhetorische Argumentation"
+    },
+    {
+      "id": "tpl_idiom_10",
+      "idiom": "mit zweierlei Maß messen",
+      "icon": "idiom_zweierlei",
+      "german": "In internationalen Menschenrechtsfragen darf die Staatengemeinschaft keinesfalls mit zweierlei Maß messen.",
+      "arabic": "فِي قَضَايَا حُقُوقِ الإِنْسَانِ الدَّوْلِيَّةِ، لَا يَجُوزُ لِلْمُجْتَمَعِ الدَّوْلِيِّ بِأَيِّ حَالٍ أَنْ يَكِيلَ بِمِكْيَالَيْنِ.",
+      "english": "In international human rights matters, the global community must by no means apply double standards.",
+      "stylistic_tier": "C1 Völkerrecht & Ethik"
+    }
+  ]
+}

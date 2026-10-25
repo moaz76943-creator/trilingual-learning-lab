@@ -1,0 +1,488 @@
+{
+  "category_id": "diplomatic_protocol_c1",
+  "category_number": 53,
+  "level": "C1",
+  "title": {
+    "ar": "البروتوكول الدبلوماسي، صياغة المعاهدات وحصانة الدول",
+    "de": "Diplomatisches Protokoll, Vertragsrecht & Staatenimmunität",
+    "en": "Diplomatic Protocol, Treaty Drafting & State Immunity"
+  },
+  "icon": "dip_protokoll",
+  "concepts": [
+    {
+      "id": "dip_001",
+      "icon": "dip_protokoll",
+      "arabic": {
+        "word": "البُرُوتُوكُولُ الدِّبْلُومَاسِيّ",
+        "meaning": "مَجْمُوعُ القَوَاعِدِ وَالتَّقَالِيدِ الرَّسْمِيَّةِ المُلْزِمَةِ لِتَنْظِيمِ العَلَاقَاتِ وَالمَرَاسِمِ بَيْنَ الدُّوَلِ"
+      },
+      "german": {
+        "word": "das diplomatische Protokoll",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die diplomatischen Protokolle",
+        "example": "Das diplomatische Protokoll regelt die präzise Rangordnung bei Staatsbesuchen."
+      },
+      "english": {
+        "word": "diplomatic protocol",
+        "example": "Diplomatic protocol governs the precise order of precedence during state visits."
+      }
+    },
+    {
+      "id": "dip_002",
+      "icon": "dip_beglaubigung",
+      "arabic": {
+        "word": "أَوْرَاقُ الِاعْتِمَاد",
+        "meaning": "وَثِيقَةٌ رَسْمِيَّةٌ يُقَدِّمُهَا السَّفِيرُ لِرَئِيسِ الدَّوْلَةِ المُضِيفَةِ لِبَدْءِ مَهَامِّهِ"
+      },
+      "german": {
+        "word": "das Beglaubigungsschreiben",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Beglaubigungsschreiben",
+        "example": "Der neue Botschafter überreichte dem Bundespräsidenten sein Beglaubigungsschreiben."
+      },
+      "english": {
+        "word": "letter of credence / credentials",
+        "example": "The new ambassador presented his letter of credence to the Federal President."
+      }
+    },
+    {
+      "id": "dip_003",
+      "icon": "dip_botschafter",
+      "arabic": {
+        "word": "السَّفِيرُ فَوْقَ العَادَة",
+        "meaning": "أَعْلَى رُتْبَةٍ دِبْلُومَاسِيَّةٍ تُمَثِّلُ رَئِيسَ الدَّوْلَةِ لَدَى دَوْلَةٍ أُخْرَى"
+      },
+      "german": {
+        "word": "der außerordentliche Botschafter",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die außerordentlichen Botschafter",
+        "example": "Als außerordentlicher Botschafter genießt er höchste diplomatische Vorrechte."
+      },
+      "english": {
+        "word": "ambassador extraordinary",
+        "example": "As ambassador extraordinary, he enjoys supreme diplomatic privileges."
+      }
+    },
+    {
+      "id": "dip_004",
+      "icon": "dip_immunitaet",
+      "arabic": {
+        "word": "الحَصَانَةُ الدِّبْلُومَاسِيَّة",
+        "meaning": "إِعْفَاءٌ قَانُونِيٌّ يَحْمِي المَبْعُوثِينَ الدِّبْلُومَاسِيِّينَ مِنَ الخُضُوعِ لِقَضَاءِ الدَّوْلَةِ المُضِيفَةِ"
+      },
+      "german": {
+        "word": "die diplomatische Immunität",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die diplomatischen Immunitäten",
+        "example": "Diplomatische Immunität schützt Diplomaten vor strafrechtlicher Verfolgung im Empfangsstaat."
+      },
+      "english": {
+        "word": "diplomatic immunity",
+        "example": "Diplomatic immunity protects diplomats from criminal prosecution in the receiving state."
+      }
+    },
+    {
+      "id": "dip_005",
+      "icon": "dip_staatenimmunitaet",
+      "arabic": {
+        "word": "حَصَانَةُ الدُّوَل",
+        "meaning": "مَبْدَأٌ يَمْنَعُ مَحَاكِمَ دَوْلَةٍ مَا مِنْ مُقَاضَاةِ دَوْلَةٍ أُخْرَى ذَاتِ سِيَادَةٍ دُونَ رِضَاهَا"
+      },
+      "german": {
+        "word": "die Staatenimmunität",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Staatenimmunitäten",
+        "example": "Nach dem Grundsatz der Staatenimmunität kann ein Staat nicht vor ausländischen Gerichten verklagt werden."
+      },
+      "english": {
+        "word": "state immunity / sovereign immunity",
+        "example": "Under the principle of state immunity, a sovereign state cannot be sued in foreign courts."
+      }
+    },
+    {
+      "id": "dip_006",
+      "icon": "dip_wien",
+      "arabic": {
+        "word": "اتِّفَاقِيَّةُ فِينَّا",
+        "meaning": "المُعَاهَدَةُ الدَّوْلِيَّةُ الشَّامِلَةُ لِعَامِ 1961 الَّتِي تُقَنِّنُ الحُقُوقَ وَالحَصَانَاتِ الدِّبْلُومَاسِيَّةَ"
+      },
+      "german": {
+        "word": "die Wiener Diplomatenkonvention",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Wiener Konventionen",
+        "example": "Die Wiener Diplomatenkonvention bildet das weltweite Fundament friedlicher zwischenstaatlicher Beziehungen."
+      },
+      "english": {
+        "word": "Vienna Convention on Diplomatic Relations",
+        "example": "The Vienna Convention on Diplomatic Relations forms the global foundation of peaceful inter-state relations."
+      }
+    },
+    {
+      "id": "dip_007",
+      "icon": "dip_demarche",
+      "arabic": {
+        "word": "المَسْعَى الدِّبْلُومَاسِيّ (الدِّيمَارْش)",
+        "meaning": "خُطْوَةٌ رَسْمِيَّةٌ تَقُومُ بِهَا حُكُومَةٌ لَدَى حُكُومَةٍ أُخْرَى لِإِبْدَاءِ احْتِجَاجٍ أَوْ طَلَبِ تَسْوِيَةٍ"
+      },
+      "german": {
+        "word": "die Démarche",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Démarchen",
+        "example": "Das Auswärtige Amt übermittelte eine scharfe diplomatische Démarche an die Botschaft."
+      },
+      "english": {
+        "word": "démarche",
+        "example": "The Foreign Office delivered a sharp diplomatic démarche to the embassy."
+      }
+    },
+    {
+      "id": "dip_008",
+      "icon": "dip_aidememoire",
+      "arabic": {
+        "word": "المُذَكِّرَةُ التَّذْكِيرِيَّة",
+        "meaning": "مُسْتَنَدٌ خَطِّيٌّ غَيْرُ مُوَقَّعٍ يُسَلَّمُ لِتَلْخِيصِ وَتَأْكِيدِ نُقَاطِ مُحَادَثَةٍ شَفَهِيَّةٍ"
+      },
+      "german": {
+        "word": "das Aide-Mémoire",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Aide-Mémoires",
+        "example": "Der Unterhändler übergab ein präzises Aide-Mémoire zur Festhaltung der Verhandlungspunkte."
+      },
+      "english": {
+        "word": "aide-mémoire / pro-memoria",
+        "example": "The negotiator handed over a concise aide-mémoire recording the discussion points."
+      }
+    },
+    {
+      "id": "dip_009",
+      "icon": "dip_verbalnote",
+      "arabic": {
+        "word": "المُذَكِّرَةُ الشَّفَهِيَّةُ الرَّسْمِيَّة",
+        "meaning": "مُرَاسَلَةٌ دِبْلُومَاسِيَّةٌ مَكْتُوبَةٌ بِصِيغَةِ الغَائِبِ تَحْمِلُ خَتْمَ السِّفَارَةِ لِتَبَادُلِ الرَّسَائِلِ"
+      },
+      "german": {
+        "word": "die Verbalnote",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Verbalnoten",
+        "example": "In einer förmlichen Verbalnote bekundete das Ministerium seine Bereitschaft zum Dialog."
+      },
+      "english": {
+        "word": "note verbale / verbal note",
+        "example": "In a formal note verbale, the ministry expressed its willingness to engage in dialogue."
+      }
+    },
+    {
+      "id": "dip_010",
+      "icon": "dip_praeambel",
+      "arabic": {
+        "word": "دِيبَاجَةُ المُعَاهَدَة",
+        "meaning": "المُقَدِّمَةُ الِافْتِتَاحِيَّةُ لِلْمُعَاهَدَةِ الَّتِي تُحَدِّدُ فَلْسَفَتَهَا وَأَهْدَافَهَا السَّامِيَةَ"
+      },
+      "german": {
+        "word": "die Präambel",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Präambeln",
+        "example": "Die Präambel des Staatsvertrags betont den gemeinsamen Willen zur friedlichen Koexistenz."
+      },
+      "english": {
+        "word": "preamble",
+        "example": "The preamble of the state treaty emphasizes the shared will for peaceful coexistence."
+      }
+    },
+    {
+      "id": "dip_011",
+      "icon": "dip_vorbehalt",
+      "arabic": {
+        "word": "التَّحَفُّظُ عَلَى المُعَاهَدَة",
+        "meaning": "إِعْلَانٌ رَسْمِيٌّ تَسْتَبْعِدُ بِهِ الدَّوْلَةُ أَوْ تُعَدِّلُ الأَثَرَ القَانُونِيَّ لِبَعْضِ مَوَادِّ الِاتِّفَاقِيَّةِ"
+      },
+      "german": {
+        "word": "der Vertragsvorbehalt",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Vertragsvorbehalte",
+        "example": "Einige Staaten unterzeichneten das Abkommen nur unter Vorbehalt bestimmter Klauseln."
+      },
+      "english": {
+        "word": "treaty reservation",
+        "example": "Several states signed the agreement only with a reservation regarding certain clauses."
+      }
+    },
+    {
+      "id": "dip_012",
+      "icon": "dip_urkunde",
+      "arabic": {
+        "word": "وَثِيقَةُ التَّصْدِيق",
+        "meaning": "الصَّكُّ الرَّسْمِيُّ الصَّادِرُ عَنِ السُّلْطَةِ العُلْيَا الَّذِي يُؤَكِّدُ التِزَامَ الدَّوْلَةِ النِّهَائِيَّ بِالمُعَاهَدَةِ"
+      },
+      "german": {
+        "word": "die Ratifizierungsurkunde",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Ratifizierungsurkunden",
+        "example": "Die feierliche Hinterlegung der Ratifizierungsurkunde fand am UN-Hauptsitz statt."
+      },
+      "english": {
+        "word": "instrument of ratification",
+        "example": "The solemn deposit of the instrument of ratification took place at UN Headquarters."
+      }
+    },
+    {
+      "id": "dip_013",
+      "icon": "dip_depositar",
+      "arabic": {
+        "word": "الجِهَةُ المُودَعُ لَدَيْهَا",
+        "meaning": "الدَّوْلَةُ أَوْ المُنَظَّمَةُ المَسْؤُولَةُ عَنْ حِفْظِ النُّسَخِ الأَصْلِيَّةِ لِلْمُعَاهَدَةِ وَتَلَقِّي التَّصْدِيقَاتِ"
+      },
+      "german": {
+        "word": "der Depositar",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Depositare",
+        "example": "Der Generalsekretär der Vereinten Nationen fungiert als Depositar des Pariser Klimaabkommens."
+      },
+      "english": {
+        "word": "depositary",
+        "example": "The Secretary-General of the United Nations acts as the depositary of the Paris Agreement."
+      }
+    },
+    {
+      "id": "dip_014",
+      "icon": "dip_inkrafttreten",
+      "arabic": {
+        "word": "دُخُولُ حَيِّزِ النَّفَاذ",
+        "meaning": "اللَّحْظَةُ القَانُونِيَّةُ الَّتِي تُصْبِحُ فِيهَا المُعَاهَدَةُ مُلْزِمَةً دَوْلِيًّا بَعْدَ اسْتِيفَاءِ النِّصَابِ"
+      },
+      "german": {
+        "word": "das Inkrafttreten",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Inkrafttretensdaten",
+        "example": "Das multilaterale Handelsabkommen ist dreißig Tage nach der zehnten Ratifizierung in Kraft getreten."
+      },
+      "english": {
+        "word": "entry into force",
+        "example": "The multilateral trade agreement entered into force thirty days after the tenth ratification."
+      }
+    },
+    {
+      "id": "dip_015",
+      "icon": "dip_kuendigung",
+      "arabic": {
+        "word": "بَنْدُ الِانْسِحَابِ / الفَسْخ",
+        "meaning": "شَرْطٌ تَعَاقُدِيٌّ يُحَدِّدُ إِجْرَاءَاتِ وَمُدَدَ إِنْهَاءِ الِالْتِزَامِ بِالمُعَاهَدَةِ دَوْلِيًّا"
+      },
+      "german": {
+        "word": "die Kündigungsklausel",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Kündigungsklauseln",
+        "example": "Die Kündigungsklausel sieht eine einjährige Frist für den formalen Austritt aus der Union vor."
+      },
+      "english": {
+        "word": "denunciation clause / exit clause",
+        "example": "The denunciation clause stipulates a one-year notice period for formal withdrawal from the union."
+      }
+    },
+    {
+      "id": "dip_016",
+      "icon": "dip_geschaeftstraeger",
+      "arabic": {
+        "word": "القَائِمُ بِالأَعْمَال",
+        "meaning": "دِبْلُومَاسِيٌّ يَتَوَلَّى رِئَاسَةَ البِعْثَةِ الدِّبْلُومَاسِيَّةِ مُؤَقَّتًا عِنْدَ غِيَابِ السَّفِيرِ"
+      },
+      "german": {
+        "word": "der Geschäftsträger",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Geschäftsträger",
+        "example": "In Abwesenheit des Botschafters übernahm der Geschäftsträger die Leitung der diplomatischen Vertretung."
+      },
+      "english": {
+        "word": "chargé d'affaires",
+        "example": "In the absence of the ambassador, the chargé d'affaires assumed head of the diplomatic mission."
+      }
+    },
+    {
+      "id": "dip_017",
+      "icon": "dip_personanongrata",
+      "arabic": {
+        "word": "شَخْصٌ غَيْرُ مَرْغُوبٍ فِيهِ",
+        "meaning": "إِجْرَاءٌ دَوْلِيٌّ تُعْلِنُ بِهِ الدَّوْلَةُ المُضِيفَةُ رَفْضَهَا لِبَقَاءِ دِبْلُومَاسِيٍّ أَجْنَبِيٍّ عَلَى أَرَاضِيهَا"
+      },
+      "german": {
+        "word": "die Persona non grata",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Personae non gratae",
+        "example": "Der Diplomat wurde wegen Spionagevorwürfen zur Persona non grata erklärt und musste ausreisen."
+      },
+      "english": {
+        "word": "persona non grata",
+        "example": "The diplomat was declared persona non grata over espionage allegations and had to depart."
+      }
+    },
+    {
+      "id": "dip_018",
+      "icon": "dip_akkreditierung",
+      "arabic": {
+        "word": "الِاعْتِمَادُ الدِّبْلُومَاسِيّ",
+        "meaning": "إِجْرَاءُ حُصُولِ الدِّبْلُومَاسِيِّ عَلَى قَبُولِ وَاعْتِرَافِ الحُكُومَةِ المُضِيفَةِ"
+      },
+      "german": {
+        "word": "die Akkreditierung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Akkreditierungen",
+        "example": "Die förmliche Akkreditierung bei den Vereinten Nationen berechtigt zur Teilnahme an den Vollversammlungen."
+      },
+      "english": {
+        "word": "diplomatic accreditation",
+        "example": "Formal accreditation to the United Nations entitles participation in General Assembly sessions."
+      }
+    },
+    {
+      "id": "dip_019",
+      "icon": "dip_konsulat",
+      "arabic": {
+        "word": "القُنْصُلِيَّةُ العَامَّة",
+        "meaning": "بِعْثَةٌ تُمَثِّلُ الدَّوْلَةَ لِرِعَايَةِ شُؤُونِ رَعَايَاهَا وَمَصَالِحِهِمْ التِّجَارِيَّةِ خَارِجَ العَاصِمَةِ"
+      },
+      "german": {
+        "word": "das Generalkonsulat",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Generalkonsulate",
+        "example": "Das Generalkonsulat stellt Visa aus und leistet consularischen Beistand für Landsleute."
+      },
+      "english": {
+        "word": "consulate general",
+        "example": "The consulate general issues visas and provides consular assistance to compatriots."
+      }
+    },
+    {
+      "id": "dip_020",
+      "icon": "dip_exequatur",
+      "arabic": {
+        "word": "إِجَازَةُ العَمَلِ القُنْصُلِيّ",
+        "meaning": "إِذْنٌ رَسْمِيٌّ تَمْنَحُهُ حُكُومَةُ الدَّوْلَةِ المُضِيفَةِ لِلْقُنْصُلِ لِمُمَارَسَةِ صَلَاحِيَّاتِهِ"
+      },
+      "german": {
+        "word": "das Exequatur",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Exequaturen",
+        "example": "Erst nach Erteilung des Exequaturs durch den Gaststaat darf der Konsul sein Amt antreten."
+      },
+      "english": {
+        "word": "exequatur",
+        "example": "Only after the host state issues the exequatur may the consul assume office."
+      }
+    },
+    {
+      "id": "dip_021",
+      "icon": "dip_note",
+      "arabic": {
+        "word": "المُرَاسَلَةُ الدِّبْلُومَاسِيَّة",
+        "meaning": "خِطَابٌ رَسْمِيٌّ مُوَقَّعٌ مُوَجَّهٌ مِنْ سَفِيرٍ إِلَى وَزِيرِ الخَارِجِيَّةِ مُبَاشَرَةً"
+      },
+      "german": {
+        "word": "die diplomatische Note",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die diplomatischen Noten",
+        "example": "Die diplomatische Note enthielt formelle Bedenken hinsichtlich der jüngsten Grenzvorfälle."
+      },
+      "english": {
+        "word": "diplomatic note",
+        "example": "The diplomatic note conveyed formal concerns regarding the recent border incidents."
+      }
+    },
+    {
+      "id": "dip_022",
+      "icon": "dip_zeremonie",
+      "arabic": {
+        "word": "مَسْؤُولُ المَرَاسِم",
+        "meaning": "المَسْؤُولُ عَنْ تَنْظِيمِ وَتَنْفِيذِ قَوَاعِدِ التَّشْرِيفَاتِ وَالبُرُوتُوكُولِ فِي المُنَاسَبَاتِ الكُبْرَى"
+      },
+      "german": {
+        "word": "der Protokollchef",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Protokollchefs",
+        "example": "Der Protokollchef überwacht minutiös den Ablauf des Staatsbanketts."
+      },
+      "english": {
+        "word": "chief of protocol",
+        "example": "The chief of protocol meticulously oversees the conduct of the state banquet."
+      }
+    },
+    {
+      "id": "dip_023",
+      "icon": "dip_rang",
+      "arabic": {
+        "word": "تَرْتِيبُ الأَسْبَقِيَّة",
+        "meaning": "التَّرْتِيبُ الهَرَمِيُّ المَعْمُولُ بِهِ فِي الجُلُوسِ وَالاسْتِقْبَالِ حَسَبَ تَارِيخِ اعْتِمَادِ السُّفَرَاءِ"
+      },
+      "german": {
+        "word": "die diplomatische Rangordnung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Rangordnungen",
+        "example": "Die diplomatische Rangordnung richtet sich streng nach dem Datum der Übergabe des Beglaubigungsschreibens."
+      },
+      "english": {
+        "word": "order of precedence",
+        "example": "Diplomatic precedence strictly follows the date of presentation of credentials."
+      }
+    },
+    {
+      "id": "dip_024",
+      "icon": "dip_souveraen",
+      "arabic": {
+        "word": "المُسَاوَاةُ فِي السِّيَادَة",
+        "meaning": "مَبْدَأٌ دَوْلِيٌّ يَنُصُّ عَلَى تَسَاوِي جَمِيعِ الدُّوَلِ قَانُونِيًّا مَهْمَا اخْتَلَفَتْ مِسَاحَتُهَا أَوْ قُوَّتُهَا"
+      },
+      "german": {
+        "word": "die souveräne Gleichheit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die souveränen Gleichheiten",
+        "example": "Artikel 2 der UN-Charta verankert den Grundsatz der souveränen Gleichheit aller Mitgliedstaaten."
+      },
+      "english": {
+        "word": "sovereign equality",
+        "example": "Article 2 of the UN Charter enshrines the principle of sovereign equality of all member states."
+      }
+    },
+    {
+      "id": "dip_025",
+      "icon": "dip_gewohnheitsrecht",
+      "arabic": {
+        "word": "القَانُونُ العُرْفِيُّ الدَّوْلِيّ",
+        "meaning": "قَوَاعِدُ قَانُونِيَّةٌ مُلْزِمَةٌ نَشَأَتْ عَنْ مُمَارَسَاتٍ دَوْلِيَّةٍ مُسْتَقِرَّةٍ مَقْرُونَةٍ بِالشُّعُورِ بِإِلْزَامِهَا"
+      },
+      "german": {
+        "word": "das Völkergewohnheitsrecht",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Völkergewohnheitsrechte",
+        "example": "Zahlreiche diplomatische Vorrechte galten bereits als Völkergewohnheitsrecht vor ihrer Kodifikation."
+      },
+      "english": {
+        "word": "customary international law",
+        "example": "Numerous diplomatic privileges were already established as customary international law prior to codification."
+      }
+    }
+  ]
+}

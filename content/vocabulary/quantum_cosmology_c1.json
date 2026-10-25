@@ -1,0 +1,488 @@
+{
+  "category_id": "quantum_cosmology_c1",
+  "category_number": 49,
+  "level": "C1",
+  "title": {
+    "ar": "فيزياء الكم، علم الكونيات والتقنيات العميقة",
+    "de": "Quantenphysik, Kosmologie & Deep Tech",
+    "en": "Quantum Physics, Cosmology & Deep Tech"
+  },
+  "icon": "qc_quantenmechanik",
+  "concepts": [
+    {
+      "id": "qc_001",
+      "icon": "qc_quantenmechanik",
+      "arabic": {
+        "word": "مِيكَانِيكَا الكَمّ",
+        "meaning": "النَّظَرِيَّةُ الفِيزْيَائِيَّةُ الَّتِي تَصِفُ سُلُوكَ المَادَّةِ وَالطَّاقَةِ عَلَى المُسْتَوَى الذَّرِّيِّ وَدُونَ الذَّرِّيِّ"
+      },
+      "german": {
+        "word": "die Quantenmechanik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Quantenmechaniken",
+        "example": "Die Quantenmechanik widerspricht in vielen Punkten unserer alltäglichen makroskopischen Anschauung."
+      },
+      "english": {
+        "word": "quantum mechanics",
+        "example": "Quantum mechanics contradicts our everyday macroscopic intuition in many respects."
+      }
+    },
+    {
+      "id": "qc_002",
+      "icon": "qc_verschraenkung",
+      "arabic": {
+        "word": "التَّشَابُكُ الكَمِّيّ",
+        "meaning": "ظَاهِرَةٌ يَرْتَبِطُ فِيهَا جُسَيْمَانِ بِحَيْثُ يُحَدِّدُ قِيَاسُ أَحَدِهِمَا حَالَةَ الآخَرِ لَحْظِيًّا مَهْمَا تَبَاعَدَا"
+      },
+      "german": {
+        "word": "die Quantenverschränkung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Quantenverschränkungen",
+        "example": "Albert Einstein bezeichnete die Quantenverschränkung skeptisch als 'spukhafte Fernwirkung'."
+      },
+      "english": {
+        "word": "quantum entanglement",
+        "example": "Albert Einstein skeptically referred to quantum entanglement as 'spooky action at a distance'."
+      }
+    },
+    {
+      "id": "qc_003",
+      "icon": "qc_superposition",
+      "arabic": {
+        "word": "التَّرَاكُبُ الكَمِّيّ",
+        "meaning": "قُدْرَةُ الجُسَيْمِ الكَمِّيِّ عَلَى التَّوَاجُدِ فِي حَالَاتٍ مُتَعَدِّدَةٍ فِي آنٍ وَاحِدٍ قَبْلَ رَصْدِهِ"
+      },
+      "german": {
+        "word": "die Superposition",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Superpositionen",
+        "example": "Ein Qubit kann sich dank der Superposition gleichzeitig im Zustand 0 und 1 befinden."
+      },
+      "english": {
+        "word": "superposition",
+        "example": "A qubit can be in states 0 and 1 simultaneously thanks to superposition."
+      }
+    },
+    {
+      "id": "qc_004",
+      "icon": "qc_raumzeit",
+      "arabic": {
+        "word": "الزَّمَكَان",
+        "meaning": "النَّسِيجُ الرُّبَاعِيُّ الأَبْعَادِ الَّذِي يَدْمِجُ الأَبْعَادَ المَكَانِيَّةَ الثَّلَاثَةَ مَعَ الزَّمَنِ"
+      },
+      "german": {
+        "word": "die Raumzeit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Raumzeiten",
+        "example": "Schwere Massen wie Sterne krümmen die umgebende Raumzeit."
+      },
+      "english": {
+        "word": "spacetime",
+        "example": "Heavy masses such as stars curve the surrounding spacetime."
+      }
+    },
+    {
+      "id": "qc_005",
+      "icon": "qc_gravitationswelle",
+      "arabic": {
+        "word": "مَوْجَةُ الجَاذِبِيَّة",
+        "meaning": "تَمَوُّجٌ فِي نَسِيجِ الزَّمَكَانِ يَنْتِجُ عَنْ تَسَارُعِ كُتَلٍ كَوْنِيَّةٍ هَائِلَةٍ"
+      },
+      "german": {
+        "word": "die Gravitationswelle",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Gravitationswellen",
+        "example": "Die Entdeckung von Gravitationswellen bestätigte Einsteins allgemeine Relativitätstheorie."
+      },
+      "english": {
+        "word": "gravitational wave",
+        "example": "The detection of gravitational waves confirmed Einstein's general theory of relativity."
+      }
+    },
+    {
+      "id": "qc_006",
+      "icon": "qc_schwarzes_loch",
+      "arabic": {
+        "word": "الثَّقْبُ الأَسْوَد",
+        "meaning": "مِنْطَقَةٌ فِي الفَضَاءِ تَكُونُ فِيهَا الجَاذِبِيَّةُ قَوِيَّةً جِدًّا بِحَيْثُ لَا يُمْكِنُ حَتَّى لِلضَّوْءِ الإِفْلَاتُ مِنْهَا"
+      },
+      "german": {
+        "word": "das Schwarze Loch",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Schwarzen Löcher",
+        "example": "Im Zentrum der meisten Galaxien befindet sich ein supermassereiches Schwarzes Loch."
+      },
+      "english": {
+        "word": "black hole",
+        "example": "At the center of most galaxies lies a supermassive black hole."
+      }
+    },
+    {
+      "id": "qc_007",
+      "icon": "qc_ereignishorizont",
+      "arabic": {
+        "word": "أُفُقُ الحَدَث",
+        "meaning": "الحَدُّ النِّهَائِيُّ المُحِيطُ بِالثَّقْبِ الأَسْوَدِ الَّذِي يَسْتَحِيلُ بَعْدَهُ الرُّجُوعُ"
+      },
+      "german": {
+        "word": "der Ereignishorizont",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Ereignishorizonte",
+        "example": "Materie, die den Ereignishorizont überschreitet, kann dem Gravitationssog nicht mehr entkommen."
+      },
+      "english": {
+        "word": "event horizon",
+        "example": "Matter crossing the event horizon can no longer escape the gravitational pull."
+      }
+    },
+    {
+      "id": "qc_008",
+      "icon": "qc_dunkle_materie",
+      "arabic": {
+        "word": "المَادَّةُ المُظْلِمَة",
+        "meaning": "شَكْلٌ خَفِيٌّ مِنَ المَادَّةِ لَا يُصْدِرُ ضَوْءًا وَلَا يَتَفَاعَلُ كَهْرُومَغْنَاطِيسِيًّا لَكِنَّهُ يُؤَثِّرُ بِالجَاذِبِيَّةِ"
+      },
+      "german": {
+        "word": "die Dunkle Materie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Dunklen Materien",
+        "example": "Dunkle Materie macht etwa 85 Prozent der gesamten Materie im Universum aus."
+      },
+      "english": {
+        "word": "dark matter",
+        "example": "Dark matter makes up about 85 percent of all matter in the universe."
+      }
+    },
+    {
+      "id": "qc_009",
+      "icon": "qc_dunkle_energie",
+      "arabic": {
+        "word": "الطَّاقَةُ المُظْلِمَة",
+        "meaning": "قُوَّةٌ مَجْهُولَةٌ تُفَسِّرُ التَّسَارُعَ الحَالِيَّ فِي تَمَدُّدِ الكَوْنِ"
+      },
+      "german": {
+        "word": "die Dunkle Energie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Dunklen Energien",
+        "example": "Die Dunkle Energie treibt die beschleunigte Expansion des Kosmos an."
+      },
+      "english": {
+        "word": "dark energy",
+        "example": "Dark energy drives the accelerated expansion of the cosmos."
+      }
+    },
+    {
+      "id": "qc_010",
+      "icon": "qc_kosmologie",
+      "arabic": {
+        "word": "عِلْمُ الكَوْنِيَّات",
+        "meaning": "الدِّرَاسَةُ العِلْمِيَّةُ لِأَصْلِ الكَوْنِ وَتَطَوُّرِهِ وَبِنْيَتِهِ الإِجْمَالِيَّةِ"
+      },
+      "german": {
+        "word": "die Kosmologie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Kosmologien",
+        "example": "Die moderne Kosmologie verbindet Astrophysik mit Erkenntnissen der Hochenergiephysik."
+      },
+      "english": {
+        "word": "cosmology",
+        "example": "Modern cosmology links astrophysics with insights from high-energy physics."
+      }
+    },
+    {
+      "id": "qc_011",
+      "icon": "qc_unschaerfe",
+      "arabic": {
+        "word": "مَبْدَأُ الرِّيبَة (عَدَمُ اليَقِين)",
+        "meaning": "قَانُونٌ كَمِّيٌّ يَنُصُّ عَلَى اسْتِحَالَةِ تَحْدِيدِ مَوْقِعِ جُسَيْمٍ وَزَخَمِهِ مَعًا بِدِقَّةٍ مُطْلَقَةٍ"
+      },
+      "german": {
+        "word": "die Heisenbergsche Unschärferelation",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Unschärferelationen",
+        "example": "Die Unschärferelation setzt der Genauigkeit physikalischer Messungen fundamentale Grenzen."
+      },
+      "english": {
+        "word": "Heisenberg uncertainty principle",
+        "example": "The uncertainty principle sets fundamental limits to the precision of physical measurements."
+      }
+    },
+    {
+      "id": "qc_012",
+      "icon": "qc_wellenfunktion",
+      "arabic": {
+        "word": "الدَّالَّةُ المَوْجِيَّة",
+        "meaning": "تَعْبِيرٌ رِيَاضِيٌّ يَصِفُ الحَالَةَ الكَمِّيَّةَ لِجُسَيْمٍ وَاحْتِمَالَاتِ وُجُودِهِ"
+      },
+      "german": {
+        "word": "die Wellenfunktion",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Wellenfunktionen",
+        "example": "Der Kollaps der Wellenfunktion tritt auf, sobald eine Messung am Quantensystem durchgeführt wird."
+      },
+      "english": {
+        "word": "wave function",
+        "example": "The collapse of the wave function occurs as soon as a measurement is performed on the quantum system."
+      }
+    },
+    {
+      "id": "qc_013",
+      "icon": "qc_photon",
+      "arabic": {
+        "word": "الفُوتُون",
+        "meaning": "كَمٌّ أَسَاسِيٌّ أَوْ جُسَيْمٌ يَحْمِلُ الإِشْعَاعَ الكَهْرُومَغْنَاطِيسِيَّ بِمَا فِي ذَلِكَ الضَّوْءُ"
+      },
+      "german": {
+        "word": "das Photon",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Photonen",
+        "example": "Photonen besitzen keine Ruhemasse und bewegen sich im Vakuum stets mit Lichtgeschwindigkeit."
+      },
+      "english": {
+        "word": "photon",
+        "example": "Photons have no rest mass and always travel at the speed of light in a vacuum."
+      }
+    },
+    {
+      "id": "qc_014",
+      "icon": "qc_ueberlegenheit",
+      "arabic": {
+        "word": "التَّفَوُّقُ الكَمِّيّ",
+        "meaning": "قُدْرَةُ حَاسُوبٍ كَمِّيٍّ عَلَى حَلِّ مَسْأَلَةٍ حَوْسَبِيَّةٍ يَعْجِزُ عَنْهَا أَقْوَى حَاسُوبٍ خَارِقٍ"
+      },
+      "german": {
+        "word": "die Quantenüberlegenheit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Quantenüberlegenheiten",
+        "example": "Das Erreichen der Quantenüberlegenheit markiert einen Meilenstein in der Informationstechnologie."
+      },
+      "english": {
+        "word": "quantum supremacy",
+        "example": "Achieving quantum supremacy marks a milestone in information technology."
+      }
+    },
+    {
+      "id": "qc_015",
+      "icon": "qc_quantencomputer",
+      "arabic": {
+        "word": "الحَاسُوبُ الكَمِّيّ",
+        "meaning": "جِهَازٌ حَوْسَبِيٌّ يَسْتَخْدِمُ خَصَائِصَ مِيكَانِيكَا الكَمِّ لِمُعَالَجَةِ البَيَانَاتِ بِسُرْعَاتٍ هَائِلَةٍ"
+      },
+      "german": {
+        "word": "der Quantencomputer",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Quantencomputer",
+        "example": "Quantencomputer könnten komplexe Molekülstrukturen für die Medizin in kürzester Zeit simulieren."
+      },
+      "english": {
+        "word": "quantum computer",
+        "example": "Quantum computers could simulate complex molecular structures for medicine in very short time."
+      }
+    },
+    {
+      "id": "qc_016",
+      "icon": "qc_qubit",
+      "arabic": {
+        "word": "الكْيُوبِت",
+        "meaning": "الوِحْدَةُ الأَسَاسِيَّةُ لِلْمَعْلُومَاتِ الكَمِّيَّةِ، النَّظِيرُ الكَمِّيُّ لِلْبِتِّ التَّقْلِيدِيِّ"
+      },
+      "german": {
+        "word": "das Qubit",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Qubits",
+        "example": "Die Fehlertoleranz einzelner Qubits bleibt die größte technische Hürde."
+      },
+      "english": {
+        "word": "qubit",
+        "example": "The fault tolerance of individual qubits remains the greatest technical hurdle."
+      }
+    },
+    {
+      "id": "qc_017",
+      "icon": "qc_urknall",
+      "arabic": {
+        "word": "نَظَرِيَّةُ الانْفِجَارِ العَظِيم",
+        "meaning": "النَّمُوذَجُ الكَوْنِيُّ السَّائِدُ لِنَشْأَةِ الكَوْنِ وَتَمَدُّدِهِ قَبْلَ 13.8 مِلْيَارَ سَنَةٍ"
+      },
+      "german": {
+        "word": "die Urknalltheorie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Urknalltheorien",
+        "example": "Die kosmische Mikrowellen-Hintergrundstrahlung stützt die Urknalltheorie maßgeblich."
+      },
+      "english": {
+        "word": "Big Bang theory",
+        "example": "The cosmic microwave background radiation fundamentally supports the Big Bang theory."
+      }
+    },
+    {
+      "id": "qc_018",
+      "icon": "qc_entropie",
+      "arabic": {
+        "word": "الإنْتْرُوبْيَا / القُصُورُ الحَرَارِيّ",
+        "meaning": "مِقْيَاسٌ لِدَرَجَةِ العَشْوَائِيَّةِ وَالفَوْضَى فِي نِظَامٍ فِيزْيَائِيٍّ مُغْلَقٍ"
+      },
+      "german": {
+        "word": "die Entropie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Entropien",
+        "example": "Nach dem zweiten Hauptsatz der Thermodynamik nimmt die Entropie in geschlossenen Systemen stets zu."
+      },
+      "english": {
+        "word": "entropy",
+        "example": "According to the second law of thermodynamics, entropy in closed systems always increases."
+      }
+    },
+    {
+      "id": "qc_019",
+      "icon": "qc_relativitaet",
+      "arabic": {
+        "word": "نَظَرِيَّةُ النِّسْبِيَّة",
+        "meaning": "نَظَرِيَّةُ أَيْنِشْتَايْن الخَاصَّةُ وَالعَامَّةُ الَّتِي أَعَادَتْ صِيَاغَةَ مَفَاهِيمِ المَكَانِ وَالزَّمَانِ وَالجَاذِبِيَّةِ"
+      },
+      "german": {
+        "word": "die Relativitätstheorie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Relativitätstheorien",
+        "example": "Die Relativitätstheorie besagt, dass die Zeit für bewegte Beobachter langsamer vergeht."
+      },
+      "english": {
+        "word": "theory of relativity",
+        "example": "The theory of relativity states that time passes more slowly for moving observers."
+      }
+    },
+    {
+      "id": "qc_020",
+      "icon": "qc_standardmodell",
+      "arabic": {
+        "word": "النَّمُوذَجُ المِعْيَارِيّ",
+        "meaning": "النَّظَرِيَّةُ الفِيزْيَائِيَّةُ الَّتِي تُفَسِّرُ الجُسَيْمَاتِ الأَوَّلِيَّةَ وَثَلَاثًا مِنَ القُوَى الأَسَاسِيَّةِ"
+      },
+      "german": {
+        "word": "das Standardmodell",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Standardmodelle",
+        "example": "Das Standardmodell der Teilchenphysik beschreibt Quarks, Leptonen und Eichbosonen präzise."
+      },
+      "english": {
+        "word": "Standard Model",
+        "example": "The Standard Model of particle physics precisely describes quarks, leptons, and gauge bosons."
+      }
+    },
+    {
+      "id": "qc_021",
+      "icon": "qc_higgs_boson",
+      "arabic": {
+        "word": "بُوزُون هِيغْز",
+        "meaning": "جُسَيْمٌ أَوَّلِيٌّ يَمْنَحُ الجُسَيْمَاتِ الأُخْرَى كُتْلَتَهَا عَبْرَ تَفَاعُلِهَا مَعَ حَقْلِ هِيغْز"
+      },
+      "german": {
+        "word": "das Higgs-Boson",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Higgs-Bosonen",
+        "example": "Die Entdeckung des Higgs-Bosons am CERN vervollständigte das Standardmodell der Physik."
+      },
+      "english": {
+        "word": "Higgs boson",
+        "example": "The discovery of the Higgs boson at CERN completed the Standard Model of physics."
+      }
+    },
+    {
+      "id": "qc_022",
+      "icon": "qc_teilchenphysik",
+      "arabic": {
+        "word": "فِيزْيَاءُ الجُسَيْمَات",
+        "meaning": "فَرْعُ الفِيزْيَاءِ الَّذِي يَدْرُسُ المَسْؤُولِيَّةَ عَنْ تَكْوِينِ المَادَّةِ فِي مُسْتَوَيَاتِهَا الأَوَّلِيَّةِ"
+      },
+      "german": {
+        "word": "die Teilchenphysik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Teilchenphysiken",
+        "example": "In der experimentellen Teilchenphysik werden hochenergetische Kollisionen analysiert."
+      },
+      "english": {
+        "word": "particle physics",
+        "example": "High-energy collisions are analyzed in experimental particle physics."
+      }
+    },
+    {
+      "id": "qc_023",
+      "icon": "qc_kernfusion",
+      "arabic": {
+        "word": "الاندِمَاجُ النَّوَوِيّ",
+        "meaning": "تَفَاعُلٌ تَنْدَمِجُ فِيهِ نَوَاتَانِ ذَرِّيَّتَانِ خَفِيفَتَانِ لِتَكْوِينِ نَوَاةٍ أَثْقَلَ مُطْلِقَةً طَاقَةً هَائِلَةً"
+      },
+      "german": {
+        "word": "die Kernfusion",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Kernfusionen",
+        "example": "Die Kernfusion gilt als potenziell unerschöpfliche und saubere Energiequelle der Zukunft."
+      },
+      "english": {
+        "word": "nuclear fusion",
+        "example": "Nuclear fusion is considered a potentially inexhaustible and clean energy source for the future."
+      }
+    },
+    {
+      "id": "qc_024",
+      "icon": "qc_thermodynamik",
+      "arabic": {
+        "word": "الدِّينَامِيكَا الحَرَارِيَّة",
+        "meaning": "عِلْمُ دِرَاسَةِ الحَرَارَةِ وَالشُّغْلِ وَتَحَوُّلَاتِ الطَّاقَةِ فِي الأَنْظِمَةِ المَادِّيَّةِ"
+      },
+      "german": {
+        "word": "die Thermodynamik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Thermodynamiken",
+        "example": "Die Gesetze der Thermodynamik regeln universelle physikalische Energieflüsse."
+      },
+      "english": {
+        "word": "thermodynamics",
+        "example": "The laws of thermodynamics govern universal physical energy flows."
+      }
+    },
+    {
+      "id": "qc_025",
+      "icon": "qc_multiversum",
+      "arabic": {
+        "word": "الأَكْوَانُ المُتَعَدِّدَة",
+        "meaning": "فَرَضِيَّةٌ كَوْنِيَّةٌ تَفْتَرِضُ وُجُودَ مَجْمُوعَةٍ لَا نِهَائِيَّةٍ مِنَ الأَكْوَانِ المُمكِنَةِ"
+      },
+      "german": {
+        "word": "das Multiversum",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Multiversen",
+        "example": "Einige Interpretationen der Quantenmechanik postulieren die reale Existenz eines Multiversums."
+      },
+      "english": {
+        "word": "multiverse",
+        "example": "Some interpretations of quantum mechanics postulate the real existence of a multiverse."
+      }
+    }
+  ]
+}

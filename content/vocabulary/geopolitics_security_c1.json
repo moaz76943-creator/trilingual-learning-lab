@@ -1,0 +1,488 @@
+{
+  "category_id": "geopolitics_security_c1",
+  "category_number": 51,
+  "level": "C1",
+  "title": {
+    "ar": "الجيوسياسة، الأمن الدولي والمعاهدات الاستراتيجية",
+    "de": "Geopolitik, globale Sicherheit & strategische Verträge",
+    "en": "Geopolitics, Global Security & Strategic Treaties"
+  },
+  "icon": "geo_geopolitik",
+  "concepts": [
+    {
+      "id": "geo_001",
+      "icon": "geo_geopolitik",
+      "arabic": {
+        "word": "الجِيُوبُولِيتِيكَا",
+        "meaning": "تَحْلِيلُ تَأْثِيرِ الجُغْرَافْيَا الطَّبِيعِيَّةِ وَالبَشَرِيَّةِ عَلَى السِّيَاسَةِ وَالعَلَاقَاتِ الدَّوْلِيَّةِ"
+      },
+      "german": {
+        "word": "die Geopolitik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Geopolitiken",
+        "example": "Die Geopolitik des 21. Jahrhunderts wird maßgeblich von Ressourcenkonflikten bestimmt."
+      },
+      "english": {
+        "word": "geopolitics",
+        "example": "Twenty-first-century geopolitics is largely shaped by resource conflicts."
+      }
+    },
+    {
+      "id": "geo_002",
+      "icon": "geo_dilemma",
+      "arabic": {
+        "word": "المَأْزِقُ الأَمْنِيّ",
+        "meaning": "حَالَةٌ تُؤَدِّي فِيهَا إِجْرَاءَاتُ دَوْلَةٍ لِتَعْزِيزِ أَمْنِهَا إِلَى إِشْعَارِ جِيرَانِهَا بِالخَطَرِ وَإِشْعَالِ سِبَاقِ التَّسَلُّحِ"
+      },
+      "german": {
+        "word": "das Sicherheitsdilemma",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Sicherheitsdilemmata",
+        "example": "Das klassische Sicherheitsdilemma führt häufig zu einer unbeabsichtigten Aufrüstungsspirale."
+      },
+      "english": {
+        "word": "security dilemma",
+        "example": "The classic security dilemma frequently leads to an unintended spiral of rearmament."
+      }
+    },
+    {
+      "id": "geo_003",
+      "icon": "geo_abschreckung",
+      "arabic": {
+        "word": "الرَّدْعُ النَّوَوِيّ",
+        "meaning": "اسْتِرَاتِيجِيَّةٌ عَسْكَرِيَّةٌ تَعْتَمِدُ عَلَى التَّهْدِيدِ بِالدَّمَارِ الشَّامِلِ لِمَنْعِ العَدُوِّ مِنْ شَنِّ هُجُومٍ"
+      },
+      "german": {
+        "word": "die nukleare Abschreckung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die nuklearen Abschreckungen",
+        "example": "Die Doktrin der nuklearen Abschreckung prägte das strategische Gleichgewicht des Kalten Krieges."
+      },
+      "english": {
+        "word": "nuclear deterrence",
+        "example": "The doctrine of nuclear deterrence shaped the strategic balance of the Cold War."
+      }
+    },
+    {
+      "id": "geo_004",
+      "icon": "geo_buendnis",
+      "arabic": {
+        "word": "الحِلْفُ العَسْكَرِيّ",
+        "meaning": "مُعَاهَدَةٌ رَسْمِيَّةٌ بَيْنَ دُوَلٍ لِتَقْدِيمِ الدِّفَاعِ المُشْتَرَكِ فِي حَالِ تَعَرُّضِ إِحْدَاهَا لِعُدْوَانٍ"
+      },
+      "german": {
+        "word": "das Militärbündnis",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Militärbündnisse",
+        "example": "Die NATO ist das historisch langlebigste transatlantische Militärbündnis."
+      },
+      "english": {
+        "word": "military alliance",
+        "example": "NATO is historically the longest-lasting transatlantic military alliance."
+      }
+    },
+    {
+      "id": "geo_005",
+      "icon": "geo_nichtverbreitung",
+      "arabic": {
+        "word": "مَنْعُ الانْتِشَارِ النَّوَوِيّ",
+        "meaning": "المَسَاعِي الدَّوْلِيَّةُ المُلْزِمَةُ لِمَنْعِ انْتِشَارِ الأَسْلِحَةِ الذَّرِّيَّةِ لِدُوَلٍ جَدِيدَةٍ"
+      },
+      "german": {
+        "word": "die Nichtverbreitung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Nichtverbreitungen",
+        "example": "Der Atomwaffensperrvertrag ist der zentrale Pfeiler der weltweiten Nichtverbreitung."
+      },
+      "english": {
+        "word": "nuclear non-proliferation",
+        "example": "The Nuclear Non-Proliferation Treaty is the central pillar of global non-proliferation."
+      }
+    },
+    {
+      "id": "geo_006",
+      "icon": "geo_abruestung",
+      "arabic": {
+        "word": "نَزْعُ السِّلَاح",
+        "meaning": "التَّخْلِي الطَّوْعِيُّ أَوِ المُلْزَمُ عَنِ العَتَادِ العَسْكَرِيِّ وَالجُيُوشِ لِتَعْزِيزِ السَّلَامِ"
+      },
+      "german": {
+        "word": "die Abrüstung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Abrüstungen",
+        "example": "Echte Abrüstung erfordert gegenseitiges Vertrauen und verifizierbare Kontrollmechanismen."
+      },
+      "english": {
+        "word": "disarmament",
+        "example": "Genuine disarmament requires mutual trust and verifiable verification mechanisms."
+      }
+    },
+    {
+      "id": "geo_007",
+      "icon": "geo_kontrolle",
+      "arabic": {
+        "word": "مُرَاقَبَةُ التَّسَلُّح",
+        "meaning": "اتِّفَاقِيَّاتٌ دَوْلِيَّةٌ لِتَحْدِيدِ وَتَنْظِيمِ حَجْمِ وَنَوْعِيَّةِ التَّرْسَانَاتِ العَسْكَرِيَّةِ"
+      },
+      "german": {
+        "word": "die Rüstungskontrolle",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Rüstungskontrollen",
+        "example": "Verhandlungen zur Rüstungskontrolle stabilisieren krisenanfällige Regionen nachhaltig."
+      },
+      "english": {
+        "word": "arms control",
+        "example": "Arms control negotiations sustainably stabilize crisis-prone regions."
+      }
+    },
+    {
+      "id": "geo_008",
+      "icon": "geo_gleichgewicht",
+      "arabic": {
+        "word": "تَوَازُنُ القُوَى",
+        "meaning": "حَالَةٌ تَكُونُ فِيهَا القُوَّةُ العَسْكَرِيَّةُ وَالسِّيَاسِيَّةُ مُوَزَّعَةً بِحَيْثُ لَا تَسْتَطِيعُ دَوْلَةٌ الهَيْمَنَةَ"
+      },
+      "german": {
+        "word": "das Machtgleichgewicht",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Machtgleichgewichte",
+        "example": "Ein instabiles Machtgleichgewicht birgt stets die Gefahr unkontrollierter Eskalationen."
+      },
+      "english": {
+        "word": "balance of power",
+        "example": "An unstable balance of power always carries the danger of uncontrolled escalation."
+      }
+    },
+    {
+      "id": "geo_009",
+      "icon": "geo_einfluss",
+      "arabic": {
+        "word": "مِنْطَقَةُ النُّفُوذ",
+        "meaning": "إِقْلِيمٌ جُغْرَافِيٌّ تُمَارِسُ فِيهِ دَوْلَةٌ كُبْرَى سَيْطَرَةً أَوْ تَأْثِيرًا سِيَاسِيًّا حَاسِمًا"
+      },
+      "german": {
+        "word": "die Einflusssphäre",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Einflusssphären",
+        "example": "Großmächte versuchen traditionell, geopolitische Einflusssphären an ihren Grenzen zu etablieren."
+      },
+      "english": {
+        "word": "sphere of influence",
+        "example": "Great powers traditionally attempt to establish geopolitical spheres of influence along their borders."
+      }
+    },
+    {
+      "id": "geo_010",
+      "icon": "geo_annexion",
+      "arabic": {
+        "word": "الضَّمُّ الإِقْلِيمِيُّ القَسْرِيّ",
+        "meaning": "اسْتِيلَاءُ دَوْلَةٍ عَلَى أَرَاضِي دَوْلَةٍ أُخْرَى بِالقُوَّةِ وَإِلْحَاقُهَا بِسِيَادَتِهَا"
+      },
+      "german": {
+        "word": "die Annexion",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Annexionen",
+        "example": "Die völkerrechtswidrige Annexion fremden Staatsgebiets wird von den Vereinten Nationen verurteilt."
+      },
+      "english": {
+        "word": "annexation",
+        "example": "The annexation of foreign state territory in violation of international law is condemned by the UN."
+      }
+    },
+    {
+      "id": "geo_011",
+      "icon": "geo_veto",
+      "arabic": {
+        "word": "حَقُّ النَّقْض (الفِيتُو)",
+        "meaning": "السُّلْطَةُ القَانُونِيَّةُ لِمَنْعِ إِصْدَارِ أَيِّ قَرَارٍ جَمَاعِيٍّ دَوْلِيٍّ"
+      },
+      "german": {
+        "word": "das Vetorecht",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Vetorechte",
+        "example": "Die fünf ständigen Mitglieder des UN-Sicherheitsrats verfügen über ein Vetorecht."
+      },
+      "english": {
+        "word": "veto power",
+        "example": "The five permanent members of the UN Security Council possess veto power."
+      }
+    },
+    {
+      "id": "geo_012",
+      "icon": "geo_pufferzone",
+      "arabic": {
+        "word": "المِنْطَقَةُ العَازِلَة",
+        "meaning": "مَسَاحَةٌ جُغْرَافِيَّةٌ مُحَايِدَةٌ تَفْصِلُ بَيْنَ جَيْشَيْنِ أَوْ قُوَّتَيْنِ مُتَصَارِعَتَيْنِ لِمَنْعِ الِاحْتِكَاكِ"
+      },
+      "german": {
+        "word": "die Pufferzone",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Pufferzonen",
+        "example": "Friedenstruppen patrouillieren entlang der entmilitarisierten Pufferzone."
+      },
+      "english": {
+        "word": "buffer zone",
+        "example": "Peacekeeping troops patrol along the demilitarized buffer zone."
+      }
+    },
+    {
+      "id": "geo_013",
+      "icon": "geo_demarkation",
+      "arabic": {
+        "word": "خَطُّ التَّرْسِيم",
+        "meaning": "خَطٌّ حُدُودِيٌّ مُؤَقَّتٌ يُحَدِّدُ مَنَاطِقَ وَقْفِ إِطْلَاقِ النَّارِ بَيْنَ الأَطْرَافِ المُتَنَازِعَةِ"
+      },
+      "german": {
+        "word": "die Demarkationslinie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Demarkationslinien",
+        "example": "Die Demarkationslinie trennt die beiden Konfliktparteien seit dem Waffenstillstand."
+      },
+      "english": {
+        "word": "demarcation line",
+        "example": "The demarcation line has separated the two conflicting parties since the ceasefire."
+      }
+    },
+    {
+      "id": "geo_014",
+      "icon": "geo_sanktionen",
+      "arabic": {
+        "word": "العُقُوبَاتُ الدَّوْلِيَّة",
+        "meaning": "تَدَابِيرُ عِقَابِيَّةٌ اقْتِصَادِيَّةٌ أَوْ دِبْلُومَاسِيَّةٌ تُفْرَضُ عَلَى دَوْلَةٍ انْتَهَكَتِ القَانُونَ"
+      },
+      "german": {
+        "word": "die Sanktionen",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Sanktionen",
+        "example": "Gezielte wirtschaftliche Sanktionen zielen darauf ab, völkerrechtswidriges Verhalten zu sanktionieren."
+      },
+      "english": {
+        "word": "international sanctions",
+        "example": "Targeted economic sanctions aim to penalize behavior violating international law."
+      }
+    },
+    {
+      "id": "geo_015",
+      "icon": "geo_waffenstillstand",
+      "arabic": {
+        "word": "اتِّفَاقُ وَقْفِ إِطْلَاقِ النَّار",
+        "meaning": "مُعَاهَدَةٌ رَسْمِيَّةٌ لِتَعْلِيقِ الأَعْمَالِ القِتَالِيَّةِ تَمْهِيدًا لِمُفَاوَضَاتِ السَّلَامِ"
+      },
+      "german": {
+        "word": "das Waffenstillstandsabkommen",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Waffenstillstandsabkommen",
+        "example": "Nach wochenlangen Vermittlungen trat das Waffenstillstandsabkommen um Mitternacht in Kraft."
+      },
+      "english": {
+        "word": "ceasefire agreement / armistice",
+        "example": "After weeks of mediation, the ceasefire agreement entered into force at midnight."
+      }
+    },
+    {
+      "id": "geo_016",
+      "icon": "geo_sicherheitsrat",
+      "arabic": {
+        "word": "مَجْلِسُ الأَمْنِ الدَّوْلِيّ",
+        "meaning": "الهَيْئَةُ التَّنْفِيذِيَّةُ الرَّئِيسِيَّةُ فِي الأُمَمِ المُتَّحِدَةِ المَسْؤُولَةُ عَنْ صَوْنِ السَّلَامِ"
+      },
+      "german": {
+        "word": "der UN-Sicherheitsrat",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Sicherheitsräte",
+        "example": "Der UN-Sicherheitsrat kann völkerrechtlich bindende Resolutionen erlassen."
+      },
+      "english": {
+        "word": "UN Security Council",
+        "example": "The UN Security Council can adopt legally binding resolutions under international law."
+      }
+    },
+    {
+      "id": "geo_017",
+      "icon": "geo_deeskalation",
+      "arabic": {
+        "word": "خَفْضُ التَّصْعِيد",
+        "meaning": "سِلْسِلَةُ خُطُوَاتٍ دِبْلُومَاسِيَّةٍ أَوْ عَسْكَرِيَّةٍ تَهْدِفُ لِتَقْلِيلِ حِدَّةِ التَّوَتُّرِ"
+      },
+      "german": {
+        "word": "die Deeskalation",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Deeskalationen",
+        "example": "Die diplomatische Vermittlung schuf die Voraussetzungen für eine nachhaltige Deeskalation."
+      },
+      "english": {
+        "word": "de-escalation",
+        "example": "Diplomatic mediation created the preconditions for sustainable de-escalation."
+      }
+    },
+    {
+      "id": "geo_018",
+      "icon": "geo_embargo",
+      "arabic": {
+        "word": "الحَظْرُ التِّجَارِيّ (الإِمْبَارْغُو)",
+        "meaning": "مَنْعٌ قَانُونِيٌّ حَاسِمٌ لِتَصْدِيرِ أَوْ اسْتِيرَادِ سِلَعٍ مُعَيَّنَةٍ (مِثْلَ السِّلَاحِ) لِدَوْلَةٍ مَا"
+      },
+      "german": {
+        "word": "das Waffenembargo",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Waffenembargos",
+        "example": "Die internationale Gemeinschaft verhängte ein umfassendes Waffenembargo gegen das Regime."
+      },
+      "english": {
+        "word": "arms embargo",
+        "example": "The international community imposed a comprehensive arms embargo on the regime."
+      }
+    },
+    {
+      "id": "geo_019",
+      "icon": "geo_territorial",
+      "arabic": {
+        "word": "سَلَامَةُ الأَرَاضِي الإِقْلِيمِيَّة",
+        "meaning": "المَبْدَأُ الدَّوْلِيُّ الَّذِي يَحْظُرُ المَسَاسَ بِحُدُودِ الدَّوْلَةِ المَعْتَرِفِ بِهَا"
+      },
+      "german": {
+        "word": "die territoriale Integrität",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die territorialen Integritäten",
+        "example": "Die Wahrung der territorialen Integrität aller Staaten ist eine Grundfeste der UN-Charta."
+      },
+      "english": {
+        "word": "territorial integrity",
+        "example": "Preserving the territorial integrity of all states is a cornerstone of the UN Charter."
+      }
+    },
+    {
+      "id": "geo_020",
+      "icon": "geo_hybrid",
+      "arabic": {
+        "word": "الحَرْبُ الهَجِينَة",
+        "meaning": "نَمَطُ صِرَاعٍ يَمْزِجُ بَيْنَ العَمَلِيَّاتِ العَسْكَرِيَّةِ التَّقْلِيدِيَّةِ وَالهَجَمَاتِ السِّيبْرَانِيَّةِ وَالحَرْبِ النَّفْسِيَّةِ"
+      },
+      "german": {
+        "word": "die hybride Kriegsführung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die hybriden Kriegsführungen",
+        "example": "Hybride Kriegsführung zielt darauf ab, demokratische Institutionen von innen heraus zu destabilisieren."
+      },
+      "english": {
+        "word": "hybrid warfare",
+        "example": "Hybrid warfare aims to destabilize democratic institutions from within."
+      }
+    },
+    {
+      "id": "geo_021",
+      "icon": "geo_bilateral",
+      "arabic": {
+        "word": "الاتِّفَاقِيَّةُ الثُّنَائِيَّة",
+        "meaning": "مُعَاهَدَةٌ مُلْزِمَةٌ تُعْقَدُ بَيْنَ دَوْلَتَيْنِ اثْنَتَيْنِ فَقَطْ"
+      },
+      "german": {
+        "word": "das bilaterale Abkommen",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die bilateralen Abkommen",
+        "example": "Beide Regierungen unterzeichneten ein bilaterales Abkommen über gegenseitige Sicherheitsgarantien."
+      },
+      "english": {
+        "word": "bilateral agreement",
+        "example": "Both governments signed a bilateral agreement on mutual security guarantees."
+      }
+    },
+    {
+      "id": "geo_022",
+      "icon": "geo_kollektiv",
+      "arabic": {
+        "word": "الأَمْنُ الجَمَاعِيّ",
+        "meaning": "نِظَامٌ دَوْلِيٌّ يَعْتَبِرُ فِيهِ أَيُّ عُدْوَانٍ عَلَى دَوْلَةٍ عُضْوٍ عُدْوَانًا عَلَى الكَافَّةِ"
+      },
+      "german": {
+        "word": "die kollektive Sicherheit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die kollektiven Sicherheiten",
+        "example": "Das Prinzip der kollektiven Sicherheit verpflichtet Mitglieder zu gegenseitigem Beistand."
+      },
+      "english": {
+        "word": "collective security",
+        "example": "The principle of collective security commits members to mutual assistance."
+      }
+    },
+    {
+      "id": "geo_023",
+      "icon": "geo_souveraenitaet",
+      "arabic": {
+        "word": "انْتِهَاكُ السِّيَادَة",
+        "meaning": "خَرْقُ حَقِّ الدَّوْلَةِ الحَصْرِيِّ فِي مُمَارَسَةِ السُّلْطَةِ عَلَى إِقْلِيمِهَا دُونَ تَدَخُّلٍ خَارِجِيٍّ"
+      },
+      "german": {
+        "word": "die Souveränitätsverletzung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Souveränitätsverletzungen",
+        "example": "Das unbefugte Eindringen militärischer Drohnen stellt eine schwere Souveränitätsverletzung dar."
+      },
+      "english": {
+        "word": "violation of sovereignty",
+        "example": "Unauthorized entry by military drones constitutes a severe violation of sovereignty."
+      }
+    },
+    {
+      "id": "geo_024",
+      "icon": "geo_friedenseinsatz",
+      "arabic": {
+        "word": "بِعْثَةُ حِفْظِ السَّلَام",
+        "meaning": "مَهَمَّةٌ عَسْكَرِيَّةٌ أَوْ مَدَنِيَّةٌ تُرْسِلُهَا الأُمَمُ المُتَّحِدَةُ لِمُرَاقَبَةِ وَتَثْبِيتِ السَّلَامِ"
+      },
+      "german": {
+        "word": "der Friedenseinsatz",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Friedenseinsätze",
+        "example": "Blaubehelmte Truppen der Vereinten Nationen führen weltweit komplexe Friedenseinsätze durch."
+      },
+      "english": {
+        "word": "peacekeeping mission",
+        "example": "Blue helmet troops of the United Nations conduct complex peacekeeping missions worldwide."
+      }
+    },
+    {
+      "id": "geo_025",
+      "icon": "geo_nichtangriff",
+      "arabic": {
+        "word": "مُعَاهَدَةُ عَدَمِ الِاعْتِدَاء",
+        "meaning": "مُعَاهَدَةٌ ثُنَائِيَّةٌ أَوْ جَمَاعِيَّةٌ يَتَعَهَّدُ فِيهَا الأَطْرَافُ بِالامْتِنَاعِ عَنِ اسْتِخْدَامِ القُوَّةِ المُسَلَّحَةِ"
+      },
+      "german": {
+        "word": "der Nichtangriffspakt",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Nichtangriffspakte",
+        "example": "Die Vertragspartner besiegelten feierlich einen formalen Nichtangriffspakt."
+      },
+      "english": {
+        "word": "non-aggression pact",
+        "example": "The treaty partners solemnly sealed a formal non-aggression pact."
+      }
+    }
+  ]
+}

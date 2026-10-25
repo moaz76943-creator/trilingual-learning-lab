@@ -1,0 +1,488 @@
+{
+  "category_id": "academic_discourse_c1",
+  "category_number": 47,
+  "level": "C1",
+  "title": {
+    "ar": "الفلسفة السياسية، الدبلوماسية العليا والفكر النقدي",
+    "de": "Politische Philosophie, Diplomatie & akademischer Diskurs",
+    "en": "Political Philosophy, High Diplomacy & Academic Discourse"
+  },
+  "icon": "c1_epistemologie",
+  "concepts": [
+    {
+      "id": "c1_001",
+      "icon": "c1_epistemologie",
+      "arabic": {
+        "word": "نَظَرِيَّةُ المَعْرِفَة",
+        "meaning": "الفَرْعُ الفَلْسَفِيُّ الَّذِي يَبْحَثُ فِي طَبِيعَةِ المَعْرِفَةِ وَحُدُودِهَا وَمَصَادِرِهَا"
+      },
+      "german": {
+        "word": "die Epistemologie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Epistemologien",
+        "example": "Die moderne Epistemologie hinterfragt die Objektivität wissenschaftlicher Erkenntnis."
+      },
+      "english": {
+        "word": "epistemology",
+        "example": "Modern epistemology questions the objectivity of scientific knowledge."
+      }
+    },
+    {
+      "id": "c1_002",
+      "icon": "c1_hermeneutik",
+      "arabic": {
+        "word": "عِلْمُ التَّأْوِيل",
+        "meaning": "نَظَرِيَّةُ وَمَنْهَجِيَّةُ تَفْسِيرِ النُّصُوصِ الفِكْرِيَّةِ وَالأَدَبِيَّةِ"
+      },
+      "german": {
+        "word": "die Hermeneutik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Hermeneutiken",
+        "example": "Die Hermeneutik eröffnet vielschichtige Deutungen historischer Quellentexte."
+      },
+      "english": {
+        "word": "hermeneutics",
+        "example": "Hermeneutics opens up multi-layered interpretations of historical source texts."
+      }
+    },
+    {
+      "id": "c1_003",
+      "icon": "c1_paradigmenwechsel",
+      "arabic": {
+        "word": "تَحَوُّلُ النَّمُوذَجِ الفِكْرِيّ",
+        "meaning": "تَغْيِيرٌ جَذْرِيٌّ فِي النَّظْرَةِ السَّائِدَةِ لِلْعَالَمِ أَوِ المَنْهَجِ العِلْمِيِّ"
+      },
+      "german": {
+        "word": "der Paradigmenwechsel",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Paradigmenwechsel",
+        "example": "Die Entdeckung der Quantenphysik leitete einen fundamentalen Paradigmenwechsel ein."
+      },
+      "english": {
+        "word": "paradigm shift",
+        "example": "The discovery of quantum physics ushered in a fundamental paradigm shift."
+      }
+    },
+    {
+      "id": "c1_004",
+      "icon": "c1_dialektik",
+      "arabic": {
+        "word": "الجَدَلِيَّة",
+        "meaning": "مَنْهَجُ الحِوَارِ المَنْطِقِيِّ القَائِمِ عَلَى مُقَابَلَةِ الأَطْرُوحَةِ بِالنَّقِيضِ لِبُلُوغِ التَّرْكِيبِ"
+      },
+      "german": {
+        "word": "die Dialektik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Dialektiken",
+        "example": "In der hegelschen Dialektik führt der Widerspruch zu einer höheren Erkenntnisstufe."
+      },
+      "english": {
+        "word": "dialectics",
+        "example": "In Hegelian dialectics, contradiction leads to a higher level of insight."
+      }
+    },
+    {
+      "id": "c1_005",
+      "icon": "c1_diskurs",
+      "arabic": {
+        "word": "الخِطَابُ الفِكْرِيّ",
+        "meaning": "مَجْمُوعُ المَفَاهِيمِ وَالأَفْكَارِ الَّتِي تُشَكِّلُ فَهْمَ قَضِيَّةٍ فِي مُجْتَمَعٍ مُعَيَّنٍ"
+      },
+      "german": {
+        "word": "der Diskurs",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Diskurse",
+        "example": "Der gesellschaftliche Diskurs über künstliche Intelligenz bedarf ethischer Leitlinien."
+      },
+      "english": {
+        "word": "discourse",
+        "example": "Public discourse on artificial intelligence requires ethical guidelines."
+      }
+    },
+    {
+      "id": "c1_006",
+      "icon": "c1_hegemonie",
+      "arabic": {
+        "word": "الهَيْمَنَةُ السِّيَاسِيَّة",
+        "meaning": "السُّيَادَةُ وَالنُّفُوذُ الطَّاغِي لِدَوْلَةٍ أَوْ قُوَّةٍ عَلَى غَيْرِهَا"
+      },
+      "german": {
+        "word": "die Hegemonie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Hegemonien",
+        "example": "Die geopolitische Hegemonie verschiebt sich zunehmend zugunsten multipolarer Mächte."
+      },
+      "english": {
+        "word": "hegemony",
+        "example": "Geopolitical hegemony is increasingly shifting in favor of multipolar powers."
+      }
+    },
+    {
+      "id": "c1_007",
+      "icon": "c1_dekonstruktion",
+      "arabic": {
+        "word": "التَّفْكِيكِيَّة",
+        "meaning": "مَنْهَجٌ نَقْدِيٌّ يَسْعَى إِلَى كَشْفِ التَّنَاقُضَاتِ الدَّاخِلِيَّةِ فِي النُّصُوصِ وَالأَفْكَارِ"
+      },
+      "german": {
+        "word": "die Dekonstruktion",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Dekonstruktionen",
+        "example": "Die philosophische Dekonstruktion legt verborgene Machtstrukturen in Begriffen offen."
+      },
+      "english": {
+        "word": "deconstruction",
+        "example": "Philosophical deconstruction exposes hidden power structures within concepts."
+      }
+    },
+    {
+      "id": "c1_008",
+      "icon": "c1_postulat",
+      "arabic": {
+        "word": "المُسَلَّمَةُ المَبْدَئِيَّة",
+        "meaning": "مَبْدَأٌ أَسَاسِيٌّ يُفْتَرَضُ صِدْقُهُ دُونَ حَاجَةٍ إِلَى بُرْهَانٍ مُبَاشِرٍ"
+      },
+      "german": {
+        "word": "das Postulat",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Postulate",
+        "example": "Kants ethisches Postulat verlangt die Achtung der Autonomie jedes Individuums."
+      },
+      "english": {
+        "word": "postulate",
+        "example": "Kant's ethical postulate demands respect for the autonomy of every individual."
+      }
+    },
+    {
+      "id": "c1_009",
+      "icon": "c1_ambiguitaet",
+      "arabic": {
+        "word": "التَّعَدُّدِيَّةُ الدَّلَالِيَّة",
+        "meaning": "قَابِلِيَّةُ اللَّفْظِ أَوْ المَوْقِفِ لِحَمْلِ أَكْثَرَ مِنْ مَعْنًى أَوْ تَفْسِيرٍ"
+      },
+      "german": {
+        "word": "die Ambiguität",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Ambiguitäten",
+        "example": "Diplomatische Noten nutzen bewusst Ambiguitäten, um Verhandlungsspielraum zu wahren."
+      },
+      "english": {
+        "word": "ambiguity",
+        "example": "Diplomatic notes deliberately utilize ambiguity to preserve negotiating leeway."
+      }
+    },
+    {
+      "id": "c1_010",
+      "icon": "c1_plausibilitaet",
+      "arabic": {
+        "word": "المَعْقُولِيَّة",
+        "meaning": "صِفَةُ الطَّرْحِ أَوْ الحُجَّةِ الَّتِي تَبْدُو مُقْنِعَةً وَمُتَّسِقَةً مَعَ المَنْطِقِ"
+      },
+      "german": {
+        "word": "die Plausibilität",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Plausibilitäten",
+        "example": "Die argumentative Plausibilität der These überzeugte das Gutachtergremium."
+      },
+      "english": {
+        "word": "plausibility",
+        "example": "The argumentative plausibility of the thesis convinced the evaluation panel."
+      }
+    },
+    {
+      "id": "c1_011",
+      "icon": "c1_kausalitaet",
+      "arabic": {
+        "word": "العِلِّيَّة / السَّبَبِيَّة",
+        "meaning": "العَلَاقَةُ الحَتْمِيَّةُ الرَّابِطَةُ بَيْنَ السَّبَبِ وَالأَثَرِ النَّاتِجِ عَنْهُ"
+      },
+      "german": {
+        "word": "die Kausalität",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Kausalitäten",
+        "example": "Statistische Korrelation darf nicht mit einer echten Kausalität verwechselt werden."
+      },
+      "english": {
+        "word": "causality",
+        "example": "Statistical correlation must not be confused with genuine causality."
+      }
+    },
+    {
+      "id": "c1_012",
+      "icon": "c1_axiom",
+      "arabic": {
+        "word": "البَدِيهِيَّة",
+        "meaning": "قَضِيَّةٌ مَنْطِقِيَّةٌ صَادِقَةٌ بِذَاتِهَا تُبْنَى عَلَيْهَا النَّظَرِيَّاتُ الرِّيَاضِيَّةُ"
+      },
+      "german": {
+        "word": "das Axiom",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Axiome",
+        "example": "Ein unumstößliches Axiom bildet das Fundament jedes formalen Beweissystems."
+      },
+      "english": {
+        "word": "axiom",
+        "example": "An incontrovertible axiom forms the foundation of any formal proof system."
+      }
+    },
+    {
+      "id": "c1_013",
+      "icon": "c1_ontologie",
+      "arabic": {
+        "word": "عِلْمُ الوُجُود",
+        "meaning": "المَبْحَثُ الفَلْسَفِيُّ المَعْنِيُّ بِطَبِيعَةِ الوُجُودِ وَأَصْنَافِ الكَيَانَاتِ"
+      },
+      "german": {
+        "word": "die Ontologie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Ontologien",
+        "example": "Die Ontologie fragt nach dem Wesen des Seins jenseits materieller Erscheinungen."
+      },
+      "english": {
+        "word": "ontology",
+        "example": "Ontology questions the essence of being beyond material phenomena."
+      }
+    },
+    {
+      "id": "c1_014",
+      "icon": "c1_differenzierung",
+      "arabic": {
+        "word": "التَّمَايُزُ التَّحْلِيلِيّ",
+        "meaning": "القُدْرَةُ عَلَى التَّمْيِيزِ الدَّقِيقِ بَيْنَ الفُرُوقِ الفِكْرِيَّةِ الدَّقِيقَةِ"
+      },
+      "german": {
+        "word": "die Differenzierung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Differenzierungen",
+        "example": "Eine nuancierte Differenzierung schützt vor pauschalen Vorurteilen im Diskurs."
+      },
+      "english": {
+        "word": "differentiation / nuance",
+        "example": "Nuanced differentiation protects against sweeping prejudices in discourse."
+      }
+    },
+    {
+      "id": "c1_015",
+      "icon": "c1_pragmatismus",
+      "arabic": {
+        "word": "البَرَغْمَاتِيَّة",
+        "meaning": "مَذْهَبٌ فِكْرِيٌّ يُعَلِّقُ قِيمَةَ النَّظَرِيَّاتِ عَلَى نَتَائِجِهَا وَتَطْبِيقَاتِهَا العَمَلِيَّةِ"
+      },
+      "german": {
+        "word": "der Pragmatismus",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Pragmatismen",
+        "example": "Politischer Pragmatismus sucht nach realistischen Lösungen statt ideologischer Dogmen."
+      },
+      "english": {
+        "word": "pragmatism",
+        "example": "Political pragmatism seeks realistic solutions rather than ideological dogmas."
+      }
+    },
+    {
+      "id": "c1_016",
+      "icon": "c1_phaenomen",
+      "arabic": {
+        "word": "الظَّاهِرَة",
+        "meaning": "حَدَثٌ أَوْ شَيْءٌ يَقَعُ فِي الخِبْرَةِ الحِسِّيَّةِ وَيُمْكِنُ مُلَاحَظَتُهُ وَدِرَاسَتُهُ"
+      },
+      "german": {
+        "word": "das Phänomen",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Phänomene",
+        "example": "Die Globalisierung ist ein hochkomplexes soziokulturelles Phänomen."
+      },
+      "english": {
+        "word": "phenomenon",
+        "example": "Globalization is a highly complex socio-cultural phenomenon."
+      }
+    },
+    {
+      "id": "c1_017",
+      "icon": "c1_evidenz",
+      "arabic": {
+        "word": "البُرْهَانُ القَاطِع",
+        "meaning": "الدَّلِيلُ التَّجْرِيبِيُّ الوَاضِحُ الَّذِي يَثْبُتُ بِهِ صِحَّةُ الاِدِّعَاءِ"
+      },
+      "german": {
+        "word": "die Evidenz",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Evidenzen",
+        "example": "Empirische Evidenz ist die unentbehrliche Grundlage evidenzbasierter Politik."
+      },
+      "english": {
+        "word": "empirical evidence",
+        "example": "Empirical evidence is the indispensable foundation of evidence-based policy."
+      }
+    },
+    {
+      "id": "c1_018",
+      "icon": "c1_verifikation",
+      "arabic": {
+        "word": "التَّحَقُّقُ مِنَ الصِّحَّة",
+        "meaning": "إِثْبَاتُ صِحَّةِ فَرَضِيَّةٍ عَبْرَ التَّجْرِبَةِ وَالمُشَاهَدَةِ العِلْمِيَّةِ"
+      },
+      "german": {
+        "word": "die Verifikation",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Verifikationen",
+        "example": "Die Verifikation der Messergebnisse erfolgte in mehreren unabhängigen Laboren."
+      },
+      "english": {
+        "word": "verification",
+        "example": "The verification of measurement results took place in several independent labs."
+      }
+    },
+    {
+      "id": "c1_019",
+      "icon": "c1_falsifikation",
+      "arabic": {
+        "word": "دَحْضُ الفَرَضِيَّة",
+        "meaning": "إِثْبَاتُ خَطَأِ نَظَرِيَّةٍ عِلْمِيَّةٍ عَبْرَ إِيجَادِ دَلِيلٍ يُنَاقِضُهَا (بُوبَر)"
+      },
+      "german": {
+        "word": "die Falsifikation",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Falsifikationen",
+        "example": "Nach Karl Popper ist die Falsifikation das entscheidende Kriterium echter Wissenschaft."
+      },
+      "english": {
+        "word": "falsification",
+        "example": "According to Karl Popper, falsification is the decisive criterion of true science."
+      }
+    },
+    {
+      "id": "c1_020",
+      "icon": "c1_moratorium",
+      "arabic": {
+        "word": "التَّعْلِيقُ الرَّسْمِيّ",
+        "meaning": "وَقْفٌ مُؤَقَّتٌ لِنَشَاطٍ أَوْ سَدَادِ دُيُونٍ بِمُوجَبِ اتِّفَاقٍ قَانُونِيٍّ"
+      },
+      "german": {
+        "word": "das Moratorium",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Moratorien",
+        "example": "Die Staaten einigten sich auf ein Moratorium für Kernwaffentests."
+      },
+      "english": {
+        "word": "moratorium",
+        "example": "The states agreed on a moratorium on nuclear weapons tests."
+      }
+    },
+    {
+      "id": "c1_021",
+      "icon": "c1_ratifizierung",
+      "arabic": {
+        "word": "التَّصْدِيقُ الرَّسْمِيّ",
+        "meaning": "مُوَافَقَةُ البَرْلَمَانِ أَوِ السُّلْطَةِ العُلْيَا عَلَى مُعَاهَدَةٍ دَوْلِيَّةٍ لِتُصْبِحَ نَافِذَةً"
+      },
+      "german": {
+        "word": "die Ratifizierung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Ratifizierungen",
+        "example": "Das internationale Klimaabkommen tritt erst nach der Ratifizierung durch 55 Staaten in Kraft."
+      },
+      "english": {
+        "word": "ratification",
+        "example": "The international climate agreement enters into force only after ratification by 55 states."
+      }
+    },
+    {
+      "id": "c1_022",
+      "icon": "c1_interdependenz",
+      "arabic": {
+        "word": "الاعْتِمَادُ المُتَبَادَل",
+        "meaning": "تَشَابُكُ المَصَالِحِ بَيْنَ الدُّوَلِ بِحَيْثُ يُؤَثِّرُ مَا يَحْدُثُ فِي إِحْدَاهَا عَلَى الأُخْرَى"
+      },
+      "german": {
+        "word": "die Interdependenz",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Interdependenzen",
+        "example": "Die ökonomische Interdependenz mindert das Risiko militärischer Konfrontationen."
+      },
+      "english": {
+        "word": "interdependence",
+        "example": "Economic interdependence diminishes the risk of military confrontations."
+      }
+    },
+    {
+      "id": "c1_023",
+      "icon": "c1_multilateral",
+      "arabic": {
+        "word": "المُفَاوَضَاتُ مُتَعَدِّدَةُ الأَطْرَاف",
+        "meaning": "مُحَادَثَاتٌ دِبْلُومَاسِيَّةٌ تَضُمُّ ثَلَاثَ دُوَلٍ أَوْ أَكْثَرَ لِحَلِّ قَضَايَا مُشْتَرَكَةٍ"
+      },
+      "german": {
+        "word": "die multilateralen Verhandlungen",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die multilateralen Verhandlungen",
+        "example": "Multilaterale Verhandlungen erfordern außerordentliches Verhandlungsgeschick."
+      },
+      "english": {
+        "word": "multilateral negotiations",
+        "example": "Multilateral negotiations demand extraordinary negotiating skill."
+      }
+    },
+    {
+      "id": "c1_024",
+      "icon": "c1_kontroverse",
+      "arabic": {
+        "word": "الخِلَافُ الجَوْهَرِيّ",
+        "meaning": "نِزَاعٌ فِكْرِيٌّ أَوْ عِلْمِيٌّ حَادٌّ يَنْقَسِمُ حَوْلَهُ أَهْلُ الِاخْتِصَاصِ"
+      },
+      "german": {
+        "word": "die Kontroverse",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Kontroversen",
+        "example": "Die ethische Kontroverse über Genome Editing spaltet Wissenschaft und Zivilgesellschaft."
+      },
+      "english": {
+        "word": "controversy",
+        "example": "The ethical controversy over genome editing divides science and civil society."
+      }
+    },
+    {
+      "id": "c1_025",
+      "icon": "c1_primat",
+      "arabic": {
+        "word": "الأَوْلَوِيَّةُ السِّيَادِيَّة",
+        "meaning": "صَدَارَةُ مَبْدَأٍ أَوْ سُلْطَةٍ عَلَى غَيْرِهَا (مِثْلَ صَدَارَةِ السِّيَاسَةِ عَلَى العَسْكَرِيَّةِ)"
+      },
+      "german": {
+        "word": "das Primat",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Primate",
+        "example": "In gefestigten Demokratien gilt stets das Primat der Politik über die Streitkräfte."
+      },
+      "english": {
+        "word": "primacy",
+        "example": "In established democracies, the primacy of politics over the armed forces always applies."
+      }
+    }
+  ]
+}

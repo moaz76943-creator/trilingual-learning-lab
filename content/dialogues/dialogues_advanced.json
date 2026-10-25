@@ -1,0 +1,364 @@
+{
+  "engine_id": "dialogues_advanced",
+  "title": {
+    "ar": "المحادثات التفاعلية المتقدمة (A2 - C1)",
+    "de": "Fortgeschrittene Situationsdialoge (A2 - C1)",
+    "en": "Advanced Situational Dialogues (A2 - C1)"
+  },
+  "dialogues": [
+    {
+      "id": "dial_adv_01",
+      "level": "A2",
+      "icon": "dlg_wohnung",
+      "title": {
+        "de": "Wohnungsbesichtigung und Mietvertrag",
+        "ar": "مُعَايَنَةُ الشَّقَّةِ وَتَوْقِيعُ عَقْدِ الإِيجَارِ",
+        "en": "Apartment Viewing and Rental Agreement"
+      },
+      "situation": {
+        "de": "Ein Mieter besichtigt eine Dreizimmerwohnung in Berlin und bespricht die Mietbedingungen mit der Vermieterin.",
+        "ar": "مُسْتَأْجِرٌ يُعَايِنُ شَقَّةً مِنْ ثَلَاثِ غُرَفٍ فِي بَرْلِينَ وَيُنَاقِشُ شُرُوطَ الإِيجَارِ مَعَ المَالِكَةِ.",
+        "en": "A tenant views a three-room apartment in Berlin and discusses rental conditions with the landlady."
+      },
+      "turns": [
+        {
+          "speaker": "Vermieterin",
+          "de": "Guten Tag, Herr Mansour! Willkommen in der Wohnung. Wie gefällt Ihnen der Schnitt der Zimmer?",
+          "ar": "طَابَ يَوْمُكَ يَا سَيِّد مَنْصُور! أَهْلًا بِكَ فِي الشَّقَّةِ. كَيْفَ تَرَى تَقْسِيمَ الغُرَفِ؟",
+          "en": "Good day, Mr. Mansour! Welcome to the apartment. How do you like the layout of the rooms?"
+        },
+        {
+          "speaker": "Mieter",
+          "de": "Guten Tag, Frau Weber! Der Schnitt ist wirklich hervorragend, besonders das helle Wohnzimmer mit dem Südbalkon.",
+          "ar": "طَابَ يَوْمُكِ يَا سَيِّدَة فِيبَر! التَّقْسِيمُ مُمْتَازٌ حَقًّا، خُصُوصًا غُرْفَةَ المَعِيشَةِ المُضِيئَةَ ذَاتَ الشُّرْفَةِ الجَنُوبِيَّةِ.",
+          "en": "Good day, Mrs. Weber! The layout is truly excellent, especially the bright living room with the south-facing balcony."
+        },
+        {
+          "speaker": "Vermieterin",
+          "de": "Die Kaltmiete beträgt 950 Euro pro Monat, zuzüglich 220 Euro für Nebenkosten und Heizung.",
+          "ar": "الإِيجَارُ الأَسَاسِيُّ دُونَ الخَدَمَاتِ يَبْلُغُ 950 يُورُو شَهْرِيًّا، يُضَافُ إِلَيْهَا 220 يُورُو لِلْمَصَارِيفِ الإِضَافِيَّةِ وَالتَّدْفِئَةِ.",
+          "en": "The basic rent is 950 euros per month, plus 220 euros for utilities and heating."
+        },
+        {
+          "speaker": "Mieter",
+          "de": "Das liegt absolut in meinem Budget. Wie hoch ist die Kaution, und wann wäre die Wohnung bezugsfrei?",
+          "ar": "هَذَا يَقَعُ تَمَامًا ضِمْنَ مِيزَانِيَّتِي. كَمْ تَبْلُغُ مَبْلَغُ التَّأْمِينِ، وَمَتَى تَكُونُ الشَّقَّةُ جَاهِزَةً لِلسَّكَنِ؟",
+          "en": "That is absolutely within my budget. How much is the security deposit, and when would the apartment be ready to move in?"
+        },
+        {
+          "speaker": "Vermieterin",
+          "de": "Die Kaution beträgt drei Kaltmieten. Die Wohnung ist ab dem ersten nächsten Monats bezugsfrei. Wenn Sie mir die Gehaltsnachweise einreichen, bereite ich den Vertrag vor.",
+          "ar": "التَّأْمِينُ يُعَادِلُ إِيجَارَ ثَلَاثَةِ أَشْهُرٍ أَسَاسِيَّةٍ. الشَّقَّةُ مُتَاحَةٌ لِلسَّكَنِ ابْتِدَاءً مِنْ أَوَّلِ الشَّهْرِ القَادِمِ. إِذَا قَدَّمْتَ لِي بَيَانَاتِ الرَّاتِبِ، سَأُجَهِّزُ العَقْدَ.",
+          "en": "The deposit is three months' basic rent. The apartment is ready for occupancy from the first of next month. If you submit proof of income, I will prepare the contract."
+        }
+      ],
+      "comprehension_questions": [
+        {
+          "question": "Wie hoch ist die Gesamtmiete (Warmmiete) pro Monat?",
+          "options": [
+            "950 Euro",
+            "1170 Euro",
+            "1250 Euro",
+            "220 Euro"
+          ],
+          "correct_index": 1,
+          "explanation": "Kaltmiete (950) + Nebenkosten (220) = 1170 Euro Warmmiete."
+        }
+      ]
+    },
+    {
+      "id": "dial_adv_02",
+      "level": "B1",
+      "icon": "dlg_job",
+      "title": {
+        "de": "Das Vorstellungsgespräch & Gehaltsverhandlung",
+        "ar": "مُقَابَلَةُ التَّوْظِيفِ وَالتَّفَاوُضُ عَلَى الرَّاتِبِ",
+        "en": "Job Interview & Salary Negotiation"
+      },
+      "situation": {
+        "de": "Eine Softwareentwicklerin bewirbt sich bei einem Technologieunternehmen in München und spricht über ihre Qualifikationen.",
+        "ar": "مُطَوِّرَةُ بَرْمَجِيَّاتٍ تَتَقَدَّمُ لِوَظِيفَةٍ فِي شَرِكَةِ تِكْنُولُوجْيَا فِي مِيُونِيخ وَتَتَحَدَّثُ عَنْ مُؤَهِّلَاتِهَا.",
+        "en": "A software developer applies at a tech company in Munich and discusses her qualifications."
+      },
+      "turns": [
+        {
+          "speaker": "Personalchef",
+          "de": "Frau Schmidt, Ihr Profil hat uns beeindruckt. Welche Erfahrungen bringen Sie im Bereich moderner Cloud-Architekturen mit?",
+          "ar": "سَيِّدَة شْمِيدْت، لَقَدْ نَالَ مِلَفُّكِ الشَّخْصِيُّ إِعْجَابَنَا. مَا هِيَ الخِبْرَاتُ الَّتِي تَمْتَلِكِينَهَا فِي مَجَالِ بِنْيَةِ السَّحَابِ الحَدِيثَةِ؟",
+          "en": "Ms. Schmidt, your profile impressed us. What experience do you bring in modern cloud architectures?"
+        },
+        {
+          "speaker": "Bewerberin",
+          "de": "In den letzten vier Jahren habe ich skalierbare Microservices auf AWS und Google Cloud konzipiert und betreut.",
+          "ar": "خِلَالَ السَّنَوَاتِ الأَرْبَعِ المَاضِيَةِ، قُمْتُ بِتَصْمِيمِ وَإِدَارَةِ خَدَمَاتٍ سَحَابِيَّةٍ مُصَغَّرَةٍ قَابِلَةٍ لِلتَّوَسُّعِ عَلَى AWS وَGoogle Cloud.",
+          "en": "Over the past four years, I have designed and managed scalable microservices on AWS and Google Cloud."
+        },
+        {
+          "speaker": "Personalchef",
+          "de": "Das passt exakt zu unserer Ausrichtung. Welche Gehaltserwartung haben Sie für diese Führungsposition?",
+          "ar": "هَذَا يَتَطَابَقُ تَمَامًا مَعَ تَوَجُّهِنَا. مَا هُوَ الرَّاتِبُ الَّذِي تَتَوَقَّعِينَهُ لِهَذَا المَنْصِبِ القِيَادِيِّ؟",
+          "en": "That matches our focus exactly. What salary expectations do you have for this leadership role?"
+        },
+        {
+          "speaker": "Bewerberin",
+          "de": "Aufgrund meiner Qualifikationen und der Führungsverantwortung halte ich ein Bruttojahresgehalt von 75.000 Euro für angemessen.",
+          "ar": "بِنَاءً عَلَى مُؤَهِّلَاتِي وَمَسْؤُولِيَّةِ القِيَادَةِ، أَرَى أَنَّ رَاتِبًا سَنَوِيًّا إِجْمَالِيًّا قَدْرُهُ 75,000 يُورُو يُعَدُّ مُنَاسِبًا.",
+          "en": "Based on my qualifications and leadership responsibility, I consider a gross annual salary of 75,000 euros appropriate."
+        },
+        {
+          "speaker": "Personalchef",
+          "de": "Wir können Ihnen 72.000 Euro Grundgehalt plus einen erfolgsabhängigen Bonus und ein Weiterbildungsbudget anbieten.",
+          "ar": "يُمْكِنُنَا أَنْ نَعْرِضَ عَلَيْكِ 72,000 يُورُو كَرَاتِبٍ أَسَاسِيٍّ إِضَافَةً إِلَى مُكَافَأَةٍ مَرْبُوطَةٍ بِالأَدَاءِ وَمِيزَانِيَّةٍ لِلتَّطْوِيرِ المِهْنِيِّ.",
+          "en": "We can offer you a base salary of 72,000 euros plus a performance bonus and a training budget."
+        }
+      ],
+      "comprehension_questions": [
+        {
+          "question": "Wie viele Jahre Erfahrung im Cloud-Bereich bringt die Bewerberin mit?",
+          "options": [
+            "Zwei Jahre",
+            "Vier Jahre",
+            "Fünf Jahre",
+            "Zehn Jahre"
+          ],
+          "correct_index": 1,
+          "explanation": "Sie hat in den letzten vier Jahren skalierbare Microservices konzipiert."
+        }
+      ]
+    },
+    {
+      "id": "dial_adv_03",
+      "level": "B1",
+      "icon": "dlg_bank",
+      "title": {
+        "de": "Bankkonto eröffnen & Kreditberatung",
+        "ar": "فَتْحُ حِسَابٍ بَنْكِيٍّ وَاسْتِشَارَةٌ تَمْوِيلِيَّةٌ",
+        "en": "Opening a Bank Account & Credit Consultation"
+      },
+      "situation": {
+        "de": "Ein Neukunde lässt sich bei einer Filialbank über Girokonten und zinsgünstige Kredite beraten.",
+        "ar": "عَمِيلٌ جَدِيدٌ يَسْتَشِيرُ مَسْؤُولَ الفَرْعِ حَوْلَ الحِسَابَاتِ الجَارِيَةِ وَالقُرُوضِ المَيْسُورَةِ.",
+        "en": "A new customer consults with a branch manager about checking accounts and low-interest loans."
+      },
+      "turns": [
+        {
+          "speaker": "Bankberater",
+          "de": "Guten Tag! Sie möchten ein Gehaltskonto eröffnen und sich über Finanzierungsmöglichkeiten informieren?",
+          "ar": "طَابَ يَوْمُكَ! هَلْ تَرْغَبُ فِي فَتْحِ حِسَابٍ لِلرَّاتِبِ وَالاطِّلَاعِ عَلَى خِيَارَاتِ التَّمْوِيلِ؟",
+          "en": "Good day! You would like to open a payroll account and learn about financing options?"
+        },
+        {
+          "speaker": "Kunde",
+          "de": "Ja, genau. Ich benötige ein kostenloses Girokonto mit weltweiter Kreditkarte und Online-Banking.",
+          "ar": "نَعَمْ، بِالضَّبْطِ. أَحْتَاجُ إِلَى حِسَابٍ جَارٍ مَجَّانِيٍّ مَعَ بِطَاقَةٍ ائْتِمَانِيَّةٍ دَوْلِيَّةٍ وَخِدْمَةِ المَصْرِفِيَّةِ عَبْرَ الإِنْتَرْنِتْ.",
+          "en": "Yes, exactly. I need a free checking account with a worldwide credit card and online banking."
+        },
+        {
+          "speaker": "Bankberater",
+          "de": "Unser Premium-Girokonto ist bei regelmäßigem Gehaltseingang ab 1200 Euro monatlich absolut gebührenfrei.",
+          "ar": "حِسَابُنَا المُمَيَّزُ مَجَّانِيٌّ تَمَامًا دُونَ رُسُومٍ فِي حَالِ تَحْوِيلِ رَاتِبٍ مُنْتَظَمٍ لَا يَقِلُّ عَنْ 1200 يُورُو شَهْرِيًّا.",
+          "en": "Our Premium checking account is completely fee-free with regular monthly salary deposits of at least 1,200 euros."
+        },
+        {
+          "speaker": "Kunde",
+          "de": "Ausgezeichnet. Bieten Sie auch zinsgünstige Ratenkredite für die Anschaffung eines Elektroautos an?",
+          "ar": "مُمْتَازٌ. هَلْ تُقَدِّمُونَ أَيْضًا قُرُوضًا مُيَسَّرَةً مُقَسَّطَةً بِفَوَائِدَ مُنْخَفِضَةٍ لِشِرَاءِ سَيَّارَةٍ كَهْرَبَائِيَّةٍ؟",
+          "en": "Excellent. Do you also offer low-interest installment loans for purchasing an electric car?"
+        },
+        {
+          "speaker": "Bankberater",
+          "de": "Ja, unser 'Grüner Autokredit' hat aktuell einen garantierten Effektivzins von lediglich 3,49 Prozent.",
+          "ar": "نَعَمْ، 'قَرْضُ السَّيَّارَاتِ الخَضْرَاءُ' لَدَيْنَا يَحْمِلُ حَالِيًّا فَائِدَةً فِعْلِيَّةً مَضْمُونَةً تَبْلُغُ 3.49 فَقَطْ بِالمِائَةِ.",
+          "en": "Yes, our 'Green Car Loan' currently features a guaranteed effective interest rate of only 3.49 percent."
+        }
+      ],
+      "comprehension_questions": [
+        {
+          "question": "Unter welcher Bedingung ist das Girokonto gebührenfrei?",
+          "options": [
+            "Bei Gehaltseingang ab 1200 Euro",
+            "Nur im ersten Monat",
+            "Bei Einzahlung von 5000 Euro",
+            "Gar nicht"
+          ],
+          "correct_index": 0,
+          "explanation": "Ab 1200 Euro monatlichem Gehaltseingang entfallen die Kontoführungsgebühren."
+        }
+      ]
+    },
+    {
+      "id": "dial_adv_04",
+      "level": "B2",
+      "icon": "dlg_projekt",
+      "title": {
+        "de": "Projektpräsentation & Fachdiskussion",
+        "ar": "عَرْضُ المَشْرُوعِ وَالمُنَاقَشَةُ التِّقْنِيَّةُ التَّخَصُّصِيَّة",
+        "en": "Project Presentation & Technical Discussion"
+      },
+      "situation": {
+        "de": "Ein leitender Ingenieur stellt ein neues System zur automatisierten Qualitätskontrolle vor dem Lenkungsausschuss vor.",
+        "ar": "مُهَنْدِسٌ مَسْؤُولٌ يَعْرِضُ نِظَامًا جَدِيدًا لِمُرَاقَبَةِ الجَوْدَةِ الآلِيَّةِ أَمَامَ لَجْنَةِ التَّوْجِيهِ.",
+        "en": "A lead engineer presents a new automated quality control system to the steering committee."
+      },
+      "turns": [
+        {
+          "speaker": "Ingenieur",
+          "de": "Sehr geehrte Kolleginnen und Kollegen, das implementierte System reduziert die Fehlerrate um 42 Prozent.",
+          "ar": "زَمِيلَاتِي وَزُمَلَائِي الأَعِزَّاء، النِّظَامُ الَّذِي قُمْنَا بِتَطْبِيقِهِ يُخَفِّضُ مُعَدَّلَ الأَخْطَاءِ بِنِسْبَةِ 42 بِالمِائَةِ.",
+          "en": "Dear colleagues, the implemented system reduces the error rate by 42 percent."
+        },
+        {
+          "speaker": "Ausschussmitglied",
+          "de": "Das ist beachtlich. Wie gewährleisten Sie jedoch die Ausfallsicherheit bei unerwarteten Netzwerklatenzen?",
+          "ar": "هَذَا مُثِيرٌ لِلإِعْجَابِ. وَلَكِنْ كَيْفَ تَضْمَنُونَ اسْتِمْرَارِيَّةَ التَّشْغِيلِ عِنْدَ حُدُوثِ تَأَخُّرٍ غَيْرِ مُتَوَقَّعٍ فِي الشَّبَكَةِ؟",
+          "en": "That is impressive. However, how do you ensure fail-safe operation during unexpected network latencies?"
+        },
+        {
+          "speaker": "Ingenieur",
+          "de": "Wir haben eine dezentrale Edge-Computing-Schicht integriert, die lokale Entscheidungen autonom trifft.",
+          "ar": "لَقَدْ قُمْنَا بِدَمْجِ طَبَقَةِ حَوْسَبَةٍ طَرَفِيَّةٍ لَا مَرْكَزِيَّةٍ تَتَّخِذُ القَرَارَاتِ المَحَلِّيَّةَ بِشَكْلٍ ذَاتِيٍّ مُسْتَقِلٍّ.",
+          "en": "We integrated a decentralized edge-computing layer that makes local decisions autonomously."
+        },
+        {
+          "speaker": "Ausschussmitglied",
+          "de": "Ein schlüssiges Konzept. Wann rechnen Sie mit dem vollständigen produktiven Rollout in allen Werken?",
+          "ar": "مَفْهُومٌ مُقْنِعٌ وَمُتَمَاسِكٌ. مَتَى تَتَوَقَّعُونَ الإِطْلَاقَ الإِنْتَاجِيَّ الكَامِلَ فِي جَمِيعِ المَصَانِعِ؟",
+          "en": "A coherent concept. When do you anticipate the full production rollout across all plants?"
+        },
+        {
+          "speaker": "Ingenieur",
+          "de": "Sofern die Freigabe heute erteilt wird, erfolgt der schrittweise Rollout planmäßig im zweiten Quartal.",
+          "ar": "شَرِيطَةَ الحُصُولِ عَلَى المُوافَقَةِ اليَوْمَ، سَيَتِمُّ الإِطْلَاقُ التَّدْرِيجِيُّ حَسَبَ الخُطَّةِ فِي الرُّبْعِ الثَّانِي.",
+          "en": "Provided approval is granted today, the phased rollout will occur on schedule in the second quarter."
+        }
+      ],
+      "comprehension_questions": [
+        {
+          "question": "Um wie viel Prozent verringert das System die Fehlerrate?",
+          "options": [
+            "Um 20 Prozent",
+            "Um 42 Prozent",
+            "Um 50 Prozent",
+            "Um 10 Prozent"
+          ],
+          "correct_index": 1,
+          "explanation": "Der Ingenieur erwähnt explizit eine Reduktion der Fehlerrate um 42 Prozent."
+        }
+      ]
+    },
+    {
+      "id": "dial_adv_05",
+      "level": "B2",
+      "icon": "dlg_recht",
+      "title": {
+        "de": "Rechtsberatung & Schadensersatzansprüche",
+        "ar": "الاسْتِشَارَةُ القَانُونِيَّةُ وَدَعَاوَى التَّعْوِيضِ عَنِ الضَّرَرِ",
+        "en": "Legal Consultation & Compensation Claims"
+      },
+      "situation": {
+        "de": "Ein Mandant bespricht mit seiner Rechtsanwältin einen Vertragsbruch durch einen internationalen Lieferanten.",
+        "ar": "مُوَكِّلٌ يُنَاقِشُ مَعَ مُحَامِيَتِهِ قَضِيَّةَ إِخْلَالٍ بِالعَقْدِ مِنْ قِبَلِ مُوَرِّدٍ دَوْلِيٍّ.",
+        "en": "A client discusses a breach of contract by an international supplier with his attorney."
+      },
+      "turns": [
+        {
+          "speaker": "Rechtsanwältin",
+          "de": "Herr Al-Najjar, ich habe den Liefervertrag sorgfältig geprüft. Die Klausel zur Fristeinhaltung ist unmissverständlich.",
+          "ar": "سَيِّد النَّجَّار، لَقَدْ فَحَصْتُ عَقْدَ التَّوْرِيدِ بِعِنَايَةٍ. البَنْدُ الخَاصُّ بِالِالْتِزَامِ بِالمَوَاعِيدِ صَرِيحٌ لَا يَقْبَلُ اللَّبْسَ.",
+          "en": "Mr. Al-Najjar, I have thoroughly reviewed the supply contract. The clause regarding deadline compliance is unequivocal."
+        },
+        {
+          "speaker": "Mandant",
+          "de": "Der dreiwöchige Verzug hat unseren Produktionsprozess massiv gestört und beträchtliche Einbußen verursacht.",
+          "ar": "التَّأْخِيرُ الَّذِي اسْتَمَرَّ ثَلَاثَةَ أَسَابِيعَ أَرْبَكَ عَمَلِيَّتَنَا الإِنْتَاجِيَّةَ بِشِدَّةٍ وَسَبَّبَ لَنَا خَسَائِرَ فَادِحَةً.",
+          "en": "The three-week delay severely disrupted our production process and caused substantial losses."
+        },
+        {
+          "speaker": "Rechtsanwältin",
+          "de": "Gemäß Paragraph 280 BGB steht Ihnen ein legitimer Anspruch auf vollumfänglichen Schadensersatz zu.",
+          "ar": "وَفْقًا لِلْمَادَّةِ 280 مِنَ القَانُونِ المَدَنِيِّ الأَلْمَانِيِّ، يَحِقُّ لَكَ رَفْعُ دَعْوَى شَرْعِيَّةٍ لِلْمُطَالَبَةِ بِتَعْوِيضٍ شَامِلٍ عَنِ الأَضْرَارِ.",
+          "en": "Pursuant to Section 280 BGB, you are entitled to a legitimate claim for full compensation of damages."
+        },
+        {
+          "speaker": "Mandant",
+          "de": "Raten Sie zu einer außergerichtlichen Einigung oder sollten wir direkt Klage beim Landgericht erheben?",
+          "ar": "هَلْ تَنْصَحِينَ بِتَسْوِيَةٍ وُدِّيَّةٍ خَارِجَ المَحْكَمَةِ، أَمْ يَنْبَغِي لَنَا رَفْعُ دَعْوَى مُبَاشَرَةً لَدَى المَحْكَمَةِ الِابْتِدَائِيَّةِ؟",
+          "en": "Do you advise an out-of-court settlement or should we directly file a lawsuit with the regional court?"
+        },
+        {
+          "speaker": "Rechtsanwältin",
+          "de": "Ich empfehle, zunächst eine förmliche Mahnung mit Nachfrist zu versenden, um unsere Verhandlungsposition zu stärken.",
+          "ar": "أُوصِي بِإِرْسَالِ إِخْطَارٍ رَسْمِيٍّ يَتَضَمَّنُ مُهْلَةً إِضَافِيَّةً أَوَّلًا، لِتَعْزِيزِ مَوْقِفِنَا التَّفَاوُضِيِّ.",
+          "en": "I recommend first dispatching a formal warning with a grace period to reinforce our negotiating leverage."
+        }
+      ],
+      "comprehension_questions": [
+        {
+          "question": "Welchen ersten Schritt empfiehlt die Anwältin?",
+          "options": [
+            "Sofortige Klageerhebung",
+            "Eine förmliche Mahnung mit Nachfrist",
+            "Kündigung des Unternehmens",
+            "Verzicht auf Schadensersatz"
+          ],
+          "correct_index": 1,
+          "explanation": "Sie empfiehlt zunächst eine förmliche Mahnung mit Nachfrist zur Stärkung der Verhandlungsposition."
+        }
+      ]
+    },
+    {
+      "id": "dial_adv_06",
+      "level": "C1",
+      "icon": "dlg_diplomatie",
+      "title": {
+        "de": "Diplomatischer Runder Tisch zur Klimapolitik",
+        "ar": "طَاوِلَةٌ مُسْتَدِيرَةٌ دِبْلُومَاسِيَّةٌ حَوْلَ السِّيَاسَةِ المُنَاخِيَّةِ الدَّوْلِيَّة",
+        "en": "Diplomatic Round Table on Global Climate Policy"
+      },
+      "situation": {
+        "de": "Zwei Chefunterhändler verhandeln auf einem internationalen Gipfel über verbindliche Emissionsgrenzen und Ausgleichszahlungen.",
+        "ar": "مُفَاوِضَانِ رَئِيسِيَّانِ يَتَفَاوَضَانِ فِي قِمَّةٍ دَوْلِيَّةٍ حَوْلَ سُقُوفِ الانْبِعَاثَاتِ المُلْزِمَةِ وَالتَّعْوِيضَاتِ المَالِيَّةِ.",
+        "en": "Two chief negotiators negotiate at an international summit over binding emission caps and compensation funds."
+      },
+      "turns": [
+        {
+          "speaker": "Chefunterhändler A",
+          "de": "Exzellenz, ein Konsens ist nur dann tragfähig, wenn das Primat wissenschaftlicher Erkenntnisse uneingeschränkt anerkannt wird.",
+          "ar": "سَعَادَةَ المُمَثِّلِ، إِنَّ التَّوَافُقَ لَنْ يَكُونَ قَابِلًا لِلصُّمُودِ إِلَّا إِذَا تَمَّ الِاعْتِرَافُ غَيْرُ المَشْرُوطِ بِصَدَارَةِ البَرَاهِينِ العِلْمِيَّةِ.",
+          "en": "Excellency, a consensus is viable only if the primacy of scientific evidence is acknowledged unconditionally."
+        },
+        {
+          "speaker": "Chefunterhändler B",
+          "de": "Wir verkennen keineswegs die Dringlichkeit, fordern jedoch eine differenzierte Berücksichtigung historischer Verantwortlichkeiten.",
+          "ar": "نَحْنُ لَا نُنْكِرُ أَبَدًا عُنْصُرَ الاسْتِعْجَالِ، لَكِنَّنَا نُطَالِبُ بِمُرَاعَاةٍ دَقِيقَةٍ وَمُنْصِفَةٍ لِلْمَسْؤُولِيَّاتِ التَّارِيخِيَّةِ.",
+          "en": "We by no means disregard the urgency, yet demand differentiated consideration of historical responsibilities."
+        },
+        {
+          "speaker": "Chefunterhändler A",
+          "de": "Ein Moratorium für fossile Subventionen bei gleichzeitiger Aufstockung des multilateralen Transitionsfonds könnte den Durchbruch erzielen.",
+          "ar": "إِنَّ تَعْلِيقَ الدَّعْمِ لِلْوَقُودِ الأُحْفُورِيِّ مَعَ زِيَادَةِ مَوَارِدِ صُنْدُوقِ التَّحَوُّلِ مُتَعَدِّدِ الأَطْرَافِ قَدْ يُحْدِثُ الِانْفِرَاجَةَ المَنْشُودَةَ.",
+          "en": "A moratorium on fossil subsidies alongside an increase in the multilateral transition fund could achieve the breakthrough."
+        },
+        {
+          "speaker": "Chefunterhändler B",
+          "de": "Sofern die Ratifizierungsmodalitäten rechtliche Verbindlichkeit garantieren, sind wir bereit, diese Deklaration mitzutragen.",
+          "ar": "طَالَمَا أَنَّ إِجْرَاءَاتِ التَّصْدِيقِ الرَّسْمِيِّ تَضْمَنُ إِلْزَامِيَّةً قَانُونِيَّةً صَارِمَةً، فَإِنَّنَا عَلَى اسْتِعْدَادٍ لِتَبَنِّي هَذَا الإِعْلَانِ.",
+          "en": "Provided the ratification modalities guarantee legal bindingness, we are prepared to endorse this declaration."
+        }
+      ],
+      "comprehension_questions": [
+        {
+          "question": "Was schlägt Chefunterhändler A als möglichen Kompromiss vor?",
+          "options": [
+            "Die vollständige Absage der Konferenz",
+            "Ein Moratorium für fossile Subventionen und Aufstockung des Fonds",
+            "Keine weiteren Klimaziele",
+            "Rücktritt aller Delegationen"
+          ],
+          "correct_index": 1,
+          "explanation": "Er schlägt ein Moratorium für fossile Subventionen bei gleichzeitiger Aufstockung des multilateralen Transitionsfonds vor."
+        }
+      ]
+    }
+  ]
+}
