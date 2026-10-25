@@ -1,0 +1,1217 @@
+{
+  "category_id": "career_contracts_b1",
+  "id": "career_contracts_b1",
+  "level": "B1",
+  "title": {
+    "ar": "سوق العمل والعقود والمفاوضات المهنية",
+    "de": "Arbeitsmarkt & Verträge",
+    "en": "Job Market & Contracts"
+  },
+  "name_ar": "سوق العمل والعقود والمفاوضات المهنية",
+  "name_de": "Arbeitsmarkt & Verträge",
+  "name_en": "Job Market & Contracts",
+  "concepts": [
+    {
+      "id": "career_contracts_b1_01",
+      "icon": "career_01",
+      "image_id": "career_01",
+      "level": "B1",
+      "ar": "عَقْدُ العَمَل",
+      "de": "der Arbeitsvertrag",
+      "en": "employment contract",
+      "arabic": {
+        "word": "عَقْدُ العَمَل",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "der Arbeitsvertrag",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Arbeitsverträge",
+        "example": "der Arbeitsvertrag spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "employment contract",
+        "example": "The concept of employment contract plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_02",
+      "icon": "career_02",
+      "image_id": "career_02",
+      "level": "B1",
+      "ar": "المُفَاوَضَةُ المِهْنِيَّة",
+      "de": "die Gehaltsverhandlung",
+      "en": "salary negotiation",
+      "arabic": {
+        "word": "المُفَاوَضَةُ المِهْنِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "die Gehaltsverhandlung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Gehaltsverhandlungen",
+        "example": "die Gehaltsverhandlung spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "salary negotiation",
+        "example": "The concept of salary negotiation plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_03",
+      "icon": "career_03",
+      "image_id": "career_03",
+      "level": "B1",
+      "ar": "السِّيرَةُ الذَّاتِيَّة",
+      "de": "der Lebenslauf",
+      "en": "resume",
+      "arabic": {
+        "word": "السِّيرَةُ الذَّاتِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "der Lebenslauf",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Lebensläufe",
+        "example": "der Lebenslauf spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "resume",
+        "example": "The concept of resume plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_04",
+      "icon": "career_04",
+      "image_id": "career_04",
+      "level": "B1",
+      "ar": "مُقَابَلَةُ التَّوْظِيف",
+      "de": "das Vorstellungsgespräch",
+      "en": "job interview",
+      "arabic": {
+        "word": "مُقَابَلَةُ التَّوْظِيف",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "das Vorstellungsgespräch",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Vorstellungsgespräche",
+        "example": "das Vorstellungsgespräch spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "job interview",
+        "example": "The concept of job interview plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_05",
+      "icon": "career_05",
+      "image_id": "career_05",
+      "level": "B1",
+      "ar": "فَتْرَةُ التَّجْرِبَة",
+      "de": "die Probezeit",
+      "en": "probation period",
+      "arabic": {
+        "word": "فَتْرَةُ التَّجْرِبَة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "die Probezeit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Probezeiten",
+        "example": "die Probezeit spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "probation period",
+        "example": "The concept of probation period plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_06",
+      "icon": "career_06",
+      "image_id": "career_06",
+      "level": "B1",
+      "ar": "الإِشْعَارُ بِالإنْهَاء",
+      "de": "die Kündigungsfrist",
+      "en": "notice period",
+      "arabic": {
+        "word": "الإِشْعَارُ بِالإنْهَاء",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "die Kündigungsfrist",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Kündigungsfristen",
+        "example": "die Kündigungsfrist spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "notice period",
+        "example": "The concept of notice period plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_07",
+      "icon": "career_07",
+      "image_id": "career_07",
+      "level": "B1",
+      "ar": "التَّرْقِيَةُ الوَظِيفِيَّة",
+      "de": "die Beförderung",
+      "en": "promotion",
+      "arabic": {
+        "word": "التَّرْقِيَةُ الوَظِيفِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "die Beförderung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Beförderungen",
+        "example": "die Beförderung spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "promotion",
+        "example": "The concept of promotion plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_08",
+      "icon": "career_08",
+      "image_id": "career_08",
+      "level": "B1",
+      "ar": "التَّأْمِينُ الاجْتِمَاعِيّ",
+      "de": "die Sozialversicherung",
+      "en": "social security",
+      "arabic": {
+        "word": "التَّأْمِينُ الاجْتِمَاعِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "die Sozialversicherung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Sozialversicherungen",
+        "example": "die Sozialversicherung spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "social security",
+        "example": "The concept of social security plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_09",
+      "icon": "career_09",
+      "image_id": "career_09",
+      "level": "B1",
+      "ar": "الرَّاتِبُ الإِجْمَالِيّ",
+      "de": "das Bruttogehalt",
+      "en": "gross salary",
+      "arabic": {
+        "word": "الرَّاتِبُ الإِجْمَالِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "das Bruttogehalt",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Bruttogehälter",
+        "example": "das Bruttogehalt spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "gross salary",
+        "example": "The concept of gross salary plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_10",
+      "icon": "career_10",
+      "image_id": "career_10",
+      "level": "B1",
+      "ar": "الرَّاتِبُ الصَّافِي",
+      "de": "das Nettogehalt",
+      "en": "net salary",
+      "arabic": {
+        "word": "الرَّاتِبُ الصَّافِي",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "das Nettogehalt",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Nettogehälter",
+        "example": "das Nettogehalt spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "net salary",
+        "example": "The concept of net salary plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_11",
+      "icon": "career_11",
+      "image_id": "career_11",
+      "level": "B1",
+      "ar": "المُؤَهِّلُ المِهْنِيّ",
+      "de": "die Qualifikation",
+      "en": "qualification",
+      "arabic": {
+        "word": "المُؤَهِّلُ المِهْنِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "die Qualifikation",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Qualifikationen",
+        "example": "die Qualifikation spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "qualification",
+        "example": "The concept of qualification plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_12",
+      "icon": "career_12",
+      "image_id": "career_12",
+      "level": "B1",
+      "ar": "التَّدْرِيبُ المِهْنِيّ",
+      "de": "die Weiterbildung",
+      "en": "further training",
+      "arabic": {
+        "word": "التَّدْرِيبُ المِهْنِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "die Weiterbildung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Weiterbildungen",
+        "example": "die Weiterbildung spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "further training",
+        "example": "The concept of further training plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_13",
+      "icon": "career_13",
+      "image_id": "career_13",
+      "level": "B1",
+      "ar": "العَمَلُ عَنْ بُعْد",
+      "de": "das Homeoffice",
+      "en": "remote work",
+      "arabic": {
+        "word": "العَمَلُ عَنْ بُعْد",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "das Homeoffice",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Homeoffices",
+        "example": "das Homeoffice spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "remote work",
+        "example": "The concept of remote work plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_14",
+      "icon": "career_14",
+      "image_id": "career_14",
+      "level": "B1",
+      "ar": "سَاعَاتُ العَمَلِ الإِضَافِيَّة",
+      "de": "die Überstunde",
+      "en": "overtime",
+      "arabic": {
+        "word": "سَاعَاتُ العَمَلِ الإِضَافِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "die Überstunde",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Überstunden",
+        "example": "die Überstunde spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "overtime",
+        "example": "The concept of overtime plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_15",
+      "icon": "career_15",
+      "image_id": "career_15",
+      "level": "B1",
+      "ar": "النَّقَابَةُ العُمَّالِيَّة",
+      "de": "die Gewerkschaft",
+      "en": "trade union",
+      "arabic": {
+        "word": "النَّقَابَةُ العُمَّالِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "die Gewerkschaft",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Gewerkschaften",
+        "example": "die Gewerkschaft spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "trade union",
+        "example": "The concept of trade union plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_16",
+      "icon": "career_16",
+      "image_id": "career_16",
+      "level": "B1",
+      "ar": "خِطَابُ الدَّافِع",
+      "de": "das Motivationsschreiben",
+      "en": "cover letter",
+      "arabic": {
+        "word": "خِطَابُ الدَّافِع",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "das Motivationsschreiben",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Motivationsschreiben",
+        "example": "das Motivationsschreiben spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "cover letter",
+        "example": "The concept of cover letter plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_17",
+      "icon": "career_17",
+      "image_id": "career_17",
+      "level": "B1",
+      "ar": "الشَّهَادَةُ الخِبْرِيَّة",
+      "de": "das Arbeitszeugnis",
+      "en": "reference letter",
+      "arabic": {
+        "word": "الشَّهَادَةُ الخِبْرِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "das Arbeitszeugnis",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Arbeitszeugnisse",
+        "example": "das Arbeitszeugnis spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "reference letter",
+        "example": "The concept of reference letter plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_18",
+      "icon": "career_18",
+      "image_id": "career_18",
+      "level": "B1",
+      "ar": "الكَفَاءَةُ القِيَادِيَّة",
+      "de": "die Führungskompetenz",
+      "en": "leadership skill",
+      "arabic": {
+        "word": "الكَفَاءَةُ القِيَادِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "die Führungskompetenz",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Führungskompetenzen",
+        "example": "die Führungskompetenz spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "leadership skill",
+        "example": "The concept of leadership skill plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_19",
+      "icon": "career_19",
+      "image_id": "career_19",
+      "level": "B1",
+      "ar": "التَّقَاعُدُ المِهْنِيّ",
+      "de": "der Ruhestand",
+      "en": "retirement",
+      "arabic": {
+        "word": "التَّقَاعُدُ المِهْنِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "der Ruhestand",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Ruhestände",
+        "example": "der Ruhestand spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "retirement",
+        "example": "The concept of retirement plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_20",
+      "icon": "career_20",
+      "image_id": "career_20",
+      "level": "B1",
+      "ar": "رِيَادَةُ الأَعْمَال",
+      "de": "das Unternehmertum",
+      "en": "entrepreneurship",
+      "arabic": {
+        "word": "رِيَادَةُ الأَعْمَال",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "das Unternehmertum",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Unternehmertümer",
+        "example": "das Unternehmertum spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "entrepreneurship",
+        "example": "The concept of entrepreneurship plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_21",
+      "icon": "career_21",
+      "image_id": "career_21",
+      "level": "B1",
+      "ar": "المَسْؤُولِيَّةُ الإِدَارِيَّة",
+      "de": "die Verantwortung",
+      "en": "responsibility",
+      "arabic": {
+        "word": "المَسْؤُولِيَّةُ الإِدَارِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "die Verantwortung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Verantwortungen",
+        "example": "die Verantwortung spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "responsibility",
+        "example": "The concept of responsibility plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_22",
+      "icon": "career_22",
+      "image_id": "career_22",
+      "level": "B1",
+      "ar": "فَرِيقُ العَمَل",
+      "de": "die Arbeitsgruppe",
+      "en": "working group",
+      "arabic": {
+        "word": "فَرِيقُ العَمَل",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "die Arbeitsgruppe",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Arbeitsgruppen",
+        "example": "die Arbeitsgruppe spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "working group",
+        "example": "The concept of working group plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_23",
+      "icon": "career_23",
+      "image_id": "career_23",
+      "level": "B1",
+      "ar": "الإِنْتَاجِيَّة",
+      "de": "die Produktivität",
+      "en": "productivity",
+      "arabic": {
+        "word": "الإِنْتَاجِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "die Produktivität",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Produktivitäten",
+        "example": "die Produktivität spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "productivity",
+        "example": "The concept of productivity plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_24",
+      "icon": "career_24",
+      "image_id": "career_24",
+      "level": "B1",
+      "ar": "التَّوَازُنُ المِهْنِيّ",
+      "de": "die Work-Life-Balance",
+      "en": "work-life balance",
+      "arabic": {
+        "word": "التَّوَازُنُ المِهْنِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "die Work-Life-Balance",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Balances",
+        "example": "die Work-Life-Balance spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "work-life balance",
+        "example": "The concept of work-life balance plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_25",
+      "icon": "career_25",
+      "image_id": "career_25",
+      "level": "B1",
+      "ar": "القِطَاعُ الخَاصّ",
+      "de": "die Privatwirtschaft",
+      "en": "private sector",
+      "arabic": {
+        "word": "القِطَاعُ الخَاصّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "die Privatwirtschaft",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Privatwirtschaften",
+        "example": "die Privatwirtschaft spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "private sector",
+        "example": "The concept of private sector plays a key role in Job Market & Contracts."
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "career_contracts_b1_01",
+      "icon": "career_01",
+      "image_id": "career_01",
+      "level": "B1",
+      "ar": "عَقْدُ العَمَل",
+      "de": "der Arbeitsvertrag",
+      "en": "employment contract",
+      "arabic": {
+        "word": "عَقْدُ العَمَل",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "der Arbeitsvertrag",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Arbeitsverträge",
+        "example": "der Arbeitsvertrag spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "employment contract",
+        "example": "The concept of employment contract plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_02",
+      "icon": "career_02",
+      "image_id": "career_02",
+      "level": "B1",
+      "ar": "المُفَاوَضَةُ المِهْنِيَّة",
+      "de": "die Gehaltsverhandlung",
+      "en": "salary negotiation",
+      "arabic": {
+        "word": "المُفَاوَضَةُ المِهْنِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "die Gehaltsverhandlung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Gehaltsverhandlungen",
+        "example": "die Gehaltsverhandlung spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "salary negotiation",
+        "example": "The concept of salary negotiation plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_03",
+      "icon": "career_03",
+      "image_id": "career_03",
+      "level": "B1",
+      "ar": "السِّيرَةُ الذَّاتِيَّة",
+      "de": "der Lebenslauf",
+      "en": "resume",
+      "arabic": {
+        "word": "السِّيرَةُ الذَّاتِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "der Lebenslauf",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Lebensläufe",
+        "example": "der Lebenslauf spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "resume",
+        "example": "The concept of resume plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_04",
+      "icon": "career_04",
+      "image_id": "career_04",
+      "level": "B1",
+      "ar": "مُقَابَلَةُ التَّوْظِيف",
+      "de": "das Vorstellungsgespräch",
+      "en": "job interview",
+      "arabic": {
+        "word": "مُقَابَلَةُ التَّوْظِيف",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "das Vorstellungsgespräch",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Vorstellungsgespräche",
+        "example": "das Vorstellungsgespräch spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "job interview",
+        "example": "The concept of job interview plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_05",
+      "icon": "career_05",
+      "image_id": "career_05",
+      "level": "B1",
+      "ar": "فَتْرَةُ التَّجْرِبَة",
+      "de": "die Probezeit",
+      "en": "probation period",
+      "arabic": {
+        "word": "فَتْرَةُ التَّجْرِبَة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "die Probezeit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Probezeiten",
+        "example": "die Probezeit spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "probation period",
+        "example": "The concept of probation period plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_06",
+      "icon": "career_06",
+      "image_id": "career_06",
+      "level": "B1",
+      "ar": "الإِشْعَارُ بِالإنْهَاء",
+      "de": "die Kündigungsfrist",
+      "en": "notice period",
+      "arabic": {
+        "word": "الإِشْعَارُ بِالإنْهَاء",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "die Kündigungsfrist",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Kündigungsfristen",
+        "example": "die Kündigungsfrist spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "notice period",
+        "example": "The concept of notice period plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_07",
+      "icon": "career_07",
+      "image_id": "career_07",
+      "level": "B1",
+      "ar": "التَّرْقِيَةُ الوَظِيفِيَّة",
+      "de": "die Beförderung",
+      "en": "promotion",
+      "arabic": {
+        "word": "التَّرْقِيَةُ الوَظِيفِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "die Beförderung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Beförderungen",
+        "example": "die Beförderung spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "promotion",
+        "example": "The concept of promotion plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_08",
+      "icon": "career_08",
+      "image_id": "career_08",
+      "level": "B1",
+      "ar": "التَّأْمِينُ الاجْتِمَاعِيّ",
+      "de": "die Sozialversicherung",
+      "en": "social security",
+      "arabic": {
+        "word": "التَّأْمِينُ الاجْتِمَاعِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "die Sozialversicherung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Sozialversicherungen",
+        "example": "die Sozialversicherung spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "social security",
+        "example": "The concept of social security plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_09",
+      "icon": "career_09",
+      "image_id": "career_09",
+      "level": "B1",
+      "ar": "الرَّاتِبُ الإِجْمَالِيّ",
+      "de": "das Bruttogehalt",
+      "en": "gross salary",
+      "arabic": {
+        "word": "الرَّاتِبُ الإِجْمَالِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "das Bruttogehalt",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Bruttogehälter",
+        "example": "das Bruttogehalt spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "gross salary",
+        "example": "The concept of gross salary plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_10",
+      "icon": "career_10",
+      "image_id": "career_10",
+      "level": "B1",
+      "ar": "الرَّاتِبُ الصَّافِي",
+      "de": "das Nettogehalt",
+      "en": "net salary",
+      "arabic": {
+        "word": "الرَّاتِبُ الصَّافِي",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "das Nettogehalt",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Nettogehälter",
+        "example": "das Nettogehalt spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "net salary",
+        "example": "The concept of net salary plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_11",
+      "icon": "career_11",
+      "image_id": "career_11",
+      "level": "B1",
+      "ar": "المُؤَهِّلُ المِهْنِيّ",
+      "de": "die Qualifikation",
+      "en": "qualification",
+      "arabic": {
+        "word": "المُؤَهِّلُ المِهْنِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "die Qualifikation",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Qualifikationen",
+        "example": "die Qualifikation spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "qualification",
+        "example": "The concept of qualification plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_12",
+      "icon": "career_12",
+      "image_id": "career_12",
+      "level": "B1",
+      "ar": "التَّدْرِيبُ المِهْنِيّ",
+      "de": "die Weiterbildung",
+      "en": "further training",
+      "arabic": {
+        "word": "التَّدْرِيبُ المِهْنِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "die Weiterbildung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Weiterbildungen",
+        "example": "die Weiterbildung spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "further training",
+        "example": "The concept of further training plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_13",
+      "icon": "career_13",
+      "image_id": "career_13",
+      "level": "B1",
+      "ar": "العَمَلُ عَنْ بُعْد",
+      "de": "das Homeoffice",
+      "en": "remote work",
+      "arabic": {
+        "word": "العَمَلُ عَنْ بُعْد",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "das Homeoffice",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Homeoffices",
+        "example": "das Homeoffice spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "remote work",
+        "example": "The concept of remote work plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_14",
+      "icon": "career_14",
+      "image_id": "career_14",
+      "level": "B1",
+      "ar": "سَاعَاتُ العَمَلِ الإِضَافِيَّة",
+      "de": "die Überstunde",
+      "en": "overtime",
+      "arabic": {
+        "word": "سَاعَاتُ العَمَلِ الإِضَافِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "die Überstunde",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Überstunden",
+        "example": "die Überstunde spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "overtime",
+        "example": "The concept of overtime plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_15",
+      "icon": "career_15",
+      "image_id": "career_15",
+      "level": "B1",
+      "ar": "النَّقَابَةُ العُمَّالِيَّة",
+      "de": "die Gewerkschaft",
+      "en": "trade union",
+      "arabic": {
+        "word": "النَّقَابَةُ العُمَّالِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "die Gewerkschaft",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Gewerkschaften",
+        "example": "die Gewerkschaft spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "trade union",
+        "example": "The concept of trade union plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_16",
+      "icon": "career_16",
+      "image_id": "career_16",
+      "level": "B1",
+      "ar": "خِطَابُ الدَّافِع",
+      "de": "das Motivationsschreiben",
+      "en": "cover letter",
+      "arabic": {
+        "word": "خِطَابُ الدَّافِع",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "das Motivationsschreiben",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Motivationsschreiben",
+        "example": "das Motivationsschreiben spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "cover letter",
+        "example": "The concept of cover letter plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_17",
+      "icon": "career_17",
+      "image_id": "career_17",
+      "level": "B1",
+      "ar": "الشَّهَادَةُ الخِبْرِيَّة",
+      "de": "das Arbeitszeugnis",
+      "en": "reference letter",
+      "arabic": {
+        "word": "الشَّهَادَةُ الخِبْرِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "das Arbeitszeugnis",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Arbeitszeugnisse",
+        "example": "das Arbeitszeugnis spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "reference letter",
+        "example": "The concept of reference letter plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_18",
+      "icon": "career_18",
+      "image_id": "career_18",
+      "level": "B1",
+      "ar": "الكَفَاءَةُ القِيَادِيَّة",
+      "de": "die Führungskompetenz",
+      "en": "leadership skill",
+      "arabic": {
+        "word": "الكَفَاءَةُ القِيَادِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "die Führungskompetenz",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Führungskompetenzen",
+        "example": "die Führungskompetenz spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "leadership skill",
+        "example": "The concept of leadership skill plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_19",
+      "icon": "career_19",
+      "image_id": "career_19",
+      "level": "B1",
+      "ar": "التَّقَاعُدُ المِهْنِيّ",
+      "de": "der Ruhestand",
+      "en": "retirement",
+      "arabic": {
+        "word": "التَّقَاعُدُ المِهْنِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "der Ruhestand",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Ruhestände",
+        "example": "der Ruhestand spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "retirement",
+        "example": "The concept of retirement plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_20",
+      "icon": "career_20",
+      "image_id": "career_20",
+      "level": "B1",
+      "ar": "رِيَادَةُ الأَعْمَال",
+      "de": "das Unternehmertum",
+      "en": "entrepreneurship",
+      "arabic": {
+        "word": "رِيَادَةُ الأَعْمَال",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "das Unternehmertum",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Unternehmertümer",
+        "example": "das Unternehmertum spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "entrepreneurship",
+        "example": "The concept of entrepreneurship plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_21",
+      "icon": "career_21",
+      "image_id": "career_21",
+      "level": "B1",
+      "ar": "المَسْؤُولِيَّةُ الإِدَارِيَّة",
+      "de": "die Verantwortung",
+      "en": "responsibility",
+      "arabic": {
+        "word": "المَسْؤُولِيَّةُ الإِدَارِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "die Verantwortung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Verantwortungen",
+        "example": "die Verantwortung spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "responsibility",
+        "example": "The concept of responsibility plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_22",
+      "icon": "career_22",
+      "image_id": "career_22",
+      "level": "B1",
+      "ar": "فَرِيقُ العَمَل",
+      "de": "die Arbeitsgruppe",
+      "en": "working group",
+      "arabic": {
+        "word": "فَرِيقُ العَمَل",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "die Arbeitsgruppe",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Arbeitsgruppen",
+        "example": "die Arbeitsgruppe spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "working group",
+        "example": "The concept of working group plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_23",
+      "icon": "career_23",
+      "image_id": "career_23",
+      "level": "B1",
+      "ar": "الإِنْتَاجِيَّة",
+      "de": "die Produktivität",
+      "en": "productivity",
+      "arabic": {
+        "word": "الإِنْتَاجِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "die Produktivität",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Produktivitäten",
+        "example": "die Produktivität spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "productivity",
+        "example": "The concept of productivity plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_24",
+      "icon": "career_24",
+      "image_id": "career_24",
+      "level": "B1",
+      "ar": "التَّوَازُنُ المِهْنِيّ",
+      "de": "die Work-Life-Balance",
+      "en": "work-life balance",
+      "arabic": {
+        "word": "التَّوَازُنُ المِهْنِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "die Work-Life-Balance",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Balances",
+        "example": "die Work-Life-Balance spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "work-life balance",
+        "example": "The concept of work-life balance plays a key role in Job Market & Contracts."
+      }
+    },
+    {
+      "id": "career_contracts_b1_25",
+      "icon": "career_25",
+      "image_id": "career_25",
+      "level": "B1",
+      "ar": "القِطَاعُ الخَاصّ",
+      "de": "die Privatwirtschaft",
+      "en": "private sector",
+      "arabic": {
+        "word": "القِطَاعُ الخَاصّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي سوق العمل والعقود والمفاوضات المهنية"
+      },
+      "german": {
+        "word": "die Privatwirtschaft",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Privatwirtschaften",
+        "example": "die Privatwirtschaft spielt eine zentrale Rolle im Bereich Arbeitsmarkt & Verträge."
+      },
+      "english": {
+        "word": "private sector",
+        "example": "The concept of private sector plays a key role in Job Market & Contracts."
+      }
+    }
+  ]
+}
