@@ -3875,6 +3875,106 @@
     "tpc_study": {
       "asset_path": "content/assets/svg/tpc_study.svg",
       "category": "grammar"
+    },
+    "agr_agriculture": {
+      "asset_path": "content/assets/svg/agr_agriculture.svg",
+      "category": "agriculture"
+    },
+    "agr_farm": {
+      "asset_path": "content/assets/svg/agr_farm.svg",
+      "category": "agriculture"
+    },
+    "agr_farmer": {
+      "asset_path": "content/assets/svg/agr_farmer.svg",
+      "category": "agriculture"
+    },
+    "agr_harvest": {
+      "asset_path": "content/assets/svg/agr_harvest.svg",
+      "category": "agriculture"
+    },
+    "agr_grain": {
+      "asset_path": "content/assets/svg/agr_grain.svg",
+      "category": "agriculture"
+    },
+    "agr_wheat": {
+      "asset_path": "content/assets/svg/agr_wheat.svg",
+      "category": "agriculture"
+    },
+    "agr_soil": {
+      "asset_path": "content/assets/svg/agr_soil.svg",
+      "category": "agriculture"
+    },
+    "agr_fertilizer": {
+      "asset_path": "content/assets/svg/agr_fertilizer.svg",
+      "category": "agriculture"
+    },
+    "agr_irrigation": {
+      "asset_path": "content/assets/svg/agr_irrigation.svg",
+      "category": "agriculture"
+    },
+    "agr_sustainable": {
+      "asset_path": "content/assets/svg/agr_sustainable.svg",
+      "category": "agriculture"
+    },
+    "agr_environment": {
+      "asset_path": "content/assets/svg/agr_environment.svg",
+      "category": "agriculture"
+    },
+    "agr_pesticide": {
+      "asset_path": "content/assets/svg/agr_pesticide.svg",
+      "category": "agriculture"
+    },
+    "agr_livestock": {
+      "asset_path": "content/assets/svg/agr_livestock.svg",
+      "category": "agriculture"
+    },
+    "agr_pasture": {
+      "asset_path": "content/assets/svg/agr_pasture.svg",
+      "category": "agriculture"
+    },
+    "agr_nutrition": {
+      "asset_path": "content/assets/svg/agr_nutrition.svg",
+      "category": "agriculture"
+    },
+    "agr_food_security": {
+      "asset_path": "content/assets/svg/agr_food_security.svg",
+      "category": "agriculture"
+    },
+    "agr_organic": {
+      "asset_path": "content/assets/svg/agr_organic.svg",
+      "category": "agriculture"
+    },
+    "agr_culinary": {
+      "asset_path": "content/assets/svg/agr_culinary.svg",
+      "category": "agriculture"
+    },
+    "agr_recipe": {
+      "asset_path": "content/assets/svg/agr_recipe.svg",
+      "category": "agriculture"
+    },
+    "agr_ingredient": {
+      "asset_path": "content/assets/svg/agr_ingredient.svg",
+      "category": "agriculture"
+    },
+    "agr_spicy": {
+      "asset_path": "content/assets/svg/agr_spicy.svg",
+      "category": "agriculture"
+    },
+    "agr_fresh": {
+      "asset_path": "content/assets/svg/agr_fresh.svg",
+      "category": "agriculture"
+    },
+    "agr_local": {
+      "asset_path": "content/assets/svg/agr_local.svg",
+      "category": "agriculture"
+    },
+    "agr_market": {
+      "asset_path": "content/assets/svg/agr_market.svg",
+      "category": "agriculture"
+    },
+    "agr_delicacy": {
+      "asset_path": "content/assets/svg/agr_delicacy.svg",
+      "category": "agriculture"
     }
   }
 }

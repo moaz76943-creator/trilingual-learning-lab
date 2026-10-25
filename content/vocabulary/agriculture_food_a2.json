@@ -1,0 +1,204 @@
+{
+  "concepts": [
+    {
+      "id": "agr_001",
+      "german": "die Landwirtschaft",
+      "plural": "-",
+      "arabic": "الزِّرَاعَةُ",
+      "english": "agriculture",
+      "image_id": "agr_agriculture"
+    },
+    {
+      "id": "agr_002",
+      "german": "der Bauernhof",
+      "plural": "die Bauernhöfe",
+      "arabic": "الْمَزْرَعَةُ",
+      "english": "farm",
+      "image_id": "agr_farm"
+    },
+    {
+      "id": "agr_003",
+      "german": "der Bauer",
+      "plural": "die Bauern",
+      "arabic": "الْمُزَارِعُ",
+      "english": "farmer",
+      "image_id": "agr_farmer"
+    },
+    {
+      "id": "agr_004",
+      "german": "die Ernte",
+      "plural": "die Ernten",
+      "arabic": "الْحَصَادُ",
+      "english": "harvest",
+      "image_id": "agr_harvest"
+    },
+    {
+      "id": "agr_005",
+      "german": "das Getreide",
+      "plural": "-",
+      "arabic": "الْحُبُوبُ",
+      "english": "grain",
+      "image_id": "agr_grain"
+    },
+    {
+      "id": "agr_006",
+      "german": "der Weizen",
+      "plural": "-",
+      "arabic": "الْقَمْحُ",
+      "english": "wheat",
+      "image_id": "agr_wheat"
+    },
+    {
+      "id": "agr_007",
+      "german": "der Boden",
+      "plural": "die Böden",
+      "arabic": "التُّرْبَةُ",
+      "english": "soil",
+      "image_id": "agr_soil"
+    },
+    {
+      "id": "agr_008",
+      "german": "der Dünger",
+      "plural": "die Dünger",
+      "arabic": "السَّمَادُ",
+      "english": "fertilizer",
+      "image_id": "agr_fertilizer"
+    },
+    {
+      "id": "agr_009",
+      "german": "die Bewässerung",
+      "plural": "die Bewässerungen",
+      "arabic": "الرَّيُّ",
+      "english": "irrigation",
+      "image_id": "agr_irrigation"
+    },
+    {
+      "id": "agr_010",
+      "german": "nachhaltig",
+      "plural": "-",
+      "arabic": "مُسْتَدَامٌ",
+      "english": "sustainable",
+      "image_id": "agr_sustainable"
+    },
+    {
+      "id": "agr_011",
+      "german": "der Umweltschutz",
+      "plural": "-",
+      "arabic": "حِمَايَةُ الْبِيئَةِ",
+      "english": "environmental protection",
+      "image_id": "agr_environment"
+    },
+    {
+      "id": "agr_012",
+      "german": "das Pestizid",
+      "plural": "die Pestizide",
+      "arabic": "مُبِيدٌ حَشَرِيٌّ",
+      "english": "pesticide",
+      "image_id": "agr_pesticide"
+    },
+    {
+      "id": "agr_013",
+      "german": "das Vieh",
+      "plural": "-",
+      "arabic": "الْمَاشِيَةُ",
+      "english": "livestock",
+      "image_id": "agr_livestock"
+    },
+    {
+      "id": "agr_014",
+      "german": "die Weide",
+      "plural": "die Weiden",
+      "arabic": "الْمَرْعَى",
+      "english": "pasture",
+      "image_id": "agr_pasture"
+    },
+    {
+      "id": "agr_015",
+      "german": "die Ernährung",
+      "plural": "-",
+      "arabic": "التَّغْذِيَةُ",
+      "english": "nutrition",
+      "image_id": "agr_nutrition"
+    },
+    {
+      "id": "agr_016",
+      "german": "die Lebensmittelsicherheit",
+      "plural": "-",
+      "arabic": "الْأَمْنُ الْغِذَائِيُّ",
+      "english": "food security",
+      "image_id": "agr_food_security"
+    },
+    {
+      "id": "agr_017",
+      "german": "biologisch",
+      "plural": "-",
+      "arabic": "عُضْوِيٌّ (بِيُو)",
+      "english": "organic",
+      "image_id": "agr_organic"
+    },
+    {
+      "id": "agr_018",
+      "german": "die Kulinarik",
+      "plural": "-",
+      "arabic": "فُنُونُ الطَّهْيِ",
+      "english": "culinary arts",
+      "image_id": "agr_culinary"
+    },
+    {
+      "id": "agr_019",
+      "german": "das Rezept",
+      "plural": "die Rezepte",
+      "arabic": "الْوَصْفَةُ",
+      "english": "recipe",
+      "image_id": "agr_recipe"
+    },
+    {
+      "id": "agr_020",
+      "german": "die Zutat",
+      "plural": "die Zutaten",
+      "arabic": "الْمُكَوِّنُ (الْمَقَادِيرُ)",
+      "english": "ingredient",
+      "image_id": "agr_ingredient"
+    },
+    {
+      "id": "agr_021",
+      "german": "gewürzt",
+      "plural": "-",
+      "arabic": "مُتَبَّلٌ",
+      "english": "seasoned/spicy",
+      "image_id": "agr_spicy"
+    },
+    {
+      "id": "agr_022",
+      "german": "frisch",
+      "plural": "-",
+      "arabic": "طَازَجٌ",
+      "english": "fresh",
+      "image_id": "agr_fresh"
+    },
+    {
+      "id": "agr_023",
+      "german": "lokal",
+      "plural": "-",
+      "arabic": "مَحَلِّيٌّ",
+      "english": "local",
+      "image_id": "agr_local"
+    },
+    {
+      "id": "agr_024",
+      "german": "der Markt",
+      "plural": "die Märkte",
+      "arabic": "السُّوقُ",
+      "english": "market",
+      "image_id": "agr_market"
+    },
+    {
+      "id": "agr_025",
+      "german": "die Köstlichkeit",
+      "plural": "die Köstlichkeiten",
+      "arabic": "اللَّذَّةُ / الشَّهِيَّةُ",
+      "english": "delicacy",
+      "image_id": "agr_delicacy"
+    }
+  ]
+}
