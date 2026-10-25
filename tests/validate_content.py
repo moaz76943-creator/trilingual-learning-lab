@@ -8,7 +8,7 @@ def validate_all():
     assert len(assets) >= 950, f"Expected at least 950 assets, found {len(assets)}"
 
     for img_id, meta in assets.items():
-        p = meta["asset_path"]
+        p = meta.get("asset_path") or meta.get("path") or ""
         assert os.path.exists(p), f"Missing: {p}"
         # assert os.path.getsize(p) <= 20480, f"Too large: {p}" # Disabled for placeholders
 
