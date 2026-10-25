@@ -1,0 +1,1217 @@
+{
+  "category_id": "macroeconomics_b2",
+  "id": "macroeconomics_b2",
+  "level": "B2",
+  "title": {
+    "ar": "الاقتصاد الكلي والسياسات النقدية",
+    "de": "Makroökonomie & Geldpolitik",
+    "en": "Macroeconomics & Monetary Policy"
+  },
+  "name_ar": "الاقتصاد الكلي والسياسات النقدية",
+  "name_de": "Makroökonomie & Geldpolitik",
+  "name_en": "Macroeconomics & Monetary Policy",
+  "concepts": [
+    {
+      "id": "macroeconomics_b2_01",
+      "icon": "macroe_01",
+      "image_id": "macroe_01",
+      "level": "B2",
+      "ar": "النَّاتِجُ المَحَلِّيُّ الإِجْمَالِيّ",
+      "de": "das Bruttoinlandsprodukt",
+      "en": "gross domestic product",
+      "arabic": {
+        "word": "النَّاتِجُ المَحَلِّيُّ الإِجْمَالِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "das Bruttoinlandsprodukt",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Produkte",
+        "example": "das Bruttoinlandsprodukt spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "gross domestic product",
+        "example": "The concept of gross domestic product plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_02",
+      "icon": "macroe_02",
+      "image_id": "macroe_02",
+      "level": "B2",
+      "ar": "التَّضَخُّمُ المَالِيّ",
+      "de": "die Inflation",
+      "en": "inflation",
+      "arabic": {
+        "word": "التَّضَخُّمُ المَالِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "die Inflation",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Inflationen",
+        "example": "die Inflation spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "inflation",
+        "example": "The concept of inflation plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_03",
+      "icon": "macroe_03",
+      "image_id": "macroe_03",
+      "level": "B2",
+      "ar": "البَنْكُ المَرْكَزِيّ",
+      "de": "die Zentralbank",
+      "en": "central bank",
+      "arabic": {
+        "word": "البَنْكُ المَرْكَزِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "die Zentralbank",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Zentralbanken",
+        "example": "die Zentralbank spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "central bank",
+        "example": "The concept of central bank plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_04",
+      "icon": "macroe_04",
+      "image_id": "macroe_04",
+      "level": "B2",
+      "ar": "سِعْرُ الفَائِدَة",
+      "de": "der Zinssatz",
+      "en": "interest rate",
+      "arabic": {
+        "word": "سِعْرُ الفَائِدَة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "der Zinssatz",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Zinssätze",
+        "example": "der Zinssatz spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "interest rate",
+        "example": "The concept of interest rate plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_05",
+      "icon": "macroe_05",
+      "image_id": "macroe_05",
+      "level": "B2",
+      "ar": "السِّيَاسَةُ النَّقْدِيَّة",
+      "de": "die Geldpolitik",
+      "en": "monetary policy",
+      "arabic": {
+        "word": "السِّيَاسَةُ النَّقْدِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "die Geldpolitik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Geldpolitiken",
+        "example": "die Geldpolitik spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "monetary policy",
+        "example": "The concept of monetary policy plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_06",
+      "icon": "macroe_06",
+      "image_id": "macroe_06",
+      "level": "B2",
+      "ar": "الدَّوْرَةُ الاقْتِصَادِيَّة",
+      "de": "die Konjunktur",
+      "en": "economic cycle",
+      "arabic": {
+        "word": "الدَّوْرَةُ الاقْتِصَادِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "die Konjunktur",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Konjunkturen",
+        "example": "die Konjunktur spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "economic cycle",
+        "example": "The concept of economic cycle plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_07",
+      "icon": "macroe_07",
+      "image_id": "macroe_07",
+      "level": "B2",
+      "ar": "المِيزَانُ التِّجَارِيّ",
+      "de": "die Handelsbilanz",
+      "en": "trade balance",
+      "arabic": {
+        "word": "المِيزَانُ التِّجَارِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "die Handelsbilanz",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Handelsbilanzen",
+        "example": "die Handelsbilanz spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "trade balance",
+        "example": "The concept of trade balance plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_08",
+      "icon": "macroe_08",
+      "image_id": "macroe_08",
+      "level": "B2",
+      "ar": "الرُّكُودُ الاقْتِصَادِيّ",
+      "de": "die Rezession",
+      "en": "recession",
+      "arabic": {
+        "word": "الرُّكُودُ الاقْتِصَادِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "die Rezession",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Rezessionen",
+        "example": "die Rezession spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "recession",
+        "example": "The concept of recession plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_09",
+      "icon": "macroe_09",
+      "image_id": "macroe_09",
+      "level": "B2",
+      "ar": "السُّيُولَةُ النَّقْدِيَّة",
+      "de": "die Liquidität",
+      "en": "liquidity",
+      "arabic": {
+        "word": "السُّيُولَةُ النَّقْدِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "die Liquidität",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Liquiditäten",
+        "example": "die Liquidität spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "liquidity",
+        "example": "The concept of liquidity plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_10",
+      "icon": "macroe_10",
+      "image_id": "macroe_10",
+      "level": "B2",
+      "ar": "سُوقُ الأَوْرَاقِ المَالِيَّة",
+      "de": "die Wertpapierbörse",
+      "en": "stock exchange",
+      "arabic": {
+        "word": "سُوقُ الأَوْرَاقِ المَالِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "die Wertpapierbörse",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Börsen",
+        "example": "die Wertpapierbörse spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "stock exchange",
+        "example": "The concept of stock exchange plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_11",
+      "icon": "macroe_11",
+      "image_id": "macroe_11",
+      "level": "B2",
+      "ar": "السَّنَدُ الحُكُومِيّ",
+      "de": "die Staatsanleihe",
+      "en": "government bond",
+      "arabic": {
+        "word": "السَّنَدُ الحُكُومِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "die Staatsanleihe",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Staatsanleihen",
+        "example": "die Staatsanleihe spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "government bond",
+        "example": "The concept of government bond plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_12",
+      "icon": "macroe_12",
+      "image_id": "macroe_12",
+      "level": "B2",
+      "ar": "عَجْزُ المِيزَانِيَّة",
+      "de": "das Haushaltsdefizit",
+      "en": "budget deficit",
+      "arabic": {
+        "word": "عَجْزُ المِيزَانِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "das Haushaltsdefizit",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Defizite",
+        "example": "das Haushaltsdefizit spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "budget deficit",
+        "example": "The concept of budget deficit plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_13",
+      "icon": "macroe_13",
+      "image_id": "macroe_13",
+      "level": "B2",
+      "ar": "سِعْرُ الصَّرْف",
+      "de": "der Wechselkurs",
+      "en": "exchange rate",
+      "arabic": {
+        "word": "سِعْرُ الصَّرْف",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "der Wechselkurs",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Wechselkurse",
+        "example": "der Wechselkurs spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "exchange rate",
+        "example": "The concept of exchange rate plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_14",
+      "icon": "macroe_14",
+      "image_id": "macroe_14",
+      "level": "B2",
+      "ar": "القُوَّةُ الشِّرَائِيَّة",
+      "de": "die Kaufkraft",
+      "en": "purchasing power",
+      "arabic": {
+        "word": "القُوَّةُ الشِّرَائِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "die Kaufkraft",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Kaufkräfte",
+        "example": "die Kaufkraft spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "purchasing power",
+        "example": "The concept of purchasing power plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_15",
+      "icon": "macroe_15",
+      "image_id": "macroe_15",
+      "level": "B2",
+      "ar": "الاسْتِثْمَارُ الأَجْنَبِيّ",
+      "de": "die Direktinvestition",
+      "en": "foreign investment",
+      "arabic": {
+        "word": "الاسْتِثْمَارُ الأَجْنَبِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "die Direktinvestition",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Investitionen",
+        "example": "die Direktinvestition spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "foreign investment",
+        "example": "The concept of foreign investment plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_16",
+      "icon": "macroe_16",
+      "image_id": "macroe_16",
+      "level": "B2",
+      "ar": "الضَّرِيبَةُ التَّصَاعُدِيَّة",
+      "de": "die Progressivsteuer",
+      "en": "progressive tax",
+      "arabic": {
+        "word": "الضَّرِيبَةُ التَّصَاعُدِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "die Progressivsteuer",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Steuern",
+        "example": "die Progressivsteuer spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "progressive tax",
+        "example": "The concept of progressive tax plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_17",
+      "icon": "macroe_17",
+      "image_id": "macroe_17",
+      "level": "B2",
+      "ar": "الدَّيْنُ العَامّ",
+      "de": "die Staatsverschuldung",
+      "en": "public debt",
+      "arabic": {
+        "word": "الدَّيْنُ العَامّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "die Staatsverschuldung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Verschuldungen",
+        "example": "die Staatsverschuldung spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "public debt",
+        "example": "The concept of public debt plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_18",
+      "icon": "macroe_18",
+      "image_id": "macroe_18",
+      "level": "B2",
+      "ar": "العَوْلَمَةُ الاقْتِصَادِيَّة",
+      "de": "die Globalisierung",
+      "en": "globalization",
+      "arabic": {
+        "word": "العَوْلَمَةُ الاقْتِصَادِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "die Globalisierung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Globalisierungen",
+        "example": "die Globalisierung spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "globalization",
+        "example": "The concept of globalization plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_19",
+      "icon": "macroe_19",
+      "image_id": "macroe_19",
+      "level": "B2",
+      "ar": "المُنَافَسَةُ الحُرَّة",
+      "de": "der Wettbewerb",
+      "en": "competition",
+      "arabic": {
+        "word": "المُنَافَسَةُ الحُرَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "der Wettbewerb",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Wettbewerbe",
+        "example": "der Wettbewerb spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "competition",
+        "example": "The concept of competition plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_20",
+      "icon": "macroe_20",
+      "image_id": "macroe_20",
+      "level": "B2",
+      "ar": "الاحْتِكَارُ السُّوقِيّ",
+      "de": "das Monopol",
+      "en": "monopoly",
+      "arabic": {
+        "word": "الاحْتِكَارُ السُّوقِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "das Monopol",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Monopole",
+        "example": "das Monopol spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "monopoly",
+        "example": "The concept of monopoly plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_21",
+      "icon": "macroe_21",
+      "image_id": "macroe_21",
+      "level": "B2",
+      "ar": "العَرْضُ وَالطَّلَب",
+      "de": "das Angebot und die Nachfrage",
+      "en": "supply and demand",
+      "arabic": {
+        "word": "العَرْضُ وَالطَّلَب",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "das Angebot und die Nachfrage",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Angebote",
+        "example": "das Angebot und die Nachfrage spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "supply and demand",
+        "example": "The concept of supply and demand plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_22",
+      "icon": "macroe_22",
+      "image_id": "macroe_22",
+      "level": "B2",
+      "ar": "التَّنْمِيَةُ المُسْتَدَامَة",
+      "de": "die Wirtschaftsentwicklung",
+      "en": "economic development",
+      "arabic": {
+        "word": "التَّنْمِيَةُ المُسْتَدَامَة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "die Wirtschaftsentwicklung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Entwicklungen",
+        "example": "die Wirtschaftsentwicklung spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "economic development",
+        "example": "The concept of economic development plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_23",
+      "icon": "macroe_23",
+      "image_id": "macroe_23",
+      "level": "B2",
+      "ar": "الأَسْهُمُ المَالِيَّة",
+      "de": "die Aktie",
+      "en": "stock / share",
+      "arabic": {
+        "word": "الأَسْهُمُ المَالِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "die Aktie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Aktien",
+        "example": "die Aktie spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "stock / share",
+        "example": "The concept of stock / share plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_24",
+      "icon": "macroe_24",
+      "image_id": "macroe_24",
+      "level": "B2",
+      "ar": "العَائِدُ الاسْتِثْمَارِيّ",
+      "de": "die Rendite",
+      "en": "return / yield",
+      "arabic": {
+        "word": "العَائِدُ الاسْتِثْمَارِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "die Rendite",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Renditen",
+        "example": "die Rendite spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "return / yield",
+        "example": "The concept of return / yield plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_25",
+      "icon": "macroe_25",
+      "image_id": "macroe_25",
+      "level": "B2",
+      "ar": "الاسْتِقْرَارُ المَالِيّ",
+      "de": "die Finanzstabilität",
+      "en": "financial stability",
+      "arabic": {
+        "word": "الاسْتِقْرَارُ المَالِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "die Finanzstabilität",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Stabilitäten",
+        "example": "die Finanzstabilität spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "financial stability",
+        "example": "The concept of financial stability plays a key role in Macroeconomics & Monetary Policy."
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "macroeconomics_b2_01",
+      "icon": "macroe_01",
+      "image_id": "macroe_01",
+      "level": "B2",
+      "ar": "النَّاتِجُ المَحَلِّيُّ الإِجْمَالِيّ",
+      "de": "das Bruttoinlandsprodukt",
+      "en": "gross domestic product",
+      "arabic": {
+        "word": "النَّاتِجُ المَحَلِّيُّ الإِجْمَالِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "das Bruttoinlandsprodukt",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Produkte",
+        "example": "das Bruttoinlandsprodukt spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "gross domestic product",
+        "example": "The concept of gross domestic product plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_02",
+      "icon": "macroe_02",
+      "image_id": "macroe_02",
+      "level": "B2",
+      "ar": "التَّضَخُّمُ المَالِيّ",
+      "de": "die Inflation",
+      "en": "inflation",
+      "arabic": {
+        "word": "التَّضَخُّمُ المَالِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "die Inflation",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Inflationen",
+        "example": "die Inflation spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "inflation",
+        "example": "The concept of inflation plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_03",
+      "icon": "macroe_03",
+      "image_id": "macroe_03",
+      "level": "B2",
+      "ar": "البَنْكُ المَرْكَزِيّ",
+      "de": "die Zentralbank",
+      "en": "central bank",
+      "arabic": {
+        "word": "البَنْكُ المَرْكَزِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "die Zentralbank",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Zentralbanken",
+        "example": "die Zentralbank spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "central bank",
+        "example": "The concept of central bank plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_04",
+      "icon": "macroe_04",
+      "image_id": "macroe_04",
+      "level": "B2",
+      "ar": "سِعْرُ الفَائِدَة",
+      "de": "der Zinssatz",
+      "en": "interest rate",
+      "arabic": {
+        "word": "سِعْرُ الفَائِدَة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "der Zinssatz",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Zinssätze",
+        "example": "der Zinssatz spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "interest rate",
+        "example": "The concept of interest rate plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_05",
+      "icon": "macroe_05",
+      "image_id": "macroe_05",
+      "level": "B2",
+      "ar": "السِّيَاسَةُ النَّقْدِيَّة",
+      "de": "die Geldpolitik",
+      "en": "monetary policy",
+      "arabic": {
+        "word": "السِّيَاسَةُ النَّقْدِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "die Geldpolitik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Geldpolitiken",
+        "example": "die Geldpolitik spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "monetary policy",
+        "example": "The concept of monetary policy plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_06",
+      "icon": "macroe_06",
+      "image_id": "macroe_06",
+      "level": "B2",
+      "ar": "الدَّوْرَةُ الاقْتِصَادِيَّة",
+      "de": "die Konjunktur",
+      "en": "economic cycle",
+      "arabic": {
+        "word": "الدَّوْرَةُ الاقْتِصَادِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "die Konjunktur",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Konjunkturen",
+        "example": "die Konjunktur spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "economic cycle",
+        "example": "The concept of economic cycle plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_07",
+      "icon": "macroe_07",
+      "image_id": "macroe_07",
+      "level": "B2",
+      "ar": "المِيزَانُ التِّجَارِيّ",
+      "de": "die Handelsbilanz",
+      "en": "trade balance",
+      "arabic": {
+        "word": "المِيزَانُ التِّجَارِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "die Handelsbilanz",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Handelsbilanzen",
+        "example": "die Handelsbilanz spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "trade balance",
+        "example": "The concept of trade balance plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_08",
+      "icon": "macroe_08",
+      "image_id": "macroe_08",
+      "level": "B2",
+      "ar": "الرُّكُودُ الاقْتِصَادِيّ",
+      "de": "die Rezession",
+      "en": "recession",
+      "arabic": {
+        "word": "الرُّكُودُ الاقْتِصَادِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "die Rezession",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Rezessionen",
+        "example": "die Rezession spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "recession",
+        "example": "The concept of recession plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_09",
+      "icon": "macroe_09",
+      "image_id": "macroe_09",
+      "level": "B2",
+      "ar": "السُّيُولَةُ النَّقْدِيَّة",
+      "de": "die Liquidität",
+      "en": "liquidity",
+      "arabic": {
+        "word": "السُّيُولَةُ النَّقْدِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "die Liquidität",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Liquiditäten",
+        "example": "die Liquidität spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "liquidity",
+        "example": "The concept of liquidity plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_10",
+      "icon": "macroe_10",
+      "image_id": "macroe_10",
+      "level": "B2",
+      "ar": "سُوقُ الأَوْرَاقِ المَالِيَّة",
+      "de": "die Wertpapierbörse",
+      "en": "stock exchange",
+      "arabic": {
+        "word": "سُوقُ الأَوْرَاقِ المَالِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "die Wertpapierbörse",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Börsen",
+        "example": "die Wertpapierbörse spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "stock exchange",
+        "example": "The concept of stock exchange plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_11",
+      "icon": "macroe_11",
+      "image_id": "macroe_11",
+      "level": "B2",
+      "ar": "السَّنَدُ الحُكُومِيّ",
+      "de": "die Staatsanleihe",
+      "en": "government bond",
+      "arabic": {
+        "word": "السَّنَدُ الحُكُومِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "die Staatsanleihe",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Staatsanleihen",
+        "example": "die Staatsanleihe spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "government bond",
+        "example": "The concept of government bond plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_12",
+      "icon": "macroe_12",
+      "image_id": "macroe_12",
+      "level": "B2",
+      "ar": "عَجْزُ المِيزَانِيَّة",
+      "de": "das Haushaltsdefizit",
+      "en": "budget deficit",
+      "arabic": {
+        "word": "عَجْزُ المِيزَانِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "das Haushaltsdefizit",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Defizite",
+        "example": "das Haushaltsdefizit spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "budget deficit",
+        "example": "The concept of budget deficit plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_13",
+      "icon": "macroe_13",
+      "image_id": "macroe_13",
+      "level": "B2",
+      "ar": "سِعْرُ الصَّرْف",
+      "de": "der Wechselkurs",
+      "en": "exchange rate",
+      "arabic": {
+        "word": "سِعْرُ الصَّرْف",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "der Wechselkurs",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Wechselkurse",
+        "example": "der Wechselkurs spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "exchange rate",
+        "example": "The concept of exchange rate plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_14",
+      "icon": "macroe_14",
+      "image_id": "macroe_14",
+      "level": "B2",
+      "ar": "القُوَّةُ الشِّرَائِيَّة",
+      "de": "die Kaufkraft",
+      "en": "purchasing power",
+      "arabic": {
+        "word": "القُوَّةُ الشِّرَائِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "die Kaufkraft",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Kaufkräfte",
+        "example": "die Kaufkraft spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "purchasing power",
+        "example": "The concept of purchasing power plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_15",
+      "icon": "macroe_15",
+      "image_id": "macroe_15",
+      "level": "B2",
+      "ar": "الاسْتِثْمَارُ الأَجْنَبِيّ",
+      "de": "die Direktinvestition",
+      "en": "foreign investment",
+      "arabic": {
+        "word": "الاسْتِثْمَارُ الأَجْنَبِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "die Direktinvestition",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Investitionen",
+        "example": "die Direktinvestition spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "foreign investment",
+        "example": "The concept of foreign investment plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_16",
+      "icon": "macroe_16",
+      "image_id": "macroe_16",
+      "level": "B2",
+      "ar": "الضَّرِيبَةُ التَّصَاعُدِيَّة",
+      "de": "die Progressivsteuer",
+      "en": "progressive tax",
+      "arabic": {
+        "word": "الضَّرِيبَةُ التَّصَاعُدِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "die Progressivsteuer",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Steuern",
+        "example": "die Progressivsteuer spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "progressive tax",
+        "example": "The concept of progressive tax plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_17",
+      "icon": "macroe_17",
+      "image_id": "macroe_17",
+      "level": "B2",
+      "ar": "الدَّيْنُ العَامّ",
+      "de": "die Staatsverschuldung",
+      "en": "public debt",
+      "arabic": {
+        "word": "الدَّيْنُ العَامّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "die Staatsverschuldung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Verschuldungen",
+        "example": "die Staatsverschuldung spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "public debt",
+        "example": "The concept of public debt plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_18",
+      "icon": "macroe_18",
+      "image_id": "macroe_18",
+      "level": "B2",
+      "ar": "العَوْلَمَةُ الاقْتِصَادِيَّة",
+      "de": "die Globalisierung",
+      "en": "globalization",
+      "arabic": {
+        "word": "العَوْلَمَةُ الاقْتِصَادِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "die Globalisierung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Globalisierungen",
+        "example": "die Globalisierung spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "globalization",
+        "example": "The concept of globalization plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_19",
+      "icon": "macroe_19",
+      "image_id": "macroe_19",
+      "level": "B2",
+      "ar": "المُنَافَسَةُ الحُرَّة",
+      "de": "der Wettbewerb",
+      "en": "competition",
+      "arabic": {
+        "word": "المُنَافَسَةُ الحُرَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "der Wettbewerb",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Wettbewerbe",
+        "example": "der Wettbewerb spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "competition",
+        "example": "The concept of competition plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_20",
+      "icon": "macroe_20",
+      "image_id": "macroe_20",
+      "level": "B2",
+      "ar": "الاحْتِكَارُ السُّوقِيّ",
+      "de": "das Monopol",
+      "en": "monopoly",
+      "arabic": {
+        "word": "الاحْتِكَارُ السُّوقِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "das Monopol",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Monopole",
+        "example": "das Monopol spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "monopoly",
+        "example": "The concept of monopoly plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_21",
+      "icon": "macroe_21",
+      "image_id": "macroe_21",
+      "level": "B2",
+      "ar": "العَرْضُ وَالطَّلَب",
+      "de": "das Angebot und die Nachfrage",
+      "en": "supply and demand",
+      "arabic": {
+        "word": "العَرْضُ وَالطَّلَب",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "das Angebot und die Nachfrage",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Angebote",
+        "example": "das Angebot und die Nachfrage spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "supply and demand",
+        "example": "The concept of supply and demand plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_22",
+      "icon": "macroe_22",
+      "image_id": "macroe_22",
+      "level": "B2",
+      "ar": "التَّنْمِيَةُ المُسْتَدَامَة",
+      "de": "die Wirtschaftsentwicklung",
+      "en": "economic development",
+      "arabic": {
+        "word": "التَّنْمِيَةُ المُسْتَدَامَة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "die Wirtschaftsentwicklung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Entwicklungen",
+        "example": "die Wirtschaftsentwicklung spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "economic development",
+        "example": "The concept of economic development plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_23",
+      "icon": "macroe_23",
+      "image_id": "macroe_23",
+      "level": "B2",
+      "ar": "الأَسْهُمُ المَالِيَّة",
+      "de": "die Aktie",
+      "en": "stock / share",
+      "arabic": {
+        "word": "الأَسْهُمُ المَالِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "die Aktie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Aktien",
+        "example": "die Aktie spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "stock / share",
+        "example": "The concept of stock / share plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_24",
+      "icon": "macroe_24",
+      "image_id": "macroe_24",
+      "level": "B2",
+      "ar": "العَائِدُ الاسْتِثْمَارِيّ",
+      "de": "die Rendite",
+      "en": "return / yield",
+      "arabic": {
+        "word": "العَائِدُ الاسْتِثْمَارِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "die Rendite",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Renditen",
+        "example": "die Rendite spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "return / yield",
+        "example": "The concept of return / yield plays a key role in Macroeconomics & Monetary Policy."
+      }
+    },
+    {
+      "id": "macroeconomics_b2_25",
+      "icon": "macroe_25",
+      "image_id": "macroe_25",
+      "level": "B2",
+      "ar": "الاسْتِقْرَارُ المَالِيّ",
+      "de": "die Finanzstabilität",
+      "en": "financial stability",
+      "arabic": {
+        "word": "الاسْتِقْرَارُ المَالِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الاقتصاد الكلي والسياسات النقدية"
+      },
+      "german": {
+        "word": "die Finanzstabilität",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Stabilitäten",
+        "example": "die Finanzstabilität spielt eine zentrale Rolle im Bereich Makroökonomie & Geldpolitik."
+      },
+      "english": {
+        "word": "financial stability",
+        "example": "The concept of financial stability plays a key role in Macroeconomics & Monetary Policy."
+      }
+    }
+  ]
+}
