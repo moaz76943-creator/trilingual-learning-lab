@@ -4435,6 +4435,106 @@
     "cyb_bug": {
       "asset_path": "content/assets/svg/cyb_bug.svg",
       "category": "technology"
+    },
+    "cinema_01": {
+      "path": "content/assets/svg/cinema_01.svg",
+      "category": "cinema_music_a2"
+    },
+    "cinema_02": {
+      "path": "content/assets/svg/cinema_02.svg",
+      "category": "cinema_music_a2"
+    },
+    "cinema_03": {
+      "path": "content/assets/svg/cinema_03.svg",
+      "category": "cinema_music_a2"
+    },
+    "cinema_04": {
+      "path": "content/assets/svg/cinema_04.svg",
+      "category": "cinema_music_a2"
+    },
+    "cinema_05": {
+      "path": "content/assets/svg/cinema_05.svg",
+      "category": "cinema_music_a2"
+    },
+    "cinema_06": {
+      "path": "content/assets/svg/cinema_06.svg",
+      "category": "cinema_music_a2"
+    },
+    "cinema_07": {
+      "path": "content/assets/svg/cinema_07.svg",
+      "category": "cinema_music_a2"
+    },
+    "cinema_08": {
+      "path": "content/assets/svg/cinema_08.svg",
+      "category": "cinema_music_a2"
+    },
+    "cinema_09": {
+      "path": "content/assets/svg/cinema_09.svg",
+      "category": "cinema_music_a2"
+    },
+    "cinema_10": {
+      "path": "content/assets/svg/cinema_10.svg",
+      "category": "cinema_music_a2"
+    },
+    "cinema_11": {
+      "path": "content/assets/svg/cinema_11.svg",
+      "category": "cinema_music_a2"
+    },
+    "cinema_12": {
+      "path": "content/assets/svg/cinema_12.svg",
+      "category": "cinema_music_a2"
+    },
+    "cinema_13": {
+      "path": "content/assets/svg/cinema_13.svg",
+      "category": "cinema_music_a2"
+    },
+    "cinema_14": {
+      "path": "content/assets/svg/cinema_14.svg",
+      "category": "cinema_music_a2"
+    },
+    "cinema_15": {
+      "path": "content/assets/svg/cinema_15.svg",
+      "category": "cinema_music_a2"
+    },
+    "cinema_16": {
+      "path": "content/assets/svg/cinema_16.svg",
+      "category": "cinema_music_a2"
+    },
+    "cinema_17": {
+      "path": "content/assets/svg/cinema_17.svg",
+      "category": "cinema_music_a2"
+    },
+    "cinema_18": {
+      "path": "content/assets/svg/cinema_18.svg",
+      "category": "cinema_music_a2"
+    },
+    "cinema_19": {
+      "path": "content/assets/svg/cinema_19.svg",
+      "category": "cinema_music_a2"
+    },
+    "cinema_20": {
+      "path": "content/assets/svg/cinema_20.svg",
+      "category": "cinema_music_a2"
+    },
+    "cinema_21": {
+      "path": "content/assets/svg/cinema_21.svg",
+      "category": "cinema_music_a2"
+    },
+    "cinema_22": {
+      "path": "content/assets/svg/cinema_22.svg",
+      "category": "cinema_music_a2"
+    },
+    "cinema_23": {
+      "path": "content/assets/svg/cinema_23.svg",
+      "category": "cinema_music_a2"
+    },
+    "cinema_24": {
+      "path": "content/assets/svg/cinema_24.svg",
+      "category": "cinema_music_a2"
+    },
+    "cinema_25": {
+      "path": "content/assets/svg/cinema_25.svg",
+      "category": "cinema_music_a2"
     }
   }
 }

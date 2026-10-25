@@ -1,0 +1,1217 @@
+{
+  "category_id": "cinema_music_a2",
+  "id": "cinema_music_a2",
+  "level": "A2",
+  "title": {
+    "ar": "الفنون المسرحية والسينما والموسيقى",
+    "de": "Kino, Theater & Musik",
+    "en": "Cinema, Theater & Music"
+  },
+  "name_ar": "الفنون المسرحية والسينما والموسيقى",
+  "name_de": "Kino, Theater & Musik",
+  "name_en": "Cinema, Theater & Music",
+  "concepts": [
+    {
+      "id": "cinema_music_a2_01",
+      "icon": "cinema_01",
+      "image_id": "cinema_01",
+      "level": "A2",
+      "ar": "المَسْرَحُ الكَلَاسِيكِيّ",
+      "de": "das Theater",
+      "en": "theater",
+      "arabic": {
+        "word": "المَسْرَحُ الكَلَاسِيكِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "das Theater",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Theater",
+        "example": "das Theater spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "theater",
+        "example": "The concept of theater plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_02",
+      "icon": "cinema_02",
+      "image_id": "cinema_02",
+      "level": "A2",
+      "ar": "السِّينَمَا وَالإِخْرَاج",
+      "de": "die Regie",
+      "en": "directing",
+      "arabic": {
+        "word": "السِّينَمَا وَالإِخْرَاج",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "die Regie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Regien",
+        "example": "die Regie spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "directing",
+        "example": "The concept of directing plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_03",
+      "icon": "cinema_03",
+      "image_id": "cinema_03",
+      "level": "A2",
+      "ar": "السِّينَارْيُو المَكْتُوب",
+      "de": "das Drehbuch",
+      "en": "screenplay",
+      "arabic": {
+        "word": "السِّينَارْيُو المَكْتُوب",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "das Drehbuch",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Drehbücher",
+        "example": "das Drehbuch spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "screenplay",
+        "example": "The concept of screenplay plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_04",
+      "icon": "cinema_04",
+      "image_id": "cinema_04",
+      "level": "A2",
+      "ar": "الأُورْكِسْتْرَا السِّيمْفُونِيَّة",
+      "de": "das Orchester",
+      "en": "orchestra",
+      "arabic": {
+        "word": "الأُورْكِسْتْرَا السِّيمْفُونِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "das Orchester",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Orchester",
+        "example": "das Orchester spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "orchestra",
+        "example": "The concept of orchestra plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_05",
+      "icon": "cinema_05",
+      "image_id": "cinema_05",
+      "level": "A2",
+      "ar": "المَشْهَدُ الدِّرَامِيّ",
+      "de": "die Szene",
+      "en": "scene",
+      "arabic": {
+        "word": "المَشْهَدُ الدِّرَامِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "die Szene",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Szenen",
+        "example": "die Szene spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "scene",
+        "example": "The concept of scene plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_06",
+      "icon": "cinema_06",
+      "image_id": "cinema_06",
+      "level": "A2",
+      "ar": "الدَّوْرُ البُطُولِيّ",
+      "de": "die Hauptrolle",
+      "en": "leading role",
+      "arabic": {
+        "word": "الدَّوْرُ البُطُولِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "die Hauptrolle",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Hauptrollen",
+        "example": "die Hauptrolle spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "leading role",
+        "example": "The concept of leading role plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_07",
+      "icon": "cinema_07",
+      "image_id": "cinema_07",
+      "level": "A2",
+      "ar": "اللَّحْنُ المُوسِيقِيّ",
+      "de": "die Melodie",
+      "en": "melody",
+      "arabic": {
+        "word": "اللَّحْنُ المُوسِيقِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "die Melodie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Melodien",
+        "example": "die Melodie spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "melody",
+        "example": "The concept of melody plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_08",
+      "icon": "cinema_08",
+      "image_id": "cinema_08",
+      "level": "A2",
+      "ar": "الإِيقَاعُ المَوْزُون",
+      "de": "der Rhythmus",
+      "en": "rhythm",
+      "arabic": {
+        "word": "الإِيقَاعُ المَوْزُون",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "der Rhythmus",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Rhythmen",
+        "example": "der Rhythmus spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "rhythm",
+        "example": "The concept of rhythm plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_09",
+      "icon": "cinema_09",
+      "image_id": "cinema_09",
+      "level": "A2",
+      "ar": "العَرْضُ الأَوَّل",
+      "de": "die Premiere",
+      "en": "premiere",
+      "arabic": {
+        "word": "العَرْضُ الأَوَّل",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "die Premiere",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Premieren",
+        "example": "die Premiere spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "premiere",
+        "example": "The concept of premiere plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_10",
+      "icon": "cinema_10",
+      "image_id": "cinema_10",
+      "level": "A2",
+      "ar": "الاسْتُودْيُو التَّصْوِيرِيّ",
+      "de": "das Filmstudio",
+      "en": "film studio",
+      "arabic": {
+        "word": "الاسْتُودْيُو التَّصْوِيرِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "das Filmstudio",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Filmstudios",
+        "example": "das Filmstudio spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "film studio",
+        "example": "The concept of film studio plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_11",
+      "icon": "cinema_11",
+      "image_id": "cinema_11",
+      "level": "A2",
+      "ar": "الجُمْهُورُ المُشَاهِد",
+      "de": "das Publikum",
+      "en": "audience",
+      "arabic": {
+        "word": "الجُمْهُورُ المُشَاهِد",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "das Publikum",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Publika",
+        "example": "das Publikum spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "audience",
+        "example": "The concept of audience plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_12",
+      "icon": "cinema_12",
+      "image_id": "cinema_12",
+      "level": "A2",
+      "ar": "الخَشَبَةُ المَسْرَحِيَّة",
+      "de": "die Bühne",
+      "en": "stage",
+      "arabic": {
+        "word": "الخَشَبَةُ المَسْرَحِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "die Bühne",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Bühnen",
+        "example": "die Bühne spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "stage",
+        "example": "The concept of stage plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_13",
+      "icon": "cinema_13",
+      "image_id": "cinema_13",
+      "level": "A2",
+      "ar": "المُؤَثِّرَاتُ البَصَرِيَّة",
+      "de": "der Spezialeffekt",
+      "en": "special effect",
+      "arabic": {
+        "word": "المُؤَثِّرَاتُ البَصَرِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "der Spezialeffekt",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Spezialeffekte",
+        "example": "der Spezialeffekt spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "special effect",
+        "example": "The concept of special effect plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_14",
+      "icon": "cinema_14",
+      "image_id": "cinema_14",
+      "level": "A2",
+      "ar": "المُوسِيقَى التَّصْوِيرِيَّة",
+      "de": "der Soundtrack",
+      "en": "soundtrack",
+      "arabic": {
+        "word": "المُوسِيقَى التَّصْوِيرِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "der Soundtrack",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Soundtracks",
+        "example": "der Soundtrack spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "soundtrack",
+        "example": "The concept of soundtrack plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_15",
+      "icon": "cinema_15",
+      "image_id": "cinema_15",
+      "level": "A2",
+      "ar": "الفِيلْمُ الوَثَائِقِيّ",
+      "de": "der Dokumentarfilm",
+      "en": "documentary",
+      "arabic": {
+        "word": "الفِيلْمُ الوَثَائِقِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "der Dokumentarfilm",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Dokumentarfilme",
+        "example": "der Dokumentarfilm spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "documentary",
+        "example": "The concept of documentary plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_16",
+      "icon": "cinema_16",
+      "image_id": "cinema_16",
+      "level": "A2",
+      "ar": "التَّمْثِيلُ الإِبْدَاعِيّ",
+      "de": "das Schauspiel",
+      "en": "acting",
+      "arabic": {
+        "word": "التَّمْثِيلُ الإِبْدَاعِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "das Schauspiel",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Schauspiele",
+        "example": "das Schauspiel spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "acting",
+        "example": "The concept of acting plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_17",
+      "icon": "cinema_17",
+      "image_id": "cinema_17",
+      "level": "A2",
+      "ar": "النَّقْدُ الفَنِّيّ",
+      "de": "die Filmkritik",
+      "en": "film criticism",
+      "arabic": {
+        "word": "النَّقْدُ الفَنِّيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "die Filmkritik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Filmkritiken",
+        "example": "die Filmkritik spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "film criticism",
+        "example": "The concept of film criticism plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_18",
+      "icon": "cinema_18",
+      "image_id": "cinema_18",
+      "level": "A2",
+      "ar": "الكَوَالِيسُ الخَلْفِيَّة",
+      "de": "die Kulisse",
+      "en": "scenery",
+      "arabic": {
+        "word": "الكَوَالِيسُ الخَلْفِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "die Kulisse",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Kulissen",
+        "example": "die Kulisse spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "scenery",
+        "example": "The concept of scenery plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_19",
+      "icon": "cinema_19",
+      "image_id": "cinema_19",
+      "level": "A2",
+      "ar": "السِّيمْفُونِيَّة",
+      "de": "die Symphonie",
+      "en": "symphony",
+      "arabic": {
+        "word": "السِّيمْفُونِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "die Symphonie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Symphonien",
+        "example": "die Symphonie spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "symphony",
+        "example": "The concept of symphony plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_20",
+      "icon": "cinema_20",
+      "image_id": "cinema_20",
+      "level": "A2",
+      "ar": "قَائِدُ الأُورْكِسْتْرَا",
+      "de": "der Dirigent",
+      "en": "conductor",
+      "arabic": {
+        "word": "قَائِدُ الأُورْكِسْتْرَا",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "der Dirigent",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Dirigenten",
+        "example": "der Dirigent spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "conductor",
+        "example": "The concept of conductor plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_21",
+      "icon": "cinema_21",
+      "image_id": "cinema_21",
+      "level": "A2",
+      "ar": "آلَةُ الكَمَان",
+      "de": "die Violine",
+      "en": "violin",
+      "arabic": {
+        "word": "آلَةُ الكَمَان",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "die Violine",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Violinen",
+        "example": "die Violine spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "violin",
+        "example": "The concept of violin plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_22",
+      "icon": "cinema_22",
+      "image_id": "cinema_22",
+      "level": "A2",
+      "ar": "البُرُوفَةُ التَّدْرِيبِيَّة",
+      "de": "die Probe",
+      "en": "rehearsal",
+      "arabic": {
+        "word": "البُرُوفَةُ التَّدْرِيبِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "die Probe",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Proben",
+        "example": "die Probe spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "rehearsal",
+        "example": "The concept of rehearsal plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_23",
+      "icon": "cinema_23",
+      "image_id": "cinema_23",
+      "level": "A2",
+      "ar": "الأُوبِرَا الغِنَائِيَّة",
+      "de": "die Oper",
+      "en": "opera",
+      "arabic": {
+        "word": "الأُوبِرَا الغِنَائِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "die Oper",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Opern",
+        "example": "die Oper spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "opera",
+        "example": "The concept of opera plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_24",
+      "icon": "cinema_24",
+      "image_id": "cinema_24",
+      "level": "A2",
+      "ar": "التَّصْوِيرُ السِّينَمَائِيّ",
+      "de": "die Kameraführung",
+      "en": "cinematography",
+      "arabic": {
+        "word": "التَّصْوِيرُ السِّينَمَائِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "die Kameraführung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Kameraführungen",
+        "example": "die Kameraführung spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "cinematography",
+        "example": "The concept of cinematography plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_25",
+      "icon": "cinema_25",
+      "image_id": "cinema_25",
+      "level": "A2",
+      "ar": "المِهْرَجَانُ السِّينَمَائِيّ",
+      "de": "das Filmfestival",
+      "en": "film festival",
+      "arabic": {
+        "word": "المِهْرَجَانُ السِّينَمَائِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "das Filmfestival",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Filmfestivals",
+        "example": "das Filmfestival spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "film festival",
+        "example": "The concept of film festival plays a key role in Cinema, Theater & Music."
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "cinema_music_a2_01",
+      "icon": "cinema_01",
+      "image_id": "cinema_01",
+      "level": "A2",
+      "ar": "المَسْرَحُ الكَلَاسِيكِيّ",
+      "de": "das Theater",
+      "en": "theater",
+      "arabic": {
+        "word": "المَسْرَحُ الكَلَاسِيكِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "das Theater",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Theater",
+        "example": "das Theater spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "theater",
+        "example": "The concept of theater plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_02",
+      "icon": "cinema_02",
+      "image_id": "cinema_02",
+      "level": "A2",
+      "ar": "السِّينَمَا وَالإِخْرَاج",
+      "de": "die Regie",
+      "en": "directing",
+      "arabic": {
+        "word": "السِّينَمَا وَالإِخْرَاج",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "die Regie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Regien",
+        "example": "die Regie spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "directing",
+        "example": "The concept of directing plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_03",
+      "icon": "cinema_03",
+      "image_id": "cinema_03",
+      "level": "A2",
+      "ar": "السِّينَارْيُو المَكْتُوب",
+      "de": "das Drehbuch",
+      "en": "screenplay",
+      "arabic": {
+        "word": "السِّينَارْيُو المَكْتُوب",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "das Drehbuch",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Drehbücher",
+        "example": "das Drehbuch spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "screenplay",
+        "example": "The concept of screenplay plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_04",
+      "icon": "cinema_04",
+      "image_id": "cinema_04",
+      "level": "A2",
+      "ar": "الأُورْكِسْتْرَا السِّيمْفُونِيَّة",
+      "de": "das Orchester",
+      "en": "orchestra",
+      "arabic": {
+        "word": "الأُورْكِسْتْرَا السِّيمْفُونِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "das Orchester",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Orchester",
+        "example": "das Orchester spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "orchestra",
+        "example": "The concept of orchestra plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_05",
+      "icon": "cinema_05",
+      "image_id": "cinema_05",
+      "level": "A2",
+      "ar": "المَشْهَدُ الدِّرَامِيّ",
+      "de": "die Szene",
+      "en": "scene",
+      "arabic": {
+        "word": "المَشْهَدُ الدِّرَامِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "die Szene",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Szenen",
+        "example": "die Szene spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "scene",
+        "example": "The concept of scene plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_06",
+      "icon": "cinema_06",
+      "image_id": "cinema_06",
+      "level": "A2",
+      "ar": "الدَّوْرُ البُطُولِيّ",
+      "de": "die Hauptrolle",
+      "en": "leading role",
+      "arabic": {
+        "word": "الدَّوْرُ البُطُولِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "die Hauptrolle",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Hauptrollen",
+        "example": "die Hauptrolle spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "leading role",
+        "example": "The concept of leading role plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_07",
+      "icon": "cinema_07",
+      "image_id": "cinema_07",
+      "level": "A2",
+      "ar": "اللَّحْنُ المُوسِيقِيّ",
+      "de": "die Melodie",
+      "en": "melody",
+      "arabic": {
+        "word": "اللَّحْنُ المُوسِيقِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "die Melodie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Melodien",
+        "example": "die Melodie spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "melody",
+        "example": "The concept of melody plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_08",
+      "icon": "cinema_08",
+      "image_id": "cinema_08",
+      "level": "A2",
+      "ar": "الإِيقَاعُ المَوْزُون",
+      "de": "der Rhythmus",
+      "en": "rhythm",
+      "arabic": {
+        "word": "الإِيقَاعُ المَوْزُون",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "der Rhythmus",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Rhythmen",
+        "example": "der Rhythmus spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "rhythm",
+        "example": "The concept of rhythm plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_09",
+      "icon": "cinema_09",
+      "image_id": "cinema_09",
+      "level": "A2",
+      "ar": "العَرْضُ الأَوَّل",
+      "de": "die Premiere",
+      "en": "premiere",
+      "arabic": {
+        "word": "العَرْضُ الأَوَّل",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "die Premiere",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Premieren",
+        "example": "die Premiere spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "premiere",
+        "example": "The concept of premiere plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_10",
+      "icon": "cinema_10",
+      "image_id": "cinema_10",
+      "level": "A2",
+      "ar": "الاسْتُودْيُو التَّصْوِيرِيّ",
+      "de": "das Filmstudio",
+      "en": "film studio",
+      "arabic": {
+        "word": "الاسْتُودْيُو التَّصْوِيرِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "das Filmstudio",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Filmstudios",
+        "example": "das Filmstudio spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "film studio",
+        "example": "The concept of film studio plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_11",
+      "icon": "cinema_11",
+      "image_id": "cinema_11",
+      "level": "A2",
+      "ar": "الجُمْهُورُ المُشَاهِد",
+      "de": "das Publikum",
+      "en": "audience",
+      "arabic": {
+        "word": "الجُمْهُورُ المُشَاهِد",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "das Publikum",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Publika",
+        "example": "das Publikum spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "audience",
+        "example": "The concept of audience plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_12",
+      "icon": "cinema_12",
+      "image_id": "cinema_12",
+      "level": "A2",
+      "ar": "الخَشَبَةُ المَسْرَحِيَّة",
+      "de": "die Bühne",
+      "en": "stage",
+      "arabic": {
+        "word": "الخَشَبَةُ المَسْرَحِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "die Bühne",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Bühnen",
+        "example": "die Bühne spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "stage",
+        "example": "The concept of stage plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_13",
+      "icon": "cinema_13",
+      "image_id": "cinema_13",
+      "level": "A2",
+      "ar": "المُؤَثِّرَاتُ البَصَرِيَّة",
+      "de": "der Spezialeffekt",
+      "en": "special effect",
+      "arabic": {
+        "word": "المُؤَثِّرَاتُ البَصَرِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "der Spezialeffekt",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Spezialeffekte",
+        "example": "der Spezialeffekt spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "special effect",
+        "example": "The concept of special effect plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_14",
+      "icon": "cinema_14",
+      "image_id": "cinema_14",
+      "level": "A2",
+      "ar": "المُوسِيقَى التَّصْوِيرِيَّة",
+      "de": "der Soundtrack",
+      "en": "soundtrack",
+      "arabic": {
+        "word": "المُوسِيقَى التَّصْوِيرِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "der Soundtrack",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Soundtracks",
+        "example": "der Soundtrack spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "soundtrack",
+        "example": "The concept of soundtrack plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_15",
+      "icon": "cinema_15",
+      "image_id": "cinema_15",
+      "level": "A2",
+      "ar": "الفِيلْمُ الوَثَائِقِيّ",
+      "de": "der Dokumentarfilm",
+      "en": "documentary",
+      "arabic": {
+        "word": "الفِيلْمُ الوَثَائِقِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "der Dokumentarfilm",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Dokumentarfilme",
+        "example": "der Dokumentarfilm spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "documentary",
+        "example": "The concept of documentary plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_16",
+      "icon": "cinema_16",
+      "image_id": "cinema_16",
+      "level": "A2",
+      "ar": "التَّمْثِيلُ الإِبْدَاعِيّ",
+      "de": "das Schauspiel",
+      "en": "acting",
+      "arabic": {
+        "word": "التَّمْثِيلُ الإِبْدَاعِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "das Schauspiel",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Schauspiele",
+        "example": "das Schauspiel spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "acting",
+        "example": "The concept of acting plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_17",
+      "icon": "cinema_17",
+      "image_id": "cinema_17",
+      "level": "A2",
+      "ar": "النَّقْدُ الفَنِّيّ",
+      "de": "die Filmkritik",
+      "en": "film criticism",
+      "arabic": {
+        "word": "النَّقْدُ الفَنِّيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "die Filmkritik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Filmkritiken",
+        "example": "die Filmkritik spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "film criticism",
+        "example": "The concept of film criticism plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_18",
+      "icon": "cinema_18",
+      "image_id": "cinema_18",
+      "level": "A2",
+      "ar": "الكَوَالِيسُ الخَلْفِيَّة",
+      "de": "die Kulisse",
+      "en": "scenery",
+      "arabic": {
+        "word": "الكَوَالِيسُ الخَلْفِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "die Kulisse",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Kulissen",
+        "example": "die Kulisse spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "scenery",
+        "example": "The concept of scenery plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_19",
+      "icon": "cinema_19",
+      "image_id": "cinema_19",
+      "level": "A2",
+      "ar": "السِّيمْفُونِيَّة",
+      "de": "die Symphonie",
+      "en": "symphony",
+      "arabic": {
+        "word": "السِّيمْفُونِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "die Symphonie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Symphonien",
+        "example": "die Symphonie spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "symphony",
+        "example": "The concept of symphony plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_20",
+      "icon": "cinema_20",
+      "image_id": "cinema_20",
+      "level": "A2",
+      "ar": "قَائِدُ الأُورْكِسْتْرَا",
+      "de": "der Dirigent",
+      "en": "conductor",
+      "arabic": {
+        "word": "قَائِدُ الأُورْكِسْتْرَا",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "der Dirigent",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Dirigenten",
+        "example": "der Dirigent spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "conductor",
+        "example": "The concept of conductor plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_21",
+      "icon": "cinema_21",
+      "image_id": "cinema_21",
+      "level": "A2",
+      "ar": "آلَةُ الكَمَان",
+      "de": "die Violine",
+      "en": "violin",
+      "arabic": {
+        "word": "آلَةُ الكَمَان",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "die Violine",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Violinen",
+        "example": "die Violine spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "violin",
+        "example": "The concept of violin plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_22",
+      "icon": "cinema_22",
+      "image_id": "cinema_22",
+      "level": "A2",
+      "ar": "البُرُوفَةُ التَّدْرِيبِيَّة",
+      "de": "die Probe",
+      "en": "rehearsal",
+      "arabic": {
+        "word": "البُرُوفَةُ التَّدْرِيبِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "die Probe",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Proben",
+        "example": "die Probe spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "rehearsal",
+        "example": "The concept of rehearsal plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_23",
+      "icon": "cinema_23",
+      "image_id": "cinema_23",
+      "level": "A2",
+      "ar": "الأُوبِرَا الغِنَائِيَّة",
+      "de": "die Oper",
+      "en": "opera",
+      "arabic": {
+        "word": "الأُوبِرَا الغِنَائِيَّة",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "die Oper",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Opern",
+        "example": "die Oper spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "opera",
+        "example": "The concept of opera plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_24",
+      "icon": "cinema_24",
+      "image_id": "cinema_24",
+      "level": "A2",
+      "ar": "التَّصْوِيرُ السِّينَمَائِيّ",
+      "de": "die Kameraführung",
+      "en": "cinematography",
+      "arabic": {
+        "word": "التَّصْوِيرُ السِّينَمَائِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "die Kameraführung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Kameraführungen",
+        "example": "die Kameraführung spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "cinematography",
+        "example": "The concept of cinematography plays a key role in Cinema, Theater & Music."
+      }
+    },
+    {
+      "id": "cinema_music_a2_25",
+      "icon": "cinema_25",
+      "image_id": "cinema_25",
+      "level": "A2",
+      "ar": "المِهْرَجَانُ السِّينَمَائِيّ",
+      "de": "das Filmfestival",
+      "en": "film festival",
+      "arabic": {
+        "word": "المِهْرَجَانُ السِّينَمَائِيّ",
+        "meaning": "مَفْهُومٌ مُتَقَدِّمٌ فِي الفنون المسرحية والسينما والموسيقى"
+      },
+      "german": {
+        "word": "das Filmfestival",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Filmfestivals",
+        "example": "das Filmfestival spielt eine zentrale Rolle im Bereich Kino, Theater & Musik."
+      },
+      "english": {
+        "word": "film festival",
+        "example": "The concept of film festival plays a key role in Cinema, Theater & Music."
+      }
+    }
+  ]
+}
