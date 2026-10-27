@@ -6735,6 +6735,131 @@
       "path": "content/assets/svg/urb_quartier.svg",
       "type": "vector_svg",
       "category": "smart_cities_c1"
+    },
+    "aero_raumfahrt": {
+      "path": "content/assets/svg/aero_raumfahrt.svg",
+      "type": "vector_svg",
+      "category": "aerospace_spacelaw_c1"
+    },
+    "aero_konstellation": {
+      "path": "content/assets/svg/aero_konstellation.svg",
+      "type": "vector_svg",
+      "category": "aerospace_spacelaw_c1"
+    },
+    "aero_vertrag": {
+      "path": "content/assets/svg/aero_vertrag.svg",
+      "type": "vector_svg",
+      "category": "aerospace_spacelaw_c1"
+    },
+    "aero_orbitalmechanik": {
+      "path": "content/assets/svg/aero_orbitalmechanik.svg",
+      "type": "vector_svg",
+      "category": "aerospace_spacelaw_c1"
+    },
+    "aero_weltraummuell": {
+      "path": "content/assets/svg/aero_weltraummuell.svg",
+      "type": "vector_svg",
+      "category": "aerospace_spacelaw_c1"
+    },
+    "aero_fluchtgeschwindigkeit": {
+      "path": "content/assets/svg/aero_fluchtgeschwindigkeit.svg",
+      "type": "vector_svg",
+      "category": "aerospace_spacelaw_c1"
+    },
+    "aero_geostationaer": {
+      "path": "content/assets/svg/aero_geostationaer.svg",
+      "type": "vector_svg",
+      "category": "aerospace_spacelaw_c1"
+    },
+    "aero_triebwerk": {
+      "path": "content/assets/svg/aero_triebwerk.svg",
+      "type": "vector_svg",
+      "category": "aerospace_spacelaw_c1"
+    },
+    "aero_nutzlast": {
+      "path": "content/assets/svg/aero_nutzlast.svg",
+      "type": "vector_svg",
+      "category": "aerospace_spacelaw_c1"
+    },
+    "aero_schwerelos": {
+      "path": "content/assets/svg/aero_schwerelos.svg",
+      "type": "vector_svg",
+      "category": "aerospace_spacelaw_c1"
+    },
+    "aero_interplanetar": {
+      "path": "content/assets/svg/aero_interplanetar.svg",
+      "type": "vector_svg",
+      "category": "aerospace_spacelaw_c1"
+    },
+    "aero_haftung": {
+      "path": "content/assets/svg/aero_haftung.svg",
+      "type": "vector_svg",
+      "category": "aerospace_spacelaw_c1"
+    },
+    "aero_wiedereintritt": {
+      "path": "content/assets/svg/aero_wiedereintritt.svg",
+      "type": "vector_svg",
+      "category": "aerospace_spacelaw_c1"
+    },
+    "aero_raumstation": {
+      "path": "content/assets/svg/aero_raumstation.svg",
+      "type": "vector_svg",
+      "category": "aerospace_spacelaw_c1"
+    },
+    "aero_ionenantrieb": {
+      "path": "content/assets/svg/aero_ionenantrieb.svg",
+      "type": "vector_svg",
+      "category": "aerospace_spacelaw_c1"
+    },
+    "aero_asteroidenabbau": {
+      "path": "content/assets/svg/aero_asteroidenabbau.svg",
+      "type": "vector_svg",
+      "category": "aerospace_spacelaw_c1"
+    },
+    "aero_verteidigung": {
+      "path": "content/assets/svg/aero_verteidigung.svg",
+      "type": "vector_svg",
+      "category": "aerospace_spacelaw_c1"
+    },
+    "aero_kessler": {
+      "path": "content/assets/svg/aero_kessler.svg",
+      "type": "vector_svg",
+      "category": "aerospace_spacelaw_c1"
+    },
+    "aero_fernaufklaerung": {
+      "path": "content/assets/svg/aero_fernaufklaerung.svg",
+      "type": "vector_svg",
+      "category": "aerospace_spacelaw_c1"
+    },
+    "aero_lagrange": {
+      "path": "content/assets/svg/aero_lagrange.svg",
+      "type": "vector_svg",
+      "category": "aerospace_spacelaw_c1"
+    },
+    "aero_mondabkommen": {
+      "path": "content/assets/svg/aero_mondabkommen.svg",
+      "type": "vector_svg",
+      "category": "aerospace_spacelaw_c1"
+    },
+    "aero_telemetrie": {
+      "path": "content/assets/svg/aero_telemetrie.svg",
+      "type": "vector_svg",
+      "category": "aerospace_spacelaw_c1"
+    },
+    "aero_solarsegel": {
+      "path": "content/assets/svg/aero_solarsegel.svg",
+      "type": "vector_svg",
+      "category": "aerospace_spacelaw_c1"
+    },
+    "aero_kapsel": {
+      "path": "content/assets/svg/aero_kapsel.svg",
+      "type": "vector_svg",
+      "category": "aerospace_spacelaw_c1"
+    },
+    "aero_nichtaneignung": {
+      "path": "content/assets/svg/aero_nichtaneignung.svg",
+      "type": "vector_svg",
+      "category": "aerospace_spacelaw_c1"
     }
   }
 }

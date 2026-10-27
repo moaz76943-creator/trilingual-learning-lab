@@ -1,0 +1,488 @@
+{
+  "category_id": "aerospace_spacelaw_c1",
+  "category_number": 59,
+  "level": "C1",
+  "title": {
+    "ar": "هندسة الفضاء، الأقمار الاصطناعية وقانون الفضاء الخارجي",
+    "de": "Raumfahrttechnik, Satellitenkonstellationen & Weltraumrecht",
+    "en": "Aerospace Engineering, Satellite Constellations & Space Law"
+  },
+  "icon": "aero_raumfahrt",
+  "concepts": [
+    {
+      "id": "aero_001",
+      "icon": "aero_raumfahrt",
+      "arabic": {
+        "word": "هَنْدَسَةُ الفَضَاء",
+        "meaning": "فَرْعُ الهَنْدَسَةِ المَعْنِيُّ بِتَصْمِيمِ وَبِنَاءِ وَتَشْغِيلِ المَرْكَبَاتِ وَالأَنْظِمَةِ الفَضَائِيَّةِ"
+      },
+      "german": {
+        "word": "die Raumfahrttechnik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Raumfahrttechniken",
+        "example": "Die moderne Raumfahrttechnik erfordert Werkstoffe, die extremen thermischen Belastungen standhalten."
+      },
+      "english": {
+        "word": "aerospace engineering / astronautics",
+        "example": "Modern aerospace engineering requires materials that withstand extreme thermal stresses."
+      }
+    },
+    {
+      "id": "aero_002",
+      "icon": "aero_konstellation",
+      "arabic": {
+        "word": "كَوْكَبَةُ الأَقْمَارِ الاصْطِنَاعِيَّة",
+        "meaning": "شَبَكَةٌ مُتَكَامِلَةٌ مِنْ عَشَرَاتِ أَوْ مِئَاتِ الأَقْمَارِ الصَّغِيرَةِ تَعْمَلُ مَعًا لِتَوْفِيرِ التَّغْطِيَةِ الشَّامِلَةِ"
+      },
+      "german": {
+        "word": "die Satellitenkonstellation",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Satellitenkonstellationen",
+        "example": "Kommerzielle Satellitenkonstellationen im erdnahen Orbit ermöglichen globales Breitbandinternet."
+      },
+      "english": {
+        "word": "satellite constellation",
+        "example": "Commercial satellite constellations in low Earth orbit enable global broadband internet."
+      }
+    },
+    {
+      "id": "aero_003",
+      "icon": "aero_vertrag",
+      "arabic": {
+        "word": "مُعَاهَدَةُ الفَضَاءِ الخَارِجِيّ",
+        "meaning": "المُعَاهَدَةُ الدَّوْلِيَّةُ لِعَامِ 1967 الَّتِي تُقَرِّرُ أَنَّ الفَضَاءَ مِلْكٌ لِلْبَشَرِيَّةِ جَمْعَاءَ وَتَحْظُرُ عَسْكَرَتَهُ"
+      },
+      "german": {
+        "word": "der Weltraumvertrag",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Weltraumverträge",
+        "example": "Der Weltraumvertrag verbietet die Stationierung von Massenvernichtungswaffen im Erdorbit."
+      },
+      "english": {
+        "word": "Outer Space Treaty (OST)",
+        "example": "The Outer Space Treaty prohibits the stationing of weapons of mass destruction in Earth orbit."
+      }
+    },
+    {
+      "id": "aero_004",
+      "icon": "aero_orbitalmechanik",
+      "arabic": {
+        "word": "مِيكَانِيكَا المَدَارَاتِ الفَلَكِيَّة",
+        "meaning": "العِلْمُ الَّذِي يَدْرُسُ مَسَارَاتِ وَحَرَكَةَ المَرْكَبَاتِ الفَضَائِيَّةِ تَحْتَ تَأْثِيرِ قُوَى الجَاذِبِيَّةِ"
+      },
+      "german": {
+        "word": "die Orbitalmechanik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Orbitalmechaniken",
+        "example": "Genaue Berechnungen der Orbitalmechanik sind Voraussetzung für Rendezvous-Manöver im All."
+      },
+      "english": {
+        "word": "orbital mechanics",
+        "example": "Precise orbital mechanics calculations are essential for space rendezvous maneuvers."
+      }
+    },
+    {
+      "id": "aero_005",
+      "icon": "aero_weltraummuell",
+      "arabic": {
+        "word": "الحُطَامُ الفَضَائِيّ",
+        "meaning": "بَقَايَا الأَقْمَارِ الاصْطِنَاعِيَّةِ وَأَجْزَاءِ الصَّوَارِيخِ الخَارِجَةِ عَنِ الخِدْمَةِ السَّابِحَةِ حَوْلَ الأَرْضِ"
+      },
+      "german": {
+        "word": "der Weltraummüll",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Weltraummüllansammlungen",
+        "example": "Zehntausende Trümmerteile im Erdorbit stellen eine akute Bedrohung für bemannte Raumstationen dar."
+      },
+      "english": {
+        "word": "space debris / space junk",
+        "example": "Tens of thousands of debris fragments in Earth orbit pose an acute threat to manned space stations."
+      }
+    },
+    {
+      "id": "aero_006",
+      "icon": "aero_fluchtgeschwindigkeit",
+      "arabic": {
+        "word": "سُرْعَةُ الإِفْلَات",
+        "meaning": "السُّرْعَةُ الدُّنْيَا الَّتِي يَجِبُ أَنْ يَبْلُغَهَا الجِسْمُ لِلْفَكَاكِ مِنْ حَقْلِ جَاذِبِيَّةِ الكَوْكَبِ"
+      },
+      "german": {
+        "word": "die Fluchtgeschwindigkeit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Fluchtgeschwindigkeiten",
+        "example": "Um das Schwerefeld der Erde zu verlassen, ist eine Fluchtgeschwindigkeit von circa 11,2 km/s nötig."
+      },
+      "english": {
+        "word": "escape velocity",
+        "example": "To escape Earth's gravitational field, an escape velocity of approximately 11.2 km/s is required."
+      }
+    },
+    {
+      "id": "aero_007",
+      "icon": "aero_geostationaer",
+      "arabic": {
+        "word": "المَدَارُ الجُغْرَافِيُّ الثَّابِت (GEO)",
+        "meaning": "مَدَارٌ دَائِرِيٌّ عَلَى ارْتِفَاعِ 35,786 كَم يَظْهَرُ فِيهِ القَمَرُ سَاكِنًا تَمَامًا فَوْقَ نُقْطَةٍ وَاحِدَةٍ مِنَ الأَرْضِ"
+      },
+      "german": {
+        "word": "der geostationäre Orbit",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die geostationären Orbits",
+        "example": "Fernsehsatelliten werden im geostationären Orbit positioniert, um feste Parabolantennen zu bedienen."
+      },
+      "english": {
+        "word": "geostationary orbit (GEO)",
+        "example": "Broadcast satellites are positioned in geostationary orbit to serve fixed dish antennas."
+      }
+    },
+    {
+      "id": "aero_008",
+      "icon": "aero_triebwerk",
+      "arabic": {
+        "word": "مُحَرِّكُ الصَّارُوخِ الدَّافِع",
+        "meaning": "مُحَرِّكُ رَدِّ الفِعْلِ الَّذِي يُوَلِّدُ قُوَّةَ الدَّفْعِ عَبْرَ طَرْدِ الغَازَاتِ السَّاخِنَةِ بِسُرْعَاتٍ هَائِلَةٍ"
+      },
+      "german": {
+        "word": "das Raketentriebwerk",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Raketentriebwerke",
+        "example": "Flüssigtreibstoff-Raketentriebwerke erlauben eine präzise Steuerung des Schubvektors während des Starts."
+      },
+      "english": {
+        "word": "rocket engine / propulsion system",
+        "example": "Liquid-propellant rocket engines allow precise thrust vector control during launch."
+      }
+    },
+    {
+      "id": "aero_009",
+      "icon": "aero_nutzlast",
+      "arabic": {
+        "word": "الحَمُولَةُ الصَّافِيَة (النَّافِعَة)",
+        "meaning": "الأَقْمَارُ أَوِ الأَجْهِزَةُ العِلْمِيَّةُ الَّتِي يَحْمِلُهَا الصَّارُوخُ إِلَى المَدَارِ بِخِلَافِ كُتْلَةِ الوَقُودِ"
+      },
+      "german": {
+        "word": "die Nutzlast",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Nutzlasten",
+        "example": "Die schwere Trägerrakete kann eine Nutzlast von über zwanzig Tonnen in den Weltraum transportieren."
+      },
+      "english": {
+        "word": "payload",
+        "example": "The heavy-lift launch vehicle can transport a payload of over twenty tons into space."
+      }
+    },
+    {
+      "id": "aero_010",
+      "icon": "aero_schwerelos",
+      "arabic": {
+        "word": "انْعِدَامُ الجَاذِبِيَّةِ (الوَزْن)",
+        "meaning": "حَالَةُ السُّقُوطِ الحُرِّ المُسْتَمِرِّ فِي المَدَارِ الَّتِي تَجْعَلُ الأَجْسَامَ تَبْدُو عَدِيمَةَ الوَزْنِ"
+      },
+      "german": {
+        "word": "die Schwerelosigkeit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Schwerelosigkeiten",
+        "example": "Biologische Langzeitexperimente in der Schwerelosigkeit liefern wertvolle Erkenntnisse über Muskelabbau."
+      },
+      "english": {
+        "word": "weightlessness / microgravity",
+        "example": "Long-term biological experiments in microgravity yield valuable insights into muscle atrophy."
+      }
+    },
+    {
+      "id": "aero_011",
+      "icon": "aero_interplanetar",
+      "arabic": {
+        "word": "الفَضَاءُ بَيْنَ الكَوَاكِب",
+        "meaning": "المَنَاطِقُ الشَّاسِعَةُ فِي المَجْمُوعَةِ الشَّمْسِيَّةِ الَّتِي تَقَعُ بَيْنَ مَدَارَاتِ الكَوَاكِبِ"
+      },
+      "german": {
+        "word": "der interplanetare Raum",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die interplanetaren Räume",
+        "example": "Raumsonden im interplanetaren Raum müssen hochenergetischer kosmischer Strahlung trotzen."
+      },
+      "english": {
+        "word": "interplanetary space",
+        "example": "Space probes in interplanetary space must withstand high-energy cosmic radiation."
+      }
+    },
+    {
+      "id": "aero_012",
+      "icon": "aero_haftung",
+      "arabic": {
+        "word": "المَسْؤُولِيَّةُ عَنِ الأَضْرَارِ الفَضَائِيَّة",
+        "meaning": "المَبْدَأُ القَانُونِيُّ الَّذِي يُلْزِمُ دَوْلَةَ الإِطْلَاقِ بِتَعْوِيضِ الأَضْرَارِ النَّاجِمَةِ عَنْ سُقُوطِ مَرْكَبَاتِهَا"
+      },
+      "german": {
+        "word": "das Weltraumhaftungsübereinkommen",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Weltraumhaftungsübereinkommen",
+        "example": "Das Weltraumhaftungsübereinkommen statuiert eine verschuldensunabhängige Haftung für Schäden auf der Erde."
+      },
+      "english": {
+        "word": "space liability convention",
+        "example": "The Space Liability Convention establishes absolute liability for damages caused on Earth."
+      }
+    },
+    {
+      "id": "aero_013",
+      "icon": "aero_wiedereintritt",
+      "arabic": {
+        "word": "إِعَادَةُ الدُّخُولِ لِلْغِلَافِ الجَوِّيّ",
+        "meaning": "المَرْحَلَةُ الحَرِجَةُ لِعَوْدَةِ المَرْكَبَةِ إِلَى الأَرْضِ حَيْثُ يُوَلِّدُ الِاحْتِكَاكُ حَرَارَةً شَدِيدَةً"
+      },
+      "german": {
+        "word": "der atmosphärische Wiedereintritt",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Wiedereintritte",
+        "example": "Hitzeschilde aus Kohlenstoff-Verbundstoffen schützen die Besatzung beim atmosphärischen Wiedereintritt."
+      },
+      "english": {
+        "word": "atmospheric reentry",
+        "example": "Heat shields made of carbon composite materials protect the crew during atmospheric reentry."
+      }
+    },
+    {
+      "id": "aero_014",
+      "icon": "aero_raumstation",
+      "arabic": {
+        "word": "المَحَطَّةُ الفَضَائِيَّةُ المَدَارِيَّة",
+        "meaning": "مُخْتَبَرٌ فَضَائِيٌّ مَأْهُولٌ يَدُورُ حَوْلَ الأَرْضِ لِإِجْرَاءِ الأَبْحَاثِ العِلْمِيَّةِ طَوِيلَةِ الأَمَدِ"
+      },
+      "german": {
+        "word": "die Raumstation",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Raumstationen",
+        "example": "Die Internationale Raumstation ISS ist ein herausragendes Beispiel globaler wissenschaftlicher Kooperation."
+      },
+      "english": {
+        "word": "orbital space station",
+        "example": "The International Space Station (ISS) is a stellar example of global scientific cooperation."
+      }
+    },
+    {
+      "id": "aero_015",
+      "icon": "aero_ionenantrieb",
+      "arabic": {
+        "word": "مُحَرِّكُ الدَّفْعِ الأَيُونِيّ",
+        "meaning": "مُحَرِّكٌ كَهْرَبَائِيٌّ يُسَرِّعُ الأَيُونَاتِ لِتَوْلِيدِ دَفْعٍ مُسْتَمِرٍّ شَدِيدِ الكَفَاءَةِ لِلْمَهَامِّ العَمِيقَةِ"
+      },
+      "german": {
+        "word": "der Ionenantrieb",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Ionenantriebe",
+        "example": "Ein Ionenantrieb benötigt extrem wenig Treibstoff und eignet sich ideal für Langzeitmissionen zu Asteroiden."
+      },
+      "english": {
+        "word": "ion propulsion",
+        "example": "An ion thruster requires minimal propellant and is ideal for long-duration asteroid missions."
+      }
+    },
+    {
+      "id": "aero_016",
+      "icon": "aero_asteroidenabbau",
+      "arabic": {
+        "word": "تَعْدِينُ الكُوَيْكِبَات",
+        "meaning": "اسْتِخْرَاجُ المَعَادِنِ النَّفِيسَةِ وَالمِيَاهِ مِنَ الأَجْرَامِ الفَضَائِيَّةِ لِأَغْرَاضٍ صِنَاعِيَّةٍ"
+      },
+      "german": {
+        "word": "der Asteroidenabbau",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Rohstoffgewinnungen im All",
+        "example": "Der kommerzielle Asteroidenabbau wirft völkerrechtliche Fragen bezüglich des Eigentumsrechts im All auf."
+      },
+      "english": {
+        "word": "asteroid mining / space resource utilization",
+        "example": "Commercial asteroid mining raises international law questions concerning property rights in space."
+      }
+    },
+    {
+      "id": "aero_017",
+      "icon": "aero_verteidigung",
+      "arabic": {
+        "word": "الدِّفَاعُ الكَوْكَبِيّ",
+        "meaning": "اسْتِرَاتِيجِيَّاتٌ وَتِقْنِيَّاتٌ لِرَصْدِ وَتَحْوِيلِ مَسَارِ الكُوَيْكِبَاتِ الَّتِي تُهَدِّدُ بِالاصْطِدَامِ بِالأَرْضِ"
+      },
+      "german": {
+        "word": "die planetare Verteidigung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die planetaren Abwehrmaßnahmen",
+        "example": "Die DART-Mission der NASA demonstrierte erfolgreich die Machbarkeit aktiver planetarer Verteidigung."
+      },
+      "english": {
+        "word": "planetary defense",
+        "example": "NASA's DART mission successfully demonstrated the feasibility of active planetary defense."
+      }
+    },
+    {
+      "id": "aero_018",
+      "icon": "aero_kessler",
+      "arabic": {
+        "word": "مُتَلَازِمَةُ كِيسْلِر",
+        "meaning": "تَسَلْسُلٌ تَرَاكُمِيٌّ لِلتَّصَادُمَاتِ بَيْنَ حُطَامِ الفَضَاءِ يَجْعَلُ المَدَارَاتِ غَيْرَ قَابِلَةٍ لِلِاسْتِخْدَامِ لِأَجْيَالٍ"
+      },
+      "german": {
+        "word": "das Kessler-Syndrom",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Kaskadeneffekte",
+        "example": "Das gefürchtete Kessler-Syndrom könnte den erdnahen Orbit durch Kettenreaktionen unpassierbar machen."
+      },
+      "english": {
+        "word": "Kessler syndrome",
+        "example": "The dreaded Kessler syndrome could render low Earth orbit impassable through chain-reaction collisions."
+      }
+    },
+    {
+      "id": "aero_019",
+      "icon": "aero_fernaufklaerung",
+      "arabic": {
+        "word": "الاسْتِشْعَارُ عَنْ بُعْدٍ بِالأَقْمَار",
+        "meaning": "جَمْعُ البَيَانَاتِ عَنْ سَطْحِ الأَرْضِ وَالغِلَافِ الجَوِّيِّ بِاسْتِخْدَامِ حَسَّاسَاتِ الأَقْمَارِ الاصْطِنَاعِيَّةِ"
+      },
+      "german": {
+        "word": "die satellitengestützte Fernerkundung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Fernerkundungen",
+        "example": "Satellitengestützte Fernerkundung liefert unverzichtbare Daten zur Überwachung von Waldbränden und Dürren."
+      },
+      "english": {
+        "word": "satellite remote sensing",
+        "example": "Satellite remote sensing provides indispensable data for monitoring forest fires and droughts."
+      }
+    },
+    {
+      "id": "aero_020",
+      "icon": "aero_lagrange",
+      "arabic": {
+        "word": "نُقْطَةُ لَاغْرَانْج",
+        "meaning": "مَوْقِعٌ فِي الفَضَاءِ تَتَسَاوَى فِيهِ قُوَى الجَاذِبِيَّةِ لِجِرْمَيْنِ كَبِيرَيْنِ مَعَ قُوَّةِ الطَّرْدِ المَرْكَزِيِّ"
+      },
+      "german": {
+        "word": "der Lagrange-Punkt",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Lagrange-Punkte",
+        "example": "Das James-Webb-Weltraumteleskop operiert am zweiten Lagrange-Punkt (L2), 1,5 Millionen Kilometer entfernt."
+      },
+      "english": {
+        "word": "Lagrange point",
+        "example": "The James Webb Space Telescope operates at the second Lagrange point (L2), 1.5 million kilometers away."
+      }
+    },
+    {
+      "id": "aero_021",
+      "icon": "aero_mondabkommen",
+      "arabic": {
+        "word": "اتِّفَاقِيَّةُ القَمَرِ الدَّوْلِيَّة",
+        "meaning": "مُعَاهَدَةٌ أُمَمِيَّةٌ لِعَامِ 1979 تُنَظِّمُ أَنْشِطَةَ الدُّوَلِ عَلَى القَمَرِ وَتُعْلِنُهُ تُرَاثًا مُشْتَرَكًا لِلْبَشَرِيَّةِ"
+      },
+      "german": {
+        "word": "der Mondvertrag",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Mondverträge",
+        "example": "Der Mondvertrag erklärt den Erdtrabanten und seine natürlichen Ressourcen zum gemeinsamen Erbe der Menschheit."
+      },
+      "english": {
+        "word": "Moon Agreement",
+        "example": "The Moon Agreement declares Earth's celestial neighbor and its natural resources the common heritage of mankind."
+      }
+    },
+    {
+      "id": "aero_022",
+      "icon": "aero_telemetrie",
+      "arabic": {
+        "word": "القِيَاسُ وَالإِرْسَالُ عَنْ بُعْد (التِّيلِيمِتْرِي)",
+        "meaning": "الإِرْسَالُ اللَّاحْظِيُّ لِبَيَانَاتِ الحَالَةِ الفَنِّيَّةِ لِلْمَرْكَبَةِ الفَضَائِيَّةِ إِلَى مَحَطَّةِ التَّحَكُّمِ الأَرْضِيَّةِ"
+      },
+      "german": {
+        "word": "die Telemetrieübertragung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Telemetriedaten",
+        "example": "Kontinuierliche Telemetrieübertragungen überwachen Druck, Temperatur und Batteriestand der Raumsonde."
+      },
+      "english": {
+        "word": "telemetry transmission",
+        "example": "Continuous telemetry transmissions monitor pressure, temperature, and battery charge of the space probe."
+      }
+    },
+    {
+      "id": "aero_023",
+      "icon": "aero_solarsegel",
+      "arabic": {
+        "word": "تِقْنِيَّةُ الشِّرَاعِ الشَّمْسِيّ",
+        "meaning": "نِظَامُ دَفْعٍ يَسْتَغِلُّ ضَغْطَ إِشْعَاعِ فُوتُونَاتِ الشَّمْسِ لِدَفْعِ المَرْكَبَةِ دُونَ حَاجَةٍ لِوَقُودٍ"
+      },
+      "german": {
+        "word": "das Sonnensegel",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Sonnensegel",
+        "example": "Sonnensegel nutzen den Strahlungsdruck des Sonnenlichts für lautlosen und treibstofffreien Antrieb im Kosmos."
+      },
+      "english": {
+        "word": "solar sail technology",
+        "example": "Solar sails harness the radiation pressure of sunlight for silent and propellant-free propulsion in space."
+      }
+    },
+    {
+      "id": "aero_024",
+      "icon": "aero_kapsel",
+      "arabic": {
+        "word": "كَبْسُولَةُ الهُبُوطِ الفَضَائِيَّة",
+        "meaning": "مَرْكَبَةٌ مُدَرَّعَةٌ حَرَارِيًّا مُصَمَّمَةٌ لِإِعَادَةِ رُوَّادِ الفَضَاءِ وَالعَيِّنَاتِ بِأَمَانٍ إِلَى الأَرْضِ"
+      },
+      "german": {
+        "word": "die Rückkehrkapsel",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Rückkehrkapseln",
+        "example": "Die Rückkehrkapsel landete mithilfe von Bremsfallschirmen punktgenau in der Steppe."
+      },
+      "english": {
+        "word": "reentry capsule / crew module",
+        "example": "The reentry capsule touched down precisely in the steppe with the aid of braking parachutes."
+      }
+    },
+    {
+      "id": "aero_025",
+      "icon": "aero_nichtaneignung",
+      "arabic": {
+        "word": "مَبْدَأُ حَظْرِ التَّمَلُّكِ فِي الفَضَاء",
+        "meaning": "قَاعِدَةٌ دَوْلِيَّةٌ أَمْرَةٌ تَمْنَعُ أَيَّ دَوْلَةٍ مِنْ إِعْلَانِ السِّيَادَةِ عَلَى القَمَرِ أَوِ الكَوَاكِبِ"
+      },
+      "german": {
+        "word": "das Nichtaneignungsprinzip",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Aneignungsverbote",
+        "example": "Gemäß Artikel II des Weltraumvertrags gilt das strikte Nichtaneignungsprinzip für alle Himmelskörper."
+      },
+      "english": {
+        "word": "non-appropriation principle",
+        "example": "Pursuant to Article II of the Outer Space Treaty, the strict non-appropriation principle applies to all celestial bodies."
+      }
+    }
+  ]
+}
