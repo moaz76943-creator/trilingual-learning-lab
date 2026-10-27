@@ -1,0 +1,488 @@
+{
+  "category_id": "postcolonial_sociology_c1",
+  "category_number": 65,
+  "level": "C1",
+  "title": {
+    "ar": "علم الاجتماع النقدي، النظرية ما بعد الكولونيالية ودراسات التابع",
+    "de": "Kritische Soziologie, Postkolonialismus & Subalternitätsstudien",
+    "en": "Critical Sociology, Postcolonial Theory & Subaltern Studies"
+  },
+  "icon": "post_theorie",
+  "concepts": [
+    {
+      "id": "post_001",
+      "icon": "post_theorie",
+      "arabic": {
+        "word": "النَّظَرِيَّةُ مَا بَعْدَ الكُولُونْيَالِيَّة",
+        "meaning": "تَيَّارٌ فِكْرِيٌّ نَقْدِيٌّ يُفَكِّكُ الآثَارَ الثَّقَافِيَّةَ وَالسِّيَاسِيَّةَ وَالمَعْرِفِيَّةَ المُمْتَدَّةَ لِلِاسْتِعْمَارِ"
+      },
+      "german": {
+        "word": "die postkoloniale Theorie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die postkolonialen Theorien",
+        "example": "Die postkoloniale Theorie hinterfragt eurozentrische Geschichtsbilder in den Geisteswissenschaften grundlegend."
+      },
+      "english": {
+        "word": "postcolonial theory",
+        "example": "Postcolonial theory fundamentally challenges Eurocentric historical narratives in the humanities."
+      }
+    },
+    {
+      "id": "post_002",
+      "icon": "post_orientalismus",
+      "arabic": {
+        "word": "الاسْتِشْرَاقُ النَّقْدِيّ",
+        "meaning": "أُطْرُوحَةُ إِدْوَارْد سَعِيد الَّتِي تَكْشِفُ كَيْفَ بَنَى الغَرْبُ صُورَةً نَمَطِيَّةً عَنِ الشَّرْقِ لِتَبْرِيرِ الهَيْمَنَةِ"
+      },
+      "german": {
+        "word": "der Orientalismus",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Orientalismen",
+        "example": "Edward Saids Werk 'Orientalism' legte offen, wie westliche Diskurse den Orient als passives 'Anderes' konstruierten."
+      },
+      "english": {
+        "word": "Orientalism (Edward Said)",
+        "example": "Edward Said's seminal work 'Orientalism' exposed how Western discourse constructed the Orient as a passive 'Other'."
+      }
+    },
+    {
+      "id": "post_003",
+      "icon": "post_subaltern",
+      "arabic": {
+        "word": "وَضْعِيَّةُ التَّابِع (السُّوبَالْتِرْن)",
+        "meaning": "الفِئَاتُ الِاجْتِمَاعِيَّةُ المَسْحُوقَةُ وَالمُقْصَاةُ تَمَامًا عَنْ مَرَاكِزِ صُنْعِ القَرَارِ وَالخِطَابِ الرَّسْمِيِّ"
+      },
+      "german": {
+        "word": "die Subalternität",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Subalternitäten",
+        "example": "Gayatri Spivak warf in ihrem Essay die provokante Frage auf, ob die Subalternen überhaupt Gehör finden können."
+      },
+      "english": {
+        "word": "subalternity (Spivak)",
+        "example": "Gayatri Spivak posed the provocative question of whether the subaltern can speak in dominant discourse."
+      }
+    },
+    {
+      "id": "post_004",
+      "icon": "post_gewalt",
+      "arabic": {
+        "word": "العُنْفُ الإِبِسْتِيمِيُّ (المَعْرِفِيّ)",
+        "meaning": "طَمْسُ وَإِقْصَاءُ المَعَارِفِ وَاللُّغَاتِ وَالنُّظُمِ الفِكْرِيَّةِ لِلشُّعُوبِ الأَصْلِيَّةِ لِصَالِحِ المَعْرِفَةِ الغَرْبِيَّةِ"
+      },
+      "german": {
+        "word": "die epistemische Gewalt",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die epistemischen Gewalten",
+        "example": "Die Zerstörung indigener Wissenssysteme während der Kolonialzeit gilt als gravierender Akt epistemischer Gewalt."
+      },
+      "english": {
+        "word": "epistemic violence",
+        "example": "The destruction of indigenous knowledge systems during colonialism is recognized as an act of epistemic violence."
+      }
+    },
+    {
+      "id": "post_005",
+      "icon": "post_hybriditaet",
+      "arabic": {
+        "word": "الهَجَانَةُ الثَّقَافِيَّة",
+        "meaning": "تَشَكُّلُ هُوِيَّاتٍ جَدِيدَةٍ مُرَكَّبَةٍ نَتِيجَةَ تَلَاقِي وَتَصَادُمِ الثَّقَافَاتِ المُخْتَلِفَةِ"
+      },
+      "german": {
+        "word": "die kulturelle Hybridität",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die kulturellen Hybriditäten",
+        "example": "Homi Bhabha betont, dass kulturelle Hybridität fixe Grenzen auflöst und neue Räume der Aushandlung schafft."
+      },
+      "english": {
+        "word": "cultural hybridity (Bhabha)",
+        "example": "Homi Bhabha emphasizes that cultural hybridity dissolves rigid borders and creates new negotiating spaces."
+      }
+    },
+    {
+      "id": "post_006",
+      "icon": "post_dekolonisierung",
+      "arabic": {
+        "word": "إِزَالَةُ الاسْتِعْمَارِ عَنِ المَعْرِفَة",
+        "meaning": "تَحْرِيرُ المَنَاهِجِ الأَكَادِيمِيَّةِ وَالفِكْرِيَّةِ مِنَ التَّبَعِيَّةِ لِلنَّمَاذِجِ المَعْرِفِيَّةِ الاسْتِعْمَارِيَّةِ"
+      },
+      "german": {
+        "word": "die Dekolonisierung des Wissens",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Dekolonisierungen",
+        "example": "Universitäten diskutieren weltweit über die Dekolonisierung des Wissens und die Öffnung von Leselisten."
+      },
+      "english": {
+        "word": "decolonization of knowledge",
+        "example": "Universities worldwide debate the decolonization of knowledge and the pluralization of reading syllabi."
+      }
+    },
+    {
+      "id": "post_007",
+      "icon": "post_eurozentrismus",
+      "arabic": {
+        "word": "التَّمَرْكُزُ حَوْلَ أُورُوبَّا (الأُورُوبُوسِنْتْرِيزْم)",
+        "meaning": "اعْتِبَارُ التَّارِيخِ وَالمَعَايِيرِ الأُورُوبِّيَّةِ مِقْيَاسًا كَوْنِيًّا وَحِيدًا لِتَقْيِيمِ كَافَّةِ الحَضَارَاتِ"
+      },
+      "german": {
+        "word": "der Eurozentrismus",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Eurozentrismen",
+        "example": "Der Eurozentrismus verkennt die eigenständigen wissenschaftlichen Errungenschaften asiatischer und arabischer Zivilisationen."
+      },
+      "english": {
+        "word": "Eurocentrism",
+        "example": "Eurocentrism overlooks the independent scientific accomplishments of Asian and Arab civilizations."
+      }
+    },
+    {
+      "id": "post_008",
+      "icon": "post_intersektionalitaet",
+      "arabic": {
+        "word": "التَّقَاطُعِيَّةُ الاجْتِمَاعِيَّة",
+        "meaning": "تَحْلِيلُ كَيْفِيَّةِ تَقَاطُعِ أَشْكَالِ التَّمْيِيزِ (كالعِرْقِ وَالجِنْسِ وَالطَّبَقَةِ) لِتَكْوِينِ تَجَارِبَ قَهْرٍ مُرَكَّبَةٍ"
+      },
+      "german": {
+        "word": "die Intersektionalität",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Intersektionalitäten",
+        "example": "Das Konzept der Intersektionalität verdeutlicht, wie Geschlecht, Herkunft und Klasse zusammenwirken."
+      },
+      "english": {
+        "word": "intersectionality",
+        "example": "The concept of intersectionality elucidates how gender, ethnicity, and social class compound discrimination."
+      }
+    },
+    {
+      "id": "post_009",
+      "icon": "post_hegemonie",
+      "arabic": {
+        "word": "الهَيْمَنَةُ الثَّقَافِيَّة",
+        "meaning": "قُدْرَةُ الطَّبَقَةِ الحَاكِمَةِ عَلَى فَرْضِ رُؤْيَتِهَا لِلْعَالَمِ حَتَّى يَتَقَبَّلَهَا الجَمِيعُ كَأَمْرٍ بَدِيهِيٍّ (غْرَامْشِي)"
+      },
+      "german": {
+        "word": "die kulturelle Hegemonie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die kulturellen Hegemonien",
+        "example": "Antonio Gramsci analysierte, wie herrschende Eliten kulturelle Hegemonie durch Bildung und Medien etablieren."
+      },
+      "english": {
+        "word": "cultural hegemony (Gramsci)",
+        "example": "Antonio Gramsci analyzed how ruling elites establish cultural hegemony through education and mass media."
+      }
+    },
+    {
+      "id": "post_010",
+      "icon": "post_alteritaet",
+      "arabic": {
+        "word": "الغَيْرِيَّة (صِنَاعَةُ الآخَر)",
+        "meaning": "العَمَلِيَّةُ الخِطَابِيَّةُ الَّتِي يُعَرَّفُ فِيهَا فَرِيقٌ مِنَ النَّاسِ بِأَنَّهُ 'الآخَرُ' المُخْتَلِفُ أَوْ الأَدْنَى"
+      },
+      "german": {
+        "word": "die Alterität (das Othering)",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Alteritäten",
+        "example": "Das Phänomen des Othering erzeugt künstliche Grenzen zwischen dem 'Wir' und den 'Fremden'."
+      },
+      "english": {
+        "word": "alterity / othering",
+        "example": "The phenomenon of othering constructs artificial boundaries between 'us' and 'the strangers'."
+      }
+    },
+    {
+      "id": "post_011",
+      "icon": "post_stratifikation",
+      "arabic": {
+        "word": "التَّدَرُّجُ الطَّبَقِيُّ الاجْتِمَاعِيّ",
+        "meaning": "تَقْسِيمُ المُجْتَمَعِ إِلَى طَبَقَاتٍ هَرَمِيَّةٍ تَتَفَاوَتُ فِي المَالِ وَالسُّلْطَةِ وَالمَكَانَةِ"
+      },
+      "german": {
+        "word": "die soziale Stratifikation",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die sozialen Stratifikationen",
+        "example": "Die soziologische Forschung untersucht, wie Bildungsabschlüsse die soziale Stratifikation zementieren."
+      },
+      "english": {
+        "word": "social stratification",
+        "example": "Sociological research investigates how educational credentials solidify social stratification."
+      }
+    },
+    {
+      "id": "post_012",
+      "icon": "post_marginalisierung",
+      "arabic": {
+        "word": "التَّهْمِيشُ الاجْتِمَاعِيّ",
+        "meaning": "دَفْعُ فِئَاتٍ مُعَيَّنَةٍ إِلَى هَوَامِشِ المُجْتَمَعِ وَحِرْمَانُهُمْ مِنَ المَشَارَكَةِ الفَاعِلَةِ"
+      },
+      "german": {
+        "word": "die gesellschaftliche Marginalisierung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Marginalisierungen",
+        "example": "Ökonomische Benachteiligung führt häufig zu politischer und kultureller Marginalisierung von Minderheiten."
+      },
+      "english": {
+        "word": "social marginalization",
+        "example": "Economic disadvantage frequently leads to the political and cultural marginalization of minorities."
+      }
+    },
+    {
+      "id": "post_013",
+      "icon": "post_dritterraum",
+      "arabic": {
+        "word": "مَفْهُومُ الفَضَاءِ الثَّالِث",
+        "meaning": "مَسَاحَةٌ بَيْنِيَّةٌ ثَقَافِيَّةٌ لَا تَنْتَمِي كُلِّيًّا لِلْمُسْتَعْمِرِ وَلَا لِلْمُسْتَعْمَرِ، تُولَدُ فِيهَا مَعَانٍ جَدِيدَةٌ"
+      },
+      "german": {
+        "word": "der Dritte Raum",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Dritten Räume",
+        "example": "Der Dritte Raum ermöglicht die Subversion polarisierender kolonialer Dichotomien."
+      },
+      "english": {
+        "word": "third space concept (Bhabha)",
+        "example": "The third space enables the subversion of polarizing colonial dichotomies."
+      }
+    },
+    {
+      "id": "post_014",
+      "icon": "post_kolonialitaet",
+      "arabic": {
+        "word": "اسْتِعْمَارِيَّةُ السُّلْطَة",
+        "meaning": "اسْتِمْرَارُ عِلَاقَاتِ التَّبَعِيَّةِ وَالتَّمْيِيزِ العِرْقِيِّ حَتَّى بَعْدَ انْتِهَاءِ الِاحْتِلَالِ العَسْكَرِيِّ المُبَاشِرِ"
+      },
+      "german": {
+        "word": "die Kolonialität der Macht",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Kolonialitäten der Macht",
+        "example": "Anibal Quijano prägte den Begriff der Kolonialität der Macht zur Analyse globaler Hierarchien."
+      },
+      "english": {
+        "word": "coloniality of power (Quijano)",
+        "example": "Anibal Quijano coined the coloniality of power to analyze global racial and economic hierarchies."
+      }
+    },
+    {
+      "id": "post_015",
+      "icon": "post_habitus",
+      "arabic": {
+        "word": "الهَابِيتُوس (المَلَكَةُ السُّلُوكِيَّة)",
+        "meaning": "مَنْظُومَةُ التَّصَرُّفَاتِ وَالأَذْوَاقِ وَأَنْمَاطِ التَّفْكِيرِ الَّتِي يَتَشَرَّبُهَا الفَرْدُ مِنْ بِيئَتِهِ الطَّبَقِيَّةِ (بُورْدْيُو)"
+      },
+      "german": {
+        "word": "der Habitus",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Habitus",
+        "example": "Pierre Bourdieus Konzept des Habitus erklärt, wie gesellschaftliche Ungleichheit körperlich verinnerlicht wird."
+      },
+      "english": {
+        "word": "habitus (Bourdieu)",
+        "example": "Pierre Bourdieu's concept of habitus explains how social inequality is bodily internalized."
+      }
+    },
+    {
+      "id": "post_016",
+      "icon": "post_kapital",
+      "arabic": {
+        "word": "رَأْسُ المَالِ الثَّقَافِيّ",
+        "meaning": "المَعَارِفُ وَالمُؤَهِّلَاتُ وَالذَّائِقَةُ الفَنِّيَّةُ الَّتِي تَمْنَحُ صَاحِبَهَا مَزَايَا اجْتِمَاعِيَّةً"
+      },
+      "german": {
+        "word": "das kulturelle Kapital",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die kulturellen Kapitalformen",
+        "example": "Inkorporiertes kulturelles Kapital wie Sprachgewandtheit öffnet Türen zu elitären Bildungsinstitutionen."
+      },
+      "english": {
+        "word": "cultural capital",
+        "example": "Embodied cultural capital such as linguistic eloquence opens doors to elite academic institutions."
+      }
+    },
+    {
+      "id": "post_017",
+      "icon": "post_mimikry",
+      "arabic": {
+        "word": "المُحَاكَاةُ الاسْتِعْمَارِيَّة (المِيمِيكْرِي)",
+        "meaning": "تَقْلِيدُ الشُّعُوبِ الخَاضِعَةِ لِثَقَافَةِ المُسْتَعْمِرِ، مِمَّا يُظْهِرُ تَشَابُهًا يُبْطِنُ سُخْرِيَةً وَتَهْدِيدًا لِسُلْطَتِهِ"
+      },
+      "german": {
+        "word": "die postkoloniale Mimikry",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Mimikry-Strategien",
+        "example": "Postkoloniale Mimikry ist laut Bhabha 'fast dasselbe, aber nicht ganz', was die Kolonialmacht verunsichert."
+      },
+      "english": {
+        "word": "postcolonial mimicry",
+        "example": "According to Bhabha, postcolonial mimicry is 'almost the same, but not quite', unsettling colonial authority."
+      }
+    },
+    {
+      "id": "post_018",
+      "icon": "post_diaspora",
+      "arabic": {
+        "word": "الشَّتَاتُ المَهْجَرِيّ (الدِّيَاسْبُورَا)",
+        "meaning": "تَجَمُّعَاتُ السُّكَّانِ الَّذِينَ يُقِيمُونَ خَارِجَ أَوْطَانِهِمْ الأَصْلِيَّةِ مَعَ الِاحْتِفَاظِ بِرَوَابِطِ هُوِيَّتِهِمْ"
+      },
+      "german": {
+        "word": "die Diaspora",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Diasporagemeinschaften",
+        "example": "Diasporagemeinschaften spielen als kulturelle Brückenbauer eine Schlüsselrolle in globalen Transferprozessen."
+      },
+      "english": {
+        "word": "diaspora",
+        "example": "Diaspora communities play a pivotal role as cultural bridge-builders in global transfer processes."
+      }
+    },
+    {
+      "id": "post_019",
+      "icon": "post_emanzipation",
+      "arabic": {
+        "word": "الانْعِتَاقُ التَّحَرُّرِيّ",
+        "meaning": "التَّخَلُّصُ التَّامُّ مِنَ الوِصَايَةِ القَانُونِيَّةِ أَوِ التَّبَعِيَّةِ الِاجْتِمَاعِيَّةِ وَنَيْلُ الحُقُوقِ المَوْضُوعِيَّةِ"
+      },
+      "german": {
+        "word": "die gesellschaftliche Emanzipation",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Emanzipationsbewegungen",
+        "example": "Emanzipationsbewegungen kämpfen für die strukturelle Überwindung patriarchaler und rassistischer Barrieren."
+      },
+      "english": {
+        "word": "social emancipation",
+        "example": "Emancipation movements strive for the structural dismantling of patriarchal and racial barriers."
+      }
+    },
+    {
+      "id": "post_020",
+      "icon": "post_symbolisch",
+      "arabic": {
+        "word": "رَأْسُ المَالِ الرَّمْزِيّ",
+        "meaning": "الهَيْبَةُ وَالشُّهْرَةُ وَالسُّمْعَةُ الحَسَنَةُ الَّتِي تُتِيحُ لِصَاحِبِهَا مُمَارَسَةَ التَّأْثِيرِ وَالسُّلْطَةِ المَعْنَوِيَّةِ"
+      },
+      "german": {
+        "word": "das symbolische Kapital",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die symbolischen Kapitalformen",
+        "example": "Wissenschaftler erwerben symbolisches Kapital durch renommierte Publikationen und Fachpreise."
+      },
+      "english": {
+        "word": "symbolic capital",
+        "example": "Scholars acquire symbolic capital through prestigious publications and academic awards."
+      }
+    },
+    {
+      "id": "post_021",
+      "icon": "post_kanonkritik",
+      "arabic": {
+        "word": "نَقْدُ المَرْجِعِيَّاتِ الكَلَاسِيكِيَّة (الكَنُون)",
+        "meaning": "إِعَادَةُ النَّظَرِ النَّقْدِيَّةِ فِي قَائِمَةِ النُّصُوصِ المُعْتَمَدَةِ الَّتِي أَهْمَلَتْ نِتَاجَ الشُّعُوبِ غَيْرِ الغَرْبِيَّةِ"
+      },
+      "german": {
+        "word": "die Kanonkritik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Kanonkritiken",
+        "example": "Die postkoloniale Kanonkritik fordert die Einbeziehung außereuropäischer Literatur in die Weltliteratur."
+      },
+      "english": {
+        "word": "critique of the canon / canon revision",
+        "example": "Postcolonial canon revision demands the inclusion of non-European literature in the world literature canon."
+      }
+    },
+    {
+      "id": "post_022",
+      "icon": "post_identitaet",
+      "arabic": {
+        "word": "سِيَاسَاتُ الهُوِيَّة",
+        "meaning": "حَرَاكٌ سِيَاسِيٌّ يَنْطَلِقُ مِنَ الهُوِيَّةِ المَظْلُومَةِ (كالعِرْقِ أَوِ الدِّينِ) لِلْمُطَالَبَةِ بِالعَدَالَةِ"
+      },
+      "german": {
+        "word": "die Identitätspolitik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Identitätspolitiken",
+        "example": "Moderne Identitätspolitik artikuliert die spezifischen Diskriminierungserfahrungen historisch entrechteter Gruppen."
+      },
+      "english": {
+        "word": "identity politics",
+        "example": "Modern identity politics articulates the specific experiences of discrimination of historically disenfranchised groups."
+      }
+    },
+    {
+      "id": "post_023",
+      "icon": "post_transkulturalitaet",
+      "arabic": {
+        "word": "عُبُورُ الثَّقَافَات (التَّرَانْسْكَلْتْشُورَالِيتِي)",
+        "meaning": "مَفْهُومٌ يَرَى الثَّقَافَاتِ كَكِيَانَاتٍ مُتَدَاخِلَةٍ وَشَبَكِيَّةٍ دُونَ حُدُودٍ مُصْمَتَةٍ أَوْ جُزُرٍ مُنْعَزِلَةٍ"
+      },
+      "german": {
+        "word": "die Transkulturalität",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Transkulturalitäten",
+        "example": "Wolfgang Welsch definierte Transkulturalität als Verflechtung von Kulturen jenseits nationaler Grenzziehungen."
+      },
+      "english": {
+        "word": "transculturality",
+        "example": "Wolfgang Welsch conceptualized transculturality as the entanglement of cultures beyond national boundaries."
+      }
+    },
+    {
+      "id": "post_024",
+      "icon": "post_regime",
+      "arabic": {
+        "word": "مَنْظُومَةُ المَعْرِفَة (نِظَامُ الحَقِيقَة)",
+        "meaning": "شَبَكَةُ القُوَى وَالمُؤَسَّسَاتِ الَّتِي تُحَدِّدُ مَا يُعْتَبَرُ مَقْبُولًا أَوْ مَرْفُوضًا كَحَقِيقَةٍ عِلْمِيَّةٍ (فُوكُو)"
+      },
+      "german": {
+        "word": "das Wissensregime",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Wissensregime",
+        "example": "Michel Foucault zeigte auf, wie herrschende Wissensregime eng an bestehende Machtstrukturen gekoppelt sind."
+      },
+      "english": {
+        "word": "regime of knowledge / truth regime (Foucault)",
+        "example": "Michel Foucault demonstrated how dominant regimes of knowledge are intimately linked to power structures."
+      }
+    },
+    {
+      "id": "post_025",
+      "icon": "post_repraesentation",
+      "arabic": {
+        "word": "إِعَادَةُ التَّمْثِيلِ الثَّقَافِيّ",
+        "meaning": "كَيْفِيَّةُ تَصْوِيرِ وَتَقْدِيمِ جَمَاعَةٍ مُعَيَّنَةٍ فِي الإِعْلَامِ وَالفُنُونِ وَمَا يَرْتَبِطُ بِذَلِكَ مِنْ قُوَّةٍ تَأْثِيرِيَّةٍ"
+      },
+      "german": {
+        "word": "die Repräsentationspolitik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Repräsentationspolitiken",
+        "example": "Kritische Repräsentationspolitik hinterfragt stereotype Rollenbilder von Minderheiten in Medien und Film."
+      },
+      "english": {
+        "word": "politics of representation / cultural representation",
+        "example": "Critical politics of representation interrogates stereotypical portrayals of minorities in film and media."
+      }
+    }
+  ]
+}
