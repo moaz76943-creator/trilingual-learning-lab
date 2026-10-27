@@ -6360,6 +6360,131 @@
       "path": "content/assets/svg/clim_grundrecht.svg",
       "type": "vector_svg",
       "category": "climate_litigation_c1"
+    },
+    "agi_allgemein": {
+      "path": "content/assets/svg/agi_allgemein.svg",
+      "type": "vector_svg",
+      "category": "agi_cognitive_c1"
+    },
+    "agi_architektur": {
+      "path": "content/assets/svg/agi_architektur.svg",
+      "type": "vector_svg",
+      "category": "agi_cognitive_c1"
+    },
+    "agi_alignment": {
+      "path": "content/assets/svg/agi_alignment.svg",
+      "type": "vector_svg",
+      "category": "agi_cognitive_c1"
+    },
+    "agi_superintelligenz": {
+      "path": "content/assets/svg/agi_superintelligenz.svg",
+      "type": "vector_svg",
+      "category": "agi_cognitive_c1"
+    },
+    "agi_singularitaet": {
+      "path": "content/assets/svg/agi_singularitaet.svg",
+      "type": "vector_svg",
+      "category": "agi_cognitive_c1"
+    },
+    "agi_attention": {
+      "path": "content/assets/svg/agi_attention.svg",
+      "type": "vector_svg",
+      "category": "agi_cognitive_c1"
+    },
+    "agi_transformer": {
+      "path": "content/assets/svg/agi_transformer.svg",
+      "type": "vector_svg",
+      "category": "agi_cognitive_c1"
+    },
+    "agi_neurosymbolisch": {
+      "path": "content/assets/svg/agi_neurosymbolisch.svg",
+      "type": "vector_svg",
+      "category": "agi_cognitive_c1"
+    },
+    "agi_rewardhacking": {
+      "path": "content/assets/svg/agi_rewardhacking.svg",
+      "type": "vector_svg",
+      "category": "agi_cognitive_c1"
+    },
+    "agi_rlhf": {
+      "path": "content/assets/svg/agi_rlhf.svg",
+      "type": "vector_svg",
+      "category": "agi_cognitive_c1"
+    },
+    "agi_halluzination": {
+      "path": "content/assets/svg/agi_halluzination.svg",
+      "type": "vector_svg",
+      "category": "agi_cognitive_c1"
+    },
+    "agi_erklaerbarkeit": {
+      "path": "content/assets/svg/agi_erklaerbarkeit.svg",
+      "type": "vector_svg",
+      "category": "agi_cognitive_c1"
+    },
+    "agi_xrisk": {
+      "path": "content/assets/svg/agi_xrisk.svg",
+      "type": "vector_svg",
+      "category": "agi_cognitive_c1"
+    },
+    "agi_bewusstsein": {
+      "path": "content/assets/svg/agi_bewusstsein.svg",
+      "type": "vector_svg",
+      "category": "agi_cognitive_c1"
+    },
+    "agi_turing": {
+      "path": "content/assets/svg/agi_turing.svg",
+      "type": "vector_svg",
+      "category": "agi_cognitive_c1"
+    },
+    "agi_llm": {
+      "path": "content/assets/svg/agi_llm.svg",
+      "type": "vector_svg",
+      "category": "agi_cognitive_c1"
+    },
+    "agi_multimodal": {
+      "path": "content/assets/svg/agi_multimodal.svg",
+      "type": "vector_svg",
+      "category": "agi_cognitive_c1"
+    },
+    "agi_vektordatenbank": {
+      "path": "content/assets/svg/agi_vektordatenbank.svg",
+      "type": "vector_svg",
+      "category": "agi_cognitive_c1"
+    },
+    "agi_verzerrung": {
+      "path": "content/assets/svg/agi_verzerrung.svg",
+      "type": "vector_svg",
+      "category": "agi_cognitive_c1"
+    },
+    "agi_autonom": {
+      "path": "content/assets/svg/agi_autonom.svg",
+      "type": "vector_svg",
+      "category": "agi_cognitive_c1"
+    },
+    "agi_heuristik": {
+      "path": "content/assets/svg/agi_heuristik.svg",
+      "type": "vector_svg",
+      "category": "agi_cognitive_c1"
+    },
+    "agi_repraesentation": {
+      "path": "content/assets/svg/agi_repraesentation.svg",
+      "type": "vector_svg",
+      "category": "agi_cognitive_c1"
+    },
+    "agi_embedding": {
+      "path": "content/assets/svg/agi_embedding.svg",
+      "type": "vector_svg",
+      "category": "agi_cognitive_c1"
+    },
+    "agi_kontrolle": {
+      "path": "content/assets/svg/agi_kontrolle.svg",
+      "type": "vector_svg",
+      "category": "agi_cognitive_c1"
+    },
+    "agi_emergenz": {
+      "path": "content/assets/svg/agi_emergenz.svg",
+      "type": "vector_svg",
+      "category": "agi_cognitive_c1"
     }
   }
 }

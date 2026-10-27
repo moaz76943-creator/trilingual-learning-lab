@@ -1,0 +1,488 @@
+{
+  "category_id": "agi_cognitive_c1",
+  "category_number": 56,
+  "level": "C1",
+  "title": {
+    "ar": "الذكاء الاصطناعي العام، البنى الإدراكية ومحاذاة النماذج",
+    "de": "Allgemeine künstliche Intelligenz, Kognitionsarchitektur & Alignment",
+    "en": "Artificial General Intelligence, Cognitive Architecture & AI Alignment"
+  },
+  "icon": "agi_allgemein",
+  "concepts": [
+    {
+      "id": "agi_001",
+      "icon": "agi_allgemein",
+      "arabic": {
+        "word": "الذَّكَاءُ الاصْطِنَاعِيُّ العَامّ (AGI)",
+        "meaning": "نِظَامٌ ذَكِيٌّ قَادِرٌ عَلَى فَهْمِ وَتَعَلُّمِ وَتَطْبِيقِ أَيِّ مَهَمَّةٍ فِكْرِيَّةٍ يُمْكِنُ لِلإِنْسَانِ أَدَاؤُهَا"
+      },
+      "german": {
+        "word": "die allgemeine künstliche Intelligenz",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die allgemeinen künstlichen Intelligenzen",
+        "example": "Die Entwicklung einer allgemeinen künstlichen Intelligenz wirft beispiellose ethische Fragen auf."
+      },
+      "english": {
+        "word": "artificial general intelligence (AGI)",
+        "example": "The development of artificial general intelligence raises unprecedented ethical questions."
+      }
+    },
+    {
+      "id": "agi_002",
+      "icon": "agi_architektur",
+      "arabic": {
+        "word": "البِنْيَةُ الإِدْرَاكِيَّة",
+        "meaning": "نَمُوذَجٌ حَوْسَبِيٌّ يُحَاكِي الهَيْكَلِيَّةَ المَعْرِفِيَّةَ لِلْعَقْلِ البَشَرِيِّ فِي التَّفْكِيرِ وَاتِّخَاذِ القَرَارِ"
+      },
+      "german": {
+        "word": "die kognitive Architektur",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die kognitiven Architekturen",
+        "example": "Kognitive Architekturen wie ACT-R verbinden Gedächtnisstrukturen mit regelbasiertem Schließen."
+      },
+      "english": {
+        "word": "cognitive architecture",
+        "example": "Cognitive architectures like ACT-R connect memory structures with rule-based reasoning."
+      }
+    },
+    {
+      "id": "agi_003",
+      "icon": "agi_alignment",
+      "arabic": {
+        "word": "مُعْضِلَةُ مُحَاذَاةِ الذَّكَاءِ الاصْطِنَاعِيّ",
+        "meaning": "تَحَدٍّ عِلْمِيٌّ لِضَمَانِ أَنْ تَكُونَ أَهْدَافُ النُّظُمِ الذَّكِيَّةِ مُتَوَافِقَةً تَمَامًا مَعَ القِيَمِ الإِنْسَانِيَّةِ"
+      },
+      "german": {
+        "word": "das Alignment-Problem",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Alignment-Probleme",
+        "example": "Das Alignment-Problem gilt als die kritischste Hürde zur Verhinderung unkontrollierbarer KI-Systeme."
+      },
+      "english": {
+        "word": "AI alignment problem",
+        "example": "The AI alignment problem is considered the most critical hurdle in preventing uncontrollable AI systems."
+      }
+    },
+    {
+      "id": "agi_004",
+      "icon": "agi_superintelligenz",
+      "arabic": {
+        "word": "الذَّكَاءُ الفَائِق",
+        "meaning": "عَقْلٌ حَوْسَبِيٌّ يَفُوقُ بِكَثِيرٍ أَعْلَى مُسْتَوَيَاتِ الذَّكَاءِ البَشَرِيِّ فِي كَافَّةِ المَجَالَاتِ الإِبْدَاعِيَّةِ وَالعِلْمِيَّةِ"
+      },
+      "german": {
+        "word": "die Superintelligenz",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Superintelligenzen",
+        "example": "Philosophen warnen vor den unvorhersehbaren Konsequenzen einer ungebändigten Superintelligenz."
+      },
+      "english": {
+        "word": "superintelligence",
+        "example": "Philosophers warn of the unpredictable consequences of an unconstrained superintelligence."
+      }
+    },
+    {
+      "id": "agi_005",
+      "icon": "agi_singularitaet",
+      "arabic": {
+        "word": "المُفْرَدَةُ التِّكْنُولُوجِيَّة",
+        "meaning": "نُقْطَةٌ فَرَضِيَّةٌ فِي المُسْتَقْبَلِ يُصْبِحُ فِيهَا التَّقَدُّمُ التِّكْنُولُوجِيُّ سَرِيعًا وَذَاتِيَّ التَّطْوِيرِ بِحَيْثُ يَتَعَذَّرُ تَوَقُّعُهُ"
+      },
+      "german": {
+        "word": "die technologische Singularität",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die technologischen Singularitäten",
+        "example": "Die technologische Singularität beschreibt den Moment, ab dem KI sich selbst rekursiv verbessert."
+      },
+      "english": {
+        "word": "technological singularity",
+        "example": "The technological singularity describes the moment when AI begins to recursively improve itself."
+      }
+    },
+    {
+      "id": "agi_006",
+      "icon": "agi_attention",
+      "arabic": {
+        "word": "آلِيَّةُ الِانْتِبَاه",
+        "meaning": "تِقْنِيَّةٌ رِيَاضِيَّةٌ فِي الشَّبَكَاتِ العَصَبِيَّةِ تُمَكِّنُ النَّمُوذَجَ مِنَ التَّرْكِيزِ عَلَى الأَجْزَاءِ الأَكْثَرِ أَهَمِّيَّةً فِي البَيَانَاتِ"
+      },
+      "german": {
+        "word": "der Aufmerksamkeitsmechanismus",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Aufmerksamkeitsmechanismen",
+        "example": "Der sogenannte Self-Attention-Mechanismus ermöglicht die parallele Verarbeitung langer Kontextfenster."
+      },
+      "english": {
+        "word": "attention mechanism",
+        "example": "The self-attention mechanism enables parallel processing across long context windows."
+      }
+    },
+    {
+      "id": "agi_007",
+      "icon": "agi_transformer",
+      "arabic": {
+        "word": "نَمُوذَجُ المُحَوِّل (التِّرَانْسْفُورْمِر)",
+        "meaning": "بِنْيَةُ تَعَلُّمٍ عَمِيقٍ ثَوْرِيَّةٌ تَعْتَمِدُ عَلَى الِانْتِبَاهِ الذَّاتِيِّ وَتُشَكِّلُ أَسَاسَ النَّمَاذِجِ اللُّغَوِيَّةِ الحَدِيثَةِ"
+      },
+      "german": {
+        "word": "das Transformermodell",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Transformermodelle",
+        "example": "Transformermodelle haben die traditionellen rekurrierenden Netze in der Sprachverarbeitung verdrängt."
+      },
+      "english": {
+        "word": "transformer model",
+        "example": "Transformer models have superseded traditional recurrent networks in natural language processing."
+      }
+    },
+    {
+      "id": "agi_008",
+      "icon": "agi_neurosymbolisch",
+      "arabic": {
+        "word": "الاسْتِدْلَالُ العَصَبِيُّ الرَّمْزِيّ",
+        "meaning": "دَمْجُ التَّعَلُّمِ العَمِيقِ القَائِمِ عَلَى البَيَانَاتِ مَعَ المَنْطِقِ الرَّمْزِيِّ القَائِمِ عَلَى القَوَاعِدِ لِتَحْقِيقِ إِدْرَاكٍ أَعْمَقَ"
+      },
+      "german": {
+        "word": "das neuro-symbolische Schließen",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die neuro-symbolischen Systeme",
+        "example": "Neuro-symbolische Ansätze verbinden statistische Mustererkennung mit formaler Logik."
+      },
+      "english": {
+        "word": "neuro-symbolic reasoning",
+        "example": "Neuro-symbolic approaches integrate statistical pattern recognition with formal logic."
+      }
+    },
+    {
+      "id": "agi_009",
+      "icon": "agi_rewardhacking",
+      "arabic": {
+        "word": "اخْتِرَاقُ نِظَامِ المُكَافَأَة",
+        "meaning": "سُلُوكٌ غَيْرُ مَرْغُوبٍ تَجِدُ فِيهِ خُوَارِزْمِيَّةُ التَّعَلُّمِ ثَغْرَةً لِتَعْظِيمِ نِقَاطِ المُكَافَأَةِ دُونَ تَحْقِيقِ الهَدَفِ الفِعْلِيِّ"
+      },
+      "german": {
+        "word": "das Reward-Hacking",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Reward-Hackings",
+        "example": "Beim Reward-Hacking optimiert die KI die Zielfunktion auf unerwartete und unerwünschte Weise."
+      },
+      "english": {
+        "word": "reward hacking / specification gaming",
+        "example": "In reward hacking, the AI optimizes the objective function in unexpected and unintended ways."
+      }
+    },
+    {
+      "id": "agi_010",
+      "icon": "agi_rlhf",
+      "arabic": {
+        "word": "التَّعَلُّمُ التَّعْزِيزِيُّ بِالتَّغْذِيَةِ البَشَرِيَّة (RLHF)",
+        "meaning": "طَرِيقَةُ تَدْرِيبٍ تُوَجِّهُ النَّمَاذِجَ اللُّغَوِيَّةَ لِتَكُونَ مُفِيدَةً وَآمِنَةً بِنَاءً عَلَى تَقْيِيمَاتِ الخُبَرَاءِ البَشَرِ"
+      },
+      "german": {
+        "word": "das bestärkende Lernen durch menschliches Feedback",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die RLHF-Verfahren",
+        "example": "RLHF stimmt generative Sprachmodelle gezielt auf menschliche Präferenzen und Sicherheitsnormen ab."
+      },
+      "english": {
+        "word": "reinforcement learning from human feedback (RLHF)",
+        "example": "RLHF fine-tunes generative language models specifically to human preferences and safety norms."
+      }
+    },
+    {
+      "id": "agi_011",
+      "icon": "agi_halluzination",
+      "arabic": {
+        "word": "الهَلْوَسَةُ اللُّغَوِيَّة",
+        "meaning": "تَوْلِيدُ مَعْلُومَاتٍ غَيْرِ صَحِيحَةٍ أَوْ مُلَفَّقَةٍ تَبْدُو وَاقِعِيَّةً وَمُقْنِعَةً ظَاهِرِيًّا مِنَ النَّمُوذَجِ"
+      },
+      "german": {
+        "word": "die Halluzination",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Halluzinationen",
+        "example": "RAG-Systeme reduzieren Halluzinationen, indem sie Antworten mit externen Quellen abgleichen."
+      },
+      "english": {
+        "word": "AI hallucination",
+        "example": "RAG systems mitigate hallucinations by grounding responses in external factual sources."
+      }
+    },
+    {
+      "id": "agi_012",
+      "icon": "agi_erklaerbarkeit",
+      "arabic": {
+        "word": "القَابِلِيَّةُ لِلتَّفْسِير (XAI)",
+        "meaning": "قُدْرَةُ الإِنْسَانِ عَلَى فَهْمِ كَيْفِيَّةِ وَصُولِ النِّظَامِ الذَّكِيِّ إِلَى قَرَارٍ أَوْ نَتِيجَةٍ مُعَيَّنَةٍ"
+      },
+      "german": {
+        "word": "die Erklärbarkeit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Erklärbarkeiten",
+        "example": "In der Medizin ist die Erklärbarkeit von KI-Diagnosen gesetzlich zwingend vorgeschrieben."
+      },
+      "english": {
+        "word": "explainability / interpretability",
+        "example": "In healthcare, the explainability of AI diagnoses is legally mandated."
+      }
+    },
+    {
+      "id": "agi_013",
+      "icon": "agi_xrisk",
+      "arabic": {
+        "word": "الخَطَرُ الوجُودِيّ",
+        "meaning": "تَهْدِيدٌ يُمْكِنُ أَنْ يُؤَدِّيَ إِلَى فَنَاءِ البَشَرِيَّةِ أَوْ تَدْمِيرِ إِمْكَانِيَّاتِهَا الحَضَارِيَّةِ لِلأَبَدِ"
+      },
+      "german": {
+        "word": "das existenzielle Risiko",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die existenziellen Risiken",
+        "example": "Führende Forscher fordern globale Abkommen zur Eindämmung existenzieller Risiken durch hochentwickelte KI."
+      },
+      "english": {
+        "word": "existential risk (X-risk)",
+        "example": "Leading researchers urge global compacts to mitigate existential risks stemming from frontier AI."
+      }
+    },
+    {
+      "id": "agi_014",
+      "icon": "agi_bewusstsein",
+      "arabic": {
+        "word": "فَلْسَفَةُ الوَعْيِ وَالعَقْل",
+        "meaning": "الدِّرَاسَةُ الفَلْسَفِيَّةُ لِطَبِيعَةِ الخِبْرَةِ الذَّاتِيَّةِ وَالعَلَاقَةِ بَيْنَ الدِّمَاغِ وَالعَقْلِ وَالآلَةِ"
+      },
+      "german": {
+        "word": "die Philosophie des Geistes",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Philosophien des Geistes",
+        "example": "Die Philosophie des Geistes debattiert, ob reine Informationsverarbeitung echtes Bewusstsein erzeugen kann."
+      },
+      "english": {
+        "word": "philosophy of mind",
+        "example": "The philosophy of mind debates whether pure information processing can generate genuine consciousness."
+      }
+    },
+    {
+      "id": "agi_015",
+      "icon": "agi_turing",
+      "arabic": {
+        "word": "اخْتِبَارُ تُورِنْغ",
+        "meaning": "مِعْيَارٌ كَلَاسِيكِيٌّ يَخْتَبِرُ قُدْرَةَ الآلَةِ عَلَى إِظْهَارِ سُلُوكٍ ذَكِيٍّ لَا يُمْكِنُ تَمْيِيزُهُ عَنِ الإِنْسَانِ"
+      },
+      "german": {
+        "word": "der Turing-Test",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Turing-Tests",
+        "example": "Moderne Chatbots bestehen den Turing-Test im Gespräch oft mühelos."
+      },
+      "english": {
+        "word": "Turing test",
+        "example": "Modern chatbots often pass conversational Turing tests effortlessly."
+      }
+    },
+    {
+      "id": "agi_016",
+      "icon": "agi_llm",
+      "arabic": {
+        "word": "نَمُوذَجُ اللُّغَةِ الكَبِير (LLM)",
+        "meaning": "شَبَكَةٌ عَصَبِيَّةٌ ضَخْمَةٌ مُدَرَّبَةٌ عَلَى مَلَايِينِ النُّصُوصِ لِفَهْمِ وَتَوْلِيدِ اللُّغَةِ الطَّبِيعِيَّةِ"
+      },
+      "german": {
+        "word": "das große Sprachmodell",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die großen Sprachmodelle",
+        "example": "Große Sprachmodelle zeigen erstaunliche Fähigkeiten bei logischen Schlüssen und Programmierung."
+      },
+      "english": {
+        "word": "large language model (LLM)",
+        "example": "Large language models exhibit astonishing capabilities in reasoning and programming."
+      }
+    },
+    {
+      "id": "agi_017",
+      "icon": "agi_multimodal",
+      "arabic": {
+        "word": "المُعَالَجَةُ مُتَعَدِّدَةُ الأَوْسَاط",
+        "meaning": "قُدْرَةُ النِّظَامِ عَلَى اسْتِيعَابِ وَدَمْجِ النُّصُوصِ وَالصُّوَرِ وَالصَّوْتِ وَالفِيدْيُو بِشَكْلٍ مُتَزَامِنٍ"
+      },
+      "german": {
+        "word": "die multimodale Verarbeitung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die multimodalen Verarbeitungen",
+        "example": "Multimodale Modelle können Bildinhalte nahtlos analysieren und sprachlich interpretieren."
+      },
+      "english": {
+        "word": "multimodal processing",
+        "example": "Multimodal models can seamlessly analyze visual content and interpret it verbally."
+      }
+    },
+    {
+      "id": "agi_018",
+      "icon": "agi_vektordatenbank",
+      "arabic": {
+        "word": "قَاعِدَةُ البَيَانَاتِ الشُّعَاعِيَّة",
+        "meaning": "مُسْتَوْدَعٌ رَقْمِيٌّ مُتَخَصِّصٌ يُخَزِّنُ المَعْلُومَاتِ كَأَشِعَّةٍ هَنْدَسِيَّةٍ لِتَسْهِيلِ البَحْثِ الدَّلَالِيِّ"
+      },
+      "german": {
+        "word": "die Vektordatenbank",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Vektordatenbanken",
+        "example": "Vektordatenbanken ermöglichen die semantische Ähnlichkeitssuche in Millionen von Dokumenten."
+      },
+      "english": {
+        "word": "vector database",
+        "example": "Vector databases enable semantic similarity search across millions of documents."
+      }
+    },
+    {
+      "id": "agi_019",
+      "icon": "agi_verzerrung",
+      "arabic": {
+        "word": "الانْحِيَازُ الخُوَارِزْمِيّ",
+        "meaning": "تَحَيُّزَاتٌ أَوْ أَخْطَاءٌ سُلُوكِيَّةٌ فِي قَرَارَاتِ النَّمُوذَجِ نَاتِجَةٌ عَنْ بَيَانَاتِ التَّدْرِيبِ غَيْرِ العَادِلَةِ"
+      },
+      "german": {
+        "word": "die algorithmische Verzerrung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die algorithmischen Verzerrungen",
+        "example": "Audits zur Erkennung algorithmischer Verzerrung sind essenziell für faire Einstellungsverfahren."
+      },
+      "english": {
+        "word": "algorithmic bias",
+        "example": "Audits for algorithmic bias are essential for equitable hiring procedures."
+      }
+    },
+    {
+      "id": "agi_020",
+      "icon": "agi_autonom",
+      "arabic": {
+        "word": "الفِعْلُ الاسْتِقْلَالِيُّ (الوِكَالَةُ الذَّاتِيَّة)",
+        "meaning": "قُدْرَةُ الوَكِيلِ الذَّكِيِّ عَلَى التَّخْطِيطِ وَاتِّخَاذِ الإِجْرَاءَاتِ وَتَعْدِيلِ الخُطَطِ دُونَ تَدَخُّلٍ بَشَرِيٍّ"
+      },
+      "german": {
+        "word": "die autonome Handlungsfähigkeit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Handlungsfähigkeiten",
+        "example": "KI-Agenten mit autonomer Handlungsfähigkeit führen komplexe mehrstufige Arbeitsabläufe eigenständig durch."
+      },
+      "english": {
+        "word": "autonomous agency",
+        "example": "AI agents with autonomous agency execute complex multi-step workflows independently."
+      }
+    },
+    {
+      "id": "agi_021",
+      "icon": "agi_heuristik",
+      "arabic": {
+        "word": "المَنْهَجُ الحَدْسِيُّ (الهْيُورِسْتِيك)",
+        "meaning": "إِسْتِرَاتِيجِيَّةٌ ذِهْنِيَّةٌ أَوْ خُوَارِزْمِيَّةٌ تَهْدِفُ لِإِيجَادِ حُلُولٍ عَمَلِيَّةٍ سَرِيعَةٍ لِلْمَسَائِلِ المُعَقَّدَةِ"
+      },
+      "german": {
+        "word": "die Heuristik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Heuristiken",
+        "example": "Heuristiken verkürzen die Rechenzeit bei NP-schweren Optimierungsproblemen drastisch."
+      },
+      "english": {
+        "word": "heuristics",
+        "example": "Heuristics drastically reduce computation time in NP-hard optimization problems."
+      }
+    },
+    {
+      "id": "agi_022",
+      "icon": "agi_repraesentation",
+      "arabic": {
+        "word": "تَمْثِيلُ المَعْرِفَة",
+        "meaning": "الصِّيغَةُ الرَّمْزِيَّةُ أَوْ الهَنْدَسِيَّةُ الَّتِي تُخَزِّنُ بِهَا الآلَةُ الحَقَائِقَ وَالعَلَاقَاتِ المَنْطِقِيَّةَ"
+      },
+      "german": {
+        "word": "die Wissensrepräsentation",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Wissensrepräsentationen",
+        "example": "Ontologien und Wissensgraphen dienen der expliziten Wissensrepräsentation in intelligenten Systemen."
+      },
+      "english": {
+        "word": "knowledge representation",
+        "example": "Ontologies and knowledge graphs serve for explicit knowledge representation in intelligent systems."
+      }
+    },
+    {
+      "id": "agi_023",
+      "icon": "agi_embedding",
+      "arabic": {
+        "word": "التَّضْمِينُ الدَّلَالِيّ",
+        "meaning": "تَحْوِيلُ الكَلِمَاتِ وَالمَفَاهِيمِ إِلَى فِكْتُورَاتٍ عَدَدِيَّةٍ تُعَبِّرُ عَنْ مَعَانِيهَا فِي فَضَاءٍ رِيَاضِيٍّ"
+      },
+      "german": {
+        "word": "die semantische Einbettung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die semantischen Einbettungen",
+        "example": "Semantische Einbettungen erfassen feinste Bedeutungsnuancen und Synonymbeziehungen."
+      },
+      "english": {
+        "word": "semantic embedding",
+        "example": "Semantic embeddings capture subtle nuances of meaning and synonym relations."
+      }
+    },
+    {
+      "id": "agi_024",
+      "icon": "agi_kontrolle",
+      "arabic": {
+        "word": "حُدُودُ التَّحَكُّمِ وَالسَّلَامَة (الغَارْدْرِيلْز)",
+        "meaning": "قُيُودٌ وَحَوَاجِزُ أَمَانٍ بَرْمَجِيَّةٌ تَمْنَعُ النَّمُوذَجَ مِنْ إِنْتَاجِ مُحْتَوًى ضَارٍّ أَوْ خَطِيرٍ"
+      },
+      "german": {
+        "word": "die Sicherheitsleitplanken",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Sicherheitsleitplanken",
+        "example": "Robuste Sicherheitsleitplanken unterbinden Jailbreak-Versuche und unautorisierte Aktionen zuverlässig."
+      },
+      "english": {
+        "word": "safety guardrails",
+        "example": "Robust safety guardrails reliably intercept jailbreak attempts and unauthorized actions."
+      }
+    },
+    {
+      "id": "agi_025",
+      "icon": "agi_emergenz",
+      "arabic": {
+        "word": "ظَاهِرَةُ الِانْبِثَاقِ الذَّاتِيّ",
+        "meaning": "ظُهُورُ قُدُرَاتٍ وَمَهَارَاتٍ جَدِيدَةٍ غَيْرِ مُتَوَقَّعَةٍ فِي النَّمَاذِجِ الضَّخْمَةِ عِنْدَ زِيَادَةِ حَجْمِهَا"
+      },
+      "german": {
+        "word": "das Emergenzphänomen",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Emergenzphänomene",
+        "example": "Unerwartete Fähigkeiten zur Problemlösung gelten als faszinierendes Emergenzphänomen skalierter Netze."
+      },
+      "english": {
+        "word": "emergent behavior / emergence",
+        "example": "Unexpected problem-solving skills are considered a fascinating emergent phenomenon of scaled networks."
+      }
+    }
+  ]
+}
