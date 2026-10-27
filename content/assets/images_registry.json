@@ -6610,6 +6610,131 @@
       "path": "content/assets/svg/fin_aufsicht.svg",
       "type": "vector_svg",
       "category": "fintech_governance_c1"
+    },
+    "urb_urbanismus": {
+      "path": "content/assets/svg/urb_urbanismus.svg",
+      "type": "vector_svg",
+      "category": "smart_cities_c1"
+    },
+    "urb_biophil": {
+      "path": "content/assets/svg/urb_biophil.svg",
+      "type": "vector_svg",
+      "category": "smart_cities_c1"
+    },
+    "urb_smartcity": {
+      "path": "content/assets/svg/urb_smartcity.svg",
+      "type": "vector_svg",
+      "category": "smart_cities_c1"
+    },
+    "urb_megastadt": {
+      "path": "content/assets/svg/urb_megastadt.svg",
+      "type": "vector_svg",
+      "category": "smart_cities_c1"
+    },
+    "urb_passivhaus": {
+      "path": "content/assets/svg/urb_passivhaus.svg",
+      "type": "vector_svg",
+      "category": "smart_cities_c1"
+    },
+    "urb_hitzeinsel": {
+      "path": "content/assets/svg/urb_hitzeinsel.svg",
+      "type": "vector_svg",
+      "category": "smart_cities_c1"
+    },
+    "urb_vertikal": {
+      "path": "content/assets/svg/urb_vertikal.svg",
+      "type": "vector_svg",
+      "category": "smart_cities_c1"
+    },
+    "urb_smartgrid": {
+      "path": "content/assets/svg/urb_smartgrid.svg",
+      "type": "vector_svg",
+      "category": "smart_cities_c1"
+    },
+    "urb_zirkulaer": {
+      "path": "content/assets/svg/urb_zirkulaer.svg",
+      "type": "vector_svg",
+      "category": "smart_cities_c1"
+    },
+    "urb_nachverdichtung": {
+      "path": "content/assets/svg/urb_nachverdichtung.svg",
+      "type": "vector_svg",
+      "category": "smart_cities_c1"
+    },
+    "urb_mikromobilitaet": {
+      "path": "content/assets/svg/urb_mikromobilitaet.svg",
+      "type": "vector_svg",
+      "category": "smart_cities_c1"
+    },
+    "urb_grauwasser": {
+      "path": "content/assets/svg/urb_grauwasser.svg",
+      "type": "vector_svg",
+      "category": "smart_cities_c1"
+    },
+    "urb_resilienz": {
+      "path": "content/assets/svg/urb_resilienz.svg",
+      "type": "vector_svg",
+      "category": "smart_cities_c1"
+    },
+    "urb_begruenung": {
+      "path": "content/assets/svg/urb_begruenung.svg",
+      "type": "vector_svg",
+      "category": "smart_cities_c1"
+    },
+    "urb_oepnv": {
+      "path": "content/assets/svg/urb_oepnv.svg",
+      "type": "vector_svg",
+      "category": "smart_cities_c1"
+    },
+    "urb_15minuten": {
+      "path": "content/assets/svg/urb_15minuten.svg",
+      "type": "vector_svg",
+      "category": "smart_cities_c1"
+    },
+    "urb_zersiedelung": {
+      "path": "content/assets/svg/urb_zersiedelung.svg",
+      "type": "vector_svg",
+      "category": "smart_cities_c1"
+    },
+    "urb_nullenergie": {
+      "path": "content/assets/svg/urb_nullenergie.svg",
+      "type": "vector_svg",
+      "category": "smart_cities_c1"
+    },
+    "urb_autogerecht": {
+      "path": "content/assets/svg/urb_autogerecht.svg",
+      "type": "vector_svg",
+      "category": "smart_cities_c1"
+    },
+    "urb_beteiligung": {
+      "path": "content/assets/svg/urb_beteiligung.svg",
+      "type": "vector_svg",
+      "category": "smart_cities_c1"
+    },
+    "urb_gis": {
+      "path": "content/assets/svg/urb_gis.svg",
+      "type": "vector_svg",
+      "category": "smart_cities_c1"
+    },
+    "urb_brachflaechen": {
+      "path": "content/assets/svg/urb_brachflaechen.svg",
+      "type": "vector_svg",
+      "category": "smart_cities_c1"
+    },
+    "urb_solar": {
+      "path": "content/assets/svg/urb_solar.svg",
+      "type": "vector_svg",
+      "category": "smart_cities_c1"
+    },
+    "urb_schwammstadt": {
+      "path": "content/assets/svg/urb_schwammstadt.svg",
+      "type": "vector_svg",
+      "category": "smart_cities_c1"
+    },
+    "urb_quartier": {
+      "path": "content/assets/svg/urb_quartier.svg",
+      "type": "vector_svg",
+      "category": "smart_cities_c1"
     }
   }
 }

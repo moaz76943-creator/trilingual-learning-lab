@@ -1,0 +1,488 @@
+{
+  "category_id": "smart_cities_c1",
+  "category_number": 58,
+  "level": "C1",
+  "title": {
+    "ar": "العمران المستدام، المدن الذكية الكبرى والعمارة الحيوية",
+    "de": "Nachhaltiger Urbanismus, Smart Cities & biophile Architektur",
+    "en": "Sustainable Urbanism, Smart Megacities & Biophilic Architecture"
+  },
+  "icon": "urb_urbanismus",
+  "concepts": [
+    {
+      "id": "urb_001",
+      "icon": "urb_urbanismus",
+      "arabic": {
+        "word": "العُمْرَانُ المُسْتَدَام",
+        "meaning": "تَخْطِيطٌ حَضَرِيٌّ يَسْعَى إِلَى تَحْقِيقِ التَّوَازُنِ بَيْنَ النُّمُوِّ الِاقْتِصَادِيِّ وَحِمَايَةِ المَوَارِدِ الطَّبِيعِيَّةِ"
+      },
+      "german": {
+        "word": "der nachhaltige Urbanismus",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die nachhaltigen Urbanismen",
+        "example": "Der nachhaltige Urbanismus reduziert den Flächenverbrauch durch innovative Umnutzungskonzepte."
+      },
+      "english": {
+        "word": "sustainable urbanism",
+        "example": "Sustainable urbanism reduces land consumption through innovative repurposing concepts."
+      }
+    },
+    {
+      "id": "urb_002",
+      "icon": "urb_biophil",
+      "arabic": {
+        "word": "العِمَارَةُ البِيُوفِيلِيَّة (الحَيَوِيَّة)",
+        "meaning": "فَلْسَفَةُ تَصْمِيمٍ مِعْمَارِيٍّ تَدْمِجُ الطَّبِيعَةَ وَالنَّبَاتَاتِ وَالضَّوْءَ فِي صَمِيمِ المَبَانِي لِتَعْزِيزِ صِحَّةِ الإِنْسَانِ"
+      },
+      "german": {
+        "word": "die biophile Architektur",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die biophilen Architekturen",
+        "example": "Biophile Architektur verbindet natürliche Baustoffe und Tageslicht mit lebendiger Vegetation im Innenraum."
+      },
+      "english": {
+        "word": "biophilic architecture",
+        "example": "Biophilic architecture combines natural materials and daylight with living indoor vegetation."
+      }
+    },
+    {
+      "id": "urb_003",
+      "icon": "urb_smartcity",
+      "arabic": {
+        "word": "المَدِينَةُ الذَّكِيَّة",
+        "meaning": "حَاضِرَةٌ حَضَرِيَّةٌ تَسْتَخْدِمُ تِقْنِيَّاتِ الإِنْتَرْنِتِ وَالبَيَانَاتِ الضَّخْمَةِ لِتَحْسِينِ كَفَاءَةِ المَرَافِقِ وَجَوْدَةِ الحَيَاةِ"
+      },
+      "german": {
+        "word": "die Smart City",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Smart Cities",
+        "example": "Sensorenbasierte Verkehrssteuerung und intelligentes Abfallmanagement zeichnen eine moderne Smart City aus."
+      },
+      "english": {
+        "word": "smart city",
+        "example": "Sensor-based traffic control and intelligent waste management distinguish a modern smart city."
+      }
+    },
+    {
+      "id": "urb_004",
+      "icon": "urb_megastadt",
+      "arabic": {
+        "word": "المَدِينَةُ المِلْيُونِيَّةُ الكُبْرَى",
+        "meaning": "تَجَمُّعٌ حَضَرِيٌّ عِمْلَاقٌ يَتَجَاوَزُ عَدَدُ سُكَّانِهِ عَشَرَةَ مَلَايِينِ نَسَمَةٍ"
+      },
+      "german": {
+        "word": "die Megastadt",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Megastädte",
+        "example": "Megastädte des globalen Südens stehen vor immensen logistischen und ökologischen Herausforderungen."
+      },
+      "english": {
+        "word": "megacity",
+        "example": "Megacities in the Global South face immense logistical and ecological challenges."
+      }
+    },
+    {
+      "id": "urb_005",
+      "icon": "urb_passivhaus",
+      "arabic": {
+        "word": "المَبْنَى سَالِبُ الطَّاقَة (البَاسِيفْ هَاوْس)",
+        "meaning": "مَبْنًى مِعْمَارِيٌّ شَدِيدُ العَزْلِ يَسْتَغْنِي تَقْرِيبًا عَنْ أَنْظِمَةِ التَّدْفِئَةِ التَّقْلِيدِيَّةِ لِكَفَاءَتِهِ الفَائِقَةِ"
+      },
+      "german": {
+        "word": "das Passivhaus",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Passivhäuser",
+        "example": "Ein zertifiziertes Passivhaus deckt seinen geringen Wärmebedarf weitgehend aus passiven Quellen."
+      },
+      "english": {
+        "word": "passive house",
+        "example": "A certified passive house covers its minimal heat demand largely from passive sources."
+      }
+    },
+    {
+      "id": "urb_006",
+      "icon": "urb_hitzeinsel",
+      "arabic": {
+        "word": "الجَزِيرَةُ الحَرَارِيَّةُ الحَضَرِيَّة",
+        "meaning": "ظَاهِرَةُ ارْتِفَاعِ دَرَجَاتِ الحَرَارَةِ فِي المَرَاكِزِ الحَضَرِيَّةِ مُقَارَنَةً بِالمَنَاطِقِ الرِّيفِيَّةِ المُحِيطَةِ"
+      },
+      "german": {
+        "word": "die städtische Hitzeinsel",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die städtischen Hitzeinseln",
+        "example": "Dachbegrünungen und Frischluftschneisen kühlen städtische Hitzeinseln in den Sommermonaten wirksam ab."
+      },
+      "english": {
+        "word": "urban heat island",
+        "example": "Green roofs and fresh-air corridors effectively cool urban heat islands during summer months."
+      }
+    },
+    {
+      "id": "urb_007",
+      "icon": "urb_vertikal",
+      "arabic": {
+        "word": "الزِّرَاعَةُ الرَّأْسِيَّةُ الحَضَرِيَّة",
+        "meaning": "إِنْتَاجُ المَحَاصِيلِ فِي طَبَقَاتٍ عَمُودِيَّةٍ دَاخِلَ المَبَانِي بِاسْتِخْدَامِ الإِضَاءَةِ الصِّنَاعِيَّةِ وَالتَّغْذِيَةِ المَائِيَّةِ"
+      },
+      "german": {
+        "word": "die vertikale Landwirtschaft",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die vertikalen Landwirtschaften",
+        "example": "Vertikale Landwirtschaft ermöglicht die ganzjährige regionale Lebensmittelproduktion ohne Pestizide."
+      },
+      "english": {
+        "word": "vertical farming",
+        "example": "Vertical farming enables year-round regional food production without pesticides."
+      }
+    },
+    {
+      "id": "urb_008",
+      "icon": "urb_smartgrid",
+      "arabic": {
+        "word": "الشَّبَكَةُ الكَهْرَبَائِيَّةُ الذَّكِيَّة (سْمَارْت غْرِيد)",
+        "meaning": "شَبَكَةُ طَاقَةٍ رَقْمِيَّةٍ تُرَاقِبُ وَتُوَازِنُ بَيْنَ الإِنْتَاجِ وَالِاسْتِهْلَاكِ لَحْظِيًّا بَيْنَ الطَّاقَاتِ المُتَجَدِّدَةِ"
+      },
+      "german": {
+        "word": "das intelligente Stromnetz",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die intelligenten Stromnetze",
+        "example": "Ein intelligentes Stromnetz integriert dezentrale Solaranlagen und Ladesäulen für Elektrofahrzeuge."
+      },
+      "english": {
+        "word": "smart grid",
+        "example": "A smart grid integrates decentralized solar systems and charging stations for electric vehicles."
+      }
+    },
+    {
+      "id": "urb_009",
+      "icon": "urb_zirkulaer",
+      "arabic": {
+        "word": "المَدِينَةُ الدَّائِرِيَّة",
+        "meaning": "نَمُوذَجُ مَدِينَةٍ تُعِيدُ اسْتِخْدَامَ المَوَادِّ وَالمِيَاهِ وَالنِّفَايَاتِ فِي دَوْرَاتٍ مُغْلَقَةٍ لِتَفَادِي الهَدْرِ"
+      },
+      "german": {
+        "word": "die zirkuläre Stadt",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die zirkulären Städte",
+        "example": "In einer zirkulären Stadt wird Bauschutt vollständig aufbereitet und als Sekundärbaustoff wiederverwendet."
+      },
+      "english": {
+        "word": "circular city",
+        "example": "In a circular city, construction rubble is completely processed and reused as secondary building material."
+      }
+    },
+    {
+      "id": "urb_010",
+      "icon": "urb_nachverdichtung",
+      "arabic": {
+        "word": "التَّكْثِيفُ العُمْرَانِيُّ الدَّاخِلِيّ",
+        "meaning": "اسْتِغْلَالُ الفَرَاغَاتِ وَالمَسَاحَاتِ غَيْرِ المُسْتَغَلَّةِ دَاخِلَ المَدِينَةِ لِبِنَاءِ مَسَاكِنَ دُونَ التَّمَدُّدِ خَارِجَهَا"
+      },
+      "german": {
+        "word": "die Nachverdichtung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Nachverdichtungen",
+        "example": "Durch behutsame Nachverdichtung entstehen neue Wohnungen, ohne wertvolle Freiflächen zu versiegeln."
+      },
+      "english": {
+        "word": "urban densification / infill development",
+        "example": "Through prudent infill development, new housing is created without sealing valuable open spaces."
+      }
+    },
+    {
+      "id": "urb_011",
+      "icon": "urb_mikromobilitaet",
+      "arabic": {
+        "word": "حَرَكِيَّةُ التَّنَقُّلِ المُصَغَّر",
+        "meaning": "وَسَائِلُ النَّقْلِ الخَفِيفَةُ وَالفَرْدِيَّةُ (كَالدَّرَّاجَاتِ الهَوَائِيَّةِ وَالسِّكُوتِرِ الكَهْرَبَائِيِّ) لِلْمَسَافَاتِ القَصِيرَةِ"
+      },
+      "german": {
+        "word": "die Mikromobilität",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Mikromobilitäten",
+        "example": "Die Mikromobilität schließt die sogenannte 'letzte Meile' zwischen Bahnhof und Haustür."
+      },
+      "english": {
+        "word": "micromobility",
+        "example": "Micromobility closes the so-called 'last mile' between train station and doorstep."
+      }
+    },
+    {
+      "id": "urb_012",
+      "icon": "urb_grauwasser",
+      "arabic": {
+        "word": "إِعَادَةُ تَدْوِيرِ المِيَاهِ الرَّمَادِيَّة",
+        "meaning": "مُعَالَجَةُ مِيَاهِ الِاسْتِحْمَامِ وَالغَسِيلِ لِإِعَادَةِ اسْتِخْدَامِهَا فِي رَيِّ الحَدَائِقِ أَوْ طَرْدِ المَرَاحِيضِ"
+      },
+      "german": {
+        "word": "das Grauwasserrecycling",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Grauwasserrecyclings",
+        "example": "Grauwasserrecycling in Wohnkomplexen senkt den Frischwasserverbrauch um bis zu vierzig Prozent."
+      },
+      "english": {
+        "word": "greywater recycling",
+        "example": "Greywater recycling in residential complexes reduces freshwater consumption by up to forty percent."
+      }
+    },
+    {
+      "id": "urb_013",
+      "icon": "urb_resilienz",
+      "arabic": {
+        "word": "مُرُونَةُ المَدِينَةِ (الصُّمُودُ الحَضَرِيّ)",
+        "meaning": "قُدْرَةُ المَدِينَةِ عَلَى اسْتِيعَابِ الصَّدَمَاتِ المُنَاخِيَّةِ وَالكَوَارِثِ وَالتَّعَافِي مِنْهَا بِسُرْعَةٍ"
+      },
+      "german": {
+        "word": "die urbane Resilienz",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die urbanen Resilienzen",
+        "example": "Urbane Resilienz erfordert redundante Infrastrukturen für Wasser, Energie und Telekommunikation."
+      },
+      "english": {
+        "word": "urban resilience",
+        "example": "Urban resilience requires redundant infrastructures for water, power, and telecommunications."
+      }
+    },
+    {
+      "id": "urb_014",
+      "icon": "urb_begruenung",
+      "arabic": {
+        "word": "تَخْضِيرُ وَاجِهَاتِ المَبَانِي",
+        "meaning": "تَغْطِيَةُ جُدْرَانِ الأَبْنِيَةِ بِالنَّبَاتَاتِ الحَيَّةِ لِعَزْلِ الحَرَارَةِ وَتَنْقِيَةِ هَوَاءِ المَدِينَةِ"
+      },
+      "german": {
+        "word": "die Fassadenbegrünung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Fassadenbegrünungen",
+        "example": "Vertikale Fassadenbegrünungen binden Feinstaub und verbessern das urbane Mikroklima spürbar."
+      },
+      "english": {
+        "word": "facade greening / vertical gardens",
+        "example": "Vertical facade greening captures particulate matter and noticeably improves the urban microclimate."
+      }
+    },
+    {
+      "id": "urb_015",
+      "icon": "urb_oepnv",
+      "arabic": {
+        "word": "وَسَائِلُ النَّقْلِ العَامِّ المَحَلِّيّ (ÖPNV)",
+        "meaning": "شَبَكَةُ القِطَارَاتِ وَالحَافِلَاتِ وَالتَّرَامْ الَّتِي تَنْقُلُ المُواطِنِينَ دَاخِلَ المَدِينَةِ"
+      },
+      "german": {
+        "word": "der öffentliche Personennahverkehr",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Nahverkehre",
+        "example": "Ein zuverlässiger und bezahlbarer ÖPNV ist das Rückgrat jeder ökologischen Verkehrswende."
+      },
+      "english": {
+        "word": "public transit / urban public transport",
+        "example": "Reliable and affordable public transit is the backbone of any ecological transport transition."
+      }
+    },
+    {
+      "id": "urb_016",
+      "icon": "urb_15minuten",
+      "arabic": {
+        "word": "مَدِينَةُ الرُّبْعِ سَاعَة",
+        "meaning": "نَمُوذَجٌ تَخْطِيطِيٌّ يَضْمَنُ وُصُولَ المُواطِنِ لِكُلِّ احْتِيَاجَاتِهِ (عَمَل، صِحَّة، تَعْلِيم) خِلَالَ 15 دَقِيقَةً مَشْيًا"
+      },
+      "german": {
+        "word": "die 15-Minuten-Stadt",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die 15-Minuten-Städte",
+        "example": "Das Konzept der 15-Minuten-Stadt stärkt die lokale Nachbarschaft und reduziert den Autoverkehr drastisch."
+      },
+      "english": {
+        "word": "15-minute city",
+        "example": "The 15-minute city concept strengthens local neighborhoods and drastically reduces car traffic."
+      }
+    },
+    {
+      "id": "urb_017",
+      "icon": "urb_zersiedelung",
+      "arabic": {
+        "word": "الزَّحْفُ العُمْرَانِيُّ العَشْوَائِيّ",
+        "meaning": "التَّوَسُّعُ الأُفُقِيُّ غَيْرُ المُنَظَّمِ لِلْمَبَانِي عَلَى حِسَابِ المَسَاحَاتِ الزِّرَاعِيَّةِ وَالطَّبِيعِيَّةِ"
+      },
+      "german": {
+        "word": "die Zersiedelung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Zersiedelungen",
+        "example": "Urbane Zersiedelung verursacht hohe Erschließungskosten und fördert die Abhängigkeit vom Individualverkehr."
+      },
+      "english": {
+        "word": "urban sprawl",
+        "example": "Urban sprawl causes high infrastructure development costs and fosters dependency on personal vehicles."
+      }
+    },
+    {
+      "id": "urb_018",
+      "icon": "urb_nullenergie",
+      "arabic": {
+        "word": "مَبْنَى الحِيَادِ الطَّاقِيّ",
+        "meaning": "مَبْنًى يُنْتِجُ مِنَ الطَّاقَةِ المُتَجَدِّدَةِ كَمِّيَّةً تُعَادِلُ أَوْ تَفُوقُ مَا يَسْتَهْلِكُهُ سَنَوِيًّا"
+      },
+      "german": {
+        "word": "das Nullenergiegebäude",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Nullenergiegebäude",
+        "example": "Nullenergiegebäude kombinieren hocheffiziente Dämmung mit integrierter Photovoltaik."
+      },
+      "english": {
+        "word": "net-zero energy building (NZEB)",
+        "example": "Net-zero energy buildings combine highly efficient insulation with integrated photovoltaics."
+      }
+    },
+    {
+      "id": "urb_019",
+      "icon": "urb_autogerecht",
+      "arabic": {
+        "word": "المَدِينَةُ المُتَمَحْوِرَةُ حَوْلَ السَّيَّارَات",
+        "meaning": "تَخْطِيطٌ عُمْرَانِيٌّ تَقْلِيدِيٌّ يُعْطِي الأَوْلَوِيَّةَ المُطْلَقَةَ لِحَرَكَةِ المَرْكَبَاتِ عَلَى حِسَابِ المُشَاةِ"
+      },
+      "german": {
+        "word": "die autogerechte Stadt",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die autogerechten Städte",
+        "example": "Die Abkehr von der autogerechten Stadt zugunsten von Fußgängerzonen belebt die Innenstädte."
+      },
+      "english": {
+        "word": "car-centric city",
+        "example": "Departing from the car-centric city in favor of pedestrian zones revitalizes downtown areas."
+      }
+    },
+    {
+      "id": "urb_020",
+      "icon": "urb_beteiligung",
+      "arabic": {
+        "word": "المُشَارَكَةُ المَدَنِيَّةُ فِي التَّخْطِيط",
+        "meaning": "إِشْرَاكُ المُواطِنِينَ وَسُكَّانِ الأَحْيَاءِ فِي صِيَاغَةِ وَاتِّخَاذِ قَرَارَاتِ المَشَارِيعِ العُمْرَانِيَّةِ"
+      },
+      "german": {
+        "word": "die Bürgerbeteiligung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Bürgerbeteiligungen",
+        "example": "Transparente Bürgerbeteiligung erhöht die Akzeptanz von städtebaulichen Großprojekten erheblich."
+      },
+      "english": {
+        "word": "civic participation / public engagement",
+        "example": "Transparent public engagement significantly increases acceptance of major urban development projects."
+      }
+    },
+    {
+      "id": "urb_021",
+      "icon": "urb_gis",
+      "arabic": {
+        "word": "نُظُمُ المَعْلُومَاتِ الجُغْرَافِيَّة (GIS)",
+        "meaning": "بَرْمَجِيَّاتٌ حَوْسَبِيَّةٌ لِتَحْلِيلِ وَإِدَارَةِ وَعَرْضِ البَيَانَاتِ المَكَانِيَّةِ لِتَخْطِيطِ المَدِينَةِ"
+      },
+      "german": {
+        "word": "das Geoinformationssystem",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Geoinformationssysteme",
+        "example": "Stadtplaner nutzen Geoinformationssysteme zur präzisen Modellierung von Hochwasserrisiken."
+      },
+      "english": {
+        "word": "geographic information system (GIS)",
+        "example": "Urban planners utilize geographic information systems for precise modeling of flood risks."
+      }
+    },
+    {
+      "id": "urb_022",
+      "icon": "urb_brachflaechen",
+      "arabic": {
+        "word": "إِعَادَةُ تَأْهِيلِ المَنَاطِقِ المَهْجُورَة",
+        "meaning": "تَحْوِيلُ الأَرَاضِي الصِّنَاعِيَّةِ أَوْ مَحَطَّاتِ السِّكَكِ المَتْرُوكَةِ إِلَى مُنْتَزَهَاتٍ وَأَحْيَاءٍ سَكَنِيَّةٍ"
+      },
+      "german": {
+        "word": "die Brachflächenreaktivierung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Brachflächenreaktivierungen",
+        "example": "Die Reaktivierung industrieller Brachflächen schützt landwirtschaftliche Böden vor Neuversiegelung."
+      },
+      "english": {
+        "word": "brownfield redevelopment",
+        "example": "Brownfield redevelopment protects agricultural soils from new sealing."
+      }
+    },
+    {
+      "id": "urb_023",
+      "icon": "urb_solar",
+      "arabic": {
+        "word": "التَّصْمِيمُ المِعْمَارِيُّ الشَّمْسِيّ",
+        "meaning": "تَوْجِيهُ المَبَانِي وَنَوَافِذِهَا هَنْدَسِيًّا لِاسْتِغْلَالِ حَرَارَةِ وَضَوْءِ الشَّمْسِ تِلْقَائِيًّا"
+      },
+      "german": {
+        "word": "die solare Bauweise",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die solaren Bauweisen",
+        "example": "Die solare Bauweise optimiert Fensterflächen nach Süden zur natürlichen passiven Wärmegewinnung."
+      },
+      "english": {
+        "word": "passive solar design",
+        "example": "Passive solar design optimizes south-facing window areas for natural heat gain."
+      }
+    },
+    {
+      "id": "urb_024",
+      "icon": "urb_schwammstadt",
+      "arabic": {
+        "word": "مَفْهُومُ مَدِينَةِ الإِسْفَنْج",
+        "meaning": "تَصْمِيمٌ حَضَرِيٌّ يَسْتَوْعِبُ مِيَاهَ الأَمْطَارِ الغَزِيرَةِ مِثْلَ الإِسْفَنْجِ لِمَنْعِ الفَيَضَانَاتِ وَتَغْذِيَةِ المِيَاهِ الجَوْفِيَّةِ"
+      },
+      "german": {
+        "word": "das Schwammstadt-Konzept",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Schwammstadt-Konzepte",
+        "example": "Das Schwammstadt-Konzept setzt auf versickerungsfähige Beläge und unterirdische Zisternen gegen Starkregen."
+      },
+      "english": {
+        "word": "sponge city concept",
+        "example": "The sponge city concept relies on permeable pavements and underground cisterns against heavy rain."
+      }
+    },
+    {
+      "id": "urb_025",
+      "icon": "urb_quartier",
+      "arabic": {
+        "word": "الحَيُّ السَّكَنِيُّ المُتَكَامِل (الكْوَارْتِير)",
+        "meaning": "مُجَمَّعٌ عُمْرَانِيٌّ يَجْمَعُ بَيْنَ السَّكَنِ وَالعَمَلِ وَالثَّقَافَةِ وَالتَّرْفِيهِ فِي مَسَافَاتٍ قَرِيبَةٍ"
+      },
+      "german": {
+        "word": "das urbane Quartier",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die urbanen Quartiere",
+        "example": "Moderne urbane Quartiere fördern den sozialen Zusammenhalt durch gemischte Nutzung und Gemeinschaftsflächen."
+      },
+      "english": {
+        "word": "mixed-use urban district / neighborhood",
+        "example": "Modern urban districts promote social cohesion through mixed use and communal spaces."
+      }
+    }
+  ]
+}
