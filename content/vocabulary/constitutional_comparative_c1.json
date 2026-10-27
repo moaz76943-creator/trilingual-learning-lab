@@ -1,0 +1,488 @@
+{
+  "category_id": "constitutional_comparative_c1",
+  "category_number": 64,
+  "level": "C1",
+  "title": {
+    "ar": "القانون الدستوري المقارن، الاندماج فوق الوطني والفيدرالية",
+    "de": "Verfassungsvergleichung, Supranationalität & Föderalismus",
+    "en": "Comparative Constitutional Law, Supranational Integration & Federalism"
+  },
+  "icon": "ccl_verfassungsvergleich",
+  "concepts": [
+    {
+      "id": "ccl_001",
+      "icon": "ccl_verfassungsvergleich",
+      "arabic": {
+        "word": "القَانُونُ الدُّسْتُورِيُّ المُقَارَن",
+        "meaning": "الدِّرَاسَةُ التَّحْلِيلِيَّةُ لِلتَّبَايُنَاتِ وَالتَّشَابُهَاتِ بَيْنَ النُّظُمِ وَالدَّسَاتِيرِ الوَطَنِيَّةِ المُخْتَلِفَةِ"
+      },
+      "german": {
+        "word": "das Verfassungsvergleichsrecht",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Verfassungsvergleichsrechte",
+        "example": "Das Verfassungsvergleichsrecht offenbart unterschiedliche Modelle richterlicher Normenkontrolle weltweit."
+      },
+      "english": {
+        "word": "comparative constitutional law",
+        "example": "Comparative constitutional law reveals diverse models of judicial norm review globally."
+      }
+    },
+    {
+      "id": "ccl_002",
+      "icon": "ccl_supranational",
+      "arabic": {
+        "word": "الصِّفَةُ فَوْقَ الوَطَنِيَّة",
+        "meaning": "شَكْلٌ مِنَ التَّنْظِيمِ المُمَارَسِ حَيْثُ تَتَنَازَلُ الدُّوَلُ عَنْ جُزْءٍ مِنْ سِيَادَتِهَا لِصَالِحِ هَيْئَاتٍ إِقْلِيمِيَّةٍ مُشْتَرَكَةٍ"
+      },
+      "german": {
+        "word": "die Supranationalität",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Supranationalitäten",
+        "example": "Die Europäische Union besitzt dank ihrer Supranationalität das Recht, unmittelbar wirksame Gesetze zu erlassen."
+      },
+      "english": {
+        "word": "supranationalism / supranationality",
+        "example": "Thanks to its supranationalism, the European Union possesses the authority to enact directly applicable laws."
+      }
+    },
+    {
+      "id": "ccl_003",
+      "icon": "ccl_foederalismus",
+      "arabic": {
+        "word": "الفِيدْرَالِيَّة (الاتِّحَادِيَّة)",
+        "meaning": "نِظَامُ حُكْمٍ يُوَزِّعُ السُّلْطَاتِ سِيَادِيًّا بَيْنَ حُكُومَةٍ مَرْكَزِيَّةٍ وَوِلَايَاتٍ أَوْ أَقَالِيمَ شِبْهِ مُسْتَقِلَّةٍ"
+      },
+      "german": {
+        "word": "der Föderalismus",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Föderalismen",
+        "example": "Der deutsche Föderalismus sichert den Bundesländern erhebliche Mitwirkungsrechte bei der Bundesgesetzgebung."
+      },
+      "english": {
+        "word": "federalism",
+        "example": "German federalism guarantees the federal states substantial participation rights in federal legislation."
+      }
+    },
+    {
+      "id": "ccl_004",
+      "icon": "ccl_subsidiaritaet",
+      "arabic": {
+        "word": "مَبْدَأُ التَّفْرِيع (السُّوبْسِيدْيَارِيَّات)",
+        "meaning": "قَاعِدَةٌ دُسْتُورِيَّةٌ تَقْضِي بِأَنَّ السُّلْطَةَ المَرْكَزِيَّةَ لَا تَتَدَخَّلُ إِلَّا إِذَا عَجَزَتِ الهَيْئَاتُ المَحَلِّيَّةُ عَنْ حَلِّ المَسْأَلَةِ"
+      },
+      "german": {
+        "word": "das Subsidiaritätsprinzip",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Subsidiaritätsprinzipien",
+        "example": "Das Subsidiaritätsprinzip schützt lokale Gemeinschaften vor übermäßigen Eingriffen der Zentralinstanzen."
+      },
+      "english": {
+        "word": "subsidiarity principle",
+        "example": "The subsidiarity principle protects local communities against excessive intrusion from central authorities."
+      }
+    },
+    {
+      "id": "ccl_005",
+      "icon": "ccl_gerichtsbarkeit",
+      "arabic": {
+        "word": "القَضَاءُ الدُّسْتُورِيّ",
+        "meaning": "اخْتِصَاصُ المَحَاكِمِ العُلْيَا فِي فَحْصِ مُطَابَقَةِ القَوَانِينِ وَالقَرَارَاتِ لِبُنُودِ الدُّسْتُورِ"
+      },
+      "german": {
+        "word": "die Verfassungsgerichtsbarkeit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Verfassungsgerichtsbarkeiten",
+        "example": "Eine unabhängige Verfassungsgerichtsbarkeit ist der wirksamste Schutzschild gegen parlamentarische Übergriffe."
+      },
+      "english": {
+        "word": "constitutional jurisdiction / judicial review",
+        "example": "Independent constitutional jurisdiction is the most effective shield against parliamentary overreach."
+      }
+    },
+    {
+      "id": "ccl_006",
+      "icon": "ccl_vorrang",
+      "arabic": {
+        "word": "أَسْبَقِيَّةُ قَانُونِ الِاتِّحَاد",
+        "meaning": "المَبْدَأُ الَّذِي يَقْضِي بِسُمُوِّ تَشْرِيعَاتِ الِاتِّحَادِ الأُورُوبِّيِّ عَلَى القَوَانِينِ المَحَلِّيَّةِ عِنْدَ التَّعَارُضِ"
+      },
+      "german": {
+        "word": "der Anwendungsvorrang des Unionsrechts",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Vorränge",
+        "example": "Der Anwendungsvorrang des Unionsrechts sichert die einheitliche Rechtsanwendung im gesamten europäischen Binnenmarkt."
+      },
+      "english": {
+        "word": "primacy of EU law",
+        "example": "The primacy of EU law ensures uniform legal application throughout the European internal market."
+      }
+    },
+    {
+      "id": "ccl_007",
+      "icon": "ccl_zweikammer",
+      "arabic": {
+        "word": "نِظَامُ المَجْلِسَيْنِ التَّشْرِيعِيَّيْنِ",
+        "meaning": "بِنْيَةٌ بَرْلَمَانِيَّةٌ تَتَكَوَّنُ مِنْ غُرْفَتَيْنِ (مَجْلِسُ النُّوَّابِ وَمَجْلِسُ الشُّيُوخِ أَوْ الأَقَالِيمِ)"
+      },
+      "german": {
+        "word": "das Zweikammersystem",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Zweikammersysteme",
+        "example": "Im deutschen Zweikammersystem wirken Bundestag und Bundesrat bei der Verabschiedung von Gesetzen zusammen."
+      },
+      "english": {
+        "word": "bicameral system / bicameralism",
+        "example": "In the German bicameral system, the Bundestag and Bundesrat cooperate in enacting legislation."
+      }
+    },
+    {
+      "id": "ccl_008",
+      "icon": "ccl_aenderung",
+      "arabic": {
+        "word": "التَّعْدِيلُ الدُّسْتُورِيّ",
+        "meaning": "الإِجْرَاءُ الشَّكْلِيُّ المَشْرُوطُ بِأَغْلَبِيَّةٍ مَوْصُوفَةٍ لِتَغْيِيرِ أَوْ إِضَافَةِ نُصُوصٍ فِي الدُّسْتُورِ"
+      },
+      "german": {
+        "word": "die Verfassungsänderung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Verfassungsänderungen",
+        "example": "Eine Verfassungsänderung bedarf in Deutschland der Zustimmung von zwei Dritteln der Mitglieder beider Kammern."
+      },
+      "english": {
+        "word": "constitutional amendment",
+        "example": "A constitutional amendment in Germany requires the consent of two-thirds of the members of both chambers."
+      }
+    },
+    {
+      "id": "ccl_009",
+      "icon": "ccl_ewigkeit",
+      "arabic": {
+        "word": "بَنْدُ التَّحْصِينِ الأَبَدِيّ",
+        "meaning": "نَصٌّ دُسْتُورِيٌّ يَحْظُرُ قَطْعِيًّا تَعْدِيلَ مَبَادِئَ جَوْهَرِيَّةٍ (مِثْلَ كَرَامَةِ الإِنْسَانِ أَوْ الفِيدْرَالِيَّةِ)"
+      },
+      "german": {
+        "word": "die Ewigkeitsklausel",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Ewigkeitsklauseln",
+        "example": "Artikel 79 Absatz 3 des Grundgesetzes enthält die berühmte Ewigkeitsklausel zum Schutz der Menschenwürde."
+      },
+      "english": {
+        "word": "eternity clause / entrenchment clause",
+        "example": "Article 79, Paragraph 3 of the Basic Law contains the famous eternity clause safeguarding human dignity."
+      }
+    },
+    {
+      "id": "ccl_010",
+      "icon": "ccl_kompetenz",
+      "arabic": {
+        "word": "تَوْزِيعُ الصَّلَاحِيَّاتِ التَّشْرِيعِيَّة",
+        "meaning": "التَّحْدِيدُ الدُّسْتُورِيُّ لِمَجَالَاتِ اخْتِصَاصِ الحُكُومَةِ المَرْكَزِيَّةِ مُقَابِلَ اخْتِصَاصَاتِ الأَقَالِيمِ"
+      },
+      "german": {
+        "word": "die Kompetenzverteilung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Kompetenzverteilungen",
+        "example": "Streitigkeiten über die föderale Kompetenzverteilung werden vom Bundesverfassungsgericht verbindlich entschieden."
+      },
+      "english": {
+        "word": "division of legislative powers",
+        "example": "Disputes regarding federal division of powers are decided bindingly by the Federal Constitutional Court."
+      }
+    },
+    {
+      "id": "ccl_011",
+      "icon": "ccl_defizit",
+      "arabic": {
+        "word": "العَجْزُ الدِّيمُوقْرَاطِيّ",
+        "meaning": "انْتِقَادٌ يُوَجَّهُ لِلْمُنَظَّمَاتِ الدَّوْلِيَّةِ عِنْدَمَا تَفْتَقِرُ مُؤَسَّسَاتُهَا لِلرَّقَابَةِ البَرْلَمَانِيَّةِ المَبَاشِرَةِ"
+      },
+      "german": {
+        "word": "das Demokratiedefizit",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Demokratiedefizite",
+        "example": "Die Stärkung der Rechte des Europäischen Parlaments zielt darauf ab, das angebliche Demokratiedefizit abzubauen."
+      },
+      "english": {
+        "word": "democratic deficit",
+        "example": "Strengthening the powers of the European Parliament aims to dismantle the alleged democratic deficit."
+      }
+    },
+    {
+      "id": "ccl_012",
+      "icon": "ccl_beschwerde",
+      "arabic": {
+        "word": "الطَّعْنُ الدُّسْتُورِيُّ الفَرْدِيّ",
+        "meaning": "دَعْوَى يَرْفَعُهَا المُواطِنُ مُبَاشَرَةً أَمَامَ المَحْكَمَةِ العُلْيَا لِحِمَايَةِ حُقُوقِهِ مِنِ اعْتِدَاءِ السُّلُطَاتِ"
+      },
+      "german": {
+        "word": "die Individualverfassungsbeschwerde",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Verfassungsbeschwerden",
+        "example": "Jedermann kann Verfassungsbeschwerde einlegen mit der Behauptung, in einem seiner Grundrechte verletzt zu sein."
+      },
+      "english": {
+        "word": "individual constitutional complaint",
+        "example": "Anyone may lodge a constitutional complaint claiming violation of one of their fundamental rights."
+      }
+    },
+    {
+      "id": "ccl_013",
+      "icon": "ccl_verbund",
+      "arabic": {
+        "word": "اتِّحَادُ الدُّوَل (الشَّرَاكَةُ السِّيَادِيَّة)",
+        "meaning": "تَجَمُّعٌ سِيَاسِيٌّ يَقَعُ بَيْنَ الِاتِّحَادِ الفِيدْرَالِيِّ الكَامِلِ وَالتَّحَالُفِ التَّقْلِيدِيِّ (مِثْلَ وَضْعِ الِاتِّحَادِ الأُورُوبِّيِّ)"
+      },
+      "german": {
+        "word": "der Staatenverbund",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Staatenverbünde",
+        "example": "Das Bundesverfassungsgericht charakterisierte die Europäische Union als eng kooperierenden Staatenverbund."
+      },
+      "english": {
+        "word": "confederation of states / composite polity",
+        "example": "The Federal Constitutional Court characterized the European Union as a closely cooperating composite polity."
+      }
+    },
+    {
+      "id": "ccl_014",
+      "icon": "ccl_gewaltenteilung",
+      "arabic": {
+        "word": "فَصْلُ السُّلُطَات",
+        "meaning": "المَبْدَأُ الدُّسْتُورِيُّ الَّذِي يُفَرِّقُ بَيْنَ السُّلْطَةِ التَّشْرِيعِيَّةِ وَالتَّنْفِيذِيَّةِ وَالقَضَائِيَّةِ مَنْعًا لِلِاسْتِبْدَادِ"
+      },
+      "german": {
+        "word": "die klassische Gewaltenteilung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Gewaltenteilungen",
+        "example": "Montesquieus Lehre von der Gewaltenteilung bildet das Rückgrat jeder modernen Verfassung."
+      },
+      "english": {
+        "word": "separation of powers / checks and balances",
+        "example": "Montesquieu's doctrine of the separation of powers forms the backbone of every modern constitution."
+      }
+    },
+    {
+      "id": "ccl_015",
+      "icon": "ccl_normenkontrolle",
+      "arabic": {
+        "word": "دَعْوَى الرَّقَابَةِ عَلَى دُسْتُورِيَّةِ القَوَانِين",
+        "meaning": "إِجْرَاءٌ قَضَائِيٌّ لِإِبْطَالِ أَيِّ قَانُونٍ يُخَالِفُ أَحْكَامَ الدُّسْتُورِ"
+      },
+      "german": {
+        "word": "die Normenkontrolle",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Normenkontrollen",
+        "example": "Im Wege der konkreten Normenkontrolle legt ein Fachgericht dem Verfassungsgericht ein Gesetz zur Prüfung vor."
+      },
+      "english": {
+        "word": "judicial review of statutes / norm control",
+        "example": "Through concrete judicial review, a court refers a statute to the constitutional court for constitutional assessment."
+      }
+    },
+    {
+      "id": "ccl_016",
+      "icon": "ccl_charta",
+      "arabic": {
+        "word": "مِيثَاقُ الحُقُوقِ الأَسَاسِيَّة",
+        "meaning": "وَثِيقَةٌ دُسْتُورِيَّةٌ مُلْزِمَةٌ تُقَرِّرُ الحُقُوقَ المَدَنِيَّةَ وَالسِّيَاسِيَّةَ وَالِاجْتِمَاعِيَّةَ لِلْمُواطِنِينَ"
+      },
+      "german": {
+        "word": "die Charta der Grundrechte",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Grundrechtecharten",
+        "example": "Die EU-Grundrechtecharta bindet alle Unionsorgane bei der Ausarbeitung neuer Rechtsvorschriften."
+      },
+      "english": {
+        "word": "Charter of Fundamental Rights",
+        "example": "The EU Charter of Fundamental Rights binds all union institutions when drafting new legislation."
+      }
+    },
+    {
+      "id": "ccl_017",
+      "icon": "ccl_verhaeltnis",
+      "arabic": {
+        "word": "مَبْدَأُ التَّنَاسُبِ القَانُونِيّ",
+        "meaning": "مِعْيَارٌ دُسْتُورِيٌّ يَحْظُرُ عَلَى الدَّوْلَةِ اتِّخَاذَ إِجْرَاءَاتٍ قَاسِيَةٍ تَتَجَاوَزُ المَقْصُودَ المَشْرُوعَ"
+      },
+      "german": {
+        "word": "der Verhältnismäßigkeitsgrundsatz",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Verhältnismäßigkeitsgrundsätze",
+        "example": "Jeder Grundrechtseingriff muss geeignet, erforderlich und angemessen im Sinne der Verhältnismäßigkeit sein."
+      },
+      "english": {
+        "word": "principle of proportionality",
+        "example": "Any interference with fundamental rights must be suitable, necessary, and appropriate under proportionality."
+      }
+    },
+    {
+      "id": "ccl_018",
+      "icon": "ccl_rechtsstaat",
+      "arabic": {
+        "word": "مَبْدَأُ سِيَادَةِ دَوْلَةِ القَانُون",
+        "meaning": "خُضُوعُ جَمِيعِ سُلُطَاتِ الدَّوْلَةِ وَمَسْؤُولِيهَا لِلْقَانُونِ دُونَ اسْتِثْنَاءٍ مَعَ ضَمَانِ اسْتِقْلَالِ القَضَاءِ"
+      },
+      "german": {
+        "word": "das Rechtsstaatsprinzip",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Rechtsstaatsprinzipien",
+        "example": "Das Rechtsstaatsprinzip verbietet Willkürakte und garantiert effektiven Rechtsschutz durch unabhängige Richter."
+      },
+      "english": {
+        "word": "rule of law principle",
+        "example": "The rule of law principle prohibits arbitrary acts and guarantees effective legal protection by independent judges."
+      }
+    },
+    {
+      "id": "ccl_019",
+      "icon": "ccl_vertikal",
+      "arabic": {
+        "word": "الفَصْلُ العَمُودِيُّ لِلسُّلُطَات",
+        "meaning": "تَوْزِيعُ الصَّلَاحِيَّاتِ رَأْسِيًّا بَيْنَ الِاتِّحَادِ المَرْكَزِيِّ وَالوِلَايَاتِ الفِيدْرَالِيَّةِ وَالبَلَدِيَّاتِ"
+      },
+      "german": {
+        "word": "die vertikale Gewaltenteilung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die vertikalen Gewaltenteilungen",
+        "example": "Die vertikale Gewaltenteilung verhindert Machtmonopole durch die Autonomie föderaler Gliedstaaten."
+      },
+      "english": {
+        "word": "vertical separation of powers",
+        "example": "Vertical separation of powers prevents power monopolies through the autonomy of constituent states."
+      }
+    },
+    {
+      "id": "ccl_020",
+      "icon": "ccl_einstimmigkeit",
+      "arabic": {
+        "word": "مَبْدَأُ الإِجْمَاع",
+        "meaning": "اشْتِرَاطُ مُوَافَقَةِ جَمِيعِ الدُّوَلِ الأَعْضَاءِ بِلا اسْتِثْنَاءٍ لِاعْتِمَادِ القَرَارَاتِ الحَسَّاسَةِ"
+      },
+      "german": {
+        "word": "das Einstimmigkeitserfordernis",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Einstimmigkeitserfordernisse",
+        "example": "In steuerpolitischen und außenpolitischen Fragen gilt im Europäischen Rat weiterhin das Einstimmigkeitserfordernis."
+      },
+      "english": {
+        "word": "unanimity requirement",
+        "example": "In fiscal and foreign policy matters, the unanimity requirement still applies in the European Council."
+      }
+    },
+    {
+      "id": "ccl_021",
+      "icon": "ccl_mehrheit",
+      "arabic": {
+        "word": "التَّصْوِيتُ بِالأَغْلَبِيَّةِ المَوْصُوفَة",
+        "meaning": "آلِيَّةُ اتِّخَاذِ قَرَارٍ تَتَطَلَّبُ نِسْبَةً مُحَدَّدَةً مِنَ الدُّوَلِ تُمَثِّلُ نِسْبَةً كَبِيرَةً مِنَ السُّكَّانِ"
+      },
+      "german": {
+        "word": "die qualifizierte Mehrheit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die qualifizierten Mehrheiten",
+        "example": "Beschlüsse nach qualifizierter Mehrheit erfordern 55 Prozent der Mitgliedstaaten, die 65 Prozent der Bevölkerung repräsentieren."
+      },
+      "english": {
+        "word": "qualified majority voting (QMV)",
+        "example": "Qualified majority decisions require 55 percent of member states representing 65 percent of the population."
+      }
+    },
+    {
+      "id": "ccl_022",
+      "icon": "ccl_persoenlichkeit",
+      "arabic": {
+        "word": "الشَّخْصِيَّةُ القَانُونِيَّةُ الدَّوْلِيَّة",
+        "meaning": "الأَهْلِيَّةُ الَّتِي تُمَكِّنُ الكِيَانَ الإِقْلِيمِيَّ مِنْ إِبْرَامِ المُعَاهَدَاتِ وَالتَّمْثِيلِ الدِّبْلُومَاسِيِّ بِاسْمِهِ"
+      },
+      "german": {
+        "word": "die Völkerrechtspersönlichkeit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Völkerrechtspersönlichkeiten",
+        "example": "Mit dem Vertrag von Lissabon erhielt die Europäische Union eine einheitliche Völkerrechtspersönlichkeit."
+      },
+      "english": {
+        "word": "international legal personality",
+        "example": "With the Treaty of Lisbon, the European Union attained a unified international legal personality."
+      }
+    },
+    {
+      "id": "ccl_023",
+      "icon": "ccl_pluralismus",
+      "arabic": {
+        "word": "التَّعَدُّدِيَّةُ الدُّسْتُورِيَّة",
+        "meaning": "تَعَايُشُ عِدَّةِ مَحَاكِمَ عُلْيَا وَدَسَاتِيرَ مُتَكَافِئَةٍ فِي نَفْسِ المَجَالِ القَانُونِيِّ دُونَ هَرَمِيَّةٍ قَسْرِيَّةٍ"
+      },
+      "german": {
+        "word": "der Verfassungspluralismus",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Verfassungspluralismen",
+        "example": "Der Verfassungspluralismus beschreibt den konstruktiven Dialog zwischen nationalen Höchstgerichten und dem EuGH."
+      },
+      "english": {
+        "word": "constitutional pluralism",
+        "example": "Constitutional pluralism describes the constructive dialogue between national apex courts and the CJEU."
+      }
+    },
+    {
+      "id": "ccl_024",
+      "icon": "ccl_autonomie",
+      "arabic": {
+        "word": "الاسْتِقْلَالِيَّةُ المُؤَسَّسِيَّة",
+        "meaning": "حَقُّ كُلِّ سُلْطَةٍ فِي تَنْظِيمِ شُؤُونِهَا الدَّاخِلِيَّةِ وَقَوَاعِدِ إِجْرَاءَاتِهَا دُونَ هَيْمَنَةٍ خَارِجِيَّةٍ"
+      },
+      "german": {
+        "word": "die institutionelle Autonomie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die institutionellen Autonomien",
+        "example": "Die institutionelle Autonomie der Justiz schützt Gerichte vor parteipolitischen Einflussnahmen."
+      },
+      "english": {
+        "word": "institutional autonomy",
+        "example": "Institutional autonomy of the judiciary protects courts from partisan political influence."
+      }
+    },
+    {
+      "id": "ccl_025",
+      "icon": "ccl_primaerrecht",
+      "arabic": {
+        "word": "التَّشْرِيعُ الأَسَاسِيُّ لِلِاتِّحَاد",
+        "meaning": "المُعَاهَدَاتُ التَّأْسِيسِيَّةُ الَّتِي تُمَثِّلُ بِمَثَابَةِ الدُّسْتُورِ لِلْمُنَظَّمَةِ فَوْقَ الوَطَنِيَّةِ"
+      },
+      "german": {
+        "word": "das Primärrecht",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Primärrechte",
+        "example": "Das Primärrecht der EU umfasst die Gründungsverträge und steht an der Spitze der Normenhierarchie."
+      },
+      "english": {
+        "word": "primary law of the union",
+        "example": "EU primary law encompasses the founding treaties and stands at the apex of the hierarchy of norms."
+      }
+    }
+  ]
+}

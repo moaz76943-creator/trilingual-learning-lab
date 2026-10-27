@@ -7360,6 +7360,131 @@
       "path": "content/assets/svg/sem_totem.svg",
       "type": "vector_svg",
       "category": "semiotics_anthropology_c1"
+    },
+    "ccl_verfassungsvergleich": {
+      "path": "content/assets/svg/ccl_verfassungsvergleich.svg",
+      "type": "vector_svg",
+      "category": "constitutional_comparative_c1"
+    },
+    "ccl_supranational": {
+      "path": "content/assets/svg/ccl_supranational.svg",
+      "type": "vector_svg",
+      "category": "constitutional_comparative_c1"
+    },
+    "ccl_foederalismus": {
+      "path": "content/assets/svg/ccl_foederalismus.svg",
+      "type": "vector_svg",
+      "category": "constitutional_comparative_c1"
+    },
+    "ccl_subsidiaritaet": {
+      "path": "content/assets/svg/ccl_subsidiaritaet.svg",
+      "type": "vector_svg",
+      "category": "constitutional_comparative_c1"
+    },
+    "ccl_gerichtsbarkeit": {
+      "path": "content/assets/svg/ccl_gerichtsbarkeit.svg",
+      "type": "vector_svg",
+      "category": "constitutional_comparative_c1"
+    },
+    "ccl_vorrang": {
+      "path": "content/assets/svg/ccl_vorrang.svg",
+      "type": "vector_svg",
+      "category": "constitutional_comparative_c1"
+    },
+    "ccl_zweikammer": {
+      "path": "content/assets/svg/ccl_zweikammer.svg",
+      "type": "vector_svg",
+      "category": "constitutional_comparative_c1"
+    },
+    "ccl_aenderung": {
+      "path": "content/assets/svg/ccl_aenderung.svg",
+      "type": "vector_svg",
+      "category": "constitutional_comparative_c1"
+    },
+    "ccl_ewigkeit": {
+      "path": "content/assets/svg/ccl_ewigkeit.svg",
+      "type": "vector_svg",
+      "category": "constitutional_comparative_c1"
+    },
+    "ccl_kompetenz": {
+      "path": "content/assets/svg/ccl_kompetenz.svg",
+      "type": "vector_svg",
+      "category": "constitutional_comparative_c1"
+    },
+    "ccl_defizit": {
+      "path": "content/assets/svg/ccl_defizit.svg",
+      "type": "vector_svg",
+      "category": "constitutional_comparative_c1"
+    },
+    "ccl_beschwerde": {
+      "path": "content/assets/svg/ccl_beschwerde.svg",
+      "type": "vector_svg",
+      "category": "constitutional_comparative_c1"
+    },
+    "ccl_verbund": {
+      "path": "content/assets/svg/ccl_verbund.svg",
+      "type": "vector_svg",
+      "category": "constitutional_comparative_c1"
+    },
+    "ccl_gewaltenteilung": {
+      "path": "content/assets/svg/ccl_gewaltenteilung.svg",
+      "type": "vector_svg",
+      "category": "constitutional_comparative_c1"
+    },
+    "ccl_normenkontrolle": {
+      "path": "content/assets/svg/ccl_normenkontrolle.svg",
+      "type": "vector_svg",
+      "category": "constitutional_comparative_c1"
+    },
+    "ccl_charta": {
+      "path": "content/assets/svg/ccl_charta.svg",
+      "type": "vector_svg",
+      "category": "constitutional_comparative_c1"
+    },
+    "ccl_verhaeltnis": {
+      "path": "content/assets/svg/ccl_verhaeltnis.svg",
+      "type": "vector_svg",
+      "category": "constitutional_comparative_c1"
+    },
+    "ccl_rechtsstaat": {
+      "path": "content/assets/svg/ccl_rechtsstaat.svg",
+      "type": "vector_svg",
+      "category": "constitutional_comparative_c1"
+    },
+    "ccl_vertikal": {
+      "path": "content/assets/svg/ccl_vertikal.svg",
+      "type": "vector_svg",
+      "category": "constitutional_comparative_c1"
+    },
+    "ccl_einstimmigkeit": {
+      "path": "content/assets/svg/ccl_einstimmigkeit.svg",
+      "type": "vector_svg",
+      "category": "constitutional_comparative_c1"
+    },
+    "ccl_mehrheit": {
+      "path": "content/assets/svg/ccl_mehrheit.svg",
+      "type": "vector_svg",
+      "category": "constitutional_comparative_c1"
+    },
+    "ccl_persoenlichkeit": {
+      "path": "content/assets/svg/ccl_persoenlichkeit.svg",
+      "type": "vector_svg",
+      "category": "constitutional_comparative_c1"
+    },
+    "ccl_pluralismus": {
+      "path": "content/assets/svg/ccl_pluralismus.svg",
+      "type": "vector_svg",
+      "category": "constitutional_comparative_c1"
+    },
+    "ccl_autonomie": {
+      "path": "content/assets/svg/ccl_autonomie.svg",
+      "type": "vector_svg",
+      "category": "constitutional_comparative_c1"
+    },
+    "ccl_primaerrecht": {
+      "path": "content/assets/svg/ccl_primaerrecht.svg",
+      "type": "vector_svg",
+      "category": "constitutional_comparative_c1"
     }
   }
 }
