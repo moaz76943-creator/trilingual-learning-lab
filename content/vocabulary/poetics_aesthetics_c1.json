@@ -1,0 +1,488 @@
+{
+  "category_id": "poetics_aesthetics_c1",
+  "category_number": 66,
+  "level": "C1",
+  "title": {
+    "ar": "النظرية الأدبية الهيرمينوطيقية، الشعرية المقارنة وعلم الجمال",
+    "de": "Literarische Hermeneutik, vergleichende Poetik & Ästhetik",
+    "en": "Literary Hermeneutics, Comparative Poetics & Aesthetics"
+  },
+  "icon": "poet_hermeneutik",
+  "concepts": [
+    {
+      "id": "poet_001",
+      "icon": "poet_hermeneutik",
+      "arabic": {
+        "word": "الهِرْمِينُوطِيقَا الأَدَبِيَّة",
+        "meaning": "نَظَرِيَّةُ وَفَنُّ تَأْوِيلِ وَتَفْسِيرِ النُّصُوصِ الأَدَبِيَّةِ وَاسْتِجْلَاءِ مَعَانِيهَا العَمِيقَةِ"
+      },
+      "german": {
+        "word": "die literarische Hermeneutik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die literarischen Hermeneutiken",
+        "example": "Hans-Georg Gadamers philosophische Hermeneutik begreift Verstehen als geschichtliche Horizontverschmelzung."
+      },
+      "english": {
+        "word": "literary hermeneutics",
+        "example": "Hans-Georg Gadamer's philosophical hermeneutics conceives understanding as a fusion of historical horizons."
+      }
+    },
+    {
+      "id": "poet_002",
+      "icon": "poet_poetik",
+      "arabic": {
+        "word": "عِلْمُ الشِّعْرِيَّة (البُوطِيقَا)",
+        "meaning": "الدِّرَاسَةُ النَّظَرِيَّةُ لِقَوَانِينِ وَأَشْكَالِ وَخَصَائِصِ الإِبْدَاعِ الأَدَبِيِّ وَالفَنِّيِّ"
+      },
+      "german": {
+        "word": "die Poetik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Poetiken",
+        "example": "Aristoteles' 'Poetik' formulierte die ersten systematischen Gattungskriterien für Tragödie und Epos."
+      },
+      "english": {
+        "word": "poetics",
+        "example": "Aristotle's 'Poetics' formulated the earliest systematic genre criteria for tragedy and epic."
+      }
+    },
+    {
+      "id": "poet_003",
+      "icon": "poet_aesthetik",
+      "arabic": {
+        "word": "عِلْمُ الجَمَال (الإِسْتِيتِيقَا)",
+        "meaning": "المَبْحَثُ الفَلْسَفِيُّ الَّذِي يَبْحَثُ فِي طَبِيعَةِ الجَمَالِ وَالفَنِّ وَالتَّذَوُّقِ الحِسِّيّ"
+      },
+      "german": {
+        "word": "die philosophische Ästhetik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die philosophischen Ästhetiken",
+        "example": "Kants 'Kritik der Urteilskraft' untersuchte die Grundlagen des ästhetischen Urteils über das Schöne."
+      },
+      "english": {
+        "word": "philosophical aesthetics",
+        "example": "Kant's 'Critique of Judgment' investigated the grounds of aesthetic judgment concerning the beautiful."
+      }
+    },
+    {
+      "id": "poet_004",
+      "icon": "poet_mimesis",
+      "arabic": {
+        "word": "المُحَاكَاةُ الفَنِّيَّة (المِيمِيسِيس)",
+        "meaning": "المَفْهُومُ الأَرِسْطِيُّ الَّذِي يَرَى أَنَّ الفَنَّ تَمْثِيلٌ وَإِعَادَةُ خَلْقٍ إِبْدَاعِيَّةٍ لِلْوَاقِعِ الإِنْسَانِيِّ"
+      },
+      "german": {
+        "word": "die Mimesis",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Mimesis-Konzepte",
+        "example": "Erich Auerbachs Werk 'Mimesis' zeichnet die abendländische Wirklichkeitsdarstellung in der Literatur nach."
+      },
+      "english": {
+        "word": "mimesis / artistic representation",
+        "example": "Erich Auerbach's 'Mimesis' traces the Western representation of reality in literature."
+      }
+    },
+    {
+      "id": "poet_005",
+      "icon": "poet_katharsis",
+      "arabic": {
+        "word": "التَّطْهِيرُ المَأْسَاوِيّ (الكَاثَارْسِيس)",
+        "meaning": "تَنْقِيَةُ وَتَحْرِيرُ النَّفْسِ مِنَ الانْفِعَالَاتِ كَالخَوْفِ وَالشَّفَقَةِ عَبْرَ مُشَاهَدَةِ المَأْسَاةِ"
+      },
+      "german": {
+        "word": "die Katharsis",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Katharsen",
+        "example": "Die dramatische Katharsis bewirkt eine seelische Läuterung des Zuschauers durch Furcht und Mitleid."
+      },
+      "english": {
+        "word": "catharsis",
+        "example": "Dramatic catharsis achieves a spiritual purification of the spectator through pity and fear."
+      }
+    },
+    {
+      "id": "poet_006",
+      "icon": "poet_intertextualitaet",
+      "arabic": {
+        "word": "التَّنَاصّ",
+        "meaning": "شَبَكَةُ العَلَاقَاتِ وَالإِحَالَاتِ المُتَبَادَلَةِ الَّتِي تَرْبِطُ نَصًّا أَدَبِيًّا بِنُصُوصٍ سَابِقَةٍ عَلَيْهِ"
+      },
+      "german": {
+        "word": "die Intertextualität",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Intertextualitäten",
+        "example": "Julia Kristeva definierte Intertextualität als Mosaik von Zitaten, in dem jeder Text frühere Texte aufnimmt."
+      },
+      "english": {
+        "word": "intertextuality",
+        "example": "Julia Kristeva defined intertextuality as a mosaic of citations, where every text absorbs earlier texts."
+      }
+    },
+    {
+      "id": "poet_007",
+      "icon": "poet_verfremdung",
+      "arabic": {
+        "word": "تَقْنِيَّةُ التَّغْرِيبِ المَسْرَحِيّ",
+        "meaning": "أُسْلُوبُ بْرِيخْت لِكَسْرِ الإِيهَامِ المَسْرَحِيِّ لِدَفْعِ الجُمْهُورِ نَحْوَ التَّفْكِيرِ النَّقْدِيِّ بَدَلَ التَّعَاطُفِ السَّلْبِيِّ"
+      },
+      "german": {
+        "word": "der Verfremdungseffekt",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Verfremdungseffekte",
+        "example": "Bertolt Brecht nutzte den Verfremdungseffekt, um das Publikum zur kritisch-politischen Reflexion anzuregen."
+      },
+      "english": {
+        "word": "alienation effect / defamiliarization (Brecht)",
+        "example": "Bertolt Brecht employed the alienation effect to stimulate critical political reflection in the audience."
+      }
+    },
+    {
+      "id": "poet_008",
+      "icon": "poet_rezeption",
+      "arabic": {
+        "word": "جَمَالِيَّاتُ التَّلَقِّي",
+        "meaning": "نَظَرِيَّةٌ نَقْدِيَّةٌ (مَدْرَسَةُ كُونْسْتَانْس) تَجْعَلُ القَارِئَ وَاسْتِجَابَتَهُ الشَّرِيكَ الفِعْلِيَّ فِي تَخْلِيقِ مَعْنَى النَّصِّ"
+      },
+      "german": {
+        "word": "die Rezeptionsästhetik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Rezeptionsästhetiken",
+        "example": "Wolfgang Isers Rezeptionsästhetik betont die Rolle von Leerstellen im Text, die der Leser im Akt des Lesens ausfüllt."
+      },
+      "english": {
+        "word": "reception theory / reader-response criticism",
+        "example": "Wolfgang Iser's reception theory emphasizes blanks in the text that the reader fills in during reading."
+      }
+    },
+    {
+      "id": "poet_009",
+      "icon": "poet_narratologie",
+      "arabic": {
+        "word": "عِلْمُ السَّرْد (السَّرْدِيَّات)",
+        "meaning": "الدِّرَاسَةُ البِنْيَوِيَّةُ لِتَقْنِيَّاتِ الحِكَايَةِ وَأَصْوَاتِ الرُّوَاةِ وَتَرْتِيبِ الزَّمَنِ فِي القِصَّةِ"
+      },
+      "german": {
+        "word": "die Narratologie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Narratologien",
+        "example": "Gérard Genettes strukturalistische Narratologie schuf präzise Kategorien für Fokalisierung und Erzählzeit."
+      },
+      "english": {
+        "word": "narratology",
+        "example": "Gérard Genette's structuralist narratology established precise categories for focalization and narrative time."
+      }
+    },
+    {
+      "id": "poet_010",
+      "icon": "poet_polyphonie",
+      "arabic": {
+        "word": "تَعَدُّدِيَّةُ الأَصْوَاتِ الرِّوَائِيَّة",
+        "meaning": "مَفْهُومُ بَاخْتِين الَّذِي يَرَى الرِّوَايَةَ فَضَاءً تَتَحَاوَرُ فِيهِ أَصْوَاتٌ وَوِجْهَاتُ نَظَرٍ مُسْتَقِلَّةٌ دُونَ صَوْتٍ مُهَيْمِنٍ"
+      },
+      "german": {
+        "word": "die narrative Polyphonie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Polyphonien",
+        "example": "Michail Bachtin entdeckte im Werk Dostojewskis eine bahnbrechende Polyphonie gleichberechtigter Stimmen."
+      },
+      "english": {
+        "word": "narrative polyphony (Bakhtin)",
+        "example": "Mikhail Bakhtin identified in Dostoevsky's work a groundbreaking polyphony of autonomous voices."
+      }
+    },
+    {
+      "id": "poet_011",
+      "icon": "poet_erhabene",
+      "arabic": {
+        "word": "الجَلِيل (السَّامِي الجَمَالِيّ)",
+        "meaning": "الإِحْسَاسُ الجَمَالِيُّ المَمْزُوجُ بِالهَيْبَةِ وَالرَّهْبَةِ أَمَامَ الظَّوَاهِرِ الَّتِي تَتَجَاوَزُ قُدْرَةَ الحَوَاسِّ عَلَى الِاسْتِيعَابِ"
+      },
+      "german": {
+        "word": "das Erhabene",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Kategorien des Erhabenen",
+        "example": "Das Erhabene überfordert nach Kant unsere sinnliche Wahrnehmung, bestätigt jedoch unsere Vernunftfähigkeit."
+      },
+      "english": {
+        "word": "the sublime",
+        "example": "According to Kant, the sublime overwhelms sensory perception while reaffirming rational faculties."
+      }
+    },
+    {
+      "id": "poet_012",
+      "icon": "poet_allegorie",
+      "arabic": {
+        "word": "المَجَازُ الرَّمْزِيُّ التَّمْثِيلِيّ (الأَلِّيغُورْيَا)",
+        "meaning": "تَجْسِيدٌ تَمْثِيلِيٌّ لِفِكْرَةٍ مُجَرَّدَةٍ (كَالعَدَالَةِ أَوْ الحُرِّيَّةِ) عَبْرَ شَخْصِيَّةٍ أَوْ مَشْهَدٍ مَرْئِيٍّ"
+      },
+      "german": {
+        "word": "die Allegorie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Allegorien",
+        "example": "Justitia mit Waage und Augenbinde ist eine universell verständliche bildliche Allegorie des Rechts."
+      },
+      "english": {
+        "word": "allegory",
+        "example": "Lady Justice with scales and blindfold is a universally understood pictorial allegory of the law."
+      }
+    },
+    {
+      "id": "poet_013",
+      "icon": "poet_erzaehler",
+      "arabic": {
+        "word": "الرَّاوِي غَيْرُ المَوْثُوق",
+        "meaning": "شَخْصِيَّةٌ سَارِدَةٌ تُقَدِّمُ حِكَايَةً مُشَوَّهَةً أَوْ غَيْرَ دَقِيقَةٍ نَتِيجَةَ جَهْلِهَا أَوْ انْحِيَازِهَا أَوْ اخْتِلَالِهَا"
+      },
+      "german": {
+        "word": "der unzuverlässige Erzähler",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die unzuverlässigen Erzähler",
+        "example": "Ein unzuverlässiger Erzähler zwingt das Lesepublikum zu ständiger Skepsis gegenüber dem Dargebotenen."
+      },
+      "english": {
+        "word": "unreliable narrator",
+        "example": "An unreliable narrator forces the reading audience into persistent skepticism toward the narrated account."
+      }
+    },
+    {
+      "id": "poet_014",
+      "icon": "poet_diegese",
+      "arabic": {
+        "word": "عَالَمُ السَّرْد (الدِّيجِيزِيس)",
+        "meaning": "الفَضَاءُ الخَيَالِيُّ الشَّامِلُ لِلزَّمَانِ وَالمَكَانِ وَالأَحْدَاثِ الَّتِي تَعِيشُ فِيهَا شَخْصِيَّاتُ الرِّوَايَةِ"
+      },
+      "german": {
+        "word": "die Diegese",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Diegesen",
+        "example": "Diegetische Musik erklingt innerhalb der fiktiven Welt und kann von den Filmcharakteren selbst gehört werden."
+      },
+      "english": {
+        "word": "diegesis",
+        "example": "Diegetic music plays inside the fictional world and can be heard by the characters themselves."
+      }
+    },
+    {
+      "id": "poet_015",
+      "icon": "poet_zirkel",
+      "arabic": {
+        "word": "الحَلْقَةُ التَّأْوِيلِيَّة (الهِرْمِينُوطِيقِيَّة)",
+        "meaning": "المَبْدَأُ القَائِلُ بِأَنَّ فَهْمَ النَّصِّ كَكُلٍّ يَتَطَلَّبُ فَهْمَ أَجْزَائِهِ، وَفَهْمَ الأَجْزَاءِ يَتَوَقَّفُ عَلَى فَهْمِ الكُلِّ"
+      },
+      "german": {
+        "word": "der hermeneutische Zirkel",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die hermeneutischen Zirkel",
+        "example": "Der hermeneutische Zirkel beschreibt die dynamische Wechselwirkung zwischen Detailverständnis und Gesamtkontext."
+      },
+      "english": {
+        "word": "hermeneutic circle",
+        "example": "The hermeneutic circle describes the dynamic reciprocity between understanding parts and the whole context."
+      }
+    },
+    {
+      "id": "poet_016",
+      "icon": "poet_aura",
+      "arabic": {
+        "word": "هَالَةُ العَمَلِ الفَنِّيّ (الأُورَا)",
+        "meaning": "مَفْهُومُ وَالْتَر بِنْيَامِين حَوْلَ فَرادَةِ وَأَصَالَةِ العَمَلِ الفَنِّيِّ الَّتِي تَتَلَاشَى عِنْدَ إِعَادَةِ إِنْتَاجِهِ تِقْنِيًّا"
+      },
+      "german": {
+        "word": "die Aura des Kunstwerks",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Kunstwerkauren",
+        "example": "Walter Benjamin konstatierte den Verlust der Aura des Kunstwerks im Zeitalter seiner technischen Reproduzierbarkeit."
+      },
+      "english": {
+        "word": "aura of the artwork (Benjamin)",
+        "example": "Walter Benjamin diagnosed the decay of the artwork's aura in the age of its mechanical reproducibility."
+      }
+    },
+    {
+      "id": "poet_017",
+      "icon": "poet_kulturindustrie",
+      "arabic": {
+        "word": "صِنَاعَةُ الثَّقَافَةِ الجَمَاهِيرِيَّة",
+        "meaning": "مَفْهُومُ مَدْرَسَةِ فْرَانْكْفُورْت لِتَسْلِيعِ الفَنِّ وَتَحْوِيلِ الثَّقَافَةِ إِلَى بَضَائِعَ اسْتِهْلَاكِيَّةٍ تُغَيِّبُ الوَعْيَ"
+      },
+      "german": {
+        "word": "die Kulturindustrie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Kulturindustrien",
+        "example": "Horkheimer und Adorno kritisierten, dass die Kulturindustrie standardisierte Güter zur Manipulation der Massen produziere."
+      },
+      "english": {
+        "word": "culture industry (Adorno & Horkheimer)",
+        "example": "Horkheimer and Adorno criticized the culture industry for manufacturing standardized goods to manipulate the masses."
+      }
+    },
+    {
+      "id": "poet_018",
+      "icon": "poet_dekorum",
+      "arabic": {
+        "word": "المُلَاءَمَةُ الأُسْلُوبِيَّة (الدِّيكُورُوم)",
+        "meaning": "القَاعِدَةُ البَلَاغِيَّةُ الَّتِي تُوجِبُ تَنَاسُبَ اللَّفْظِ وَالأُسْلُوبِ مَعَ مَقَامِ الكَلَامِ وَالشَّخْصِيَّاتِ"
+      },
+      "german": {
+        "word": "das poetische Dekorum",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Dekora",
+        "example": "Das klassizistische Dekorum verlangte eine würdevolle und erhabene Sprache für königliche Tragödienfiguren."
+      },
+      "english": {
+        "word": "poetic decorum / aptness",
+        "example": "Classicist decorum required dignified and elevated diction for royal tragic protagonists."
+      }
+    },
+    {
+      "id": "poet_019",
+      "icon": "poet_intermedialitaet",
+      "arabic": {
+        "word": "التَّدَاخُلُ بَيْنَ الوَسَائِط",
+        "meaning": "تَشَابُكُ وَتَفَاعُلُ الأَشْكَالِ التَّعْبِيرِيَّةِ بَيْنَ الأَدَبِ وَالسِّينَمَا وَالمُوسِيقَى وَالفُنُونِ البَصَرِيَّةِ"
+      },
+      "german": {
+        "word": "die Intermedialität",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Intermedialitäten",
+        "example": "Graphic Novels sind herausragende Beispiele für fruchtbare Intermedialität zwischen Literatur und bildender Kunst."
+      },
+      "english": {
+        "word": "intermediality",
+        "example": "Graphic novels represent prominent examples of fertile intermediality between literature and visual art."
+      }
+    },
+    {
+      "id": "poet_020",
+      "icon": "poet_bewusstseinsstrom",
+      "arabic": {
+        "word": "تَيَّارُ الوَعْي",
+        "meaning": "تِقْنِيَّةٌ سَرْدِيَّةٌ حَدِيثَةٌ تُحَاكِي سَيْلَ الخَوَاطِرِ وَالأَفْكَارِ وَالمَشَاعِرِ دَاخِلَ عَقْلِ الشَّخْصِيَّةِ"
+      },
+      "german": {
+        "word": "der Bewusstseinsstrom (Stream of Consciousness)",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Bewusstseinsströme",
+        "example": "James Joyce revolutionierte den modernen Roman durch die ungefilterte Wiedergabe des Bewusstseinsstroms."
+      },
+      "english": {
+        "word": "stream of consciousness",
+        "example": "James Joyce revolutionized the modern novel through the unfiltered portrayal of the stream of consciousness."
+      }
+    },
+    {
+      "id": "poet_021",
+      "icon": "poet_metalyrik",
+      "arabic": {
+        "word": "الشِّعْرُ الوَاصِفُ لِذَاتِهِ (المِيتَالِيرِيك)",
+        "meaning": "قَصَائِدُ شِعْرِيَّةٌ يَكُونُ مَوْضُوعُهَا الأَسَاسِيُّ هُوَ فِعْلَ كِتَابَةِ الشِّعْرِ وَحُدُودَ اللُّغَةِ ذَاتِهَا"
+      },
+      "german": {
+        "word": "die Metalyrik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Metalyriken",
+        "example": "Moderne Gedichte reflektieren in metalyrischen Passagen oft die Fragilität der eigenen Sprachmittel."
+      },
+      "english": {
+        "word": "metapoetry / self-reflexive poetry",
+        "example": "Modern poems frequently reflect in metapoetic passages upon the fragility of their own linguistic means."
+      }
+    },
+    {
+      "id": "poet_022",
+      "icon": "poet_entautomatisierung",
+      "arabic": {
+        "word": "كَسْرُ الآلِيَّةِ التَّعْبِيرِيَّة (التَّغْرِيبُ الشَّكْلَانِيّ)",
+        "meaning": "مَفْهُومُ شْكْلُوفْسْكِي حَوْلَ دَوْرِ الفَنِّ فِي إِعَادَةِ إِحْيَاءِ إِدْرَاكِنَا لِلأَشْيَاءِ بِجَعْلِهَا غَيْرَ مَأْلُوفَةٍ"
+      },
+      "german": {
+        "word": "die Entautomatisierung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Entautomatisierungen",
+        "example": "Viktor Schklowski postulierte, dass Kunst die Wahrnehmung durch bewusste Entautomatisierung verlangsamt."
+      },
+      "english": {
+        "word": "defamiliarization (Shklovsky)",
+        "example": "Viktor Shklovsky postulated that art de-automatizes perception by rendering familiar objects strange."
+      }
+    },
+    {
+      "id": "poet_023",
+      "icon": "poet_werkimmanenz",
+      "arabic": {
+        "word": "التَّحْلِيلُ النَّصِّيُّ الدَّاخِلِيّ",
+        "meaning": "مَنْهَجٌ نَقْدِيٌّ يُفَسِّرُ العَمَلَ الأَدَبِيَّ اسْتِنَادًا إِلَى نَصِّهِ الذَّاتِيِّ فَقَطْ دُونَ سِيرَةِ المُؤَلِّفِ أَوْ تَارِيخِهِ"
+      },
+      "german": {
+        "word": "die werkimmanente Interpretation",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die werkimmanenten Interpretationen",
+        "example": "Die werkimmanente Interpretation konzentriert sich streng auf sprachliche Form und Struktur des Einzelwerks."
+      },
+      "english": {
+        "word": "intrinsic textual interpretation / New Criticism",
+        "example": "Intrinsic textual interpretation concentrates strictly on the linguistic form and structure of the work itself."
+      }
+    },
+    {
+      "id": "poet_024",
+      "icon": "poet_motiv",
+      "arabic": {
+        "word": "المُوتِيف (التِّيمَةُ المُتَكَرِّرَة)",
+        "meaning": "وَحْدَةٌ دَلَالِيَّةٌ مُتَكَرِّرَةٌ ذَاتُ مَغْزًى مَعْنَوِيٍّ تُعْطِي النَّصَّ وِحْدَتَهُ المَوْضُوعِيَّةَ"
+      },
+      "german": {
+        "word": "das Leitmotiv",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Leitmotive",
+        "example": "Thomas Mann setzte das Leitmotiv meisterhaft ein, um thematische Verflechtungen in Romanen zu knüpfen."
+      },
+      "english": {
+        "word": "leitmotif / recurring motif",
+        "example": "Thomas Mann masterfully employed the leitmotif to weave thematic interconnections throughout his novels."
+      }
+    },
+    {
+      "id": "poet_025",
+      "icon": "poet_distanz",
+      "arabic": {
+        "word": "المَسَافَةُ الجَمَالِيَّةُ التَّأَمُّلِيَّة",
+        "meaning": "الفَاصِلُ النَّفْسِيُّ وَالفِكْرِيُّ الَّذِي يُمَكِّنُ المُتَلَقِّيَ مِنْ تَقْيِيمِ الفَنِّ تَأَمُّلِيًّا دُونَ انْغِمَاسٍ عَاطِفِيٍّ سَاذَجٍ"
+      },
+      "german": {
+        "word": "die ästhetische Distanz",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die ästhetischen Distanzen",
+        "example": "Ästhetische Distanz bewahrt den Betrachter davor, fiktionale Geschehnisse mit realen Bedrohungen zu verwechseln."
+      },
+      "english": {
+        "word": "aesthetic distance",
+        "example": "Aesthetic distance prevents the observer from confusing fictional occurrences with real-world threats."
+      }
+    }
+  ]
+}

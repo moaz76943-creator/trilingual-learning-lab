@@ -7610,6 +7610,131 @@
       "path": "content/assets/svg/post_repraesentation.svg",
       "type": "vector_svg",
       "category": "postcolonial_sociology_c1"
+    },
+    "poet_hermeneutik": {
+      "path": "content/assets/svg/poet_hermeneutik.svg",
+      "type": "vector_svg",
+      "category": "poetics_aesthetics_c1"
+    },
+    "poet_poetik": {
+      "path": "content/assets/svg/poet_poetik.svg",
+      "type": "vector_svg",
+      "category": "poetics_aesthetics_c1"
+    },
+    "poet_aesthetik": {
+      "path": "content/assets/svg/poet_aesthetik.svg",
+      "type": "vector_svg",
+      "category": "poetics_aesthetics_c1"
+    },
+    "poet_mimesis": {
+      "path": "content/assets/svg/poet_mimesis.svg",
+      "type": "vector_svg",
+      "category": "poetics_aesthetics_c1"
+    },
+    "poet_katharsis": {
+      "path": "content/assets/svg/poet_katharsis.svg",
+      "type": "vector_svg",
+      "category": "poetics_aesthetics_c1"
+    },
+    "poet_intertextualitaet": {
+      "path": "content/assets/svg/poet_intertextualitaet.svg",
+      "type": "vector_svg",
+      "category": "poetics_aesthetics_c1"
+    },
+    "poet_verfremdung": {
+      "path": "content/assets/svg/poet_verfremdung.svg",
+      "type": "vector_svg",
+      "category": "poetics_aesthetics_c1"
+    },
+    "poet_rezeption": {
+      "path": "content/assets/svg/poet_rezeption.svg",
+      "type": "vector_svg",
+      "category": "poetics_aesthetics_c1"
+    },
+    "poet_narratologie": {
+      "path": "content/assets/svg/poet_narratologie.svg",
+      "type": "vector_svg",
+      "category": "poetics_aesthetics_c1"
+    },
+    "poet_polyphonie": {
+      "path": "content/assets/svg/poet_polyphonie.svg",
+      "type": "vector_svg",
+      "category": "poetics_aesthetics_c1"
+    },
+    "poet_erhabene": {
+      "path": "content/assets/svg/poet_erhabene.svg",
+      "type": "vector_svg",
+      "category": "poetics_aesthetics_c1"
+    },
+    "poet_allegorie": {
+      "path": "content/assets/svg/poet_allegorie.svg",
+      "type": "vector_svg",
+      "category": "poetics_aesthetics_c1"
+    },
+    "poet_erzaehler": {
+      "path": "content/assets/svg/poet_erzaehler.svg",
+      "type": "vector_svg",
+      "category": "poetics_aesthetics_c1"
+    },
+    "poet_diegese": {
+      "path": "content/assets/svg/poet_diegese.svg",
+      "type": "vector_svg",
+      "category": "poetics_aesthetics_c1"
+    },
+    "poet_zirkel": {
+      "path": "content/assets/svg/poet_zirkel.svg",
+      "type": "vector_svg",
+      "category": "poetics_aesthetics_c1"
+    },
+    "poet_aura": {
+      "path": "content/assets/svg/poet_aura.svg",
+      "type": "vector_svg",
+      "category": "poetics_aesthetics_c1"
+    },
+    "poet_kulturindustrie": {
+      "path": "content/assets/svg/poet_kulturindustrie.svg",
+      "type": "vector_svg",
+      "category": "poetics_aesthetics_c1"
+    },
+    "poet_dekorum": {
+      "path": "content/assets/svg/poet_dekorum.svg",
+      "type": "vector_svg",
+      "category": "poetics_aesthetics_c1"
+    },
+    "poet_intermedialitaet": {
+      "path": "content/assets/svg/poet_intermedialitaet.svg",
+      "type": "vector_svg",
+      "category": "poetics_aesthetics_c1"
+    },
+    "poet_bewusstseinsstrom": {
+      "path": "content/assets/svg/poet_bewusstseinsstrom.svg",
+      "type": "vector_svg",
+      "category": "poetics_aesthetics_c1"
+    },
+    "poet_metalyrik": {
+      "path": "content/assets/svg/poet_metalyrik.svg",
+      "type": "vector_svg",
+      "category": "poetics_aesthetics_c1"
+    },
+    "poet_entautomatisierung": {
+      "path": "content/assets/svg/poet_entautomatisierung.svg",
+      "type": "vector_svg",
+      "category": "poetics_aesthetics_c1"
+    },
+    "poet_werkimmanenz": {
+      "path": "content/assets/svg/poet_werkimmanenz.svg",
+      "type": "vector_svg",
+      "category": "poetics_aesthetics_c1"
+    },
+    "poet_motiv": {
+      "path": "content/assets/svg/poet_motiv.svg",
+      "type": "vector_svg",
+      "category": "poetics_aesthetics_c1"
+    },
+    "poet_distanz": {
+      "path": "content/assets/svg/poet_distanz.svg",
+      "type": "vector_svg",
+      "category": "poetics_aesthetics_c1"
     }
   }
 }
