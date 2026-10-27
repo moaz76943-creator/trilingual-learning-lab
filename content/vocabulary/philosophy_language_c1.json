@@ -1,0 +1,488 @@
+{
+  "category_id": "philosophy_language_c1",
+  "category_number": 62,
+  "level": "C1",
+  "title": {
+    "ar": "فلسفة اللغة، الإبستيمولوجيا المقارنة وما وراء الأخلاق",
+    "de": "Sprachphilosophie, vergleichende Epistemologie & Metaethik",
+    "en": "Philosophy of Language, Comparative Epistemology & Meta-Ethics"
+  },
+  "icon": "phil_sprachphilosophie",
+  "concepts": [
+    {
+      "id": "phil_001",
+      "icon": "phil_sprachphilosophie",
+      "arabic": {
+        "word": "فَلْسَفَةُ اللُّغَة",
+        "meaning": "الفَرْعُ الفَلْسَفِيُّ الَّذِي يَبْحَثُ فِي طَبِيعَةِ اللُّغَةِ وَعَلَاقَتِهَا بِالفِكْرِ وَالوَاقِعِ وَالمَعْنَى"
+      },
+      "german": {
+        "word": "die Sprachphilosophie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Sprachphilosophien",
+        "example": "Die moderne Sprachphilosophie untersucht, wie Worte Bedeutung erlangen und Realität konstituieren."
+      },
+      "english": {
+        "word": "philosophy of language",
+        "example": "Modern philosophy of language investigates how words acquire meaning and constitute reality."
+      }
+    },
+    {
+      "id": "phil_002",
+      "icon": "phil_sprechakt",
+      "arabic": {
+        "word": "فِعْلُ الكَلَام (الفِعْلُ اللُّغَوِيّ)",
+        "meaning": "نَظَرِيَّةٌ تَرَى أَنَّ النُّطْقَ بِعِبَارَةٍ مَا هُوَ فِي حَدِّ ذَاتِهِ أَدَاءٌ لِفِعْلٍ (مِثْلَ الوَعْدِ أَوْ الحُكْمِ)"
+      },
+      "german": {
+        "word": "der Sprechakt",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Sprechakte",
+        "example": "John Austins Sprechakttheorie unterscheidet zwischen lokutionären, illokutionären und perlokutionären Akten."
+      },
+      "english": {
+        "word": "speech act",
+        "example": "John Austin's speech act theory distinguishes between locutionary, illocutionary, and perlocutionary acts."
+      }
+    },
+    {
+      "id": "phil_003",
+      "icon": "phil_sprachspiel",
+      "arabic": {
+        "word": "اللُّعْبَةُ اللُّغَوِيَّة",
+        "meaning": "مَفْهُومُ فِتْغِنْشْتَايْن الَّذِي يَرَى أَنَّ مَعْنَى الكَلِمَةِ يَتَحَدَّدُ بِاسْتِعْمَالِهَا ضِمْنَ سِيَاقِ نَشَاطٍ حَيَاتِيٍّ"
+      },
+      "german": {
+        "word": "das Sprachspiel",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Sprachspiele",
+        "example": "Ludwig Wittgenstein betonte, dass Wörter erst innerhalb eines spezifischen Sprachspiels ihre Bedeutung gewinnen."
+      },
+      "english": {
+        "word": "language game (Wittgenstein)",
+        "example": "Ludwig Wittgenstein emphasized that words gain their meaning only within a specific language game."
+      }
+    },
+    {
+      "id": "phil_004",
+      "icon": "phil_semantik",
+      "arabic": {
+        "word": "عِلْمُ الدَّلَالَة (السِّيمَانْتِيقَا)",
+        "meaning": "الدِّرَاسَةُ النَّظَرِيَّةُ لِلْمَعْنَى اللُّغَوِيِّ فِي الكَلِمَاتِ وَالعِبَارَاتِ وَالجُمَلِ"
+      },
+      "german": {
+        "word": "die Semantik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Semantiken",
+        "example": "Die formale Semantik analysiert Wahrheitsbedingungen von Sätzen mithilfe mathematischer Logik."
+      },
+      "english": {
+        "word": "semantics",
+        "example": "Formal semantics analyzes truth conditions of sentences using mathematical logic."
+      }
+    },
+    {
+      "id": "phil_005",
+      "icon": "phil_pragmatik",
+      "arabic": {
+        "word": "التَّدَاوُلِيَّة (البَرَاغْمَاتِيقَا اللُّغَوِيَّة)",
+        "meaning": "دِرَاسَةُ كَيْفِيَّةِ إِسْهَامِ السِّيَاقِ وَمَقَاصِدِ المُتَكَلِّمِ فِي تَحْدِيدِ المَعْنَى المَقْصُودِ"
+      },
+      "german": {
+        "word": "die linguistische Pragmatik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Pragmatiken",
+        "example": "Die Pragmatik erforscht implizite Bedeutungen, die über den wörtlichen Gehalt einer Aussage hinausgehen."
+      },
+      "english": {
+        "word": "pragmatics",
+        "example": "Pragmatics explores implicit meanings that go beyond the literal content of an utterance."
+      }
+    },
+    {
+      "id": "phil_006",
+      "icon": "phil_metaethik",
+      "arabic": {
+        "word": "مَا وَرَاءَ الأَخْلَاق (المِيتَا-إِيثِيقَا)",
+        "meaning": "المَبْحَثُ الفَلْسَفِيُّ الَّذِي يَدْرُسُ طَبِيعَةَ وَدَلَالَاتِ وَمَصَادِرَ الأَحْكَامِ وَالمَفَاهِيمِ الأَخْلَاقِيَّةِ"
+      },
+      "german": {
+        "word": "die Metaethik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Metaethiken",
+        "example": "Die Metaethik fragt nicht, was gut ist, sondern was es überhaupt bedeutet, etwas als 'gut' zu bezeichnen."
+      },
+      "english": {
+        "word": "meta-ethics",
+        "example": "Meta-ethics does not ask what is good, but rather what it means to designate something as 'good'."
+      }
+    },
+    {
+      "id": "phil_007",
+      "icon": "phil_realismus",
+      "arabic": {
+        "word": "الوَاقِعِيَّةُ الأَخْلَاقِيَّة",
+        "meaning": "المَوْقِفُ الفَلْسَفِيُّ الَّذِي يَرَى أَنَّ الحَقَائِقَ الأَخْلَاقِيَّةَ مَوْجُودَةٌ بِشَكْلٍ مَوْضُوعِيٍّ مُسْتَقِلِّ عَنِ البَشَرِ"
+      },
+      "german": {
+        "word": "der moralische Realismus",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die moralischen Realismen",
+        "example": "Der moralische Realismus postuliert, dass moralische Tatsachen unabhängig von menschlichen Meinungen wahr sind."
+      },
+      "english": {
+        "word": "moral realism",
+        "example": "Moral realism postulates that moral facts are true independently of human opinions."
+      }
+    },
+    {
+      "id": "phil_008",
+      "icon": "phil_nonkognitivismus",
+      "arabic": {
+        "word": "اللَّامَعْرِفِيَّةُ الأَخْلَاقِيَّة",
+        "meaning": "نَظَرِيَّةٌ تَرَى أَنَّ الأَحْكَامَ الأَخْلَاقِيَّةَ لَيْسَتْ قَضَايَا خَبَرِيَّةً قَابِلَةً لِلصِّدْقِ أَوْ الكَذِبِ بَلْ تَعْبِيرٌ عَنِ العَوَاطِفِ"
+      },
+      "german": {
+        "word": "der ethische Non-Kognitivismus",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Non-Kognitivismen",
+        "example": "Nach dem Non-Kognitivismus drücken ethische Sätze bloß emotionale Einstellungen oder Handlungsappelle aus."
+      },
+      "english": {
+        "word": "non-cognitivism",
+        "example": "According to non-cognitivism, ethical statements merely express emotional attitudes or prescriptive appeals."
+      }
+    },
+    {
+      "id": "phil_009",
+      "icon": "phil_referenz",
+      "arabic": {
+        "word": "نَظَرِيَّةُ الإِحَالَةِ الدَّلَالِيَّة",
+        "meaning": "البَحْثُ الفَلْسَفِيُّ فِي كَيْفِيَّةِ ارْتِبَاطِ الأَسْمَاءِ وَالأَلْفَاظِ بِالأَشْيَاءِ المَوْجُودَةِ فِي العَالَمِ الخَارِجِيِّ"
+      },
+      "german": {
+        "word": "die Referenztheorie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Referenztheorien",
+        "example": "Gottlob Freges Unterscheidung zwischen Sinn und Bedeutung prägt die moderne Referenztheorie."
+      },
+      "english": {
+        "word": "theory of reference",
+        "example": "Gottlob Frege's distinction between sense and reference shapes modern theory of reference."
+      }
+    },
+    {
+      "id": "phil_010",
+      "icon": "phil_wahrheit",
+      "arabic": {
+        "word": "نَظَرِيَّةُ الحَقِيقَة",
+        "meaning": "المَذَاهِبُ الفَلْسَفِيَّةُ الَّتِي تُعَرِّفُ مَعْنَى أَنْ تَكُونَ القَضِيَّةُ صَادِقَةً وَمُطَابِقَةً"
+      },
+      "german": {
+        "word": "die Wahrheitstheorie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Wahrheitstheorien",
+        "example": "Die epistemische Wahrheitstheorie verknüpft Wahrheit untrennbar mit rationaler Rechtfertigung."
+      },
+      "english": {
+        "word": "theory of truth",
+        "example": "Epistemic theories of truth inseparably link truth with rational justification."
+      }
+    },
+    {
+      "id": "phil_011",
+      "icon": "phil_positivismus",
+      "arabic": {
+        "word": "الوَضْعِيَّةُ المَنْطِقِيَّة",
+        "meaning": "تَيَّارٌ فَلْسَفِيٌّ (حَلْقَةُ فِينَّا) يَرْفُضُ المِيتَافِيزِيقَا وَيَعْتَبِرُ أَنَّ القَضَايَا تَكُونُ ذَاتَ مَعْنًى فَقَطْ إِذَا كَانَتْ قَابِلَةً لِلتَّحَقُّقِ التَّجْرِيبِيِّ"
+      },
+      "german": {
+        "word": "der logische Positivismus",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die logischen Positivismen",
+        "example": "Der logische Positivismus des Wiener Kreises erklärte metaphysische Aussagen für sinnlos."
+      },
+      "english": {
+        "word": "logical positivism",
+        "example": "The logical positivism of the Vienna Circle declared metaphysical propositions meaningless."
+      }
+    },
+    {
+      "id": "phil_012",
+      "icon": "phil_verifikation",
+      "arabic": {
+        "word": "مَبْدَأُ التَّحَقُّقِ المَنْطِقِيّ",
+        "meaning": "مِعْيَارٌ يَنُصُّ عَلَى أَنَّ مَعْنَى أَيِّ قَضِيَّةٍ هُوَ طَرِيقَةُ التَّحَقُّقِ مِنْ صِدْقِهَا تِجْرِيبِيًّا"
+      },
+      "german": {
+        "word": "das Verifikationsprinzip",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Verifikationsprinzipien",
+        "example": "Das strikte Verifikationsprinzip stieß auf methodische Grenzen bei universellen Naturgesetzen."
+      },
+      "english": {
+        "word": "verification principle",
+        "example": "The strict verification principle encountered methodological limits regarding universal laws of nature."
+      }
+    },
+    {
+      "id": "phil_013",
+      "icon": "phil_dekonstruktivismus",
+      "arabic": {
+        "word": "المَذْهَبُ التَّفْكِيكِيّ",
+        "meaning": "نَهْجٌ فَلْسَفِيٌّ نَقْدِيٌّ يُبَرْهِنُ عَلَى عَدَمِ اسْتِقْرَارِ المَعْنَى وَتَنَاقُضَاتِ النُّصُوصِ الفِكْرِيَّةِ"
+      },
+      "german": {
+        "word": "der Dekonstruktivismus",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Dekonstruktivismen",
+        "example": "Jacques Derridas Dekonstruktivismus hinterfragt vermeintlich feste binäre Begriffshierarchien."
+      },
+      "english": {
+        "word": "deconstructivism / deconstruction",
+        "example": "Jacques Derrida's deconstruction challenges supposedly fixed binary conceptual hierarchies."
+      }
+    },
+    {
+      "id": "phil_014",
+      "icon": "phil_intentionalitaet",
+      "arabic": {
+        "word": "القَصْدِيَّة (المَقْصِدِيَّة)",
+        "meaning": "خَاصِّيَّةُ العَقْلِ وَالحَالَاتِ الذِّهْنِيَّةِ فِي أَنْ تَكُونَ مُتَعَلِّقَةً أَوْ مُوَجَّهَةً نَحْوَ شَيْءٍ خَارِجَهَا"
+      },
+      "german": {
+        "word": "die Intentionalität",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Intentionalitäten",
+        "example": "Franz Brentano definierte Intentionalität als das distinktive Merkmal aller psychischen Phänomene."
+      },
+      "english": {
+        "word": "intentionality",
+        "example": "Franz Brentano defined intentionality as the distinctive characteristic of all mental phenomena."
+      }
+    },
+    {
+      "id": "phil_015",
+      "icon": "phil_intersubjektivitaet",
+      "arabic": {
+        "word": "البَيْنْذَاتِيَّة",
+        "meaning": "اشْتِرَاكُ وَتَوَافُقُ الوَعْيِ وَالمَعْرِفَةِ بَيْنَ عِدَّةِ ذَوَاتٍ مِمَّا يَمْنَحُهَا صِفَةَ المَوْضُوعِيَّةِ المُشْتَرَكَةِ"
+      },
+      "german": {
+        "word": "die Intersubjektivität",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Intersubjektivitäten",
+        "example": "Wissenschaftliche Erkenntnis beansprucht Intersubjektivität durch universelle Nachprüfbarkeit."
+      },
+      "english": {
+        "word": "intersubjectivity",
+        "example": "Scientific knowledge claims intersubjectivity through universal verifiability."
+      }
+    },
+    {
+      "id": "phil_016",
+      "icon": "phil_solipsismus",
+      "arabic": {
+        "word": "وَحْدَةُ الأَنَا (السُّولِيبْسِيزْم)",
+        "meaning": "مَوْقِفٌ فَلْسَفِيٌّ رَادِيكَالِيٌّ يَرَى أَنَّ عَقْلَ الفَرْدِ هُوَ الشَّيْءُ الوَحِيدُ المَعْلُومُ وُجُودُهُ يَقِينًا"
+      },
+      "german": {
+        "word": "der Solipsismus",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Solipsismen",
+        "example": "Der erkenntnistheoretische Solipsismus bezweifelt die beweisbare Existenz einer Außenwelt."
+      },
+      "english": {
+        "word": "solipsism",
+        "example": "Epistemological solipsism questions the provable existence of an external world."
+      }
+    },
+    {
+      "id": "phil_017",
+      "icon": "phil_tautologie",
+      "arabic": {
+        "word": "تَحْصِيلُ الحَاصِل (التَّطَابُقُ المَنْطِقِيّ)",
+        "meaning": "قَضِيَّةٌ مَنْطِقِيَّةٌ صَادِقَةٌ دَوْمًا فِي جَمِيعِ التَّفْسِيرَاتِ المُمْكِنَةِ لِأَنَّهَا تُكَرِّرُ نَفْسَهَا"
+      },
+      "german": {
+        "word": "die Tautologie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Tautologien",
+        "example": "Der Satz 'Entweder es regnet oder es regnet nicht' ist eine logische Tautologie."
+      },
+      "english": {
+        "word": "tautology",
+        "example": "The statement 'Either it rains or it does not rain' is a logical tautology."
+      }
+    },
+    {
+      "id": "phil_018",
+      "icon": "phil_gedankenexperiment",
+      "arabic": {
+        "word": "التَّجْرِبَةُ الفِكْرِيَّة",
+        "meaning": "فَرَضِيَّةٌ تَخَيُّلِيَّةٌ تُصَاغُ مَنْطِقِيًّا لِاخْتِبَارِ حُدُودِ نَظَرِيَّةٍ فَلْسَفِيَّةٍ أَوْ عِلْمِيَّةٍ (مِثْلَ قِطَّةِ شْرُودِنْغَر)"
+      },
+      "german": {
+        "word": "das Gedankenexperiment",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Gedankenexperimente",
+        "example": "Gedankenexperimente wie das 'Trolley-Problem' veranschaulichen fundamentale ethische Dilemmata."
+      },
+      "english": {
+        "word": "thought experiment",
+        "example": "Thought experiments like the 'Trolley Problem' illustrate fundamental ethical dilemmas."
+      }
+    },
+    {
+      "id": "phil_019",
+      "icon": "phil_ambiguitaet",
+      "arabic": {
+        "word": "التَّسَامُحُ مَعَ الغُمُوضِ الدَّلَالِيّ",
+        "meaning": "القُدْرَةُ العَقْلِيَّةُ عَلَى احْتِمَالِ وُجُودِ تَفْسِيرَاتٍ مُتَعَدِّدَةٍ أَوْ مُتَنَاقِضَةٍ دُونَ قَلَقٍ مَعْرِفِيٍّ"
+      },
+      "german": {
+        "word": "die Ambiguitätstoleranz",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Ambiguitätstoleranzen",
+        "example": "Eine ausgeprägte Ambiguitätstoleranz ist Kennzeichen reifer hermeneutischer Urteilskraft."
+      },
+      "english": {
+        "word": "tolerance of ambiguity",
+        "example": "A pronounced tolerance of ambiguity is a hallmark of mature hermeneutic discernment."
+      }
+    },
+    {
+      "id": "phil_020",
+      "icon": "phil_relativismus",
+      "arabic": {
+        "word": "النِّسْبِيَّةُ الفَلْسَفِيَّة",
+        "meaning": "المَذْهَبُ الَّذِي يَنْفِي وُجُودَ مَعَايِيرَ مُطْلَقَةٍ لِلْحَقِيقَةِ أَوِ الأَخْلَاقِ، مُعْتَبِرًا إِيَّاهَا تَابِعَةً لِلثَّقَافَةِ"
+      },
+      "german": {
+        "word": "der epistemische Relativismus",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Relativismen",
+        "example": "Der epistemische Relativismus bestreitet die Existenz kulturübergreifender Wahrheitsstandards."
+      },
+      "english": {
+        "word": "epistemic relativism",
+        "example": "Epistemic relativism denies the existence of cross-cultural standards of truth."
+      }
+    },
+    {
+      "id": "phil_021",
+      "icon": "phil_kohaerenz",
+      "arabic": {
+        "word": "مَبْدَأُ التَّرَابُطِ (الكُوهِيرِنْس)",
+        "meaning": "مِعْيَارٌ يَحْكُمُ بِصِدْقِ القَضِيَّةِ إِذَا كَانَتْ مُتَّسِقَةً كُلِّيًّا مَعَ مَنْظُومَةِ المُعْتَقَدَاتِ المَقْبُولَةِ دُونَ تَنَاقُضٍ"
+      },
+      "german": {
+        "word": "das Kohärenzprinzip",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Kohärenzprinzipien",
+        "example": "Nach der Kohärenztheorie der Wahrheit ist ein Urteil wahr, wenn es widerspruchsfrei in ein Gesamtsystem passt."
+      },
+      "english": {
+        "word": "coherence principle / coherence theory",
+        "example": "According to the coherence theory of truth, a judgment is true if it fits consistently into an overall system."
+      }
+    },
+    {
+      "id": "phil_022",
+      "icon": "phil_analytisch",
+      "arabic": {
+        "word": "الفَلْسَفَةُ التَّحْلِيلِيَّة",
+        "meaning": "تَيَّارٌ فَلْسَفِيٌّ سَائِدٌ فِي الغَرْبِ يُرَكِّزُ عَلَى تَفْكِيكِ وَتَحْلِيلِ اللُّغَةِ وَالمَنْطِقِ لِحَلِّ الإِشْكَالَاتِ"
+      },
+      "german": {
+        "word": "die analytische Philosophie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die analytischen Philosophien",
+        "example": "Die analytische Philosophie zeichnet sich durch logische Strenge und argumentative Klarheit aus."
+      },
+      "english": {
+        "word": "analytic philosophy",
+        "example": "Analytic philosophy is characterized by logical rigor and argumentative clarity."
+      }
+    },
+    {
+      "id": "phil_023",
+      "icon": "phil_empirismus",
+      "arabic": {
+        "word": "المَذْهَبُ التَّجْرِيبِيّ",
+        "meaning": "الفَلْسَفَةُ الَّتِي تُقَرِّرُ أَنَّ جَمِيعَ المَعَارِفِ البَشَرِيَّةِ تَنْشَأُ حَصْرًا عَنِ التَّجْرِبَةِ الحِسِّيَّةِ"
+      },
+      "german": {
+        "word": "der klassische Empirismus",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Empirismen",
+        "example": "David Humes radikaler Empirismus stellte den Kausalitätsbegriff fundamental infrage."
+      },
+      "english": {
+        "word": "empiricism",
+        "example": "David Hume's radical empiricism fundamentally questioned the concept of causality."
+      }
+    },
+    {
+      "id": "phil_024",
+      "icon": "phil_rationalismus",
+      "arabic": {
+        "word": "المَذْهَبُ العَقْلَانِيّ",
+        "meaning": "الفَلْسَفَةُ الَّتِي تَجْعَلُ العَقْلَ الخَالِصَ المَصْدَرَ الأَوَّلَ وَالأَسَاسِيَّ لِلْمَعْرِفَةِ اليَقِينِيَّةِ قَبْلَ الحَوَاسِّ"
+      },
+      "german": {
+        "word": "der Rationalismus",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Rationalismen",
+        "example": "René Descartes begründete den neuzeitlichen Rationalismus mit seinem berühmten 'Cogito ergo sum'."
+      },
+      "english": {
+        "word": "rationalism",
+        "example": "René Descartes founded modern rationalism with his famous 'Cogito ergo sum'."
+      }
+    },
+    {
+      "id": "phil_025",
+      "icon": "phil_korrespondenz",
+      "arabic": {
+        "word": "مَبْدَأُ التَّطَابُقِ مَعَ الوَاقِع",
+        "meaning": "النَّظَرِيَّةُ الكَلَاسِيكِيَّةُ لِلْحَقِيقَةِ (أَرِسْطُو) الَّتِي تَرَى أَنَّ صِدْقَ القَضِيَّةِ مَرْهُونٌ بِمُطَابَقَتِهَا لِلْوَاقِعِ الفِعْلِيِّ"
+      },
+      "german": {
+        "word": "die Korrespondenztheorie der Wahrheit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Korrespondenztheorien",
+        "example": "Die Korrespondenztheorie besagt: Eine Aussage ist genau dann wahr, wenn sie mit den Tatsachen übereinstimmt."
+      },
+      "english": {
+        "word": "correspondence theory of truth",
+        "example": "The correspondence theory states: A proposition is true if and only if it corresponds to the facts."
+      }
+    }
+  ]
+}

@@ -7110,6 +7110,131 @@
       "path": "content/assets/svg/qcrypt_zksnark.svg",
       "type": "vector_svg",
       "category": "quantum_crypto_c1"
+    },
+    "phil_sprachphilosophie": {
+      "path": "content/assets/svg/phil_sprachphilosophie.svg",
+      "type": "vector_svg",
+      "category": "philosophy_language_c1"
+    },
+    "phil_sprechakt": {
+      "path": "content/assets/svg/phil_sprechakt.svg",
+      "type": "vector_svg",
+      "category": "philosophy_language_c1"
+    },
+    "phil_sprachspiel": {
+      "path": "content/assets/svg/phil_sprachspiel.svg",
+      "type": "vector_svg",
+      "category": "philosophy_language_c1"
+    },
+    "phil_semantik": {
+      "path": "content/assets/svg/phil_semantik.svg",
+      "type": "vector_svg",
+      "category": "philosophy_language_c1"
+    },
+    "phil_pragmatik": {
+      "path": "content/assets/svg/phil_pragmatik.svg",
+      "type": "vector_svg",
+      "category": "philosophy_language_c1"
+    },
+    "phil_metaethik": {
+      "path": "content/assets/svg/phil_metaethik.svg",
+      "type": "vector_svg",
+      "category": "philosophy_language_c1"
+    },
+    "phil_realismus": {
+      "path": "content/assets/svg/phil_realismus.svg",
+      "type": "vector_svg",
+      "category": "philosophy_language_c1"
+    },
+    "phil_nonkognitivismus": {
+      "path": "content/assets/svg/phil_nonkognitivismus.svg",
+      "type": "vector_svg",
+      "category": "philosophy_language_c1"
+    },
+    "phil_referenz": {
+      "path": "content/assets/svg/phil_referenz.svg",
+      "type": "vector_svg",
+      "category": "philosophy_language_c1"
+    },
+    "phil_wahrheit": {
+      "path": "content/assets/svg/phil_wahrheit.svg",
+      "type": "vector_svg",
+      "category": "philosophy_language_c1"
+    },
+    "phil_positivismus": {
+      "path": "content/assets/svg/phil_positivismus.svg",
+      "type": "vector_svg",
+      "category": "philosophy_language_c1"
+    },
+    "phil_verifikation": {
+      "path": "content/assets/svg/phil_verifikation.svg",
+      "type": "vector_svg",
+      "category": "philosophy_language_c1"
+    },
+    "phil_dekonstruktivismus": {
+      "path": "content/assets/svg/phil_dekonstruktivismus.svg",
+      "type": "vector_svg",
+      "category": "philosophy_language_c1"
+    },
+    "phil_intentionalitaet": {
+      "path": "content/assets/svg/phil_intentionalitaet.svg",
+      "type": "vector_svg",
+      "category": "philosophy_language_c1"
+    },
+    "phil_intersubjektivitaet": {
+      "path": "content/assets/svg/phil_intersubjektivitaet.svg",
+      "type": "vector_svg",
+      "category": "philosophy_language_c1"
+    },
+    "phil_solipsismus": {
+      "path": "content/assets/svg/phil_solipsismus.svg",
+      "type": "vector_svg",
+      "category": "philosophy_language_c1"
+    },
+    "phil_tautologie": {
+      "path": "content/assets/svg/phil_tautologie.svg",
+      "type": "vector_svg",
+      "category": "philosophy_language_c1"
+    },
+    "phil_gedankenexperiment": {
+      "path": "content/assets/svg/phil_gedankenexperiment.svg",
+      "type": "vector_svg",
+      "category": "philosophy_language_c1"
+    },
+    "phil_ambiguitaet": {
+      "path": "content/assets/svg/phil_ambiguitaet.svg",
+      "type": "vector_svg",
+      "category": "philosophy_language_c1"
+    },
+    "phil_relativismus": {
+      "path": "content/assets/svg/phil_relativismus.svg",
+      "type": "vector_svg",
+      "category": "philosophy_language_c1"
+    },
+    "phil_kohaerenz": {
+      "path": "content/assets/svg/phil_kohaerenz.svg",
+      "type": "vector_svg",
+      "category": "philosophy_language_c1"
+    },
+    "phil_analytisch": {
+      "path": "content/assets/svg/phil_analytisch.svg",
+      "type": "vector_svg",
+      "category": "philosophy_language_c1"
+    },
+    "phil_empirismus": {
+      "path": "content/assets/svg/phil_empirismus.svg",
+      "type": "vector_svg",
+      "category": "philosophy_language_c1"
+    },
+    "phil_rationalismus": {
+      "path": "content/assets/svg/phil_rationalismus.svg",
+      "type": "vector_svg",
+      "category": "philosophy_language_c1"
+    },
+    "phil_korrespondenz": {
+      "path": "content/assets/svg/phil_korrespondenz.svg",
+      "type": "vector_svg",
+      "category": "philosophy_language_c1"
     }
   }
 }
