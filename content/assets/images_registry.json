@@ -6485,6 +6485,131 @@
       "path": "content/assets/svg/agi_emergenz.svg",
       "type": "vector_svg",
       "category": "agi_cognitive_c1"
+    },
+    "fin_staatsfonds": {
+      "path": "content/assets/svg/fin_staatsfonds.svg",
+      "type": "vector_svg",
+      "category": "fintech_governance_c1"
+    },
+    "fin_fintech": {
+      "path": "content/assets/svg/fin_fintech.svg",
+      "type": "vector_svg",
+      "category": "fintech_governance_c1"
+    },
+    "fin_makroaufsicht": {
+      "path": "content/assets/svg/fin_makroaufsicht.svg",
+      "type": "vector_svg",
+      "category": "fintech_governance_c1"
+    },
+    "fin_quantitativ": {
+      "path": "content/assets/svg/fin_quantitativ.svg",
+      "type": "vector_svg",
+      "category": "fintech_governance_c1"
+    },
+    "fin_systemrisiko": {
+      "path": "content/assets/svg/fin_systemrisiko.svg",
+      "type": "vector_svg",
+      "category": "fintech_governance_c1"
+    },
+    "fin_derivat": {
+      "path": "content/assets/svg/fin_derivat.svg",
+      "type": "vector_svg",
+      "category": "fintech_governance_c1"
+    },
+    "fin_cbdc": {
+      "path": "content/assets/svg/fin_cbdc.svg",
+      "type": "vector_svg",
+      "category": "fintech_governance_c1"
+    },
+    "fin_defi": {
+      "path": "content/assets/svg/fin_defi.svg",
+      "type": "vector_svg",
+      "category": "fintech_governance_c1"
+    },
+    "fin_algorithmisch": {
+      "path": "content/assets/svg/fin_algorithmisch.svg",
+      "type": "vector_svg",
+      "category": "fintech_governance_c1"
+    },
+    "fin_eigenkapital": {
+      "path": "content/assets/svg/fin_eigenkapital.svg",
+      "type": "vector_svg",
+      "category": "fintech_governance_c1"
+    },
+    "fin_liquiditaet": {
+      "path": "content/assets/svg/fin_liquiditaet.svg",
+      "type": "vector_svg",
+      "category": "fintech_governance_c1"
+    },
+    "fin_schattenbank": {
+      "path": "content/assets/svg/fin_schattenbank.svg",
+      "type": "vector_svg",
+      "category": "fintech_governance_c1"
+    },
+    "fin_stresstest": {
+      "path": "content/assets/svg/fin_stresstest.svg",
+      "type": "vector_svg",
+      "category": "fintech_governance_c1"
+    },
+    "fin_bonitaet": {
+      "path": "content/assets/svg/fin_bonitaet.svg",
+      "type": "vector_svg",
+      "category": "fintech_governance_c1"
+    },
+    "fin_verbriefung": {
+      "path": "content/assets/svg/fin_verbriefung.svg",
+      "type": "vector_svg",
+      "category": "fintech_governance_c1"
+    },
+    "fin_hochfrequenz": {
+      "path": "content/assets/svg/fin_hochfrequenz.svg",
+      "type": "vector_svg",
+      "category": "fintech_governance_c1"
+    },
+    "fin_blockchain": {
+      "path": "content/assets/svg/fin_blockchain.svg",
+      "type": "vector_svg",
+      "category": "fintech_governance_c1"
+    },
+    "fin_intermediation": {
+      "path": "content/assets/svg/fin_intermediation.svg",
+      "type": "vector_svg",
+      "category": "fintech_governance_c1"
+    },
+    "fin_regtech": {
+      "path": "content/assets/svg/fin_regtech.svg",
+      "type": "vector_svg",
+      "category": "fintech_governance_c1"
+    },
+    "fin_zinsrisiko": {
+      "path": "content/assets/svg/fin_zinsrisiko.svg",
+      "type": "vector_svg",
+      "category": "fintech_governance_c1"
+    },
+    "fin_diversifikation": {
+      "path": "content/assets/svg/fin_diversifikation.svg",
+      "type": "vector_svg",
+      "category": "fintech_governance_c1"
+    },
+    "fin_risikogewicht": {
+      "path": "content/assets/svg/fin_risikogewicht.svg",
+      "type": "vector_svg",
+      "category": "fintech_governance_c1"
+    },
+    "fin_abwertung": {
+      "path": "content/assets/svg/fin_abwertung.svg",
+      "type": "vector_svg",
+      "category": "fintech_governance_c1"
+    },
+    "fin_greenbond": {
+      "path": "content/assets/svg/fin_greenbond.svg",
+      "type": "vector_svg",
+      "category": "fintech_governance_c1"
+    },
+    "fin_aufsicht": {
+      "path": "content/assets/svg/fin_aufsicht.svg",
+      "type": "vector_svg",
+      "category": "fintech_governance_c1"
     }
   }
 }

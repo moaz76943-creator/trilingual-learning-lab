@@ -1,0 +1,488 @@
+{
+  "category_id": "fintech_governance_c1",
+  "category_number": 57,
+  "level": "C1",
+  "title": {
+    "ar": "الهندسة المالية الكلية، صناديق الثروة السيادية وحوكمة الفنتك",
+    "de": "Makrofinanztechnik, Staatsfonds & FinTech-Governance",
+    "en": "Macro-Financial Engineering, Sovereign Wealth Funds & FinTech Governance"
+  },
+  "icon": "fin_staatsfonds",
+  "concepts": [
+    {
+      "id": "fin_001",
+      "icon": "fin_staatsfonds",
+      "arabic": {
+        "word": "صُنْدُوقُ الثَّرْوَةِ السِّيَادِيّ",
+        "meaning": "صُنْدُوقٌ اسْتِثْمَارِيٌّ مَمْلُوكٌ لِلدَّوْلَةِ يُدِيرُ فَوَائِضَ المِيزَانِيَّةِ لِتَأْمِينِ مُسْتَقْبَلِ الأَجْيَالِ"
+      },
+      "german": {
+        "word": "der Staatsfonds",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Staatsfonds",
+        "example": "Der norwegische Staatsfonds investiert weltweit nach strengen ethischen und ökologischen Kriterien."
+      },
+      "english": {
+        "word": "sovereign wealth fund (SWF)",
+        "example": "The Norwegian sovereign wealth fund invests globally according to strict ethical and ecological criteria."
+      }
+    },
+    {
+      "id": "fin_002",
+      "icon": "fin_fintech",
+      "arabic": {
+        "word": "تِكْنُولُوجْيَا المَالِ (فِنْتِك)",
+        "meaning": "تَطْبِيقُ الحَوْسَبَةِ وَالخُوَارِزْمِيَّاتِ الحَدِيثَةِ لِتَطْوِيرِ وَأَتْمَتَةِ الخَدَمَاتِ المَالِيَّةِ وَالمَصْرِفِيَّةِ"
+      },
+      "german": {
+        "word": "die Finanztechnologie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Finanztechnologien",
+        "example": "Innovative Finanztechnologien fordern traditionelle Geschäftsbanken durch digitale Zahlungslösungen heraus."
+      },
+      "english": {
+        "word": "financial technology (FinTech)",
+        "example": "Innovative financial technologies challenge traditional commercial banks with digital payment solutions."
+      }
+    },
+    {
+      "id": "fin_003",
+      "icon": "fin_makroaufsicht",
+      "arabic": {
+        "word": "الرَّقَابَةُ المَالِيَّةُ الكُلِّيَّةُ الاحْتِرَازِيَّة",
+        "meaning": "مُرَاقَبَةُ وَمُعَالَجَةُ المَخَاطِرِ الَّتِي تُهَدِّدُ اسْتِقْرَارَ النِّظَامِ المَالِيِّ بِرُمَّتِهِ وَلَيْسَ مُجَرَّدَ بَنْكٍ وَاحِدٍ"
+      },
+      "german": {
+        "word": "die makroprudenzielle Aufsicht",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die makroprudenziellen Aufsichten",
+        "example": "Die makroprudenzielle Aufsicht der Zentralbanken dämpft übermäßiges Kreditwachstum rechtzeitig."
+      },
+      "english": {
+        "word": "macroprudential supervision",
+        "example": "Macroprudential supervision by central banks dampens excessive credit growth in good time."
+      }
+    },
+    {
+      "id": "fin_004",
+      "icon": "fin_quantitativ",
+      "arabic": {
+        "word": "التَّيْسِيرُ الكَمِّيّ (QE)",
+        "meaning": "سِيَاسَةٌ نَقْدِيَّةٌ غَيْرُ تَقْلِيدِيَّةٍ يَقُومُ فِيهَا البَنْكُ المَرْكَزِيُّ بِشِرَاءِ سَنَدَاتٍ لِضَخِّ السُّيُولَةِ وَخَفْضِ الفَوَائِدِ"
+      },
+      "german": {
+        "word": "die quantitative Lockerung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die quantitativen Lockerungen",
+        "example": "Durch quantitative Lockerung kaufte die Europäische Zentralbank Staatsanleihen in Milliardenhöhe."
+      },
+      "english": {
+        "word": "quantitative easing (QE)",
+        "example": "Through quantitative easing, the European Central Bank purchased government bonds worth billions."
+      }
+    },
+    {
+      "id": "fin_005",
+      "icon": "fin_systemrisiko",
+      "arabic": {
+        "word": "الخَطَرُ المَالِيُّ النِّظَامِيّ",
+        "meaning": "احْتِمَالُ انْهِيَارِ كَامِلِ النِّظَامِ المَالِيِّ نَتِيجَةَ تَعَثُّرِ مُؤَسَّسَةٍ مَالِيَّةٍ كُبْرَى مُتَرَابِطَةٍ"
+      },
+      "german": {
+        "word": "das systemische Risiko",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die systemischen Risiken",
+        "example": "Systemische Risiken werden durch hohe Verflechtungen internationaler Großbanken verstärkt."
+      },
+      "english": {
+        "word": "systemic risk",
+        "example": "Systemic risks are amplified by high interconnectedness among international mega-banks."
+      }
+    },
+    {
+      "id": "fin_006",
+      "icon": "fin_derivat",
+      "arabic": {
+        "word": "المُشْتَقَّاتُ المَالِيَّة",
+        "meaning": "عُقُودٌ مَالِيَّةٌ تَتَوَقَّفُ قِيمَتُهَا عَلَى أَدَاءِ أُصُولٍ أُخْرَى مِثْلَ الأَسْهُمِ أَوِ السِّلَعِ أَوِ الفَوَائِدِ"
+      },
+      "german": {
+        "word": "das Finanzderivat",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Finanzderivate",
+        "example": "Komplexe Finanzderivate werden sowohl zur Risikoabsicherung als auch zur Spekulation eingesetzt."
+      },
+      "english": {
+        "word": "financial derivative",
+        "example": "Complex financial derivatives are utilized both for risk hedging and for speculation."
+      }
+    },
+    {
+      "id": "fin_007",
+      "icon": "fin_cbdc",
+      "arabic": {
+        "word": "العُمْلَةُ الرَّقْمِيَّةُ لِلْبَنْكِ المَرْكَزِيّ (CBDC)",
+        "meaning": "صِيغَةٌ رَقْمِيَّةٌ لِلنَّقْدِ القَانُونِيِّ تُصْدِرُهَا وَتَضْمَنُهَا السُّلْطَةُ النَّقْدِيَّةُ المَرْكَزِيَّةُ لِلدَّوْلَةِ"
+      },
+      "german": {
+        "word": "die digitale Zentralbankwährung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die digitalen Zentralbankwährungen",
+        "example": "Die Einführung einer digitalen Zentralbankwährung erfordert höchste Standards bei Datenschutz und IT-Sicherheit."
+      },
+      "english": {
+        "word": "central bank digital currency (CBDC)",
+        "example": "The introduction of a central bank digital currency demands highest standards in privacy and cybersecurity."
+      }
+    },
+    {
+      "id": "fin_008",
+      "icon": "fin_defi",
+      "arabic": {
+        "word": "التَّمْوِيلُ اللَّامَرْكَزِيّ (DeFi)",
+        "meaning": "مَنْظُومَةُ خَدَمَاتٍ مَالِيَّةٍ قَائِمَةٍ عَلَى العُقُودِ الذَّكِيَّةِ تَعْمَلُ دُونَ وَسَاطَةِ البُنُوكِ التَّقْلِيدِيَّةِ"
+      },
+      "german": {
+        "word": "das dezentrale Finanzwesen",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die dezentralen Finanzsysteme",
+        "example": "Das dezentrale Finanzwesen ermöglicht Kredite und Zinshandel über automatisierte Smart Contracts."
+      },
+      "english": {
+        "word": "decentralized finance (DeFi)",
+        "example": "Decentralized finance enables lending and yield trading via automated smart contracts."
+      }
+    },
+    {
+      "id": "fin_009",
+      "icon": "fin_algorithmisch",
+      "arabic": {
+        "word": "التَّدَاوُلُ الخُوَارِزْمِيّ",
+        "meaning": "تَنْفِيذُ أَوْامِرِ شِرَاءِ وَبَيْعِ الأَوْرَاقِ المَالِيَّةِ آلِيًّا عَبْرَ بَرَامِجَ تُحَلِّلُ بَيَانَاتِ السُّوقِ لَحْظِيًّا"
+      },
+      "german": {
+        "word": "der algorithmische Handel",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die algorithmischen Handelssysteme",
+        "example": "Der algorithmische Handel wickelt heute den Großteil aller Börsenaufträge in Millisekunden ab."
+      },
+      "english": {
+        "word": "algorithmic trading",
+        "example": "Algorithmic trading currently executes the vast majority of exchange orders in milliseconds."
+      }
+    },
+    {
+      "id": "fin_010",
+      "icon": "fin_eigenkapital",
+      "arabic": {
+        "word": "مُتَطَلَّبَاتُ كِفَايَةِ رَأْسِ المَال (بَازِل)",
+        "meaning": "مَعَايِيرُ تَنْظِيمِيَّةٌ تُجْبِرُ البُنُوكَ عَلَى الِاحْتِفَاظِ بِحَجْمِ رَأْسِ مَالٍ كَافٍ لِمُوَاجَهَةِ الخَسَائِرِ المُحْتَمَلَةِ"
+      },
+      "german": {
+        "word": "die Eigenkapitalanforderung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Eigenkapitalanforderungen",
+        "example": "Basel III hat die regulatorischen Eigenkapitalanforderungen für systemrelevante Banken deutlich verschärft."
+      },
+      "english": {
+        "word": "capital adequacy requirement (Basel Accords)",
+        "example": "Basel III significantly tightened regulatory capital adequacy requirements for systemically important banks."
+      }
+    },
+    {
+      "id": "fin_011",
+      "icon": "fin_liquiditaet",
+      "arabic": {
+        "word": "نِسْبَةُ تَغْطِيَةِ السُّيُولَةِ (LCR)",
+        "meaning": "مِعْيَارٌ يُلْزِمُ البَنْكَ بِحِيَازَةِ أُصُولٍ عَالِيَةِ السُّيُولَةِ تَكْفِي لِمُوَاجَهَةِ أَزْمَةِ سَحْبٍ تَدُومُ 30 يَوْمًا"
+      },
+      "german": {
+        "word": "die Liquiditätsdeckungsquote",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Liquiditätsdeckungsquoten",
+        "example": "Die Liquiditätsdeckungsquote stellt sicher, dass Banken kurzfristige Stressphasen unbeschadet überstehen."
+      },
+      "english": {
+        "word": "liquidity coverage ratio (LCR)",
+        "example": "The liquidity coverage ratio ensures that banks weather short-term stress periods unscathed."
+      }
+    },
+    {
+      "id": "fin_012",
+      "icon": "fin_schattenbank",
+      "arabic": {
+        "word": "صَيْرَفَةُ الظِّلّ",
+        "meaning": "مُؤَسَّسَاتٌ مَالِيَّةٌ تُقَدِّمُ خَدَمَاتِ الإِقْرَاضِ وَالائْتِمَانِ خَارِجَ نِطَاقِ التَّنْظِيمِ المَصْرِفِيِّ التَّقْلِيدِيِّ"
+      },
+      "german": {
+        "word": "das Schattenbankensystem",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Schattenbankensysteme",
+        "example": "Aufsichtsbehörden beobachten das Schattenbankensystem aufmerksam, um unerkannte Risiken aufzudecken."
+      },
+      "english": {
+        "word": "shadow banking system",
+        "example": "Regulatory authorities closely monitor the shadow banking system to uncover hidden risks."
+      }
+    },
+    {
+      "id": "fin_013",
+      "icon": "fin_stresstest",
+      "arabic": {
+        "word": "اخْتِبَارُ الضَّغْطِ المَصْرِفِيّ",
+        "meaning": "مُحَاكَاةٌ رِيَاضِيَّةٌ تَخْتَبِرُ قُدْرَةَ البُنُوكِ عَلَى الصُّمُودِ فِي حَالِ حُدُوثِ رُكُودٍ اقْتِصَادِيٍّ حَادٍّ"
+      },
+      "german": {
+        "word": "der Bankenstresstest",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Bankenstresstests",
+        "example": "Beim jährlichen Bankenstresstest müssen Kreditinstitute ihre Krisenfestigkeit unter Beweis stellen."
+      },
+      "english": {
+        "word": "financial stress test",
+        "example": "In the annual bank stress test, credit institutions must demonstrate their crisis resilience."
+      }
+    },
+    {
+      "id": "fin_014",
+      "icon": "fin_bonitaet",
+      "arabic": {
+        "word": "التَّصْنِيفُ الائْتِمَانِيّ (الجَدَارَة)",
+        "meaning": "تَقْيِيمٌ مِهْنِيٌّ لِقُدْرَةِ الدَّوْلَةِ أَوْ الشَّرِكَةِ عَلَى سَدَادِ دُيُونِهَا فِي مَوَاعِيدِهَا المُحَدَّدَةِ"
+      },
+      "german": {
+        "word": "die Bonitätsbeurteilung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Bonitätsbeurteilungen",
+        "example": "Eine exzellente Bonitätsbeurteilung senkt die Refinanzierungskosten von Staaten an den Kapitalmärkten."
+      },
+      "english": {
+        "word": "credit rating assessment",
+        "example": "An excellent credit rating assessment lowers state refinancing costs on capital markets."
+      }
+    },
+    {
+      "id": "fin_015",
+      "icon": "fin_verbriefung",
+      "arabic": {
+        "word": "التَّوْرِيقُ / التَّصْكِيكُ المَالِيّ",
+        "meaning": "تَجْمِيعُ قُرُوضٍ غَيْرِ سَائِلَةٍ (كَالرُّهُونِ العَقَارِيَّةِ) وَتَحْوِيلُهَا إِلَى سَنَدَاتٍ قَابِلَةٍ لِلتَّدَاوُلِ"
+      },
+      "german": {
+        "word": "die Verbriefung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Verbriefungen",
+        "example": "Die Verbriefung von Krediten transferiert Bonitätsrisiken von den Bankbilanzen auf den Kapitalmarkt."
+      },
+      "english": {
+        "word": "securitization",
+        "example": "Loan securitization transfers credit risk from bank balance sheets to the capital market."
+      }
+    },
+    {
+      "id": "fin_016",
+      "icon": "fin_hochfrequenz",
+      "arabic": {
+        "word": "التَّدَاوُلُ فَائِقُ السُّرْعَة (HFT)",
+        "meaning": "شَكْلٌ مُتَطَوِّرٌ مِنَ التَّدَاوُلِ الآلِيِّ يُنَفِّذُ آلَافَ الصَّفَقَاتِ فِي أَجْزَاءِ المِيكْرُوثَانِيَةِ"
+      },
+      "german": {
+        "word": "der Hochfrequenzhandel",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Hochfrequenzhandelsformen",
+        "example": "Der Hochfrequenzhandel nutzt minimale Preisunterschiede zwischen verschiedenen Börsenplätzen aus."
+      },
+      "english": {
+        "word": "high-frequency trading (HFT)",
+        "example": "High-frequency trading exploits minimal price discrepancies across different exchanges."
+      }
+    },
+    {
+      "id": "fin_017",
+      "icon": "fin_blockchain",
+      "arabic": {
+        "word": "تِقْنِيَّةُ سِلْسِلَةِ الكُتَل",
+        "meaning": "سِجِلٌّ رَقْمِيٌّ مُوَزَّعٌ وَغَيْرُ قَابِلٍ لِلتَّعْدِيلِ يُوَثِّقُ كَافَّةَ المَعَامَلَاتِ بِأَمَانٍ تَامٍّ"
+      },
+      "german": {
+        "word": "die Blockchain-Technologie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Blockchain-Technologien",
+        "example": "Die Blockchain-Technologie garantiert manipulationssichere Transaktionen ohne zentrale Verrechnungsstelle."
+      },
+      "english": {
+        "word": "blockchain technology",
+        "example": "Blockchain technology guarantees tamper-proof transactions without a central clearing house."
+      }
+    },
+    {
+      "id": "fin_018",
+      "icon": "fin_intermediation",
+      "arabic": {
+        "word": "الوَسَاطَةُ المَالِيَّة",
+        "meaning": "الدَّوْرُ الَّذِي تَقُومُ بِهِ البُنُوكُ فِي تَحْوِيلِ مُدَّخَرَاتِ المُودِعِينَ إِلَى اسْتِثْمَارَاتٍ وَقُرُوضٍ"
+      },
+      "german": {
+        "word": "die Finanzintermediation",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Finanzintermediationen",
+        "example": "Effiziente Finanzintermediation kanalisiert brachliegendes Kapital in produktive volkswirtschaftliche Bereiche."
+      },
+      "english": {
+        "word": "financial intermediation",
+        "example": "Efficient financial intermediation channels idle capital into productive economic sectors."
+      }
+    },
+    {
+      "id": "fin_019",
+      "icon": "fin_regtech",
+      "arabic": {
+        "word": "تِكْنُولُوجْيَا الامْتِثَالِ الرَّقَابِيّ (RegTech)",
+        "meaning": "تَوْظِيفُ البَرْمَجِيَّاتِ السَّحَابِيَّةِ وَالذَّكَاءِ الاصْطِنَاعِيِّ لِمُسَاعَدَةِ البُنُوكِ فِي مُطَابَقَةِ القَوَانِينِ"
+      },
+      "german": {
+        "word": "die Regulierungstechnologie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Regulierungstechnologien",
+        "example": "RegTech automatisiert aufsichtsrechtliche Meldepflichten und minimiert bürokratische Compliance-Kosten."
+      },
+      "english": {
+        "word": "regulatory technology (RegTech)",
+        "example": "RegTech automates regulatory reporting obligations and minimizes compliance costs."
+      }
+    },
+    {
+      "id": "fin_020",
+      "icon": "fin_zinsrisiko",
+      "arabic": {
+        "word": "مَخَاطِرُ تَقَلُّبِ أَسْعَارِ الفَائِدَة",
+        "meaning": "الخَسَائِرُ المَالِيَّةُ المُحْتَمَلَةُ فِي قِيمَةِ السَّنَدَاتِ أَوْ مَحَافِظِ البُنُوكِ عِنْدَ تَغَيُّرِ الفَائِدَةِ"
+      },
+      "german": {
+        "word": "das Zinsänderungsrisiko",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Zinsänderungsrisiken",
+        "example": "Ein unerwarteter Zinssprung stellt Institute mit langfristigen Festzinsbindungen vor massive Risiken."
+      },
+      "english": {
+        "word": "interest rate risk",
+        "example": "An unexpected rate hike presents institutions with long-term fixed assets with massive risks."
+      }
+    },
+    {
+      "id": "fin_021",
+      "icon": "fin_diversifikation",
+      "arabic": {
+        "word": "تَنْوِيعُ المَحْفَظَةِ الاسْتِثْمَارِيَّة",
+        "meaning": "تَوْزِيعُ الأَمْوَالِ بَيْنَ فِئَاتِ أُصُولٍ مُتَعَدِّدَةٍ (أَسْهُم، سَنَدَات، عَقَار) لِتَقْلِيلِ مُخَاطَرَةِ الخَسَارَةِ"
+      },
+      "german": {
+        "word": "die Portfoliodiversifikation",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Portfoliodiversifikationen",
+        "example": "Gezielte Portfoliodiversifikation senkt das unsystematische Risiko einer Kapitalanlage spürbar."
+      },
+      "english": {
+        "word": "portfolio diversification",
+        "example": "Targeted portfolio diversification noticeably mitigates the unsystematic risk of an investment."
+      }
+    },
+    {
+      "id": "fin_022",
+      "icon": "fin_risikogewicht",
+      "arabic": {
+        "word": "الأُصُولُ المُرَجَّحَةُ بِالمَخَاطِر (RWA)",
+        "meaning": "قِيمَةُ أُصُولِ البَنْكِ مُحْسُوبَةً وِفْقًا لِدَرَجَةِ مُخَاطَرَةِ كُلِّ نَوْعٍ مِنَ القُرُوضِ المَمْنُوحَةِ"
+      },
+      "german": {
+        "word": "die risikogewichteten Aktiva",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die risikogewichteten Aktiva",
+        "example": "Die Kernkapitalquote setzt das harte Kernkapital ins Verhältnis zu den risikogewichteten Aktiva."
+      },
+      "english": {
+        "word": "risk-weighted assets (RWA)",
+        "example": "The Tier 1 capital ratio sets common equity against risk-weighted assets."
+      }
+    },
+    {
+      "id": "fin_023",
+      "icon": "fin_abwertung",
+      "arabic": {
+        "word": "خَفْضُ قِيمَةِ العُمْلَة",
+        "meaning": "تَخْفِيضٌ رَسْمِيٌّ مُتَعَمَّدٌ أَوْ سُوقِيٌّ لِسِعْرِ صَرْفِ عُمْلَةِ البِلَادِ مُقَابِلَ العُمْلَاتِ الأَجْنَبِيَّةِ"
+      },
+      "german": {
+        "word": "die Währungsabwertung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Währungsabwertungen",
+        "example": "Eine kontrollierte Währungsabwertung verbilligt Exporte, verteuert aber gleichzeitig lebensnotwendige Importe."
+      },
+      "english": {
+        "word": "currency devaluation",
+        "example": "A controlled currency devaluation cheapens exports but simultaneously inflates essential imports."
+      }
+    },
+    {
+      "id": "fin_024",
+      "icon": "fin_greenbond",
+      "arabic": {
+        "word": "السَّنَدَاتُ الخَضْرَاء",
+        "meaning": "أَدَوَاتُ دَيْنٍ حُكُومِيَّةٌ أَوْ شَرِكَاتِيَّةٌ تُخَصَّصُ حَصِيلَتُهَا حَصْرًا لِتَمْوِيلِ مَشَارِيعَ بِيئِيَّةٍ مُسْتَدَامَةٍ"
+      },
+      "german": {
+        "word": "die grüne Anleihe",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die grünen Anleihen",
+        "example": "Grüne Anleihen erfreuen sich wachsender Beliebtheit bei institutionellen ESG-Investoren."
+      },
+      "english": {
+        "word": "green bond",
+        "example": "Green bonds enjoy growing popularity among institutional ESG investors."
+      }
+    },
+    {
+      "id": "fin_025",
+      "icon": "fin_aufsicht",
+      "arabic": {
+        "word": "هَيْئَةُ الرَّقَابَةِ المَالِيَّة (بَافِين)",
+        "meaning": "المُؤَسَّسَةُ الفِيدْرَالِيَّةُ العُلْيَا المَسْؤُولَةُ عَنْ حِمَايَةِ المُسْتَثْمِرِينَ وَضَمَانِ نَزَاهَةِ الأَسْوَاقِ المَالِيَّةِ"
+      },
+      "german": {
+        "word": "die Bundesanstalt für Finanzdienstleistungsaufsicht",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Finanzdienstleistungsaufsichten",
+        "example": "Die BaFin überwacht Banken, Versicherer und den Wertpapierhandel in Deutschland lückenlos."
+      },
+      "english": {
+        "word": "Federal Financial Supervisory Authority (BaFin)",
+        "example": "BaFin seamlessly supervises banks, insurers, and securities trading in Germany."
+      }
+    }
+  ]
+}
