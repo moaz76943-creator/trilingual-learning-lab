@@ -1,0 +1,488 @@
+{
+  "category_id": "encyclopedic_synthesis_c1",
+  "category_number": 67,
+  "level": "C1",
+  "title": {
+    "ar": "الموسوعية العلمية الشاملة وتوليف الحضارات",
+    "de": "Universelle Enzyklopädik & Zivilisationssynthese",
+    "en": "Universal Encyclopedic Synthesis & Civilizational Dialogue"
+  },
+  "icon": "ens_universalgelehrter",
+  "concepts": [
+    {
+      "id": "ens_001",
+      "icon": "ens_universalgelehrter",
+      "arabic": {
+        "word": "العَالِمُ المَوْسُوعِيّ",
+        "meaning": "شَخْصٌ يَمْتَلِكُ مَعَارِفَ عَمِيقَةً وَشَامِلَةً فِي مَجَالَاتٍ عِلْمِيَّةٍ وَفَلْسَفِيَّةٍ وَفَنِّيَّةٍ مُتَعَدِّدَةٍ"
+      },
+      "german": {
+        "word": "der Universalgelehrte",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Universalgelehrten",
+        "example": "Gottfried Wilhelm Leibniz und Ibn Sina verkörperten das Ideal des Universalgelehrten in Reinform."
+      },
+      "english": {
+        "word": "polymath / Renaissance person",
+        "example": "Gottfried Wilhelm Leibniz and Avicenna embodied the pure ideal of the polymath."
+      }
+    },
+    {
+      "id": "ens_002",
+      "icon": "ens_transdisziplinaritaet",
+      "arabic": {
+        "word": "عُبُورُ التَّخَصُّصَات",
+        "meaning": "نَهْجٌ بَحْثِيٌّ يَتَجَاوَزُ الحُدُودَ التَّقْلِيدِيَّةَ بَيْنَ العُلُومِ لِحَلِّ الإِشْكَالَاتِ الكَوْنِيَّةِ المُعَقَّدَةِ"
+      },
+      "german": {
+        "word": "die Transdisziplinarität",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Transdisziplinaritäten",
+        "example": "Die Bewältigung globaler Krisen erfordert gelebte Transdisziplinarität zwischen Natur- und Geisteswissenschaften."
+      },
+      "english": {
+        "word": "transdisciplinarity",
+        "example": "Overcoming global crises demands genuine transdisciplinarity between the natural sciences and humanities."
+      }
+    },
+    {
+      "id": "ens_003",
+      "icon": "ens_zivilisationsdialog",
+      "arabic": {
+        "word": "حِوَارُ الحَضَارَات",
+        "meaning": "تَوَاصُلٌ مَعْرِفِيٌّ وَثَقَافِيٌّ بَنَّاءٌ يَقُومُ عَلَى الِاحْتِرَامِ المُتَبَادَلِ وَالتَّعَلُّمِ المُشْتَرَكِ بَيْنَ الشُّعُوبِ"
+      },
+      "german": {
+        "word": "der Zivilisationsdialog",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Zivilisationsdialoge",
+        "example": "Der Zivilisationsdialog widerlegt die These vom unvermeidlichen Zusammenprall der Kulturen."
+      },
+      "english": {
+        "word": "civilizational dialogue",
+        "example": "Civilizational dialogue refutes the thesis of an inevitable clash of civilizations."
+      }
+    },
+    {
+      "id": "ens_004",
+      "icon": "ens_weltkulturerbe",
+      "arabic": {
+        "word": "التُّرَاثُ الثَّقَافِيُّ العَالَمِيّ",
+        "meaning": "المَعَالِمُ وَالمَوَاقِعُ ذَاتُ القِيمَةِ الإِنْسَانِيَّةِ الاسْتِثْنَائِيَّةِ الَّتِي تُقِرُّ اليُونِسْكُو بِوُجُوبِ حِمَايَتِهَا"
+      },
+      "german": {
+        "word": "das Weltkulturerbe",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Weltkulturerbestätten",
+        "example": "Historische Altstädte und antike Ruinen gehören zum unersetzlichen Weltkulturerbe der Menschheit."
+      },
+      "english": {
+        "word": "World Cultural Heritage",
+        "example": "Historic city centers and ancient ruins belong to the irreplaceable World Cultural Heritage of humanity."
+      }
+    },
+    {
+      "id": "ens_005",
+      "icon": "ens_systemtheorie",
+      "arabic": {
+        "word": "نَظَرِيَّةُ النُّظُمِ الكُلِّيَّة",
+        "meaning": "إِطَارٌ عِلْمِيٌّ شَامِلٌ يُفَسِّرُ الظَّوَاهِرَ كَشَبَكَاتٍ مِنَ العَنَاصِرِ المُتَفَاعِلَةِ دَاخِلَ كُلٍّ وَاحِدٍ"
+      },
+      "german": {
+        "word": "die ganzheitliche Systemtheorie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Systemtheorien",
+        "example": "Die ganzheitliche Systemtheorie begreift die Biosphäre und menschliche Gesellschaften als gekoppelte Ökosysteme."
+      },
+      "english": {
+        "word": "holistic systems theory",
+        "example": "Holistic systems theory conceives the biosphere and human societies as coupled ecosystems."
+      }
+    },
+    {
+      "id": "ens_006",
+      "icon": "ens_universalgeschichte",
+      "arabic": {
+        "word": "التَّارِيخُ العَالَمِيُّ الشَّامِل",
+        "meaning": "كِتَابَةُ التَّارِيخِ مِنْ مَنْظُورٍ كَوْنِيٍّ يَتَتَبَّعُ المَسَارَ الحَضَارِيَّ لِلْبَشَرِيَّةِ دُونَ حَصْرِهِ فِي قَوْمِيَّةٍ وَاحِدَةٍ"
+      },
+      "german": {
+        "word": "die Universalgeschichte",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Universalgeschichten",
+        "example": "Ibn Khalduns 'Muqaddimah' gilt als meisterhafter Grundstein einer soziologischen Universalgeschichte."
+      },
+      "english": {
+        "word": "universal history",
+        "example": "Ibn Khaldun's 'Muqaddimah' is considered a masterful cornerstone of sociological universal history."
+      }
+    },
+    {
+      "id": "ens_007",
+      "icon": "ens_humanismus",
+      "arabic": {
+        "word": "الإِنْسَانِيَّةُ الكَوْنِيَّة",
+        "meaning": "فَلْسَفَةٌ أَخْلَاقِيَّةٌ تُؤَكِّدُ عَلَى كَرَامَةِ وَحُقُوقِ وَمَسْؤُولِيَّةِ الإِنْسَانِ بِوَصْفِهِ كَائِنًا عَالَمِيًّا مُتَضَامِنًا"
+      },
+      "german": {
+        "word": "der kosmopolitische Humanismus",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Humanismen",
+        "example": "Ein kosmopolitischer Humanismus überwindet nationale Engstirnigkeit zugunsten weltweiter Solidarität."
+      },
+      "english": {
+        "word": "cosmopolitan humanism",
+        "example": "Cosmopolitan humanism transcends national narrow-mindedness in favor of worldwide solidarity."
+      }
+    },
+    {
+      "id": "ens_008",
+      "icon": "ens_menschheitserbe",
+      "arabic": {
+        "word": "التُّرَاثُ الإِنْسَانِيُّ المُشْتَرَك",
+        "meaning": "المَبْدَأُ القَانُونِيُّ الدَّوْلِيُّ الَّذِي يَعْتَبِرُ الفَضَاءَ وَأَعْمَاقَ البِحَارِ مِلْكِيَّةً مُشْتَرَكَةً لَا يَجُوزُ اسْتِئْثَارُهَا"
+      },
+      "german": {
+        "word": "das gemeinsame Erbe der Menschheit",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Menschheitsgüter",
+        "example": "Die Ressourcen des Tiefseebodens sind völkerrechtlich als gemeinsames Erbe der Menschheit deklariert."
+      },
+      "english": {
+        "word": "common heritage of humanity",
+        "example": "The resources of the deep seabed are declared under international law as the common heritage of humanity."
+      }
+    },
+    {
+      "id": "ens_009",
+      "icon": "ens_episteme",
+      "arabic": {
+        "word": "الجَمَاعَةُ المَعْرِفِيَّة",
+        "meaning": "شَبَكَةٌ مِنَ الخُبَرَاءِ وَالعُلَمَاءِ تَتَشَارَكُ مَعَايِيرَ وَمَنْظُومَاتِ فَهْمٍ تُرْشِدُ صَانِعِي القَرَارَاتِ"
+      },
+      "german": {
+        "word": "die epistemische Gemeinschaft",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die epistemischen Gemeinschaften",
+        "example": "Die internationale Klimaforschung bildet eine einflussreiche epistemische Gemeinschaft bei UN-Gipfeln."
+      },
+      "english": {
+        "word": "epistemic community",
+        "example": "International climate research forms an influential epistemic community at UN summits."
+      }
+    },
+    {
+      "id": "ens_010",
+      "icon": "ens_hermeneutik",
+      "arabic": {
+        "word": "التَّأْوِيلِيَّةُ عَابِرَةُ الثَّقَافَات",
+        "meaning": "مَنْهَجُ فَهْمِ وَتَرْجَمَةِ النُّصُوصِ وَالمَفَاهِيمِ عَبْرَ السِّيَاقَاتِ الحَضَارِيَّةِ المُتَبَايِنَةِ دُونَ تَشْوِيهٍ"
+      },
+      "german": {
+        "word": "die interkulturelle Hermeneutik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die interkulturellen Hermeneutiken",
+        "example": "Interkulturelle Hermeneutik ermöglicht das wechselseitige Verstehen religiöser und philosophischer Quellentexte."
+      },
+      "english": {
+        "word": "intercultural hermeneutics",
+        "example": "Intercultural hermeneutics enables the mutual understanding of religious and philosophical source texts."
+      }
+    },
+    {
+      "id": "ens_011",
+      "icon": "ens_wissenschaftsethik",
+      "arabic": {
+        "word": "أَخْلَاقِيَّاتُ البَحْثِ العِلْمِيّ",
+        "meaning": "المَبَادِئُ المِعْيَارِيَّةُ الَّتِي تَضْبِطُ مَسْؤُولِيَّةَ العُلَمَاءِ عَنْ نَتَائِجِ وَتَطْبِيقَاتِ أَبْحَاثِهِمْ تِجَاهَ المُجْتَمَعِ"
+      },
+      "german": {
+        "word": "die Wissenschaftsethik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Wissenschaftsethiken",
+        "example": "Gentechnik und Quantencomputing verlangen eine vorausschauende und strenge Wissenschaftsethik."
+      },
+      "english": {
+        "word": "ethics of science / research integrity",
+        "example": "Genetic engineering and quantum computing demand a proactive and rigorous ethics of science."
+      }
+    },
+    {
+      "id": "ens_012",
+      "icon": "ens_aufklaerung",
+      "arabic": {
+        "word": "مُثُلُ التَّنْوِير",
+        "meaning": "قِيَمُ العَقْلَانِيَّةِ، النَّقْدِ الذَّاتِيِّ، التَّسَامُحِ، وَالتَّحَرُّرِ مِنَ الوِصَايَةِ الفِكْرِيَّةِ"
+      },
+      "german": {
+        "word": "das Aufklärungsideal",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Aufklärungsideale",
+        "example": "Kants Definition von Aufklärung als Ausgang aus selbstverschuldeter Unmündigkeit bleibt ein zeitloses Ideal."
+      },
+      "english": {
+        "word": "Enlightenment ideal",
+        "example": "Kant's definition of Enlightenment as emergence from self-incurred immaturity remains a timeless ideal."
+      }
+    },
+    {
+      "id": "ens_013",
+      "icon": "ens_erkenntnisfortschritt",
+      "arabic": {
+        "word": "التَّرَاكُمُ المَعْرِفِيّ",
+        "meaning": "النُّمُوُّ التَّرَاكُمِيُّ لِلْمَعْرِفَةِ البَشَرِيَّةِ عَبْرَ التَّصْحِيحِ الذَّاتِيِّ المُسْتَمِرِّ لِلنَّظَرِيَّاتِ"
+      },
+      "german": {
+        "word": "der Erkenntnisfortschritt",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Erkenntnisfortschritte",
+        "example": "Wissenschaftlicher Erkenntnisfortschritt vollzieht sich durch empirische Überprüfung und Falsifikation."
+      },
+      "english": {
+        "word": "advancement of knowledge / epistemic progress",
+        "example": "Scientific advancement of knowledge takes place through empirical verification and falsification."
+      }
+    },
+    {
+      "id": "ens_014",
+      "icon": "ens_redlichkeit",
+      "arabic": {
+        "word": "النَّزَاهَةُ الفِكْرِيَّة",
+        "meaning": "الالْتِزَامُ الصَّادِقُ بِالحَقِيقَةِ وَتَقْدِيمِ الأَدِلَّةِ بِمَوْضُوعِيَّةٍ حَتَّى لَوْ خَالَفَتْ رَغَبَاتِ البَاحِثِ"
+      },
+      "german": {
+        "word": "die intellektuelle Redlichkeit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die intellektuellen Redlichkeiten",
+        "example": "Intellektuelle Redlichkeit gebietet es, auch stichhaltige Gegenargumente unvoreingenommen zu prüfen."
+      },
+      "english": {
+        "word": "intellectual integrity",
+        "example": "Intellectual integrity requires examining valid counter-arguments without bias."
+      }
+    },
+    {
+      "id": "ens_015",
+      "icon": "ens_bildung",
+      "arabic": {
+        "word": "التَّعْلِيمُ الشُّمُولِيّ (البِيلْدُنْغ)",
+        "meaning": "المَفْهُومُ الهُومْبُولْدِتِيُّ لِتَنْمِيَةِ كَافَّةِ قُوَى الشَّخْصِيَّةِ وَالتَّفْكِيرِ النَّقْدِيِّ وَلَيْسَ مُجَرَّدَ التَّدْرِيبِ المِهْنِيِّ"
+      },
+      "german": {
+        "word": "die holistische Bildung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die holistischen Bildungskonzepte",
+        "example": "Wilhelm von Humboldts universales Bildungsideal verbindet fachliche Exzellenz mit persönlicher Reife."
+      },
+      "english": {
+        "word": "holistic education / Bildung",
+        "example": "Wilhelm von Humboldt's universal education ideal combines professional excellence with personal maturity."
+      }
+    },
+    {
+      "id": "ens_016",
+      "icon": "ens_pluralismus",
+      "arabic": {
+        "word": "التَّعَدُّدِيَّةُ المَنْهَجِيَّة",
+        "meaning": "قَبُولُ وَتَطْبِيقُ عِدَّةِ مَنَاهِجَ بَحْثِيَّةٍ (كَمِّيَّةٍ وَكَيْفِيَّةٍ) لِإِحَاطَةٍ أَوْسَعَ بِالظَّوَاهِرِ"
+      },
+      "german": {
+        "word": "der Methodenpluralismus",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Methodenpluralismen",
+        "example": "In den Sozialwissenschaften bereichert der Methodenpluralismus die Tiefe empirischer Befunde."
+      },
+      "english": {
+        "word": "methodological pluralism",
+        "example": "In the social sciences, methodological pluralism enriches the depth of empirical findings."
+      }
+    },
+    {
+      "id": "ens_017",
+      "icon": "ens_konvergenz",
+      "arabic": {
+        "word": "التَّقَارُبُ الثَّقَافِيّ",
+        "meaning": "تَزَايُدُ التَّشَابُهِ وَالتَّوَافُقِ فِي القِيَمِ الإِنْسَانِيَّةِ وَالمُمَارَسَاتِ بَيْنَ المُجْتَمَعَاتِ بِفِعْلِ التَّوَاصُلِ"
+      },
+      "german": {
+        "word": "die Kulturkonvergenz",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Kulturkonvergenzen",
+        "example": "Globale Kommunikationstechnologien beschleunigen die Kulturkonvergenz bei universellen Menschenrechtsfragen."
+      },
+      "english": {
+        "word": "cultural convergence",
+        "example": "Global communication technologies accelerate cultural convergence regarding universal human rights issues."
+      }
+    },
+    {
+      "id": "ens_018",
+      "icon": "ens_weltbuergertum",
+      "arabic": {
+        "word": "المُوَاطَنَةُ العَالَمِيَّة (الكُوسْمُوبُولِيتِيَّة)",
+        "meaning": "الشُّعُورُ بِالانْتِمَاءِ لِلأُسْرَةِ البَشَرِيَّةِ جَمْعَاءَ وَتَحَمُّلِ المَسْؤُولِيَّةِ عَنْ كَوْكَبِ الأَرْضِ"
+      },
+      "german": {
+        "word": "das Weltbürgertum",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Weltbürgertümer",
+        "example": "Das antike stoische Weltbürgertum fand in Kants Schrift 'Zum ewigen Frieden' seine moderne Gestalt."
+      },
+      "english": {
+        "word": "world citizenship / cosmopolitanism",
+        "example": "Ancient Stoic world citizenship found its modern formulation in Kant's treatise 'Perpetual Peace'."
+      }
+    },
+    {
+      "id": "ens_019",
+      "icon": "ens_synthese",
+      "arabic": {
+        "word": "القُدْرَةُ التَّرْكِيبِيَّة (التَّوْلِيفِيَّة)",
+        "meaning": "المَلَكَةُ الذِّهْنِيَّةُ الَّتِي تُوَحِّدُ الأَفْكَارَ وَالمَعْلُومَاتِ المُتَبَاعِدَةَ فِي نَسَقٍ مَعْرِفِيٍّ مُتَنَاغِمٍ"
+      },
+      "german": {
+        "word": "die Synthesefähigkeit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Synthesefähigkeiten",
+        "example": "In der Ära der Informationsüberflutung ist analytische Synthesefähigkeit die wertvollste kognitive Eigenschaft."
+      },
+      "english": {
+        "word": "synthesis capability / integrative thinking",
+        "example": "In an era of information overload, analytical synthesis capability is the most valuable cognitive trait."
+      }
+    },
+    {
+      "id": "ens_020",
+      "icon": "ens_denktradition",
+      "arabic": {
+        "word": "المَوْرُوثُ الفِكْرِيّ",
+        "meaning": "المَنْظُومَةُ التَّارِيخِيَّةُ المُتَوَارَثَةُ مِنَ الرُّؤَى وَالفَلْسَفَاتِ الَّتِي تُمَيِّزُ أُمَّةً أَوْ حَضَارَةً"
+      },
+      "german": {
+        "word": "die Denktradition",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Denktraditionen",
+        "example": "Die abendländische Denktradition verdankt ihre Dynamik dem fruchtbaren Dialog mit arabischen Philosophen."
+      },
+      "english": {
+        "word": "intellectual tradition",
+        "example": "Western intellectual tradition owes its dynamism to fertile dialogue with Arab philosophers."
+      }
+    },
+    {
+      "id": "ens_021",
+      "icon": "ens_geistesgeschichte",
+      "arabic": {
+        "word": "تَارِيخُ الأَفْكَار",
+        "meaning": "عِلْمٌ يَتَتَبَّعُ نَشْأَةَ وَتَحَوُّلَ المَفَاهِيمِ الفَلْسَفِيَّةِ وَالعِلْمِيَّةِ الكُبْرَى عَبْرَ العُصُورِ"
+      },
+      "german": {
+        "word": "die Geistesgeschichte",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Geistesgeschichten",
+        "example": "Die Geistesgeschichte belegt, wie wissenschaftliche Revolutionen stets mit gesellschaftlichen Umbrüchen einhergehen."
+      },
+      "english": {
+        "word": "intellectual history / history of ideas",
+        "example": "Intellectual history demonstrates how scientific revolutions always accompany social transformations."
+      }
+    },
+    {
+      "id": "ens_022",
+      "icon": "ens_interdependenz",
+      "arabic": {
+        "word": "التَّرَابُطُ الوَثِيقُ بَيْنَ العُلُوم",
+        "meaning": "العَلَاقَةُ التَّكَامُلِيَّةُ الَّتِي تَجْعَلُ تَقَدُّمَ عِلْمٍ مَرْهُونًا بِمُعْطَيَاتِ العُلُومِ الأُخْرَى"
+      },
+      "german": {
+        "word": "die Interdependenz der Disziplinen",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Interdependenzen der Disziplinen",
+        "example": "Bioinformatik veranschaulicht die produktive Interdependenz von Biologie, Informatik und Mathematik."
+      },
+      "english": {
+        "word": "interdependence of disciplines",
+        "example": "Bioinformatics illustrates the productive interdependence of biology, computer science, and mathematics."
+      }
+    },
+    {
+      "id": "ens_023",
+      "icon": "ens_universalwissen",
+      "arabic": {
+        "word": "المَعْرِفَةُ الكُلِّيَّة (البَانْسُوفْيَا)",
+        "meaning": "المَطْمَحُ الفَلْسَفِيُّ التَّارِيخِيُّ لِإِدْرَاكِ كُلِّيَّةِ العُلُومِ وَرَبْطِهَا بِمَبْدَأٍ حِكْمِيٍّ جَامِعٍ"
+      },
+      "german": {
+        "word": "das Universalwissen (die Pansophie)",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Universalwissensbestände",
+        "example": "Comenius entwarf das Konzept der Pansophie als universelles Wissen zur Bildung aller Menschen."
+      },
+      "english": {
+        "word": "universal knowledge / pansophia",
+        "example": "Comenius conceived pansophia as universal knowledge for the education of all mankind."
+      }
+    },
+    {
+      "id": "ens_024",
+      "icon": "ens_koexistenz",
+      "arabic": {
+        "word": "التَّعَايُشُ السِّلْمِيُّ الحَضَارِيّ",
+        "meaning": "العَيْشُ المُشْتَرَكُ القَائِمُ عَلَى نَبْذِ الحُرُوبِ وَالتَّعَاوُنِ الإِيجَابِيِّ بَيْنَ الشُّعُوبِ ذَاتِ المَذَاهِبِ المُتَبَايِنَةِ"
+      },
+      "german": {
+        "word": "die friedliche Koexistenz",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die friedlichen Koexistenzen",
+        "example": "Friedliche Koexistenz verlangt den Verzicht auf gewaltsame Grenzveränderungen und die Ächtung von Aggression."
+      },
+      "english": {
+        "word": "peaceful coexistence",
+        "example": "Peaceful coexistence requires renouncing violent border changes and outlawing aggression."
+      }
+    },
+    {
+      "id": "ens_025",
+      "icon": "ens_erbe",
+      "arabic": {
+        "word": "إِرْثُ التَّنْوِيرِ وَالعَقْلَانِيَّة",
+        "meaning": "المَنْظُومَةُ القِيَمِيَّةُ القَائِمَةُ عَلَى سِيَادَةِ العَقْلِ، الحُرِّيَّاتِ الفَرْدِيَّةِ، وَالعَدَالَةِ المَدَنِيَّةِ"
+      },
+      "german": {
+        "word": "das Erbe der Aufklärung",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Erbschaften der Aufklärung",
+        "example": "Moderne demokratische Verfassungen verteidigen das unteilbare Erbe der europäischen und arabischen Aufklärung."
+      },
+      "english": {
+        "word": "legacy of the Enlightenment",
+        "example": "Modern democratic constitutions defend the indivisible legacy of the Enlightenment."
+      }
+    }
+  ]
+}

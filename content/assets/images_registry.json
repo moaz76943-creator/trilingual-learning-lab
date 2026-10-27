@@ -7735,6 +7735,131 @@
       "path": "content/assets/svg/poet_distanz.svg",
       "type": "vector_svg",
       "category": "poetics_aesthetics_c1"
+    },
+    "ens_universalgelehrter": {
+      "path": "content/assets/svg/ens_universalgelehrter.svg",
+      "type": "vector_svg",
+      "category": "encyclopedic_synthesis_c1"
+    },
+    "ens_transdisziplinaritaet": {
+      "path": "content/assets/svg/ens_transdisziplinaritaet.svg",
+      "type": "vector_svg",
+      "category": "encyclopedic_synthesis_c1"
+    },
+    "ens_zivilisationsdialog": {
+      "path": "content/assets/svg/ens_zivilisationsdialog.svg",
+      "type": "vector_svg",
+      "category": "encyclopedic_synthesis_c1"
+    },
+    "ens_weltkulturerbe": {
+      "path": "content/assets/svg/ens_weltkulturerbe.svg",
+      "type": "vector_svg",
+      "category": "encyclopedic_synthesis_c1"
+    },
+    "ens_systemtheorie": {
+      "path": "content/assets/svg/ens_systemtheorie.svg",
+      "type": "vector_svg",
+      "category": "encyclopedic_synthesis_c1"
+    },
+    "ens_universalgeschichte": {
+      "path": "content/assets/svg/ens_universalgeschichte.svg",
+      "type": "vector_svg",
+      "category": "encyclopedic_synthesis_c1"
+    },
+    "ens_humanismus": {
+      "path": "content/assets/svg/ens_humanismus.svg",
+      "type": "vector_svg",
+      "category": "encyclopedic_synthesis_c1"
+    },
+    "ens_menschheitserbe": {
+      "path": "content/assets/svg/ens_menschheitserbe.svg",
+      "type": "vector_svg",
+      "category": "encyclopedic_synthesis_c1"
+    },
+    "ens_episteme": {
+      "path": "content/assets/svg/ens_episteme.svg",
+      "type": "vector_svg",
+      "category": "encyclopedic_synthesis_c1"
+    },
+    "ens_hermeneutik": {
+      "path": "content/assets/svg/ens_hermeneutik.svg",
+      "type": "vector_svg",
+      "category": "encyclopedic_synthesis_c1"
+    },
+    "ens_wissenschaftsethik": {
+      "path": "content/assets/svg/ens_wissenschaftsethik.svg",
+      "type": "vector_svg",
+      "category": "encyclopedic_synthesis_c1"
+    },
+    "ens_aufklaerung": {
+      "path": "content/assets/svg/ens_aufklaerung.svg",
+      "type": "vector_svg",
+      "category": "encyclopedic_synthesis_c1"
+    },
+    "ens_erkenntnisfortschritt": {
+      "path": "content/assets/svg/ens_erkenntnisfortschritt.svg",
+      "type": "vector_svg",
+      "category": "encyclopedic_synthesis_c1"
+    },
+    "ens_redlichkeit": {
+      "path": "content/assets/svg/ens_redlichkeit.svg",
+      "type": "vector_svg",
+      "category": "encyclopedic_synthesis_c1"
+    },
+    "ens_bildung": {
+      "path": "content/assets/svg/ens_bildung.svg",
+      "type": "vector_svg",
+      "category": "encyclopedic_synthesis_c1"
+    },
+    "ens_pluralismus": {
+      "path": "content/assets/svg/ens_pluralismus.svg",
+      "type": "vector_svg",
+      "category": "encyclopedic_synthesis_c1"
+    },
+    "ens_konvergenz": {
+      "path": "content/assets/svg/ens_konvergenz.svg",
+      "type": "vector_svg",
+      "category": "encyclopedic_synthesis_c1"
+    },
+    "ens_weltbuergertum": {
+      "path": "content/assets/svg/ens_weltbuergertum.svg",
+      "type": "vector_svg",
+      "category": "encyclopedic_synthesis_c1"
+    },
+    "ens_synthese": {
+      "path": "content/assets/svg/ens_synthese.svg",
+      "type": "vector_svg",
+      "category": "encyclopedic_synthesis_c1"
+    },
+    "ens_denktradition": {
+      "path": "content/assets/svg/ens_denktradition.svg",
+      "type": "vector_svg",
+      "category": "encyclopedic_synthesis_c1"
+    },
+    "ens_geistesgeschichte": {
+      "path": "content/assets/svg/ens_geistesgeschichte.svg",
+      "type": "vector_svg",
+      "category": "encyclopedic_synthesis_c1"
+    },
+    "ens_interdependenz": {
+      "path": "content/assets/svg/ens_interdependenz.svg",
+      "type": "vector_svg",
+      "category": "encyclopedic_synthesis_c1"
+    },
+    "ens_universalwissen": {
+      "path": "content/assets/svg/ens_universalwissen.svg",
+      "type": "vector_svg",
+      "category": "encyclopedic_synthesis_c1"
+    },
+    "ens_koexistenz": {
+      "path": "content/assets/svg/ens_koexistenz.svg",
+      "type": "vector_svg",
+      "category": "encyclopedic_synthesis_c1"
+    },
+    "ens_erbe": {
+      "path": "content/assets/svg/ens_erbe.svg",
+      "type": "vector_svg",
+      "category": "encyclopedic_synthesis_c1"
     }
   }
 }
