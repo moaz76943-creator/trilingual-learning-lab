@@ -7235,6 +7235,131 @@
       "path": "content/assets/svg/phil_korrespondenz.svg",
       "type": "vector_svg",
       "category": "philosophy_language_c1"
+    },
+    "sem_semiotik": {
+      "path": "content/assets/svg/sem_semiotik.svg",
+      "type": "vector_svg",
+      "category": "semiotics_anthropology_c1"
+    },
+    "sem_signifikat": {
+      "path": "content/assets/svg/sem_signifikat.svg",
+      "type": "vector_svg",
+      "category": "semiotics_anthropology_c1"
+    },
+    "sem_signifikant": {
+      "path": "content/assets/svg/sem_signifikant.svg",
+      "type": "vector_svg",
+      "category": "semiotics_anthropology_c1"
+    },
+    "sem_anthropologie": {
+      "path": "content/assets/svg/sem_anthropologie.svg",
+      "type": "vector_svg",
+      "category": "semiotics_anthropology_c1"
+    },
+    "sem_strukturalismus": {
+      "path": "content/assets/svg/sem_strukturalismus.svg",
+      "type": "vector_svg",
+      "category": "semiotics_anthropology_c1"
+    },
+    "sem_ethnozentrismus": {
+      "path": "content/assets/svg/sem_ethnozentrismus.svg",
+      "type": "vector_svg",
+      "category": "semiotics_anthropology_c1"
+    },
+    "sem_kulturrelativismus": {
+      "path": "content/assets/svg/sem_kulturrelativismus.svg",
+      "type": "vector_svg",
+      "category": "semiotics_anthropology_c1"
+    },
+    "sem_tabu": {
+      "path": "content/assets/svg/sem_tabu.svg",
+      "type": "vector_svg",
+      "category": "semiotics_anthropology_c1"
+    },
+    "sem_ritual": {
+      "path": "content/assets/svg/sem_ritual.svg",
+      "type": "vector_svg",
+      "category": "semiotics_anthropology_c1"
+    },
+    "sem_sapirwhorf": {
+      "path": "content/assets/svg/sem_sapirwhorf.svg",
+      "type": "vector_svg",
+      "category": "semiotics_anthropology_c1"
+    },
+    "sem_mythos": {
+      "path": "content/assets/svg/sem_mythos.svg",
+      "type": "vector_svg",
+      "category": "semiotics_anthropology_c1"
+    },
+    "sem_ikonizitaet": {
+      "path": "content/assets/svg/sem_ikonizitaet.svg",
+      "type": "vector_svg",
+      "category": "semiotics_anthropology_c1"
+    },
+    "sem_index": {
+      "path": "content/assets/svg/sem_index.svg",
+      "type": "vector_svg",
+      "category": "semiotics_anthropology_c1"
+    },
+    "sem_symbol": {
+      "path": "content/assets/svg/sem_symbol.svg",
+      "type": "vector_svg",
+      "category": "semiotics_anthropology_c1"
+    },
+    "sem_interaktionismus": {
+      "path": "content/assets/svg/sem_interaktionismus.svg",
+      "type": "vector_svg",
+      "category": "semiotics_anthropology_c1"
+    },
+    "sem_ethnographie": {
+      "path": "content/assets/svg/sem_ethnographie.svg",
+      "type": "vector_svg",
+      "category": "semiotics_anthropology_c1"
+    },
+    "sem_dichtebeschreibung": {
+      "path": "content/assets/svg/sem_dichtebeschreibung.svg",
+      "type": "vector_svg",
+      "category": "semiotics_anthropology_c1"
+    },
+    "sem_initiation": {
+      "path": "content/assets/svg/sem_initiation.svg",
+      "type": "vector_svg",
+      "category": "semiotics_anthropology_c1"
+    },
+    "sem_enkulturation": {
+      "path": "content/assets/svg/sem_enkulturation.svg",
+      "type": "vector_svg",
+      "category": "semiotics_anthropology_c1"
+    },
+    "sem_gedaechtnis": {
+      "path": "content/assets/svg/sem_gedaechtnis.svg",
+      "type": "vector_svg",
+      "category": "semiotics_anthropology_c1"
+    },
+    "sem_aneignung": {
+      "path": "content/assets/svg/sem_aneignung.svg",
+      "type": "vector_svg",
+      "category": "semiotics_anthropology_c1"
+    },
+    "sem_diachronie": {
+      "path": "content/assets/svg/sem_diachronie.svg",
+      "type": "vector_svg",
+      "category": "semiotics_anthropology_c1"
+    },
+    "sem_synchronie": {
+      "path": "content/assets/svg/sem_synchronie.svg",
+      "type": "vector_svg",
+      "category": "semiotics_anthropology_c1"
+    },
+    "sem_bricolage": {
+      "path": "content/assets/svg/sem_bricolage.svg",
+      "type": "vector_svg",
+      "category": "semiotics_anthropology_c1"
+    },
+    "sem_totem": {
+      "path": "content/assets/svg/sem_totem.svg",
+      "type": "vector_svg",
+      "category": "semiotics_anthropology_c1"
     }
   }
 }

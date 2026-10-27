@@ -1,0 +1,488 @@
+{
+  "category_id": "semiotics_anthropology_c1",
+  "category_number": 63,
+  "level": "C1",
+  "title": {
+    "ar": "الأنثروبولوجيا الثقافية، السيميائيات واللسانيات البنيوية",
+    "de": "Kulturanthropologie, Semiotik & strukturalistische Linguistik",
+    "en": "Cultural Anthropology, Semiotics & Structural Linguistics"
+  },
+  "icon": "sem_semiotik",
+  "concepts": [
+    {
+      "id": "sem_001",
+      "icon": "sem_semiotik",
+      "arabic": {
+        "word": "عِلْمُ العَلَامَات (السِّيمْيَائِيَّات)",
+        "meaning": "الدِّرَاسَةُ العِلْمِيَّةُ لِلْعَلَامَاتِ وَالرُّمُوزِ وَأَنْظِمَةِ الدَّلَالَةِ وَكَيْفِيَّةِ صِنَاعَةِ المَعْنَى"
+      },
+      "german": {
+        "word": "die Semiotik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Semiotiken",
+        "example": "Die moderne Semiotik analysiert nicht nur sprachliche Zeichen, sondern auch visuelle Codes in der Werbung."
+      },
+      "english": {
+        "word": "semiotics",
+        "example": "Modern semiotics analyzes not only verbal signs, but also visual codes in advertising."
+      }
+    },
+    {
+      "id": "sem_002",
+      "icon": "sem_signifikat",
+      "arabic": {
+        "word": "المَدْلُول (المَفْهُومُ الذِّهْنِيّ)",
+        "meaning": "الفِكْرَةُ أَوْ التَّصَوُّرُ العَقْلِيُّ الَّذِي تُشِيرُ إِلَيْهِ العَلَامَةُ اللُّغَوِيَّةُ"
+      },
+      "german": {
+        "word": "das Signifikat",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Signifikate",
+        "example": "Nach Ferdinand de Saussure ist das Signifikat die mentale Vorstellung, die ein sprachlicher Ausdruck hervorruft."
+      },
+      "english": {
+        "word": "signified (signifié)",
+        "example": "According to Ferdinand de Saussure, the signified is the mental concept evoked by a linguistic expression."
+      }
+    },
+    {
+      "id": "sem_003",
+      "icon": "sem_signifikant",
+      "arabic": {
+        "word": "الدَّالّ (الصُّورَةُ الصَّوْتِيَّة)",
+        "meaning": "الشَّكْلُ المَادِّيُّ أَوِ الصَّوْتِيُّ أَوِ الكِتَابِيُّ لِلْعَلَامَةِ اللُّغَوِيَّةِ"
+      },
+      "german": {
+        "word": "der Signifikant",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Signifikanten",
+        "example": "Der Signifikant ist das materielle Lautbild, das untrennbar mit dem geistigen Signifikat verbunden ist."
+      },
+      "english": {
+        "word": "signifier (signifiant)",
+        "example": "The signifier is the material sound-image inseparably linked to the mental signified."
+      }
+    },
+    {
+      "id": "sem_004",
+      "icon": "sem_anthropologie",
+      "arabic": {
+        "word": "الأَنْثْرُوبُولُوجْيَا الثَّقَافِيَّة",
+        "meaning": "عِلْمُ دِرَاسَةِ المُجْتَمَعَاتِ البَشَرِيَّةِ وَتَنَوُّعِ أَنْمَاطِ حَيَاتِهَا وَمَنْظُومَاتِهَا القِيَمِيَّةِ"
+      },
+      "german": {
+        "word": "die Kulturanthropologie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Kulturanthropologien",
+        "example": "Die Kulturanthropologie untersucht Verwandschaftsstrukturen und Übergangsriten traditioneller Völker."
+      },
+      "english": {
+        "word": "cultural anthropology",
+        "example": "Cultural anthropology investigates kinship structures and rites of passage in traditional societies."
+      }
+    },
+    {
+      "id": "sem_005",
+      "icon": "sem_strukturalismus",
+      "arabic": {
+        "word": "المَذْهَبُ البِنْيَوِيّ",
+        "meaning": "نَهْجٌ فِكْرِيٌّ يُفَسِّرُ الظَّوَاهِرَ الثَّقَافِيَّةَ وَاللُّغَوِيَّةَ كَأَجْزَاءٍ مِنْ نِظَامٍ كُلِّيٍّ مُتَرَابِطِ العَلَاقَاتِ"
+      },
+      "german": {
+        "word": "der Strukturalismus",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Strukturalismen",
+        "example": "Claude Lévi-Strauss übertrug den linguistischen Strukturalismus auf die Erforschung von Mythen."
+      },
+      "english": {
+        "word": "structuralism",
+        "example": "Claude Lévi-Strauss applied linguistic structuralism to the study of cultural mythologies."
+      }
+    },
+    {
+      "id": "sem_006",
+      "icon": "sem_ethnozentrismus",
+      "arabic": {
+        "word": "التَّمَرْكُزُ العِرْقِيّ",
+        "meaning": "النَّزْعَةُ إِلَى الحُكْمِ عَلَى الثَّقَافَاتِ الأُخْرَى بِمَعَايِيرِ ثَقَافَةِ الفَرْدِ الخَاصَّةِ مَعَ اعْتِبَارِهَا الأَفْضَلَ"
+      },
+      "german": {
+        "word": "der Ethnozentrismus",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Ethnozentrismen",
+        "example": "Wissenschaftliche Feldforschung erfordert die kritische Reflexion des eigenen Ethnozentrismus."
+      },
+      "english": {
+        "word": "ethnocentrism",
+        "example": "Scientific fieldwork demands critical reflection on one's own ethnocentrism."
+      }
+    },
+    {
+      "id": "sem_007",
+      "icon": "sem_kulturrelativismus",
+      "arabic": {
+        "word": "النِّسْبِيَّةُ الثَّقَافِيَّة",
+        "meaning": "المَبْدَأُ القَائِلُ بِأَنَّ مُعْتَقَدَاتِ أَيِّ شَعْبٍ يَجِبُ أَنْ تُفْهَمَ فِي ضَوْءِ ثَقَافَتِهِ دُونَ إِصْدَارِ أَحْكَامٍ تَعَسُّفِيَّةٍ"
+      },
+      "german": {
+        "word": "der Kulturrelativismus",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Kulturrelativismen",
+        "example": "Der Kulturrelativismus warnt vor der voreiligen Universalisierung westlicher Wertmaßstäbe."
+      },
+      "english": {
+        "word": "cultural relativism",
+        "example": "Cultural relativism cautions against the premature universalization of Western value standards."
+      }
+    },
+    {
+      "id": "sem_008",
+      "icon": "sem_tabu",
+      "arabic": {
+        "word": "المَحْظُورُ الِاجْتِمَاعِيّ (الطَّابُو)",
+        "meaning": "تَحْرِيمٌ ثَقَافِيٌّ صَارِمٌ يُجْمِعُ المُجْتَمَعُ عَلَى حَظْرِهِ وَعَدَمِ الخَوْضِ فِيهِ"
+      },
+      "german": {
+        "word": "das Tabu",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Tabus",
+        "example": "Das Brechen eines gesellschaftlichen Tabus zieht oft tiefgreifende soziale Ächtung nach sich."
+      },
+      "english": {
+        "word": "taboo",
+        "example": "Breaking a societal taboo often entails profound social ostracism."
+      }
+    },
+    {
+      "id": "sem_009",
+      "icon": "sem_ritual",
+      "arabic": {
+        "word": "الطَّقْسُ الشَّعَائِرِيّ",
+        "meaning": "مُمَارَسَةٌ رَمْزِيَّةٌ مُتَكَرِّرَةٌ تَتَّبِعُ قَوَاعِدَ مُحَدَّدَةً لِتَعْزِيزِ التَّمَاسُكِ الجَمَاعِيِّ"
+      },
+      "german": {
+        "word": "das Ritual",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Rituale",
+        "example": "Gemeinschaftliche Rituale stiften Identität und strukturieren bedeutsame Lebensphasen."
+      },
+      "english": {
+        "word": "ritual",
+        "example": "Communal rituals foster identity and structure significant phases of human life."
+      }
+    },
+    {
+      "id": "sem_010",
+      "icon": "sem_sapirwhorf",
+      "arabic": {
+        "word": "فَرَضِيَّةُ سَابِير-وُورْف",
+        "meaning": "النَّظَرِيَّةُ الَّتِي تَرَى أَنَّ بِنْيَةَ اللُّغَةِ تُشَكِّلُ وَتُحَدِّدُ كَيْفِيَّةَ إِدْرَاكِ المَرْءِ لِلْعَالَمِ"
+      },
+      "german": {
+        "word": "die Sapir-Whorf-Hypothese",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Sapir-Whorf-Hypothesen",
+        "example": "Die Sapir-Whorf-Hypothese postuliert den prägenden Einfluss der Grammatik auf kognitive Denkmuster."
+      },
+      "english": {
+        "word": "Sapir-Whorf hypothesis (linguistic relativity)",
+        "example": "The Sapir-Whorf hypothesis postulates the shaping influence of grammar on cognitive patterns of thought."
+      }
+    },
+    {
+      "id": "sem_011",
+      "icon": "sem_mythos",
+      "arabic": {
+        "word": "الأُسْطُورَةُ التَّأْسِيسِيَّة",
+        "meaning": "رِوَايَةٌ رَمْزِيَّةٌ تُفَسِّرُ أَصْلَ الكَوْنِ أَوْ المَبَادِئَ الجَوْهَرِيَّةَ لِثَقَافَةٍ مَايَا"
+      },
+      "german": {
+        "word": "der Mythos",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Mythen",
+        "example": "Mythen tradieren existentielle Grundwahrheiten und begründen die sittliche Ordnung einer Gemeinschaft."
+      },
+      "english": {
+        "word": "myth / foundational mythology",
+        "example": "Myths transmit existential core truths and establish the moral order of a community."
+      }
+    },
+    {
+      "id": "sem_012",
+      "icon": "sem_ikonizitaet",
+      "arabic": {
+        "word": "الأَيْقُونِيَّة (المُحَاكَاةُ البَصَرِيَّة)",
+        "meaning": "عَلَاقَةُ التَّشَابُهِ المَادِّيِّ أَوْ البَصَرِيِّ المَبَاشِرِ بَيْنَ العَلَامَةِ وَمَوْضُوعِهَا فِي الوَاقِعِ"
+      },
+      "german": {
+        "word": "die Ikonizität",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Ikonizitäten",
+        "example": "Piktogramme auf internationalen Flughäfen basieren auf universeller Ikonizität zur schnellen Orientierung."
+      },
+      "english": {
+        "word": "iconicity",
+        "example": "Pictograms at international airports rely on universal iconicity for quick orientation."
+      }
+    },
+    {
+      "id": "sem_013",
+      "icon": "sem_index",
+      "arabic": {
+        "word": "القَرِينَةُ السِّيمْيَائِيَّة (المُؤَشِّر)",
+        "meaning": "عَلَامَةٌ تَرْتَبِطُ بِمَوْضُوعِهَا بِعَلَاقَةٍ عِلِّيَّةٍ سَبَبِيَّةٍ (كَارْتِبَاطِ الدُّخَانِ بِالنَّارِ)"
+      },
+      "german": {
+        "word": "der Index (indexikalisches Zeichen)",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Indizes",
+        "example": "Rauch gilt in Charles Sanders Peirces Zeichentheorie als klassischer Index für ein Feuer."
+      },
+      "english": {
+        "word": "indexical sign / index",
+        "example": "Smoke is considered a classic indexical sign of fire in Charles Sanders Peirce's semiotic theory."
+      }
+    },
+    {
+      "id": "sem_014",
+      "icon": "sem_symbol",
+      "arabic": {
+        "word": "الرَّمْزُ الاصْطِلَاحِيّ",
+        "meaning": "عَلَامَةٌ تَرْتَبِطُ بِمَعْنَاهَا اعْتِبَاطِيًّا عَبْرَ الِاتِّفَاقِ وَالعُرْفِ الِاجْتِمَاعِيِّ (كَالحُرُوفِ اللُّغَوِيَّةِ)"
+      },
+      "german": {
+        "word": "das Symbol",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Symbole",
+        "example": "Sprachliche Wörter sind primär Symbole, da ihre Beziehung zur Sache auf bloßer Konvention beruht."
+      },
+      "english": {
+        "word": "symbol",
+        "example": "Linguistic words are primarily symbols, as their relationship to the object rests on mere convention."
+      }
+    },
+    {
+      "id": "sem_015",
+      "icon": "sem_interaktionismus",
+      "arabic": {
+        "word": "التَّفَاعُلِيَّةُ الرَّمْزِيَّة",
+        "meaning": "نَظَرِيَّةٌ سُوسْيُولُوجِيَّةٌ تَرَى أَنَّ الأَفْرَادَ يَبْنُونَ مَعَانِيَ العَالَمِ عَبْرَ الرُّمُوزِ وَالتَّوَاصُلِ"
+      },
+      "german": {
+        "word": "der symbolische Interaktionismus",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die symbolischen Interaktionismen",
+        "example": "Der symbolische Interaktionismus betont, wie Menschen die soziale Wirklichkeit im Alltag gemeinsam aushandeln."
+      },
+      "english": {
+        "word": "symbolic interactionism",
+        "example": "Symbolic interactionism highlights how humans collaboratively negotiate social reality in everyday life."
+      }
+    },
+    {
+      "id": "sem_016",
+      "icon": "sem_ethnographie",
+      "arabic": {
+        "word": "الإِثْنُوغْرَافْيَا",
+        "meaning": "المَنْهَجُ البَحْثِيُّ القَائِمُ عَلَى المُعَايَشَةِ المَيْدَانِيَّةِ المُبَاشِرَةِ لِوَصْفِ ثَقَافَةِ مُجْتَمَعٍ مُعَيَّنٍ"
+      },
+      "german": {
+        "word": "die Ethnographie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Ethnographien",
+        "example": "Teilnehmende Beobachtung über mehrere Jahre ist die klassische Methode fundierter Ethnographie."
+      },
+      "english": {
+        "word": "ethnography",
+        "example": "Participant observation spanning several years represents the classic method of robust ethnography."
+      }
+    },
+    {
+      "id": "sem_017",
+      "icon": "sem_dichtebeschreibung",
+      "arabic": {
+        "word": "الوَصْفُ الكَثِيف (غِيرْتْز)",
+        "meaning": "تَسْجِيلُ السُّلُوكِ الإِنْسَانِيِّ لَا بِوَصْفِهِ حَرَكَةً مُجَرَّدَةً بَلْ بِاسْتِكْشَافِ دَلَالَاتِهِ وَسِيَاقِهِ المَعْرِفِيِّ"
+      },
+      "german": {
+        "word": "die dichte Beschreibung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die dichten Beschreibungen",
+        "example": "Clifford Geertz prägte die dichte Beschreibung zur Entschlüsselung symbolischer kultureller Handlungen."
+      },
+      "english": {
+        "word": "thick description",
+        "example": "Clifford Geertz coined thick description to decipher the symbolic layers of cultural acts."
+      }
+    },
+    {
+      "id": "sem_018",
+      "icon": "sem_initiation",
+      "arabic": {
+        "word": "طَقْسُ العُبُورِ (الانْتِسَاب)",
+        "meaning": "احْتِفَالٌ شَعَائِرِيٌّ يَنْقُلُ الفَرْدَ مِنْ مَكَانَةٍ اجْتِمَاعِيَّةٍ إِلَى أُخْرَى (كَالانْتِقَالِ مِنَ الطُّفُولَةِ لِلرُّشْدِ)"
+      },
+      "german": {
+        "word": "das Übergangsritual (Initiationsritus)",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Initiationsriten",
+        "example": "Arnold van Gennep gliederte das Übergangsritual in Trennungs-, Schwellen- und Angliederungsphasen."
+      },
+      "english": {
+        "word": "rite of passage / initiation rite",
+        "example": "Arnold van Gennep categorized rites of passage into separation, liminal, and integration phases."
+      }
+    },
+    {
+      "id": "sem_019",
+      "icon": "sem_enkulturation",
+      "arabic": {
+        "word": "التَّطْبِيعُ الثَّقَافِيّ (التَّثْقِيف)",
+        "meaning": "العَمَلِيَّةُ التَّدْرِيجِيَّةُ الَّتِي يَتَعَلَّمُ فِيهَا الطِّفْلُ مُنْذُ صِغَرِهِ قِيَمَ وَتَقَالِيدَ مُجْتَمَعِهِ"
+      },
+      "german": {
+        "word": "die Enkulturation",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Enkulturalisationen",
+        "example": "Durch Enkulturation verinnerlicht das aufwachsende Individuum unbewusst die Denkweisen seiner Kultur."
+      },
+      "english": {
+        "word": "enculturation",
+        "example": "Through enculturation, the developing individual unconsciously internalizes the mindsets of their culture."
+      }
+    },
+    {
+      "id": "sem_020",
+      "icon": "sem_gedaechtnis",
+      "arabic": {
+        "word": "الذَّاكِرَةُ الجَمْعِيَّة",
+        "meaning": "مَجْمُوعُ الذِّكْرَيَاتِ وَالمَعَارِفِ التَّارِيخِيَّةِ الَّتِي يَتَشَارَكُهَا شَعْبٌ لِتَرْسِيخِ هُوِيَّتِهِ"
+      },
+      "german": {
+        "word": "das kollektive Gedächtnis",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die kollektiven Gedächtnisse",
+        "example": "Das kollektive Gedächtnis wird durch Gedenkstätten, Feiertage und nationale Narrative lebendig gehalten."
+      },
+      "english": {
+        "word": "collective memory",
+        "example": "Collective memory is sustained through memorials, commemorative holidays, and national narratives."
+      }
+    },
+    {
+      "id": "sem_021",
+      "icon": "sem_aneignung",
+      "arabic": {
+        "word": "الاسْتِحْوَاذُ الثَّقَافِيّ",
+        "meaning": "تَبَنِّي عَنَاصِرَ مِنْ ثَقَافَةِ أَقَلِّيَّةٍ أَوْ شَعْبٍ مُسْتَضْعَفٍ دُونَ احْتِرَامِ سِيَاقِهَا التَّارِيخِيِّ"
+      },
+      "german": {
+        "word": "die kulturelle Aneignung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die kulturellen Aneignungen",
+        "example": "Die Debatte über kulturelle Aneignung verhandelt Machtasymmetrien bei der Übernahme indigener Symbole."
+      },
+      "english": {
+        "word": "cultural appropriation",
+        "example": "The debate on cultural appropriation addresses power asymmetries in adopting indigenous symbols."
+      }
+    },
+    {
+      "id": "sem_022",
+      "icon": "sem_diachronie",
+      "arabic": {
+        "word": "التَّحْلِيلُ التَّطَوُّرِيّ (الدِّيَاكْرُونِيَّة)",
+        "meaning": "دِرَاسَةُ اللُّغَةِ أَوْ الظَّاهِرَةِ الثَّقَافِيَّةِ فِي مَسَارِ تَطَوُّرِهَا وَتَغَيُّرِهَا عَبْرَ التَّارِيخِ"
+      },
+      "german": {
+        "word": "die Diachronie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Diachronien",
+        "example": "Die Diachronie verfolgt den Lautwandel germanischer Vokale über mehrere Jahrhunderte."
+      },
+      "english": {
+        "word": "diachrony / diachronic linguistics",
+        "example": "Diachrony traces the sound shift of Germanic vowels over several centuries."
+      }
+    },
+    {
+      "id": "sem_023",
+      "icon": "sem_synchronie",
+      "arabic": {
+        "word": "التَّحْلِيلُ التَّزَامُنِيّ (السِّينْكْرُونِيَّة)",
+        "meaning": "دِرَاسَةُ النِّظَامِ اللُّغَوِيِّ كَبِنْيَةٍ كَامِلَةٍ فِي لَحْظَةٍ زَمَنِيَّةٍ مُحَدَّدَةٍ بِغَضِّ النَّظَرِ عَنْ تَارِيخِهِ"
+      },
+      "german": {
+        "word": "die Synchronie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Synchronien",
+        "example": "Eine synchrone Sprachanalyse betrachtet das gegenwärtige Deutsch als geschlossenes Zeichensystem."
+      },
+      "english": {
+        "word": "synchrony / synchronic linguistics",
+        "example": "A synchronic linguistic analysis examines contemporary German as a self-contained sign system."
+      }
+    },
+    {
+      "id": "sem_024",
+      "icon": "sem_bricolage",
+      "arabic": {
+        "word": "البْرِيكُولَاج (التَّرْكِيبُ الارْتِجَالِيّ)",
+        "meaning": "قُدْرَةُ الفِكْرِ الأُسْطُورِيِّ عَلَى إِنْتَاجِ أَنْظِمَةٍ مَعْرِفِيَّةٍ جَدِيدَةٍ بِاسْتِخْدَامِ مَا هُوَ مُتَاحٌ مِنَ العَنَاصِرِ"
+      },
+      "german": {
+        "word": "die Bricolage (intellektuelles Basteln)",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Bricolagen",
+        "example": "Lévi-Strauss beschrieb das mythische Denken als kunstvolle Bricolage vorgefundener kultureller Versatzstücke."
+      },
+      "english": {
+        "word": "bricolage",
+        "example": "Lévi-Strauss described mythical thought as an artful bricolage of readily available cultural fragments."
+      }
+    },
+    {
+      "id": "sem_025",
+      "icon": "sem_totem",
+      "arabic": {
+        "word": "التُّوتَمُ القَبَلِيّ",
+        "meaning": "كَائِنٌ طَبِيعِيٌّ (حَيَوَانٌ أَوْ نَبَاتٌ) يُتَّخَذُ رَمْزًا مُقَدَّسًا يُجَسِّدُ رُوحَ وَأَصْلَ القَبِيلَةِ"
+      },
+      "german": {
+        "word": "das Totem",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Totems",
+        "example": "Das Totem stiftete in indigenen Gesellschaften die soziale Identität und regelte Heiratsverbote."
+      },
+      "english": {
+        "word": "totem",
+        "example": "In indigenous societies, the totem established social identity and governed exogamous marriage taboos."
+      }
+    }
+  ]
+}
