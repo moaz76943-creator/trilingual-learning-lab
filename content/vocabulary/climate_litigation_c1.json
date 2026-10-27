@@ -1,0 +1,488 @@
+{
+  "category_id": "climate_litigation_c1",
+  "category_number": 55,
+  "level": "C1",
+  "title": {
+    "ar": "الفقه البيئي، التقاضي المناخي والاقتصاد الإيكولوجي",
+    "de": "Umweltjurisprudenz, Klimaklagen & ökologische Ökonomie",
+    "en": "Environmental Jurisprudence, Climate Litigation & Ecological Economics"
+  },
+  "icon": "clim_klage",
+  "concepts": [
+    {
+      "id": "clim_001",
+      "icon": "clim_klage",
+      "arabic": {
+        "word": "الدَّعْوَى المُنَاخِيَّة",
+        "meaning": "مُقَاضَاةٌ قَانُونِيَّةٌ تُرْفَعُ ضِدَّ الحُكُومَاتِ أَوِ الشَّرِكَاتِ لِإِلْزَامِهَا بِخَفْضِ الانْبِعَاثَاتِ الضَّارَّةِ"
+      },
+      "german": {
+        "word": "die Klimaklage",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Klimaklagen",
+        "example": "Strategische Klimaklagen zwingen Regierungen zur Einhaltung völkerrechtlicher CO2-Minderungsziele."
+      },
+      "english": {
+        "word": "climate litigation / climate lawsuit",
+        "example": "Strategic climate litigation compels governments to adhere to international emissions targets."
+      }
+    },
+    {
+      "id": "clim_002",
+      "icon": "clim_umweltrecht",
+      "arabic": {
+        "word": "قَانُونُ حِمَايَةِ البِيئَة",
+        "meaning": "مَجْمُوعُ القَوَاعِدِ القَانُونِيَّةِ المَعْنِيَّةِ بِصَوْنِ المَوَارِدِ الطَّبِيعِيَّةِ وَمُكَافَحَةِ التَّلَوُّثِ"
+      },
+      "german": {
+        "word": "das Umweltrecht",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Umweltrechte",
+        "example": "Das Umweltrecht verbindet völkerrechtliche Abkommen mit verbindlichen nationalen Schutzvorschriften."
+      },
+      "english": {
+        "word": "environmental law",
+        "example": "Environmental law connects international treaties with binding national protective regulations."
+      }
+    },
+    {
+      "id": "clim_003",
+      "icon": "clim_oekozid",
+      "arabic": {
+        "word": "الإِبَادَةُ البِيئِيَّة (الأُوكُوسِيد)",
+        "meaning": "التَّدْمِيرُ الشَّامِلُ أَوْ المَنْهَجِيُّ لِلأَنْظِمَةِ البِيئِيَّةِ الَّذِي يُرَادُ تَجْرِيمُهُ دَوْلِيًّا"
+      },
+      "german": {
+        "word": "der Ökozid",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Ökozide",
+        "example": "Juristen fordern, den Ökozid als fünftes Kernverbrechen in das Römische Statut aufzunehmen."
+      },
+      "english": {
+        "word": "ecocide",
+        "example": "Jurists demand that ecocide be included as the fifth core crime in the Rome Statute."
+      }
+    },
+    {
+      "id": "clim_004",
+      "icon": "clim_generationen",
+      "arabic": {
+        "word": "عَدَالَةُ الأَجْيَالِ المُنَاخِيَّة",
+        "meaning": "المَبْدَأُ الأَخْلَاقِيُّ وَالقَانُونِيُّ الَّذِي يَحْظُرُ تَرْحِيلَ أَعْبَاءِ حِمَايَةِ المُنَاخِ لِلأَجْيَالِ القَادِمَةِ"
+      },
+      "german": {
+        "word": "die Generationengerechtigkeit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Generationengerechtigkeiten",
+        "example": "Das Bundesverfassungsgericht verankerte die Generationengerechtigkeit als verfassungsrechtliches Gebot."
+      },
+      "english": {
+        "word": "intergenerational climate justice",
+        "example": "The Federal Constitutional Court anchored intergenerational justice as a constitutional mandate."
+      }
+    },
+    {
+      "id": "clim_005",
+      "icon": "clim_emissionshandel",
+      "arabic": {
+        "word": "تِجَارَةُ انْبِعَاثَاتِ الكَرْبُون",
+        "meaning": "آلِيَّةُ سُوقٍ تُحَدِّدُ سَقْفًا لِلِانْبِعَاثَاتِ وَتَتِيحُ بَيْعَ وَشِرَاءَ حُقُوقِ التَّلَوُّثِ"
+      },
+      "german": {
+        "word": "der Emissionsrechtehandel",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Emissionsrechtehandel",
+        "example": "Der europäische Emissionsrechtehandel setzt finanzielle Anreize zur Investition in grüne Technologien."
+      },
+      "english": {
+        "word": "emissions trading / cap-and-trade",
+        "example": "European emissions trading provides financial incentives to invest in green technologies."
+      }
+    },
+    {
+      "id": "clim_006",
+      "icon": "clim_bepreisung",
+      "arabic": {
+        "word": "تَسْعِيرُ الكَرْبُون",
+        "meaning": "فَرْضُ كُلْفَةٍ مَالِيَّةٍ عَلَى كُلِّ طُنٍّ مِنْ غَازَاتِ الِاحْتِبَاسِ الحَرَارِيِّ المُنْبَعِثَةِ"
+      },
+      "german": {
+        "word": "die CO2-Bepreisung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die CO2-Bepreisungen",
+        "example": "Eine sozialverträgliche CO2-Bepreisung lenkt das Konsumverhalten hin zu klimaschonenden Alternativen."
+      },
+      "english": {
+        "word": "carbon pricing",
+        "example": "Socially equitable carbon pricing steers consumer behavior toward climate-friendly alternatives."
+      }
+    },
+    {
+      "id": "clim_007",
+      "icon": "clim_fussabdruck",
+      "arabic": {
+        "word": "الأَثَرُ الإِيكُولُوجِيّ (البَصْمَةُ البِيئِيَّة)",
+        "meaning": "مِقْيَاسٌ لِحَجْمِ المَوَارِدِ الطَّبِيعِيَّةِ الَّتِي يَسْتَهْلِكُهَا الفَرْدُ أَوِ المُجْتَمَعُ"
+      },
+      "german": {
+        "word": "der ökologische Fußabdruck",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die ökologischen Fußabdrücke",
+        "example": "Der ökologische Fußabdruck der Industrienationen übersteigt die globale Biokapazität bei Weitem."
+      },
+      "english": {
+        "word": "ecological footprint",
+        "example": "The ecological footprint of industrialized nations far exceeds global biocapacity."
+      }
+    },
+    {
+      "id": "clim_008",
+      "icon": "clim_verursacher",
+      "arabic": {
+        "word": "مَبْدَأُ تَغْرِيمِ المُلَوِّث",
+        "meaning": "قَاعِدَةٌ تَقْضِي بِتَحَمُّلِ الجِهَةِ المُتَسَبِّبَةِ فِي الضَّرَرِ البِيئِيِّ كَافَّةَ تَكَالِيفِ الإِصْلَاحِ"
+      },
+      "german": {
+        "word": "das Verursacherprinzip",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Verursacherprinzipien",
+        "example": "Nach dem Verursacherprinzip muss der Betreiber für die Beseitigung von Altlasten im Boden aufkommen."
+      },
+      "english": {
+        "word": "polluter pays principle",
+        "example": "Under the polluter pays principle, the operator must pay for remediation of contaminated sites."
+      }
+    },
+    {
+      "id": "clim_009",
+      "icon": "clim_vorsorge",
+      "arabic": {
+        "word": "المَبْدَأُ الوِقَائِيّ",
+        "meaning": "اتِّخَاذُ تَدَابِيرَ حِمَايَةٍ اسْتِبَاقِيَّةٍ حَتَّى فِي حَالِ غِيَابِ اليَقِينِ العِلْمِيِّ القَاطِعِ"
+      },
+      "german": {
+        "word": "das Vorsorgeprinzip",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Vorsorgeprinzipien",
+        "example": "Das umweltrechtliche Vorsorgeprinzip gebietet vorausschauendes Handeln zur Vermeidung irreversibler Schäden."
+      },
+      "english": {
+        "word": "precautionary principle",
+        "example": "The environmental precautionary principle demands proactive action to avoid irreversible damage."
+      }
+    },
+    {
+      "id": "clim_010",
+      "icon": "clim_grenzen",
+      "arabic": {
+        "word": "الحُدُودُ الكَوْكَبِيَّة",
+        "meaning": "العَتَبَاتُ البِيئِيَّةُ التِّسْعُ الَّتِي يَجِبُ عَدَمُ تَجَاوُزِهَا لِضَمَانِ اسْتِمْرَارِ الحَيَاةِ عَلَى الأَرْضِ"
+      },
+      "german": {
+        "word": "die planetaren Grenzen",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die planetaren Grenzen",
+        "example": "Die Überschreitung mehrerer planetarer Grenzen gefährdet die Stabilität des gesamten Erdsystems."
+      },
+      "english": {
+        "word": "planetary boundaries",
+        "example": "Transgressing several planetary boundaries jeopardizes the stability of the entire Earth system."
+      }
+    },
+    {
+      "id": "clim_011",
+      "icon": "clim_dekarbonisierung",
+      "arabic": {
+        "word": "إِزَالَةُ الكَرْبُون",
+        "meaning": "التَّحَوُّلُ الهَيْكَلِيُّ لِلِاقْتِصَادِ لِلتَّخَلُّصِ التَّامِّ مِنَ الاعْتِمَادِ عَلَى الوَقُودِ الأُحْفُورِيِّ"
+      },
+      "german": {
+        "word": "die Dekarbonisierung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Dekarbonisierungen",
+        "example": "Die Dekarbonisierung der Schwerindustrie erfordert massiven Einsatz von grünem Wasserstoff."
+      },
+      "english": {
+        "word": "decarbonization",
+        "example": "The decarbonization of heavy industry requires massive deployment of green hydrogen."
+      }
+    },
+    {
+      "id": "clim_012",
+      "icon": "clim_paris",
+      "arabic": {
+        "word": "اتِّفَاقُ بَارِيسَ لِلْمُنَاخ",
+        "meaning": "المُعَاهَدَةُ المُنَاخِيَّةُ التَّارِيخِيَّةُ لِعَامِ 2015 المُلْزِمَةُ بِحَصْرِ الِاحْتِرَارِ دُونَ 1.5 دَرَجَةٍ"
+      },
+      "german": {
+        "word": "das Pariser Klimaabkommen",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Pariser Klimaabkommen",
+        "example": "Das Pariser Klimaabkommen verpflichtet alle Staaten zur Vorlage ambitionierter nationaler Klimapläne."
+      },
+      "english": {
+        "word": "Paris Climate Agreement",
+        "example": "The Paris Agreement obligates all states to submit ambitious national climate action plans."
+      }
+    },
+    {
+      "id": "clim_013",
+      "icon": "clim_neutralitaet",
+      "arabic": {
+        "word": "الحِيَادُ المُنَاخِيّ",
+        "meaning": "تَحْقِيقُ تَعَادُلٍ تَامٍّ بَيْنَ انْبِعَاثَاتِ الغَازَاتِ وَامْتِصَاصِهَا عَبْرَ المَصَارِفِ الطَّبِيعِيَّةِ"
+      },
+      "german": {
+        "word": "die Klimaneutralität",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Klimaneutralitäten",
+        "example": "Die Europäische Union strebt an, bis 2050 vollständige Klimaneutralität zu erreichen."
+      },
+      "english": {
+        "word": "climate neutrality / net zero",
+        "example": "The European Union aims to achieve full climate neutrality by 2050."
+      }
+    },
+    {
+      "id": "clim_014",
+      "icon": "clim_biodiversitaet",
+      "arabic": {
+        "word": "أَزْمَةُ التَّنَوُّعِ البِيُولُوجِيّ",
+        "meaning": "التَّرَاجُعُ الكَارِثِيُّ فِي أَعْدَادِ الكَائِنَاتِ الحَيَّةِ وَانْدِثَارُ المَوَائِلِ الطَّبِيعِيَّةِ"
+      },
+      "german": {
+        "word": "die Biodiversitätskrise",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Biodiversitätskrisen",
+        "example": "Das Artensterben und die Biodiversitätskrise sind ebenso bedrohlich wie der Klimawandel."
+      },
+      "english": {
+        "word": "biodiversity crisis / species loss",
+        "example": "Species extinction and the biodiversity crisis are just as threatening as climate change."
+      }
+    },
+    {
+      "id": "clim_015",
+      "icon": "clim_vertraeglichkeit",
+      "arabic": {
+        "word": "تَقْيِيمُ الأَثَرِ البِيئِيّ (UVP)",
+        "meaning": "دِرَاسَةٌ قَانُونِيَّةٌ إِلْزَامِيَّةٌ لِتَحْدِيدِ التَّأْثِيرَاتِ البِيئِيَّةِ لِلْمَشَارِيعِ الكُبْرَى قَبْلَ تَرْخِيصِهَا"
+      },
+      "german": {
+        "word": "die Umweltverträglichkeitsprüfung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Umweltverträglichkeitsprüfungen",
+        "example": "Vor dem Bau der Autobahn muss eine unabhängige Umweltverträglichkeitsprüfung durchgeführt werden."
+      },
+      "english": {
+        "word": "environmental impact assessment (EIA)",
+        "example": "Before constructing the highway, an independent environmental impact assessment must be conducted."
+      }
+    },
+    {
+      "id": "clim_016",
+      "icon": "clim_greenwashing",
+      "arabic": {
+        "word": "الغَسِيلُ الأَخْضَر",
+        "meaning": "مُمَارَسَةٌ تِجَارِيَّةٌ مُضَلِّلَةٌ تَدَّعِي فِيهَا الشَّرِكَةُ مَسْؤُولِيَّةً بِيئِيَّةً زَائِفَةً لِتَحْسِينِ صُورَتِهَا"
+      },
+      "german": {
+        "word": "das Greenwashing",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Greenwashings",
+        "example": "Verbraucherschützer gehen gerichtlich gegen das unlautere Greenwashing in der Werbung vor."
+      },
+      "english": {
+        "word": "greenwashing",
+        "example": "Consumer advocates take legal action against misleading greenwashing in advertising."
+      }
+    },
+    {
+      "id": "clim_017",
+      "icon": "clim_kreislauf",
+      "arabic": {
+        "word": "الاقْتِصَادُ الدَّائِرِيّ",
+        "meaning": "نَمُوذَجٌ اقْتِصَادِيٌّ يَقُومُ عَلَى إِعَادَةِ التَّدْوِيرِ وَتَقْلِيلِ النِّفَايَاتِ وَاسْتِدَامَةِ المَوَادِّ"
+      },
+      "german": {
+        "word": "die Kreislaufwirtschaft",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Kreislaufwirtschaften",
+        "example": "Die Transformation zur Kreislaufwirtschaft minimiert den Rohstoffverbrauch signifikant."
+      },
+      "english": {
+        "word": "circular economy",
+        "example": "The transformation to a circular economy significantly minimizes raw material consumption."
+      }
+    },
+    {
+      "id": "clim_018",
+      "icon": "clim_urteil",
+      "arabic": {
+        "word": "الحُكْمُ المُنَاخِيّ",
+        "meaning": "قَرَارٌ قَضَائِيٌّ تَارِيخِيٌّ يُقِرُّ بِحَقِّ المُواطِنِينَ فِي بِيئَةٍ سَلِيمَةٍ وَيُلْزِمُ الدَّوْلَةَ بِالتَّحَرُّكِ"
+      },
+      "german": {
+        "word": "das Klimaschutzurteil",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Klimaschutzurteile",
+        "example": "Das Karlsruher Klimaschutzurteil von 2021 stärkte die Freiheitsrechte der jüngeren Generation."
+      },
+      "english": {
+        "word": "climate court ruling",
+        "example": "The 2021 Karlsruhe climate ruling reinforced the fundamental liberties of the younger generation."
+      }
+    },
+    {
+      "id": "clim_019",
+      "icon": "clim_kosten",
+      "arabic": {
+        "word": "التَّكَالِيفُ البِيئِيَّةُ الخَارِجِيَّة",
+        "meaning": "الأَضْرَارُ البِيئِيَّةُ وَالصِّحِّيَّةُ النَّاجِمَةُ عَنِ الإِنْتَاجِ الَّتِي يَتَحَمَّلُهَا المُجْتَمَعُ دُونَ الشَّرِكَةِ"
+      },
+      "german": {
+        "word": "die externen Kosten",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die externen Kosten",
+        "example": "Ökosteuern zielen darauf ab, externe Umweltkosten im Marktpreis von Gütern zu internalisieren."
+      },
+      "english": {
+        "word": "external environmental costs / externalities",
+        "example": "Eco-taxes aim to internalize external environmental costs into the market price of goods."
+      }
+    },
+    {
+      "id": "clim_020",
+      "icon": "clim_renaturierung",
+      "arabic": {
+        "word": "إِعَادَةُ التَّأْهِيلِ البِيئِيّ",
+        "meaning": "إِعَادَةُ المَنَاظِرِ الطَّبِيعِيَّةِ المُتَدَهْوِرَةِ (كَالمُسْتَنْقَعَاتِ وَالغَابَاتِ) إِلَى حَالَتِهَا الأَصْلِيَّةِ"
+      },
+      "german": {
+        "word": "die Renaturierung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Renaturierungen",
+        "example": "Die Renaturierung von Mooren reaktiviert riesige natürliche Kohlenstoffspeicher."
+      },
+      "english": {
+        "word": "rewilding / ecological restoration",
+        "example": "The rewilding of peatlands reactivates massive natural carbon sinks."
+      }
+    },
+    {
+      "id": "clim_021",
+      "icon": "clim_anpassung",
+      "arabic": {
+        "word": "التَّكَيُّفُ المُنَاخِيّ",
+        "meaning": "تَطْوِيرُ البِنْيَةِ التَّحْتِيَّةِ وَالسِّيَاسَاتِ لِمُوَاجَهَةِ عَوَاقِبِ التَّغَيُّرِ المُنَاخِيِّ اللَّا مَفَرَّ مِنْهَا"
+      },
+      "german": {
+        "word": "die Klimaanpassung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Klimaanpassungen",
+        "example": "Städte investieren in Begrünung und Hochwasserschutz zur wirksamen Klimaanpassung."
+      },
+      "english": {
+        "word": "climate adaptation",
+        "example": "Cities invest in urban greening and flood defenses for effective climate adaptation."
+      }
+    },
+    {
+      "id": "clim_022",
+      "icon": "clim_fonds",
+      "arabic": {
+        "word": "صُنْدُوقُ الخَسَائِرِ وَالأَضْرَار",
+        "meaning": "آلِيَّةٌ تَمْوِيلِيَّةٌ أُمَمِيَّةٌ لِتَعْوِيضِ الدُّوَلِ النَّامِيَةِ عَنِ الكَوَارِثِ المُنَاخِيَّةِ الَّتِي تُصِيبُهَا"
+      },
+      "german": {
+        "word": "der Fonds für Verluste und Schäden",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Fonds für Verluste und Schäden",
+        "example": "Auf der Weltklimakonferenz wurde der Fonds für Verluste und Schäden historisch beschlossen."
+      },
+      "english": {
+        "word": "Loss and Damage Fund",
+        "example": "At the World Climate Conference, the Loss and Damage Fund was historically established."
+      }
+    },
+    {
+      "id": "clim_023",
+      "icon": "clim_ethik",
+      "arabic": {
+        "word": "الأَخْلَاقِيَّاتُ البِيئِيَّة",
+        "meaning": "الفَلْسَفَةُ المَعْنِيَّةُ بِتَحْدِيدِ الوَاجِبَاتِ الأَخْلَاقِيَّةِ لِلإِنْسَانِ تِجَاهَ الطَّبِيعَةِ وَالحَيَوَانِ"
+      },
+      "german": {
+        "word": "die Umweltethik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Umweltethiken",
+        "example": "Die Umweltethik hinterfragt das anthropozentrische Weltbild zugunsten biozentrischer Ansätze."
+      },
+      "english": {
+        "word": "environmental ethics",
+        "example": "Environmental ethics challenges the anthropocentric worldview in favor of biocentric approaches."
+      }
+    },
+    {
+      "id": "clim_024",
+      "icon": "clim_knappheit",
+      "arabic": {
+        "word": "شُحُّ المَوَارِدِ الطَّبِيعِيَّة",
+        "meaning": "تَنَاقُصُ المِيَاهِ العَذْبَةِ وَالمَعَادِنِ وَالأَرَاضِي الخِصْبَةِ نَتِيجَةَ الإِفْرَاطِ فِي الِاسْتِهْلَاكِ"
+      },
+      "german": {
+        "word": "die Ressourcenknappheit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Ressourcenknappheiten",
+        "example": "Zunehmende Ressourcenknappheit verschärft geopolitische Verteilungskämpfe weltweit."
+      },
+      "english": {
+        "word": "resource scarcity",
+        "example": "Increasing resource scarcity exacerbates geopolitical distribution struggles globally."
+      }
+    },
+    {
+      "id": "clim_025",
+      "icon": "clim_grundrecht",
+      "arabic": {
+        "word": "الحَقُّ فِي سَلَامَةِ المُنَاخ",
+        "meaning": "تَكْرِيسُ الحِمَايَةِ المُنَاخِيَّةِ كَحَقٍّ أَسَاسِيٍّ مِنْ حُقُوقِ الإِنْسَانِ الدُّسْتُورِيَّةِ لِضَمَانِ الحَيَاةِ"
+      },
+      "german": {
+        "word": "das Grundrecht auf Klimaschutz",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Grundrechte auf Klimaschutz",
+        "example": "Moderne Verfassungsgerichte leiten ein Grundrecht auf Klimaschutz aus dem Recht auf Leben ab."
+      },
+      "english": {
+        "word": "fundamental right to climate protection",
+        "example": "Modern constitutional courts derive a fundamental right to climate protection from the right to life."
+      }
+    }
+  ]
+}

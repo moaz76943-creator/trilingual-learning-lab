@@ -6235,6 +6235,131 @@
       "path": "content/assets/svg/log_schiedsgericht.svg",
       "type": "vector_svg",
       "category": "logistics_maritime_c1"
+    },
+    "clim_klage": {
+      "path": "content/assets/svg/clim_klage.svg",
+      "type": "vector_svg",
+      "category": "climate_litigation_c1"
+    },
+    "clim_umweltrecht": {
+      "path": "content/assets/svg/clim_umweltrecht.svg",
+      "type": "vector_svg",
+      "category": "climate_litigation_c1"
+    },
+    "clim_oekozid": {
+      "path": "content/assets/svg/clim_oekozid.svg",
+      "type": "vector_svg",
+      "category": "climate_litigation_c1"
+    },
+    "clim_generationen": {
+      "path": "content/assets/svg/clim_generationen.svg",
+      "type": "vector_svg",
+      "category": "climate_litigation_c1"
+    },
+    "clim_emissionshandel": {
+      "path": "content/assets/svg/clim_emissionshandel.svg",
+      "type": "vector_svg",
+      "category": "climate_litigation_c1"
+    },
+    "clim_bepreisung": {
+      "path": "content/assets/svg/clim_bepreisung.svg",
+      "type": "vector_svg",
+      "category": "climate_litigation_c1"
+    },
+    "clim_fussabdruck": {
+      "path": "content/assets/svg/clim_fussabdruck.svg",
+      "type": "vector_svg",
+      "category": "climate_litigation_c1"
+    },
+    "clim_verursacher": {
+      "path": "content/assets/svg/clim_verursacher.svg",
+      "type": "vector_svg",
+      "category": "climate_litigation_c1"
+    },
+    "clim_vorsorge": {
+      "path": "content/assets/svg/clim_vorsorge.svg",
+      "type": "vector_svg",
+      "category": "climate_litigation_c1"
+    },
+    "clim_grenzen": {
+      "path": "content/assets/svg/clim_grenzen.svg",
+      "type": "vector_svg",
+      "category": "climate_litigation_c1"
+    },
+    "clim_dekarbonisierung": {
+      "path": "content/assets/svg/clim_dekarbonisierung.svg",
+      "type": "vector_svg",
+      "category": "climate_litigation_c1"
+    },
+    "clim_paris": {
+      "path": "content/assets/svg/clim_paris.svg",
+      "type": "vector_svg",
+      "category": "climate_litigation_c1"
+    },
+    "clim_neutralitaet": {
+      "path": "content/assets/svg/clim_neutralitaet.svg",
+      "type": "vector_svg",
+      "category": "climate_litigation_c1"
+    },
+    "clim_biodiversitaet": {
+      "path": "content/assets/svg/clim_biodiversitaet.svg",
+      "type": "vector_svg",
+      "category": "climate_litigation_c1"
+    },
+    "clim_vertraeglichkeit": {
+      "path": "content/assets/svg/clim_vertraeglichkeit.svg",
+      "type": "vector_svg",
+      "category": "climate_litigation_c1"
+    },
+    "clim_greenwashing": {
+      "path": "content/assets/svg/clim_greenwashing.svg",
+      "type": "vector_svg",
+      "category": "climate_litigation_c1"
+    },
+    "clim_kreislauf": {
+      "path": "content/assets/svg/clim_kreislauf.svg",
+      "type": "vector_svg",
+      "category": "climate_litigation_c1"
+    },
+    "clim_urteil": {
+      "path": "content/assets/svg/clim_urteil.svg",
+      "type": "vector_svg",
+      "category": "climate_litigation_c1"
+    },
+    "clim_kosten": {
+      "path": "content/assets/svg/clim_kosten.svg",
+      "type": "vector_svg",
+      "category": "climate_litigation_c1"
+    },
+    "clim_renaturierung": {
+      "path": "content/assets/svg/clim_renaturierung.svg",
+      "type": "vector_svg",
+      "category": "climate_litigation_c1"
+    },
+    "clim_anpassung": {
+      "path": "content/assets/svg/clim_anpassung.svg",
+      "type": "vector_svg",
+      "category": "climate_litigation_c1"
+    },
+    "clim_fonds": {
+      "path": "content/assets/svg/clim_fonds.svg",
+      "type": "vector_svg",
+      "category": "climate_litigation_c1"
+    },
+    "clim_ethik": {
+      "path": "content/assets/svg/clim_ethik.svg",
+      "type": "vector_svg",
+      "category": "climate_litigation_c1"
+    },
+    "clim_knappheit": {
+      "path": "content/assets/svg/clim_knappheit.svg",
+      "type": "vector_svg",
+      "category": "climate_litigation_c1"
+    },
+    "clim_grundrecht": {
+      "path": "content/assets/svg/clim_grundrecht.svg",
+      "type": "vector_svg",
+      "category": "climate_litigation_c1"
     }
   }
 }
