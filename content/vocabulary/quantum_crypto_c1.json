@@ -1,0 +1,488 @@
+{
+  "category_id": "quantum_crypto_c1",
+  "category_number": 61,
+  "level": "C1",
+  "title": {
+    "ar": "التشفير الكمي، إثباتات المعرفة الصفرية والاقتصاد المشفر",
+    "de": "Quantenkryptographie, Zero-Knowledge-Beweise & Kryptoökonomie",
+    "en": "Quantum Cryptography, Zero-Knowledge Proofs & Cryptoeconomics"
+  },
+  "icon": "qcrypt_kryptographie",
+  "concepts": [
+    {
+      "id": "qcrypt_001",
+      "icon": "qcrypt_kryptographie",
+      "arabic": {
+        "word": "التَّشْفِيرُ الكَمِّيّ",
+        "meaning": "تَوْظِيفُ مَبَادِئِ مِيكَانِيكَا الكَمِّ لِتَأْمِينِ البَيَانَاتِ وَضَمَانِ اسْتِحَالَةِ التَّنَصُّتِ دُونَ اكْتِشَافِهِ"
+      },
+      "german": {
+        "word": "die Quantenkryptographie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Quantenkryptographien",
+        "example": "Die Quantenkryptographie nutzt die Unschärferelation, um absolute Abhörsicherheit physikalisch zu garantieren."
+      },
+      "english": {
+        "word": "quantum cryptography",
+        "example": "Quantum cryptography utilizes the uncertainty principle to physically guarantee absolute eavesdropping security."
+      }
+    },
+    {
+      "id": "qcrypt_002",
+      "icon": "qcrypt_qkd",
+      "arabic": {
+        "word": "تَوْزِيعُ المَفَاتِيحِ الكَمِّيَّة (QKD)",
+        "meaning": "بُرُوتُوكُولُ اتِّصَالٍ يَسْتَخْدِمُ حَالَاتِ الفُوتُونَاتِ لِتَبَادُلِ مَفَاتِيحِ التَّشْفِيرِ السِّرِّيَّةِ بِأَمَانٍ مُطْلَقٍ"
+      },
+      "german": {
+        "word": "die Quantenschlüsselverteilung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Quantenschlüsselverteilungen",
+        "example": "Mithilfe der Quantenschlüsselverteilung können zwei Parteien einen geheimen Zufallsschlüssel austauschen."
+      },
+      "english": {
+        "word": "quantum key distribution (QKD)",
+        "example": "Through quantum key distribution, two parties can securely exchange a shared random secret key."
+      }
+    },
+    {
+      "id": "qcrypt_003",
+      "icon": "qcrypt_postquanten",
+      "arabic": {
+        "word": "تَشْفِيرُ مَا بَعْدَ الكَمّ",
+        "meaning": "خُوَارِزْمِيَّاتٌ تَقْلِيدِيَّةٌ شَدِيدَةُ التَّعْقِيدِ صُمِّمَتْ لِتَصْمُدَ أَمَامَ قُوَّةِ اخْتِرَاقِ الحَوَاسِيبِ الكَمِّيَّةِ"
+      },
+      "german": {
+        "word": "die Post-Quanten-Kryptographie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Post-Quanten-Kryptographien",
+        "example": "Das Bundesamt für Sicherheit in der Informationstechnik (BSI) empfiehlt die rechtzeitige Migration zur Post-Quanten-Kryptographie."
+      },
+      "english": {
+        "word": "post-quantum cryptography (PQC)",
+        "example": "The Federal Office for Information Security recommends timely migration to post-quantum cryptography."
+      }
+    },
+    {
+      "id": "qcrypt_004",
+      "icon": "qcrypt_zkp",
+      "arabic": {
+        "word": "إِثْبَاتُ المَعْرِفَةِ الصِّفْرِيَّة (ZKP)",
+        "meaning": "بُرُوتُوكُولٌ تَعْمِيَةٍ يُمَكِّنُ طَرَفًا مِنْ إِثْبَاتِ صِحَّةِ مَعْلُومَةٍ لِطَرَفٍ آخَرَ دُونَ كَشْفِ أَيِّ تَفَاصِيلَ عَنْهَا"
+      },
+      "german": {
+        "word": "der Zero-Knowledge-Beweis",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Zero-Knowledge-Beweise",
+        "example": "Ein Zero-Knowledge-Beweis verifiziert die Identität eines Nutzers, ohne sein geheimes Passwort preiszugeben."
+      },
+      "english": {
+        "word": "zero-knowledge proof (ZKP)",
+        "example": "A zero-knowledge proof verifies a user's identity without revealing their secret password."
+      }
+    },
+    {
+      "id": "qcrypt_005",
+      "icon": "qcrypt_gitter",
+      "arabic": {
+        "word": "التَّشْفِيرُ القَائِمُ عَلَى الشَّبِيكَة",
+        "meaning": "نِظَامٌ تَعْمِيَةٍ يَعْتَمِدُ عَلَى مَسَائِلَ هَنْدَسِيَّةٍ شَبِيكِيَّةٍ فِي أَبْعَادٍ لَا نِهَائِيَّةٍ يَعْجِزُ الحَاسُوبُ الكَمِّيُّ عَنْ حَلِّهَا"
+      },
+      "german": {
+        "word": "die gitterbasierte Kryptographie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die gitterbasierten Kryptographien",
+        "example": "Gitterbasierte Verfahren gelten als vielversprechendster Standard für quantenresistente Verschlüsselungen."
+      },
+      "english": {
+        "word": "lattice-based cryptography",
+        "example": "Lattice-based techniques are considered the most promising standard for quantum-resistant encryption."
+      }
+    },
+    {
+      "id": "qcrypt_006",
+      "icon": "qcrypt_oekonomie",
+      "arabic": {
+        "word": "الاقْتِصَادُ المُشَفَّر (الكْرِيبْتُو-إِيكُونُومِيكْس)",
+        "meaning": "عِلْمٌ يَمْزِجُ بَيْنَ نَظَرِيَّةِ الأَلْعَابِ وَالحَوَافِزِ الِاقْتِصَادِيَّةِ وَالتَّشْفِيرِ لِتَصْمِيمِ شَبَكَاتٍ لَا مَرْكَزِيَّةٍ آمِنَةٍ"
+      },
+      "german": {
+        "word": "die Kryptoökonomie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Kryptoökonomien",
+        "example": "Die Kryptoökonomie analysiert ökonomische Anreizstrukturen innerhalb verteilter Peer-to-Peer-Netzwerke."
+      },
+      "english": {
+        "word": "cryptoeconomics",
+        "example": "Cryptoeconomics analyzes economic incentive structures within decentralized peer-to-peer networks."
+      }
+    },
+    {
+      "id": "qcrypt_007",
+      "icon": "qcrypt_konsens",
+      "arabic": {
+        "word": "آلِيَّةُ الإِجْمَاعِ الرَّقْمِيّ",
+        "meaning": "خُوَارِزْمِيَّةٌ تُتِيحُ لِجَمِيعِ العُقَدِ فِي شَبَكَةٍ لَا مَرْكَزِيَّةٍ التَّوَافُقَ عَلَى صِحَّةِ حَالَةِ السِّجِلِّ"
+      },
+      "german": {
+        "word": "der Konsensmechanismus",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Konsensmechanismen",
+        "example": "Der Übergang von Proof-of-Work zu Proof-of-Stake als Konsensmechanismus senkte den Energieverbrauch drastisch."
+      },
+      "english": {
+        "word": "consensus mechanism",
+        "example": "The transition from Proof-of-Work to Proof-of-Stake as a consensus mechanism drastically cut energy usage."
+      }
+    },
+    {
+      "id": "qcrypt_008",
+      "icon": "qcrypt_smartcontract",
+      "arabic": {
+        "word": "العَقْدُ الذَّكِيّ",
+        "meaning": "بَرْنَامَجٌ حَوْسَبِيٌّ مُشَفَّرٌ يُنَفِّذُ بُنُودَ الِاتِّفَاقِ ذَاتِيًّا بِمُجَرَّدِ اسْتِيفَاءِ الشُّرُوطِ المُحَدَّدَةِ"
+      },
+      "german": {
+        "word": "der Smart Contract",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Smart Contracts",
+        "example": "Smart Contracts eliminieren das Kontrahentenrisiko durch deterministische und manipulationssichere Ausführung."
+      },
+      "english": {
+        "word": "smart contract",
+        "example": "Smart contracts eliminate counterparty risk through deterministic, tamper-proof execution."
+      }
+    },
+    {
+      "id": "qcrypt_009",
+      "icon": "qcrypt_dao",
+      "arabic": {
+        "word": "المُنَظَّمَةُ اللَّامَرْكَزِيَّةُ ذَاتِيَّةُ الإِدَارَة (DAO)",
+        "meaning": "كِيَانٌ مُؤَسَّسِيٌّ يُدَارُ بِشَفَافِيَّةٍ عَبْرَ شَفْرَةٍ بَرْمَجِيَّةٍ وَتَصْوِيتِ حَامِلِي الرُّمُوزِ دُونَ هَيْكَلٍ إِدَارِيٍّ تَقْلِيدِيٍّ"
+      },
+      "german": {
+        "word": "die dezentrale autonome Organisation",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die dezentralen autonomen Organisationen",
+        "example": "In einer dezentralen autonomen Organisation entscheiden Token-Inhaber demokratisch über die Mittelverwendung."
+      },
+      "english": {
+        "word": "decentralized autonomous organization (DAO)",
+        "example": "In a decentralized autonomous organization, token holders decide democratically on resource allocation."
+      }
+    },
+    {
+      "id": "qcrypt_010",
+      "icon": "qcrypt_homomorph",
+      "arabic": {
+        "word": "التَّشْفِيرُ المُتَمَاثِل (الهُومُومُورْفِيّ)",
+        "meaning": "نَمَطُ تَعْمِيَةٍ مُتَقَدِّمٌ يُتِيحُ إِجْرَاءَ حِسَابَاتٍ عَلَى البَيَانَاتِ المُشَفَّرَةِ دُونَ الحَاجَةِ لِفَكِّ تَشْفِيرِهَا"
+      },
+      "german": {
+        "word": "die homomorphe Verschlüsselung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die homomorphen Verschlüsselungen",
+        "example": "Vollständig homomorphe Verschlüsselung erlaubt Cloud-Berechnungen mit hochsensiblen Patientendaten ohne Sicherheitsrisiko."
+      },
+      "english": {
+        "word": "homomorphic encryption",
+        "example": "Fully homomorphic encryption permits cloud computing on highly sensitive patient data without security risk."
+      }
+    },
+    {
+      "id": "qcrypt_011",
+      "icon": "qcrypt_hash",
+      "arabic": {
+        "word": "دَالَّةُ التَّجْزِئَةِ التَّشْفِيرِيَّة",
+        "meaning": "خُوَارِزْمِيَّةٌ تُحَوِّلُ بَيَانَاتٍ بِأَيِّ حَجْمٍ إِلَى سِلْسِلَةٍ ثَابِتَةِ الطُّولِ وَغَيْرِ قَابِلَةٍ لِلْعَكْسِ"
+      },
+      "german": {
+        "word": "die kryptographische Hashfunktion",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die kryptographischen Hashfunktionen",
+        "example": "Kollisionsresistenz ist die essenzielle Eigenschaft einer sicheren kryptographischen Hashfunktion wie SHA-256."
+      },
+      "english": {
+        "word": "cryptographic hash function",
+        "example": "Collision resistance is the essential property of a secure cryptographic hash function such as SHA-256."
+      }
+    },
+    {
+      "id": "qcrypt_012",
+      "icon": "qcrypt_signatur",
+      "arabic": {
+        "word": "التَّوْقِيعُ الرَّقْمِيّ",
+        "meaning": "بَصْمَةٌ إِثْبَاتِيَّةٌ تَعْتَمِدُ عَلَى المَفَاتِيحِ غَيْرِ المُتَنَاظِرَةِ لِضَمَانِ هُوِيَّةِ المُرْسِلِ وَسَلَامَةِ الرِّسَالَةِ"
+      },
+      "german": {
+        "word": "die digitale Signatur",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die digitalen Signaturen",
+        "example": "Eine qualifizierte digitale Signatur besitzt im Rechtsverkehr die gleiche Verbindlichkeit wie eine handschriftliche Unterschrift."
+      },
+      "english": {
+        "word": "digital signature",
+        "example": "A qualified digital signature holds the same legal validity as a handwritten signature."
+      }
+    },
+    {
+      "id": "qcrypt_013",
+      "icon": "qcrypt_merkle",
+      "arabic": {
+        "word": "شَجَرَةُ مِيرْكِل",
+        "meaning": "بِنْيَةُ بَيَانَاتٍ شَجَرِيَّةٍ تُجَمِّعُ تَجْزِئَاتِ المَعْلُومَاتِ لِلتَّحَقُّقِ الفَوْرِيِّ مِنْ صِحَّةِ قَوَاعِدِ البَيَانَاتِ الضَّخْمَةِ"
+      },
+      "german": {
+        "word": "der Merkle-Baum",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Merkle-Bäume",
+        "example": "Ein Merkle-Baum ermöglicht die effiziente und kryptographisch sichere Verifikation großer Datenmengen."
+      },
+      "english": {
+        "word": "Merkle tree",
+        "example": "A Merkle tree enables efficient and cryptographically secure verification of large datasets."
+      }
+    },
+    {
+      "id": "qcrypt_014",
+      "icon": "qcrypt_asymmetrisch",
+      "arabic": {
+        "word": "التَّشْفِيرُ غَيْرُ المُتَنَاظِر",
+        "meaning": "نِظَامُ تَعْمِيَةٍ يَسْتَخْدِمُ زَوْجَيْنِ مِنَ المَفَاتِيحِ: مِفْتَاحًا عَامًّا لِلتَّشْفِيرِ وَمِفْتَاحًا خَاصًّا لِفَكِّ التَّشْفِيرِ"
+      },
+      "german": {
+        "word": "die asymmetrische Kryptographie",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die asymmetrischen Kryptographien",
+        "example": "Public-Key-Verfahren der asymmetrischen Kryptographie bilden die Basis sicherer Internetprotokolle wie TLS."
+      },
+      "english": {
+        "word": "asymmetric cryptography",
+        "example": "Public-key methods of asymmetric cryptography form the foundation of secure internet protocols like TLS."
+      }
+    },
+    {
+      "id": "qcrypt_015",
+      "icon": "qcrypt_e2e",
+      "arabic": {
+        "word": "التَّشْفِيرُ التَّامُّ بَيْنَ النِّهَايَتَيْنِ (E2EE)",
+        "meaning": "تَعْمِيَةُ الرَّسَائِلِ بِحَيْثُ لَا يَمْلِكُ مَفَاتِيحَ قِرَاءَتِهَا سِوَى طَرَفَيْ المُحَادَثَةِ حَصْرًا"
+      },
+      "german": {
+        "word": "die Ende-zu-Ende-Verschlüsselung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Ende-zu-Ende-Verschlüsselungen",
+        "example": "Strenge Ende-zu-Ende-Verschlüsselung verhindert, dass Service-Provider oder Dritte Nachrichten mitlesen können."
+      },
+      "english": {
+        "word": "end-to-end encryption (E2EE)",
+        "example": "Strict end-to-end encryption prevents service providers or third parties from reading transmitted messages."
+      }
+    },
+    {
+      "id": "qcrypt_016",
+      "icon": "qcrypt_shor",
+      "arabic": {
+        "word": "خُوَارِزْمِيَّةُ شُور الكَمِّيَّة",
+        "meaning": "خُوَارِزْمِيَّةٌ كَمِّيَّةٌ تَسْتَطِيعُ تَفْكِيكَ الأَعْدَادِ الأَوَّلِيَّةِ بِسُرْعَةٍ فَائِقَةٍ مِمَّا يَهْدِمُ تَشْفِيرَ RSA التَّقْلِيدِيَّ"
+      },
+      "german": {
+        "word": "der Shor-Algorithmus",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Shor-Algorithmen",
+        "example": "Der Shor-Algorithmus wird auf leistungsfähigen Quantencomputern heutige RSA-Verschlüsselungen in Sekunden brechen."
+      },
+      "english": {
+        "word": "Shor's algorithm",
+        "example": "Shor's algorithm will break present-day RSA encryption in seconds on sufficiently powerful quantum computers."
+      }
+    },
+    {
+      "id": "qcrypt_017",
+      "icon": "qcrypt_primitiv",
+      "arabic": {
+        "word": "اللَّبِنَةُ التَّشْفِيرِيَّةُ الأَسَاسِيَّة",
+        "meaning": "الخُوَارِزْمِيَّاتُ الأَوَّلِيَّةُ الرِّيَاضِيَّةُ الَّتِي تُبْنَى مِنْهَا البُرُوتُوكُولَاتُ وَالأَنْظِمَةُ الأَمْنِيَّةُ المُعَقَّدَةُ"
+      },
+      "german": {
+        "word": "das kryptographische Primitiv",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die kryptographischen Primitive",
+        "example": "Blockchiffren und Hashfunktionen sind fundamentale kryptographische Primitive für sichere Kommunikationskanäle."
+      },
+      "english": {
+        "word": "cryptographic primitive",
+        "example": "Block ciphers and hash functions are fundamental cryptographic primitives for secure communication channels."
+      }
+    },
+    {
+      "id": "qcrypt_018",
+      "icon": "qcrypt_byzantinisch",
+      "arabic": {
+        "word": "تَحَمُّلُ الخَطَأِ البِيزَنْطِيّ (BFT)",
+        "meaning": "قُدْرَةُ الشَّبَكَةِ المَوْزَعَةِ عَلَى مُوَاصَلَةِ العَمَلِ بِدِقَّةٍ حَتَّى لَوْ تَعَطَّلَتْ بَعْضُ العُقَدِ أَوْ تَصَرَّفَتْ بِخُبْثٍ"
+      },
+      "german": {
+        "word": "die byzantinische Fehlertoleranz",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die byzantinischen Fehlertoleranzen",
+        "example": "Byzantinische Fehlertoleranz stellt sicher, dass bösartige Knoten das verteilte Ledger nicht korrumpieren können."
+      },
+      "english": {
+        "word": "Byzantine fault tolerance (BFT)",
+        "example": "Byzantine fault tolerance ensures that malicious nodes cannot corrupt the distributed ledger."
+      }
+    },
+    {
+      "id": "qcrypt_019",
+      "icon": "qcrypt_souveraenitaet",
+      "arabic": {
+        "word": "السِّيَادَةُ الرَّقْمِيَّة",
+        "meaning": "قُدْرَةُ الدَّوْلَةِ أَوْ المُجْتَمَعِ عَلَى التَّحَكُّمِ المُسْتَقِلِّ فِي بِنْيَتِهِ التِّكْنُولُوجِيَّةِ وَبَيَانَاتِهِ دُونَ تَبَعِيَّةٍ خَارِجِيَّةٍ"
+      },
+      "german": {
+        "word": "die digitale Souveränität",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die digitalen Souveränitäten",
+        "example": "Eigene kryptographische Standards und unabhängige Serverinfrastrukturen sichern die nationale digitale Souveränität."
+      },
+      "english": {
+        "word": "digital sovereignty",
+        "example": "Proprietary cryptographic standards and independent server infrastructures secure national digital sovereignty."
+      }
+    },
+    {
+      "id": "qcrypt_020",
+      "icon": "qcrypt_audit",
+      "arabic": {
+        "word": "التَّدْقِيقُ الأَمْنِيُّ التَّشْفِيرِيّ",
+        "meaning": "فَحْصٌ بَرْمَجِيٌّ وَرِيَاضِيٌّ شَامِلٌ لِلْبُرُوتُوكُولِ أَوْ العَقْدِ الذَّكِيِّ لِكَشْفِ الثَّغْرَاتِ قَبْلَ الإِطْلَاقِ"
+      },
+      "german": {
+        "word": "das kryptographische Sicherheitsaudit",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Sicherheitsaudits",
+        "example": "Vor dem Deployment auf dem Mainnet muss jeder Smart Contract ein unabhängiges Sicherheitsaudit durchlaufen."
+      },
+      "english": {
+        "word": "cryptographic security audit",
+        "example": "Prior to mainnet deployment, every smart contract must undergo an independent security audit."
+      }
+    },
+    {
+      "id": "qcrypt_021",
+      "icon": "qcrypt_privater_schluessel",
+      "arabic": {
+        "word": "المِفْتَاحُ الخَاصّ",
+        "meaning": "الشَّفْرَةُ السِّرِّيَّةُ المَحْمِيَّةُ الَّتِي تُمَكِّنُ حَائِزَهَا مِنْ فَكِّ التَّشْفِيرِ أَوْ التَّوْقِيعِ عَلَى المَعَامَلَاتِ"
+      },
+      "german": {
+        "word": "der private Schlüssel",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die privaten Schlüssel",
+        "example": "Wer die Kontrolle über seinen privaten Schlüssel verliert, verliert unwiderruflich den Zugriff auf seine Krypto-Assets."
+      },
+      "english": {
+        "word": "private key",
+        "example": "Whoever loses control of their private key irreversibly loses access to their crypto assets."
+      }
+    },
+    {
+      "id": "qcrypt_022",
+      "icon": "qcrypt_oeffentlicher_schluessel",
+      "arabic": {
+        "word": "المِفْتَاحُ العَامّ",
+        "meaning": "الشَّفْرَةُ المَفْتُوحَةُ لِلْجَمِيعِ الَّتِي تُسْتَخْدَمُ لِتَشْفِيرِ الرَّسَائِلِ لِلْمُسْتَقْبِلِ أَوْ التَّحَقُّقِ مِنْ تَوْقِيعِهِ"
+      },
+      "german": {
+        "word": "der öffentliche Schlüssel",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die öffentlichen Schlüssel",
+        "example": "Der öffentliche Schlüssel kann gefahrlos über unsichere Kanäle geteilt werden."
+      },
+      "english": {
+        "word": "public key",
+        "example": "The public key can safely be shared across insecure communication channels."
+      }
+    },
+    {
+      "id": "qcrypt_023",
+      "icon": "qcrypt_entropiequelle",
+      "arabic": {
+        "word": "مَصْدَرُ العَشْوَائِيَّةِ الكَمِّيَّة",
+        "meaning": "جِهَازٌ فِيزْيَائِيٌّ يَسْتَغِلُّ العَشْوَائِيَّةَ الأَصِيلَةَ فِي انْحِلَالِ الجُسَيْمَاتِ لِتَوْلِيدِ أَعْدَادٍ عَشْوَائِيَّةٍ حَقِيقِيَّةٍ"
+      },
+      "german": {
+        "word": "die Quantenentropiequelle",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Quantenentropiequellen",
+        "example": "Echte physikalische Quantenentropiequellen erzeugen unvorhersehbare Zufallszahlen für kryptographische Schlüssel."
+      },
+      "english": {
+        "word": "quantum entropy source",
+        "example": "True physical quantum entropy sources generate unpredictable random numbers for cryptographic keys."
+      }
+    },
+    {
+      "id": "qcrypt_024",
+      "icon": "qcrypt_mitm",
+      "arabic": {
+        "word": "هُجُومُ الوَسِيط (المَان-إِنْ-ذَا-مِيدِل)",
+        "meaning": "هَجَمَاتٌ سِيبْرَانِيَّةٌ يَتَرَبَّصُ فِيهَا المُخْتَرِقُ بَيْنَ طَرَفَيْ الِاتِّصَالِ لِقِرَاءَةِ أَوْ تَعْدِيلِ البَيَانَاتِ دُونَ عِلْمِهِمَا"
+      },
+      "german": {
+        "word": "der Man-in-the-Middle-Angriff",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Man-in-the-Middle-Angriffe",
+        "example": "Gegenseitige Authentifizierung und Zertifikate schützen Kommunikationspartner vor Man-in-the-Middle-Angriffen."
+      },
+      "english": {
+        "word": "man-in-the-middle attack (MitM)",
+        "example": "Mutual authentication and certificates protect communicating parties against man-in-the-middle attacks."
+      }
+    },
+    {
+      "id": "qcrypt_025",
+      "icon": "qcrypt_zksnark",
+      "arabic": {
+        "word": "بُرُوتُوكُولُ زِدْ كِي سْنارْك (zk-SNARK)",
+        "meaning": "إِثْبَاتُ مَعْرِفَةٍ صِفْرِيَّةٍ مُوجَزٌ وَغَيْرُ تَفَاعُلِيٍّ يُتِيحُ التَّحَقُّقَ السَّرِيعَ جِدًّا مِنَ المُعَامَلَاتِ مَعَ الحِفَاظِ التَّامِّ عَلَى السِّرِّيَّةِ"
+      },
+      "german": {
+        "word": "das zk-SNARK-Verfahren",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die zk-SNARK-Verfahren",
+        "example": "Das zk-SNARK-Verfahren ermöglicht anonyme Transaktionen auf öffentlichen Blockchains bei minimaler Rechenlast."
+      },
+      "english": {
+        "word": "zk-SNARK protocol",
+        "example": "The zk-SNARK protocol enables private transactions on public blockchains with minimal computational overhead."
+      }
+    }
+  ]
+}

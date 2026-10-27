@@ -6985,6 +6985,131 @@
       "path": "content/assets/svg/trans_determinismus.svg",
       "type": "vector_svg",
       "category": "transhumanism_c1"
+    },
+    "qcrypt_kryptographie": {
+      "path": "content/assets/svg/qcrypt_kryptographie.svg",
+      "type": "vector_svg",
+      "category": "quantum_crypto_c1"
+    },
+    "qcrypt_qkd": {
+      "path": "content/assets/svg/qcrypt_qkd.svg",
+      "type": "vector_svg",
+      "category": "quantum_crypto_c1"
+    },
+    "qcrypt_postquanten": {
+      "path": "content/assets/svg/qcrypt_postquanten.svg",
+      "type": "vector_svg",
+      "category": "quantum_crypto_c1"
+    },
+    "qcrypt_zkp": {
+      "path": "content/assets/svg/qcrypt_zkp.svg",
+      "type": "vector_svg",
+      "category": "quantum_crypto_c1"
+    },
+    "qcrypt_gitter": {
+      "path": "content/assets/svg/qcrypt_gitter.svg",
+      "type": "vector_svg",
+      "category": "quantum_crypto_c1"
+    },
+    "qcrypt_oekonomie": {
+      "path": "content/assets/svg/qcrypt_oekonomie.svg",
+      "type": "vector_svg",
+      "category": "quantum_crypto_c1"
+    },
+    "qcrypt_konsens": {
+      "path": "content/assets/svg/qcrypt_konsens.svg",
+      "type": "vector_svg",
+      "category": "quantum_crypto_c1"
+    },
+    "qcrypt_smartcontract": {
+      "path": "content/assets/svg/qcrypt_smartcontract.svg",
+      "type": "vector_svg",
+      "category": "quantum_crypto_c1"
+    },
+    "qcrypt_dao": {
+      "path": "content/assets/svg/qcrypt_dao.svg",
+      "type": "vector_svg",
+      "category": "quantum_crypto_c1"
+    },
+    "qcrypt_homomorph": {
+      "path": "content/assets/svg/qcrypt_homomorph.svg",
+      "type": "vector_svg",
+      "category": "quantum_crypto_c1"
+    },
+    "qcrypt_hash": {
+      "path": "content/assets/svg/qcrypt_hash.svg",
+      "type": "vector_svg",
+      "category": "quantum_crypto_c1"
+    },
+    "qcrypt_signatur": {
+      "path": "content/assets/svg/qcrypt_signatur.svg",
+      "type": "vector_svg",
+      "category": "quantum_crypto_c1"
+    },
+    "qcrypt_merkle": {
+      "path": "content/assets/svg/qcrypt_merkle.svg",
+      "type": "vector_svg",
+      "category": "quantum_crypto_c1"
+    },
+    "qcrypt_asymmetrisch": {
+      "path": "content/assets/svg/qcrypt_asymmetrisch.svg",
+      "type": "vector_svg",
+      "category": "quantum_crypto_c1"
+    },
+    "qcrypt_e2e": {
+      "path": "content/assets/svg/qcrypt_e2e.svg",
+      "type": "vector_svg",
+      "category": "quantum_crypto_c1"
+    },
+    "qcrypt_shor": {
+      "path": "content/assets/svg/qcrypt_shor.svg",
+      "type": "vector_svg",
+      "category": "quantum_crypto_c1"
+    },
+    "qcrypt_primitiv": {
+      "path": "content/assets/svg/qcrypt_primitiv.svg",
+      "type": "vector_svg",
+      "category": "quantum_crypto_c1"
+    },
+    "qcrypt_byzantinisch": {
+      "path": "content/assets/svg/qcrypt_byzantinisch.svg",
+      "type": "vector_svg",
+      "category": "quantum_crypto_c1"
+    },
+    "qcrypt_souveraenitaet": {
+      "path": "content/assets/svg/qcrypt_souveraenitaet.svg",
+      "type": "vector_svg",
+      "category": "quantum_crypto_c1"
+    },
+    "qcrypt_audit": {
+      "path": "content/assets/svg/qcrypt_audit.svg",
+      "type": "vector_svg",
+      "category": "quantum_crypto_c1"
+    },
+    "qcrypt_privater_schluessel": {
+      "path": "content/assets/svg/qcrypt_privater_schluessel.svg",
+      "type": "vector_svg",
+      "category": "quantum_crypto_c1"
+    },
+    "qcrypt_oeffentlicher_schluessel": {
+      "path": "content/assets/svg/qcrypt_oeffentlicher_schluessel.svg",
+      "type": "vector_svg",
+      "category": "quantum_crypto_c1"
+    },
+    "qcrypt_entropiequelle": {
+      "path": "content/assets/svg/qcrypt_entropiequelle.svg",
+      "type": "vector_svg",
+      "category": "quantum_crypto_c1"
+    },
+    "qcrypt_mitm": {
+      "path": "content/assets/svg/qcrypt_mitm.svg",
+      "type": "vector_svg",
+      "category": "quantum_crypto_c1"
+    },
+    "qcrypt_zksnark": {
+      "path": "content/assets/svg/qcrypt_zksnark.svg",
+      "type": "vector_svg",
+      "category": "quantum_crypto_c1"
     }
   }
 }
