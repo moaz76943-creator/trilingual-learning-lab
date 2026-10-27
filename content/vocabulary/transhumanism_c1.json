@@ -1,0 +1,488 @@
+{
+  "category_id": "transhumanism_c1",
+  "category_number": 60,
+  "level": "C1",
+  "title": {
+    "ar": "ما بعد الإنسانية، الأطراف الاصطناعية العصبية والتعزيز الإدراكي",
+    "de": "Transhumanismus, Neuroprothetik & kognitive Erweiterung",
+    "en": "Transhumanism, Neuroprosthetics & Cognitive Augmentation"
+  },
+  "icon": "trans_transhumanismus",
+  "concepts": [
+    {
+      "id": "trans_001",
+      "icon": "trans_transhumanismus",
+      "arabic": {
+        "word": "مَا بَعْدَ الإِنْسَانِيَّة",
+        "meaning": "حَرَكَةٌ فَلْسَفِيَّةٌ تَدْعُو لِاسْتِخْدَامِ التِّكْنُولُوجْيَا لِتَجَاوُزِ الحُدُودِ البِيُولُوجِيَّةِ لِلإِنْسَانِ وَتَطْوِيرِ قُدُرَاتِهِ"
+      },
+      "german": {
+        "word": "der Transhumanismus",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Transhumanismen",
+        "example": "Der Transhumanismus postuliert die Überwindung des menschlichen Alterns durch fortgeschrittene Gentechnik."
+      },
+      "english": {
+        "word": "transhumanism",
+        "example": "Transhumanism postulates the overcoming of human aging through advanced genetic engineering."
+      }
+    },
+    {
+      "id": "trans_002",
+      "icon": "trans_neuroprothese",
+      "arabic": {
+        "word": "الطَّرَفُ الِاصْطِنَاعِيُّ العَصَبِيّ",
+        "meaning": "جِهَازٌ إِصْلَاحِيٌّ يَتَّصِلُ مُبَاشَرَةً بِالجِهَازِ العَصَبِيِّ لِاسْتِعَادَةِ الوَظَائِفِ الحَرَكِيَّةِ أَوْ الحِسِّيَّةِ"
+      },
+      "german": {
+        "word": "die Neuroprothese",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Neuroprothesen",
+        "example": "Moderne Neuroprothesen ermöglichen Gelähmten die gedankliche Steuerung von Greifbewegungen."
+      },
+      "english": {
+        "word": "neuroprosthesis / neural prosthetic",
+        "example": "Modern neuroprosthetics enable paralyzed individuals to mentally control grasping movements."
+      }
+    },
+    {
+      "id": "trans_003",
+      "icon": "trans_bci",
+      "arabic": {
+        "word": "وَاجِهَةُ الدِّمَاغِ وَالحَاسُوب (BCI)",
+        "meaning": "قَنَاةُ اتِّصَالٍ مُبَاشِرَةٌ تَرْبِطُ إِشَارَاتِ النَّشَاطِ الكَهْرَبَائِيِّ لِلدِّمَاغِ بِجِهَازٍ حَوْسَبِيٍّ خَارِجِيٍّ"
+      },
+      "german": {
+        "word": "die Gehirn-Computer-Schnittstelle",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Gehirn-Computer-Schnittstellen",
+        "example": "Nicht-invasive Gehirn-Computer-Schnittstellen dekodieren Elektroenzephalogramm-Signale in Echtzeit."
+      },
+      "english": {
+        "word": "brain-computer interface (BCI)",
+        "example": "Non-invasive brain-computer interfaces decode electroencephalogram signals in real time."
+      }
+    },
+    {
+      "id": "trans_004",
+      "icon": "trans_kognitiv",
+      "arabic": {
+        "word": "التَّعْزِيزُ الإِدْرَاكِيّ",
+        "meaning": "تَوْظِيفُ التِّقْنِيَّاتِ أَوْ الأَدْوِيَةِ لِتَحْسِينِ الوَظَائِفِ العَقْلِيَّةِ كَالذَّاكِرَةِ وَسُرْعَةِ التَّفْكِيرِ وَالانْتِبَاهِ"
+      },
+      "german": {
+        "word": "die kognitive Erweiterung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die kognitiven Erweiterungen",
+        "example": "Kognitive Erweiterungen durch neuronale Implantate werfen grundlegende Fragen der Chancengleichheit auf."
+      },
+      "english": {
+        "word": "cognitive augmentation / enhancement",
+        "example": "Cognitive augmentation through neural implants raises fundamental questions of equal opportunity."
+      }
+    },
+    {
+      "id": "trans_005",
+      "icon": "trans_biohacking",
+      "arabic": {
+        "word": "القَرْصَنَةُ البِيُولُوجِيَّة (البَايُوهَاكِينْغ)",
+        "meaning": "تَعْدِيلٌ ذَاتِيٌّ لِبِيُولُوجْيَا الجِسْمِ عَبْرَ التَّغْذِيَةِ وَالغَرْسَاتِ الصَّغِيرَةِ لِتَحْسِينِ الأَدَاءِ"
+      },
+      "german": {
+        "word": "das Biohacking",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Biohacking-Verfahren",
+        "example": "Biohacking reicht von optimierten Schlafprotokollen bis hin zur Implantation von RFID-Chips unter die Haut."
+      },
+      "english": {
+        "word": "biohacking",
+        "example": "Biohacking ranges from optimized sleep protocols to the implantation of subdermal RFID chips."
+      }
+    },
+    {
+      "id": "trans_006",
+      "icon": "trans_morphologisch",
+      "arabic": {
+        "word": "الحُرِّيَّةُ الشَّكْلِيَّة (المُورْفُولُوجِيَّة)",
+        "meaning": "حَقُّ الفَرْدِ فِي تَعْدِيلِ بِنْيَتِهِ الجَسَدِيَّةِ أَوْ البِيُولُوجِيَّةِ بِالحُرِّيَّةِ الكَامِلَةِ دُونَ قُيُودٍ قَسْرِيَّةٍ"
+      },
+      "german": {
+        "word": "die morphologische Freiheit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die morphologischen Freiheiten",
+        "example": "Das Postulat der morphologischen Freiheit verteidigt das Recht auf selbstbestimmte kybernetische Körpermodifikation."
+      },
+      "english": {
+        "word": "morphological freedom",
+        "example": "The postulate of morphological freedom defends the right to self-determined cybernetic bodily modification."
+      }
+    },
+    {
+      "id": "trans_007",
+      "icon": "trans_minduploading",
+      "arabic": {
+        "word": "تَحْمِيلُ العَقْل (رَفْعُ الوَعْيِ رَقْمِيًّا)",
+        "meaning": "فَرَضِيَّةٌ تَقْضِي بِنَسْخِ وَمُحَاكَاةِ كَامِلِ البِنْيَةِ العَصَبِيَّةِ لِلدِّمَاغِ عَلَى حَاسُوبٍ فَائِقٍ"
+      },
+      "german": {
+        "word": "das Mind-Uploading",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Mind-Uploads",
+        "example": "Mind-Uploading setzt die vollständige Entschlüsselung des menschlichen Konnektoms voraus."
+      },
+      "english": {
+        "word": "mind uploading / whole brain emulation",
+        "example": "Mind uploading presupposes the comprehensive decoding of the human connectome."
+      }
+    },
+    {
+      "id": "trans_008",
+      "icon": "trans_unsterblichkeit",
+      "arabic": {
+        "word": "الخُلُودُ الرَّقْمِيّ",
+        "meaning": "اسْتِمْرَارُ وُجُودِ الشَّخْصِيَّةِ وَالذِّكْرَيَاتِ وَالوَعْيِ فِي بِيئَةٍ افْتِرَاضِيَّةٍ لَا نِهَائِيَّةٍ بَعْدَ المَوْتِ البِيُولُوجِيِّ"
+      },
+      "german": {
+        "word": "die digitale Unsterblichkeit",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die digitalen Unsterblichkeiten",
+        "example": "Die Idee der digitalen Unsterblichkeit wirft fundamentale ontologische Fragen nach dem Wesen des Ichs auf."
+      },
+      "english": {
+        "word": "digital immortality",
+        "example": "The concept of digital immortality raises fundamental ontological questions about the nature of the self."
+      }
+    },
+    {
+      "id": "trans_009",
+      "icon": "trans_kybernetik",
+      "arabic": {
+        "word": "عِلْمُ التَّحَكُّمِ الآلِيّ (السِّيبِرْنِيطِيقَا)",
+        "meaning": "الدِّرَاسَةُ العِلْمِيَّةُ لِلتَّحَكُّمِ وَالتَّوَاصُلِ وَالتَّغْذِيَةِ الرَّاجِعَةِ فِي الكَائِنَاتِ الحَيَّةِ وَالآلَاتِ"
+      },
+      "german": {
+        "word": "die Kybernetik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Kybernetiken",
+        "example": "Norbert Wiener begründete die Kybernetik als interdisziplinäre Wissenschaft von Regelkreisen."
+      },
+      "english": {
+        "word": "cybernetics",
+        "example": "Norbert Wiener founded cybernetics as an interdisciplinary science of feedback loops."
+      }
+    },
+    {
+      "id": "trans_010",
+      "icon": "trans_cyborg",
+      "arabic": {
+        "word": "السَّايْبُورْغ (الكائن الهجين)",
+        "meaning": "كَائِنٌ حَيٌّ يَدْمِجُ بَيْنَ أَعْضَاءٍ بِيُولُوجِيَّةٍ طَبِيعِيَّةٍ وَأَجْهِزَةٍ تِكْنُولُوجِيَّةٍ اصْطِنَاعِيَّةٍ"
+      },
+      "german": {
+        "word": "der Cyborg",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Cyborgs",
+        "example": "Menschen mit Cochlea-Implantaten oder Herzschrittmachern gelten im weiteren Sinne bereits als Cyborgs."
+      },
+      "english": {
+        "word": "cyborg",
+        "example": "People with cochlear implants or pacemakers are already considered cyborgs in a broader sense."
+      }
+    },
+    {
+      "id": "trans_011",
+      "icon": "trans_sensorisch",
+      "arabic": {
+        "word": "الاسْتِبْدَالُ الحِسِّيّ",
+        "meaning": "تَحْوِيلُ المَعْلُومَاتِ الخَاصَّةِ بِحَاسَّةٍ مَفْقُودَةٍ (كَالبَصَرِ) لِتُسْتَقْبَلَ عَبْرَ حَاسَّةٍ أُخْرَى (كَاللَّمْسِ)"
+      },
+      "german": {
+        "word": "die sensorische Substitution",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die sensorischen Substitutionen",
+        "example": "Sensorische Substitution ermöglicht es Sehbehinderten, visuelle Daten über taktile Muster auf der Haut wahrzunehmen."
+      },
+      "english": {
+        "word": "sensory substitution",
+        "example": "Sensory substitution enables visually impaired individuals to perceive visual data via tactile skin patterns."
+      }
+    },
+    {
+      "id": "trans_012",
+      "icon": "trans_lebensverlaengerung",
+      "arabic": {
+        "word": "إِطَالَةُ العُمْرِ الجَذْرِيَّة",
+        "meaning": "إِبْطَاءُ أَوْ عَكْسُ عَمَلِيَّاتِ الشَّيْخُوخَةِ البِيُولُوجِيَّةِ لِتَمْدِيدِ سَنَوَاتِ العَافِيَةِ وَالحَيَاةِ"
+      },
+      "german": {
+        "word": "die radikale Lebensverlängerung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Lebensverlängerungen",
+        "example": "Die Telomerforschung erforscht Mechanismen zur radikalen Lebensverlängerung auf zellulärer Ebene."
+      },
+      "english": {
+        "word": "radical life extension / longevity",
+        "example": "Telomere research investigates mechanisms for radical life extension at the cellular level."
+      }
+    },
+    {
+      "id": "trans_013",
+      "icon": "trans_neuroenhancement",
+      "arabic": {
+        "word": "التَّحْسِينُ العَصَبِيّ",
+        "meaning": "تَنَاوُلُ مُرَكَّبَاتٍ صَيْدَلَانِيَّةٍ لِتَكْثِيفِ التَّرْكِيزِ وَالأَدَاءِ الذِّهْنِيِّ لَدَى الأَصِحَّاءِ"
+      },
+      "german": {
+        "word": "das Neuroenhancement",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Neuroenhancements",
+        "example": "Pharmakologisches Neuroenhancement unter Studierenden entfacht intensive Debatten über Leistungsdruck."
+      },
+      "english": {
+        "word": "neuroenhancement / cognitive enhancement",
+        "example": "Pharmacological neuroenhancement among students sparks intense debate on performance pressure."
+      }
+    },
+    {
+      "id": "trans_014",
+      "icon": "trans_neuroethik",
+      "arabic": {
+        "word": "الأَخْلَاقِيَّاتُ العَصَبِيَّة",
+        "meaning": "مَبْحَثٌ فَلْسَفِيٌّ يَدْرُسُ الآثَارَ الأَخْلَاقِيَّةَ وَالقَانُونِيَّةَ لِتِقْنِيَّاتِ التَّدَخُّلِ فِي الدِّمَاغِ البَشَرِيِّ"
+      },
+      "german": {
+        "word": "die Neuroethik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Neuroethiken",
+        "example": "Die Neuroethik verhandelt den Schutz der mentalen Privatsphäre im Zeitalter neuronaler Decoder."
+      },
+      "english": {
+        "word": "neuroethics",
+        "example": "Neuroethics negotiates the protection of mental privacy in an era of neural decoders."
+      }
+    },
+    {
+      "id": "trans_015",
+      "icon": "trans_rekonstruktion",
+      "arabic": {
+        "word": "إِعَادَةُ البِنَاءِ العَصَبِيّ",
+        "meaning": "تَرْمِيمُ وَإِصْلَاحُ المَسَارَاتِ العَصَبِيَّةِ التَّالِفَةِ بِاسْتِخْدَامِ المَوَادِّ النَّانَوِيَّةِ وَالخَلَايَا الجِذْعِيَّةِ"
+      },
+      "german": {
+        "word": "die neuronale Rekonstruktion",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die neuronalen Rekonstruktionen",
+        "example": "Biokompatible Gerüste unterstützen die neuronale Rekonstruktion nach Rückenmarksverletzungen."
+      },
+      "english": {
+        "word": "neural reconstruction",
+        "example": "Biocompatible scaffolds support neural reconstruction following spinal cord injuries."
+      }
+    },
+    {
+      "id": "trans_016",
+      "icon": "trans_nootropika",
+      "arabic": {
+        "word": "النُّوتْرُوبِيكَات (المُعَزِّزَاتُ الذِّهْنِيَّة)",
+        "meaning": "مَوَادُّ طَبِيعِيَّةٌ أَوْ اصْطِنَاعِيَّةٌ تُنَشِّطُ الدَّوْرَةَ الدِّمَاغِيَّةَ وَتَرْفَعُ اليَقَظَةَ المَعْرِفِيَّةَ"
+      },
+      "german": {
+        "word": "das Nootropikum",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die Nootropika",
+        "example": "Synthetische Nootropika versprechen gesteigerte Merkfähigkeit bei minimalen Nebenwirkungen."
+      },
+      "english": {
+        "word": "nootropics / smart drugs",
+        "example": "Synthetic nootropics promise enhanced retention capacity with minimal side effects."
+      }
+    },
+    {
+      "id": "trans_017",
+      "icon": "trans_kryonik",
+      "arabic": {
+        "word": "التَّجْمِيدُ البَشَرِيّ (الكْرِيُونِيك)",
+        "meaning": "حِفْظُ الجُثْمَانِ فِي دَرَجَاتِ حَرَارَةٍ شَدِيدَةِ الانْخِفَاضِ أَمَلًا فِي إِعَادَةِ إِحْيَائِهِ مُسْتَقْبَلًا"
+      },
+      "german": {
+        "word": "die Kryonik",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Kryonikverfahren",
+        "example": "Befürworter der Kryonik lassen ihren Körper in flüssigem Stickstoff bei minus 196 Grad vitrifizieren."
+      },
+      "english": {
+        "word": "cryonics",
+        "example": "Proponents of cryonics have their bodies vitrified in liquid nitrogen at minus 196 degrees."
+      }
+    },
+    {
+      "id": "trans_018",
+      "icon": "trans_exoskelett",
+      "arabic": {
+        "word": "الهَيْكَلُ العَظْمِيُّ الخَارِجِيّ",
+        "meaning": "دِرْعٌ آلِيٌّ مُتَحَرِّكٌ يَرْتَدِيهِ الإِنْسَانُ لِمُضَاعَفَةِ قُوَّتِهِ العَضَلِيَّةِ أَوْ مُسَاعَدَتِهِ عَلَى السَّيْرِ"
+      },
+      "german": {
+        "word": "das motorisierte Exoskelett",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die motorisierten Exoskelette",
+        "example": "Motorisierte Exoskelette entlasten Pflegekräfte und Industriearbeiter beim Heben schwerer Lasten."
+      },
+      "english": {
+        "word": "powered exoskeleton",
+        "example": "Powered exoskeletons relieve nurses and industrial workers when lifting heavy loads."
+      }
+    },
+    {
+      "id": "trans_019",
+      "icon": "trans_optogenetik",
+      "arabic": {
+        "word": "التَّحْفِيزُ البَصَرِيُّ الجِينِيّ (الأُوبْتُوجِينِيتِيكْس)",
+        "meaning": "تِقْنِيَّةٌ ثَوْرِيَّةٌ تَمْزِجُ بَيْنَ الجِينَاتِ وَالضَّوْءِ لِلتَّحَكُّمِ الدَّقِيقِ فِي نَشَاطِ خَلَايَا عَصَبِيَّةٍ مُفْرَدَةٍ"
+      },
+      "german": {
+        "word": "die optogenetische Stimulation",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die optogenetischen Stimulationen",
+        "example": "Optogenetische Stimulation erlaubt das gezielte An- und Abschalten spezifischer Neuronenverbände mit Laserpulsen."
+      },
+      "english": {
+        "word": "optogenetic stimulation",
+        "example": "Optogenetic stimulation enables targeted activation and silencing of specific neural circuits using laser pulses."
+      }
+    },
+    {
+      "id": "trans_020",
+      "icon": "trans_nanomedizin",
+      "arabic": {
+        "word": "طِبُّ النَّانُو",
+        "meaning": "اسْتِخْدَامُ الجُسَيْمَاتِ النَّانَوِيَّةِ الدَّقِيقَةِ لِإِيصَالِ الأَدْوِيَةِ أَوْ إِصْلَاحِ الخَلَايَا عَلَى المُسْتَوَى الجُزَيْئِيِّ"
+      },
+      "german": {
+        "word": "die Nanomedizin",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die Nanomedizinen",
+        "example": "Nanomedizinische Trägersysteme transportieren Wirkstoffe zielgenau in das Innere von Tumorzellen."
+      },
+      "english": {
+        "word": "nanomedicine",
+        "example": "Nanomedical delivery systems transport active pharmaceutical agents directly into tumor cells."
+      }
+    },
+    {
+      "id": "trans_021",
+      "icon": "trans_verschmelzung",
+      "arabic": {
+        "word": "الانْدِمَاجُ البِيُومِتْرِيّ",
+        "meaning": "التَّكَامُلُ السَّلِسُ بَيْنَ الإِشَارَاتِ الحَيَوِيَّةِ لِلْجَسَدِ وَأَنْظِمَةِ الهَوِيَّةِ وَالتَّشْغِيلِ السِّيبِيرَانِيَّةِ"
+      },
+      "german": {
+        "word": "die biometrische Verschmelzung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die biometrischen Verschmelzungen",
+        "example": "Die biometrische Verschmelzung von Körper und digitalem Schlüssel revolutioniert Sicherheitsarchitekturen."
+      },
+      "english": {
+        "word": "biometric integration / cybernetic fusion",
+        "example": "Biometric integration of body and digital key is revolutionizing security architectures."
+      }
+    },
+    {
+      "id": "trans_022",
+      "icon": "trans_posthumanismus",
+      "arabic": {
+        "word": "فَلْسَفَةُ مَا بَعْدَ الإِنْسَان",
+        "meaning": "نَظَرِيَّةٌ نَقْدِيَّةٌ تُسْقِطُ مَرْكَزِيَّةَ الإِنْسَانِ وَتَفْتَرِضُ ظُهُورَ كِيَانَاتٍ مُتَطَوِّرَةٍ تَتَفَوَّقُ عَلَى النَّوْعِ البَشَرِيِّ"
+      },
+      "german": {
+        "word": "der Posthumanismus",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die Posthumanismen",
+        "example": "Der Posthumanismus dezentriert den Menschen und betrachtet ihn als Teil eines vernetzten techno-ökologischen Gefüges."
+      },
+      "english": {
+        "word": "posthumanism",
+        "example": "Posthumanism de-centers humanity and views it as part of an interconnected techno-ecological fabric."
+      }
+    },
+    {
+      "id": "trans_023",
+      "icon": "trans_reprogrammierung",
+      "arabic": {
+        "word": "إِعَادَةُ البَرْمَجَةِ الخَلَوِيَّة",
+        "meaning": "إِعَادَةُ خَلَايَا الجِسْمِ الهَرِمَةِ إِلَى حَالَةٍ شَبَابِيَّةٍ جِذْعِيَّةٍ لِتَجْدِيدِ الأَنْسِجَةِ (عَوَامِلُ يَامَانَاكَا)"
+      },
+      "german": {
+        "word": "die zelluläre Reprogrammierung",
+        "article": "die",
+        "gender": "feminine",
+        "plural": "die zellulären Reprogrammierungen",
+        "example": "Shinya Yamanaka erhielt den Nobelpreis für die Entdeckung der zellulären Reprogrammierung reifer Zellen."
+      },
+      "english": {
+        "word": "cellular reprogramming",
+        "example": "Shinya Yamanaka received the Nobel Prize for the discovery of cellular reprogramming of mature cells."
+      }
+    },
+    {
+      "id": "trans_024",
+      "icon": "trans_organ",
+      "arabic": {
+        "word": "العُضْوُ الاصْطِنَاعِيُّ الحَيَوِيّ",
+        "meaning": "عُضْوٌ مِعْمَارِيٌّ يُبْنَى بِالطِّبَاعَةِ ثُلَاثِيَّةِ الأَبْعَادِ لِتَعْوِيضِ الأَعْضَاءِ التَّالِفَةِ دُونَ خَطَرِ الرَّفْضِ المَنَاعِيِّ"
+      },
+      "german": {
+        "word": "das bioartifizielle Organ",
+        "article": "das",
+        "gender": "neuter",
+        "plural": "die bioartifiziellen Organe",
+        "example": "Bioartifizielle Organe aus patienteneigenen Zellen könnten den chronischen Spendermangel dauerhaft beheben."
+      },
+      "english": {
+        "word": "bioartificial organ",
+        "example": "Bioartificial organs created from patient-derived cells could permanently resolve chronic donor shortages."
+      }
+    },
+    {
+      "id": "trans_025",
+      "icon": "trans_determinismus",
+      "arabic": {
+        "word": "الحَتْمِيَّةُ التِّكْنُولُوجِيَّة",
+        "meaning": "النَّظَرِيَّةُ الَّتِي تَرَى أَنَّ التَّطَوُّرَ التِّقْنِيَّ هُوَ المُحَرِّكُ الحَتْمِيُّ وَالمُسْتَقِلُّ لِتَغْيِيرِ المُجْتَمَعِ البَشَرِيِّ"
+      },
+      "german": {
+        "word": "der technologische Determinismus",
+        "article": "der",
+        "gender": "masculine",
+        "plural": "die technologischen Determinismen",
+        "example": "Kritiker werfen transhumanistischen Zukunftsvisionen oft einen naiven technologischen Determinismus vor."
+      },
+      "english": {
+        "word": "technological determinism",
+        "example": "Critics often accuse transhumanist future visions of a naive technological determinism."
+      }
+    }
+  ]
+}

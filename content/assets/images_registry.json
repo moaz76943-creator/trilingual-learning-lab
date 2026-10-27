@@ -6860,6 +6860,131 @@
       "path": "content/assets/svg/aero_nichtaneignung.svg",
       "type": "vector_svg",
       "category": "aerospace_spacelaw_c1"
+    },
+    "trans_transhumanismus": {
+      "path": "content/assets/svg/trans_transhumanismus.svg",
+      "type": "vector_svg",
+      "category": "transhumanism_c1"
+    },
+    "trans_neuroprothese": {
+      "path": "content/assets/svg/trans_neuroprothese.svg",
+      "type": "vector_svg",
+      "category": "transhumanism_c1"
+    },
+    "trans_bci": {
+      "path": "content/assets/svg/trans_bci.svg",
+      "type": "vector_svg",
+      "category": "transhumanism_c1"
+    },
+    "trans_kognitiv": {
+      "path": "content/assets/svg/trans_kognitiv.svg",
+      "type": "vector_svg",
+      "category": "transhumanism_c1"
+    },
+    "trans_biohacking": {
+      "path": "content/assets/svg/trans_biohacking.svg",
+      "type": "vector_svg",
+      "category": "transhumanism_c1"
+    },
+    "trans_morphologisch": {
+      "path": "content/assets/svg/trans_morphologisch.svg",
+      "type": "vector_svg",
+      "category": "transhumanism_c1"
+    },
+    "trans_minduploading": {
+      "path": "content/assets/svg/trans_minduploading.svg",
+      "type": "vector_svg",
+      "category": "transhumanism_c1"
+    },
+    "trans_unsterblichkeit": {
+      "path": "content/assets/svg/trans_unsterblichkeit.svg",
+      "type": "vector_svg",
+      "category": "transhumanism_c1"
+    },
+    "trans_kybernetik": {
+      "path": "content/assets/svg/trans_kybernetik.svg",
+      "type": "vector_svg",
+      "category": "transhumanism_c1"
+    },
+    "trans_cyborg": {
+      "path": "content/assets/svg/trans_cyborg.svg",
+      "type": "vector_svg",
+      "category": "transhumanism_c1"
+    },
+    "trans_sensorisch": {
+      "path": "content/assets/svg/trans_sensorisch.svg",
+      "type": "vector_svg",
+      "category": "transhumanism_c1"
+    },
+    "trans_lebensverlaengerung": {
+      "path": "content/assets/svg/trans_lebensverlaengerung.svg",
+      "type": "vector_svg",
+      "category": "transhumanism_c1"
+    },
+    "trans_neuroenhancement": {
+      "path": "content/assets/svg/trans_neuroenhancement.svg",
+      "type": "vector_svg",
+      "category": "transhumanism_c1"
+    },
+    "trans_neuroethik": {
+      "path": "content/assets/svg/trans_neuroethik.svg",
+      "type": "vector_svg",
+      "category": "transhumanism_c1"
+    },
+    "trans_rekonstruktion": {
+      "path": "content/assets/svg/trans_rekonstruktion.svg",
+      "type": "vector_svg",
+      "category": "transhumanism_c1"
+    },
+    "trans_nootropika": {
+      "path": "content/assets/svg/trans_nootropika.svg",
+      "type": "vector_svg",
+      "category": "transhumanism_c1"
+    },
+    "trans_kryonik": {
+      "path": "content/assets/svg/trans_kryonik.svg",
+      "type": "vector_svg",
+      "category": "transhumanism_c1"
+    },
+    "trans_exoskelett": {
+      "path": "content/assets/svg/trans_exoskelett.svg",
+      "type": "vector_svg",
+      "category": "transhumanism_c1"
+    },
+    "trans_optogenetik": {
+      "path": "content/assets/svg/trans_optogenetik.svg",
+      "type": "vector_svg",
+      "category": "transhumanism_c1"
+    },
+    "trans_nanomedizin": {
+      "path": "content/assets/svg/trans_nanomedizin.svg",
+      "type": "vector_svg",
+      "category": "transhumanism_c1"
+    },
+    "trans_verschmelzung": {
+      "path": "content/assets/svg/trans_verschmelzung.svg",
+      "type": "vector_svg",
+      "category": "transhumanism_c1"
+    },
+    "trans_posthumanismus": {
+      "path": "content/assets/svg/trans_posthumanismus.svg",
+      "type": "vector_svg",
+      "category": "transhumanism_c1"
+    },
+    "trans_reprogrammierung": {
+      "path": "content/assets/svg/trans_reprogrammierung.svg",
+      "type": "vector_svg",
+      "category": "transhumanism_c1"
+    },
+    "trans_organ": {
+      "path": "content/assets/svg/trans_organ.svg",
+      "type": "vector_svg",
+      "category": "transhumanism_c1"
+    },
+    "trans_determinismus": {
+      "path": "content/assets/svg/trans_determinismus.svg",
+      "type": "vector_svg",
+      "category": "transhumanism_c1"
     }
   }
 }
