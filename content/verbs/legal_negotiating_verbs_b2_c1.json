@@ -1,0 +1,370 @@
+{
+  "engine_id": "legal_negotiating_verbs_b2_c1",
+  "title_ar": "أفعال التقاضي والإبرام والمطالبات القانونية والتفاوضية",
+  "title_de": "Juristische, vertragliche und verhandlungsbezogene Verben (B2/C1)",
+  "title_en": "Legal, Contractual & Negotiating Verbs (B2/C1)",
+  "level": "B2/C1",
+  "count": 20,
+  "verbs": [
+    {
+      "id": "leg_01",
+      "infinitive": "verklagen",
+      "translation_ar": "يُقَاضِي / يَرْفَعُ دَعْوَى قَضَائِيَّةً ضِدَّ",
+      "translation_en": "to sue / to take legal action against",
+      "construction": "verklagen + Akk + auf + Akk (Schadensersatz)",
+      "present_third": "verklagt",
+      "preterite_third": "verklagte",
+      "perfect_third": "hat verklagt",
+      "svg_id": "svg_leg_verklagen",
+      "examples": [
+        {
+          "de": "Der Kläger verklagte den Konzern auf Zahlung von Schadensersatz.",
+          "ar": "قَاضَى الْمُدَّعِي الشَّرِكَةَ الْعِمْلَاقَةَ لِلْمُطَالَبَةِ بِدَفْعِ تَعْوِيضٍ عَنِ الضَّرَرِ.",
+          "en": "The plaintiff sued the corporation for payment of damages."
+        }
+      ]
+    },
+    {
+      "id": "leg_02",
+      "infinitive": "anfechten",
+      "translation_ar": "يَطْعَنُ فِي / يَسْتَأْنِفُ ضِدَّ قَرَارٍ",
+      "translation_en": "to contest / to challenge / to appeal",
+      "construction": "transitiv (ein Urteil / einen Beschluss anfechten)",
+      "present_third": "ficht an",
+      "preterite_third": "focht an",
+      "perfect_third": "hat angefochten",
+      "svg_id": "svg_leg_anfechten",
+      "examples": [
+        {
+          "de": "Die Anwälte fochten das erstinstanzliche Urteil fristgerecht an.",
+          "ar": "طَعَنَ الْمُحَامُونَ فِي حُكْمِ الْمَحْكَمَةِ الابْتِدَائِيَّةِ ضِمْنَ الْمُهْلَةِ الْقَانُونِيَّةِ.",
+          "en": "The lawyers contested the lower court's ruling within the statutory deadline."
+        }
+      ]
+    },
+    {
+      "id": "leg_03",
+      "infinitive": "aushandeln",
+      "translation_ar": "يَتَفَاوَضُ عَلَى / يُبْرِمُ بَعْدَ تَفَاوُضٍ",
+      "translation_en": "to negotiate / to hammer out",
+      "construction": "transitiv (einen Kompromiss / Vertrag aushandeln)",
+      "present_third": "handelt aus",
+      "preterite_third": "handelte aus",
+      "perfect_third": "hat ausgehandelt",
+      "svg_id": "svg_leg_aushandeln",
+      "examples": [
+        {
+          "de": "Die Tarifparteien handelten einen zukunftsfähigen Tarifvertrag aus.",
+          "ar": "تَفَاوَضَ طَرَفَا النِّزَاعِ الْعُمَّالِيِّ عَلَى عَقْدِ عَمَلٍ جَمَاعِيٍّ مُسْتَدَامٍ.",
+          "en": "The collective bargaining partners negotiated a viable collective agreement."
+        }
+      ]
+    },
+    {
+      "id": "leg_04",
+      "infinitive": "vollstrecken",
+      "translation_ar": "يُنَفِّذُ جَبْرِيًّا / يُطَبِّقُ حُكْمًا قَضَائِيًّا",
+      "translation_en": "to enforce / to execute (a judgment)",
+      "construction": "transitiv (einen Titel / ein Urteil vollstrecken)",
+      "present_third": "vollstreckt",
+      "preterite_third": "vollstreckte",
+      "perfect_third": "hat vollstreckt",
+      "svg_id": "svg_leg_vollstrecken",
+      "examples": [
+        {
+          "de": "Der Gerichtsvollzieher vollstreckte den rechtskräftigen Titel.",
+          "ar": "نَفَّذَ مَأْمُورُ التَّنْفِيذِ الْقَضَائِيِّ السَّنَدَ التَّنْفِيذِيَّ الْحَائِزَ لِقُوَّةِ الشَّيْءِ الْمَقْضِيِّ بِهِ.",
+          "en": "The bailiff enforced the legally binding enforcement order."
+        }
+      ]
+    },
+    {
+      "id": "leg_05",
+      "infinitive": "abtreten",
+      "translation_ar": "يَتَنَازَلُ عَنْ / يُحِيلُ حَقًّا أَوْ مِلْكِيَّةً",
+      "translation_en": "to cede / to assign (rights or claims)",
+      "construction": "abtreten + Akk + an + Akk",
+      "present_third": "tritt ab",
+      "preterite_third": "trat ab",
+      "perfect_third": "hat abgetreten",
+      "svg_id": "svg_leg_abtreten",
+      "examples": [
+        {
+          "de": "Der Gläubiger trat seine Forderungen an eine Factoring-Gesellschaft ab.",
+          "ar": "أَحَالَ الدَّائِنُ مُسْتَحَقَّاتِهِ الْمَالِيَّةَ إِلَى شَرِكَةِ تَحْصِيلِ دُيُونٍ.",
+          "en": "The creditor assigned his claims to a factoring company."
+        }
+      ]
+    },
+    {
+      "id": "leg_06",
+      "infinitive": "bevollmächtigen",
+      "translation_ar": "يُوَكِّلُ / يُفَوِّضُ رَسْمِيًّا",
+      "translation_en": "to authorize / to empower / to grant power of attorney",
+      "construction": "bevollmächtigen + Akk + zu + Dat",
+      "present_third": "bevollmächtigt",
+      "preterite_third": "bevollmächtigte",
+      "perfect_third": "hat bevollmächtigt",
+      "svg_id": "svg_leg_bevollmaechtigen",
+      "examples": [
+        {
+          "de": "Die Geschäftsführung bevollmächtigte den Justiziar zur Unterzeichnung.",
+          "ar": "فَوَّضَتِ الإِدَارَةُ التَّنْفِيذِيَّةُ الْمُسْتَشَارَ الْقَانُونِيَّ بِالتَّوْقِيعِ.",
+          "en": "The management authorized corporate legal counsel to sign."
+        }
+      ]
+    },
+    {
+      "id": "leg_07",
+      "infinitive": "beurkunden",
+      "translation_ar": "يُوَثِّقُ رَسْمِيًّا لَدَى كَاتِبِ الْعَدْلِ",
+      "translation_en": "to notarize / to authenticate formally",
+      "construction": "transitiv (einen Kaufvertrag notariell beurkunden)",
+      "present_third": "beurkundet",
+      "preterite_third": "beurkundete",
+      "perfect_third": "hat beurkundet",
+      "svg_id": "svg_leg_beurkunden",
+      "examples": [
+        {
+          "de": "Der Notar beurkundete den Grundstückskaufvertrag im Beisein beider Parteien.",
+          "ar": "وَثَّقَ كَاتِبُ الْعَدْلِ عَقْدَ شِرَاءِ الْعَقَارِ بِحُضُورِ الطَّرَفَيْنِ.",
+          "en": "The notary authenticated the real estate sales agreement in the presence of both parties."
+        }
+      ]
+    },
+    {
+      "id": "leg_08",
+      "infinitive": "einwilligen",
+      "translation_ar": "يُوَافِقُ رَسْمِيًّا / يَرْضَى بِشَرْطٍ",
+      "translation_en": "to consent / to agree formally",
+      "construction": "einwilligen in + Akk",
+      "present_third": "willigt ein",
+      "preterite_third": "willigte ein",
+      "perfect_third": "hat eingewilligt",
+      "svg_id": "svg_leg_einwilligen",
+      "examples": [
+        {
+          "de": "Der Patient willigte nach sorgfältiger Aufklärung in den Eingriff ein.",
+          "ar": "وَافَقَ الْمَرِيضُ عَلَى التَّدَخُّلِ الْجِرَاحِيِّ بَعْدَ إِحَاطَتِهِ بِكَافَّةِ التَّفَاصِيلِ.",
+          "en": "The patient consented to the intervention after thorough explanation."
+        }
+      ]
+    },
+    {
+      "id": "leg_09",
+      "infinitive": "unterbinden",
+      "translation_ar": "يَمْنَعُ قَانُونِيًّا / يَحْظُرُ نَشَاطًا",
+      "translation_en": "to prohibit / to stop / to prevent legally",
+      "construction": "transitiv",
+      "present_third": "unterbindet",
+      "preterite_third": "unterband",
+      "perfect_third": "hat unterbunden",
+      "svg_id": "svg_leg_unterbinden",
+      "examples": [
+        {
+          "de": "Das Gericht unterband per einstweiliger Verfügung den weiteren Vertrieb.",
+          "ar": "حَظَرَتِ الْمَحْكَمَةُ بِمُوجِبِ أَمْرٍ وَقْتِيٍّ اسْتِمْرَارَ عَمَلِيَّاتِ التَّوْزِيعِ.",
+          "en": "The court prohibited further distribution via an interim injunction."
+        }
+      ]
+    },
+    {
+      "id": "leg_10",
+      "infinitive": "reglementieren",
+      "translation_ar": "يُقَنِّنُ / يُخْضِعُ لِلَّوَائِحِ وَالأَنْظِمَةِ",
+      "translation_en": "to regulate / to subject to rules",
+      "construction": "transitiv",
+      "present_third": "reglementiert",
+      "preterite_third": "reglementierte",
+      "perfect_third": "hat reglementiert",
+      "svg_id": "svg_leg_reglementieren",
+      "examples": [
+        {
+          "de": "Der Gesetzgeber reglementiert den Zugang zu sensiblen Technologien streng.",
+          "ar": "يُقَنِّنُ الْمُشَرِّعُ الْوُصُولَ إِلَى التِّقْنِيَّاتِ الْحَسَّاسَةِ بِصَرَامَةٍ.",
+          "en": "The legislature strictly regulates access to sensitive technologies."
+        }
+      ]
+    },
+    {
+      "id": "leg_11",
+      "infinitive": "einreichen",
+      "translation_ar": "يُقَدِّمُ دَعْوَى / يُودِعُ طَلَبًا رَسْمِيًّا",
+      "translation_en": "to submit / to lodge / to file",
+      "construction": "einreichen + Akk + bei + Dat",
+      "present_third": "reicht ein",
+      "preterite_third": "reichte ein",
+      "perfect_third": "hat eingereicht",
+      "svg_id": "svg_leg_einreichen",
+      "examples": [
+        {
+          "de": "Die Kanzlei reichte die Klageschrift fristgemäß beim Landgericht ein.",
+          "ar": "أَوْدَعَتْ شَرِكَةُ الْمُحَامَاةِ صَحِيفَةَ الدَّعْوَى لَدَى الْمَحْكَمَةِ الابْتِدَائِيَّةِ فِي الْمَوْعِدِ الْمُحَدَّدِ.",
+          "en": "The law firm submitted the statement of claim to the regional court on time."
+        }
+      ]
+    },
+    {
+      "id": "leg_12",
+      "infinitive": "erwirken",
+      "translation_ar": "يَسْتَصْدِرُ قَرَارًا أَوْ حُكْمًا بَعْدَ مُطَالَبَةٍ",
+      "translation_en": "to obtain / to secure (an injunction or court order)",
+      "construction": "transitiv (einen Beschluss erwirken)",
+      "present_third": "erwirkt",
+      "preterite_third": "erwirkte",
+      "perfect_third": "hat erwirkt",
+      "svg_id": "svg_leg_erwirken",
+      "examples": [
+        {
+          "de": "Die Kläger erwirkten einen sofortigen Baustopp.",
+          "ar": "اسْتَصْدَرَ الْمُدَّعُونَ أَمْرًا قَضَائِيًّا بِالْوَقْفِ الْفَوْرِيِّ لِأَعْمَالِ الْبِنَاءِ.",
+          "en": "The plaintiffs obtained an immediate injunction halting construction."
+        }
+      ]
+    },
+    {
+      "id": "leg_13",
+      "infinitive": "ratifizieren",
+      "translation_ar": "يُصَادِقُ رَسْمِيًّا عَلَى مُعَاهَدَةٍ دَوْلِيَّةٍ",
+      "translation_en": "to ratify (a treaty or convention)",
+      "construction": "transitiv",
+      "present_third": "ratifiziert",
+      "preterite_third": "ratifizierte",
+      "perfect_third": "hat ratifiziert",
+      "svg_id": "svg_leg_ratifizieren",
+      "examples": [
+        {
+          "de": "Das Parlament ratifizierte das multilaterale Handelsabkommen mit großer Mehrheit.",
+          "ar": "صَادَقَ الْبَرْلَمَانُ عَلَى الاتِّفَاقِيَّةِ التِّجَارِيَّةِ مُتَعَدِّدَةِ الأَطْرَافِ بِأَغْلَبِيَّةٍ سَاحِقَةٍ.",
+          "en": "Parliament ratified the multilateral trade agreement by a large majority."
+        }
+      ]
+    },
+    {
+      "id": "leg_14",
+      "infinitive": "schlichten",
+      "translation_ar": "يُسَوِّي نِزَاعًا وِدِّيًّا / يُوَفِّقُ بَيْنَ الْخُصُومِ",
+      "translation_en": "to mediate / to conciliate / to arbitrate",
+      "construction": "transitiv (einen Streit schlichten)",
+      "present_third": "schlichtet",
+      "preterite_third": "schlichtete",
+      "perfect_third": "hat geschlichtet",
+      "svg_id": "svg_leg_schlichten",
+      "examples": [
+        {
+          "de": "Ein neutraler Mediator half, den langwierigen Rechtsstreit zu schlichten.",
+          "ar": "سَاعَدَ وَسِيطٌ مُحَايِدٌ فِي تَسْوِيَةِ النِّزَاعِ الْقَضَائِيِّ الطَّوِيلِ بِشَكْلٍ وِدِّيٍّ.",
+          "en": "A neutral mediator helped to settle the protracted legal dispute."
+        }
+      ]
+    },
+    {
+      "id": "leg_15",
+      "infinitive": "beilegen",
+      "translation_ar": "يُنْهِي خِلَافًا / يَتَوَصَّلُ إِلَى صُلْحٍ",
+      "translation_en": "to resolve / to settle (a conflict)",
+      "construction": "transitiv (eine Kontroverse beilegen)",
+      "present_third": "legt bei",
+      "preterite_third": "legte bei",
+      "perfect_third": "hat beigelegt",
+      "svg_id": "svg_leg_beilegen",
+      "examples": [
+        {
+          "de": "Beide Parteien einigten sich darauf, die Auseinandersetzung außergerichtlich beizulegen.",
+          "ar": "اتَّفَقَ الطَّرَفَانِ عَلَى تَسْوِيَةِ الْخِلَافِ وَإِنْهَائِهِ خَارِجَ سَاحَاتِ الْقَضَاءِ.",
+          "en": "Both parties agreed to settle the dispute out of court."
+        }
+      ]
+    },
+    {
+      "id": "leg_16",
+      "infinitive": "verhängen",
+      "translation_ar": "يَفْرِضُ عُقُوبَةً أَوْ غَرَامَةً أَوْ حَظْرًا",
+      "translation_en": "to impose / to inflict (sanctions or fines)",
+      "construction": "verhängen + Akk + über + Akk",
+      "present_third": "verhängt",
+      "preterite_third": "verhängte",
+      "perfect_third": "hat verhängt",
+      "svg_id": "svg_leg_verhaengen",
+      "examples": [
+        {
+          "de": "Die Kartellbehörde verhängte empfindliche Bußgelder über die Beteiligten.",
+          "ar": "فَرَضَتْ هَيْئَةُ حِمَايَةِ الْمُنَافَسَةِ غَرَامَاتٍ مَالِيَّةً بَاهِظَةً عَلَى الْمُتَوَرِّطِينَ.",
+          "en": "The antitrust authority imposed heavy fines on the parties involved."
+        }
+      ]
+    },
+    {
+      "id": "leg_17",
+      "infinitive": "haften",
+      "translation_ar": "يَتَحَمَّلُ الْمَسْؤُولِيَّةَ الْقَانُونِيَّةَ / يَضْمَنُ مَالِيًّا",
+      "translation_en": "to be liable / to be legally accountable",
+      "construction": "haften für + Akk (mit dem Privatvermögen haften)",
+      "present_third": "haftet",
+      "preterite_third": "haftete",
+      "perfect_third": "hat gehaftet",
+      "svg_id": "svg_leg_haften",
+      "examples": [
+        {
+          "de": "Die Gesellschafter haften gesamtschuldnerisch für die Verbindlichkeiten.",
+          "ar": "يَتَحَمَّلُ الشُّرَكَاءُ الْمَسْؤُولِيَّةَ التَّضَامُنِيَّةَ عَنِ الالْتِزَامَاتِ الْمَالِيَّةِ.",
+          "en": "The partners are jointly and severally liable for the debts."
+        }
+      ]
+    },
+    {
+      "id": "leg_18",
+      "infinitive": "darlegen",
+      "translation_ar": "يَعْرِضُ الأَسْبَابَ وَالْحُجَجَ بِتَفْصِيلٍ مُقْنِعٍ",
+      "translation_en": "to set forth / to explain / to plead",
+      "construction": "transitiv (seine Gründe darlegen)",
+      "present_third": "legt dar",
+      "preterite_third": "legte dar",
+      "perfect_third": "hat dargelegt",
+      "svg_id": "svg_leg_darlegen",
+      "examples": [
+        {
+          "de": "Der Anwalt legte die Rechtsgründe in einem fundierten Schriftsatz dar.",
+          "ar": "عَرَضَ الْمُحَامِي الأَسَانِيدَ الْقَانُونِيَّةَ فِي مُذَكَّرَةٍ مُحْكَمَةِ التَّأْسِيسِ.",
+          "en": "The attorney set forth the legal grounds in a well-substantiated brief."
+        }
+      ]
+    },
+    {
+      "id": "leg_19",
+      "infinitive": "einfordern",
+      "translation_ar": "يُطَالِبُ بِحَقٍّ مُسْتَحَقٍّ بِصَرَامَةٍ",
+      "translation_en": "to demand / to claim / to requisition",
+      "construction": "transitiv (Gerechtigkeit / Zahlung einfordern)",
+      "present_third": "fordert ein",
+      "preterite_third": "forderte ein",
+      "perfect_third": "hat eingefordert",
+      "svg_id": "svg_leg_einfordern",
+      "examples": [
+        {
+          "de": "Die Bürger fordern die konsequente Einhaltung der Verfassungsrechte ein.",
+          "ar": "يُطَالِبُ الْمُواطِنُونَ بِالِالْتِزَامِ الصَّارِمِ بِالْحُقُوقِ الدُّسْتُورِيَّةِ.",
+          "en": "Citizens demand strict adherence to constitutional rights."
+        }
+      ]
+    },
+    {
+      "id": "leg_20",
+      "infinitive": "verfügen",
+      "translation_ar": "يَأْمُرُ رَسْمِيًّا / يَقْضِي بِإِجْرَاءٍ مُلْزِمٍ",
+      "translation_en": "to decree / to order / to rule",
+      "construction": "verfügen + dass-Satz / über + Akk (disponieren)",
+      "present_third": "verfügt",
+      "preterite_third": "verfügte",
+      "perfect_third": "hat verfügt",
+      "svg_id": "svg_leg_verfuegen",
+      "examples": [
+        {
+          "de": "Die Aufsichtsbehörde verfügte die sofortige Stilllegung der defekten Anlage.",
+          "ar": "أَمَرَتِ الْهَيْئَةُ الرَّقَابِيَّةُ بِالإِيقَافِ الْفَوْرِيِّ لِتَشْغِيلِ الْمُنْشَأَةِ الْمَعْطُوبَةِ.",
+          "en": "The regulatory authority ordered the immediate shutdown of the defective facility."
+        }
+      ]
+    }
+  ]
+}
