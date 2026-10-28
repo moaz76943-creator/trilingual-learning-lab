@@ -1,0 +1,370 @@
+{
+  "engine_id": "scientific_empirical_verbs_b2_c1",
+  "title_ar": "أفعال العلوم الدقيقة والفيزياء التجريبية والمنهج العلمي",
+  "title_de": "Wissenschaftliche, empirische und physikalische Verben (B2/C1)",
+  "title_en": "Scientific, Empirical & Physics Research Verbs (B2/C1)",
+  "level": "B2/C1",
+  "count": 20,
+  "verbs": [
+    {
+      "id": "sci_01",
+      "infinitive": "korrelieren",
+      "translation_ar": "يَتَرَابَطُ إِحْصَائِيًّا / يَتَنَاسَبُ مَعَ",
+      "translation_en": "to correlate",
+      "construction": "korrelieren mit + Dat",
+      "present_third": "korreliert",
+      "preterite_third": "korrelierte",
+      "perfect_third": "hat korreliert",
+      "svg_id": "svg_sci_korrelieren",
+      "examples": [
+        {
+          "de": "Die Messwerte korrelieren signifikant mit der Umgebungstemperatur.",
+          "ar": "تَتَرَابَطُ قِيَمُ الْقِيَاسِ إِحْصَائِيًّا بِشَكْلٍ مَلْحُوظٍ مَعَ دَرَجَةِ حَرَارَةِ الْمُحِيطِ.",
+          "en": "The measured values correlate significantly with the ambient temperature."
+        }
+      ]
+    },
+    {
+      "id": "sci_02",
+      "infinitive": "oszillieren",
+      "translation_ar": "يَتَذَبْذَبُ / يَتَمَرْجَحُ دَوْرِيًّا",
+      "translation_en": "to oscillate / to fluctuate periodically",
+      "construction": "intransitiv / zwischen + Dat",
+      "present_third": "oszilliert",
+      "preterite_third": "oszillierte",
+      "perfect_third": "hat oszilliert",
+      "svg_id": "svg_sci_oszillieren",
+      "examples": [
+        {
+          "de": "Das Pendel oszilliert mit einer konstanten Eigenfrequenz.",
+          "ar": "يَتَذَبْذَبُ الْبَنْدُولُ بِتَرَدُّدٍ ذَاتِيٍّ ثَابِتٍ.",
+          "en": "The pendulum oscillates at a constant natural frequency."
+        }
+      ]
+    },
+    {
+      "id": "sci_03",
+      "infinitive": "verifizieren",
+      "translation_ar": "يَتَحَقَّقُ مِنْ صِدْقِ / يُثْبِتُ صِحَّةً تَجْرِيبِيًّا",
+      "translation_en": "to verify / to substantiate empirically",
+      "construction": "transitiv (eine Hypothese verifizieren)",
+      "present_third": "verifiziert",
+      "preterite_third": "verifizierte",
+      "perfect_third": "hat verifiziert",
+      "svg_id": "svg_sci_verifizieren",
+      "examples": [
+        {
+          "de": "Die Forscher konnten das theoretische Modell experimentell verifizieren.",
+          "ar": "تَمَكَّنَ الْبَاحِثُونَ مِنْ إِثْبَاتِ صِحَّةِ النَّمُوذَجِ النَّظَرِيِّ تَجْرِيبِيًّا.",
+          "en": "The researchers were able to verify the theoretical model experimentally."
+        }
+      ]
+    },
+    {
+      "id": "sci_04",
+      "infinitive": "falsifizieren",
+      "translation_ar": "يُفَنِّدُ / يُثْبِتُ بُطْلَانَ فَرَضِيَّةٍ عِلْمِيًّا",
+      "translation_en": "to falsify / to disprove empirically",
+      "construction": "transitiv (eine Theorie falsifizieren)",
+      "present_third": "falsifiziert",
+      "preterite_third": "falsifizierte",
+      "perfect_third": "hat falsifiziert",
+      "svg_id": "svg_sci_falsifizieren",
+      "examples": [
+        {
+          "de": "Ein einziges reproduzierbares Gegenbeispiel reicht aus, um eine Theorie zu falsifizieren.",
+          "ar": "يَكْفِي مِثَالٌ مُضَادٌّ وَاحِدٌ قَابِلٌ لِلتَّكْرَارِ لِتَفْنِيدِ نَظَرِيَّةٍ عِلْمِيَّةٍ.",
+          "en": "A single reproducible counterexample suffices to falsify a theory."
+        }
+      ]
+    },
+    {
+      "id": "sci_05",
+      "infinitive": "extrapolieren",
+      "translation_ar": "يَسْتَقْرِئُ / يَتَوَقَّعُ قِيَمًا خَارِجَ النِّطَاقِ الْمَعْلُومِ",
+      "translation_en": "to extrapolate",
+      "construction": "extrapolieren aus + Dat / auf + Akk",
+      "present_third": "extrapoliert",
+      "preterite_third": "extrapolierte",
+      "perfect_third": "hat extrapoliert",
+      "svg_id": "svg_sci_extrapolieren",
+      "examples": [
+        {
+          "de": "Klimatologen extrapolieren historische Temperaturdaten auf das kommende Jahrhundert.",
+          "ar": "يَسْتَقْرِئُ عُلَمَاءُ الْمَنَاخِ بَيَانَاتِ دَرَجَاتِ الْحَرَارَةِ التَّارِيخِيَّةِ لِلتَّنَبُّؤِ بِالْقَرْنِ الْقَادِمِ.",
+          "en": "Climatologists extrapolate historical temperature data onto the coming century."
+        }
+      ]
+    },
+    {
+      "id": "sci_06",
+      "infinitive": "diffundieren",
+      "translation_ar": "يَنْتَشِرُ فِيزْيَائِيًّا / يَنْفُذُ عَبْرَ وَسَطٍ",
+      "translation_en": "to diffuse / to permeate",
+      "construction": "diffundieren durch + Akk / in + Akk",
+      "present_third": "diffundiert",
+      "preterite_third": "diffundierte",
+      "perfect_third": "ist diffundiert",
+      "svg_id": "svg_sci_diffundieren",
+      "examples": [
+        {
+          "de": "Die Gasmoleküle diffundieren rasch durch die semipermeable Membran.",
+          "ar": "تَنْتَشِرُ جُزَيْئَاتُ الْغَازِ سَرِيعًا عَبْرَ الْغِشَاءِ شِبْهِ الْمُنَفِّذِ.",
+          "en": "The gas molecules diffuse rapidly through the semipermeable membrane."
+        }
+      ]
+    },
+    {
+      "id": "sci_07",
+      "infinitive": "synthetisieren",
+      "translation_ar": "يُخَلِّقُ كِيمْيَائِيًّا / يَرْكُبُ مُرَكَّبًا عِلْمِيًّا",
+      "translation_en": "to synthesize / to compound",
+      "construction": "synthetisieren aus + Dat",
+      "present_third": "synthetisiert",
+      "preterite_third": "synthetisierte",
+      "perfect_third": "hat synthetisiert",
+      "svg_id": "svg_sci_synthetisieren",
+      "examples": [
+        {
+          "de": "Im Labor gelang es den Chemikern, den neuartigen Wirkstoff zu synthetisieren.",
+          "ar": "نَجَحَ الْكِيمْيَائِيُّونَ فِي الْمُخْتَبَرِ فِي تَخْلِيقِ الْمَادَّةِ الْفَعَّالَةِ الْمُبْتَكَرَةِ.",
+          "en": "In the laboratory, chemists succeeded in synthesizing the novel active agent."
+        }
+      ]
+    },
+    {
+      "id": "sci_08",
+      "infinitive": "divergieren",
+      "translation_ar": "يَتَبَاعَدُ / يَفْتَرِقُ رِيَاضِيًّا أَوْ مَفْهُومِيًّا",
+      "translation_en": "to diverge",
+      "construction": "divergieren von + Dat",
+      "present_third": "divergiert",
+      "preterite_third": "divergierte",
+      "perfect_third": "hat divergiert",
+      "svg_id": "svg_sci_divergieren",
+      "examples": [
+        {
+          "de": "Die berechneten Simulationspfade divergieren ab einem bestimmten Schwellenwert stark.",
+          "ar": "تَتَبَاعَدُ مَسَارَاتُ الْمُحَاكَاةِ الْمَحْسُوبَةِ بِشِدَّةٍ بَدْءًا مِنْ قِيمَةِ عَتَبَةٍ مُعَيَّنَةٍ.",
+          "en": "The calculated simulation trajectories diverge sharply beyond a certain threshold."
+        }
+      ]
+    },
+    {
+      "id": "sci_09",
+      "infinitive": "konvergieren",
+      "translation_ar": "يَتَقَارَبُ نَحْوَ نُقْطَةٍ / يَلْتَقِي رِيَاضِيًّا",
+      "translation_en": "to converge",
+      "construction": "konvergieren gegen + Akk",
+      "present_third": "konvergiert",
+      "preterite_third": "konvergierte",
+      "perfect_third": "hat konvergiert",
+      "svg_id": "svg_sci_konvergieren",
+      "examples": [
+        {
+          "de": "Die mathematische Reihe konvergiert gegen einen eindeutigen Grenzwert.",
+          "ar": "تَتَقَارَبُ الْمُتَسَلْسِلَةُ الرِّيَاضِيَّةُ نَحْوَ نِهَايَةٍ قَاطِعَةٍ.",
+          "en": "The mathematical series converges toward a unique limit value."
+        }
+      ]
+    },
+    {
+      "id": "sci_10",
+      "infinitive": "quantifizieren",
+      "translation_ar": "يُحَدِّدُ كَمِّيًّا / يَقِيسُ مِقْدَارًا عَدَدِيًّا",
+      "translation_en": "to quantify / to measure numerically",
+      "construction": "transitiv (Fehler / Effekte quantifizieren)",
+      "present_third": "quantifiziert",
+      "preterite_third": "quantifizierte",
+      "perfect_third": "hat quantifiziert",
+      "svg_id": "svg_sci_quantifizieren",
+      "examples": [
+        {
+          "de": "Moderne Spektrometer erlauben es, kleinste Spurenelemente exakt zu quantifizieren.",
+          "ar": "تُتِيحُ الْمَطَايِيفُ الْحَدِيثَةُ تَحْدِيدَ كَمِّيَّاتِ أَدَقِّ الْعَنَاصِرِ الزَّهِيدَةِ بِإِتْقَانٍ.",
+          "en": "Modern spectrometers allow the precise quantification of minuscule trace elements."
+        }
+      ]
+    },
+    {
+      "id": "sci_11",
+      "infinitive": "kondensieren",
+      "translation_ar": "يَتَكَاثَفُ فِيزْيَائِيًّا / يُلَخِّصُ جَوْهَرَ فِكْرَةٍ",
+      "translation_en": "to condense",
+      "construction": "transitiv / intransitiv (zu + Dat)",
+      "present_third": "kondensiert",
+      "preterite_third": "kondensierte",
+      "perfect_third": "ist kondensiert / hat kondensiert",
+      "svg_id": "svg_sci_kondensieren",
+      "examples": [
+        {
+          "de": "Wasserdampf kondensiert an der gekühlten Oberfläche zu feinen Tropfen.",
+          "ar": "يَتَكَاثَفُ بُخَارُ الْمَاءِ عَلَى السَّطْحِ الْمُبَرَّدِ مُتَحَوِّلاً إِلَى قَطَرَاتٍ دَقِيقَةٍ.",
+          "en": "Water vapor condenses on the cooled surface into fine droplets."
+        }
+      ]
+    },
+    {
+      "id": "sci_12",
+      "infinitive": "katalysieren",
+      "translation_ar": "يُحَفِّزُ كِيمْيَائِيًّا / يُسَرِّعُ تَفَاعُلاً",
+      "translation_en": "to catalyze / to accelerate a reaction",
+      "construction": "transitiv (einen Prozess katalysieren)",
+      "present_third": "katalysiert",
+      "preterite_third": "katalysierte",
+      "perfect_third": "hat katalysiert",
+      "svg_id": "svg_sci_katalysieren",
+      "examples": [
+        {
+          "de": "Das Enzym katalysiert die Spaltung komplexer Makromoleküle.",
+          "ar": "يُحَفِّزُ الإِنْزِيمُ عَمَلِيَّةَ انْشِطَارِ الْجُزَيْئَاتِ الْكَبِيرَةِ الْمُعَقَّدَةِ.",
+          "en": "The enzyme catalyzes the cleavage of complex macromolecules."
+        }
+      ]
+    },
+    {
+      "id": "sci_13",
+      "infinitive": "absorbieren",
+      "translation_ar": "يَمْتَصُّ طَاقَةً أَوْ إِشْعَاعًا أَوْ سَائِلاً",
+      "translation_en": "to absorb (radiation, energy or light)",
+      "construction": "transitiv",
+      "present_third": "absorbiert",
+      "preterite_third": "absorbierte",
+      "perfect_third": "hat absorbiert",
+      "svg_id": "svg_sci_absorbieren",
+      "examples": [
+        {
+          "de": "Schwarze Oberflächen absorbieren fast das gesamte Spektrum des sichtbaren Lichts.",
+          "ar": "تَمْتَصُّ الأَسْطُحُ السَّوْدَاءُ كَافَّةَ طَيْفِ الضَّوْءِ الْمَرْئِيِّ تَقْرِيبًا.",
+          "en": "Black surfaces absorb almost the entire spectrum of visible light."
+        }
+      ]
+    },
+    {
+      "id": "sci_14",
+      "infinitive": "emittieren",
+      "translation_ar": "يَبْعَثُ إِشْعَاعًا أَوْ ضَوْءًا أَوْ جُسَيْمَاتٍ",
+      "translation_en": "to emit (light, radiation or particles)",
+      "construction": "transitiv",
+      "present_third": "emittiert",
+      "preterite_third": "emittierte",
+      "perfect_third": "hat emittiert",
+      "svg_id": "svg_sci_emittieren",
+      "examples": [
+        {
+          "de": "Der Laser emittiert kohärentes Licht einer präzisen Wellenlänge.",
+          "ar": "يَبْعَثُ اللَّيْزَرُ ضَوْءًا مُتَرَابِطًا ذَا طُولٍ مَوْجِيٍّ دَقِيقٍ.",
+          "en": "The laser emits coherent light of a precise wavelength."
+        }
+      ]
+    },
+    {
+      "id": "sci_15",
+      "infinitive": "kalibrieren",
+      "translation_ar": "يُعَايِرُ أَدَاةَ قِيَاسٍ بِدِقَّةٍ",
+      "translation_en": "to calibrate",
+      "construction": "transitiv (ein Messgerät kalibrieren)",
+      "present_third": "kalibriert",
+      "preterite_third": "kalibrierte",
+      "perfect_third": "hat kalibriert",
+      "svg_id": "svg_sci_kalibrieren",
+      "examples": [
+        {
+          "de": "Vor jedem Versuch muss das Messinstrument exakt kalibriert werden.",
+          "ar": "يَجِبُ مُعَايَرَةُ جِهَازِ الْقِيَاسِ بِدِقَّةٍ قَبْلَ كُلِّ تَجْرِبَةٍ.",
+          "en": "Before each experiment, the measuring instrument must be precisely calibrated."
+        }
+      ]
+    },
+    {
+      "id": "sci_16",
+      "infinitive": "desintegrieren",
+      "translation_ar": "يَتَفَتَّتُ / يَتَحَلَّلُ ذَرِّيًّا أَوْ بِنْيَوِيًّا",
+      "translation_en": "to disintegrate / to decay",
+      "construction": "intransitiv / zu + Dat",
+      "present_third": "desintegriert",
+      "preterite_third": "desintegrierte",
+      "perfect_third": "ist desintegriert",
+      "svg_id": "svg_sci_desintegrieren",
+      "examples": [
+        {
+          "de": "Instabile Isotope desintegrieren unter Aussendung radioaktiver Strahlung.",
+          "ar": "تَتَحَلَّلُ النَّظَائِرُ غَيْرُ الْمُسْتَقِرَّةِ مُطْلِقَةً إِشْعَاعَاتٍ نَشِطَةً.",
+          "en": "Unstable isotopes disintegrate with the emission of radioactive radiation."
+        }
+      ]
+    },
+    {
+      "id": "sci_17",
+      "infinitive": "polarisieren",
+      "translation_ar": "يَسْتَقْطِبُ ضَوْئِيًّا أَوْ كَهْرَبَائِيًّا",
+      "translation_en": "to polarize (light or charges)",
+      "construction": "transitiv",
+      "present_third": "polarisiert",
+      "preterite_third": "polarisierte",
+      "perfect_third": "hat polarisiert",
+      "svg_id": "svg_sci_polarisieren",
+      "examples": [
+        {
+          "de": "Spezielle Filter polarisieren das einfallende Licht linear.",
+          "ar": "تَسْتَقْطِبُ الْمُرَشِّحَاتُ الْخَاصَّةُ الضَّوْءَ السَّاقِطَ خَطِّيًّا.",
+          "en": "Special filters linearly polarize the incident light."
+        }
+      ]
+    },
+    {
+      "id": "sci_18",
+      "infinitive": "modulieren",
+      "translation_ar": "يُضَمِّنُ مَوْجَةً / يُعَدِّلُ إِشَارَةً حَامِلَةً",
+      "translation_en": "to modulate (signals or waves)",
+      "construction": "transitiv",
+      "present_third": "moduliert",
+      "preterite_third": "modulierte",
+      "perfect_third": "hat moduliert",
+      "svg_id": "svg_sci_modulieren",
+      "examples": [
+        {
+          "de": "Der Sender moduliert die Trägerwelle zur Übertragung hochfrequenter Signale.",
+          "ar": "يُضَمِّنُ جِهَازُ الإِرْسَالِ الْمَوْجَةَ الْحَامِلَةَ لِنَقْلِ الإِشَارَاتِ عَالِيَةِ التَّرَدُّدِ.",
+          "en": "The transmitter modulates the carrier wave to transmit high-frequency signals."
+        }
+      ]
+    },
+    {
+      "id": "sci_19",
+      "infinitive": "induzieren",
+      "translation_ar": "يَسْتَحِثُّ كَهْرَبَائِيًّا / يَحُثُّ مَغْنَاطِيسِيًّا",
+      "translation_en": "to induce (electromagnetic currents)",
+      "construction": "transitiv (einen Strom induzieren)",
+      "present_third": "induziert",
+      "preterite_third": "induzierte",
+      "perfect_third": "hat induziert",
+      "svg_id": "svg_sci_induzieren",
+      "examples": [
+        {
+          "de": "Ein veränderliches Magnetfeld induziert eine elektrische Spannung in der Spule.",
+          "ar": "يَسْتَحِثُّ الْمَجَالُ الْمَغْنَاطِيسِيُّ الْمُتَغَيِّرُ جُهْدًا كَهْرَبَائِيًّا فِي الْمَلَفِّ.",
+          "en": "A changing magnetic field induces an electrical voltage in the coil."
+        }
+      ]
+    },
+    {
+      "id": "sci_20",
+      "infinitive": "sedimentieren",
+      "translation_ar": "يَتَرَسَّبُ جُسَيْمِيًّا فِي سَائِلٍ",
+      "translation_en": "to sediment / to settle by gravity",
+      "construction": "intransitiv",
+      "present_third": "sedimentiert",
+      "preterite_third": "sedimentierte",
+      "perfect_third": "ist sedimentiert",
+      "svg_id": "svg_sci_sedimentieren",
+      "examples": [
+        {
+          "de": "Die suspendierten Partikel sedimentieren unter Einfluss der Schwerkraft.",
+          "ar": "تَتَرَسَّبُ الْجُسَيْمَاتُ الْمُعَلَّقَةُ تَحْتَ تَأْثِيرِ قُوَّةِ الْجَاذِبِيَّةِ.",
+          "en": "The suspended particles sediment under the influence of gravity."
+        }
+      ]
+    }
+  ]
+}
