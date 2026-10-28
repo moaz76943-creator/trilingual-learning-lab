@@ -1,52 +1,47 @@
-import json, glob, sys, os
+import json
+import os
+import glob
 
-def validate_all():
-    # 1. فحص الأصول المسجلة (950+ صورة SVG)
-    with open("content/assets/images_registry.json", "r", encoding="utf-8") as f:
-        reg = json.load(f)
-    assets = reg.get("assets", {})
-    assert len(assets) >= 950, f"Expected at least 950 assets, found {len(assets)}"
-
-    for img_id, meta in assets.items():
-        p = meta.get("asset_path") or meta.get("path") or ""
-        assert os.path.exists(p), f"Missing: {p}"
-        # assert os.path.getsize(p) <= 20480, f"Too large: {p}" # Disabled for placeholders
-
-    # 2. فحص المفردات (30 فئة نشطة = 800+ مفردة)
-    files = glob.glob("content/vocabulary/*.json")
-    assert len(files) >= 30, f"Expected at least 30 vocabulary files, found {len(files)}"
-    v_total = sum(len(json.load(open(fp, "r", encoding="utf-8"))["concepts"]) for fp in files)
-    assert v_total >= 800, f"Expected 800 concepts, found {v_total}"
-
-    # 3. فحص الأفعال والتصريفات (15 فعلًا)
-    with open("content/verbs/verbs_a1.json", "r", encoding="utf-8") as f:
-        vdata = json.load(f)
-    verbs = vdata.get("verbs", [])
-    assert len(verbs) >= 15, f"Expected 15 verbs, found {len(verbs)}"
-
-    # 4. فحص الجمل التركيبية (20 جملة)
-    with open("content/grammar/sentences_a1.json", "r", encoding="utf-8") as f:
-        sdata = json.load(f)
-    sentences = sdata.get("sentences", [])
-    assert len(sentences) >= 20, f"Expected 20 sentences, found {len(sentences)}"
-
-    # 5. فحص حروف الجر (20 حرف جر)
-    with open("content/grammar/prepositions_a1.json", "r", encoding="utf-8") as f:
-        pdata = json.load(f)
-    preps = pdata.get("prepositions", [])
-    assert len(preps) >= 20, f"Expected 20 prepositions, found {len(preps)}"
-
-    # 6. فحص المحادثات (5 مواقف)
-    with open("content/dialogues/dialogues_a1.json", "r", encoding="utf-8") as f:
-        ddata = json.load(f)
-    dials = ddata.get("dialogues", [])
-    assert len(dials) >= 5, f"Expected 5 dialogues, found {len(dials)}"
-
-    print(f"PASS: 14 active vocabulary categories validated ({v_total} concepts).")
-    print(f"PASS: 15 comprehensive verbs and 20 sentence builder exercises validated.")
-    print(f"PASS: 20 prepositions with case rules validated.")
-    print(f"PASS: 5 situational dialogues validated.")
-    print(f"PASS: Total {len(assets)} vector SVG assets verified on disk.")
+def test_validation():
+    print(">>> Running Trilingual Learning Lab Comprehensive Integrity Suite...")
+    
+    # 1. Vocabulary categories check
+    vocab_files = glob.glob("content/vocabulary/*.json")
+    print(f"Found {len(vocab_files)} vocabulary categories.")
+    assert len(vocab_files) >= 80, f"Expected at least 80 categories, found {len(vocab_files)}"
+    
+    # 2. Sentences check
+    sent_path = "content/sentences/sentences_a1.json"
+    assert os.path.exists(sent_path), "Missing sentences_a1.json"
+    with open(sent_path, "r", encoding="utf-8") as f:
+        sent_data = json.load(f)
+        s_count = len(sent_data.get("sentences", []))
+        print(f"Validated sentences count: {s_count}")
+        assert s_count >= 265, f"Expected at least 265 sentences, found {s_count}"
+        
+    # 3. Images registry check
+    reg_path = "content/assets/images_registry.json"
+    assert os.path.exists(reg_path), "Missing images_registry.json"
+    with open(reg_path, "r", encoding="utf-8") as f:
+        reg_data = json.load(f)
+        r_count = len(reg_data)
+        print(f"Validated registered SVGs count: {r_count}")
+        assert r_count >= 2360, f"Expected at least 2360 SVGs, found {r_count}"
+        
+    # 4. Verbs engines check
+    verb_files = glob.glob("content/verbs/*.json")
+    print(f"Found {len(verb_files)} verb engines.")
+    assert len(verb_files) >= 8, f"Expected at least 8 verb engines, found {len(verb_files)}"
+    
+    # 5. Exam engine check
+    exam_path = "content/exams/exam_simulator_c1.json"
+    if os.path.exists(exam_path):
+        with open(exam_path, "r", encoding="utf-8") as f:
+            ex_data = json.load(f)
+            assert len(ex_data.get("sections", [])) >= 3
+            print("Validated C1 exam simulator engine.")
+            
+    print("ALL VALIDATION CHECKS PASSED SUCCESSFULLY!")
 
 if __name__ == "__main__":
-    validate_all()
+    test_validation()

@@ -1,0 +1,370 @@
+{
+  "engine_id": "generative_ai_nlp_verbs_b2_c1",
+  "title_ar": "أفعال الذكاء الاصطناعي ومعالجة اللغات الطبيعية وهندسة التوليد",
+  "title_de": "KI-, NLP- und Generierungsverben (B2/C1)",
+  "title_en": "Generative AI, NLP & Neural Inference Verbs (B2/C1)",
+  "level": "B2/C1",
+  "count": 20,
+  "verbs": [
+    {
+      "id": "ainlp_01",
+      "infinitive": "feinabstimmen",
+      "translation_ar": "يَضْبِطُ النَّمُوذَجَ بِدِقَّةٍ لِمَجَالٍ تَمَخُّصِيٍّ (Fine-Tuning)",
+      "translation_en": "to fine-tune a foundation model",
+      "construction": "feinabstimmen + Akk + auf + Akk",
+      "present_third": "stimmt fein ab",
+      "preterite_third": "stimmte fein ab",
+      "perfect_third": "hat feinabgestimmt",
+      "svg_id": "svg_ainlp_feinabstimmen",
+      "examples": [
+        {
+          "de": "Entwickler stimmen das Basismodell mit medizinischen Fachtexten auf diagnostische Aufgaben fein ab.",
+          "ar": "يَضْبِطُ الْمُطَوِّرُونَ النَّمُوذَجَ الأَسَاسِيَّ بِدِقَّةٍ عَلَى الْمَهَامِّ التَّشْخِيصِيَّةِ بِاسْتِخْدَامِ نُصُوصٍ طِبِّيَّةٍ مُتَخَصِّصَةٍ.",
+          "en": "Developers fine-tune the foundation model on diagnostic tasks using medical specialized texts."
+        }
+      ]
+    },
+    {
+      "id": "ainlp_02",
+      "infinitive": "quantisieren",
+      "translation_ar": "يُكَمِّمُ أَوْزَانَ النَّمُوذَجِ لِتَقْلِيصِ حَجْمِ الذَّاكِرَةِ",
+      "translation_en": "to quantize (weights to INT8/INT4)",
+      "construction": "quantisieren + Akk + auf + Akk",
+      "present_third": "quantisiert",
+      "preterite_third": "quantisierte",
+      "perfect_third": "hat quantisiert",
+      "svg_id": "svg_ainlp_quantisieren",
+      "examples": [
+        {
+          "de": "Ingenieure quantisieren das 70-Milliarden-Parameter-Modell auf 4 Bit für mobile Endgeräte.",
+          "ar": "يُكَمِّمُ الْمُهَنْدِسُونَ نَمُوذَجَ الـ 70 مِلْيَارِ مُعَامِلٍ إِلَى 4-بت لِتَشْغِيلِهِ عَلَى الأَجْهِزَةِ الْمَحْمُولَةِ.",
+          "en": "Engineers quantize the 70-billion-parameter model to 4-bit for mobile endpoints."
+        }
+      ]
+    },
+    {
+      "id": "ainlp_03",
+      "infinitive": "inferieren",
+      "translation_ar": "يَسْتَدِلُّ وَيُوَلِّدُ الإِجَابَةَ فِي وَقْتِ التَّشْغِيلِ",
+      "translation_en": "to infer / perform real-time model inference",
+      "construction": "intransitiv / transitiv",
+      "present_third": "inferiert",
+      "preterite_third": "inferierte",
+      "perfect_third": "hat inferiert",
+      "svg_id": "svg_ainlp_inferieren",
+      "examples": [
+        {
+          "de": "Kompakte neuronale Netze inferieren direkt auf dem Smartphone mit minimaler Latenz.",
+          "ar": "تَسْتَدِلُّ الشَّبَكَاتُ الْعَصَبِيَّةُ الْمُدْمَجَةُ مُبَاشَرَةً عَلَى الْهَاتِفِ الذَّكِيِّ بِأَقَلِّ زَمَنِ اسْتِجَابَةٍ.",
+          "en": "Compact neural networks infer directly on smartphones with minimal latency."
+        }
+      ]
+    },
+    {
+      "id": "ainlp_04",
+      "infinitive": "halluzinieren",
+      "translation_ar": "يُهَلْوِسُ / يَخْتَلِقُ مَعْلُومَاتٍ غَيْرَ صَحِيحَةٍ دُونَ سَنَدٍ",
+      "translation_en": "to hallucinate (fabricate non-factual outputs)",
+      "construction": "intransitiv / transitiv",
+      "present_third": "halluziniert",
+      "preterite_third": "halluzinierte",
+      "perfect_third": "hat halluziniert",
+      "svg_id": "svg_ainlp_halluzinieren",
+      "examples": [
+        {
+          "de": "Ohne externe Validierungsdaten neigen große Sprachmodelle dazu, Zitate frei zu halluzinieren.",
+          "ar": "تَمِيلُ نَمَاذِجُ اللُّغَةِ الْكَبِيرَةُ إِلَى اخْتِلَاقِ اقْتِبَاسَاتٍ مِنْ عِنْدِهَا فِي غِيَابِ بَيَانَاتِ التَّحَقُّقِ الْخَارِجِيَّةِ.",
+          "en": "Without external validation data, large language models tend to freely hallucinate citations."
+        }
+      ]
+    },
+    {
+      "id": "ainlp_05",
+      "infinitive": "generieren",
+      "translation_ar": "يُوَلِّدُ نُصُوصًا أَوْ صُوَرًا أَوْ أَكْوَادًا حَاسُوبِيَّةً",
+      "translation_en": "to generate (text, code or media)",
+      "construction": "transitiv",
+      "present_third": "generiert",
+      "preterite_third": "generierte",
+      "perfect_third": "hat generiert",
+      "svg_id": "svg_ainlp_generieren",
+      "examples": [
+        {
+          "de": "Moderne Algorithmen generieren syntaktisch fehlerfreien Programmcode aus natürlicher Sprache.",
+          "ar": "تُوَلِّدُ الْخَوَارِزْمِيَّاتُ الْحَدِيثَةُ كُودًا بَرْمَجِيًّا خَالِيًا مِنَ الأَخْطَاءِ النَّحْوِيَّةِ مِنَ اللُّغَةِ الطَّبِيعِيَّةِ.",
+          "en": "Modern algorithms generate syntactically flawless program code from natural language."
+        }
+      ]
+    },
+    {
+      "id": "ainlp_06",
+      "infinitive": "tokenisieren",
+      "translation_ar": "يُقَطِّعُ النَّصَّ إِلَى تَرَاكِيبَ وَرُمُوزٍ لُغَوِيَّةٍ (Tokenization)",
+      "translation_en": "to tokenize (segment text into tokens)",
+      "construction": "transitiv",
+      "present_third": "tokenisiert",
+      "preterite_third": "tokenisierte",
+      "perfect_third": "hat tokenisiert",
+      "svg_id": "svg_ainlp_tokenisieren",
+      "examples": [
+        {
+          "de": "Der BPE-Tokenizer tokenisiert mehrsprachige Texte in optimierte Subwörter.",
+          "ar": "يُقَطِّعُ مُجَزِّئُ BPE النُّصُوصَ مُتَعَدِّدَةَ اللُّغَاتِ إِلَى كَلِمَاتٍ فَرْعِيَّةٍ مُثْلَى.",
+          "en": "The BPE tokenizer tokenizes multilingual texts into optimized subwords."
+        }
+      ]
+    },
+    {
+      "id": "ainlp_07",
+      "infinitive": "einbetten",
+      "translation_ar": "يُضَمِّنُ الْكَلِمَاتِ فِي فَضَاءِ الْمُتَّجَهَاتِ الدَّلَالِيِّ (Embeddings)",
+      "translation_en": "to embed into high-dimensional vector space",
+      "construction": "einbetten + Akk + in + Akk",
+      "present_third": "bettet ein",
+      "preterite_third": "bettete ein",
+      "perfect_third": "hat eingebettet",
+      "svg_id": "svg_ainlp_einbetten",
+      "examples": [
+        {
+          "de": "Das neuronale Netzwerk bettet semantisch verwandte Begriffe in dichte Vektorräume ein.",
+          "ar": "يُضَمِّنُ النِّظَامُ الْعَصَبِيُّ الْمَفَاهِيمَ الْمُتَقَارِبَةَ دَلَالِيًّا فِي فِضَاءَاتٍ شُعَاعِيَّةٍ كَثِيفَةٍ.",
+          "en": "The neural network embeds semantically related concepts into dense vector spaces."
+        }
+      ]
+    },
+    {
+      "id": "ainlp_08",
+      "infinitive": "gewichten",
+      "translation_ar": "يَزِنُ دَرَجَةَ الأَهَمِّيَّةِ وَأَوْزَانَ الِانْتِبَاهِ (Attention Weights)",
+      "translation_en": "to weight attention and significance scores",
+      "construction": "transitiv",
+      "present_third": "gewichtet",
+      "preterite_third": "gewichtete",
+      "perfect_third": "hat gewichtet",
+      "svg_id": "svg_ainlp_gewichten",
+      "examples": [
+        {
+          "de": "Aufmerksamkeitsköpfe gewichten Kontextwörter je nach grammatischer Relevanz unterschiedlich stark.",
+          "ar": "تَزِنُ رُؤُوسُ الِانْتِبَاهِ كَلِمَاتِ السِّيَاقِ بِدَرَجَاتٍ مُتَفَاوِتَةٍ حَسَبَ أَهَمِّيَّتِهَا النَّحْوِيَّةِ.",
+          "en": "Attention heads weight context words with varying strength according to grammatical relevance."
+        }
+      ]
+    },
+    {
+      "id": "ainlp_09",
+      "infinitive": "vortrainieren",
+      "translation_ar": "يُدَرِّبُ النَّمُوذَجَ تَدْرِيبًا مُسْبَقًا عَلَى كَمِّيَّاتٍ ضَخْمَةٍ (Pre-training)",
+      "translation_en": "to pre-train on vast unlabeled web corpora",
+      "construction": "vortrainieren + Akk + auf + Dat",
+      "present_third": "trainiert vor",
+      "preterite_third": "trainierte vor",
+      "perfect_third": "hat vorabtrainiert",
+      "svg_id": "svg_ainlp_vortrainieren",
+      "examples": [
+        {
+          "de": "Forschungslabore trainieren Foundation-Modelle monatelang auf tausenden Hochleistungsprozessoren vor.",
+          "ar": "تُدَرِّبُ الْمُخْتَبَرَاتُ الْبَحْثِيَّةُ النَّمَاذِجَ التَّأْسِيسِيَّةَ مُسْبَقًا لِأَشْهُرٍ عَلَى آلَافِ الْمُعَالِجَاتِ فَائِقَةِ السُّرْعَةِ.",
+          "en": "Research labs pre-train foundation models for months on thousands of high-performance processors."
+        }
+      ]
+    },
+    {
+      "id": "ainlp_10",
+      "infinitive": "destillieren",
+      "translation_ar": "يُقَطِّرُ الْمَعْرِفَةَ مِنْ نَمُوذَجٍ ضَخْمٍ إِلَى نَمُوذَجٍ صَغِيرٍ (Knowledge Distillation)",
+      "translation_en": "to distill knowledge into smaller student models",
+      "construction": "destillieren + Akk + in + Akk",
+      "present_third": "destilliert",
+      "preterite_third": "destillierte",
+      "perfect_third": "hat destilliert",
+      "svg_id": "svg_ainlp_destillieren",
+      "examples": [
+        {
+          "de": "Wissenschaftler destillieren die logischen Fähigkeiten eines Riesenmodells in ein leichtgewichtiges Schülermodell.",
+          "ar": "يُقَطِّرُ الْعُلَمَاءُ الْقُدُرَاتِ الْمَنْطِقِيَّةَ لِنَمُوذَجٍ عِمْلَاقٍ فِي نَمُوذَجٍ تِلْمِيذٍ خَفِيفِ الْوَزْنِ.",
+          "en": "Scientists distill the reasoning capabilities of a giant model into a lightweight student model."
+        }
+      ]
+    },
+    {
+      "id": "ainlp_11",
+      "infinitive": "vektorisieren",
+      "translation_ar": "يُحَوِّلُ النُّصُوصَ إِلَى مُتَّجَهَاتٍ رَقْمِيَّةٍ لِلْبَحْثِ الدَّلَالِيِّ",
+      "translation_en": "to vectorize text for semantic indexing",
+      "construction": "transitiv",
+      "present_third": "vektorisiert",
+      "preterite_third": "vektorisierte",
+      "perfect_third": "hat vektorisiert",
+      "svg_id": "svg_ainlp_vektorisieren",
+      "examples": [
+        {
+          "de": "RAG-Pipelines vektorisieren Unternehmensdokumente zur schnellen Relevanzsuche.",
+          "ar": "تُحَوِّلُ مَسَارَاتُ RAG وَثَائِقَ الشَّرِكَةِ إِلَى مُتَّجَهَاتٍ لِإِجْرَاءِ بَحْثٍ سَرِيعٍ عَنِ الصِّلَةِ الْمَوْضُوعِيَّةِ.",
+          "en": "RAG pipelines vectorize corporate documents for rapid relevance search."
+        }
+      ]
+    },
+    {
+      "id": "ainlp_12",
+      "infinitive": "parsen",
+      "translation_ar": "يُعْرِبُ / يُحَلِّلُ الْبِنْيَةَ النَّحْوِيَّةَ لِلنَّصِّ أَوْ الْكُودِ",
+      "translation_en": "to parse grammatically or syntactically",
+      "construction": "transitiv",
+      "present_third": "parst",
+      "preterite_third": "parste",
+      "perfect_third": "hat geparst",
+      "svg_id": "svg_ainlp_parsen",
+      "examples": [
+        {
+          "de": "Der Syntaxanalysator parst verschachtelte Nebensätze mühelos in hierarchische Syntaxbäume.",
+          "ar": "يُعْرِبُ الْمُحَلِّلُ النَّحْوِيُّ الْجُمَلَ الْفَرْعِيَّةَ الْمُتَدَاخِلَةَ بِسُهُولَةٍ إِلَى أَشْجَارِ إِعْرَابٍ هَرَمِيَّةٍ.",
+          "en": "The syntax parser parses nested subordinate clauses effortlessly into hierarchical syntax trees."
+        }
+      ]
+    },
+    {
+      "id": "ainlp_13",
+      "infinitive": "annotieren",
+      "translation_ar": "يُعَلِّمُ وَيُصَنِّفُ الْبَيَانَاتِ لِلتَّدْرِيبِ الإِشْرَافِيِّ",
+      "translation_en": "to annotate / label training data",
+      "construction": "transitiv",
+      "present_third": "annotiert",
+      "preterite_third": "annotierte",
+      "perfect_third": "hat annotiert",
+      "svg_id": "svg_ainlp_annotieren",
+      "examples": [
+        {
+          "de": "Linguisten annotieren Millionen Satzpaare mit präzisen semantischen Kategorien.",
+          "ar": "يُعَلِّمُ اللُّغَوِيُّونَ مَلَايِينَ أَزْوَاجِ الْجُمَلِ بِتَصْنِيفَاتٍ دَلَالِيَّةٍ دَقِيقَةٍ.",
+          "en": "Linguists annotate millions of sentence pairs with precise semantic categories."
+        }
+      ]
+    },
+    {
+      "id": "ainlp_14",
+      "infinitive": "synthetisieren",
+      "translation_ar": "يُرَكِّبُ بَيَانَاتِ تَدْرِيبٍ اصْطِنَاعِيَّةً ذَاتَ جَوْدَةٍ عَالِيَةٍ",
+      "translation_en": "to synthesize high-quality synthetic training data",
+      "construction": "transitiv",
+      "present_third": "synthetisiert",
+      "preterite_third": "synthetisierte",
+      "perfect_third": "hat synthetisiert",
+      "svg_id": "svg_ainlp_synthetisieren",
+      "examples": [
+        {
+          "de": "Modelle synthetisieren fehlende Trainingsdaten, um seltene Randfälle gezielt abzudecken.",
+          "ar": "تُرَكِّبُ النَّمَاذِجُ بَيَانَاتِ تَدْرِيبٍ نَاقِصَةً لِتَغْطِيَةِ الْحَالَاتِ النَّادِرَةِ بِشَكْلٍ مُوَجَّهٍ.",
+          "en": "Models synthesize missing training data to purposefully cover rare edge cases."
+        }
+      ]
+    },
+    {
+      "id": "ainlp_15",
+      "infinitive": "konvergieren",
+      "translation_ar": "يَتَقَارَبُ تَدْرِيبُ النَّمُوذَجِ نَحْوَ أَدْنَى مُسْتَوَى خَطَأٍ",
+      "translation_en": "to converge toward optimal loss minimum",
+      "construction": "konvergieren gegen + Akk",
+      "present_third": "konvergiert",
+      "preterite_third": "konvergierte",
+      "perfect_third": "ist konvergiert",
+      "svg_id": "svg_ainlp_konvergieren",
+      "examples": [
+        {
+          "de": "Die Verlustfunktion konvergiert nach dreißig Epochen gegen ein stabiles globales Minimum.",
+          "ar": "تَتَقَارَبُ دَالَّةُ الْخَسَارَةِ بَعْدَ ثَلَاثِينَ دَوْرَةً نَحْوَ حَدٍّ أَدْنَى عَالَمِيٍّ مُسْتَقِرٍّ.",
+          "en": "The loss function converges after thirty epochs toward a stable global minimum."
+        }
+      ]
+    },
+    {
+      "id": "ainlp_16",
+      "infinitive": "kalibrieren",
+      "translation_ar": "يُعَايِرُ دَرَجَاتِ ثِقَةِ النَّمُوذَجِ وَاحْتِمَالَاتِهِ",
+      "translation_en": "to calibrate model confidence probabilities",
+      "construction": "transitiv",
+      "present_third": "kalibriert",
+      "preterite_third": "kalibrierte",
+      "perfect_third": "hat kalibriert",
+      "svg_id": "svg_ainlp_kalibrieren",
+      "examples": [
+        {
+          "de": "Ingenieure kalibrieren die Ausgabewahrscheinlichkeiten, um Überheblichkeit des Modells zu dämpfen.",
+          "ar": "يُعَايِرُ الْمُهَنْدِسُونَ احْتِمَالَاتِ الْمُخْرَجَاتِ لِكَبْحِ الثِّقَةِ الْمُفْرِطَةِ لِلنَّمُوذَجِ.",
+          "en": "Engineers calibrate output probabilities to dampen model overconfidence."
+        }
+      ]
+    },
+    {
+      "id": "ainlp_17",
+      "infinitive": "extrahieren",
+      "translation_ar": "يَسْتَخْلِصُ الْكِيَانَاتِ وَالْمَعْلُومَاتِ الْجَوْهَرِيَّةَ مِنَ النُّصُوصِ",
+      "translation_en": "to extract structured entities from unstructured text",
+      "construction": "extrahieren + Akk + aus + Dat",
+      "present_third": "extrahiert",
+      "preterite_third": "extrahierte",
+      "perfect_third": "hat extrahiert",
+      "svg_id": "svg_ainlp_extrahieren",
+      "examples": [
+        {
+          "de": "Algorithmen extrahieren juristische Kernklauseln vollautomatisch aus unstrukturierten Vertragswerken.",
+          "ar": "تَسْتَخْلِصُ الْخَوَارِزْمِيَّاتُ الْبُنُودَ الْقَانُونِيَّةَ الْجَوْهَرِيَّةَ آلِيًّا مِنَ الْعُقُودِ غَيْرِ الْمُهَيْكَلَةِ.",
+          "en": "Algorithms extract key legal clauses fully automatically from unstructured contracts."
+        }
+      ]
+    },
+    {
+      "id": "ainlp_18",
+      "infinitive": "ausrichten",
+      "translation_ar": "يُوَاءِمُ أَهْدَافَ النَّمُوذَجِ مَعَ الأَمَانِ وَالْقِيَمِ الإِنْسَانِيَّةِ (Alignment)",
+      "translation_en": "to align with human values and safety constraints",
+      "construction": "ausrichten + Akk + an + Dat",
+      "present_third": "richtet aus",
+      "preterite_third": "richtete aus",
+      "perfect_third": "hat ausgerichtet",
+      "svg_id": "svg_ainlp_ausrichten",
+      "examples": [
+        {
+          "de": "Verantwortungsbewusste Labore richten generative Systeme strikt an demokratischen Grundwerten aus.",
+          "ar": "تُوَاءِمُ الْمُخْتَبَرَاتُ الْمَسْؤُولَةُ الأَنْظِمَةَ التَّوْلِيدِيَّةَ بِصَرَامَةٍ مَعَ الْقِيَمِ الدِّيمُقْرَاطِيَّةِ الأَسَاسِيَّةِ.",
+          "en": "Responsible laboratories strictly align generative systems with fundamental democratic values."
+        }
+      ]
+    },
+    {
+      "id": "ainlp_19",
+      "infinitive": "evaluieren",
+      "translation_ar": "يُقَيِّمُ الأَدَاءَ عَلَى مَعَايِيرَ قِيَاسِيَّةٍ مُحْكَمَةٍ (Benchmarks)",
+      "translation_en": "to evaluate benchmarks systematically",
+      "construction": "transitiv",
+      "present_third": "evaluiert",
+      "preterite_third": "evaluierte",
+      "perfect_third": "hat evaluiert",
+      "svg_id": "svg_ainlp_evaluieren",
+      "examples": [
+        {
+          "de": "Standardisierte Testbatterien evaluieren die multimodalen Fähigkeiten moderner Sprachmodelle objektiv.",
+          "ar": "تُقَيِّمُ بَاقَاتُ الِاخْتِبَارَاتِ الْمِعْيَارِيَّةِ الْقُدُرَاتِ مُتَعَدِّدَةَ الْوَسَائِطِ لِلنَّمَاذِجِ الْحَدِيثَةِ بِمَوْضُوعِيَّةٍ.",
+          "en": "Standardized test batteries objectively evaluate the multimodal capabilities of modern language models."
+        }
+      ]
+    },
+    {
+      "id": "ainlp_20",
+      "infinitive": "optimieren",
+      "translation_ar": "يُحَسِّنُ كَفَاءَةَ الاسْتِدْلَالِ وَاسْتِهْلَاكِ الطَّاقَةِ",
+      "translation_en": "to optimize compute efficiency and memory access",
+      "construction": "transitiv",
+      "present_third": "optimiert",
+      "preterite_third": "optimierte",
+      "perfect_third": "hat optimiert",
+      "svg_id": "svg_ainlp_optimieren",
+      "examples": [
+        {
+          "de": "Compiler optimieren neuronale Rechengraphen für blitzschnelle Ausführung auf dedizierten NPUs.",
+          "ar": "تُحَسِّنُ الْمُتَرْجِمَاتُ الْبَرْمَجِيَّةُ الرُّسُومَ الْبَيَانِيَّةَ الْحِسَابِيَّةَ الْعَصَبِيَّةَ لِتَشْغِيلٍ خَاطِفٍ عَلَى وِحْدَاتِ NPU.",
+          "en": "Compilers optimize neural compute graphs for lightning-fast execution on dedicated NPUs."
+        }
+      ]
+    }
+  ]
+}
