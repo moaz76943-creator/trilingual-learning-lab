@@ -1,0 +1,370 @@
+{
+  "engine_id": "ontological_epistemological_verbs_b2_c1",
+  "title_ar": "أفعال الفلسفة والمنطق والأنطولوجيا الكبرى ونظرية المعرفة",
+  "title_de": "Ontologische, erkenntnistheoretische und philosophische Verben (B2/C1)",
+  "title_en": "Ontological, Epistemological & High Philosophical Verbs (B2/C1)",
+  "level": "B2/C1",
+  "count": 20,
+  "verbs": [
+    {
+      "id": "onto_01",
+      "infinitive": "existieren",
+      "translation_ar": "يُوجَدُ كَيْنُونِيًّا / يَتَحَقَّقُ وُجُودُهُ فِي الْعَالَمِ",
+      "translation_en": "to exist / to have ontological being",
+      "construction": "intransitiv / in + Dat",
+      "present_third": "existiert",
+      "preterite_third": "existierte",
+      "perfect_third": "hat existiert",
+      "svg_id": "svg_onto_existieren",
+      "examples": [
+        {
+          "de": "Ideen existieren nach Platon in einem zeitlosen transzendenten Reich.",
+          "ar": "تُوجَدُ الْمُثُلُ عِنْدَ أَفْلَاطُونَ فِي عَالَمٍ مُتَعَالٍ خَالِدٍ لَا يَحُدُّهُ الزَّمَانُ.",
+          "en": "According to Plato, ideas exist in a timeless, transcendent realm."
+        }
+      ]
+    },
+    {
+      "id": "onto_02",
+      "infinitive": "transzendieren",
+      "translation_ar": "يَتَسَامَى فَوْقَ / يَتَجَاوَزُ حُدُودَ التَّجْرِبَةِ الْحِسِّيَّةِ",
+      "translation_en": "to transcend",
+      "construction": "transitiv (die empirische Welt transzendieren)",
+      "present_third": "transzendiert",
+      "preterite_third": "transzendierte",
+      "perfect_third": "hat transzendiert",
+      "svg_id": "svg_onto_transzendieren",
+      "examples": [
+        {
+          "de": "Metaphysisches Denken versucht, die Grenzen sinnlicher Wahrnehmung zu transzendieren.",
+          "ar": "يَسْعَى التَّفْكِيرُ الْمِيتَافِيزِيقِيُّ إِلَى تَجَاوُزِ حُدُودِ الإِدْرَاكِ الْحِسِّيِّ.",
+          "en": "Metaphysical thought attempts to transcend the boundaries of sensory perception."
+        }
+      ]
+    },
+    {
+      "id": "onto_03",
+      "infinitive": "ontologisieren",
+      "translation_ar": "يُضْفِي طَابَعَ الْوُجُودِ الأَصِيلِ / يَجْعَلُهُ كِيَانًا أَنْطُولُوجِيًّا",
+      "translation_en": "to ontologize / to treat as an ontological entity",
+      "construction": "transitiv",
+      "present_third": "ontologisiert",
+      "preterite_third": "ontologisierte",
+      "perfect_third": "hat ontologisiert",
+      "svg_id": "svg_onto_ontologisieren",
+      "examples": [
+        {
+          "de": "Man sollte sprachliche Konstrukte nicht voreilig zu realen Entitäten ontologisieren.",
+          "ar": "لَا يَنْبَغِي إِضْفَاءُ طَابَعِ الْوُجُودِ الأَنْطُولُوجِيِّ بِتَسَرُّعٍ عَلَى الْبِنَى اللُّغَوِيَّةِ كَأَنَّهَا كِيَانَاتٌ حَقِيقِيَّةٌ.",
+          "en": "One should not prematurely ontologize linguistic constructs into real entities."
+        }
+      ]
+    },
+    {
+      "id": "onto_04",
+      "infinitive": "negieren",
+      "translation_ar": "يَنْفِي وُجُودَ / يَقْضِي بِبُطْلَانِ أَمْرٍ",
+      "translation_en": "to negate / to deny existence",
+      "construction": "transitiv (den Sinn des Daseins negieren)",
+      "present_third": "negiert",
+      "preterite_third": "negierte",
+      "perfect_third": "hat negiert",
+      "svg_id": "svg_onto_negieren",
+      "examples": [
+        {
+          "de": "Der radikale Skeptizismus negiert die Möglichkeit objektiver Erkenntnis.",
+          "ar": "يَنْفِي الشَّكُّ الرَّادِيكَالِيُّ إِمْكَانِيَّةَ الْوُصُولِ إِلَى مَعْرِفَةٍ مَوْضُوعِيَّةٍ.",
+          "en": "Radical skepticism negates the possibility of objective knowledge."
+        }
+      ]
+    },
+    {
+      "id": "onto_05",
+      "infinitive": "deduzieren",
+      "translation_ar": "يَسْتَنْبِطُ مَنْطِقِيًّا (مِنَ الْكُلِّيَّاتِ إِلَى الْجُزْئِيَّاتِ)",
+      "translation_en": "to deduce logically",
+      "construction": "deduzieren + Akk + aus + Dat",
+      "present_third": "deduziert",
+      "preterite_third": "deduzierte",
+      "perfect_third": "hat deduziert",
+      "svg_id": "svg_onto_deduzieren",
+      "examples": [
+        {
+          "de": "Spinoza deduzierte sein gesamtes ethisches System aus wenigen Grundaxiomen.",
+          "ar": "اسْتَنْبَطَ سْبِينُوزَا نَسَقَهُ الأَخْلَاقِيَّ بِكَامِلِهِ مِنْ بَدِيهِيَّاتٍ أَسَاسِيَّةٍ مَعْدُودَةٍ.",
+          "en": "Spinoza deduced his entire ethical system from a few fundamental axioms."
+        }
+      ]
+    },
+    {
+      "id": "onto_06",
+      "infinitive": "induzieren",
+      "translation_ar": "يَسْتَقْرِئُ مَنْطِقِيًّا (مِنَ الْمُلَاحَظَاتِ إِلَى قَانُونٍ عَامٍّ)",
+      "translation_en": "to induce (reasoning from parts to whole)",
+      "construction": "induzieren + Akk + aus + Dat",
+      "present_third": "induziert",
+      "preterite_third": "induzierte",
+      "perfect_third": "hat induziert",
+      "svg_id": "svg_onto_induzieren",
+      "examples": [
+        {
+          "de": "Aus wiederholten Beobachtungen induzierte der Empiriker allgemeine Naturgesetze.",
+          "ar": "اسْتَقْرَأَ الْفَيْلَسُوفُ التَّجْرِيبِيُّ قَوَانِينَ طَبِيعِيَّةً عَامَّةً مِنْ مُلَاحَظَاتٍ مُتَكَرِّرَةٍ.",
+          "en": "From repeated observations, the empiricist induced general laws of nature."
+        }
+      ]
+    },
+    {
+      "id": "onto_07",
+      "infinitive": "konstituieren",
+      "translation_ar": "يُؤَسِّسُ بِنْيَوِيًّا / يُشَكِّلُ قِوَامَ الشَّيْءِ مَعْرِفِيًّا",
+      "translation_en": "to constitute / to establish structurally",
+      "construction": "transitiv (Erfahrung konstituieren)",
+      "present_third": "konstituiert",
+      "preterite_third": "konstituierte",
+      "perfect_third": "hat konstituiert",
+      "svg_id": "svg_onto_konstituieren",
+      "examples": [
+        {
+          "de": "Kants Kategorien konstituieren die Bedingungen der Möglichkeit jeglicher Erfahrung.",
+          "ar": "تُؤَسِّسُ مَقُولَاتُ كَانْط الشُّرُوطَ الَّتِي تَجْعَلُ كُلَّ تَجْرِبَةٍ مُمْكِنَةً.",
+          "en": "Kant's categories constitute the conditions of the possibility of any experience."
+        }
+      ]
+    },
+    {
+      "id": "onto_08",
+      "infinitive": "abstrahieren",
+      "translation_ar": "يُجَرِّدُ ذِهْنِيًّا / يَصْرِفُ النَّظَرَ عَنِ الْعَوَارِضِ",
+      "translation_en": "to abstract / to dissociate conceptually",
+      "construction": "abstrahieren von + Dat",
+      "present_third": "abstrahiert",
+      "preterite_third": "abstrahierte",
+      "perfect_third": "hat abstrahiert",
+      "svg_id": "svg_onto_abstrahieren",
+      "examples": [
+        {
+          "de": "Philosophen abstrahieren von individuellen Eigenschaften, um das Wesen zu erfassen.",
+          "ar": "يُجَرِّدُ الْفَلَاسِفَةُ الصِّفَاتِ الْفَرْدِيَّةَ لِلْوُصُولِ إِلَى كُنْهِ الْجَوْهَرِ.",
+          "en": "Philosophers abstract from individual traits to grasp the essence."
+        }
+      ]
+    },
+    {
+      "id": "onto_09",
+      "infinitive": "emanieren",
+      "translation_ar": "يَفِيضُ وُجُودِيًّا (نَظَرِيَّةُ الْفَيْضِ عِنْدَ الأَفْلُوطِينِيَّةِ)",
+      "translation_en": "to emanate ontologically",
+      "construction": "emanieren aus + Dat",
+      "present_third": "emaniert",
+      "preterite_third": "emanierte",
+      "perfect_third": "ist emaniert",
+      "svg_id": "svg_onto_emanieren",
+      "examples": [
+        {
+          "de": "Im Neuplatonismus emaniert die gesamte Schöpfung stufenweise aus dem Einen.",
+          "ar": "تَفِيضُ الْخَلِيقَةُ بِأَسْرِهَا فِي الأَفْلُوطِينِيَّةِ الْحَدِيثَةِ تَدْرِيجِيًّا عَنِ 'الْوَاحِدِ'.",
+          "en": "In Neoplatonism, all of creation emanates gradatedly from the One."
+        }
+      ]
+    },
+    {
+      "id": "onto_10",
+      "infinitive": "manifestieren",
+      "translation_ar": "يَتَجَلَّى / يَظْهَرُ لِلْعِيَانِ عَبْرَ صِيغَةٍ مَلْمُوسَةٍ",
+      "translation_en": "to manifest",
+      "construction": "sich manifestieren in + Dat",
+      "present_third": "manifestiert",
+      "preterite_third": "manifestierte",
+      "perfect_third": "hat manifestiert",
+      "svg_id": "svg_onto_manifestieren",
+      "examples": [
+        {
+          "de": "Der Weltgeist manifestiert sich nach Hegel in den Epochen der Weltgeschichte.",
+          "ar": "يَتَجَلَّى 'رُوحُ الْعَالَمِ' عِنْدَ هِيغِل فِي حِقَبِ التَّارِيخِ الْعَالَمِيِّ.",
+          "en": "According to Hegel, the world spirit manifests itself in the epochs of world history."
+        }
+      ]
+    },
+    {
+      "id": "onto_11",
+      "infinitive": "kontemplieren",
+      "translation_ar": "يَتَأَمَّلُ رُوحِيًّا وَعَقْلِيًّا بِعُمْقٍ",
+      "translation_en": "to contemplate / to gaze deeply into reality",
+      "construction": "transitiv (die Wahrheit kontemplieren)",
+      "present_third": "kontempliert",
+      "preterite_third": "kontemplierte",
+      "perfect_third": "hat kontempliert",
+      "svg_id": "svg_onto_kontemplieren",
+      "examples": [
+        {
+          "de": "Mönche und Denker kontemplieren über die Vergänglichkeit allen irdischen Seins.",
+          "ar": "يَتَأَمَّلُ الرُّهْبَانُ وَالْمُفَكِّرُونَ فِي زَوَالِ كُلِّ كِيَانٍ أَرْضِيٍّ دُنْيَوِيٍّ.",
+          "en": "Monks and thinkers contemplate the transience of all earthly being."
+        }
+      ]
+    },
+    {
+      "id": "onto_12",
+      "infinitive": "synthetisieren",
+      "translation_ar": "يُؤَلِّفُ بَيْنَ النَّقِيضَيْنِ (تَرْكِيبٌ جَدَلِيٌّ هِيغِلِيٌّ)",
+      "translation_en": "to synthesize dialectically",
+      "construction": "synthetisieren + Akk + mit + Dat",
+      "present_third": "synthetisiert",
+      "preterite_third": "synthetisierte",
+      "perfect_third": "hat synthetisiert",
+      "svg_id": "svg_onto_synthetisieren",
+      "examples": [
+        {
+          "de": "Die Synthese synthetisiert These und Antithese zu einer höheren Erkenntnisstufe.",
+          "ar": "يُؤَلِّفُ التَّرْكِيبُ الْجَدَلِيُّ بَيْنَ الأُطْرُوحَةِ وَنَقِيضِهَا فِي مَرْتَبَةٍ مَعْرِفِيَّةٍ أَعْلَى.",
+          "en": "The synthesis combines thesis and antithesis into a higher level of knowledge."
+        }
+      ]
+    },
+    {
+      "id": "onto_13",
+      "infinitive": "substanziieren",
+      "translation_ar": "يَمْنَحُ جَوْهَرًا وَقِوَامًا حَقِيقِيًّا / يُؤَصِّلُ",
+      "translation_en": "to substantiate philosophically",
+      "construction": "transitiv",
+      "present_third": "substanziiert",
+      "preterite_third": "substanziierte",
+      "perfect_third": "hat substanziiert",
+      "svg_id": "svg_onto_substanziieren",
+      "examples": [
+        {
+          "de": "Der Philosoph bemühte sich, seine Theorie durch ontologische Argumente zu substanziieren.",
+          "ar": "سَعَى الْفَيْلَسُوفُ إِلَى تَأْصِيلِ نَظَرِيَّتِهِ بِأَدِلَّةٍ أَنْطُولُوجِيَّةٍ جَوْهَرِيَّةٍ.",
+          "en": "The philosopher strived to substantiate his theory through ontological arguments."
+        }
+      ]
+    },
+    {
+      "id": "onto_14",
+      "infinitive": "dialektisieren",
+      "translation_ar": "يُعَالِجُ جَدَلِيًّا / يَكْشِفُ التَّنَاقُضَاتِ الدَّاخِلِيَّةَ",
+      "translation_en": "to dialectize / to subject to dialectical critique",
+      "construction": "transitiv",
+      "present_third": "dialektisiert",
+      "preterite_third": "dialektisierte",
+      "perfect_third": "hat dialektisiert",
+      "svg_id": "svg_onto_dialektisieren",
+      "examples": [
+        {
+          "de": "Adorno dialektisiert scheinbar feste Kategorien der bürgerlichen Vernunft.",
+          "ar": "يُعَالِجُ أَدُورْنُو مَقُولَاتِ الْعَقْلِ الْبُرْجُوَازِيِّ الَّتِي تَبْدُو رَاسِخَةً عَبْرَ الْجَدَلِ النَّقْدِيِّ.",
+          "en": "Adorno dialectizes seemingly rigid categories of bourgeois reason."
+        }
+      ]
+    },
+    {
+      "id": "onto_15",
+      "infinitive": "vergegenwärtigen",
+      "translation_ar": "يَسْتَحْضِرُ فِي الْوَعْيِ / يُمَثِّلُ حَاضِرًا أَمَامَ الذِّهْنِ",
+      "translation_en": "to bring to presence / to visualize consciously",
+      "construction": "sich (Dat) + Akk vergegenwärtigen",
+      "present_third": "vergegenwärtigt",
+      "preterite_third": "vergegenwärtigte",
+      "perfect_third": "hat vergegenwärtigt",
+      "svg_id": "svg_onto_vergegenwaertigen",
+      "examples": [
+        {
+          "de": "Man muss sich die historische Bedingtheit des eigenen Denkens vergegenwärtigen.",
+          "ar": "يَجِبُ عَلَى الْمَرْءِ أَنْ يَسْتَحْضِرَ فِي وَعْيِهِ الشَّرْطِيَّةَ التَّارِيخِيَّةَ لِتَفْكِيرِهِ الْخَاصِّ.",
+          "en": "One must consciously bring to mind the historical contingency of one's own thinking."
+        }
+      ]
+    },
+    {
+      "id": "onto_16",
+      "infinitive": "begründen",
+      "translation_ar": "يُؤَسِّسُ بُرْهَانِيًّا / يُقِيمُ دَلِيلَ مَشْرُوعِيَّةِ حَقِيقَةٍ",
+      "translation_en": "to justify / to ground epistemologically",
+      "construction": "transitiv (Geltungsansprüche begründen)",
+      "present_third": "begründet",
+      "preterite_third": "begründete",
+      "perfect_third": "hat begründet",
+      "svg_id": "svg_onto_begruenden",
+      "examples": [
+        {
+          "de": "Habermas begründet moralische Normen diskursethisch durch intersubjektive Verständigung.",
+          "ar": "يُؤَسِّسُ هَابِرْمَاس الْمَعَايِيرَ الأَخْلَاقِيَّةَ عَبْرَ أَخْلَاقِيَّاتِ الْخِطَابِ وَالتَّفَاهُمِ بَيْنَ الذَّوَاتِ.",
+          "en": "Habermas epistemologically grounds moral norms through discourse ethics and intersubjective consensus."
+        }
+      ]
+    },
+    {
+      "id": "onto_17",
+      "infinitive": "relativieren",
+      "translation_ar": "يَضَعُ فِي سِيَاقٍ نِسْبِيٍّ مَعْرِفِيًّا",
+      "translation_en": "to relativize epistemically",
+      "construction": "transitiv (Geltungsansprüche relativieren)",
+      "present_third": "relativiert",
+      "preterite_third": "relativierte",
+      "perfect_third": "hat relativiert",
+      "svg_id": "svg_onto_relativieren",
+      "examples": [
+        {
+          "de": "Historizismus relativiert absolute Wahrheitsansprüche auf ihre jeweilige Epoche.",
+          "ar": "تَضَعُ التَّارِيخَانِيَّةُ دَعَاوَى الْحَقِيقَةِ الْمُطْلَقَةَ فِي سِيَاقٍ نِسْبِيٍّ مَحْصُورٍ فِي عَصْرِهَا.",
+          "en": "Historicism relativizes absolute truth claims to their respective epoch."
+        }
+      ]
+    },
+    {
+      "id": "onto_18",
+      "infinitive": "postulieren",
+      "translation_ar": "يَفْرِضُ كَبَدِيهِيَّةٍ وُجُودِيَّةٍ لَا بُدَّ مِنْهَا",
+      "translation_en": "to postulate ontologically",
+      "construction": "transitiv / + dass-Satz",
+      "present_third": "postuliert",
+      "preterite_third": "postulierte",
+      "perfect_third": "hat postuliert",
+      "svg_id": "svg_onto_postulieren",
+      "examples": [
+        {
+          "de": "Kant postulierte die Freiheit des Willens als unhintergehbare Bedingung moralischen Handelns.",
+          "ar": "افْتَرَضَ كَانْط حُرِّيَّةَ الإِرَادَةِ كَشَرْطٍ وُجُودِيٍّ لَا غِنَى عَنْهُ لِلْفِعْلِ الأَخْلَاقِيِّ.",
+          "en": "Kant postulated freedom of the will as an indispensable condition for moral action."
+        }
+      ]
+    },
+    {
+      "id": "onto_19",
+      "infinitive": "problematisieren",
+      "translation_ar": "يُحَوِّلُ الْمُسَلَّمَاتِ إِلَى إِشْكَالِيَّاتٍ فَلْسَفِيَّةٍ",
+      "translation_en": "to problematize philosophical presuppositions",
+      "construction": "transitiv",
+      "present_third": "problematisiert",
+      "preterite_third": "problematisierte",
+      "perfect_third": "hat problematisiert",
+      "svg_id": "svg_onto_problematisieren",
+      "examples": [
+        {
+          "de": "Heidegger problematisierte das überlieferte Verständnis von Sein und Zeit grundlegend.",
+          "ar": "حَوَّلَ هَايْدِغِر الْفَهْمَ الْمَوْرُوثَ لِلْوُجُودِ وَالزَّمَانِ إِلَى إِشْكَالِيَّةٍ جَوْهَرِيَّةٍ.",
+          "en": "Heidegger fundamentally problematized the traditional understanding of Being and Time."
+        }
+      ]
+    },
+    {
+      "id": "onto_20",
+      "infinitive": "reflektieren",
+      "translation_ar": "يَتَأَمَّلُ مَعْرِفِيًّا فِي شُرُوطِ إِمْكَانِ الْوَعْيِ",
+      "translation_en": "to reflect epistemologically on consciousness",
+      "construction": "reflektieren über + Akk",
+      "present_third": "reflektiert",
+      "preterite_third": "reflektierte",
+      "perfect_third": "hat reflektiert",
+      "svg_id": "svg_onto_reflektieren",
+      "examples": [
+        {
+          "de": "Das erkennende Subjekt reflektiert über die eigenen transzendentalen Bedingungen.",
+          "ar": "تَتَأَمَّلُ الذَّاتُ الْعَارِفَةُ فِي شُرُوطِهَا التَّرَانْسِنْدِنْتَالِيَّةِ (الْمُتَعَالِيَةِ) الْخَاصَّةِ.",
+          "en": "The knowing subject reflects upon its own transcendental conditions."
+        }
+      ]
+    }
+  ]
+}
