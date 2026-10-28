@@ -1,0 +1,370 @@
+{
+  "engine_id": "psychological_behavioral_verbs_b2_c1",
+  "title_ar": "أفعال التحليل النفسي وسيكولوجيا السلوك وآليات الدفاع الوجداني",
+  "title_de": "Psychologische, psychoanalytische und verhaltensbezogene Verben (B2/C1)",
+  "title_en": "Psychological, Psychoanalytic & Behavioral Verbs (B2/C1)",
+  "level": "B2/C1",
+  "count": 20,
+  "verbs": [
+    {
+      "id": "psy_01",
+      "infinitive": "verdrängen",
+      "translation_ar": "يَكْبِتُ نَفْسِيًّا / يُبْعِدُ عَنِ الْوَعْيِ لاشُعُورِيًّا",
+      "translation_en": "to repress (subconsciously) / to suppress",
+      "construction": "transitiv (Traumata verdrängen)",
+      "present_third": "verdrängt",
+      "preterite_third": "verdrängte",
+      "perfect_third": "hat verdrängt",
+      "svg_id": "svg_psy_verdraengen",
+      "examples": [
+        {
+          "de": "Viele Patienten verdrängen schmerzhafte Kindheitserfahrungen ins Unbewusste.",
+          "ar": "يَكْبِتُ كَثِيرٌ مِنَ الْمَرْضَى تَجَارِبَ الطُّفُولَةِ الْمُؤْلِمَةَ فِي اللَّاوَعْيِ.",
+          "en": "Many patients repress painful childhood experiences into the unconscious."
+        }
+      ]
+    },
+    {
+      "id": "psy_02",
+      "infinitive": "projizieren",
+      "translation_ar": "يُسْقِطُ نَفْسِيًّا (يَنْسُبُ عُيُوبَهُ لِلآخَرِينَ)",
+      "translation_en": "to project (psychologically)",
+      "construction": "projizieren + Akk + auf + Akk",
+      "present_third": "projiziert",
+      "preterite_third": "projizierte",
+      "perfect_third": "hat projiziert",
+      "svg_id": "svg_psy_projizieren",
+      "examples": [
+        {
+          "de": "Er projiziert seine eigenen tiefen Unsicherheiten auf seine Kollegen.",
+          "ar": "يُسْقِطُ مَخَاوِفَهُ وَشُكُوكَهُ الْعَمِيقَةَ عَلَى زُمَلَائِهِ فِي الْعَمَلِ.",
+          "en": "He projects his own deep insecurities onto his colleagues."
+        }
+      ]
+    },
+    {
+      "id": "psy_03",
+      "infinitive": "sublimieren",
+      "translation_ar": "يُسَامِي / يُعْلِي مِنَ الدَّوَافِعِ الْغَرِيزِيَّةِ إِلَى إِبْدَاعٍ",
+      "translation_en": "to sublimate (instinctual impulses into creative outlets)",
+      "construction": "transitiv (Triebe sublimieren)",
+      "present_third": "sublimiert",
+      "preterite_third": "sublimierte",
+      "perfect_third": "hat sublimiert",
+      "svg_id": "svg_psy_sublimieren",
+      "examples": [
+        {
+          "de": "Künstler sublimieren oft innere seelische Konflikte in Meisterwerke.",
+          "ar": "غَالِبًا مَا يُسَامِي الْفَنَّانُونَ الصِّرَاعَاتِ النَّفْسِيَّةَ الدَّاخِلِيَّةَ مُحَوِّلِينَ إِيَّاهَا إِلَى رَوَائِعَ فَنِّيَّةٍ.",
+          "en": "Artists often sublimate inner emotional conflicts into masterpieces."
+        }
+      ]
+    },
+    {
+      "id": "psy_04",
+      "infinitive": "konditionieren",
+      "translation_ar": "يُشَرِّطُ سُلُوكِيًّا / يَخْلُقُ اسْتِجَابَةً شَرْطِيَّةً",
+      "translation_en": "to condition (behaviorally)",
+      "construction": "konditionieren + Akk + auf + Akk",
+      "present_third": "konditioniert",
+      "preterite_third": "konditionierte",
+      "perfect_third": "hat konditioniert",
+      "svg_id": "svg_psy_konditionieren",
+      "examples": [
+        {
+          "de": "Das klassische Experiment konditionierte den Hund auf einen akustischen Reiz.",
+          "ar": "شَرَّطَتِ التَّجْرِبَةُ الْكَلَاسِيكِيَّةُ الْكَلْبَ سُلُوكِيًّا لِلاسْتِجَابَةِ لِمُثِيرٍ صَوْتِيٍّ.",
+          "en": "The classic experiment conditioned the dog to an acoustic stimulus."
+        }
+      ]
+    },
+    {
+      "id": "psy_05",
+      "infinitive": "internalisieren",
+      "translation_ar": "يَسْتَبْطِنُ / يُذَوِّتُ الْقِيَمَ وَالْمَعَايِيرَ نَفْسِيًّا",
+      "translation_en": "to internalize",
+      "construction": "transitiv (Normen / Werte internalisieren)",
+      "present_third": "internalisiert",
+      "preterite_third": "internalisierte",
+      "perfect_third": "hat internalisiert",
+      "svg_id": "svg_psy_internalisieren",
+      "examples": [
+        {
+          "de": "Kinder internalisieren gesellschaftliche Verhaltensregeln im Laufe der Sozialisation.",
+          "ar": "يَسْتَبْطِنُ الأَطْفَالُ قَوَاعِدَ السُّلُوكِ الْمُجْتَمَعِيَّةِ عَبْرَ مَسَارِ التَّنْشِئَةِ الاجْتِمَاعِيَّةِ.",
+          "en": "Children internalize societal rules of conduct in the course of socialization."
+        }
+      ]
+    },
+    {
+      "id": "psy_06",
+      "infinitive": "rationalisieren",
+      "translation_ar": "يُسَوِّغُ عَقْلَانِيًّا بِشَكْلٍ زَائِفٍ (حِيلَةٌ نَفْسِيَّةٌ)",
+      "translation_en": "to rationalize (as a psychological defense)",
+      "construction": "transitiv",
+      "present_third": "rationalisiert",
+      "preterite_third": "rationalisierte",
+      "perfect_third": "hat rationalisiert",
+      "svg_id": "svg_psy_rationalisieren",
+      "examples": [
+        {
+          "de": "Er versuchte, seine impulsive Fehlentscheidung nachträglich zu rationalisieren.",
+          "ar": "حَاوَلَ أَنْ يُسَوِّغَ قَرَارَهُ الْمُتَسَرِّعَ وَالْخَاطِئَ عَقْلَانِيًّا بِأَسْبَابٍ وَاهِيَةٍ.",
+          "en": "He attempted to rationalize his impulsive bad decision in retrospect."
+        }
+      ]
+    },
+    {
+      "id": "psy_07",
+      "infinitive": "kompensieren",
+      "translation_ar": "يُعَوِّضُ نَفْسِيًّا عَنْ نَقْصٍ أَوْ شُعُورٍ بِالْعَجْزِ",
+      "translation_en": "to compensate (for a psychological deficit)",
+      "construction": "transitiv / kompensieren durch + Akk",
+      "present_third": "kompensiert",
+      "preterite_third": "kompensierte",
+      "perfect_third": "hat kompensiert",
+      "svg_id": "svg_psy_kompensieren",
+      "examples": [
+        {
+          "de": "Übermäßiger Ehrgeiz dient oft dazu, verdeckte Minderwertigkeitsgefühle zu kompensieren.",
+          "ar": "غَالِبًا مَا يَكُونُ الطُّمُوحُ الْمُفْرِطُ تَعْوِيضًا نَفْسِيًّا عَنْ مَشَاعِرِ نَقْصٍ دَفِينَةٍ.",
+          "en": "Excessive ambition often serves to compensate for concealed feelings of inferiority."
+        }
+      ]
+    },
+    {
+      "id": "psy_08",
+      "infinitive": "traumatisieren",
+      "translation_ar": "يُصْدِمُ نَفْسِيًّا / يُحْدِثُ رَضْحًا نَفْسِيًّا",
+      "translation_en": "to traumatize",
+      "construction": "transitiv",
+      "present_third": "traumatisiert",
+      "preterite_third": "traumatisierte",
+      "perfect_third": "hat traumatisiert",
+      "svg_id": "svg_psy_traumatisieren",
+      "examples": [
+        {
+          "de": "Kriegserlebnisse traumatisieren Generationen von Überlebenden nachhaltig.",
+          "ar": "تُحْدِثُ تَجَارِبُ الْحُرُوبِ صَدَمَاتٍ نَفْسِيَّةً عَمِيقَةً تَمْتَدُّ لِأَجْيَالٍ مِنَ النَّاجِينَ.",
+          "en": "War experiences profoundly traumatize generations of survivors."
+        }
+      ]
+    },
+    {
+      "id": "psy_09",
+      "infinitive": "stimulieren",
+      "translation_ar": "يُحَفِّزُ عَصَبِيًّا أَوْ نَفْسِيًّا / يَسْتَحِثُّ",
+      "translation_en": "to stimulate (cognitively or sensory)",
+      "construction": "transitiv",
+      "present_third": "stimuliert",
+      "preterite_third": "stimulierte",
+      "perfect_third": "hat stimuliert",
+      "svg_id": "svg_psy_stimulieren",
+      "examples": [
+        {
+          "de": "Kreative Aufgaben stimulieren neuronale Verknüpfungen im präfrontalen Kortex.",
+          "ar": "تُحَفِّزُ الْمَهَامُّ الإِبْدَاعِيَّةُ الرَّوَابِطَ الْعَصَبِيَّةَ فِي الْقِشْرَةِ الْجَبْهِيَّةِ.",
+          "en": "Creative tasks stimulate neuronal connections in the prefrontal cortex."
+        }
+      ]
+    },
+    {
+      "id": "psy_10",
+      "infinitive": "manipulieren",
+      "translation_ar": "يَتَلَاعَبُ نَفْسِيًّا / يُوَجِّهُ خَفْيَةً",
+      "translation_en": "to manipulate psychologically",
+      "construction": "transitiv",
+      "present_third": "manipuliert",
+      "preterite_third": "manipulierte",
+      "perfect_third": "hat manipuliert",
+      "svg_id": "svg_psy_manipulieren",
+      "examples": [
+        {
+          "de": "Propaganda versucht, die öffentliche Meinung gezielt und emotional zu manipulieren.",
+          "ar": "تَسْعَى الدِّعَايَةُ إِلَى التَّلَاعُبِ بِالرَّأْيِ الْعَامِّ بِشَكْلٍ مُوَجَّهٍ وَعَاطِفِيٍّ.",
+          "en": "Propaganda attempts to manipulate public opinion purposefully and emotionally."
+        }
+      ]
+    },
+    {
+      "id": "psy_11",
+      "infinitive": "verinnerlichen",
+      "translation_ar": "يَسْتَوْعِبُ جَوْهَرِيًّا / يَتَشَرَّبُ قِيمَةً",
+      "translation_en": "to deeply absorb / to take to heart",
+      "construction": "transitiv",
+      "present_third": "verinnerlicht",
+      "preterite_third": "verinnerlichte",
+      "perfect_third": "hat verinnerlicht",
+      "svg_id": "svg_psy_verinnerlichen",
+      "examples": [
+        {
+          "de": "Die Führungskraft hat die Prinzipien ethischer Führung vollkommen verinnerlicht.",
+          "ar": "تَشَرَّبَ الْقَائِدُ التَّنْفِيذِيُّ مَبَادِئَ الْقِيَادَةِ الأَخْلَاقِيَّةِ بِشَكْلٍ كَامِلٍ.",
+          "en": "The executive has completely internalized the principles of ethical leadership."
+        }
+      ]
+    },
+    {
+      "id": "psy_12",
+      "infinitive": "antizipieren",
+      "translation_ar": "يَسْتَبِقُ ذِهْنِيًّا / يَتَوَقَّعُ التَّصَرُّفَاتِ مُسْبَقًا",
+      "translation_en": "to anticipate cognitively",
+      "construction": "transitiv",
+      "present_third": "antizipiert",
+      "preterite_third": "antizipierte",
+      "perfect_third": "hat antizipiert",
+      "svg_id": "svg_psy_antizipieren",
+      "examples": [
+        {
+          "de": "Ein erfahrener Therapeut antizipiert typische Widerstände im Behandlungsverlauf.",
+          "ar": "يَسْتَبِقُ الْمُعَالِجُ ذُو الْخِبْرَةِ الْمُقَاوَمَاتِ النَّفْسِيَّةَ الْمُعْتَادَةَ خِلَالَ مَسَارِ الْعِلَاجِ.",
+          "en": "An experienced therapist anticipates typical resistance in the course of treatment."
+        }
+      ]
+    },
+    {
+      "id": "psy_13",
+      "infinitive": "desensibilisieren",
+      "translation_ar": "يُزِيلُ التَّحَسُّسَ النَّفْسِيَّ تَدْرِيجِيًّا",
+      "translation_en": "to desensitize (psychologically against phobias)",
+      "construction": "transitiv / gegen + Akk",
+      "present_third": "desensibilisiert",
+      "preterite_third": "desensibilisierte",
+      "perfect_third": "hat desensibilisiert",
+      "svg_id": "svg_psy_desensibilisieren",
+      "examples": [
+        {
+          "de": "Durch Konfrontationstherapie werden Phobiepatienten schrittweise desensibilisiert.",
+          "ar": "يَتِمُّ نَزْعُ التَّحَسُّسِ النَّفْسِيِّ تَدْرِيجِيًّا لَدَى مَرْضَى الرُّهَابِ عَبْرَ عِلَاجِ الْمُوَاجَهَةِ.",
+          "en": "Through exposure therapy, phobia patients are gradually desensitized."
+        }
+      ]
+    },
+    {
+      "id": "psy_14",
+      "infinitive": "triggern",
+      "translation_ar": "يُثِيرُ صَدْمَةً أَوْ رَدَّةَ فِعْلٍ انْفِعَالِيَّةً حَادَّةً",
+      "translation_en": "to trigger (an emotional trauma or reaction)",
+      "construction": "transitiv",
+      "present_third": "triggert",
+      "preterite_third": "triggerte",
+      "perfect_third": "hat getriggert",
+      "svg_id": "svg_psy_triggern",
+      "examples": [
+        {
+          "de": "Bestimmte Gerüche können verdrängte Kindheitserinnerungen blitzschnell triggern.",
+          "ar": "يُمْكِنُ لِرَوَائِحَ مُعَيَّنَةٍ أَنْ تُثِيرَ ذِكْرَيَاتِ الطُّفُولَةِ الْمَكْبُوتَةَ فِي لَمْحِ الْبَصَرِ.",
+          "en": "Certain scents can trigger repressed childhood memories in a flash."
+        }
+      ]
+    },
+    {
+      "id": "psy_15",
+      "infinitive": "reflektieren",
+      "translation_ar": "يَتَأَمَّلُ ذَاتِيًّا / يُرَاجِعُ أَفْكَارَهُ وَسُلُوكَهُ نَقْدِيًّا",
+      "translation_en": "to reflect upon / to self-introspect",
+      "construction": "transitiv / über + Akk",
+      "present_third": "reflektiert",
+      "preterite_third": "reflektierte",
+      "perfect_third": "hat reflektiert",
+      "svg_id": "svg_psy_reflektieren",
+      "examples": [
+        {
+          "de": "Reife Persönlichkeiten reflektieren regelmäßig über ihre eigenen Handlungsmotive.",
+          "ar": "تَتَأَمَّلُ الشَّخْصِيَّاتُ النَّاضِجَةُ بِانْتِظَامٍ فِي دَوَافِعِ سُلُوكِهَا الْخَاصَّةِ.",
+          "en": "Mature personalities regularly reflect on their own motives for action."
+        }
+      ]
+    },
+    {
+      "id": "psy_16",
+      "infinitive": "polarisieren",
+      "translation_ar": "يُفَرِّقُ الآرَاءَ / يَخْلُقُ اسْتِقْطَابًا نَفْسِيًّا وَمُجْتَمَعِيًّا",
+      "translation_en": "to polarize opinions / to divide sentiments",
+      "construction": "transitiv",
+      "present_third": "polarisiert",
+      "preterite_third": "polarisierte",
+      "perfect_third": "hat polarisiert",
+      "svg_id": "svg_psy_polarisieren",
+      "examples": [
+        {
+          "de": "Populistische Rhetorik zielt darauf ab, die Gesellschaft emotional zu polarisieren.",
+          "ar": "تَهْدِفُ الْخِطَابَاتُ الشَّعْبَوِيَّةُ إِلَى إِحْدَاثِ اسْتِقْطَابٍ عَاطِفِيٍّ فِي الْمُجْتَمَعِ.",
+          "en": "Populist rhetoric aims to polarize society emotionally."
+        }
+      ]
+    },
+    {
+      "id": "psy_17",
+      "infinitive": "affirmieren",
+      "translation_ar": "يُؤَكِّدُ إِيجَابِيًّا / يُقِرُّ بِالْقَبُولِ وَالرِّضَا",
+      "translation_en": "to affirm / to validate positively",
+      "construction": "transitiv",
+      "present_third": "affirmiert",
+      "preterite_third": "affirmierte",
+      "perfect_third": "hat affirmiert",
+      "svg_id": "svg_psy_affirmieren",
+      "examples": [
+        {
+          "de": "Positive Selbstgespräche affirmieren das eigene Selbstwertgefühl nachhaltig.",
+          "ar": "تُؤَكِّدُ حِوَارَاتُ الذَّاتِ الإِيجَابِيَّةُ الشُّعُورَ بِتَقْدِيرِ الذَّاتِ وَتُعَزِّزُهُ بِشَكْلٍ مُسْتَدَامٍ.",
+          "en": "Positive self-talk sustainably affirms one's self-esteem."
+        }
+      ]
+    },
+    {
+      "id": "psy_18",
+      "infinitive": "dissoziieren",
+      "translation_ar": "يَفْصِلُ الْوَعْيَ عَنِ الْوَاقِعِ (انْفِصَالٌ نَفْسِيٌّ دِفَاعِيٌّ)",
+      "translation_en": "to dissociate (psychologically as trauma defense)",
+      "construction": "intransitiv / transitiv (von + Dat)",
+      "present_third": "dissoziiert",
+      "preterite_third": "dissoziierte",
+      "perfect_third": "hat dissoziiert",
+      "svg_id": "svg_psy_dissoziieren",
+      "examples": [
+        {
+          "de": "Unter extremem Stress neigen traumatisierte Menschen dazu, zu dissoziieren.",
+          "ar": "يَمِيلُ الأَشْخَاصُ الْمَصْدُومُونَ نَفْسِيًّا إِلَى الانْفِصَالِ عَنِ الْوَاقِعِ تَحْتَ وَطْأَةِ التَّوَتُّرِ الشَّدِيدِ.",
+          "en": "Under extreme stress, traumatized individuals tend to dissociate."
+        }
+      ]
+    },
+    {
+      "id": "psy_19",
+      "infinitive": "inhibieren",
+      "translation_ar": "يَكْبَحُ انْفِعَالاً / يُثَبِّطُ اسْتِجَابَةً نَفْسِيَّةً عَصَبِيَّةً",
+      "translation_en": "to inhibit (impulses or neuronal responses)",
+      "construction": "transitiv (Impulse inhibieren)",
+      "present_third": "inhibiert",
+      "preterite_third": "inhibierte",
+      "perfect_third": "hat inhibiert",
+      "svg_id": "svg_psy_inhibieren",
+      "examples": [
+        {
+          "de": "Der Frontallappen ist dafür verantwortlich, impulsive Reaktionen zu inhibieren.",
+          "ar": "يَتَوَلَّى الْفَصُّ الْجَبْهِيُّ مَسْؤُولِيَّةَ كَبْحِ وَتَثْبِيطِ رُدُودِ الأَفْعَالِ الانْدِفَاعِيَّةِ.",
+          "en": "The frontal lobe is responsible for inhibiting impulsive reactions."
+        }
+      ]
+    },
+    {
+      "id": "psy_20",
+      "infinitive": "kanalisieren",
+      "translation_ar": "يُوَجِّهُ الطَّاقَةَ أَوِ الْغَضَبَ فِي مَسَارٍ بَنَّاءٍ",
+      "translation_en": "to channel (emotions, aggression or energy productively)",
+      "construction": "kanalisieren + Akk + in + Akk",
+      "present_third": "kanalisiert",
+      "preterite_third": "kanalisierte",
+      "perfect_third": "hat kanalisiert",
+      "svg_id": "svg_psy_kanalisieren",
+      "examples": [
+        {
+          "de": "Sport hilft Jugendlichen, aufgestaute Aggressionen konstruktiv zu kanalisieren.",
+          "ar": "تُسَاعِدُ الرِّيَاضَةُ الشَّبَابَ عَلَى تَوْجِيهِ الْعُدْوَانِيَّةِ الْمَكْبُوتَةِ فِي مَسَارَاتٍ بَنَّاءَةٍ.",
+          "en": "Sports help adolescents channel pent-up aggression constructively."
+        }
+      ]
+    }
+  ]
+}
