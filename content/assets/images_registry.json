@@ -13541,5 +13541,165 @@
     "label_de": "das Peptid-Engineering",
     "label_ar": "هَنْدَسَةُ الْبِبْتِيدَاتِ الْعِلَاجِيَّةِ",
     "label_en": "peptide engineering / peptide therapeutics"
+  },
+  "svg_synv_synthetisieren": {
+    "file": "svg_synv_synthetisieren.svg",
+    "path": "content/assets/svg/svg_synv_synthetisieren.svg",
+    "category": "synthetic_biology_verbs_b2_c1",
+    "label_de": "synthetisieren",
+    "label_ar": "يُخَلِّقُ كِيمْيَائِيًّا أَوْ جِينِيًّا مِنْ مُكَوِّنَاتٍ أَسَاسِيَّةٍ",
+    "label_en": "to synthesize (genes, peptides or macromolecules)"
+  },
+  "svg_synv_reprogrammieren": {
+    "file": "svg_synv_reprogrammieren.svg",
+    "path": "content/assets/svg/svg_synv_reprogrammieren.svg",
+    "category": "synthetic_biology_verbs_b2_c1",
+    "label_de": "reprogrammieren",
+    "label_ar": "يُعِيدُ بَرْمَجَةَ الْخَلَايَا لِتَحْوِيلِهَا إِلَى جِذْعِيَّةٍ أَوْ تَغْيِيرِ وَظِيفَتِهَا",
+    "label_en": "to reprogram cellular states"
+  },
+  "svg_synv_falten": {
+    "file": "svg_synv_falten.svg",
+    "path": "content/assets/svg/svg_synv_falten.svg",
+    "category": "synthetic_biology_verbs_b2_c1",
+    "label_de": "falten",
+    "label_ar": "يَطْوِي سَلَاسِلَ الأَحْمَاضِ الأَمِينِيَّةِ إِلَى بِنْيَةٍ ثُلَاثِيَّةِ الأَبْعَادِ",
+    "label_en": "to fold into three-dimensional native protein conformations"
+  },
+  "svg_synv_mutieren": {
+    "file": "svg_synv_mutieren.svg",
+    "path": "content/assets/svg/svg_synv_mutieren.svg",
+    "category": "synthetic_biology_verbs_b2_c1",
+    "label_de": "mutieren",
+    "label_ar": "يُحْدِثُ طَفْرَةً جِينِيَّةً أَوْ يَتَطَفَّرُ",
+    "label_en": "to mutate / to introduce mutations"
+  },
+  "svg_synv_katalysieren": {
+    "file": "svg_synv_katalysieren.svg",
+    "path": "content/assets/svg/svg_synv_katalysieren.svg",
+    "category": "synthetic_biology_verbs_b2_c1",
+    "label_de": "katalysieren",
+    "label_ar": "يُحَفِّزُ التَّفَاعُلَاتِ الْكِيمْيَائِيَّةَ الْحَيَوِيَّةَ بِكَفَاءَةٍ",
+    "label_en": "to catalyze biochemical conversions"
+  },
+  "svg_synv_fermentieren": {
+    "file": "svg_synv_fermentieren.svg",
+    "path": "content/assets/svg/svg_synv_fermentieren.svg",
+    "category": "synthetic_biology_verbs_b2_c1",
+    "label_de": "fermentieren",
+    "label_ar": "يُخَمِّرُ حَيَوِيًّا فِي الْمُفَاعِلَاتِ الْبَيُولُوجِيَّةِ",
+    "label_en": "to ferment in bioprocessing vessels"
+  },
+  "svg_synv_sequenzieren": {
+    "file": "svg_synv_sequenzieren.svg",
+    "path": "content/assets/svg/svg_synv_sequenzieren.svg",
+    "category": "synthetic_biology_verbs_b2_c1",
+    "label_de": "sequenzieren",
+    "label_ar": "يَقْرَأُ التَّتَابُعَ الْجِينِيَّ لِلأَحْمَاضِ النَّوَوِيَّةِ (Sequencing)",
+    "label_en": "to sequence (DNA or RNA high-throughput)"
+  },
+  "svg_synv_klonieren": {
+    "file": "svg_synv_klonieren.svg",
+    "path": "content/assets/svg/svg_synv_klonieren.svg",
+    "category": "synthetic_biology_verbs_b2_c1",
+    "label_de": "klonieren",
+    "label_ar": "يَسْتَنْسِخُ قِطَعَ الْحَمْضِ النَّوَوِيِّ وَيُدْرِجُهَا فِي نَوَاقِلَ جِينِيَّةٍ",
+    "label_en": "to clone molecular DNA fragments into vectors"
+  },
+  "svg_synv_amplifizieren": {
+    "file": "svg_synv_amplifizieren.svg",
+    "path": "content/assets/svg/svg_synv_amplifizieren.svg",
+    "category": "synthetic_biology_verbs_b2_c1",
+    "label_de": "amplifizieren",
+    "label_ar": "يُضَاعِفُ وَيُكَثِّرُ قِطَعَ الدَّنَا عَبْرَ الْـ PCR",
+    "label_en": "to amplify DNA sequences via PCR"
+  },
+  "svg_synv_exprimieren": {
+    "file": "svg_synv_exprimieren.svg",
+    "path": "content/assets/svg/svg_synv_exprimieren.svg",
+    "category": "synthetic_biology_verbs_b2_c1",
+    "label_de": "exprimieren",
+    "label_ar": "يُعَبِّرُ جِينِيًّا عَنِ الْبُرُوتِينَاتِ فِي الْخَلِيَّةِ",
+    "label_en": "to express proteins from genetic sequences"
+  },
+  "svg_synv_transkribieren": {
+    "file": "svg_synv_transkribieren.svg",
+    "path": "content/assets/svg/svg_synv_transkribieren.svg",
+    "category": "synthetic_biology_verbs_b2_c1",
+    "label_de": "transkribieren",
+    "label_ar": "يَنْسَخُ الشِّفْرَةَ الْوِرَاثِيَّةَ مِنَ الدَّنَا إِلَى الرَّنَا",
+    "label_en": "to transcribe DNA into messenger RNA"
+  },
+  "svg_synv_translieren": {
+    "file": "svg_synv_translieren.svg",
+    "path": "content/assets/svg/svg_synv_translieren.svg",
+    "category": "synthetic_biology_verbs_b2_c1",
+    "label_de": "translieren",
+    "label_ar": "يُتَرْجِمُ شِفْرَةَ الرَّنَا إِلَى سَلَاسِلَ بُرُوتِينِيَّةٍ عَلَى الرَّيْبُوسُومِ",
+    "label_en": "to translate mRNA transcripts into peptide chains"
+  },
+  "svg_synv_ligieren": {
+    "file": "svg_synv_ligieren.svg",
+    "path": "content/assets/svg/svg_synv_ligieren.svg",
+    "category": "synthetic_biology_verbs_b2_c1",
+    "label_de": "ligieren",
+    "label_ar": "يَرْبِطُ قِطَعَ الْحَمْضِ النَّوَوِيِّ إِنْزِيمِيًّا (Ligation)",
+    "label_en": "to ligate DNA fragments enzymatically"
+  },
+  "svg_synv_editieren": {
+    "file": "svg_synv_editieren.svg",
+    "path": "content/assets/svg/svg_synv_editieren.svg",
+    "category": "synthetic_biology_verbs_b2_c1",
+    "label_de": "editieren",
+    "label_ar": "يُحَرِّرُ الْجِينُومَ وَيُعَدِّلُ الشِّفْرَةَ الْوِرَاثِيَّةَ بِدِقَّةٍ",
+    "label_en": "to edit genetic sequences with CRISPR tools"
+  },
+  "svg_synv_immobilisieren": {
+    "file": "svg_synv_immobilisieren.svg",
+    "path": "content/assets/svg/svg_synv_immobilisieren.svg",
+    "category": "synthetic_biology_verbs_b2_c1",
+    "label_de": "immobilisieren",
+    "label_ar": "يُثَبِّتُ الإِنْزِيمَاتِ عَلَى رَكِيزَةٍ صَلْبَةٍ لِإِعَادَةِ اسْتِخْدَامِهَا",
+    "label_en": "to immobilize enzymes on solid supports"
+  },
+  "svg_synv_hybridisieren": {
+    "file": "svg_synv_hybridisieren.svg",
+    "path": "content/assets/svg/svg_synv_hybridisieren.svg",
+    "category": "synthetic_biology_verbs_b2_c1",
+    "label_de": "hybridisieren",
+    "label_ar": "يُهَجِّنُ خُيُوطَ الأَحْمَاضِ النَّوَوِيَّةِ الْمُتَكَامِلَةِ",
+    "label_en": "to hybridize complementary nucleic acid strands"
+  },
+  "svg_synv_zentrifugieren": {
+    "file": "svg_synv_zentrifugieren.svg",
+    "path": "content/assets/svg/svg_synv_zentrifugieren.svg",
+    "category": "synthetic_biology_verbs_b2_c1",
+    "label_de": "zentrifugieren",
+    "label_ar": "يَفْصِلُ الْعَيِّنَاتِ بِالطَّرْدِ الْمَرْكَزِيِّ عَالِي السُّرْعَةِ",
+    "label_en": "to centrifuge / ultracentrifuge cellular components"
+  },
+  "svg_synv_transduzieren": {
+    "file": "svg_synv_transduzieren.svg",
+    "path": "content/assets/svg/svg_synv_transduzieren.svg",
+    "category": "synthetic_biology_verbs_b2_c1",
+    "label_de": "transduzieren",
+    "label_ar": "يَنْقُلُ الْجِينَاتِ إِلَى الْخَلَايَا بِوَاسِطَةِ نَوَاقِلَ فَيْرُوسِيَّةٍ (Transduction)",
+    "label_en": "to transduce genes via viral vectors"
+  },
+  "svg_synv_rekombinieren": {
+    "file": "svg_synv_rekombinieren.svg",
+    "path": "content/assets/svg/svg_synv_rekombinieren.svg",
+    "category": "synthetic_biology_verbs_b2_c1",
+    "label_de": "rekombinieren",
+    "label_ar": "يُعِيدُ تَرْكِيبَ الْقِطَعِ الْجِينِيَّةِ لِإِنْتَاجِ تَشْكِيلَاتٍ جَدِيدَةٍ",
+    "label_en": "to recombine genetic elements"
+  },
+  "svg_synv_regulieren": {
+    "file": "svg_synv_regulieren.svg",
+    "path": "content/assets/svg/svg_synv_regulieren.svg",
+    "category": "synthetic_biology_verbs_b2_c1",
+    "label_de": "regulieren",
+    "label_ar": "يُضَبِّطُ وَيُحْكِمُ التَّعْبِيرَ الْجِينِيَّ وَمُسْتَوَيَاتِ الإِنْتَاجِ",
+    "label_en": "to regulate metabolic fluxes and expression levels"
   }
 }

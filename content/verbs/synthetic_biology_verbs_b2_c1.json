@@ -1,0 +1,370 @@
+{
+  "engine_id": "synthetic_biology_verbs_b2_c1",
+  "title_ar": "أفعال البيولوجيا التخليقية والحوسبة الجزيئية وهندسة الإنزيمات",
+  "title_de": "Verben der synthetischen Biologie, Genomik und des Proteindesigns (B2/C1)",
+  "title_en": "Synthetic Biology, Molecular Engineering & Biocatalysis Verbs (B2/C1)",
+  "level": "B2/C1",
+  "count": 20,
+  "verbs": [
+    {
+      "id": "synv_01",
+      "infinitive": "synthetisieren",
+      "translation_ar": "يُخَلِّقُ كِيمْيَائِيًّا أَوْ جِينِيًّا مِنْ مُكَوِّنَاتٍ أَسَاسِيَّةٍ",
+      "translation_en": "to synthesize (genes, peptides or macromolecules)",
+      "construction": "transitiv (künstliche DNA-Fragmente synthetisieren)",
+      "present_third": "synthetisiert",
+      "preterite_third": "synthetisierte",
+      "perfect_third": "hat synthetisiert",
+      "svg_id": "svg_synv_synthetisieren",
+      "examples": [
+        {
+          "de": "Automatisierte Gensynthesizer synthetisieren maßgeschneiderte Oligonukleotide binnen weniger Stunden.",
+          "ar": "تُخَلِّقُ أجهزة التخليق الجيني الآلية قليل النوكليوتيد المفصل في غضون ساعات قليلة.",
+          "en": "Automated gene synthesizers synthesize tailored oligonucleotides within a few hours."
+        }
+      ]
+    },
+    {
+      "id": "synv_02",
+      "infinitive": "reprogrammieren",
+      "translation_ar": "يُعِيدُ بَرْمَجَةَ الْخَلَايَا لِتَحْوِيلِهَا إِلَى جِذْعِيَّةٍ أَوْ تَغْيِيرِ وَظِيفَتِهَا",
+      "translation_en": "to reprogram cellular states",
+      "construction": "reprogrammieren + Akk + zu / in + Dat",
+      "present_third": "reprogrammiert",
+      "preterite_third": "reprogrammierte",
+      "perfect_third": "hat reprogrammiert",
+      "svg_id": "svg_synv_reprogrammieren",
+      "examples": [
+        {
+          "de": "Transkriptionsfaktoren reprogrammieren differenzierte Hautzellen zurück in pluripotente Stammzellen.",
+          "ar": "تُعِيدُ عوامل النسخ برمجة خلايا الجلد المتمايزة محولة إياها مجدداً إلى خلايا جذعية متعددة القدرات.",
+          "en": "Transcription factors reprogram differentiated skin cells back into pluripotent stem cells."
+        }
+      ]
+    },
+    {
+      "id": "synv_03",
+      "infinitive": "falten",
+      "translation_ar": "يَطْوِي سَلَاسِلَ الأَحْمَاضِ الأَمِينِيَّةِ إِلَى بِنْيَةٍ ثُلَاثِيَّةِ الأَبْعَادِ",
+      "translation_en": "to fold into three-dimensional native protein conformations",
+      "construction": "sich falten (Proteine falten sich)",
+      "present_third": "faltet sich",
+      "preterite_third": "faltete sich",
+      "perfect_third": "hat sich gefaltet",
+      "svg_id": "svg_synv_falten",
+      "examples": [
+        {
+          "de": "Unter dem Einfluss molekularer Chaperone faltet sich das Polypeptid in seine native, funktionelle Konformation.",
+          "ar": "تنطوي سلسلة متعدد الببتيد تحت تأثير المرافقات الجزيئية إلى تشكيلها الوظيفي الأصلي.",
+          "en": "Under the influence of molecular chaperones, the polypeptide folds into its native, functional conformation."
+        }
+      ]
+    },
+    {
+      "id": "synv_04",
+      "infinitive": "mutieren",
+      "translation_ar": "يُحْدِثُ طَفْرَةً جِينِيَّةً أَوْ يَتَطَفَّرُ",
+      "translation_en": "to mutate / to introduce mutations",
+      "construction": "transitiv / intransitiv (zu + Dat)",
+      "present_third": "mutiert",
+      "preterite_third": "mutierte",
+      "perfect_third": "hat mutiert / ist mutiert",
+      "svg_id": "svg_synv_mutieren",
+      "examples": [
+        {
+          "de": "Im Rahmen gerichteter Evolution mutieren Forscher gezielt Schlüsselpositionen des Enzyms.",
+          "ar": "يُحْدِثُ الباحثون طفرات موجهة في المواقع المفتاحية للإنزيم في إطار التطور الموجه.",
+          "en": "In the framework of directed evolution, researchers purposefully mutate key positions of the enzyme."
+        }
+      ]
+    },
+    {
+      "id": "synv_05",
+      "infinitive": "katalysieren",
+      "translation_ar": "يُحَفِّزُ التَّفَاعُلَاتِ الْكِيمْيَائِيَّةَ الْحَيَوِيَّةَ بِكَفَاءَةٍ",
+      "translation_en": "to catalyze biochemical conversions",
+      "construction": "transitiv (Reaktionen biokatalytisch katalysieren)",
+      "present_third": "katalysiert",
+      "preterite_third": "katalysierte",
+      "perfect_third": "hat katalysiert",
+      "svg_id": "svg_synv_katalysieren",
+      "examples": [
+        {
+          "de": "Das synthetische Enzym katalysiert die Spaltung resistenter Schadstoffe millionenfach schneller als die unkatalysierte Reaktion.",
+          "ar": "يحفز الإنزيم التخليقي تكسير الملوثات المستعصية بسرعة تفوق التفاعل غير المحفز بملايين المرات.",
+          "en": "The synthetic enzyme catalyzes the breakdown of recalcitrant pollutants millions of times faster than the uncatalyzed reaction."
+        }
+      ]
+    },
+    {
+      "id": "synv_06",
+      "infinitive": "fermentieren",
+      "translation_ar": "يُخَمِّرُ حَيَوِيًّا فِي الْمُفَاعِلَاتِ الْبَيُولُوجِيَّةِ",
+      "translation_en": "to ferment in bioprocessing vessels",
+      "construction": "transitiv / intransitiv",
+      "present_third": "fermentiert",
+      "preterite_third": "fermentierte",
+      "perfect_third": "hat fermentiert",
+      "svg_id": "svg_synv_fermentieren",
+      "examples": [
+        {
+          "de": "Modifizierte Bakterienstämme fermentieren industrielle Abfallzucker zu wertvollen Biopolymeren.",
+          "ar": "تخمر سلالات البكتيريا المعدلة سكريات النفايات الصناعية محولة إياها إلى بوليمرات حيوية ثمينة.",
+          "en": "Modified bacterial strains ferment industrial waste sugars into valuable biopolymers."
+        }
+      ]
+    },
+    {
+      "id": "synv_07",
+      "infinitive": "sequenzieren",
+      "translation_ar": "يَقْرَأُ التَّتَابُعَ الْجِينِيَّ لِلأَحْمَاضِ النَّوَوِيَّةِ (Sequencing)",
+      "translation_en": "to sequence (DNA or RNA high-throughput)",
+      "construction": "transitiv (Genome hochpräzise sequenzieren)",
+      "present_third": "sequenziert",
+      "preterite_third": "sequenzierte",
+      "perfect_third": "hat sequenziert",
+      "svg_id": "svg_synv_sequenzieren",
+      "examples": [
+        {
+          "de": "Next-Generation-Sequenzer sequenzieren komplexe Umwelt-Metagenome in Echtzeit.",
+          "ar": "تقرأ أجهزة تسلسل الجيل القادم الميتاجينومات البيئية المعقدة في الوقت الفعلي.",
+          "en": "Next-generation sequencers sequence complex environmental metagenomes in real time."
+        }
+      ]
+    },
+    {
+      "id": "synv_08",
+      "infinitive": "klonieren",
+      "translation_ar": "يَسْتَنْسِخُ قِطَعَ الْحَمْضِ النَّوَوِيِّ وَيُدْرِجُهَا فِي نَوَاقِلَ جِينِيَّةٍ",
+      "translation_en": "to clone molecular DNA fragments into vectors",
+      "construction": "klonieren + Akk + in + Akk",
+      "present_third": "kloniert",
+      "preterite_third": "klonierte",
+      "perfect_third": "hat kloniert",
+      "svg_id": "svg_synv_klonieren",
+      "examples": [
+        {
+          "de": "Molekularbiologen klonieren das synthetische Konstrukt in einen bakteriellen Expressionsvektor.",
+          "ar": "يستنسخ علماء الأحياء الجزيئية البناء التخليقي ويدمجونه في ناقل تعبير بكتيري.",
+          "en": "Molecular biologists clone the synthetic construct into a bacterial expression vector."
+        }
+      ]
+    },
+    {
+      "id": "synv_09",
+      "infinitive": "amplifizieren",
+      "translation_ar": "يُضَاعِفُ وَيُكَثِّرُ قِطَعَ الدَّنَا عَبْرَ الْـ PCR",
+      "translation_en": "to amplify DNA sequences via PCR",
+      "construction": "transitiv (Gensequenzen amplifizieren)",
+      "present_third": "amplifiziert",
+      "preterite_third": "amplifizierte",
+      "perfect_third": "hat amplifiziert",
+      "svg_id": "svg_synv_amplifizieren",
+      "examples": [
+        {
+          "de": "Mittels Polymerase-Kettenreaktion lässt sich selbst ein einzelnes DNA-Molekül milliardenfach amplifizieren.",
+          "ar": "يمكن مضاعفة حتى جزيء الدنا الواحد مليارات المرات بواسطة تفاعل البلمرة المتسلسل.",
+          "en": "By means of polymerase chain reaction, even a single DNA molecule can be amplified billions of times."
+        }
+      ]
+    },
+    {
+      "id": "synv_10",
+      "infinitive": "exprimieren",
+      "translation_ar": "يُعَبِّرُ جِينِيًّا عَنِ الْبُرُوتِينَاتِ فِي الْخَلِيَّةِ",
+      "translation_en": "to express proteins from genetic sequences",
+      "construction": "transitiv (rekombinante Proteine exprimieren)",
+      "present_third": "exprimiert",
+      "preterite_third": "exprimierte",
+      "perfect_third": "hat exprimiert",
+      "svg_id": "svg_synv_exprimieren",
+      "examples": [
+        {
+          "de": "Der transformierte Mikroorganismus exprimiert therapeutische Antikörper in industriellem Maßstab.",
+          "ar": "يعبر الكائن الدقيق المحول وراثياً عن الأجسام المضادة العلاجية على نطاق صناعي.",
+          "en": "The transformed microorganism expresses therapeutic antibodies on an industrial scale."
+        }
+      ]
+    },
+    {
+      "id": "synv_11",
+      "infinitive": "transkribieren",
+      "translation_ar": "يَنْسَخُ الشِّفْرَةَ الْوِرَاثِيَّةَ مِنَ الدَّنَا إِلَى الرَّنَا",
+      "translation_en": "to transcribe DNA into messenger RNA",
+      "construction": "transkribieren + Akk + in + Akk",
+      "present_third": "transkribiert",
+      "preterite_third": "transkribierte",
+      "perfect_third": "hat transkribiert",
+      "svg_id": "svg_synv_transkribieren",
+      "examples": [
+        {
+          "de": "Die RNA-Polymerase transkribiert den codogenen DNA-Strang präzise in eine mRNA-Matrize.",
+          "ar": "ينسخ إنزيم بوليميراز الرنا شريط الدنا بدقة إلى قالب رنا مرسال.",
+          "en": "RNA polymerase precisely transcribes the template DNA strand into an mRNA transcript."
+        }
+      ]
+    },
+    {
+      "id": "synv_12",
+      "infinitive": "translieren",
+      "translation_ar": "يُتَرْجِمُ شِفْرَةَ الرَّنَا إِلَى سَلَاسِلَ بُرُوتِينِيَّةٍ عَلَى الرَّيْبُوسُومِ",
+      "translation_en": "to translate mRNA transcripts into peptide chains",
+      "construction": "transitiv (mRNA in Polypeptide translieren)",
+      "present_third": "transliert",
+      "preterite_third": "translierte",
+      "perfect_third": "hat transliert",
+      "svg_id": "svg_synv_translieren",
+      "examples": [
+        {
+          "de": "Ribosomen translieren die Basenabfolge der mRNA Codon für Codon in spezifische Aminosäuren.",
+          "ar": "تترجم الريبوسومات تسلسل قواعد الرنا المرسال كودوناً تلو الآخر إلى أحماض أمينية محددة.",
+          "en": "Ribosomes translate the mRNA base sequence codon by codon into specific amino acids."
+        }
+      ]
+    },
+    {
+      "id": "synv_13",
+      "infinitive": "ligieren",
+      "translation_ar": "يَرْبِطُ قِطَعَ الْحَمْضِ النَّوَوِيِّ إِنْزِيمِيًّا (Ligation)",
+      "translation_en": "to ligate DNA fragments enzymatically",
+      "construction": "transitiv (DNA-Fragmente ligieren)",
+      "present_third": "ligiert",
+      "preterite_third": "ligierte",
+      "perfect_third": "hat ligiert",
+      "svg_id": "svg_synv_ligieren",
+      "examples": [
+        {
+          "de": "Die DNA-Ligase ligiert die klebrigen Enden des Inserts dauerhaft mit dem Plasmidrückgrat.",
+          "ar": "يربط إنزيم ليغاز الدنا الأطراف اللاصقة للقطعة المدمجة بإحكام مع العمود الفقري للبلازميد.",
+          "en": "DNA ligase permanently ligates the cohesive ends of the insert with the plasmid backbone."
+        }
+      ]
+    },
+    {
+      "id": "synv_14",
+      "infinitive": "editieren",
+      "translation_ar": "يُحَرِّرُ الْجِينُومَ وَيُعَدِّلُ الشِّفْرَةَ الْوِرَاثِيَّةَ بِدِقَّةٍ",
+      "translation_en": "to edit genetic sequences with CRISPR tools",
+      "construction": "transitiv (das Zielgen zielgenau editieren)",
+      "present_third": "editiert",
+      "preterite_third": "editierte",
+      "perfect_third": "hat editiert",
+      "svg_id": "svg_synv_editieren",
+      "examples": [
+        {
+          "de": "Mithilfe programmierbarer Nukleasen editieren Forscher pathogene Mutationen auf Einzelbasenebene.",
+          "ar": "يحرر الباحثون الطفرات المسببة للأمراض على مستوى القاعدة المنفردة بواسطة إنزيمات نووية قابلة للبرمجة.",
+          "en": "Using programmable nucleases, researchers edit pathogenic mutations at single-base resolution."
+        }
+      ]
+    },
+    {
+      "id": "synv_15",
+      "infinitive": "immobilisieren",
+      "translation_ar": "يُثَبِّتُ الإِنْزِيمَاتِ عَلَى رَكِيزَةٍ صَلْبَةٍ لِإِعَادَةِ اسْتِخْدَامِهَا",
+      "translation_en": "to immobilize enzymes on solid supports",
+      "construction": "immobilisieren + Akk + an / auf + Dat",
+      "present_third": "immobilisiert",
+      "preterite_third": "immobilisierte",
+      "perfect_third": "hat immobilisiert",
+      "svg_id": "svg_synv_immobilisieren",
+      "examples": [
+        {
+          "de": "Bioverfahrenstechniker immobilisieren Biokatalysatoren auf porösen Trägermaterialien, um die Standzeit im Reaktor zu vervielfachen.",
+          "ar": "يثبت مهندسو المعالجة الحيوية المحفزات الحيوية على وسائط مسامية لمضاعفة عمرها التشغيلي في المفاعل.",
+          "en": "Bioprocess engineers immobilize biocatalysts on porous support matrices to multiply their operational lifespan in reactors."
+        }
+      ]
+    },
+    {
+      "id": "synv_16",
+      "infinitive": "hybridisieren",
+      "translation_ar": "يُهَجِّنُ خُيُوطَ الأَحْمَاضِ النَّوَوِيَّةِ الْمُتَكَامِلَةِ",
+      "translation_en": "to hybridize complementary nucleic acid strands",
+      "construction": "hybridisieren mit + Dat",
+      "present_third": "hybridisiert",
+      "preterite_third": "hybridisierte",
+      "perfect_third": "hat hybridisiert",
+      "svg_id": "svg_synv_hybridisieren",
+      "examples": [
+        {
+          "de": "Fluoreszierende Gensonden hybridisieren hochspezifisch mit der gesuchten Zielsequenz.",
+          "ar": "تتهجن المجسات الجينية المتفلورة بخصوصية عالية مع التسلسل المستهدف المنشود.",
+          "en": "Fluorescent gene probes hybridize highly specifically to the targeted sequence."
+        }
+      ]
+    },
+    {
+      "id": "synv_17",
+      "infinitive": "zentrifugieren",
+      "translation_ar": "يَفْصِلُ الْعَيِّنَاتِ بِالطَّرْدِ الْمَرْكَزِيِّ عَالِي السُّرْعَةِ",
+      "translation_en": "to centrifuge / ultracentrifuge cellular components",
+      "construction": "transitiv (Zelllysate zentrifugieren)",
+      "present_third": "zentrifugiert",
+      "preterite_third": "zentrifugierte",
+      "perfect_third": "hat zentrifugiert",
+      "svg_id": "svg_synv_zentrifugieren",
+      "examples": [
+        {
+          "de": "Laboranten zentrifugieren das Zellhomogenat bei hunderttausendfacher Erdbeschleunigung.",
+          "ar": "يفصل الفنيون المخبري متجانس الخلايا بالطرد المركزي عند تسارع يعادل مائة ألف ضعف جاذبية الأرض.",
+          "en": "Lab technicians centrifuge the cell homogenate at one hundred thousand times gravitational acceleration."
+        }
+      ]
+    },
+    {
+      "id": "synv_18",
+      "infinitive": "transduzieren",
+      "translation_ar": "يَنْقُلُ الْجِينَاتِ إِلَى الْخَلَايَا بِوَاسِطَةِ نَوَاقِلَ فَيْرُوسِيَّةٍ (Transduction)",
+      "translation_en": "to transduce genes via viral vectors",
+      "construction": "transduzieren + Akk + mit + Dat",
+      "present_third": "transduziert",
+      "preterite_third": "transduzierte",
+      "perfect_third": "hat transduziert",
+      "svg_id": "svg_synv_transduzieren",
+      "examples": [
+        {
+          "de": "Sicherheitsmodifizierte Lentiviren transduzieren therapeutische Gene dauerhaft in das Genom von T-Zellen.",
+          "ar": "تنقل الفيروسات البطيئة المعدلة بأمان الجينات العلاجية دائماً إلى جينوم الخلايا التائية.",
+          "en": "Safety-modified lentiviruses transduce therapeutic genes permanently into the genome of T cells."
+        }
+      ]
+    },
+    {
+      "id": "synv_19",
+      "infinitive": "rekombinieren",
+      "translation_ar": "يُعِيدُ تَرْكِيبَ الْقِطَعِ الْجِينِيَّةِ لِإِنْتَاجِ تَشْكِيلَاتٍ جَدِيدَةٍ",
+      "translation_en": "to recombine genetic elements",
+      "construction": "transitiv (Gensegmente rekombinieren)",
+      "present_third": "rekombiniert",
+      "preterite_third": "rekombinierte",
+      "perfect_third": "hat rekombiniert",
+      "svg_id": "svg_synv_rekombinieren",
+      "examples": [
+        {
+          "de": "Synthetische Plasmide rekombinieren funktionelle Domänen aus unterschiedlichen Organismenreichen.",
+          "ar": "تعيد البلازميدات التخليقية تركيب نطاقات وظيفية مستخلصة من ممالك حيوية متباينة.",
+          "en": "Synthetic plasmids recombine functional domains originating from diverse kingdoms of life."
+        }
+      ]
+    },
+    {
+      "id": "synv_20",
+      "infinitive": "regulieren",
+      "translation_ar": "يُضَبِّطُ وَيُحْكِمُ التَّعْبِيرَ الْجِينِيَّ وَمُسْتَوَيَاتِ الإِنْتَاجِ",
+      "translation_en": "to regulate metabolic fluxes and expression levels",
+      "construction": "transitiv (den metabolischen Fluss regulieren)",
+      "present_third": "reguliert",
+      "preterite_third": "regulierte",
+      "perfect_third": "hat reguliert",
+      "svg_id": "svg_synv_regulieren",
+      "examples": [
+        {
+          "de": "Künstliche Promotoren regulieren die Syntheserate empfindlicher Zwischenprodukte bedarfsgerecht.",
+          "ar": "تضبط المحفزات الاصطناعية معدل تخليق المنتجات الوسيطة الحساسة حسب الحاجة الفعلية.",
+          "en": "Synthetic promoters regulate the synthesis rate of sensitive metabolic intermediates on demand."
+        }
+      ]
+    }
+  ]
+}

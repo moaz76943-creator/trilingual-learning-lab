@@ -1,5 +1,5 @@
 {
-  "count": 290,
+  "count": 295,
   "sentences": [
     {
       "id": "sent_001",
@@ -5373,6 +5373,118 @@
         "können."
       ],
       "grammar_point": "Idiom 'sicherstellen' governing a dass-clause with genitive preposition 'außerhalb + Gen' in milestone 290"
+    },
+    {
+      "id": "sent_291",
+      "category": "Synthetic Biology Verbs",
+      "german": "Automatisierte Plattformen synthetisieren künstliche Genkonstrukte mit beispielloser Präzision und Geschwindigkeit.",
+      "arabic": "تُخَلِّقُ الْمَنَصَّاتُ الآلِيَّةُ الْبِنَى الْجِينِيَّةَ الِاصْطِنَاعِيَّةَ بِدِقَّةٍ وَسُرْعَةٍ لَا مَثِيلَ لَهُمَا.",
+      "english": "Automated platforms synthesize artificial gene constructs with unprecedented precision and speed.",
+      "tokens": [
+        "Automatisierte",
+        "Plattformen",
+        "synthetisieren",
+        "künstliche",
+        "Genkonstrukte",
+        "mit",
+        "beispielloser",
+        "Präzision",
+        "und",
+        "Geschwindigkeit."
+      ],
+      "grammar_point": "Transitive verb 'synthetisieren' with accusative plural direct object and modal preposition 'mit + Dat'"
+    },
+    {
+      "id": "sent_292",
+      "category": "Synthetic Biology Verbs",
+      "german": "Unter dem Einfluss molekularer Chaperone faltet sich das Polypeptid in seine native dreidimensionale Struktur.",
+      "arabic": "تَنْطَوِي سِلْسِلَةُ مُتَعَدِّدِ الْبِبْتِيدِ تَحْتَ تَأْثِيرِ الْمُرَافِقَاتِ الْجُزَيْئِيَّةِ إِلَى بِنْيَتِهَا الأَصِيلَةِ ثُلَاثِيَّةِ الأَبْعَادِ.",
+      "english": "Under the influence of molecular chaperones, the polypeptide folds into its native three-dimensional structure.",
+      "tokens": [
+        "Unter",
+        "dem",
+        "Einfluss",
+        "molekularer",
+        "Chaperone",
+        "faltet",
+        "sich",
+        "das",
+        "Polypeptid",
+        "in",
+        "seine",
+        "native",
+        "dreidimensionale",
+        "Struktur."
+      ],
+      "grammar_point": "Reflexive verb 'sich falten in + Akk' with initial prepositional phrase 'unter dem Einfluss + Gen'"
+    },
+    {
+      "id": "sent_293",
+      "category": "Synthetic Biology Verbs",
+      "german": "Moderne Bioreaktoren fermentieren biobasierte Rohstoffe kontinuierlich um wertvolle Spezialchemikalien nachhaltig zu erzeugen.",
+      "arabic": "تُخَمِّرُ الْمُفَاعِلَاتُ الْحَيَوِيَّةُ الْحَدِيثَةُ الْمَوَادَّ الْخَامَ الْحَيَوِيَّةَ بِاسْتِمْرَارٍ لِإِنْتَاجِ كِيمْيَاوِيَّاتٍ مُتَخَصِّصَةٍ بِاسْتِدَامَةٍ.",
+      "english": "Modern bioreactors continuously ferment bio-based raw materials to sustainably produce valuable specialty chemicals.",
+      "tokens": [
+        "Moderne",
+        "Bioreaktoren",
+        "fermentieren",
+        "biobasierte",
+        "Rohstoffe",
+        "kontinuierlich",
+        "um",
+        "wertvolle",
+        "Spezialchemikalien",
+        "nachhaltig",
+        "zu",
+        "erzeugen."
+      ],
+      "grammar_point": "Transitive verb 'fermentieren' with final infinitive construction 'um ... zu erzeugen'"
+    },
+    {
+      "id": "sent_294",
+      "category": "Synthetic Biology Verbs",
+      "german": "Gentechniker klonieren synthetische Genabschnitte in virale Vektoren um Zielzellen dauerhaft zu reprogrammieren.",
+      "arabic": "يَسْتَنْسِخُ مُهَنْدِسُو الْوِرَاثَةِ الْمَقَاطِعَ الْجِينِيَّةَ التَّخْلِيقِيَّةَ فِي نَوَاقِلَ فَيْرُوسِيَّةٍ لِإِعَادَةِ بَرْمَجَةِ الْخَلَايَا الْمُسْتَهْدَفَةِ دَائِمًا.",
+      "english": "Genetic engineers clone synthetic gene segments into viral vectors to permanently reprogram target cells.",
+      "tokens": [
+        "Gentechniker",
+        "klonieren",
+        "synthetische",
+        "Genabschnitte",
+        "in",
+        "virale",
+        "Vektoren",
+        "um",
+        "Zielzellen",
+        "dauerhaft",
+        "zu",
+        "reprogrammieren."
+      ],
+      "grammar_point": "Verb 'klonieren in + Akk' combined with final infinitive clause 'um ... zu reprogrammieren'"
+    },
+    {
+      "id": "sent_295",
+      "category": "Synthetic Biology Verbs",
+      "german": "Künstlich designte Promotoren regulieren den metabolischen Fluss in der Zelle um unerwünschte Nebenprodukte auszuschließen.",
+      "arabic": "تَضْبِطُ الْمُحَفِّزَاتُ الْمُصَمَّمَةُ اصْطِنَاعِيًّا التَّدَفُّقَ الأَيْضِيَّ فِي الْخَلِيَّةِ لِاسْتِبْعَادِ الْمُنْتَجَاتِ الثَّانَوِيَّةِ غَيْرِ الْمَرْغُوبِ فِيهَا.",
+      "english": "Artificially designed promoters regulate metabolic flux in the cell to exclude undesirable by-products.",
+      "tokens": [
+        "Künstlich",
+        "designte",
+        "Promotoren",
+        "regulieren",
+        "den",
+        "metabolischen",
+        "Fluss",
+        "in",
+        "der",
+        "Zelle",
+        "um",
+        "unerwünschte",
+        "Nebenprodukte",
+        "auszuschließen."
+      ],
+      "grammar_point": "Transitive verb 'regulieren' with masculine accusative direct object and final separable infinitive clause in milestone 295"
     }
   ]
 }
