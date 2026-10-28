@@ -1,0 +1,370 @@
+{
+  "engine_id": "ecological_environmental_verbs_b2_c1",
+  "title_ar": "أفعال البيئة والاستدامة الحيوية والتحول المناخي",
+  "title_de": "Ökologische, bio-nachhaltige und transformative Verben (B2/C1)",
+  "title_en": "Ecological, Bio-Sustainable & Climate Transformation Verbs (B2/C1)",
+  "level": "B2/C1",
+  "count": 20,
+  "verbs": [
+    {
+      "id": "eco_01",
+      "infinitive": "dekarbonisieren",
+      "translation_ar": "يُزِيلُ الْكَرْبُونَ / يَخْفِضُ انْبِعَاثَاتِ الْكَرْبُونِ صِنَاعِيًّا",
+      "translation_en": "to decarbonize",
+      "construction": "transitiv (die Industrie dekarbonisieren)",
+      "present_third": "dekarbonisiert",
+      "preterite_third": "dekarbonisierte",
+      "perfect_third": "hat dekarbonisiert",
+      "svg_id": "svg_eco_dekarbonisieren",
+      "examples": [
+        {
+          "de": "Moderne Industrienationen müssen ihre Energieversorgung rasch dekarbonisieren.",
+          "ar": "يَجِبُ عَلَى الدُّوَلِ الصِّنَاعِيَّةِ الْحَدِيثَةِ إِزَالَةُ الْكَرْبُونِ مِنْ إِمْدَادَاتِ الطَّاقَةِ بِسُرْعَةٍ.",
+          "en": "Modern industrialized nations must rapidly decarbonize their energy supply."
+        }
+      ]
+    },
+    {
+      "id": "eco_02",
+      "infinitive": "renaturieren",
+      "translation_ar": "يُعِيدُ إِلَى الْحَالَةِ الطَّبِيعِيَّةِ (تَأْهِيلُ الأَنْهَارِ وَالأَرَاضِي)",
+      "translation_en": "to renature / to restore to natural state",
+      "construction": "transitiv (Flussläufe renaturieren)",
+      "present_third": "renaturiert",
+      "preterite_third": "renaturierte",
+      "perfect_third": "hat renaturiert",
+      "svg_id": "svg_eco_renaturieren",
+      "examples": [
+        {
+          "de": "Umweltverbände renaturieren begradigte Flussabschnitte zum Schutz der Artenvielfalt.",
+          "ar": "تُعِيدُ الْجَمْعِيَّاتُ الْبِيئِيَّةُ تَأْهِيلَ مَجَارِي الأَنْهَارِ الْمُعَدَّلَةِ لِحِمَايَةِ التَّنَوُّعِ الْبَيُولُوجِيِّ.",
+          "en": "Environmental organizations restore canalized river sections to protect biodiversity."
+        }
+      ]
+    },
+    {
+      "id": "eco_03",
+      "infinitive": "kompensieren",
+      "translation_ar": "يُعَوِّضُ بِيئِيًّا عَنِ الانْبِعَاثَاتِ (مُعَادَلَةُ الْكَرْبُونِ)",
+      "translation_en": "to offset / to compensate emissions",
+      "construction": "transitiv (CO2-Emissionen kompensieren durch + Akk)",
+      "present_third": "kompensiert",
+      "preterite_third": "kompensierte",
+      "perfect_third": "hat kompensiert",
+      "svg_id": "svg_eco_kompensieren",
+      "examples": [
+        {
+          "de": "Fluggäste können ihren ökologischen Fußabdruck durch Klimaschutzbeiträge kompensieren.",
+          "ar": "يَسْتَطِيعُ رُكَّابُ الطَّائِرَاتِ مُعَادَلَةَ بَصْمَتِهِمُ الْبِيئِيَّةِ عَبْرَ مُسَاهَمَاتِ حِمَايَةِ الْمَنَاخِ.",
+          "en": "Passengers can offset their ecological footprint through climate protection contributions."
+        }
+      ]
+    },
+    {
+      "id": "eco_04",
+      "infinitive": "rezirkulieren",
+      "translation_ar": "يُعِيدُ التَّدْوِيرَ فِي دَوْرَةٍ مُغْلَقَةٍ",
+      "translation_en": "to recirculate / to cycle back",
+      "construction": "transitiv / in + Akk",
+      "present_third": "rezirkuliert",
+      "preterite_third": "rezirkulierte",
+      "perfect_third": "hat rezirkuliert",
+      "svg_id": "svg_eco_rezirkulieren",
+      "examples": [
+        {
+          "de": "Kreislaufwirtschaftliche Betriebe rezirkulieren wertvolle Rohstoffe in geschlossenen Kreisläufen.",
+          "ar": "تُعِيدُ مُؤَسَّسَاتُ الاقْتِصَادِ الدَّائِرِيِّ تَدْوِيرَ الْمَوَادِّ الْخَامِ الثَّمِينَةِ فِي دَوْرَاتٍ مُغْلَقَةٍ.",
+          "en": "Circular economy enterprises recirculate valuable raw materials in closed loops."
+        }
+      ]
+    },
+    {
+      "id": "eco_05",
+      "infinitive": "degradieren",
+      "translation_ar": "يَتَدَهْوَرُ بِيئِيًّا / يَنْحَلُّ عُضْوِيًّا فِي التُّرْبَةِ",
+      "translation_en": "to degrade (ecologically or biochemically)",
+      "construction": "intransitiv / zu + Dat",
+      "present_third": "degradiert",
+      "preterite_third": "degradierte",
+      "perfect_third": "ist degradiert",
+      "svg_id": "svg_eco_degradieren",
+      "examples": [
+        {
+          "de": "Intensive Überweidung lässt fruchtbare Steppenböden zusehends degradieren.",
+          "ar": "يَجْعَلُ الرَّعْيُ الْجَائِرُ الْمُكَثَّفُ تُرْبَةَ السُّهُوبِ الْخِصْبَةَ تَتَدَهْوَرُ بِشَكْلٍ مَلْحُوظٍ.",
+          "en": "Intensive overgrazing causes fertile steppe soils to degrade noticeably."
+        }
+      ]
+    },
+    {
+      "id": "eco_06",
+      "infinitive": "emittieren",
+      "translation_ar": "يَبْعَثُ غَازَاتٍ دَفِيئَةً أَوْ مُلَوِّثَاتٍ",
+      "translation_en": "to emit (pollutants or greenhouse gases)",
+      "construction": "transitiv",
+      "present_third": "emittiert",
+      "preterite_third": "emittierte",
+      "perfect_third": "hat emittiert",
+      "svg_id": "svg_eco_emittieren",
+      "examples": [
+        {
+          "de": "Kohlekraftwerke emittieren riesige Mengen klimaschädlichen Kohlendioxids.",
+          "ar": "تَبْعَثُ مَحَطَّاتُ تَوَلِيدِ الطَّاقَةِ بِالْفَحْمِ كَمِّيَّاتٍ هَائِلَةً مِنْ ثَانِي أُكْسِيدِ الْكَرْبُونِ الضَّارِّ بِالْمَنَاخِ.",
+          "en": "Coal-fired power plants emit vast quantities of climate-damaging carbon dioxide."
+        }
+      ]
+    },
+    {
+      "id": "eco_07",
+      "infinitive": "regenerieren",
+      "translation_ar": "يَتَجَدَّدُ طَبِيعِيًّا / يَسْتَعِيدُ نَشَاطَهُ الْحَيَوِيَّ",
+      "translation_en": "to regenerate",
+      "construction": "sich regenerieren / transitiv",
+      "present_third": "regeneriert",
+      "preterite_third": "regenerierte",
+      "perfect_third": "hat regeneriert",
+      "svg_id": "svg_eco_regenerieren",
+      "examples": [
+        {
+          "de": "Geschützte Waldökosysteme regenerieren sich nach Waldbränden erstaunlich robust.",
+          "ar": "تَتَجَدَّدُ النُّظُمُ الْبِيئِيَّةُ لِلْغَابَاتِ الْمَحْمِيَّةِ بَعْدَ الْحَرَائِقِ بِقُوَّةٍ مُثِيرَةٍ لِلدَّهْشَةِ.",
+          "en": "Protected forest ecosystems regenerate remarkably robustly after wildfires."
+        }
+      ]
+    },
+    {
+      "id": "eco_08",
+      "infinitive": "assimilieren",
+      "translation_ar": "يُمَثِّلُ غِذَائِيًّا / يَمْتَصُّ الْكَرْبُونَ بِالتَّمْثِيلِ الضَّوْئِيِّ",
+      "translation_en": "to assimilate (carbon via photosynthesis)",
+      "construction": "transitiv",
+      "present_third": "assimiliert",
+      "preterite_third": "assimilierte",
+      "perfect_third": "hat assimiliert",
+      "svg_id": "svg_eco_assimilieren",
+      "examples": [
+        {
+          "de": "Pflanzen assimilieren anorganisches Kohlendioxid und wandeln es in Biomasse um.",
+          "ar": "تُمَثِّلُ النَّبَاتَاتُ ثَانِي أُكْسِيدِ الْكَرْبُونِ غَيْرَ الْعُضْوِيِّ وَتُحَوِّلُهُ إِلَى كُتْلَةٍ حَيَوِيَّةٍ.",
+          "en": "Plants assimilate inorganic carbon dioxide and convert it into biomass."
+        }
+      ]
+    },
+    {
+      "id": "eco_09",
+      "infinitive": "kontaminieren",
+      "translation_ar": "يُلَوِّثُ مَوَارِدَ طَبِيعِيَّةً / يُفْسِدُ مِيَاهًا أَوْ تُرْبَةً",
+      "translation_en": "to contaminate / to pollute",
+      "construction": "kontaminieren + Akk + mit + Dat",
+      "present_third": "kontaminiert",
+      "preterite_third": "kontaminierte",
+      "perfect_third": "hat kontaminiert",
+      "svg_id": "svg_eco_kontaminieren",
+      "examples": [
+        {
+          "de": "Industrieabfälle kontaminierten das Grundwasser mit hochtoxischen Schwermetallen.",
+          "ar": "لَوَّثَتِ النِّفَايَاتُ الصِّنَاعِيَّةُ الْمِيَاهَ الْجَوْفِيَّةَ بِمَعَادِنَ ثَقِيلَةٍ شَدِيدَةِ السُّمِّيَّةِ.",
+          "en": "Industrial waste contaminated the groundwater with highly toxic heavy metals."
+        }
+      ]
+    },
+    {
+      "id": "eco_10",
+      "infinitive": "sequestrieren",
+      "translation_ar": "يَحْتَجِزُ وَيَعْزِلُ الْكَرْبُونَ فِي بَاطِنِ الأَرْضِ (CCS)",
+      "translation_en": "to sequester (carbon capture & storage)",
+      "construction": "transitiv (Kohlenstoff sequestrieren)",
+      "present_third": "sequestriert",
+      "preterite_third": "sequestrierte",
+      "perfect_third": "hat sequestriert",
+      "svg_id": "svg_eco_sequestrieren",
+      "examples": [
+        {
+          "de": "Geologische Speicherformationen können CO2 über Jahrtausende sicher sequestrieren.",
+          "ar": "تَسْتَطِيعُ التَّكْوِينَاتُ الْجِيُولُوجِيَّةُ احْتِجَازَ ثَانِي أُكْسِيدِ الْكَرْبُونِ بِأَمَانٍ لِآلَافِ السِّنِينَ.",
+          "en": "Geological storage formations can safely sequester CO2 for millennia."
+        }
+      ]
+    },
+    {
+      "id": "eco_11",
+      "infinitive": "aufforsten",
+      "translation_ar": "يُعِيدُ تَشْجِيرَ الْغَابَاتِ الْمُتَدَهْوِرَةِ",
+      "translation_en": "to reforest / to afforest",
+      "construction": "transitiv (Kahlflächen aufforsten)",
+      "present_third": "forstet auf",
+      "preterite_third": "forstete auf",
+      "perfect_third": "hat aufgeforstet",
+      "svg_id": "svg_eco_aufforsten",
+      "examples": [
+        {
+          "de": "Die Initiative forstete weitläufige Rodungsflächen mit klimaresistenten Baumarten auf.",
+          "ar": "أَعَادَتِ الْمُبَادَرَةُ تَشْجِيرَ مَسَاحَاتٍ شَاسِعَةٍ بِأَنْوَاعِ أَشْجَارٍ مُقَاوِمَةٍ لِتَغَيُّرِ الْمَنَاخِ.",
+          "en": "The initiative reforested extensive cleared areas with climate-resilient tree species."
+        }
+      ]
+    },
+    {
+      "id": "eco_12",
+      "infinitive": "erodieren",
+      "translation_ar": "يَتَآكَلُ بِفِعْلِ الرِّيَاحِ وَالْمِيَاهِ (انْجِرَافُ التُّرْبَةِ)",
+      "translation_en": "to erode (soil or landforms)",
+      "construction": "intransitiv / transitiv",
+      "present_third": "erodiert",
+      "preterite_third": "erodierte",
+      "perfect_third": "ist erodiert / hat erodiert",
+      "svg_id": "svg_eco_erodieren",
+      "examples": [
+        {
+          "de": "Ohne schützende Pflanzendecke erodiert der fruchtbare Mutterboden bei Starkregen rasch.",
+          "ar": "تَتَآكَلُ التُّرْبَةُ السَّطْحِيَّةُ الْخِصْبَةُ سَرِيعًا عِنْدَ هُطُولِ الأَمْطَارِ الْغَزِيرَةِ دُونَ غِطَاءٍ نَبَاتِيٍّ.",
+          "en": "Without protective vegetation cover, fertile topsoil erodes rapidly during heavy rains."
+        }
+      ]
+    },
+    {
+      "id": "eco_13",
+      "infinitive": "transformieren",
+      "translation_ar": "يُحْدِثُ تَحَوُّلاً جَذْرِيًّا نَحْوَ الاسْتِدَامَةِ",
+      "translation_en": "to transform (systems or infrastructure)",
+      "construction": "transformieren + Akk + in + Akk",
+      "present_third": "transformiert",
+      "preterite_third": "transformierte",
+      "perfect_third": "hat transformiert",
+      "svg_id": "svg_eco_transformieren",
+      "examples": [
+        {
+          "de": "Kommunen transformieren ihre Mobilitätsnetze zugunsten von Fußgängern und Radfahrern.",
+          "ar": "تُحَوِّلُ الْبَلَدِيَّاتُ شَبَكَاتِ التَّنَقُّلِ لَدَيْهَا لِصَالِحِ الْمُشَاةِ وَرَاكِبِي الدَّرَّاجَاتِ.",
+          "en": "Municipalities are transforming their mobility networks in favor of pedestrians and cyclists."
+        }
+      ]
+    },
+    {
+      "id": "eco_14",
+      "infinitive": "drosseln",
+      "translation_ar": "يَكْبَحُ / يُخَفِّضُ اسْتِهْلَاكَ الطَّاقَةِ أَوْ حَجْمَ الانْبِعَاثَاتِ",
+      "translation_en": "to throttle / to curb emissions or consumption",
+      "construction": "transitiv (den Energieverbrauch drosseln)",
+      "present_third": "drosselt",
+      "preterite_third": "drosselte",
+      "perfect_third": "hat gedrosselt",
+      "svg_id": "svg_eco_drosseln",
+      "examples": [
+        {
+          "de": "Um das Klimaziel zu erreichen, müssen Staaten ihren Ausstoß drastisch drosseln.",
+          "ar": "لِتَحْقِيقِ الْهَدَفِ الْمَنَاخِيِّ، يَتَعَيَّنُ عَلَى الدُّوَلِ كَبْحُ انْبِعَاثَاتِهَا بِشِدَّةٍ.",
+          "en": "To achieve the climate target, states must drastically curb their emissions."
+        }
+      ]
+    },
+    {
+      "id": "eco_15",
+      "infinitive": "schädigen",
+      "translation_ar": "يُلْحِقُ ضَرَرًا جَسِيمًا بِالْبِيئَةِ",
+      "translation_en": "to harm / to damage ecologically",
+      "construction": "transitiv (die Umwelt schädigen)",
+      "present_third": "schädigt",
+      "preterite_third": "schädigte",
+      "perfect_third": "hat geschädigt",
+      "svg_id": "svg_eco_schaedigen",
+      "examples": [
+        {
+          "de": "Chemische Pestizide schädigen nützliche Bestäuberinsekten nachhaltig.",
+          "ar": "تُلْحِقُ الْمُبِيدَاتُ الْكِيمْيَائِيَّةُ أَضْرَارًا بَالِغَةً بِالْحَشَرَاتِ الْمُلَقِّحَةِ النَّافِعَةِ.",
+          "en": "Chemical pesticides sustainably harm beneficial pollinating insects."
+        }
+      ]
+    },
+    {
+      "id": "eco_16",
+      "infinitive": "schonen",
+      "translation_ar": "يَرْعَى / يُحَافِظُ عَلَى الْمَوَارِدِ بِاعْتِدَالٍ",
+      "translation_en": "to conserve / to spare resources",
+      "construction": "transitiv (Ressourcen schonen)",
+      "present_third": "schont",
+      "preterite_third": "schonte",
+      "perfect_third": "hat geschont",
+      "svg_id": "svg_eco_schonen",
+      "examples": [
+        {
+          "de": "Effizientes Produktdesign schont wertvolle Primärrohstoffe für künftige Generationen.",
+          "ar": "يُحَافِظُ التَّصْمِيمُ الْفَعَّالُ لِلْمُنْتَجَاتِ عَلَى الْمَوَادِّ الْخَامِ الأَسَاسِيَّةِ لِلأَجْيَالِ الْقَادِمَةِ.",
+          "en": "Efficient product design conserves valuable primary raw materials for future generations."
+        }
+      ]
+    },
+    {
+      "id": "eco_17",
+      "infinitive": "recyclen",
+      "translation_ar": "يُعِيدُ تَدْوِيرَ النِّفَايَاتِ صِنَاعِيًّا",
+      "translation_en": "to recycle",
+      "construction": "transitiv (Wertstoffe recyclen)",
+      "present_third": "recycelt",
+      "preterite_third": "recycelte",
+      "perfect_third": "hat recycelt",
+      "svg_id": "svg_eco_recyclen",
+      "examples": [
+        {
+          "de": "Fortschrittliche Anlagen recyclen Batteriematerialien mit hohen Rückgewinnungsquoten.",
+          "ar": "تُعِيدُ الْمُنْشَآتُ الْمُتَقَدِّمَةُ تَدْوِيرَ مَوَادِّ الْبَطَّارِيَّاتِ بِنِسَبِ اسْتِرْدَادٍ عَالِيَةٍ.",
+          "en": "Advanced facilities recycle battery materials with high recovery rates."
+        }
+      ]
+    },
+    {
+      "id": "eco_18",
+      "infinitive": "akklimatisieren",
+      "translation_ar": "يَتَأَقْلَمُ مَعَ الْمَنَاخِ / يَتَكَيَّفُ بِيئِيًّا",
+      "translation_en": "to acclimate / to adapt to climate conditions",
+      "construction": "sich akklimatisieren an + Akk",
+      "present_third": "akklimatisiert",
+      "preterite_third": "akklimatisierte",
+      "perfect_third": "hat akklimatisiert",
+      "svg_id": "svg_eco_akklimatisieren",
+      "examples": [
+        {
+          "de": "Pflanzenarten müssen sich an zunehmend heißere Sommerperioden akklimatisieren.",
+          "ar": "يَتَعَيَّنُ عَلَى الأَنْوَاعِ النَّبَاتِيَّةِ التَّأَقْلُمُ مَعَ فَتَرَاتِ الصَّيْفِ الأَكْثَرِ حَرَارَةً.",
+          "en": "Plant species must acclimate to increasingly hotter summer periods."
+        }
+      ]
+    },
+    {
+      "id": "eco_19",
+      "infinitive": "filtern",
+      "translation_ar": "يُرَشِّحُ / يُنَقِّي الْمِيَاهَ أَوِ الْهَوَاءَ مِنَ الشَّوَائِبِ",
+      "translation_en": "to filter / to purify",
+      "construction": "transitiv / filtern aus + Dat",
+      "present_third": "filtert",
+      "preterite_third": "filterte",
+      "perfect_third": "hat gefiltert",
+      "svg_id": "svg_eco_filtern",
+      "examples": [
+        {
+          "de": "Feuchtgebiete filtern Schadstoffe auf natürliche Weise aus dem Oberflächenwasser.",
+          "ar": "تُرَشِّحُ الأَرَاضِي الرَّطْبَةُ الْمُلَوِّثَاتِ طَبِيعِيًّا مِنَ الْمِيَاهِ السَّطْحِيَّةِ.",
+          "en": "Wetlands naturally filter pollutants from surface water."
+        }
+      ]
+    },
+    {
+      "id": "eco_20",
+      "infinitive": "renovieren",
+      "translation_ar": "يُجَدِّدُ بِيئِيًّا وَحَرَارِيًّا (التَّحْسِينُ الطَّاقِيُّ لِلْمَبَانِي)",
+      "translation_en": "to retrofit energetically / to ecologically renovate",
+      "construction": "transitiv (energetisch renovieren)",
+      "present_third": "renoviert",
+      "preterite_third": "renovierte",
+      "perfect_third": "hat renoviert",
+      "svg_id": "svg_eco_renovieren",
+      "examples": [
+        {
+          "de": "Energetisch renovierte Gebäude senken den Heizwärmebedarf um über sechzig Prozent.",
+          "ar": "تُخَفِّضُ الْمَبَانِي الْمُجَدَّدَةُ طَاقِيًّا احْتِيَاجَاتِ التَّدْفِئَةِ بِأَكْثَرَ مِنْ سِتِّينَ بِالْمِائَةِ.",
+          "en": "Energetically renovated buildings reduce space heating demand by over sixty percent."
+        }
+      ]
+    }
+  ]
+}
