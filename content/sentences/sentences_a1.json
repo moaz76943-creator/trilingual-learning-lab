@@ -1,5 +1,5 @@
 {
-  "count": 300,
+  "count": 305,
   "sentences": [
     {
       "id": "sent_001",
@@ -5603,6 +5603,117 @@
         "Kognition."
       ],
       "grammar_point": "Prepositional nominalization phrase 'mit dem Erreichen' with transitive verb and compound prepositional attribute in historic milestone 300"
+    },
+    {
+      "id": "sent_301",
+      "category": "Cyber-Interaction & Sociology",
+      "german": "Moderne Online-Communities interagieren über immersive Schnittstellen nahtlos mit autonomen KI-Agenten.",
+      "arabic": "تَتَفَاعَلُ الْمُجْتَمَعَاتُ الرَّقْمِيَّةُ الْحَدِيثَةُ عَبْرَ وَاجِهَاتٍ غَامِرَةٍ بِسَلَاسَةٍ مَعَ وُكَلَاءِ ذَكَاءِ اصْطِنَاعِيٍّ مُسْتَقِلِّينَ.",
+      "english": "Modern online communities interact seamlessly with autonomous AI agents across immersive interfaces.",
+      "tokens": [
+        "Moderne",
+        "Online-Communities",
+        "interagieren",
+        "über",
+        "immersive",
+        "Schnittstellen",
+        "nahtlos",
+        "mit",
+        "autonomen",
+        "KI-Agenten."
+      ],
+      "grammar_point": "Intransitive verb 'interagieren' governing prepositional phrase 'mit + Dat' and spatial phrase 'über + Akk'"
+    },
+    {
+      "id": "sent_302",
+      "category": "Cyber-Interaction & Sociology",
+      "german": "Plattformbetreiber müssen schädliche Inhalte sorgfältig moderieren ohne die legitime Meinungsfreiheit zu beschneiden.",
+      "arabic": "يَتَعَيَّنُ عَلَى مُشَغِّلِي الْمَنَصَّاتِ الإِشْرَافُ بِعِنَايَةٍ عَلَى الْمُحْتَوَى الضَّارِّ دُونَ تَقْيِيدِ حُرِّيَّةِ الرَّأْيِ الْمَشْرُوعَةِ.",
+      "english": "Platform operators must carefully moderate harmful content without curtailing legitimate freedom of expression.",
+      "tokens": [
+        "Plattformbetreiber",
+        "müssen",
+        "schädliche",
+        "Inhalte",
+        "sorgfältig",
+        "moderieren",
+        "ohne",
+        "die",
+        "legitime",
+        "Meinungsfreiheit",
+        "zu",
+        "beschneiden."
+      ],
+      "grammar_point": "Modal construction 'müssen + Infinitiv' combined with negative infinitive clause 'ohne ... zu beschneiden'"
+    },
+    {
+      "id": "sent_303",
+      "category": "Cyber-Interaction & Sociology",
+      "german": "Durch algorithmische Filterblasen amplifizieren soziale Netzwerke emotionale Empörung weit über das normale Maß hinaus.",
+      "arabic": "تُضَخِّمُ الشَّبَكَاتُ الاجْتِمَاعِيَّةُ عَبْرَ فَقَاعَاتِ التَّصْفِيَةِ الْخَوَارِزْمِيَّةِ الْغَضَبَ الْعَاطِفِيَّ بِمَا يَتَجَاوَزُ الْحَدَّ الطَّبِيعِيَّ بِكَثِيرٍ.",
+      "english": "Through algorithmic filter bubbles, social networks amplify emotional outrage far beyond normal proportions.",
+      "tokens": [
+        "Durch",
+        "algorithmische",
+        "Filterblasen",
+        "amplifizieren",
+        "soziale",
+        "Netzwerke",
+        "emotionale",
+        "Empörung",
+        "weit",
+        "über",
+        "das",
+        "normale",
+        "Maß",
+        "hinaus."
+      ],
+      "grammar_point": "Inverted sentence with prepositional phrase 'durch + Akk' and directional idiom 'über ... hinaus'"
+    },
+    {
+      "id": "sent_304",
+      "category": "Cyber-Interaction & Sociology",
+      "german": "Bürgerbewegungen mobilisieren hunderttausende Unterstützer im Netz um drängende gesellschaftliche Reformen einzufordern.",
+      "arabic": "تَحْشِدُ الْحَرَكَاتُ الْمَدَنِيَّةُ مِئَاتِ آلَافِ الدَّاعِمِينَ عَلَى الشَّبَكَةِ لِلْمُطَالَبَةِ بِإِصْلَاحَاتٍ مُجْتَمَعِيَّةٍ مُلِحَّةٍ.",
+      "english": "Civic movements mobilize hundreds of thousands of supporters online to demand pressing societal reforms.",
+      "tokens": [
+        "Bürgerbewegungen",
+        "mobilisieren",
+        "hunderttausende",
+        "Unterstützer",
+        "im",
+        "Netz",
+        "um",
+        "drängende",
+        "gesellschaftliche",
+        "Reformen",
+        "einzufordern."
+      ],
+      "grammar_point": "Transitive verb 'mobilisieren' with numeral modifier and final infinitive clause with separable verb 'einzufordern'"
+    },
+    {
+      "id": "sent_305",
+      "category": "Cyber-Interaction & Sociology",
+      "german": "Unabhängige Kollektive dezentralisieren digitale Kommunikationsräume um sich von den Monopolen der Tech-Konzerne zu emanzipieren.",
+      "arabic": "تُفَكِّكُ الْمَجْمُوعَاتُ الْمُسْتَقِلَّةُ مَرْكَزِيَّةَ مِسَاحَاتِ التَّوَاصُلِ الرَّقْمِيِّ لِلتَّحَرُّرِ مِنِ احْتِكَارَاتِ عَمَالِقَةِ التِّكْنُولُوجْيَا.",
+      "english": "Independent collectives decentralize digital communication spaces to emancipate themselves from tech conglomerate monopolies.",
+      "tokens": [
+        "Unabhängige",
+        "Kollektive",
+        "dezentralisieren",
+        "digitale",
+        "Kommunikationsräume",
+        "um",
+        "sich",
+        "von",
+        "den",
+        "Monopolen",
+        "der",
+        "Tech-Konzerne",
+        "zu",
+        "emanzipieren."
+      ],
+      "grammar_point": "Transitive verb with accusative object and final reflexive infinitive construction 'um sich ... zu emanzipieren' in milestone 305"
     }
   ]
 }

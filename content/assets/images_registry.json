@@ -13901,5 +13901,165 @@
     "label_de": "die Mensch-Maschine-Koregulation",
     "label_ar": "التَّنْظِيمُ الْمُتَبَادَلُ بَيْنَ الإِنْسَانِ وَالآلَةِ (Cyborg Anthropology)",
     "label_en": "human-machine co-regulation / cyborg anthropology"
+  },
+  "svg_cint_interagieren": {
+    "file": "svg_cint_interagieren.svg",
+    "path": "content/assets/svg/svg_cint_interagieren.svg",
+    "category": "cyber_interaction_verbs_b2_c1",
+    "label_de": "interagieren",
+    "label_ar": "يَتَفَاعَلُ افْتِرَاضِيًّا مَعَ مُسْتَخْدِمِينَ أَوْ وَكَلَاءِ ذَكَاءٍ اصْطِنَاعِيٍّ",
+    "label_en": "to interact virtually"
+  },
+  "svg_cint_moderieren": {
+    "file": "svg_cint_moderieren.svg",
+    "path": "content/assets/svg/svg_cint_moderieren.svg",
+    "category": "cyber_interaction_verbs_b2_c1",
+    "label_de": "moderieren",
+    "label_ar": "يُشْرِفُ عَلَى النِّقَاشَاتِ وَيُدِيرُ مُحْتَوَى الْمُنْتَدَيَاتِ",
+    "label_en": "to moderate online platforms and forums"
+  },
+  "svg_cint_kuratieren": {
+    "file": "svg_cint_kuratieren.svg",
+    "path": "content/assets/svg/svg_cint_kuratieren.svg",
+    "category": "cyber_interaction_verbs_b2_c1",
+    "label_de": "kuratieren",
+    "label_ar": "يَنْتَقِي وَيُبَوِّبُ الْمُحْتَوَى الرَّقْمِيَّ بِوَعْيٍ نَقْدِيٍّ (Curation)",
+    "label_en": "to curate digital content and thematic feeds"
+  },
+  "svg_cint_manipulieren": {
+    "file": "svg_cint_manipulieren.svg",
+    "path": "content/assets/svg/svg_cint_manipulieren.svg",
+    "category": "cyber_interaction_verbs_b2_c1",
+    "label_de": "manipulieren",
+    "label_ar": "يُوَجِّهُ خَوَارِزْمِيًّا سُلُوكَ الْمُسْتَخْدِمِينَ وَخُلَاصَاتِ الأَخْبَارِ",
+    "label_en": "to manipulate algorithmically / to nudge user behavior"
+  },
+  "svg_cint_vernetzen": {
+    "file": "svg_cint_vernetzen.svg",
+    "path": "content/assets/svg/svg_cint_vernetzen.svg",
+    "category": "cyber_interaction_verbs_b2_c1",
+    "label_de": "vernetzen",
+    "label_ar": "يَتَشَابَكُ وَيُقِيمُ رَوَابِطَ عَبْرَ الشَّبَكَاتِ الِافْتِرَاضِيَّةِ",
+    "label_en": "to network / to interconnect digitally"
+  },
+  "svg_cint_streamen": {
+    "file": "svg_cint_streamen.svg",
+    "path": "content/assets/svg/svg_cint_streamen.svg",
+    "category": "cyber_interaction_verbs_b2_c1",
+    "label_de": "streamen",
+    "label_ar": "يَبُثُّ الْوَسَائِطَ الْمُتَعَدِّدَةَ حَيًّا عَبْرَ الإِنْتِرْنِت (Streaming)",
+    "label_en": "to livestream video or audio media"
+  },
+  "svg_cint_polarisieren": {
+    "file": "svg_cint_polarisieren.svg",
+    "path": "content/assets/svg/svg_cint_polarisieren.svg",
+    "category": "cyber_interaction_verbs_b2_c1",
+    "label_de": "polarisieren",
+    "label_ar": "يُثِيرُ الاسْتِقْطَابَ الْمُجْتَمَعِيَّ وَالانْقِسَامَ الْفِكْرِيَّ رَقْمِيًّا",
+    "label_en": "to polarize opinions across social platforms"
+  },
+  "svg_cint_zensieren": {
+    "file": "svg_cint_zensieren.svg",
+    "path": "content/assets/svg/svg_cint_zensieren.svg",
+    "category": "cyber_interaction_verbs_b2_c1",
+    "label_de": "zensieren",
+    "label_ar": "يَفْرِضُ الرَّقَابَةَ وَيَحْجِبُ الْمُحْتَوَى أَوِ الآرَاءَ",
+    "label_en": "to censor online expression or accounts"
+  },
+  "svg_cint_dezentralisieren": {
+    "file": "svg_cint_dezentralisieren.svg",
+    "path": "content/assets/svg/svg_cint_dezentralisieren.svg",
+    "category": "cyber_interaction_verbs_b2_c1",
+    "label_de": "dezentralisieren",
+    "label_ar": "يُفَكِّكُ مَرْكَزِيَّةَ الْمَنَصَّاتِ وَيُوَزِّعُ السُّلْطَةَ الشَّبَكِيَّةَ",
+    "label_en": "to decentralize social platforms and infrastructure"
+  },
+  "svg_cint_monetarisieren": {
+    "file": "svg_cint_monetarisieren.svg",
+    "path": "content/assets/svg/svg_cint_monetarisieren.svg",
+    "category": "cyber_interaction_verbs_b2_c1",
+    "label_de": "monetarisieren",
+    "label_ar": "يَسْتَثْمِرُ وَيُحَوِّلُ الانْتِبَاهَ وَحَرَكَةَ الْمُرُورِ إِلَى عَمَلِيَّاتٍ رِبْحِيَّةٍ",
+    "label_en": "to monetize audience engagement and attention"
+  },
+  "svg_cint_mobilisieren": {
+    "file": "svg_cint_mobilisieren.svg",
+    "path": "content/assets/svg/svg_cint_mobilisieren.svg",
+    "category": "cyber_interaction_verbs_b2_c1",
+    "label_de": "mobilisieren",
+    "label_ar": "يَحْشِدُ الْجَمَاهِيرَ رَقْمِيًّا لِقَضَايَا مَدَنِيَّةٍ أَوْ بِيئِيَّةٍ",
+    "label_en": "to mobilize citizens via digital campaigns"
+  },
+  "svg_cint_partizipieren": {
+    "file": "svg_cint_partizipieren.svg",
+    "path": "content/assets/svg/svg_cint_partizipieren.svg",
+    "category": "cyber_interaction_verbs_b2_c1",
+    "label_de": "partizipieren",
+    "label_ar": "يُشَارِكُ فِي الْحَيَاةِ الدِّيمُقْرَاطِيَّةِ وَالْمُجْتَمَعَاتِ الرَّقْمِيَّةِ",
+    "label_en": "to participate in online civic processes"
+  },
+  "svg_cint_filtern": {
+    "file": "svg_cint_filtern.svg",
+    "path": "content/assets/svg/svg_cint_filtern.svg",
+    "category": "cyber_interaction_verbs_b2_c1",
+    "label_de": "filtern",
+    "label_ar": "يُصَفِّي خَوَارِزْمِيًّا خُلَاصَاتِ الأَخْبَارِ لِعَزْلِ الْمُحْتَوَى غَيْرِ الْمَرْغُوبِ",
+    "label_en": "to filter algorithmically (feeds or spam)"
+  },
+  "svg_cint_amplifizieren": {
+    "file": "svg_cint_amplifizieren.svg",
+    "path": "content/assets/svg/svg_cint_amplifizieren.svg",
+    "category": "cyber_interaction_verbs_b2_c1",
+    "label_de": "amplifizieren",
+    "label_ar": "يُضَخِّمُ انْتِشَارَ السَّرْدِيَّاتِ وَالرَّسَائِلِ فَيْرُوسِيًّا (Amplification)",
+    "label_en": "to amplify messages virally"
+  },
+  "svg_cint_kanalisieren": {
+    "file": "svg_cint_kanalisieren.svg",
+    "path": "content/assets/svg/svg_cint_kanalisieren.svg",
+    "category": "cyber_interaction_verbs_b2_c1",
+    "label_de": "kanalisieren",
+    "label_ar": "يُوَجِّهُ تَدَفُّقَ الْمَشَاعِرِ أَوِ الْغَضَبِ الرَّقْمِيِّ فِي مَسَارٍ مَقْصُودٍ",
+    "label_en": "to channel collective digital sentiment"
+  },
+  "svg_cint_virtualisieren": {
+    "file": "svg_cint_virtualisieren.svg",
+    "path": "content/assets/svg/svg_cint_virtualisieren.svg",
+    "category": "cyber_interaction_verbs_b2_c1",
+    "label_de": "virtualisieren",
+    "label_ar": "يُحَوِّلُ الْفَعَالِيَّاتِ وَالْمُؤَسَّسَاتِ إِلَى نَمَاذِجَ افْتِرَاضِيَّةٍ",
+    "label_en": "to virtualize physical spaces and institutions"
+  },
+  "svg_cint_dekonstruieren": {
+    "file": "svg_cint_dekonstruieren.svg",
+    "path": "content/assets/svg/svg_cint_dekonstruieren.svg",
+    "category": "cyber_interaction_verbs_b2_c1",
+    "label_de": "dekonstruieren",
+    "label_ar": "يُفَكِّكُ نَقْدِيًّا السَّرْدِيَّاتِ الزَّائِفَةَ وَالدِّعَايَةَ الْمُضَلِّلَةَ",
+    "label_en": "to deconstruct disinformation narratives"
+  },
+  "svg_cint_animieren": {
+    "file": "svg_cint_animieren.svg",
+    "path": "content/assets/svg/svg_cint_animieren.svg",
+    "category": "cyber_interaction_verbs_b2_c1",
+    "label_de": "animieren",
+    "label_ar": "يُشَجِّعُ وَيُحَفِّزُ الْمُتَابِعِينَ عَلَى التَّفَاعُلِ وَالْمُشَارَكَةِ",
+    "label_en": "to animate / to prompt engagement and reactions"
+  },
+  "svg_cint_debattieren": {
+    "file": "svg_cint_debattieren.svg",
+    "path": "content/assets/svg/svg_cint_debattieren.svg",
+    "category": "cyber_interaction_verbs_b2_c1",
+    "label_de": "debattieren",
+    "label_ar": "يُنَاظِرُ وَيَتَحَاوَرُ حَوْلَ الْقَضَايَا الْعَامَّةِ فِي الْمُنْتَدَيَاتِ",
+    "label_en": "to debate civic issues in public online fora"
+  },
+  "svg_cint_emanzipieren": {
+    "file": "svg_cint_emanzipieren.svg",
+    "path": "content/assets/svg/svg_cint_emanzipieren.svg",
+    "category": "cyber_interaction_verbs_b2_c1",
+    "label_de": "emanzipieren",
+    "label_ar": "يَتَحَرَّرُ مِنْ هَيْمَنَةِ وَاحْتِكَارِ عَمَالِقَةِ التِّكْنُولُوجْيَا",
+    "label_en": "to emancipate oneself from big tech monopolies"
   }
 }

@@ -1,0 +1,370 @@
+{
+  "engine_id": "cyber_interaction_verbs_b2_c1",
+  "title_ar": "أفعال التفاعل السيبراني وعلم اجتماع الشبكات والتواصل الافتراضي",
+  "title_de": "Cyber-Interaktions-, Netzwerksoziologie- und Partizipationsverben (B2/C1)",
+  "title_en": "Cyber-Interaction, Network Sociology & Virtual Communication Verbs (B2/C1)",
+  "level": "B2/C1",
+  "count": 20,
+  "verbs": [
+    {
+      "id": "cint_01",
+      "infinitive": "interagieren",
+      "translation_ar": "يَتَفَاعَلُ افْتِرَاضِيًّا مَعَ مُسْتَخْدِمِينَ أَوْ وَكَلَاءِ ذَكَاءٍ اصْطِنَاعِيٍّ",
+      "translation_en": "to interact virtually",
+      "construction": "interagieren mit + Dat",
+      "present_third": "interagiert",
+      "preterite_third": "interagierte",
+      "perfect_third": "hat interagiert",
+      "svg_id": "svg_cint_interagieren",
+      "examples": [
+        {
+          "de": "Nutzer interagieren in immersiven Metaversen nahtlos mit autonomen KI-Agenten.",
+          "ar": "يتفاعل المستخدمون في العوالم الغامرة بسلاسة مع وكلاء الذكاء الاصطناعي المستقلين.",
+          "en": "Users interact seamlessly with autonomous AI agents in immersive metaverses."
+        }
+      ]
+    },
+    {
+      "id": "cint_02",
+      "infinitive": "moderieren",
+      "translation_ar": "يُشْرِفُ عَلَى النِّقَاشَاتِ وَيُدِيرُ مُحْتَوَى الْمُنْتَدَيَاتِ",
+      "translation_en": "to moderate online platforms and forums",
+      "construction": "transitiv (Online-Debatten moderieren)",
+      "present_third": "moderiert",
+      "preterite_third": "moderierte",
+      "perfect_third": "hat moderiert",
+      "svg_id": "svg_cint_moderieren",
+      "examples": [
+        {
+          "de": "Plattformbetreiber müssen toxische Kommentare moderieren, um den zivilen Diskurs zu wahren.",
+          "ar": "يجب على مشغلي المنصات الإشراف على التعليقات السامة للحفاظ على الخطاب المدني.",
+          "en": "Platform operators must moderate toxic comments to preserve civil discourse."
+        }
+      ]
+    },
+    {
+      "id": "cint_03",
+      "infinitive": "kuratieren",
+      "translation_ar": "يَنْتَقِي وَيُبَوِّبُ الْمُحْتَوَى الرَّقْمِيَّ بِوَعْيٍ نَقْدِيٍّ (Curation)",
+      "translation_en": "to curate digital content and thematic feeds",
+      "construction": "transitiv (digitale Wissensquellen kuratieren)",
+      "present_third": "kuratiert",
+      "preterite_third": "kuratierte",
+      "perfect_third": "hat kuratiert",
+      "svg_id": "svg_cint_kuratieren",
+      "examples": [
+        {
+          "de": "Experten kuratieren relevante wissenschaftliche Publikationen für themenspezifische Online-Newsletter.",
+          "ar": "ينتقي الخبراء المنشورات العلمية ذات الصلة للنشرات الإخبارية الرقمية المتخصصة.",
+          "en": "Experts curate relevant scientific publications for topic-specific online newsletters."
+        }
+      ]
+    },
+    {
+      "id": "cint_04",
+      "infinitive": "manipulieren",
+      "translation_ar": "يُوَجِّهُ خَوَارِزْمِيًّا سُلُوكَ الْمُسْتَخْدِمِينَ وَخُلَاصَاتِ الأَخْبَارِ",
+      "translation_en": "to manipulate algorithmically / to nudge user behavior",
+      "construction": "transitiv (den Newsfeed manipulieren)",
+      "present_third": "manipuliert",
+      "preterite_third": "manipulierte",
+      "perfect_third": "hat manipuliert",
+      "svg_id": "svg_cint_manipulieren",
+      "examples": [
+        {
+          "de": "Propagandakanäle manipulieren Informationsströme, um gezielte Verunsicherung zu stiften.",
+          "ar": "تتلاعب قنوات الدعاية بتدفقات المعلومات لإثارة ارتباك موجه ومقصود.",
+          "en": "Propaganda channels manipulate information flows to sow targeted confusion."
+        }
+      ]
+    },
+    {
+      "id": "cint_05",
+      "infinitive": "vernetzen",
+      "translation_ar": "يَتَشَابَكُ وَيُقِيمُ رَوَابِطَ عَبْرَ الشَّبَكَاتِ الِافْتِرَاضِيَّةِ",
+      "translation_en": "to network / to interconnect digitally",
+      "construction": "sich vernetzen mit + Dat",
+      "present_third": "vernetzt sich",
+      "preterite_third": "vernetzte sich",
+      "perfect_third": "hat sich vernetzt",
+      "svg_id": "svg_cint_vernetzen",
+      "examples": [
+        {
+          "de": "Wissenschaftler aus aller Welt vernetzen sich auf kollaborativen Plattformen zur Beschleunigung von Projekten.",
+          "ar": "يتشابك العلماء من جميع أنحاء العالم على منصات تعاونية لتسريع وتيرة المشاريع.",
+          "en": "Scientists from across the globe network on collaborative platforms to accelerate projects."
+        }
+      ]
+    },
+    {
+      "id": "cint_06",
+      "infinitive": "streamen",
+      "translation_ar": "يَبُثُّ الْوَسَائِطَ الْمُتَعَدِّدَةَ حَيًّا عَبْرَ الإِنْتِرْنِت (Streaming)",
+      "translation_en": "to livestream video or audio media",
+      "construction": "transitiv / intransitiv (Inhalte live streamen)",
+      "present_third": "streamt",
+      "preterite_third": "streamte",
+      "perfect_third": "hat gestreamt",
+      "svg_id": "svg_cint_streamen",
+      "examples": [
+        {
+          "de": "Journalisten streamten die historischen Friedensverhandlungen live an ein weltweites Millionenpublikum.",
+          "ar": "بث الصحفيون مفاوضات السلام التاريخية مباشرة إلى جمهور عالمي بالملايين.",
+          "en": "Journalists streamed the historic peace negotiations live to a global audience of millions."
+        }
+      ]
+    },
+    {
+      "id": "cint_07",
+      "infinitive": "polarisieren",
+      "translation_ar": "يُثِيرُ الاسْتِقْطَابَ الْمُجْتَمَعِيَّ وَالانْقِسَامَ الْفِكْرِيَّ رَقْمِيًّا",
+      "translation_en": "to polarize opinions across social platforms",
+      "construction": "transitiv / intransitiv",
+      "present_third": "polarisiert",
+      "preterite_third": "polarisierte",
+      "perfect_third": "hat polarisiert",
+      "svg_id": "svg_cint_polarisieren",
+      "examples": [
+        {
+          "de": "Reißerische Überschriften polarisieren die Leserschaft und vergiften das Diskussionsklima.",
+          "ar": "تستقطب العناوين المثيرة جمهور القراء وتسمم مناخ النقاش العام.",
+          "en": "Sensationalist headlines polarize the readership and poison the climate of discussion."
+        }
+      ]
+    },
+    {
+      "id": "cint_08",
+      "infinitive": "zensieren",
+      "translation_ar": "يَفْرِضُ الرَّقَابَةَ وَيَحْجِبُ الْمُحْتَوَى أَوِ الآرَاءَ",
+      "translation_en": "to censor online expression or accounts",
+      "construction": "transitiv (missliebige Stimmen zensieren)",
+      "present_third": "zensiert",
+      "preterite_third": "zensierte",
+      "perfect_third": "hat zensiert",
+      "svg_id": "svg_cint_zensieren",
+      "examples": [
+        {
+          "de": "Autoritäre Staaten zensieren das Internet durch staatliche Firewalls und DNS-Sperren.",
+          "ar": "تفرض الدول الاستبدادية الرقابة على الإنترنت عبر الجدران النارية الحكومية وحجب خوادم النطاقات.",
+          "en": "Authoritarian states censor the internet through government firewalls and DNS blocking."
+        }
+      ]
+    },
+    {
+      "id": "cint_09",
+      "infinitive": "dezentralisieren",
+      "translation_ar": "يُفَكِّكُ مَرْكَزِيَّةَ الْمَنَصَّاتِ وَيُوَزِّعُ السُّلْطَةَ الشَّبَكِيَّةَ",
+      "translation_en": "to decentralize social platforms and infrastructure",
+      "construction": "transitiv (Netzwerke dezentralisieren)",
+      "present_third": "dezentralisiert",
+      "preterite_third": "dezentralisierte",
+      "perfect_third": "hat dezentralisiert",
+      "svg_id": "svg_cint_dezentralisieren",
+      "examples": [
+        {
+          "de": "Protokolle des Fediverse dezentralisieren soziale Netzwerke zugunsten föderierter Serverstrukturen.",
+          "ar": "تفكك بروتوكولات الفيديفيرس مركزية الشبكات الاجتماعية لصالح بنى خوادم اتحادية.",
+          "en": "Fediverse protocols decentralize social networks in favor of federated server architectures."
+        }
+      ]
+    },
+    {
+      "id": "cint_10",
+      "infinitive": "monetarisieren",
+      "translation_ar": "يَسْتَثْمِرُ وَيُحَوِّلُ الانْتِبَاهَ وَحَرَكَةَ الْمُرُورِ إِلَى عَمَلِيَّاتٍ رِبْحِيَّةٍ",
+      "translation_en": "to monetize audience engagement and attention",
+      "construction": "transitiv (Reichweite monetarisieren)",
+      "present_third": "monetarisiert",
+      "preterite_third": "monetarisierte",
+      "perfect_third": "hat monetarisiert",
+      "svg_id": "svg_cint_monetarisieren",
+      "examples": [
+        {
+          "de": "Content-Creator monetarisieren ihre Reichweite über Abonnements, Sponsoring und Spenden.",
+          "ar": "يحول صانعو المحتوى وصولهم الجماهيري إلى أرباح مالية عبر الاشتراكات والرعاية والتبرعات.",
+          "en": "Content creators monetize their reach through subscriptions, sponsorships, and donations."
+        }
+      ]
+    },
+    {
+      "id": "cint_11",
+      "infinitive": "mobilisieren",
+      "translation_ar": "يَحْشِدُ الْجَمَاهِيرَ رَقْمِيًّا لِقَضَايَا مَدَنِيَّةٍ أَوْ بِيئِيَّةٍ",
+      "translation_en": "to mobilize citizens via digital campaigns",
+      "construction": "mobilisieren + Akk + für / gegen + Akk",
+      "present_third": "mobilisiert",
+      "preterite_third": "mobilisierte",
+      "perfect_third": "hat mobilisiert",
+      "svg_id": "svg_cint_mobilisieren",
+      "examples": [
+        {
+          "de": "Online-Kampagnen mobilisieren hunderttausende Bürger für ambitionierte Klimaschutzinitiativen.",
+          "ar": "تحشد الحملات الرقمية مئات آلاف المواطنين لدعم مبادرات حماية المناخ الطموحة.",
+          "en": "Online campaigns mobilize hundreds of thousands of citizens for ambitious climate protection initiatives."
+        }
+      ]
+    },
+    {
+      "id": "cint_12",
+      "infinitive": "partizipieren",
+      "translation_ar": "يُشَارِكُ فِي الْحَيَاةِ الدِّيمُقْرَاطِيَّةِ وَالْمُجْتَمَعَاتِ الرَّقْمِيَّةِ",
+      "translation_en": "to participate in online civic processes",
+      "construction": "partizipieren an + Dat",
+      "present_third": "partizipiert",
+      "preterite_third": "partizipierte",
+      "perfect_third": "hat partizipiert",
+      "svg_id": "svg_cint_partizipieren",
+      "examples": [
+        {
+          "de": "Digitale Plattformen ermöglichen es Bürgern, aktiv an kommunalen Gesetzgebungsprozessen zu partizipieren.",
+          "ar": "تمكن المنصات الرقمية المواطنين من المشاركة الفاعلة في عمليات التشريع البلدية.",
+          "en": "Digital platforms allow citizens to actively participate in municipal legislative processes."
+        }
+      ]
+    },
+    {
+      "id": "cint_13",
+      "infinitive": "filtern",
+      "translation_ar": "يُصَفِّي خَوَارِزْمِيًّا خُلَاصَاتِ الأَخْبَارِ لِعَزْلِ الْمُحْتَوَى غَيْرِ الْمَرْغُوبِ",
+      "translation_en": "to filter algorithmically (feeds or spam)",
+      "construction": "filtern + Akk + nach / aus + Dat",
+      "present_third": "filtert",
+      "preterite_third": "filterte",
+      "perfect_third": "hat gefiltert",
+      "svg_id": "svg_cint_filtern",
+      "examples": [
+        {
+          "de": "KI-Filter filtern schädliche Spam-Nachrichten und Phishing-Versuche vollautomatisch aus dem Posteingang.",
+          "ar": "تصفي مرشحات الذكاء الاصطناعي رسائل البريد العشوائي الضارة ومحاولات التصيد آلياً من صندوق الوارد.",
+          "en": "AI filters automatically filter out malicious spam messages and phishing attempts from the inbox."
+        }
+      ]
+    },
+    {
+      "id": "cint_14",
+      "infinitive": "amplifizieren",
+      "translation_ar": "يُضَخِّمُ انْتِشَارَ السَّرْدِيَّاتِ وَالرَّسَائِلِ فَيْرُوسِيًّا (Amplification)",
+      "translation_en": "to amplify messages virally",
+      "construction": "transitiv (Stimmen und Narrative amplifizieren)",
+      "present_third": "amplifiziert",
+      "preterite_third": "amplifizierte",
+      "perfect_third": "hat amplifiziert",
+      "svg_id": "svg_cint_amplifizieren",
+      "examples": [
+        {
+          "de": "Algorithmen sozialer Medien amplifizieren virale Hashtags binnen weniger Minuten weltweit.",
+          "ar": "تضخم خوارزميات وسائل التواصل الاجتماعي انتشار الوسوم الفيروسية في غضون دقائق معدودة عالمياً.",
+          "en": "Social media algorithms amplify viral hashtags across the globe within minutes."
+        }
+      ]
+    },
+    {
+      "id": "cint_15",
+      "infinitive": "kanalisieren",
+      "translation_ar": "يُوَجِّهُ تَدَفُّقَ الْمَشَاعِرِ أَوِ الْغَضَبِ الرَّقْمِيِّ فِي مَسَارٍ مَقْصُودٍ",
+      "translation_en": "to channel collective digital sentiment",
+      "construction": "kanalisieren + Akk + in + Akk",
+      "present_third": "kanalisiert",
+      "preterite_third": "kanalisierte",
+      "perfect_third": "hat kanalisiert",
+      "svg_id": "svg_cint_kanalisieren",
+      "examples": [
+        {
+          "de": "Kampagnenleiter kanalisierten den öffentlichen Protest in eine strukturierte parlamentarische Petition.",
+          "ar": "وجه قادة الحملة الاحتجاج الشعبي إلى عريضة برلمانية منظمة.",
+          "en": "Campaign managers channeled public protest into a structured parliamentary petition."
+        }
+      ]
+    },
+    {
+      "id": "cint_16",
+      "infinitive": "virtualisieren",
+      "translation_ar": "يُحَوِّلُ الْفَعَالِيَّاتِ وَالْمُؤَسَّسَاتِ إِلَى نَمَاذِجَ افْتِرَاضِيَّةٍ",
+      "translation_en": "to virtualize physical spaces and institutions",
+      "construction": "transitiv (Arbeitsplätze und Konferenzen virtualisieren)",
+      "present_third": "virtualisiert",
+      "preterite_third": "virtualisierte",
+      "perfect_third": "hat virtualisiert",
+      "svg_id": "svg_cint_virtualisieren",
+      "examples": [
+        {
+          "de": "Globale Konzerne virtualisierten internationale Tagungen zur drastischen Senkung von Flugreisen.",
+          "ar": "حولت الشركات العالمية المؤتمرات الدولية إلى فعاليات افتراضية لخفض رحلات الطيران بشكل كبير.",
+          "en": "Global corporations virtualized international conferences to drastically reduce business flights."
+        }
+      ]
+    },
+    {
+      "id": "cint_17",
+      "infinitive": "dekonstruieren",
+      "translation_ar": "يُفَكِّكُ نَقْدِيًّا السَّرْدِيَّاتِ الزَّائِفَةَ وَالدِّعَايَةَ الْمُضَلِّلَةَ",
+      "translation_en": "to deconstruct disinformation narratives",
+      "construction": "transitiv (Verschwörungsmythen dekonstruieren)",
+      "present_third": "dekonstruiert",
+      "preterite_third": "dekonstruierte",
+      "perfect_third": "hat dekonstruiert",
+      "svg_id": "svg_cint_dekonstruieren",
+      "examples": [
+        {
+          "de": "Faktenchecker dekonstruieren gezielte Propagandavideos durch forensische Bildanalysen.",
+          "ar": "يفكك مدققو الحقائق مقاطع الفيديو الدعائية الموجهة عبر التحليل الجنائي للصور.",
+          "en": "Fact-checkers deconstruct targeted propaganda videos through forensic image analysis."
+        }
+      ]
+    },
+    {
+      "id": "cint_18",
+      "infinitive": "animieren",
+      "translation_ar": "يُشَجِّعُ وَيُحَفِّزُ الْمُتَابِعِينَ عَلَى التَّفَاعُلِ وَالْمُشَارَكَةِ",
+      "translation_en": "to animate / to prompt engagement and reactions",
+      "construction": "animieren + Akk + zu + Dat",
+      "present_third": "animiert",
+      "preterite_third": "animierte",
+      "perfect_third": "hat animiert",
+      "svg_id": "svg_cint_animieren",
+      "examples": [
+        {
+          "de": "Interaktive Quizformate animieren Lernende zur kontinuierlichen Vertiefung des erlernten Wissens.",
+          "ar": "تحفز نماذج الاختبارات التفاعلية المتعلمين على التعميق المستمر للمعرفة المكتسبة.",
+          "en": "Interactive quiz formats animate learners to continuously deepen acquired knowledge."
+        }
+      ]
+    },
+    {
+      "id": "cint_19",
+      "infinitive": "debattieren",
+      "translation_ar": "يُنَاظِرُ وَيَتَحَاوَرُ حَوْلَ الْقَضَايَا الْعَامَّةِ فِي الْمُنْتَدَيَاتِ",
+      "translation_en": "to debate civic issues in public online fora",
+      "construction": "debattieren über + Akk",
+      "present_third": "debattiert",
+      "preterite_third": "debattierte",
+      "perfect_third": "hat debattiert",
+      "svg_id": "svg_cint_debattieren",
+      "examples": [
+        {
+          "de": "Bürgerforen debattieren leidenschaftlich über ethische Richtlinien für autonome Fahrsysteme.",
+          "ar": "تتناظر منتديات المواطنين بحماسة حول المبادئ التوجيهية الأخلاقية لأنظمة القيادة الذاتية.",
+          "en": "Citizen forums debate passionately over ethical guidelines for autonomous driving systems."
+        }
+      ]
+    },
+    {
+      "id": "cint_20",
+      "infinitive": "emanzipieren",
+      "translation_ar": "يَتَحَرَّرُ مِنْ هَيْمَنَةِ وَاحْتِكَارِ عَمَالِقَةِ التِّكْنُولُوجْيَا",
+      "translation_en": "to emancipate oneself from big tech monopolies",
+      "construction": "sich emanzipieren von + Dat",
+      "present_third": "emanzipiert sich",
+      "preterite_third": "emanzipierte sich",
+      "perfect_third": "hat sich emanzipiert",
+      "svg_id": "svg_cint_emanzipieren",
+      "examples": [
+        {
+          "de": "Immer mehr Institutionen emanzipieren sich durch quelloffene Software von proprietären Tech-Konzernen.",
+          "ar": "تتحرر مؤسسات متزايدة عبر البرمجيات مفتوحة المصدر من هيمنة شركات التكنولوجيا الاحتكارية.",
+          "en": "More and more institutions emancipate themselves from proprietary tech corporations through open-source software."
+        }
+      ]
+    }
+  ]
+}
