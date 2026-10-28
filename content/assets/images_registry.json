@@ -13701,5 +13701,205 @@
     "label_de": "regulieren",
     "label_ar": "يُضَبِّطُ وَيُحْكِمُ التَّعْبِيرَ الْجِينِيَّ وَمُسْتَوَيَاتِ الإِنْتَاجِ",
     "label_en": "to regulate metabolic fluxes and expression levels"
+  },
+  "svg_cyb_cyberanthropologie": {
+    "file": "svg_cyb_cyberanthropologie.svg",
+    "path": "content/assets/svg/svg_cyb_cyberanthropologie.svg",
+    "category": "cyberanthropology_c1",
+    "label_de": "die Cyberanthropologie",
+    "label_ar": "الأَنْثُرُوبُولُوجْيَا السَّيْبِرَانِيَّةُ (دِرَاسَةُ تَشَاكُلِ الإِنْسَانِ وَالتِّقْنِيَّةِ)",
+    "label_en": "cyberanthropology / digital anthropology"
+  },
+  "svg_cyb_digitale_soziologie": {
+    "file": "svg_cyb_digitale_soziologie.svg",
+    "path": "content/assets/svg/svg_cyb_digitale_soziologie.svg",
+    "category": "cyberanthropology_c1",
+    "label_de": "die digitale Soziologie",
+    "label_ar": "عِلْمُ الِاجْتِمَاعِ الرَّقْمِيِّ (سُوسْيُولُوجْيَا الْمُجْتَمَعِ الشَّبَكِيِّ)",
+    "label_en": "digital sociology"
+  },
+  "svg_cyb_avatar": {
+    "file": "svg_cyb_avatar.svg",
+    "path": "content/assets/svg/svg_cyb_avatar.svg",
+    "category": "cyberanthropology_c1",
+    "label_de": "der Avatar",
+    "label_ar": "الْأَفَاتَار / التَّجَسُّدُ الرَّقْمِيُّ لِلْهُوِيَّةِ فِي الْفَضَاءِ الِافْتِرَاضِيِّ",
+    "label_en": "avatar / virtual digital persona"
+  },
+  "svg_cyb_metaversum": {
+    "file": "svg_cyb_metaversum.svg",
+    "path": "content/assets/svg/svg_cyb_metaversum.svg",
+    "category": "cyberanthropology_c1",
+    "label_de": "das Metaversum",
+    "label_ar": "الْمِيتَافِيرْس (الْعَالَمُ الاِفْتِرَاضِيُّ التَّفَاعُلِيُّ الْغَامِرُ)",
+    "label_en": "metaverse / immersive virtual ecosystem"
+  },
+  "svg_cyb_netzkultur": {
+    "file": "svg_cyb_netzkultur.svg",
+    "path": "content/assets/svg/svg_cyb_netzkultur.svg",
+    "category": "cyberanthropology_c1",
+    "label_de": "die Netzkultur",
+    "label_ar": "ثَقَافَةُ الشَّبَكَةِ وَالأَعْرَافُ الرَّقْمِيَّةُ (Net Culture)",
+    "label_en": "net culture / cyberculture"
+  },
+  "svg_cyb_gouvernementalitaet": {
+    "file": "svg_cyb_gouvernementalitaet.svg",
+    "path": "content/assets/svg/svg_cyb_gouvernementalitaet.svg",
+    "category": "cyberanthropology_c1",
+    "label_de": "die algorithmische Gouvernementalität",
+    "label_ar": "الْحَوْكَمَةُ وَالْانْضِبَاطُ الْخَوَارِزْمِيُّ لِلسُّلُوكِ",
+    "label_en": "algorithmic governmentality"
+  },
+  "svg_cyb_echokammer": {
+    "file": "svg_cyb_echokammer.svg",
+    "path": "content/assets/svg/svg_cyb_echokammer.svg",
+    "category": "cyberanthropology_c1",
+    "label_de": "die Echokammer",
+    "label_ar": "غُرْفَةُ الصَّدَى الرَّقْمِيَّةُ (فَقَاعَةُ الرَّأْيِ)",
+    "label_en": "echo chamber / epistemic bubble"
+  },
+  "svg_cyb_desinformation": {
+    "file": "svg_cyb_desinformation.svg",
+    "path": "content/assets/svg/svg_cyb_desinformation.svg",
+    "category": "cyberanthropology_c1",
+    "label_de": "die Desinformation",
+    "label_ar": "التَّضْلِيلُ الإِعْلَامِيُّ الْمُمَنْهَجُ (Disinformation)",
+    "label_en": "disinformation / weaponized falsehoods"
+  },
+  "svg_cyb_aufmerksamkeitsökonomie": {
+    "file": "svg_cyb_aufmerksamkeitsökonomie.svg",
+    "path": "content/assets/svg/svg_cyb_aufmerksamkeitsökonomie.svg",
+    "category": "cyberanthropology_c1",
+    "label_de": "die Aufmerksamkeitsökonomie",
+    "label_ar": "اقْتِصَادُ الِانْتِبَاهِ (تَسْلِيعُ وَقْتِ وَمَشَاعِرِ الْمُسْتَخْدِمِ)",
+    "label_en": "attention economy"
+  },
+  "svg_cyb_digitale_spaltung": {
+    "file": "svg_cyb_digitale_spaltung.svg",
+    "path": "content/assets/svg/svg_cyb_digitale_spaltung.svg",
+    "category": "cyberanthropology_c1",
+    "label_de": "die digitale Spaltung",
+    "label_ar": "الْفَجْوَةُ الرَّقْمِيَّةُ وَالتَّفَاوُتُ فِي الْوُصُولِ لِلتِّقْنِيَّةِ",
+    "label_en": "digital divide"
+  },
+  "svg_cyb_vergemeinschaftung": {
+    "file": "svg_cyb_vergemeinschaftung.svg",
+    "path": "content/assets/svg/svg_cyb_vergemeinschaftung.svg",
+    "category": "cyberanthropology_c1",
+    "label_de": "die virtuelle Vergemeinschaftung",
+    "label_ar": "التَّشَاكُلُ وَالتَّضَامُنُ الْمُجْتَمَعِيُّ الاِفْتِرَاضِيُّ",
+    "label_en": "virtual community formation / online kinship"
+  },
+  "svg_cyb_plattformkapitalismus": {
+    "file": "svg_cyb_plattformkapitalismus.svg",
+    "path": "content/assets/svg/svg_cyb_plattformkapitalismus.svg",
+    "category": "cyberanthropology_c1",
+    "label_de": "der Plattformkapitalismus",
+    "label_ar": "رَأْسْمَالِيَّةُ الْمَنَصَّاتِ الرَّقْمِيَّةِ الِاحْتِكَارِيَّةِ",
+    "label_en": "platform capitalism"
+  },
+  "svg_cyb_nomadismus": {
+    "file": "svg_cyb_nomadismus.svg",
+    "path": "content/assets/svg/svg_cyb_nomadismus.svg",
+    "category": "cyberanthropology_c1",
+    "label_de": "der digitale Nomadismus",
+    "label_ar": "التَّرَحُّلُ الرَّقْمِيُّ (الْعَمَلُ عَنْ بُعْدٍ مَعَ التَّنَقُّلِ الدَّائِمِ)",
+    "label_en": "digital nomadism"
+  },
+  "svg_cyb_meme_kultur": {
+    "file": "svg_cyb_meme_kultur.svg",
+    "path": "content/assets/svg/svg_cyb_meme_kultur.svg",
+    "category": "cyberanthropology_c1",
+    "label_de": "die Meme-Kultur",
+    "label_ar": "ثَقَافَةُ الْمِيمَاتِ (الْفُولْكْلُورُ السَّاخِرُ عَلَى الشَّبَكَةِ)",
+    "label_en": "meme culture / internet folklore"
+  },
+  "svg_cyb_parasozial": {
+    "file": "svg_cyb_parasozial.svg",
+    "path": "content/assets/svg/svg_cyb_parasozial.svg",
+    "category": "cyberanthropology_c1",
+    "label_de": "die parasoziale Interaktion",
+    "label_ar": "التَّفَاعُلُ وَالِارْتِبَاطُ شِبْهُ الاجْتِمَاعِيِّ (أُحَادِيُّ الِاتِّجَاهِ)",
+    "label_en": "parasocial interaction / parasocial relationships"
+  },
+  "svg_cyb_ueberwachungskapitalismus": {
+    "file": "svg_cyb_ueberwachungskapitalismus.svg",
+    "path": "content/assets/svg/svg_cyb_ueberwachungskapitalismus.svg",
+    "category": "cyberanthropology_c1",
+    "label_de": "der Überwachungskapitalismus",
+    "label_ar": "رَأْسْمَالِيَّةُ الْمُرَاقَبَةِ (لِشُوشَانَا زُوبُوف)",
+    "label_en": "surveillance capitalism (Shoshana Zuboff)"
+  },
+  "svg_cyb_cancel_culture": {
+    "file": "svg_cyb_cancel_culture.svg",
+    "path": "content/assets/svg/svg_cyb_cancel_culture.svg",
+    "category": "cyberanthropology_c1",
+    "label_de": "die Cancel Culture",
+    "label_ar": "ثَقَافَةُ الإِلْغَاءِ وَالنَّبْذِ الرَّقْمِيِّ (Cancel Culture)",
+    "label_en": "cancel culture / digital public shaming"
+  },
+  "svg_cyb_buergerschaft": {
+    "file": "svg_cyb_buergerschaft.svg",
+    "path": "content/assets/svg/svg_cyb_buergerschaft.svg",
+    "category": "cyberanthropology_c1",
+    "label_de": "die digitale Bürgerschaft",
+    "label_ar": "الْمُوَاطَنَةُ الرَّقْمِيَّةُ وَالْمُشَارَكَةُ الْمَدَنِيَّةُ عَبْرَ الإِنْتِرْنِت",
+    "label_en": "digital citizenship / cyber-citizenship"
+  },
+  "svg_cyb_gamifizierung": {
+    "file": "svg_cyb_gamifizierung.svg",
+    "path": "content/assets/svg/svg_cyb_gamifizierung.svg",
+    "category": "cyberanthropology_c1",
+    "label_de": "die Gamifizierung",
+    "label_ar": "التَّلْعِيبُ (تَطْبِيقُ عَنَاصِرِ الأَلْعَابِ فِي مَجَالَاتِ الْحَيَاةِ)",
+    "label_en": "gamification / ludification"
+  },
+  "svg_cyb_gedaechtnis": {
+    "file": "svg_cyb_gedaechtnis.svg",
+    "path": "content/assets/svg/svg_cyb_gedaechtnis.svg",
+    "category": "cyberanthropology_c1",
+    "label_de": "das digitale Gedächtnis",
+    "label_ar": "الذَّاكِرَةُ الرَّقْمِيَّةُ الْجَمَاعِيَّةُ",
+    "label_en": "digital memory / collective cyber-archives"
+  },
+  "svg_cyb_cybermobbing": {
+    "file": "svg_cyb_cybermobbing.svg",
+    "path": "content/assets/svg/svg_cyb_cybermobbing.svg",
+    "category": "cyberanthropology_c1",
+    "label_de": "das Cybermobbing",
+    "label_ar": "التَّنَمُّرُ وَالتَّحَرُّشُ الإِلِكْتْرُونِيُّ (Cyberbullying)",
+    "label_en": "cyberbullying / online harassment"
+  },
+  "svg_cyb_telepraesenz": {
+    "file": "svg_cyb_telepraesenz.svg",
+    "path": "content/assets/svg/svg_cyb_telepraesenz.svg",
+    "category": "cyberanthropology_c1",
+    "label_de": "die Telepräsenz",
+    "label_ar": "الْحُضُورُ عَنْ بُعْدٍ / التَّوَاجُدُ الِافْتِرَاضِيُّ (Telepresence)",
+    "label_en": "telepresence / mediated co-presence"
+  },
+  "svg_cyb_entfremdung": {
+    "file": "svg_cyb_entfremdung.svg",
+    "path": "content/assets/svg/svg_cyb_entfremdung.svg",
+    "category": "cyberanthropology_c1",
+    "label_de": "die digitale Entfremdung",
+    "label_ar": "الِاغْتِرَابُ الرَّقْمِيُّ (الِانْفِصَالُ عَنِ الْوَاقِعِ الْمَلْمُوسِ)",
+    "label_en": "digital alienation / screen disconnection"
+  },
+  "svg_cyb_dark_pattern": {
+    "file": "svg_cyb_dark_pattern.svg",
+    "path": "content/assets/svg/svg_cyb_dark_pattern.svg",
+    "category": "cyberanthropology_c1",
+    "label_de": "das Dark Pattern",
+    "label_ar": "النَّمَطُ الْمُظْلِمُ (التَّصْمِيمُ الْمُخَادِعُ لِتَوْجِيهِ قَرَارَاتِ الْمُسْتَخْدِمِ)",
+    "label_en": "dark pattern / deceptive user interface"
+  },
+  "svg_cyb_koregulation": {
+    "file": "svg_cyb_koregulation.svg",
+    "path": "content/assets/svg/svg_cyb_koregulation.svg",
+    "category": "cyberanthropology_c1",
+    "label_de": "die Mensch-Maschine-Koregulation",
+    "label_ar": "التَّنْظِيمُ الْمُتَبَادَلُ بَيْنَ الإِنْسَانِ وَالآلَةِ (Cyborg Anthropology)",
+    "label_en": "human-machine co-regulation / cyborg anthropology"
   }
 }

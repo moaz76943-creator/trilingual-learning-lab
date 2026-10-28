@@ -1,5 +1,5 @@
 {
-  "count": 295,
+  "count": 300,
   "sentences": [
     {
       "id": "sent_001",
@@ -5485,6 +5485,124 @@
         "auszuschließen."
       ],
       "grammar_point": "Transitive verb 'regulieren' with masculine accusative direct object and final separable infinitive clause in milestone 295"
+    },
+    {
+      "id": "sent_296",
+      "category": "Cyberanthropology",
+      "german": "Die Cyberanthropologie erforscht wie digitale Plattformen und virtuelle Welten das menschliche Beziehungsverhalten transformieren.",
+      "arabic": "تَبْحَثُ الأَنْثُرُوبُولُوجْيَا السَّيْبِرَانِيَّةُ فِي كَيْفِيَّةِ تَحْوِيلِ الْمَنَصَّاتِ الرَّقْمِيَّةِ وَالْعَوَالِمِ الِافْتِرَاضِيَّةِ لِسُلُوكِ الْعَلَاقَاتِ الإِنْسَانِيَّةِ.",
+      "english": "Cyberanthropology explores how digital platforms and virtual worlds transform human relationship behaviors.",
+      "tokens": [
+        "Die",
+        "Cyberanthropologie",
+        "erforscht",
+        "wie",
+        "digitale",
+        "Plattformen",
+        "und",
+        "virtuelle",
+        "Welten",
+        "das",
+        "menschliche",
+        "Beziehungsverhalten",
+        "transformieren."
+      ],
+      "grammar_point": "Transitive verb 'erforschen' governing an indirect interrogative subclause with 'wie'"
+    },
+    {
+      "id": "sent_297",
+      "category": "Cyberanthropology",
+      "german": "In modernen Echokammern verstärken algorithmische Empfehlungssysteme bestehende Vorurteile und schwächen den demokratischen Diskurs.",
+      "arabic": "تُعَزِّزُ أَنْظِمَةُ التَّوْصِيَةِ الْخَوَارِزْمِيَّةُ فِي غُرَفِ الصَّدَى الْحَدِيثَةِ الأَحْكَامَ الْمُسْبَقَةَ وَتُضْعِفُ الْخِطَابَ الدِّيمُقْرَاطِيَّ.",
+      "english": "In modern echo chambers, algorithmic recommendation systems amplify existing prejudices and weaken democratic discourse.",
+      "tokens": [
+        "In",
+        "modernen",
+        "Echokammern",
+        "verstärken",
+        "algorithmische",
+        "Empfehlungssysteme",
+        "bestehende",
+        "Vorurteile",
+        "und",
+        "schwächen",
+        "den",
+        "demokratischen",
+        "Diskurs."
+      ],
+      "grammar_point": "Inverted sentence with prepositional phrase 'in + Dat' and coordinated compound verbs"
+    },
+    {
+      "id": "sent_298",
+      "category": "Cyberanthropology",
+      "german": "Die gnadenlose Logik der Aufmerksamkeitsökonomie monetarisiert menschliche Emotionen und provoziert ständige gesellschaftliche Empörung.",
+      "arabic": "تُحَوِّلُ اللَّبَاقَةُ الصَّارِمَةُ لِاقْتِصَادِ الِانْتِبَاهِ الْمَشَاعِرَ الإِنْسَانِيَّةَ إِلَى أَمْوَالٍ وَتَسْتَفِزُّ غَضَبًا مُجْتَمَعِيًّا دَائِمًا.",
+      "english": "The ruthless logic of the attention economy monetizes human emotions and provokes constant societal outrage.",
+      "tokens": [
+        "Die",
+        "gnadenlose",
+        "Logik",
+        "der",
+        "Aufmerksamkeitsökonomie",
+        "monetarisiert",
+        "menschliche",
+        "Emotionen",
+        "und",
+        "provoziert",
+        "ständige",
+        "gesellschaftliche",
+        "Empörung."
+      ],
+      "grammar_point": "Subject with genitive feminine attribute and coordinated transitive verbs with accusative objects"
+    },
+    {
+      "id": "sent_299",
+      "category": "Cyberanthropology",
+      "german": "Shoshana Zuboffs Analyse des Überwachungskapitalismus warnt vor der heimlichen Enteignung menschlicher Verhaltenserfahrungen.",
+      "arabic": "يُحَذِّرُ تَحْلِيلُ شُوشَانَا زُوبُوف لِرَأْسْمَالِيَّةِ الْمُرَاقَبَةِ مِنْ نَزْعِ مِلْكِيَّةِ التَّجَارِبِ السُّلُوكِيَّةِ الإِنْسَانِيَّةِ خُفْيَةً.",
+      "english": "Shoshana Zuboff's analysis of surveillance capitalism warns against the covert expropriation of human behavioral experience.",
+      "tokens": [
+        "Shoshana",
+        "Zuboffs",
+        "Analyse",
+        "des",
+        "Überwachungskapitalismus",
+        "warnt",
+        "vor",
+        "der",
+        "heimlichen",
+        "Enteignung",
+        "menschlicher",
+        "Verhaltenserfahrungen."
+      ],
+      "grammar_point": "Verb 'warnen vor + Dat' with genitive plural noun complement"
+    },
+    {
+      "id": "sent_300",
+      "category": "Cyberanthropology",
+      "german": "Mit dem Erreichen von dreihundert interaktiven Übungen meistert das Lernsystem die Synthese aus Grammatik Vokabular und Kognition.",
+      "arabic": "مَعَ الْوُصُولِ إِلَى ثَلَاثِمِائَةِ تَمْرِينٍ تَفَاعُلِيٍّ، يُتْقِنُ النِّظَامُ التَّعْلِيمِيُّ التَّأْلِيفَ بَيْنَ الْقَوَاعِدِ وَالْمُفْرَدَاتِ وَالإِدْرَاكِ.",
+      "english": "Upon reaching three hundred interactive exercises, the learning system masters the synthesis of grammar, vocabulary, and cognition.",
+      "tokens": [
+        "Mit",
+        "dem",
+        "Erreichen",
+        "von",
+        "dreihundert",
+        "interaktiven",
+        "Übungen",
+        "meistert",
+        "das",
+        "Lernsystem",
+        "die",
+        "Synthese",
+        "aus",
+        "Grammatik",
+        "Vokabular",
+        "und",
+        "Kognition."
+      ],
+      "grammar_point": "Prepositional nominalization phrase 'mit dem Erreichen' with transitive verb and compound prepositional attribute in historic milestone 300"
     }
   ]
 }
