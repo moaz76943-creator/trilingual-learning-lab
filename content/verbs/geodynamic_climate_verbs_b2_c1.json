@@ -1,0 +1,370 @@
+{
+  "engine_id": "geodynamic_climate_verbs_b2_c1",
+  "title_ar": "أفعال الجيولوجيا وعلم المناخ القديم والتحولات الجيوديناميكية الكبرى",
+  "title_de": "Geodynamische, paläoklimatische und lithosphärische Verben (B2/C1)",
+  "title_en": "Geodynamic, Paleoclimatic & Lithospheric Verbs (B2/C1)",
+  "level": "B2/C1",
+  "count": 20,
+  "verbs": [
+    {
+      "id": "geov_01",
+      "infinitive": "sedimentieren",
+      "translation_ar": "يَتَرَسَّبُ جُيُولُوجِيًّا فِي قِيعَانِ الْبِحَارِ أَوِ الْبُحَيْرَاتِ",
+      "translation_en": "to sediment / to settle into geological strata",
+      "construction": "intransitiv (in Gewässern sedimentieren)",
+      "present_third": "sedimentiert",
+      "preterite_third": "sedimentierte",
+      "perfect_third": "ist sedimentiert",
+      "svg_id": "svg_geov_sedimentieren",
+      "examples": [
+        {
+          "de": "Feine Kalkpartikel und Tonmineralien sedimentierten über Jahrmillionen zu mächtigen Schichten.",
+          "ar": "تَرَسَّبَتْ جُزَيْئَاتُ الْكِلْسِ الدَّقِيقَةِ وَمَعَادِنُ الطِّينِ عَبْرَ مَلَايِينِ السِّنِينَ مُشَكِّلَةً طَبَقَاتٍ كَثِيفَةً.",
+          "en": "Fine lime particles and clay minerals sedimented over millions of years into thick strata."
+        }
+      ]
+    },
+    {
+      "id": "geov_02",
+      "infinitive": "subduzieren",
+      "translation_ar": "يَنْدَسُّ تَكْتُونِيًّا تَحْتَ صَفِيحَةٍ أُخْرَى (Subduction)",
+      "translation_en": "to subduct (oceanic plate beneath continental plate)",
+      "construction": "transitiv / passivisch (subduziert werden unter + Akk)",
+      "present_third": "subduziert",
+      "preterite_third": "subduzierte",
+      "perfect_third": "hat subduziert / ist subduziert worden",
+      "svg_id": "svg_geov_subduzieren",
+      "examples": [
+        {
+          "de": "Die schwere ozeanische Kruste subduziert entlang des pazifischen Feuerrings unter den Kontinentalblock.",
+          "ar": "تَنْدَسُّ الْقِشْرَةُ الْمُحِيطِيَّةُ الثَّقِيلَةُ عَلَى امْتِدَادِ حِزَامِ النَّارِ فِي الْمُحِيطِ الْهَادِئِ تَحْتَ الْكُتْلَةِ الْقَارِّيَّةِ.",
+          "en": "The dense oceanic crust subducts along the Pacific Ring of Fire beneath the continental block."
+        }
+      ]
+    },
+    {
+      "id": "geov_03",
+      "infinitive": "kollidieren",
+      "translation_ar": "تَتَصَادَمُ الصَّفَائِحُ التَّكْتُونِيَّةُ لِتَشْكِيلِ الْجِبَالِ",
+      "translation_en": "to collide (tectonic plates forming orogenies)",
+      "construction": "kollidieren mit + Dat",
+      "present_third": "kollidiert",
+      "preterite_third": "kollidierte",
+      "perfect_third": "ist kollidiert",
+      "svg_id": "svg_geov_kollidieren",
+      "examples": [
+        {
+          "de": "Als die indische mit der eurasischen Platte kollidierte, faltete sich das Himalaja-Gebirge auf.",
+          "ar": "عِنْدَمَا تَصَادَمَتِ الصَّفِيحَةُ الْهِنْدِيَّةُ مَعَ الأُورَاسِيَّةِ، انْثَنَتْ سَلَاسِلُ جِبَالِ الْهِمَالَايَا صَاعِدَةً.",
+          "en": "When the Indian plate collided with the Eurasian plate, the Himalayas folded upward."
+        }
+      ]
+    },
+    {
+      "id": "geov_04",
+      "infinitive": "eruptieren",
+      "translation_ar": "يَثُورُ بُرْكَانِيًّا وَيَقْذِفُ الْحُمَمَ وَالرَّمَادَ",
+      "translation_en": "to erupt (volcanoes releasing magma and ash)",
+      "construction": "intransitiv",
+      "present_third": "eruptiert",
+      "preterite_third": "eruptierte",
+      "perfect_third": "hat eruptiert",
+      "svg_id": "svg_geov_eruptieren",
+      "examples": [
+        {
+          "de": "Der Supervulkan eruptierte gigantische Aschewolken, die die Erdatmosphäre jahrelang verdunkelten.",
+          "ar": "ثَارَ الْبُرْكَانُ الْعِمْلَاقُ قَاذِفًا سُحُبَ رَمَادٍ هَائِلَةً أَعْتَمَتِ الْغِلَافَ الْجَوِّيَّ لِلأَرْضِ لِسَنَوَاتٍ.",
+          "en": "The supervolcano erupted gigantic ash plumes that darkened Earth's atmosphere for years."
+        }
+      ]
+    },
+    {
+      "id": "geov_05",
+      "infinitive": "erodieren",
+      "translation_ar": "يَتَآكَلُ بِفِعْلِ الْمِيَاهِ وَالرِّيَاحِ وَالْجَلِيدِ",
+      "translation_en": "to erode (rock, valleys or landscapes)",
+      "construction": "transitiv / intransitiv",
+      "present_third": "erodiert",
+      "preterite_third": "erodierte",
+      "perfect_third": "hat erodiert / ist erodiert",
+      "svg_id": "svg_geov_erodieren",
+      "examples": [
+        {
+          "de": "Fließende Gletscher erodierten tiefe U-förmige Täler in das alpine Felsmassiv.",
+          "ar": "نَحَتَتِ الأَنْهَارُ الْجَلِيدِيَّةُ الْمُتَدَفِّقَةُ أَوْدِيَةً عَمِيقَةً عَلَى شَكْلِ حَرْفِ U فِي كُتْلَةِ الصُّخُورِ الأَلْبِيَّةِ.",
+          "en": "Flowing glaciers eroded deep U-shaped valleys into the Alpine rock massif."
+        }
+      ]
+    },
+    {
+      "id": "geov_06",
+      "infinitive": "datieren",
+      "translation_ar": "يُؤَرِّخُ طَبَقَاتِ الصُّخُورِ أَوْ عَيِّنَاتِ الْجَلِيدِ إِشْعَاعِيًّا",
+      "translation_en": "to date radiometrically or stratigraphically",
+      "construction": "datieren + Akk + auf + Akk",
+      "present_third": "datiert",
+      "preterite_third": "datierte",
+      "perfect_third": "hat datiert",
+      "svg_id": "svg_geov_datieren",
+      "examples": [
+        {
+          "de": "Geophysiker datierten das magmatische Gestein mithilfe der Uran-Blei-Methode auf vier Milliarden Jahre.",
+          "ar": "أَرَّخَ عُلَمَاءُ الْجُيُوفِيزْيَاءِ الصُّخُورَ النَّارِيَّةَ بِمُسَاعَدَةِ طَرِيقَةِ الْيُورَانْيُوم-رَصَاص إِلَى أَرْبَعَةِ مِلْيَارَاتِ سَنَةٍ.",
+          "en": "Geophysicists dated the igneous rock to four billion years using the uranium-lead method."
+        }
+      ]
+    },
+    {
+      "id": "geov_07",
+      "infinitive": "fossilieren",
+      "translation_ar": "يَتَحَفَّرُ / يَتَحَوَّلُ إِلَى مُسْتَحَاثَةٍ أَوْ أُحْفُورَةٍ",
+      "translation_en": "to fossilize (organic remains)",
+      "construction": "intransitiv / petrifizieren",
+      "present_third": "fossiliert",
+      "preterite_third": "fossilierte",
+      "perfect_third": "ist fossiliert",
+      "svg_id": "svg_geov_fossilieren",
+      "examples": [
+        {
+          "de": "Unter Luftabschluss im feuchten Schlamm fossilierten urzeitliche Fische vollständig.",
+          "ar": "تَحَفَّرَتْ أَسْمَاكُ عُصُورِ مَا قَبْلَ التَّارِيخِ بِالْكَامِلِ بِمَعْزِلٍ عَنِ الْهَوَاءِ فِي الْوَحَلِ الرَّطْبِ.",
+          "en": "Deprived of oxygen in wet mud, prehistoric fish completely fossilized."
+        }
+      ]
+    },
+    {
+      "id": "geov_08",
+      "infinitive": "rekonstruieren",
+      "translation_ar": "يُعِيدُ بِنَاءَ الْمَنَاخِ أَوْ تَضَارِيسِ الْقَارَّاتِ الْقَدِيمَةِ",
+      "translation_en": "to reconstruct (paleoenvironments or ancient geography)",
+      "construction": "transitiv (Paläoklimate rekonstruieren)",
+      "present_third": "rekonstruiert",
+      "preterite_third": "rekonstruierte",
+      "perfect_third": "hat rekonstruiert",
+      "svg_id": "svg_geov_rekonstruieren",
+      "examples": [
+        {
+          "de": "Anhand von Pollenanalysen rekonstruieren Forscher die Vegetationszonen der letzten Warmzeit.",
+          "ar": "يُعِيدُ الْبَاحِثُونَ تَرْكِيبَ نِطَاقَاتِ الْغِطَاءِ النَّبَاتِيِّ لِلْعَصْرِ الدَّافِئِ الأَخِيرِ اسْتِنَادًا إِلَى تَحْلِيلِ حُبُوبِ اللِّقَاحِ.",
+          "en": "Using pollen analysis, researchers reconstruct the vegetation zones of the last interglacial."
+        }
+      ]
+    },
+    {
+      "id": "geov_09",
+      "infinitive": "zirkulieren",
+      "translation_ar": "يَدُورُ فِي تَيَّارَاتٍ مَحِيطِيَّةٍ أَوْ غِلَافِيَّةٍ عَمِيقَةٍ",
+      "translation_en": "to circulate (thermohaline or atmospheric streams)",
+      "construction": "intransitiv (in den Tiefseebecken zirkulieren)",
+      "present_third": "zirkuliert",
+      "preterite_third": "zirkulierte",
+      "perfect_third": "hat zirkuliert / ist zirkuliert",
+      "svg_id": "svg_geov_zirkulieren",
+      "examples": [
+        {
+          "de": "Dichte kalte Wassermassen zirkulieren im globalen Förderband vom Nordatlantik bis in den Pazifik.",
+          "ar": "تَدُورُ كُتَلُ الْمِيَاهِ الْبَارِدَةِ الْكَثِيفَةِ فِي الْحِزَامِ النَّاقِلِ الْعَالَمِيِّ مِنَ الْمُحِيطِ الأَطْلَسِيِّ الشَّمَالِيِّ حَتَّى الْهَادِئِ.",
+          "en": "Dense cold water masses circulate in the global conveyor belt from the North Atlantic to the Pacific."
+        }
+      ]
+    },
+    {
+      "id": "geov_10",
+      "infinitive": "komprimieren",
+      "translation_ar": "يَنْضَغِطُ تَحْتَ ثِقَلِ الطَّبَقَاتِ الرُّسُوبِيَّةِ (Lithifizierung)",
+      "translation_en": "to compact / to compress sediments under lithostatic pressure",
+      "construction": "transitiv / sich komprimieren zu + Dat",
+      "present_third": "komprimiert",
+      "preterite_third": "komprimierte",
+      "perfect_third": "hat komprimiert",
+      "svg_id": "svg_geov_komprimieren",
+      "examples": [
+        {
+          "de": "Überlagernder Sedimentdruck komprimierte den lockeren Sandstein zu festem Quarzit.",
+          "ar": "ضَغَطَ ثِقَلُ الرَّوَاسِبِ الْمُتَرَاكِمَةِ الْحَجَرَ الرَّمْلِيَّ الْهَشَّ مُحَوِّلاً إِيَّاهُ إِلَى كُوَارْتْزِيت صَلْبٍ.",
+          "en": "Overburden sediment pressure compacted the loose sandstone into solid quartzite."
+        }
+      ]
+    },
+    {
+      "id": "geov_11",
+      "infinitive": "schmelzen",
+      "translation_ar": "يَذُوبُ الْغِطَاءُ الْجَلِيدِيُّ أَوْ يَنْصَهِرُ الصَّخْرُ",
+      "translation_en": "to melt / to thaw (ice sheets or rock into magma)",
+      "construction": "intransitiv (das Eis schmilzt, schmolz, ist geschmolzen)",
+      "present_third": "schmilzt",
+      "preterite_third": "schmolz",
+      "perfect_third": "ist geschmolzen",
+      "svg_id": "svg_geov_schmelzen",
+      "examples": [
+        {
+          "de": "Am Ende des Glazials schmolzen die kontinentalen Eisschilde und ließen den Meeresspiegel um hundert Meter steigen.",
+          "ar": "فِي نِهَايَةِ الْعَصْرِ الْجَلِيدِيِّ، ذَابَتِ الصَّفَائِحُ الْجَلِيدِيَّةُ الْقَارِّيَّةُ رَافِعَةً مَنْسُوبَ الْبَحْرِ بِمِائَةِ مِتْرٍ.",
+          "en": "At the end of the glacial, continental ice sheets melted and raised sea levels by one hundred meters."
+        }
+      ]
+    },
+    {
+      "id": "geov_12",
+      "infinitive": "kristallisieren",
+      "translation_ar": "يَتَبَلْوَرُ مِنْ صُهَارَةِ اللَّافَا أَوْ مَحَالِيلِ الْمَعَادِنِ",
+      "translation_en": "to crystallize (magma cooling into plutonic minerals)",
+      "construction": "intransitiv (aus Magma kristallisieren)",
+      "present_third": "kristallisiert",
+      "preterite_third": "kristallisierte",
+      "perfect_third": "ist kristallisiert",
+      "svg_id": "svg_geov_kristallisieren",
+      "examples": [
+        {
+          "de": "Bei langsamer Abkühlung der Tiefenschmelze kristallisieren großkörnige Feldspat- und Quarzkristalle aus.",
+          "ar": "عِنْدَ التَّبْرِيدِ الْبَطِيءِ لِلصُّهَارَةِ فِي الأَعْمَاقِ، تَتَبَلْوَرُ بَلُّورَاتُ الْفِلْدِسْبَارِ وَالْكُوَارْتْزِ كَبِيرَةُ الْحَبَّاتِ.",
+          "en": "Upon slow cooling of deep magma melt, coarse-grained feldspar and quartz crystals crystallize."
+        }
+      ]
+    },
+    {
+      "id": "geov_13",
+      "infinitive": "deformieren",
+      "translation_ar": "يَتَشَوَّهُ تَكْتُونِيًّا بِفِعْلِ الضَّغْطِ وَالْحَرَارَةِ",
+      "translation_en": "to deform tectonically (plastic or brittle deformation)",
+      "construction": "transitiv (Gesteinsschichten plastisch deformieren)",
+      "present_third": "deformiert",
+      "preterite_third": "deformierte",
+      "perfect_third": "hat deformiert",
+      "svg_id": "svg_geov_deformieren",
+      "examples": [
+        {
+          "de": "Tief liegende Sedimentpakete wurden unter hohem Druck plastisch deformiert und gefaltet.",
+          "ar": "تَشَوَّهَتِ الْحُزَمُ الرُّسُوبِيَّةُ الْعَمِيقَةُ لَدَائِنِيًّا وَانْثَنَتْ تَحْتَ وَطْأَةِ الضَّغْطِ الْعَالِي.",
+          "en": "Deeply buried sediment packages were plastically deformed and folded under immense pressure."
+        }
+      ]
+    },
+    {
+      "id": "geov_14",
+      "infinitive": "verwerfen",
+      "translation_ar": "يَنْفَلِقُ وَيَتَصَدَّعُ طَبَقِيًّا مُحْدِثًا فَالِقًا زِلْزَالِيًّا",
+      "translation_en": "to fault / to displace along a fault line",
+      "construction": "sich verwerfen (Gesteinsschichten verwerfen sich)",
+      "present_third": "verwirft sich",
+      "preterite_third": "verwarf sich",
+      "perfect_third": "hat sich verworfen",
+      "svg_id": "svg_geov_verwerfen",
+      "examples": [
+        {
+          "de": "Bei starken tektonischen Beben verwerfen sich benachbarte Gesteinsschollen um mehrere Meter.",
+          "ar": "فِي الزَّلَازِلِ التَّكْتُونِيَّةِ الْقَوِيَّةِ تَنْفَلِقُ الْكُتَلُ الصَّخْرِيَّةُ الْمُتَجَاوِرَةُ مُتَزَحْزِحَةً عِدَّةَ أَمْتَارٍ.",
+          "en": "During strong tectonic earthquakes, adjacent rock blocks fault and displace by several meters."
+        }
+      ]
+    },
+    {
+      "id": "geov_15",
+      "infinitive": "translozieren",
+      "translation_ar": "يَنْقُلُ الرَّوَاسِبَ أَوْ جُسَيْمَاتِ التُّرْبَةِ لِمَسَافَاتٍ بَعِيدَةٍ",
+      "translation_en": "to translocate (sedimentary matter or minerals)",
+      "construction": "transitiv (Sedimente über Kontinente translozieren)",
+      "present_third": "transloziert",
+      "preterite_third": "translozierte",
+      "perfect_third": "hat transloziert",
+      "svg_id": "svg_geov_translozieren",
+      "examples": [
+        {
+          "de": "Mächtige Flussdeltas translozieren alljährlich Millionen Tonnen fruchtbaren Schlicks in Meeresbecken.",
+          "ar": "تَنْقُلُ دِلْتَاوَاتُ الأَنْهَارِ الْعِمْلَاقَةُ سَنَوِيًّا مَلَايِينَ الأَطْنَارِ مِنَ الْغِرْيَنِ الْخِصْبِ إِلَى أَحْوَاضِ الْبِحَارِ.",
+          "en": "Vast river deltas annually translocate millions of tons of fertile silt into ocean basins."
+        }
+      ]
+    },
+    {
+      "id": "geov_16",
+      "infinitive": "extrapolieren",
+      "translation_ar": "يَسْتَقْرِئُ النَّمَاذِجَ الْمُنَاخِيَّةَ عَبْرَ الْحِقَبِ",
+      "translation_en": "to extrapolate (climatic cycles and warming trends)",
+      "construction": "extrapolieren + Akk + in + Akk",
+      "present_third": "extrapoliert",
+      "preterite_third": "extrapolierte",
+      "perfect_third": "hat extrapoliert",
+      "svg_id": "svg_geov_extrapolieren",
+      "examples": [
+        {
+          "de": "Klimamodelle extrapolieren paläoklimatische CO2-Reaktionen in die Zukunft des einundzwanzigsten Jahrhunderts.",
+          "ar": "تَسْتَقْرِئُ النَّمَاذِجُ الْمُنَاخِيَّةُ تَأْثِيرَاتِ ثَانِي أُكْسِيدِ الْكَرْبُونِ الْقَدِيمَةِ لِلتَّنَبُّؤِ بِمُسْتَقْبَلِ الْقَرْنِ الْحَادِي وَالْعِشْرِينَ.",
+          "en": "Climate models extrapolate paleoclimatic CO2 responses into the future of the twenty-first century."
+        }
+      ]
+    },
+    {
+      "id": "geov_17",
+      "infinitive": "ausgasen",
+      "translation_ar": "تَنْطَلِقُ الْغَازَاتُ مِنْ بَاطِنِ الأَرْضِ أَوِ التُّرْبَةِ الصَّقِيعِيَّةِ",
+      "translation_en": "to outgas (planetary mantle or thawing permafrost)",
+      "construction": "intransitiv (Gase gasen aus der Lithosphäre aus)",
+      "present_third": "gast aus",
+      "preterite_third": "gaste aus",
+      "perfect_third": "hat ausgegast",
+      "svg_id": "svg_geov_ausgasen",
+      "examples": [
+        {
+          "de": "Vulkanische Risse gasen kontinuierlich Wasserdampf, Schwefeldioxid und Kohlendioxid aus.",
+          "ar": "تُطْلِقُ الشُّقُوقُ الْبُرْكَانِيَّةُ بِاسْتِمْرَارٍ بُخَارَ الْمَاءِ وَثَانِي أُكْسِيدِ الْكِبْرِيتِ وَثَانِي أُكْسِيدِ الْكَرْبُونِ.",
+          "en": "Volcanic fissures continuously outgas water vapor, sulfur dioxide, and carbon dioxide."
+        }
+      ]
+    },
+    {
+      "id": "geov_18",
+      "infinitive": "akkumulieren",
+      "translation_ar": "يَتَرَاكَمُ فِي طَبَقَاتِ الْجَلِيدِ أَوِ التُّرْبَةِ",
+      "translation_en": "to accumulate (ice layers, strata or isotopes)",
+      "construction": "transitiv / intransitiv",
+      "present_third": "akkumuliert",
+      "preterite_third": "akkumulierte",
+      "perfect_third": "hat akkumuliert",
+      "svg_id": "svg_geov_akkumulieren",
+      "examples": [
+        {
+          "de": "Jahrtausende alte Schneeschichten akkumulierten auf Grönland zu einem kilometerdicken Eispanzer.",
+          "ar": "تَرَاكَمَتْ طَبَقَاتُ الثَّلْجِ الْقَدِيمَةُ فِي جْرِينْلَانْد لِتُشَكِّلَ غِطَاءً جَلِيدِيًّا بِسُمْكِ عِدَّةِ كِيلُومِتْرَاتٍ.",
+          "en": "Millennia-old snow layers accumulated on Greenland into a kilometer-thick ice sheet."
+        }
+      ]
+    },
+    {
+      "id": "geov_19",
+      "infinitive": "versickern",
+      "translation_ar": "يَتَسَرَّبُ وَيَتَرَشَّحُ فِي الطَّبَقَاتِ الصَّخْرِيَّةِ لِلْمِيَاهِ الْجَوْفِيَّةِ",
+      "translation_en": "to infiltrate / to percolate through geological strata",
+      "construction": "intransitiv (in Gesteinsschichten versickern)",
+      "present_third": "versickert",
+      "preterite_third": "versickerte",
+      "perfect_third": "ist versickert",
+      "svg_id": "svg_geov_versickern",
+      "examples": [
+        {
+          "de": "Niederschläge versickern durch poröse Karstschichten und speisen tiefe Grundwasserleiter.",
+          "ar": "تَتَرَشَّحُ الأَمْطَارُ عَبْرَ الطَّبَقَاتِ الْكَرْسْتِيَّةِ الْمُسَامِيَّةِ لِتُغَذِّيَ خَزَّانَاتِ الْمِيَاهِ الْجَوْفِيَّةِ الْعَمِيقَةِ.",
+          "en": "Precipitation percolates through porous karst layers and recharges deep aquifers."
+        }
+      ]
+    },
+    {
+      "id": "geov_20",
+      "infinitive": "petrifizieren",
+      "translation_ar": "يَسْتَحْجِرُ تَمَامًا (يَتَحَوَّلُ النَّسِيجُ الْعُضْوِيُّ إِلَى صَخْرٍ)",
+      "translation_en": "to petrify (wood or tissue into siliceous stone)",
+      "construction": "transitiv / intransitiv",
+      "present_third": "petrifiziert",
+      "preterite_third": "petrifizierte",
+      "perfect_third": "hat petrifiziert / ist petrifiziert",
+      "svg_id": "svg_geov_petrifizieren",
+      "examples": [
+        {
+          "de": "Kieselsäurereiche Quellen petrifizierten umgestürzte Baumstämme zu versteinerten Wäldern.",
+          "ar": "اسْتَحْجَرَتِ الْيَنَابِيعُ الْغَنِيَّةُ بِحِمْضِ السِّلِيكِيكِ جُذُوعَ الأَشْجَارِ الْمُتَسَاقِطَةَ مُحَوِّلَةً إِيَّاهَا لِغَابَاتٍ مُتَحَجِّرَةٍ.",
+          "en": "Silica-rich springs petrified fallen tree trunks into petrified forests."
+        }
+      ]
+    }
+  ]
+}
