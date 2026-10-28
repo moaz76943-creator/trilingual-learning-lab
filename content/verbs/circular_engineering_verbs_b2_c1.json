@@ -1,0 +1,370 @@
+{
+  "engine_id": "circular_engineering_verbs_b2_c1",
+  "title_ar": "أفعال الاقتصاد الدائري والهندسة العكسية وتدوير المواد المغلقة",
+  "title_de": "Zirkuläre Ingenieur-, Remanufacturing- und Recycling-Verben (B2/C1)",
+  "title_en": "Circular Engineering, Remanufacturing & Material Cycling Verbs (B2/C1)",
+  "level": "B2/C1",
+  "count": 20,
+  "verbs": [
+    {
+      "id": "ceng_01",
+      "infinitive": "demontieren",
+      "translation_ar": "يُفَكِّكُ أَلْيَةً أَوْ جِهَازًا نَمَطِيًّا بِعِنَايَةٍ",
+      "translation_en": "to dismantle / to disassemble systematically",
+      "construction": "transitiv (Module zerstörungsfrei demontieren)",
+      "present_third": "demontiert",
+      "preterite_third": "demontierte",
+      "perfect_third": "hat demontiert",
+      "svg_id": "svg_ceng_demontieren",
+      "examples": [
+        {
+          "de": "Techniker demontieren ausgediente Elektrogeräte, um wertvolle Edelmetalle zerstörungsfrei zu gewinnen.",
+          "ar": "يُفَكِّكُ التِّقْنِيُّونَ الأَجْهِزَةَ الإِلِكْتْرُونِيَّةَ الْمُسْتَهْلَكَةَ لِاسْتِخْلَاصِ الْمَعَادِنِ الثَّمِينَةِ دُونَ إِتْلَافِهَا.",
+          "en": "Technicians dismantle obsolete electrical appliances to recover valuable precious metals non-destructively."
+        }
+      ]
+    },
+    {
+      "id": "ceng_02",
+      "infinitive": "aufbereiten",
+      "translation_ar": "يُعَالِجُ الْمَوَادَّ أَوْ يُعِيدُ تَأْهِيلَهَا صِنَاعِيًّا",
+      "translation_en": "to recondition / to reprocess materials",
+      "construction": "aufbereiten + Akk + zu + Dat",
+      "present_third": "bereitet auf",
+      "preterite_third": "bereitete auf",
+      "perfect_third": "hat aufbereitet",
+      "svg_id": "svg_ceng_aufbereiten",
+      "examples": [
+        {
+          "de": "Moderne Kläranlagen bereiten industrielles Abwasser zu hochreinem Prozesswasser auf.",
+          "ar": "تُعَالِجُ مَحَطَّاتُ التَّنْقِيَةِ الْحَدِيثَةُ مِيَاهَ الصَّرْفِ الصِّنَاعِيِّ لِتُحَوِّلَهَا إِلَى مِيَاهِ تَشْغِيلٍ فَائِقَةِ النَّقَاءِ.",
+          "en": "Modern wastewater treatment plants reprocess industrial effluent into high-purity process water."
+        }
+      ]
+    },
+    {
+      "id": "ceng_03",
+      "infinitive": "rezyklieren",
+      "translation_ar": "يُعِيدُ تَدْوِيرَ الْمَوَادِّ فِي دَوْرَةٍ مُغْلَقَةٍ",
+      "translation_en": "to recycle / to reintroduce into the material cycle",
+      "construction": "transitiv (Altmetalle und Kunststoffe rezyklieren)",
+      "present_third": "rezykliert",
+      "preterite_third": "rezyklierte",
+      "perfect_third": "hat rezykliert",
+      "svg_id": "svg_ceng_rezyklieren",
+      "examples": [
+        {
+          "de": "Spezialisierte Betriebe rezyklieren Lithium-Ionen-Akkus mit beachtlichen Rückgewinnungsquoten.",
+          "ar": "تُعِيدُ الْمَصَانِعُ الْمُتَخَصِّصَةُ تَدْوِيرَ بَطَّارِيَّاتِ أَيُونَاتِ اللِّيثْيُوم بِنِسَبِ اسْتِرْدَادٍ لَافِتَةٍ لِلنَّظَرِ.",
+          "en": "Specialized enterprises recycle lithium-ion batteries with remarkable recovery rates."
+        }
+      ]
+    },
+    {
+      "id": "ceng_04",
+      "infinitive": "regenerieren",
+      "translation_ar": "يُجَدِّدُ نَشَاطَ الْمَادَّةِ / يُعِيدُ إِحْيَاءَ كَفَاءَتِهَا",
+      "translation_en": "to regenerate / to restore functional capacity",
+      "construction": "transitiv (Katalysatoren und Filter regenerieren)",
+      "present_third": "regeneriert",
+      "preterite_third": "regenerierte",
+      "perfect_third": "hat regeneriert",
+      "svg_id": "svg_ceng_regenerieren",
+      "examples": [
+        {
+          "de": "Thermische Verfahren regenerieren verbrauchte Aktivkohlefilter für den wiederholten Einsatz.",
+          "ar": "تُجَدِّدُ الْعَمَلِيَّاتُ الْحَرَارِيَّةُ فَلَاتِرَ الْكَرْبُونِ الْمُنَشَّطِ الْمُسْتَهْلَكَةَ لِإِعَادَةِ اسْتِخْدَامِهَا مِرَارًا.",
+          "en": "Thermal processes regenerate spent activated carbon filters for repeated use."
+        }
+      ]
+    },
+    {
+      "id": "ceng_05",
+      "infinitive": "veredeln",
+      "translation_ar": "يُرَقِّي جَوْدَةَ الْمَوَادِّ / يُعِيدُ تَدْوِيرَهَا تَصَاعُدِيًّا",
+      "translation_en": "to refine / to upcycle / to upgrade quality",
+      "construction": "veredeln + Akk + zu + Dat",
+      "present_third": "veredelt",
+      "preterite_third": "veredelte",
+      "perfect_third": "hat veredelt",
+      "svg_id": "svg_ceng_veredeln",
+      "examples": [
+        {
+          "de": "Ingenieure veredeln gemischte Plastikabfälle durch chemisches Recycling zu neuwertigen Monomeren.",
+          "ar": "يُرَقِّي الْمُهَنْدِسُونَ نِفَايَاتِ الْبِلَاسْتِيكِ الْمُخْتَلَطَةِ عَبْرَ التَّدْوِيرِ الْكِيمْيَائِيِّ إِلَى مُونُومِيرَاتٍ تُضَاهِي الْجَدِيدَ.",
+          "en": "Engineers refine mixed plastic waste through chemical recycling into virgin-grade monomers."
+        }
+      ]
+    },
+    {
+      "id": "ceng_06",
+      "infinitive": "substituieren",
+      "translation_ar": "يَسْتَبْدِلُ مَادَّةً خَامًا بِبَدِيلٍ مُسْتَدَامٍ",
+      "translation_en": "to substitute (critical materials with sustainable alternatives)",
+      "construction": "substituieren + Akk + durch + Akk",
+      "present_third": "substituiert",
+      "preterite_third": "substituierte",
+      "perfect_third": "hat substituiert",
+      "svg_id": "svg_ceng_substituieren",
+      "examples": [
+        {
+          "de": "Die Fertigung substituierte toxische Schwermetalle vollständig durch unbedenkliche Biopolymere.",
+          "ar": "اسْتَبْدَلَتْ خُطُوطُ الإِنْتَاجِ الْمَعَادِنَ الثَّقِيلَةَ السَّامَّةَ كُلِّيًّا بِبُولِيمِيرَاتٍ حَيَوِيَّةٍ آمِنَةٍ.",
+          "en": "Manufacturing completely substituted toxic heavy metals with safe biopolymers."
+        }
+      ]
+    },
+    {
+      "id": "ceng_07",
+      "infinitive": "rückbauen",
+      "translation_ar": "يُفَكِّكُ الْمَبَانِي أَوْ الْمُنْشَآتِ انْتِقَائِيًّا لِاسْتِرْدَادِ الْمَوَادِّ",
+      "translation_en": "to deconstruct / to dismantle structures for salvage",
+      "construction": "transitiv (Gebäude und Industrieanlagen rückbauen)",
+      "present_third": "baut rück",
+      "preterite_third": "baute rück",
+      "perfect_third": "hat rückgebaut",
+      "svg_id": "svg_ceng_rueckbauen",
+      "examples": [
+        {
+          "de": "Bauunternehmen bauen Altbauten selektiv rück, um Betonabbruch und Stahlträger sortenrein zu trennen.",
+          "ar": "تُفَكِّكُ شَرِكَاتُ الإِنْشَاءِ الْمَبَانِيَ الْقَدِيمَةَ انْتِقَائِيًّا لِفَصْلِ رُكَامِ الْخَرَسَانَةِ وَالْقُضْبَانِ الْفُولَاذِيَّةِ بِدِقَّةٍ.",
+          "en": "Construction firms selectively deconstruct old buildings to cleanly separate concrete rubble and steel beams."
+        }
+      ]
+    },
+    {
+      "id": "ceng_08",
+      "infinitive": "trennen",
+      "translation_ar": "يَفْصِلُ أَنْوَاعَ الْمَوَادِّ نَقِيَّةً لِلتَّدْوِيرِ",
+      "translation_en": "to segregate / to separate material fractions",
+      "construction": "trennen + Akk + nach + Dat",
+      "present_third": "trennt",
+      "preterite_third": "trennte",
+      "perfect_third": "hat getrennt",
+      "svg_id": "svg_ceng_trennen",
+      "examples": [
+        {
+          "de": "Optische Sensoren trennen verschiedene Kunststoffarten in Sekundenbruchteilen nach ihrer Polymerstruktur.",
+          "ar": "تَفْصِلُ الْمُسْتَشْعِرَاتُ الْبَصَرِيَّةُ أَنْوَاعَ الْبِلَاسْتِيكِ الْمُخْتَلِفَةَ فِي أَجْزَاءِ الثَّانِيَةِ حَسَبَ بِنْيَتِهَا الْبُولِيمِيرِيَّةِ.",
+          "en": "Optical sensors segregate different plastic types in fractions of a second based on polymer structure."
+        }
+      ]
+    },
+    {
+      "id": "ceng_09",
+      "infinitive": "kompostieren",
+      "translation_ar": "يُسَمِّدُ الْمَوَادَّ الْعُضْوِيَّةَ لِإِعَادَتِهَا لِلدَّوْرَةِ الْبَيُولُوجِيَّةِ",
+      "translation_en": "to compost organic materials",
+      "construction": "transitiv",
+      "present_third": "kompostiert",
+      "preterite_third": "kompostierte",
+      "perfect_third": "hat kompostiert",
+      "svg_id": "svg_ceng_kompostieren",
+      "examples": [
+        {
+          "de": "Bioabfälle lassen sich in industriellen Großanlagen zu nährstoffreichem Humus kompostieren.",
+          "ar": "يُمْكِنُ تَسْمِيدُ النِّفَايَاتِ الْعُضْوِيَّةِ فِي الْمُنْشَآتِ الصِّنَاعِيَّةِ الْكُبْرَى لِتَحْوِيلِهَا إِلَى دُبَالٍ غَنِيٍّ بِالْمُغَذِّيَاتِ.",
+          "en": "Organic waste can be composted in large industrial facilities into nutrient-rich humus."
+        }
+      ]
+    },
+    {
+      "id": "ceng_10",
+      "infinitive": "instandsetzen",
+      "translation_ar": "يُعِيدُ إِصْلَاحَ وَتَأْهِيلَ الأَجْهِزَةِ لِمُوَاصَفَاتِ الْمَصْنَعِ",
+      "translation_en": "to overhaul / to recondition to factory standards",
+      "construction": "transitiv",
+      "present_third": "setzt instand",
+      "preterite_third": "setzte instand",
+      "perfect_third": "hat instandgesetzt",
+      "svg_id": "svg_ceng_instandsetzen",
+      "examples": [
+        {
+          "de": "Zertifizierte Werkstätten setzen schwere Industriemaschinen instand, anstatt sie zu verschrotten.",
+          "ar": "تُعِيدُ الْوِرَشُ الْمُعْتَمَدَةُ تَأْهِيلَ الآلَاتِ الصِّنَاعِيَّةِ الثَّقِيلَةِ وَإِصْلَاحَهَا بَدَلاً مِنْ إِتْلَافِهَا.",
+          "en": "Certified workshops overhaul heavy industrial machinery instead of scrapping it."
+        }
+      ]
+    },
+    {
+      "id": "ceng_11",
+      "infinitive": "abscheiden",
+      "translation_ar": "يَفْصِلُ الْجُسَيْمَاتِ أَوِ الْغَازَاتِ عَبْرَ التَّرْسِيبِ",
+      "translation_en": "to precipitate / to separate particulate matter",
+      "construction": "abscheiden + Akk + aus + Dat",
+      "present_third": "scheidet ab",
+      "preterite_third": "schied ab",
+      "perfect_third": "hat abgeschieden",
+      "svg_id": "svg_ceng_abscheiden",
+      "examples": [
+        {
+          "de": "Elektrofilter scheiden Feinstaubpartikel zuverlässig aus den industriellen Abgasströmen ab.",
+          "ar": "تَفْصِلُ الْمُرَشِّحَاتُ الْكَهْرَبَائِيَّةُ جُسَيْمَاتِ الْغُبَارِ الدَّقِيقِ بِمَوْثُوقِيَّةٍ مِنْ تَدَفُّقَاتِ الْعَادِمِ الصِّنَاعِيِّ.",
+          "en": "Electrostatic precipitators reliably separate particulate matter from industrial flue gas streams."
+        }
+      ]
+    },
+    {
+      "id": "ceng_12",
+      "infinitive": "dekontaminieren",
+      "translation_ar": "يُطَهِّرُ الْمَوَادَّ أَوِ التُّرْبَةَ مِنَ السُّمُومِ الصِّنَاعِيَّةِ",
+      "translation_en": "to decontaminate / to purge pollutants",
+      "construction": "transitiv (Altlasten dekontaminieren)",
+      "present_third": "dekontaminiert",
+      "preterite_third": "dekontaminierte",
+      "perfect_third": "hat dekontaminiert",
+      "svg_id": "svg_ceng_dekontaminieren",
+      "examples": [
+        {
+          "de": "Umweltspezialisten dekontaminierten das ehemalige Fabrikgelände mit biologischen Mikroorganismen.",
+          "ar": "طَهَّرَ خُبَرَاءُ الْبِيئَةِ أَرْضَ الْمَصْنَعِ السَّابِقِ بِاسْتِخْدَامِ كَائِنَاتٍ دَقِيقَةٍ بَيُولُوجِيَّةٍ.",
+          "en": "Environmental specialists decontaminated the former factory site using biological microorganisms."
+        }
+      ]
+    },
+    {
+      "id": "ceng_13",
+      "infinitive": "zurückgewinnen",
+      "translation_ar": "يَسْتَرْجِعُ / يَسْتَرِدُّ الْمَوَادَّ الْخَامَ أَوِ الطَّاقَةَ",
+      "translation_en": "to recover / to reclaim (resources or energy)",
+      "construction": "zurückgewinnen + Akk + aus + Dat",
+      "present_third": "gewinnt zurück",
+      "preterite_third": "gewann zurück",
+      "perfect_third": "hat zurückgewonnen",
+      "svg_id": "svg_ceng_zurueckgewinnen",
+      "examples": [
+        {
+          "de": "Aus veralteten Leiterplatten lässt sich reines Kupfer und Gold wirtschaftlich zurückgewinnen.",
+          "ar": "يُمْكِنُ اسْتِرْدَادُ النُّحَاسِ وَالذَّهَبِ النَّقِيَّيْنِ اقْتِصَادِيًّا مِنْ لَوْحَاتِ الدَّوَائِرِ الْمَطْبُوعَةِ الْقَدِيمَةِ.",
+          "en": "Pure copper and gold can be economically recovered from obsolete printed circuit boards."
+        }
+      ]
+    },
+    {
+      "id": "ceng_14",
+      "infinitive": "reparieren",
+      "translation_ar": "يُصْلِحُ الْعَطَلَ لِإِطَالَةِ عُمْرِ الْمُنْتَجِ",
+      "translation_en": "to repair / to extend useful lifecycle",
+      "construction": "transitiv",
+      "present_third": "repariert",
+      "preterite_third": "reparierte",
+      "perfect_third": "hat repariert",
+      "svg_id": "svg_ceng_reparieren",
+      "examples": [
+        {
+          "de": "Das Recht auf Reparatur verpflichtet Produzenten, leicht zugängliche Ersatzteile bereitzustellen.",
+          "ar": "يُلْزِمُ 'الْحَقُّ فِي الإِصْلَاحِ' الشَّرِكَاتِ الْمُصَنِّعَةَ بِتَوْفِيرِ قِطَعِ غِيَارٍ سَهْلَةِ الْحُصُولِ عَلَيْهَا.",
+          "en": "The right to repair obligates producers to make easily accessible spare parts available."
+        }
+      ]
+    },
+    {
+      "id": "ceng_15",
+      "infinitive": "rekuperieren",
+      "translation_ar": "يَسْتَعِيدُ الطَّاقَةَ الْحَرَارِيَّةَ أَوِ الْحَرَكِيَّةَ الْمُهْدَرَةَ",
+      "translation_en": "to recuperate / to recover kinetic or thermal energy",
+      "construction": "transitiv",
+      "present_third": "rekuperiert",
+      "preterite_third": "rekuperierte",
+      "perfect_third": "hat rekuperiert",
+      "svg_id": "svg_ceng_rekuperieren",
+      "examples": [
+        {
+          "de": "Moderne Schienenfahrzeuge rekuperieren Bremsenergie und speisen sie unmittelbar ins Netz zurück.",
+          "ar": "تَسْتَعِيدُ قِطَارَاتُ السِّكَكِ الْحَدِيدِيَّةِ الْحَدِيثَةُ طَاقَةَ الْفَرْمَلَةِ وَتُعِيدُ ضَخَّهَا فَوْرًا فِي الشَّبَكَةِ.",
+          "en": "Modern rail vehicles recuperate braking energy and feed it directly back into the grid."
+        }
+      ]
+    },
+    {
+      "id": "ceng_16",
+      "infinitive": "verwerten",
+      "translation_ar": "يَسْتَغِلُّ الْمَوَادَّ صِنَاعِيًّا / يُعِيدُ تَشْغِيلَ الْمُخَلَّفَاتِ",
+      "translation_en": "to utilize / to valorize waste materials",
+      "construction": "stofflich / energetisch verwerten",
+      "present_third": "verwertet",
+      "preterite_third": "verwertete",
+      "perfect_third": "hat verwertet",
+      "svg_id": "svg_ceng_verwerten",
+      "examples": [
+        {
+          "de": "Die EU-Abfallrichtlinie verlangt, mineralischen Bauschutt vorrangig stofflich zu verwerten.",
+          "ar": "تَقْتَضِي التَّوْجِيهَاتُ الأُورُوبِيَّةُ لِلنِّفَايَاتِ اسْتِغْلَالَ رُكَامِ الْبِنَاءِ الْمَعْدِنِيِّ مَادِّيًّا فِي الْمَقَامِ الأَوَّلِ.",
+          "en": "The EU Waste Directive demands prioritizing the material recovery of mineral construction rubble."
+        }
+      ]
+    },
+    {
+      "id": "ceng_17",
+      "infinitive": "rezirkulieren",
+      "translation_ar": "يُعِيدُ تَدْوِيرَ الْمَوَادِّ فِي دَوْرَاتٍ مُغْلَقَةٍ",
+      "translation_en": "to recirculate (process media in closed loops)",
+      "construction": "transitiv / in + Akk",
+      "present_third": "rezirkuliert",
+      "preterite_third": "rezirkulierte",
+      "perfect_third": "hat rezirkuliert",
+      "svg_id": "svg_ceng_rezirkulieren",
+      "examples": [
+        {
+          "de": "Chemieunternehmen rezirkulieren organische Lösungsmittel mehrfach in geschlossenen Rohrleitungssystemen.",
+          "ar": "تُعِيدُ شَرِكَاتُ الْكِيمْيَاءِ تَدْوِيرَ الْمُذِيبَاتِ الْعُضْوِيَّةِ عِدَّةَ مَرَّاتٍ دَاخِلَ أَنْظِمَةِ أَنَابِيبَ مُغْلَقَةٍ.",
+          "en": "Chemical corporations recirculate organic solvents repeatedly within closed piping systems."
+        }
+      ]
+    },
+    {
+      "id": "ceng_18",
+      "infinitive": "modifizieren",
+      "translation_ar": "يُحَوِّرُ تَرْكِيبَ الْمَادَّةِ لِتَسْهِيلِ تَدْوِيرِهَا",
+      "translation_en": "to modify material properties for recyclability",
+      "construction": "modifizieren + Akk + für + Akk",
+      "present_third": "modifiziert",
+      "preterite_third": "modifizierte",
+      "perfect_third": "hat modifiziert",
+      "svg_id": "svg_ceng_modifizieren",
+      "examples": [
+        {
+          "de": "Materialwissenschaftler modifizieren Polymerketten, um die biologische Abbaubarkeit gezielt zu beschleunigen.",
+          "ar": "يُحَوِّرُ عُلَمَاءُ الْمَوَادِّ السَّلَاسِلَ الْبُولِيمِيرِيَّةَ لِتَسْرِيعِ قَابِلِيَّتِهَا لِلتَّحَلُّلِ الْبَيُولُوجِيِّ بِشَكْلٍ مَقْصُودٍ.",
+          "en": "Materials scientists modify polymer chains to purposefully accelerate biodegradability."
+        }
+      ]
+    },
+    {
+      "id": "ceng_19",
+      "infinitive": "kaskadieren",
+      "translation_ar": "يَسْتَخْدِمُ تَتَابُعِيًّا عَبْرَ عِدَّةِ مَرَاحِلَ اسْتِهْلَاكِيَّةٍ",
+      "translation_en": "to cascade material utilization across life stages",
+      "construction": "transitiv",
+      "present_third": "kaskadiert",
+      "preterite_third": "kaskadierte",
+      "perfect_third": "hat kaskadiert",
+      "svg_id": "svg_ceng_kaskadieren",
+      "examples": [
+        {
+          "de": "Nachhaltige Forstbetriebe kaskadieren Holz von Möbeln über Spanplatten bis hin zu Dämmstoffen.",
+          "ar": "تَسْتَخْدِمُ مُؤَسَّسَاتُ الْغَابَاتِ الْمُسْتَدَامَةِ الأَخْشَابَ تَتَابُعِيًّا مِنَ الأَثَاثِ إِلَى الأَلْوَاحِ ثُمَّ إِلَى مَوَادِّ الْعَزْلِ.",
+          "en": "Sustainable forestry enterprises cascade wood from furniture to chipboard down to insulation materials."
+        }
+      ]
+    },
+    {
+      "id": "ceng_20",
+      "infinitive": "minimieren",
+      "translation_ar": "يُقَلِّصُ الْفَاقِدَ وَالنِّفَايَاتِ إِلَى أَدْنَى حَدٍّ مُمْكِنٍ",
+      "translation_en": "to minimize waste and material dissipation",
+      "construction": "transitiv (Materialverluste minimieren)",
+      "present_third": "minimiert",
+      "preterite_third": "minimierte",
+      "perfect_third": "hat minimiert",
+      "svg_id": "svg_ceng_minimieren",
+      "examples": [
+        {
+          "de": "Präzise Fertigungsverfahren minimieren den Verschnitt teurer Rohstoffe auf ein absolutes Minimum.",
+          "ar": "تُقَلِّصُ عَمَلِيَّاتُ التَّصْنِيعِ الدَّقِيقَةِ هَدْرَ الْمَوَادِّ الْخَامِ الْبَاهِظَةِ إِلَى الْحَدِّ الأَدْنَى الْمُطْلَقِ.",
+          "en": "Precision manufacturing processes minimize the waste of expensive raw materials to an absolute minimum."
+        }
+      ]
+    }
+  ]
+}
