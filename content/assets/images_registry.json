@@ -13341,5 +13341,205 @@
     "label_de": "skalieren",
     "label_ar": "يُوَسِّعُ طَاقَةَ مُعَالَجَةِ الشَّبَكَةِ لِاسْتِيعَابِ مَلَايِينِ الْمُعَامَلَاتِ",
     "label_en": "to scale throughput and computational capacity"
+  },
+  "svg_synbio_synthetische_biologie": {
+    "file": "svg_synbio_synthetische_biologie.svg",
+    "path": "content/assets/svg/svg_synbio_synthetische_biologie.svg",
+    "category": "synthetic_biology_c1",
+    "label_de": "die synthetische Biologie",
+    "label_ar": "الْبَيُولُوجْيَا التَّخْلِيقِيَّةُ / عِلْمُ الأَحْيَاءِ الِاصْطِنَاعِيُّ",
+    "label_en": "synthetic biology (SynBio)"
+  },
+  "svg_synbio_biocomputing": {
+    "file": "svg_synbio_biocomputing.svg",
+    "path": "content/assets/svg/svg_synbio_biocomputing.svg",
+    "category": "synthetic_biology_c1",
+    "label_de": "das Bio-Computing",
+    "label_ar": "الْحَوْسَبَةُ الْحَيَوِيَّةُ (مُعَالَجَةُ الْمَعْلُومَاتِ بِالْجُزَيْئَاتِ الْحَيَّةِ)",
+    "label_en": "biological computing / biocomputing"
+  },
+  "svg_synbio_proteindesign": {
+    "file": "svg_synbio_proteindesign.svg",
+    "path": "content/assets/svg/svg_synbio_proteindesign.svg",
+    "category": "synthetic_biology_c1",
+    "label_de": "das Proteindesign",
+    "label_ar": "تَصْمِيمُ الْبُرُوتِينَاتِ مِنَ الصِّفْرِ (De-Novo Protein Design)",
+    "label_en": "de novo protein design / computational protein design"
+  },
+  "svg_synbio_dna_datenspeicherung": {
+    "file": "svg_synbio_dna_datenspeicherung.svg",
+    "path": "content/assets/svg/svg_synbio_dna_datenspeicherung.svg",
+    "category": "synthetic_biology_c1",
+    "label_de": "die DNA-Datenspeicherung",
+    "label_ar": "تَخْزِينُ الْبَيَانَاتِ فِي الْحَمْضِ النَّوَوِيِّ (DNA Storage)",
+    "label_en": "DNA data storage / molecular data storage"
+  },
+  "svg_synbio_zellfrei": {
+    "file": "svg_synbio_zellfrei.svg",
+    "path": "content/assets/svg/svg_synbio_zellfrei.svg",
+    "category": "synthetic_biology_c1",
+    "label_de": "die zellfreie Biosynthese",
+    "label_ar": "التَّخْلِيقُ الْحَيَوِيُّ اللَّاخَلَوِيُّ (Cell-Free Protein Synthesis)",
+    "label_en": "cell-free protein synthesis (CFPS)"
+  },
+  "svg_synbio_schaltkreis": {
+    "file": "svg_synbio_schaltkreis.svg",
+    "path": "content/assets/svg/svg_synbio_schaltkreis.svg",
+    "category": "synthetic_biology_c1",
+    "label_de": "der genetische Schaltkreis",
+    "label_ar": "الدَّارَةُ الْجِينِيَّةُ الْمَنْطِقِيَّةُ (Genetic Logic Circuit)",
+    "label_en": "genetic logic circuit / synthetic gene circuit"
+  },
+  "svg_synbio_gerichtete_evolution": {
+    "file": "svg_synbio_gerichtete_evolution.svg",
+    "path": "content/assets/svg/svg_synbio_gerichtete_evolution.svg",
+    "category": "synthetic_biology_c1",
+    "label_de": "die gerichtete Evolution",
+    "label_ar": "التَّطَوُّرُ الْمُوَجَّهُ فِي الْمُخْتَبَرِ (Directed Evolution)",
+    "label_en": "directed evolution (Nobel Prize technology)"
+  },
+  "svg_synbio_synthetisches_genom": {
+    "file": "svg_synbio_synthetisches_genom.svg",
+    "path": "content/assets/svg/svg_synbio_synthetisches_genom.svg",
+    "category": "synthetic_biology_c1",
+    "label_de": "das synthetische Genom",
+    "label_ar": "الْجِينُومُ التَّخْلِيقِيُّ الِاصْطِنَاعِيُّ (الْحِمْضُ النَّوَوِيُّ الْمُصَنَّعُ كَامِلاً)",
+    "label_en": "synthetic genome / chemically synthesized DNA"
+  },
+  "svg_synbio_metabolic_engineering": {
+    "file": "svg_synbio_metabolic_engineering.svg",
+    "path": "content/assets/svg/svg_synbio_metabolic_engineering.svg",
+    "category": "synthetic_biology_c1",
+    "label_de": "das Metabolic Engineering",
+    "label_ar": "هَنْدَسَةُ الْمَسَارَاتِ الأَيْضِيَّةِ (Metabolic Engineering)",
+    "label_en": "metabolic engineering"
+  },
+  "svg_synbio_enzymdesign": {
+    "file": "svg_synbio_enzymdesign.svg",
+    "path": "content/assets/svg/svg_synbio_enzymdesign.svg",
+    "category": "synthetic_biology_c1",
+    "label_de": "das De-novo-Enzymdesign",
+    "label_ar": "تَصْمِيمُ الإِنْزِيمَاتِ الْمُبْتَكَرَةِ مِنَ الصِّفْرِ",
+    "label_en": "de novo enzyme design"
+  },
+  "svg_synbio_chaperon": {
+    "file": "svg_synbio_chaperon.svg",
+    "path": "content/assets/svg/svg_synbio_chaperon.svg",
+    "category": "synthetic_biology_c1",
+    "label_de": "die molekulare Chaperon-Faltung",
+    "label_ar": "طَيُّ الْبُرُوتِينَاتِ بِمُسَاعَدَةِ جُزَيْئَاتِ الْمُرَافِقِ الْحَيَوِيِّ (Chaperones)",
+    "label_en": "molecular chaperone-assisted folding"
+  },
+  "svg_synbio_bioinformatik": {
+    "file": "svg_synbio_bioinformatik.svg",
+    "path": "content/assets/svg/svg_synbio_bioinformatik.svg",
+    "category": "synthetic_biology_c1",
+    "label_de": "die Bioinformatik-Pipeline",
+    "label_ar": "مَسَارُ مُعَالَجَةِ الْبَيَانَاتِ الْحَيَوِيَّةِ الْحَاسُوبِيَّةِ",
+    "label_en": "bioinformatics pipeline"
+  },
+  "svg_synbio_biopolymer": {
+    "file": "svg_synbio_biopolymer.svg",
+    "path": "content/assets/svg/svg_synbio_biopolymer.svg",
+    "category": "synthetic_biology_c1",
+    "label_de": "das Biopolymer",
+    "label_ar": "الْبُولِيمِرُ الْحَيَوِيُّ (جُزَيْءٌ عِمْلَاقٌ مُخَلَّقٌ حَيَوِيًّا)",
+    "label_en": "biopolymer / engineered macromolecule"
+  },
+  "svg_synbio_reprogrammierung": {
+    "file": "svg_synbio_reprogrammierung.svg",
+    "path": "content/assets/svg/svg_synbio_reprogrammierung.svg",
+    "category": "synthetic_biology_c1",
+    "label_de": "die zelluläre Reprogrammierung",
+    "label_ar": "إِعَادَةُ بَرْمَجَةِ الْخَلَايَا (تَحْوِيلُ الْخَلَايَا الْبَالِغَةِ لِجِذْعِيَّةٍ)",
+    "label_en": "cellular reprogramming / induced pluripotency"
+  },
+  "svg_synbio_xenonukleotid": {
+    "file": "svg_synbio_xenonukleotid.svg",
+    "path": "content/assets/svg/svg_synbio_xenonukleotid.svg",
+    "category": "synthetic_biology_c1",
+    "label_de": "das Xenonukleotid",
+    "label_ar": "النُّوكْلِيُوتِيدُ الِاصْطِنَاعِيُّ غَيْرُ الطَّبِيعِيِّ (XNA)",
+    "label_en": "xeno nucleic acid (XNA) / unnatural base pair"
+  },
+  "svg_synbio_bioreaktor": {
+    "file": "svg_synbio_bioreaktor.svg",
+    "path": "content/assets/svg/svg_synbio_bioreaktor.svg",
+    "category": "synthetic_biology_c1",
+    "label_de": "der Bioreaktor",
+    "label_ar": "الْمُفَاعِلُ الْحَيَوِيُّ (خَزَّانُ التَّخْمِيرِ الْجُزَيْئِيِّ)",
+    "label_en": "bioreactor / fermentation vessel"
+  },
+  "svg_synbio_biosensorik": {
+    "file": "svg_synbio_biosensorik.svg",
+    "path": "content/assets/svg/svg_synbio_biosensorik.svg",
+    "category": "synthetic_biology_c1",
+    "label_de": "die Biosensorik",
+    "label_ar": "الِاسْتِشْعَارُ الْحَيَوِيُّ (مُسْتَشْعِرَاتٌ جُزَيْئِيَّةٌ كَاشِفَةٌ لِلسُّمُومِ)",
+    "label_en": "biosensing / synthetic biosensors"
+  },
+  "svg_synbio_alphafold": {
+    "file": "svg_synbio_alphafold.svg",
+    "path": "content/assets/svg/svg_synbio_alphafold.svg",
+    "category": "synthetic_biology_c1",
+    "label_de": "die AlphaFold-Strukturvorhersage",
+    "label_ar": "التَّنَبُّؤُ بِالْبِنْيَةِ الْبُرُوتِينِيَّةِ بِأَلْفَافُولْد (AlphaFold)",
+    "label_en": "AlphaFold protein structure prediction"
+  },
+  "svg_synbio_expression": {
+    "file": "svg_synbio_expression.svg",
+    "path": "content/assets/svg/svg_synbio_expression.svg",
+    "category": "synthetic_biology_c1",
+    "label_de": "die Genexpressions-Optimierung",
+    "label_ar": "تَحْسِينُ وَرَفْعُ كَفَاءَةِ التَّعْبِيرِ الْجِينِيِّ",
+    "label_en": "gene expression optimization"
+  },
+  "svg_synbio_biopharma": {
+    "file": "svg_synbio_biopharma.svg",
+    "path": "content/assets/svg/svg_synbio_biopharma.svg",
+    "category": "synthetic_biology_c1",
+    "label_de": "das Biopharmazeutikum",
+    "label_ar": "الْمُسْتَحْضَرُ الصَّيْدَلَانِيُّ الْحَيَوِيُّ (Biopharmaceutical)",
+    "label_en": "biopharmaceutical / biologic medicine"
+  },
+  "svg_synbio_prime_editing": {
+    "file": "svg_synbio_prime_editing.svg",
+    "path": "content/assets/svg/svg_synbio_prime_editing.svg",
+    "category": "synthetic_biology_c1",
+    "label_de": "das Prime Editing",
+    "label_ar": "التَّحْرِيرُ الْجِينِيُّ فَاِئقُ الدِّقَّةِ (Prime Editing)",
+    "label_en": "prime editing / search-and-replace gene editing"
+  },
+  "svg_synbio_proteomik": {
+    "file": "svg_synbio_proteomik.svg",
+    "path": "content/assets/svg/svg_synbio_proteomik.svg",
+    "category": "synthetic_biology_c1",
+    "label_de": "die Proteomik",
+    "label_ar": "عِلْمُ الْبُرُوتْيُومِيكْس (دِرَاسَةُ كَافَّةِ بُرُوتِينَاتِ الْخَلِيَّةِ)",
+    "label_en": "proteomics / comprehensive protein analysis"
+  },
+  "svg_synbio_zellfabrik": {
+    "file": "svg_synbio_zellfabrik.svg",
+    "path": "content/assets/svg/svg_synbio_zellfabrik.svg",
+    "category": "synthetic_biology_c1",
+    "label_de": "die mikrobielle Zellfabrik",
+    "label_ar": "الْمَصْنَعُ الْخَلَوِيُّ الْمِيكْرُوبِيُّ",
+    "label_en": "microbial cell factory"
+  },
+  "svg_synbio_biocontainment": {
+    "file": "svg_synbio_biocontainment.svg",
+    "path": "content/assets/svg/svg_synbio_biocontainment.svg",
+    "category": "synthetic_biology_c1",
+    "label_de": "das Biocontainment",
+    "label_ar": "الِاحْتِوَاءُ الْحَيَوِيُّ وَمَفَاتِيحُ الإِبَادَةِ الذَّاتِيَّةِ لِلْكَائِنَاتِ الْمُعَدَّلَةِ",
+    "label_en": "biocontainment / synthetic kill switches"
+  },
+  "svg_synbio_peptiddesign": {
+    "file": "svg_synbio_peptiddesign.svg",
+    "path": "content/assets/svg/svg_synbio_peptiddesign.svg",
+    "category": "synthetic_biology_c1",
+    "label_de": "das Peptid-Engineering",
+    "label_ar": "هَنْدَسَةُ الْبِبْتِيدَاتِ الْعِلَاجِيَّةِ",
+    "label_en": "peptide engineering / peptide therapeutics"
   }
 }

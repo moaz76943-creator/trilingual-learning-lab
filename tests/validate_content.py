@@ -8,7 +8,7 @@ def test_validation():
     # 1. Vocabulary categories check
     vocab_files = glob.glob("content/vocabulary/*.json")
     print(f"Found {len(vocab_files)} vocabulary categories.")
-    assert len(vocab_files) >= 80, f"Expected at least 80 categories, found {len(vocab_files)}"
+    assert len(vocab_files) >= 83, f"Expected at least 80 categories, found {len(vocab_files)}"
     
     # 2. Sentences check
     sent_path = "content/sentences/sentences_a1.json"
@@ -17,7 +17,7 @@ def test_validation():
         sent_data = json.load(f)
         s_count = len(sent_data.get("sentences", []))
         print(f"Validated sentences count: {s_count}")
-        assert s_count >= 285, f"Expected at least 265 sentences, found {s_count}"
+        assert s_count >= 290, f"Expected at least 265 sentences, found {s_count}"
         
     # 3. Images registry check
     reg_path = "content/assets/images_registry.json"
@@ -26,7 +26,7 @@ def test_validation():
         reg_data = json.load(f)
         r_count = len(reg_data)
         print(f"Validated registered SVGs count: {r_count}")
-        assert r_count >= 660, f"Expected at least 2360 SVGs, found {r_count}"
+        assert r_count >= 685, f"Expected at least 2360 SVGs, found {r_count}"
         
     # 4. Verbs engines check
     verb_files = glob.glob("content/verbs/*.json")

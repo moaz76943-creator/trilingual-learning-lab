@@ -1,5 +1,5 @@
 {
-  "count": 285,
+  "count": 290,
   "sentences": [
     {
       "id": "sent_001",
@@ -5262,6 +5262,117 @@
         "Dezentralität."
       ],
       "grammar_point": "Nominalized infinitive 'das Bündeln' with genitive plural modifier and preposition 'durch + Akk' in milestone 285"
+    },
+    {
+      "id": "sent_286",
+      "category": "Synthetic Biology",
+      "german": "Synthetische Biologen konstruieren künstliche genetische Schaltkreise um zelluläre Prozesse wie logische Gatter zu programmieren.",
+      "arabic": "يُهَنْدِسُ عُلَمَاءُ الأَحْيَاءِ التَّخْلِيقِيَّةِ دَارَاتٍ جِينِيَّةً اصْطِنَاعِيَّةً لِبَرْمَجَةِ الْعَمَلِيَّاتِ الْخَلَوِيَّةِ كَبَوَّابَاتٍ مَنْطِقِيَّةٍ.",
+      "english": "Synthetic biologists engineer artificial genetic circuits to program cellular processes like logic gates.",
+      "tokens": [
+        "Synthetische",
+        "Biologen",
+        "konstruieren",
+        "künstliche",
+        "genetische",
+        "Schaltkreise",
+        "um",
+        "zelluläre",
+        "Prozesse",
+        "wie",
+        "logische",
+        "Gatter",
+        "zu",
+        "programmieren."
+      ],
+      "grammar_point": "Transitive verb 'konstruieren' with final infinitive clause 'um ... zu programmieren' and comparative particle 'wie'"
+    },
+    {
+      "id": "sent_287",
+      "category": "Synthetic Biology",
+      "german": "Durch tiefes maschinelles Lernen berechnen moderne Algorithmen dreidimensionale Proteinstrukturen mit atomarer Genauigkeit.",
+      "arabic": "تَحْسُبُ الْخَوَارِزْمِيَّاتُ الْحَدِيثَةُ الْبِنَى الْبُرُوتِينِيَّةَ ثُلَاثِيَّةَ الأَبْعَادِ بِدِقَّةٍ ذَرِّيَّةٍ عَبْرَ التَّعَلُّمِ الآلِيِّ الْعَمِيقِ.",
+      "english": "Through deep machine learning, modern algorithms compute three-dimensional protein structures with atomic precision.",
+      "tokens": [
+        "Durch",
+        "tiefes",
+        "maschinelles",
+        "Lernen",
+        "berechnen",
+        "moderne",
+        "Algorithmen",
+        "dreidimensionale",
+        "Proteinstrukturen",
+        "mit",
+        "atomarer",
+        "Genauigkeit."
+      ],
+      "grammar_point": "Inverted academic sentence with prepositional phrase 'durch + Akk' and modal phrase 'mit + Dat'"
+    },
+    {
+      "id": "sent_288",
+      "category": "Synthetic Biology",
+      "german": "DNA-Datenspeicher übertreffen herkömmliche elektronische Medien hinsichtlich Langlebigkeit und Informationsdichte um Größenordnungen.",
+      "arabic": "تَتَفَوَّقُ وَسَائِطُ تَخْزِينِ الْبَيَانَاتِ فِي الْحَمْضِ النَّوَوِيِّ عَلَى الْوَسَائِطِ الإِلِكْتْرُونِيَّةِ التَّقْلِيدِيَّةِ بِعِدَّةِ مَرَاتِبِ حَجْمٍ مِنْ حَيْثُ الدَّيْمُومَةُ وَالْكَثَافَةُ.",
+      "english": "DNA data storage exceeds conventional electronic media in longevity and information density by orders of magnitude.",
+      "tokens": [
+        "DNA-Datenspeicher",
+        "übertreffen",
+        "herkömmliche",
+        "elektronische",
+        "Medien",
+        "hinsichtlich",
+        "Langlebigkeit",
+        "und",
+        "Informationsdichte",
+        "um",
+        "Größenordnungen."
+      ],
+      "grammar_point": "Transitive verb 'übertreffen' with genitive/dative preposition 'hinsichtlich' and difference preposition 'um + Akk'"
+    },
+    {
+      "id": "sent_289",
+      "category": "Synthetic Biology",
+      "german": "Mikrobielle Zellfabriken synthetisieren komplexe pharmazeutische Wirkstoffe ressourcenschonend ohne fossile Ausgangsstoffe.",
+      "arabic": "تُخَلِّقُ الْمَصَانِعُ الْخَلَوِيَّةُ الْمِيكْرُوبِيَّةُ الْمَوَادَّ الْفَعَّالَةَ الصَّيْدَلَانِيَّةَ الْمُعَقَّدَةَ بِكِفَايَةِ مَوَارِدَ دُونَ مَوَادَّ خَامٍ أُحْفُورِيَّةٍ.",
+      "english": "Microbial cell factories synthesize complex pharmaceutical agents resource-efficiently without fossil feedstocks.",
+      "tokens": [
+        "Mikrobielle",
+        "Zellfabriken",
+        "synthetisieren",
+        "komplexe",
+        "pharmazeutische",
+        "Wirkstoffe",
+        "ressourcenschonend",
+        "ohne",
+        "fossile",
+        "Ausgangsstoffe."
+      ],
+      "grammar_point": "Transitive verb with plural accusative object and negative prepositional phrase 'ohne + Akk'"
+    },
+    {
+      "id": "sent_290",
+      "category": "Synthetic Biology",
+      "german": "Umfassende Biosicherheitsmechanismen stellen sicher dass genetisch modifizierte Organismen außerhalb des Labors nicht überleben können.",
+      "arabic": "تَضْمَنُ آلِيَّاتُ السَّلَامَةِ الْحَيَوِيَّةِ الشَّامِلَةُ عَدَمَ قُدْرَةِ الْكَائِنَاتِ الْمُعَدَّلَةِ وِرَاثِيًّا عَلَى الْبَقَاءِ حَيَّةً خَارِجَ الْمُخْتَبَرِ.",
+      "english": "Comprehensive biosafety mechanisms ensure that genetically modified organisms cannot survive outside the laboratory.",
+      "tokens": [
+        "Umfassende",
+        "Biosicherheitsmechanismen",
+        "stellen",
+        "sicher",
+        "dass",
+        "genetisch",
+        "modifizierte",
+        "Organismen",
+        "außerhalb",
+        "des",
+        "Labors",
+        "nicht",
+        "überleben",
+        "können."
+      ],
+      "grammar_point": "Idiom 'sicherstellen' governing a dass-clause with genitive preposition 'außerhalb + Gen' in milestone 290"
     }
   ]
 }
