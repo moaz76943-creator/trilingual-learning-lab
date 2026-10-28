@@ -1,0 +1,370 @@
+{
+  "engine_id": "cybersecurity_forensics_verbs_b2_c1",
+  "title_ar": "أفعال الأمن السيبراني والتحليل الجنائي الرقمي ومكافحة التهديدات المتقدمة",
+  "title_de": "Cyber-Sicherheits-, Forensik- und Threat-Mitigation-Verben (B2/C1)",
+  "title_en": "Cybersecurity, Digital Forensics & Threat Mitigation Verbs (B2/C1)",
+  "level": "B2/C1",
+  "count": 20,
+  "verbs": [
+    {
+      "id": "csec_01",
+      "infinitive": "verschlüsseln",
+      "translation_ar": "يُشَفِّرُ بَيَانَاتٍ أَوْ مُعَامَلَاتٍ رَقْمِيَّةً",
+      "translation_en": "to encrypt (data or communications)",
+      "construction": "verschlüsseln + Akk + mit + Dat",
+      "present_third": "verschlüsselt",
+      "preterite_third": "verschlüsselte",
+      "perfect_third": "hat verschlüsselt",
+      "svg_id": "svg_csec_verschluesseln",
+      "examples": [
+        {
+          "de": "Sicherheitsbeauftragte verschlüsseln alle internen Datenbanken mit quantenresistenten Algorithmen.",
+          "ar": "يُشَفِّرُ مَسْؤُولُو الأَمْنِ كَافَّةَ قَوَاعِدِ الْبَيَانَاتِ الدَّاخِلِيَّةِ بِخَوَارِزْمِيَّاتٍ مُقَاوِمَةٍ لِلْكَمِّ.",
+          "en": "Security officers encrypt all internal databases with quantum-resistant algorithms."
+        }
+      ]
+    },
+    {
+      "id": "csec_02",
+      "infinitive": "entschlüsseln",
+      "translation_ar": "يَفُكُّ التَّشْفِيرَ / يَحُلُّ شِفْرَةَ الْبَيَانَاتِ",
+      "translation_en": "to decrypt / to decipher",
+      "construction": "transitiv (verschlüsselte Pakete entschlüsseln)",
+      "present_third": "entschlüsselt",
+      "preterite_third": "entschlüsselte",
+      "perfect_third": "hat entschlüsselt",
+      "svg_id": "svg_csec_entschluesseln",
+      "examples": [
+        {
+          "de": "Nur autorisierte Empfänger mit dem passenden privaten Schlüssel können die Nachricht entschlüsseln.",
+          "ar": "وَحْدَهُمُ الْمُسْتَلِمُونَ الْمُصَرَّحُ لَهُمْ بِالْمِفْتَاحِ الْخَاصِّ الْمُنَاسِبِ يُمْكِنُهُمْ فَكُّ تَشْفِيرِ الرِّسَالَةِ.",
+          "en": "Only authorized recipients with the matching private key can decrypt the message."
+        }
+      ]
+    },
+    {
+      "id": "csec_03",
+      "infinitive": "infiltrieren",
+      "translation_ar": "يَتَسَلَّلُ خِفْيَةً إِلَى شَبَكَةٍ أَوْ خَادِمٍ",
+      "translation_en": "to infiltrate / to breach covertly",
+      "construction": "transitiv (ein Firmennetzwerk infiltrieren)",
+      "present_third": "infiltriert",
+      "preterite_third": "infiltrierte",
+      "perfect_third": "hat infiltriert",
+      "svg_id": "svg_csec_infiltrieren",
+      "examples": [
+        {
+          "de": "Hacker infiltrierten das Unternehmensnetzwerk über eine ungepatchte Schwachstelle.",
+          "ar": "تَسَلَّلَ الْمُخْتَرِقُونَ إِلَى شَبَكَةِ الشَّرِكَةِ عَبْرَ ثَغْرَةٍ أَمْنِيَّةٍ لَمْ يَتِمَّ سَدُّهَا.",
+          "en": "Hackers infiltrated the enterprise network via an unpatched vulnerability."
+        }
+      ]
+    },
+    {
+      "id": "csec_04",
+      "infinitive": "abwehren",
+      "translation_ar": "يَصُدُّ هُجُومًا سَيْبِرَانِيًّا بِفَاعِلِيَّةٍ",
+      "translation_en": "to repel / to fend off cyber attacks",
+      "construction": "transitiv (Cyberangriffe abwehren)",
+      "present_third": "wehrt ab",
+      "preterite_third": "wehrte ab",
+      "perfect_third": "hat abgewehrt",
+      "svg_id": "svg_csec_abwehren",
+      "examples": [
+        {
+          "de": "Die moderne Firewall wehrte den massiven DDoS-Angriff vollautomatisch ab.",
+          "ar": "صَدَّ الْجِدَارُ النَّارِيُّ الْحَدِيثُ هُجُومَ حَجْبِ الْخِدْمَةِ الْعَنِيفَ بِشَكْلٍ آلِيٍّ كَامِلٍ.",
+          "en": "The modern firewall repelled the massive DDoS attack fully automatically."
+        }
+      ]
+    },
+    {
+      "id": "csec_05",
+      "infinitive": "kompromittieren",
+      "translation_ar": "يَخْتَرِقُ أَمَانَ نِظَامٍ / يَمَسُّ بِسَلَامَتِهِ",
+      "translation_en": "to compromise (a system or credentials)",
+      "construction": "transitiv (Zugangsdaten kompromittieren)",
+      "present_third": "kompromittiert",
+      "preterite_third": "kompromittierte",
+      "perfect_third": "hat kompromittiert",
+      "svg_id": "svg_csec_kompromittieren",
+      "examples": [
+        {
+          "de": "Durch Phishing-Mails wurden administrative Zugangsdaten kompromittiert.",
+          "ar": "تَمَّ اخْتِرَاقُ بَيَانَاتِ دُخُولِ الإِدَارَةِ عَبْرَ رَسَائِلِ التَّصَيُّدِ الِاحْتِيَالِيِّ.",
+          "en": "Administrative credentials were compromised through phishing emails."
+        }
+      ]
+    },
+    {
+      "id": "csec_06",
+      "infinitive": "patchen",
+      "translation_ar": "يَسُدُّ ثَغْرَةً بَرْمَجِيَّةً / يُحَدِّثُ لِسَدِّ خَلَلٍ",
+      "translation_en": "to patch (a software vulnerability)",
+      "construction": "transitiv (Sicherheitslücken patchen)",
+      "present_third": "patcht",
+      "preterite_third": "patchte",
+      "perfect_third": "hat gepatcht",
+      "svg_id": "svg_csec_patchen",
+      "examples": [
+        {
+          "de": "Systemadministratoren müssen kritische Sicherheitslücken unverzüglich patchen.",
+          "ar": "يَجِبُ عَلَى مُدِيرِي الأَنْظِمَةِ سَدُّ الثَّغَرَاتِ الأَمْنِيَّةِ الْحَرِجَةِ عَلَى الْفَوْرِ.",
+          "en": "System administrators must patch critical security vulnerabilities immediately."
+        }
+      ]
+    },
+    {
+      "id": "csec_07",
+      "infinitive": "isolieren",
+      "translation_ar": "يَعْزِلُ جِهَازًا أَوْ قِطَاعَ شَبَكَةٍ مُصَابًا",
+      "translation_en": "to isolate (compromised endpoints or segments)",
+      "construction": "isolieren + Akk + von + Dat",
+      "present_third": "isoliert",
+      "preterite_third": "isolierte",
+      "perfect_third": "hat isoliert",
+      "svg_id": "svg_csec_isolieren",
+      "examples": [
+        {
+          "de": "Das Sicherheitsteam isolierte den infizierten Server sofort vom Produktivnetzwerk.",
+          "ar": "عَزَلَ فَرِيقُ الأَمْنِ الْخَادِمَ الْمُصَابَ فَوْرًا عَنِ الشَّبَكَةِ الإِنْتَاجِيَّةِ.",
+          "en": "The security team immediately isolated the infected server from the production network."
+        }
+      ]
+    },
+    {
+      "id": "csec_08",
+      "infinitive": "authentifizieren",
+      "translation_ar": "يُصَادِقُ عَلَى هُوِيَّةِ الْمُسْتَخْدِمِ أَوْ أَمَانِ الطَّلَبِ",
+      "translation_en": "to authenticate",
+      "construction": "sich authentifizieren / transitiv",
+      "present_third": "authentifiziert",
+      "preterite_third": "authentifizierte",
+      "perfect_third": "hat authentifiziert",
+      "svg_id": "svg_csec_authentifizieren",
+      "examples": [
+        {
+          "de": "Mitarbeiter authentifizieren sich mittels Zwei-Faktor-Verfahren und Biometrie.",
+          "ar": "يُصَادِقُ الْمُوَظَّفُونَ عَلَى هُوِيَّاتِهِمْ بِوَاسِطَةِ الْمُصَادَقَةِ الثُّنَائِيَّةِ وَالْبَصَمَاتِ الْحَيَوِيَّةِ.",
+          "en": "Employees authenticate themselves via two-factor procedures and biometrics."
+        }
+      ]
+    },
+    {
+      "id": "csec_09",
+      "infinitive": "rekonstruieren",
+      "translation_ar": "يُعِيدُ تَرْكِيبَ مَسَارِ الْهُجُومِ جِنَائِيًّا",
+      "translation_en": "to reconstruct forensically",
+      "construction": "transitiv (den Tathergang forensisch rekonstruieren)",
+      "present_third": "rekonstruiert",
+      "preterite_third": "rekonstruierte",
+      "perfect_third": "hat rekonstruiert",
+      "svg_id": "svg_csec_rekonstruieren",
+      "examples": [
+        {
+          "de": "Cyber-Forensiker rekonstruierten den Angriffsvektor anhand fragmentierter Logdateien.",
+          "ar": "أَعَادَ خُبَرَاءُ التَّحْقِيقِ الْجِنَائِيِّ الرَّقْمِيِّ تَرْكِيبَ مَسَارِ الْهُجُومِ اسْتِنَادًا إِلَى سِجِلَّاتِ النِّظَامِ الْمُجَزَّأَةِ.",
+          "en": "Cyber forensics experts reconstructed the attack vector using fragmented log files."
+        }
+      ]
+    },
+    {
+      "id": "csec_10",
+      "infinitive": "kapern",
+      "translation_ar": "يَسْتَوْلِي عَنْوَةً عَلَى حِسَابٍ أَوْ خَادِمٍ (Hijacking)",
+      "translation_en": "to hijack (accounts, sessions or domains)",
+      "construction": "transitiv (eine Session kapern)",
+      "present_third": "kapert",
+      "preterite_third": "kaperte",
+      "perfect_third": "hat gekapert",
+      "svg_id": "svg_csec_kapern",
+      "examples": [
+        {
+          "de": "Angreifer versuchten, die Administrator-Sitzung per Man-in-the-Middle zu kapern.",
+          "ar": "حَاوَلَ الْمُهَاجِمُونَ الاسْتِيلَاءَ عَلَى جَلْسَةِ الْمَسْؤُولِ عَبْرَ هُجُومِ رَجُلٍ فِي الْمُنْتَصَفِ.",
+          "en": "Attackers attempted to hijack the administrator session via a man-in-the-middle attack."
+        }
+      ]
+    },
+    {
+      "id": "csec_11",
+      "infinitive": "lahmlegen",
+      "translation_ar": "يُعَطِّلُ نِظَامًا أَوْ خِدْمَةً رَقْمِيَّةً عَنِ الْعَمَلِ",
+      "translation_en": "to paralyze / to cripple a service",
+      "construction": "transitiv (Infrastrukturen lahmlegen)",
+      "present_third": "legt lahm",
+      "preterite_third": "legte lahm",
+      "perfect_third": "hat lahmgelegt",
+      "svg_id": "svg_csec_lahmlegen",
+      "examples": [
+        {
+          "de": "Ransomware legte den gesamten Krankenhausbetrieb für mehrere Tage lahm.",
+          "ar": "عَطَّلَتْ بَرْمَجِيَّةُ الْفِدْيَةِ كَافَّةَ عَمَلِيَّاتِ الْمُسْتَشْفَى لِعِدَّةِ أَيَّامٍ.",
+          "en": "Ransomware crippled the entire hospital operation for several days."
+        }
+      ]
+    },
+    {
+      "id": "csec_12",
+      "infinitive": "exfiltrieren",
+      "translation_ar": "يُهَرِّبُ / يَسْرِقُ بَيَانَاتٍ سِرِّيَّةً خَارِجَ الشَّبَكَةِ",
+      "translation_en": "to exfiltrate (confidential data)",
+      "construction": "transitiv (sensible Daten exfiltrieren)",
+      "present_third": "exfiltriert",
+      "preterite_third": "exfiltrierte",
+      "perfect_third": "hat exfiltriert",
+      "svg_id": "svg_csec_exfiltrieren",
+      "examples": [
+        {
+          "de": "Spionageprogramme exfiltrierten monatelang unbemerkt geistiges Eigentum.",
+          "ar": "هَرَّبَتْ بَرَامِجُ التَّجَسُّسِ الْمِلْكِيَّةَ الْفِكْرِيَّةَ لِأَشْهُرٍ دُونَ أَنْ يَلْحَظَهَا أَحَدٌ.",
+          "en": "Spyware exfiltrated intellectual property unnoticed for months."
+        }
+      ]
+    },
+    {
+      "id": "csec_13",
+      "infinitive": "mitigieren",
+      "translation_ar": "يُخَفِّفُ مِنْ حِدَّةِ الْمَخَاطِرِ وَالأَضْرَارِ السَّيْبِرَانِيَّةِ",
+      "translation_en": "to mitigate (risks, threats or impacts)",
+      "construction": "transitiv (Sicherheitsrisiken mitigieren)",
+      "present_third": "mitigiert",
+      "preterite_third": "mitigierte",
+      "perfect_third": "hat mitigiert",
+      "svg_id": "svg_csec_mitigieren",
+      "examples": [
+        {
+          "de": "Redundante Backups helfen, die Schäden eines Verschlüsselungsangriffs zu mitigieren.",
+          "ar": "تُسَاعِدُ النُّسَخُ الِاحْتِيَاطِيَّةُ الْمُتَعَدِّدَةُ فِي التَّخْفِيفِ مِنْ أَضْرَارِ هُجُومِ التَّشْفِيرِ الْخَبِيثِ.",
+          "en": "Redundant backups help mitigate the damages of an encryption attack."
+        }
+      ]
+    },
+    {
+      "id": "csec_14",
+      "infinitive": "scannen",
+      "translation_ar": "يَفْحَصُ الشَّبَكَةَ أَوِ الأَجْهِزَةَ بَحْثًا عَنْ ثَغَرَاتٍ",
+      "translation_en": "to scan (networks or ports for vulnerabilities)",
+      "construction": "transitiv (Netzwerke auf Schwachstellen scannen)",
+      "present_third": "scannt",
+      "preterite_third": "scannte",
+      "perfect_third": "hat gescannt",
+      "svg_id": "svg_csec_scannen",
+      "examples": [
+        {
+          "de": "Automatisierte Scanner prüfen offene Ports und ungesicherte Schnittstellen kontinuierlich.",
+          "ar": "تَفْحَصُ الْمَاسِحَاتُ الآلِيَّةُ الْمَنَافِذَ الْمَفْتُوحَةَ وَالْوَاجِهَاتِ غَيْرَ الْمَحْمِيَّةِ بِاسْتِمْرَارٍ.",
+          "en": "Automated scanners continuously probe open ports and unsecured interfaces."
+        }
+      ]
+    },
+    {
+      "id": "csec_15",
+      "infinitive": "protokollieren",
+      "translation_ar": "يُسَجِّلُ الأَحْدَاثَ فِي سِجِلَّاتِ النِّظَامِ (Logging)",
+      "translation_en": "to log / to record system events",
+      "construction": "transitiv (alle Zugriffsversuche protokollieren)",
+      "present_third": "protokolliert",
+      "preterite_third": "protokollierte",
+      "perfect_third": "hat protokolliert",
+      "svg_id": "svg_csec_protokollieren",
+      "examples": [
+        {
+          "de": "Das System protokolliert jeden fehlgeschlagenen Anmeldeversuch mit Zeitstempel und IP-Adresse.",
+          "ar": "يُسَجِّلُ النِّظَامُ كُلَّ مُحَاوَلَةِ دُخُولٍ فَاشِلَةٍ مَعَ الطَّابَعِ الزَّمَنِيِّ وَعُنْوَانِ IP.",
+          "en": "The system logs every failed login attempt with timestamp and IP address."
+        }
+      ]
+    },
+    {
+      "id": "csec_16",
+      "infinitive": "berechtigen",
+      "translation_ar": "يَمْنَحُ صَلَاحِيَّةَ وُصُولٍ / يُخَوِّلُ رَسْمِيًّا",
+      "translation_en": "to authorize / to grant privileges",
+      "construction": "berechtigen + Akk + zu + Dat",
+      "present_third": "berechtigt",
+      "preterite_third": "berechtigte",
+      "perfect_third": "hat berechtigt",
+      "svg_id": "svg_csec_berechtigen",
+      "examples": [
+        {
+          "de": "Das Least-Privilege-Prinzip berechtigt Mitarbeiter ausschließlich zu notwendigen Ressourcen.",
+          "ar": "يُخَوِّلُ مَبْدَأُ الْحَدِّ الأَدْنَى مِنَ الصَّلَاحِيَّاتِ الْمُوَظَّفِينَ لِلْوُصُولِ فَقَطْ إِلَى الْمَوَارِدِ الضَّرُورِيَّةِ.",
+          "en": "The principle of least privilege authorizes employees exclusively for necessary resources."
+        }
+      ]
+    },
+    {
+      "id": "csec_17",
+      "infinitive": "überwachen",
+      "translation_ar": "يُرَاقِبُ حَرَكَةَ الْمُرُورِ الرَّقْمِيَّةَ عَلَى الشَّبَكَةِ",
+      "translation_en": "to monitor (network traffic or system state)",
+      "construction": "transitiv (den Datenverkehr überwachen)",
+      "present_third": "überwacht",
+      "preterite_third": "überwachte",
+      "perfect_third": "hat überwacht",
+      "svg_id": "svg_csec_ueberwachen",
+      "examples": [
+        {
+          "de": "Sicherheitsanalysten überwachen den weltweiten Datenverkehr rund um die Uhr.",
+          "ar": "يُرَاقِبُ مُحَلِّلُو الأَمْنِ حَرَكَةَ الْبَيَانَاتِ الْعَالَمِيَّةَ عَلَى مَدَارِ السَّاعَةِ.",
+          "en": "Security analysts monitor global data traffic around the clock."
+        }
+      ]
+    },
+    {
+      "id": "csec_18",
+      "infinitive": "dekonfigurieren",
+      "translation_ar": "يُعَطِّلُ إِعْدَادَاتٍ خَاطِئَةً أَوْ خِدْمَاتٍ غَيْرَ آمِنَةٍ",
+      "translation_en": "to deconfigure / to disable insecure services",
+      "construction": "transitiv",
+      "present_third": "dekonfiguriert",
+      "preterite_third": "dekonfigurierte",
+      "perfect_third": "hat dekonfiguriert",
+      "svg_id": "svg_csec_dekonfigurieren",
+      "examples": [
+        {
+          "de": "Zur Härtung des Betriebssystems dekonfigurierten Administratoren überflüssige Standarddienste.",
+          "ar": "عَطَّلَ مُدِيرُو النِّظَامِ الْخِدْمَاتِ الاِفْتِرَاضِيَّةَ غَيْرَ الضَّرُورِيَّةِ لِتَحْصِينِ نِظَامِ التَّشْغِيلِ.",
+          "en": "To harden the operating system, administrators deconfigured superfluous default services."
+        }
+      ]
+    },
+    {
+      "id": "csec_19",
+      "infinitive": "sandboxen",
+      "translation_ar": "يَعْزِلُ بَرْمَجِيَّةً مَشْبُوهَةً فِي بِيئَةِ اخْتِبَارٍ آمِنَةٍ (Sandbox)",
+      "translation_en": "to sandbox (suspicious binaries or scripts)",
+      "construction": "transitiv (verdächtige Dateien sandboxen)",
+      "present_third": "sandboxt",
+      "preterite_third": "sandboxte",
+      "perfect_third": "hat gesandboxt",
+      "svg_id": "svg_csec_sandboxen",
+      "examples": [
+        {
+          "de": "Die Antivirenlösung sandboxt unbekannte Dateianhänge vor ihrer Ausführung.",
+          "ar": "تَعْزِلُ مَنْظُومَةُ مُكَافَحَةِ الْفَيْرُوسَاتِ مُرْفَقَاتِ الْمَلَفَّاتِ الْمَجْهُولَةِ فِي بِيئَةٍ آمِنَةٍ قَبْلَ تَشْغِيلِهَا.",
+          "en": "The antivirus solution sandboxes unknown email attachments prior to execution."
+        }
+      ]
+    },
+    {
+      "id": "csec_20",
+      "infinitive": "härten",
+      "translation_ar": "يُحَصِّنُ نِظَامَ التَّشْغِيلِ أَمْنِيًّا (System Hardening)",
+      "translation_en": "to harden (systems, servers or configurations)",
+      "construction": "transitiv (Server und Endgeräte härten)",
+      "present_third": "härtet",
+      "preterite_third": "härtete",
+      "perfect_third": "hat gehärtet",
+      "svg_id": "svg_csec_haerten",
+      "examples": [
+        {
+          "de": "Sicherheitsrichtlinien verlangen, alle Webserver vor dem Produktivgang umfassend zu härten.",
+          "ar": "تَفْرِضُ التَّعْلِيمَاتُ الأَمْنِيَّةُ تَحْصِينَ كَافَّةِ خَوَادِمِ الْوِيبِ بِشَكْلٍ شَامِلٍ قَبْلَ بَدْءِ التَّشْغِيلِ الْفِعْلِيِّ.",
+          "en": "Security policies require comprehensively hardening all web servers prior to going live."
+        }
+      ]
+    }
+  ]
+}
