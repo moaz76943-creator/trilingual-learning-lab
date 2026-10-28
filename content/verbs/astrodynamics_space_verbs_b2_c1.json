@@ -1,0 +1,370 @@
+{
+  "engine_id": "astrodynamics_space_verbs_b2_c1",
+  "title_ar": "أفعال الملاحة الفلكية والفيزياء المدارية وعمليات الفضاء السحيق",
+  "title_de": "Astrodynamische, orbitale und weltraumoperative Verben (B2/C1)",
+  "title_en": "Astrodynamics, Orbital Mechanics & Deep-Space Operations Verbs (B2/C1)",
+  "level": "B2/C1",
+  "count": 20,
+  "verbs": [
+    {
+      "id": "astro_01",
+      "infinitive": "umkreisen",
+      "translation_ar": "يَدُورُ حَوْلَ جِرْمٍ سَمَاوِيٍّ فِي مَدَارٍ",
+      "translation_en": "to orbit / to circle celestial bodies",
+      "construction": "transitiv (einen Planeten umkreisen)",
+      "present_third": "umkreist",
+      "preterite_third": "umkreiste",
+      "perfect_third": "hat umkreist",
+      "svg_id": "svg_astro_umkreisen",
+      "examples": [
+        {
+          "de": "Die Internationale Raumstation umkreist die Erde alle neunzig Minuten in einer Höhe von vierhundert Kilometern.",
+          "ar": "تَدُورُ مَحَطَّةُ الْفَضَاءِ الدَّوْلِيَّةُ حَوْلَ الأَرْضِ كُلَّ تِسْعِينَ دَقِيقَةً عَلَى ارْتِفَاعِ أَرْبَعِمِائَةِ كِيلُومِتْرٍ.",
+          "en": "The International Space Station orbits the Earth every ninety minutes at an altitude of four hundred kilometers."
+        }
+      ]
+    },
+    {
+      "id": "astro_02",
+      "infinitive": "manövrieren",
+      "translation_ar": "يُنَاوِرُ فَضَائِيًّا لِتَعْدِيلِ الْمَسَارِ أَوْ تَفَادِي الْحُطَامِ",
+      "translation_en": "to maneuver orbital spacecraft",
+      "construction": "intransitiv / transitiv",
+      "present_third": "manövriert",
+      "preterite_third": "manövrierte",
+      "perfect_third": "hat manövriert",
+      "svg_id": "svg_astro_manoevrieren",
+      "examples": [
+        {
+          "de": "Der Satellit musste kurzfristig manövrieren, um einer drohenden Kollision mit Weltraumtrümmern zu entgehen.",
+          "ar": "تَعَيَّنَ عَلَى الْقَمَرِ الصِّنَاعِيِّ الْمُنَاوَرَةُ عَلَى عَجَلٍ لِتَفَادِي اصْطِدَامٍ وَشِيكٍ بِحُطَامٍ فَضَائِيٍّ.",
+          "en": "The satellite had to maneuver on short notice to avoid an impending collision with space debris."
+        }
+      ]
+    },
+    {
+      "id": "astro_03",
+      "infinitive": "beschleunigen",
+      "translation_ar": "يُسَرِّعُ مَرْكَبَةً لِبُلُوغِ سُرْعَةِ الإِفْلَاتِ أَوِ الْمَدَارِ",
+      "translation_en": "to accelerate (to orbital or escape velocity)",
+      "construction": "transitiv (die Raumsonde auf Fluchtgeschwindigkeit beschleunigen)",
+      "present_third": "beschleunigt",
+      "preterite_third": "beschleunigte",
+      "perfect_third": "hat beschleunigt",
+      "svg_id": "svg_astro_beschleunigen",
+      "examples": [
+        {
+          "de": "Die Oberstufe beschleunigte die interplanetare Sonde auf über elf Kilometer pro Sekunde.",
+          "ar": "سَرَّعَتِ الْمَرْحَلَةُ الْعُلْيَا لِلصَّارُوخِ الْمَسْبُورَ الْفَضَائِيَّ إِلَى أَكْثَرَ مِنْ أَحَدَ عَشَرَ كِيلُومِتْرًا فِي الثَّانِيَةِ.",
+          "en": "The upper stage accelerated the interplanetary probe to over eleven kilometers per second."
+        }
+      ]
+    },
+    {
+      "id": "astro_04",
+      "infinitive": "abbremsen",
+      "translation_ar": "يُبْطِئُ سُرْعَةَ الْمَرْكَبَةِ لِلدُّخُولِ فِي مَدَارٍ أَوْ لِلْهُبُوطِ",
+      "translation_en": "to decelerate / to retro-fire thrusters",
+      "construction": "transitiv (das Landemodul kontrolliert abbremsen)",
+      "present_third": "bremst ab",
+      "preterite_third": "bremste ab",
+      "perfect_third": "hat abgebremst",
+      "svg_id": "svg_astro_abbremsen",
+      "examples": [
+        {
+          "de": "Bremsraketen zündeten präzise, um das Raumfahrzeug in den lunaren Zielorbit abzubremsen.",
+          "ar": "اشْتَعَلَتْ صَوَارِيخُ الْكَبْحِ بِدِقَّةٍ لِإِبْطَاءِ سُرْعَةِ الْمَرْكَبَةِ وَإِدْخَالِهَا فِي الْمَدَارِ الْقَمَرِيِّ الْمُسْتَهْدَفِ.",
+          "en": "Retro-rockets fired precisely to decelerate the spacecraft into the targeted lunar orbit."
+        }
+      ]
+    },
+    {
+      "id": "astro_05",
+      "infinitive": "andocken",
+      "translation_ar": "يَلْتَحِمُ بِمَحَطَّةٍ فَضَائِيَّةٍ أَوْ مَرْكَبَةٍ أُخْرَى",
+      "translation_en": "to dock with (a space station or target vehicle)",
+      "construction": "andocken an + Akk",
+      "present_third": "dockt an",
+      "preterite_third": "dockte an",
+      "perfect_third": "hat angedockt",
+      "svg_id": "svg_astro_andocken",
+      "examples": [
+        {
+          "de": "Der automatisierte Frachttransporter dockte millimetergenau an die Kopplungsstation an.",
+          "ar": "الْتَحَمَتْ مَرْكَبَةُ الشَّحْنِ الآلِيَّةُ بِمَحَطَّةِ الِالْتِحَامِ بِدِقَّةٍ مِلِّيمِتْرِيَّةٍ.",
+          "en": "The automated cargo vehicle docked with millimeter accuracy to the docking station."
+        }
+      ]
+    },
+    {
+      "id": "astro_06",
+      "infinitive": "abkoppeln",
+      "translation_ar": "يَفْصِلُ وِحْدَةَ هُبُوطٍ أَوْ مَسْبُورًا عَنِ الْمَرْكَبَةِ الأُمِّ",
+      "translation_en": "to undock / to decouple",
+      "construction": "abkoppeln + Akk + von + Dat",
+      "present_third": "koppelt ab",
+      "preterite_third": "koppelte ab",
+      "perfect_third": "hat abgekoppelt",
+      "svg_id": "svg_astro_abkoppeln",
+      "examples": [
+        {
+          "de": "Das Landemodul koppelte sich erfolgreich von der Muttersonde ab, um den Abstieg einzuleiten.",
+          "ar": "انْفَصَلَتْ وِحْدَةُ الْهُبُوطِ بِنَجَاحٍ عَنِ الْمَسْبُورِ الأُمِّ لِبَدْءِ عَمَلِيَّةِ الْهُبُوطِ.",
+          "en": "The lander module successfully decoupled from the mothership to initiate descent."
+        }
+      ]
+    },
+    {
+      "id": "astro_07",
+      "infinitive": "kartieren",
+      "translation_ar": "يَرْسُمُ خَرِيطَةً طُوبُوغْرَافِيَّةً لِسَطْحِ كَوْكَبٍ أَوْ جِرْمٍ",
+      "translation_en": "to map topographically (planetary surfaces)",
+      "construction": "transitiv (die Marsoberfläche per Radar kartieren)",
+      "present_third": "kartiert",
+      "preterite_third": "kartierte",
+      "perfect_third": "hat kartiert",
+      "svg_id": "svg_astro_kartieren",
+      "examples": [
+        {
+          "de": "Hochleistungskameras kartierten die Kraterlandschaft des Mondes in bisher unerreichter Auflösung.",
+          "ar": "رَسَمَتِ الْكَامِيرَاتُ فَائِقَةُ الأَدَاءِ خَرَائِطَ لِتَضَارِيسِ فُوَّهَاتِ الْقَمَرِ بِدِقَّةٍ غَيْرِ مَسْبُوقَةٍ.",
+          "en": "High-performance cameras mapped the Moon's crater landscape in unprecedented resolution."
+        }
+      ]
+    },
+    {
+      "id": "astro_08",
+      "infinitive": "teleskopieren",
+      "translation_ar": "يَرْصُدُ بِالْمِرْصَادِ الْفَلَكِيِّ / يَمُدُّ هَيَاكِلَ الْمِرْصَادِ",
+      "translation_en": "to observe via space telescope / to extend modular booms",
+      "construction": "transitiv (ferne Galaxien teleskopieren)",
+      "present_third": "teleskopiert",
+      "preterite_third": "teleskopierte",
+      "perfect_third": "hat teleskopiert",
+      "svg_id": "svg_astro_teleskopieren",
+      "examples": [
+        {
+          "de": "Astrophysiker teleskopieren mit Infrarotsensoren in die Frühphasen des kosmischen Urknalls.",
+          "ar": "يَرْصُدُ عُلَمَاءُ الْفِيزْيَاءِ الْفَلَكِيَّةِ بِأَجْهِزَةِ اسْتِشْعَارِ الأَشِعَّةِ تَحْتَ الْحَمْرَاءِ الْمَرَاحِلَ الأُولَى لِلانْفِجَارِ الْعَظِيمِ.",
+          "en": "Astrophysicists use infrared sensors to gaze telescopically into the early stages of the Big Bang."
+        }
+      ]
+    },
+    {
+      "id": "astro_09",
+      "infinitive": "deorbitieren",
+      "translation_ar": "يُخْرِجُ مَرْكَبَةً أَوْ قَمَرًا مِنَ الْمَدَارِ لِإِسْقَاطِهِ عَمْدًا",
+      "translation_en": "to de-orbit (controlled disposal into atmosphere)",
+      "construction": "transitiv (einen Satelliten deorbitieren)",
+      "present_third": "deorbitiert",
+      "preterite_third": "deorbitierte",
+      "perfect_third": "hat deorbitiert",
+      "svg_id": "svg_astro_deorbitieren",
+      "examples": [
+        {
+          "de": "Ingenieure zündeten Resttreibstoffe, um die ausgemusterte Raumstation kontrolliert zu deorbitieren.",
+          "ar": "أَشْعَلَ الْمُهَنْدِسُونَ بَقَايَا الْوَقُودِ لِإِخْرَاجِ الْمَحَطَّةِ الْفَضَائِيَّةِ الْمُتَقَاعِدَةِ مِنَ الْمَدَارِ بِشَكْلٍ مُنَظَّمٍ.",
+          "en": "Engineers ignited residual propellants to de-orbit the retired space station in a controlled manner."
+        }
+      ]
+    },
+    {
+      "id": "astro_10",
+      "infinitive": "gravitieren",
+      "translation_ar": "يَنْجَذِبُ ثِقَالِيًّا نَحْوَ مَرْكَزِ كُتْلَةٍ",
+      "translation_en": "to gravitate / to be drawn by gravity",
+      "construction": "gravitieren zu / in Richtung + Akk",
+      "present_third": "gravitiert",
+      "preterite_third": "gravitierte",
+      "perfect_third": "hat gravitiert",
+      "svg_id": "svg_astro_gravitieren",
+      "examples": [
+        {
+          "de": "Interstellare Staubpartikel gravitieren langsam in Richtung des massereichen Zentrums der Galaxie.",
+          "ar": "تَنْجَذِبُ جُسَيْمَاتُ الْغُبَارِ بَيْنَ النُّجُومِ بِبُطْءٍ ثِقَالِيًّا نَحْوَ الْمَرْكَزِ هَائِلِ الْكُتْلَةِ لِلْمَجَرَّةِ.",
+          "en": "Interstellar dust particles slowly gravitate toward the massive center of the galaxy."
+        }
+      ]
+    },
+    {
+      "id": "astro_11",
+      "infinitive": "kollidieren",
+      "translation_ar": "يَصْطَدِمُ فَضَائِيًّا بِجِرْمٍ أَوْ حُطَامٍ مَدَارِيٍّ",
+      "translation_en": "to collide (in orbital space)",
+      "construction": "kollidieren mit + Dat",
+      "present_third": "kollidiert",
+      "preterite_third": "kollidierte",
+      "perfect_third": "ist kollidiert",
+      "svg_id": "svg_astro_kollidieren",
+      "examples": [
+        {
+          "de": "Im Jahre 2009 kollidierten zwei Kommunikationssatelliten und erzeugten tausende Trümmerteile.",
+          "ar": "فِي عَامِ 2009 اصْطَدَمَ قَمَرَانِ صِنَاعِيَّانِ لِلِاتِّصَالَاتِ مُخَلِّفَيْنِ آلَافَ قِطَعِ الْحُطَامِ.",
+          "en": "In 2009, two communications satellites collided, generating thousands of pieces of debris."
+        }
+      ]
+    },
+    {
+      "id": "astro_12",
+      "infinitive": "entweichen",
+      "translation_ar": "يُفْلِتُ مِنَ الْجَاذِبِيَّةِ أَوْ يَتَسَرَّبُ مِنَ الْغِلَافِ",
+      "translation_en": "to escape (gravitational field or atmospheric envelope)",
+      "construction": "entweichen + Dat / aus + Dat",
+      "present_third": "entweicht",
+      "preterite_third": "entwich",
+      "perfect_third": "ist entwichen",
+      "svg_id": "svg_astro_entweichen",
+      "examples": [
+        {
+          "de": "Geringe Fluchtgeschwindigkeit führt dazu, dass leichtere Gase der Marsatmosphäre ins All entweichen.",
+          "ar": "تُؤَدِّي سُرْعَةُ الإِفْلَاتِ الْمُنْخَفِضَةُ إِلَى هُرُوبِ الْغَازَاتِ الْخَفِيفَةِ مِنْ غِلَافِ الْمِرِّيخِ إِلَى الْفَضَاءِ.",
+          "en": "Low escape velocity causes lighter gases of the Martian atmosphere to escape into space."
+        }
+      ]
+    },
+    {
+      "id": "astro_13",
+      "infinitive": "positionieren",
+      "translation_ar": "يُمَوْضِعُ قَمَرًا فِي نُقْطَةٍ مَدَارِيَّةٍ مُحَدَّدَةٍ",
+      "translation_en": "to position / to station in orbital slot",
+      "construction": "positionieren + Akk + in + Dat",
+      "present_third": "positioniert",
+      "preterite_third": "positionierte",
+      "perfect_third": "hat positioniert",
+      "svg_id": "svg_astro_positionieren",
+      "examples": [
+        {
+          "de": "Der Betreiber positionierte den neuen Wettersatelliten exakt auf seinem zugewiesenen Längengrad im GEO.",
+          "ar": "مَوْضَعَ الْمُشَغِّلُ قَمَرَ الأَرْصَادِ الْجَدِيدَ بِدِقَّةٍ عَلَى خَطِّ الطُّولِ الْمُخَصَّصِ لَهُ فِي الْمَدَارِ الثَّابِتِ.",
+          "en": "The operator positioned the new weather satellite precisely at its assigned longitude in GEO."
+        }
+      ]
+    },
+    {
+      "id": "astro_14",
+      "infinitive": "rekalibrieren",
+      "translation_ar": "يُعِيدُ مُعَايَرَةَ أَجْهِزَةِ التَّوْجِيهِ وَالْمِلَاحَةِ النَّجْمِيَّةِ",
+      "translation_en": "to recalibrate (star trackers or optical sensors)",
+      "construction": "transitiv (Sternsensoren rekalibrieren)",
+      "present_third": "rekalibriert",
+      "preterite_third": "rekalibrierte",
+      "perfect_third": "hat rekalibriert",
+      "svg_id": "svg_astro_rekalibrieren",
+      "examples": [
+        {
+          "de": "Die Bodenstation rekalibrierte die Sternsensoren der Sonde nach einem intensiven Sonnensturm.",
+          "ar": "أَعَادَتِ الْمَحَطَّةُ الأَرْضِيَّةُ مُعَايَرَةَ مُسْتَشْعِرَاتِ النُّجُومِ لِلْمَسْبُورِ بَعْدَ عَاصِفَةٍ شَمْسِيَّةٍ عَنِيفَةٍ.",
+          "en": "The ground station recalibrated the probe's star sensors following an intense solar storm."
+        }
+      ]
+    },
+    {
+      "id": "astro_15",
+      "infinitive": "zünden",
+      "translation_ar": "يُشْعِلُ مُحَرِّكَاتِ الدَّفْعِ الصَّارُوخِيِّ",
+      "translation_en": "to ignite / to fire rocket thrusters",
+      "construction": "transitiv / intransitiv (Triebwerke zünden)",
+      "present_third": "zündet",
+      "preterite_third": "zündete",
+      "perfect_third": "hat gezündet",
+      "svg_id": "svg_astro_zuenden",
+      "examples": [
+        {
+          "de": "Der Bordcomputer zündete die Steuerdüsen für genau vier Sekunden, um die Bahnneigung zu korrigieren.",
+          "ar": "أَشْعَلَ حَاسُوبُ الْمَرْكَبَةِ نَفَّاثَاتِ التَّوْجِيهِ لِمُدَّةِ أَرْبَعِ ثَوَانٍ بِالضَّبْطِ لِتَصْحِيحِ مَيْلِ الْمَدَارِ.",
+          "en": "The onboard computer ignited the attitude thrusters for exactly four seconds to correct orbital inclination."
+        }
+      ]
+    },
+    {
+      "id": "astro_16",
+      "infinitive": "austarieren",
+      "translation_ar": "يُوَازِنُ مَرْكَزَ الثِّقَلِ وَعَزْمَ الْقُصُورِ الذَّاتِيِّ لِلْمَرْكَبَةِ",
+      "translation_en": "to counterbalance / to trim inertia & center of mass",
+      "construction": "transitiv (Massenschwerpunkte austarieren)",
+      "present_third": "tariert aus",
+      "preterite_third": "tarierte aus",
+      "perfect_third": "hat austariert",
+      "svg_id": "svg_astro_austarieren",
+      "examples": [
+        {
+          "de": "Vor dem Start mussten Ingenieure die Nutzlast mit Trimmgewichten peinlich genau austarieren.",
+          "ar": "تَعَيَّنَ عَلَى الْمُهَنْدِسِينَ قَبْلَ الإِطْلَاقِ مُوَازَنَةُ حُمُولَةِ الدَّفْعِ بِأَوْزَانِ الْمُعَايَرَةِ بِدِقَّةٍ مُتَنَاهِيَةٍ.",
+          "en": "Prior to launch, engineers had to meticulously counterbalance the payload with trim weights."
+        }
+      ]
+    },
+    {
+      "id": "astro_17",
+      "infinitive": "übermitteln",
+      "translation_ar": "يَنْقُلُ بَيَانَاتِ التِّيلِيمِتْرِيَا وَالاسْتِشْعَارِ عَنْ بُعْدٍ لِلأَرْضِ",
+      "translation_en": "to transmit (telemetry and scientific sensor data)",
+      "construction": "übermitteln + Akk + an + Akk",
+      "present_third": "übermittelt",
+      "preterite_third": "übermittelte",
+      "perfect_third": "hat übermittelt",
+      "svg_id": "svg_astro_uebermitteln",
+      "examples": [
+        {
+          "de": "Die Richtantenne übermittelt wissenschaftliche Messdaten über hunderte Millionen Kilometer an das Kontrollzentrum.",
+          "ar": "يَنْقُلُ الْهَوَائِيُّ الْمُوَجَّهُ بَيَانَاتِ الْقِيَاسِ الْعِلْمِيَّةِ عَبْرَ مِئَاتِ مَلَايِينِ الْكِيلُومِتْرَاتِ لِمَرْكَزِ التَّحَكُّمِ.",
+          "en": "The high-gain antenna transmits scientific measurement data over hundreds of millions of kilometers to mission control."
+        }
+      ]
+    },
+    {
+      "id": "astro_18",
+      "infinitive": "navigieren",
+      "translation_ar": "يُوَجِّهُ الْمِلَاحَةَ فِي الْفَضَاءِ السَّحِيقِ",
+      "translation_en": "to navigate (in deep space)",
+      "construction": "intransitiv / transitiv (durch das Planetensystem navigieren)",
+      "present_third": "navigiert",
+      "preterite_third": "navigierte",
+      "perfect_third": "hat navigiert",
+      "svg_id": "svg_astro_navigieren",
+      "examples": [
+        {
+          "de": "Tiefraumsonden navigieren autonom mithilfe optischer Pulsar-Messungen und Sternenkatalogen.",
+          "ar": "تُبْحِرُ مَسَابِيرُ الْفَضَاءِ السَّحِيقِ ذَاتِيًّا بِمُسَاعَدَةِ قِيَاسَاتِ النُّجُومِ النَّبَّاضَةِ وَفَهَارِسِ النُّجُومِ.",
+          "en": "Deep-space probes navigate autonomously using optical pulsar measurements and star catalogs."
+        }
+      ]
+    },
+    {
+      "id": "astro_19",
+      "infinitive": "extrapolieren",
+      "translation_ar": "يَسْتَقْرِئُ الْمَسَارَاتِ الْمَدَارِيَّةَ وَالِاضْطِرَابَاتِ الْجَذْبِيَّةَ",
+      "translation_en": "to extrapolate orbital perturbations and ephemerides",
+      "construction": "extrapolieren + Akk + auf + Akk",
+      "present_third": "extrapoliert",
+      "preterite_third": "extrapolierte",
+      "perfect_third": "hat extrapoliert",
+      "svg_id": "svg_astro_extrapolieren",
+      "examples": [
+        {
+          "de": "Supercomputer extrapolieren die Ephemeriden erdnaher Asteroiden über Jahrhunderte im Voraus.",
+          "ar": "تَسْتَقْرِئُ الْحَوَاسِيبُ الْعِمْلَاقَةُ جَدَاوِلَ مَوَاقِعِ الْكُوَيْكِبَاتِ الْقَرِيبَةِ مِنَ الأَرْضِ لِقُرُونٍ مُقْدِمَةٍ مُسْبَقًا.",
+          "en": "Supercomputers extrapolate the ephemerides of near-Earth asteroids centuries in advance."
+        }
+      ]
+    },
+    {
+      "id": "astro_20",
+      "infinitive": "stabilisieren",
+      "translation_ar": "يُثَبِّتُ اتِّجَاهَ وَدَوَرَانَ الْمَرْكَبَةِ الْفَضَائِيَّةِ (Attitude Control)",
+      "translation_en": "to stabilize attitude and spin",
+      "construction": "transitiv (die Raumsonde dreiachsig stabilisieren)",
+      "present_third": "stabilisiert",
+      "preterite_third": "stabilisierte",
+      "perfect_third": "hat stabilisiert",
+      "svg_id": "svg_astro_stabilisieren",
+      "examples": [
+        {
+          "de": "Reaktionsräder stabilisieren das Weltraumteleskop dreiachsig mit extremer Richtgenauigkeit.",
+          "ar": "تُثَبِّتُ عَجَلَاتُ رَدِّ الْفِعْلِ الْمِرْصَادَ الْفَضَائِيَّ عَلَى مَحَاوِرِهِ الثَّلَاثَةِ بِدِقَّةِ تَوْجِيهٍ بَالِغَةٍ.",
+          "en": "Reaction wheels stabilize the space telescope along three axes with extreme pointing accuracy."
+        }
+      ]
+    }
+  ]
+}
