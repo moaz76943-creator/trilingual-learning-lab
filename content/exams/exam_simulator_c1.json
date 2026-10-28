@@ -1,0 +1,125 @@
+{
+  "engine_id": "exam_simulator_c1",
+  "title_ar": "محاكي الامتحانات الدولية المتقدمة (C1/TestDaF/Telc Hochschule)",
+  "title_de": "Prüfungssimulator C1 (Goethe-Zertifikat, Telc C1 Hochschule, TestDaF)",
+  "title_en": "C1 Standardized Exam Simulator (Goethe, Telc, TestDaF)",
+  "level": "C1/C2",
+  "total_sections": 3,
+  "sections": [
+    {
+      "section_id": "goethe_c1_reading",
+      "exam_type": "Goethe-Zertifikat C1",
+      "section_name_de": "Leseverstehen: Rekonstruktion eines wissenschaftlichen Textes",
+      "section_name_ar": "فَهْمُ الْمَقْرُوءِ: إِعَادَةُ بِنَاءِ نَصٍّ عِلْمِيٍّ تَرْكِيبِيٍّ",
+      "section_name_en": "Reading Comprehension: Scientific Text Reconstruction",
+      "text_sample": "Die fortschreitende Automatisierung kognitiver Prozesse wirft fundamentale Fragen auf...",
+      "tasks": [
+        {
+          "task_id": "gt_task_01",
+          "question_de": "Welche Aussage trifft den Kern des ersten Absatzes zur Automatisierung am präzisesten?",
+          "question_ar": "أَيُّ الْعِبَارَاتِ التَّالِيَةِ تُعَبِّرُ بِدِقَّةٍ عَنْ جَوْهَرِ الْفِقْرَةِ الأُولَى حَوْلَ الأَتْمَتَةِ؟",
+          "question_en": "Which statement most precisely captures the essence of the first paragraph on automation?",
+          "options": [
+            "Automatisierung entlastet primär physische Arbeitskräfte.",
+            "Kognitive Algorithmen verändern traditionelle Entscheidungsstrukturen tiefgreifend.",
+            "Wirtschaftliche Erwägungen spielen eine untergeordnete Rolle.",
+            "Die Technologie bleibt auf rein akademische Nischen beschränkt."
+          ],
+          "correct_index": 1,
+          "explanation_de": "Option 2 trifft den Kern, da der Text die Transformation intellektueller Entscheidungsprozesse akzentuiert.",
+          "explanation_ar": "الْخِيَارُ الثَّانِي هُوَ الصَّحِيحُ لِأَنَّ النَّصَّ يُؤَكِّدُ عَلَى تَحَوُّلِ عَمَلِيَّاتِ اتِّخَاذِ الْقَرَارِ الْفِكْرِيَّةِ.",
+          "explanation_en": "Option 2 is correct as the text accentuates the transformation of intellectual decision-making processes.",
+          "svg_id": "svg_exam_gt_task_01"
+        },
+        {
+          "task_id": "gt_task_02",
+          "question_de": "Wie ist der Begriff 'ambivalente Konsequenzen' im Textzusammenhang zu deuten?",
+          "question_ar": "كَيْفَ يُفَسَّرُ مُصْطَلَحُ 'الْعَوَاقِبِ الْمُتَنَاقِضَةِ / الْمُزْدَوَجَةِ' فِي سِيَاقِ النَّصِّ؟",
+          "question_en": "How should the term 'ambivalent consequences' be interpreted in context?",
+          "options": [
+            "Ausschließlich schädliche Einflüsse auf den Arbeitsmarkt.",
+            "Vollkommen vernachlässigbare Nebeneffekte.",
+            "Gleichzeitiges Vorhandensein von Effizienzgewinnen und ethischen Risiken.",
+            "Eine vorübergehende wirtschaftliche Stagnation."
+          ],
+          "correct_index": 2,
+          "explanation_de": "Ambivalent drückt das Nebeneinander von Vorzügen und Risiken aus.",
+          "explanation_ar": "يُعَبِّرُ التَّنَاقُضُ عَنْ تَجَاوُرِ الْمَكَاسِبِ وَالْمَخَاطِرِ فِي آنٍ وَاحِدٍ.",
+          "explanation_en": "Ambivalent denotes the simultaneous presence of advantages and risks.",
+          "svg_id": "svg_exam_gt_task_02"
+        }
+      ]
+    },
+    {
+      "section_id": "telc_c1_sprachbausteine",
+      "exam_type": "Telc C1 Hochschule",
+      "section_name_de": "Sprachbausteine: Grammatische und lexikalische Präzision",
+      "section_name_ar": "مُكَوِّنَاتُ اللُّغَةِ: الدِّقَّةُ النَّحْوِيَّةُ وَالْمُعْجَمِيَّةُ لِطُلَّابِ الْجَامِعَاتِ",
+      "section_name_en": "Language Elements: Grammatical & Lexical Precision",
+      "text_sample": "In Anbetracht der [...] Herausforderungen muss die universitäre Forschung...",
+      "tasks": [
+        {
+          "task_id": "telc_task_01",
+          "question_de": "Ergänzen Sie die Lücke: 'In Anbetracht [...] aktuellen Entwicklungen...'",
+          "question_ar": "أَكْمِلِ الْفَرَاغَ بِالصِّيغَةِ الإِعْرَابِيَّةِ الصَّحِيحَةِ: 'In Anbetracht [...] aktuellen Entwicklungen...'",
+          "question_en": "Fill in the blank: 'In Anbetracht [...] aktuellen Entwicklungen...'",
+          "options": [
+            "der",
+            "den",
+            "dem",
+            "des"
+          ],
+          "correct_index": 0,
+          "explanation_de": "Die Präposition 'in Anbetracht' verlangt obligatorisch den Genitiv Plural ('der').",
+          "explanation_ar": "يَتَطَلَّبُ حَرْفُ الْجَرِّ 'in Anbetracht' وُجُوبًا حَالَةَ الْمُضَافِ إِلَيْهِ لِلْجَمْعِ ('der').",
+          "explanation_en": "The preposition 'in Anbetracht' obligatorily governs the genitive plural ('der').",
+          "svg_id": "svg_exam_telc_task_01"
+        },
+        {
+          "task_id": "telc_task_02",
+          "question_de": "Wählen Sie das passende Nomen-Verb-Gefüge: 'eine Entscheidung [...]'",
+          "question_ar": "اخْتَرِ التَّرْكِيبَ الفِعْلِيَّ الاسْمِيَّ الصَّحِيحَ: 'eine Entscheidung [...]'",
+          "question_en": "Choose the appropriate noun-verb collocation: 'eine Entscheidung [...]'",
+          "options": [
+            "fällen",
+            "schlagen",
+            "wirken",
+            "stellen"
+          ],
+          "correct_index": 0,
+          "explanation_de": "Das korrekte Nomen-Verb-Gefüge auf C1-Niveau lautet 'eine Entscheidung fällen' (oder treffen).",
+          "explanation_ar": "التَّعْبِيرُ الاسْمِيُّ الْفِعْلِيُّ الدَّقِيقُ فِي مُسْتَوَى C1 هُوَ 'eine Entscheidung fällen'.",
+          "explanation_en": "The correct noun-verb collocation at C1 level is 'eine Entscheidung fällen'.",
+          "svg_id": "svg_exam_telc_task_02"
+        }
+      ]
+    },
+    {
+      "section_id": "testdaf_academic_reasoning",
+      "exam_type": "TestDaF (TDN 5)",
+      "section_name_de": "Wissenschaftliches Argumentieren und Synthese",
+      "section_name_ar": "الْمُحَاجَجَةُ وَالتَّرْكِيبُ الأَكَادِيمِيُّ فِي سِيَاقِ TestDaF",
+      "section_name_en": "Academic Reasoning & Synthesis",
+      "text_sample": "Entgegen der landläufigen Meinung divergiert die Datenlage...",
+      "tasks": [
+        {
+          "task_id": "tdaf_task_01",
+          "question_de": "Welche Konjunktion leitet einen adversativen Gegensatz im akademischen Diskurs am elegantesten ein?",
+          "question_ar": "أَيُّ أَدَوَاتِ الرَّبْطِ التَّالِيَةِ تُعَبِّرُ عَنِ التَّقَابُلِ الاسْتِدْرَاكِيِّ الأَكَادِيمِيِّ بِأَقْصَى دَرَجَاتِ الْفَصَاحَةِ؟",
+          "question_en": "Which conjunction introduces an adversative contrast in academic discourse most elegantly?",
+          "options": [
+            "Wohingegen",
+            "Weil",
+            "Obschon",
+            "Infolgedessen"
+          ],
+          "correct_index": 0,
+          "explanation_de": "'Wohingegen' drückt einen stilistisch anspruchsvollen adversativen Kontrast aus.",
+          "explanation_ar": "'Wohingegen' تُعَبِّرُ عَنِ التَّقَابُلِ الاسْتِدْرَاكِيِّ بِأُسْلُوبٍ بَلِيغٍ مَرْفُوعِ الْمُسْتَوَى.",
+          "explanation_en": "'Wohingegen' expresses a stylistically sophisticated adversative contrast.",
+          "svg_id": "svg_exam_tdaf_task_01"
+        }
+      ]
+    }
+  ]
+}
