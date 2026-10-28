@@ -1,0 +1,370 @@
+{
+  "engine_id": "rhetorical_dialectical_verbs_b2_c1",
+  "title_ar": "أفعال البلاغة والخطابة الجدلية والمحاججة والتأثير الإقناعي",
+  "title_de": "Rhetorische, dialektische und argumentative Verben (B2/C1)",
+  "title_en": "Rhetorical, Dialectical & Argumentative Verbs (B2/C1)",
+  "level": "B2/C1",
+  "count": 20,
+  "verbs": [
+    {
+      "id": "rhet_01",
+      "infinitive": "debattieren",
+      "translation_ar": "يُنَاظِرُ / يَتَنَاظَرُ حَوْلَ قَضِيَّةٍ",
+      "translation_en": "to debate",
+      "construction": "debattieren über + Akk",
+      "present_third": "debattiert",
+      "preterite_third": "debattierte",
+      "perfect_third": "hat debattiert",
+      "svg_id": "svg_rhet_debattieren",
+      "examples": [
+        {
+          "de": "Die Abgeordneten debattierten stundenlang über den kontroversen Gesetzentwurf.",
+          "ar": "تَنَاظَرَ النُّوَّابُ طِوَالَ سَاعَاتٍ حَوْلَ مَشْرُوعِ الْقَانُونِ الْمُثِيرِ لِلْجَدَلِ.",
+          "en": "The parliamentarians debated for hours over the controversial bill."
+        }
+      ]
+    },
+    {
+      "id": "rhet_02",
+      "infinitive": "widerlegen",
+      "translation_ar": "يُفَنِّدُ / يَدْحَضُ حُجَّةً بِالْبَرَاهِينِ",
+      "translation_en": "to refute / to disprove",
+      "construction": "transitiv (eine These / ein Argument widerlegen)",
+      "present_third": "widerlegt",
+      "preterite_third": "widerlegte",
+      "perfect_third": "hat widerlegt",
+      "svg_id": "svg_rhet_widerlegen",
+      "examples": [
+        {
+          "de": "Der Forscher konnte die gegnerische Behauptung mit neuen Daten schlüssig widerlegen.",
+          "ar": "اسْتَطَاعَ الْبَاحِثُ دَحْضَ ادِّعَاءِ خَصْمِهِ دَحْضًا مُفْحِمًا بِاسْتِخْدَامِ بَيَانَاتٍ حَدِيثَةٍ.",
+          "en": "The researcher was able to conclusively refute the opposing claim with new data."
+        }
+      ]
+    },
+    {
+      "id": "rhet_03",
+      "infinitive": "untermauern",
+      "translation_ar": "يُدَعِّمُ / يُسْنِدُ حُجَّتَهُ بِشَوَاهِدَ قَوِيَّةٍ",
+      "translation_en": "to substantiate / to underpin",
+      "construction": "untermauern + Akk + durch / mit + Dat",
+      "present_third": "untermauert",
+      "preterite_third": "untermauerte",
+      "perfect_third": "hat untermauert",
+      "svg_id": "svg_rhet_untermauern",
+      "examples": [
+        {
+          "de": "Sie untermauerte ihre brisante These mit empirischen Langzeitstudien.",
+          "ar": "دَعَّمَتْ أُطْرُوحَتَهَا الْجَرِيئَةَ بِدِرَاسَاتٍ إِمْبِيرِيقِيَّةٍ طَوِيلَةِ الأَمَدِ.",
+          "en": "She substantiated her explosive thesis with empirical longitudinal studies."
+        }
+      ]
+    },
+    {
+      "id": "rhet_04",
+      "infinitive": "plädieren",
+      "translation_ar": "يَتَرَافَعُ لِصَالِحِ / يُدَافِعُ عَنْ رَأْيٍ",
+      "translation_en": "to plead / to advocate",
+      "construction": "plädieren für + Akk / gegen + Akk",
+      "present_third": "plädiert",
+      "preterite_third": "plädierte",
+      "perfect_third": "hat plädiert",
+      "svg_id": "svg_rhet_plaedieren",
+      "examples": [
+        {
+          "de": "Der Verteidiger plädierte leidenschaftlich auf Freispruch des Angeklagten.",
+          "ar": "تَرَافَعَ مُحَامِي الدِّفَاعِ بِحَمَاسَةٍ لِصَالِحِ تَبْرِئَةِ الْمُتَّهَمِ.",
+          "en": "The defense attorney passionately pleaded for the acquittal of the accused."
+        }
+      ]
+    },
+    {
+      "id": "rhet_05",
+      "infinitive": "entkräften",
+      "translation_ar": "يُبْطِلُ مَفْعُولَ حُجَّةٍ / يُجَرِّدُ دَلِيلاً مِنْ قُوَّتِهِ",
+      "translation_en": "to invalidate / to dismantle an argument",
+      "construction": "transitiv (Zweifel / Vorwürfe entkräften)",
+      "present_third": "entkräftet",
+      "preterite_third": "entkräftete",
+      "perfect_third": "hat entkräftet",
+      "svg_id": "svg_rhet_entkraeften",
+      "examples": [
+        {
+          "de": "Durch die Vorlage des Alibis wurden alle Verdachtsmomente vollständig entkräftet.",
+          "ar": "أُبْطِلَتْ كَافَّةُ الشُّكُوكِ تَمَامًا مِنْ خِلَالِ تَقْدِيمِ حُجَّةِ الْغِيَابِ.",
+          "en": "Through presentation of the alibi, all suspicions were completely dismantled."
+        }
+      ]
+    },
+    {
+      "id": "rhet_06",
+      "infinitive": "akzentuieren",
+      "translation_ar": "يُبْرِزُ / يُؤَكِّدُ عَلَى أَهَمِّيَّةِ نُقْطَةٍ",
+      "translation_en": "to accentuate / to emphasize",
+      "construction": "transitiv",
+      "present_third": "akzentuiert",
+      "preterite_third": "akzentuierte",
+      "perfect_third": "hat akzentuiert",
+      "svg_id": "svg_rhet_akzentuieren",
+      "examples": [
+        {
+          "de": "Die Rednerin akzentuierte die Dringlichkeit sofortiger diplomatischer Schritte.",
+          "ar": "أَبْرَزَتِ الْخَطِيبَةُ أَهَمِّيَّةَ الإِجْرَاءَاتِ الدِّبْلُومَاسِيَّةِ الْفَوْرِيَّةِ وَأَلَحَّتْ عَلَيْهَا.",
+          "en": "The speaker accentuated the urgency of immediate diplomatic steps."
+        }
+      ]
+    },
+    {
+      "id": "rhet_07",
+      "infinitive": "problematisieren",
+      "translation_ar": "يَطْرَحُ الْمَسْأَلَةَ كَمُشْكِلَةٍ / يُثِيرُ الإِشْكَالِيَّاتِ",
+      "translation_en": "to problematize / to call into question",
+      "construction": "transitiv",
+      "present_third": "problematisiert",
+      "preterite_third": "problematisierte",
+      "perfect_third": "hat problematisiert",
+      "svg_id": "svg_rhet_problematisieren",
+      "examples": [
+        {
+          "de": "Der Essay problematisiert die ethischen Konsequenzen künstlicher Intelligenz.",
+          "ar": "يَطْرَحُ الْمَقَالُ التَّبِعَاتِ الأَخْلَاقِيَّةَ لِلذَّكَاءِ الاصْطِنَاعِيِّ كَإِشْكَالِيَّةٍ شَائِكَةٍ.",
+          "en": "The essay problematizes the ethical consequences of artificial intelligence."
+        }
+      ]
+    },
+    {
+      "id": "rhet_08",
+      "infinitive": "insinuieren",
+      "translation_ar": "يُلَمِّحُ بِخُبْثٍ / يَدُسُّ مَعْنًى مُبَطَّنًا",
+      "translation_en": "to insinuate",
+      "construction": "transitiv / + dass-Satz",
+      "present_third": "insinuiert",
+      "preterite_third": "insinuierte",
+      "perfect_third": "hat insinuiert",
+      "svg_id": "svg_rhet_insinuieren",
+      "examples": [
+        {
+          "de": "Der Journalist insinuierte, dass persönliche Interessen die Entscheidung leiteten.",
+          "ar": "لَمَّحَ الصَّحَفِيُّ بِخُبْثٍ إِلَى أَنَّ مَصَالِحَ شَخْصِيَّةً هِيَ الَّتِي وَجَّهَتِ الْقَرَارَ.",
+          "en": "The journalist insinuated that personal interests guided the decision."
+        }
+      ]
+    },
+    {
+      "id": "rhet_09",
+      "infinitive": "verfechten",
+      "translation_ar": "يُدَافِعُ بِاسْتِمَاتَةٍ عَنْ مَبْدَأٍ أَوْ حَقٍّ",
+      "translation_en": "to champion / to advocate passionately",
+      "construction": "transitiv (eine Überzeugung verfechten)",
+      "present_third": "verficht",
+      "preterite_third": "verfocht",
+      "perfect_third": "hat verfochten",
+      "svg_id": "svg_rhet_verfechten",
+      "examples": [
+        {
+          "de": "Die Bürgerrechtsbewegung verfocht stets das Prinzip der absoluten Rechtsgleichheit.",
+          "ar": "دَافَعَتْ حَرَكَةُ الْحُقُوقِ الْمَدَنِيَّةِ بِاسْتِمَاتَةٍ عَنْ مَبْدَأِ الْمُسَاوَاةِ الْقَانُونِيَّةِ الْمُطْلَقَةِ.",
+          "en": "The civil rights movement consistently championed the principle of absolute legal equality."
+        }
+      ]
+    },
+    {
+      "id": "rhet_09b",
+      "infinitive": "beanstanden",
+      "translation_ar": "يَعْتَرِضُ رَسْمِيًّا / يَنْتَقِدُ خَلَلاً",
+      "translation_en": "to object to / to find fault with",
+      "construction": "transitiv (einen Formfehler beanstanden)",
+      "present_third": "beanstandet",
+      "preterite_third": "beanstandete",
+      "perfect_third": "hat beanstandet",
+      "svg_id": "svg_rhet_beanstanden",
+      "examples": [
+        {
+          "de": "Der Rechnungshof beanstandete erhebliche Unregelmäßigkeiten im Etat.",
+          "ar": "اعْتَرَضَتْ هَيْئَةُ الرَّقَابَةِ الْمَالِيَّةِ عَلَى خَلَلٍ جَسِيمٍ فِي الْمِيزَانِيَّةِ.",
+          "en": "The court of audit objected to substantial irregularities in the budget."
+        }
+      ]
+    },
+    {
+      "id": "rhet_10",
+      "infinitive": "konzedieren",
+      "translation_ar": "يُسَلِّمُ جَدَلِيًّا بِصِحَّةِ جُزْءٍ مِنْ رَأْيِ الْخَصْمِ",
+      "translation_en": "to concede / to admit dialectically",
+      "construction": "transitiv / + dass-Satz",
+      "present_third": "konzediert",
+      "preterite_third": "konzedierte",
+      "perfect_third": "hat konzediert",
+      "svg_id": "svg_rhet_konzedieren",
+      "examples": [
+        {
+          "de": "Der Debattierende konzedierte, dass die Gegenseite in einem Punkt recht hatte.",
+          "ar": "سَلَّمَ الْمُنَاظِرُ جَدَلِيًّا بِأَنَّ الطَّرَفَ الْمُقَابِلَ كَانَ عَلَى حَقٍّ فِي نُقْطَةٍ وَاحِدَةٍ.",
+          "en": "The debater conceded that the opposing side was right on one point."
+        }
+      ]
+    },
+    {
+      "id": "rhet_11",
+      "infinitive": "proklamieren",
+      "translation_ar": "يُعْلِنُ جِهَارًا / يُنَادِي بِمَبْدَأٍ رَسْمِيًّا",
+      "translation_en": "to proclaim / to declare publicly",
+      "construction": "transitiv",
+      "present_third": "proklamiert",
+      "preterite_third": "proklamierte",
+      "perfect_third": "hat proklamiert",
+      "svg_id": "svg_rhet_proklamieren",
+      "examples": [
+        {
+          "de": "Das Manifest proklamierte den Beginn einer neuen soziokulturellen Ära.",
+          "ar": "أَعْلَنَ الْبَيَانُ جِهَارًا بَدْءَ حِقْبَةٍ سُوسْيُوثَقَافِيَّةٍ جَدِيدَةٍ.",
+          "en": "The manifesto proclaimed the beginning of a new sociocultural era."
+        }
+      ]
+    },
+    {
+      "id": "rhet_12",
+      "infinitive": "suggerieren",
+      "translation_ar": "يُوحِي ضِمْنِيًّا / يَبُثُّ فِكْرَةً فِي الذِّهْنِ",
+      "translation_en": "to suggest implicitly",
+      "construction": "transitiv / + dass-Satz",
+      "present_third": "suggeriert",
+      "preterite_third": "suggerierte",
+      "perfect_third": "hat suggeriert",
+      "svg_id": "svg_rhet_suggerieren",
+      "examples": [
+        {
+          "de": "Die Werbekampagne suggeriert dem Konsumenten ein Gefühl von Exklusivität.",
+          "ar": "تُوحِي الْحَمْلَةُ الإِعْلَانِيَّةُ لِلْمُسْتَهْلِكِ بِشُعُورٍ مِنَ التَّمَيُّزِ وَالْحَصْرِيَّةِ.",
+          "en": "The advertising campaign suggests a sense of exclusivity to the consumer."
+        }
+      ]
+    },
+    {
+      "id": "rhet_13",
+      "infinitive": "polemisieren",
+      "translation_ar": "يُهَاجِمُ بِحِدَّةٍ / يُثِيرُ جَدَلاً عَنِيفًا",
+      "translation_en": "to polemicize / to engage in polemics",
+      "construction": "polemisieren gegen + Akk",
+      "present_third": "polemisiert",
+      "preterite_third": "polemisierte",
+      "perfect_third": "hat polemisiert",
+      "svg_id": "svg_rhet_polemisieren",
+      "examples": [
+        {
+          "de": "Der Kolumnist polemisierte scharf gegen die verfehlte Bildungspolitik.",
+          "ar": "هَاجَمَ كَاتِبُ الْعَمُودِ الصَّحَفِيِّ السِّيَاسَةَ التَّعْلِيمِيَّةَ الْفَاشِلَةَ بِحِدَّةٍ بَالِغَةٍ.",
+          "en": "The columnist polemicized sharply against the failed education policy."
+        }
+      ]
+    },
+    {
+      "id": "rhet_14",
+      "infinitive": "exemplifizieren",
+      "translation_ar": "يُمَثِّلُ لِـ / يُوَضِّحُ بِأَمْثِلَةٍ نَمُوذَجِيَّةٍ",
+      "translation_en": "to exemplify",
+      "construction": "transitiv / exemplifizieren durch + Akk",
+      "present_third": "exemplifiziert",
+      "preterite_third": "exemplifizierte",
+      "perfect_third": "hat exemplifiziert",
+      "svg_id": "svg_rhet_exemplifizieren",
+      "examples": [
+        {
+          "de": "Der Dozent exemplifizierte die abstrakte Theorie anhand historischer Fallstudien.",
+          "ar": "وَضَّحَ الْمُحَاضِرُ النَّظَرِيَّةَ الْمُجَرَّدَةَ بِأَمْثِلَةٍ عَبْرَ دِرَاسَاتِ حَالَةٍ تَارِيخِيَّةٍ.",
+          "en": "The lecturer exemplified the abstract theory using historical case studies."
+        }
+      ]
+    },
+    {
+      "id": "rhet_15",
+      "infinitive": "thematisieren",
+      "translation_ar": "يَجْعَلُهُ مِحْوَرَ حَدِيثٍ / يَتَنَاوَلُ مَوْضُوعًا",
+      "translation_en": "to thematize / to make a topic of discussion",
+      "construction": "transitiv",
+      "present_third": "thematisiert",
+      "preterite_third": "thematisierte",
+      "perfect_third": "hat thematisiert",
+      "svg_id": "svg_rhet_thematisieren",
+      "examples": [
+        {
+          "de": "Die Konferenz thematisierte die globalen Herausforderungen der Energiewende.",
+          "ar": "جَعَلَ الْمُؤْتَمَرُ التَّحَدِّيَاتِ الْعَالَمِيَّةَ لِلتَّحَوُّلِ الطَّاقِيِّ مِحْوَرَ نِقَاشَاتِهِ.",
+          "en": "The conference thematized the global challenges of the energy transition."
+        }
+      ]
+    },
+    {
+      "id": "rhet_16",
+      "infinitive": "appellieren",
+      "translation_ar": "يُنَاشِدُ / يَسْتَنْهِضُ الضَّمِيرَ أَوِ الْعَقْلَ",
+      "translation_en": "to appeal to",
+      "construction": "appellieren an + Akk",
+      "present_third": "appelliert",
+      "preterite_third": "appellierte",
+      "perfect_third": "hat appelliert",
+      "svg_id": "svg_rhet_appellieren",
+      "examples": [
+        {
+          "de": "Der UN-Generalsekretär appellierte an die Vernunft der Konfliktparteien.",
+          "ar": "نَاشَدَ الأَمِينُ الْعَامُّ لِلأُمَمِ الْمُتَّحِدَةِ ضَمِيرَ وَعَقْلَ أَطْرَافِ النِّزَاعِ.",
+          "en": "The UN Secretary-General appealed to the reason of the conflicting parties."
+        }
+      ]
+    },
+    {
+      "id": "rhet_17",
+      "infinitive": "differenzieren",
+      "translation_ar": "يُمَيِّزُ بِدِقَّةٍ / يُفَرِّقُ بَيْنَ الْحَالَاتِ",
+      "translation_en": "to differentiate / to distinguish precisely",
+      "construction": "differenzieren zwischen + Dat",
+      "present_third": "differenziert",
+      "preterite_third": "differenzierte",
+      "perfect_third": "hat differenziert",
+      "svg_id": "svg_rhet_differenzieren",
+      "examples": [
+        {
+          "de": "Wissenschaftler müssen sorgfältig zwischen Korrelation und Kausalität differenzieren.",
+          "ar": "يَجِبُ عَلَى الْعُلَمَاءِ التَّمْيِيزُ الدَّقِيقُ بَيْنَ الارْتِبَاطِ الإِحْصَائِيِّ وَالسَّبَبِيَّةِ.",
+          "en": "Scientists must carefully differentiate between correlation and causality."
+        }
+      ]
+    },
+    {
+      "id": "rhet_18",
+      "infinitive": "hinterfragen",
+      "translation_ar": "يُسَائِلُ نَقْدِيًّا / يَبْحَثُ خَلْفَ الْمُسَلَّمَاتِ",
+      "translation_en": "to scrutinize / to question critically",
+      "construction": "transitiv (Selbstverständlichkeiten hinterfragen)",
+      "present_third": "hinterfragt",
+      "preterite_third": "hinterfragte",
+      "perfect_third": "hat hinterfragt",
+      "svg_id": "svg_rhet_hinterfragen",
+      "examples": [
+        {
+          "de": "Kritisches Denken verlangt, überkommene Dogmen unerschrocken zu hinterfragen.",
+          "ar": "يَتَطَلَّبُ التَّفْكِيرُ النَّقْدِيُّ مُسَاءَلَةَ الْعَقَائِدِ الْمَوْرُوثَةِ دُونَ خَوْفٍ.",
+          "en": "Critical thinking demands fearlessly scrutinizing inherited dogmas."
+        }
+      ]
+    },
+    {
+      "id": "rhet_19",
+      "infinitive": "pointieren",
+      "translation_ar": "يُصِيغُ الْفِكْرَةَ بِإِيجَازٍ بَلِيغٍ وَحَاذِقٍ",
+      "translation_en": "to express trenchantly / to point up",
+      "construction": "transitiv",
+      "present_third": "pointiert",
+      "preterite_third": "pointierte",
+      "perfect_third": "hat pointiert",
+      "svg_id": "svg_rhet_pointieren",
+      "examples": [
+        {
+          "de": "Der Essayist verstand es, komplexe Thesen meisterhaft zu pointieren.",
+          "ar": "أَتْقَنَ كَاتِبُ الْمَقَالِ صِيَاغَةَ الأُطْرُوحَاتِ الْمُعَقَّدَةِ بِإِيجَازٍ بَلِيغٍ وَبَارِعٍ.",
+          "en": "The essayist understood how to point up complex theses masterfully."
+        }
+      ]
+    }
+  ]
+}
