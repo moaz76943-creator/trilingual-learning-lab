@@ -1,5 +1,5 @@
 {
-  "count": 270,
+  "count": 275,
   "sentences": [
     {
       "id": "sent_001",
@@ -4911,6 +4911,128 @@
         "Fokus."
       ],
       "grammar_point": "Fixed idiom 'in den Fokus rücken' with prepositional phrase 'nach + Dat' and genitive attribute in milestone 270"
+    },
+    {
+      "id": "sent_271",
+      "category": "Philosophy of Mind",
+      "german": "Hochentwickelte künstliche Systeme können menschliche Emotionen täuschend echt simulieren ohne sie wahrhaftig zu empfinden.",
+      "arabic": "تَسْتَطِيعُ الأَنْظِمَةُ الاصْطِنَاعِيَّةُ الْمُتَقَدِّمَةُ مُحَاكَاةَ الْمَشَاعِرِ الإِنْسَانِيَّةِ بِشَكْلٍ يُقَارِبُ الْوَاقِعَ دُونَ أَنْ تَشْعُرَ بِهَا حَقًّا.",
+      "english": "Highly developed artificial systems can simulate human emotions deceptively realistically without genuinely feeling them.",
+      "tokens": [
+        "Hochentwickelte",
+        "künstliche",
+        "Systeme",
+        "können",
+        "menschliche",
+        "Emotionen",
+        "täuschend",
+        "echt",
+        "simulieren",
+        "ohne",
+        "sie",
+        "wahrhaftig",
+        "zu",
+        "empfinden."
+      ],
+      "grammar_point": "Modal construction 'können + Infinitiv' combined with infinitive clause with preposition 'ohne ... zu empfinden'"
+    },
+    {
+      "id": "sent_272",
+      "category": "Philosophy of Mind",
+      "german": "Die Philosophie des Geistes untersucht wie phänomenales Bewusstsein aus komplexen elektrochemischen Prozessen emergiert.",
+      "arabic": "تَبْحَثُ فَلْسَفَةُ الْعَقْلِ فِي كَيْفِيَّةِ انْبِثَاقِ الْوَعْيِ الظَّاهِرَاتِيِّ مِنْ عَمَلِيَّاتٍ كَهْرُوكِيمْيَائِيَّةٍ مُعَقَّدَةٍ.",
+      "english": "The philosophy of mind investigates how phenomenal consciousness emerges from complex electrochemical processes.",
+      "tokens": [
+        "Die",
+        "Philosophie",
+        "des",
+        "Geistes",
+        "untersucht",
+        "wie",
+        "phänomenales",
+        "Bewusstsein",
+        "aus",
+        "komplexen",
+        "elektrochemischen",
+        "Prozessen",
+        "emergiert."
+      ],
+      "grammar_point": "Interrogative subordinate clause with 'wie' and prepositional phrase 'aus + Dat'"
+    },
+    {
+      "id": "sent_273",
+      "category": "Philosophy of Mind",
+      "german": "Um ethische Verantwortung zu tragen müssen autonome Agenten in der Lage sein über ihre Handlungsgründe zu reflektieren.",
+      "arabic": "لِتَحَمُّلِ الْمَسْؤُولِيَّةِ الأَخْلَاقِيَّةِ، يَجِبُ أَنْ يَكُونَ الْوُكَلَاءُ الْمُسْتَقِلُّونَ قَادِرِينَ عَلَى التَّأَمُّلِ فِي دَوَافِعِ أَفْعَالِهِمْ.",
+      "english": "To bear ethical responsibility, autonomous agents must be capable of reflecting upon their reasons for action.",
+      "tokens": [
+        "Um",
+        "ethische",
+        "Verantwortung",
+        "zu",
+        "tragen",
+        "müssen",
+        "autonome",
+        "Agenten",
+        "in",
+        "der",
+        "Lage",
+        "sein",
+        "über",
+        "ihre",
+        "Handlungsgründe",
+        "zu",
+        "reflektieren."
+      ],
+      "grammar_point": "Final clause (um ... zu tragen) followed by idiom 'in der Lage sein + zu + Infinitiv' governing 'über + Akk'"
+    },
+    {
+      "id": "sent_274",
+      "category": "Philosophy of Mind",
+      "german": "Kognitionswissenschaftler mentalisieren fremde Absichten indem sie verborgene mentale Zustände hinter beobachtbarem Verhalten postulieren.",
+      "arabic": "يَسْتَشْعِرُ عُلَمَاءُ الإِدْرَاكِ مَقَاصِدَ الآخَرِينَ مِنْ خِلَالِ افْتِرَاضِ حَالَاتٍ ذِهْنِيَّةٍ خَفِيَّةٍ وَرَاءَ السُّلُوكِ الْمَلْحُوظِ.",
+      "english": "Cognitive scientists mentalize others' intentions by postulating hidden mental states behind observable behavior.",
+      "tokens": [
+        "Kognitionswissenschaftler",
+        "mentalisieren",
+        "fremde",
+        "Absichten",
+        "indem",
+        "sie",
+        "verborgene",
+        "mentale",
+        "Zustände",
+        "hinter",
+        "beobachtbarem",
+        "Verhalten",
+        "postulieren."
+      ],
+      "grammar_point": "Modal subordinate clause with 'indem' and prepositional phrase 'hinter + Dat'"
+    },
+    {
+      "id": "sent_275",
+      "category": "Philosophy of Mind",
+      "german": "Das menschliche Bewusstsein vermag es abstrakte Gedankenmodelle mühelos zu vergegenwärtigen und sprachlich präzise zu artikulieren.",
+      "arabic": "يَسْتَطِيعُ الْوَعْيُ الْبَشَرِيُّ اسْتِحْضَارَ النَّمَاذِجِ الْفِكْرِيَّةِ الْمُجَرَّدَةِ بِسُهُولَةٍ وَالتَّعْبِيرَ عَنْهَا لُغَوِيًّا بِدِقَّةٍ.",
+      "english": "Human consciousness is capable of effortlessly visualizing abstract mental models and articulating them linguistically precisely.",
+      "tokens": [
+        "Das",
+        "menschliche",
+        "Bewusstsein",
+        "vermag",
+        "es",
+        "abstrakte",
+        "Gedankenmodelle",
+        "mühelos",
+        "zu",
+        "vergegenwärtigen",
+        "und",
+        "sprachlich",
+        "präzise",
+        "zu",
+        "artikulieren."
+      ],
+      "grammar_point": "Formal modal verb 'vermögen' with anticipatory 'es' and coordinated infinitive clauses in milestone 275"
     }
   ]
 }

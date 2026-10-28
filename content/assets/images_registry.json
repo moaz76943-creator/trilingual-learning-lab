@@ -12821,5 +12821,165 @@
     "label_de": "die transhumane Selbstreflexion",
     "label_ar": "التَّأَمُّلُ الذَّاتِيُّ مَا بَعْدَ الإِنْسَانِيِّ",
     "label_en": "transhuman self-reflection"
+  },
+  "svg_mindv_empfinden": {
+    "file": "svg_mindv_empfinden.svg",
+    "path": "content/assets/svg/svg_mindv_empfinden.svg",
+    "category": "philosophy_of_mind_verbs_b2_c1",
+    "label_de": "empfinden",
+    "label_ar": "يَشْعُرُ وِجْدَانِيًّا / يُحِسُّ ظَاهِرَاتِيًّا (Qualia)",
+    "label_en": "to sense phenomenally / to feel subjective experience"
+  },
+  "svg_mindv_intentionalisieren": {
+    "file": "svg_mindv_intentionalisieren.svg",
+    "path": "content/assets/svg/svg_mindv_intentionalisieren.svg",
+    "category": "philosophy_of_mind_verbs_b2_c1",
+    "label_de": "intentionalisieren",
+    "label_ar": "يُضْفِي الْقَصْدِيَّةَ / يَنْسُبُ النَّوَايَا وَالدَّلَالَاتِ لِلسُّلُوكِ",
+    "label_en": "to attribute intentionality to behavior"
+  },
+  "svg_mindv_emergieren": {
+    "file": "svg_mindv_emergieren.svg",
+    "path": "content/assets/svg/svg_mindv_emergieren.svg",
+    "category": "philosophy_of_mind_verbs_b2_c1",
+    "label_de": "emergieren",
+    "label_ar": "يَنْبَثِقُ كَخَاصِّيَّةٍ كُلِّيَّةٍ مِنْ تَفَاعُلِ الأَجْزَاءِ (Emergenz)",
+    "label_en": "to emerge as a higher-order property"
+  },
+  "svg_mindv_reflektieren": {
+    "file": "svg_mindv_reflektieren.svg",
+    "path": "content/assets/svg/svg_mindv_reflektieren.svg",
+    "category": "philosophy_of_mind_verbs_b2_c1",
+    "label_de": "reflektieren",
+    "label_ar": "يَتَأَمَّلُ ذَاتِيًّا فِي أَحْوَالِ الْعَقْلِ وَشُرُوطِ الْوَعْيِ",
+    "label_en": "to self-reflect upon cognitive states"
+  },
+  "svg_mindv_postulieren": {
+    "file": "svg_mindv_postulieren.svg",
+    "path": "content/assets/svg/svg_mindv_postulieren.svg",
+    "category": "philosophy_of_mind_verbs_b2_c1",
+    "label_de": "postulieren",
+    "label_ar": "يَفْتَرِضُ كَبَدِيهِيَّةٍ عَقْلِيَّةٍ لَا بُدَّ مِنْهَا",
+    "label_en": "to postulate (mental entities or axioms)"
+  },
+  "svg_mindv_simulieren": {
+    "file": "svg_mindv_simulieren.svg",
+    "path": "content/assets/svg/svg_mindv_simulieren.svg",
+    "category": "philosophy_of_mind_verbs_b2_c1",
+    "label_de": "simulieren",
+    "label_ar": "يُحَاكِي حِسَابِيًّا عَمَلِيَّاتِ التَّفْكِيرِ دُونَ مَعِيشٍ دَاخِلِيٍّ",
+    "label_en": "to simulate cognitively without inner experience"
+  },
+  "svg_mindv_abstrahieren": {
+    "file": "svg_mindv_abstrahieren.svg",
+    "path": "content/assets/svg/svg_mindv_abstrahieren.svg",
+    "category": "philosophy_of_mind_verbs_b2_c1",
+    "label_de": "abstrahieren",
+    "label_ar": "يُجَرِّدُ الْمَفَاهِيمَ عَنِ الْمَادَّةِ الْعَيْنِيَّةِ لِفَهْمِ الْكُلِّيَّاتِ",
+    "label_en": "to abstract from empirical specifics"
+  },
+  "svg_mindv_transzendieren": {
+    "file": "svg_mindv_transzendieren.svg",
+    "path": "content/assets/svg/svg_mindv_transzendieren.svg",
+    "category": "philosophy_of_mind_verbs_b2_c1",
+    "label_de": "transzendieren",
+    "label_ar": "يَتَسَامَى فَوْقَ الْحُدُودِ الْحِسِّيَّةِ وَالْمَادِّيَّةِ لِلْجَسَدِ",
+    "label_en": "to transcend corporeal constraints"
+  },
+  "svg_mindv_vergegenwaertigen": {
+    "file": "svg_mindv_vergegenwaertigen.svg",
+    "path": "content/assets/svg/svg_mindv_vergegenwaertigen.svg",
+    "category": "philosophy_of_mind_verbs_b2_c1",
+    "label_de": "vergegenwärtigen",
+    "label_ar": "يَسْتَحْضِرُ فِي الْوَعْيِ حَالَةً ذِهْنِيَّةً أَوْ فِكْرَةً غَائِبَةً",
+    "label_en": "to bring to conscious presence / to visualize"
+  },
+  "svg_mindv_konstituieren": {
+    "file": "svg_mindv_konstituieren.svg",
+    "path": "content/assets/svg/svg_mindv_konstituieren.svg",
+    "category": "philosophy_of_mind_verbs_b2_c1",
+    "label_de": "konstituieren",
+    "label_ar": "يُؤَسِّسُ قِوَامَ الإِدْرَاكِ وَالْخِبْرَةِ الْوَاعِيَةِ",
+    "label_en": "to constitute conscious experience"
+  },
+  "svg_mindv_entkoerpern": {
+    "file": "svg_mindv_entkoerpern.svg",
+    "path": "content/assets/svg/svg_mindv_entkoerpern.svg",
+    "category": "philosophy_of_mind_verbs_b2_c1",
+    "label_de": "entkörpern",
+    "label_ar": "يُجَرِّدُ الْفِكْرَ مِنَ الْجَسَدِ الْمَادِّيِّ (Disembodiment)",
+    "label_en": "to disembody / to divorce mind from physical form"
+  },
+  "svg_mindv_verinnerlichen": {
+    "file": "svg_mindv_verinnerlichen.svg",
+    "path": "content/assets/svg/svg_mindv_verinnerlichen.svg",
+    "category": "philosophy_of_mind_verbs_b2_c1",
+    "label_de": "verinnerlichen",
+    "label_ar": "يَسْتَبْطِنُ / يُذَوِّتُ الْقِيَمَ وَالْمَعَايِيرَ فِي صَمِيمِ الْوَعْيِ",
+    "label_en": "to internalize deeply into consciousness"
+  },
+  "svg_mindv_projizieren": {
+    "file": "svg_mindv_projizieren.svg",
+    "path": "content/assets/svg/svg_mindv_projizieren.svg",
+    "category": "philosophy_of_mind_verbs_b2_c1",
+    "label_de": "projizieren",
+    "label_ar": "يُسْقِطُ الْحَالَاتِ النَّفْسِيَّةَ وَالْمَشَاعِرَ عَلَى الآلَاتِ",
+    "label_en": "to project emotional states onto machines"
+  },
+  "svg_mindv_mentalisieren": {
+    "file": "svg_mindv_mentalisieren.svg",
+    "path": "content/assets/svg/svg_mindv_mentalisieren.svg",
+    "category": "philosophy_of_mind_verbs_b2_c1",
+    "label_de": "mentalisieren",
+    "label_ar": "يَعْزُو الْحَالَاتِ الذِّهْنِيَّةَ لِلْغَيْرِ لِتَفْسِيرِ مَقَاصِدِهِمْ (Theory of Mind)",
+    "label_en": "to mentalize / to attribute beliefs and desires"
+  },
+  "svg_mindv_dissoziieren": {
+    "file": "svg_mindv_dissoziieren.svg",
+    "path": "content/assets/svg/svg_mindv_dissoziieren.svg",
+    "category": "philosophy_of_mind_verbs_b2_c1",
+    "label_de": "dissoziieren",
+    "label_ar": "يَنْفَصِلُ بِالْوَعْيِ عَنِ الإِدْرَاكِ الْحِسِّيِّ الْمُبَاشِرِ",
+    "label_en": "to dissociate cognitively"
+  },
+  "svg_mindv_konzipieren": {
+    "file": "svg_mindv_konzipieren.svg",
+    "path": "content/assets/svg/svg_mindv_konzipieren.svg",
+    "category": "philosophy_of_mind_verbs_b2_c1",
+    "label_de": "konzipieren",
+    "label_ar": "يَصُوغُ تَصَوُّرًا ذِهْنِيًّا أَوْ نَظَرِيَّةً فَلْسَفِيَّةً",
+    "label_en": "to conceptualize / to conceive mentally"
+  },
+  "svg_mindv_kognizieren": {
+    "file": "svg_mindv_kognizieren.svg",
+    "path": "content/assets/svg/svg_mindv_kognizieren.svg",
+    "category": "philosophy_of_mind_verbs_b2_c1",
+    "label_de": "kognizieren",
+    "label_ar": "يَعْقِلُ / يُدْرِكُ مَعْرِفِيًّا مَعَانِيَ الأَشْيَاءِ",
+    "label_en": "to cognize / to comprehend conceptually"
+  },
+  "svg_mindv_personifizieren": {
+    "file": "svg_mindv_personifizieren.svg",
+    "path": "content/assets/svg/svg_mindv_personifizieren.svg",
+    "category": "philosophy_of_mind_verbs_b2_c1",
+    "label_de": "personifizieren",
+    "label_ar": "يُشَخْصِنُ / يُسْبِغُ صِفَاتِ الشَّخْصِ عَلَى كِيَانَاتٍ اصْطِنَاعِيَّةٍ",
+    "label_en": "to personify artificial entities"
+  },
+  "svg_mindv_differenzieren": {
+    "file": "svg_mindv_differenzieren.svg",
+    "path": "content/assets/svg/svg_mindv_differenzieren.svg",
+    "category": "philosophy_of_mind_verbs_b2_c1",
+    "label_de": "differenzieren",
+    "label_ar": "يُمَيِّزُ بِدِقَّةٍ بَيْنَ الْوَعْيِ الْحَقِيقِيِّ وَالْمُحَاكَاةِ الصُّورِيَّةِ",
+    "label_en": "to differentiate strictly between feeling and simulation"
+  },
+  "svg_mindv_artikulieren": {
+    "file": "svg_mindv_artikulieren.svg",
+    "path": "content/assets/svg/svg_mindv_artikulieren.svg",
+    "category": "philosophy_of_mind_verbs_b2_c1",
+    "label_de": "artikulieren",
+    "label_ar": "يُعَبِّرُ لَفْظِيًّا وَبِدِقَّةٍ عَنِ الْمَشَاعِرِ وَالأَفْكَارِ الْبَاطِنِيَّةِ",
+    "label_en": "to articulate inner states verbally"
   }
 }

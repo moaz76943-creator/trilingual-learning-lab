@@ -1,0 +1,370 @@
+{
+  "engine_id": "philosophy_of_mind_verbs_b2_c1",
+  "title_ar": "أفعال فلسفة العقل والوعي الاصطناعي والإدراك الوجداني",
+  "title_de": "Verben der Philosophie des Geistes, Sentienz und des Bewusstseins (B2/C1)",
+  "title_en": "Philosophy of Mind, Machine Consciousness & Sentience Verbs (B2/C1)",
+  "level": "B2/C1",
+  "count": 20,
+  "verbs": [
+    {
+      "id": "mindv_01",
+      "infinitive": "empfinden",
+      "translation_ar": "يَشْعُرُ وِجْدَانِيًّا / يُحِسُّ ظَاهِرَاتِيًّا (Qualia)",
+      "translation_en": "to sense phenomenally / to feel subjective experience",
+      "construction": "transitiv (Schmerz oder Freude empfinden)",
+      "present_third": "empfindet",
+      "preterite_third": "empfand",
+      "perfect_third": "hat empfunden",
+      "svg_id": "svg_mindv_empfinden",
+      "examples": [
+        {
+          "de": "Obwohl künstliche Agenten Schmerzreaktionen imitieren können, ist unklar, ob sie echtes Leid empfinden.",
+          "ar": "رَغْمَ قُدْرَةِ الْوُكَلَاءِ الاصْطِنَاعِيِّينَ عَلَى مُحَاكَاةِ رُدُودِ فِعْلِ الأَلَمِ، يَظَلُّ غَيْرَ وَاضِحٍ مَا إِذَا كَانُوا يَشْعُرُونَ بِمُعَانَاةٍ حَقِيقِيَّةٍ.",
+          "en": "Although artificial agents can imitate pain reactions, it remains unclear whether they genuinely feel suffering."
+        }
+      ]
+    },
+    {
+      "id": "mindv_02",
+      "infinitive": "intentionalisieren",
+      "translation_ar": "يُضْفِي الْقَصْدِيَّةَ / يَنْسُبُ النَّوَايَا وَالدَّلَالَاتِ لِلسُّلُوكِ",
+      "translation_en": "to attribute intentionality to behavior",
+      "construction": "transitiv (Handlungen intentionalisieren)",
+      "present_third": "intentionalisiert",
+      "preterite_third": "intentionalisierte",
+      "perfect_third": "hat intentionalisiert",
+      "svg_id": "svg_mindv_intentionalisieren",
+      "examples": [
+        {
+          "de": "Beobachter neigen dazu, die berechneten Züge autonomer Roboter menschlich zu intentionalisieren.",
+          "ar": "يَمِيلُ الْمُرَاقِبُونَ إِلَى إِضْفَاءِ الْقَصْدِيَّةِ بِمَعْنًى إِنْسَانِيٍّ عَلَى تَصَرُّفَاتِ الرُّوبُوتَاتِ الْمُسْتَقِلَّةِ.",
+          "en": "Observers tend to humanly intentionalize the calculated moves of autonomous robots."
+        }
+      ]
+    },
+    {
+      "id": "mindv_03",
+      "infinitive": "emergieren",
+      "translation_ar": "يَنْبَثِقُ كَخَاصِّيَّةٍ كُلِّيَّةٍ مِنْ تَفَاعُلِ الأَجْزَاءِ (Emergenz)",
+      "translation_en": "to emerge as a higher-order property",
+      "construction": "emergieren aus + Dat",
+      "present_third": "emergiert",
+      "preterite_third": "emergierte",
+      "perfect_third": "ist emergiert",
+      "svg_id": "svg_mindv_emergieren",
+      "examples": [
+        {
+          "de": "Kognitionswissenschaftler erforschen, wie phänomenales Bewusstsein aus synaptischen Schaltkreisen emergiert.",
+          "ar": "يَبْحَثُ عُلَمَاءُ الإِدْرَاكِ فِي كَيْفِيَّةِ انْبِثَاقِ الْوَعْيِ الظَّاهِرَاتِيِّ مِنْ شَبَكَاتِ التَّوْصِيلِ الْمِشْبَكِيَّةِ.",
+          "en": "Cognitive scientists investigate how phenomenal consciousness emerges from synaptic circuits."
+        }
+      ]
+    },
+    {
+      "id": "mindv_04",
+      "infinitive": "reflektieren",
+      "translation_ar": "يَتَأَمَّلُ ذَاتِيًّا فِي أَحْوَالِ الْعَقْلِ وَشُرُوطِ الْوَعْيِ",
+      "translation_en": "to self-reflect upon cognitive states",
+      "construction": "reflektieren über + Akk",
+      "present_third": "reflektiert",
+      "preterite_third": "reflektierte",
+      "perfect_third": "hat reflektiert",
+      "svg_id": "svg_mindv_reflektieren",
+      "examples": [
+        {
+          "de": "Ein reflexives Subjekt vermag über die Voraussetzungen seiner eigenen Urteilsbildung nachzudenken.",
+          "ar": "تَسْتَطِيعُ الذَّاتُ الْمُتَأَمِّلَةُ التَّفْكِيرَ فِي شُرُوطِ وَمُقَدِّمَاتِ تَشْكِيلِ أَحْكَامِهَا الْخَاصَّةِ.",
+          "en": "A reflective subject is capable of contemplating the prerequisites of its own judgment formation."
+        }
+      ]
+    },
+    {
+      "id": "mindv_05",
+      "infinitive": "postulieren",
+      "translation_ar": "يَفْتَرِضُ كَبَدِيهِيَّةٍ عَقْلِيَّةٍ لَا بُدَّ مِنْهَا",
+      "translation_en": "to postulate (mental entities or axioms)",
+      "construction": "transitiv / + dass-Satz",
+      "present_third": "postuliert",
+      "preterite_third": "postulierte",
+      "perfect_third": "hat postuliert",
+      "svg_id": "svg_mindv_postulieren",
+      "examples": [
+        {
+          "de": "Dualistische Philosophen postulieren die Existenz einer nichtphysischen mentalen Substanz.",
+          "ar": "يَفْتَرِضُ الْفَلَاسِفَةُ الثُّنَائِيُّونَ وُجُودَ جَوْهَرٍ رُوحِيٍّ ذِهْنِيٍّ غَيْرِ مَادِّيٍّ.",
+          "en": "Dualist philosophers postulate the existence of a non-physical mental substance."
+        }
+      ]
+    },
+    {
+      "id": "mindv_06",
+      "infinitive": "simulieren",
+      "translation_ar": "يُحَاكِي حِسَابِيًّا عَمَلِيَّاتِ التَّفْكِيرِ دُونَ مَعِيشٍ دَاخِلِيٍّ",
+      "translation_en": "to simulate cognitively without inner experience",
+      "construction": "transitiv (mentale Prozesse simulieren)",
+      "present_third": "simuliert",
+      "preterite_third": "simulierte",
+      "perfect_third": "hat simuliert",
+      "svg_id": "svg_mindv_simulieren",
+      "examples": [
+        {
+          "de": "Rechnerprogramme simulieren logisches Schließen mit atemberaubender Geschwindigkeit.",
+          "ar": "تُحَاكِي بَرَامِجُ الْحَاسُوبِ الاسْتِدْلَالَ الْمَنْطِقِيَّ بِسُرْعَةٍ تَخْطَفُ الأَنْفَاسَ.",
+          "en": "Computer programs simulate logical reasoning with breathtaking speed."
+        }
+      ]
+    },
+    {
+      "id": "mindv_07",
+      "infinitive": "abstrahieren",
+      "translation_ar": "يُجَرِّدُ الْمَفَاهِيمَ عَنِ الْمَادَّةِ الْعَيْنِيَّةِ لِفَهْمِ الْكُلِّيَّاتِ",
+      "translation_en": "to abstract from empirical specifics",
+      "construction": "abstrahieren von + Dat",
+      "present_third": "abstrahiert",
+      "preterite_third": "abstrahierte",
+      "perfect_third": "hat abstrahiert",
+      "svg_id": "svg_mindv_abstrahieren",
+      "examples": [
+        {
+          "de": "Menschliche Intelligenz zeichnet sich dadurch aus, von konkreten Einzelfällen universale Regeln zu abstrahieren.",
+          "ar": "يَتَمَيَّزُ الذَّكَاءُ الْبَشَرِيُّ بِقُدْرَتِهِ عَلَى تَجْرِيدِ قَوَاعِدَ كُلِّيَّةٍ مِنَ الْحَالَاتِ الْفَرْدِيَّةِ الْمَلْمُوسَةِ.",
+          "en": "Human intelligence is distinguished by abstracting universal rules from concrete individual cases."
+        }
+      ]
+    },
+    {
+      "id": "mindv_08",
+      "infinitive": "transzendieren",
+      "translation_ar": "يَتَسَامَى فَوْقَ الْحُدُودِ الْحِسِّيَّةِ وَالْمَادِّيَّةِ لِلْجَسَدِ",
+      "translation_en": "to transcend corporeal constraints",
+      "construction": "transitiv",
+      "present_third": "transzendiert",
+      "preterite_third": "transzendierte",
+      "perfect_third": "hat transzendiert",
+      "svg_id": "svg_mindv_transzendieren",
+      "examples": [
+        {
+          "de": "Transhumanistische Visionen erhoffen sich, biologische Begrenzungen durch neuronale Schnittstellen zu transzendieren.",
+          "ar": "تَأْمُلُ الرُّؤَى مَا بَعْدَ الإِنْسَانِيَّةِ فِي تَجَاوُزِ الْقُيُودِ الْبَيُولُوجِيَّةِ عَبْرَ الْوَاجِهَاتِ الْعَصَبِيَّةِ.",
+          "en": "Transhumanist visions aspire to transcend biological limitations through neural interfaces."
+        }
+      ]
+    },
+    {
+      "id": "mindv_09",
+      "infinitive": "vergegenwärtigen",
+      "translation_ar": "يَسْتَحْضِرُ فِي الْوَعْيِ حَالَةً ذِهْنِيَّةً أَوْ فِكْرَةً غَائِبَةً",
+      "translation_en": "to bring to conscious presence / to visualize",
+      "construction": "sich (Dat) + Akk vergegenwärtigen",
+      "present_third": "vergegenwärtigt",
+      "preterite_third": "vergegenwärtigte",
+      "perfect_third": "hat vergegenwärtigt",
+      "svg_id": "svg_mindv_vergegenwaertigen",
+      "examples": [
+        {
+          "de": "Im inneren Monolog vergegenwärtigt sich das Subjekt vergangene Szenen in lebendigen Bildern.",
+          "ar": "يَسْتَحْضِرُ الْفَرْدُ فِي مُنَاجَاتِهِ الدَّاخِلِيَّةِ مَشَاهِدَ الْمَاضِي فِي صُوَرٍ حَيَّةٍ.",
+          "en": "In inner monologue, the subject visualizes past scenes in vivid mental images."
+        }
+      ]
+    },
+    {
+      "id": "mindv_010",
+      "infinitive": "konstituieren",
+      "translation_ar": "يُؤَسِّسُ قِوَامَ الإِدْرَاكِ وَالْخِبْرَةِ الْوَاعِيَةِ",
+      "translation_en": "to constitute conscious experience",
+      "construction": "transitiv (Sinn und Erfahrung konstituieren)",
+      "present_third": "konstituiert",
+      "preterite_third": "konstituierte",
+      "perfect_third": "hat konstituiert",
+      "svg_id": "svg_mindv_konstituieren",
+      "examples": [
+        {
+          "de": "Phänomenologen betonen, dass intentionale Akte den objektiven Sinn der Umwelt konstituieren.",
+          "ar": "يُؤَكِّدُ الظَّاهِرَاتِيُّونَ أَنَّ الأَفْعَالَ الْقَصْدِيَّةَ هِيَ الَّتِي تُؤَسِّسُ الْمَعْنَى الْمَوْضُوعِيَّ لِلْعَالَمِ الْمُحِيطِ.",
+          "en": "Phenomenologists emphasize that intentional acts constitute the objective meaning of the environment."
+        }
+      ]
+    },
+    {
+      "id": "mindv_11",
+      "infinitive": "entkörpern",
+      "translation_ar": "يُجَرِّدُ الْفِكْرَ مِنَ الْجَسَدِ الْمَادِّيِّ (Disembodiment)",
+      "translation_en": "to disembody / to divorce mind from physical form",
+      "construction": "transitiv (Kognition entkörpern)",
+      "present_third": "entkörpert",
+      "preterite_third": "entkörperte",
+      "perfect_third": "hat entkörpert",
+      "svg_id": "svg_mindv_entkoerpern",
+      "examples": [
+        {
+          "de": "Frühe KI-Pioniere versuchten vergeblich, Intelligenz von ihrer physischen Verankerung zu entkörpern.",
+          "ar": "حَاوَلَ رُوَّادُ الذَّكَاءِ الاصْطِنَاعِيِّ الأَوَائِلُ دُونَ جَدْوَى تَجْرِيدَ الذَّكَاءِ مِنْ جُذُورِهِ الْجَسَدِيَّةِ.",
+          "en": "Early AI pioneers attempted in vain to disembody intelligence from its physical grounding."
+        }
+      ]
+    },
+    {
+      "id": "mindv_12",
+      "infinitive": "verinnerlichen",
+      "translation_ar": "يَسْتَبْطِنُ / يُذَوِّتُ الْقِيَمَ وَالْمَعَايِيرَ فِي صَمِيمِ الْوَعْيِ",
+      "translation_en": "to internalize deeply into consciousness",
+      "construction": "transitiv",
+      "present_third": "verinnerlicht",
+      "preterite_third": "verinnerlichte",
+      "perfect_third": "hat verinnerlicht",
+      "svg_id": "svg_mindv_verinnerlichen",
+      "examples": [
+        {
+          "de": "Durch Sozialisation verinnerlichen Individuen ethische Normen als innere handlungsleitende Instanz.",
+          "ar": "يَسْتَبْطِنُ الأَفْرَادُ عَبْرَ التَّنْشِئَةِ الاجْتِمَاعِيَّةِ الْمَعَايِيرَ الأَخْلَاقِيَّةَ كَسُلْطَةٍ دَاخِلِيَّةٍ تُوَجِّهُ السُّلُوكَ.",
+          "en": "Through socialization, individuals internalize ethical norms as an internal action-guiding authority."
+        }
+      ]
+    },
+    {
+      "id": "mindv_13",
+      "infinitive": "projizieren",
+      "translation_ar": "يُسْقِطُ الْحَالَاتِ النَّفْسِيَّةَ وَالْمَشَاعِرَ عَلَى الآلَاتِ",
+      "translation_en": "to project emotional states onto machines",
+      "construction": "projizieren + Akk + auf + Akk",
+      "present_third": "projiziert",
+      "preterite_third": "projizierte",
+      "perfect_third": "hat projiziert",
+      "svg_id": "svg_mindv_projizieren",
+      "examples": [
+        {
+          "de": "Nutzer projizieren oft Empathie und Absichten auf Sprachmodelle, die rein stochastisch operieren.",
+          "ar": "يُسْقِطُ الْمُسْتَخْدِمُونَ غَالِبًا التَّعَاطُفَ وَالنَّوَايَا عَلَى نَمَاذِجِ اللُّغَةِ الَّتِي تَعْمَلُ بِمَنْطِقٍ احْتِمَالِيٍّ بَحْتٍ.",
+          "en": "Users often project empathy and intentions onto language models that operate purely stochastically."
+        }
+      ]
+    },
+    {
+      "id": "mindv_14",
+      "infinitive": "mentalisieren",
+      "translation_ar": "يَعْزُو الْحَالَاتِ الذِّهْنِيَّةَ لِلْغَيْرِ لِتَفْسِيرِ مَقَاصِدِهِمْ (Theory of Mind)",
+      "translation_en": "to mentalize / to attribute beliefs and desires",
+      "construction": "transitiv",
+      "present_third": "mentalisiert",
+      "preterite_third": "mentalisierte",
+      "perfect_third": "hat mentalisiert",
+      "svg_id": "svg_mindv_mentalisieren",
+      "examples": [
+        {
+          "de": "Um erfolgreich zu kooperieren, müssen Menschen fähig sein, die mentalen Zustände ihrer Mitmenschen zu mentalisieren.",
+          "ar": "لِلتَّعَاوُنِ بِنَجَاحٍ، يَجِبُ أَنْ يَكُونَ الْبَشَرُ قَادِرِينَ عَلَى اسْتِشْعَارِ وَتَفْسِيرِ الْحَالَاتِ الذِّهْنِيَّةِ لِأَقْرَانِهِمْ.",
+          "en": "To cooperate successfully, humans must be able to mentalize the mental states of their peers."
+        }
+      ]
+    },
+    {
+      "id": "mindv_15",
+      "infinitive": "dissoziieren",
+      "translation_ar": "يَنْفَصِلُ بِالْوَعْيِ عَنِ الإِدْرَاكِ الْحِسِّيِّ الْمُبَاشِرِ",
+      "translation_en": "to dissociate cognitively",
+      "construction": "dissoziieren von + Dat",
+      "present_third": "dissoziiert",
+      "preterite_third": "dissoziierte",
+      "perfect_third": "hat dissoziiert",
+      "svg_id": "svg_mindv_dissoziieren",
+      "examples": [
+        {
+          "de": "Unter extremem Reizüberflutungsstress kann das Bewusstsein von der unmittelbaren Wahrnehmung dissoziieren.",
+          "ar": "يُمْكِنُ لِلْوَعْيِ أَنْ يَنْفَصِلَ عَنِ الإِدْرَاكِ الْمُبَاشِرِ تَحْتَ وَطْأَةِ الإِرْهَاقِ الْحِسِّيِّ الشَّدِيدِ.",
+          "en": "Under extreme sensory overload stress, consciousness can dissociate from immediate perception."
+        }
+      ]
+    },
+    {
+      "id": "mindv_16",
+      "infinitive": "konzipieren",
+      "translation_ar": "يَصُوغُ تَصَوُّرًا ذِهْنِيًّا أَوْ نَظَرِيَّةً فَلْسَفِيَّةً",
+      "translation_en": "to conceptualize / to conceive mentally",
+      "construction": "transitiv (Theorien konzipieren)",
+      "present_third": "konzipiert",
+      "preterite_third": "konzipierte",
+      "perfect_third": "hat konzipiert",
+      "svg_id": "svg_mindv_konzipieren",
+      "examples": [
+        {
+          "de": "Philosophen konzipieren neue ontologische Modelle, um maschinelle Handlungsfähigkeit zu erfassen.",
+          "ar": "يَصُوغُ الْفَلَاسِفَةُ نَمَاذِجَ أَنْطُولُوجِيَّةً جَدِيدَةً لِاسْتِيعَابِ الْفَاعِلِيَّةِ الآلِيَّةِ.",
+          "en": "Philosophers conceptualize new ontological models to grasp machine agency."
+        }
+      ]
+    },
+    {
+      "id": "mindv_17",
+      "infinitive": "kognizieren",
+      "translation_ar": "يَعْقِلُ / يُدْرِكُ مَعْرِفِيًّا مَعَانِيَ الأَشْيَاءِ",
+      "translation_en": "to cognize / to comprehend conceptually",
+      "construction": "transitiv",
+      "present_third": "kogniziert",
+      "preterite_third": "kognizierte",
+      "perfect_third": "hat kogniziert",
+      "svg_id": "svg_mindv_kognizieren",
+      "examples": [
+        {
+          "de": "Ein intelligentes System muss komplexe Umweltdaten kognizieren, um zielgerichtet agieren zu können.",
+          "ar": "يَتَعَيَّنُ عَلَى النِّظَامِ الذَّكِيِّ إِدْرَاكُ بَيَانَاتِ الْبِيئَةِ الْمُعَقَّدَةِ مَعْرِفِيًّا لِلتَّصَرُّفِ بِشَكْلٍ هَادِفٍ.",
+          "en": "An intelligent system must cognize complex environmental data to act in a goal-directed manner."
+        }
+      ]
+    },
+    {
+      "id": "mindv_18",
+      "infinitive": "personifizieren",
+      "translation_ar": "يُشَخْصِنُ / يُسْبِغُ صِفَاتِ الشَّخْصِ عَلَى كِيَانَاتٍ اصْطِنَاعِيَّةٍ",
+      "translation_en": "to personify artificial entities",
+      "construction": "transitiv",
+      "present_third": "personifiziert",
+      "preterite_third": "personifizierte",
+      "perfect_third": "hat personifiziert",
+      "svg_id": "svg_mindv_personifizieren",
+      "examples": [
+        {
+          "de": "Die Populärkultur personifiziert künstliche Intelligenz gern als bedrohliches Wesen mit eigenem Willen.",
+          "ar": "تَمِيلُ الثَّقَافَةُ الشَّعْبِيَّةُ إِلَى شَخْصَنَةِ الذَّكَاءِ الاصْطِنَاعِيِّ كَكِيَانٍ مُهَدِّدٍ ذِي إِرَادَةٍ خَاصَّةٍ.",
+          "en": "Popular culture frequently personifies artificial intelligence as a threatening entity with an independent will."
+        }
+      ]
+    },
+    {
+      "id": "mindv_19",
+      "infinitive": "differenzieren",
+      "translation_ar": "يُمَيِّزُ بِدِقَّةٍ بَيْنَ الْوَعْيِ الْحَقِيقِيِّ وَالْمُحَاكَاةِ الصُّورِيَّةِ",
+      "translation_en": "to differentiate strictly between feeling and simulation",
+      "construction": "differenzieren zwischen + Dat",
+      "present_third": "differenziert",
+      "preterite_third": "differenzierte",
+      "perfect_third": "hat differenziert",
+      "svg_id": "svg_mindv_differenzieren",
+      "examples": [
+        {
+          "de": "In der Debatte um Tierrechte muss man scharf zwischen Empfindungsfähigkeit und Selbstbewusstsein differenzieren.",
+          "ar": "يَجِبُ التَّمْيِيزُ الْحَاسِمُ فِي نِقَاشِ حُقُوقِ الْحَيَوَانِ بَيْنَ الْقُدْرَةِ عَلَى الإِحْسَاسِ وَالْوَعْيِ بِالذَّاتِ.",
+          "en": "In debates on animal rights, one must strictly differentiate between sentience and self-consciousness."
+        }
+      ]
+    },
+    {
+      "id": "mindv_20",
+      "infinitive": "artikulieren",
+      "translation_ar": "يُعَبِّرُ لَفْظِيًّا وَبِدِقَّةٍ عَنِ الْمَشَاعِرِ وَالأَفْكَارِ الْبَاطِنِيَّةِ",
+      "translation_en": "to articulate inner states verbally",
+      "construction": "transitiv (Gedanken und Gefühle artikulieren)",
+      "present_third": "artikuliert",
+      "preterite_third": "artikulierte",
+      "perfect_third": "hat artikuliert",
+      "svg_id": "svg_mindv_artikulieren",
+      "examples": [
+        {
+          "de": "Sprache ermöglicht es dem Menschen, feine Nuancen innerer Befindlichkeit präzise zu artikulieren.",
+          "ar": "تُمَكِّنُ اللُّغَةُ الإِنْسَانَ مِنْ صِيَاغَةِ وَالتَّعْبِيرِ عَنْ أَدَقِّ فُرُوقِ الْمَشَاعِرِ الْبَاطِنِيَّةِ بِإِتْقَانٍ.",
+          "en": "Language enables humans to articulate subtle nuances of inner emotional states precisely."
+        }
+      ]
+    }
+  ]
+}
