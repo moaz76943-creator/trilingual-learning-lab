@@ -12621,5 +12621,205 @@
     "label_de": "Welche Konju",
     "label_ar": "أَيُّ أَدَوَ",
     "label_en": "Which conjun"
+  },
+  "svg_mind_digitale_ontologie": {
+    "file": "svg_mind_digitale_ontologie.svg",
+    "path": "content/assets/svg/svg_mind_digitale_ontologie.svg",
+    "category": "digital_ontology_c1",
+    "label_de": "die digitale Ontologie",
+    "label_ar": "الْأَنْطُولُوجْيَا الرَّقْمِيَّةُ (الْوُجُودُ كَبَيَانَاتٍ وَمَعْلُومَاتٍ)",
+    "label_en": "digital ontology / informational realism"
+  },
+  "svg_mind_philosophie_des_geistes": {
+    "file": "svg_mind_philosophie_des_geistes.svg",
+    "path": "content/assets/svg/svg_mind_philosophie_des_geistes.svg",
+    "category": "digital_ontology_c1",
+    "label_de": "die Philosophie des Geistes",
+    "label_ar": "فَلْسَفَةُ الْعَقْلِ (دِرَاسَةُ طَبِيعَةِ الْوَعْيِ وَالإِدْرَاكِ)",
+    "label_en": "philosophy of mind"
+  },
+  "svg_mind_kuenstliches_bewusstsein": {
+    "file": "svg_mind_kuenstliches_bewusstsein.svg",
+    "path": "content/assets/svg/svg_mind_kuenstliches_bewusstsein.svg",
+    "category": "digital_ontology_c1",
+    "label_de": "das künstliche Bewusstsein",
+    "label_ar": "الْوَعْيُ الِاصْطِنَاعِيُّ (الشُّعُورُ الذَّاتِيُّ لِلآلَةِ)",
+    "label_en": "machine consciousness / artificial consciousness"
+  },
+  "svg_mind_qualia_problem": {
+    "file": "svg_mind_qualia_problem.svg",
+    "path": "content/assets/svg/svg_mind_qualia_problem.svg",
+    "category": "digital_ontology_c1",
+    "label_de": "das Qualia-Problem",
+    "label_ar": "مَسْأَلَةُ الْكَوَالْيَا (الْخِبْرَةُ الذَّاتِيَّةُ الْمُبَاشِرَةُ لِلإِحْسَاسِ)",
+    "label_en": "the hard problem of consciousness / qualia"
+  },
+  "svg_mind_chinesisches_zimmer": {
+    "file": "svg_mind_chinesisches_zimmer.svg",
+    "path": "content/assets/svg/svg_mind_chinesisches_zimmer.svg",
+    "category": "digital_ontology_c1",
+    "label_de": "das Chinesische Zimmer",
+    "label_ar": "مُفَارَقَةُ الْغُرْفَةِ الصِّينِيَّةِ (لِجُون سِيرْل)",
+    "label_en": "Chinese Room argument (Searle)"
+  },
+  "svg_mind_funktionalismus": {
+    "file": "svg_mind_funktionalismus.svg",
+    "path": "content/assets/svg/svg_mind_funktionalismus.svg",
+    "category": "digital_ontology_c1",
+    "label_de": "der Funktionalismus",
+    "label_ar": "الْوَظِيفِيَّةُ (تَعْرِيفُ الْعَقْلِ بِأَدْوَارِهِ وَعَلَاقَاتِهِ السَّبَبِيَّةِ)",
+    "label_en": "functionalism in philosophy of mind"
+  },
+  "svg_mind_epiphaenomenalismus": {
+    "file": "svg_mind_epiphaenomenalismus.svg",
+    "path": "content/assets/svg/svg_mind_epiphaenomenalismus.svg",
+    "category": "digital_ontology_c1",
+    "label_de": "der Epiphänomenalismus",
+    "label_ar": "الظَّاهِرَاتِيَّةُ الثَّانَوِيَّةُ (اعْتِبَارُ الْوَعْيِ مُجَرَّدَ أَثَرٍ جَانِبِيٍّ لِلدِّمَاغِ)",
+    "label_en": "epiphenomenalism"
+  },
+  "svg_mind_panpsychismus": {
+    "file": "svg_mind_panpsychismus.svg",
+    "path": "content/assets/svg/svg_mind_panpsychismus.svg",
+    "category": "digital_ontology_c1",
+    "label_de": "der Panpsychismus",
+    "label_ar": "الْعَقْلِيَّةُ الْكُلِّيَّةُ / مَذْهَبُ النَّفْسِيَّةِ الشَّامِلَةِ (Panpsychism)",
+    "label_en": "panpsychism"
+  },
+  "svg_mind_superintelligenz": {
+    "file": "svg_mind_superintelligenz.svg",
+    "path": "content/assets/svg/svg_mind_superintelligenz.svg",
+    "category": "digital_ontology_c1",
+    "label_de": "die Superintelligenz",
+    "label_ar": "الذَّكَاءُ الْخَارِقُ الِاصْطِنَاعِيُّ (ASI)",
+    "label_en": "artificial superintelligence (ASI)"
+  },
+  "svg_mind_singularitaet": {
+    "file": "svg_mind_singularitaet.svg",
+    "path": "content/assets/svg/svg_mind_singularitaet.svg",
+    "category": "digital_ontology_c1",
+    "label_de": "die technologische Singularität",
+    "label_ar": "التَّفَرُّدُ التِّكْنُولُوجِيُّ (نُقْطَةُ تَفَوُّقِ الآلَةِ ذَاتِيًّا دُونَ رَجْعَةٍ)",
+    "label_en": "technological singularity"
+  },
+  "svg_mind_identitaetstheorie": {
+    "file": "svg_mind_identitaetstheorie.svg",
+    "path": "content/assets/svg/svg_mind_identitaetstheorie.svg",
+    "category": "digital_ontology_c1",
+    "label_de": "die Identitätstheorie",
+    "label_ar": "نَظَرِيَّةُ التَّطَابُقِ (مُطَابَقَةُ الْعَقْلِ مَعَ الدِّمَاغِ)",
+    "label_en": "mind-brain identity theory"
+  },
+  "svg_mind_intentionales_system": {
+    "file": "svg_mind_intentionales_system.svg",
+    "path": "content/assets/svg/svg_mind_intentionales_system.svg",
+    "category": "digital_ontology_c1",
+    "label_de": "das intentionale System",
+    "label_ar": "النِّظَامُ الْقَصْدِيُّ (تَفْسِيرُ السُّلُوكِ بِالرَّغَبَاتِ وَالاعْتِقَادَاتِ)",
+    "label_en": "intentional system (intentional stance)"
+  },
+  "svg_mind_dualismus": {
+    "file": "svg_mind_dualismus.svg",
+    "path": "content/assets/svg/svg_mind_dualismus.svg",
+    "category": "digital_ontology_c1",
+    "label_de": "der cartesische Dualismus",
+    "label_ar": "الثُّنَائِيَّةُ الدِّيكَارْتِيَّةُ (الْفَصْلُ التَّامُّ بَيْنَ الرُّوحِ وَالْمَادَّةِ)",
+    "label_en": "Cartesian dualism / substance dualism"
+  },
+  "svg_mind_philosophischer_zombie": {
+    "file": "svg_mind_philosophischer_zombie.svg",
+    "path": "content/assets/svg/svg_mind_philosophischer_zombie.svg",
+    "category": "digital_ontology_c1",
+    "label_de": "der philosophische Zombie",
+    "label_ar": "الزُّومْبِي الْفَلْسَفِيُّ (كَائِنٌ يُحَاكِي السُّلُوكَ دُونَ وَعْيٍ دَاخِلِيٍّ)",
+    "label_en": "philosophical zombie (p-zombie / Chalmers)"
+  },
+  "svg_mind_eliminativer_materialismus": {
+    "file": "svg_mind_eliminativer_materialismus.svg",
+    "path": "content/assets/svg/svg_mind_eliminativer_materialismus.svg",
+    "category": "digital_ontology_c1",
+    "label_de": "der eliminative Materialismus",
+    "label_ar": "الْمَادِّيَّةُ الإِقْصَائِيَّةُ (إِنْكَارُ وُجُودِ الْحَالَاتِ النَّفْسِيَّةِ التَّقْلِيدِيَّةِ)",
+    "label_en": "eliminative materialism (Churchland)"
+  },
+  "svg_mind_verkoerperte_kognition": {
+    "file": "svg_mind_verkoerperte_kognition.svg",
+    "path": "content/assets/svg/svg_mind_verkoerperte_kognition.svg",
+    "category": "digital_ontology_c1",
+    "label_de": "die verkörperte Kognition",
+    "label_ar": "الإِدْرَاكُ الْمُتَجَسِّدُ (Embodiment)",
+    "label_en": "embodied cognition / embodiment"
+  },
+  "svg_mind_erweiterte_geisteshypothese": {
+    "file": "svg_mind_erweiterte_geisteshypothese.svg",
+    "path": "content/assets/svg/svg_mind_erweiterte_geisteshypothese.svg",
+    "category": "digital_ontology_c1",
+    "label_de": "die erweiterte Geisteshypothese",
+    "label_ar": "فَرَضِيَّةُ الْعَقْلِ الْمُمْتَدِّ (شُمُولُ الأَدَوَاتِ الرَّقْمِيَّةِ فِي الإِدْرَاكِ)",
+    "label_en": "extended mind hypothesis (Clark & Chalmers)"
+  },
+  "svg_mind_emergente_eigenschaft": {
+    "file": "svg_mind_emergente_eigenschaft.svg",
+    "path": "content/assets/svg/svg_mind_emergente_eigenschaft.svg",
+    "category": "digital_ontology_c1",
+    "label_de": "die emergente Eigenschaft",
+    "label_ar": "الْخَاصِّيَّةُ الِانْبِثَاقِيَّةُ (ظُهُورُ صِفَاتٍ كُلِّيَّةٍ جَدِيدَةٍ)",
+    "label_en": "emergent property / emergence"
+  },
+  "svg_mind_subjektivitaet": {
+    "file": "svg_mind_subjektivitaet.svg",
+    "path": "content/assets/svg/svg_mind_subjektivitaet.svg",
+    "category": "digital_ontology_c1",
+    "label_de": "die phänomenale Subjektivität",
+    "label_ar": "الذَّاتِيَّةُ الظَّاهِرَاتِيَّةُ (مَنْظُورُ الْمُتَكَلِّمِ الذَّاتِيِّ)",
+    "label_en": "phenomenal subjectivity / first-person perspective"
+  },
+  "svg_mind_kognitionsparadigma": {
+    "file": "svg_mind_kognitionsparadigma.svg",
+    "path": "content/assets/svg/svg_mind_kognitionsparadigma.svg",
+    "category": "digital_ontology_c1",
+    "label_de": "das Kognitionsparadigma",
+    "label_ar": "نَمُوذَجُ الإِدْرَاكِ وَالْمَعْرِفَةِ",
+    "label_en": "cognitive paradigm"
+  },
+  "svg_mind_maschinenethik": {
+    "file": "svg_mind_maschinenethik.svg",
+    "path": "content/assets/svg/svg_mind_maschinenethik.svg",
+    "category": "digital_ontology_c1",
+    "label_de": "die Maschinenethik",
+    "label_ar": "أَخْلَاقِيَّاتُ الآلَةِ وَالْبَرْمَجَةُ الأَخْلَاقِيَّةُ",
+    "label_en": "machine ethics / computational morality"
+  },
+  "svg_mind_sentienz": {
+    "file": "svg_mind_sentienz.svg",
+    "path": "content/assets/svg/svg_mind_sentienz.svg",
+    "category": "digital_ontology_c1",
+    "label_de": "die sentiente Existenz",
+    "label_ar": "الْكَيْنُونَةُ الْحَسَّاسَةُ / الْقُدْرَةُ عَلَى الشُّعُورِ بِالْمُعَانَاةِ وَاللَّذَّةِ",
+    "label_en": "sentient existence / sentience"
+  },
+  "svg_mind_computationalismus": {
+    "file": "svg_mind_computationalismus.svg",
+    "path": "content/assets/svg/svg_mind_computationalismus.svg",
+    "category": "digital_ontology_c1",
+    "label_de": "der Computationalismus",
+    "label_ar": "الْحَوْسَبِيَّةُ (نَظَرِيَّةُ أَنَّ الْعَقْلَ هُوَ حَاسُوبٌ رَقْمِيٌّ)",
+    "label_en": "computational theory of mind"
+  },
+  "svg_mind_moralische_patientenrolle": {
+    "file": "svg_mind_moralische_patientenrolle.svg",
+    "path": "content/assets/svg/svg_mind_moralische_patientenrolle.svg",
+    "category": "digital_ontology_c1",
+    "label_de": "die moralische Patientenrolle",
+    "label_ar": "مَوْضِعُ الْحِمَايَةِ الأَخْلَاقِيَّةِ (Moral Patiency)",
+    "label_en": "moral patiency / moral status"
+  },
+  "svg_mind_transhumane_reflexion": {
+    "file": "svg_mind_transhumane_reflexion.svg",
+    "path": "content/assets/svg/svg_mind_transhumane_reflexion.svg",
+    "category": "digital_ontology_c1",
+    "label_de": "die transhumane Selbstreflexion",
+    "label_ar": "التَّأَمُّلُ الذَّاتِيُّ مَا بَعْدَ الإِنْسَانِيِّ",
+    "label_en": "transhuman self-reflection"
   }
 }

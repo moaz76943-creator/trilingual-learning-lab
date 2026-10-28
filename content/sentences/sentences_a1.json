@@ -1,5 +1,5 @@
 {
-  "count": 265,
+  "count": 270,
   "sentences": [
     {
       "id": "sent_001",
@@ -4786,6 +4786,131 @@
         "Echtzeit."
       ],
       "grammar_point": "Prepositional genitive/dative phrase 'dank + Gen/Dat' in sentence milestone 265"
+    },
+    {
+      "id": "sent_266",
+      "category": "Philosophy of Mind",
+      "german": "Das berühmte Gedankenexperiment des Chinesischen Zimmers bestreitet dass rein syntaktische Manipulation echtes Verstehen konstituiert.",
+      "arabic": "تَنْفِي التَّجْرِبَةُ الْفِكْرِيَّةُ الشَّهِيرَةُ لِلْغُرْفَةِ الصِّينِيَّةِ أَنَّ مُجَرَّدَ التَّلَاعُبِ النَّحْوِيِّ يُشَكِّلُ فَهْمًا حَقِيقِيًّا.",
+      "english": "The famous Chinese Room thought experiment disputes that purely syntactic manipulation constitutes genuine understanding.",
+      "tokens": [
+        "Das",
+        "berühmte",
+        "Gedankenexperiment",
+        "des",
+        "Chinesischen",
+        "Zimmers",
+        "bestreitet",
+        "dass",
+        "rein",
+        "syntaktische",
+        "Manipulation",
+        "echtes",
+        "Verstehen",
+        "konstituiert."
+      ],
+      "grammar_point": "Transitive verb 'bestreiten' governing a dass-clause with neuter nominalized infinitive 'Verstehen'"
+    },
+    {
+      "id": "sent_267",
+      "category": "Philosophy of Mind",
+      "german": "Philosophen debattieren leidenschaftlich darüber ob hochentwickelte künstliche Systeme jemals phänomenales Bewusstsein erlangen können.",
+      "arabic": "يَتَنَاظَرُ الْفَلَاسِفَةُ بِحَمَاسَةٍ حَوْلَ مَا إِذَا كَانَتِ الأَنْظِمَةُ الاصْطِنَاعِيَّةُ الْمُتَطَوِّرَةُ قَادِرَةً يَوْمًا عَلَى اكْتِسَابِ وَعْيٍ ظَاهِرَاتِيٍّ.",
+      "english": "Philosophers passionately debate whether highly sophisticated artificial systems can ever attain phenomenal consciousness.",
+      "tokens": [
+        "Philosophen",
+        "debattieren",
+        "leidenschaftlich",
+        "darüber",
+        "ob",
+        "hochentwickelte",
+        "künstliche",
+        "Systeme",
+        "jemals",
+        "phänomenales",
+        "Bewusstsein",
+        "erlangen",
+        "können."
+      ],
+      "grammar_point": "Verb governing preposition with pronominal adverb 'debattieren darüber' followed by an ob-indirect clause"
+    },
+    {
+      "id": "sent_268",
+      "category": "Philosophy of Mind",
+      "german": "Die erweiterte Geisteshypothese begreift externe digitale Werkzeuge als integrale Bestandteile menschlicher Kognition.",
+      "arabic": "تَعْتَبِرُ فَرَضِيَّةُ الْعَقْلِ الْمُمْتَدِّ الأَدَوَاتِ الرَّقْمِيَّةَ الْخَارِجِيَّةَ أَجْزَاءً لَا تَتَجَزَّأُ مِنَ الإِدْرَاكِ الْبَشَرِيِّ.",
+      "english": "The extended mind hypothesis conceives external digital tools as integral components of human cognition.",
+      "tokens": [
+        "Die",
+        "erweiterte",
+        "Geisteshypothese",
+        "begreift",
+        "externe",
+        "digitale",
+        "Werkzeuge",
+        "als",
+        "integrale",
+        "Bestandteile",
+        "menschlicher",
+        "Kognition."
+      ],
+      "grammar_point": "Construction 'begreifen ... als + Akk' with genitive feminine modifier 'menschlicher Kognition'"
+    },
+    {
+      "id": "sent_269",
+      "category": "Philosophy of Mind",
+      "german": "Funktionalistische Theorien behaupten dass mentale Zustände durch ihre kausale Rolle und nicht durch ihr physisches Substrat definiert werden.",
+      "arabic": "تَزْعُمُ النَّظَرِيَّاتُ الْوَظِيفِيَّةُ أَنَّ الْحَالَاتِ الذِّهْنِيَّةَ تَتَحَدَّدُ بِدَوْرِهَا السَّبَبِيِّ لَا بِجَوْهَرِهَا الْمَادِّيِّ.",
+      "english": "Functionalist theories claim that mental states are defined by their causal role rather than by their physical substrate.",
+      "tokens": [
+        "Funktionalistische",
+        "Theorien",
+        "behaupten",
+        "dass",
+        "mentale",
+        "Zustände",
+        "durch",
+        "ihre",
+        "kausale",
+        "Rolle",
+        "und",
+        "nicht",
+        "durch",
+        "ihr",
+        "physisches",
+        "Substrat",
+        "definiert",
+        "werden."
+      ],
+      "grammar_point": "Passive subclause 'definiert werden' governed by 'durch + Akk' in contrasting coordination"
+    },
+    {
+      "id": "sent_270",
+      "category": "Philosophy of Mind",
+      "german": "Mit dem Aufkommen autonomer Systeme rückt die ethische Frage nach dem moralischen Status empfindungsfähiger Algorithmen in den Fokus.",
+      "arabic": "مَعَ بُزُوغِ الأَنْظِمَةِ الْمُسْتَقِلَّةِ، يَتَصَدَّرُ السُّؤَالُ الأَخْلَاقِيُّ حَوْلَ الْمَكَانَةِ الأَدَبِيَّةِ لِلْخَوَارِزْمِيَّاتِ الْحَسَّاسَةِ بُؤْرَةَ الاهْتِمَامِ.",
+      "english": "With the rise of autonomous systems, the ethical question concerning the moral status of sentient algorithms moves into focus.",
+      "tokens": [
+        "Mit",
+        "dem",
+        "Aufkommen",
+        "autonomer",
+        "Systeme",
+        "rückt",
+        "die",
+        "ethische",
+        "Frage",
+        "nach",
+        "dem",
+        "moralischen",
+        "Status",
+        "empfindungsfähiger",
+        "Algorithmen",
+        "in",
+        "den",
+        "Fokus."
+      ],
+      "grammar_point": "Fixed idiom 'in den Fokus rücken' with prepositional phrase 'nach + Dat' and genitive attribute in milestone 270"
     }
   ]
 }
