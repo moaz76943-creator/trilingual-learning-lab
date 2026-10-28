@@ -1,0 +1,370 @@
+{
+  "engine_id": "defi_cryptoeconomic_verbs_b2_c1",
+  "title_ar": "أفعال التمويل اللامركزي والتحقق التشفيري وإدارة السيولة الرقمية",
+  "title_de": "DeFi-, Staking- und Kryptoökonomie-Verben (B2/C1)",
+  "title_en": "DeFi, Staking & Cryptoeconomic Verbs (B2/C1)",
+  "level": "B2/C1",
+  "count": 20,
+  "verbs": [
+    {
+      "id": "defiv_01",
+      "infinitive": "staken",
+      "translation_ar": "يَرْهَنُ الْعُمْلَاتِ الرَّقْمِيَّةَ لِدَعْمِ أَمَانِ الشَّبَكَةِ (Staking)",
+      "translation_en": "to stake tokens in proof-of-stake networks",
+      "construction": "transitiv (Kryptowährungen im Protokoll staken)",
+      "present_third": "stakt",
+      "preterite_third": "stakte",
+      "perfect_third": "hat gestakt",
+      "svg_id": "svg_defiv_staken",
+      "examples": [
+        {
+          "de": "Validierer staken erhebliche Mengen an Kryptowährungen, um böswillige Netzwerkangriffe ökonomisch unrentabel zu machen.",
+          "ar": "يَرْهَنُ الْمُصَادِقُونَ مَبَالِغَ طَائِلَةً مِنَ الْعُمْلَاتِ الرَّقْمِيَّةِ لِجَعْلِ الْهَجَمَاتِ الشَّبَكِيَّةِ الْخَبِيثَةِ غَيْرَ مُجْدِيَةٍ اقْتِصَادِيًّا.",
+          "en": "Validators stake substantial amounts of cryptocurrency to make malicious network attacks economically unviable."
+        }
+      ]
+    },
+    {
+      "id": "defiv_02",
+      "infinitive": "validieren",
+      "translation_ar": "يُصَادِقُ عَلَى صِحَّةِ الْمُعَامَلَاتِ وَالْكُتَلِ فِي الشَّبَكَةِ",
+      "translation_en": "to validate blocks and on-chain transactions",
+      "construction": "transitiv (Blöcke und Transaktionen validieren)",
+      "present_third": "validiert",
+      "preterite_third": "validierte",
+      "perfect_third": "hat validiert",
+      "svg_id": "svg_defiv_validieren",
+      "examples": [
+        {
+          "de": "Unabhängige Knotenpunkte validieren jeden neuen Block nach strengen kryptografischen Konsensregeln.",
+          "ar": "تُصَادِقُ العُقَدُ الْمُسْتَقِلَّةُ عَلَى كُلِّ كُتْلَةٍ جَدِيدَةٍ وَفْقَ قَوَاعِدِ إِجْمَاعٍ تَشْفِيرِيَّةٍ صَارِمَةٍ.",
+          "en": "Independent nodes validate every new block according to strict cryptographic consensus rules."
+        }
+      ]
+    },
+    {
+      "id": "defiv_03",
+      "infinitive": "bridgen",
+      "translation_ar": "يَنْقُلُ الأُصُولَ عَبْرَ الْجُسُورِ التَّشْفِيرِيَّةِ بَيْنَ سَلَاسِلِ الْكُتَلِ",
+      "translation_en": "to bridge tokens across disparate blockchains",
+      "construction": "bridgen + Akk + zwischen + Dat",
+      "present_third": "bridget",
+      "preterite_third": "bridgete",
+      "perfect_third": "hat gebridget",
+      "svg_id": "svg_defiv_bridgen",
+      "examples": [
+        {
+          "de": "Nutzer bridgen Stablecoins zwischen Layer-1- und Layer-2-Netzwerken, um Transaktionskosten zu sparen.",
+          "ar": "يَنْقُلُ الْمُسْتَخْدِمُونَ الْعُمْلَاتِ الْمُسْتَقِرَّةَ عَبْرَ الْجُسُورِ بَيْنَ شَبَكَاتِ الطَّبَقَةِ الأُولَى وَالثَّانِيَةِ لِتَوْفِيرِ رُسُومِ الْمُعَامَلَاتِ.",
+          "en": "Users bridge stablecoins between layer-1 and layer-2 networks to save on transaction fees."
+        }
+      ]
+    },
+    {
+      "id": "defiv_04",
+      "infinitive": "hebeln",
+      "translation_ar": "يَتَدَاوَلُ بِالرَّافِعَةِ الْمَالِيَّةِ فِي الْمُشْتَقَّاتِ اللَّامَرْكَزِيَّةِ",
+      "translation_en": "to trade on leverage / to gear positions",
+      "construction": "transitiv (Krypto-Positionen mit Hebel hebeln)",
+      "present_third": "hebelt",
+      "preterite_third": "hebelte",
+      "perfect_third": "hat gehebelt",
+      "svg_id": "svg_defiv_hebeln",
+      "examples": [
+        {
+          "de": "Riskante Trader hebeln ihre Futures-Positionen auf dezentralen Derivateplattformen bis zum Zehnfachen.",
+          "ar": "يَسْتَخْدِمُ الْمُتَدَاوِلُونَ الْمُغَامِرُونَ رَافِعَةً مَالِيَّةً لِصَفَقَاتِهِمُ الآجِلَةِ فِي الْمَنَصَّاتِ اللَّامَرْكَزِيَّةِ تَصِلُ لِعَشَرَةِ أَضْعَافٍ.",
+          "en": "Risky traders leverage their futures positions on decentralized derivatives platforms up to ten times."
+        }
+      ]
+    },
+    {
+      "id": "defiv_05",
+      "infinitive": "swappen",
+      "translation_ar": "يَسْتَبْدِلُ عُمْلَةً رَقْمِيَّةً بِأُخْرَى فَوْرِيًّا عَبْرَ مُجَمَّعِ السُّيُولَةِ",
+      "translation_en": "to swap tokens instantaneously via AMMs",
+      "construction": "swappen + Akk + in / gegen + Akk",
+      "present_third": "swappt",
+      "preterite_third": "swappte",
+      "perfect_third": "hat geswappt",
+      "svg_id": "svg_defiv_swappen",
+      "examples": [
+        {
+          "de": "Über automatisierte Market Maker können Händler Token direkt gegen andere Vermögenswerte swappen.",
+          "ar": "يَسْتَطِيعُ الْمُتَدَاوِلُونَ اسْتِبْدَالَ الرُّمُوزِ مُبَاشَرَةً بِأُصُولٍ أُخْرَى عَبْرَ صُنَّاعِ السُّوقِ الآلِيِّينَ.",
+          "en": "Via automated market makers, traders can swap tokens directly for other assets."
+        }
+      ]
+    },
+    {
+      "id": "defiv_06",
+      "infinitive": "minen",
+      "translation_ar": "يُعَدِّنُ الْعُمْلَاتِ الرَّقْمِيَّةَ بِبُرْهَانِ الْجُهْدِ الْحِسَابِيِّ (PoW)",
+      "translation_en": "to mine cryptocurrencies via computational proof",
+      "construction": "transitiv (Bitcoin minen)",
+      "present_third": "mint",
+      "preterite_third": "minte",
+      "perfect_third": "hat gemint",
+      "svg_id": "svg_defiv_minen",
+      "examples": [
+        {
+          "de": "Mining-Farmen minen neue Einheiten unter hohem Einsatz spezialisierter Hardware und Ökostrom.",
+          "ar": "تُعَدِّنُ مَزَارِعُ التَّعْدِينِ وِحْدَاتٍ جَدِيدَةً بِاسْتِخْدَامٍ مُكَثَّفٍ لِعَتَادٍ مُتَخَصِّصٍ وَطَاقَةٍ نَظِيفَةٍ.",
+          "en": "Mining farms mine new units utilizing specialized hardware and green electricity intensively."
+        }
+      ]
+    },
+    {
+      "id": "defiv_07",
+      "infinitive": "minten",
+      "translation_ar": "يَسُكُّ رُمُوزًا أَوْ أُصُولاً رَقْمِيَّةً جَدِيدَةً عَلَى السَّلْسَلَةِ (Minting)",
+      "translation_en": "to mint new tokens or NFTs on-chain",
+      "construction": "transitiv (neue Token auf der Blockchain minten)",
+      "present_third": "mintet",
+      "preterite_third": "mintete",
+      "perfect_third": "hat gemintet",
+      "svg_id": "svg_defiv_minten",
+      "examples": [
+        {
+          "de": "Das Protokoll mintet automatisch Governance-Token als Belohnung für bereitgestellte Liquidität.",
+          "ar": "يَسُكُّ الْبُرُوتُوكُولُ آلِيًّا رُمُوزَ حَوْكَمَةٍ كَمُكَافَأَةٍ عَلَى تَوْفِيرِ السُّيُولَةِ النَّقْدِيَّةِ.",
+          "en": "The protocol automatically mints governance tokens as rewards for supplied liquidity."
+        }
+      ]
+    },
+    {
+      "id": "defiv_08",
+      "infinitive": "burnen",
+      "translation_ar": "يَحْرِقُ الرُّمُوزَ لِإِخْرَاجِهَا نِهَائِيًّا مِنَ التَّدَاوُلِ (Burning)",
+      "translation_en": "to burn tokens to reduce supply",
+      "construction": "transitiv (Transaktionsgebühren burnen)",
+      "present_third": "burnt",
+      "preterite_third": "burnte",
+      "perfect_third": "hat geburnt",
+      "svg_id": "svg_defiv_burnen",
+      "examples": [
+        {
+          "de": "Ein Teil jeder Transaktionsgebühr wird dauerhaft geburnt, um das zirkulierende Angebot zu verknappen.",
+          "ar": "يَتِمُّ حَرْقُ جُزْءٍ مِنْ كُلِّ رَسْمِ مُعَامَلَةٍ بِشَكْلٍ دَائِمٍ لِتَقْلِيصِ الْمَعْرُوضِ الْمُتَدَاوَلِ.",
+          "en": "A portion of each transaction fee is permanently burned to constrain circulating supply."
+        }
+      ]
+    },
+    {
+      "id": "defiv_09",
+      "infinitive": "arbitrieren",
+      "translation_ar": "يَسْتَغِلُّ فُرُوقَ الأَسْعَارِ اللَّحْظِيَّةِ بَيْنَ الْبُورْصَاتِ لِلْمُرَاجَحَةِ",
+      "translation_en": "to arbitrage price discrepancies across venues",
+      "construction": "transitiv / intransitiv (Preisdifferenzen arbitrieren)",
+      "present_third": "arbitriert",
+      "preterite_third": "arbitrierte",
+      "perfect_third": "hat arbitriert",
+      "svg_id": "svg_defiv_arbitrieren",
+      "examples": [
+        {
+          "de": "Automatisierte Arbitrage-Bots scannen dezentrale Börsen rund um die Uhr, um flüchtige Preisdifferenzen gewinnbringend zu arbitrieren.",
+          "ar": "تَمْسَحُ رُوبُوتَاتُ الْمُرَاجَحَةِ الآلِيَّةُ الْبُورْصَاتِ اللَّامَرْكَزِيَّةَ دَوْمًا لِاسْتِغْلَالِ فُرُوقِ الأَسْعَارِ الْخَاطِفَةِ بِرِبْحِيَّةٍ.",
+          "en": "Automated arbitrage bots continuously scan decentralized exchanges to profitably arbitrage fleeting price spreads."
+        }
+      ]
+    },
+    {
+      "id": "defiv_10",
+      "infinitive": "liquidieren",
+      "translation_ar": "يُصَفِّي الضَّمَانَاتِ الْمَرْهُونَةَ جَبْرِيًّا عِنْدَ انْخِفَاضِ قِيمَتِهَا",
+      "translation_en": "to liquidate undercollateralized debt positions",
+      "construction": "transitiv (Kreditpositionen liquidieren)",
+      "present_third": "liquidiert",
+      "preterite_third": "liquidierte",
+      "perfect_third": "hat liquidiert",
+      "svg_id": "svg_defiv_liquidieren",
+      "examples": [
+        {
+          "de": "Wenn der Beleihungswert unter den Schwellenwert fällt, liquidiert der Smart Contract die hinterlegten Sicherheiten sofort.",
+          "ar": "إِذَا هَبَطَتْ قِيمَةُ الرَّهْنِ دُونَ حَدِّ الأَمَانِ، يُصَفِّي الْعَقْدُ الذَّكِيُّ الضَّمَانَاتِ الْمُودَعَةَ فَوْرًا.",
+          "en": "If collateral value drops below the threshold, the smart contract immediately liquidates deposited collateral."
+        }
+      ]
+    },
+    {
+      "id": "defiv_11",
+      "infinitive": "absichern",
+      "translation_ar": "يَتَحَوَّطُ تَشْفِيرِيًّا ضِدَّ تَقَلُّبَاتِ الأَسْعَارِ (Hedging)",
+      "translation_en": "to hedge against volatility risk",
+      "construction": "absichern + Akk + gegen + Akk",
+      "present_third": "sichert ab",
+      "preterite_third": "sicherte ab",
+      "perfect_third": "hat abgesichert",
+      "svg_id": "svg_defiv_absichern",
+      "examples": [
+        {
+          "de": "Anleger sichern ihre Krypto-Bestände durch Derivate gegen abrupte Marktabstürze ab.",
+          "ar": "يَتَحَوَّطُ الْمُسْتَثْمِرُونَ عَلَى حِيَازَاتِهِمُ الرَّقْمِيَّةِ عَبْرَ الْمُشْتَقَّاتِ ضِدَّ الِانْهِيَارَاتِ السُّوقِيَّةِ الْمُفَاجِئَةِ.",
+          "en": "Investors hedge their crypto holdings against abrupt market crashes through derivatives."
+        }
+      ]
+    },
+    {
+      "id": "defiv_12",
+      "infinitive": "hinterlegen",
+      "translation_ar": "يُودِعُ أُصُولاً كَضَمَانٍ مَالِيٍّ فِي الْعَقْدِ الذَّكِيِّ (Collateralize)",
+      "translation_en": "to deposit collateral in lending protocols",
+      "construction": "hinterlegen + Akk + als + Akk",
+      "present_third": "hinterlegt",
+      "preterite_third": "hinterlegte",
+      "perfect_third": "hat hinterlegt",
+      "svg_id": "svg_defiv_hinterlegen",
+      "examples": [
+        {
+          "de": "Um Stablecoins zu leihen, müssen Nutzer Kryptowährungen im Wert von mindestens 150 Prozent als Pfand hinterlegen.",
+          "ar": "لِاقْتِرَاضِ الْعُمْلَاتِ الْمُسْتَقِرَّةِ، يَجِبُ عَلَى الْمُسْتَخْدِمِينَ إِيدَاعُ عُمْلَاتٍ رَقْمِيَّةٍ تُعَادِلُ 150% كَرَهْنٍ.",
+          "en": "To borrow stablecoins, users must deposit crypto-assets worth at least 150 percent as collateral."
+        }
+      ]
+    },
+    {
+      "id": "defiv_13",
+      "infinitive": "verleihen",
+      "translation_ar": "يُقْرِضُ الأُصُولَ الرَّقْمِيَّةَ لِتَحْصِيلِ فَوَائِدَ تِرَاكُمِيَّةٍ",
+      "translation_en": "to lend crypto assets for yield",
+      "construction": "verleihen + Akk + zu + Dat",
+      "present_third": "verleiht",
+      "preterite_third": "verlieh",
+      "perfect_third": "hat verliehen",
+      "svg_id": "svg_defiv_verleihen",
+      "examples": [
+        {
+          "de": "DeFi-Plattformen verleihen gepoolte Vermögenswerte an algorithmische Kreditnehmer zu dynamischen Zinssätzen.",
+          "ar": "تُقْرِضُ الْمَنَصَّاتُ اللَّامَرْكَزِيَّةُ الأُصُولَ الْمُجَمَّعَةَ لِمُقْتَرِضِينَ خَوَارِزْمِيِّينَ بِأَسْعَارِ فَائِدَةٍ دِينَامِيكِيَّةٍ.",
+          "en": "DeFi platforms lend pooled assets to algorithmic borrowers at dynamic interest rates."
+        }
+      ]
+    },
+    {
+      "id": "defiv_14",
+      "infinitive": "emittieren",
+      "translation_ar": "يُصْدِرُ رُمُوزًا حَوْكَمِيَّةً أَوْ أَوْرَاقًا مَالِيَّةً مُشَفَّرَةً",
+      "translation_en": "to issue cryptographic tokens",
+      "construction": "transitiv (Governance-Token emittieren)",
+      "present_third": "emittiert",
+      "preterite_third": "emittierte",
+      "perfect_third": "hat emittiert",
+      "svg_id": "svg_defiv_emittieren",
+      "examples": [
+        {
+          "de": "Das dezentrale Protokoll emittierte neue Partizipationstoken zur Finanzierung des Entwicklungsfonds.",
+          "ar": "أَصْدَرَ الْبُرُوتُوكُولُ اللَّامَرْكَزِيُّ رُمُوزَ مُشَارَكَةٍ جَدِيدَةً لِتَمْوِيلِ صُنْدُوقِ التَّطْوِيرِ.",
+          "en": "The decentralized protocol issued new participation tokens to finance the development fund."
+        }
+      ]
+    },
+    {
+      "id": "defiv_15",
+      "infinitive": "delegieren",
+      "translation_ar": "يُفَوِّضُ حُقُوقَ التَّصْوِيتِ أَوْ رَهْنَ الْعُمْلَاتِ لِمُصَادِقِينَ مُحْتَرِفِينَ",
+      "translation_en": "to delegate voting rights or stake",
+      "construction": "delegieren + Akk + an + Akk",
+      "present_third": "delegiert",
+      "preterite_third": "delegierte",
+      "perfect_third": "hat delegiert",
+      "svg_id": "svg_defiv_delegieren",
+      "examples": [
+        {
+          "de": "Token-Inhaber delegieren ihre Stimmrechte an erfahrene Repräsentanten innerhalb der DAO.",
+          "ar": "يُفَوِّضُ حَمَلَةُ الرُّمُوزِ حُقُوقَ تَصْوِيتِهِمْ لِمُمَثِّلِينَ ذَوِي خِبْرَةٍ دَاخِلَ الْمُنَظَّمَةِ اللَّامَرْكَزِيَّةِ.",
+          "en": "Token holders delegate their voting rights to experienced representatives within the DAO."
+        }
+      ]
+    },
+    {
+      "id": "defiv_16",
+      "infinitive": "partizipieren",
+      "translation_ar": "يُشَارِكُ فِي الْحَوْكَمَةِ وَالتَّصْوِيتِ عَلَى مُقْتَرَحَاتِ التَّطْوِيرِ",
+      "translation_en": "to participate in governance voting",
+      "construction": "partizipieren an + Dat",
+      "present_third": "partizipiert",
+      "preterite_third": "partizipierte",
+      "perfect_third": "hat partizipiert",
+      "svg_id": "svg_defiv_partizipieren",
+      "examples": [
+        {
+          "de": "Mitglieder partizipieren an wichtigen Protokolländerungen durch transparente On-Chain-Abstimmungen.",
+          "ar": "يُشَارِكُ الأَعْضَاءُ فِي تَعْدِيلَاتِ الْبُرُوتُوكُولِ الْجَوْهَرِيَّةِ عَبْرَ تَصْوِيتَاتٍ شَفَّافَةٍ عَلَى السَّلْسَلَةِ.",
+          "en": "Members participate in key protocol amendments through transparent on-chain votes."
+        }
+      ]
+    },
+    {
+      "id": "defiv_17",
+      "infinitive": "bündeln",
+      "translation_ar": "يَحْزِمُ آلَافَ الْمُعَامَلَاتِ فِي إِثْبَاتٍ مُوَحَّدٍ (Rollup Batching)",
+      "translation_en": "to batch / roll up transactions off-chain",
+      "construction": "transitiv (Transaktionen in ZK-Rollups bündeln)",
+      "present_third": "bündelt",
+      "preterite_third": "bündelte",
+      "perfect_third": "hat gebündelt",
+      "svg_id": "svg_defiv_buendeln",
+      "examples": [
+        {
+          "de": "Layer-2-Netzwerke bündeln hunderte Überweisungen zu einem einzigen kryptografischen Beweis.",
+          "ar": "تَحْزِمُ شَبَكَاتُ الطَّبَقَةِ الثَّانِيَةِ مِئَاتِ الْحَوَالَاتِ فِي إِثْبَاتٍ تَشْفِيرِيٍّ وَاحِدٍ.",
+          "en": "Layer-2 networks batch hundreds of transfers into a single cryptographic proof."
+        }
+      ]
+    },
+    {
+      "id": "defiv_18",
+      "infinitive": "verpfänden",
+      "translation_ar": "يَرْهَنُ أَصْلاً رَقْمِيًّا لِلْحُصُولِ عَلَى سُيُولَةٍ نَقْدِيَّةٍ",
+      "translation_en": "to pledge digital assets as security",
+      "construction": "transitiv (Krypto-Assets verpfänden)",
+      "present_third": "verpfändet",
+      "preterite_third": "verpfändete",
+      "perfect_third": "hat verpfändet",
+      "svg_id": "svg_defiv_verpfaenden",
+      "examples": [
+        {
+          "de": "Anleger verpfänden liquide Token, um steuerneutrale Kredite in Stablecoins aufzunehmen.",
+          "ar": "يَرْهَنُ الْمُسْتَثْمِرُونَ الرُّمُوزَ ذَاتَ السُّيُولَةِ لِلْحُصُولِ عَلَى قُرُوضٍ مُعْفَاةٍ ضَرِيبِيًّا بِالْعُمْلَاتِ الْمُسْتَقِرَّةِ.",
+          "en": "Investors pledge liquid tokens to obtain tax-neutral loans in stablecoins."
+        }
+      ]
+    },
+    {
+      "id": "defiv_19",
+      "infinitive": "einlösen",
+      "translation_ar": "يَسْتَرِدُّ الْقِيمَةَ الأَسَاسِيَّةَ لِلرَّمْزِ أَوِ الْعَقْدِ (Redeem)",
+      "translation_en": "to redeem underlying assets",
+      "construction": "transitiv (Gutschein-Token gegen Sicherheiten einlösen)",
+      "present_third": "löst ein",
+      "preterite_third": "löste ein",
+      "perfect_third": "hat eingelöst",
+      "svg_id": "svg_defiv_einloesen",
+      "examples": [
+        {
+          "de": "Liquiditätsanbieter lösen ihre Pool-Anteile jederzeit gegen die zugrunde liegenden Token ein.",
+          "ar": "يَسْتَرِدُّ مُزَوِّدُو السُّيُولَةِ حِصَصَهُمْ فِي الْمُجَمَّعِ فِي أَيِّ وَقْتٍ مُقَابِلَ الرُّمُوزِ الأَسَاسِيَّةِ.",
+          "en": "Liquidity providers redeem their pool shares at any time for the underlying tokens."
+        }
+      ]
+    },
+    {
+      "id": "defiv_20",
+      "infinitive": "skalieren",
+      "translation_ar": "يُوَسِّعُ طَاقَةَ مُعَالَجَةِ الشَّبَكَةِ لِاسْتِيعَابِ مَلَايِينِ الْمُعَامَلَاتِ",
+      "translation_en": "to scale throughput and computational capacity",
+      "construction": "intransitiv / transitiv (den Transaktionsdurchsatz skalieren)",
+      "present_third": "skaliert",
+      "preterite_third": "skalierte",
+      "perfect_third": "hat skaliert",
+      "svg_id": "svg_defiv_skalieren",
+      "examples": [
+        {
+          "de": "Durch modulare Architekturen skalieren moderne Blockchains auf über hunderttausend Transaktionen pro Sekunde.",
+          "ar": "تَتَوَسَّعُ شَبَكَاتُ الْبْلُوكْتْشِين الْحَدِيثَةُ عَبْرَ الْمِعْمَارِيَّاتِ النَّمَطِيَّةِ لِتَسْتَوْعِبَ أَكْثَرَ مِنْ مِائَةِ أَلْفِ مُعَامَلَةٍ فِي الثَّانِيَةِ.",
+          "en": "Through modular architectures, modern blockchains scale to over one hundred thousand transactions per second."
+        }
+      ]
+    }
+  ]
+}

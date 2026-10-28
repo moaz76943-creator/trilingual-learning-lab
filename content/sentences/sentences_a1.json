@@ -1,5 +1,5 @@
 {
-  "count": 280,
+  "count": 285,
   "sentences": [
     {
       "id": "sent_001",
@@ -5141,6 +5141,127 @@
         "spürbar."
       ],
       "grammar_point": "Coordinated compound verbs with plural direct objects in milestone sentence 280"
+    },
+    {
+      "id": "sent_281",
+      "category": "DeFi & Cryptoeconomics",
+      "german": "Validierer staken erhebliche Mengen an Kryptowährungen um böswillige Netzwerkangriffe ökonomisch unrentabel zu machen.",
+      "arabic": "يَرْهَنُ الْمُصَادِقُونَ مَبَالِغَ طَائِلَةً مِنَ الْعُمْلَاتِ الرَّقْمِيَّةِ لِجَعْلِ الْهَجَمَاتِ الشَّبَكِيَّةِ الْخَبِيثَةِ غَيْرَ مُجْدِيَةٍ اقْتِصَادِيًّا.",
+      "english": "Validators stake substantial amounts of cryptocurrency to make malicious network attacks economically unviable.",
+      "tokens": [
+        "Validierer",
+        "staken",
+        "erhebliche",
+        "Mengen",
+        "an",
+        "Kryptowährungen",
+        "um",
+        "böswillige",
+        "Netzwerkangriffe",
+        "ökonomisch",
+        "unrentabel",
+        "zu",
+        "machen."
+      ],
+      "grammar_point": "Transitive verb 'staken' with final infinitive construction 'um ... unrentabel zu machen'"
+    },
+    {
+      "id": "sent_282",
+      "category": "DeFi & Cryptoeconomics",
+      "german": "Kryptografische Brücken ermöglichen es digitale Vermögenswerte nahtlos zwischen verschiedenen Blockchains zu bridgen.",
+      "arabic": "تُمَكِّنُ الْجُسُورُ التَّشْفِيرِيَّةُ مِنْ نَقْلِ الأُصُولِ الرَّقْمِيَّةِ بِسَلَاسَةٍ بَيْنَ شَبَكَاتِ الْبْلُوكْتْشِين الْمُخْتَلِفَةِ.",
+      "english": "Cryptographic bridges enable digital assets to be bridged seamlessly between diverse blockchains.",
+      "tokens": [
+        "Kryptografische",
+        "Brücken",
+        "ermöglichen",
+        "es",
+        "digitale",
+        "Vermögenswerte",
+        "nahtlos",
+        "zwischen",
+        "verschiedenen",
+        "Blockchains",
+        "zu",
+        "bridgen."
+      ],
+      "grammar_point": "Anticipatory 'es' with infinitive clause governing prepositional phrase 'zwischen + Dat'"
+    },
+    {
+      "id": "sent_283",
+      "category": "DeFi & Cryptoeconomics",
+      "german": "Wenn der Wert der hinterlegten Sicherheiten unter die Mindestquote fällt liquidiert der Smart Contract die Position automatisch.",
+      "arabic": "إِذَا انْخَفَضَتْ قِيمَةُ الرَّهْنِ الْمُودَعِ دُونَ النِّسْبَةِ الدُّنْيَا، يُصَفِّي الْعَقْدُ الذَّكِيُّ الصَّفْقَةَ تِلْقَائِيًّا.",
+      "english": "If the value of deposited collateral falls below the minimum ratio, the smart contract automatically liquidates the position.",
+      "tokens": [
+        "Wenn",
+        "der",
+        "Wert",
+        "der",
+        "hinterlegten",
+        "Sicherheiten",
+        "unter",
+        "die",
+        "Mindestquote",
+        "fällt",
+        "liquidiert",
+        "der",
+        "Smart",
+        "Contract",
+        "die",
+        "Position",
+        "automatisch."
+      ],
+      "grammar_point": "Conditional subclause with 'wenn' and inverted main clause with transitive verb 'liquidieren'"
+    },
+    {
+      "id": "sent_284",
+      "category": "DeFi & Cryptoeconomics",
+      "german": "Automatisierte Arbitrage-Bots scannen dezentrale Börsen rund um die Uhr um flüchtige Preisdifferenzen profitabel auszunutzen.",
+      "arabic": "تَمْسَحُ رُوبُوتَاتُ الْمُرَاجَحَةِ الآلِيَّةُ الْبُورْصَاتِ اللَّامَرْكَزِيَّةَ عَلَى مَدَارِ السَّاعَةِ لِاسْتِغْلَالِ فُرُوقِ الأَسْعَارِ الْخَاطِفَةِ بِرِبْحِيَّةٍ.",
+      "english": "Automated arbitrage bots scan decentralized exchanges around the clock to profitably exploit fleeting price differences.",
+      "tokens": [
+        "Automatisierte",
+        "Arbitrage-Bots",
+        "scannen",
+        "dezentrale",
+        "Börsen",
+        "rund",
+        "um",
+        "die",
+        "Uhr",
+        "um",
+        "flüchtige",
+        "Preisdifferenzen",
+        "profitabel",
+        "auszunutzen."
+      ],
+      "grammar_point": "Final infinitive clause with separable verb 'ausnutzen' (um ... auszunutzen) with temporal idiom"
+    },
+    {
+      "id": "sent_285",
+      "category": "DeFi & Cryptoeconomics",
+      "german": "Durch das Bündeln tausender Transaktionen in Zero-Knowledge-Rollups skaliert das Netzwerk ohne Kompromisse bei der Dezentralität.",
+      "arabic": "عَبْرَ حَزْمِ آلَافِ الْمُعَامَلَاتِ فِي حُزَمِ الْمَعْرِفَةِ الصِّفْرِيَّةِ، تَتَوَسَّعُ الشَّبَكَةُ دُونَ الْمُسَاوَمَةِ عَلَى اللَّامَرْكَزِيَّةِ.",
+      "english": "By batching thousands of transactions into zero-knowledge rollups, the network scales without compromising decentralization.",
+      "tokens": [
+        "Durch",
+        "das",
+        "Bündeln",
+        "tausender",
+        "Transaktionen",
+        "in",
+        "Zero-Knowledge-Rollups",
+        "skaliert",
+        "das",
+        "Netzwerk",
+        "ohne",
+        "Kompromisse",
+        "bei",
+        "der",
+        "Dezentralität."
+      ],
+      "grammar_point": "Nominalized infinitive 'das Bündeln' with genitive plural modifier and preposition 'durch + Akk' in milestone 285"
     }
   ]
 }

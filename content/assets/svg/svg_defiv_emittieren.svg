@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <defs>
+    <linearGradient id="grad_svg_defiv_emittieren" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#311042" />
+      <stop offset="50%" stop-color="#C026D3" />
+      <stop offset="100%" stop-color="#F0ABFC" />
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="18" fill="url(#grad_svg_defiv_emittieren)"/>
+  <!-- Blockchain Staking & Liquidity Vault Motif -->
+  <rect x="32" y="30" width="36" height="30" rx="4" fill="none" stroke="#FFFFFF" stroke-width="2.2"/>
+  <circle cx="50" cy="45" r="7" fill="none" stroke="#FFFFFF" stroke-width="1.8"/>
+  <circle cx="50" cy="45" r="2.5" fill="#FFFFFF"/>
+  <line x1="50" y1="20" x2="50" y2="30" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+  <line x1="50" y1="60" x2="50" y2="70" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+  <!-- Verb Label -->
+  <rect x="14" y="74" width="72" height="16" rx="8" fill="#FFFFFF" opacity="0.2"/>
+  <text x="50" y="85.5" font-family="system-ui, sans-serif" font-size="6.5" font-weight="bold" fill="#FFFFFF" text-anchor="middle">emittieren</text>
+</svg>

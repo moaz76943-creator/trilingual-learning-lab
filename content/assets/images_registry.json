@@ -13181,5 +13181,165 @@
     "label_de": "das Maximal Extractable Value",
     "label_ar": "الْقِيمَةُ الْقُصْوَى الْمُسْتَخْرَجَةُ مِنَ الْمُعَامَلَاتِ (MEV)",
     "label_en": "maximal extractable value (MEV)"
+  },
+  "svg_defiv_staken": {
+    "file": "svg_defiv_staken.svg",
+    "path": "content/assets/svg/svg_defiv_staken.svg",
+    "category": "defi_cryptoeconomic_verbs_b2_c1",
+    "label_de": "staken",
+    "label_ar": "يَرْهَنُ الْعُمْلَاتِ الرَّقْمِيَّةَ لِدَعْمِ أَمَانِ الشَّبَكَةِ (Staking)",
+    "label_en": "to stake tokens in proof-of-stake networks"
+  },
+  "svg_defiv_validieren": {
+    "file": "svg_defiv_validieren.svg",
+    "path": "content/assets/svg/svg_defiv_validieren.svg",
+    "category": "defi_cryptoeconomic_verbs_b2_c1",
+    "label_de": "validieren",
+    "label_ar": "يُصَادِقُ عَلَى صِحَّةِ الْمُعَامَلَاتِ وَالْكُتَلِ فِي الشَّبَكَةِ",
+    "label_en": "to validate blocks and on-chain transactions"
+  },
+  "svg_defiv_bridgen": {
+    "file": "svg_defiv_bridgen.svg",
+    "path": "content/assets/svg/svg_defiv_bridgen.svg",
+    "category": "defi_cryptoeconomic_verbs_b2_c1",
+    "label_de": "bridgen",
+    "label_ar": "يَنْقُلُ الأُصُولَ عَبْرَ الْجُسُورِ التَّشْفِيرِيَّةِ بَيْنَ سَلَاسِلِ الْكُتَلِ",
+    "label_en": "to bridge tokens across disparate blockchains"
+  },
+  "svg_defiv_hebeln": {
+    "file": "svg_defiv_hebeln.svg",
+    "path": "content/assets/svg/svg_defiv_hebeln.svg",
+    "category": "defi_cryptoeconomic_verbs_b2_c1",
+    "label_de": "hebeln",
+    "label_ar": "يَتَدَاوَلُ بِالرَّافِعَةِ الْمَالِيَّةِ فِي الْمُشْتَقَّاتِ اللَّامَرْكَزِيَّةِ",
+    "label_en": "to trade on leverage / to gear positions"
+  },
+  "svg_defiv_swappen": {
+    "file": "svg_defiv_swappen.svg",
+    "path": "content/assets/svg/svg_defiv_swappen.svg",
+    "category": "defi_cryptoeconomic_verbs_b2_c1",
+    "label_de": "swappen",
+    "label_ar": "يَسْتَبْدِلُ عُمْلَةً رَقْمِيَّةً بِأُخْرَى فَوْرِيًّا عَبْرَ مُجَمَّعِ السُّيُولَةِ",
+    "label_en": "to swap tokens instantaneously via AMMs"
+  },
+  "svg_defiv_minen": {
+    "file": "svg_defiv_minen.svg",
+    "path": "content/assets/svg/svg_defiv_minen.svg",
+    "category": "defi_cryptoeconomic_verbs_b2_c1",
+    "label_de": "minen",
+    "label_ar": "يُعَدِّنُ الْعُمْلَاتِ الرَّقْمِيَّةَ بِبُرْهَانِ الْجُهْدِ الْحِسَابِيِّ (PoW)",
+    "label_en": "to mine cryptocurrencies via computational proof"
+  },
+  "svg_defiv_minten": {
+    "file": "svg_defiv_minten.svg",
+    "path": "content/assets/svg/svg_defiv_minten.svg",
+    "category": "defi_cryptoeconomic_verbs_b2_c1",
+    "label_de": "minten",
+    "label_ar": "يَسُكُّ رُمُوزًا أَوْ أُصُولاً رَقْمِيَّةً جَدِيدَةً عَلَى السَّلْسَلَةِ (Minting)",
+    "label_en": "to mint new tokens or NFTs on-chain"
+  },
+  "svg_defiv_burnen": {
+    "file": "svg_defiv_burnen.svg",
+    "path": "content/assets/svg/svg_defiv_burnen.svg",
+    "category": "defi_cryptoeconomic_verbs_b2_c1",
+    "label_de": "burnen",
+    "label_ar": "يَحْرِقُ الرُّمُوزَ لِإِخْرَاجِهَا نِهَائِيًّا مِنَ التَّدَاوُلِ (Burning)",
+    "label_en": "to burn tokens to reduce supply"
+  },
+  "svg_defiv_arbitrieren": {
+    "file": "svg_defiv_arbitrieren.svg",
+    "path": "content/assets/svg/svg_defiv_arbitrieren.svg",
+    "category": "defi_cryptoeconomic_verbs_b2_c1",
+    "label_de": "arbitrieren",
+    "label_ar": "يَسْتَغِلُّ فُرُوقَ الأَسْعَارِ اللَّحْظِيَّةِ بَيْنَ الْبُورْصَاتِ لِلْمُرَاجَحَةِ",
+    "label_en": "to arbitrage price discrepancies across venues"
+  },
+  "svg_defiv_liquidieren": {
+    "file": "svg_defiv_liquidieren.svg",
+    "path": "content/assets/svg/svg_defiv_liquidieren.svg",
+    "category": "defi_cryptoeconomic_verbs_b2_c1",
+    "label_de": "liquidieren",
+    "label_ar": "يُصَفِّي الضَّمَانَاتِ الْمَرْهُونَةَ جَبْرِيًّا عِنْدَ انْخِفَاضِ قِيمَتِهَا",
+    "label_en": "to liquidate undercollateralized debt positions"
+  },
+  "svg_defiv_absichern": {
+    "file": "svg_defiv_absichern.svg",
+    "path": "content/assets/svg/svg_defiv_absichern.svg",
+    "category": "defi_cryptoeconomic_verbs_b2_c1",
+    "label_de": "absichern",
+    "label_ar": "يَتَحَوَّطُ تَشْفِيرِيًّا ضِدَّ تَقَلُّبَاتِ الأَسْعَارِ (Hedging)",
+    "label_en": "to hedge against volatility risk"
+  },
+  "svg_defiv_hinterlegen": {
+    "file": "svg_defiv_hinterlegen.svg",
+    "path": "content/assets/svg/svg_defiv_hinterlegen.svg",
+    "category": "defi_cryptoeconomic_verbs_b2_c1",
+    "label_de": "hinterlegen",
+    "label_ar": "يُودِعُ أُصُولاً كَضَمَانٍ مَالِيٍّ فِي الْعَقْدِ الذَّكِيِّ (Collateralize)",
+    "label_en": "to deposit collateral in lending protocols"
+  },
+  "svg_defiv_verleihen": {
+    "file": "svg_defiv_verleihen.svg",
+    "path": "content/assets/svg/svg_defiv_verleihen.svg",
+    "category": "defi_cryptoeconomic_verbs_b2_c1",
+    "label_de": "verleihen",
+    "label_ar": "يُقْرِضُ الأُصُولَ الرَّقْمِيَّةَ لِتَحْصِيلِ فَوَائِدَ تِرَاكُمِيَّةٍ",
+    "label_en": "to lend crypto assets for yield"
+  },
+  "svg_defiv_emittieren": {
+    "file": "svg_defiv_emittieren.svg",
+    "path": "content/assets/svg/svg_defiv_emittieren.svg",
+    "category": "defi_cryptoeconomic_verbs_b2_c1",
+    "label_de": "emittieren",
+    "label_ar": "يُصْدِرُ رُمُوزًا حَوْكَمِيَّةً أَوْ أَوْرَاقًا مَالِيَّةً مُشَفَّرَةً",
+    "label_en": "to issue cryptographic tokens"
+  },
+  "svg_defiv_delegieren": {
+    "file": "svg_defiv_delegieren.svg",
+    "path": "content/assets/svg/svg_defiv_delegieren.svg",
+    "category": "defi_cryptoeconomic_verbs_b2_c1",
+    "label_de": "delegieren",
+    "label_ar": "يُفَوِّضُ حُقُوقَ التَّصْوِيتِ أَوْ رَهْنَ الْعُمْلَاتِ لِمُصَادِقِينَ مُحْتَرِفِينَ",
+    "label_en": "to delegate voting rights or stake"
+  },
+  "svg_defiv_partizipieren": {
+    "file": "svg_defiv_partizipieren.svg",
+    "path": "content/assets/svg/svg_defiv_partizipieren.svg",
+    "category": "defi_cryptoeconomic_verbs_b2_c1",
+    "label_de": "partizipieren",
+    "label_ar": "يُشَارِكُ فِي الْحَوْكَمَةِ وَالتَّصْوِيتِ عَلَى مُقْتَرَحَاتِ التَّطْوِيرِ",
+    "label_en": "to participate in governance voting"
+  },
+  "svg_defiv_buendeln": {
+    "file": "svg_defiv_buendeln.svg",
+    "path": "content/assets/svg/svg_defiv_buendeln.svg",
+    "category": "defi_cryptoeconomic_verbs_b2_c1",
+    "label_de": "bündeln",
+    "label_ar": "يَحْزِمُ آلَافَ الْمُعَامَلَاتِ فِي إِثْبَاتٍ مُوَحَّدٍ (Rollup Batching)",
+    "label_en": "to batch / roll up transactions off-chain"
+  },
+  "svg_defiv_verpfaenden": {
+    "file": "svg_defiv_verpfaenden.svg",
+    "path": "content/assets/svg/svg_defiv_verpfaenden.svg",
+    "category": "defi_cryptoeconomic_verbs_b2_c1",
+    "label_de": "verpfänden",
+    "label_ar": "يَرْهَنُ أَصْلاً رَقْمِيًّا لِلْحُصُولِ عَلَى سُيُولَةٍ نَقْدِيَّةٍ",
+    "label_en": "to pledge digital assets as security"
+  },
+  "svg_defiv_einloesen": {
+    "file": "svg_defiv_einloesen.svg",
+    "path": "content/assets/svg/svg_defiv_einloesen.svg",
+    "category": "defi_cryptoeconomic_verbs_b2_c1",
+    "label_de": "einlösen",
+    "label_ar": "يَسْتَرِدُّ الْقِيمَةَ الأَسَاسِيَّةَ لِلرَّمْزِ أَوِ الْعَقْدِ (Redeem)",
+    "label_en": "to redeem underlying assets"
+  },
+  "svg_defiv_skalieren": {
+    "file": "svg_defiv_skalieren.svg",
+    "path": "content/assets/svg/svg_defiv_skalieren.svg",
+    "category": "defi_cryptoeconomic_verbs_b2_c1",
+    "label_de": "skalieren",
+    "label_ar": "يُوَسِّعُ طَاقَةَ مُعَالَجَةِ الشَّبَكَةِ لِاسْتِيعَابِ مَلَايِينِ الْمُعَامَلَاتِ",
+    "label_en": "to scale throughput and computational capacity"
   }
 }
