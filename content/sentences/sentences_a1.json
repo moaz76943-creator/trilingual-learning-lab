@@ -1,5 +1,5 @@
 {
-  "count": 275,
+  "count": 280,
   "sentences": [
     {
       "id": "sent_001",
@@ -5033,6 +5033,114 @@
         "artikulieren."
       ],
       "grammar_point": "Formal modal verb 'vermögen' with anticipatory 'es' and coordinated infinitive clauses in milestone 275"
+    },
+    {
+      "id": "sent_276",
+      "category": "DeFi & Cryptoeconomics",
+      "german": "Intelligente Verträge führen komplexe Finanztransaktionen auf der Blockchain vollautomatisch und manipulationssicher aus.",
+      "arabic": "تُنَفِّذُ الْعُقُودُ الذَّكِيَّةُ الْمُعَامَلَاتِ الْمَالِيَّةَ الْمُعَقَّدَةَ عَلَى سِلْسِلَةِ الْكُتَلِ بِشَكْلٍ آلِيٍّ كَامِلٍ وَمَنِيعٍ ضِدَّ التَّلَاعُبِ.",
+      "english": "Smart contracts execute complex financial transactions on the blockchain fully automatically and tamper-proof.",
+      "tokens": [
+        "Intelligente",
+        "Verträge",
+        "führen",
+        "komplexe",
+        "Finanztransaktionen",
+        "auf",
+        "der",
+        "Blockchain",
+        "vollautomatisch",
+        "und",
+        "manipulationssicher",
+        "aus."
+      ],
+      "grammar_point": "Separable verb 'ausführen' with accusative plural direct object and prepositional phrase 'auf + Dat'"
+    },
+    {
+      "id": "sent_277",
+      "category": "DeFi & Cryptoeconomics",
+      "german": "Dezentrale autonome Organisationen ermöglichen demokratische Entscheidungsfindungen ohne hierarchische Managementstrukturen.",
+      "arabic": "تُمَكِّنُ الْمُنَظَّمَاتُ اللَّامَرْكَزِيَّةُ ذَاتِيَّةُ الْحُكْمِ مِنْ صُنْعِ الْقَرَارَاتِ الدِّيمُقْرَاطِيَّةِ دُونَ هَيَاكِلَ إِدَارِيَّةٍ هَرَمِيَّةٍ.",
+      "english": "Decentralized autonomous organizations enable democratic decision-making without hierarchical management structures.",
+      "tokens": [
+        "Dezentrale",
+        "autonome",
+        "Organisationen",
+        "ermöglichen",
+        "demokratische",
+        "Entscheidungsfindungen",
+        "ohne",
+        "hierarchische",
+        "Managementstrukturen."
+      ],
+      "grammar_point": "Transitive verb 'ermöglichen' with preposition 'ohne + Akk' governing plural adjective declension"
+    },
+    {
+      "id": "sent_278",
+      "category": "DeFi & Cryptoeconomics",
+      "german": "Durch innovative Zero-Knowledge-Beweise lassen sich kryptografische Transaktionen verifizieren ohne sensible Daten offenzulegen.",
+      "arabic": "يُمْكِنُ التَّحَقُّقُ مِنَ الْمُعَامَلَاتِ التَّشْفِيرِيَّةِ عَبْرَ إِثْبَاتَاتِ الْمَعْرِفَةِ الصِّفْرِيَّةِ دُونَ كَشْفِ الْبَيَانَاتِ الْحَسَّاسَةِ.",
+      "english": "Through innovative zero-knowledge proofs, cryptographic transactions can be verified without disclosing sensitive data.",
+      "tokens": [
+        "Durch",
+        "innovative",
+        "Zero-Knowledge-Beweise",
+        "lassen",
+        "sich",
+        "kryptografische",
+        "Transaktionen",
+        "verifizieren",
+        "ohne",
+        "sensible",
+        "Daten",
+        "offenzulegen."
+      ],
+      "grammar_point": "Passive substitute 'sich lassen + Infinitiv' combined with infinitive clause with preposition 'ohne ... offenzulegen'"
+    },
+    {
+      "id": "sent_279",
+      "category": "DeFi & Cryptoeconomics",
+      "german": "Liquiditätsanbieter müssen das Risiko des unbeständigen Verlusts sorgfältig abwägen bevor sie Kapital in Pools binden.",
+      "arabic": "يَتَعَيَّنُ عَلَى مُزَوِّدِي السُّيُولَةِ وَزْنُ مَخَاطِرِ الْخَسَارَةِ غَيْرِ الدَّائِمَةِ بِعِنَايَةٍ قَبْلَ رَهْنِ رُؤُوسِ أَمْوَالِهِمْ فِي الْمُجَمَّعَاتِ.",
+      "english": "Liquidity providers must carefully weigh the risk of impermanent loss before locking capital into pools.",
+      "tokens": [
+        "Liquiditätsanbieter",
+        "müssen",
+        "das",
+        "Risiko",
+        "des",
+        "unbeständigen",
+        "Verlusts",
+        "sorgfältig",
+        "abwägen",
+        "bevor",
+        "sie",
+        "Kapital",
+        "in",
+        "Pools",
+        "binden."
+      ],
+      "grammar_point": "Modal verb construction with separable verb 'abwägen' and temporal subclause with 'bevor'"
+    },
+    {
+      "id": "sent_280",
+      "category": "DeFi & Cryptoeconomics",
+      "german": "Layer-2-Skalierungslösungen entlasten überlastete Hauptnetzwerke und senken die anfallenden Gas-Gebühren spürbar.",
+      "arabic": "تُخَفِّفُ حُلُولُ التَّوَسُّعِ مِنَ الطَّبَقَةِ الثَّانِيَةِ الْعِبْءَ عَنِ الشَّبَكَاتِ الرَّئِيسِيَّةِ الْمُزْدَحِمَةِ وَتَخْفِضُ رُسُومَ الْغَازِ بِشَكْلٍ مَلْحُوظٍ.",
+      "english": "Layer-2 scaling solutions relieve congested mainnets and noticeably lower incurred gas fees.",
+      "tokens": [
+        "Layer-2-Skalierungslösungen",
+        "entlasten",
+        "überlastete",
+        "Hauptnetzwerke",
+        "und",
+        "senken",
+        "die",
+        "anfallenden",
+        "Gas-Gebühren",
+        "spürbar."
+      ],
+      "grammar_point": "Coordinated compound verbs with plural direct objects in milestone sentence 280"
     }
   ]
 }

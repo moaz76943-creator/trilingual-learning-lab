@@ -12981,5 +12981,205 @@
     "label_de": "artikulieren",
     "label_ar": "يُعَبِّرُ لَفْظِيًّا وَبِدِقَّةٍ عَنِ الْمَشَاعِرِ وَالأَفْكَارِ الْبَاطِنِيَّةِ",
     "label_en": "to articulate inner states verbally"
+  },
+  "svg_defi_oekosystem": {
+    "file": "svg_defi_oekosystem.svg",
+    "path": "content/assets/svg/svg_defi_oekosystem.svg",
+    "category": "defi_cryptoeconomics_c1",
+    "label_de": "die dezentralen Finanzen",
+    "label_ar": "الْعُلُومُ الْمَالِيَّةُ اللَّامَرْكَزِيَّةُ (DeFi)",
+    "label_en": "decentralized finance (DeFi)"
+  },
+  "svg_defi_smart_contract": {
+    "file": "svg_defi_smart_contract.svg",
+    "path": "content/assets/svg/svg_defi_smart_contract.svg",
+    "category": "defi_cryptoeconomics_c1",
+    "label_de": "der Smart Contract",
+    "label_ar": "الْعَقْدُ الذَّكِيُّ (عَقْدٌ ذَاتِيُّ التَّنْفِيذِ عَلَى الْبْلُوكْتْشِين)",
+    "label_en": "smart contract"
+  },
+  "svg_defi_konsensmechanismus": {
+    "file": "svg_defi_konsensmechanismus.svg",
+    "path": "content/assets/svg/svg_defi_konsensmechanismus.svg",
+    "category": "defi_cryptoeconomics_c1",
+    "label_de": "der Konsensmechanismus",
+    "label_ar": "آلِيَّةُ الإِجْمَاعِ وَبُرُوتُوكُولُ التَّوَافُقِ",
+    "label_en": "consensus mechanism / consensus protocol"
+  },
+  "svg_defi_proof_of_stake": {
+    "file": "svg_defi_proof_of_stake.svg",
+    "path": "content/assets/svg/svg_defi_proof_of_stake.svg",
+    "category": "defi_cryptoeconomics_c1",
+    "label_de": "das Proof-of-Stake",
+    "label_ar": "إِثْبَاتُ الْحِصَّةِ / بُرْهَانُ الْمُشَارَكَةِ (PoS)",
+    "label_en": "Proof-of-Stake (PoS)"
+  },
+  "svg_defi_proof_of_work": {
+    "file": "svg_defi_proof_of_work.svg",
+    "path": "content/assets/svg/svg_defi_proof_of_work.svg",
+    "category": "defi_cryptoeconomics_c1",
+    "label_de": "das Proof-of-Work",
+    "label_ar": "إِثْبَاتُ الْعَمَلِ / بُرْهَانُ الْجُهْدِ الْحِسَابِيِّ (PoW)",
+    "label_en": "Proof-of-Work (PoW)"
+  },
+  "svg_defi_liquiditaetspool": {
+    "file": "svg_defi_liquiditaetspool.svg",
+    "path": "content/assets/svg/svg_defi_liquiditaetspool.svg",
+    "category": "defi_cryptoeconomics_c1",
+    "label_de": "der Liquiditätspool",
+    "label_ar": "مُجَمَّعُ السُّيُولَةِ النَّقْدِيَّةِ اللَّامَرْكَزِيَّةِ",
+    "label_en": "liquidity pool"
+  },
+  "svg_defi_amm": {
+    "file": "svg_defi_amm.svg",
+    "path": "content/assets/svg/svg_defi_amm.svg",
+    "category": "defi_cryptoeconomics_c1",
+    "label_de": "der automatisierte Market Maker",
+    "label_ar": "صَانِعُ السُّوقِ الآلِيُّ (AMM)",
+    "label_en": "automated market maker (AMM)"
+  },
+  "svg_defi_yield_farming": {
+    "file": "svg_defi_yield_farming.svg",
+    "path": "content/assets/svg/svg_defi_yield_farming.svg",
+    "category": "defi_cryptoeconomics_c1",
+    "label_de": "das Ertragsbauern",
+    "label_ar": "جَنْيُ الْعَوَائِدِ / زِرَاعَةُ الْغِلَالِ الرَّقْمِيَّةِ (Yield Farming)",
+    "label_en": "yield farming / liquidity mining"
+  },
+  "svg_defi_dao": {
+    "file": "svg_defi_dao.svg",
+    "path": "content/assets/svg/svg_defi_dao.svg",
+    "category": "defi_cryptoeconomics_c1",
+    "label_de": "die dezentrale autonome Organisation",
+    "label_ar": "الْمُنَظَّمَةُ اللَّامَرْكَزِيَّةُ ذَاتِيَّةُ الْحُكْمِ (DAO)",
+    "label_en": "decentralized autonomous organization (DAO)"
+  },
+  "svg_defi_orakel": {
+    "file": "svg_defi_orakel.svg",
+    "path": "content/assets/svg/svg_defi_orakel.svg",
+    "category": "defi_cryptoeconomics_c1",
+    "label_de": "die Orakel-Infrastruktur",
+    "label_ar": "بِنْيَةُ أَنْظِمَةِ الأُورَاكِل (جَسْرُ الْبَيَانَاتِ الْخَارِجِيَّةِ)",
+    "label_en": "blockchain oracle infrastructure"
+  },
+  "svg_defi_zk_proof": {
+    "file": "svg_defi_zk_proof.svg",
+    "path": "content/assets/svg/svg_defi_zk_proof.svg",
+    "category": "defi_cryptoeconomics_c1",
+    "label_de": "die Zero-Knowledge-Beweisführung",
+    "label_ar": "إِثْبَاتُ الْمَعْرِفَةِ الصِّفْرِيَّةِ (ZK-Proof)",
+    "label_en": "zero-knowledge proof (ZKP)"
+  },
+  "svg_defi_sharding": {
+    "file": "svg_defi_sharding.svg",
+    "path": "content/assets/svg/svg_defi_sharding.svg",
+    "category": "defi_cryptoeconomics_c1",
+    "label_de": "das Sharding",
+    "label_ar": "تَقْسِيمُ الشَّبَكَةِ / التَّجْزِئَةُ الأُفُقِيَّةُ لِلْبْلُوكْتْشِين (Sharding)",
+    "label_en": "blockchain sharding"
+  },
+  "svg_defi_layer2": {
+    "file": "svg_defi_layer2.svg",
+    "path": "content/assets/svg/svg_defi_layer2.svg",
+    "category": "defi_cryptoeconomics_c1",
+    "label_de": "die Layer-2-Skalierungslösung",
+    "label_ar": "حُلُولُ التَّوَسُّعِ مِنَ الطَّبَقَةِ الثَّانِيَةِ (Rollups / Sidechains)",
+    "label_en": "layer-2 scaling solution (Rollups)"
+  },
+  "svg_defi_tokenomics": {
+    "file": "svg_defi_tokenomics.svg",
+    "path": "content/assets/svg/svg_defi_tokenomics.svg",
+    "category": "defi_cryptoeconomics_c1",
+    "label_de": "die Tokenomics",
+    "label_ar": "الاقْتِصَادُ الرَّمْزِيُّ (حَوَافِزُ وَإِمْدَادَاتُ الرُّمُوزِ)",
+    "label_en": "tokenomics / cryptoeconomics"
+  },
+  "svg_defi_impermanent_loss": {
+    "file": "svg_defi_impermanent_loss.svg",
+    "path": "content/assets/svg/svg_defi_impermanent_loss.svg",
+    "category": "defi_cryptoeconomics_c1",
+    "label_de": "der unbeständige Verlust",
+    "label_ar": "الْخَسَارَةُ غَيْرُ الدَّائِمَةِ / الْخَسَارَةُ الْعَابِرَةُ فِي مُجَمَّعَاتِ السُّيُولَةِ",
+    "label_en": "impermanent loss"
+  },
+  "svg_defi_stablecoin": {
+    "file": "svg_defi_stablecoin.svg",
+    "path": "content/assets/svg/svg_defi_stablecoin.svg",
+    "category": "defi_cryptoeconomics_c1",
+    "label_de": "der Stablecoin",
+    "label_ar": "الْعُمْلَةُ الْمُسْتَقِرَّةُ (الْمُرْتَبِطَةُ بِسِعْرِ الْعُمْلَاتِ التَّقْلِيدِيَّةِ)",
+    "label_en": "stablecoin / fiat-pegged token"
+  },
+  "svg_defi_self_custody": {
+    "file": "svg_defi_self_custody.svg",
+    "path": "content/assets/svg/svg_defi_self_custody.svg",
+    "category": "defi_cryptoeconomics_c1",
+    "label_de": "die Selbstverwahrung",
+    "label_ar": "الْحِيَازَةُ وَالْحِفْظُ الذَّاتِيُّ لِلْمَفَاتِيحِ (Self-Custody)",
+    "label_en": "self-custody / non-custodial holding"
+  },
+  "svg_defi_interoperabilitaet": {
+    "file": "svg_defi_interoperabilitaet.svg",
+    "path": "content/assets/svg/svg_defi_interoperabilitaet.svg",
+    "category": "defi_cryptoeconomics_c1",
+    "label_de": "die Interoperabilität",
+    "label_ar": "التَّشْغِيلُ الْبَيْنِيُّ لِسَلَاسِلِ الْكُتَلِ (Cross-Chain Bridges)",
+    "label_en": "cross-chain interoperability"
+  },
+  "svg_defi_flash_loan": {
+    "file": "svg_defi_flash_loan.svg",
+    "path": "content/assets/svg/svg_defi_flash_loan.svg",
+    "category": "defi_cryptoeconomics_c1",
+    "label_de": "der Flash-Kredit",
+    "label_ar": "الْقَرْضُ الْخَاطِفُ غَيْرُ الْمَضْمُونِ (Flash Loan)",
+    "label_en": "flash loan / uncollateralized instant loan"
+  },
+  "svg_defi_immutabilitaet": {
+    "file": "svg_defi_immutabilitaet.svg",
+    "path": "content/assets/svg/svg_defi_immutabilitaet.svg",
+    "category": "defi_cryptoeconomics_c1",
+    "label_de": "die Immutabilität",
+    "label_ar": "عَدَمُ قَابِلِيَّةِ التَّغْيِيرِ أَوْ التَّحْرِيفِ لِلسِّجِلَّاتِ (Immutability)",
+    "label_en": "ledger immutability"
+  },
+  "svg_defi_gas_gebuehr": {
+    "file": "svg_defi_gas_gebuehr.svg",
+    "path": "content/assets/svg/svg_defi_gas_gebuehr.svg",
+    "category": "defi_cryptoeconomics_c1",
+    "label_de": "die Gas-Gebühr",
+    "label_ar": "رُسُومُ الْغَازِ / رُسُومُ مُعَالَجَةِ الْمُعَامَلَاتِ الشَّبَكِيَّةِ",
+    "label_en": "gas fee / transaction computational fee"
+  },
+  "svg_defi_staking_rendite": {
+    "file": "svg_defi_staking_rendite.svg",
+    "path": "content/assets/svg/svg_defi_staking_rendite.svg",
+    "category": "defi_cryptoeconomics_c1",
+    "label_de": "die Staking-Rendite",
+    "label_ar": "عَائِدُ الرَّهْنِ وَالْمُشَارَكَةِ الشَّبَكِيَّةِ (Staking Yield)",
+    "label_en": "staking yield / protocol validator reward"
+  },
+  "svg_defi_token_verbrennung": {
+    "file": "svg_defi_token_verbrennung.svg",
+    "path": "content/assets/svg/svg_defi_token_verbrennung.svg",
+    "category": "defi_cryptoeconomics_c1",
+    "label_de": "die Token-Verbrennung",
+    "label_ar": "حَرْقُ الرُّمُوزِ الانْكِمَاشِيُّ (إِتْلَافُ الْعُمْلَاتِ لِخَفْضِ الْمَعْرُوضِ)",
+    "label_en": "token burning / deflationary burn mechanism"
+  },
+  "svg_defi_schluesselverwaltung": {
+    "file": "svg_defi_schluesselverwaltung.svg",
+    "path": "content/assets/svg/svg_defi_schluesselverwaltung.svg",
+    "category": "defi_cryptoeconomics_c1",
+    "label_de": "die kryptografische Schlüsselverwaltung",
+    "label_ar": "إِدَارَةُ الْمَفَاتِيحِ التَّشْفِيرِيَّةِ الْخَاصَّةِ",
+    "label_en": "cryptographic private key management"
+  },
+  "svg_defi_mev": {
+    "file": "svg_defi_mev.svg",
+    "path": "content/assets/svg/svg_defi_mev.svg",
+    "category": "defi_cryptoeconomics_c1",
+    "label_de": "das Maximal Extractable Value",
+    "label_ar": "الْقِيمَةُ الْقُصْوَى الْمُسْتَخْرَجَةُ مِنَ الْمُعَامَلَاتِ (MEV)",
+    "label_en": "maximal extractable value (MEV)"
   }
 }

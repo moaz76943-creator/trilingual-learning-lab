@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <defs>
+    <linearGradient id="grad_svg_defi_sharding" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#064E3B" />
+      <stop offset="50%" stop-color="#10B981" />
+      <stop offset="100%" stop-color="#6EE7B7" />
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="18" fill="url(#grad_svg_defi_sharding)"/>
+  <!-- Blockchain Blocks & Cryptoeconomic Nodes Motif -->
+  <polygon points="50,22 76,36 50,50 24,36" fill="none" stroke="#FFFFFF" stroke-width="2.2"/>
+  <polygon points="50,50 76,36 76,56 50,70" fill="none" stroke="#FFFFFF" stroke-width="2.2" opacity="0.8"/>
+  <polygon points="50,50 24,36 24,56 50,70" fill="none" stroke="#FFFFFF" stroke-width="2.2" opacity="0.8"/>
+  <circle cx="50" cy="43" r="3.5" fill="#FFFFFF"/>
+  <!-- Badge -->
+  <rect x="14" y="74" width="72" height="16" rx="8" fill="#FFFFFF" opacity="0.2"/>
+  <text x="50" y="85.5" font-family="system-ui, sans-serif" font-size="6.5" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Sharding</text>
+</svg>
