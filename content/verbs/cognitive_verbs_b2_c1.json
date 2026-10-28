@@ -1,0 +1,370 @@
+{
+  "engine_id": "cognitive_verbs_b2_c1",
+  "title_ar": "أفعال الإدراك والتفكير المجرد والاستدلال",
+  "title_de": "Kognitive, epistemische und argumentative Verben (B2/C1)",
+  "title_en": "Cognitive, Epistemic & Abstract Reasoning Verbs (B2/C1)",
+  "level": "B2/C1",
+  "count": 20,
+  "verbs": [
+    {
+      "id": "cog_01",
+      "infinitive": "vermuten",
+      "translation_ar": "يُرجِّح / يخمِّن / يفترض",
+      "translation_en": "to presume / to suspect / to assume",
+      "construction": "transitiv / + dass-Satz",
+      "present_third": "vermutet",
+      "preterite_third": "vermutete",
+      "perfect_third": "hat vermutet",
+      "svg_id": "svg_cog_vermuten",
+      "examples": [
+        {
+          "de": "Experten vermuten, dass die Reform spürbare Entlastungen bringt.",
+          "ar": "يُرَجِّحُ الخُبَرَاءُ أَنَّ الإِصْلَاحَ سَيَجْلِبُ تَخْفِيفًا مَلْحُوظًا.",
+          "en": "Experts presume that the reform will bring noticeable relief."
+        }
+      ]
+    },
+    {
+      "id": "cog_02",
+      "infinitive": "erachten",
+      "translation_ar": "يَعُدُّ / يَرَى / يَعْتَبِر",
+      "translation_en": "to deem / to consider / to judge",
+      "construction": "erachten für + Akk / als + Adj",
+      "present_third": "erachtet",
+      "preterite_third": "erachtete",
+      "perfect_third": "hat erachtet",
+      "svg_id": "svg_cog_erachten",
+      "examples": [
+        {
+          "de": "Das Gremium erachtet diese Maßnahme als unumgänglich.",
+          "ar": "تَعْتَبِرُ اللَّجْنَةُ هَذَا الإِجْرَاءَ أَمْرًا لَا مَفَرَّ مِنْهُ.",
+          "en": "The committee deems this measure unavoidable."
+        }
+      ]
+    },
+    {
+      "id": "cog_03",
+      "infinitive": "feststellen",
+      "translation_ar": "يَسْتَنْبِطُ / يُلَاحِظُ / يُثْبِتُ حَقِيقَة",
+      "translation_en": "to ascertain / to notice / to state",
+      "construction": "transitiv / + dass-Satz",
+      "present_third": "stellt fest",
+      "preterite_third": "stellte fest",
+      "perfect_third": "hat festgestellt",
+      "svg_id": "svg_cog_feststellen",
+      "examples": [
+        {
+          "de": "Die Auditoren stellten gravierende Mängel fest.",
+          "ar": "أَثْبَتَ الْمُدَقِّقُونَ وُجُودَ عُيُوبٍ جَسِيمَةٍ.",
+          "en": "The auditors ascertained grave deficiencies."
+        }
+      ]
+    },
+    {
+      "id": "cog_04",
+      "infinitive": "postulieren",
+      "translation_ar": "يَفْرِضُ كَبَدِيهِيَّة / يُطَالِبُ مَنْطِقِيًّا",
+      "translation_en": "to postulate / to posit",
+      "construction": "transitiv / + dass-Satz",
+      "present_third": "postuliert",
+      "preterite_third": "postulierte",
+      "perfect_third": "hat postuliert",
+      "svg_id": "svg_cog_postulieren",
+      "examples": [
+        {
+          "de": "Die Theorie postuliert die Existenz verborgener Dimensionen.",
+          "ar": "تَفْتَرِضُ النَّظَرِيَّةُ وُجُودَ أَبْعَادٍ خَفِيَّةٍ.",
+          "en": "The theory postulates the existence of hidden dimensions."
+        }
+      ]
+    },
+    {
+      "id": "cog_05",
+      "infinitive": "bezweifeln",
+      "translation_ar": "يَشُكُّ فِي / يَرْتَابُ فِي",
+      "translation_en": "to doubt / to question",
+      "construction": "transitiv / + ob-Satz",
+      "present_third": "bezweifelt",
+      "preterite_third": "bezweifelte",
+      "perfect_third": "hat bezweifelt",
+      "svg_id": "svg_cog_bezweifeln",
+      "examples": [
+        {
+          "de": "Niemand bezweifelt die Aufrichtigkeit ihrer Motive.",
+          "ar": "لَا أَحَدَ يَشُكُّ فِي إِخْلَاصِ نَوَايَاهَا.",
+          "en": "No one doubts the sincerity of her motives."
+        }
+      ]
+    },
+    {
+      "id": "cog_06",
+      "infinitive": "implizieren",
+      "translation_ar": "يَتَضَمَّنُ ضِمْنِيًّا / يَسْتَلْزِم",
+      "translation_en": "to imply / to entail",
+      "construction": "transitiv / + dass-Satz",
+      "present_third": "impliziert",
+      "preterite_third": "implizierte",
+      "perfect_third": "hat impliziert",
+      "svg_id": "svg_cog_implizieren",
+      "examples": [
+        {
+          "de": "Diese Entscheidung impliziert erhebliche finanzielle Risiken.",
+          "ar": "يَسْتَلْزِمُ هَذَا الْقَرَارُ مَخَاطِرَ مَالِيَّةً كَبِيرَةً.",
+          "en": "This decision implies substantial financial risks."
+        }
+      ]
+    },
+    {
+      "id": "cog_07",
+      "infinitive": "folgern",
+      "translation_ar": "يَسْتَنْتِجُ / يَسْتَدِلُّ",
+      "translation_en": "to deduce / to infer",
+      "construction": "folgern aus + Dat",
+      "present_third": "folgert",
+      "preterite_third": "folgerte",
+      "perfect_third": "hat gefolgert",
+      "svg_id": "svg_cog_folgern",
+      "examples": [
+        {
+          "de": "Aus den Indizien folgerte die Kriminalpolizei den Tathergang.",
+          "ar": "اسْتَنْتَجَتِ الشُّرْطَةُ الْجِنَائِيَّةُ مُجْرَيَاتِ الْجَرِيمَةِ مِنَ الْقَرَائِنِ.",
+          "en": "From the clues, the investigators deduced the course of the crime."
+        }
+      ]
+    },
+    {
+      "id": "cog_08",
+      "infinitive": "mutmaßen",
+      "translation_ar": "يَتَكَهَّنُ / يُخَمِّنُ بِحَذَر",
+      "translation_en": "to conjecture / to surmise",
+      "construction": "transitiv / + dass-Satz",
+      "present_third": "mutmaßt",
+      "preterite_third": "mutmaßte",
+      "perfect_third": "hat gemutmaßt",
+      "svg_id": "svg_cog_mutmassen",
+      "examples": [
+        {
+          "de": "Analysten mutmaßen über die zukünftige Zinspolitik.",
+          "ar": "يَتَكَهَّنُ الْمُحَلِّلُونَ حَوْلَ سِيَاسَةِ أَسْعَارِ الْفَائِدَةِ الْمُسْتَقْبَلِيَّةِ.",
+          "en": "Analysts surmise about future interest rate policy."
+        }
+      ]
+    },
+    {
+      "id": "cog_09",
+      "infinitive": "annehmen",
+      "translation_ar": "يَفْتَرِضُ جَدَلاً / يَقْبَل",
+      "translation_en": "to assume / to presume",
+      "construction": "transitiv / + dass-Satz",
+      "present_third": "nimmt an",
+      "preterite_third": "nahm an",
+      "perfect_third": "hat angenommen",
+      "svg_id": "svg_cog_annehmen",
+      "examples": [
+        {
+          "de": "Wir nehmen an, dass die Verhandlungen planmäßig verlaufen.",
+          "ar": "نَفْتَرِضُ أَنَّ الْمُفَاوَضَاتِ تَسِيرُ وَفْقَ الْخُطَّةِ.",
+          "en": "We assume that negotiations are proceeding as scheduled."
+        }
+      ]
+    },
+    {
+      "id": "cog_10",
+      "infinitive": "einräumen",
+      "translation_ar": "يُقِرُّ بِـ / يَعْتَرِفُ بِـ",
+      "translation_en": "to concede / to admit",
+      "construction": "einräumen + Dat + Akk / + dass-Satz",
+      "present_third": "räumt ein",
+      "preterite_third": "räumte ein",
+      "perfect_third": "hat eingeräumt",
+      "svg_id": "svg_cog_einraeumen",
+      "examples": [
+        {
+          "de": "Der Sprecher räumte ein, dass Fehler unterlaufen waren.",
+          "ar": "أَقَرَّ الْمُتَحَدِّثُ بِأَنَّ أَخْطَاءً قَدْ حَدَثَتْ.",
+          "en": "The spokesperson conceded that mistakes had been made."
+        }
+      ]
+    },
+    {
+      "id": "cog_11",
+      "infinitive": "ergründen",
+      "translation_ar": "يَسْبُرُ غَوْرَ / يَتَقَصَّى بِعُمْق",
+      "translation_en": "to fathom / to investigate thoroughly",
+      "construction": "transitiv",
+      "present_third": "ergründet",
+      "preterite_third": "ergründete",
+      "perfect_third": "hat ergründet",
+      "svg_id": "svg_cog_ergruenden",
+      "examples": [
+        {
+          "de": "Die Forscher versuchen, die Ursachen des Phänomens zu ergründen.",
+          "ar": "يُحَاوِلُ الْبَاحِثُونَ سَبْرَ غَوْرِ أَسْبَابِ هَذِهِ الظَّاهِرَةِ.",
+          "en": "Researchers seek to fathom the causes of the phenomenon."
+        }
+      ]
+    },
+    {
+      "id": "cog_12",
+      "infinitive": "schlussfolgern",
+      "translation_ar": "يَسْتَخْلِصُ نَتِيجَةً نِهَائِيَّة",
+      "translation_en": "to conclude / to infer logically",
+      "construction": "schlussfolgern aus + Dat",
+      "present_third": "schlussfolgert",
+      "preterite_third": "schlussfolgerte",
+      "perfect_third": "hat geschlussfolgert",
+      "svg_id": "svg_cog_schlussfolgern",
+      "examples": [
+        {
+          "de": "Aus den Versuchsreihen lässt sich Eindeutiges schlussfolgern.",
+          "ar": "يُمْكِنُ اسْتِخْلَاصُ نَتِيجَةٍ قَاطِعَةٍ مِنْ سِلْسِلَةِ التَّجَارِبِ.",
+          "en": "Unambiguous conclusions can be inferred from the series of experiments."
+        }
+      ]
+    },
+    {
+      "id": "cog_13",
+      "infinitive": "begreifen",
+      "translation_ar": "يَسْتَوْعِبُ كُلِّيًّا / يُدْرِكُ كُنْهَ الأَمْر",
+      "translation_en": "to comprehend / to grasp conceptually",
+      "construction": "transitiv / als + Akk",
+      "present_third": "begreift",
+      "preterite_third": "begriff",
+      "perfect_third": "hat begriffen",
+      "svg_id": "svg_cog_begreifen",
+      "examples": [
+        {
+          "de": "Er begriff endlich die Tragweite seiner Handlungen.",
+          "ar": "أَدْرَكَ أَخِيرًا أَبْعَادَ وَخُطُورَةَ أَفْعَالِهِ.",
+          "en": "He finally comprehended the magnitude of his actions."
+        }
+      ]
+    },
+    {
+      "id": "cog_14",
+      "infinitive": "nachvollziehen",
+      "translation_ar": "يَتَفَهَّمُ مَنْطِقِيًّا / يُتَابِعُ تَسَلْسُلَ فِكْرَة",
+      "translation_en": "to comprehend / to retrace reasoning",
+      "construction": "transitiv",
+      "present_third": "vollzieht nach",
+      "preterite_third": "vollzog nach",
+      "perfect_third": "hat nachvollzogen",
+      "svg_id": "svg_cog_nachvollziehen",
+      "examples": [
+        {
+          "de": "Ihre Argumentation lässt sich lückenlos nachvollziehen.",
+          "ar": "يُمْكِنُ تَفَهُّمُ وَمُتَابَعَةُ حُجَّتِهَا بِشَكْلٍ مَنْطِقِيٍّ دُونَ ثَغَرَاتٍ.",
+          "en": "Her line of reasoning can be completely retraced without flaws."
+        }
+      ]
+    },
+    {
+      "id": "cog_15",
+      "infinitive": "abwägen",
+      "translation_ar": "يَزِنُ الأُمُورَ / يُفَاضِلُ بَيْنَ الْخِيَارَات",
+      "translation_en": "to weigh up / to ponder carefully",
+      "construction": "transitiv (Vor- und Nachteile abwägen)",
+      "present_third": "wägt ab",
+      "preterite_third": "wog ab",
+      "perfect_third": "hat abgewogen",
+      "svg_id": "svg_cog_abwaegen",
+      "examples": [
+        {
+          "de": "Wir müssen alle Risiken sorgfältig gegeneinander abwägen.",
+          "ar": "يَجِبُ عَلَيْنَا أَنْ نَزِنَ جَمِيعَ الْمَخَاطِرِ بِعِنَايَةٍ فِي مُوَاجَهَةِ بَعْضِهَا.",
+          "en": "We must carefully weigh all risks against one another."
+        }
+      ]
+    },
+    {
+      "id": "cog_16",
+      "infinitive": "konstatieren",
+      "translation_ar": "يُقَرِّرُ رَسْمِيًّا / يُثْبِتُ وَاقِعَة",
+      "translation_en": "to state / to establish factually",
+      "construction": "transitiv / + dass-Satz",
+      "present_third": "konstatiert",
+      "preterite_third": "konstatierte",
+      "perfect_third": "hat konstatiert",
+      "svg_id": "svg_cog_konstatieren",
+      "examples": [
+        {
+          "de": "Der Bericht konstatiert einen deutlichen Aufwärtstrend.",
+          "ar": "يُقَرِّرُ التَّقْرِيرُ وُجُودَ اتِّجَاهٍ صُعُودِيٍّ وَاضِحٍ.",
+          "en": "The report states a distinct upward trend."
+        }
+      ]
+    },
+    {
+      "id": "cog_17",
+      "infinitive": "erörtern",
+      "translation_ar": "يُنَاقِشُ بِاسْتِفَاضَة / يَتَدَاوَلُ فِي مَسْأَلَة",
+      "translation_en": "to discuss thoroughly / to examine",
+      "construction": "transitiv",
+      "present_third": "erörtert",
+      "preterite_third": "erörterte",
+      "perfect_third": "hat erörtert",
+      "svg_id": "svg_cog_eroertern",
+      "examples": [
+        {
+          "de": "Die Delegierten erörterten verschiedene Lösungsansätze.",
+          "ar": "نَاقَشَ الْمَنْدُوبُونَ مَقَارَبَاتِ حَلٍّ مُخْتَلِفَةً بِاسْتِفَاضَةٍ.",
+          "en": "The delegates thoroughly discussed diverse solution approaches."
+        }
+      ]
+    },
+    {
+      "id": "cog_18",
+      "infinitive": "relativieren",
+      "translation_ar": "يَضَعُ فِي سِيَاقٍ نِسْبِيّ / يُخَفِّفُ مِنْ حِدَّةِ أَمْر",
+      "translation_en": "to put into perspective / to relativize",
+      "construction": "transitiv",
+      "present_third": "relativiert",
+      "preterite_third": "relativierte",
+      "perfect_third": "hat relativiert",
+      "svg_id": "svg_cog_relativieren",
+      "examples": [
+        {
+          "de": "Neue Daten relativieren die bisherigen Befürchtungen.",
+          "ar": "تَضَعُ الْبَيَانَاتُ الْجَدِيدَةُ الْمَخَاوِفَ السَّابِقَةَ فِي سِيَاقٍ نِسْبِيٍّ أَخَفَّ حِدَّةً.",
+          "en": "New data put previous apprehensions into perspective."
+        }
+      ]
+    },
+    {
+      "id": "cog_19",
+      "infinitive": "veranschaulichen",
+      "translation_ar": "يُوَضِّحُ بِأَمْثِلَة / يُجَسِّدُ عِيَانِيًّا",
+      "translation_en": "to illustrate / to exemplify",
+      "construction": "transitiv / durch + Akk",
+      "present_third": "veranschaulicht",
+      "preterite_third": "veranschaulichte",
+      "perfect_third": "hat veranschaulicht",
+      "svg_id": "svg_cog_veranschaulichen",
+      "examples": [
+        {
+          "de": "Die Grafik veranschaulicht die Dynamik der Marktanteile.",
+          "ar": "يُوَضِّحُ الرَّسْمُ الْبَيَانِيُّ دِينَامِيكِيَّةَ الْحِصَصِ السُّوقِيَّةِ بِشَكْلٍ عِيَانِيٍّ.",
+          "en": "The graph illustrates the dynamics of market shares."
+        }
+      ]
+    },
+    {
+      "id": "cog_20",
+      "infinitive": "plausibilisieren",
+      "translation_ar": "يُثْبِتُ مَعْقُولِيَّةَ / يُدَعِّمُ صِدْقِيَّةَ طَرْح",
+      "translation_en": "to substantiate / to check for plausibility",
+      "construction": "transitiv",
+      "present_third": "plausibilisiert",
+      "preterite_third": "plausibilisierte",
+      "perfect_third": "hat plausibilisiert",
+      "svg_id": "svg_cog_plausibilisieren",
+      "examples": [
+        {
+          "de": "Zusätzliche Berechnungen plausibilisieren das Modell.",
+          "ar": "تُدَعِّمُ الْحِسَابَاتُ الإِضَافِيَّةُ مَعْقُولِيَّةَ النَّمُوذَجِ وَصِدْقِيَّتَهُ.",
+          "en": "Additional calculations substantiate the plausibility of the model."
+        }
+      ]
+    }
+  ]
+}
