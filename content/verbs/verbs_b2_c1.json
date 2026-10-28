@@ -1,0 +1,411 @@
+{
+  "engine_id": "verbs_b2_c1",
+  "title": {
+    "ar": "بنك الأفعال الأكاديمية المتقدمة وحروف الجر الملازمة (B2/C1)",
+    "de": "Fortgeschrittene Verben mit Präpositionen (B2/C1)",
+    "en": "Advanced Verbs with Prepositional Government (B2/C1)"
+  },
+  "level": "B2/C1",
+  "verbs": [
+    {
+      "id": "v_036",
+      "infinitive": "beitragen",
+      "icon": "v_beitragen",
+      "conjugation": {
+        "praesens_er": "trägt bei",
+        "praeteritum": "trug bei",
+        "perfekt": "hat beigetragen",
+        "konjunktiv_ii": "trüge bei"
+      },
+      "preposition": "zu",
+      "governed_case": "Dativ",
+      "meaning_ar": "يُسْهِمُ فِي / يُشَارِكُ فِي إِحْدَاثِ أَمْرٍ",
+      "meaning_en": "to contribute to",
+      "example": {
+        "de": "Erneuerbare Energien tragen entscheidend zur Reduktion der Treibhausgase bei.",
+        "ar": "تُسْهِمُ الطَّاقَاتُ المُتَجَدِّدَةُ بِشَكْلٍ حَاسِمٍ فِي خَفْضِ غَازَاتِ الِاحْتِبَاسِ الحَرَارِيِّ.",
+        "en": "Renewable energies contribute decisively to the reduction of greenhouse gases."
+      }
+    },
+    {
+      "id": "v_037",
+      "infinitive": "hinweisen",
+      "icon": "v_hinweisen",
+      "conjugation": {
+        "praesens_er": "weist hin",
+        "praeteritum": "wies hin",
+        "perfekt": "hat hingewiesen",
+        "konjunktiv_ii": "wiese hin"
+      },
+      "preposition": "auf",
+      "governed_case": "Akkusativ",
+      "meaning_ar": "يُشِيرُ إِلَى / يَلْفِتُ الِانْتِبَاهَ إِلَى",
+      "meaning_en": "to point out / to draw attention to",
+      "example": {
+        "de": "Der Experte wies nachdrücklich auf die ökonomischen Risiken der Inflation hin.",
+        "ar": "أَشَارَ الخَبِيرُ بِتَأْكِيدٍ شَدِيدٍ إِلَى المَخَاطِرِ الِاقْتِصَادِيَّةِ لِلتَّضَخُّمِ.",
+        "en": "The expert emphatically pointed out the economic risks of inflation."
+      }
+    },
+    {
+      "id": "v_038",
+      "infinitive": "hervorgehen",
+      "icon": "v_hervorgehen",
+      "conjugation": {
+        "praesens_er": "geht hervor",
+        "praeteritum": "ging hervor",
+        "perfekt": "ist hervorgegangen",
+        "konjunktiv_ii": "ginge hervor"
+      },
+      "preposition": "aus",
+      "governed_case": "Dativ",
+      "meaning_ar": "يَنْبَثِقُ عَنْ / يَتَّضِحُ أَوْ يَسْتَنْتِجُ مِنْ",
+      "meaning_en": "to emerge from / to be evident from",
+      "example": {
+        "de": "Aus den vorgelegten Dokumenten geht die Unschuld des Angeklagten eindeutig hervor.",
+        "ar": "يَتَّضِحُ مِنْ خِلَالِ الوَثَائِقِ المُقَدَّمَةِ بَرَاءَةُ المُتَّهَمِ بِشَكْلٍ لَا يَدَعُ مَجَالاً لِلشَّكِّ.",
+        "en": "From the presented documents, the innocence of the accused is clearly evident."
+      }
+    },
+    {
+      "id": "v_039",
+      "infinitive": "verzichten",
+      "icon": "v_verzichten",
+      "conjugation": {
+        "praesens_er": "verzichtet",
+        "praeteritum": "verzichtete",
+        "perfekt": "hat verzichtet",
+        "konjunktiv_ii": "verzichtete"
+      },
+      "preposition": "auf",
+      "governed_case": "Akkusativ",
+      "meaning_ar": "يَتَنَازَلُ عَنْ / يَعْزُفُ عَنْ طَوْعًا",
+      "meaning_en": "to forego / to dispense with / to renounce",
+      "example": {
+        "de": "Umweltbewusste Bürger verzichten im Nahverkehr zunehmend auf das eigene Auto.",
+        "ar": "يَتَنَازَلُ المُواطِنُونَ الوَاعُونَ بِيئِيًّا بِاطِّرَادٍ عَنِ اسْتِخْدَامِ السَّيَّارَاتِ الخَاصَّةِ فِي التَّنَقُّلِ المَحَلِّيِّ.",
+        "en": "Environmentally conscious citizens increasingly forego personal cars in urban transit."
+      }
+    },
+    {
+      "id": "v_040",
+      "infinitive": "sich auseinandersetzen",
+      "icon": "v_auseinandersetzen",
+      "conjugation": {
+        "praesens_er": "setzt sich auseinander",
+        "praeteritum": "setzte sich auseinander",
+        "perfekt": "hat sich auseinandergesetzt",
+        "konjunktiv_ii": "setzte sich auseinander"
+      },
+      "preposition": "mit",
+      "governed_case": "Dativ",
+      "meaning_ar": "يَتَعَامَلُ نَقْدِيًّا مَعَ / يَدْرُسُ مَسْأَلَةً بِعُمْقٍ",
+      "meaning_en": "to grapple with / to examine critically",
+      "example": {
+        "de": "Die Abhandlung setzt sich kritisch mit den Thesen des Postmodernismus auseinander.",
+        "ar": "تَتَعَامَلُ الأُطْرُوحَةُ بِشَكْلٍ نَقْدِيٍّ وَعَمِيقٍ مَعَ فَرَضِيَّاتِ مَا بَعْدَ الحَدَاثَةِ.",
+        "en": "The treatise grapples critically with the hypotheses of postmodernism."
+      }
+    },
+    {
+      "id": "v_041",
+      "infinitive": "sich widmen",
+      "icon": "v_widmen",
+      "conjugation": {
+        "praesens_er": "widmet sich",
+        "praeteritum": "widmete sich",
+        "perfekt": "hat sich gewidmet",
+        "konjunktiv_ii": "widmete sich"
+      },
+      "preposition": "ohne (Dativ-Objekt)",
+      "governed_case": "Dativ",
+      "meaning_ar": "يُكَرِّسُ نَفْسَهُ أَوْ جُهْدَهُ لِـ",
+      "meaning_en": "to dedicate oneself to",
+      "example": {
+        "de": "Nach dem Abschluss widmete sich die Forscherin ganz der Entschlüsselung seltener Erbkrankheiten.",
+        "ar": "بَعْدَ التَّخَرُّجِ، كَرَّسَتِ البَاحِثَةُ كُلَّ جُهْدِهَا لِفَكِّ شَفْرَةِ الأَمْرَاضِ الوِرَاثِيَّةِ النَّادِرَةِ.",
+        "en": "After graduating, the researcher dedicated herself entirely to decoding rare hereditary diseases."
+      }
+    },
+    {
+      "id": "v_042",
+      "infinitive": "plädieren",
+      "icon": "v_plaedieren",
+      "conjugation": {
+        "praesens_er": "plädiert",
+        "praeteritum": "plädierte",
+        "perfekt": "hat plädiert",
+        "konjunktiv_ii": "plädierte"
+      },
+      "preposition": "für",
+      "governed_case": "Akkusativ",
+      "meaning_ar": "يَدْعُو إِلَى / يُنَادِي بِـ / يُدَافِعُ عَنْ رَأْيٍ",
+      "meaning_en": "to plead for / to advocate",
+      "example": {
+        "de": "Zahlreiche Ökonomen plädieren für eine umfassende Entlastung kleiner und mittlerer Betriebe.",
+        "ar": "يَدْعُو العَدِيدُ مِنَ الاقْتِصَادِيِّينَ إِلَى تَخْفِيفِ الأَعْبَاءِ الشَّامِلِ عَنِ المَشَارِيعِ الصَّغِيرَةِ وَالمُتَوَسِّطَةِ.",
+        "en": "Numerous economists advocate for comprehensive relief for small and medium-sized enterprises."
+      }
+    },
+    {
+      "id": "v_043",
+      "infinitive": "ankommen",
+      "icon": "v_ankommen",
+      "conjugation": {
+        "praesens_er": "kommt an",
+        "praeteritum": "kam an",
+        "perfekt": "ist angekommen",
+        "konjunktiv_ii": "käme an"
+      },
+      "preposition": "auf",
+      "governed_case": "Akkusativ",
+      "meaning_ar": "يَتَوَقَّفُ عَلَى / يَتَّكِئُ عَلَى شَرْطٍ مُعَيَّنٍ",
+      "meaning_en": "to depend on / to hinge upon",
+      "example": {
+        "de": "Bei internationalen Verhandlungen kommt es vor allem auf diplomatisches Fingerspitzengefühl an.",
+        "ar": "فِي المُفَاوَضَاتِ الدَّوْلِيَّةِ، يَتَوَقَّفُ الأَمْرُ فِي المَقَامِ الأَوَّلِ عَلَى الحِنْكَةِ الدِّبْلُومَاسِيَّةِ الدَّقِيقَةِ.",
+        "en": "In international negotiations, it hinges above all on diplomatic tact and nuance."
+      }
+    },
+    {
+      "id": "v_044",
+      "infinitive": "resultieren",
+      "icon": "v_resultieren",
+      "conjugation": {
+        "praesens_er": "resultiert",
+        "praeteritum": "resultierte",
+        "perfekt": "hat resultiert",
+        "konjunktiv_ii": "resultierte"
+      },
+      "preposition": "aus",
+      "governed_case": "Dativ",
+      "meaning_ar": "يَنْتُجُ عَنْ / يَتَرَتَّبُ عَلَى",
+      "meaning_en": "to result from",
+      "example": {
+        "de": "Die aktuellen Marktverzerrungen resultieren aus unvorhergesehenen geopolitischen Krisen.",
+        "ar": "تَنْتُجُ اخْتِلَالَاتُ السُّوقِ الحَالِيَّةُ عَنْ أَزَمَاتٍ جِيُوبُولِيتِيكِيَّةٍ غَيْرِ مُتَوَقَّعَةٍ.",
+        "en": "The current market distortions result from unforeseen geopolitical crises."
+      }
+    },
+    {
+      "id": "v_045",
+      "infinitive": "zweifeln",
+      "icon": "v_zweifeln",
+      "conjugation": {
+        "praesens_er": "zweifelt",
+        "praeteritum": "zweifelte",
+        "perfekt": "hat gezweifelt",
+        "konjunktiv_ii": "zweifelte"
+      },
+      "preposition": "an",
+      "governed_case": "Dativ",
+      "meaning_ar": "يَشُكُّ فِي / يَرْتَابُ فِي صِحَّةِ أَمْرٍ",
+      "meaning_en": "to doubt / to have misgivings about",
+      "example": {
+        "de": "Niemand zweifelt an der wissenschaftlichen Validität der empirischen Befunde.",
+        "ar": "لَا أَحَدَ يَشُكُّ فِي الصَّلَابَةِ وَالمَصْدَاقِيَّةِ العِلْمِيَّةِ لِلنَّتَائِجِ التَّجْرِيبِيَّةِ.",
+        "en": "Nobody doubts the scientific validity of the empirical findings."
+      }
+    },
+    {
+      "id": "v_046",
+      "infinitive": "absehen",
+      "icon": "v_absehen",
+      "conjugation": {
+        "praesens_er": "sieht ab",
+        "praeteritum": "sah ab",
+        "perfekt": "hat abgesehen",
+        "konjunktiv_ii": "sähe ab"
+      },
+      "preposition": "von",
+      "governed_case": "Dativ",
+      "meaning_ar": "يَصْرِفُ النَّظَرَ عَنْ / يَمْتَنِعُ عَنْ إِجْرَاءٍ",
+      "meaning_en": "to refrain from / to disregard",
+      "example": {
+        "de": "Das Gericht sah angesichts der Geständigkeit des Angeklagten von einer Haftstrafe ab.",
+        "ar": "صَرَفَتِ المَحْكَمَةُ النَّظَرَ عَنْ عُقُوبَةِ الحَبْسِ نَظَرًا لِاعْتِرَافِ المُتَّهَمِ الصَّرِيحِ.",
+        "en": "The court refrained from a prison sentence in view of the defendant's confession."
+      }
+    },
+    {
+      "id": "v_047",
+      "infinitive": "zurückführen",
+      "icon": "v_zurueckfuehren",
+      "conjugation": {
+        "praesens_er": "führt zurück",
+        "praeteritum": "führte zurück",
+        "perfekt": "hat zurückgeführt",
+        "konjunktiv_ii": "führte zurück"
+      },
+      "preposition": "auf",
+      "governed_case": "Akkusativ",
+      "meaning_ar": "يَعْزُو إِلَى / يُرْجِعُ سَبَبَهُ إِلَى",
+      "meaning_en": "to attribute to / to trace back to",
+      "example": {
+        "de": "Wissenschaftler führen die Häufung von Extremwetterereignissen auf den menschengemachten Klimawandel zurück.",
+        "ar": "يَعْزُو العُلَمَاءُ تَزَايُدَ الظَّوَاهِرِ الجَوِّيَّةِ القَاسِيَةِ إِلَى التَّغَيُّرِ المُنَاخِيِّ النَّاتِجِ عَنِ الأَنْشِطَةِ البَشَرِيَّةِ.",
+        "en": "Scientists attribute the surge of extreme weather events to anthropogenic climate change."
+      }
+    },
+    {
+      "id": "v_048",
+      "infinitive": "übergehen",
+      "icon": "v_uebergehen",
+      "conjugation": {
+        "praesens_er": "geht über",
+        "praeteritum": "ging über",
+        "perfekt": "ist übergegangen",
+        "konjunktiv_ii": "ginge über"
+      },
+      "preposition": "zu",
+      "governed_case": "Dativ",
+      "meaning_ar": "يَنْتَقِلُ إِلَى مَوْضُوعٍ أَوْ مَرْحَلَةٍ جَدِيدَةٍ",
+      "meaning_en": "to proceed to / to transition to",
+      "example": {
+        "de": "Nach den einleitenden Worten ging der Vortragende direkt zur Analyse der Daten über.",
+        "ar": "بَعْدَ الكَلِمَاتِ التَّمْهِيدِيَّةِ، انْتَقَلَ المُحَاضِرُ مُبَاشَرَةً إِلَى تَحْلِيلِ البَيَانَاتِ.",
+        "en": "After introductory remarks, the speaker transitioned directly to data analysis."
+      }
+    },
+    {
+      "id": "v_049",
+      "infinitive": "übereinstimmen",
+      "icon": "v_uebereinstimmen",
+      "conjugation": {
+        "praesens_er": "stimmt überein",
+        "praeteritum": "stimmte überein",
+        "perfekt": "hat übereingestimmt",
+        "konjunktiv_ii": "stimmte überein"
+      },
+      "preposition": "mit",
+      "governed_case": "Dativ",
+      "meaning_ar": "يَتَطَابَقُ مَعَ / يَتَّفِقُ فِي الرَّأْيِ مَعَ",
+      "meaning_en": "to agree with / to coincide with",
+      "example": {
+        "de": "Die experimentellen Messungen stimmten exakt mit den theoretischen Modellvorhersagen überein.",
+        "ar": "تَطَابَقَتِ القِيَاسَاتُ التَّجْرِيبِيَّةُ تَمَامًا مَعَ تَنَبُّؤَاتِ النَّمَاذِجِ النَّظَرِيَّةِ.",
+        "en": "The experimental measurements coincided precisely with theoretical model predictions."
+      }
+    },
+    {
+      "id": "v_050",
+      "infinitive": "sich eignen",
+      "icon": "v_eignen",
+      "conjugation": {
+        "praesens_er": "eignet sich",
+        "praeteritum": "eignete sich",
+        "perfekt": "hat sich geeignet",
+        "konjunktiv_ii": "eignete sich"
+      },
+      "preposition": "für",
+      "governed_case": "Akkusativ",
+      "meaning_ar": "يَصْلُحُ لِـ / يَكُونُ مُلَائِمًا تَمَامًا لِغَرَضٍ",
+      "meaning_en": "to be suitable for",
+      "example": {
+        "de": "Diese Programmiersprache eignet sich hervorragend für die Entwicklung robuster KI-Anwendungen.",
+        "ar": "تَصْلُحُ لُغَةُ البَرْمَجَةِ هَذِهِ بِشَكْلٍ مُمْتَازٍ لِتَطْوِيرِ تَطْبِيقَاتِ الذَّكَاءِ الاصْطِنَاعِيِّ القَوِيَّةِ.",
+        "en": "This programming language is exceptionally suitable for developing robust AI applications."
+      }
+    },
+    {
+      "id": "v_051",
+      "infinitive": "beruhen",
+      "icon": "v_beruhen",
+      "conjugation": {
+        "praesens_er": "beruht",
+        "praeteritum": "beruhte",
+        "perfekt": "hat beruht",
+        "konjunktiv_ii": "beruhte"
+      },
+      "preposition": "auf",
+      "governed_case": "Dativ",
+      "meaning_ar": "يَرْتَكِزُ عَلَى / يَقُومُ عَلَى أَسَاسٍ",
+      "meaning_en": "to be based on / to rely upon",
+      "example": {
+        "de": "Die Stabilität einer Demokratie beruht auf dem gegenseitigen Respekt vor rechtsstaatlichen Prinzipien.",
+        "ar": "يَرْتَكِزُ اسْتِقْرَارُ الدِّيمُوقْرَاطِيَّةِ عَلَى الِاحْتِرَامِ المُتَبَادَلِ لِمَبَادِئِ دَوْلَةِ القَانُونِ.",
+        "en": "The stability of a democracy is based on mutual respect for rule-of-law principles."
+      }
+    },
+    {
+      "id": "v_052",
+      "infinitive": "gelangen",
+      "icon": "v_gelangen",
+      "conjugation": {
+        "praesens_er": "gelangt",
+        "praeteritum": "gelangte",
+        "perfekt": "ist gelangt",
+        "konjunktiv_ii": "gelangte"
+      },
+      "preposition": "zu",
+      "governed_case": "Dativ",
+      "meaning_ar": "يَتَوَصَّلُ إِلَى نَتِيجَةٍ أَوْ قَرَارٍ بَعْدَ تَفْكِيرٍ",
+      "meaning_en": "to arrive at / to reach a conclusion",
+      "example": {
+        "de": "Nach sorgfältiger Abwägung aller Indizien gelangte das Schiedsgericht zu einem einstimmigen Urteil.",
+        "ar": "بَعْدَ دِرَاسَةٍ مُتَأَنِّيَةٍ لِجَمِيعِ القَرَائِنِ، تَوَصَّلَتْ هَيْئَةُ التَّحْكِيمِ إِلَى حُكْمٍ بِالإِجْمَاعِ.",
+        "en": "After careful consideration of all evidence, the arbitration tribunal arrived at a unanimous verdict."
+      }
+    },
+    {
+      "id": "v_053",
+      "infinitive": "veranlassen",
+      "icon": "v_veranlassen",
+      "conjugation": {
+        "praesens_er": "veranlasst",
+        "praeteritum": "veranlasste",
+        "perfekt": "hat veranlasst",
+        "konjunktiv_ii": "veranlasste"
+      },
+      "preposition": "zu",
+      "governed_case": "Dativ",
+      "meaning_ar": "يَدْفَعُ أَوْ يَحْمِلُ عَلَى فِعْلِ شَيْءٍ",
+      "meaning_en": "to prompt to / to induce",
+      "example": {
+        "de": "Die unerwarteten Marktschwankungen veranlassten den Aufsichtsrat zu schnellen personellen Konsequenzen.",
+        "ar": "دَفَعَتْ تَقَلُّبَاتُ السُّوقِ غَيْرُ المُتَوَقَّعَةِ مَجْلِسَ الإِدَارَةِ إِلَى اتِّخَاذِ إِجْرَاءَاتٍ حَاسِمَةٍ بِشَأْنِ الكَوَادِرِ.",
+        "en": "Unexpected market fluctuations prompted the supervisory board to take swift personnel actions."
+      }
+    },
+    {
+      "id": "v_054",
+      "infinitive": "nachweisen",
+      "icon": "v_nachweisen",
+      "conjugation": {
+        "praesens_er": "weist nach",
+        "praeteritum": "wies nach",
+        "perfekt": "hat nachgewiesen",
+        "konjunktiv_ii": "wiese nach"
+      },
+      "preposition": "ohne",
+      "governed_case": "Akkusativ",
+      "meaning_ar": "يُثْبِتُ بِالدَّلِيلِ القَاطِعِ / يُبَرْهِنُ عِلْمِيًّا",
+      "meaning_en": "to substantiate / to prove scientifically",
+      "example": {
+        "de": "Klinische Studien wiesen die überlegene Wirksamkeit des neu entwickelten Impfstoffs eindeutig nach.",
+        "ar": "أَثْبَتَتِ الدِّرَاسَاتُ السَّرِيرِيَّةُ بِشَكْلٍ قَاطِعٍ الفَاعِلِيَّةَ الفَائِقَةَ لِلِّقَاحِ المُطَوَّرِ حَدِيثًا.",
+        "en": "Clinical studies unequivocally substantiated the superior efficacy of the newly developed vaccine."
+      }
+    },
+    {
+      "id": "v_055",
+      "infinitive": "vollziehen",
+      "icon": "v_vollziehen",
+      "conjugation": {
+        "praesens_er": "vollzieht",
+        "praeteritum": "vollzog",
+        "perfekt": "hat vollzogen",
+        "konjunktiv_ii": "vollzöge"
+      },
+      "preposition": "ohne",
+      "governed_case": "Akkusativ",
+      "meaning_ar": "يُتِمُّ أَوْ يُنَفِّذُ إِجْرَاءً رَسْمِيًّا أَوْ تَحَوُّلًا كَبِيرًا",
+      "meaning_en": "to execute / to carry out / to accomplish",
+      "example": {
+        "de": "Das Unternehmen vollzog in den vergangenen zwei Jahren einen tiefgreifenden digitalen Wandel.",
+        "ar": "أَتَمَّتِ الشَّرِكَةُ خِلَالَ العَامَيْنِ المَاضِيَيْنِ تَحَوُّلًا رَقْمِيًّا جَذْرِيًّا وَشَامِلًا.",
+        "en": "Over the past two years, the enterprise accomplished a profound digital transformation."
+      }
+    }
+  ]
+}

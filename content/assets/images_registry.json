@@ -7860,6 +7860,106 @@
       "path": "content/assets/svg/ens_erbe.svg",
       "type": "vector_svg",
       "category": "encyclopedic_synthesis_c1"
+    },
+    "v_beitragen": {
+      "path": "content/assets/svg/v_beitragen.svg",
+      "type": "vector_svg",
+      "category": "verbs_b2_c1"
+    },
+    "v_hinweisen": {
+      "path": "content/assets/svg/v_hinweisen.svg",
+      "type": "vector_svg",
+      "category": "verbs_b2_c1"
+    },
+    "v_hervorgehen": {
+      "path": "content/assets/svg/v_hervorgehen.svg",
+      "type": "vector_svg",
+      "category": "verbs_b2_c1"
+    },
+    "v_verzichten": {
+      "path": "content/assets/svg/v_verzichten.svg",
+      "type": "vector_svg",
+      "category": "verbs_b2_c1"
+    },
+    "v_auseinandersetzen": {
+      "path": "content/assets/svg/v_auseinandersetzen.svg",
+      "type": "vector_svg",
+      "category": "verbs_b2_c1"
+    },
+    "v_widmen": {
+      "path": "content/assets/svg/v_widmen.svg",
+      "type": "vector_svg",
+      "category": "verbs_b2_c1"
+    },
+    "v_plaedieren": {
+      "path": "content/assets/svg/v_plaedieren.svg",
+      "type": "vector_svg",
+      "category": "verbs_b2_c1"
+    },
+    "v_ankommen": {
+      "path": "content/assets/svg/v_ankommen.svg",
+      "type": "vector_svg",
+      "category": "verbs_b2_c1"
+    },
+    "v_resultieren": {
+      "path": "content/assets/svg/v_resultieren.svg",
+      "type": "vector_svg",
+      "category": "verbs_b2_c1"
+    },
+    "v_zweifeln": {
+      "path": "content/assets/svg/v_zweifeln.svg",
+      "type": "vector_svg",
+      "category": "verbs_b2_c1"
+    },
+    "v_absehen": {
+      "path": "content/assets/svg/v_absehen.svg",
+      "type": "vector_svg",
+      "category": "verbs_b2_c1"
+    },
+    "v_zurueckfuehren": {
+      "path": "content/assets/svg/v_zurueckfuehren.svg",
+      "type": "vector_svg",
+      "category": "verbs_b2_c1"
+    },
+    "v_uebergehen": {
+      "path": "content/assets/svg/v_uebergehen.svg",
+      "type": "vector_svg",
+      "category": "verbs_b2_c1"
+    },
+    "v_uebereinstimmen": {
+      "path": "content/assets/svg/v_uebereinstimmen.svg",
+      "type": "vector_svg",
+      "category": "verbs_b2_c1"
+    },
+    "v_eignen": {
+      "path": "content/assets/svg/v_eignen.svg",
+      "type": "vector_svg",
+      "category": "verbs_b2_c1"
+    },
+    "v_beruhen": {
+      "path": "content/assets/svg/v_beruhen.svg",
+      "type": "vector_svg",
+      "category": "verbs_b2_c1"
+    },
+    "v_gelangen": {
+      "path": "content/assets/svg/v_gelangen.svg",
+      "type": "vector_svg",
+      "category": "verbs_b2_c1"
+    },
+    "v_veranlassen": {
+      "path": "content/assets/svg/v_veranlassen.svg",
+      "type": "vector_svg",
+      "category": "verbs_b2_c1"
+    },
+    "v_nachweisen": {
+      "path": "content/assets/svg/v_nachweisen.svg",
+      "type": "vector_svg",
+      "category": "verbs_b2_c1"
+    },
+    "v_vollziehen": {
+      "path": "content/assets/svg/v_vollziehen.svg",
+      "type": "vector_svg",
+      "category": "verbs_b2_c1"
     }
   }
 }
