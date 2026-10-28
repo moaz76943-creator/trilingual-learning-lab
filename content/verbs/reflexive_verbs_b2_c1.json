@@ -1,0 +1,447 @@
+{
+  "engine_id": "reflexive_verbs_b2_c1",
+  "title": {
+    "ar": "الأفعال الانعكاسية المتقدمة والتصريف التداولي (B2/C1)",
+    "de": "Fortgeschrittene reflexive Verben (Akkusativ & Dativ)",
+    "en": "Advanced Reflexive Verbs & Pragmatics (B2/C1)"
+  },
+  "level": "B2/C1",
+  "verbs": [
+    {
+      "id": "vref_001",
+      "infinitive": "sich aneignen",
+      "icon": "vref_aneignen",
+      "reflexive_case": "Dativ (mir / dir / sich)",
+      "conjugation": {
+        "praesens_ich": "eigne mir an",
+        "praesens_er": "eignet sich an",
+        "praeteritum": "eignete sich an",
+        "perfekt": "hat sich angeeignet",
+        "konjunktiv_ii": "eignete sich an"
+      },
+      "governed_case": "Akkusativ-Objekt",
+      "meaning_ar": "يَكْتَسِبُ مَعْرِفَةً أَوْ مَهَارَةً بِجُهْدِهِ الذَّاتِيِّ",
+      "meaning_en": "to acquire / assimilate (knowledge, skill)",
+      "example": {
+        "de": "Im Selbststudium eignete sie sich fundierte Kenntnisse der Quantenmechanik an.",
+        "ar": "اكْتَسَبَتْ عَبْرَ التَّعَلُّمِ الذَّاتِيِّ مَعَارِفَ عَمِيقَةً فِي مِيكَانِيكَا الكَمِّ.",
+        "en": "Through self-study, she acquired profound knowledge of quantum mechanics."
+      }
+    },
+    {
+      "id": "vref_002",
+      "infinitive": "sich widersetzen",
+      "icon": "vref_widersetzen",
+      "reflexive_case": "Akkusativ",
+      "conjugation": {
+        "praesens_ich": "widersetze mich",
+        "praesens_er": "widersetzt sich",
+        "praeteritum": "widersetzte sich",
+        "perfekt": "hat sich widersetzt",
+        "konjunktiv_ii": "widersetzte sich"
+      },
+      "preposition": "ohne",
+      "governed_case": "Dativ-Objekt",
+      "meaning_ar": "يُعَارِضُ / يَتَمَرَّدُ عَلَى أَمْرٍ أَوْ سُلْطَةٍ",
+      "meaning_en": "to defy / resist / oppose",
+      "example": {
+        "de": "Der mutige Beamte widersetzte sich der rechtswidrigen Weisung seines Vorgesetzten.",
+        "ar": "عَارَضَ المُوَظَّفُ الشُّجَاعُ التَّعْلِيمَاتِ غَيْرَ القَانُونِيَّةِ الصَّادِرَةَ عَنْ رَئِيسِهِ فِي العَمَلِ.",
+        "en": "The courageous official defied the unlawful instructions of his superior."
+      }
+    },
+    {
+      "id": "vref_003",
+      "infinitive": "sich leisten",
+      "icon": "vref_leisten",
+      "reflexive_case": "Dativ (mir / dir / sich)",
+      "conjugation": {
+        "praesens_ich": "leiste mir",
+        "praesens_er": "leistet sich",
+        "praeteritum": "leistete sich",
+        "perfekt": "hat sich geleistet",
+        "konjunktiv_ii": "leistete sich"
+      },
+      "governed_case": "Akkusativ-Objekt",
+      "meaning_ar": "يَسْتَطِيعُ تَحَمُّلَ نَفَقَةِ شَيْءٍ مَالِيًّا أَوْ مَعْنَوِيًّا",
+      "meaning_en": "to afford / allow oneself",
+      "example": {
+        "de": "In einer akuten Krise kann sich die Regierung keinerlei Verzögerung leisten.",
+        "ar": "فِي ظِلِّ أَزْمَةٍ حَادَّةٍ، لَا تَسْتَطِيعُ الحُكُومَةُ تَحَمُّلَ أَيِّ نَوْعٍ مِنَ التَّأْخِيرِ.",
+        "en": "In an acute crisis, the government cannot afford any delay whatsoever."
+      }
+    },
+    {
+      "id": "vref_004",
+      "infinitive": "sich berufen",
+      "icon": "vref_berufen",
+      "reflexive_case": "Akkusativ",
+      "conjugation": {
+        "praesens_ich": "berufe mich",
+        "praesens_er": "beruft sich",
+        "praeteritum": "berief sich",
+        "perfekt": "hat sich berufen",
+        "konjunktiv_ii": "beriefe sich"
+      },
+      "preposition": "auf",
+      "governed_case": "Akkusativ",
+      "meaning_ar": "يَسْتَنِدُ إِلَى قَانُونٍ أَوْ سَابِقَةٍ قَضَائِيَّةٍ",
+      "meaning_en": "to invoke / cite / appeal to",
+      "example": {
+        "de": "Die Verteidigung berief sich ausdrücklich auf das Grundrecht der Meinungsfreiheit.",
+        "ar": "اسْتَنَدَتْ هَيْئَةُ الدِّفَاعِ صَرَاحَةً إِلَى الحَقِّ الأَسَاسِيِّ فِي حُرِّيَّةِ التَّعْبِيرِ.",
+        "en": "The defense explicitly appealed to the fundamental right of freedom of expression."
+      }
+    },
+    {
+      "id": "vref_005",
+      "infinitive": "sich schämen",
+      "icon": "vref_schaemen",
+      "reflexive_case": "Akkusativ",
+      "conjugation": {
+        "praesens_ich": "schäme mich",
+        "praesens_er": "schämt sich",
+        "praeteritum": "schämte sich",
+        "perfekt": "hat sich geschämt",
+        "konjunktiv_ii": "schämte sich"
+      },
+      "preposition": "für / wegen",
+      "governed_case": "Akkusativ (für) / Genitiv (wegen)",
+      "meaning_ar": "يَخْجَلُ مِنْ سُلُوكٍ أَوْ تَقْصِيرٍ",
+      "meaning_en": "to be ashamed of",
+      "example": {
+        "de": "Niemand muss sich für das Eingestehen eines wissenschaftlichen Irrtums schämen.",
+        "ar": "لَا يَنْبَغِي لِأَحَدٍ أَنْ يَخْجَلَ مِنَ الِاعْتِرَافِ بِخَطَأٍ عِلْمِيٍّ.",
+        "en": "Nobody needs to be ashamed of admitting a scientific error."
+      }
+    },
+    {
+      "id": "vref_006",
+      "infinitive": "sich einsetzen",
+      "icon": "vref_einsetzen",
+      "reflexive_case": "Akkusativ",
+      "conjugation": {
+        "praesens_ich": "setze mich ein",
+        "praesens_er": "setzt sich ein",
+        "praeteritum": "setzte sich ein",
+        "perfekt": "hat sich eingesetzt",
+        "konjunktiv_ii": "setzte sich ein"
+      },
+      "preposition": "für",
+      "governed_case": "Akkusativ",
+      "meaning_ar": "يَبْذُلُ جُهْدَهُ لِدَعْمِ قَضِيَّةٍ أَوْ إِنْصَافِ فِئَةٍ",
+      "meaning_en": "to advocate for / champion",
+      "example": {
+        "de": "Zivilgesellschaftliche Organisationen setzen sich unermüdlich für Menschenrechte ein.",
+        "ar": "تَبْذُلُ مُنَظَّمَاتُ المُجْتَمَعِ المَدَنِيِّ جُهُودًا دَؤُوبَةً لِلدِّفَاعِ عَنْ حُقُوقِ الإِنْسَانِ.",
+        "en": "Civil society organizations advocate tirelessly for human rights."
+      }
+    },
+    {
+      "id": "vref_007",
+      "infinitive": "sich fügen",
+      "icon": "vref_fuegen",
+      "reflexive_case": "Akkusativ",
+      "conjugation": {
+        "praesens_ich": "füge mich",
+        "praesens_er": "fügt sich",
+        "praeteritum": "fügte sich",
+        "perfekt": "hat sich gefügt",
+        "konjunktiv_ii": "fügte sich"
+      },
+      "preposition": "ohne",
+      "governed_case": "Dativ-Objekt",
+      "meaning_ar": "يَرْضَخُ لِـ / يَمْتَثِلُ لِحُكْمٍ أَوْ مَصِيرٍ",
+      "meaning_en": "to comply with / yield to / submit to",
+      "example": {
+        "de": "Die unterlegene Partei fügte sich schließlich dem Schiedsspruch des Tribunals.",
+        "ar": "امْتَثَلَ الطَّرَفُ الخَاسِرُ فِي النِّهَايَةِ لِحُكْمِ هَيْئَةِ التَّحْكِيمِ.",
+        "en": "The losing party ultimately complied with the tribunal's arbitration award."
+      }
+    },
+    {
+      "id": "vref_008",
+      "infinitive": "sich weigern",
+      "icon": "vref_weigern",
+      "reflexive_case": "Akkusativ",
+      "conjugation": {
+        "praesens_ich": "weigere mich",
+        "praesens_er": "weigert sich",
+        "praeteritum": "weigerte sich",
+        "perfekt": "hat sich geweigert",
+        "konjunktiv_ii": "weigerte sich"
+      },
+      "preposition": "Infinitiv mit zu",
+      "governed_case": "Infinitivsatz",
+      "meaning_ar": "يَمْتَنِعُ قَطْعِيًّا عَنْ فِعْلِ شَيْءٍ / يَرْفُضُ",
+      "meaning_en": "to refuse to / decline firmly",
+      "example": {
+        "de": "Der Whistleblower weigerte sich standhaft, die vertraulichen Quellen preiszugeben.",
+        "ar": "امْتَنَعَ كَاشِفُ الفَسَادِ بِثَبَاتٍ عَنِ الكَشْفِ عَنْ مَصَادِرِهِ السِّرِّيَّةِ.",
+        "en": "The whistleblower steadfastly refused to disclose the confidential sources."
+      }
+    },
+    {
+      "id": "vref_009",
+      "infinitive": "sich erkundigen",
+      "icon": "vref_erkundigen",
+      "reflexive_case": "Akkusativ",
+      "conjugation": {
+        "praesens_ich": "erkundige mich",
+        "praesens_er": "erkundigt sich",
+        "praeteritum": "erkundigte sich",
+        "perfekt": "hat sich erkundigt",
+        "konjunktiv_ii": "erkundigte sich"
+      },
+      "preposition": "nach / bei",
+      "governed_case": "Dativ (nach & bei)",
+      "meaning_ar": "يَسْتَفْسِرُ عَنْ مَعْلُومَةٍ لَدَى جِهَةٍ رَسْمِيَّةٍ",
+      "meaning_en": "to inquire about / consult with",
+      "example": {
+        "de": "Der Anwalt erkundigte sich beim Gericht nach dem aktuellen Verfahrensstand.",
+        "ar": "اسْتَفْسَرَ المُحَامِي لَدَى المَحْكَمَةِ عَنِ المَرْحَلَةِ الحَالِيَّةِ لِلدَّعْوَى.",
+        "en": "The attorney inquired with the court regarding the current status of proceedings."
+      }
+    },
+    {
+      "id": "vref_010",
+      "infinitive": "sich täuschen",
+      "icon": "vref_taeuschen",
+      "reflexive_case": "Akkusativ",
+      "conjugation": {
+        "praesens_ich": "täusche mich",
+        "praesens_er": "täuscht sich",
+        "praeteritum": "täuschte sich",
+        "perfekt": "hat sich getäuscht",
+        "konjunktiv_ii": "täuschte sich"
+      },
+      "preposition": "in",
+      "governed_case": "Dativ",
+      "meaning_ar": "يُخْطِئُ فِي تَقْدِيرِ شَخْصٍ أَوْ تَشْخِيصِ وَاقِعٍ",
+      "meaning_en": "to be mistaken in / about",
+      "example": {
+        "de": "Wer die Marktdynamik unterschätzt, täuscht sich gravierend in den künftigen Trends.",
+        "ar": "مَنْ يَسْتَخِفُّ بِدِينَامِيكِيَّةِ السُّوقِ، يُخْطِئُ تَمَامًا فِي تَقْدِيرِ الِاتِّجَاهَاتِ المُسْتَقْبَلِيَّةِ.",
+        "en": "Whoever underestimates market dynamics is gravely mistaken about future trends."
+      }
+    },
+    {
+      "id": "vref_011",
+      "infinitive": "sich bemühen",
+      "icon": "vref_bemuehen",
+      "reflexive_case": "Akkusativ",
+      "conjugation": {
+        "praesens_ich": "bemühe mich",
+        "praesens_er": "bemüht sich",
+        "praeteritum": "bemühte sich",
+        "perfekt": "hat sich bemüht",
+        "konjunktiv_ii": "bemühte sich"
+      },
+      "preposition": "um",
+      "governed_case": "Akkusativ",
+      "meaning_ar": "يَبْذُلُ وُسْعَهُ لِنَيْلِ أَمْرٍ أَوْ إِيجَادِ حَلٍّ",
+      "meaning_en": "to endeavor / strive for",
+      "example": {
+        "de": "Die Verhandlungsführer bemühten sich intensiv um einen tragfähigen diplomatischen Kompromiss.",
+        "ar": "بَذَلَ قَادَةُ التَّفَاوُضِ وُسْعَهُمْ لِلتَّوَصُّلِ إِلَى حَلٍّ دِبْلُومَاسِيٍّ قَابِلٍ لِلصُّمُودِ.",
+        "en": "The negotiators strived intensively for a viable diplomatic compromise."
+      }
+    },
+    {
+      "id": "vref_012",
+      "infinitive": "sich verlassen",
+      "icon": "vref_verlassen",
+      "reflexive_case": "Akkusativ",
+      "conjugation": {
+        "praesens_ich": "verlasse mich",
+        "praesens_er": "verlässt sich",
+        "praeteritum": "verließ sich",
+        "perfekt": "hat sich verlassen",
+        "konjunktiv_ii": "verließe sich"
+      },
+      "preposition": "auf",
+      "governed_case": "Akkusativ",
+      "meaning_ar": "يَعْتَمِدُ عَلَى / يَتَّكِلُ بِيَقِينٍ كَامِلٍ",
+      "meaning_en": "to rely on / count on",
+      "example": {
+        "de": "In sicherheitskritischen Systemen muss man sich blind auf redundante Sensoren verlassen können.",
+        "ar": "فِي الأَنْظِمَةِ ذَاتِ الأَهَمِّيَّةِ الأَمْنِيَّةِ، يَجِبُ أَنْ يَكُونَ المَرْءُ قَادِرًا عَلَى الِاعْتِمَادِ التَّامِّ عَلَى الحَسَّاسَاتِ الِاحْتِيَاطِيَّةِ.",
+        "en": "In safety-critical systems, one must be able to rely implicitly on redundant sensors."
+      }
+    },
+    {
+      "id": "vref_013",
+      "infinitive": "sich vergegenwärtigen",
+      "icon": "vref_vergegenwaertigen",
+      "reflexive_case": "Dativ (mir / dir / sich)",
+      "conjugation": {
+        "praesens_ich": "vergegenwärtige mir",
+        "praesens_er": "vergegenwärtigt sich",
+        "praeteritum": "vergegenwärtigte sich",
+        "perfekt": "hat sich vergegenwärtigt",
+        "konjunktiv_ii": "vergegenwärtigte sich"
+      },
+      "governed_case": "Akkusativ-Objekt",
+      "meaning_ar": "يَسْتَحْضِرُ فِي ذِهْنِهِ عُمْقَ المَسْأَلَةِ وَأَبْعَادَهَا",
+      "meaning_en": "to visualize / realize / bear in mind",
+      "example": {
+        "de": "Man muss sich die historische Dimension dieses Verfassungsurteils vergegenwärtigen.",
+        "ar": "يَجِبُ عَلَى المَرْءِ أَنْ يَسْتَحْضِرَ فِي ذِهْنِهِ البُعْدَ التَّارِيخِيَّ لِهَذَا الحُكْمِ الدُّسْتُورِيِّ.",
+        "en": "One must bear in mind the historical dimension of this constitutional ruling."
+      }
+    },
+    {
+      "id": "vref_014",
+      "infinitive": "sich durchsetzen",
+      "icon": "vref_durchsetzen",
+      "reflexive_case": "Akkusativ",
+      "conjugation": {
+        "praesens_ich": "setze mich durch",
+        "praesens_er": "setzt sich durch",
+        "praeteritum": "setzte sich durch",
+        "perfekt": "hat sich durchgesetzt",
+        "konjunktiv_ii": "setzte sich durch"
+      },
+      "preposition": "ohne",
+      "governed_case": "kein Objekt",
+      "meaning_ar": "يَفْرِضُ وُجُودَهُ أَوْ رَأْيَهُ / يَنْتَصِرُ خِيَارُهُ",
+      "meaning_en": "to prevail / assert oneself / catch on",
+      "example": {
+        "de": "Trotz anfänglicher Skepsis setzte sich der Standard der quantensicheren Verschlüsselung durch.",
+        "ar": "رَغْمَ الشُّكُوكِ الأَوْلِيَّةِ، فَرَضَ مِعْيَارُ التَّشْفِيرِ الآمِنِ كَمِّيًّا وُجُودَهُ عَلَى نِطَاقٍ وَاسِعٍ.",
+        "en": "Despite initial skepticism, the standard of quantum-secure encryption prevailed."
+      }
+    },
+    {
+      "id": "vref_015",
+      "infinitive": "sich bekennen",
+      "icon": "vref_bekennen",
+      "reflexive_case": "Akkusativ",
+      "conjugation": {
+        "praesens_ich": "bekenne mich",
+        "praesens_er": "bekennt sich",
+        "praeteritum": "bekannte sich",
+        "perfekt": "hat sich bekannt",
+        "konjunktiv_ii": "bekennte sich"
+      },
+      "preposition": "zu",
+      "governed_case": "Dativ",
+      "meaning_ar": "يُعْلِنُ التِزَامَهُ بِـ / يُقِرُّ عَلَانِيَةً بِانْتِسَابِهِ لِمَبْدَأٍ",
+      "meaning_en": "to profess / commit oneself to",
+      "example": {
+        "de": "Die Mitgliedstaaten bekennen sich feierlich zu den Grundsätzen der Charta der Vereinten Nationen.",
+        "ar": "تُعْلِنُ الدُّوَلُ الأَعْضَاءُ التِزَامَهَا الرَّسْمِيَّ بِمَبَادِئِ مِيثَاقِ الأُمَمِ المُتَّحِدَةِ.",
+        "en": "The member states solemnly commit themselves to the principles of the United Nations Charter."
+      }
+    },
+    {
+      "id": "vref_016",
+      "infinitive": "sich entziehen",
+      "icon": "vref_entziehen",
+      "reflexive_case": "Akkusativ",
+      "conjugation": {
+        "praesens_ich": "entziehe mich",
+        "praesens_er": "entzieht sich",
+        "praeteritum": "entzog sich",
+        "perfekt": "hat sich entzogen",
+        "konjunktiv_ii": "entzöge sich"
+      },
+      "preposition": "ohne",
+      "governed_case": "Dativ-Objekt",
+      "meaning_ar": "يَتَهَرَّبُ مِنْ مَسْؤُولِيَّةٍ أَوْ تَحْقِيقٍ قَضَائِيٍّ",
+      "meaning_en": "to evade / escape from / shirk",
+      "example": {
+        "de": "Der Beschuldigte versuchte vergeblich, sich der gerichtlichen Vorladung zu entziehen.",
+        "ar": "حَاوَلَ المُتَّهَمُ عَبَثًا التَّهَرُّبَ مِنَ الِاسْتِدْعَاءِ القَضَائِيِّ المُلْزِمِ.",
+        "en": "The accused attempted in vain to evade the court summons."
+      }
+    },
+    {
+      "id": "vref_017",
+      "infinitive": "sich hüten",
+      "icon": "vref_hueten",
+      "reflexive_case": "Akkusativ",
+      "conjugation": {
+        "praesens_ich": "hüte mich",
+        "praesens_er": "hütet sich",
+        "praeteritum": "hütete sich",
+        "perfekt": "hat sich gehütet",
+        "konjunktiv_ii": "hütete sich"
+      },
+      "preposition": "vor",
+      "governed_case": "Dativ",
+      "meaning_ar": "يَحْذَرُ أَوْ يَحْتَرِسُ مِنْ خَطَرٍ مُحْدِقٍ",
+      "meaning_en": "to beware of / guard against",
+      "example": {
+        "de": "Wissenschaftler sollten sich vor voreiligen Schlüssen ohne solide Datenbasis hüten.",
+        "ar": "يَنْبَغِي لِلْبَاحِثِينَ أَنْ يَحْذَرُوا مِنَ الِاسْتِنْتَاجَاتِ المُتَسَرِّعَةِ دُونَ قَاعِدَةِ بَيَانَاتٍ صَلْبَةٍ.",
+        "en": "Researchers should beware of premature conclusions without a solid data foundation."
+      }
+    },
+    {
+      "id": "vref_018",
+      "infinitive": "sich abfinden",
+      "icon": "vref_abfinden",
+      "reflexive_case": "Akkusativ",
+      "conjugation": {
+        "praesens_ich": "finde mich ab",
+        "praesens_er": "findet sich ab",
+        "praeteritum": "fand sich ab",
+        "perfekt": "hat sich abgefunden",
+        "konjunktiv_ii": "fände sich ab"
+      },
+      "preposition": "mit",
+      "governed_case": "Dativ",
+      "meaning_ar": "يَرْضَى أَوْ يَتَصَالَحُ مَعَ وَاقِعٍ مَفْرُوضٍ لَا مَفَرَّ مِنْهُ",
+      "meaning_en": "to resign oneself to / come to terms with",
+      "example": {
+        "de": "Wir dürfen uns niemals mit sozialer Ungerechtigkeit und Armut abfinden.",
+        "ar": "لَا يَجُوزُ لَنَا أَبَدًا أَنْ نَرْضَى أَوْ نَسْتَسْلِمَ لِلظُّلْمِ الِاجْتِمَاعِيِّ وَالفَقْرِ.",
+        "en": "We must never resign ourselves to social injustice and poverty."
+      }
+    },
+    {
+      "id": "vref_019",
+      "infinitive": "sich belaufen",
+      "icon": "vref_belaufen",
+      "reflexive_case": "Akkusativ",
+      "conjugation": {
+        "praesens_er": "beläuft sich",
+        "praeteritum": "belief sich",
+        "perfekt": "hat sich belaufen",
+        "konjunktiv_ii": "beliefe sich"
+      },
+      "preposition": "auf",
+      "governed_case": "Akkusativ",
+      "meaning_ar": "يَبْلُغُ قَدْرُهُ / يَصِلُ إِجْمَالِيُّ المَبْلَغِ إِلَى",
+      "meaning_en": "to amount to / total",
+      "example": {
+        "de": "Die geschätzten Gesamtkosten des Infrastrukturprojekts belaufen sich auf zwei Milliarden Euro.",
+        "ar": "تَصِلُ التَّكَالِيفُ الإِجْمَالِيَّةُ التَّقْدِيرِيَّةُ لِمَشْرُوعِ البِنْيَةِ التَّحْتِيَّةِ إِلَى مِلْيَارَيْ يُورُو.",
+        "en": "The estimated total cost of the infrastructure project amounts to two billion euros."
+      }
+    },
+    {
+      "id": "vref_020",
+      "infinitive": "sich einlassen",
+      "icon": "vref_einlassen",
+      "reflexive_case": "Akkusativ",
+      "conjugation": {
+        "praesens_ich": "lasse mich ein",
+        "praesens_er": "lässt sich ein",
+        "praeteritum": "ließ sich ein",
+        "perfekt": "hat sich eingelassen",
+        "konjunktiv_ii": "ließe sich ein"
+      },
+      "preposition": "auf",
+      "governed_case": "Akkusativ",
+      "meaning_ar": "يَنْخَرِطُ فِي أَوْ يُجَازِفُ بِـ",
+      "meaning_en": "to get involved in / engage in / take a risk on",
+      "example": {
+        "de": "Die Diplomaten ließen sich auf langwierige, aber letztlich erfolgreiche Verhandlungen ein.",
+        "ar": "انْخَرَطَ الدِّبْلُومَاسِيُّونَ فِي مُفَاوَضَاتٍ شَاقَّةٍ وَطَوِيلَةٍ، لَكِنَّهَا أَدَّتْ فِي النِّهَايَةِ إِلَى النَّجَاحِ.",
+        "en": "The diplomats engaged in protracted, but ultimately successful negotiations."
+      }
+    }
+  ]
+}

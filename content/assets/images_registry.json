@@ -7960,6 +7960,106 @@
       "path": "content/assets/svg/v_vollziehen.svg",
       "type": "vector_svg",
       "category": "verbs_b2_c1"
+    },
+    "vref_aneignen": {
+      "path": "content/assets/svg/vref_aneignen.svg",
+      "type": "vector_svg",
+      "category": "reflexive_verbs_b2_c1"
+    },
+    "vref_widersetzen": {
+      "path": "content/assets/svg/vref_widersetzen.svg",
+      "type": "vector_svg",
+      "category": "reflexive_verbs_b2_c1"
+    },
+    "vref_leisten": {
+      "path": "content/assets/svg/vref_leisten.svg",
+      "type": "vector_svg",
+      "category": "reflexive_verbs_b2_c1"
+    },
+    "vref_berufen": {
+      "path": "content/assets/svg/vref_berufen.svg",
+      "type": "vector_svg",
+      "category": "reflexive_verbs_b2_c1"
+    },
+    "vref_schaemen": {
+      "path": "content/assets/svg/vref_schaemen.svg",
+      "type": "vector_svg",
+      "category": "reflexive_verbs_b2_c1"
+    },
+    "vref_einsetzen": {
+      "path": "content/assets/svg/vref_einsetzen.svg",
+      "type": "vector_svg",
+      "category": "reflexive_verbs_b2_c1"
+    },
+    "vref_fuegen": {
+      "path": "content/assets/svg/vref_fuegen.svg",
+      "type": "vector_svg",
+      "category": "reflexive_verbs_b2_c1"
+    },
+    "vref_weigern": {
+      "path": "content/assets/svg/vref_weigern.svg",
+      "type": "vector_svg",
+      "category": "reflexive_verbs_b2_c1"
+    },
+    "vref_erkundigen": {
+      "path": "content/assets/svg/vref_erkundigen.svg",
+      "type": "vector_svg",
+      "category": "reflexive_verbs_b2_c1"
+    },
+    "vref_taeuschen": {
+      "path": "content/assets/svg/vref_taeuschen.svg",
+      "type": "vector_svg",
+      "category": "reflexive_verbs_b2_c1"
+    },
+    "vref_bemuehen": {
+      "path": "content/assets/svg/vref_bemuehen.svg",
+      "type": "vector_svg",
+      "category": "reflexive_verbs_b2_c1"
+    },
+    "vref_verlassen": {
+      "path": "content/assets/svg/vref_verlassen.svg",
+      "type": "vector_svg",
+      "category": "reflexive_verbs_b2_c1"
+    },
+    "vref_vergegenwaertigen": {
+      "path": "content/assets/svg/vref_vergegenwaertigen.svg",
+      "type": "vector_svg",
+      "category": "reflexive_verbs_b2_c1"
+    },
+    "vref_durchsetzen": {
+      "path": "content/assets/svg/vref_durchsetzen.svg",
+      "type": "vector_svg",
+      "category": "reflexive_verbs_b2_c1"
+    },
+    "vref_bekennen": {
+      "path": "content/assets/svg/vref_bekennen.svg",
+      "type": "vector_svg",
+      "category": "reflexive_verbs_b2_c1"
+    },
+    "vref_entziehen": {
+      "path": "content/assets/svg/vref_entziehen.svg",
+      "type": "vector_svg",
+      "category": "reflexive_verbs_b2_c1"
+    },
+    "vref_hueten": {
+      "path": "content/assets/svg/vref_hueten.svg",
+      "type": "vector_svg",
+      "category": "reflexive_verbs_b2_c1"
+    },
+    "vref_abfinden": {
+      "path": "content/assets/svg/vref_abfinden.svg",
+      "type": "vector_svg",
+      "category": "reflexive_verbs_b2_c1"
+    },
+    "vref_belaufen": {
+      "path": "content/assets/svg/vref_belaufen.svg",
+      "type": "vector_svg",
+      "category": "reflexive_verbs_b2_c1"
+    },
+    "vref_einlassen": {
+      "path": "content/assets/svg/vref_einlassen.svg",
+      "type": "vector_svg",
+      "category": "reflexive_verbs_b2_c1"
     }
   }
 }
