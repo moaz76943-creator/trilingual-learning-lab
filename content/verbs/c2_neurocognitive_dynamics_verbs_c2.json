@@ -1,0 +1,451 @@
+{
+  "category_id": "c2_neurocognitive_dynamics_verbs_c2",
+  "category_title": {
+    "ar": "أفعال الديناميكيات العصبية الإدراكية ونظرية العقل",
+    "de": "Neurokognitive Dynamik-, Gedächtnisbildungs- und Erkenntnisverben",
+    "en": "C2 Neurocognitive Dynamics & Epistemology of Mind Verbs"
+  },
+  "level": "C2",
+  "items": [
+    {
+      "id": "verb_perzipieren",
+      "german": "perzipieren",
+      "arabic": "يُدْرِكُ حِسِّيًّا / يَتَلَقَّى الانْطِبَاعَاتِ الحِسِّيَّةَ المُبَاشِرَةَ",
+      "english": "to perceive sensory stimuli directly",
+      "conjugation": {
+        "praesens": "er/sie/es perzipiert",
+        "praeteritum": "perzipierte",
+        "perfekt": "hat perzipiert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "visuelle Reize perzipieren",
+        "unbewusst perzipieren"
+      ],
+      "example_sentence": {
+        "de": "Das sensorische System perzipiert unzählige Umwelteindrücke, noch bevor sie die Schwelle des Bewusstseins erreichen.",
+        "ar": "يُدْرِكُ النِّظَامُ الحِسِّيُّ مَلَايِينَ المُنَبِّهَاتِ البِيئِيَّةِ حِسِّيًّا حَتَّى قَبْلَ أَنْ تَبْلُغَ عَتَبَةَ الوَعْيِ.",
+        "en": "The sensory apparatus perceives myriad environmental impressions even before they cross the threshold of consciousness."
+      },
+      "image": "assets/svg/verb_perzipieren.svg"
+    },
+    {
+      "id": "verb_apperzipieren",
+      "german": "apperzipieren",
+      "arabic": "يُدْرِكُ إِدْرَاكًا وَاعِيًا مُتَرَابِطًا / يَدْمِجُ الحِسَّ فِي الخِبْرَةِ السَّابِقَةِ",
+      "english": "to apperceive / assimilate percepts consciously",
+      "conjugation": {
+        "praesens": "er/sie/es apperzipiert",
+        "praeteritum": "apperzipierte",
+        "perfekt": "hat apperzipiert"
+      },
+      "preposition": "in + Akk",
+      "collocations": [
+        "neue Eindrücke bewusst apperzipieren",
+        "in das vorhandene Wissensnetz apperzipieren"
+      ],
+      "example_sentence": {
+        "de": "Erst wenn das Gehirn ein Geräusch mit einer Bedeutung verknüpft, wird es vollkommen apperzipiert.",
+        "ar": "لَا يَكْتَمِلُ إِدْرَاكُ الصَّوْتِ إِدْرَاكًا وَاعِيًا مُتَرَابِطًا (أَبِيرْسِيبْشِن) إِلَّا حِينَ يَرْبِطُهُ الدِّمَاغُ بِمَعْنًى مُحَدَّدٍ.",
+        "en": "Only when the brain links an acoustic signal with meaning is it fully apperceived."
+      },
+      "image": "assets/svg/verb_apperzipieren.svg"
+    },
+    {
+      "id": "verb_enkodieren",
+      "german": "enkodieren",
+      "arabic": "يُشَفِّرُ عَصَبِيًّا / يُحَوِّلُ الخِبْرَةَ إِلَى أَنْمَاطٍ سِينَابْسِيَّةٍ",
+      "english": "to encode mnemonic traces neurologically",
+      "conjugation": {
+        "praesens": "er/sie/es enkodiert",
+        "praeteritum": "enkodierte",
+        "perfekt": "hat enkodiert"
+      },
+      "preposition": "in + Dat",
+      "collocations": [
+        "Informationen im Hippocampus enkodieren",
+        "Erinnerungsspuren dauerhaft enkodieren"
+      ],
+      "example_sentence": {
+        "de": "Während der Lernphase enkodieren neuronale Netzwerke im Hippocampus neue Vokabeln mit hoher Plastizität.",
+        "ar": "تُشَفِّرُ الشَّبَكَاتُ العَصَبِيَّةُ فِي الحُصَيْنِ (قَرْنِ آمُونَ) مُفْرَدَاتٍ جَدِيدَةً بِلُدُونَةٍ عَالِيَةٍ خِلَالَ مَرْحَلَةِ التَّعَلُّمِ.",
+        "en": "During learning, hippocampal neural circuits encode new vocabulary with remarkable plasticity."
+      },
+      "image": "assets/svg/verb_enkodieren.svg"
+    },
+    {
+      "id": "verb_konsolidieren_neuro",
+      "german": "konsolidieren",
+      "arabic": "يُرَسِّخُ وَيُثَبِّتُ الذِّكْرَيَاتِ فِي الذَّاكِرَةِ طَوِيلَةِ الأَمَدِ",
+      "english": "to consolidate memories neurologically",
+      "conjugation": {
+        "praesens": "er/sie/es konsolidiert",
+        "praeteritum": "konsolidierte",
+        "perfekt": "hat konsolidiert"
+      },
+      "preposition": "im + Dat / durch + Akk",
+      "collocations": [
+        "Gedächtnisinhalte im Tiefschlaf konsolidieren",
+        "Erlerntes stabil konsolidieren"
+      ],
+      "example_sentence": {
+        "de": "Ausreichender Tiefschlaf ist unverzichtbar, damit das Gehirn neu erworbenes Wissen dauerhaft konsolidiert.",
+        "ar": "يُعَدُّ النَّوْمُ العَمِيقُ الكَافِي أَمْرًا حَتْمِيًّا لِكَيْ يُرَسِّخَ الدِّمَاغُ المَعَارِفَ المُكْتَسَبَةَ حَدِيثًا فِي الذَّاكِرَةِ المُسْتَدَامَةِ.",
+        "en": "Adequate slow-wave sleep is essential for the brain to stably consolidate newly acquired knowledge."
+      },
+      "image": "assets/svg/verb_konsolidieren_neuro.svg"
+    },
+    {
+      "id": "verb_reaktivieren",
+      "german": "reaktivieren",
+      "arabic": "يَسْتَرْجِعُ وَيُعِيدُ تَنْشِيطَ الأَثَرِ العَصَبِيِّ لِلذِّكْرَى",
+      "english": "to reactivate neural engrams",
+      "conjugation": {
+        "praesens": "er/sie/es reaktiviert",
+        "praeteritum": "reaktivierte",
+        "perfekt": "hat reaktiviert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "Erinnerungsengramme reaktivieren",
+        "vergangene Wissensstrukturen reaktivieren"
+      ],
+      "example_sentence": {
+        "de": "Ein vertrauter Geruch vermag es, längst vergessene Kindheitserinnerungen schlagartig zu reaktivieren.",
+        "ar": "تَسْتَطِيعُ رَائِحَةٌ مَأْلُوفَةٌ أَنْ تُعِيدَ تَنْشِيطَ ذِكْرَيَاتِ الطُّفُولَةِ البَعِيدَةِ بِشَكْلٍ خَاطِفٍ.",
+        "en": "A familiar scent can instantaneously reactivate long-dormant childhood engrams."
+      },
+      "image": "assets/svg/verb_reaktivieren.svg"
+    },
+    {
+      "id": "verb_modulieren_neuro",
+      "german": "modulieren",
+      "arabic": "يُعَدِّلُ وَيُنَظِّمُ شِدَّةَ الإِشَارَاتِ العَصَبِيَّةِ",
+      "english": "to modulate neuromodulatory activity",
+      "conjugation": {
+        "praesens": "er/sie/es moduliert",
+        "praeteritum": "modulierte",
+        "perfekt": "hat moduliert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "die synaptische Übertragung modulieren",
+        "kortikale Erregbarkeit modulieren"
+      ],
+      "example_sentence": {
+        "de": "Neurotransmitter wie Dopamin modulieren die synaptische Plastizität und steuern die Motivation beim Lernen.",
+        "ar": "تُعَدِّلُ النَّوَاقِلُ العَصَبِيَّةُ كَالدُّوبَامِينِ اللُّدُونَةَ المَشْبَكِيَّةَ وَتَضْبِطُ مُسْتَوَى الحَافِزِ أَثْنَاءَ التَّعَلُّمِ.",
+        "en": "Neurotransmitters such as dopamine modulate synaptic plasticity and govern learning motivation."
+      },
+      "image": "assets/svg/verb_modulieren_neuro.svg"
+    },
+    {
+      "id": "verb_synthetisieren_cog",
+      "german": "synthetisieren",
+      "arabic": "يُرَكِّبُ وَيَدْمِجُ المَعْلُومَاتِ فِي بِنْيَةٍ إِدْرَاكِيَّةٍ مُوَحَّدَةٍ",
+      "english": "to synthesize multimodal percepts into unified gestalts",
+      "conjugation": {
+        "praesens": "er/sie/es synthetisiert",
+        "praeteritum": "synthetisierte",
+        "perfekt": "hat synthetisiert"
+      },
+      "preposition": "zu + Dat",
+      "collocations": [
+        "multisensorische Daten synthetisieren",
+        "komplexe Eindrücke zu einem Gesamtbild synthetisieren"
+      ],
+      "example_sentence": {
+        "de": "Das Gehirn synthetisiert optische, akustische und haptische Reize zu einer nahtlosen Erfahrung der Realität.",
+        "ar": "يُرَكِّبُ الدِّمَاغُ المُثِيرَاتِ البَصَرِيَّةَ وَالسَّمْعِيَّةَ وَاللَّمْسِيَّةَ لِيَصُوغَ مِنْهَا تَجْرِبَةً وَاحِدَةً مُتَنَاغِمَةً لِلْوَاقِعِ.",
+        "en": "The brain synthesizes visual, auditory, and haptic cues into a seamless experience of reality."
+      },
+      "image": "assets/svg/verb_synthetisieren_cog.svg"
+    },
+    {
+      "id": "verb_abstrahieren_cog",
+      "german": "abstrahieren",
+      "arabic": "يُجَرِّدُ المَفَاهِيمَ العَامَّةَ مِنَ التَّفَاصِيلِ الحِسِّيَّةِ",
+      "english": "to abstract high-level concepts from sensory data",
+      "conjugation": {
+        "praesens": "er/sie/es abstrahiert",
+        "praeteritum": "abstrahierte",
+        "perfekt": "hat abstrahiert"
+      },
+      "preposition": "von + Dat",
+      "collocations": [
+        "von sensorischen Details abstrahieren",
+        "abstrakte Gesetzmäßigkeiten ableiten"
+      ],
+      "example_sentence": {
+        "de": "Durch Abstrahieren gelingt es dem Geist, allgemeine Kategorien über einzelne Beobachtungen hinaus zu bilden.",
+        "ar": "يَنْجَحُ العَقْلُ عَبْرَ التَّجْرِيدِ فِي بِنَاءِ مَقُولَاتٍ شَامِلَةٍ تَتَجَاوَزُ المُلَاحَظَاتِ الحِسِّيَّةَ المُنْفَرِدَةَ.",
+        "en": "Through abstracting, the intellect forms overarching categories that transcend individual observations."
+      },
+      "image": "assets/svg/verb_abstrahieren_cog.svg"
+    },
+    {
+      "id": "verb_inferieren",
+      "german": "inferieren",
+      "arabic": "يَسْتَدِلُّ عَصَبِيًّا وَمَنْطِقِيًّا / يَسْتَنْتِجُ مِنْ مُعْطَيَاتٍ غَيْرِ مُكْتَمِلَةٍ",
+      "english": "to infer through predictive processing",
+      "conjugation": {
+        "praesens": "er/sie/es inferiert",
+        "praeteritum": "inferierte",
+        "perfekt": "hat inferiert"
+      },
+      "preposition": "aus + Dat",
+      "collocations": [
+        "verborgene Ursachen inferieren",
+        "probabilistisch inferieren"
+      ],
+      "example_sentence": {
+        "de": "Im Rahmen des Predictive Processing inferiert das Gehirn fortwährend die Ursachen eintreffender Sinnesreize.",
+        "ar": "يَسْتَدِلُّ الدِّمَاغُ بِاسْتِمْرَارٍ فِي إِطَارِ المُعَالَجَةِ التَّنَبُّؤِيَّةِ عَلَى أَسْبَابِ المُنَبِّهَاتِ الحِسِّيَّةِ الوَارِدَةِ.",
+        "en": "Within predictive processing, the brain constantly infers the causes of incoming sensory inputs."
+      },
+      "image": "assets/svg/verb_inferieren.svg"
+    },
+    {
+      "id": "verb_kognitivieren",
+      "german": "kognitivieren",
+      "arabic": "يُعَقْلِنُ / يُخْضِعُ الِانْفِعَالَاتِ لِلْمُعَالَجَةِ المَعْرِفِيَّةِ",
+      "english": "to cognitivize emotional states",
+      "conjugation": {
+        "praesens": "er/sie/es kognitiviert",
+        "praeteritum": "kognitivierte",
+        "perfekt": "hat kognitiviert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "affektive Impulse kognitivieren",
+        "Spontanreaktionen kognitivieren"
+      ],
+      "example_sentence": {
+        "de": "Durch das Kognitivieren von Angstreaktionen vermag der präfrontale Kortex emotionale Überreaktionen zu dämpfen.",
+        "ar": "يَسْتَطِيعُ القِشْرُ الجَبْهِيُّ عَبْرَ عَقْلَنَةِ اسْتِجَابَاتِ الخَوْفِ كَبْحَ الِانْفِعَالَاتِ الزَّائِدَةِ عَنِ الحَدِّ.",
+        "en": "By cognitivizing fear responses, the prefrontal cortex dampens excessive emotional reactivity."
+      },
+      "image": "assets/svg/verb_kognitivieren.svg"
+    },
+    {
+      "id": "verb_inhibieren",
+      "german": "inhibieren",
+      "arabic": "يُثَبِّطُ عَصَبِيًّا / يَمْنَعُ الاسْتِجَابَاتِ المَنْدَفِعَةَ غَيْرَ المُرْغُوبَةِ",
+      "english": "to inhibit prepotent responses or neural activity",
+      "conjugation": {
+        "praesens": "er/sie/es inhibiert",
+        "praeteritum": "inhibierte",
+        "perfekt": "hat inhibiert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "unerwünschte Verhaltensimpulse inhibieren",
+        "GABAerge Signale inhibieren"
+      ],
+      "example_sentence": {
+        "de": "Exekutive Funktionen ermöglichen es dem Menschen, störende Impulse gezielt zu inhibieren.",
+        "ar": "تُمَكِّنُ الوَظَائِفُ التَّنْفِيذِيَّةُ الإِنْسَانَ مِنْ تَثْبِيطِ الدَّوَافِعِ المُرْبِكَةِ وَكَبْحِهَا بِعَزِيمَةٍ.",
+        "en": "Executive functions empower humans to selectively inhibit disruptive prepotent impulses."
+      },
+      "image": "assets/svg/verb_inhibieren.svg"
+    },
+    {
+      "id": "verb_fazilitieren",
+      "german": "fazilitieren",
+      "arabic": "يُيَسِّرُ وَيُسَهِّلُ التَّوْصِيلَ العَصَبِيَّ بَيْنَ المَسَارَاتِ",
+      "english": "to facilitate synaptic transmission",
+      "conjugation": {
+        "praesens": "er/sie/es fazilitiert",
+        "praeteritum": "fazilitierte",
+        "perfekt": "hat fazilitiert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "synaptische Fazilitation bewirken",
+        "Reizweiterleitung fazilitieren"
+      ],
+      "example_sentence": {
+        "de": "Wiederholte Reizung fazilitiert die synaptische Transmission und senkt die Auslöseschwelle künftiger Impulse.",
+        "ar": "يُيَسِّرُ التَّحْفِيزُ المُتَكَرِّرُ التَّوْصِيلَ المَشْبَكِيَّ وَيَخْفِضُ عَتَبَةَ انْطِلَاقِ النَّبَضَاتِ المُسْتَقْبَلِيَّةِ.",
+        "en": "Repetitive stimulation facilitates synaptic transmission and lowers the activation threshold for future signals."
+      },
+      "image": "assets/svg/verb_fazilitieren.svg"
+    },
+    {
+      "id": "verb_oszillieren_cog",
+      "german": "oszillieren",
+      "arabic": "تَتَذَبْذَبُ المَوْجَاتُ الدِّمَاغِيَّةُ بِتَرَادُدٍ إِيقَاعِيٍّ مُنْتَظَمٍ",
+      "english": "to oscillate in neural frequency bands",
+      "conjugation": {
+        "praesens": "er/sie/es oszilliert",
+        "praeteritum": "oszillierte",
+        "perfekt": "hat oszilliert"
+      },
+      "preposition": "in + Dat",
+      "collocations": [
+        "im Gamma-Band oszillieren",
+        "neuronale Oszillationen synchronisieren"
+      ],
+      "example_sentence": {
+        "de": "Bei hochkonzentrierter Problemlösung oszillieren kortikale Neuronenverbände synchron im Gamma-Frequenzbereich.",
+        "ar": "تَتَذَبْذَبُ الشَّبَكَاتُ العَصَبِيَّةُ القِشْرِيَّةُ بِتَزَامُنٍ فِي نِطَاقِ تَرَدُّدَاتِ غَامَا عِنْدَ التَّرْكِيزِ الفَائِقِ عَلَى حَلِّ المُعْضِلَاتِ.",
+        "en": "During intense problem-solving, cortical assemblies oscillate synchronously in the gamma frequency range."
+      },
+      "image": "assets/svg/verb_oszillieren_cog.svg"
+    },
+    {
+      "id": "verb_synchronisieren_cog",
+      "german": "synchronisieren",
+      "arabic": "يُزَامِنُ النَّشَاطَ الكَهْرَبَائِيَّ بَيْنَ مَنَاطِقِ الدِّمَاغِ",
+      "english": "to synchronize phase across neural assemblies",
+      "conjugation": {
+        "praesens": "er/sie/es synchronisiert",
+        "praeteritum": "synchronisierte",
+        "perfekt": "hat synchronisiert"
+      },
+      "preposition": "mit + Dat",
+      "collocations": [
+        "Phasenlagen über Hirnareale synchronisieren",
+        "neuronale Rhythmen synchronisieren"
+      ],
+      "example_sentence": {
+        "de": "Um weit entfernte Hirnareale zu verbinden, synchronisiert das Gehirn deren elektrische Schwingungen.",
+        "ar": "لِرَبْطِ مَنَاطِقِ الدِّمَاغِ المُتَبَاعِدَةِ، يُزَامِنُ الدِّمَاغُ ذَبْذَبَاتِهَا الكَهْرَبَائِيَّةَ فِي تَنَاغُمٍ دَقِيقٍ.",
+        "en": "To integrate distant brain areas, the nervous system synchronizes their electrical phase dynamics."
+      },
+      "image": "assets/svg/verb_synchronisieren_cog.svg"
+    },
+    {
+      "id": "verb_rekognizieren",
+      "german": "rekognizieren",
+      "arabic": "يَتَعَرَّفُ عَصَبِيًّا / يُمَيِّزُ الأَنْمَاطَ المَأْلُوفَةَ سَرِيعًا",
+      "english": "to recognize patterns or entities cognitively",
+      "conjugation": {
+        "praesens": "er/sie/es rekogniziert",
+        "praeteritum": "rekognizierte",
+        "perfekt": "hat rekogniziert"
+      },
+      "preposition": "als + Akk",
+      "collocations": [
+        "Gesichter blitzschnell rekognizieren",
+        "komplexe Muster rekognizieren"
+      ],
+      "example_sentence": {
+        "de": "Der Gyrus fusiformis ermöglicht es dem Menschen, vertraute Gesichter in Sekundenbruchteilen fehlerfrei zu rekognizieren.",
+        "ar": "تُمَكِّنُ التَّلْفِيفَةُ المِغْزَلِيَّةُ الإِنْسَانَ مِنَ التَّعَرُّفِ الفَوْرِيِّ عَلَى الوُجُوهِ المَأْلُوفَةِ فِي أَجْزَاءِ الثَّانِيَةِ.",
+        "en": "The fusiform gyrus allows humans to flawlessly recognize familiar faces in fractions of a second."
+      },
+      "image": "assets/svg/verb_rekognizieren.svg"
+    },
+    {
+      "id": "verb_mentalisieren",
+      "german": "mentalisieren",
+      "arabic": "يَسْتَبْطِنُ عُقُولَ الآخَرِينَ / يَقْرَأُ النَّوَايَا وَالحَالَاتِ الذِّهْنِيَّةَ (نَظَرِيَّةُ العَقْلِ)",
+      "english": "to mentalize / infer mental states of others (Theory of Mind)",
+      "conjugation": {
+        "praesens": "er/sie/es mentalisiert",
+        "praeteritum": "mentalisierte",
+        "perfekt": "hat mentalisiert"
+      },
+      "preposition": "über + Akk",
+      "collocations": [
+        "die Motive des Gegenübers mentalisieren",
+        "Empathie durch Mentalisieren aufbauen"
+      ],
+      "example_sentence": {
+        "de": "Die Fähigkeit zu mentalisieren erlaubt es uns, die verborgenen Absichten und Gefühle unserer Mitmenschen zu verstehen.",
+        "ar": "تُتِيحُ لَنَا القُدْرَةُ عَلَى اسْتِبْطَانِ الحَالَاتِ الذِّهْنِيَّةِ (المِنْتَالِيزِينغ) فَهْمَ نَوَايَا وَمَشَاعِرِ شُرَكَائِنَا فِي المُجْتَمَعِ.",
+        "en": "The capacity to mentalize enables us to understand the unstated intentions and emotions of fellow humans."
+      },
+      "image": "assets/svg/verb_mentalisieren.svg"
+    },
+    {
+      "id": "verb_desensibilisieren",
+      "german": "desensibilisieren",
+      "arabic": "يُزِيلُ التَّحَسُّسَ العَصَبِيَّ / يُخَفِّفُ حِدَّةَ التَّأَثُّرِ الِانْفِعَالِيِّ",
+      "english": "to desensitize emotionally or neurologically",
+      "conjugation": {
+        "praesens": "er/sie/es desensibilisiert",
+        "praeteritum": "desensibilisierte",
+        "perfekt": "hat desensibilisiert"
+      },
+      "preposition": "gegen + Akk",
+      "collocations": [
+        "Traumareaktionen desensibilisieren",
+        "gegen Reizüberflutung desensibilisieren"
+      ],
+      "example_sentence": {
+        "de": "In der Traumatherapie wird das Gehirn durch wiederholte schonende Konfrontation gegen Panikauslöser desensibilisiert.",
+        "ar": "يَتِمُّ فِي عِلَاجِ الصَّدَمَاتِ إِزَالَةُ تَحَسُّسِ الدِّمَاغِ تَدْرِيجِيًّا ضِدَّ مُثِيرَاتِ الهَلَعِ عَبْرَ المُواroomجَهَةِ المَدْرُوسَةِ.",
+        "en": "In trauma therapy, the brain is desensitized to panic triggers through graduated, controlled exposure."
+      },
+      "image": "assets/svg/verb_desensibilisieren.svg"
+    },
+    {
+      "id": "verb_rekonsolidieren",
+      "german": "rekonsolidieren",
+      "arabic": "يُعِيدُ تَثْبِيتَ الذِّكْرَى وَتَعْدِيلَهَا أَثْنَاءَ اسْتِرْجَاعِهَا",
+      "english": "to reconsolidate retrieved memories",
+      "conjugation": {
+        "praesens": "er/sie/es rekonsolidiert",
+        "praeteritum": "rekonsolidierte",
+        "perfekt": "hat rekonsolidiert"
+      },
+      "preposition": "in + Dat",
+      "collocations": [
+        "Erinnerungen beim Wiederabruf rekonsolidieren",
+        "das Gedächtnis modifiziert rekonsolidieren"
+      ],
+      "example_sentence": {
+        "de": "Jedes Mal, wenn eine Erinnerung wachgerufen wird, wird sie labil und muss im Langzeitgedächtnis neu rekonsolidiert werden.",
+        "ar": "كُلَّمَا تَمَّ اسْتِدْعَاءُ ذِكْرَى، تُصْبِحُ مَرِنَةً وَقَابِلَةً لِلتَّعْدِيلِ قَبْلَ أَنْ يُعَادَ تَثْبِيتُهَا مِنْ جَدِيدٍ عَصَبِيًّا.",
+        "en": "Whenever a memory is retrieved, it becomes labile and must be newly reconsolidated into long-term storage."
+      },
+      "image": "assets/svg/verb_rekonsolidieren.svg"
+    },
+    {
+      "id": "verb_habituieren_cog",
+      "german": "habituieren",
+      "arabic": "يَعْتَادُ عَصَبِيًّا / يَتَأَقْلَمُ حِسِّيًّا مَعَ تَكْرَارِ المُثِيرِ",
+      "english": "to habituate to recurring sensory inputs",
+      "conjugation": {
+        "praesens": "er/sie/es habituiert",
+        "praeteritum": "habituierte",
+        "perfekt": "hat habituiert"
+      },
+      "preposition": "an + Akk",
+      "collocations": [
+        "an monotone Umweltreize habituieren",
+        "die neuronale Reaktionsstärke habituieren"
+      ],
+      "example_sentence": {
+        "de": "Das sensorische System habituiert rasch an das monotone Brummen der Klimaanlage, um Aufmerksamkeit freizusetzen.",
+        "ar": "يَعْتَادُ الجِهَازُ الحِسِّيُّ سَرِيعًا عَلَى طَنِينِ المُرَوِّقِ الصَّوْتِيِّ لِيُفَرِّغَ طَاقَةَ الِانْتِبَاهِ لِلْمُهِمَّاتِ الأُخْرَى.",
+        "en": "The sensory system rapidly habituates to continuous background hums to liberate attentional resources."
+      },
+      "image": "assets/svg/verb_habituieren_cog.svg"
+    },
+    {
+      "id": "verb_plastizieren",
+      "german": "plastizieren",
+      "arabic": "يُعِيدُ التَّشْكِيلَ اللُّدُونِيَّ لِلْمَسَارَاتِ العَصَبِيَّةِ",
+      "english": "to reshape neural wiring through plasticity",
+      "conjugation": {
+        "praesens": "er/sie/es plastiziert",
+        "praeteritum": "plastizierte",
+        "perfekt": "hat plastiziert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "kortikale Karten plastizieren",
+        "neuronale Verschaltungen plastizieren"
+      ],
+      "example_sentence": {
+        "de": "Intensives Dreisprachen-Lernen plastiziert die Dichte der grauen Substanz im menschlichen Sprachzentrum.",
+        "ar": "يُعِيدُ التَّعَلُّمُ المُكَثَّفُ لِلُّغَاتِ الثَّلَاثِ تَشْكِيلَ لُدُونَةِ وَكَثَافَةِ المَادَّةِ الرَّمَادِيَّةِ فِي مَرْكَزِ اللُّغَةِ الدِّمَاغِيِّ.",
+        "en": "Intensive trilingual learning reshapes the density of gray matter within human cortical language centers."
+      },
+      "image": "assets/svg/verb_plastizieren.svg"
+    }
+  ]
+}

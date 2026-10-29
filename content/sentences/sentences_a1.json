@@ -9786,6 +9786,173 @@
         "Genitivattribut 'des Verstehens'",
         "Präposition 'zwischen' + Dativ Plural 'den Menschen'"
       ]
+    },
+    {
+      "id": "sent_431",
+      "category": "pattern_recognition",
+      "difficulty": "A1+",
+      "arabic": "العَقْلُ يَتَعَرَّفُ عَلَى الصُّوَرِ بِسُهُولَةٍ.",
+      "german": "Der Verstand rekogniziert Bilder mit Leichtigkeit.",
+      "english": "The mind recognizes pictures with ease.",
+      "tokens": [
+        {
+          "word": "Der Verstand",
+          "pos": "noun",
+          "ar": "العَقْلُ / الإِدْرَاكُ"
+        },
+        {
+          "word": "rekogniziert",
+          "pos": "verb",
+          "ar": "يَتَعَرَّفُ عَلَى"
+        },
+        {
+          "word": "Bilder",
+          "pos": "noun",
+          "ar": "الصُّوَرَ"
+        },
+        {
+          "word": "mit Leichtigkeit",
+          "pos": "preposition_phrase",
+          "ar": "بِسُهُولَةٍ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Maskulin Nominativ",
+        "Akkusativ Plural Neutrum ohne Artikel 'Bilder'",
+        "Präposition 'mit' + Dativ Feminin 'Leichtigkeit'"
+      ]
+    },
+    {
+      "id": "sent_432",
+      "category": "memory_consolidation",
+      "difficulty": "A1+",
+      "arabic": "النَّوْمُ الجَيِّدُ يُثَبِّتُ الذِّكْرَيَاتِ الجَدِيدَةَ.",
+      "german": "Guter Schlaf konsolidiert neue Erinnerungen.",
+      "english": "Good sleep consolidates new memories.",
+      "tokens": [
+        {
+          "word": "Guter Schlaf",
+          "pos": "noun_phrase",
+          "ar": "النَّوْمُ الجَيِّدُ"
+        },
+        {
+          "word": "konsolidiert",
+          "pos": "verb",
+          "ar": "يُثَبِّتُ / يُرَسِّخُ"
+        },
+        {
+          "word": "neue Erinnerungen",
+          "pos": "noun_phrase",
+          "ar": "الذِّكْرَيَاتِ الجَدِيدَةَ"
+        }
+      ],
+      "grammar_points": [
+        "Adjektivdeklination Nominativ Maskulin ohne Artikel",
+        "Akkusativ Plural Feminin ohne Artikel 'neue Erinnerungen'"
+      ]
+    },
+    {
+      "id": "sent_433",
+      "category": "empathy_mentalizing",
+      "difficulty": "A1+",
+      "arabic": "نَحْنُ نَفْهَمُ مَشَاعِرَ الآخَرِينَ بِعَطْفٍ.",
+      "german": "Wir mentalisieren die Gefühle anderer mit Mitgefühl.",
+      "english": "We mentalize the feelings of others with compassion.",
+      "tokens": [
+        {
+          "word": "Wir",
+          "pos": "pronoun",
+          "ar": "نَحْنُ"
+        },
+        {
+          "word": "mentalisieren",
+          "pos": "verb",
+          "ar": "نَفْهَمُ مَشَاعِرَ / نَسْتَبْطِنُ نِيَّاتِ"
+        },
+        {
+          "word": "die Gefühle",
+          "pos": "noun",
+          "ar": "مَشَاعِرَ"
+        },
+        {
+          "word": "anderer",
+          "pos": "genitive_pronoun",
+          "ar": "الآخَرِينَ"
+        },
+        {
+          "word": "mit Mitgefühl",
+          "pos": "preposition_phrase",
+          "ar": "بِعَطْفٍ / بِتَعَاطُفٍ"
+        }
+      ],
+      "grammar_points": [
+        "Akkusativ Plural 'die Gefühle'",
+        "Genitiv Plural 'anderer'",
+        "Präposition 'mit' + Dativ Neutrum 'Mitgefühl'"
+      ]
+    },
+    {
+      "id": "sent_434",
+      "category": "neural_training",
+      "difficulty": "A1+",
+      "arabic": "التَّدْرِيبُ المُسْتَمِرُّ يُطَوِّرُ القُدُرَاتِ العَصَبِيَّةَ.",
+      "german": "Kontinuierliches Training moduliert die neuronalen Fähigkeiten.",
+      "english": "Continuous training modulates neural abilities.",
+      "tokens": [
+        {
+          "word": "Kontinuierliches Training",
+          "pos": "noun_phrase",
+          "ar": "التَّدْرِيبُ المُسْتَمِرُّ"
+        },
+        {
+          "word": "moduliert",
+          "pos": "verb",
+          "ar": "يُطَوِّرُ / يُعَدِّلُ"
+        },
+        {
+          "word": "die neuronalen Fähigkeiten",
+          "pos": "noun_phrase",
+          "ar": "القُدُرَاتِ العَصَبِيَّةَ"
+        }
+      ],
+      "grammar_points": [
+        "Adjektivdeklination Nominativ Neutrum ohne Artikel",
+        "Akkusativ Plural Feminin mit bestimmtem Artikel"
+      ]
+    },
+    {
+      "id": "sent_435",
+      "category": "calm_processing",
+      "difficulty": "A1+",
+      "arabic": "المُعَالَجَةُ الهَادِئَةُ تُنَظِّمُ الانْفِعَالَاتِ بِإِتْقَانٍ.",
+      "german": "Ruhige Verarbeitung inhibiert übermäßige Impulse perfekt.",
+      "english": "Calm processing inhibits excessive impulses perfectly.",
+      "tokens": [
+        {
+          "word": "Ruhige Verarbeitung",
+          "pos": "noun_phrase",
+          "ar": "المُعَالَجَةُ الهَادِئَةُ"
+        },
+        {
+          "word": "inhibiert",
+          "pos": "verb",
+          "ar": "تُثَبِّطُ / تَمْنَعُ"
+        },
+        {
+          "word": "übermäßige Impulse",
+          "pos": "noun_phrase",
+          "ar": "الانْفِعَالَاتِ الزَّائِدَةَ"
+        },
+        {
+          "word": "perfekt",
+          "pos": "adverb",
+          "ar": "بِإِتْقَانٍ"
+        }
+      ],
+      "grammar_points": [
+        "Adjektivdeklination Nominativ Feminin ohne Artikel",
+        "Akkusativ Plural Maskulin ohne Artikel 'übermäßige Impulse'"
+      ]
     }
   ]
 }

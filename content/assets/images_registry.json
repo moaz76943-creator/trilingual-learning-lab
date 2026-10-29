@@ -33446,5 +33446,100 @@
     "file": "assets/svg/concept_metakognition.svg",
     "category": "neurophilosophy",
     "alt": "concept metakognition"
+  },
+  "assets/svg/verb_kognitivieren.svg": {
+    "file": "assets/svg/verb_kognitivieren.svg",
+    "category": "c2_neuro_verbs",
+    "alt": "verb kognitivieren"
+  },
+  "assets/svg/verb_desensibilisieren.svg": {
+    "file": "assets/svg/verb_desensibilisieren.svg",
+    "category": "c2_neuro_verbs",
+    "alt": "verb desensibilisieren"
+  },
+  "assets/svg/verb_konsolidieren_neuro.svg": {
+    "file": "assets/svg/verb_konsolidieren_neuro.svg",
+    "category": "c2_neuro_verbs",
+    "alt": "verb konsolidieren neuro"
+  },
+  "assets/svg/verb_modulieren_neuro.svg": {
+    "file": "assets/svg/verb_modulieren_neuro.svg",
+    "category": "c2_neuro_verbs",
+    "alt": "verb modulieren neuro"
+  },
+  "assets/svg/verb_habituieren_cog.svg": {
+    "file": "assets/svg/verb_habituieren_cog.svg",
+    "category": "c2_neuro_verbs",
+    "alt": "verb habituieren cog"
+  },
+  "assets/svg/verb_apperzipieren.svg": {
+    "file": "assets/svg/verb_apperzipieren.svg",
+    "category": "c2_neuro_verbs",
+    "alt": "verb apperzipieren"
+  },
+  "assets/svg/verb_abstrahieren_cog.svg": {
+    "file": "assets/svg/verb_abstrahieren_cog.svg",
+    "category": "c2_neuro_verbs",
+    "alt": "verb abstrahieren cog"
+  },
+  "assets/svg/verb_inferieren.svg": {
+    "file": "assets/svg/verb_inferieren.svg",
+    "category": "c2_neuro_verbs",
+    "alt": "verb inferieren"
+  },
+  "assets/svg/verb_fazilitieren.svg": {
+    "file": "assets/svg/verb_fazilitieren.svg",
+    "category": "c2_neuro_verbs",
+    "alt": "verb fazilitieren"
+  },
+  "assets/svg/verb_synchronisieren_cog.svg": {
+    "file": "assets/svg/verb_synchronisieren_cog.svg",
+    "category": "c2_neuro_verbs",
+    "alt": "verb synchronisieren cog"
+  },
+  "assets/svg/verb_rekonsolidieren.svg": {
+    "file": "assets/svg/verb_rekonsolidieren.svg",
+    "category": "c2_neuro_verbs",
+    "alt": "verb rekonsolidieren"
+  },
+  "assets/svg/verb_perzipieren.svg": {
+    "file": "assets/svg/verb_perzipieren.svg",
+    "category": "c2_neuro_verbs",
+    "alt": "verb perzipieren"
+  },
+  "assets/svg/verb_reaktivieren.svg": {
+    "file": "assets/svg/verb_reaktivieren.svg",
+    "category": "c2_neuro_verbs",
+    "alt": "verb reaktivieren"
+  },
+  "assets/svg/verb_oszillieren_cog.svg": {
+    "file": "assets/svg/verb_oszillieren_cog.svg",
+    "category": "c2_neuro_verbs",
+    "alt": "verb oszillieren cog"
+  },
+  "assets/svg/verb_enkodieren.svg": {
+    "file": "assets/svg/verb_enkodieren.svg",
+    "category": "c2_neuro_verbs",
+    "alt": "verb enkodieren"
+  },
+  "assets/svg/verb_mentalisieren.svg": {
+    "file": "assets/svg/verb_mentalisieren.svg",
+    "category": "c2_neuro_verbs",
+    "alt": "verb mentalisieren"
+  },
+  "assets/svg/verb_plastizieren.svg": {
+    "file": "assets/svg/verb_plastizieren.svg",
+    "category": "c2_neuro_verbs",
+    "alt": "verb plastizieren"
+  },
+  "assets/svg/verb_synthetisieren_cog.svg": {
+    "file": "assets/svg/verb_synthetisieren_cog.svg",
+    "category": "c2_neuro_verbs",
+    "alt": "verb synthetisieren cog"
+  },
+  "assets/svg/verb_rekognizieren.svg": {
+    "file": "assets/svg/verb_rekognizieren.svg",
+    "category": "c2_neuro_verbs",
+    "alt": "verb rekognizieren"
   }
 }
