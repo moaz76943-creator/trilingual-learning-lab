@@ -14061,5 +14061,205 @@
     "label_de": "emanzipieren",
     "label_ar": "يَتَحَرَّرُ مِنْ هَيْمَنَةِ وَاحْتِكَارِ عَمَالِقَةِ التِّكْنُولُوجْيَا",
     "label_en": "to emancipate oneself from big tech monopolies"
+  },
+  "svg_cpx_komplexes_system": {
+    "file": "svg_cpx_komplexes_system.svg",
+    "path": "content/assets/svg/svg_cpx_komplexes_system.svg",
+    "category": "complex_systems_c1",
+    "label_de": "das komplexe System",
+    "label_ar": "النِّظَامُ الْمُعَقَّدُ (نِظَامٌ تَنْبَثِقُ خَصَائِصُهُ مِنْ تَفَاعُلِ أَجْزَائِهِ)",
+    "label_en": "complex system"
+  },
+  "svg_cpx_chaostheorie": {
+    "file": "svg_cpx_chaostheorie.svg",
+    "path": "content/assets/svg/svg_cpx_chaostheorie.svg",
+    "category": "complex_systems_c1",
+    "label_de": "die Chaostheorie",
+    "label_ar": "نَظَرِيَّةُ الشَّوَّاشِ / نَظَرِيَّةُ الْفَوْضَى",
+    "label_en": "chaos theory"
+  },
+  "svg_cpx_schmetterlingseffekt": {
+    "file": "svg_cpx_schmetterlingseffekt.svg",
+    "path": "content/assets/svg/svg_cpx_schmetterlingseffekt.svg",
+    "category": "complex_systems_c1",
+    "label_de": "der Schmetterlingseffekt",
+    "label_ar": "تَأْثِيرُ الْفَرَاشَةِ (الْحَسَّاسِيَّةُ الْفَائِقَةُ لِلشُّرُوطِ الْبَدْئِيَّةِ)",
+    "label_en": "butterfly effect / sensitive dependence on initial conditions"
+  },
+  "svg_cpx_nichtlinearitaet": {
+    "file": "svg_cpx_nichtlinearitaet.svg",
+    "path": "content/assets/svg/svg_cpx_nichtlinearitaet.svg",
+    "category": "complex_systems_c1",
+    "label_de": "die Nichtlinearität",
+    "label_ar": "اللَّاخَطِّيَّةُ (عَدَمُ التَّنَاسُبِ بَيْنَ السَّبَبِ وَالأَثَرِ)",
+    "label_en": "nonlinearity"
+  },
+  "svg_cpx_emergenz": {
+    "file": "svg_cpx_emergenz.svg",
+    "path": "content/assets/svg/svg_cpx_emergenz.svg",
+    "category": "complex_systems_c1",
+    "label_de": "die Emergenz",
+    "label_ar": "الِانْبِثَاقُ (ظُهُورُ خَصَائِصَ كُلِّيَّةٍ لَا تُوجَدُ فِي الأَجْزَاءِ)",
+    "label_en": "emergence / spontaneous macroscopic order"
+  },
+  "svg_cpx_seltsamer_attraktor": {
+    "file": "svg_cpx_seltsamer_attraktor.svg",
+    "path": "content/assets/svg/svg_cpx_seltsamer_attraktor.svg",
+    "category": "complex_systems_c1",
+    "label_de": "der seltsame Attraktor",
+    "label_ar": "الْجَاذِبُ الْغَرِيبُ (مَسَارُ النِّظَامِ الْفَوْضَوِيِّ فِي فَضَاءِ الطَّوْرِ)",
+    "label_en": "strange attractor / fractal attractor"
+  },
+  "svg_cpx_selbstorganisation": {
+    "file": "svg_cpx_selbstorganisation.svg",
+    "path": "content/assets/svg/svg_cpx_selbstorganisation.svg",
+    "category": "complex_systems_c1",
+    "label_de": "die Selbstorganisation",
+    "label_ar": "التَّنْظِيمُ الذَّاتِيُّ (تَشَكُّلُ النِّظَامِ دُونَ سُلْطَةٍ مَرْكَزِيَّةٍ)",
+    "label_en": "self-organization"
+  },
+  "svg_cpx_phasenuebergang": {
+    "file": "svg_cpx_phasenuebergang.svg",
+    "path": "content/assets/svg/svg_cpx_phasenuebergang.svg",
+    "category": "complex_systems_c1",
+    "label_de": "das Phasenübergangsphänomen",
+    "label_ar": "ظَاهِرَةُ التَّحَوُّلِ الطَّوْرِيِّ",
+    "label_en": "phase transition"
+  },
+  "svg_cpx_rueckkopplung": {
+    "file": "svg_cpx_rueckkopplung.svg",
+    "path": "content/assets/svg/svg_cpx_rueckkopplung.svg",
+    "category": "complex_systems_c1",
+    "label_de": "die Rückkopplungsschleife",
+    "label_ar": "حَلَقَةُ التَّغْذِيَةِ الرَّاجِعَةِ (إِيجَابِيَّةٌ أَوْ سَلْبِيَّةٌ)",
+    "label_en": "feedback loop (positive / negative)"
+  },
+  "svg_cpx_fraktalgeometrie": {
+    "file": "svg_cpx_fraktalgeometrie.svg",
+    "path": "content/assets/svg/svg_cpx_fraktalgeometrie.svg",
+    "category": "complex_systems_c1",
+    "label_de": "die Fraktalgeometrie",
+    "label_ar": "الْهَنْدَسَةُ الْكُسَيْرِيَّةُ (تَشَابُهُ الأَشْكَالِ ذَاتِيًّا عَبْرَ الْمَقَايِيسِ)",
+    "label_en": "fractal geometry / self-similarity"
+  },
+  "svg_cpx_kipppunkt": {
+    "file": "svg_cpx_kipppunkt.svg",
+    "path": "content/assets/svg/svg_cpx_kipppunkt.svg",
+    "category": "complex_systems_c1",
+    "label_de": "der Kipppunkt",
+    "label_ar": "نُقْطَةُ التَّحَوُّلِ الْحَرِجَةِ (Tipping Point)",
+    "label_en": "tipping point / critical threshold"
+  },
+  "svg_cpx_hysterese": {
+    "file": "svg_cpx_hysterese.svg",
+    "path": "content/assets/svg/svg_cpx_hysterese.svg",
+    "category": "complex_systems_c1",
+    "label_de": "die Hysterese",
+    "label_ar": "التَّبَاطُؤُ وَالتَّخَلُّفُ التَّارِيخِيُّ لِلنِّظَامِ (Hysteresis)",
+    "label_en": "hysteresis / path-dependent memory"
+  },
+  "svg_cpx_dissipativ": {
+    "file": "svg_cpx_dissipativ.svg",
+    "path": "content/assets/svg/svg_cpx_dissipativ.svg",
+    "category": "complex_systems_c1",
+    "label_de": "das dissipative System",
+    "label_ar": "النِّظَامُ الْمُبَدِّدُ (بِنْيَةٌ تُحَافِظُ عَلَى نِظَامِهَا بِاسْتِهْلَاكِ الطَّاقَةِ)",
+    "label_en": "dissipative structure / open thermodynamic system"
+  },
+  "svg_cpx_bifurkation": {
+    "file": "svg_cpx_bifurkation.svg",
+    "path": "content/assets/svg/svg_cpx_bifurkation.svg",
+    "category": "complex_systems_c1",
+    "label_de": "die Bifurkation",
+    "label_ar": "التَّشَعُّبُ الطَّوْرِيُّ (Bifurcation)",
+    "label_en": "bifurcation / qualitative state splitting"
+  },
+  "svg_cpx_netzwerktopologie": {
+    "file": "svg_cpx_netzwerktopologie.svg",
+    "path": "content/assets/svg/svg_cpx_netzwerktopologie.svg",
+    "category": "complex_systems_c1",
+    "label_de": "die Netzwerktopologie",
+    "label_ar": "طُوبُولُوجْيَا الشَّبَكَاتِ (هَنْدَسَةُ الرَّوَابِطِ وَالْعُقَدِ)",
+    "label_en": "network topology / scale-free networks"
+  },
+  "svg_cpx_potenzgesetz": {
+    "file": "svg_cpx_potenzgesetz.svg",
+    "path": "content/assets/svg/svg_cpx_potenzgesetz.svg",
+    "category": "complex_systems_c1",
+    "label_de": "die Potenzgesetz-Verteilung",
+    "label_ar": "تَوْزِيعُ قَانُونِ الْقُوَى (Power Law / مَبْدَأُ بَارِيتُو)",
+    "label_en": "power-law distribution / Pareto tail"
+  },
+  "svg_cpx_resilienz": {
+    "file": "svg_cpx_resilienz.svg",
+    "path": "content/assets/svg/svg_cpx_resilienz.svg",
+    "category": "complex_systems_c1",
+    "label_de": "die systemische Resilienz",
+    "label_ar": "الْمُرُونَةُ وَالصُّمُودُ النِّظَامِيُّ",
+    "label_en": "systemic resilience"
+  },
+  "svg_cpx_homoeostase": {
+    "file": "svg_cpx_homoeostase.svg",
+    "path": "content/assets/svg/svg_cpx_homoeostase.svg",
+    "category": "complex_systems_c1",
+    "label_de": "die Homöostase",
+    "label_ar": "التَّوَازُنُ الدَّاخِلِيُّ الدِّينَامِيكِيُّ (Homöostase)",
+    "label_en": "homeostasis / dynamic equilibrium"
+  },
+  "svg_cpx_entropie": {
+    "file": "svg_cpx_entropie.svg",
+    "path": "content/assets/svg/svg_cpx_entropie.svg",
+    "category": "complex_systems_c1",
+    "label_de": "die Entropieproduktion",
+    "label_ar": "إِنْتَاجُ الْعُشْوَائِيَّةِ / تَوْلِيدُ الإِنْتْرُوبْيَا الدِّينَامِيكِيَّةِ",
+    "label_en": "entropy production"
+  },
+  "svg_cpx_stigmergie": {
+    "file": "svg_cpx_stigmergie.svg",
+    "path": "content/assets/svg/svg_cpx_stigmergie.svg",
+    "category": "complex_systems_c1",
+    "label_de": "die Stigmergie",
+    "label_ar": "التَّنْسِيقُ غَيْرُ الْمُبَاشِرِ عَبْرَ الأَثَرِ الْبِيئِيِّ (Stigmergy)",
+    "label_en": "stigmergy / indirect environmental coordination"
+  },
+  "svg_cpx_synchronisation": {
+    "file": "svg_cpx_synchronisation.svg",
+    "path": "content/assets/svg/svg_cpx_synchronisation.svg",
+    "category": "complex_systems_c1",
+    "label_de": "die Synchronisation",
+    "label_ar": "التَّزَامُنُ الطَّوْرِيُّ لِلْمُتَذَبْذِبَاتِ",
+    "label_en": "synchronization / phase-locking"
+  },
+  "svg_cpx_unvorhersehbarkeit": {
+    "file": "svg_cpx_unvorhersehbarkeit.svg",
+    "path": "content/assets/svg/svg_cpx_unvorhersehbarkeit.svg",
+    "category": "complex_systems_c1",
+    "label_de": "die deterministische Unvorhersehbarkeit",
+    "label_ar": "اللَّاتَنَبُّؤِيَّةُ الْحَتْمِيَّةُ (الْعَجْزُ عَنِ التَّوَقُّعِ رَغْمَ وُجُودِ قَوَانِينَ دَقِيقَةٍ)",
+    "label_en": "deterministic unpredictability"
+  },
+  "svg_cpx_skaleninvarianz": {
+    "file": "svg_cpx_skaleninvarianz.svg",
+    "path": "content/assets/svg/svg_cpx_skaleninvarianz.svg",
+    "category": "complex_systems_c1",
+    "label_de": "die Skaleninvarianz",
+    "label_ar": "لَا تَغَيُّرِيَّةُ الْمِقْيَاسِ (احْتِفَاظُ النِّظَامِ بِخَصَائِصِهِ مَهْمَا تَغَيَّرَ الْحَجْمُ)",
+    "label_en": "scale invariance / scale-free behavior"
+  },
+  "svg_cpx_agentenbasiert": {
+    "file": "svg_cpx_agentenbasiert.svg",
+    "path": "content/assets/svg/svg_cpx_agentenbasiert.svg",
+    "category": "complex_systems_c1",
+    "label_de": "die agentenbasierte Modellierung",
+    "label_ar": "النَّمْذَجَةُ الْمُعْتَمِدَةُ عَلَى الْوُكَلَاءِ (ABM)",
+    "label_en": "agent-based modeling (ABM)"
+  },
+  "svg_cpx_adaptives_system": {
+    "file": "svg_cpx_adaptives_system.svg",
+    "path": "content/assets/svg/svg_cpx_adaptives_system.svg",
+    "category": "complex_systems_c1",
+    "label_de": "das komplexe adaptive System",
+    "label_ar": "النِّظَامُ الْمُعَقَّدُ الْمُتَكَيِّفُ (CAS)",
+    "label_en": "complex adaptive system (CAS)"
   }
 }

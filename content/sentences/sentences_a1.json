@@ -1,5 +1,5 @@
 {
-  "count": 305,
+  "count": 310,
   "sentences": [
     {
       "id": "sent_001",
@@ -5714,6 +5714,114 @@
         "emanzipieren."
       ],
       "grammar_point": "Transitive verb with accusative object and final reflexive infinitive construction 'um sich ... zu emanzipieren' in milestone 305"
+    },
+    {
+      "id": "sent_306",
+      "category": "Complex Systems & Chaos",
+      "german": "Der Schmetterlingseffekt illustriert wie mikroskopische Fluktuationen makroskopische Dynamiken unvorhersehbar verändern können.",
+      "arabic": "يُوَضِّحُ تَأْثِيرُ الْفَرَاشَةِ كَيْفَ يُمْكِنُ لِلتَّقَلُّبَاتِ الْمِجْهَرِيَّةِ أَنْ تُغَيِّرَ الدِّينَامِيكِيَّاتِ الْكُلِّيَّةَ بِشَكْلٍ لَا يُمْكِنُ التَّنَبُّؤُ بِهِ.",
+      "english": "The butterfly effect illustrates how microscopic fluctuations can unpredictably alter macroscopic dynamics.",
+      "tokens": [
+        "Der",
+        "Schmetterlingseffekt",
+        "illustriert",
+        "wie",
+        "mikroskopische",
+        "Fluktuationen",
+        "makroskopische",
+        "Dynamiken",
+        "unvorhersehbar",
+        "verändern",
+        "können."
+      ],
+      "grammar_point": "Transitive verb 'illustrieren' governing an interrogative clause with modal verb 'können'"
+    },
+    {
+      "id": "sent_307",
+      "category": "Complex Systems & Chaos",
+      "german": "In nichtlinearen Systemen führen positive Rückkopplungsschleifen oft zur rasanten Überschreitung kritischer Kipppunkte.",
+      "arabic": "فِي الأَنْظِمَةِ اللَّاخَطِّيَّةِ، تَقُودُ حَلَقَاتُ التَّغْذِيَةِ الرَّاجِعَةِ الإِيجَابِيَّةِ غَالِبًا إِلَى تَجَاوُزٍ مُتَسَارِعٍ لِنِقَاطِ التَّحَوُّلِ الْحَرِجَةِ.",
+      "english": "In nonlinear systems, positive feedback loops often lead to the rapid crossing of critical tipping points.",
+      "tokens": [
+        "In",
+        "nichtlinearen",
+        "Systemen",
+        "führen",
+        "positive",
+        "Rückkopplungsschleifen",
+        "oft",
+        "zur",
+        "rasanten",
+        "Überschreitung",
+        "kritischer",
+        "Kipppunkte."
+      ],
+      "grammar_point": "Verb 'führen zu + Dat' with dative nominalization and genitive plural attribute complement"
+    },
+    {
+      "id": "sent_308",
+      "category": "Complex Systems & Chaos",
+      "german": "Selbstorganisation ermöglicht die spontane Entstehung geordneter Strukturen ohne zentrale Steuerungsinstanz.",
+      "arabic": "يُمَكِّنُ التَّنْظِيمُ الذَّاتِيُّ مِنَ التَّشَكُّلِ التِّلْقَائِيِّ لِبِنًى مُنَظَّمَةٍ دُونَ وُجُودِ سُلْطَةِ تَحَكُّمٍ مَرْكَزِيَّةٍ.",
+      "english": "Self-organization enables the spontaneous emergence of ordered structures without a central controlling authority.",
+      "tokens": [
+        "Selbstorganisation",
+        "ermöglicht",
+        "die",
+        "spontane",
+        "Entstehung",
+        "geordneter",
+        "Strukturen",
+        "ohne",
+        "zentrale",
+        "Steuerungsinstanz."
+      ],
+      "grammar_point": "Transitive verb 'ermöglichen' with accusative direct object and preposition 'ohne + Akk'"
+    },
+    {
+      "id": "sent_309",
+      "category": "Complex Systems & Chaos",
+      "german": "Fraktale Muster weisen auf allen Betrachtungsskalen eine faszinierende geometrische Selbstähnlichkeit auf.",
+      "arabic": "تُظْهِرُ الأَنْمَاطُ الْكُسَيْرِيَّةُ تَشَابُهًا ذَاتِيًّا هَنْدَسِيًّا مَبْهُورًا عَبْرَ كَافَّةِ مَقَايِيسِ الْمُعَايَنَةِ.",
+      "english": "Fractal patterns exhibit fascinating geometric self-similarity across all observation scales.",
+      "tokens": [
+        "Fraktale",
+        "Muster",
+        "weisen",
+        "auf",
+        "allen",
+        "Betrachtungsskalen",
+        "eine",
+        "faszinierende",
+        "geometrische",
+        "Selbstähnlichkeit",
+        "auf."
+      ],
+      "grammar_point": "Separable verb 'aufweisen' with prepositional phrase 'auf + Dat' and feminine accusative object"
+    },
+    {
+      "id": "sent_310",
+      "category": "Complex Systems & Chaos",
+      "german": "Komplexe adaptive Systeme balancieren kontinuierlich am Rande des Chaos um maximale Innovationskraft zu entfalten.",
+      "arabic": "تَتَوَازَنُ الأَنْظِمَةُ الْمُعَقَّدَةُ الْمُتَكَيِّفَةُ بِاسْتِمْرَارٍ عَلَى حَافَّةِ الشَّوَّاشِ لِإِطْلَاقِ أَقْصَى طَاقَاتِ الابْتِكَارِ.",
+      "english": "Complex adaptive systems continuously balance at the edge of chaos to unfold maximum innovative potential.",
+      "tokens": [
+        "Komplexe",
+        "adaptive",
+        "Systeme",
+        "balancieren",
+        "kontinuierlich",
+        "am",
+        "Rande",
+        "des",
+        "Chaos",
+        "um",
+        "maximale",
+        "Innovationskraft",
+        "zu",
+        "entfalten."
+      ],
+      "grammar_point": "Verb 'balancieren' with locative idiom 'am Rande + Gen' and final infinitive clause 'um ... zu entfalten' in milestone 310"
     }
   ]
 }
