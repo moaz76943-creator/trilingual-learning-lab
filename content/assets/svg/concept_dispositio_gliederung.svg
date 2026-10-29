@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <defs>
+    <linearGradient id="grad_concept_dispositio_gliederung" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#303F9F" />
+      <stop offset="100%" stop-color="#1A237E" />
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="20" fill="url(#grad_concept_dispositio_gliederung)" />
+  <circle cx="50" cy="50" r="32" fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-dasharray="4 2" opacity="0.4" />
+  <circle cx="50" cy="50" r="18" fill="#FFFFFF" opacity="0.18" />
+  <path d="M36 36 L64 36 M36 46 L64 46 M36 56 L64 56 M36 66 L54 66" fill="#FFFFFF" />
+  <text x="50" y="88" font-family="sans-serif" font-size="6.5" font-weight="bold" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.5">DISPOSITIO</text>
+</svg>

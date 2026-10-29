@@ -8911,6 +8911,177 @@
         "Substantiviertes Verb im Nominativ Neutrum",
         "Akkusativobjekte ohne Artikel 'Geist und Körper'"
       ]
+    },
+    {
+      "id": "sent_406",
+      "category": "oratory_speech",
+      "difficulty": "A1+",
+      "arabic": "الخَطِيبُ يَتَحَدَّثُ بِفَصَاحَةٍ وَبَيَانٍ أَمَامَ النَّاسِ.",
+      "german": "Der Redner spricht mit Eloquenz vor den Menschen.",
+      "english": "The speaker speaks with eloquence before the people.",
+      "tokens": [
+        {
+          "word": "Der Redner",
+          "pos": "noun",
+          "ar": "الخَطِيبُ"
+        },
+        {
+          "word": "spricht",
+          "pos": "verb",
+          "ar": "يَتَحَدَّثُ"
+        },
+        {
+          "word": "mit Eloquenz",
+          "pos": "preposition_phrase",
+          "ar": "بِفَصَاحَةٍ"
+        },
+        {
+          "word": "vor den Menschen",
+          "pos": "preposition_phrase",
+          "ar": "أَمَامَ النَّاسِ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Maskulin Nominativ",
+        "Präposition 'mit' + Dativ Feminin",
+        "Präposition 'vor' + Dativ Plural 'den Menschen'"
+      ]
+    },
+    {
+      "id": "sent_407",
+      "category": "strong_argument",
+      "difficulty": "A1+",
+      "arabic": "الحُجَّةُ القَوِيَّةُ تُقْنِعُ العَقْلَ بِالـمَنْطِقِ.",
+      "german": "Das starke Argument überzeugt den Verstand mit Logik.",
+      "english": "The strong argument convinces the mind with logic.",
+      "tokens": [
+        {
+          "word": "Das starke Argument",
+          "pos": "noun_phrase",
+          "ar": "الحُجَّةُ القَوِيَّةُ"
+        },
+        {
+          "word": "überzeugt",
+          "pos": "verb",
+          "ar": "تُقْنِعُ"
+        },
+        {
+          "word": "den Verstand",
+          "pos": "noun",
+          "ar": "العَقْلَ"
+        },
+        {
+          "word": "mit Logik",
+          "pos": "preposition_phrase",
+          "ar": "بِالمَنْطِقِ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Neutrum Nominativ mit Adjektiv",
+        "Akkusativ Maskulin mit bestimmtem Artikel 'den Verstand'"
+      ]
+    },
+    {
+      "id": "sent_408",
+      "category": "attentive_listening",
+      "difficulty": "A1+",
+      "arabic": "نَحْنُ نَسْتَمِعُ إِلَى الخِطَابِ بِاهْتِمَامٍ كَبِيرٍ.",
+      "german": "Wir hören der Rede mit großem Interesse zu.",
+      "english": "We listen to the speech with great interest.",
+      "tokens": [
+        {
+          "word": "Wir",
+          "pos": "pronoun",
+          "ar": "نَحْنُ"
+        },
+        {
+          "word": "hören ... zu",
+          "pos": "separable_verb",
+          "ar": "نَسْتَمِعُ إِلَى"
+        },
+        {
+          "word": "der Rede",
+          "pos": "dative_noun",
+          "ar": "الخِطَابِ (حالة الجر)"
+        },
+        {
+          "word": "mit großem Interesse",
+          "pos": "preposition_phrase",
+          "ar": "بِاهْتِمَامٍ كَبِيرٍ"
+        }
+      ],
+      "grammar_points": [
+        "Trennbares Verb 'zuhören' regiert Dativ Feminin 'der Rede'",
+        "Präposition 'mit' + Dativ Neutrum ohne Artikel"
+      ]
+    },
+    {
+      "id": "sent_409",
+      "category": "honest_impact",
+      "difficulty": "A1+",
+      "arabic": "الكَلِمَةُ الصَّادِقَةُ تُؤَثِّرُ فِي القُلُوبِ دَائِمًا.",
+      "german": "Das ehrliche Wort berührt die Herzen immer.",
+      "english": "The honest word always touches hearts.",
+      "tokens": [
+        {
+          "word": "Das ehrliche Wort",
+          "pos": "noun_phrase",
+          "ar": "الكَلِمَةُ الصَّادِقَةُ"
+        },
+        {
+          "word": "berührt",
+          "pos": "verb",
+          "ar": "تُؤَثِّرُ فِي / تَلْمِسُ"
+        },
+        {
+          "word": "die Herzen",
+          "pos": "noun",
+          "ar": "القُلُوبَ"
+        },
+        {
+          "word": "immer",
+          "pos": "adverb",
+          "ar": "دَائِمًا"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Neutrum Nominativ mit Adjektiv",
+        "Akkusativ Plural 'die Herzen'"
+      ]
+    },
+    {
+      "id": "sent_410",
+      "category": "fair_debate",
+      "difficulty": "A1+",
+      "arabic": "المُنَاظَرَةُ العَادِلَةُ تُظْهِرُ الحَقِيقَةَ بِوُضُوحٍ.",
+      "german": "Die gerechte Debatte zeigt die Wahrheit klar.",
+      "english": "The fair debate reveals the truth clearly.",
+      "tokens": [
+        {
+          "word": "Die gerechte Debatte",
+          "pos": "noun_phrase",
+          "ar": "المُنَاظَرَةُ العَادِلَةُ"
+        },
+        {
+          "word": "zeigt",
+          "pos": "verb",
+          "ar": "تُظْهِرُ"
+        },
+        {
+          "word": "die Wahrheit",
+          "pos": "noun",
+          "ar": "الحَقِيقَةَ"
+        },
+        {
+          "word": "klar",
+          "pos": "adverb",
+          "ar": "بِوُضُوحٍ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Feminin Nominativ mit Adjektiv",
+        "Akkusativ Feminin 'die Wahrheit'"
+      ]
     }
   ]
 }

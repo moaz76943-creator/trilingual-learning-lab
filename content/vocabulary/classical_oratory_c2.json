@@ -1,0 +1,336 @@
+{
+  "category_id": "classical_oratory_c2",
+  "category_title": {
+    "ar": "البلاغة الكلاسيكية وفنون الخطابة القضائية والمناظرة البرلمانية",
+    "de": "Klassische Rhetorik, Gerichtsberedsamkeit und parlamentarische Debattenkunst",
+    "en": "Classical Rhetoric, Forensic Oratory & Parliamentary Debate"
+  },
+  "level": "C2",
+  "items": [
+    {
+      "id": "concept_klassische_rhetorik",
+      "german": "die klassische Rhetorik",
+      "plural": "die klassischen Rhetoriken",
+      "arabic": "البَلَاغَةُ الكَلَاسِيكِيَّةُ",
+      "english": "classical rhetoric",
+      "example_sentence": {
+        "de": "Die klassische Rhetorik gliedert die Rede in die fünf Phasen Inventio, Dispositio, Elocutio, Memoria und Actio.",
+        "ar": "تُقَسِّمُ البَلَاغَةُ الكَلَاسِيكِيَّةُ الخِطَابَ إِلَى خَمْسِ مَرَاحِلَ: الِابْتِكَارُ، وَالتَّرْتِيبُ، وَالصِّيَاغَةُ، وَالحِفْظُ، وَالإِلْقَاءُ.",
+        "en": "Classical rhetoric divides the speech into five canons: inventio, dispositio, elocutio, memoria, and actio."
+      },
+      "image": "assets/svg/concept_klassische_rhetorik.svg"
+    },
+    {
+      "id": "concept_ethos_rhetorik",
+      "german": "das Ethos",
+      "plural": "-",
+      "arabic": "الإِيثُوس (المِصْدَاقِيَّةُ الأَخْلَاقِيَّةُ وَالجَدَارَةُ المَعْنَوِيَّةُ لِلْخَطِيبِ)",
+      "english": "ethos (rhetorical moral authority and credibility)",
+      "example_sentence": {
+        "de": "Das Ethos des Redners entscheidet oft mehr über die Überzeugungskraft als die formale Beweisführung.",
+        "ar": "تُحَدِّدُ المِصْدَاقِيَّةُ الأَخْلَاقِيَّةُ (الإِيثُوس) لِلْخَطِيبِ قُوَّةَ الإِقْنَاعِ كَثِيرًا أَكْثَرَ مِنَ الأَدِلَّةِ الصُّورِيَّةِ المَحْضَةِ.",
+        "en": "The speaker's ethos often determines persuasiveness more profoundly than formal argumentation alone."
+      },
+      "image": "assets/svg/concept_ethos_rhetorik.svg"
+    },
+    {
+      "id": "concept_pathos_rhetorik",
+      "german": "das Pathos",
+      "plural": "-",
+      "arabic": "البَاثُوس (الاسْتِثَارَةُ العَاطِفِيَّةُ وَالتَّأْثِيرُ الوِجْدَانِيُّ فِي الجُمْهُورِ)",
+      "english": "pathos (emotional appeal and audience arousal)",
+      "example_sentence": {
+        "de": "Durch wohlgesetztes Pathos vermochte Cicero, die Richter zu Mitleid und tiefer Ergriffenheit zu bewegen.",
+        "ar": "اسْتَطَاعَ شِيشِرُون عَبْرَ البَاثُوسِ المَدْرُوسِ تَحْرِيكَ عَوَاطِفِ القُضَاةِ نَحْوَ الشَّفَقَةِ وَالتَّأَثُّرِ البَالِغِ.",
+        "en": "Through skillfully modulated pathos, Cicero was able to move the judges to compassion and deep emotion."
+      },
+      "image": "assets/svg/concept_pathos_rhetorik.svg"
+    },
+    {
+      "id": "concept_logos_rhetorik",
+      "german": "der Logos",
+      "plural": "-",
+      "arabic": "اللُّوغُوس (الحُجَّةُ العَقْلَانِيَّةُ وَالبُرْهَانُ المَنْطِقِيُّ المُنْضَبِطُ)",
+      "english": "logos (rational argument and logical proof)",
+      "example_sentence": {
+        "de": "Eine wissenschaftliche Disputation verlangt den strikten Vorrang des Logos über emotionale Appelle.",
+        "ar": "تَتَطَلَّبُ المُنَاظَرَةُ العِلْمِيَّةُ التَّقْدِيمَ الصَّارِمَ لِلُّوغُوسِ البُرْهَانِيِّ عَلَى الاسْتِعْطَافِ الِانْفِعَالِيِّ.",
+        "en": "A scholarly disputation demands the strict primacy of logos over emotional appeals."
+      },
+      "image": "assets/svg/concept_logos_rhetorik.svg"
+    },
+    {
+      "id": "concept_gerichtsrede",
+      "german": "die Gerichtsrede",
+      "plural": "die Gerichtsreden",
+      "arabic": "الخِطَابَةُ القَضَائِيَّةُ التَّرَافُعِيَّةُ",
+      "english": "forensic or judicial oratory",
+      "example_sentence": {
+        "de": "In der antiken Gerichtsrede drehte sich die Argumentation primär um Schuld, Rechtmäßigkeit und Gerechtigkeit vergangener Taten.",
+        "ar": "تَمَحْوَرَتِ الخِطَابَةُ القَضَائِيَّةُ القَدِيمَةُ حَوْلَ الإِدَانَةِ، وَالمَشْرُوعِيَّةِ، وَعَدَالَةِ الأَفْعَالِ المَاضِيَةِ.",
+        "en": "In classical forensic oratory, arguments centered primarily on guilt, legality, and the justice of past actions."
+      },
+      "image": "assets/svg/concept_gerichtsrede.svg"
+    },
+    {
+      "id": "concept_parlamentarische_debatte",
+      "german": "die parlamentarische Debatte",
+      "plural": "die parlamentarischen Debatten",
+      "arabic": "المُنَاظَرَةُ البَرْلَمَانِيَّةُ السِّيَاسِيَّةُ (الخِطَابَةُ التَّشْرِيعِيَّةُ)",
+      "english": "parliamentary debate / deliberative oratory",
+      "example_sentence": {
+        "de": "Die parlamentarische Debatte wägt Vor- und Nachteile künftiger Gesetzesvorhaben öffentlich ab.",
+        "ar": "تَزِنُ المُنَاظَرَةُ البَرْلَمَانِيَّةُ إِيجَابِيَّاتِ وَسَلْبِيَّاتِ مَشَارِيعِ القَوَانِينِ المُسْتَقْبَلِيَّةِ عَلَنًا أَمَامَ الشَّعْبِ.",
+        "en": "The parliamentary debate publicly weighs the benefits and detriments of prospective legislation."
+      },
+      "image": "assets/svg/concept_parlamentarische_debatte.svg"
+    },
+    {
+      "id": "concept_festrede_epideiktisch",
+      "german": "die Festrede",
+      "plural": "die Festreden",
+      "arabic": "الخِطَابَةُ الِاحْتِفَالِيَّةُ التَّقْرِيظِيَّةُ (الإِبِيدِيكْتِيكِيَّة)",
+      "english": "epideictic or ceremonial oratory",
+      "example_sentence": {
+        "de": "Die epideiktische Festrede dient dem Lob oder Tadel und bekräftigt gemeinsame gesellschaftliche Grundwerte.",
+        "ar": "تُعْنَى الخِطَابَةُ الِاحْتِفَالِيَّةُ بِالمَدْحِ أَوِ الذَّمِّ، وَتُعَزِّزُ القِيَمَ المُجْتَمَعِيَّةَ المُشْتَرَكَةَ.",
+        "en": "Epideictic ceremonial oratory serves praise or blame, reaffirming shared societal values."
+      },
+      "image": "assets/svg/concept_festrede_epideiktisch.svg"
+    },
+    {
+      "id": "concept_captatio_benevolentiae",
+      "german": "die Captatio Benevolentiae",
+      "plural": "-",
+      "arabic": "اسْتِمَالَةُ الجُمْهُورِ وَنَيْلُ تَعَاطُفِ السَّامِعِينَ",
+      "english": "captatio benevolentiae (winning the audience's goodwill)",
+      "example_sentence": {
+        "de": "Zu Beginn seines Vortrags nutzte er eine gelungene Captatio Benevolentiae, um das Eis sofort zu brechen.",
+        "ar": "اسْتَخْدَمَ فِي مُفْتَتَحِ كَلِمَتِهِ اسْتِمَالَةً بَلَاغِيَّةً ذَكِيَّةً لِكَسْرِ الحَاجِزِ مَعَ الحُضُورِ فَوْرًا.",
+        "en": "At the outset of his lecture, he employed a deft captatio benevolentiae to immediately break the ice."
+      },
+      "image": "assets/svg/concept_captatio_benevolentiae.svg"
+    },
+    {
+      "id": "concept_argumentum_ad_hominem",
+      "german": "das Argumentum ad Hominem",
+      "plural": "-",
+      "arabic": "مُغَالَطَةُ الحُجَّةِ عَلَى الشَّخْصِ (الطَّعْنُ الشَّخْصِيُّ)",
+      "english": "argumentum ad hominem (attacking the person instead of the argument)",
+      "example_sentence": {
+        "de": "Statt die Fakten zu widerlegen, griff der Opponent zu einem unsachlichen Argumentum ad Hominem.",
+        "ar": "عِوَضًا عَنْ دَحْضِ الحَقَائِقِ، لَجَأَ الخَصْمُ إِلَى الطَّعْنِ الشَّخْصِيِّ غَيْرِ المَوْضُوعِيِّ فِي شَخْصِ مُحَاوِرِهِ.",
+        "en": "Instead of refuting the factual evidence, the opponent resorted to an irrelevant ad hominem attack."
+      },
+      "image": "assets/svg/concept_argumentum_ad_hominem.svg"
+    },
+    {
+      "id": "concept_klimax_rhetorik",
+      "german": "die Klimax",
+      "plural": "die Klimaxe",
+      "arabic": "التَّدَرُّجُ التَّصَاعُدِيُّ البَلَاغِيُّ (الذِّرْوَةُ التَّعْبِيرِيَّةُ)",
+      "english": "climax / rhetorical gradatio",
+      "example_sentence": {
+        "de": "Cäsars berühmter Ausspruch 'Veni, vidi, vici' bildet eine unvergessliche dreistufige rhetorische Klimax.",
+        "ar": "تُمَثِّلُ عِبَارَةُ قَيْصَرَ الشَّهِيرَةُ 'أَتَيْتُ، رَأَيْتُ، انْتَصَرْتُ' تَدَرُّجًا تَصَاعُدِيًّا ثُلَاثِيَّ الدَّرَجَاتِ خَالِدًا.",
+        "en": "Caesar's famous aphorism 'Veni, vidi, vici' forms an unforgettable three-stage rhetorical climax."
+      },
+      "image": "assets/svg/concept_klimax_rhetorik.svg"
+    },
+    {
+      "id": "concept_oxymoron",
+      "german": "das Oxymoron",
+      "plural": "die Oxymora",
+      "arabic": "المُرْدَفُ المَعْكُوسُ (الجَمْعُ بَيْنَ الضِّدَّيْنِ فِي تَرْكِيبٍ وَاحِدٍ)",
+      "english": "oxymoron (coupling of contradictory terms)",
+      "example_sentence": {
+        "de": "Ausdrücke wie 'beredtes Schweigen' oder 'bittersüß' sind klassische Beispiele für ein Oxymoron.",
+        "ar": "تُعَدُّ تَعَابِيرُ مِثْلُ 'الصَّمْتِ النَّاطِقِ' أَوْ 'المُرِّ الحُلْوِ' أَمْثِلَةً كَلَاسِيكِيَّةً عَلَى المُرْدَفِ المَعْكُوسِ.",
+        "en": "Phrases such as 'eloquent silence' or 'bittersweet' serve as textbook examples of an oxymoron."
+      },
+      "image": "assets/svg/concept_oxymoron.svg"
+    },
+    {
+      "id": "concept_chiasmus",
+      "german": "der Chiasmus",
+      "plural": "die Chiasmen",
+      "arabic": "التَّنَاظُرُ التَّصَالُبِيُّ البَلَاغِيُّ (الكِيَاسْمُوس)",
+      "english": "chiasmus (criss-cross syntactic arrangement)",
+      "example_sentence": {
+        "de": "Der Satz 'Die Kunst ist lang, und kurz ist unser Leben' veranschaulicht die chiastische Überkreuzstellung perfekt.",
+        "ar": "تُجَسِّدُ عِبَارَةُ 'الفَنُّ طَوِيلٌ، وَقَصِيرَةٌ هِيَ حَيَاتُنَا' التَّنَاظُرَ التَّصَالُبِيَّ البَلَاغِيَّ بِإِتْقَانٍ.",
+        "en": "The sentence 'Art is long, and short is our life' perfectly demonstrates chiastic syntactic reversal."
+      },
+      "image": "assets/svg/concept_chiasmus.svg"
+    },
+    {
+      "id": "concept_anapher_rhetorik",
+      "german": "die Anapher",
+      "plural": "die Anaphern",
+      "arabic": "التَّكْرَارُ الِاسْتِهْلَالِيُّ البَلَاغِيُّ",
+      "english": "anaphora (repetition of words at beginning of clauses)",
+      "example_sentence": {
+        "de": "Martin Luther Kings berühmte Rede steigerte ihre emotionale Wucht durch die beharrliche Anapher 'I have a dream'.",
+        "ar": "عَزَّزَتْ خُطْبَةُ مَارْتِن لُوثَر كِينْغ وَقْعَهَا العَاطِفِيَّ عَبْرَ التَّكْرَارِ الِاسْتِهْلَالِيِّ لِعِبَارَةِ 'لَدَيَّ حُلْمٌ'.",
+        "en": "Martin Luther King's address heightened its emotional impact through the persistent anaphora 'I have a dream'."
+      },
+      "image": "assets/svg/concept_anapher_rhetorik.svg"
+    },
+    {
+      "id": "concept_alliteration",
+      "german": "die Alliteration",
+      "plural": "die Alliterationen",
+      "arabic": "الجِنَاسُ الِاسْتِهْلَالِيُّ الصَّوْتِيُّ (تَمَاثُلُ الحُرُوفِ الأُولَى)",
+      "english": "alliteration",
+      "example_sentence": {
+        "de": "Formulierungen wie 'Milch macht müde Männer munter' nutzen die Alliteration als akustisches Einprägungsmittel.",
+        "ar": "تَسْتَخْدِمُ الصِّيَاغَاتُ البَلَاغِيَّةُ الجِنَاسَ الِاسْتِهْلَالِيَّ كَأَدَاةٍ صَوْتِيَّةٍ لِرُسُوخِ الفِكْرَةِ فِي الذِّهْنِ.",
+        "en": "Catchphrases utilize alliteration as a potent acoustic device to maximize memorability."
+      },
+      "image": "assets/svg/concept_alliteration.svg"
+    },
+    {
+      "id": "concept_hyperbel",
+      "german": "die Hyperbel",
+      "plural": "die Hyperbeln",
+      "arabic": "المُبَالَغَةُ البَيَانِيَّةُ (الغُلُوُّ البَلَاغِيُّ)",
+      "english": "hyperbole (rhetorical exaggeration)",
+      "example_sentence": {
+        "de": "Die Wendung 'ein Meer von Tränen' ist eine poetische Hyperbel, die intensiven Schmerz symbolisiert.",
+        "ar": "تُعَدُّ عِبَارَةُ 'بَحْرٌ مِنَ الدُّمُوعِ' غُلُوًّا بَلَاغِيًّا شِعْرِيًّا يُجَسِّدُ عُمْقَ الحُزْنِ.",
+        "en": "The phrase 'an ocean of tears' is a poetic hyperbole that intensifies the representation of grief."
+      },
+      "image": "assets/svg/concept_hyperbel.svg"
+    },
+    {
+      "id": "concept_rhetorische_ironie",
+      "german": "die Ironie",
+      "plural": "die Ironien",
+      "arabic": "التَّهَكُّمُ وَالسُّخْرِيَّةُ البَلَاغِيَّةُ",
+      "english": "rhetorical irony",
+      "example_sentence": {
+        "de": "Rhetorische Ironie äußert das Gegenteil des Gemeinten in der Gewissheit, dass der Hörer den wahren Sinn erfasst.",
+        "ar": "يَنْطِقُ التَّهَكُّمُ البَلَاغِيُّ بِعَكْسِ المَقْصُودِ مَعَ الثِّقَةِ التَّامَّةِ فِي إِدْرَاكِ السَّامِعِ لِلْمَعْنَى الحَقِيقِيِّ.",
+        "en": "Rhetorical irony states the opposite of what is meant, confident that the listener perceives the actual sense."
+      },
+      "image": "assets/svg/concept_rhetorische_ironie.svg"
+    },
+    {
+      "id": "concept_litotes",
+      "german": "die Litotes",
+      "plural": "die Litotes",
+      "arabic": "التَّوْكِيدُ بِنَفْيِ الضِّدِّ (التَّخْفِيفُ البَلَاغِيُّ)",
+      "english": "litotes (understatement by negating the opposite)",
+      "example_sentence": {
+        "de": "Wenn man eine herausragende Leistung als 'nicht übel' bezeichnet, verwendet man eine klassische Litotes.",
+        "ar": "عِنْدَمَا يَصِفُ المَرْءُ إِنْجَازًا بَاهِرًا بِأَنَّهُ 'لَيْسَ سَيِّئًا'، فَإِنَّهُ يَسْتَخْدِمُ أُسْلُوبَ نَفْيِ الضِّدِّ.",
+        "en": "Describing an extraordinary accomplishment as 'not bad at all' employs classical litotes."
+      },
+      "image": "assets/svg/concept_litotes.svg"
+    },
+    {
+      "id": "concept_enthymem",
+      "german": "das Enthymem",
+      "plural": "die Enthymeme",
+      "arabic": "القِيَاسُ البَلَاغِيُّ المُضْمَرُ (الإِنْتِيمِيم)",
+      "english": "enthymeme (truncated syllogism with omitted premise)",
+      "example_sentence": {
+        "de": "In der politischen Rede wird das Enthymem bevorzugt, da das Publikum die ausgelassene Prämisse selbst ergänzt.",
+        "ar": "يُفَضَّلُ القِيَاسُ المُضْمَرُ فِي الخِطَابِ السِّيَاسِيِّ لِأَنَّ الجُمْهُورَ يَسْتَنْتِجُ المُقَدِّمَةَ المَحْذُوفَةَ بِنَفْسِهِ.",
+        "en": "In political discourse, the enthymeme is favored because the audience spontaneously supplies the suppressed premise."
+      },
+      "image": "assets/svg/concept_enthymem.svg"
+    },
+    {
+      "id": "concept_dialektik_rhetorik",
+      "german": "die Dialektik",
+      "plural": "-",
+      "arabic": "الجَدَلُ وَالمُنَاظَرَةُ المَنْطِقِيَّةُ الحِوَارِيَّةُ",
+      "english": "dialectic (philosophical inquiry through dialogue)",
+      "example_sentence": {
+        "de": "Die sokratische Dialektik führt den Gesprächspartner durch gezielte Fragen zur Selbsterkenntnis.",
+        "ar": "تَقُودُ الدِّيَالِكْتِيكَ السُّقْرَاطِيَّةُ المُحَاوِرَ عَبْرَ الأَسْئِلَةِ المُوَجَّهَةِ نَحْوَ مَعْرِفَةِ الذَّاتِ وَالحَقِيقَةِ.",
+        "en": "Socratic dialectic steers the interlocutor toward self-knowledge through targeted interrogative questioning."
+      },
+      "image": "assets/svg/concept_dialektik_rhetorik.svg"
+    },
+    {
+      "id": "concept_eristik_streitkunst",
+      "german": "die Eristik",
+      "plural": "-",
+      "arabic": "الإِرِيسْتِيك (فَنُّ المُغَالَبَةِ الإِفْحَامِيَّةِ وَالجَدَلِ المَحْضِ)",
+      "english": "eristic (the art of winning disputes regardless of truth)",
+      "example_sentence": {
+        "de": "Schopenhauer widmete seine 'Eristische Dialektik' den Kunstgriffen, um in jedem Streitgespräch Recht zu behalten.",
+        "ar": "كَرَّسَ شُوبِنْهَاوَر كِتَابَهُ 'الجَدَلُ الإِرِيسْتِيُّ' لِتَبْيَانِ الحِيَلِ البَلَاغِيَّةِ لِلْفَوْزِ فِي أَيِّ نِقَاشٍ.",
+        "en": "Schopenhauer dedicated his 'Eristic Dialectic' to stratagems aimed at prevailing in disputes regardless of objective truth."
+      },
+      "image": "assets/svg/concept_eristik_streitkunst.svg"
+    },
+    {
+      "id": "concept_eloquenz_beredsamkeit",
+      "german": "die Eloquenz",
+      "plural": "-",
+      "arabic": "الفَصَاحَةُ وَالبَيَانُ البَلَاغِيُّ السَّاحِرُ",
+      "english": "eloquence (fluent and persuasive speech)",
+      "example_sentence": {
+        "de": "Seine mitreißende Eloquenz zog die Zuhörer im Plenarsaal von der ersten Sekunde an in ihren Bann.",
+        "ar": "سَحَرَتْ فَصَاحَتُهُ الآسِرَةُ الحُضُورَ فِي قَاعَةِ البَرْلَمَانِ مُنْذُ اللَّحْظَةِ الأُولَى.",
+        "en": "His spellbinding eloquence captivated the listeners in the plenary chamber from the very first moment."
+      },
+      "image": "assets/svg/concept_eloquenz_beredsamkeit.svg"
+    },
+    {
+      "id": "concept_inventio_findung",
+      "german": "die Inventio",
+      "plural": "-",
+      "arabic": "الِابْتِكَارُ (اسْتِنْبَاطُ الحُجَجِ وَالأَفْكَارِ الخِطَابِيَّةِ)",
+      "english": "inventio (discovery and invention of arguments)",
+      "example_sentence": {
+        "de": "In der Phase der Inventio sammelt der Redner beweiskräftige Argumente und treffende Metaphern.",
+        "ar": "يَجْمَعُ الخَطِيبُ فِي مَرْحَلَةِ الِابْتِكَارِ (الإِنْفِنْتْسْيُو) الحُجَجَ الدَّامِغَةَ وَالاسْتِعَارَاتِ البَلِيغَةَ.",
+        "en": "In the inventio phase, the orator gathers cogent arguments and pertinent metaphors."
+      },
+      "image": "assets/svg/concept_inventio_findung.svg"
+    },
+    {
+      "id": "concept_dispositio_gliederung",
+      "german": "die Dispositio",
+      "plural": "-",
+      "arabic": "التَّرْتِيبُ الهَيْكَلِيُّ لِأَجْزَاءِ الخِطَابِ",
+      "english": "dispositio (structural arrangement of a speech)",
+      "example_sentence": {
+        "de": "Eine durchdachte Dispositio führt den Zuhörer logisch vom Exordium über die Narration bis zur Konklusion.",
+        "ar": "يَقُودُ التَّرْتِيبُ الهَيْكَلِيُّ المُحْكَمُ السَّامِعَ مَنْطِقِيًّا مِنَ المُقَدِّمَةِ عَبْرَ السَّرْدِ إِلَى الخَاتِمَةِ.",
+        "en": "A well-crafted dispositio guides the listener logically from the exordium through the narrative to the conclusion."
+      },
+      "image": "assets/svg/concept_dispositio_gliederung.svg"
+    },
+    {
+      "id": "concept_elocutio_stil",
+      "german": "die Elocutio",
+      "plural": "-",
+      "arabic": "الصِّيَاغَةُ الأُسْلُوبِيَّةُ البَلَاغِيَّةُ (اخْتِيَارُ الأَلْفَاظِ)",
+      "english": "elocutio (style, diction, and ornamentation)",
+      "example_sentence": {
+        "de": "Die Elocutio veredelt den rohen Gedankengang durch rhythmische Klauseln und kunstvolle Tropen.",
+        "ar": "تُهَذِّبُ الصِّيَاغَةُ الأُسْلُوبِيَّةُ (الإِيلُوكُوتْسْيُو) الفِكْرَةَ الخَامَ عَبْرَ الإِيقَاعِ اللَّفْظِيِّ وَالمُحَسِّنَاتِ البَدِيعِيَّةِ.",
+        "en": "Elocutio refines raw thoughts through rhythmic cadences and artful figures of speech."
+      },
+      "image": "assets/svg/concept_elocutio_stil.svg"
+    },
+    {
+      "id": "concept_peroratio_schluss",
+      "german": "die Peroratio",
+      "plural": "die Perorationen",
+      "arabic": "الخَاتِمَةُ الخِطَابِيَّةُ الحَمَاسِيَّةُ المُؤَثِّرَةُ",
+      "english": "peroratio (dynamic and stirring conclusion of an oration)",
+      "example_sentence": {
+        "de": "In einer flammenden Peroratio rief der Verteidiger die Geschworenen zu einem mutigen Freispruch auf.",
+        "ar": "دَعَا مُحَامِي الدِّفَاعِ هَيْئَةَ المُحَلَّفِينَ فِي خَاتِمَةٍ خِطَابِيَّةٍ حَمَاسِيَّةٍ إِلَى تَبْرِئَةٍ شُجَاعَةٍ.",
+        "en": "In a stirring peroration, the defense attorney implored the jurors to deliver a courageous acquittal."
+      },
+      "image": "assets/svg/concept_peroratio_schluss.svg"
+    }
+  ]
+}

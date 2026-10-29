@@ -32876,5 +32876,130 @@
     "file": "assets/svg/verb_gewahr_werden.svg",
     "category": "c2_meditative_verbs",
     "alt": "verb gewahr werden"
+  },
+  "assets/svg/concept_ethos_rhetorik.svg": {
+    "file": "assets/svg/concept_ethos_rhetorik.svg",
+    "category": "classical_oratory",
+    "alt": "concept ethos rhetorik"
+  },
+  "assets/svg/concept_hyperbel.svg": {
+    "file": "assets/svg/concept_hyperbel.svg",
+    "category": "classical_oratory",
+    "alt": "concept hyperbel"
+  },
+  "assets/svg/concept_pathos_rhetorik.svg": {
+    "file": "assets/svg/concept_pathos_rhetorik.svg",
+    "category": "classical_oratory",
+    "alt": "concept pathos rhetorik"
+  },
+  "assets/svg/concept_litotes.svg": {
+    "file": "assets/svg/concept_litotes.svg",
+    "category": "classical_oratory",
+    "alt": "concept litotes"
+  },
+  "assets/svg/concept_chiasmus.svg": {
+    "file": "assets/svg/concept_chiasmus.svg",
+    "category": "classical_oratory",
+    "alt": "concept chiasmus"
+  },
+  "assets/svg/concept_peroratio_schluss.svg": {
+    "file": "assets/svg/concept_peroratio_schluss.svg",
+    "category": "classical_oratory",
+    "alt": "concept peroratio schluss"
+  },
+  "assets/svg/concept_argumentum_ad_hominem.svg": {
+    "file": "assets/svg/concept_argumentum_ad_hominem.svg",
+    "category": "classical_oratory",
+    "alt": "concept argumentum ad hominem"
+  },
+  "assets/svg/concept_elocutio_stil.svg": {
+    "file": "assets/svg/concept_elocutio_stil.svg",
+    "category": "classical_oratory",
+    "alt": "concept elocutio stil"
+  },
+  "assets/svg/concept_logos_rhetorik.svg": {
+    "file": "assets/svg/concept_logos_rhetorik.svg",
+    "category": "classical_oratory",
+    "alt": "concept logos rhetorik"
+  },
+  "assets/svg/concept_captatio_benevolentiae.svg": {
+    "file": "assets/svg/concept_captatio_benevolentiae.svg",
+    "category": "classical_oratory",
+    "alt": "concept captatio benevolentiae"
+  },
+  "assets/svg/concept_dialektik_rhetorik.svg": {
+    "file": "assets/svg/concept_dialektik_rhetorik.svg",
+    "category": "classical_oratory",
+    "alt": "concept dialektik rhetorik"
+  },
+  "assets/svg/concept_anapher_rhetorik.svg": {
+    "file": "assets/svg/concept_anapher_rhetorik.svg",
+    "category": "classical_oratory",
+    "alt": "concept anapher rhetorik"
+  },
+  "assets/svg/concept_eloquenz_beredsamkeit.svg": {
+    "file": "assets/svg/concept_eloquenz_beredsamkeit.svg",
+    "category": "classical_oratory",
+    "alt": "concept eloquenz beredsamkeit"
+  },
+  "assets/svg/concept_klimax_rhetorik.svg": {
+    "file": "assets/svg/concept_klimax_rhetorik.svg",
+    "category": "classical_oratory",
+    "alt": "concept klimax rhetorik"
+  },
+  "assets/svg/concept_oxymoron.svg": {
+    "file": "assets/svg/concept_oxymoron.svg",
+    "category": "classical_oratory",
+    "alt": "concept oxymoron"
+  },
+  "assets/svg/concept_rhetorische_ironie.svg": {
+    "file": "assets/svg/concept_rhetorische_ironie.svg",
+    "category": "classical_oratory",
+    "alt": "concept rhetorische ironie"
+  },
+  "assets/svg/concept_eristik_streitkunst.svg": {
+    "file": "assets/svg/concept_eristik_streitkunst.svg",
+    "category": "classical_oratory",
+    "alt": "concept eristik streitkunst"
+  },
+  "assets/svg/concept_parlamentarische_debatte.svg": {
+    "file": "assets/svg/concept_parlamentarische_debatte.svg",
+    "category": "classical_oratory",
+    "alt": "concept parlamentarische debatte"
+  },
+  "assets/svg/concept_festrede_epideiktisch.svg": {
+    "file": "assets/svg/concept_festrede_epideiktisch.svg",
+    "category": "classical_oratory",
+    "alt": "concept festrede epideiktisch"
+  },
+  "assets/svg/concept_enthymem.svg": {
+    "file": "assets/svg/concept_enthymem.svg",
+    "category": "classical_oratory",
+    "alt": "concept enthymem"
+  },
+  "assets/svg/concept_inventio_findung.svg": {
+    "file": "assets/svg/concept_inventio_findung.svg",
+    "category": "classical_oratory",
+    "alt": "concept inventio findung"
+  },
+  "assets/svg/concept_klassische_rhetorik.svg": {
+    "file": "assets/svg/concept_klassische_rhetorik.svg",
+    "category": "classical_oratory",
+    "alt": "concept klassische rhetorik"
+  },
+  "assets/svg/concept_alliteration.svg": {
+    "file": "assets/svg/concept_alliteration.svg",
+    "category": "classical_oratory",
+    "alt": "concept alliteration"
+  },
+  "assets/svg/concept_dispositio_gliederung.svg": {
+    "file": "assets/svg/concept_dispositio_gliederung.svg",
+    "category": "classical_oratory",
+    "alt": "concept dispositio gliederung"
+  },
+  "assets/svg/concept_gerichtsrede.svg": {
+    "file": "assets/svg/concept_gerichtsrede.svg",
+    "category": "classical_oratory",
+    "alt": "concept gerichtsrede"
   }
 }
