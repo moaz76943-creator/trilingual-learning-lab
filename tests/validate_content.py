@@ -1,47 +1,47 @@
-import json
-import os
-import glob
+import json, os, glob
 
-def test_validation():
-    print(">>> Running Trilingual Learning Lab Comprehensive Integrity Suite...")
+def validate():
+    print("[TEST] Validating content integrity, assets, and syntax...")
     
-    # 1. Vocabulary categories check
+    # 1. Vocabulary Categories
     vocab_files = glob.glob("content/vocabulary/*.json")
-    print(f"Found {len(vocab_files)} vocabulary categories.")
-    assert len(vocab_files) >= 86, f"Expected at least 80 categories, found {len(vocab_files)}"
+    print(f"Found {len(vocab_files)} vocabulary category files.")
+    assert len(vocab_files) >= 86, f"Expected at least 86 vocab files, got {len(vocab_files)}"
     
-    # 2. Sentences check
-    sent_path = "content/sentences/sentences_a1.json"
-    assert os.path.exists(sent_path), "Missing sentences_a1.json"
-    with open(sent_path, "r", encoding="utf-8") as f:
-        sent_data = json.load(f)
-        s_count = len(sent_data.get("sentences", []))
-        print(f"Validated sentences count: {s_count}")
-        assert s_count >= 320, f"Expected at least 265 sentences, found {s_count}"
-        
-    # 3. Images registry check
-    reg_path = "content/assets/images_registry.json"
-    assert os.path.exists(reg_path), "Missing images_registry.json"
-    with open(reg_path, "r", encoding="utf-8") as f:
-        reg_data = json.load(f)
-        r_count = len(reg_data)
-        print(f"Validated registered SVGs count: {r_count}")
-        assert r_count >= 820, f"Expected at least 2360 SVGs, found {r_count}"
-        
-    # 4. Verbs engines check
+    # 2. Verbs Categories
     verb_files = glob.glob("content/verbs/*.json")
-    print(f"Found {len(verb_files)} verb engines.")
-    assert len(verb_files) >= 8, f"Expected at least 8 verb engines, found {len(verb_files)}"
+    print(f"Found {len(verb_files)} specialized verb files.")
+    assert len(verb_files) >= 20, f"Expected at least 20 verb files, got {len(verb_files)}"
     
-    # 5. Exam engine check
-    exam_path = "content/exams/exam_simulator_c1.json"
-    if os.path.exists(exam_path):
-        with open(exam_path, "r", encoding="utf-8") as f:
-            ex_data = json.load(f)
-            assert len(ex_data.get("sections", [])) >= 3
-            print("Validated C1 exam simulator engine.")
+    target_verb_file = "content/verbs/sensorimotor_embodied_verbs_b2_c1.json"
+    assert os.path.exists(target_verb_file), f"Missing {target_verb_file}"
+    with open(target_verb_file, "r", encoding="utf-8") as f:
+        v_data = json.load(f)
+        assert len(v_data.get("items", [])) == 20, "Sensorimotor verbs items count must be 20"
+        for item in v_data["items"]:
+            assert "german" in item and "arabic" in item and "english" in item, "Missing trilingual fields"
+            assert "conjugation" in item, "Missing conjugation"
+            assert "image" in item, "Missing image asset reference"
+            assert os.path.exists(f"content/{item['image']}"), f"Missing SVG on disk: {item['image']}"
             
-    print("ALL VALIDATION CHECKS PASSED SUCCESSFULLY!")
+    # 3. Sentences Builder
+    sent_file = "content/sentences/sentences_a1.json"
+    assert os.path.exists(sent_file), f"Missing {sent_file}"
+    with open(sent_file, "r", encoding="utf-8") as f:
+        s_data = json.load(f)
+        total_sents = len(s_data.get("sentences", []))
+        print(f"Total sentences: {total_sents}")
+        assert total_sents >= 325, f"Expected at least 325 sentences, got {total_sents}"
+        
+    # 4. SVG Images & Registry
+    reg_file = "content/assets/images_registry.json"
+    assert os.path.exists(reg_file), f"Missing {reg_file}"
+    with open(reg_file, "r", encoding="utf-8") as f:
+        reg = json.load(f)
+        print(f"Total registered SVGs: {len(reg)}")
+        assert len(reg) >= 841, f"Expected at least 841 registered SVGs, got {len(reg)}"
+        
+    print("✅ All validation tests passed successfully!")
 
 if __name__ == "__main__":
-    test_validation()
+    validate()

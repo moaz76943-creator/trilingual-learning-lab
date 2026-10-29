@@ -6051,6 +6051,186 @@
         "Weltaneignung."
       ],
       "grammar_point": "Inverted sentence with preposition 'nach + Dat' and prepositional phrase 'im Vollzug + Gen' in milestone 320"
+    },
+    {
+      "id": "sent_321",
+      "category": "body_movement",
+      "difficulty": "A1+",
+      "arabic": "الأَطْفَالُ يَتَعَلَّمُونَ العَالَمَ بِأَيْدِيهِمْ.",
+      "german": "Die Kinder begreifen die Welt mit ihren Händen.",
+      "english": "The children grasp the world with their hands.",
+      "tokens": [
+        {
+          "word": "Die Kinder",
+          "pos": "noun",
+          "ar": "الأَطْفَالُ"
+        },
+        {
+          "word": "begreifen",
+          "pos": "verb",
+          "ar": "يَسْتَوْعِبُونَ / يَقْبِضُونَ"
+        },
+        {
+          "word": "die Welt",
+          "pos": "noun",
+          "ar": "العَالَمَ"
+        },
+        {
+          "word": "mit",
+          "pos": "preposition",
+          "ar": "بِـ"
+        },
+        {
+          "word": "ihren Händen",
+          "pos": "noun",
+          "ar": "أَيْدِيهِمْ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt im Plural",
+        "Präposition 'mit' + Dativ Plural"
+      ]
+    },
+    {
+      "id": "sent_322",
+      "category": "orientation",
+      "difficulty": "A1+",
+      "arabic": "نَحْنُ نَهْتَدِي فِي المَدِينَةِ بِوَاسِطَةِ الخَرِيطَةِ.",
+      "german": "Wir orientieren uns in der Stadt mit der Karte.",
+      "english": "We orient ourselves in the city using the map.",
+      "tokens": [
+        {
+          "word": "Wir",
+          "pos": "pronoun",
+          "ar": "نَحْنُ"
+        },
+        {
+          "word": "orientieren uns",
+          "pos": "verb",
+          "ar": "نَهْتَدِي / نُوَجِّهُ أَنْفُسَنَا"
+        },
+        {
+          "word": "in der Stadt",
+          "pos": "preposition_phrase",
+          "ar": "فِي المَدِينَةِ"
+        },
+        {
+          "word": "mit der Karte",
+          "pos": "preposition_phrase",
+          "ar": "بِالخَرِيطَةِ"
+        }
+      ],
+      "grammar_points": [
+        "Reflexivpronomen 'uns'",
+        "Dativ feminin 'in der Stadt'"
+      ]
+    },
+    {
+      "id": "sent_323",
+      "category": "coordination",
+      "difficulty": "A1+",
+      "arabic": "هُوَ يُنَسِّقُ العَيْنَ وَاليَدَ أَثْنَاءَ اللَّعِبِ.",
+      "german": "Er koordiniert Auge und Hand beim Spielen.",
+      "english": "He coordinates eye and hand while playing.",
+      "tokens": [
+        {
+          "word": "Er",
+          "pos": "pronoun",
+          "ar": "هُوَ"
+        },
+        {
+          "word": "koordiniert",
+          "pos": "verb",
+          "ar": "يُنَسِّقُ"
+        },
+        {
+          "word": "Auge und Hand",
+          "pos": "noun",
+          "ar": "العَيْنَ وَاليَدَ"
+        },
+        {
+          "word": "beim Spielen",
+          "pos": "preposition_phrase",
+          "ar": "عِنْدَ اللَّعِبِ"
+        }
+      ],
+      "grammar_points": [
+        "Präsens 3. Person Singular",
+        "Substantiviertes Verb 'beim Spielen'"
+      ]
+    },
+    {
+      "id": "sent_324",
+      "category": "sports",
+      "difficulty": "A1+",
+      "arabic": "اللَّاعِبَةُ تُوَازِنُ جَسَدَهَا عَلَى الخَشَبَةِ.",
+      "german": "Die Sportlerin balanciert sicher auf dem Balken.",
+      "english": "The athlete balances safely on the beam.",
+      "tokens": [
+        {
+          "word": "Die Sportlerin",
+          "pos": "noun",
+          "ar": "اللَّاعِبَةُ / الرِّيَاضِيَّةُ"
+        },
+        {
+          "word": "balanciert",
+          "pos": "verb",
+          "ar": "تُوَازِنُ"
+        },
+        {
+          "word": "sicher",
+          "pos": "adverb",
+          "ar": "بِأَمَانٍ / بِثَبَاتٍ"
+        },
+        {
+          "word": "auf dem Balken",
+          "pos": "preposition_phrase",
+          "ar": "عَلَى الخَشَبَةِ"
+        }
+      ],
+      "grammar_points": [
+        "Wechselpräposition 'auf' + Dativ maskulin",
+        "Regelmäßige Konjugation"
+      ]
+    },
+    {
+      "id": "sent_325",
+      "category": "attention",
+      "difficulty": "A1+",
+      "arabic": "أَنَا أُرَكِّزُ عَيْنَيَّ عَلَى الهَدَفِ المُهِمِّ.",
+      "german": "Ich fokussiere meine Augen auf das wichtige Ziel.",
+      "english": "I focus my eyes on the important target.",
+      "tokens": [
+        {
+          "word": "Ich",
+          "pos": "pronoun",
+          "ar": "أَنَا"
+        },
+        {
+          "word": "fokussiere",
+          "pos": "verb",
+          "ar": "أُرَكِّزُ"
+        },
+        {
+          "word": "meine Augen",
+          "pos": "noun",
+          "ar": "عَيْنَيَّ"
+        },
+        {
+          "word": "auf",
+          "pos": "preposition",
+          "ar": "عَلَى"
+        },
+        {
+          "word": "das wichtige Ziel",
+          "pos": "noun_phrase",
+          "ar": "الهَدَفِ المُهِمِّ"
+        }
+      ],
+      "grammar_points": [
+        "Verb 'fokussieren' + Präposition 'auf' + Akkusativ",
+        "Adjektivdeklination im Akkusativ Neutrum"
+      ]
     }
   ]
 }

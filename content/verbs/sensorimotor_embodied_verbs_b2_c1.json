@@ -1,0 +1,451 @@
+{
+  "category_id": "sensorimotor_embodied_verbs_b2_c1",
+  "category_title": {
+    "ar": "أفعال الإدراك المجسد والتفاعل الحسي الحركي والتآزر العصبي",
+    "de": "Sensomotorische, verkörperte Handlungs- und Neurokoordinationsverben",
+    "en": "Sensorimotor, Embodied Action & Neurocoordination Verbs"
+  },
+  "level": "B2/C1",
+  "items": [
+    {
+      "id": "verb_begreifen",
+      "german": "begreifen",
+      "arabic": "يَسْتَوْعِبُ جَسَدِيًّا وَعَقْلِيًّا / يَقْبِضُ عَلَى الفَهْمِ",
+      "english": "to grasp conceptually and haptically",
+      "conjugation": {
+        "praesens": "er/sie/es begreift",
+        "praeteritum": "begriff",
+        "perfekt": "hat begriffen"
+      },
+      "preposition": "als + Akk / durch + Akk",
+      "collocations": [
+        "einen Zusammenhang körperlich begreifen",
+        "die Umwelt handelnd begreifen"
+      ],
+      "example_sentence": {
+        "de": "Durch die direkte Interaktion mit realen Objekten begreift das Kind physikalische Grundgesetze.",
+        "ar": "مِنْ خِلَالِ التَّفَاعُلِ المُبَاشِرِ مَعَ الأَشْيَاءِ الوَاقِعِيَّةِ، يَسْتَوْعِبُ الطِّفْلُ القَوَانِينَ الفِيزْيَائِيَّةَ الأَسَاسِيَّةَ جَسَدِيًّا وَعَقْلِيًّا.",
+        "en": "Through direct interaction with physical objects, the child grasps fundamental physical laws."
+      },
+      "image": "assets/svg/verb_begreifen.svg"
+    },
+    {
+      "id": "verb_ertasten",
+      "german": "ertasten",
+      "arabic": "يَتَلَمَّسُ / يَسْتَشْعِرُ بِاللَّمْسِ",
+      "english": "to feel, palpate, or detect by touch",
+      "conjugation": {
+        "praesens": "er/sie/es ertastet",
+        "praeteritum": "ertastete",
+        "perfekt": "hat ertastet"
+      },
+      "preposition": "mit + Dat",
+      "collocations": [
+        "eine Oberflächenstruktur ertasten",
+        "den Puls behutsam ertasten"
+      ],
+      "example_sentence": {
+        "de": "Der Chirurg ertastete vorsichtig die feine Gewebeverhärtung während des Eingriffs.",
+        "ar": "تَلَمَّسَ الجَرَّاحُ بِحَذَرٍ التَّصَلُّبَ النَّسِيجِيَّ الدَّقِيقَ أَثْنَاءَ الجِرَاحَةِ.",
+        "en": "The surgeon carefully palpated the delicate tissue hardening during the operation."
+      },
+      "image": "assets/svg/verb_ertasten.svg"
+    },
+    {
+      "id": "verb_koordinieren",
+      "german": "koordinieren",
+      "arabic": "يُنَسِّقُ حَرَكِيًّا / يُوَفِّقُ بَيْنَ اسْتِجَابَاتٍ عَصَبِيَّةٍ",
+      "english": "to coordinate motor and sensory actions",
+      "conjugation": {
+        "praesens": "er/sie/es koordiniert",
+        "praeteritum": "koordinierte",
+        "perfekt": "hat koordiniert"
+      },
+      "preposition": "mit + Dat",
+      "collocations": [
+        "Auge-Hand-Bewegungen koordinieren",
+        "komplexe Bewegungsabläufe koordinieren"
+      ],
+      "example_sentence": {
+        "de": "Die Athletin muss visuelle Reize blitzschnell mit motorischen Reaktionen koordinieren.",
+        "ar": "يَجِبُ عَلَى الرِّيَاضِيَّةِ تَنْسِيقُ المُحَفِّزَاتِ البَصَرِيَّةِ مَعَ الاسْتِجَابَاتِ الحَرَكِيَّةِ بِسُرْعَةٍ خَاطِفَةٍ.",
+        "en": "The athlete must coordinate visual stimuli with motor reactions with lightning speed."
+      },
+      "image": "assets/svg/verb_koordinieren.svg"
+    },
+    {
+      "id": "verb_lokalisieren",
+      "german": "lokalisieren",
+      "arabic": "يُحَدِّدُ المَوْقِعَ مَكَانِيًّا / يُمَوْضِعُ",
+      "english": "to localize spatially",
+      "conjugation": {
+        "praesens": "er/sie/es lokalisiert",
+        "praeteritum": "lokalisierte",
+        "perfekt": "hat lokalisiert"
+      },
+      "preposition": "in + Dat / im Raum",
+      "collocations": [
+        "eine Schallquelle räumlich lokalisieren",
+        "einen taktilen Reiz lokalisieren"
+      ],
+      "example_sentence": {
+        "de": "Das Gehirn lokalisiert auditorische Signale anhand minimaler Laufzeitunterschiede zwischen beiden Ohren.",
+        "ar": "يُحَدِّدُ الدِّمَاغُ مَوْقِعَ الإِشَارَاتِ السَّمْعِيَّةِ مَكَانِيًّا اسْتِنَادًا إِلَى فُرُوقِ الوَقْتِ الضَّئِيلَةِ بَيْنَ الأُذُنَيْنِ.",
+        "en": "The brain localizes auditory signals based on minute differences in arrival times between both ears."
+      },
+      "image": "assets/svg/verb_lokalisieren.svg"
+    },
+    {
+      "id": "verb_verinnerlichen",
+      "german": "verinnerlichen",
+      "arabic": "يَسْتَبْطِنُ / يُذَوِّتُ النَّمَطَ الحَرَكِيَّ أَوِ الفِكْرِيَّ",
+      "english": "to internalize or embody deeply",
+      "conjugation": {
+        "praesens": "er/sie/es verinnerlicht",
+        "praeteritum": "verinnerlichte",
+        "perfekt": "hat verinnerlicht"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "eine Bewegungsmelodie verinnerlichen",
+        "ein Handlungsgerüst verinnerlichen"
+      ],
+      "example_sentence": {
+        "de": "Nach jahrelangem Üben verinnerlichte der Pianist das Musikstück bis in die Fingerspitzen.",
+        "ar": "بَعْدَ سَنَوَاتٍ مِنَ المُرَانِ، اسْتَبْطَنَ عَازِفُ البِيَانُو القِطْعَةَ المُوسِيقِيَّةَ حَتَّى أَطْرَافِ أَنَامِلِهِ.",
+        "en": "After years of practice, the pianist internalized the musical piece down to his fingertips."
+      },
+      "image": "assets/svg/verb_verinnerlichen.svg"
+    },
+    {
+      "id": "verb_ausagieren",
+      "german": "ausagieren",
+      "arabic": "يُفْرِغُ حَرَكِيًّا / يُعَبِّرُ عَبْرَ الأَفْعَالِ الجَسَدِيَّةِ",
+      "english": "to act out physically",
+      "conjugation": {
+        "praesens": "er/sie/es agiert aus",
+        "praeteritum": "agierte aus",
+        "perfekt": "hat ausagiert"
+      },
+      "preposition": "in + Dat",
+      "collocations": [
+        "emotionale Spannungen körperlich ausagieren",
+        "einen Bewegungsimpuls ausagieren"
+      ],
+      "example_sentence": {
+        "de": "Kinder neigen dazu, unbewusste Frustrationen im intensiven freien Spiel körperlich auszuagieren.",
+        "ar": "يَمِيلُ الأَطْفَالُ إِلَى تَفْرِيغِ الإِحْبَاطَاتِ غَيْرِ الوَاعِيَةِ جَسَدِيًّا عَبْرَ اللَّعِبِ الحُرِّ المُكَثَّفِ.",
+        "en": "Children tend to physically act out unconscious frustrations during vigorous free play."
+      },
+      "image": "assets/svg/verb_ausagieren.svg"
+    },
+    {
+      "id": "verb_habituieren",
+      "german": "habituieren",
+      "arabic": "يَتَعَوَّدُ حِسِّيًّا / يَتَكَيَّفُ مَعَ المُثِيرِ التَّكْرَارِيِّ",
+      "english": "to habituate to recurring sensory inputs",
+      "conjugation": {
+        "praesens": "er/sie/es habituiert",
+        "praeteritum": "habituierte",
+        "perfekt": "hat habituiert"
+      },
+      "preposition": "an + Akk",
+      "collocations": [
+        "an monotone Geräusche habituieren",
+        "an taktile Dauerreize habituieren"
+      ],
+      "example_sentence": {
+        "de": "Das sensorische System habituiert rasch an konstante Hintergrundgeräusche, um kognitive Kapazitäten zu schonen.",
+        "ar": "يَتَعَوَّدُ النِّظَامُ الحِسِّيُّ سَرِيعًا عَلَى ضَوْضَاءِ الخَلْفِيَّةِ الثَّابِتَةِ صَوْنًا لِلطَّاقَاتِ الإِدْرَاكِيَّةِ.",
+        "en": "The sensory system rapidly habituates to constant background noise to preserve cognitive resources."
+      },
+      "image": "assets/svg/verb_habituieren.svg"
+    },
+    {
+      "id": "verb_rezipieren",
+      "german": "rezipieren",
+      "arabic": "يَتَلَقَّى إِدْرَاكِيًّا وَحِسِّيًّا",
+      "english": "to perceive, absorb, and receive multimodal stimuli",
+      "conjugation": {
+        "praesens": "er/sie/es rezipiert",
+        "praeteritum": "rezipierte",
+        "perfekt": "hat rezipiert"
+      },
+      "preposition": "über + Akk",
+      "collocations": [
+        "multisensorische Kunstwerke rezipieren",
+        "Reize aufmerksam rezipieren"
+      ],
+      "example_sentence": {
+        "de": "Im immersiven Raum rezipiert der Besucher die kinetische Installation mit allen Sinnen.",
+        "ar": "فِي الفَضَاءِ الانْغِمَاسِيِّ، يَتَلَقَّى الزَّائِرُ التَّرْكِيبَةَ الحَرَكِيَّةَ بِجَمِيعِ حَوَاسِّهِ.",
+        "en": "In the immersive space, the visitor receives and absorbs the kinetic installation with all senses."
+      },
+      "image": "assets/svg/verb_rezipieren.svg"
+    },
+    {
+      "id": "verb_kinaesthetisieren",
+      "german": "kinästhetisieren",
+      "arabic": "يُحِسُّ بِالحَرَكَةِ مَفْصِلِيًّا وَعَضَلِيًّا",
+      "english": "to experience or process kinesthetically",
+      "conjugation": {
+        "praesens": "er/sie/es kinästhetisiert",
+        "praeteritum": "kinästhetisierte",
+        "perfekt": "hat kinästhetisiert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "den Körperschwerpunkt kinästhetisieren",
+        "Bewegungsübergänge kinästhetisieren"
+      ],
+      "example_sentence": {
+        "de": "Tänzer kinästhetisieren selbst kleinste Muskelspannungen zur Perfektionierung ihrer Balance.",
+        "ar": "يُحِسُّ الرَّاقِصُونَ بِأَدْنَى التَّوَتُّرَاتِ العَضَلِيَّةِ حَرَكِيًّا لِتَحْقِيقِ التَّوَازُنِ المِثَالِيِّ.",
+        "en": "Dancers kinesthetically feel even the smallest muscle tensions to perfect their balance."
+      },
+      "image": "assets/svg/verb_kinaesthetisieren.svg"
+    },
+    {
+      "id": "verb_automatisieren",
+      "german": "automatisieren",
+      "arabic": "يُؤَلْمِنُ الحَرَكَةَ / يَجْعَلُ الفِعْلَ الحَرَكِيَّ آلِيًّا تِلْقَائِيًّا",
+      "english": "to automate motor skills into procedural memory",
+      "conjugation": {
+        "praesens": "er/sie/es automatisiert",
+        "praeteritum": "automatisierte",
+        "perfekt": "hat automatisiert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "Handlungsabläufe automatisieren",
+        "motorische Reflexe automatisieren"
+      ],
+      "example_sentence": {
+        "de": "Durch kontinuierliches Training automatisiert der Fahrschüler das Schalten ohne Hinsehen.",
+        "ar": "مِنْ خِلَالِ التَّدْرِيبِ المُسْتَمِرِّ، يُؤَلْمِنُ السَّائِقُ المُتَدَرِّبُ نَقْلَ السُّرُعَاتِ دُونَ الحَاجَةِ لِلنَّظَرِ.",
+        "en": "Through continuous practice, the learner driver automates shifting gears without looking."
+      },
+      "image": "assets/svg/verb_automatisieren.svg"
+    },
+    {
+      "id": "verb_haptisch_erfassen",
+      "german": "haptisch erfassen",
+      "arabic": "يَرْصُدُ وَيُدْرِكُ لَمْسِيًّا",
+      "english": "to grasp or detect haptically",
+      "conjugation": {
+        "praesens": "er/sie/es erfasst haptisch",
+        "praeteritum": "erfasste haptisch",
+        "perfekt": "hat haptisch erfasst"
+      },
+      "preposition": "mit + Dat",
+      "collocations": [
+        "eine dreidimensionale Form haptisch erfassen",
+        "feinste Texturen haptisch erfassen"
+      ],
+      "example_sentence": {
+        "de": "Sehbehinderte Menschen können komplexe topografische Karten haptisch erfassen.",
+        "ar": "يَسْتَطِيعُ الأَشْخَاصُ المَكْفُوفُونَ إِدْرَاكَ الخَرَائِطِ الطُّوبُوغْرَافِيَّةِ المُعَقَّدَةِ لَمْسِيًّا.",
+        "en": "Visually impaired individuals can haptically grasp complex topographic maps."
+      },
+      "image": "assets/svg/verb_haptisch_erfassen.svg"
+    },
+    {
+      "id": "verb_balancieren",
+      "german": "balancieren",
+      "arabic": "يُوَازِنُ جَسَدِيًّا / يَحْفَظُ الاتِّزَانَ",
+      "english": "to balance physically and posture-wise",
+      "conjugation": {
+        "praesens": "er/sie/es balanciert",
+        "praeteritum": "balancierte",
+        "perfekt": "hat balanciert"
+      },
+      "preposition": "auf + Dat",
+      "collocations": [
+        "auf einem schmalen Grat balancieren",
+        "das Gleichgewicht dynamisch balancieren"
+      ],
+      "example_sentence": {
+        "de": "Der Artist balanciert mühelos auf einem gespannten Seil hoch über der Arena.",
+        "ar": "يُوَازِنُ فَنَّانُ السِّيرْكِ جَسَدَهُ بِكُلِّ انْسِيَابِيَّةٍ فَوْقَ حَبْلٍ مَشْدُودٍ عَالِيًا فَوْقَ الحَلَبَةِ.",
+        "en": "The acrobat effortlessly balances on a tightrope high above the arena."
+      },
+      "image": "assets/svg/verb_balancieren.svg"
+    },
+    {
+      "id": "verb_kompensieren",
+      "german": "kompensieren",
+      "arabic": "يُعَوِّضُ حَرَكِيًّا أَوْ عَصَبِيًّا",
+      "english": "to compensate motorically or sensorially",
+      "conjugation": {
+        "praesens": "er/sie/es kompensiert",
+        "praeteritum": "kompensierte",
+        "perfekt": "hat kompensiert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "Gleichgewichtsverluste kompensieren",
+        "sensorische Defizite kompensieren"
+      ],
+      "example_sentence": {
+        "de": "Das Vestibulärsystem kompensiert plötzliche Kopfneigungen durch korrigierende Augenbewegungen.",
+        "ar": "يُعَوِّضُ النِّظَامُ الدِّهْلِيزِيُّ المَيَلَانَ المُفَاجِئَ لِلرَّأْسِ عَبْرَ حَرَكَاتٍ عَيْنِيَّةٍ تَصْحِيحِيَّةٍ.",
+        "en": "The vestibular system compensates for sudden head tilts with corrective eye movements."
+      },
+      "image": "assets/svg/verb_kompensieren.svg"
+    },
+    {
+      "id": "verb_orientieren",
+      "german": "sich orientieren",
+      "arabic": "يَهْتَدِي مَكَانِيًّا / يُوَجِّهُ ذَاتَهُ فِي الفَضَاءِ",
+      "english": "to orient oneself spatially",
+      "conjugation": {
+        "praesens": "er/sie/es orientiert sich",
+        "praeteritum": "orientierte sich",
+        "perfekt": "hat sich orientiert"
+      },
+      "preposition": "nach + Dat / an + Dat",
+      "collocations": [
+        "sich im Raum orientieren",
+        "sich an visuellen Landmarken orientieren"
+      ],
+      "example_sentence": {
+        "de": "Im dichten Nebel orientierte sich die Bergsteigerin an den Felsmarkierungen.",
+        "ar": "فِي الضَّبَابِ الكَثِيفِ، اهْتَدَتْ مُتَسَلِّقَةُ الجِبَالِ مَكَانِيًّا بِعَلَامَاتِ الصُّخُورِ.",
+        "en": "In the dense fog, the mountaineer oriented herself spatially using rock markers."
+      },
+      "image": "assets/svg/verb_orientieren.svg"
+    },
+    {
+      "id": "verb_synchronisieren",
+      "german": "synchronisieren",
+      "arabic": "يُزَامِنُ الإِيقَاعَ الحَرَكِيَّ / يُطَابِقُ تَوْقِيتَ الفِعْلِ",
+      "english": "to synchronize motor rhythms and sensory timing",
+      "conjugation": {
+        "praesens": "er/sie/es synchronisiert",
+        "praeteritum": "synchronisierte",
+        "perfekt": "hat synchronisiert"
+      },
+      "preposition": "mit + Dat",
+      "collocations": [
+        "Schritte mit dem Takt synchronisieren",
+        "Körperbewegungen miteinander synchronisieren"
+      ],
+      "example_sentence": {
+        "de": "Die Ruderer synchronisieren ihre Ruderschläge mit millimetergenauer Präzision.",
+        "ar": "يُزَامِنُ المُجَدِّفُونَ ضَرَبَاتِ مَجَاذِيفِهِمْ بِدِقَّةٍ مِلِّيمِتْرِيَّةٍ مُتَنَاهِيَةٍ.",
+        "en": "The rowers synchronize their rowing strokes with millimeter precision."
+      },
+      "image": "assets/svg/verb_synchronisieren.svg"
+    },
+    {
+      "id": "verb_feinjustieren",
+      "german": "feinjustieren",
+      "arabic": "يَضْبِطُ الحَرَكَةَ بِدِقَّةٍ مُتَنَاهِيَةٍ",
+      "english": "to fine-tune motor or tactile execution",
+      "conjugation": {
+        "praesens": "er/sie/es feinjustiert",
+        "praeteritum": "feinjustierte",
+        "perfekt": "hat feinjustiert"
+      },
+      "preposition": "auf + Akk",
+      "collocations": [
+        "den Griff feinjustieren",
+        "motorische Kraftdosierung feinjustieren"
+      ],
+      "example_sentence": {
+        "de": "Der Uhrmacher feinjustiert die mikroskopische Unruh mit ruhiger Hand.",
+        "ar": "يَضْبِطُ سَاعَاتِيُّ الحَرَكَةَ المِيكْرُوسْكُوبِيَّةَ لِعَجَلَةِ التَّوَازُنِ بِدِقَّةٍ مُتَنَاهِيَةٍ وَيَدٍ ثَابِتَةٍ.",
+        "en": "The watchmaker fine-tunes the microscopic balance wheel with a steady hand."
+      },
+      "image": "assets/svg/verb_feinjustieren.svg"
+    },
+    {
+      "id": "verb_stimulieren",
+      "german": "stimulieren",
+      "arabic": "يَسْتَحِثُّ عَصَبِيًّا وَحِسِّيًّا / يُحَفِّزُ الحَوَاسَّ",
+      "english": "to stimulate sensorimotor pathways",
+      "conjugation": {
+        "praesens": "er/sie/es stimuliert",
+        "praeteritum": "stimulierte",
+        "perfekt": "hat stimuliert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "propriozeptive Rezeptoren stimulieren",
+        "neuronale Synapsen stimulieren"
+      ],
+      "example_sentence": {
+        "de": "Die Barfußtherapie stimuliert tausende Nervenenden in den Fußsohlen zur Reaktivierung der Haltungskontrolle.",
+        "ar": "يَسْتَحِثُّ العِلَاجُ بِالمَشْيِ حَافِيَ القَدَمَيْنِ آلَافَ النِّهَايَاتِ العَصَبِيَّةِ فِي أَخْمَصِ القَدَمِ لِإِعَادَةِ تَفْعِيلِ ضَبْطِ القَوَامِ.",
+        "en": "Barefoot therapy stimulates thousands of nerve endings in the soles to reactivate posture control."
+      },
+      "image": "assets/svg/verb_stimulieren.svg"
+    },
+    {
+      "id": "verb_integrieren",
+      "german": "integrieren",
+      "arabic": "يُدْمِجُ حِسِّيًّا حَرَكِيًّا فِي كُلٍّ وَاحِدٍ",
+      "english": "to integrate sensory streams into coherent action",
+      "conjugation": {
+        "praesens": "er/sie/es integriert",
+        "praeteritum": "integrierte",
+        "perfekt": "hat integriert"
+      },
+      "preposition": "in + Akk",
+      "collocations": [
+        "visuelle und haptische Reize integrieren",
+        "Prothesen in das Körperschema integrieren"
+      ],
+      "example_sentence": {
+        "de": "Das Gehirn lernt erstaunlich schnell, eine bionische Hand in das eigene Körperschema zu integrieren.",
+        "ar": "يَتَعَلَّمُ الدِّمَاغُ بِسُرْعَةٍ مُذْهِلَةٍ كَيْفِيَّةَ دَمْجِ اليَدِ الإِلِكْتُرُونِيَّةِ فِي مُخَطَّطِ الجَسَدِ الذَّاتِيِّ.",
+        "en": "The brain learns astonishingly fast to integrate a bionic hand into its own body schema."
+      },
+      "image": "assets/svg/verb_integrieren.svg"
+    },
+    {
+      "id": "verb_fokussieren",
+      "german": "fokussieren",
+      "arabic": "يُرَكِّزُ البَصَرَ أَوِ الانْتِبَاهَ الحِسِّيَّ",
+      "english": "to focus visually and attentionally",
+      "conjugation": {
+        "praesens": "er/sie/es fokussiert",
+        "praeteritum": "fokussierte",
+        "perfekt": "hat fokussiert"
+      },
+      "preposition": "auf + Akk",
+      "collocations": [
+        "den Blick auf das Ziel fokussieren",
+        "die sensorische Aufmerksamkeit fokussieren"
+      ],
+      "example_sentence": {
+        "de": "Vor dem entscheidenden Schuss fokussiert der Schütze seinen Blick millimetergenau auf das Zentrum.",
+        "ar": "قَبْلَ التَّسْدِيدَةِ الحَاسِمَةِ، يُرَكِّزُ الرَّامِي بَصَرَهُ بِدِقَّةٍ مِلِّيمِتْرِيَّةٍ عَلَى المَرْكَزِ.",
+        "en": "Before the decisive shot, the marksman focuses his gaze with millimeter accuracy on the center."
+      },
+      "image": "assets/svg/verb_fokussieren.svg"
+    },
+    {
+      "id": "verb_adaptieren",
+      "german": "adaptieren",
+      "arabic": "يُكَيِّفُ الاسْتِجَابَةَ الجَسَدِيَّةَ مَعَ المُحِيطِ",
+      "english": "to adapt motor behavior to spatial constraints",
+      "conjugation": {
+        "praesens": "er/sie/es adaptiert",
+        "praeteritum": "adaptierte",
+        "perfekt": "hat adaptiert"
+      },
+      "preposition": "an + Akk",
+      "collocations": [
+        "das Schrittmuster an unebenes Gelände adaptieren",
+        "Greifkräfte adaptieren"
+      ],
+      "example_sentence": {
+        "de": "Roboter der neuen Generation adaptieren ihre Griffstärke in Echtzeit an die Zerbrechlichkeit des Gegenstands.",
+        "ar": "تُكَيِّفُ رُوبُوتَاتُ الجِيلِ الجَدِيدِ قُوَّةَ قَبْضَتِهَا آنِيًّا مَعَ مَدَى هَشَاشَةِ الشَّيْءِ المَقْبُوضِ.",
+        "en": "Next-generation robots adapt their gripping force in real time to the fragility of the object."
+      },
+      "image": "assets/svg/verb_adaptieren.svg"
+    }
+  ]
+}
