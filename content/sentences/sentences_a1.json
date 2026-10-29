@@ -7586,6 +7586,171 @@
         "Regelmäßige Konjugation 'landen'",
         "Wechselpräposition 'auf' + Dativ Maskulin n-Deklination 'dem neuen Planeten'"
       ]
+    },
+    {
+      "id": "sent_366",
+      "category": "learning_habits",
+      "difficulty": "A1+",
+      "arabic": "أَنَا أُكَرِّرُ الكَلِمَاتِ كُلَّ يَوْمٍ.",
+      "german": "Ich wiederhole die Wörter jeden Tag.",
+      "english": "I repeat the words every day.",
+      "tokens": [
+        {
+          "word": "Ich",
+          "pos": "pronoun",
+          "ar": "أَنَا"
+        },
+        {
+          "word": "wiederhole",
+          "pos": "verb",
+          "ar": "أُكَرِّرُ"
+        },
+        {
+          "word": "die Wörter",
+          "pos": "noun",
+          "ar": "الكَلِمَاتِ"
+        },
+        {
+          "word": "jeden Tag",
+          "pos": "temporal_phrase",
+          "ar": "كُلَّ يَوْمٍ"
+        }
+      ],
+      "grammar_points": [
+        "Untrennbares Verb 'wiederholen'",
+        "Akkusativ Plural 'die Wörter'",
+        "Zeitangabe im Akkusativ Maskulin 'jeden Tag'"
+      ]
+    },
+    {
+      "id": "sent_367",
+      "category": "memory_retention",
+      "difficulty": "A1+",
+      "arabic": "التَّكْرَارُ يُسَاعِدُ الذَّاكِرَةَ كَثِيرًا.",
+      "german": "Die Wiederholung hilft dem Gedächtnis sehr.",
+      "english": "Repetition helps memory a lot.",
+      "tokens": [
+        {
+          "word": "Die Wiederholung",
+          "pos": "noun",
+          "ar": "التَّكْرَارُ"
+        },
+        {
+          "word": "hilft",
+          "pos": "verb",
+          "ar": "يُسَاعِدُ"
+        },
+        {
+          "word": "dem Gedächtnis",
+          "pos": "dative_noun",
+          "ar": "الذَّاكِرَةَ (حالة الجر)"
+        },
+        {
+          "word": "sehr",
+          "pos": "adverb",
+          "ar": "كَثِيرًا"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Feminin Nominativ",
+        "Verb 'helfen' regiert Dativ Neutrum 'dem Gedächtnis'"
+      ]
+    },
+    {
+      "id": "sent_368",
+      "category": "language_progress",
+      "difficulty": "A1+",
+      "arabic": "نَحْنُ نَتَعَلَّمُ لُغَةً جَدِيدَةً بِسُرْعَةٍ.",
+      "german": "Wir lernen eine neue Sprache schnell.",
+      "english": "We learn a new language quickly.",
+      "tokens": [
+        {
+          "word": "Wir",
+          "pos": "pronoun",
+          "ar": "نَحْنُ"
+        },
+        {
+          "word": "lernen",
+          "pos": "verb",
+          "ar": "نَتَعَلَّمُ"
+        },
+        {
+          "word": "eine neue Sprache",
+          "pos": "noun_phrase",
+          "ar": "لُغَةً جَدِيدَةً"
+        },
+        {
+          "word": "schnell",
+          "pos": "adverb",
+          "ar": "بِسُرْعَةٍ"
+        }
+      ],
+      "grammar_points": [
+        "Präsens 1. Person Plural",
+        "Unbestimmter Artikel mit Adjektivdeklination im Akkusativ Feminin"
+      ]
+    },
+    {
+      "id": "sent_369",
+      "category": "smart_reminder",
+      "difficulty": "A1+",
+      "arabic": "التَّطْبِيقُ يُذَكِّرُنِي بِمَوْعِدِ المُرَاجَعَةِ.",
+      "german": "Die App erinnert mich an den Wiederholungstermin.",
+      "english": "The app reminds me of the review date.",
+      "tokens": [
+        {
+          "word": "Die App",
+          "pos": "noun",
+          "ar": "التَّطْبِيقُ"
+        },
+        {
+          "word": "erinnert",
+          "pos": "verb",
+          "ar": "يُذَكِّرُ"
+        },
+        {
+          "word": "mich",
+          "pos": "pronoun",
+          "ar": "ـنِي (مفعول به)"
+        },
+        {
+          "word": "an den Wiederholungstermin",
+          "pos": "preposition_phrase",
+          "ar": "بِمَوْعِدِ المُرَاجَعَةِ"
+        }
+      ],
+      "grammar_points": [
+        "Verb 'erinnern' + Akkusativobjekt + Präposition 'an' + Akkusativ Maskulin"
+      ]
+    },
+    {
+      "id": "sent_370",
+      "category": "consistent_mastery",
+      "difficulty": "A1+",
+      "arabic": "المُمَارَسَةُ اليَوْمِيَّةُ تَصْنَعُ النَّجَاحَ الدَّائِمَ.",
+      "german": "Die tägliche Praxis macht den dauerhaften Erfolg.",
+      "english": "Daily practice creates lasting success.",
+      "tokens": [
+        {
+          "word": "Die tägliche Praxis",
+          "pos": "noun_phrase",
+          "ar": "المُمَارَسَةُ اليَوْمِيَّةُ"
+        },
+        {
+          "word": "macht",
+          "pos": "verb",
+          "ar": "تَصْنَعُ"
+        },
+        {
+          "word": "den dauerhaften Erfolg",
+          "pos": "noun_phrase",
+          "ar": "النَّجَاحَ الدَّائِمَ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Feminin mit Adjektiv im Nominativ",
+        "Akkusativ Maskulin mit bestimmtem Artikel und Adjektiv"
+      ]
     }
   ]
 }

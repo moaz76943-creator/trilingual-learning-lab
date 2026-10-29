@@ -32151,5 +32151,30 @@
     "file": "assets/svg/verb_terraformen.svg",
     "category": "cosmic_verbs",
     "alt": "verb terraformen"
+  },
+  "assets/svg/srs_streak_fire.svg": {
+    "file": "assets/svg/srs_streak_fire.svg",
+    "category": "srs_engine",
+    "alt": "srs streak fire"
+  },
+  "assets/svg/srs_memory_curve.svg": {
+    "file": "assets/svg/srs_memory_curve.svg",
+    "category": "srs_engine",
+    "alt": "srs memory curve"
+  },
+  "assets/svg/srs_mastery_crown.svg": {
+    "file": "assets/svg/srs_mastery_crown.svg",
+    "category": "srs_engine",
+    "alt": "srs mastery crown"
+  },
+  "assets/svg/srs_flashcard_flip.svg": {
+    "file": "assets/svg/srs_flashcard_flip.svg",
+    "category": "srs_engine",
+    "alt": "srs flashcard flip"
+  },
+  "assets/svg/srs_brain_interval.svg": {
+    "file": "assets/svg/srs_brain_interval.svg",
+    "category": "srs_engine",
+    "alt": "srs brain interval"
   }
 }
