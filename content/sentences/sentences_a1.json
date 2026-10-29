@@ -6406,6 +6406,181 @@
         "Redewendung 'liegen bei' + Dativ",
         "Demonstrativpronomen im Dativ"
       ]
+    },
+    {
+      "id": "sent_331",
+      "category": "interpretation",
+      "difficulty": "A1+",
+      "arabic": "الأُسْتَاذُ يَشْرَحُ النَّصَّ بِوُضُوحٍ.",
+      "german": "Der Lehrer legt den Text klar aus.",
+      "english": "The teacher interprets the text clearly.",
+      "tokens": [
+        {
+          "word": "Der Lehrer",
+          "pos": "noun",
+          "ar": "الأُسْتَاذُ"
+        },
+        {
+          "word": "legt ... aus",
+          "pos": "separable_verb",
+          "ar": "يَشْرَحُ / يُؤَوِّلُ"
+        },
+        {
+          "word": "den Text",
+          "pos": "noun",
+          "ar": "النَّصَّ"
+        },
+        {
+          "word": "klar",
+          "pos": "adverb",
+          "ar": "بِوُضُوحٍ"
+        }
+      ],
+      "grammar_points": [
+        "Trennbares Verb 'auslegen'",
+        "Akkusativ maskulin 'den Text'"
+      ]
+    },
+    {
+      "id": "sent_332",
+      "category": "inquiry",
+      "difficulty": "A1+",
+      "arabic": "الطَّالِبُ يَسْأَلُ عَنِ السَّبَبِ دَائِمًا.",
+      "german": "Der Student hinterfragt den Grund immer.",
+      "english": "The student always questions the reason critically.",
+      "tokens": [
+        {
+          "word": "Der Student",
+          "pos": "noun",
+          "ar": "الطَّالِبُ"
+        },
+        {
+          "word": "hinterfragt",
+          "pos": "verb",
+          "ar": "يَسْأَلُ نَقْدِيًّا / يَتَقَصَّى"
+        },
+        {
+          "word": "den Grund",
+          "pos": "noun",
+          "ar": "السَّبَبَ"
+        },
+        {
+          "word": "immer",
+          "pos": "adverb",
+          "ar": "دَائِمًا"
+        }
+      ],
+      "grammar_points": [
+        "Untrennbares Verb 'hinterfragen'",
+        "Akkusativ maskulin 'den Grund'"
+      ]
+    },
+    {
+      "id": "sent_333",
+      "category": "collaboration",
+      "difficulty": "A1+",
+      "arabic": "نَحْنُ نَفْحَصُ الفِكْرَةَ مَعًا فِي الفَصْلِ.",
+      "german": "Wir prüfen die Idee gemeinsam im Unterricht.",
+      "english": "We examine the idea together in class.",
+      "tokens": [
+        {
+          "word": "Wir",
+          "pos": "pronoun",
+          "ar": "نَحْنُ"
+        },
+        {
+          "word": "prüfen",
+          "pos": "verb",
+          "ar": "نَفْحَصُ"
+        },
+        {
+          "word": "die Idee",
+          "pos": "noun",
+          "ar": "الفِكْرَةَ"
+        },
+        {
+          "word": "gemeinsam",
+          "pos": "adverb",
+          "ar": "مَعًا"
+        },
+        {
+          "word": "im Unterricht",
+          "pos": "preposition_phrase",
+          "ar": "فِي الفَصْلِ / الدَّرْسِ"
+        }
+      ],
+      "grammar_points": [
+        "Präsens 1. Person Plural",
+        "Präposition 'in' + Dativ 'im Unterricht'"
+      ]
+    },
+    {
+      "id": "sent_334",
+      "category": "reflection",
+      "difficulty": "A1+",
+      "arabic": "الفَلْسَفَةُ تُسَاعِدُ الإِنْسَانَ عَلَى التَّفْكِيرِ.",
+      "german": "Die Philosophie hilft dem Menschen beim Denken.",
+      "english": "Philosophy helps human beings in thinking.",
+      "tokens": [
+        {
+          "word": "Die Philosophie",
+          "pos": "noun",
+          "ar": "الفَلْسَفَةُ"
+        },
+        {
+          "word": "hilft",
+          "pos": "verb",
+          "ar": "تُسَاعِدُ"
+        },
+        {
+          "word": "dem Menschen",
+          "pos": "dative_noun",
+          "ar": "الإِنْسَانَ (حالة الجر)"
+        },
+        {
+          "word": "beim Denken",
+          "pos": "preposition_phrase",
+          "ar": "عِنْدَ التَّفْكِيرِ"
+        }
+      ],
+      "grammar_points": [
+        "Verb 'helfen' regiert Dativ",
+        "Substantivierter Infinitiv 'beim Denken'"
+      ]
+    },
+    {
+      "id": "sent_335",
+      "category": "synthesis",
+      "difficulty": "A1+",
+      "arabic": "المُفَكِّرُ يَرْبِطُ بَيْنَ الرَّأْيَيْنِ بِعَدْلٍ.",
+      "german": "Der Denker verbindet beide Meinungen gerecht.",
+      "english": "The thinker connects both opinions fairly.",
+      "tokens": [
+        {
+          "word": "Der Denker",
+          "pos": "noun",
+          "ar": "المُفَكِّرُ"
+        },
+        {
+          "word": "verbindet",
+          "pos": "verb",
+          "ar": "يَرْبِطُ / يُؤَلِّفُ"
+        },
+        {
+          "word": "beide Meinungen",
+          "pos": "noun_phrase",
+          "ar": "الرَّأْيَيْنِ كِلَيْهِمَا"
+        },
+        {
+          "word": "gerecht",
+          "pos": "adverb",
+          "ar": "بِعَدْلٍ / بِإِنْصَافٍ"
+        }
+      ],
+      "grammar_points": [
+        "Akkusativ Plural 'beide Meinungen'",
+        "Adverbialer Gebrauch von 'gerecht'"
+      ]
     }
   ]
 }

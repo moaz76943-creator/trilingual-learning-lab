@@ -1,0 +1,451 @@
+{
+  "category_id": "dialectical_hermeneutics_verbs_b2_c1",
+  "category_title": {
+    "ar": "أفعال التفكير الجدلي والتأويلي والمناظرة الفلسفية",
+    "de": "Dialektische, hermeneutische und philosophische Argumentationsverben",
+    "en": "Dialectical, Hermeneutic & Philosophical Reasoning Verbs"
+  },
+  "level": "B2/C1",
+  "items": [
+    {
+      "id": "verb_dialektisieren",
+      "german": "dialektisieren",
+      "arabic": "يُجَدْوِلُ جَدَلِيًّا / يَنْظُرُ فِي تَنَاقُضَاتِ المَفْهُومِ",
+      "english": "to dialecticize or analyze dialectically",
+      "conjugation": {
+        "praesens": "er/sie/es dialektisiert",
+        "praeteritum": "dialektisierte",
+        "perfekt": "hat dialektisiert"
+      },
+      "preposition": "in + Dat",
+      "collocations": [
+        "einen Widerspruch dialektisieren",
+        "historische Prozesse dialektisieren"
+      ],
+      "example_sentence": {
+        "de": "Der Philosoph dialektisiert den scheinbaren Gegensatz zwischen Freiheit und Notwendigkeit.",
+        "ar": "يُجَدْوِلُ الفَيْلَسُوفُ التَّنَاقُضَ الظَّاهِرِيَّ بَيْنَ الحُرِّيَّةِ وَالضَّرُورَةِ فِي سِيَاقٍ تَرْكِيبِيٍّ.",
+        "en": "The philosopher dialecticizes the apparent tension between freedom and necessity."
+      },
+      "image": "assets/svg/verb_dialektisieren.svg"
+    },
+    {
+      "id": "verb_hermeneutisch_auslegen",
+      "german": "hermeneutisch auslegen",
+      "arabic": "يُؤَوِّلُ تَأْوِيلًا هَرْمِينُوطِيقِيًّا (سِيَاقِيًّا عَمِيقًا)",
+      "english": "to interpret hermeneutically",
+      "conjugation": {
+        "praesens": "er/sie/es legt hermeneutisch aus",
+        "praeteritum": "legte hermeneutisch aus",
+        "perfekt": "hat hermeneutisch ausgelegt"
+      },
+      "preposition": "nach + Dat / im Lichte + Gen",
+      "collocations": [
+        "einen Text hermeneutisch auslegen",
+        "historische Quellen hermeneutisch auslegen"
+      ],
+      "example_sentence": {
+        "de": "Der Literaturwissenschaftler legt den antiken Text hermeneutisch im Lichte seines Entstehungskontexts aus.",
+        "ar": "يُؤَوِّلُ بَاحِثُ الأَدَبِ النَّصَّ القَدِيمَ تَأْوِيلًا هَرْمِينُوطِيقِيًّا فِي ضَوْءِ سِيَاقِ نَشْأَتِهِ التَّارِيخِيَّةِ.",
+        "en": "The literary scholar interprets the ancient text hermeneutically in light of its historical context."
+      },
+      "image": "assets/svg/verb_hermeneutisch_auslegen.svg"
+    },
+    {
+      "id": "verb_dekonstruieren",
+      "german": "dekonstruieren",
+      "arabic": "يُفَكِّكُ بِنْيَوِيًّا وَنَقْدِيًّا",
+      "english": "to deconstruct",
+      "conjugation": {
+        "praesens": "er/sie/es dekonstruiert",
+        "praeteritum": "dekonstruierte",
+        "perfekt": "hat dekonstruiert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "Machtstrukturen dekonstruieren",
+        "metaphysische Narrative dekonstruieren"
+      ],
+      "example_sentence": {
+        "de": "Derrida dekonstruiert traditionelle Denkmodelle, um deren unausgesprochene Voraussetzungen offenzulegen.",
+        "ar": "يُفَكِّكُ دِيرِيدَا النَّمَاذِجَ الفِكْرِيَّةَ التَّقْلِيدِيَّةَ لِيَكْشِفَ عَنْ فَرَضِيَّاتِهَا المَضْمُورَةِ غَيْرِ المُعْلَنَةِ.",
+        "en": "Derrida deconstructs traditional models of thought to expose their unspoken assumptions."
+      },
+      "image": "assets/svg/verb_dekonstruieren.svg"
+    },
+    {
+      "id": "verb_problematisieren",
+      "german": "problematisieren",
+      "arabic": "يُشَكْلِنُ / يَطْرَحُ الشَّيْءَ كَمَسْأَلَةٍ إِشْكَالِيَّةٍ",
+      "english": "to problematize",
+      "conjugation": {
+        "praesens": "er/sie/es problematisiert",
+        "praeteritum": "problematisierte",
+        "perfekt": "hat problematisiert"
+      },
+      "preposition": "hinsichtlich + Gen",
+      "collocations": [
+        "selbstverständliche Annahmen problematisieren",
+        "moralische Gewohnheiten problematisieren"
+      ],
+      "example_sentence": {
+        "de": "Die Ethikerin problematisiert den unkritischen Einsatz künstlicher Intelligenz in der Justiz.",
+        "ar": "تُشَكْلِنُ البَاحِثَةُ فِي الأَخْلَاقِ الاسْتِخْدَامَ غَيْرَ النَّقْدِيِّ لِلذَّكَاءِ الاصْطِنَاعِيِّ فِي مَنْظُومَةِ القَضَاءِ.",
+        "en": "The ethicist problematizes the uncritical deployment of artificial intelligence in the judicial system."
+      },
+      "image": "assets/svg/verb_problematisieren.svg"
+    },
+    {
+      "id": "verb_deduzieren",
+      "german": "deduzieren",
+      "arabic": "يَسْتَنْبِطُ مَنْطِقِيًّا مِنَ الكُلِّ إِلَى الجُزْءِ",
+      "english": "to deduce logically",
+      "conjugation": {
+        "praesens": "er/sie/es deduziert",
+        "praeteritum": "deduzierte",
+        "perfekt": "hat deduziert"
+      },
+      "preposition": "aus + Dat",
+      "collocations": [
+        "eine These aus Prämissen deduzieren",
+        "Schlussfolgerungen streng deduzieren"
+      ],
+      "example_sentence": {
+        "de": "Aus den vorgegebenen Axiomen lässt sich der Lehrsatz logisch zwingend deduzieren.",
+        "ar": "يُمْكِنُ اسْتِنْبَاطُ النَّظَرِيَّةِ اسْتِنْبَاطًا مَنْطِقِيًّا قَاطِعًا مِنَ البَدِيهِيَّاتِ المُقَرَّرَةِ.",
+        "en": "From the given axioms, the theorem can be deduced with strict logical necessity."
+      },
+      "image": "assets/svg/verb_deduzieren.svg"
+    },
+    {
+      "id": "verb_induzieren",
+      "german": "induzieren",
+      "arabic": "يَسْتَقْرِئُ مِنَ الجُزْئِيَّاتِ إِلَى الكُلِّ",
+      "english": "to induce inductively",
+      "conjugation": {
+        "praesens": "er/sie/es induziert",
+        "praeteritum": "induzierte",
+        "perfekt": "hat induziert"
+      },
+      "preposition": "aus + Dat",
+      "collocations": [
+        "allgemeine Gesetze aus Beobachtungen induzieren",
+        "Regeln empirisch induzieren"
+      ],
+      "example_sentence": {
+        "de": "Der Naturforscher induziert aus wiederholten Messungen ein allgemeingültiges Gesetz.",
+        "ar": "يَسْتَقْرِئُ عَالِمُ الطَّبِيعَةِ قَانُونًا عَامًّا شَامِلًا مِنَ القِيَاسَاتِ التَّجْرِيبِيَّةِ المُتَكَرِّرَةِ.",
+        "en": "The natural scientist induces a universal law from repeated empirical observations."
+      },
+      "image": "assets/svg/verb_induzieren.svg"
+    },
+    {
+      "id": "verb_postulieren",
+      "german": "postulieren",
+      "arabic": "يَفْتَرِضُ كَمَبْدَأٍ ضَرُورِيٍّ / يُسَلِّمُ جَدَلِيًّا بِـ",
+      "english": "to postulate",
+      "conjugation": {
+        "praesens": "er/sie/es postuliert",
+        "praeteritum": "postulierte",
+        "perfekt": "hat postuliert"
+      },
+      "preposition": "als + Akk",
+      "collocations": [
+        "ein Grundrecht postulieren",
+        "die Existenz von Willensfreiheit postulieren"
+      ],
+      "example_sentence": {
+        "de": "Kant postuliert die Unsterblichkeit der Seele als notwendige Voraussetzung der praktischen Vernunft.",
+        "ar": "يُسَلِّمُ كَانْطُ بِخُلُودِ النَّفْسِ كَمَبْدَأٍ ضَرُورِيٍّ لِعَمَلِ العَقْلِ العَمَلِيِّ.",
+        "en": "Kant postulates the immortality of the soul as a necessary prerequisite of practical reason."
+      },
+      "image": "assets/svg/verb_postulieren.svg"
+    },
+    {
+      "id": "verb_relativieren",
+      "german": "relativieren",
+      "arabic": "يَنْسِبُ الشَّيْءَ / يُخَفِّفُ إِطْلَاقَهُ وَيَجْعَلُهُ نِسْبِيًّا",
+      "english": "to put into perspective or relativize",
+      "conjugation": {
+        "praesens": "er/sie/es relativiert",
+        "praeteritum": "relativierte",
+        "perfekt": "hat relativiert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "eine Aussage relativieren",
+        "den absoluten Anspruch relativieren"
+      ],
+      "example_sentence": {
+        "de": "Neue historische Dokumente relativieren die bisherige Deutung des revolutionären Ereignisses.",
+        "ar": "تَجْعَلُ الوَثَائِقُ التَّارِيخِيَّةُ الجَدِيدَةُ التَّأْوِيلَ السَّابِقَ لِلحَدَثِ الثَّوْرِيِّ نِسْبِيًّا وَمَرِينًا.",
+        "en": "New historical documents relativize the previous interpretation of the revolutionary event."
+      },
+      "image": "assets/svg/verb_relativieren.svg"
+    },
+    {
+      "id": "verb_abstrahieren",
+      "german": "abstrahieren",
+      "arabic": "يُجَرِّدُ فِكْرِيًّا عَنِ العَوَارِضِ المَادِّيَّةِ",
+      "english": "to abstract",
+      "conjugation": {
+        "praesens": "er/sie/es abstrahiert",
+        "praeteritum": "abstrahierte",
+        "perfekt": "hat abstrahiert"
+      },
+      "preposition": "von + Dat",
+      "collocations": [
+        "vom Einzelfall abstrahieren",
+        "von materiellen Details abstrahieren"
+      ],
+      "example_sentence": {
+        "de": "Um ein allgemeines Gesetz zu formulieren, muss man von den konkreten Besonderheiten abstrahieren.",
+        "ar": "لِصِيَاغَةِ قَانُونٍ عَامٍّ، يَجِبُ عَلَى المَرْءِ أَنْ يُجَرِّدَ فِكْرَهُ عَنِ الخُصُوصِيَّاتِ العَيْنِيَّةِ المُنْفَرِدَةِ.",
+        "en": "To formulate a universal law, one must abstract away from concrete particularities."
+      },
+      "image": "assets/svg/verb_abstrahieren.svg"
+    },
+    {
+      "id": "verb_synthetisieren",
+      "german": "synthetisieren",
+      "arabic": "يُؤَلِّفُ بَيْنَ الأَطْرُوحَاتِ / يُرَكِّبُ فِي كُلٍّ مُتَنَاغِمٍ",
+      "english": "to synthesize opposing arguments",
+      "conjugation": {
+        "praesens": "er/sie/es synthetisiert",
+        "praeteritum": "synthetisierte",
+        "perfekt": "hat synthetisiert"
+      },
+      "preposition": "zu + Dat",
+      "collocations": [
+        "These und Antithese synthetisieren",
+        "verschiedene Theorieansätze synthetisieren"
+      ],
+      "example_sentence": {
+        "de": "In der Synthese gelingt es dem Denker, widerstreitende Paradigmen zu einem kohärenten System zu verbinden.",
+        "ar": "يَنْجَحُ المُفَكِّرُ فِي التَّرْكِيبِ فِي التَّأْلِيفِ بَيْنَ النَّمَاذِجِ الإِرْشَادِيَّةِ المُتَصَارِعَةِ ضِمْنَ نَسَقٍ مُتَمَاسِكٍ.",
+        "en": "In the synthesis, the thinker succeeds in synthesizing conflicting paradigms into a coherent system."
+      },
+      "image": "assets/svg/verb_synthetisieren.svg"
+    },
+    {
+      "id": "verb_kontextualisieren",
+      "german": "kontextualisieren",
+      "arabic": "يُمَوْضِعُ فِي السِّيَاقِ",
+      "english": "to contextualize",
+      "conjugation": {
+        "praesens": "er/sie/es kontextualisiert",
+        "praeteritum": "kontextualisierte",
+        "perfekt": "hat kontextualisiert"
+      },
+      "preposition": "in + Akk / historisch",
+      "collocations": [
+        "ein philosophisches Zitat kontextualisieren",
+        "politische Handlungen kontextualisieren"
+      ],
+      "example_sentence": {
+        "de": "Man kann den Text nur dann adäquat verstehen, wenn man ihn historisch und kulturell kontextualisiert.",
+        "ar": "لَا يُمْكِنُ فَهْمُ النَّصِّ فَهْمًا سَلِيمًا إِلَّا إِذَا تَمَّتْ مَوْضَعَتُهُ تَارِيخِيًّا وَثَقَافِيًّا فِي سِيَاقِهِ.",
+        "en": "One can only understand the text adequately if one contextualizes it historically and culturally."
+      },
+      "image": "assets/svg/verb_kontextualisieren.svg"
+    },
+    {
+      "id": "verb_explizieren",
+      "german": "explizieren",
+      "arabic": "يُوَضِّحُ المَعْنَى صَرَاحَةً / يُبَيِّنُ المَضْمُونَ الكَامِنَ",
+      "english": "to explicate or make explicit",
+      "conjugation": {
+        "praesens": "er/sie/es expliziert",
+        "praeteritum": "explizierte",
+        "perfekt": "hat expliziert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "implizite Prämissen explizieren",
+        "Begriffsdefinitionen präzise explizieren"
+      ],
+      "example_sentence": {
+        "de": "Der Analytiker expliziert die verborgenen Annahmen, die dem juristischen Urteil zugrunde liegen.",
+        "ar": "يُوَضِّحُ المُحَلِّلُ صَرَاحَةً الفَرَضِيَّاتِ المَضْمُورَةَ الَّتِي يَرْتَكِزُ عَلَيْهَا الحُكْمُ القَضَائِيُّ.",
+        "en": "The analyst explicates the latent assumptions that underlie the legal judgment."
+      },
+      "image": "assets/svg/verb_explizieren.svg"
+    },
+    {
+      "id": "verb_antizipieren",
+      "german": "antizipieren",
+      "arabic": "يَسْتَبِقُ / يَتَوَقَّعُ الاعْتِرَاضَاتِ الفِكْرِيَّةَ",
+      "english": "to anticipate objections or arguments",
+      "conjugation": {
+        "praesens": "er/sie/es antizipiert",
+        "praeteritum": "antizipierte",
+        "perfekt": "hat antizipiert"
+      },
+      "preposition": "in + Dat",
+      "collocations": [
+        "mögliche Gegeneinwände antizipieren",
+        "logische Konsequenzen antizipieren"
+      ],
+      "example_sentence": {
+        "de": "In seiner Abhandlung antizipiert der Autor bereits scharfsinnig die Gegenargumente seiner Kritiker.",
+        "ar": "يَسْتَبِقُ المُؤَلِّفُ فِي أُطْرُوحَتِهِ بِذَكَاءٍ وَاقِدٍ الحُجَجَ المُضَادَّةَ الَّتِي سَيُثِيرُهَا نُقَّادُهُ.",
+        "en": "In his treatise, the author astutely anticipates the counterarguments of his future critics."
+      },
+      "image": "assets/svg/verb_antizipieren.svg"
+    },
+    {
+      "id": "verb_hinterfragen",
+      "german": "hinterfragen",
+      "arabic": "يَتَسَاءَلُ نَقْدِيًّا / يَفْحَصُ الجُذُورَ المَعْرِفِيَّةَ",
+      "english": "to scrutinize, question critically",
+      "conjugation": {
+        "praesens": "er/sie/es hinterfragt",
+        "praeteritum": "hinterfragte",
+        "perfekt": "hat hinterfragt"
+      },
+      "preposition": "auf + Akk",
+      "collocations": [
+        "überkommene Dogmen hinterfragen",
+        "die eigene Methodik kritisch hinterfragen"
+      ],
+      "example_sentence": {
+        "de": "Philosophische Aufklärung beginnt in dem Moment, in dem man vermeintliche Gewissheiten radikal hinterfragt.",
+        "ar": "يَبْدَأُ التَّنْوِيرُ الفَلْسَفِيُّ فِي اللَّحْظَةِ الَّتِي يَتَسَاءَلُ فِيهَا المَرْءُ نَقْدِيًّا عَنِ اليَقِينِيَّاتِ المَزْعُومَةِ.",
+        "en": "Philosophical enlightenment begins the moment one radically scrutinizes purported certainties."
+      },
+      "image": "assets/svg/verb_hinterfragen.svg"
+    },
+    {
+      "id": "verb_verifizieren",
+      "german": "verifizieren",
+      "arabic": "يَتَحَقَّقُ مِنْ صِدْقِ القَضِيَّةِ بُرْهَانِيًّا",
+      "english": "to verify empirically or logically",
+      "conjugation": {
+        "praesens": "er/sie/es verifiziert",
+        "praeteritum": "verifizierte",
+        "perfekt": "hat verifiziert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "eine wissenschaftliche Hypothese verifizieren",
+        "Daten empirisch verifizieren"
+      ],
+      "example_sentence": {
+        "de": "Die Forschergruppe konnte das physikalische Postulat durch unabhängige Experimente verifizieren.",
+        "ar": "تَمَكَّنَ الفَرِيقُ البَحْثِيُّ مِنَ التَّحَقُّقِ مِنْ صِدْقِ الفَرْضِيَّةِ الفِيزْيَائِيَّةِ عَبْرَ تَجَارِبَ مُسْتَقِلَّةٍ.",
+        "en": "The research group was able to verify the physical postulate through independent experiments."
+      },
+      "image": "assets/svg/verb_verifizieren.svg"
+    },
+    {
+      "id": "verb_falsifizieren",
+      "german": "falsifizieren",
+      "arabic": "يُدْحِضُ / يُبْطِلُ الصِّدْقَ التَّجْرِيبِيَّ",
+      "english": "to falsify (Popperian demarcation)",
+      "conjugation": {
+        "praesens": "er/sie/es falsifiziert",
+        "praeteritum": "falsifizierte",
+        "perfekt": "hat falsifiziert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "eine Theorie empirisch falsifizieren",
+        "eine Allaussage durch ein Gegenbeispiel falsifizieren"
+      ],
+      "example_sentence": {
+        "de": "Nach Karl Popper genügt ein einziges empirisches Gegenbeispiel, um eine universelle Hypothese zu falsifizieren.",
+        "ar": "وَفْقًا لِكَارْل بُوبَر، يَكْفِي مِثَالٌ مُضَادٌّ وَاحِدٌ لِدَحْضِ الفَرْضِيَّةِ الكُلِّيَّةِ وَإِبْطَالِهَا.",
+        "en": "According to Karl Popper, a single counterexample suffices to falsify a universal hypothesis."
+      },
+      "image": "assets/svg/verb_falsifizieren.svg"
+    },
+    {
+      "id": "verb_transzendieren",
+      "german": "transzendieren",
+      "arabic": "يَتَسَامَى فَوْقَ / يَتَجَاوَزُ الحُدُودَ التَّجْرِيبِيَّةَ",
+      "english": "to transcend empirical limits",
+      "conjugation": {
+        "praesens": "er/sie/es transzendiert",
+        "praeteritum": "transzendierte",
+        "perfekt": "hat transzendiert"
+      },
+      "preposition": "über + Akk",
+      "collocations": [
+        "die Grenzen der Sinneserfahrung transzendieren",
+        "immanente Denkmuster transzendieren"
+      ],
+      "example_sentence": {
+        "de": "Die Metaphysik versucht, den Bereich des sinnlich Wahrnehmbaren gedanklich zu transzendieren.",
+        "ar": "تَسْعَى المِيتَافِيزِيقَا إِلَى تَجَاوُزِ حُدُودِ المَحْسُوسِ فِكْرِيًّا وَالتَّسَامِي فَوْقَ التَّجْرِبَةِ الحِسِّيَّةِ.",
+        "en": "Metaphysics attempts to conceptually transcend the boundaries of sensory experience."
+      },
+      "image": "assets/svg/verb_transzendieren.svg"
+    },
+    {
+      "id": "verb_fundieren",
+      "german": "fundieren",
+      "arabic": "يُؤَصِّلُ / يُقِيمُ بُرْهَانِيًّا عَلَى أَسَاسٍ مَتِينٍ",
+      "english": "to establish on a solid epistemic foundation",
+      "conjugation": {
+        "praesens": "er/sie/es fundiert",
+        "praeteritum": "fundierte",
+        "perfekt": "hat fundiert"
+      },
+      "preposition": "auf + Dat",
+      "collocations": [
+        "eine Ethik theoretisch fundieren",
+        "eine Argumentation rational fundieren"
+      ],
+      "example_sentence": {
+        "de": "Der Rechtsphilosoph fundiert die Menschenrechte auf der unantastbaren Würde des autonomen Subjekts.",
+        "ar": "يُؤَصِّلُ فَيْلَسُوفُ القَانُونِ حُقُوقَ الإِنْسَانِ تَأْصِيلًا مَتِينًا عَلَى الكَرَامَةِ غَيْرِ القَابِلَةِ لِلْمَسَاسِ لِلذَّاتِ المُسْتَقِلَّةِ.",
+        "en": "The legal philosopher grounds human rights on the inviolable dignity of the autonomous subject."
+      },
+      "image": "assets/svg/verb_fundieren.svg"
+    },
+    {
+      "id": "verb_normieren",
+      "german": "normieren",
+      "arabic": "يُقَنِّنُ مِعْيَارِيًّا / يَضَعُ مَعَايِيرَ مُلْزِمَةً",
+      "english": "to standardize or formulate normative standards",
+      "conjugation": {
+        "praesens": "er/sie/es normiert",
+        "praeteritum": "normierte",
+        "perfekt": "hat normiert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "Verhaltensweisen normieren",
+        "Rechtsbegriffe verbindlich normieren"
+      ],
+      "example_sentence": {
+        "de": "Der Gesetzgeber normiert die Pflichten zum Datenschutz durch präzise rechtliche Vorgaben.",
+        "ar": "يُقَنِّنُ المُشَرِّعُ وَاجِبَاتِ حِمَايَةِ البَيَانَاتِ عَبْرَ ضَوَابِطَ قَانُونِيَّةٍ مِعْيَارِيَّةٍ دَقِيقَةٍ.",
+        "en": "The legislator standardizes data protection duties through precise statutory provisions."
+      },
+      "image": "assets/svg/verb_normieren.svg"
+    },
+    {
+      "id": "verb_disputieren",
+      "german": "disputieren",
+      "arabic": "يُنَاظِرُ / يُسَاجِلُ جَدَلِيًّا وَعِلْمِيًّا",
+      "english": "to dispute, debate academically",
+      "conjugation": {
+        "praesens": "er/sie/es disputiert",
+        "praeteritum": "disputierte",
+        "perfekt": "hat disputiert"
+      },
+      "preposition": "über + Akk / mit + Dat",
+      "collocations": [
+        "über metaphysische Fragen disputieren",
+        "öffentlich im Kolloquium disputieren"
+      ],
+      "example_sentence": {
+        "de": "Die Gelehrten disputierten stundenlang leidenschaftlich über das Wesen der Gerechtigkeit.",
+        "ar": "سَاجَلَ العُلَمَاءُ وَنَاظَرُوا لِسَاعَاتٍ طَوِيلَةٍ بِشَغَفٍ حَوْلَ جَوْهَرِ العَدَالَةِ.",
+        "en": "The scholars debated passionately for hours concerning the essence of justice."
+      },
+      "image": "assets/svg/verb_disputieren.svg"
+    }
+  ]
+}

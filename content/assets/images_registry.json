@@ -31386,5 +31386,105 @@
     "file": "assets/svg/concept_epistemische_rechtfertigung.svg",
     "category": "vocabulary",
     "alt": "concept epistemische rechtfertigung"
+  },
+  "assets/svg/verb_dialektisieren.svg": {
+    "file": "assets/svg/verb_dialektisieren.svg",
+    "category": "dialectical_verbs",
+    "alt": "verb dialektisieren"
+  },
+  "assets/svg/verb_falsifizieren.svg": {
+    "file": "assets/svg/verb_falsifizieren.svg",
+    "category": "dialectical_verbs",
+    "alt": "verb falsifizieren"
+  },
+  "assets/svg/verb_deduzieren.svg": {
+    "file": "assets/svg/verb_deduzieren.svg",
+    "category": "dialectical_verbs",
+    "alt": "verb deduzieren"
+  },
+  "assets/svg/verb_hinterfragen.svg": {
+    "file": "assets/svg/verb_hinterfragen.svg",
+    "category": "dialectical_verbs",
+    "alt": "verb hinterfragen"
+  },
+  "assets/svg/verb_postulieren.svg": {
+    "file": "assets/svg/verb_postulieren.svg",
+    "category": "dialectical_verbs",
+    "alt": "verb postulieren"
+  },
+  "assets/svg/verb_relativieren.svg": {
+    "file": "assets/svg/verb_relativieren.svg",
+    "category": "dialectical_verbs",
+    "alt": "verb relativieren"
+  },
+  "assets/svg/verb_normieren.svg": {
+    "file": "assets/svg/verb_normieren.svg",
+    "category": "dialectical_verbs",
+    "alt": "verb normieren"
+  },
+  "assets/svg/verb_induzieren.svg": {
+    "file": "assets/svg/verb_induzieren.svg",
+    "category": "dialectical_verbs",
+    "alt": "verb induzieren"
+  },
+  "assets/svg/verb_disputieren.svg": {
+    "file": "assets/svg/verb_disputieren.svg",
+    "category": "dialectical_verbs",
+    "alt": "verb disputieren"
+  },
+  "assets/svg/verb_abstrahieren.svg": {
+    "file": "assets/svg/verb_abstrahieren.svg",
+    "category": "dialectical_verbs",
+    "alt": "verb abstrahieren"
+  },
+  "assets/svg/verb_transzendieren.svg": {
+    "file": "assets/svg/verb_transzendieren.svg",
+    "category": "dialectical_verbs",
+    "alt": "verb transzendieren"
+  },
+  "assets/svg/verb_kontextualisieren.svg": {
+    "file": "assets/svg/verb_kontextualisieren.svg",
+    "category": "dialectical_verbs",
+    "alt": "verb kontextualisieren"
+  },
+  "assets/svg/verb_antizipieren.svg": {
+    "file": "assets/svg/verb_antizipieren.svg",
+    "category": "dialectical_verbs",
+    "alt": "verb antizipieren"
+  },
+  "assets/svg/verb_dekonstruieren.svg": {
+    "file": "assets/svg/verb_dekonstruieren.svg",
+    "category": "dialectical_verbs",
+    "alt": "verb dekonstruieren"
+  },
+  "assets/svg/verb_synthetisieren.svg": {
+    "file": "assets/svg/verb_synthetisieren.svg",
+    "category": "dialectical_verbs",
+    "alt": "verb synthetisieren"
+  },
+  "assets/svg/verb_hermeneutisch_auslegen.svg": {
+    "file": "assets/svg/verb_hermeneutisch_auslegen.svg",
+    "category": "dialectical_verbs",
+    "alt": "verb hermeneutisch auslegen"
+  },
+  "assets/svg/verb_fundieren.svg": {
+    "file": "assets/svg/verb_fundieren.svg",
+    "category": "dialectical_verbs",
+    "alt": "verb fundieren"
+  },
+  "assets/svg/verb_problematisieren.svg": {
+    "file": "assets/svg/verb_problematisieren.svg",
+    "category": "dialectical_verbs",
+    "alt": "verb problematisieren"
+  },
+  "assets/svg/verb_explizieren.svg": {
+    "file": "assets/svg/verb_explizieren.svg",
+    "category": "dialectical_verbs",
+    "alt": "verb explizieren"
+  },
+  "assets/svg/verb_verifizieren.svg": {
+    "file": "assets/svg/verb_verifizieren.svg",
+    "category": "dialectical_verbs",
+    "alt": "verb verifizieren"
   }
 }
