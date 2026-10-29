@@ -1,0 +1,336 @@
+{
+  "category_id": "world_literature_c2",
+  "category_title": {
+    "ar": "الأدب العالمي المقارن والملاحم والسرديات الإنسانية الكبرى",
+    "de": "Vergleichende Weltliteratur, Heldenepen und universale Narrative",
+    "en": "Comparative World Literature, Epics & Universal Human Narratives"
+  },
+  "level": "C2",
+  "items": [
+    {
+      "id": "concept_weltliteratur",
+      "german": "die Weltliteratur",
+      "plural": "die Weltliteraturen",
+      "arabic": "الأَدَبُ العَالَمِيُّ",
+      "english": "world literature",
+      "example_sentence": {
+        "de": "Goethe prägte den Begriff der Weltliteratur als lebendigen geistigen Austausch über nationale Grenzen hinweg.",
+        "ar": "صَاغَ غُوتَه مَفْهُومَ الأَدَبِ العَالَمِيِّ بِوَصْفِهِ تَبَادُلًا فِكْرِيًّا حَيًّا يَتَجَاوَزُ الحُدُودَ القَوْمِيَّةَ الضَّيِّقَةَ.",
+        "en": "Goethe coined the concept of world literature as a dynamic intellectual exchange transcending national boundaries."
+      },
+      "image": "assets/svg/concept_weltliteratur.svg"
+    },
+    {
+      "id": "concept_heldenepos",
+      "german": "das Heldenepos",
+      "plural": "die Heldenepen",
+      "arabic": "المَلْحَمَةُ البُطُولِيَّةُ",
+      "english": "heroic epic",
+      "example_sentence": {
+        "de": "Das Gilgamesch-Epos gilt als das älteste überlieferte Heldenepos der Menschheitsgeschichte.",
+        "ar": "تُعَدُّ مَلْحَمَةُ جِلْجَامِيشَ أَقْدَمَ مَلْحَمَةٍ بُطُولِيَّةٍ وَصَلَتْنَا فِي تَارِيخِ الإِنْسَانِيَّةِ.",
+        "en": "The Epic of Gilgamesh is regarded as the oldest surviving heroic epic in human history."
+      },
+      "image": "assets/svg/concept_heldenepos.svg"
+    },
+    {
+      "id": "concept_katharsis",
+      "german": "die Katharsis",
+      "plural": "die Katharsen",
+      "arabic": "التَّطْهِيرُ النَّفْسِيُّ (الكَوَاثِرَة / الكَاثَارْسِيس)",
+      "english": "catharsis (emotional purging)",
+      "example_sentence": {
+        "de": "Aristoteles sah im Durchleben von Jammer und Schaudern die reinigende Katharsis des Zuschauers.",
+        "ar": "رَأَى أَرِسْطُو فِي مُعَايَشَةِ مَشَاعِرِ الشَّفَقَةِ وَالخَوْفِ تَطْهِيرًا نَفْسِيًّا كَاثَارْسِيًّا يُنَقِّي رُوحَ المُتَلَقِّي.",
+        "en": "Aristotle perceived in the experience of pity and terror the purifying catharsis of the spectator."
+      },
+      "image": "assets/svg/concept_katharsis.svg"
+    },
+    {
+      "id": "concept_dramaturgie",
+      "german": "die Dramaturgie",
+      "plural": "die Dramaturgien",
+      "arabic": "عِلْمُ التَّأْلِيفِ المَسْرَحِيِّ وَالدِّرَامَاتُورْجِيَا",
+      "english": "dramaturgy",
+      "example_sentence": {
+        "de": "Lessings Hamburgische Dramaturgie begründete das moderne bürgerliche Trauerspiel in Deutschland.",
+        "ar": "أَسَّسَ كِتَابُ لِيسِينْغ 'الدِّرَامَاتُورْجِيَا الهَامْبُورْغِيَّةُ' لِلْمَسْرَحِ التَّرَاجِيدِيِّ البُرْجُوَازِيِّ الحَدِيثِ فِي أَلْمَانِيَا.",
+        "en": "Lessing's Hamburg Dramaturgy laid the foundation for modern bourgeois tragedy in Germany."
+      },
+      "image": "assets/svg/concept_dramaturgie.svg"
+    },
+    {
+      "id": "concept_polyphonie",
+      "german": "die Polyphonie",
+      "plural": "die Polyphonien",
+      "arabic": "تَعَدُّدُ الأَصْوَاتِ الرِّوَائِيُّ (البُولِيفُونِيَّة)",
+      "english": "narrative polyphony",
+      "example_sentence": {
+        "de": "Bachtin analysierte die Polyphonie in Dostojewskis Romanen, in denen jede Figur eine eigenständige Weltanschauung vertritt.",
+        "ar": "حَلَّلَ بَاخْتِين البُولِيفُونِيَّةَ فِي رِوَايَاتِ دُوسْتُويِفْسِكِي، حَيْثُ تَمْتَلِكُ كُلُّ شَخْصِيَّةٍ صَوْتًا فِكْرِيًّا مُسْتَقِلًّا.",
+        "en": "Bakhtin analyzed narrative polyphony in Dostoevsky's novels, where each character embodies an autonomous worldview."
+      },
+      "image": "assets/svg/concept_polyphonie.svg"
+    },
+    {
+      "id": "concept_bildungsroman",
+      "german": "der Bildungsroman",
+      "plural": "die Bildungsromane",
+      "arabic": "الرِّوَايَةُ التَّكْوِينِيَّةُ (رِوَايَةُ التَّنْشِئَةِ وَالنُّضْجِ)",
+      "english": "bildungsroman / coming-of-age novel",
+      "example_sentence": {
+        "de": "Wilhelm Meisters Lehrjahre gilt als der klassische Prototyp des deutschen Bildungsromans.",
+        "ar": "تُعَدُّ رِوَايَةُ 'سَنَوَاتُ تَعَلُّمِ فِيلْهِلْم مَايْسْتَر' النَّمُوذَجَ الكَلَاسِيكِيَّ الأَصِيلَ لِرِوَايَةِ التَّنْشِئَةِ التَّكْوِينِيَّةِ الأَلْمَانِيَّةِ.",
+        "en": "Wilhelm Meister's Apprenticeship is regarded as the quintessential prototype of the German bildungsroman."
+      },
+      "image": "assets/svg/concept_bildungsroman.svg"
+    },
+    {
+      "id": "concept_leitmotiv",
+      "german": "das Leitmotiv",
+      "plural": "die Leitmotive",
+      "arabic": "الفِكْرَةُ الرَّئِيسَةُ المُتَكَرِّرَةُ (اللَّايتْمُوتِيف)",
+      "english": "leitmotif",
+      "example_sentence": {
+        "de": "In Thomas Manns Werken dient das musikalische Leitmotiv als subtiles strukturelles Bindeglied.",
+        "ar": "تَعْمَلُ الفِكْرَةُ المُتَكَرِّرَةُ (اللَّايتْمُوتِيف) فِي أَعْمَالِ تَوْمَاس مَان كَرَابِطٍ هَيْكَلِيٍّ بَلِيغٍ وَدَقِيقٍ.",
+        "en": "In the oeuvre of Thomas Mann, the musical leitmotif functions as a subtle structural unifying device."
+      },
+      "image": "assets/svg/concept_leitmotiv.svg"
+    },
+    {
+      "id": "concept_hybris",
+      "german": "die Hybris",
+      "plural": "-",
+      "arabic": "الصَّلَفُ المَأْسَاوِيُّ / الكِبْرِيَاءُ المُفْضِيَةُ لِلْهَلَاكِ",
+      "english": "tragic hubris",
+      "example_sentence": {
+        "de": "Die Hybris des tragischen Helden führt ihn unweigerlich in den unvermeidlichen Untergang.",
+        "ar": "تَقُودُ الكِبْرِيَاءُ القَاتِلَةُ (الهِيِبْرِيس) البَطَلَ التَّرَاجِيدِيَّ حَتْمًا نَحْوَ سُقُوطِهِ المَحْتُومِ.",
+        "en": "The tragic hubris of the hero inexorably steers him toward unavoidable ruin."
+      },
+      "image": "assets/svg/concept_hybris.svg"
+    },
+    {
+      "id": "concept_schicksalsdrama",
+      "german": "das Schicksalsdrama",
+      "plural": "die Schicksalsdramen",
+      "arabic": "دِرَامَا القَدَرِ المَحْتُومِ",
+      "english": "tragedy of fate",
+      "example_sentence": {
+        "de": "In Sophokles' König Ödipus vollzieht sich das Schicksalsdrama mit unerbittlicher logischer Härte.",
+        "ar": "فِي مَسْرَحِيَّةِ 'أُودِيب مَلِكًا' لِسُوفُوكْلِيس، تَتَحَقَّقُ دِرَامَا القَدَرِ بِصَرَامَةٍ مَنْطِقِيَّةٍ لَا تَرْحَمُ.",
+        "en": "In Sophocles' Oedipus Rex, the tragedy of fate unfolds with inexorable, relentless logic."
+      },
+      "image": "assets/svg/concept_schicksalsdrama.svg"
+    },
+    {
+      "id": "concept_intertextualitaet",
+      "german": "die Intertextualität",
+      "plural": "die Intertextualitäten",
+      "arabic": "التَّنَاصُّ الأَدَبِيُّ",
+      "english": "literary intertextuality",
+      "example_sentence": {
+        "de": "Postmoderne Romane leben von permanenter Intertextualität und bewussten Verweisen auf frühere Epochen.",
+        "ar": "تَقُومُ رِوَايَاتُ مَا بَعْدَ الحَدَاثَةِ عَلَى التَّنَاصِّ الدَّائِمِ وَالإِحَالَاتِ الوَاعِيَةِ إِلَى نُصُوصِ العُصُورِ السَّابِقَةِ.",
+        "en": "Postmodern novels thrive on pervasive intertextuality and deliberate cross-references to past literary epochs."
+      },
+      "image": "assets/svg/concept_intertextualitaet.svg"
+    },
+    {
+      "id": "concept_magischer_realismus",
+      "german": "der magische Realismus",
+      "plural": "-",
+      "arabic": "الوَاقِعِيَّةُ السِّحْرِيَّةُ",
+      "english": "magic realism",
+      "example_sentence": {
+        "de": "Gabriel García Márquez verschmolz im magischen Realismus alltägliche Realität mit übernatürlichen Elementen.",
+        "ar": "دَمَجَ غَابْرِيِيل غَارْسِيَا مَارْكِيز فِي الوَاقِعِيَّةِ السِّحْرِيَّةِ بَيْنَ تَفَاصِيلِ الوَاقِعِ اليَوْمِيِّ وَالعَنَاصِرِ الخَارِقَةِ لِلطَّبِيعَةِ.",
+        "en": "Gabriel García Márquez fused mundane reality with supernatural dimensions in magic realism."
+      },
+      "image": "assets/svg/concept_magischer_realismus.svg"
+    },
+    {
+      "id": "concept_dystopie",
+      "german": "die Dystopie",
+      "plural": "die Dystopien",
+      "arabic": "أَدَبُ المَدِينَةِ الفَاسِدَةِ (الدِّيِسْتُوبِيَا)",
+      "english": "dystopian literature",
+      "example_sentence": {
+        "de": "Orwells 1984 schuf das archetypische Modell einer totalitären Überwachungs-Dystopie.",
+        "ar": "أَسَّسَتْ رِوَايَةُ أُورْوِيل '1984' النَّمُوذَجَ البَدْئِيَّ لِدِيِسْتُوبِيَا الرَّقَابَةِ الشُّمُولِيَّةِ المُطْلَقَةِ.",
+        "en": "Orwell's 1984 established the archetypal architecture of a totalitarian surveillance dystopia."
+      },
+      "image": "assets/svg/concept_dystopie.svg"
+    },
+    {
+      "id": "concept_allegorie",
+      "german": "die Allegorie",
+      "plural": "die Allegorien",
+      "arabic": "المَجَازُ التَّمْثِيلِيُّ (الأَلِّيجُورْيَا)",
+      "english": "allegory",
+      "example_sentence": {
+        "de": "Dantes Göttliche Komödie ist eine tiefgründige theologische und philosophische Allegorie des menschlichen Lebensweges.",
+        "ar": "تُمَثِّلُ 'الكُومِيدْيَا الإِلَهِيَّةُ' لِدَانْتِي أَلِّيجُورْيَا لَاهُوتِيَّةً وَفَلْسَفِيَّةً عَمِيقَةً لِمَسَارِ الرِّحْلَةِ الإِنْسَانِيَّةِ.",
+        "en": "Dante's Divine Comedy is a profound theological and philosophical allegory of human spiritual ascent."
+      },
+      "image": "assets/svg/concept_allegorie.svg"
+    },
+    {
+      "id": "concept_hermeneutik_lit",
+      "german": "die Hermeneutik",
+      "plural": "die Hermeneutiken",
+      "arabic": "الهِرْمِينُوطِيقَا (نَظَرِيَّةُ التَّأْوِيلِ وَالفَهْمِ الأَدَبِيِّ)",
+      "english": "literary hermeneutics",
+      "example_sentence": {
+        "de": "Die literarische Hermeneutik erforscht die Bedingungen und Grenzen des Textverstehens im historischen Wandel.",
+        "ar": "تَبْحَثُ الهِرْمِينُوطِيقَا الأَدَبِيَّةُ فِي شُرُوطِ وَحُدُودِ فَهْمِ النُّصُوصِ عَبْرَ التَّحَوُّلَاتِ التَّارِيخِيَّةِ.",
+        "en": "Literary hermeneutics explores the conditions and thresholds of textual comprehension across historical epochs."
+      },
+      "image": "assets/svg/concept_hermeneutik_lit.svg"
+    },
+    {
+      "id": "concept_soliloquium_monolog",
+      "german": "der Monolog",
+      "plural": "die Monologe",
+      "arabic": "المُنَاجَاةُ المَسْرَحِيَّةُ الفَرْدِيَّةُ (السُّولِيلُوكِي)",
+      "english": "dramatic soliloquy / monologue",
+      "example_sentence": {
+        "de": "Hamlets berühmter Monolog 'Sein oder Nichtsein' offenbart die existentielle Zerrissenheit des modernen Subjekts.",
+        "ar": "تَكْشِفُ مُنَاجَاةُ هَامْلِت الشَّهِيرَةُ 'أَنْ أَكُونَ أَوْ لَا أَكُونَ' عَنِ التَّمَزُّقِ الوُجُودِيِّ لِلذَّاتِ الحَدِيثَةِ.",
+        "en": "Hamlet's renowned soliloquy 'To be or not to be' exposes the existential fracture of modern subjectivity."
+      },
+      "image": "assets/svg/concept_soliloquium_monolog.svg"
+    },
+    {
+      "id": "concept_verfremdungseffekt",
+      "german": "der Verfremdungseffekt",
+      "plural": "die Verfremdungseffekte",
+      "arabic": "أَثَرُ التَّغْرِيبِ المَسْرَحِيِّ (بِرِيخْت)",
+      "english": "estrangement effect (alienation effect)",
+      "example_sentence": {
+        "de": "Brecht nutzte den Verfremdungseffekt, um das Publikum zur kritischen Reflexion statt zur bloßen Einfühlung zu bewegen.",
+        "ar": "اسْتَخْدَمَ بِرِيخْت أَثَرَ التَّغْرِيبِ لِدَفْعِ الجُمْهُورِ نَحْوَ التَّأَمُّلِ النَّقْدِيِّ عِوَضًا عَنِ التَّمَاهِي العَاطِفِيِّ الأَعْمَى.",
+        "en": "Brecht employed the estrangement effect to spur spectators toward critical reflection rather than passive empathy."
+      },
+      "image": "assets/svg/concept_verfremdungseffekt.svg"
+    },
+    {
+      "id": "concept_metrik_poetik",
+      "german": "die Metrik",
+      "plural": "die Metriken",
+      "arabic": "عِلْمُ العَرُوضِ وَالمِعْمَارِ الإِيقَاعِيِّ لِلشِّعْرِ",
+      "english": "metrics and poetic scansion",
+      "example_sentence": {
+        "de": "Der jambische Fünfheber prägte als Blankvers das klassische Drama von Shakespeare bis Schiller.",
+        "ar": "شَكَّلَ بَحْرُ الإِيَامْبِ الخُمَاسِيُّ (الشِّعْرُ المُرْسَلُ) الهَيْكَلَ الإِيقَاعِيَّ لِلدِّرَامَا الكَلَاسِيكِيَّةِ مِنْ شِكْسْبِير إِلَى شِيلَّر.",
+        "en": "The iambic pentameter established itself as blank verse across classical drama from Shakespeare to Schiller."
+      },
+      "image": "assets/svg/concept_metrik_poetik.svg"
+    },
+    {
+      "id": "concept_prosagedicht",
+      "german": "das Prosagedicht",
+      "plural": "die Prosagedichte",
+      "arabic": "قَصِيدَةُ النَّثْرِ",
+      "english": "prose poem",
+      "example_sentence": {
+        "de": "Baudelaire revolutionierte die moderne Lyrik, indem er das Prosagedicht als vollwertige Kunstform etablierte.",
+        "ar": "أَحْدَثَ بُودْلِير ثَوْرَةً فِي الشِّعْرِ الحَدِيثِ عَبْرَ تَأْسِيسِ قَصِيدَةِ النَّثْرِ كَشَكْلٍ فَنِّيٍّ كَامِلِ السِّيَادَةِ.",
+        "en": "Baudelaire revolutionized modern lyricism by establishing the prose poem as an autonomous artistic genre."
+      },
+      "image": "assets/svg/concept_prosagedicht.svg"
+    },
+    {
+      "id": "concept_schelmenroman",
+      "german": "der Schelmenroman",
+      "plural": "die Schelmenromane",
+      "arabic": "الرِّوَايَةُ الصُّعْلُوكِيَّةُ (البِيكَارِسْكِيَّة)",
+      "english": "picaresque novel",
+      "example_sentence": {
+        "de": "Der Schelmenroman entlarvt gesellschaftliche Missstände durch die Perspektive eines schelmischen Außenseiters.",
+        "ar": "تَفْضَحُ الرِّوَايَةُ الصُّعْلُوكِيَّةُ عُيُوبَ المُجْتَمَعِ عَبْرَ عَيْنَيْ شَخْصٍ هَامِشِيٍّ مَرِحٍ وَحَاذِقٍ.",
+        "en": "The picaresque novel exposes societal hypocrisies through the vantage point of a roguish outsider."
+      },
+      "image": "assets/svg/concept_schelmenroman.svg"
+    },
+    {
+      "id": "concept_narrativ_grand",
+      "german": "das Narrativ",
+      "plural": "die Narrative",
+      "arabic": "السَّرْدِيَّةُ الكُبْرَى",
+      "english": "grand narrative (meta-narrative)",
+      "example_sentence": {
+        "de": "Jean-François Lyotard definierte die Postmoderne als das Ende der universellen Meta-Narrative.",
+        "ar": "عَرَّفَ جَان فْرَانْسُوَا لِيُوتَار مَا بَعْدَ الحَدَاثَةِ بِأَنَّهَا نِهَايَةُ السَّرْدِيَّاتِ الكُبْرَى الشَّامِلَةِ.",
+        "en": "Jean-François Lyotard defined postmodernity as the crisis and exhaustion of universal metanarratives."
+      },
+      "image": "assets/svg/concept_narrativ_grand.svg"
+    },
+    {
+      "id": "concept_rezeptionsaesthetik",
+      "german": "die Rezeptionsästhetik",
+      "plural": "-",
+      "arabic": "جَمَالِيَّاتُ التَّلَقِّي (نَظَرِيَّةُ اسْتِجَابَةِ القَارِئِ)",
+      "english": "aesthetics of reception / reader-response theory",
+      "example_sentence": {
+        "de": "Nach der Rezeptionsästhetik der Konstanzer Schule vollendet erst der Leser die Leerstelle des literarischen Textes.",
+        "ar": "وَفْقًا لِجَمَالِيَّاتِ التَّلَقِّي لَدَى مَدْرَسَةِ كُونْسْتَانْس، فَإِنَّ القَارِئَ هُوَ مَنْ يَمْلَأُ فَرَغَاتِ النَّصِّ الأَدَبِيِّ وَيُكَمِّلُهُ.",
+        "en": "According to the aesthetics of reception, it is the reader who actively fills in the indeterminacies of the text."
+      },
+      "image": "assets/svg/concept_rezeptionsaesthetik.svg"
+    },
+    {
+      "id": "concept_das_erhabene",
+      "german": "das Erhabene",
+      "plural": "-",
+      "arabic": "الجَلِيلُ / المَهِيبُ فِي الفَلْسَفَةِ الجَمَالِيَّةِ (السَّامِي)",
+      "english": "the sublime",
+      "example_sentence": {
+        "de": "Das Erhabene erweckt laut Kant zugleich Ehrfurcht und Bewunderung angesichts unermesslicher Naturkräfte.",
+        "ar": "يُثِيرُ 'الجَلِيلُ' وَفْقًا لِكَانْط الرَّهْبَةَ وَالإِعْجَابَ مَعًا أَمَامَ قُوَى الطَّبِيعَةِ اللَّامُتَنَاهِيَةِ.",
+        "en": "The sublime, according to Kant, evokes simultaneous awe and terror in the face of limitless natural forces."
+      },
+      "image": "assets/svg/concept_das_erhabene.svg"
+    },
+    {
+      "id": "concept_mimesis",
+      "german": "die Mimesis",
+      "plural": "-",
+      "arabic": "المُحَاكَاةُ الفَنِّيَّةُ لِلْوَاقِعِ (المِيمِيسِيس)",
+      "english": "mimesis (artistic imitation of reality)",
+      "example_sentence": {
+        "de": "Auerbachs Monumentalwerk Mimesis verfolgt die Darstellung der Wirklichkeit in der abendländischen Literatur von Homer bis Woolf.",
+        "ar": "يَتَتَبَّعُ عَمَلُ أُورْبَاخ الخَالِدُ 'المُحَاكَاةُ' تَمْثِيلَ الوَاقِعِ فِي الأَدَبِ الغَرْبِيِّ مِنْ هُومِيرُوسَ إِلَى فِيرْجِينْيَا وُولْف.",
+        "en": "Auerbach's monumental work Mimesis traces the representation of reality in Western literature from Homer to Woolf."
+      },
+      "image": "assets/svg/concept_mimesis.svg"
+    },
+    {
+      "id": "concept_parabel_lit",
+      "german": "die Parabel",
+      "plural": "die Parabeln",
+      "arabic": "الأُمْثُولَةُ الرَّمْزِيَّةُ (الحِكَايَةُ المَثَلِيَّةُ)",
+      "english": "parable",
+      "example_sentence": {
+        "de": "Kafkas Vor dem Gesetz gilt als eine der rätselhaftesten und tiefsinnigsten Parabeln der Weltliteratur.",
+        "ar": "تُعَدُّ أُمْثُولَةُ كَافْكَا 'أَمَامَ القَانُونِ' وَاحِدَةً مِنْ أَكْثَرِ الحِكَايَاتِ المَثَلِيَّةِ غُمُوضًا وَعُمْقًا فِي الأَدَبِ العَالَمِيِّ.",
+        "en": "Kafka's Before the Law is considered one of the most enigmatic parables in world literature."
+      },
+      "image": "assets/svg/concept_parabel_lit.svg"
+    },
+    {
+      "id": "concept_archetyp_lit",
+      "german": "der Archetyp",
+      "plural": "die Archetypen",
+      "arabic": "النَّمُوذَجُ البَدْئِيُّ الأَصِيلُ",
+      "english": "archetype in universal mythology",
+      "example_sentence": {
+        "de": "Der Topos der Heldenreise ist ein kulturübergreifender Archetyp, der Mythen auf allen Kontinenten strukturiert.",
+        "ar": "تُمَثِّلُ رِحْلَةُ البَطَلِ نَمُوذَجًا بَدْئِيًّا عَابِرًا لِلثَّقَافَاتِ يُؤَطِّرُ الأَسَاطِيرَ فِي جَمِيعِ القَارَّاتِ.",
+        "en": "The hero's journey constitutes a cross-cultural archetype structuring mythologies across all continents."
+      },
+      "image": "assets/svg/concept_archetyp_lit.svg"
+    }
+  ]
+}

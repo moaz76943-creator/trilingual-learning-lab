@@ -8248,6 +8248,172 @@
         "Substantivierter Infinitiv im Akkusativ Neutrum 'das Denken'",
         "Adjektivdeklination Nominativ Maskulin"
       ]
+    },
+    {
+      "id": "sent_386",
+      "category": "ancient_tales",
+      "difficulty": "A1+",
+      "arabic": "القِصَّةُ القَدِيمَةُ تُعَلِّمُ الحِكْمَةَ لِلْأَجْيَالِ.",
+      "german": "Die alte Geschichte lehrt Weisheit den Generationen.",
+      "english": "The ancient story teaches wisdom to generations.",
+      "tokens": [
+        {
+          "word": "Die alte Geschichte",
+          "pos": "noun_phrase",
+          "ar": "القِصَّةُ القَدِيمَةُ"
+        },
+        {
+          "word": "lehrt",
+          "pos": "verb",
+          "ar": "تُعَلِّمُ"
+        },
+        {
+          "word": "Weisheit",
+          "pos": "noun",
+          "ar": "الحِكْمَةَ"
+        },
+        {
+          "word": "den Generationen",
+          "pos": "dative_noun",
+          "ar": "لِلْأَجْيَالِ (حالة الجر)"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Feminin Nominativ mit Adjektiv",
+        "Dativobjekt Plural 'den Generationen'",
+        "Akkusativobjekt 'Weisheit'"
+      ]
+    },
+    {
+      "id": "sent_387",
+      "category": "poetic_peace",
+      "difficulty": "A1+",
+      "arabic": "الشَّاعِرُ يَكْتُبُ قَصِيدَةً رَائِعَةً عَنِ السَّلَامِ.",
+      "german": "Der Dichter schreibt ein wunderbares Gedicht über den Frieden.",
+      "english": "The poet writes a wonderful poem about peace.",
+      "tokens": [
+        {
+          "word": "Der Dichter",
+          "pos": "noun",
+          "ar": "الشَّاعِرُ"
+        },
+        {
+          "word": "schreibt",
+          "pos": "verb",
+          "ar": "يَكْتُبُ"
+        },
+        {
+          "word": "ein wunderbares Gedicht",
+          "pos": "noun_phrase",
+          "ar": "قَصِيدَةً رَائِعَةً"
+        },
+        {
+          "word": "über den Frieden",
+          "pos": "preposition_phrase",
+          "ar": "عَنِ السَّلَامِ"
+        }
+      ],
+      "grammar_points": [
+        "Akkusativ Neutrum mit unbestimmtem Artikel",
+        "Präposition 'über' + Akkusativ Maskulin 'den Frieden'"
+      ]
+    },
+    {
+      "id": "sent_388",
+      "category": "classic_reading",
+      "difficulty": "A1+",
+      "arabic": "نَحْنُ نَقْرَأُ الكُتُبَ الكَلَاسِيكِيَّةَ بِشَغَفٍ كَبِيرٍ.",
+      "german": "Wir lesen die klassischen Bücher mit großer Leidenschaft.",
+      "english": "We read classic books with great passion.",
+      "tokens": [
+        {
+          "word": "Wir",
+          "pos": "pronoun",
+          "ar": "نَحْنُ"
+        },
+        {
+          "word": "lesen",
+          "pos": "verb",
+          "ar": "نَقْرَأُ"
+        },
+        {
+          "word": "die klassischen Bücher",
+          "pos": "noun_phrase",
+          "ar": "الكُتُبَ الكَلَاسِيكِيَّةَ"
+        },
+        {
+          "word": "mit großer Leidenschaft",
+          "pos": "preposition_phrase",
+          "ar": "بِشَغَفٍ كَبِيرٍ"
+        }
+      ],
+      "grammar_points": [
+        "Unregelmäßiges Verb 'lesen' im Plural",
+        "Präposition 'mit' + Dativ Feminin ohne Artikel 'großer Leidenschaft'"
+      ]
+    },
+    {
+      "id": "sent_389",
+      "category": "theater_scenes",
+      "difficulty": "A1+",
+      "arabic": "المَسْرَحُ يُقَدِّمُ مَشَاهِدَ تَارِيخِيَّةً مُؤَثِّرَةً.",
+      "german": "Das Theater präsentiert bewegende historische Szenen.",
+      "english": "The theater presents moving historical scenes.",
+      "tokens": [
+        {
+          "word": "Das Theater",
+          "pos": "noun",
+          "ar": "المَسْرَحُ"
+        },
+        {
+          "word": "präsentiert",
+          "pos": "verb",
+          "ar": "يُقَدِّمُ / يَعْرِضُ"
+        },
+        {
+          "word": "bewegende historische Szenen",
+          "pos": "noun_phrase",
+          "ar": "مَشَاهِدَ تَارِيخِيَّةً مُؤَثِّرَةً"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Neutrum Nominativ",
+        "Akkusativ Plural Feminin mit paralleler Adjektivendung '-e'"
+      ]
+    },
+    {
+      "id": "sent_390",
+      "category": "universal_humanity",
+      "difficulty": "A1+",
+      "arabic": "الأَدَبُ يَجْمَعُ الشُّعُوبَ حَوْلَ القِيَمِ الإِنْسَانِيَّةِ.",
+      "german": "Die Literatur verbindet Völker um menschliche Werte.",
+      "english": "Literature unites peoples around human values.",
+      "tokens": [
+        {
+          "word": "Die Literatur",
+          "pos": "noun",
+          "ar": "الأَدَبُ"
+        },
+        {
+          "word": "verbindet",
+          "pos": "verb",
+          "ar": "يَجْمَعُ / يُوَحِّدُ"
+        },
+        {
+          "word": "Völker",
+          "pos": "noun",
+          "ar": "الشُّعُوبَ"
+        },
+        {
+          "word": "um menschliche Werte",
+          "pos": "preposition_phrase",
+          "ar": "حَوْلَ القِيَمِ الإِنْسَانِيَّةِ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Feminin Nominativ",
+        "Präposition 'um' regiert Akkusativ Plural 'menschliche Werte'"
+      ]
     }
   ]
 }

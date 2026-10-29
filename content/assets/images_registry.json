@@ -32426,5 +32426,130 @@
     "file": "assets/svg/verb_demonisieren.svg",
     "category": "c2_verbs",
     "alt": "verb demonisieren"
+  },
+  "assets/svg/concept_schicksalsdrama.svg": {
+    "file": "assets/svg/concept_schicksalsdrama.svg",
+    "category": "world_literature",
+    "alt": "concept schicksalsdrama"
+  },
+  "assets/svg/concept_verfremdungseffekt.svg": {
+    "file": "assets/svg/concept_verfremdungseffekt.svg",
+    "category": "world_literature",
+    "alt": "concept verfremdungseffekt"
+  },
+  "assets/svg/concept_prosagedicht.svg": {
+    "file": "assets/svg/concept_prosagedicht.svg",
+    "category": "world_literature",
+    "alt": "concept prosagedicht"
+  },
+  "assets/svg/concept_schelmenroman.svg": {
+    "file": "assets/svg/concept_schelmenroman.svg",
+    "category": "world_literature",
+    "alt": "concept schelmenroman"
+  },
+  "assets/svg/concept_narrativ_grand.svg": {
+    "file": "assets/svg/concept_narrativ_grand.svg",
+    "category": "world_literature",
+    "alt": "concept narrativ grand"
+  },
+  "assets/svg/concept_das_erhabene.svg": {
+    "file": "assets/svg/concept_das_erhabene.svg",
+    "category": "world_literature",
+    "alt": "concept das erhabene"
+  },
+  "assets/svg/concept_leitmotiv.svg": {
+    "file": "assets/svg/concept_leitmotiv.svg",
+    "category": "world_literature",
+    "alt": "concept leitmotiv"
+  },
+  "assets/svg/concept_intertextualitaet.svg": {
+    "file": "assets/svg/concept_intertextualitaet.svg",
+    "category": "world_literature",
+    "alt": "concept intertextualitaet"
+  },
+  "assets/svg/concept_hermeneutik_lit.svg": {
+    "file": "assets/svg/concept_hermeneutik_lit.svg",
+    "category": "world_literature",
+    "alt": "concept hermeneutik lit"
+  },
+  "assets/svg/concept_parabel_lit.svg": {
+    "file": "assets/svg/concept_parabel_lit.svg",
+    "category": "world_literature",
+    "alt": "concept parabel lit"
+  },
+  "assets/svg/concept_magischer_realismus.svg": {
+    "file": "assets/svg/concept_magischer_realismus.svg",
+    "category": "world_literature",
+    "alt": "concept magischer realismus"
+  },
+  "assets/svg/concept_archetyp_lit.svg": {
+    "file": "assets/svg/concept_archetyp_lit.svg",
+    "category": "world_literature",
+    "alt": "concept archetyp lit"
+  },
+  "assets/svg/concept_bildungsroman.svg": {
+    "file": "assets/svg/concept_bildungsroman.svg",
+    "category": "world_literature",
+    "alt": "concept bildungsroman"
+  },
+  "assets/svg/concept_heldenepos.svg": {
+    "file": "assets/svg/concept_heldenepos.svg",
+    "category": "world_literature",
+    "alt": "concept heldenepos"
+  },
+  "assets/svg/concept_allegorie.svg": {
+    "file": "assets/svg/concept_allegorie.svg",
+    "category": "world_literature",
+    "alt": "concept allegorie"
+  },
+  "assets/svg/concept_rezeptionsaesthetik.svg": {
+    "file": "assets/svg/concept_rezeptionsaesthetik.svg",
+    "category": "world_literature",
+    "alt": "concept rezeptionsaesthetik"
+  },
+  "assets/svg/concept_soliloquium_monolog.svg": {
+    "file": "assets/svg/concept_soliloquium_monolog.svg",
+    "category": "world_literature",
+    "alt": "concept soliloquium monolog"
+  },
+  "assets/svg/concept_dystopie.svg": {
+    "file": "assets/svg/concept_dystopie.svg",
+    "category": "world_literature",
+    "alt": "concept dystopie"
+  },
+  "assets/svg/concept_katharsis.svg": {
+    "file": "assets/svg/concept_katharsis.svg",
+    "category": "world_literature",
+    "alt": "concept katharsis"
+  },
+  "assets/svg/concept_polyphonie.svg": {
+    "file": "assets/svg/concept_polyphonie.svg",
+    "category": "world_literature",
+    "alt": "concept polyphonie"
+  },
+  "assets/svg/concept_weltliteratur.svg": {
+    "file": "assets/svg/concept_weltliteratur.svg",
+    "category": "world_literature",
+    "alt": "concept weltliteratur"
+  },
+  "assets/svg/concept_hybris.svg": {
+    "file": "assets/svg/concept_hybris.svg",
+    "category": "world_literature",
+    "alt": "concept hybris"
+  },
+  "assets/svg/concept_metrik_poetik.svg": {
+    "file": "assets/svg/concept_metrik_poetik.svg",
+    "category": "world_literature",
+    "alt": "concept metrik poetik"
+  },
+  "assets/svg/concept_dramaturgie.svg": {
+    "file": "assets/svg/concept_dramaturgie.svg",
+    "category": "world_literature",
+    "alt": "concept dramaturgie"
+  },
+  "assets/svg/concept_mimesis.svg": {
+    "file": "assets/svg/concept_mimesis.svg",
+    "category": "world_literature",
+    "alt": "concept mimesis"
   }
 }
