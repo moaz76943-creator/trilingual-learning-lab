@@ -8414,6 +8414,171 @@
         "Subjekt Feminin Nominativ",
         "Präposition 'um' regiert Akkusativ Plural 'menschliche Werte'"
       ]
+    },
+    {
+      "id": "sent_391",
+      "category": "symbolism_light",
+      "difficulty": "A1+",
+      "arabic": "الشَّمْسُ تَرْمُزُ إِلَى الضَّوْءِ وَالحَيَاةِ.",
+      "german": "Die Sonne symbolisiert das Licht und das Leben.",
+      "english": "The sun symbolizes light and life.",
+      "tokens": [
+        {
+          "word": "Die Sonne",
+          "pos": "noun",
+          "ar": "الشَّمْسُ"
+        },
+        {
+          "word": "symbolisiert",
+          "pos": "verb",
+          "ar": "تَرْمُزُ إِلَى"
+        },
+        {
+          "word": "das Licht und das Leben",
+          "pos": "compound_noun_phrase",
+          "ar": "الضَّوْءَ وَالحَيَاةَ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Feminin Nominativ",
+        "Akkusativobjekt Neutrum 'das Licht und das Leben'"
+      ]
+    },
+    {
+      "id": "sent_392",
+      "category": "order_structure",
+      "difficulty": "A1+",
+      "arabic": "المُعَلِّمُ يُنَظِّمُ الأَفْكَارَ بِتَرْتِيبٍ وَاضِحٍ.",
+      "german": "Der Lehrer strukturiert die Ideen in klarer Ordnung.",
+      "english": "The teacher structures the ideas in clear order.",
+      "tokens": [
+        {
+          "word": "Der Lehrer",
+          "pos": "noun",
+          "ar": "المُعَلِّمُ"
+        },
+        {
+          "word": "strukturiert",
+          "pos": "verb",
+          "ar": "يُنَظِّمُ / يُهَيْكِلُ"
+        },
+        {
+          "word": "die Ideen",
+          "pos": "noun",
+          "ar": "الأَفْكَارَ"
+        },
+        {
+          "word": "in klarer Ordnung",
+          "pos": "preposition_phrase",
+          "ar": "بِتَرْتِيبٍ وَاضِحٍ"
+        }
+      ],
+      "grammar_points": [
+        "Akkusativ Plural 'die Ideen'",
+        "Präposition 'in' + Dativ Feminin ohne Artikel 'in klarer Ordnung'"
+      ]
+    },
+    {
+      "id": "sent_393",
+      "category": "narrative_adventure",
+      "difficulty": "A1+",
+      "arabic": "القِصَّةُ تَصْنَعُ حِكَايَةً مُثِيرَةً لِلْأَطْفَالِ.",
+      "german": "Die Geschichte narrativiert ein spannendes Abenteuer für Kinder.",
+      "english": "The story narrativizes an exciting adventure for children.",
+      "tokens": [
+        {
+          "word": "Die Geschichte",
+          "pos": "noun",
+          "ar": "القِصَّةُ"
+        },
+        {
+          "word": "narrativiert",
+          "pos": "verb",
+          "ar": "تَسْرُدُ / تَصْنَعُ حِكَايَةً"
+        },
+        {
+          "word": "ein spannendes Abenteuer",
+          "pos": "noun_phrase",
+          "ar": "مُغَامَرَةً مُثِيرَةً"
+        },
+        {
+          "word": "für Kinder",
+          "pos": "preposition_phrase",
+          "ar": "لِلْأَطْفَالِ"
+        }
+      ],
+      "grammar_points": [
+        "Akkusativ Neutrum mit Adjektiv",
+        "Präposition 'für' + Akkusativ Plural ohne Artikel"
+      ]
+    },
+    {
+      "id": "sent_394",
+      "category": "poetic_nature",
+      "difficulty": "A1+",
+      "arabic": "الشَّاعِرُ يُشَخِّصُ الطَّبِيعَةَ فِي شِعْرِهِ.",
+      "german": "Der Dichter personifiziert die Natur in seinem Gedicht.",
+      "english": "The poet personifies nature in his poem.",
+      "tokens": [
+        {
+          "word": "Der Dichter",
+          "pos": "noun",
+          "ar": "الشَّاعِرُ"
+        },
+        {
+          "word": "personifiziert",
+          "pos": "verb",
+          "ar": "يُشَخِّصُ"
+        },
+        {
+          "word": "die Natur",
+          "pos": "noun",
+          "ar": "الطَّبِيعَةَ"
+        },
+        {
+          "word": "in seinem Gedicht",
+          "pos": "preposition_phrase",
+          "ar": "فِي شِعْرِهِ"
+        }
+      ],
+      "grammar_points": [
+        "Akkusativ Feminin 'die Natur'",
+        "Präposition 'in' + Dativ Neutrum mit Possessivartikel 'seinem Gedicht'"
+      ]
+    },
+    {
+      "id": "sent_395",
+      "category": "good_words_connotation",
+      "difficulty": "A1+",
+      "arabic": "الكَلِمَةُ الطَّيِّبَةُ تَحْمِلُ مَعْنًى عَمِيقًا دَائِمًا.",
+      "german": "Das gute Wort konnotiert immer eine tiefe Bedeutung.",
+      "english": "The kind word always connotes a profound meaning.",
+      "tokens": [
+        {
+          "word": "Das gute Wort",
+          "pos": "noun_phrase",
+          "ar": "الكَلِمَةُ الطَّيِّبَةُ"
+        },
+        {
+          "word": "konnotiert",
+          "pos": "verb",
+          "ar": "تَحْمِلُ دَلَالَةً إِيحَائِيَّةً"
+        },
+        {
+          "word": "immer",
+          "pos": "adverb",
+          "ar": "دَائِمًا"
+        },
+        {
+          "word": "eine tiefe Bedeutung",
+          "pos": "noun_phrase",
+          "ar": "مَعْنًى عَمِيقًا"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Neutrum Nominativ mit Adjektiv",
+        "Akkusativ Feminin mit unbestimmtem Artikel 'eine tiefe Bedeutung'"
+      ]
     }
   ]
 }

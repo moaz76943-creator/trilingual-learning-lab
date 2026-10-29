@@ -1,0 +1,451 @@
+{
+  "category_id": "c2_narrative_structuralism_verbs_c2",
+  "category_title": {
+    "ar": "أفعال البنيوية السردية والتحليل السيميائي للميثولوجيا",
+    "de": "Narrative strukturalistische, semiotische und mythologische Verben",
+    "en": "C2 Narrative Structuralism & Mythological Semiotics Verbs"
+  },
+  "level": "C2",
+  "items": [
+    {
+      "id": "verb_mythisieren",
+      "german": "mythisieren",
+      "arabic": "يُؤَسْطِرُ / يُضْفِي طَابَعًا أُسْطُورِيًّا عَلَى الوَاقِعِ",
+      "english": "to mythicize or transfigure into myth",
+      "conjugation": {
+        "praesens": "er/sie/es mythisiert",
+        "praeteritum": "mythisierte",
+        "perfekt": "hat mythisiert"
+      },
+      "preposition": "zu + Dat / als + Akk",
+      "collocations": [
+        "historische Ereignisse mythisieren",
+        "politische Helden verklärend mythisieren"
+      ],
+      "example_sentence": {
+        "de": "Die nationalistische Geschichtsschreibung neigt dazu, reale historische Persönlichkeiten zu übermenschlichen Erlösern zu mythisieren.",
+        "ar": "تَمِيلُ الكِتَابَةُ التَّارِيخِيَّةُ القَوْمِيَّةُ إِلَى أَسْطَرَةِ الشَّخْصِيَّاتِ الوَاقِعِيَّةِ لِتُحَوِّلَهَا إِلَى مُخَلِّصِينَ فَوْقَ بَشَرِيِّينَ.",
+        "en": "Nationalist historiography tends to mythicize factual historical figures into superhuman saviors."
+      },
+      "image": "assets/svg/verb_mythisieren.svg"
+    },
+    {
+      "id": "verb_entmythisieren",
+      "german": "entmythisieren",
+      "arabic": "يُجَرِّدُ مِنَ الأُسْطُورَةِ / يُزِيلُ الطَّابَعَ الخُرَافِيَّ عَقْلَانِيًّا",
+      "english": "to demythologize critically",
+      "conjugation": {
+        "praesens": "er/sie/es entmythisiert",
+        "praeteritum": "entmythisierte",
+        "perfekt": "hat entmythisiert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "ideologische Narrative entmythisieren",
+        "religiöse Texte hermeneutisch entmythisieren"
+      ],
+      "example_sentence": {
+        "de": "Rudolf Bultmann unternahm den Versuch, theologische Glaubenssätze durch existenziale Interpretation radikal zu entmythisieren.",
+        "ar": "قَامَ رُودُولْف بُولْتْمَان بِمُحَاوَلَةٍ لِتَجْرِيدِ العَقَائِدِ اللَّاهُوتِيَّةِ مِنَ الأُسْطُورَةِ جَذْرِيًّا عَبْرَ التَّأْوِيلِ الوُجُودِيِّ.",
+        "en": "Rudolf Bultmann attempted to radically demythologize theological doctrines through existential interpretation."
+      },
+      "image": "assets/svg/verb_entmythisieren.svg"
+    },
+    {
+      "id": "verb_narrativieren",
+      "german": "narrativieren",
+      "arabic": "يُسَرْدِنُ / يُحَوِّلُ الوَقَائِعَ إِلَى حَبْكَةٍ قَصَصِيَّةٍ",
+      "english": "to narrativize historical events",
+      "conjugation": {
+        "praesens": "er/sie/es narrativiert",
+        "praeteritum": "narrativierte",
+        "perfekt": "hat narrativiert"
+      },
+      "preposition": "in + Dat",
+      "collocations": [
+        "fragmentarische Erinnerungen narrativieren",
+        "Erfahrungsinhalte kohärent narrativieren"
+      ],
+      "example_sentence": {
+        "de": "Das menschliche Bewusstsein narrativiert unzusammenhängende Sinneseindrücke zu einer schlüssigen Lebensgeschichte.",
+        "ar": "يُسَرْدِنُ الوَعْيُ البَشَرِيُّ الانْطِبَاعَاتِ الحِسِّيَّةَ المُتَفَرِّقَةَ لِيَصُوغَهَا فِي قِصَّةِ حَيَاةٍ مُتَمَاسِكَةٍ.",
+        "en": "Human consciousness narrativizes disconnected sensory impressions into a coherent biographical story."
+      },
+      "image": "assets/svg/verb_narrativieren.svg"
+    },
+    {
+      "id": "verb_allegorisieren",
+      "german": "allegorisieren",
+      "arabic": "يُؤَلْجِرُ / يَرْمُزُ تَمْثِيلِيًّا فِي صُورَةٍ مَجَازِيَّةٍ",
+      "english": "to allegorize",
+      "conjugation": {
+        "praesens": "er/sie/es allegorisiert",
+        "praeteritum": "allegorisierte",
+        "perfekt": "hat allegorisiert"
+      },
+      "preposition": "als + Akk",
+      "collocations": [
+        "moralische Tugenden allegorisieren",
+        "die Zeit als Sensenmann allegorisieren"
+      ],
+      "example_sentence": {
+        "de": "Mittelalterliche Dichter allegorisierten die vergängliche irdische Schönheit oft als verwelkende Rose.",
+        "ar": "أَلْجَرَ شُعَرَاءُ العُصُورِ الوُسْطَى الجَمَالَ الأَرْضِيَّ الزَّائِلَ رَمْزِيًّا فِي هَيْئَةِ وَرْدَةٍ تَذْبُلُ.",
+        "en": "Medieval poets often allegorized transient earthly beauty as a fading rose."
+      },
+      "image": "assets/svg/verb_allegorisieren.svg"
+    },
+    {
+      "id": "verb_symbolisieren",
+      "german": "symbolisieren",
+      "arabic": "يَرْمُزُ إِلَى / يُجَسِّدُ المَفْهُومَ رَمْزِيًّا",
+      "english": "to symbolize",
+      "conjugation": {
+        "praesens": "er/sie/es symbolisiert",
+        "praeteritum": "symbolisierte",
+        "perfekt": "hat symbolisiert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "universelle Werte symbolisieren",
+        "Frieden durch eine weiße Taube symbolisieren"
+      ],
+      "example_sentence": {
+        "de": "In der Ikonografie des antiken Theaters symbolisiert die Maske das unverrückbare Schicksal der Dramenfigur.",
+        "ar": "تَرْمُزُ الأَقْنِعَةُ فِي أَيْقُونُوغرَافِيَا المَسْرَحِ القَدِيمِ إِلَى القَدَرِ المَحْتُومِ لِشَخْصِيَّةِ الدِّرَامَا.",
+        "en": "In the iconography of ancient theater, the mask symbolizes the immutable fate of the dramatic persona."
+      },
+      "image": "assets/svg/verb_symbolisieren.svg"
+    },
+    {
+      "id": "verb_strukturieren",
+      "german": "strukturieren",
+      "arabic": "يُؤَطِّرُ بِنْيَوِيًّا / يُهَيْكِلُ العَلَاقَاتِ",
+      "english": "to structure systematically",
+      "conjugation": {
+        "praesens": "er/sie/es strukturiert",
+        "praeteritum": "strukturierte",
+        "perfekt": "hat strukturiert"
+      },
+      "preposition": "nach + Dat",
+      "collocations": [
+        "Textebenen hierarchisch strukturieren",
+        "Mythen nach binären Oppositionen strukturieren"
+      ],
+      "example_sentence": {
+        "de": "Claude Lévi-Strauss strukturierte Mythen indigener Völker anhand universaler Dualismen wie Natur und Kultur.",
+        "ar": "هَيْكَلَ كْلُود لِيفِي شْتْرُوس الأَسَاطِيرَ بِالاعْتِمَادِ عَلَى ثُنَائِيَّاتٍ كَوْنِيَّةٍ ضِدِّيَّةٍ كَالطَّبِيعَةِ وَالثَّقَافَةِ.",
+        "en": "Claude Lévi-Strauss structured indigenous myths using universal binary oppositions such as nature and culture."
+      },
+      "image": "assets/svg/verb_strukturieren.svg"
+    },
+    {
+      "id": "verb_dezentrieren",
+      "german": "dezentrieren",
+      "arabic": "يُزِيحُ عَنِ المَرْكَزِيَّةِ / يُخَلْخِلُ مَرْكَزَ النَّصِّ أَوِ المَعْنَى",
+      "english": "to decenter meaning or authority",
+      "conjugation": {
+        "praesens": "er/sie/es dezentriert",
+        "praeteritum": "dezentrierte",
+        "perfekt": "hat dezentriert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "das autonome Subjekt dezentrieren",
+        "die hegemoniale Erzählperspektive dezentrieren"
+      ],
+      "example_sentence": {
+        "de": "Die poststrukturalistische Philosophie dezentriert den Autor zugunsten eines endlosen Spiels der Signifikanten.",
+        "ar": "تُزِيحُ فَلْسَفَةُ مَا بَعْدَ البِنْيَوِيَّةِ المُؤَلِّفَ عَنِ المَرْكَزِ لِصَالِحِ تَدَفُّقٍ لَا نِهَائِيٍّ مِنَ الدَّوَالِّ.",
+        "en": "Poststructuralist philosophy decenters the author in favor of an endless play of signifiers."
+      },
+      "image": "assets/svg/verb_dezentrieren.svg"
+    },
+    {
+      "id": "verb_rekodieren",
+      "german": "rekodieren",
+      "arabic": "يُعِيدُ تَرْمِيزَ الشَّفْرَةِ الدَّلَالِيَّةِ السِّيمْيَائِيَّةِ",
+      "english": "to recode semiotic systems",
+      "conjugation": {
+        "praesens": "er/sie/es rekodiert",
+        "praeteritum": "rekodierte",
+        "perfekt": "hat rekodiert"
+      },
+      "preposition": "in + Akk",
+      "collocations": [
+        "kulturelle Codes subversiv rekodieren",
+        "Bedeutungsebenen rekodieren"
+      ],
+      "example_sentence": {
+        "de": "Die avantgardistische Lyrik rekodiert alltägliche Sprache, um ihr erstarrte Bedeutungen zu entreißen.",
+        "ar": "تُعِيدُ القَصِيدَةُ الطَّلِيعِيَّةُ تَرْمِيزَ اللُّغَةِ اليَوْمِيَّةِ لِتَنْتَزِعَ مِنْهَا مَعَانِيَهَا المُتَكَلِّسَةَ.",
+        "en": "Avant-garde poetry recodes everyday language to liberate it from ossified semantic connotations."
+      },
+      "image": "assets/svg/verb_rekodieren.svg"
+    },
+    {
+      "id": "verb_syntagmatisieren",
+      "german": "syntagmatisieren",
+      "arabic": "يَنْظِمُ فِي مُتَتَالِيَةٍ تَرْكِيبِيَّةٍ أُفُقِيَّةٍ (سِينْتَاغْمَاتِيًّا)",
+      "english": "to syntagmatize linearly",
+      "conjugation": {
+        "praesens": "er/sie/es syntagmatisiert",
+        "praeteritum": "syntagmatisierte",
+        "perfekt": "hat syntagmatisiert"
+      },
+      "preposition": "zu + Dat",
+      "collocations": [
+        "Satzglieder syntagmatisieren",
+        "Erzählsegmente zu Handlungssträngen verknüpfen"
+      ],
+      "example_sentence": {
+        "de": "In der Linguistik beschreibt man das Verknüpfen von Wörtern auf der Zeitachse als Syntagmatisieren.",
+        "ar": "يُوصَفُ رَبْطُ الكَلِمَاتِ عَلَى المِحْوَرِ الزَّمَنِيِّ الأُفُقِيِّ فِي اللِّسَانِيَّاتِ بِأَنَّهُ انْتِظَامٌ سِينْتَاغْمَاتِيٌّ.",
+        "en": "In linguistics, concatenating linguistic units along the temporal axis is termed syntagmatizing."
+      },
+      "image": "assets/svg/verb_syntagmatisieren.svg"
+    },
+    {
+      "id": "verb_paradigmatisieren",
+      "german": "paradigmatisieren",
+      "arabic": "يَصُوغُ فِي نَمُوذَجٍ اسْتِبْدَالِيٍّ رَأْسِيٍّ (بَارَادِيغْمَاتِيًّا)",
+      "english": "to paradigmatize along associative axes",
+      "conjugation": {
+        "praesens": "er/sie/es paradigmatisiert",
+        "praeteritum": "paradigmatisierte",
+        "perfekt": "hat paradigmatisiert"
+      },
+      "preposition": "nach + Dat",
+      "collocations": [
+        "Wortfelder paradigmatisieren",
+        "ästhetische Auswahlachsen paradigmatisieren"
+      ],
+      "example_sentence": {
+        "de": "Der Dichter paradigmatisiert Synonyme im mentalen Lexikon, bevor er das treffendste Wort auswählt.",
+        "ar": "يَسْتَعْرِضُ الشَّاعِرُ المُتَرَادِفَاتِ بَارَادِيغْمَاتِيًّا فِي مُعْجَمِهِ الذِّهْنِيِّ قَبْلَ اخْتِيَارِ اللَّفْظِ الأَبْلَغِ.",
+        "en": "The poet paradigmatizes synonyms within the mental lexicon before selecting the optimal word."
+      },
+      "image": "assets/svg/verb_paradigmatisieren.svg"
+    },
+    {
+      "id": "verb_konnotieren",
+      "german": "konnotieren",
+      "arabic": "يَحْمِلُ دَلَالَاتٍ إِيحَائِيَّةً مُصَاحِبَةً (مَعْنًى ضِمْنِيًّا)",
+      "english": "to connote supplementary meanings",
+      "conjugation": {
+        "praesens": "er/sie/es konnotiert",
+        "praeteritum": "konnotierte",
+        "perfekt": "hat konnotiert"
+      },
+      "preposition": "mit + Dat",
+      "collocations": [
+        "positive Wertungen konnotieren",
+        "kulturell negativ konnotiert sein"
+      ],
+      "example_sentence": {
+        "de": "Der Begriff 'Heimat' ist im deutschen Sprachraum emotional und historisch hochgradig komplex konnotiert.",
+        "ar": "تَحْمِلُ كَلِمَةُ 'الوَطَنِ' (هَايْمَات) فِي الفَضَاءِ اللُّغَوِيِّ الأَلْمَانِيِّ دَلَالَاتٍ عاطِفِيَّةً وَتَارِيخِيَّةً شَدِيدَةَ التَّعْقِيدِ.",
+        "en": "The term 'Heimat' in the German language area connotes highly intricate emotional and historical nuances."
+      },
+      "image": "assets/svg/verb_konnotieren.svg"
+    },
+    {
+      "id": "verb_denotieren",
+      "german": "denotieren",
+      "arabic": "يَدُلُّ عَلَى المَعْنَى المَرْجِعِيِّ الحَرْفِيِّ الم奇بَاشِرِ",
+      "english": "to denote literally",
+      "conjugation": {
+        "praesens": "er/sie/es denotiert",
+        "praeteritum": "denotierte",
+        "perfekt": "hat denotiert"
+      },
+      "preposition": "als + Akk",
+      "collocations": [
+        "den wörtlichen Gegenstand denotieren",
+        "die primäre begriffliche Referenz denotieren"
+      ],
+      "example_sentence": {
+        "de": "Während das Wort 'Fuchs' zoologisch ein Säugetier denotiert, konnotiert es metaphorisch oft Schläue.",
+        "ar": "بَيْنَمَا يَدُلُّ لَفْظُ 'الثَّعْلَبِ' حَرْفِيًّا عَلَى حَيَوَانٍ ثَدْيِيٍّ، فَإِنَّهُ يَحْمِلُ مَجَازِيًّا إِيحَاءً بِالمَكْرِ.",
+        "en": "While the word 'fox' denotes a zoological mammal, it metaphorically connotes cunning."
+      },
+      "image": "assets/svg/verb_denotieren.svg"
+    },
+    {
+      "id": "verb_figurieren",
+      "german": "figurieren",
+      "arabic": "يُصَوِّرُ بَيَانِيًّا / يُمَثِّلُ مَجَازِيًّا أَوْ شَكْلِيًّا",
+      "english": "to figure or symbolize figuratively",
+      "conjugation": {
+        "praesens": "er/sie/es figuriert",
+        "praeteritum": "figurierte",
+        "perfekt": "hat figuriert"
+      },
+      "preposition": "als + Akk",
+      "collocations": [
+        "als zentrale Metapher figurieren",
+        "in den Akten als Hauptzeuge figurieren"
+      ],
+      "example_sentence": {
+        "de": "Das Labyrinth figuriert im Werk von Borges als metaphysisches Sinnbild der unendlichen Weltordnung.",
+        "ar": "تَتَصَوَّرُ المَتَاهَةُ فِي أَدَبِ بُورْخِيس كَرَمْزٍ مِيتَافِيزِيقِيٍّ شَامِلٍ لِلنِّظَامِ الكَوْنِيِّ اللَّامُتَنَاهِي.",
+        "en": "The labyrinth figures in the work of Borges as a metaphysical emblem of infinite cosmic order."
+      },
+      "image": "assets/svg/verb_figurieren.svg"
+    },
+    {
+      "id": "verb_personifizieren",
+      "german": "personifizieren",
+      "arabic": "يُشَخِّصُ / يَخْلَعُ الصِّفَاتِ الإِنْسَانِيَّةَ عَلَى المَعْنَوِيَّاتِ",
+      "english": "to personify",
+      "conjugation": {
+        "praesens": "er/sie/es personifiziert",
+        "praeteritum": "personifizierte",
+        "perfekt": "hat personifiziert"
+      },
+      "preposition": "in + Dat",
+      "collocations": [
+        "die Justiz als blinde Göttin personifizieren",
+        "Naturkräfte personifizieren"
+      ],
+      "example_sentence": {
+        "de": "In der Barocklyrik wird der Tod häufig als unerbittlicher Schnitter personifiziert.",
+        "ar": "يُشَخَّصُ المَوْتُ فِي شِعْرِ البَارُوكِ كَثِيرًا فِي هَيْئَةِ حَصَّادٍ صَارِمٍ لَا يَرْحَمُ.",
+        "en": "In Baroque lyricism, death is frequently personified as an inexorable grim reaper."
+      },
+      "image": "assets/svg/verb_personifizieren.svg"
+    },
+    {
+      "id": "verb_fiktionalisieren",
+      "german": "fiktionalisieren",
+      "arabic": "يُخَيِّلُ / يُحَوِّلُ السِّيرَةَ الوَاقِعِيَّةَ إِلَى حَبْكَةٍ رِوَائِيَّةٍ",
+      "english": "to fictionalize real events",
+      "conjugation": {
+        "praesens": "er/sie/es fiktionalisiert",
+        "praeteritum": "fiktionalisierte",
+        "perfekt": "hat fiktionalisiert"
+      },
+      "preposition": "in + Dat",
+      "collocations": [
+        "biografische Episoden fiktionalisieren",
+        "historische Krisen literarisch fiktionalisieren"
+      ],
+      "example_sentence": {
+        "de": "Der Schriftsteller fiktionalisierte das tragische Schicksal seiner Vorfahren zu einem gefeierten Bestseller.",
+        "ar": "حَوَّلَ الكَاتِبُ المَصِيرَ التَّرَاجِيدِيَّ لِأَسْلَافِهِ تَخْيِيلِيًّا إِلَى رِوَايَةٍ أَدَبِيَّةٍ شَهِيرَةٍ.",
+        "en": "The author fictionalized the tragic fate of his ancestors into an acclaimed literary bestseller."
+      },
+      "image": "assets/svg/verb_fiktionalisieren.svg"
+    },
+    {
+      "id": "verb_resemantisieren",
+      "german": "resemantisieren",
+      "arabic": "يُعِيدُ شَحْنَ اللَّفْظِ بِدَلَالَةٍ سِيمْيَائِيَّةٍ جَدِيدَةٍ",
+      "english": "to resemantize with novel meaning",
+      "conjugation": {
+        "praesens": "er/sie/es resemantisiert",
+        "praeteritum": "resemantisierte",
+        "perfekt": "hat resemantisiert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "archaische Begriffe resemantisieren",
+        "Mythen im modernen Kontext resemantisieren"
+      ],
+      "example_sentence": {
+        "de": "Kafkas Erzählungen resemantisieren biblische Motive, indem sie ihnen jede tröstende metaphysische Erlösung entziehen.",
+        "ar": "تُعِيدُ نُصُوصُ كَافْكَا شَحْنَ الزَّخَارِفِ التَّوْرَاتِيَّةِ سِيمْيَائِيًّا عَبْرَ تَجْرِيدِهَا مِنْ أَيِّ خَلَاصٍ مِيتَافِيزِيقِيٍّ مُعَزٍّ.",
+        "en": "Kafka's prose resemantizes biblical motifs by divesting them of any consoling metaphysical redemption."
+      },
+      "image": "assets/svg/verb_resemantisieren.svg"
+    },
+    {
+      "id": "verb_stratifizieren",
+      "german": "stratifizieren",
+      "arabic": "يُرَتِّبُ فِي طَبَقَاتٍ دَلَالِيَّةٍ مُتَرَاكِمَةٍ (تَطْبِيق دَلَالِيّ)",
+      "english": "to stratify into semantic layers",
+      "conjugation": {
+        "praesens": "er/sie/es stratifiziert",
+        "praeteritum": "stratifizierte",
+        "perfekt": "hat stratifiziert"
+      },
+      "preposition": "nach + Dat",
+      "collocations": [
+        "Bedeutungsschichten stratifizieren",
+        "soziale Diskursräume stratifizieren"
+      ],
+      "example_sentence": {
+        "de": "James Joyce stratifiziert den Text des Ulysses in unzählige mythologische, historische und sprachliche Schichten.",
+        "ar": "يُرَتِّبُ جِيمْس جُويْس نَصَّ 'يُولِيسِيس' فِي طَبَقَاتٍ دَلَالِيَّةٍ مُتَرَاكِمَةٍ تَمْزُجُ بَيْنَ الأُسْطُورَةِ وَالتَّارِيخِ وَاللُّغَةِ.",
+        "en": "James Joyce stratifies the text of Ulysses into countless mythological, historical, and linguistic layers."
+      },
+      "image": "assets/svg/verb_stratifizieren.svg"
+    },
+    {
+      "id": "verb_temporalisieren",
+      "german": "temporalisieren",
+      "arabic": "يُزَمِّنُ / يُخْضِعُ البِنْيَةَ لِمَسَارِ الزَّمَنِ السَّرْدِيِّ",
+      "english": "to temporalize narrative events",
+      "conjugation": {
+        "praesens": "er/sie/es temporalisiert",
+        "praeteritum": "temporalisierte",
+        "perfekt": "hat temporalisiert"
+      },
+      "preposition": "in + Dat",
+      "collocations": [
+        "statische Bilder temporalisiere",
+        "Erzählzeit und erzählte Zeit differenziert temporalisiere"
+      ],
+      "example_sentence": {
+        "de": "Marcel Proust temporalisiert das Erinnern, indem er die scheinbar verlorene Zeit im Schreiben wiederauferstehen lässt.",
+        "ar": "يُزَمِّنُ مَارْسِيل بُرُوسْت الذَّاكِرَةَ السَّرْدِيَّةَ عَبْرَ بَعْثِ الزَّمَنِ الضَّائِعِ فِي فِعْلِ الكِتَابَةِ.",
+        "en": "Marcel Proust temporalizes memory by resurrecting lost time within the act of narrative writing."
+      },
+      "image": "assets/svg/verb_temporalisieren.svg"
+    },
+    {
+      "id": "verb_spatialisieren",
+      "german": "spatialisieren",
+      "arabic": "يُمَوْضِعُ مَكَانِيًّا فِي فَضَاءِ الحِكَايَةِ",
+      "english": "to spatialize narrative concepts",
+      "conjugation": {
+        "praesens": "er/sie/es spatialisiert",
+        "praeteritum": "spatialisierte",
+        "perfekt": "hat spatialisiert"
+      },
+      "preposition": "in + Dat",
+      "collocations": [
+        "psychische Zustände räumlich spatialisiere",
+        "soziale Hierarchien im Bühnenbild spatialisiere"
+      ],
+      "example_sentence": {
+        "de": "Dostojewski spatialisiert das innere Gewissen Raskolnikows in den klaustrophobischen Zimmern von Sankt Petersburg.",
+        "ar": "يُمَوْضِعُ دُوسْتُويِفْسِكِي الصِّرَاعَ الدَّاخِلِيَّ لِرَاسْكُولْنِيكُوف مَكَانِيًّا فِي غُرَفِ سَانْت بُطْرُسْبُورْغ الخَانِقَةِ.",
+        "en": "Dostoevsky spatializes Raskolnikov's tormented conscience within the claustrophobic rooms of Saint Petersburg."
+      },
+      "image": "assets/svg/verb_spatialisieren.svg"
+    },
+    {
+      "id": "verb_typisieren",
+      "german": "typisieren",
+      "arabic": "يُنَمِّطُ / يَجْعَلُ الشَّخْصِيَّةَ نَمُوذَجًا اجْتِمَاعِيًّا أَوْ مَعْنَوِيًّا",
+      "english": "to typify socially or morally",
+      "conjugation": {
+        "praesens": "er/sie/es typisiert",
+        "praeteritum": "typisierte",
+        "perfekt": "hat typisiert"
+      },
+      "preposition": "als + Akk",
+      "collocations": [
+        "soziale Milieus typisieren",
+        "moralische Charaktereigenschaften typisieren"
+      ],
+      "example_sentence": {
+        "de": "Molière typisierte in seinen Komödien menschliche Schwächen wie den Geiz zu unvergesslichen Figuren.",
+        "ar": "نَمَّطَ مُولْيِير فِي مَسْرَحِيَّاتِهِ الكُومِيدِيَّةِ الرَّذَائِلَ الإِنْسَانِيَّةَ كَالبُخْلِ فِي شَخْصِيَّاتٍ خَالِدَةٍ.",
+        "en": "Molière typified human vices such as avarice into unforgettable archetypal characters."
+      },
+      "image": "assets/svg/verb_typisieren.svg"
+    }
+  ]
+}
