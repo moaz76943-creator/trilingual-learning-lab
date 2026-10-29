@@ -1,0 +1,336 @@
+{
+  "category_id": "tech_geopolitics_c1",
+  "category_title": {
+    "ar": "الجيوسياسة الرقمية العالمية والحوكمة التكنولوجية السيادية",
+    "de": "Globale digitale Geopolitik und souveräne Technologie-Governance",
+    "en": "Global Digital Geopolitics & Sovereign Tech Governance"
+  },
+  "level": "C1",
+  "items": [
+    {
+      "id": "concept_digitale_souveraenitaet",
+      "german": "die digitale Souveränität",
+      "plural": "die digitalen Souveränitäten",
+      "arabic": "السِّيَادَةُ الرَّقْمِيَّةُ",
+      "english": "digital sovereignty",
+      "example_sentence": {
+        "de": "Digitale Souveränität bedeutet die Fähigkeit eines Staates, seine digitale Infrastruktur und Datenflüsse autonom zu kontrollieren.",
+        "ar": "تَعْنِي السِّيَادَةُ الرَّقْمِيَّةُ قُدْرَةَ الدَّوْلَةِ عَلَى التَّحَكُّمِ المُسْتَقِلِّ فِي بِنْيَتِهَا التَّحْتِيَّةِ الرَّقْمِيَّةِ وَتَدَفُّقَاتِ بَيَانَاتِهَا.",
+        "en": "Digital sovereignty denotes the capacity of a nation to autonomously control its digital infrastructure and data flows."
+      },
+      "image": "assets/svg/concept_digitale_souveraenitaet.svg"
+    },
+    {
+      "id": "concept_technologiesouveraenitaet",
+      "german": "die Technologiesouveränität",
+      "plural": "die Technologiesouveränitäten",
+      "arabic": "السِّيَادَةُ التِّكْنُولُوجِيَّةُ",
+      "english": "technological sovereignty",
+      "example_sentence": {
+        "de": "Europas Streben nach Technologiesouveränität zielt darauf ab, einseitige Abhängigkeiten bei Schlüsseltechnologien abzubauen.",
+        "ar": "يَهْدِفُ سَعْيُ أُورُوبَّا نَحْوَ السِّيَادَةِ التِّكْنُولُوجِيَّةِ إِلَى تَفْكِيكِ التَّبَعِيَّاتِ أُحَادِيَّةِ الجَانِبِ فِي التِّقْنِيَّاتِ المِفْتَاحِيَّةِ.",
+        "en": "Europe's pursuit of technological sovereignty aims to reduce unilateral dependencies in key technologies."
+      },
+      "image": "assets/svg/concept_technologiesouveraenitaet.svg"
+    },
+    {
+      "id": "concept_halbleiterdiplomatie",
+      "german": "die Halbleiterdiplomatie",
+      "plural": "die Halbleiterdiplomatien",
+      "arabic": "دِبْلُومَاسِيَّةُ أَشْبَاهِ المُوصِلَاتِ",
+      "english": "semiconductor diplomacy",
+      "example_sentence": {
+        "de": "In der modernen Geopolitik entscheidet die Halbleiterdiplomatie über den Zugang zu fortschrittlichsten Mikrochips.",
+        "ar": "تُحَدِّدُ دِبْلُومَاسِيَّةُ أَشْبَاهِ المُوصِلَاتِ فِي الجِيُوسِيَاسَةِ الحَدِيثَةِ إِمْكَانِيَّةَ الوُصُولِ إِلَى الرَّقَائِقِ الإِلِكْتُرُونِيَّةِ الأَكْثَرِ تَقَدُّمًا.",
+        "en": "In contemporary geopolitics, semiconductor diplomacy determines access to the most advanced microchips."
+      },
+      "image": "assets/svg/concept_halbleiterdiplomatie.svg"
+    },
+    {
+      "id": "concept_strategische_autonomie",
+      "german": "die strategische Autonomie",
+      "plural": "die strategischen Autonomien",
+      "arabic": "الاسْتِقْلَالِيَّةُ الاسْتِرَاتِيجِيَّةُ",
+      "english": "strategic autonomy",
+      "example_sentence": {
+        "de": "Ohne eigene Cloud-Infrastrukturen bleibt die strategische Autonomie eines Staates eine leere Hülle.",
+        "ar": "تَبْقَى الاسْتِقْلَالِيَّةُ الاسْتِرَاتِيجِيَّةُ لِلدَّوْلَةِ شِعَارًا أَجْوَفَ دُونَ امْتِلَاكِ بُنًى تَحْتِيَّةٍ سَحَابِيَّةٍ سِيَادِيَّةٍ.",
+        "en": "Without indigenous cloud infrastructures, a nation's strategic autonomy remains an empty slogan."
+      },
+      "image": "assets/svg/concept_strategische_autonomie.svg"
+    },
+    {
+      "id": "concept_entkopplung",
+      "german": "die Entkopplung",
+      "plural": "die Entkopplungen",
+      "arabic": "فَكُّ الارْتِبَاطِ التِّكْنُولُوجِيِّ (الدِّيكَابْلِنْغ)",
+      "english": "technological decoupling",
+      "example_sentence": {
+        "de": "Die technologische Entkopplung zwischen Großmächten führt zur Fragmentierung globaler Lieferketten.",
+        "ar": "يُؤَدِّي فَكُّ الارْتِبَاطِ التِّكْنُولُوجِيِّ بَيْنَ القُوَى العُظْمَى إِلَى تَشَظِّي سَلَاسِلِ التَّوْرِيدِ العَالَمِيَّةِ.",
+        "en": "Technological decoupling between major powers leads to the fragmentation of global supply chains."
+      },
+      "image": "assets/svg/concept_entkopplung.svg"
+    },
+    {
+      "id": "concept_kritische_infrastruktur",
+      "german": "die kritische Infrastruktur",
+      "plural": "die kritischen Infrastrukturen",
+      "arabic": "البِنْيَةُ التَّحْتِيَّةُ الحَيَوِيَّةُ",
+      "english": "critical infrastructure",
+      "example_sentence": {
+        "de": "Cyberangriffe auf die kritische Infrastruktur wie Stromnetze gelten als existenzielle Bedrohung nationaler Sicherheit.",
+        "ar": "تُعَدُّ الهَجَمَاتُ السَّيْبِرَانِيَّةُ عَلَى البِنْيَةِ التَّحْتِيَّةِ الحَيَوِيَّةِ كَشَبَكَاتِ الكَهْرُبَاءِ تَهْدِيدًا وُجُودِيًّا لِلأَمْنِ القَوْمِيِّ.",
+        "en": "Cyberattacks on critical infrastructure such as power grids are regarded as existential threats to national security."
+      },
+      "image": "assets/svg/concept_kritische_infrastruktur.svg"
+    },
+    {
+      "id": "concept_cyberkriegsfuehrung",
+      "german": "die Cyberkriegsführung",
+      "plural": "die Cyberkriegsführungen",
+      "arabic": "الحَرْبُ السَّيْبِرَانِيَّةُ",
+      "english": "cyber warfare",
+      "example_sentence": {
+        "de": "Moderne Cyberkriegsführung zielt auf die Destabilisierung staatlicher Institutionen unterhalb der Kriegsschwelle.",
+        "ar": "تَسْتَهْدِفُ الحَرْبُ السَّيْبِرَانِيَّةُ الحَدِيثَةُ زَعْزَعَةَ اسْتِقْرَارِ مُؤَسَّسَاتِ الدَّوْلَةِ دُونَ بُلُوغِ عَتَبَةِ الحَرْبِ التَّقْلِيدِيَّةِ.",
+        "en": "Modern cyber warfare aims to destabilize state institutions below the traditional threshold of armed conflict."
+      },
+      "image": "assets/svg/concept_cyberkriegsfuehrung.svg"
+    },
+    {
+      "id": "concept_choke_point_monopol",
+      "german": "das Choke-Point-Monopol",
+      "plural": "die Choke-Point-Monopole",
+      "arabic": "احْتِكَارُ نِقَاطِ الاخْتِنَاقِ التِّقْنِيَّةِ",
+      "english": "technological choke-point monopoly",
+      "example_sentence": {
+        "de": "Durch das Monopol auf lithografische Extrem-Ultraviolett-Anlagen beherrscht ein einzelner Konzern einen globalen Choke Point.",
+        "ar": "مِنْ خِلَالِ احْتِكَارِ أَنْظِمَةِ الطِّبَاعَةِ الضَّوْئِيَّةِ بِالأَشِعَّةِ فَوْقَ البَنَفْسَجِيَّةِ، تُهَيْمِنُ شَرِكَةٌ وَاحِدَةٌ عَلَى نُقْطَةِ اخْتِنَاقٍ عَالَمِيَّةٍ.",
+        "en": "Through its monopoly on extreme ultraviolet lithography systems, a single corporation controls a global technological choke point."
+      },
+      "image": "assets/svg/concept_choke_point_monopol.svg"
+    },
+    {
+      "id": "concept_datennationalismus",
+      "german": "der Datennationalismus",
+      "plural": "die Datennationalismen",
+      "arabic": "القَوْمِيَّةُ البَيَانِيَّةُ (قَوْمِيَّةُ البَيَانَاتِ)",
+      "english": "data nationalism / data localization",
+      "example_sentence": {
+        "de": "Zunehmender Datennationalismus zwingt multinationale Konzerne, Serverfarmen strikt innerhalb nationaler Grenzen zu betreiben.",
+        "ar": "تَفْرِضُ القَوْمِيَّةُ البَيَانِيَّةُ المُتَصَاعِدَةُ عَلَى الشَّرِكَاتِ عَابِرَةِ القَارَّاتِ تَشْغِيلَ خَوَادِمِ البَيَانَاتِ حَصْرِيًّا دَاخِلَ الحُدُودِ الوَطَنِيَّةِ.",
+        "en": "Rising data nationalism forces multinational corporations to operate server farms strictly within national borders."
+      },
+      "image": "assets/svg/concept_datennationalismus.svg"
+    },
+    {
+      "id": "concept_plattformmacht",
+      "german": "die Plattformmacht",
+      "plural": "die Plattformmächte",
+      "arabic": "نُفُوذُ المَنَصَّاتِ الرَّقْمِيَّةِ العِمْلَاقَةِ",
+      "english": "platform power",
+      "example_sentence": {
+        "de": "Die Plattformmacht von Big-Tech-Konzernen fordert das klassische staatliche Monopol auf Rechtsdurchsetzung heraus.",
+        "ar": "يَتَحَدَّى نُفُوذُ المَنَصَّاتِ الرَّقْمِيَّةِ لِعَمَالِقَةِ التِّكْنُولُوجْيَا احْتِكَارَ الدَّوْلَةِ التَّقْلِيدِيَّ لِإِنْفَاذِ القَوَانِينِ.",
+        "en": "The platform power of Big Tech corporations challenges the traditional state monopoly on legal enforcement."
+      },
+      "image": "assets/svg/concept_plattformmacht.svg"
+    },
+    {
+      "id": "concept_exportkontrolle",
+      "german": "die Exportkontrolle",
+      "plural": "die Exportkontrollen",
+      "arabic": "مُرَاقَبَةُ الصَّادِرَاتِ التِّقْنِيَّةِ",
+      "english": "technology export controls",
+      "example_sentence": {
+        "de": "Strenge Exportkontrollen für hochentwickelte Grafikprozessoren dienen der Verlangsamung fremder militärischer KI-Fähigkeiten.",
+        "ar": "تُسْتَخْدَمُ مُرَاقَبَةُ الصَّادِرَاتِ الصَّارِمَةُ لِمُعَالِجَاتِ الرُّسُومِيَّاتِ المُتَقَدِّمَةِ لِإِبْطَاءِ القُدُرَاتِ العَسْكَرِيَّةِ لِلذَّكَاءِ الاصْطِنَاعِيِّ لَدَى الخُصُومِ.",
+        "en": "Strict export controls on advanced graphics processors are used to decelerate adversaries' military AI capabilities."
+      },
+      "image": "assets/svg/concept_exportkontrolle.svg"
+    },
+    {
+      "id": "concept_unterseekabelnetzwerk",
+      "german": "das Unterseekabelnetzwerk",
+      "plural": "die Unterseekabelnetzwerke",
+      "arabic": "شَبَكَةُ الكَابِلَاتِ البَحْرِيَّةِ لِلْبَيَانَاتِ",
+      "english": "undersea cable network",
+      "example_sentence": {
+        "de": "Mehr als 95 Prozent des weltweiten Internetverkehrs fließen durch das verwundbare Unterseekabelnetzwerk.",
+        "ar": "يَتَدَفَّقُ أَكْثَرُ مِنْ 95 بِالمِئَةِ مِنْ حَرَكَةِ الإِنْتَرْنِتِ العَالَمِيَّةِ عَبْرَ شَبَكَةِ الكَابِلَاتِ البَحْرِيَّةِ سَرِيعَةِ التَّأَثُّرِ.",
+        "en": "Over 95 percent of global internet traffic travels through the vulnerable undersea cable network."
+      },
+      "image": "assets/svg/concept_unterseekabelnetzwerk.svg"
+    },
+    {
+      "id": "concept_informationskrieg",
+      "german": "der Informationskrieg",
+      "plural": "die Informationskriege",
+      "arabic": "حَرْبُ المَعْلُومَاتِ وَالتَّضْلِيلِ",
+      "english": "information warfare",
+      "example_sentence": {
+        "de": "Im asymmetrischen Informationskrieg untergraben koordinierte Botnetze das Vertrauen der Bürger in demokratische Wahlen.",
+        "ar": "تُقَوِّضُ شَبَكَاتُ الحِسَابَاتِ الوَهْمِيَّةِ المُنَسَّقَةُ فِي حَرْبِ المَعْلُومَاتِ غَيْرِ المُتَنَاظِرَةِ ثِقَةَ المُواطِنِينَ فِي الانْتِخَابَاتِ الدِّيمُقْرَاطِيَّةِ.",
+        "en": "In asymmetric information warfare, coordinated bot networks undermine citizens' trust in democratic elections."
+      },
+      "image": "assets/svg/concept_informationskrieg.svg"
+    },
+    {
+      "id": "concept_ki_allianz",
+      "german": "die KI-Allianz",
+      "plural": "die KI-Allianzen",
+      "arabic": "تَحَالُفُ الذَّكَاءِ الاصْطِنَاعِيِّ الجِيُوسِيَاسِيُّ",
+      "english": "geopolitical AI alliance",
+      "example_sentence": {
+        "de": "Demokratische Staaten bilden eine KI-Allianz zur Definition ethischer und sicherheitspolitischer Standards.",
+        "ar": "تُشَكِّلُ الدُّوَلُ الدِّيمُقْرَاطِيَّةُ تَحَالُفًا لِلذَّكَاءِ الاصْطِنَاعِيِّ لِتَحْدِيدِ المَعَايِيرِ الأَخْلَاقِيَّةِ وَالأَمْنِيَّةِ لِلتَّطْوِيرِ.",
+        "en": "Democratic states form an AI alliance to establish ethical and security standards for deployment."
+      },
+      "image": "assets/svg/concept_ki_allianz.svg"
+    },
+    {
+      "id": "concept_technologische_resilienz",
+      "german": "die technologische Resilienz",
+      "plural": "die technologischen Resilienzen",
+      "arabic": "المُرُونَةُ التِّكْنُولُوجِيَّةُ",
+      "english": "technological resilience",
+      "example_sentence": {
+        "de": "Technologische Resilienz erfordert redundante Systeme und diversifizierte Zulieferer für essenzielle Komponenten.",
+        "ar": "تَتَطَلَّبُ المُرُونَةُ التِّكْنُولُوجِيَّةُ أَنْظِمَةً احْتِيَاطِيَّةً مُتَعَدِّدَةً وَمُوَرِّدِينَ مُتَنَوِّعِينَ لِلْمُكَوِّنَاتِ الجَوْهَرِيَّةِ.",
+        "en": "Technological resilience requires redundant systems and diversified suppliers for essential components."
+      },
+      "image": "assets/svg/concept_technologische_resilienz.svg"
+    },
+    {
+      "id": "concept_satellitenkonstellation",
+      "german": "die Satellitenkonstellation",
+      "plural": "die Satellitenkonstellationen",
+      "arabic": "الكَوْكَبَةُ السَّاتِلِيَّةُ المَدَارِيَّةُ",
+      "english": "low-Earth orbit satellite constellation",
+      "example_sentence": {
+        "de": "Private Satellitenkonstellationen im erdnahen Orbit garantieren krisenfeste Breitbandkommunikation in Kriegsgebieten.",
+        "ar": "تَضْمَنُ الكَوْكَبَاتُ السَّاتِلِيَّةُ الخَاصَّةُ فِي المَدَارِ المُنْخَفِضِ اتِّصَالَاتِ حُزْمَةٍ عَرِيضَةٍ صَامِدَةً فِي مَنَاطِقِ النِّزَاعِ.",
+        "en": "Private low-Earth orbit satellite constellations guarantee resilient broadband communication in conflict zones."
+      },
+      "image": "assets/svg/concept_satellitenkonstellation.svg"
+    },
+    {
+      "id": "concept_quantenwettrennen",
+      "german": "das Quantenwettrennen",
+      "plural": "die Quantenwettrennen",
+      "arabic": "سِبَاقُ التَّسَلُّحِ الكَمِّيِّ",
+      "english": "quantum supremacy race",
+      "example_sentence": {
+        "de": "Das globale Quantenwettrennen entscheidet darüber, welche Nation zuerst gegenwärtige Verschlüsselungen brechen kann.",
+        "ar": "يُحَدِّدُ سِبَاقُ التَّسَلُّحِ الكَمِّيِّ العَالَمِيُّ الدَّوْلَةَ الَّتِي سَتَتَمَكَّنُ أَوَّلًا مِنْ كَسْرِ أَنْظِمَةِ التَّشْفِيرِ الحَالِيَّةِ.",
+        "en": "The global quantum race will determine which nation can first break current cryptographic standards."
+      },
+      "image": "assets/svg/concept_quantenwettrennen.svg"
+    },
+    {
+      "id": "concept_internet_splitting",
+      "german": "das Internet-Splitting",
+      "plural": "die Internet-Splittings",
+      "arabic": "تَجْزِئَةُ الإِنْتَرْنِتِ (السِّبْلِينْتَرْنِت)",
+      "english": "splinternet / internet fragmentation",
+      "example_sentence": {
+        "de": "Nationale Firewalls und Zensurregime beschleunigen das Internet-Splitting in isolierte digitale Sphären.",
+        "ar": "تُسَرِّعُ جُدْرَانُ الحِمَايَةِ القَوْمِيَّةُ وَأَنْظِمَةُ الرَّقَابَةِ تَجْزِئَةَ الإِنْتَرْنِتِ إِلَى مَجَالَاتٍ رَقْمِيَّةٍ مَعْزُولَةٍ.",
+        "en": "National firewalls and censorship regimes accelerate splinternet fragmentation into isolated digital spheres."
+      },
+      "image": "assets/svg/concept_internet_splitting.svg"
+    },
+    {
+      "id": "concept_cyberabwehrbuendnis",
+      "german": "das Cyberabwehrbündnis",
+      "plural": "die Cyberabwehrbündnisse",
+      "arabic": "حِلْفُ الدِّفَاعِ السَّيْبِرَانِيِّ المُشْتَرَكِ",
+      "english": "collective cyber defense alliance",
+      "example_sentence": {
+        "de": "Ein Cyberabwehrbündnis verpflichtet die Partner zur sofortigen gemeinsamen Abwehr großangelegter digitaler Angriffe.",
+        "ar": "يُلْزِمُ حِلْفُ الدِّفَاعِ السَّيْبِرَانِيِّ الشُّرَكَاءَ بِالتَّصَدِّي الجَمَاعِيِّ الفَوْرِيِّ لِلْهَجَمَاتِ الرَّقْمِيَّةِ وَاسِعَةِ النِّطَاقِ.",
+        "en": "A cyber defense alliance obligates partners to mount an immediate collective defense against large-scale digital attacks."
+      },
+      "image": "assets/svg/concept_cyberabwehrbuendnis.svg"
+    },
+    {
+      "id": "concept_algorithmische_geopolitik",
+      "german": "die algorithmische Geopolitik",
+      "plural": "die algorithmischen Geopolitiken",
+      "arabic": "الجِيُوسِيَاسَةُ الخُوَارِزْمِيَّةُ",
+      "english": "algorithmic geopolitics",
+      "example_sentence": {
+        "de": "Die algorithmische Geopolitik analysiert, wie Empfehlungsalgorithmen Meinungsströme in fremden Nationen steuern.",
+        "ar": "تُحَلِّلُ الجِيُوسِيَاسَةُ الخُوَارِزْمِيَّةُ كَيْفِيَّةَ تَوْجِيهِ خُوَارِزْمِيَّاتِ التَّوْصِيَةِ لِتَيَّارَاتِ الرَّأْيِ العَامِّ فِي الدُّوَلِ الأُخْرَى.",
+        "en": "Algorithmic geopolitics analyzes how recommendation algorithms shape public opinion currents in foreign nations."
+      },
+      "image": "assets/svg/concept_algorithmische_geopolitik.svg"
+    },
+    {
+      "id": "concept_sanktionsarchitektur",
+      "german": "die Sanktionsarchitektur",
+      "plural": "die Sanktionsarchitekturen",
+      "arabic": "مِعْمَارِيَّةُ العُقُوبَاتِ التِّكْنُولُوجِيَّةِ",
+      "english": "technology sanctions architecture",
+      "example_sentence": {
+        "de": "Die neue Sanktionsarchitektur schneidet den Aggressor vom Zugang zu westlicher Hochtechnologie ab.",
+        "ar": "تَقْطَعُ مِعْمَارِيَّةُ العُقُوبَاتِ الجَدِيدَةُ إِمْكَانِيَّةَ وُصُولِ المُعْتَدِي إِلَى التِّقْنِيَّاتِ الغَرْبِيَّةِ الفَائِقَةِ.",
+        "en": "The new sanctions architecture cuts off the aggressor from access to advanced Western technology."
+      },
+      "image": "assets/svg/concept_sanktionsarchitektur.svg"
+    },
+    {
+      "id": "concept_digitales_grenzregime",
+      "german": "das digitale Grenzregime",
+      "plural": "die digitalen Grenzregime",
+      "arabic": "نِظَامُ الحُدُودِ الرَّقْمِيَّةِ",
+      "english": "digital border regime",
+      "example_sentence": {
+        "de": "Ein digitales Grenzregime filtert Datenströme an virtuellen Kontrollpunkten nach sicherheitspolitischen Kriterien.",
+        "ar": "يَقُومُ نِظَامُ الحُدُودِ الرَّقْمِيَّةِ بِفَلْتَرَةِ تَدَفُّقَاتِ البَيَانَاتِ عِنْدَ نِقَاطِ تَمْرِيرٍ افْتِرَاضِيَّةٍ وَفْقَ مَعَايِيرَ أَمْنِيَّةٍ.",
+        "en": "A digital border regime filters data flows at virtual checkpoints according to national security criteria."
+      },
+      "image": "assets/svg/concept_digitales_grenzregime.svg"
+    },
+    {
+      "id": "concept_cyberraum",
+      "german": "der Cyberraum",
+      "plural": "die Cyberräume",
+      "arabic": "الفَضَاءُ السَّيْبِرَانِيُّ",
+      "english": "cyberspace",
+      "example_sentence": {
+        "de": "Die NATO hat den Cyberraum offiziell als eigenständige militärische Operationsdomäne anerkannt.",
+        "ar": "اعْتَرَفَ حِلْفُ النَّاتُو رَسْمِيًّا بِالفَضَاءِ السَّيْبِرَانِيِّ كَمَجَالِ عَمَلِيَّاتٍ عَسْكَرِيَّةٍ مُسْتَقِلٍّ بِذَاتِهِ.",
+        "en": "NATO has officially recognized cyberspace as an independent military operational domain."
+      },
+      "image": "assets/svg/concept_cyberraum.svg"
+    },
+    {
+      "id": "concept_datensouveraenitaetsgesetz",
+      "german": "das Datensouveränitätsgesetz",
+      "plural": "die Datensouveränitätsgesetze",
+      "arabic": "قَانُونُ سِيَادَةِ البَيَانَاتِ",
+      "english": "data sovereignty law",
+      "example_sentence": {
+        "de": "Das neue Datensouveränitätsgesetz verbietet den Transfer sensibler Bürgerdaten in ungesicherte Drittstaaten.",
+        "ar": "يَحْظُرُ قَانُونُ سِيَادَةِ البَيَانَاتِ الجَدِيدُ نَقْلَ البَيَانَاتِ الحَسَّاسَةِ لِلْمُواطِنِينَ إِلَى دُوَلٍ ثَالِثَةٍ غَيْرِ آمِنَةٍ.",
+        "en": "The new data sovereignty act prohibits the transfer of sensitive citizen data to unsecured third countries."
+      },
+      "image": "assets/svg/concept_datensouveraenitaetsgesetz.svg"
+    },
+    {
+      "id": "concept_tech_krieg",
+      "german": "der Tech-Krieg",
+      "plural": "die Tech-Kriege",
+      "arabic": "الحَرْبُ التِّكْنُولُوجِيَّةُ",
+      "english": "tech war",
+      "example_sentence": {
+        "de": "Im globalen Tech-Krieg sind geistiges Eigentum und seltene Erden die entscheidenden strategischen Ressourcen.",
+        "ar": "تُمَثِّلُ المِلْكِيَّةُ الفِكْرِيَّةُ وَالعَنَاصِرُ الأَرْضِيَّةُ النَّادِرَةُ المَوَارِدَ الاسْتِرَاتِيجِيَّةَ الحَاسِمَةَ فِي الحَرْبِ التِّكْنُولُوجِيَّةِ العَالَمِيَّةِ.",
+        "en": "In the global tech war, intellectual property and rare earth elements constitute the critical strategic assets."
+      },
+      "image": "assets/svg/concept_tech_krieg.svg"
+    }
+  ]
+}

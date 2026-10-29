@@ -31486,5 +31486,130 @@
     "file": "assets/svg/verb_verifizieren.svg",
     "category": "dialectical_verbs",
     "alt": "verb verifizieren"
+  },
+  "assets/svg/concept_strategische_autonomie.svg": {
+    "file": "assets/svg/concept_strategische_autonomie.svg",
+    "category": "vocabulary",
+    "alt": "concept strategische autonomie"
+  },
+  "assets/svg/concept_technologiesouveraenitaet.svg": {
+    "file": "assets/svg/concept_technologiesouveraenitaet.svg",
+    "category": "tech_geopolitics",
+    "alt": "concept technologiesouveraenitaet"
+  },
+  "assets/svg/concept_halbleiterdiplomatie.svg": {
+    "file": "assets/svg/concept_halbleiterdiplomatie.svg",
+    "category": "vocabulary",
+    "alt": "concept halbleiterdiplomatie"
+  },
+  "assets/svg/concept_unterseekabelnetzwerk.svg": {
+    "file": "assets/svg/concept_unterseekabelnetzwerk.svg",
+    "category": "vocabulary",
+    "alt": "concept unterseekabelnetzwerk"
+  },
+  "assets/svg/concept_informationskrieg.svg": {
+    "file": "assets/svg/concept_informationskrieg.svg",
+    "category": "vocabulary",
+    "alt": "concept informationskrieg"
+  },
+  "assets/svg/concept_algorithmische_geopolitik.svg": {
+    "file": "assets/svg/concept_algorithmische_geopolitik.svg",
+    "category": "vocabulary",
+    "alt": "concept algorithmische geopolitik"
+  },
+  "assets/svg/concept_tech_krieg.svg": {
+    "file": "assets/svg/concept_tech_krieg.svg",
+    "category": "vocabulary",
+    "alt": "concept tech krieg"
+  },
+  "assets/svg/concept_kritische_infrastruktur.svg": {
+    "file": "assets/svg/concept_kritische_infrastruktur.svg",
+    "category": "vocabulary",
+    "alt": "concept kritische infrastruktur"
+  },
+  "assets/svg/concept_ki_allianz.svg": {
+    "file": "assets/svg/concept_ki_allianz.svg",
+    "category": "vocabulary",
+    "alt": "concept ki allianz"
+  },
+  "assets/svg/concept_choke_point_monopol.svg": {
+    "file": "assets/svg/concept_choke_point_monopol.svg",
+    "category": "vocabulary",
+    "alt": "concept choke point monopol"
+  },
+  "assets/svg/concept_exportkontrolle.svg": {
+    "file": "assets/svg/concept_exportkontrolle.svg",
+    "category": "vocabulary",
+    "alt": "concept exportkontrolle"
+  },
+  "assets/svg/concept_quantenwettrennen.svg": {
+    "file": "assets/svg/concept_quantenwettrennen.svg",
+    "category": "vocabulary",
+    "alt": "concept quantenwettrennen"
+  },
+  "assets/svg/concept_digitale_souveraenitaet.svg": {
+    "file": "assets/svg/concept_digitale_souveraenitaet.svg",
+    "category": "tech_geopolitics",
+    "alt": "concept digitale souveraenitaet"
+  },
+  "assets/svg/concept_internet_splitting.svg": {
+    "file": "assets/svg/concept_internet_splitting.svg",
+    "category": "vocabulary",
+    "alt": "concept internet splitting"
+  },
+  "assets/svg/concept_cyberabwehrbuendnis.svg": {
+    "file": "assets/svg/concept_cyberabwehrbuendnis.svg",
+    "category": "tech_geopolitics",
+    "alt": "concept cyberabwehrbuendnis"
+  },
+  "assets/svg/concept_digitales_grenzregime.svg": {
+    "file": "assets/svg/concept_digitales_grenzregime.svg",
+    "category": "vocabulary",
+    "alt": "concept digitales grenzregime"
+  },
+  "assets/svg/concept_plattformmacht.svg": {
+    "file": "assets/svg/concept_plattformmacht.svg",
+    "category": "vocabulary",
+    "alt": "concept plattformmacht"
+  },
+  "assets/svg/concept_cyberraum.svg": {
+    "file": "assets/svg/concept_cyberraum.svg",
+    "category": "tech_geopolitics",
+    "alt": "concept cyberraum"
+  },
+  "assets/svg/concept_sanktionsarchitektur.svg": {
+    "file": "assets/svg/concept_sanktionsarchitektur.svg",
+    "category": "vocabulary",
+    "alt": "concept sanktionsarchitektur"
+  },
+  "assets/svg/concept_entkopplung.svg": {
+    "file": "assets/svg/concept_entkopplung.svg",
+    "category": "vocabulary",
+    "alt": "concept entkopplung"
+  },
+  "assets/svg/concept_datennationalismus.svg": {
+    "file": "assets/svg/concept_datennationalismus.svg",
+    "category": "vocabulary",
+    "alt": "concept datennationalismus"
+  },
+  "assets/svg/concept_datensouveraenitaetsgesetz.svg": {
+    "file": "assets/svg/concept_datensouveraenitaetsgesetz.svg",
+    "category": "tech_geopolitics",
+    "alt": "concept datensouveraenitaetsgesetz"
+  },
+  "assets/svg/concept_technologische_resilienz.svg": {
+    "file": "assets/svg/concept_technologische_resilienz.svg",
+    "category": "vocabulary",
+    "alt": "concept technologische resilienz"
+  },
+  "assets/svg/concept_satellitenkonstellation.svg": {
+    "file": "assets/svg/concept_satellitenkonstellation.svg",
+    "category": "vocabulary",
+    "alt": "concept satellitenkonstellation"
+  },
+  "assets/svg/concept_cyberkriegsfuehrung.svg": {
+    "file": "assets/svg/concept_cyberkriegsfuehrung.svg",
+    "category": "tech_geopolitics",
+    "alt": "concept cyberkriegsfuehrung"
   }
 }

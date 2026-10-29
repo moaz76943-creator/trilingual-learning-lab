@@ -6581,6 +6581,171 @@
         "Akkusativ Plural 'beide Meinungen'",
         "Adverbialer Gebrauch von 'gerecht'"
       ]
+    },
+    {
+      "id": "sent_336",
+      "category": "digital_security",
+      "difficulty": "A1+",
+      "arabic": "الدَّوْلَةُ تَحْمِي البَيَانَاتِ الرَّقْمِيَّةَ بِقُوَّةٍ.",
+      "german": "Der Staat schützt die digitalen Daten stark.",
+      "english": "The state protects digital data strongly.",
+      "tokens": [
+        {
+          "word": "Der Staat",
+          "pos": "noun",
+          "ar": "الدَّوْلَةُ"
+        },
+        {
+          "word": "schützt",
+          "pos": "verb",
+          "ar": "تَحْمِي"
+        },
+        {
+          "word": "die digitalen Daten",
+          "pos": "noun_phrase",
+          "ar": "البَيَانَاتِ الرَّقْمِيَّةَ"
+        },
+        {
+          "word": "stark",
+          "pos": "adverb",
+          "ar": "بِقُوَّةٍ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt im Nominativ Maskulin",
+        "Akkusativ Plural 'die digitalen Daten'"
+      ]
+    },
+    {
+      "id": "sent_337",
+      "category": "infrastructure",
+      "difficulty": "A1+",
+      "arabic": "نَحْنُ نَحْتَاجُ إِلَى إِنْتَرْنِتٍ آمِنٍ لِلْجَمِيعِ.",
+      "german": "Wir brauchen ein sicheres Internet für alle.",
+      "english": "We need secure internet for everyone.",
+      "tokens": [
+        {
+          "word": "Wir",
+          "pos": "pronoun",
+          "ar": "نَحْنُ"
+        },
+        {
+          "word": "brauchen",
+          "pos": "verb",
+          "ar": "نَحْتَاجُ"
+        },
+        {
+          "word": "ein sicheres Internet",
+          "pos": "noun_phrase",
+          "ar": "إِنْتَرْنِتٍ آمِنٍ"
+        },
+        {
+          "word": "für alle",
+          "pos": "preposition_phrase",
+          "ar": "لِلْجَمِيعِ"
+        }
+      ],
+      "grammar_points": [
+        "Verb 'brauchen' + Akkusativ Neutrum",
+        "Präposition 'für' + Akkusativ"
+      ]
+    },
+    {
+      "id": "sent_338",
+      "category": "technology",
+      "difficulty": "A1+",
+      "arabic": "الشَّرِكَةُ تُطَوِّرُ تِكْنُولُوجْيَا حَدِيثَةً هُنَا.",
+      "german": "Die Firma entwickelt moderne Technologie hier.",
+      "english": "The company develops modern technology here.",
+      "tokens": [
+        {
+          "word": "Die Firma",
+          "pos": "noun",
+          "ar": "الشَّرِكَةُ"
+        },
+        {
+          "word": "entwickelt",
+          "pos": "verb",
+          "ar": "تُطَوِّرُ"
+        },
+        {
+          "word": "moderne Technologie",
+          "pos": "noun_phrase",
+          "ar": "تِكْنُولُوجْيَا حَدِيثَةً"
+        },
+        {
+          "word": "hier",
+          "pos": "adverb",
+          "ar": "هُنَا"
+        }
+      ],
+      "grammar_points": [
+        "Präsens 3. Person Singular",
+        "Adjektivdeklination ohne Artikel Feminin Akkusativ"
+      ]
+    },
+    {
+      "id": "sent_339",
+      "category": "law_regulation",
+      "difficulty": "A1+",
+      "arabic": "القَانُونُ يُنَظِّمُ اسْتِخْدَامَ الشَّبَكَاتِ.",
+      "german": "Das Gesetz regelt die Nutzung von Netzwerken.",
+      "english": "The law regulates the use of networks.",
+      "tokens": [
+        {
+          "word": "Das Gesetz",
+          "pos": "noun",
+          "ar": "القَانُونُ"
+        },
+        {
+          "word": "regelt",
+          "pos": "verb",
+          "ar": "يُنَظِّمُ"
+        },
+        {
+          "word": "die Nutzung",
+          "pos": "noun",
+          "ar": "اسْتِخْدَامَ"
+        },
+        {
+          "word": "von Netzwerken",
+          "pos": "preposition_phrase",
+          "ar": "الشَّبَكَاتِ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Neutrum Nominativ",
+        "Präposition 'von' + Dativ Plural"
+      ]
+    },
+    {
+      "id": "sent_340",
+      "category": "cooperation",
+      "difficulty": "A1+",
+      "arabic": "التَّعَاوُنُ الدَّوْلِيُّ يُعَزِّزُ الأَمْنَ الرَّقْمِيَّ.",
+      "german": "Die internationale Kooperation stärkt die Sicherheit.",
+      "english": "International cooperation strengthens security.",
+      "tokens": [
+        {
+          "word": "Die internationale Kooperation",
+          "pos": "noun_phrase",
+          "ar": "التَّعَاوُنُ الدَّوْلِيُّ"
+        },
+        {
+          "word": "stärkt",
+          "pos": "verb",
+          "ar": "يُعَزِّزُ / يُقَوِّي"
+        },
+        {
+          "word": "die Sicherheit",
+          "pos": "noun",
+          "ar": "الأَمْنَ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Feminin Nominativ",
+        "Akkusativ Feminin 'die Sicherheit'"
+      ]
     }
   ]
 }
