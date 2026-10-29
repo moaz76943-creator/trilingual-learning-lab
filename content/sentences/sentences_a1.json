@@ -7751,6 +7751,167 @@
         "Subjekt Feminin mit Adjektiv im Nominativ",
         "Akkusativ Maskulin mit bestimmtem Artikel und Adjektiv"
       ]
+    },
+    {
+      "id": "sent_371",
+      "category": "trilingual_fluency",
+      "difficulty": "A1+",
+      "arabic": "نَحْنُ نَتَحَدَّثُ ثَلَاثَ لُغَاتٍ بِفَخْرٍ.",
+      "german": "Wir sprechen drei Sprachen mit Stolz.",
+      "english": "We speak three languages with pride.",
+      "tokens": [
+        {
+          "word": "Wir",
+          "pos": "pronoun",
+          "ar": "نَحْنُ"
+        },
+        {
+          "word": "sprechen",
+          "pos": "verb",
+          "ar": "نَتَحَدَّثُ"
+        },
+        {
+          "word": "drei Sprachen",
+          "pos": "noun_phrase",
+          "ar": "ثَلَاثَ لُغَاتٍ"
+        },
+        {
+          "word": "mit Stolz",
+          "pos": "preposition_phrase",
+          "ar": "بِفَخْرٍ"
+        }
+      ],
+      "grammar_points": [
+        "Präsens 1. Person Plural",
+        "Akkusativ Plural 'drei Sprachen'",
+        "Präposition 'mit' + Dativ Maskulin 'Stolz'"
+      ]
+    },
+    {
+      "id": "sent_372",
+      "category": "offline_independence",
+      "difficulty": "A1+",
+      "arabic": "التَّطْبِيقُ يَعْمَلُ بِكُلِّ كَفَاءَةٍ دُونَ إِنْتَرْنِتٍ.",
+      "german": "Die App funktioniert einwandfrei ohne Internet.",
+      "english": "The app works flawlessly without internet.",
+      "tokens": [
+        {
+          "word": "Die App",
+          "pos": "noun",
+          "ar": "التَّطْبِيقُ"
+        },
+        {
+          "word": "funktioniert",
+          "pos": "verb",
+          "ar": "يَعْمَلُ"
+        },
+        {
+          "word": "einwandfrei",
+          "pos": "adverb",
+          "ar": "بِكُلِّ كَفَاءَةٍ / بِلَا عَيْبٍ"
+        },
+        {
+          "word": "ohne Internet",
+          "pos": "preposition_phrase",
+          "ar": "دُونَ إِنْتَرْنِتٍ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Feminin Nominativ",
+        "Präposition 'ohne' regiert immer Akkusativ"
+      ]
+    },
+    {
+      "id": "sent_373",
+      "category": "mastery_achievement",
+      "difficulty": "A1+",
+      "arabic": "المُتَعَلِّمُ يَصِلُ إِلَى مُسْتَوَى الإِتْقَانِ العَالِي.",
+      "german": "Der Lernende erreicht das hohe Niveau der Meisterschaft.",
+      "english": "The learner reaches the high level of mastery.",
+      "tokens": [
+        {
+          "word": "Der Lernende",
+          "pos": "nominalized_participle",
+          "ar": "المُتَعَلِّمُ"
+        },
+        {
+          "word": "erreicht",
+          "pos": "verb",
+          "ar": "يَصِلُ إِلَى / يُحَقِّقُ"
+        },
+        {
+          "word": "das hohe Niveau",
+          "pos": "noun_phrase",
+          "ar": "المُسْتَوَى العَالِيَ"
+        },
+        {
+          "word": "der Meisterschaft",
+          "pos": "genitive_noun",
+          "ar": "الإِتْقَانِ"
+        }
+      ],
+      "grammar_points": [
+        "Substantiviertes Partizip I",
+        "Akkusativ Neutrum mit Adjektiv",
+        "Genitivattribut Feminin 'der Meisterschaft'"
+      ]
+    },
+    {
+      "id": "sent_374",
+      "category": "pronunciation_clarity",
+      "difficulty": "A1+",
+      "arabic": "الصَّوْتُ الوَاضِحُ يُسَاعِدُ عَلَى النُّطْقِ الصَّحِيحِ.",
+      "german": "Die klare Stimme hilft bei der richtigen Aussprache.",
+      "english": "The clear voice helps with correct pronunciation.",
+      "tokens": [
+        {
+          "word": "Die klare Stimme",
+          "pos": "noun_phrase",
+          "ar": "الصَّوْتُ الوَاضِحُ"
+        },
+        {
+          "word": "hilft",
+          "pos": "verb",
+          "ar": "يُسَاعِدُ"
+        },
+        {
+          "word": "bei der richtigen Aussprache",
+          "pos": "preposition_phrase",
+          "ar": "عَلَى النُّطْقِ الصَّحِيحِ"
+        }
+      ],
+      "grammar_points": [
+        "Verb 'helfen' + Präposition 'bei' + Dativ Feminin mit Adjektivdeklination"
+      ]
+    },
+    {
+      "id": "sent_375",
+      "category": "perseverance_success",
+      "difficulty": "A1+",
+      "arabic": "العَزِيمَةُ وَالاسْتِمْرَارُ يُحَقِّقَانِ كُلَّ هَدَفٍ.",
+      "german": "Der Wille und die Ausdauer erreichen jedes Ziel.",
+      "english": "Will and perseverance achieve every goal.",
+      "tokens": [
+        {
+          "word": "Der Wille und die Ausdauer",
+          "pos": "compound_subject",
+          "ar": "العَزِيمَةُ وَالاسْتِمْرَارُ"
+        },
+        {
+          "word": "erreichen",
+          "pos": "verb",
+          "ar": "يُحَقِّقَانِ"
+        },
+        {
+          "word": "jedes Ziel",
+          "pos": "noun_phrase",
+          "ar": "كُلَّ هَدَفٍ"
+        }
+      ],
+      "grammar_points": [
+        "Zusammengesetztes Subjekt im Plural",
+        "Indefinitpronomen 'jedes' im Akkusativ Neutrum"
+      ]
     }
   ]
 }

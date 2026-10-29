@@ -32176,5 +32176,30 @@
     "file": "assets/svg/srs_brain_interval.svg",
     "category": "srs_engine",
     "alt": "srs brain interval"
+  },
+  "assets/svg/offline_audio_speaker.svg": {
+    "file": "assets/svg/offline_audio_speaker.svg",
+    "category": "vocabulary",
+    "alt": "offline audio speaker"
+  },
+  "assets/svg/gold_trophy_mastery.svg": {
+    "file": "assets/svg/gold_trophy_mastery.svg",
+    "category": "golden_milestone",
+    "alt": "gold trophy mastery"
+  },
+  "assets/svg/fluent_dialogue_bubbles.svg": {
+    "file": "assets/svg/fluent_dialogue_bubbles.svg",
+    "category": "vocabulary",
+    "alt": "fluent dialogue bubbles"
+  },
+  "assets/svg/trilingual_globe_stars.svg": {
+    "file": "assets/svg/trilingual_globe_stars.svg",
+    "category": "vocabulary",
+    "alt": "trilingual globe stars"
+  },
+  "assets/svg/dashboard_analytics_chart.svg": {
+    "file": "assets/svg/dashboard_analytics_chart.svg",
+    "category": "golden_milestone",
+    "alt": "dashboard analytics chart"
   }
 }

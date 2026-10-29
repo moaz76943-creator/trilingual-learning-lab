@@ -1,0 +1,20 @@
+{
+  "release": "The Grand Golden Release (Cycle 150)",
+  "edition": "Offline-First Trilingual Learning Flagship",
+  "languages": [
+    "Arabic (العربية)",
+    "German (Deutsch)",
+    "English"
+  ],
+  "metrics": {
+    "vocabulary_categories": 90,
+    "vocabulary_concepts": 2250,
+    "specialized_verb_engines": 24,
+    "specialized_verbs": 480,
+    "interactive_sentence_exercises": 375,
+    "registered_svg_vector_assets": 1031,
+    "spaced_repetition_system": "SuperMemo-2 (SM-2)",
+    "offline_audio_system": "Phonetic Local Coordinator"
+  },
+  "timestamp": "2026-10-29T07:40:00Z"
+}
