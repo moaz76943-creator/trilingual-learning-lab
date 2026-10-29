@@ -8579,6 +8579,172 @@
         "Subjekt Neutrum Nominativ mit Adjektiv",
         "Akkusativ Feminin mit unbestimmtem Artikel 'eine tiefe Bedeutung'"
       ]
+    },
+    {
+      "id": "sent_396",
+      "category": "natural_flow",
+      "difficulty": "A1+",
+      "arabic": "الحَيَاةُ تَسِيرُ بِانْسِيَابٍ فِي الطَّبِيعَةِ.",
+      "german": "Das Leben fließt mit natürlicher Leichtigkeit.",
+      "english": "Life flows with natural ease.",
+      "tokens": [
+        {
+          "word": "Das Leben",
+          "pos": "noun",
+          "ar": "الحَيَاةُ"
+        },
+        {
+          "word": "fließt",
+          "pos": "verb",
+          "ar": "تَسِيرُ / تَنْسَابُ"
+        },
+        {
+          "word": "mit natürlicher Leichtigkeit",
+          "pos": "preposition_phrase",
+          "ar": "بِانْسِيَابٍ / بِسُهُولَةٍ طَبِيعِيَّةٍ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Neutrum Nominativ",
+        "Präposition 'mit' + Dativ Feminin ohne Artikel 'natürlicher Leichtigkeit'"
+      ]
+    },
+    {
+      "id": "sent_397",
+      "category": "silent_peace",
+      "difficulty": "A1+",
+      "arabic": "التَّأَمُّلُ الهَادِئُ يَجْلِبُ السَّلَامَ لِلرُّوحِ.",
+      "german": "Die stille Meditation bringt Frieden der Seele.",
+      "english": "Silent meditation brings peace to the soul.",
+      "tokens": [
+        {
+          "word": "Die stille Meditation",
+          "pos": "noun_phrase",
+          "ar": "التَّأَمُّلُ الهَادِئُ"
+        },
+        {
+          "word": "bringt",
+          "pos": "verb",
+          "ar": "يَجْلِبُ"
+        },
+        {
+          "word": "Frieden",
+          "pos": "noun",
+          "ar": "السَّلَامَ"
+        },
+        {
+          "word": "der Seele",
+          "pos": "dative_noun",
+          "ar": "لِلرُّوحِ (حالة الجر)"
+        }
+      ],
+      "grammar_points": [
+        "Adjektivdeklination Nominativ Feminin",
+        "Dativobjekt 'der Seele'",
+        "Akkusativobjekt 'Frieden'"
+      ]
+    },
+    {
+      "id": "sent_398",
+      "category": "open_wisdom",
+      "difficulty": "A1+",
+      "arabic": "نَحْنُ نَفْهَمُ العَالَمَ بِعَقْلٍ حَكِيمٍ وَمَفْتُوحٍ.",
+      "german": "Wir verstehen die Welt mit weisem und offenem Geist.",
+      "english": "We understand the world with a wise and open mind.",
+      "tokens": [
+        {
+          "word": "Wir",
+          "pos": "pronoun",
+          "ar": "نَحْنُ"
+        },
+        {
+          "word": "verstehen",
+          "pos": "verb",
+          "ar": "نَفْهَمُ"
+        },
+        {
+          "word": "die Welt",
+          "pos": "noun",
+          "ar": "العَالَمَ"
+        },
+        {
+          "word": "mit weisem und offenem Geist",
+          "pos": "preposition_phrase",
+          "ar": "بِعَقْلٍ حَكِيمٍ وَمَفْتُوحٍ"
+        }
+      ],
+      "grammar_points": [
+        "Akkusativ Feminin 'die Welt'",
+        "Präposition 'mit' + Dativ Maskulin ohne Artikel mit parallelen Adjektiven"
+      ]
+    },
+    {
+      "id": "sent_399",
+      "category": "righteous_path",
+      "difficulty": "A1+",
+      "arabic": "الصَّبْرُ الجَمِيلُ يَهْدِي الإِنْسَانَ إِلَى الطَّرِيقِ الصَّحِيحِ.",
+      "german": "Die schöne Geduld führt den Menschen auf den rechten Weg.",
+      "english": "Beautiful patience guides the person to the right path.",
+      "tokens": [
+        {
+          "word": "Die schöne Geduld",
+          "pos": "noun_phrase",
+          "ar": "الصَّبْرُ الجَمِيلُ"
+        },
+        {
+          "word": "führt",
+          "pos": "verb",
+          "ar": "يَهْدِي / يَقُودُ"
+        },
+        {
+          "word": "den Menschen",
+          "pos": "noun",
+          "ar": "الإِنْسَانَ (مفعول به مذكر)"
+        },
+        {
+          "word": "auf den rechten Weg",
+          "pos": "preposition_phrase",
+          "ar": "إِلَى الطَّرِيقِ الصَّحِيحِ"
+        }
+      ],
+      "grammar_points": [
+        "Akkusativ Maskulin n-Deklination 'den Menschen'",
+        "Richtungsausdruck 'auf' + Akkusativ Maskulin"
+      ]
+    },
+    {
+      "id": "sent_400",
+      "category": "four_hundred_milestone",
+      "difficulty": "A1+",
+      "arabic": "الأَرْبَعُمِائَةُ جُمْلَةٍ تَبْنِي أَسَاسَ اللُّغَاتِ الثَّلَاثِ.",
+      "german": "Vierhundert Sätze bauen das Fundament der drei Sprachen.",
+      "english": "Four hundred sentences build the foundation of the three languages.",
+      "tokens": [
+        {
+          "word": "Vierhundert Sätze",
+          "pos": "noun_phrase",
+          "ar": "الأَرْبَعُمِائَةُ جُمْلَةٍ"
+        },
+        {
+          "word": "bauen",
+          "pos": "verb",
+          "ar": "تَبْنِي"
+        },
+        {
+          "word": "das Fundament",
+          "pos": "noun",
+          "ar": "أَسَاسَ"
+        },
+        {
+          "word": "der drei Sprachen",
+          "pos": "genitive_noun",
+          "ar": "اللُّغَاتِ الثَّلَاثِ"
+        }
+      ],
+      "grammar_points": [
+        "Plural Subjekt mit Zahlwort",
+        "Genitivattribut Plural 'der drei Sprachen'"
+      ]
     }
   ]
 }

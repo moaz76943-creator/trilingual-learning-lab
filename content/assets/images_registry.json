@@ -32651,5 +32651,130 @@
     "file": "assets/svg/verb_konnotieren.svg",
     "category": "c2_structuralism_verbs",
     "alt": "verb konnotieren"
+  },
+  "assets/svg/concept_advaita_vedanta.svg": {
+    "file": "assets/svg/concept_advaita_vedanta.svg",
+    "category": "eastern_philosophies",
+    "alt": "concept advaita vedanta"
+  },
+  "assets/svg/concept_hermetik_philosophie.svg": {
+    "file": "assets/svg/concept_hermetik_philosophie.svg",
+    "category": "eastern_philosophies",
+    "alt": "concept hermetik philosophie"
+  },
+  "assets/svg/concept_kundalini_energie.svg": {
+    "file": "assets/svg/concept_kundalini_energie.svg",
+    "category": "eastern_philosophies",
+    "alt": "concept kundalini energie"
+  },
+  "assets/svg/concept_moksha.svg": {
+    "file": "assets/svg/concept_moksha.svg",
+    "category": "eastern_philosophies",
+    "alt": "concept moksha"
+  },
+  "assets/svg/concept_zen_buddhismus.svg": {
+    "file": "assets/svg/concept_zen_buddhismus.svg",
+    "category": "eastern_philosophies",
+    "alt": "concept zen buddhismus"
+  },
+  "assets/svg/concept_vier_edle_wahrheiten.svg": {
+    "file": "assets/svg/concept_vier_edle_wahrheiten.svg",
+    "category": "eastern_philosophies",
+    "alt": "concept vier edle wahrheiten"
+  },
+  "assets/svg/concept_konfuzianismus.svg": {
+    "file": "assets/svg/concept_konfuzianismus.svg",
+    "category": "eastern_philosophies",
+    "alt": "concept konfuzianismus"
+  },
+  "assets/svg/concept_universalitaet_des_seins.svg": {
+    "file": "assets/svg/concept_universalitaet_des_seins.svg",
+    "category": "eastern_philosophies",
+    "alt": "concept universalitaet des seins"
+  },
+  "assets/svg/concept_wu_wei.svg": {
+    "file": "assets/svg/concept_wu_wei.svg",
+    "category": "eastern_philosophies",
+    "alt": "concept wu wei"
+  },
+  "assets/svg/concept_samsara.svg": {
+    "file": "assets/svg/concept_samsara.svg",
+    "category": "eastern_philosophies",
+    "alt": "concept samsara"
+  },
+  "assets/svg/concept_maya_illusion.svg": {
+    "file": "assets/svg/concept_maya_illusion.svg",
+    "category": "eastern_philosophies",
+    "alt": "concept maya illusion"
+  },
+  "assets/svg/concept_prinzip_der_analogie.svg": {
+    "file": "assets/svg/concept_prinzip_der_analogie.svg",
+    "category": "eastern_philosophies",
+    "alt": "concept prinzip der analogie"
+  },
+  "assets/svg/concept_pietaet_xiao.svg": {
+    "file": "assets/svg/concept_pietaet_xiao.svg",
+    "category": "eastern_philosophies",
+    "alt": "concept pietaet xiao"
+  },
+  "assets/svg/concept_atman.svg": {
+    "file": "assets/svg/concept_atman.svg",
+    "category": "eastern_philosophies",
+    "alt": "concept atman"
+  },
+  "assets/svg/concept_dharma.svg": {
+    "file": "assets/svg/concept_dharma.svg",
+    "category": "eastern_philosophies",
+    "alt": "concept dharma"
+  },
+  "assets/svg/concept_dao_taoismus.svg": {
+    "file": "assets/svg/concept_dao_taoismus.svg",
+    "category": "eastern_philosophies",
+    "alt": "concept dao taoismus"
+  },
+  "assets/svg/concept_karma.svg": {
+    "file": "assets/svg/concept_karma.svg",
+    "category": "eastern_philosophies",
+    "alt": "concept karma"
+  },
+  "assets/svg/concept_prana_lebensenergie.svg": {
+    "file": "assets/svg/concept_prana_lebensenergie.svg",
+    "category": "eastern_philosophies",
+    "alt": "concept prana lebensenergie"
+  },
+  "assets/svg/concept_yin_und_yang.svg": {
+    "file": "assets/svg/concept_yin_und_yang.svg",
+    "category": "eastern_philosophies",
+    "alt": "concept yin und yang"
+  },
+  "assets/svg/concept_nirwana.svg": {
+    "file": "assets/svg/concept_nirwana.svg",
+    "category": "eastern_philosophies",
+    "alt": "concept nirwana"
+  },
+  "assets/svg/concept_satori_erleuchtung.svg": {
+    "file": "assets/svg/concept_satori_erleuchtung.svg",
+    "category": "eastern_philosophies",
+    "alt": "concept satori erleuchtung"
+  },
+  "assets/svg/concept_shunyata_leere.svg": {
+    "file": "assets/svg/concept_shunyata_leere.svg",
+    "category": "eastern_philosophies",
+    "alt": "concept shunyata leere"
+  },
+  "assets/svg/concept_samadhi_absorption.svg": {
+    "file": "assets/svg/concept_samadhi_absorption.svg",
+    "category": "eastern_philosophies",
+    "alt": "concept samadhi absorption"
+  },
+  "assets/svg/concept_brahman.svg": {
+    "file": "assets/svg/concept_brahman.svg",
+    "category": "eastern_philosophies",
+    "alt": "concept brahman"
+  },
+  "assets/svg/concept_koan_zen.svg": {
+    "file": "assets/svg/concept_koan_zen.svg",
+    "category": "eastern_philosophies",
+    "alt": "concept koan zen"
   }
 }

@@ -1,0 +1,336 @@
+{
+  "category_id": "eastern_philosophies_c2",
+  "category_title": {
+    "ar": "الفلسفات الشرقية ونظرية المعرفة الفيدية والتقاليد الهرمسية",
+    "de": "Vergleichende östliche Philosophie, vedische Epistemologie und hermetische Traditionen",
+    "en": "Comparative Eastern Thought, Vedic Epistemology & Hermetic Traditions"
+  },
+  "level": "C2",
+  "items": [
+    {
+      "id": "concept_dao_taoismus",
+      "german": "das Dao (Tao)",
+      "plural": "-",
+      "arabic": "الطَّاوُ (المَسَارُ وَالجَوْهَرُ الأَسْمَى لِلْوُجُودِ)",
+      "english": "the Dao / Tao (the primordial source and path of reality)",
+      "example_sentence": {
+        "de": "Im Daodejing wird das Dao als der unaussprechliche Urgrund aller Erscheinungen beschrieben.",
+        "ar": "يُوصَفُ الطَّاوُ فِي كِتَابِ 'الطَّاو دُو جِينغ' بِأَنَّهُ الأَصْلُ الأَزَلِيُّ الَّذِي لَا يُحَدُّ بِاللَّفْظِ لِجَمِيعِ الظَّوَاهِرِ.",
+        "en": "In the Daodejing, the Dao is depicted as the ineffable primordial ground of all phenomena."
+      },
+      "image": "assets/svg/concept_dao_taoismus.svg"
+    },
+    {
+      "id": "concept_wu_wei",
+      "german": "das Wu Wei",
+      "plural": "-",
+      "arabic": "الوُو وِي (الفِعْلُ بِاللَّافِعْلِ / الانْسِيَابُ الطَّبِيعِيُّ بِلَا تَكَلُّفٍ)",
+      "english": "Wu Wei (effortless action / non-forcing)",
+      "example_sentence": {
+        "de": "Das Prinzip des Wu Wei lehrt, im Einklang mit den natürlichen Kräften zu handeln, anstatt künstlichen Widerstand zu leisten.",
+        "ar": "يُعَلِّمُ مَبْدَأُ 'الوُو وِي' أَنْ يَتَصَرَّفَ المَرْءُ بِتَنَاغُمٍ تَامٍّ مَعَ قُوَى الطَّبِيعَةِ عِوَضًا عَنْ مُقَاوَمَتِهَا بِتَكَلُّفٍ.",
+        "en": "The doctrine of Wu Wei teaches acting in harmony with natural currents rather than exerting artificial resistance."
+      },
+      "image": "assets/svg/concept_wu_wei.svg"
+    },
+    {
+      "id": "concept_karma",
+      "german": "das Karma",
+      "plural": "-",
+      "arabic": "الكconfigَارْمَا (قَانُونُ الفِعْلِ وَالجَزَاءِ الكَوْنِيِّ)",
+      "english": "karma (law of moral cause and effect)",
+      "example_sentence": {
+        "de": "Im indischen Denken bestimmt das Gesetz des Karma die Bedingungen zukünftiger Existenzen unerbittlich.",
+        "ar": "يُحَدِّدُ قَانُونُ الكَارْمَا فِي الفِكْرِ الهِنْدِيِّ ظُرُوفَ الحَيَاةِ المُسْتَقْبَلِيَّةِ لِلْكَائِنِ بِعَدَالَةٍ صَارِمَةٍ.",
+        "en": "In Indian thought, the law of karma inexorably dictates the circumstances of future existence."
+      },
+      "image": "assets/svg/concept_karma.svg"
+    },
+    {
+      "id": "concept_samsara",
+      "german": "das Samsara",
+      "plural": "-",
+      "arabic": "السَّامْسَارَا (دَوْرَةُ التَّنَاسُخِ وَالتَّكْرَارِ الوُجُودِيِّ)",
+      "english": "samsara (cycle of rebirth and transience)",
+      "example_sentence": {
+        "de": "Samsara bezeichnet den leidvollen Kreislauf des Werdens, Vergehens und Wiedergeborenwerdens.",
+        "ar": "تَدُلُّ السَّامْسَارَا عَلَى الدَّوْرَةِ المَلِيئَةِ بِالمُعَانَاةِ لِلنُّشُوءِ وَالفَنَاءِ وَإِعَادَةِ الوِلَادَةِ فِي العَالَمِ المَادِّيِّ.",
+        "en": "Samsara denotes the sorrowful wheel of birth, decay, and reincarnation."
+      },
+      "image": "assets/svg/concept_samsara.svg"
+    },
+    {
+      "id": "concept_moksha",
+      "german": "das Moksha",
+      "plural": "-",
+      "arabic": "المُوكْشَا (التَّحَرُّرُ الرُّوحِيُّ التَّامُّ وَالانْعِتَاقُ الأَبَدِيُّ)",
+      "english": "moksha (spiritual liberation from cyclical existence)",
+      "example_sentence": {
+        "de": "Das höchste Ziel im Hinduismus besteht in Moksha, der Erlösung aus den Fesseln von Tod und Wiedergeburt.",
+        "ar": "يَتَمَثَّلُ الهَدَفُ الأَسْمَى فِي الهِنْدُوسِيَّةِ فِي 'المُوكْشَا'، أَيِ الخَلَاصِ التَّامِّ مِنْ قُيُودِ المَوْتِ وَالتَّنَاسُخِ.",
+        "en": "The supreme aspiration in Hinduism is moksha, the emancipation from the bonds of death and rebirth."
+      },
+      "image": "assets/svg/concept_moksha.svg"
+    },
+    {
+      "id": "concept_brahman",
+      "german": "das Brahman",
+      "plural": "-",
+      "arabic": "البْرَاهْمَان (الوَاقِعُ المُطْلَقُ اللَّانِهَائِيُّ الشَّامِلُ)",
+      "english": "Brahman (the ultimate metaphysical reality)",
+      "example_sentence": {
+        "de": "Die Upanishaden lehren, dass Brahman das unvergängliche Fundament des gesamten Kosmos ist.",
+        "ar": "تُعَلِّمُ نُصُوصُ الأُوبَانِيشَاد أَنَّ البْرَاهْمَان هُوَ الأَسَاسُ الأَزَلِيُّ غَيْرُ القَابِلِ لِلْفَنَاءِ لِلْكَوْنِ بِأَسْرِهِ.",
+        "en": "The Upanishads teach that Brahman is the unperishing, all-pervading ground of the entire cosmos."
+      },
+      "image": "assets/svg/concept_brahman.svg"
+    },
+    {
+      "id": "concept_atman",
+      "german": "das Atman",
+      "plural": "-",
+      "arabic": "الأَتْمَان (الذَّاتُ الجَوْهَرِيَّةُ وَالرُّوحُ الفَرْدِيَّةُ الأَزَلِيَّةُ)",
+      "english": "Atman (the true immortal inner self)",
+      "example_sentence": {
+        "de": "Die fundamentale Formel 'Tat Tvam Asi' besagt, dass das individuelle Atman wesensgleich mit Brahman ist.",
+        "ar": "تَنُصُّ العِبَارَةُ المِفْتَاحِيَّةُ 'أَنْتَ ذَلِكَ' عَلَى أَنَّ الأَتْمَان الفَرْدِيَّ مُتَّحِدٌ فِي الجَوْهَرِ مَعَ البْرَاهْمَان الكَوْنِيِّ.",
+        "en": "The fundamental formula 'Tat Tvam Asi' declares that the individual Atman is essentially identical to Brahman."
+      },
+      "image": "assets/svg/concept_atman.svg"
+    },
+    {
+      "id": "concept_maya_illusion",
+      "german": "die Maya",
+      "plural": "-",
+      "arabic": "المَايَا (حِجَابُ الوَهْمِ الكَوْنِيِّ وَالخِدَاعِ الظَّاهِرِيِّ)",
+      "english": "Maya (cosmic illusion / veil of empirical reality)",
+      "example_sentence": {
+        "de": "Maya verschleiert die wahre Natur der Einheit und erzeugt die Illusion getrennter Vielheit.",
+        "ar": "يَحْجُبُ حِجَابُ المَايَا حَقِيقَةَ الوَحْدَةِ الأَصْلِيَّةِ لِيُوَلِّدَ وَهْمَ التَّعَدُّدِ وَالانْفِصَالِ المَادِّيِّ.",
+        "en": "Maya veils the true nature of ultimate oneness, generating the empirical illusion of multiplicity."
+      },
+      "image": "assets/svg/concept_maya_illusion.svg"
+    },
+    {
+      "id": "concept_dharma",
+      "german": "das Dharma",
+      "plural": "-",
+      "arabic": "الدَّارْمَا (النِّظَامُ الكَوْنِيُّ وَالوَاجِبُ الأَخْلَاقِيُّ النَّامُوسِيُّ)",
+      "english": "dharma (cosmic order, righteousness, and duty)",
+      "example_sentence": {
+        "de": "Im Mahabharata muss der Prinz Arjuna lernen, sein persönliches Dharma als Krieger standhaft zu erfüllen.",
+        "ar": "فِي مَلْحَمَةِ المَهَابْهَارَاتَا، يَتَعَيَّنُ عَلَى الأَمِيرِ أَرْجُونَا تَعَلُّمُ أَدَاءِ دَارْمَاهُ الأَخْلَاقِيِّ كَمُحَارِبٍ بِثَبَاتٍ.",
+        "en": "In the Mahabharata, Prince Arjuna must learn to steadfastly fulfill his personal dharma as a warrior."
+      },
+      "image": "assets/svg/concept_dharma.svg"
+    },
+    {
+      "id": "concept_nirwana",
+      "german": "das Nirwana",
+      "plural": "-",
+      "arabic": "النِّيرْفَانَا (سُكُونُ الانْطِفَاءِ وَانْعِدَامُ المُعَانَاةِ)",
+      "english": "nirvana (extinction of desire and suffering)",
+      "example_sentence": {
+        "de": "Nirwana bedeutet wörtlich das Verwehen oder Verlöschen des Feuers von Begierde, Hass und Verblendung.",
+        "ar": "تَعْنِي النِّيرْفَانَا حَرْفِيًّا انْطِفَاءَ نَارِ الرَّغْبَةِ وَالكَرَاهِيَةِ وَالوَهْمِ لِبُلُوغِ السَّلَامِ الأَبَدِيِّ.",
+        "en": "Nirvana literally signifies the extinguishing of the fires of craving, aversion, and delusion."
+      },
+      "image": "assets/svg/concept_nirwana.svg"
+    },
+    {
+      "id": "concept_vier_edle_wahrheiten",
+      "german": "die Vier Edlen Wahrheiten",
+      "plural": "-",
+      "arabic": "الحَقَائِقُ النَّبِيلَةُ الأَرْبَعُ",
+      "english": "the Four Noble Truths of Buddhism",
+      "example_sentence": {
+        "de": "Buddhas erste Lehrrede in Sarnath formulierte die Vier Edlen Wahrheiten über Leiden, Ursache, Ende und Pfad.",
+        "ar": "صَاغَتْ خُطْبَةُ بُوذَا الأُولَى فِي سَارْنَاث الحَقَائِقَ النَّبِيلَةَ الأَرْبَعَ حَوْلَ الأَلَمِ، وَسَبَبِهِ، وَزَوَالِهِ، وَالطَّرِيقِ إِلَيْهِ.",
+        "en": "Buddha's first sermon at Sarnath expounded the Four Noble Truths concerning suffering, its origin, cessation, and path."
+      },
+      "image": "assets/svg/concept_vier_edle_wahrheiten.svg"
+    },
+    {
+      "id": "concept_shunyata_leere",
+      "german": "das Shunyata (die Leere)",
+      "plural": "-",
+      "arabic": "الشُّونْيَاتَا (الفَرَاغُ الجَوْهَرِيُّ وَالخَوَاءُ المَفْهُومِيُّ المُتَرَابِطُ)",
+      "english": "Shunyata (emptiness and radical interdependence)",
+      "example_sentence": {
+        "de": "Nagarjunas Philosophie der Shunyata belegt, dass alle Phänomene leer von einem unabhängigen Eigenwesen sind.",
+        "ar": "تُثْبِتُ فَلْسَفَةُ نَاغَارْجُونَا فِي الشُّونْيَاتَا أَنَّ جَمِيعَ الظَّوَاهِرِ خَالِيَةٌ مِنْ وُجُودٍ جَوْهَرِيٍّ مُسْتَقِلٍّ بِذَاتِهِ.",
+        "en": "Nagarjuna's philosophy of Shunyata demonstrates that all phenomena are empty of independent inherent existence."
+      },
+      "image": "assets/svg/concept_shunyata_leere.svg"
+    },
+    {
+      "id": "concept_yin_und_yang",
+      "german": "das Yin und Yang",
+      "plural": "-",
+      "arabic": "اليِين وَاليَانْغ (تَكَامُلُ القُوَى الثُّنَائِيَّةِ المُتَضَادَّةِ)",
+      "english": "Yin and Yang (complementary polarities)",
+      "example_sentence": {
+        "de": "Yin und Yang verkörpern dynamische polare Kräfte, die sich nicht bekämpfen, sondern wechselseitig bedingen.",
+        "ar": "يُجَسِّدُ اليِين وَاليَانْغ قُوَى قُطْبِيَّةً دِينَامِيكِيَّةً لَا تَتَصَارَعُ، بَلْ يُكَمِّلُ بَعْضُهَا بَعْضًا فِي انْسِجَامٍ.",
+        "en": "Yin and Yang embody dynamic polar energies that do not contend, but mutually generate and sustain each other."
+      },
+      "image": "assets/svg/concept_yin_und_yang.svg"
+    },
+    {
+      "id": "concept_advaita_vedanta",
+      "german": "die Advaita-Philosophie",
+      "plural": "-",
+      "arabic": "فَلْسَفَةُ اللَّا ثُنَائِيَّةِ (أَدْفَايْتَا فِيدَانْتَا)",
+      "english": "Advaita Vedanta (non-dualism)",
+      "example_sentence": {
+        "de": "Shankaras Advaita-Vedanta behauptet die ungeteilte Nicht-Zweiheit von Schöpfer, Welt und Individuum.",
+        "ar": "تُقَرِّرُ فَلْسَفَةُ أَدْفَايْتَا فِيدَانْتَا لِشَانْكَارَا اللَّا ثُنَائِيَّةَ المُطْلَقَةَ بَيْنَ الخَالِقِ وَالعَالَمِ وَالذَّاتِ الفَرْدِيَّةِ.",
+        "en": "Shankara's Advaita Vedanta posits the undivided non-duality of creator, universe, and conscious individual."
+      },
+      "image": "assets/svg/concept_advaita_vedanta.svg"
+    },
+    {
+      "id": "concept_zen_buddhismus",
+      "german": "der Zen-Buddhismus",
+      "plural": "-",
+      "arabic": "بُوذِيَّةُ الزِّن (التَّأَمُّلُ الصَّامِتُ وَالإِدْرَاكُ الحَدْسِيُّ المُبَاشِرُ)",
+      "english": "Zen Buddhism",
+      "example_sentence": {
+        "de": "Im Zen-Buddhismus steht die unmittelbare Erfahrung des Geistes im Sitzen über allen schriftlichen Doktrinen.",
+        "ar": "تَتَقَدَّمُ الخِبْرَةُ المُبَاشِرَةُ لِلْوَعْيِ فِي التَّأَمُّلِ الصَّامِتِ فِي بُوذِيَّةِ الزِّن عَلَى جَمِيعِ العَقَائِدِ المَكْتُوبَةِ.",
+        "en": "In Zen Buddhism, the direct experiential awakening of mind transcends all textual doctrinal formulations."
+      },
+      "image": "assets/svg/concept_zen_buddhismus.svg"
+    },
+    {
+      "id": "concept_koan_zen",
+      "german": "das Koan",
+      "plural": "die Koans",
+      "arabic": "الكُوَان (الأُحْجِيَّةُ التَّأَمُّلِيَّةُ لِتَجَاوُزِ المَنْطِقِ الصُّورِيِّ)",
+      "english": "koan (paradoxical riddle to break conceptual thought)",
+      "example_sentence": {
+        "de": "Das Meditieren über ein unlösbares Koan bricht den rationalen Verstand auf und führt zur spontanen Einsicht.",
+        "ar": "يَكْسِرُ التَّأَمُّلُ فِي كُوَانٍ مُسْتَعْصٍ أُطُرَ العَقْلِ الصُّورِيِّ لِيَقُودَ الذَّاتَ نَحْوَ بَصِيرَةٍ خَاطِفَةٍ.",
+        "en": "Meditating on an insoluble koan shatters conceptual reasoning, inducing spontaneous spiritual insight."
+      },
+      "image": "assets/svg/concept_koan_zen.svg"
+    },
+    {
+      "id": "concept_hermetik_philosophie",
+      "german": "die Hermetik",
+      "plural": "-",
+      "arabic": "الهِرْمِسِيَّةُ (فَلْسَفَةُ الحِكْمَةِ القَدِيمَةِ وَالتَّنَاغُمِ الكَوْنِيِّ)",
+      "english": "Hermeticism (classical philosophical wisdom tradition)",
+      "example_sentence": {
+        "de": "Die antike Hermetik des Hermes Trismegistos verknüpft Philosophie, Alchemie und kosmologische Metaphysik.",
+        "ar": "تَرْبِطُ الهِرْمِسِيَّةُ القَدِيمَةُ المَنْسُوبَةُ لِهِرْمِسَ المُثَلَّثِ العَظَمَةِ بَيْنَ الفَلْسَفَةِ وَالخِيمْيَاءِ وَالمِيتَافِيزِيقَا الكَوْنِيَّةِ.",
+        "en": "Ancient Hermeticism attributed to Hermes Trismegistus synthesizes philosophy, alchemy, and cosmic metaphysics."
+      },
+      "image": "assets/svg/concept_hermetik_philosophie.svg"
+    },
+    {
+      "id": "concept_prinzip_der_analogie",
+      "german": "das Prinzip der Analogie",
+      "plural": "-",
+      "arabic": "مَبْدَأُ المُمَاثَلَةِ الهِرْمِسِيُّ (كَمَا فَوْقَ، فَكَذَلِكَ تَحْتَ)",
+      "english": "principle of correspondence (as above, so below)",
+      "example_sentence": {
+        "de": "Der hermetische Grundsatz 'Wie oben, so unten' drückt das Prinzip der Analogie zwischen Makrokosmos und Mikrokosmos aus.",
+        "ar": "يُعَبِّرُ القَانُونُ الهِرْمِسِيُّ 'كَمَا فِي الأَعْلَى كَذَلِكَ فِي الأَسْفَلِ' عَنْ مَبْدَأِ المُمَاثَلَةِ بَيْنَ العَالَمِ الأَكْبَرِ وَالأَصْغَرِ.",
+        "en": "The Hermetic maxim 'As above, so below' articulates the principle of correspondence between macrocosm and microcosm."
+      },
+      "image": "assets/svg/concept_prinzip_der_analogie.svg"
+    },
+    {
+      "id": "concept_prana_lebensenergie",
+      "german": "das Prana",
+      "plural": "-",
+      "arabic": "البْرَانَا (طَاقَةُ الحَيَاةِ الكَوْنِيَّةِ الحَيَوِيَّةِ)",
+      "english": "prana (vital cosmic life-force)",
+      "example_sentence": {
+        "de": "Durch Pranayama-Atemübungen lernt der Yogi, den Fluss des Prana im feinstofflichen Körper zu harmonisieren.",
+        "ar": "يَتَعَلَّمُ اليُوغِي عَبْرَ تَمَارِينِ التَّنَفُّسِ (بْرَانَايَامَا) مُوَاءَمَةَ تَدَفُّقِ طَاقَةِ البْرَانَا فِي الجَسَدِ اللَّطِيفِ.",
+        "en": "Through pranayama breathwork, the practitioner learns to harmonize the flow of prana within the subtle body."
+      },
+      "image": "assets/svg/concept_prana_lebensenergie.svg"
+    },
+    {
+      "id": "concept_kundalini_energie",
+      "german": "das Kundalini",
+      "plural": "-",
+      "arabic": "الكُونْدَالِينِي (الطَّاقَةُ الرُّوحِيَّةُ الكَامِنَةُ فِي الجَسَدِ)",
+      "english": "kundalini (latent spiritual energy)",
+      "example_sentence": {
+        "de": "Im tantrischen Yoga gilt das Erwecken der Kundalini-Energie als Pfad zur Transformation des Bewusstseins.",
+        "ar": "يُعَدُّ إِيقَاظُ طَاقَةِ الكُونْدَالِينِي فِي التَّانْتْرَا يُوغَا مَسَارًا لِتَحْوِيلِ الوَعْيِ وَالارْتِقَاءِ الرُّوحِيِّ.",
+        "en": "In tantric yoga, the awakening of kundalini energy is regarded as the royal path to the transformation of consciousness."
+      },
+      "image": "assets/svg/concept_kundalini_energie.svg"
+    },
+    {
+      "id": "concept_satori_erleuchtung",
+      "german": "das Satori",
+      "plural": "-",
+      "arabic": "السَّاتُورِي (الاسْتِنَارَةُ المَفَاجِئَةُ وَالصَّحْوَةُ البَاطِنِيَّةُ)",
+      "english": "satori (flash of intuitive enlightenment in Zen)",
+      "example_sentence": {
+        "de": "Satori trifft den Suchenden oft blitzartig in einem Moment vollkommener Gedankenstille.",
+        "ar": "يَغْمُرُ السَّاتُورِي السَّالِكَ كَبَرْقٍ خَاطِفٍ فِي لَحْظَةِ سُكُونٍ تَامٍّ لِلأَفْكَارِ الذِّهْنِيَّةِ.",
+        "en": "Satori strikes the seeker like a lightning flash in an instant of total conceptual stillness."
+      },
+      "image": "assets/svg/concept_satori_erleuchtung.svg"
+    },
+    {
+      "id": "concept_konfuzianismus",
+      "german": "der Konfuzianismus",
+      "plural": "-",
+      "arabic": "الكُونْفُوشِيُوسِيَّةُ (فَلْسَفَةُ الانْسِجَامِ الأَخْلَاقِيِّ وَالاجْتِمَاعِيِّ)",
+      "english": "Confucianism (social harmony and ethical cultivation)",
+      "example_sentence": {
+        "de": "Der Konfuzianismus betont die Pflege von Tugend, Ritual und sozialer Harmonie im Staatsgefüge.",
+        "ar": "تُؤَكِّدُ الكُونْفُوشِيُوسِيَّةُ عَلَى تَهْذِيبِ الفَضِيلَةِ، وَاحْتِرَامِ الطُّقُوسِ، وَتَحْقِيقِ الانْسِجَامِ الاجْتِمَاعِيِّ فِي الدَّوْلَةِ.",
+        "en": "Confucianism emphasizes moral self-cultivation, ritual propriety, and social harmony within the polity."
+      },
+      "image": "assets/svg/concept_konfuzianismus.svg"
+    },
+    {
+      "id": "concept_pietaet_xiao",
+      "german": "die kindliche Pietät (Xiao)",
+      "plural": "-",
+      "arabic": "بِرُّ الوَالِدَيْنِ التَّوْقِيرِيُّ (شِيَاو)",
+      "english": "filial piety (Xiao / reverence for family and ancestors)",
+      "example_sentence": {
+        "de": "Die kindliche Pietät bildet das ethische Fundament der chinesischen Familien- und Gesellschaftsordnung.",
+        "ar": "يُشَكِّلُ بِرُّ الوَالِدَيْنِ (شِيَاو) الأَسَاسَ الأَخْلَاقِيَّ لِبِنْيَةِ الأُسْرَةِ وَالنِّظَامِ الاجْتِمَاعِيِّ الصِّينِيِّ.",
+        "en": "Filial piety constitutes the ethical cornerstone of traditional family and societal structure."
+      },
+      "image": "assets/svg/concept_pietaet_xiao.svg"
+    },
+    {
+      "id": "concept_samadhi_absorption",
+      "german": "das Samadhi",
+      "plural": "-",
+      "arabic": "الصَّمَادِي (الاسْتِغْرَاقُ التَّأَمُّلِيُّ الخَالِصُ وَالاتِّحَادُ الرُّوحِيُّ)",
+      "english": "samadhi (state of meditative absorption and spiritual oneness)",
+      "example_sentence": {
+        "de": "Im Zustand des Samadhi löst sich die Dualität zwischen Beobachter, Beobachten und Beobachtetem vollständig auf.",
+        "ar": "فِي مَقَامِ الصَّمَادِي، تَذُوبُ الثُّنَائِيَّةُ تَمَامًا بَيْنَ الرَّاصِدِ، وَفِعْلِ الرَّصْدِ، وَالمَرْصُودِ.",
+        "en": "In the state of samadhi, the duality between observer, observing, and the observed completely dissolves."
+      },
+      "image": "assets/svg/concept_samadhi_absorption.svg"
+    },
+    {
+      "id": "concept_universalitaet_des_seins",
+      "german": "die Universalität des Seins",
+      "plural": "-",
+      "arabic": "كُلِّيَّةُ الوُجُودِ وَوَحْدَةُ الحَقِيقَةِ الكَوْنِيَّةِ",
+      "english": "universality of being / cosmic non-dual unity",
+      "example_sentence": {
+        "de": "Östliche Weisheitstraditionen konvergieren in der Erkenntnis der allumfassenden Universalität des Seins.",
+        "ar": "تَلْتَقِي التَّقَالِيدُ الحِكْمِيَّةُ الشَّرْقِيَّةُ فِي إِدْرَاكِ كُلِّيَّةِ الوُجُودِ الشَّامِلَةِ لِجَمِيعِ المَوْجُودَاتِ فِي كِيَانٍ وَاحِدٍ.",
+        "en": "Eastern wisdom traditions converge in the realization of the all-encompassing universality of being."
+      },
+      "image": "assets/svg/concept_universalitaet_des_seins.svg"
+    }
+  ]
+}
