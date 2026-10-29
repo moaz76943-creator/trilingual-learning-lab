@@ -33221,5 +33221,105 @@
     "file": "assets/svg/concept_radbruchsche_formel.svg",
     "category": "jurisprudence",
     "alt": "concept radbruchsche formel"
+  },
+  "assets/svg/verb_verankern.svg": {
+    "file": "assets/svg/verb_verankern.svg",
+    "category": "c2_adjudication_verbs",
+    "alt": "verb verankern"
+  },
+  "assets/svg/verb_abwaegen.svg": {
+    "file": "assets/svg/verb_abwaegen.svg",
+    "category": "c2_adjudication_verbs",
+    "alt": "verb abwaegen"
+  },
+  "assets/svg/verb_ruegen.svg": {
+    "file": "assets/svg/verb_ruegen.svg",
+    "category": "c2_adjudication_verbs",
+    "alt": "verb ruegen"
+  },
+  "assets/svg/verb_statuieren.svg": {
+    "file": "assets/svg/verb_statuieren.svg",
+    "category": "c2_adjudication_verbs",
+    "alt": "verb statuieren"
+  },
+  "assets/svg/verb_praejudizieren.svg": {
+    "file": "assets/svg/verb_praejudizieren.svg",
+    "category": "c2_adjudication_verbs",
+    "alt": "verb praejudizieren"
+  },
+  "assets/svg/verb_auslegen_verfassungskonform.svg": {
+    "file": "assets/svg/verb_auslegen_verfassungskonform.svg",
+    "category": "c2_adjudication_verbs",
+    "alt": "verb auslegen verfassungskonform"
+  },
+  "assets/svg/verb_normieren_legal.svg": {
+    "file": "assets/svg/verb_normieren_legal.svg",
+    "category": "c2_adjudication_verbs",
+    "alt": "verb normieren legal"
+  },
+  "assets/svg/verb_derogieren.svg": {
+    "file": "assets/svg/verb_derogieren.svg",
+    "category": "c2_adjudication_verbs",
+    "alt": "verb derogieren"
+  },
+  "assets/svg/verb_verwerfen.svg": {
+    "file": "assets/svg/verb_verwerfen.svg",
+    "category": "c2_adjudication_verbs",
+    "alt": "verb verwerfen"
+  },
+  "assets/svg/verb_sanktionieren_legal.svg": {
+    "file": "assets/svg/verb_sanktionieren_legal.svg",
+    "category": "c2_adjudication_verbs",
+    "alt": "verb sanktionieren legal"
+  },
+  "assets/svg/verb_konstituieren_jud.svg": {
+    "file": "assets/svg/verb_konstituieren_jud.svg",
+    "category": "c2_adjudication_verbs",
+    "alt": "verb konstituieren jud"
+  },
+  "assets/svg/verb_kodifizieren.svg": {
+    "file": "assets/svg/verb_kodifizieren.svg",
+    "category": "c2_adjudication_verbs",
+    "alt": "verb kodifizieren"
+  },
+  "assets/svg/verb_deklarieren.svg": {
+    "file": "assets/svg/verb_deklarieren.svg",
+    "category": "c2_adjudication_verbs",
+    "alt": "verb deklarieren"
+  },
+  "assets/svg/verb_einschraenken.svg": {
+    "file": "assets/svg/verb_einschraenken.svg",
+    "category": "c2_adjudication_verbs",
+    "alt": "verb einschraenken"
+  },
+  "assets/svg/verb_subsumieren.svg": {
+    "file": "assets/svg/verb_subsumieren.svg",
+    "category": "c2_adjudication_verbs",
+    "alt": "verb subsumieren"
+  },
+  "assets/svg/verb_nobilitieren.svg": {
+    "file": "assets/svg/verb_nobilitieren.svg",
+    "category": "c2_adjudication_verbs",
+    "alt": "verb nobilitieren"
+  },
+  "assets/svg/verb_revidieren_jud.svg": {
+    "file": "assets/svg/verb_revidieren_jud.svg",
+    "category": "c2_adjudication_verbs",
+    "alt": "verb revidieren jud"
+  },
+  "assets/svg/verb_judizieren.svg": {
+    "file": "assets/svg/verb_judizieren.svg",
+    "category": "c2_adjudication_verbs",
+    "alt": "verb judizieren"
+  },
+  "assets/svg/verb_anfechten.svg": {
+    "file": "assets/svg/verb_anfechten.svg",
+    "category": "c2_adjudication_verbs",
+    "alt": "verb anfechten"
+  },
+  "assets/svg/verb_suspendieren_jud.svg": {
+    "file": "assets/svg/verb_suspendieren_jud.svg",
+    "category": "c2_adjudication_verbs",
+    "alt": "verb suspendieren jud"
   }
 }

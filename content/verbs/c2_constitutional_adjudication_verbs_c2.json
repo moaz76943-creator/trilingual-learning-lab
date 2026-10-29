@@ -1,0 +1,451 @@
+{
+  "category_id": "c2_constitutional_adjudication_verbs_c2",
+  "category_title": {
+    "ar": "أفعال القضاء الدستوري والمحاكمة المعيارية والتأويل الفقهي",
+    "de": "Verfassungsgerichtliche, normenprüfende und hermeneutische Judikationsverben",
+    "en": "C2 Constitutional Adjudication, Normative Review & Legal Hermeneutics Verbs"
+  },
+  "level": "C2",
+  "items": [
+    {
+      "id": "verb_judizieren",
+      "german": "judizieren",
+      "arabic": "يَقْضِي قَضَائِيًّا / يُرْسِي اجْتِهَادًا قَضَائِيًّا مُلْزِمًا",
+      "english": "to adjudicate or establish legal jurisprudence",
+      "conjugation": {
+        "praesens": "er/sie/es judiziert",
+        "praeteritum": "judizierte",
+        "perfekt": "hat judiziert"
+      },
+      "preposition": "über + Akk / in + Dat",
+      "collocations": [
+        "strenge Rechtsprechung judizieren",
+        "im Sinne der Verfassung judizieren"
+      ],
+      "example_sentence": {
+        "de": "Das Bundesverfassungsgericht judiziert seit Jahrzehnten in ständiger Rechtsprechung zum Schutz der informationellen Selbstbestimmung.",
+        "ar": "تَقْضِي المَحْكَمَةُ الدُّسْتُورِيَّةُ الِاتِّحَادِيَّةُ مُنْذُ عُقُودٍ فِي اجْتِهَادٍ قَضَائِيٍّ ثَابِتٍ لِحِمَايَةِ الحَقِّ فِي تَقْرِيرِ المَصِيرِ المَعْلُومَاتِيِّ.",
+        "en": "The Federal Constitutional Court has adjudicated for decades in established jurisprudence to safeguard informational self-determination."
+      },
+      "image": "assets/svg/verb_judizieren.svg"
+    },
+    {
+      "id": "verb_subsumieren",
+      "german": "subsumieren",
+      "arabic": "يُكَيِّفُ قَانُونِيًّا / يُدْرِجُ الوَقَائِعَ تَحْتَ حُكْمِ القَاعِدَةِ",
+      "english": "to subsume facts under a legal norm",
+      "conjugation": {
+        "praesens": "er/sie/es subsumiert",
+        "praeteritum": "subsumierte",
+        "perfekt": "hat subsumiert"
+      },
+      "preposition": "unter + Akk",
+      "collocations": [
+        "einen Sachverhalt unter das Gesetz subsumieren",
+        "präzise unter den Tatbestand subsumieren"
+      ],
+      "example_sentence": {
+        "de": "Der Richter subsumierte das vorliegende Verhalten des Angeklagten fehlerfrei unter den Straftatbestand der Untreue.",
+        "ar": "كَيَّفَ القَاضِي سُلُوكَ المُدَّعَى عَلَيْهِ بِدِقَّةٍ خَالِيَةٍ مِنَ الخَطَأِ مُدْرِجًا إِيَّاهُ تَحْتَ جَرِيمَةِ خِيَانَةِ الأَمَانَةِ.",
+        "en": "The judge flawlessly subsumed the defendant's conduct under the statutory offense of breach of trust."
+      },
+      "image": "assets/svg/verb_subsumieren.svg"
+    },
+    {
+      "id": "verb_derogieren",
+      "german": "derogieren",
+      "arabic": "يُلْغِي أَوْ يُعَدِّلُ قَاعِدَةً تَشْرِيعِيَّةً سَابِقَةً (نَسْخُ القَوَانِينِ)",
+      "english": "to derogate or partially repeal an earlier norm",
+      "conjugation": {
+        "praesens": "er/sie/es derogiert",
+        "praeteritum": "derogierte",
+        "perfekt": "hat derogiert"
+      },
+      "preposition": "Dativ (Lex posterior derogat legi priori)",
+      "collocations": [
+        "einer älteren Rechtsnorm derogieren",
+        "konkludent derogieren"
+      ],
+      "example_sentence": {
+        "de": "Nach dem Grundsatz 'Lex posterior derogat legi priori' derogiert das jüngere Gesetz der älteren Bestimmung automatisch.",
+        "ar": "وَفْقًا لِقَاعِدَةِ 'القَانُونُ اللَّاحِقُ يَنْسَخُ السَّابِقَ'، يُلْغِي التَّشْرِيعُ الحَدِيثُ الحُكْمَ القَدِيمَ تِلْقَائِيًّا.",
+        "en": "Pursuant to the principle 'Lex posterior derogat legi priori', the later statute automatically derogates the earlier provision."
+      },
+      "image": "assets/svg/verb_derogieren.svg"
+    },
+    {
+      "id": "verb_abwaegen",
+      "german": "abwägen",
+      "arabic": "يَزِنُ وَيُوَازِنُ بَيْنَ المَصَالِحِ الدُّسْتُورِيَّةِ المُتَعَارِضَةِ",
+      "english": "to weigh and balance competing constitutional interests",
+      "conjugation": {
+        "praesens": "er/sie/es wägt ab",
+        "praeteritum": "wog / wägte ab",
+        "perfekt": "hat abgewogen"
+      },
+      "preposition": "gegen + Akk",
+      "collocations": [
+        "Sicherheitsinteressen gegen Freiheitsrechte abwägen",
+        "Güter im konkreten Einzelfall abwägen"
+      ],
+      "example_sentence": {
+        "de": "Das Gericht wog das Recht auf Meinungsfreiheit sorgfältig gegen den Schutz der persönlichen Ehre ab.",
+        "ar": "وَازَنَتِ المَحْكَمَةُ بِعِنَايَةٍ بَيْنَ الحَقِّ فِي حُرِّيَّةِ التَّعْبِيرِ وَبَيْنَ حِمَايَةِ الشَّرَفِ وَالاعْتِبَارِ الشَّخْصِيِّ.",
+        "en": "The court meticulously weighed the right to freedom of speech against the protection of personal reputation."
+      },
+      "image": "assets/svg/verb_abwaegen.svg"
+    },
+    {
+      "id": "verb_ruegen",
+      "german": "rügen",
+      "arabic": "يَطْعَنُ بِوُجُودِ خَرْقٍ دُسْتُورِيٍّ / يُثِيرُ عَيْبًا شَكْلِيًّا أَوْ مَوْضُوعِيًّا",
+      "english": "to challenge or reprimand a constitutional violation",
+      "conjugation": {
+        "praesens": "er/sie/es rügt",
+        "praeteritum": "rügte",
+        "perfekt": "hat gerügt"
+      },
+      "preposition": "mit + Dat",
+      "collocations": [
+        "die Verletzung von Grundrechten rügen",
+        "einen Verfahrensfehler rügen"
+      ],
+      "example_sentence": {
+        "de": "Mit der Verfassungsbeschwerde rügte der Beschwerdeführer eine Verletzung seines Rechts auf rechtliches Gehör.",
+        "ar": "طَعَنَ صَاحِبُ الشَّكْوَى فِي دَعْوَاهُ الدُّسْتُورِيَّةِ بِوُقُوعِ خَرْقٍ لِحَقِّهِ الأَسَاسِيِّ فِي الحُصُولِ عَلَى اسْتِمَاعٍ قَضَائِيٍّ عَادِلٍ.",
+        "en": "In the constitutional complaint, the petitioner reprimanded a violation of his fundamental right to a fair hearing."
+      },
+      "image": "assets/svg/verb_ruegen.svg"
+    },
+    {
+      "id": "verb_verwerfen",
+      "german": "verwerfen",
+      "arabic": "يَقْضِي بِبُطْلَانِ القَانُونِ / يَرْفِضُ التَّطْبِيقَ لِعَدَمِ الدُّسْتُورِيَّةِ",
+      "english": "to strike down an unconstitutional statute",
+      "conjugation": {
+        "praesens": "er/sie/es verwirft",
+        "praeteritum": "verwarf",
+        "perfekt": "hat verworfen"
+      },
+      "preposition": "als + Akk",
+      "collocations": [
+        "ein Gesetz als verfassungswidrig verwerfen",
+        "die Norm wegen Formfehlern verwerfen"
+      ],
+      "example_sentence": {
+        "de": "Die Verfassungsrichter verwarfen die umstrittene Regelung, da sie gegen das Gleichbehandlungsgebot verstieß.",
+        "ar": "قَضَى قُضَاةُ المَحْكَمَةِ الدُّسْتُورِيَّةِ بِبُطْلَانِ اللَّائِحَةِ المَثَارَةِ لِمُخَالَفَتِهَا مَبْدَأَ المُسَاوَاةِ أَمَامَ القَانُونِ.",
+        "en": "The constitutional judges struck down the contested regulation because it breached the equal protection clause."
+      },
+      "image": "assets/svg/verb_verwerfen.svg"
+    },
+    {
+      "id": "verb_auslegen_verfassungskonform",
+      "german": "verfassungskonform auslegen",
+      "arabic": "يُؤَوِّلُ النَّصَّ بِمَا يُوَافِقُ الدُّسْتُورَ صِيَانَةً لَهُ مِنَ البُطْلَانِ",
+      "english": "to interpret harmoniously with the constitution",
+      "conjugation": {
+        "praesens": "er/sie/es legt verfassungskonform aus",
+        "praeteritum": "legte verfassungskonform aus",
+        "perfekt": "hat verfassungskonform ausgelegt"
+      },
+      "preposition": "im Lichte + Gen",
+      "collocations": [
+        "eine unklare Norm verfassungskonform auslegen",
+        "den Spielraum der Auslegung nutzen"
+      ],
+      "example_sentence": {
+        "de": "Sofern mehrere Deutungen möglich sind, muss das Gericht diejenige wählen, die das Gesetz verfassungskonform erhält.",
+        "ar": "إِذَا كَانَتْ هُنَاكَ تَأْوِيلَاتٌ عِدَّةٌ مُمْكِنَةً، فَعَلَى المَحْكَمَةِ اخْتِيَارُ التَّأْوِيلِ الَّذِي يَصُونُ القَانُونَ دُسْتُورِيًّا.",
+        "en": "Provided multiple interpretations are viable, the court must adopt the construction that preserves constitutionality."
+      },
+      "image": "assets/svg/verb_auslegen_verfassungskonform.svg"
+    },
+    {
+      "id": "verb_suspendieren_jud",
+      "german": "suspendieren",
+      "arabic": "يُعَلِّقُ نَفَاذَ القَانُونِ أَوْ القَرَارِ التَّنْفِيذِيِّ مُؤَقَّتًا",
+      "english": "to suspend enforcement through an injunction",
+      "conjugation": {
+        "praesens": "er/sie/es suspendiert",
+        "praeteritum": "suspendierte",
+        "perfekt": "hat suspendiert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "den Vollzug durch einstweilige Anordnung suspendieren",
+        "die Gültigkeit vorläufig suspendieren"
+      ],
+      "example_sentence": {
+        "de": "Im Wege des einstweiligen Rechtsschutzes suspendierte das Gericht den Vollzug der Abschiebung bis zur Hauptverhandlung.",
+        "ar": "عَبْرَ إِجْرَاءَاتِ الحِمَايَةِ القَضَائِيَّةِ المُسْتَعْجَلَةِ، عَلَّقَتِ المَحْكَمَةُ تَنْفِيذَ قَرَارِ التَّرْحِيلِ لِحِينِ الفَصْلِ فِي المَوْضُوعِ.",
+        "en": "By way of preliminary injunction, the court suspended the enforcement of the deportation pending final trial."
+      },
+      "image": "assets/svg/verb_suspendieren_jud.svg"
+    },
+    {
+      "id": "verb_kodifizieren",
+      "german": "kodifizieren",
+      "arabic": "يُقَنِّنُ المَبَادِئَ العُرْفِيَّةَ فِي مَجْمُوعَةٍ تَشْرِيعِيَّةٍ رَسْمِيَّةٍ",
+      "english": "to codify unwritten principles into statutory law",
+      "conjugation": {
+        "praesens": "er/sie/es kodifiziert",
+        "praeteritum": "kodifizierte",
+        "perfekt": "hat kodifiziert"
+      },
+      "preposition": "in + Dat",
+      "collocations": [
+        "richterrechtliche Grundsätze gesetzlich kodifizieren",
+        "Gewohnheitsrecht im Gesetzbuch kodifizieren"
+      ],
+      "example_sentence": {
+        "de": "Der Gesetzgeber kodifizierte die jahrzehntelange Rechtsprechung zum Kündigungsschutz in einem einheitlichen Bundesgesetz.",
+        "ar": "قَنَّنَ المُشَرِّعُ الاجْتِهَادَ القَضَائِيَّ المُسْتَمِرَّ لِعُقُودٍ حَوْلَ الحِمَايَةِ مِنَ الفَصْلِ فِي قَانُونٍ اتِّحَادِيٍّ مُوَحَّدٍ.",
+        "en": "The legislature codified decades of judicial rulings on dismissal protection into a unified federal act."
+      },
+      "image": "assets/svg/verb_kodifizieren.svg"
+    },
+    {
+      "id": "verb_statuieren",
+      "german": "statuieren",
+      "arabic": "يُقَرِّرُ حُكْمًا مَبْدَئِيًّا / يَضَعُ قَاعِدَةً قَضَائِيَّةً مُلْزِمَةً",
+      "english": "to lay down or establish an authoritative legal rule",
+      "conjugation": {
+        "praesens": "er/sie/es statuiert",
+        "praeteritum": "statuierte",
+        "perfekt": "hat statuiert"
+      },
+      "preposition": "als + Akk",
+      "collocations": [
+        "eine verfassungsrechtliche Schutzpflicht statuieren",
+        "einen Präzedenzfall statuieren"
+      ],
+      "example_sentence": {
+        "de": "Das Gericht statuierte eine staatliche Schutzpflicht für künftige Generationen vor den Gefahren des Klimawandels.",
+        "ar": "قَرَّرَتِ المَحْكَمَةُ وَاجِبَ حِمَايَةٍ دُسْتُورِيًّا يَقَعُ عَلَى عَاتِقِ الدَّوْلَةِ لِصَالِحِ الأَجْيَالِ القَادِمَةِ ضِدَّ مَخَاطِرِ المُنَاخِ.",
+        "en": "The court established an affirmative constitutional duty of the state to protect future generations from climate risks."
+      },
+      "image": "assets/svg/verb_statuieren.svg"
+    },
+    {
+      "id": "verb_verankern",
+      "german": "verankern",
+      "arabic": "يُرَسِّخُ المَبْدَأَ أَوْ الحَقَّ فِي صُلْبِ الدُّسْتُورِ",
+      "english": "to enshrine constitutional guarantees",
+      "conjugation": {
+        "praesens": "er/sie/es verankert",
+        "praeteritum": "verankerte",
+        "perfekt": "hat verankert"
+      },
+      "preposition": "in + Dat",
+      "collocations": [
+        "Grundrechte im Grundgesetz fest verankern",
+        "den Umweltschutz als Staatsziel verankern"
+      ],
+      "example_sentence": {
+        "de": "Nach den Erfahrungen der Tyrannei verankerte der Parlamentarische Rat die Unantastbarkeit der Menschenwürde an erster Stelle.",
+        "ar": "بَعْدَ مَرَارَةِ تَجْرِبَةِ الاسْتِبْدَادِ، رَسَّخَ المَجْلِسُ البَرْلَمَانِيُّ حُرْمَةَ كَرَامَةِ الإِنْسَانِ فِي المَقَامِ الأَوَّلِ مِنَ الدُّسْتُورِ.",
+        "en": "Following the trauma of tyranny, the Parliamentary Council enshrined the inviolability of human dignity as Article 1."
+      },
+      "image": "assets/svg/verb_verankern.svg"
+    },
+    {
+      "id": "verb_einschraenken",
+      "german": "einschränken",
+      "arabic": "يُقَيِّدُ الحَقَّ الأَسَاسِيَّ بِضَوَابِطَ قَانُونِيَّةٍ مَشْرُوعَةٍ",
+      "english": "to curtail or restrict fundamental rights legitimately",
+      "conjugation": {
+        "praesens": "er/sie/es schränkt ein",
+        "praeteritum": "schränkte ein",
+        "perfekt": "hat eingeschränkt"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "die Versammlungsfreiheit rechtmäßig einschränken",
+        "Rechte nur zum Schutz Dritter einschränken"
+      ],
+      "example_sentence": {
+        "de": "Freiheitsrechte dürfen nur auf gesetzlicher Grundlage und unter strikter Wahrung der Verhältnismäßigkeit eingeschränkt werden.",
+        "ar": "لَا يَجُوزُ تَقْيِيدُ حُقُوقِ الحُرِّيَّةِ إِلَّا عَلَى أَسَاسٍ قَانُونِيٍّ وَمَعَ المُرَاعَاةِ الصَّارِمَةِ لِمَبْدَأِ التَّنَاسُبِ.",
+        "en": "Liberties may only be restricted pursuant to statutory authority and under strict observance of proportionality."
+      },
+      "image": "assets/svg/verb_einschraenken.svg"
+    },
+    {
+      "id": "verb_anfechten",
+      "german": "anfechten",
+      "arabic": "يَطْعَنُ قَضَائِيًّا فِي صِحَّةِ الحُكْمِ أَوْ القَرَارِ الإِدَارِيِّ",
+      "english": "to contest or appeal a judicial decision",
+      "conjugation": {
+        "praesens": "er/sie/es ficht an",
+        "praeteritum": "focht an",
+        "perfekt": "hat angefochten"
+      },
+      "preposition": "vor + Dat / wegen + Gen",
+      "collocations": [
+        "den Bescheid gerichtlich anfechten",
+        "ein Urteil vor der nächsten Instanz anfechten"
+      ],
+      "example_sentence": {
+        "de": "Die Klägerin focht die Baugenehmigung erfolgreich vor dem zuständigen Verwaltungsgericht an.",
+        "ar": "طَعَنَتِ المُدَّعِيَةُ بِنَجَاحٍ فِي تَرْخِيصِ البِنَاءِ أَمَامَ المَحْكَمَةِ الإِدَارِيَّةِ المُخْتَصَّةِ.",
+        "en": "The plaintiff successfully contested the building permit before the competent administrative tribunal."
+      },
+      "image": "assets/svg/verb_anfechten.svg"
+    },
+    {
+      "id": "verb_nobilitieren",
+      "german": "nobilitieren",
+      "arabic": "يُرَقِّي المَبْدَأَ القَانُونِيَّ إِلَى مَصَافِّ القَوَاعِدِ الدُّسْتُورِيَّةِ العُلْيَا",
+      "english": "to elevate a legal principle to constitutional status",
+      "conjugation": {
+        "praesens": "er/sie/es nobilitiert",
+        "praeteritum": "nobilitierte",
+        "perfekt": "hat nobilitiert"
+      },
+      "preposition": "zu + Dat",
+      "collocations": [
+        "einen Rechtsgedanken zum Verfassungsrang nobilitieren",
+        "Rechtssätze nobilitieren"
+      ],
+      "example_sentence": {
+        "de": "Die Verfassungsrechtsprechung nobilitierte das Recht auf informationelle Selbstbestimmung zu einem eigenständigen Grundrecht.",
+        "ar": "رَقَّى القَضَاءُ الدُّسْتُورِيُّ الحَقَّ فِي تَقْرِيرِ المَصِيرِ المَعْلُومَاتِيِّ إِلَى مَرْتَبَةِ حَقٍّ أَسَاسِيٍّ مُسْتَقِلٍّ بِذَاتِهِ.",
+        "en": "Constitutional jurisprudence elevated informational self-determination into an autonomous fundamental right."
+      },
+      "image": "assets/svg/verb_nobilitieren.svg"
+    },
+    {
+      "id": "verb_deklarieren",
+      "german": "deklarieren",
+      "arabic": "يُعْلِنُ رَسْمِيًّا بُطْلَانَ القَانُونِ أَوْ عَدَمَ مُلَائَمَتِهِ لِلدُّسْتُورِ",
+      "english": "to declare null and void / unconstitutional",
+      "conjugation": {
+        "praesens": "er/sie/es deklariert",
+        "praeteritum": "deklarierte",
+        "perfekt": "hat deklariert"
+      },
+      "preposition": "für + Akk / als + Akk",
+      "collocations": [
+        "ein Gesetz für nichtig deklarieren",
+        "den Staatsnotstand deklarieren"
+      ],
+      "example_sentence": {
+        "de": "Das Verfassungsgericht deklarierte das Gesetz rückwirkend für nichtig, da der Bund keine Gesetzgebungskompetenz besaß.",
+        "ar": "أَعْلَنَتِ المَحْكَمَةُ الدُّسْتُورِيَّةُ بُطْلَانَ القَانُونِ بِأَثَرٍ رَجْعِيٍّ لِعَدَمِ اخْتِصَاصِ الحُكُومَةِ الِاتِّحَادِيَّةِ بِتَشْرِيعِهِ.",
+        "en": "The constitutional court declared the statute null and void ex tunc for lack of federal legislative competence."
+      },
+      "image": "assets/svg/verb_deklarieren.svg"
+    },
+    {
+      "id": "verb_konstituieren_jud",
+      "german": "konstituieren",
+      "arabic": "يُنْشِئُ مَرْكَزًا قَانُونِيًّا / يُؤَسِّسُ هَيْئَةً دُسْتُورِيَّةً رَسْمِيًّا",
+      "english": "to constitute an authoritative body or legal status",
+      "conjugation": {
+        "praesens": "er/sie/es konstituiert sich",
+        "praeteritum": "konstituierte sich",
+        "perfekt": "hat sich konstituiert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "sich als Verfassungsorgan konstituieren",
+        "neue Rechtsverhältnisse konstituieren"
+      ],
+      "example_sentence": {
+        "de": "Der neu gewählte Bundestag konstituierte sich dreißig Tage nach der Wahl im Berliner Reichstagsgebäude.",
+        "ar": "عَقَدَ البَرْلَمَانُ الِاتِّحَادِيُّ المُنْتَخَبُ جَدِيدًا جَلْسَتَهُ التَّأْسِيسِيَّةَ بَعْدَ ثَلَاثِينَ يَوْمًا مِنَ الِانْتِخَابَاتِ.",
+        "en": "The newly elected federal parliament constituted itself thirty days following the general election."
+      },
+      "image": "assets/svg/verb_konstituieren_jud.svg"
+    },
+    {
+      "id": "verb_sanktionieren_legal",
+      "german": "sanktionieren",
+      "arabic": "يُصَادِقُ رَسْمِيًّا عَلَى القَانُونِ / يُقَرُّ الجَزَاءَ القَانُونِيَّ",
+      "english": "to sanction a statute formally into law",
+      "conjugation": {
+        "praesens": "er/sie/es sanktioniert",
+        "praeteritum": "sanktionierte",
+        "perfekt": "hat sanktioniert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "einen Verfassungsbruch sanktionieren",
+        "ein verabschiedetes Gesetz sanktionieren"
+      ],
+      "example_sentence": {
+        "de": "Der Bundespräsident fertigte das Gesetz nach Prüfung seiner formellen Verfassungsmäßigkeit aus und sanktionierte es.",
+        "ar": "وَقَّعَ الرَّئِيسُ الِاتِّحَادِيُّ عَلَى القَانُونِ وَصَادَقَ عَلَيْهِ رَسْمِيًّا عَقِبَ فَحْصِ دُسْتُورِيَّتِهِ الشَّكْلِيَّةِ.",
+        "en": "The federal president signed and formally sanctioned the statute into law after reviewing its procedural constitutionality."
+      },
+      "image": "assets/svg/verb_sanktionieren_legal.svg"
+    },
+    {
+      "id": "verb_normieren_legal",
+      "german": "normieren",
+      "arabic": "يُقَعِّدُ مِعْيَارِيًّا / يَصُوغُ الأَحْكَامَ فِي قَوَاعِدَ قَانُونِيَّةٍ مُلْزِمَةٍ",
+      "english": "to enact binding legal standards",
+      "conjugation": {
+        "praesens": "er/sie/es normiert",
+        "praeteritum": "normierte",
+        "perfekt": "hat normiert"
+      },
+      "preposition": "in + Dat",
+      "collocations": [
+        "Rechte und Pflichten präzise normieren",
+        "Verfahrensregeln gesetzlich normieren"
+      ],
+      "example_sentence": {
+        "de": "Das Grundgesetz normiert verbindlich, dass die Würde des Menschen unantastbar ist.",
+        "ar": "يُقَعِّدُ الدُّسْتُورُ بِإِلْزَامٍ قَاطِعٍ أَنَّ كَرَامَةَ الإِنْسَانِ غَيْرُ قَابِلَةٍ لِلْمَسَاسِ.",
+        "en": "The constitution authoritatively normates that the dignity of man is inviolable."
+      },
+      "image": "assets/svg/verb_normieren_legal.svg"
+    },
+    {
+      "id": "verb_praejudizieren",
+      "german": "präjudizieren",
+      "arabic": "يَخْلُقُ سَابِقَةً قَضَائِيَّةً / يُؤَثِّرُ حُكْمًا مُسْبَقًا عَلَى النَّتِيجَةِ",
+      "english": "to prejudice or prejudge a future ruling",
+      "conjugation": {
+        "praesens": "er/sie/es präjudiziert",
+        "praeteritum": "präjudizierte",
+        "perfekt": "hat präjudiziert"
+      },
+      "preposition": "für + Akk",
+      "collocations": [
+        "die Entscheidung in der Hauptsache präjudizieren",
+        "künftige Streitfälle präjudizieren"
+      ],
+      "example_sentence": {
+        "de": "Das Gericht betonte ausdrücklich, dass der vorläufige Beschluss den Ausgang des Hauptsacheverfahrens keineswegs präjudiziert.",
+        "ar": "أَكَّدَتِ المَحْكَمَةُ صَرَاحَةً أَنَّ القَرَارَ الوَقْتِيَّ لَا يُؤَثِّرُ بِأَيِّ حَالٍ عَلَى حُكْمِ الدَّعْوَى الأَصْلِيَّةِ.",
+        "en": "The court expressly emphasized that the interim order in no way prejudges the outcome of the main proceedings."
+      },
+      "image": "assets/svg/verb_praejudizieren.svg"
+    },
+    {
+      "id": "verb_revidieren_jud",
+      "german": "revidieren",
+      "arabic": "يَنْقُضُ قَضَائِيًّا / يُعِيدُ النَّظَرَ فِي صِحَّةِ تَطْبِيقِ القَانُونِ",
+      "english": "to review on appeal / reverse a flawed judicial ruling",
+      "conjugation": {
+        "praesens": "er/sie/es revidiert",
+        "praeteritum": "revidierte",
+        "perfekt": "hat revidiert"
+      },
+      "preposition": "wegen + Gen",
+      "collocations": [
+        "ein fehlerhaftes Urteil in der Revision revidieren",
+        "seine frühere Rechtsprechung revidieren"
+      ],
+      "example_sentence": {
+        "de": "Der Bundesgerichtshof revidierte das Urteil der Vorinstanz wegen einer fehlerhaften Gesetzesanwendung.",
+        "ar": "نَقَضَتْ مَحْكَمَةُ النَّقْضِ الِاتِّحَادِيَّةُ حُكْمَ المَحْكَمَةِ الِابْتِدَائِيَّةِ بِسَبَبِ خَطَأٍ فِي تَطْبِيقِ القَانُونِ.",
+        "en": "The Federal Court of Justice reversed the lower court's ruling on appeal owing to flawed application of law."
+      },
+      "image": "assets/svg/verb_revidieren_jud.svg"
+    }
+  ]
+}

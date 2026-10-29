@@ -9424,6 +9424,178 @@
         "Genitivattribut Neutrum 'des Rechts'",
         "Präposition 'für' + Akkusativ Plural 'alle'"
       ]
+    },
+    {
+      "id": "sent_421",
+      "category": "weighing_justice",
+      "difficulty": "A1+",
+      "arabic": "المَحْكَمَةُ تَزِنُ الأَدِلَّةَ بِحِكْمَةٍ وَعَدْلٍ.",
+      "german": "Das Gericht wägt die Beweise mit Weisheit und Gerechtigkeit ab.",
+      "english": "The court weighs the evidence with wisdom and justice.",
+      "tokens": [
+        {
+          "word": "Das Gericht",
+          "pos": "noun",
+          "ar": "المَحْكَمَةُ"
+        },
+        {
+          "word": "wägt ... ab",
+          "pos": "separable_verb",
+          "ar": "تَزِنُ / تُوَازِنُ"
+        },
+        {
+          "word": "die Beweise",
+          "pos": "noun",
+          "ar": "الأَدِلَّةَ"
+        },
+        {
+          "word": "mit Weisheit und Gerechtigkeit",
+          "pos": "preposition_phrase",
+          "ar": "بِحِكْمَةٍ وَعَدْلٍ"
+        }
+      ],
+      "grammar_points": [
+        "Trennbares Verb 'abwägen'",
+        "Akkusativ Plural 'die Beweise'",
+        "Präposition 'mit' + Dativ Feminin ohne Artikel"
+      ]
+    },
+    {
+      "id": "sent_422",
+      "category": "constitutional_interpretation",
+      "difficulty": "A1+",
+      "arabic": "القَاضِي يُفَسِّرُ النَّصَّ بِمَا يُوَافِقُ الدُّسْتُورَ.",
+      "german": "Der Richter legt den Text verfassungskonform aus.",
+      "english": "The judge interprets the text in conformity with the constitution.",
+      "tokens": [
+        {
+          "word": "Der Richter",
+          "pos": "noun",
+          "ar": "القَاضِي"
+        },
+        {
+          "word": "legt ... aus",
+          "pos": "separable_verb",
+          "ar": "يُفَسِّرُ / يُؤَوِّلُ"
+        },
+        {
+          "word": "den Text",
+          "pos": "noun",
+          "ar": "النَّصَّ"
+        },
+        {
+          "word": "verfassungskonform",
+          "pos": "adverb",
+          "ar": "بِمَا يُوَافِقُ الدُّسْتُورَ"
+        }
+      ],
+      "grammar_points": [
+        "Trennbares Verb 'auslegen'",
+        "Akkusativ Maskulin mit bestimmtem Artikel 'den Text'",
+        "Adverbialer Gebrauch von 'verfassungskonform'"
+      ]
+    },
+    {
+      "id": "sent_423",
+      "category": "enshrining_rights",
+      "difficulty": "A1+",
+      "arabic": "نَحْنُ نَحْمِي حُقُوقَ الإِنْسَانِ بِعَزِيمَةٍ قَوِيَّةٍ.",
+      "german": "Wir verankern die Menschenrechte mit starker Entschlossenheit.",
+      "english": "We enshrine human rights with strong determination.",
+      "tokens": [
+        {
+          "word": "Wir",
+          "pos": "pronoun",
+          "ar": "نَحْنُ"
+        },
+        {
+          "word": "verankern",
+          "pos": "verb",
+          "ar": "نُرَسِّخُ / نَحْمِي"
+        },
+        {
+          "word": "die Menschenrechte",
+          "pos": "noun",
+          "ar": "حُقُوقَ الإِنْسَانِ"
+        },
+        {
+          "word": "mit starker Entschlossenheit",
+          "pos": "preposition_phrase",
+          "ar": "بِعَزِيمَةٍ قَوِيَّةٍ"
+        }
+      ],
+      "grammar_points": [
+        "Akkusativ Plural 'die Menschenrechte'",
+        "Präposition 'mit' + Dativ Feminin mit Adjektivdeklination 'starker Entschlossenheit'"
+      ]
+    },
+    {
+      "id": "sent_424",
+      "category": "just_decision_trust",
+      "difficulty": "A1+",
+      "arabic": "القَرَارُ العَادِلُ يُرَسِّخُ الثِّقَةَ فِي القَضَاءِ.",
+      "german": "Das gerechte Urteil statuiert Vertrauen in die Justiz.",
+      "english": "The just verdict establishes trust in the judiciary.",
+      "tokens": [
+        {
+          "word": "Das gerechte Urteil",
+          "pos": "noun_phrase",
+          "ar": "القَرَارُ / الحُكْمُ العَادِلُ"
+        },
+        {
+          "word": "statuiert",
+          "pos": "verb",
+          "ar": "يُرَسِّخُ / يَضَعُ حُكْمًا"
+        },
+        {
+          "word": "Vertrauen",
+          "pos": "noun",
+          "ar": "الثِّقَةَ"
+        },
+        {
+          "word": "in die Justiz",
+          "pos": "preposition_phrase",
+          "ar": "فِي القَضَاءِ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Neutrum Nominativ mit Adjektiv",
+        "Richtungsausdruck 'in' + Akkusativ Feminin 'die Justiz'"
+      ]
+    },
+    {
+      "id": "sent_425",
+      "category": "law_rules_life",
+      "difficulty": "A1+",
+      "arabic": "القَانُونُ النَّافِذُ يُنَظِّمُ الحَيَاةَ الِاجْتِمَاعِيَّةَ دَائِمًا.",
+      "german": "Das geltende Gesetz normiert das soziale Leben immer.",
+      "english": "The applicable law always regulates social life.",
+      "tokens": [
+        {
+          "word": "Das geltende Gesetz",
+          "pos": "noun_phrase",
+          "ar": "القَانُونُ النَّافِذُ"
+        },
+        {
+          "word": "normiert",
+          "pos": "verb",
+          "ar": "يُنَظِّمُ / يُقَعِّدُ"
+        },
+        {
+          "word": "das soziale Leben",
+          "pos": "noun_phrase",
+          "ar": "الحَيَاةَ الِاجْتِمَاعِيَّةَ"
+        },
+        {
+          "word": "immer",
+          "pos": "adverb",
+          "ar": "دَائِمًا"
+        }
+      ],
+      "grammar_points": [
+        "Partizip I als Adjektiv 'geltende'",
+        "Akkusativ Neutrum mit bestimmtem Artikel und Adjektiv 'das soziale Leben'"
+      ]
     }
   ]
 }
