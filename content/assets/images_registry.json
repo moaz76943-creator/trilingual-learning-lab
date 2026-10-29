@@ -31836,5 +31836,95 @@
     "file": "assets/svg/concept_bioresonanz.svg",
     "category": "biosemiotics",
     "alt": "concept bioresonanz"
+  },
+  "assets/svg/verb_epigenetisch_praegen.svg": {
+    "file": "assets/svg/verb_epigenetisch_praegen.svg",
+    "category": "biosemiotic_verbs",
+    "alt": "verb epigenetisch praegen"
+  },
+  "assets/svg/verb_replizieren.svg": {
+    "file": "assets/svg/verb_replizieren.svg",
+    "category": "biosemiotic_verbs",
+    "alt": "verb replizieren"
+  },
+  "assets/svg/verb_transduzieren.svg": {
+    "file": "assets/svg/verb_transduzieren.svg",
+    "category": "biosemiotic_verbs",
+    "alt": "verb transduzieren"
+  },
+  "assets/svg/verb_transkribieren.svg": {
+    "file": "assets/svg/verb_transkribieren.svg",
+    "category": "biosemiotic_verbs",
+    "alt": "verb transkribieren"
+  },
+  "assets/svg/verb_dekodieren.svg": {
+    "file": "assets/svg/verb_dekodieren.svg",
+    "category": "biosemiotic_verbs",
+    "alt": "verb dekodieren"
+  },
+  "assets/svg/verb_differenzieren.svg": {
+    "file": "assets/svg/verb_differenzieren.svg",
+    "category": "biosemiotic_verbs",
+    "alt": "verb differenzieren"
+  },
+  "assets/svg/verb_autopoietisch_regenerieren.svg": {
+    "file": "assets/svg/verb_autopoietisch_regenerieren.svg",
+    "category": "biosemiotic_verbs",
+    "alt": "verb autopoietisch regenerieren"
+  },
+  "assets/svg/verb_mutieren.svg": {
+    "file": "assets/svg/verb_mutieren.svg",
+    "category": "biosemiotic_verbs",
+    "alt": "verb mutieren"
+  },
+  "assets/svg/verb_regulieren.svg": {
+    "file": "assets/svg/verb_regulieren.svg",
+    "category": "biosemiotic_verbs",
+    "alt": "verb regulieren"
+  },
+  "assets/svg/verb_interagieren.svg": {
+    "file": "assets/svg/verb_interagieren.svg",
+    "category": "biosemiotic_verbs",
+    "alt": "verb interagieren"
+  },
+  "assets/svg/verb_assimilieren.svg": {
+    "file": "assets/svg/verb_assimilieren.svg",
+    "category": "biosemiotic_verbs",
+    "alt": "verb assimilieren"
+  },
+  "assets/svg/verb_translatieren.svg": {
+    "file": "assets/svg/verb_translatieren.svg",
+    "category": "biosemiotic_verbs",
+    "alt": "verb translatieren"
+  },
+  "assets/svg/verb_inhibieren.svg": {
+    "file": "assets/svg/verb_inhibieren.svg",
+    "category": "biosemiotic_verbs",
+    "alt": "verb inhibieren"
+  },
+  "assets/svg/verb_selektieren.svg": {
+    "file": "assets/svg/verb_selektieren.svg",
+    "category": "biosemiotic_verbs",
+    "alt": "verb selektieren"
+  },
+  "assets/svg/verb_koevolvieren.svg": {
+    "file": "assets/svg/verb_koevolvieren.svg",
+    "category": "biosemiotic_verbs",
+    "alt": "verb koevolvieren"
+  },
+  "assets/svg/verb_kodieren.svg": {
+    "file": "assets/svg/verb_kodieren.svg",
+    "category": "biosemiotic_verbs",
+    "alt": "verb kodieren"
+  },
+  "assets/svg/verb_oszillieren.svg": {
+    "file": "assets/svg/verb_oszillieren.svg",
+    "category": "biosemiotic_verbs",
+    "alt": "verb oszillieren"
+  },
+  "assets/svg/verb_signalisieren.svg": {
+    "file": "assets/svg/verb_signalisieren.svg",
+    "category": "biosemiotic_verbs",
+    "alt": "verb signalisieren"
   }
 }

@@ -1,0 +1,451 @@
+{
+  "category_id": "biosemiotic_evolutionary_verbs_b2_c1",
+  "category_title": {
+    "ar": "أفعال التكيف والتطور والسيميائيات الحيوية والأنظمة التكيفية",
+    "de": "Biosemiotische, evolutionäre und adaptive Systemverben",
+    "en": "Biosemiotic, Evolutionary & Adaptive Systems Verbs"
+  },
+  "level": "B2/C1",
+  "items": [
+    {
+      "id": "verb_mutieren",
+      "german": "mutieren",
+      "arabic": "يَطْفُرُ / يَتَحَوَّرُ جِينِيًّا",
+      "english": "to mutate genetically",
+      "conjugation": {
+        "praesens": "er/sie/es mutiert",
+        "praeteritum": "mutierte",
+        "perfekt": "ist mutiert"
+      },
+      "preposition": "zu + Dat / durch + Akk",
+      "collocations": [
+        "spontan mutieren",
+        "zu einer resistenten Variante mutieren"
+      ],
+      "example_sentence": {
+        "de": "Unter starkem Selektionsdruck mutierte das Bakterium zu einem gegen Antibiotika resistenten Stamm.",
+        "ar": "تَحْتَ وَطْأَةِ ضَغْطِ الانْتِخَابِ الطَّبِيعِيِّ القَوِيِّ، طَفَرَتِ البَكْتِيرْيَا إِلَى سُلَالَةٍ مُقَاوِمَةٍ لِلْمُضَادَّاتِ الحَيَوِيَّةِ.",
+        "en": "Under strong selection pressure, the bacterium mutated into an antibiotic-resistant strain."
+      },
+      "image": "assets/svg/verb_mutieren.svg"
+    },
+    {
+      "id": "verb_selektieren",
+      "german": "selektieren",
+      "arabic": "يَنْتَخِبُ طَبِيعِيًّا / يَفْرِزُ تَطَوُّرِيًّا",
+      "english": "to select evolutionarily",
+      "conjugation": {
+        "praesens": "er/sie/es selektiert",
+        "praeteritum": "selektierte",
+        "perfekt": "hat selektiert"
+      },
+      "preposition": "nach + Dat / auf + Akk",
+      "collocations": [
+        "vorteilhafte Merkmale selektieren",
+        "natürlich selektieren"
+      ],
+      "example_sentence": {
+        "de": "Die natürliche Auslese selektiert jene Individuen, deren Phänotyp am besten an extreme Kälte angepasst ist.",
+        "ar": "يَنْتَخِبُ الانْتِخَابُ الطَّبِيعِيُّ الأَفْرَادَ الَّذِينَ يَتَوَافَقُ نَمَطُهُمُ الظَّاهِرِيُّ مَعَ البَرْدِ الشَّدِيدِ بِأَفْضَلِ صُورَةٍ.",
+        "en": "Natural selection selects those individuals whose phenotype is best adapted to extreme cold."
+      },
+      "image": "assets/svg/verb_selektieren.svg"
+    },
+    {
+      "id": "verb_transduzieren",
+      "german": "transduzieren",
+      "arabic": "يُحَوِّلُ الإِشَارَةَ الحَيَوِيَّةَ / يَنْقُلُ المَعْلُومَةَ بَيْنَ الأَنْسِجَةِ",
+      "english": "to transduce biological signals",
+      "conjugation": {
+        "praesens": "er/sie/es transduziert",
+        "praeteritum": "transduzierte",
+        "perfekt": "hat transduziert"
+      },
+      "preposition": "in + Akk",
+      "collocations": [
+        "Reize in Nervenimpulse transduzieren",
+        "Signale über die Membran transduzieren"
+      ],
+      "example_sentence": {
+        "de": "Photorezeptoren in der Retina transduzieren eintreffende Lichtquanten in elektrische Potenziale.",
+        "ar": "تُحَوِّلُ المُسْتَقْبِلَاتُ الضَّوْئِيَّةُ فِي شَبَكِيَّةِ العَيْنِ كَمَّاتِ الضَّوْءِ الوَارِدَةَ إِلَى جُهُودٍ كَهْرَبَائِيَّةٍ.",
+        "en": "Photoreceptors in the retina transduce incoming light quanta into electrical potentials."
+      },
+      "image": "assets/svg/verb_transduzieren.svg"
+    },
+    {
+      "id": "verb_kodieren",
+      "german": "kodieren",
+      "arabic": "يُشَفِّرُ جِينِيًّا أَوْ حَيَوِيًّا",
+      "english": "to encode genetically",
+      "conjugation": {
+        "praesens": "er/sie/es kodiert",
+        "praeteritum": "kodierte",
+        "perfekt": "hat kodiert"
+      },
+      "preposition": "für + Akk",
+      "collocations": [
+        "für ein Strukturprotein kodieren",
+        "genetische Information kodieren"
+      ],
+      "example_sentence": {
+        "de": "Dieser DNA-Abschnitt kodiert präzise für die Aminosäuresequenz des Hämoglobins.",
+        "ar": "يُشَفِّرُ هَذَا المَقْطَعُ مِنْ الحَمْضِ النَّوَوِيِّ بِدِقَّةٍ تَسَلْسُلَ الأَحْمَاضِ الأَمِينِيَّةِ لِلْهِيمُوجْلُوبِينِ.",
+        "en": "This segment of DNA encodes precisely for the amino acid sequence of hemoglobin."
+      },
+      "image": "assets/svg/verb_kodieren.svg"
+    },
+    {
+      "id": "verb_dekodieren",
+      "german": "dekodieren",
+      "arabic": "يَفُكُّ الشَّفْرَةَ الحَيَوِيَّةَ أَوِ السِّيمْيَائِيَّةَ",
+      "english": "to decode biological signals",
+      "conjugation": {
+        "praesens": "er/sie/es dekodiert",
+        "praeteritum": "dekodierte",
+        "perfekt": "hat dekodiert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "molekulare Botschaften dekodieren",
+        "den genetischen Code vollständig dekodieren"
+      ],
+      "example_sentence": {
+        "de": "Ribosomen dekodieren die Boten-RNA Basentriplett für Basentriplett während der Proteinsynthese.",
+        "ar": "تَفُكُّ الرَّيْبُوسُومَاتُ شَفْرَةَ الرَّنَا المُرْسَالِ ثُلَاثِيَّةً تِلْوَ ثُلَاثِيَّةٍ أَثْنَاءَ بِنَاءِ البُرُوتِينِ.",
+        "en": "Ribosomes decode messenger RNA triplet by triplet during protein synthesis."
+      },
+      "image": "assets/svg/verb_dekodieren.svg"
+    },
+    {
+      "id": "verb_differenzieren",
+      "german": "sich differenzieren",
+      "arabic": "يَتَمَايَزُ خَلَوِيًّا / يَتَحَوَّلُ إِلَى نَسِيجٍ مُتَخَصِّصٍ",
+      "english": "to differentiate cellularly",
+      "conjugation": {
+        "praesens": "er/sie/es differenziert sich",
+        "praeteritum": "differenzierte sich",
+        "perfekt": "hat sich differenziert"
+      },
+      "preposition": "zu + Dat / in + Akk",
+      "collocations": [
+        "sich zu Nervenzellen differenzieren",
+        "in spezialisierte Zelltypen differenzieren"
+      ],
+      "example_sentence": {
+        "de": "Unter dem Einfluss von Wachstumsfaktoren differenzieren sich embryonale Stammzellen zu Herzmuskelgewebe.",
+        "ar": "تَتَمَايَزُ الخَلَايَا الجِذْعِيَّةُ الجَنِينِيَّةُ تَحْتَ تَأْثِيرِ عَوَامِلِ النُّمُوِّ إِلَى نَسِيجِ عَضَلَةِ القَلْبِ.",
+        "en": "Under the influence of growth factors, embryonic stem cells differentiate into cardiac muscle tissue."
+      },
+      "image": "assets/svg/verb_differenzieren.svg"
+    },
+    {
+      "id": "verb_assimilieren",
+      "german": "assimilieren",
+      "arabic": "يَسْتَوْعِبُ حَيَوِيًّا / يَتَمَثَّلُ الغِذَاءَ فِي النَّسِيجِ",
+      "english": "to assimilate biologically",
+      "conjugation": {
+        "praesens": "er/sie/es assimiliert",
+        "praeteritum": "assimilierte",
+        "perfekt": "hat assimiliert"
+      },
+      "preposition": "in + Akk",
+      "collocations": [
+        "Nährstoffe vollständig assimilieren",
+        "anorganische Stoffe assimilieren"
+      ],
+      "example_sentence": {
+        "de": "Pflanzen assimilieren Kohlendioxid aus der Atmosphäre mithilfe der Sonnenenergie.",
+        "ar": "تَتَمَثَّلُ النَّبَاتَاتُ ثَانِيَ أُكْسِيدِ الكَرْبُونِ مِنَ الغِلَافِ الجَوِّيِّ بِمُسَاعَدَةِ الطَّاقَةِ الشَّمْسِيَّةِ.",
+        "en": "Plants assimilate carbon dioxide from the atmosphere utilizing solar energy."
+      },
+      "image": "assets/svg/verb_assimilieren.svg"
+    },
+    {
+      "id": "verb_oszillieren",
+      "german": "oszillieren",
+      "arabic": "يَتَذَبْذَبُ حَيَوِيًّا / يَتَمَوَّجُ إِيقَاعِيًّا فِي النِّظَامِ",
+      "english": "to oscillate biologically",
+      "conjugation": {
+        "praesens": "er/sie/es oszilliert",
+        "praeteritum": "oszillierte",
+        "perfekt": "hat oszilliert"
+      },
+      "preposition": "zwischen + Dat",
+      "collocations": [
+        "im zirkadianen Rhythmus oszillieren",
+        "Calcium-Konzentrationen oszillieren"
+      ],
+      "example_sentence": {
+        "de": "Die Hormonspiegel oszillieren synchron mit dem Hell-Dunkel-Zyklus der Umgebung.",
+        "ar": "تَتَذَبْذَبُ مُسْتَوَيَاتُ الهُرْمُونَاتِ بِتَزَامُنٍ مَعَ دَوْرَةِ النُّورِ وَالظَّلَامِ فِي البِيئَةِ.",
+        "en": "Hormone levels oscillate in synchrony with the light-dark cycle of the environment."
+      },
+      "image": "assets/svg/verb_oszillieren.svg"
+    },
+    {
+      "id": "verb_koevolvieren",
+      "german": "koevolvieren",
+      "arabic": "يَتَطَوَّرُ تَطَوُّرًا مُشْتَرَكًا مُتَبَادَلًا",
+      "english": "to co-evolve",
+      "conjugation": {
+        "praesens": "er/sie/es koevolviert",
+        "praeteritum": "koevolvierte",
+        "perfekt": "hat koevolviert"
+      },
+      "preposition": "mit + Dat",
+      "collocations": [
+        "mit Bestäubern koevolvieren",
+        "in einer Symbiose koevolvieren"
+      ],
+      "example_sentence": {
+        "de": "Blütenpflanzen und Insekten koevolvierten über Millionen Jahre in enger wechselseitiger Anpassung.",
+        "ar": "تَطَوَّرَتِ النَّبَاتَاتُ الزَّهْرِيَّةُ وَالحَشَرَاتُ تَطَوُّرًا مُشْتَرَكًا عَبْرَ مَلَايِينِ السِّنِينَ فِي تَكَيُّفٍ مُتَبَادَلٍ وَثِيقٍ.",
+        "en": "Flowering plants and insects co-evolved over millions of years in close reciprocal adaptation."
+      },
+      "image": "assets/svg/verb_koevolvieren.svg"
+    },
+    {
+      "id": "verb_signalisieren",
+      "german": "signalisieren",
+      "arabic": "يُرْسِلُ إِشَارَاتٍ حَيَوِيَّةً / يُعْطِي عَلَامَةً كِيمْيَائِيَّةً",
+      "english": "to signal biologically",
+      "conjugation": {
+        "praesens": "er/sie/es signalisiert",
+        "praeteritum": "signalisierte",
+        "perfekt": "hat signalisiert"
+      },
+      "preposition": "an + Akk / über + Akk",
+      "collocations": [
+        "Gefahr chemisch signalisieren",
+        "Zellstress signalisieren"
+      ],
+      "example_sentence": {
+        "de": "Beschädigte Blattzellen signalisieren benachbarten Geweben die Anwesenheit von Fressfeinden.",
+        "ar": "تُرْسِلُ خَلَايَا الأَوْرَاقِ التَّالِفَةِ إِشَارَاتٍ إِلَى الأَنْسِجَةِ المُجَاوِرَةِ تُنَبِّهُهَا بِوُجُودِ الحَشَرَاتِ الضَّارَّةِ.",
+        "en": "Damaged leaf cells signal to neighboring tissues the presence of herbivores."
+      },
+      "image": "assets/svg/verb_signalisieren.svg"
+    },
+    {
+      "id": "verb_epigenetisch_praegen",
+      "german": "epigenetisch prägen",
+      "arabic": "يَطْبَعُ فَوْقَ جِينِيًّا / يُعَدِّلُ التَّعْبِيرَ الوِرَاثِيَّ دُونَ مَسَاسٍ بِالشَّفْرَةِ",
+      "english": "to imprint epigenetically",
+      "conjugation": {
+        "praesens": "er/sie/es prägt epigenetisch",
+        "praeteritum": "prägte epigenetisch",
+        "perfekt": "hat epigenetisch geprägt"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "die Genexpression epigenetisch prägen",
+        "den Stoffwechsel nachhaltig prägen"
+      ],
+      "example_sentence": {
+        "de": "Frühkindliche Ernährungsmängel können das Risikoprofil für spätere Krankheiten epigenetisch prägen.",
+        "ar": "قَدْ تَطْبَعُ أَوْجُهُ النَّقْصِ الغِذَائِيِّ فِي الطُّفُولَةِ المُبَكِّرَةِ مَلَامِحَ مَخَاطِرِ الأَمْرَاضِ اللَّاحِقَةِ فَوْقَ جِينِيًّا.",
+        "en": "Early childhood nutritional deficits can epigenetically imprint risk profiles for subsequent illnesses."
+      },
+      "image": "assets/svg/verb_epigenetisch_praegen.svg"
+    },
+    {
+      "id": "verb_regulieren",
+      "german": "regulieren",
+      "arabic": "يُنَظِّمُ تَبَادُلِيًّا وَتَوَازُنِيًّا",
+      "english": "to regulate homeostatically",
+      "conjugation": {
+        "praesens": "er/sie/es reguliert",
+        "praeteritum": "regulierte",
+        "perfekt": "hat reguliert"
+      },
+      "preposition": "über + Akk",
+      "collocations": [
+        "den Blutzuckerspiegel regulieren",
+        "die Körpertemperatur präzise regulieren"
+      ],
+      "example_sentence": {
+        "de": "Das vegetative Nervensystem reguliert den Blutdruck durch kontinuierliche Anpassung der Gefäßweite.",
+        "ar": "يُنَظِّمُ الجِهَازُ العَصَبِيُّ اللَّاإِرَادِيُّ ضَغْطَ الدَّمِ عَبْرَ التَّعْدِيلِ المُسْتَمِرِّ لِاتِّسَاعِ الأَوْعِيَةِ الدَّمَوِيَّةِ.",
+        "en": "The autonomic nervous system regulates blood pressure through continuous modulation of vascular diameter."
+      },
+      "image": "assets/svg/verb_regulieren.svg"
+    },
+    {
+      "id": "verb_replizieren",
+      "german": "replizieren",
+      "arabic": "يَنْسَخُ ذَاتِيًّا / يَتَكَاثَرُ جُزَيْئِيًّا بِدِقَّةٍ",
+      "english": "to replicate molecularly",
+      "conjugation": {
+        "praesens": "er/sie/es repliziert",
+        "praeteritum": "replizierte",
+        "perfekt": "hat repliziert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "das Genom fehlerfrei replizieren",
+        "virale RNA replizieren"
+      ],
+      "example_sentence": {
+        "de": "Vor jeder Zellteilung muss die DNA-Polymerase das gesamte Erbgut fehlerfrei replizieren.",
+        "ar": "قَبْلَ كُلِّ انْقِسَامٍ خَلَوِيٍّ، يَجِبُ عَلَى إِنْزِيمِ بُولِيمِيرَازِ الحَمْضِ النَّوَوِيِّ نَسْخُ المَادَّةِ الوِرَاثِيَّةِ كَامِلَةً بِلَا أَخْطَاءٍ.",
+        "en": "Prior to each cell division, DNA polymerase must replicate the entire genetic material error-free."
+      },
+      "image": "assets/svg/verb_replizieren.svg"
+    },
+    {
+      "id": "verb_adaptieren",
+      "german": "sich adaptieren",
+      "arabic": "يَتَكَيَّفُ حَيَوِيًّا مَعَ البِيئَةِ",
+      "english": "to adapt biologically",
+      "conjugation": {
+        "praesens": "er/sie/es adaptiert sich",
+        "praeteritum": "adaptierte sich",
+        "perfekt": "hat sich adaptiert"
+      },
+      "preposition": "an + Akk",
+      "collocations": [
+        "sich an sauerstoffarme Höhen adaptieren",
+        "sich an Trockenheit adaptieren"
+      ],
+      "example_sentence": {
+        "de": "Tiefseeorganismen adaptierten sich im Laufe der Evolution an extremen hydrostatischen Druck.",
+        "ar": "تَكَيَّفَتْ كَائِنَاتُ أَعْمَاقِ البِحَارِ عَلَى مَدَارِ التَّطَوُّرِ مَعَ الضَّغْطِ المَائِيِّ الفَائِقِ.",
+        "en": "Deep-sea organisms adapted over the course of evolution to extreme hydrostatic pressure."
+      },
+      "image": "assets/svg/verb_adaptieren.svg"
+    },
+    {
+      "id": "verb_interagieren",
+      "german": "interagieren",
+      "arabic": "يَتَفَاعَلُ حَيَوِيًّا وَبِيئِيًّا مَعَ المُحِيطِ",
+      "english": "to interact ecologically or biologically",
+      "conjugation": {
+        "praesens": "er/sie/es interagiert",
+        "praeteritum": "interagierte",
+        "perfekt": "hat interagiert"
+      },
+      "preposition": "mit + Dat",
+      "collocations": [
+        "mit dem Mikrobiom interagieren",
+        "molekular interagieren"
+      ],
+      "example_sentence": {
+        "de": "Darmbakterien interagieren eng mit dem menschlichen Immunsystem zur Aufrechterhaltung der Gesundheit.",
+        "ar": "تَتَفَاعَلُ بَكْتِيرْيَا الأَمْعَاءِ وَثِيقًا مَعَ الجِهَازِ المَنَاعِيِّ البَشَرِيِّ لِلْحِفَاظِ عَلَى الصِّحَّةِ.",
+        "en": "Gut bacteria interact closely with the human immune system to maintain physiological health."
+      },
+      "image": "assets/svg/verb_interagieren.svg"
+    },
+    {
+      "id": "verb_transkribieren",
+      "german": "transkribieren",
+      "arabic": "يَنْسَخُ الجِينَ إِلَى رَنَا (تُرَانْسْكْرِيبْشِن)",
+      "english": "to transcribe genetically",
+      "conjugation": {
+        "praesens": "er/sie/es transkribiert",
+        "praeteritum": "transkribierte",
+        "perfekt": "hat transkribiert"
+      },
+      "preposition": "in + Akk",
+      "collocations": [
+        "DNA in mRNA transkribieren",
+        "Gene aktiv transkribieren"
+      ],
+      "example_sentence": {
+        "de": "Die RNA-Polymerase transkribiert die Information eines Gens in ein instabiles Botenmolekül.",
+        "ar": "يَنْسَخُ إِنْزِيمُ بُولِيمِيرَازِ الرَّنَا مَعْلُومَاتِ الجِينِ إِلَى جُزَيْءٍ مُرْسَالٍ قَصِيرِ العُمْرِ.",
+        "en": "RNA polymerase transcribes the information of a gene into an unstable messenger molecule."
+      },
+      "image": "assets/svg/verb_transkribieren.svg"
+    },
+    {
+      "id": "verb_translatieren",
+      "german": "translatieren",
+      "arabic": "يُتَرْجِمُ شَفْرَةَ الرَّنَا إِلَى بُرُوتِينٍ (تُرَانْسْلَيْشِن)",
+      "english": "to translate mRNA into protein",
+      "conjugation": {
+        "praesens": "er/sie/es translatiert",
+        "praeteritum": "translatierte",
+        "perfekt": "hat translatiert"
+      },
+      "preposition": "in + Akk",
+      "collocations": [
+        "Basensequenzen in Proteine translatieren",
+        "mRNA effizient translatieren"
+      ],
+      "example_sentence": {
+        "de": "Zelluläre Komplexe translatieren genetische Instruktionen in funktionale Enzymstrukturen.",
+        "ar": "تُتَرْجِمُ المُرَكَّبَاتُ الخَلَوِيَّةُ الإِرْشَادَاتِ الجِينِيَّةَ إِلَى بُنًى إِنْزِيمِيَّةٍ وَظِيفِيَّةٍ.",
+        "en": "Cellular complexes translate genetic instructions into functional enzymatic structures."
+      },
+      "image": "assets/svg/verb_translatieren.svg"
+    },
+    {
+      "id": "verb_stimulieren",
+      "german": "stimulieren",
+      "arabic": "يَسْتَحِثُّ حَيَوِيًّا / يُنَشِّطُ المُسْتَقْبِلَاتِ",
+      "english": "to stimulate biological receptors",
+      "conjugation": {
+        "praesens": "er/sie/es stimuliert",
+        "praeteritum": "stimulierte",
+        "perfekt": "hat stimuliert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "das Zellwachstum stimulieren",
+        "die Antikörperproduktion stimulieren"
+      ],
+      "example_sentence": {
+        "de": "Impfstoffe stimulieren das adaptive Immunsystem zur Bildung langlebiger Gedächtniszellen.",
+        "ar": "تَسْتَحِثُّ اللِّقَاحَاتُ الجِهَازَ المَنَاعِيَّ التَّكَيُّفِيَّ عَلَى تَكْوِينِ خَلَايَا ذَاكِرَةٍ طَوِيلَةِ الأَمَدِ.",
+        "en": "Vaccines stimulate the adaptive immune system to produce long-lived memory cells."
+      },
+      "image": "assets/svg/verb_stimulieren.svg"
+    },
+    {
+      "id": "verb_inhibieren",
+      "german": "inhibieren",
+      "arabic": "يُثَبِّطُ المَسَارَاتِ الحَيَوِيَّةَ أَوِ الإِنْزِيمِيَّةَ",
+      "english": "to inhibit enzymatic or metabolic pathways",
+      "conjugation": {
+        "praesens": "er/sie/es inhibiert",
+        "praeteritum": "inhibierte",
+        "perfekt": "hat inhibiert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "enzymatische Reaktionen kompetitiv inhibieren",
+        "Signalwege gezielt inhibieren"
+      ],
+      "example_sentence": {
+        "de": "Das Medikament inhibiert spezifisch das Enzym, das für die Vermehrung des Erregers unverzichtbar ist.",
+        "ar": "يُثَبِّطُ الدَّوَاءُ نَوْعِيًّا الإِنْزِيمَ الضَّرُورِيَّ لِتَكَاثُرِ الكَائِنِ المُسَبِّبِ لِلْمَرَضِ.",
+        "en": "The drug specifically inhibits the enzyme essential for the replication of the pathogen."
+      },
+      "image": "assets/svg/verb_inhibieren.svg"
+    },
+    {
+      "id": "verb_autopoietisch_regenerieren",
+      "german": "autopoietisch regenerieren",
+      "arabic": "يُجَدِّدُ ذَاتَهُ أُوتُوبْوَيِيتِيًّا (بِإِنْتَاجٍ ذَاتِيٍّ مُسْتَمِرٍّ)",
+      "english": "to regenerate autopoietically",
+      "conjugation": {
+        "praesens": "er/sie/es regeneriert sich autopoietisch",
+        "praeteritum": "regenerierte sich autopoietisch",
+        "perfekt": "hat sich autopoietisch regeneriert"
+      },
+      "preposition": "aus + Dat",
+      "collocations": [
+        "sich aus eigener Kraft autopoietisch regenerieren",
+        "die Zellmatrix regenerieren"
+      ],
+      "example_sentence": {
+        "de": "Lebende Organismen zeichnen sich dadurch aus, dass sie ihre stofflichen Komponenten kontinuierlich autopoietisch regenerieren.",
+        "ar": "تَتَمَيَّزُ الكَائِنَاتُ الحَيَّةُ بِقُدْرَتِهَا عَلَى تَجْدِيدِ مُكَوِّنَاتِهَا المَادِّيَّةِ بِاسْتِمْرَارٍ عَبْرَ التَّوْلِيدِ الذَّاتِيِّ الأُوتُوبْوَيِيتِيِّ.",
+        "en": "Living organisms are distinguished by their capacity to continuously regenerate their material components autopoietically."
+      },
+      "image": "assets/svg/verb_autopoietisch_regenerieren.svg"
+    }
+  ]
+}

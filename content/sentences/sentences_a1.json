@@ -7086,6 +7086,171 @@
         "Reflexives Verb 'sich entwickeln'",
         "Lokale Angabe mit Dativ Feminin 'in der Natur'"
       ]
+    },
+    {
+      "id": "sent_351",
+      "category": "cell_biology",
+      "difficulty": "A1+",
+      "arabic": "الخَلِيَّةُ تَنْقَسِمُ لِتَنْمُوَ بِشَكْلٍ طَبِيعِيٍّ.",
+      "german": "Die Zelle teilt sich, um natürlich zu wachsen.",
+      "english": "The cell divides to grow naturally.",
+      "tokens": [
+        {
+          "word": "Die Zelle",
+          "pos": "noun",
+          "ar": "الخَلِيَّةُ"
+        },
+        {
+          "word": "teilt sich",
+          "pos": "reflexive_verb",
+          "ar": "تَنْقَسِمُ"
+        },
+        {
+          "word": "um ... zu wachsen",
+          "pos": "infinitive_clause",
+          "ar": "لِتَنْمُوَ"
+        },
+        {
+          "word": "natürlich",
+          "pos": "adverb",
+          "ar": "بِشَكْلٍ طَبِيعِيٍّ"
+        }
+      ],
+      "grammar_points": [
+        "Reflexives Verb 'sich teilen'",
+        "Finaler Infinitivsatz mit 'um ... zu'"
+      ]
+    },
+    {
+      "id": "sent_352",
+      "category": "genetics",
+      "difficulty": "A1+",
+      "arabic": "الجِينُ يُشَفِّرُ مَعْلُومَاتٍ هَامَّةً لِلْجِسْمِ.",
+      "german": "Das Gen kodiert wichtige Informationen für den Körper.",
+      "english": "The gene encodes important information for the body.",
+      "tokens": [
+        {
+          "word": "Das Gen",
+          "pos": "noun",
+          "ar": "الجِينُ"
+        },
+        {
+          "word": "kodiert",
+          "pos": "verb",
+          "ar": "يُشَفِّرُ"
+        },
+        {
+          "word": "wichtige Informationen",
+          "pos": "noun_phrase",
+          "ar": "مَعْلُومَاتٍ هَامَّةً"
+        },
+        {
+          "word": "für den Körper",
+          "pos": "preposition_phrase",
+          "ar": "لِلْجِسْمِ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Neutrum Nominativ",
+        "Präposition 'für' + Akkusativ Maskulin"
+      ]
+    },
+    {
+      "id": "sent_353",
+      "category": "adaptation_nature",
+      "difficulty": "A1+",
+      "arabic": "الأَشْجَارُ تَتَكَيَّفُ مَعَ الطَّقْسِ البَارِدِ هُنَا.",
+      "german": "Die Bäume adaptieren sich an das kalte Wetter hier.",
+      "english": "The trees adapt to the cold weather here.",
+      "tokens": [
+        {
+          "word": "Die Bäume",
+          "pos": "noun",
+          "ar": "الأَشْجَارُ"
+        },
+        {
+          "word": "adaptieren sich",
+          "pos": "reflexive_verb",
+          "ar": "تَتَكَيَّفُ"
+        },
+        {
+          "word": "an das kalte Wetter",
+          "pos": "preposition_phrase",
+          "ar": "مَعَ الطَّقْسِ البَارِدِ"
+        },
+        {
+          "word": "hier",
+          "pos": "adverb",
+          "ar": "هُنَا"
+        }
+      ],
+      "grammar_points": [
+        "Verb 'sich adaptieren' + Präposition 'an' + Akkusativ Neutrum",
+        "Subjekt im Plural"
+      ]
+    },
+    {
+      "id": "sent_354",
+      "category": "system_regulation",
+      "difficulty": "A1+",
+      "arabic": "النِّظَامُ يَعْمَلُ بِانْتِظَامٍ طَوَالَ الوَقْتِ.",
+      "german": "Das System funktioniert regelmäßig die ganze Zeit.",
+      "english": "The system functions regularly all the time.",
+      "tokens": [
+        {
+          "word": "Das System",
+          "pos": "noun",
+          "ar": "النِّظَامُ"
+        },
+        {
+          "word": "funktioniert",
+          "pos": "verb",
+          "ar": "يَعْمَلُ"
+        },
+        {
+          "word": "regelmäßig",
+          "pos": "adverb",
+          "ar": "بِانْتِظَامٍ"
+        },
+        {
+          "word": "die ganze Zeit",
+          "pos": "temporal_accusative",
+          "ar": "طَوَالَ الوَقْتِ"
+        }
+      ],
+      "grammar_points": [
+        "Präsens regelmäßiges Verb",
+        "Akkusativ der Zeitdauer 'die ganze Zeit'"
+      ]
+    },
+    {
+      "id": "sent_355",
+      "category": "communication_organisms",
+      "difficulty": "A1+",
+      "arabic": "التَّوَاصُلُ الحَيَوِيُّ يَحْمِي الكَائِنَاتِ الصَّغِيرَةَ.",
+      "german": "Die biologische Kommunikation schützt die kleinen Lebewesen.",
+      "english": "Biological communication protects the small organisms.",
+      "tokens": [
+        {
+          "word": "Die biologische Kommunikation",
+          "pos": "noun_phrase",
+          "ar": "التَّوَاصُلُ الحَيَوِيُّ"
+        },
+        {
+          "word": "schützt",
+          "pos": "verb",
+          "ar": "يَحْمِي"
+        },
+        {
+          "word": "die kleinen Lebewesen",
+          "pos": "noun_phrase",
+          "ar": "الكَائِنَاتِ الصَّغِيرَةَ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Feminin Nominativ",
+        "Akkusativ Plural 'die kleinen Lebewesen'"
+      ]
     }
   ]
 }
