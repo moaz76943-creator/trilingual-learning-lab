@@ -1,0 +1,336 @@
+{
+  "category_id": "biosemiotics_c1",
+  "category_title": {
+    "ar": "نظرية المعرفة التطورية والسيميائيات الحيوية وتشفير المعنى الطبيعي",
+    "de": "Evolutionäre Erkenntnistheorie, Biosemiotik und natürliche Bedeutungsgenese",
+    "en": "Evolutionary Epistemology & Biosemiotics"
+  },
+  "level": "C1",
+  "items": [
+    {
+      "id": "concept_biosemiotik",
+      "german": "die Biosemiotik",
+      "plural": "die Biosemiotiken",
+      "arabic": "السِّيمْيَائِيَّاتُ الحَيَوِيَّةُ (سِيمْيُوطِيقَا الحَيَاةِ)",
+      "english": "biosemiotics",
+      "example_sentence": {
+        "de": "Die Biosemiotik erforscht biologische Prozesse als genuine Zeichensysteme und Bedeutungsprozesse.",
+        "ar": "تَبْحَثُ السِّيمْيَائِيَّاتُ الحَيَوِيَّةُ فِي العَمَلِيَّاتِ البَيُولُوجِيَّةِ بِوَصْفِهَا أَنْظِمَةَ عَلَامَاتٍ أَصِيلَةً وَعَمَلِيَّاتِ صُنْعِ مَعْنًى.",
+        "en": "Biosemiotics investigates biological processes as genuine sign systems and meaning-making dynamics."
+      },
+      "image": "assets/svg/concept_biosemiotik.svg"
+    },
+    {
+      "id": "concept_evolutionaere_erkenntnistheorie",
+      "german": "die evolutionäre Erkenntnistheorie",
+      "plural": "die evolutionären Erkenntnistheorien",
+      "arabic": "نَظَرِيَّةُ المَعْرِفَةِ التَّطَوُّرِيَّةُ",
+      "english": "evolutionary epistemology",
+      "example_sentence": {
+        "de": "Die evolutionäre Erkenntnistheorie postuliert, dass menschliche Erkenntnisapparate Produkte der biologischen Anpassung sind.",
+        "ar": "تَفْتَرِضُ نَظَرِيَّةُ المَعْرِفَةِ التَّطَوُّرِيَّةُ أَنَّ أَدَوَاتِ الإِدْرَاكِ البَشَرِيِّ هِيَ نِتَاجٌ لِلتَّكَيُّفِ البَيُولُوجِيِّ مَعَ العَالَمِ الوَاقِعِيِّ.",
+        "en": "Evolutionary epistemology posits that human cognitive faculties are products of biological adaptation."
+      },
+      "image": "assets/svg/concept_evolutionaere_erkenntnistheorie.svg"
+    },
+    {
+      "id": "concept_semiosphaere",
+      "german": "die Semiosphäre",
+      "plural": "die Semiosphären",
+      "arabic": "المَجَالُ السِّيمْيَائِيُّ الحَيَوِيُّ (السِّيمْيُوسْفِير)",
+      "english": "semiosphere",
+      "example_sentence": {
+        "de": "Die gesamte Biosphäre ist von einer komplexen Semiosphäre durchdrungen, in der Organismen Zeichen austauschen.",
+        "ar": "تَتَخَلَّلُ المَجَالَ الحَيَوِيَّ بِأَكْمَلِهِ سِيمْيُوسْفِير مُعَقَّدَةٌ تَتَبَادَلُ فِيهَا الكَائِنَاتُ الحَيَّةُ العَلَامَاتِ.",
+        "en": "The entire biosphere is permeated by a complex semiosphere in which organisms exchange signs."
+      },
+      "image": "assets/svg/concept_semiosphaere.svg"
+    },
+    {
+      "id": "concept_biologischer_zeichentraeger",
+      "german": "der biologische Zeichenträger",
+      "plural": "die biologischen Zeichenträger",
+      "arabic": "الحَامِلُ البَيُولُوجِيُّ لِلْعَلَامَةِ",
+      "english": "biological signifier / sign vehicle",
+      "example_sentence": {
+        "de": "Ein Hormon fungiert als biologischer Zeichenträger, der im Empfängergewebe spezifische Reaktionen auslöst.",
+        "ar": "يَعْمَلُ الهُرْمُونُ كَحَامِلٍ بَيُولُوجِيٍّ لِلْعَلَامَةِ، يُحَفِّزُ اسْتِجَابَاتٍ نَوْعِيَّةً فِي النَّسِيجِ المُسْتَقْبِلِ.",
+        "en": "A hormone functions as a biological signifier that triggers specific responses in target tissues."
+      },
+      "image": "assets/svg/concept_biologischer_zeichentraeger.svg"
+    },
+    {
+      "id": "concept_umwelt_uexkuell",
+      "german": "die Umwelt (nach Uexküll)",
+      "plural": "die Umwelten",
+      "arabic": "العَالَمُ الإِدْرَاكِيُّ المُحِيطُ لِلْكَائِنِ (الأُومْفِيلْت)",
+      "english": "subjective experiential environment (Umwelt)",
+      "example_sentence": {
+        "de": "Nach Jakob von Uexküll besitzt jeder Organismus eine spezifische Umwelt, die durch seine Sinnesorgane konstituiert wird.",
+        "ar": "وَفْقًا لِيَاكُوب فُون أُوكْسْكُول، يَمْتَلِكُ كُلُّ كَائِنٍ حَيٍّ أُومْفِيلْت خَاصَّةً تُشَكِّلُهَا أَعْضَاؤُهُ الحِسِّيَّةُ.",
+        "en": "According to Jakob von Uexküll, every organism possesses a specific Umwelt constituted by its sensory organs."
+      },
+      "image": "assets/svg/concept_umwelt_uexkuell.svg"
+    },
+    {
+      "id": "concept_signalmolekuel",
+      "german": "das Signalmolekül",
+      "plural": "die Signalmoleküle",
+      "arabic": "الجُزَيْءُ الإِشَارِيُّ الحَيَوِيُّ",
+      "english": "signaling molecule",
+      "example_sentence": {
+        "de": "Signalmoleküle koordinieren die Differenzierung von Stammzellen während der Embryonalentwicklung.",
+        "ar": "تُنَسِّقُ الجُزَيْئَاتُ الإِشَارِيَّةُ تَمَايُزَ الخَلَايَا الجِذْعِيَّةِ أَثْنَاءَ التَّطَوُّرِ الجَنِينِيِّ.",
+        "en": "Signaling molecules coordinate stem cell differentiation during embryonic development."
+      },
+      "image": "assets/svg/concept_signalmolekuel.svg"
+    },
+    {
+      "id": "concept_genetische_codierung",
+      "german": "die genetische Codierung",
+      "plural": "die genetischen Codierungen",
+      "arabic": "التَّشْفِيرُ الجِينِيُّ الرَّمْزِيُّ",
+      "english": "genetic encoding",
+      "example_sentence": {
+        "de": "Die universelle genetische Codierung bildet die semiotische Basis aller irdischen Lebensformen.",
+        "ar": "يُشَكِّلُ التَّشْفِيرُ الجِينِيُّ الكَوْنِيُّ الأَسَاسَ السِّيمْيَائِيَّ لِجَمِيعِ أَشْكَالِ الحَيَاةِ عَلَى كَوْكَبِ الأَرْضِ.",
+        "en": "Universal genetic encoding forms the semiotic foundation of all terrestrial life forms."
+      },
+      "image": "assets/svg/concept_genetische_codierung.svg"
+    },
+    {
+      "id": "concept_epigenetik",
+      "german": "die Epigenetik",
+      "plural": "die Epigenetiken",
+      "arabic": "عِلْمُ فَوْقِ الجِينَاتِ (التَّخَلُّقُ التَّعْبِيرِيُّ)",
+      "english": "epigenetics",
+      "example_sentence": {
+        "de": "Die Epigenetik zeigt, wie Umweltreize die Genaktivität modifizieren können, ohne den DNA-Code zu verändern.",
+        "ar": "يُبَيِّنُ عِلْمُ فَوْقِ الجِينَاتِ كَيْفَ يُمْكِنُ لِلْمُثِيرَاتِ البِيئِيَّةِ تَعْدِيلَ نَشَاطِ الجِينَاتِ دُونَ تَغْيِيرِ شَفْرَةِ الحَمْضِ النَّوَوِيِّ.",
+        "en": "Epigenetics demonstrates how environmental cues can modify gene activity without altering the DNA sequence."
+      },
+      "image": "assets/svg/concept_epigenetik.svg"
+    },
+    {
+      "id": "concept_zellulaere_kommunikation",
+      "german": "die zelluläre Kommunikation",
+      "plural": "die zellulären Kommunikationen",
+      "arabic": "التَّوَاصُلُ الخَلَوِيُّ الإِشَارِيُّ",
+      "english": "cellular communication",
+      "example_sentence": {
+        "de": "Störungen in der zellulären Kommunikation können zu unkontrolliertem Gewebewachstum führen.",
+        "ar": "قَدْ تُؤَدِّي الاضْطِرَابَاتُ فِي التَّوَاصُلِ الخَلَوِيِّ إِلَى نُمُوٍّ نَسِيجِيٍّ غَيْرِ مُنْضَبِطٍ.",
+        "en": "Disruptions in cellular communication can lead to uncontrolled tissue proliferation."
+      },
+      "image": "assets/svg/concept_zellulaere_kommunikation.svg"
+    },
+    {
+      "id": "concept_morphogenese",
+      "german": "die Morphogenese",
+      "plural": "die Morphogenesen",
+      "arabic": "التَّخَلُّقُ الشَّكْلِيُّ الحَيَوِيُّ",
+      "english": "morphogenesis",
+      "example_sentence": {
+        "de": "In der Morphogenese interpretieren Zellen biochemische Gradienten als räumliche Positionsinformationen.",
+        "ar": "فِي عَمَلِيَّةِ التَّخَلُّقِ الشَّكْلِيِّ، تُفَسِّرُ الخَلَايَا التَّدَرُّجَاتِ الكِيمْيَائِيَّةَ الحَيَوِيَّةَ كَمَعْلُومَاتٍ مَكَانِيَّةٍ لِلتَّمَوْضُعِ.",
+        "en": "In morphogenesis, cells interpret biochemical gradients as spatial positional information."
+      },
+      "image": "assets/svg/concept_morphogenese.svg"
+    },
+    {
+      "id": "concept_biologische_informationsverarbeitung",
+      "german": "die biologische Informationsverarbeitung",
+      "plural": "die biologischen Informationsverarbeitungen",
+      "arabic": "المُعَالَجَةُ البَيُولُوجِيَّةُ لِلْمَعْلُومَاتِ",
+      "english": "biological information processing",
+      "example_sentence": {
+        "de": "Biologische Informationsverarbeitung arbeitet hochgradig parallel und energetisch unvergleichlich effizient.",
+        "ar": "تَعْمَلُ المُعَالَجَةُ البَيُولُوجِيَّةُ لِلْمَعْلُومَاتِ بِتَوَازٍ فَائِقٍ وَبِكِفَايَةٍ طَاقِيَّةٍ لَا نَظِيرَ لَهَا.",
+        "en": "Biological information processing operates highly in parallel and with unparalleled energetic efficiency."
+      },
+      "image": "assets/svg/concept_biologische_informationsverarbeitung.svg"
+    },
+    {
+      "id": "concept_pheromonsystem",
+      "german": "das Pheromonsystem",
+      "plural": "die Pheromonsysteme",
+      "arabic": "النِّظَامُ الفِيرُومُونِيُّ الكِيمْيَائِيُّ",
+      "english": "pheromonal signaling system",
+      "example_sentence": {
+        "de": "Ameisenkolonien organisieren komplexe Futtersuchen über ein hochdifferenziertes Pheromonsystem.",
+        "ar": "تُنَظِّمُ مُسْتَعْمَرَاتُ النَّمْلِ عَمَلِيَّاتِ البَحْثِ المُعَقَّدَةِ عَنِ الغِذَاءِ عَبْرَ نِظَامٍ فِيرُومُونِيٍّ عَالِي التَّمَايُزِ.",
+        "en": "Ant colonies organize complex foraging operations via a highly differentiated pheromonal system."
+      },
+      "image": "assets/svg/concept_pheromonsystem.svg"
+    },
+    {
+      "id": "concept_phytosemiotik_prozess",
+      "german": "der Phytosemiotik-Prozess",
+      "plural": "die Phytosemiotik-Prozesse",
+      "arabic": "عَمَلِيَّةُ السِّيمْيَائِيَّاتِ النَّبَاتِيَّةِ (تَوَاصُلُ النَّبَاتَاتِ)",
+      "english": "phytosemiotic signaling process",
+      "example_sentence": {
+        "de": "Bäume warnen ihre Nachbarn vor Schädlingsbefall mittels flüchtiger organischer Verbindungen.",
+        "ar": "تُحَذِّرُ الأَشْجَارُ جَارَاتِهَا مِنْ هَجَمَاتِ الآفَاتِ عَبْرَ مُرَكَّبَاتٍ عُضْوِيَّةٍ مُتَطَايِرَةٍ فِي عَمَلِيَّاتِ السِّيمْيَائِيَّاتِ النَّبَاتِيَّةِ.",
+        "en": "Trees warn neighboring plants of pest infestations via volatile organic compounds in phytosemiotic processes."
+      },
+      "image": "assets/svg/concept_phytosemiotik_prozess.svg"
+    },
+    {
+      "id": "concept_zoosemiotik",
+      "german": "die Zoosemiotik",
+      "plural": "die Zoosemiotiken",
+      "arabic": "السِّيمْيَائِيَّاتُ الحَيَوَانِيَّةُ (تَوَاصُلُ الحَيَوَانَاتِ)",
+      "english": "zoosemiotics",
+      "example_sentence": {
+        "de": "Die Zoosemiotik entschlüsselt akustische, optische und taktile Signale im Sozialverhalten der Tiere.",
+        "ar": "تَفُكُّ السِّيمْيَائِيَّاتُ الحَيَوَانِيَّةُ شَفْرَةَ الإِشَارَاتِ الصَّوْتِيَّةِ وَالبَصَرِيَّةِ وَاللَّمْسِيَّةِ فِي السُّلُوكِ الاجْتِمَاعِيِّ لِلْحَيَوَانِ.",
+        "en": "Zoosemiotics decodes acoustic, visual, and tactile signs in animal social behavior."
+      },
+      "image": "assets/svg/concept_zoosemiotik.svg"
+    },
+    {
+      "id": "concept_endosymbiose",
+      "german": "die Endosymbiose",
+      "plural": "die Endosymbiosen",
+      "arabic": "التَّعَايُشُ الدَّاخِلِيُّ الخَلَوِيُّ",
+      "english": "endosymbiosis",
+      "example_sentence": {
+        "de": "Die Endosymbiontentheorie belegt die Entstehung von Mitochondrien aus einst freilebenden Bakterien.",
+        "ar": "تُثْبِتُ نَظَرِيَّةُ التَّعَايُشِ الدَّاخِلِيِّ نَشْأَةَ المِيتُوكُونْدِرْيَا مِنْ بَكْتِيرْيَا كَانَتْ تَعِيشُ حُرَّةً فِي السَّابِقِ.",
+        "en": "The endosymbiotic theory proves the origin of mitochondria from once free-living bacteria."
+      },
+      "image": "assets/svg/concept_endosymbiose.svg"
+    },
+    {
+      "id": "concept_biosignal",
+      "german": "das Biosignal",
+      "plural": "die Biosignale",
+      "arabic": "الإِشَارَةُ الحَيَوِيَّةُ",
+      "english": "biosignal",
+      "example_sentence": {
+        "de": "Medizinische Sensoren erfassen Biosignale wie das Elektrokardiogramm zur Früherkennung von Erkrankungen.",
+        "ar": "تَرْصُدُ المُسْتَشْعِرَاتُ الطِّبِّيَّةُ الإِشَارَاتِ الحَيَوِيَّةَ كَمُخَطَّطِ كَهْرَبَائِيَّةِ القَلْبِ لِلتَّشْخِيصِ المُبَكِّرِ لِلأَمْرَاضِ.",
+        "en": "Medical sensors capture biosignals such as electrocardiograms for the early detection of diseases."
+      },
+      "image": "assets/svg/concept_biosignal.svg"
+    },
+    {
+      "id": "concept_neuronale_plastizitaet",
+      "german": "die neuronale Plastizität",
+      "plural": "die neuronalen Plastizitäten",
+      "arabic": "اللُّدُونَةُ العَصَبِيَّةُ التَّكَيُّفِيَّةُ",
+      "english": "neural plasticity",
+      "example_sentence": {
+        "de": "Neuronale Plastizität ermöglicht dem Gehirn, synaptische Verbindungen lebenslang dynamisch umzubauen.",
+        "ar": "تُتِيحُ اللُّدُونَةُ العَصَبِيَّةُ لِلدِّمَاغِ إِعَادَةَ بِنَاءِ الرَّوَابِطِ المَشْبَكِيَّةِ بِشَكْلٍ دِينَامِيكِيٍّ طَوَالَ العُمْرِ.",
+        "en": "Neural plasticity enables the brain to dynamically rewire synaptic connections throughout life."
+      },
+      "image": "assets/svg/concept_neuronale_plastizitaet.svg"
+    },
+    {
+      "id": "concept_phylogenetische_anpassung",
+      "german": "die phylogenetische Anpassung",
+      "plural": "die phylogenetischen Anpassungen",
+      "arabic": "التَّكَيُّفُ السَّلَالِيُّ التَّطَوُّرِيُّ",
+      "english": "phylogenetic adaptation",
+      "example_sentence": {
+        "de": "Phylogenetische Anpassungen spiegeln vergangene Selektionsdrücke in den angeborenen Reflexen wider.",
+        "ar": "تَعْكِسُ التَّكَيُّفَاتُ السَّلَالِيَّةُ التَّطَوُّرِيَّةُ ضُغُوطَ الانْتِخَابِ الطَّبِيعِيِّ السَّابِقَةَ فِي المُنْعَكَسَاتِ الفِطْرِيَّةِ.",
+        "en": "Phylogenetic adaptations reflect past evolutionary selection pressures within innate reflexes."
+      },
+      "image": "assets/svg/concept_phylogenetische_anpassung.svg"
+    },
+    {
+      "id": "concept_kognitive_nische",
+      "german": "die kognitive Nische",
+      "plural": "die kognitiven Nischen",
+      "arabic": "المَوْطِنُ الإِدْرَاكِيُّ لِلْكَائِنِ",
+      "english": "cognitive niche",
+      "example_sentence": {
+        "de": "Der Mensch hat eine einzigartige kognitive Nische besetzt, indem er symbolische Werkzeuge und Sprache entwickelte.",
+        "ar": "احْتَلَّ الإِنْسَانُ مَوْطِنًا إِدْرَاكِيًّا فَرِيدًا مِنْ خِلَالِ تَطْوِيرِ الأَدَوَاتِ الرَّمْزِيَّةِ وَاللُّغَةِ.",
+        "en": "Humans occupied a unique cognitive niche by developing symbolic tools and complex language."
+      },
+      "image": "assets/svg/concept_kognitive_nische.svg"
+    },
+    {
+      "id": "concept_reiz_reaktions_muster",
+      "german": "das Reiz-Reaktions-Muster",
+      "plural": "die Reiz-Reaktions-Muster",
+      "arabic": "نَمَطُ المُثِيرِ وَالاسْتِجَابَةِ التَّكَيُّفِيُّ",
+      "english": "stimulus-response pattern",
+      "example_sentence": {
+        "de": "Komplexe Organismen können starre Reiz-Reaktions-Muster durch bewusstes Abwägen überwinden.",
+        "ar": "تَسْتَطِيعُ الكَائِنَاتُ الحَيَّةُ المُعَقَّدَةُ تَجَاوُزَ أَنْمَاطِ المُثِيرِ وَالاسْتِجَابَةِ الصَّلْبَةِ عَبْرَ التَّفْكِيرِ وَالمُفَاضَلَةِ الوَاعِيَةِ.",
+        "en": "Complex organisms can overcome rigid stimulus-response patterns through conscious deliberation."
+      },
+      "image": "assets/svg/concept_reiz_reaktions_muster.svg"
+    },
+    {
+      "id": "concept_sensorische_transduktion",
+      "german": "die sensorische Transduktion",
+      "plural": "die sensorischen Transduktionen",
+      "arabic": "التَّحْوِيلُ الحِسِّيُّ الحَيَوِيُّ (التَّرَانْسْدَكْشِن)",
+      "english": "sensory transduction",
+      "example_sentence": {
+        "de": "Die sensorische Transduktion übersetzt physikalische Photonenreize in elektrochemische Nervenimpulse.",
+        "ar": "يُتَرْجِمُ التَّحْوِيلُ الحِسِّيُّ الحَيَوِيُّ مُثِيرَاتِ الفُوتُونَاتِ الفِيزْيَائِيَّةَ إِلَى نَبَضَاتٍ عَصَبِيَّةٍ كَهْرُوكِيمْيَائِيَّةٍ.",
+        "en": "Sensory transduction translates physical photon stimuli into electrochemical nerve impulses."
+      },
+      "image": "assets/svg/concept_sensorische_transduktion.svg"
+    },
+    {
+      "id": "concept_bioresonanz",
+      "german": "die Bioresonanz",
+      "plural": "die Bioresonanzen",
+      "arabic": "الرَّنِينُ وَالتَّنَاغُمُ الحَيَوِيُّ",
+      "english": "bioresonance and systemic oscillation",
+      "example_sentence": {
+        "de": "Bioresonanz-Phänomene beschreiben die rhythmische Synchronisation biologischer Oszillatoren.",
+        "ar": "تَصِفُ ظَوَاهِرُ التَّنَاغُمِ الحَيَوِيِّ التَّزَامُنَ الإِيقَاعِيَّ لِلْمُذَبْذِبَاتِ البَيُولُوجِيَّةِ فِي الخَلَايَا.",
+        "en": "Bioresonance phenomena describe the rhythmic synchronization of biological oscillators."
+      },
+      "image": "assets/svg/concept_bioresonanz.svg"
+    },
+    {
+      "id": "concept_autopoiesis",
+      "german": "die Autopoiesis",
+      "plural": "die Autopoiesen",
+      "arabic": "التَّوْلِيدُ الذَّاتِيُّ الحَيُّ (الأُوتُوبْوَيِيسِيس)",
+      "english": "autopoiesis (self-creation and self-maintenance)",
+      "example_sentence": {
+        "de": "Maturana und Varela definierten das Leben fundamental als autopoietisches, sich selbst erzeugendes System.",
+        "ar": "عَرَّفَ مَاتُورَانَا وَفَارِيلَا الحَيَاةَ جَوْهَرِيًّا بِأَنَّهَا نِظَامٌ أُوتُوبْوَيِيتِيٌّ يُنْتِجُ ذَاتَهُ بِذَاتِهِ.",
+        "en": "Maturana and Varela fundamentally defined life as an autopoietic, self-producing system."
+      },
+      "image": "assets/svg/concept_autopoiesis.svg"
+    },
+    {
+      "id": "concept_morphogenetisches_feld",
+      "german": "das morphogenetische Feld",
+      "plural": "die morphogenetischen Felder",
+      "arabic": "الحَقْلُ التَّشَكُّلِيُّ الحَيَوِيُّ",
+      "english": "morphogenetic field",
+      "example_sentence": {
+        "de": "In der Entwicklungsbiologie steuert das morphogenetische Feld die räumliche Ausdifferenzierung von Organanlagen.",
+        "ar": "يَقُودُ الحَقْلُ التَّشَكُّلِيُّ فِي عِلْمِ الأَحْيَاءِ النَّمَائِيِّ التَّمَايُزَ المَكَانِيَّ لِبِدَايَاتِ تَشَكُّلِ الأَعْضَاءِ.",
+        "en": "In developmental biology, the morphogenetic field directs the spatial differentiation of organ primordia."
+      },
+      "image": "assets/svg/concept_morphogenetisches_feld.svg"
+    },
+    {
+      "id": "concept_homoeostatische_regulation",
+      "german": "die homöostatische Regulation",
+      "plural": "die homöostatischen Regulationen",
+      "arabic": "التَّنْظِيمُ التَّوَازُنِيُّ الحَيَوِيُّ (الهُومْيُوسْتَازِيس)",
+      "english": "homeostatic regulation",
+      "example_sentence": {
+        "de": "Die homöostatische Regulation garantiert die Stabilität des inneren Milieus trotz schwankender Umweltbedingungen.",
+        "ar": "يَضْمَنُ التَّنْظِيمُ التَّوَازُنِيُّ الحَيَوِيُّ اسْتِقْرَارَ البِيئَةِ الدَّاخِلِيَّةِ لِلْجِسْمِ رَغْمَ تَقَلُّبَاتِ الظُّرُوفِ الخَارِجِيَّةِ.",
+        "en": "Homeostatic regulation guarantees internal environment stability despite fluctuating external conditions."
+      },
+      "image": "assets/svg/concept_homoeostatische_regulation.svg"
+    }
+  ]
+}

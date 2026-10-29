@@ -6916,6 +6916,176 @@
         "Subjekt Maskulin Nominativ",
         "Adjektivdeklination ohne Artikel Plural Akkusativ"
       ]
+    },
+    {
+      "id": "sent_346",
+      "category": "plant_communication",
+      "difficulty": "A1+",
+      "arabic": "النَّبَاتَاتُ تَتَوَاصَلُ عَبْرَ إِشَارَاتٍ كِيمْيَائِيَّةٍ.",
+      "german": "Pflanzen kommunizieren über chemische Signale.",
+      "english": "Plants communicate via chemical signals.",
+      "tokens": [
+        {
+          "word": "Pflanzen",
+          "pos": "noun",
+          "ar": "النَّبَاتَاتُ"
+        },
+        {
+          "word": "kommunizieren",
+          "pos": "verb",
+          "ar": "تَتَوَاصَلُ"
+        },
+        {
+          "word": "über",
+          "pos": "preposition",
+          "ar": "عَبْرَ / بِوَاسِطَةِ"
+        },
+        {
+          "word": "chemische Signale",
+          "pos": "noun_phrase",
+          "ar": "إِشَارَاتٍ كِيمْيَائِيَّةٍ"
+        }
+      ],
+      "grammar_points": [
+        "Plural Subjekt ohne Artikel",
+        "Präposition 'über' + Akkusativ Plural"
+      ]
+    },
+    {
+      "id": "sent_347",
+      "category": "body_balance",
+      "difficulty": "A1+",
+      "arabic": "الجِسْمُ يُحَافِظُ عَلَى التَّوَازُنِ دَائِمًا.",
+      "german": "Der Körper hält das Gleichgewicht immer.",
+      "english": "The body always maintains its balance.",
+      "tokens": [
+        {
+          "word": "Der Körper",
+          "pos": "noun",
+          "ar": "الجِسْمُ"
+        },
+        {
+          "word": "hält",
+          "pos": "verb",
+          "ar": "يَحْفَظُ / يُحَافِظُ عَلَى"
+        },
+        {
+          "word": "das Gleichgewicht",
+          "pos": "noun",
+          "ar": "التَّوَازُنَ"
+        },
+        {
+          "word": "immer",
+          "pos": "adverb",
+          "ar": "دَائِمًا"
+        }
+      ],
+      "grammar_points": [
+        "Unregelmäßiges Verb 'halten' (a -> ä)",
+        "Akkusativ Neutrum 'das Gleichgewicht'"
+      ]
+    },
+    {
+      "id": "sent_348",
+      "category": "animal_adaptation",
+      "difficulty": "A1+",
+      "arabic": "الحَيَوَانَاتُ تَفْهَمُ بِيئَتَهَا بِشَكْلٍ طَبِيعِيٍّ.",
+      "german": "Die Tiere verstehen ihre Umwelt natürlich.",
+      "english": "Animals naturally understand their environment.",
+      "tokens": [
+        {
+          "word": "Die Tiere",
+          "pos": "noun",
+          "ar": "الحَيَوَانَاتُ"
+        },
+        {
+          "word": "verstehen",
+          "pos": "verb",
+          "ar": "تَفْهَمُ / تُدْرِكُ"
+        },
+        {
+          "word": "ihre Umwelt",
+          "pos": "noun_phrase",
+          "ar": "بِيئَتَهَا المُحِيطَةَ"
+        },
+        {
+          "word": "natürlich",
+          "pos": "adverb",
+          "ar": "بِشَكْلٍ طَبِيعِيٍّ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt im Plural Nominativ",
+        "Possessivartikel 'ihre' im Akkusativ Feminin"
+      ]
+    },
+    {
+      "id": "sent_349",
+      "category": "brain_learning",
+      "difficulty": "A1+",
+      "arabic": "العَقْلُ يَتَعَلَّمُ مِنْ كُلِّ تَجْرِبَةٍ جَدِيدَةٍ.",
+      "german": "Das Gehirn lernt aus jeder neuen Erfahrung.",
+      "english": "The brain learns from every new experience.",
+      "tokens": [
+        {
+          "word": "Das Gehirn",
+          "pos": "noun",
+          "ar": "العَقْلُ / الدِّمَاغُ"
+        },
+        {
+          "word": "lernt",
+          "pos": "verb",
+          "ar": "يَتَعَلَّمُ"
+        },
+        {
+          "word": "aus",
+          "pos": "preposition",
+          "ar": "مِنْ"
+        },
+        {
+          "word": "jeder neuen Erfahrung",
+          "pos": "noun_phrase",
+          "ar": "كُلِّ تَجْرِبَةٍ جَدِيدَةٍ"
+        }
+      ],
+      "grammar_points": [
+        "Präsens 3. Person Singular",
+        "Präposition 'aus' + Dativ Feminin mit 'jeder'"
+      ]
+    },
+    {
+      "id": "sent_350",
+      "category": "nature_evolution",
+      "difficulty": "A1+",
+      "arabic": "الحَيَاةُ تَتَطَوَّرُ بِاسْتِمْرَارٍ فِي الطَّبِيعَةِ.",
+      "german": "Das Leben entwickelt sich ständig in der Natur.",
+      "english": "Life constantly evolves in nature.",
+      "tokens": [
+        {
+          "word": "Das Leben",
+          "pos": "noun",
+          "ar": "الحَيَاةُ"
+        },
+        {
+          "word": "entwickelt sich",
+          "pos": "reflexive_verb",
+          "ar": "تَتَطَوَّرُ"
+        },
+        {
+          "word": "ständig",
+          "pos": "adverb",
+          "ar": "بِاسْتِمْرَارٍ"
+        },
+        {
+          "word": "in der Natur",
+          "pos": "preposition_phrase",
+          "ar": "فِي الطَّبِيعَةِ"
+        }
+      ],
+      "grammar_points": [
+        "Reflexives Verb 'sich entwickeln'",
+        "Lokale Angabe mit Dativ Feminin 'in der Natur'"
+      ]
     }
   ]
 }

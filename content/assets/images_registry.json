@@ -31711,5 +31711,130 @@
     "file": "assets/svg/verb_konzedieren.svg",
     "category": "diplomatic_verbs",
     "alt": "verb konzedieren"
+  },
+  "assets/svg/concept_biosemiotik.svg": {
+    "file": "assets/svg/concept_biosemiotik.svg",
+    "category": "biosemiotics",
+    "alt": "concept biosemiotik"
+  },
+  "assets/svg/concept_evolutionaere_erkenntnistheorie.svg": {
+    "file": "assets/svg/concept_evolutionaere_erkenntnistheorie.svg",
+    "category": "vocabulary",
+    "alt": "concept evolutionaere erkenntnistheorie"
+  },
+  "assets/svg/concept_autopoiesis.svg": {
+    "file": "assets/svg/concept_autopoiesis.svg",
+    "category": "vocabulary",
+    "alt": "concept autopoiesis"
+  },
+  "assets/svg/concept_homoeostatische_regulation.svg": {
+    "file": "assets/svg/concept_homoeostatische_regulation.svg",
+    "category": "vocabulary",
+    "alt": "concept homoeostatische regulation"
+  },
+  "assets/svg/concept_biologischer_zeichentraeger.svg": {
+    "file": "assets/svg/concept_biologischer_zeichentraeger.svg",
+    "category": "biosemiotics",
+    "alt": "concept biologischer zeichentraeger"
+  },
+  "assets/svg/concept_signalmolekuel.svg": {
+    "file": "assets/svg/concept_signalmolekuel.svg",
+    "category": "vocabulary",
+    "alt": "concept signalmolekuel"
+  },
+  "assets/svg/concept_phytosemiotik_prozess.svg": {
+    "file": "assets/svg/concept_phytosemiotik_prozess.svg",
+    "category": "biosemiotics",
+    "alt": "concept phytosemiotik prozess"
+  },
+  "assets/svg/concept_phylogenetische_anpassung.svg": {
+    "file": "assets/svg/concept_phylogenetische_anpassung.svg",
+    "category": "vocabulary",
+    "alt": "concept phylogenetische anpassung"
+  },
+  "assets/svg/concept_biologische_informationsverarbeitung.svg": {
+    "file": "assets/svg/concept_biologische_informationsverarbeitung.svg",
+    "category": "biosemiotics",
+    "alt": "concept biologische informationsverarbeitung"
+  },
+  "assets/svg/concept_sensorische_transduktion.svg": {
+    "file": "assets/svg/concept_sensorische_transduktion.svg",
+    "category": "vocabulary",
+    "alt": "concept sensorische transduktion"
+  },
+  "assets/svg/concept_semiosphaere.svg": {
+    "file": "assets/svg/concept_semiosphaere.svg",
+    "category": "vocabulary",
+    "alt": "concept semiosphaere"
+  },
+  "assets/svg/concept_genetische_codierung.svg": {
+    "file": "assets/svg/concept_genetische_codierung.svg",
+    "category": "vocabulary",
+    "alt": "concept genetische codierung"
+  },
+  "assets/svg/concept_kognitive_nische.svg": {
+    "file": "assets/svg/concept_kognitive_nische.svg",
+    "category": "vocabulary",
+    "alt": "concept kognitive nische"
+  },
+  "assets/svg/concept_neuronale_plastizitaet.svg": {
+    "file": "assets/svg/concept_neuronale_plastizitaet.svg",
+    "category": "vocabulary",
+    "alt": "concept neuronale plastizitaet"
+  },
+  "assets/svg/concept_endosymbiose.svg": {
+    "file": "assets/svg/concept_endosymbiose.svg",
+    "category": "biosemiotics",
+    "alt": "concept endosymbiose"
+  },
+  "assets/svg/concept_reiz_reaktions_muster.svg": {
+    "file": "assets/svg/concept_reiz_reaktions_muster.svg",
+    "category": "vocabulary",
+    "alt": "concept reiz reaktions muster"
+  },
+  "assets/svg/concept_epigenetik.svg": {
+    "file": "assets/svg/concept_epigenetik.svg",
+    "category": "vocabulary",
+    "alt": "concept epigenetik"
+  },
+  "assets/svg/concept_pheromonsystem.svg": {
+    "file": "assets/svg/concept_pheromonsystem.svg",
+    "category": "vocabulary",
+    "alt": "concept pheromonsystem"
+  },
+  "assets/svg/concept_morphogenetisches_feld.svg": {
+    "file": "assets/svg/concept_morphogenetisches_feld.svg",
+    "category": "vocabulary",
+    "alt": "concept morphogenetisches feld"
+  },
+  "assets/svg/concept_morphogenese.svg": {
+    "file": "assets/svg/concept_morphogenese.svg",
+    "category": "vocabulary",
+    "alt": "concept morphogenese"
+  },
+  "assets/svg/concept_zellulaere_kommunikation.svg": {
+    "file": "assets/svg/concept_zellulaere_kommunikation.svg",
+    "category": "vocabulary",
+    "alt": "concept zellulaere kommunikation"
+  },
+  "assets/svg/concept_biosignal.svg": {
+    "file": "assets/svg/concept_biosignal.svg",
+    "category": "biosemiotics",
+    "alt": "concept biosignal"
+  },
+  "assets/svg/concept_zoosemiotik.svg": {
+    "file": "assets/svg/concept_zoosemiotik.svg",
+    "category": "biosemiotics",
+    "alt": "concept zoosemiotik"
+  },
+  "assets/svg/concept_umwelt_uexkuell.svg": {
+    "file": "assets/svg/concept_umwelt_uexkuell.svg",
+    "category": "vocabulary",
+    "alt": "concept umwelt uexkuell"
+  },
+  "assets/svg/concept_bioresonanz.svg": {
+    "file": "assets/svg/concept_bioresonanz.svg",
+    "category": "biosemiotics",
+    "alt": "concept bioresonanz"
   }
 }
