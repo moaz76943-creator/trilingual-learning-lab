@@ -33001,5 +33001,100 @@
     "file": "assets/svg/concept_gerichtsrede.svg",
     "category": "classical_oratory",
     "alt": "concept gerichtsrede"
+  },
+  "assets/svg/verb_entkraeften.svg": {
+    "file": "assets/svg/verb_entkraeften.svg",
+    "category": "c2_oratory_verbs",
+    "alt": "verb entkraeften"
+  },
+  "assets/svg/verb_ausfechten.svg": {
+    "file": "assets/svg/verb_ausfechten.svg",
+    "category": "c2_oratory_verbs",
+    "alt": "verb ausfechten"
+  },
+  "assets/svg/verb_parieren.svg": {
+    "file": "assets/svg/verb_parieren.svg",
+    "category": "c2_oratory_verbs",
+    "alt": "verb parieren"
+  },
+  "assets/svg/verb_duplizieren_recht.svg": {
+    "file": "assets/svg/verb_duplizieren_recht.svg",
+    "category": "c2_oratory_verbs",
+    "alt": "verb duplizieren recht"
+  },
+  "assets/svg/verb_konzedieren_oratory.svg": {
+    "file": "assets/svg/verb_konzedieren_oratory.svg",
+    "category": "c2_oratory_verbs",
+    "alt": "verb konzedieren oratory"
+  },
+  "assets/svg/verb_interpellieren.svg": {
+    "file": "assets/svg/verb_interpellieren.svg",
+    "category": "c2_oratory_verbs",
+    "alt": "verb interpellieren"
+  },
+  "assets/svg/verb_einwenden.svg": {
+    "file": "assets/svg/verb_einwenden.svg",
+    "category": "c2_oratory_verbs",
+    "alt": "verb einwenden"
+  },
+  "assets/svg/verb_filibustern.svg": {
+    "file": "assets/svg/verb_filibustern.svg",
+    "category": "c2_oratory_verbs",
+    "alt": "verb filibustern"
+  },
+  "assets/svg/verb_untermauern.svg": {
+    "file": "assets/svg/verb_untermauern.svg",
+    "category": "c2_oratory_verbs",
+    "alt": "verb untermauern"
+  },
+  "assets/svg/verb_entflammen.svg": {
+    "file": "assets/svg/verb_entflammen.svg",
+    "category": "c2_oratory_verbs",
+    "alt": "verb entflammen"
+  },
+  "assets/svg/verb_opponieren.svg": {
+    "file": "assets/svg/verb_opponieren.svg",
+    "category": "c2_oratory_verbs",
+    "alt": "verb opponieren"
+  },
+  "assets/svg/verb_insinuieren_oratory.svg": {
+    "file": "assets/svg/verb_insinuieren_oratory.svg",
+    "category": "c2_oratory_verbs",
+    "alt": "verb insinuieren oratory"
+  },
+  "assets/svg/verb_plaedieren.svg": {
+    "file": "assets/svg/verb_plaedieren.svg",
+    "category": "c2_oratory_verbs",
+    "alt": "verb plaedieren"
+  },
+  "assets/svg/verb_reuessieren.svg": {
+    "file": "assets/svg/verb_reuessieren.svg",
+    "category": "c2_oratory_verbs",
+    "alt": "verb reuessieren"
+  },
+  "assets/svg/verb_konkludieren.svg": {
+    "file": "assets/svg/verb_konkludieren.svg",
+    "category": "c2_oratory_verbs",
+    "alt": "verb konkludieren"
+  },
+  "assets/svg/verb_appellieren.svg": {
+    "file": "assets/svg/verb_appellieren.svg",
+    "category": "c2_oratory_verbs",
+    "alt": "verb appellieren"
+  },
+  "assets/svg/verb_insistieren.svg": {
+    "file": "assets/svg/verb_insistieren.svg",
+    "category": "c2_oratory_verbs",
+    "alt": "verb insistieren"
+  },
+  "assets/svg/verb_beschwichtigen.svg": {
+    "file": "assets/svg/verb_beschwichtigen.svg",
+    "category": "c2_oratory_verbs",
+    "alt": "verb beschwichtigen"
+  },
+  "assets/svg/verb_polemisieren.svg": {
+    "file": "assets/svg/verb_polemisieren.svg",
+    "category": "c2_oratory_verbs",
+    "alt": "verb polemisieren"
   }
 }

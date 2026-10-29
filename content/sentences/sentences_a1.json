@@ -9082,6 +9082,177 @@
         "Subjekt Feminin Nominativ mit Adjektiv",
         "Akkusativ Feminin 'die Wahrheit'"
       ]
+    },
+    {
+      "id": "sent_411",
+      "category": "legal_defense",
+      "difficulty": "A1+",
+      "arabic": "المُحَامِي يَتَرَافَعُ عَنِ الحَقِّ أَمَامَ القَاضِي.",
+      "german": "Der Anwalt plädiert für das Recht vor dem Richter.",
+      "english": "The lawyer pleads for justice before the judge.",
+      "tokens": [
+        {
+          "word": "Der Anwalt",
+          "pos": "noun",
+          "ar": "المُحَامِي"
+        },
+        {
+          "word": "plädiert",
+          "pos": "verb",
+          "ar": "يَتَرَافَعُ"
+        },
+        {
+          "word": "für das Recht",
+          "pos": "preposition_phrase",
+          "ar": "عَنِ الحَقِّ"
+        },
+        {
+          "word": "vor dem Richter",
+          "pos": "preposition_phrase",
+          "ar": "أَمَامَ القَاضِي"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Maskulin Nominativ",
+        "Präposition 'für' + Akkusativ Neutrum",
+        "Präposition 'vor' + Dativ Maskulin"
+      ]
+    },
+    {
+      "id": "sent_412",
+      "category": "refuting_doubt",
+      "difficulty": "A1+",
+      "arabic": "البُرْهَانُ القَوِيُّ يُبْطِلُ الشَّكَّ دَائِمًا.",
+      "german": "Der starke Beweis entkräftet den Zweifel immer.",
+      "english": "Strong proof always dispels doubt.",
+      "tokens": [
+        {
+          "word": "Der starke Beweis",
+          "pos": "noun_phrase",
+          "ar": "البُرْهَانُ القَوِيُّ"
+        },
+        {
+          "word": "entkräftet",
+          "pos": "verb",
+          "ar": "يُبْطِلُ / يَدْحَضُ"
+        },
+        {
+          "word": "den Zweifel",
+          "pos": "noun",
+          "ar": "الشَّكَّ"
+        },
+        {
+          "word": "immer",
+          "pos": "adverb",
+          "ar": "دَائِمًا"
+        }
+      ],
+      "grammar_points": [
+        "Adjektivdeklination Nominativ Maskulin mit bestimmtem Artikel",
+        "Akkusativobjekt Maskulin 'den Zweifel'"
+      ]
+    },
+    {
+      "id": "sent_413",
+      "category": "substantiating_truth",
+      "difficulty": "A1+",
+      "arabic": "نَحْنُ نُؤَيِّدُ الرَّأْيَ الصَّائِبَ بِأَدِلَّةٍ وَاضِحَةٍ.",
+      "german": "Wir untermauern die richtige Meinung mit klaren Beweisen.",
+      "english": "We substantiate the correct opinion with clear evidence.",
+      "tokens": [
+        {
+          "word": "Wir",
+          "pos": "pronoun",
+          "ar": "نَحْنُ"
+        },
+        {
+          "word": "untermauern",
+          "pos": "verb",
+          "ar": "نُؤَيِّدُ / نُعَزِّزُ"
+        },
+        {
+          "word": "die richtige Meinung",
+          "pos": "noun_phrase",
+          "ar": "الرَّأْيَ الصَّائِبَ"
+        },
+        {
+          "word": "mit klaren Beweisen",
+          "pos": "preposition_phrase",
+          "ar": "بِأَدِلَّةٍ وَاضِحَةٍ"
+        }
+      ],
+      "grammar_points": [
+        "Präsens 1. Person Plural",
+        "Präposition 'mit' + Dativ Plural ohne Artikel 'klaren Beweisen'"
+      ]
+    },
+    {
+      "id": "sent_414",
+      "category": "inspiring_enthusiasm",
+      "difficulty": "A1+",
+      "arabic": "المُتَحَدِّثُ يُشْعِلُ حَمَاسَةَ الحُضُورِ بِكَلِمَاتِهِ.",
+      "german": "Der Sprecher entflammt die Begeisterung der Zuhörer mit seinen Worten.",
+      "english": "The speaker inflames the enthusiasm of the listeners with his words.",
+      "tokens": [
+        {
+          "word": "Der Sprecher",
+          "pos": "noun",
+          "ar": "المُتَحَدِّثُ"
+        },
+        {
+          "word": "entflammt",
+          "pos": "verb",
+          "ar": "يُشْعِلُ / يُلْهِبُ"
+        },
+        {
+          "word": "die Begeisterung",
+          "pos": "noun",
+          "ar": "حَمَاسَةَ"
+        },
+        {
+          "word": "der Zuhörer",
+          "pos": "genitive_noun",
+          "ar": "الحُضُورِ (مضاف إليه)"
+        },
+        {
+          "word": "mit seinen Worten",
+          "pos": "preposition_phrase",
+          "ar": "بِكَلِمَاتِهِ"
+        }
+      ],
+      "grammar_points": [
+        "Genitivattribut Plural 'der Zuhörer'",
+        "Präposition 'mit' + Dativ Plural mit Possessivartikel 'seinen Worten'"
+      ]
+    },
+    {
+      "id": "sent_415",
+      "category": "fair_conclusion",
+      "difficulty": "A1+",
+      "arabic": "الحِوَارُ الصَّادِقُ يَقُودُ إِلَى نَتِيجَةٍ عَادِلَةٍ.",
+      "german": "Der ehrliche Dialog konkludiert zu einem gerechten Ergebnis.",
+      "english": "Honest dialogue leads to a just conclusion.",
+      "tokens": [
+        {
+          "word": "Der ehrliche Dialog",
+          "pos": "noun_phrase",
+          "ar": "الحِوَارُ الصَّادِقُ"
+        },
+        {
+          "word": "konkludiert",
+          "pos": "verb",
+          "ar": "يَقُودُ / يَخْلُصُ مَنْطِقِيًّا"
+        },
+        {
+          "word": "zu einem gerechten Ergebnis",
+          "pos": "preposition_phrase",
+          "ar": "إِلَى نَتِيجَةٍ عَادِلَةٍ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Maskulin Nominativ mit Adjektiv",
+        "Präposition 'zu' + Dativ Neutrum mit unbestimmtem Artikel 'einem gerechten Ergebnis'"
+      ]
     }
   ]
 }

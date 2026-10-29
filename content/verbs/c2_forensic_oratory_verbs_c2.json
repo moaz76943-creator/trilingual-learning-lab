@@ -1,0 +1,451 @@
+{
+  "category_id": "c2_forensic_oratory_verbs_c2",
+  "category_title": {
+    "ar": "أفعال المرافعة القضائية والمناظرة البرلمانية والإقناع البلاغي",
+    "de": "Gerichtsberedsamkeits-, parlamentarische Debattier- und Überzeugungsverben",
+    "en": "C2 Forensic Oratory, Parliamentary Debate & Persuasive Dialectics Verbs"
+  },
+  "level": "C2",
+  "items": [
+    {
+      "id": "verb_plaedieren",
+      "german": "plädieren",
+      "arabic": "يَتَرَافَعُ قَضَائِيًّا / يُدَافِعُ بِحَمَاسَةٍ عَنْ قَضِيَّةٍ أَوْ مَوْقِفٍ",
+      "english": "to plead in court / advocate passionately for a cause",
+      "conjugation": {
+        "praesens": "er/sie/es plädiert",
+        "praeteritum": "plädierte",
+        "perfekt": "hat plädiert"
+      },
+      "preposition": "für + Akk / auf + Akk",
+      "collocations": [
+        "auf Freispruch plädieren",
+        "für eine umfassende Gesetzesreform plädieren"
+      ],
+      "example_sentence": {
+        "de": "Der Strafverteidiger plädierte mit bestechender juristischer Logik auf vollständigen Freispruch seines Mandanten.",
+        "ar": "تَرَافَعَ مُحَامِي الدِّفَاعِ بِمَنْطِقٍ قَانُونِيٍّ آسِرٍ مُطَالِبًا بِالبَرَاءَةِ التَّامَّةِ لِمُوَكِّلِهِ.",
+        "en": "The defense attorney pleaded for his client's complete acquittal with compelling legal logic."
+      },
+      "image": "assets/svg/verb_plaedieren.svg"
+    },
+    {
+      "id": "verb_replizieren",
+      "german": "replizieren",
+      "arabic": "يَرُدُّ عَلَى مُرَافَعَةِ الخَصْمِ / يُعَقِّبُ تَفْنِيدًا فِي المَحْكَمَةِ",
+      "english": "to reply to an opposing pleading / counterplead",
+      "conjugation": {
+        "praesens": "er/sie/es repliziert",
+        "praeteritum": "replizierte",
+        "perfekt": "hat repliziert"
+      },
+      "preposition": "auf + Akk",
+      "collocations": [
+        "auf die Vorwürfe schlagfertig replizieren",
+        "auf die Klageschrift präzise replizieren"
+      ],
+      "example_sentence": {
+        "de": "Die Staatsanwältin replizierte unverzüglich auf die Ausführungen der Gegenseite mit neuen Beweismitteln.",
+        "ar": "عَقَّبَتِ النَّائِبَةُ العَامَّةُ عَلَى الفَوْرِ عَلَى دُفُوعِ الخَصْمِ مُسْتَنِدَةً إِلَى أَدِلَّةٍ إِثْبَاتِيَّةٍ جَدِيدَةٍ.",
+        "en": "The prosecutor immediately replied to the opposing side's arguments with fresh evidence."
+      },
+      "image": "assets/svg/verb_replizieren.svg"
+    },
+    {
+      "id": "verb_duplizieren_recht",
+      "german": "duplizieren",
+      "arabic": "يُقَدِّمُ التَّعْقِيبَ الثَّانِيَ / يَرُدُّ عَلَى جَوَابِ المُدَّعِي",
+      "english": "to submit a rejoinder / answer a reply in pleadings",
+      "conjugation": {
+        "praesens": "er/sie/es dupliziert",
+        "praeteritum": "duplizierte",
+        "perfekt": "hat dupliziert"
+      },
+      "preposition": "auf + Akk",
+      "collocations": [
+        "auf die Replik juristisch duplizieren",
+        "den Schriftsatz fristgerecht duplizieren"
+      ],
+      "example_sentence": {
+        "de": "Im Zivilprozess nutzte der Beklagte sein Recht, auf die Replik der Klägerin detailliert zu duplizieren.",
+        "ar": "مَارَسَ المُدَّعَى عَلَيْهِ فِي الدَّعْوَى المَدَنِيَّةِ حَقَّهُ فِي تَقْدِيمِ التَّعْقِيبِ الثَّانِي المُفَصَّلِ عَلَى رَدِّ المُدَّعِيَةِ.",
+        "en": "In civil litigation, the defendant exercised his right to submit a detailed rejoinder to the plaintiff's reply."
+      },
+      "image": "assets/svg/verb_duplizieren_recht.svg"
+    },
+    {
+      "id": "verb_interpellieren",
+      "german": "interpellieren",
+      "arabic": "يَسْتَجْوِبُ بَرْلَمَانِيًّا / يُسَائِلُ الحُكُومَةَ رَسْمِيًّا",
+      "english": "to interpellate ministers in parliament",
+      "conjugation": {
+        "praesens": "er/sie/es interpelliert",
+        "praeteritum": "interpellierte",
+        "perfekt": "hat interpelliert"
+      },
+      "preposition": "zu + Dat / über + Akk",
+      "collocations": [
+        "die Regierung zur Haushaltspolitik interpellieren",
+        "den Minister im Plenum interpellieren"
+      ],
+      "example_sentence": {
+        "de": "Die Oppositionsparteien interpellierten den Finanzminister zu den intransparenten Rüstungsausgaben.",
+        "ar": "اسْتَجْوَبَتْ أَحْزَابُ المُعَارَضَةِ وَزِيرَ المَالِيَّةِ حَوْلَ نَفَقَاتِ التَّسَلُّحِ الَّتِي تَشُوبُهَا الضَّبَابِيَّةُ.",
+        "en": "The opposition parties formally interpellated the finance minister regarding nontransparent defense expenditures."
+      },
+      "image": "assets/svg/verb_interpellieren.svg"
+    },
+    {
+      "id": "verb_filibustern",
+      "german": "filibustern",
+      "arabic": "يُعَرْقِلُ بَرْلَمَانِيًّا بِالخِطَابِ المَمْدُودِ (الفِيلِيبَاسْتَر)",
+      "english": "to filibuster / obstruct legislation by prolonged speaking",
+      "conjugation": {
+        "praesens": "er/sie/es filibustert",
+        "praeteritum": "filibusterte",
+        "perfekt": "hat gefilibustert"
+      },
+      "preposition": "gegen + Akk",
+      "collocations": [
+        "stundenlang am Rednerpult filibustern",
+        "die Abstimmung durch Dauerreden filibustern"
+      ],
+      "example_sentence": {
+        "de": "Der Senator filibusterte über vierzehn Stunden, um das umstrittene Gesetz vor Fristablauf zu blockieren.",
+        "ar": "وَاصَلَ عُضْوُ مَجْلِسِ الشُّيُوخِ الخِطَابَةَ لِأَكْثَرَ مِنْ أَرْبَعَ عَشْرَةَ سَاعَةً لِعَرْقَلَةِ القَانُونِ المُثِيرِ لِلْجَدَلِ.",
+        "en": "The senator filibustered for over fourteen hours to derail the controversial bill before the deadline."
+      },
+      "image": "assets/svg/verb_filibustern.svg"
+    },
+    {
+      "id": "verb_entkraeften",
+      "german": "entkräften",
+      "arabic": "يُبْطِلُ الحُجَّةَ / يَدْحَضُ الشُّبُهَاتِ وَالأَدِلَّةَ",
+      "english": "to invalidate or refute an argument",
+      "conjugation": {
+        "praesens": "er/sie/es entkräftet",
+        "praeteritum": "entkräftete",
+        "perfekt": "hat entkräftet"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "Vorwürfe schlüssig entkräften",
+        "ein Gegenargument durch Fakten entkräften"
+      ],
+      "example_sentence": {
+        "de": "Mit unwiderlegbaren Dokumenten entkräftete die Zeugin alle falschen Anschuldigungen der Anklage.",
+        "ar": "أَبْطَلَتِ الشَّاهِدَةُ بِوَثَائِقَ قَاطِعَةٍ كُلَّ الادِّعَاءَاتِ البَاطِلَةِ لِطَرَفِ الِاتِّهَامِ.",
+        "en": "With irrefutable documents, the witness completely invalidated all false accusations of the prosecution."
+      },
+      "image": "assets/svg/verb_entkraeften.svg"
+    },
+    {
+      "id": "verb_konzedieren_oratory",
+      "german": "konzedieren",
+      "arabic": "يُسَلِّمُ لِلْخَصْمِ بِنُقْطَةٍ جَدَلِيَّةٍ لِاحْتِوَاءِ حُجَّتِهِ",
+      "english": "to concede a rhetorical point to gain upper hand",
+      "conjugation": {
+        "praesens": "er/sie/es konzediert",
+        "praeteritum": "konzedierte",
+        "perfekt": "hat konzediert"
+      },
+      "preposition": "in + Dat",
+      "collocations": [
+        "einen Teilaspekt taktisch konzedieren",
+        "Berechtigung in der Kritik konzedieren"
+      ],
+      "example_sentence": {
+        "de": "Der Debattierer konzedierte geschickt eine Teilschuld, um die verbleibende Hauptanklage umso wirksamer zu zerstreuen.",
+        "ar": "سَلَّمَ المُنَاظِرُ بِذَكَاءِ الخَطِيبِ بِجُزْءٍ مِنَ الخَطَأِ لِيَتَمَكَّنَ مِنْ دَحْضِ التُّهْمَةِ الرَّئِيسَةِ بِفَاعِلِيَّةٍ أَكْبَرَ.",
+        "en": "The debater strategically conceded a partial flaw in order to dismantle the core allegation more decisively."
+      },
+      "image": "assets/svg/verb_konzedieren_oratory.svg"
+    },
+    {
+      "id": "verb_ausfechten",
+      "german": "ausfechten",
+      "arabic": "يُسَاجِلُ بَلَاغِيًّا / يَخُوضُ نِزَالًا كَلَامِيًّا حَتَّى النِّهَايَةِ",
+      "english": "to fight out a verbal duel to the finish",
+      "conjugation": {
+        "praesens": "er/sie/es ficht aus",
+        "praeteritum": "focht aus",
+        "perfekt": "hat ausgefochten"
+      },
+      "preposition": "mit + Dat / vor + Dat",
+      "collocations": [
+        "einen rhetorischen Disput ausfechten",
+        "Konflikte mit Worten ausfechten"
+      ],
+      "example_sentence": {
+        "de": "Die beiden Parteiführer fochten das Duell um die Kanzlerschaft live vor Millionen Fernsehzuschauern aus.",
+        "ar": "خَاضَ زَعِيمَا الحِزْبَيْنِ النِّزَالَ البَلَاغِيَّ عَلَى المُنَاصَفَةِ حَوْلَ المَنْصِبِ مُبَاشَرَةً أَمَامَ مَلَايِينِ المُشَاهِدِينَ.",
+        "en": "Both party leaders fought out their high-stakes rhetorical duel live before millions of television viewers."
+      },
+      "image": "assets/svg/verb_ausfechten.svg"
+    },
+    {
+      "id": "verb_polemisieren",
+      "german": "polemisieren",
+      "arabic": "يُسَاجِلُ هُجُومِيًّا / يُهَاجِمُ بِحِدَّةٍ وَقَسْوَةٍ فِي الخِطَابِ",
+      "english": "to polemicize fiercely",
+      "conjugation": {
+        "praesens": "er/sie/es polemisiert",
+        "praeteritum": "polemisierte",
+        "perfekt": "hat polemisiert"
+      },
+      "preposition": "gegen + Akk",
+      "collocations": [
+        "scharf gegen den Gesetzesentwurf polemisieren",
+        "in Leitartikeln polemisieren"
+      ],
+      "example_sentence": {
+        "de": "Der Publizist polemisierte schonungslos gegen die geplante Steuererhöhung der Regierungskoalition.",
+        "ar": "سَاجَلَ الكَاتِبُ بِحِدَّةٍ بَالِغَةٍ ضِدَّ الزِّيَادَةِ الضَّرِيبِيَّةِ المُرْتَقَبَةِ مِنَ الائْتِلَافِ الحَاكِمِ.",
+        "en": "The columnist polemicized ruthlessly against the governing coalition's proposed tax hike."
+      },
+      "image": "assets/svg/verb_polemisieren.svg"
+    },
+    {
+      "id": "verb_appellieren",
+      "german": "appellieren",
+      "arabic": "يَسْتَصْرِخُ الوِجْدَانَ / يُنَاشِدُ الضَّمِيرَ وَالعَقْلَ",
+      "english": "to appeal passionately to conscience or reason",
+      "conjugation": {
+        "praesens": "er/sie/es appelliert",
+        "praeteritum": "appellierte",
+        "perfekt": "hat appelliert"
+      },
+      "preposition": "an + Akk",
+      "collocations": [
+        "an die Vernunft appellieren",
+        "an das humanitäre Gewissen appellieren"
+      ],
+      "example_sentence": {
+        "de": "In einer bewegenden Rede appellierte der Delegierte an das Verantwortungsbewusstsein der versammelten Staatengemeinschaft.",
+        "ar": "نَاشَدَ المَنْدُوبُ فِي خِطَابٍ مُؤَثِّرٍ حِسَّ المَسْؤُولِيَّةِ لَدَى الأُسْرَةِ الدَّوْلِيَّةِ المُجْتَمِعَةِ.",
+        "en": "In a moving address, the delegate appealed to the sense of responsibility of the assembled nations."
+      },
+      "image": "assets/svg/verb_appellieren.svg"
+    },
+    {
+      "id": "verb_insistieren",
+      "german": "insistieren",
+      "arabic": "يُصِرُّ وَيُلِحُّ عَلَى النُّقْطَةِ الحِجَاجِيَّةِ",
+      "english": "to insist adamantly upon a point",
+      "conjugation": {
+        "praesens": "er/sie/es insistiert",
+        "praeteritum": "insistierte",
+        "perfekt": "hat insistiert"
+      },
+      "preposition": "auf + Dat",
+      "collocations": [
+        "auf der Einhaltung von Vereinbarungen insistieren",
+        "auf einer klaren Antwort insistieren"
+      ],
+      "example_sentence": {
+        "de": "Die Journalistin insistierte hartnäckig auf einer eindeutigen Stellungnahme des Ministers zur Affäre.",
+        "ar": "أَلَحَّتِ الصَّحَفِيَّةُ بِإِصْرَارٍ عَلَى الحُصُولِ عَلَى مَوْقِفٍ وَاضِحٍ مِنَ الوَزِيرِ حَوْلَ القَضِيَّةِ.",
+        "en": "The journalist adamantly insisted on an unambiguous statement from the minister regarding the scandal."
+      },
+      "image": "assets/svg/verb_insistieren.svg"
+    },
+    {
+      "id": "verb_untermauern",
+      "german": "untermauern",
+      "arabic": "يُعَزِّزُ الحُجَّةَ وَيَدْعَمُهَا بِأَدِلَّةٍ دَامِغَةٍ",
+      "english": "to substantiate or buttress an argument",
+      "conjugation": {
+        "praesens": "er/sie/es untermauert",
+        "praeteritum": "untermauerte",
+        "perfekt": "hat untermauert"
+      },
+      "preposition": "mit + Dat",
+      "collocations": [
+        "eine Behauptung mit Fakten untermauern",
+        "seine These empirisch untermauern"
+      ],
+      "example_sentence": {
+        "de": "Der Sachverständige untermauerte sein Gutachten mit umfassenden statistischen Erhebungen.",
+        "ar": "عَزَّزَ الخَبِيرُ تَقْرِيرَهُ الفَنِّيَّ بِبَيَانَاتٍ إِحْصَائِيَّةٍ شَامِلَةٍ وَقَاطِعَةٍ.",
+        "en": "The expert witness substantiated his testimony with comprehensive statistical surveys."
+      },
+      "image": "assets/svg/verb_untermauern.svg"
+    },
+    {
+      "id": "verb_einwenden",
+      "german": "einwenden",
+      "arabic": "يَعْتَرِضُ / يُبْدِي دَفْعًا أَوْ مَأْخَذًا حِجَاجِيًّا",
+      "english": "to object or raise an objection",
+      "conjugation": {
+        "praesens": "er/sie/es wendet ein",
+        "praeteritum": "wandte / wendete ein",
+        "perfekt": "hat eingewandt / eingewendet"
+      },
+      "preposition": "gegen + Akk",
+      "collocations": [
+        "Bedenken gegen das Urteil einwenden",
+        "trifftige Einwände vorbringen"
+      ],
+      "example_sentence": {
+        "de": "Dagegen lässt sich berechtigterweise einwenden, dass die Kosten den tatsächlichen Nutzen weit übersteigen.",
+        "ar": "يُمْكِنُ الاعتِرَاضُ عَلَى ذَلِكَ بِحَقٍّ بِأَنَّ التَّكَالِيفَ تَتَجَاوَزُ المَنْفَعَةَ الفِعْلِيَّةَ بِمَرَاحِلَ.",
+        "en": "Against this, one can legitimately object that the expenditures far outweigh the tangible benefits."
+      },
+      "image": "assets/svg/verb_einwenden.svg"
+    },
+    {
+      "id": "verb_opponieren",
+      "german": "opponieren",
+      "arabic": "يُعَارِضُ وَيُجَابِهُ المَوْقِفَ رَسْمِيًّا",
+      "english": "to oppose formally",
+      "conjugation": {
+        "praesens": "er/sie/es opponiert",
+        "praeteritum": "opponierte",
+        "perfekt": "hat opponiert"
+      },
+      "preposition": "gegen + Akk",
+      "collocations": [
+        "gegen autoritäre Maßnahmen opponieren",
+        "im Gremium entschlossen opponieren"
+      ],
+      "example_sentence": {
+        "de": "Mehrere Ausschussmitglieder opponierten offen gegen den undemokratischen Verfahrensvorschlag.",
+        "ar": "عَارَضَ عَدَدٌ مِنْ أَعْضَاءِ اللَّجْنَةِ عَلَنًا المُقْتَرَحَ الإِجْرَائِيَّ غَيْرَ الدِّيمُقْرَاطِيِّ.",
+        "en": "Several committee members openly opposed the undemocratic procedural motion."
+      },
+      "image": "assets/svg/verb_opponieren.svg"
+    },
+    {
+      "id": "verb_konkludieren",
+      "german": "konkludieren",
+      "arabic": "يَسْتَنْتِجُ خِتَامِيًّا مِنَ المُقَدِّمَاتِ المَنْطِقِيَّةِ",
+      "english": "to conclude logically from premises",
+      "conjugation": {
+        "praesens": "er/sie/es konkludiert",
+        "praeteritum": "konkludierte",
+        "perfekt": "hat konkludiert"
+      },
+      "preposition": "aus + Dat",
+      "collocations": [
+        "aus den Prämissen logisch konkludieren",
+        "ein Urteil zwingend konkludieren"
+      ],
+      "example_sentence": {
+        "de": "Aus den vorgelegten Indizien lässt sich zweifelsfrei konkludieren, dass der Vertrag absichtlich gebrochen wurde.",
+        "ar": "يُمْكِنُ الاستِنْتَاجُ بِلَا أَدْنَى شَكٍّ مِنَ القَرَائِنِ المَعْرُوضَةِ أَنَّ العَقْدَ قَدْ نُقِضَ عَمْدًا.",
+        "en": "From the presented circumstantial evidence, one can conclude beyond doubt that the treaty was breached intentionally."
+      },
+      "image": "assets/svg/verb_konkludieren.svg"
+    },
+    {
+      "id": "verb_beschwichtigen",
+      "german": "beschwichtigen",
+      "arabic": "يُهَدِّئُ رَوْعَ الجُمْهُورِ / يُسَكِّنُ الغَضَبَ بَلَاغِيًّا",
+      "english": "to appease or mollify an audience",
+      "conjugation": {
+        "praesens": "er/sie/es beschwichtigt",
+        "praeteritum": "beschwichtigte",
+        "perfekt": "hat beschwichtigt"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "aufgebrachte Bürger beschwichtigen",
+        "Sorgen durch Zugeständnisse beschwichtigen"
+      ],
+      "example_sentence": {
+        "de": "Der Bürgermeister bemühte sich, die besorgten Anwohner mit versöhnlichen Worten zu beschwichtigen.",
+        "ar": "بَذَلَ عُمْدَةُ المَدِينَةِ وُسْعَهُ لِتَهْدِئَةِ رَوْعِ السُّكَّانِ القَلِقِينَ بِكَلِمَاتٍ تَطْمِينِيَّةٍ رَصِينَةٍ.",
+        "en": "The mayor endeavored to appease the alarmed residents with soothing and conciliatory words."
+      },
+      "image": "assets/svg/verb_beschwichtigen.svg"
+    },
+    {
+      "id": "verb_entflammen",
+      "german": "entflammen",
+      "arabic": "يُشْعِلُ الحَمَاسَةَ وَيُلْهِبُ مَشَاعِرَ السَّامِعِينَ",
+      "english": "to inflame passions and inspire enthusiasm",
+      "conjugation": {
+        "praesens": "er/sie/es entflammt",
+        "praeteritum": "entflammte",
+        "perfekt": "hat entflammt"
+      },
+      "preposition": "für + Akk",
+      "collocations": [
+        "die Menge für ein Ideal entflammen",
+        "Begeisterung bei den Zuhörern entflammen"
+      ],
+      "example_sentence": {
+        "de": "Mit seiner glühenden Rede entflammte der Reformer die Jugend für den Einsatz für Menschenrechte.",
+        "ar": "أَلْهَبَ المُصْلِحُ بِخِطَابِهِ الوَهَّاجِ حَمَاسَةَ الشَّبَابِ لِلنِّضَالِ مِنْ أَجْلِ حُقُوقِ الإِنْسَانِ.",
+        "en": "With his impassioned oration, the reformer inflamed the youth with zeal for human rights."
+      },
+      "image": "assets/svg/verb_entflammen.svg"
+    },
+    {
+      "id": "verb_parieren",
+      "german": "parieren",
+      "arabic": "يَصُدُّ هُجُومَ الخَصْمِ بِبَرَاعَةٍ وَيَرُدُّ الصَّاعَ",
+      "english": "to parry a verbal thrust skillfully",
+      "conjugation": {
+        "praesens": "er/sie/es pariert",
+        "praeteritum": "parierte",
+        "perfekt": "hat pariert"
+      },
+      "preposition": "mit + Dat",
+      "collocations": [
+        "einen Vorwurf schlagfertig parieren",
+        "rhetorische Angriffe souverän parieren"
+      ],
+      "example_sentence": {
+        "de": "Die Spitzenkandidatin parierte den provokanten Einwurf des Journalisten mit elegantem Humor.",
+        "ar": "صَدَّتِ المُرَشَّحَةُ الرَّئِيسَةُ هُجُومَ الصَّحَفِيِّ الِاسْتِفْزَازِيَّ بِفُكَاهَةٍ أَنِيقَةٍ وَبَرَاعَةٍ فَائِقَةٍ.",
+        "en": "The lead candidate deftly parried the journalist's provocative thrust with elegant wit."
+      },
+      "image": "assets/svg/verb_parieren.svg"
+    },
+    {
+      "id": "verb_insinuieren_oratory",
+      "german": "insinuieren",
+      "arabic": "يُلَمِّحُ دِبْلُومَاسِيًّا لِدَفْعِ الخَصْمِ نَحْوَ التَّنَاقُضِ",
+      "english": "to insinuate rhetorically to trap the opponent",
+      "conjugation": {
+        "praesens": "er/sie/es insinuiert",
+        "praeteritum": "insinuierte",
+        "perfekt": "hat insinuiert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "gezielte Zweifel insinuieren",
+        "eine Parteilichkeit subtil insinuieren"
+      ],
+      "example_sentence": {
+        "de": "Durch eine scheinbar unschuldige Nachfrage insinuierte der Anwalt geschickt einen Widerspruch in der Zeugenaussage.",
+        "ar": "أَلْمَحَ المُحَامِي بِذَكَاءِ التَّرَافُعِ عَبْرَ سُؤَالٍ بَرِيءٍ ظَاهِرِيًّا إِلَى وُجُودِ تَنَاقُضٍ فِي شَهَادَةِ الشَّاهِدِ.",
+        "en": "Through a seemingly innocuous follow-up question, the attorney cleverly insinuated a contradiction in the testimony."
+      },
+      "image": "assets/svg/verb_insinuieren_oratory.svg"
+    },
+    {
+      "id": "verb_reuessieren",
+      "german": "reüssieren",
+      "arabic": "يَظْفَرُ بِالإِقْنَاعِ / يُحَقِّقُ النَّجَاحَ الخِطَابِيَّ السَّاحِقَ",
+      "english": "to succeed brilliantly and carry the day",
+      "conjugation": {
+        "praesens": "er/sie/es reüssiert",
+        "praeteritum": "reüssierte",
+        "perfekt": "hat reüssiert"
+      },
+      "preposition": "mit + Dat / bei + Dat",
+      "collocations": [
+        "beim Publikum triumphal reüssieren",
+        "mit seiner Argumentation vor Gericht reüssieren"
+      ],
+      "example_sentence": {
+        "de": "Mit ihrer glanzvollen Verteidigungsrede reüssierte die Anwältin und errang einen einstimmigen Freispruch.",
+        "ar": "ظَفِرَتِ المُحَامِيَةُ بِنَجَاحٍ سَاحِقٍ بِمُرَافَعَتِهَا البَاهِرَةِ، حَاصِدَةً حُكْمًا بِالبَرَاءَةِ بِإِجْمَاعِ الآرَاءِ.",
+        "en": "With her brilliant closing defense, the attorney succeeded triumphantly, securing an absolute acquittal."
+      },
+      "image": "assets/svg/verb_reuessieren.svg"
+    }
+  ]
+}
