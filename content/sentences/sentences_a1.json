@@ -7421,6 +7421,171 @@
         "Dativobjekt 'der Menschheit'",
         "Genitivattribut 'der Zukunft'"
       ]
+    },
+    {
+      "id": "sent_361",
+      "category": "spacecraft_journey",
+      "difficulty": "A1+",
+      "arabic": "سَفِينَةُ الفَضَاءِ تَبْدَأُ الرِّحْلَةَ البَعِيدَةَ.",
+      "german": "Das Raumschiff beginnt die weite Reise.",
+      "english": "The spacecraft begins the long journey.",
+      "tokens": [
+        {
+          "word": "Das Raumschiff",
+          "pos": "noun",
+          "ar": "سَفِينَةُ الفَضَاءِ"
+        },
+        {
+          "word": "beginnt",
+          "pos": "verb",
+          "ar": "تَبْدَأُ"
+        },
+        {
+          "word": "die weite Reise",
+          "pos": "noun_phrase",
+          "ar": "الرِّحْلَةَ البَعِيدَةَ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Neutrum Nominativ",
+        "Akkusativ Feminin mit Adjektiv 'die weite Reise'"
+      ]
+    },
+    {
+      "id": "sent_362",
+      "category": "astronaut_work",
+      "difficulty": "A1+",
+      "arabic": "رَائِدُ الفَضَاءِ يَعْمَلُ فِي المَحَطَّةِ بِدِقَّةٍ.",
+      "german": "Der Astronaut arbeitet in der Station sorgfältig.",
+      "english": "The astronaut works carefully in the station.",
+      "tokens": [
+        {
+          "word": "Der Astronaut",
+          "pos": "noun",
+          "ar": "رَائِدُ الفَضَاءِ"
+        },
+        {
+          "word": "arbeitet",
+          "pos": "verb",
+          "ar": "يَعْمَلُ"
+        },
+        {
+          "word": "in der Station",
+          "pos": "preposition_phrase",
+          "ar": "فِي المَحَطَّةِ"
+        },
+        {
+          "word": "sorgfältig",
+          "pos": "adverb",
+          "ar": "بِدِقَّةٍ / بِعِنَايَةٍ"
+        }
+      ],
+      "grammar_points": [
+        "Schwaches Nomen Maskulin 'der Astronaut'",
+        "Präposition 'in' + Dativ Feminin"
+      ]
+    },
+    {
+      "id": "sent_363",
+      "category": "communication_station",
+      "difficulty": "A1+",
+      "arabic": "نَحْنُ نُرْسِلُ رِسَالَةً إِلَى المَحَطَّةِ المَدَارِيَّةِ.",
+      "german": "Wir senden eine Nachricht an die orbitale Station.",
+      "english": "We send a message to the orbital station.",
+      "tokens": [
+        {
+          "word": "Wir",
+          "pos": "pronoun",
+          "ar": "نَحْنُ"
+        },
+        {
+          "word": "senden",
+          "pos": "verb",
+          "ar": "نُرْسِلُ"
+        },
+        {
+          "word": "eine Nachricht",
+          "pos": "noun_phrase",
+          "ar": "رِسَالَةً"
+        },
+        {
+          "word": "an die orbitale Station",
+          "pos": "preposition_phrase",
+          "ar": "إِلَى المَحَطَّةِ المَدَارِيَّةِ"
+        }
+      ],
+      "grammar_points": [
+        "Akkusativobjekt 'eine Nachricht'",
+        "Richtungsausdruck 'an' + Akkusativ Feminin"
+      ]
+    },
+    {
+      "id": "sent_364",
+      "category": "satellite_observation",
+      "difficulty": "A1+",
+      "arabic": "القَمَرُ الصِّنَاعِيُّ يُرَاقِبُ الأَرْضَ يَوْمِيًّا.",
+      "german": "Der Satellit beobachtet die Erde täglich.",
+      "english": "The satellite observes the Earth daily.",
+      "tokens": [
+        {
+          "word": "Der Satellit",
+          "pos": "noun",
+          "ar": "القَمَرُ الصِّنَاعِيُّ"
+        },
+        {
+          "word": "beobachtet",
+          "pos": "verb",
+          "ar": "يُرَاقِبُ"
+        },
+        {
+          "word": "die Erde",
+          "pos": "noun",
+          "ar": "الأَرْضَ"
+        },
+        {
+          "word": "täglich",
+          "pos": "adverb",
+          "ar": "يَوْمِيًّا"
+        }
+      ],
+      "grammar_points": [
+        "Untrennbares Verb 'beobachten'",
+        "Akkusativ Feminin 'die Erde'"
+      ]
+    },
+    {
+      "id": "sent_365",
+      "category": "probe_landing",
+      "difficulty": "A1+",
+      "arabic": "المَرْكَبَةُ تَهْبِطُ بِأَمَانٍ عَلَى الكَوْكَبِ الجَدِيدِ.",
+      "german": "Die Sonde landet sicher auf dem neuen Planeten.",
+      "english": "The probe lands safely on the new planet.",
+      "tokens": [
+        {
+          "word": "Die Sonde",
+          "pos": "noun",
+          "ar": "المَرْكَبَةُ / المِسْبَارُ"
+        },
+        {
+          "word": "landet",
+          "pos": "verb",
+          "ar": "تَهْبِطُ"
+        },
+        {
+          "word": "sicher",
+          "pos": "adverb",
+          "ar": "بِأَمَانٍ"
+        },
+        {
+          "word": "auf dem neuen Planeten",
+          "pos": "preposition_phrase",
+          "ar": "عَلَى الكَوْكَبِ الجَدِيدِ"
+        }
+      ],
+      "grammar_points": [
+        "Regelmäßige Konjugation 'landen'",
+        "Wechselpräposition 'auf' + Dativ Maskulin n-Deklination 'dem neuen Planeten'"
+      ]
     }
   ]
 }

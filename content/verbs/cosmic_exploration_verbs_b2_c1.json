@@ -1,0 +1,451 @@
+{
+  "category_id": "cosmic_exploration_verbs_b2_c1",
+  "category_title": {
+    "ar": "أفعال الاستكشاف الكوني والملاحة الفلكية والعمليات المدارية",
+    "de": "Tiefraum-Explorations-, Raumfahrt- und Himmelsnavigationsverben",
+    "en": "Deep-Space Exploration & Planetary Navigation Verbs"
+  },
+  "level": "B2/C1",
+  "items": [
+    {
+      "id": "verb_navigieren",
+      "german": "navigieren",
+      "arabic": "يُبْحِرُ فَلَكِيًّا / يُوَجِّهُ مَلَاحِيًّا فِي الفَضَاءِ السَّحِيقِ",
+      "english": "to navigate in deep space",
+      "conjugation": {
+        "praesens": "er/sie/es navigiert",
+        "praeteritum": "navigierte",
+        "perfekt": "hat navigiert"
+      },
+      "preposition": "durch + Akk / nach + Dat",
+      "collocations": [
+        "durch den Asteroidengürtel navigieren",
+        "nach Pulsarsignalen autonom navigieren"
+      ],
+      "example_sentence": {
+        "de": "Die autonome Sonde navigiert mithilfe hochpräziser Sternsensoren zielsicher durch den interplanetaren Raum.",
+        "ar": "تُبْحِرُ المِسْبَارُ ذَاتِيُّ القِيَادَةِ بِدِقَّةٍ عَبْرَ الفَضَاءِ بَيْنَ الكَوَاكِبِ بِمُسَاعَدَةِ مُسْتَشْعِرَاتٍ نَجْمِيَّةٍ فَائِقَةِ الدِّقَّةِ.",
+        "en": "The autonomous probe navigates accurately through interplanetary space using high-precision star sensors."
+      },
+      "image": "assets/svg/verb_navigieren.svg"
+    },
+    {
+      "id": "verb_kartieren",
+      "german": "kartieren",
+      "arabic": "يَرْسُمُ خَرَائِطَ طُوبُوغْرَافِيَّةً لِلْأَجْرَامِ السَّمَاوِيَّةِ",
+      "english": "to chart or map celestial surfaces",
+      "conjugation": {
+        "praesens": "er/sie/es kartiert",
+        "praeteritum": "kartierte",
+        "perfekt": "hat kartiert"
+      },
+      "preposition": "mit + Dat",
+      "collocations": [
+        "die Marsoberfläche kartieren",
+        "exoplanetare Kraterlandschaften kartieren"
+      ],
+      "example_sentence": {
+        "de": "Der Orbiter kartierte das zerklüftete Hochland des Mondes mit hochauflösenden Laseraltimetern.",
+        "ar": "رَسَمَ المِسْبَارُ المَدَارِيُّ خَرَائِطَ تَفْصِيلِيَّةً لِمُرْتَفَعَاتِ القَمَرِ الوَعِرَةِ بِوَاسِطَةِ مَقَايِيسِ ارْتِفَاعٍ لَيْزَرِيَّةٍ عَالِيَةِ الدِّقَّةِ.",
+        "en": "The orbiter mapped the rugged lunar highlands using high-resolution laser altimeters."
+      },
+      "image": "assets/svg/verb_kartieren.svg"
+    },
+    {
+      "id": "verb_orbitieren",
+      "german": "orbitieren",
+      "arabic": "يَدُورُ فِي مَدَارٍ كَوْكَبِيٍّ مُنْتَظَمٍ",
+      "english": "to orbit a celestial body",
+      "conjugation": {
+        "praesens": "er/sie/es gravitiert / orbitiert",
+        "praeteritum": "orbitierte",
+        "perfekt": "hat / ist gravitiert"
+      },
+      "preposition": "um + Akk",
+      "collocations": [
+        "um den Gasriesen orbitieren",
+        "in einer geostationären Bahn orbitieren"
+      ],
+      "example_sentence": {
+        "de": "Das Forschungsschiff orbitierte monatelang um den Jupiter, um dessen Strahlungsgürtel zu untersuchen.",
+        "ar": "دَارَتْ سَفِينَةُ الأَبْحَاثِ لِأَشْهُرٍ فِي مَدَارٍ حَوْلَ المُشْتَرِي لِدِرَاسَةِ أَحْزِمَتِهِ الإِشْعَاعِيَّةِ.",
+        "en": "The research spacecraft orbited Jupiter for months to investigate its radiation belts."
+      },
+      "image": "assets/svg/verb_orbitieren.svg"
+    },
+    {
+      "id": "verb_kolonisieren",
+      "german": "kolonisieren",
+      "arabic": "يَسْتَوْطِنُ كَوْكَبِيًّا / يُنْشِئُ مُسْتَعْمَرَاتٍ فَضَائِيَّةً",
+      "english": "to colonize planets or moons",
+      "conjugation": {
+        "praesens": "er/sie/es kolonisiert",
+        "praeteritum": "kolonisierte",
+        "perfekt": "hat kolonisiert"
+      },
+      "preposition": "auf + Dat",
+      "collocations": [
+        "den Roten Planeten kolonisieren",
+        "fremde Mondsysteme kolonisieren"
+      ],
+      "example_sentence": {
+        "de": "Wissenschaftler debattieren intensiv darüber, ob die Menschheit zuerst den Mond oder den Mars kolonisieren sollte.",
+        "ar": "يُنَاقِشُ العُلَمَاءُ بِكُثَافَةٍ مَا إِذَا كَانَ يَنْبَغِي لِلْبَشَرِيَّةِ اسْتِيطَانُ القَمَرِ أَمِ المِرِّيخِ أَوَّلًا.",
+        "en": "Scientists debate intensely whether humanity should colonize the Moon or Mars first."
+      },
+      "image": "assets/svg/verb_kolonisieren.svg"
+    },
+    {
+      "id": "verb_terraformen",
+      "german": "terraformen",
+      "arabic": "يَسْتَصْلِحُ كَوْكَبِيًّا لِجَعْلِهِ صَالِحًا لِلْحَيَاةِ",
+      "english": "to terraform a planet",
+      "conjugation": {
+        "praesens": "er/sie/es terraformt",
+        "praeteritum": "terraformte",
+        "perfekt": "hat geterraformt"
+      },
+      "preposition": "zu + Dat",
+      "collocations": [
+        "eine lebensfeindliche Welt terraformen",
+        "die Atmosphäre terraformen"
+      ],
+      "example_sentence": {
+        "de": "Um den Mars zu terraformen, müssten gigantische Mengen Treibhausgase zur Erwärmung freigesetzt werden.",
+        "ar": "لِاسْتِصْلَاحِ المِرِّيخِ، سَيَتَعَيَّنُ إِطْلَاقُ كَمِّيَّاتٍ هَائِلَةٍ مِنْ غَازَاتِ الاحْتِبَاسِ الحَرَارِيِّ لِتَدْفِئَتِهِ.",
+        "en": "To terraform Mars, immense quantities of greenhouse gases would have to be released for warming."
+      },
+      "image": "assets/svg/verb_terraformen.svg"
+    },
+    {
+      "id": "verb_trajektieren",
+      "german": "trajektieren",
+      "arabic": "يُحَدِّدُ المَسَارَ الحَرَكِيَّ المَدَارِيَّ بِدِقَّةٍ",
+      "english": "to calculate and project orbital trajectories",
+      "conjugation": {
+        "praesens": "er/sie/es trajektiert",
+        "praeteritum": "trajektierte",
+        "perfekt": "hat trajektiert"
+      },
+      "preposition": "entlang + Gen / zu + Dat",
+      "collocations": [
+        "eine Transferbahn trajektieren",
+        "eine hocheffiziente Flugbahn trajektieren"
+      ],
+      "example_sentence": {
+        "de": "Die Mathematiker der Raumfahrtbehörde trajektierten die Flugbahn für den Vorbeiflug am Saturn.",
+        "ar": "حَدَّدَ رِيَاضِيُّو وِكَالَةِ الفَضَاءِ المَسَارَ المَدَارِيَّ لِعَمَلِيَّةِ التَّحْلِيقِ بِالقُرْبِ مِنْ زُحَلَ.",
+        "en": "Space agency mathematicians projected the trajectory for the flyby maneuver past Saturn."
+      },
+      "image": "assets/svg/verb_trajektieren.svg"
+    },
+    {
+      "id": "verb_scannen",
+      "german": "scannen",
+      "arabic": "يَمْسَحُ طَيْفِيًّا وَإِشْعَاعِيًّا أَعْمَاقَ الفَضَاءِ",
+      "english": "to scan sensorially or spectroscopically",
+      "conjugation": {
+        "praesens": "er/sie/es scannt",
+        "praeteritum": "scannte",
+        "perfekt": "hat gescannt"
+      },
+      "preposition": "nach + Dat",
+      "collocations": [
+        "den Sektor nach Exoplaneten scannen",
+        "auf Biosignaturen hin scannen"
+      ],
+      "example_sentence": {
+        "de": "Weltraumteleskope scannen den Nachthimmel ununterbrochen nach periodischen Helligkeitsschwankungen ferner Sterne.",
+        "ar": "تَمْسَحُ التَّلِسْكُوبَاتُ الفَضَائِيَّةُ سَمَاءَ اللَّيْلِ دُونَ انْقِطَاعٍ بَحْثًا عَنْ تَقَلُّبَاتِ اللَّمَعَانِ الدَّوْرِيَّةِ لِلنُّجُومِ البَعِيدَةِ.",
+        "en": "Space telescopes scan the night sky continuously for periodic brightness dips of distant stars."
+      },
+      "image": "assets/svg/verb_scannen.svg"
+    },
+    {
+      "id": "verb_spektroskopieren",
+      "german": "spektroskopieren",
+      "arabic": "يُحَلِّلُ كِيمْيَائِيًّا بِالمِطْيَافِ الضَّوْئِيِّ",
+      "english": "to analyze spectroscopically",
+      "conjugation": {
+        "praesens": "er/sie/es spektroskopiert",
+        "praeteritum": "spektroskopierte",
+        "perfekt": "hat spektroskopiert"
+      },
+      "preposition": "in + Dat",
+      "collocations": [
+        "Gasnebel spektroskopieren",
+        "die Atmosphärenzusammensetzung spektroskopieren"
+      ],
+      "example_sentence": {
+        "de": "Astrophysiker spektroskopieren das durch die Planetenatmosphäre dringende Sternenlicht zur Bestimmung von Wasserdampf.",
+        "ar": "يُحَلِّلُ عُلَمَاءُ الفِيزْيَاءِ الفَلَكِيَّةِ ضَوْءَ النُّجُومِ العَابِرَ لِغِلَافِ الكَوْكَبِ الجَوِّيِّ مِطْيَافِيًّا لِتَحْدِيدِ بُخَارِ المَاءِ.",
+        "en": "Astrophysicists spectroscopically analyze starlight passing through the planetary atmosphere to detect water vapor."
+      },
+      "image": "assets/svg/verb_spektroskopieren.svg"
+    },
+    {
+      "id": "verb_andocken",
+      "german": "andocken",
+      "arabic": "يَلْتَحِمُ مَدَارِيًّا بِمَحَطَّةِ الفَضَاءِ",
+      "english": "to dock with a space station",
+      "conjugation": {
+        "praesens": "er/sie/es dockt an",
+        "praeteritum": "dockte an",
+        "perfekt": "hat angedockt"
+      },
+      "preposition": "an + Akk",
+      "collocations": [
+        "an die Raumstation andocken",
+        "vollautomatisch im Orbit andocken"
+      ],
+      "example_sentence": {
+        "de": "Die Frachtkapsel dockte nach einem zweitägigen Flug millimetergenau an der Internationalen Raumstation an.",
+        "ar": "الْتَحَمَتْ كَبْسُولَةُ الشَّحْنِ بِدِقَّةٍ مِلِّيمِتْرِيَّةٍ بِمَحَطَّةِ الفَضَاءِ الدَّوْلِيَّةِ بَعْدَ رِحْلَةٍ اسْتَغْرَقَتْ يَوْمَيْنِ.",
+        "en": "The cargo capsule docked with millimeter precision at the International Space Station after a two-day flight."
+      },
+      "image": "assets/svg/verb_andocken.svg"
+    },
+    {
+      "id": "verb_abkoppeln",
+      "german": "abkoppeln",
+      "arabic": "يَنْفَصِلُ مَدَارِيًّا عَنِ المَرْكَبَةِ الأُمِّ",
+      "english": "to undock or separate in orbit",
+      "conjugation": {
+        "praesens": "er/sie/es koppelt ab",
+        "praeteritum": "koppelte ab",
+        "perfekt": "hat abgekoppelt"
+      },
+      "preposition": "von + Dat",
+      "collocations": [
+        "das Landemodul abkoppeln",
+        "sich sicher von der Trägerrakete abkoppeln"
+      ],
+      "example_sentence": {
+        "de": "Vor dem Wiedereintritt koppelte das Raumschiff das nicht mehr benötigte Servicemodul erfolgreich ab.",
+        "ar": "قَبْلَ عَمَلِيَّةِ إِعَادَةِ دُخُولِ الغِلَافِ الجَوِّيِّ، فَصَلَتِ المَرْكَبَةُ الفَضَائِيَّةُ وِحْدَةَ الخِدْمَةِ بِنَجَاحٍ.",
+        "en": "Prior to atmospheric re-entry, the spacecraft successfully jettisoned the unneeded service module."
+      },
+      "image": "assets/svg/verb_abkoppeln.svg"
+    },
+    {
+      "id": "verb_beschleunigen",
+      "german": "beschleunigen",
+      "arabic": "يَتَسَارَعُ دَفْعِيًّا فِي الفَضَاءِ",
+      "english": "to accelerate via propulsion",
+      "conjugation": {
+        "praesens": "er/sie/es beschleunigt",
+        "praeteritum": "beschleunigte",
+        "perfekt": "hat beschleunigt"
+      },
+      "preposition": "auf + Akk / durch + Akk",
+      "collocations": [
+        "auf Fluchtgeschwindigkeit beschleunigen",
+        "durch Ionenantrieb stetig beschleunigen"
+      ],
+      "example_sentence": {
+        "de": "Mithilfe eines Gravitationsmanövers an der Venus beschleunigte die Raumsonde auf Rekordgeschwindigkeit.",
+        "ar": "تَسَارَعَتِ المِسْبَارُ الفَضَائِيُّ إِلَى سُرْعَةٍ قِيَاسِيَّةٍ بِمُسَاعَدَةِ مُنَاوَرَةِ الجَاذِبِيَّةِ حَوْلَ الزُّهَرَةِ.",
+        "en": "Utilizing a gravity assist maneuver at Venus, the space probe accelerated to record speed."
+      },
+      "image": "assets/svg/verb_beschleunigen.svg"
+    },
+    {
+      "id": "verb_abbremsen",
+      "german": "abbremsen",
+      "arabic": "يَكْبَحُ السُّرْعَةَ المَدَارِيَّةَ لِلدُّخُولِ الجَوِّيِّ",
+      "english": "to decelerate for atmospheric insertion",
+      "conjugation": {
+        "praesens": "er/sie/es bremst ab",
+        "praeteritum": "bremste ab",
+        "perfekt": "hat abgebremst"
+      },
+      "preposition": "in + Dat / vor + Dat",
+      "collocations": [
+        "durch Atmosphärenreibung abbremsen",
+        "die Abstiegsgeschwindigkeit rechtzeitig abbremsen"
+      ],
+      "example_sentence": {
+        "de": "Die Landefähre zündete ihre Bremsraketen, um die Fallgeschwindigkeit vor dem Aufsetzen sanft abzubremsen.",
+        "ar": "أَشْعَلَتْ مَرْكَبَةُ الهُبُوطِ صَوَارِيخَ الكَبْحِ لِتَقْلِيلِ سُرْعَةِ الهُبُوطِ بِنُعُومَةٍ قَبْلَ مُلَامَسَةِ السَّطْحِ.",
+        "en": "The lunar lander fired its retrorockets to gently decelerate its descent velocity prior to touchdown."
+      },
+      "image": "assets/svg/verb_abbremsen.svg"
+    },
+    {
+      "id": "verb_kalibrieren",
+      "german": "kalibrieren",
+      "arabic": "يُعَايِرُ أَدَوَاتِ التَّوْجِيهِ وَالمَسْحِ النَّجْمِيِّ",
+      "english": "to calibrate navigational instruments",
+      "conjugation": {
+        "praesens": "er/sie/es kalibriert",
+        "praeteritum": "kalibrierte",
+        "perfekt": "hat kalibriert"
+      },
+      "preposition": "auf + Akk",
+      "collocations": [
+        "optische Sensoren kalibrieren",
+        "das Spektrometer vor der Messung kalibrieren"
+      ],
+      "example_sentence": {
+        "de": "Die Missionskontrolle kalibrierte die Infrarotkameras anhand bekannter Leitsterne neu.",
+        "ar": "أَعَادَتْ غُرْفَةُ مُرَاقَبَةِ المَهَمَّةِ مُعَايَرَةَ كَامِيرَاتِ الأَشِعَّةِ تَحْتَ الحَمْرَاءِ بِالاعْتِمَادِ عَلَى نُجُومٍ دَلِيلِيَّةٍ مَعْرُوفَةٍ.",
+        "en": "Mission control recalibrated the infrared cameras against well-known guide stars."
+      },
+      "image": "assets/svg/verb_kalibrieren.svg"
+    },
+    {
+      "id": "verb_telemetrieren",
+      "german": "telemetrieren",
+      "arabic": "يَرْصُدُ وَيَبُثُّ بَيَانَاتِ القِيَاسِ عَنْ بُعْدٍ",
+      "english": "to transmit telemetry data",
+      "conjugation": {
+        "praesens": "er/sie/es telemetriert",
+        "praeteritum": "telemetrierte",
+        "perfekt": "hat telemetriert"
+      },
+      "preposition": "an + Akk",
+      "collocations": [
+        "Statusdaten an die Bodenstation telemetrieren",
+        "Messwerte in Echtzeit telemetrieren"
+      ],
+      "example_sentence": {
+        "de": "Der Mars-Rover telemetriert täglich hunderte Megabyte an Umwelt- und Systemdaten zur Erde.",
+        "ar": "يَبُثُّ مِسْبَارُ المِرِّيخِ الجَوَّالُ يَوْمِيًّا مِئَاتِ المِيجَابَايْتَاتِ مِنْ بَيَانَاتِ البِيئَةِ وَالنِّظَامِ إِلَى الأَرْضِ.",
+        "en": "The Mars rover telemeters hundreds of megabytes of environmental and diagnostic data to Earth daily."
+      },
+      "image": "assets/svg/verb_telemetrieren.svg"
+    },
+    {
+      "id": "verb_expandieren",
+      "german": "expandieren",
+      "arabic": "يَتَمَدَّدُ كَوْنِيًّا / يَتَّسِعُ الفَضَاءُ بَيْنَ المَجَرَّاتِ",
+      "english": "to expand cosmologically",
+      "conjugation": {
+        "praesens": "er/sie/es expandiert",
+        "praeteritum": "expandierte",
+        "perfekt": "hat / ist expandiert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "beschleunigt expandieren",
+        "der Raum expandiert unaufhaltsam"
+      ],
+      "example_sentence": {
+        "de": "Getrieben von der Dunklen Energie expandiert das Universum mit ständig zunehmender Geschwindigkeit.",
+        "ar": "يَتَمَدَّدُ الكَوْنُ بِسُرْعَةٍ مُتَزَايِدَةٍ بِاسْتِمْرَارٍ بِفِعْلِ الطَّاقَةِ المُظْلِمَةِ.",
+        "en": "Driven by dark energy, the universe expands at an ever-accelerating rate."
+      },
+      "image": "assets/svg/verb_expandieren.svg"
+    },
+    {
+      "id": "verb_kollabieren",
+      "german": "kollabieren",
+      "arabic": "يَنْهَارُ جَاذِبِيًّا تَحْتَ ثِقَلِ كُتْلَتِهِ",
+      "english": "to collapse gravitationally",
+      "conjugation": {
+        "praesens": "er/sie/es kollabiert",
+        "praeteritum": "kollabierte",
+        "perfekt": "ist kollabiert"
+      },
+      "preposition": "zu + Dat",
+      "collocations": [
+        "zu einem Schwarzen Loch kollabieren",
+        "unter der eigenen Schwerkraft kollabieren"
+      ],
+      "example_sentence": {
+        "de": "Wenn der nukleare Brennstoff versiegt, kollabiert der massive Sternenkern in Sekundenbruchteilen.",
+        "ar": "عِنْدَمَا يَنْفَدُ الوَقُودُ النَّوَوِيُّ، يَنْهَارُ قَلْبُ النَّجْمِ الهَائِلِ جَاذِبِيًّا فِي أَجْزَاءٍ مِنَ الثَّانِيَةِ.",
+        "en": "When nuclear fuel is exhausted, the massive stellar core collapses within fractions of a second."
+      },
+      "image": "assets/svg/verb_kollabieren.svg"
+    },
+    {
+      "id": "verb_fusionieren",
+      "german": "fusionieren",
+      "arabic": "يَنْدَمِجُ نَوَوِيًّا فِي قُلُوبِ النُّجُومِ",
+      "english": "to fuse nuclearly",
+      "conjugation": {
+        "praesens": "er/sie/es fusioniert",
+        "praeteritum": "fusionierte",
+        "perfekt": "hat fusioniert"
+      },
+      "preposition": "zu + Dat",
+      "collocations": [
+        "Wasserstoff zu Helium fusionieren",
+        "unter extremem Druck fusionieren"
+      ],
+      "example_sentence": {
+        "de": "Im Inneren der Sonne fusionieren kontinuierlich Wasserstoffkerne zu Helium unter Freisetzung gewaltiger Energie.",
+        "ar": "تَنْدَمِجُ أَنْوِيَةُ الهَيْدْرُوجِينِ بِاسْتِمْرَارٍ فِي بَاطِنِ الشَّمْسِ لِتَتَحَوَّلَ إِلَى هِيلْيُومَ مَعَ تَحْرِيرِ طَاقَةٍ هَائِلَةٍ.",
+        "en": "Inside the Sun, hydrogen nuclei continuously fuse into helium, releasing enormous amounts of energy."
+      },
+      "image": "assets/svg/verb_fusionieren.svg"
+    },
+    {
+      "id": "verb_emittieren",
+      "german": "emittieren",
+      "arabic": "يَبُثُّ إِشْعَاعَاتٍ كَهْرُومَغْنَاطِيسِيَّةً فَلَكِيَّةً",
+      "english": "to emit cosmic radiation",
+      "conjugation": {
+        "praesens": "er/sie/es emittiert",
+        "praeteritum": "emittierte",
+        "perfekt": "hat emittiert"
+      },
+      "preposition": "in + Akk",
+      "collocations": [
+        "Gammastrahlenblitze emittieren",
+        "hochfrequente Radiowellen emittieren"
+      ],
+      "example_sentence": {
+        "de": "Pulsare emittieren hochenergetische Radiowellenbündel, die wie kosmische Leuchttürme das Weltall durchstreifen.",
+        "ar": "تَبُثُّ النُّجُومُ النَّابِضَةُ حُزَمًا رَادْيَوِيَّةً عَالِيَةَ الطَّاقَةِ تَجُوبُ الفَضَاءَ كَمَنَارَاتٍ كَوْنِيَّةٍ.",
+        "en": "Pulsars emit high-energy radio beams that sweep through space like cosmic lighthouses."
+      },
+      "image": "assets/svg/verb_emittieren.svg"
+    },
+    {
+      "id": "verb_absorbieren",
+      "german": "absorbieren",
+      "arabic": "يَمْتَصُّ الإِشْعَاعَاتِ وَالطَّاقَةَ الكَوْنِيَّةَ",
+      "english": "to absorb cosmic rays or energy",
+      "conjugation": {
+        "praesens": "er/sie/es absorbiert",
+        "praeteritum": "absorbierte",
+        "perfekt": "hat absorbiert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "kosmische Strahlung absorbieren",
+        "hochenergetische Photonen absorbieren"
+      ],
+      "example_sentence": {
+        "de": "Die Schutzschilde des Habitats absorbieren tödliche kosmische Strahlung zum Schutz der Kolonisten.",
+        "ar": "تَمْتَصُّ دُرُوعُ الحِمَايَةِ فِي المَوْطِنِ الفَضَائِيِّ الإِشْعَاعَاتِ الكَوْنِيَّةَ الفَتَّاكَةَ لِحِمَايَةِ المُسْتَوْطِنِينَ.",
+        "en": "The habitat's radiation shields absorb lethal cosmic rays to protect the colonists."
+      },
+      "image": "assets/svg/verb_absorbieren.svg"
+    },
+    {
+      "id": "verb_relayen",
+      "german": "relayen",
+      "arabic": "يُرَحِّلُ الإِشَارَاتِ اللَّاسِلْكِيَّةَ عَبْرَ أَقْمَارِ التَّتَبُّعِ",
+      "english": "to relay communications across satellite links",
+      "conjugation": {
+        "praesens": "er/sie/es relayt",
+        "praeteritum": "relayte",
+        "perfekt": "hat gerelayt"
+      },
+      "preposition": "über + Akk / an + Akk",
+      "collocations": [
+        "Funksignale über Mars-Orbiter relayen",
+        "Daten zur Erde relayen"
+      ],
+      "example_sentence": {
+        "de": "Da der Lander hinter dem Horizont lag, relayte der Satellit die hochauflösenden Panoramabilder zur Erde.",
+        "ar": "نَظَرًا لِوُقُوعِ مَرْكَبَةِ الهُبُوطِ خَلْفَ الأُفُقِ، رَحَّلَ القَمَرُ الصِّنَاعِيُّ الصُّوَرَ البَانُورَامِيَّةَ عَالِيَةَ الدِّقَّةِ إِلَى الأَرْضِ.",
+        "en": "Because the lander was below the horizon, the satellite relayed high-resolution panoramas back to Earth."
+      },
+      "image": "assets/svg/verb_relayen.svg"
+    }
+  ]
+}
