@@ -1,0 +1,336 @@
+{
+  "category_id": "constitutional_jurisprudence_c2",
+  "category_title": {
+    "ar": "فقه القضاء المقارن والتأويل الدستوري وفلسفة العدالة",
+    "de": "Vergleichende Jurisprudenz, Verfassungshermeneutik und Rechtsphilosophie",
+    "en": "Comparative Jurisprudence, Constitutional Hermeneutics & Legal Philosophy"
+  },
+  "level": "C2",
+  "items": [
+    {
+      "id": "concept_verfassungsgerichtsbarkeit",
+      "german": "die Verfassungsgerichtsbarkeit",
+      "plural": "die Verfassungsgerichtsbarkeiten",
+      "arabic": "القَضَاءُ الدُّسْتُورِيُّ (المَحَاكِمُ الدُّسْتُورِيَّةُ العُلْيَا)",
+      "english": "constitutional jurisdiction / constitutional review",
+      "example_sentence": {
+        "de": "Das Bundesverfassungsgericht hütet als oberstes Organ der Verfassungsgerichtsbarkeit die Einhaltung der Grundrechte.",
+        "ar": "تَحْرُسُ المَحْكَمَةُ الدُّسْتُورِيَّةُ الِاتِّحَادِيَّةُ بِوَصْفِهَا أَعْلَى هَيْئَةٍ لِلْقَضَاءِ الدُّسْتُورِيِّ كَفَالَةَ الحُقُوقِ الأَسَاسِيَّةِ.",
+        "en": "The Federal Constitutional Court, as supreme organ of constitutional jurisdiction, safeguards fundamental rights."
+      },
+      "image": "assets/svg/concept_verfassungsgerichtsbarkeit.svg"
+    },
+    {
+      "id": "concept_verfassungskonformitaet",
+      "german": "die Verfassungskonformität",
+      "plural": "-",
+      "arabic": "المُطَابَقَةُ الدُّسْتُورِيَّةُ (مُوَاءَمَةُ القَوَانِينِ لِلدُّسْتُورِ)",
+      "english": "constitutional conformity / constitutionality",
+      "example_sentence": {
+        "de": "Vor seinem Inkrafttreten muss jedes Gesetz einer strengen Prüfung auf Verfassungskonformität unterzogen werden.",
+        "ar": "يَجِبُ إِخْضَاعُ كُلِّ قَانُونٍ لِفَحْصٍ صَارِمٍ لِمَدَى مُطَابَقَتِهِ الدُّسْتُورِيَّةِ قَبْلَ دُخُولِهِ حَيِّزَ النَّفَاذِ.",
+        "en": "Prior to entering into force, every statute must undergo rigorous scrutiny regarding its constitutional conformity."
+      },
+      "image": "assets/svg/concept_verfassungskonformitaet.svg"
+    },
+    {
+      "id": "concept_rechtsstaatsprinzip",
+      "german": "das Rechtsstaatsprinzip",
+      "plural": "-",
+      "arabic": "مَبْدَأُ دَوْلَةِ سِيَادَةِ القَانُونِ",
+      "english": "principle of the rule of law",
+      "example_sentence": {
+        "de": "Das Rechtsstaatsprinzip bindet alle staatliche Gewalt unwiderruflich an Gesetz und Recht.",
+        "ar": "يُلْزِمُ مَبْدَأُ سِيَادَةِ القَانُونِ كُلَّ سُلْطَاتِ الدَّوْلَةِ بِشَكْلٍ لَا رَجْعَةَ فِيهِ بِالقَوَانِينِ وَالعَدَالَةِ.",
+        "en": "The principle of the rule of law irrevocably binds all state authority to statute and justice."
+      },
+      "image": "assets/svg/concept_rechtsstaatsprinzip.svg"
+    },
+    {
+      "id": "concept_verhaeltnismaessigkeit",
+      "german": "die Verhältnismäßigkeit",
+      "plural": "-",
+      "arabic": "التَّنَاسُبُ الدُّسْتُورِيُّ (مَبْدَأُ التَّنَاسُبِ فِي التَّدَابِيرِ)",
+      "english": "principle of proportionality",
+      "example_sentence": {
+        "de": "Ein staatlicher Eingriff in Grundrechte ist nur dann legitim, wenn er dem Grundsatz der Verhältnismäßigkeit entspricht.",
+        "ar": "لَا يَكُونُ التَّدَخُّلُ الحُكُومِيُّ فِي الحُقُوقِ الأَسَاسِيَّةِ مَشْرُوعًا إِلَّا إِذَا اسْتَوْفَى مَبْدَأَ التَّنَاسُبِ.",
+        "en": "State interference with fundamental rights is legitimate only if it complies with the principle of proportionality."
+      },
+      "image": "assets/svg/concept_verhaeltnismaessigkeit.svg"
+    },
+    {
+      "id": "concept_uebermassverbot",
+      "german": "das Übermaßverbot",
+      "plural": "-",
+      "arabic": "حَظْرُ الإِفْرَاطِ وَالتَّجَاوُزِ الإِجْرَائِيِّ",
+      "english": "prohibition of excess / rule of least restrictive means",
+      "example_sentence": {
+        "de": "Das Übermaßverbot verbietet dem Gesetzgeber, schwerere Mittel zu wählen, wenn mildere Maßnahmen denselben Zweck erfüllen.",
+        "ar": "يَحْظُرُ مَبْدَأُ حَظْرِ الإِفْرَاطِ عَلَى المُشَرِّعِ اخْتِيَارَ تَدَابِيرَ أَشَدَّ عِنْدَمَا تَفِي الإِجْرَاءَاتُ الأَخَفُّ بِالغَرَضِ نَفْسِهِ.",
+        "en": "The prohibition of excess forbids legislators from deploying harsher means when milder measures achieve the identical aim."
+      },
+      "image": "assets/svg/concept_uebermassverbot.svg"
+    },
+    {
+      "id": "concept_normenkontrolle",
+      "german": "die Normenkontrolle",
+      "plural": "die Normenkontrollen",
+      "arabic": "الرَّقَابَةُ القَضَائِيَّةُ عَلَى دُسْتُورِيَّةِ القَوَانِينِ",
+      "english": "judicial review of legislative norms",
+      "example_sentence": {
+        "de": "Im Verfahren der abstrakten Normenkontrolle prüft das Verfassungsgericht Gesetze unabhängig von konkreten Rechtsstreitigkeiten.",
+        "ar": "تَفْحَصُ المَحْكَمَةُ الدُّسْتُورِيَّةُ فِي دَعْوَى الرَّقَابَةِ المُجَرَّدَةِ مَدَى دُسْتُورِيَّةِ القَوَانِينِ بِمَعْزِلٍ عَنْ نِزَاعٍ عَيْنِيٍّ.",
+        "en": "In abstract norm control proceedings, the constitutional court reviews statutes independent of concrete litigation."
+      },
+      "image": "assets/svg/concept_normenkontrolle.svg"
+    },
+    {
+      "id": "concept_gesetzesvorbehalt",
+      "german": "der Gesetzesvorbehalt",
+      "plural": "die Gesetzesvorbehalte",
+      "arabic": "التَّحَفُّظُ القَانُونِيُّ (حَظْرُ المَسَاسِ بِالحُقُوقِ إِلَّا بِقَانُونٍ)",
+      "english": "statutory reservation / principle of legality",
+      "example_sentence": {
+        "de": "Eingriffe in die persönliche Freiheit bedürfen aufgrund des Gesetzesvorbehalts einer ausdrücklichen parlamentarischen Ermächtigung.",
+        "ar": "يَتَطَلَّبُ التَّقْيِيدُ فِي الحُرِّيَّةِ الشَّخْصِيَّةِ بِمُوجَبِ التَّحَفُّظِ القَانُونِيِّ تَفْوِيضًا بَرْلَمَانِيًّا صَرِيحًا.",
+        "en": "Encroachments upon personal liberty require an explicit parliamentary authorization pursuant to statutory reservation."
+      },
+      "image": "assets/svg/concept_gesetzesvorbehalt.svg"
+    },
+    {
+      "id": "concept_zitiergebot",
+      "german": "das Zitiergebot",
+      "plural": "-",
+      "arabic": "وُجُوبُ الإِشَارَةِ الصَّرِيحَةِ لِلْمَادَّةِ الدُّسْتُورِيَّةِ المُقَيَّدَةِ",
+      "english": "citation requirement (explicit naming of restricted constitutional articles)",
+      "example_sentence": {
+        "de": "Wird ein Grundrecht durch Gesetz eingeschränkt, verlangt das Zitiergebot die namentliche Nennung des betroffenen Artikels.",
+        "ar": "إِذَا تَمَّ تَقْيِيدُ حَقٍّ أَسَاسِيٍّ بِقَانُونٍ، يُوجِبُ مَبْدَأُ الإِشَارَةِ الصَّرِيحَةِ ذِكْرَ رَقْمِ المَادَّةِ الدُّسْتُورِيَّةِ بِالاسْمِ.",
+        "en": "When a fundamental right is restricted by statute, the citation requirement mandates explicitly identifying the article."
+      },
+      "image": "assets/svg/concept_zitiergebot.svg"
+    },
+    {
+      "id": "concept_ewigkeitsklausel",
+      "german": "die Ewigkeitsklausel",
+      "plural": "die Ewigkeitsklauseln",
+      "arabic": "مَادَّةُ التَّحْصِينِ الأَبَدِيِّ الدُّسْتُورِيِّ",
+      "english": "eternity clause (unamendable core constitutional provisions)",
+      "example_sentence": {
+        "de": "Gemäß der Ewigkeitsklausel in Artikel 79 Absatz 3 des Grundgesetzes sind Menschenwürde und Demokratieprinzip unabänderlich.",
+        "ar": "بِمُوجَبِ مَادَّةِ التَّحْصِينِ الأَبَدِيِّ، تُعَدُّ كَرَامَةُ الإِنْسَانِ وَمَبْدَأُ الدِّيمُقْرَاطِيَّةِ غَيْرَ قَابِلَيْنِ لِلتَّعْدِيلِ مُطْلَقًا.",
+        "en": "Pursuant to the eternity clause, human dignity and democratic principles are absolutely unamendable."
+      },
+      "image": "assets/svg/concept_ewigkeitsklausel.svg"
+    },
+    {
+      "id": "concept_wesensgehaltsgarantie",
+      "german": "die Wesensgehaltsgarantie",
+      "plural": "die Wesensgehaltsgarantien",
+      "arabic": "ضَمَانُ عَدَمِ المَسَاسِ بِجَوْهَرِ الحَقِّ الأَسَاسِيِّ",
+      "english": "guarantee of the essential content of fundamental rights",
+      "example_sentence": {
+        "de": "Die Wesensgehaltsgarantie stellt sicher, dass kein Grundrecht durch legislative Einschränkungen in seinem Kern ausgehöhlt wird.",
+        "ar": "يَضْمَنُ مَبْدَأُ صَوْنِ جَوْهَرِ الحَقِّ عَدَمَ تَفْرِيغِ أَيِّ حَقٍّ أَسَاسِيٍّ مِنْ مَضْمُونِهِ الجَوْهَرِيِّ عَبْرَ القَوَانِينِ.",
+        "en": "The guarantee of essential content ensures that no fundamental right is hollowed out in its core by legislative measures."
+      },
+      "image": "assets/svg/concept_wesensgehaltsgarantie.svg"
+    },
+    {
+      "id": "concept_rechtssicherheit",
+      "german": "die Rechtssicherheit",
+      "plural": "-",
+      "arabic": "الأَمْنُ وَاليَقِينُ القَانُونِيُّ",
+      "english": "legal certainty",
+      "example_sentence": {
+        "de": "Rechtssicherheit verlangt klare, vorhersehbare und widerspruchsfreie Gesetze für alle Bürger.",
+        "ar": "يَقْتَضِي الأَمْنُ القَانُونِيُّ أَنْ تَكُونَ القَوَانِينُ وَاضِحَةً، وَقَابِلَةً لِلتَّنَبُّؤِ، وَخَالِيَةً مِنَ التَّنَاقُضِ لِجَمِيعِ المُواطِنِينَ.",
+        "en": "Legal certainty demands clear, predictable, and non-contradictory statutes for all citizens."
+      },
+      "image": "assets/svg/concept_rechtssicherheit.svg"
+    },
+    {
+      "id": "concept_rueckwirkungsverbot",
+      "german": "das Rückwirkungsverbot",
+      "plural": "-",
+      "arabic": "حَظْرُ الأَثَرِ الرَّجْعِيِّ لِلْقَوَانِينِ",
+      "english": "prohibition of retroactivity / non-retroactivity",
+      "example_sentence": {
+        "de": "Im Strafrecht gilt das absolute Rückwirkungsverbot: Keine Strafe ohne vorheriges Gesetz.",
+        "ar": "يَسْرِي فِي القَانُونِ الجِنَائِيِّ حَظْرٌ مُطْلَقٌ لِلأَثَرِ الرَّجْعِيِّ: لَا عُقُوبَةَ إِلَّا بِنَصٍّ قَانُونِيٍّ سَابِقٍ عَلَى الفِعْلِ.",
+        "en": "In criminal law, absolute non-retroactivity applies: nullum crimen, nulla poena sine lege praevia."
+      },
+      "image": "assets/svg/concept_rueckwirkungsverbot.svg"
+    },
+    {
+      "id": "concept_vertrauensschutz",
+      "german": "der Vertrauensschutz",
+      "plural": "-",
+      "arabic": "حِمَايَةُ الثِّقَةِ المَشْرُوعَةِ فِي المَرَاكِزِ القَانُونِيَّةِ",
+      "english": "protection of legitimate expectations",
+      "example_sentence": {
+        "de": "Bürger genießen Vertrauensschutz, wenn sie ihre Lebensentscheidungen auf bestehende gesetzliche Regelungen gestützt haben.",
+        "ar": "يَتَمَتَّعُ المُواطِنُونَ بِحِمَايَةِ الثِّقَةِ المَشْرُوعَةِ إِذَا بَنَوْا قَرَارَاتِ حَيَاتِهِمْ عَلَى تَشْرِيعَاتٍ قَانُونِيَّةٍ قَائِمَةٍ.",
+        "en": "Citizens enjoy protection of legitimate expectations when they have arranged their affairs relying on current laws."
+      },
+      "image": "assets/svg/concept_vertrauensschutz.svg"
+    },
+    {
+      "id": "concept_gewaltenteilung",
+      "german": "die Gewaltenteilung",
+      "plural": "-",
+      "arabic": "مَبْدَأُ الفَصْلِ بَيْنَ السُّلُطَاتِ",
+      "english": "separation of powers (trias politica)",
+      "example_sentence": {
+        "de": "Die Gewaltenteilung zwischen Legislative, Exekutive und Judikative verhindert die Konzentration von Macht.",
+        "ar": "يَمْنَعُ مَبْدَأُ الفَصْلِ بَيْنَ السُّلُطَاتِ التَّشْرِيعِيَّةِ وَالتَّنْفِيذِيَّةِ وَالقَضَائِيَّةِ تَرْكِيزَ السُّلْطَةِ فِي يَدٍ وَاحِدَةٍ.",
+        "en": "The separation of powers among legislature, executive, and judiciary prevents the concentration of power."
+      },
+      "image": "assets/svg/concept_gewaltenteilung.svg"
+    },
+    {
+      "id": "concept_bundestreue",
+      "german": "die Bundestreue",
+      "plural": "-",
+      "arabic": "الوَactionلَاءُ الفِيدْرَالِيُّ الدُّسْتُورِيُّ المُتَبَادَلُ",
+      "english": "federal loyalty / constitutional comity",
+      "example_sentence": {
+        "de": "Das ungeschriebene Verfassungsprinzip der Bundestreue verpflichtet Bund und Länder zur gegenseitigen Rücksichtnahme.",
+        "ar": "يُلْزِمُ المَبْدَأُ الدُّسْتُورِيُّ العُرْفِيُّ لِلْوَلَاءِ الفِيدْرَالِيِّ الحُكُومَةَ الِاتِّحَادِيَّةَ وَالوِلَايَاتِ بِالمُرَاعَاةِ المُتَبَادَلَةِ لِلْمَصَالِحِ.",
+        "en": "The unwritten constitutional principle of federal comity obligates federal and state entities to mutual consideration."
+      },
+      "image": "assets/svg/concept_bundestreue.svg"
+    },
+    {
+      "id": "concept_naturrecht",
+      "german": "das Naturrecht",
+      "plural": "-",
+      "arabic": "القَانُونُ الطَّبِيعِيُّ الفِطْرِيُّ المِعْيَارِيُّ",
+      "english": "natural law",
+      "example_sentence": {
+        "de": "Das Naturrecht postuliert überpositive Rechtsgrundsätze, die der menschlichen Vernunft von Natur aus eingestiftet sind.",
+        "ar": "يُقَرِّرُ القَانُونُ الطَّبِيعِيُّ مَبَادِئَ حَقٍّ فَوْقَ وَضْعِيَّةٍ مَغْرُوسَةٍ فِطْرِيًّا فِي العَقْلِ البَشَرِيِّ.",
+        "en": "Natural law posits supra-positive legal maxims innately grounded in human reason."
+      },
+      "image": "assets/svg/concept_naturrecht.svg"
+    },
+    {
+      "id": "concept_rechtspositivismus",
+      "german": "der Rechtspositivismus",
+      "plural": "-",
+      "arabic": "الوَضْعِيَّةُ القَانُونِيَّةُ (الفَصْلُ بَيْنَ القَانُونِ وَالأَخْلَاقِ)",
+      "english": "legal positivism",
+      "example_sentence": {
+        "de": "Im Rechtspositivismus gilt eine Norm als verbindlich, solange sie formal korrekt vom Gesetzgeber erlassen wurde.",
+        "ar": "تُعَدُّ القَاعِدَةُ فِي المَذْهَبِ الوَضْعِيِّ مُلْزِمَةً طَالَمَا صَدَرَتْ بِشَكْلٍ إِجْرَائِيٍّ صَحِيحٍ عَنِ المُشَرِّعِ.",
+        "en": "In legal positivism, a norm is legally binding as long as it has been formally and correctly enacted by legislators."
+      },
+      "image": "assets/svg/concept_rechtspositivismus.svg"
+    },
+    {
+      "id": "concept_radbruchsche_formel",
+      "german": "die Radbruchsche Formel",
+      "plural": "-",
+      "arabic": "مُعَادَلَةُ رَادْبْرُوخ (بُطْلَانُ القَانُونِ البَالِغِ فِي الظُّلْمِ)",
+      "english": "Radbruch formula (extreme injustice is no law)",
+      "example_sentence": {
+        "de": "Nach der Radbruchschen Formel verliert ein Gesetz seinen Rechtscharakter, wenn der Widerspruch zur Gerechtigkeit unerträglich wird.",
+        "ar": "تَقْضِي مُعَادَلَةُ رَادْبْرُوخ بِأَنَّ القَانُونَ يَفْقِدُ صِفَتَهُ الإِلْزَامِيَّةَ عِنْدَمَا يَبْلُغُ تَنَاقُضُهُ مَعَ العَدَالَةِ حَدًّا لَا يُطَاقُ.",
+        "en": "According to the Radbruch formula, a statute forfeits its legal validity when its contradiction with justice becomes intolerable."
+      },
+      "image": "assets/svg/concept_radbruchsche_formel.svg"
+    },
+    {
+      "id": "concept_rechtsphilosophie",
+      "german": "die Rechtsphilosophie",
+      "plural": "-",
+      "arabic": "فَلْسَفَةُ القَانُونِ وَنَظَرِيَّةُ العَدَالَةِ",
+      "english": "philosophy of law / jurisprudence",
+      "example_sentence": {
+        "de": "Die Rechtsphilosophie hinterfragt die moralische Legitimität und den Geltungsgrund staatlicher Zwangsordnungen.",
+        "ar": "تَتَقَصَّى فَلْسَفَةُ القَانُونِ مَدَى المَشْرُوعِيَّةِ الأَخْلَاقِيَّةِ وَأَسَاسِ صَلَاحِيَّةِ أَنْظِمَةِ الإِلْزَامِ الحُكُومِيَّةِ.",
+        "en": "Jurisprudence investigates the moral legitimacy and normative validity of state coercive legal orders."
+      },
+      "image": "assets/svg/concept_rechtsphilosophie.svg"
+    },
+    {
+      "id": "concept_teleologische_auslegung",
+      "german": "die teleologische Auslegung",
+      "plural": "die teleologischen Auslegungen",
+      "arabic": "التَّأْوِيلُ الغَائِيُّ لِلنُّصُوصِ القَانُونِيَّةِ",
+      "english": "teleological interpretation / purposive approach",
+      "example_sentence": {
+        "de": "Die teleologische Auslegung ermittelt den Sinn einer Norm nach deren objektivem Zweck und Schutzziel.",
+        "ar": "يَسْتَنْبِطُ التَّأْوِيلُ الغَائِيُّ مَعْنَى المَادَّةِ القَانُونِيَّةِ اسْتِنَادًا إِلَى هَدَفِهَا المَوْضُوعِيِّ وَغَايَتِهَا الحِمَائِيَّةِ.",
+        "en": "Teleological interpretation deduces the meaning of a legal norm according to its objective purpose and protective aim."
+      },
+      "image": "assets/svg/concept_teleologische_auslegung.svg"
+    },
+    {
+      "id": "concept_praejudiz_recht",
+      "german": "das Präjudiz",
+      "plural": "die Präjudizien",
+      "arabic": "السَّابِقَةُ القَضَائِيَّةُ المَرْجِعِيَّةُ المُلْزِمَةُ",
+      "english": "legal precedent (binding authority)",
+      "example_sentence": {
+        "de": "Das Grundsatzurteil schuf ein weitreichendes Präjudiz für alle nachfolgenden Gerichtsentscheidungen im Arbeitsrecht.",
+        "ar": "أَسَّسَ الحُكْمُ المَبْدَئِيُّ سَابِقَةً قَضَائِيَّةً مَرْجِعِيَّةً بَعِيدَةَ المَدَى لِجَمِيعِ الأَحْكَامِ التَّالِيَةِ فِي قَانُونِ العَمَلِ.",
+        "en": "The landmark ruling established a far-reaching legal precedent for all subsequent judicial decisions in labor law."
+      },
+      "image": "assets/svg/concept_praejudiz_recht.svg"
+    },
+    {
+      "id": "concept_auslegungskompetenz",
+      "german": "die Auslegungskompetenz",
+      "plural": "die Auslegungskompetenzen",
+      "arabic": "الِاخْتِصَاصُ الحَصْرِيُّ بِالتَّفْسِيرِ الدُّسْتُورِيِّ",
+      "english": "authoritative interpretative competence",
+      "example_sentence": {
+        "de": "Dem Verfassungsgericht steht die letztverbindliche Auslegungskompetenz für das Grundgesetz zu.",
+        "ar": "تَمْتَلِكُ المَحْكَمَةُ الدُّسْتُورِيَّةُ الِاخْتِصَاصَ الحَصْرِيَّ المُلْزِمَ نِهَائِيًّا بِتَفْسِيرِ مَوَادِّ الدُّسْتُورِ.",
+        "en": "The constitutional court possesses the ultimate and binding interpretative competence regarding the basic law."
+      },
+      "image": "assets/svg/concept_auslegungskompetenz.svg"
+    },
+    {
+      "id": "concept_verfassungsbeschwerde",
+      "german": "die Verfassungsbeschwerde",
+      "plural": "die Verfassungsbeschwerden",
+      "arabic": "الطَّعْنُ الدُّسْتُورِيُّ الفَرْدِيُّ (الشَّكْوَى الدُّسْتُورِيَّةُ)",
+      "english": "individual constitutional complaint",
+      "example_sentence": {
+        "de": "Jeder Bürger kann Verfassungsbeschwerde einlegen, wenn er sich durch die öffentliche Gewalt in seinen Grundrechten verletzt sieht.",
+        "ar": "يَسْتَطِيعُ كُلُّ مُوَاطِنٍ رَفْعَ طَعْنٍ دُسْتُورِيٍّ فَرْدِيٍّ إِذَا رَأَى أَنَّ السُّلْطَةَ العَامَّةَ قَدِ انْتَهَكَتْ حُقُوقَهُ الأَسَاسِيَّةَ.",
+        "en": "Any citizen may lodge a constitutional complaint if they claim their fundamental rights have been violated by public authority."
+      },
+      "image": "assets/svg/concept_verfassungsbeschwerde.svg"
+    },
+    {
+      "id": "concept_gemeinwohlbindung",
+      "german": "die Gemeinwohlbindung",
+      "plural": "-",
+      "arabic": "الِالْتِزَامُ بِالصَّالِحِ العَامِّ (المَسْؤُولِيَّةُ الِاجْتِمَاعِيَّةُ)",
+      "english": "public welfare obligation / public interest commitment",
+      "example_sentence": {
+        "de": "Die Sozialpflichtigkeit des Eigentums spiegelt die verfassungsrechtliche Gemeinwohlbindung wirtschaftlicher Güter wider.",
+        "ar": "تَعْكِسُ الوَظِيفَةُ الِاجْتِمَاعِيَّةُ لِلْمِلْكِيَّةِ الِالْتِزَامَ الدُّسْتُورِيَّ لِلأَمْوَالِ بِخِدْمَةِ الصَّالِحِ العَامِّ.",
+        "en": "The social responsibility of property reflects the constitutional commitment of economic assets to the public welfare."
+      },
+      "image": "assets/svg/concept_gemeinwohlbindung.svg"
+    },
+    {
+      "id": "concept_gewohnheitsrecht",
+      "german": "das Gewohnheitsrecht",
+      "plural": "-",
+      "arabic": "القَانُونُ العُرْفِيُّ الرَّاسِخُ",
+      "english": "customary law (consuetudo)",
+      "example_sentence": {
+        "de": "Gewohnheitsrecht entsteht durch langandauernde tatsächliche Übung getragen von der allgemeinen Rechtsüberzeugung.",
+        "ar": "يَنْشَأُ القَانُونُ العُرْفِيُّ عَبْرَ مُمَارَسَةٍ فِعْلِيَّةٍ مُتَوَاصِلَةٍ مُعَزَّزَةٍ بِالقَنَاعَةِ القَانُونِيَّةِ العَامَّةِ بِإِلْزَامِهَا.",
+        "en": "Customary law arises through longstanding practice coupled with the general conviction of its obligatory legal force."
+      },
+      "image": "assets/svg/concept_gewohnheitsrecht.svg"
+    }
+  ]
+}

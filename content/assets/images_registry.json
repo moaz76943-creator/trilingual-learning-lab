@@ -33096,5 +33096,130 @@
     "file": "assets/svg/verb_polemisieren.svg",
     "category": "c2_oratory_verbs",
     "alt": "verb polemisieren"
+  },
+  "assets/svg/concept_rechtssicherheit.svg": {
+    "file": "assets/svg/concept_rechtssicherheit.svg",
+    "category": "jurisprudence",
+    "alt": "concept rechtssicherheit"
+  },
+  "assets/svg/concept_naturrecht.svg": {
+    "file": "assets/svg/concept_naturrecht.svg",
+    "category": "jurisprudence",
+    "alt": "concept naturrecht"
+  },
+  "assets/svg/concept_rechtsphilosophie.svg": {
+    "file": "assets/svg/concept_rechtsphilosophie.svg",
+    "category": "jurisprudence",
+    "alt": "concept rechtsphilosophie"
+  },
+  "assets/svg/concept_verfassungskonformitaet.svg": {
+    "file": "assets/svg/concept_verfassungskonformitaet.svg",
+    "category": "jurisprudence",
+    "alt": "concept verfassungskonformitaet"
+  },
+  "assets/svg/concept_verhaeltnismaessigkeit.svg": {
+    "file": "assets/svg/concept_verhaeltnismaessigkeit.svg",
+    "category": "jurisprudence",
+    "alt": "concept verhaeltnismaessigkeit"
+  },
+  "assets/svg/concept_rueckwirkungsverbot.svg": {
+    "file": "assets/svg/concept_rueckwirkungsverbot.svg",
+    "category": "jurisprudence",
+    "alt": "concept rueckwirkungsverbot"
+  },
+  "assets/svg/concept_vertrauensschutz.svg": {
+    "file": "assets/svg/concept_vertrauensschutz.svg",
+    "category": "jurisprudence",
+    "alt": "concept vertrauensschutz"
+  },
+  "assets/svg/concept_rechtsstaatsprinzip.svg": {
+    "file": "assets/svg/concept_rechtsstaatsprinzip.svg",
+    "category": "jurisprudence",
+    "alt": "concept rechtsstaatsprinzip"
+  },
+  "assets/svg/concept_auslegungskompetenz.svg": {
+    "file": "assets/svg/concept_auslegungskompetenz.svg",
+    "category": "jurisprudence",
+    "alt": "concept auslegungskompetenz"
+  },
+  "assets/svg/concept_gemeinwohlbindung.svg": {
+    "file": "assets/svg/concept_gemeinwohlbindung.svg",
+    "category": "jurisprudence",
+    "alt": "concept gemeinwohlbindung"
+  },
+  "assets/svg/concept_uebermassverbot.svg": {
+    "file": "assets/svg/concept_uebermassverbot.svg",
+    "category": "jurisprudence",
+    "alt": "concept uebermassverbot"
+  },
+  "assets/svg/concept_verfassungsbeschwerde.svg": {
+    "file": "assets/svg/concept_verfassungsbeschwerde.svg",
+    "category": "jurisprudence",
+    "alt": "concept verfassungsbeschwerde"
+  },
+  "assets/svg/concept_verfassungsgerichtsbarkeit.svg": {
+    "file": "assets/svg/concept_verfassungsgerichtsbarkeit.svg",
+    "category": "jurisprudence",
+    "alt": "concept verfassungsgerichtsbarkeit"
+  },
+  "assets/svg/concept_gewaltenteilung.svg": {
+    "file": "assets/svg/concept_gewaltenteilung.svg",
+    "category": "jurisprudence",
+    "alt": "concept gewaltenteilung"
+  },
+  "assets/svg/concept_gesetzesvorbehalt.svg": {
+    "file": "assets/svg/concept_gesetzesvorbehalt.svg",
+    "category": "jurisprudence",
+    "alt": "concept gesetzesvorbehalt"
+  },
+  "assets/svg/concept_normenkontrolle.svg": {
+    "file": "assets/svg/concept_normenkontrolle.svg",
+    "category": "jurisprudence",
+    "alt": "concept normenkontrolle"
+  },
+  "assets/svg/concept_teleologische_auslegung.svg": {
+    "file": "assets/svg/concept_teleologische_auslegung.svg",
+    "category": "jurisprudence",
+    "alt": "concept teleologische auslegung"
+  },
+  "assets/svg/concept_bundestreue.svg": {
+    "file": "assets/svg/concept_bundestreue.svg",
+    "category": "jurisprudence",
+    "alt": "concept bundestreue"
+  },
+  "assets/svg/concept_rechtspositivismus.svg": {
+    "file": "assets/svg/concept_rechtspositivismus.svg",
+    "category": "jurisprudence",
+    "alt": "concept rechtspositivismus"
+  },
+  "assets/svg/concept_praejudiz_recht.svg": {
+    "file": "assets/svg/concept_praejudiz_recht.svg",
+    "category": "jurisprudence",
+    "alt": "concept praejudiz recht"
+  },
+  "assets/svg/concept_gewohnheitsrecht.svg": {
+    "file": "assets/svg/concept_gewohnheitsrecht.svg",
+    "category": "jurisprudence",
+    "alt": "concept gewohnheitsrecht"
+  },
+  "assets/svg/concept_ewigkeitsklausel.svg": {
+    "file": "assets/svg/concept_ewigkeitsklausel.svg",
+    "category": "jurisprudence",
+    "alt": "concept ewigkeitsklausel"
+  },
+  "assets/svg/concept_zitiergebot.svg": {
+    "file": "assets/svg/concept_zitiergebot.svg",
+    "category": "jurisprudence",
+    "alt": "concept zitiergebot"
+  },
+  "assets/svg/concept_wesensgehaltsgarantie.svg": {
+    "file": "assets/svg/concept_wesensgehaltsgarantie.svg",
+    "category": "jurisprudence",
+    "alt": "concept wesensgehaltsgarantie"
+  },
+  "assets/svg/concept_radbruchsche_formel.svg": {
+    "file": "assets/svg/concept_radbruchsche_formel.svg",
+    "category": "jurisprudence",
+    "alt": "concept radbruchsche formel"
   }
 }

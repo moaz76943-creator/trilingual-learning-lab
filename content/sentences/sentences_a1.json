@@ -9253,6 +9253,177 @@
         "Subjekt Maskulin Nominativ mit Adjektiv",
         "Präposition 'zu' + Dativ Neutrum mit unbestimmtem Artikel 'einem gerechten Ergebnis'"
       ]
+    },
+    {
+      "id": "sent_416",
+      "category": "fundamental_rights",
+      "difficulty": "A1+",
+      "arabic": "القَانُونُ يَحْمِي الحُقُوقَ الأَسَاسِيَّةَ لِكُلِّ مَوْاطِنٍ.",
+      "german": "Das Gesetz schützt die Grundrechte jedes Bürgers.",
+      "english": "The law protects the fundamental rights of every citizen.",
+      "tokens": [
+        {
+          "word": "Das Gesetz",
+          "pos": "noun",
+          "ar": "القَانُونُ"
+        },
+        {
+          "word": "schützt",
+          "pos": "verb",
+          "ar": "يَحْمِي"
+        },
+        {
+          "word": "die Grundrechte",
+          "pos": "noun",
+          "ar": "الحُقُوقَ الأَسَاسِيَّةَ"
+        },
+        {
+          "word": "jedes Bürgers",
+          "pos": "genitive_noun",
+          "ar": "لِكُلِّ مُوَاطِنٍ (مضاف إليه)"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Neutrum Nominativ",
+        "Akkusativ Plural 'die Grundrechte'",
+        "Genitiv Maskulin mit Indefinitpronomen 'jedes Bürgers'"
+      ]
+    },
+    {
+      "id": "sent_417",
+      "category": "state_foundation",
+      "difficulty": "A1+",
+      "arabic": "العَدَالَةُ هِيَ الأَسَاسُ المَتِينُ لِلدَّوْلَةِ النَّاجِحَةِ.",
+      "german": "Die Gerechtigkeit ist das feste Fundament des Staates.",
+      "english": "Justice is the firm foundation of the state.",
+      "tokens": [
+        {
+          "word": "Die Gerechtigkeit",
+          "pos": "noun",
+          "ar": "العَدَالَةُ"
+        },
+        {
+          "word": "ist",
+          "pos": "copula_verb",
+          "ar": "هِيَ"
+        },
+        {
+          "word": "das feste Fundament",
+          "pos": "noun_phrase",
+          "ar": "الأَسَاسُ المَتِينُ"
+        },
+        {
+          "word": "des Staates",
+          "pos": "genitive_noun",
+          "ar": "لِلدَّوْلَةِ"
+        }
+      ],
+      "grammar_points": [
+        "Prädikativer Nominativ Neutrum mit Adjektivdeklination",
+        "Genitivattribut Maskulin 'des Staates'"
+      ]
+    },
+    {
+      "id": "sent_418",
+      "category": "judicial_integrity",
+      "difficulty": "A1+",
+      "arabic": "القَاضِي يَحْكُمُ بِالنَّزَاهَةِ وَالحِيَادِ التَّامِّ.",
+      "german": "Der Richter urteilt mit Integrität und Unparteilichkeit.",
+      "english": "The judge decides with integrity and impartiality.",
+      "tokens": [
+        {
+          "word": "Der Richter",
+          "pos": "noun",
+          "ar": "القَاضِي"
+        },
+        {
+          "word": "urteilt",
+          "pos": "verb",
+          "ar": "يَحْكُمُ / يَقْضِي"
+        },
+        {
+          "word": "mit Integrität und Unparteilichkeit",
+          "pos": "preposition_phrase",
+          "ar": "بِالنَّزَاهَةِ وَالحِيَادِ"
+        }
+      ],
+      "grammar_points": [
+        "Präsens 3. Person Singular",
+        "Präposition 'mit' + Dativ Feminin ohne Artikel"
+      ]
+    },
+    {
+      "id": "sent_419",
+      "category": "constitutional_respect",
+      "difficulty": "A1+",
+      "arabic": "نَحْنُ نَحْتَرِمُ الدُّسْتُورَ فِي حَيَاتِنَا اليَوْمِيَّةِ.",
+      "german": "Wir achten die Verfassung in unserem täglichen Leben.",
+      "english": "We respect the constitution in our daily life.",
+      "tokens": [
+        {
+          "word": "Wir",
+          "pos": "pronoun",
+          "ar": "نَحْنُ"
+        },
+        {
+          "word": "achten",
+          "pos": "verb",
+          "ar": "نَحْتَرِمُ / نُقَدِّرُ"
+        },
+        {
+          "word": "die Verfassung",
+          "pos": "noun",
+          "ar": "الدُّسْتُورَ"
+        },
+        {
+          "word": "in unserem täglichen Leben",
+          "pos": "preposition_phrase",
+          "ar": "فِي حَيَاتِنَا اليَوْمِيَّةِ"
+        }
+      ],
+      "grammar_points": [
+        "Akkusativobjekt Feminin 'die Verfassung'",
+        "Präposition 'in' + Dativ Neutrum mit Possessivartikel und Adjektiv"
+      ]
+    },
+    {
+      "id": "sent_420",
+      "category": "rule_of_law_security",
+      "difficulty": "A1+",
+      "arabic": "سِيَادَةُ الحَقِّ تَضْمَنُ الأَمْنَ وَالسَّلَامَ لِلْجَمِيعِ.",
+      "german": "Die Herrschaft des Rechts garantiert Sicherheit für alle.",
+      "english": "The rule of law guarantees security for everyone.",
+      "tokens": [
+        {
+          "word": "Die Herrschaft",
+          "pos": "noun",
+          "ar": "سِيَادَةُ"
+        },
+        {
+          "word": "des Rechts",
+          "pos": "genitive_noun",
+          "ar": "الحَقِّ / القَانُونِ"
+        },
+        {
+          "word": "garantiert",
+          "pos": "verb",
+          "ar": "تَضْمَنُ"
+        },
+        {
+          "word": "Sicherheit",
+          "pos": "noun",
+          "ar": "الأَمْنَ"
+        },
+        {
+          "word": "für alle",
+          "pos": "preposition_phrase",
+          "ar": "لِلْجَمِيعِ"
+        }
+      ],
+      "grammar_points": [
+        "Genitivattribut Neutrum 'des Rechts'",
+        "Präposition 'für' + Akkusativ Plural 'alle'"
+      ]
     }
   ]
 }
