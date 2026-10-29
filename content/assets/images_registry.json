@@ -14421,5 +14421,205 @@
     "label_de": "koexistieren",
     "label_ar": "يَتَعَايَشُ فِي تَنَاغُمٍ دِينَامِيكِيٍّ مَعَ أَنْظِمَةٍ مُتَنَافِسَةٍ",
     "label_en": "to coexist in dynamic multispecies equilibrium"
+  },
+  "svg_cog_kognitionswissenschaft": {
+    "file": "svg_cog_kognitionswissenschaft.svg",
+    "path": "content/assets/svg/svg_cog_kognitionswissenschaft.svg",
+    "category": "embodied_cognition_c1",
+    "label_de": "die Kognitionswissenschaft",
+    "label_ar": "الْعُلُومُ الْمَعْرِفِيَّةُ (الدِّرَاسَةُ الْبَيْنِيَّةُ لِلْعَقْلِ وَالذَّكَاءِ)",
+    "label_en": "cognitive science"
+  },
+  "svg_cog_verkoerperung": {
+    "file": "svg_cog_verkoerperung.svg",
+    "path": "content/assets/svg/svg_cog_verkoerperung.svg",
+    "category": "embodied_cognition_c1",
+    "label_de": "die verkörperte Kognition",
+    "label_ar": "الإِدْرَاكُ الْمُتَجَسِّدُ (Embodied Cognition)",
+    "label_en": "embodied cognition / embodiment"
+  },
+  "svg_cog_multisensorisch": {
+    "file": "svg_cog_multisensorisch.svg",
+    "path": "content/assets/svg/svg_cog_multisensorisch.svg",
+    "category": "embodied_cognition_c1",
+    "label_de": "die multisensorische Integration",
+    "label_ar": "التَّكَامُلُ مُتَعَدِّدُ الْحَوَاسِّ (دَمْجُ الْمُدْخَلَاتِ الْحِسِّيَّةِ فِي صُورَةٍ وَاحِدَةٍ)",
+    "label_en": "multisensory integration"
+  },
+  "svg_cog_propriozeption": {
+    "file": "svg_cog_propriozeption.svg",
+    "path": "content/assets/svg/svg_cog_propriozeption.svg",
+    "category": "embodied_cognition_c1",
+    "label_de": "die Propriozeption",
+    "label_ar": "حِسُّ الِاسْتِقْبَالِ الْخَاصِّ / الإِدْرَاكُ الْحِسِّيُّ الْعَمِيقُ لِمَوْضِعِ الْجَسَدِ",
+    "label_en": "proprioception / kinesthesia"
+  },
+  "svg_cog_spiegelneuronen": {
+    "file": "svg_cog_spiegelneuronen.svg",
+    "path": "content/assets/svg/svg_cog_spiegelneuronen.svg",
+    "category": "embodied_cognition_c1",
+    "label_de": "das Spiegelneuronen-System",
+    "label_ar": "نِظَامُ الْخَلَايَا الْعَصَبِيَّةِ الْمِرْآتِيَّةِ (أَسَاسُ التَّعَاطُفِ وَالْمُحَاكَاةِ)",
+    "label_en": "mirror neuron system"
+  },
+  "svg_cog_interozeption": {
+    "file": "svg_cog_interozeption.svg",
+    "path": "content/assets/svg/svg_cog_interozeption.svg",
+    "category": "embodied_cognition_c1",
+    "label_de": "die interozeptive Wahrnehmung",
+    "label_ar": "الإِدْرَاكُ الْحَشَوِيُّ الدَّاخِلِيُّ (Interoception)",
+    "label_en": "interoceptive perception / visceral awareness"
+  },
+  "svg_cog_affordanz": {
+    "file": "svg_cog_affordanz.svg",
+    "path": "content/assets/svg/svg_cog_affordanz.svg",
+    "category": "embodied_cognition_c1",
+    "label_de": "die Affordanz",
+    "label_ar": "إِمْكَانِيَّةُ الْفِعْلِ الْكَامِنَةُ فِي الشَّيْءِ (Affordance)",
+    "label_en": "affordance (action possibility)"
+  },
+  "svg_cog_synaesthesie": {
+    "file": "svg_cog_synaesthesie.svg",
+    "path": "content/assets/svg/svg_cog_synaesthesie.svg",
+    "category": "embodied_cognition_c1",
+    "label_de": "die Synästhesie",
+    "label_ar": "تَرَافُقُ الْحَوَاسِّ / الْحِسُّ الْمُشْتَرَكُ (سَمَاعُ الأَلْوَانِ أَوِ تَمَيُّزُ الأَرْقَامِ بِطَعْمٍ)",
+    "label_en": "synesthesia"
+  },
+  "svg_cog_kognitionsschema": {
+    "file": "svg_cog_kognitionsschema.svg",
+    "path": "content/assets/svg/svg_cog_kognitionsschema.svg",
+    "category": "embodied_cognition_c1",
+    "label_de": "das Kognitionsschema",
+    "label_ar": "الْمُخَطَّطُ الْمَعْرِفِيُّ الذِّهْنِيُّ",
+    "label_en": "cognitive schema"
+  },
+  "svg_cog_exekutive_funktion": {
+    "file": "svg_cog_exekutive_funktion.svg",
+    "path": "content/assets/svg/svg_cog_exekutive_funktion.svg",
+    "category": "embodied_cognition_c1",
+    "label_de": "die exekutive Funktion",
+    "label_ar": "الْوَظِيفَةُ التَّنْفِيذِيَّةُ الإِدْرَاكِيَّةُ (التَّحَكُّمُ الْمَعْرِفِيُّ)",
+    "label_en": "executive function / cognitive control"
+  },
+  "svg_cog_repraesentationsplastizitaet": {
+    "file": "svg_cog_repraesentationsplastizitaet.svg",
+    "path": "content/assets/svg/svg_cog_repraesentationsplastizitaet.svg",
+    "category": "embodied_cognition_c1",
+    "label_de": "die Plastizität der Repräsentation",
+    "label_ar": "لُدُونَةُ التَّمْثِيلِ الْعَصَبِيِّ الإِدْرَاكِيِّ",
+    "label_en": "representational plasticity"
+  },
+  "svg_cog_sensorische_deprivation": {
+    "file": "svg_cog_sensorische_deprivation.svg",
+    "path": "content/assets/svg/svg_cog_sensorische_deprivation.svg",
+    "category": "embodied_cognition_c1",
+    "label_de": "die sensorische Deprivation",
+    "label_ar": "الْحِرْمَانُ الْحِسِّيُّ (انْعِدَامُ الْمُثِيرَاتِ الْخَارِجِيَّةِ)",
+    "label_en": "sensory deprivation"
+  },
+  "svg_cog_arbeitsgedaechtnis": {
+    "file": "svg_cog_arbeitsgedaechtnis.svg",
+    "path": "content/assets/svg/svg_cog_arbeitsgedaechtnis.svg",
+    "category": "embodied_cognition_c1",
+    "label_de": "das Arbeitsgedächtnis",
+    "label_ar": "الذَّاكِرَةُ الْعَامِلَةُ (مُعَالَجَةُ وَحِفْظُ الْمَعْلُومَاتِ آنِيًّا)",
+    "label_en": "working memory (Baddeley's model)"
+  },
+  "svg_cog_selektive_aufmerksamkeit": {
+    "file": "svg_cog_selektive_aufmerksamkeit.svg",
+    "path": "content/assets/svg/svg_cog_selektive_aufmerksamkeit.svg",
+    "category": "embodied_cognition_c1",
+    "label_de": "die selektive Aufmerksamkeit",
+    "label_ar": "الِانْتِبَاهُ الِانْتِقَائِيُّ (تَرْكِيزُ الْوَعْيِ عَلَى مُثِيرٍ دُونَ سِوَاهُ)",
+    "label_en": "selective attention / cocktail party effect"
+  },
+  "svg_cog_kategorisierung": {
+    "file": "svg_cog_kategorisierung.svg",
+    "path": "content/assets/svg/svg_cog_kategorisierung.svg",
+    "category": "embodied_cognition_c1",
+    "label_de": "die perzeptive Kategorisierung",
+    "label_ar": "التَّصْنِيفُ الإِدْرَاكِيُّ الْحِسِّيُّ",
+    "label_en": "perceptual categorization"
+  },
+  "svg_cog_koerperschema": {
+    "file": "svg_cog_koerperschema.svg",
+    "path": "content/assets/svg/svg_cog_koerperschema.svg",
+    "category": "embodied_cognition_c1",
+    "label_de": "das Körperschema",
+    "label_ar": "مُخَطَّطُ الْجَسَدِ العَصَبِيُّ (الْخَرِيطَةُ الْحِسِّيَّةُ الْحَرَكِيَّةُ لِلأَعْضَاءِ)",
+    "label_en": "body schema / somatotopic neural map"
+  },
+  "svg_cog_haptik": {
+    "file": "svg_cog_haptik.svg",
+    "path": "content/assets/svg/svg_cog_haptik.svg",
+    "category": "embodied_cognition_c1",
+    "label_de": "die haptische Rückkopplung",
+    "label_ar": "التَّغْذِيَةُ الرَّاجِعَةُ اللَّمْسِيَّةُ (Haptic Feedback)",
+    "label_en": "haptic feedback / tactile response"
+  },
+  "svg_cog_vor": {
+    "file": "svg_cog_vor.svg",
+    "path": "content/assets/svg/svg_cog_vor.svg",
+    "category": "embodied_cognition_c1",
+    "label_de": "die vestibulo-okuläre Koordination",
+    "label_ar": "التَّنَاسُقُ الدِّهْلِيزِيُّ الْبَصَرِيُّ (تَثْبِيتُ الصُّورَةِ أَثْنَاءَ حَرَكَةِ الرَّأْسِ)",
+    "label_en": "vestibulo-ocular reflex (VOR) / gaze stabilization"
+  },
+  "svg_cog_kognitive_dissonanz": {
+    "file": "svg_cog_kognitive_dissonanz.svg",
+    "path": "content/assets/svg/svg_cog_kognitive_dissonanz.svg",
+    "category": "embodied_cognition_c1",
+    "label_de": "die kognitive Dissonanz",
+    "label_ar": "التَّنَافُرُ الإِدْرَاكِيُّ (الصِّرَاعُ النَّفْسِيُّ بَيْنَ الْمُعْتَقَدِ وَالسُّلُوكِ)",
+    "label_en": "cognitive dissonance"
+  },
+  "svg_cog_chronometrie": {
+    "file": "svg_cog_chronometrie.svg",
+    "path": "content/assets/svg/svg_cog_chronometrie.svg",
+    "category": "embodied_cognition_c1",
+    "label_de": "die mentale Chronometrie",
+    "label_ar": "قِيَاسُ الزَّمَنِ الذِّهْنِيِّ (تَحْلِيلُ سُرْعَةِ الْمُعَالَجَةِ الْعَصَبِيَّةِ)",
+    "label_en": "mental chronometry / reaction time analysis"
+  },
+  "svg_cog_heuristik": {
+    "file": "svg_cog_heuristik.svg",
+    "path": "content/assets/svg/svg_cog_heuristik.svg",
+    "category": "embodied_cognition_c1",
+    "label_de": "die kognitive Heuristik",
+    "label_ar": "الِاسْتِدْلَالُ التَّقْرِيبِيُّ / الِاخْتِصَارُ الذِّهْنِيُّ لِلْحُكْمِ",
+    "label_en": "cognitive heuristic / mental shortcut"
+  },
+  "svg_cog_orientierung": {
+    "file": "svg_cog_orientierung.svg",
+    "path": "content/assets/svg/svg_cog_orientierung.svg",
+    "category": "embodied_cognition_c1",
+    "label_de": "die raum-zeitliche Orientierung",
+    "label_ar": "التَّوْجِيهُ وَالتَّمَوْضُعُ الْمَكَانِيُّ الزَّمَانِيُّ",
+    "label_en": "spatiotemporal orientation"
+  },
+  "svg_cog_priming": {
+    "file": "svg_cog_priming.svg",
+    "path": "content/assets/svg/svg_cog_priming.svg",
+    "category": "embodied_cognition_c1",
+    "label_de": "die semantische Bahnung",
+    "label_ar": "التَّسْهِيلُ وَالتَّهْيِئَةُ الدَّلَالِيَّةُ (Semantic Priming)",
+    "label_en": "semantic priming"
+  },
+  "svg_cog_synchronisation": {
+    "file": "svg_cog_synchronisation.svg",
+    "path": "content/assets/svg/svg_cog_synchronisation.svg",
+    "category": "embodied_cognition_c1",
+    "label_de": "die neuronale Synchronisation",
+    "label_ar": "التَّزَامُنُ الْعَصَبِيُّ الطَّوْرِيُّ (رَبْطُ مَنَاطِقِ الدِّمَاغِ)",
+    "label_en": "neural phase synchronization / gamma oscillations"
+  },
+  "svg_cog_enaktivismus": {
+    "file": "svg_cog_enaktivismus.svg",
+    "path": "content/assets/svg/svg_cog_enaktivismus.svg",
+    "category": "embodied_cognition_c1",
+    "label_de": "das Enaktivismus-Paradigma",
+    "label_ar": "نَمُوذَجُ الْإِنَاكْتِيفِيزْم / الإِدْرَاكُ بِالْفِعْلِ الْحَرَكِيِّ (Enactivism)",
+    "label_en": "enactivism / enactive cognition (Varela)"
   }
 }

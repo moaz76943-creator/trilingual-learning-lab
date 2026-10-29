@@ -1,5 +1,5 @@
 {
-  "count": 315,
+  "count": 320,
   "sentences": [
     {
       "id": "sent_001",
@@ -5939,6 +5939,118 @@
         "Perturbationen."
       ],
       "grammar_point": "Coordinated compound verbs with accusative plural objects and prepositional complement 'gegen + Akk' in milestone 315"
+    },
+    {
+      "id": "sent_316",
+      "category": "Cognitive Science & Embodiment",
+      "german": "Die Theorie der verkörperten Kognition postuliert dass geistige Prozesse untrennbar mit körperlichen Bewegungsmustern verwoben sind.",
+      "arabic": "تَفْتَرِضُ نَظَرِيَّةُ الإِدْرَاكِ الْمُتَجَسِّدِ أَنَّ الْعَمَلِيَّاتِ الْفِكْرِيَّةَ مُتَشَابِكَةٌ حَتْمًا مَعَ أَنْمَاطِ الْحَرَكَةِ الْجَسَدِيَّةِ.",
+      "english": "The theory of embodied cognition postulates that mental processes are inextricably intertwined with bodily movement patterns.",
+      "tokens": [
+        "Die",
+        "Theorie",
+        "der",
+        "verkörperten",
+        "Kognition",
+        "postuliert",
+        "dass",
+        "geistige",
+        "Prozesse",
+        "untrennbar",
+        "mit",
+        "körperlichen",
+        "Bewegungsmustern",
+        "verwoben",
+        "sind."
+      ],
+      "grammar_point": "Transitive verb 'postulieren' governing a dass-clause with passive predicate 'verwoben sind mit + Dat'"
+    },
+    {
+      "id": "sent_317",
+      "category": "Cognitive Science & Embodiment",
+      "german": "Multisensorische Integration im Kortex verschmilzt visuelle auditive und taktile Reize zu einer kohärenten Wahrnehmungswelt.",
+      "arabic": "يَصْهَرُ التَّكَامُلُ مُتَعَدِّدُ الْحَوَاسِّ فِي الْقِشْرَةِ الْمُخِّيَّةِ الْمُثِيرَاتِ الْبَصَرِيَّةَ وَالسَّمْعِيَّةَ وَاللَّمْسِيَّةَ فِي عَالَمٍ إِدْرَاكِيٍّ مُتَنَاغِمٍ.",
+      "english": "Multisensory integration in the cortex fuses visual, auditory, and tactile stimuli into a coherent perceptual world.",
+      "tokens": [
+        "Multisensorische",
+        "Integration",
+        "im",
+        "Kortex",
+        "verschmilzt",
+        "visuelle",
+        "auditive",
+        "und",
+        "taktile",
+        "Reize",
+        "zu",
+        "einer",
+        "kohärenten",
+        "Wahrnehmungswelt."
+      ],
+      "grammar_point": "Transitive verb 'verschmelzen ... zu + Dat' with coordinated accusative plural adjectives"
+    },
+    {
+      "id": "sent_318",
+      "category": "Cognitive Science & Embodiment",
+      "german": "Das Spiegelneuronen-System bildet das neurobiologische Fundament für intuitive Empathie und motorisches Imitationslernen.",
+      "arabic": "يُشَكِّلُ نِظَامُ الْخَلَايَا الْعَصَبِيَّةِ الْمِرْآتِيَّةِ الأَسَاسَ الْعَصَبِيَّ الْحَيَوِيَّ لِلتَّعَاطُفِ الْحَدْسِيِّ وَالتَّعَلُّمِ الْحَرَكِيِّ بِالْمُحَاكَاةِ.",
+      "english": "The mirror neuron system forms the neurobiological foundation for intuitive empathy and motor imitation learning.",
+      "tokens": [
+        "Das",
+        "Spiegelneuronen-System",
+        "bildet",
+        "das",
+        "neurobiologische",
+        "Fundament",
+        "für",
+        "intuitive",
+        "Empathie",
+        "und",
+        "motorisches",
+        "Imitationslernen."
+      ],
+      "grammar_point": "Transitive verb 'bilden' with accusative direct object and prepositional phrase 'für + Akk'"
+    },
+    {
+      "id": "sent_319",
+      "category": "Cognitive Science & Embodiment",
+      "german": "Interozeptive Körpersignale beeinflussen unbewusste Entscheidungsfindungen und affektive Zustände maßgeblich.",
+      "arabic": "تُؤَثِّرُ الإِشَارَاتُ الْجَسَدِيَّةُ الْحَشَوِيَّةُ الدَّاخِلِيَّةُ فِي صُنْعِ الْقَرَارِ اللَّاوَاعِي وَالْحَالَاتِ الْوِجْدَانِيَّةِ بِشَكْلٍ حَاسِمٍ.",
+      "english": "Interoceptive bodily signals decisively influence subconscious decision-making and affective states.",
+      "tokens": [
+        "Interozeptive",
+        "Körpersignale",
+        "beeinflussen",
+        "unbewusste",
+        "Entscheidungsfindungen",
+        "und",
+        "affektive",
+        "Zustände",
+        "maßgeblich."
+      ],
+      "grammar_point": "Transitive verb 'beeinflussen' with compound plural accusative direct objects"
+    },
+    {
+      "id": "sent_320",
+      "category": "Cognitive Science & Embodiment",
+      "german": "Nach dem Enaktivismus-Paradigma entsteht Erkenntnis erst im fortlaufenden dynamischen Vollzug handelnder Weltaneignung.",
+      "arabic": "وَفْقًا لِنَمُوذَجِ الإِدْرَاكِ بِالْفِعْلِ، لَا تَنْشَأُ الْمَعْرِفَةُ إِلَّا فِي السِّيَاقِ الدِّينَامِيكِيِّ الْمُسْتَمِرِّ لِلِاسْتِيعَابِ الْفَاعِلِ لِلْعَالَمِ.",
+      "english": "According to the enactivism paradigm, cognition emerges only in the continuous dynamic enactment of embodied world engagement.",
+      "tokens": [
+        "Nach",
+        "dem",
+        "Enaktivismus-Paradigma",
+        "entsteht",
+        "Erkenntnis",
+        "erst",
+        "im",
+        "fortlaufenden",
+        "dynamischen",
+        "Vollzug",
+        "handelnder",
+        "Weltaneignung."
+      ],
+      "grammar_point": "Inverted sentence with preposition 'nach + Dat' and prepositional phrase 'im Vollzug + Gen' in milestone 320"
     }
   ]
 }
