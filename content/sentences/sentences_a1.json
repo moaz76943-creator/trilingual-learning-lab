@@ -6746,6 +6746,176 @@
         "Subjekt Feminin Nominativ",
         "Akkusativ Feminin 'die Sicherheit'"
       ]
+    },
+    {
+      "id": "sent_341",
+      "category": "diplomacy_peace",
+      "difficulty": "A1+",
+      "arabic": "السَّفِيرُ يُفَاوِضُ مِنْ أَجْلِ السَّلَامِ.",
+      "german": "Der Botschafter verhandelt für den Frieden.",
+      "english": "The ambassador negotiates for peace.",
+      "tokens": [
+        {
+          "word": "Der Botschafter",
+          "pos": "noun",
+          "ar": "السَّفِيرُ"
+        },
+        {
+          "word": "verhandelt",
+          "pos": "verb",
+          "ar": "يُفَاوِضُ"
+        },
+        {
+          "word": "für",
+          "pos": "preposition",
+          "ar": "مِنْ أَجْلِ"
+        },
+        {
+          "word": "den Frieden",
+          "pos": "noun",
+          "ar": "السَّلَامِ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt im Maskulin Nominativ",
+        "Präposition 'für' + Akkusativ Maskulin"
+      ]
+    },
+    {
+      "id": "sent_342",
+      "category": "treaty_signing",
+      "difficulty": "A1+",
+      "arabic": "الدَّوْلَتَانِ تُوَقِّعَانِ الاتِّفَاقَ اليَوْمَ.",
+      "german": "Die beiden Staaten unterzeichnen das Abkommen heute.",
+      "english": "Both states sign the agreement today.",
+      "tokens": [
+        {
+          "word": "Die beiden Staaten",
+          "pos": "noun_phrase",
+          "ar": "الدَّوْلَتَانِ كِلْتَاهُمَا"
+        },
+        {
+          "word": "unterzeichnen",
+          "pos": "verb",
+          "ar": "تُوَقِّعَانِ"
+        },
+        {
+          "word": "das Abkommen",
+          "pos": "noun",
+          "ar": "الاتِّفَاقَ"
+        },
+        {
+          "word": "heute",
+          "pos": "adverb",
+          "ar": "اليَوْمَ"
+        }
+      ],
+      "grammar_points": [
+        "Plural Subjekt",
+        "Akkusativ Neutrum 'das Abkommen'"
+      ]
+    },
+    {
+      "id": "sent_343",
+      "category": "conflict_resolution",
+      "difficulty": "A1+",
+      "arabic": "نَحْنُ نَبْحَثُ عَنْ حَلٍّ سِلْمِيٍّ دَائِمًا.",
+      "german": "Wir suchen immer nach einer friedlichen Lösung.",
+      "english": "We always seek a peaceful solution.",
+      "tokens": [
+        {
+          "word": "Wir",
+          "pos": "pronoun",
+          "ar": "نَحْنُ"
+        },
+        {
+          "word": "suchen",
+          "pos": "verb",
+          "ar": "نَبْحَثُ"
+        },
+        {
+          "word": "immer",
+          "pos": "adverb",
+          "ar": "دَائِمًا"
+        },
+        {
+          "word": "nach",
+          "pos": "preposition",
+          "ar": "عَنْ"
+        },
+        {
+          "word": "einer friedlichen Lösung",
+          "pos": "noun_phrase",
+          "ar": "حَلٍّ سِلْمِيٍّ"
+        }
+      ],
+      "grammar_points": [
+        "Verb 'suchen' + Präposition 'nach' + Dativ",
+        "Adjektivdeklination im Dativ Feminin"
+      ]
+    },
+    {
+      "id": "sent_344",
+      "category": "international_conference",
+      "difficulty": "A1+",
+      "arabic": "المُؤْتَمَرُ يَجْمَعُ مُمَثِّلِي الدُّوَلِ مَعًا.",
+      "german": "Die Konferenz bringt die Vertreter der Staaten zusammen.",
+      "english": "The conference brings the representatives of the states together.",
+      "tokens": [
+        {
+          "word": "Die Konferenz",
+          "pos": "noun",
+          "ar": "المُؤْتَمَرُ"
+        },
+        {
+          "word": "bringt ... zusammen",
+          "pos": "separable_verb",
+          "ar": "يَجْمَعُ مَعًا"
+        },
+        {
+          "word": "die Vertreter",
+          "pos": "noun",
+          "ar": "مُمَثِّلِي"
+        },
+        {
+          "word": "der Staaten",
+          "pos": "genitive_noun",
+          "ar": "الدُّوَلِ"
+        }
+      ],
+      "grammar_points": [
+        "Trennbares Verb 'zusammenbringen'",
+        "Genitiv Plural 'der Staaten'"
+      ]
+    },
+    {
+      "id": "sent_345",
+      "category": "constructive_dialogue",
+      "difficulty": "A1+",
+      "arabic": "الحِوَارُ الصَّادِقُ يَمْنَعُ الخِلَافَاتِ الكَبِيرَةَ.",
+      "german": "Der ehrliche Dialog verhindert große Konflikte.",
+      "english": "Honest dialogue prevents major conflicts.",
+      "tokens": [
+        {
+          "word": "Der ehrliche Dialog",
+          "pos": "noun_phrase",
+          "ar": "الحِوَارُ الصَّادِقُ"
+        },
+        {
+          "word": "verhindert",
+          "pos": "verb",
+          "ar": "يَمْنَعُ"
+        },
+        {
+          "word": "große Konflikte",
+          "pos": "noun_phrase",
+          "ar": "الخِلَافَاتِ الكَبِيرَةَ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Maskulin Nominativ",
+        "Adjektivdeklination ohne Artikel Plural Akkusativ"
+      ]
     }
   ]
 }

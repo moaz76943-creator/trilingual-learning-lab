@@ -1,0 +1,451 @@
+{
+  "category_id": "diplomatic_negotiation_verbs_b2_c1",
+  "category_title": {
+    "ar": "أفعال الدبلوماسية والتفاوض والمعاهدات الدولية رفيعة المستوى",
+    "de": "Diplomatische Verhandlungs-, Vertrags- und Völkerrechtsverben",
+    "en": "High-Level Diplomatic & Treaty Negotiation Verbs"
+  },
+  "level": "B2/C1",
+  "items": [
+    {
+      "id": "verb_ratifizieren",
+      "german": "ratifizieren",
+      "arabic": "يُصَادِقُ بَرْلَمَانِيًّا أَوْ رَسْمِيًّا عَلَى مُعَاهَدَةٍ دَوْلِيَّةٍ",
+      "english": "to ratify a treaty officially",
+      "conjugation": {
+        "praesens": "er/sie/es ratifiziert",
+        "praeteritum": "ratifizierte",
+        "perfekt": "hat ratifiziert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "einen völkerrechtlichen Vertrag ratifizieren",
+        "ein Abkommen einstimmig ratifizieren"
+      ],
+      "example_sentence": {
+        "de": "Das Parlament ratifizierte das multilaterale Klimaschutzabkommen nach monatelanger Debatte.",
+        "ar": "صَادَقَ البَرْلَمَانُ عَلَى اتِّفَاقِيَّةِ حِمَايَةِ المُنَاخِ مُتَعَدِّدَةِ الأَطْرَافِ بَعْدَ جَدَلٍ اسْتَمَرَّ أَشْهُرًا.",
+        "en": "The parliament ratified the multilateral climate protection agreement following months of debate."
+      },
+      "image": "assets/svg/verb_ratifizieren.svg"
+    },
+    {
+      "id": "verb_paraphieren",
+      "german": "paraphieren",
+      "arabic": "يُوَقِّعُ بِالأَحْرُفِ الأُولَى تَمْهِيدًا لِلتَّصْدِيقِ",
+      "english": "to initial a treaty draft",
+      "conjugation": {
+        "praesens": "er/sie/es paraphiert",
+        "praeteritum": "paraphierte",
+        "perfekt": "hat paraphiert"
+      },
+      "preposition": "mit + Dat",
+      "collocations": [
+        "einen Vertragsentwurf paraphieren",
+        "ein Abkommen feierlich paraphieren"
+      ],
+      "example_sentence": {
+        "de": "Die Chefunterhändler paraphierten den ausgehandelten Friedensvertrag vor den Kameras der Weltpresse.",
+        "ar": "وَقَّعَ كِبَارُ المُفَاوِضِينَ مَشْرُوعَ مُعَاهَدَةِ السَّلَامِ المُتَفَاوَضِ عَلَيْهَا بِالأَحْرُفِ الأُولَى أَمَامَ كَامِيرَاتِ الصِّحَافَةِ العَالَمِيَّةِ.",
+        "en": "The chief negotiators initialed the negotiated peace treaty in front of the world's press cameras."
+      },
+      "image": "assets/svg/verb_paraphieren.svg"
+    },
+    {
+      "id": "verb_aushandeln",
+      "german": "aushandeln",
+      "arabic": "يَتَفَاوَضُ وَيَتَوَصَّلُ إِلَى اتِّفَاقٍ عَبْرَ الحِوَارِ",
+      "english": "to negotiate or broker an agreement",
+      "conjugation": {
+        "praesens": "er/sie/es handelt aus",
+        "praeteritum": "handelte aus",
+        "perfekt": "hat ausgehandelt"
+      },
+      "preposition": "mit + Dat / über + Akk",
+      "collocations": [
+        "einen tragfähigen Kompromiss aushandeln",
+        "einen Waffenstillstand aushandeln"
+      ],
+      "example_sentence": {
+        "de": "Die Delegationen handelten in zähen Nachtsitzungen einen historischen Durchbruch aus.",
+        "ar": "تَوَصَّلَتِ الوُفُودُ فِي جَلَسَاتٍ لَيْلِيَّةٍ شَاقَّةٍ إِلَى اخْتِرَاقٍ تَارِيخِيٍّ عَبْرَ التَّفَاوُضِ.",
+        "en": "The delegations negotiated a historic breakthrough during arduous late-night sessions."
+      },
+      "image": "assets/svg/verb_aushandeln.svg"
+    },
+    {
+      "id": "verb_vermitteln",
+      "german": "vermitteln",
+      "arabic": "يَتَوَسَّطُ دِبْلُومَاسِيًّا بَيْنَ أَطْرَافِ النِّزَاعِ",
+      "english": "to mediate diplomatically",
+      "conjugation": {
+        "praesens": "er/sie/es vermittelt",
+        "praeteritum": "vermittelte",
+        "perfekt": "hat vermittelt"
+      },
+      "preposition": "zwischen + Dat",
+      "collocations": [
+        "zwischen verfeindeten Parteien vermitteln",
+        "in einem Grenzkonflikt neutral vermitteln"
+      ],
+      "example_sentence": {
+        "de": "Der Sondergesandte vermittelte erfolgreich zwischen den beiden Kriegsparteien.",
+        "ar": "تَوَسَّطَ المَبْعُوثُ الخَاصُّ بِنَجَاحٍ بَيْنَ طَرَفَيِ النِّزَاعِ المُتَحَارِبَيْنِ.",
+        "en": "The special envoy successfully mediated between the two warring parties."
+      },
+      "image": "assets/svg/verb_vermitteln.svg"
+    },
+    {
+      "id": "verb_suspendieren",
+      "german": "suspendieren",
+      "arabic": "يُعَلِّقُ سَرَيَانَ اتِّفَاقِيَّةٍ أَوْ عُضْوِيَّةً دَوْلِيَّةً",
+      "english": "to suspend an agreement or membership",
+      "conjugation": {
+        "praesens": "er/sie/es suspendiert",
+        "praeteritum": "suspendierte",
+        "perfekt": "hat suspendiert"
+      },
+      "preposition": "von + Dat / wegen + Gen",
+      "collocations": [
+        "ein bilaterales Abkommen suspendieren",
+        "die Mitgliedschaft in einer Organisation suspendieren"
+      ],
+      "example_sentence": {
+        "de": "Wegen schwerer Vertragsverletzungen suspendierte das Bündnis die Mitgliedschaft des Staates.",
+        "ar": "بِسَبَبِ انْتِهَاكَاتٍ جَسِيمَةٍ لِلْمُعَاهَدَةِ، عَلَّقَ التَّحَالُفُ عُضْوِيَّةَ الدَّوْلَةِ.",
+        "en": "Owing to severe treaty violations, the alliance suspended the state's membership."
+      },
+      "image": "assets/svg/verb_suspendieren.svg"
+    },
+    {
+      "id": "verb_deeskalieren",
+      "german": "deeskalieren",
+      "arabic": "يُخَفِّضُ حِدَّةَ التَّوَتُّرِ وَيَمْنَعُ التَّصْعِيدَ",
+      "english": "to de-escalate tensions",
+      "conjugation": {
+        "praesens": "er/sie/es deeskaliert",
+        "praeteritum": "deeskalierte",
+        "perfekt": "hat deeskaliert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "einen bewaffneten Konflikt deeskalieren",
+        "die geopolitische Lage deeskalieren"
+      ],
+      "example_sentence": {
+        "de": "Gezielte vertrauensbildende Maßnahmen halfen, die krisenhafte Lage an der Grenze zu deeskalieren.",
+        "ar": "سَاعَدَتْ إِجْرَاءَاتُ بِنَاءِ الثِّقَةِ المُوَجَّهَةُ عَلَى تَخْفِيضِ حِدَّةِ التَّوَتُّرِ فِي الوَضْعِ المَأْزُومِ عَلَى الحُدُودِ.",
+        "en": "Targeted confidence-building measures helped de-escalate the volatile border situation."
+      },
+      "image": "assets/svg/verb_deeskalieren.svg"
+    },
+    {
+      "id": "verb_diplomatisieren",
+      "german": "diplomatisieren",
+      "arabic": "يَتَعَامَلُ بِحِنْكَةٍ دِبْلُومَاسِيَّةٍ / يُعَالِجُ الأَمْرَ سِيَاسِيًّا",
+      "english": "to conduct affairs diplomatically",
+      "conjugation": {
+        "praesens": "er/sie/es diplomatisiert",
+        "praeteritum": "diplomatisierte",
+        "perfekt": "hat diplomatisiert"
+      },
+      "preposition": "mit + Dat",
+      "collocations": [
+        "in heiklen Krisen geschickt diplomatisieren",
+        "mit Kontrahenten diplomatisch umgehen"
+      ],
+      "example_sentence": {
+        "de": "Statt militärische Drohungen auszusprechen, zog die Regierung es vor, die Krise zu diplomatisieren.",
+        "ar": "عِوَضًا عَنْ إِطْلَاقِ التَّهْدِيدَاتِ العَسْكَرِيَّةِ، فَضَّلَتِ الحُكُومَةُ مُعَالَجَةَ الأَزْمَةِ بِحِنْكَةٍ دِبْلُومَاسِيَّةٍ.",
+        "en": "Rather than issuing military threats, the government preferred to address the crisis diplomatically."
+      },
+      "image": "assets/svg/verb_diplomatisieren.svg"
+    },
+    {
+      "id": "verb_akkreditieren",
+      "german": "akkreditieren",
+      "arabic": "يَعْتَمِدُ سَفِيرًا أَوْ مَبْعُوثًا دِبْلُومَاسِيًّا رَسْمِيًّا",
+      "english": "to accredit an ambassador",
+      "conjugation": {
+        "praesens": "er/sie/es akkreditiert",
+        "praeteritum": "akkreditierte",
+        "perfekt": "hat akkreditiert"
+      },
+      "preposition": "bei + Dat",
+      "collocations": [
+        "einen Botschafter feierlich akkreditieren",
+        "diplomatische Vertreter akkreditieren"
+      ],
+      "example_sentence": {
+        "de": "Das Staatsoberhaupt akkreditierte den neuen ausländischen Botschafter im Rahmen einer feierlichen Zeremonie.",
+        "ar": "اعْتَمَدَ رَئِيسُ الدَّوْلَةِ السَّفِيرَ الأَجْنَبِيَّ الجَدِيدَ فِي إِطَارِ مَرَاسِمَ رَسْمِيَّةٍ احْتِفَالِيَّةٍ.",
+        "en": "The head of state accredited the new foreign ambassador in a formal ceremony."
+      },
+      "image": "assets/svg/verb_akkreditieren.svg"
+    },
+    {
+      "id": "verb_einberufen",
+      "german": "einberufen",
+      "arabic": "يَدْعُو لِانْعِقَادِ قِمَّةٍ أَوْ جَلْسَةٍ طَارِئَةٍ",
+      "english": "to convene an emergency summit or council",
+      "conjugation": {
+        "praesens": "er/sie/es beruft ein",
+        "praeteritum": "berief ein",
+        "perfekt": "hat einberufen"
+      },
+      "preposition": "zu + Dat",
+      "collocations": [
+        "den Sicherheitsrat einberufen",
+        "eine Dringlichkeitssitzung einberufen"
+      ],
+      "example_sentence": {
+        "de": "Der UN-Generalsekretär berief eine Dringlichkeitssitzung des Sicherheitsrates zur Lage im Krisengebiet ein.",
+        "ar": "دَعَا الأَمِينُ العَامُّ لِلأُمَمِ المُتَّحِدَةِ إِلَى انْعِقَادِ جَلْسَةٍ طَارِئَةٍ لِمَجْلِسِ الأَمْنِ لِبَحْثِ الأَوْضَاعِ فِي مِنْطَقَةِ الأَزْمَةِ.",
+        "en": "The UN Secretary-General convened an emergency meeting of the Security Council regarding the crisis zone."
+      },
+      "image": "assets/svg/verb_einberufen.svg"
+    },
+    {
+      "id": "verb_schlichten",
+      "german": "schlichten",
+      "arabic": "يُسَوِّي نِزَاعًا سِلْمِيًّا عَبْرَ التَّحْكِيمِ",
+      "english": "to arbitrate or settle a dispute peacefully",
+      "conjugation": {
+        "praesens": "er/sie/es schlichtet",
+        "praeteritum": "schlichtete",
+        "perfekt": "hat geschlichtet"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "einen Streitfall friedlich schlichten",
+        "Grenzstreitigkeiten gerichtlich schlichten"
+      ],
+      "example_sentence": {
+        "de": "Der Internationale Gerichtshof konnte den jahrzehntelangen Grenzstreit durch ein Schiedsurteil schlichten.",
+        "ar": "تَمَكَّنَتْ مَحْكَمَةُ العَدْلِ الدَّوْلِيَّةُ مِنْ تَسْوِيَةِ النِّزَاعِ الحُدُودِيِّ المُسْتَمِرِّ مُنْذُ عُقُودٍ عَبْرَ حُكْمٍ تَحْكِيمِيٍّ.",
+        "en": "The International Court of Justice was able to settle the decades-long border dispute through arbitration."
+      },
+      "image": "assets/svg/verb_schlichten.svg"
+    },
+    {
+      "id": "verb_konzedieren",
+      "german": "konzedieren",
+      "arabic": "يُقَدِّمُ تَنَازُلًا دِبْلُومَاسِيًّا / يُقِرُّ لِلْخَصْمِ بِحَقٍّ",
+      "english": "to concede diplomatically",
+      "conjugation": {
+        "praesens": "er/sie/es konzediert",
+        "praeteritum": "konzedierte",
+        "perfekt": "hat konzediert"
+      },
+      "preposition": "in + Dat",
+      "collocations": [
+        "territoriale Ansprüche konzedieren",
+        "Handelserleichterungen konzedieren"
+      ],
+      "example_sentence": {
+        "de": "Um den Friedensprozess nicht zu gefährden, konzedierte die Delegation Sonderrechte in der Grenzregion.",
+        "ar": "حِرْصًا عَلَى عَدَمِ تَعْرِيضِ عَمَلِيَّةِ السَّلَامِ لِلخَطَرِ، قَدَّمَ الوَفْدُ تَنَازُلَاتٍ بِشَأْنِ حُقُوقٍ خَاصَّةٍ فِي المِنْطَقَةِ الحُدُودِيَّةِ.",
+        "en": "To safeguard the peace process, the delegation conceded special rights in the border region."
+      },
+      "image": "assets/svg/verb_konzedieren.svg"
+    },
+    {
+      "id": "verb_intervenieren",
+      "german": "intervenieren",
+      "arabic": "يَتَدَخَّلُ سِيَاسِيًّا أَوْ دِبْلُومَاسِيًّا فِي شَأْنٍ دَوْلِيٍّ",
+      "english": "to intervene diplomatically",
+      "conjugation": {
+        "praesens": "er/sie/es interveniert",
+        "praeteritum": "intervenierte",
+        "perfekt": "hat interveniert"
+      },
+      "preposition": "bei + Dat / in + Akk",
+      "collocations": [
+        "auf höchster diplomatischer Ebene intervenieren",
+        "bei der gegnerischen Regierung intervenieren"
+      ],
+      "example_sentence": {
+        "de": "Die Außenministerin intervenierte direkt bei ihrem Amtskollegen, um die Freilassung der Gefangenen zu erwirken.",
+        "ar": "تَدَخَّلَتْ وَزِيرَةُ الخَارِجِيَّةِ مُبَاشَرَةً لَدَى نَظِيرِهَا لِتَحْقِيقِ الإِفْرَاجِ عَنِ السُّجَنَاءِ.",
+        "en": "The foreign minister intervened directly with her counterpart to secure the release of the prisoners."
+      },
+      "image": "assets/svg/verb_intervenieren.svg"
+    },
+    {
+      "id": "verb_unterzeichnen",
+      "german": "unterzeichnen",
+      "arabic": "يُوَقِّعُ رَسْمِيًّا عَلَى اتِّفَاقِيَّةٍ أَوْ مُعَاهَدَةٍ",
+      "english": "to sign an international treaty",
+      "conjugation": {
+        "praesens": "er/sie/es unterzeichnet",
+        "praeteritum": "unterzeichnete",
+        "perfekt": "hat unterzeichnet"
+      },
+      "preposition": "in + Dat",
+      "collocations": [
+        "ein bilaterales Protokoll feierlich unterzeichnen",
+        "eine Absichtserklärung unterzeichnen"
+      ],
+      "example_sentence": {
+        "de": "Die Staatsoberhäupter unterzeichneten die Schlusserklärung des multilateralen Gipfeltreffens.",
+        "ar": "وَقَّعَ قَادَةُ الدُّوَلِ الإِعْلَانَ الخِتَامِيَّ لِلْقِمَّةِ مُتَعَدِّدَةِ الأَطْرَافِ.",
+        "en": "The heads of state signed the final declaration of the multilateral summit."
+      },
+      "image": "assets/svg/verb_unterzeichnen.svg"
+    },
+    {
+      "id": "verb_sanktionieren",
+      "german": "sanktionieren",
+      "arabic": "يَفْرِضُ عُقُوبَاتٍ اقْتِصَادِيَّةً أَوْ سِيَاسِيَّةً",
+      "english": "to sanction or impose sanctions",
+      "conjugation": {
+        "praesens": "er/sie/es sanktioniert",
+        "praeteritum": "sanktionierte",
+        "perfekt": "hat sanktioniert"
+      },
+      "preposition": "mit + Dat / wegen + Gen",
+      "collocations": [
+        "Völkerrechtsbrüche sanktionieren",
+        "ein autoritäres Regime wirtschaftlich sanktionieren"
+      ],
+      "example_sentence": {
+        "de": "Die Staatengemeinschaft beschloss, den völkerrechtswidrigen Angriffskrieg mit beispiellosen Sanktionen zu belegen.",
+        "ar": "قَرَّرَ المُجْتَمَعُ الدَّوْلِيُّ مُعَاقَبَةَ حَرْبِ العُدْوَانِ المُنْتَهِكَةِ لِلْقَانُونِ الدَّوْلِيِّ بِفَرْضِ عُقُوبَاتٍ غَيْرِ مَسْبُوقَةٍ.",
+        "en": "The international community resolved to sanction the unlawful war of aggression with unprecedented measures."
+      },
+      "image": "assets/svg/verb_sanktionieren.svg"
+    },
+    {
+      "id": "verb_boykottieren",
+      "german": "boykottieren",
+      "arabic": "يُقَاطِعُ دِبْلُومَاسِيًّا أَوْ اقْتِصَادِيًّا",
+      "english": "to boycott",
+      "conjugation": {
+        "praesens": "er/sie/es boykottiert",
+        "praeteritum": "boykottierte",
+        "perfekt": "hat boykottiert"
+      },
+      "preposition": "aus + Dat",
+      "collocations": [
+        "einen internationalen Gipfel boykottieren",
+        "diplomatische Empfänge boykottieren"
+      ],
+      "example_sentence": {
+        "de": "Mehrere Nationen boykottierten die Konferenz aus Protest gegen Menschenrechtsverletzungen.",
+        "ar": "قَاطَعَتْ دُوَلٌ عِدَّةٌ المُؤْتَمَرَ احْتِجَاجًا عَلَى انْتِهَاكَاتِ حُقُوقِ الإِنْسَانِ.",
+        "en": "Several nations boycotted the conference in protest against human rights violations."
+      },
+      "image": "assets/svg/verb_boykottieren.svg"
+    },
+    {
+      "id": "verb_revidieren",
+      "german": "revidieren",
+      "arabic": "يُعِيدُ النَّظَرَ فِي بَنُودِ اتِّفَاقٍ أَوْ يُنَقِّحُ مَوْقِفًا",
+      "english": "to revise a treaty or stance",
+      "conjugation": {
+        "praesens": "er/sie/es revidiert",
+        "praeteritum": "revidierte",
+        "perfekt": "hat revidiert"
+      },
+      "preposition": "nach + Dat",
+      "collocations": [
+        "veraltete Vertragsklauseln revidieren",
+        "eine strategische Doktrin revidieren"
+      ],
+      "example_sentence": {
+        "de": "Die Vertragsparteien kamen überein, die veralteten Wirtschaftsabkommen grundlegend zu revidieren.",
+        "ar": "اتَّفَقَتِ الأَطْرَافُ المُتَعَاقِدَةُ عَلَى إِعَادَةِ النَّظَرِ جَذْرِيًّا فِي الاتِّفَاقِيَّاتِ الاِقْتِصَادِيَّةِ القَدِيمَةِ.",
+        "en": "The contracting parties agreed to thoroughly revise the outdated economic treaties."
+      },
+      "image": "assets/svg/verb_revidieren.svg"
+    },
+    {
+      "id": "verb_protokollieren",
+      "german": "protokollieren",
+      "arabic": "يُدَوِّنُ المَحَاضِرَ الرَّسْمِيَّةَ لِلْمُفَاوَضَاتِ",
+      "english": "to record official diplomatic minutes",
+      "conjugation": {
+        "praesens": "er/sie/es protokolliert",
+        "praeteritum": "protokollierte",
+        "perfekt": "hat protokolliert"
+      },
+      "preposition": "in + Dat",
+      "collocations": [
+        "Verhandlungsergebnisse akribisch protokollieren",
+        "diplomatische Vorbehalte protokollieren"
+      ],
+      "example_sentence": {
+        "de": "Die Diplomaten ließen ihre Vorbehalte bezüglich des zweiten Artikels ausdrücklich protokollieren.",
+        "ar": "طَلَبَ الدِّبْلُومَاسِيُّونَ تَدْوِينَ تَحَفُّظَاتِهِمْ بِشَأْنِ المَادَّةِ الثَّانِيَةِ صَرَاحَةً فِي المَحْضَرِ الرَّسْمِيِّ.",
+        "en": "The diplomats had their reservations concerning the second article explicitly minuted."
+      },
+      "image": "assets/svg/verb_protokollieren.svg"
+    },
+    {
+      "id": "verb_bilateralisieren",
+      "german": "bilateralisieren",
+      "arabic": "يُحَوِّلُ النِّزَاعَ أَوْ العَلَاقَةَ إِلَى مَسَارٍ ثُنَائِيٍّ",
+      "english": "to bilateralize an issue",
+      "conjugation": {
+        "praesens": "er/sie/es bilateralisiert",
+        "praeteritum": "bilateralisierte",
+        "perfekt": "hat bilateralisiert"
+      },
+      "preposition": "mit + Dat",
+      "collocations": [
+        "einen multilateralen Konflikt bilateralisieren",
+        "Handelsgespräche bilateralisieren"
+      ],
+      "example_sentence": {
+        "de": "Die Regierung versuchte, die Verhandlungen zu bilateralisieren, um den Einfluss internationaler Organisationen zu begrenzen.",
+        "ar": "حَاوَلَتِ الحُكُومَةُ تَحْوِيلَ المُفَاوَضَاتِ إِلَى مَسَارٍ ثُنَائِيٍّ لِلْحَدِّ مِنْ تَأْثِيرِ المُنَظَّمَاتِ الدَّوْلِيَّةِ.",
+        "en": "The government attempted to bilateralize negotiations to limit the influence of international bodies."
+      },
+      "image": "assets/svg/verb_bilateralisieren.svg"
+    },
+    {
+      "id": "verb_kompromittieren",
+      "german": "kompromittieren",
+      "arabic": "يُعَرِّضُ التَّسْوِيَةَ لِلْخَطَرِ / يُفْسِدُ المَوْقِفَ التَّفَاوُضِيَّ",
+      "english": "to compromise a position or settlement",
+      "conjugation": {
+        "praesens": "er/sie/es kompromittiert",
+        "praeteritum": "kompromittierte",
+        "perfekt": "hat kompromittiert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "die Verhandlungsposition kompromittieren",
+        "vertrauliche Beziehungen kompromittieren"
+      ],
+      "example_sentence": {
+        "de": "Ein vorzeitiges Durchstechen interner Dokumente kompromittierte die mühsam aufgebaute Verhandlungsposition.",
+        "ar": "أَدَّى التَّسْرِيبُ المُبَكِّرُ لِلْوَثَائِقِ الدَّاخِلِيَّةِ إِلَى إِفْسَادِ المَوْقِفِ التَّفَاوُضِيِّ الَّذِي بُنِيَ بِمَشَقَّةٍ.",
+        "en": "Premature leaking of internal documents compromised the painstakingly built negotiation stance."
+      },
+      "image": "assets/svg/verb_kompromittieren.svg"
+    },
+    {
+      "id": "verb_harmonisieren",
+      "german": "harmonisieren",
+      "arabic": "يُوَائِمُ التَّشْرِيعَاتِ وَالمَعَايِيرَ بَيْنَ الدُّوَلِ",
+      "english": "to harmonize international standards or laws",
+      "conjugation": {
+        "praesens": "er/sie/es harmonisiert",
+        "praeteritum": "harmonisierte",
+        "perfekt": "hat harmonisiert"
+      },
+      "preposition": "mit + Dat",
+      "collocations": [
+        "Zollvorschriften grenzüberschreitend harmonisieren",
+        "Rechtsnormen harmonisieren"
+      ],
+      "example_sentence": {
+        "de": "Die Mitgliedsstaaten einigten sich darauf, ihre Sicherheitsstandards im Flugverkehr vollständig zu harmonisieren.",
+        "ar": "اتَّفَقَتِ الدُّوَلُ الأَعْضَاءُ عَلَى مُوَاءَمَةِ مَعَايِيرِ السَّلَامَةِ فِي الطَّيَرَانِ بِشَكْلٍ كَامِلٍ.",
+        "en": "Member states agreed to fully harmonize their aviation security standards."
+      },
+      "image": "assets/svg/verb_harmonisieren.svg"
+    }
+  ]
+}

@@ -31611,5 +31611,105 @@
     "file": "assets/svg/concept_cyberkriegsfuehrung.svg",
     "category": "tech_geopolitics",
     "alt": "concept cyberkriegsfuehrung"
+  },
+  "assets/svg/verb_sanktionieren.svg": {
+    "file": "assets/svg/verb_sanktionieren.svg",
+    "category": "diplomatic_verbs",
+    "alt": "verb sanktionieren"
+  },
+  "assets/svg/verb_kompromittieren.svg": {
+    "file": "assets/svg/verb_kompromittieren.svg",
+    "category": "diplomatic_verbs",
+    "alt": "verb kompromittieren"
+  },
+  "assets/svg/verb_paraphieren.svg": {
+    "file": "assets/svg/verb_paraphieren.svg",
+    "category": "diplomatic_verbs",
+    "alt": "verb paraphieren"
+  },
+  "assets/svg/verb_akkreditieren.svg": {
+    "file": "assets/svg/verb_akkreditieren.svg",
+    "category": "diplomatic_verbs",
+    "alt": "verb akkreditieren"
+  },
+  "assets/svg/verb_aushandeln.svg": {
+    "file": "assets/svg/verb_aushandeln.svg",
+    "category": "diplomatic_verbs",
+    "alt": "verb aushandeln"
+  },
+  "assets/svg/verb_diplomatisieren.svg": {
+    "file": "assets/svg/verb_diplomatisieren.svg",
+    "category": "diplomatic_verbs",
+    "alt": "verb diplomatisieren"
+  },
+  "assets/svg/verb_deeskalieren.svg": {
+    "file": "assets/svg/verb_deeskalieren.svg",
+    "category": "diplomatic_verbs",
+    "alt": "verb deeskalieren"
+  },
+  "assets/svg/verb_vermitteln.svg": {
+    "file": "assets/svg/verb_vermitteln.svg",
+    "category": "diplomatic_verbs",
+    "alt": "verb vermitteln"
+  },
+  "assets/svg/verb_suspendieren.svg": {
+    "file": "assets/svg/verb_suspendieren.svg",
+    "category": "diplomatic_verbs",
+    "alt": "verb suspendieren"
+  },
+  "assets/svg/verb_unterzeichnen.svg": {
+    "file": "assets/svg/verb_unterzeichnen.svg",
+    "category": "diplomatic_verbs",
+    "alt": "verb unterzeichnen"
+  },
+  "assets/svg/verb_boykottieren.svg": {
+    "file": "assets/svg/verb_boykottieren.svg",
+    "category": "diplomatic_verbs",
+    "alt": "verb boykottieren"
+  },
+  "assets/svg/verb_harmonisieren.svg": {
+    "file": "assets/svg/verb_harmonisieren.svg",
+    "category": "diplomatic_verbs",
+    "alt": "verb harmonisieren"
+  },
+  "assets/svg/verb_revidieren.svg": {
+    "file": "assets/svg/verb_revidieren.svg",
+    "category": "diplomatic_verbs",
+    "alt": "verb revidieren"
+  },
+  "assets/svg/verb_protokollieren.svg": {
+    "file": "assets/svg/verb_protokollieren.svg",
+    "category": "diplomatic_verbs",
+    "alt": "verb protokollieren"
+  },
+  "assets/svg/verb_bilateralisieren.svg": {
+    "file": "assets/svg/verb_bilateralisieren.svg",
+    "category": "diplomatic_verbs",
+    "alt": "verb bilateralisieren"
+  },
+  "assets/svg/verb_ratifizieren.svg": {
+    "file": "assets/svg/verb_ratifizieren.svg",
+    "category": "diplomatic_verbs",
+    "alt": "verb ratifizieren"
+  },
+  "assets/svg/verb_schlichten.svg": {
+    "file": "assets/svg/verb_schlichten.svg",
+    "category": "diplomatic_verbs",
+    "alt": "verb schlichten"
+  },
+  "assets/svg/verb_intervenieren.svg": {
+    "file": "assets/svg/verb_intervenieren.svg",
+    "category": "diplomatic_verbs",
+    "alt": "verb intervenieren"
+  },
+  "assets/svg/verb_einberufen.svg": {
+    "file": "assets/svg/verb_einberufen.svg",
+    "category": "diplomatic_verbs",
+    "alt": "verb einberufen"
+  },
+  "assets/svg/verb_konzedieren.svg": {
+    "file": "assets/svg/verb_konzedieren.svg",
+    "category": "diplomatic_verbs",
+    "alt": "verb konzedieren"
   }
 }

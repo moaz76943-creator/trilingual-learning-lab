@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <defs>
+    <linearGradient id="grad_verb_akkreditieren" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4E342E" />
+      <stop offset="100%" stop-color="#6D4C41" />
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="20" fill="url(#grad_verb_akkreditieren)" />
+  <circle cx="50" cy="50" r="32" fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-dasharray="4 2" opacity="0.4" />
+  <circle cx="50" cy="50" r="18" fill="#FFFFFF" opacity="0.18" />
+  <path d="M50 32 A14 14 0 1 0 64 46 L50 46 Z M46 54 L54 66 L64 56" fill="#FFFFFF" />
+  <text x="50" y="88" font-family="sans-serif" font-size="7.5" font-weight="bold" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.5">AKKREDIT.</text>
+</svg>
