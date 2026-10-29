@@ -1,0 +1,451 @@
+{
+  "category_id": "c2_meditative_consciousness_verbs_c2",
+  "category_title": {
+    "ar": "أفعال الاستغراق التأملي والوعي الباطني العابر للذات",
+    "de": "Meditative, kontemplative und transpersonale Bewusstseinsverben",
+    "en": "C2 Meditative, Contemplative & Transpersonal Consciousness Verbs"
+  },
+  "level": "C2",
+  "items": [
+    {
+      "id": "verb_kontemplieren",
+      "german": "kontemplieren",
+      "arabic": "يَتَأَمَّلُ اسْتِبْطَانِيًّا / يَغْرَقُ فِي النَّظَرِ الفِكْرِيِّ العَمِيقِ",
+      "english": "to contemplate deeply and introspectively",
+      "conjugation": {
+        "praesens": "er/sie/es kontempliert",
+        "praeteritum": "kontemplierte",
+        "perfekt": "hat kontempliert"
+      },
+      "preposition": "über + Akk",
+      "collocations": [
+        "über das Wesen der Zeit kontemplieren",
+        "die eigene Vergänglichkeit kontemplieren"
+      ],
+      "example_sentence": {
+        "de": "Der Philosoph saß stundenlang am Ufer des Sees und kontemplierte über die Vergänglichkeit des menschlichen Daseins.",
+        "ar": "جَلَسَ الفَيْلَسُوفُ لِسَاعَاتٍ طَوِيلَةٍ عَلَى ضَفَّةِ البُحَيْرَةِ مُتَأَمِّلًا فِي زَوَالِ الوُجُودِ الإِنْسَانِيِّ.",
+        "en": "The philosopher sat for hours by the lakeshore, deeply contemplating the transience of human existence."
+      },
+      "image": "assets/svg/verb_kontemplieren.svg"
+    },
+    {
+      "id": "verb_meditieren",
+      "german": "meditieren",
+      "arabic": "يُمَارِسُ التَّأَمُّلَ البَاطِنِيَّ / يَتَدَبَّرُ فِي سُكُونٍ",
+      "english": "to meditate internally",
+      "conjugation": {
+        "praesens": "er/sie/es meditiert",
+        "praeteritum": "meditierte",
+        "perfekt": "hat meditiert"
+      },
+      "preposition": "über + Akk / auf + Akk",
+      "collocations": [
+        "in vollkommener Stille meditieren",
+        "auf den Atem meditieren"
+      ],
+      "example_sentence": {
+        "de": "Jeden Morgen meditiert sie dreißig Minuten lang, um innere Klarheit für den bevorstehenden Tag zu gewinnen.",
+        "ar": "تُمَارِسُ التَّأَمُّلَ كُلَّ صَبَاحٍ لِمُدَّةِ ثَلَاثِينَ دَقِيقَةً لِاكْتِسَابِ صَفَاءِ البَصِيرَةِ لِيَوْمِهَا.",
+        "en": "Every morning she meditates for thirty minutes to cultivate inner clarity for the day ahead."
+      },
+      "image": "assets/svg/verb_meditieren.svg"
+    },
+    {
+      "id": "verb_versenken_sich",
+      "german": "sich versenken",
+      "arabic": "يَسْتَغْرِقُ كُلِّيًّا فِي أَعْمَاقِ التَّأَمُّلِ",
+      "english": "to immerse oneself deeply in meditation",
+      "conjugation": {
+        "praesens": "er/sie/es versenkt sich",
+        "praeteritum": "versenkte sich",
+        "perfekt": "hat sich versenkt"
+      },
+      "preposition": "in + Akk",
+      "collocations": [
+        "sich in Meditation versenken",
+        "sich in ein philosophisches Buch versenken"
+      ],
+      "example_sentence": {
+        "de": "Er schloss die Augen und versenkte sich so tief in sein Inneres, dass alle Außengeräusche verblassten.",
+        "ar": "أَغْمَضَ عَيْنَيْهِ وَاسْتَغْرَقَ فِي أَعْمَاقِ ذَاتِهِ حَتَّى تَوَارَتْ كُلُّ الأَصْوَاتِ الخَارِجِيَّةِ تَمَامًا.",
+        "en": "He closed his eyes and immersed himself so deeply within that all external noises faded away."
+      },
+      "image": "assets/svg/verb_versenken_sich.svg"
+    },
+    {
+      "id": "verb_vergegenwaertigen",
+      "german": "sich vergegenwärtigen",
+      "arabic": "يَسْتَحْضِرُ فِي حَاضِرِ الوَعْيِ / يَتَبَصَّرُ فِي اللَّحْظَةِ",
+      "english": "to visualize clearly or bring into present awareness",
+      "conjugation": {
+        "praesens": "er/sie/es vergegenwärtigt sich",
+        "praeteritum": "vergegenwärtigte sich",
+        "perfekt": "hat sich vergegenwärtigt"
+      },
+      "preposition": "in + Dat",
+      "collocations": [
+        "sich die Tragweite bewusst vergegenwärtigen",
+        "sich den Augenblick vergegenwärtigen"
+      ],
+      "example_sentence": {
+        "de": "Man muss sich immer wieder vergegenwärtigen, wie kostbar und flüchtig jeder gelebte Atemzug ist.",
+        "ar": "يَجِبُ عَلَى المَرْءِ أَنْ يَسْتَحْضِرَ فِي وَعْيِهِ دَوْمًا مَدَى نَفَاسَةِ وَسُرْعَةِ انْقِضَاءِ كُلِّ نَفَسٍ يَعِيشُهُ.",
+        "en": "One must constantly bring to mind how precious and fleeting each living breath is."
+      },
+      "image": "assets/svg/verb_vergegenwaertigen.svg"
+    },
+    {
+      "id": "verb_transzendieren_c2_med",
+      "german": "transzendieren",
+      "arabic": "يَتَسَامَى فَوْقَ ثُنَائِيَّةِ الأَنَا وَالعَالَمِ",
+      "english": "to transcend ego boundaries",
+      "conjugation": {
+        "praesens": "er/sie/es transzendiert",
+        "praeteritum": "transzendierte",
+        "perfekt": "hat transzendiert"
+      },
+      "preposition": "über + Akk",
+      "collocations": [
+        "die Grenzen des Ichs transzendieren",
+        "duale Denkmuster transzendieren"
+      ],
+      "example_sentence": {
+        "de": "In tiefen Versenkungszuständen transzendiert das Bewusstsein die enge Trennung zwischen Subjekt und Objekt.",
+        "ar": "يَتَسَامَى الوَعْيُ فِي حَالَاتِ الِاسْتِغْرَاقِ العَمِيقِ فَوْقَ الحَاجِزِ الضَّيِّقِ بَيْنَ الذَّاتِ وَالمَوْضُوعِ.",
+        "en": "In states of deep absorption, consciousness transcends the narrow duality between subject and object."
+      },
+      "image": "assets/svg/verb_transzendieren_c2_med.svg"
+    },
+    {
+      "id": "verb_zentrieren_sich",
+      "german": "sich zentrieren",
+      "arabic": "يَتَمَرْكَزُ فِي جَوْهَرِ النَّفْسِ / يَجْمَعُ شَتَاتَ الوَعْيِ",
+      "english": "to center oneself mentally and spiritually",
+      "conjugation": {
+        "praesens": "er/sie/es zentriert sich",
+        "praeteritum": "zentrierte sich",
+        "perfekt": "hat sich zentriert"
+      },
+      "preposition": "in + Dat",
+      "collocations": [
+        "sich in der eigenen Mitte zentrieren",
+        "vor dem Wettkampf geistig zentrieren"
+      ],
+      "example_sentence": {
+        "de": "Durch bewusste Atemzüge gelingt es ihm, sich mitten im Alltagschaos vollkommen zu zentrieren.",
+        "ar": "يَنْجَحُ عَبْرَ الأَنْفَاسِ الوَاعِيَةِ فِي التَّمَرْكُزِ الكَامِلِ فِي صَمِيمِ ذَاتِهِ وَسَطَ صَخَبِ الحَيَاةِ.",
+        "en": "Through conscious breathing, he manages to fully center himself amidst the turmoil of daily life."
+      },
+      "image": "assets/svg/verb_zentrieren_sich.svg"
+    },
+    {
+      "id": "verb_harmonisieren_med",
+      "german": "harmonisieren",
+      "arabic": "يُوَائِمُ وَيُنَسِّقُ الطَّاقَاتِ البَاطِنِيَّةَ فِي تَنَاغُمٍ",
+      "english": "to harmonize somatic and psychic energies",
+      "conjugation": {
+        "praesens": "er/sie/es harmonisiert",
+        "praeteritum": "harmonisierte",
+        "perfekt": "hat harmonisiert"
+      },
+      "preposition": "mit + Dat",
+      "collocations": [
+        "Körper und Geist harmonisieren",
+        "den Herzrhythmus harmonisieren"
+      ],
+      "example_sentence": {
+        "de": "Gezielte Achtsamkeitsübungen harmonisieren das vegetative Nervensystem nachhaltig.",
+        "ar": "تُوَائِمُ تَمَارِينُ اليَقَظَةِ الذِّهْنِيَّةِ المُوَجَّهَةُ الجِهَازَ العَصَبِيَّ اللَّاإِرَادِيَّ بِصُورَةٍ مُسْتَدَامَةٍ.",
+        "en": "Targeted mindfulness practices sustainably harmonize the autonomic nervous system."
+      },
+      "image": "assets/svg/verb_harmonisieren_med.svg"
+    },
+    {
+      "id": "verb_introspektieren",
+      "german": "introspektieren",
+      "arabic": "يَسْتَبْطِنُ أَغْوَارَ النَّفْسِ / يُرَاقِبُ مَشَاعِرَهُ ذَاتِيًّا",
+      "english": "to introspect psychological states",
+      "conjugation": {
+        "praesens": "er/sie/es introspektiert",
+        "praeteritum": "introspektierte",
+        "perfekt": "hat introspektiert"
+      },
+      "preposition": "in + Dat",
+      "collocations": [
+        "eigene Denkmuster introspektieren",
+        "subtile Emotionen unvoreingenommen introspektieren"
+      ],
+      "example_sentence": {
+        "de": "Wer lernt, seine aufkommenden Ängste ohne Urteil zu introspektieren, verliert deren lähmenden Einfluss.",
+        "ar": "مَنْ يَتَعَلَّمُ اسْتِبْطَانَ مَخَاوِفِهِ عِنْدَ ظُهُورِهَا دُونَ إِصْدَارِ أَحْكَامٍ يَفْقِدُ تَأْثِيرَهَا المُرْبِكَ.",
+        "en": "Whoever learns to introspect arising fears without judgment dispels their paralyzing grip."
+      },
+      "image": "assets/svg/verb_introspektieren.svg"
+    },
+    {
+      "id": "verb_entaeussern_sich",
+      "german": "sich entäußern",
+      "arabic": "يَتَجَرَّدُ مِنَ الأَنَا / يَتَخَلَّى عَنِ التَّمَسُّكِ بِالذَّاتِيَّةِ",
+      "english": "to empty oneself of ego / self-divestment",
+      "conjugation": {
+        "praesens": "er/sie/es entäußert sich",
+        "praeteritum": "entäußerte sich",
+        "perfekt": "hat sich entäußert"
+      },
+      "preposition": "von + Dat / Genitiv",
+      "collocations": [
+        "sich aller Vorurteile entäußern",
+        "sich des egoistischen Willens entäußern"
+      ],
+      "example_sentence": {
+        "de": "Meister Eckhart lehrte, dass der Mensch sich seines eigenen Egos entäußern müsse, um Gott zu empfangen.",
+        "ar": "عَلَّمَ مَايْسْتَر إِيكْهَارْت أَنَّهُ يَجِبُ عَلَى الإِنْسَانِ التَّجَرُّدُ مِنْ أَنَاهُ الخَاصَّةِ لِيَسْتَقْبِلَ الفَيْضَ الإِلَهِيَّ.",
+        "en": "Meister Eckhart taught that one must divest oneself of the ego to receive the divine."
+      },
+      "image": "assets/svg/verb_entaeussern_sich.svg"
+    },
+    {
+      "id": "verb_gewahr_werden",
+      "german": "gewahr werden",
+      "arabic": "يَصِيرُ عَلَى وَعْيٍ وَانْتِبَاهٍ يَقِظٍ دُونَ حُكْمٍ",
+      "english": "to become mindfully aware of sensations",
+      "conjugation": {
+        "praesens": "er/sie/es wird gewahr",
+        "praeteritum": "wurde gewahr",
+        "perfekt": "ist gewahr geworden"
+      },
+      "preposition": "Genitiv (einer Sache gewahr werden)",
+      "collocations": [
+        "seines eigenen Atems gewahr werden",
+        "der flüchtigen Gedanken gewahr werden"
+      ],
+      "example_sentence": {
+        "de": "Im Zustand purer Präsenz wird man der kleinsten Veränderung im Körpergefühl unmittelbar gewahr.",
+        "ar": "فِي حَالَةِ الحُضُورِ الخَالِصِ، يَصِيرُ المَرْءُ عَلَى وَعْيٍ مُبَاشِرٍ بِأَدْنَى تَغَيُّرٍ فِي إِحْسَاسِ الجَسَدِ.",
+        "en": "In pure presence, one becomes immediately aware of the slightest shift in bodily sensation."
+      },
+      "image": "assets/svg/verb_gewahr_werden.svg"
+    },
+    {
+      "id": "verb_fokussieren_c2_med",
+      "german": "fokussieren",
+      "arabic": "يُرَكِّزُ انْتِبَاهَهُ البَاطِنِيَّ فِي بُؤْرَةٍ وَاحِدَةٍ",
+      "english": "to direct single-pointed mental focus",
+      "conjugation": {
+        "praesens": "er/sie/es fokussiert",
+        "praeteritum": "fokussierte",
+        "perfekt": "hat fokussiert"
+      },
+      "preposition": "auf + Akk",
+      "collocations": [
+        "den Geist einpünktig fokussieren",
+        "die Aufmerksamkeit auf den Herzraum fokussieren"
+      ],
+      "example_sentence": {
+        "de": "Im Samatha-Training fokussiert der Meditierende seine Wahrnehmung punktgenau auf die Nasenspitze.",
+        "ar": "فِي تَدْرِيبِ السَّامَاثَا، يُرَكِّزُ المُتَأَمِّلُ إِدْرَاكَهُ فِي نُقْطَةٍ وَاحِدَةٍ عَلَى طَرَفِ الأَنْفِ.",
+        "en": "In Samatha practice, the practitioner focuses awareness single-pointedly upon the tip of the nose."
+      },
+      "image": "assets/svg/verb_fokussieren_c2_med.svg"
+    },
+    {
+      "id": "verb_erhellen_med",
+      "german": "erhellen",
+      "arabic": "يُنِيرُ البَصِيرَةَ / يُشْرِقُ فِي عَتَمَةِ الذِّهْنِ",
+      "english": "to illuminate or clarify spiritual understanding",
+      "conjugation": {
+        "praesens": "er/sie/es erhellt",
+        "praeteritum": "erhellte",
+        "perfekt": "hat erhellt"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "das Bewusstsein erhellen",
+        "dunkle Lebensfragen durch Weisheit erhellen"
+      ],
+      "example_sentence": {
+        "de": "Ein plötzlicher Blitz intuitiver Erkenntnis erhellte seinen Geist und löste alle Zweifel auf.",
+        "ar": "أَنَارَ بَرْقٌ خَاطِفٌ مِنَ المَعْرِفَةِ الحَدْسِيَّةِ بَصِيرَتَهُ وَأَذَابَ كُلَّ الشُّكُوكِ.",
+        "en": "A sudden flash of intuitive insight illuminated his mind, dissolving all doubts."
+      },
+      "image": "assets/svg/verb_erhellen_med.svg"
+    },
+    {
+      "id": "verb_lauschen_med",
+      "german": "lauschen",
+      "arabic": "يُصْغِي إِلَى الصَّمْتِ البَاطِنِيِّ بِعُمْقٍ",
+      "english": "to listen deeply to inner silence",
+      "conjugation": {
+        "praesens": "er/sie/es lauscht",
+        "praeteritum": "lauschte",
+        "perfekt": "hat gelauscht"
+      },
+      "preposition": "auf + Akk / Dativ",
+      "collocations": [
+        "dem inneren Schweigen lauschen",
+        "auf die Stimme der Intuition lauschen"
+      ],
+      "example_sentence": {
+        "de": "Er setzte sich unter den Baum und lauschte andächtig der lautlosen Stille des Waldes.",
+        "ar": "جَلَسَ تَحْتَ الشَّجَرَةِ يُصْغِي بِخُشُوعٍ إِلَى سُكُونِ الغَابَةِ الصَّامِتِ.",
+        "en": "He sat beneath the tree, reverently listening to the profound silence of the forest."
+      },
+      "image": "assets/svg/verb_lauschen_med.svg"
+    },
+    {
+      "id": "verb_entschleunigen",
+      "german": "entschleunigen",
+      "arabic": "يُهَدِّئُ الإِيقَاعَ / يُبْطِئُ تَسَارُعَ الفِكْرِ وَالحَيَاةِ",
+      "english": "to decelerate mental and lifestyle pace",
+      "conjugation": {
+        "praesens": "er/sie/es entschleunigt",
+        "praeteritum": "entschleunigte",
+        "perfekt": "hat entschleunigt"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "den Gedankenstrom entschleunigen",
+        "den Lebensrhythmus bewusst entschleunigen"
+      ],
+      "example_sentence": {
+        "de": "Ein mehrtägiger Rückzug in ein Kloster half ihm, seinen hektischen Alltag spürbar zu entschleunigen.",
+        "ar": "سَاعَدَتْهُ خَلْوَةٌ لِأَيَّامٍ فِي دَيْرٍ عَلَى تَهْدِئَةِ وَإِبْطَاءِ إِيقَاعِ حَيَاتِهِ اليَوْمِيَّةِ المُتَسَارِعَةِ.",
+        "en": "A multi-day retreat in a monastery helped him tangibly decelerate his hectic routine."
+      },
+      "image": "assets/svg/verb_entschleunigen.svg"
+    },
+    {
+      "id": "verb_erden_sich",
+      "german": "sich erden",
+      "arabic": "يَتَجَذَّرُ فِي الوَاقِعِ / يَرْسَخُ حُضُورُهُ الأَرْضِيُّ",
+      "english": "to ground oneself somatically and mentally",
+      "conjugation": {
+        "praesens": "er/sie/es erdet sich",
+        "praeteritum": "erdete sich",
+        "perfekt": "hat sich geerdet"
+      },
+      "preposition": "durch + Akk / in + Dat",
+      "collocations": [
+        "sich durch Barfußgehen erden",
+        "sich in der Gegenwart fest erden"
+      ],
+      "example_sentence": {
+        "de": "Nach anstrengenden geistigen Arbeiten geht sie im Wald spazieren, um sich wieder fest zu erden.",
+        "ar": "تَتَمَشَّى فِي الغَابَةِ بَعْدَ الإِجْهَادِ الفِكْرِيِّ لِكَيْ تَتَجَذَّرَ مِنْ جَدِيدٍ بِقُوَّةٍ فِي الحَاضِرِ.",
+        "en": "After demanding intellectual labor, she walks through the woods to firmly ground herself."
+      },
+      "image": "assets/svg/verb_erden_sich.svg"
+    },
+    {
+      "id": "verb_integrieren_med",
+      "german": "integrieren",
+      "arabic": "يَدْمِجُ التَّجْرِبَةَ الرُّوحِيَّةَ فِي حَيَاتِهِ اليَوْمِيَّةِ",
+      "english": "to integrate spiritual insights into daily life",
+      "conjugation": {
+        "praesens": "er/sie/es integriert",
+        "praeteritum": "integrierte",
+        "perfekt": "hat integriert"
+      },
+      "preposition": "in + Akk",
+      "collocations": [
+        "meditative Einsichten in den Alltag integrieren",
+        "Schattenanteile psychisch integrieren"
+      ],
+      "example_sentence": {
+        "de": "Die wahre Meisterschaft besteht darin, die Gipfelerfahrungen der Meditation in das tägliche Handeln zu integrieren.",
+        "ar": "تَتَمَثَّلُ البَرَاعَةُ الحَقِيقِيَّةُ فِي دَمْجِ الخِبْرَاتِ التَّأَمُّلِيَّةِ العُلْيَا فِي صَمِيمِ السُّلُوكِ اليَوْمِيِّ.",
+        "en": "True mastery lies in integrating peak meditative insights into mundane daily actions."
+      },
+      "image": "assets/svg/verb_integrieren_med.svg"
+    },
+    {
+      "id": "verb_aufloesen_sich",
+      "german": "sich auflösen",
+      "arabic": "تَتَلَاشَى حُدُودُ الأَنَا فِي الوَحْدَةِ الكَوْنِيَّةِ",
+      "english": "to dissolve boundary between self and cosmos",
+      "conjugation": {
+        "praesens": "er/sie/es löst sich auf",
+        "praeteritum": "löste sich auf",
+        "perfekt": "hat sich aufgelöst"
+      },
+      "preposition": "in + Dat",
+      "collocations": [
+        "sich im All-Einen auflösen",
+        "die Illusion des Getrenntseins löst sich auf"
+      ],
+      "example_sentence": {
+        "de": "Im tiefsten Samadhi löst sich jedes Gefühl von Isolation im grenzenlosen Ozean des Seins auf.",
+        "ar": "فِي أَعْمَقِ مَرَاحِلِ الصَّمَادِي، يَتَلَاشَى كُلُّ شُعُورٍ بِالانْعِزَالِ فِي مُحِيطِ الوُجُودِ اللَّانِهَائِيِّ.",
+        "en": "In the deepest samadhi, any sense of isolation completely dissolves into the boundless ocean of being."
+      },
+      "image": "assets/svg/verb_aufloesen_sich.svg"
+    },
+    {
+      "id": "verb_oszillieren_med",
+      "german": "oszillieren",
+      "arabic": "يَتَمَوَّجُ بَيْنَ حَالَاتِ الوَعْيِ المَشْهُودِ",
+      "english": "to oscillate between states of consciousness",
+      "conjugation": {
+        "praesens": "er/sie/es oszilliert",
+        "praeteritum": "oszillierte",
+        "perfekt": "hat oszilliert"
+      },
+      "preposition": "zwischen + Dat",
+      "collocations": [
+        "zwischen Wachsein und Trance oszillieren",
+        "in sanften Gehirnwellen oszillieren"
+      ],
+      "example_sentence": {
+        "de": "Das EEG zeigte, dass sein Gehirn harmonisch im Theta-Wellenbereich oszillierte.",
+        "ar": "أَظْهَرَ التَّخْطِيطُ الدِّمَاغِيُّ أَنَّ نَشَاطَهُ كَانَ يَتَمَوَّجُ بِانْسِجَامٍ فِي نِطَاقِ مَوْجَاتِ ثِيتَا.",
+        "en": "The EEG revealed that his brain was oscillating harmoniously within the theta frequency band."
+      },
+      "image": "assets/svg/verb_oszillieren_med.svg"
+    },
+    {
+      "id": "verb_resonieren",
+      "german": "resonieren",
+      "arabic": "يَتَجَاوَبُ رُوحِيًّا وَيَتَرَدَّدُ صَدَاهُ فِي الوِجْدَانِ",
+      "english": "to resonate spiritually",
+      "conjugation": {
+        "praesens": "er/sie/es resoniert",
+        "praeteritum": "resonierte",
+        "perfekt": "hat resoniert"
+      },
+      "preposition": "mit + Dat",
+      "collocations": [
+        "mit der Wahrheit tief resonieren",
+        "mit den Emotionen des Gegenübers resonieren"
+      ],
+      "example_sentence": {
+        "de": "Die Worte des Meisters resonierten so tief in ihrer Seele, dass sie zu Tränen gerührt war.",
+        "ar": "تَجَاوَبَتْ كَلِمَاتُ الحَكِيمِ بِعُمْقٍ فِي وِجْدَانِهَا حَتَّى فَاضَتْ عَيْنَاهَا بِالدُّمُوعِ.",
+        "en": "The master's words resonated so deeply within her soul that she was moved to tears."
+      },
+      "image": "assets/svg/verb_resonieren.svg"
+    },
+    {
+      "id": "verb_erwachen_med",
+      "german": "erwachen",
+      "arabic": "يَسْتَيْقِظُ رُوحِيًّا / يَصْحُو إِلَى الحَقِيقَةِ الخَالِدَةِ",
+      "english": "to awaken spiritually into enlightened awareness",
+      "conjugation": {
+        "praesens": "er/sie/es erwacht",
+        "praeteritum": "erwachte",
+        "perfekt": "ist erwacht"
+      },
+      "preposition": "aus + Dat / zu + Dat",
+      "collocations": [
+        "aus der Illusion erwachen",
+        "zu höherem Bewusstsein erwachen"
+      ],
+      "example_sentence": {
+        "de": "Nach jahrelangem Ringen erwachte der Mönch unter dem Bodhi-Baum zur Erkenntnis der absoluten Freiheit.",
+        "ar": "بَعْدَ سَنَوَاتٍ مِنَ المُجَاهَدَةِ، اسْتَيْقَظَ الرَّاهِبُ تَحْتَ شَجَرَةِ البُوذِي إِلَى إِدْرَاكِ الحُرِّيَّةِ المُطْلَقَةِ.",
+        "en": "After years of earnest seeking, the monk awakened beneath the Bodhi tree to the realization of freedom."
+      },
+      "image": "assets/svg/verb_erwachen_med.svg"
+    }
+  ]
+}

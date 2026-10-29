@@ -8745,6 +8745,172 @@
         "Plural Subjekt mit Zahlwort",
         "Genitivattribut Plural 'der drei Sprachen'"
       ]
+    },
+    {
+      "id": "sent_401",
+      "category": "meditation_silence",
+      "difficulty": "A1+",
+      "arabic": "المُتَأَمِّلُ يَسْتَغْرِقُ فِي السُّكُونِ التَّامِّ.",
+      "german": "Der Meditierende versenkt sich in vollkommene Stille.",
+      "english": "The meditator immerses himself in perfect silence.",
+      "tokens": [
+        {
+          "word": "Der Meditierende",
+          "pos": "nominalized_participle",
+          "ar": "المُتَأَمِّلُ"
+        },
+        {
+          "word": "versenkt sich",
+          "pos": "reflexive_verb",
+          "ar": "يَسْتَغْرِقُ"
+        },
+        {
+          "word": "in vollkommene Stille",
+          "pos": "preposition_phrase",
+          "ar": "فِي السُّكُونِ التَّامِّ"
+        }
+      ],
+      "grammar_points": [
+        "Substantiviertes Partizip I",
+        "Reflexives Verb 'sich versenken'",
+        "Präposition 'in' + Akkusativ Feminin mit Adjektivdeklination"
+      ]
+    },
+    {
+      "id": "sent_402",
+      "category": "listening_silence",
+      "difficulty": "A1+",
+      "arabic": "نَحْنُ نُصْغِي إِلَى صَوْتِ الصَّمْتِ بِانْتِبَاهٍ.",
+      "german": "Wir lauschen der Stimme der Stille aufmerksam.",
+      "english": "We listen attentively to the voice of silence.",
+      "tokens": [
+        {
+          "word": "Wir",
+          "pos": "pronoun",
+          "ar": "نَحْنُ"
+        },
+        {
+          "word": "lauschen",
+          "pos": "verb",
+          "ar": "نُصْغِي"
+        },
+        {
+          "word": "der Stimme",
+          "pos": "dative_noun",
+          "ar": "إِلَى صَوْتِ (حالة الجر)"
+        },
+        {
+          "word": "der Stille",
+          "pos": "genitive_noun",
+          "ar": "الصَّمْتِ"
+        },
+        {
+          "word": "aufmerksam",
+          "pos": "adverb",
+          "ar": "بِانْتِبَاهٍ"
+        }
+      ],
+      "grammar_points": [
+        "Verb 'lauschen' regiert Dativ Feminin 'der Stimme'",
+        "Genitivattribut Feminin 'der Stille'"
+      ]
+    },
+    {
+      "id": "sent_403",
+      "category": "mindfulness_light",
+      "difficulty": "A1+",
+      "arabic": "اليَقَظَةُ الذِّهْنِيَّةُ تُنِيرُ دَرْبَ الحَيَاةِ دَائِمًا.",
+      "german": "Die Achtsamkeit erhellt den Lebensweg immer.",
+      "english": "Mindfulness always illuminates the path of life.",
+      "tokens": [
+        {
+          "word": "Die Achtsamkeit",
+          "pos": "noun",
+          "ar": "اليَقَظَةُ الذِّهْنِيَّةُ"
+        },
+        {
+          "word": "erhellt",
+          "pos": "verb",
+          "ar": "تُنِيرُ"
+        },
+        {
+          "word": "den Lebensweg",
+          "pos": "noun",
+          "ar": "دَرْبَ الحَيَاةِ"
+        },
+        {
+          "word": "immer",
+          "pos": "adverb",
+          "ar": "دَائِمًا"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Feminin Nominativ",
+        "Akkusativ Maskulin mit bestimmtem Artikel 'den Lebensweg'"
+      ]
+    },
+    {
+      "id": "sent_404",
+      "category": "inner_peace_centering",
+      "difficulty": "A1+",
+      "arabic": "الإِنْسَانُ الحَكِيمُ يَتَمَرْكَزُ فِي سَلَامِهِ الدَّاخِلِيِّ.",
+      "german": "Der weise Mensch zentriert sich in seinem inneren Frieden.",
+      "english": "The wise person centers himself in his inner peace.",
+      "tokens": [
+        {
+          "word": "Der weise Mensch",
+          "pos": "noun_phrase",
+          "ar": "الإِنْسَانُ الحَكِيمُ"
+        },
+        {
+          "word": "zentriert sich",
+          "pos": "reflexive_verb",
+          "ar": "يَتَمَرْكَزُ"
+        },
+        {
+          "word": "in seinem inneren Frieden",
+          "pos": "preposition_phrase",
+          "ar": "فِي سَلَامِهِ الدَّاخِلِيِّ"
+        }
+      ],
+      "grammar_points": [
+        "Reflexives Verb 'sich zentrieren'",
+        "Präposition 'in' + Dativ Maskulin mit Possessivartikel und Adjektiv"
+      ]
+    },
+    {
+      "id": "sent_405",
+      "category": "deep_breathing",
+      "difficulty": "A1+",
+      "arabic": "التَّنَفُّسُ العَمِيقُ يُهَدِّئُ العَقْلَ وَالجَسَدَ مَعًا.",
+      "german": "Das tiefe Atmen beruhigt Geist und Körper gemeinsam.",
+      "english": "Deep breathing calms mind and body together.",
+      "tokens": [
+        {
+          "word": "Das tiefe Atmen",
+          "pos": "noun_phrase",
+          "ar": "التَّنَفُّسُ العَمِيقُ"
+        },
+        {
+          "word": "beruhigt",
+          "pos": "verb",
+          "ar": "يُهَدِّئُ"
+        },
+        {
+          "word": "Geist und Körper",
+          "pos": "compound_noun_phrase",
+          "ar": "العَقْلَ وَالجَسَدَ"
+        },
+        {
+          "word": "gemeinsam",
+          "pos": "adverb",
+          "ar": "مَعًا"
+        }
+      ],
+      "grammar_points": [
+        "Substantiviertes Verb im Nominativ Neutrum",
+        "Akkusativobjekte ohne Artikel 'Geist und Körper'"
+      ]
     }
   ]
 }

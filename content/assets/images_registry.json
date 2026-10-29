@@ -32776,5 +32776,105 @@
     "file": "assets/svg/concept_koan_zen.svg",
     "category": "eastern_philosophies",
     "alt": "concept koan zen"
+  },
+  "assets/svg/verb_zentrieren_sich.svg": {
+    "file": "assets/svg/verb_zentrieren_sich.svg",
+    "category": "c2_meditative_verbs",
+    "alt": "verb zentrieren sich"
+  },
+  "assets/svg/verb_erhellen_med.svg": {
+    "file": "assets/svg/verb_erhellen_med.svg",
+    "category": "c2_meditative_verbs",
+    "alt": "verb erhellen med"
+  },
+  "assets/svg/verb_erden_sich.svg": {
+    "file": "assets/svg/verb_erden_sich.svg",
+    "category": "c2_meditative_verbs",
+    "alt": "verb erden sich"
+  },
+  "assets/svg/verb_oszillieren_med.svg": {
+    "file": "assets/svg/verb_oszillieren_med.svg",
+    "category": "c2_meditative_verbs",
+    "alt": "verb oszillieren med"
+  },
+  "assets/svg/verb_integrieren_med.svg": {
+    "file": "assets/svg/verb_integrieren_med.svg",
+    "category": "c2_meditative_verbs",
+    "alt": "verb integrieren med"
+  },
+  "assets/svg/verb_lauschen_med.svg": {
+    "file": "assets/svg/verb_lauschen_med.svg",
+    "category": "c2_meditative_verbs",
+    "alt": "verb lauschen med"
+  },
+  "assets/svg/verb_erwachen_med.svg": {
+    "file": "assets/svg/verb_erwachen_med.svg",
+    "category": "c2_meditative_verbs",
+    "alt": "verb erwachen med"
+  },
+  "assets/svg/verb_introspektieren.svg": {
+    "file": "assets/svg/verb_introspektieren.svg",
+    "category": "c2_meditative_verbs",
+    "alt": "verb introspektieren"
+  },
+  "assets/svg/verb_fokussieren_c2_med.svg": {
+    "file": "assets/svg/verb_fokussieren_c2_med.svg",
+    "category": "c2_meditative_verbs",
+    "alt": "verb fokussieren c2 med"
+  },
+  "assets/svg/verb_aufloesen_sich.svg": {
+    "file": "assets/svg/verb_aufloesen_sich.svg",
+    "category": "c2_meditative_verbs",
+    "alt": "verb aufloesen sich"
+  },
+  "assets/svg/verb_entaeussern_sich.svg": {
+    "file": "assets/svg/verb_entaeussern_sich.svg",
+    "category": "c2_meditative_verbs",
+    "alt": "verb entaeussern sich"
+  },
+  "assets/svg/verb_meditieren.svg": {
+    "file": "assets/svg/verb_meditieren.svg",
+    "category": "c2_meditative_verbs",
+    "alt": "verb meditieren"
+  },
+  "assets/svg/verb_resonieren.svg": {
+    "file": "assets/svg/verb_resonieren.svg",
+    "category": "c2_meditative_verbs",
+    "alt": "verb resonieren"
+  },
+  "assets/svg/verb_harmonisieren_med.svg": {
+    "file": "assets/svg/verb_harmonisieren_med.svg",
+    "category": "c2_meditative_verbs",
+    "alt": "verb harmonisieren med"
+  },
+  "assets/svg/verb_entschleunigen.svg": {
+    "file": "assets/svg/verb_entschleunigen.svg",
+    "category": "c2_meditative_verbs",
+    "alt": "verb entschleunigen"
+  },
+  "assets/svg/verb_kontemplieren.svg": {
+    "file": "assets/svg/verb_kontemplieren.svg",
+    "category": "c2_meditative_verbs",
+    "alt": "verb kontemplieren"
+  },
+  "assets/svg/verb_versenken_sich.svg": {
+    "file": "assets/svg/verb_versenken_sich.svg",
+    "category": "c2_meditative_verbs",
+    "alt": "verb versenken sich"
+  },
+  "assets/svg/verb_vergegenwaertigen.svg": {
+    "file": "assets/svg/verb_vergegenwaertigen.svg",
+    "category": "c2_meditative_verbs",
+    "alt": "verb vergegenwaertigen"
+  },
+  "assets/svg/verb_transzendieren_c2_med.svg": {
+    "file": "assets/svg/verb_transzendieren_c2_med.svg",
+    "category": "c2_meditative_verbs",
+    "alt": "verb transzendieren c2 med"
+  },
+  "assets/svg/verb_gewahr_werden.svg": {
+    "file": "assets/svg/verb_gewahr_werden.svg",
+    "category": "c2_meditative_verbs",
+    "alt": "verb gewahr werden"
   }
 }
