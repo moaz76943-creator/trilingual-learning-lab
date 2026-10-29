@@ -14261,5 +14261,165 @@
     "label_de": "das komplexe adaptive System",
     "label_ar": "النِّظَامُ الْمُعَقَّدُ الْمُتَكَيِّفُ (CAS)",
     "label_en": "complex adaptive system (CAS)"
+  },
+  "svg_cpxv_oszillieren": {
+    "file": "svg_cpxv_oszillieren.svg",
+    "path": "content/assets/svg/svg_cpxv_oszillieren.svg",
+    "category": "complex_systems_verbs_b2_c1",
+    "label_de": "oszillieren",
+    "label_ar": "يَتَذَبْذَبُ دَوْرِيًّا بَيْنَ حَالَتَيْنِ أَوْ طَوْرَيْنِ",
+    "label_en": "to oscillate periodically"
+  },
+  "svg_cpxv_bifurkieren": {
+    "file": "svg_cpxv_bifurkieren.svg",
+    "path": "content/assets/svg/svg_cpxv_bifurkieren.svg",
+    "category": "complex_systems_verbs_b2_c1",
+    "label_de": "bifurkieren",
+    "label_ar": "يَتَشَعَّبُ مَسَارُ النِّظَامِ نَوْعِيًّا عِنْدَ نُقْطَةٍ حَرِجَةٍ (Bifurcation)",
+    "label_en": "to bifurcate qualitatively at critical points"
+  },
+  "svg_cpxv_synchronisieren": {
+    "file": "svg_cpxv_synchronisieren.svg",
+    "path": "content/assets/svg/svg_cpxv_synchronisieren.svg",
+    "category": "complex_systems_verbs_b2_c1",
+    "label_de": "synchronisieren",
+    "label_ar": "يَتَزَامَنُ تِلْقَائِيًّا فِي الطَّوْرِ وَالتَّرَدُّدِ",
+    "label_en": "to synchronize in phase and frequency"
+  },
+  "svg_cpxv_divergieren": {
+    "file": "svg_cpxv_divergieren.svg",
+    "path": "content/assets/svg/svg_cpxv_divergieren.svg",
+    "category": "complex_systems_verbs_b2_c1",
+    "label_de": "divergieren",
+    "label_ar": "يَتَبَاعَدُ الْمَسَارَانِ الرِّيَاضِيَّانِ أُسِّيًّا",
+    "label_en": "to diverge exponentially (Lyapunov instability)"
+  },
+  "svg_cpxv_konvergieren": {
+    "file": "svg_cpxv_konvergieren.svg",
+    "path": "content/assets/svg/svg_cpxv_konvergieren.svg",
+    "category": "complex_systems_verbs_b2_c1",
+    "label_de": "konvergieren",
+    "label_ar": "يَتَقَارَبُ نَحْوَ جَاذِبٍ أَوْ حَالَةِ اسْتِقْرَارٍ نِهَائِيَّةٍ",
+    "label_en": "to converge toward an attractor state"
+  },
+  "svg_cpxv_kippen": {
+    "file": "svg_cpxv_kippen.svg",
+    "path": "content/assets/svg/svg_cpxv_kippen.svg",
+    "category": "complex_systems_verbs_b2_c1",
+    "label_de": "kippen",
+    "label_ar": "يَنْقَلِبُ النِّظَامُ فَجْأَةً إِلَى طَوْرٍ جَدِيدٍ لَا رَجْعَةَ فِيهِ (Tipping)",
+    "label_en": "to tip abruptly across a critical threshold"
+  },
+  "svg_cpxv_rueckkoppeln": {
+    "file": "svg_cpxv_rueckkoppeln.svg",
+    "path": "content/assets/svg/svg_cpxv_rueckkoppeln.svg",
+    "category": "complex_systems_verbs_b2_c1",
+    "label_de": "rückkoppeln",
+    "label_ar": "يُغَذِّي النِّظَامَ ذَاتِيًّا بِالْمُخْرَجَاتِ (Feedback)",
+    "label_en": "to feed back into the system dynamically"
+  },
+  "svg_cpxv_adaptieren": {
+    "file": "svg_cpxv_adaptieren.svg",
+    "path": "content/assets/svg/svg_cpxv_adaptieren.svg",
+    "category": "complex_systems_verbs_b2_c1",
+    "label_de": "adaptieren",
+    "label_ar": "يَتَكَيَّفُ دِينَامِيكِيًّا مَعَ التَّحَوُّلَاتِ الْبِيئِيَّةِ",
+    "label_en": "to adapt dynamically to environmental perturbations"
+  },
+  "svg_cpxv_dissipieren": {
+    "file": "svg_cpxv_dissipieren.svg",
+    "path": "content/assets/svg/svg_cpxv_dissipieren.svg",
+    "category": "complex_systems_verbs_b2_c1",
+    "label_de": "dissipieren",
+    "label_ar": "يُبَدِّدُ الطَّاقَةَ لِلْحِفَاظِ عَلَى بِنْيَتِهِ الْمُنَظَّمَةِ (Prigogine)",
+    "label_en": "to dissipate energy to sustain self-organized order"
+  },
+  "svg_cpxv_fluktuieren": {
+    "file": "svg_cpxv_fluktuieren.svg",
+    "path": "content/assets/svg/svg_cpxv_fluktuieren.svg",
+    "category": "complex_systems_verbs_b2_c1",
+    "label_de": "fluktuieren",
+    "label_ar": "يَتَمَوَّجُ وَيَتَقَلَّبُ حَوْلَ نُقْطَةِ التَّوَازُنِ",
+    "label_en": "to fluctuate around equilibrium points"
+  },
+  "svg_cpxv_perturbieren": {
+    "file": "svg_cpxv_perturbieren.svg",
+    "path": "content/assets/svg/svg_cpxv_perturbieren.svg",
+    "category": "complex_systems_verbs_b2_c1",
+    "label_de": "perturbieren",
+    "label_ar": "يُحْدِثُ اضْطِرَاباً مَوْضِعِيًّا مُفَاجِئاً فِي النِّظَامِ",
+    "label_en": "to perturb systemic equilibrium"
+  },
+  "svg_cpxv_stabilisieren": {
+    "file": "svg_cpxv_stabilisieren.svg",
+    "path": "content/assets/svg/svg_cpxv_stabilisieren.svg",
+    "category": "complex_systems_verbs_b2_c1",
+    "label_de": "stabilisieren",
+    "label_ar": "يُحَقِّقُ الاسْتِقْرَارَ عَبْرَ آخِرِيَّاتِ التَّحَكُّمِ السَّلْبِيَّةِ",
+    "label_en": "to stabilize through negative feedback loops"
+  },
+  "svg_cpxv_destabilisieren": {
+    "file": "svg_cpxv_destabilisieren.svg",
+    "path": "content/assets/svg/svg_cpxv_destabilisieren.svg",
+    "category": "complex_systems_verbs_b2_c1",
+    "label_de": "destabilisieren",
+    "label_ar": "يُزَعْزِعُ اسْتِقْرَارَ النِّظَامِ وَيَدْفَعُهُ نَحْوَ حَافَّةِ الشَّوَّاشِ",
+    "label_en": "to destabilize toward the edge of chaos"
+  },
+  "svg_cpxv_interagieren": {
+    "file": "svg_cpxv_interagieren.svg",
+    "path": "content/assets/svg/svg_cpxv_interagieren.svg",
+    "category": "complex_systems_verbs_b2_c1",
+    "label_de": "interagieren",
+    "label_ar": "تَتَفَاعَلُ الْمُكَوِّنَاتُ لَاخَطِّيًّا لِتَوْلِيدِ السُّلُوكِ الْمُنْبَثِقِ",
+    "label_en": "to interact nonlinearly to generate emergent behavior"
+  },
+  "svg_cpxv_fraktalisieren": {
+    "file": "svg_cpxv_fraktalisieren.svg",
+    "path": "content/assets/svg/svg_cpxv_fraktalisieren.svg",
+    "category": "complex_systems_verbs_b2_c1",
+    "label_de": "fraktalisieren",
+    "label_ar": "يَتَفَرَّعُ كُسَيْرِيًّا بِتَشَابُهٍ ذَاتِيٍّ عَبْرَ الأَبْعَادِ",
+    "label_en": "to fractalize into self-similar branches"
+  },
+  "svg_cpxv_kristallisieren": {
+    "file": "svg_cpxv_kristallisieren.svg",
+    "path": "content/assets/svg/svg_cpxv_kristallisieren.svg",
+    "category": "complex_systems_verbs_b2_c1",
+    "label_de": "kristallisieren",
+    "label_ar": "يَتَبَلْوَرُ نِظَامٌ شَامِلٌ جَدِيدٌ مِنَ الْفَوْضَى",
+    "label_en": "to crystallize spontaneous order from chaos"
+  },
+  "svg_cpxv_daempfen": {
+    "file": "svg_cpxv_daempfen.svg",
+    "path": "content/assets/svg/svg_cpxv_daempfen.svg",
+    "category": "complex_systems_verbs_b2_c1",
+    "label_de": "dämpfen",
+    "label_ar": "يُخْمِدُ التَّذَبْذُبَاتِ الْحَادَّةَ لِمَنْعِ الِانْهِيَارِ",
+    "label_en": "to damp oscillations to avert systemic collapse"
+  },
+  "svg_cpxv_amplifizieren": {
+    "file": "svg_cpxv_amplifizieren.svg",
+    "path": "content/assets/svg/svg_cpxv_amplifizieren.svg",
+    "category": "complex_systems_verbs_b2_c1",
+    "label_de": "amplifizieren",
+    "label_ar": "يُضَخِّمُ التَّقَلُّبَاتِ الصَّغِيرَةَ عَبْرَ الرَّنِينِ الْمُوجَبِ",
+    "label_en": "to amplify microscopic fluctuations nonlinearly"
+  },
+  "svg_cpxv_transformieren": {
+    "file": "svg_cpxv_transformieren.svg",
+    "path": "content/assets/svg/svg_cpxv_transformieren.svg",
+    "category": "complex_systems_verbs_b2_c1",
+    "label_de": "transformieren",
+    "label_ar": "يَتَحَوَّلُ طَوْرِيًّا إِلَى بِنْيَةٍ نِظَامِيَّةٍ نَوْعِيَّةٍ جَدِيدَةٍ",
+    "label_en": "to transform into a new regime or state space"
+  },
+  "svg_cpxv_koexistieren": {
+    "file": "svg_cpxv_koexistieren.svg",
+    "path": "content/assets/svg/svg_cpxv_koexistieren.svg",
+    "category": "complex_systems_verbs_b2_c1",
+    "label_de": "koexistieren",
+    "label_ar": "يَتَعَايَشُ فِي تَنَاغُمٍ دِينَامِيكِيٍّ مَعَ أَنْظِمَةٍ مُتَنَافِسَةٍ",
+    "label_en": "to coexist in dynamic multispecies equilibrium"
   }
 }

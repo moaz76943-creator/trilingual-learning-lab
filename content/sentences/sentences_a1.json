@@ -1,5 +1,5 @@
 {
-  "count": 310,
+  "count": 315,
   "sentences": [
     {
       "id": "sent_001",
@@ -5822,6 +5822,123 @@
         "entfalten."
       ],
       "grammar_point": "Verb 'balancieren' with locative idiom 'am Rande + Gen' and final infinitive clause 'um ... zu entfalten' in milestone 310"
+    },
+    {
+      "id": "sent_311",
+      "category": "Complex Systems & Dynamics",
+      "german": "In der Nähe kritischer Schwellenwerte fluktuieren physikalische Messgrößen extrem bevor das System in einen neuen Zustand kippt.",
+      "arabic": "تَتَمَوَّجُ قِيَمُ الْقِيَاسِ الْفِيزْيَائِيَّةِ بِشِدَّةٍ عَلَى مَقْرُبَةٍ مِنَ الْعَتَبَاتِ الْحَرِجَةِ قَبْلَ أَنْ يَنْقَلِبَ النِّظَامُ إِلَى حَالَةٍ جَدِيدَةٍ.",
+      "english": "In the vicinity of critical thresholds, physical metrics fluctuate extremely before the system tips into a new state.",
+      "tokens": [
+        "In",
+        "der",
+        "Nähe",
+        "kritischer",
+        "Schwellenwerte",
+        "fluktuieren",
+        "physikalische",
+        "Messgrößen",
+        "extrem",
+        "bevor",
+        "das",
+        "System",
+        "in",
+        "einen",
+        "neuen",
+        "Zustand",
+        "kippt."
+      ],
+      "grammar_point": "Verb 'fluktuieren' with temporal subclause 'bevor' and directional prepositional phrase 'in + Akk'"
+    },
+    {
+      "id": "sent_312",
+      "category": "Complex Systems & Dynamics",
+      "german": "Nichtlineare Systeme bifurkieren sprunghaft sobald Kontrollparameter selbst minimale Veränderungen erfahren.",
+      "arabic": "تَتَشَعَّبُ الأَنْظِمَةُ اللَّاخَطِّيَّةُ طَفْرِيًّا بِمُجَرَّدِ أَنْ تَطْرَأَ عَلَى مُعَامِلَاتِ التَّحَكُّمِ أَدْنَى التَّغَيُّرَاتِ.",
+      "english": "Nonlinear systems bifurcate abruptly as soon as control parameters undergo even minimal changes.",
+      "tokens": [
+        "Nichtlineare",
+        "Systeme",
+        "bifurkieren",
+        "sprunghaft",
+        "sobald",
+        "Kontrollparameter",
+        "selbst",
+        "minimale",
+        "Veränderungen",
+        "erfahren."
+      ],
+      "grammar_point": "Intransitive verb 'bifurkieren' combined with temporal subclause introduced by 'sobald'"
+    },
+    {
+      "id": "sent_313",
+      "category": "Complex Systems & Dynamics",
+      "german": "Tausende gekoppelte Oszillatoren synchronisieren sich spontan ohne dass ein zentraler Taktgeber erforderlich wäre.",
+      "arabic": "تَتَزَامَنُ آلَافُ الْمُتَذَبْذِبَاتِ الْمُقْتَرِنَةِ تِلْقَائِيًّا دُونَ أَنْ تَكُونَ هُنَاكَ حَاجَةٌ لِمُوَلِّدِ إِيقَاعٍ مَرْكَزِيٍّ.",
+      "english": "Thousands of coupled oscillators synchronize spontaneously without requiring a central master clock.",
+      "tokens": [
+        "Tausende",
+        "gekoppelte",
+        "Oszillatoren",
+        "synchronisieren",
+        "sich",
+        "spontan",
+        "ohne",
+        "dass",
+        "ein",
+        "zentraler",
+        "Taktgeber",
+        "erforderlich",
+        "wäre."
+      ],
+      "grammar_point": "Reflexive verb 'sich synchronisieren' with modal negative subclause 'ohne dass' in Konjunktiv II"
+    },
+    {
+      "id": "sent_314",
+      "category": "Complex Systems & Dynamics",
+      "german": "Dissipative Strukturen dissipieren kontinuierlich Energie um ihre innere Ordnung fernab des thermodynamischen Gleichgewichts aufrechtzuerhalten.",
+      "arabic": "تُبَدِّدُ الْبِنَى الْمُبَدِّدَةُ الطَّاقَةَ بِاسْتِمْرَارٍ لِلْحِفَاظِ عَلَى نِظَامِهَا الدَّاخِلِيِّ بَعِيدًا عَنِ التَّوَازُنِ الدِّينَامِيكِيِّ الْحَرَارِيِّ.",
+      "english": "Dissipative structures continuously dissipate energy to sustain their internal order far from thermodynamic equilibrium.",
+      "tokens": [
+        "Dissipative",
+        "Strukturen",
+        "dissipieren",
+        "kontinuierlich",
+        "Energie",
+        "um",
+        "ihre",
+        "innere",
+        "Ordnung",
+        "fernab",
+        "des",
+        "thermodynamischen",
+        "Gleichgewichts",
+        "aufrechtzuerhalten."
+      ],
+      "grammar_point": "Transitive verb 'dissipieren' with final infinitive construction 'um ... aufrechtzuerhalten' and genitive preposition 'fernab + Gen'"
+    },
+    {
+      "id": "sent_315",
+      "category": "Complex Systems & Dynamics",
+      "german": "Negative Rückkopplungsschleifen dämpfen unkontrollierte Ausschläge wirksam und stabilisieren komplexe Netzwerke gegen äußere Perturbationen.",
+      "arabic": "تُخْمِدُ حَلَقَاتُ التَّغْذِيَةِ الرَّاجِعَةِ السَّلْبِيَّةِ التَّقَلُّبَاتِ غَيْرَ الْمُنْضَبِطَةِ بِفَاعِلِيَّةٍ وَتُثَبِّتُ الشَّبَكَاتِ الْمُعَقَّدَةَ ضِدَّ الِاضْطِرَابَاتِ الْخَارِجِيَّةِ.",
+      "english": "Negative feedback loops effectively damp uncontrolled oscillations and stabilize complex networks against external perturbations.",
+      "tokens": [
+        "Negative",
+        "Rückkopplungsschleifen",
+        "dämpfen",
+        "unkontrollierte",
+        "Ausschläge",
+        "wirksam",
+        "und",
+        "stabilisieren",
+        "komplexe",
+        "Netzwerke",
+        "gegen",
+        "äußere",
+        "Perturbationen."
+      ],
+      "grammar_point": "Coordinated compound verbs with accusative plural objects and prepositional complement 'gegen + Akk' in milestone 315"
     }
   ]
 }

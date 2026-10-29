@@ -1,0 +1,370 @@
+{
+  "engine_id": "complex_systems_verbs_b2_c1",
+  "title_ar": "أفعال النظم المعقدة والديناميكا اللاخطية واستشراف الطفرات",
+  "title_de": "Verben komplexer Systeme, Nichtlinearität und Systemdynamik (B2/C1)",
+  "title_en": "Complex Systems, Nonlinear Dynamics & Critical Transition Verbs (B2/C1)",
+  "level": "B2/C1",
+  "count": 20,
+  "verbs": [
+    {
+      "id": "cpxv_01",
+      "infinitive": "oszillieren",
+      "translation_ar": "يَتَذَبْذَبُ دَوْرِيًّا بَيْنَ حَالَتَيْنِ أَوْ طَوْرَيْنِ",
+      "translation_en": "to oscillate periodically",
+      "construction": "oszillieren zwischen + Dat",
+      "present_third": "oszilliert",
+      "preterite_third": "oszillierte",
+      "perfect_third": "hat oszilliert",
+      "svg_id": "svg_cpxv_oszillieren",
+      "examples": [
+        {
+          "de": "Räuber-Beute-Populationen oszillieren in stabilen Zyklen um ein dynamisches Gleichgewicht.",
+          "ar": "تتذبذب مجتمعات المفترس والفريسة في دورات مستقرة حول توازن ديناميكي.",
+          "en": "Predator-prey populations oscillate in stable cycles around a dynamic equilibrium."
+        }
+      ]
+    },
+    {
+      "id": "cpxv_02",
+      "infinitive": "bifurkieren",
+      "translation_ar": "يَتَشَعَّبُ مَسَارُ النِّظَامِ نَوْعِيًّا عِنْدَ نُقْطَةٍ حَرِجَةٍ (Bifurcation)",
+      "translation_en": "to bifurcate qualitatively at critical points",
+      "construction": "intransitiv (das Lösungsmuster bifurkiert)",
+      "present_third": "bifurkiert",
+      "preterite_third": "bifurkierte",
+      "perfect_third": "ist bifurkiert",
+      "svg_id": "svg_cpxv_bifurkieren",
+      "examples": [
+        {
+          "de": "Sobald die Wärmezufuhr den Schwellenwert übersteigt, bifurkiert das Konvektionsmuster in turbulente Rollen.",
+          "ar": "بمجرد تجاوز الإمداد الحراري القيمة الحرجة، يتشعب نمط الحمل الحراري إلى دوامات مضطربة.",
+          "en": "As soon as heat influx exceeds the threshold, the convection pattern bifurcates into turbulent rolls."
+        }
+      ]
+    },
+    {
+      "id": "cpxv_03",
+      "infinitive": "synchronisieren",
+      "translation_ar": "يَتَزَامَنُ تِلْقَائِيًّا فِي الطَّوْرِ وَالتَّرَدُّدِ",
+      "translation_en": "to synchronize in phase and frequency",
+      "construction": "sich synchronisieren mit + Dat",
+      "present_third": "synchronisiert sich",
+      "preterite_third": "synchronisierte sich",
+      "perfect_third": "hat sich synchronisiert",
+      "svg_id": "svg_cpxv_synchronisieren",
+      "examples": [
+        {
+          "de": "Gekoppelte Herzmuskelzellen synchronisieren ihr Feuern zu einem perfekten gemeinsamen Rhythmus.",
+          "ar": "تتزامن خلايا عضلة القلب المقترنة في نبضها مشكلة إيقاعاً مشتركاً متكاملاً.",
+          "en": "Coupled pacemaker cells synchronize their firing into a perfect collective rhythm."
+        }
+      ]
+    },
+    {
+      "id": "cpxv_04",
+      "infinitive": "divergieren",
+      "translation_ar": "يَتَبَاعَدُ الْمَسَارَانِ الرِّيَاضِيَّانِ أُسِّيًّا",
+      "translation_en": "to diverge exponentially (Lyapunov instability)",
+      "construction": "divergieren von + Dat",
+      "present_third": "divergiert",
+      "preterite_third": "divergierte",
+      "perfect_third": "ist divergiert",
+      "svg_id": "svg_cpxv_divergieren",
+      "examples": [
+        {
+          "de": "Im deterministischen Chaos divergieren benachbarte Trajektorien exponentiell voneinander.",
+          "ar": "في الشواش الحتمي تتباعد المسارات المتجاورة أسياً عن بعضها البعض.",
+          "en": "In deterministic chaos, neighboring trajectories diverge exponentially from one another."
+        }
+      ]
+    },
+    {
+      "id": "cpxv_05",
+      "infinitive": "konvergieren",
+      "translation_ar": "يَتَقَارَبُ نَحْوَ جَاذِبٍ أَوْ حَالَةِ اسْتِقْرَارٍ نِهَائِيَّةٍ",
+      "translation_en": "to converge toward an attractor state",
+      "construction": "konvergieren gegen + Akk",
+      "present_third": "konvergiert",
+      "preterite_third": "konvergierte",
+      "perfect_third": "ist konvergiert",
+      "svg_id": "svg_cpxv_konvergieren",
+      "examples": [
+        {
+          "de": "Ungeachtet zufälliger Störungen konvergiert das dynamische System gegen seinen stabilen Fixpunkt.",
+          "ar": "بصرف النظر عن الاضطرابات العفوية يتقارب النظام الديناميكي نحو نقطة استقراره الثابتة.",
+          "en": "Irrespective of random disturbances, the dynamical system converges toward its stable fixed point."
+        }
+      ]
+    },
+    {
+      "id": "cpxv_06",
+      "infinitive": "kippen",
+      "translation_ar": "يَنْقَلِبُ النِّظَامُ فَجْأَةً إِلَى طَوْرٍ جَدِيدٍ لَا رَجْعَةَ فِيهِ (Tipping)",
+      "translation_en": "to tip abruptly across a critical threshold",
+      "construction": "kippen in + Akk",
+      "present_third": "kippt",
+      "preterite_third": "kippte",
+      "perfect_third": "ist gekippt",
+      "svg_id": "svg_cpxv_kippen",
+      "examples": [
+        {
+          "de": "Wissenschaftler warnen, dass das atlantische Strömungssystem bei weiterer Erwärmung unumkehrbar kippen könnte.",
+          "ar": "يحذر العلماء من أن تيار المحيط الأطلسي قد ينقلب بشكل لا رجعة فيه عند استمرار الاحترار.",
+          "en": "Scientists warn that the Atlantic current system could irreversibly tip under further warming."
+        }
+      ]
+    },
+    {
+      "id": "cpxv_07",
+      "infinitive": "rückkoppeln",
+      "translation_ar": "يُغَذِّي النِّظَامَ ذَاتِيًّا بِالْمُخْرَجَاتِ (Feedback)",
+      "translation_en": "to feed back into the system dynamically",
+      "construction": "rückkoppeln auf + Akk",
+      "present_third": "koppelt rück",
+      "preterite_third": "koppelte rück",
+      "perfect_third": "hat rückgekoppelt",
+      "svg_id": "svg_cpxv_rueckkoppeln",
+      "examples": [
+        {
+          "de": "Schmelzendes Polareis koppelt positiv auf die globale Erwärmung zurück, indem es die Albedo senkt.",
+          "ar": "يغذي ذوبان الجليد القطبي الاحترار العالمي بتغذية راجعة إيجابية من خلال خفض الانعكاسية.",
+          "en": "Melting polar ice feeds back positively into global warming by lowering planetary albedo."
+        }
+      ]
+    },
+    {
+      "id": "cpxv_08",
+      "infinitive": "adaptieren",
+      "translation_ar": "يَتَكَيَّفُ دِينَامِيكِيًّا مَعَ التَّحَوُّلَاتِ الْبِيئِيَّةِ",
+      "translation_en": "to adapt dynamically to environmental perturbations",
+      "construction": "sich adaptieren an + Akk",
+      "present_third": "adaptiert sich",
+      "preterite_third": "adaptierte sich",
+      "perfect_third": "hat sich adaptiert",
+      "svg_id": "svg_cpxv_adaptieren",
+      "examples": [
+        {
+          "de": "Komplexe adaptive Netzwerke adaptieren sich kontinuierlich an fluktuierende Marktbedingungen.",
+          "ar": "تتكيف الشبكات المعقدة التكيفية باستمرار مع ظروف السوق المتقلبة.",
+          "en": "Complex adaptive networks continuously adapt to fluctuating market conditions."
+        }
+      ]
+    },
+    {
+      "id": "cpxv_09",
+      "infinitive": "dissipieren",
+      "translation_ar": "يُبَدِّدُ الطَّاقَةَ لِلْحِفَاظِ عَلَى بِنْيَتِهِ الْمُنَظَّمَةِ (Prigogine)",
+      "translation_en": "to dissipate energy to sustain self-organized order",
+      "construction": "transitiv (Energie in Wärme dissipieren)",
+      "present_third": "dissipiert",
+      "preterite_third": "dissipierte",
+      "perfect_third": "hat dissipiert",
+      "svg_id": "svg_cpxv_dissipieren",
+      "examples": [
+        {
+          "de": "Offene thermodynamische Strukturen dissipieren ständig Entropie in die Umwelt, um Ordnung zu wahren.",
+          "ar": "تبدد الهياكل الديناميكية الحرارية المفتوحة الإنتروبيا باستمرار في البيئة للحفاظ على انتظامها.",
+          "en": "Open thermodynamic structures constantly dissipate entropy into the environment to maintain order."
+        }
+      ]
+    },
+    {
+      "id": "cpxv_10",
+      "infinitive": "fluktuieren",
+      "translation_ar": "يَتَمَوَّجُ وَيَتَقَلَّبُ حَوْلَ نُقْطَةِ التَّوَازُنِ",
+      "translation_en": "to fluctuate around equilibrium points",
+      "construction": "fluktuieren um + Akk",
+      "present_third": "fluktuiert",
+      "preterite_third": "fluktuierte",
+      "perfect_third": "hat fluktuiert",
+      "svg_id": "svg_cpxv_fluktuieren",
+      "examples": [
+        {
+          "de": "Finanzmärkte fluktuieren stochastisch, bevor kollektive Panikverkäufe einsetzen.",
+          "ar": "تتقلب الأسواق المالية عشوائياً قبل أن تبدأ موجات البيع المذعورة الجماعية.",
+          "en": "Financial markets fluctuate stochastically before collective panic selling sets in."
+        }
+      ]
+    },
+    {
+      "id": "cpxv_11",
+      "infinitive": "perturbieren",
+      "translation_ar": "يُحْدِثُ اضْطِرَاباً مَوْضِعِيًّا مُفَاجِئاً فِي النِّظَامِ",
+      "translation_en": "to perturb systemic equilibrium",
+      "construction": "transitiv (ein dynamisches Gleichgewicht perturbieren)",
+      "present_third": "perturbiert",
+      "preterite_third": "perturbierte",
+      "perfect_third": "hat perturbiert",
+      "svg_id": "svg_cpxv_perturbieren",
+      "examples": [
+        {
+          "de": "Plötzliche Zinsanhebungen perturbieren das Kreditnetzwerk und testen dessen Resilienz.",
+          "ar": "تربك الزيادات المفاجئة في أسعار الفائدة شبكة الائتمان وتختبر مرونتها.",
+          "en": "Sudden interest rate hikes perturb the credit network and test its resilience."
+        }
+      ]
+    },
+    {
+      "id": "cpxv_12",
+      "infinitive": "stabilisieren",
+      "translation_ar": "يُحَقِّقُ الاسْتِقْرَارَ عَبْرَ آخِرِيَّاتِ التَّحَكُّمِ السَّلْبِيَّةِ",
+      "translation_en": "to stabilize through negative feedback loops",
+      "construction": "transitiv / sich stabilisieren",
+      "present_third": "stabilisiert",
+      "preterite_third": "stabilisierte",
+      "perfect_third": "hat stabilisiert",
+      "svg_id": "svg_cpxv_stabilisieren",
+      "examples": [
+        {
+          "de": "Homöostatische Steuerkreise stabilisieren die interne Körpertemperatur gegen extreme Kälte.",
+          "ar": "تثبت دوائر التحكم التوازني درجة حرارة الجسم الداخلية في مواجهة البرد القارس.",
+          "en": "Homeostatic control loops stabilize internal body temperature against extreme cold."
+        }
+      ]
+    },
+    {
+      "id": "cpxv_13",
+      "infinitive": "destabilisieren",
+      "translation_ar": "يُزَعْزِعُ اسْتِقْرَارَ النِّظَامِ وَيَدْفَعُهُ نَحْوَ حَافَّةِ الشَّوَّاشِ",
+      "translation_en": "to destabilize toward the edge of chaos",
+      "construction": "transitiv",
+      "present_third": "destabilisiert",
+      "preterite_third": "destabilisierte",
+      "perfect_third": "hat destabilisiert",
+      "svg_id": "svg_cpxv_destabilisieren",
+      "examples": [
+        {
+          "de": "Übermäßige Rückkopplungen destabilisieren hochkomplexe Versorgungsnetze dramatisch.",
+          "ar": "تزعزع التغذية الراجعة المفرطة استقرار شبكات الإمداد المعقدة بشكل كبير.",
+          "en": "Excessive feedback loops dramatically destabilize highly complex supply grids."
+        }
+      ]
+    },
+    {
+      "id": "cpxv_14",
+      "infinitive": "interagieren",
+      "translation_ar": "تَتَفَاعَلُ الْمُكَوِّنَاتُ لَاخَطِّيًّا لِتَوْلِيدِ السُّلُوكِ الْمُنْبَثِقِ",
+      "translation_en": "to interact nonlinearly to generate emergent behavior",
+      "construction": "interagieren mit + Dat",
+      "present_third": "interagiert",
+      "preterite_third": "interagierte",
+      "perfect_third": "hat interagiert",
+      "svg_id": "svg_cpxv_interagieren",
+      "examples": [
+        {
+          "de": "Millionen Neuronen interagieren lokal, woraus Bewusstsein als globales Phänomen entsteht.",
+          "ar": "تتفاعل ملايين الخلايا العصبية محلياً، لينبثق من ذلك الوعي كظاهرة شمولية.",
+          "en": "Millions of neurons interact locally, out of which consciousness emerges as a global phenomenon."
+        }
+      ]
+    },
+    {
+      "id": "cpxv_15",
+      "infinitive": "fraktalisieren",
+      "translation_ar": "يَتَفَرَّعُ كُسَيْرِيًّا بِتَشَابُهٍ ذَاتِيٍّ عَبْرَ الأَبْعَادِ",
+      "translation_en": "to fractalize into self-similar branches",
+      "construction": "sich fraktalisieren",
+      "present_third": "fraktalisiert sich",
+      "preterite_third": "fraktalisierte sich",
+      "perfect_third": "hat sich fraktalisiert",
+      "svg_id": "svg_cpxv_fraktalisieren",
+      "examples": [
+        {
+          "de": "Blitzentladungen und Flussläufe fraktalisieren sich in faszinierende selbstähnliche Geometrien.",
+          "ar": "تتفرع تفريغات البرق ومجاري الأنهار في أشكال هندسية كسيرية ذاتية التشابه ومبهرة.",
+          "en": "Lightning discharges and river courses fractalize into fascinating self-similar geometries."
+        }
+      ]
+    },
+    {
+      "id": "cpxv_16",
+      "infinitive": "kristallisieren",
+      "translation_ar": "يَتَبَلْوَرُ نِظَامٌ شَامِلٌ جَدِيدٌ مِنَ الْفَوْضَى",
+      "translation_en": "to crystallize spontaneous order from chaos",
+      "construction": "sich kristallisieren aus + Dat",
+      "present_third": "kristallisiert sich",
+      "preterite_third": "kristallisierte sich",
+      "perfect_third": "hat sich kristallisiert",
+      "svg_id": "svg_cpxv_kristallisieren",
+      "examples": [
+        {
+          "de": "Aus anfänglicher Unordnung kristallisiert sich rasch eine stabile soziologische Hierarchie heraus.",
+          "ar": "يتبلور تسلسل هرمي سوسيولوجي مستقر بسرعة من الفوضى الأولية.",
+          "en": "Out of initial disorder, a stable sociological hierarchy rapidly crystallizes."
+        }
+      ]
+    },
+    {
+      "id": "cpxv_17",
+      "infinitive": "dämpfen",
+      "translation_ar": "يُخْمِدُ التَّذَبْذُبَاتِ الْحَادَّةَ لِمَنْعِ الِانْهِيَارِ",
+      "translation_en": "to damp oscillations to avert systemic collapse",
+      "construction": "transitiv (Resonanzen dämpfen)",
+      "present_third": "dämpft",
+      "preterite_third": "dämpfte",
+      "perfect_third": "hat gedämpft",
+      "svg_id": "svg_cpxv_daempfen",
+      "examples": [
+        {
+          "de": "Schwingungsdämpfer im Wolkenkratzer dämpfen seismische Wellen bei schweren Erdbeben.",
+          "ar": "تخمد مخمدات الاهتزاز في ناطحة السحاب الموجات الزلزالية عند حدوث هزات أرضية عنيفة.",
+          "en": "Tuned mass dampers in skyscrapers damp seismic waves during severe earthquakes."
+        }
+      ]
+    },
+    {
+      "id": "cpxv_18",
+      "infinitive": "amplifizieren",
+      "translation_ar": "يُضَخِّمُ التَّقَلُّبَاتِ الصَّغِيرَةَ عَبْرَ الرَّنِينِ الْمُوجَبِ",
+      "translation_en": "to amplify microscopic fluctuations nonlinearly",
+      "construction": "transitiv",
+      "present_third": "amplifiziert",
+      "preterite_third": "amplifizierte",
+      "perfect_third": "hat amplifiziert",
+      "svg_id": "svg_cpxv_amplifizieren",
+      "examples": [
+        {
+          "de": "Herdenverhalten an den Börsen amplifiziert anfänglich unbedeutende Kursschwankungen zu schweren Crashs.",
+          "ar": "يضخم سلوك القطيع في البورصات تقلبات الأسعار الطفيفة الأولية محولاً إياها إلى انهيارات حادة.",
+          "en": "Herd behavior on stock exchanges amplifies initially minor price fluctuations into severe crashes."
+        }
+      ]
+    },
+    {
+      "id": "cpxv_19",
+      "infinitive": "transformieren",
+      "translation_ar": "يَتَحَوَّلُ طَوْرِيًّا إِلَى بِنْيَةٍ نِظَامِيَّةٍ نَوْعِيَّةٍ جَدِيدَةٍ",
+      "translation_en": "to transform into a new regime or state space",
+      "construction": "transformieren + Akk + in + Akk",
+      "present_third": "transformiert",
+      "preterite_third": "transformierte",
+      "perfect_third": "hat transformiert",
+      "svg_id": "svg_cpxv_transformieren",
+      "examples": [
+        {
+          "de": "Technologische Disruptionen transformieren ganze Wirtschaftsbranchen innerhalb kürzester Zeit.",
+          "ar": "تحول الطفرات التكنولوجية قطاعات اقتصادية بأكملها خلال فترات زمنية وجيزة.",
+          "en": "Technological disruptions transform entire economic sectors within very short timeframes."
+        }
+      ]
+    },
+    {
+      "id": "cpxv_20",
+      "infinitive": "koexistieren",
+      "translation_ar": "يَتَعَايَشُ فِي تَنَاغُمٍ دِينَامِيكِيٍّ مَعَ أَنْظِمَةٍ مُتَنَافِسَةٍ",
+      "translation_en": "to coexist in dynamic multispecies equilibrium",
+      "construction": "koexistieren mit + Dat",
+      "present_third": "koexistiert",
+      "preterite_third": "koexistierte",
+      "perfect_third": "hat koexistiert",
+      "svg_id": "svg_cpxv_koexistieren",
+      "examples": [
+        {
+          "de": "In intakten Regenwäldern koexistieren zehntausende Arten in verflochtenen ökologischen Nischen.",
+          "ar": "تتعايش عشرات آلاف الأنواع في الغابات المطيرة السليمة داخل موائل بيئية شديدة التشابك.",
+          "en": "In intact rainforests, tens of thousands of species coexist in intertwined ecological niches."
+        }
+      ]
+    }
+  ]
+}
