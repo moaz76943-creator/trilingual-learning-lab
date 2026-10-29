@@ -1,0 +1,336 @@
+{
+  "category_id": "meta_ethics_c1",
+  "category_title": {
+    "ar": "الأخلاقيات الفوقية ونظرية المعرفة الأخلاقية والمحاكمة المعيارية",
+    "de": "Metaethik, moralische Epistemologie und normative Urteilskraft",
+    "en": "Meta-Ethics, Moral Epistemology & Normative Deliberation"
+  },
+  "level": "C1",
+  "items": [
+    {
+      "id": "concept_metaethik",
+      "german": "die Metaethik",
+      "plural": "die Metaethiken",
+      "arabic": "الأَخْلَاقِيَّاتُ الفَوْقِيَّةُ (المِيتَاأَخْلَاق)",
+      "english": "meta-ethics",
+      "example_sentence": {
+        "de": "Die Metaethik untersucht nicht, was gut ist, sondern was es überhaupt bedeutet, ein Urteil als 'gut' zu bezeichnen.",
+        "ar": "لَا تَبْحَثُ الأَخْلَاقِيَّاتُ الفَوْقِيَّةُ فِيمَا هُوَ خَيْرٌ، بَلْ فِي مَعْنَى وَصْفِ حُكْمٍ مَّا بِأَنَّهُ 'خَيْرٌ' مِنْ حَيْثُ الأَصْلُ.",
+        "en": "Meta-ethics examines not what is good, but what it fundamentally means to predicate an evaluation as 'good'."
+      },
+      "image": "assets/svg/concept_metaethik.svg"
+    },
+    {
+      "id": "concept_moralischer_realismus",
+      "german": "der moralische Realismus",
+      "plural": "die moralischen Realismen",
+      "arabic": "الوَاقِعِيَّةُ الأَخْلَاقِيَّةُ",
+      "english": "moral realism",
+      "example_sentence": {
+        "de": "Der moralische Realismus postuliert, dass moralische Tatsachen unabhängig von menschlichen Überzeugungen existieren.",
+        "ar": "تَفْتَرِضُ الوَاقِعِيَّةُ الأَخْلَاقِيَّةُ أَنَّ الحَقَائِقَ الأَخْلَاقِيَّةَ مَوْجُودَةٌ بِاسْتِقْلَالٍ عَنِ القَنَاعَاتِ البَشَرِيَّةِ.",
+        "en": "Moral realism posits that moral facts exist objectively independent of human beliefs."
+      },
+      "image": "assets/svg/concept_moralischer_realismus.svg"
+    },
+    {
+      "id": "concept_ethischer_intuitionismus",
+      "german": "der ethische Intuitionismus",
+      "plural": "die ethischen Intuitionismen",
+      "arabic": "الحَدْسِيَّةُ الأَخْلَاقِيَّةُ",
+      "english": "ethical intuitionism",
+      "example_sentence": {
+        "de": "Laut ethischem Intuitionismus sind fundamentale moralische Wahrheiten unmittelbar einsichtig und bedürfen keines empirischen Beweises.",
+        "ar": "وَفْقًا لِلحَدْسِيَّةِ الأَخْلَاقِيَّةِ، فَإِنَّ الحَقَائِقَ الأَخْلَاقِيَّةَ الجَوْهَرِيَّةَ بَدِيهِيَّةٌ مُبَاشَرَةً وَلَا تَحْتَاجُ إِلَى بُرْهَانٍ تَجْرِيبِيٍّ.",
+        "en": "According to ethical intuitionism, foundational moral truths are self-evident and require no empirical deduction."
+      },
+      "image": "assets/svg/concept_ethischer_intuitionismus.svg"
+    },
+    {
+      "id": "concept_kognitivismus",
+      "german": "der Kognitivismus",
+      "plural": "die Kognitivismen",
+      "arabic": "الإِدْرَاكِيَّةُ المَعْرِفِيَّةُ الأَخْلَاقِيَّةُ",
+      "english": "moral cognitivism",
+      "example_sentence": {
+        "de": "Der Kognitivismus besagt, dass moralische Sätze wahrheitswertfähig sind und Propositionen ausdrücken.",
+        "ar": "تَنُصُّ الإِدْرَاكِيَّةُ المَعْرِفِيَّةُ عَلَى أَنَّ الجُمَلَ الأَخْلَاقِيَّةَ قَابِلَةٌ لِأَنْ تَكُونَ صَادِقَةً أَوْ كَاذِبَةً وَتُعَبِّرُ عَنْ قَضَايَا مَعْرِفِيَّةٍ.",
+        "en": "Moral cognitivism holds that ethical sentences are truth-apt and express epistemically evaluable propositions."
+      },
+      "image": "assets/svg/concept_kognitivismus.svg"
+    },
+    {
+      "id": "concept_non_kognitivismus",
+      "german": "der Non-Kognitivismus",
+      "plural": "die Non-Kognitivismen",
+      "arabic": "اللَّا إِدْرَاكِيَّةُ الأَخْلَاقِيَّةُ",
+      "english": "non-cognitivism",
+      "example_sentence": {
+        "de": "Für den Non-Kognitivismus sind ethische Aussagen weder wahr noch falsch, sondern Ausdruck von Emotionen oder Imperativen.",
+        "ar": "بِالنِّسْبَةِ لِلَّا إِدْرَاكِيَّةِ، لَيْسَتِ الأَقْوَالُ الأَخْلَاقِيَّةُ صَادِقَةً وَلَا كَاذِبَةً، بَلْ هِيَ تَعْبِيرٌ عَنِ انْفِعَالَاتٍ أَوْ أَوَامِرَ.",
+        "en": "For non-cognitivism, ethical claims are neither true nor false, but expressions of emotion or command."
+      },
+      "image": "assets/svg/concept_non_kognitivismus.svg"
+    },
+    {
+      "id": "concept_emotivismus",
+      "german": "der Emotivismus",
+      "plural": "die Emotivismen",
+      "arabic": "التَّعْبِيرِيَّةُ الانْفِعَالِيَّةُ",
+      "english": "emotivism",
+      "example_sentence": {
+        "de": "Im Emotivismus wird ein Satz wie 'Stehlen ist schlecht' als emotionaler Ausruf der Missbilligung verstanden.",
+        "ar": "فِي المَذْهَبِ الانْفِعَالِيِّ، تُفَسَّرُ جُمْلَةُ 'السَّرِقَةُ رَذِيلَةٌ' عَلَى أَنَّهَا صَيْحَةٌ انْفِعَالِيَّةٌ لِلاسْتِهْجَانِ.",
+        "en": "In emotivism, a statement like 'stealing is wrong' is interpreted as an emotional ejaculation of disapproval."
+      },
+      "image": "assets/svg/concept_emotivismus.svg"
+    },
+    {
+      "id": "concept_ethischer_relativismus",
+      "german": "der ethische Relativismus",
+      "plural": "die ethischen Relativismen",
+      "arabic": "النِّسْبَوِيَّةُ الأَخْلَاقِيَّةُ",
+      "english": "ethical relativism",
+      "example_sentence": {
+        "de": "Der ethische Relativismus bestreitet universelle Moralstandards zugunsten kulturspezifischer Normen.",
+        "ar": "تَنْفِي النِّسْبَوِيَّةُ الأَخْلَاقِيَّةُ وُجُودَ مَعَايِيرَ أَخْلَاقِيَّةٍ كَوْنِيَّةٍ لِصَالِحِ المَعَايِيرِ المُرْتَبِطَةِ بِالثَّقَافَاتِ.",
+        "en": "Ethical relativism denies universal moral standards in favor of culture-specific norms."
+      },
+      "image": "assets/svg/concept_ethischer_relativismus.svg"
+    },
+    {
+      "id": "concept_universalisierungsanspruch",
+      "german": "der Universalisierungsanspruch",
+      "plural": "die Universalisierungsansprüche",
+      "arabic": "مُطَالَبَةُ الكَوْنِيَّةِ وَالتَّعْمِيمِ",
+      "english": "universalizability requirement",
+      "example_sentence": {
+        "de": "Ein ethisches Urteil muss dem Universalisierungsanspruch genügen, um für alle rationalen Wesen verbindlich zu sein.",
+        "ar": "يَجِبُ أَنْ يَسْتَوْفِيَ الحُكْمُ الأَخْلَاقِيُّ مُطَالَبَةَ التَّعْمِيمِ الكَوْنِيِّ لِيَكُونَ مُلْزِمًا لِجَمِيعِ الكَائِنَاتِ العَاقِلَةِ.",
+        "en": "An ethical judgment must satisfy the universalizability requirement to be binding on all rational agents."
+      },
+      "image": "assets/svg/concept_universalisierungsanspruch.svg"
+    },
+    {
+      "id": "concept_deontologische_ethik",
+      "german": "die deontologische Ethik",
+      "plural": "die deontologischen Ethiken",
+      "arabic": "الأَخْلَاقِيَّاتُ الوَاجِبِيَّةُ (الدِّيُونْتُولُوجْيَا)",
+      "english": "deontological ethics",
+      "example_sentence": {
+        "de": "In der deontologischen Ethik bestimmt die Pflichterfüllung und nicht die Konsequenz den moralischen Wert einer Handlung.",
+        "ar": "فِي الأَخْلَاقِيَّاتِ الوَاجِبِيَّةِ، يُحَدِّدُ أَدَاءُ الوَاجِبِ وَلَيْسَتِ العَوَاقِبُ القِيمَةَ الأَخْلَاقِيَّةَ لِلْفِعْلِ.",
+        "en": "In deontological ethics, adherence to moral duty rather than consequences defines an action's ethical value."
+      },
+      "image": "assets/svg/concept_deontologische_ethik.svg"
+    },
+    {
+      "id": "concept_konsequentialismus",
+      "german": "der Konsequentialismus",
+      "plural": "die Konsequentialismen",
+      "arabic": "المَذْهَبُ العَوَاقِبِيُّ",
+      "english": "consequentialism",
+      "example_sentence": {
+        "de": "Der Konsequentialismus bewertet eine Handlung ausschließlich anhand der Güte ihrer resultierenden Folgen.",
+        "ar": "يُقَيِّمُ المَذْهَبُ العَوَاقِبِيُّ الفِعْلَ حَصْرِيًّا اسْتِنَادًا إِلَى نَوْعِيَّةِ وَجَوْدَةِ الآثَارِ المُتَرَتِّبَةِ عَلَيْهِ.",
+        "en": "Consequentialism judges an action solely based on the balance and goodness of its resulting outcomes."
+      },
+      "image": "assets/svg/concept_konsequentialismus.svg"
+    },
+    {
+      "id": "concept_utilitarismus",
+      "german": "der Utilitarismus",
+      "plural": "die Utilitarismen",
+      "arabic": "النَّفْعِيَّةُ الأَخْلَاقِيَّةُ",
+      "english": "utilitarianism",
+      "example_sentence": {
+        "de": "Das klassische Prinzip des Utilitarismus fordert das größtmögliche Glück für die größtmögliche Zahl.",
+        "ar": "يَقْتَضِي المَبْدَأُ الكَلَاسِيكِيُّ لِلنَّفْعِيَّةِ تَحْقِيقَ أَعْظَمِ سَعَادَةٍ مُمْكِنَةٍ لِأَكْبَرِ عَدَدٍ مِنَ النَّاسِ.",
+        "en": "The classic utilitarian principle demands the greatest happiness for the greatest number of people."
+      },
+      "image": "assets/svg/concept_utilitarismus.svg"
+    },
+    {
+      "id": "concept_tugendethik",
+      "german": "die Tugendethik",
+      "plural": "die Tugendethiken",
+      "arabic": "أَخْلَاقِيَّاتُ الفَضِيلَةِ",
+      "english": "virtue ethics",
+      "example_sentence": {
+        "de": "Die aristotelische Tugendethik rückt den moralischen Charakter des Handelnden in das Zentrum philosophischer Reflexion.",
+        "ar": "تَضَعُ أَخْلَاقِيَّاتُ الفَضِيلَةِ الأَرِسْطِيَّةُ الطَّابَعَ الأَخْلَاقِيَّ لِلْفَاعِلِ فِي قَلْبِ التَّأَمُّلِ الفَلْسَفِيِّ.",
+        "en": "Aristotelian virtue ethics places the moral character of the agent at the core of philosophical reflection."
+      },
+      "image": "assets/svg/concept_tugendethik.svg"
+    },
+    {
+      "id": "concept_moralisches_dilemma",
+      "german": "das moralische Dilemma",
+      "plural": "die moralischen Dilemmata",
+      "arabic": "المَأْزِقُ الأَخْلَاقِيُّ",
+      "english": "moral dilemma",
+      "example_sentence": {
+        "de": "In einem echten moralischen Dilemma schließt die Erfüllung einer Pflicht die Verletzung einer anderen unvermeidbar ein.",
+        "ar": "فِي المَأْزِقِ الأَخْلَاقِيِّ الحَقِيقِيِّ، يَتَضَمَّنُ الوَفَاءُ بِوَاجِبٍ مَّا خَرْقًا حَتْمِيًّا لِوَاجِبٍ آخَرَ.",
+        "en": "In a genuine moral dilemma, fulfilling one ethical duty unavoidably entails violating another."
+      },
+      "image": "assets/svg/concept_moralisches_dilemma.svg"
+    },
+    {
+      "id": "concept_kategorischer_imperativ",
+      "german": "der kategorische Imperativ",
+      "plural": "die kategorischen Imperative",
+      "arabic": "الأَمْرُ الأَخْلَاقِيُّ المُطْلَقُ",
+      "english": "categorical imperative",
+      "example_sentence": {
+        "de": "Kants kategorischer Imperativ verlangt, nur nach jener Maxime zu handeln, die zugleich allgemeines Gesetz werden könnte.",
+        "ar": "يَقْتَضِي أَمْرُ كَانْطَ المُطْلَقُ أَنْ لَا يَتَصَرَّفَ المَرْءُ إِلَّا وَفْقَ القَاعِدَةِ الَّتِي يَسْتَطِيعُ فِي الوَقْتِ نَفْسِهِ أَنْ يُرِيدَهَا قَانُونًا عَامًّا.",
+        "en": "Kant's categorical imperative requires acting only on that maxim which one could simultaneously will to become a universal law."
+      },
+      "image": "assets/svg/concept_kategorischer_imperativ.svg"
+    },
+    {
+      "id": "concept_supererogation",
+      "german": "die Supererogation",
+      "plural": "die Supererogationen",
+      "arabic": "الفِعْلُ فَائِقُ الوَاجِبِ (النَّافِلَةُ الأَخْلَاقِيَّةُ)",
+      "english": "supererogation",
+      "example_sentence": {
+        "de": "Supererogatorische Taten gehen über die strikte Pflicht hinaus und gelten als moralisch lobenswert, aber nicht erzwingbar.",
+        "ar": "تَتَجَاوَزُ الأَفْعَالُ فَائِقَةُ الوَاجِبِ حُدُودَ التَّكْلِيفِ الصَّارِمِ، فَتُعَدُّ مَحْمُودَةً أَخْلَاقِيًّا دُونَ أَنْ تَكُونَ مَفْرُوضَةً قَسْرًا.",
+        "en": "Supererogatory acts surpass strict obligation and are praiseworthy without being morally enforceable."
+      },
+      "image": "assets/svg/concept_supererogation.svg"
+    },
+    {
+      "id": "concept_moralische_urteilskraft",
+      "german": "die moralische Urteilskraft",
+      "plural": "die moralischen Urteilskräfte",
+      "arabic": "مَلَكَةُ الحُكْمِ الأَخْلَاقِيِّ",
+      "english": "moral judgment and discernment",
+      "example_sentence": {
+        "de": "Reine Regeltreue ersetzt nicht die moralische Urteilskraft im konkreten, unvorhergesehenen Einzelfall.",
+        "ar": "لَا يُغْنِي التَّطْبِيقُ الحَرْفِيُّ لِلْقَوَاعِدِ عَنْ مَلَكَةِ الحُكْمِ الأَخْلَاقِيِّ فِي الحَالَاتِ الفَرْدِيَّةِ المَلِيئَةِ بِاللَّبْسِ.",
+        "en": "Pure adherence to rules cannot substitute for moral judgment in ambiguous, concrete individual cases."
+      },
+      "image": "assets/svg/concept_moralische_urteilskraft.svg"
+    },
+    {
+      "id": "concept_normativer_diskurs",
+      "german": "der normative Diskurs",
+      "plural": "die normativen Diskurse",
+      "arabic": "الخِطَابُ المِعْيَارِيُّ",
+      "english": "normative discourse",
+      "example_sentence": {
+        "de": "In der Diskursethik legitimieren sich moralische Normen durch zwanglosen Konsens im rationalen normativen Diskurs.",
+        "ar": "فِي أَخْلَاقِيَّاتِ التَّوَاصُلِ، تَكْتَسِبُ المَعَايِيرُ شَرْعِيَّتَهَا عَبْرَ إِجْمَاعٍ حُرٍّ خَالٍ مِنَ الإِكْرَاهِ فِي الخِطَابِ المِعْيَارِيِّ.",
+        "en": "In discourse ethics, moral norms gain legitimacy through unforced consensus within rational normative discourse."
+      },
+      "image": "assets/svg/concept_normativer_diskurs.svg"
+    },
+    {
+      "id": "concept_prima_facie_pflicht",
+      "german": "die Prima-facie-Pflicht",
+      "plural": "die Prima-facie-Pflichten",
+      "arabic": "الوَاجِبُ الأَوَّلِيُّ الظَّاهِرُ",
+      "english": "prima facie duty",
+      "example_sentence": {
+        "de": "Die Pflicht zur Wahrheit ist eine Prima-facie-Pflicht, die im Notfall von der Pflicht zur Lebensrettung übertrumpft werden kann.",
+        "ar": "الصِّدْقُ وَاجِبٌ أَوَّلِيٌّ ظَاهِرٌ يُمْكِنُ أَنْ يَتَرَاجَعَ أَمَامَ وَاجِبِ إِنْقَاذِ الأَرْوَاحِ فِي حَالَاتِ الضَّرُورَةِ القُصْوَى.",
+        "en": "Veracity is a prima facie duty that can be overridden in emergencies by the duty to save human lives."
+      },
+      "image": "assets/svg/concept_prima_facie_pflicht.svg"
+    },
+    {
+      "id": "concept_sein_sollen_problem",
+      "german": "das Sein-Sollen-Problem",
+      "plural": "die Sein-Sollen-Probleme",
+      "arabic": "مُعْضِلَةُ الكَيْنُونَةِ وَالوُجُوبِ (شَوْكَةُ هْيُوم)",
+      "english": "is-ought problem",
+      "example_sentence": {
+        "de": "Humes Sein-Sollen-Problem besagt, dass aus rein deskriptiven Tatsachen niemals logisch ein normatives Sollen folgt.",
+        "ar": "تَقْضِي مُعْضِلَةُ هْيُوم بِأَنَّهُ لَا يُمْكِنُ اسْتِنْتَاجُ مَا 'يَنْبَغِي أَنْ يَكُونَ' مَنْطِقِيًّا مِنْ مُجَرَّدِ وَصْفِ مَا 'هُوَ كَائِنٌ'.",
+        "en": "Hume's is-ought problem demonstrates that a normative 'ought' cannot be logically deduced from purely descriptive 'is' statements."
+      },
+      "image": "assets/svg/concept_sein_sollen_problem.svg"
+    },
+    {
+      "id": "concept_naturalistischer_fehlschluss",
+      "german": "der naturalistische Fehlschluss",
+      "plural": "die naturalistischen Fehlschlüsse",
+      "arabic": "المُغَالَطَةُ الطَّبِيعِيَّةُ",
+      "english": "naturalistic fallacy",
+      "example_sentence": {
+        "de": "Moores naturalistische Fehlschluss-Warnung verbietet die Gleichsetzung des moralisch Guten mit natürlichen Eigenschaften wie Lust.",
+        "ar": "يُحَذِّرُ مَبْدَأُ مُور مِنَ المُغَالَطَةِ الطَّبِيعِيَّةِ عَبْرَ مَنْعِ مُطَابَقَةِ الخَيْرِ الأَخْلَاقِيِّ مَعَ صِفَاتٍ طَبِيعِيَّةٍ كَاللَّذَّةِ.",
+        "en": "Moore's naturalistic fallacy caution warns against equating the moral good with natural properties such as pleasure."
+      },
+      "image": "assets/svg/concept_naturalistischer_fehlschluss.svg"
+    },
+    {
+      "id": "concept_epistemische_rechtfertigung",
+      "german": "die epistemische Rechtfertigung",
+      "plural": "die epistemischen Rechtfertigungen",
+      "arabic": "التَّبْرِيرُ الإِبِسْتِيمِيُّ (المَعْرِفِيُّ)",
+      "english": "epistemic justification",
+      "example_sentence": {
+        "de": "Eine moralische Überzeugung erfordert belastbare epistemische Rechtfertigung gegen skeptische Einwände.",
+        "ar": "تَتَطَلَّبُ القَنَاعَةُ الأَخْلَاقِيَّةُ تَبْرِيرًا إِبِسْتِيمِيًّا مَتِينًا فِي وَجْهِ الشُّكُوكِ الفَلْسَفِيَّةِ.",
+        "en": "A moral conviction demands robust epistemic justification against rigorous skeptical objections."
+      },
+      "image": "assets/svg/concept_epistemische_rechtfertigung.svg"
+    },
+    {
+      "id": "concept_normative_geltung",
+      "german": "die normative Geltung",
+      "plural": "die normativen Geltungen",
+      "arabic": "الصَّلَاحِيَّةُ المِعْيَارِيَّةُ",
+      "english": "normative validity",
+      "example_sentence": {
+        "de": "Gesetze ohne normative Geltung verlieren im Rechtsbewusstsein der Bürger ihre moralische Bindekraft.",
+        "ar": "تَفْقِدُ القَوَانِينُ الخَالِيَةُ مِنَ الصَّلَاحِيَّةِ المِعْيَارِيَّةِ قُوَّتَهَا المُلْزِمَةَ فِي الوَعْيِ الأَخْلَاقِيِّ لِلْمُوَاطِنِينَ.",
+        "en": "Laws lacking normative validity lose their binding moral force in the conscience of citizens."
+      },
+      "image": "assets/svg/concept_normative_geltung.svg"
+    },
+    {
+      "id": "concept_moralischer_pluralismus",
+      "german": "der moralische Pluralismus",
+      "plural": "die moralischen Pluralismen",
+      "arabic": "التَّعَدُّدِيَّةُ الأَخْلَاقِيَّةُ",
+      "english": "moral pluralism",
+      "example_sentence": {
+        "de": "Der moralische Pluralismus erkennt an, dass es mehrere grundlegende, nicht aufeinander reduzierbare Werte gibt.",
+        "ar": "تُقِرُّ التَّعَدُّدِيَّةُ الأَخْلَاقِيَّةُ بِوُجُودِ قِيَمٍ جَوْهَرِيَّةٍ مُتَعَدِّدَةٍ لَا يُمْكِنُ اخْتِزَالُ بَعْضِهَا فِي بَعْضٍ.",
+        "en": "Moral pluralism acknowledges the co-existence of multiple fundamental, incommensurable ethical values."
+      },
+      "image": "assets/svg/concept_moralischer_pluralismus.svg"
+    },
+    {
+      "id": "concept_moralische_verantwortlichkeit",
+      "german": "die moralische Verantwortlichkeit",
+      "plural": "die moralischen Verantwortlichkeiten",
+      "arabic": "المَسْؤُولِيَّةُ الأَخْلَاقِيَّةُ",
+      "english": "moral accountability and responsibility",
+      "example_sentence": {
+        "de": "Echte Willensfreiheit gilt in der Philosophie als notwendige Bedingung für moralische Verantwortlichkeit.",
+        "ar": "تُعَدُّ حُرِّيَّةُ الإِرَادَةِ الحَقِيقِيَّةُ فِي الفَلْسَفَةِ شَرْطًا ضَرُورِيًّا لِتَحَقُّقِ المَسْؤُولِيَّةِ الأَخْلَاقِيَّةِ.",
+        "en": "Genuine free will is regarded in philosophy as a prerequisite for moral responsibility."
+      },
+      "image": "assets/svg/concept_moralische_verantwortlichkeit.svg"
+    },
+    {
+      "id": "concept_ethisches_deliberieren",
+      "german": "das ethische Deliberieren",
+      "plural": "die ethischen Deliberationen",
+      "arabic": "التَّدَاوُلُ وَالتَّحَاوُرُ الأَخْلَاقِيُّ",
+      "english": "ethical deliberation",
+      "example_sentence": {
+        "de": "In Bioethik-Kommissionen ermöglicht ethisches Deliberieren einen differenzierten Ausgleich konkurrierender Schutzgüter.",
+        "ar": "يُتِيحُ التَّدَاوُلُ الأَخْلَاقِيُّ فِي لِجَانِ الأَخْلَاقِيَّاتِ الحَيَوِيَّةِ مُمَارَسَةَ مُوَازَنَةٍ دَقِيقَةٍ بَيْنَ المَصَالِحِ المَحْمِيَّةِ المُتَنَافِسَةِ.",
+        "en": "In bioethics commissions, ethical deliberation enables a nuanced balancing of competing protected values."
+      },
+      "image": "assets/svg/concept_ethisches_deliberieren.svg"
+    }
+  ]
+}

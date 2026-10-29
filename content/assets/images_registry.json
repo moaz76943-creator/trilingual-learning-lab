@@ -31261,5 +31261,130 @@
     "file": "assets/svg/verb_habituieren.svg",
     "category": "sensorimotor_verbs",
     "alt": "verb habituieren"
+  },
+  "assets/svg/concept_ethischer_intuitionismus.svg": {
+    "file": "assets/svg/concept_ethischer_intuitionismus.svg",
+    "category": "vocabulary",
+    "alt": "concept ethischer intuitionismus"
+  },
+  "assets/svg/concept_ethischer_relativismus.svg": {
+    "file": "assets/svg/concept_ethischer_relativismus.svg",
+    "category": "vocabulary",
+    "alt": "concept ethischer relativismus"
+  },
+  "assets/svg/concept_universalisierungsanspruch.svg": {
+    "file": "assets/svg/concept_universalisierungsanspruch.svg",
+    "category": "vocabulary",
+    "alt": "concept universalisierungsanspruch"
+  },
+  "assets/svg/concept_moralisches_dilemma.svg": {
+    "file": "assets/svg/concept_moralisches_dilemma.svg",
+    "category": "meta_ethics",
+    "alt": "concept moralisches dilemma"
+  },
+  "assets/svg/concept_normativer_diskurs.svg": {
+    "file": "assets/svg/concept_normativer_diskurs.svg",
+    "category": "vocabulary",
+    "alt": "concept normativer diskurs"
+  },
+  "assets/svg/concept_konsequentialismus.svg": {
+    "file": "assets/svg/concept_konsequentialismus.svg",
+    "category": "vocabulary",
+    "alt": "concept konsequentialismus"
+  },
+  "assets/svg/concept_tugendethik.svg": {
+    "file": "assets/svg/concept_tugendethik.svg",
+    "category": "vocabulary",
+    "alt": "concept tugendethik"
+  },
+  "assets/svg/concept_moralische_verantwortlichkeit.svg": {
+    "file": "assets/svg/concept_moralische_verantwortlichkeit.svg",
+    "category": "meta_ethics",
+    "alt": "concept moralische verantwortlichkeit"
+  },
+  "assets/svg/concept_moralischer_realismus.svg": {
+    "file": "assets/svg/concept_moralischer_realismus.svg",
+    "category": "meta_ethics",
+    "alt": "concept moralischer realismus"
+  },
+  "assets/svg/concept_kognitivismus.svg": {
+    "file": "assets/svg/concept_kognitivismus.svg",
+    "category": "vocabulary",
+    "alt": "concept kognitivismus"
+  },
+  "assets/svg/concept_normative_geltung.svg": {
+    "file": "assets/svg/concept_normative_geltung.svg",
+    "category": "vocabulary",
+    "alt": "concept normative geltung"
+  },
+  "assets/svg/concept_emotivismus.svg": {
+    "file": "assets/svg/concept_emotivismus.svg",
+    "category": "vocabulary",
+    "alt": "concept emotivismus"
+  },
+  "assets/svg/concept_deontologische_ethik.svg": {
+    "file": "assets/svg/concept_deontologische_ethik.svg",
+    "category": "vocabulary",
+    "alt": "concept deontologische ethik"
+  },
+  "assets/svg/concept_kategorischer_imperativ.svg": {
+    "file": "assets/svg/concept_kategorischer_imperativ.svg",
+    "category": "vocabulary",
+    "alt": "concept kategorischer imperativ"
+  },
+  "assets/svg/concept_supererogation.svg": {
+    "file": "assets/svg/concept_supererogation.svg",
+    "category": "vocabulary",
+    "alt": "concept supererogation"
+  },
+  "assets/svg/concept_moralische_urteilskraft.svg": {
+    "file": "assets/svg/concept_moralische_urteilskraft.svg",
+    "category": "meta_ethics",
+    "alt": "concept moralische urteilskraft"
+  },
+  "assets/svg/concept_utilitarismus.svg": {
+    "file": "assets/svg/concept_utilitarismus.svg",
+    "category": "vocabulary",
+    "alt": "concept utilitarismus"
+  },
+  "assets/svg/concept_moralischer_pluralismus.svg": {
+    "file": "assets/svg/concept_moralischer_pluralismus.svg",
+    "category": "meta_ethics",
+    "alt": "concept moralischer pluralismus"
+  },
+  "assets/svg/concept_ethisches_deliberieren.svg": {
+    "file": "assets/svg/concept_ethisches_deliberieren.svg",
+    "category": "vocabulary",
+    "alt": "concept ethisches deliberieren"
+  },
+  "assets/svg/concept_naturalistischer_fehlschluss.svg": {
+    "file": "assets/svg/concept_naturalistischer_fehlschluss.svg",
+    "category": "vocabulary",
+    "alt": "concept naturalistischer fehlschluss"
+  },
+  "assets/svg/concept_prima_facie_pflicht.svg": {
+    "file": "assets/svg/concept_prima_facie_pflicht.svg",
+    "category": "vocabulary",
+    "alt": "concept prima facie pflicht"
+  },
+  "assets/svg/concept_non_kognitivismus.svg": {
+    "file": "assets/svg/concept_non_kognitivismus.svg",
+    "category": "vocabulary",
+    "alt": "concept non kognitivismus"
+  },
+  "assets/svg/concept_metaethik.svg": {
+    "file": "assets/svg/concept_metaethik.svg",
+    "category": "meta_ethics",
+    "alt": "concept metaethik"
+  },
+  "assets/svg/concept_sein_sollen_problem.svg": {
+    "file": "assets/svg/concept_sein_sollen_problem.svg",
+    "category": "vocabulary",
+    "alt": "concept sein sollen problem"
+  },
+  "assets/svg/concept_epistemische_rechtfertigung.svg": {
+    "file": "assets/svg/concept_epistemische_rechtfertigung.svg",
+    "category": "vocabulary",
+    "alt": "concept epistemische rechtfertigung"
   }
 }

@@ -6231,6 +6231,181 @@
         "Verb 'fokussieren' + Präposition 'auf' + Akkusativ",
         "Adjektivdeklination im Akkusativ Neutrum"
       ]
+    },
+    {
+      "id": "sent_326",
+      "category": "ethics_morals",
+      "difficulty": "A1+",
+      "arabic": "الأَخْلَاقُ تُرْشِدُ سُلُوكَ الإِنْسَانِ فِي حَيَاتِهِ.",
+      "german": "Die Moral leitet das Verhalten des Menschen.",
+      "english": "Morality guides human behavior in life.",
+      "tokens": [
+        {
+          "word": "Die Moral",
+          "pos": "noun",
+          "ar": "الأَخْلَاقُ"
+        },
+        {
+          "word": "leitet",
+          "pos": "verb",
+          "ar": "تُرْشِدُ / تَقُودُ"
+        },
+        {
+          "word": "das Verhalten",
+          "pos": "noun",
+          "ar": "السُّلُوكَ"
+        },
+        {
+          "word": "des Menschen",
+          "pos": "genitive_noun",
+          "ar": "الإِنْسَانِ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt im Nominativ Feminin",
+        "Genitivattribut 'des Menschen'"
+      ]
+    },
+    {
+      "id": "sent_327",
+      "category": "duty_responsibility",
+      "difficulty": "A1+",
+      "arabic": "نَحْنُ نَفْحَصُ الوَاجِبَ بِعِنَايَةٍ قَبْلَ العَمَلِ.",
+      "german": "Wir prüfen die Pflicht sorgfältig vor der Arbeit.",
+      "english": "We examine the duty carefully before work.",
+      "tokens": [
+        {
+          "word": "Wir",
+          "pos": "pronoun",
+          "ar": "نَحْنُ"
+        },
+        {
+          "word": "prüfen",
+          "pos": "verb",
+          "ar": "نَفْحَصُ"
+        },
+        {
+          "word": "die Pflicht",
+          "pos": "noun",
+          "ar": "الوَاجِبَ"
+        },
+        {
+          "word": "sorgfältig",
+          "pos": "adverb",
+          "ar": "بِعِنَايَةٍ"
+        },
+        {
+          "word": "vor der Arbeit",
+          "pos": "preposition_phrase",
+          "ar": "قَبْلَ العَمَلِ"
+        }
+      ],
+      "grammar_points": [
+        "Präsens 1. Person Plural",
+        "Präposition 'vor' + Dativ Feminin"
+      ]
+    },
+    {
+      "id": "sent_328",
+      "category": "justice_society",
+      "difficulty": "A1+",
+      "arabic": "القَرَارُ العَادِلُ يُسَاعِدُ المُجْتَمَعَ دَائِمًا.",
+      "german": "Die gerechte Entscheidung hilft der Gesellschaft immer.",
+      "english": "The fair decision always helps society.",
+      "tokens": [
+        {
+          "word": "Die gerechte Entscheidung",
+          "pos": "noun_phrase",
+          "ar": "القَرَارُ العَادِلُ"
+        },
+        {
+          "word": "hilft",
+          "pos": "verb",
+          "ar": "يُسَاعِدُ"
+        },
+        {
+          "word": "der Gesellschaft",
+          "pos": "noun",
+          "ar": "المُجْتَمَعَ (في حالة الجر)"
+        },
+        {
+          "word": "immer",
+          "pos": "adverb",
+          "ar": "دَائِمًا"
+        }
+      ],
+      "grammar_points": [
+        "Adjektivdeklination Nominativ Feminin",
+        "Verb 'helfen' regiert Dativ"
+      ]
+    },
+    {
+      "id": "sent_329",
+      "category": "discernment",
+      "difficulty": "A1+",
+      "arabic": "هُوَ يُمَيِّزُ بَيْنَ الصَّوَابِ وَالخَطَأِ.",
+      "german": "Er unterscheidet zwischen Richtig und Falsch.",
+      "english": "He distinguishes between right and wrong.",
+      "tokens": [
+        {
+          "word": "Er",
+          "pos": "pronoun",
+          "ar": "هُوَ"
+        },
+        {
+          "word": "unterscheidet",
+          "pos": "verb",
+          "ar": "يُمَيِّزُ"
+        },
+        {
+          "word": "zwischen",
+          "pos": "preposition",
+          "ar": "بَيْنَ"
+        },
+        {
+          "word": "Richtig und Falsch",
+          "pos": "nominalized_adjectives",
+          "ar": "الصَّوَابِ وَالخَطَأِ"
+        }
+      ],
+      "grammar_points": [
+        "Präsens unregelmäßiges Verb",
+        "Substantivierte Adjektive nach Präposition"
+      ]
+    },
+    {
+      "id": "sent_330",
+      "category": "accountability",
+      "difficulty": "A1+",
+      "arabic": "المَسْؤُولِيَّةُ تَقَعُ عَلَى الجَمِيعِ فِي هَذَا الأَمْرِ.",
+      "german": "Die Verantwortung liegt bei allen in dieser Sache.",
+      "english": "The responsibility lies with everyone in this matter.",
+      "tokens": [
+        {
+          "word": "Die Verantwortung",
+          "pos": "noun",
+          "ar": "المَسْؤُولِيَّةُ"
+        },
+        {
+          "word": "liegt bei",
+          "pos": "verb_phrase",
+          "ar": "تَقَعُ عَلَى / تَرْجِعُ إِلَى"
+        },
+        {
+          "word": "allen",
+          "pos": "pronoun",
+          "ar": "الجَمِيعِ"
+        },
+        {
+          "word": "in dieser Sache",
+          "pos": "preposition_phrase",
+          "ar": "فِي هَذَا الأَمْرِ"
+        }
+      ],
+      "grammar_points": [
+        "Redewendung 'liegen bei' + Dativ",
+        "Demonstrativpronomen im Dativ"
+      ]
     }
   ]
 }
