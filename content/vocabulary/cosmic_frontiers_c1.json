@@ -1,0 +1,336 @@
+{
+  "category_id": "cosmic_frontiers_c1",
+  "category_title": {
+    "ar": "التكامل المعرفي الكوني وآفاق التطور الإنساني القصوى",
+    "de": "Kosmische Grenzen, universale Synthese und transplanetare Evolution",
+    "en": "Cosmic Frontiers, Universal Synthesis & Trans-Planetary Evolution"
+  },
+  "level": "C1",
+  "items": [
+    {
+      "id": "concept_kardaschow_skala",
+      "german": "die Kardaschow-Skala",
+      "plural": "die Kardaschow-Skalen",
+      "arabic": "مِقْيَاسُ كَارْدَاشِيفَ لِلْحَضَارَاتِ الكَوْنِيَّةِ",
+      "english": "Kardashev scale",
+      "example_sentence": {
+        "de": "Die Kardaschow-Skala klassifiziert hypothetische Zivilisationen anhand ihres energetischen Nutzungsgrades von planetar bis galaktisch.",
+        "ar": "يُصَنِّفُ مِقْيَاسُ كَارْدَاشِيفَ الحَضَارَاتِ الافْتِرَاضِيَّةَ اسْتِنَادًا إِلَى مُسْتَوَى اسْتِغْلَالِهَا لِلطَّاقَةِ مِنَ المُسْتَوَى الكَوْكَبِيِّ إِلَى المَجَرِّيِّ.",
+        "en": "The Kardashev scale classifies hypothetical civilizations based on their energy consumption capacity from planetary to galactic scales."
+      },
+      "image": "assets/svg/concept_kardaschow_skala.svg"
+    },
+    {
+      "id": "concept_astro_soziologie",
+      "german": "die Astro-Soziologie",
+      "plural": "die Astro-Soziologien",
+      "arabic": "عِلْمُ الاجْتِمَاعِ الفَلَكِيِّ الكَوْنِيِّ",
+      "english": "astrosociology",
+      "example_sentence": {
+        "de": "Die Astro-Soziologie analysiert die gesellschaftlichen und kulturellen Transformationen der Menschheit bei der dauerhaften Besiedlung des Weltraums.",
+        "ar": "يُحَلِّلُ عِلْمُ الاجْتِمَاعِ الفَلَكِيِّ التَّحَوُّلَاتِ المُجْتَمَعِيَّةَ وَالثَّقَافِيَّةَ لِلْبَشَرِيَّةِ عِنْدَ اسْتِيطَانِ الفَضَاءِ الخَارِجِيِّ بِشَكْلٍ دَائِمٍ.",
+        "en": "Astrosociology analyzes the societal and cultural transformations of humanity during permanent space settlement."
+      },
+      "image": "assets/svg/concept_astro_soziologie.svg"
+    },
+    {
+      "id": "concept_dyson_sphaere",
+      "german": "die Dyson-Sphäre",
+      "plural": "die Dyson-Sphären",
+      "arabic": "كُرَةُ دَايْسُونَ لِتَجْمِيعِ طَاقَةِ النُّجُومِ",
+      "english": "Dyson sphere",
+      "example_sentence": {
+        "de": "Eine Dyson-Sphäre stellt ein theoretisches Megaprojekt dar, das einen Stern vollständig umschließt, um dessen Strahlungsenergie abzufangen.",
+        "ar": "تُمَثِّلُ كُرَةُ دَايْسُونَ مَشْرُوعًا هَنْدَسِيًّا عِمْلَاقًا نَظَرِيًّا يُحِيطُ بِنَجْمٍ بِشَكْلٍ كَامِلٍ لِالْتِقَاطِ طَاقَتِهِ الإِشْعَاعِيَّةِ.",
+        "en": "A Dyson sphere represents a theoretical megastructure completely encompassing a star to capture its radiant energy."
+      },
+      "image": "assets/svg/concept_dyson_sphaere.svg"
+    },
+    {
+      "id": "concept_interstellare_zivilisation",
+      "german": "die interstellare Zivilisation",
+      "plural": "die interstellaren Zivilisationen",
+      "arabic": "الحَضَارَةُ النَّجْمِيَّةُ العَابِرَةُ لِلْمَجَرَّاتِ",
+      "english": "interstellar civilization",
+      "example_sentence": {
+        "de": "Der Übergang zu einer interstellaren Zivilisation erfordert revolutionäre Antriebe und neuartige gesellschaftliche Zeitmodelle.",
+        "ar": "يَتَطَلَّبُ الانْتِقَالُ إِلَى حَضَارَةٍ نَجْمِيَّةٍ عَابِرَةٍ أَنْظِمَةَ دَفْعٍ ثَوْرِيَّةً وَنَمَاذِجَ زَمَنِيَّةً مُجْتَمَعِيَّةً مُبْتَكَرَةً.",
+        "en": "The transition to an interstellar civilization requires revolutionary propulsion systems and novel societal temporal frameworks."
+      },
+      "image": "assets/svg/concept_interstellare_zivilisation.svg"
+    },
+    {
+      "id": "concept_fermi_paradoxon",
+      "german": "das Fermi-Paradoxon",
+      "plural": "die Fermi-Paradoxa",
+      "arabic": "مُفَارَقَةُ فِيرْمِي لِلْوُجُودِ الكَوْنِيِّ",
+      "english": "Fermi paradox",
+      "example_sentence": {
+        "de": "Das Fermi-Paradoxon fragt nach dem Grund für das Fehlen beobachtbarer Spuren außerirdischer Zivilisationen trotz der astronomischen Wahrscheinlichkeit ihrer Existenz.",
+        "ar": "تَتَسَاءَلُ مُفَارَقَةُ فِيرْمِي عَنْ سَبَبِ غِيَابِ الآثَارِ المَرْصُودَةِ لِلْحَضَارَاتِ الفَضَائِيَّةِ رَغْمَ الاحْتِمَالِيَّةِ الفَلَكِيَّةِ العَالِيَةِ لِوُجُودِهَا.",
+        "en": "The Fermi paradox questions the lack of observable evidence for extraterrestrial civilizations despite high astronomical probabilities."
+      },
+      "image": "assets/svg/concept_fermi_paradoxon.svg"
+    },
+    {
+      "id": "concept_makro_evolution",
+      "german": "die Makro-Evolution",
+      "plural": "die Makro-Evolutionen",
+      "arabic": "التَّطَوُّرُ الكُلِّيُّ الوَاسِعُ",
+      "english": "macroevolution",
+      "example_sentence": {
+        "de": "Die Makro-Evolution beschreibt die Entstehung völlig neuer biologischer Baupläne über geologische und kosmische Zeithorizonte hinweg.",
+        "ar": "يَصِفُ التَّطَوُّرُ الكُلِّيُّ نَشْأَةَ تَصَامِيمَ بَيُولُوجِيَّةٍ جَدِيدَةٍ كُلِّيًّا عَبْرَ آمَادٍ زَمَنِيَّةٍ جِيُولُوجِيَّةٍ وَكَوْنِيَّةٍ شَاسِعَةٍ.",
+        "en": "Macroevolution describes the emergence of entirely novel biological body plans across vast geological and cosmic timescales."
+      },
+      "image": "assets/svg/concept_makro_evolution.svg"
+    },
+    {
+      "id": "concept_transhumanismus",
+      "german": "der Transhumanismus",
+      "plural": "die Transhumanismen",
+      "arabic": "الإِنْسَانِيَّةُ الفَائِقَةُ (مَا بَعْدَ الإِنْسَانِ)",
+      "english": "transhumanism",
+      "example_sentence": {
+        "de": "Der Transhumanismus strebt die bewusste Überwindung biologischer Limitierungen durch synergetische Mensch-Maschine-Konvergenz an.",
+        "ar": "يَسْعَى مَذْهَبُ الإِنْسَانِيَّةِ الفَائِقَةِ إِلَى التَّجَاوُزِ الوَاعِي لِلْقُيُودِ البَيُولُوجِيَّةِ عَبْرَ التَّقَارُبِ التَّكَامُلِيِّ بَيْنَ الإِنْسَانِ وَالآلَةِ.",
+        "en": "Transhumanism seeks the deliberate transcendence of biological limitations through human-machine convergence."
+      },
+      "image": "assets/svg/concept_transhumanismus.svg"
+    },
+    {
+      "id": "concept_kosmologisches_anthropisches_prinzip",
+      "german": "das kosmologische Anthropische Prinzip",
+      "plural": "die kosmologischen Anthropischen Prinzipien",
+      "arabic": "المَبْدَأُ الإِنْسَانِيُّ الكَوْنِيُّ",
+      "english": "cosmological anthropic principle",
+      "example_sentence": {
+        "de": "Nach dem Anthropischen Prinzip sind die Naturkonstanten unseres Universums exakt so feingestimmt, dass intelligentes Leben entstehen konnte.",
+        "ar": "وَفْقًا لِلْمَبْدَأِ الإِنْسَانِيِّ، فَإِنَّ الثَّوَابِتَ الفِيزْيَائِيَّةَ فِي كَوْنِنَا مَضْبُوطَةٌ بِدِقَّةٍ مُتَنَاهِيَةٍ لِتَسْمَحَ بِنُشُوءِ الحَيَاةِ العَاقِلَةِ.",
+        "en": "According to the anthropic principle, the physical constants of our universe are finely tuned to permit the emergence of intelligent life."
+      },
+      "image": "assets/svg/concept_kosmologisches_anthropisches_prinzip.svg"
+    },
+    {
+      "id": "concept_gravitationswellen_astronomie",
+      "german": "die Gravitationswellen-Astronomie",
+      "plural": "die Gravitationswellen-Astronomien",
+      "arabic": "عِلْمُ فَلَكِ مَوْجَاتِ الجَاذِبِيَّةِ",
+      "english": "gravitational wave astronomy",
+      "example_sentence": {
+        "de": "Die Gravitationswellen-Astronomie eröffnet ein neues Fenster zur Beobachtung von Raumzeitkrümmungen bei der Verschmelzung Schwarzer Löcher.",
+        "ar": "يَفْتَحُ عِلْمُ فَلَكِ مَوْجَاتِ الجَاذِبِيَّةِ نَافِذَةً جَدِيدَةً لِرَصْدِ انْحِنَاءَاتِ الزَّمَكَانِ عِنْدَ انْدِمَاجِ الثُّقُوبِ السَّوْدَاءِ.",
+        "en": "Gravitational wave astronomy opens a novel observational window into spacetime curvature during black hole mergers."
+      },
+      "image": "assets/svg/concept_gravitationswellen_astronomie.svg"
+    },
+    {
+      "id": "concept_panspermie_hypothese",
+      "german": "die Panspermie-Hypothese",
+      "plural": "die Panspermie-Hypothesen",
+      "arabic": "فَرْضِيَّةُ التَّبَذُّرِ الشَّامِلِ لِلْكَوْنِ (البَانْسْبِيرْمِيَا)",
+      "english": "panspermia hypothesis",
+      "example_sentence": {
+        "de": "Die Panspermie-Hypothese legt nahe, dass mikrobielles Leben über Meteoriten und Kometen von anderen Himmelskörpern auf die Erde gelangte.",
+        "ar": "تُرَجِّحُ فَرْضِيَّةُ التَّبَذُّرِ الشَّامِلِ أَنَّ الحَيَاةَ المِيكْرُوبِيَّةَ انْتَقَلَتْ إِلَى الأَرْضِ عَبْرَ النَّيَازِكِ وَالمُذَنَّبَاتِ مِنْ أَجْرَامٍ سَمَاوِيَّةٍ أُخْرَى.",
+        "en": "The panspermia hypothesis suggests that microbial life reached Earth via meteorites and comets from celestial bodies."
+      },
+      "image": "assets/svg/concept_panspermie_hypothese.svg"
+    },
+    {
+      "id": "concept_biosphaeren_arche",
+      "german": "die Biosphären-Arche",
+      "plural": "die Biosphären-Archen",
+      "arabic": "سَفِينَةُ الفَضَاءِ الأَرْكِيَّةُ الحَيَوِيَّةُ (سَفِينَةُ الأَجْيَالِ)",
+      "english": "biosphere generation ship",
+      "example_sentence": {
+        "de": "Eine Biosphären-Arche müsste ein autarkes ökologisches Gleichgewicht über Jahrhunderte hinweg aufrechterhalten.",
+        "ar": "يَجِبُ عَلَى سَفِينَةِ الفَضَاءِ الأَرْكِيَّةِ الحَيَوِيَّةِ الحِفَاظُ عَلَى تَوَازُنٍ بِيئِيٍّ ذَاتِيِّ الاكْتِفَاءِ عَلَى مَدَارِ عِدَّةِ قُرُونٍ.",
+        "en": "A biosphere generation ship would need to sustain a self-contained ecological equilibrium across centuries."
+      },
+      "image": "assets/svg/concept_biosphaeren_arche.svg"
+    },
+    {
+      "id": "concept_planetare_terraformation",
+      "german": "die planetare Terraformation",
+      "plural": "die planetaren Terraformationen",
+      "arabic": "الاسْتِصْلَاحُ الكَوْكَبِيُّ (التِّيرَافُورْمِينْغ)",
+      "english": "planetary terraforming",
+      "example_sentence": {
+        "de": "Die planetare Terraformation des Mars würde gigantische Eingriffe in Atmosphäre, Temperatur und Wasserkreisläufe erfordern.",
+        "ar": "يَتَطَلَّبُ الاسْتِصْلَاحُ الكَوْكَبِيُّ لِلْمِرِّيخِ تَدَخُّلَاتٍ هَنْدَسِيَّةً عِمْلَاقَةً فِي الغِلَافِ الجَوِّيِّ وَدَرَجَاتِ الحَرَارَةِ وَدَوْرَاتِ المِيَاهِ.",
+        "en": "Planetary terraforming of Mars would require immense interventions in atmosphere, temperature, and hydrological cycles."
+      },
+      "image": "assets/svg/concept_planetare_terraformation.svg"
+    },
+    {
+      "id": "concept_ereignishorizont",
+      "german": "der Ereignishorizont",
+      "plural": "die Ereignishorizonte",
+      "arabic": "أُفُقُ الحَدَثِ لِلثَّقْبِ الأَسْوَدِ",
+      "english": "event horizon",
+      "example_sentence": {
+        "de": "Hinter dem Ereignishorizont eines Schwarzen Lochs ist die Fluchtgeschwindigkeit größer als die Lichtgeschwindigkeit.",
+        "ar": "خَلْفَ أُفُقِ الحَدَثِ لِلثَّقْبِ الأَسْوَدِ، تَكُونُ سُرْعَةُ الإِفْلَاتِ أَكْبَرَ مِنْ سُرْعَةِ الضَّوْءِ نَفْسِهِ.",
+        "en": "Beyond the event horizon of a black hole, the escape velocity exceeds the speed of light."
+      },
+      "image": "assets/svg/concept_ereignishorizont.svg"
+    },
+    {
+      "id": "concept_dunkle_materie_halo",
+      "german": "die Dunkle-Materie-Halo",
+      "plural": "die Dunkle-Materie-Halos",
+      "arabic": "هَالَةُ المَادَّةِ المُظْلِمَةِ",
+      "english": "dark matter halo",
+      "example_sentence": {
+        "de": "Jede Galaxie ist in eine unsichtbare Dunkle-Materie-Halo eingebettet, die ihre Rotationskurven stabilisiert.",
+        "ar": "تَقْبَعُ كُلُّ مَجَرَّةٍ دَاخِلَ هَالَةٍ غَيْرِ مَرْئِيَّةٍ مِنَ المَادَّةِ المُظْلِمَةِ تُحَافِظُ عَلَى اسْتِقْرَارِ مُنْحَنَيَاتِ دَوَرَانِهَا.",
+        "en": "Every galaxy is embedded within an invisible dark matter halo that stabilizes its rotational velocity curves."
+      },
+      "image": "assets/svg/concept_dunkle_materie_halo.svg"
+    },
+    {
+      "id": "concept_quantenvakuumfluktuation",
+      "german": "die Quantenvakuumfluktuation",
+      "plural": "die Quantenvakuumfluktuationen",
+      "arabic": "تَقَلُّبَاتُ الفَرَاغِ الكَمُّومِيِّ",
+      "english": "quantum vacuum fluctuation",
+      "example_sentence": {
+        "de": "Im absolut leeren Raum erzeugen Quantenvakuumfluktuationen unablässig Paare virtueller Teilchen.",
+        "ar": "فِي الفَرَاغِ المُطْلَقِ، تُوَلِّدُ تَقَلُّبَاتُ الفَرَاغِ الكَمُّومِيِّ بِاسْتِمْرَارٍ أَزْوَاجًا مِنَ الجُسَيْمَاتِ الافْتِرَاضِيَّةِ.",
+        "en": "In absolute empty space, quantum vacuum fluctuations ceaselessly generate pairs of virtual particles."
+      },
+      "image": "assets/svg/concept_quantenvakuumfluktuation.svg"
+    },
+    {
+      "id": "concept_wurmloch_transit",
+      "german": "der Wurmloch-Transit",
+      "plural": "die Wurmloch-Transite",
+      "arabic": "العُبُورُ الزَّمَكَانِيُّ عَبْرَ الثَّقْبِ الدُّودِيِّ",
+      "english": "wormhole transit",
+      "example_sentence": {
+        "de": "Ein theoretischer Wurmloch-Transit würde die Überwindung astronomischer Distanzen in Sekundenbruchteilen erlauben.",
+        "ar": "يُتِيحُ العُبُورُ النَّظَرِيُّ عَبْرَ الثَّقْبِ الدُّودِيِّ قَطْعَ مَسَافَاتٍ فَلَكِيَّةٍ شَاسِعَةٍ فِي أَجْزَاءٍ مِنَ الثَّانِيَةِ.",
+        "en": "A theoretical wormhole transit would permit traversing vast astronomical distances in fractions of a second."
+      },
+      "image": "assets/svg/concept_wurmloch_transit.svg"
+    },
+    {
+      "id": "concept_kosmische_hintergrundstrahlung",
+      "german": "die kosmische Hintergrundstrahlung",
+      "plural": "die kosmischen Hintergrundstrahlungen",
+      "arabic": "إِشْعَاعُ الخَلْفِيَّةِ الكَوْنِيَّةِ المِيكْرُوِيِّ",
+      "english": "cosmic microwave background radiation",
+      "example_sentence": {
+        "de": "Die kosmische Hintergrundstrahlung stellt das älteste elektromagnetische Relikt des frühen Universums dar.",
+        "ar": "يُمَثِّلُ إِشْعَاعُ الخَلْفِيَّةِ الكَوْنِيَّةِ المِيكْرُوِيِّ أَقْدَمَ أَثَرٍ كَهْرُومَغْنَاطِيسِيٍّ شَاهِدٍ عَلَى الكَوْنِ المُبَكِّرِ.",
+        "en": "The cosmic microwave background radiation constitutes the oldest electromagnetic remnant of the early universe."
+      },
+      "image": "assets/svg/concept_kosmische_hintergrundstrahlung.svg"
+    },
+    {
+      "id": "concept_multiversum_modell",
+      "german": "das Multiversum-Modell",
+      "plural": "die Multiversum-Modelle",
+      "arabic": "نَمُوذَجُ الأَكْوَانِ المُتَعَدِّدَةِ",
+      "english": "multiverse cosmological model",
+      "example_sentence": {
+        "de": "Das Multiversum-Modell postuliert eine unendliche Vielzahl voneinander getrennter Universen mit unterschiedlichen Naturgesetzen.",
+        "ar": "يَفْتَرِضُ نَمُوذَجُ الأَكْوَانِ المُتَعَدِّدَةِ وُجُودَ عَدَدٍ لَا نِهَائِيٍّ مِنَ الأَكْوَانِ المُنْفَصِلَةِ ذَاتِ القَوَانِينِ الفِيزْيَائِيَّةِ المُتَبَايِنَةِ.",
+        "en": "The multiverse model posits an infinite multitude of distinct universes with differing laws of physics."
+      },
+      "image": "assets/svg/concept_multiversum_modell.svg"
+    },
+    {
+      "id": "concept_entropie_maximierung",
+      "german": "die Entropie-Maximierung",
+      "plural": "die Entropie-Maximierungen",
+      "arabic": "تَعْظِيمُ الإِنْتْرُوبْيَا الكَوْنِيَّةِ (المَوْتُ الحَرَارِيُّ)",
+      "english": "cosmic entropy maximization (heat death)",
+      "example_sentence": {
+        "de": "Die unausweichliche Entropie-Maximierung führt das Universum langfristig in den thermodynamischen Wärmetod.",
+        "ar": "يَقُودُ التَّعْظِيمُ الحَتْمِيُّ لِلإِنْتْرُوبْيَا الكَوْنَ عَلَى المَدَى البَعِيدِ إِلَى المَوْتِ الحَرَارِيِّ الدِّينَامِيكِيِّ.",
+        "en": "The inevitable maximization of entropy steers the universe in the long run toward thermodynamic heat death."
+      },
+      "image": "assets/svg/concept_entropie_maximierung.svg"
+    },
+    {
+      "id": "concept_noosphaere_konzept",
+      "german": "das Noosphäre-Konzept",
+      "plural": "die Noosphäre-Konzepte",
+      "arabic": "مَفْهُومُ مَجَالِ العَقْلِ الكَوْنِيِّ (النُّوُوسْفِير)",
+      "english": "noosphere concept (sphere of human thought)",
+      "example_sentence": {
+        "de": "Teilhard de Chardin sah in der Noosphäre die evolutionäre Schicht des vernetzten Geistes über der Biosphäre.",
+        "ar": "رَأَى تِيَار دُو شَارْدَان فِي النُّوُوسْفِير الطَّبَقَةَ التَّطَوُّرِيَّةَ لِلْعَقْلِ البَشَرِيِّ المَوْصُولِ فَوْقَ المَجَالِ الحَيَوِيِّ.",
+        "en": "Teilhard de Chardin conceived the noosphere as the evolutionary layer of networked mind enveloping the biosphere."
+      },
+      "image": "assets/svg/concept_noosphaere_konzept.svg"
+    },
+    {
+      "id": "concept_exobiologische_signatur",
+      "german": "die exobiologische Signatur",
+      "plural": "die exobiologischen Signaturen",
+      "arabic": "البَصْمَةُ الحَيَوِيَّةُ خَارِجَ كَوْكَبِ الأَرْضِ",
+      "english": "exobiological biosignature",
+      "example_sentence": {
+        "de": "Die spektroskopische Entdeckung von Ozon und Methan in einer Exoplaneten-Atmosphäre gilt als starke exobiologische Signatur.",
+        "ar": "يُعَدُّ الاكْتِشَافُ الطَّيْفِيُّ لِلأُوزُونِ وَالمِيثَانِ فِي الغِلَافِ الجَوِّيِّ لِكَوْكَبٍ خَارِجِيٍّ بَصْمَةً حَيَوِيَّةً قَوِيَّةً.",
+        "en": "The spectroscopic detection of ozone and methane in an exoplanetary atmosphere is regarded as a compelling biosignature."
+      },
+      "image": "assets/svg/concept_exobiologische_signatur.svg"
+    },
+    {
+      "id": "concept_raumzeitliche_singularitaet",
+      "german": "die raumzeitliche Singularität",
+      "plural": "die raumzeitlichen Singularitäten",
+      "arabic": "المُفْرَدَةُ الزَّمَكَانِيَّةُ",
+      "english": "spacetime singularity",
+      "example_sentence": {
+        "de": "Im Zentrum einer raumzeitlichen Singularität streben Dichte und Raumzeitkrümmung gegen unendlich.",
+        "ar": "فِي مَرْكَزِ المُفْرَدَةِ الزَّمَكَانِيَّةِ، تَتَّجِهُ الكَثَافَةُ المَادِّيَّةُ وَانْحِنَاءُ الزَّمَكَانِ إِلَى مَا لَا نِهَايَةَ.",
+        "en": "At the center of a spacetime singularity, matter density and curvature approach infinity."
+      },
+      "image": "assets/svg/concept_raumzeitliche_singularitaet.svg"
+    },
+    {
+      "id": "concept_intergalaktische_konvergenz",
+      "german": "die intergalaktische Konvergenz",
+      "plural": "die intergalaktischen Konvergenzen",
+      "arabic": "التَّقَارُبُ المَجَرِّيُّ الكَوْنِيُّ",
+      "english": "intergalactic convergence",
+      "example_sentence": {
+        "de": "Aufgrund der Gravitation steuern die Milchstraße und die Andromeda-Galaxie auf eine intergalaktische Konvergenz zu.",
+        "ar": "بِسَبَبِ الجَاذِبِيَّةِ، تَتَّجِهُ مَجَرَّتُنَا دَرْبُ التَّبَّانَةِ وَمَجَرَّةُ المَرْأَةِ المُسَلْسَلَةِ نَحْوَ تَقَارُبٍ مَجَرِّيٍّ كَبِيرٍ.",
+        "en": "Due to gravitational attraction, the Milky Way and Andromeda galaxies are heading toward an intergalactic convergence."
+      },
+      "image": "assets/svg/concept_intergalaktische_konvergenz.svg"
+    },
+    {
+      "id": "concept_kosmisches_bewusstsein",
+      "german": "das kosmische Bewusstsein",
+      "plural": "die kosmischen Bewusstseine",
+      "arabic": "الوَعْيُ الكَوْنِيُّ الشَّامِلُ",
+      "english": "cosmic consciousness",
+      "example_sentence": {
+        "de": "Philosophen bezeichnen den Menschen als die Art und Weise, wie das Universum zu kosmischem Bewusstsein über sich selbst erwacht.",
+        "ar": "يَصِفُ الفَلَاسِفَةُ الإِنْسَانَ بِأَنَّهُ الوَسِيلَةُ الَّتِي يَسْتَيْقِظُ بِهَا الكَوْنُ لِيَصِلَ إِلَى وَعْيٍ كَوْنِيٍّ شَامِلٍ بِذَاتِهِ.",
+        "en": "Philosophers characterize humankind as the universe's mechanism for awakening into cosmic self-consciousness."
+      },
+      "image": "assets/svg/concept_kosmisches_bewusstsein.svg"
+    },
+    {
+      "id": "concept_zivilisations_resilienz",
+      "german": "die Zivilisations-Resilienz",
+      "plural": "die Zivilisations-Resilienzen",
+      "arabic": "مُرُونَةُ وَاسْتِدَامَةُ الحَضَارَةِ الكَوْكَبِيَّةِ",
+      "english": "planetary civilizational resilience",
+      "example_sentence": {
+        "de": "Die Ansiedlung auf mehreren Planeten erhöht die Zivilisations-Resilienz gegen kosmische Katastrophen wie Asteroideneinschläge.",
+        "ar": "يَرْفَعُ الاسْتِيطَانُ مُتَعَدِّدُ الكَوَاكِبِ مِنْ مُرُونَةِ الحَضَارَةِ فِي مُوَاجَهَةِ الكَوَارِثِ الكَوْنِيَّةِ كَاصْطِدَامَاتِ الكُوَيْكِبَاتِ.",
+        "en": "Multi-planetary habitation enhances civilizational resilience against cosmic catastrophes such as asteroid impacts."
+      },
+      "image": "assets/svg/concept_zivilisations_resilienz.svg"
+    }
+  ]
+}

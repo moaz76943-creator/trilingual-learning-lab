@@ -31926,5 +31926,130 @@
     "file": "assets/svg/verb_signalisieren.svg",
     "category": "biosemiotic_verbs",
     "alt": "verb signalisieren"
+  },
+  "assets/svg/concept_panspermie_hypothese.svg": {
+    "file": "assets/svg/concept_panspermie_hypothese.svg",
+    "category": "vocabulary",
+    "alt": "concept panspermie hypothese"
+  },
+  "assets/svg/concept_ereignishorizont.svg": {
+    "file": "assets/svg/concept_ereignishorizont.svg",
+    "category": "vocabulary",
+    "alt": "concept ereignishorizont"
+  },
+  "assets/svg/concept_wurmloch_transit.svg": {
+    "file": "assets/svg/concept_wurmloch_transit.svg",
+    "category": "vocabulary",
+    "alt": "concept wurmloch transit"
+  },
+  "assets/svg/concept_makro_evolution.svg": {
+    "file": "assets/svg/concept_makro_evolution.svg",
+    "category": "vocabulary",
+    "alt": "concept makro evolution"
+  },
+  "assets/svg/concept_interstellare_zivilisation.svg": {
+    "file": "assets/svg/concept_interstellare_zivilisation.svg",
+    "category": "vocabulary",
+    "alt": "concept interstellare zivilisation"
+  },
+  "assets/svg/concept_planetare_terraformation.svg": {
+    "file": "assets/svg/concept_planetare_terraformation.svg",
+    "category": "vocabulary",
+    "alt": "concept planetare terraformation"
+  },
+  "assets/svg/concept_quantenvakuumfluktuation.svg": {
+    "file": "assets/svg/concept_quantenvakuumfluktuation.svg",
+    "category": "vocabulary",
+    "alt": "concept quantenvakuumfluktuation"
+  },
+  "assets/svg/concept_kosmische_hintergrundstrahlung.svg": {
+    "file": "assets/svg/concept_kosmische_hintergrundstrahlung.svg",
+    "category": "cosmic_frontiers",
+    "alt": "concept kosmische hintergrundstrahlung"
+  },
+  "assets/svg/concept_noosphaere_konzept.svg": {
+    "file": "assets/svg/concept_noosphaere_konzept.svg",
+    "category": "vocabulary",
+    "alt": "concept noosphaere konzept"
+  },
+  "assets/svg/concept_fermi_paradoxon.svg": {
+    "file": "assets/svg/concept_fermi_paradoxon.svg",
+    "category": "vocabulary",
+    "alt": "concept fermi paradoxon"
+  },
+  "assets/svg/concept_entropie_maximierung.svg": {
+    "file": "assets/svg/concept_entropie_maximierung.svg",
+    "category": "vocabulary",
+    "alt": "concept entropie maximierung"
+  },
+  "assets/svg/concept_biosphaeren_arche.svg": {
+    "file": "assets/svg/concept_biosphaeren_arche.svg",
+    "category": "vocabulary",
+    "alt": "concept biosphaeren arche"
+  },
+  "assets/svg/concept_dunkle_materie_halo.svg": {
+    "file": "assets/svg/concept_dunkle_materie_halo.svg",
+    "category": "vocabulary",
+    "alt": "concept dunkle materie halo"
+  },
+  "assets/svg/concept_multiversum_modell.svg": {
+    "file": "assets/svg/concept_multiversum_modell.svg",
+    "category": "vocabulary",
+    "alt": "concept multiversum modell"
+  },
+  "assets/svg/concept_intergalaktische_konvergenz.svg": {
+    "file": "assets/svg/concept_intergalaktische_konvergenz.svg",
+    "category": "vocabulary",
+    "alt": "concept intergalaktische konvergenz"
+  },
+  "assets/svg/concept_exobiologische_signatur.svg": {
+    "file": "assets/svg/concept_exobiologische_signatur.svg",
+    "category": "vocabulary",
+    "alt": "concept exobiologische signatur"
+  },
+  "assets/svg/concept_zivilisations_resilienz.svg": {
+    "file": "assets/svg/concept_zivilisations_resilienz.svg",
+    "category": "vocabulary",
+    "alt": "concept zivilisations resilienz"
+  },
+  "assets/svg/concept_kardaschow_skala.svg": {
+    "file": "assets/svg/concept_kardaschow_skala.svg",
+    "category": "vocabulary",
+    "alt": "concept kardaschow skala"
+  },
+  "assets/svg/concept_gravitationswellen_astronomie.svg": {
+    "file": "assets/svg/concept_gravitationswellen_astronomie.svg",
+    "category": "cosmic_frontiers",
+    "alt": "concept gravitationswellen astronomie"
+  },
+  "assets/svg/concept_dyson_sphaere.svg": {
+    "file": "assets/svg/concept_dyson_sphaere.svg",
+    "category": "cosmic_frontiers",
+    "alt": "concept dyson sphaere"
+  },
+  "assets/svg/concept_raumzeitliche_singularitaet.svg": {
+    "file": "assets/svg/concept_raumzeitliche_singularitaet.svg",
+    "category": "vocabulary",
+    "alt": "concept raumzeitliche singularitaet"
+  },
+  "assets/svg/concept_astro_soziologie.svg": {
+    "file": "assets/svg/concept_astro_soziologie.svg",
+    "category": "cosmic_frontiers",
+    "alt": "concept astro soziologie"
+  },
+  "assets/svg/concept_transhumanismus.svg": {
+    "file": "assets/svg/concept_transhumanismus.svg",
+    "category": "vocabulary",
+    "alt": "concept transhumanismus"
+  },
+  "assets/svg/concept_kosmologisches_anthropisches_prinzip.svg": {
+    "file": "assets/svg/concept_kosmologisches_anthropisches_prinzip.svg",
+    "category": "cosmic_frontiers",
+    "alt": "concept kosmologisches anthropisches prinzip"
+  },
+  "assets/svg/concept_kosmisches_bewusstsein.svg": {
+    "file": "assets/svg/concept_kosmisches_bewusstsein.svg",
+    "category": "cosmic_frontiers",
+    "alt": "concept kosmisches bewusstsein"
   }
 }

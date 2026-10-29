@@ -7251,6 +7251,176 @@
         "Subjekt Feminin Nominativ",
         "Akkusativ Plural 'die kleinen Lebewesen'"
       ]
+    },
+    {
+      "id": "sent_356",
+      "category": "astronomy_sky",
+      "difficulty": "A1+",
+      "arabic": "النُّجُومُ تَلْمَعُ فِي اللَّيْلِ الجَمِيلِ.",
+      "german": "Die Sterne leuchten in der schönen Nacht.",
+      "english": "The stars shine in the beautiful night.",
+      "tokens": [
+        {
+          "word": "Die Sterne",
+          "pos": "noun",
+          "ar": "النُّجُومُ"
+        },
+        {
+          "word": "leuchten",
+          "pos": "verb",
+          "ar": "تَلْمَعُ / تُضِيءُ"
+        },
+        {
+          "word": "in der schönen Nacht",
+          "pos": "preposition_phrase",
+          "ar": "فِي اللَّيْلِ الجَمِيلِ"
+        }
+      ],
+      "grammar_points": [
+        "Plural Subjekt Maskulin",
+        "Präposition 'in' + Dativ Feminin mit Adjektivdeklination"
+      ]
+    },
+    {
+      "id": "sent_357",
+      "category": "space_exploration",
+      "difficulty": "A1+",
+      "arabic": "الإِنْسَانُ يَسْتَكْشِفُ الفَضَاءَ العَمِيقَ دَائِمًا.",
+      "german": "Der Mensch erforscht den tiefen Weltraum immer.",
+      "english": "Humanity always explores deep space.",
+      "tokens": [
+        {
+          "word": "Der Mensch",
+          "pos": "noun",
+          "ar": "الإِنْسَانُ / البَشَرِيَّةُ"
+        },
+        {
+          "word": "erforscht",
+          "pos": "verb",
+          "ar": "يَسْتَكْشِفُ"
+        },
+        {
+          "word": "den tiefen Weltraum",
+          "pos": "noun_phrase",
+          "ar": "الفَضَاءَ العَمِيقَ"
+        },
+        {
+          "word": "immer",
+          "pos": "adverb",
+          "ar": "دَائِمًا"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Maskulin Nominativ",
+        "Akkusativ Maskulin mit bestimmtem Artikel 'den tiefen Weltraum'"
+      ]
+    },
+    {
+      "id": "sent_358",
+      "category": "planets_orbit",
+      "difficulty": "A1+",
+      "arabic": "الكَوْكَبُ يَدُورُ حَوْلَ الشَّمْسِ بِانْتِظَامٍ.",
+      "german": "Der Planet kreist regelmäßig um die Sonne.",
+      "english": "The planet orbits the sun regularly.",
+      "tokens": [
+        {
+          "word": "Der Planet",
+          "pos": "noun",
+          "ar": "الكَوْكَبُ"
+        },
+        {
+          "word": "kreist",
+          "pos": "verb",
+          "ar": "يَدُورُ"
+        },
+        {
+          "word": "regelmäßig",
+          "pos": "adverb",
+          "ar": "بِانْتِظَامٍ"
+        },
+        {
+          "word": "um die Sonne",
+          "pos": "preposition_phrase",
+          "ar": "حَوْلَ الشَّمْسِ"
+        }
+      ],
+      "grammar_points": [
+        "Schwaches Nomen 'der Planet' im Nominativ",
+        "Präposition 'um' regiert immer Akkusativ Feminin"
+      ]
+    },
+    {
+      "id": "sent_359",
+      "category": "telescope_observation",
+      "difficulty": "A1+",
+      "arabic": "نَحْنُ نَنْظُرُ إِلَى السَّمَاءِ بِالتَّلِسْكُوبِ.",
+      "german": "Wir schauen mit dem Teleskop in den Himmel.",
+      "english": "We look into the sky with the telescope.",
+      "tokens": [
+        {
+          "word": "Wir",
+          "pos": "pronoun",
+          "ar": "نَحْنُ"
+        },
+        {
+          "word": "schauen",
+          "pos": "verb",
+          "ar": "نَنْظُرُ"
+        },
+        {
+          "word": "mit dem Teleskop",
+          "pos": "preposition_phrase",
+          "ar": "بِالتَّلِسْكُوبِ"
+        },
+        {
+          "word": "in den Himmel",
+          "pos": "preposition_phrase",
+          "ar": "إِلَى السَّمَاءِ"
+        }
+      ],
+      "grammar_points": [
+        "Präposition 'mit' + Dativ Neutrum",
+        "Richtungsausdruck 'in' + Akkusativ Maskulin"
+      ]
+    },
+    {
+      "id": "sent_360",
+      "category": "science_future",
+      "difficulty": "A1+",
+      "arabic": "العِلْمُ يَفْتَحُ أَبْوَابَ المُسْتَقْبَلِ لِلْبَشَرِيَّةِ.",
+      "german": "Die Wissenschaft öffnet der Menschheit die Tore der Zukunft.",
+      "english": "Science opens the gates of the future to humanity.",
+      "tokens": [
+        {
+          "word": "Die Wissenschaft",
+          "pos": "noun",
+          "ar": "العِلْمُ"
+        },
+        {
+          "word": "öffnet",
+          "pos": "verb",
+          "ar": "يَفْتَحُ"
+        },
+        {
+          "word": "der Menschheit",
+          "pos": "dative_noun",
+          "ar": "لِلْبَشَرِيَّةِ (حالة الجر)"
+        },
+        {
+          "word": "die Tore",
+          "pos": "noun",
+          "ar": "أَبْوَابَ"
+        },
+        {
+          "word": "der Zukunft",
+          "pos": "genitive_noun",
+          "ar": "المُسْتَقْبَلِ"
+        }
+      ],
+      "grammar_points": [
+        "Dativobjekt 'der Menschheit'",
+        "Genitivattribut 'der Zukunft'"
+      ]
     }
   ]
 }
