@@ -33321,5 +33321,130 @@
     "file": "assets/svg/verb_suspendieren_jud.svg",
     "category": "c2_adjudication_verbs",
     "alt": "verb suspendieren jud"
+  },
+  "assets/svg/concept_synaesthesie.svg": {
+    "file": "assets/svg/concept_synaesthesie.svg",
+    "category": "neurophilosophy",
+    "alt": "concept synaesthesie"
+  },
+  "assets/svg/concept_begrenzte_rationalitaet.svg": {
+    "file": "assets/svg/concept_begrenzte_rationalitaet.svg",
+    "category": "neurophilosophy",
+    "alt": "concept begrenzte rationalitaet"
+  },
+  "assets/svg/concept_neuroplastizitaet_c2.svg": {
+    "file": "assets/svg/concept_neuroplastizitaet_c2.svg",
+    "category": "neurophilosophy",
+    "alt": "concept neuroplastizitaet c2"
+  },
+  "assets/svg/concept_neurophilosophie.svg": {
+    "file": "assets/svg/concept_neurophilosophie.svg",
+    "category": "neurophilosophy",
+    "alt": "concept neurophilosophie"
+  },
+  "assets/svg/concept_chinesisches_zimmer.svg": {
+    "file": "assets/svg/concept_chinesisches_zimmer.svg",
+    "category": "neurophilosophy",
+    "alt": "concept chinesisches zimmer"
+  },
+  "assets/svg/concept_qualia_erleben.svg": {
+    "file": "assets/svg/concept_qualia_erleben.svg",
+    "category": "neurophilosophy",
+    "alt": "concept qualia erleben"
+  },
+  "assets/svg/concept_semantisches_priming.svg": {
+    "file": "assets/svg/concept_semantisches_priming.svg",
+    "category": "neurophilosophy",
+    "alt": "concept semantisches priming"
+  },
+  "assets/svg/concept_funktionalismus_mind.svg": {
+    "file": "assets/svg/concept_funktionalismus_mind.svg",
+    "category": "neurophilosophy",
+    "alt": "concept funktionalismus mind"
+  },
+  "assets/svg/concept_gedankenexperiment.svg": {
+    "file": "assets/svg/concept_gedankenexperiment.svg",
+    "category": "neurophilosophy",
+    "alt": "concept gedankenexperiment"
+  },
+  "assets/svg/concept_mentale_repraesentation.svg": {
+    "file": "assets/svg/concept_mentale_repraesentation.svg",
+    "category": "neurophilosophy",
+    "alt": "concept mentale repraesentation"
+  },
+  "assets/svg/concept_intentionalitaet.svg": {
+    "file": "assets/svg/concept_intentionalitaet.svg",
+    "category": "neurophilosophy",
+    "alt": "concept intentionalitaet"
+  },
+  "assets/svg/concept_spiegelneuronen.svg": {
+    "file": "assets/svg/concept_spiegelneuronen.svg",
+    "category": "neurophilosophy",
+    "alt": "concept spiegelneuronen"
+  },
+  "assets/svg/concept_kognitive_dissonanz.svg": {
+    "file": "assets/svg/concept_kognitive_dissonanz.svg",
+    "category": "neurophilosophy",
+    "alt": "concept kognitive dissonanz"
+  },
+  "assets/svg/concept_kognitive_architektur.svg": {
+    "file": "assets/svg/concept_kognitive_architektur.svg",
+    "category": "neurophilosophy",
+    "alt": "concept kognitive architektur"
+  },
+  "assets/svg/concept_kognitive_semantik.svg": {
+    "file": "assets/svg/concept_kognitive_semantik.svg",
+    "category": "neurophilosophy",
+    "alt": "concept kognitive semantik"
+  },
+  "assets/svg/concept_panpsychismus.svg": {
+    "file": "assets/svg/concept_panpsychismus.svg",
+    "category": "neurophilosophy",
+    "alt": "concept panpsychismus"
+  },
+  "assets/svg/concept_verkoerperte_kognition.svg": {
+    "file": "assets/svg/concept_verkoerperte_kognition.svg",
+    "category": "neurophilosophy",
+    "alt": "concept verkoerperte kognition"
+  },
+  "assets/svg/concept_phaenomenales_bewusstsein.svg": {
+    "file": "assets/svg/concept_phaenomenales_bewusstsein.svg",
+    "category": "neurophilosophy",
+    "alt": "concept phaenomenales bewusstsein"
+  },
+  "assets/svg/concept_leib_seele_problem.svg": {
+    "file": "assets/svg/concept_leib_seele_problem.svg",
+    "category": "neurophilosophy",
+    "alt": "concept leib seele problem"
+  },
+  "assets/svg/concept_eliminativer_materialismus.svg": {
+    "file": "assets/svg/concept_eliminativer_materialismus.svg",
+    "category": "neurophilosophy",
+    "alt": "concept eliminativer materialismus"
+  },
+  "assets/svg/concept_supervenienz_mind.svg": {
+    "file": "assets/svg/concept_supervenienz_mind.svg",
+    "category": "neurophilosophy",
+    "alt": "concept supervenienz mind"
+  },
+  "assets/svg/concept_konnektom.svg": {
+    "file": "assets/svg/concept_konnektom.svg",
+    "category": "neurophilosophy",
+    "alt": "concept konnektom"
+  },
+  "assets/svg/concept_ncc_korrelate.svg": {
+    "file": "assets/svg/concept_ncc_korrelate.svg",
+    "category": "neurophilosophy",
+    "alt": "concept ncc korrelate"
+  },
+  "assets/svg/concept_epiphaenomenalismus.svg": {
+    "file": "assets/svg/concept_epiphaenomenalismus.svg",
+    "category": "neurophilosophy",
+    "alt": "concept epiphaenomenalismus"
+  },
+  "assets/svg/concept_metakognition.svg": {
+    "file": "assets/svg/concept_metakognition.svg",
+    "category": "neurophilosophy",
+    "alt": "concept metakognition"
   }
 }

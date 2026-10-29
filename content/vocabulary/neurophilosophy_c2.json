@@ -1,0 +1,336 @@
+{
+  "category_id": "neurophilosophy_c2",
+  "category_title": {
+    "ar": "فلسفة العقل والسيميوطيقا الإدراكية العصبية",
+    "de": "Neurophilosophie, Kognitive Semantik und Epistemologie des Geistes",
+    "en": "Epistemology of Mind, Cognitive Semantics & Neurophilosophy"
+  },
+  "level": "C2",
+  "items": [
+    {
+      "id": "concept_neurophilosophie",
+      "german": "die Neurophilosophie",
+      "plural": "die Neurophilosophien",
+      "arabic": "الفَلْسَفَةُ العَصَبِيَّةُ (النُّورُوفِيلُوسُوفِيَا)",
+      "english": "neurophilosophy",
+      "example_sentence": {
+        "de": "Patricia Churchland begründete die Neurophilosophie an der Schnittstelle von Neurowissenschaften und Erkenntnistheorie.",
+        "ar": "أَسَّسَتْ بَاتْرِيشْيَا تْشِيرْتْشْلَانْد الفَلْسَفَةَ العَصَبِيَّةَ عِنْدَ نُقْطَةِ تَلَاقِي عُلُومِ الأَعْصَابِ مَعَ نَظَرِيَّةِ المَعْرِفَةِ.",
+        "en": "Patricia Churchland established neurophilosophy at the intersection of neuroscience and epistemology."
+      },
+      "image": "assets/svg/concept_neurophilosophie.svg"
+    },
+    {
+      "id": "concept_leib_seele_problem",
+      "german": "das Leib-Seele-Problem",
+      "plural": "die Leib-Seele-Probleme",
+      "arabic": "مُعْضِلَةُ الجَسَدِ وَالنَّفْسِ (مَسْأَلَةُ العَقْلِ وَالمَادَّةِ)",
+      "english": "mind-body problem",
+      "example_sentence": {
+        "de": "Das Leib-Seele-Problem fragt danach, wie immaterielle mentale Zustände mit physischen Gehirnprozessen interagieren können.",
+        "ar": "تَبْحَثُ مُعْضِلَةُ الجَسَدِ وَالنَّفْسِ فِي كَيْفِيَّةِ تَفَاعُلِ الحَالَاتِ الذِّهْنِيَّةِ اللَّامَادِّيَّةِ مَعَ العَمَلِيَّاتِ الدِّمَاغِيَّةِ الفِيزْيَائِيَّةِ.",
+        "en": "The mind-body problem examines how immaterial mental states can interact with physical brain processes."
+      },
+      "image": "assets/svg/concept_leib_seele_problem.svg"
+    },
+    {
+      "id": "concept_qualia_erleben",
+      "german": "die Qualia",
+      "plural": "die Qualia",
+      "arabic": "الكُوَالِيَا (الكَيْفِيَّاتُ المَحْسُوسَةُ لِلتَّجْرِبَةِ الذَّاتِيَّةِ)",
+      "english": "qualia (subjective phenomenal qualities of conscious experience)",
+      "example_sentence": {
+        "de": "Das subjektive Erleben des Röte-Seins einer Rose gilt in der Philosophie des Geistes als klassisches Beispiel für Qualia.",
+        "ar": "يُعَدُّ الشُّعُورُ الذَّاتِيُّ بِكَيْفِيَّةِ حُمْرَةِ الوَرْدَةِ فِي فَلْسَفَةِ العَقْلِ مِثَالًا كَلَاسِيكِيًّا عَلَى الكُوَالِيَا.",
+        "en": "The subjective experience of the redness of a rose is regarded in philosophy of mind as a paradigm of qualia."
+      },
+      "image": "assets/svg/concept_qualia_erleben.svg"
+    },
+    {
+      "id": "concept_ncc_korrelate",
+      "german": "die neuronalen Korrelate des Bewusstseins (NCC)",
+      "plural": "-",
+      "arabic": "المُتَرَابِطَاتُ العَصَبِيَّةُ لِلْوَعْيِ",
+      "english": "neural correlates of consciousness (NCC)",
+      "example_sentence": {
+        "de": "Forscher suchen nach den minimalen neuronalen Mechanismen, die gemeinsam für eine spezifische bewusste Wahrnehmung ausreichen.",
+        "ar": "يَبْحَثُ العُلَمَاءُ عَنِ الآلِيَّاتِ العَصَبِيَّةِ الدُّنْيَا الَّتِي تَكُونُ كَافِيَةً مَعًا لِتَوْلِيدِ إِدْرَاكٍ وَاعٍ مُحَدَّدٍ.",
+        "en": "Researchers search for the minimal neuronal mechanisms jointly sufficient for any specific conscious percept."
+      },
+      "image": "assets/svg/concept_ncc_korrelate.svg"
+    },
+    {
+      "id": "concept_funktionalismus_mind",
+      "german": "der Funktionalismus",
+      "plural": "-",
+      "arabic": "الوَظِيفِيَّةُ فِي فَلْسَفَةِ العَقْلِ",
+      "english": "functionalism in philosophy of mind",
+      "example_sentence": {
+        "de": "Der Funktionalismus definiert mentale Zustände ausschließlich über ihre kausale Rolle zwischen Sinneseindrücken und Verhalten.",
+        "ar": "تُعَرِّفُ الوَظِيفِيَّةُ الحَالَاتِ الذِّهْنِيَّةَ حَصْرِيًّا عَبْرَ دَوْرِهَا السَّبَبِيِّ بَيْنَ المُدْخَلَاتِ الحِسِّيَّةِ وَالسُّلُوكِ النَّاتِجِ.",
+        "en": "Functionalism defines mental states exclusively by their causal role connecting sensory inputs to behavioral outputs."
+      },
+      "image": "assets/svg/concept_funktionalismus_mind.svg"
+    },
+    {
+      "id": "concept_eliminativer_materialismus",
+      "german": "der eliminative Materialismus",
+      "plural": "-",
+      "arabic": "المَادِّيَّةُ الإِقْصَائِيَّةُ",
+      "english": "eliminative materialism",
+      "example_sentence": {
+        "de": "Der eliminative Materialismus behauptet, dass alltagspsychologische Begriffe wie 'Glaube' oder 'Wunsch' wissenschaftlich unhaltbar sind.",
+        "ar": "تَزْعُمُ المَادِّيَّةُ الإِقْصَائِيَّةُ أَنَّ مَفَاهِيمَ عِلْمِ النَّفْسِ الشَّعْبِيِّ كَـ'الاعْتِقَادِ' أَوْ 'الرَّغْبَةِ' غَيْرُ صَالِحَةٍ عِلْمِيًّا.",
+        "en": "Eliminative materialism claims that folk psychological concepts like 'belief' or 'desire' will be eliminated by neuroscience."
+      },
+      "image": "assets/svg/concept_eliminativer_materialismus.svg"
+    },
+    {
+      "id": "concept_phaenomenales_bewusstsein",
+      "german": "das phänomenale Bewusstsein",
+      "plural": "-",
+      "arabic": "الوَعْيُ الظَّاهِرَاتِيُّ (الفِينُومِينُولُوجِيُّ)",
+      "english": "phenomenal consciousness ('what-it-is-like')",
+      "example_sentence": {
+        "de": "Thomas Nagels Frage 'Wie ist es, eine Fledermaus zu sein?' beleuchtet das ungelöste Rätsel des phänomenalen Bewusstseins.",
+        "ar": "يُسَلِّطُ سُؤَالُ تُومَاس نَاغِل 'كَيْفَ يَكُونُ الشُّعُورُ حِينَ تَكُونُ خُفَّاشًا؟' الضَّوْءَ عَلَى لُغْزِ الوَعْيِ الظَّاهِرَاتِيِّ غَيْرِ المَحْلُولِ.",
+        "en": "Thomas Nagel's question 'What is it like to be a bat?' illuminates the hard problem of phenomenal consciousness."
+      },
+      "image": "assets/svg/concept_phaenomenales_bewusstsein.svg"
+    },
+    {
+      "id": "concept_intentionalitaet",
+      "german": "die Intentionalität",
+      "plural": "-",
+      "arabic": "القَصْدِيَّةُ (تَوَجُّهُ الوَعْيِ نَحْوَ مَوْضُوعَاتِهِ)",
+      "english": "intentionality (aboutness of mental states)",
+      "example_sentence": {
+        "de": "Franz Brentano sah in der Intentionalität das entscheidende Kriterium zur Unterscheidung mentaler von physischen Phänomenen.",
+        "ar": "رَأَى فْرَانْتْس بْرِينْتَانُو فِي القَصْدِيَّةِ المِعْيَارَ الحَاسِمَ لِلتَّمْيِيزِ بَيْنَ الظَّوَاهِرِ الذِّهْنِيَّةِ وَالمَادِّيَّةِ.",
+        "en": "Franz Brentano identified intentionality as the defining hallmark distinguishing mental from purely physical phenomena."
+      },
+      "image": "assets/svg/concept_intentionalitaet.svg"
+    },
+    {
+      "id": "concept_kognitive_semantik",
+      "german": "die kognitive Semantik",
+      "plural": "-",
+      "arabic": "الدَّلَالِيَّاتُ الإِدْرَاكِيَّةُ المَعْرِفِيَّةُ",
+      "english": "cognitive semantics",
+      "example_sentence": {
+        "de": "Die kognitive Semantik untersucht, wie sprachliche Bedeutungen auf körperlichen Erfahrungen und Metaphern basieren.",
+        "ar": "تَبْحَثُ الدَّلَالِيَّاتُ الإِدْرَاكِيَّةُ فِي كَيْفِيَّةِ ارْتِكَازِ المَعَانِي اللُّغَوِيَّةِ عَلَى الخِبْرَاتِ الجَسَدِيَّةِ وَالاسْتِعَارَاتِ الذِّهْنِيَّةِ.",
+        "en": "Cognitive semantics investigates how linguistic meanings are grounded in embodied conceptual metaphors."
+      },
+      "image": "assets/svg/concept_kognitive_semantik.svg"
+    },
+    {
+      "id": "concept_mentale_repraesentation",
+      "german": "die mentale Repräsentation",
+      "plural": "die mentalen Repräsentationen",
+      "arabic": "التَّمْثِيلُ الذِّهْنِيُّ المَعْرِفِيُّ",
+      "english": "mental representation",
+      "example_sentence": {
+        "de": "Kognitive Systeme bilden interne mentale Repräsentationen aus, um über abwesende Objekte schlussfolgern zu können.",
+        "ar": "تَبْنِي الأَنْظِمَةُ الإِدْرَاكِيَّةُ تَمْثِيلَاتٍ ذِهْنِيَّةً دَاخِلِيَّةً لِتَتَمَكَّنَ مِنَ الِاسْتِدْلَالِ عَلَى الأَشْيَاءِ الغَائِبَةِ عَيَانًا.",
+        "en": "Cognitive systems construct internal mental representations to reason about objects absent from immediate perception."
+      },
+      "image": "assets/svg/concept_mentale_repraesentation.svg"
+    },
+    {
+      "id": "concept_kognitive_dissonanz",
+      "german": "die kognitive Dissonanz",
+      "plural": "die kognitiven Dissonanzen",
+      "arabic": "التَّنَافُرُ المَعْرِفِيُّ الإِدْرَاكِيُّ",
+      "english": "cognitive dissonance",
+      "example_sentence": {
+        "de": "Kognitive Dissonanz erzeugt einen psychischen Spannungszustand, wenn Handlungen und Überzeugungen einander widersprechen.",
+        "ar": "يُوَلِّدُ التَّنَافُرُ المَعْرِفِيُّ حَالَةَ تَوْتِيرٍ نَفْسِيٍّ عِنْدَمَا تَتَعَارَضُ الأَفْعَالُ مَعَ المَبَادِئِ وَالقَنَاعَاتِ الذَّاتِيَّةِ.",
+        "en": "Cognitive dissonance produces an acute state of psychological tension when actions contradict core convictions."
+      },
+      "image": "assets/svg/concept_kognitive_dissonanz.svg"
+    },
+    {
+      "id": "concept_gedankenexperiment",
+      "german": "das Gedankenexperiment",
+      "plural": "die Gedankenexperimente",
+      "arabic": "التَّجْرِبَةُ الفِكْرِيَّةُ التَّأَمُّلِيَّةُ",
+      "english": "thought experiment (Gedankenexperiment)",
+      "example_sentence": {
+        "de": "Das Gedankenexperiment von 'Mary der Farbfilmerin' soll beweisen, dass physikalische Kenntnisse nicht die gesamte Realität erfassen.",
+        "ar": "تَهْدِفُ التَّجْرِبَةُ الفِكْرِيَّةُ لِـ'مَارِي عَالِمَةِ الأَلْوَانِ' إِلَى إِثْبَاتِ أَنَّ المَعْرِفَةَ الفِيزْيَائِيَّةَ لَا تَسْتَوْعِبُ كُلَّ الوَاقِعِ المَعِيشِ.",
+        "en": "The thought experiment of 'Mary the Color Scientist' aims to demonstrate that physical knowledge leaves out phenomenal qualia."
+      },
+      "image": "assets/svg/concept_gedankenexperiment.svg"
+    },
+    {
+      "id": "concept_chinesisches_zimmer",
+      "german": "das Chinesische Zimmer",
+      "plural": "-",
+      "arabic": "حُجَّةُ الغُرْفَةِ الصِّينِيَّةِ (جُون سِيرْل)",
+      "english": "the Chinese room argument",
+      "example_sentence": {
+        "de": "John Searle zeigte mit dem Chinesischen Zimmer, dass reine Syntax und Regelausführung noch kein echtes Verstehen erzeugen.",
+        "ar": "أَثْبَتَ جُون سِيرْل بِحُجَّةِ الغُرْفَةِ الصِّينِيَّةِ أَنَّ النَّحْوَ الصُّورِيَّ وَتَنْفِيذَ القَوَاعِدِ لَا يَخْلُقَانِ فَهْمًا دَلَالِيًّا حَقِيقِيًّا.",
+        "en": "With the Chinese room argument, John Searle illustrated that pure syntactic symbol manipulation does not constitute semantic understanding."
+      },
+      "image": "assets/svg/concept_chinesisches_zimmer.svg"
+    },
+    {
+      "id": "concept_epiphaenomenalismus",
+      "german": "der Epiphänomenalismus",
+      "plural": "-",
+      "arabic": "الظَّاهِرَاتِيَّةُ المُصَاحِبَةُ (الظَّاهِرَاتِيَّةُ التَّابِعَةُ)",
+      "english": "epiphenomenalism",
+      "example_sentence": {
+        "de": "Im Epiphänomenalismus gelten geistige Zustände als bloße Nebenwirkungen neuronaler Aktivität ohne eigene kausale Wirkung.",
+        "ar": "تُعَدُّ الحَالَاتُ العَقْلِيَّةُ فِي المَذْهَبِ الظَّاهِرَاتِيِّ المُصَاحِبِ مُجَرَّدَ آثَارٍ تَبَعِيَّةٍ لِلنَّشَاطِ العَصَبِيِّ دُونَ فَاعِلِيَّةٍ سَبَبِيَّةٍ.",
+        "en": "In epiphenomenalism, mental states are viewed as mere by-products of neural processes devoid of causal efficacy."
+      },
+      "image": "assets/svg/concept_epiphaenomenalismus.svg"
+    },
+    {
+      "id": "concept_kognitive_architektur",
+      "german": "die kognitive Architektur",
+      "plural": "die kognitiven Architekturen",
+      "arabic": "المِعْمَارِيَّةُ الإِدْرَاكِيَّةُ الذِّهْنِيَّةُ",
+      "english": "cognitive architecture",
+      "example_sentence": {
+        "de": "Moderne KI-Forschung orientiert sich an der kognitiven Architektur des menschlichen Gehirns, um modulare Intelligenz zu modellieren.",
+        "ar": "تَسْتَرْشِدُ أَبْحَاثُ الذَّكَاءِ الاصْطِنَاعِيِّ الحَدِيثَةُ بِالمِعْمَارِيَّةِ الإِدْرَاكِيَّةِ لِلدِّمَاغِ البَشَرِيِّ لِنَمْذَجَةِ الذَّكَاءِ المَفْهُومِيِّ.",
+        "en": "Modern AI research draws upon the cognitive architecture of the human brain to model modular cognitive systems."
+      },
+      "image": "assets/svg/concept_kognitive_architektur.svg"
+    },
+    {
+      "id": "concept_panpsychismus",
+      "german": "der Panpsychismus",
+      "plural": "-",
+      "arabic": "شُمُولِيَّةُ الوَعْيِ فِي المَادَّةِ (البَانْسِيكِيزْم)",
+      "english": "panpsychism (consciousness as a fundamental property of matter)",
+      "example_sentence": {
+        "de": "Der Panpsychismus vertritt die radikale These, dass selbst fundamentale physikalische Partikel rudimentäre Formen von Bewusstsein besitzen.",
+        "ar": "يَتَبَنَّى مَذْهَبُ شُمُولِيَّةِ الوَعْيِ الأُطْرُوحَةَ الجَذْرِيَّةَ القَائِلَةَ بِأَنَّ الجُسَيْمَاتِ الأَوَّلِيَّةَ تَحْمِلُ شَكْلًا بَدَائِيًّا مِنَ الوَعْيِ.",
+        "en": "Panpsychism advances the radical thesis that even fundamental physical particles possess rudimentary conscious attributes."
+      },
+      "image": "assets/svg/concept_panpsychismus.svg"
+    },
+    {
+      "id": "concept_supervenienz_mind",
+      "german": "die Supervenienz",
+      "plural": "-",
+      "arabic": "التَّابِعِيَّةُ وَالارْتِهَانُ الوُجُودِيُّ (السُّوبِرْفِينْيَانْس)",
+      "english": "supervenience in philosophy of mind",
+      "example_sentence": {
+        "de": "Geistige Eigenschaften supervenieren über physischen Gehirnzuständen: Es gibt keinen mentalen Unterschied ohne neuronalen Unterschied.",
+        "ar": "تَرْتَهِنُ الخَصَائِصُ الذِّهْنِيَّةُ وُجُودِيًّا بِالحَالَاتِ الدِّمَاغِيَّةِ: لَا يُمْكِنُ حُدُوثُ تَغَيُّرٍ ذِهْنِيٍّ دُونَ تَغَيُّرٍ عَصَبِيٍّ.",
+        "en": "Mental properties supervene on physical brain states: there can be no psychological difference without an underlying neural difference."
+      },
+      "image": "assets/svg/concept_supervenienz_mind.svg"
+    },
+    {
+      "id": "concept_begrenzte_rationalitaet",
+      "german": "die begrenzte Rationalität",
+      "plural": "-",
+      "arabic": "العَقْلَانِيَّةُ المَحْدُودَةُ المَشْرُوطَةُ",
+      "english": "bounded rationality (Herbert Simon)",
+      "example_sentence": {
+        "de": "Herbert Simons Konzept der begrenzten Rationalität belegt, dass Menschen Entscheidungen unter kognitiven und zeitlichen Restriktionen treffen.",
+        "ar": "يُثْبِتُ مَفْهُومُ هِيرْبِرْت سَايْمُون لِلْعَقْلَانِيَّةِ المَحْدُودَةِ أَنَّ الإِنْسَانَ يَتَّخِذُ قَرَارَاتِهِ تَحْتَ وَطْأَةِ قُيُودٍ مَعْرِفِيَّةٍ وَزَمَنِيَّةٍ.",
+        "en": "Herbert Simon's concept of bounded rationality demonstrates that agents make decisions constrained by cognitive and temporal limitations."
+      },
+      "image": "assets/svg/concept_begrenzte_rationalitaet.svg"
+    },
+    {
+      "id": "concept_neuroplastizitaet_c2",
+      "german": "die Neuroplastizität",
+      "plural": "-",
+      "arabic": "اللُّدُونَةُ وَالتَّشَكُّلِيَّةُ العَصَبِيَّةُ لِلدِّمَاغِ",
+      "english": "neuroplasticity",
+      "example_sentence": {
+        "de": "Dank lebenslanger Neuroplastizität kann das menschliche Gehirn neue synaptische Pfade beim Erlernen von Sprachen ausbilden.",
+        "ar": "بِفَضْلِ اللُّدُونَةِ العَصَبِيَّةِ مُلَازِمَةِ العُمْرِ، يَسْتَطِيعُ الدِّمَاغُ البَشَرِيُّ بِنَاءَ مَسَارَاتٍ مَشْبَكِيَّةٍ جَدِيدَةٍ عِنْدَ تَعَلُّمِ اللُّغَاتِ.",
+        "en": "Owing to lifelong neuroplasticity, the human brain can forge novel synaptic circuits when acquiring foreign languages."
+      },
+      "image": "assets/svg/concept_neuroplastizitaet_c2.svg"
+    },
+    {
+      "id": "concept_synaesthesie",
+      "german": "die Synästhesie",
+      "plural": "die Synästhesien",
+      "arabic": "الحِسُّ المُشْتَرَكُ (تَدَاخُلُ الحَوَاسِّ)",
+      "english": "synesthesia (cross-modal sensory coupling)",
+      "example_sentence": {
+        "de": "Bei der Synästhesie koppelt das Nervensystem Sinnesmodalitäten so, dass Töne als Farben wahrgenommen werden.",
+        "ar": "فِي ظَاهِرَةِ الحِسِّ المُشْتَرَكِ، يَرْبِطُ الجِهَازُ العَصَبِيُّ أَنْمَاطَ الحَوَاسِّ بِحَيْثُ تُدْرَكُ النَّغَمَاتُ الصَّوْتِيَّةُ كَأَلْوَانٍ بَصَرِيَّةٍ.",
+        "en": "In synesthesia, the nervous system cross-activates sensory modalities such that acoustic tones evoke vivid color percepts."
+      },
+      "image": "assets/svg/concept_synaesthesie.svg"
+    },
+    {
+      "id": "concept_konnektom",
+      "german": "das Konnektom",
+      "plural": "die Konnektome",
+      "arabic": "المُخَطَّطُ العَصَبِيُّ المَوْصُولُ الشَّامِلُ (الكُونِيكْتُوم)",
+      "english": "connectome (complete mapping of neural connections)",
+      "example_sentence": {
+        "de": "Die Kartierung des menschlichen Konnektoms stellt eine der gewaltigsten wissenschaftlichen Herausforderungen des Jahrhunderts dar.",
+        "ar": "يُمَثِّلُ رَسْمُ الخَرِيطَةِ الشَّامِلَةِ لِلْكُونِيكْتُومِ البَشَرِيِّ أَحَدَ أَعْظَمِ التَّحَدِّيَاتِ العِلْمِيَّةِ لِهَذَا القَرْنِ.",
+        "en": "Mapping the complete human connectome represents one of the most formidable scientific endeavors of this century."
+      },
+      "image": "assets/svg/concept_konnektom.svg"
+    },
+    {
+      "id": "concept_spiegelneuronen",
+      "german": "die Spiegelneuronen",
+      "plural": "die Spiegelneuronen",
+      "arabic": "الخَلَايَا العَصَبِيَّةُ المِرْآتِيَّةُ (عَصَبُونَاتُ التَّعَاطُفِ)",
+      "english": "mirror neurons (basis of empathy and social imitation)",
+      "example_sentence": {
+        "de": "Spiegelneuronen feuern sowohl bei der Ausführung einer Handlung als auch bei deren bloßer passiver Beobachtung.",
+        "ar": "تَنْشَطُ الخَلَايَا العَصَبِيَّةُ المِرْآتِيَّةُ عِنْدَ أَدَاءِ الحَرَكَةِ كَمَا تَنْشَطُ تَمَامًا عِنْدَ مُجَرَّدِ مُرَاقَبَةِ شَخْصٍ آخَرَ يُؤَدِّيهَا.",
+        "en": "Mirror neurons discharge both when performing a motor action and when passively observing another agent execute it."
+      },
+      "image": "assets/svg/concept_spiegelneuronen.svg"
+    },
+    {
+      "id": "concept_metakognition",
+      "german": "die Metakognition",
+      "plural": "-",
+      "arabic": "مَا وَرَاءَ المَعْرِفَةِ (الوَعْيُ بِآلِيَّاتِ التَّفْكِيرِ الذَّاتِيِّ)",
+      "english": "metacognition (cognition about cognition)",
+      "example_sentence": {
+        "de": "Metakognition ermöglicht es Lernenden, ihre eigenen Denk- und Gedächtnisstrategien kritisch zu überwachen und zu optimieren.",
+        "ar": "تُتِيحُ مَهَارَاتُ 'مَا وَرَاءَ المَعْرِفَةِ' لِلْمُتَعَلِّمِ مُرَاقَبَةَ اسْتِرَاتِيجِيَّاتِ التَّفْكِيرِ وَالتَّذَكُّرِ لَدَيْهِ وَتَطْوِيرَهَا نَقْدِيًّا.",
+        "en": "Metacognition empowers learners to critically monitor and optimize their own cognitive and mnemonic architectures."
+      },
+      "image": "assets/svg/concept_metakognition.svg"
+    },
+    {
+      "id": "concept_semantisches_priming",
+      "german": "das semantische Priming",
+      "plural": "-",
+      "arabic": "التَّمْهِيدُ الدَّلَالِيُّ الإِدْرَاكِيُّ (البْرَايْمِينْغ)",
+      "english": "semantic priming",
+      "example_sentence": {
+        "de": "Beim semantischen Priming beschleunigt das Hören des Wortes 'Arzt' die spätere neuronale Verarbeitung des Wortes 'Krankenschwester'.",
+        "ar": "فِي التَّمْهِيدِ الدَّلَالِيِّ، يُؤَدِّي سَمَاعُ كَلِمَةِ 'طَبِيبٍ' إِلَى تَسْرِيعِ المُعَالَجَةِ العَصَبِيَّةِ اللَّاحِقَةِ لِكَلِمَةِ 'مُمَرِّضَةٍ'.",
+        "en": "In semantic priming, prior exposure to the prime 'doctor' accelerates the neural processing of the target 'nurse'."
+      },
+      "image": "assets/svg/concept_semantisches_priming.svg"
+    },
+    {
+      "id": "concept_verkoerperte_kognition",
+      "german": "die verkörperte Kognition (Embodied Cognition)",
+      "plural": "-",
+      "arabic": "المَعْرِفَةُ المُجَسَّدَةُ فِي البَدَنِ (الإِمْبُودِيمِنْت)",
+      "english": "embodied cognition",
+      "example_sentence": {
+        "de": "Das Paradigma der verkörperten Kognition begreift Denken als tief verwurzelt in sensomotorischen Interaktionen des lebendigen Körpers.",
+        "ar": "يَعْتَبِرُ نَمُوذَجُ المَعْرِفَةِ المُجَسَّدَةِ التَّفْكِيرَ الإِنْسَانِيَّ مُتَجَذِّرًا جَوْهَرِيًّا فِي التَّفَاعُلَاتِ الحِسِّيَّةِ الحَرَكِيَّةِ لِلْجَسَدِ الحَيِّ.",
+        "en": "The paradigm of embodied cognition conceives abstract thought as deeply rooted in sensorimotor interactions of the physical body."
+      },
+      "image": "assets/svg/concept_verkoerperte_kognition.svg"
+    }
+  ]
+}

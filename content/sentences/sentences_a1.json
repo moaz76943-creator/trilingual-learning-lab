@@ -9596,6 +9596,196 @@
         "Partizip I als Adjektiv 'geltende'",
         "Akkusativ Neutrum mit bestimmtem Artikel und Adjektiv 'das soziale Leben'"
       ]
+    },
+    {
+      "id": "sent_426",
+      "category": "brain_processing",
+      "difficulty": "A1+",
+      "arabic": "الدِّمَاغُ يُعَالِجُ المَعْلُومَاتِ بِسُرْعَةٍ فَائِقَةٍ.",
+      "german": "Das Gehirn verarbeitet Informationen mit hoher Geschwindigkeit.",
+      "english": "The brain processes information with high speed.",
+      "tokens": [
+        {
+          "word": "Das Gehirn",
+          "pos": "noun",
+          "ar": "الدِّمَاغُ"
+        },
+        {
+          "word": "verarbeitet",
+          "pos": "verb",
+          "ar": "يُعَالِجُ"
+        },
+        {
+          "word": "Informationen",
+          "pos": "noun",
+          "ar": "المَعْلُومَاتِ"
+        },
+        {
+          "word": "mit hoher Geschwindigkeit",
+          "pos": "preposition_phrase",
+          "ar": "بِسُرْعَةٍ فَائِقَةٍ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Neutrum Nominativ",
+        "Akkusativ Plural 'Informationen'",
+        "Präposition 'mit' + Dativ Feminin mit Adjektivdeklination"
+      ]
+    },
+    {
+      "id": "sent_427",
+      "category": "consciousness_ideas",
+      "difficulty": "A1+",
+      "arabic": "الوَعْيُ يَسْتَكْشِفُ أَفْكَارَ الحَيَاةِ العَمِيقَةَ.",
+      "german": "Das Bewusstsein erforscht die tiefen Ideen des Lebens.",
+      "english": "Consciousness explores the deep ideas of life.",
+      "tokens": [
+        {
+          "word": "Das Bewusstsein",
+          "pos": "noun",
+          "ar": "الوَعْيُ"
+        },
+        {
+          "word": "erforscht",
+          "pos": "verb",
+          "ar": "يَسْتَكْشِفُ"
+        },
+        {
+          "word": "die tiefen Ideen",
+          "pos": "noun_phrase",
+          "ar": "الأَفْكَارَ العَمِيقَةَ"
+        },
+        {
+          "word": "des Lebens",
+          "pos": "genitive_noun",
+          "ar": "الحَيَاةِ (مضاف إليه)"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Neutrum Nominativ",
+        "Akkusativ Plural Feminin mit bestimmtem Artikel",
+        "Genitivattribut Neutrum 'des Lebens'"
+      ]
+    },
+    {
+      "id": "sent_428",
+      "category": "metacognition_reflection",
+      "difficulty": "A1+",
+      "arabic": "نَحْنُ نُفَكِّرُ فِي طَرِيقَةِ التَّفْكِيرِ نَفْسِهَا.",
+      "german": "Wir denken über die Art des Denkens selbst nach.",
+      "english": "We reflect upon the manner of thinking itself.",
+      "tokens": [
+        {
+          "word": "Wir",
+          "pos": "pronoun",
+          "ar": "نَحْنُ"
+        },
+        {
+          "word": "denken ... nach",
+          "pos": "separable_verb",
+          "ar": "نَتَفَكَّرُ / نَتَأَمَّلُ"
+        },
+        {
+          "word": "über die Art",
+          "pos": "preposition_phrase",
+          "ar": "فِي طَرِيقَةِ"
+        },
+        {
+          "word": "des Denkens",
+          "pos": "genitive_noun",
+          "ar": "التَّفْكِيرِ"
+        },
+        {
+          "word": "selbst",
+          "pos": "intensifying_pronoun",
+          "ar": "نَفْسِهَا"
+        }
+      ],
+      "grammar_points": [
+        "Trennbares Verb 'nachdenken'",
+        "Präposition 'über' + Akkusativ Feminin 'die Art'",
+        "Genitivattribut 'des Denkens'"
+      ]
+    },
+    {
+      "id": "sent_429",
+      "category": "senses_perception",
+      "difficulty": "A1+",
+      "arabic": "الحَوَاسُّ تَنْقُلُ صُوَرَ العَالَمِ إِلَى العَقْلِ.",
+      "german": "Die Sinne übertragen Bilder der Welt an den Verstand.",
+      "english": "The senses transmit images of the world to the mind.",
+      "tokens": [
+        {
+          "word": "Die Sinne",
+          "pos": "noun",
+          "ar": "الحَوَاسُّ"
+        },
+        {
+          "word": "übertragen",
+          "pos": "verb",
+          "ar": "تَنْقُلُ"
+        },
+        {
+          "word": "Bilder",
+          "pos": "noun",
+          "ar": "صُوَرَ"
+        },
+        {
+          "word": "der Welt",
+          "pos": "genitive_noun",
+          "ar": "العَالَمِ"
+        },
+        {
+          "word": "an den Verstand",
+          "pos": "preposition_phrase",
+          "ar": "إِلَى العَقْلِ"
+        }
+      ],
+      "grammar_points": [
+        "Plural Subjekt 'die Sinne'",
+        "Genitivattribut Feminin 'der Welt'",
+        "Richtungsausdruck 'an' + Akkusativ Maskulin 'den Verstand'"
+      ]
+    },
+    {
+      "id": "sent_430",
+      "category": "knowledge_bridges",
+      "difficulty": "A1+",
+      "arabic": "المَعْرِفَةُ تَبْنِي جُسُورَ الفَهْمِ بَيْنَ النَّاسِ.",
+      "german": "Das Wissen baut Brücken des Verstehens zwischen den Menschen.",
+      "english": "Knowledge builds bridges of understanding between people.",
+      "tokens": [
+        {
+          "word": "Das Wissen",
+          "pos": "noun",
+          "ar": "المَعْرِفَةُ"
+        },
+        {
+          "word": "baut",
+          "pos": "verb",
+          "ar": "تَبْنِي"
+        },
+        {
+          "word": "Brücken",
+          "pos": "noun",
+          "ar": "جُسُورَ"
+        },
+        {
+          "word": "des Verstehens",
+          "pos": "genitive_noun",
+          "ar": "الفَهْمِ"
+        },
+        {
+          "word": "zwischen den Menschen",
+          "pos": "preposition_phrase",
+          "ar": "بَيْنَ النَّاسِ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Neutrum Nominativ",
+        "Genitivattribut 'des Verstehens'",
+        "Präposition 'zwischen' + Dativ Plural 'den Menschen'"
+      ]
     }
   ]
 }
