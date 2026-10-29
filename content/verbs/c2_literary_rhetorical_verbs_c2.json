@@ -1,0 +1,451 @@
+{
+  "category_id": "c2_literary_rhetorical_verbs_c2",
+  "category_title": {
+    "ar": "أفعال الأدب والبلاغة ونقد الخطاب الرفيع",
+    "de": "Literarische, rhetorische und diskursanalytische Verben",
+    "en": "C2 Literary, Poetic & Rhetorical Discourse Verbs"
+  },
+  "level": "C2",
+  "items": [
+    {
+      "id": "verb_konterkarieren",
+      "german": "konterkarieren",
+      "arabic": "يُحْبِطُ / يَتَعَارَضُ جَوْهَرِيًّا مَعَ المَسْعَى",
+      "english": "to counteract or thwart intentions",
+      "conjugation": {
+        "praesens": "er/sie/es konterkariert",
+        "praeteritum": "konterkarierte",
+        "perfekt": "hat konterkariert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "diplomatische Bemühungen konterkarieren",
+        "Reformbestrebungen konterkarieren"
+      ],
+      "example_sentence": {
+        "de": "Die unbedachten Äußerungen des Abgeordneten konterkarierten die monatelangen Verhandlungen des Außenministers.",
+        "ar": "تَعَارَضَتْ تَصْرِيحَاتُ النَّائِبِ غَيْرُ المَحْسُوبَةِ مَعَ مُفَاوَضَاتِ وَزِيرِ الخَارِجِيَّةِ الَّتِي اسْتَمَرَّتْ أَشْهُرًا وَأَحْبَطَتْهَا.",
+        "en": "The parliamentarian's reckless remarks completely thwarted the foreign minister's months-long negotiations."
+      },
+      "image": "assets/svg/verb_konterkarieren.svg"
+    },
+    {
+      "id": "verb_evozieren",
+      "german": "evozieren",
+      "arabic": "يَسْتَحْضِرُ فِي الذِّهْنِ / يُثِيرُ مَشَاعِرَ أَوْ ذِكْرَيَاتٍ عَمِيقَةً",
+      "english": "to evoke memories or emotions",
+      "conjugation": {
+        "praesens": "er/sie/es evoziert",
+        "praeteritum": "evozierte",
+        "perfekt": "hat evoziert"
+      },
+      "preposition": "in + Dat",
+      "collocations": [
+        "melancholische Stimmungen evozieren",
+        "historische Assoziationen evozieren"
+      ],
+      "example_sentence": {
+        "de": "Die eindringliche Bildsprache des Romans evoziert die beklemmende Atmosphäre der Nachkriegszeit.",
+        "ar": "تَسْتَحْضِرُ اللُّغَةُ البَصَرِيَّةُ المُؤَثِّرَةُ لِلرِّوَايَةِ الأَجْوَاءَ الكَئِيبَةَ لِفَتْرَةِ مَا بَعْدَ الحَرْبِ.",
+        "en": "The novel's evocative imagery powerfully summons the haunting atmosphere of the postwar era."
+      },
+      "image": "assets/svg/verb_evozieren.svg"
+    },
+    {
+      "id": "verb_sublimieren",
+      "german": "sublimieren",
+      "arabic": "يُسَامِي / يُهَذِّبُ المَشَاعِرَ أَوِ الدَّوَافِعَ إِلَى أَبْعَادٍ رَفِيعَةٍ",
+      "english": "to sublimate desires into creative output",
+      "conjugation": {
+        "praesens": "er/sie/es sublimiert",
+        "praeteritum": "sublimierte",
+        "perfekt": "hat sublimiert"
+      },
+      "preposition": "zu + Dat / in + Akk",
+      "collocations": [
+        "Aggressionen künstlerisch sublimieren",
+        "Leidenschaft in Kunstwerke sublimieren"
+      ],
+      "example_sentence": {
+        "de": "Der Dichter vermochte es, seinen tiefen persönlichen Schmerz in zeitlose Poesie zu sublimieren.",
+        "ar": "اسْتَطَاعَ الشَّاعِرُ أَنْ يُسَامِيَ أَلَمَهُ الشَّخْصِيَّ العَمِيقَ لِيُحَوِّلَهُ إِلَى شِعْرٍ خَالِدٍ.",
+        "en": "The poet succeeded in sublimating his profound personal grief into timeless verse."
+      },
+      "image": "assets/svg/verb_sublimieren.svg"
+    },
+    {
+      "id": "verb_pervertieren",
+      "german": "pervertieren",
+      "arabic": "يُحَرِّفُ الجَوْهَرَ / يَشُوهُ الغَايَةَ النَّبِيلَةَ",
+      "english": "to pervert or distort the essence",
+      "conjugation": {
+        "praesens": "er/sie/es pervertiert",
+        "praeteritum": "pervertierte",
+        "perfekt": "hat pervertiert"
+      },
+      "preposition": "zu + Dat",
+      "collocations": [
+        "eine Idee ins Gegenteil pervertieren",
+        "Gerechtigkeitsprinzipien pervertieren"
+      ],
+      "example_sentence": {
+        "de": "Das totalitäre Regime pervertierte das Prinzip der Gleichheit zu einem Werkzeug absoluter Unterdrückung.",
+        "ar": "شَوَّهَ النِّظَامُ الشُّمُولِيُّ مَبْدَأَ المُسَاوَاةِ لِيُحَوِّلَهُ إِلَى أَدَاةٍ لِلْقَمْعِ المُطْلَقِ.",
+        "en": "The totalitarian regime perverted the principle of equality into an instrument of absolute oppression."
+      },
+      "image": "assets/svg/verb_pervertieren.svg"
+    },
+    {
+      "id": "verb_kolportieren",
+      "german": "kolportieren",
+      "arabic": "يُرَوِّجُ أَخْبَارًا أَوْ شَائِعَاتٍ دُونَ تَمْحِيصٍ",
+      "english": "to peddle or spread unverified rumors",
+      "conjugation": {
+        "praesens": "er/sie/es kolportiert",
+        "praeteritum": "kolportierte",
+        "perfekt": "hat kolportiert"
+      },
+      "preposition": "über + Akk",
+      "collocations": [
+        "unbelegte Gerüchte kolportieren",
+        "Halbwahrheiten in den Medien kolportieren"
+      ],
+      "example_sentence": {
+        "de": "Die Boulevardpresse kolportierte wochenlang unbestätigte Spekulationen über den Rücktritt des Kanzlers.",
+        "ar": "رَوَّجَتِ الصِّحَافَةُ الشَّعْبِيَّةُ لِأَسَابِيعَ تَكَهُّنَاتٍ غَيْرَ مُؤَكَّدَةٍ حَوْلَ اسْتِقَالَةِ المُسْتَشَارِ.",
+        "en": "The tabloid press peddled unconfirmed speculations regarding the chancellor's resignation for weeks."
+      },
+      "image": "assets/svg/verb_kolportieren.svg"
+    },
+    {
+      "id": "verb_insinuieren",
+      "german": "insinuieren",
+      "arabic": "يُلَمِّحُ بِخُبْثٍ / يَدُسُّ تَلْمِيحَاتٍ مُغْرِضَةً",
+      "english": "to insinuate maliciously",
+      "conjugation": {
+        "praesens": "er/sie/es insinuiert",
+        "praeteritum": "insinuierte",
+        "perfekt": "hat insinuiert"
+      },
+      "preposition": "mit + Dat",
+      "collocations": [
+        "bösartige Unterstellungen insinuieren",
+        "eine unlautere Absicht insinuieren"
+      ],
+      "example_sentence": {
+        "de": "Der Fragesteller insinuierte geschickt, dass die Forschungsdaten zugunsten des Sponsors manipuliert worden seien.",
+        "ar": "لَمَّحَ السَّائِلُ بِخُبْثٍ وَذَكَاءٍ إِلَى أَنَّ بَيَانَاتِ البَحْثِ قَدْ تَمَّ التَّلَاعُبُ بِهَا لِصَالِحِ الجِهَةِ الرَّاعِيَةِ.",
+        "en": "The questioner skillfully insinuated that the research data had been doctored in favor of the sponsor."
+      },
+      "image": "assets/svg/verb_insinuieren.svg"
+    },
+    {
+      "id": "verb_dekuvrieren",
+      "german": "dekuvrieren",
+      "arabic": "يَفْضَحُ الزَّيْفَ / يَكْشِفُ حَقِيقَةَ النَّوَايَا المَسْتُورَةِ",
+      "english": "to unmask or expose underlying pretensions",
+      "conjugation": {
+        "praesens": "er/sie/es dekuvriert",
+        "praeteritum": "dekuvrierte",
+        "perfekt": "hat dekuvriert"
+      },
+      "preposition": "als + Akk",
+      "collocations": [
+        "sich als Heuchler dekuvrieren",
+        "eine scheinheilige Rhetorik dekuvrieren"
+      ],
+      "example_sentence": {
+        "de": "Im Verlauf des Kreuzverhörs dekuvrierte sich der vermeintlich unparteiische Zeuge als bezahlter Lobbyist.",
+        "ar": "خِلَالَ الاسْتِجْوَابِ الدَّقِيقِ، انْفَضَحَ أَمْرُ الشَّاهِدِ المُحَايِدِ مَزْعُومًا لِيَتَبَيَّنَ أَنَّهُ مَأْجُورٌ لِجَمَاعَاتِ الضَّغْطِ.",
+        "en": "During cross-examination, the supposedly neutral witness unmasked himself as a paid lobbyist."
+      },
+      "image": "assets/svg/verb_dekuvrieren.svg"
+    },
+    {
+      "id": "verb_bagatellisieren",
+      "german": "bagatellisieren",
+      "arabic": "يُهَوِّنُ مِنْ شَأْنِ الأَمْرِ الجَسِيمِ / يُسَخِّفُ الخَطَرَ",
+      "english": "to downplay or trivialize",
+      "conjugation": {
+        "praesens": "er/sie/es bagatellisiert",
+        "praeteritum": "bagatellisierte",
+        "perfekt": "hat bagatellisiert"
+      },
+      "preposition": "als + Akk",
+      "collocations": [
+        "schwere Verstöße bagatellisieren",
+        "die Folgen des Klimawandels bagatellisieren"
+      ],
+      "example_sentence": {
+        "de": "Man darf die anhaltenden Sicherheitsmängel im Kernkraftwerk keinesfalls als harmlose Zwischenfälle bagatellisieren.",
+        "ar": "لَا يَجُوزُ بِأَيِّ حَالٍ التَّهْوِينُ مِنْ شَأْنِ عُيُوبِ السَّلَامَةِ فِي المَحَطَّةِ النَّوَوِيَّةِ بِاعْتِبَارِهَا حَوَادِثَ عَارِضَةً.",
+        "en": "One must by no means trivialize the persistent safety deficits at the nuclear facility as harmless glitches."
+      },
+      "image": "assets/svg/verb_bagatellisieren.svg"
+    },
+    {
+      "id": "verb_glorifizieren",
+      "german": "glorifizieren",
+      "arabic": "يُمَجِّدُ وَيُعَظِّمُ بِإِفْرَاطٍ",
+      "english": "to glorify or idolize",
+      "conjugation": {
+        "praesens": "er/sie/es glorifiziert",
+        "praeteritum": "glorifizierte",
+        "perfekt": "hat glorifiziert"
+      },
+      "preposition": "als + Akk",
+      "collocations": [
+        "kriegerische Gewalt glorifizieren",
+        "die Vergangenheit verklärend glorifizieren"
+      ],
+      "example_sentence": {
+        "de": "Der historische Roman vermeidet es bewusst, militärische Eroberungen sentimental zu glorifizieren.",
+        "ar": "تَتَفَادَى الرِّوَايَةُ التَّارِيخِيَّةُ عَنْ وَعْيٍ التَّمْجِيدَ العَاطِفِيَّ لِلْغَزَوَاتِ العَسْكَرِيَّةِ.",
+        "en": "The historical novel consciously avoids sentimentally glorifying military conquest."
+      },
+      "image": "assets/svg/verb_glorifizieren.svg"
+    },
+    {
+      "id": "verb_demonisieren",
+      "german": "demonisieren",
+      "arabic": "يُشَيْطِنُ الخُصُومَ أَوْ الأَفْكَارَ المُخَالِفَةَ",
+      "english": "to demonize",
+      "conjugation": {
+        "praesens": "er/sie/es demonisiert",
+        "praeteritum": "demonisierte",
+        "perfekt": "hat demonisiert"
+      },
+      "preposition": "als + Akk",
+      "collocations": [
+        "politische Gegner pauschal demonisieren",
+        "neue Technologien demonisieren"
+      ],
+      "example_sentence": {
+        "de": "In polarisierten Wahlkämpfen neigen Populisten dazu, Andersdenkende systematisch zu demonisieren.",
+        "ar": "يَمِيلُ الشَّعْبَوِيُّونَ فِي الحَمَلَاتِ الانْتِخَابِيَّةِ المُسْتَقْطَبَةِ إِلَى شَيْطَنَةِ المُخَالِفِينَ لَهُمْ بِشَكْلٍ مَنْهَجِيٍّ.",
+        "en": "In polarized electoral campaigns, populists tend to systematically demonize political dissidents."
+      },
+      "image": "assets/svg/verb_demonisieren.svg"
+    },
+    {
+      "id": "verb_rekapitulieren",
+      "german": "rekapitulieren",
+      "arabic": "يَسْتَرْجِعُ وَيُلَخِّصُ النِّقَاطَ الجَوْهَرِيَّةَ",
+      "english": "to recapitulate or summarize key points",
+      "conjugation": {
+        "praesens": "er/sie/es rekapituliert",
+        "praeteritum": "rekapitulierte",
+        "perfekt": "hat rekapituliert"
+      },
+      "preposition": "in + Dat",
+      "collocations": [
+        "den Gedankengang kurz rekapitulieren",
+        "die Verhandlungsergebnisse rekapitulieren"
+      ],
+      "example_sentence": {
+        "de": "Bevor wir zum nächsten Kapitel übergehen, lassen Sie uns die zentralen Argumente kurz rekapitulieren.",
+        "ar": "قَبْلَ أَنْ نَنْتَقِلَ إِلَى الفَصْلِ التَّالِي، دَعُونَا نَسْتَرْجِعْ بِإِيجَازٍ الحُجَجَ الرَّئِيسِيَّةَ.",
+        "en": "Before we proceed to the next chapter, let us briefly recapitulate the core arguments."
+      },
+      "image": "assets/svg/verb_rekapitulieren.svg"
+    },
+    {
+      "id": "verb_extrapolieren",
+      "german": "extrapolieren",
+      "arabic": "يَسْتَقْرِئُ الغَدَ / يَتَكَهَّنُ بِتَوْسِيعِ مُنْحَنَى البَيَانَاتِ مُسْتَقْبَلًا",
+      "english": "to extrapolate future trends",
+      "conjugation": {
+        "praesens": "er/sie/es extrapoliert",
+        "praeteritum": "extrapolierte",
+        "perfekt": "hat extrapoliert"
+      },
+      "preposition": "auf + Akk / aus + Dat",
+      "collocations": [
+        "historische Trends auf die Zukunft extrapolieren",
+        "Datenmodelle extrapolieren"
+      ],
+      "example_sentence": {
+        "de": "Die Ökonomen extrapolierten das gegenwärtige Wirtschaftswachstum vorsichtig auf das nächste Jahrzehnt.",
+        "ar": "اسْتَقْرَأَ الاِقْتِصَادِيُّونَ النُّمُوَّ الحَالِيَّ بِحَذَرٍ لِتَوَقُّعِ مَسَارِ العَقْدِ القَادِمِ.",
+        "en": "Economists cautiously extrapolated the present rate of growth into the next decade."
+      },
+      "image": "assets/svg/verb_extrapolieren.svg"
+    },
+    {
+      "id": "verb_dichotomisieren",
+      "german": "dichotomisieren",
+      "arabic": "يَشْطُرُ إِلَى ثُنَائِيَّةٍ مُتَقَابِلَةٍ حَادَّةٍ (أَبْيَض/أَسْوَد)",
+      "english": "to dichotomize into rigid polar opposites",
+      "conjugation": {
+        "praesens": "er/sie/es dichotomisiert",
+        "praeteritum": "dichotomisierte",
+        "perfekt": "hat dichotomisiert"
+      },
+      "preposition": "in + Akk",
+      "collocations": [
+        "die Welt in Gut und Böse dichotomisieren",
+        "komplexe Sachverhalte unzulässig dichotomisieren"
+      ],
+      "example_sentence": {
+        "de": "Man sollte die Debatte nicht vereinfachend dichotomisieren, da die Realität viele Nuancen aufweist.",
+        "ar": "لَا يَنْبَغِي شَطْرُ النِّقَاشِ إِلَى ثُنَائِيَّةٍ حَادَّةٍ مُخِلَّةٍ، إِذْ يَزْخَرُ الوَاقِعُ بِفُرُوقٍ دَقِيقَةٍ.",
+        "en": "One should avoid reductively dichotomizing the debate, as reality encompasses many subtle nuances."
+      },
+      "image": "assets/svg/verb_dichotomisieren.svg"
+    },
+    {
+      "id": "verb_stigmatisieren",
+      "german": "stigmatisieren",
+      "arabic": "يَصِمُ بِعَارٍ اجْتِمَاعِيٍّ / يَسِمُ بِسِمَةٍ سَلْبِيَّةٍ",
+      "english": "to stigmatize socially",
+      "conjugation": {
+        "praesens": "er/sie/es stigmatisiert",
+        "praeteritum": "stigmatisierte",
+        "perfekt": "hat stigmatisiert"
+      },
+      "preposition": "als + Akk",
+      "collocations": [
+        "Minderheiten gesellschaftlich stigmatisieren",
+        "psychische Erkrankungen stigmatisieren"
+      ],
+      "example_sentence": {
+        "de": "Die Aufklärungskampagne zielt darauf ab, psychische Belastungen im Berufsleben nicht länger zu stigmatisieren.",
+        "ar": "تَهْدِفُ حَمْلَةُ التَّوْعِيَةِ إِلَى وَقْفِ وَصْمِ الضُّغُوطِ النَّفْسِيَّةِ فِي بِيئَةِ العَمَلِ بِعَارٍ اجْتِمَاعِيٍّ.",
+        "en": "The awareness initiative aims to cease stigmatizing mental health struggles in the workplace."
+      },
+      "image": "assets/svg/verb_stigmatisieren.svg"
+    },
+    {
+      "id": "verb_kanonisieren",
+      "german": "kanonisieren",
+      "arabic": "يُقَنِّنُ أَدَبِيًّا / يُدْرِجُ فِي قَائِمَةِ الأَعْمَالِ الخَالِدَةِ المُعْتَمَدَةِ",
+      "english": "to canonize literary works",
+      "conjugation": {
+        "praesens": "er/sie/es kanonisiert",
+        "praeteritum": "kanonisierte",
+        "perfekt": "hat kanonisiert"
+      },
+      "preposition": "als + Akk",
+      "collocations": [
+        "Meisterwerke der Weltliteratur kanonisieren",
+        "Klassiker im Lehrplan kanonisieren"
+      ],
+      "example_sentence": {
+        "de": "Die Literaturwissenschaft kanonisierte Goethes Faust als das maßgebliche Werk deutscher Dichtkunst.",
+        "ar": "قَنَّنَتِ الدِّرَاسَاتُ الأَدَبِيَّةُ مَسْرَحِيَّةَ فَاوسْت لِغُوتَه بِوَصْفِهَا العَمَلَ المِعْيَارِيَّ الأَعْلَى فِي الشِّعْرِ الأَلْمَانِيِّ.",
+        "en": "Literary academia canonized Goethe's Faust as the definitive masterpiece of German poetry."
+      },
+      "image": "assets/svg/verb_kanonisieren.svg"
+    },
+    {
+      "id": "verb_relativieren_c2",
+      "german": "relativieren",
+      "arabic": "يُخَفِّفُ مِنْ حِدَّةِ الإِطْلَاقِ / يَضَعُ فِي سِيَاقٍ نِسْبِيٍّ",
+      "english": "to relativize or moderate claims",
+      "conjugation": {
+        "praesens": "er/sie/es relativiert",
+        "praeteritum": "relativierte",
+        "perfekt": "hat relativiert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "den Absolutheitsanspruch relativieren",
+        "überzogene Erwartungen relativieren"
+      ],
+      "example_sentence": {
+        "de": "Neuere Befunde relativieren die Tragweite der bisher als unumstößlich geltenden Lehrmeinung.",
+        "ar": "تَضَعُ النَّتَائِجُ الحَدِيثَةُ أَهَمِّيَّةَ الرَّأْيِ السَّائِدِ الَّذِي كَانَ يُعْتَقَدُ أَنَّهُ قَاطِعٌ فِي سِيَاقٍ نِسْبِيٍّ أَكْثَرَ اعْتِدَالًا.",
+        "en": "Recent findings relativize the significance of the previously undisputed doctrinal view."
+      },
+      "image": "assets/svg/verb_relativieren_c2.svg"
+    },
+    {
+      "id": "verb_transzendieren_c2",
+      "german": "transzendieren",
+      "arabic": "يَتَجَاوَزُ الحُدُودَ المَادِّيَّةَ / يَتَسَامَى عَقْلِيًّا",
+      "english": "to transcend boundaries",
+      "conjugation": {
+        "praesens": "er/sie/es transzendiert",
+        "praeteritum": "transzendierte",
+        "perfekt": "hat transzendiert"
+      },
+      "preposition": "über + Akk",
+      "collocations": [
+        "Kulturgrenzen gedanklich transzendieren",
+        "die Immanenz transzendieren"
+      ],
+      "example_sentence": {
+        "de": "Wahre Kunstwerke transzendieren ihren Entstehungskontext und sprechen Betrachter über Epochen hinweg an.",
+        "ar": "تَتَجَاوَزُ الأَعْمَالُ الفَنِّيَّةُ الأَصِيلَةُ سِيَاقَ نَشْأَتِهَا لِتُخَاطِبَ الإِنْسَانَ عَبْرَ جَمِيعِ العُصُورِ.",
+        "en": "Genuine masterpieces transcend their historical context, resonating with observers across epochs."
+      },
+      "image": "assets/svg/verb_transzendieren_c2.svg"
+    },
+    {
+      "id": "verb_manifestieren",
+      "german": "manifestieren",
+      "arabic": "يُظْهِرُ بِجَلَاءٍ / يَتَجَسَّدُ عَيَانِيًّا فِي الفِعْلِ",
+      "english": "to manifest or embody outwardly",
+      "conjugation": {
+        "praesens": "er/sie/es manifestiert sich",
+        "praeteritum": "manifestierte sich",
+        "perfekt": "hat sich manifestiert"
+      },
+      "preposition": "in + Dat",
+      "collocations": [
+        "sich in konkreten Taten manifestieren",
+        "gesellschaftliche Spannungen manifestieren sich"
+      ],
+      "example_sentence": {
+        "de": "Der tiefe Respekt vor der Natur manifestiert sich in jedem Detail traditioneller Architektur.",
+        "ar": "يَتَجَلَّى الاحْتِرَامُ العَمِيقُ لِلطَّبِيعَةِ فِي كُلِّ تَفْصِيلٍ مِنْ تَفَاصِيلِ العِمَارَةِ التَّقْلِيدِيَّةِ.",
+        "en": "Profound reverence for nature manifests itself in every detail of traditional architecture."
+      },
+      "image": "assets/svg/verb_manifestieren.svg"
+    },
+    {
+      "id": "verb_exemplifizieren",
+      "german": "exemplifizieren",
+      "arabic": "يَضْرِبُ أَمْثِلَةً شَارِحَةً / يُجَسِّدُ النَّظَرِيَّةَ بِالتَّمْثِيلِ",
+      "english": "to exemplify or illustrate with examples",
+      "conjugation": {
+        "praesens": "er/sie/es exemplifiziert",
+        "praeteritum": "exemplifizierte",
+        "perfekt": "hat exemplifiziert"
+      },
+      "preposition": "an + Dat",
+      "collocations": [
+        "eine These an Fallbeispielen exemplifizieren",
+        "abstrakte Modelle anschaulich exemplifizieren"
+      ],
+      "example_sentence": {
+        "de": "Der Professor exemplifizierte die grammatische Regel an klassischen Gedichtzeilen Goethes und Schillers.",
+        "ar": "جَسَّدَ الأُسْتَاذُ القَاعِدَةَ النَّحْوِيَّةَ بِأَمْثِلَةٍ شَارِحَةٍ مُسْتَمَدَّةٍ مِنْ أَبْيَاتِ غُوتَه وَشِيلَّر.",
+        "en": "The professor exemplified the grammatical rule using classical lines from Goethe and Schiller."
+      },
+      "image": "assets/svg/verb_exemplifizieren.svg"
+    },
+    {
+      "id": "verb_postulieren_c2",
+      "german": "postulieren",
+      "arabic": "يَفْتَرِضُ كَمَبْدَأٍ بُرْهَانِيٍّ / يُقَرِّرُ لُزُومِيَّةَ المَفْهُومِ",
+      "english": "to postulate philosophically",
+      "conjugation": {
+        "praesens": "er/sie/es postuliert",
+        "praeteritum": "postulierte",
+        "perfekt": "hat postuliert"
+      },
+      "preposition": "als + Akk",
+      "collocations": [
+        "unveräußerliche Grundwerte postulieren",
+        "die Notwendigkeit eines Paradigmenwechsels postulieren"
+      ],
+      "example_sentence": {
+        "de": "Die Ethikkommission postulierte den Schutz der Privatsphäre als unumstößliches Grundrecht im digitalen Zeitalter.",
+        "ar": "أَقَرَّتْ لَجْنَةُ الأَخْلَاقِيَّاتِ حِمَايَةَ الخُصُوصِيَّةِ كَحَقٍّ أَسَاسِيٍّ لَا يَقْبَلُ المَسَاسَ فِي العَصْرِ الرَّقْمِيِّ.",
+        "en": "The ethics commission postulated the protection of privacy as an inviolable right in the digital age."
+      },
+      "image": "assets/svg/verb_postulieren_c2.svg"
+    }
+  ]
+}

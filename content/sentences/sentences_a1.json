@@ -8077,6 +8077,177 @@
         "Adjektivdeklination mit bestimmtem Artikel Maskulin Nominativ",
         "Akkusativ Plural Neutrum"
       ]
+    },
+    {
+      "id": "sent_381",
+      "category": "illustration_examples",
+      "difficulty": "A1+",
+      "arabic": "الكَاتِبُ يُوَضِّحُ الفِكْرَةَ بِأَمْثِلَةٍ جَمِيلَةٍ.",
+      "german": "Der Autor exemplifiziert die Idee mit schönen Beispielen.",
+      "english": "The author exemplifies the idea with beautiful examples.",
+      "tokens": [
+        {
+          "word": "Der Autor",
+          "pos": "noun",
+          "ar": "الكَاتِبُ"
+        },
+        {
+          "word": "exemplifiziert",
+          "pos": "verb",
+          "ar": "يُوَضِّحُ / يُجَسِّدُ بِالمِثَالِ"
+        },
+        {
+          "word": "die Idee",
+          "pos": "noun",
+          "ar": "الفِكْرَةَ"
+        },
+        {
+          "word": "mit schönen Beispielen",
+          "pos": "preposition_phrase",
+          "ar": "بِأَمْثِلَةٍ جَمِيلَةٍ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Maskulin Nominativ",
+        "Präposition 'mit' + Dativ Plural mit Adjektivdeklination"
+      ]
+    },
+    {
+      "id": "sent_382",
+      "category": "summary_review",
+      "difficulty": "A1+",
+      "arabic": "نَحْنُ نَسْتَرْجِعُ النِّقَاطَ المُهِمَّةَ فِي النِّهَايَةِ.",
+      "german": "Wir rekapitulieren die wichtigen Punkte am Ende.",
+      "english": "We recapitulate the important points at the end.",
+      "tokens": [
+        {
+          "word": "Wir",
+          "pos": "pronoun",
+          "ar": "نَحْنُ"
+        },
+        {
+          "word": "rekapitulieren",
+          "pos": "verb",
+          "ar": "نَسْتَرْجِعُ وَنُلَخِّصُ"
+        },
+        {
+          "word": "die wichtigen Punkte",
+          "pos": "noun_phrase",
+          "ar": "النِّقَاطَ المُهِمَّةَ"
+        },
+        {
+          "word": "am Ende",
+          "pos": "preposition_phrase",
+          "ar": "فِي النِّهَايَةِ"
+        }
+      ],
+      "grammar_points": [
+        "Präsens 1. Person Plural",
+        "Akkusativ Plural Maskulin 'die wichtigen Punkte'"
+      ]
+    },
+    {
+      "id": "sent_383",
+      "category": "poetry_feelings",
+      "difficulty": "A1+",
+      "arabic": "القَصِيدَةُ تَسْتَحْضِرُ مَشَاعِرَ صَادِقَةً فِي القَلْبِ.",
+      "german": "Das Gedicht evoziert ehrliche Gefühle im Herzen.",
+      "english": "The poem evokes honest feelings in the heart.",
+      "tokens": [
+        {
+          "word": "Das Gedicht",
+          "pos": "noun",
+          "ar": "القَصِيدَةُ"
+        },
+        {
+          "word": "evoziert",
+          "pos": "verb",
+          "ar": "تَسْتَحْضِرُ / تُثِيرُ"
+        },
+        {
+          "word": "ehrliche Gefühle",
+          "pos": "noun_phrase",
+          "ar": "مَشَاعِرَ صَادِقَةً"
+        },
+        {
+          "word": "im Herzen",
+          "pos": "preposition_phrase",
+          "ar": "فِي القَلْبِ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Neutrum Nominativ",
+        "Akkusativ Plural ohne Artikel",
+        "Schwaches Nomen 'das Herz' im Dativ 'im Herzen'"
+      ]
+    },
+    {
+      "id": "sent_384",
+      "category": "artistic_expression",
+      "difficulty": "A1+",
+      "arabic": "الفَنَّانُ يُعَبِّرُ عَنْ رُوحِ العَصْرِ بِإِبْدَاعٍ.",
+      "german": "Der Künstler manifestiert den Zeitgeist mit Kreativität.",
+      "english": "The artist manifests the spirit of the age with creativity.",
+      "tokens": [
+        {
+          "word": "Der Künstler",
+          "pos": "noun",
+          "ar": "الفَنَّانُ"
+        },
+        {
+          "word": "manifestiert",
+          "pos": "verb",
+          "ar": "يُظْهِرُ / يُجَسِّدُ عَيَانِيًّا"
+        },
+        {
+          "word": "den Zeitgeist",
+          "pos": "noun",
+          "ar": "رُوحَ العَصْرِ"
+        },
+        {
+          "word": "mit Kreativität",
+          "pos": "preposition_phrase",
+          "ar": "بِإِبْدَاعٍ"
+        }
+      ],
+      "grammar_points": [
+        "Akkusativ Maskulin 'den Zeitgeist'",
+        "Präposition 'mit' + Dativ Feminin"
+      ]
+    },
+    {
+      "id": "sent_385",
+      "category": "elevated_thinking",
+      "difficulty": "A1+",
+      "arabic": "الحِوَارُ الهَادِفُ يَرْفَعُ مُسْتَوَى التَّفْكِيرِ دَائِمًا.",
+      "german": "Der zielgerichtete Dialog sublimiert das Denken immer.",
+      "english": "Targeted dialogue always elevates and sublimates thinking.",
+      "tokens": [
+        {
+          "word": "Der zielgerichtete Dialog",
+          "pos": "noun_phrase",
+          "ar": "الحِوَارُ الهَادِفُ"
+        },
+        {
+          "word": "sublimiert",
+          "pos": "verb",
+          "ar": "يَرْفَعُ / يُسَامِي"
+        },
+        {
+          "word": "das Denken",
+          "pos": "nominalized_verb",
+          "ar": "التَّفْكِيرَ"
+        },
+        {
+          "word": "immer",
+          "pos": "adverb",
+          "ar": "دَائِمًا"
+        }
+      ],
+      "grammar_points": [
+        "Substantivierter Infinitiv im Akkusativ Neutrum 'das Denken'",
+        "Adjektivdeklination Nominativ Maskulin"
+      ]
     }
   ]
 }
