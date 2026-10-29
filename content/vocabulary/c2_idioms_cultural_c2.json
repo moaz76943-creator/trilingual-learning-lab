@@ -1,0 +1,336 @@
+{
+  "category_id": "c2_idioms_cultural_c2",
+  "category_title": {
+    "ar": "التعبيرات الاصطلاحية البلاغية والرموز الثقافية المتقدمة",
+    "de": "Rhetorische Redewendungen, bildungssprachliche Idiome und kulturelle Metaphern",
+    "en": "Rhetorical Idioms, Cultivated Nuances & Cultural Metaphors"
+  },
+  "level": "C2",
+  "items": [
+    {
+      "id": "idiom_zuenglein_an_der_waage",
+      "german": "das Zünglein an der Waage",
+      "plural": "die Zünglein an der Waage",
+      "arabic": "بَيْضَةُ القَبَّانِ / العَامِلُ المُرَجِّحُ الحَاسِمُ",
+      "english": "the deciding factor / tipping the scale",
+      "example_sentence": {
+        "de": "Bei der knappen Abstimmung im Parlament bildete die kleine Fraktion das Zünglein an der Waage.",
+        "ar": "فِي التَّصْوِيتِ البَرْلَمَانِيِّ المُتَقَارِبِ، كَانَتِ الكُتْلَةُ الصَّغِيرَةُ هِيَ بَيْضَةَ القَبَّانِ المُرَجِّحَةَ لِلْقَرَارِ.",
+        "en": "In the close parliamentary vote, the small faction proved to be the deciding factor tipping the scales."
+      },
+      "image": "assets/svg/idiom_zuenglein_an_der_waage.svg"
+    },
+    {
+      "id": "idiom_den_rubikon_ueberschreiten",
+      "german": "den Rubikon überschreiten",
+      "plural": "-",
+      "arabic": "اجْتِيَازُ الرُّوبِيكُونِ (اتِّخَاذُ قَرَارٍ لَا رَجْعَةَ فِيهِ)",
+      "english": "crossing the Rubicon / passing the point of no return",
+      "example_sentence": {
+        "de": "Mit der offiziellen Kündigung des Friedensvertrags hat die Führung den Rubikon endgültig überschritten.",
+        "ar": "بِالإِلْغَاءِ الرَّسْمِيِّ لِمُعَاهَدَةِ السَّلَامِ، اجْتَازَتِ القِيَادَةُ الرُّوبِيكُونَ بِشَكْلٍ لَا رَجْعَةَ فِيهِ.",
+        "en": "With the official termination of the peace treaty, the leadership definitively crossed the Rubicon."
+      },
+      "image": "assets/svg/idiom_den_rubikon_ueberschreiten.svg"
+    },
+    {
+      "id": "idiom_perlen_vor_die_saeue_werfen",
+      "german": "Perlen vor die Säue werfen",
+      "plural": "-",
+      "arabic": "إِلْقَاءُ الدُّرَرِ أَمَامَ مَنْ لَا يُقَدِّرُهَا",
+      "english": "casting pearls before swine",
+      "example_sentence": {
+        "de": "Diesen anspruchsvollen philosophischen Text einem unwilligen Publikum zu erklären, hieße Perlen vor die Säue zu werfen.",
+        "ar": "شَرْحُ هَذَا النَّصِّ الفَلْسَفِيِّ الرَّفِيعِ لِجُمْهُورٍ غَيْرِ مُبَالٍ هُوَ كَإِلْقَاءِ الدُّرَرِ أَمَامَ مَنْ لَا يَعْرِفُ قِيمَتَهَا.",
+        "en": "Explaining this sophisticated philosophical treatise to an indifferent audience would be casting pearls before swine."
+      },
+      "image": "assets/svg/idiom_perlen_vor_die_saeue_werfen.svg"
+    },
+    {
+      "id": "idiom_das_damoklesschwert",
+      "german": "das Damoklesschwert",
+      "plural": "die Damoklesschwerter",
+      "arabic": "سَيْفُ دِيمُوقْلِيسَ (الخَطَرُ الدَّاهِمُ المُعَلَّقُ)",
+      "english": "the sword of Damocles",
+      "example_sentence": {
+        "de": "Die drohende Insolvenz hing während der gesamten Verhandlungen wie ein Damoklesschwert über dem Unternehmen.",
+        "ar": "خَيَّمَ شَبَحُ الإِفْلَاسِ الوَشِيكِ كَسَيْفِ دِيمُوقْلِيسَ فَوْقَ رَأْسِ الشَّرِكَةِ طَوَالَ المُفَاوَضَاتِ.",
+        "en": "The threat of imminent bankruptcy hung like a sword of Damocles over the enterprise throughout the negotiations."
+      },
+      "image": "assets/svg/idiom_das_damoklesschwert.svg"
+    },
+    {
+      "id": "idiom_den_gordischen_knoten_durchschlagen",
+      "german": "den gordischen Knoten durchschlagen",
+      "plural": "-",
+      "arabic": "قَطْعُ العُقْدَةِ الغُورْدِيَّةِ (حَلُّ مُعْضِلَةٍ شَائِكَةٍ بِحَزْمٍ)",
+      "english": "cutting the Gordian knot",
+      "example_sentence": {
+        "de": "Nach jahrelangen ergebnislosen Debatten schlug der neue Minister den gordischen Knoten mit einer mutigen Reform durch.",
+        "ar": "بَعْدَ سَنَوَاتٍ مِنَ الجَدَلِ العَقِيمِ، قَطَعَ الوَزِيرُ الجَدِيدُ العُقْدَةَ الغُورْدِيَّةَ بِإِصْلَاحٍ جَرِيءٍ.",
+        "en": "Following years of fruitless debates, the new minister cut the Gordian knot with a bold structural reform."
+      },
+      "image": "assets/svg/idiom_den_gordischen_knoten_durchschlagen.svg"
+    },
+    {
+      "id": "idiom_die_buechse_der_pandora",
+      "german": "die Büchse der Pandora",
+      "plural": "-",
+      "arabic": "صُنْدُوقُ بَانْدُورَا (فَتْحُ بَابِ الشُّرُورِ وَالمَصَائِبِ)",
+      "english": "Pandora's box",
+      "example_sentence": {
+        "de": "Die Aufhebung dieser Sicherheitsregulierung könnte eine unkontrollierbare Büchse der Pandora öffnen.",
+        "ar": "قَدْ يُؤَدِّي إِلْغَاءُ هَذَا الضَّابِطِ الأَمْنِيِّ إِلَى فَتْحِ صُنْدُوقِ بَانْدُورَا لِشُرُورٍ لَا يُمْكِنُ احْتِوَاؤُهَا.",
+        "en": "Repealing this regulatory safeguard could open an uncontrollable Pandora's box."
+      },
+      "image": "assets/svg/idiom_die_buechse_der_pandora.svg"
+    },
+    {
+      "id": "idiom_in_teufels_kueche_geraten",
+      "german": "in Teufels Küche geraten",
+      "plural": "-",
+      "arabic": "الوُقُوعُ فِي وَرْطَةٍ كُبْرَى / مَأْزِقٍ عَسِيرٍ",
+      "english": "getting into serious trouble / hot water",
+      "example_sentence": {
+        "de": "Wer wissentlich falsche Bilanzen einreicht, gerät unweigerlich in Teufels Küche.",
+        "ar": "مَنْ يُقَدِّمُ مِيزَانِيَّاتٍ مُزَوَّرَةً عَنْ عَمْدٍ سَيَقَعُ حَتْمًا فِي وَرْطَةٍ قَانُونِيَّةٍ عَسِيرَةٍ.",
+        "en": "Anyone who deliberately submits falsified balance sheets inevitably lands in serious hot water."
+      },
+      "image": "assets/svg/idiom_in_teufels_kueche_geraten.svg"
+    },
+    {
+      "id": "idiom_eulen_nach_athen_tragen",
+      "german": "Eulen nach Athen tragen",
+      "plural": "-",
+      "arabic": "حَمْلُ التَّمْرِ إِلَى هَجَرَ (فِعْلُ أَمْرٍ عَبَثِيٍّ فِيهِ تَحْصِيلُ حَاصِلٍ)",
+      "english": "carrying coals to Newcastle / owls to Athens",
+      "example_sentence": {
+        "de": "Diesem erfahrenen Informatik-Professor Grundlagen der Programmierung zu erklären, heißt Eulen nach Athen zu tragen.",
+        "ar": "شَرْحُ أَسَاسِيَّاتِ البَرْمَجَةِ لِهَذَا الأُسْتَاذِ الخَبِيرِ هُوَ كَحَمْلِ التَّمْرِ إِلَى هَجَرَ.",
+        "en": "Explaining the fundamentals of programming to this senior computer scientist is like carrying coals to Newcastle."
+      },
+      "image": "assets/svg/idiom_eulen_nach_athen_tragen.svg"
+    },
+    {
+      "id": "idiom_mit_kanonen_auf_spatzen_schiessen",
+      "german": "mit Kanonen auf Spatzen schießen",
+      "plural": "-",
+      "arabic": "إِطْلَاقُ المَدَافِعِ عَلَى العَصَافِيرِ (المُبَالَغَةُ غَيْرُ المُتَنَاسِبَةِ فِي الرَّدِّ)",
+      "english": "cracking a nut with a sledgehammer",
+      "example_sentence": {
+        "de": "Wegen eines kleinen Formfehlers das gesamte Projekt zu stoppen, hieße mit Kanonen auf Spatzen zu schießen.",
+        "ar": "إِيقَافُ المَشْرُوعِ كَامِلًا بِسَبَبِ خَطَأٍ شَكْلِيٍّ طَفِيفٍ يُعَدُّ كَمَنْ يُطْلِقُ المَدَافِعَ عَلَى العَصَافِيرِ.",
+        "en": "Halting the entire project over a minor clerical error would be cracking a nut with a sledgehammer."
+      },
+      "image": "assets/svg/idiom_mit_kanonen_auf_spatzen_schiessen.svg"
+    },
+    {
+      "id": "idiom_auf_lorbeeren_ausruhen",
+      "german": "sich auf seinen Lorbeeren ausruhen",
+      "plural": "-",
+      "arabic": "الاسْتِكَانَةُ إِلَى أَمْجَادِ المَاضِي دُونَ عَمَلٍ مُتَجَدِّدٍ",
+      "english": "resting on one's laurels",
+      "example_sentence": {
+        "de": "Wer auf dem globalen Technologiemarkt bestehen will, darf sich keinesfalls auf seinen Lorbeeren ausruhen.",
+        "ar": "مَنْ يُرِيدُ الصُّمُودَ فِي سُوقِ التِّكْنُولُوجْيَا العَالَمِيِّ لَا يَجُوزُ لَهُ الاسْتِكَانَةُ إِلَى نَجَاحَاتِ المَاضِي.",
+        "en": "Whoever wishes to thrive in the global tech market must never rest on past laurels."
+      },
+      "image": "assets/svg/idiom_auf_lorbeeren_ausruhen.svg"
+    },
+    {
+      "id": "idiom_zweischneidiges_schwert",
+      "german": "ein zweischneidiges Schwert",
+      "plural": "die zweischneidigen Schwerter",
+      "arabic": "سَيْفٌ ذُو حَدَّيْنِ",
+      "english": "a double-edged sword",
+      "example_sentence": {
+        "de": "Die rasante Automatisierung ist ein zweischneidiges Schwert: Sie steigert die Produktivität, gefährdet jedoch Arbeitsplätze.",
+        "ar": "الأَتْمَتَةُ السَّرِيعَةُ سَيْفٌ ذُو حَدَّيْنِ: فَهِيَ تَرْفَعُ الإِنْتَاجِيَّةَ، لَكِنَّهَا تُهَدِّدُ فُرَصَ العَمَلِ.",
+        "en": "Rapid automation is a double-edged sword: it elevates productivity while jeopardizing employment."
+      },
+      "image": "assets/svg/idiom_zweischneidiges_schwert.svg"
+    },
+    {
+      "id": "idiom_aus_der_reihe_tanzen",
+      "german": "aus der Reihe tanzen",
+      "plural": "-",
+      "arabic": "التَّغْرِيدُ خَارِجَ السِّرْبِ / الخُرُوجُ عَنِ المَأْلُوفِ",
+      "english": "stepping out of line / marching to a different drummer",
+      "example_sentence": {
+        "de": "Der junge Forscher tanzte bewusst aus der Reihe und stellte das vorherrschende Dogma mutig infrage.",
+        "ar": "غَرَّدَ البَاحِثُ الشَّابُّ خَارِجَ السِّرْبِ عَنْ وَعْيٍ، مُتَحَدِّيًا بِشَجَاعَةٍ النَّمَطَ الفِكْرِيَّ السَّائِدَ.",
+        "en": "The young researcher deliberately stepped out of line, boldly challenging the prevailing dogma."
+      },
+      "image": "assets/svg/idiom_aus_der_reihe_tanzen.svg"
+    },
+    {
+      "id": "idiom_den_nagel_auf_den_kopf_treffen",
+      "german": "den Nagel auf den Kopf treffen",
+      "plural": "-",
+      "arabic": "إِصَابَةُ كَبِدِ الحَقِيقَةِ / وَضْعُ الإِصْبَعِ عَلَى الجُرْحِ",
+      "english": "hitting the nail on the head",
+      "example_sentence": {
+        "de": "Mit ihrer scharfsinnigen Kritik traf die Kommentatorin den Nagel genau auf den Kopf.",
+        "ar": "أَصَابَتِ الكَاتِبَةُ بِنَقْدِهَا الثَّاقِبِ كَبِدَ الحَقِيقَةِ بِدِقَّةٍ بَالِغَةٍ.",
+        "en": "With her insightful critique, the commentator hit the nail right on the head."
+      },
+      "image": "assets/svg/idiom_den_nagel_auf_den_kopf_treffen.svg"
+    },
+    {
+      "id": "idiom_das_kind_mit_dem_bade_ausschuetten",
+      "german": "das Kind mit dem Bade ausschütten",
+      "plural": "-",
+      "arabic": "التَّخَلُّصُ مِنَ الصَّالِحِ مَعَ الطَّالِحِ",
+      "english": "throwing the baby out with the bathwater",
+      "example_sentence": {
+        "de": "Bei der Umstrukturierung sollten wir bewährte Prozesse beibehalten und nicht das Kind mit dem Bade ausschütten.",
+        "ar": "عِنْدَ إِعَادَةِ الهَيْكَلَةِ، يَنْبَغِي الحِفَاظُ عَلَى المُمَارَسَاتِ النَّاجِحَةِ دُونَ التَّخَلُّصِ مِنَ الصَّالِحِ مَعَ الطَّالِحِ.",
+        "en": "During restructuring, we must retain proven workflows and avoid throwing the baby out with the bathwater."
+      },
+      "image": "assets/svg/idiom_das_kind_mit_dem_bade_ausschuetten.svg"
+    },
+    {
+      "id": "idiom_tacheles_reden",
+      "german": "Tacheles reden",
+      "plural": "-",
+      "arabic": "التَّحَدُّثُ بِصَرَاحَةٍ مُطْلَقَةٍ دُونَ مُوَارَبَةٍ",
+      "english": "talking straight / speaking plain truth",
+      "example_sentence": {
+        "de": "Nach Wochen diplomatischer Ausflüchte müssen die Verhandlungspartner endlich Tacheles reden.",
+        "ar": "بَعْدَ أَسَابِيعَ مِنَ المُرَاوَغَاتِ الدِّبْلُومَاسِيَّةِ، يَجِبُ عَلَى المُفَاوِضِينَ التَّحَدُّثُ بِصَرَاحَةٍ تَامَّةٍ دُونَ مُوَارَبَةٍ.",
+        "en": "After weeks of diplomatic evasion, the negotiating partners must finally talk straight."
+      },
+      "image": "assets/svg/idiom_tacheles_reden.svg"
+    },
+    {
+      "id": "idiom_auf_messers_schneide_stehen",
+      "german": "auf Messers Schneide stehen",
+      "plural": "-",
+      "arabic": "الوُقُوفُ عَلَى حَدِّ السَّيْفِ / التَّأَرْجُحُ فِي وَضْعٍ حَرِجٍ",
+      "english": "hanging on a knife-edge / on the razor's edge",
+      "example_sentence": {
+        "de": "Das Schicksal des Unternehmens stand nach dem Ausfall des Großkunden wochenlang auf Messers Schneide.",
+        "ar": "وَقَفَ مَصِيرُ الشَّرِكَةِ عَلَى حَدِّ السَّيْفِ لِأَسَابِيعَ عِدَّةٍ عَقِبَ فُقْدَانِ العَمِيلِ الرَّئِيسِيِّ.",
+        "en": "The company's fate hung on a knife-edge for weeks following the loss of its key client."
+      },
+      "image": "assets/svg/idiom_auf_messers_schneide_stehen.svg"
+    },
+    {
+      "id": "idiom_die_spreu_vom_weizen_trennen",
+      "german": "die Spreu vom Weizen trennen",
+      "plural": "-",
+      "arabic": "تَمْيِيزُ الغَثِّ مِنَ السَّمِينِ / فَرْزُ الزُّؤَانِ عَنِ الحِنْطَةِ",
+      "english": "separating the wheat from the chaff",
+      "example_sentence": {
+        "de": "Eine anspruchsvolle Prüfung trennt rasch die Spreu vom Weizen unter den Bewerbern.",
+        "ar": "يُمَيِّزُ الِاخْتِبَارُ الصَّعْبُ سَرِيعًا الغَثَّ مِنَ السَّمِينِ بَيْنَ المُتَقَدِّمِينَ.",
+        "en": "A demanding examination quickly separates the wheat from the chaff among candidates."
+      },
+      "image": "assets/svg/idiom_die_spreu_vom_weizen_trennen.svg"
+    },
+    {
+      "id": "idiom_trojanisches_pferd",
+      "german": "ein Trojanisches Pferd",
+      "plural": "die Trojanischen Pferde",
+      "arabic": "حِصَانُ طِرْوَادَةَ (الخَطَرُ المُسْتَتِرُ فِي ثَوْبِ هَدِيَّةٍ)",
+      "english": "a Trojan horse",
+      "example_sentence": {
+        "de": "Die scheinbar kostenlose Software entpuppte sich als Trojanisches Pferd zur Spionage.",
+        "ar": "تَبَيَّنَ أَنَّ البَرْنَامَجَ المَجَّانِيَّ فِي الظَّاهِرِ لَيْسَ سِوَى حِصَانِ طِرْوَادَةَ لِلتَّجَسُّسِ.",
+        "en": "The seemingly free software turned out to be a Trojan horse designed for espionage."
+      },
+      "image": "assets/svg/idiom_trojanisches_pferd.svg"
+    },
+    {
+      "id": "idiom_das_ei_des_kolumbus",
+      "german": "das Ei des Kolumbus",
+      "plural": "-",
+      "arabic": "بَيْضَةُ كُولُومْبُوسَ (الحَلُّ العَبْقَرِيُّ البَسِيطُ لِمَسْأَلَةٍ مُسْتَعْصِيَةٍ)",
+      "english": "the egg of Columbus (a simple solution to a seemingly hard problem)",
+      "example_sentence": {
+        "de": "Seine unkonventionelle Design-Idee erwies sich im Nachhinein als das rettende Ei des Kolumbus.",
+        "ar": "أَثْبَتَتْ فِكْرَتُهُ التَّصْمِيمِيَّةُ غَيْرُ التَّقْلِيدِيَّةِ لَاحِقًا أَنَّهَا بَيْضَةُ كُولُومْبُوسَ المُنْقِذَةُ لِلْمَشْرُوعِ.",
+        "en": "His unconventional design concept ultimately proved to be the ingenious egg of Columbus."
+      },
+      "image": "assets/svg/idiom_das_ei_des_kolumbus.svg"
+    },
+    {
+      "id": "idiom_in_den_sauren_apfel_beissen",
+      "german": "in den sauren Apfel beißen",
+      "plural": "-",
+      "arabic": "تَجَرُّعُ الكَأْسِ المُرَّةِ / الإِقْدَامُ عَلَى أَمْرٍ غَيْرِ مُحَبَّبٍ لَكِنَّهُ ضَرُورِيٌّ",
+      "english": "biting the bullet / swallowing a bitter pill",
+      "example_sentence": {
+        "de": "Um den Haushalt zu sanieren, musste die Stadtverwaltung in den sauren Apfel beißen und Gebühren erhöhen.",
+        "ar": "لِإِصْلَاحِ المِيزَانِيَّةِ، تَجَرَّعَتْ بَلَدِيَّةُ المَدِينَةِ الكَأْسَ المُرَّةَ وَقَامَتْ بِرَفْعِ الرُّسُومِ.",
+        "en": "To balance the budget, the municipal council had to bite the bullet and raise local tariffs."
+      },
+      "image": "assets/svg/idiom_in_den_sauren_apfel_beissen.svg"
+    },
+    {
+      "id": "idiom_oel_ins_feuer_giessen",
+      "german": "Öl ins Feuer gießen",
+      "plural": "-",
+      "arabic": "صَبُّ الزَّيْتِ عَلَى النَّارِ (إِشْعَالُ الخِلَافِ وَزِيَادَةُ التَّأْزِيمِ)",
+      "english": "adding fuel to the fire",
+      "example_sentence": {
+        "de": "Seine provokante Rede goss nur noch zusätzliches Öl ins Feuer der aufgeheizten Debatte.",
+        "ar": "لَمْ يَزِدْ خِطَابُهُ الاسْتِفْزَازِيُّ النِّقَاشَ المُحْتَدِمَ إِلَّا صَبًّا لِلزَّيْتِ عَلَى النَّارِ.",
+        "en": "His provocative remarks merely added fuel to the fire of an already heated debate."
+      },
+      "image": "assets/svg/idiom_oel_ins_feuer_giessen.svg"
+    },
+    {
+      "id": "idiom_die_quadratur_des_kreises",
+      "german": "die Quadratur des Kreises",
+      "plural": "-",
+      "arabic": "تَرْبِيعُ الدَّائِرَةِ (المَهَمَّةُ المُسْتَحِيلَةُ مَنْطِقِيًّا وَعَمَلِيًّا)",
+      "english": "squaring the circle (an impossible task)",
+      "example_sentence": {
+        "de": "Hohe Qualität bei drastisch gesenkten Kosten zu garantieren, gleicht oft der Quadratur des Kreises.",
+        "ar": "ضَمَانُ الجَوْدَةِ العَالِيَةِ مَعَ خَفْضِ التَّكَالِيفِ بِنِسَبٍ حَادَّةٍ يُشْبِهُ تَرْبِيعَ الدَّائِرَةِ فِي صُعُوبَتِهِ.",
+        "en": "Guaranteeing premium quality while drastically slashing costs often amounts to squaring the circle."
+      },
+      "image": "assets/svg/idiom_die_quadratur_des_kreises.svg"
+    },
+    {
+      "id": "idiom_eine_sisyphusarbeit",
+      "german": "eine Sisyphusarbeit",
+      "plural": "die Sisyphusarbeiten",
+      "arabic": "عَمَلٌ سِيزِيفِيٌّ (الجُهْدُ الشَّاقُّ العَبَثِيُّ الَّذِي لَا يَنْتَهِي)",
+      "english": "a Sisyphean task",
+      "example_sentence": {
+        "de": "Das manuelle Korrigieren von Datenfehlern ohne Algorithmen erwies sich als zermürbende Sisyphusarbeit.",
+        "ar": "أَثْبَتَ التَّصْحِيحُ اليَدَوِيُّ لِأَخْطَاءِ البَيَانَاتِ دُونَ خُوَارِزْمِيَّاتٍ أَنَّهُ عَمَلٌ سِيزِيفِيٌّ مُرْهِقٌ.",
+        "en": "Manually correcting data errors without algorithms proved to be an exhausting Sisyphean task."
+      },
+      "image": "assets/svg/idiom_eine_sisyphusarbeit.svg"
+    },
+    {
+      "id": "idiom_die_katze_im_sack_kaufen",
+      "german": "die Katze im Sack kaufen",
+      "plural": "-",
+      "arabic": "شِرَاءُ سَمَكٍ فِي مَاءٍ (الشِّرَاءُ أَوْ الِالْتِزَامُ دُونَ فَحْصٍ دَقِيقٍ)",
+      "english": "buying a pig in a poke",
+      "example_sentence": {
+        "de": "Ohne vorherige Inspektion eine gebrauchte Maschine zu erwerben, heißt die Katze im Sack zu kaufen.",
+        "ar": "شِرَاءُ آلَةٍ مُسْتَعْمَلَةٍ دُونَ فَحْصٍ مُسْبَقٍ يُعَدُّ شِرَاءً لِسَمَكٍ فِي مَاءٍ.",
+        "en": "Purchasing second-hand machinery without prior inspection is tantamount to buying a pig in a poke."
+      },
+      "image": "assets/svg/idiom_die_katze_im_sack_kaufen.svg"
+    },
+    {
+      "id": "idiom_reinen_tisch_machen",
+      "german": "reinen Tisch machen",
+      "plural": "-",
+      "arabic": "حَسْمُ الأُمُورِ جَذْرِيًّا وَالبَدْءُ عَلَى بَيَاضٍ",
+      "english": "making a clean breast / clean slate",
+      "example_sentence": {
+        "de": "Die Partner beschlossen, alle alten Streitigkeiten beizulegen und endlich reinen Tisch zu machen.",
+        "ar": "قَرَّرَ الشُّرَكَاءُ تَسْوِيَةَ جَمِيعِ الخِلَافَاتِ القَدِيمَةِ وَحَسْمَ الأُمُورِ جَذْرِيًّا لِلْبَدْءِ عَلَى بَيَاضٍ.",
+        "en": "The partners resolved to settle all past grievances and finally make a clean slate."
+      },
+      "image": "assets/svg/idiom_reinen_tisch_machen.svg"
+    }
+  ]
+}

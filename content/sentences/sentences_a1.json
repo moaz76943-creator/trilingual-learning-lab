@@ -7912,6 +7912,171 @@
         "Zusammengesetztes Subjekt im Plural",
         "Indefinitpronomen 'jedes' im Akkusativ Neutrum"
       ]
+    },
+    {
+      "id": "sent_376",
+      "category": "accuracy_truth",
+      "difficulty": "A1+",
+      "arabic": "هُوَ يُصِيبُ كَبِدَ الحَقِيقَةِ دَائِمًا.",
+      "german": "Er trifft den Nagel auf den Kopf immer.",
+      "english": "He always hits the nail on the head.",
+      "tokens": [
+        {
+          "word": "Er",
+          "pos": "pronoun",
+          "ar": "هُوَ"
+        },
+        {
+          "word": "trifft",
+          "pos": "verb",
+          "ar": "يُصِيبُ"
+        },
+        {
+          "word": "den Nagel",
+          "pos": "noun",
+          "ar": "المِسْمَارَ (كَبِدَ)"
+        },
+        {
+          "word": "auf den Kopf",
+          "pos": "preposition_phrase",
+          "ar": "عَلَى رَأْسِهِ (الحَقِيقَةِ)"
+        },
+        {
+          "word": "immer",
+          "pos": "adverb",
+          "ar": "دَائِمًا"
+        }
+      ],
+      "grammar_points": [
+        "Redewendung 'den Nagel auf den Kopf treffen'",
+        "Akkusativ Maskulin 'den Nagel'"
+      ]
+    },
+    {
+      "id": "sent_377",
+      "category": "honest_dialogue",
+      "difficulty": "A1+",
+      "arabic": "نَحْنُ نَتَحَدَّثُ بِصَرَاحَةٍ فِي كُلِّ اجْتِمَاعٍ.",
+      "german": "Wir reden Tacheles in jedem Treffen.",
+      "english": "We speak plain truth in every meeting.",
+      "tokens": [
+        {
+          "word": "Wir",
+          "pos": "pronoun",
+          "ar": "نَحْنُ"
+        },
+        {
+          "word": "reden Tacheles",
+          "pos": "verb_phrase",
+          "ar": "نَتَحَدَّثُ بِصَرَاحَةٍ مُطْلَقَةٍ"
+        },
+        {
+          "word": "in jedem Treffen",
+          "pos": "preposition_phrase",
+          "ar": "فِي كُلِّ اجْتِمَاعٍ"
+        }
+      ],
+      "grammar_points": [
+        "Präsens 1. Person Plural",
+        "Präposition 'in' + Dativ Neutrum 'jedem Treffen'"
+      ]
+    },
+    {
+      "id": "sent_378",
+      "category": "critical_situation",
+      "difficulty": "A1+",
+      "arabic": "القَرَارُ يَقِفُ عَلَى حَدِّ السَّيْفِ الآنَ.",
+      "german": "Die Entscheidung steht jetzt auf Messers Schneide.",
+      "english": "The decision hangs on a knife-edge now.",
+      "tokens": [
+        {
+          "word": "Die Entscheidung",
+          "pos": "noun",
+          "ar": "القَرَارُ"
+        },
+        {
+          "word": "steht",
+          "pos": "verb",
+          "ar": "يَقِفُ"
+        },
+        {
+          "word": "jetzt",
+          "pos": "adverb",
+          "ar": "الآنَ"
+        },
+        {
+          "word": "auf Messers Schneide",
+          "pos": "idiomatic_phrase",
+          "ar": "عَلَى حَدِّ السَّيْفِ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Feminin Nominativ",
+        "Feste Redewendung mit Genitivattribut 'Messers'"
+      ]
+    },
+    {
+      "id": "sent_379",
+      "category": "patience_problem_solving",
+      "difficulty": "A1+",
+      "arabic": "الصَّبْرُ يَحُلُّ المُشْكِلَاتِ الصَّعْبَةَ بِنَجَاحٍ.",
+      "german": "Die Geduld löst schwierige Probleme erfolgreich.",
+      "english": "Patience solves difficult problems successfully.",
+      "tokens": [
+        {
+          "word": "Die Geduld",
+          "pos": "noun",
+          "ar": "الصَّبْرُ"
+        },
+        {
+          "word": "löst",
+          "pos": "verb",
+          "ar": "يَحُلُّ"
+        },
+        {
+          "word": "schwierige Probleme",
+          "pos": "noun_phrase",
+          "ar": "المُشْكِلَاتِ الصَّعْبَةَ"
+        },
+        {
+          "word": "erfolgreich",
+          "pos": "adverb",
+          "ar": "بِنَجَاحٍ"
+        }
+      ],
+      "grammar_points": [
+        "Regelmäßige Konjugation 'lösen'",
+        "Akkusativ Plural Neutrum ohne Artikel"
+      ]
+    },
+    {
+      "id": "sent_380",
+      "category": "eloquence_wisdom",
+      "difficulty": "A1+",
+      "arabic": "المُتَحَدِّثُ البَارِعُ يَسْتَخْدِمُ أَمْثِلَةً حَكِيمَةً.",
+      "german": "Der geschickte Sprecher verwendet weise Beispiele.",
+      "english": "The skillful speaker uses wise examples.",
+      "tokens": [
+        {
+          "word": "Der geschickte Sprecher",
+          "pos": "noun_phrase",
+          "ar": "المُتَحَدِّثُ البَارِعُ"
+        },
+        {
+          "word": "verwendet",
+          "pos": "verb",
+          "ar": "يَسْتَخْدِمُ"
+        },
+        {
+          "word": "weise Beispiele",
+          "pos": "noun_phrase",
+          "ar": "أَمْثِلَةً حَكِيمَةً"
+        }
+      ],
+      "grammar_points": [
+        "Adjektivdeklination mit bestimmtem Artikel Maskulin Nominativ",
+        "Akkusativ Plural Neutrum"
+      ]
     }
   ]
 }
