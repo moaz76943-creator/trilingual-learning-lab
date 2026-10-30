@@ -1,0 +1,562 @@
+[
+  {
+    "id": "verb_c2_chaos_001",
+    "infinitive": "bifurkieren",
+    "level": "C2",
+    "category": "Chaos Dynamics",
+    "arabic": "يَتَشَعَّبُ دِينَامِيكِيًّا",
+    "english": "to bifurcate",
+    "conjugation": {
+      "praesens": {
+        "ich": "bifurkiere",
+        "du": "bifurkierst",
+        "er_sie_es": "bifurkiert",
+        "wir": "bifurkieren",
+        "ihr": "bifurkiert",
+        "sie_Sie": "bifurkieren"
+      },
+      "praeteritum": {
+        "ich": "bifurkierte",
+        "er_sie_es": "bifurkierte"
+      },
+      "perfekt": "ist bifurkiert"
+    },
+    "preposition": "in + Akk.",
+    "example_de": "An kritischen Schwellenwerten bifurkiert das nichtlineare System in zwei distinkte Trajektorien.",
+    "example_ar": "عِنْدَ قِيَمِ العَتَبَةِ الحَرِجَةِ، يَتَشَعَّبُ النِّظَامُ اللَّاخَطِّيُّ إِلَى مَسَارَيْنِ مُتَمَايِزَيْنِ.",
+    "example_en": "At critical thresholds, the non-linear system bifurcates into two distinct trajectories.",
+    "svg_icon": "content/assets/svg/verb_c2_chaos_001.svg"
+  },
+  {
+    "id": "verb_c2_chaos_002",
+    "infinitive": "emergieren",
+    "level": "C2",
+    "category": "Chaos Dynamics",
+    "arabic": "يَنْبَثِقُ تِلْقَائِيًّا",
+    "english": "to emerge spontaneously",
+    "conjugation": {
+      "praesens": {
+        "ich": "emergiere",
+        "du": "emergierst",
+        "er_sie_es": "energiert",
+        "wir": "emergieren",
+        "ihr": "energiert",
+        "sie_Sie": "emergieren"
+      },
+      "praeteritum": {
+        "ich": "emergierte",
+        "er_sie_es": "emergierte"
+      },
+      "perfekt": "ist emergiert"
+    },
+    "preposition": "aus + Dat.",
+    "example_de": "Komplexe makroskopische Ordnungsmuster emergieren spontan aus rein lokalen Interaktionsregeln.",
+    "example_ar": "تَنْبَثِقُ أَنْمَاطُ النِّظَامِ الكُلِّيَّةِ المُعَقَّدَةِ تِلْقَائِيًّا مِنْ قَوَاعِدِ تَفَاعُلٍ مَحَلِّيَّةٍ بَحْتَةٍ.",
+    "example_en": "Complex macroscopic order patterns emerge spontaneously from purely localized interaction rules.",
+    "svg_icon": "content/assets/svg/verb_c2_chaos_002.svg"
+  },
+  {
+    "id": "verb_c2_chaos_003",
+    "infinitive": "dissipieren",
+    "level": "C2",
+    "category": "Chaos Dynamics",
+    "arabic": "يُبَدِّدُ الطَّاقَةَ / الإنْتْرُوبْيَا",
+    "english": "to dissipate (entropy/energy)",
+    "conjugation": {
+      "praesens": {
+        "ich": "dissipiere",
+        "du": "dissipierst",
+        "er_sie_es": "dissipiert",
+        "wir": "dissipieren",
+        "ihr": "dissipiert",
+        "sie_Sie": "dissipieren"
+      },
+      "praeteritum": {
+        "ich": "dissipierte",
+        "er_sie_es": "dissipierte"
+      },
+      "perfekt": "hat dissipiert"
+    },
+    "preposition": "an + Akk.",
+    "example_de": "Dissipative Strukturen dissipieren kontinuierlich Entropie an die äußere Umgebung.",
+    "example_ar": "تُبَدِّدُ البِنَى المُتَبَدِّدَةُ الإِنْتْرُوبْيَا بِاسْتِمْرَارٍ إِلَى البِيئَةِ الخَارِجِيَّةِ.",
+    "example_en": "Dissipative structures continuously dissipate entropy to the external environment.",
+    "svg_icon": "content/assets/svg/verb_c2_chaos_003.svg"
+  },
+  {
+    "id": "verb_c2_chaos_004",
+    "infinitive": "rückkoppeln",
+    "level": "C2",
+    "category": "Chaos Dynamics",
+    "arabic": "يُغَذِّي اسْتِرْجَاعِيًّا (تَغْذِيَة رَاجِعَة)",
+    "english": "to feedback",
+    "conjugation": {
+      "praesens": {
+        "ich": "koppele rück",
+        "du": "koppelst rück",
+        "er_sie_es": "koppelt rück",
+        "wir": "koppeln rück",
+        "ihr": "koppelt rück",
+        "sie_Sie": "koppeln rück"
+      },
+      "praeteritum": {
+        "ich": "koppelte rück",
+        "er_sie_es": "koppelte rück"
+      },
+      "perfekt": "hat rückgekoppelt"
+    },
+    "preposition": "auf + Akk.",
+    "example_de": "Ausgangssignale koppeln nichtlinear auf die internen Steuerparameter zurück.",
+    "example_ar": "تُغَذِّي إِشَارَاتُ الخَرْجِ اسْتِرْجَاعِيًّا وَبِشَكْلٍ لَا خَطِّيٍّ مُعَامِلَاتِ التَّحَكُّمِ الدَّاخِلِيَّةَ.",
+    "example_en": "Output signals feedback non-linearly onto internal control parameters.",
+    "svg_icon": "content/assets/svg/verb_c2_chaos_004.svg"
+  },
+  {
+    "id": "verb_c2_chaos_005",
+    "infinitive": "oszillieren",
+    "level": "C2",
+    "category": "Chaos Dynamics",
+    "arabic": "يَتَذَبْذَبُ بَيْنَ حَالَاتٍ",
+    "english": "to oscillate (periodically/chaotically)",
+    "conjugation": {
+      "praesens": {
+        "ich": "oszilliere",
+        "du": "oszillierst",
+        "er_sie_es": "oszilliert",
+        "wir": "oszillieren",
+        "ihr": "oszilliert",
+        "sie_Sie": "oszillieren"
+      },
+      "praeteritum": {
+        "ich": "oszillierte",
+        "er_sie_es": "oszillierte"
+      },
+      "perfekt": "hat oszilliert"
+    },
+    "preposition": "zwischen + Dat.",
+    "example_de": "Nichtlineare Oszillatoren oszillieren aperiodisch um quasistabile Fixpunkte.",
+    "example_ar": "تَتَذَبْذَبُ المُتَذَبْذِبَاتُ اللَّاخَطِّيَّةُ لَادَوْرِيًّا حَوْلَ نِقَاطِ ارْتِكَازٍ شِبْهِ مُسْتَقِرَّةٍ.",
+    "example_en": "Non-linear oscillators oscillate aperiodically around quasi-stable fixed points.",
+    "svg_icon": "content/assets/svg/verb_c2_chaos_005.svg"
+  },
+  {
+    "id": "verb_c2_chaos_006",
+    "infinitive": "fluktuieren",
+    "level": "C2",
+    "category": "Chaos Dynamics",
+    "arabic": "يَتَمَوَّجُ / يَتَقَلَّبُ اسْتِخْفَافِيًّا",
+    "english": "to fluctuate stochastic",
+    "conjugation": {
+      "praesens": {
+        "ich": "fluktuiere",
+        "du": "fluktuierst",
+        "er_sie_es": "fluktuiert",
+        "wir": "fluktuieren",
+        "ihr": "fluktuiert",
+        "sie_Sie": "fluktuieren"
+      },
+      "praeteritum": {
+        "ich": "fluktuierte",
+        "er_sie_es": "fluktuierte"
+      },
+      "perfekt": "hat fluktuiert"
+    },
+    "preposition": "um + Akk.",
+    "example_de": "Systemvariablen fluktuieren stochastisch um das thermodynamische Mittel.",
+    "example_ar": "تَتَقَلَّبُ مُتَغَيِّرَاتُ النِّظَامِ احْتِمَالِيًّا حَوْلَ المُتَوَسِّطِ الثِّرْمُودِينَامِيكِيِّ.",
+    "example_en": "System variables fluctuate stochastically around the thermodynamic mean.",
+    "svg_icon": "content/assets/svg/verb_c2_chaos_006.svg"
+  },
+  {
+    "id": "verb_c2_chaos_007",
+    "infinitive": "konvergieren",
+    "level": "C2",
+    "category": "Chaos Dynamics",
+    "arabic": "يَتَقَارَبُ نَحْوَ جَاذِبٍ",
+    "english": "to converge (towards an attractor)",
+    "conjugation": {
+      "praesens": {
+        "ich": "konvergiere",
+        "du": "konvergierst",
+        "er_sie_es": "konvergiert",
+        "wir": "konvergieren",
+        "ihr": "konvergiert",
+        "sie_Sie": "konvergieren"
+      },
+      "praeteritum": {
+        "ich": "konvergierte",
+        "er_sie_es": "konvergierte"
+      },
+      "perfekt": "ist konvergiert"
+    },
+    "preposition": "gegen + Akk.",
+    "example_de": "Alle stabilen Trajektorien konvergieren letztlich gegen denselben Grenzzyklus.",
+    "example_ar": "تَتَقَارَبُ جَمِيعُ المَسَارَاتِ المُسْتَقِرَّةِ فِي النِّهَايَةِ نَحْوَ دَوْرَةِ الحَدِّ نَفْسِهَا.",
+    "example_en": "All stable trajectories ultimately converge toward the same limit cycle.",
+    "svg_icon": "content/assets/svg/verb_c2_chaos_007.svg"
+  },
+  {
+    "id": "verb_c2_chaos_008",
+    "infinitive": "divergieren",
+    "level": "C2",
+    "category": "Chaos Dynamics",
+    "arabic": "يَتَبَاعَدُ مَسَارِيًّا (أُسِّيًّا)",
+    "english": "to diverge exponentially",
+    "conjugation": {
+      "praesens": {
+        "ich": "divergiere",
+        "du": "divergierst",
+        "er_sie_es": "divergiert",
+        "wir": "divergieren",
+        "ihr": "divergiert",
+        "sie_Sie": "divergieren"
+      },
+      "praeteritum": {
+        "ich": "divergierte",
+        "er_sie_es": "divergierte"
+      },
+      "perfekt": "ist divergiert"
+    },
+    "preposition": "von + Dat.",
+    "example_de": "Benachbarte Phasenraum-Trajektorien divergieren exponentiell infolge eines positiven Ljapunow-Exponenten.",
+    "example_ar": "تَتَبَاعَدُ مَسَارَاتُ فَضَاءِ الطَّوْرِ المُتَجَاوِرَةُ أُسِّيًّا نَتِيجَةَ مُعَامِلِ لِيَابُونُوف الإِيجَابِيِّ.",
+    "example_en": "Adjacent phase-space trajectories diverge exponentially as a result of a positive Lyapunov exponent.",
+    "svg_icon": "content/assets/svg/verb_c2_chaos_008.svg"
+  },
+  {
+    "id": "verb_c2_chaos_009",
+    "infinitive": "perturbieren",
+    "level": "C2",
+    "category": "Chaos Dynamics",
+    "arabic": "يُحْدِثُ اضْطِرَابًا دِينَامِيكِيًّا",
+    "english": "to perturb",
+    "conjugation": {
+      "praesens": {
+        "ich": "pertubiere",
+        "du": "perturbierst",
+        "er_sie_es": "perturbiert",
+        "wir": "perturbieren",
+        "ihr": "perturbiert",
+        "sie_Sie": "perturbieren"
+      },
+      "praeteritum": {
+        "ich": "perturbierte",
+        "er_sie_es": "perturbierte"
+      },
+      "perfekt": "hat perturbiert"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Geringfügige externe Störgrößen perturbieren das Gleichgewicht empfindlicher Biosphären.",
+    "example_ar": "تُحْدِثُ المُشَوِّشَاتُ الخَارِجِيَّةُ الطَّفِيفَةُ اضْطِرَابًا فِي تَوَازُنِ الأَغْلِفَةِ الحَيَوِيَّةِ الحَسَّاسَةِ.",
+    "example_en": "Minor external disturbances perturb the equilibrium of sensitive biospheres.",
+    "svg_icon": "content/assets/svg/verb_c2_chaos_009.svg"
+  },
+  {
+    "id": "verb_c2_chaos_010",
+    "infinitive": "destabilisieren",
+    "level": "C2",
+    "category": "Chaos Dynamics",
+    "arabic": "يُزَعْزِعُ اسْتِقْرَارَ النِّظَامِ",
+    "english": "to destabilize",
+    "conjugation": {
+      "praesens": {
+        "ich": "destabilisiere",
+        "du": "destabilisierst",
+        "er_sie_es": "destabilisiert",
+        "wir": "destabilisieren",
+        "ihr": "destabilisiert",
+        "sie_Sie": "destabilisieren"
+      },
+      "praeteritum": {
+        "ich": "destabilisierte",
+        "er_sie_es": "destabilisierte"
+      },
+      "perfekt": "hat destabilisiert"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Positive Rückkopplungen destabilisieren das System bis zum Eintritt chaotischer Turbulenzen.",
+    "example_ar": "تُزَعْزِعُ التَّغْذِيَاتُ الرَّاجِعَةُ الإِيجَابِيَّةُ اسْتِقْرَارَ النِّظَامِ حَتَّى حُلُولِ الِاضْطِرَابِ الفَوْضَوِيِّ.",
+    "example_en": "Positive feedbacks destabilize the system until the onset of chaotic turbulence.",
+    "svg_icon": "content/assets/svg/verb_c2_chaos_010.svg"
+  },
+  {
+    "id": "verb_c2_chaos_011",
+    "infinitive": "strukturieren",
+    "level": "C2",
+    "category": "Chaos Dynamics",
+    "arabic": "يُهَيْكِلُ الأَنْمَاطَ",
+    "english": "to structure / organize patterns",
+    "conjugation": {
+      "praesens": {
+        "ich": "strukturiere",
+        "du": "strukturierst",
+        "er_sie_es": "strukturiert",
+        "wir": "strukturieren",
+        "ihr": "strukturiert",
+        "sie_Sie": "strukturieren"
+      },
+      "praeteritum": {
+        "ich": "strukturierte",
+        "er_sie_es": "strukturierte"
+      },
+      "perfekt": "hat strukturiert"
+    },
+    "preposition": "nach + Dat.",
+    "example_de": "Selbstorganisierte Prozesse strukturieren das Chaos nach geometrischen Potenzgesetzen.",
+    "example_ar": "تُهَيْكِلُ العَمَلِيَّاتُ المُنَظَّمَةُ ذَاتِيًّا الفَوْضَى وَفْقًا لِقَوَانِينِ قُوًى هَنْدَسِيَّةٍ.",
+    "example_en": "Self-organized processes structure chaos according to geometric power laws.",
+    "svg_icon": "content/assets/svg/verb_c2_chaos_011.svg"
+  },
+  {
+    "id": "verb_c2_chaos_012",
+    "infinitive": "fraktalisieren",
+    "level": "C2",
+    "category": "Chaos Dynamics",
+    "arabic": "يُكَسِّرُ هَنْدَسِيًّا (يُحَوِّلُ لِكُسَيْرَاتٍ)",
+    "english": "to fractalize",
+    "conjugation": {
+      "praesens": {
+        "ich": "fraktalisiere",
+        "du": "fraktalisierst",
+        "er_sie_es": "fraktalisiert",
+        "wir": "fraktalisieren",
+        "ihr": "fraktalisiert",
+        "sie_Sie": "fraktalisieren"
+      },
+      "praeteritum": {
+        "ich": "fraktalisierte",
+        "er_sie_es": "fraktalisierte"
+      },
+      "perfekt": "hat fraktalisiert"
+    },
+    "preposition": "in + Akk.",
+    "example_de": "Turbulente Strömungen fraktalisieren Wirbelstrukturen in immer kleinere Skalen.",
+    "example_ar": "تُكَسِّرُ التَّدَفُّقَاتُ المُضْطَرِبَةُ بِنَى الدَّوَّامَاتِ إِلَى مَقَايِيسَ أَصْغَرَ فَأَصْغَرَ.",
+    "example_en": "Turbulent flows fractalize vortex structures into progressively smaller scales.",
+    "svg_icon": "content/assets/svg/verb_c2_chaos_012.svg"
+  },
+  {
+    "id": "verb_c2_chaos_013",
+    "infinitive": "synchronisieren",
+    "level": "C2",
+    "category": "Chaos Dynamics",
+    "arabic": "يُزَامِنُ طَوْرِيًّا",
+    "english": "to synchronize (phase lock)",
+    "conjugation": {
+      "praesens": {
+        "ich": "synchronisiere",
+        "du": "synchronisierst",
+        "er_sie_es": "synchronisiert",
+        "wir": "synchronisieren",
+        "ihr": "synchronisiert",
+        "sie_Sie": "synchronisieren"
+      },
+      "praeteritum": {
+        "ich": "synchronisierte",
+        "er_sie_es": "synchronisierte"
+      },
+      "perfekt": "hat synchronisiert"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Unzählige gekoppelte Oszillatoren synchronisieren ihre Phasen durch schwache gegenseitige Kopplung.",
+    "example_ar": "تُزَامِنُ أَعْدَادٌ لَا تُحْصَى مِنَ المُتَذَبْذِبَاتِ المُقْتَرِنَةِ أَطْوَارَهَا عَبْرَ اقْتِرَانٍ مُتَبَادَلٍ ضَعِيفٍ.",
+    "example_en": "Countless coupled oscillators synchronize their phases through weak mutual coupling.",
+    "svg_icon": "content/assets/svg/verb_c2_chaos_013.svg"
+  },
+  {
+    "id": "verb_c2_chaos_014",
+    "infinitive": "amplifizieren",
+    "level": "C2",
+    "category": "Chaos Dynamics",
+    "arabic": "يُضَخِّمُ التَّشَوُّشَ",
+    "english": "to amplify non-linearly",
+    "conjugation": {
+      "praesens": {
+        "ich": "amplifiziere",
+        "du": "amplifizierst",
+        "er_sie_es": "amplifiziert",
+        "wir": "amplifizieren",
+        "ihr": "amplifiziert",
+        "sie_Sie": "amplifizieren"
+      },
+      "praeteritum": {
+        "ich": "amplifizierte",
+        "er_sie_es": "amplifizierte"
+      },
+      "perfekt": "hat amplifiziert"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Nichtlineare Resonanzen amplifizieren winzige Eingangssignale zu makroskopischen Ausbrüchen.",
+    "example_ar": "تُضَخِّمُ الرَّنِينَاتُ اللَّاخَطِّيَّةُ إِشَارَاتِ الدَّخْلِ الضَّئِيلَةَ إِلَى انْفِجَارَاتٍ كُلِّيَّةٍ.",
+    "example_en": "Non-linear resonances amplify minute input signals into macroscopic outbreaks.",
+    "svg_icon": "content/assets/svg/verb_c2_chaos_014.svg"
+  },
+  {
+    "id": "verb_c2_chaos_015",
+    "infinitive": "dämpfen",
+    "level": "C2",
+    "category": "Chaos Dynamics",
+    "arabic": "يُخَمِّدُ التَّذَبْذُبَاتِ",
+    "english": "to damp oscillations",
+    "conjugation": {
+      "praesens": {
+        "ich": "dämpfe",
+        "du": "dämpfst",
+        "er_sie_es": "dämpft",
+        "wir": "dämpfen",
+        "ihr": "dämpft",
+        "sie_Sie": "dämpfen"
+      },
+      "praeteritum": {
+        "ich": "dämpfte",
+        "er_sie_es": "dämpfte"
+      },
+      "perfekt": "hat gedämpft"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Viskose Reibungskräfte dämpfen chaotische Schwingungen verlässlich ab.",
+    "example_ar": "تُخَمِّدُ قُوَى الِاحْتِكَاكِ اللَّزِجِ الِاهْتِزَازَاتِ الفَوْضَوِيَّةَ بِمَوْثُوقِيَّةٍ.",
+    "example_en": "Viscous frictional forces reliably damp chaotic oscillations.",
+    "svg_icon": "content/assets/svg/verb_c2_chaos_015.svg"
+  },
+  {
+    "id": "verb_c2_chaos_016",
+    "infinitive": "iterieren",
+    "level": "C2",
+    "category": "Chaos Dynamics",
+    "arabic": "يُكَرِّرُ تَعَاقُبِيًّا",
+    "english": "to iterate",
+    "conjugation": {
+      "praesens": {
+        "ich": "iteriere",
+        "du": "iterierst",
+        "er_sie_es": "iteriert",
+        "wir": "iterieren",
+        "ihr": "iteriert",
+        "sie_Sie": "iterieren"
+      },
+      "praeteritum": {
+        "ich": "iterierte",
+        "er_sie_es": "iterierte"
+      },
+      "perfekt": "hat iteriert"
+    },
+    "preposition": "über + Akk.",
+    "example_de": "Algorithmen iterieren rekursive Funktionen zur Konstruktion komplexer Juliamengen.",
+    "example_ar": "تُكَرِّرُ الخُوَارِزْمِيَّاتُ الدَّوَالَّ العَوْدِيَّةَ لِبِنَاءِ مَجْمُوعَاتِ جُولْيَا المُعَقَّدَةِ.",
+    "example_en": "Algorithms iterate recursive functions to construct complex Julia sets.",
+    "svg_icon": "content/assets/svg/verb_c2_chaos_016.svg"
+  },
+  {
+    "id": "verb_c2_chaos_017",
+    "infinitive": "modulieren",
+    "level": "C2",
+    "category": "Chaos Dynamics",
+    "arabic": "يُضَمِّنُ / يُعَدِّلُ سِعَةَ الطَّوْرِ",
+    "english": "to modulate dynamically",
+    "conjugation": {
+      "praesens": {
+        "ich": "moduliere",
+        "du": "modulierst",
+        "er_sie_es": "moduliert",
+        "wir": "modulieren",
+        "ihr": "moduliert",
+        "sie_Sie": "modulieren"
+      },
+      "praeteritum": {
+        "ich": "modulierte",
+        "er_sie_es": "modulierte"
+      },
+      "perfekt": "hat moduliert"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Externe Kontrollvariablen modulieren die Bifurkationsparameter kontinuierlich.",
+    "example_ar": "تُعَدِّلُ مُتَغَيِّرَاتُ التَّحَكُّمِ الخَارِجِيَّةِ مُعَامِلَاتِ التَّشَعُّبِ بِاسْتِمْرَارٍ.",
+    "example_en": "External control variables continuously modulate the bifurcation parameters.",
+    "svg_icon": "content/assets/svg/verb_c2_chaos_017.svg"
+  },
+  {
+    "id": "verb_c2_chaos_018",
+    "infinitive": "rekonfigurieren",
+    "level": "C2",
+    "category": "Chaos Dynamics",
+    "arabic": "يُعِيدُ التَّشْكِيلَ الهَيْكَلِيَّ",
+    "english": "to reconfigure adaptively",
+    "conjugation": {
+      "praesens": {
+        "ich": "rekonfiguriere",
+        "du": "rekonfigurierst",
+        "er_sie_es": "rekonfiguriert",
+        "wir": "rekonfigurieren",
+        "ihr": "rekonfiguriert",
+        "sie_Sie": "rekonfigurieren"
+      },
+      "praeteritum": {
+        "ich": "rekonfigurierte",
+        "er_sie_es": "rekonfigurierte"
+      },
+      "perfekt": "hat rekonfiguriert"
+    },
+    "preposition": "nach + Dat.",
+    "example_de": "Adaptive Netzwerke rekonfigurieren ihre Knotenverbindungen nach Systemzusammenbrüchen.",
+    "example_ar": "تُعِيدُ الشَّبَكَاتُ التَّكَيُّفِيَّةُ تَهْيِئَةَ رَوَابِطِ عُقَدِهَا بَعْدَ انْهِيَارَاتِ النِّظَامِ.",
+    "example_en": "Adaptive networks reconfigure their nodal connections following system breakdowns.",
+    "svg_icon": "content/assets/svg/verb_c2_chaos_018.svg"
+  },
+  {
+    "id": "verb_c2_chaos_019",
+    "infinitive": "kollabieren",
+    "level": "C2",
+    "category": "Chaos Dynamics",
+    "arabic": "يَنْهَارُ كُلِّيًّا",
+    "english": "to collapse abruptly",
+    "conjugation": {
+      "praesens": {
+        "ich": "kollabiere",
+        "du": "kollabierst",
+        "er_sie_es": "kollabiert",
+        "wir": "kollabieren",
+        "ihr": "kollabiert",
+        "sie_Sie": "kollabieren"
+      },
+      "praeteritum": {
+        "ich": "kollabierte",
+        "er_sie_es": "kollabierte"
+      },
+      "perfekt": "ist kollabiert"
+    },
+    "preposition": "in + Akk.",
+    "example_de": "Überlastete Informationsnetzwerke kollabieren plötzlich in einen Zustand vollständiger Blockade.",
+    "example_ar": "تَنْهَارُ شَبَكَاتُ المَعْلُومَاتِ الزَّائِدَةُ الحِمْلِ فَجْأَةً إِلَى حَالَةِ انْسِدَادٍ تَامٍّ.",
+    "example_en": "Overburdened information networks collapse abruptly into a state of total gridlock.",
+    "svg_icon": "content/assets/svg/verb_c2_chaos_019.svg"
+  },
+  {
+    "id": "verb_c2_chaos_020",
+    "infinitive": "selbstorganisieren",
+    "level": "C2",
+    "category": "Chaos Dynamics",
+    "arabic": "يَنْتَظِمُ ذَاتِيًّا",
+    "english": "to self-organize",
+    "conjugation": {
+      "praesens": {
+        "ich": "organisiere mich selbst",
+        "du": "organisierst dich selbst",
+        "er_sie_es": "organisiert sich selbst",
+        "wir": "organisieren uns selbst",
+        "ihr": "organisiert euch selbst",
+        "sie_Sie": "organisieren sich selbst"
+      },
+      "praeteritum": {
+        "ich": "organisierte mich selbst",
+        "er_sie_es": "organisierte sich selbst"
+      },
+      "perfekt": "hat sich selbstorganisiert"
+    },
+    "preposition": "zu + Dat.",
+    "example_de": "Chaotische Partikelschwärme selbstorganisieren sich zu kohärenten wirbelnden Aggregaten.",
+    "example_ar": "تَنْتَظِمُ أَسْرَابُ الجُسَيْمَاتِ الفَوْضَوِيَّةِ ذَاتِيًّا لِتُصْبِحَ تَجَمُّعَاتٍ دَوَّامِيَّةً مُتَرَابِطَةً.",
+    "example_en": "Chaotic particle swarms self-organize into coherent swirling aggregates.",
+    "svg_icon": "content/assets/svg/verb_c2_chaos_020.svg"
+  }
+]
