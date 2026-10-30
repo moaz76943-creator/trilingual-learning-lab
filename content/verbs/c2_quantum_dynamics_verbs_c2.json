@@ -1,0 +1,562 @@
+[
+  {
+    "id": "verb_c2_qd_001",
+    "infinitive": "superponieren",
+    "level": "C2",
+    "category": "Quantum Dynamics",
+    "arabic": "يَتَرَاكَبُ كَمُومِيًّا",
+    "english": "to superpose (quantum states)",
+    "conjugation": {
+      "praesens": {
+        "ich": "superponiere",
+        "du": "superponierst",
+        "er_sie_es": "superponiert",
+        "wir": "superponieren",
+        "ihr": "superponiert",
+        "sie_Sie": "superponieren"
+      },
+      "praeteritum": {
+        "ich": "superponierte",
+        "er_sie_es": "superponierte"
+      },
+      "perfekt": "hat superponiert"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "In kohärenten Systemen superponieren die Wellenfunktionen verschiedener Eigenzustände simultan.",
+    "example_ar": "فِي الأَنْظِمَةِ المُتَرَابِطَةِ، تَتَرَاكَبُ الدَّوَالُّ المَوْجِيَّةُ لِمُخْتَلِفِ الحَالَاتِ الخَاصَّةِ بِشَكْلٍ مُتَزَامِنٍ.",
+    "example_en": "In coherent systems, the wavefunctions of various eigenstates superpose simultaneously.",
+    "svg_icon": "content/assets/svg/verb_c2_qd_001.svg"
+  },
+  {
+    "id": "verb_c2_qd_002",
+    "infinitive": "kollabieren",
+    "level": "C2",
+    "category": "Quantum Dynamics",
+    "arabic": "يَنْهَارُ (الدَّالَّةُ المَوْجِيَّةُ)",
+    "english": "to collapse (wavefunction)",
+    "conjugation": {
+      "praesens": {
+        "ich": "kollabiere",
+        "du": "kollabierst",
+        "er_sie_es": "kollabiert",
+        "wir": "kollabieren",
+        "ihr": "kollabiert",
+        "sie_Sie": "kollabieren"
+      },
+      "praeteritum": {
+        "ich": "kollabierte",
+        "er_sie_es": "kollabierte"
+      },
+      "perfekt": "ist kollabiert"
+    },
+    "preposition": "zu + Dat.",
+    "example_de": "Bei der Messung kollabiert der Überlagerungszustand unweigerlich zu einem definitiven Eigenwert.",
+    "example_ar": "عِنْدَ القِيَاسِ، تَنْهَارُ حَالَةُ التَّرَاكُبِ حَتْمًا إِلَى قِيمَةٍ خَاصَّةٍ مُحَدَّدَةٍ.",
+    "example_en": "Upon measurement, the superposition state inevitably collapses to a definitive eigenvalue.",
+    "svg_icon": "content/assets/svg/verb_c2_qd_002.svg"
+  },
+  {
+    "id": "verb_c2_qd_003",
+    "infinitive": "interferieren",
+    "level": "C2",
+    "category": "Quantum Dynamics",
+    "arabic": "يَتَدَاخَلُ مَوْجِيًّا",
+    "english": "to interfere (constructively/destructively)",
+    "conjugation": {
+      "praesens": {
+        "ich": "interferiere",
+        "du": "interferierst",
+        "er_sie_es": "interferiert",
+        "wir": "interferieren",
+        "ihr": "interferiert",
+        "sie_Sie": "interferieren"
+      },
+      "praeteritum": {
+        "ich": "interferierte",
+        "er_sie_es": "interferierte"
+      },
+      "perfekt": "hat interferiert"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Teilchenbahnen interferieren destruktiv und löschen unwahrscheinliche Trajektorien aus.",
+    "example_ar": "تَتَدَاخَلُ مَسَارَاتُ الجُسَيْمَاتِ تَدَاخُلًا هَدَّامًا وَتَمْحُو المَسَارَاتِ غَيْرَ المُحْتَمَلَةِ.",
+    "example_en": "Particle paths interfere destructively, cancelling out improbable trajectories.",
+    "svg_icon": "content/assets/svg/verb_c2_qd_003.svg"
+  },
+  {
+    "id": "verb_c2_qd_004",
+    "infinitive": "tunneln",
+    "level": "C2",
+    "category": "Quantum Dynamics",
+    "arabic": "يَنْفُقُ كَمُومِيًّا (يَعْبُرُ الحَاجِزَ)",
+    "english": "to tunnel (quantum tunneling)",
+    "conjugation": {
+      "praesens": {
+        "ich": "tunnele",
+        "du": "tunnelst",
+        "er_sie_es": "tunnelt",
+        "wir": "tunneln",
+        "ihr": "tunnelt",
+        "sie_Sie": "tunneln"
+      },
+      "praeteritum": {
+        "ich": "tunnelte",
+        "er_sie_es": "tunnelte"
+      },
+      "perfekt": "hat getunnelt"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Das Elektron tunnelt mit endlicher Wahrscheinlichkeit durch die unüberwindbare Potentialbarriere.",
+    "example_ar": "يَنْفُقُ الإِلِكْتَرُونُ بِاحْتِمَالِيَّةٍ مُحَدَّدَةٍ عَبْرَ حَاجِزِ الجُهْدِ المَنِيعِ.",
+    "example_en": "The electron tunnels through the insurmountable potential barrier with finite probability.",
+    "svg_icon": "content/assets/svg/verb_c2_qd_004.svg"
+  },
+  {
+    "id": "verb_c2_qd_005",
+    "infinitive": "verschränken",
+    "level": "C2",
+    "category": "Quantum Dynamics",
+    "arabic": "يَتَشَابَكُ كَمُومِيًّا",
+    "english": "to entangle (quantum entanglement)",
+    "conjugation": {
+      "praesens": {
+        "ich": "verschränke",
+        "du": "verschränkst",
+        "er_sie_es": "verschränkt",
+        "wir": "verschränken",
+        "ihr": "verschränkt",
+        "sie_Sie": "verschränken"
+      },
+      "praeteritum": {
+        "ich": "verschränkte",
+        "er_sie_es": "verschränkte"
+      },
+      "perfekt": "hat verschränkt"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Zwei raumzeitlich separierte Photonen verschränken ihre Spin-Zustände unmittelbar.",
+    "example_ar": "يَتَشَابَكُ فُوتُونَانِ مُنْفَصِلَانِ زَمَكَانِيًّا فِي حَالَاتِ لَفِّهِمَا المِغْزَلِيِّ بِصُورَةٍ فَوْرِيَّةٍ.",
+    "example_en": "Two spatiotemporally separated photons entangle their spin states instantaneously.",
+    "svg_icon": "content/assets/svg/verb_c2_qd_005.svg"
+  },
+  {
+    "id": "verb_c2_qd_006",
+    "infinitive": "dekohärieren",
+    "level": "C2",
+    "category": "Quantum Dynamics",
+    "arabic": "يَفْقِدُ التَّرَابُطَ الكَمُومِيَّ",
+    "english": "to decohere",
+    "conjugation": {
+      "praesens": {
+        "ich": "dekohäriere",
+        "du": "dekohärierst",
+        "er_sie_es": "dekohäriert",
+        "wir": "dekohärieren",
+        "ihr": "dekohäriert",
+        "sie_Sie": "dekohärieren"
+      },
+      "praeteritum": {
+        "ich": "dekohärierte",
+        "er_sie_es": "dekohärierte"
+      },
+      "perfekt": "ist dekohäriert"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Quantenbits dekohärieren rasch durch thermische Fluktuationen der Umgebung.",
+    "example_ar": "تَفْقِدُ الكِيُوبِتَّاتُ تَرَابُطَهَا الكَمُومِيَّ بِسُرْعَةٍ جَرَّاءَ التَّقَلُّبَاتِ الحَرَارِيَّةِ لِلمُحِيطِ.",
+    "example_en": "Quantum bits decohere rapidly due to environmental thermal fluctuations.",
+    "svg_icon": "content/assets/svg/verb_c2_qd_006.svg"
+  },
+  {
+    "id": "verb_c2_qd_007",
+    "infinitive": "quantisieren",
+    "level": "C2",
+    "category": "Quantum Dynamics",
+    "arabic": "يُكَمِّمُ (يُحَوِّلُ لِكَمَّاتٍ)",
+    "english": "to quantize",
+    "conjugation": {
+      "praesens": {
+        "ich": "quantisiere",
+        "du": "quantisierst",
+        "er_sie_es": "quantisiert",
+        "wir": "quantisieren",
+        "ihr": "quantisiert",
+        "sie_Sie": "quantisieren"
+      },
+      "praeteritum": {
+        "ich": "quantisierte",
+        "er_sie_es": "quantisierte"
+      },
+      "perfekt": "hat quantisiert"
+    },
+    "preposition": "in + Akk.",
+    "example_de": "Physiker quantisieren kontinuierliche Energiefelder in diskrete Energiepakete.",
+    "example_ar": "يُكَمِّمُ الفِيزْيَائِيُّونَ مَجَالَاتِ الطَّاقَةِ المُتَّصِلَةِ إِلَى حُزَمِ طَاقَةٍ مُنْفَصِلَةٍ.",
+    "example_en": "Physicists quantize continuous energy fields into discrete energy packets.",
+    "svg_icon": "content/assets/svg/verb_c2_qd_007.svg"
+  },
+  {
+    "id": "verb_c2_qd_008",
+    "infinitive": "emittieren",
+    "level": "C2",
+    "category": "Quantum Dynamics",
+    "arabic": "يَبْعَثُ (إِشْعَاعًا أَو فُوتُونَاتٍ)",
+    "english": "to emit",
+    "conjugation": {
+      "praesens": {
+        "ich": "emittiere",
+        "du": "emittierst",
+        "er_sie_es": "emittiert",
+        "wir": "emittieren",
+        "ihr": "emittiert",
+        "sie_Sie": "emittieren"
+      },
+      "praeteritum": {
+        "ich": "emittierte",
+        "er_sie_es": "emittierte"
+      },
+      "perfekt": "hat emittiert"
+    },
+    "preposition": "an + Akk.",
+    "example_de": "Das angeregte Atom emittiert ein kohärentes Lichtquant beim Quantensprung.",
+    "example_ar": "تَبْعَثُ الذَّرَّةُ المُثَارَةُ كَمًّا ضَوْئِيًّا مُتَرَابِطًا عِنْدَ القَفْزَةِ الكَمُومِيَّةِ.",
+    "example_en": "The excited atom emits a coherent light quantum during the quantum leap.",
+    "svg_icon": "content/assets/svg/verb_c2_qd_008.svg"
+  },
+  {
+    "id": "verb_c2_qd_009",
+    "infinitive": "absorbieren",
+    "level": "C2",
+    "category": "Quantum Dynamics",
+    "arabic": "يَمْتَصُّ (كَمَّاتِ الطَّاقَةِ)",
+    "english": "to absorb",
+    "conjugation": {
+      "praesens": {
+        "ich": "absorbiere",
+        "du": "absorbierst",
+        "er_sie_es": "absorbiert",
+        "wir": "absorbieren",
+        "ihr": "absorbiert",
+        "sie_Sie": "absorbieren"
+      },
+      "praeteritum": {
+        "ich": "absorbierte",
+        "er_sie_es": "absorbierte"
+      },
+      "perfekt": "hat absorbiert"
+    },
+    "preposition": "aus + Dat.",
+    "example_de": "Das Medium absorbiert selektiv Frequenzen, die resonant mit molekularen Schwingungen sind.",
+    "example_ar": "يَمْتَصُّ الوَسَطُ انْتِقَائِيًّا التَّرَدُّدَاتِ الرَّنَّانَةَ مَعَ الاِهْتِزَازَاتِ الجُزَيْئِيَّةِ.",
+    "example_en": "The medium selectively absorbs frequencies that are resonant with molecular vibrations.",
+    "svg_icon": "content/assets/svg/verb_c2_qd_009.svg"
+  },
+  {
+    "id": "verb_c2_qd_010",
+    "infinitive": "teleportieren",
+    "level": "C2",
+    "category": "Quantum Dynamics",
+    "arabic": "يَنْقُلُ كَمُومِيًّا عَنْ بُعْدٍ",
+    "english": "to teleport (quantum information)",
+    "conjugation": {
+      "praesens": {
+        "ich": "teleportiere",
+        "du": "teleportierst",
+        "er_sie_es": "teleportiert",
+        "wir": "teleportieren",
+        "ihr": "teleportiert",
+        "sie_Sie": "teleportieren"
+      },
+      "praeteritum": {
+        "ich": "teleportierte",
+        "er_sie_es": "teleportierte"
+      },
+      "perfekt": "hat teleportiert"
+    },
+    "preposition": "über + Akk.",
+    "example_de": "Mithilfe von Verschränkung lässt sich ein unbestimmter Quantenzustand verlustfrei teleportieren.",
+    "example_ar": "بِوَاسِطَةِ التَّشَابُكِ، يُمْكِنُ نَقْلُ حَالَةٍ كَمُومِيَّةٍ غَيْرِ مُحَدَّدَةٍ عَنْ بُعْدٍ دُونَ فَقْدٍ.",
+    "example_en": "Using entanglement, an indeterminate quantum state can be teleported without loss.",
+    "svg_icon": "content/assets/svg/verb_c2_qd_010.svg"
+  },
+  {
+    "id": "verb_c2_qd_011",
+    "infinitive": "rekonfigurieren",
+    "level": "C2",
+    "category": "Quantum Dynamics",
+    "arabic": "يُعِيدُ التَّهْيِئَةَ التَّرْكِيبِيَّةَ",
+    "english": "to reconfigure",
+    "conjugation": {
+      "praesens": {
+        "ich": "rekonfiguriere",
+        "du": "rekonfigurierst",
+        "er_sie_es": "rekonfiguriert",
+        "wir": "rekonfigurieren",
+        "ihr": "rekonfiguriert",
+        "sie_Sie": "rekonfigurieren"
+      },
+      "praeteritum": {
+        "ich": "rekonfigurierte",
+        "er_sie_es": "rekonfigurierte"
+      },
+      "perfekt": "hat rekonfiguriert"
+    },
+    "preposition": "nach + Dat.",
+    "example_de": "Optische Gatter rekonfigurieren das Netzwerk für adaptive Quantenalgorithmen.",
+    "example_ar": "تُعِيدُ البَوَّابَاتُ البَصَرِيَّةُ تَهْيِئَةَ الشَّبَكَةِ لِلخُوَارِزْمِيَّاتِ الكَمُومِيَّةِ التَّكَيُّفِيَّةِ.",
+    "example_en": "Optical gates reconfigure the network for adaptive quantum algorithms.",
+    "svg_icon": "content/assets/svg/verb_c2_qd_011.svg"
+  },
+  {
+    "id": "verb_c2_qd_012",
+    "infinitive": "fluktuieren",
+    "level": "C2",
+    "category": "Quantum Dynamics",
+    "arabic": "يَتَقَلَّبُ كَمُومِيًّا (يَتَمَوَّجُ)",
+    "english": "to fluctuate (quantum vacuum)",
+    "conjugation": {
+      "praesens": {
+        "ich": "fluktuiere",
+        "du": "fluktuierst",
+        "er_sie_es": "fluktuiert",
+        "wir": "fluktuieren",
+        "ihr": "fluktuiert",
+        "sie_Sie": "fluktuieren"
+      },
+      "praeteritum": {
+        "ich": "fluktuierte",
+        "er_sie_es": "fluktuierte"
+      },
+      "perfekt": "hat fluktuiert"
+    },
+    "preposition": "um + Akk.",
+    "example_de": "Virtuelle Teilchenpaare fluktuieren spontan im Vakuumzustand des Raum-Zeit-Gefüges.",
+    "example_ar": "تَتَقَلَّبُ أَزْوَاجُ الجُسَيْمَاتِ الافْتِرَاضِيَّةِ تِلْقَائِيًّا فِي حَالَةِ فَرَاغِ النَّسِيجِ الزَّمَكَانِيِّ.",
+    "example_en": "Virtual particle pairs fluctuate spontaneously in the vacuum state of the spacetime fabric.",
+    "svg_icon": "content/assets/svg/verb_c2_qd_012.svg"
+  },
+  {
+    "id": "verb_c2_qd_013",
+    "infinitive": "modulieren",
+    "level": "C2",
+    "category": "Quantum Dynamics",
+    "arabic": "يُضَمِّنُ / يُعَدِّلُ الطَّوْرَ",
+    "english": "to modulate (phase/amplitude)",
+    "conjugation": {
+      "praesens": {
+        "ich": "moduliere",
+        "du": "modulierst",
+        "er_sie_es": "moduliert",
+        "wir": "modulieren",
+        "ihr": "moduliert",
+        "sie_Sie": "modulieren"
+      },
+      "praeteritum": {
+        "ich": "modulierte",
+        "er_sie_es": "modulierte"
+      },
+      "perfekt": "hat moduliert"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Laserimpulse modulieren die Phase des Ensembles ultrakalter Rubidium-Atome.",
+    "example_ar": "تُعَدِّلُ نَبَضَاتُ اللَّيْزَرِ طَوْرَ مَجْمُوعَةِ ذَرَّاتِ الرُّوبِيدْيُومِ فَائِقَةِ البُرُودَةِ.",
+    "example_en": "Laser pulses modulate the phase of the ensemble of ultracold rubidium atoms.",
+    "svg_icon": "content/assets/svg/verb_c2_qd_013.svg"
+  },
+  {
+    "id": "verb_c2_qd_014",
+    "infinitive": "oszillieren",
+    "level": "C2",
+    "category": "Quantum Dynamics",
+    "arabic": "يَتَذَبْذَبُ بَيْنَ حَالَاتٍ",
+    "english": "to oscillate (Rabi oscillations)",
+    "conjugation": {
+      "praesens": {
+        "ich": "oszilliere",
+        "du": "oszillierst",
+        "er_sie_es": "oszilliert",
+        "wir": "oszillieren",
+        "ihr": "oszilliert",
+        "sie_Sie": "oszillieren"
+      },
+      "praeteritum": {
+        "ich": "oszillierte",
+        "er_sie_es": "oszillierte"
+      },
+      "perfekt": "hat oszilliert"
+    },
+    "preposition": "zwischen + Dat.",
+    "example_de": "Zweizustandssysteme oszillieren periodisch zwischen Grundzustand und angeregtem Zustand.",
+    "example_ar": "تَتَذَبْذَبُ الأَنْظِمَةُ ثُنَائِيَّةُ الحَالَةِ دَوْرِيًّا بَيْنَ الحَالَةِ الأَرْضِيَّةِ وَالحَالَةِ المُثَارَةِ.",
+    "example_en": "Two-level systems oscillate periodically between the ground and excited states.",
+    "svg_icon": "content/assets/svg/verb_c2_qd_014.svg"
+  },
+  {
+    "id": "verb_c2_qd_015",
+    "infinitive": "lokalisieren",
+    "level": "C2",
+    "category": "Quantum Dynamics",
+    "arabic": "يُمَوْضِعُ (يَحْصُرُ المَوْقِعَ)",
+    "english": "to localize (wave packet)",
+    "conjugation": {
+      "praesens": {
+        "ich": "lokalisiere",
+        "du": "lokalisierst",
+        "er_sie_es": "lokalisiert",
+        "wir": "lokalisieren",
+        "ihr": "lokalisiert",
+        "sie_Sie": "lokalisieren"
+      },
+      "praeteritum": {
+        "ich": "lokalisierte",
+        "er_sie_es": "lokalisierte"
+      },
+      "perfekt": "hat lokalisiert"
+    },
+    "preposition": "in + Dat.",
+    "example_de": "Starke Unordnung im Kristallgitter lokalisiert die elektronischen Wellenfunktionen.",
+    "example_ar": "يُمَوْضِعُ الاضْطِرَابُ الشَّدِيدُ فِي الشَّبَكَةِ البِلَّوْرِيَّةِ الدَّوَالَّ المَوْجِيَّةَ الإِلِكْتَرُونِيَّةَ.",
+    "example_en": "Strong disorder in the crystal lattice localizes the electronic wavefunctions.",
+    "svg_icon": "content/assets/svg/verb_c2_qd_015.svg"
+  },
+  {
+    "id": "verb_c2_qd_016",
+    "infinitive": "delokalisieren",
+    "level": "C2",
+    "category": "Quantum Dynamics",
+    "arabic": "يُلْغِي التَّمَوْضُعَ (يَنْشُرُ كَمُومِيًّا)",
+    "english": "to delocalize",
+    "conjugation": {
+      "praesens": {
+        "ich": "delokalisiere",
+        "du": "delokalisiert",
+        "er_sie_es": "delokalisiert",
+        "wir": "delokalisieren",
+        "ihr": "delokalisiert",
+        "sie_Sie": "delokalisieren"
+      },
+      "praeteritum": {
+        "ich": "delokalisierte",
+        "er_sie_es": "delokalisierte"
+      },
+      "perfekt": "hat delokalisiert"
+    },
+    "preposition": "über + Akk.",
+    "example_de": "Konjugierte Pi-Elektronen delokalisieren über das gesamte aromatische Ringsystem.",
+    "example_ar": "تَلْغِي إِلِكْتَرُونَاتُ بَاي المُتَرَافِقَةُ تَمَوْضُعَهَا عَبْرَ كَامِلِ نِظَامِ الحَلَقَةِ العِطْرِيَّةِ.",
+    "example_en": "Conjugated pi-electrons delocalize over the entire aromatic ring system.",
+    "svg_icon": "content/assets/svg/verb_c2_qd_016.svg"
+  },
+  {
+    "id": "verb_c2_qd_017",
+    "infinitive": "perturbieren",
+    "level": "C2",
+    "category": "Quantum Dynamics",
+    "arabic": "يُحْدِثُ اضْطِرَابًا كَمُومِيًّا",
+    "english": "to perturb (Hamiltonian)",
+    "conjugation": {
+      "praesens": {
+        "ich": "pertubiere",
+        "du": "perturbierst",
+        "er_sie_es": "perturbiert",
+        "wir": "perturbieren",
+        "ihr": "perturbiert",
+        "sie_Sie": "perturbieren"
+      },
+      "praeteritum": {
+        "ich": "perturbierte",
+        "er_sie_es": "perturbierte"
+      },
+      "perfekt": "hat perturbiert"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Ein schwaches externes Magnetfeld perturbiert den ungestörten Hamilton-Operator geringfügig.",
+    "example_ar": "يُحْدِثُ مَجَالٌ مَغْنَاطِيسِيٌّ خَارِجِيٌّ ضَعِيفٌ اضْطِرَابًا طَفِيفًا فِي مُؤَثِّرِ هَامِيلْتُون غَيْرِ المُشَوَّشِ.",
+    "example_en": "A weak external magnetic field slightly perturbs the unperturbed Hamiltonian operator.",
+    "svg_icon": "content/assets/svg/verb_c2_qd_017.svg"
+  },
+  {
+    "id": "verb_c2_qd_018",
+    "infinitive": "transmutieren",
+    "level": "C2",
+    "category": "Quantum Dynamics",
+    "arabic": "يَتَحَوَّلُ عُنْصُرِيًّا / جَوْهَرِيًّا",
+    "english": "to transmute (nuclear/quantum)",
+    "conjugation": {
+      "praesens": {
+        "ich": "transmutiere",
+        "du": "transmutierst",
+        "er_sie_es": "transmutiert",
+        "wir": "transmutieren",
+        "ihr": "transmutiert",
+        "sie_Sie": "transmutieren"
+      },
+      "praeteritum": {
+        "ich": "transmutierte",
+        "er_sie_es": "transmutierte"
+      },
+      "perfekt": "ist transmutiert"
+    },
+    "preposition": "in + Akk.",
+    "example_de": "Instabile Nuklide transmutieren durch Betazerfall in energetisch stabilere Isotope.",
+    "example_ar": "تَتَحَوَّلُ النَّوَى غَيْرُ المُسْتَقِرَّةِ عَبْرَ تَفَتُّتِ بَيْتَا إِلَى نَظَائِرَ أَكْثَرَ اسْتِقْرَارًا طَاقِيًّا.",
+    "example_en": "Unstable nuclides transmute via beta decay into energetically more stable isotopes.",
+    "svg_icon": "content/assets/svg/verb_c2_qd_018.svg"
+  },
+  {
+    "id": "verb_c2_qd_019",
+    "infinitive": "stabilisieren",
+    "level": "C2",
+    "category": "Quantum Dynamics",
+    "arabic": "يُثَبِّتُ الحَالَةَ الكَمُومِيَّةَ",
+    "english": "to stabilize (quantum state)",
+    "conjugation": {
+      "praesens": {
+        "ich": "stabilisiere",
+        "du": "stabilisierst",
+        "er_sie_es": "stabilisiert",
+        "wir": "stabilisieren",
+        "ihr": "stabilisiert",
+        "sie_Sie": "stabilisieren"
+      },
+      "praeteritum": {
+        "ich": "stabilisierte",
+        "er_sie_es": "stabilisierte"
+      },
+      "perfekt": "hat stabilisiert"
+    },
+    "preposition": "gegen + Akk.",
+    "example_de": "Aktive Fehlerkorrekturcodes stabilisieren logische Qubits gegen Umgebungsrauschen.",
+    "example_ar": "تُثَبِّتُ شِفْرَاتُ تَصْحِيحِ الأَخْطَاءِ النَّشِطَةُ الكِيُوبِتَّاتِ المَنْطِقِيَّةَ ضِدَّ ضَوْضَاءِ المُحِيطِ.",
+    "example_en": "Active error correction codes stabilize logical qubits against environmental noise.",
+    "svg_icon": "content/assets/svg/verb_c2_qd_019.svg"
+  },
+  {
+    "id": "verb_c2_qd_020",
+    "infinitive": "kondensieren",
+    "level": "C2",
+    "category": "Quantum Dynamics",
+    "arabic": "يَتَكَثَّفُ (تَكَثُّفَ بُوز-أَيْنِشْتَايْن)",
+    "english": "to condense (Bose-Einstein condensation)",
+    "conjugation": {
+      "praesens": {
+        "ich": "kondensiere",
+        "du": "kondensierst",
+        "er_sie_es": "kondensiert",
+        "wir": "kondensieren",
+        "ihr": "kondensiert",
+        "sie_Sie": "kondensieren"
+      },
+      "praeteritum": {
+        "ich": "kondensierte",
+        "er_sie_es": "kondensierte"
+      },
+      "perfekt": "ist kondensiert"
+    },
+    "preposition": "in + Akk.",
+    "example_de": "Bei Annäherung an den absoluten Nullpunkt kondensieren Bosonen in denselben quantenmechanischen Grundzustand.",
+    "example_ar": "عِنْدَ الاقْتِرَابِ مِنَ الصِّفْرِ المُطْلَقِ، تَتَكَثَّفُ البُوزُونَاتُ فِي الحَالَةِ الكَمُومِيَّةِ الأَرْضِيَّةِ نَفْسِهَا.",
+    "example_en": "Upon approaching absolute zero, bosons condense into the identical quantum ground state.",
+    "svg_icon": "content/assets/svg/verb_c2_qd_020.svg"
+  }
+]
