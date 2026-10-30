@@ -9953,6 +9953,185 @@
         "Adjektivdeklination Nominativ Feminin ohne Artikel",
         "Akkusativ Plural Maskulin ohne Artikel 'übermäßige Impulse'"
       ]
+    },
+    {
+      "id": "sent_436",
+      "category": "cultural_dialogue",
+      "difficulty": "A1+",
+      "arabic": "الحِوَارُ الثَّقَافِيُّ يَفْتَحُ آفَاقَ الفَهْمِ لِلْجَمِيعِ.",
+      "german": "Der kulturelle Dialog öffnet Horizonte des Verstehens für alle.",
+      "english": "Cultural dialogue opens horizons of understanding for everyone.",
+      "tokens": [
+        {
+          "word": "Der kulturelle Dialog",
+          "pos": "noun_phrase",
+          "ar": "الحِوَارُ الثَّقَافِيُّ"
+        },
+        {
+          "word": "öffnet",
+          "pos": "verb",
+          "ar": "يَفْتَحُ"
+        },
+        {
+          "word": "Horizonte",
+          "pos": "noun",
+          "ar": "آفَاقَ"
+        },
+        {
+          "word": "des Verstehens",
+          "pos": "genitive_noun",
+          "ar": "الفَهْمِ (مضاف إليه)"
+        },
+        {
+          "word": "für alle",
+          "pos": "preposition_phrase",
+          "ar": "لِلْجَمِيعِ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Maskulin Nominativ mit Adjektiv",
+        "Genitivattribut 'des Verstehens'",
+        "Präposition 'für' + Akkusativ Plural 'alle'"
+      ]
+    },
+    {
+      "id": "sent_437",
+      "category": "linguistic_diversity",
+      "difficulty": "A1+",
+      "arabic": "التَّعَدُّدُ اللُّغَوِيُّ يُثْرِي المُجْتَمَعَ بِأَسْرِهِ.",
+      "german": "Die sprachliche Vielfalt bereichert die ganze Gesellschaft.",
+      "english": "Linguistic diversity enriches the whole society.",
+      "tokens": [
+        {
+          "word": "Die sprachliche Vielfalt",
+          "pos": "noun_phrase",
+          "ar": "التَّعَدُّدُ اللُّغَوِيُّ"
+        },
+        {
+          "word": "bereichert",
+          "pos": "verb",
+          "ar": "يُثْرِي"
+        },
+        {
+          "word": "die ganze Gesellschaft",
+          "pos": "noun_phrase",
+          "ar": "المُجْتَمَعَ بِأَسْرِهِ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Feminin Nominativ mit Adjektiv",
+        "Akkusativobjekt Feminin mit bestimmtem Artikel und Adjektiv 'die ganze Gesellschaft'"
+      ]
+    },
+    {
+      "id": "sent_438",
+      "category": "respecting_peoples",
+      "difficulty": "A1+",
+      "arabic": "نَحْنُ نَحْتَرِمُ خِبْرَاتِ الشُّعُوبِ المُخْتَلِفَةِ دَائِمًا.",
+      "german": "Wir achten die Erfahrungen verschiedener Völker immer.",
+      "english": "We always respect the experiences of different peoples.",
+      "tokens": [
+        {
+          "word": "Wir",
+          "pos": "pronoun",
+          "ar": "نَحْنُ"
+        },
+        {
+          "word": "achten",
+          "pos": "verb",
+          "ar": "نَحْتَرِمُ"
+        },
+        {
+          "word": "die Erfahrungen",
+          "pos": "noun",
+          "ar": "خِبْرَاتِ"
+        },
+        {
+          "word": "verschiedener Völker",
+          "pos": "genitive_noun",
+          "ar": "الشُّعُوبِ المُخْتَلِفَةِ"
+        },
+        {
+          "word": "immer",
+          "pos": "adverb",
+          "ar": "دَائِمًا"
+        }
+      ],
+      "grammar_points": [
+        "Präsens 1. Person Plural",
+        "Akkusativ Plural 'die Erfahrungen'",
+        "Genitiv Plural ohne Artikel 'verschiedener Völker'"
+      ]
+    },
+    {
+      "id": "sent_439",
+      "category": "critical_reading",
+      "difficulty": "A1+",
+      "arabic": "القِرَاءَةُ النَّقْدِيَّةُ تَكْشِفُ جَوَانِبَ جَدِيدَةً فِي النَّصِّ.",
+      "german": "Das kritische Lesen entdeckt neue Seiten im Text.",
+      "english": "Critical reading discovers new perspectives in the text.",
+      "tokens": [
+        {
+          "word": "Das kritische Lesen",
+          "pos": "noun_phrase",
+          "ar": "القِرَاءَةُ النَّقْدِيَّةُ"
+        },
+        {
+          "word": "entdeckt",
+          "pos": "verb",
+          "ar": "تَكْشِفُ / تَكْتَشِفُ"
+        },
+        {
+          "word": "neue Seiten",
+          "pos": "noun_phrase",
+          "ar": "جَوَانِبَ جَدِيدَةً"
+        },
+        {
+          "word": "im Text",
+          "pos": "preposition_phrase",
+          "ar": "فِي النَّصِّ"
+        }
+      ],
+      "grammar_points": [
+        "Substantiviertes Verb im Nominativ Neutrum",
+        "Akkusativ Plural Feminin ohne Artikel 'neue Seiten'",
+        "Präposition 'in' + Dativ Maskulin 'im Text'"
+      ]
+    },
+    {
+      "id": "sent_440",
+      "category": "epistemic_justice_speech",
+      "difficulty": "A1+",
+      "arabic": "العَدَالَةُ المَعْرِفِيَّةُ تُعْطِي صَوْتًا لِكُلِّ إِنْسَانٍ.",
+      "german": "Die epistemische Gerechtigkeit gibt jedem Menschen eine Stimme.",
+      "english": "Epistemic justice gives every person a voice.",
+      "tokens": [
+        {
+          "word": "Die epistemische Gerechtigkeit",
+          "pos": "noun_phrase",
+          "ar": "العَدَالَةُ المَعْرِفِيَّةُ"
+        },
+        {
+          "word": "gibt",
+          "pos": "verb",
+          "ar": "تُعْطِي"
+        },
+        {
+          "word": "jedem Menschen",
+          "pos": "dative_noun",
+          "ar": "لِكُلِّ إِنْسَانٍ (مفعول به أول)"
+        },
+        {
+          "word": "eine Stimme",
+          "pos": "noun_phrase",
+          "ar": "صَوْتًا (مفعول به ثانٍ)"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Feminin Nominativ mit Adjektiv",
+        "Dativ Maskulin n-Deklination 'jedem Menschen'",
+        "Akkusativ Feminin 'eine Stimme'"
+      ]
     }
   ]
 }

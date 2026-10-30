@@ -33541,5 +33541,130 @@
     "file": "assets/svg/verb_rekognizieren.svg",
     "category": "c2_neuro_verbs",
     "alt": "verb rekognizieren"
+  },
+  "assets/svg/concept_subalternenstudien.svg": {
+    "file": "assets/svg/concept_subalternenstudien.svg",
+    "category": "postcolonial_epistemology",
+    "alt": "concept subalternenstudien"
+  },
+  "assets/svg/concept_transkulturalitaet.svg": {
+    "file": "assets/svg/concept_transkulturalitaet.svg",
+    "category": "postcolonial_epistemology",
+    "alt": "concept transkulturalitaet"
+  },
+  "assets/svg/concept_kreolisierung_glissant.svg": {
+    "file": "assets/svg/concept_kreolisierung_glissant.svg",
+    "category": "postcolonial_epistemology",
+    "alt": "concept kreolisierung glissant"
+  },
+  "assets/svg/concept_standortgebundenheit_des_wissens.svg": {
+    "file": "assets/svg/concept_standortgebundenheit_des_wissens.svg",
+    "category": "postcolonial_epistemology",
+    "alt": "concept standortgebundenheit des wissens"
+  },
+  "assets/svg/concept_hegemonie_kultur.svg": {
+    "file": "assets/svg/concept_hegemonie_kultur.svg",
+    "category": "postcolonial_epistemology",
+    "alt": "concept hegemonie kultur"
+  },
+  "assets/svg/concept_mimikry_kolonial.svg": {
+    "file": "assets/svg/concept_mimikry_kolonial.svg",
+    "category": "postcolonial_epistemology",
+    "alt": "concept mimikry kolonial"
+  },
+  "assets/svg/concept_epistemische_gerechtigkeit.svg": {
+    "file": "assets/svg/concept_epistemische_gerechtigkeit.svg",
+    "category": "postcolonial_epistemology",
+    "alt": "concept epistemische gerechtigkeit"
+  },
+  "assets/svg/concept_dritter_raum.svg": {
+    "file": "assets/svg/concept_dritter_raum.svg",
+    "category": "postcolonial_epistemology",
+    "alt": "concept dritter raum"
+  },
+  "assets/svg/concept_hybriditaet.svg": {
+    "file": "assets/svg/concept_hybriditaet.svg",
+    "category": "postcolonial_epistemology",
+    "alt": "concept hybriditaet"
+  },
+  "assets/svg/concept_dekolonisierung_des_wissens.svg": {
+    "file": "assets/svg/concept_dekolonisierung_des_wissens.svg",
+    "category": "postcolonial_epistemology",
+    "alt": "concept dekolonisierung des wissens"
+  },
+  "assets/svg/concept_alteritaet_andere.svg": {
+    "file": "assets/svg/concept_alteritaet_andere.svg",
+    "category": "postcolonial_epistemology",
+    "alt": "concept alteritaet andere"
+  },
+  "assets/svg/concept_paternalismus_narrativ.svg": {
+    "file": "assets/svg/concept_paternalismus_narrativ.svg",
+    "category": "postcolonial_epistemology",
+    "alt": "concept paternalismus narrativ"
+  },
+  "assets/svg/concept_kultureller_essentialismus.svg": {
+    "file": "assets/svg/concept_kultureller_essentialismus.svg",
+    "category": "postcolonial_epistemology",
+    "alt": "concept kultureller essentialismus"
+  },
+  "assets/svg/concept_kolonialitaet_der_macht.svg": {
+    "file": "assets/svg/concept_kolonialitaet_der_macht.svg",
+    "category": "postcolonial_epistemology",
+    "alt": "concept kolonialitaet der macht"
+  },
+  "assets/svg/concept_postkoloniale_hermeneutik.svg": {
+    "file": "assets/svg/concept_postkoloniale_hermeneutik.svg",
+    "category": "postcolonial_epistemology",
+    "alt": "concept postkoloniale hermeneutik"
+  },
+  "assets/svg/concept_intersektionalitaet.svg": {
+    "file": "assets/svg/concept_intersektionalitaet.svg",
+    "category": "postcolonial_epistemology",
+    "alt": "concept intersektionalitaet"
+  },
+  "assets/svg/concept_orientalismus_saids.svg": {
+    "file": "assets/svg/concept_orientalismus_saids.svg",
+    "category": "postcolonial_epistemology",
+    "alt": "concept orientalismus saids"
+  },
+  "assets/svg/concept_transmoderne_dussel.svg": {
+    "file": "assets/svg/concept_transmoderne_dussel.svg",
+    "category": "postcolonial_epistemology",
+    "alt": "concept transmoderne dussel"
+  },
+  "assets/svg/concept_eurozentrismus_kritik.svg": {
+    "file": "assets/svg/concept_eurozentrismus_kritik.svg",
+    "category": "postcolonial_epistemology",
+    "alt": "concept eurozentrismus kritik"
+  },
+  "assets/svg/concept_koloniales_archiv.svg": {
+    "file": "assets/svg/concept_koloniales_archiv.svg",
+    "category": "postcolonial_epistemology",
+    "alt": "concept koloniales archiv"
+  },
+  "assets/svg/concept_kosmopolitismus_von_unten.svg": {
+    "file": "assets/svg/concept_kosmopolitismus_von_unten.svg",
+    "category": "postcolonial_epistemology",
+    "alt": "concept kosmopolitismus von unten"
+  },
+  "assets/svg/concept_epistemizid_these.svg": {
+    "file": "assets/svg/concept_epistemizid_these.svg",
+    "category": "postcolonial_epistemology",
+    "alt": "concept epistemizid these"
+  },
+  "assets/svg/concept_dekonstruktion_des_kanons.svg": {
+    "file": "assets/svg/concept_dekonstruktion_des_kanons.svg",
+    "category": "postcolonial_epistemology",
+    "alt": "concept dekonstruktion des kanons"
+  },
+  "assets/svg/concept_gegennarrativ.svg": {
+    "file": "assets/svg/concept_gegennarrativ.svg",
+    "category": "postcolonial_epistemology",
+    "alt": "concept gegennarrativ"
+  },
+  "assets/svg/concept_sprachhegemonie.svg": {
+    "file": "assets/svg/concept_sprachhegemonie.svg",
+    "category": "postcolonial_epistemology",
+    "alt": "concept sprachhegemonie"
   }
 }

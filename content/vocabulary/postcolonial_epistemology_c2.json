@@ -1,0 +1,336 @@
+{
+  "category_id": "postcolonial_epistemology_c2",
+  "category_title": {
+    "ar": "التأويلية ما بعد الكولونيالية ودراسات التابع ونظرية المعرفة العابرة للثقافات",
+    "de": "Postkoloniale Hermeneutik, Subalternenstudien und transkulturelle Epistemologie",
+    "en": "Post-Colonial Hermeneutics, Subaltern Studies & Transcultural Epistemology"
+  },
+  "level": "C2",
+  "items": [
+    {
+      "id": "concept_postkoloniale_hermeneutik",
+      "german": "die postkoloniale Hermeneutik",
+      "plural": "die postkolonialen Hermeneutiken",
+      "arabic": "التَّأْوِيلِيَّةُ مَا بَعْدَ الكُولُونْيَالِيَّةِ",
+      "english": "post-colonial hermeneutics",
+      "example_sentence": {
+        "de": "Die postkoloniale Hermeneutik dekonstruiert koloniale Wissensordnungen und legt verschwiegene indigene Stimmen frei.",
+        "ar": "تُفَكِّكُ التَّأْوِيلِيَّةُ مَا بَعْدَ الكُولُونْيَالِيَّةِ أَنْظِمَةَ المَعْرِفَةِ الِاسْتِعْمَارِيَّةِ وَتُبْرِزُ أَصْوَاتَ الشُّعُوبِ الأَصْلِيَّةِ المَسْكُوتَ عَنْهَا.",
+        "en": "Post-colonial hermeneutics deconstructs colonial knowledge paradigms to uncover silenced indigenous voices."
+      },
+      "image": "assets/svg/concept_postkoloniale_hermeneutik.svg"
+    },
+    {
+      "id": "concept_subalternenstudien",
+      "german": "die Subalternenstudien",
+      "plural": "-",
+      "arabic": "دِرَاسَاتُ التَّابِعِ وَالمُهَمَّشِينَ",
+      "english": "subaltern studies",
+      "example_sentence": {
+        "de": "Gayatri Spivaks Leitfrage 'Can the Subaltern Speak?' eröffnete eine fundamentale Debatte innerhalb der Subalternenstudien.",
+        "ar": "فَتَحَ سُؤَالُ غَايَاتْرِي سْبِيفَاك المِحْوَرِيُّ 'هَلْ يَسْتَطِيعُ التَّابِعُ أَنْ يَتَكَلَّمَ؟' جَدَلًا جَوْهَرِيًّا دَاخِلَ دِرَاسَاتِ التَّابِعِ.",
+        "en": "Gayatri Spivak's seminal question 'Can the Subaltern Speak?' sparked a foundational debate within subaltern studies."
+      },
+      "image": "assets/svg/concept_subalternenstudien.svg"
+    },
+    {
+      "id": "concept_hegemonie_kultur",
+      "german": "die Hegemonie",
+      "plural": "die Hegemonien",
+      "arabic": "الهَيْمَنَةُ الثَّقَافِيَّةُ وَالفِكْرِيَّةُ (غْرَامْشِي)",
+      "english": "cultural hegemony",
+      "example_sentence": {
+        "de": "Antonio Gramsci zeigte, wie kulturelle Hegemonie herrschende Ideologien als scheinbaren gesunden Menschenverstand etabliert.",
+        "ar": "أَوْضَحَ أَنْتُونْيُو غْرَامْشِي كَيْفَ تُثَبِّتُ الهَيْمَنَةُ الثَّقَافِيَّةُ إِيدْيُولُوجْيَا الطَّبَقَةِ الحَاكِمَةِ كَأَنَّهَا بَدِيهِيَّةٌ مُسَلَّمٌ بِهَا.",
+        "en": "Antonio Gramsci demonstrated how cultural hegemony naturalizes ruling-class ideologies into common sense."
+      },
+      "image": "assets/svg/concept_hegemonie_kultur.svg"
+    },
+    {
+      "id": "concept_hybriditaet",
+      "german": "die Hybridität",
+      "plural": "-",
+      "arabic": "الهَجَانَةُ الثَّقَافِيَّةُ (هُومِي بَهَابْهَا)",
+      "english": "cultural hybridity",
+      "example_sentence": {
+        "de": "Homi Bhabha begreift Hybridität als subversiven Raum, der starre koloniale Identitätszuschreibungen unterwandert.",
+        "ar": "يَفْهَمُ هُومِي بَهَابْهَا الهَجَانَةَ بِوَصْفِهَا فَضَاءً مُقَاوِمًا يُقَوِّضُ التَّصْنِيفَاتِ الِاسْتِعْمَارِيَّةَ الصَّلْبَةَ لِلْهُوِيَّةِ.",
+        "en": "Homi Bhabha conceptualizes hybridity as a subversive space destabilizing rigid colonial identity binaries."
+      },
+      "image": "assets/svg/concept_hybriditaet.svg"
+    },
+    {
+      "id": "concept_mimikry_kolonial",
+      "german": "die Mimikry",
+      "plural": "-",
+      "arabic": "المُحَاكَاةُ الِاسْتِعْمَارِيَّةُ السَّاخِرَةُ (المِيمِكْرِي)",
+      "english": "colonial mimicry (almost the same, but not quite)",
+      "example_sentence": {
+        "de": "Koloniale Mimikry zwingt den Kolonisierten zur Nachahmung, birgt jedoch zugleich ein zersetzendes parodistisches Moment.",
+        "ar": "تَفْرِضُ المُحَاكَاةُ الِاسْتِعْمَارِيَّةُ (المِيمِكْرِي) التَّقْلِيدَ عَلَى الشُّعُوبِ، لَكِنَّهَا تَحْمِلُ فِي طَيَّاتِهَا سُخْرِيَةً تُقَوِّضُ سُلْطَةَ المُسْتَعْمِرِ.",
+        "en": "Colonial mimicry compels imitation by the colonized while simultaneously harboring a destabilizing parody of authority."
+      },
+      "image": "assets/svg/concept_mimikry_kolonial.svg"
+    },
+    {
+      "id": "concept_orientalismus_saids",
+      "german": "der Orientalismus",
+      "plural": "-",
+      "arabic": "الِاسْتِشْرَاقُ وَنَقْدُ التَّمْثِيلِ الغَرْبِيِّ (إِدْوَارْد سَعِيد)",
+      "english": "Orientalism (critique of Western representation of the East)",
+      "example_sentence": {
+        "de": "Edward Said analysierte den Orientalismus als ein hegemoniales westliches Text- und Machtgefüge zur Beherrschung des Orients.",
+        "ar": "حَلَّلَ إِدْوَارْد سَعِيد الِاسْتِشْرَاقَ كَمَنْظُومَةٍ نَصِّيَّةٍ وَسُلْطَوِيَّةٍ غَرْبِيَّةٍ أُعِدَّتْ لِلْهَيْمَنَةِ عَلَى الشَّرْقِ.",
+        "en": "Edward Said analyzed Orientalism as an entrenched Western discursive and geopolitical framework for dominating the Orient."
+      },
+      "image": "assets/svg/concept_orientalismus_saids.svg"
+    },
+    {
+      "id": "concept_dekolonisierung_des_wissens",
+      "german": "die Dekolonisierung des Wissens",
+      "plural": "-",
+      "arabic": "تَصْفِيَةُ الِاسْتِعْمَارِ المَعْرِفِيِّ (إِنْهَاءُ اسْتِعْمَارِ العَقْلِ)",
+      "english": "decolonization of knowledge",
+      "example_sentence": {
+        "de": "Die Dekolonisierung des Wissens fordert universitäre Lehrpläne auf, marginalisierte Denktraditionen des globalen Südens gleichrangig einzubinden.",
+        "ar": "تَقْتَضِي تَصْفِيَةُ الِاسْتِعْمَارِ المَعْرِفِيِّ إِدْرَاجَ التَّقَالِيدِ الفِكْرِيَّةِ لِلْجَنُوبِ العَالَمِيِّ عَلَى قَدَمِ المُسَاوَاةِ فِي المَنَاهِجِ الأَكَادِيمِيَّةِ.",
+        "en": "Decolonizing knowledge requires academic curricula to dismantle epistemological hierarchies and integrate Global South scholarship."
+      },
+      "image": "assets/svg/concept_dekolonisierung_des_wissens.svg"
+    },
+    {
+      "id": "concept_epistemizid_these",
+      "german": "die Epistemizid-These",
+      "plural": "die Epistemizid-Thesen",
+      "arabic": "أُطْرُوحَةُ الإِبَادَةِ المَعْرِفِيَّةِ (الإِبِسْتِيمِيسِيد)",
+      "english": "epistemicide (systemic eradication of rival knowledge systems)",
+      "example_sentence": {
+        "de": "Boaventura de Sousa Santos prägte den Begriff Epistemizid für die historische Vernichtung nicht-westlicher Wissenssysteme.",
+        "ar": "صَاغَ بُوَافِينْتُورَا دُو سُوسَا سَانْتُوس مُصْطَلَحَ 'الإِبَادَةِ المَعْرِفِيَّةِ' لِوَصْفِ التَّدْمِيرِ المَنْهَجِيِّ لِأَنْظِمَةِ المَعْرِفَةِ غَيْرِ الغَرْبِيَّةِ.",
+        "en": "Boaventura de Sousa Santos coined epistemicide to designate the historical eradication of non-Western knowledge epistemes."
+      },
+      "image": "assets/svg/concept_epistemizid_these.svg"
+    },
+    {
+      "id": "concept_dritter_raum",
+      "german": "der Dritte Raum",
+      "plural": "die Dritten Räume",
+      "arabic": "الفَضَاءُ الثَّالِثُ لِلتَّرْجَمَةِ وَالتَّفَاوُضِ الثَّقَافِيِّ",
+      "english": "the Third Space (interstitial site of cultural enunciation)",
+      "example_sentence": {
+        "de": "Im Dritten Raum entstehen transformative Bedeutungen, die sich weder der Ursprungskultur noch der Aufnahmegesellschaft unterordnen.",
+        "ar": "تَتَوَلَّدُ فِي 'الفَضَاءِ الثَّالِثِ' مَعَانٍ تَحْوِيلِيَّةٌ لَا تَنْصَاعُ لِثَقَافَةِ الأَصْلِ وَلَا لِثَقَافَةِ المُسْتَعْمِرِ المَرْكَزِيَّةِ.",
+        "en": "In the Third Space, transformative enunciations emerge that resist assimilation into either origin or host cultural poles."
+      },
+      "image": "assets/svg/concept_dritter_raum.svg"
+    },
+    {
+      "id": "concept_eurozentrismus_kritik",
+      "german": "die Eurozentrismus-Kritik",
+      "plural": "-",
+      "arabic": "نَقْدُ المَرْكَزِيَّةِ الأُورُوبِّيَّةِ",
+      "english": "critique of Eurocentrism",
+      "example_sentence": {
+        "de": "Dipesh Chakrabartys 'Provincializing Europe' liefert einen Meilenstein der Eurozentrismus-Kritik in der Geschichtswissenschaft.",
+        "ar": "يُمَثِّلُ كِتَابُ دِيبِيش تْشَاكْرَابَارْتِي 'تَأْرِيخُ أُورُوبَّا كَمُقَاطَعَةٍ' مَعْلَمًا رَئِيسًا فِي نَقْدِ المَرْكَزِيَّةِ الأُورُوبِّيَّةِ.",
+        "en": "Dipesh Chakrabarty's 'Provincializing Europe' marks a pivotal milestone in the critique of historical Eurocentrism."
+      },
+      "image": "assets/svg/concept_eurozentrismus_kritik.svg"
+    },
+    {
+      "id": "concept_alteritaet_andere",
+      "german": "die Alterität",
+      "plural": "-",
+      "arabic": "الغَيْرِيَّةُ وَمَفْهُومُ الآخَرِ فِي الفَلْسَفَةِ النَّقْدِيَّةِ",
+      "english": "alterity / otherness",
+      "example_sentence": {
+        "de": "Emmanuel Lévinas begründete die Ethik auf der unreduzierbaren Alterität des Gegenübers.",
+        "ar": "أَسَّسَ إِيمَانْوِيل لِيفِينَاس الأَخْلَاقِيَّاتِ عَلَى الغَيْرِيَّةِ الَّتِي لَا تَقْبَلُ الِاخْتِزَالَ لِوَجْهِ الآخَرِ.",
+        "en": "Emmanuel Lévinas founded ethics on the radical, irreducible alterity of the Other."
+      },
+      "image": "assets/svg/concept_alteritaet_andere.svg"
+    },
+    {
+      "id": "concept_koloniales_archiv",
+      "german": "das Koloniale Archiv",
+      "plural": "die Kolonialen Archive",
+      "arabic": "الأَرْشِيفُ الِاسْتِعْمَارِيُّ وَمُسَاءَلَةُ الوَثِيقَةِ",
+      "english": "colonial archive (structures of institutionalized power and memory)",
+      "example_sentence": {
+        "de": "Kritische Historiker lesen das koloniale Archiv 'gegen den Strich', um verfälschte Ereignisse neu zu bewerten.",
+        "ar": "يَقْرَأُ المُؤَرِّخُونَ النَّقْدِيُّونَ الأَرْشِيفَ الِاسْتِعْمَارِيَّ 'عَكْسَ اتِّجَاهِ التَّيَّارِ' لِإِعَادَةِ تَقْيِيمِ الوَقَائِعِ المُحَرَّفَةِ.",
+        "en": "Critical historians read the colonial archive 'against the grain' to reconstruct submerged historical realities."
+      },
+      "image": "assets/svg/concept_koloniales_archiv.svg"
+    },
+    {
+      "id": "concept_transkulturalitaet",
+      "german": "die Transkulturalität",
+      "plural": "-",
+      "arabic": "التَّعَدُّدِيَّةُ العَابِرَةُ لِلثَّقَافَاتِ (فُولْفْغَانْغ فِيلْش)",
+      "english": "transculturality (intermeshed and hybrid cultural formations)",
+      "example_sentence": {
+        "de": "Wolfgang Welschs Konzept der Transkulturalität überwindet das veraltete Bild von Kulturen als isolierten Inseln.",
+        "ar": "يَتَجَاوَزُ مَفْهُومُ فُولْفْغَانْغ فِيلْش لِلتَّعَدُّدِيَّةِ العَابِرَةِ لِلثَّقَافَاتِ التَّصَوُّرَ القَدِيمَ لِلثَّقَافَاتِ كَجُزُرٍ مَعْزُولَةٍ.",
+        "en": "Wolfgang Welsch's paradigm of transculturality supersedes the antiquated notion of cultures as enclosed monads."
+      },
+      "image": "assets/svg/concept_transkulturalitaet.svg"
+    },
+    {
+      "id": "concept_kreolisierung_glissant",
+      "german": "die Kreolisierung",
+      "plural": "-",
+      "arabic": "الكِرْيُولِيَّةُ وَتَمَازُجُ اللُّغَاتِ وَالهُوِيَّاتِ (إِدْوَار غْلِيسَان)",
+      "english": "creolization (dynamic synthesis of languages and identities)",
+      "example_sentence": {
+        "de": "Édouard Glissant feierte die Kreolisierung als eine unvorhersehbare, offene Begegnung disparater Kulturen.",
+        "ar": "احْتَفَى إِدْوَار غْلِيسَان بِالكِرْيُولِيَّةِ بِوَصْفِهَا لِقَاءً مَفْتُوحًا وَغَيْرَ مُتَوَقَّعٍ بَيْنَ ثَقَافَاتٍ مُتَبَايِنَةٍ.",
+        "en": "Édouard Glissant celebrated creolization as an unpredictable, open-ended convergence of diverse cultures."
+      },
+      "image": "assets/svg/concept_kreolisierung_glissant.svg"
+    },
+    {
+      "id": "concept_kosmopolitismus_von_unten",
+      "german": "der Kosmopolitismus von unten",
+      "plural": "-",
+      "arabic": "الكُوسْمُوبُولِيتِيَّةُ الشَّعْبِيَّةُ مِنْ أَسْفَلَ",
+      "english": "cosmopolitanism from below / subaltern cosmopolitanism",
+      "example_sentence": {
+        "de": "Der Kosmopolitismus von unten entsteht in Migrationsrouten und transnationalen Solidaritätsnetzwerken der Benachteiligten.",
+        "ar": "تَنْشَأُ الكُوسْمُوبُولِيتِيَّةُ الشَّعْبِيَّةُ فِي مَسَارَاتِ الهِجْرَةِ وَشَبَكَاتِ التَّضَامُنِ عَابِرَةِ الحُدُودِ لِلْمُسْتَضْعَفِينَ.",
+        "en": "Cosmopolitanism from below crystallizes within grassroots migrant routes and subaltern solidarity networks."
+      },
+      "image": "assets/svg/concept_kosmopolitismus_von_unten.svg"
+    },
+    {
+      "id": "concept_intersektionalitaet",
+      "german": "die Intersektionalität",
+      "plural": "-",
+      "arabic": "التَّقَاطُعِيَّةُ فِي دِرَاسَاتِ الهُوِيَّةِ وَأَشْكَالِ التَّمْيِيزِ",
+      "english": "intersectionality (interconnected axes of discrimination)",
+      "example_sentence": {
+        "de": "Kimberlé Crenshaw begründete die Intersektionalität, um das Zusammentreffen von Rassismus und Sexismus analysierbar zu machen.",
+        "ar": "أَسَّسَتْ كِيمْبِرْلِي كْرِينْشُو نَظَرِيَّةَ التَّقَاطُعِيَّةِ لِتَحْلِيلِ التَّدَاخُلِ المُعَقَّدِ بَيْنَ العُنْصُرِيَّةِ وَالتَّمْيِيزِ الجِنْسِيِّ.",
+        "en": "Kimberlé Crenshaw formulated intersectionality to interrogate the multifaceted overlapping of race, gender, and class discrimination."
+      },
+      "image": "assets/svg/concept_intersektionalitaet.svg"
+    },
+    {
+      "id": "concept_dekonstruktion_des_kanons",
+      "german": "die Dekonstruktion des Kanons",
+      "plural": "-",
+      "arabic": "تَفْكِيكُ القَائِمَةِ الأَدَبِيَّةِ المَرْكَزِيَّةِ (تَفْكِيكُ الكَانُونِ)",
+      "english": "canon deconstruction",
+      "example_sentence": {
+        "de": "Die Dekonstruktion des literarischen Kanons deckt auf, welche Werke aus imperialen Machtinteressen selektiert wurden.",
+        "ar": "يَكْشِفُ تَفْكِيكُ القَائِمَةِ الأَدَبِيَّةِ المُعْتَمَدَةِ عَنْ كَيْفِيَّةِ انْتِقَاءِ الأَعْمَالِ بِمُوجَبِ مَصَالِحِ الهَيْمَنَةِ الإِمْبِرْيَالِيَّةِ.",
+        "en": "The deconstruction of the literary canon exposes the imperial interests governing the historical selection of classics."
+      },
+      "image": "assets/svg/concept_dekonstruktion_des_kanons.svg"
+    },
+    {
+      "id": "concept_paternalismus_narrativ",
+      "german": "das Paternalismus-Narrativ",
+      "plural": "die Paternalismus-Narrative",
+      "arabic": "الخِطَابُ الأَبَوِيُّ الِاسْتِعْمَارِيُّ الوِصَائِيُّ",
+      "english": "paternalistic colonial narrative",
+      "example_sentence": {
+        "de": "Das Paternalismus-Narrativ legitimierte koloniale Gewalt zynisch als 'zivilisatorische Erziehungsmission'.",
+        "ar": "بَرَّرَ الخِطَابُ الأَبَوِيُّ الوِصَائِيُّ العُنْفَ الِاسْتِعْمَارِيَّ بِشَكْلٍ ذَرِيعٍ بِاعْتِبَارِهِ 'رِسَالَةً تَمْدِينِيَّةً تَهْذِيبِيَّةً'.",
+        "en": "The paternalistic narrative cynically legitimized colonial violence as a benevolent 'civilizing mission'."
+      },
+      "image": "assets/svg/concept_paternalismus_narrativ.svg"
+    },
+    {
+      "id": "concept_epistemische_gerechtigkeit",
+      "german": "die epistemische Gerechtigkeit",
+      "plural": "-",
+      "arabic": "العَدَالَةُ المَعْرِفِيَّةُ (الإِبِسْتِيمِيَّةُ)",
+      "english": "epistemic justice (Miranda Fricker)",
+      "example_sentence": {
+        "de": "Miranda Fricker fordert epistemische Gerechtigkeit, damit Zeugenaussagen marginalisierter Personen nicht wegen Vorurteilen entwertet werden.",
+        "ar": "تُطَالِبُ مِيرَانْدَا فْرِيكَر بِالعَدَالَةِ المَعْرِفِيَّةِ لِكَيْلَا تُهْدَرَ شَهَادَاتُ الفِئَاتِ المُهَمَّشَةِ بِسَبَبِ الأَحْكَامِ المsubsbُسْبَقَةِ.",
+        "en": "Miranda Fricker champions epistemic justice to prevent testimonial injustice against marginalized subjects."
+      },
+      "image": "assets/svg/concept_epistemische_gerechtigkeit.svg"
+    },
+    {
+      "id": "concept_standortgebundenheit_des_wissens",
+      "german": "die Standortgebundenheit des Wissens",
+      "plural": "-",
+      "arabic": "تَمَوْضُعُ المَعْرِفَةِ وَارْتِهَانُهَا بِالسِّيَاقِ المَكَانِيِّ",
+      "english": "situated knowledge (Donna Haraway)",
+      "example_sentence": {
+        "de": "Donna Haraways Konzept der situierten Erkenntnis betont die unausweichliche Standortgebundenheit allen Wissens.",
+        "ar": "يُؤَكِّدُ مَفْهُومُ دُونَا هَارَاوَاي لِلْمَعْرِفَةِ المَوْضُوعَةِ عَلَى التَّمَوْضُعِ المَكَانِيِّ وَالسِّيَاقِيِّ الحَتْمِيِّ لِكُلِّ مَعْرِفَةٍ.",
+        "en": "Donna Haraway's paradigm of situated knowledges underscores the inescapable embodiment and positioning of all truth claims."
+      },
+      "image": "assets/svg/concept_standortgebundenheit_des_wissens.svg"
+    },
+    {
+      "id": "concept_kultureller_essentialismus",
+      "german": "der kulturelle Essentialismus",
+      "plural": "-",
+      "arabic": "الجَوْهَرَانِيَّةُ الثَّقَافِيَّةُ المُنْغَلِقَةُ",
+      "english": "cultural essentialism (reifying cultural differences)",
+      "example_sentence": {
+        "de": "Der kulturelle Essentialismus postuliert unveränderliche Wesensmerkmale und verhindert echten interkulturellen Wandel.",
+        "ar": "تَفْتَرِضُ الجَوْهَرَانِيَّةُ الثَّقَافِيَّةُ خَصَائِصَ جَوْهَرِيَّةً ثَابِتَةً غَيْرَ قَابِلَةٍ لِلتَّغْيِيرِ، مِمَّا يُعِيقُ التَّفَاعُلَ الحَقِيقِيَّ بَيْنَ الثَّقَافَاتِ.",
+        "en": "Cultural essentialism posits immutable cultural essences, thereby obstructing fluid cross-cultural exchange."
+      },
+      "image": "assets/svg/concept_kultureller_essentialismus.svg"
+    },
+    {
+      "id": "concept_kolonialitaet_der_macht",
+      "german": "die Kolonialität der Macht",
+      "plural": "-",
+      "arabic": "اسْتِعْمَارِيَّةُ السُّلْطَةِ (أَنِيبَال كِيخَانُو)",
+      "english": "coloniality of power (Aníbal Quijano)",
+      "example_sentence": {
+        "de": "Aníbal Quijano zeigte, dass die Kolonialität der Macht auch nach dem formalen Ende der Kolonien globale Hierarchien strukturiert.",
+        "ar": "أَثْبَتَ أَنِيبَال كِيخَانُو أَنَّ 'اسْتِعْمَارِيَّةَ السُّلْطَةِ' تُوَاصِلُ هَيْكَلَةَ التَّرَاتُبِيَّاتِ العَالَمِيَّةِ حَتَّى بَعْدَ الجَلَاءِ العَسْكَرِيِّ لِلِاسْتِعْمَارِ.",
+        "en": "Aníbal Quijano demonstrated that the coloniality of power perpetuates global racial and economic hierarchies beyond formal colonialism."
+      },
+      "image": "assets/svg/concept_kolonialitaet_der_macht.svg"
+    },
+    {
+      "id": "concept_sprachhegemonie",
+      "german": "die Sprachhegemonie",
+      "plural": "die Sprachhegemonien",
+      "arabic": "الهَيْمَنَةُ اللُّغَوِيَّةُ الِاسْتِعْمَارِيَّةُ",
+      "english": "linguistic hegemony (imperial dominance of languages)",
+      "example_sentence": {
+        "de": "Ngũgĩ wa Thiong'o plädierte für die Überwindung europäischer Sprachhegemonie durch das Schreiben in afrikanischen Muttersprachen.",
+        "ar": "دَعَا نْغُوغِي وَا ثِيُونْغُو إِلَى تَجَاوُزِ الهَيْمَنَةِ اللُّغَوِيَّةِ الأُورُوبِّيَّةِ عَبْرَ التَّأْلِيفِ بِاللُّغَاتِ الأُمِّ الإِفْرِيقِيَّةِ.",
+        "en": "Ngũgĩ wa Thiong'o advocated decolonizing the mind by subverting imperial linguistic hegemony through mother tongues."
+      },
+      "image": "assets/svg/concept_sprachhegemonie.svg"
+    },
+    {
+      "id": "concept_gegennarrativ",
+      "german": "das Gegennarrativ",
+      "plural": "die Gegennarrative",
+      "arabic": "السَّرْدِيَّةُ المُضَادَّةُ المُقَاوِمَةُ",
+      "english": "counter-narrative",
+      "example_sentence": {
+        "de": "Postkoloniale Literatur entwirft kraftvolle Gegennarrative, die eurozentrische Geschichtsbilder wirksam herausfordern.",
+        "ar": "تَصُوغُ الأَدَبِيَّاتُ مَا بَعْدَ الكُولُونْيَالِيَّةِ سَرْدِيَّاتٍ مُضَادَّةً قَوِيَّةً تَتَحَدَّى بِفَاعِلِيَّةٍ التَّصَوُّرَاتِ التَّارِيخِيَّةَ المَرْكَزِيَّةَ لِلْغَرْبِ.",
+        "en": "Post-colonial literature constructs potent counter-narratives that effectively challenge Eurocentric historical orthodoxy."
+      },
+      "image": "assets/svg/concept_gegennarrativ.svg"
+    },
+    {
+      "id": "concept_transmoderne_dussel",
+      "german": "die Transmoderne",
+      "plural": "-",
+      "arabic": "مَا بَعْدَ الحَدَاثَةِ العَابِرَةُ (التُّرَانْسْمُودِيرْنِيتِي - إِنْرِيكِي دُوسِل)",
+      "english": "transmodernity (pluriversal planetary horizon beyond Eurocentric modernity)",
+      "example_sentence": {
+        "de": "Enrique Dussels Vision der Transmoderne entwirft ein pluriversales Zeitalter gegenseitiger epistemischer Bereicherung aller Kulturen.",
+        "ar": "تَرْسُمُ رُؤْيَةُ إِنْرِيكِي دُوسِل لِـ'التُّرَانْسْمُودِيرْنِيتِي' عَصْرًا عَالَمِيًّا تَتَعَدَّدُ فِيهِ المَسَارَاتُ دُونَ هَيْمَنَةٍ أُحَادِيَّةٍ.",
+        "en": "Enrique Dussel's vision of transmodernity projects a pluriversal planetary future of mutual epistemological co-realization."
+      },
+      "image": "assets/svg/concept_transmoderne_dussel.svg"
+    }
+  ]
+}
