@@ -1,0 +1,562 @@
+[
+  {
+    "id": "verb_c2_xeno_001",
+    "infinitive": "dechiffrieren",
+    "level": "C2",
+    "category": "Xenolinguistic Decryption",
+    "arabic": "يَفُكُّ التَّشْفِيرَ السِّيمِيَائِيَّ",
+    "english": "to decipher / decode",
+    "conjugation": {
+      "praesens": {
+        "ich": "dechiffriere",
+        "du": "dechiffrierst",
+        "er_sie_es": "dechiffriert",
+        "wir": "dechiffrieren",
+        "ihr": "dechiffriert",
+        "sie_Sie": "dechiffrieren"
+      },
+      "praeteritum": {
+        "ich": "dechiffrierte",
+        "er_sie_es": "dechiffrierte"
+      },
+      "perfekt": "hat dechiffriert"
+    },
+    "preposition": "aus + Dat.",
+    "example_de": "Linguisten dechiffrieren komplexe Frequenzmuster mithilfe mathematischer Algorithmen.",
+    "example_ar": "يَفُكُّ اللُّغَوِيُّونَ أَنْمَاطَ التَّرَدُّدَاتِ المُعَقَّدَةِ بِمُسَاعَدَةِ الخُوَارِزْمِيَّاتِ الرِّيَاضِيَّةِ.",
+    "example_en": "Linguists decipher complex frequency patterns using mathematical algorithms.",
+    "svg_icon": "content/assets/svg/verb_c2_xeno_001.svg"
+  },
+  {
+    "id": "verb_c2_xeno_002",
+    "infinitive": "transkodieren",
+    "level": "C2",
+    "category": "Xenolinguistic Decryption",
+    "arabic": "يُحَوِّلُ الشَّفْرَةَ الإِشَارِيَّةَ",
+    "english": "to transcode",
+    "conjugation": {
+      "praesens": {
+        "ich": "transkodiere",
+        "du": "transkodierst",
+        "er_sie_es": "transkodiert",
+        "wir": "transkodieren",
+        "ihr": "transkodiert",
+        "sie_Sie": "transkodieren"
+      },
+      "praeteritum": {
+        "ich": "transkodierte",
+        "er_sie_es": "transkodierte"
+      },
+      "perfekt": "hat transkodiert"
+    },
+    "preposition": "in + Akk.",
+    "example_de": "Das System transkodiert empfangene Radiowellen in visuelle semantische Matrizen.",
+    "example_ar": "يُحَوِّلُ النِّظَامُ المَوْجَاتِ الرَّادْيَوِيَّةَ المُلْتَقَطَةَ إِلَى مَصْفُوفَاتٍ دَلَالِيَّةٍ بَصَرِيَّةٍ.",
+    "example_en": "The system transcodes received radio waves into visual semantic matrices.",
+    "svg_icon": "content/assets/svg/verb_c2_xeno_002.svg"
+  },
+  {
+    "id": "verb_c2_xeno_003",
+    "infinitive": "extrapolieren",
+    "level": "C2",
+    "category": "Xenolinguistic Decryption",
+    "arabic": "يَسْتَقْرِئُ البِنْيَةَ النَّحْوِيَّةَ",
+    "english": "to extrapolate",
+    "conjugation": {
+      "praesens": {
+        "ich": "extrapoliere",
+        "du": "extrapolierst",
+        "er_sie_es": "extrapoliert",
+        "wir": "extrapolieren",
+        "ihr": "extrapoliert",
+        "sie_Sie": "extrapolieren"
+      },
+      "praeteritum": {
+        "ich": "extrapolierte",
+        "er_sie_es": "extrapolierte"
+      },
+      "perfekt": "hat extrapoliert"
+    },
+    "preposition": "aus + Dat.",
+    "example_de": "Astrosemiotiker extrapolieren universelle Grammatikregeln aus kosmischen Symmetrien.",
+    "example_ar": "يَسْتَقْرِئُ عُلَمَاءُ السِّيمِيَاءِ الفَلَكِيَّةِ قَوَاعِدَ نَحْوِيَّةً كَوْنِيَّةً مِنْ التَّنَاظُرَاتِ الفَلَكِيَّةِ.",
+    "example_en": "Astrosemioticians extrapolate universal grammar rules from cosmic symmetries.",
+    "svg_icon": "content/assets/svg/verb_c2_xeno_003.svg"
+  },
+  {
+    "id": "verb_c2_xeno_004",
+    "infinitive": "synthetisieren",
+    "level": "C2",
+    "category": "Xenolinguistic Decryption",
+    "arabic": "يُرَكِّبُ رُمُوزًا دَلَالِيَّةً",
+    "english": "to synthesize",
+    "conjugation": {
+      "praesens": {
+        "ich": "synthetisiere",
+        "du": "synthetisierst",
+        "er_sie_es": "synthetisiert",
+        "wir": "synthetisieren",
+        "ihr": "synthetisiert",
+        "sie_Sie": "synthetisieren"
+      },
+      "praeteritum": {
+        "ich": "synthetisierte",
+        "er_sie_es": "synthetisierte"
+      },
+      "perfekt": "hat synthetisiert"
+    },
+    "preposition": "zu + Dat.",
+    "example_de": "Moderne Algorithmen synthetisieren fragmentierte Signalfolgen zu kohärenten Bedeutungsblöcken.",
+    "example_ar": "تُرَكِّبُ الخُوَارِزْمِيَّاتُ الحَدِيثَةُ سَلَاسِلَ الإِشَارَاتِ المُتَشَظِّيَةِ إِلَى كُتَلٍ دَلَالِيَّةٍ مُتَرَابِطَةٍ.",
+    "example_en": "Modern algorithms synthesize fragmented signal sequences into coherent semantic blocks.",
+    "svg_icon": "content/assets/svg/verb_c2_xeno_004.svg"
+  },
+  {
+    "id": "verb_c2_xeno_005",
+    "infinitive": "entschlüsseln",
+    "level": "C2",
+    "category": "Xenolinguistic Decryption",
+    "arabic": "يَحُلُّ اللُّغْزَ الإِشَارِيَّ",
+    "english": "to unravel / decode",
+    "conjugation": {
+      "praesens": {
+        "ich": "entschlüssele",
+        "du": "entschlüsselst",
+        "er_sie_es": "entschlüsselt",
+        "wir": "entschlüsseln",
+        "ihr": "entschlüsselt",
+        "sie_Sie": "entschlüsseln"
+      },
+      "praeteritum": {
+        "ich": "entschlüsselte",
+        "er_sie_es": "entschlüsselte"
+      },
+      "perfekt": "hat entschlüsselt"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Forscher entschlüsseln verborgene Redundanzen durch spektrale Autokorrelation.",
+    "example_ar": "يَحُلُّ البَاحِثُونَ أَلْغَازَ التَّكْرَارَاتِ الخَفِيَّةِ عَبْرَ الارْتِبَاطِ الذَّاتِيِّ الطَّيْفِيِّ.",
+    "example_en": "Researchers unravel concealed redundancies through spectral autocorrelation.",
+    "svg_icon": "content/assets/svg/verb_c2_xeno_005.svg"
+  },
+  {
+    "id": "verb_c2_xeno_006",
+    "infinitive": "konzeptualisieren",
+    "level": "C2",
+    "category": "Xenolinguistic Decryption",
+    "arabic": "يُصِيغُ مَفْهُومِيًّا",
+    "english": "to conceptualize",
+    "conjugation": {
+      "praesens": {
+        "ich": "konzeptualisiere",
+        "du": "konzeptualisierst",
+        "er_sie_es": "konzeptualisiert",
+        "wir": "konzeptualisieren",
+        "ihr": "konzeptualisiert",
+        "sie_Sie": "konzeptualisieren"
+      },
+      "praeteritum": {
+        "ich": "konzeptualisierte",
+        "er_sie_es": "konzeptualisierte"
+      },
+      "perfekt": "hat konzeptualisiert"
+    },
+    "preposition": "als + Akk.",
+    "example_de": "Wir konzeptualisieren die Botschaft als multidimensionalen semantischen Vektorraum.",
+    "example_ar": "نُصِيغُ الرِّسَالَةَ مَفْهُومِيًّا كَفَضَاءٍ شُعَاعِيٍّ دَلَالِيٍّ مُتَعَدِّدِ الأَبْعَادِ.",
+    "example_en": "We conceptualize the message as a multidimensional semantic vector space.",
+    "svg_icon": "content/assets/svg/verb_c2_xeno_006.svg"
+  },
+  {
+    "id": "verb_c2_xeno_007",
+    "infinitive": "permutieren",
+    "level": "C2",
+    "category": "Xenolinguistic Decryption",
+    "arabic": "يُبَدِّلُ التَّرْتِيبَ التَّوَافُقِيَّ",
+    "english": "to permute",
+    "conjugation": {
+      "praesens": {
+        "ich": "permutiere",
+        "du": "permutierst",
+        "er_sie_es": "permutiert",
+        "wir": "permutieren",
+        "ihr": "permutiert",
+        "sie_Sie": "permutieren"
+      },
+      "praeteritum": {
+        "ich": "permutierte",
+        "er_sie_es": "permutierte"
+      },
+      "perfekt": "hat permutiert"
+    },
+    "preposition": "in + Dat.",
+    "example_de": "Die Software permutiert alle potentiellen Satzstrukturen zur statistischen Validierung.",
+    "example_ar": "تُبَدِّلُ البَرْمَجِيَّةُ تَرْتِيبَ جَمِيعِ البِنَى النَّحْوِيَّةِ المُحْتَمَلَةِ لِلتَّحَقُّقِ الإِحْصَائِيِّ.",
+    "example_en": "The software permutes all potential sentence structures for statistical validation.",
+    "svg_icon": "content/assets/svg/verb_c2_xeno_007.svg"
+  },
+  {
+    "id": "verb_c2_xeno_008",
+    "infinitive": "abstrahieren",
+    "level": "C2",
+    "category": "Xenolinguistic Decryption",
+    "arabic": "يُجَرِّدُ المَعْنَى",
+    "english": "to abstract",
+    "conjugation": {
+      "praesens": {
+        "ich": "abstrahiere",
+        "du": "abstrahierst",
+        "er_sie_es": "abstrahiert",
+        "wir": "abstrahieren",
+        "ihr": "abstrahiert",
+        "sie_Sie": "abstrahieren"
+      },
+      "praeteritum": {
+        "ich": "abstrahierte",
+        "er_sie_es": "abstrahierte"
+      },
+      "perfekt": "hat abstrahiert"
+    },
+    "preposition": "von + Dat.",
+    "example_de": "Man muss von anthropomorphen Denkmustern abstrahieren, um das Signal objektiv zu erfassen.",
+    "example_ar": "يَجِبُ التَّجْرِيدُ مِنَ الأَنْمَاطِ الفِكْرِيَّةِ التَّجْسِيمِيَّةِ لِإِدْرَاكِ الإِشَارَةِ بِمَوْضُوعِيَّةٍ.",
+    "example_en": "One must abstract from anthropomorphic cognitive patterns to grasp the signal objectively.",
+    "svg_icon": "content/assets/svg/verb_c2_xeno_008.svg"
+  },
+  {
+    "id": "verb_c2_xeno_009",
+    "infinitive": "artikulieren",
+    "level": "C2",
+    "category": "Xenolinguistic Decryption",
+    "arabic": "يُفْصِحُ عَنْ دَلَالَةٍ",
+    "english": "to articulate (semiotically)",
+    "conjugation": {
+      "praesens": {
+        "ich": "artikuliere",
+        "du": "artikulierst",
+        "er_sie_es": "artikuliert",
+        "wir": "artikulieren",
+        "ihr": "artikuliert",
+        "sie_Sie": "artikulieren"
+      },
+      "praeteritum": {
+        "ich": "artikulierte",
+        "er_sie_es": "artikulierte"
+      },
+      "perfekt": "hat artikuliert"
+    },
+    "preposition": "über + Akk.",
+    "example_de": "Das modulierte Signal artikuliert fundamentale Aussagen über fundamentale Naturkonstanten.",
+    "example_ar": "تُفْصِحُ الإِشَارَةُ المُعَدَّلَةُ عَنْ بَيَانَاتٍ أَسَاسِيَّةٍ حَوْلَ ثَوَابِتِ الطَّبِيعَةِ الجَوْهَرِيَّةِ.",
+    "example_en": "The modulated signal articulates fundamental propositions regarding fundamental physical constants.",
+    "svg_icon": "content/assets/svg/verb_c2_xeno_009.svg"
+  },
+  {
+    "id": "verb_c2_xeno_010",
+    "infinitive": "rezipieren",
+    "level": "C2",
+    "category": "Xenolinguistic Decryption",
+    "arabic": "يَسْتَقْبِلُ وَيَسْتَوْعِبُ",
+    "english": "to receive / assimilate",
+    "conjugation": {
+      "praesens": {
+        "ich": "rezipiere",
+        "du": "rezipierst",
+        "er_sie_es": "rezipiert",
+        "wir": "rezipieren",
+        "ihr": "rezipiert",
+        "sie_Sie": "rezipieren"
+      },
+      "praeteritum": {
+        "ich": "rezipierte",
+        "er_sie_es": "rezipierte"
+      },
+      "perfekt": "hat rezipiert"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Teleskopnetzwerke rezipieren kohärente Schmalbandimpulse aus fernen Sternsystemen.",
+    "example_ar": "تَسْتَقْبِلُ شَبَكَاتُ التِّلِسْكُوبَاتِ نَبَضَاتِ النِّطَاقِ الضَّيِّقِ المُتَرَابِطَةِ مِنْ مَنْظُومَاتٍ نَجْمِيَّةٍ بَعِيدَةٍ.",
+    "example_en": "Telescope networks receive coherent narrowband pulses from distant stellar systems.",
+    "svg_icon": "content/assets/svg/verb_c2_xeno_010.svg"
+  },
+  {
+    "id": "verb_c2_xeno_011",
+    "infinitive": "hermeneutisieren",
+    "level": "C2",
+    "category": "Xenolinguistic Decryption",
+    "arabic": "يُؤَوِّلُ هِرْمِينُوطِيقِيًّا",
+    "english": "to interpret hermeneutically",
+    "conjugation": {
+      "praesens": {
+        "ich": "hermeneutisiere",
+        "du": "hermeneutisierst",
+        "er_sie_es": "hermeneutisiert",
+        "wir": "hermeneutisieren",
+        "ihr": "hermeneutisiert",
+        "sie_Sie": "hermeneutisieren"
+      },
+      "praeteritum": {
+        "ich": "hermeneutisierte",
+        "er_sie_es": "hermeneutisierte"
+      },
+      "perfekt": "hat hermeneutisiert"
+    },
+    "preposition": "nach + Dat.",
+    "example_de": "Philosophen hermeneutisieren das interstellar übermittelte Artefakt nach semiotischen Prinzipien.",
+    "example_ar": "يُؤَوِّلُ الفَلَاسِفَةُ الأَثَرَ المَنْقُولَ بَيْنَ النُّجُومِ وَفْقًا لِمَبَادِئَ سِيمِيَائِيَّةٍ.",
+    "example_en": "Philosophers interpret the interstellarly transmitted artifact according to semiotic principles.",
+    "svg_icon": "content/assets/svg/verb_c2_xeno_011.svg"
+  },
+  {
+    "id": "verb_c2_xeno_012",
+    "infinitive": "semantisieren",
+    "level": "C2",
+    "category": "Xenolinguistic Decryption",
+    "arabic": "يَمْنَحُ مَعْنًى دَلَالِيًّا",
+    "english": "to semantize (impart meaning)",
+    "conjugation": {
+      "praesens": {
+        "ich": "semantisiere",
+        "du": "semantisierst",
+        "er_sie_es": "semantisiert",
+        "wir": "semantisieren",
+        "ihr": "semantisiert",
+        "sie_Sie": "semantisieren"
+      },
+      "praeteritum": {
+        "ich": "semantisierte",
+        "er_sie_es": "semantisierte"
+      },
+      "perfekt": "hat semantisiert"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Die Zuordnung mathematischer Axiome semantisiert die abstrakte Zahlenfolge.",
+    "example_ar": "يَمْنَحُ تَعْيِينُ المُسَلَّمَاتِ الرِّيَاضِيَّةِ مَعْنًى دَلَالِيًّا لِلمُتَتَالِيَةِ العَدَدِيَّةِ المُجَرَّدَةِ.",
+    "example_en": "Assigning mathematical axioms semantizes the abstract sequence of numbers.",
+    "svg_icon": "content/assets/svg/verb_c2_xeno_012.svg"
+  },
+  {
+    "id": "verb_c2_xeno_013",
+    "infinitive": "kanalisieren",
+    "level": "C2",
+    "category": "Xenolinguistic Decryption",
+    "arabic": "يُوَجِّهُ تَدَفُّقَ الإِشَارَةِ",
+    "english": "to channel",
+    "conjugation": {
+      "praesens": {
+        "ich": "kanalisiere",
+        "du": "kanalisierst",
+        "er_sie_es": "kanalisiert",
+        "wir": "kanalisieren",
+        "ihr": "kanalisiert",
+        "sie_Sie": "kanalisieren"
+      },
+      "praeteritum": {
+        "ich": "kanalisierte",
+        "er_sie_es": "kanalisierte"
+      },
+      "perfekt": "hat kanalisiert"
+    },
+    "preposition": "in + Akk.",
+    "example_de": "Optische Empfänger kanalisieren Photonenströme in hochempfindliche Spektrometer.",
+    "example_ar": "تُوَجِّهُ المُسْتَقْبِلَاتُ البَصَرِيَّةُ تَدَفُّقَاتِ الفُوتُونَاتِ إِلَى مَقَايِيسِ طَيْفٍ فَائِقَةِ الحَسَاسِيَّةِ.",
+    "example_en": "Optical receivers channel photon streams into ultra-sensitive spectrometers.",
+    "svg_icon": "content/assets/svg/verb_c2_xeno_013.svg"
+  },
+  {
+    "id": "verb_c2_xeno_014",
+    "infinitive": "interpunktieren",
+    "level": "C2",
+    "category": "Xenolinguistic Decryption",
+    "arabic": "يُقَسِّمُ تَدَفُّقَ البَيَانَاتِ",
+    "english": "to punctuate / segment",
+    "conjugation": {
+      "praesens": {
+        "ich": "interpunktiere",
+        "du": "interpunktierst",
+        "er_sie_es": "interpunktiert",
+        "wir": "interpunktieren",
+        "ihr": "interpunktiert",
+        "sie_Sie": "interpunktieren"
+      },
+      "praeteritum": {
+        "ich": "interpunktierte",
+        "er_sie_es": "interpunktierte"
+      },
+      "perfekt": "hat interpunktiert"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Periodische Pausen im Datenstrom interpunktieren die Botschaft in semantische Einheiten.",
+    "example_ar": "تُقَسِّمُ الفَتَرَاتُ الفَاصِلَةُ الدَّوْرِيَّةُ فِي تَدَفُّقِ البَيَانَاتِ الرِّسَالَةَ إِلَى وَحَدَاتٍ دَلَالِيَّةٍ.",
+    "example_en": "Periodic pauses in the data stream punctuate the message into semantic units.",
+    "svg_icon": "content/assets/svg/verb_c2_xeno_014.svg"
+  },
+  {
+    "id": "verb_c2_xeno_015",
+    "infinitive": "synchronisieren",
+    "level": "C2",
+    "category": "Xenolinguistic Decryption",
+    "arabic": "يُزَامِنُ طَوْرَ الإِشَارَةِ",
+    "english": "to synchronize",
+    "conjugation": {
+      "praesens": {
+        "ich": "synchronisiere",
+        "du": "synchronisierst",
+        "er_sie_es": "synchronisiert",
+        "wir": "synchronisieren",
+        "ihr": "synchronisiert",
+        "sie_Sie": "synchronisieren"
+      },
+      "praeteritum": {
+        "ich": "synchronisierte",
+        "er_sie_es": "synchronisierte"
+      },
+      "perfekt": "hat synchronisiert"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Atomuhren synchronisieren die Empfangszeitpunkte globaler Radioteleskope präzise.",
+    "example_ar": "تُزَامِنُ السَّاعَاتُ الذَّرِّيَّةُ أَوْقَاتَ اسْتِقْبَالِ التِّلِسْكُوبَاتِ الرَّادْيَوِيَّةِ العَالَمِيَّةِ بِدِقَّةٍ.",
+    "example_en": "Atomic clocks precisely synchronize the reception timestamps of global radio telescopes.",
+    "svg_icon": "content/assets/svg/verb_c2_xeno_015.svg"
+  },
+  {
+    "id": "verb_c2_xeno_016",
+    "infinitive": "transzendieren",
+    "level": "C2",
+    "category": "Xenolinguistic Decryption",
+    "arabic": "يَتَسَامَى فَوْقَ المَحْدُودِيَّةِ",
+    "english": "to transcend",
+    "conjugation": {
+      "praesens": {
+        "ich": "transzendiere",
+        "du": "transzendierst",
+        "er_sie_es": "transzendiert",
+        "wir": "transzendieren",
+        "ihr": "transzendiert",
+        "sie_Sie": "transzendieren"
+      },
+      "praeteritum": {
+        "ich": "transzendierte",
+        "er_sie_es": "transzendierte"
+      },
+      "perfekt": "hat transzendiert"
+    },
+    "preposition": "über + Akk.",
+    "example_de": "Universelle Zeichensysteme transzendieren die biologischen Schranken irdischer Sinnesorgane.",
+    "example_ar": "تَتَسَامَى أَنْظِمَةُ الرُّمُوزِ الكَوْنِيَّةِ فَوْقَ الحَوَاجِزِ البَيُولُوجِيَّةِ لِحَوَاسِّ الأَرْضِ.",
+    "example_en": "Universal sign systems transcend the biological constraints of terrestrial sensory organs.",
+    "svg_icon": "content/assets/svg/verb_c2_xeno_016.svg"
+  },
+  {
+    "id": "verb_c2_xeno_017",
+    "infinitive": "universalisieren",
+    "level": "C2",
+    "category": "Xenolinguistic Decryption",
+    "arabic": "يَجْعَلُهُ شَامِلًا كَوْنِيًّا",
+    "english": "to universalize",
+    "conjugation": {
+      "praesens": {
+        "ich": "universalisiere",
+        "du": "universalisierst",
+        "er_sie_es": "universalisiert",
+        "wir": "universalisieren",
+        "ihr": "universalisiert",
+        "sie_Sie": "universalisieren"
+      },
+      "praeteritum": {
+        "ich": "universalisierte",
+        "er_sie_es": "universalisierte"
+      },
+      "perfekt": "hat universalisiert"
+    },
+    "preposition": "zu + Dat.",
+    "example_de": "Astrobiologen universalisieren thermodynamische Grundsätze zu interstellaren Kommunikationsstandards.",
+    "example_ar": "يُعَمِّمُ عُلَمَاءُ الأَحْيَاءِ الفَلَكِيَّةِ المَبَادِئَ الدِّينَامِيكِيَّةَ الحَرَارِيَّةَ لِتَكُونَ مَعَايِيرَ اتِّصَالٍ بَيْنَ النُّجُومِ.",
+    "example_en": "Astrobiologists universalize thermodynamic principles into interstellar communication standards.",
+    "svg_icon": "content/assets/svg/verb_c2_xeno_017.svg"
+  },
+  {
+    "id": "verb_c2_xeno_018",
+    "infinitive": "filtern",
+    "level": "C2",
+    "category": "Xenolinguistic Decryption",
+    "arabic": "يُرَشِّحُ الإِشَارَةَ مِنَ الضَّوْضَاءِ",
+    "english": "to filter (signal from noise)",
+    "conjugation": {
+      "praesens": {
+        "ich": "filtere",
+        "du": "filterst",
+        "er_sie_es": "filtert",
+        "wir": "filtern",
+        "ihr": "filtert",
+        "sie_Sie": "filtern"
+      },
+      "praeteritum": {
+        "ich": "filterte",
+        "er_sie_es": "filterte"
+      },
+      "perfekt": "hat gefiltert"
+    },
+    "preposition": "aus + Dat.",
+    "example_de": "Künstliche Intelligenzen filtern kohärente Signale aus dem kosmischen Hintergrundrauschen.",
+    "example_ar": "تُرَشِّحُ الذَّكَاءَاتُ الاصْطِنَاعِيَّةُ الإِشَارَاتِ المُتَرَابِطَةَ مِنْ ضَوْضَاءِ الخَلْفِيَّةِ الكَوْنِيَّةِ.",
+    "example_en": "Artificial intelligences filter coherent signals from the cosmic background noise.",
+    "svg_icon": "content/assets/svg/verb_c2_xeno_018.svg"
+  },
+  {
+    "id": "verb_c2_xeno_019",
+    "infinitive": "prozessieren",
+    "level": "C2",
+    "category": "Xenolinguistic Decryption",
+    "arabic": "يُعَالِجُ مَعْلُومَاتِيًّا",
+    "english": "to process (signals computational)",
+    "conjugation": {
+      "praesens": {
+        "ich": "prozessiere",
+        "du": "prozessierst",
+        "er_sie_es": "prozessiert",
+        "wir": "prozessieren",
+        "ihr": "prozessiert",
+        "sie_Sie": "prozessieren"
+      },
+      "praeteritum": {
+        "ich": "prozessierte",
+        "er_sie_es": "prozessierte"
+      },
+      "perfekt": "hat prozessiert"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Supercomputer prozessieren Petabytes astronomischer Rohdaten in Echtzeit.",
+    "example_ar": "تُعَالِجُ الحَوَاسِيبُ الفَائِقَةُ بِيَتَابَايْتَاتٍ مِنْ بَيَانَاتِ الرَّصْدِ الفَلَكِيِّ الخَامِ فِي الوَقْتِ الحَقِيقِيِّ.",
+    "example_en": "Supercomputers process petabytes of raw astronomical data in real time.",
+    "svg_icon": "content/assets/svg/verb_c2_xeno_019.svg"
+  },
+  {
+    "id": "verb_c2_xeno_020",
+    "infinitive": "interpolieren",
+    "level": "C2",
+    "category": "Xenolinguistic Decryption",
+    "arabic": "يَسْتَكْمِلُ بَيْنِيًّا (يَسْتَنْبِطُ الفَجَوَاتِ)",
+    "english": "to interpolate",
+    "conjugation": {
+      "praesens": {
+        "ich": "interpoliere",
+        "du": "interpolierst",
+        "er_sie_es": "interpoliert",
+        "wir": "interpolieren",
+        "ihr": "interpoliert",
+        "sie_Sie": "interpolieren"
+      },
+      "praeteritum": {
+        "ich": "interpolierte",
+        "er_sie_es": "interpolierte"
+      },
+      "perfekt": "hat interpoliert"
+    },
+    "preposition": "zwischen + Dat.",
+    "example_de": "Mathematische Modelle interpolieren nahtlos zwischen unvollständigen Messintervallen.",
+    "example_ar": "تَسْتَكْمِلُ النَّمَاذِجُ الرِّيَاضِيَّةُ بَيْنِيًّا وَبِسَلَاسَةٍ بَيْنَ فَتَرَاتِ القِيَاسِ غَيْرِ المُكْتَمِلَةِ.",
+    "example_en": "Mathematical models interpolate seamlessly between incomplete measurement intervals.",
+    "svg_icon": "content/assets/svg/verb_c2_xeno_020.svg"
+  }
+]
