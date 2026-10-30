@@ -10824,6 +10824,185 @@
         "Akkusativ Feminin 'die Zukunft'",
         "Genitivattribut Plural ohne Artikel mit starker Adjektivendung 'kommender Generationen'"
       ]
+    },
+    {
+      "id": "sent_461",
+      "category": "wisdom_illumination",
+      "difficulty": "A1+",
+      "arabic": "الحِكْمَةُ تُنِيرُ قَلْبَ الإِنْسَانِ وَعَقْلَهُ دَائِمًا.",
+      "german": "Die Weisheit erhellt das Herz und den Geist des Menschen immer.",
+      "english": "Wisdom always illuminates the heart and mind of human beings.",
+      "tokens": [
+        {
+          "word": "Die Weisheit",
+          "pos": "noun",
+          "ar": "الحِكْمَةُ"
+        },
+        {
+          "word": "erhellt",
+          "pos": "verb",
+          "ar": "تُنِيرُ"
+        },
+        {
+          "word": "das Herz und den Geist",
+          "pos": "compound_noun_phrase",
+          "ar": "قَلْبَ وَعَقْلَ"
+        },
+        {
+          "word": "des Menschen",
+          "pos": "genitive_noun",
+          "ar": "الإِنْسَانِ (مضاف إليه)"
+        },
+        {
+          "word": "immer",
+          "pos": "adverb",
+          "ar": "دَائِمًا"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Feminin Nominativ",
+        "Akkusativobjekt Neutrum und Maskulin",
+        "Genitivattribut Maskulin 'des Menschen'"
+      ]
+    },
+    {
+      "id": "sent_462",
+      "category": "cosmic_light",
+      "difficulty": "A1+",
+      "arabic": "الكَوْنُ يَمْتَلِئُ بِالنُّورِ وَالجَمَالِ اللَّامَحْدُودِ.",
+      "german": "Das Universum erfüllt sich mit Licht und grenzenloser Schönheit.",
+      "english": "The universe fills with light and boundless beauty.",
+      "tokens": [
+        {
+          "word": "Das Universum",
+          "pos": "noun",
+          "ar": "الكَوْنُ"
+        },
+        {
+          "word": "erfüllt sich",
+          "pos": "reflexive_verb",
+          "ar": "يَمْتَلِئُ"
+        },
+        {
+          "word": "mit Licht und grenzenloser Schönheit",
+          "pos": "preposition_phrase",
+          "ar": "بِالنُّورِ وَالجَمَالِ اللَّامَحْدُودِ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Neutrum Nominativ",
+        "Reflexives Verb 'sich erfüllen'",
+        "Präposition 'mit' + Dativ Feminin mit Adjektivdeklination 'grenzenloser Schönheit'"
+      ]
+    },
+    {
+      "id": "sent_463",
+      "category": "hundred_categories_milestone",
+      "difficulty": "A1+",
+      "arabic": "نَحْنُ نَحْتَفِلُ بِمِئَةِ قِسْمٍ مِنَ العِلْمِ وَالمَعْرِفَةِ.",
+      "german": "Wir feiern hundert Kategorien des Wissens und der Erkenntnis.",
+      "english": "We celebrate one hundred categories of knowledge and insight.",
+      "tokens": [
+        {
+          "word": "Wir",
+          "pos": "pronoun",
+          "ar": "نَحْنُ"
+        },
+        {
+          "word": "feiern",
+          "pos": "verb",
+          "ar": "نَحْتَفِلُ بِـ"
+        },
+        {
+          "word": "hundert Kategorien",
+          "pos": "noun_phrase",
+          "ar": "مِئَةَ قِسْمٍ"
+        },
+        {
+          "word": "des Wissens und der Erkenntnis",
+          "pos": "genitive_phrase",
+          "ar": "مِنَ العِلْمِ وَالمَعْرِفَةِ"
+        }
+      ],
+      "grammar_points": [
+        "Akkusativ Plural 'hundert Kategorien'",
+        "Parallele Genitivattribute Neutrum und Feminin 'des Wissens und der Erkenntnis'"
+      ]
+    },
+    {
+      "id": "sent_464",
+      "category": "three_languages_gates",
+      "difficulty": "A1+",
+      "arabic": "اللُّغَاتُ الثَّلَاثُ تَفْتَحُ أَبْوَابَ العَالَمِ كُلِّهِ.",
+      "german": "Die drei Sprachen öffnen die Tore der ganzen Welt.",
+      "english": "The three languages open the gates of the whole world.",
+      "tokens": [
+        {
+          "word": "Die drei Sprachen",
+          "pos": "noun_phrase",
+          "ar": "اللُّغَاتُ الثَّلَاثُ"
+        },
+        {
+          "word": "öffnen",
+          "pos": "verb",
+          "ar": "تَفْتَحُ"
+        },
+        {
+          "word": "die Tore",
+          "pos": "noun",
+          "ar": "أَبْوَابَ"
+        },
+        {
+          "word": "der ganzen Welt",
+          "pos": "genitive_noun",
+          "ar": "العَالَمِ كُلِّهِ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Plural 'die drei Sprachen'",
+        "Akkusativ Plural Neutrum 'die Tore'",
+        "Genitivattribut Feminin mit Adjektivdeklination 'der ganzen Welt'"
+      ]
+    },
+    {
+      "id": "sent_465",
+      "category": "future_civilization_pride",
+      "difficulty": "A1+",
+      "arabic": "الإِتْقَانُ الدَّائِمُ يَبْنِي حَضَارَةَ المُسْتَقْبَلِ بِفَخْرٍ.",
+      "german": "Die dauerhafte Meisterschaft baut die Zivilisation der Zukunft mit Stolz.",
+      "english": "Enduring mastery builds the civilization of the future with pride.",
+      "tokens": [
+        {
+          "word": "Die dauerhafte Meisterschaft",
+          "pos": "noun_phrase",
+          "ar": "الإِتْقَانُ الدَّائِمُ"
+        },
+        {
+          "word": "baut",
+          "pos": "verb",
+          "ar": "يَبْنِي"
+        },
+        {
+          "word": "die Zivilisation",
+          "pos": "noun",
+          "ar": "حَضَارَةَ"
+        },
+        {
+          "word": "der Zukunft",
+          "pos": "genitive_noun",
+          "ar": "المُسْتَقْبَلِ"
+        },
+        {
+          "word": "mit Stolz",
+          "pos": "preposition_phrase",
+          "ar": "بِفَخْرٍ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Feminin Nominativ mit Adjektiv",
+        "Akkusativ Feminin 'die Zivilisation'",
+        "Genitivattribut Feminin 'der Zukunft'"
+      ]
     }
   ]
 }

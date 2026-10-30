@@ -1,0 +1,336 @@
+{
+  "category_id": "cosmic_pansophy_c2",
+  "category_title": {
+    "ar": "الحكمة الكونية الكلية والوعي المعجمي الأبدي اللانهائي",
+    "de": "Kosmische Pansophie, universales Bewusstsein und der unendliche Kanon",
+    "en": "Cosmic Pansophy, Universal Consciousness & The Infinite Lexicon"
+  },
+  "level": "C2",
+  "items": [
+    {
+      "id": "concept_pansophie",
+      "german": "die Pansophie",
+      "plural": "die Pansophien",
+      "arabic": "البَانْسُوفْيَا (الحِكْمَةُ الكُلِّيَّةُ الشَّامِلَةُ لِكُلِّ المَعَارِفِ - كُومِينْيُوس)",
+      "english": "pansophy (all-encompassing universal wisdom / Comenius)",
+      "example_sentence": {
+        "de": "Johann Amos Comenius entwarf mit der Pansophie ein integrales Lehrgebäude, das alles Wissen harmonisch vereint.",
+        "ar": "صَمَّمَ يُوهَان آمُوس كُومِينْيُوس عَبْرَ 'البَانْسُوفْيَا' بِنَاءً مَعْرِفِيًّا شَامِلًا يَصْهَرُ كُلَّ العُلُومِ فِي وَحْدَةٍ مُتَنَاغِمَةٍ.",
+        "en": "Johann Amos Comenius formulated pansophy as an integral epistemological edifice harmonizing all knowledge."
+      },
+      "image": "assets/svg/concept_pansophie.svg"
+    },
+    {
+      "id": "concept_kosmotheandrisch",
+      "german": "das Kosmotheandrische Prinzip",
+      "plural": "-",
+      "arabic": "المَبْدَأُ الكُوزْمُوثِيَانْدْرُوسِيُّ (الوِحْدَةُ الثُّلَاثِيَّةُ: الكَوْنُ وَالإِلَهُ وَالإِنْسَانُ)",
+      "english": "cosmotheandric principle (Raimon Panikkar / integral reality)",
+      "example_sentence": {
+        "de": "Raimon Panikkars kosmotheandrische Intuition begreift das Göttliche, das Menschliche und das Kosmische als unauflösliche Einheit.",
+        "ar": "تَفْهَمُ بَصِيرَةُ رَايْمُون بَانِيكَار الكُوزْمُوثِيَانْدْرُوسِيَّةُ الإِلَهِيَّ وَالإِنْسَانِيَّ وَالكَوْنِيَّ كَكُلٍّ وَاحِدٍ لَا يَقْبَلُ التَّجْزِئَةَ.",
+        "en": "Raimon Panikkar's cosmotheandric insight conceives the divine, the human, and the cosmic as an indivisible whole."
+      },
+      "image": "assets/svg/concept_kosmotheandrisch.svg"
+    },
+    {
+      "id": "concept_holographisches_universum",
+      "german": "das Holographische Universum",
+      "plural": "-",
+      "arabic": "الكَوْنُ الهُولُوغْرَافِيُّ (الجُزْءُ يَعْكِسُ الكُلَّ - دِيفِيد بُوم)",
+      "english": "holographic universe (David Bohm)",
+      "example_sentence": {
+        "de": "Im holographischen Universum ist die gesamte Information des Kosmos in jedem einzelnen seiner Teile verschlüsselt.",
+        "ar": "تَقْبَعُ مَعْلُومَاتُ الكَوْنِ بِأَكْمَلِهِ مُشَفَّرَةً فِي كُلِّ جُزْءٍ مِنْ أَجْزَائِهِ فِي نَمُوذَجِ الكَوْنِ الهُولُوغْرَافِيِّ.",
+        "en": "In the holographic universe paradigm, the total information of the cosmos is enfolded within every single part."
+      },
+      "image": "assets/svg/concept_holographisches_universum.svg"
+    },
+    {
+      "id": "concept_implikate_ordnung",
+      "german": "die Implikate Ordnung",
+      "plural": "-",
+      "arabic": "النِّظَامُ المُنْطَوِي الكَامِنُ فِي نَسِيجِ الوَاقِعِ (دِيفِيد بُوم)",
+      "english": "implicate order (enfolded underlying reality)",
+      "example_sentence": {
+        "de": "David Bohm unterschied die beobachtbare explikate Ordnung von der tieferen, ungeteilten implikaten Ordnung.",
+        "ar": "فَرَّقَ دِيفِيد بُوم بَيْنَ النِّظَامِ المَبْسُوطِ المَشْهُودِ وَالنِّظَامِ المُنْطَوِي العَمِيقِ غَيْرِ المُنْقَسِمِ لِلْوُجُودِ.",
+        "en": "David Bohm distinguished the observable explicate order from the deeper, undivided implicate order."
+      },
+      "image": "assets/svg/concept_implikate_ordnung.svg"
+    },
+    {
+      "id": "concept_noosphaere_kulmination",
+      "german": "die Noosphäre-Kulmination",
+      "plural": "-",
+      "arabic": "ذِرْوَةُ تَكَامُلِ مَجَالِ العَقْلِ الكَوْنِيِّ (نُقْطَةُ أُومِيغَا)",
+      "english": "Omega Point / noospheric culmination (Teilhard de Chardin)",
+      "example_sentence": {
+        "de": "Pierre Teilhard de Chardin sah im Punkt Omega das finale Ziel der Evolution: die vollkommene Konvergenz allen Geistes.",
+        "ar": "رَأَى بْيِير تِيلَار دُو شَارْدَان فِي 'نُقْطَةِ أُومِيغَا' الغَايَةَ القُصْوَى لِلتَّطَوُّرِ: الِالْتِقَاءَ التَّامَّ لِكُلِّ فِكْرٍ وَوَعْيٍ.",
+        "en": "Pierre Teilhard de Chardin envisioned the Omega Point as evolution's apex: the ultimate convergence of mind."
+      },
+      "image": "assets/svg/concept_noosphaere_kulmination.svg"
+    },
+    {
+      "id": "concept_kosmische_konvergenz",
+      "german": "die Kosmische Konvergenz",
+      "plural": "-",
+      "arabic": "التَّقَارُبُ وَالِالْتِقَاءُ الكَوْنِيُّ الشَّامِلُ",
+      "english": "cosmic convergence",
+      "example_sentence": {
+        "de": "Die kosmische Konvergenz beschreibt das schrittweise Zusammenfließen von Materie, Leben und Geist in eine höhere Einheit.",
+        "ar": "يَصِفُ التَّقَارُبُ الكَوْنِيُّ التَّدَفُّقَ التَّدْرِيجِيَّ لِلْمَادَّةِ وَالحَيَاةِ وَالوَعْيِ لِيَتَّحِدُوا فِي كِيَانٍ أَعْلَى.",
+        "en": "Cosmic convergence describes the progressive synthesis of matter, life, and mind into a transcendent unity."
+      },
+      "image": "assets/svg/concept_kosmische_konvergenz.svg"
+    },
+    {
+      "id": "concept_unendliches_semiotisches_kontinuum",
+      "german": "das Unendliche Semiotische Kontinuum",
+      "plural": "-",
+      "arabic": "المُتَّصَلُ السِّيمْيَائِيُّ اللَّانِهَائِيُّ لِلْمَعْنَى",
+      "english": "infinite semiotic continuum",
+      "example_sentence": {
+        "de": "Charles Sanders Peirce fasste das Universum als ein unendliches semiotisches Kontinuum fortlaufender Zeichenprozesse auf.",
+        "ar": "اعْتَبَرَ تْشَارْلْز سَانْدِرْز بِيرْس الكَوْنَ مُتَّصَلًا سِيمْيَائِيًّا لَا نِهَائِيًّا مِنْ عَمَلِيَّاتِ تَوَلُّدِ العَلَامَاتِ الدَّائِمَةِ.",
+        "en": "Charles Sanders Peirce conceived the universe as an infinite semiotic continuum of ceaseless semiosis."
+      },
+      "image": "assets/svg/concept_unendliches_semiotisches_kontinuum.svg"
+    },
+    {
+      "id": "concept_universale_synthese",
+      "german": "die Universale Synthese",
+      "plural": "die Universalen Synthesen",
+      "arabic": "التَّأْلِيفُ وَالتَّوْلِيفُ الكَوْنِيُّ الشَّامِلُ",
+      "english": "universal synthesis",
+      "example_sentence": {
+        "de": "Eine universale Synthese überbrückt die scheinbare Kluft zwischen Naturwissenschaften, Geisteswissenschaften und Poesie.",
+        "ar": "تَجْسُرُ التَّوْلِيفَةُ الكَوْنِيَّةُ الشَّامِلَةُ الهُوَّةَ الظَّاهِرَةَ بَيْنَ العُلُومِ الطَّبِيعِيَّةِ، وَالإِنْسَانِيَّاتِ، وَالشِّعْرِ.",
+        "en": "A universal synthesis bridges the apparent chasm between physical sciences, humanities, and poetry."
+      },
+      "image": "assets/svg/concept_universale_synthese.svg"
+    },
+    {
+      "id": "concept_anthroposphaerisches_gleichgewicht",
+      "german": "das Anthroposphärische Gleichgewicht",
+      "plural": "-",
+      "arabic": "التَّوَازُنُ الأَنْثْرُوبُوسْفِيرِيُّ مَعَ نِظَامِ الكَوْنِ",
+      "english": "anthroposphere-cosmos equilibrium",
+      "example_sentence": {
+        "de": "Das anthroposphärische Gleichgewicht fordert, dass menschliche Zivilisationsaktivitäten die kosmischen Zyklen respektieren.",
+        "ar": "يَقْتَضِي التَّوَازُنُ الأَنْثْرُوبُوسْفِيرِيُّ احْتِرَامَ أَنْشِطَةِ الحَضَارَةِ البَشَرِيَّةِ لِلدَّوْرَاتِ الكَوْنِيَّةِ الكُبْرَى.",
+        "en": "The anthropospheric equilibrium demands that human civilizational activities respect wider cosmic cycles."
+      },
+      "image": "assets/svg/concept_anthroposphaerisches_gleichgewicht.svg"
+    },
+    {
+      "id": "concept_kosmo_ontologie",
+      "german": "die Kosmo-Ontologie",
+      "plural": "-",
+      "arabic": "الوُجُودِيَّةُ الكَوْنِيَّةُ الكُلِّيَّةُ (الكُوزْمُو-أُونْتُولُوجِيَا)",
+      "english": "cosmo-ontology",
+      "example_sentence": {
+        "de": "Die Kosmo-Ontologie erforscht die Seinsstrukturen des Weltalls jenseits enger anthropozentrischer Kategorien.",
+        "ar": "تَبْحَثُ الوُجُودِيَّةُ الكَوْنِيَّةُ فِي بِنْيَةِ الوُجُودِ الأَسْمَى لِلْكَوْنِ بِمَعْزِلٍ عَنِ المَقُولَاتِ الضَّيِّقَةِ المُمَحْوَرَةِ حَوْلَ الإِنْسَانِ.",
+        "en": "Cosmo-ontology investigates the fundamental ontological architectures of the cosmos beyond anthropocentric categories."
+      },
+      "image": "assets/svg/concept_kosmo_ontologie.svg"
+    },
+    {
+      "id": "concept_hyperdimensionale_realitaet",
+      "german": "die Hyperdimensionale Realität",
+      "plural": "-",
+      "arabic": "الوَاقِعُ مُتَعَدِّدُ الأَبْعَادِ الفَائِقُ",
+      "english": "hyperdimensional reality",
+      "example_sentence": {
+        "de": "In der Stringtheorie entfaltet sich die hyperdimensionale Realität über elf mathematisch exakte Raumzeit-Dimensionen.",
+        "ar": "تَتَجَلَّى فِي نَظَرِيَّةِ الأَوْتَارِ الوَاقِعِيَّةُ الفَائِقَةُ مُتَعَدِّدَةُ الأَبْعَادِ عَبْرَ إِحْدَى عَشْرَةَ بَعْدًا زَمَكَانِيًّا رِيَاضِيًّا.",
+        "en": "In string theory, hyperdimensional reality unfurls across eleven mathematically rigorous spacetime dimensions."
+      },
+      "image": "assets/svg/concept_hyperdimensionale_realitaet.svg"
+    },
+    {
+      "id": "concept_transzendentale_einheit",
+      "german": "das Transzendentale Einheitsbewusstsein",
+      "plural": "-",
+      "arabic": "وَعْيُ الوِحْدَةِ المُتَعَالِي الكُلِّيُّ",
+      "english": "transcendental unity consciousness",
+      "example_sentence": {
+        "de": "Das transzendentale Einheitsbewusstsein erfährt die unauflösliche Verbundenheit aller Wesen als fundamentale Wahrheit.",
+        "ar": "يُعَايِشُ وَعْيُ الوِحْدَةِ المُتَعَالِي التَّرَابُطَ الَّذِي لَا يَنْفَصِمُ لِجَمِيعِ المَوْجُودَاتِ كَحَقِيقَةٍ أَزَلِيَّةٍ.",
+        "en": "Transcendental unity consciousness perceives the indissoluble interconnectedness of all beings as foundational truth."
+      },
+      "image": "assets/svg/concept_transzendentale_einheit.svg"
+    },
+    {
+      "id": "concept_kosmischer_humanismus",
+      "german": "der Kosmische Humanismus",
+      "plural": "-",
+      "arabic": "الإِنْسَانِيَّةُ الكَوْنِيَّةُ الشَّامِلَةُ",
+      "english": "cosmic humanism",
+      "example_sentence": {
+        "de": "Der kosmische Humanismus erweitert die Solidarität der Menschheit auf alle fühlenden Wesen im gesamten Universum.",
+        "ar": "يُوَسِّعُ مَذْهَبُ الإِنْسَانِيَّةِ الكَوْنِيَّةِ نِطَاقَ التَّضَامُنِ الإِنْسَانِيِّ لِيَشْمَلَ كُلَّ كَائِنٍ حَيٍّ فِي أَرْجَاءِ الكَوْنِ.",
+        "en": "Cosmic humanism broadens human solidarity to encompass all sentient life throughout the cosmos."
+      },
+      "image": "assets/svg/concept_kosmischer_humanismus.svg"
+    },
+    {
+      "id": "concept_ewigkeitsdimension",
+      "german": "die Ewigkeitsdimension (sub specie aeternitatis)",
+      "plural": "-",
+      "arabic": "البُعْدُ الأَزَلِيُّ اللَّانِهَائِيُّ (مِنْ مَنْظُورِ الخُلُودِ - سْبِينُوزَا)",
+      "english": "dimension of eternity (sub specie aeternitatis / Spinoza)",
+      "example_sentence": {
+        "de": "Spinoza lehrte, die Dinge 'unter dem Gesichtspunkt der Ewigkeit' zu betrachten, um wahre Geistesruhe zu erlangen.",
+        "ar": "عَلَّمَ سْبِينُوزَا النَّظَرَ إِلَى الأَشْيَاءِ 'مِنْ مَنْظُورِ الأَزَلِيَّةِ' لِبُلُوغِ سَكِينَةِ العَقْلِ المُطْلَقَةِ.",
+        "en": "Spinoza instructed beholding reality 'sub specie aeternitatis' to attain unshakeable peace of mind."
+      },
+      "image": "assets/svg/concept_ewigkeitsdimension.svg"
+    },
+    {
+      "id": "concept_pluriversum",
+      "german": "das Pluriversum",
+      "plural": "die Pluriversen",
+      "arabic": "البْلُورِيفِرْس (عَالَمُ العَوَالِمِ المُتَعَدِّدَةِ المَفْتُوحَةِ)",
+      "english": "pluriverse (a world wherein many worlds co-exist)",
+      "example_sentence": {
+        "de": "Im Pluriversum koexistieren vielfältige Kosmologien gleichberechtigt, ohne sich einer einzigen Hegemonie unterwerfen zu müssen.",
+        "ar": "تَتَعَايَشُ فِي 'البْلُورِيفِرْس' رُؤًى كَوْنِيَّةٌ مُتَعَدِّدَةٌ بِقَدَمِ المُسَاوَاةِ دُونَ الخُضُوعِ لِهَيْمَنَةِ نَمُوذَجٍ أُحَادِيٍّ.",
+        "en": "Within the pluriverse, diverse cosmologies co-exist on equal footing without submitting to any singular hegemony."
+      },
+      "image": "assets/svg/concept_pluriversum.svg"
+    },
+    {
+      "id": "concept_bio_kosmische_symmetrie",
+      "german": "die Bio-Kosmische Symmetrie",
+      "plural": "-",
+      "arabic": "التَّنَاظُرُ الحَيَوِيُّ الكَوْنِيُّ",
+      "english": "bio-cosmic symmetry",
+      "example_sentence": {
+        "de": "Die spiralige Anordnung von Galaxien spiegelt sich in der bio-kosmischen Symmetrie der menschlichen DNA-Doppelhelix wider.",
+        "ar": "يَنْعَكِسُ الشَّكْلُ الحَلَزُونِيُّ لِلْمَجَرَّاتِ فِي التَّنَاظُرِ الحَيَوِيِّ الكَوْنِيِّ لِلَّوْلَبِ المُزْدَوَجِ لِلْحَمْضِ النَّوَوِيِّ.",
+        "en": "The spiral morphology of galaxies is mirrored in the bio-cosmic symmetry of the human DNA double helix."
+      },
+      "image": "assets/svg/concept_bio_kosmische_symmetrie.svg"
+    },
+    {
+      "id": "concept_archetypischer_urgrund",
+      "german": "der Archetypische Urgrund",
+      "plural": "-",
+      "arabic": "الأَصْلُ البَدْئِيُّ المُطْلَقُ (الأُورْغْرُونْد)",
+      "english": "archetypal primordial ground",
+      "example_sentence": {
+        "de": "Jakob Böhme und C.G. Jung verorteten die schöpferische Kraft im unergründlichen archetypischen Urgrund des Seins.",
+        "ar": "وَضَعَ يَاكُوب بُومَه وَكَارْل يُونْغ القُوَّةَ الخَلَّاقَةَ فِي الأَصْلِ البَدْئِيِّ الأَزَلِيِّ الَّذِي لَا يُسْبَرُ غَوْرُهُ لِلْوُجُودِ.",
+        "en": "Jakob Böhme and C.G. Jung situated creative potency in the unfathomable archetypal ground of being."
+      },
+      "image": "assets/svg/concept_archetypischer_urgrund.svg"
+    },
+    {
+      "id": "concept_harmonie_der_sphaeren",
+      "german": "die Harmonie der Sphären (Musica Universalis)",
+      "plural": "-",
+      "arabic": "تَنَاغُمُ الأَفْلَاكِ وَالمُوسِيقَى الكَوْنِيَّةُ (فِيثَاغُورُوس)",
+      "english": "harmony of the spheres (musica universalis / Pythagoras)",
+      "example_sentence": {
+        "de": "Pythagoras lehrte, dass die Planetenbewegungen nach harmonischen mathematischen Intervallen eine lautlose kosmische Musik erzeugen.",
+        "ar": "عَلَّمَ فِيثَاغُورُوس أَنَّ حَرَكَاتِ الكَوَاكِبِ وَفْقَ نِسَبٍ رِيَاضِيَّةٍ هَنْدَسِيَّةٍ تُوَلِّدُ مُوسِيقَى كَوْنِيَّةً خَفِيَّةً عَالِيَةَ التَّنَاغُمِ.",
+        "en": "Pythagoras taught that planetary motions governed by mathematical proportions generate a sublime inaudible celestial music."
+      },
+      "image": "assets/svg/concept_harmonie_der_sphaeren.svg"
+    },
+    {
+      "id": "concept_kosmo_ethisches_manifest",
+      "german": "das Kosmo-Ethische Manifest",
+      "plural": "die Kosmo-Ethischen Manifeste",
+      "arabic": "المَانِيفَسْتُ الأَخْلَاقِيُّ الكَوْنِيُّ لِلْبَشَرِيَّةِ",
+      "english": "cosmo-ethical manifesto",
+      "example_sentence": {
+        "de": "Das Kosmo-Ethische Manifest formuliert universale Leitlinien für das friedliche Zusammenleben intelligenter Zivilisationen.",
+        "ar": "يَصُوغُ المَانِيفَسْتُ الأَخْلَاقِيُّ الكَوْنِيُّ مَبَادِئَ شَامِلَةً لِلتَّعَايُشِ السَّلْمِيِّ لِلْحَضَارَاتِ العَاقِلَةِ فِي الفَضَاءِ.",
+        "en": "The Cosmo-Ethical Manifesto articulates universal principles for the peaceful co-existence of intelligent civilizations."
+      },
+      "image": "assets/svg/concept_kosmo_ethisches_manifest.svg"
+    },
+    {
+      "id": "concept_telos_finalitaet",
+      "german": "die Telos-Finalität",
+      "plural": "-",
+      "arabic": "الغَائِيَّةُ التَّطَوُّرِيَّةُ الكَوْنِيَّةُ الكُبْرَى (التِّيلُوس)",
+      "english": "universal evolutionary telos",
+      "example_sentence": {
+        "de": "Die teleologische Kosmologie fragt nach dem immanenten Sinn und der Ausrichtung der kosmischen Evolution.",
+        "ar": "تَتَسَاءَلُ الكُوزْمُولُوجْيَا الغَائِيَّةُ عَنِ المَعْنَى الجَوْهَرِيِّ وَالمَسَارِ الهَادِفِ لِلتَّطَوُّرِ الكَوْنِيِّ العَظِيمِ.",
+        "en": "Teleological cosmology investigates the immanent purpose and trajectory of cosmic evolution."
+      },
+      "image": "assets/svg/concept_telos_finalitaet.svg"
+    },
+    {
+      "id": "concept_all_umfassendes_bewusstsein",
+      "german": "das All-Umfassende Bewusstsein",
+      "plural": "-",
+      "arabic": "الوَعْيُ الكُلِّيُّ المُحِيطُ بِكُلِّ شَيْءٍ",
+      "english": "all-encompassing consciousness",
+      "example_sentence": {
+        "de": "Mystiker aller Traditionen bezeugen die unaussprechliche Erfahrung eines all-umfassenden kosmischen Bewusstseins.",
+        "ar": "يَشْهَدُ عُرَفَاءُ كُلِّ التَّقَالِيدِ الرُّوحِيَّةِ عَلَى الخِبْرَةِ الَّتِي لَا تُوصَفُ لِوَعْيٍ كَوْنِيٍّ شَامِلٍ يُحِيطُ بِالوُجُودِ.",
+        "en": "Mystics of all traditions testify to the ineffable direct experience of an all-encompassing cosmic consciousness."
+      },
+      "image": "assets/svg/concept_all_umfassendes_bewusstsein.svg"
+    },
+    {
+      "id": "concept_quantenverschraenkung_des_geistes",
+      "german": "die Quantenverschränkung des Geistes",
+      "plural": "-",
+      "arabic": "التَّشَابُكُ الكَمُّومِيُّ لِلْوَعْيِ وَالوُجُودِ",
+      "english": "quantum entanglement of consciousness",
+      "example_sentence": {
+        "de": "Die Quantenphysik legt nahe, dass fundamentale Verschränkung physische und geistige Phänomene untrennbar verbindet.",
+        "ar": "تُرَجِّحُ فِيزْيَاءُ الكَمِّ أَنَّ التَّشَابُكَ الكَمُّومِيَّ الجَوْهَرِيَّ يَرْبِطُ الظَّوَاهِرَ الفِيزْيَائِيَّةَ وَالذِّهْنِيَّةَ بِرِبَاطٍ لَا يَنْفَصِمُ.",
+        "en": "Quantum physics suggests that fundamental entanglement indissolubly weaves physical and mental phenomena together."
+      },
+      "image": "assets/svg/concept_quantenverschraenkung_des_geistes.svg"
+    },
+    {
+      "id": "concept_trans_planetare_souveraenitaet",
+      "german": "die Trans-Planetare Souveränität",
+      "plural": "-",
+      "arabic": "السِّيَادَةُ الكَوْكَبِيَّةُ العَابِرَةُ لِلْعَوَالِمِ",
+      "english": "trans-planetary sovereignty",
+      "example_sentence": {
+        "de": "Mit der Besiedlung des Sonnensystems wandelt sich nationalstaatliche Macht in trans-planetare Souveränität um.",
+        "ar": "تَتَحَوَّلُ سُلْطَةُ الدُّوَلِ الوَطَنِيَّةِ مَعَ اسْتِيطَانِ المَجْمُوعَةِ الشَّمْسِيَّةِ إِلَى سِيَادَةٍ كَوْكَبِيَّةٍ عَابِرَةٍ لِلْعَوَالِمِ.",
+        "en": "With the settlement of the solar system, nation-state authority transforms into trans-planetary sovereignty."
+      },
+      "image": "assets/svg/concept_trans_planetare_souveraenitaet.svg"
+    },
+    {
+      "id": "concept_ewiges_werden",
+      "german": "das Ewige Werden",
+      "plural": "-",
+      "arabic": "الصَّيْرُورَةُ الأَبَدِيَّةُ وَالتَّجَدُّدُ الدَّائِمُ",
+      "english": "eternal becoming (Heraclitean panta rhei)",
+      "example_sentence": {
+        "de": "Heraklits 'Panta Rhei' erinnert uns daran, dass Stillstand eine Illusion ist und das ewige Werden regiert.",
+        "ar": "تُذَكِّرُنَا حِكْمَةُ هِيرَاقْلِيطُوس 'كُلُّ شَيْءٍ يَجْرِي' بِأَنَّ السُّكُونَ وَهْمٌ، وَأَنَّ الصَّيْرُورَةَ الأَبَدِيَّةَ هِيَ حَاكِمَةُ الكَوْنِ.",
+        "en": "Heraclitus' 'Panta Rhei' reminds us that stagnation is an illusion and eternal becoming governs all reality."
+      },
+      "image": "assets/svg/concept_ewiges_werden.svg"
+    },
+    {
+      "id": "concept_vollendeter_kanon",
+      "german": "der Vollendete Kosmische Kanon",
+      "plural": "-",
+      "arabic": "القَانُونُ المَعْجَمِيُّ الكَوْنِيُّ التَّتْوِيجِيُّ الكَامِلُ (مِئَةُ قِسْمٍ)",
+      "english": "the consummate cosmic canon (the 100 categories milestone)",
+      "example_sentence": {
+        "de": "Mit dem Erreichen von hundert Kategorien vollendet der Kanon ein beispielloses Meisterwerk dreisprachiger Bildung.",
+        "ar": "بِبُلُوغِ مِئَةِ قِسْمٍ، يُتَوِّجُ القَانُونُ المَعْجَمِيُّ صَرْحًا لَا نَظِيرَ لَهُ لِلتَّعْلِيمِ اللُّغَوِيِّ الثُّلَاثِيِّ الرَّصِينِ.",
+        "en": "Attaining one hundred categories crowns the canon as an unprecedented masterpiece of trilingual mastery."
+      },
+      "image": "assets/svg/concept_vollendeter_kanon.svg"
+    }
+  ]
+}
