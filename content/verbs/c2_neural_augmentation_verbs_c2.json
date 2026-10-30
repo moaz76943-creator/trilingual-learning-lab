@@ -1,0 +1,562 @@
+[
+  {
+    "id": "verb_c2_neuroaug_001",
+    "infinitive": "augmentieren",
+    "level": "C2",
+    "category": "Neural Augmentation",
+    "arabic": "يُعَزِّزُ / يُحَسِّنُ بِيُوتِقْنِيًّا",
+    "english": "to augment bio-technologically",
+    "conjugation": {
+      "praesens": {
+        "ich": "augmentiere",
+        "du": "augmentierst",
+        "er_sie_es": "augmentiert",
+        "wir": "augmentieren",
+        "ihr": "augmentiert",
+        "sie_Sie": "augmentieren"
+      },
+      "praeteritum": {
+        "ich": "augmentierte",
+        "er_sie_es": "augmentierte"
+      },
+      "perfekt": "hat augmentiert"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Bionische Neurochips augmentieren sensorische Wahrnehmungen über das natürliche Spektrum hinaus.",
+    "example_ar": "تُعَزِّزُ الرَّقَائِقُ العَصَبِيَّةُ البِيُونِيَّةُ الإِدْرَاكَ الحِسِّيَّ إِلَى مَا وَرَاءِ الطَّيْفِ الطَّبِيعِيِّ.",
+    "example_en": "Bionic neurochips augment sensory perception beyond the natural spectrum.",
+    "svg_icon": "content/assets/svg/verb_c2_neuroaug_001.svg"
+  },
+  {
+    "id": "verb_c2_neuroaug_002",
+    "infinitive": "implantieren",
+    "level": "C2",
+    "category": "Neural Augmentation",
+    "arabic": "يَزْرَعُ / يَغْرِسُ عَصَبِيًّا",
+    "english": "to implant neuro-prosthetically",
+    "conjugation": {
+      "praesens": {
+        "ich": "implantiere",
+        "du": "implantierst",
+        "er_sie_es": "implantiert",
+        "wir": "implantieren",
+        "ihr": "implantiert",
+        "sie_Sie": "implantieren"
+      },
+      "praeteritum": {
+        "ich": "implantierte",
+        "er_sie_es": "implantierte"
+      },
+      "perfekt": "hat implantiert"
+    },
+    "preposition": "in + Akk.",
+    "example_de": "Chirurgen implantieren flexible Elektrodenarrays direkt in den motorischen Kortex des Probanden.",
+    "example_ar": "يَزْرَعُ الجَرَّاحُونَ مَصْفُوفَاتِ أَقْطَابٍ مَرِنَةٍ مُبَاشَرَةً فِي القِشْرَةِ الحَرَكِيَّةِ لِلخَاضِعِ لِلتَّجْرِبَةِ.",
+    "example_en": "Surgeons implant flexible electrode arrays directly into the subject's motor cortex.",
+    "svg_icon": "content/assets/svg/verb_c2_neuroaug_002.svg"
+  },
+  {
+    "id": "verb_c2_neuroaug_003",
+    "infinitive": "rekalibrieren",
+    "level": "C2",
+    "category": "Neural Augmentation",
+    "arabic": "يُعِيدُ مُعَايَرَةَ الشَّبَكَةِ العَصَبِيَّةِ",
+    "english": "to recalibrate (neural weights)",
+    "conjugation": {
+      "praesens": {
+        "ich": "rekalibriere",
+        "du": "rekalibrierst",
+        "er_sie_es": "rekalibriert",
+        "wir": "rekalibrieren",
+        "ihr": "rekalibriert",
+        "sie_Sie": "rekalibrieren"
+      },
+      "praeteritum": {
+        "ich": "rekalibrierte",
+        "er_sie_es": "rekalibrierte"
+      },
+      "perfekt": "hat rekalibriert"
+    },
+    "preposition": "nach + Dat.",
+    "example_de": "Die adaptive Schnittstelle rekalibriert synaptische Gewichtungen nach jedem Lernzyklus automatisch.",
+    "example_ar": "تُعِيدُ الوَاجِهَةُ التَّكَيُّفِيَّةُ مُعَايَرَةَ الأَوْزَانِ المِشْبَكِيَّةِ تِلْقَائِيًّا بَعْدَ كُلِّ دَوْرَةِ تَعَلُّمٍ.",
+    "example_en": "The adaptive interface automatically recalibrates synaptic weights after each learning cycle.",
+    "svg_icon": "content/assets/svg/verb_c2_neuroaug_003.svg"
+  },
+  {
+    "id": "verb_c2_neuroaug_004",
+    "infinitive": "enkodieren",
+    "level": "C2",
+    "category": "Neural Augmentation",
+    "arabic": "يُشَفِّرُ عَصَبِيًّا",
+    "english": "to encode neurally",
+    "conjugation": {
+      "praesens": {
+        "ich": "enkodiere",
+        "du": "enkodierst",
+        "er_sie_es": "enkodiert",
+        "wir": "enkodieren",
+        "ihr": "enkodiert",
+        "sie_Sie": "enkodieren"
+      },
+      "praeteritum": {
+        "ich": "enkodierte",
+        "er_sie_es": "enkodierte"
+      },
+      "perfekt": "hat enkodiert"
+    },
+    "preposition": "in + Akk.",
+    "example_de": "Retinale Implantate enkodieren visuelle Bilddaten in präzise elektrische Aktionspotenziale.",
+    "example_ar": "تُشَفِّرُ الغَرْسَاتُ الشَّبَكِيَّةُ بَيَانَاتِ الصُّوَرِ البَصَرِيَّةِ إِلَى جُهُودِ فِعْلٍ كَهْرَبَائِيَّةٍ دَقِيقَةٍ.",
+    "example_en": "Retinal implants encode visual image data into precise electrical action potentials.",
+    "svg_icon": "content/assets/svg/verb_c2_neuroaug_004.svg"
+  },
+  {
+    "id": "verb_c2_neuroaug_005",
+    "infinitive": "stimulieren",
+    "level": "C2",
+    "category": "Neural Augmentation",
+    "arabic": "يُحَفِّزُ عَصَبِيًّا عَمِيقًا",
+    "english": "to stimulate (deep brain)",
+    "conjugation": {
+      "praesens": {
+        "ich": "stimuliere",
+        "du": "stimulierst",
+        "er_sie_es": "stimuliert",
+        "wir": "stimulieren",
+        "ihr": "stimuliert",
+        "sie_Sie": "stimulieren"
+      },
+      "praeteritum": {
+        "ich": "stimulierte",
+        "er_sie_es": "stimulierte"
+      },
+      "perfekt": "hat stimuliert"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Tiefenhirnelektroden stimulieren subkortikale Kerne zur Unterdrückung motorischer Störungen.",
+    "example_ar": "تُحَفِّزُ أَقْطَابُ الدِّمَاغِ العَمِيقِ النَّوَى تَحْتَ القِشْرِيَّةِ لِتَثْبِيطِ الِاضْطِرَابَاتِ الحَرَكِيَّةِ.",
+    "example_en": "Deep brain electrodes stimulate subcortical nuclei to suppress motor dysfunctions.",
+    "svg_icon": "content/assets/svg/verb_c2_neuroaug_005.svg"
+  },
+  {
+    "id": "verb_c2_neuroaug_006",
+    "infinitive": "modulieren",
+    "level": "C2",
+    "category": "Neural Augmentation",
+    "arabic": "يُعَدِّلُ الإِشَارَةَ العَصَبِيَّةَ",
+    "english": "to neuromodulate",
+    "conjugation": {
+      "praesens": {
+        "ich": "moduliere",
+        "du": "modulierst",
+        "er_sie_es": "moduliert",
+        "wir": "modulieren",
+        "ihr": "moduliert",
+        "sie_Sie": "modulieren"
+      },
+      "praeteritum": {
+        "ich": "modulierte",
+        "er_sie_es": "modulierte"
+      },
+      "perfekt": "hat moduliert"
+    },
+    "preposition": "über + Akk.",
+    "example_de": "Optogenetische Verfahren modulieren neuronale Aktivitätsmuster mit mikroskopischer Präzision.",
+    "example_ar": "تُعَدِّلُ الطَّرَائِقُ البَصَرِيَّةُ الوِرَاثِيَّةُ أَنْمَاطَ النَّشَاطِ العَصَبِيِّ بِدِقَّةٍ مِجْهَرِيَّةٍ.",
+    "example_en": "Optogenetic methods modulate neural activity patterns with microscopic precision.",
+    "svg_icon": "content/assets/svg/verb_c2_neuroaug_006.svg"
+  },
+  {
+    "id": "verb_c2_neuroaug_007",
+    "infinitive": "synthetisieren",
+    "level": "C2",
+    "category": "Neural Augmentation",
+    "arabic": "يُرَكِّبُ عَصَبِيًّا اصْطِنَاعِيًّا",
+    "english": "to synthesize (neurotransmitters/signals)",
+    "conjugation": {
+      "praesens": {
+        "ich": "synthetisiere",
+        "du": "synthetisierst",
+        "er_sie_es": "synthetisiert",
+        "wir": "synthetisieren",
+        "ihr": "synthetisiert",
+        "sie_Sie": "synthetisieren"
+      },
+      "praeteritum": {
+        "ich": "synthetisierte",
+        "er_sie_es": "synthetisierte"
+      },
+      "perfekt": "hat synthetisiert"
+    },
+    "preposition": "aus + Dat.",
+    "example_de": "Mikrofluidische Chips synthetisieren Neurotransmitter bedarfsgerecht aus integrierten Reservoirs.",
+    "example_ar": "تُرَكِّبُ رَقَائِقُ المَوَائِعِ المِجْهَرِيَّةِ النَّوَاقِلَ العَصَبِيَّةَ عِنْدَ الحَاجَةِ مِنْ مُسْتَوْدَعَاتٍ مُدْمَجَةٍ.",
+    "example_en": "Microfluidic chips synthesize neurotransmitters on demand from integrated reservoirs.",
+    "svg_icon": "content/assets/svg/verb_c2_neuroaug_007.svg"
+  },
+  {
+    "id": "verb_c2_neuroaug_008",
+    "infinitive": "prozessieren",
+    "level": "C2",
+    "category": "Neural Augmentation",
+    "arabic": "يُعَالِجُ الإِشَارَاتِ العَصَبِيَّةَ",
+    "english": "to process neural signals",
+    "conjugation": {
+      "praesens": {
+        "ich": "prozessiere",
+        "du": "prozessierst",
+        "er_sie_es": "prozessiert",
+        "wir": "prozessieren",
+        "ihr": "prozessiert",
+        "sie_Sie": "prozessieren"
+      },
+      "praeteritum": {
+        "ich": "prozessierte",
+        "er_sie_es": "prozessierte"
+      },
+      "perfekt": "hat prozessiert"
+    },
+    "preposition": "in + Dat.",
+    "example_de": "Neuromorphe Prozessoren prozessieren synaptische Datenströme in extremer Energieeffizienz.",
+    "example_ar": "تُعَالِجُ المُعَالِجَاتُ العَصَبِيَّةُ الشَّكْلِيَّةُ تَدَفُّقَاتِ البَيَانَاتِ المِشْبَكِيَّةِ بِكِفَايَةِ طَاقَةٍ قُصْوَى.",
+    "example_en": "Neuromorphic processors process synaptic data streams with extreme energy efficiency.",
+    "svg_icon": "content/assets/svg/verb_c2_neuroaug_008.svg"
+  },
+  {
+    "id": "verb_c2_neuroaug_009",
+    "infinitive": "vernetzen",
+    "level": "C2",
+    "category": "Neural Augmentation",
+    "arabic": "يَرْبِطُ شَبَكِيًّا بَيْنَ الدِّمَاغِ وَالآلَةِ",
+    "english": "to network / interface",
+    "conjugation": {
+      "praesens": {
+        "ich": "vernetze",
+        "du": "vernetzt",
+        "er_sie_es": "vernetzt",
+        "wir": "vernetzen",
+        "ihr": "vernetzt",
+        "sie_Sie": "vernetzen"
+      },
+      "praeteritum": {
+        "ich": "vernetzte",
+        "er_sie_es": "vernetzte"
+      },
+      "perfekt": "hat vernetzt"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Drahtlose Telemetriemodule vernetzen kortikale Neuronenverbände mit externen Exoskeletten.",
+    "example_ar": "تَرْبِطُ وَحَدَاتُ القِيَاسِ عَنْ بُعْدٍ اللَّاسِلْكِيَّةُ المَجْمُوعَاتِ العَصَبِيَّةَ القِشْرِيَّةَ مَعَ الهَيَاكِلِ الخَارِجِيَّةِ.",
+    "example_en": "Wireless telemetry modules network cortical neural ensembles with external exoskeletons.",
+    "svg_icon": "content/assets/svg/verb_c2_neuroaug_009.svg"
+  },
+  {
+    "id": "verb_c2_neuroaug_010",
+    "infinitive": "dekodieren",
+    "level": "C2",
+    "category": "Neural Augmentation",
+    "arabic": "يَفُكُّ التَّشْفِيرَ العَصَبِيَّ",
+    "english": "to decode neural intent",
+    "conjugation": {
+      "praesens": {
+        "ich": "dekodiere",
+        "du": "dekodierst",
+        "er_sie_es": "dekodiert",
+        "wir": "dekodieren",
+        "ihr": "dekodiert",
+        "sie_Sie": "dekodieren"
+      },
+      "praeteritum": {
+        "ich": "dekodierte",
+        "er_sie_es": "dekodierte"
+      },
+      "perfekt": "hat dekodiert"
+    },
+    "preposition": "aus + Dat.",
+    "example_de": "Moderne Mensch-Maschine-Schnittstellen dekodieren motorische Absichten unmittelbar aus kortikalen Potenzialen.",
+    "example_ar": "تَفُكُّ وَاجِهَاتُ الإِنْسَانِ وَالآلَةِ الحَدِيثَةُ النَّوَايَا الحَرَكِيَّةَ مُبَاشَرَةً مِنْ الجُهُودِ القِشْرِيَّةِ.",
+    "example_en": "Modern brain-machine interfaces decode motor intentions directly from cortical potentials.",
+    "svg_icon": "content/assets/svg/verb_c2_neuroaug_010.svg"
+  },
+  {
+    "id": "verb_c2_neuroaug_011",
+    "infinitive": "synchronisieren",
+    "level": "C2",
+    "category": "Neural Augmentation",
+    "arabic": "يُزَامِنُ الإِيقَاعَاتِ الدِّمَاغِيَّةَ",
+    "english": "to synchronize neural rhythms",
+    "conjugation": {
+      "praesens": {
+        "ich": "synchronisiere",
+        "du": "synchronisierst",
+        "er_sie_es": "synchronisiert",
+        "wir": "synchronisieren",
+        "ihr": "synchronisiert",
+        "sie_Sie": "synchronisieren"
+      },
+      "praeteritum": {
+        "ich": "synchronisierte",
+        "er_sie_es": "synchronisierte"
+      },
+      "perfekt": "hat synchronisiert"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Kraniale Stimulatoren synchronisieren oszillatorische Theta-Wellen zur Steigerung der Gedächtniskonsolidierung.",
+    "example_ar": "تُزَامِنُ المُحَفِّزَاتُ القِحْفِيَّةُ مَوْجَاتِ ثِيتَا التَّذَبْذُبِيَّةَ لِتَعْزِيزِ تَرْسِيخِ الذَّاكِرَةِ.",
+    "example_en": "Cranial stimulators synchronize oscillatory theta waves to enhance memory consolidation.",
+    "svg_icon": "content/assets/svg/verb_c2_neuroaug_011.svg"
+  },
+  {
+    "id": "verb_c2_neuroaug_012",
+    "infinitive": "amplifizieren",
+    "level": "C2",
+    "category": "Neural Augmentation",
+    "arabic": "يُضَخِّمُ الإِشَارَاتِ العَصَبِيَّةَ الضَّئِيلَةَ",
+    "english": "to amplify (micro-volt potentials)",
+    "conjugation": {
+      "praesens": {
+        "ich": "amplifiziere",
+        "du": "amplifizierst",
+        "er_sie_es": "amplifiziert",
+        "wir": "amplifizieren",
+        "ihr": "amplifiziert",
+        "sie_Sie": "amplifizieren"
+      },
+      "praeteritum": {
+        "ich": "amplifizierte",
+        "er_sie_es": "amplifizierte"
+      },
+      "perfekt": "hat amplifiziert"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Vorverstärker amplifizieren mikrovolt-kleine Spikes unmittelbar an der Elektrodenspitze.",
+    "example_ar": "تُضَخِّمُ المُضَخِّمَاتُ الأَوَّلِيَّةُ النَّبَضَاتِ العَصَبِيَّةَ الصَّغِيرَةَ بِمِقْدَارِ المِيكْرُوفُولْتِ مُبَاشَرَةً عِنْدَ طَرَفِ القُطْبِ.",
+    "example_en": "Preamplifiers amplify microvolt-scale spikes directly at the electrode tip.",
+    "svg_icon": "content/assets/svg/verb_c2_neuroaug_012.svg"
+  },
+  {
+    "id": "verb_c2_neuroaug_013",
+    "infinitive": "transzendieren",
+    "level": "C2",
+    "category": "Neural Augmentation",
+    "arabic": "يَتَجَاوَزُ المَحْدُودِيَّةَ البَيُولُوجِيَّةَ",
+    "english": "to transcend biological constraints",
+    "conjugation": {
+      "praesens": {
+        "ich": "transzendiere",
+        "du": "transzendierst",
+        "er_sie_es": "transzendiert",
+        "wir": "transzendieren",
+        "ihr": "transzendiert",
+        "sie_Sie": "transzendieren"
+      },
+      "praeteritum": {
+        "ich": "transzendierte",
+        "er_sie_es": "transzendierte"
+      },
+      "perfekt": "hat transzendiert"
+    },
+    "preposition": "über + Akk.",
+    "example_de": "Kybernetische Augmentationen transzendieren tradierte biologische Reaktionszeiten um Größenordnungen.",
+    "example_ar": "تَتَجَاوَزُ التَّعْزِيزَاتُ السِّيبِرْنِيقِيَّةُ أَزْمِنَةَ الِاسْتِجَابَةِ البَيُولُوجِيَّةِ المَوْرُوثَةِ بِمَرَاتِبَ عَدِيدَةٍ.",
+    "example_en": "Cybernetic augmentations transcend traditional biological reaction times by orders of magnitude.",
+    "svg_icon": "content/assets/svg/verb_c2_neuroaug_013.svg"
+  },
+  {
+    "id": "verb_c2_neuroaug_014",
+    "infinitive": "integrieren",
+    "level": "C2",
+    "category": "Neural Augmentation",
+    "arabic": "يَدْمِجُ الغَرْسَةَ عَصَبِيًّا",
+    "english": "to integrate biocompatibly",
+    "conjugation": {
+      "praesens": {
+        "ich": "integriere",
+        "du": "integrierst",
+        "er_sie_es": "integriert",
+        "wir": "integrieren",
+        "ihr": "integriert",
+        "sie_Sie": "integrieren"
+      },
+      "praeteritum": {
+        "ich": "integrierte",
+        "er_sie_es": "integrierte"
+      },
+      "perfekt": "hat integriert"
+    },
+    "preposition": "in + Akk.",
+    "example_de": "Biokompatible Hydrogele integrieren mikroelektronische Sensoren nahtlos in das Hirngewebe.",
+    "example_ar": "تَدْمِجُ الهَلَامَاتُ المَائِيَّةُ المُتَوَافِقَةُ حَيَوِيًّا المُسْتَشْعِرَاتِ الإِلِكْتَرُونِيَّةَ المِجْهَرِيَّةَ بِسَلَاسَةٍ فِي نَسِيجِ الدِّمَاغِ.",
+    "example_en": "Biocompatible hydrogels integrate microelectronic sensors seamlessly into brain tissue.",
+    "svg_icon": "content/assets/svg/verb_c2_neuroaug_014.svg"
+  },
+  {
+    "id": "verb_c2_neuroaug_015",
+    "infinitive": "optimieren",
+    "level": "C2",
+    "category": "Neural Augmentation",
+    "arabic": "يُحَسِّنُ الكَفَاءَةَ الإِدْرَاكِيَّةَ",
+    "english": "to optimize neuro-cognitively",
+    "conjugation": {
+      "praesens": {
+        "ich": "optimiere",
+        "du": "optimierst",
+        "er_sie_es": "optimiert",
+        "wir": "optimieren",
+        "ihr": "optimiert",
+        "sie_Sie": "optimieren"
+      },
+      "praeteritum": {
+        "ich": "optimierte",
+        "er_sie_es": "optimierte"
+      },
+      "perfekt": "hat optimiert"
+    },
+    "preposition": "für + Akk.",
+    "example_de": "Neurofeedback-Algorithmen optimieren kognitive Ressourcen für extrem anspruchsvolle Entscheidungsprozesse.",
+    "example_ar": "تُحَسِّنُ خُوَارِزْمِيَّاتُ التَّغْذِيَةِ العَصَبِيَّةِ الرَّاجِعَةِ المَوَارِدَ الإِدْرَاكِيَّةَ لِعَمَلِيَّاتِ اتِّخَاذِ القَرَارِ شَدِيدَةِ التَّعْقِيدِ.",
+    "example_en": "Neurofeedback algorithms optimize cognitive resources for highly demanding decision-making processes.",
+    "svg_icon": "content/assets/svg/verb_c2_neuroaug_015.svg"
+  },
+  {
+    "id": "verb_c2_neuroaug_016",
+    "infinitive": "adaptieren",
+    "level": "C2",
+    "category": "Neural Augmentation",
+    "arabic": "يَتَكَيَّفُ عَصَبِيًّا بِلَدَانَةٍ",
+    "english": "to adapt neuroplastically",
+    "conjugation": {
+      "praesens": {
+        "ich": "adaptiere",
+        "du": "adaptierst",
+        "er_sie_es": "adaptiert",
+        "wir": "adaptieren",
+        "ihr": "adaptiert",
+        "sie_Sie": "adaptieren"
+      },
+      "praeteritum": {
+        "ich": "adaptierte",
+        "er_sie_es": "adaptierte"
+      },
+      "perfekt": "hat adaptiert"
+    },
+    "preposition": "an + Akk.",
+    "example_de": "Neuronale Schaltkreise adaptieren sich dank Neuroplastizität rasch an bionische Prothesensteuerungen.",
+    "example_ar": "تَتَكَيَّفُ الدَّوَائِرُ العَصَبِيَّةُ بِفَضْلِ اللَّدَانَةِ العَصَبِيَّةِ سَرِيعًا مَعَ أَنْظِمَةِ التَّحَكُّمِ فِي الأَطْرَافِ البِيُونِيَّةِ.",
+    "example_en": "Neural circuits adapt rapidly to bionic prosthetic controls thanks to neuroplasticity.",
+    "svg_icon": "content/assets/svg/verb_c2_neuroaug_016.svg"
+  },
+  {
+    "id": "verb_c2_neuroaug_017",
+    "infinitive": "regenerieren",
+    "level": "C2",
+    "category": "Neural Augmentation",
+    "arabic": "يُجَدِّدُ الأَنْسِجَةَ العَصَبِيَّةَ",
+    "english": "to regenerate neural pathways",
+    "conjugation": {
+      "praesens": {
+        "ich": "regeneriere",
+        "du": "regenerierst",
+        "er_sie_es": "regeneriert",
+        "wir": "regenerieren",
+        "ihr": "regeneriert",
+        "sie_Sie": "regenerieren"
+      },
+      "praeteritum": {
+        "ich": "regenerierte",
+        "er_sie_es": "regenerierte"
+      },
+      "perfekt": "hat regeneriert"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Das geschädigte Nervengewebe regeneriert sich schrittweise durch gezielte Wachstumsfaktoren.",
+    "example_ar": "يَتَجَدَّدُ النَّسِيجُ العَصَبِيُّ المُتَضَرِّرُ تَدْرِيجِيًّا عَبْرَ عَوَامِلِ النُّمُوِّ المُوَجَّهَةِ.",
+    "example_en": "The damaged nerve tissue regenerates progressively through targeted growth factors.",
+    "svg_icon": "content/assets/svg/verb_c2_neuroaug_017.svg"
+  },
+  {
+    "id": "verb_c2_neuroaug_018",
+    "infinitive": "biohacken",
+    "level": "C2",
+    "category": "Neural Augmentation",
+    "arabic": "يُعَدِّلُ الحَيَوِيَّةَ بِيُوهَاكِينْغِيًّا",
+    "english": "to biohack self-directed",
+    "conjugation": {
+      "praesens": {
+        "ich": "biohacke",
+        "du": "biohackst",
+        "er_sie_es": "biohackt",
+        "wir": "biohacken",
+        "ihr": "biohackt",
+        "sie_Sie": "biohacken"
+      },
+      "praeteritum": {
+        "ich": "biohackte",
+        "er_sie_es": "biohackte"
+      },
+      "perfekt": "hat gebiohackt"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Transhumanisten biohacken ihren Metabolismus mit nootropischen Substanzen und Neuroimplantaten.",
+    "example_ar": "يُعَدِّلُ دُعَاةُ مَا بَعْدَ الإِنْسَانِيَّةِ أَيْضَهُمْ حَيَوِيًّا بِاسْتِخْدَامِ المَوَادِّ المُنَشِّطَةِ لِلذِّهْنِ وَالغَرْسَاتِ العَصَبِيَّةِ.",
+    "example_en": "Transhumanists biohack their metabolism using nootropic compounds and neural implants.",
+    "svg_icon": "content/assets/svg/verb_c2_neuroaug_018.svg"
+  },
+  {
+    "id": "verb_c2_neuroaug_019",
+    "infinitive": "manipulieren",
+    "level": "C2",
+    "category": "Neural Augmentation",
+    "arabic": "يُعَالِجُ وِرَاثِيًّا عَصَبِيًّا",
+    "english": "to manipulate neurogenetically",
+    "conjugation": {
+      "praesens": {
+        "ich": "manipuliere",
+        "du": "manipulierst",
+        "er_sie_es": "manipuliert",
+        "wir": "manipulieren",
+        "ihr": "manipuliert",
+        "sie_Sie": "manipulieren"
+      },
+      "praeteritum": {
+        "ich": "manipulierte",
+        "er_sie_es": "manipulierte"
+      },
+      "perfekt": "hat manipuliert"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Wissenschaftler manipulieren spezifische Ionenkanäle durch lichtaktivierbare Channelrhodopsine.",
+    "example_ar": "يُعَالِجُ العُلَمَاءُ قَنَوَاتِ أَيُونِيَّةً مُحَدَّدَةً عَبْرَ قَنَوَاتِ الرُّودُوبْسِين المُفَعَّلَةِ ضَوْئِيًّا.",
+    "example_en": "Scientists manipulate specific ion channels via light-activatable channelrhodopsins.",
+    "svg_icon": "content/assets/svg/verb_c2_neuroaug_019.svg"
+  },
+  {
+    "id": "verb_c2_neuroaug_020",
+    "infinitive": "emulieren",
+    "level": "C2",
+    "category": "Neural Augmentation",
+    "arabic": "يُحَاكِي الشَّبَكَةَ العَصَبِيَّةَ حَوْسَبِيًّا",
+    "english": "to emulate (whole brain)",
+    "conjugation": {
+      "praesens": {
+        "ich": "emuliere",
+        "du": "emulierst",
+        "er_sie_es": "emuliert",
+        "wir": "emulieren",
+        "ihr": "emuliert",
+        "sie_Sie": "emulieren"
+      },
+      "praeteritum": {
+        "ich": "emulierte",
+        "er_sie_es": "emulierte"
+      },
+      "perfekt": "hat emuliert"
+    },
+    "preposition": "auf + Dat.",
+    "example_de": "Supercomputer emulieren das vollständige Konnektom eines Modellorganismus auf Siliziumebene.",
+    "example_ar": "تُحَاكِي الحَوَاسِيبُ الفَائِقَةُ كَامِلَ شَبَكَةِ الِاتِّصَالَاتِ العَصَبِيَّةِ لِكَائِنٍ نَمُوذَجِيٍّ عَلَى مُسْتَوَى شَرَائِحِ السِّيلِيكُون.",
+    "example_en": "Supercomputers emulate the complete connectome of a model organism at the silicon level.",
+    "svg_icon": "content/assets/svg/verb_c2_neuroaug_020.svg"
+  }
+]
