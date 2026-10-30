@@ -1,0 +1,562 @@
+[
+  {
+    "id": "verb_c2_geodyn_001",
+    "infinitive": "metamorphosieren",
+    "level": "C2",
+    "category": "Geodynamic Transformation",
+    "arabic": "يَتَحَوَّلُ صَخْرِيًّا (بِالحَرَارَةِ وَالضَّغْطِ)",
+    "english": "to metamorphose (petrological)",
+    "conjugation": {
+      "praesens": {
+        "ich": "metamorphosiere",
+        "du": "metamorphosierst",
+        "er_sie_es": "metamorphosiert",
+        "wir": "metamorphosieren",
+        "ihr": "metamorphosiert",
+        "sie_Sie": "metamorphosieren"
+      },
+      "praeteritum": {
+        "ich": "metamorphosierte",
+        "er_sie_es": "metamorphosierte"
+      },
+      "perfekt": "ist metamorphosiert"
+    },
+    "preposition": "zu + Dat.",
+    "example_de": "Unter extremem lithostatischem Druck metamorphosieren tonige Sedimente zu kristallinem Gneis.",
+    "example_ar": "تَحْتَ الضَّغْطِ الصَّخْرِيِّ الهَائِلِ، تَتَحَوَّلُ الرَّوَاسِبُ الطِّينِيَّةُ إِلَى صَخْرِ النَّايْسِ البِلَّوْرِيِّ.",
+    "example_en": "Under extreme lithostatic pressure, argillaceous sediments metamorphose into crystalline gneiss.",
+    "svg_icon": "content/assets/svg/verb_c2_geodyn_001.svg"
+  },
+  {
+    "id": "verb_c2_geodyn_002",
+    "infinitive": "subduzieren",
+    "level": "C2",
+    "category": "Geodynamic Transformation",
+    "arabic": "يَنْدَسُّ تَكْتُونِيًّا (تَحْتَ صَفِيحَةٍ)",
+    "english": "to subduct (tectonic plates)",
+    "conjugation": {
+      "praesens": {
+        "ich": "subduziere",
+        "du": "subduzierst",
+        "er_sie_es": "subduziert",
+        "wir": "subduzieren",
+        "ihr": "subduziert",
+        "sie_Sie": "subduzieren"
+      },
+      "praeteritum": {
+        "ich": "subduzierte",
+        "er_sie_es": "subduzierte"
+      },
+      "perfekt": "hat subduziert"
+    },
+    "preposition": "unter + Akk.",
+    "example_de": "Ozeanische Krustensegmente subduzieren unter kontinentale Lithosphärenplatten bei konvergierenden Rändern.",
+    "example_ar": "تَنْدَسُّ قِطَعُ القِشْرَةِ المُحِيطِيَّةِ تَحْتَ صَفَائِحِ الغِلَافِ الصَّخْرِيِّ القَارِّيَّةِ عِنْدَ الحُوَافِّ المُتَقَارِبَةِ.",
+    "example_en": "Oceanic crustal segments subduct beneath continental lithospheric plates at convergent margins.",
+    "svg_icon": "content/assets/svg/verb_c2_geodyn_002.svg"
+  },
+  {
+    "id": "verb_c2_geodyn_003",
+    "infinitive": "kollidieren",
+    "level": "C2",
+    "category": "Geodynamic Transformation",
+    "arabic": "يَتَصَادَمُ تَكْتُونِيًّا",
+    "english": "to collide (continents/plates)",
+    "conjugation": {
+      "praesens": {
+        "ich": "kollidiere",
+        "du": "kollidierst",
+        "er_sie_es": "kollidiert",
+        "wir": "kollidieren",
+        "ihr": "kollidiert",
+        "sie_Sie": "kollidieren"
+      },
+      "praeteritum": {
+        "ich": "kollidierte",
+        "er_sie_es": "kollidierte"
+      },
+      "perfekt": "ist kollidiert"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Die indische Platte kollidierte mit Eurasien und türmte das Himalaya-Gebirge auf.",
+    "example_ar": "تَصَادَمَتِ الصَّفِيحَةُ الهِنْدِيَّةُ مَعَ أُورَاسْيَا وَرَفَعَتْ سِلْسِلَةَ جِبَالِ الهِيمَالَايَا.",
+    "example_en": "The Indian plate collided with Eurasia, thrusting up the Himalayan mountain range.",
+    "svg_icon": "content/assets/svg/verb_c2_geodyn_003.svg"
+  },
+  {
+    "id": "verb_c2_geodyn_004",
+    "infinitive": "akkumulieren",
+    "level": "C2",
+    "category": "Geodynamic Transformation",
+    "arabic": "يَتَرَاكَمُ رُسُوبِيًّا",
+    "english": "to accumulate (sedimentary layers)",
+    "conjugation": {
+      "praesens": {
+        "ich": "akkumuliere",
+        "du": "akkumulierst",
+        "er_sie_es": "akkumuliert",
+        "wir": "akkumulieren",
+        "ihr": "akkumuliert",
+        "sie_Sie": "akkumulieren"
+      },
+      "praeteritum": {
+        "ich": "akkumulierte",
+        "er_sie_es": "akkumulierte"
+      },
+      "perfekt": "hat akkumuliert"
+    },
+    "preposition": "in + Dat.",
+    "example_de": "Feinkörnige Pelite akkumulieren über Jahrmillionen in tiefmarinen Becken.",
+    "example_ar": "تَتَرَاكَمُ الصُّخُورُ الطِّينِيَّةُ دَقِيقَةُ الحُبَيْبَاتِ عَلَى مَدَى مَلَايِينِ السِّنِينَ فِي الأَحْوَاضِ البَحْرِيَّةِ العَمِيقَةِ.",
+    "example_en": "Fine-grained pelites accumulate over millions of years in deep-marine basins.",
+    "svg_icon": "content/assets/svg/verb_c2_geodyn_004.svg"
+  },
+  {
+    "id": "verb_c2_geodyn_005",
+    "infinitive": "sedimentieren",
+    "level": "C2",
+    "category": "Geodynamic Transformation",
+    "arabic": "يَتَرَسَّبُ قَاعِيًّا",
+    "english": "to sediment / settle",
+    "conjugation": {
+      "praesens": {
+        "ich": "sedimentiere",
+        "du": "sedimentierst",
+        "er_sie_es": "sedimentiert",
+        "wir": "sedimentieren",
+        "ihr": "sedimentiert",
+        "sie_Sie": "sedimentieren"
+      },
+      "praeteritum": {
+        "ich": "sedimentierte",
+        "er_sie_es": "sedimentierte"
+      },
+      "perfekt": "ist sedimentiert"
+    },
+    "preposition": "auf + Dat.",
+    "example_de": "Kalkhaltige Schalen mikroskopischer Organismen sedimentieren kontinuierlich auf dem Meeresgrund.",
+    "example_ar": "تَتَرَسَّبُ القَوَاقِعُ الكِلْسِيَّةُ لِلكَائِنَاتِ المِجْهَرِيَّةِ بِاسْتِمْرَارٍ عَلَى قَاعِ البَحْرِ.",
+    "example_en": "Calcareous shells of microscopic organisms continuously sediment onto the seafloor.",
+    "svg_icon": "content/assets/svg/verb_c2_geodyn_005.svg"
+  },
+  {
+    "id": "verb_c2_geodyn_006",
+    "infinitive": "erodieren",
+    "level": "C2",
+    "category": "Geodynamic Transformation",
+    "arabic": "يَتَآكَلُ / يَنْحَتُ تَدْرِيجِيًّا",
+    "english": "to erode",
+    "conjugation": {
+      "praesens": {
+        "ich": "erodiere",
+        "du": "erodierst",
+        "er_sie_es": "erodiert",
+        "wir": "erodieren",
+        "ihr": "erodiert",
+        "sie_Sie": "erodieren"
+      },
+      "praeteritum": {
+        "ich": "erodierte",
+        "er_sie_es": "erodierte"
+      },
+      "perfekt": "hat erodiert"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Glaziale Eismassen erodieren das kristalline Grundgebirge zu tiefen Trogtälern.",
+    "example_ar": "تَنْحَتُ الكُتَلُ الجَلِيدِيَّةُ صُخُورَ القَاعِدَةِ البِلَّوْرِيَّةِ مُشَكِّلَةً وِدْيَانًا حَوْضِيَّةً عَمِيقَةً.",
+    "example_en": "Glacial ice masses erode the crystalline basement rock into deep U-shaped valleys.",
+    "svg_icon": "content/assets/svg/verb_c2_geodyn_006.svg"
+  },
+  {
+    "id": "verb_c2_geodyn_007",
+    "infinitive": "kristallisieren",
+    "level": "C2",
+    "category": "Geodynamic Transformation",
+    "arabic": "يَتَبَلْوَرُ مَصْهُورِيًّا",
+    "english": "to crystallize (magmatic)",
+    "conjugation": {
+      "praesens": {
+        "ich": "kristallisiere",
+        "du": "kristallisierst",
+        "er_sie_es": "kristallisiert",
+        "wir": "kristallisieren",
+        "ihr": "kristallisiert",
+        "sie_Sie": "kristallisieren"
+      },
+      "praeteritum": {
+        "ich": "kristallisierte",
+        "er_sie_es": "kristallisierte"
+      },
+      "perfekt": "ist kristallisiert"
+    },
+    "preposition": "aus + Dat.",
+    "example_de": "Olivin und Plagioklas kristallisieren frühzeitig aus der abkühlenden Basaltschmelze.",
+    "example_ar": "يَتَبَلْوَرُ الأُولِيفِينُ وَالبْلَاجِيُوكْلَازُ مُبَكِّرًا مِنْ صُهَارَةِ البَازَلْتِ أَثْنَاءَ تَبْرِيدِهَا.",
+    "example_en": "Olivine and plagioclase crystallize early from the cooling basaltic magma.",
+    "svg_icon": "content/assets/svg/verb_c2_geodyn_007.svg"
+  },
+  {
+    "id": "verb_c2_geodyn_008",
+    "infinitive": "deformieren",
+    "level": "C2",
+    "category": "Geodynamic Transformation",
+    "arabic": "يَتَشَوَّهُ تَلَدُّنِيًّا",
+    "english": "to deform platically",
+    "conjugation": {
+      "praesens": {
+        "ich": "deformiere",
+        "du": "deformierst",
+        "er_sie_es": "deformiert",
+        "wir": "deformieren",
+        "ihr": "deformiert",
+        "sie_Sie": "deformieren"
+      },
+      "praeteritum": {
+        "ich": "deformierte",
+        "er_sie_es": "deformierte"
+      },
+      "perfekt": "hat deformiert"
+    },
+    "preposition": "unter + Dat.",
+    "example_de": "Gesteine der mittleren Kruste deformieren duktil unter hohen Temperaturen.",
+    "example_ar": "تَتَشَوَّهُ صُخُورُ القِشْرَةِ الوُسْطَى تَلَدُّنِيًّا تَحْتَ وَطْأَةِ دَرَجَاتِ الحَرَارَةِ المُرْتَفِعَةِ.",
+    "example_en": "Middle crustal rocks deform ductily under elevated temperatures.",
+    "svg_icon": "content/assets/svg/verb_c2_geodyn_008.svg"
+  },
+  {
+    "id": "verb_c2_geodyn_009",
+    "infinitive": "fraktionieren",
+    "level": "C2",
+    "category": "Geodynamic Transformation",
+    "arabic": "يَتَجَزَّأُ بِلَّوْرِيًّا (تَمَايُزُ الصُّهَارَةِ)",
+    "english": "to fractionate (magma)",
+    "conjugation": {
+      "praesens": {
+        "ich": "fraktioniere",
+        "du": "fraktionierst",
+        "er_sie_es": "fraktioniert",
+        "wir": "fraktionieren",
+        "ihr": "fraktioniert",
+        "sie_Sie": "fraktionieren"
+      },
+      "praeteritum": {
+        "ich": "fraktionierte",
+        "er_sie_es": "fraktionierte"
+      },
+      "perfekt": "hat fraktioniert"
+    },
+    "preposition": "während + Gen.",
+    "example_de": "Magmakammern fraktionieren während des Aufstiegs und reichern Siliziumdioxid an.",
+    "example_ar": "تَتَجَزَّأُ حُجُرَاتُ الصُّهَارَةِ بِلَّوْرِيًّا أَثْنَاءَ صُعُودِهَا وَتُثْرِي ثَانِي أُكْسِيدِ السِّيلِيكُون.",
+    "example_en": "Magma chambers fractionate during ascent, enriching silica content.",
+    "svg_icon": "content/assets/svg/verb_c2_geodyn_009.svg"
+  },
+  {
+    "id": "verb_c2_geodyn_010",
+    "infinitive": "aufschmelzen",
+    "level": "C2",
+    "category": "Geodynamic Transformation",
+    "arabic": "يَنْصَهِرُ صَخْرِيًّا (أَنَاتِكْسِيس)",
+    "english": "to anatect / melt partially",
+    "conjugation": {
+      "praesens": {
+        "ich": "schmelze auf",
+        "du": "schmilzt auf",
+        "er_sie_es": "schmilzt auf",
+        "wir": "schmelzen auf",
+        "ihr": "schmelzt auf",
+        "sie_Sie": "schmelzen auf"
+      },
+      "praeteritum": {
+        "ich": "schmolz auf",
+        "er_sie_es": "schmolz auf"
+      },
+      "perfekt": "ist aufgeschmolzen"
+    },
+    "preposition": "bei + Dat.",
+    "example_de": "Tief versenkte Krustengesteine schmelzen bei Erreichen des Solidus partiell auf.",
+    "example_ar": "تَنْصَهِرُ صُخُورُ القِشْرَةِ الغَائِرَةِ عَمِيقًا جُزْئِيًّا عِنْدَ بُلُوغِ خَطِّ التَّصَلُّبِ.",
+    "example_en": "Deeply buried crustal rocks partially melt upon reaching the solidus.",
+    "svg_icon": "content/assets/svg/verb_c2_geodyn_010.svg"
+  },
+  {
+    "id": "verb_c2_geodyn_011",
+    "infinitive": "zementieren",
+    "level": "C2",
+    "category": "Geodynamic Transformation",
+    "arabic": "يَلْتَحِمُ كِيمْيَائِيًّا (السَّمْنَتَةُ)",
+    "english": "to cement (diagenesis)",
+    "conjugation": {
+      "praesens": {
+        "ich": "zementiere",
+        "du": "zementierst",
+        "er_sie_es": "zementiert",
+        "wir": "zementieren",
+        "ihr": "zementiert",
+        "sie_Sie": "zementieren"
+      },
+      "praeteritum": {
+        "ich": "zementierte",
+        "er_sie_es": "zementierte"
+      },
+      "perfekt": "hat zementiert"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Zirkulierende hydrothermale Wässer zementieren lose Sedimente durch Quarzausscheidung.",
+    "example_ar": "تَلْحَمُ المِيَاهُ الحَرَارِيَّةُ الجَوْفِيَّةُ الدَّائِرَةُ الرَّوَاسِبَ الرَّخْوَةَ عَبْرَ تَرْسِيبِ الكُوَارْتْزِ.",
+    "example_en": "Circulating hydrothermal waters cement loose sediments through quartz precipitation.",
+    "svg_icon": "content/assets/svg/verb_c2_geodyn_011.svg"
+  },
+  {
+    "id": "verb_c2_geodyn_012",
+    "infinitive": "falten",
+    "level": "C2",
+    "category": "Geodynamic Transformation",
+    "arabic": "يَنْطَوِي جِيُولُوجِيًّا (تَكَوُّنُ الطَّيَّاتِ)",
+    "english": "to fold (geological strata)",
+    "conjugation": {
+      "praesens": {
+        "ich": "falte",
+        "du": "faltest",
+        "er_sie_es": "faltet",
+        "wir": "falten",
+        "ihr": "faltet",
+        "sie_Sie": "falten"
+      },
+      "praeteritum": {
+        "ich": "faltete",
+        "er_sie_es": "faltete"
+      },
+      "perfekt": "hat gefaltet"
+    },
+    "preposition": "zu + Dat.",
+    "example_de": "Tektonischer Kompressionsdruck faltet ebene Schichtfolgen zu komplexen Antiklinalen.",
+    "example_ar": "يَطْوِي ضَغْطُ الانْضِغَاطِ التَّكْتُونِيِّ تَتَابُعَاتِ الطَّبَقَاتِ المُسْتَوِيَةِ إِلَى طَيَّاتٍ مُحَدَّبَةٍ مُعَقَّدَةٍ.",
+    "example_en": "Tectonic compressive stress folds planar stratigraphic sequences into complex anticlines.",
+    "svg_icon": "content/assets/svg/verb_c2_geodyn_012.svg"
+  },
+  {
+    "id": "verb_c2_geodyn_013",
+    "infinitive": "verwerfen",
+    "level": "C2",
+    "category": "Geodynamic Transformation",
+    "arabic": "يَتَصَدَّعُ / يَنْكَسِرُ صَخْرِيًّا",
+    "english": "to fault (geological displacement)",
+    "conjugation": {
+      "praesens": {
+        "ich": "verwerfe",
+        "du": "verwirfst",
+        "er_sie_es": "verwirft",
+        "wir": "verwerfen",
+        "ihr": "verwerft",
+        "sie_Sie": "verwerfen"
+      },
+      "praeteritum": {
+        "ich": "verwarf",
+        "er_sie_es": "verwarf"
+      },
+      "perfekt": "hat verworfen"
+    },
+    "preposition": "entlang + Gen.",
+    "example_de": "Spröde Krustenblöcke verwerfen schlagartig entlang aktiver Scherzonen bei Erdbeben.",
+    "example_ar": "تَنْكَسِرُ كُتَلُ القِشْرَةِ الهَشَّةِ انْكِسَارًا مُفَاجِئًا عَلَى امْتِدَادِ نِطَاقَاتِ القَصِّ النَّشِطَةِ أَثْنَاءَ الزَّلَازِلِ.",
+    "example_en": "Brittle crustal blocks fault abruptly along active shear zones during earthquakes.",
+    "svg_icon": "content/assets/svg/verb_c2_geodyn_013.svg"
+  },
+  {
+    "id": "verb_c2_geodyn_014",
+    "infinitive": "intrudieren",
+    "level": "C2",
+    "category": "Geodynamic Transformation",
+    "arabic": "يَنْدَسُّ صُهَارِيًّا (يَتَغَلْغَلُ)",
+    "english": "to intrude (magma into country rock)",
+    "conjugation": {
+      "praesens": {
+        "ich": "intrudiere",
+        "du": "intrudierst",
+        "er_sie_es": "intrudiert",
+        "wir": "intrudieren",
+        "ihr": "intrudiert",
+        "sie_Sie": "intrudieren"
+      },
+      "praeteritum": {
+        "ich": "intrudierte",
+        "er_sie_es": "intrudierte"
+      },
+      "perfekt": "ist intrudiert"
+    },
+    "preposition": "in + Akk.",
+    "example_de": "Magmatische Schmelzen intrudieren tief in das umgebende Nebengestein und bilden Plutone.",
+    "example_ar": "تَنْدَسُّ الصُّهَارَاتُ المَغْمَاتِيَّةُ عَمِيقًا فِي الصُّخُورِ المُجَاوِرَةِ مُشَكِّلَةً كُتَلًا بِلُوتُونِيَّةً ضَخْمَةً.",
+    "example_en": "Magmatic melts intrude deeply into the surrounding country rock, forming plutons.",
+    "svg_icon": "content/assets/svg/verb_c2_geodyn_014.svg"
+  },
+  {
+    "id": "verb_c2_geodyn_015",
+    "infinitive": "effundieren",
+    "level": "C2",
+    "category": "Geodynamic Transformation",
+    "arabic": "يَنْبَثِقُ بُرْكَانِيًّا (لَابَا هَادِئَة)",
+    "english": "to effuse (volcanic lava)",
+    "conjugation": {
+      "praesens": {
+        "ich": "effundiere",
+        "du": "effundierst",
+        "er_sie_es": "effundiert",
+        "wir": "effundieren",
+        "ihr": "effundiert",
+        "sie_Sie": "effundieren"
+      },
+      "praeteritum": {
+        "ich": "effundierte",
+        "er_sie_es": "effundierte"
+      },
+      "perfekt": "ist effundiert"
+    },
+    "preposition": "über + Akk.",
+    "example_de": "Dünnflüssige Basaltlaven effundieren ruhig über weitläufige Hochebenen.",
+    "example_ar": "تَنْبَثِقُ لَابَا البَازَلْتِ شَدِيدَةُ السُّيُولَةِ بِهُدُوءٍ فَوْقَ الهِضَابِ الفَسِيحَةِ.",
+    "example_en": "Low-viscosity basaltic lavas effuse placidly across extensive plateau regions.",
+    "svg_icon": "content/assets/svg/verb_c2_geodyn_015.svg"
+  },
+  {
+    "id": "verb_c2_geodyn_016",
+    "infinitive": "konsolidieren",
+    "level": "C2",
+    "category": "Geodynamic Transformation",
+    "arabic": "يَتَصَلَّبُ تَمَاسُكِيًّا",
+    "english": "to consolidate (rock compaction)",
+    "conjugation": {
+      "praesens": {
+        "ich": "konsolidiere",
+        "du": "konsolidierst",
+        "er_sie_es": "konsolidiert",
+        "wir": "konsolidieren",
+        "ihr": "konsolidiert",
+        "sie_Sie": "konsolidieren"
+      },
+      "praeteritum": {
+        "ich": "konsolidierte",
+        "er_sie_es": "konsolidierte"
+      },
+      "perfekt": "hat konsolidiert"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Wasserentzug und Auflast konsolidieren weiche Schlammschichten zu dichtem Tonstein.",
+    "example_ar": "يُصَلِّبُ سَحْبُ المِيَاهِ وَالحِمْلُ الفَوْقِيُّ طَبَقَاتِ الطِّينِ الرَّخْوَةِ إِلَى حَجَرٍ طِينِيٍّ كَثِيفٍ.",
+    "example_en": "Dewatering and overburden consolidate soft mud layers into dense claystone.",
+    "svg_icon": "content/assets/svg/verb_c2_geodyn_016.svg"
+  },
+  {
+    "id": "verb_c2_geodyn_017",
+    "infinitive": "rekristallisieren",
+    "level": "C2",
+    "category": "Geodynamic Transformation",
+    "arabic": "يُعِيدُ التَّبَلْوُرَ تَحَوُّلِيًّا",
+    "english": "to recrystallize",
+    "conjugation": {
+      "praesens": {
+        "ich": "rekristallisiere",
+        "du": "rekristallisierst",
+        "er_sie_es": "rekristallisiert",
+        "wir": "rekristallisieren",
+        "ihr": "rekristallisiert",
+        "sie_Sie": "rekristallisieren"
+      },
+      "praeteritum": {
+        "ich": "rekristallisierte",
+        "er_sie_es": "rekristallisierte"
+      },
+      "perfekt": "ist rekristallisiert"
+    },
+    "preposition": "bei + Dat.",
+    "example_de": "Feinkörniger Calcit rekristallisiert bei Kontaktmetamorphose zu grobkörnigem Marmor.",
+    "example_ar": "يُعِيدُ الكَالْسِيتُ دَقِيقُ الحُبَيْبَاتِ تَبَلْوُرَهُ عِنْدَ التَّحَوُّلِ التَّلَامُسِيِّ لِيُصْبِحَ رُخَامًا خَشِنَ الحُبَيْبَاتِ.",
+    "example_en": "Fine-grained calcite recrystallizes during contact metamorphism into coarse-grained marble.",
+    "svg_icon": "content/assets/svg/verb_c2_geodyn_017.svg"
+  },
+  {
+    "id": "verb_c2_geodyn_018",
+    "infinitive": "translozieren",
+    "level": "C2",
+    "category": "Geodynamic Transformation",
+    "arabic": "يَنْتَقِلُ رُسُوبِيًّا (يَتَبَدَّلُ مَوْضِعُهُ)",
+    "english": "to translocate (sediment transport)",
+    "conjugation": {
+      "praesens": {
+        "ich": "transloziere",
+        "du": "translozierst",
+        "er_sie_es": "transloziert",
+        "wir": "translozieren",
+        "ihr": "transloziert",
+        "sie_Sie": "translozieren"
+      },
+      "praeteritum": {
+        "ich": "translozierte",
+        "er_sie_es": "translozierte"
+      },
+      "perfekt": "hat transloziert"
+    },
+    "preposition": "über + Akk.",
+    "example_de": "Fluviale Systeme translozieren gigantische Geröllmassen über hunderte Kilometer.",
+    "example_ar": "تَنْقُلُ المَنْظُومَاتُ النَّهْرِيَّةُ كُتَلًا هَائِلَةً مِنَ الحَصَى عَبْرَ مِئَاتِ الكِيلُومِتْرَاتِ.",
+    "example_en": "Fluvial systems translocate gigantic gravel masses across hundreds of kilometers.",
+    "svg_icon": "content/assets/svg/verb_c2_geodyn_018.svg"
+  },
+  {
+    "id": "verb_c2_geodyn_019",
+    "infinitive": "versteinern",
+    "level": "C2",
+    "category": "Geodynamic Transformation",
+    "arabic": "يَتَحَجَّرُ / يَتَفَسْخَرُ",
+    "english": "to petrify / fossilize",
+    "conjugation": {
+      "praesens": {
+        "ich": "versteinere",
+        "du": "versteinerst",
+        "er_sie_es": "versteinert",
+        "wir": "versteinern",
+        "ihr": "versteinert",
+        "sie_Sie": "versteinern"
+      },
+      "praeteritum": {
+        "ich": "versteinerte",
+        "er_sie_es": "versteinerte"
+      },
+      "perfekt": "ist versteinert"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Trotz unaufhörlicher tektonischer Zyklen versteinern organische Relikte zu ewigen Zeugen der Erdgeschichte.",
+    "example_ar": "عَلَى الرَّغْمِ مِنْ الدَّوْرَاتِ التَّكْتُونِيَّةِ الَّتِي لَا تَهْدَأُ، تَتَحَجَّرُ البَقَايَا العُضْوِيَّةُ لِتَكُونَ شُهُودًا أَبَدِيِّينَ عَلَى تَارِيخِ الأَرْضِ.",
+    "example_en": "Despite perpetual tectonic cycles, organic remains fossilize into eternal witnesses of Earth history.",
+    "svg_icon": "content/assets/svg/verb_c2_geodyn_019.svg"
+  },
+  {
+    "id": "verb_c2_geodyn_020",
+    "infinitive": "exponieren",
+    "level": "C2",
+    "category": "Geodynamic Transformation",
+    "arabic": "يَتَكَشَّفُ صَخْرِيًّا (يَظْهَرُ لِلسَّطْحِ)",
+    "english": "to expose (unroofing)",
+    "conjugation": {
+      "praesens": {
+        "ich": "exponiere",
+        "du": "exponierst",
+        "er_sie_es": "exponiert",
+        "wir": "exponieren",
+        "ihr": "exponiert",
+        "sie_Sie": "exponieren"
+      },
+      "praeteritum": {
+        "ich": "exponierte",
+        "er_sie_es": "exponierte"
+      },
+      "perfekt": "hat exponiert"
+    },
+    "preposition": "an + Dat.",
+    "example_de": "Tektonische Hebung und Denudation exponieren metamorphe Kernkomplexe an der Erdoberfläche.",
+    "example_ar": "يَكْشِفُ الرَّفْعُ التَّكْتُونِيُّ وَالتَّعْرِيَةُ الشَّامِلَةُ مُجَمَّعَاتِ اللُّبِّ المُتَحَوِّلِ عَلَى سَطْحِ الأَرْضِ.",
+    "example_en": "Tectonic uplift and denudation expose metamorphic core complexes at the Earth's surface.",
+    "svg_icon": "content/assets/svg/verb_c2_geodyn_020.svg"
+  }
+]
