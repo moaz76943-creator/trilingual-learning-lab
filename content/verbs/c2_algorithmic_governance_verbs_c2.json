@@ -1,0 +1,562 @@
+[
+  {
+    "id": "verb_c2_gov_001",
+    "infinitive": "regulieren",
+    "level": "C2",
+    "category": "Algorithmic Governance",
+    "arabic": "يُقَنِّنُ / يُنَظِّمُ خُوَارِزْمِيًّا",
+    "english": "to regulate algorithmically",
+    "conjugation": {
+      "praesens": {
+        "ich": "reguliere",
+        "du": "regulierst",
+        "er_sie_es": "reguliert",
+        "wir": "regulieren",
+        "ihr": "reguliert",
+        "sie_Sie": "regulieren"
+      },
+      "praeteritum": {
+        "ich": "regulierte",
+        "er_sie_es": "regulierte"
+      },
+      "perfekt": "hat reguliert"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Staatliche Instanzen regulieren autonome Finanzalgorithmen durch strenge Transparenzgesetze.",
+    "example_ar": "تُقَنِّنُ الهَيْئَاتُ الحُكُومِيَّةُ الخُوَارِزْمِيَّاتِ المَالِيَّةَ ذَاتِيَّةَ التَّشْغِيلِ عَبْرَ قَوَانِينِ شَفَافِيَّةٍ صَارِمَةٍ.",
+    "example_en": "State authorities regulate autonomous financial algorithms through stringent transparency laws.",
+    "svg_icon": "content/assets/svg/verb_c2_gov_001.svg"
+  },
+  {
+    "id": "verb_c2_gov_002",
+    "infinitive": "überwachen",
+    "level": "C2",
+    "category": "Algorithmic Governance",
+    "arabic": "يُرَاقِبُ مَعْلُومَاتِيًّا",
+    "english": "to surveil digitally",
+    "conjugation": {
+      "praesens": {
+        "ich": "überwache",
+        "du": "überwachst",
+        "er_sie_es": "überwacht",
+        "wir": "überwachen",
+        "ihr": "überwacht",
+        "sie_Sie": "überwachen"
+      },
+      "praeteritum": {
+        "ich": "überwachte",
+        "er_sie_es": "überwachte"
+      },
+      "perfekt": "hat überwacht"
+    },
+    "preposition": "mittels + Gen.",
+    "example_de": "Sicherheitsdienste überwachen den öffentlichen Raum mittels biometrischer Gesichtserkennung.",
+    "example_ar": "تُرَاقِبُ الأَجْهِزَةُ الأَمْنِيَّةُ الفَضَاءَ العَامَّ بِوَاسِطَةِ التَّعَرُّفِ البِيُومِتْرِيِّ عَلَى الوُجُوهِ.",
+    "example_en": "Security agencies surveil public space by means of biometric facial recognition.",
+    "svg_icon": "content/assets/svg/verb_c2_gov_002.svg"
+  },
+  {
+    "id": "verb_c2_gov_003",
+    "infinitive": "profilieren",
+    "level": "C2",
+    "category": "Algorithmic Governance",
+    "arabic": "يُنَمِّطُ سُلُوكِيًّا",
+    "english": "to profile behaviorally",
+    "conjugation": {
+      "praesens": {
+        "ich": "profiliere",
+        "du": "profilierst",
+        "er_sie_es": "profiliert",
+        "wir": "profilieren",
+        "ihr": "profiliert",
+        "sie_Sie": "profilieren"
+      },
+      "praeteritum": {
+        "ich": "profilierte",
+        "er_sie_es": "profilierte"
+      },
+      "perfekt": "hat profiliert"
+    },
+    "preposition": "nach + Dat.",
+    "example_de": "Marketingkonzerne profilieren Konsumenten nach subtilen Mikrointeraktionen im Netz.",
+    "example_ar": "تُنَمِّطُ شَرِكَاتُ التَّسْوِيقِ المُسْتَهْلِكِينَ وَفْقًا لِلتَّفَاعُلَاتِ الدَّقِيقَةِ عَلَى الشَّبَكَةِ.",
+    "example_en": "Marketing conglomerates profile consumers according to subtle digital micro-interactions.",
+    "svg_icon": "content/assets/svg/verb_c2_gov_003.svg"
+  },
+  {
+    "id": "verb_c2_gov_004",
+    "infinitive": "nudgen",
+    "level": "C2",
+    "category": "Algorithmic Governance",
+    "arabic": "يَخِزُ سُلُوكِيًّا خُوَارِزْمِيًّا",
+    "english": "to nudge algorithmically",
+    "conjugation": {
+      "praesens": {
+        "ich": "nudge",
+        "du": "nudgst",
+        "er_sie_es": "nudgt",
+        "wir": "nudgen",
+        "ihr": "nudgt",
+        "sie_Sie": "nudgen"
+      },
+      "praeteritum": {
+        "ich": "nudgte",
+        "er_sie_es": "nudgte"
+      },
+      "perfekt": "hat genudgt"
+    },
+    "preposition": "zu + Dat.",
+    "example_de": "Plattformen nudgen Nutzer unbemerkt zu verlängerten Bildschirmzeiten und mehr Interaktion.",
+    "example_ar": "تَخِزُ المَنَصَّاتُ المُسْتَخْدِمِينَ دُونَ مُلَاحَظَةٍ نَحْوَ قَضَاءِ أَوْقَاتٍ أَطْوَلَ أَمَامَ الشَّاشَةِ.",
+    "example_en": "Platforms imperceptibly nudge users toward prolonged screen time and increased engagement.",
+    "svg_icon": "content/assets/svg/verb_c2_gov_004.svg"
+  },
+  {
+    "id": "verb_c2_gov_005",
+    "infinitive": "diskriminieren",
+    "level": "C2",
+    "category": "Algorithmic Governance",
+    "arabic": "يُمَيِّزُ خُوَارِزْمِيًّا إِجْحَافًا",
+    "english": "to discriminate algorithmically",
+    "conjugation": {
+      "praesens": {
+        "ich": "diskriminiere",
+        "du": "diskriminierst",
+        "er_sie_es": "diskriminiert",
+        "wir": "diskriminieren",
+        "ihr": "diskriminiert",
+        "sie_Sie": "diskriminieren"
+      },
+      "praeteritum": {
+        "ich": "diskriminierte",
+        "er_sie_es": "diskriminierte"
+      },
+      "perfekt": "hat diskriminiert"
+    },
+    "preposition": "aufgrund + Gen.",
+    "example_de": "Automatisierte Bewerbungssysteme diskriminieren Minderheiten oft aufgrund historischer Datensätze.",
+    "example_ar": "تُمَيِّزُ أَنْظِمَةُ التَّوْظِيفِ المُؤَتْمَتَةُ الأَقَلِّيَّاتِ غَالِبًا بِسَبَبِ مَجْمُوعَاتِ البَيَانَاتِ التَّارِيخِيَّةِ.",
+    "example_en": "Automated recruitment systems often discriminate against minorities on the basis of historical datasets.",
+    "svg_icon": "content/assets/svg/verb_c2_gov_005.svg"
+  },
+  {
+    "id": "verb_c2_gov_006",
+    "infinitive": "sanktionieren",
+    "level": "C2",
+    "category": "Algorithmic Governance",
+    "arabic": "يُعَاقِبُ خُوَارِزْمِيًّا",
+    "english": "to sanction algorithmically",
+    "conjugation": {
+      "praesens": {
+        "ich": "sanktioniere",
+        "du": "sanktionierst",
+        "er_sie_es": "sanktioniert",
+        "wir": "sanktionieren",
+        "ihr": "sanktioniert",
+        "sie_Sie": "sanktionieren"
+      },
+      "praeteritum": {
+        "ich": "sanktionierte",
+        "er_sie_es": "sanktionierte"
+      },
+      "perfekt": "hat sanktioniert"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Sozialkreditsysteme sanktionieren abweichendes Bürgerverhalten durch Entzug digitaler Privilegien.",
+    "example_ar": "تُعَاقِبُ أَنْظِمَةُ الِائْتِمَانِ الِاجْتِمَاعِيِّ سُلُوكَ المُواطِنِينَ المُنْحَرِفَ عَبْرَ حِرْمَانِهِمْ مِنَ الِامْتِيَازَاتِ الرَّقْمِيَّةِ.",
+    "example_en": "Social credit systems sanction divergent citizen behavior through the revocation of digital privileges.",
+    "svg_icon": "content/assets/svg/verb_c2_gov_006.svg"
+  },
+  {
+    "id": "verb_c2_gov_007",
+    "infinitive": "steuern",
+    "level": "C2",
+    "category": "Algorithmic Governance",
+    "arabic": "يُوَجِّهُ التَّدَفُّقَاتِ المَعْلُومَاتِيَّةَ",
+    "english": "to steer information flows",
+    "conjugation": {
+      "praesens": {
+        "ich": "steuere",
+        "du": "steuerst",
+        "er_sie_es": "steuert",
+        "wir": "steuern",
+        "ihr": "steuert",
+        "sie_Sie": "steuern"
+      },
+      "praeteritum": {
+        "ich": "steuerte",
+        "er_sie_es": "steuerte"
+      },
+      "perfekt": "hat gesteuert"
+    },
+    "preposition": "über + Akk.",
+    "example_de": "Zentralisierte Algorithmen steuern den gesellschaftlichen Diskurs über gezielte Feed-Kuration.",
+    "example_ar": "تُوَجِّهُ الخُوَارِزْمِيَّاتُ المَرْكَزِيَّةُ الخِطَابَ المُجْتَمَعِيَّ عَبْرَ تَنْسِيقِ المَنْشُورَاتِ المُوَجَّهِ.",
+    "example_en": "Centralized algorithms steer public discourse via targeted feed curation.",
+    "svg_icon": "content/assets/svg/verb_c2_gov_007.svg"
+  },
+  {
+    "id": "verb_c2_gov_008",
+    "infinitive": "automatisieren",
+    "level": "C2",
+    "category": "Algorithmic Governance",
+    "arabic": "يُؤَتْمِتُ القَرَارَاتِ الإِدَارِيَّةَ",
+    "english": "to automate decision-making",
+    "conjugation": {
+      "praesens": {
+        "ich": "automatisiere",
+        "du": "automatisierst",
+        "er_sie_es": "automatisiert",
+        "wir": "automatisieren",
+        "ihr": "automatisiert",
+        "sie_Sie": "automatisieren"
+      },
+      "praeteritum": {
+        "ich": "automatisierte",
+        "er_sie_es": "automatisierte"
+      },
+      "perfekt": "hat automatisiert"
+    },
+    "preposition": "ohne + Akk.",
+    "example_de": "Moderne Behörden automatisieren Routineverfahren ohne unmittelbare menschliche Intervention.",
+    "example_ar": "تُؤَتْمِتُ الهَيْئَاتُ الحَدِيثَةُ الإِجْرَاءَاتِ الرَّتِيبَةَ دُونَ تَدَخُّلٍ بَشَرِيٍّ مُبَاشِرٍ.",
+    "example_en": "Modern authorities automate routine procedures without direct human intervention.",
+    "svg_icon": "content/assets/svg/verb_c2_gov_008.svg"
+  },
+  {
+    "id": "verb_c2_gov_009",
+    "infinitive": "filtern",
+    "level": "C2",
+    "category": "Algorithmic Governance",
+    "arabic": "يُرَشِّحُ المُحْتَوَى رَقْمِيًّا",
+    "english": "to filter content",
+    "conjugation": {
+      "praesens": {
+        "ich": "filtere",
+        "du": "filterst",
+        "er_sie_es": "filtert",
+        "wir": "filtern",
+        "ihr": "filtert",
+        "sie_Sie": "filtern"
+      },
+      "praeteritum": {
+        "ich": "filterte",
+        "er_sie_es": "filterte"
+      },
+      "perfekt": "hat gefiltert"
+    },
+    "preposition": "nach + Dat.",
+    "example_de": "Suchmaschinen filtern Milliarden Webinhalte nach proprietären Relevanzkriterien.",
+    "example_ar": "تُرَشِّحُ مُحَرِّكَاتُ البَحْثِ مِلْيَارَاتِ مُحْتَوَيَاتِ الوِيبِ وَفْقًا لِمَعَايِيرِ صِلَةٍ احْتِكَارِيَّةٍ.",
+    "example_en": "Search engines filter billions of web items according to proprietary relevance criteria.",
+    "svg_icon": "content/assets/svg/verb_c2_gov_009.svg"
+  },
+  {
+    "id": "verb_c2_gov_010",
+    "infinitive": "zensieren",
+    "level": "C2",
+    "category": "Algorithmic Governance",
+    "arabic": "يَحْجُبُ / يَرْقُبُ خُوَارِزْمِيًّا",
+    "english": "to censor algorithmically",
+    "conjugation": {
+      "praesens": {
+        "ich": "zensiere",
+        "du": "zensierst",
+        "er_sie_es": "zensiert",
+        "wir": "zensieren",
+        "ihr": "zensiert",
+        "sie_Sie": "zensieren"
+      },
+      "praeteritum": {
+        "ich": "zensierte",
+        "er_sie_es": "zensierte"
+      },
+      "perfekt": "hat zensiert"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Autoritäre Regime zensieren oppositionelle Webseiten durch automatisierte Deep-Packet-Inspection.",
+    "example_ar": "تَحْجُبُ الأَنْظِمَةُ السَّلْطَوِيَّةُ مَوَاقِعَ المُعَارَضَةِ عَبْرَ الفَحْصِ العَمِيقِ لِلحُزَمِ المُؤَتْمَتِ.",
+    "example_en": "Authoritarian regimes censor dissident websites through automated deep packet inspection.",
+    "svg_icon": "content/assets/svg/verb_c2_gov_010.svg"
+  },
+  {
+    "id": "verb_c2_gov_011",
+    "infinitive": "dezentralisieren",
+    "level": "C2",
+    "category": "Algorithmic Governance",
+    "arabic": "يُلْغِي المَرْكَزِيَّةَ التِّقْنِيَّةَ",
+    "english": "to decentralize architectures",
+    "conjugation": {
+      "praesens": {
+        "ich": "dezentralisiere",
+        "du": "dezentralisierst",
+        "er_sie_es": "dezentralisiert",
+        "wir": "dezentralisieren",
+        "ihr": "dezentralisiert",
+        "sie_Sie": "dezentralisieren"
+      },
+      "praeteritum": {
+        "ich": "dezentralisierte",
+        "er_sie_es": "dezentralisierte"
+      },
+      "perfekt": "hat dezentralisiert"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Peer-to-Peer-Protokolle dezentralisieren die Datenhaltung zur Stärkung der Nutzersouveränität.",
+    "example_ar": "تُلْغِي بْرُوتُوكُولَاتُ النِّدِّ لِلنِّدِّ مَرْكَزِيَّةَ حِفْظِ البَيَانَاتِ لِتَعْزِيزِ سِيَادَةِ المُسْتَخْدِمِينَ.",
+    "example_en": "Peer-to-peer protocols decentralize data storage to bolster user sovereignty.",
+    "svg_icon": "content/assets/svg/verb_c2_gov_011.svg"
+  },
+  {
+    "id": "verb_c2_gov_012",
+    "infinitive": "verifizieren",
+    "level": "C2",
+    "category": "Algorithmic Governance",
+    "arabic": "يَتَحَقَّقُ صِحِّيًّا مِنَ الهُوِيَّةِ",
+    "english": "to verify cryptographically",
+    "conjugation": {
+      "praesens": {
+        "ich": "verifiziere",
+        "du": "verifizierst",
+        "er_sie_es": "verifiziert",
+        "wir": "verifizieren",
+        "ihr": "verifiziert",
+        "sie_Sie": "verifizieren"
+      },
+      "praeteritum": {
+        "ich": "verifizierte",
+        "er_sie_es": "verifizierte"
+      },
+      "perfekt": "hat verifiziert"
+    },
+    "preposition": "mittels + Gen.",
+    "example_de": "Kryptografische Zero-Knowledge-Beweise verifizieren Identitäten ohne Preisgabe persönlicher Daten.",
+    "example_ar": "تَتَحَقَّقُ بَرَاهِينُ المَعْرِفَةِ الصِّفْرِيَّةِ التَّشْفِيرِيَّةُ مِنَ الهُوِيَّاتِ دُونَ كَشْفِ البَيَانَاتِ الشَّخْصِيَّةِ.",
+    "example_en": "Cryptographic zero-knowledge proofs verify identities without disclosing personal information.",
+    "svg_icon": "content/assets/svg/verb_c2_gov_012.svg"
+  },
+  {
+    "id": "verb_c2_gov_013",
+    "infinitive": "entmündigen",
+    "level": "C2",
+    "category": "Algorithmic Governance",
+    "arabic": "يَسْلُبُ الأَهْلِيَّةَ القَرَارِيَّةَ",
+    "english": "to disempower / disenfranchise",
+    "conjugation": {
+      "praesens": {
+        "ich": "entmündige",
+        "du": "entmündigst",
+        "er_sie_es": "entmündigt",
+        "wir": "entmündigen",
+        "ihr": "entmündigt",
+        "sie_Sie": "entmündigen"
+      },
+      "praeteritum": {
+        "ich": "entmündigte",
+        "er_sie_es": "entmündigte"
+      },
+      "perfekt": "hat entmündigt"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Undurchschaubare Blackbox-Modelle entmündigen Bürger bei behördlichen Verwaltungsverfahren.",
+    "example_ar": "تَسْلُبُ نَمَاذِجُ الصُّنْدُوقِ الأَسْوَدِ الغَامِضَةُ أَهْلِيَّةَ المُواطِنِينَ فِي الإِجْرَاءَاتِ الإِدَارِيَّةِ الحُكُومِيَّةِ.",
+    "example_en": "Opaque black-box models disempower citizens during public administrative proceedings.",
+    "svg_icon": "content/assets/svg/verb_c2_gov_013.svg"
+  },
+  {
+    "id": "verb_c2_gov_014",
+    "infinitive": "monopolisieren",
+    "level": "C2",
+    "category": "Algorithmic Governance",
+    "arabic": "يَحْتَكِرُ المَنَصَّاتِ الحَيَوِيَّةَ",
+    "english": "to monopolize infrastructures",
+    "conjugation": {
+      "praesens": {
+        "ich": "monopolisiere",
+        "du": "monopolisierst",
+        "er_sie_es": "monopolisiert",
+        "wir": "monopolisieren",
+        "ihr": "monopolisiert",
+        "sie_Sie": "monopolisieren"
+      },
+      "praeteritum": {
+        "ich": "monopolisierte",
+        "er_sie_es": "monopolisierte"
+      },
+      "perfekt": "hat monopolisiert"
+    },
+    "preposition": "in + Dat.",
+    "example_de": "Tech-Konzerne monopolisieren zentrale Kommunikationswege in modernen Informationsgesellschaften.",
+    "example_ar": "تَحْتَكِرُ شَرِكَاتُ التِّقْنِيَّةِ طُرُقَ الِاتِّصَالِ المَرْكَزِيَّةَ فِي مُجْتَمَعَاتِ المَعْلُومَاتِ الحَدِيثَةِ.",
+    "example_en": "Tech conglomerates monopolize pivotal communication channels in modern information societies.",
+    "svg_icon": "content/assets/svg/verb_c2_gov_014.svg"
+  },
+  {
+    "id": "verb_c2_gov_015",
+    "infinitive": "kolonisieren",
+    "level": "C2",
+    "category": "Algorithmic Governance",
+    "arabic": "يَسْتَعْمِرُ بَيَانِيًّا",
+    "english": "to colonize data spaces",
+    "conjugation": {
+      "praesens": {
+        "ich": "kolonisiere",
+        "du": "kolonisierst",
+        "er_sie_es": "kolonisiert",
+        "wir": "kolonisieren",
+        "ihr": "kolonisiert",
+        "sie_Sie": "kolonisieren"
+      },
+      "praeteritum": {
+        "ich": "kolonisierte",
+        "er_sie_es": "kolonisierte"
+      },
+      "perfekt": "hat kolonisiert"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Globale Plattformen kolonisieren die digitale Lebenswelt des globalen Südens durch kostenlose Dienste.",
+    "example_ar": "تَسْتَعْمِرُ المَنَصَّاتُ العَالَمِيَّةُ الفَضَاءَ الحَيَاتِيَّ الرَّقْمِيَّ لِلجَنُوبِ العَالَمِيِّ عَبْرَ الخِدْمَاتِ المَجَّانِيَّةِ.",
+    "example_en": "Global platforms colonize the digital lifeworld of the Global South via complimentary services.",
+    "svg_icon": "content/assets/svg/verb_c2_gov_015.svg"
+  },
+  {
+    "id": "verb_c2_gov_016",
+    "infinitive": "transparentieren",
+    "level": "C2",
+    "category": "Algorithmic Governance",
+    "arabic": "يَجْعَلُهُ شَفَّافًا قَابِلًا لِلتَّفْسِيرِ",
+    "english": "to make transparent / audit",
+    "conjugation": {
+      "praesens": {
+        "ich": "transparentiere",
+        "du": "transparentierst",
+        "er_sie_es": "transparentiert",
+        "wir": "transparentieren",
+        "ihr": "transparentiert",
+        "sie_Sie": "transparentieren"
+      },
+      "praeteritum": {
+        "ich": "transparentierte",
+        "er_sie_es": "transparentierte"
+      },
+      "perfekt": "hat transparentiert"
+    },
+    "preposition": "für + Akk.",
+    "example_de": "Auditoren transparentieren proprietäre Algorithmen für unabhängige Kontrollgremien.",
+    "example_ar": "يَجْعَلُ المُدَقِّقُونَ الخُوَارِزْمِيَّاتِ الِاحْتِكَارِيَّةَ شَفَّافَةً أَمَامَ لِجَانِ الرَّقَابَةِ المُسْتَقِلَّةِ.",
+    "example_en": "Auditors make proprietary algorithms transparent for independent regulatory bodies.",
+    "svg_icon": "content/assets/svg/verb_c2_gov_016.svg"
+  },
+  {
+    "id": "verb_c2_gov_017",
+    "infinitive": "intervenieren",
+    "level": "C2",
+    "category": "Algorithmic Governance",
+    "arabic": "يَتَدَخَّلُ تَنْظِيمِيًّا",
+    "english": "to intervene regulatory",
+    "conjugation": {
+      "praesens": {
+        "ich": "interveniere",
+        "du": "intervenierst",
+        "er_sie_es": "interveniert",
+        "wir": "intervenieren",
+        "ihr": "interveniert",
+        "sie_Sie": "intervenieren"
+      },
+      "praeteritum": {
+        "ich": "intervenierte",
+        "er_sie_es": "intervenierte"
+      },
+      "perfekt": "hat interveniert"
+    },
+    "preposition": "in + Akk.",
+    "example_de": "Kartellbehörden intervenieren rechtzeitig in monopolistische Plattformstrukturen.",
+    "example_ar": "تَتَدَخَّلُ سُلُطَاتُ حِمَايَةِ المُنَافَسَةِ فِي الوَقْتِ المُنَاسِبِ فِي بِنَى المَنَصَّاتِ الِاحْتِكَارِيَّةِ.",
+    "example_en": "Antitrust authorities intervene promptly in monopolistic platform configurations.",
+    "svg_icon": "content/assets/svg/verb_c2_gov_017.svg"
+  },
+  {
+    "id": "verb_c2_gov_018",
+    "infinitive": "aggregieren",
+    "level": "C2",
+    "category": "Algorithmic Governance",
+    "arabic": "يُجَمِّعُ البَيَانَاتِ الضَّخْمَةَ",
+    "english": "to aggregate big data",
+    "conjugation": {
+      "praesens": {
+        "ich": "aggregiere",
+        "du": "aggregierst",
+        "er_sie_es": "aggregiert",
+        "wir": "aggregieren",
+        "ihr": "aggregiert",
+        "sie_Sie": "aggregieren"
+      },
+      "praeteritum": {
+        "ich": "aggregierte",
+        "er_sie_es": "aggregierte"
+      },
+      "perfekt": "hat aggregiert"
+    },
+    "preposition": "zu + Dat.",
+    "example_de": "Datenbroker aggregieren disparateste Informationsquellen zu lückenlosen Persönlichkeitsprofilen.",
+    "example_ar": "يُجَمِّعُ سَمَاسِرَةُ البَيَانَاتِ أَنْوَاعَ مَصَادِرِ المَعْلُومَاتِ المُتَبَايِنَةِ إِلَى مَلَفَّاتِ شَخْصِيَّةٍ شَامِلَةٍ.",
+    "example_en": "Data brokers aggregate disparate information sources into comprehensive personality profiles.",
+    "svg_icon": "content/assets/svg/verb_c2_gov_018.svg"
+  },
+  {
+    "id": "verb_c2_gov_019",
+    "infinitive": "korrelieren",
+    "level": "C2",
+    "category": "Algorithmic Governance",
+    "arabic": "يَرْبِطُ ارْتِبَاطًا إِحْصَائِيًّا",
+    "english": "to correlate statistically",
+    "conjugation": {
+      "praesens": {
+        "ich": "korreliere",
+        "du": "korrelierst",
+        "er_sie_es": "korreliert",
+        "wir": "korrelieren",
+        "ihr": "korreliert",
+        "sie_Sie": "korrelieren"
+      },
+      "praeteritum": {
+        "ich": "korrelierte",
+        "er_sie_es": "korrelierte"
+      },
+      "perfekt": "hat korreliert"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Analysewerkzeuge korrelieren Online-Suchanfragen mit regionalen Kaufkraftindikatoren.",
+    "example_ar": "تَرْبِطُ أَدَوَاتُ التَّحْلِيلِ اسْتِعْلَامَاتِ البَحْثِ عَلَى الإِنْتِرْنِت ارْتِبَاطًا إِحْصَائِيًّا بِمُؤَشِّرَاتِ القُدْرَةِ الشِّرَائِيَّةِ.",
+    "example_en": "Analytics tools correlate online search queries with regional purchasing power indices.",
+    "svg_icon": "content/assets/svg/verb_c2_gov_019.svg"
+  },
+  {
+    "id": "verb_c2_gov_020",
+    "infinitive": "rekonfigurieren",
+    "level": "C2",
+    "category": "Algorithmic Governance",
+    "arabic": "يُعِيدُ تَهْيِئَةَ النِّظَامِ الرَّقْمِيِّ",
+    "english": "to reconfigure digitally",
+    "conjugation": {
+      "praesens": {
+        "ich": "rekonfiguriere",
+        "du": "rekonfigurierst",
+        "er_sie_es": "rekonfiguriert",
+        "wir": "rekonfigurieren",
+        "ihr": "rekonfiguriert",
+        "sie_Sie": "rekonfigurieren"
+      },
+      "praeteritum": {
+        "ich": "rekonfigurierte",
+        "er_sie_es": "rekonfigurierte"
+      },
+      "perfekt": "hat rekonfiguriert"
+    },
+    "preposition": "nach + Dat.",
+    "example_de": "Partizipative Plattformen rekonfigurieren ihre Entscheidungsprotokolle nach demokratischen Grundregeln.",
+    "example_ar": "تُعِيدُ المَنَصَّاتُ التَّشَارُكِيَّةُ تَهْيِئَةَ بْرُوتُوكُولَاتِ القَرَارِ لَدَيْهَا وَفْقًا لِلقَوَاعِدِ الدِّيمُقْرَاطِيَّةِ الأَسَاسِيَّةِ.",
+    "example_en": "Participatory platforms reconfigure their decision protocols in accordance with democratic baseline principles.",
+    "svg_icon": "content/assets/svg/verb_c2_gov_020.svg"
+  }
+]
