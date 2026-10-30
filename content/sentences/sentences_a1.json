@@ -10132,6 +10132,178 @@
         "Dativ Maskulin n-Deklination 'jedem Menschen'",
         "Akkusativ Feminin 'eine Stimme'"
       ]
+    },
+    {
+      "id": "sent_441",
+      "category": "emancipation_knowledge",
+      "difficulty": "A1+",
+      "arabic": "الشَّعْبُ يَتَحَرَّرُ بِالعِلْمِ وَالمَعْرِفَةِ دَائِمًا.",
+      "german": "Das Volk emanzipiert sich mit Bildung und Wissen immer.",
+      "english": "The people always emancipate themselves through education and knowledge.",
+      "tokens": [
+        {
+          "word": "Das Volk",
+          "pos": "noun",
+          "ar": "الشَّعْبُ"
+        },
+        {
+          "word": "emanzipiert sich",
+          "pos": "reflexive_verb",
+          "ar": "يَتَحَرَّرُ"
+        },
+        {
+          "word": "mit Bildung und Wissen",
+          "pos": "preposition_phrase",
+          "ar": "بِالعِلْمِ وَالمَعْرِفَةِ"
+        },
+        {
+          "word": "immer",
+          "pos": "adverb",
+          "ar": "دَائِمًا"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Neutrum Nominativ",
+        "Reflexives Verb 'sich emanzipieren'",
+        "Präposition 'mit' + Dativ ohne Artikel 'Bildung und Wissen'"
+      ]
+    },
+    {
+      "id": "sent_442",
+      "category": "articulating_justice",
+      "difficulty": "A1+",
+      "arabic": "الكَاتِبُ يُعَبِّرُ عَنْ حُقُوقِ المَظْلُومِينَ بِشَجَاعَةٍ.",
+      "german": "Der Autor artikuliert die Rechte der Unterdrückten mutig.",
+      "english": "The author courageously articulates the rights of the oppressed.",
+      "tokens": [
+        {
+          "word": "Der Autor",
+          "pos": "noun",
+          "ar": "الكَاتِبُ"
+        },
+        {
+          "word": "artikuliert",
+          "pos": "verb",
+          "ar": "يُعَبِّرُ عَنْ / يُفْصِحُ"
+        },
+        {
+          "word": "die Rechte",
+          "pos": "noun",
+          "ar": "حُقُوقَ"
+        },
+        {
+          "word": "der Unterdrückten",
+          "pos": "genitive_noun",
+          "ar": "المَظْلُومِينَ (مضاف إليه)"
+        },
+        {
+          "word": "mutig",
+          "pos": "adverb",
+          "ar": "بِشَجَاعَةٍ"
+        }
+      ],
+      "grammar_points": [
+        "Akkusativobjekt Plural 'die Rechte'",
+        "Substantiviertes Partizip im Genitiv Plural 'der Unterdrückten'"
+      ]
+    },
+    {
+      "id": "sent_443",
+      "category": "recuperating_heritage",
+      "difficulty": "A1+",
+      "arabic": "نَحْنُ نَسْتَرِدُّ التُّرَاثَ الأَصِيلَ بِفَخْرٍ وَاعْتِزَازٍ.",
+      "german": "Wir rekuperieren das authentische Erbe mit Stolz.",
+      "english": "We recuperate the authentic heritage with pride.",
+      "tokens": [
+        {
+          "word": "Wir",
+          "pos": "pronoun",
+          "ar": "نَحْنُ"
+        },
+        {
+          "word": "rekuperieren",
+          "pos": "verb",
+          "ar": "نَسْتَرِدُّ / نَسْتَرْجِعُ"
+        },
+        {
+          "word": "das authentische Erbe",
+          "pos": "noun_phrase",
+          "ar": "التُّرَاثَ الأَصِيلَ"
+        },
+        {
+          "word": "mit Stolz",
+          "pos": "preposition_phrase",
+          "ar": "بِفَخْرٍ"
+        }
+      ],
+      "grammar_points": [
+        "Akkusativ Neutrum mit bestimmtem Artikel und Adjektiv 'das authentische Erbe'",
+        "Präposition 'mit' + Dativ Maskulin 'Stolz'"
+      ]
+    },
+    {
+      "id": "sent_444",
+      "category": "unmasking_injustice",
+      "difficulty": "A1+",
+      "arabic": "المُتَحَدِّثُ يَفْضَحُ الظُّلْمَ بِالحُجَجِ الوَاضِحَةِ.",
+      "german": "Der Sprecher entlarvt die Ungerechtigkeit mit klaren Argumenten.",
+      "english": "The speaker unmasks injustice with clear arguments.",
+      "tokens": [
+        {
+          "word": "Der Sprecher",
+          "pos": "noun",
+          "ar": "المُتَحَدِّثُ"
+        },
+        {
+          "word": "entlarvt",
+          "pos": "verb",
+          "ar": "يَفْضَحُ / يَكْشِفُ"
+        },
+        {
+          "word": "die Ungerechtigkeit",
+          "pos": "noun",
+          "ar": "الظُّلْمَ"
+        },
+        {
+          "word": "mit klaren Argumenten",
+          "pos": "preposition_phrase",
+          "ar": "بِالحُجَجِ الوَاضِحَةِ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Maskulin Nominativ",
+        "Akkusativ Feminin 'die Ungerechtigkeit'",
+        "Präposition 'mit' + Dativ Plural mit Adjektivdeklination 'klaren Argumenten'"
+      ]
+    },
+    {
+      "id": "sent_445",
+      "category": "solidarity_justice",
+      "difficulty": "A1+",
+      "arabic": "التَّضَامُنُ الصَّادِقُ يَبْنِي عَالَمًا أَكْثَرَ عَدْلًا.",
+      "german": "Die ehrliche Solidarität baut eine gerechtere Welt.",
+      "english": "Honest solidarity builds a more just world.",
+      "tokens": [
+        {
+          "word": "Die ehrliche Solidarität",
+          "pos": "noun_phrase",
+          "ar": "التَّضَامُنُ الصَّادِقُ"
+        },
+        {
+          "word": "baut",
+          "pos": "verb",
+          "ar": "يَبْنِي"
+        },
+        {
+          "word": "eine gerechtere Welt",
+          "pos": "noun_phrase",
+          "ar": "عَالَمًا أَكْثَرَ عَدْلًا"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Feminin Nominativ mit Adjektiv",
+        "Akkusativ Feminin mit Komparativ 'eine gerechtere Welt'"
+      ]
     }
   ]
 }

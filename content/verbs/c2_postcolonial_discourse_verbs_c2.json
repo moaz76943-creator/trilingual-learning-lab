@@ -1,0 +1,451 @@
+{
+  "category_id": "c2_postcolonial_discourse_verbs_c2",
+  "category_title": {
+    "ar": "أفعال تحليل الخطاب ما بعد الكولونيالي والتفكيك الإبستيمي",
+    "de": "Postkoloniale Diskursanalyse-, Dekolonisierungs- und Kritikverben",
+    "en": "C2 Post-Colonial Discourse Analysis & Decolonial Critique Verbs"
+  },
+  "level": "C2",
+  "items": [
+    {
+      "id": "verb_dekolonisieren",
+      "german": "dekolonisieren",
+      "arabic": "يُصَفِّي الِاسْتِعْمَارَ / يُحَرِّرُ المَعْرِفَةَ وَالعَقْلَ مِنَ الهَيْمَنَةِ الِاسْتِعْمَارِيَّةِ",
+      "english": "to decolonize knowledge, language, or institutions",
+      "conjugation": {
+        "praesens": "er/sie/es dekolonisiert",
+        "praeteritum": "dekolonisierte",
+        "perfekt": "hat dekolonisiert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "den Geist dekolonisieren",
+        "universitäre Lehrpläne dekolonisieren"
+      ],
+      "example_sentence": {
+        "de": "Ngũgĩ wa Thiong'o forderte in seinem Grundlagenwerk, den Geist von kolonialen Sprachzwängen zu dekolonisieren.",
+        "ar": "دَعَا نْغُوغِي وَا ثِيُونْغُو فِي كِتَابِهِ التَّأْسِيسِيِّ إِلَى تَصْفِيَةِ اسْتِعْمَارِ العَقْلِ مِنَ الإِكْرَاهَاتِ اللُّغَوِيَّةِ الإِمْبِرْيَالِيَّةِ.",
+        "en": "In his seminal work, Ngũgĩ wa Thiong'o urged decolonizing the mind from imperial linguistic constraints."
+      },
+      "image": "assets/svg/verb_dekolonisieren.svg"
+    },
+    {
+      "id": "verb_dezentrieren_post",
+      "german": "dezentrieren",
+      "arabic": "يُزِيحُ المَرْكَزِيَّةَ الأُورُوبِّيَّةَ / يُخَلْخِلُ أُحَادِيَّةَ المَرْكَزِ",
+      "english": "to decenter Eurocentric hegemonies",
+      "conjugation": {
+        "praesens": "er/sie/es dezentriert",
+        "praeteritum": "dezentrierte",
+        "perfekt": "hat dezentriert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "eurozentrische Geschichtsbilder dezentrieren",
+        "den westlichen Kanon dezentrieren"
+      ],
+      "example_sentence": {
+        "de": "Moderne Geschichtsschreibung dezentriert die europäische Perspektive zugunsten global verflochtener Narrative.",
+        "ar": "تُزِيحُ الكِتَابَةُ التَّارِيخِيَّةُ الحَدِيثَةُ المَنْظُورَ الأُورُوبِّيَّ عَنِ المَرْكَزِ لِصَالِحِ سَرْدِيَّاتٍ عَالَمِيَّةٍ مُتَشَابِكَةٍ.",
+        "en": "Modern historiography decenters the European vantage point in favor of globally entangled narratives."
+      },
+      "image": "assets/svg/verb_dezentrieren_post.svg"
+    },
+    {
+      "id": "verb_emanzipieren_sich",
+      "german": "sich emanzipieren",
+      "arabic": "يَتَحَرَّرُ انْعِتَاقِيًّا / يَتَخَلَّصُ مِنَ التَّبَعِيَّةِ الوِصَائِيَّةِ",
+      "english": "to emancipate oneself from subjection",
+      "conjugation": {
+        "praesens": "er/sie/es emanzipiert sich",
+        "praeteritum": "emanzipierte sich",
+        "perfekt": "hat sich emanzipiert"
+      },
+      "preposition": "von + Dat",
+      "collocations": [
+        "sich von kolonialen Denkmustern emanzipieren",
+        "sich aus Unterdrückung emanzipieren"
+      ],
+      "example_sentence": {
+        "de": "Die Gesellschaften des globalen Südens emanzipieren sich zunehmend von den wirtschaftlichen Diktaten früherer Kolonialmächte.",
+        "ar": "تَتَحَرَّرُ مُجْتَمَعَاتُ الجَنُوبِ العَالَمِيِّ بِاطِّرَادٍ مِنْ إِمْلَاءَاتِ القُوَى الِاسْتِعْمَارِيَّةِ السَّابِقَةِ الِاقْتِصَادِيَّةِ.",
+        "en": "Global South societies are increasingly emancipating themselves from the economic dictates of former colonial powers."
+      },
+      "image": "assets/svg/verb_emanzipieren_sich.svg"
+    },
+    {
+      "id": "verb_rekuperieren",
+      "german": "rekuperieren",
+      "arabic": "يَسْتَرِدُّ وَيَسْتَرْجِعُ التُّرَاثَ وَالمَعَارِفَ المُهَمَّشَةَ",
+      "english": "to recuperate marginalized knowledges",
+      "conjugation": {
+        "praesens": "er/sie/es rekuperiert",
+        "praeteritum": "rekuperierte",
+        "perfekt": "hat rekuperiert"
+      },
+      "preposition": "aus + Dat",
+      "collocations": [
+        "verschüttete Traditionen rekuperieren",
+        "indigenes Heilwissen rekuperieren"
+      ],
+      "example_sentence": {
+        "de": "Kritische Anthropologen bemühen sich, vorkoloniales ökologisches Wissen der Ureinwohner sorgfältig zu rekuperieren.",
+        "ar": "يَسْعَى عُلَمَاءُ الأَنْثْرُوبُولُوجْيَا النَّقْدِيَّةِ إِلَى اسْتِرْدَادِ المَعَارِفِ البِيئِيَّةِ الأَصِيلَةِ لِلسُّكَّانِ الأَصْلِيِّينَ بِعِنَايَةٍ.",
+        "en": "Critical anthropologists strive to meticulously recuperate precolonial ecological wisdom of indigenous peoples."
+      },
+      "image": "assets/svg/verb_rekuperieren.svg"
+    },
+    {
+      "id": "verb_unterwandern",
+      "german": "unterwandern",
+      "arabic": "يُقَوِّضُ السَّرْدِيَّاتِ الِاسْتِعْمَارِيَّةَ مِنْ الدَّاخِلِ",
+      "english": "to subvert colonial discourses from within",
+      "conjugation": {
+        "praesens": "er/sie/es unterwandert",
+        "praeteritum": "unterwanderte",
+        "perfekt": "hat unterwandert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "koloniale Machtstrukturen ironisch unterwandern",
+        "hegemoniale Diskurse unterwandern"
+      ],
+      "example_sentence": {
+        "de": "Durch geschickte sprachliche Mimikry unterwanderten postkoloniale Autoren die starren Konventionen der Kolonialsprache.",
+        "ar": "قَوَّضَ كُتَّابُ مَا بَعْدَ الكُولُونْيَالِيَّةِ القَوَالِبَ الصَّارِمَةَ لِلُغَةِ المُسْتَعْمِرِ عَبْرَ المُحَاكَاةِ السَّاخِرَةِ.",
+        "en": "Through clever linguistic mimicry, post-colonial authors subverted the rigid conventions of the imperial language."
+      },
+      "image": "assets/svg/verb_unterwandern.svg"
+    },
+    {
+      "id": "verb_entlarven",
+      "german": "entlarven",
+      "arabic": "يَفْضَحُ الأَقْنِعَةَ وَالخِطَابَاتِ التَّمْدِينِيَّةَ الزَّائِفَةَ",
+      "english": "to unmask imperial civilizing pretensions",
+      "conjugation": {
+        "praesens": "er/sie/es entlarvt",
+        "praeteritum": "entlarvte",
+        "perfekt": "hat entlarvt"
+      },
+      "preposition": "als + Akk",
+      "collocations": [
+        "koloniale Propaganda entlarven",
+        "die vermeintliche Zivilisierungsmission entlarven"
+      ],
+      "example_sentence": {
+        "de": "Aimé Césaire entlarvte in seinem 'Discours sur le colonialisme' die angebliche zivilisatorische Mission als barbarische Ausbeutung.",
+        "ar": "فَضَحَ إِيمِيه سِيزِير فِي 'خِطَابٍ حَوْلَ الِاسْتِعْمَارِ' المَهَمَّةَ التَّمْدِينِيَّةَ المَزْعُومَةَ بَاعْتِبَارِهَا اسْتِغْلَالًا هَمَجِيًّا.",
+        "en": "Aimé Césaire unmasked the purported civilizing mission in his 'Discourse on Colonialism' as barbaric exploitation."
+      },
+      "image": "assets/svg/verb_entlarven.svg"
+    },
+    {
+      "id": "verb_hybridisieren",
+      "german": "hybridisieren",
+      "arabic": "يُهَجِّنُ الثَّقَافَاتِ / يَمْزُجُ العَنَاصِرَ لِصِيَاغَةِ هُوِيَّةٍ جَدِيدَةٍ",
+      "english": "to hybridize cultural expressions",
+      "conjugation": {
+        "praesens": "er/sie/es hybridisiert",
+        "praeteritum": "hybridisierte",
+        "perfekt": "hat hybridisiert"
+      },
+      "preposition": "mit + Dat",
+      "collocations": [
+        "musikalische Traditionen hybridisieren",
+        "literarische Genres hybridisieren"
+      ],
+      "example_sentence": {
+        "de": "Karibische Schriftsteller hybridisierten europäische Literaturformen mit afrikanischen Rhythmen zu einer vitalen Ästhetik.",
+        "ar": "هَجَّنَ كُتَّابُ الكَارِيبِي الأَشْكَالَ الأَدَبِيَّةَ الأُورُوبِّيَّةَ مَعَ الإِيقَاعَاتِ الإِفْرِيقِيَّةِ لِيَصُوغُوا جَمَالِيَّةً حَيَوِيَّةً فَرِيدَةً.",
+        "en": "Caribbean writers hybridized European literary genres with African cadences into a vibrant aesthetic."
+      },
+      "image": "assets/svg/verb_hybridisieren.svg"
+    },
+    {
+      "id": "verb_marginalisieren",
+      "german": "marginalisieren",
+      "arabic": "يُهَمِّشُ / يَدْفَعُ الفِئَاتِ وَالمَعَارِفَ إِلَى الهَامِشِ",
+      "english": "to marginalize subaltern voices",
+      "conjugation": {
+        "praesens": "er/sie/es marginalisiert",
+        "praeteritum": "marginalisierte",
+        "perfekt": "hat marginalisiert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "indigene Völker systematisch marginalisieren",
+        "lokale Dialekte marginalisieren"
+      ],
+      "example_sentence": {
+        "de": "Koloniale Schulsysteme marginalisierten gezielt die regionalen Sprachen zugunsten der imperialen Verwaltungssprache.",
+        "ar": "هَمَّشَتِ النُّظُمُ التَّعْلِيمِيَّةُ الِاسْتِعْمَارِيَّةُ عَمْدًا اللُّغَاتِ المَحَلِّيَّةَ لِصَالِحِ لُغَةِ الإِدَارَةِ الإِمْبِرْيَالِيَّةِ.",
+        "en": "Colonial education systems purposefully marginalized regional vernaculars in favor of imperial administrative languages."
+      },
+      "image": "assets/svg/verb_marginalisieren.svg"
+    },
+    {
+      "id": "verb_problematisieren_post",
+      "german": "problematisieren",
+      "arabic": "يُشَكْلِنُ / يَطْرَحُ المُسَلَّمَاتِ الِاسْتِعْمَارِيَّةَ كَمَسَائِلَ نَقْدِيَّةٍ",
+      "english": "to problematize colonial assumptions",
+      "conjugation": {
+        "praesens": "er/sie/es problematisiert",
+        "praeteritum": "problematisierte",
+        "perfekt": "hat problematisiert"
+      },
+      "preposition": "in + Dat",
+      "collocations": [
+        "den Begriff der Modernisierung problematisieren",
+        "rassistische Stereotype problematisieren"
+      ],
+      "example_sentence": {
+        "de": "Die postkoloniale Theorie problematisiert das Versprechen linearer Modernisierung als verdeckten Kolonialismus.",
+        "ar": "تُشَكْلِنُ النَّظَرِيَّةُ مَا بَعْدَ الكُولُونْيَالِيَّةِ وُعُودَ التَّحْدِيثِ الخَطِّيِّ بَاعْتِبَارِهَا اسْتِعْمَارًا مُبَطَّنًا.",
+        "en": "Post-colonial theory problematizes the promise of linear modernization as covert coloniality."
+      },
+      "image": "assets/svg/verb_problematisieren_post.svg"
+    },
+    {
+      "id": "verb_kontextualisieren_post",
+      "german": "kontextualisieren",
+      "arabic": "يُمَوْضِعُ فِي السِّيَاقِ التَّارِيخِيِّ لِلْهَيْمَنَةِ الِاسْتِعْمَارِيَّةِ",
+      "english": "to contextualize within imperial history",
+      "conjugation": {
+        "praesens": "er/sie/es kontextualisiert",
+        "praeteritum": "kontextualisierte",
+        "perfekt": "hat kontextualisiert"
+      },
+      "preposition": "im Lichte + Gen",
+      "collocations": [
+        "Museumsobjekte historisch kontextualisieren",
+        "klassische Texte kolonialgeschichtlich kontextualisieren"
+      ],
+      "example_sentence": {
+        "de": "Völkerkundemuseen müssen ihre Raubkunst-Bestände im Lichte der kolonialen Gewaltgeschichte transparent kontextualisieren.",
+        "ar": "يَجِبُ عَلَى مَتَاحِفِ الإِثْنُولُوجْيَا مَوْضَعَةُ مُقْتَنَيَاتِهَا المَنْهُوبَةِ بِشَفَافِيَّةٍ فِي ضَوْءِ تَارِيخِ العُنْفِ الِاسْتِعْمَارِيِّ.",
+        "en": "Ethnological museums must transparently contextualize looted artifacts in light of colonial violence."
+      },
+      "image": "assets/svg/verb_kontextualisieren_post.svg"
+    },
+    {
+      "id": "verb_artikulieren",
+      "german": "artikulieren",
+      "arabic": "يُعَبِّرُ صَرَاحَةً عَنْ صَوْتِ المُسْتَضْعَفِينَ وَالمُهَمَّشِينَ",
+      "english": "to articulate subaltern agency and voice",
+      "conjugation": {
+        "praesens": "er/sie/es artikuliert",
+        "praeteritum": "artikulierte",
+        "perfekt": "hat artikuliert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "kollektive Traumata literarisch artikulieren",
+        "politischen Widerstand artikulieren"
+      ],
+      "example_sentence": {
+        "de": "In ihren autobiografischen Texten artikulieren Frauen des globalen Südens ihren doppelten Kampf gegen Kolonialismus und Patriarchat.",
+        "ar": "تُعَبِّرُ نِسَاءُ الجَنُوبِ العَالَمِيِّ فِي سِيَرِهِنَّ الذَّاتِيَّةِ عَنْ نِضَالِهِنَّ المُزْدَوَجِ ضِدَّ الِاسْتِعْمَارِ وَالنِّظَامِ الأَبَوِيِّ.",
+        "en": "In autobiographical memoirs, women of the Global South articulate their dual struggle against colonialism and patriarchy."
+      },
+      "image": "assets/svg/verb_artikulieren.svg"
+    },
+    {
+      "id": "verb_reartikulieren",
+      "german": "reartikulieren",
+      "arabic": "يُعِيدُ صِيَاغَةَ الهُوِيَّةِ وَالمَطَالِبِ بِاسْتِقْلَالٍ تَامٍّ",
+      "english": "to re-articulate identity autonomously",
+      "conjugation": {
+        "praesens": "er/sie/es reartikuliert",
+        "praeteritum": "reartikulierte",
+        "perfekt": "hat reartikuliert"
+      },
+      "preposition": "in + Dat",
+      "collocations": [
+        "nationale Identität neu reartikulieren",
+        "emanzipatorische Forderungen reartikulieren"
+      ],
+      "example_sentence": {
+        "de": "Nach Erlangung der Unabhängigkeit reartikulierten die befreiten Nationen ihr kulturelles Selbstverständnis grundlegend.",
+        "ar": "أَعَادَتِ الشُّعُوبُ المُتَحَرِّرَةُ عَقِبَ نَيْلِ الِاسْتِقْلَالِ صِيَاغَةَ هُوِيَّتِهَا الثَّقَافِيَّةِ بِشَكْلٍ جَذْرِيٍّ.",
+        "en": "Following independence, liberated nations fundamentally re-articulated their cultural self-understanding."
+      },
+      "image": "assets/svg/verb_reartikulieren.svg"
+    },
+    {
+      "id": "verb_provinzialisieren",
+      "german": "provinzialisieren",
+      "arabic": "يُقَوْطِعُ / يُعِيدُ حَصْرَ المَرْكَزِيَّةِ الأُورُوبِّيَّةِ كَخِبْرَةٍ إِقْلِيمِيَّةٍ مُحَدَّدَةٍ",
+      "english": "to provincialize Europe (Dipesh Chakrabarty)",
+      "conjugation": {
+        "praesens": "er/sie/es provinzialisiert",
+        "praeteritum": "provinzialisierte",
+        "perfekt": "hat provinzialisiert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "Europa theoretisch provinzialisieren",
+        "universale Geltungsansprüche provinzialisieren"
+      ],
+      "example_sentence": {
+        "de": "Europa zu provinzialisieren bedeutet, die europäische Moderne als eine spezifische Regionalgeschichte unter vielen zu begreifen.",
+        "ar": "تَقْطِيعُ أُورُوبَّا يَعْنِي فَهْمَ الحَدَاثَةِ الأُورُوبِّيَّةِ كَتَارِيخٍ إِقْلِيمِيٍّ خَاصٍّ بَيْنَ مَسَارَاتٍ حَضَارِيَّةٍ مُتَعَدِّدَةٍ.",
+        "en": "To provincialize Europe entails recognizing European modernity as merely one specific regional trajectory among many."
+      },
+      "image": "assets/svg/verb_provinzialisieren.svg"
+    },
+    {
+      "id": "verb_homogenisieren_crit",
+      "german": "homogenisieren",
+      "arabic": "يُجَانِسُ قَسْرًا / يَطْمِسُ التَّنَوُّعَ وَالتَّعَدُّدَ الثَّقَافِيَّ",
+      "english": "to homogenize pluralistic realities forcibly",
+      "conjugation": {
+        "praesens": "er/sie/es homogenisiert",
+        "praeteritum": "homogenisierte",
+        "perfekt": "hat homogenisiert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "komplexe Gesellschaften homogenisieren",
+        "lokale Kulturen gewaltsam homogenisieren"
+      ],
+      "example_sentence": {
+        "de": "Imperiale Nationalstaaten versuchten historisch, plurale multiethnische Gemeinschaften sprachlich zu homogenisieren.",
+        "ar": "حَاوَلَتِ الدُّوَلُ الإِمْبِرْيَالِيَّةُ تَارِيخِيًّا مُجَانَسَةَ المُجْتَمَعَاتِ مُتَعَدِّدَةِ الأَعْرَاقِ لُغَوِيًّا بِالإِكْرَاهِ.",
+        "en": "Imperial nation-states historically sought to forcibly homogenize multiethnic communities linguistically."
+      },
+      "image": "assets/svg/verb_homogenisieren_crit.svg"
+    },
+    {
+      "id": "verb_differenzieren_post",
+      "german": "differenzieren",
+      "arabic": "يُمَيِّزُ الفُرُوقَ الدَّقِيقَةَ وَيُفَكِّكُ التَّعْمِيمَاتِ الِاسْتِشْرَاقِيَّةَ",
+      "english": "to differentiate nuanced realities against stereotypes",
+      "conjugation": {
+        "praesens": "er/sie/es differenziert",
+        "praeteritum": "differenzierte",
+        "perfekt": "hat differenziert"
+      },
+      "preposition": "zwischen + Dat",
+      "collocations": [
+        "stereotypische Pauschalurteile differenzieren",
+        "lokale Dynamiken differenziert betrachten"
+      ],
+      "example_sentence": {
+        "de": "Kritische Denker differenzieren scharf zwischen westlicher Zivilisation und universalen Menschenrechten.",
+        "ar": "يُمَيِّزُ المُفَكِّرُونَ النَّقْدِيُّونَ بِدِقَّةٍ صَارِمَةٍ بَيْنَ الحَضَارَةِ الغَرْبِيَّةِ وَحُقُوقِ الإِنْسَانِ الكَوْنِيَّةِ الشَّامِلَةِ.",
+        "en": "Critical thinkers sharply differentiate between Western civilization and universal human rights."
+      },
+      "image": "assets/svg/verb_differenzieren_post.svg"
+    },
+    {
+      "id": "verb_restituieren",
+      "german": "restituieren",
+      "arabic": "يَسْتَرِدُّ وَيُعِيدُ الآثَارَ المَنْهُوبَةَ إِلَى أَوْطَانِهَا الأَصْلِيَّةِ",
+      "english": "to restitute cultural heritage to countries of origin",
+      "conjugation": {
+        "praesens": "er/sie/es restituiert",
+        "praeteritum": "restituierte",
+        "perfekt": "hat restituiert"
+      },
+      "preposition": "an + Akk",
+      "collocations": [
+        "koloniales Raubgut an die Herkunftsländer restituieren",
+        "Kulturschätze bedingungslos restituieren"
+      ],
+      "example_sentence": {
+        "de": "Deutschland entschied, die geraubten Benin-Bronzen feierlich an Nigeria zu restituieren.",
+        "ar": "قَرَّرَتْ أَلْمَانِيَا إِعَادَةَ بْرُونْزِيَّاتِ بِنِين المَنْهُوبَةِ رَسْمِيًّا إِلَى نَيْجِيرْيَا.",
+        "en": "Germany resolved to formally restitute the looted Benin Bronzes to Nigeria."
+      },
+      "image": "assets/svg/verb_restituieren.svg"
+    },
+    {
+      "id": "verb_subvertieren",
+      "german": "subvertieren",
+      "arabic": "يَقْلِبُ مَوَازِينَ الهَيْمَنَةِ / يُزَعْزِعُ الخِطَابَ السَّائِدَ",
+      "english": "to subvert dominant imperial discourse",
+      "conjugation": {
+        "praesens": "er/sie/es subvertiert",
+        "praeteritum": "subvertierte",
+        "perfekt": "hat subvertiert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "patriarchale und koloniale Normen subvertieren",
+        "Machtdiskurse subvertieren"
+      ],
+      "example_sentence": {
+        "de": "Durch Parodie und Ironie subvertiert der Theaterregisseur die eurozentrische Überheblichkeit des klassischen Dramas.",
+        "ar": "يُزَعْزِعُ المُخْرِجُ المَسْرَحِيُّ عَبْرَ السُّخْرِيَةِ التَّعَالِيَ المَرْكَزِيَّ الأُورُوبِّيَّ لِلدِّرَامَا الكَلَاسِيكِيَّةِ.",
+        "en": "Through parody and satire, the playwright subverts the Eurocentric conceit of classical drama."
+      },
+      "image": "assets/svg/verb_subvertieren.svg"
+    },
+    {
+      "id": "verb_solidarisieren_sich",
+      "german": "sich solidarisieren",
+      "arabic": "يَتَضَامَنُ عَابِرًا لِلْحُدُودِ مَعَ قَضَايَا التَّحَرُّرِ وَالعَدَالَةِ",
+      "english": "to stand in transcultural solidarity",
+      "conjugation": {
+        "praesens": "er/sie/es solidarisiert sich",
+        "praeteritum": "solidarisierte sich",
+        "perfekt": "hat sich solidarisiert"
+      },
+      "preposition": "mit + Dat",
+      "collocations": [
+        "sich mit indigenen Schutzbewegungen solidarisieren",
+        "grenzüberschreitend solidarisieren"
+      ],
+      "example_sentence": {
+        "de": "Wissenschaftler weltweit solidarisierten sich mit den bedrohten indigenen Völkern des Amazonasgebiets.",
+        "ar": "تَضَامَنَ العُلَمَاءُ حَوْلَ العَالَمِ عَابِرِينَ لِلْحُدُودِ مَعَ الشُّعُوبِ الأَصْلِيَّةِ المَهْدَدَةِ فِي حَوْضِ الأَمَازُونِ.",
+        "en": "Scholars worldwide stood in solidarity with threatened indigenous nations of the Amazon basin."
+      },
+      "image": "assets/svg/verb_solidarisieren_sich.svg"
+    },
+    {
+      "id": "verb_transzendieren_postcol",
+      "german": "transzendieren",
+      "arabic": "يَتَجَاوَزُ ثُنَائِيَّةَ المُسْتَعْمِرِ وَالمُسْتَعْمَرِ نَحْوَ أُفُقٍ إِنْسَانِيٍّ رَحْبٍ",
+      "english": "to transcend the colonizer-colonized binary",
+      "conjugation": {
+        "praesens": "er/sie/es transzendiert",
+        "praeteritum": "transzendierte",
+        "perfekt": "hat transzendiert"
+      },
+      "preposition": "über + Akk",
+      "collocations": [
+        "historische Bitterkeit transzendieren",
+        "koloniale Dichotomien transzendieren"
+      ],
+      "example_sentence": {
+        "de": "Frantz Fanon forderte in 'Schwarze Haut, weiße Masken', die gegenseitige Entfremdung zu transzendieren und ein neues Menschsein zu begründen.",
+        "ar": "دَعَا فْرَانْتْس فَانُون فِي 'بَشَرَةٌ سَوْدَاءُ، أَقْنِعَةٌ بَيْضَاءُ' إِلَى تَجَاوُزِ الِاغْتِرَابِ المُمَارَسِ لِتَأْسِيسِ إِنسَانِيَّةٍ جَدِيدَةٍ.",
+        "en": "Frantz Fanon urged transcending reciprocal alienation to inaugurate a truly decolonized humanism."
+      },
+      "image": "assets/svg/verb_transzendieren_postcol.svg"
+    },
+    {
+      "id": "verb_pluriversalisieren",
+      "german": "pluriversalisieren",
+      "arabic": "يُعَدِّدُ العَوَالِمَ المَعْرِفِيَّةَ / يُؤَسِّسُ لِأُفُقٍ كَوْنِيٍّ مُتَعَدِّدِ المَرَاكِزِ",
+      "english": "to pluriversalize epistemology (creating a world where many worlds fit)",
+      "conjugation": {
+        "praesens": "er/sie/es pluriversalisiert",
+        "praeteritum": "pluriversalisierte",
+        "perfekt": "hat pluriversalisiert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "die globale Philosophie pluriversalisieren",
+        "einen Pluriversalismus begründen"
+      ],
+      "example_sentence": {
+        "de": "Arturo Escobar schlägt vor, die Welt zu pluriversalisieren, damit viele verschiedene Lebensweisen gleichberechtigt nebeneinander existieren.",
+        "ar": "يَقْتَرِحُ أَرْتُورُو إِسْكُوبَار تَعْدِيدَ العَوَالِمِ المَعْرِفِيَّةِ لِصِيَاغَةِ عَالَمٍ تَتَعَايَشُ فِيهِ ثَقَافَاتٌ كَثِيرَةٌ بِعَدَالَةٍ.",
+        "en": "Arturo Escobar proposes pluriversalizing reality to foster a world wherein diverse ways of being co-exist in dignity."
+      },
+      "image": "assets/svg/verb_pluriversalisieren.svg"
+    }
+  ]
+}
