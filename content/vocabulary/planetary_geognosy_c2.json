@@ -1,0 +1,336 @@
+{
+  "category_id": "planetary_geognosy_c2",
+  "category_title": {
+    "ar": "الجيوغنوستيا الكوكبية والإيكولوجيا العميقة وحماية الغلاف الحيوي",
+    "de": "Planetare Geognosie, Tiefenökologie und biosphärische Treuhänderschaft",
+    "en": "Planetary Geognosy, Deep Ecology & Biospheric Stewardship"
+  },
+  "level": "C2",
+  "items": [
+    {
+      "id": "concept_geognosie",
+      "german": "die Geognosie",
+      "plural": "-",
+      "arabic": "الجِيُوغْنُوسْتْيَا (عِلْمُ التَّرْكِيبِ الجِيُولُوجِيِّ لِطَبَقَاتِ الأَرْضِ)",
+      "english": "geognosy (structural mineral geology)",
+      "example_sentence": {
+        "de": "Alexander von Humboldt begründete mit seinen vergleichenden geognostischen Forschungen die moderne Erdsystemwissenschaft.",
+        "ar": "أَسَّسَ أَلِكْسَانْدَر فُون هُومْبُولْدِت بِأَبْحَاثِهِ الجِيُوغْنُوسْتِيَّةِ المُقَارَنَةِ عِلْمَ أَنْظِمَةِ الأَرْضِ الحَدِيثَ.",
+        "en": "Alexander von Humboldt established modern Earth system science through comparative geognostical investigations."
+      },
+      "image": "assets/svg/concept_geognosie.svg"
+    },
+    {
+      "id": "concept_tiefenoekologie",
+      "german": "die Tiefenökologie",
+      "plural": "-",
+      "arabic": "الإِيكُولُوجْيَا العَمِيقَةُ (آرْنِي نَايْس)",
+      "english": "deep ecology (Arne Naess)",
+      "example_sentence": {
+        "de": "Arne Naess postulierte in der Tiefenökologie den intrinsischen Eigenwert aller lebenden Organismen unabhängig von ihrem Nutzen für den Menschen.",
+        "ar": "قَرَّرَ آرْنِي نَايْس فِي الإِيكُولُوجْيَا العَمِيقَةِ القِيمَةَ الذَّاتِيَّةَ الأَصِيلَةَ لِجَمِيعِ الكَائِنَاتِ الحَيَّةِ بِمَعْزِلٍ عَنْ مَنْفَعَتِهَا لِلْبَشَرِ.",
+        "en": "Arne Naess posited in deep ecology the intrinsic value of all living beings regardless of their instrumental human utility."
+      },
+      "image": "assets/svg/concept_tiefenoekologie.svg"
+    },
+    {
+      "id": "concept_gaia_hypothese",
+      "german": "die Gaia-Hypothese",
+      "plural": "-",
+      "arabic": "فَرْضِيَّةُ غَايَا (الأَرْضُ كَكِيَانٍ حَيٍّ مُنَظِّمٍ لِذَاتِهِ - لُوفْلُوك)",
+      "english": "Gaia hypothesis (James Lovelock)",
+      "example_sentence": {
+        "de": "Die Gaia-Hypothese beschreibt die Erde als ein hochkomplexes, selbstregulierendes System zur Erhaltung optimaler Lebensbedingungen.",
+        "ar": "تَصِفُ فَرْضِيَّةُ غَايَا كَوْكَبَ الأَرْضِ كَنِظَامٍ فِيزْيَائِيٍّ حَيَوِيٍّ فَائِقِ التَّعْقِيدِ يُنَظِّمُ ذَاتَهُ لِحِفْظِ ظُرُوفِ الحَيَاةِ.",
+        "en": "The Gaia hypothesis conceptualizes the Earth as an integrated, self-regulating super-organism maintaining biospheric habitability."
+      },
+      "image": "assets/svg/concept_gaia_hypothese.svg"
+    },
+    {
+      "id": "concept_anthropozaen",
+      "german": "das Anthropozän",
+      "plural": "-",
+      "arabic": "عَصْرُ التَّأْثِيرِ البَشَرِيِّ الجِيُولُوجِيِّ (الأَنْثْرُوبُوسِين)",
+      "english": "Anthropocene (geological epoch of human dominance)",
+      "example_sentence": {
+        "de": "Paul Crutzen prägte den Begriff Anthropozän, um zu verdeutlichen, dass der Mensch zum stärksten geologischen Faktor geworden ist.",
+        "ar": "صَاغَ بَاوْل كْرُوتْزِن مُصْطَلَحَ الأَنْثْرُوبُوسِين لِتَأْكِيدِ أَنَّ الإِنْسَانَ صَارَ القُوَّةَ الجِيُولُوجِيَّةَ الأَعْظَمَ تَأْثِيرًا فِي الأَرْضِ.",
+        "en": "Paul Crutzen introduced the Anthropocene to underscore that humankind has evolved into the preeminent geological force shaping Earth."
+      },
+      "image": "assets/svg/concept_anthropozaen.svg"
+    },
+    {
+      "id": "concept_planetare_grenzen",
+      "german": "die planetaren Grenzen",
+      "plural": "die planetaren Grenzen",
+      "arabic": "الحُدُودُ الكَوْكَبِيَّةُ الآمِنَةُ لِلْأَرْضِ (رُوكْسْتْرُوم)",
+      "english": "planetary boundaries (safe operating space for humanity)",
+      "example_sentence": {
+        "de": "Das Überschreiten planetarer Grenzen bei Klimaerwärmung und Biodiversitätsverlust gefährdet die Stabilität des gesamten Erdsystems.",
+        "ar": "يُعَرِّضُ تَجَاوُزُ الحُدُودِ الكَوْكَبِيَّةِ فِي الاحْتِرَارِ المُنَاخِيِّ وَتَدَهْوُرِ التَّنَوُّعِ الحَيَوِيِّ اسْتِقْرَارَ نِظَامِ الأَرْضِ كَافَّةً لِلْخَطَرِ.",
+        "en": "Transgressing planetary boundaries in climate change and biodiversity loss destabilizes the Earth's systemic equilibrium."
+      },
+      "image": "assets/svg/concept_planetare_grenzen.svg"
+    },
+    {
+      "id": "concept_biokreislauf",
+      "german": "der Biokreislauf",
+      "plural": "die Biokreisläufe",
+      "arabic": "الدَّوْرَةُ البَيُولُوجِيَّةُ الحَيَوِيَّةُ لِلْعَنَاصِرِ",
+      "english": "biogeochemical cycle",
+      "example_sentence": {
+        "de": "Störungen im globalen Stickstoff- und Kohlenstoff-Biokreislauf führen zu gravierenden ökologischen Verwerfungen.",
+        "ar": "تَقُودُ الِاضْطِرَابَاتُ فِي دَوْرَتَيِ النِّيتْرُوجِينِ وَالكَرْبُونِ الحَيَوِيَّتَيْنِ الكَوْكَبِيَّتَيْنِ إِلَى اخْتِلَالَاتٍ بِيئِيَّةٍ جَسِيمَةٍ.",
+        "en": "Disruptions in planetary nitrogen and carbon biogeochemical cycles precipitate severe systemic ecological imbalances."
+      },
+      "image": "assets/svg/concept_biokreislauf.svg"
+    },
+    {
+      "id": "concept_kryosphaere",
+      "german": "die Kryosphäre",
+      "plural": "die Kryosphären",
+      "arabic": "الغِلَافُ الجَلِيدِيُّ الكَوْكَبِيُّ",
+      "english": "cryosphere (frozen water realms of Earth)",
+      "example_sentence": {
+        "de": "Das beschleunigte Abschmelzen der Kryosphäre in Grönland und der Antarktis treibt den globalen Meeresspiegelanstieg voran.",
+        "ar": "يَدْفَعُ الذَّوَبَانُ المُتَسَارِعُ لِلْغِلَافِ الجَلِيدِيِّ فِي غْرِينْلَانْدَ وَالقَارَّةِ القُطْبِيَّةِ الجَنُوبِيَّةِ ارْتِفَاعَ مَنْسُوبِ البِحَارِ حَوْلَ العَالَمِ.",
+        "en": "Accelerated thawing across the polar cryosphere accelerates irreversible eustatic sea-level rise worldwide."
+      },
+      "image": "assets/svg/concept_kryosphaere.svg"
+    },
+    {
+      "id": "concept_permafrostboden",
+      "german": "der Permafrostboden",
+      "plural": "die Permafrostböden",
+      "arabic": "التُّرْبَةُ الصَّقِيعِيَّةُ دَائِمَةُ التَّجَمُّدِ",
+      "english": "permafrost soil",
+      "example_sentence": {
+        "de": "Das Tauen arktischer Permafrostböden droht gigantische Mengen gebundenen Methans in die Atmosphäre freizusetzen.",
+        "ar": "يُهَدِّدُ ذَوَبَانُ التُّرْبَةِ الصَّقِيعِيَّةِ القُطْبِيَّةِ بِإِطْلَاقِ كَمِّيَّاتٍ هَائِلَةٍ مِنْ غَازِ المِيثَانِ المَحْبُوسِ إِلَى الغِلَافِ الجَوِّيِّ.",
+        "en": "Thawing Arctic permafrost soils threaten to release immense volumes of sequestered methane into the atmosphere."
+      },
+      "image": "assets/svg/concept_permafrostboden.svg"
+    },
+    {
+      "id": "concept_resilienz_oekosystem",
+      "german": "das Resilienz-Ökosystem",
+      "plural": "die Resilienz-Ökosysteme",
+      "arabic": "النِّظَامُ البِيئِيُّ فَائِقُ المُرُونَةِ وَالتَّعَافِي",
+      "english": "resilient ecosystem",
+      "example_sentence": {
+        "de": "Intakte Mangrovenwälder bilden hochgradig widerstandsfähige Resilienz-Ökosysteme gegen Sturmfluten und Erosion.",
+        "ar": "تُشَكِّلُ غَابَاتُ المَانْغْرُوف السَّلِيمَةُ أَنْظِمَةً بِيئِيَّةً فَائِقَةَ المُرُونَةِ فِي مُوَاجَهَةِ العَوَاصِفِ وَتَآكُلِ الشَّوَاطِئِ.",
+        "en": "Intact mangrove forests constitute exceptionally resilient ecosystems against storm surges and coastal erosion."
+      },
+      "image": "assets/svg/concept_resilienz_oekosystem.svg"
+    },
+    {
+      "id": "concept_oekosphaeren_integritaet",
+      "german": "die Ökosphären-Integrität",
+      "plural": "-",
+      "arabic": "سَلَامَةُ وَتَمَاسُكُ الغِلَافِ الإِيكُولُوجِيِّ الكَوْكَبِيِّ",
+      "english": "ecospheric integrity / biosphere wholeness",
+      "example_sentence": {
+        "de": "Die Bewahrung der Ökosphären-Integrität muss zum völkerrechtlich verbindlichen Staatsziel aller Nationen werden.",
+        "ar": "يَجِبُ أَنْ يُصْبِحَ الحِفَاظُ عَلَى سَلَامَةِ الغِلَافِ الإِيكُولُوجِيِّ هَدَفًا دُسْتُورِيًّا وَدَوْلِيًّا مُلْزِمًا لِجَمِيعِ الدُّوَلِ.",
+        "en": "Preserving ecospheric integrity must become a binding constitutional and international mandate for all nations."
+      },
+      "image": "assets/svg/concept_oekosphaeren_integritaet.svg"
+    },
+    {
+      "id": "concept_ozeanversauerung",
+      "german": "die Ozeanversauerung",
+      "plural": "-",
+      "arabic": "تَحَمُّضُ المُحِيطَاتِ (انْخِفَاضُ قَلَوِيَّةِ مِيَاهِ البَحْرِ)",
+      "english": "ocean acidification",
+      "example_sentence": {
+        "de": "Die Ozeanversauerung behindert die Kalkbildung von Korallenriffen und bedroht marine Nahrungsketten existenziell.",
+        "ar": "يُعِيقُ تَحَمُّضُ المُحِيطَاتِ تَكَلُّسَ الشِّعَابِ المَرْجَانِيَّةِ وَيُهَدِّدُ سَلَاسِلَ الغِذَاءِ البَحْرِيَّةِ تَهْدِيدًا وُجُودِيًّا.",
+        "en": "Ocean acidification inhibits calcification in coral reefs, imperiling marine trophic webs fundamentally."
+      },
+      "image": "assets/svg/concept_ozeanversauerung.svg"
+    },
+    {
+      "id": "concept_biokapazitaet",
+      "german": "die Biokapazität",
+      "plural": "die Biokapazitäten",
+      "arabic": "القُدْرَةُ البَيُولُوجِيَّةُ الاسْتِيعَابِيَّةُ لِلْأَرْضِ",
+      "english": "biocapacity (planetary regenerative capacity)",
+      "example_sentence": {
+        "de": "Der globale Erdüberlastungstag markiert das Datum, an dem die Menschheit die jährliche Biokapazität der Erde aufgebraucht hat.",
+        "ar": "يُحَدِّدُ 'يَوْمُ تَجَاوُزِ طَاقَةِ الأَرْضِ' التَّارِيخَ الَّذِي يَسْتَنْفِدُ فِيهِ البَشَرُ القُدْرَةَ البَيُولُوجِيَّةَ السَّنَوِيَّةَ لِلْكَوْكَبِ.",
+        "en": "Earth Overshoot Day marks the date when humanity has consumed the planet's entire annual biocapacity."
+      },
+      "image": "assets/svg/concept_biokapazitaet.svg"
+    },
+    {
+      "id": "concept_oekologischer_fussabdruck",
+      "german": "der ökologische Fußabdruck",
+      "plural": "die ökologischen Fußabdrücke",
+      "arabic": "البَصْمَةُ الإِيكُولُوجِيَّةُ الكَوْكَبِيَّةُ",
+      "english": "ecological footprint",
+      "example_sentence": {
+        "de": "Ein zukunftsfähiger Lebensstil erfordert die drastische Reduktion des individuellen und kollektiven ökologischen Fußabdrucks.",
+        "ar": "يَتَطَلَّبُ نَمَطُ الحَيَاةِ المُسْتَدَامُ تَقْلِيصًا جَذْرِيًّا لِلْبَصْمَةِ الإِيكُولُوجِيَّةِ الفَرْدِيَّةِ وَالجَمَاعِيَّةِ عَلَى حَدٍّ سَوَاءٍ.",
+        "en": "A viable sustainable lifestyle requires drastic reduction of individual and collective ecological footprints."
+      },
+      "image": "assets/svg/concept_oekologischer_fussabdruck.svg"
+    },
+    {
+      "id": "concept_biodiversitaetskonvention",
+      "german": "die Biodiversitätskonvention",
+      "plural": "die Biodiversitätskonventionen",
+      "arabic": "اتِّفَاقِيَّةُ التَّنَوُّعِ البَيُولُوجِيِّ الكَوْكَبِيِّ",
+      "english": "Convention on Biological Diversity (CBD)",
+      "example_sentence": {
+        "de": "Die Biodiversitätskonvention verpflichtet die Vertragsstaaten, mindestens dreißig Prozent der Land- und Meeresflächen unter Schutz zu stellen.",
+        "ar": "تُلْزِمُ اتِّفَاقِيَّةُ التَّنَوُّعِ البَيُولُوجِيِّ الدُّوَلَ الأَعْضَاءَ بِحِمَايَةِ ثَلَاثِينَ بِالمِئَةِ عَلَى الأَقَلِّ مِنْ مَسَاحَاتِ اليَابِسَةِ وَالبِحَارِ.",
+        "en": "The Convention on Biological Diversity obligates signatory nations to protect at least thirty percent of lands and oceans."
+      },
+      "image": "assets/svg/concept_biodiversitaetskonvention.svg"
+    },
+    {
+      "id": "concept_kipppunkt_klima",
+      "german": "der Kipppunkt",
+      "plural": "die Kipppunkte",
+      "arabic": "نُقْطَةُ التَّحَوُّلِ المُنَاخِيَّةِ الحَرِجَةِ (الكِيبْبُونْكْت)",
+      "english": "climate tipping point (irreversible threshold)",
+      "example_sentence": {
+        "de": "Beim Erreichen des Kipppunkts im Amazonasbecken könnte der Regenwald unumkehrbar in eine trockene Savanne übergehen.",
+        "ar": "عِنْدَ بُلُوغِ نُقْطَةِ التَّحَوُّلِ الحَرِجَةِ فِي حَوْضِ الأَمَازُونِ، قَدْ تَتَحَوَّلُ الغَابَاتُ المَطِيرَةُ حَتْمًا إِلَى سَافَانَا قَاحِلَةٍ.",
+        "en": "Upon crossing the tipping point in the Amazon basin, the rainforest could transition irreversibly into arid savannah."
+      },
+      "image": "assets/svg/concept_kipppunkt_klima.svg"
+    },
+    {
+      "id": "concept_lithosphaere",
+      "german": "die Lithosphäre",
+      "plural": "die Lithosphären",
+      "arabic": "الغِلَافُ الصَّخْرِيُّ لِلْأَرْضِ",
+      "english": "lithosphere (rigid outer crust and mantle of Earth)",
+      "example_sentence": {
+        "de": "Die tektonischen Platten der Lithosphäre schwimmen auf der zähplastischen Asthenosphäre und formen Kontinente.",
+        "ar": "تَطْفُو الصَّفَائِحُ التَّكْتُونِيَّةُ لِلْغِلَافِ الصَّخْرِيِّ فَوْقَ طَبَقَةِ الوِشَاحِ المَرِنَةِ لِتُعِيدَ تَشْكِيلَ القَارَّاتِ.",
+        "en": "The tectonic plates of the lithosphere float upon the semi-plastic asthenosphere, shaping continental geometries."
+      },
+      "image": "assets/svg/concept_lithosphaere.svg"
+    },
+    {
+      "id": "concept_biosphaeren_treuhaenderschaft",
+      "german": "die Biosphären-Treuhänderschaft",
+      "plural": "-",
+      "arabic": "الوَصَايَا وَالأَمَانَةُ الأَخْلَاقِيَّةُ عَلَى الغِلَافِ الحَيَوِيِّ",
+      "english": "biospheric stewardship (ethical trusteeship of Earth)",
+      "example_sentence": {
+        "de": "Das Konzept der Biosphären-Treuhänderschaft begreift den Menschen als treuhänderischen Hüter und nicht als Beherrscher der Erde.",
+        "ar": "يَعْتَبِرُ مَفْهُومُ الأَمَانَةِ الحَيَوِيَّةِ الإِنْسَانَ حَارِسًا مُؤْتَمَنًا عَلَى الأَرْضِ وَلَيْسَ مَالِكًا مُسْتَبِدًّا لَهَا.",
+        "en": "The paradigm of biospheric stewardship conceives humans as fiduciary guardians rather than sovereign masters of the planet."
+      },
+      "image": "assets/svg/concept_biosphaeren_treuhaenderschaft.svg"
+    },
+    {
+      "id": "concept_oekozentrismus_paradigma",
+      "german": "das Ökozentrismus-Paradigma",
+      "plural": "-",
+      "arabic": "مَذْهَبُ التَّمَرْكُزِ الحَيَوِيِّ البِيئِيِّ (الإِيكُوسَنْتْرِيزْم)",
+      "english": "ecocentrism (nature-centered system of values)",
+      "example_sentence": {
+        "de": "Das Ökozentrismus-Paradigma überwindet den Anthropozentrismus und stellt das gesamte Ökosystem in das Zentrum ethischer Reflexion.",
+        "ar": "يَتَجَاوَزُ مَذْهَبُ التَّمَرْكُزِ البِيئِيِّ نَظْرَةَ التَّمَرْكُزِ حَوْلَ الإِنْسَانِ، جَاعِلًا النِّظَامَ الإِيكُولُوجِيَّ قَلْبَ الفَلْسَفَةِ الأَخْلَاقِيَّةِ.",
+        "en": "The ecocentrism paradigm transcends anthropocentrism, placing the entire biotic community at the core of ethical deliberation."
+      },
+      "image": "assets/svg/concept_oekozentrismus_paradigma.svg"
+    },
+    {
+      "id": "concept_remineralisierung_boden",
+      "german": "die Remineralisierung",
+      "plural": "die Remineralisierungen",
+      "arabic": "إِعَادَةُ التَّمَعْدُنِ الطَّبِيعِيِّ لِلتُّرْبَةِ",
+      "english": "soil remineralization",
+      "example_sentence": {
+        "de": "Durch biologische Remineralisierung mit Gesteinsmehl kann ausgelaugter Ackerboden seine fruchtbare Mikrostruktur regenerieren.",
+        "ar": "تَسْتَطِيعُ التُّرْبَةُ الزِّرَاعِيَّةُ المُنْهَكَةُ اسْتِعَادَةَ خُصُوبَتِهَا عَبْرَ إِعَادَةِ التَّمَعْدُنِ بِمَسْحُوقِ الصُّخُورِ الطَّبِيعِيِّ.",
+        "en": "Through biological remineralization with rock dust, depleted topsoils regenerate their fertile microstructure."
+      },
+      "image": "assets/svg/concept_remineralisierung_boden.svg"
+    },
+    {
+      "id": "concept_geomorphologie",
+      "german": "die Geomorphologie",
+      "plural": "-",
+      "arabic": "عِلْمُ تَشَكُّلِ وَتَضَارِيسِ سَطْحِ الأَرْضِ (الجِيُومُورْفُولُوجْيَا)",
+      "english": "geomorphology",
+      "example_sentence": {
+        "de": "Die Geomorphologie erforscht die Entstehung und Transformation von Tälern, Gebirgen und Küstenlinien durch Naturkräfte.",
+        "ar": "تَبْحَثُ الجِيُومُورْفُولُوجْيَا فِي نَشْأَةِ وَتَحَوُّلِ الأَوْدِيَةِ وَالجِبَالِ وَالسَّوَاحِلِ بِفِعْلِ قُوَى الطَّبِيعَةِ.",
+        "en": "Geomorphology investigates the physical genesis and ongoing sculpting of valleys, mountain ranges, and shorelines."
+      },
+      "image": "assets/svg/concept_geomorphologie.svg"
+    },
+    {
+      "id": "concept_pedosphaere",
+      "german": "die Pedosphäre",
+      "plural": "die Pedosphären",
+      "arabic": "غِلَافُ التُّرْبَةِ الحَيَوِيُّ (البِيدُوسْفِير)",
+      "english": "pedosphere (the outermost soil layer of the Earth)",
+      "example_sentence": {
+        "de": "In der Pedosphäre überschneiden sich Lithosphäre, Atmosphäre, Hydrosphäre und Biosphäre zu einer lebendigen Haut der Erde.",
+        "ar": "تَتَقَاطَعُ فِي الغِلَافِ التُّرَابِيِّ (البِيدُوسْفِير) الأَغْلِفَةُ الصَّخْرِيَّةُ وَالجَوِّيَّةُ وَالمَائِيَّةُ لِتُشَكِّلَ غِشَاءَ الأَرْضِ الحَيَّ.",
+        "en": "In the pedosphere, lithosphere, atmosphere, hydrosphere, and biosphere converge into the living epidermis of the Earth."
+      },
+      "image": "assets/svg/concept_pedosphaere.svg"
+    },
+    {
+      "id": "concept_methanhydrat_stabilitaet",
+      "german": "die Methanhydrat-Stabilität",
+      "plural": "-",
+      "arabic": "اسْتِقْرَارُ هِيدْرَاتِ المِيثَانِ فِي أَعْمَاقِ المُحِيطَاتِ",
+      "english": "methane hydrate stability",
+      "example_sentence": {
+        "de": "Erwärmt sich das Tiefenwasser, kollabiert die Methanhydrat-Stabilität und setzt enorme Treibhausgasmengen frei.",
+        "ar": "إِذَا ارْتَفَعَتْ حَرَارَةُ المِيَاهِ العَمِيقَةِ، يَنْهَارُ اسْتِقْرَارُ هِيدْرَاتِ المِيثَانِ مُطْلِقًا غَازَاتِ احْتِبَاسٍ هَائِلَةً.",
+        "en": "Should abyssal waters warm, methane hydrate stability dissolves, releasing catastrophic greenhouse gas pulses."
+      },
+      "image": "assets/svg/concept_methanhydrat_stabilitaet.svg"
+    },
+    {
+      "id": "concept_palaeoklimatologie",
+      "german": "die Paläoklimatologie",
+      "plural": "-",
+      "arabic": "عِلْمُ المُنَاخِ القَدِيمِ وَالحِقَبِ الجِيُولُوجِيَّةِ",
+      "english": "paleoclimatology",
+      "example_sentence": {
+        "de": "Die Paläoklimatologie liest Eisbohrkerne wie ein historisches Archiv vergangener Eiszeiten und Warmphasen.",
+        "ar": "يَقْرَأُ عِلْمُ المُنَاخِ القَدِيمِ عَيِّنَاتِ الجَلِيدِ الأُسْطُوَانِيَّةِ كَأَرْشِيفٍ تَارِيخِيٍّ لِلْعُصُورِ الجَلِيدِيَّةِ وَالمُعْتَدِلَةِ.",
+        "en": "Paleoclimatology deciphers ice-core archives to reconstruct ancient glacial and interglacial climatic dynamics."
+      },
+      "image": "assets/svg/concept_palaeoklimatologie.svg"
+    },
+    {
+      "id": "concept_sukzession_oeko",
+      "german": "die Sukzession",
+      "plural": "die Sukzessionen",
+      "arabic": "التَّعَاقُبُ البِيئِيُّ التِّلْقَائِيُّ لِلأَنْظِمَةِ الحَيَّةِ",
+      "english": "ecological succession",
+      "example_sentence": {
+        "de": "Nach einem Waldbrand stellt die ökologische Sukzession über Pionierpflanzen schrittweise den ursprünglichen Klimaxwald wieder her.",
+        "ar": "تَسْتَعِيدُ عَمَلِيَّةُ التَّعَاقُبِ الإِيكُولُوجِيِّ عَقِبَ حَرَائِقِ الغَابَاتِ نِظَامَ الغَابَةِ الكَامِلَةِ عَبْرَ النَّبَاتَاتِ الرَّائِدَةِ.",
+        "en": "Following a wildfire, ecological succession progressively reconstitutes the climax forest via pioneer communities."
+      },
+      "image": "assets/svg/concept_sukzession_oeko.svg"
+    },
+    {
+      "id": "concept_noosphaere_equilibrium",
+      "german": "das Noosphäre-Equilibrium",
+      "plural": "die Noosphäre-Equilibria",
+      "arabic": "التَّوَازُنُ بَيْنَ العَقْلِ البَشَرِيِّ وَالغِلَافِ الحَيَوِيِّ الكَوْكَبِيِّ",
+      "english": "noosphere-biosphere equilibrium (Vernadsky)",
+      "example_sentence": {
+        "de": "Wladimir Wernadskijs Vision verlangt ein Noosphäre-Equilibrium, in dem menschliche Vernunft die Biosphäre schützt statt sie zu zerstören.",
+        "ar": "تَتَطَلَّبُ رُؤْيَةُ فْلَادِيمِير فِيرْنَادْسْكِي تَهْيِئَةَ تَوَازُنٍ بَيْنَ مَجَالِ العَقْلِ وَالغِلَافِ الحَيَوِيِّ يَحْمِي فِيهِ الفِكْرُ كَوْكَبَ الأَرْضِ.",
+        "en": "Vladimir Vernadsky's vision demands a noosphere equilibrium wherein human cognition safeguards rather than plunders the biosphere."
+      },
+      "image": "assets/svg/concept_noosphaere_equilibrium.svg"
+    }
+  ]
+}

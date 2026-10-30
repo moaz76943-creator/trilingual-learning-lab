@@ -10645,6 +10645,185 @@
         "Subjekt Maskulin Nominativ mit Adjektiv",
         "Präposition 'in' + Dativ Maskulin 'im digitalen Raum'"
       ]
+    },
+    {
+      "id": "sent_456",
+      "category": "earth_beauty",
+      "difficulty": "A1+",
+      "arabic": "الأَرْضُ تُعْطِينَا الحَيَاةَ وَالجَمَالَ دَائِمًا.",
+      "german": "Die Erde gibt uns das Leben und die Schönheit immer.",
+      "english": "The Earth always gives us life and beauty.",
+      "tokens": [
+        {
+          "word": "Die Erde",
+          "pos": "noun",
+          "ar": "الأَرْضُ"
+        },
+        {
+          "word": "gibt",
+          "pos": "verb",
+          "ar": "تُعْطِي"
+        },
+        {
+          "word": "uns",
+          "pos": "dative_pronoun",
+          "ar": "لَنَا (مفعول أول)"
+        },
+        {
+          "word": "das Leben und die Schönheit",
+          "pos": "compound_noun_phrase",
+          "ar": "الحَيَاةَ وَالجَمَالَ"
+        },
+        {
+          "word": "immer",
+          "pos": "adverb",
+          "ar": "دَائِمًا"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Feminin Nominativ",
+        "Dativobjekt 'uns'",
+        "Akkusativobjekt 'das Leben und die Schönheit'"
+      ]
+    },
+    {
+      "id": "sent_457",
+      "category": "protecting_nature",
+      "difficulty": "A1+",
+      "arabic": "نَحْنُ نَحْمِي الطَّبِيعَةَ بِاحْتِرَامٍ عَمِيقٍ.",
+      "german": "Wir schützen die Natur mit tiefem Respekt.",
+      "english": "We protect nature with deep respect.",
+      "tokens": [
+        {
+          "word": "Wir",
+          "pos": "pronoun",
+          "ar": "نَحْنُ"
+        },
+        {
+          "word": "schützen",
+          "pos": "verb",
+          "ar": "نَحْمِي"
+        },
+        {
+          "word": "die Natur",
+          "pos": "noun",
+          "ar": "الطَّبِيعَةَ"
+        },
+        {
+          "word": "mit tiefem Respekt",
+          "pos": "preposition_phrase",
+          "ar": "بِاحْتِرَامٍ عَمِيقٍ"
+        }
+      ],
+      "grammar_points": [
+        "Präsens 1. Person Plural",
+        "Akkusativobjekt Feminin 'die Natur'",
+        "Präposition 'mit' + Dativ Maskulin ohne Artikel 'tiefem Respekt'"
+      ]
+    },
+    {
+      "id": "sent_458",
+      "category": "forests_clean_air",
+      "difficulty": "A1+",
+      "arabic": "الغَابَاتُ تُنَقِّي الهَوَاءَ لِكُلِّ الكَائِنَاتِ.",
+      "german": "Die Wälder reinigen die Luft für alle Lebewesen.",
+      "english": "The forests purify the air for all living beings.",
+      "tokens": [
+        {
+          "word": "Die Wälder",
+          "pos": "noun",
+          "ar": "الغَابَاتُ"
+        },
+        {
+          "word": "reinigen",
+          "pos": "verb",
+          "ar": "تُنَقِّي / تُنَظِّفُ"
+        },
+        {
+          "word": "die Luft",
+          "pos": "noun",
+          "ar": "الهَوَاءَ"
+        },
+        {
+          "word": "für alle Lebewesen",
+          "pos": "preposition_phrase",
+          "ar": "لِكُلِّ الكَائِنَاتِ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Plural 'die Wälder'",
+        "Akkusativ Feminin 'die Luft'",
+        "Präposition 'für' + Akkusativ Plural 'alle Lebewesen'"
+      ]
+    },
+    {
+      "id": "sent_459",
+      "category": "precious_water",
+      "difficulty": "A1+",
+      "arabic": "المَاءُ النَّقِيُّ هُوَ كَنْزُ الكَوْكَبِ الثَّمِينُ.",
+      "german": "Das reine Wasser ist der wertvolle Schatz des Planeten.",
+      "english": "Pure water is the precious treasure of the planet.",
+      "tokens": [
+        {
+          "word": "Das reine Wasser",
+          "pos": "noun_phrase",
+          "ar": "المَاءُ النَّقِيُّ"
+        },
+        {
+          "word": "ist",
+          "pos": "copula_verb",
+          "ar": "هُوَ"
+        },
+        {
+          "word": "der wertvolle Schatz",
+          "pos": "noun_phrase",
+          "ar": "الكَنْزُ الثَّمِينُ"
+        },
+        {
+          "word": "des Planeten",
+          "pos": "genitive_noun",
+          "ar": "الكَوْكَبِ (مضاف إليه)"
+        }
+      ],
+      "grammar_points": [
+        "Prädikativer Nominativ Maskulin mit Adjektivdeklination",
+        "Genitivattribut Maskulin n-Deklination 'des Planeten'"
+      ]
+    },
+    {
+      "id": "sent_460",
+      "category": "future_generations",
+      "difficulty": "A1+",
+      "arabic": "الوَعْيُ البِيئِيُّ يَصُونُ مُسْتَقْبَلَ الأَجْيَالِ القَادِمَةِ.",
+      "german": "Das Umweltbewusstsein bewahrt die Zukunft kommender Generationen.",
+      "english": "Environmental awareness preserves the future of coming generations.",
+      "tokens": [
+        {
+          "word": "Das Umweltbewusstsein",
+          "pos": "noun",
+          "ar": "الوَعْيُ البِيئِيُّ"
+        },
+        {
+          "word": "bewahrt",
+          "pos": "verb",
+          "ar": "يَصُونُ / يَحْفَظُ"
+        },
+        {
+          "word": "die Zukunft",
+          "pos": "noun",
+          "ar": "مُسْتَقْبَلَ"
+        },
+        {
+          "word": "kommender Generationen",
+          "pos": "genitive_noun",
+          "ar": "الأَجْيَالِ القَادِمَةِ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Neutrum Nominativ",
+        "Akkusativ Feminin 'die Zukunft'",
+        "Genitivattribut Plural ohne Artikel mit starker Adjektivendung 'kommender Generationen'"
+      ]
     }
   ]
 }
