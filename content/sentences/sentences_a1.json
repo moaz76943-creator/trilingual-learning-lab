@@ -10475,6 +10475,176 @@
         "Zusammengesetztes Zahlwort im Plural",
         "Akkusativobjekt Feminin 'die Sprachkompetenz'"
       ]
+    },
+    {
+      "id": "sent_451",
+      "category": "feedback_learning",
+      "difficulty": "A1+",
+      "arabic": "النِّظَامُ الذَّكِيُّ يَتَعَلَّمُ مِنَ التَّغْذِيَةِ الرَّاجِعَةِ دَائِمًا.",
+      "german": "Das smarte System lernt aus dem Feedback immer.",
+      "english": "The smart system always learns from feedback.",
+      "tokens": [
+        {
+          "word": "Das smarte System",
+          "pos": "noun_phrase",
+          "ar": "النِّظَامُ الذَّكِيُّ"
+        },
+        {
+          "word": "lernt",
+          "pos": "verb",
+          "ar": "يَتَعَلَّمُ"
+        },
+        {
+          "word": "aus dem Feedback",
+          "pos": "preposition_phrase",
+          "ar": "مِنَ التَّغْذِيَةِ الرَّاجِعَةِ"
+        },
+        {
+          "word": "immer",
+          "pos": "adverb",
+          "ar": "دَائِمًا"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Neutrum Nominativ mit Adjektiv",
+        "Präposition 'aus' + Dativ Neutrum 'dem Feedback'"
+      ]
+    },
+    {
+      "id": "sent_452",
+      "category": "encryption_security",
+      "difficulty": "A1+",
+      "arabic": "نَحْنُ نَحْمِي البَيَانَاتِ بِتَشْفِيرٍ قَوِيٍّ وَمَوْثُوقٍ.",
+      "german": "Wir schützen die Daten mit starker Verschlüsselung.",
+      "english": "We protect data with strong encryption.",
+      "tokens": [
+        {
+          "word": "Wir",
+          "pos": "pronoun",
+          "ar": "نَحْنُ"
+        },
+        {
+          "word": "schützen",
+          "pos": "verb",
+          "ar": "نَحْمِي"
+        },
+        {
+          "word": "die Daten",
+          "pos": "noun",
+          "ar": "البَيَانَاتِ"
+        },
+        {
+          "word": "mit starker Verschlüsselung",
+          "pos": "preposition_phrase",
+          "ar": "بِتَشْفِيرٍ قَوِيٍّ"
+        }
+      ],
+      "grammar_points": [
+        "Akkusativ Plural 'die Daten'",
+        "Präposition 'mit' + Dativ Feminin ohne Artikel mit starker Adjektivendung '-er'"
+      ]
+    },
+    {
+      "id": "sent_453",
+      "category": "digital_audit",
+      "difficulty": "A1+",
+      "arabic": "التَّدْقِيقُ الرَّقْمِيُّ يَكْشِفُ الأَخْطَاءَ الخَفِيَّةَ بِسُرْعَةٍ.",
+      "german": "Das digitale Auditieren entdeckt versteckte Fehler schnell.",
+      "english": "Digital auditing discovers hidden errors quickly.",
+      "tokens": [
+        {
+          "word": "Das digitale Auditieren",
+          "pos": "noun_phrase",
+          "ar": "التَّدْقِيقُ الرَّقْمِيُّ"
+        },
+        {
+          "word": "entdeckt",
+          "pos": "verb",
+          "ar": "يَكْشِفُ"
+        },
+        {
+          "word": "versteckte Fehler",
+          "pos": "noun_phrase",
+          "ar": "الأَخْطَاءَ الخَفِيَّةَ"
+        },
+        {
+          "word": "schnell",
+          "pos": "adverb",
+          "ar": "بِسُرْعَةٍ"
+        }
+      ],
+      "grammar_points": [
+        "Substantivierter Infinitiv im Nominativ Neutrum",
+        "Akkusativ Plural Maskulin ohne Artikel 'versteckte Fehler'"
+      ]
+    },
+    {
+      "id": "sent_454",
+      "category": "transparent_flow",
+      "difficulty": "A1+",
+      "arabic": "الشَّبَكَةُ تُنَظِّمُ تَدَفُّقَ المَعْلُومَاتِ بِشَفَافِيَّةٍ.",
+      "german": "Das Netzwerk reguliert den Informationsfluss transparent.",
+      "english": "The network regulates the flow of information transparently.",
+      "tokens": [
+        {
+          "word": "Das Netzwerk",
+          "pos": "noun",
+          "ar": "الشَّبَكَةُ"
+        },
+        {
+          "word": "reguliert",
+          "pos": "verb",
+          "ar": "تُنَظِّمُ / تَضْبِطُ"
+        },
+        {
+          "word": "den Informationsfluss",
+          "pos": "noun",
+          "ar": "تَدَفُّقَ المَعْلُومَاتِ"
+        },
+        {
+          "word": "transparent",
+          "pos": "adverb",
+          "ar": "بِشَفَافِيَّةٍ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Neutrum Nominativ",
+        "Akkusativ Maskulin mit bestimmtem Artikel 'den Informationsfluss'"
+      ]
+    },
+    {
+      "id": "sent_455",
+      "category": "digital_freedom",
+      "difficulty": "A1+",
+      "arabic": "التَّعَامُلُ الوَاعِي يَضْمَنُ الحُرِّيَّةَ فِي الفَضَاءِ الرَّقْمِيِّ.",
+      "german": "Der bewusste Umgang garantiert Freiheit im digitalen Raum.",
+      "english": "Conscious usage guarantees freedom in digital space.",
+      "tokens": [
+        {
+          "word": "Der bewusste Umgang",
+          "pos": "noun_phrase",
+          "ar": "التَّعَامُلُ الوَاعِي"
+        },
+        {
+          "word": "garantiert",
+          "pos": "verb",
+          "ar": "يَضْمَنُ"
+        },
+        {
+          "word": "Freiheit",
+          "pos": "noun",
+          "ar": "الحُرِّيَّةَ"
+        },
+        {
+          "word": "im digitalen Raum",
+          "pos": "preposition_phrase",
+          "ar": "فِي الفَضَاءِ الرَّقْمِيِّ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Maskulin Nominativ mit Adjektiv",
+        "Präposition 'in' + Dativ Maskulin 'im digitalen Raum'"
+      ]
     }
   ]
 }

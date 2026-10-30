@@ -1,0 +1,451 @@
+{
+  "category_id": "c2_cybernetic_systems_verbs_c2",
+  "category_title": {
+    "ar": "أفعال الإبستيمولوجيا الرقمية والنقد الخوارزمي والأنظمة السيبرنطيقية",
+    "de": "Kybernetische System-, algorithmische Steuerungs- und Datenkritikverben",
+    "en": "C2 Cybernetic Systems & Algorithmic Critique Verbs"
+  },
+  "level": "C2",
+  "items": [
+    {
+      "id": "verb_kybernetisieren",
+      "german": "kybernetisieren",
+      "arabic": "يُحَوْكِمُ سِيبِرْنِطِيقِيًّا / يُخْضِعُ النِّظَامَ لِحَلَقَاتِ الضَّبْطِ الذَّاتِيِّ",
+      "english": "to cybernetize / subject to systemic feedback regulation",
+      "conjugation": {
+        "praesens": "er/sie/es kybernetisiert",
+        "praeteritum": "kybernetisierte",
+        "perfekt": "hat kybernetisiert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "gesellschaftliche Prozesse kybernetisieren",
+        "komplexe Netzwerke kybernetisieren"
+      ],
+      "example_sentence": {
+        "de": "Technokratische Visionäre versuchten im Projekt Cybersyn, die gesamte Volkswirtschaft kybernetisch in Echtzeit zu steuern.",
+        "ar": "حَاوَلَ التِّكْنُوكْرَاطِيُّونَ فِي مَشْرُوعِ 'سَايْبِرْسِين' حَوْكَمَةَ الِاقْتِصَادِ الوَطَنِيِّ بِأَكْمَلِهِ سِيبِرْنِطِيقِيًّا فِي الوَقْتِ الفِعْلِيِّ.",
+        "en": "Technocratic visionaries attempted in Project Cybersyn to cybernetize the national economy in real time."
+      },
+      "image": "assets/svg/verb_kybernetisieren.svg"
+    },
+    {
+      "id": "verb_rueckkoppeln",
+      "german": "rückkoppeln",
+      "arabic": "يَرْبِطُ بِتَغْذِيَةٍ رَاجِعَةٍ سِيبِرْنِطِيقِيَّةٍ / يُنْشِئُ دَوْرَةَ ضَبْطٍ ذَاتِيٍّ",
+      "english": "to create a feedback loop in systemic dynamics",
+      "conjugation": {
+        "praesens": "er/sie/es koppelt rück",
+        "praeteritum": "koppelte rück",
+        "perfekt": "hat rückgekoppelt"
+      },
+      "preposition": "an + Akk / mit + Dat",
+      "collocations": [
+        "Sensordaten an den Steueralgorithmus rückkoppeln",
+        "positive Rückkopplungseffekte erzeugen"
+      ],
+      "example_sentence": {
+        "de": "Das autonome Fahrsystem koppelt die Kameradaten in Millisekunden an die Lenkaktuatoren rück.",
+        "ar": "يَرْبِطُ نِظَامُ القِيَادَةِ الذَّاتِيَّةِ بَيَانَاتِ الكَامِيرَاتِ فِي أَجْزَاءِ الأَلْفِ مِنَ الثَّانِيَةِ بِتَغْذِيَةٍ رَاجِعَةٍ لِمُشَغِّلَاتِ التَّوْجِيهِ.",
+        "en": "The autonomous driving system feeds camera inputs back into steering actuators within milliseconds."
+      },
+      "image": "assets/svg/verb_rueckkoppeln.svg"
+    },
+    {
+      "id": "verb_algorithmisieren",
+      "german": "algorithmisieren",
+      "arabic": "يُخَوْرِزِمُ / يُحَوِّلُ العَمَلِيَّاتِ وَالقَرَارَاتِ إِلَى قَوَاعِدَ خُوَارِزْمِيَّةٍ",
+      "english": "to algorithmize workflows and decision-making",
+      "conjugation": {
+        "praesens": "er/sie/es algorithmisiert",
+        "praeteritum": "algorithmisierte",
+        "perfekt": "hat algorithmisiert"
+      },
+      "preposition": "in + Dat",
+      "collocations": [
+        "juristische Prüfungen algorithmisieren",
+        "Einstellungsverfahren algorithmisieren"
+      ],
+      "example_sentence": {
+        "de": "Großbanken algorithmisieren zunehmend die Bonitätsprüfung, um Kreditentscheidungen in Sekunden zu fällen.",
+        "ar": "تُخَوْرِزِمُ البُنُوكُ العِمْلَاقَةُ بِاطِّرَادٍ تَقْيِيمَ الجَدَارَةِ الِائْتِمَانِيَّةِ لِاتِّخَاذِ قَرَارَاتِ القُرُوضِ فِي ثَوَانٍ مَعْدُودَةٍ.",
+        "en": "Major banks increasingly algorithmize credit scoring to execute lending decisions within seconds."
+      },
+      "image": "assets/svg/verb_algorithmisieren.svg"
+    },
+    {
+      "id": "verb_profilieren_data",
+      "german": "profilieren",
+      "arabic": "يُنَمِّطُ بَيَانِيًّا / يَبْنِي مَلَفَّ تَوْصِيفٍ رَقْمِيٍّ دَقِيقٍ لِسُلُوكِ المُسْتَخْدِمِ",
+      "english": "to profile individuals based on digital behavioral traces",
+      "conjugation": {
+        "praesens": "er/sie/es profiliert",
+        "praeteritum": "profilierte",
+        "perfekt": "hat profiliert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "Nutzerverhaltensmuster profilieren",
+        "Kunden für Werbezwecke profilieren"
+      ],
+      "example_sentence": {
+        "de": "Soziale Medien profilieren Nutzer anhand ihrer Verweildauer bei Beiträgen, um emotionale Reaktionen vorherzusagen.",
+        "ar": "تُنَمِّطُ مَنَصَّاتُ التَّوَاصُلِ الِاجْتِمَاعِيِّ المُسْتَخْدِمِينَ اسْتِنَادًا إِلَى مُدَّةِ بَقَائِهِمْ عِنْدَ المَنْشُورَاتِ لِلتَّنَبُّؤِ بِاسْتِجَابَاتِهِمْ.",
+        "en": "Social media platforms profile users based on screen dwell-time to predict emotional reactions."
+      },
+      "image": "assets/svg/verb_profilieren_data.svg"
+    },
+    {
+      "id": "verb_quantifizieren",
+      "german": "quantifizieren",
+      "arabic": "يُكَمِّمُ / يُحَوِّلُ المَشَاعِرَ وَالعَلَاقَاتِ الكَيْفِيَّةَ إِلَى أَرْقَامٍ مَقِيسَةٍ",
+      "english": "to quantify social and emotional phenomena into metrics",
+      "conjugation": {
+        "praesens": "er/sie/es quantifiziert",
+        "praeteritum": "quantifizierte",
+        "perfekt": "hat quantifiziert"
+      },
+      "preposition": "in + Dat",
+      "collocations": [
+        "menschliche Aufmerksamkeit quantifizieren",
+        "soziale Interaktionen in Metriken quantifizieren"
+      ],
+      "example_sentence": {
+        "de": "Plattformen quantifizieren menschliche Zuneigung in Likes und Shares, um soziale Interaktionen messbar zu machen.",
+        "ar": "تُكَمِّمُ المَنَصَّاتُ الرَّقْمِيَّةُ المَشَاعِرَ الإِنْسَانِيَّةَ فِي صُورَةِ إِعْجَابَاتٍ وَمُشَارَكَاتٍ لِجَعْلِ التَّفَاعُلِ قَابِلًا لِلْقِيَاسِ.",
+        "en": "Platforms quantify human affection into likes and shares to render social interaction measurable."
+      },
+      "image": "assets/svg/verb_quantifizieren.svg"
+    },
+    {
+      "id": "verb_monetarisieren",
+      "german": "monetarisieren",
+      "arabic": "يُسَلِّعُ مَالِيًّا / يُحَوِّلُ البَيَانَاتِ وَالِانْتِبَاهَ إِلَى رِبْحٍ نَقْدِيٍّ",
+      "english": "to monetize data streams and attention",
+      "conjugation": {
+        "praesens": "er/sie/es monetarisiert",
+        "praeteritum": "monetarisierte",
+        "perfekt": "hat monetarisiert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "Nutzerdaten durch zielgerichtete Werbung monetarisieren",
+        "digitale Inhalte monetarisieren"
+      ],
+      "example_sentence": {
+        "de": "Das Geschäftsmodell werbefinanzierter Plattformen beruht darauf, private Nutzerdaten hochprofitabel zu monetarisieren.",
+        "ar": "يَرْتَكِزُ نَمُوذَجُ أَعْمَالِ المَنَصَّاتِ المَجَّانِيَّةِ عَلَى تَسْلِيعِ بَيَانَاتِ المُسْتَخْدِمِينَ الشَّخْصِيَّةِ بِأَرْبَاحٍ طَائِلَةٍ.",
+        "en": "The business model of ad-supported platforms hinges upon profitably monetizing private user data."
+      },
+      "image": "assets/svg/verb_monetarisieren.svg"
+    },
+    {
+      "id": "verb_zensieren_algo",
+      "german": "zensieren",
+      "arabic": "يَفْرِضُ رَقَابَةً خُوَارِزْمِيَّةً / يَحْجُبُ المَحْتَوَى آلِيًّا",
+      "english": "to censor algorithmically / shadowban",
+      "conjugation": {
+        "praesens": "er/sie/es zensiert",
+        "praeteritum": "zensierte",
+        "perfekt": "hat zensiert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "politisch unliebsame Inhalte zensieren",
+        "mittels automatisierter Filter zensieren"
+      ],
+      "example_sentence": {
+        "de": "Automatisierte Uploadfilter zensieren oft versehentlich legitime Satire und künstlerische Parodien.",
+        "ar": "تَحْجُبُ فَلَاتِرُ التَّحْمِيلِ الآلِيَّةُ عَنْ طَرِيقِ الخَطَأِ أَعْمَالَ السُّخْرِيَّةِ المَشْرُوعَةَ وَالمُحَاكَاةَ الفَنِّيَّةَ.",
+        "en": "Automated upload filters frequently censor legitimate satire and artistic parody mistakenly."
+      },
+      "image": "assets/svg/verb_zensieren_algo.svg"
+    },
+    {
+      "id": "verb_deanonymisieren",
+      "german": "de-anonymisieren",
+      "arabic": "يَنْزِعُ حَجْبَ الهُوِيَّةِ / يَكْشِفُ الشَّخْصِيَّةَ الحَقِيقِيَّةَ لِلْبَيَانَاتِ المُعَمَّاةِ",
+      "english": "to de-anonymize supposedly anonymized datasets",
+      "conjugation": {
+        "praesens": "er/sie/es de-anonymisiert",
+        "praeteritum": "de-anonymisierte",
+        "perfekt": "hat de-anonymisiert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "anonymisierte Datensätze durch Kreuzabfragen de-anonymisieren",
+        "Metadaten de-anonymisieren"
+      ],
+      "example_sentence": {
+        "de": "Durch das Verknüpfen scheinbar anonymer Bewegungsprofile mit Kreditkartendaten lassen sich Personen mühelos de-anonymisieren.",
+        "ar": "يُمْكِنُ كَشْفُ هُوِيَّةِ الأَفْرَادِ بِسُهُولَةٍ عَبْرَ مُطَابَقَةِ بَيَانَاتِ الحَرَكَةِ المَجْهُولَةِ مَعَ سِجِلَّاتِ البِطَاقَاتِ الِائْتِمَانِيَّةِ.",
+        "en": "By cross-referencing supposedly anonymous location logs with credit card records, individuals can be readily de-anonymized."
+      },
+      "image": "assets/svg/verb_deanonymisieren.svg"
+    },
+    {
+      "id": "verb_kuratieren",
+      "german": "kuratieren",
+      "arabic": "يَنْتَقِي وَيُشْرِفُ خُوَارِزْمِيًّا / يُهَنْدِسُ فَرْزَ الخُلَاصَاتِ",
+      "english": "to curate feeds and recommendation flows",
+      "conjugation": {
+        "praesens": "er/sie/es kuratiert",
+        "praeteritum": "kuratierte",
+        "perfekt": "hat kuratiert"
+      },
+      "preposition": "nach + Dat",
+      "collocations": [
+        "Nachrichten-Feeds algorithmisch kuratieren",
+        "personalisierte Playlists kuratieren"
+      ],
+      "example_sentence": {
+        "de": "Empfehlungsalgorithmen kuratieren den Newsfeed des Benutzers nach Kriterien maximaler Verweildauer.",
+        "ar": "تَنْتَقِي خُوَارِزْمِيَّاتُ التَّوْصِيَةِ تَدَفُّقَ أَخْبَارِ المُسْتَخْدِمِ اسْتِنَادًا إِلَى مَعَايِيرِ تَحْقِيقِ أَعْلَى مُدَّةِ بَقَاءٍ.",
+        "en": "Recommendation engines curate user feeds according to optimization criteria for maximum engagement."
+      },
+      "image": "assets/svg/verb_kuratieren.svg"
+    },
+    {
+      "id": "verb_nudgen_algo",
+      "german": "nudgen",
+      "arabic": "يَحُثُّ وَيُوَجِّهُ خُفْيَةً / يُدَنْدِنُ بِالسُّلُوكِ عَبْرَ وَاجِهَاتِ التَّصْمِيمِ",
+      "english": "to nudge behavior subliminally through interface architecture",
+      "conjugation": {
+        "praesens": "er/sie/es nudgt",
+        "praeteritum": "nudgte",
+        "perfekt": "hat genudgt"
+      },
+      "preposition": "zu + Dat / in + Akk",
+      "collocations": [
+        "den Nutzer zu In-App-Käufen nudgen",
+        "Verbraucherentscheidungen subtil nudgen"
+      ],
+      "example_sentence": {
+        "de": "Voreingestellte Häkchen und farblich hervorgehobene Buttons nudgen den Kunden unbemerkt zur Datenfreigabe.",
+        "ar": "تَحُثُّ الخَانَاتُ المُؤَشَّرُ عَلَيْهَا مُسْبَقًا وَالأَزْرَارُ المُلَوَّنَةُ العَمِيلَ دُونَ إِدْرَاكٍ مِنْهُ عَلَى مَنْحِ مُوَافَقَتِهِ البَيَانِيَّةِ.",
+        "en": "Pre-ticked checkboxes and brightly highlighted buttons nudge users subtly into granting expansive data permissions."
+      },
+      "image": "assets/svg/verb_nudgen_algo.svg"
+    },
+    {
+      "id": "verb_manipulieren_info",
+      "german": "manipulieren",
+      "arabic": "يَتَلَاعَبُ مَعْلُومَاتِيًّا وَنَفْسِيًّا بِالرَّأْيِ العَامِّ",
+      "english": "to manipulate perception and discourse flows",
+      "conjugation": {
+        "praesens": "er/sie/es manipuliert",
+        "praeteritum": "manipulierte",
+        "perfekt": "hat manipuliert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "Wahlentscheidungen manipulieren",
+        "Meinungsströme durch Botnetze manipulieren"
+      ],
+      "example_sentence": {
+        "de": "Gezielte Microtargeting-Kampagnen vermögen es, Wählergruppen im Vorfeld von Abstimmungen psychologisch zu manipulieren.",
+        "ar": "تَسْتَطِيعُ حَمَلَاتُ الِاسْتِهْدَافِ الدَّقِيقِ التَّلَاعُبَ نَفْسِيًّا بِشَرَائِحِ النَّاخِبِينَ قُبَيْلَ عَمَلِيَّاتِ التَّصْوِيتِ.",
+        "en": "Targeted microtargeting campaigns possess the capacity to psychologically manipulate voter cohorts prior to elections."
+      },
+      "image": "assets/svg/verb_manipulieren_info.svg"
+    },
+    {
+      "id": "verb_automatisieren_proc",
+      "german": "automatisieren",
+      "arabic": "يُؤَتْمِتُ / يُحَوِّلُ إِدَارَةَ المَهَامِّ إِلَى التَّشْغِيلِ الذَّاتِيِّ التِّلْقَائِيِّ",
+      "english": "to automate operational pipelines",
+      "conjugation": {
+        "praesens": "er/sie/es automatisiert",
+        "praeteritum": "automatisierte",
+        "perfekt": "hat automatisiert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "die Moderation von Inhalten automatisieren",
+        "Geschäftsprozesse vollständig automatisieren"
+      ],
+      "example_sentence": {
+        "de": "Plattformen automatisieren die Inhaltsmoderation durch künstliche Intelligenz, um Milliarden Posts täglich zu bewältigen.",
+        "ar": "تُؤَتْمِتُ المَنَصَّاتُ فَرْزَ المَحْتَوَى عَبْرَ الذَّكَاءِ الِاصْطِنَاعِيِّ لِمُعَالَجَةِ مِلْيَارَاتِ المَنْشُورَاتِ يَوْمِيًّا.",
+        "en": "Platforms automate content moderation via artificial intelligence to manage billions of daily posts."
+      },
+      "image": "assets/svg/verb_automatisieren_proc.svg"
+    },
+    {
+      "id": "verb_segmentieren",
+      "german": "segmentieren",
+      "arabic": "يُشَرِّحُ / يُجَزِّئُ الجُمْهُورَ إِلَى شَرَائِحَ دِيمُوغْرَافِيَّةٍ وَسُلُوكِيَّةٍ",
+      "english": "to segment audiences into behavioral cohorts",
+      "conjugation": {
+        "praesens": "er/sie/es segmentiert",
+        "praeteritum": "segmentierte",
+        "perfekt": "hat segmentiert"
+      },
+      "preposition": "nach + Dat",
+      "collocations": [
+        "Wählerschichten psychografisch segmentieren",
+        "den Markt nach Nutzerinteressen segmentieren"
+      ],
+      "example_sentence": {
+        "de": "Marketingalgorithmen segmentieren die Bevölkerung in mikroskopische Zielgruppen für maßgeschneiderte Botschaften.",
+        "ar": "تُشَرِّحُ خُوَارِزْمِيَّاتُ التَّسْوِيقِ المُواطِنِينَ إِلَى فِئَاتٍ مُسْتَهْدَفَةٍ دَقِيقَةٍ لِإِرْسَالِ رَسَائِلَ مُفَصَّلَةٍ لِكُلِّ فَرْدٍ.",
+        "en": "Marketing algorithms segment the populace into granular target cohorts to deliver tailored messages."
+      },
+      "image": "assets/svg/verb_segmentieren.svg"
+    },
+    {
+      "id": "verb_amplifizieren",
+      "german": "amplifizieren",
+      "arabic": "يُضَخِّمُ رَقْمِيًّا / يُعَظِّمُ انْتِشَارَ الخِطَابِ عَبْرَ خُوَارِزْمِيَّاتِ التَّفَاعُلِ",
+      "english": "to amplify sensational content virally",
+      "conjugation": {
+        "praesens": "er/sie/es amplifiziert",
+        "praeteritum": "amplifizierte",
+        "perfekt": "hat amplifiziert"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "empörungsgetriebene Inhalte amplifizieren",
+        "virale Desinformation amplifizieren"
+      ],
+      "example_sentence": {
+        "de": "Empfehlungsalgorithmen neigen dazu, polarisierende und empörende Meldungen überproportional zu amplifizieren.",
+        "ar": "تَمِيلُ خُوَارِزْمِيَّاتُ التَّوْصِيَةِ إِلَى تَضْخِيمِ الأَخْبَارِ المُثِيرَةِ لِلْغَضَبِ وَالِاسْتِقْطَابِ بِشَكْلٍ جَائِرٍ.",
+        "en": "Recommendation algorithms systematically tend to disproportionately amplify sensational and polarizing content."
+      },
+      "image": "assets/svg/verb_amplifizieren.svg"
+    },
+    {
+      "id": "verb_drosseln_traffic",
+      "german": "drosseln",
+      "arabic": "يَخْنُقُ سُرْعَةَ التَّدَفُّقِ / يُقَلِّلُ وُصُولَ المَنْشُورَاتِ خُفْيَةً (شَادُوبَان)",
+      "english": "to throttle bandwidth or algorithmic reach",
+      "conjugation": {
+        "praesens": "er/sie/es drosselt",
+        "praeteritum": "drosselte",
+        "perfekt": "hat gedrosselt"
+      },
+      "preposition": "auf + Akk",
+      "collocations": [
+        "die Reichweite kritischer Kanäle drosseln",
+        "die Datengeschwindigkeit gezielt drosseln"
+      ],
+      "example_sentence": {
+        "de": "Der Konzern drosselte heimlich die Sichtbarkeit bestimmter politischer Debatten in den Suchergebnissen.",
+        "ar": "خَنَقَتِ الشَّرِكَةُ سِرًّا مَدَى انْتِشَارِ وَظُهُورِ بَعْضِ النِّقَاشَاتِ السِّيَاسِيَّةِ فِي نَتَائِجِ البَحْثِ.",
+        "en": "The tech corporation covertly throttled the organic visibility of selected political debates in search queries."
+      },
+      "image": "assets/svg/verb_drosseln_traffic.svg"
+    },
+    {
+      "id": "verb_deplatformieren",
+      "german": "deplatformieren",
+      "arabic": "يَطْرُدُ مِنَ المَنَصَّةِ / يَحْرِمُ مِنَ الفَضَاءِ الرَّقْمِيِّ بِسَبَبِ انْتِهَاكِ الشُّرُوطِ",
+      "english": "to deplatform extremists or rule-breakers",
+      "conjugation": {
+        "praesens": "er/sie/es deplatformiert",
+        "praeteritum": "deplatformierte",
+        "perfekt": "hat deplatformiert"
+      },
+      "preposition": "von + Dat",
+      "collocations": [
+        "Hassredner von allen Netzwerken deplatformieren",
+        "gesperrte Accounts deplatformieren"
+      ],
+      "example_sentence": {
+        "de": "Nach wiederholten Aufrufen zur Gewalt entschieden die Plattformbetreiber, den Demagogen dauerhaft zu deplatformieren.",
+        "ar": "قَرَّرَ مُشَغِّلُو المَنَصَّاتِ طَرْدَ الخَطِيبِ الشَّعْبَوِيِّ نِهَائِيًّا عَقِبَ تَكْرَارِ دَعَوَاتِهِ لِلْعُنْفِ.",
+        "en": "Following repeated incitements to violence, network executives resolved to permanently deplatform the demagogue."
+      },
+      "image": "assets/svg/verb_deplatformieren.svg"
+    },
+    {
+      "id": "verb_anonymisieren",
+      "german": "anonymisieren",
+      "arabic": "يُعَمِّي الهُوِيَّةَ / يُزِيلُ مُعَرِّفَاتِ الشَّخْصِيَّةِ صَوْنًا لِلْخُصُوصِيَّةِ",
+      "english": "to anonymize sensitive records",
+      "conjugation": {
+        "praesens": "er/sie/es anonymisiert",
+        "praeteritum": "anonymisierte",
+        "perfekt": "hat anonymisiert"
+      },
+      "preposition": "vor + Dat",
+      "collocations": [
+        "Patientendaten vor der wissenschaftlichen Analyse anonymisieren",
+        "IP-Adressen anonymisieren"
+      ],
+      "example_sentence": {
+        "de": "Vor der Freigabe für Forschungszwecke müssen alle medizinischen Datensätze strikt anonymisiert werden.",
+        "ar": "يَجِبُ تَعْمِيَةُ كَافَّةِ السِّجِلَّاتِ الطِّبِّيَّةِ وَإِزَالَةُ مُعَرِّفَاتِهَا بِصَرَامَةٍ قَبْلَ إِتَاحَتِهَا لِأَغْرَاضِ البَحْثِ العِلْمِيِّ.",
+        "en": "Prior to release for clinical research, all medical health records must be strictly anonymized."
+      },
+      "image": "assets/svg/verb_anonymisieren.svg"
+    },
+    {
+      "id": "verb_auditieren",
+      "german": "auditieren",
+      "arabic": "يُدَقِّقُ خُوَارِزْمِيًّا / يَفْحَصُ مَنْظُومَاتِ الذَّكَاءِ الاصْطِنَاعِيِّ تَأَكُّدًا مِنَ النَّزَاهَةِ",
+      "english": "to audit algorithmic systems for bias and compliance",
+      "conjugation": {
+        "praesens": "er/sie/es auditiert",
+        "praeteritum": "auditierte",
+        "perfekt": "hat auditiert"
+      },
+      "preposition": "auf + Akk",
+      "collocations": [
+        "KI-Modelle auf Diskriminierung auditieren",
+        "den Algorithmus unabhängig auditieren"
+      ],
+      "example_sentence": {
+        "de": "Unabhängige Prüfinstanzen sollten automatisierte Entscheidungssysteme regelmäßig auf Bias auditieren.",
+        "ar": "يَنْبَغِي لِهَيْئَاتِ الرَّقَابَةِ المُسْتَقِلَّةِ تَدْقِيقُ أَنْظِمَةِ اتِّخَاذِ القَرَارِ الآلِيَّةِ بِانْتِظَامٍ لِفَحْصِ وُجُودِ التَّحَيُّزِ.",
+        "en": "Independent oversight bodies should routinely audit automated decision systems for algorithmic bias."
+      },
+      "image": "assets/svg/verb_auditieren.svg"
+    },
+    {
+      "id": "verb_optimieren_algo",
+      "german": "optimieren",
+      "arabic": "يُحَسِّنُ الكَفَاءَةَ الخُوَارِزْمِيَّةَ وَنِسَبَ التَّفَاعُلِ",
+      "english": "to optimize algorithmic loss functions",
+      "conjugation": {
+        "praesens": "er/sie/es optimiert",
+        "praeteritum": "optimierte",
+        "perfekt": "hat optimiert"
+      },
+      "preposition": "auf + Akk",
+      "collocations": [
+        "auf maximale Klickraten optimieren",
+        "Neuronale Netze durch Gradientenabstieg optimieren"
+      ],
+      "example_sentence": {
+        "de": "Der Empfehlungsalgorithmus wurde darauf optimiert, die Verweildauer des Benutzers um jeden Preis zu maximieren.",
+        "ar": "تَمَّ تَحْسِينُ خُوَارِزْمِيَّةِ التَّوْصِيَةِ لِتَعْظِيمِ زَمَنِ بَقَاءِ المُسْتَخْدِمِ بِأَيِّ ثَمَنٍ كَانَ.",
+        "en": "The recommendation engine was optimized to maximize user retention time at all costs."
+      },
+      "image": "assets/svg/verb_optimieren_algo.svg"
+    },
+    {
+      "id": "verb_rekonfigurieren",
+      "german": "rekonfigurieren",
+      "arabic": "يُعِيدُ تَهْيِئَةَ النِّظَامِ الشَّبَكِيِّ لِلتَّكَيُّفِ مَعَ المُعْطَيَاتِ الجَدِيدَةِ",
+      "english": "to reconfigure cybernetic networks dynamically",
+      "conjugation": {
+        "praesens": "er/sie/es rekonfiguriert",
+        "praeteritum": "rekonfigurierte",
+        "perfekt": "hat rekonfiguriert"
+      },
+      "preposition": "nach + Dat",
+      "collocations": [
+        "Netzwerkarchitekturen dynamisch rekonfigurieren",
+        "die Systemparameter rekonfigurieren"
+      ],
+      "example_sentence": {
+        "de": "Im Falle eines Cyberangriffs rekonfiguriert das Sicherheitsprotokoll die Serverrouten vollautomatisch.",
+        "ar": "يُعِيدُ بُرُوتُوكُولُ الأَمَانِ تَهْيِئَةَ مَسَارَاتِ الخَوَادِمِ تِلْقَائِيًّا كُلِّيًّا عِنْدَ التَّعَرُّضِ لِهُجُومٍ سَيْبِرَانِيٍّ.",
+        "en": "In the event of a cyberattack, the defensive protocol reconfigures server routes autonomously."
+      },
+      "image": "assets/svg/verb_rekonfigurieren.svg"
+    }
+  ]
+}

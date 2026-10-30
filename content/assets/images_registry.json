@@ -33891,5 +33891,105 @@
     "file": "assets/svg/concept_datenethik_ki.svg",
     "category": "media_ecology",
     "alt": "concept datenethik ki"
+  },
+  "assets/svg/verb_profilieren_data.svg": {
+    "file": "assets/svg/verb_profilieren_data.svg",
+    "category": "c2_cybernetic_verbs",
+    "alt": "verb profilieren data"
+  },
+  "assets/svg/verb_deplatformieren.svg": {
+    "file": "assets/svg/verb_deplatformieren.svg",
+    "category": "c2_cybernetic_verbs",
+    "alt": "verb deplatformieren"
+  },
+  "assets/svg/verb_kybernetisieren.svg": {
+    "file": "assets/svg/verb_kybernetisieren.svg",
+    "category": "c2_cybernetic_verbs",
+    "alt": "verb kybernetisieren"
+  },
+  "assets/svg/verb_kuratieren.svg": {
+    "file": "assets/svg/verb_kuratieren.svg",
+    "category": "c2_cybernetic_verbs",
+    "alt": "verb kuratieren"
+  },
+  "assets/svg/verb_rekonfigurieren.svg": {
+    "file": "assets/svg/verb_rekonfigurieren.svg",
+    "category": "c2_cybernetic_verbs",
+    "alt": "verb rekonfigurieren"
+  },
+  "assets/svg/verb_segmentieren.svg": {
+    "file": "assets/svg/verb_segmentieren.svg",
+    "category": "c2_cybernetic_verbs",
+    "alt": "verb segmentieren"
+  },
+  "assets/svg/verb_anonymisieren.svg": {
+    "file": "assets/svg/verb_anonymisieren.svg",
+    "category": "c2_cybernetic_verbs",
+    "alt": "verb anonymisieren"
+  },
+  "assets/svg/verb_algorithmisieren.svg": {
+    "file": "assets/svg/verb_algorithmisieren.svg",
+    "category": "c2_cybernetic_verbs",
+    "alt": "verb algorithmisieren"
+  },
+  "assets/svg/verb_quantifizieren.svg": {
+    "file": "assets/svg/verb_quantifizieren.svg",
+    "category": "c2_cybernetic_verbs",
+    "alt": "verb quantifizieren"
+  },
+  "assets/svg/verb_deanonymisieren.svg": {
+    "file": "assets/svg/verb_deanonymisieren.svg",
+    "category": "c2_cybernetic_verbs",
+    "alt": "verb deanonymisieren"
+  },
+  "assets/svg/verb_nudgen_algo.svg": {
+    "file": "assets/svg/verb_nudgen_algo.svg",
+    "category": "c2_cybernetic_verbs",
+    "alt": "verb nudgen algo"
+  },
+  "assets/svg/verb_auditieren.svg": {
+    "file": "assets/svg/verb_auditieren.svg",
+    "category": "c2_cybernetic_verbs",
+    "alt": "verb auditieren"
+  },
+  "assets/svg/verb_zensieren_algo.svg": {
+    "file": "assets/svg/verb_zensieren_algo.svg",
+    "category": "c2_cybernetic_verbs",
+    "alt": "verb zensieren algo"
+  },
+  "assets/svg/verb_manipulieren_info.svg": {
+    "file": "assets/svg/verb_manipulieren_info.svg",
+    "category": "c2_cybernetic_verbs",
+    "alt": "verb manipulieren info"
+  },
+  "assets/svg/verb_rueckkoppeln.svg": {
+    "file": "assets/svg/verb_rueckkoppeln.svg",
+    "category": "c2_cybernetic_verbs",
+    "alt": "verb rueckkoppeln"
+  },
+  "assets/svg/verb_drosseln_traffic.svg": {
+    "file": "assets/svg/verb_drosseln_traffic.svg",
+    "category": "c2_cybernetic_verbs",
+    "alt": "verb drosseln traffic"
+  },
+  "assets/svg/verb_automatisieren_proc.svg": {
+    "file": "assets/svg/verb_automatisieren_proc.svg",
+    "category": "c2_cybernetic_verbs",
+    "alt": "verb automatisieren proc"
+  },
+  "assets/svg/verb_amplifizieren.svg": {
+    "file": "assets/svg/verb_amplifizieren.svg",
+    "category": "c2_cybernetic_verbs",
+    "alt": "verb amplifizieren"
+  },
+  "assets/svg/verb_monetarisieren.svg": {
+    "file": "assets/svg/verb_monetarisieren.svg",
+    "category": "c2_cybernetic_verbs",
+    "alt": "verb monetarisieren"
+  },
+  "assets/svg/verb_optimieren_algo.svg": {
+    "file": "assets/svg/verb_optimieren_algo.svg",
+    "category": "c2_cybernetic_verbs",
+    "alt": "verb optimieren algo"
   }
 }
