@@ -1,0 +1,336 @@
+{
+  "category_id": "quantum_semiotics_c2",
+  "category_title": {
+    "ar": "السيميوطيقا الكمومية والمعلومات الهولوغرافية وفيزياء نقطة الصفر",
+    "de": "Quantensemiotik, holographische Informationstheorie und Nullpunkt-Physik",
+    "en": "Quantum Semiotics, Holographic Information & Zero-Point Physics"
+  },
+  "level": "C2",
+  "items": [
+    {
+      "id": "concept_quantensemiotik",
+      "german": "die Quantensemiotik",
+      "plural": "die Quantensemiotiken",
+      "arabic": "السِّيمْيُوطِيقَا الكَمُّومِيَّةُ (تَشْفِيرُ المَعْنَى عَبْرَ الحَالَاتِ الكَمِّيَّةِ)",
+      "english": "quantum semiotics",
+      "example_sentence": {
+        "de": "Die Quantensemiotik erforscht die informationelle Natur physikalischer Zustände als fundamentale Zeichenprozesse des Universums.",
+        "ar": "تَبْحَثُ السِّيمْيُوطِيقَا الكَمُّومِيَّةُ فِي الطَّبِيعَةِ المَعْلُومَاتِيَّةِ لِلْحَالَاتِ الفِيزْيَائِيَّةِ كَعَمَلِيَّاتِ عَلَامَاتٍ جَوْهَرِيَّةٍ فِي الكَوْنِ.",
+        "en": "Quantum semiotics investigates the informational nature of physical states as fundamental sign processes of the universe."
+      },
+      "image": "assets/svg/concept_quantensemiotik.svg"
+    },
+    {
+      "id": "concept_holographisches_prinzip_phys",
+      "german": "das holographische Prinzip",
+      "plural": "-",
+      "arabic": "المَبْدَأُ الهُولُوغْرَافِيُّ فِي الفِيزْيَاءِ النَّظَرِيَّةِ (تْهُوفْت وَسَسْكِينْد)",
+      "english": "holographic principle ('t Hooft & Susskind)",
+      "example_sentence": {
+        "de": "Das holographische Prinzip besagt, dass die gesamte Information eines Raumvolumens auf dessen zweidimensionaler Grenzfläche kodiert ist.",
+        "ar": "يَقْضِي المَبْدَأُ الهُولُوغْرَافِيُّ بِأَنَّ كَافَّةَ مَعْلُومَاتِ حَجْمٍ مَكَانِيٍّ مُعَيَّنٍ مُشَفَّرَةٌ عَلَى سَطْحِهِ الحُدُودِيِّ ثُنَائِيِّ الأَبْعَادِ.",
+        "en": "The holographic principle postulates that all information within a volume of space is encoded on its lower-dimensional boundary."
+      },
+      "image": "assets/svg/concept_holographisches_prinzip_phys.svg"
+    },
+    {
+      "id": "concept_nullpunkt_energiefeld",
+      "german": "das Nullpunkt-Energiefeld",
+      "plural": "die Nullpunkt-Energiefelder",
+      "arabic": "حَقْلُ طَاقَةِ نُقْطَةِ الصِّفْرِ (الفَرَاغُ الكَمِّيُّ الفَعَّالُ)",
+      "english": "zero-point energy field",
+      "example_sentence": {
+        "de": "Selbst beim absoluten Nullpunkt der Temperatur verbleibt im Quantenvakuum das unzerstörbare Nullpunkt-Energiefeld.",
+        "ar": "حَتَّى عِنْدَ الصِّفْرِ المُطْلَقِ لِدَرَجَاتِ الحَرَارَةِ، يَبْقَى حَقْلُ طَاقَةِ نُقْطَةِ الصِّفْرِ غَيْرُ القَابِلِ لِلْفَنَاءِ نَاشِطًا فِي الفَرَاغِ الكَمِّيِّ.",
+        "en": "Even at absolute zero temperature, the indestructible zero-point energy field persists within the quantum vacuum."
+      },
+      "image": "assets/svg/concept_nullpunkt_energiefeld.svg"
+    },
+    {
+      "id": "concept_quantenueberlagerung",
+      "german": "die Quantenüberlagerung",
+      "plural": "die Quantenüberlagerungen",
+      "arabic": "التَّرَاكُبُ الكَمُّومِيُّ (حَالَةُ السُّوبَرْبُوزِيشِن)",
+      "english": "quantum superposition",
+      "example_sentence": {
+        "de": "Vor der Messung existiert das Teilchen in einer kohärenten Quantenüberlagerung aller möglichen Zustände gleichzeitig.",
+        "ar": "يَقْبَعُ الجُسَيْمُ قَبْلَ القِيَاسِ فِي تَرَاكُبٍ كَمُّومِيٍّ مُتَرَابِطٍ يَجْمَعُ كُلَّ الحَالَاتِ المُمْكِنَةِ فِي آنٍ وَاحِدٍ.",
+        "en": "Prior to measurement, a quantum particle exists in a coherent superposition of all possible states simultaneously."
+      },
+      "image": "assets/svg/concept_quantenueberlagerung.svg"
+    },
+    {
+      "id": "concept_wellenfunktion_dekohaerenz",
+      "german": "die Wellenfunktion-Dekohärenz",
+      "plural": "-",
+      "arabic": "انْهِيارُ الدَّالَّةِ المَوْجِيَّةِ / فُقْدَانُ التَّرَابُطِ الكَمِّيِّ (الدِّيكُوهِيرِنْس)",
+      "english": "wave function collapse / quantum decoherence",
+      "example_sentence": {
+        "de": "Durch Interaktion mit der thermischen Umwelt bricht die Wellenfunktion durch Dekohärenz in klassische Wahrscheinlichkeiten zusammen.",
+        "ar": "تَنْهَارُ الدَّالَّةُ المَوْجِيَّةُ بِفِعْلِ التَّفَاعُلِ مَعَ المَسْرَحِ الحَرَارِيِّ لِتَتَحَوَّلَ عَبْرَ فُقْدَانِ التَّرَابُطِ إِلَى احْتِمَالَاتٍ كَلَاسِيكِيَّةٍ.",
+        "en": "Through environmental interaction, the wave function undergoes decoherence, collapsing into classical definite outcomes."
+      },
+      "image": "assets/svg/concept_wellenfunktion_dekohaerenz.svg"
+    },
+    {
+      "id": "concept_quantenverschraenkung_phys",
+      "german": "die Quantenverschränkung",
+      "plural": "die Quantenverschränkungen",
+      "arabic": "التَّشَابُكُ الكَمُّومِيُّ (الارْتِبَاطُ اللَّامَحَلِّيُّ الفَوْرِيُّ)",
+      "english": "quantum entanglement",
+      "example_sentence": {
+        "de": "Zwei verschränkte Photonen teilen augenblicklich ihren Zustand, ganz gleich wie viele Lichtjahre sie voneinander trennen.",
+        "ar": "يَتَشَاطَرُ فُوتُونَانِ مُتَشَابِكَانِ حَالَتَهُمَا لَحْظِيًّا، مَهْمَا بَلَغَتِ السَّنَوَاتُ الضَّوْئِيَّةُ الَّتِي تَفْصِلُ بَيْنَهُمَا فِي الفَضَاءِ.",
+        "en": "Two entangled photons instantaneously correlate their states, regardless of how many light-years separate them."
+      },
+      "image": "assets/svg/concept_quantenverschraenkung_phys.svg"
+    },
+    {
+      "id": "concept_epr_paradoxon",
+      "german": "das EPR-Paradoxon",
+      "plural": "-",
+      "arabic": "مُفَارَقَةُ أَيْنِشْتَايِن-بُودُولْسِكِي-رُوزِن (التَّأْثِيرُ الشَّبَحِيُّ عَنْ بُعْدٍ)",
+      "english": "EPR paradox ('spooky action at a distance')",
+      "example_sentence": {
+        "de": "Einstein kritisierte mit dem EPR-Paradoxon die Quantenmechanik als unvollständig wegen der unheimlichen Fernwirkung.",
+        "ar": "انْتَقَدَ أَيْنِشْتَايِن بِمُفَارَقَةِ EPR مِيكَانِيكَا الكَمِّ مُعْتَبِرًا إِيَّاهَا نَاقِصَةً لِرَفْضِهِ التَّأْثِيرَ الشَّبَحِيَّ عَنْ بُعْدٍ.",
+        "en": "Einstein critiqued quantum mechanics via the EPR paradox as incomplete due to what he termed spooky action at a distance."
+      },
+      "image": "assets/svg/concept_epr_paradoxon.svg"
+    },
+    {
+      "id": "concept_quantenbeobachter_effekt",
+      "german": "der Quantenbeobachter-Effekt",
+      "plural": "die Quantenbeobachter-Effekte",
+      "arabic": "أَثَرُ المُلَاحِظِ الكَمُّومِيِّ (تَغَيُّرُ الوَاقِعِ بِفِعْلِ الرَّصْدِ)",
+      "english": "quantum observer effect",
+      "example_sentence": {
+        "de": "Im Doppelspaltversuch belegt der Beobachter-Effekt, dass der Akt der Messung das Verhalten von Elektronen fundamental modifiziert.",
+        "ar": "يُثْبِتُ أَثَرُ المُلَاحِظِ فِي تَجْرِبَةِ الشَّقِّ المُزْدَوَجِ أَنَّ فِعْلَ الرَّصْدِ يُغَيِّرُ جَوْهَرِيًّا سُلُوكَ الإِلِكْتْرُونَاتِ مِنْ مَوْجَةٍ إِلَى جُسَيْمٍ.",
+        "en": "In the double-slit experiment, the observer effect demonstrates that the act of measurement alters electron behavior fundamentally."
+      },
+      "image": "assets/svg/concept_quantenbeobachter_effekt.svg"
+    },
+    {
+      "id": "concept_quantenteleportation",
+      "german": "die Quantenteleportation",
+      "plural": "die Quantenteleportationen",
+      "arabic": "النَّقْلُ الآنِيُّ الكَمُّومِيُّ لِلْمَعْلُومَاتِ",
+      "english": "quantum teleportation",
+      "example_sentence": {
+        "de": "Mittels Quantenteleportation gelingt die exakte Übertragung unbekannter Qubit-Zustände über Glasfasernetze.",
+        "ar": "يَتَحَقَّقُ عَبْرَ النَّقْلِ الآنِيِّ الكَمُّومِيِّ النَّقْلُ الدَّقِيقُ لِحَالَاتِ الكِيُوبِت دُونَ نَقْلِ المَادَّةِ نَفْسِهَا فِيزْيَائِيًّا.",
+        "en": "Through quantum teleportation, the precise state of an unknown qubit is transferred across fiber networks."
+      },
+      "image": "assets/svg/concept_quantenteleportation.svg"
+    },
+    {
+      "id": "concept_qubit_basis",
+      "german": "das Qubit",
+      "plural": "die Qubits",
+      "arabic": "الكِيُوبِت (البِتُّ الكَمُّومِيُّ لِمُعَالَجَةِ المَعْلُومَاتِ الفَائِقَةِ)",
+      "english": "qubit (quantum bit)",
+      "example_sentence": {
+        "de": "Im Unterschied zum klassischen Bit kann ein Qubit dank Überlagerung die Werte Null und Eins simultan annehmen.",
+        "ar": "بِخِلَافِ البِتِّ الكَلَاسِيكِيِّ، يَسْتَطِيعُ الكِيُوبِت حَمْلَ قِيمَتَيِ الصِّفْرِ وَالوَاحِدِ فِي آنٍ مَعًا بِفَضْلِ التَّرَاكُبِ.",
+        "en": "Unlike a classical bit, a qubit can exist in a superposition of both zero and one states simultaneously."
+      },
+      "image": "assets/svg/concept_qubit_basis.svg"
+    },
+    {
+      "id": "concept_quantenkryptographie",
+      "german": "die Quantenkryptographie",
+      "plural": "-",
+      "arabic": "التَّشْفِيرُ الكَمُّومِيُّ غَيْرُ القَابِلِ لِلِاخْتِرَاقِ",
+      "english": "quantum cryptography (quantum key distribution)",
+      "example_sentence": {
+        "de": "Die Quantenkryptographie garantiert abhörsichere Kommunikation, da jeder Spionageversuch den Schlüssel physikalisch zerstört.",
+        "ar": "يَضْمَنُ التَّشْفِيرُ الكَمُّومِيُّ اتِّصَالَاتٍ آمِنَةً تَمَامًا، إِذْ يُؤَدِّي أَيُّ تَجَسُّسٍ إِلَى إِتْلَافِ المَفَاتِيحِ فِيزْيَائِيًّا فَوْرًا.",
+        "en": "Quantum cryptography guarantees unhackable communications because any interception collapses the physical quantum keys."
+      },
+      "image": "assets/svg/concept_quantenkryptographie.svg"
+    },
+    {
+      "id": "concept_planck_wirkungsquantum",
+      "german": "das Planck-Wirkungsquantum",
+      "plural": "-",
+      "arabic": "ثَابِتُ بِلَانْك الكَمُّومِيُّ (كَمُّ الفِعْلِ الأَصْغَرِ)",
+      "english": "Planck's constant (quantum of action)",
+      "example_sentence": {
+        "de": "Das Planck-Wirkungsquantum h markiert die fundamentale Grenze, an der die kontinuierliche Physik in Quantenstufen übergeht.",
+        "ar": "يُمَثِّلُ ثَابِتُ بِلَانْك الحَدَّ الأَسَاسِيَّ الَّذِي يَتَحَوَّلُ عِنْدَهُ النِّظَامُ الفِيزْيَائِيُّ المُتَّصِلُ إِلَى قَفَزَاتٍ كَمِّيَّةٍ دَقِيقَةٍ.",
+        "en": "Planck's constant marks the fundamental threshold where continuous physical descriptions yield to discrete quantum packets."
+      },
+      "image": "assets/svg/concept_planck_wirkungsquantum.svg"
+    },
+    {
+      "id": "concept_vakuumfluktuation",
+      "german": "die Vakuumfluktuation",
+      "plural": "die Vakuumfluktuationen",
+      "arabic": "التَّقَلُّبَاتُ الفَرَاغِيَّةُ الكَمُّومِيَّةُ (تَخَلُّقُ الجُسَيْمَاتِ الِافْتِرَاضِيَّةِ)",
+      "english": "quantum vacuum fluctuation",
+      "example_sentence": {
+        "de": "Vakuumfluktuationen erzeugen für winzige Bruchteile von Sekunden Paare virtueller Teilchen im scheinbar leeren Raum.",
+        "ar": "تُوَلِّدُ التَّقَلُّبَاتُ الفَرَاغِيَّةُ أَزْوَاجًا مِنْ الجُسَيْمَاتِ الِافْتِرَاضِيَّةِ لِأَجْزَاءٍ ضَئِيلَةٍ مِنَ الثَّانِيَةِ فِي الفَرَاغِ الخَالِي.",
+        "en": "Vacuum fluctuations spawn pairs of virtual particle-antiparticle twins for fleeting fractions of a second in empty space."
+      },
+      "image": "assets/svg/concept_vakuumfluktuation.svg"
+    },
+    {
+      "id": "concept_quantenkohaerenz",
+      "german": "die Quantenkohärenz",
+      "plural": "-",
+      "arabic": "التَّرَابُطُ وَالِانْسِجَامُ الكَمُّومِيُّ المَوْجِيُّ",
+      "english": "quantum coherence",
+      "example_sentence": {
+        "de": "Um Quantencomputer stabil zu betreiben, muss die empfindliche Quantenkohärenz vor thermischem Rauschen geschützt werden.",
+        "ar": "لِتَشْغِيلِ الحَوَاسِيبِ الكَمِّيَّةِ بِاسْتِقْرَارٍ، يَجِبُ حِمَايَةُ التَّرَابُطِ الكَمُّومِيِّ الحَسَّاسِ مِنَ الضَّجِيجِ الحَرَارِيِّ.",
+        "en": "To operate quantum processors stably, delicate quantum coherence must be shielded against environmental thermal noise."
+      },
+      "image": "assets/svg/concept_quantenkohaerenz.svg"
+    },
+    {
+      "id": "concept_casimir_effekt",
+      "german": "das Casimir-Effekt-Phänomen",
+      "plural": "-",
+      "arabic": "ظَاهِرَةُ تَأْثِيرِ كَازِيمِير (قُوَى التَّجَاذُبِ الفَرَاغِيَّةِ)",
+      "english": "Casimir effect (macroscopic force from vacuum fluctuations)",
+      "example_sentence": {
+        "de": "Der Casimir-Effekt beweist die reale Existenz von Vakuumfluktuationen durch messbare Anziehungskräfte zwischen zwei Metallplatten.",
+        "ar": "يُثْبِتُ تَأْثِيرُ كَازِيمِير الوُجُودَ الحَقِيقِيَّ لِطَاقَةِ الفَرَاغِ عَبْرَ قُوَّةِ تَجَاذُبٍ مَقِيسَةٍ بَيْنَ لَوْحَيْنِ مَعْدِنِيَّيْنِ فِي الفَرَاغِ.",
+        "en": "The Casimir effect demonstrates the physical reality of vacuum energy through measurable attraction between parallel plates."
+      },
+      "image": "assets/svg/concept_casimir_effekt.svg"
+    },
+    {
+      "id": "concept_raumzeit_quantelung",
+      "german": "die Raumzeit-Quantelung",
+      "plural": "-",
+      "arabic": "تَكْمِيمُ نَسِيجِ الزَّمَكَانِ (حَبِيبَاتُ الفَضَاءِ الدُّنْيَا)",
+      "english": "spacetime quantization (loop quantum gravity)",
+      "example_sentence": {
+        "de": "Die Schleifenquantengravitation postuliert die diskrete Raumzeit-Quantelung in winzigen Planck-Volumina.",
+        "ar": "تَفْتَرِضُ نَظَرِيَّةُ الجَاذِبِيَّةِ الكَمِّيَّةِ الحَلَقِيَّةِ تَكْمِيمَ الKeyزَّمَكَانِ فِي حُجُومٍ حَبِيبِيَّةٍ مُنْفَصِلَةٍ عَلَى مِقْيَاسِ بِلَانْك.",
+        "en": "Loop quantum gravity posits discrete spacetime quantization into minuscule, indivisible Planckian volume packets."
+      },
+      "image": "assets/svg/concept_raumzeit_quantelung.svg"
+    },
+    {
+      "id": "concept_nicht_lokalitaet",
+      "german": "die Nicht-Lokalität",
+      "plural": "-",
+      "arabic": "اللَّا مَحَلِّيَّةُ الكَمُّومِيَّةُ (الفِعْلُ الكَوْنِيُّ الشَّامِلُ المُتَعَدِّي لِلْمَسَافَةِ)",
+      "english": "quantum non-locality",
+      "example_sentence": {
+        "de": "Bells Theorem und Alain Aspects Experimente bestätigten die fundamentale Nicht-Lokalität der Quantenwelt endgültig.",
+        "ar": "أَكَّدَتْ مُبَرْهَنَةُ بِل وَتَجَارِبُ آلَان أَسْبِيه بِشَكْلٍ حَاسِمٍ صِحَّةَ اللَّا مَحَلِّيَّةِ الجَوْهَرِيَّةِ لِعَالَمِ الكَمِّ.",
+        "en": "Bell's theorem and Alain Aspect's experiments conclusively validated the fundamental non-locality of quantum reality."
+      },
+      "image": "assets/svg/concept_nicht_lokalitaet.svg"
+    },
+    {
+      "id": "concept_schwarze_loecher_info",
+      "german": "das Informationsparadoxon Schwarzer Löcher",
+      "plural": "-",
+      "arabic": "مُفَارَقَةُ ضَيَاعِ المَعْلُومَاتِ فِي الثُّقُوبِ السَّوْدَاءِ",
+      "english": "black hole information paradox (Hawking vs. quantum unitarity)",
+      "example_sentence": {
+        "de": "Das Informationsparadoxon Schwarzer Löcher entzündete den Streit, ob Information beim Verdampfen eines Schwarzen Lochs unwiederbringlich verloren geht.",
+        "ar": "أَشْعَلَتْ مُفَارَقَةُ مَعْلُومَاتِ الثُّقُوبِ السَّوْدَاءِ الجَدَلَ حَوْلَ مَا إِذَا كَانَتِ المَعْلُومَاتُ تَفْنَى نِهَائِيًّا عِنْدَ تَبَخُّرِ الثَّقْبِ الأَسْوَدِ.",
+        "en": "The black hole information paradox ignited fierce debates over whether information is destroyed during Hawking evaporation."
+      },
+      "image": "assets/svg/concept_schwarze_loecher_info.svg"
+    },
+    {
+      "id": "concept_bekenstein_hawking_entropie",
+      "german": "die Bekenstein-Hawking-Entropie",
+      "plural": "-",
+      "arabic": "إِنْتْرُوبْيَا بِيِكِنْشْتَايِن-هُوكِينْغ الهُولُوغْرَافِيَّةُ",
+      "english": "Bekenstein-Hawking entropy",
+      "example_sentence": {
+        "de": "Die Bekenstein-Hawking-Entropie zeigte erstmals, dass die maximale Informationskapazität proportional zur Ereignishorizont-Fläche skaliert.",
+        "ar": "أَثْبَتَتْ إِنْتْرُوبْيَا بِيِكِنْشْتَايِن-هُوكِينْغ لِأَوَّلِ مَرَّةٍ أَنَّ السَّعَةَ المَعْلُومَاتِيَّةَ القُصْوَى تَتَنَاسَبُ مَعَ مِسَاحَةِ سَطْحِ أُفُقِ الحَدَثِ.",
+        "en": "Bekenstein-Hawking entropy demonstrated that maximal information capacity scales with event horizon surface area."
+      },
+      "image": "assets/svg/concept_bekenstein_hawking_entropie.svg"
+    },
+    {
+      "id": "concept_quanten_zeno_effekt",
+      "german": "das Quanten-Zeno-Phänomen",
+      "plural": "-",
+      "arabic": "تَأْثِيرُ زِينُو الكَمُّومِيُّ (تَجْمِيدُ التَّطَوُّرِ بِالمُلَاحَظَةِ المُسْتَمِرَّةِ)",
+      "english": "quantum Zeno effect (suppression of decay via continuous measurement)",
+      "example_sentence": {
+        "de": "Beim Quanten-Zeno-Effekt verhindert ununterbrochene Beobachtung den spontanen radioaktiven Zerfall eines instabilen Systems.",
+        "ar": "يَمْنَعُ الرَّصْدُ المُتَوَاصِلُ فِي تَأْثِيرِ زِينُو الكَمُّومِيِّ التَّحَلُّلَ الإِشْعَاعِيَّ التِّلْقَائِيَّ لِلنِّظَامِ غَيْرِ المُسْتَقِرِّ.",
+        "en": "In the quantum Zeno effect, continuous observation freezes and suppresses the spontaneous decay of an unstable system."
+      },
+      "image": "assets/svg/concept_quanten_zeno_effekt.svg"
+    },
+    {
+      "id": "concept_wheeler_delayed_choice",
+      "german": "die Wheeler-Verzögerte-Entscheidung",
+      "plural": "die Wheeler-Verzögerten-Entscheidungen",
+      "arabic": "تَجْرِبَةُ الخِيَارِ المُؤَجَّلِ لِوِيلَر (تَحْدِيدُ مَسَارِ المَاضِي بِالقِيَاسِ الحَاضِرِ)",
+      "english": "Wheeler's delayed-choice experiment",
+      "example_sentence": {
+        "de": "Wheelers verzögertes Experiment belegt, dass die gegenwärtige Messentscheidung rückwirkend festlegt, ob ein Photon als Welle oder Teilchen reiste.",
+        "ar": "تُثْبِتُ تَجْرِبَةُ وِيلَر أَنَّ قَرَارَ القِيَاسِ فِي الحَاضِرِ يُحَدِّدُ بِأَثَرٍ رَجْعِيٍّ مَا إِذَا كَانَ الفُوتُونُ قَدْ سَلَكَ مَسَارَهُ كَمَوْجَةٍ أَمْ كَجُسَيْمٍ.",
+        "en": "Wheeler's experiment proves that present measurement choices retroactively dictate whether a photon traveled as wave or particle."
+      },
+      "image": "assets/svg/concept_wheeler_delayed_choice.svg"
+    },
+    {
+      "id": "concept_quanten_biologie",
+      "german": "die Quanten-Biologie",
+      "plural": "-",
+      "arabic": "البَيُولُوجْيَا الكَمُّومِيَّةُ (التَّأْثِيرَاتُ الكَمِّيَّةُ فِي الكَائِنَاتِ الحَيَّةِ)",
+      "english": "quantum biology (quantum coherence in living systems)",
+      "example_sentence": {
+        "de": "Die Quantenbiologie weist nach, dass Zugvögel das Erdmagnetfeld mittels quantenmechanisch verschränkter Radikalpaare navigierend wahrnehmen.",
+        "ar": "تُثْبِتُ البَيُولُوجْيَا الكَمُّومِيَّةُ أَنَّ الطُّيُورَ المُهَاجِرَةَ تَهْتَدِي بِالمَجَالِ المَغْنَاطِيسِيِّ لِلأَرْضِ عَبْرَ أَزْوَاجٍ جَذْرِيَّةٍ مُتَشَابِكَةٍ كَمِّيًّا.",
+        "en": "Quantum biology reveals that migratory birds navigate geomagnetic fields using quantum-entangled radical pair mechanisms."
+      },
+      "image": "assets/svg/concept_quanten_biologie.svg"
+    },
+    {
+      "id": "concept_quanten_vakuum_gitter",
+      "german": "das Quanten-Vakuum-Gitter",
+      "plural": "die Quanten-Vakuum-Gitter",
+      "arabic": "الشَّبَكَةُ الفَرَاغِيَّةُ الكَمُّومِيَّةُ",
+      "english": "quantum vacuum lattice",
+      "example_sentence": {
+        "de": "Theoretische Modelle beschreiben das Vakuum als dynamisches Quanten-Vakuum-Gitter mit fluktuierenden Feldstärken.",
+        "ar": "تَصِفُ النَّمَاذِجُ النَّظَرِيَّةُ الفَرَاغَ كَشَبَكَةٍ كَمُّومِيَّةٍ دِينَامِيكِيَّةٍ ذَاتِ طَاقَاتِ مَجَالٍ مُتَمَوِّجَةٍ دَائِمًا.",
+        "en": "Theoretical models characterize the vacuum as a dynamic quantum lattice possessing fluctuating background field amplitudes."
+      },
+      "image": "assets/svg/concept_quanten_vakuum_gitter.svg"
+    },
+    {
+      "id": "concept_quanten_topologie",
+      "german": "die Quanten-Topologie",
+      "plural": "-",
+      "arabic": "الطُّوبُولُوجْيَا الكَمُّومِيَّةُ (الأَطْوَارُ الطُّوبُولُوجِيَّةُ لِلْمَادَّةِ)",
+      "english": "quantum topology / topological quantum matter",
+      "example_sentence": {
+        "de": "Topologische Qubits nutzen Quanten-Topologie, um Information fehlertolerant gegen äußere Störungen abzusichern.",
+        "ar": "تَسْتَخْدِمُ الكِيُوبِتَاتُ الطُّوبُولُوجِيَّةُ قَوَانِينَ الطُّوبُولُوجْيَا الكَمِّيَّةِ لِحِمَايَةِ المَعْلُومَاتِ مِنَ الأَخْطَاءِ النَّاشِئَةِ عَنِ التَّشْوِيشِ.",
+        "en": "Topological qubits exploit quantum topology to protect stored information against local decoherence and errors."
+      },
+      "image": "assets/svg/concept_quanten_topologie.svg"
+    },
+    {
+      "id": "concept_universales_quantenkontinuum",
+      "german": "das Universale Quantenkontinuum",
+      "plural": "-",
+      "arabic": "المُتَّصَلُ الكَمُّومِيُّ الكَوْنِيُّ الشَّامِلُ",
+      "english": "universal quantum continuum",
+      "example_sentence": {
+        "de": "Im universalen Quantenkontinuum erweist sich die gesamte Schöpfung als unteilbares, lebendiges Informationsfeld.",
+        "ar": "يَتَبَيَّنُ فِي المُتَّصَلِ الكَمُّومِيِّ الكَوْنِيِّ الشَّامِلِ أَنَّ الوُجُودَ كُلَّهُ حَقْلٌ مَعْلُومَاتِيٌّ حَيٌّ وَلَا يَقْبَلُ التَّجْزِئَةَ.",
+        "en": "Within the universal quantum continuum, the entirety of physical reality reveals itself as an undivided informational field."
+      },
+      "image": "assets/svg/concept_universales_quantenkontinuum.svg"
+    }
+  ]
+}

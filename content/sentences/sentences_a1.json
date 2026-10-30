@@ -11182,6 +11182,191 @@
         "Trennbares reflexives Verb 'sich fortsetzen'",
         "Richtungsausdruck 'in' + Akkusativ Feminin 'die Zukunft'"
       ]
+    },
+    {
+      "id": "sent_471",
+      "category": "wave_particle",
+      "difficulty": "A1+",
+      "arabic": "الجُسَيْمُ يَتَصَرَّفُ كَمَوْجَةٍ وَجَسَدٍ مَعًا.",
+      "german": "Das Teilchen verhält sich als Welle und Körper zugleich.",
+      "english": "The particle behaves as a wave and body at the same time.",
+      "tokens": [
+        {
+          "word": "Das Teilchen",
+          "pos": "noun",
+          "ar": "الجُسَيْمُ"
+        },
+        {
+          "word": "verhält sich",
+          "pos": "reflexive_verb",
+          "ar": "يَتَصَرَّفُ"
+        },
+        {
+          "word": "als Welle und Körper",
+          "pos": "preposition_phrase",
+          "ar": "كَمَوْجَةٍ وَجَسَدٍ"
+        },
+        {
+          "word": "zugleich",
+          "pos": "adverb",
+          "ar": "مَعًا / فِي آنٍ وَاحِدٍ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Neutrum Nominativ",
+        "Reflexives Verb 'sich verhalten'",
+        "Partikel 'als' mit parallelen Nomen ohne Artikel"
+      ]
+    },
+    {
+      "id": "sent_472",
+      "category": "conscious_observation",
+      "difficulty": "A1+",
+      "arabic": "المُلَاحَظَةُ الوَاعِيَةُ تُغَيِّرُ نَتِيجَةَ التَّجْرِبَةِ دَائِمًا.",
+      "german": "Die bewusste Beobachtung verändert das Ergebnis des Experiments immer.",
+      "english": "Conscious observation always alters the result of the experiment.",
+      "tokens": [
+        {
+          "word": "Die bewusste Beobachtung",
+          "pos": "noun_phrase",
+          "ar": "المُلَاحَظَةُ الوَاعِيَةُ"
+        },
+        {
+          "word": "verändert",
+          "pos": "verb",
+          "ar": "تُغَيِّرُ"
+        },
+        {
+          "word": "das Ergebnis",
+          "pos": "noun",
+          "ar": "نَتِيجَةَ"
+        },
+        {
+          "word": "des Experiments",
+          "pos": "genitive_noun",
+          "ar": "التَّجْرِبَةِ (مضاف إليه)"
+        },
+        {
+          "word": "immer",
+          "pos": "adverb",
+          "ar": "دَائِمًا"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Feminin Nominativ mit Adjektiv",
+        "Akkusativobjekt Neutrum 'das Ergebnis'",
+        "Genitivattribut Neutrum 'des Experiments'"
+      ]
+    },
+    {
+      "id": "sent_473",
+      "category": "fine_cosmic_laws",
+      "difficulty": "A1+",
+      "arabic": "نَحْنُ نَفْهَمُ قَوَانِينَ الكَوْنِ الدَّقِيقَةَ بِالعِلْمِ.",
+      "german": "Wir verstehen die feinen Gesetze des Kosmos durch Wissenschaft.",
+      "english": "We understand the delicate laws of the cosmos through science.",
+      "tokens": [
+        {
+          "word": "Wir",
+          "pos": "pronoun",
+          "ar": "نَحْنُ"
+        },
+        {
+          "word": "verstehen",
+          "pos": "verb",
+          "ar": "نَفْهَمُ"
+        },
+        {
+          "word": "die feinen Gesetze",
+          "pos": "noun_phrase",
+          "ar": "قَوَانِينَ الكَوْنِ الدَّقِيقَةَ"
+        },
+        {
+          "word": "des Kosmos",
+          "pos": "genitive_noun",
+          "ar": "الكَوْنِ"
+        },
+        {
+          "word": "durch Wissenschaft",
+          "pos": "preposition_phrase",
+          "ar": "بِالعِلْمِ"
+        }
+      ],
+      "grammar_points": [
+        "Akkusativ Plural Neutrum mit Adjektiv",
+        "Genitivattribut Maskulin 'des Kosmos'",
+        "Präposition 'durch' + Akkusativ Feminin ohne Artikel 'Wissenschaft'"
+      ]
+    },
+    {
+      "id": "sent_474",
+      "category": "quantum_horizons",
+      "difficulty": "A1+",
+      "arabic": "المَعْلُومَاتُ الكَمُّومِيَّةُ تَفْتَحُ آفَاقًا جَدِيدَةً لِلْمُسْتَقْبَلِ.",
+      "german": "Die Quanteninformation öffnet neue Horizonte für die Zukunft.",
+      "english": "Quantum information opens new horizons for the future.",
+      "tokens": [
+        {
+          "word": "Die Quanteninformation",
+          "pos": "noun",
+          "ar": "المَعْلُومَاتُ الكَمُّومِيَّةُ"
+        },
+        {
+          "word": "öffnet",
+          "pos": "verb",
+          "ar": "تَفْتَحُ"
+        },
+        {
+          "word": "neue Horizonte",
+          "pos": "noun_phrase",
+          "ar": "آفَاقًا جَدِيدَةً"
+        },
+        {
+          "word": "für die Zukunft",
+          "pos": "preposition_phrase",
+          "ar": "لِلْمُسْتَقْبَلِ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Feminin Nominativ",
+        "Akkusativ Plural Maskulin ohne Artikel 'neue Horizonte'",
+        "Präposition 'für' + Akkusativ Feminin 'die Zukunft'"
+      ]
+    },
+    {
+      "id": "sent_475",
+      "category": "deep_entanglement",
+      "difficulty": "A1+",
+      "arabic": "التَّرَابُطُ العَمِيقُ يَجْمَعُ كُلَّ أَجْزَاءِ الوُجُودِ.",
+      "german": "Die tiefe Verschränkung verbindet alle Teile des Daseins.",
+      "english": "Deep entanglement connects all parts of existence.",
+      "tokens": [
+        {
+          "word": "Die tiefe Verschränkung",
+          "pos": "noun_phrase",
+          "ar": "التَّرَابُطُ / التَّشَابُكُ العَمِيقُ"
+        },
+        {
+          "word": "verbindet",
+          "pos": "verb",
+          "ar": "يَجْمَعُ / يَرْبِطُ"
+        },
+        {
+          "word": "alle Teile",
+          "pos": "noun_phrase",
+          "ar": "كُلَّ أَجْزَاءِ"
+        },
+        {
+          "word": "des Daseins",
+          "pos": "genitive_noun",
+          "ar": "الوُجُودِ (مضاف إليه)"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Feminin Nominativ mit Adjektiv",
+        "Akkusativ Plural Maskulin 'alle Teile'",
+        "Genitivattribut Neutrum 'des Daseins'"
+      ]
     }
   ]
 }

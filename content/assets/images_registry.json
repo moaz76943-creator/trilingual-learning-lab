@@ -34341,5 +34341,130 @@
     "file": "assets/svg/verb_resuemieren.svg",
     "category": "c2_pansophy_verbs",
     "alt": "verb resuemieren"
+  },
+  "assets/svg/concept_quantenueberlagerung.svg": {
+    "file": "assets/svg/concept_quantenueberlagerung.svg",
+    "category": "quantum_semiotics",
+    "alt": "concept quantenueberlagerung"
+  },
+  "assets/svg/concept_planck_wirkungsquantum.svg": {
+    "file": "assets/svg/concept_planck_wirkungsquantum.svg",
+    "category": "quantum_semiotics",
+    "alt": "concept planck wirkungsquantum"
+  },
+  "assets/svg/concept_wellenfunktion_dekohaerenz.svg": {
+    "file": "assets/svg/concept_wellenfunktion_dekohaerenz.svg",
+    "category": "quantum_semiotics",
+    "alt": "concept wellenfunktion dekohaerenz"
+  },
+  "assets/svg/concept_bekenstein_hawking_entropie.svg": {
+    "file": "assets/svg/concept_bekenstein_hawking_entropie.svg",
+    "category": "quantum_semiotics",
+    "alt": "concept bekenstein hawking entropie"
+  },
+  "assets/svg/concept_quanten_vakuum_gitter.svg": {
+    "file": "assets/svg/concept_quanten_vakuum_gitter.svg",
+    "category": "quantum_semiotics",
+    "alt": "concept quanten vakuum gitter"
+  },
+  "assets/svg/concept_quanten_topologie.svg": {
+    "file": "assets/svg/concept_quanten_topologie.svg",
+    "category": "quantum_semiotics",
+    "alt": "concept quanten topologie"
+  },
+  "assets/svg/concept_quantenkryptographie.svg": {
+    "file": "assets/svg/concept_quantenkryptographie.svg",
+    "category": "quantum_semiotics",
+    "alt": "concept quantenkryptographie"
+  },
+  "assets/svg/concept_nullpunkt_energiefeld.svg": {
+    "file": "assets/svg/concept_nullpunkt_energiefeld.svg",
+    "category": "quantum_semiotics",
+    "alt": "concept nullpunkt energiefeld"
+  },
+  "assets/svg/concept_quanten_zeno_effekt.svg": {
+    "file": "assets/svg/concept_quanten_zeno_effekt.svg",
+    "category": "quantum_semiotics",
+    "alt": "concept quanten zeno effekt"
+  },
+  "assets/svg/concept_quantensemiotik.svg": {
+    "file": "assets/svg/concept_quantensemiotik.svg",
+    "category": "quantum_semiotics",
+    "alt": "concept quantensemiotik"
+  },
+  "assets/svg/concept_casimir_effekt.svg": {
+    "file": "assets/svg/concept_casimir_effekt.svg",
+    "category": "quantum_semiotics",
+    "alt": "concept casimir effekt"
+  },
+  "assets/svg/concept_epr_paradoxon.svg": {
+    "file": "assets/svg/concept_epr_paradoxon.svg",
+    "category": "quantum_semiotics",
+    "alt": "concept epr paradoxon"
+  },
+  "assets/svg/concept_qubit_basis.svg": {
+    "file": "assets/svg/concept_qubit_basis.svg",
+    "category": "quantum_semiotics",
+    "alt": "concept qubit basis"
+  },
+  "assets/svg/concept_holographisches_prinzip_phys.svg": {
+    "file": "assets/svg/concept_holographisches_prinzip_phys.svg",
+    "category": "quantum_semiotics",
+    "alt": "concept holographisches prinzip phys"
+  },
+  "assets/svg/concept_vakuumfluktuation.svg": {
+    "file": "assets/svg/concept_vakuumfluktuation.svg",
+    "category": "quantum_semiotics",
+    "alt": "concept vakuumfluktuation"
+  },
+  "assets/svg/concept_raumzeit_quantelung.svg": {
+    "file": "assets/svg/concept_raumzeit_quantelung.svg",
+    "category": "quantum_semiotics",
+    "alt": "concept raumzeit quantelung"
+  },
+  "assets/svg/concept_quantenverschraenkung_phys.svg": {
+    "file": "assets/svg/concept_quantenverschraenkung_phys.svg",
+    "category": "quantum_semiotics",
+    "alt": "concept quantenverschraenkung phys"
+  },
+  "assets/svg/concept_schwarze_loecher_info.svg": {
+    "file": "assets/svg/concept_schwarze_loecher_info.svg",
+    "category": "quantum_semiotics",
+    "alt": "concept schwarze loecher info"
+  },
+  "assets/svg/concept_quanten_biologie.svg": {
+    "file": "assets/svg/concept_quanten_biologie.svg",
+    "category": "quantum_semiotics",
+    "alt": "concept quanten biologie"
+  },
+  "assets/svg/concept_quantenteleportation.svg": {
+    "file": "assets/svg/concept_quantenteleportation.svg",
+    "category": "quantum_semiotics",
+    "alt": "concept quantenteleportation"
+  },
+  "assets/svg/concept_quantenkohaerenz.svg": {
+    "file": "assets/svg/concept_quantenkohaerenz.svg",
+    "category": "quantum_semiotics",
+    "alt": "concept quantenkohaerenz"
+  },
+  "assets/svg/concept_quantenbeobachter_effekt.svg": {
+    "file": "assets/svg/concept_quantenbeobachter_effekt.svg",
+    "category": "quantum_semiotics",
+    "alt": "concept quantenbeobachter effekt"
+  },
+  "assets/svg/concept_nicht_lokalitaet.svg": {
+    "file": "assets/svg/concept_nicht_lokalitaet.svg",
+    "category": "quantum_semiotics",
+    "alt": "concept nicht lokalitaet"
+  },
+  "assets/svg/concept_wheeler_delayed_choice.svg": {
+    "file": "assets/svg/concept_wheeler_delayed_choice.svg",
+    "category": "quantum_semiotics",
+    "alt": "concept wheeler delayed choice"
+  },
+  "assets/svg/concept_universales_quantenkontinuum.svg": {
+    "file": "assets/svg/concept_universales_quantenkontinuum.svg",
+    "category": "quantum_semiotics",
+    "alt": "concept universales quantenkontinuum"
   }
 }
