@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <defs>
+    <linearGradient id="grad_valgo_5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#BF360C" />
+      <stop offset="100%" stop-color="#FF7043" />
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="20" fill="url(#grad_valgo_5)" />
+  <path d="M 20 50 Q 50 20, 80 50 Q 50 80, 20 50" fill="none" stroke="#FFFFFF" stroke-width="2.5" opacity="0.85"/>
+  <circle cx="50" cy="50" r="8" fill="#FFEB3B"/>
+  <text x="50" y="90" font-family="system-ui, sans-serif" font-size="6.8" font-weight="bold" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.5">SYNTH-06</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <defs>
+    <linearGradient id="grad_ca_19" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1B5E20" />
+      <stop offset="100%" stop-color="#66BB6A" />
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="18" fill="url(#grad_ca_19)" />
+  <circle cx="50" cy="46" r="26" fill="none" stroke="#FFFFFF" stroke-width="1.8" stroke-dasharray="4 2" opacity="0.8"/>
+  <polygon points="50,22 68,54 32,54" fill="none" stroke="#FFFFFF" stroke-width="2" opacity="0.85"/>
+  <circle cx="50" cy="46" r="6" fill="#FFEB3B" opacity="0.95"/>
+  <text x="50" y="88" font-family="system-ui, sans-serif" font-size="6.5" font-weight="bold" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.5">AESTH-20</text>
+</svg>

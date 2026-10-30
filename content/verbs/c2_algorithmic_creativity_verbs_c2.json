@@ -1,0 +1,562 @@
+[
+  {
+    "id": "verb_c2_algo_001",
+    "infinitive": "generieren",
+    "level": "C2",
+    "category": "Algorithmic Creativity",
+    "arabic": "يُوَلِّدُ خُوَارِزْمِيًّا",
+    "english": "to generate computationally",
+    "conjugation": {
+      "praesens": {
+        "ich": "generiere",
+        "du": "generierst",
+        "er_sie_es": "generiert",
+        "wir": "generieren",
+        "ihr": "generiert",
+        "sie_Sie": "generieren"
+      },
+      "praeteritum": {
+        "ich": "generierte",
+        "er_sie_es": "generierte"
+      },
+      "perfekt": "hat generiert"
+    },
+    "preposition": "aus + Dat.",
+    "example_de": "Moderne Algorithmen generieren fotorealistische Texturen aus semantischen Prompts.",
+    "example_ar": "تُوَلِّدُ الخُوَارِزْمِيَّاتُ الحَدِيثَةُ أَنْسِجَةً صُوَرِيَّةً وَاقِعِيَّةً مِنْ أَمْرٍ دَلَالِيٍّ.",
+    "example_en": "Modern algorithms generate photorealistic textures from semantic prompts.",
+    "svg_icon": "content/assets/svg/verb_c2_algocreat_001.svg"
+  },
+  {
+    "id": "verb_c2_algo_002",
+    "infinitive": "synthetisieren",
+    "level": "C2",
+    "category": "Algorithmic Creativity",
+    "arabic": "يُرَكِّبُ / يُخَلِّقُ بَصَرِيًّا",
+    "english": "to synthesize visually",
+    "conjugation": {
+      "praesens": {
+        "ich": "synthetisiere",
+        "du": "synthetisierst",
+        "er_sie_es": "synthetisiert",
+        "wir": "synthetisieren",
+        "ihr": "synthetisiert",
+        "sie_Sie": "synthetisieren"
+      },
+      "praeteritum": {
+        "ich": "synthetisierte",
+        "er_sie_es": "synthetisierte"
+      },
+      "perfekt": "hat synthetisiert"
+    },
+    "preposition": "zu + Dat.",
+    "example_de": "Neuronale Netze synthetisieren unzusammenhängende Skizzen zu hochauflösenden Gemälden.",
+    "example_ar": "تُرَكِّبُ الشَّبَكَاتُ العَصَبِيَّةُ المُخَطَّطَاتِ غَيْرَ المُتَرَابِطَةِ لِتُصْبِحَ لَوْحَاتٍ عَالِيَةَ الدِّقَّةِ.",
+    "example_en": "Neural networks synthesize disjointed sketches into high-resolution paintings.",
+    "svg_icon": "content/assets/svg/verb_c2_algocreat_002.svg"
+  },
+  {
+    "id": "verb_c2_algo_003",
+    "infinitive": "interpolieren",
+    "level": "C2",
+    "category": "Algorithmic Creativity",
+    "arabic": "يَسْتَكْمِلُ فِي الفَضَاءِ الكَامِنِ",
+    "english": "to interpolate within latent vectors",
+    "conjugation": {
+      "praesens": {
+        "ich": "interpoliere",
+        "du": "interpolierst",
+        "er_sie_es": "interpoliert",
+        "wir": "interpolieren",
+        "ihr": "interpoliert",
+        "sie_Sie": "interpolieren"
+      },
+      "praeteritum": {
+        "ich": "interpolierte",
+        "er_sie_es": "interpolierte"
+      },
+      "perfekt": "hat interpoliert"
+    },
+    "preposition": "zwischen + Dat.",
+    "example_de": "Der Vektorraum interpoliert stufenlos zwischen divergierenden visuellen Konzepten.",
+    "example_ar": "يَسْتَكْمِلُ الفَضَاءُ الشُّعَاعِيُّ بِسَلَاسَةٍ بَيْنَ مَفَاهِيمَ بَصَرِيَّةٍ مُتَبَاعِدَةٍ.",
+    "example_en": "The vector space interpolates smoothly between diverging visual concepts.",
+    "svg_icon": "content/assets/svg/verb_c2_algocreat_003.svg"
+  },
+  {
+    "id": "verb_c2_algo_004",
+    "infinitive": "transformieren",
+    "level": "C2",
+    "category": "Algorithmic Creativity",
+    "arabic": "يُحَوِّلُ النَّسَقَ الجَمَالِيَّ",
+    "english": "to transform aesthetically",
+    "conjugation": {
+      "praesens": {
+        "ich": "transformiere",
+        "du": "transformierst",
+        "er_sie_es": "transformiert",
+        "wir": "transformieren",
+        "ihr": "transformiert",
+        "sie_Sie": "transformieren"
+      },
+      "praeteritum": {
+        "ich": "transformierte",
+        "er_sie_es": "transformierte"
+      },
+      "perfekt": "hat transformiert"
+    },
+    "preposition": "in + Akk.",
+    "example_de": "Stilfilter transformieren alltägliche Videoaufnahmen in impressionistische Kunstwerke.",
+    "example_ar": "تُحَوِّلُ مُرَشِّحَاتُ الأُسْلُوبِ مَقَاطِعَ الفِيدْيُو اليَوْمِيَّةَ إِلَى أَعْمَالٍ فَنِّيَّةٍ انْطِبَاعِيَّةٍ.",
+    "example_en": "Style filters transform mundane video footage into impressionist artworks.",
+    "svg_icon": "content/assets/svg/verb_c2_algocreat_004.svg"
+  },
+  {
+    "id": "verb_c2_algo_005",
+    "infinitive": "abstrahieren",
+    "level": "C2",
+    "category": "Algorithmic Creativity",
+    "arabic": "يُجَرِّدُ العَنَاصِرَ البَصَرِيَّةَ",
+    "english": "to abstract formal elements",
+    "conjugation": {
+      "praesens": {
+        "ich": "abstrahiere",
+        "du": "abstrahierst",
+        "er_sie_es": "abstrahiert",
+        "wir": "abstrahieren",
+        "ihr": "abstrahiert",
+        "sie_Sie": "abstrahieren"
+      },
+      "praeteritum": {
+        "ich": "abstrahierte",
+        "er_sie_es": "abstrahierte"
+      },
+      "perfekt": "hat abstrahiert"
+    },
+    "preposition": "von + Dat.",
+    "example_de": "Der Algorithmus abstrahiert radikal von gegenständlichen Details zugunsten reiner Farbflächen.",
+    "example_ar": "يُجَرِّدُ الخُوَارِزْمِيُّ التَّفَاصِيلَ الشَّكْلِيَّةَ تَجْرِيدًا جَذْرِيًّا لِصَالِحِ المَسَاحَاتِ اللَّوْنِيَّةِ الخَالِصَةِ.",
+    "example_en": "The algorithm radically abstracts from figurative details in favor of pure color fields.",
+    "svg_icon": "content/assets/svg/verb_c2_algocreat_005.svg"
+  },
+  {
+    "id": "verb_c2_algo_006",
+    "infinitive": "iterieren",
+    "level": "C2",
+    "category": "Algorithmic Creativity",
+    "arabic": "يُكَرِّرُ تَعَاقُبِيًّا تَوْلِيدِيًّا",
+    "english": "to iterate generatively",
+    "conjugation": {
+      "praesens": {
+        "ich": "iteriere",
+        "du": "iterierst",
+        "er_sie_es": "iteriert",
+        "wir": "iterieren",
+        "ihr": "iteriert",
+        "sie_Sie": "iterieren"
+      },
+      "praeteritum": {
+        "ich": "iterierte",
+        "er_sie_es": "iterierte"
+      },
+      "perfekt": "hat iteriert"
+    },
+    "preposition": "über + Akk.",
+    "example_de": "Grafikprozessoren iterieren über hunderte Rauschschritte zur Schärfung des Bildes.",
+    "example_ar": "تُكَرِّرُ مُعَالِجَاتُ الرُّسُومِيَّاتِ مِئَاتِ خُطُوَاتِ الضَّوْضَاءِ لِشَحْذِ مَعَالِمِ الصُّورَةِ.",
+    "example_en": "Graphics processors iterate over hundreds of noise steps to sharpen the image.",
+    "svg_icon": "content/assets/svg/verb_c2_algo_006.svg"
+  },
+  {
+    "id": "verb_c2_algo_007",
+    "infinitive": "modulieren",
+    "level": "C2",
+    "category": "Algorithmic Creativity",
+    "arabic": "يُضَمِّنُ / يُعَدِّلُ التَّرَدُّدَ البَصَرِيَّ",
+    "english": "to modulate visual frequency",
+    "conjugation": {
+      "praesens": {
+        "ich": "moduliere",
+        "du": "modulierst",
+        "er_sie_es": "moduliert",
+        "wir": "modulieren",
+        "ihr": "moduliert",
+        "sie_Sie": "modulieren"
+      },
+      "praeteritum": {
+        "ich": "modulierte",
+        "er_sie_es": "modulierte"
+      },
+      "perfekt": "hat moduliert"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Klangwellen modulieren die Lichtintensität in interaktiven generativen Installationen.",
+    "example_ar": "تُعَدِّلُ المَوْجَاتُ الصَّوْتِيَّةُ كَثَافَةَ الضَّوْءِ فِي التَّرْكِيبَاتِ التَّوْلِيدِيَّةِ التَّفَاعُلِيَّةِ.",
+    "example_en": "Sound waves modulate light intensity in interactive generative installations.",
+    "svg_icon": "content/assets/svg/verb_c2_algo_007.svg"
+  },
+  {
+    "id": "verb_c2_algo_008",
+    "infinitive": "permutieren",
+    "level": "C2",
+    "category": "Algorithmic Creativity",
+    "arabic": "يُبَدِّلُ التَّرَاكِيبَ الصُّوَرِيَّةَ",
+    "english": "to permute image structures",
+    "conjugation": {
+      "praesens": {
+        "ich": "permutiere",
+        "du": "permutierst",
+        "er_sie_es": "permutiert",
+        "wir": "permutieren",
+        "ihr": "permutiert",
+        "sie_Sie": "permutieren"
+      },
+      "praeteritum": {
+        "ich": "permutierte",
+        "er_sie_es": "permutierte"
+      },
+      "perfekt": "hat permutiert"
+    },
+    "preposition": "nach + Dat.",
+    "example_de": "Systeme permutieren geometrische Basiselemente nach mathematischen Kombinationsregeln.",
+    "example_ar": "تُبَدِّلُ الأَنْظِمَةُ العَنَاصِرَ الهَنْدَسِيَّةَ الأَسَاسِيَّةَ وَفْقًا لِقَوَاعِدَ تَوْفِيقِيَّةٍ رِيَاضِيَّةٍ.",
+    "example_en": "Systems permute basic geometric elements according to mathematical combinatorial rules.",
+    "svg_icon": "content/assets/svg/verb_c2_algo_008.svg"
+  },
+  {
+    "id": "verb_c2_algo_009",
+    "infinitive": "dekonstruieren",
+    "level": "C2",
+    "category": "Algorithmic Creativity",
+    "arabic": "يُفَكِّكُ النَّسَقَ الجَمَالِيَّ",
+    "english": "to deconstruct aesthetic frameworks",
+    "conjugation": {
+      "praesens": {
+        "ich": "dekonstruiere",
+        "du": "dekonstruierst",
+        "er_sie_es": "dekonstruiert",
+        "wir": "dekonstruieren",
+        "ihr": "dekonstruiert",
+        "sie_Sie": "dekonstruieren"
+      },
+      "praeteritum": {
+        "ich": "dekonstruierte",
+        "er_sie_es": "dekonstruierte"
+      },
+      "perfekt": "hat dekonstruiert"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Glitch-Künstler dekonstruieren kanonische Meisterwerke durch gezielte Datenüberladung.",
+    "example_ar": "يُفَكِّكُ فَنَّانُو الغْلِيتْش التُّحَفَ الفَنِّيَّةَ المُعْتَمَدَةَ عَبْرَ إِغْرَاقِ البَيَانَاتِ المُتَعَمَّدِ.",
+    "example_en": "Glitch artists deconstruct canonical masterpieces through intentional data overflow.",
+    "svg_icon": "content/assets/svg/verb_c2_algo_009.svg"
+  },
+  {
+    "id": "verb_c2_algo_010",
+    "infinitive": "rendern",
+    "level": "C2",
+    "category": "Algorithmic Creativity",
+    "arabic": "يُصَيِّرُ حَوْسَبِيًّا (الرَّنْدَرَةُ)",
+    "english": "to render computationally",
+    "conjugation": {
+      "praesens": {
+        "ich": "rendere",
+        "du": "renderst",
+        "er_sie_es": "rendert",
+        "wir": "rendern",
+        "ihr": "rendert",
+        "sie_Sie": "rendern"
+      },
+      "praeteritum": {
+        "ich": "renderte",
+        "er_sie_es": "renderte"
+      },
+      "perfekt": "hat gerendert"
+    },
+    "preposition": "in + Dat.",
+    "example_de": "Raytracing-Engines rendern komplexe Lichtbrechungen in physikalischer Vollkommenheit.",
+    "example_ar": "تُصَيِّرُ مُحَرِّكَاتُ تَتَبُّعِ الأَشِعَّةِ انْكِسَارَاتِ الضَّوْءِ المُعَقَّدَةِ بِكَمَالٍ فِيزْيَائِيٍّ.",
+    "example_en": "Raytracing engines render complex refractions of light in physical perfection.",
+    "svg_icon": "content/assets/svg/verb_c2_algo_010.svg"
+  },
+  {
+    "id": "verb_c2_algo_011",
+    "infinitive": "vektorisieren",
+    "level": "C2",
+    "category": "Algorithmic Creativity",
+    "arabic": "يُحَوِّلُ إِلَى مُتَّجِهَاتٍ هَنْدَسِيَّةٍ",
+    "english": "to vectorize",
+    "conjugation": {
+      "praesens": {
+        "ich": "vektorisiere",
+        "du": "vektorisierst",
+        "er_sie_es": "vektorisiert",
+        "wir": "vektorisieren",
+        "ihr": "vektorisiert",
+        "sie_Sie": "vektorisieren"
+      },
+      "praeteritum": {
+        "ich": "vektorisierte",
+        "er_sie_es": "vektorisierte"
+      },
+      "perfekt": "hat vektorisiert"
+    },
+    "preposition": "in + Akk.",
+    "example_de": "Softwarepakete vektorisieren pixelbasierte Bitmaps in stufenlos skalierbare Bézierkurven.",
+    "example_ar": "تُحَوِّلُ الحُزَمُ البَرْمَجِيَّةُ خَرَائِطَ البِكْسِل إِلَى مُنْحَنَيَاتِ بِيزْيِيه قَابِلَةٍ لِلتَّكْبِيرِ بِسَلَاسَةٍ.",
+    "example_en": "Software suites vectorize pixel-based bitmaps into infinitely scalable Bézier curves.",
+    "svg_icon": "content/assets/svg/verb_c2_algo_011.svg"
+  },
+  {
+    "id": "verb_c2_algo_012",
+    "infinitive": "pixelieren",
+    "level": "C2",
+    "category": "Algorithmic Creativity",
+    "arabic": "يُبَكْسِلُ (يُقَسِّمُ لِبِكْسِلَاتٍ)",
+    "english": "to pixelate artistically",
+    "conjugation": {
+      "praesens": {
+        "ich": "pixeliere",
+        "du": "pixelierst",
+        "er_sie_es": "pixeliert",
+        "wir": "pixelieren",
+        "ihr": "pixeliert",
+        "sie_Sie": "pixelieren"
+      },
+      "praeteritum": {
+        "ich": "pixelierte",
+        "er_sie_es": "pixelierte"
+      },
+      "perfekt": "hat pixeliert"
+    },
+    "preposition": "zu + Dat.",
+    "example_de": "Retro-Ästhetiken pixelieren hochauflösende Porträts bewusst zu nostalgischer 8-Bit-Grafik.",
+    "example_ar": "تُبَكْسِلُ الجَمَالِيَّاتُ القَدِيمَةُ الصُّوَرَ الشَّخْصِيَّةَ عَالِيَةَ الدِّقَّةِ عَمْدًا لِتُحَوِّلَهَا إِلَى رُسُومِيَّاتِ 8-بِت حَنِينِيَّةٍ.",
+    "example_en": "Retro aesthetics consciously pixelate high-resolution portraits into nostalgic 8-bit graphics.",
+    "svg_icon": "content/assets/svg/verb_c2_algo_012.svg"
+  },
+  {
+    "id": "verb_c2_algo_013",
+    "infinitive": "harmonisieren",
+    "level": "C2",
+    "category": "Algorithmic Creativity",
+    "arabic": "يُوَافِقُ رِيَاضِيًّا بَيْنَ الأَلْوَانِ",
+    "english": "to harmonize aesthetically",
+    "conjugation": {
+      "praesens": {
+        "ich": "harmonisiere",
+        "du": "harmonisierst",
+        "er_sie_es": "harmonisiert",
+        "wir": "harmonisieren",
+        "ihr": "harmonisiert",
+        "sie_Sie": "harmonisieren"
+      },
+      "praeteritum": {
+        "ich": "harmonisierte",
+        "er_sie_es": "harmonisierte"
+      },
+      "perfekt": "hat harmonisiert"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Farbalgorithmen harmonisieren disparate Spektren mit den Gesetzen der Farbmetrik.",
+    "example_ar": "تُوَافِقُ خُوَارِزْمِيَّاتُ الأَلْوَانِ الأَطْيَافَ المُتَبَايِنَةَ مَعَ قَوَانِينِ قِيَاسِ الأَلْوَانِ.",
+    "example_en": "Color algorithms harmonize disparate spectra with the laws of colorimetry.",
+    "svg_icon": "content/assets/svg/verb_c2_algo_013.svg"
+  },
+  {
+    "id": "verb_c2_algo_014",
+    "infinitive": "rekombinieren",
+    "level": "C2",
+    "category": "Algorithmic Creativity",
+    "arabic": "يُعِيدُ التَّرْكِيبَ الإِبْدَاعِيَّ",
+    "english": "to recombine creatively",
+    "conjugation": {
+      "praesens": {
+        "ich": "rekombiniere",
+        "du": "rekombinierst",
+        "er_sie_es": "rekombiniert",
+        "wir": "rekombinieren",
+        "ihr": "rekombiniert",
+        "sie_Sie": "rekombinieren"
+      },
+      "praeteritum": {
+        "ich": "rekombinierte",
+        "er_sie_es": "rekombinierte"
+      },
+      "perfekt": "hat rekombiniert"
+    },
+    "preposition": "zu + Dat.",
+    "example_de": "Evolutive Algorithmen rekombinieren Formgene verschiedener Epochen zu hybriden Skulpturen.",
+    "example_ar": "تُعِيدُ الخُوَارِزْمِيَّاتُ التَّطَوُّرِيَّةُ تَرْكِيبَ جِينَاتِ الشَّكْلِ مِنْ عُصُورٍ مُخْتَلِفَةٍ إِلَى مَنْحُوتَاتٍ هَجِينَةٍ.",
+    "example_en": "Evolutionary algorithms recombine morphological genes of diverse epochs into hybrid sculptures.",
+    "svg_icon": "content/assets/svg/verb_c2_algo_014.svg"
+  },
+  {
+    "id": "verb_c2_algo_015",
+    "infinitive": "tessellieren",
+    "level": "C2",
+    "category": "Algorithmic Creativity",
+    "arabic": "يُفَسْفِسُ / يُبَلِّطُ هَنْدَسِيًّا",
+    "english": "to tessellate",
+    "conjugation": {
+      "praesens": {
+        "ich": "tesselliere",
+        "du": "tessellierst",
+        "er_sie_es": "tesselliert",
+        "wir": "tessellieren",
+        "ihr": "tesselliert",
+        "sie_Sie": "tessellieren"
+      },
+      "praeteritum": {
+        "ich": "tessellierte",
+        "er_sie_es": "tessellierte"
+      },
+      "perfekt": "hat tesselliert"
+    },
+    "preposition": "in + Akk.",
+    "example_de": "Geometrische Skripte tessellieren gekrümmte Fassaden in planare polygonale Waben.",
+    "example_ar": "تُفَسْفِسُ السِّكْرِبْتَاتُ الهَنْدَسِيَّةُ الوَاجِهَاتِ المُنْحَنِيَةَ إِلَى خَلَايَا مُضَلَّعَةٍ مُسْتَوِيَةٍ.",
+    "example_en": "Geometric scripts tessellate curved facades into planar polygonal honeycombs.",
+    "svg_icon": "content/assets/svg/verb_c2_algo_015.svg"
+  },
+  {
+    "id": "verb_c2_algo_016",
+    "infinitive": "kuratieren",
+    "level": "C2",
+    "category": "Algorithmic Creativity",
+    "arabic": "يُنَسِّقُ / يَنْتَقِي إِبْدَاعِيًّا",
+    "english": "to curate computationally",
+    "conjugation": {
+      "praesens": {
+        "ich": "kuratiere",
+        "du": "kuratierst",
+        "er_sie_es": "kuratiert",
+        "wir": "kuratieren",
+        "ihr": "kuratiert",
+        "sie_Sie": "kuratieren"
+      },
+      "praeteritum": {
+        "ich": "kuratierte",
+        "er_sie_es": "kuratierte"
+      },
+      "perfekt": "hat kuratiert"
+    },
+    "preposition": "nach + Dat.",
+    "example_de": "Intelligente Agenten kuratieren gigantische Bildarchive nach subtilen ikonografischen Ähnlichkeiten.",
+    "example_ar": "يُنَسِّقُ الوُكَلَاءُ الأَذْكِيَاءُ أَرَاشِيفَ الصُّوَرِ الضَّخْمَةَ بِنَاءً عَلَى تَشَابُهَاتٍ أَيْقُونِيَّةٍ دَقِيقَةٍ.",
+    "example_en": "Intelligent agents curate gigantic image archives according to subtle iconographic similarities.",
+    "svg_icon": "content/assets/svg/verb_c2_algo_016.svg"
+  },
+  {
+    "id": "verb_c2_algo_017",
+    "infinitive": "halluzinieren",
+    "level": "C2",
+    "category": "Algorithmic Creativity",
+    "arabic": "يُهَلْوِسُ خُوَارِزْمِيًّا",
+    "english": "to hallucinate patterns",
+    "conjugation": {
+      "praesens": {
+        "ich": "halluziniere",
+        "du": "halluzinierst",
+        "er_sie_es": "halluziniert",
+        "wir": "halluzinieren",
+        "ihr": "halluziniert",
+        "sie_Sie": "halluzinieren"
+      },
+      "praeteritum": {
+        "ich": "halluzinierte",
+        "er_sie_es": "halluzinierte"
+      },
+      "perfekt": "hat halluziniert"
+    },
+    "preposition": "in + Akk.",
+    "example_de": "DeepDream-Netzwerke halluzinieren surreale Augenpaare und Tierformen in neutrale Himmelspanoramen.",
+    "example_ar": "تُهَلْوِسُ شَبَكَاتُ دِيب دْرِيم عُيُونًا سِرْيَالِيَّةً وَأَشْكَالَ حَيَوَانَاتٍ فِي بَانُورَامَا السَّمَاءِ المُحَايِدَةِ.",
+    "example_en": "DeepDream networks hallucinate surreal eyes and animal shapes into neutral sky panoramas.",
+    "svg_icon": "content/assets/svg/verb_c2_algo_017.svg"
+  },
+  {
+    "id": "verb_c2_algo_018",
+    "infinitive": "fraktalisieren",
+    "level": "C2",
+    "category": "Algorithmic Creativity",
+    "arabic": "يُنْشِئُ كُسَيْرَاتٍ جَمَالِيَّةً",
+    "english": "to fractalize form",
+    "conjugation": {
+      "praesens": {
+        "ich": "fraktalisiere",
+        "du": "fraktalisierst",
+        "er_sie_es": "fraktalisiert",
+        "wir": "fraktalisieren",
+        "ihr": "fraktalisiert",
+        "sie_Sie": "fraktalisieren"
+      },
+      "praeteritum": {
+        "ich": "fraktalisierte",
+        "er_sie_es": "fraktalisierte"
+      },
+      "perfekt": "hat fraktalisiert"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Rekursive Routinen fraktalisieren Grundformen durch unendliche Selbstähnlichkeit.",
+    "example_ar": "تُكَسِّرُ الإِجْرَاءَاتُ العَوْدِيَّةُ الأَشْكَالَ الأَسَاسِيَّةَ عَبْرَ التَّشَابُهِ الذَّاتِيِّ اللَّانِهَائِيِّ.",
+    "example_en": "Recursive routines fractalize base shapes through infinite self-similarity.",
+    "svg_icon": "content/assets/svg/verb_c2_algo_018.svg"
+  },
+  {
+    "id": "verb_c2_algo_019",
+    "infinitive": "reskalieren",
+    "level": "C2",
+    "category": "Algorithmic Creativity",
+    "arabic": "يُعِيدُ التَّحْجِيمَ الفَنِّيَّ",
+    "english": "to rescale dimensions",
+    "conjugation": {
+      "praesens": {
+        "ich": "reskaliere",
+        "du": "reskalierst",
+        "er_sie_es": "reskaliert",
+        "wir": "reskalieren",
+        "ihr": "reskaliert",
+        "sie_Sie": "reskalieren"
+      },
+      "praeteritum": {
+        "ich": "reskalierte",
+        "er_sie_es": "reskalierte"
+      },
+      "perfekt": "hat reskaliert"
+    },
+    "preposition": "auf + Akk.",
+    "example_de": "Super-Resolution-Modelle reskalieren historische Druckgrafiken verlustfrei auf gigantische Großformate.",
+    "example_ar": "تُعِيدُ نَمَاذِجُ الدِّقَّةِ الفَائِقَةِ تَحْجِيمَ المَطْبُوعَاتِ التَّارِيخِيَّةِ دُونَ فَقْدٍ إِلَى مَقَايِيسَ عِمْلَاقَةٍ.",
+    "example_en": "Super-resolution models losslessly rescale historical prints onto gigantic large formats.",
+    "svg_icon": "content/assets/svg/verb_c2_algo_019.svg"
+  },
+  {
+    "id": "verb_c2_algo_020",
+    "infinitive": "transzendieren",
+    "level": "C2",
+    "category": "Algorithmic Creativity",
+    "arabic": "يَتَجَاوَزُ الأَنْمَاطَ التَّقْلِيدِيَّةَ",
+    "english": "to transcend traditional paradigms",
+    "conjugation": {
+      "praesens": {
+        "ich": "transzendiere",
+        "du": "transzendierst",
+        "er_sie_es": "transzendiert",
+        "wir": "transzendieren",
+        "ihr": "transzendiert",
+        "sie_Sie": "transzendieren"
+      },
+      "praeteritum": {
+        "ich": "transzendierte",
+        "er_sie_es": "transzendierte"
+      },
+      "perfekt": "hat transzendiert"
+    },
+    "preposition": "über + Akk.",
+    "example_de": "Autonome Kunstsysteme transzendieren die Grenzen klassischer anthropozentrischer Ästhetik.",
+    "example_ar": "تَتَجَاوَزُ أَنْظِمَةُ الفَنِّ ذَاتِيَّةُ التَّشْغِيلِ حُدُودَ الجَمَالِيَّاتِ المَرْكَزِيَّةِ البَشَرِيَّةِ التَّقْلِيدِيَّةِ.",
+    "example_en": "Autonomous art systems transcend the boundaries of classical anthropocentric aesthetics.",
+    "svg_icon": "content/assets/svg/verb_c2_algo_020.svg"
+  }
+]
