@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <defs>
+    <linearGradient id="grad_dt_2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#263238" />
+      <stop offset="100%" stop-color="#37474F" />
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="18" fill="url(#grad_dt_2)" />
+  <rect x="15" y="20" width="70" height="8" rx="2" fill="#FFFFFF" opacity="0.85" />
+  <rect x="15" y="32" width="70" height="12" rx="2" fill="#FFFFFF" opacity="0.65" />
+  <rect x="15" y="48" width="70" height="7" rx="2" fill="#FFFFFF" opacity="0.5" />
+  <rect x="15" y="59" width="70" height="14" rx="2" fill="#FFFFFF" opacity="0.75" />
+  <line x1="30" y1="16" x2="70" y2="76" stroke="#FFD54F" stroke-width="2" stroke-dasharray="2 2" opacity="0.9" />
+  <circle cx="50" cy="46" r="6" fill="#FFD54F" />
+  <text x="50" y="88" font-family="system-ui, sans-serif" font-size="6.5" font-weight="bold" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.5">GEO-03</text>
+</svg>
