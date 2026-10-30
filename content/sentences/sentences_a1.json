@@ -11003,6 +11003,185 @@
         "Akkusativ Feminin 'die Zivilisation'",
         "Genitivattribut Feminin 'der Zukunft'"
       ]
+    },
+    {
+      "id": "sent_466",
+      "category": "unifying_hearts",
+      "difficulty": "A1+",
+      "arabic": "الحِكْمَةُ تُوَحِّدُ القُلُوبَ فِي سَلَامٍ دَائِمٍ.",
+      "german": "Die Weisheit unifiziert die Herzen in dauerhaftem Frieden.",
+      "english": "Wisdom unifies hearts in lasting peace.",
+      "tokens": [
+        {
+          "word": "Die Weisheit",
+          "pos": "noun",
+          "ar": "الحِكْمَةُ"
+        },
+        {
+          "word": "unifiziert",
+          "pos": "verb",
+          "ar": "تُوَحِّدُ"
+        },
+        {
+          "word": "die Herzen",
+          "pos": "noun",
+          "ar": "القُلُوبَ"
+        },
+        {
+          "word": "in dauerhaftem Frieden",
+          "pos": "preposition_phrase",
+          "ar": "فِي سَلَامٍ دَائِمٍ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Feminin Nominativ",
+        "Akkusativ Plural 'die Herzen'",
+        "Präposition 'in' + Dativ Maskulin mit starker Adjektivendung 'dauerhaftem Frieden'"
+      ]
+    },
+    {
+      "id": "sent_467",
+      "category": "transcending_fear",
+      "difficulty": "A1+",
+      "arabic": "العَقْلُ يَتَسَامَى فَوْقَ المَخَاوِفِ بِالشَّجَاعَةِ.",
+      "german": "Der Verstand transzendiert die Ängste mit Mut.",
+      "english": "The mind transcends fears with courage.",
+      "tokens": [
+        {
+          "word": "Der Verstand",
+          "pos": "noun",
+          "ar": "العَقْلُ"
+        },
+        {
+          "word": "transzendiert",
+          "pos": "verb",
+          "ar": "يَتَسَامَى فَوْقَ"
+        },
+        {
+          "word": "die Ängste",
+          "pos": "noun",
+          "ar": "المَخَاوِفَ"
+        },
+        {
+          "word": "mit Mut",
+          "pos": "preposition_phrase",
+          "ar": "بِالشَّجَاعَةِ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Maskulin Nominativ",
+        "Akkusativ Plural Feminin 'die Ängste'",
+        "Präposition 'mit' + Dativ Maskulin ohne Artikel 'Mut'"
+      ]
+    },
+    {
+      "id": "sent_468",
+      "category": "peaceful_coexistence",
+      "difficulty": "A1+",
+      "arabic": "نَحْنُ نَتَعَايَشُ بِاحْتِرَامٍ فِي هَذَا العَالَمِ.",
+      "german": "Wir koexistieren mit Respekt in dieser Welt.",
+      "english": "We co-exist with respect in this world.",
+      "tokens": [
+        {
+          "word": "Wir",
+          "pos": "pronoun",
+          "ar": "نَحْنُ"
+        },
+        {
+          "word": "koexistieren",
+          "pos": "verb",
+          "ar": "نَتَعَايَشُ"
+        },
+        {
+          "word": "mit Respekt",
+          "pos": "preposition_phrase",
+          "ar": "بِاحْتِرَامٍ"
+        },
+        {
+          "word": "in dieser Welt",
+          "pos": "preposition_phrase",
+          "ar": "فِي هَذَا العَالَمِ"
+        }
+      ],
+      "grammar_points": [
+        "Präsens 1. Person Plural",
+        "Präposition 'mit' + Dativ Maskulin 'Respekt'",
+        "Präposition 'in' + Dativ Feminin mit Demonstrativartikel 'dieser Welt'"
+      ]
+    },
+    {
+      "id": "sent_469",
+      "category": "culmination_knowledge",
+      "difficulty": "A1+",
+      "arabic": "العِلْمُ يَبْلُغُ الذِّرْوَةَ حِينَ يَنْفَعُ النَّاسَ.",
+      "german": "Das Wissen kulminiert, wenn es den Menschen nützt.",
+      "english": "Knowledge culminates when it benefits humanity.",
+      "tokens": [
+        {
+          "word": "Das Wissen",
+          "pos": "noun",
+          "ar": "العِلْمُ"
+        },
+        {
+          "word": "kulminiert",
+          "pos": "verb",
+          "ar": "يَبْلُغُ الذِّرْوَةَ"
+        },
+        {
+          "word": "wenn es",
+          "pos": "conjunction_clause",
+          "ar": "حِينَ هُوَ"
+        },
+        {
+          "word": "den Menschen",
+          "pos": "dative_noun",
+          "ar": "النَّاسَ (حالة الجر)"
+        },
+        {
+          "word": "nützt",
+          "pos": "verb",
+          "ar": "يَنْفَعُ"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Neutrum Nominativ",
+        "Konditionaler/Temporaler Nebensatz mit 'wenn' und Verb am Ende",
+        "Verb 'nützen' regiert Dativ Plural 'den Menschen'"
+      ]
+    },
+    {
+      "id": "sent_470",
+      "category": "journey_future",
+      "difficulty": "A1+",
+      "arabic": "المَسِيرَةُ تَتَوَاصَلُ بِنَجَاحٍ نَحْوَ المُسْتَقْبَلِ.",
+      "german": "Die Reise setzt sich erfolgreich in die Zukunft fort.",
+      "english": "The journey continues successfully into the future.",
+      "tokens": [
+        {
+          "word": "Die Reise",
+          "pos": "noun",
+          "ar": "المَسِيرَةُ / الرِّحْلَةُ"
+        },
+        {
+          "word": "setzt sich ... fort",
+          "pos": "separable_reflexive_verb",
+          "ar": "تَتَوَاصَلُ / تَسْتَمِرُّ"
+        },
+        {
+          "word": "erfolgreich",
+          "pos": "adverb",
+          "ar": "بِنَجَاحٍ"
+        },
+        {
+          "word": "in die Zukunft",
+          "pos": "preposition_phrase",
+          "ar": "نَحْوَ المُسْتَقْبَلِ"
+        }
+      ],
+      "grammar_points": [
+        "Trennbares reflexives Verb 'sich fortsetzen'",
+        "Richtungsausdruck 'in' + Akkusativ Feminin 'die Zukunft'"
+      ]
     }
   ]
 }

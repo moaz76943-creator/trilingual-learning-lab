@@ -1,0 +1,451 @@
+{
+  "category_id": "c2_cosmic_pansophy_verbs_c2",
+  "category_title": {
+    "ar": "أفعال الحكمة الكونية والتأليف الميتافيزيقي والوعي الفائق",
+    "de": "Kosmische Pansophie-, metaphysische Synthese- und Vollendungsverben",
+    "en": "C2 Cosmic Pansophy, Metaphysical Synthesis & Transfinite Consciousness Verbs"
+  },
+  "level": "C2",
+  "items": [
+    {
+      "id": "verb_pansophieren",
+      "german": "pansophieren",
+      "arabic": "يَتَفَلْسَفُ شُمُولِيًّا / يَنْظُرُ فِي العَالَمِ بِعَيْنِ الحِكْمَةِ الكُلِّيَّةِ",
+      "english": "to philosophize pansophically across all realms of knowledge",
+      "conjugation": {
+        "praesens": "er/sie/es pansophiert",
+        "praeteritum": "pansophierte",
+        "perfekt": "hat gepansophiert"
+      },
+      "preposition": "über + Akk",
+      "collocations": [
+        "über die All-Einheit pansophieren",
+        "Wissenszweige pansophisch verknüpfen"
+      ],
+      "example_sentence": {
+        "de": "Comenius pansophierte über eine ganzheitliche Erziehung, die den Menschen mit Gott und dem Kosmos versöhnt.",
+        "ar": "تَفَلْسَفَ كُومِينْيُوس شُمُولِيًّا حَوْلَ تَرْبِيَةٍ كُلِّيَّةٍ تُوَفِّقُ بَيْنَ الإِنْسَانِ وَالخَالِقِ وَالكَوْنِ.",
+        "en": "Comenius pansophically envisioned an integral education harmonizing humanity with the divine and the cosmos."
+      },
+      "image": "assets/svg/verb_pansophieren.svg"
+    },
+    {
+      "id": "verb_konvergieren_pansophy",
+      "german": "konvergieren",
+      "arabic": "يَتَقَارَبُ كَوْنِيًّا / يَلْتَقِي فِي نُقْطَةِ تَكَامُلٍ عُلْيَا",
+      "english": "to converge into unified cosmic consciousness",
+      "conjugation": {
+        "praesens": "er/sie/es konvergiert",
+        "praeteritum": "konvergierte",
+        "perfekt": "hat / ist konvergiert"
+      },
+      "preposition": "in + Dat / zu + Dat",
+      "collocations": [
+        "im Punkt Omega konvergieren",
+        "zu einer universalen Erkenntnis konvergieren"
+      ],
+      "example_sentence": {
+        "de": "Nach Teilhard de Chardin konvergieren alle evolutionären Linien letztlich in einem transzendenten Punkt des Geistes.",
+        "ar": "وَفْقًا لِتِيلَار دُو شَارْدَان، تَتَقَارَبُ كُلُّ خُطُوطِ التَّطَوُّرِ نِهَائِيًّا فِي نُقْطَةٍ رُوحِيَّةٍ مُتَعَالِيَةٍ.",
+        "en": "According to Teilhard de Chardin, all evolutionary trajectories ultimately converge into a transcendent point of consciousness."
+      },
+      "image": "assets/svg/verb_konvergieren_pansophy.svg"
+    },
+    {
+      "id": "verb_einbetten_kosm",
+      "german": "einbetten",
+      "arabic": "يَحْتَضِنُ فِي النَّسِيجِ الكَوْنِيِّ / يُمَوْضِعُ فِي كُلٍّ أَسْمَى",
+      "english": "to enfold or embed within the universal matrix",
+      "conjugation": {
+        "praesens": "er/sie/es bettet ein",
+        "praeteritum": "bettete ein",
+        "perfekt": "hat eingebettet"
+      },
+      "preposition": "in + Akk",
+      "collocations": [
+        "menschliches Handeln in kosmische Ordnungen einbetten",
+        "die Existenz in das Ganze einbetten"
+      ],
+      "example_sentence": {
+        "de": "Östliche wie westliche Mystik bemühen sich, die menschliche Existenz harmonisch in das Webmuster des Kosmos einzubetten.",
+        "ar": "يَسْعَى التَّصَوُّفُ الشَّرْقِيُّ وَالغَرْبِيُّ إِلَى احْتِضَانِ الوُجُودِ الإِنْسَانِيِّ بِتَنَاغُمٍ دَاخِلَ نَسِيجِ الكَوْنِ الكُلِّيِّ.",
+        "en": "Mystical traditions strive to harmonize human existence by embedding it within the cosmological tapestry."
+      },
+      "image": "assets/svg/verb_einbetten_kosm.svg"
+    },
+    {
+      "id": "verb_entfalten_sich_bohm",
+      "german": "sich entfalten",
+      "arabic": "يَنْبَسِطُ وَيَتَجَلَّى عَيَانِيًّا مِنَ النِّظَامِ المُنْطَوِي (دِيفِيد بُوم)",
+      "english": "to unfold from the implicate into the explicate order",
+      "conjugation": {
+        "praesens": "er/sie/es entfaltet sich",
+        "praeteritum": "entfaltete sich",
+        "perfekt": "hat sich entfaltet"
+      },
+      "preposition": "aus + Dat",
+      "collocations": [
+        "sich aus der implikaten Ordnung entfalten",
+        "zu materieller Wirklichkeit entfalten"
+      ],
+      "example_sentence": {
+        "de": "In der Quantenontologie David Bohms entfaltet sich die sichtbare Welt fortwährend aus einem unsichtbaren, unteilbaren Urgrund.",
+        "ar": "تَنْبَسِطُ المَادَّةُ المَرْئِيَّةُ فِي أُونْتُولُوجْيَا دِيفِيد بُوم الكَمُّومِيَّةِ بِاسْتِمْرَارٍ مِنْ أَصْلٍ بَدْئِيٍّ خَفِيٍّ لَا يَتَجَزَّأُ.",
+        "en": "In David Bohm's quantum ontology, the explicate realm ceaselessly unfolds from an indivisible, enfolded ground."
+      },
+      "image": "assets/svg/verb_entfalten_sich_bohm.svg"
+    },
+    {
+      "id": "verb_verschraenken_pansophy",
+      "german": "verschränken",
+      "arabic": "يَشْبِكُ كَمُّومِيًّا وَمِيتَافِيزِيقِيًّا / يَرْبِطُ الأَشْيَاءَ عَبْرَ الأَبْعَادِ",
+      "english": "to entangle across cosmic and quantum dimensions",
+      "conjugation": {
+        "praesens": "er/sie/es verschränkt",
+        "praeteritum": "verschränkte",
+        "perfekt": "hat verschränkt"
+      },
+      "preposition": "mit + Dat",
+      "collocations": [
+        "Geist und Materie untrennbar verschränken",
+        "über Lichtjahre hinweg verschränkt sein"
+      ],
+      "example_sentence": {
+        "de": "Die moderne Quantenphilosophie postuliert, dass Beobachter und Universum in einer unauflöslichen Einheit miteinander verschränkt sind.",
+        "ar": "تَفْتَرِضُ الفَلْسَفَةُ الكَمُّومِيَّةُ الحَدِيثَةُ أَنَّ الرَّاصِدَ وَالكَوْنَ مُتَشَابِكَانِ مَعًا فِي وَحْدَةٍ لَا تَقْبَلُ الِانْفِصَالَ.",
+        "en": "Modern quantum philosophy posits that the conscious observer and the universe are inextricably entangled in non-local unity."
+      },
+      "image": "assets/svg/verb_verschraenken_pansophy.svg"
+    },
+    {
+      "id": "verb_harmonieren_sphaeren",
+      "german": "harmonieren",
+      "arabic": "يَتَنَاغَمُ مَعَ إِيقَاعِ الكَوْنِ وَمُوسِيقَى الأَفْلَاكِ",
+      "english": "to harmonize with the cosmic music of the spheres",
+      "conjugation": {
+        "praesens": "er/sie/es harmoniert",
+        "praeteritum": "harmonierte",
+        "perfekt": "hat harmoniert"
+      },
+      "preposition": "mit + Dat",
+      "collocations": [
+        "mit den Gesetzen des Kosmos harmonieren",
+        "in sphärischer Eintracht harmonieren"
+      ],
+      "example_sentence": {
+        "de": "Keplers Astronomie suchte nachzuweisen, wie die Bahnen der Planeten mit den musikalischen Harmonien harmonieren.",
+        "ar": "سَعَى عِلْمُ فَلَكِ كِيبْلِر إِلَى إِثْبَاتِ كَيْفَ تَتَنَاغَمُ مَدَارَاتُ الكَوَاكِبِ مَعَ الأَوْزَانِ المُوسِيقِيَّةِ الكَوْنِيَّةِ.",
+        "en": "Kepler's astronomy sought to demonstrate how planetary orbits harmonize with mathematical musical intervals."
+      },
+      "image": "assets/svg/verb_harmonieren_sphaeren.svg"
+    },
+    {
+      "id": "verb_kulminieren_omega",
+      "german": "kulminieren",
+      "arabic": "يَبْلُغُ الذِّرْوَةَ التَّطَوُّرِيَّةَ الكُبْرَى / يَتَوَّجُ فِي أَوْجِ الِارْتِقَاءِ",
+      "english": "to culminate at the evolutionary zenith",
+      "conjugation": {
+        "praesens": "er/sie/es kulminiert",
+        "praeteritum": "kulminierte",
+        "perfekt": "hat / ist kulminiert"
+      },
+      "preposition": "in + Dat",
+      "collocations": [
+        "in universeller Liebe kulminieren",
+        "im kosmischen Bewusstsein kulminieren"
+      ],
+      "example_sentence": {
+        "de": "Milliarden Jahre kosmischer Evolution kulminieren im Erwachen eines Geistes, der das Universum selbst begreift.",
+        "ar": "تَتَوَّجُ مَلَايِينُ السِّنِينَ مِنَ التَّطَوُّرِ الكَوْنِيِّ فِي صَحْوَةِ عَقْلٍ يُدْرِكُ الكَوْنَ بِذَاتِهِ.",
+        "en": "Billions of years of cosmic evolution culminate in the awakening of a mind capable of understanding the cosmos."
+      },
+      "image": "assets/svg/verb_kulminieren_omega.svg"
+    },
+    {
+      "id": "verb_transzendieren_omega",
+      "german": "transzendieren",
+      "arabic": "يَتَسَامَى فَوْقَ حُدُودِ الزَّمَكَانِ وَالثُّنَائِيَّاتِ",
+      "english": "to transcend all spatiotemporal and dualistic boundaries",
+      "conjugation": {
+        "praesens": "er/sie/es transzendiert",
+        "praeteritum": "transzendierte",
+        "perfekt": "hat transzendiert"
+      },
+      "preposition": "über + Akk",
+      "collocations": [
+        "alle Beschränkungen transzendieren",
+        "das Raum-Zeit-Gefüge transzendieren"
+      ],
+      "example_sentence": {
+        "de": "Das integrale Bewusstsein transzendiert jede dualistische Trennung zwischen Immanenz und Transzendenz.",
+        "ar": "يَتَسَامَى الوَعْيُ التَّكَامُلِيُّ فَوْقَ أَيِّ فَصْلٍ ثُنَائِيٍّ بَيْنَ العَالَمِ المَحْسُوسِ وَالغَيْبِ المُتَعَالِي.",
+        "en": "Integral consciousness transcends any dualistic cleavage between immanence and transcendence."
+      },
+      "image": "assets/svg/verb_transzendieren_omega.svg"
+    },
+    {
+      "id": "verb_unifizieren",
+      "german": "unifizieren",
+      "arabic": "يُوَحِّدُ القُوَى وَالمَفَاهِيمَ فِي نَظَرِيَّةِ كُلِّ شَيْءٍ",
+      "english": "to unify physical forces and philosophical concepts",
+      "conjugation": {
+        "praesens": "er/sie/es unifiziert",
+        "praeteritum": "unifizierte",
+        "perfekt": "hat unifiziert"
+      },
+      "preposition": "in + Dat / zu + Dat",
+      "collocations": [
+        "die vier Grundkräfte der Physik unifizieren",
+        "Geist und Materie unifizieren"
+      ],
+      "example_sentence": {
+        "de": "Die theoretische Physik strebt danach, Gravitation und Quantenmechanik in einer einheitlichen Feldtheorie zu unifizieren.",
+        "ar": "تَسْعَى الفِيزْيَاءُ النَّظَرِيَّةُ إِلَى تَوْحِيدِ الجَاذِبِيَّةِ وَمِيكَانِيكَا الكَمِّ فِي نَظَرِيَّةِ مَجَالٍ كُلِّيَّةٍ مُوَحَّدَةٍ.",
+        "en": "Theoretical physics endeavors to unify gravitation and quantum mechanics into a single grand unified theory."
+      },
+      "image": "assets/svg/verb_unifizieren.svg"
+    },
+    {
+      "id": "verb_koexistieren_pluri",
+      "german": "koexistieren",
+      "arabic": "يَتَعَايَشُ فِي بَلُورِيفِرْسِ العَوَالِمِ المُتَعَدِّدَةِ المَفْتُوحَةِ",
+      "english": "to co-exist within the pluriverse",
+      "conjugation": {
+        "praesens": "er/sie/es koexistiert",
+        "praeteritum": "koexistierte",
+        "perfekt": "hat koexistiert"
+      },
+      "preposition": "mit + Dat",
+      "collocations": [
+        "in kosmischer Vielfalt koexistieren",
+        "friedlich und gleichberechtigt koexistieren"
+      ],
+      "example_sentence": {
+        "de": "Im Pluriversum koexistieren unzählige Seinsweisen und Kosmologien, ohne einander ihre Eigenart streitig zu machen.",
+        "ar": "تَتَعَايَشُ فِي عَالَمِ العَوَالِمِ (البْلُورِيفِرْس) رُؤًى كَوْنِيَّةٌ لَا حَصْرَ لَهَا دُونَ أَنْ تَنْتَزِعَ إِحْدَاهَا خُصُوصِيَّةَ الأُخْرَى.",
+        "en": "Within the pluriverse, myriad modes of being co-exist without encroaching upon one another's uniqueness."
+      },
+      "image": "assets/svg/verb_koexistieren_pluri.svg"
+    },
+    {
+      "id": "verb_durchdringen_kosm",
+      "german": "durchdringen",
+      "arabic": "يَتَخَلَّلُ وَيَنْفُذُ فِي كُلِّ ذَرَّةٍ مِنْ ذَرَّاتِ الوُجُودِ",
+      "english": "to permeate or pervade reality entirely",
+      "conjugation": {
+        "praesens": "er/sie/es durchdringt",
+        "praeteritum": "durchdrang",
+        "perfekt": "hat durchdrungen"
+      },
+      "preposition": "Akkusativ",
+      "collocations": [
+        "das gesamte Universum durchdringen",
+        "alle Seinsbereiche mit Geist durchdringen"
+      ],
+      "example_sentence": {
+        "de": "Ein unsichtbares Geflecht aus Energie und Sinn durchdringt den Kosmos von der kleinsten Zelle bis zur weitesten Galaxie.",
+        "ar": "تَتَخَلَّلُ شَبَكَةٌ غَيْرُ مَرْئِيَّةٍ مِنَ الطَّاقَةِ وَالمَعْنَى الكَوْنَ كُلَّهُ مِنْ أَصْغَرِ خَلِيَّةٍ إِلَى أَبْعَدِ مَجَرَّةٍ.",
+        "en": "An imperceptible matrix of energy and meaning permeates the cosmos from the tiniest cell to the farthest galaxy."
+      },
+      "image": "assets/svg/verb_durchdringen_kosm.svg"
+    },
+    {
+      "id": "verb_erhellen_pansophy",
+      "german": "erhellen",
+      "arabic": "يُنِيرُ بِنُورِ الحِكْمَةِ الشَّامِلَةِ دُرُوبَ الإِنْسَانِيَّةِ",
+      "english": "to illuminate existence with pansophic insight",
+      "conjugation": {
+        "praesens": "er/sie/es erhellt",
+        "praeteritum": "erhellte",
+        "perfekt": "hat erhellt"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "das Dunkel der Unwissenheit erhellen",
+        "die Geheimnisse des Seins erhellen"
+      ],
+      "example_sentence": {
+        "de": "Die Synthese aus Vernunft und Kontemplation erhellt die fundamentalen Fragen nach Herkunft und Bestimmung des Menschen.",
+        "ar": "يُنِيرُ التَّأْلِيفُ بَيْنَ العَقْلِ وَالتَّأَمُّلِ الأَسْئِلَةَ الجَوْهَرِيَّةَ حَوْلَ أَصْلِ الإِنْسَانِ وَمَصِيرِهِ.",
+        "en": "The synthesis of reason and contemplation illuminates the foundational questions of human origin and destiny."
+      },
+      "image": "assets/svg/verb_erhellen_pansophy.svg"
+    },
+    {
+      "id": "verb_resuemieren",
+      "german": "resümieren",
+      "arabic": "يُلَخِّصُ وَيُؤَلِّفُ رِحْلَةَ المَعْرِفَةِ الطَّوِيلَةَ",
+      "english": "to synthesize and consummate a journey of knowledge",
+      "conjugation": {
+        "praesens": "er/sie/es resümiert",
+        "praeteritum": "resümierte",
+        "perfekt": "hat resümiert"
+      },
+      "preposition": "in + Dat",
+      "collocations": [
+        "Jahrtausende des Denkens resümieren",
+        "die Gesamtheit des Lernens resümieren"
+      ],
+      "example_sentence": {
+        "de": "Am Ende seines monumentalen Werkes resümierte der Universalgelehrte die Höhepunkte menschlicher Geistesgeschichte.",
+        "ar": "لَخَّصَ العَالِمُ المَوْسُوعِيُّ فِي خِتَامِ عَمَلِهِ الخَالِدِ ذُرَى تَارِيخِ الفِكْرِ الإِنْسَانِيِّ عَبْرَ العُصُورِ.",
+        "en": "At the conclusion of his magnum opus, the polymath summarized the pinnacles of human intellectual history."
+      },
+      "image": "assets/svg/verb_resuemieren.svg"
+    },
+    {
+      "id": "verb_erbluehen",
+      "german": "erblühen",
+      "arabic": "تَزْدَهِرُ الإِنْسَانِيَّةُ فِي وَعْيِهَا الكَوْنِيِّ السَّامِي",
+      "english": "to blossom into full cosmic flourishing",
+      "conjugation": {
+        "praesens": "er/sie/es erblüht",
+        "praeteritum": "erblühte",
+        "perfekt": "ist erblüht"
+      },
+      "preposition": "zu + Dat",
+      "collocations": [
+        "zu voller Entfaltung erblühen",
+        "in harmonischer Pracht erblühen"
+      ],
+      "example_sentence": {
+        "de": "Befreit von provinzieller Enge erblüht das menschliche Potential in ungeahnter kreativer Fülle.",
+        "ar": "تَزْدَهِرُ الطَّاقَاتُ الإِنْسَانِيَّةُ بِفَيْضٍ إِبْدَاعِيٍّ غَيْرِ مَسْبُوقٍ حِينَ تَتَحَرَّرُ مِنْ ضِيقِ النَّظْرَةِ المَحَلِّيَّةِ.",
+        "en": "Liberated from provincial confinement, human potential blossoms into unprecedented creative richness."
+      },
+      "image": "assets/svg/verb_erbluehen.svg"
+    },
+    {
+      "id": "verb_erloesen_metaph",
+      "german": "erlösen",
+      "arabic": "يَنْعَتِقُ وَيَتَحَرَّرُ مِنَ الوَهْمِ وَالانْفِصَالِ",
+      "english": "to redeem from existential separation and suffering",
+      "conjugation": {
+        "praesens": "er/sie/es erlöst",
+        "praeteritum": "erlöste",
+        "perfekt": "hat erlöst"
+      },
+      "preposition": "von + Dat / aus + Dat",
+      "collocations": [
+        "aus den Fesseln der Illusion erlösen",
+        "zu spiritueller Freiheit erlösen"
+      ],
+      "example_sentence": {
+        "de": "Wahre Selbsterkenntnis erlöst den Geist aus der qualvollen Täuschung isolierten Alleinseins.",
+        "ar": "يُحَرِّرُ الإِدْرَاكُ الصَّادِقُ لِلذَّاتِ العَقْلَ مِنْ وَهْمِ الانْعِزَالِ وَالشُّعُورِ بِالغُرْبَةِ.",
+        "en": "Authentic self-realization redeems the mind from the painful illusion of isolated separation."
+      },
+      "image": "assets/svg/verb_erloesen_metaph.svg"
+    },
+    {
+      "id": "verb_verschmelzen_pansophy",
+      "german": "verschmelzen",
+      "arabic": "يَنْصَهِرُ وَيَتَّحِدُ فِي الوَعْيِ الكُلِّيِّ الشَّامِلِ",
+      "english": "to merge into unitive wholeness",
+      "conjugation": {
+        "praesens": "er/sie/es verschmilzt",
+        "praeteritum": "verschmolz",
+        "perfekt": "ist verschmolzen"
+      },
+      "preposition": "mit + Dat",
+      "collocations": [
+        "mit dem Urgrund verschmelzen",
+        "zu einer untrennbaren Einheit verschmelzen"
+      ],
+      "example_sentence": {
+        "de": "Im tiefsten mystischen Zustand verschmilzt die individuelle Seele mit dem unendlichen Strom des Seins.",
+        "ar": "تَنْصَهِرُ الرُّوحُ الفَرْدِيَّةُ فِي أَعْمَقِ مَقَامَاتِ الِاتِّحَادِ الرُّوحِيِّ فِي نَهْرِ الوُجُودِ اللَّانِهَائِيِّ.",
+        "en": "In the deepest mystical absorption, the individual soul merges with the infinite current of being."
+      },
+      "image": "assets/svg/verb_verschmelzen_pansophy.svg"
+    },
+    {
+      "id": "verb_vergeistigen",
+      "german": "vergeistigen",
+      "arabic": "يُرَوْحِنُ المَادَّةَ / يَرْتَقِي بِالوَاقِعِ إِلَى مَصَافِّ الفِكْرِ وَالرُّوحِ",
+      "english": "to spiritualize material reality",
+      "conjugation": {
+        "praesens": "er/sie/es vergeistigt",
+        "praeteritum": "vergeistigte",
+        "perfekt": "hat vergeistigt"
+      },
+      "preposition": "durch + Akk",
+      "collocations": [
+        "stoffliche Prozesse vergeistigen",
+        "das Dasein durch Kunst vergeistigen"
+      ],
+      "example_sentence": {
+        "de": "Hegel sah in der Geschichte die fortwährende Bewegung, in der die Materie sich allmählich vergeistigt.",
+        "ar": "رَأَى هِيغِل فِي التَّارِيخِ حَرَكَةً مُسْتَمِرَّةً تَرْتَقِي فِيهَا المَادَّةُ تَدْرِيجِيًّا لِتَتَحَوَّلَ إِلَى فِكْرٍ وَرُوحٍ.",
+        "en": "Hegel perceived history as a ceaseless movement wherein matter progressively spiritualizes itself."
+      },
+      "image": "assets/svg/verb_vergeistigen.svg"
+    },
+    {
+      "id": "verb_perpetuieren_pansophy",
+      "german": "perpetuieren",
+      "arabic": "يُخَلِّدُ وَيُدِيمُ الحِكْمَةَ عَبْرَ الأَجْيَالِ وَالأَبْعَادِ",
+      "english": "to perpetuate wisdom across epochs",
+      "conjugation": {
+        "praesens": "er/sie/es perpetuiert",
+        "praeteritum": "perpetuierte",
+        "perfekt": "hat perpetuiert"
+      },
+      "preposition": "in + Dat",
+      "collocations": [
+        "das universale Wissen perpetuieren",
+        "ethische Maximen für die Ewigkeit perpetuieren"
+      ],
+      "example_sentence": {
+        "de": "Durch Bibliotheken, Code und lebendige Sprachpraxis perpetuiert die Menschheit ihr kostbarstes Kulturgut.",
+        "ar": "تُخَلِّدُ البَشَرِيَّةُ أَنْفَسَ تُرَاثِهَا الثَّقَافِيِّ عَبْرَ المَكْتَبَاتِ، وَالشَّفَرَاتِ، وَالمُمَارَسَةِ اللُّغَوِيَّةِ الحَيَّةِ.",
+        "en": "Through libraries, open code, and living linguistic practice, humanity perpetuates its most precious cultural heritage."
+      },
+      "image": "assets/svg/verb_perpetuieren_pansophy.svg"
+    },
+    {
+      "id": "verb_erstrahlen",
+      "german": "erstrahlen",
+      "arabic": "يَشِعُّ وَيَتَلَأْلَأُ بِضِيَاءِ المَعْرِفَةِ الخَالِدَةِ",
+      "english": "to radiate with immutable insight and truth",
+      "conjugation": {
+        "praesens": "er/sie/es erstrahlt",
+        "praeteritum": "erstrahlte",
+        "perfekt": "hat / ist erstrahlt"
+      },
+      "preposition": "in + Dat",
+      "collocations": [
+        "in neuem Glanz erstrahlen",
+        "in vollkommener Klarheit erstrahlen"
+      ],
+      "example_sentence": {
+        "de": "Wenn Wahrheit, Güte und Schönheit zusammenfallen, erstrahlt die Welt in ihrer ureigenen Vollkommenheit.",
+        "ar": "عِنْدَمَا تَلْتَقِي الحَقِيقَةُ وَالخَيْرُ وَالجَمَالُ فِي صَرْحٍ وَاحِدٍ، يَشِعُّ العَالَمُ فِي بَهَائِهِ الأَصِيلِ.",
+        "en": "When truth, goodness, and beauty converge, reality radiates in its primordial perfection."
+      },
+      "image": "assets/svg/verb_erstrahlen.svg"
+    },
+    {
+      "id": "verb_vollenden",
+      "german": "vollenden",
+      "arabic": "يُتَمِّمُ وَيَبْلُغُ الكَمَالَ المَعْرِفِيَّ وَاللُّغَوِيَّ الأَسْمَى",
+      "english": "to consummate and perfect the comprehensive canon",
+      "conjugation": {
+        "praesens": "er/sie/es vollendet",
+        "praeteritum": "vollendete",
+        "perfekt": "hat vollendet"
+      },
+      "preposition": "mit + Dat",
+      "collocations": [
+        "das Lebenswerk feierlich vollenden",
+        "den Kanon der Sprachen vollenden"
+      ],
+      "example_sentence": {
+        "de": "Mit diesem meisterhaften Sprachlabor vollendet der Lernende seine Reise zur vollkommenen Dreisprachigkeit.",
+        "ar": "بِهَذَا المُخْتَبَرِ اللُّغَوِيِّ البَاهِرِ، يُتَمِّمُ المُتَعَلِّمُ رِحْلَتَهُ نَحْوَ التَّمَكُّنِ التَّامِّ مِنَ اللُّغَاتِ الثَّلَاثِ.",
+        "en": "With this consummate language laboratory, the learner perfects their journey toward complete trilingual mastery."
+      },
+      "image": "assets/svg/verb_vollenden.svg"
+    }
+  ]
+}
