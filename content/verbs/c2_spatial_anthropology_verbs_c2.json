@@ -1,0 +1,562 @@
+[
+  {
+    "id": "verb_c2_spatanthro_001",
+    "infinitive": "verorten",
+    "level": "C2",
+    "category": "Spatial Anthropology",
+    "arabic": "يُمَوْضِعُ مَكَانِيًّا / يُجَذِّرُ",
+    "english": "to localize / situate spatially",
+    "conjugation": {
+      "praesens": {
+        "ich": "verorte",
+        "du": "verortest",
+        "er_sie_es": "verortet",
+        "wir": "verorten",
+        "ihr": "verortet",
+        "sie_Sie": "verorten"
+      },
+      "praeteritum": {
+        "ich": "verortete",
+        "er_sie_es": "verortete"
+      },
+      "perfekt": "hat verortet"
+    },
+    "preposition": "in + Dat.",
+    "example_de": "Die Anthropologie verortet kulturelle Riten stets in spezifischen Topografien.",
+    "example_ar": "تُمَوْضِعُ الأَنْثْرُوبُولُوجْيَا الطُّقُوسَ الثَّقَافِيَّةَ دَائِمًا فِي طُوبُوغْرَافِيَّاتٍ مُحَدَّدَةٍ.",
+    "example_en": "Anthropology invariably situates cultural rites within specific topographies.",
+    "svg_icon": "content/assets/svg/verb_c2_spatanthro_001.svg"
+  },
+  {
+    "id": "verb_c2_spatanthro_002",
+    "infinitive": "aneignen",
+    "level": "C2",
+    "category": "Spatial Anthropology",
+    "arabic": "يَسْتَمْلِكُ الفَضَاءَ سِيمِيَائِيًّا",
+    "english": "to appropriate spatial meaning",
+    "conjugation": {
+      "praesens": {
+        "ich": "eigne mir an",
+        "du": "eignest dir an",
+        "er_sie_es": "eignet sich an",
+        "wir": "eignen uns an",
+        "ihr": "eignet euch an",
+        "sie_Sie": "eignen sich an"
+      },
+      "praeteritum": {
+        "ich": "eignete mir an",
+        "er_sie_es": "eignete sich an"
+      },
+      "perfekt": "hat sich angeeignet"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Bewohner eignen sich den städtischen Raum durch kollektive Raumpraktiken an.",
+    "example_ar": "يَسْتَمْلِكُ السُّكَّانُ الفَضَاءَ الحَضَرِيَّ عَبْرَ المُمَارَسَاتِ المَكَانِيَّةِ الجَمَاعِيَّةِ.",
+    "example_en": "Inhabitants appropriate urban space through collective spatial practices.",
+    "svg_icon": "content/assets/svg/verb_c2_spatanthro_002.svg"
+  },
+  {
+    "id": "verb_c2_spatanthro_003",
+    "infinitive": "bewohnen",
+    "level": "C2",
+    "category": "Spatial Anthropology",
+    "arabic": "يَسْكُنُ وُجُودِيًّا",
+    "english": "to inhabit existentially (Heidegger)",
+    "conjugation": {
+      "praesens": {
+        "ich": "bewohne",
+        "du": "bewohnst",
+        "er_sie_es": "bewohnt",
+        "wir": "bewohnen",
+        "ihr": "bewohnt",
+        "sie_Sie": "bewohnen"
+      },
+      "praeteritum": {
+        "ich": "bewohnte",
+        "er_sie_es": "bewohnte"
+      },
+      "perfekt": "hat bewohnt"
+    },
+    "preposition": "auf + Dat.",
+    "example_de": "Nach Martin Heidegger bewohnen die Sterblichen die Erde poetisch und achtsam.",
+    "example_ar": "وَفْقًا لِمَارْتِن هَايْدِيغِر، يَسْكُنُ الفَانُونَ الأَرْضَ شِعْرِيًّا وَبِعِنَايَةٍ.",
+    "example_en": "According to Martin Heidegger, mortals inhabit the earth poetically and mindfully.",
+    "svg_icon": "content/assets/svg/verb_c2_spatanthro_003.svg"
+  },
+  {
+    "id": "verb_c2_spatanthro_004",
+    "infinitive": "kartieren",
+    "level": "C2",
+    "category": "Spatial Anthropology",
+    "arabic": "يَرْسُمُ خَرَائِطَ مَعْرِفِيَّةً",
+    "english": "to map cognitive spaces",
+    "conjugation": {
+      "praesens": {
+        "ich": "kartiere",
+        "du": "kartierst",
+        "er_sie_es": "kartiert",
+        "wir": "kartieren",
+        "ihr": "kartiert",
+        "sie_Sie": "kartieren"
+      },
+      "praeteritum": {
+        "ich": "kartierte",
+        "er_sie_es": "kartierte"
+      },
+      "perfekt": "hat kartiert"
+    },
+    "preposition": "nach + Dat.",
+    "example_de": "Geografen kartieren urbane Quartiere nach affektiven Intensitäten der Einwohner.",
+    "example_ar": "يَرْسُمُ الجُغْرَافِيُّونَ خَرَائِطَ الأَحْيَاءِ الحَضَرِيَّةِ وَفْقًا لِلكَثَافَاتِ العَاطِفِيَّةِ لِلسُّكَّانِ.",
+    "example_en": "Geographers map urban districts according to inhabitants' affective intensities.",
+    "svg_icon": "content/assets/svg/verb_c2_spatanthro_004.svg"
+  },
+  {
+    "id": "verb_c2_spatanthro_005",
+    "infinitive": "durchstreifen",
+    "level": "C2",
+    "category": "Spatial Anthropology",
+    "arabic": "يَجُوبُ بِتَسَكُّعٍ نَفْسِيٍّ (دِيرِيف)",
+    "english": "to drift psychogeographically (dérive)",
+    "conjugation": {
+      "praesens": {
+        "ich": "durchstreife",
+        "du": "durchstreifst",
+        "er_sie_es": "durchstreift",
+        "wir": "durchstreifen",
+        "ihr": "durchstreift",
+        "sie_Sie": "durchstreifen"
+      },
+      "praeteritum": {
+        "ich": "durchstreifte",
+        "er_sie_es": "durchstreifte"
+      },
+      "perfekt": "hat durchstreift"
+    },
+    "preposition": "ohne + Akk.",
+    "example_de": "Flaneure durchstreifen die Metropole ohne vorgegebene Zielgerichtetheit.",
+    "example_ar": "يَجُوبُ المُتَسَكِّعُونَ الحَضَرِيُّونَ المَدِينَةَ دُونَ قَصْدِيَّةٍ مُحَدَّدَةٍ سَلَفًا.",
+    "example_en": "Flâneurs drift through the metropolis without predetermined purposiveness.",
+    "svg_icon": "content/assets/svg/verb_c2_spatanthro_005.svg"
+  },
+  {
+    "id": "verb_c2_spatanthro_006",
+    "infinitive": "resonieren",
+    "level": "C2",
+    "category": "Spatial Anthropology",
+    "arabic": "يَتَرَدَّدُ صَدَاهُ / يَتَجَاوَبُ وِجْدَانِيًّا",
+    "english": "to resonate environmentally (Rosa)",
+    "conjugation": {
+      "praesens": {
+        "ich": "resoniere",
+        "du": "resonierst",
+        "er_sie_es": "resoniert",
+        "wir": "resonieren",
+        "ihr": "resoniert",
+        "sie_Sie": "resonieren"
+      },
+      "praeteritum": {
+        "ich": "resonierte",
+        "er_sie_es": "resonierte"
+      },
+      "perfekt": "hat resoniert"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Das seelische Befinden resoniert unmittelbar mit der Stille unberührter Gebirgslandschaften.",
+    "example_ar": "تَتَجَاوَبُ الحَالَةُ النَّفْسِيَّةُ مُبَاشَرَةً مَعَ سُكُونِ المَشَاهِدِ الجَبَلِيَّةِ البِكْرِ.",
+    "example_en": "Psychological well-being resonates directly with the tranquility of pristine alpine landscapes.",
+    "svg_icon": "content/assets/svg/verb_c2_spatanthro_006.svg"
+  },
+  {
+    "id": "verb_c2_spatanthro_007",
+    "infinitive": "entfremden",
+    "level": "C2",
+    "category": "Spatial Anthropology",
+    "arabic": "يَسْتَلِبُ / يَعْزِلُ عَنِ المَحِيطِ",
+    "english": "to alienate from environment",
+    "conjugation": {
+      "praesens": {
+        "ich": "entfremde",
+        "du": "entfremdest",
+        "er_sie_es": "entfremdet",
+        "wir": "entfremden",
+        "ihr": "entfremdet",
+        "sie_Sie": "entfremden"
+      },
+      "praeteritum": {
+        "ich": "entfremdete",
+        "er_sie_es": "entfremdete"
+      },
+      "perfekt": "hat entfremdet"
+    },
+    "preposition": "von + Dat.",
+    "example_de": "Funktionalistische Betonarchitektur entfremdet Individuen von ihrer natürlichen Sinnlichkeit.",
+    "example_ar": "تَسْتَلِبُ العِمَارَةُ الخَرَسَانِيَّةُ الوَظِيفِيَّةُ الأَفْرَادَ مِنْ حِسِّيَّتِهِمُ الطَّبِيعِيَّةِ.",
+    "example_en": "Functionalist concrete architecture alienates individuals from their innate sensory grounding.",
+    "svg_icon": "content/assets/svg/verb_c2_spatanthro_007.svg"
+  },
+  {
+    "id": "verb_c2_spatanthro_008",
+    "infinitive": "situieren",
+    "level": "C2",
+    "category": "Spatial Anthropology",
+    "arabic": "يُوَقِّعُ فِي سِيَاقٍ مَكَانِيٍّ",
+    "english": "to situate contextually",
+    "conjugation": {
+      "praesens": {
+        "ich": "situiere",
+        "du": "situierst",
+        "er_sie_es": "situiert",
+        "wir": "situieren",
+        "ihr": "situiert",
+        "sie_Sie": "situieren"
+      },
+      "praeteritum": {
+        "ich": "situierte",
+        "er_sie_es": "situierte"
+      },
+      "perfekt": "hat situiert"
+    },
+    "preposition": "in + Dat.",
+    "example_de": "Phänomenologen situieren das Bewusstsein immer in einem leiblich erfahrenen Hier und Jetzt.",
+    "example_ar": "يُوَقِّعُ الفِينُومِينُولُوجِيُّونَ الوَعْيَ دَائِمًا فِي هُنَا وَالآنَ مُعَاشَيْنِ جَسَدِيًّا.",
+    "example_en": "Phenomenologists situate consciousness firmly in a somatically experienced here and now.",
+    "svg_icon": "content/assets/svg/verb_c2_spatanthro_008.svg"
+  },
+  {
+    "id": "verb_c2_spatanthro_009",
+    "infinitive": "dezentrieren",
+    "level": "C2",
+    "category": "Spatial Anthropology",
+    "arabic": "يُزِيحُ المَرْكَزِيَّةَ الإِنْسَانِيَّةَ",
+    "english": "to decenter anthropocentrically",
+    "conjugation": {
+      "praesens": {
+        "ich": "dezentriere",
+        "du": "dezentrierst",
+        "er_sie_es": "dezentriert",
+        "wir": "dezentrieren",
+        "ihr": "dezentriert",
+        "sie_Sie": "dezentrieren"
+      },
+      "praeteritum": {
+        "ich": "dezentrierte",
+        "er_sie_es": "dezentrierte"
+      },
+      "perfekt": "hat dezentriert"
+    },
+    "preposition": "zugunsten + Gen.",
+    "example_de": "Ökologische Raumtheorien dezentrieren den Menschen zugunsten multispezifischer Lebensgemeinschaften.",
+    "example_ar": "تُزِيحُ النَّظَرِيَّاتُ المَكَانِيَّةُ الإِيكُولُوجِيَّةُ الإِنْسَانَ لِصَالِحِ مُجْتَمَعَاتٍ حَيَوِيَّةٍ مُتَعَدِّدَةِ الأَنْوَاعِ.",
+    "example_en": "Ecological spatial theories decenter humanity in favor of multispecies assemblages.",
+    "svg_icon": "content/assets/svg/verb_c2_spatanthro_009.svg"
+  },
+  {
+    "id": "verb_c2_spatanthro_010",
+    "infinitive": "imaginieren",
+    "level": "C2",
+    "category": "Spatial Anthropology",
+    "arabic": "يَتَخَيَّلُ فَضَاءً جُغْرَافِيًّا",
+    "english": "to imagine spatialities",
+    "conjugation": {
+      "praesens": {
+        "ich": "imaginiere",
+        "du": "imaginierst",
+        "er_sie_es": "imaginiert",
+        "wir": "imaginieren",
+        "ihr": "imaginiert",
+        "sie_Sie": "imaginieren"
+      },
+      "praeteritum": {
+        "ich": "imaginierte",
+        "er_sie_es": "imaginierte"
+      },
+      "perfekt": "hat imaginiert"
+    },
+    "preposition": "als + Akk.",
+    "example_de": "Koloniale Mächte imaginierten fremde Territorien als unbesiedeltes terra nullius.",
+    "example_ar": "تَخَيَّلَتِ القُوَى الِاسْتِعْمَارِيَّةُ الأَرَاضِيَ الأَجْنَبِيَّةَ كَأَرْضٍ مَوَاتٍ غَيْرِ مَأْهُولَةٍ.",
+    "example_en": "Colonial powers imagined foreign territories as unoccupied terra nullius.",
+    "svg_icon": "content/assets/svg/verb_c2_spatanthro_010.svg"
+  },
+  {
+    "id": "verb_c2_spatanthro_011",
+    "infinitive": "vergegenwärtigen",
+    "level": "C2",
+    "category": "Spatial Anthropology",
+    "arabic": "يَسْتَحْضِرُ التَّارِيخَ المَكَانِيَّ",
+    "english": "to evoke historic presence of place",
+    "conjugation": {
+      "praesens": {
+        "ich": "vergegenwärtige",
+        "du": "vergegenwärtigst",
+        "er_sie_es": "vergegenwärtigt",
+        "wir": "vergegenwärtigen",
+        "ihr": "vergegenwärtigt",
+        "sie_Sie": "vergegenwärtigen"
+      },
+      "praeteritum": {
+        "ich": "vergegenwärtigte",
+        "er_sie_es": "vergegenwärtigte"
+      },
+      "perfekt": "hat vergegenwärtigt"
+    },
+    "preposition": "an + Dat.",
+    "example_de": "Gedenkstätten vergegenwärtigen vergangene Traumata an authentischen historischen Orten.",
+    "example_ar": "تَسْتَحْضِرُ النُّصُبُ التَّذْكَارِيَّةُ الصَّدَمَاتِ الغَابِرَةَ فِي أَمَاكِنَ تَارِيخِيَّةٍ أَصِيلَةٍ.",
+    "example_en": "Memorial sites evoke past historical traumas at authentic spatial locations.",
+    "svg_icon": "content/assets/svg/verb_c2_spatanthro_011.svg"
+  },
+  {
+    "id": "verb_c2_spatanthro_012",
+    "infinitive": "harmonisieren",
+    "level": "C2",
+    "category": "Spatial Anthropology",
+    "arabic": "يُوَاكِبُ بَيْنَ البِنَاءِ وَالطَّبِيعَةِ",
+    "english": "to harmonize with landscape",
+    "conjugation": {
+      "praesens": {
+        "ich": "harmonisiere",
+        "du": "harmonisierst",
+        "er_sie_es": "harmonisiert",
+        "wir": "harmonisieren",
+        "ihr": "harmonisiert",
+        "sie_Sie": "harmonisieren"
+      },
+      "praeteritum": {
+        "ich": "harmonisierte",
+        "er_sie_es": "harmonisierte"
+      },
+      "perfekt": "hat harmonisiert"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Traditionelle Lehmbauten harmonisieren perfekt mit den klimatischen Gegebenheiten der Wüste.",
+    "example_ar": "تَتَنَاغَمُ المَبَانِي الطِّينِيَّةُ التَّقْلِيدِيَّةُ مِثَالِيًّا مَعَ الظُّرُوفِ المُنَاخِيَّةِ لِلصَّحْرَاءِ.",
+    "example_en": "Vernacular earthen structures harmonize seamlessly with desert climatic conditions.",
+    "svg_icon": "content/assets/svg/verb_c2_spatanthro_012.svg"
+  },
+  {
+    "id": "verb_c2_spatanthro_013",
+    "infinitive": "artikulieren",
+    "level": "C2",
+    "category": "Spatial Anthropology",
+    "arabic": "يُفْصِحُ عَنْ هُوِيَّةِ المَكَانِ",
+    "english": "to articulate spatial identity",
+    "conjugation": {
+      "praesens": {
+        "ich": "artikuliere",
+        "du": "artikulierst",
+        "er_sie_es": "artikuliert",
+        "wir": "artikulieren",
+        "ihr": "artikuliert",
+        "sie_Sie": "artikulieren"
+      },
+      "praeteritum": {
+        "ich": "artikulierte",
+        "er_sie_es": "artikulierte"
+      },
+      "perfekt": "hat artikuliert"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Regionale Dialekte artikulieren tiefe Heimatverbundenheit durch lautliche Nuancen.",
+    "example_ar": "تُفْصِحُ اللَّهَجَاتُ المَحَلِّيَّةُ عَنِ ارْتِبَاطٍ عَمِيقٍ بِالمَوْطِنِ عَبْرَ الفُرُوقِ الصَّوْتِيَّةِ الدَّقِيقَةِ.",
+    "example_en": "Regional dialects articulate profound territorial affinity through phonetic nuances.",
+    "svg_icon": "content/assets/svg/verb_c2_spatanthro_013.svg"
+  },
+  {
+    "id": "verb_c2_spatanthro_014",
+    "infinitive": "regenerieren",
+    "level": "C2",
+    "category": "Spatial Anthropology",
+    "arabic": "يَسْتَرِدُّ العَافِيَةَ فِي الطَّبِيعَةِ",
+    "english": "to regenerate psychological energy",
+    "conjugation": {
+      "praesens": {
+        "ich": "regeneriere",
+        "du": "regenerierst",
+        "er_sie_es": "regeneriert",
+        "wir": "regenerieren",
+        "ihr": "regeneriert",
+        "sie_Sie": "regenerieren"
+      },
+      "praeteritum": {
+        "ich": "regenerierte",
+        "er_sie_es": "regenerierte"
+      },
+      "perfekt": "hat regeneriert"
+    },
+    "preposition": "in + Dat.",
+    "example_de": "Gestresste Stadtbewohner regenerieren ihre kognitiven Kräfte in ausgedehnten Wäldern.",
+    "example_ar": "يَسْتَرِدُّ سُكَّانُ المُدُنِ المُرْهَقُونَ طَاقَاتِهِمُ الإِدْرَاكِيَّةَ فِي الغَابَاتِ الفَسِيحَةِ.",
+    "example_en": "Stressed urbanites regenerate cognitive capacities within extensive woodland environments.",
+    "svg_icon": "content/assets/svg/verb_c2_spatanthro_014.svg"
+  },
+  {
+    "id": "verb_c2_spatanthro_015",
+    "infinitive": "transzendieren",
+    "level": "C2",
+    "category": "Spatial Anthropology",
+    "arabic": "يَتَسَامَى فَوْقَ الحُدُودِ المَادِّيَّةِ",
+    "english": "to transcend physical borders",
+    "conjugation": {
+      "praesens": {
+        "ich": "transzendiere",
+        "du": "transzendierst",
+        "er_sie_es": "transzendiert",
+        "wir": "transzendieren",
+        "ihr": "transzendiert",
+        "sie_Sie": "transzendieren"
+      },
+      "praeteritum": {
+        "ich": "transzendierte",
+        "er_sie_es": "transzendierte"
+      },
+      "perfekt": "hat transzendiert"
+    },
+    "preposition": "über + Akk.",
+    "example_de": "Nomadische Gemeinschaften transzendieren staatliche Grenzziehungen durch saisonale Wanderungen.",
+    "example_ar": "تَتَجَاوَزُ المُجْتَمَعَاتُ البَدَوِيَّةُ حُدُودَ الدُّوَلِ عَبْرَ التَّرْحَالِ المَوْسِمِيِّ.",
+    "example_en": "Nomadic communities transcend nation-state demarcations through seasonal migrations.",
+    "svg_icon": "content/assets/svg/verb_c2_spatanthro_015.svg"
+  },
+  {
+    "id": "verb_c2_spatanthro_016",
+    "infinitive": "assimilieren",
+    "level": "C2",
+    "category": "Spatial Anthropology",
+    "arabic": "يَسْتَوْعِبُ ثَقَافَةَ المَكَانِ",
+    "english": "to assimilate spatial customs",
+    "conjugation": {
+      "praesens": {
+        "ich": "assimiliere",
+        "du": "assimilierst",
+        "er_sie_es": "assimiliert",
+        "wir": "assimilieren",
+        "ihr": "assimiliert",
+        "sie_Sie": "assimilieren"
+      },
+      "praeteritum": {
+        "ich": "assimilierte",
+        "er_sie_es": "assimilierte"
+      },
+      "perfekt": "hat assimiliert"
+    },
+    "preposition": "in + Akk.",
+    "example_de": "Zuwanderer assimilieren lokale Verhaltensnormen in ihren alltäglichen Habitus.",
+    "example_ar": "يَسْتَوْعِبُ القَادِمُونَ الجُدُدُ مَعَايِيرَ السُّلُوكِ المَحَلِّيَّةَ فِي سُلُوكِهِمُ اليَوْمِيِّ.",
+    "example_en": "Newcomers assimilate local behavioral norms into their everyday habitus.",
+    "svg_icon": "content/assets/svg/verb_c2_spatanthro_016.svg"
+  },
+  {
+    "id": "verb_c2_spatanthro_017",
+    "infinitive": "rekonfigurieren",
+    "level": "C2",
+    "category": "Spatial Anthropology",
+    "arabic": "يُعِيدُ هَيْكَلَةَ الفَضَاءِ العَامِّ",
+    "english": "to reconfigure public space",
+    "conjugation": {
+      "praesens": {
+        "ich": "rekonfiguriere",
+        "du": "rekonfigurierst",
+        "er_sie_es": "rekonfiguriert",
+        "wir": "rekonfigurieren",
+        "ihr": "rekonfiguriert",
+        "sie_Sie": "rekonfigurieren"
+      },
+      "praeteritum": {
+        "ich": "rekonfigurierte",
+        "er_sie_es": "rekonfigurierte"
+      },
+      "perfekt": "hat rekonfiguriert"
+    },
+    "preposition": "nach + Dat.",
+    "example_de": "Bürgerinitiativen rekonfigurieren verkehrsreiche Plätze nach Prinzipien der Fußgängerfreundlichkeit.",
+    "example_ar": "تُعِيدُ مُبَادَرَاتُ المُواطِنِينَ هَيْكَلَةَ المَيَادِينِ المَزْدَحِمَةِ وَفْقًا لِمَبَادِئِ صَدَاقَةِ المُشَاةِ.",
+    "example_en": "Grassroots initiatives reconfigure traffic-heavy squares according to pedestrian-oriented principles.",
+    "svg_icon": "content/assets/svg/verb_c2_spatanthro_017.svg"
+  },
+  {
+    "id": "verb_c2_spatanthro_018",
+    "infinitive": "polarisierten",
+    "level": "C2",
+    "category": "Spatial Anthropology",
+    "arabic": "يُسْتَقْطَبُ مَكَانِيًّا (يَنْقَسِمُ)",
+    "english": "to polarize spatially",
+    "conjugation": {
+      "praesens": {
+        "ich": "polarisiere",
+        "du": "polarisierst",
+        "er_sie_es": "polarisiert",
+        "wir": "polarisieren",
+        "ihr": "polarisiert",
+        "sie_Sie": "polarisieren"
+      },
+      "praeteritum": {
+        "ich": "polarisierte",
+        "er_sie_es": "polarisierte"
+      },
+      "perfekt": "hat polarisiert"
+    },
+    "preposition": "entlang + Gen.",
+    "example_de": "Gentrifizierungsprozesse polarisieren Metropolen entlang sozioökonomischer Bruchlinien.",
+    "example_ar": "تَسْتَقْطِبُ عَمَلِيَّاتُ التَّطْوِيرِ العَقَارِيِّ التَّعَسُّفِيِّ المُدُنَ عَلَى امْتِدَادِ الخُطُوطِ الِاجْتِمَاعِيَّةِ الِاقْتِصَادِيَّةِ.",
+    "example_en": "Gentrification processes polarize metropolises along socioeconomic fault lines.",
+    "svg_icon": "content/assets/svg/verb_c2_spatanthro_018.svg"
+  },
+  {
+    "id": "verb_c2_spatanthro_019",
+    "infinitive": "sakralisieren",
+    "level": "C2",
+    "category": "Spatial Anthropology",
+    "arabic": "يُضْفِي قَدَاسَةً عَلَى المَكَانِ",
+    "english": "to sacralize landscape",
+    "conjugation": {
+      "praesens": {
+        "ich": "sakralisiere",
+        "du": "sakralisierst",
+        "er_sie_es": "sakralisiert",
+        "wir": "sakralisieren",
+        "ihr": "sakralisiert",
+        "sie_Sie": "sakralisieren"
+      },
+      "praeteritum": {
+        "ich": "sakralisierte",
+        "er_sie_es": "sakralisierte"
+      },
+      "perfekt": "hat sakralisiert"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Indigene Völker sakralisieren markante Berge und Quellen durch uralte Mythen.",
+    "example_ar": "تُضْفِي الشُّعُوبُ الأَصْلِيَّةُ قَدَاسَةً عَلَى الجِبَالِ وَاليَنَابِيعِ البَارِزَةِ عَبْرَ الأَسَاطِيرِ السَّحِيقَةِ.",
+    "example_en": "Indigenous peoples sacralize prominent mountains and springs via ancestral mythologies.",
+    "svg_icon": "content/assets/svg/verb_c2_spatanthro_019.svg"
+  },
+  {
+    "id": "verb_c2_spatanthro_020",
+    "infinitive": "transformieren",
+    "level": "C2",
+    "category": "Spatial Anthropology",
+    "arabic": "يُحَوِّلُ طَابَعَ المَكَانِ",
+    "english": "to transform landscape character",
+    "conjugation": {
+      "praesens": {
+        "ich": "transformiere",
+        "du": "transformierst",
+        "er_sie_es": "transformiert",
+        "wir": "transformieren",
+        "ihr": "transformiert",
+        "sie_Sie": "transformieren"
+      },
+      "praeteritum": {
+        "ich": "transformierte",
+        "er_sie_es": "transformierte"
+      },
+      "perfekt": "hat transformiert"
+    },
+    "preposition": "in + Akk.",
+    "example_de": "Urbane Renaturierung transformiert brachliegende Industrieareale in lebendige Biotopverbünde.",
+    "example_ar": "تُحَوِّلُ إِعَادَةُ التَّأْهِيلِ الحَضَرِيِّ المَنَاطِقَ الصِّنَاعِيَّةَ المَهْجُورَةَ إِلَى مَوَاطِنَ بَيُولُوجِيَّةٍ حَيَوِيَّةٍ.",
+    "example_en": "Urban rewilding transforms abandoned industrial brownfields into vibrant ecological corridors.",
+    "svg_icon": "content/assets/svg/verb_c2_spatanthro_020.svg"
+  }
+]
