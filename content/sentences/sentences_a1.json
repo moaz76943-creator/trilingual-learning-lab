@@ -10304,6 +10304,177 @@
         "Subjekt Feminin Nominativ mit Adjektiv",
         "Akkusativ Feminin mit Komparativ 'eine gerechtere Welt'"
       ]
+    },
+    {
+      "id": "sent_446",
+      "category": "verifying_news",
+      "difficulty": "A1+",
+      "arabic": "المُسْتَخْدِمُ الذَّكِيُّ يَتَحَقَّقُ مِنَ الأَخْبَارِ دَائِمًا.",
+      "german": "Der kluge Nutzer prüft die Nachrichten immer.",
+      "english": "The smart user always verifies the news.",
+      "tokens": [
+        {
+          "word": "Der kluge Nutzer",
+          "pos": "noun_phrase",
+          "ar": "المُسْتَخْدِمُ الذَّكِيُّ"
+        },
+        {
+          "word": "prüft",
+          "pos": "verb",
+          "ar": "يَفْحَصُ / يَتَحَقَّقُ مِنْ"
+        },
+        {
+          "word": "die Nachrichten",
+          "pos": "noun",
+          "ar": "الأَخْبَارَ"
+        },
+        {
+          "word": "immer",
+          "pos": "adverb",
+          "ar": "دَائِمًا"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Maskulin Nominativ mit Adjektiv",
+        "Akkusativ Plural 'die Nachrichten'"
+      ]
+    },
+    {
+      "id": "sent_447",
+      "category": "data_privacy",
+      "difficulty": "A1+",
+      "arabic": "حِمَايَةُ البَيَانَاتِ تَحْفَظُ خُصُوصِيَّةَ الإِنْسَانِ.",
+      "german": "Der Datenschutz bewahrt die Privatsphäre des Menschen.",
+      "english": "Data protection preserves human privacy.",
+      "tokens": [
+        {
+          "word": "Der Datenschutz",
+          "pos": "noun",
+          "ar": "حِمَايَةُ البَيَانَاتِ"
+        },
+        {
+          "word": "bewahrt",
+          "pos": "verb",
+          "ar": "تَحْفَظُ / تَصُونُ"
+        },
+        {
+          "word": "die Privatsphäre",
+          "pos": "noun",
+          "ar": "خُصُوصِيَّةَ"
+        },
+        {
+          "word": "des Menschen",
+          "pos": "genitive_noun",
+          "ar": "الإِنْسَانِ (مضاف إليه)"
+        }
+      ],
+      "grammar_points": [
+        "Subjekt Maskulin Nominativ",
+        "Akkusativobjekt Feminin 'die Privatsphäre'",
+        "Genitivattribut Maskulin 'des Menschen'"
+      ]
+    },
+    {
+      "id": "sent_448",
+      "category": "responsible_tech",
+      "difficulty": "A1+",
+      "arabic": "نَحْنُ نَسْتَخْدِمُ التِّكْنُولُوجْيَا بِوَعْيٍ وَمَسْؤُولِيَّةٍ.",
+      "german": "Wir nutzen Technologie mit Bewusstsein und Verantwortung.",
+      "english": "We use technology with awareness and responsibility.",
+      "tokens": [
+        {
+          "word": "Wir",
+          "pos": "pronoun",
+          "ar": "نَحْنُ"
+        },
+        {
+          "word": "nutzen",
+          "pos": "verb",
+          "ar": "نَسْتَخْدِمُ"
+        },
+        {
+          "word": "Technologie",
+          "pos": "noun",
+          "ar": "التِّكْنُولُوجْيَا"
+        },
+        {
+          "word": "mit Bewusstsein und Verantwortung",
+          "pos": "preposition_phrase",
+          "ar": "بِوَعْيٍ وَمَسْؤُولِيَّةٍ"
+        }
+      ],
+      "grammar_points": [
+        "Präsens 1. Person Plural",
+        "Präposition 'mit' + Dativ بدون أداة 'Bewusstsein und Verantwortung'"
+      ]
+    },
+    {
+      "id": "sent_449",
+      "category": "source_verification",
+      "difficulty": "A1+",
+      "arabic": "الحَقِيقَةُ تَظْهَرُ حِينَ نَفْحَصُ المَصَادِرَ بِعِنَايَةٍ.",
+      "german": "Die Wahrheit zeigt sich, wenn wir Quellen sorgfältig prüfen.",
+      "english": "The truth reveals itself when we examine sources carefully.",
+      "tokens": [
+        {
+          "word": "Die Wahrheit",
+          "pos": "noun",
+          "ar": "الحَقِيقَةُ"
+        },
+        {
+          "word": "zeigt sich",
+          "pos": "reflexive_verb",
+          "ar": "تَظْهَرُ / تَتَجَلَّى"
+        },
+        {
+          "word": "wenn wir",
+          "pos": "conjunction_clause",
+          "ar": "حِينَ نَحْنُ"
+        },
+        {
+          "word": "Quellen",
+          "pos": "noun",
+          "ar": "المَصَادِرَ"
+        },
+        {
+          "word": "sorgfältig prüfen",
+          "pos": "verb_phrase",
+          "ar": "نَفْحَصُ بِعِنَايَةٍ"
+        }
+      ],
+      "grammar_points": [
+        "Reflexives Verb 'sich zeigen'",
+        "Nebensatz mit 'wenn' und Verb am Ende 'prüfen'"
+      ]
+    },
+    {
+      "id": "sent_450",
+      "category": "four_fifty_milestone",
+      "difficulty": "A1+",
+      "arabic": "الأَرْبَعُمِائَةُ وَخَمْسُونَ جُمْلَةً تَرْفَعُ الكَفَاءَةَ اللُّغَوِيَّةَ.",
+      "german": "Vierhundertfünfzig Sätze steigern die Sprachkompetenz.",
+      "english": "Four hundred fifty sentences enhance language competence.",
+      "tokens": [
+        {
+          "word": "Vierhundertfünfzig Sätze",
+          "pos": "noun_phrase",
+          "ar": "الأَرْبَعُمِائَةُ وَخَمْسُونَ جُمْلَةً"
+        },
+        {
+          "word": "steigern",
+          "pos": "verb",
+          "ar": "تَرْفَعُ / تُعَزِّزُ"
+        },
+        {
+          "word": "die Sprachkompetenz",
+          "pos": "noun",
+          "ar": "الكَفَاءَةَ اللُّغَوِيَّةَ"
+        }
+      ],
+      "grammar_points": [
+        "Zusammengesetztes Zahlwort im Plural",
+        "Akkusativobjekt Feminin 'die Sprachkompetenz'"
+      ]
     }
   ]
 }

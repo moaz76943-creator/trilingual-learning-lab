@@ -1,0 +1,336 @@
+{
+  "category_id": "critical_media_ecology_c2",
+  "category_title": {
+    "ar": "إيكولوجيا الإعلام النقدي والحوكمة الخوارزمية والسيادة المعلوماتية",
+    "de": "Kritische Medienökologie, algorithmische Gouvernementalität und Informationssouveränität",
+    "en": "Critical Media Ecology, Algorithmic Governance & Information Sovereignty"
+  },
+  "level": "C2",
+  "items": [
+    {
+      "id": "concept_medienoekologie",
+      "german": "die Medienökologie",
+      "plural": "die Medienökologien",
+      "arabic": "إِيكُولُوجْيَا الإِعْلَامِ وَبِيئَةُ الوَسَائِطِ النَّقْدِيَّةُ",
+      "english": "media ecology (Neil Postman / Marshall McLuhan)",
+      "example_sentence": {
+        "de": "Die Medienökologie analysiert Kommunikationsmittel nicht als bloße Werkzeuge, sondern als tiefgreifende Lebensumwelten.",
+        "ar": "تُحَلِّلُ إِيكُولُوجْيَا الإِعْلَامِ وَسَائِلَ الاتِّصَالِ لَا بَوَصْفِهَا أَدَوَاتٍ مُجَرَّدَةً، بَلْ كَبِيئَاتٍ شَامِلَةٍ تُشَكِّلُ الوَعْيَ الإِنْسَانِيَّ.",
+        "en": "Media ecology analyzes communication technologies not as neutral tools, but as profound environments shaping perception."
+      },
+      "image": "assets/svg/concept_medienoekologie.svg"
+    },
+    {
+      "id": "concept_algorithmische_gouvernementalitaet",
+      "german": "die algorithmische Gouvernementalität",
+      "plural": "-",
+      "arabic": "الحَوْكَمِيَّةُ الخُوَارِزْمِيَّةُ (تَوْجِيهُ السُّلُوكِ عَبْرَ البَيَانَاتِ)",
+      "english": "algorithmic governmentality (governance through algorithmic prediction)",
+      "example_sentence": {
+        "de": "Die algorithmische Gouvernementalität steuert gesellschaftliches Verhalten unmerklich durch prädiktive Datenströme.",
+        "ar": "تُوَجِّهُ الحَوْكَمِيَّةُ الخُوَارِزْمِيَّةُ السُّلُوكَ المُجْتَمَعِيَّ دُونَ مَلْحَظٍ مُبَاشِرٍ عَبْرَ تَدَفُّقَاتِ البَيَانَاتِ التَّنَبُّؤِيَّةِ.",
+        "en": "Algorithmic governmentality invisibly steers societal behavior through predictive data streams."
+      },
+      "image": "assets/svg/concept_algorithmische_gouvernementalitaet.svg"
+    },
+    {
+      "id": "concept_ueberwachungskapitalismus",
+      "german": "der Überwachungskapitalismus",
+      "plural": "-",
+      "arabic": "رَأْسْمَالِيَّةُ المُرَاقَبَةِ (شُوشَانَا زُوبُوف)",
+      "english": "surveillance capitalism (Shoshana Zuboff)",
+      "example_sentence": {
+        "de": "Shoshana Zuboff beschreibt im Überwachungskapitalismus die einseitige Enteignung menschlicher Verhaltensdaten zu Profitzwecken.",
+        "ar": "تَصِفُ شُوشَانَا زُوبُوف فِي 'رَأْسْمَالِيَّةِ المُرَاقَبَةِ' الِاسْتِلَابَ أُحَادِيَّ الجَانِبِ لِبَيَانَاتِ السُّلُوكِ البَشَرِيِّ بِهَدَفِ الرِّبْحِ.",
+        "en": "Shoshana Zuboff describes surveillance capitalism as the unilateral claiming of human behavioral surplus for market profit."
+      },
+      "image": "assets/svg/concept_ueberwachungskapitalismus.svg"
+    },
+    {
+      "id": "concept_informationssouveraenitaet",
+      "german": "die Informationssouveränität",
+      "plural": "die Informationssouveränitäten",
+      "arabic": "السِّيَادَةُ المَعْلُومَاتِيَّةُ وَالبَيَانِيَّةُ",
+      "english": "information and data sovereignty",
+      "example_sentence": {
+        "de": "Staaten und Individuen müssen ihre Informationssouveränität gegenüber monopolitischen Tech-Konzernen wirksam verteidigen.",
+        "ar": "يَجِبُ عَلَى الدُّوَلِ وَالأَفْرَادِ الدِّفَاعُ بِفَاعِلِيَّةٍ عَنْ سِيَادَتِهِمِ المَعْلُومَاتِيَّةِ فِي وَجْهِ الشَّرِكَاتِ الرَّقْمِيَّةِ الِاحْتِكَارِيَّةِ.",
+        "en": "Nations and individuals must effectively defend their information sovereignty against monopolistic tech conglomerates."
+      },
+      "image": "assets/svg/concept_informationssouveraenitaet.svg"
+    },
+    {
+      "id": "concept_echokammer_digital",
+      "german": "die Echokammer",
+      "plural": "die Echokammern",
+      "arabic": "غُرْفَةُ الصَّدَى الرَّقْمِيَّةُ (تَكْرَارُ الآرَاءِ المُتَمَاثِلَةِ)",
+      "english": "digital echo chamber",
+      "example_sentence": {
+        "de": "In digitalen Echokammern bestärken sich Gleichgesinnte gegenseitig und blenden abweichende Perspektiven völlig aus.",
+        "ar": "يُعَزِّزُ ذَوُو التَّوَجُّهِ الوَاحِدِ فِي غُرَفِ الصَّدَى الرَّقْمِيَّةِ قَنَاعَاتِ بَعْضِهِمْ البَعْضَ مَعَ حَجْبِ الرُّؤَى المُخْتَلِفَةِ كُلِّيًّا.",
+        "en": "In digital echo chambers, like-minded users mutually reinforce their convictions, entirely tuning out discordant viewpoints."
+      },
+      "image": "assets/svg/concept_echokammer_digital.svg"
+    },
+    {
+      "id": "concept_filterblase",
+      "german": "die Filterblase",
+      "plural": "die Filterblasen",
+      "arabic": "فُقَّاعَةُ التَّصْفِيَةِ المَعْلُومَاتِيَّةُ (إِيلِي بَارِيسِر)",
+      "english": "filter bubble (algorithmic isolation of personalized content)",
+      "example_sentence": {
+        "de": "Personalisierte Algorithmen sperren den Nutzer in eine Filterblase, die ihm nur noch klickstarke Bestätigung liefert.",
+        "ar": "تَحْبِسُ الخُوَارِزْمِيَّاتُ المُخَصَّصَةُ المُسْتَخْدِمَ دَاخِلَ فُقَّاعَةِ تَصْفِيَةٍ لَا تُقَدِّمُ لَهُ إِلَّا تَأْكِيدًا يَتَمَاشَى مَعَ نَقَرَاتِهِ السَّابِقَةِ.",
+        "en": "Personalized algorithms isolate the user in a filter bubble, serving only click-driven affirmations."
+      },
+      "image": "assets/svg/concept_filterblase.svg"
+    },
+    {
+      "id": "concept_aufmerksamkeitsoekonomie",
+      "german": "die Aufmerksamkeitsökonomie",
+      "plural": "-",
+      "arabic": "اقْتِصَادُ الِانْتِبَاهِ (المُتَاجَرَةُ بِالوَقْتِ وَالتَّرْكِيزِ)",
+      "english": "attention economy",
+      "example_sentence": {
+        "de": "In der Aufmerksamkeitsökonomie ist das kostbarste und umkämpfteste Gut der menschliche Blickkontakt mit dem Bildschirm.",
+        "ar": "يُمَثِّلُ انْتِبَاهُ العَيْنِ البَشَرِيَّةِ لِلشَّاشَاتِ فِي 'اقْتِصَادِ الِانْتِبَاهِ' السِّلْعَةَ الأَغْلَى وَالأَكْثَرَ تَنَافُسًا عَلَيْهَا.",
+        "en": "In the attention economy, human focus captured by screens constitutes the most scarce and lucrative commodity."
+      },
+      "image": "assets/svg/concept_aufmerksamkeitsoekonomie.svg"
+    },
+    {
+      "id": "concept_deepfake_synthese",
+      "german": "das Deepfake",
+      "plural": "die Deepfakes",
+      "arabic": "التَّزْيِيفُ العَمِيقُ التَّوْلِيدِيُّ",
+      "english": "deepfake (hyper-realistic AI-synthesized media manipulation)",
+      "example_sentence": {
+        "de": "Hochentwickelte Deepfakes untergraben das gesellschaftliche Vertrauen in audiovisuelle Beweise fundamental.",
+        "ar": "تُقَوِّضُ تِقْنِيَّاتُ التَّزْيِيفِ العَمِيقِ الفَائِقَةُ التَّطَوُّرِ ثِقَةَ المُجْتَمَعِ الجَوْهَرِيَّةَ فِي الأَدِلَّةِ الصَّوْتِيَّةِ وَالمَرْئِيَّةِ.",
+        "en": "Advanced deepfakes fundamentally erode democratic society's reliance on audiovisual evidence."
+      },
+      "image": "assets/svg/concept_deepfake_synthese.svg"
+    },
+    {
+      "id": "concept_desinformationskampagne",
+      "german": "die Desinformationskampagne",
+      "plural": "die Desinformationskampagnen",
+      "arabic": "حَمْلَةُ التَّضْلِيلِ الإِعْلَامِيِّ المُمَنْهَجَةُ",
+      "english": "systemic disinformation campaign",
+      "example_sentence": {
+        "de": "Staatlich orchestrierte Desinformationskampagnen zielen darauf ab, Wahlen zu manipulieren und Demokratien zu spalten.",
+        "ar": "تَسْتَهْدِفُ حَمَلَاتُ التَّضْلِيلِ المُمَنْهَجَةُ التَّلَاعُبَ بِالِانْتِخَابَاتِ وَبَثَّ الانْقِسَامِ دَاخِلَ المُجْتَمَعَاتِ الدِّيمُقْرَاطِيَّةِ.",
+        "en": "State-orchestrated disinformation campaigns deliberately aim to subvert elections and polarize democracies."
+      },
+      "image": "assets/svg/concept_desinformationskampagne.svg"
+    },
+    {
+      "id": "concept_plattform_monopolisierung",
+      "german": "die Plattform-Monopolisierung",
+      "plural": "die Plattform-Monopolisierungen",
+      "arabic": "احْتِكَارُ المَنَصَّاتِ الرَّقْمِيَّةِ العِمْلَاقَةِ",
+      "english": "platform monopolization / Big Tech cartelization",
+      "example_sentence": {
+        "de": "Die Plattform-Monopolisierung führt dazu, dass wenige globale Konzerne die Regeln des öffentlichen Diskurses diktieren.",
+        "ar": "يُؤَدِّي احْتِكَارُ المَنَصَّاتِ الرَّقْمِيَّةِ إِلَى إِمْلَاءِ شَرِكَاتٍ عَالَمِيَّةٍ مَعْدُودَةٍ لِقَوَاعِدِ الخِطَابِ العَامِّ.",
+        "en": "Platform monopolization empowers a tiny handful of corporations to unilaterally dictate public discourse standards."
+      },
+      "image": "assets/svg/concept_plattform_monopolisierung.svg"
+    },
+    {
+      "id": "concept_datenkolonialisierung",
+      "german": "die Datenkolonialisierung",
+      "plural": "-",
+      "arabic": "الِاسْتِعْمَارُ البَيَانِيُّ (نَهْبُ البَيَانَاتِ البَشَرِيَّةِ)",
+      "english": "data colonialism (Couldry & Mejias)",
+      "example_sentence": {
+        "de": "Nick Couldry warnt vor einer Datenkolonialisierung, die menschliches Leben in kostenlose Rohstoffe für Algorithmen verwandelt.",
+        "ar": "يُحَذِّرُ نِيك كُولْدْرِي مِنَ 'الِاسْتِعْمَارِ البَيَانِيِّ' الَّذِي يُحَوِّلُ حَيَاةَ الإِنْسَانِ إِلَى مَوَادَّ خَامٍ مَجَّانِيَّةٍ لِلْخُوَارِزْمِيَّاتِ.",
+        "en": "Nick Couldry cautions against data colonialism converting human life into raw material for predictive extraction."
+      },
+      "image": "assets/svg/concept_datenkolonialisierung.svg"
+    },
+    {
+      "id": "concept_simulakrum_baudrillard",
+      "german": "das Simulakrum",
+      "plural": "die Simulakren",
+      "arabic": "الصَّرِيحُ الزَّائِفُ / المُحَاكَاةُ بِلَا أَصْلٍ (جَان بُودْرِيَار)",
+      "english": "simulacrum (sign without referent / Baudrillard)",
+      "example_sentence": {
+        "de": "Jean Baudrillard postulierte, dass mediale Simulakren die reale Wirklichkeit verdrängen und ersetzen.",
+        "ar": "أَكَّدَ جَان بُودْرِيَار أَنَّ 'السِّيمُولَاكْر' الإِعْلَامِيَّ يُزِيحُ الوَاقِعَ الحَقِيقِيَّ وَيَحُلُّ مَحَلَّهُ كَلِيًّا.",
+        "en": "Jean Baudrillard postulated that media simulacra supplant and eclipse experiential reality itself."
+      },
+      "image": "assets/svg/concept_simulakrum_baudrillard.svg"
+    },
+    {
+      "id": "concept_hyperrealitaet",
+      "german": "die Hyperrealität",
+      "plural": "-",
+      "arabic": "الوَاقِعِيَّةُ المُفْرِطَةُ (حَيْثُ يَبْدُو الزَّائِفُ أَكْثَرَ حَقِيقِيَّةً مِنَ الأَصْلِ)",
+      "english": "hyperreality",
+      "example_sentence": {
+        "de": "In der Hyperrealität moderner Themenparks und virtueller Welten verschwimmt die Grenze zwischen Fiktion und Realem unauflöslich.",
+        "ar": "تَتَلَاشَى الحُدُودُ بَيْنَ الخَيَالِ وَالوَاقِعِ بِشَكْلٍ لَا يَقْبَلُ الفَصْلَ فِي عَالَمِ 'الوَاقِعِيَّةِ المُفْرِطَةِ'.",
+        "en": "In the hyperreality of virtual spaces, the distinction between fiction and authentic reality dissolves irreversibly."
+      },
+      "image": "assets/svg/concept_hyperrealitaet.svg"
+    },
+    {
+      "id": "concept_algorithmischer_bias",
+      "german": "der algorithmische Bias",
+      "plural": "die algorithmischen Biases",
+      "arabic": "التَّحَيُّزُ الخُوَارِزْمِيُّ المُبَرْمَجُ",
+      "english": "algorithmic bias (systemic discrimination encoded in models)",
+      "example_sentence": {
+        "de": "Historische Ungleichheiten in Trainingsdaten führen unweigerlich zu einem algorithmischen Bias in automatisierten Einstellungsverfahren.",
+        "ar": "تَقُودُ عَدَمُ المُسَاوَاةِ التَّارِيخِيَّةُ فِي بَيَانَاتِ التَّدْرِيبِ حَتْمًا إِلَى تَحَيُّزٍ خُوَارِزْمِيٍّ فِي إِجْرَاءَاتِ التَّوْظِيفِ الآلِيَّةِ.",
+        "en": "Historical inequities within training datasets inevitably embed algorithmic bias into automated hiring pipelines."
+      },
+      "image": "assets/svg/concept_algorithmischer_bias.svg"
+    },
+    {
+      "id": "concept_digitale_kluft",
+      "german": "die digitale Kluft",
+      "plural": "die digitalen Klüfte",
+      "arabic": "الفَجْوَةُ الرَّقْمِيَّةُ المَعْرِفِيَّةُ",
+      "english": "digital divide (disparities in technology access and literacy)",
+      "example_sentence": {
+        "de": "Die digitale Kluft zwischen Industrie- und Entwicklungsländern vertieft bestehende ökonomische und bildungspolitische Gräben.",
+        "ar": "تُعَمِّقُ الفَجْوَةُ الرَّقْمِيَّةُ بَيْنَ الدُّوَلِ الصِّنَاعِيَّةِ وَالنَّامِيَةِ الهُوَّةَ الِاقْتِصَادِيَّةَ وَالتَّعْلِيمِيَّةَ القَائِمَةَ.",
+        "en": "The digital divide between industrialized and developing regions widens existing structural and educational inequalities."
+      },
+      "image": "assets/svg/concept_digitale_kluft.svg"
+    },
+    {
+      "id": "concept_recht_informationelle_selbstbestimmung",
+      "german": "das Recht auf informationelle Selbstbestimmung",
+      "plural": "-",
+      "arabic": "الحَقُّ فِي تَقْرِيرِ المَصِيرِ المَعْلُومَاتِيِّ",
+      "english": "right to informational self-determination",
+      "example_sentence": {
+        "de": "Das Grundrecht auf informationelle Selbstbestimmung garantiert dem Einzelnen die Befugnis, über die Preisgabe seiner Daten selbst zu entscheiden.",
+        "ar": "يَضْمَنُ الحَقُّ الأَسَاسِيُّ فِي تَقْرِيرِ المَصِيرِ المَعْلُومَاتِيِّ لِلْفَرْدِ سُلْطَةَ التَّحَكُّمِ فِي الإِفْصَاحِ عَنْ بَيَانَاتِهِ الخَاصَّةِ.",
+        "en": "The right to informational self-determination empowers individuals to control the disclosure and use of their data."
+      },
+      "image": "assets/svg/concept_recht_informationelle_selbstbestimmung.svg"
+    },
+    {
+      "id": "concept_transparenzpflicht_algo",
+      "german": "die Transparenzpflicht",
+      "plural": "die Transparenzpflichten",
+      "arabic": "وُجُوبُ الشَّفَافِيَّةِ الخُوَارِزْمِيَّةِ",
+      "english": "algorithmic transparency obligation / explainability mandate",
+      "example_sentence": {
+        "de": "Der europäische AI Act verpflichtet Entwickler hochriskanter KI-Systeme zu strenger Transparenzpflicht.",
+        "ar": "يُلْزِمُ قَانُونُ الذَّكَاءِ الاصْطِنَاعِيِّ الأُورُوبِّيُّ مُطَوِّرِي الأَنْظِمَةِ عَالِيَةِ المَخَاطِرِ بِشَفَافِيَّةٍ خُوَارِزْمِيَّةٍ صَارِمَةٍ.",
+        "en": "The European AI Act imposes strict algorithmic transparency obligations on developers of high-risk systems."
+      },
+      "image": "assets/svg/concept_transparenzpflicht_algo.svg"
+    },
+    {
+      "id": "concept_plattformarbeits_prekaritaet",
+      "german": "die Plattformarbeits-Prekarität",
+      "plural": "-",
+      "arabic": "هَشَاشَةُ العَمَلِ الرَّقْمِيِّ فِي اقْتِصَادِ المَنَصَّاتِ (اَلْغِيغ إِيكُونُومِي)",
+      "english": "platform gig-work precarity",
+      "example_sentence": {
+        "de": "Algorithmisch gesteuerte Gig-Economy erzeugt eine neuartige Plattformarbeits-Prekarität ohne traditionellen Kündigungsschutz.",
+        "ar": "تُوَلِّدُ أَنْظِمَةُ 'اقْتِصَادِ المَنَصَّاتِ' المُوَجَّهَةُ خُوَارِزْمِيًّا هَشَاشَةً عَمَّالِيَّةً مُبْتَكَرَةً تَخْلُو مِنْ ضَمَانَاتِ الحِمَايَةِ التَّقْلِيدِيَّةِ.",
+        "en": "Algorithmic labor allocation generates unprecedented gig-work precarity devoid of traditional labor protections."
+      },
+      "image": "assets/svg/concept_plattformarbeits_prekaritaet.svg"
+    },
+    {
+      "id": "concept_digitales_vergessenwerden",
+      "german": "das Recht auf digitales Vergessenwerden",
+      "plural": "-",
+      "arabic": "الحَقُّ فِي النِّسْيَانِ الرَّقْمِيِّ وَمَحْوِ الآثَارِ الإِلِكْتُرُونِيَّةِ",
+      "english": "right to be forgotten",
+      "example_sentence": {
+        "de": "Das Recht auf digitales Vergessenwerden erlaubt Bürgern, veraltete oder rufschädigende Suchmaschineneinträge löschen zu lassen.",
+        "ar": "يُتِيحُ الحَقُّ فِي النِّسْيَانِ الرَّقْمِيِّ لِلْمُواطِنِينَ مُطَالَبَةَ مُحَرِّكَاتِ البَحْثِ بِمَحْوِ النَّتَائِجِ القَدِيمَةِ أَوِ المُسِيئَةِ لِلسُّمْعَةِ.",
+        "en": "The right to be forgotten allows individuals to compel search engines to de-list outdated or defamatory records."
+      },
+      "image": "assets/svg/concept_digitales_vergessenwerden.svg"
+    },
+    {
+      "id": "concept_netzneutralitaet",
+      "german": "die Netzneutralität",
+      "plural": "-",
+      "arabic": "حِيَادِيَّةُ الشَّبَكَةِ وَتَكَافُؤُ تَدَفُّقِ البَيَانَاتِ",
+      "english": "net neutrality (equal treatment of all internet traffic)",
+      "example_sentence": {
+        "de": "Netzneutralität verbietet Internetanbietern, bestimmte Webseiten oder Dienste künstlich zu drosseln oder zu priorisieren.",
+        "ar": "تَحْظُرُ حِيَادِيَّةُ الشَّبَكَةِ عَلَى مُزَوِّدِي الخِدْمَةِ خَفْضَ سُرْعَةِ مَوَاقِعَ أَوْ تَمْيِيزَ خِدْمَاتٍ رَقْمِيَّةٍ عَلَى أُخْرَى.",
+        "en": "Net neutrality forbids internet service providers from throttling, blocking, or prioritizing specific online content."
+      },
+      "image": "assets/svg/concept_netzneutralitaet.svg"
+    },
+    {
+      "id": "concept_dark_pattern_design",
+      "german": "das Dark Pattern",
+      "plural": "die Dark Patterns",
+      "arabic": "الأَنْمَاطُ المُظْلِمَةُ لِلتَّصْمِيمِ الخِدَاعِيِّ",
+      "english": "dark patterns (deceptive UX designs nudging unintended actions)",
+      "example_sentence": {
+        "de": "Verbraucherschützer mahnen Webseitenbetreiber ab, die manipulative Dark Patterns zur Erschleichung von Daten einsetzen.",
+        "ar": "يُحَذِّرُ حُمَاةُ المُسْتَهْلِكِ المَوَاقِعَ الَّتِي تَعْتَمِدُ أَنْمَاطَ تَصْمِيمٍ مُظْلِمَةً لِاسْتِدْرَاجِ المُسْتَخْدِمِينَ نَحْوَ مَنْحِ بَيَانَاتِهِمْ.",
+        "en": "Consumer advocates litigate against websites employing manipulative dark patterns to coerce user consent."
+      },
+      "image": "assets/svg/concept_dark_pattern_design.svg"
+    },
+    {
+      "id": "concept_epistemische_blase",
+      "german": "die epistemische Blase",
+      "plural": "die epistemischen Blasen",
+      "arabic": "الفُقَّاعَةُ الإِبِسْتِيمِيَّةُ المَعْرِفِيَّةُ (حَجْبُ المَصَادِرِ المُعَارِضَةِ)",
+      "english": "epistemic bubble (information network omitting relevant contrary voices)",
+      "example_sentence": {
+        "de": "In einer epistemischen Blase fehlen anderslautende Argumente schlichtweg, ohne dass sie böswillig diskreditiert werden.",
+        "ar": "تَغِيبُ الحُجَجُ المُخَالِفَةُ تَمَامًا دَاخِلَ الفُقَّاعَةِ الإِبِسْتِيمِيَّةِ دُونَ حَاجَةٍ حَتَّى إِلَى تَشْوِيهِهَا عَمْدًا.",
+        "en": "Within an epistemic bubble, contrary arguments are simply omitted rather than proactively discredited."
+      },
+      "image": "assets/svg/concept_epistemische_blase.svg"
+    },
+    {
+      "id": "concept_datenethik_ki",
+      "german": "die Datenethik",
+      "plural": "-",
+      "arabic": "أَخْلَاقِيَّاتُ البَيَانَاتِ وَالذَّكَاءِ الِاصْطِنَاعِيِّ",
+      "english": "data ethics (moral principles for data collection and algorithmic use)",
+      "example_sentence": {
+        "de": "Eine zukunftsorientierte Datenethik setzt dem unkontrollierten Ausbeuten persönlicher Informationen normative Schranken.",
+        "ar": "تَضَعُ أَخْلَاقِيَّاتُ البَيَانَاتِ المُسْتَقْبَلِيَّةُ حُدُودًا مِعْيَارِيَّةً لِمَنْعِ الِاسْتِغْلَالِ غَيْرِ المُنْضَبِطِ لِلْمَعْلُومَاتِ الشَّخْصِيَّةِ.",
+        "en": "A forward-looking data ethics erects normative guardrails against the unbridled exploitation of personal data."
+      },
+      "image": "assets/svg/concept_datenethik_ki.svg"
+    },
+    {
+      "id": "concept_digitales_gemeingut",
+      "german": "das digitale Gemeingut",
+      "plural": "die digitalen Gemeingüter",
+      "arabic": "المَشَاعَاتُ الرَّقْمِيَّةُ العَامَّةُ (وِيكِيبِيدْيَا وَالمَصَادِرُ المَفْتُوحَةُ)",
+      "english": "digital commons (open-source knowledge infrastructure)",
+      "example_sentence": {
+        "de": "Open-Source-Software und freie Enzyklopädien stellen wertvolle digitale Gemeingüter für die Menschheit dar.",
+        "ar": "تُمَثِّلُ البَرْمَجِيَّاتُ مَفْتُوحَةُ المَصْدَرِ وَالمَوْسُوعَاتُ الحُرَّةُ مَشَاعَاتٍ رَقْمِيَّةً عَامَّةً ذَاتَ قِيمَةٍ فَائِقَةٍ لِلْبَشَرِيَّةِ.",
+        "en": "Open-source software and public encyclopedias constitute invaluable digital commons for humanity."
+      },
+      "image": "assets/svg/concept_digitales_gemeingut.svg"
+    },
+    {
+      "id": "concept_kybernetik_zweiter_ordnung",
+      "german": "die Kybernetik zweiter Ordnung",
+      "plural": "-",
+      "arabic": "السِّيبِرْنِطِيقَا مِنْ الدَّرَجَةِ الثَّانِيَةِ (عِلْمُ التَّحَكُّمِ فِي النُّظُمِ المُرَاقِبَةِ)",
+      "english": "second-order cybernetics (cybernetics of observing systems / Heinz von Foerster)",
+      "example_sentence": {
+        "de": "Heinz von Foerster erweiterte die Systemtheorie um die Kybernetik zweiter Ordnung: die Erforschung des Beobachters im System.",
+        "ar": "طَوَّرَ هَايْنْتْس فُون فُورْسْتِر نَظَرِيَّةَ النُّظُمِ عَبْرَ السِّيبِرْنِطِيقَا مِنَ الدَّرَجَةِ الثَّانِيَةِ لِدِرَاسَةِ الرَّاصِدِ نَفْسِهِ دَاخِلَ النِّظَامِ.",
+        "en": "Heinz von Foerster advanced systems theory through second-order cybernetics: the rigorous study of observing systems."
+      },
+      "image": "assets/svg/concept_kybernetik_zweiter_ordnung.svg"
+    }
+  ]
+}
