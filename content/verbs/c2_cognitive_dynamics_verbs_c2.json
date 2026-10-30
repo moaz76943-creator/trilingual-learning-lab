@@ -1,0 +1,562 @@
+[
+  {
+    "id": "verb_c2_cog_001",
+    "infinitive": "perzipieren",
+    "level": "C2",
+    "category": "Cognitive Dynamics",
+    "arabic": "يُدْرِكُ حِسِّيًّا ظَاهِرِيًّا",
+    "english": "to perceive phenomenally",
+    "conjugation": {
+      "praesens": {
+        "ich": "perzipiere",
+        "du": "perzipierst",
+        "er_sie_es": "perzipiert",
+        "wir": "perzipieren",
+        "ihr": "perzipiert",
+        "sie_Sie": "perzipieren"
+      },
+      "praeteritum": {
+        "ich": "perzipierte",
+        "er_sie_es": "perzipierte"
+      },
+      "perfekt": "hat perzipiert"
+    },
+    "preposition": "als + Akk.",
+    "example_de": "Das Subjekt perzipiert den optischen Schein als unveränderliche Realität.",
+    "example_ar": "يُدْرِكُ الفَاعِلُ المَظْهَرَ البَصَرِيَّ كَوَاقِعٍ ثَابِتٍ لَا يَتَغَيَّرُ.",
+    "example_en": "The subject perceives the optical illusion as immutable reality.",
+    "svg_icon": "content/assets/svg/verb_c2_cogdyn_001.svg"
+  },
+  {
+    "id": "verb_c2_cog_002",
+    "infinitive": "kognizieren",
+    "level": "C2",
+    "category": "Cognitive Dynamics",
+    "arabic": "يَعِي مَعْرِفِيًّا عَقْلَانِيًّا",
+    "english": "to cognize conceptually",
+    "conjugation": {
+      "praesens": {
+        "ich": "kogniziere",
+        "du": "kognizierst",
+        "er_sie_es": "kogniziert",
+        "wir": "kognizieren",
+        "ihr": "kogniziert",
+        "sie_Sie": "kognizieren"
+      },
+      "praeteritum": {
+        "ich": "kognizierte",
+        "er_sie_es": "kognizierte"
+      },
+      "perfekt": "hat kogniziert"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Das Gehirn kogniziert abstrakte mathematische Relationen durch symbolische Repräsentationen.",
+    "example_ar": "يَعِي الدِّمَاغُ العَلَاقَاتِ الرِّيَاضِيَّةَ المُجَرَّدَةَ عَبْرَ التَّمْثِيلَاتِ الرَّمْزِيَّةِ.",
+    "example_en": "The brain cognizes abstract mathematical relations through symbolic representations.",
+    "svg_icon": "content/assets/svg/verb_c2_cogdyn_002.svg"
+  },
+  {
+    "id": "verb_c2_cog_003",
+    "infinitive": "inhibieren",
+    "level": "C2",
+    "category": "Cognitive Dynamics",
+    "arabic": "يُثَبِّطُ الإِشَارَةَ العَصَبِيَّةَ",
+    "english": "to inhibit synaptically",
+    "conjugation": {
+      "praesens": {
+        "ich": "inhibiere",
+        "du": "inhibierst",
+        "er_sie_es": "inhibiert",
+        "wir": "inhibieren",
+        "ihr": "inhibiert",
+        "sie_Sie": "inhibieren"
+      },
+      "praeteritum": {
+        "ich": "inhibierte",
+        "er_sie_es": "inhibierte"
+      },
+      "perfekt": "hat inhibiert"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "GABAerge Interneuronen inhibieren überschießende neuronale Entladungen im Kortex.",
+    "example_ar": "تُثَبِّطُ العَصَبُونَاتُ الوَسِيطَةُ حِمْضَ غَابَا الإِفْرَاغَاتِ العَصَبِيَّةَ الزَّائِدَةَ فِي القِشْرَةِ.",
+    "example_en": "GABAergic interneurons inhibit excessive neuronal discharges within the cortex.",
+    "svg_icon": "content/assets/svg/verb_c2_cogdyn_003.svg"
+  },
+  {
+    "id": "verb_c2_cog_004",
+    "infinitive": "exzitieren",
+    "level": "C2",
+    "category": "Cognitive Dynamics",
+    "arabic": "يَسْتَثِيرُ مِشْبَكِيًّا",
+    "english": "to excite synaptically",
+    "conjugation": {
+      "praesens": {
+        "ich": "exzitiere",
+        "du": "exzitierst",
+        "er_sie_es": "exzitiert",
+        "wir": "exzitieren",
+        "ihr": "exzitiert",
+        "sie_Sie": "exzitieren"
+      },
+      "praeteritum": {
+        "ich": "exzitierte",
+        "er_sie_es": "exzitierte"
+      },
+      "perfekt": "hat exzitiert"
+    },
+    "preposition": "über + Akk.",
+    "example_de": "Glutamatrezeptoren exzitieren postsynaptische Membranen über raschen Kationeneinstrom.",
+    "example_ar": "تَسْتَثِيرُ مُسْتَقْبِلَاتُ الغْلُوتَامَات الأَغْشِيَةَ بَعْدَ المِشْبَكِيَّةِ عَبْرَ تَدَفُّقِ الكَاتِيُونَاتِ السَّرِيعِ.",
+    "example_en": "Glutamate receptors excite postsynaptic membranes via rapid cation influx.",
+    "svg_icon": "content/assets/svg/verb_c2_cogdyn_004.svg"
+  },
+  {
+    "id": "verb_c2_cog_005",
+    "infinitive": "evozieren",
+    "level": "C2",
+    "category": "Cognitive Dynamics",
+    "arabic": "يَسْتَحْضِرُ ذِهْنِيًّا (يَسْتَدْعِي)",
+    "english": "to evoke (potentials/memories)",
+    "conjugation": {
+      "praesens": {
+        "ich": "evoziere",
+        "du": "evozierst",
+        "er_sie_es": "evoziert",
+        "wir": "evozieren",
+        "ihr": "evoziert",
+        "sie_Sie": "evozieren"
+      },
+      "praeteritum": {
+        "ich": "evozierte",
+        "er_sie_es": "evozierte"
+      },
+      "perfekt": "hat evoziert"
+    },
+    "preposition": "in + Dat.",
+    "example_de": "Visuelle Stimuli evozieren charakteristische P300-Wellen im Elektroenzephalogramm.",
+    "example_ar": "تَسْتَدْعِي المُثِيرَاتُ البَصَرِيَّةُ مَوْجَاتِ P300 المُمَيَّزَةِ فِي مُخَطَّطِ كَهْرَبِيَّةِ الدِّمَاغِ.",
+    "example_en": "Visual stimuli evoke characteristic P300 waves in the electroencephalogram.",
+    "svg_icon": "content/assets/svg/verb_c2_cogdyn_005.svg"
+  },
+  {
+    "id": "verb_c2_cog_006",
+    "infinitive": "dissoziieren",
+    "level": "C2",
+    "category": "Cognitive Dynamics",
+    "arabic": "يَنْفَصِمُ / يَفْصِلُ إِدْرَاكِيًّا",
+    "english": "to dissociate cognitively",
+    "conjugation": {
+      "praesens": {
+        "ich": "dissoziiere",
+        "du": "dissoziierst",
+        "er_sie_es": "dissoziiert",
+        "wir": "dissoziieren",
+        "ihr": "dissoziieren",
+        "sie_Sie": "dissoziieren"
+      },
+      "praeteritum": {
+        "ich": "dissoziierte",
+        "er_sie_es": "dissoziierte"
+      },
+      "perfekt": "hat dissoziiert"
+    },
+    "preposition": "von + Dat.",
+    "example_de": "Traumatische Erlebnisse dissoziieren affektive Reaktionen von bewussten Erinnerungsinhalten.",
+    "example_ar": "تَفْصِلُ التَّجَارِبُ الصَّادِمَةُ الِاسْتِجَابَاتِ العَاطِفِيَّةَ عَنْ مُحْتَوَيَاتِ الذَّاكِرَةِ الوَاعِيَةِ.",
+    "example_en": "Traumatic events dissociate affective responses from conscious recollection contents.",
+    "svg_icon": "content/assets/svg/verb_c2_cogdyn_006.svg"
+  },
+  {
+    "id": "verb_c2_cog_007",
+    "infinitive": "mentalisieren",
+    "level": "C2",
+    "category": "Cognitive Dynamics",
+    "arabic": "يَعْقِلُ مَقَاصِدَ الآخَرِينَ (مِنْتَالِيزِينْ)",
+    "english": "to mentalize (Theory of Mind)",
+    "conjugation": {
+      "praesens": {
+        "ich": "mentalisiere",
+        "du": "mentalisierst",
+        "er_sie_es": "mentalisiert",
+        "wir": "mentalisieren",
+        "ihr": "mentalisiert",
+        "sie_Sie": "mentalisieren"
+      },
+      "praeteritum": {
+        "ich": "mentalisierte",
+        "er_sie_es": "mentalisierte"
+      },
+      "perfekt": "hat mentalisiert"
+    },
+    "preposition": "über + Akk.",
+    "example_de": "Empathische Menschen mentalisieren intuitiv über verborgene Motive ihrer Interaktionspartner.",
+    "example_ar": "يَعْقِلُ الأَشْخَاصُ المُتَعَاطِفُونَ حَدْسِيًّا الدَّوَافِعَ الخَفِيَّةَ لِشُرَكَائِهِمْ فِي التَّفَاعُلِ.",
+    "example_en": "Empathetic individuals intuitively mentalize regarding the hidden motives of their social partners.",
+    "svg_icon": "content/assets/svg/verb_c2_cogdyn_007.svg"
+  },
+  {
+    "id": "verb_c2_cog_008",
+    "infinitive": "habituieren",
+    "level": "C2",
+    "category": "Cognitive Dynamics",
+    "arabic": "يَتَعَوَّدُ حِسِّيًّا (يَأْلَفُ المُثِيرَ)",
+    "english": "to habituate sensorially",
+    "conjugation": {
+      "praesens": {
+        "ich": "habituiere",
+        "du": "habituierst",
+        "er_sie_es": "habituiert",
+        "wir": "habituieren",
+        "ihr": "habituiert",
+        "sie_Sie": "habituieren"
+      },
+      "praeteritum": {
+        "ich": "habituierte",
+        "er_sie_es": "habituierte"
+      },
+      "perfekt": "hat habituiert"
+    },
+    "preposition": "an + Akk.",
+    "example_de": "Sensorische Rezeptoren habituieren rasch an monotone Hintergrundreize.",
+    "example_ar": "تَأْلَفُ المُسْتَقْبِلَاتُ الحِسِّيَّةُ سَرِيعًا المُثِيرَاتِ الخَلْفِيَّةَ الرَّتِيبَةَ.",
+    "example_en": "Sensory receptors habituate rapidly to invariant background stimuli.",
+    "svg_icon": "content/assets/svg/verb_c2_cogdyn_008.svg"
+  },
+  {
+    "id": "verb_c2_cog_009",
+    "infinitive": "konsolidieren",
+    "level": "C2",
+    "category": "Cognitive Dynamics",
+    "arabic": "يُرَسِّخُ الذَّاكِرَةَ عَصَبِيًّا",
+    "english": "to consolidate memory",
+    "conjugation": {
+      "praesens": {
+        "ich": "konsolidiere",
+        "du": "konsolidierst",
+        "er_sie_es": "konsolidiert",
+        "wir": "konsolidieren",
+        "ihr": "konsolidiert",
+        "sie_Sie": "konsolidieren"
+      },
+      "praeteritum": {
+        "ich": "konsolidierte",
+        "er_sie_es": "konsolidierte"
+      },
+      "perfekt": "hat konsolidiert"
+    },
+    "preposition": "während + Gen.",
+    "example_de": "Der Tiefschlaf konsolidiert neu erworbenes deklaratives Wissen im Neokortex.",
+    "example_ar": "يُرَسِّخُ النَّوْمُ العَمِيقُ المَعْرِفَةَ التَّقْرِيرِيَّةَ المُكْتَسَبَةَ حَدِيثًا فِي القِشْرَةِ الحَدِيثَةِ.",
+    "example_en": "Slow-wave sleep consolidates recently acquired declarative knowledge within the neocortex.",
+    "svg_icon": "content/assets/svg/verb_c2_cogdyn_009.svg"
+  },
+  {
+    "id": "verb_c2_cog_010",
+    "infinitive": "internalisieren",
+    "level": "C2",
+    "category": "Cognitive Dynamics",
+    "arabic": "يَسْتَبْطِنُ / يُذَوِّتُ مَعْرِفِيًّا",
+    "english": "to internalize cognitive models",
+    "conjugation": {
+      "praesens": {
+        "ich": "internalisiere",
+        "du": "internalisierst",
+        "er_sie_es": "internalisiert",
+        "wir": "internalisieren",
+        "ihr": "internalisiert",
+        "sie_Sie": "internalisieren"
+      },
+      "praeteritum": {
+        "ich": "internalisierte",
+        "er_sie_es": "internalisierte"
+      },
+      "perfekt": "hat internalisiert"
+    },
+    "preposition": "in + Akk.",
+    "example_de": "Kinder internalisieren sprachliche Grammatikregeln unbewusst in ihr neuronales Weltmodell.",
+    "example_ar": "يَسْتَبْطِنُ الأَطْفَالُ قَوَاعِدَ النَّحْوِ اللُّغَوِيَّةَ لَاوَاعِيًا فِي نَمُوذَجِهِمْ العَصَبِيِّ لِلعَالَمِ.",
+    "example_en": "Children unconsciously internalize grammatical rules into their internal neural world model.",
+    "svg_icon": "content/assets/svg/verb_c2_cogdyn_010.svg"
+  },
+  {
+    "id": "verb_c2_cog_011",
+    "infinitive": "antizipieren",
+    "level": "C2",
+    "category": "Cognitive Dynamics",
+    "arabic": "يَسْتَبِقُ الحَدَثَ عَصَبِيًّا",
+    "english": "to anticipate predictive events",
+    "conjugation": {
+      "praesens": {
+        "ich": "antizipiere",
+        "du": "antizipierst",
+        "er_sie_es": "antizipiert",
+        "wir": "antizipieren",
+        "ihr": "antizipiert",
+        "sie_Sie": "antizipieren"
+      },
+      "praeteritum": {
+        "ich": "antizipierte",
+        "er_sie_es": "antizipierte"
+      },
+      "perfekt": "hat antizipiert"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Prädiktive Netzwerke antizipieren sensorische Konsequenzen eigener motorischer Aktionen.",
+    "example_ar": "تَسْتَبِقُ الشَّبَكَاتُ التَّنَبُّؤِيَّةُ العَوَاقِبَ الحِسِّيَّةَ لِلأَفْعَالِ الحَرَكِيَّةِ الذَّاتِيَّةِ.",
+    "example_en": "Predictive networks anticipate sensory consequences of self-initiated motor actions.",
+    "svg_icon": "content/assets/svg/verb_c2_cogdyn_011.svg"
+  },
+  {
+    "id": "verb_c2_cog_012",
+    "infinitive": "integrieren",
+    "level": "C2",
+    "category": "Cognitive Dynamics",
+    "arabic": "يَدْمِجُ الحَوَاسَّ فِي كُلٍّ مُتَمَاسِكٍ",
+    "english": "to integrate multisensory streams",
+    "conjugation": {
+      "praesens": {
+        "ich": "integriere",
+        "du": "integrierst",
+        "er_sie_es": "integriert",
+        "wir": "integrieren",
+        "ihr": "integriert",
+        "sie_Sie": "integrieren"
+      },
+      "praeteritum": {
+        "ich": "integrierte",
+        "er_sie_es": "integrierte"
+      },
+      "perfekt": "hat integriert"
+    },
+    "preposition": "zu + Dat.",
+    "example_de": "Multisensorische Areale integrieren akustische und optische Signale zu einer kohärenten Gestalt.",
+    "example_ar": "تَدْمِجُ المَنَاطِقُ مُتَعَدِّدَةُ الحَوَاسِّ الإِشَارَاتِ الصَّوْتِيَّةَ وَالبَصَرِيَّةَ فِي كِيَانٍ شَكْلِيٍّ مُتَرَابِطٍ.",
+    "example_en": "Multisensory areas integrate acoustic and optical cues into a coherent gestalt.",
+    "svg_icon": "content/assets/svg/verb_c2_cogdyn_012.svg"
+  },
+  {
+    "id": "verb_c2_cog_013",
+    "infinitive": "modulieren",
+    "level": "C2",
+    "category": "Cognitive Dynamics",
+    "arabic": "يُعَدِّلُ الِانْتِبَاهَ الإِدْرَاكِيَّ",
+    "english": "to modulate attention",
+    "conjugation": {
+      "praesens": {
+        "ich": "moduliere",
+        "du": "modulierst",
+        "er_sie_es": "moduliert",
+        "wir": "modulieren",
+        "ihr": "moduliert",
+        "sie_Sie": "modulieren"
+      },
+      "praeteritum": {
+        "ich": "modulierte",
+        "er_sie_es": "modulierte"
+      },
+      "perfekt": "hat moduliert"
+    },
+    "preposition": "über + Akk.",
+    "example_de": "Neuromodulatoren wie Dopamin modulieren die Reizschwelle kortikaler Pyramidenzellen.",
+    "example_ar": "تُعَدِّلُ المُنَظِّمَاتُ العَصَبِيَّةُ مِثْلَ الدُّوبَامِين عَتَبَةَ التَّحْفِيزِ لِلخَلَايَا الهَرَمِيَّةِ القِشْرِيَّةِ.",
+    "example_en": "Neuromodulators such as dopamine modulate the activation threshold of cortical pyramidal cells.",
+    "svg_icon": "content/assets/svg/verb_c2_cogdyn_013.svg"
+  },
+  {
+    "id": "verb_c2_cog_014",
+    "infinitive": "rekalibrieren",
+    "level": "C2",
+    "category": "Cognitive Dynamics",
+    "arabic": "يُعِيدُ مُعَايَرَةَ التَّقْدِيرِ الزَّمَنِيِّ",
+    "english": "to recalibrate timing",
+    "conjugation": {
+      "praesens": {
+        "ich": "rekalibriere",
+        "du": "rekalibrierst",
+        "er_sie_es": "rekalibriert",
+        "wir": "rekalibrieren",
+        "ihr": "rekalibriert",
+        "sie_Sie": "rekalibrieren"
+      },
+      "praeteritum": {
+        "ich": "rekalibrierte",
+        "er_sie_es": "rekalibrierte"
+      },
+      "perfekt": "hat rekalibriert"
+    },
+    "preposition": "nach + Dat.",
+    "example_de": "Das Kleinhirn rekalibriert sensorimotorische Verzögerungen nach veränderten Umweltbedingungen.",
+    "example_ar": "يُعِيدُ المُخَيْخُ مُعَايَرَةَ التَّأَخُّرَاتِ الحِسِّيَّةِ الحَرَكِيَّةِ إِثْرَ تَغَيُّرِ الظُّرُوفِ البِيئِيَّةِ.",
+    "example_en": "The cerebellum recalibrates sensorimotor delays following altered environmental conditions.",
+    "svg_icon": "content/assets/svg/verb_c2_cogdyn_014.svg"
+  },
+  {
+    "id": "verb_c2_cog_015",
+    "infinitive": "fokussieren",
+    "level": "C2",
+    "category": "Cognitive Dynamics",
+    "arabic": "يُرَكِّزُ الانْتِبَاهَ البُؤْرِيَّ",
+    "english": "to focus selective attention",
+    "conjugation": {
+      "praesens": {
+        "ich": "fokussiere",
+        "du": "fokussierst",
+        "er_sie_es": "fokussiert",
+        "wir": "fokussieren",
+        "ihr": "fokussiert",
+        "sie_Sie": "fokussieren"
+      },
+      "praeteritum": {
+        "ich": "fokussierte",
+        "er_sie_es": "fokussierte"
+      },
+      "perfekt": "hat fokussiert"
+    },
+    "preposition": "auf + Akk.",
+    "example_de": "Selektive Aufmerksamkeit fokussiert mentale Kapazitäten auf relevante Umweltinformationen.",
+    "example_ar": "يُرَكِّزُ الِانْتِبَاهُ الِانْتِقَائِيُّ الطَّاقَاتِ الذِّهْنِيَّةَ عَلَى مَعْلُومَاتِ البِيئَةِ ذَاتِ الصِّلَةِ.",
+    "example_en": "Selective attention focuses mental resources onto task-relevant environmental information.",
+    "svg_icon": "content/assets/svg/verb_c2_cogdyn_015.svg"
+  },
+  {
+    "id": "verb_c2_cog_016",
+    "infinitive": "rekonstruieren",
+    "level": "C2",
+    "category": "Cognitive Dynamics",
+    "arabic": "يُعِيدُ بِنَاءَ التَّجْرِبَةِ الذِّهْنِيَّةِ",
+    "english": "to reconstruct mental experience",
+    "conjugation": {
+      "praesens": {
+        "ich": "rekonstruiere",
+        "du": "rekonstruierst",
+        "er_sie_es": "rekonstruiert",
+        "wir": "rekonstruieren",
+        "ihr": "rekonstruiert",
+        "sie_Sie": "rekonstruieren"
+      },
+      "praeteritum": {
+        "ich": "rekonstruierte",
+        "er_sie_es": "rekonstruierte"
+      },
+      "perfekt": "hat rekonstruiert"
+    },
+    "preposition": "aus + Dat.",
+    "example_de": "Erinnerung ist kein statischer Abruf, sondern rekonstruiert Erlebnisse dynamisch aus Fragmenten.",
+    "example_ar": "لَيْسَتِ الذَّاكِرَةُ اسْتِرْجَاعًا سَاكِنًا، بَلْ تُعِيدُ بِنَاءَ الخِبْرَاتِ دِينَامِيكِيًّا مِنْ شَظَايَا.",
+    "example_en": "Memory is not passive retrieval but dynamically reconstructs events from fragmentary traces.",
+    "svg_icon": "content/assets/svg/verb_c2_cogdyn_016.svg"
+  },
+  {
+    "id": "verb_c2_cog_017",
+    "infinitive": "enkodieren",
+    "level": "C2",
+    "category": "Cognitive Dynamics",
+    "arabic": "يُشَفِّرُ الذِّكْرَى عَصَبِيًّا",
+    "english": "to encode mnemonic traces",
+    "conjugation": {
+      "praesens": {
+        "ich": "enkodiere",
+        "du": "enkodierst",
+        "er_sie_es": "enkodiert",
+        "wir": "enkodieren",
+        "ihr": "enkodiert",
+        "sie_Sie": "enkodieren"
+      },
+      "praeteritum": {
+        "ich": "enkodierte",
+        "er_sie_es": "enkodierte"
+      },
+      "perfekt": "hat enkodiert"
+    },
+    "preposition": "in + Dat.",
+    "example_de": "Der Hippocampus enkodiert episodische Kontexte in spezifischen Engrammzellen.",
+    "example_ar": "يُشَفِّرُ حِصَانُ البَحْرِ السِّيَاقَاتِ العَرَضِيَّةَ فِي خَلَايَا أَنْغَرَامِيَّةٍ مُحَدَّدَةٍ.",
+    "example_en": "The hippocampus encodes episodic contexts within specific engram cell assemblies.",
+    "svg_icon": "content/assets/svg/verb_c2_cogdyn_017.svg"
+  },
+  {
+    "id": "verb_c2_cog_018",
+    "infinitive": "abstrahieren",
+    "level": "C2",
+    "category": "Cognitive Dynamics",
+    "arabic": "يُجَرِّدُ المَفَاهِيمَ العَقْلِيَّةَ",
+    "english": "to abstract higher-order concepts",
+    "conjugation": {
+      "praesens": {
+        "ich": "abstrahiere",
+        "du": "abstrahierst",
+        "er_sie_es": "abstrahiert",
+        "wir": "abstrahieren",
+        "ihr": "abstrahiert",
+        "sie_Sie": "abstrahieren"
+      },
+      "praeteritum": {
+        "ich": "abstrahierte",
+        "er_sie_es": "abstrahierte"
+      },
+      "perfekt": "hat abstrahiert"
+    },
+    "preposition": "von + Dat.",
+    "example_de": "Höhere Assoziationsareale abstrahieren von sensorischen Einzelfakten zu universellen Prinzipien.",
+    "example_ar": "تُجَرِّدُ مَنَاطِقُ التَّرَابُطِ العُلْيَا الحَقَائِقَ الحِسِّيَّةَ الفَرْدِيَّةَ لِتَبْلُغَ مَبَادِئَ شَامِلَةً.",
+    "example_en": "Higher-order association areas abstract from sensory particulars into universal conceptual rules.",
+    "svg_icon": "content/assets/svg/verb_c2_cogdyn_018.svg"
+  },
+  {
+    "id": "verb_c2_cog_019",
+    "infinitive": "synchronisieren",
+    "level": "C2",
+    "category": "Cognitive Dynamics",
+    "arabic": "يُزَامِنُ الإِيقَاعَاتِ العَصَبِيَّةَ",
+    "english": "to synchronize cortical rhythms",
+    "conjugation": {
+      "praesens": {
+        "ich": "synchronisiere",
+        "du": "synchronisierst",
+        "er_sie_es": "synchronisiert",
+        "wir": "synchronisieren",
+        "ihr": "synchronisiert",
+        "sie_Sie": "synchronisieren"
+      },
+      "praeteritum": {
+        "ich": "synchronisierte",
+        "er_sie_es": "synchronisierte"
+      },
+      "perfekt": "hat synchronisiert"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Großflächige neuronale Netzwerke synchronisieren ihre Feuerraten zur kohärenten Wahrnehmung.",
+    "example_ar": "تُزَامِنُ الشَّبَكَاتُ العَصَبِيَّةُ وَاسِعَةُ النِّطَاقِ مُعَدَّلَاتِ إِفْرَاغِهَا لِتَحْقِيقِ إِدْرَاكٍ مُتَمَاسِكٍ.",
+    "example_en": "Large-scale neuronal networks synchronize their firing rates to establish coherent conscious perception.",
+    "svg_icon": "content/assets/svg/verb_c2_cogdyn_019.svg"
+  },
+  {
+    "id": "verb_c2_cog_020",
+    "infinitive": "transzendieren",
+    "level": "C2",
+    "category": "Cognitive Dynamics",
+    "arabic": "يَتَسَامَى فَوْقَ المَحْدُودِيَّةِ البَصَرِيَّةِ",
+    "english": "to transcend phenomenal boundaries",
+    "conjugation": {
+      "praesens": {
+        "ich": "transzendiere",
+        "du": "transzendierst",
+        "er_sie_es": "transzendiert",
+        "wir": "transzendieren",
+        "ihr": "transzendiert",
+        "sie_Sie": "transzendieren"
+      },
+      "praeteritum": {
+        "ich": "transzendierte",
+        "er_sie_es": "transzendierte"
+      },
+      "perfekt": "hat transzendiert"
+    },
+    "preposition": "über + Akk.",
+    "example_de": "Metakognitives Reflektieren transzendiert unmittelbare sensorische Affekte souverän.",
+    "example_ar": "يَتَسَامَى التَّفْكِيرُ المَعْرِفِيُّ الفَوْقِيُّ بِاقْتِدَارٍ فَوْقَ الِانْفِعَالَاتِ الحِسِّيَّةِ المُبَاشِرَةِ.",
+    "example_en": "Metacognitive reflection sovereignly transcends immediate sensory-affective impulses.",
+    "svg_icon": "content/assets/svg/verb_c2_cogdyn_020.svg"
+  }
+]
