@@ -1,0 +1,234 @@
+{
+  "category_id": "c153",
+  "name_ar": "الطَّبْخُ الصِّحِّيُّ وَإِعْدَادُ الْوَجَبَاتِ",
+  "name_de": "Gesundes Kochen und Mahlzeitenzubereitung",
+  "name_en": "Healthy Cooking and Meal Preparation",
+  "level": "A1-A2",
+  "concepts": [
+    {
+      "id": "c153_001",
+      "arabic": "مَطْبَخٌ",
+      "german": "Küche",
+      "article": "die",
+      "plural": "Küchen",
+      "english": "kitchen",
+      "level": "A1"
+    },
+    {
+      "id": "c153_002",
+      "arabic": "وَصْفَةُ طَهْيٍ",
+      "german": "Rezept",
+      "article": "das",
+      "plural": "Rezepte",
+      "english": "recipe",
+      "level": "A1"
+    },
+    {
+      "id": "c153_003",
+      "arabic": "مِقْلَاةٌ",
+      "german": "Pfanne",
+      "article": "die",
+      "plural": "Pfannen",
+      "english": "frying pan",
+      "level": "A1"
+    },
+    {
+      "id": "c153_004",
+      "arabic": "قِدْرُ طَهْيٍ",
+      "german": "Topf",
+      "article": "der",
+      "plural": "Töpfe",
+      "english": "cooking pot",
+      "level": "A1"
+    },
+    {
+      "id": "c153_005",
+      "arabic": "سِكِّينُ الْمَطْبَخِ",
+      "german": "Küchenmesser",
+      "article": "das",
+      "plural": "Küchenmesser",
+      "english": "kitchen knife",
+      "level": "A1"
+    },
+    {
+      "id": "c153_006",
+      "arabic": "لَوْحُ تَقْطِيعٍ",
+      "german": "Schneidebrett",
+      "article": "das",
+      "plural": "Schneidebretter",
+      "english": "cutting board",
+      "level": "A2"
+    },
+    {
+      "id": "c153_007",
+      "arabic": "مِلْعَقَةُ خَشَبٍ",
+      "german": "Holzlöffel",
+      "article": "der",
+      "plural": "Holzlöffel",
+      "english": "wooden spoon",
+      "level": "A1"
+    },
+    {
+      "id": "c153_008",
+      "arabic": "فُرْنٌ",
+      "german": "Backofen",
+      "article": "der",
+      "plural": "Backöfen",
+      "english": "oven",
+      "level": "A1"
+    },
+    {
+      "id": "c153_009",
+      "arabic": "مَوْقِدٌ",
+      "german": "Herd",
+      "article": "der",
+      "plural": "Herde",
+      "english": "stove",
+      "level": "A1"
+    },
+    {
+      "id": "c153_010",
+      "arabic": "مِصْفَاةٌ",
+      "german": "Sieb",
+      "article": "das",
+      "plural": "Siebe",
+      "english": "strainer / colander",
+      "level": "A2"
+    },
+    {
+      "id": "c153_011",
+      "arabic": "زَيْتُ زَيْتُونٍ",
+      "german": "Olivenöl",
+      "article": "das",
+      "plural": "Olivenöle",
+      "english": "olive oil",
+      "level": "A1"
+    },
+    {
+      "id": "c153_012",
+      "arabic": "مِلْحُ طَعَامٍ",
+      "german": "Salz",
+      "article": "das",
+      "plural": "Salze",
+      "english": "table salt",
+      "level": "A1"
+    },
+    {
+      "id": "c153_013",
+      "arabic": "فُلْفُلٌ أَسْوَدُ",
+      "german": "Pfeffer",
+      "article": "der",
+      "plural": "Pfeffer",
+      "english": "black pepper",
+      "level": "A1"
+    },
+    {
+      "id": "c153_014",
+      "arabic": "ثَوْمٌ طَازَجٌ",
+      "german": "Knoblauch",
+      "article": "der",
+      "plural": "Knoblauche",
+      "english": "fresh garlic",
+      "level": "A1"
+    },
+    {
+      "id": "c153_015",
+      "arabic": "بَصَلٌ",
+      "german": "Zwiebel",
+      "article": "die",
+      "plural": "Zwiebeln",
+      "english": "onion",
+      "level": "A1"
+    },
+    {
+      "id": "c153_016",
+      "arabic": "خُضَارٌ طَازَجَةٌ",
+      "german": "Gemüse",
+      "article": "das",
+      "plural": "Gemüse",
+      "english": "fresh vegetables",
+      "level": "A1"
+    },
+    {
+      "id": "c153_017",
+      "arabic": "شَوْرَبَةٌ سَاخِنَةٌ",
+      "german": "Suppe",
+      "article": "die",
+      "plural": "Suppen",
+      "english": "hot soup",
+      "level": "A1"
+    },
+    {
+      "id": "c153_018",
+      "arabic": "أَرُزٌّ أَبْيَضُ",
+      "german": "Reis",
+      "article": "der",
+      "plural": "Reise",
+      "english": "white rice",
+      "level": "A1"
+    },
+    {
+      "id": "c153_019",
+      "arabic": "عَدَسٌ",
+      "german": "Linsen",
+      "article": "die",
+      "plural": "Linsen",
+      "english": "lentils",
+      "level": "A2"
+    },
+    {
+      "id": "c153_020",
+      "arabic": "خُبْزُ قَمْحٍ",
+      "german": "Vollkornbrot",
+      "article": "das",
+      "plural": "Vollkornbrote",
+      "english": "wheat bread",
+      "level": "A1"
+    },
+    {
+      "id": "c153_021",
+      "arabic": "حَسَاءُ خُضَارٍ",
+      "german": "Gemüsesuppe",
+      "article": "die",
+      "plural": "Gemüsesuppen",
+      "english": "vegetable broth",
+      "level": "A1"
+    },
+    {
+      "id": "c153_022",
+      "arabic": "سَلَطَةٌ خَضْرَاءُ",
+      "german": "Salat",
+      "article": "der",
+      "plural": "Salate",
+      "english": "green salad",
+      "level": "A1"
+    },
+    {
+      "id": "c153_023",
+      "arabic": "غَلَيَانُ الْمَاءِ",
+      "german": "Kochen",
+      "article": "das",
+      "plural": "Kochen",
+      "english": "boiling water",
+      "level": "A2"
+    },
+    {
+      "id": "c153_024",
+      "arabic": "مَذَاقٌ لَذِيذٌ",
+      "german": "Geschmack",
+      "article": "der",
+      "plural": "Geschmäcke",
+      "english": "delicious taste",
+      "level": "A1"
+    },
+    {
+      "id": "c153_025",
+      "arabic": "وَجْبَةٌ صِحِّيَّةٌ",
+      "german": "Mahlzeit",
+      "article": "die",
+      "plural": "Mahlzeiten",
+      "english": "healthy meal",
+      "level": "A1"
+    }
+  ]
+}

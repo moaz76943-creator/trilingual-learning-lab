@@ -1,0 +1,34 @@
+{
+  "verb_id": "v085",
+  "infinitive_de": "kochen",
+  "root_ar": "طَبَخَ",
+  "infinitive_en": "to cook",
+  "level": "A1",
+  "present": {
+    "ich": "koche",
+    "du": "kochst",
+    "er_sie_es": "kocht",
+    "wir": "kochen",
+    "ihr": "kocht",
+    "sie_Sie": "kochen"
+  },
+  "past": {
+    "ich": "kochte",
+    "du": "kochtest",
+    "er_sie_es": "kochte",
+    "wir": "kochten",
+    "ihr": "kochtet",
+    "sie_Sie": "kochten"
+  },
+  "perfect": {
+    "auxiliary": "haben",
+    "participle": "gekocht"
+  },
+  "examples": [
+    {
+      "german": "Ich koche heute eine gesunde Gemüsesuppe.",
+      "arabic": "أَنَا أَطْبُخُ الْيَوْمَ حَسَاءَ خُضَارٍ صِحِّيًّا.",
+      "english": "I am cooking a healthy vegetable soup today."
+    }
+  ]
+}

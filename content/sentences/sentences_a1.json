@@ -1,5 +1,5 @@
 {
-  "count": 750,
+  "count": 770,
   "sentences": [
     {
       "id": "sent_001",
@@ -14728,6 +14728,193 @@
       "concept_refs": [
         "v084",
         "c152_002"
+      ]
+    },
+    {
+      "id": "s771",
+      "german": "Die Küche ist sauber und aufgeräumt.",
+      "arabic": "الْمَطْبَخُ نَظِيفٌ وَمُرَتَّبٌ.",
+      "english": "The kitchen is clean and tidy.",
+      "concept_refs": [
+        "c153_001"
+      ]
+    },
+    {
+      "id": "s772",
+      "german": "Ich lese ein neues Rezept für das Abendessen.",
+      "arabic": "أَنَا أَقْرَأُ وَصْفَةً جَدِيدَةً لِعَشَاءِ اللَّيْلَةِ.",
+      "english": "I am reading a new recipe for dinner.",
+      "concept_refs": [
+        "c153_002"
+      ]
+    },
+    {
+      "id": "s773",
+      "german": "Er brät das Gemüse in der Pfanne.",
+      "arabic": "هُوَ يَقْلِي الْخُضَارَ فِي الْمِقْلَاةِ.",
+      "english": "He fries the vegetables in the pan.",
+      "concept_refs": [
+        "c153_003",
+        "c153_016"
+      ]
+    },
+    {
+      "id": "s774",
+      "german": "Die Suppe kocht im großen Topf.",
+      "arabic": "الشَّوْرَبَةُ تَغْلِي فِي الْقِدْرِ الْكَبِيرِ.",
+      "english": "The soup is boiling in the large pot.",
+      "concept_refs": [
+        "c153_004",
+        "c153_017"
+      ]
+    },
+    {
+      "id": "s775",
+      "german": "Das Küchenmesser ist sehr scharf.",
+      "arabic": "سِكِّينُ الْمَطْبَخِ حَادٌّ جِدًّا.",
+      "english": "The kitchen knife is very sharp.",
+      "concept_refs": [
+        "c153_005"
+      ]
+    },
+    {
+      "id": "s776",
+      "german": "Ich schneide Zwiebeln auf dem Schneidebrett.",
+      "arabic": "أَنَا أَقْطَعُ الْبَصَلَ عَلَى لَوْحِ التَّقْطِيعِ.",
+      "english": "I chop onions on the cutting board.",
+      "concept_refs": [
+        "c153_006",
+        "c153_015"
+      ]
+    },
+    {
+      "id": "s777",
+      "german": "Rühre die Soße mit dem Holzlöffel um.",
+      "arabic": "حَرِّكِ الصَّلْصَةَ بِالْمِلْعَقَةِ الْخَشَبِيَّةِ.",
+      "english": "Stir the sauce with the wooden spoon.",
+      "concept_refs": [
+        "c153_007"
+      ]
+    },
+    {
+      "id": "s778",
+      "german": "Das Brot backt im heißen Backofen.",
+      "arabic": "الْخُبْزُ يَنْضَجُ فِي الْفُرْنِ السَّاخِنِ.",
+      "english": "The bread is baking in the hot oven.",
+      "concept_refs": [
+        "c153_008",
+        "c153_020"
+      ]
+    },
+    {
+      "id": "s779",
+      "german": "Der Herd hat vier Kochplatten.",
+      "arabic": "الْمَوْقِدُ يَحْتَوِي عَلَى أَرْبَعِ عُيُونِ طَهْيٍ.",
+      "english": "The stove has four hotplates.",
+      "concept_refs": [
+        "c153_009"
+      ]
+    },
+    {
+      "id": "s780",
+      "german": "Ich gieße den Reis durch das Sieb ab.",
+      "arabic": "أَنَا أُصَفِّي الْأَرُزَّ بِالْمِصْفَاةِ.",
+      "english": "I drain the rice through the strainer.",
+      "concept_refs": [
+        "c153_010",
+        "c153_018"
+      ]
+    },
+    {
+      "id": "s781",
+      "german": "Olivenöl ist gesund für das Herz.",
+      "arabic": "زَيْتُ الزَّيْتُونِ صِحِّيٌّ لِلْقَلْبِ.",
+      "english": "Olive oil is healthy for the heart.",
+      "concept_refs": [
+        "c153_011"
+      ]
+    },
+    {
+      "id": "s782",
+      "german": "Füge eine Prise Salz hinzu.",
+      "arabic": "أَضِفْ رَشَّةً مِنَ الْمِلْحِ.",
+      "english": "Add a pinch of salt.",
+      "concept_refs": [
+        "c153_012"
+      ]
+    },
+    {
+      "id": "s783",
+      "german": "Schwarzer Pfeffer gibt ein gutes Aroma.",
+      "arabic": "الْفُلْفُلُ الْأَسْوَدُ يُعْطِي نَكْهَةً طَيِّبَةً.",
+      "english": "Black pepper gives a good aroma.",
+      "concept_refs": [
+        "c153_013"
+      ]
+    },
+    {
+      "id": "s784",
+      "german": "Frischer Knoblauch schmeckt intensiv.",
+      "arabic": "الثَّوْمُ الطَّازَجُ لَهُ مَذَاقٌ قَوِيٌّ.",
+      "english": "Fresh garlic tastes intense.",
+      "concept_refs": [
+        "c153_014"
+      ]
+    },
+    {
+      "id": "s785",
+      "german": "Wir essen jeden Tag frisches Gemüse.",
+      "arabic": "نَحْنُ نَأْكُلُ كُلَّ يَوْمٍ خُضَارًا طَازَجَةً.",
+      "english": "We eat fresh vegetables every day.",
+      "concept_refs": [
+        "c153_016"
+      ]
+    },
+    {
+      "id": "s786",
+      "german": "Die Linsensuppe wärmt im Winter.",
+      "arabic": "شَوْرَبَةُ الْعَدَسِ تَمْنَحُ الدِّفْءَ فِي الشِّتَاءِ.",
+      "english": "Lentil soup warms in winter.",
+      "concept_refs": [
+        "c153_019",
+        "c153_017"
+      ]
+    },
+    {
+      "id": "s787",
+      "german": "Ein grüner Salat passt zu jedem Gericht.",
+      "arabic": "السَّلَطَةُ الْخَضْرَاءُ تُنَاسِبُ كُلَّ طَبَقٍ.",
+      "english": "A green salad goes well with any dish.",
+      "concept_refs": [
+        "c153_022"
+      ]
+    },
+    {
+      "id": "s788",
+      "german": "Das Wasser kocht nach fünf Minuten.",
+      "arabic": "الْمَاءُ يَغْلِي بَعْدَ خَمْسِ دَقَائِقَ.",
+      "english": "The water boils after five minutes.",
+      "concept_refs": [
+        "c153_023"
+      ]
+    },
+    {
+      "id": "s789",
+      "german": "Dieses Essen hat einen köstlichen Geschmack.",
+      "arabic": "هَذَا الطَّعَامُ لَهُ مَذَاقٌ لَذِيذٌ.",
+      "english": "This food has a delicious taste.",
+      "concept_refs": [
+        "c153_024"
+      ]
+    },
+    {
+      "id": "s790",
+      "german": "Wir bereiten eine gesunde Mahlzeit vor.",
+      "arabic": "نَحْنُ نُعِدُّ وَجْبَةً صِحِّيَّةً.",
+      "english": "We are preparing a healthy meal.",
+      "concept_refs": [
+        "c153_025",
+        "v085"
       ]
     }
   ]
