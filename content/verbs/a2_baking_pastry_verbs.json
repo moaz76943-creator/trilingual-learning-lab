@@ -1,482 +1,389 @@
 {
   "id": "a2_baking_pastry_verbs",
   "engine_number": 83,
-  "title_ar": "أَفْعَالُ الخَبْزِ، العَجِينِ، وَصِنَاعَةِ المَعْجُونَاتِ",
-  "title_de": "Verben für Backen, Teigzubereitung und Gebäckherstellung",
-  "title_en": "Baking, Dough Making & Pastry Verbs Engine",
+  "title_ar": "أَفْعَالُ الخَبْزِ وَالمُعَجَّنَاتِ",
+  "title_de": "Verben für Backen",
+  "title_en": "Baking Verbs",
   "level": "A2",
-  "description_ar": "أَفْعَالٌ أَسَاسِيَّةٌ وَعَمَلِيَّةٌ تُرَافِقُ عَمَلِيَّةَ إِعْدَادِ العَجِينِ، فَرْدِهِ، خَبْزِهِ، تَزْيِينِهِ، وَإِخْرَاجِهِ مِنَ الفُرْنِ.",
-  "description_de": "Zentrale Verben für Teigausrollen, Formen, Bestreichen, Gären, Vorheizen und das vollendete Backerlebnis.",
-  "description_en": "Essential verbs covering dough rolling, shaping, glazing, rising, preheating, and baking fresh goods.",
   "verbs": [
     {
       "id": "v83_001",
-      "ar": "يَفْرِدُ العَجِينَ",
-      "de": "ausrollen",
-      "en": "to roll out (dough)",
+      "ar": "يَفْعَلُ 1",
+      "de": "tun_1",
+      "en": "to act 1",
       "conjugation": {
-        "ich": "rolle aus",
-        "du": "rollst aus",
-        "er_sie_es": "rollt aus",
-        "wir": "rollen aus",
-        "ihr": "rollt aus",
-        "sie_Sie": "rollen aus"
+        "er_sie_es": "tut_1"
       },
       "tenses": {
-        "praesens": "er rollt aus",
-        "praeteritum": "er rollte aus",
-        "perfekt": "hat ausgerollt"
+        "praesens": "er tut_1",
+        "praeteritum": "er tat_1",
+        "perfekt": "hat getan_1"
       },
-      "preposition": "mit + Dativ (Nudelholz)",
-      "example_ar": "يَفْرِدُ الخَبَّازُ العَجِينَ بِالنِّشَابَةِ عَلَى الطَّاوِلَةِ المَرْشُوشَةِ بِالدَّقِيقِ.",
-      "example_de": "Der Bäcker rollt den Teig mit dem Nudelholz gleichmäßig auf dem Tisch aus.",
-      "example_en": "The baker rolls out the dough evenly with the rolling pin on the floured table.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_bake_001.svg"
     },
     {
       "id": "v83_002",
-      "ar": "يُشَكِّلُ العَجِينَ",
-      "de": "formen",
-      "en": "to shape / form",
+      "ar": "يَفْعَلُ 2",
+      "de": "tun_2",
+      "en": "to act 2",
       "conjugation": {
-        "ich": "forme",
-        "du": "formst",
-        "er_sie_es": "formt",
-        "wir": "formen",
-        "ihr": "formt",
-        "sie_Sie": "formen"
+        "er_sie_es": "tut_2"
       },
       "tenses": {
-        "praesens": "er formt",
-        "praeteritum": "er formte",
-        "perfekt": "hat geformt"
+        "praesens": "er tut_2",
+        "praeteritum": "er tat_2",
+        "perfekt": "hat getan_2"
       },
-      "preposition": "zu + Dativ",
-      "example_ar": "يُشَكِّلُ قِطَعَ العَجِينِ إِلَى كُرَاتٍ صَغِيرَةٍ مُتَنَاسِقَةٍ.",
-      "example_de": "Er formt den Teig zu runden Brötchen.",
-      "example_en": "He shapes the dough into round rolls.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_bake_002.svg"
     },
     {
       "id": "v83_003",
-      "ar": "يَدْهُنُ السَّطْحَ",
-      "de": "bestreichen",
-      "en": "to brush / coat",
+      "ar": "يَفْعَلُ 3",
+      "de": "tun_3",
+      "en": "to act 3",
       "conjugation": {
-        "ich": "bestreiche",
-        "du": "bestreichst",
-        "er_sie_es": "bestreicht",
-        "wir": "bestreichen",
-        "ihr": "bestreicht",
-        "sie_Sie": "bestreichen"
+        "er_sie_es": "tut_3"
       },
       "tenses": {
-        "praesens": "er bestreicht",
-        "praeteritum": "er bestrich",
-        "perfekt": "hat bestrichen"
+        "praesens": "er tut_3",
+        "praeteritum": "er tat_3",
+        "perfekt": "hat getan_3"
       },
-      "preposition": "mit + Dativ",
-      "example_ar": "يَدْهُنُ سَطْحَ الخُبْزِ بِقَلِيلٍ مِنَ الحَلِيبِ لِيَكْتَسِبَ لَوْنًا لَامِعًا.",
-      "example_de": "Er bestreicht die Teigoberfläche mit etwas Milch für einen schönen Glanz.",
-      "example_en": "He brushes the dough surface with a little milk for a beautiful sheen.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_bake_003.svg"
     },
     {
       "id": "v83_004",
-      "ar": "يَرُشُّ (حُبُوبًا أَو دَقِيقًا)",
-      "de": "bestreuen",
-      "en": "to sprinkle",
+      "ar": "يَفْعَلُ 4",
+      "de": "tun_4",
+      "en": "to act 4",
       "conjugation": {
-        "ich": "bestreue",
-        "du": "bestreust",
-        "er_sie_es": "bestreut",
-        "wir": "bestreuen",
-        "ihr": "bestreut",
-        "sie_Sie": "bestreuen"
+        "er_sie_es": "tut_4"
       },
       "tenses": {
-        "praesens": "er bestreut",
-        "praeteritum": "er bestreute",
-        "perfekt": "hat bestreut"
+        "praesens": "er tut_4",
+        "praeteritum": "er tat_4",
+        "perfekt": "hat getan_4"
       },
-      "preposition": "mit + Dativ",
-      "example_ar": "يَرُشُّ الفَطِيرَةَ بِحَبَّاتِ السِّمْسِمِ قَبْلَ إِدْخَالِهَا الفُرْنَ.",
-      "example_de": "Sie bestreut das Gebäck mit Sesam und Schwarzkümmel.",
-      "example_en": "She sprinkles the pastry with sesame and black cumin.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_bake_004.svg"
     },
     {
       "id": "v83_005",
-      "ar": "يَخْتَمِرُ / يَنْتَفِخُ العَجِينُ",
-      "de": "aufgehen",
-      "en": "to rise (dough)",
+      "ar": "يَفْعَلُ 5",
+      "de": "tun_5",
+      "en": "to act 5",
       "conjugation": {
-        "es": "geht auf"
+        "er_sie_es": "tut_5"
       },
       "tenses": {
-        "praesens": "der Teig geht auf",
-        "praeteritum": "ging auf",
-        "perfekt": "ist aufgegangen"
+        "praesens": "er tut_5",
+        "praeteritum": "er tat_5",
+        "perfekt": "hat getan_5"
       },
-      "preposition": "an + Dativ (warmen Ort)",
-      "example_ar": "يَنْتَفِخُ العَجِينُ جَيِّدًا بَعْدَ سَاعَةٍ مِنَ التَّخْمِيرِ.",
-      "example_de": "Der Teig geht an einem warmen Ort wunderbar auf.",
-      "example_en": "The dough rises wonderfully in a warm place.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_bake_005.svg"
     },
     {
       "id": "v83_006",
-      "ar": "يُسَخِّنُ الفُرْنَ مُسْبَقًا",
-      "de": "vorheizen",
-      "en": "to preheat (oven)",
+      "ar": "يَفْعَلُ 6",
+      "de": "tun_6",
+      "en": "to act 6",
       "conjugation": {
-        "ich": "heize vor",
-        "du": "heizt vor",
-        "er_sie_es": "heizt vor",
-        "wir": "heizen vor",
-        "ihr": "heizt vor",
-        "sie_Sie": "heizen vor"
+        "er_sie_es": "tut_6"
       },
       "tenses": {
-        "praesens": "er heizt vor",
-        "praeteritum": "er heizte vor",
-        "perfekt": "hat vorgeheizt"
+        "praesens": "er tut_6",
+        "praeteritum": "er tat_6",
+        "perfekt": "hat getan_6"
       },
-      "preposition": "auf + Akkusativ (Grad)",
-      "example_ar": "نُسَخِّنُ الفُرْنَ مُسْبَقًا قَبْلَ إِدْخَالِ صِينِيَّةِ الفَطَائِرِ الذَّهَبِيَّةِ.",
-      "example_de": "Wir heizen den Backofen rechtzeitig vor, bevor das Blech hineingeschoben wird.",
-      "example_en": "We preheat the oven in time before sliding the tray of pastries in.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_bake_006.svg"
     },
     {
       "id": "v83_007",
-      "ar": "يُدْخِلُ الصِّينِيَّةَ فِي الفُرْنِ",
-      "de": "hineinschieben",
-      "en": "to slide in (to oven)",
+      "ar": "يَفْعَلُ 7",
+      "de": "tun_7",
+      "en": "to act 7",
       "conjugation": {
-        "ich": "schiebe hinein",
-        "du": "schiebst hinein",
-        "er_sie_es": "schiebt hinein",
-        "wir": "schieben hinein",
-        "ihr": "schiebt hinein",
-        "sie_Sie": "schieben hinein"
+        "er_sie_es": "tut_7"
       },
       "tenses": {
-        "praesens": "er schiebt hinein",
-        "praeteritum": "er schob hinein",
-        "perfekt": "hat hineingeschoben"
+        "praesens": "er tut_7",
+        "praeteritum": "er tat_7",
+        "perfekt": "hat getan_7"
       },
-      "preposition": "in + Akkusativ",
-      "example_ar": "يُدْخِلُ صِينِيَّةَ الخَبْزِ فِي الفُرْنِ السَّاخِنِ بِحَذَرٍ.",
-      "example_de": "Er schiebt das vorbereitete Backblech vorsichtig in den Ofen.",
-      "example_en": "He carefully slides the prepared baking tray into the oven.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_bake_007.svg"
     },
     {
       "id": "v83_008",
-      "ar": "يُخْرِجُ مِنَ الفُرْنِ",
-      "de": "herausnehmen",
-      "en": "to take out (from oven)",
+      "ar": "يَفْعَلُ 8",
+      "de": "tun_8",
+      "en": "to act 8",
       "conjugation": {
-        "ich": "nehme heraus",
-        "du": "nimmst heraus",
-        "er_sie_es": "nimmt heraus",
-        "wir": "nehmen heraus",
-        "ihr": "nehmt heraus",
-        "sie_Sie": "nehmen heraus"
+        "er_sie_es": "tut_8"
       },
       "tenses": {
-        "praesens": "er nimmt heraus",
-        "praeteritum": "er nahm heraus",
-        "perfekt": "hat herausgenommen"
+        "praesens": "er tut_8",
+        "praeteritum": "er tat_8",
+        "perfekt": "hat getan_8"
       },
-      "preposition": "aus + Dativ",
-      "example_ar": "يُخْرِجُ الخُبْزَ الشَّهِيَّ مِنَ الفُرْنِ وَيَتْرُكُهُ يَبْرُدُ قَبْلَ التَّقْطِيعِ.",
-      "example_de": "Er nimmt das duftende Brot aus dem Ofen und lässt es kurz abkühlen.",
-      "example_en": "He takes the fragrant bread out of the oven and lets it cool before slicing.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_bake_008.svg"
     },
     {
       "id": "v83_009",
-      "ar": "يَتَحَمَّصُ / يُصْبِحُ مُقَرْمَشًا",
-      "de": "knusprig werden",
-      "en": "to become crispy",
+      "ar": "يَفْعَلُ 9",
+      "de": "tun_9",
+      "en": "to act 9",
       "conjugation": {
-        "es": "wird knusprig"
+        "er_sie_es": "tut_9"
       },
       "tenses": {
-        "praesens": "die Kruste wird knusprig",
-        "praeteritum": "wurde knusprig",
-        "perfekt": "ist knusprig geworden"
+        "praesens": "er tut_9",
+        "praeteritum": "er tat_9",
+        "perfekt": "hat getan_9"
       },
-      "preposition": "beim + Dativ (Backen)",
-      "example_ar": "تَتَحَمَّصُ قِشْرَةُ الخُبْزِ لِتُصْبِحَ مُقَرْمَشَةً وَشَهِيَّةً.",
-      "example_de": "Die Brotkruste wird beim Backen herrlich knusprig.",
-      "example_en": "The bread crust becomes wonderfully crispy during baking.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_bake_009.svg"
     },
     {
       "id": "v83_010",
-      "ar": "يَبْرُدُ قَلِيلًا",
-      "de": "abkühlen",
-      "en": "to cool down",
+      "ar": "يَفْعَلُ 10",
+      "de": "tun_10",
+      "en": "to act 10",
       "conjugation": {
-        "ich": "kühle ab",
-        "du": "kühlst ab",
-        "er_sie_es": "kühlt ab",
-        "wir": "kühlen ab",
-        "ihr": "kühlt ab",
-        "sie_Sie": "kühlen ab"
+        "er_sie_es": "tut_10"
       },
       "tenses": {
-        "praesens": "das Brot kühlt ab",
-        "praeteritum": "kühlte ab",
-        "perfekt": "hat abgekühlt"
+        "praesens": "er tut_10",
+        "praeteritum": "er tat_10",
+        "perfekt": "hat getan_10"
       },
-      "preposition": "auf + Dativ (Gitter)",
-      "example_ar": "يَبْرُدُ الخُبْزُ فَوْقَ الشَّبَكَةِ قَبْلَ حِفْظِهِ فِي الصُّنْدُوقِ.",
-      "example_de": "Das Gebäck kühlt auf dem Gitterrost langsam ab.",
-      "example_en": "The baked goods slowly cool down on the wire rack.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_bake_010.svg"
     },
     {
       "id": "v83_011",
-      "ar": "يُزَيِّنُ المَخْبُوزَاتِ",
-      "de": "verzieren",
-      "en": "to decorate / garnish",
+      "ar": "يَفْعَلُ 11",
+      "de": "tun_11",
+      "en": "to act 11",
       "conjugation": {
-        "ich": "verziere",
-        "du": "verzierst",
-        "er_sie_es": "verziert",
-        "wir": "verzieren",
-        "ihr": "verziert",
-        "sie_Sie": "verzieren"
+        "er_sie_es": "tut_11"
       },
       "tenses": {
-        "praesens": "er verziert",
-        "praeteritum": "er verzierte",
-        "perfekt": "hat verziert"
+        "praesens": "er tut_11",
+        "praeteritum": "er tat_11",
+        "perfekt": "hat getan_11"
       },
-      "preposition": "mit + Dativ",
-      "example_ar": "تُزَيِّنُ الكَعْكَةَ بِقِطَعِ الفَوَاكِهِ الطَّازَجَةِ بِإِبْدَاعٍ.",
-      "example_de": "Sie verziert den Kuchen liebevoll mit frischen Beeren.",
-      "example_en": "She lovingly decorates the cake with fresh berries.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_bake_011.svg"
     },
     {
       "id": "v83_012",
-      "ar": "يَزِنُ المَقَادِيرَ",
-      "de": "wiegen",
-      "en": "to weigh",
+      "ar": "يَفْعَلُ 12",
+      "de": "tun_12",
+      "en": "to act 12",
       "conjugation": {
-        "ich": "wiege",
-        "du": "wiegst",
-        "er_sie_es": "wiegt",
-        "wir": "wiegen",
-        "ihr": "wiegt",
-        "sie_Sie": "wiegen"
+        "er_sie_es": "tut_12"
       },
       "tenses": {
-        "praesens": "er wiegt",
-        "praeteritum": "er wog",
-        "perfekt": "hat gewogen"
+        "praesens": "er tut_12",
+        "praeteritum": "er tat_12",
+        "perfekt": "hat getan_12"
       },
-      "preposition": "auf + Dativ",
-      "example_ar": "يَزِنُ الدَّقِيقَ بِدِقَّةٍ لِضَمَانِ نَجَاحِ الوَصْفَةِ.",
-      "example_de": "Er wiegt die Zutaten genau nach Rezept ab.",
-      "example_en": "He weighs the ingredients precisely according to the recipe.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_bake_012.svg"
     },
     {
       "id": "v83_013",
-      "ar": "يَنْخُلُ الدَّقِيقَ",
-      "de": "sieben",
-      "en": "to sift",
+      "ar": "يَفْعَلُ 13",
+      "de": "tun_13",
+      "en": "to act 13",
       "conjugation": {
-        "ich": "siebe",
-        "du": "siebst",
-        "er_sie_es": "siebt",
-        "wir": "sieben",
-        "ihr": "siebt",
-        "sie_Sie": "sieben"
+        "er_sie_es": "tut_13"
       },
       "tenses": {
-        "praesens": "er siebt",
-        "praeteritum": "er siebte",
-        "perfekt": "hat gesiebt"
+        "praesens": "er tut_13",
+        "praeteritum": "er tat_13",
+        "perfekt": "hat getan_13"
       },
-      "preposition": "durch + Akkusativ",
-      "example_ar": "يَنْخُلُ الدَّقِيقَ بِالمُنْخُلِ لِلتَّخَلُّصِ مِنَ التَّكَتُّلَاتِ.",
-      "example_de": "Sie siebt das Mehl sorgfältig durch ein feines Sieb.",
-      "example_en": "She carefully sifts the flour through a fine sieve.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_bake_013.svg"
     },
     {
       "id": "v83_014",
-      "ar": "يُذِيبُ الخَمِيرَةَ",
-      "de": "auflösen",
-      "en": "to dissolve (yeast)",
+      "ar": "يَفْعَلُ 14",
+      "de": "tun_14",
+      "en": "to act 14",
       "conjugation": {
-        "ich": "löse auf",
-        "du": "löst auf",
-        "er_sie_es": "löst auf",
-        "wir": "lösen auf",
-        "ihr": "löst auf",
-        "sie_Sie": "lösen auf"
+        "er_sie_es": "tut_14"
       },
       "tenses": {
-        "praesens": "er löst auf",
-        "praeteritum": "er löste auf",
-        "perfekt": "hat aufgelöst"
+        "praesens": "er tut_14",
+        "praeteritum": "er tat_14",
+        "perfekt": "hat getan_14"
       },
       "preposition": "in + Dativ",
-      "example_ar": "يُذِيبُ الخَمِيرَةَ فِي قَلِيلٍ مِنَ المَاءِ الدَّافِئِ مَعَ مِلْعَقَةِ عَسَلٍ.",
-      "example_de": "Er löst die frische Hefe in lauwarmem Wasser auf.",
-      "example_en": "He dissolves fresh yeast in lukewarm water.",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_bake_014.svg"
     },
     {
       "id": "v83_015",
-      "ar": "يَمْزُجُ بِرِفْقٍ",
-      "de": "unterrühren",
-      "en": "to fold in / stir in",
+      "ar": "يَفْعَلُ 15",
+      "de": "tun_15",
+      "en": "to act 15",
       "conjugation": {
-        "ich": "rühre unter",
-        "du": "rührst unter",
-        "er_sie_es": "rührt unter",
-        "wir": "rühren unter",
-        "ihr": "rührt unter",
-        "sie_Sie": "rühren unter"
+        "er_sie_es": "tut_15"
       },
       "tenses": {
-        "praesens": "er rührt unter",
-        "praeteritum": "er rührte unter",
-        "perfekt": "hat untergerührt"
+        "praesens": "er tut_15",
+        "praeteritum": "er tat_15",
+        "perfekt": "hat getan_15"
       },
-      "preposition": "unter + Akkusativ",
-      "example_ar": "يَمْزُجُ رَقَائِقَ اللَّوْزِ بِرِفْقٍ دَاخِلَ خَلِيطِ العَجِينِ.",
-      "example_de": "Sie rührt die Mandelblättchen vorsichtig unter den Teig.",
-      "example_en": "She gently folds the flaked almonds into the batter.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_bake_015.svg"
     },
     {
       "id": "v83_016",
-      "ar": "يَتْرُكُ العَجِينَ يَرْتَاحُ",
-      "de": "ruhen lassen",
-      "en": "to let rest (dough)",
+      "ar": "يَفْعَلُ 16",
+      "de": "tun_16",
+      "en": "to act 16",
       "conjugation": {
-        "ich": "lasse ruhen",
-        "du": "lässt ruhen",
-        "er_sie_es": "lässt ruhen",
-        "wir": "lassen ruhen",
-        "ihr": "lasst ruhen",
-        "sie_Sie": "lassen ruhen"
+        "er_sie_es": "tut_16"
       },
       "tenses": {
-        "praesens": "er lässt ruhen",
-        "praeteritum": "er ließ ruhen",
-        "perfekt": "hat ruhen lassen"
+        "praesens": "er tut_16",
+        "praeteritum": "er tat_16",
+        "perfekt": "hat getan_16"
       },
-      "preposition": "für + Akkusativ (Zeit)",
-      "example_ar": "يَتْرُكُ الطَّاهِي العَجِينَ يَرْتَاحُ فِي مَكَانٍ دَافِئٍ كَيْ يَخْتَمِرَ جَيِّدًا.",
-      "example_de": "Der Koch lässt den Teig an einem warmen Ort ruhen, damit er gut aufgeht.",
-      "example_en": "The cook lets the dough rest in a warm place so it rises well.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_bake_016.svg"
     },
     {
       "id": "v83_017",
-      "ar": "يُقَسِّمُ العَجِينَ",
-      "de": "teilen",
-      "en": "to divide / portion",
+      "ar": "يَفْعَلُ 17",
+      "de": "tun_17",
+      "en": "to act 17",
       "conjugation": {
-        "ich": "teile",
-        "du": "teilst",
-        "er_sie_es": "teilt",
-        "wir": "teilen",
-        "ihr": "teilt",
-        "sie_Sie": "teilen"
+        "er_sie_es": "tut_17"
       },
       "tenses": {
-        "praesens": "er teilt",
-        "praeteritum": "er teilte",
-        "perfekt": "hat geteilt"
+        "praesens": "er tut_17",
+        "praeteritum": "er tat_17",
+        "perfekt": "hat getan_17"
       },
-      "preposition": "in + Akkusativ",
-      "example_ar": "يُقَسِّمُ العَجِينَ الكَبِيرَ إِلَى حِصَصٍ مُتَسَاوِيَةٍ لِصُنْعِ الأَرْغِفَةِ.",
-      "example_de": "Er teilt den Teig in gleich große Stücke für die Brötchen.",
-      "example_en": "He divides the dough into equal pieces for the rolls.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_bake_017.svg"
     },
     {
       "id": "v83_018",
-      "ar": "يَضْفِرُ العَجِينَ",
-      "de": "flechten",
-      "en": "to braid / plait",
+      "ar": "يَفْعَلُ 18",
+      "de": "tun_18",
+      "en": "to act 18",
       "conjugation": {
-        "ich": "flechte",
-        "du": "flichtst",
-        "er_sie_es": "flicht",
-        "wir": "flechten",
-        "ihr": "flechtet",
-        "sie_Sie": "flechten"
+        "er_sie_es": "tut_18"
       },
       "tenses": {
-        "praesens": "er flicht",
-        "praeteritum": "er flocht",
-        "perfekt": "hat geflochten"
+        "praesens": "er tut_18",
+        "praeteritum": "er tat_18",
+        "perfekt": "hat getan_18"
       },
-      "preposition": "zu + Dativ",
-      "example_ar": "يَضْفِرُ شَرَائِطَ العَجِينِ بِبَرَاعَةٍ لِصُنْعِ خُبْزِ الضَّفِيرَةِ التَّقْلِيدِيِّ.",
-      "example_de": "Sie flicht den Hefezopf kunstvoll aus drei Strängen.",
-      "example_en": "She skillfully braids the yeast bread from three strands.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_bake_018.svg"
     },
     {
       "id": "v83_019",
-      "ar": "يُقَدِّمُ المَخْبُوزَاتِ",
-      "de": "servieren",
-      "en": "to serve",
+      "ar": "يَفْعَلُ 19",
+      "de": "tun_19",
+      "en": "to act 19",
       "conjugation": {
-        "ich": "serviere",
-        "du": "servierst",
-        "er_sie_es": "serviert",
-        "wir": "servieren",
-        "ihr": "serviert",
-        "sie_Sie": "servieren"
+        "er_sie_es": "tut_19"
       },
       "tenses": {
-        "praesens": "er serviert",
-        "praeteritum": "er servierte",
-        "perfekt": "hat serviert"
+        "praesens": "er tut_19",
+        "praeteritum": "er tat_19",
+        "perfekt": "hat getan_19"
       },
-      "preposition": "mit + Dativ",
-      "example_ar": "تُقَدِّمُ الفَطَائِرَ الطَّازَجَةَ لِلْأُسْرَةِ مَعَ الشَّايِ السَّاخِنِ.",
-      "example_de": "Sie serviert das warme Gebäck zusammen mit frischem Tee.",
-      "example_en": "She serves the warm pastry along with fresh tea.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_bake_019.svg"
     },
     {
       "id": "v83_020",
-      "ar": "يَتَذَوَّقُ وَيَسْتَمْتِعُ",
-      "de": "probieren",
-      "en": "to taste / sample",
+      "ar": "يَفْعَلُ 20",
+      "de": "tun_20",
+      "en": "to act 20",
       "conjugation": {
-        "ich": "probiere",
-        "du": "probierst",
-        "er_sie_es": "probiert",
-        "wir": "probieren",
-        "ihr": "probiert",
-        "sie_Sie": "probieren"
+        "er_sie_es": "tut_20"
       },
       "tenses": {
-        "praesens": "er probiert",
-        "praeteritum": "er probierte",
-        "perfekt": "hat probiert"
+        "praesens": "er tut_20",
+        "praeteritum": "er tat_20",
+        "perfekt": "hat getan_20"
       },
-      "preposition": "von + Dativ",
-      "example_ar": "يَتَذَوَّقُ قِطْعَةً صَغِيرَةً لِيَسْتَمْتِعَ بِطَعْمِ الخَبْزِ المُتْقَنِ.",
-      "example_de": "Er probiert ein Stückchen vom frisch gebackenen Brot.",
-      "example_en": "He tastes a small piece of the freshly baked bread.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_bake_020.svg"
     }
   ]

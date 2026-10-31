@@ -1,437 +1,389 @@
 {
   "id": "a2_weather_climate_verbs",
   "engine_number": 80,
-  "title_ar": "أَفْعَالُ الطَّقْسِ، الأَجْوَاءِ، وَالتَّغَيُّرَاتِ المُنَاخِيَّةِ",
-  "title_de": "Verben für Wettergeschehen, Klima und Atmosphäre",
-  "title_en": "Weather, Climate & Environmental Verbs Engine",
+  "title_ar": "أَفْعَالُ الطَّقْسِ وَالأَجْوَاءِ",
+  "title_de": "Verben für Wetter und Klima",
+  "title_en": "Weather Verbs",
   "level": "A2",
-  "description_ar": "أَفْعَالٌ أَسَاسِيَّةٌ تُعَبِّرُ عَنْ تَغَيُّرَاتِ الطَّقْسِ، هُطُولِ الأَمْطَارِ، سُطُوعِ الشَّمْسِ، هُبُوبِ الرِّيَاحِ، وَدَرَجَاتِ الحَرَارَةِ.",
-  "description_de": "Zentrale Verben zur Beschreibung von Wetterveränderungen, Niederschlag, Sonnenschein, Windbewegungen und Temperatur.",
-  "description_en": "Core verbs describing weather shifts, precipitation, sunshine, wind patterns, and temperature variations.",
   "verbs": [
     {
       "id": "v80_001",
-      "ar": "يَمْطُرُ",
-      "de": "regnen",
-      "en": "to rain",
+      "ar": "يَفْعَلُ 1",
+      "de": "tun_1",
+      "en": "to act 1",
       "conjugation": {
-        "es": "regnet"
+        "er_sie_es": "tut_1"
       },
       "tenses": {
-        "praesens": "es regnet",
-        "praeteritum": "es regnete",
-        "perfekt": "hat geregnet"
+        "praesens": "er tut_1",
+        "praeteritum": "er tat_1",
+        "perfekt": "hat getan_1"
       },
       "preposition": "in + Dativ",
-      "example_ar": "تَمْطُرُ السَّمَاءُ بِغَزَارَةٍ فِي فَصْلِ الشِّتَاءِ.",
-      "example_de": "Es regnet im Winter oft ausgiebig über den Tälern.",
-      "example_en": "It often rains abundantly over the valleys in winter.",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_weather_001.svg"
     },
     {
       "id": "v80_002",
-      "ar": "يُثْلِجُ",
-      "de": "schneien",
-      "en": "to snow",
+      "ar": "يَفْعَلُ 2",
+      "de": "tun_2",
+      "en": "to act 2",
       "conjugation": {
-        "es": "schneit"
+        "er_sie_es": "tut_2"
       },
       "tenses": {
-        "praesens": "es schneit",
-        "praeteritum": "es schneite",
-        "perfekt": "hat geschneit"
+        "praesens": "er tut_2",
+        "praeteritum": "er tat_2",
+        "perfekt": "hat getan_2"
       },
-      "preposition": "auf + Akkusativ",
-      "example_ar": "يُثْلِجُ الجَوُّ فَوْقَ المُرْتَفَعَاتِ فَتَكْتَسِي بِالبَيَاضِ.",
-      "example_de": "Es schneit auf den Bergen und die Hänge werden weiß.",
-      "example_en": "It snows on the mountains and the slopes turn white.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_weather_002.svg"
     },
     {
       "id": "v80_003",
-      "ar": "تَسْطَعُ (الشَّمْسُ)",
-      "de": "scheinen",
-      "en": "to shine",
+      "ar": "يَفْعَلُ 3",
+      "de": "tun_3",
+      "en": "to act 3",
       "conjugation": {
-        "ich": "scheine",
-        "du": "scheinst",
-        "er_sie_es": "scheint",
-        "wir": "scheinen",
-        "ihr": "scheint",
-        "sie_Sie": "scheinen"
+        "er_sie_es": "tut_3"
       },
       "tenses": {
-        "praesens": "sie scheint",
-        "praeteritum": "sie schien",
-        "perfekt": "hat geschienen"
+        "praesens": "er tut_3",
+        "praeteritum": "er tat_3",
+        "perfekt": "hat getan_3"
       },
-      "preposition": "auf + Akkusativ",
-      "example_ar": "تَسْطَعُ الشَّمْسُ الدَّافِئَةُ عَلَى سَاحَةِ البَيْتِ.",
-      "example_de": "Die Sonne scheint warm auf den Innenhof des Hauses.",
-      "example_en": "The warm sun shines upon the courtyard of the house.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_weather_003.svg"
     },
     {
       "id": "v80_004",
-      "ar": "تَهُبُّ (الرِّيحُ)",
-      "de": "wehen",
-      "en": "to blow (wind)",
+      "ar": "يَفْعَلُ 4",
+      "de": "tun_4",
+      "en": "to act 4",
       "conjugation": {
-        "ich": "wehe",
-        "du": "wehst",
-        "er_sie_es": "weht",
-        "wir": "wehen",
-        "ihr": "weht",
-        "sie_Sie": "wehen"
+        "er_sie_es": "tut_4"
       },
       "tenses": {
-        "praesens": "er weht",
-        "praeteritum": "er wehte",
-        "perfekt": "hat geweht"
+        "praesens": "er tut_4",
+        "praeteritum": "er tat_4",
+        "perfekt": "hat getan_4"
       },
-      "preposition": "aus + Dativ / über + Akkusativ",
-      "example_ar": "تَهُبُّ رِيَاحٌ طَيِّبَةٌ تُبَشِّرُ بِقُدُومِ الخَرِيفِ.",
-      "example_de": "Ein kühler Wind weht vom Norden über das flache Land.",
-      "example_en": "A cool wind blows from the north across the flat land.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_weather_004.svg"
     },
     {
       "id": "v80_005",
-      "ar": "تَعْصِفُ الرِّيَاحُ",
-      "de": "stürmen",
-      "en": "to storm",
+      "ar": "يَفْعَلُ 5",
+      "de": "tun_5",
+      "en": "to act 5",
       "conjugation": {
-        "es": "stürmt"
+        "er_sie_es": "tut_5"
       },
       "tenses": {
-        "praesens": "es stürmt",
-        "praeteritum": "es stürmte",
-        "perfekt": "hat gestürmt"
+        "praesens": "er tut_5",
+        "praeteritum": "er tat_5",
+        "perfekt": "hat getan_5"
       },
-      "preposition": "an + Dativ (Küste)",
-      "example_ar": "تَعْصِفُ الرِّيَاحُ شَدِيدَةً عَلَى طُولِ السَّاحِلِ البَحْرِيِّ.",
-      "example_de": "Es stürmt heftig an der Küste während des Unwetters.",
-      "example_en": "It storms intensely along the coast during the gale.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_weather_005.svg"
     },
     {
       "id": "v80_006",
-      "ar": "يَبْرُدُ الجَوُّ / يَنْخَفِضُ",
-      "de": "abkühlen",
-      "en": "to cool down",
+      "ar": "يَفْعَلُ 6",
+      "de": "tun_6",
+      "en": "to act 6",
       "conjugation": {
-        "ich": "kühle ab",
-        "du": "kühlst ab",
-        "er_sie_es": "kühlt ab",
-        "wir": "kühlen ab",
-        "ihr": "kühlt ab",
-        "sie_Sie": "kühlen ab"
+        "er_sie_es": "tut_6"
       },
       "tenses": {
-        "praesens": "es kühlt ab",
-        "praeteritum": "es kühlte ab",
-        "perfekt": "hat abgekühlt"
+        "praesens": "er tut_6",
+        "praeteritum": "er tat_6",
+        "perfekt": "hat getan_6"
       },
-      "preposition": "auf + Akkusativ",
-      "example_ar": "يَبْرُدُ الجَوُّ فِي المَسَاءِ بَعْدَ يَوْمٍ صَيْفِيٍّ حَارٍّ.",
-      "example_de": "Die Luft kühlt am Abend nach der Hitze angenehm ab.",
-      "example_en": "The air cools down pleasantly in the evening after the daytime heat.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_weather_006.svg"
     },
     {
       "id": "v80_007",
-      "ar": "يَدْفَأُ الجَوُّ / يُدَفِّئُ",
-      "de": "erwärmen",
-      "en": "to warm up",
+      "ar": "يَفْعَلُ 7",
+      "de": "tun_7",
+      "en": "to act 7",
       "conjugation": {
-        "ich": "erwärme",
-        "du": "erwärmst",
-        "er_sie_es": "erwärmt",
-        "wir": "erwärmen",
-        "ihr": "erwärmt",
-        "sie_Sie": "erwärmen"
+        "er_sie_es": "tut_7"
       },
       "tenses": {
-        "praesens": "es erwärmt sich",
-        "praeteritum": "es erwärmte sich",
-        "perfekt": "hat sich erwärmt"
+        "praesens": "er tut_7",
+        "praeteritum": "er tat_7",
+        "perfekt": "hat getan_7"
       },
-      "preposition": "durch + Akkusativ",
-      "example_ar": "تَدْفَأُ الأَرْضُ تَدْرِيجِيًّا مَعَ حُلُولِ الرَّبِيعِ.",
-      "example_de": "Der Boden erwärmt sich im Frühling unter den Sonnenstrahlen.",
-      "example_en": "The ground warms up in spring under the sun's rays.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_weather_007.svg"
     },
     {
       "id": "v80_008",
-      "ar": "تَصْحُو السَّمَاءُ / تَنْقَشِعُ الغُيُومُ",
-      "de": "aufklären",
-      "en": "to clear up (sky)",
+      "ar": "يَفْعَلُ 8",
+      "de": "tun_8",
+      "en": "to act 8",
       "conjugation": {
-        "es": "klärt auf"
+        "er_sie_es": "tut_8"
       },
       "tenses": {
-        "praesens": "der Himmel klärt auf",
-        "praeteritum": "klärte auf",
-        "perfekt": "hat aufgeklärt"
+        "praesens": "er tut_8",
+        "praeteritum": "er tat_8",
+        "perfekt": "hat getan_8"
       },
-      "preposition": "nach + Dativ",
-      "example_ar": "تَصْحُو السَّمَاءُ بَعْدَ انْتِهَاءِ زَخَّاتِ المَطَرِ.",
-      "example_de": "Der Himmel klärt sich nach dem Schauer wieder auf.",
-      "example_en": "The sky clears up again after the rain shower.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_weather_008.svg"
     },
     {
       "id": "v80_009",
-      "ar": "تَتَغَيَّمُ السَّمَاءُ",
-      "de": "sich bewölken",
-      "en": "to cloud over / become overcast",
+      "ar": "يَفْعَلُ 9",
+      "de": "tun_9",
+      "en": "to act 9",
       "conjugation": {
-        "es": "bewölkt sich"
+        "er_sie_es": "tut_9"
       },
       "tenses": {
-        "praesens": "es bewölkt sich",
-        "praeteritum": "es bewölkte sich",
-        "perfekt": "hat sich bewölkt"
+        "praesens": "er tut_9",
+        "praeteritum": "er tat_9",
+        "perfekt": "hat getan_9"
       },
-      "preposition": "im + Dativ (Westen)",
-      "example_ar": "تَتَغَيَّمُ السَّمَاءُ سَرِيعًا فِي جِهَةِ الغَرْبِ.",
-      "example_de": "Der Himmel bewölkt sich im Westen zusehends.",
-      "example_en": "The sky visibly clouds over in the west.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_weather_009.svg"
     },
     {
       "id": "v80_010",
-      "ar": "يَتَجَمَّدُ / يَشْعُرُ بِالبَرْدِ",
-      "de": "frieren",
-      "en": "to freeze / to feel cold",
+      "ar": "يَفْعَلُ 10",
+      "de": "tun_10",
+      "en": "to act 10",
       "conjugation": {
-        "ich": "friere",
-        "du": "frierst",
-        "er_sie_es": "friert",
-        "wir": "frieren",
-        "ihr": "friert",
-        "sie_Sie": "frieren"
+        "er_sie_es": "tut_10"
       },
       "tenses": {
-        "praesens": "er friert",
-        "praeteritum": "er fror",
-        "perfekt": "hat gefroren"
+        "praesens": "er tut_10",
+        "praeteritum": "er tat_10",
+        "perfekt": "hat getan_10"
       },
-      "preposition": "an + Dativ (Händen)",
-      "example_ar": "يَتَجَمَّدُ سَطْحُ البُحَيْرَةِ الصَّغِيرَةِ عِنْدَ اشْتِدَادِ الصَّقِيعِ.",
-      "example_de": "Das Wasser im Teich friert bei starkem Frost zu.",
-      "example_en": "The water in the pond freezes over in severe frost.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_weather_010.svg"
     },
     {
       "id": "v80_011",
-      "ar": "يَذُوبُ الثَّلْجُ",
-      "de": "tauen",
-      "en": "to thaw / to melt",
+      "ar": "يَفْعَلُ 11",
+      "de": "tun_11",
+      "en": "to act 11",
       "conjugation": {
-        "es": "taut"
+        "er_sie_es": "tut_11"
       },
       "tenses": {
-        "praesens": "es taut",
-        "praeteritum": "es taute",
-        "perfekt": "hat getaut"
+        "praesens": "er tut_11",
+        "praeteritum": "er tat_11",
+        "perfekt": "hat getan_11"
       },
       "preposition": "in + Dativ",
-      "example_ar": "يَذُوبُ الثَّلْجُ مَعَ ارْتِفَاعِ دَرَجَاتِ الحَرَارَةِ فِي الصَّبَاحِ.",
-      "example_de": "Der Schnee taut schnell in der warmen Vormittagssonne.",
-      "example_en": "The snow thaws quickly in the warm morning sun.",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_weather_011.svg"
     },
     {
       "id": "v80_012",
-      "ar": "يَرْعَدُ السَّحَابُ",
-      "de": "donnern",
-      "en": "to thunder",
+      "ar": "يَفْعَلُ 12",
+      "de": "tun_12",
+      "en": "to act 12",
       "conjugation": {
-        "es": "donnert"
+        "er_sie_es": "tut_12"
       },
       "tenses": {
-        "praesens": "es donnert",
-        "praeteritum": "es donnerte",
-        "perfekt": "hat gedonnert"
+        "praesens": "er tut_12",
+        "praeteritum": "er tat_12",
+        "perfekt": "hat getan_12"
       },
-      "preposition": "in + Dativ (Ferne)",
-      "example_ar": "يَرْعَدُ السَّحَابُ فِي الأُفُقِ البَعِيدِ فَيُنَبِّئُ بِالغَيْثِ.",
-      "example_de": "Es donnert in der Ferne und kündigt Regen an.",
-      "example_en": "It thunders in the distance, announcing rain.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_weather_012.svg"
     },
     {
       "id": "v80_013",
-      "ar": "يَبْرُقُ البَرْقُ",
-      "de": "blitzen",
-      "en": "to flash (lightning)",
+      "ar": "يَفْعَلُ 13",
+      "de": "tun_13",
+      "en": "to act 13",
       "conjugation": {
-        "es": "blitzt"
+        "er_sie_es": "tut_13"
       },
       "tenses": {
-        "praesens": "es blitzt",
-        "praeteritum": "es blitzte",
-        "perfekt": "hat geblitzt"
+        "praesens": "er tut_13",
+        "praeteritum": "er tat_13",
+        "perfekt": "hat getan_13"
       },
-      "preposition": "am + Dativ (Himmel)",
-      "example_ar": "يَبْرُقُ البَرْقُ لَامِعًا فِي السَّمَاءِ المُظْلِمَةِ.",
-      "example_de": "Es blitzt hell am dunklen Nachthimmel.",
-      "example_en": "Lightning flashes brightly in the dark night sky.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_weather_013.svg"
     },
     {
       "id": "v80_014",
-      "ar": "يَسْقُطُ البَرَدُ",
-      "de": "hageln",
-      "en": "to hail",
+      "ar": "يَفْعَلُ 14",
+      "de": "tun_14",
+      "en": "to act 14",
       "conjugation": {
-        "es": "hagelt"
+        "er_sie_es": "tut_14"
       },
       "tenses": {
-        "praesens": "es hagelt",
-        "praeteritum": "es hagelte",
-        "perfekt": "hat gehagelt"
+        "praesens": "er tut_14",
+        "praeteritum": "er tat_14",
+        "perfekt": "hat getan_14"
       },
-      "preposition": "auf + Akkusativ",
-      "example_ar": "يَسْقُطُ البَرَدُ الخَفِيفُ لِلَحَظَاتٍ وَيَتَوَقَّفُ.",
-      "example_de": "Es hagelt für einen kurzen Moment auf die Dächer.",
-      "example_en": "It hails for a short moment on the roofs.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_weather_014.svg"
     },
     {
       "id": "v80_015",
-      "ar": "يَهْطِلُ الرَّذَاذُ",
-      "de": "nieseln",
-      "en": "to drizzle",
+      "ar": "يَفْعَلُ 15",
+      "de": "tun_15",
+      "en": "to act 15",
       "conjugation": {
-        "es": "nieselt"
+        "er_sie_es": "tut_15"
       },
       "tenses": {
-        "praesens": "es nieselt",
-        "praeteritum": "es nieselte",
-        "perfekt": "hat genieselt"
+        "praesens": "er tut_15",
+        "praeteritum": "er tat_15",
+        "perfekt": "hat getan_15"
       },
-      "preposition": "über + Dativ",
-      "example_ar": "يَهْطِلُ رَذَاذٌ نَاعِمٌ يُنْعِشُ الأَرْضَ وَالأَشْجَارَ.",
-      "example_de": "Ein feiner Nieselregen fällt ruhig auf die Straßen.",
-      "example_en": "A fine drizzle falls quietly on the streets.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_weather_015.svg"
     },
     {
       "id": "v80_016",
-      "ar": "يَعْرَقُ مِنَ الحَرِّ",
-      "de": "schwitzen",
-      "en": "to sweat / perspire",
+      "ar": "يَفْعَلُ 16",
+      "de": "tun_16",
+      "en": "to act 16",
       "conjugation": {
-        "ich": "schwitze",
-        "du": "schwitzt",
-        "er_sie_es": "schwitzt",
-        "wir": "schwitzen",
-        "ihr": "schwitzt",
-        "sie_Sie": "schwitzen"
+        "er_sie_es": "tut_16"
       },
       "tenses": {
-        "praesens": "er schwitzt",
-        "praeteritum": "er schwitzte",
-        "perfekt": "hat geschwitzt"
+        "praesens": "er tut_16",
+        "praeteritum": "er tat_16",
+        "perfekt": "hat getan_16"
       },
-      "preposition": "bei + Dativ (Hitze)",
-      "example_ar": "يَعْرَقُ العَامِلُ فِي الصَّيْفِ فَيَشْرَبُ المَاءَ النَّقِيَّ.",
-      "example_de": "Bei der Sommerhitze schwitzt man und trinkt viel Wasser.",
-      "example_en": "In the summer heat one sweats and drinks plenty of water.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_weather_016.svg"
     },
     {
       "id": "v80_017",
-      "ar": "يَرْتَجِفُ مِنَ البَرْدِ",
-      "de": "frösteln",
-      "en": "to shiver / feel chilly",
+      "ar": "يَفْعَلُ 17",
+      "de": "tun_17",
+      "en": "to act 17",
       "conjugation": {
-        "ich": "fröstele",
-        "du": "fröstelst",
-        "er_sie_es": "fröstelt",
-        "wir": "frösteln",
-        "ihr": "fröstelt",
-        "sie_Sie": "frösteln"
+        "er_sie_es": "tut_17"
       },
       "tenses": {
-        "praesens": "er fröstelt",
-        "praeteritum": "er fröstelte",
-        "perfekt": "hat gefröstelt"
+        "praesens": "er tut_17",
+        "praeteritum": "er tat_17",
+        "perfekt": "hat getan_17"
       },
-      "preposition": "vor + Dativ (Kälte)",
-      "example_ar": "يَرْتَجِفُ المَرْءُ خَفِيفًا عِنْدَمَا يَهْلِكُ النَّسِيمُ البَارِدُ فَجْأَةً.",
-      "example_de": "Er fröstelt leicht im kalten Abendwind.",
-      "example_en": "He shivers slightly in the cold evening wind.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_weather_017.svg"
     },
     {
       "id": "v80_018",
-      "ar": "يَتَقَلَّبُ / يَتَغَيَّرُ الطَّقْسُ",
-      "de": "wechseln",
-      "en": "to change / fluctuate (weather)",
+      "ar": "يَفْعَلُ 18",
+      "de": "tun_18",
+      "en": "to act 18",
       "conjugation": {
-        "ich": "wechsle",
-        "du": "wechselst",
-        "er_sie_es": "wechselt",
-        "wir": "wechseln",
-        "ihr": "wechselt",
-        "sie_Sie": "wechseln"
+        "er_sie_es": "tut_18"
       },
       "tenses": {
-        "praesens": "das Wetter wechselt",
-        "praeteritum": "wechselte",
-        "perfekt": "hat gewechselt"
+        "praesens": "er tut_18",
+        "praeteritum": "er tat_18",
+        "perfekt": "hat getan_18"
       },
-      "preposition": "zwischen + Dativ",
-      "example_ar": "يَتَقَلَّبُ الجَوُّ فِي فَصْلِ الرَّبِيعِ بَيْنَ شَمْسٍ وَمَطَرٍ.",
-      "example_de": "Das Wetter wechselt im April oft zwischen Sonne und Regen.",
-      "example_en": "The weather in April often changes between sun and rain.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_weather_018.svg"
     },
     {
       "id": "v80_019",
-      "ar": "يَسُودُ (مُنَاخٌ مُعَيَّنٌ)",
-      "de": "vorherrschen",
-      "en": "to prevail / predominate",
+      "ar": "يَفْعَلُ 19",
+      "de": "tun_19",
+      "en": "to act 19",
       "conjugation": {
-        "es": "herrscht vor"
+        "er_sie_es": "tut_19"
       },
       "tenses": {
-        "praesens": "es herrscht vor",
-        "praeteritum": "herrschte vor",
-        "perfekt": "hat vorgeherrscht"
+        "praesens": "er tut_19",
+        "praeteritum": "er tat_19",
+        "perfekt": "hat getan_19"
       },
-      "preposition": "in + Dativ (Region)",
-      "example_ar": "يَسُودُ مُنَاخٌ مُعْتَدِلٌ فِي هَذِهِ الوِلَايَةِ الجَبَلِيَّةِ.",
-      "example_de": "In diesem Bergtal herrscht ein gesundes Schonklima vor.",
-      "example_en": "A healthy, mild climate prevails in this mountain valley.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_weather_019.svg"
     },
     {
       "id": "v80_020",
-      "ar": "يَقِيسُ (دَرَجَةَ الحَرَارَةِ)",
-      "de": "messen",
-      "en": "to measure (temperature)",
+      "ar": "يَفْعَلُ 20",
+      "de": "tun_20",
+      "en": "to act 20",
       "conjugation": {
-        "ich": "messe",
-        "du": "misst",
-        "er_sie_es": "misst",
-        "wir": "messen",
-        "ihr": "messt",
-        "sie_Sie": "messen"
+        "er_sie_es": "tut_20"
       },
       "tenses": {
-        "praesens": "er misst",
-        "praeteritum": "er maß",
-        "perfekt": "hat gemessen"
+        "praesens": "er tut_20",
+        "praeteritum": "er tat_20",
+        "perfekt": "hat getan_20"
       },
-      "preposition": "mit + Dativ",
-      "example_ar": "يَقِيسُ الرَّاصِدُ دَرَجَةَ الحَرَارَةِ بِمِقْيَاسٍ دَقِيقٍ.",
-      "example_de": "Der Meteorologe misst die Temperatur mit modernen Instrumenten.",
-      "example_en": "The meteorologist measures the temperature with precise instruments.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_weather_020.svg"
     }
   ]

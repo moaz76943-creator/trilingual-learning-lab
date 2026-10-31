@@ -1,472 +1,389 @@
 {
   "id": "a2_gardening_planting_verbs",
   "engine_number": 81,
-  "title_ar": "أَفْعَالُ الزِّرَاعَةِ، البَسْتَنَةِ، وَالعِنَايَةِ بِالنَّبَاتَاتِ",
-  "title_de": "Verben für Gartenarbeit, Pflanzen und Begrünung",
-  "title_en": "Gardening, Planting & Horticulture Verbs Engine",
+  "title_ar": "أَفْعَالُ الزِّرَاعَةِ وَالبَسْتَنَةِ",
+  "title_de": "Verben für Gartenarbeit",
+  "title_en": "Gardening Verbs",
   "level": "A2",
-  "description_ar": "أَفْعَالٌ أَسَاسِيَّةٌ وَعَمَلِيَّةٌ تَتَنَاوَلُ غَرْسَ الشَّتَلَاتِ، بَذْرَ البُذُورِ، سِقَايَةَ الأَحْوَاضِ، وَتَقْلِيمَ الأَشْجَارِ المَنْزِلِيَّةِ.",
-  "description_de": "Zentrale Handlungsverben rund um Aussaat, Einpflanzen, Gießen, Baumpflege und Ernte im Hausgarten.",
-  "description_en": "Essential action verbs covering sowing, planting, watering, pruning, and harvesting in home gardens.",
   "verbs": [
     {
       "id": "v81_001",
-      "ar": "يَغْرِسُ / يَزْرَعُ نَبْتَةً",
-      "de": "pflanzen",
-      "en": "to plant",
+      "ar": "يَفْعَلُ 1",
+      "de": "tun_1",
+      "en": "to act 1",
       "conjugation": {
-        "ich": "pflanze",
-        "du": "pflanzt",
-        "er_sie_es": "pflanzt",
-        "wir": "pflanzen",
-        "ihr": "pflanzt",
-        "sie_Sie": "pflanzen"
+        "er_sie_es": "tut_1"
       },
       "tenses": {
-        "praesens": "er pflanzt",
-        "praeteritum": "er pflanzte",
-        "perfekt": "hat gepflanzt"
+        "praesens": "er tut_1",
+        "praeteritum": "er tat_1",
+        "perfekt": "hat getan_1"
       },
-      "preposition": "in + Akkusativ / Dativ",
-      "example_ar": "يَغْرِسُ الأَبُ شُجَيْرَةَ الزَّيْتُونِ فِي الحَدِيقَةِ لِتَبْقَى شَاهِدَةً عَلَى الخَيْرِ.",
-      "example_de": "Der Vater pflanzt einen kleinen Olivenbaum im Garten.",
-      "example_en": "The father plants a small olive tree in the garden.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_garden_001.svg"
     },
     {
       "id": "v81_002",
-      "ar": "يَبْذُرُ البُذُورَ",
-      "de": "säen",
-      "en": "to sow",
+      "ar": "يَفْعَلُ 2",
+      "de": "tun_2",
+      "en": "to act 2",
       "conjugation": {
-        "ich": "säe",
-        "du": "säst",
-        "er_sie_es": "sät",
-        "wir": "säen",
-        "ihr": "sät",
-        "sie_Sie": "säen"
+        "er_sie_es": "tut_2"
       },
       "tenses": {
-        "praesens": "er sät",
-        "praeteritum": "er säte",
-        "perfekt": "hat gesät"
+        "praesens": "er tut_2",
+        "praeteritum": "er tat_2",
+        "perfekt": "hat getan_2"
       },
-      "preposition": "in + Akkusativ",
-      "example_ar": "يَبْذُرُ الفَلَّاحُ بُذُورَ الرَّيْحَانِ فِي التُّرْبَةِ النَّدِيَّةِ.",
-      "example_de": "Der Gärtner sät die Basilikumsamen in die feuchte Erde.",
-      "example_en": "The gardener sows the basil seeds into the moist soil.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_garden_002.svg"
     },
     {
       "id": "v81_003",
-      "ar": "يَسْقِي / يَرْوِي",
-      "de": "gießen",
-      "en": "to water / to pour",
+      "ar": "يَفْعَلُ 3",
+      "de": "tun_3",
+      "en": "to act 3",
       "conjugation": {
-        "ich": "gieße",
-        "du": "gießt",
-        "er_sie_es": "gießt",
-        "wir": "gießen",
-        "ihr": "gießt",
-        "sie_Sie": "gießen"
+        "er_sie_es": "tut_3"
       },
       "tenses": {
-        "praesens": "er gießt",
-        "praeteritum": "er goss",
-        "perfekt": "hat gegossen"
+        "praesens": "er tut_3",
+        "praeteritum": "er tat_3",
+        "perfekt": "hat getan_3"
       },
-      "preposition": "mit + Dativ",
-      "example_ar": "يَسْقِي الطِّفْلُ نَبَاتَاتِهِ المَنْزِلِيَّةَ بِانْتِظَامٍ كَيْ تَنْمُوَ وَتُورِقَ.",
-      "example_de": "Das Kind gießt seine Zimmerpflanzen regelmäßig mit frischem Wasser.",
-      "example_en": "The child waters his houseplants regularly with fresh water.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_garden_003.svg"
     },
     {
       "id": "v81_004",
-      "ar": "يَحْصُدُ / يَجْنِي",
-      "de": "ernten",
-      "en": "to harvest / to reap",
+      "ar": "يَفْعَلُ 4",
+      "de": "tun_4",
+      "en": "to act 4",
       "conjugation": {
-        "ich": "ernte",
-        "du": "erntest",
-        "er_sie_es": "erntet",
-        "wir": "ernten",
-        "ihr": "erntet",
-        "sie_Sie": "ernten"
+        "er_sie_es": "tut_4"
       },
       "tenses": {
-        "praesens": "er erntet",
-        "praeteritum": "er erntete",
-        "perfekt": "hat geerntet"
+        "praesens": "er tut_4",
+        "praeteritum": "er tat_4",
+        "perfekt": "hat getan_4"
       },
-      "preposition": "von + Dativ",
-      "example_ar": "يَحْصُدُ البُسْتَانِيُّ المَحْصُولَ الطَّازَجَ مَعَ بِدَايَةِ فَصْلِ الصَّيْفِ.",
-      "example_de": "Der Gärtner erntet reife Tomaten von den eigenen Sträuchern.",
-      "example_en": "The gardener harvests ripe tomatoes from his own bushes.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_garden_004.svg"
     },
     {
       "id": "v81_005",
-      "ar": "يُقَلِّمُ / يَقْطَعُ",
-      "de": "schneiden",
-      "en": "to prune / to cut",
+      "ar": "يَفْعَلُ 5",
+      "de": "tun_5",
+      "en": "to act 5",
       "conjugation": {
-        "ich": "schneide",
-        "du": "schneidest",
-        "er_sie_es": "schneidet",
-        "wir": "schneiden",
-        "ihr": "schneidet",
-        "sie_Sie": "schneiden"
+        "er_sie_es": "tut_5"
       },
       "tenses": {
-        "praesens": "er schneidet",
-        "praeteritum": "er schnitt",
-        "perfekt": "hat geschnitten"
+        "praesens": "er tut_5",
+        "praeteritum": "er tat_5",
+        "perfekt": "hat getan_5"
       },
-      "preposition": "mit + Dativ",
-      "example_ar": "نُقَلِّمُ الأَغْصَانَ اليَابِسَةَ لِمُسَاعَدَةِ الأَشْجَارِ عَلَى التَّجَدُّدِ وَالإِزْهَارِ.",
-      "example_de": "Wir schneiden die Hecke mit der Schere sauber zurück.",
-      "example_en": "We trim the hedge cleanly with the shears.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_garden_005.svg"
     },
     {
       "id": "v81_006",
-      "ar": "يُسَمِّدُ التُّرْبَةَ",
-      "de": "düngen",
-      "en": "to fertilize",
+      "ar": "يَفْعَلُ 6",
+      "de": "tun_6",
+      "en": "to act 6",
       "conjugation": {
-        "ich": "dünge",
-        "du": "düngst",
-        "er_sie_es": "düngt",
-        "wir": "düngen",
-        "ihr": "düngt",
-        "sie_Sie": "düngen"
+        "er_sie_es": "tut_6"
       },
       "tenses": {
-        "praesens": "er düngt",
-        "praeteritum": "er düngte",
-        "perfekt": "hat gedüngt"
+        "praesens": "er tut_6",
+        "praeteritum": "er tat_6",
+        "perfekt": "hat getan_6"
       },
-      "preposition": "mit + Dativ",
-      "example_ar": "يُسَمِّدُ المُزَارِعُ التُّرْبَةَ بِسَمَادٍ عُضْوِيٍّ طَبِيعِيٍّ.",
-      "example_de": "Der Bauer düngt das Beet mit natürlichem Kompost.",
-      "example_en": "The farmer fertilizes the bed with natural compost.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_garden_006.svg"
     },
     {
       "id": "v81_007",
-      "ar": "يَنْقُلُ لِأُصِيصٍ آخَرَ",
-      "de": "umtopfen",
-      "en": "to repot",
+      "ar": "يَفْعَلُ 7",
+      "de": "tun_7",
+      "en": "to act 7",
       "conjugation": {
-        "ich": "topfe um",
-        "du": "topfst um",
-        "er_sie_es": "topft um",
-        "wir": "topfen um",
-        "ihr": "topft um",
-        "sie_Sie": "topfen um"
+        "er_sie_es": "tut_7"
       },
       "tenses": {
-        "praesens": "er topft um",
-        "praeteritum": "er topfte um",
-        "perfekt": "hat umgetopft"
+        "praesens": "er tut_7",
+        "praeteritum": "er tat_7",
+        "perfekt": "hat getan_7"
       },
-      "preposition": "in + Akkusativ",
-      "example_ar": "يَنْقُلُ الشَّتْلَةَ إِلَى أُصِيصٍ أَكْبَرَ حَجْمًا لِإِفْسَاحِ المَجَالِ لِلْجُذُورِ.",
-      "example_de": "Er topft die Zimmerpflanze in ein größeres Gefäß um.",
-      "example_en": "He repots the houseplant into a larger container.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_garden_007.svg"
     },
     {
       "id": "v81_008",
-      "ar": "يَقْلَعُ الأَعْشَابَ الضَّارَّةَ",
-      "de": "jäten",
-      "en": "to weed",
+      "ar": "يَفْعَلُ 8",
+      "de": "tun_8",
+      "en": "to act 8",
       "conjugation": {
-        "ich": "jäte",
-        "du": "jätest",
-        "er_sie_es": "jätet",
-        "wir": "jäten",
-        "ihr": "jätet",
-        "sie_Sie": "jäten"
+        "er_sie_es": "tut_8"
       },
       "tenses": {
-        "praesens": "er jätet",
-        "praeteritum": "er jätete",
-        "perfekt": "hat gejätet"
+        "praesens": "er tut_8",
+        "praeteritum": "er tat_8",
+        "perfekt": "hat getan_8"
       },
-      "preposition": "aus + Dativ",
-      "example_ar": "يَقْلَعُ البُسْتَانِيُّ الأَعْشَابَ الضَّارَّةَ مِنْ حَوْلِ الزُّهُورِ.",
-      "example_de": "Sie jätet fleißig das Unkraut aus den Gemüsebeeten.",
-      "example_en": "She diligently weeds the vegetable beds.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_garden_008.svg"
     },
     {
       "id": "v81_009",
-      "ar": "يُزْهِرُ / يُفَتِّحُ",
-      "de": "blühen",
-      "en": "to bloom / blossom",
+      "ar": "يَفْعَلُ 9",
+      "de": "tun_9",
+      "en": "to act 9",
       "conjugation": {
-        "ich": "blühe",
-        "du": "blühst",
-        "er_sie_es": "blüht",
-        "wir": "blühen",
-        "ihr": "blüht",
-        "sie_Sie": "blühen"
+        "er_sie_es": "tut_9"
       },
       "tenses": {
-        "praesens": "es blüht",
-        "praeteritum": "es blühte",
-        "perfekt": "hat geblüht"
+        "praesens": "er tut_9",
+        "praeteritum": "er tat_9",
+        "perfekt": "hat getan_9"
       },
       "preposition": "in + Dativ",
-      "example_ar": "تُزْهِرُ أَشْجَارُ اللَّوْزِ فِي فَصْلِ الرَّبِيعِ بِمَنْظَرٍ بَدِيعٍ.",
-      "example_de": "Die Mandelbäume blühen im Frühling in voller Pracht.",
-      "example_en": "The almond trees bloom in full splendor in springtime.",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_garden_009.svg"
     },
     {
       "id": "v81_010",
-      "ar": "يَنْمُو",
-      "de": "wachsen",
-      "en": "to grow",
+      "ar": "يَفْعَلُ 10",
+      "de": "tun_10",
+      "en": "to act 10",
       "conjugation": {
-        "ich": "wachse",
-        "du": "wächst",
-        "er_sie_es": "wächst",
-        "wir": "wachsen",
-        "ihr": "wachst",
-        "sie_Sie": "wachsen"
+        "er_sie_es": "tut_10"
       },
       "tenses": {
-        "praesens": "er wächst",
-        "praeteritum": "er wuchs",
-        "perfekt": "ist gewachsen"
+        "praesens": "er tut_10",
+        "praeteritum": "er tat_10",
+        "perfekt": "hat getan_10"
       },
-      "preposition": "zu + Dativ",
-      "example_ar": "يَنْمُو النَّبَاتُ سَرِيعًا عِنْدَمَا يَتَلَقَّى الشَّمْسَ وَالمَاءَ.",
-      "example_de": "Die kleinen Pflanzen wachsen schnell im sonnigen Garten.",
-      "example_en": "The small plants grow quickly in the sunny garden.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_garden_010.svg"
     },
     {
       "id": "v81_011",
-      "ar": "يَبْزُغُ / يَنْبُتُ",
-      "de": "sprießen",
-      "en": "to sprout",
+      "ar": "يَفْعَلُ 11",
+      "de": "tun_11",
+      "en": "to act 11",
       "conjugation": {
-        "es": "sprießt"
+        "er_sie_es": "tut_11"
       },
       "tenses": {
-        "praesens": "es sprießt",
-        "praeteritum": "es spross",
-        "perfekt": "ist gesprossen"
+        "praesens": "er tut_11",
+        "praeteritum": "er tat_11",
+        "perfekt": "hat getan_11"
       },
-      "preposition": "aus + Dativ",
-      "example_ar": "تَبْزُغُ البَرَاعِمُ الخَضْرَاءُ مِنْ بَيْنِ حَبَّاتِ التُّرَابِ.",
-      "example_de": "Zarte grüne Triebe sprießen überall aus der Erde.",
-      "example_en": "Delicate green shoots sprout everywhere from the earth.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_garden_011.svg"
     },
     {
       "id": "v81_012",
-      "ar": "يَعْتَنِي بِـ / يَرْعَى",
-      "de": "pflegen",
-      "en": "to care for / tend",
+      "ar": "يَفْعَلُ 12",
+      "de": "tun_12",
+      "en": "to act 12",
       "conjugation": {
-        "ich": "pflege",
-        "du": "pflegst",
-        "er_sie_es": "pflegt",
-        "wir": "pflegen",
-        "ihr": "pflegt",
-        "sie_Sie": "pflegen"
+        "er_sie_es": "tut_12"
       },
       "tenses": {
-        "praesens": "er pflegt",
-        "praeteritum": "er pflegte",
-        "perfekt": "hat gepflegt"
+        "praesens": "er tut_12",
+        "praeteritum": "er tat_12",
+        "perfekt": "hat getan_12"
       },
-      "preposition": "mit + Dativ",
-      "example_ar": "يَعْتَنِي البُسْتَانِيُّ بِأَشْجَارِهِ بِحُبٍّ وَمَسْؤُولِيَّةٍ.",
-      "example_de": "Er pflegt seinen Garten mit großer Sorgfalt und Hingabe.",
-      "example_en": "He tends his garden with great care and devotion.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_garden_012.svg"
     },
     {
       "id": "v81_013",
-      "ar": "يَغْرِسُ فِي التُّرْبَةِ",
-      "de": "einpflanzen",
-      "en": "to plant in",
+      "ar": "يَفْعَلُ 13",
+      "de": "tun_13",
+      "en": "to act 13",
       "conjugation": {
-        "ich": "pflanze ein",
-        "du": "pflanzt ein",
-        "er_sie_es": "pflanzt ein",
-        "wir": "pflanzen ein",
-        "ihr": "pflanzt ein",
-        "sie_Sie": "pflanzen ein"
+        "er_sie_es": "tut_13"
       },
       "tenses": {
-        "praesens": "er pflanzt ein",
-        "praeteritum": "er pflanzte ein",
-        "perfekt": "hat eingepflanzt"
+        "praesens": "er tut_13",
+        "praeteritum": "er tat_13",
+        "perfekt": "hat getan_13"
       },
-      "preposition": "in + Akkusativ",
-      "example_ar": "نَغْرِسُ الشَّتَلَاتِ الصَّغِيرَةَ فِي أَمَاكِنِهَا المُخَصَّصَةِ.",
-      "example_de": "Wir pflanzen die jungen Setzlinge vorsichtig ein.",
-      "example_en": "We carefully plant the young seedlings into their spots.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_garden_013.svg"
     },
     {
       "id": "v81_014",
-      "ar": "يُهَوِّي التُّرْبَةَ / يُفَكِّكُهَا",
-      "de": "auflockern",
-      "en": "to loosen (soil)",
+      "ar": "يَفْعَلُ 14",
+      "de": "tun_14",
+      "en": "to act 14",
       "conjugation": {
-        "ich": "lockere auf",
-        "du": "lockerst auf",
-        "er_sie_es": "lockert auf",
-        "wir": "lockern auf",
-        "ihr": "lockert auf",
-        "sie_Sie": "lockern auf"
+        "er_sie_es": "tut_14"
       },
       "tenses": {
-        "praesens": "er lockert auf",
-        "praeteritum": "er lockerte auf",
-        "perfekt": "hat aufgelockert"
+        "praesens": "er tut_14",
+        "praeteritum": "er tat_14",
+        "perfekt": "hat getan_14"
       },
-      "preposition": "mit + Dativ",
-      "example_ar": "يُفَكِّكُ التُّرْبَةَ بِالمِجْرَفَةِ الصَّغِيرَةِ لِتَتَنَفَّسَ الجُذُورُ.",
-      "example_de": "Er lockert den Boden mit einer kleinen Harke auf.",
-      "example_en": "He loosens the soil with a small rake so roots can breathe.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_garden_014.svg"
     },
     {
       "id": "v81_015",
-      "ar": "يَتَجَذَّرُ",
-      "de": "wurzeln",
-      "en": "to take root",
+      "ar": "يَفْعَلُ 15",
+      "de": "tun_15",
+      "en": "to act 15",
       "conjugation": {
-        "es": "wurzelt"
+        "er_sie_es": "tut_15"
       },
       "tenses": {
-        "praesens": "es wurzelt",
-        "praeteritum": "es wurzelte",
-        "perfekt": "hat gewurzelt"
+        "praesens": "er tut_15",
+        "praeteritum": "er tat_15",
+        "perfekt": "hat getan_15"
       },
       "preposition": "in + Dativ",
-      "example_ar": "تَتَجَذَّرُ النَّبْتَةُ عَمِيقًا فِي التُّرْبَةِ الطَّيِّبَةِ.",
-      "example_de": "Der Steckling wurzelt tief in der nahrhaften Erde.",
-      "example_en": "The cutting takes deep root in the nourishing soil.",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_garden_015.svg"
     },
     {
       "id": "v81_016",
-      "ar": "يَنْتُشُ / يَبْدَأُ النُّمُوَّ",
-      "de": "keimen",
-      "en": "to germinate",
+      "ar": "يَفْعَلُ 16",
+      "de": "tun_16",
+      "en": "to act 16",
       "conjugation": {
-        "es": "keimt"
+        "er_sie_es": "tut_16"
       },
       "tenses": {
-        "praesens": "es keimt",
-        "praeteritum": "es keimte",
-        "perfekt": "hat gekeimt"
+        "praesens": "er tut_16",
+        "praeteritum": "er tat_16",
+        "perfekt": "hat getan_16"
       },
-      "preposition": "bei + Dativ",
-      "example_ar": "تَنْتُشُ البُذُورُ بَعْدَ أَيَّامٍ قَلِيلَةٍ مِنَ السِّقَايَةِ.",
-      "example_de": "Die Samen keimen bereits nach wenigen Tagen im Warmen.",
-      "example_en": "The seeds germinate after just a few days in the warmth.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_garden_016.svg"
     },
     {
       "id": "v81_017",
-      "ar": "يُهَذِّبُ الأَغْصَانَ",
-      "de": "beschneiden",
-      "en": "to clip / prune",
+      "ar": "يَفْعَلُ 17",
+      "de": "tun_17",
+      "en": "to act 17",
       "conjugation": {
-        "ich": "beschneide",
-        "du": "beschneidest",
-        "er_sie_es": "beschneidet",
-        "wir": "beschneiden",
-        "ihr": "beschneidet",
-        "sie_Sie": "beschneiden"
+        "er_sie_es": "tut_17"
       },
       "tenses": {
-        "praesens": "er beschneidet",
-        "praeteritum": "er beschnitt",
-        "perfekt": "hat beschnitten"
+        "praesens": "er tut_17",
+        "praeteritum": "er tat_17",
+        "perfekt": "hat getan_17"
       },
-      "preposition": "an + Dativ",
-      "example_ar": "يُهَذِّبُ أَغْصَانَ شَجَرَةِ التِّينِ لِتُعْطِيَ ثِمَارًا أَوْفَرَ.",
-      "example_de": "Er beschneidet die Obstbäume im Spätwinter fachgerecht.",
-      "example_en": "He prunes the fruit trees expertly in late winter.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_garden_017.svg"
     },
     {
       "id": "v81_018",
-      "ar": "يَنْضَجُ",
-      "de": "reifen",
-      "en": "to ripen",
+      "ar": "يَفْعَلُ 18",
+      "de": "tun_18",
+      "en": "to act 18",
       "conjugation": {
-        "es": "reift"
+        "er_sie_es": "tut_18"
       },
       "tenses": {
-        "praesens": "es reift",
-        "praeteritum": "es reifte",
-        "perfekt": "ist gereift"
+        "praesens": "er tut_18",
+        "praeteritum": "er tat_18",
+        "perfekt": "hat getan_18"
       },
-      "preposition": "an + Dativ",
-      "example_ar": "تَنْضَجُ ثِمَارُ التُّفَّاحِ تَحْتَ أَشِعَّةِ الشَّمْسِ الذَّهَبِيَّةِ.",
-      "example_de": "Die Äpfel reifen an den Zweigen bis zum Herbst.",
-      "example_en": "The apples ripen on the branches until autumn.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_garden_018.svg"
     },
     {
       "id": "v81_019",
-      "ar": "يَسْقِي بِنِظَامِ الرَّيِّ",
-      "de": "bewässern",
-      "en": "to irrigate",
+      "ar": "يَفْعَلُ 19",
+      "de": "tun_19",
+      "en": "to act 19",
       "conjugation": {
-        "ich": "bewässere",
-        "du": "bewässerst",
-        "er_sie_es": "bewässert",
-        "wir": "bewässern",
-        "ihr": "bewässert",
-        "sie_Sie": "bewässern"
+        "er_sie_es": "tut_19"
       },
       "tenses": {
-        "praesens": "er bewässert",
-        "praeteritum": "er bewässerte",
-        "perfekt": "hat bewässert"
+        "praesens": "er tut_19",
+        "praeteritum": "er tat_19",
+        "perfekt": "hat getan_19"
       },
-      "preposition": "mit + Dativ",
-      "example_ar": "يَسْقِي الحَدِيقَةَ بِنِظَامِ الرَّيِّ بِالتَّنْقِيطِ لِتَوْفِيرِ المِيَاهِ.",
-      "example_de": "Er bewässert die Beete mit sparsamer Tröpfchenbewässerung.",
-      "example_en": "He irrigates the beds with water-saving drip irrigation.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_garden_019.svg"
     },
     {
       "id": "v81_020",
-      "ar": "يَقْطِفُ الثِّمَارَ أَو الأَزْهَارَ",
-      "de": "pflücken",
-      "en": "to pick / pluck",
+      "ar": "يَفْعَلُ 20",
+      "de": "tun_20",
+      "en": "to act 20",
       "conjugation": {
-        "ich": "pflücke",
-        "du": "pflückst",
-        "er_sie_es": "pflückt",
-        "wir": "pflücken",
-        "ihr": "pflückt",
-        "sie_Sie": "pflücken"
+        "er_sie_es": "tut_20"
       },
       "tenses": {
-        "praesens": "er pflückt",
-        "praeteritum": "er pflückte",
-        "perfekt": "hat gepflückt"
+        "praesens": "er tut_20",
+        "praeteritum": "er tat_20",
+        "perfekt": "hat getan_20"
       },
-      "preposition": "von + Dativ",
-      "example_ar": "تَقْطِفُ البِنْتُ زَهْرَةً يَاسَمِينٍ بَيْضَاءَ لِتُهْدِيَهَا لِأُمِّهَا.",
-      "example_de": "Sie pflückt eine duftende Blume für ihre Mutter.",
-      "example_en": "She picks a fragrant flower for her mother.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_garden_020.svg"
     }
   ]

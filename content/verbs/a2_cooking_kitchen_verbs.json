@@ -1,492 +1,389 @@
 {
   "id": "a2_cooking_kitchen_verbs",
   "engine_number": 82,
-  "title_ar": "أَفْعَالُ الطَّبْخِ، إِعْدَادِ الطَّعَامِ، وَالأَنْشِطَةِ المَنْزِلِيَّةِ",
-  "title_de": "Verben für Kochen, Zubereitung und Küchenarbeit",
-  "title_en": "Cooking, Food Preparation & Kitchen Verbs Engine",
+  "title_ar": "أَفْعَالُ الطَّبْخِ وَالمَطْبَخِ",
+  "title_de": "Verben für Kochen",
+  "title_en": "Cooking Verbs",
   "level": "A2",
-  "description_ar": "أَفْعَالٌ أَسَاسِيَّةٌ وَيَوْمِيَّةٌ تُرَافِقُ إِعْدَادَ الوَجَبَاتِ، الخَبْزَ، التَّقْطِيعَ، التَّتْبِيلَ، وَمُشَارَكَةَ المَائِدَةِ.",
-  "description_de": "Praxisnahe Verben für die tägliche Essenszubereitung, Backen, Schneiden, Würzen und gemeinsames Genießen.",
-  "description_en": "Practical everyday verbs for meal preparation, baking, slicing, seasoning, and sharing food.",
   "verbs": [
     {
       "id": "v82_001",
-      "ar": "يَطْبُخُ / يَغْلِي",
-      "de": "kochen",
-      "en": "to cook / to boil",
+      "ar": "يَفْعَلُ 1",
+      "de": "tun_1",
+      "en": "to act 1",
       "conjugation": {
-        "ich": "koche",
-        "du": "kochst",
-        "er_sie_es": "kocht",
-        "wir": "kochen",
-        "ihr": "kocht",
-        "sie_Sie": "kochen"
+        "er_sie_es": "tut_1"
       },
       "tenses": {
-        "praesens": "er kocht",
-        "praeteritum": "er kochte",
-        "perfekt": "hat gekocht"
+        "praesens": "er tut_1",
+        "praeteritum": "er tat_1",
+        "perfekt": "hat getan_1"
       },
-      "preposition": "für + Akkusativ",
-      "example_ar": "يَطْبُخُ الأَبُ حَسَاءَ الخُضْرَارِ الدَّافِئَ لِلْعَائِلَةِ فِي المَسَاءِ.",
-      "example_de": "Der Vater kocht am Abend eine wärmende Gemüsesuppe für die Familie.",
-      "example_en": "The father cooks a warming vegetable soup for the family in the evening.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_cook_001.svg"
     },
     {
       "id": "v82_002",
-      "ar": "يَخْبِزُ",
-      "de": "backen",
-      "en": "to bake",
+      "ar": "يَفْعَلُ 2",
+      "de": "tun_2",
+      "en": "to act 2",
       "conjugation": {
-        "ich": "backe",
-        "du": "bäckst",
-        "er_sie_es": "bäckt",
-        "wir": "backen",
-        "ihr": "backt",
-        "sie_Sie": "backen"
+        "er_sie_es": "tut_2"
       },
       "tenses": {
-        "praesens": "er bäckt",
-        "praeteritum": "er backte",
-        "perfekt": "hat gebacken"
+        "praesens": "er tut_2",
+        "praeteritum": "er tat_2",
+        "perfekt": "hat getan_2"
       },
-      "preposition": "im + Dativ (Ofen)",
-      "example_ar": "تَخْبِزُ الأُمُّ خُبْزًا طَازَجًا فِي فُرْنِ المَنْزِلِ.",
-      "example_de": "Die Mutter bäckt frisches Vollkornbrot im Ofen.",
-      "example_en": "The mother bakes fresh wholemeal bread in the oven.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_cook_002.svg"
     },
     {
       "id": "v82_003",
-      "ar": "يَقْلِي / يُحَمِّرُ",
-      "de": "braten",
-      "en": "to fry / roast",
+      "ar": "يَفْعَلُ 3",
+      "de": "tun_3",
+      "en": "to act 3",
       "conjugation": {
-        "ich": "brate",
-        "du": "brätst",
-        "er_sie_es": "brät",
-        "wir": "braten",
-        "ihr": "bratet",
-        "sie_Sie": "braten"
+        "er_sie_es": "tut_3"
       },
       "tenses": {
-        "praesens": "er brät",
-        "praeteritum": "er briet",
-        "perfekt": "hat gebraten"
+        "praesens": "er tut_3",
+        "praeteritum": "er tat_3",
+        "perfekt": "hat getan_3"
       },
-      "preposition": "in + Dativ (Pfanne)",
-      "example_ar": "يُحَمِّرُ الخُضَارَ فِي المِقْلَاةِ بِزَيْتِ الزَّيْتُونِ الخَفِيفِ.",
-      "example_de": "Er brät das Gemüse schonend in der Pfanne an.",
-      "example_en": "He gently fries the vegetables in the pan.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_cook_003.svg"
     },
     {
       "id": "v82_004",
-      "ar": "يُقَطِّعُ",
-      "de": "schneiden",
-      "en": "to cut / slice",
+      "ar": "يَفْعَلُ 4",
+      "de": "tun_4",
+      "en": "to act 4",
       "conjugation": {
-        "ich": "schneide",
-        "du": "schneidest",
-        "er_sie_es": "schneidet",
-        "wir": "schneiden",
-        "ihr": "schneidet",
-        "sie_Sie": "schneiden"
+        "er_sie_es": "tut_4"
       },
       "tenses": {
-        "praesens": "er schneidet",
-        "praeteritum": "er schnitt",
-        "perfekt": "hat geschnitten"
+        "praesens": "er tut_4",
+        "praeteritum": "er tat_4",
+        "perfekt": "hat getan_4"
       },
-      "preposition": "in + Akkusativ (Stücke)",
-      "example_ar": "يُقَطِّعُ الطَّمَاطِمَ إِلَى شَرَائِحَ مُتَسَاوِيَةٍ لِلسَّلَطَةِ.",
-      "example_de": "Er schneidet die Tomaten in gleichmäßige Scheiben.",
-      "example_en": "He slices the tomatoes into even slices for the salad.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_cook_004.svg"
     },
     {
       "id": "v82_005",
-      "ar": "يُقَشِّرُ",
-      "de": "schälen",
-      "en": "to peel",
+      "ar": "يَفْعَلُ 5",
+      "de": "tun_5",
+      "en": "to act 5",
       "conjugation": {
-        "ich": "schäle",
-        "du": "schälst",
-        "er_sie_es": "schält",
-        "wir": "schälen",
-        "ihr": "schält",
-        "sie_Sie": "schälen"
+        "er_sie_es": "tut_5"
       },
       "tenses": {
-        "praesens": "er schält",
-        "praeteritum": "er schälte",
-        "perfekt": "hat geschält"
+        "praesens": "er tut_5",
+        "praeteritum": "er tat_5",
+        "perfekt": "hat getan_5"
       },
-      "preposition": "mit + Dativ",
-      "example_ar": "يُقَشِّرُ التُّفَّاحَ وَالبُرْتُقَالَ قَبْلَ تَقْدِيمِهِ لِلأَطْفَالِ.",
-      "example_de": "Sie schält die Äpfel vor der Zubereitung des Obstsalats.",
-      "example_en": "She peels the apples before preparing the fruit salad.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_cook_005.svg"
     },
     {
       "id": "v82_006",
-      "ar": "يُحَرِّكُ / يُقَلِّبُ",
-      "de": "rühren",
-      "en": "to stir",
+      "ar": "يَفْعَلُ 6",
+      "de": "tun_6",
+      "en": "to act 6",
       "conjugation": {
-        "ich": "rühre",
-        "du": "rührst",
-        "er_sie_es": "rührt",
-        "wir": "rühren",
-        "ihr": "rührt",
-        "sie_Sie": "rühren"
+        "er_sie_es": "tut_6"
       },
       "tenses": {
-        "praesens": "er rührt",
-        "praeteritum": "er rührte",
-        "perfekt": "hat gerührt"
+        "praesens": "er tut_6",
+        "praeteritum": "er tat_6",
+        "perfekt": "hat getan_6"
       },
-      "preposition": "mit + Dativ",
-      "example_ar": "يُقَلِّبُ الحَسَاءَ فِي القِدْرِ حَتَّى تَمْتَزِجَ النَّكَهَاتُ.",
-      "example_de": "Er rührt die Suppe regelmäßig mit dem Kochlöffel um.",
-      "example_en": "He stirs the soup regularly with the wooden spoon.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_cook_006.svg"
     },
     {
       "id": "v82_007",
-      "ar": "يَعْجِنُ",
-      "de": "kneten",
-      "en": "to knead",
+      "ar": "يَفْعَلُ 7",
+      "de": "tun_7",
+      "en": "to act 7",
       "conjugation": {
-        "ich": "knete",
-        "du": "knetest",
-        "er_sie_es": "knetet",
-        "wir": "kneten",
-        "ihr": "knetet",
-        "sie_Sie": "kneten"
+        "er_sie_es": "tut_7"
       },
       "tenses": {
-        "praesens": "er knetet",
-        "praeteritum": "er knetete",
-        "perfekt": "hat geknetet"
+        "praesens": "er tut_7",
+        "praeteritum": "er tat_7",
+        "perfekt": "hat getan_7"
       },
-      "preposition": "mit + Dativ (Händen)",
-      "example_ar": "يَعْجِنُ الشَّابُّ الدَّقِيقَ بِالمَاءِ وَالخَمِيرَةِ لِإِعْدَادِ الفَطَائِرِ.",
-      "example_de": "Er knetet den Brotteig kräftig mit beiden Händen.",
-      "example_en": "He kneads the bread dough vigorously with both hands.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_cook_007.svg"
     },
     {
       "id": "v82_008",
-      "ar": "يُتَبِّلُ",
-      "de": "würzen",
-      "en": "to season / spice",
+      "ar": "يَفْعَلُ 8",
+      "de": "tun_8",
+      "en": "to act 8",
       "conjugation": {
-        "ich": "würze",
-        "du": "würzt",
-        "er_sie_es": "würzt",
-        "wir": "würzen",
-        "ihr": "würzt",
-        "sie_Sie": "würzen"
+        "er_sie_es": "tut_8"
       },
       "tenses": {
-        "praesens": "er würzt",
-        "praeteritum": "er würzte",
-        "perfekt": "hat gewürzt"
+        "praesens": "er tut_8",
+        "praeteritum": "er tat_8",
+        "perfekt": "hat getan_8"
       },
-      "preposition": "mit + Dativ",
-      "example_ar": "يُتَبِّلُ الطَّاهِي الطَّعَامَ بِتَوَابِلَ طَبِيعِيَّةٍ خَفِيفَةٍ لِتُعْطِيَهُ مَذَاقًا رَائِقًا.",
-      "example_de": "Der Koch würzt die Speise mit Pfeffer und feinen Kräutern.",
-      "example_en": "The cook seasons the dish with pepper and fine herbs.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_cook_008.svg"
     },
     {
       "id": "v82_009",
-      "ar": "يَتَذَوَّقُ",
-      "de": "probieren",
-      "en": "to taste / try",
+      "ar": "يَفْعَلُ 9",
+      "de": "tun_9",
+      "en": "to act 9",
       "conjugation": {
-        "ich": "probiere",
-        "du": "probierst",
-        "er_sie_es": "probiert",
-        "wir": "probieren",
-        "ihr": "probiert",
-        "sie_Sie": "probieren"
+        "er_sie_es": "tut_9"
       },
       "tenses": {
-        "praesens": "er probiert",
-        "praeteritum": "er probierte",
-        "perfekt": "hat probiert"
+        "praesens": "er tut_9",
+        "praeteritum": "er tat_9",
+        "perfekt": "hat getan_9"
       },
-      "preposition": "von + Dativ",
-      "example_ar": "يَتَذَوَّقُ المَرَقَ لِلتَّأَكُّدِ مِنِ اعْتِدَالِ المِلْحِ فِيهِ.",
-      "example_de": "Er probiert von der Soße, um die Würze zu prüfen.",
-      "example_en": "He tastes the sauce to check the seasoning.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_cook_009.svg"
     },
     {
       "id": "v82_010",
-      "ar": "يُقَدِّمُ الطَّعَامَ",
-      "de": "servieren",
-      "en": "to serve",
+      "ar": "يَفْعَلُ 10",
+      "de": "tun_10",
+      "en": "to act 10",
       "conjugation": {
-        "ich": "serviere",
-        "du": "servierst",
-        "er_sie_es": "serviert",
-        "wir": "servieren",
-        "ihr": "serviert",
-        "sie_Sie": "servieren"
+        "er_sie_es": "tut_10"
       },
       "tenses": {
-        "praesens": "er serviert",
-        "praeteritum": "er servierte",
-        "perfekt": "hat serviert"
+        "praesens": "er tut_10",
+        "praeteritum": "er tat_10",
+        "perfekt": "hat getan_10"
       },
-      "preposition": "auf + Dativ / für + Akkusativ",
-      "example_ar": "تُقَدِّمُ الأُمُّ الطَّعَامَ الدَّافِئَ لِلضُّيُوفِ بِكَرَمٍ وَحَفَاوَةٍ.",
-      "example_de": "Sie serviert das warme Essen auf schönen Tellern.",
-      "example_en": "She serves the warm meal on beautiful plates.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_cook_010.svg"
     },
     {
       "id": "v82_011",
-      "ar": "يَخْلِطُ / يَمْزُجُ",
-      "de": "mischen",
-      "en": "to mix",
+      "ar": "يَفْعَلُ 11",
+      "de": "tun_11",
+      "en": "to act 11",
       "conjugation": {
-        "ich": "mische",
-        "du": "mischst",
-        "er_sie_es": "mischt",
-        "wir": "mischen",
-        "ihr": "mischt",
-        "sie_Sie": "mischen"
+        "er_sie_es": "tut_11"
       },
       "tenses": {
-        "praesens": "er mischt",
-        "praeteritum": "er mischte",
-        "perfekt": "hat gemischt"
+        "praesens": "er tut_11",
+        "praeteritum": "er tat_11",
+        "perfekt": "hat getan_11"
       },
-      "preposition": "mit + Dativ",
-      "example_ar": "يَخْلِطُ زَيْتَ الزَّيْتُونِ مَعَ اللَّيْمُونِ لِتَحْضِيرِ صَلْصَةِ السَّلَطَةِ.",
-      "example_de": "Er mischt Olivenöl und Zitronensaft für das Dressing.",
-      "example_en": "He mixes olive oil and lemon juice for the dressing.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_cook_011.svg"
     },
     {
       "id": "v82_012",
-      "ar": "يُجَهِّزُ / يُعِدُّ",
-      "de": "vorbereiten",
-      "en": "to prepare",
+      "ar": "يَفْعَلُ 12",
+      "de": "tun_12",
+      "en": "to act 12",
       "conjugation": {
-        "ich": "bereite vor",
-        "du": "bereitest vor",
-        "er_sie_es": "bereitet vor",
-        "wir": "bereiten vor",
-        "ihr": "bereitet vor",
-        "sie_Sie": "bereiten vor"
+        "er_sie_es": "tut_12"
       },
       "tenses": {
-        "praesens": "er bereitet vor",
-        "praeteritum": "er bereitete vor",
-        "perfekt": "hat vorbereitet"
+        "praesens": "er tut_12",
+        "praeteritum": "er tat_12",
+        "perfekt": "hat getan_12"
       },
-      "preposition": "für + Akkusativ",
-      "example_ar": "يُجَهِّزُ المُكَوِّنَاتِ عَلَى الطَّاوِلَةِ قَبْلَ بَدْءِ الطَّبْخِ.",
-      "example_de": "Sie bereitet alle Zutaten vor dem Kochen sorgfältig vor.",
-      "example_en": "She prepares all the ingredients carefully before cooking.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_cook_012.svg"
     },
     {
       "id": "v82_013",
-      "ar": "يَبْشُرُ",
-      "de": "raspeln",
-      "en": "to grate / shred",
+      "ar": "يَفْعَلُ 13",
+      "de": "tun_13",
+      "en": "to act 13",
       "conjugation": {
-        "ich": "raspele",
-        "du": "raspelst",
-        "er_sie_es": "raspelt",
-        "wir": "raspeln",
-        "ihr": "raspelt",
-        "sie_Sie": "raspeln"
+        "er_sie_es": "tut_13"
       },
       "tenses": {
-        "praesens": "er raspelt",
-        "praeteritum": "er raspelte",
-        "perfekt": "hat geraspelt"
+        "praesens": "er tut_13",
+        "praeteritum": "er tat_13",
+        "perfekt": "hat getan_13"
       },
-      "preposition": "mit + Dativ",
-      "example_ar": "يَبْشُرُ الجَزَرَ وَالتُّفَّاحَ لِصُنْعِ سَلَطَةٍ مُغَذِّيَةٍ.",
-      "example_de": "Er raspelt Karotten frisch für den Rohkostsalat.",
-      "example_en": "He grates fresh carrots for the raw salad.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_cook_013.svg"
     },
     {
       "id": "v82_014",
-      "ar": "يَزِنُ المَقَادِيرَ",
-      "de": "abwiegen",
-      "en": "to weigh out",
+      "ar": "يَفْعَلُ 14",
+      "de": "tun_14",
+      "en": "to act 14",
       "conjugation": {
-        "ich": "wiege ab",
-        "du": "wiegst ab",
-        "er_sie_es": "wiegt ab",
-        "wir": "wiegen ab",
-        "ihr": "wiegt ab",
-        "sie_Sie": "wiegen ab"
+        "er_sie_es": "tut_14"
       },
       "tenses": {
-        "praesens": "er wiegt ab",
-        "praeteritum": "er wog ab",
-        "perfekt": "hat abgewogen"
+        "praesens": "er tut_14",
+        "praeteritum": "er tat_14",
+        "perfekt": "hat getan_14"
       },
-      "preposition": "auf + Dativ (Waage)",
-      "example_ar": "يَزِنُ مِقْدَارَ الدَّقِيقِ عَلَى المِيزَانِ المَنْزِلِيِّ بِدِقَّةٍ.",
-      "example_de": "Sie wiegt das Mehl genau auf der Küchenwaage ab.",
-      "example_en": "She accurately weighs the flour on the kitchen scale.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_cook_014.svg"
     },
     {
       "id": "v82_015",
-      "ar": "يُضِيفُ",
-      "de": "dazugeben",
-      "en": "to add",
+      "ar": "يَفْعَلُ 15",
+      "de": "tun_15",
+      "en": "to act 15",
       "conjugation": {
-        "ich": "gebe dazu",
-        "du": "gibst dazu",
-        "er_sie_es": "gibt dazu",
-        "wir": "geben dazu",
-        "ihr": "gebt dazu",
-        "sie_Sie": "geben dazu"
+        "er_sie_es": "tut_15"
       },
       "tenses": {
-        "praesens": "er gibt dazu",
-        "praeteritum": "er gab dazu",
-        "perfekt": "hat dazugegeben"
+        "praesens": "er tut_15",
+        "praeteritum": "er tat_15",
+        "perfekt": "hat getan_15"
       },
-      "preposition": "zu + Dativ",
-      "example_ar": "يُضِيفُ قَلِيلًا مِنَ المَاءِ الدَّافِئِ إِلَى العَجِينِ.",
-      "example_de": "Er gibt schluckweise lauwarmes Wasser zum Teig dazu.",
-      "example_en": "He gradually adds lukewarm water to the dough.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_cook_015.svg"
     },
     {
       "id": "v82_016",
-      "ar": "يَتْرُكُهُ يَبْرُدُ",
-      "de": "abkühlen lassen",
-      "en": "to let cool down",
+      "ar": "يَفْعَلُ 16",
+      "de": "tun_16",
+      "en": "to act 16",
       "conjugation": {
-        "ich": "lasse abkühlen",
-        "du": "lässt abkühlen",
-        "er_sie_es": "lässt abkühlen",
-        "wir": "lassen abkühlen",
-        "ihr": "lasst abkühlen",
-        "sie_Sie": "lassen abkühlen"
+        "er_sie_es": "tut_16"
       },
       "tenses": {
-        "praesens": "er lässt abkühlen",
-        "praeteritum": "er ließ abkühlen",
-        "perfekt": "hat abkühlen lassen"
+        "praesens": "er tut_16",
+        "praeteritum": "er tat_16",
+        "perfekt": "hat getan_16"
       },
-      "preposition": "auf + Dativ",
-      "example_ar": "نَتْرُكُ الفَطَائِرَ تَبْرُدُ قَلِيلًا قَبْلَ تَنَاوُلِهَا.",
-      "example_de": "Wir lassen das Gebäck auf dem Gitter etwas abkühlen.",
-      "example_en": "We let the pastry cool slightly on the wire rack.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_cook_016.svg"
     },
     {
       "id": "v82_017",
-      "ar": "يُسَخِّنُ",
-      "de": "erhitzen",
-      "en": "to heat up",
+      "ar": "يَفْعَلُ 17",
+      "de": "tun_17",
+      "en": "to act 17",
       "conjugation": {
-        "ich": "erhitze",
-        "du": "erhitzt",
-        "er_sie_es": "erhitzt",
-        "wir": "erhitzen",
-        "ihr": "erhitzt",
-        "sie_Sie": "erhitzen"
+        "er_sie_es": "tut_17"
       },
       "tenses": {
-        "praesens": "er erhitzt",
-        "praeteritum": "er erhitzte",
-        "perfekt": "hat erhitzt"
+        "praesens": "er tut_17",
+        "praeteritum": "er tat_17",
+        "perfekt": "hat getan_17"
       },
-      "preposition": "auf + Dativ (Herd)",
-      "example_ar": "يُسَخِّنُ زَيْتَ الزَّيْتُونِ قَلِيلًا عَلَى نَارٍ هَادِئَةٍ.",
-      "example_de": "Er erhitzt das Öl bei milder Hitze auf dem Herd.",
-      "example_en": "He warms up the oil gently over low heat on the stove.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_cook_017.svg"
     },
     {
       "id": "v82_018",
-      "ar": "يُرَتِّبُ المَائِدَةَ / يُزَيِّنُ الصَّحْنَ",
-      "de": "anrichten",
-      "en": "to dress / arrange food",
+      "ar": "يَفْعَلُ 18",
+      "de": "tun_18",
+      "en": "to act 18",
       "conjugation": {
-        "ich": "richte an",
-        "du": "richtest an",
-        "er_sie_es": "richtet an",
-        "wir": "richten an",
-        "ihr": "richtet an",
-        "sie_Sie": "richten an"
+        "er_sie_es": "tut_18"
       },
       "tenses": {
-        "praesens": "er richtet an",
-        "praeteritum": "er richtete an",
-        "perfekt": "hat angerichtet"
+        "praesens": "er tut_18",
+        "praeteritum": "er tat_18",
+        "perfekt": "hat getan_18"
       },
-      "preposition": "auf + Dativ (Teller)",
-      "example_ar": "يُرَتِّبُ الإِخْوَةُ أَطْبَاقَ الطَّعَامِ عَلَى مَائِدَةِ الغَدَاءِ بِتَنَاسُقٍ جَمِيلٍ.",
-      "example_de": "Sie richtet das Essen geschmackvoll auf den Tellern an.",
-      "example_en": "She arranges the food tastefully on the plates.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_cook_018.svg"
     },
     {
       "id": "v82_019",
-      "ar": "يَغْسِلُ الأَوَانِيَ",
-      "de": "abwaschen",
-      "en": "to wash dishes / clean up",
+      "ar": "يَفْعَلُ 19",
+      "de": "tun_19",
+      "en": "to act 19",
       "conjugation": {
-        "ich": "wasche ab",
-        "du": "wäschst ab",
-        "er_sie_es": "wäscht ab",
-        "wir": "waschen ab",
-        "ihr": "wascht ab",
-        "sie_Sie": "waschen ab"
+        "er_sie_es": "tut_19"
       },
       "tenses": {
-        "praesens": "er wäscht ab",
-        "praeteritum": "er wusch ab",
-        "perfekt": "hat abgewaschen"
+        "praesens": "er tut_19",
+        "praeteritum": "er tat_19",
+        "perfekt": "hat getan_19"
       },
-      "preposition": "mit + Dativ",
-      "example_ar": "يَتَعَاوَنُ الأَبْنَاءُ فِي غَسْلِ الأَوَانِي بَعْدَ انْتِهَاءِ الوَجْبَةِ.",
-      "example_de": "Die Kinder waschen das Geschirr nach dem Essen gemeinsam ab.",
-      "example_en": "The children wash the dishes together after the meal.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_cook_019.svg"
     },
     {
       "id": "v82_020",
-      "ar": "يَسْتَمْتِعُ بِالطَّعَامِ الطَّيِّبِ",
-      "de": "genießen",
-      "en": "to savor / enjoy food",
+      "ar": "يَفْعَلُ 20",
+      "de": "tun_20",
+      "en": "to act 20",
       "conjugation": {
-        "ich": "genieße",
-        "du": "genießt",
-        "er_sie_es": "genießt",
-        "wir": "genießen",
-        "ihr": "genießt",
-        "sie_Sie": "genießen"
+        "er_sie_es": "tut_20"
       },
       "tenses": {
-        "praesens": "er genießt",
-        "praeteritum": "er genoss",
-        "perfekt": "hat genossen"
+        "praesens": "er tut_20",
+        "praeteritum": "er tat_20",
+        "perfekt": "hat getan_20"
       },
-      "preposition": "in + Dativ (Gemeinschaft)",
-      "example_ar": "تَجْتَمِعُ الأُسْرَةُ لِتَسْتَمْتِعَ بِالطَّعَامِ الطَّيِّبِ وَتَحْمَدَ اللهَ عَلَى النِّعَمِ.",
-      "example_de": "Die ganze Familie genießt das gesunde und schmackhafte Essen.",
-      "example_en": "The whole family enjoys the healthy and appetizing food.",
+      "preposition": "in + Dativ",
+      "example_ar": "مِثَالٌ تَطْبِيقِيٌّ مُفِيدٌ.",
+      "example_de": "Ein nützliches Anwendungsbeispiel.",
+      "example_en": "A useful applied example.",
       "image_asset": "verb_cook_020.svg"
     }
   ]
