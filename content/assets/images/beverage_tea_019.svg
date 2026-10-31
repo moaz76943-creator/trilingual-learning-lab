@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="grad_beverage_tea_019_svg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" />
+      <stop offset="100%" stop-color="#0369a1" />
+    </linearGradient>
+    <filter id="shadow_beverage_tea_019_svg" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+  <rect width="200" height="200" rx="24" fill="url(#grad_beverage_tea_019_svg)" />
+  <circle cx="100" cy="85" r="46" fill="#ffffff" fill-opacity="0.22" filter="url(#shadow_beverage_tea_019_svg)" />
+  <circle cx="100" cy="85" r="18" fill="#f97316"/><path d="M85 62 Q90 55 88 48 M100 58 Q105 50 103 44 M115 62 Q120 55 118 48" stroke="#f97316" stroke-width="2.5" fill="none"/>
+  <rect x="15" y="145" width="170" height="42" rx="12" fill="#ffffff" fill-opacity="0.94" filter="url(#shadow_beverage_tea_019_svg)" />
+  <text x="100" y="162" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="bold" font-size="11" fill="#1e293b">die Wärme</text>
+  <text x="100" y="177" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="600" font-size="11" fill="#0f766e">الدِّفْءُ الحَنُونُ</text>
+</svg>

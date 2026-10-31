@@ -35220,5 +35220,495 @@
     "title_ar": "يَسْتَمْتِعُ بِالطَّعَامِ الطَّيِّبِ",
     "title_en": "to savor / enjoy food",
     "category": "verbs"
+  },
+  "bakery_grain_001.svg": {
+    "path": "content/assets/images/bakery_grain_001.svg",
+    "title_de": "das Brot",
+    "title_ar": "الخُبْزُ الطَّازَجُ",
+    "title_en": "bread",
+    "category": "vocabulary"
+  },
+  "bakery_grain_002.svg": {
+    "path": "content/assets/images/bakery_grain_002.svg",
+    "title_de": "das Brötchen",
+    "title_ar": "رَغِيفُ الخُبْزِ الصَّغِيرُ",
+    "title_en": "bread roll / bun",
+    "category": "vocabulary"
+  },
+  "bakery_grain_003.svg": {
+    "path": "content/assets/images/bakery_grain_003.svg",
+    "title_de": "das Vollkornbrot",
+    "title_ar": "خُبْزُ الحُبُوبِ الكَامِلَةِ",
+    "title_en": "wholemeal bread",
+    "category": "vocabulary"
+  },
+  "bakery_grain_004.svg": {
+    "path": "content/assets/images/bakery_grain_004.svg",
+    "title_de": "das Gebäck",
+    "title_ar": "المُعَجَّنَاتُ وَالفَطَائِرُ",
+    "title_en": "pastries / baked goods",
+    "category": "vocabulary"
+  },
+  "bakery_grain_005.svg": {
+    "path": "content/assets/images/bakery_grain_005.svg",
+    "title_de": "der Kuchen",
+    "title_ar": "الكَعْكُ المَنْزِلِيُّ",
+    "title_en": "cake",
+    "category": "vocabulary"
+  },
+  "bakery_grain_006.svg": {
+    "path": "content/assets/images/bakery_grain_006.svg",
+    "title_de": "der Keks",
+    "title_ar": "البِسْكَوِيتُ المُقَرْمَشُ",
+    "title_en": "biscuit / cookie",
+    "category": "vocabulary"
+  },
+  "bakery_grain_007.svg": {
+    "path": "content/assets/images/bakery_grain_007.svg",
+    "title_de": "das Roggenbrot",
+    "title_ar": "خُبْزُ الشَّوْلَمِ (الرَّاي)",
+    "title_en": "rye bread",
+    "category": "vocabulary"
+  },
+  "bakery_grain_008.svg": {
+    "path": "content/assets/images/bakery_grain_008.svg",
+    "title_de": "die Haferflocken",
+    "title_ar": "رَقَائِقُ الشُّوفَانِ",
+    "title_en": "oat flakes / rolled oats",
+    "category": "vocabulary"
+  },
+  "bakery_grain_009.svg": {
+    "path": "content/assets/images/bakery_grain_009.svg",
+    "title_de": "das Getreide",
+    "title_ar": "الحُبُوبُ الغِذَائِيَّةُ",
+    "title_en": "grain / cereal",
+    "category": "vocabulary"
+  },
+  "bakery_grain_010.svg": {
+    "path": "content/assets/images/bakery_grain_010.svg",
+    "title_de": "der Weizen",
+    "title_ar": "سَنَابِلُ القَمْحِ",
+    "title_en": "wheat",
+    "category": "vocabulary"
+  },
+  "bakery_grain_011.svg": {
+    "path": "content/assets/images/bakery_grain_011.svg",
+    "title_de": "die Gerste",
+    "title_ar": "الشَّعِيرُ",
+    "title_en": "barley",
+    "category": "vocabulary"
+  },
+  "bakery_grain_012.svg": {
+    "path": "content/assets/images/bakery_grain_012.svg",
+    "title_de": "der Dinkel",
+    "title_ar": "الحِنْطَةُ (الدِّنْكِل)",
+    "title_en": "spelt",
+    "category": "vocabulary"
+  },
+  "bakery_grain_013.svg": {
+    "path": "content/assets/images/bakery_grain_013.svg",
+    "title_de": "der Mais",
+    "title_ar": "الذُّرَةُ الصَّفْرَاءُ",
+    "title_en": "corn / maize",
+    "category": "vocabulary"
+  },
+  "bakery_grain_014.svg": {
+    "path": "content/assets/images/bakery_grain_014.svg",
+    "title_de": "der Sesam",
+    "title_ar": "حَبَّاتُ السِّمْسِمِ",
+    "title_en": "sesame",
+    "category": "vocabulary"
+  },
+  "bakery_grain_015.svg": {
+    "path": "content/assets/images/bakery_grain_015.svg",
+    "title_de": "der Schwarzkümmel",
+    "title_ar": "حَبَّةُ البَرَكَةِ / الكَمُّونُ الأَسْوَدُ",
+    "title_en": "black seed / nigella",
+    "category": "vocabulary"
+  },
+  "bakery_grain_016.svg": {
+    "path": "content/assets/images/bakery_grain_016.svg",
+    "title_de": "die Kruste",
+    "title_ar": "قِشْرَةُ الخُبْزِ المُقَرْمَشَةُ",
+    "title_en": "bread crust",
+    "category": "vocabulary"
+  },
+  "bakery_grain_017.svg": {
+    "path": "content/assets/images/bakery_grain_017.svg",
+    "title_de": "die Krume",
+    "title_ar": "لُبُّ الخُبْزِ الطَّرِيُّ",
+    "title_en": "crumb (soft inside of bread)",
+    "category": "vocabulary"
+  },
+  "bakery_grain_018.svg": {
+    "path": "content/assets/images/bakery_grain_018.svg",
+    "title_de": "die Bäckerei",
+    "title_ar": "المَخْبَزُ",
+    "title_en": "bakery",
+    "category": "vocabulary"
+  },
+  "bakery_grain_019.svg": {
+    "path": "content/assets/images/bakery_grain_019.svg",
+    "title_de": "der Bäcker",
+    "title_ar": "الخَبَّازُ المَاهِرُ",
+    "title_en": "baker",
+    "category": "vocabulary"
+  },
+  "bakery_grain_020.svg": {
+    "path": "content/assets/images/bakery_grain_020.svg",
+    "title_de": "das Backblech",
+    "title_ar": "صِينِيَّةُ الخَبْزِ",
+    "title_en": "baking tray / sheet",
+    "category": "vocabulary"
+  },
+  "bakery_grain_021.svg": {
+    "path": "content/assets/images/bakery_grain_021.svg",
+    "title_de": "der Teigschaber",
+    "title_ar": "مِكْشَطَةُ العَجِينِ",
+    "title_en": "dough scraper",
+    "category": "vocabulary"
+  },
+  "bakery_grain_022.svg": {
+    "path": "content/assets/images/bakery_grain_022.svg",
+    "title_de": "der Backpinsel",
+    "title_ar": "فُرْشَاةُ الخَبْزِ",
+    "title_en": "pastry brush",
+    "category": "vocabulary"
+  },
+  "bakery_grain_023.svg": {
+    "path": "content/assets/images/bakery_grain_023.svg",
+    "title_de": "das Backpapier",
+    "title_ar": "وَرَقُ الخَبْزِ",
+    "title_en": "baking paper / parchment paper",
+    "category": "vocabulary"
+  },
+  "bakery_grain_024.svg": {
+    "path": "content/assets/images/bakery_grain_024.svg",
+    "title_de": "die Frische",
+    "title_ar": "الطَّزَاجَةُ",
+    "title_en": "freshness",
+    "category": "vocabulary"
+  },
+  "bakery_grain_025.svg": {
+    "path": "content/assets/images/bakery_grain_025.svg",
+    "title_de": "der Duft",
+    "title_ar": "عَبِيقُ الخُبْزِ الزَّكِيُّ",
+    "title_en": "aroma / fragrance of baking",
+    "category": "vocabulary"
+  },
+  "verb_bake_001.svg": {
+    "path": "content/assets/images/verb_bake_001.svg",
+    "title_de": "ausrollen",
+    "title_ar": "يَفْرِدُ العَجِينَ",
+    "title_en": "to roll out (dough)",
+    "category": "verbs"
+  },
+  "verb_bake_002.svg": {
+    "path": "content/assets/images/verb_bake_002.svg",
+    "title_de": "formen",
+    "title_ar": "يُشَكِّلُ العَجِينَ",
+    "title_en": "to shape / form",
+    "category": "verbs"
+  },
+  "verb_bake_003.svg": {
+    "path": "content/assets/images/verb_bake_003.svg",
+    "title_de": "bestreichen",
+    "title_ar": "يَدْهُنُ السَّطْحَ",
+    "title_en": "to brush / coat",
+    "category": "verbs"
+  },
+  "verb_bake_004.svg": {
+    "path": "content/assets/images/verb_bake_004.svg",
+    "title_de": "bestreuen",
+    "title_ar": "يَرُشُّ (حُبُوبًا أَو دَقِيقًا)",
+    "title_en": "to sprinkle",
+    "category": "verbs"
+  },
+  "verb_bake_005.svg": {
+    "path": "content/assets/images/verb_bake_005.svg",
+    "title_de": "aufgehen",
+    "title_ar": "يَخْتَمِرُ / يَنْتَفِخُ العَجِينُ",
+    "title_en": "to rise (dough)",
+    "category": "verbs"
+  },
+  "verb_bake_006.svg": {
+    "path": "content/assets/images/verb_bake_006.svg",
+    "title_de": "vorheizen",
+    "title_ar": "يُسَخِّنُ الفُرْنَ مُسْبَقًا",
+    "title_en": "to preheat (oven)",
+    "category": "verbs"
+  },
+  "verb_bake_007.svg": {
+    "path": "content/assets/images/verb_bake_007.svg",
+    "title_de": "hineinschieben",
+    "title_ar": "يُدْخِلُ الصِّينِيَّةَ فِي الفُرْنِ",
+    "title_en": "to slide in (to oven)",
+    "category": "verbs"
+  },
+  "verb_bake_008.svg": {
+    "path": "content/assets/images/verb_bake_008.svg",
+    "title_de": "herausnehmen",
+    "title_ar": "يُخْرِجُ مِنَ الفُرْنِ",
+    "title_en": "to take out (from oven)",
+    "category": "verbs"
+  },
+  "verb_bake_009.svg": {
+    "path": "content/assets/images/verb_bake_009.svg",
+    "title_de": "knusprig werden",
+    "title_ar": "يَتَحَمَّصُ / يُصْبِحُ مُقَرْمَشًا",
+    "title_en": "to become crispy",
+    "category": "verbs"
+  },
+  "verb_bake_010.svg": {
+    "path": "content/assets/images/verb_bake_010.svg",
+    "title_de": "abkühlen",
+    "title_ar": "يَبْرُدُ قَلِيلًا",
+    "title_en": "to cool down",
+    "category": "verbs"
+  },
+  "verb_bake_011.svg": {
+    "path": "content/assets/images/verb_bake_011.svg",
+    "title_de": "verzieren",
+    "title_ar": "يُزَيِّنُ المَخْبُوزَاتِ",
+    "title_en": "to decorate / garnish",
+    "category": "verbs"
+  },
+  "verb_bake_012.svg": {
+    "path": "content/assets/images/verb_bake_012.svg",
+    "title_de": "wiegen",
+    "title_ar": "يَزِنُ المَقَادِيرَ",
+    "title_en": "to weigh",
+    "category": "verbs"
+  },
+  "verb_bake_013.svg": {
+    "path": "content/assets/images/verb_bake_013.svg",
+    "title_de": "sieben",
+    "title_ar": "يَنْخُلُ الدَّقِيقَ",
+    "title_en": "to sift",
+    "category": "verbs"
+  },
+  "verb_bake_014.svg": {
+    "path": "content/assets/images/verb_bake_014.svg",
+    "title_de": "auflösen",
+    "title_ar": "يُذِيبُ الخَمِيرَةَ",
+    "title_en": "to dissolve (yeast)",
+    "category": "verbs"
+  },
+  "verb_bake_015.svg": {
+    "path": "content/assets/images/verb_bake_015.svg",
+    "title_de": "unterrühren",
+    "title_ar": "يَمْزُجُ بِرِفْقٍ",
+    "title_en": "to fold in / stir in",
+    "category": "verbs"
+  },
+  "verb_bake_016.svg": {
+    "path": "content/assets/images/verb_bake_016.svg",
+    "title_de": "ruhen lassen",
+    "title_ar": "يَتْرُكُ العَجِينَ يَرْتَاحُ",
+    "title_en": "to let rest (dough)",
+    "category": "verbs"
+  },
+  "verb_bake_017.svg": {
+    "path": "content/assets/images/verb_bake_017.svg",
+    "title_de": "teilen",
+    "title_ar": "يُقَسِّمُ العَجِينَ",
+    "title_en": "to divide / portion",
+    "category": "verbs"
+  },
+  "verb_bake_018.svg": {
+    "path": "content/assets/images/verb_bake_018.svg",
+    "title_de": "flechten",
+    "title_ar": "يَضْفِرُ العَجِينَ",
+    "title_en": "to braid / plait",
+    "category": "verbs"
+  },
+  "verb_bake_019.svg": {
+    "path": "content/assets/images/verb_bake_019.svg",
+    "title_de": "servieren",
+    "title_ar": "يُقَدِّمُ المَخْبُوزَاتِ",
+    "title_en": "to serve",
+    "category": "verbs"
+  },
+  "verb_bake_020.svg": {
+    "path": "content/assets/images/verb_bake_020.svg",
+    "title_de": "probieren",
+    "title_ar": "يَتَذَوَّقُ وَيَسْتَمْتِعُ",
+    "title_en": "to taste / sample",
+    "category": "verbs"
+  },
+  "beverage_tea_001.svg": {
+    "path": "content/assets/images/beverage_tea_001.svg",
+    "title_de": "das Wasser",
+    "title_ar": "المَاءُ النَّقِيُّ",
+    "title_en": "water",
+    "category": "vocabulary"
+  },
+  "beverage_tea_002.svg": {
+    "path": "content/assets/images/beverage_tea_002.svg",
+    "title_de": "das Quellwasser",
+    "title_ar": "مَاءُ اليَنْبُوعِ العَذْبُ",
+    "title_en": "spring water",
+    "category": "vocabulary"
+  },
+  "beverage_tea_003.svg": {
+    "path": "content/assets/images/beverage_tea_003.svg",
+    "title_de": "der Tee",
+    "title_ar": "الشَّايُ",
+    "title_en": "tea",
+    "category": "vocabulary"
+  },
+  "beverage_tea_004.svg": {
+    "path": "content/assets/images/beverage_tea_004.svg",
+    "title_de": "der Kräutertee",
+    "title_ar": "شَايُ الأَعْشَابِ الصِّحِّيُّ",
+    "title_en": "herbal tea",
+    "category": "vocabulary"
+  },
+  "beverage_tea_005.svg": {
+    "path": "content/assets/images/beverage_tea_005.svg",
+    "title_de": "die Minze",
+    "title_ar": "النَّعْنَاعُ الأَخْضَرُ",
+    "title_en": "mint / peppermint",
+    "category": "vocabulary"
+  },
+  "beverage_tea_006.svg": {
+    "path": "content/assets/images/beverage_tea_006.svg",
+    "title_de": "die Kamille",
+    "title_ar": "زُهُورُ البَابُونِجِ",
+    "title_en": "chamomile",
+    "category": "vocabulary"
+  },
+  "beverage_tea_007.svg": {
+    "path": "content/assets/images/beverage_tea_007.svg",
+    "title_de": "der Grüntee",
+    "title_ar": "الشَّايُ الأَخْضَرُ",
+    "title_en": "green tea",
+    "category": "vocabulary"
+  },
+  "beverage_tea_008.svg": {
+    "path": "content/assets/images/beverage_tea_008.svg",
+    "title_de": "der Ingwertee",
+    "title_ar": "شَايُ الزَّنْجَبِيلِ",
+    "title_en": "ginger tea",
+    "category": "vocabulary"
+  },
+  "beverage_tea_009.svg": {
+    "path": "content/assets/images/beverage_tea_009.svg",
+    "title_de": "die Zitrone",
+    "title_ar": "اللَّيْمُونُ الحَامِضُ",
+    "title_en": "lemon",
+    "category": "vocabulary"
+  },
+  "beverage_tea_010.svg": {
+    "path": "content/assets/images/beverage_tea_010.svg",
+    "title_de": "der Orangensaft",
+    "title_ar": "عَصِيرُ البُرْتُقَالِ",
+    "title_en": "orange juice",
+    "category": "vocabulary"
+  },
+  "beverage_tea_011.svg": {
+    "path": "content/assets/images/beverage_tea_011.svg",
+    "title_de": "der Fruchtsaft",
+    "title_ar": "عَصِيرُ الفَوَاكِهِ",
+    "title_en": "fruit juice",
+    "category": "vocabulary"
+  },
+  "beverage_tea_012.svg": {
+    "path": "content/assets/images/beverage_tea_012.svg",
+    "title_de": "der Honig",
+    "title_ar": "عَسَلُ النَّحْلِ النَّقِيُّ",
+    "title_en": "honey",
+    "category": "vocabulary"
+  },
+  "beverage_tea_013.svg": {
+    "path": "content/assets/images/beverage_tea_013.svg",
+    "title_de": "die Kanne",
+    "title_ar": "إِبْرِيقُ الشَّايِ",
+    "title_en": "teapot / pot",
+    "category": "vocabulary"
+  },
+  "beverage_tea_014.svg": {
+    "path": "content/assets/images/beverage_tea_014.svg",
+    "title_de": "die Tasse",
+    "title_ar": "فِنْجَانُ الشَّايِ",
+    "title_en": "cup / teacup",
+    "category": "vocabulary"
+  },
+  "beverage_tea_015.svg": {
+    "path": "content/assets/images/beverage_tea_015.svg",
+    "title_de": "das Glas",
+    "title_ar": "كُوبُ المَاءِ الزُّجَاجِيُّ",
+    "title_en": "glass (drinking)",
+    "category": "vocabulary"
+  },
+  "beverage_tea_016.svg": {
+    "path": "content/assets/images/beverage_tea_016.svg",
+    "title_de": "der Schluck",
+    "title_ar": "الجُرْعَةُ / الرَّشْفَةُ",
+    "title_en": "sip / gulp",
+    "category": "vocabulary"
+  },
+  "beverage_tea_017.svg": {
+    "path": "content/assets/images/beverage_tea_017.svg",
+    "title_de": "der Durst",
+    "title_ar": "العَطَشُ",
+    "title_en": "thirst",
+    "category": "vocabulary"
+  },
+  "beverage_tea_018.svg": {
+    "path": "content/assets/images/beverage_tea_018.svg",
+    "title_de": "die Erfrischung",
+    "title_ar": "الانْتِعَاشُ",
+    "title_en": "refreshment",
+    "category": "vocabulary"
+  },
+  "beverage_tea_019.svg": {
+    "path": "content/assets/images/beverage_tea_019.svg",
+    "title_de": "die Wärme",
+    "title_ar": "الدِّفْءُ الحَنُونُ",
+    "title_en": "warmth",
+    "category": "vocabulary"
+  },
+  "beverage_tea_020.svg": {
+    "path": "content/assets/images/beverage_tea_020.svg",
+    "title_de": "das Aroma",
+    "title_ar": "النَّكْهَةُ العَطِرَةُ",
+    "title_en": "aroma / flavor",
+    "category": "vocabulary"
+  },
+  "beverage_tea_021.svg": {
+    "path": "content/assets/images/beverage_tea_021.svg",
+    "title_de": "der Aufguss",
+    "title_ar": "مَنْقُوعُ الأَعْشَابِ",
+    "title_en": "infusion",
+    "category": "vocabulary"
+  },
+  "beverage_tea_022.svg": {
+    "path": "content/assets/images/beverage_tea_022.svg",
+    "title_de": "die Kühle",
+    "title_ar": "البُرُودَةُ المُنْعِشَةُ",
+    "title_en": "coolness / refreshing chill",
+    "category": "vocabulary"
+  },
+  "beverage_tea_023.svg": {
+    "path": "content/assets/images/beverage_tea_023.svg",
+    "title_de": "die Reinheit",
+    "title_ar": "النَّقَاءُ وَالصَّفَاءُ",
+    "title_en": "purity / clarity",
+    "category": "vocabulary"
+  },
+  "beverage_tea_024.svg": {
+    "path": "content/assets/images/beverage_tea_024.svg",
+    "title_de": "das Wohlbefinden",
+    "title_ar": "العَافِيَةُ وَالرَّاحَةُ",
+    "title_en": "well-being / wellness",
+    "category": "vocabulary"
+  },
+  "beverage_tea_025.svg": {
+    "path": "content/assets/images/beverage_tea_025.svg",
+    "title_de": "die Gesundheit",
+    "title_ar": "الصِّحَّةُ وَالسَّلَامَةُ",
+    "title_en": "health",
+    "category": "vocabulary"
   }
 }
