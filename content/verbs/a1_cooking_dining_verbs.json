@@ -1,0 +1,562 @@
+[
+  {
+    "id": "verb_cook_001",
+    "infinitive": "kochen",
+    "level": "A1",
+    "category": "Cooking & Dining",
+    "arabic": "يَطْبُخُ الطَّعَامَ",
+    "english": "to cook / boil",
+    "conjugation": {
+      "praesens": {
+        "ich": "koche",
+        "du": "kochst",
+        "er_sie_es": "kocht",
+        "wir": "kochen",
+        "ihr": "kocht",
+        "sie_Sie": "kochen"
+      },
+      "praeteritum": {
+        "ich": "kochte",
+        "er_sie_es": "kochte"
+      },
+      "perfekt": "hat gekocht"
+    },
+    "preposition": "für + Akk.",
+    "example_de": "Die Mutter kocht eine köstliche Gemüsesuppe für die ganze Familie.",
+    "example_ar": "تَطْبُخُ الأُمُّ حَسَاءَ خُضَارٍ شَهِيًّا لِجَمِيعِ أَفْرَادِ العَائِلَةِ.",
+    "example_en": "The mother cooks a delicious vegetable soup for the whole family.",
+    "svg_icon": "content/assets/svg/verb_cook_001.svg"
+  },
+  {
+    "id": "verb_cook_002",
+    "infinitive": "braten",
+    "level": "A2",
+    "category": "Cooking & Dining",
+    "arabic": "يَقْلِي / يُحَمِّرُ بِالزَّيْتِ",
+    "english": "to fry / roast",
+    "conjugation": {
+      "praesens": {
+        "ich": "brate",
+        "du": "brätst",
+        "er_sie_es": "brät",
+        "wir": "braten",
+        "ihr": "bratet",
+        "sie_Sie": "braten"
+      },
+      "praeteritum": {
+        "ich": "briet",
+        "er_sie_es": "briet"
+      },
+      "perfekt": "hat gebraten"
+    },
+    "preposition": "in + Dat.",
+    "example_de": "Er brät das frische Gemüse sanft in etwas reinem Olivenöl an.",
+    "example_ar": "يُقَلِّبُ الخُضَارَ الطَّازَجَةَ بِلُطْفٍ فِي قَلِيلٍ مِنْ زَيْتِ الزَّيْتُونِ النَّقِيِّ.",
+    "example_en": "He gently sautés the fresh vegetables in a little pure olive oil.",
+    "svg_icon": "content/assets/svg/verb_cook_002.svg"
+  },
+  {
+    "id": "verb_cook_003",
+    "infinitive": "backen",
+    "level": "A1",
+    "category": "Cooking & Dining",
+    "arabic": "يَخْبِزُ فِي الفُرْنِ",
+    "english": "to bake",
+    "conjugation": {
+      "praesens": {
+        "ich": "backe",
+        "du": "bäckst",
+        "er_sie_es": "bäckt",
+        "wir": "backen",
+        "ihr": "backt",
+        "sie_Sie": "backen"
+      },
+      "praeteritum": {
+        "ich": "backte",
+        "er_sie_es": "backte"
+      },
+      "perfekt": "hat gebacken"
+    },
+    "preposition": "im + Dat.",
+    "example_de": "Der Bäcker bäckt knuspriges Vollkornbrot im heißen Steinofen.",
+    "example_ar": "يَخْبِزُ الخَبَّازُ خُبْزَ قَمْحٍ كَامِلٍ مُقَرْمَشًا فِي الفُرْنِ الحَجَرِيِّ السَّاخِنِ.",
+    "example_en": "The baker bakes crusty whole grain bread in the hot stone oven.",
+    "svg_icon": "content/assets/svg/verb_cook_003.svg"
+  },
+  {
+    "id": "verb_cook_004",
+    "infinitive": "schneiden",
+    "level": "A1",
+    "category": "Cooking & Dining",
+    "arabic": "يُقَطِّعُ بِالسِّكِّينِ",
+    "english": "to slice / cut",
+    "conjugation": {
+      "praesens": {
+        "ich": "schneide",
+        "du": "schneidest",
+        "er_sie_es": "schneidet",
+        "wir": "schneiden",
+        "ihr": "schneidet",
+        "sie_Sie": "schneiden"
+      },
+      "praeteritum": {
+        "ich": "schnitt",
+        "er_sie_es": "schnitt"
+      },
+      "perfekt": "hat geschnitten"
+    },
+    "preposition": "in + Akk.",
+    "example_de": "Sie schneidet die Tomaten und Gurken in mundgerechte Scheiben.",
+    "example_ar": "تُقَطِّعُ الطَّمَاطِمَ وَالخِيَارَ إِلَى شَرَائِحَ مُنَاسِبَةٍ لِلأَكْلِ.",
+    "example_en": "She cuts the tomatoes and cucumbers into bite-sized slices.",
+    "svg_icon": "content/assets/svg/verb_cook_004.svg"
+  },
+  {
+    "id": "verb_cook_005",
+    "infinitive": "schälen",
+    "level": "A2",
+    "category": "Cooking & Dining",
+    "arabic": "يُقَشِّرُ الفَوَاكِهَ أَوِ الخُضَارَ",
+    "english": "to peel",
+    "conjugation": {
+      "praesens": {
+        "ich": "schäle",
+        "du": "schälst",
+        "er_sie_es": "schält",
+        "wir": "schälen",
+        "ihr": "schält",
+        "sie_Sie": "schälen"
+      },
+      "praeteritum": {
+        "ich": "schälte",
+        "er_sie_es": "schälte"
+      },
+      "perfekt": "hat geschält"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Der Junge schält die reife Orange sorgfältig mit den Fingern.",
+    "example_ar": "يُقَشِّرُ الوَلَدُ البُرْتُقَالَةَ النَّاضِجَةَ بِعِنَايَةٍ بِأَصَابِعِهِ.",
+    "example_en": "The boy carefully peels the ripe orange with his fingers.",
+    "svg_icon": "content/assets/svg/verb_cook_005.svg"
+  },
+  {
+    "id": "verb_cook_006",
+    "infinitive": "rühren",
+    "level": "A2",
+    "category": "Cooking & Dining",
+    "arabic": "يُقَلِّبُ / يُحَرِّكُ المَزِيجَ",
+    "english": "to stir",
+    "conjugation": {
+      "praesens": {
+        "ich": "rühre",
+        "du": "rührst",
+        "er_sie_es": "rührt",
+        "wir": "rühren",
+        "ihr": "rührt",
+        "sie_Sie": "rühren"
+      },
+      "praeteritum": {
+        "ich": "rührte",
+        "er_sie_es": "rührte"
+      },
+      "perfekt": "hat gerührt"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Sie rührt die heiße Suppe mit einem Holzlöffel gleichmäßig um.",
+    "example_ar": "تُقَلِّبُ الحَسَاءَ السَّاخِنَ بِمِلْعَقَةٍ خَشَبِيَّةٍ بِانْتِظَامٍ.",
+    "example_en": "She stirs the hot soup evenly with a wooden spoon.",
+    "svg_icon": "content/assets/svg/verb_cook_006.svg"
+  },
+  {
+    "id": "verb_cook_007",
+    "infinitive": "würzen",
+    "level": "A2",
+    "category": "Cooking & Dining",
+    "arabic": "يُتَبِّلُ بِالبُهَارَاتِ النَّافِعَةِ",
+    "english": "to season with spices",
+    "conjugation": {
+      "praesens": {
+        "ich": "würze",
+        "du": "würzt",
+        "er_sie_es": "würzt",
+        "wir": "würzen",
+        "ihr": "würzt",
+        "sie_Sie": "würzen"
+      },
+      "praeteritum": {
+        "ich": "würzte",
+        "er_sie_es": "würzte"
+      },
+      "perfekt": "hat gewürzt"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Der Koch würzt den Eintopf dezent mit Salz und Kreuzkümmel.",
+    "example_ar": "يُتَبِّلُ الطَّاهِي الحَسَاءَ بِاعْتِدَالٍ بِالمِلْحِ وَالكَمُّونِ.",
+    "example_en": "The cook subtly seasons the stew with salt and cumin.",
+    "svg_icon": "content/assets/svg/verb_cook_007.svg"
+  },
+  {
+    "id": "verb_cook_008",
+    "infinitive": "servieren",
+    "level": "A2",
+    "category": "Cooking & Dining",
+    "arabic": "يُقَدِّمُ الطَّعَامَ لِلضُّيُوفِ",
+    "english": "to serve food",
+    "conjugation": {
+      "praesens": {
+        "ich": "serviere",
+        "du": "servierst",
+        "er_sie_es": "serviert",
+        "wir": "servieren",
+        "ihr": "serviert",
+        "sie_Sie": "servieren"
+      },
+      "praeteritum": {
+        "ich": "servierte",
+        "er_sie_es": "servierte"
+      },
+      "perfekt": "hat serviert"
+    },
+    "preposition": "auf + Dat.",
+    "example_de": "Die Gastgeberin serviert den duftenden Reis auf großen Platten.",
+    "example_ar": "تُقَدِّمُ المُضِيفَةُ الأَرُزَّ الزَّكِيَّ الرَّائِحَةِ عَلَى أَوْعِيَةٍ كَبِيرَةٍ.",
+    "example_en": "The hostess serves the fragrant rice on large platters.",
+    "svg_icon": "content/assets/svg/verb_cook_008.svg"
+  },
+  {
+    "id": "verb_cook_009",
+    "infinitive": "einschenken",
+    "level": "A2",
+    "category": "Cooking & Dining",
+    "arabic": "يَصُبُّ المَاءَ أَوِ الشَّايَ",
+    "english": "to pour drinks",
+    "conjugation": {
+      "praesens": {
+        "ich": "schenke ein",
+        "du": "schenkst ein",
+        "er_sie_es": "schenkt ein",
+        "wir": "schenken ein",
+        "ihr": "schenkt ein",
+        "sie_Sie": "schenken ein"
+      },
+      "praeteritum": {
+        "ich": "schenkte ein",
+        "er_sie_es": "schenkte ein"
+      },
+      "perfekt": "hat eingeschenkt"
+    },
+    "preposition": "in + Akk.",
+    "example_de": "Er schenkt frisches Wasser höflich in die Gläser der Gäste ein.",
+    "example_ar": "يَصُبُّ المَاءَ العَذْبَ بِأَدَبٍ فِي كُؤُوسِ الضُّيُوفِ.",
+    "example_en": "He politely pours fresh water into the guests' glasses.",
+    "svg_icon": "content/assets/svg/verb_cook_009.svg"
+  },
+  {
+    "id": "verb_cook_010",
+    "infinitive": "probieren",
+    "level": "A1",
+    "category": "Cooking & Dining",
+    "arabic": "يَتَذَوَّقُ الطَّعَامَ",
+    "english": "to taste / sample",
+    "conjugation": {
+      "praesens": {
+        "ich": "probiere",
+        "du": "probierst",
+        "er_sie_es": "probiert",
+        "wir": "probieren",
+        "ihr": "probiert",
+        "sie_Sie": "probieren"
+      },
+      "praeteritum": {
+        "ich": "probierte",
+        "er_sie_es": "probierte"
+      },
+      "perfekt": "hat probiert"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Ich probiere die warme Soße mit einem kleinen Löffel.",
+    "example_ar": "أَتَذَوَّقُ الصَّلْصَةَ الدَّافِئَةَ بِمِلْعَقَةٍ صَغِيرَةٍ.",
+    "example_en": "I taste the warm sauce with a small spoon.",
+    "svg_icon": "content/assets/svg/verb_cook_010.svg"
+  },
+  {
+    "id": "verb_cook_011",
+    "infinitive": "schmecken",
+    "level": "A1",
+    "category": "Cooking & Dining",
+    "arabic": "يَطِيبُ طَعْمُهُ / يَسْتَلِذُّ",
+    "english": "to taste delicious",
+    "conjugation": {
+      "praesens": {
+        "ich": "schmecke",
+        "du": "schmeckst",
+        "er_sie_es": "schmeckt",
+        "wir": "schmecken",
+        "ihr": "schmeckt",
+        "sie_Sie": "schmecken"
+      },
+      "praeteritum": {
+        "ich": "schmeckte",
+        "er_sie_es": "schmeckte"
+      },
+      "perfekt": "hat geschmeckt"
+    },
+    "preposition": "nach + Dat.",
+    "example_de": "Das frisch gebackene Brot schmeckt allen am Tisch vorzüglich.",
+    "example_ar": "الخُبْزُ الطَّازَجُ النَّضْجِ يَطِيبُ جِدًّا لِكُلِّ الجَالِسِينَ إِلَى المَائِدَةِ.",
+    "example_en": "The freshly baked bread tastes delicious to everyone at the table.",
+    "svg_icon": "content/assets/svg/verb_cook_011.svg"
+  },
+  {
+    "id": "verb_cook_012",
+    "infinitive": "decken",
+    "level": "A1",
+    "category": "Cooking & Dining",
+    "arabic": "يُرَتِّبُ المَائِدَةَ لِلطَّعَامِ",
+    "english": "to set the table",
+    "conjugation": {
+      "praesens": {
+        "ich": "decke",
+        "du": "deckst",
+        "er_sie_es": "deckt",
+        "wir": "decken",
+        "ihr": "deckt",
+        "sie_Sie": "decken"
+      },
+      "praeteritum": {
+        "ich": "deckte",
+        "er_sie_es": "deckte"
+      },
+      "perfekt": "hat gedeckt"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Die Kinder decken den Esstisch mit Tellern, Gläsern und Besteck.",
+    "example_ar": "يُرَتِّبُ الأَطْفَالُ مَائِدَةَ الطَّعَامِ بِالأَطْبَاقِ وَالكُؤُوسِ وَالمَلَاعِقِ.",
+    "example_en": "The children set the dining table with plates, glasses, and cutlery.",
+    "svg_icon": "content/assets/svg/verb_cook_012.svg"
+  },
+  {
+    "id": "verb_cook_013",
+    "infinitive": "abräumen",
+    "level": "A2",
+    "category": "Cooking & Dining",
+    "arabic": "يَرْفَعُ الأَطْبَاقَ عَنِ المَائِدَةِ",
+    "english": "to clear the table",
+    "conjugation": {
+      "praesens": {
+        "ich": "räume ab",
+        "du": "räumst ab",
+        "er_sie_es": "räumt ab",
+        "wir": "räumen ab",
+        "ihr": "räumt ab",
+        "sie_Sie": "räumen ab"
+      },
+      "praeteritum": {
+        "ich": "räumte ab",
+        "er_sie_es": "räumte ab"
+      },
+      "perfekt": "hat abgeräumt"
+    },
+    "preposition": "nach + Dat.",
+    "example_de": "Nach dem Essen räumen wir gemeinsam das Geschirr vom Tisch ab.",
+    "example_ar": "بَعْدَ الفَرَاغِ مِنَ الطَّعَامِ نَرْفَعُ الأَوَانِيَ عَنِ المَائِدَةِ مَعًا.",
+    "example_en": "After eating, we clear the dishes from the table together.",
+    "svg_icon": "content/assets/svg/verb_cook_013.svg"
+  },
+  {
+    "id": "verb_cook_014",
+    "infinitive": "spülen",
+    "level": "A1",
+    "category": "Cooking & Dining",
+    "arabic": "يَغْسِلُ الصُّحُونَ",
+    "english": "to wash dishes",
+    "conjugation": {
+      "praesens": {
+        "ich": "spüle",
+        "du": "spülst",
+        "er_sie_es": "spült",
+        "wir": "spülen",
+        "ihr": "spült",
+        "sie_Sie": "spülen"
+      },
+      "praeteritum": {
+        "ich": "spülte",
+        "er_sie_es": "spülte"
+      },
+      "perfekt": "hat gespült"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Der Sohn spült das benutzte Geschirr mit warmem Wasser sauber.",
+    "example_ar": "يَغْسِلُ الِابْنُ الأَوَانِيَ المُسْتَعْمَلَةَ بِالمَاءِ الدَّافِئِ حَتَّى تَنْظُفَ.",
+    "example_en": "The son washes the used dishes clean with warm water.",
+    "svg_icon": "content/assets/svg/verb_cook_014.svg"
+  },
+  {
+    "id": "verb_cook_015",
+    "infinitive": "trocknen",
+    "level": "A2",
+    "category": "Cooking & Dining",
+    "arabic": "يُجَفِّفُ الأَوَانِيَ بِمِنْشَفَةٍ",
+    "english": "to dry dishes",
+    "conjugation": {
+      "praesens": {
+        "ich": "trockne",
+        "du": "trocknest",
+        "er_sie_es": "trocknet",
+        "wir": "trocknen",
+        "ihr": "trocknet",
+        "sie_Sie": "trocknen"
+      },
+      "praeteritum": {
+        "ich": "trocknete",
+        "er_sie_es": "trocknete"
+      },
+      "perfekt": "hat getrocknet"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Sie trocknet die nassen Gläser mit einem weichen Geschirrtuch ab.",
+    "example_ar": "تُجَفِّفُ الكُؤُوسَ المَبْلُولَةَ بِمِنْشَفَةِ أَوَانٍ نَاعِمَةٍ.",
+    "example_en": "She dries the wet glasses with a soft tea towel.",
+    "svg_icon": "content/assets/svg/verb_cook_015.svg"
+  },
+  {
+    "id": "verb_cook_016",
+    "infinitive": "erwärmen",
+    "level": "A2",
+    "category": "Cooking & Dining",
+    "arabic": "يُسَخِّنُ الطَّعَامَ لِلتَّنَاوُلِ",
+    "english": "to heat up / warm",
+    "conjugation": {
+      "praesens": {
+        "ich": "erwärme",
+        "du": "erwärmst",
+        "er_sie_es": "erwärmt",
+        "wir": "erwärmen",
+        "ihr": "erwärmt",
+        "sie_Sie": "erwärmen"
+      },
+      "praeteritum": {
+        "ich": "erwärmte",
+        "er_sie_es": "erwärmte"
+      },
+      "perfekt": "hat erwärmt"
+    },
+    "preposition": "auf + Dat.",
+    "example_de": "Er erwärmt die Reste der Suppe schonend auf dem Herd.",
+    "example_ar": "يُسَخِّنُ مَا تَبَقَّى مِنَ الحَسَاءِ بِهُدُوءٍ عَلَى المَوْقِدِ.",
+    "example_en": "He gently warms up the leftover soup on the stove.",
+    "svg_icon": "content/assets/svg/verb_cook_016.svg"
+  },
+  {
+    "id": "verb_cook_017",
+    "infinitive": "genießen",
+    "level": "A2",
+    "category": "Cooking & Dining",
+    "arabic": "يَسْتَمْتِعُ بِالطَّعَامِ الطَّيِّبِ",
+    "english": "to relish / savor wholesome food",
+    "conjugation": {
+      "praesens": {
+        "ich": "genieße",
+        "du": "genießt",
+        "er_sie_es": "genießt",
+        "wir": "genießen",
+        "ihr": "genießt",
+        "sie_Sie": "genießen"
+      },
+      "praeteritum": {
+        "ich": "genoss",
+        "er_sie_es": "genoss"
+      },
+      "perfekt": "hat genossen"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Wir genießen das gesunde Essen in heiterer und dankbarer Runde.",
+    "example_ar": "نَسْتَمْتِعُ بِالطَّعَامِ الصِّحِّيِّ فِي جَلْسَةٍ بَهِيجَةٍ شَاكِرَةٍ.",
+    "example_en": "We savor the healthy food in a cheerful, grateful gathering.",
+    "svg_icon": "content/assets/svg/verb_cook_017.svg"
+  },
+  {
+    "id": "verb_cook_018",
+    "infinitive": "teilen",
+    "level": "A1",
+    "category": "Cooking & Dining",
+    "arabic": "يَقْسِمُ / يَتَشَارَكُ الطَّعَامَ",
+    "english": "to share food with others",
+    "conjugation": {
+      "praesens": {
+        "ich": "teile",
+        "du": "teilst",
+        "er_sie_es": "teilt",
+        "wir": "teilen",
+        "ihr": "teilt",
+        "sie_Sie": "teilen"
+      },
+      "praeteritum": {
+        "ich": "teilte",
+        "er_sie_es": "teilte"
+      },
+      "perfekt": "hat geteilt"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Es ist ein schöner Brauch, das tägliche Brot mit den Nachbarn zu teilen.",
+    "example_ar": "مِنَ الخُلُقِ الجَمِيلِ أَنْ نَقْسِمَ الخُبْزَ اليَوْمِيَّ مَعَ الجِيرَانِ.",
+    "example_en": "It is a noble custom to share daily bread with neighbors.",
+    "svg_icon": "content/assets/svg/verb_cook_018.svg"
+  },
+  {
+    "id": "verb_cook_019",
+    "infinitive": "abkühlen",
+    "level": "A2",
+    "category": "Cooking & Dining",
+    "arabic": "يَتْرُكُ الطَّعَامَ لِيَبْرُدَ قَلِيلًا",
+    "english": "to cool down",
+    "conjugation": {
+      "praesens": {
+        "ich": "kühle ab",
+        "du": "kühlst ab",
+        "er_sie_es": "kühlt ab",
+        "wir": "kühlen ab",
+        "ihr": "kühlt ab",
+        "sie_Sie": "kühlen ab"
+      },
+      "praeteritum": {
+        "ich": "kühlte ab",
+        "er_sie_es": "kühlte ab"
+      },
+      "perfekt": "hat abgekühlt"
+    },
+    "preposition": "vor + Dat.",
+    "example_de": "Wir lassen den heißen Tee kurz abkühlen, bevor wir ihn trinken.",
+    "example_ar": "نَدَعُ الشَّايَ السَّاخِنَ يَبْرُدُ قَلِيلًا قَبْلَ شُرْبِهِ.",
+    "example_en": "We let the hot tea cool down a moment before drinking it.",
+    "svg_icon": "content/assets/svg/verb_cook_019.svg"
+  },
+  {
+    "id": "verb_cook_020",
+    "infinitive": "danksagen",
+    "level": "A2",
+    "category": "Cooking & Dining",
+    "arabic": "يَحْمَدُ اللهَ وَيَشْكُرُ النِّعَمَ",
+    "english": "to express gratitude after eating",
+    "conjugation": {
+      "praesens": {
+        "ich": "sage Dank",
+        "du": "sagst Dank",
+        "er_sie_es": "sagt Dank",
+        "wir": "sagen Dank",
+        "ihr": "sagt Dank",
+        "sie_Sie": "sagen Dank"
+      },
+      "praeteritum": {
+        "ich": "sagte Dank",
+        "er_sie_es": "sagte Dank"
+      },
+      "perfekt": "hat Dank gesagt"
+    },
+    "preposition": "für + Akk.",
+    "example_de": "Nach jeder Mahlzeit sagen wir aufrichtig Dank für die reiche Versorgung.",
+    "example_ar": "بَعْدَ كُلِّ وَجْبَةٍ نَحْمَدُ اللهَ صَادِقِينَ عَلَى كَرِيمِ رِزْقِهِ.",
+    "example_en": "After every meal, we sincerely express gratitude for the generous provision.",
+    "svg_icon": "content/assets/svg/verb_cook_020.svg"
+  }
+]
