@@ -34765,5 +34765,460 @@
     "title_ar": "النَّضَارَةُ الخَضْرَاءُ",
     "title_en": "freshness / lush green",
     "category": "vocabulary"
+  },
+  "verb_garden_001.svg": {
+    "path": "content/assets/images/verb_garden_001.svg",
+    "title_de": "pflanzen",
+    "title_ar": "يَغْرِسُ / يَزْرَعُ نَبْتَةً",
+    "title_en": "to plant",
+    "category": "verbs"
+  },
+  "verb_garden_002.svg": {
+    "path": "content/assets/images/verb_garden_002.svg",
+    "title_de": "säen",
+    "title_ar": "يَبْذُرُ البُذُورَ",
+    "title_en": "to sow",
+    "category": "verbs"
+  },
+  "verb_garden_003.svg": {
+    "path": "content/assets/images/verb_garden_003.svg",
+    "title_de": "gießen",
+    "title_ar": "يَسْقِي / يَرْوِي",
+    "title_en": "to water / to pour",
+    "category": "verbs"
+  },
+  "verb_garden_004.svg": {
+    "path": "content/assets/images/verb_garden_004.svg",
+    "title_de": "ernten",
+    "title_ar": "يَحْصُدُ / يَجْنِي",
+    "title_en": "to harvest / to reap",
+    "category": "verbs"
+  },
+  "verb_garden_005.svg": {
+    "path": "content/assets/images/verb_garden_005.svg",
+    "title_de": "schneiden",
+    "title_ar": "يُقَلِّمُ / يَقْطَعُ",
+    "title_en": "to prune / to cut",
+    "category": "verbs"
+  },
+  "verb_garden_006.svg": {
+    "path": "content/assets/images/verb_garden_006.svg",
+    "title_de": "düngen",
+    "title_ar": "يُسَمِّدُ التُّرْبَةَ",
+    "title_en": "to fertilize",
+    "category": "verbs"
+  },
+  "verb_garden_007.svg": {
+    "path": "content/assets/images/verb_garden_007.svg",
+    "title_de": "umtopfen",
+    "title_ar": "يَنْقُلُ لِأُصِيصٍ آخَرَ",
+    "title_en": "to repot",
+    "category": "verbs"
+  },
+  "verb_garden_008.svg": {
+    "path": "content/assets/images/verb_garden_008.svg",
+    "title_de": "jäten",
+    "title_ar": "يَقْلَعُ الأَعْشَابَ الضَّارَّةَ",
+    "title_en": "to weed",
+    "category": "verbs"
+  },
+  "verb_garden_009.svg": {
+    "path": "content/assets/images/verb_garden_009.svg",
+    "title_de": "blühen",
+    "title_ar": "يُزْهِرُ / يُفَتِّحُ",
+    "title_en": "to bloom / blossom",
+    "category": "verbs"
+  },
+  "verb_garden_010.svg": {
+    "path": "content/assets/images/verb_garden_010.svg",
+    "title_de": "wachsen",
+    "title_ar": "يَنْمُو",
+    "title_en": "to grow",
+    "category": "verbs"
+  },
+  "verb_garden_011.svg": {
+    "path": "content/assets/images/verb_garden_011.svg",
+    "title_de": "sprießen",
+    "title_ar": "يَبْزُغُ / يَنْبُتُ",
+    "title_en": "to sprout",
+    "category": "verbs"
+  },
+  "verb_garden_012.svg": {
+    "path": "content/assets/images/verb_garden_012.svg",
+    "title_de": "pflegen",
+    "title_ar": "يَعْتَنِي بِـ / يَرْعَى",
+    "title_en": "to care for / tend",
+    "category": "verbs"
+  },
+  "verb_garden_013.svg": {
+    "path": "content/assets/images/verb_garden_013.svg",
+    "title_de": "einpflanzen",
+    "title_ar": "يَغْرِسُ فِي التُّرْبَةِ",
+    "title_en": "to plant in",
+    "category": "verbs"
+  },
+  "verb_garden_014.svg": {
+    "path": "content/assets/images/verb_garden_014.svg",
+    "title_de": "auflockern",
+    "title_ar": "يُهَوِّي التُّرْبَةَ / يُفَكِّكُهَا",
+    "title_en": "to loosen (soil)",
+    "category": "verbs"
+  },
+  "verb_garden_015.svg": {
+    "path": "content/assets/images/verb_garden_015.svg",
+    "title_de": "wurzeln",
+    "title_ar": "يَتَجَذَّرُ",
+    "title_en": "to take root",
+    "category": "verbs"
+  },
+  "verb_garden_016.svg": {
+    "path": "content/assets/images/verb_garden_016.svg",
+    "title_de": "keimen",
+    "title_ar": "يَنْتُشُ / يَبْدَأُ النُّمُوَّ",
+    "title_en": "to germinate",
+    "category": "verbs"
+  },
+  "verb_garden_017.svg": {
+    "path": "content/assets/images/verb_garden_017.svg",
+    "title_de": "beschneiden",
+    "title_ar": "يُهَذِّبُ الأَغْصَانَ",
+    "title_en": "to clip / prune",
+    "category": "verbs"
+  },
+  "verb_garden_018.svg": {
+    "path": "content/assets/images/verb_garden_018.svg",
+    "title_de": "reifen",
+    "title_ar": "يَنْضَجُ",
+    "title_en": "to ripen",
+    "category": "verbs"
+  },
+  "verb_garden_019.svg": {
+    "path": "content/assets/images/verb_garden_019.svg",
+    "title_de": "bewässern",
+    "title_ar": "يَسْقِي بِنِظَامِ الرَّيِّ",
+    "title_en": "to irrigate",
+    "category": "verbs"
+  },
+  "verb_garden_020.svg": {
+    "path": "content/assets/images/verb_garden_020.svg",
+    "title_de": "pflücken",
+    "title_ar": "يَقْطِفُ الثِّمَارَ أَو الأَزْهَارَ",
+    "title_en": "to pick / pluck",
+    "category": "verbs"
+  },
+  "kitchen_cook_001.svg": {
+    "path": "content/assets/images/kitchen_cook_001.svg",
+    "title_de": "die Küche",
+    "title_ar": "المَطْبَخُ المَنْزِلِيُّ",
+    "title_en": "kitchen",
+    "category": "vocabulary"
+  },
+  "kitchen_cook_002.svg": {
+    "path": "content/assets/images/kitchen_cook_002.svg",
+    "title_de": "der Kochtopf",
+    "title_ar": "قِدْرُ الطَّهْيِ",
+    "title_en": "cooking pot / saucepan",
+    "category": "vocabulary"
+  },
+  "kitchen_cook_003.svg": {
+    "path": "content/assets/images/kitchen_cook_003.svg",
+    "title_de": "die Pfanne",
+    "title_ar": "المِقْلَاةُ",
+    "title_en": "frying pan / skillet",
+    "category": "vocabulary"
+  },
+  "kitchen_cook_004.svg": {
+    "path": "content/assets/images/kitchen_cook_004.svg",
+    "title_de": "das Messer",
+    "title_ar": "سِكِّينُ المَطْبَخِ الحَادُّ",
+    "title_en": "kitchen knife",
+    "category": "vocabulary"
+  },
+  "kitchen_cook_005.svg": {
+    "path": "content/assets/images/kitchen_cook_005.svg",
+    "title_de": "das Schneidebrett",
+    "title_ar": "لَوْحُ التَّقْطِيعِ الخَشَبِيُّ",
+    "title_en": "cutting board",
+    "category": "vocabulary"
+  },
+  "kitchen_cook_006.svg": {
+    "path": "content/assets/images/kitchen_cook_006.svg",
+    "title_de": "der Kochlöffel",
+    "title_ar": "مِلْعَقَةُ الطَّبْخِ الخَشَبِيَّةُ",
+    "title_en": "wooden cooking spoon",
+    "category": "vocabulary"
+  },
+  "kitchen_cook_007.svg": {
+    "path": "content/assets/images/kitchen_cook_007.svg",
+    "title_de": "die Schüssel",
+    "title_ar": "الوِعَاءُ / الزِّبْدِيَّةُ",
+    "title_en": "bowl / mixing bowl",
+    "category": "vocabulary"
+  },
+  "kitchen_cook_008.svg": {
+    "path": "content/assets/images/kitchen_cook_008.svg",
+    "title_de": "der Backofen",
+    "title_ar": "فُرْنُ الخَبْزِ",
+    "title_en": "baking oven",
+    "category": "vocabulary"
+  },
+  "kitchen_cook_009.svg": {
+    "path": "content/assets/images/kitchen_cook_009.svg",
+    "title_de": "der Herd",
+    "title_ar": "مَوْقِدُ الطَّبْخِ",
+    "title_en": "stove / cooker",
+    "category": "vocabulary"
+  },
+  "kitchen_cook_010.svg": {
+    "path": "content/assets/images/kitchen_cook_010.svg",
+    "title_de": "das Sieb",
+    "title_ar": "المِصْفَاةُ / المُنْخُلُ",
+    "title_en": "strainer / sieve",
+    "category": "vocabulary"
+  },
+  "kitchen_cook_011.svg": {
+    "path": "content/assets/images/kitchen_cook_011.svg",
+    "title_de": "der Schäler",
+    "title_ar": "مِقْشَرَةُ الخُضَارِ",
+    "title_en": "peeler",
+    "category": "vocabulary"
+  },
+  "kitchen_cook_012.svg": {
+    "path": "content/assets/images/kitchen_cook_012.svg",
+    "title_de": "die Reibe",
+    "title_ar": "المِبْشَرَةُ",
+    "title_en": "grater",
+    "category": "vocabulary"
+  },
+  "kitchen_cook_013.svg": {
+    "path": "content/assets/images/kitchen_cook_013.svg",
+    "title_de": "der Mixer",
+    "title_ar": "الخَلَّاطُ الكَهْرَبَائِيُّ",
+    "title_en": "blender / mixer",
+    "category": "vocabulary"
+  },
+  "kitchen_cook_014.svg": {
+    "path": "content/assets/images/kitchen_cook_014.svg",
+    "title_de": "der Wasserkocher",
+    "title_ar": "غَلَّايَةُ المَاءِ",
+    "title_en": "electric kettle",
+    "category": "vocabulary"
+  },
+  "kitchen_cook_015.svg": {
+    "path": "content/assets/images/kitchen_cook_015.svg",
+    "title_de": "die Zutat",
+    "title_ar": "المُكَوِّنُ / العُنْصُرُ الغِذَائِيُّ",
+    "title_en": "ingredient",
+    "category": "vocabulary"
+  },
+  "kitchen_cook_016.svg": {
+    "path": "content/assets/images/kitchen_cook_016.svg",
+    "title_de": "das Rezept",
+    "title_ar": "وَصْفَةُ الطَّبْخِ",
+    "title_en": "recipe",
+    "category": "vocabulary"
+  },
+  "kitchen_cook_017.svg": {
+    "path": "content/assets/images/kitchen_cook_017.svg",
+    "title_de": "das Gewürz",
+    "title_ar": "التَّوَابِلُ وَالبُهَارَاتُ",
+    "title_en": "spice / seasoning",
+    "category": "vocabulary"
+  },
+  "kitchen_cook_018.svg": {
+    "path": "content/assets/images/kitchen_cook_018.svg",
+    "title_de": "das Olivenöl",
+    "title_ar": "زَيْتُ الزَّيْتُونِ الصَّافِي",
+    "title_en": "olive oil",
+    "category": "vocabulary"
+  },
+  "kitchen_cook_019.svg": {
+    "path": "content/assets/images/kitchen_cook_019.svg",
+    "title_de": "das Mehl",
+    "title_ar": "دَقِيقُ القَمْحِ",
+    "title_en": "flour",
+    "category": "vocabulary"
+  },
+  "kitchen_cook_020.svg": {
+    "path": "content/assets/images/kitchen_cook_020.svg",
+    "title_de": "die Hefe",
+    "title_ar": "الخَمِيرَةُ",
+    "title_en": "yeast",
+    "category": "vocabulary"
+  },
+  "kitchen_cook_021.svg": {
+    "path": "content/assets/images/kitchen_cook_021.svg",
+    "title_de": "der Teig",
+    "title_ar": "العَجِينُ المُتَمَاسِكُ",
+    "title_en": "dough / batter",
+    "category": "vocabulary"
+  },
+  "kitchen_cook_022.svg": {
+    "path": "content/assets/images/kitchen_cook_022.svg",
+    "title_de": "die Schürze",
+    "title_ar": "مِئْزَرُ المَطْبَخِ / الشُّورَةُ",
+    "title_en": "apron",
+    "category": "vocabulary"
+  },
+  "kitchen_cook_023.svg": {
+    "path": "content/assets/images/kitchen_cook_023.svg",
+    "title_de": "der Deckel",
+    "title_ar": "غِطَاءُ القِدْرِ",
+    "title_en": "pot lid / cover",
+    "category": "vocabulary"
+  },
+  "kitchen_cook_024.svg": {
+    "path": "content/assets/images/kitchen_cook_024.svg",
+    "title_de": "die Frische",
+    "title_ar": "طَرَاوَةُ وَنَضَارَةُ المَأْكُولَاتِ",
+    "title_en": "freshness",
+    "category": "vocabulary"
+  },
+  "kitchen_cook_025.svg": {
+    "path": "content/assets/images/kitchen_cook_025.svg",
+    "title_de": "der Geschmack",
+    "title_ar": "المَذَاقُ اللَّذِيذُ",
+    "title_en": "taste / flavor",
+    "category": "vocabulary"
+  },
+  "verb_cook_001.svg": {
+    "path": "content/assets/images/verb_cook_001.svg",
+    "title_de": "kochen",
+    "title_ar": "يَطْبُخُ / يَغْلِي",
+    "title_en": "to cook / to boil",
+    "category": "verbs"
+  },
+  "verb_cook_002.svg": {
+    "path": "content/assets/images/verb_cook_002.svg",
+    "title_de": "backen",
+    "title_ar": "يَخْبِزُ",
+    "title_en": "to bake",
+    "category": "verbs"
+  },
+  "verb_cook_003.svg": {
+    "path": "content/assets/images/verb_cook_003.svg",
+    "title_de": "braten",
+    "title_ar": "يَقْلِي / يُحَمِّرُ",
+    "title_en": "to fry / roast",
+    "category": "verbs"
+  },
+  "verb_cook_004.svg": {
+    "path": "content/assets/images/verb_cook_004.svg",
+    "title_de": "schneiden",
+    "title_ar": "يُقَطِّعُ",
+    "title_en": "to cut / slice",
+    "category": "verbs"
+  },
+  "verb_cook_005.svg": {
+    "path": "content/assets/images/verb_cook_005.svg",
+    "title_de": "schälen",
+    "title_ar": "يُقَشِّرُ",
+    "title_en": "to peel",
+    "category": "verbs"
+  },
+  "verb_cook_006.svg": {
+    "path": "content/assets/images/verb_cook_006.svg",
+    "title_de": "rühren",
+    "title_ar": "يُحَرِّكُ / يُقَلِّبُ",
+    "title_en": "to stir",
+    "category": "verbs"
+  },
+  "verb_cook_007.svg": {
+    "path": "content/assets/images/verb_cook_007.svg",
+    "title_de": "kneten",
+    "title_ar": "يَعْجِنُ",
+    "title_en": "to knead",
+    "category": "verbs"
+  },
+  "verb_cook_008.svg": {
+    "path": "content/assets/images/verb_cook_008.svg",
+    "title_de": "würzen",
+    "title_ar": "يُتَبِّلُ",
+    "title_en": "to season / spice",
+    "category": "verbs"
+  },
+  "verb_cook_009.svg": {
+    "path": "content/assets/images/verb_cook_009.svg",
+    "title_de": "probieren",
+    "title_ar": "يَتَذَوَّقُ",
+    "title_en": "to taste / try",
+    "category": "verbs"
+  },
+  "verb_cook_010.svg": {
+    "path": "content/assets/images/verb_cook_010.svg",
+    "title_de": "servieren",
+    "title_ar": "يُقَدِّمُ الطَّعَامَ",
+    "title_en": "to serve",
+    "category": "verbs"
+  },
+  "verb_cook_011.svg": {
+    "path": "content/assets/images/verb_cook_011.svg",
+    "title_de": "mischen",
+    "title_ar": "يَخْلِطُ / يَمْزُجُ",
+    "title_en": "to mix",
+    "category": "verbs"
+  },
+  "verb_cook_012.svg": {
+    "path": "content/assets/images/verb_cook_012.svg",
+    "title_de": "vorbereiten",
+    "title_ar": "يُجَهِّزُ / يُعِدُّ",
+    "title_en": "to prepare",
+    "category": "verbs"
+  },
+  "verb_cook_013.svg": {
+    "path": "content/assets/images/verb_cook_013.svg",
+    "title_de": "raspeln",
+    "title_ar": "يَبْشُرُ",
+    "title_en": "to grate / shred",
+    "category": "verbs"
+  },
+  "verb_cook_014.svg": {
+    "path": "content/assets/images/verb_cook_014.svg",
+    "title_de": "abwiegen",
+    "title_ar": "يَزِنُ المَقَادِيرَ",
+    "title_en": "to weigh out",
+    "category": "verbs"
+  },
+  "verb_cook_015.svg": {
+    "path": "content/assets/images/verb_cook_015.svg",
+    "title_de": "dazugeben",
+    "title_ar": "يُضِيفُ",
+    "title_en": "to add",
+    "category": "verbs"
+  },
+  "verb_cook_016.svg": {
+    "path": "content/assets/images/verb_cook_016.svg",
+    "title_de": "abkühlen lassen",
+    "title_ar": "يَتْرُكُهُ يَبْرُدُ",
+    "title_en": "to let cool down",
+    "category": "verbs"
+  },
+  "verb_cook_017.svg": {
+    "path": "content/assets/images/verb_cook_017.svg",
+    "title_de": "erhitzen",
+    "title_ar": "يُسَخِّنُ",
+    "title_en": "to heat up",
+    "category": "verbs"
+  },
+  "verb_cook_018.svg": {
+    "path": "content/assets/images/verb_cook_018.svg",
+    "title_de": "anrichten",
+    "title_ar": "يُرَتِّبُ المَائِدَةَ / يُزَيِّنُ الصَّحْنَ",
+    "title_en": "to dress / arrange food",
+    "category": "verbs"
+  },
+  "verb_cook_019.svg": {
+    "path": "content/assets/images/verb_cook_019.svg",
+    "title_de": "abwaschen",
+    "title_ar": "يَغْسِلُ الأَوَانِيَ",
+    "title_en": "to wash dishes / clean up",
+    "category": "verbs"
+  },
+  "verb_cook_020.svg": {
+    "path": "content/assets/images/verb_cook_020.svg",
+    "title_de": "genießen",
+    "title_ar": "يَسْتَمْتِعُ بِالطَّعَامِ الطَّيِّبِ",
+    "title_en": "to savor / enjoy food",
+    "category": "verbs"
   }
 }

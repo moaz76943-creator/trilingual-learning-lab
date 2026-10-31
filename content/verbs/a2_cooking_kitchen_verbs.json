@@ -1,909 +1,493 @@
 {
-  "category_id": "a2_cooking_kitchen_verbs",
-  "category_name_de": "Koch-, Küchen- und Zubereitungsverben",
-  "category_name_en": "Cooking, Food Preparation & Kitchen Verbs",
-  "category_name_ar": "أفعال الطهي والمطبخ وإعداد الوجبات",
-  "level": "A1/A2",
+  "id": "a2_cooking_kitchen_verbs",
+  "engine_number": 82,
+  "title_ar": "أَفْعَالُ الطَّبْخِ، إِعْدَادِ الطَّعَامِ، وَالأَنْشِطَةِ المَنْزِلِيَّةِ",
+  "title_de": "Verben für Kochen, Zubereitung und Küchenarbeit",
+  "title_en": "Cooking, Food Preparation & Kitchen Verbs Engine",
+  "level": "A2",
+  "description_ar": "أَفْعَالٌ أَسَاسِيَّةٌ وَيَوْمِيَّةٌ تُرَافِقُ إِعْدَادَ الوَجَبَاتِ، الخَبْزَ، التَّقْطِيعَ، التَّتْبِيلَ، وَمُشَارَكَةَ المَائِدَةِ.",
+  "description_de": "Praxisnahe Verben für die tägliche Essenszubereitung, Backen, Schneiden, Würzen und gemeinsames Genießen.",
+  "description_en": "Practical everyday verbs for meal preparation, baking, slicing, seasoning, and sharing food.",
   "verbs": [
     {
-      "id": "verb_cook_001",
-      "infinitive": "kochen",
-      "verb_type": "regular",
-      "level": "A1",
-      "meaning_de": "Speisen durch Erhitzen im Topf zubereiten oder Wasser sieden lassen",
-      "meaning_en": "to cook, boil",
-      "meaning_ar": "يَطْبُخُ، يَطْهُو، يَغْلِي المَاء",
-      "tenses": {
-        "present": {
-          "ich": "koche",
-          "du": "kochst",
-          "er_sie_es": "kocht",
-          "wir": "kochen",
-          "ihr": "kocht",
-          "sie_Sie": "kochen"
-        },
-        "past_simple": {
-          "ich": "kochte",
-          "du": "kochtest",
-          "er_sie_es": "kochte",
-          "wir": "kochten",
-          "ihr": "kochtet",
-          "sie_Sie": "kochten"
-        },
-        "perfect": {
-          "auxiliary": "haben",
-          "participle_ii": "gekocht"
-        }
+      "id": "v82_001",
+      "ar": "يَطْبُخُ / يَغْلِي",
+      "de": "kochen",
+      "en": "to cook / to boil",
+      "conjugation": {
+        "ich": "koche",
+        "du": "kochst",
+        "er_sie_es": "kocht",
+        "wir": "kochen",
+        "ihr": "kocht",
+        "sie_Sie": "kochen"
       },
-      "prepositions": [
-        {
-          "prep": "für",
-          "case": "Akkusativ",
-          "meaning_ar": "يطبخ لأجل العائلة"
-        }
-      ],
-      "examples": [
-        {
-          "de": "Die Mutter kocht eine nahrhafte Gemüsesuppe für die ganze Familie.",
-          "en": "The mother cooks a nutritious vegetable soup for the whole family.",
-          "ar": "تَطْبُخُ الأُمُّ حَسَاءَ خُضْرَاوَاتٍ مُغَذِّيًا لِلأُسْرَةِ بِأَكْمَلِهَا."
-        }
-      ]
+      "tenses": {
+        "praesens": "er kocht",
+        "praeteritum": "er kochte",
+        "perfekt": "hat gekocht"
+      },
+      "preposition": "für + Akkusativ",
+      "example_ar": "يَطْبُخُ الأَبُ حَسَاءَ الخُضْرَارِ الدَّافِئَ لِلْعَائِلَةِ فِي المَسَاءِ.",
+      "example_de": "Der Vater kocht am Abend eine wärmende Gemüsesuppe für die Familie.",
+      "example_en": "The father cooks a warming vegetable soup for the family in the evening.",
+      "image_asset": "verb_cook_001.svg"
     },
     {
-      "id": "verb_cook_002",
-      "infinitive": "backen",
-      "verb_type": "irregular",
-      "level": "A1",
-      "meaning_de": "Teigwaren wie Brot oder Kuchen im heißen Ofen garen",
-      "meaning_en": "to bake in the oven",
-      "meaning_ar": "يَخْبِزُ فِي الفُرْن",
-      "tenses": {
-        "present": {
-          "ich": "backe",
-          "du": "bäckst",
-          "er_sie_es": "bäckt",
-          "wir": "backen",
-          "ihr": "backt",
-          "sie_Sie": "backen"
-        },
-        "past_simple": {
-          "ich": "buk",
-          "du": "bukst",
-          "er_sie_es": "buk",
-          "wir": "buken",
-          "ihr": "bukt",
-          "sie_Sie": "buken"
-        },
-        "perfect": {
-          "auxiliary": "haben",
-          "participle_ii": "gebacken"
-        }
+      "id": "v82_002",
+      "ar": "يَخْبِزُ",
+      "de": "backen",
+      "en": "to bake",
+      "conjugation": {
+        "ich": "backe",
+        "du": "bäckst",
+        "er_sie_es": "bäckt",
+        "wir": "backen",
+        "ihr": "backt",
+        "sie_Sie": "backen"
       },
-      "prepositions": [
-        {
-          "prep": "im",
-          "case": "Dativ",
-          "meaning_ar": "يخبز في الفرن"
-        }
-      ],
-      "examples": [
-        {
-          "de": "Der Bäcker bäckt jeden frühen Morgen knuspriges Vollkornbrot.",
-          "en": "The baker bakes crispy wholemeal bread early every morning.",
-          "ar": "يَخْبِزُ الخَبَّازُ صَبَاحَ كُلِّ يَوْمٍ خُبْزَ قَمْحٍ كَامِلٍ هَشًّا وَلَذِيذًا."
-        }
-      ]
+      "tenses": {
+        "praesens": "er bäckt",
+        "praeteritum": "er backte",
+        "perfekt": "hat gebacken"
+      },
+      "preposition": "im + Dativ (Ofen)",
+      "example_ar": "تَخْبِزُ الأُمُّ خُبْزًا طَازَجًا فِي فُرْنِ المَنْزِلِ.",
+      "example_de": "Die Mutter bäckt frisches Vollkornbrot im Ofen.",
+      "example_en": "The mother bakes fresh wholemeal bread in the oven.",
+      "image_asset": "verb_cook_002.svg"
     },
     {
-      "id": "verb_cook_003",
-      "infinitive": "braten",
-      "verb_type": "irregular",
-      "level": "A2",
-      "meaning_de": "Fleisch oder Gemüse mit etwas Öl in der heißen Pfanne garen",
-      "meaning_en": "to fry, roast in a pan",
-      "meaning_ar": "يَقْلِي، يَشْوِي فِي المِقْلَاة",
-      "tenses": {
-        "present": {
-          "ich": "brate",
-          "du": "brätst",
-          "er_sie_es": "brät",
-          "wir": "braten",
-          "ihr": "bratet",
-          "sie_Sie": "braten"
-        },
-        "past_simple": {
-          "ich": "briet",
-          "du": "brietest",
-          "er_sie_es": "briet",
-          "wir": "brieten",
-          "ihr": "brietet",
-          "sie_Sie": "brieten"
-        },
-        "perfect": {
-          "auxiliary": "haben",
-          "participle_ii": "gebraten"
-        }
+      "id": "v82_003",
+      "ar": "يَقْلِي / يُحَمِّرُ",
+      "de": "braten",
+      "en": "to fry / roast",
+      "conjugation": {
+        "ich": "brate",
+        "du": "brätst",
+        "er_sie_es": "brät",
+        "wir": "braten",
+        "ihr": "bratet",
+        "sie_Sie": "braten"
       },
-      "prepositions": [
-        {
-          "prep": "in",
-          "case": "Dativ",
-          "meaning_ar": "يقلي في زيت الزيتون"
-        }
-      ],
-      "examples": [
-        {
-          "de": "Er brät frische Zucchini und Auberginen sanft in feinem Olivenöl an.",
-          "en": "He gently fries fresh zucchini and eggplants in fine olive oil.",
-          "ar": "يَقْلِي الكُوسَا وَالبَاذِنْجَانَ الطَّازَجَيْنِ بِلُطْفٍ فِي زَيْتِ الزَّيْتُونِ الصَّافِي."
-        }
-      ]
+      "tenses": {
+        "praesens": "er brät",
+        "praeteritum": "er briet",
+        "perfekt": "hat gebraten"
+      },
+      "preposition": "in + Dativ (Pfanne)",
+      "example_ar": "يُحَمِّرُ الخُضَارَ فِي المِقْلَاةِ بِزَيْتِ الزَّيْتُونِ الخَفِيفِ.",
+      "example_de": "Er brät das Gemüse schonend in der Pfanne an.",
+      "example_en": "He gently fries the vegetables in the pan.",
+      "image_asset": "verb_cook_003.svg"
     },
     {
-      "id": "verb_cook_004",
-      "infinitive": "schneiden",
-      "verb_type": "irregular",
-      "level": "A1",
-      "meaning_de": "Zutaten mit einem scharfen Messer in Scheiben oder Würfel zerteilen",
-      "meaning_en": "to cut, slice ingredients",
-      "meaning_ar": "يُقَطِّعُ الخُضَارَ بِالسِّكِّين",
-      "tenses": {
-        "present": {
-          "ich": "schneide",
-          "du": "schneidest",
-          "er_sie_es": "schneidet",
-          "wir": "schneiden",
-          "ihr": "schneidet",
-          "sie_Sie": "schneiden"
-        },
-        "past_simple": {
-          "ich": "schnitt",
-          "du": "schnittest",
-          "er_sie_es": "schnitt",
-          "wir": "schnitten",
-          "ihr": "schnittet",
-          "sie_Sie": "schnitten"
-        },
-        "perfect": {
-          "auxiliary": "haben",
-          "participle_ii": "geschnitten"
-        }
+      "id": "v82_004",
+      "ar": "يُقَطِّعُ",
+      "de": "schneiden",
+      "en": "to cut / slice",
+      "conjugation": {
+        "ich": "schneide",
+        "du": "schneidest",
+        "er_sie_es": "schneidet",
+        "wir": "schneiden",
+        "ihr": "schneidet",
+        "sie_Sie": "schneiden"
       },
-      "prepositions": [
-        {
-          "prep": "in",
-          "case": "Akkusativ",
-          "meaning_ar": "يقطع إلى مكعبات"
-        }
-      ],
-      "examples": [
-        {
-          "de": "Er schneidet die roten Tomaten und Zwiebeln in feine Würfel.",
-          "en": "He cuts the red tomatoes and onions into fine cubes.",
-          "ar": "يُقَطِّعُ الطَّمَاطِمَ الحَمْرَاءَ وَالبَصَلَ إِلَى مُكَعَّبَاتٍ نَاعِمَة."
-        }
-      ]
+      "tenses": {
+        "praesens": "er schneidet",
+        "praeteritum": "er schnitt",
+        "perfekt": "hat geschnitten"
+      },
+      "preposition": "in + Akkusativ (Stücke)",
+      "example_ar": "يُقَطِّعُ الطَّمَاطِمَ إِلَى شَرَائِحَ مُتَسَاوِيَةٍ لِلسَّلَطَةِ.",
+      "example_de": "Er schneidet die Tomaten in gleichmäßige Scheiben.",
+      "example_en": "He slices the tomatoes into even slices for the salad.",
+      "image_asset": "verb_cook_004.svg"
     },
     {
-      "id": "verb_cook_005",
-      "infinitive": "schälen",
-      "verb_type": "regular",
-      "level": "A1",
-      "meaning_de": "die ungenießbare äußere Schale von Obst oder Kartoffeln entfernen",
-      "meaning_en": "to peel fruit or vegetables",
-      "meaning_ar": "يُقَشِّرُ الخُضْرَاوَاتِ أَوِ الفَاكِهَة",
-      "tenses": {
-        "present": {
-          "ich": "schäle",
-          "du": "schälst",
-          "er_sie_es": "schält",
-          "wir": "schälen",
-          "ihr": "schält",
-          "sie_Sie": "schälen"
-        },
-        "past_simple": {
-          "ich": "schälte",
-          "du": "schältest",
-          "er_sie_es": "schälte",
-          "wir": "schälten",
-          "ihr": "schältet",
-          "sie_Sie": "schälten"
-        },
-        "perfect": {
-          "auxiliary": "haben",
-          "participle_ii": "geschält"
-        }
+      "id": "v82_005",
+      "ar": "يُقَشِّرُ",
+      "de": "schälen",
+      "en": "to peel",
+      "conjugation": {
+        "ich": "schäle",
+        "du": "schälst",
+        "er_sie_es": "schält",
+        "wir": "schälen",
+        "ihr": "schält",
+        "sie_Sie": "schälen"
       },
-      "prepositions": [
-        {
-          "prep": "mit",
-          "case": "Dativ",
-          "meaning_ar": "يقشر بالسكين"
-        }
-      ],
-      "examples": [
-        {
-          "de": "Die Großmutter schält reife Äpfel für das gesunde Kompott.",
-          "en": "The grandmother peels ripe apples for the healthy compote.",
-          "ar": "تُقَشِّرُ الجَدَّةُ التُّفَّاحَ النَّاضِجَ لِإِعْدَادِ المَرْهَمِ الغِذَائِيِّ الصِّحِّيّ."
-        }
-      ]
+      "tenses": {
+        "praesens": "er schält",
+        "praeteritum": "er schälte",
+        "perfekt": "hat geschält"
+      },
+      "preposition": "mit + Dativ",
+      "example_ar": "يُقَشِّرُ التُّفَّاحَ وَالبُرْتُقَالَ قَبْلَ تَقْدِيمِهِ لِلأَطْفَالِ.",
+      "example_de": "Sie schält die Äpfel vor der Zubereitung des Obstsalats.",
+      "example_en": "She peels the apples before preparing the fruit salad.",
+      "image_asset": "verb_cook_005.svg"
     },
     {
-      "id": "verb_cook_006",
-      "infinitive": "rühren",
-      "verb_type": "regular",
-      "level": "A1",
-      "meaning_de": "eine Soße oder Suppe mit dem Kochlöffel gleichmäßig bewegen",
-      "meaning_en": "to stir with a spoon",
-      "meaning_ar": "يُحَرِّكُ، يُقَلِّبُ الطَّعَامَ فِي القِدْر",
-      "tenses": {
-        "present": {
-          "ich": "rühre",
-          "du": "rührst",
-          "er_sie_es": "rührt",
-          "wir": "rühren",
-          "ihr": "rührt",
-          "sie_Sie": "rühren"
-        },
-        "past_simple": {
-          "ich": "rührte",
-          "du": "rührtest",
-          "er_sie_es": "rührte",
-          "wir": "rührten",
-          "ihr": "rührtet",
-          "sie_Sie": "rührten"
-        },
-        "perfect": {
-          "auxiliary": "haben",
-          "participle_ii": "gerührt"
-        }
+      "id": "v82_006",
+      "ar": "يُحَرِّكُ / يُقَلِّبُ",
+      "de": "rühren",
+      "en": "to stir",
+      "conjugation": {
+        "ich": "rühre",
+        "du": "rührst",
+        "er_sie_es": "rührt",
+        "wir": "rühren",
+        "ihr": "rührt",
+        "sie_Sie": "rühren"
       },
-      "prepositions": [
-        {
-          "prep": "mit",
-          "case": "Dativ",
-          "meaning_ar": "يحرك بملعقة خشبية"
-        }
-      ],
-      "examples": [
-        {
-          "de": "Er rührt die cremige Suppe mit dem Holzlöffel um, damit nichts anbrennt.",
-          "en": "He stirs the creamy soup with the wooden spoon so that nothing burns.",
-          "ar": "يُقَلِّبُ الحَسَاءَ بِالمِلْعَقَةِ الخَشَبِيَّةِ كَي لَا يَلْتَصِقَ بِالقَاع."
-        }
-      ]
+      "tenses": {
+        "praesens": "er rührt",
+        "praeteritum": "er rührte",
+        "perfekt": "hat gerührt"
+      },
+      "preposition": "mit + Dativ",
+      "example_ar": "يُقَلِّبُ الحَسَاءَ فِي القِدْرِ حَتَّى تَمْتَزِجَ النَّكَهَاتُ.",
+      "example_de": "Er rührt die Suppe regelmäßig mit dem Kochlöffel um.",
+      "example_en": "He stirs the soup regularly with the wooden spoon.",
+      "image_asset": "verb_cook_006.svg"
     },
     {
-      "id": "verb_cook_007",
-      "infinitive": "mischen",
-      "verb_type": "regular",
-      "level": "A1",
-      "meaning_de": "verschiedene Zutaten in einer Schüssel zusammenfügen",
-      "meaning_en": "to mix, blend ingredients",
-      "meaning_ar": "يَخْلِطُ، يَمْزُجُ المُكَوِّنَات",
-      "tenses": {
-        "present": {
-          "ich": "mische",
-          "du": "mischst",
-          "er_sie_es": "mischt",
-          "wir": "mischen",
-          "ihr": "mischt",
-          "sie_Sie": "mischen"
-        },
-        "past_simple": {
-          "ich": "mischte",
-          "du": "mischtest",
-          "er_sie_es": "mischte",
-          "wir": "mischten",
-          "ihr": "mischtet",
-          "sie_Sie": "mischten"
-        },
-        "perfect": {
-          "auxiliary": "haben",
-          "participle_ii": "gemischt"
-        }
+      "id": "v82_007",
+      "ar": "يَعْجِنُ",
+      "de": "kneten",
+      "en": "to knead",
+      "conjugation": {
+        "ich": "knete",
+        "du": "knetest",
+        "er_sie_es": "knetet",
+        "wir": "kneten",
+        "ihr": "knetet",
+        "sie_Sie": "kneten"
       },
-      "prepositions": [
-        {
-          "prep": "mit",
-          "case": "Dativ",
-          "meaning_ar": "يخلط مع التوابل"
-        }
-      ],
-      "examples": [
-        {
-          "de": "Sie mischt den frischen Salat mit feinem Olivenöl und Zitronensaft.",
-          "en": "She mixes the fresh salad with fine olive oil and lemon juice.",
-          "ar": "تَخْلِطُ السَّلَطَةَ الطَّازَجَةَ بِزَيْتِ الزَّيْتُونِ الصَّافِي وَعَصِيرِ اللَّيْمُون."
-        }
-      ]
+      "tenses": {
+        "praesens": "er knetet",
+        "praeteritum": "er knetete",
+        "perfekt": "hat geknetet"
+      },
+      "preposition": "mit + Dativ (Händen)",
+      "example_ar": "يَعْجِنُ الشَّابُّ الدَّقِيقَ بِالمَاءِ وَالخَمِيرَةِ لِإِعْدَادِ الفَطَائِرِ.",
+      "example_de": "Er knetet den Brotteig kräftig mit beiden Händen.",
+      "example_en": "He kneads the bread dough vigorously with both hands.",
+      "image_asset": "verb_cook_007.svg"
     },
     {
-      "id": "verb_cook_008",
-      "infinitive": "würzen",
-      "verb_type": "regular",
-      "level": "A2",
-      "meaning_de": "aromatische Kräuter und Gewürze an die Speise geben",
-      "meaning_en": "to season, spice food",
-      "meaning_ar": "يُتَبِّلُ، يُضِيفُ البَهَارَاتِ لِلطَّعَام",
-      "tenses": {
-        "present": {
-          "ich": "würze",
-          "du": "würzt",
-          "er_sie_es": "würzt",
-          "wir": "würzen",
-          "ihr": "würzt",
-          "sie_Sie": "würzen"
-        },
-        "past_simple": {
-          "ich": "würzte",
-          "du": "würztest",
-          "er_sie_es": "würzte",
-          "wir": "würzten",
-          "ihr": "würztet",
-          "sie_Sie": "würzten"
-        },
-        "perfect": {
-          "auxiliary": "haben",
-          "participle_ii": "gewürzt"
-        }
+      "id": "v82_008",
+      "ar": "يُتَبِّلُ",
+      "de": "würzen",
+      "en": "to season / spice",
+      "conjugation": {
+        "ich": "würze",
+        "du": "würzt",
+        "er_sie_es": "würzt",
+        "wir": "würzen",
+        "ihr": "würzt",
+        "sie_Sie": "würzen"
       },
-      "prepositions": [
-        {
-          "prep": "mit",
-          "case": "Dativ",
-          "meaning_ar": "يتبل بالزعتر والكمون"
-        }
-      ],
-      "examples": [
-        {
-          "de": "Der Koch würzt den Eintopf mit Kreuzkümmel, Thymian und schwarzem Pfeffer.",
-          "en": "The cook seasons the stew with cumin, thyme, and black pepper.",
-          "ar": "يُتَبِّلُ الطَّاهِي الحَسَاءَ بِالكَمُّونِ وَالزَّعْتَرِ وَالفُلْفُلِ الأَسْوَد."
-        }
-      ]
+      "tenses": {
+        "praesens": "er würzt",
+        "praeteritum": "er würzte",
+        "perfekt": "hat gewürzt"
+      },
+      "preposition": "mit + Dativ",
+      "example_ar": "يُتَبِّلُ الطَّاهِي الطَّعَامَ بِتَوَابِلَ طَبِيعِيَّةٍ خَفِيفَةٍ لِتُعْطِيَهُ مَذَاقًا رَائِقًا.",
+      "example_de": "Der Koch würzt die Speise mit Pfeffer und feinen Kräutern.",
+      "example_en": "The cook seasons the dish with pepper and fine herbs.",
+      "image_asset": "verb_cook_008.svg"
     },
     {
-      "id": "verb_cook_009",
-      "infinitive": "salzen",
-      "verb_type": "regular",
-      "level": "A1",
-      "meaning_de": "eine maßvolle Menge reines Meersalz an das Essen geben",
-      "meaning_en": "to salt food",
-      "meaning_ar": "يُمَلِّحُ الطَّعَامَ بِاعْتِدَال",
-      "tenses": {
-        "present": {
-          "ich": "salze",
-          "du": "salzt",
-          "er_sie_es": "salzt",
-          "wir": "salzen",
-          "ihr": "salzt",
-          "sie_Sie": "salzen"
-        },
-        "past_simple": {
-          "ich": "salzte",
-          "du": "salztest",
-          "er_sie_es": "salzte",
-          "wir": "salzten",
-          "ihr": "salztet",
-          "sie_Sie": "salzten"
-        },
-        "perfect": {
-          "auxiliary": "haben",
-          "participle_ii": "gesalzen"
-        }
+      "id": "v82_009",
+      "ar": "يَتَذَوَّقُ",
+      "de": "probieren",
+      "en": "to taste / try",
+      "conjugation": {
+        "ich": "probiere",
+        "du": "probierst",
+        "er_sie_es": "probiert",
+        "wir": "probieren",
+        "ihr": "probiert",
+        "sie_Sie": "probieren"
       },
-      "prepositions": [
-        {
-          "prep": "mit",
-          "case": "Dativ",
-          "meaning_ar": "يملح بملح البحر"
-        }
-      ],
-      "examples": [
-        {
-          "de": "Er salzt das Nudelwasser sparsam mit natürlichem Meersalz.",
-          "en": "He salts the pasta water sparingly with natural sea salt.",
-          "ar": "يُمَلِّحُ مَاءَ المَعْكَرُونَةِ بِاعْتِدَالٍ بِمِلْحِ البَحْرِ الطَّبِيعِيّ."
-        }
-      ]
+      "tenses": {
+        "praesens": "er probiert",
+        "praeteritum": "er probierte",
+        "perfekt": "hat probiert"
+      },
+      "preposition": "von + Dativ",
+      "example_ar": "يَتَذَوَّقُ المَرَقَ لِلتَّأَكُّدِ مِنِ اعْتِدَالِ المِلْحِ فِيهِ.",
+      "example_de": "Er probiert von der Soße, um die Würze zu prüfen.",
+      "example_en": "He tastes the sauce to check the seasoning.",
+      "image_asset": "verb_cook_009.svg"
     },
     {
-      "id": "verb_cook_010",
-      "infinitive": "köcheln",
-      "verb_type": "regular",
-      "level": "A2",
-      "meaning_de": "eine Speise bei geringer Hitze sanft und langsam sieden lassen",
-      "meaning_en": "to simmer gently on low heat",
-      "meaning_ar": "يَتْرُكُ الطَّعَامَ يَغْلِي عَلَى نَارٍ هَادِئَة",
-      "tenses": {
-        "present": {
-          "ich": "köchle",
-          "du": "köchelst",
-          "er_sie_es": "köchelt",
-          "wir": "köcheln",
-          "ihr": "köchelt",
-          "sie_Sie": "köcheln"
-        },
-        "past_simple": {
-          "ich": "köchelte",
-          "du": "köcheltest",
-          "er_sie_es": "köchelte",
-          "wir": "köchelten",
-          "ihr": "köcheltet",
-          "sie_Sie": "köchelten"
-        },
-        "perfect": {
-          "auxiliary": "haben",
-          "participle_ii": "geköchelt"
-        }
+      "id": "v82_010",
+      "ar": "يُقَدِّمُ الطَّعَامَ",
+      "de": "servieren",
+      "en": "to serve",
+      "conjugation": {
+        "ich": "serviere",
+        "du": "servierst",
+        "er_sie_es": "serviert",
+        "wir": "servieren",
+        "ihr": "serviert",
+        "sie_Sie": "servieren"
       },
-      "prepositions": [
-        {
-          "prep": "bei",
-          "case": "Dativ",
-          "meaning_ar": "يترك يغلي على نار خفيفة"
-        }
-      ],
-      "examples": [
-        {
-          "de": "Die Tomatensoße köchelt zwanzig Minuten bei schwacher Hitze.",
-          "en": "The tomato sauce simmers for twenty minutes over low heat.",
-          "ar": "تَغْلِي صَلْصَةُ الطَّمَاطِمِ عِشْرِينَ دَقِيقَةً عَلَى نَارٍ هَادِئَة."
-        }
-      ]
+      "tenses": {
+        "praesens": "er serviert",
+        "praeteritum": "er servierte",
+        "perfekt": "hat serviert"
+      },
+      "preposition": "auf + Dativ / für + Akkusativ",
+      "example_ar": "تُقَدِّمُ الأُمُّ الطَّعَامَ الدَّافِئَ لِلضُّيُوفِ بِكَرَمٍ وَحَفَاوَةٍ.",
+      "example_de": "Sie serviert das warme Essen auf schönen Tellern.",
+      "example_en": "She serves the warm meal on beautiful plates.",
+      "image_asset": "verb_cook_010.svg"
     },
     {
-      "id": "verb_cook_011",
-      "infinitive": "abschmecken",
-      "verb_type": "regular",
-      "level": "A2",
-      "meaning_de": "die Speise vor dem Servieren kosten, um die Würze abzurunden",
-      "meaning_en": "to season to taste, test flavor",
-      "meaning_ar": "يَتَذَوَّقُ لِضَبْطِ النَّكْهَةِ وَالتَّوَابِل",
-      "tenses": {
-        "present": {
-          "ich": "schmecke ab",
-          "du": "schmeckst ab",
-          "er_sie_es": "schmeckt ab",
-          "wir": "schmecken ab",
-          "ihr": "schmeckt ab",
-          "sie_Sie": "schmecken ab"
-        },
-        "past_simple": {
-          "ich": "schmeckte ab",
-          "du": "schmecktest ab",
-          "er_sie_es": "schmeckte ab",
-          "wir": "schmeckten ab",
-          "ihr": "schmecktet ab",
-          "sie_Sie": "schmeckten ab"
-        },
-        "perfect": {
-          "auxiliary": "haben",
-          "participle_ii": "abgeschmeckt"
-        }
+      "id": "v82_011",
+      "ar": "يَخْلِطُ / يَمْزُجُ",
+      "de": "mischen",
+      "en": "to mix",
+      "conjugation": {
+        "ich": "mische",
+        "du": "mischst",
+        "er_sie_es": "mischt",
+        "wir": "mischen",
+        "ihr": "mischt",
+        "sie_Sie": "mischen"
       },
-      "prepositions": [
-        {
-          "prep": "mit",
-          "case": "Dativ",
-          "meaning_ar": "يضبط النكهة بقليل من الليمون"
-        }
-      ],
-      "examples": [
-        {
-          "de": "Die Köchin schmeckt den Eintopf mit einem Spritzer frischer Zitrone ab.",
-          "en": "The cook finishes seasoning the stew with a splash of fresh lemon.",
-          "ar": "تَضْبِطُ الطَّاهِيَةُ نَكْهَةَ الحَسَاءِ بِقَطَرَاتٍ مِنْ عَصِيرِ اللَّيْمُونِ الطَّازَج."
-        }
-      ]
+      "tenses": {
+        "praesens": "er mischt",
+        "praeteritum": "er mischte",
+        "perfekt": "hat gemischt"
+      },
+      "preposition": "mit + Dativ",
+      "example_ar": "يَخْلِطُ زَيْتَ الزَّيْتُونِ مَعَ اللَّيْمُونِ لِتَحْضِيرِ صَلْصَةِ السَّلَطَةِ.",
+      "example_de": "Er mischt Olivenöl und Zitronensaft für das Dressing.",
+      "example_en": "He mixes olive oil and lemon juice for the dressing.",
+      "image_asset": "verb_cook_011.svg"
     },
     {
-      "id": "verb_cook_012",
-      "infinitive": "reiben",
-      "verb_type": "irregular",
-      "level": "A2",
-      "meaning_de": "Käse oder Karotten an der Küchenreibe zerkleinern",
-      "meaning_en": "to grate cheese or vegetables",
-      "meaning_ar": "يَبْشُرُ، يَسْحَقُ بِالمِبْشَرَة",
-      "tenses": {
-        "present": {
-          "ich": "reibe",
-          "du": "reibst",
-          "er_sie_es": "reibt",
-          "wir": "reiben",
-          "ihr": "reibt",
-          "sie_Sie": "reiben"
-        },
-        "past_simple": {
-          "ich": "rieb",
-          "du": "riebst",
-          "er_sie_es": "rieb",
-          "wir": "rieben",
-          "ihr": "riebt",
-          "sie_Sie": "rieben"
-        },
-        "perfect": {
-          "auxiliary": "haben",
-          "participle_ii": "gerieben"
-        }
+      "id": "v82_012",
+      "ar": "يُجَهِّزُ / يُعِدُّ",
+      "de": "vorbereiten",
+      "en": "to prepare",
+      "conjugation": {
+        "ich": "bereite vor",
+        "du": "bereitest vor",
+        "er_sie_es": "bereitet vor",
+        "wir": "bereiten vor",
+        "ihr": "bereitet vor",
+        "sie_Sie": "bereiten vor"
       },
-      "prepositions": [
-        {
-          "prep": "auf",
-          "case": "Dativ",
-          "meaning_ar": "يبشر بالمبشرة"
-        }
-      ],
-      "examples": [
-        {
-          "de": "Er reibt frischen Hartkäse direkt über die dampfenden Nudeln.",
-          "en": "He grates fresh hard cheese directly over the steaming pasta.",
-          "ar": "يَبْشُرُ الجُبْنَ الصَّلْبَ مُبَاشَرَةً فَوْقَ المَعْكَرُونَةِ السَّاخِنَة."
-        }
-      ]
+      "tenses": {
+        "praesens": "er bereitet vor",
+        "praeteritum": "er bereitete vor",
+        "perfekt": "hat vorbereitet"
+      },
+      "preposition": "für + Akkusativ",
+      "example_ar": "يُجَهِّزُ المُكَوِّنَاتِ عَلَى الطَّاوِلَةِ قَبْلَ بَدْءِ الطَّبْخِ.",
+      "example_de": "Sie bereitet alle Zutaten vor dem Kochen sorgfältig vor.",
+      "example_en": "She prepares all the ingredients carefully before cooking.",
+      "image_asset": "verb_cook_012.svg"
     },
     {
-      "id": "verb_cook_013",
-      "infinitive": "kneten",
-      "verb_type": "regular",
-      "level": "A2",
-      "meaning_de": "Mehl, Wasser und Hefe mit den Händen kräftig durcharbeiten",
-      "meaning_en": "to knead dough",
-      "meaning_ar": "يَعْجِنُ العَجِينَ بِاليَدَيْن",
-      "tenses": {
-        "present": {
-          "ich": "knete",
-          "du": "knetest",
-          "er_sie_es": "knetet",
-          "wir": "kneten",
-          "ihr": "knetet",
-          "sie_Sie": "kneten"
-        },
-        "past_simple": {
-          "ich": "knetete",
-          "du": "knetetest",
-          "er_sie_es": "knetete",
-          "wir": "kneteten",
-          "ihr": "knetetet",
-          "sie_Sie": "kneteten"
-        },
-        "perfect": {
-          "auxiliary": "haben",
-          "participle_ii": "geknetet"
-        }
+      "id": "v82_013",
+      "ar": "يَبْشُرُ",
+      "de": "raspeln",
+      "en": "to grate / shred",
+      "conjugation": {
+        "ich": "raspele",
+        "du": "raspelst",
+        "er_sie_es": "raspelt",
+        "wir": "raspeln",
+        "ihr": "raspelt",
+        "sie_Sie": "raspeln"
       },
-      "prepositions": [
-        {
-          "prep": "auf",
-          "case": "Dativ",
-          "meaning_ar": "يعجن على طاولة الخبز"
-        }
-      ],
-      "examples": [
-        {
-          "de": "Der Bäcker knetet den Brotteig zehn Minuten lang kräftig durch.",
-          "en": "The baker kneads the bread dough vigorously for ten minutes.",
-          "ar": "يَعْجِنُ الخَبَّازُ عَجِينَ الخُبْزِ بِقُوَّةٍ لِمُدَّةِ عَشْرِ دَقَائِق."
-        }
-      ]
+      "tenses": {
+        "praesens": "er raspelt",
+        "praeteritum": "er raspelte",
+        "perfekt": "hat geraspelt"
+      },
+      "preposition": "mit + Dativ",
+      "example_ar": "يَبْشُرُ الجَزَرَ وَالتُّفَّاحَ لِصُنْعِ سَلَطَةٍ مُغَذِّيَةٍ.",
+      "example_de": "Er raspelt Karotten frisch für den Rohkostsalat.",
+      "example_en": "He grates fresh carrots for the raw salad.",
+      "image_asset": "verb_cook_013.svg"
     },
     {
-      "id": "verb_cook_014",
-      "infinitive": "wiegen",
-      "verb_type": "irregular",
-      "level": "A1",
-      "meaning_de": "das genaue Gewicht von Mehl oder Zucker auf der Küchenwaage feststellen",
-      "meaning_en": "to weigh baking ingredients",
-      "meaning_ar": "يَزِنُ مَقَادِيرَ الطَّعَام",
-      "tenses": {
-        "present": {
-          "ich": "wiege",
-          "du": "wiegst",
-          "er_sie_es": "wiegt",
-          "wir": "wiegen",
-          "ihr": "wiegt",
-          "sie_Sie": "wiegen"
-        },
-        "past_simple": {
-          "ich": "wog",
-          "du": "wogst",
-          "er_sie_es": "wog",
-          "wir": "wogen",
-          "ihr": "wogt",
-          "sie_Sie": "wogen"
-        },
-        "perfect": {
-          "auxiliary": "haben",
-          "participle_ii": "gewogen"
-        }
+      "id": "v82_014",
+      "ar": "يَزِنُ المَقَادِيرَ",
+      "de": "abwiegen",
+      "en": "to weigh out",
+      "conjugation": {
+        "ich": "wiege ab",
+        "du": "wiegst ab",
+        "er_sie_es": "wiegt ab",
+        "wir": "wiegen ab",
+        "ihr": "wiegt ab",
+        "sie_Sie": "wiegen ab"
       },
-      "prepositions": [
-        {
-          "prep": "auf",
-          "case": "Dativ",
-          "meaning_ar": "يزن على ميزان المطبخ"
-        }
-      ],
-      "examples": [
-        {
-          "de": "Sie wiegt fünfhundert Gramm Weizenmehl auf der Küchenwaage ab.",
-          "en": "She weighs five hundred grams of wheat flour on the kitchen scale.",
-          "ar": "تَزِنُ خَمْسَمِائَةِ غِرَامٍ مِنْ دَقِيقِ القَمْحِ عَلَى مِيزَانِ المَطْبَخ."
-        }
-      ]
+      "tenses": {
+        "praesens": "er wiegt ab",
+        "praeteritum": "er wog ab",
+        "perfekt": "hat abgewogen"
+      },
+      "preposition": "auf + Dativ (Waage)",
+      "example_ar": "يَزِنُ مِقْدَارَ الدَّقِيقِ عَلَى المِيزَانِ المَنْزِلِيِّ بِدِقَّةٍ.",
+      "example_de": "Sie wiegt das Mehl genau auf der Küchenwaage ab.",
+      "example_en": "She accurately weighs the flour on the kitchen scale.",
+      "image_asset": "verb_cook_014.svg"
     },
     {
-      "id": "verb_cook_015",
-      "infinitive": "abmessen",
-      "verb_type": "irregular",
-      "level": "A2",
-      "meaning_de": "Flüssigkeiten wie Milch oder Wasser mit dem Messbecher genau bestimmen",
-      "meaning_en": "to measure out liquids",
-      "meaning_ar": "يَكِيلُ، يَقِيسُ المَقَادِيرَ السَّائِلَة",
-      "tenses": {
-        "present": {
-          "ich": "messe ab",
-          "du": "misst ab",
-          "er_sie_es": "misst ab",
-          "wir": "messen ab",
-          "ihr": "messt ab",
-          "sie_Sie": "messen ab"
-        },
-        "past_simple": {
-          "ich": "maß ab",
-          "du": "maßest ab",
-          "er_sie_es": "maß ab",
-          "wir": "maßen ab",
-          "ihr": "maßt ab",
-          "sie_Sie": "maßen ab"
-        },
-        "perfect": {
-          "auxiliary": "haben",
-          "participle_ii": "abgemessen"
-        }
+      "id": "v82_015",
+      "ar": "يُضِيفُ",
+      "de": "dazugeben",
+      "en": "to add",
+      "conjugation": {
+        "ich": "gebe dazu",
+        "du": "gibst dazu",
+        "er_sie_es": "gibt dazu",
+        "wir": "geben dazu",
+        "ihr": "gebt dazu",
+        "sie_Sie": "geben dazu"
       },
-      "prepositions": [
-        {
-          "prep": "mit",
-          "case": "Dativ",
-          "meaning_ar": "يقيس بكوب القياس"
-        }
-      ],
-      "examples": [
-        {
-          "de": "Er misst genau zweihundertfünfzig Milliliter reines Wasser ab.",
-          "en": "He precisely measures out two hundred and fifty milliliters of pure water.",
-          "ar": "يَكِيلُ مِائَتَيْنِ وَخَمْسِينَ مِلِّيلِتْرًا مِنَ المَاءِ النَّقِيِّ بِدِقَّة."
-        }
-      ]
+      "tenses": {
+        "praesens": "er gibt dazu",
+        "praeteritum": "er gab dazu",
+        "perfekt": "hat dazugegeben"
+      },
+      "preposition": "zu + Dativ",
+      "example_ar": "يُضِيفُ قَلِيلًا مِنَ المَاءِ الدَّافِئِ إِلَى العَجِينِ.",
+      "example_de": "Er gibt schluckweise lauwarmes Wasser zum Teig dazu.",
+      "example_en": "He gradually adds lukewarm water to the dough.",
+      "image_asset": "verb_cook_015.svg"
     },
     {
-      "id": "verb_cook_016",
-      "infinitive": "anrichten",
-      "verb_type": "regular",
-      "level": "A2",
-      "meaning_de": "die fertigen Speisen ansprechend und appetitlich auf Tellern arrangieren",
-      "meaning_en": "to plate, arrange food nicely",
-      "meaning_ar": "يُرَتِّبُ، يُزَيِّنُ الطَّبَقَ لِلتَّقْدِيم",
-      "tenses": {
-        "present": {
-          "ich": "richte an",
-          "du": "richtest an",
-          "er_sie_es": "richtet an",
-          "wir": "richten an",
-          "ihr": "richtet an",
-          "sie_Sie": "richten an"
-        },
-        "past_simple": {
-          "ich": "richtete an",
-          "du": "richtetest an",
-          "er_sie_es": "richtete an",
-          "wir": "richteten an",
-          "ihr": "richtetet an",
-          "sie_Sie": "richteten an"
-        },
-        "perfect": {
-          "auxiliary": "haben",
-          "participle_ii": "angerichtet"
-        }
+      "id": "v82_016",
+      "ar": "يَتْرُكُهُ يَبْرُدُ",
+      "de": "abkühlen lassen",
+      "en": "to let cool down",
+      "conjugation": {
+        "ich": "lasse abkühlen",
+        "du": "lässt abkühlen",
+        "er_sie_es": "lässt abkühlen",
+        "wir": "lassen abkühlen",
+        "ihr": "lasst abkühlen",
+        "sie_Sie": "lassen abkühlen"
       },
-      "prepositions": [
-        {
-          "prep": "auf",
-          "case": "Dativ",
-          "meaning_ar": "يرتب على أطباق التقديم"
-        }
-      ],
-      "examples": [
-        {
-          "de": "Sie richtet das Hauptgericht kunstvoll mit Petersilienblättern auf der Platte an.",
-          "en": "She arranges the main course artfully with parsley leaves on the platter.",
-          "ar": "تُزَيِّنُ الطَّبَقَ الرَّئِيسِيَّ بِأَوْرَاقِ البَقْدُونِسِ عَلَى صَحْنِ التَّقْدِيم."
-        }
-      ]
+      "tenses": {
+        "praesens": "er lässt abkühlen",
+        "praeteritum": "er ließ abkühlen",
+        "perfekt": "hat abkühlen lassen"
+      },
+      "preposition": "auf + Dativ",
+      "example_ar": "نَتْرُكُ الفَطَائِرَ تَبْرُدُ قَلِيلًا قَبْلَ تَنَاوُلِهَا.",
+      "example_de": "Wir lassen das Gebäck auf dem Gitter etwas abkühlen.",
+      "example_en": "We let the pastry cool slightly on the wire rack.",
+      "image_asset": "verb_cook_016.svg"
     },
     {
-      "id": "verb_cook_017",
-      "infinitive": "abkühlen",
-      "verb_type": "regular",
-      "level": "A2",
-      "meaning_de": "eine heiße Speise oder Kuchen bei Raumtemperatur erkalten lassen",
-      "meaning_en": "to let cool down",
-      "meaning_ar": "يَتْرُكُ الطَّعَامَ لِيَبْرُد",
-      "tenses": {
-        "present": {
-          "ich": "kühle ab",
-          "du": "kühlst ab",
-          "er_sie_es": "kühlt ab",
-          "wir": "kühlen ab",
-          "ihr": "kühlt ab",
-          "sie_Sie": "kühlen ab"
-        },
-        "past_simple": {
-          "ich": "kühlte ab",
-          "du": "kühltest ab",
-          "er_sie_es": "kühlte ab",
-          "wir": "kühlten ab",
-          "ihr": "kühltet ab",
-          "sie_Sie": "kühlten ab"
-        },
-        "perfect": {
-          "auxiliary": "haben",
-          "participle_ii": "abgekühlt"
-        }
+      "id": "v82_017",
+      "ar": "يُسَخِّنُ",
+      "de": "erhitzen",
+      "en": "to heat up",
+      "conjugation": {
+        "ich": "erhitze",
+        "du": "erhitzt",
+        "er_sie_es": "erhitzt",
+        "wir": "erhitzen",
+        "ihr": "erhitzt",
+        "sie_Sie": "erhitzen"
       },
-      "prepositions": [
-        {
-          "prep": "auf",
-          "case": "Dativ",
-          "meaning_ar": "يبرد على حامل الكعك"
-        }
-      ],
-      "examples": [
-        {
-          "de": "Lassen Sie das frisch gebackene Brot auf dem Gitter vollständig abkühlen.",
-          "en": "Let the freshly baked bread cool down completely on the wire rack.",
-          "ar": "اتْرُكِ الخُبْزَ الطَّازَجَ لِيَبْرُدَ تَمَامًا عَلَى الشَّبَكَةِ المَعْدِنِيَّة."
-        }
-      ]
+      "tenses": {
+        "praesens": "er erhitzt",
+        "praeteritum": "er erhitzte",
+        "perfekt": "hat erhitzt"
+      },
+      "preposition": "auf + Dativ (Herd)",
+      "example_ar": "يُسَخِّنُ زَيْتَ الزَّيْتُونِ قَلِيلًا عَلَى نَارٍ هَادِئَةٍ.",
+      "example_de": "Er erhitzt das Öl bei milder Hitze auf dem Herd.",
+      "example_en": "He warms up the oil gently over low heat on the stove.",
+      "image_asset": "verb_cook_017.svg"
     },
     {
-      "id": "verb_cook_018",
-      "infinitive": "erwärmen",
-      "verb_type": "regular",
-      "level": "A1",
-      "meaning_de": "eine kalte Speise schonend auf verzehrbereite Temperatur bringen",
-      "meaning_en": "to warm up, heat gently",
-      "meaning_ar": "يُسَخِّنُ، يُدْفِئُ الطَّعَام",
-      "tenses": {
-        "present": {
-          "ich": "erwärme",
-          "du": "erwärmst",
-          "er_sie_es": "erwärmt",
-          "wir": "erwärmen",
-          "ihr": "erwärmt",
-          "sie_Sie": "erwärmen"
-        },
-        "past_simple": {
-          "ich": "erwärmte",
-          "du": "erwärmtest",
-          "er_sie_es": "erwärmte",
-          "wir": "erwärmten",
-          "ihr": "erwärmtet",
-          "sie_Sie": "erwärmten"
-        },
-        "perfect": {
-          "auxiliary": "haben",
-          "participle_ii": "erwärmt"
-        }
+      "id": "v82_018",
+      "ar": "يُرَتِّبُ المَائِدَةَ / يُزَيِّنُ الصَّحْنَ",
+      "de": "anrichten",
+      "en": "to dress / arrange food",
+      "conjugation": {
+        "ich": "richte an",
+        "du": "richtest an",
+        "er_sie_es": "richtet an",
+        "wir": "richten an",
+        "ihr": "richtet an",
+        "sie_Sie": "richten an"
       },
-      "prepositions": [
-        {
-          "prep": "im",
-          "case": "Dativ",
-          "meaning_ar": "يسخن في القدر"
-        }
-      ],
-      "examples": [
-        {
-          "de": "Er erwärmt die Gemüsesuppe im kleinen Topf für das Mittagessen.",
-          "en": "He warms up the vegetable soup in the small pot for lunch.",
-          "ar": "يُسَخِّنُ حَسَاءَ الخُضْرَاوَاتِ فِي القِدْرِ الصَّغِيرِ لِطَعَامِ الغَدَاء."
-        }
-      ]
+      "tenses": {
+        "praesens": "er richtet an",
+        "praeteritum": "er richtete an",
+        "perfekt": "hat angerichtet"
+      },
+      "preposition": "auf + Dativ (Teller)",
+      "example_ar": "يُرَتِّبُ الإِخْوَةُ أَطْبَاقَ الطَّعَامِ عَلَى مَائِدَةِ الغَدَاءِ بِتَنَاسُقٍ جَمِيلٍ.",
+      "example_de": "Sie richtet das Essen geschmackvoll auf den Tellern an.",
+      "example_en": "She arranges the food tastefully on the plates.",
+      "image_asset": "verb_cook_018.svg"
     },
     {
-      "id": "verb_cook_019",
-      "infinitive": "servieren",
-      "verb_type": "regular",
-      "level": "A2",
-      "meaning_de": "das Essen warm und einladend den wartenden Gästen vorlegen",
-      "meaning_en": "to serve food warmly",
-      "meaning_ar": "يُقَدِّمُ الطَّعَامَ لِلضُّيُوف",
-      "tenses": {
-        "present": {
-          "ich": "serviere",
-          "du": "servierst",
-          "er_sie_es": "serviert",
-          "wir": "servieren",
-          "ihr": "serviert",
-          "sie_Sie": "servieren"
-        },
-        "past_simple": {
-          "ich": "servierte",
-          "du": "serviertest",
-          "er_sie_es": "servierte",
-          "wir": "servierten",
-          "ihr": "serviertet",
-          "sie_Sie": "servierten"
-        },
-        "perfect": {
-          "auxiliary": "haben",
-          "participle_ii": "serviert"
-        }
+      "id": "v82_019",
+      "ar": "يَغْسِلُ الأَوَانِيَ",
+      "de": "abwaschen",
+      "en": "to wash dishes / clean up",
+      "conjugation": {
+        "ich": "wasche ab",
+        "du": "wäschst ab",
+        "er_sie_es": "wäscht ab",
+        "wir": "waschen ab",
+        "ihr": "wascht ab",
+        "sie_Sie": "waschen ab"
       },
-      "prepositions": [
-        {
-          "prep": "mit",
-          "case": "Dativ",
-          "meaning_ar": "يقدم مع الخبز الطازج"
-        }
-      ],
-      "examples": [
-        {
-          "de": "Sie serviert den heißen Eintopf mit frischem Fladenbrot und Oliven.",
-          "en": "She serves the hot stew with fresh flatbread and olives.",
-          "ar": "تُقَدِّمُ الحَسَاءَ السَّاخِنَ مَعَ الخُبْزِ الطَّازَجِ وَالزَّيْتُون."
-        }
-      ]
+      "tenses": {
+        "praesens": "er wäscht ab",
+        "praeteritum": "er wusch ab",
+        "perfekt": "hat abgewaschen"
+      },
+      "preposition": "mit + Dativ",
+      "example_ar": "يَتَعَاوَنُ الأَبْنَاءُ فِي غَسْلِ الأَوَانِي بَعْدَ انْتِهَاءِ الوَجْبَةِ.",
+      "example_de": "Die Kinder waschen das Geschirr nach dem Essen gemeinsam ab.",
+      "example_en": "The children wash the dishes together after the meal.",
+      "image_asset": "verb_cook_019.svg"
     },
     {
-      "id": "verb_cook_020",
-      "infinitive": "genießen",
-      "verb_type": "irregular",
-      "level": "A1",
-      "meaning_de": "die köstliche Speise in heiterer Eintracht und Dankbarkeit verspeisen",
-      "meaning_en": "to savor and enjoy the meal",
-      "meaning_ar": "يَسْتَلِذُّ، يَهْنَأُ بِالطَّعَامِ الطَّيِّب",
-      "tenses": {
-        "present": {
-          "ich": "genieße",
-          "du": "genießt",
-          "er_sie_es": "genießt",
-          "wir": "genießen",
-          "ihr": "genießt",
-          "sie_Sie": "genießen"
-        },
-        "past_simple": {
-          "ich": "genoss",
-          "du": "genossest",
-          "er_sie_es": "genoss",
-          "wir": "genossen",
-          "ihr": "genosst",
-          "sie_Sie": "genossen"
-        },
-        "perfect": {
-          "auxiliary": "haben",
-          "participle_ii": "genossen"
-        }
+      "id": "v82_020",
+      "ar": "يَسْتَمْتِعُ بِالطَّعَامِ الطَّيِّبِ",
+      "de": "genießen",
+      "en": "to savor / enjoy food",
+      "conjugation": {
+        "ich": "genieße",
+        "du": "genießt",
+        "er_sie_es": "genießt",
+        "wir": "genießen",
+        "ihr": "genießt",
+        "sie_Sie": "genießen"
       },
-      "prepositions": [
-        {
-          "prep": "in",
-          "case": "Dativ",
-          "meaning_ar": "يستمتع في كنف الأسرة"
-        }
-      ],
-      "examples": [
-        {
-          "de": "Die ganze Familie genießt das gesegnete Abendessen in herzlicher Eintracht.",
-          "en": "The whole family enjoys the blessed dinner in warm harmony.",
-          "ar": "تَسْتَمْتِعُ الأُسْرَةُ كُلُّهَا بِالعَشَاءِ المُبَارَكِ فِي وِفَاقٍ وَمَوَدَّة."
-        }
-      ]
+      "tenses": {
+        "praesens": "er genießt",
+        "praeteritum": "er genoss",
+        "perfekt": "hat genossen"
+      },
+      "preposition": "in + Dativ (Gemeinschaft)",
+      "example_ar": "تَجْتَمِعُ الأُسْرَةُ لِتَسْتَمْتِعَ بِالطَّعَامِ الطَّيِّبِ وَتَحْمَدَ اللهَ عَلَى النِّعَمِ.",
+      "example_de": "Die ganze Familie genießt das gesunde und schmackhafte Essen.",
+      "example_en": "The whole family enjoys the healthy and appetizing food.",
+      "image_asset": "verb_cook_020.svg"
     }
   ]
 }

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="grad_verb_cook_001_svg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#b45309" />
+      <stop offset="100%" stop-color="#78350f" />
+    </linearGradient>
+    <filter id="shadow_verb_cook_001_svg" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+  <rect width="200" height="200" rx="24" fill="url(#grad_verb_cook_001_svg)" />
+  <circle cx="100" cy="85" r="46" fill="#ffffff" fill-opacity="0.22" filter="url(#shadow_verb_cook_001_svg)" />
+  <rect x="80" y="80" width="40" height="26" rx="4" fill="#ffffff"/><path d="M90 74 Q92 68 90 62 M100 74 Q102 68 100 62 M110 74 Q112 68 110 62" stroke="#ffffff" stroke-width="2.5" fill="none"/>
+  <rect x="15" y="145" width="170" height="42" rx="12" fill="#ffffff" fill-opacity="0.94" filter="url(#shadow_verb_cook_001_svg)" />
+  <text x="100" y="162" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="bold" font-size="11" fill="#1e293b">kochen</text>
+  <text x="100" y="177" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="600" font-size="11" fill="#0f766e">يَطْبُخُ / يَغْلِي</text>
+</svg>
