@@ -1,0 +1,562 @@
+[
+  {
+    "id": "verb_tech_001",
+    "infinitive": "speichern",
+    "level": "B1",
+    "category": "Tech & Digital",
+    "arabic": "يَحْفَظُ المَلَفَّ رَقْمِيًّا",
+    "english": "to save a file",
+    "conjugation": {
+      "praesens": {
+        "ich": "speichere",
+        "du": "peicherst",
+        "er_sie_es": "speichert",
+        "wir": "speichern",
+        "ihr": "speichert",
+        "sie_Sie": "speichern"
+      },
+      "praeteritum": {
+        "ich": "speicherte",
+        "er_sie_es": "speicherte"
+      },
+      "perfekt": "hat gespeichert"
+    },
+    "preposition": "auf + Dat.",
+    "example_de": "Ich speichere das fertige Dokument sicher auf der externen Festplatte.",
+    "example_ar": "أَحْفَظُ الوَثِيقَةَ الجَاهِزَةَ بِأَمَانٍ عَلَى القُرْصِ الصَّلْبِ الخَارِجِيِّ.",
+    "example_en": "I safely save the completed document onto the external hard drive.",
+    "svg_icon": "content/assets/svg/verb_tech_001.svg"
+  },
+  {
+    "id": "verb_tech_002",
+    "infinitive": "herunterladen",
+    "level": "B1",
+    "category": "Tech & Digital",
+    "arabic": "يُنَزِّلُ / يُحَمِّلُ مِنَ الإِنْتِرْنِت",
+    "english": "to download",
+    "conjugation": {
+      "praesens": {
+        "ich": "lade herunter",
+        "du": "lädst herunter",
+        "er_sie_es": "lädt herunter",
+        "wir": "laden herunter",
+        "ihr": "ladet herunter",
+        "sie_Sie": "laden herunter"
+      },
+      "praeteritum": {
+        "ich": "lud herunter",
+        "er_sie_es": "lud herunter"
+      },
+      "perfekt": "hat heruntergeladen"
+    },
+    "preposition": "aus + Dat.",
+    "example_de": "Der Student lädt die nützlichen Lernunterlagen direkt aus dem Universitätsportal herunter.",
+    "example_ar": "يُنَزِّلُ الطَّالِبُ المَوَادَّ التَّعْلِيمِيَّةَ النَّافِعَةَ مُبَاشَرَةً مِنْ بَوَّابَةِ الجَامِعَةِ.",
+    "example_en": "The student downloads the useful study materials directly from the university portal.",
+    "svg_icon": "content/assets/svg/verb_tech_002.svg"
+  },
+  {
+    "id": "verb_tech_003",
+    "infinitive": "hochladen",
+    "level": "B1",
+    "category": "Tech & Digital",
+    "arabic": "يَرْفَعُ المَلَفَّ إِلَى الخَادِمِ",
+    "english": "to upload",
+    "conjugation": {
+      "praesens": {
+        "ich": "lade hoch",
+        "du": "lädst hoch",
+        "er_sie_es": "lädt hoch",
+        "wir": "laden hoch",
+        "ihr": "ladet hoch",
+        "sie_Sie": "laden hoch"
+      },
+      "praeteritum": {
+        "ich": "lud hoch",
+        "er_sie_es": "lud hoch"
+      },
+      "perfekt": "hat hochgeladen"
+    },
+    "preposition": "in + Akk.",
+    "example_de": "Sie lädt ihre Bewerbungsunterlagen vollständig in das Online-Portal hoch.",
+    "example_ar": "تَرْفَعُ مَلَفَّاتِ طَلَبِ التَّوْظِيفِ كَامِلَةً إِلَى البَوَّابَةِ الإِلِكْتَرُونِيَّةِ.",
+    "example_en": "She uploads her application documents completely into the online portal.",
+    "svg_icon": "content/assets/svg/verb_tech_003.svg"
+  },
+  {
+    "id": "verb_tech_004",
+    "infinitive": "installieren",
+    "level": "B1",
+    "category": "Tech & Digital",
+    "arabic": "يُثَبِّتُ البَرْنَامَجَ",
+    "english": "to install software",
+    "conjugation": {
+      "praesens": {
+        "ich": "installiere",
+        "du": "installierst",
+        "er_sie_es": "installiert",
+        "wir": "installieren",
+        "ihr": "installiert",
+        "sie_Sie": "installieren"
+      },
+      "praeteritum": {
+        "ich": "installierte",
+        "er_sie_es": "installierte"
+      },
+      "perfekt": "hat installiert"
+    },
+    "preposition": "auf + Dat.",
+    "example_de": "Wir installieren die praktische App auf dem neuen Tablet.",
+    "example_ar": "نُثَبِّتُ التَّطْبِيقَ العَمَلِيَّ عَلَى الجِهَازِ اللَّوْحِيِّ الجَدِيدِ.",
+    "example_en": "We install the handy app onto the new tablet.",
+    "svg_icon": "content/assets/svg/verb_tech_004.svg"
+  },
+  {
+    "id": "verb_tech_005",
+    "infinitive": "aktualisieren",
+    "level": "B1",
+    "category": "Tech & Digital",
+    "arabic": "يُحَدِّثُ البَرْمَجِيَّاتِ",
+    "english": "to update software",
+    "conjugation": {
+      "praesens": {
+        "ich": "aktualisiere",
+        "du": "aktualisierst",
+        "er_sie_es": "aktualisiert",
+        "wir": "aktualisieren",
+        "ihr": "aktualisiert",
+        "sie_Sie": "aktualisieren"
+      },
+      "praeteritum": {
+        "ich": "aktualisierte",
+        "er_sie_es": "aktualisierte"
+      },
+      "perfekt": "hat aktualisiert"
+    },
+    "preposition": "auf + Akk.",
+    "example_de": "Das System aktualisiert alle Programme automatisch auf die neueste Version.",
+    "example_ar": "يُحَدِّثُ النِّظَامُ جَمِيعَ البَرَامِجِ تِلْقَائِيًّا إِلَى أَرْقَى نُسْخَةٍ.",
+    "example_en": "The system automatically updates all programs to the newest version.",
+    "svg_icon": "content/assets/svg/verb_tech_005.svg"
+  },
+  {
+    "id": "verb_tech_006",
+    "infinitive": "löschen",
+    "level": "A2",
+    "category": "Tech & Digital",
+    "arabic": "يَحْذِفُ المَلَفَّاتِ غَيْرَ المَرْغُوبَةِ",
+    "english": "to delete / erase",
+    "conjugation": {
+      "praesens": {
+        "ich": "lösche",
+        "du": "löschst",
+        "er_sie_es": "löscht",
+        "wir": "löschen",
+        "ihr": "löscht",
+        "sie_Sie": "löschen"
+      },
+      "praeteritum": {
+        "ich": "löschte",
+        "er_sie_es": "löschte"
+      },
+      "perfekt": "hat gelöscht"
+    },
+    "preposition": "aus + Dat.",
+    "example_de": "Ich lösche alte temporäre Dateien aus dem Papierkorb des Rechners.",
+    "example_ar": "أَحْذِفُ المَلَفَّاتِ القَدِيمَةَ المُؤَقَّتَةَ مِنْ سَلَّةِ المَحْذُوفَاتِ فِي الحَاسُوبِ.",
+    "example_en": "I delete old temporary files from the computer's recycle bin.",
+    "svg_icon": "content/assets/svg/verb_tech_006.svg"
+  },
+  {
+    "id": "verb_tech_007",
+    "infinitive": "klicken",
+    "level": "A1",
+    "category": "Tech & Digital",
+    "arabic": "يَنْقُرُ بِالفَأْرَةِ",
+    "english": "to click with mouse",
+    "conjugation": {
+      "praesens": {
+        "ich": "klicke",
+        "du": "klickst",
+        "er_sie_es": "klickt",
+        "wir": "klicken",
+        "ihr": "klickt",
+        "sie_Sie": "klicken"
+      },
+      "praeteritum": {
+        "ich": "klickte",
+        "er_sie_es": "klickte"
+      },
+      "perfekt": "hat geklickt"
+    },
+    "preposition": "auf + Akk.",
+    "example_de": "Klicken Sie bitte auf den blauen Knopf, um den Vorgang zu bestätigen.",
+    "example_ar": "انْقُرْ مِنْ فَضْلِكَ عَلَى الزِّرِّ الأَزْرَقِ لِتَأْكِيدِ الإِجْرَاءِ.",
+    "example_en": "Please click on the blue button to confirm the process.",
+    "svg_icon": "content/assets/svg/verb_tech_007.svg"
+  },
+  {
+    "id": "verb_tech_008",
+    "infinitive": "tippen",
+    "level": "A1",
+    "category": "Tech & Digital",
+    "arabic": "يَطْبَعُ / يَكْتُبُ عَلَى لَوْحَةِ المَفَاتِيحِ",
+    "english": "to type on keyboard",
+    "conjugation": {
+      "praesens": {
+        "ich": "tippe",
+        "du": "tippst",
+        "er_sie_es": "tippt",
+        "wir": "tippen",
+        "ihr": "tippt",
+        "sie_Sie": "tippen"
+      },
+      "praeteritum": {
+        "ich": "tippte",
+        "er_sie_es": "tippte"
+      },
+      "perfekt": "hat getippt"
+    },
+    "preposition": "auf + Dat.",
+    "example_de": "Sie tippt den Text schnell und fehlerfrei auf der Tastatur.",
+    "example_ar": "تَطْبَعُ النَّصَّ بِسُرْعَةٍ وَدُونَ أَخْطَاءٍ عَلَى لَوْحَةِ المَفَاتِيحِ.",
+    "example_en": "She types the text quickly and accurately on the keyboard.",
+    "svg_icon": "content/assets/svg/verb_tech_008.svg"
+  },
+  {
+    "id": "verb_tech_009",
+    "infinitive": "verbinden",
+    "level": "A2",
+    "category": "Tech & Digital",
+    "arabic": "يَصِلُ / يَرْبِطُ بِالشَّبَكَةِ",
+    "english": "to connect to network",
+    "conjugation": {
+      "praesens": {
+        "ich": "verbinde",
+        "du": "verbindest",
+        "er_sie_es": "verbindet",
+        "wir": "verbinden",
+        "ihr": "verbindet",
+        "sie_Sie": "verbinden"
+      },
+      "praeteritum": {
+        "ich": "verband",
+        "er_sie_es": "verband"
+      },
+      "perfekt": "hat verbunden"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Der Laptop verbindet sich automatisch mit dem schnellen Heimnetzwerk.",
+    "example_ar": "يَتَّصِلُ الحَاسُوبُ المَحْمُولُ تِلْقَائِيًّا بِشَبَكَةِ المَنْزِلِ السَّرِيعَةِ.",
+    "example_en": "The laptop connects automatically to the fast home network.",
+    "svg_icon": "content/assets/svg/verb_tech_009.svg"
+  },
+  {
+    "id": "verb_tech_010",
+    "infinitive": "drucken",
+    "level": "A2",
+    "category": "Tech & Digital",
+    "arabic": "يَطْبَعُ عَلَى الوَرَقِ",
+    "english": "to print out",
+    "conjugation": {
+      "praesens": {
+        "ich": "drucke",
+        "du": "druckst",
+        "er_sie_es": "druckt",
+        "wir": "drucken",
+        "ihr": "druckt",
+        "sie_Sie": "drucken"
+      },
+      "praeteritum": {
+        "ich": "druckte",
+        "er_sie_es": "druckte"
+      },
+      "perfekt": "hat gedruckt"
+    },
+    "preposition": "auf + Dat.",
+    "example_de": "Der Drucker druckt den zweiseitigen Bericht sauber auf weißem Papier aus.",
+    "example_ar": "تَطْبَعُ الطَّابِعَةُ التَّقْرِيرَ المُكَوَّنَ مِنْ صَفْحَتَيْنِ بِنَقَاءٍ عَلَى وَرَقٍ أَبْيَضَ.",
+    "example_en": "The printer outputs the two-page report neatly onto white paper.",
+    "svg_icon": "content/assets/svg/verb_tech_010.svg"
+  },
+  {
+    "id": "verb_tech_011",
+    "infinitive": "senden",
+    "level": "A1",
+    "category": "Tech & Digital",
+    "arabic": "يُرْسِلُ رِسَالَةً رَقْمِيَّةً",
+    "english": "to send / transmit",
+    "conjugation": {
+      "praesens": {
+        "ich": "sende",
+        "du": "sendest",
+        "er_sie_es": "sendet",
+        "wir": "senden",
+        "ihr": "sendet",
+        "sie_Sie": "senden"
+      },
+      "praeteritum": {
+        "ich": "sendete",
+        "er_sie_es": "sendete"
+      },
+      "perfekt": "hat gesendet"
+    },
+    "preposition": "an + Akk.",
+    "example_de": "Ich sende die wichtige Nachricht sogleich an meine Kollegen.",
+    "example_ar": "أُرْسِلُ الرِّسَالَةَ المُهِمَّةَ فَوْرًا إِلَى زُمَلَائِي.",
+    "example_en": "I send the important message immediately to my colleagues.",
+    "svg_icon": "content/assets/svg/verb_tech_011.svg"
+  },
+  {
+    "id": "verb_tech_012",
+    "infinitive": "empfangen",
+    "level": "A2",
+    "category": "Tech & Digital",
+    "arabic": "يَسْتَلِمُ / يَسْتَقْبِلُ رِسَالَةً",
+    "english": "to receive messages",
+    "conjugation": {
+      "praesens": {
+        "ich": "empfange",
+        "du": "empfängst",
+        "er_sie_es": "empfängt",
+        "wir": "empfangen",
+        "ihr": "empfangt",
+        "sie_Sie": "empfangen"
+      },
+      "praeteritum": {
+        "ich": "empfing",
+        "er_sie_es": "empfing"
+      },
+      "perfekt": "hat empfangen"
+    },
+    "preposition": "von + Dat.",
+    "example_de": "Wir empfangen täglich interessante Neuigkeiten von unseren Freunden.",
+    "example_ar": "نَسْتَلِمُ يَوْمِيًّا أَخْبَارًا شَيِّقَةً مِنْ أَصْدِقَائِنَا.",
+    "example_en": "We receive interesting updates from our friends daily.",
+    "svg_icon": "content/assets/svg/verb_tech_012.svg"
+  },
+  {
+    "id": "verb_tech_013",
+    "infinitive": "programmieren",
+    "level": "B1",
+    "category": "Tech & Digital",
+    "arabic": "يُبَرْمِجُ تَطْبِيقًا",
+    "english": "to program / code",
+    "conjugation": {
+      "praesens": {
+        "ich": "programmiere",
+        "du": "programmierst",
+        "er_sie_es": "programmiert",
+        "wir": "programmieren",
+        "ihr": "programmiert",
+        "sie_Sie": "programmieren"
+      },
+      "praeteritum": {
+        "ich": "programmierte",
+        "er_sie_es": "programmierte"
+      },
+      "perfekt": "hat programmiert"
+    },
+    "preposition": "in + Dat.",
+    "example_de": "Der Entwickler programmiert eine nützliche App in moderner Programmiersprache.",
+    "example_ar": "يُبَرْمِجُ المُطَوِّرُ تَطْبِيقًا نَافِعًا بِلُغَةِ بَرْمَجَةٍ حَدِيثَةٍ.",
+    "example_en": "The developer codes a useful application in a modern programming language.",
+    "svg_icon": "content/assets/svg/verb_tech_013.svg"
+  },
+  {
+    "id": "verb_tech_014",
+    "infinitive": "sichern",
+    "level": "B1",
+    "category": "Tech & Digital",
+    "arabic": "يَحْمِي وَيَصُونُ البَيَانَاتِ",
+    "english": "to secure / backup",
+    "conjugation": {
+      "praesens": {
+        "ich": "sichere",
+        "du": "sicherst",
+        "er_sie_es": "sichert",
+        "wir": "sichern",
+        "ihr": "sichert",
+        "sie_Sie": "sichern"
+      },
+      "praeteritum": {
+        "ich": "sicherte",
+        "er_sie_es": "sicherte"
+      },
+      "perfekt": "hat gesichert"
+    },
+    "preposition": "vor + Dat.",
+    "example_de": "Wir sichern unsere digitalen Daten gewissenhaft vor Verlust.",
+    "example_ar": "نَحْمِي بَيَانَاتِنَا الرَّقْمِيَّةَ بِضَمِيرٍ حَيٍّ مِنَ الضَّيَاعِ.",
+    "example_en": "We conscientiously secure our digital data against loss.",
+    "svg_icon": "content/assets/svg/verb_tech_014.svg"
+  },
+  {
+    "id": "verb_tech_015",
+    "infinitive": "neustarten",
+    "level": "A2",
+    "category": "Tech & Digital",
+    "arabic": "يُعِيدُ التَّشْغِيلَ",
+    "english": "to reboot / restart",
+    "conjugation": {
+      "praesens": {
+        "ich": "starte neu",
+        "du": "startest neu",
+        "er_sie_es": "startet neu",
+        "wir": "starten neu",
+        "ihr": "startet neu",
+        "sie_Sie": "starten neu"
+      },
+      "praeteritum": {
+        "ich": "startete neu",
+        "er_sie_es": "startete neu"
+      },
+      "perfekt": "hat neugestartet"
+    },
+    "preposition": "nach + Dat.",
+    "example_de": "Nach dem großen Update startet der Computer reibungslos neu.",
+    "example_ar": "بَعْدَ التَّحْدِيثِ الكَبِيرِ يُعِيدُ الحَاسُوبُ التَّشْغِيلَ بِسَلَاسَةٍ.",
+    "example_en": "After the major update, the computer restarts smoothly.",
+    "svg_icon": "content/assets/svg/verb_tech_015.svg"
+  },
+  {
+    "id": "verb_tech_016",
+    "infinitive": "durchsuchen",
+    "level": "A2",
+    "category": "Tech & Digital",
+    "arabic": "يَبْحَثُ فِي المَلَفَّاتِ",
+    "english": "to search files",
+    "conjugation": {
+      "praesens": {
+        "ich": "durchsuche",
+        "du": "durchsuchst",
+        "er_sie_es": "durchsucht",
+        "wir": "durchsuchen",
+        "ihr": "durchsucht",
+        "sie_Sie": "durchsuchen"
+      },
+      "praeteritum": {
+        "ich": "durchsuchte",
+        "er_sie_es": "durchsuchte"
+      },
+      "perfekt": "hat durchsucht"
+    },
+    "preposition": "nach + Dat.",
+    "example_de": "Mit der Suchfunktion durchsuche ich den Ordner schnell nach dem Dokument.",
+    "example_ar": "بِخَاصِّيَّةِ البَحْثِ أُفَتِّشُ فِي المُجَلَّدِ سَرِيعًا عَنِ الوَثِيقَةِ.",
+    "example_en": "Using search, I quickly search the folder for the document.",
+    "svg_icon": "content/assets/svg/verb_tech_016.svg"
+  },
+  {
+    "id": "verb_tech_017",
+    "infinitive": "kopieren",
+    "level": "A1",
+    "category": "Tech & Digital",
+    "arabic": "يَنْسَخُ النُّصُوصَ أَوِ المَلَفَّاتِ",
+    "english": "to copy text / files",
+    "conjugation": {
+      "praesens": {
+        "ich": "kopiere",
+        "du": "kopierst",
+        "er_sie_es": "kopiert",
+        "wir": "kopieren",
+        "ihr": "kopiert",
+        "sie_Sie": "kopieren"
+      },
+      "praeteritum": {
+        "ich": "kopierte",
+        "er_sie_es": "kopierte"
+      },
+      "perfekt": "hat kopiert"
+    },
+    "preposition": "in + Akk.",
+    "example_de": "Ich kopiere den Textabschnitt mit der Tastenkombination in die Zwischenablage.",
+    "example_ar": "أَنْسَخُ الفِقْرَةَ بِاخْتِصَارِ لَوْحَةِ المَفَاتِيحِ إِلَى الحَافِظَةِ.",
+    "example_en": "I copy the text passage with the keyboard shortcut into the clipboard.",
+    "svg_icon": "content/assets/svg/verb_tech_017.svg"
+  },
+  {
+    "id": "verb_tech_018",
+    "infinitive": "einfügen",
+    "level": "A1",
+    "category": "Tech & Digital",
+    "arabic": "يُلْصِقُ المَنْسُوخَ",
+    "english": "to paste content",
+    "conjugation": {
+      "praesens": {
+        "ich": "füge ein",
+        "du": "fügst ein",
+        "er_sie_es": "fügt ein",
+        "wir": "fügen ein",
+        "ihr": "fügt ein",
+        "sie_Sie": "fügen ein"
+      },
+      "praeteritum": {
+        "ich": "fügte ein",
+        "er_sie_es": "fügte ein"
+      },
+      "perfekt": "hat eingefügt"
+    },
+    "preposition": "in + Akk.",
+    "example_de": "Er fügt das schöne Bild passend in das Dokument ein.",
+    "example_ar": "يُلْصِقُ الصُّورَةَ الجَمِيلَةَ فِي مَوْضِعِهَا المُنَاسِبِ فِي الوَثِيقَةِ.",
+    "example_en": "He neatly pastes the nice image into the document.",
+    "svg_icon": "content/assets/svg/verb_tech_018.svg"
+  },
+  {
+    "id": "verb_tech_019",
+    "infinitive": "teilen",
+    "level": "A2",
+    "category": "Tech & Digital",
+    "arabic": "يُشَارِكُ الرَّابِطَ أَوِ المَلَفَّ",
+    "english": "to share link / file",
+    "conjugation": {
+      "praesens": {
+        "ich": "teile",
+        "du": "teilst",
+        "er_sie_es": "teilt",
+        "wir": "teilen",
+        "ihr": "teilt",
+        "sie_Sie": "teilen"
+      },
+      "praeteritum": {
+        "ich": "teilte",
+        "er_sie_es": "teilte"
+      },
+      "perfekt": "hat geteilt"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Wir teilen den nützlichen Lernlink gerne mit unseren Mitschülern.",
+    "example_ar": "نُشَارِكُ رَابِطَ التَّعَلُّمِ النَّافِعَ بِسُرُورٍ مَعَ زُمَلَائِنَا فِي الدِّرَاسَةِ.",
+    "example_en": "We gladly share the helpful learning link with our classmates.",
+    "svg_icon": "content/assets/svg/verb_tech_019.svg"
+  },
+  {
+    "id": "verb_tech_020",
+    "infinitive": "konfigurieren",
+    "level": "B1",
+    "category": "Tech & Digital",
+    "arabic": "يَضْبِطُ إِعْدَادَاتِ النِّظَامِ",
+    "english": "to configure settings",
+    "conjugation": {
+      "praesens": {
+        "ich": "konfiguriere",
+        "du": "konfigurierst",
+        "er_sie_es": "konfiguriert",
+        "wir": "konfigurieren",
+        "ihr": "konfiguriert",
+        "sie_Sie": "konfigurieren"
+      },
+      "praeteritum": {
+        "ich": "konfigurierte",
+        "er_sie_es": "konfigurierte"
+      },
+      "perfekt": "hat konfiguriert"
+    },
+    "preposition": "nach + Dat.",
+    "example_de": "Der Benutzer konfiguriert die Datenschutzeinstellungen nach seinen persönlichen Wünschen.",
+    "example_ar": "يَضْبِطُ المُسْتَخْدِمُ إِعْدَادَاتِ الخُصُوصِيَّةِ وِفْقًا لِرَغَبَاتِهِ الشَّخْصِيَّةِ.",
+    "example_en": "The user configures privacy settings according to personal preferences.",
+    "svg_icon": "content/assets/svg/verb_tech_020.svg"
+  }
+]
