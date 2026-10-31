@@ -1,0 +1,562 @@
+[
+  {
+    "id": "verb_pol_001",
+    "infinitive": "grüßen",
+    "level": "A1",
+    "category": "Polite Dialogue",
+    "arabic": "يُحَيِّي / يُسَلِّمُ عَلَى",
+    "english": "to greet warmly",
+    "conjugation": {
+      "praesens": {
+        "ich": "grüße",
+        "du": "grüßt",
+        "er_sie_es": "grüßt",
+        "wir": "grüßen",
+        "ihr": "grüßt",
+        "sie_Sie": "grüßen"
+      },
+      "praeteritum": {
+        "ich": "grüßte",
+        "er_sie_es": "grüßte"
+      },
+      "perfekt": "hat gegrüßt"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Der Nachbar grüßt morgens stets mit einem freundlichen Lächeln.",
+    "example_ar": "يُحَيِّي الجَارُ صَبَاحًا دَائِمًا بِابْتِسَامَةٍ طَيِّبَةٍ.",
+    "example_en": "The neighbor always greets in the morning with a pleasant smile.",
+    "svg_icon": "content/assets/svg/verb_polite_001.svg"
+  },
+  {
+    "id": "verb_pol_002",
+    "infinitive": "verabschieden",
+    "level": "A1",
+    "category": "Polite Dialogue",
+    "arabic": "يُوَدِّعُ بِأَدَبٍ",
+    "english": "to say goodbye politely",
+    "conjugation": {
+      "praesens": {
+        "ich": "verabschiede mich",
+        "du": "verabschiedest dich",
+        "er_sie_es": "verabschiedet sich",
+        "wir": "verabschieden uns",
+        "ihr": "verabschiedet euch",
+        "sie_Sie": "verabschieden sich"
+      },
+      "praeteritum": {
+        "ich": "verabschiedete mich",
+        "er_sie_es": "verabschiedete sich"
+      },
+      "perfekt": "hat sich verabschiedet"
+    },
+    "preposition": "von + Dat.",
+    "example_de": "Wir verabschieden uns herzlich von unseren lieben Gästen.",
+    "example_ar": "نُوَدِّعُ ضُيُوفَنَا الأَعِزَّاءَ بِكُلِّ مَوَدَّةٍ.",
+    "example_en": "We bid a warm farewell to our dear guests.",
+    "svg_icon": "content/assets/svg/verb_polite_002.svg"
+  },
+  {
+    "id": "verb_pol_003",
+    "infinitive": "danken",
+    "level": "A1",
+    "category": "Polite Dialogue",
+    "arabic": "يَشْكُرُ",
+    "english": "to thank sincerely",
+    "conjugation": {
+      "praesens": {
+        "ich": "danke",
+        "du": "dankst",
+        "er_sie_es": "dankt",
+        "wir": "danken",
+        "ihr": "dankt",
+        "sie_Sie": "danken"
+      },
+      "praeteritum": {
+        "ich": "dankte",
+        "er_sie_es": "dankte"
+      },
+      "perfekt": "hat gedankt"
+    },
+    "preposition": "für + Akk.",
+    "example_de": "Ich danke dir von Herzen für deine wertvolle Hilfe.",
+    "example_ar": "أَشْكُرُكَ مِنْ صَمِيمِ القَلْبِ عَلَى مُسَاعَدَتِكَ القَيِّمَةِ.",
+    "example_en": "I thank you from the bottom of my heart for your valuable assistance.",
+    "svg_icon": "content/assets/svg/verb_polite_003.svg"
+  },
+  {
+    "id": "verb_pol_004",
+    "infinitive": "bitten",
+    "level": "A1",
+    "category": "Polite Dialogue",
+    "arabic": "يَرْجُو / يَطْلُبُ بِلَبَاقَةٍ",
+    "english": "to request politely",
+    "conjugation": {
+      "praesens": {
+        "ich": "bitte",
+        "du": "bittest",
+        "er_sie_es": "bittet",
+        "wir": "bitten",
+        "ihr": "bittet",
+        "sie_Sie": "bitten"
+      },
+      "praeteritum": {
+        "ich": "bat",
+        "er_sie_es": "bat"
+      },
+      "perfekt": "hat gebeten"
+    },
+    "preposition": "um + Akk.",
+    "example_de": "Darf ich Sie höflich um eine kurze Auskunft bitten?",
+    "example_ar": "هَلْ لِي أَنْ أَرْجُوَ مِنْكُمْ بِلُطْفٍ مَعْلُومَةً قَصِيرَةً؟",
+    "example_en": "May I politely ask you for a brief piece of information?",
+    "svg_icon": "content/assets/svg/verb_polite_004.svg"
+  },
+  {
+    "id": "verb_pol_005",
+    "infinitive": "entschuldigen",
+    "level": "A1",
+    "category": "Polite Dialogue",
+    "arabic": "يَعْتَذِرُ",
+    "english": "to apologize / excuse oneself",
+    "conjugation": {
+      "praesens": {
+        "ich": "entschuldige mich",
+        "du": "entschuldigst dich",
+        "er_sie_es": "entschuldigt sich",
+        "wir": "entschuldigen uns",
+        "ihr": "entschuldigt euch",
+        "sie_Sie": "entschuldigen sich"
+      },
+      "praeteritum": {
+        "ich": "entschuldigte mich",
+        "er_sie_es": "entschuldigte sich"
+      },
+      "perfekt": "hat sich entschuldigt"
+    },
+    "preposition": "für + Akk.",
+    "example_de": "Er entschuldigt sich aufrichtig für das kleine Versehen.",
+    "example_ar": "يَعْتَذِرُ بِصِدْقٍ عَنِ السَّهْوِ البَسِيطِ.",
+    "example_en": "He sincerely apologizes for the minor oversight.",
+    "svg_icon": "content/assets/svg/verb_polite_005.svg"
+  },
+  {
+    "id": "verb_pol_006",
+    "infinitive": "lächeln",
+    "level": "A1",
+    "category": "Polite Dialogue",
+    "arabic": "يَبْتَسِمُ",
+    "english": "to smile",
+    "conjugation": {
+      "praesens": {
+        "ich": "lächle",
+        "du": "lächelst",
+        "er_sie_es": "lächelt",
+        "wir": "lächeln",
+        "ihr": "lächelt",
+        "sie_Sie": "lächeln"
+      },
+      "praeteritum": {
+        "ich": "lächelte",
+        "er_sie_es": "lächelte"
+      },
+      "perfekt": "hat gelächelt"
+    },
+    "preposition": "über + Akk.",
+    "example_de": "Das fröhliche Kind lächelt freundlich über die schöne Überraschung.",
+    "example_ar": "يَبْتَسِمُ الطِّفْلُ البَهِيجُ بِوُدٍّ لِلمُفَاجَأَةِ الجَمِيلَةِ.",
+    "example_en": "The cheerful child smiles kindly at the delightful surprise.",
+    "svg_icon": "content/assets/svg/verb_polite_006.svg"
+  },
+  {
+    "id": "verb_pol_007",
+    "infinitive": "einladen",
+    "level": "A1",
+    "category": "Polite Dialogue",
+    "arabic": "يَدْعُو ضَيْفًا",
+    "english": "to invite",
+    "conjugation": {
+      "praesens": {
+        "ich": "lade ein",
+        "du": "lädst ein",
+        "er_sie_es": "lädt ein",
+        "wir": "laden ein",
+        "ihr": "ladet ein",
+        "sie_Sie": "laden ein"
+      },
+      "praeteritum": {
+        "ich": "lud ein",
+        "er_sie_es": "lud ein"
+      },
+      "perfekt": "hat eingeladen"
+    },
+    "preposition": "zu + Dat.",
+    "example_de": "Wir laden unsere Nachbarn herzlich zu Tee und Gebäck ein.",
+    "example_ar": "نَدْعُو جِيرَانَنَا بِحَرَارَةٍ لِتَنَاوُلِ الشَّايِ وَالحَلْوَى.",
+    "example_en": "We warmly invite our neighbors for tea and pastries.",
+    "svg_icon": "content/assets/svg/verb_polite_007.svg"
+  },
+  {
+    "id": "verb_pol_008",
+    "infinitive": "bewirten",
+    "level": "A2",
+    "category": "Polite Dialogue",
+    "arabic": "يُكْرِمُ الضَّيْفَ بِالطَّعَامِ",
+    "english": "to host / entertain guests generously",
+    "conjugation": {
+      "praesens": {
+        "ich": "bewirte",
+        "du": "bewirtest",
+        "er_sie_es": "bewirtet",
+        "wir": "bewirten",
+        "ihr": "bewirtet",
+        "sie_Sie": "bewirten"
+      },
+      "praeteritum": {
+        "ich": "bewirtete",
+        "er_sie_es": "bewirtete"
+      },
+      "perfekt": "hat bewirtet"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Der großzügige Gastgeber bewirtet die Anwesenden mit köstlichen Speisen.",
+    "example_ar": "يُكْرِمُ المُضِيفُ الكَرِيمُ الحَاضِرِينَ بِأَطْيَبِ الطَّعَامِ.",
+    "example_en": "The generous host entertains the attendees with delicious food.",
+    "svg_icon": "content/assets/svg/verb_polite_008.svg"
+  },
+  {
+    "id": "verb_pol_009",
+    "infinitive": "schenken",
+    "level": "A1",
+    "category": "Polite Dialogue",
+    "arabic": "يُهْدِي تَهَادِيًا",
+    "english": "to gift / give a present",
+    "conjugation": {
+      "praesens": {
+        "ich": "schenke",
+        "du": "schenkst",
+        "er_sie_es": "schenkt",
+        "wir": "schenken",
+        "ihr": "schenkt",
+        "sie_Sie": "schenken"
+      },
+      "praeteritum": {
+        "ich": "schenkte",
+        "er_sie_es": "schenkte"
+      },
+      "perfekt": "hat geschenkt"
+    },
+    "preposition": "zu + Dat.",
+    "example_de": "Er schenkt seinem Freund ein wertvolles Buch zum Geburtstag.",
+    "example_ar": "يُهْدِي صَدِيقَهُ كِتَابًا قَيِّمًا بِمُنَاسَبَةِ يَوْمِ مَوْلِدِهِ.",
+    "example_en": "He gifts his friend a valuable book for his birthday.",
+    "svg_icon": "content/assets/svg/verb_polite_009.svg"
+  },
+  {
+    "id": "verb_pol_010",
+    "infinitive": "vertrauen",
+    "level": "A2",
+    "category": "Polite Dialogue",
+    "arabic": "يَثِقُ فِي / يَأْتَمِنُ",
+    "english": "to trust",
+    "conjugation": {
+      "praesens": {
+        "ich": "vertraue",
+        "du": "vertraust",
+        "er_sie_es": "vertraut",
+        "wir": "vertrauen",
+        "ihr": "vertraut",
+        "sie_Sie": "vertrauen"
+      },
+      "praeteritum": {
+        "ich": "vertraute",
+        "er_sie_es": "vertraute"
+      },
+      "perfekt": "hat vertraut"
+    },
+    "preposition": "auf + Akk.",
+    "example_de": "Gute Freunde vertrauen aufeinander in allen Lebenslagen.",
+    "example_ar": "الأَصْدِقَاءُ الأَوْفِيَاءُ يَثِقُ بَعْضُهُمْ بِبَعْضٍ فِي جَمِيعِ الأَحْوَالِ.",
+    "example_en": "Good friends trust each other in all circumstances of life.",
+    "svg_icon": "content/assets/svg/verb_polite_010.svg"
+  },
+  {
+    "id": "verb_pol_011",
+    "infinitive": "raten",
+    "level": "A2",
+    "category": "Polite Dialogue",
+    "arabic": "يَنْصَحُ بِمَوَدَّةٍ",
+    "english": "to advise / counsel",
+    "conjugation": {
+      "praesens": {
+        "ich": "rate",
+        "du": "rätst",
+        "er_sie_es": "rät",
+        "wir": "raten",
+        "ihr": "ratet",
+        "sie_Sie": "raten"
+      },
+      "praeteritum": {
+        "ich": "riet",
+        "er_sie_es": "riet"
+      },
+      "perfekt": "hat geraten"
+    },
+    "preposition": "zu + Dat.",
+    "example_de": "Der erfahrene Lehrer rät den Schülern zu täglicher Wiederholung.",
+    "example_ar": "يَنْصَحُ المُعَلِّمُ الخَبِيرُ التَّلَامِيذَ بِالمُرَاجَعَةِ اليَوْمِيَّةِ.",
+    "example_en": "The experienced teacher advises students to do daily review.",
+    "svg_icon": "content/assets/svg/verb_polite_011.svg"
+  },
+  {
+    "id": "verb_pol_012",
+    "infinitive": "versprechen",
+    "level": "A2",
+    "category": "Polite Dialogue",
+    "arabic": "يَعِدُ بِصِدْقٍ",
+    "english": "to promise sincerely",
+    "conjugation": {
+      "praesens": {
+        "ich": "verspreche",
+        "du": "versprichst",
+        "er_sie_es": "verspricht",
+        "wir": "versprechen",
+        "ihr": "versprecht",
+        "sie_Sie": "versprechen"
+      },
+      "praeteritum": {
+        "ich": "versprach",
+        "er_sie_es": "versprach"
+      },
+      "perfekt": "hat versprochen"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Ich verspreche dir, mein Wort stets gewissenhaft zu halten.",
+    "example_ar": "أَعِدُكَ أَنْ أَفِيَ بِكَلِمَتِي دَائِمًا بِأَمَانَةٍ.",
+    "example_en": "I promise you to always keep my word conscientiously.",
+    "svg_icon": "content/assets/svg/verb_polite_012.svg"
+  },
+  {
+    "id": "verb_pol_013",
+    "infinitive": "verzeihen",
+    "level": "A2",
+    "category": "Polite Dialogue",
+    "arabic": "يَصْفَحُ وَيَعْفُو",
+    "english": "to forgive magnanimously",
+    "conjugation": {
+      "praesens": {
+        "ich": "verzeihe",
+        "du": "verzeihst",
+        "er_sie_es": "verzeiht",
+        "wir": "verzeihen",
+        "ihr": "verzeiht",
+        "sie_Sie": "verzeihen"
+      },
+      "praeteritum": {
+        "ich": "verzieh",
+        "er_sie_es": "verzieh"
+      },
+      "perfekt": "hat verziehen"
+    },
+    "preposition": "von + Dat.",
+    "example_de": "Großmütige Menschen verzeihen kleine Fehler von ganzem Herzen.",
+    "example_ar": "ذَوُو النُّفُوسِ الكَبِيرَةِ يَصْفَحُونَ عَنِ الزَّلَّاتِ الصَّغِيرَةِ مِنْ صَمِيمِ قُلُوبِهِمْ.",
+    "example_en": "Magnanimous people forgive small mistakes from the bottom of their hearts.",
+    "svg_icon": "content/assets/svg/verb_polite_013.svg"
+  },
+  {
+    "id": "verb_pol_014",
+    "infinitive": "trösten",
+    "level": "A2",
+    "category": "Polite Dialogue",
+    "arabic": "يُوَاسِي وَيُخَفِّفُ الحُزْنَ",
+    "english": "to comfort / console",
+    "conjugation": {
+      "praesens": {
+        "ich": "tröste",
+        "du": "tröstest",
+        "er_sie_es": "tröstet",
+        "wir": "trösten",
+        "ihr": "tröstet",
+        "sie_Sie": "trösten"
+      },
+      "praeteritum": {
+        "ich": "tröstete",
+        "er_sie_es": "tröstete"
+      },
+      "perfekt": "hat getröstet"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Die Mutter tröstet das weinende Kind mit warmen und sanften Worten.",
+    "example_ar": "تُوَاسِي الأُمُّ الطِّفْلَ البَاكِيَ بِكَلِمَاتٍ دَافِئَةٍ رَقِيقَةٍ.",
+    "example_en": "The mother consoles the crying child with warm, gentle words.",
+    "svg_icon": "content/assets/svg/verb_polite_014.svg"
+  },
+  {
+    "id": "verb_pol_015",
+    "infinitive": "loben",
+    "level": "A2",
+    "category": "Polite Dialogue",
+    "arabic": "يَمْدَحُ وَيُثْنِي خَيْرًا",
+    "english": "to praise / commend",
+    "conjugation": {
+      "praesens": {
+        "ich": "lobe",
+        "du": "lobst",
+        "er_sie_es": "lobt",
+        "wir": "loben",
+        "ihr": "lobt",
+        "sie_Sie": "loben"
+      },
+      "praeteritum": {
+        "ich": "lobte",
+        "er_sie_es": "lobte"
+      },
+      "perfekt": "hat gelobt"
+    },
+    "preposition": "für + Akk.",
+    "example_de": "Der Meister lobt den fleißigen Lehrling für seine vorzügliche Arbeit.",
+    "example_ar": "يُثْنِي الأُسْتَاذُ عَلَى المُتَدَرِّبِ المُجْتَهِدِ لِعَمَلِهِ المُمْتَازِ.",
+    "example_en": "The master praises the diligent apprentice for his excellent work.",
+    "svg_icon": "content/assets/svg/verb_polite_015.svg"
+  },
+  {
+    "id": "verb_pol_016",
+    "infinitive": "schätzen",
+    "level": "A2",
+    "category": "Polite Dialogue",
+    "arabic": "يُقَدِّرُ وَيَحْتَرِمُ",
+    "english": "to appreciate / esteem",
+    "conjugation": {
+      "praesens": {
+        "ich": "schätze",
+        "du": "schätzt",
+        "er_sie_es": "schätzt",
+        "wir": "schätzen",
+        "ihr": "schätzt",
+        "sie_Sie": "schätzen"
+      },
+      "praeteritum": {
+        "ich": "schätzte",
+        "er_sie_es": "schätzte"
+      },
+      "perfekt": "hat geschätzt"
+    },
+    "preposition": "an + Dat.",
+    "example_de": "Ich schätze an meinem Kollegen seine Aufrichtigkeit und Hilfsbereitschaft.",
+    "example_ar": "أُقَدِّرُ فِي زَمِيلِي صِدْقَهُ وَمُرُوءَتَهُ فِي مُسَاعَدَةِ الغَيْرِ.",
+    "example_en": "I appreciate in my colleague his sincerity and helpfulness.",
+    "svg_icon": "content/assets/svg/verb_polite_016.svg"
+  },
+  {
+    "id": "verb_pol_017",
+    "infinitive": "austauschen",
+    "level": "A2",
+    "category": "Polite Dialogue",
+    "arabic": "يَتَبَادَلُ الآرَاءَ وَالأَفْكَارَ",
+    "english": "to exchange ideas amicably",
+    "conjugation": {
+      "praesens": {
+        "ich": "tausche aus",
+        "du": "tauschst aus",
+        "er_sie_es": "tauscht aus",
+        "wir": "tauschen aus",
+        "ihr": "tauscht aus",
+        "sie_Sie": "tauschen aus"
+      },
+      "praeteritum": {
+        "ich": "tauschte aus",
+        "er_sie_es": "tauschte aus"
+      },
+      "perfekt": "hat ausgetauscht"
+    },
+    "preposition": "über + Akk.",
+    "example_de": "Bei einer Tasse Tee tauschen wir Gedanken über das Lernen aus.",
+    "example_ar": "مَعَ كُوبٍ مِنَ الشَّايِ نَتَبَادَلُ الأَفْكَارَ حَوْلَ التَّعَلُّمِ.",
+    "example_en": "Over a cup of tea, we exchange thoughts on learning.",
+    "svg_icon": "content/assets/svg/verb_polite_017.svg"
+  },
+  {
+    "id": "verb_pol_018",
+    "infinitive": "zuhören",
+    "level": "A1",
+    "category": "Polite Dialogue",
+    "arabic": "يُنْصِتُ بِاحْتِرَامٍ",
+    "english": "to listen respectfully",
+    "conjugation": {
+      "praesens": {
+        "ich": "höre zu",
+        "du": "hörst zu",
+        "er_sie_es": "hört zu",
+        "wir": "hören zu",
+        "ihr": "hört zu",
+        "sie_Sie": "hören zu"
+      },
+      "praeteritum": {
+        "ich": "hörte zu",
+        "er_sie_es": "hörte zu"
+      },
+      "perfekt": "hat zugehört"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Wer aufmerksam zuhört, versteht die Anliegen anderer Menschen tief.",
+    "example_ar": "مَنْ يُنْصِتْ بِانْتِبَاهٍ يَفْهَمْ مَقَاصِدَ الآخَرِينَ بِعُمْقٍ.",
+    "example_en": "Whoever listens attentively understands others' concerns deeply.",
+    "svg_icon": "content/assets/svg/verb_polite_018.svg"
+  },
+  {
+    "id": "verb_pol_019",
+    "infinitive": "vereinbaren",
+    "level": "A2",
+    "category": "Polite Dialogue",
+    "arabic": "يَتَّفِقُ عَلَى لِقَاءٍ بِرِضَا",
+    "english": "to arrange an appointment amiably",
+    "conjugation": {
+      "praesens": {
+        "ich": "vereinbare",
+        "du": "vereinbarst",
+        "er_sie_es": "vereinbart",
+        "wir": "vereinbaren",
+        "ihr": "vereinbart",
+        "sie_Sie": "vereinbaren"
+      },
+      "praeteritum": {
+        "ich": "vereinbarte",
+        "er_sie_es": "vereinbarte"
+      },
+      "perfekt": "hat vereinbart"
+    },
+    "preposition": "für + Akk.",
+    "example_de": "Wir vereinbaren einen passenden Termin für den nächsten Besuch.",
+    "example_ar": "نَتَّفِقُ عَلَى مَوْعِدٍ مُنَاسِبٍ لِلزِّيَارَةِ القَادِمَةِ.",
+    "example_en": "We arrange a suitable time for the next visit.",
+    "svg_icon": "content/assets/svg/verb_polite_019.svg"
+  },
+  {
+    "id": "verb_pol_020",
+    "infinitive": "begleiten",
+    "level": "A2",
+    "category": "Polite Dialogue",
+    "arabic": "يُرَافِقُ وَيُشَيِّعُ بِأَدَبٍ",
+    "english": "to accompany / see someone off",
+    "conjugation": {
+      "praesens": {
+        "ich": "begleite",
+        "du": "begleitest",
+        "er_sie_es": "begleitet",
+        "wir": "begleiten",
+        "ihr": "begleitet",
+        "sie_Sie": "begleiten"
+      },
+      "praeteritum": {
+        "ich": "begleitete",
+        "er_sie_es": "begleitete"
+      },
+      "perfekt": "hat begleitet"
+    },
+    "preposition": "bis + Akk.",
+    "example_de": "Der Gastgeber begleitet den Besucher höflich bis zur Gartentür.",
+    "example_ar": "يُرَافِقُ المُضِيفُ الزَّائِرَ بِأَدَبٍ حَتَّى بَابِ الحَدِيقَةِ.",
+    "example_en": "The host politely accompanies the visitor to the garden gate.",
+    "svg_icon": "content/assets/svg/verb_polite_020.svg"
+  }
+]
