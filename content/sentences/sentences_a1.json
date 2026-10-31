@@ -1,5 +1,5 @@
 {
-  "count": 790,
+  "count": 810,
   "sentences": [
     {
       "id": "sent_001",
@@ -15103,6 +15103,193 @@
       "concept_refs": [
         "v086",
         "c154_001"
+      ]
+    },
+    {
+      "id": "s811",
+      "german": "Ich fädle den Faden in die Nadel ein.",
+      "arabic": "أَنَا أُدْخِلُ الْخَيْطَ فِي الْإِبْرَةِ.",
+      "english": "I thread the thread into the needle.",
+      "concept_refs": [
+        "c155_001",
+        "c155_002"
+      ]
+    },
+    {
+      "id": "s812",
+      "german": "Der Stoff aus reiner Baumwolle fühlt sich weich an.",
+      "arabic": "الْقُمَاشُ الْمَصْنُوعُ مِنَ الْقُطْنِ الصَّافِي مَلْمَسُهُ نَاعِمٌ.",
+      "english": "The pure cotton fabric feels soft.",
+      "concept_refs": [
+        "c155_003",
+        "c155_011"
+      ]
+    },
+    {
+      "id": "s813",
+      "german": "Schneide den Stoff vorsichtig mit der Schere.",
+      "arabic": "اقْطَعِ الْقُمَاشَ بِحَذَرٍ بِالْمِقَصِّ.",
+      "english": "Cut the fabric carefully with the scissors.",
+      "concept_refs": [
+        "c155_003",
+        "c155_004"
+      ]
+    },
+    {
+      "id": "s814",
+      "german": "Die Nähmaschine arbeitet sehr schnell und leise.",
+      "arabic": "آلَةُ الْخِيَاطَةِ تَعْمَلُ بِسُرْعَةٍ وَهُدُوءٍ.",
+      "english": "The sewing machine works very fast and quietly.",
+      "concept_refs": [
+        "c155_005"
+      ]
+    },
+    {
+      "id": "s815",
+      "german": "Ein kleiner Knopf fehlt an meinem Hemd.",
+      "arabic": "زِرٌّ صَغِيرٌ مَفْقُودٌ مِنْ قَمِيصِي.",
+      "english": "A small button is missing from my shirt.",
+      "concept_refs": [
+        "c155_006"
+      ]
+    },
+    {
+      "id": "s816",
+      "german": "Der Reißverschluss der Jacke schließt gut.",
+      "arabic": "سَحَّابُ السُّتْرَةِ يُغْلَقُ بِشَكْلٍ جَيِّدٍ.",
+      "english": "The jacket's zipper closes well.",
+      "concept_refs": [
+        "c155_007"
+      ]
+    },
+    {
+      "id": "s817",
+      "german": "Der Fingerhut schützt den Finger beim Nähen.",
+      "arabic": "الْكُشْتُبَانُ يَحْمِي الْإِصْبَعَ أَثْنَاءَ الْخِيَاطَةِ.",
+      "english": "The thimble protects the finger while sewing.",
+      "concept_refs": [
+        "c155_008"
+      ]
+    },
+    {
+      "id": "s818",
+      "german": "Sie misst die Taille mit dem Maßband.",
+      "arabic": "هِيَ تَقِيسُ الْخَصْرَ بِشَرِيطِ الْقِيَاسِ.",
+      "english": "She measures the waist with the tape measure.",
+      "concept_refs": [
+        "c155_009"
+      ]
+    },
+    {
+      "id": "s819",
+      "german": "Fixiere die Stoffteile mit Stecknadeln.",
+      "arabic": "ثَبِّتْ قِطَعَ الْقُمَاشِ بِالدَّبَابِيسِ.",
+      "english": "Fasten the fabric pieces with pins.",
+      "concept_refs": [
+        "c155_010",
+        "c155_003"
+      ]
+    },
+    {
+      "id": "s820",
+      "german": "Wolle hält im kalten Winter sehr warm.",
+      "arabic": "الصُّوفُ يَمْنَحُ دِفْئًا كَبِيرًا فِي الشِّتَاءِ الْبَارِدِ.",
+      "english": "Wool keeps very warm in cold winter.",
+      "concept_refs": [
+        "c155_012"
+      ]
+    },
+    {
+      "id": "s821",
+      "german": "Dieses Halstuch ist aus echter Seide.",
+      "arabic": "هَذَا الْوِشَاحُ مَصْنُوعٌ مِنَ الْحَرِيرِ الْأَصْلِيِّ.",
+      "english": "This scarf is made of genuine silk.",
+      "concept_refs": [
+        "c155_013"
+      ]
+    },
+    {
+      "id": "s822",
+      "german": "Leinen ist ein idealer Stoff für den Sommer.",
+      "arabic": "الْكَتَّانُ قُمَاشٌ مِثَالِيٌّ لِفَصْلِ الصَّيْفِ.",
+      "english": "Linen is an ideal fabric for summer.",
+      "concept_refs": [
+        "c155_014",
+        "c155_003"
+      ]
+    },
+    {
+      "id": "s823",
+      "german": "Jeder Stich muss gleichmäßig sein.",
+      "arabic": "كُلُّ غُرْزَةٍ يَجِبُ أَنْ تَكُونَ مُتَسَاوِيَةً.",
+      "english": "Every stitch must be even.",
+      "concept_refs": [
+        "c155_015"
+      ]
+    },
+    {
+      "id": "s824",
+      "german": "Die Handnaht erfordert viel Konzentration.",
+      "arabic": "الْخِيَاطَةُ الْيَدَوِيَّةُ تَتَطَلَّبُ كَثِيرًا مِنَ التَّرْكِيزِ.",
+      "english": "Hand sewing requires a lot of concentration.",
+      "concept_refs": [
+        "c155_016"
+      ]
+    },
+    {
+      "id": "s825",
+      "german": "Die Schneiderin näht den Saum der Hose kürzer.",
+      "arabic": "الْخَيَّاطَةُ تُقَصِّرُ حَاشِيَةَ السِّرْوَالِ.",
+      "english": "The seamstress hems the trousers shorter.",
+      "concept_refs": [
+        "c155_017"
+      ]
+    },
+    {
+      "id": "s826",
+      "german": "Wir zeichnen zuerst das Schnittmuster auf Papier.",
+      "arabic": "نَحْنُ نَرْسُمُ أَوَّلًا بَاتْرُونَ الْخِيَاطَةِ عَلَى الْوَرَقِ.",
+      "english": "We first draw the sewing pattern on paper.",
+      "concept_refs": [
+        "c155_018"
+      ]
+    },
+    {
+      "id": "s827",
+      "german": "Die Hose hat zwei praktische Taschen.",
+      "arabic": "السِّرْوَالُ يَحْتَوِي عَلَى جَيْبَيْنِ عَمَلِيَّيْنِ.",
+      "english": "The trousers have two practical pockets.",
+      "concept_refs": [
+        "c155_019"
+      ]
+    },
+    {
+      "id": "s828",
+      "german": "Der Kragen des Hemdes ist steif und sauber.",
+      "arabic": "يَقَةُ الْقَمِيصِ مُتَمَاسِكَةٌ وَنَظِيفَةٌ.",
+      "english": "The collar of the shirt is stiff and clean.",
+      "concept_refs": [
+        "c155_020"
+      ]
+    },
+    {
+      "id": "s829",
+      "german": "Er bügelt das Kleid auf dem Bügelbrett.",
+      "arabic": "هُوَ يَكْوِي الثَّوْبَ عَلَى طَاوِلَةِ الْكَيِّ.",
+      "english": "He irons the dress on the ironing board.",
+      "concept_refs": [
+        "c155_022",
+        "c155_023"
+      ]
+    },
+    {
+      "id": "s830",
+      "german": "Der Schneider näht einen neuen warmen Mantel.",
+      "arabic": "الْخَيَّاطُ يَخِيطُ مِعْطَفًا دَافِئًا جَدِيدًا.",
+      "english": "The tailor is sewing a new warm coat.",
+      "concept_refs": [
+        "v087",
+        "c155_024"
       ]
     }
   ]

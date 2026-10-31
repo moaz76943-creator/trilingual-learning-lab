@@ -1,0 +1,234 @@
+{
+  "category_id": "c155",
+  "name_ar": "الْخِيَاطَةُ وَالْأَقْمِشَةُ وَالصِّنَاعَاتُ النَّسِيجِيَّةُ",
+  "name_de": "Nähen, Textilien und Schneiderhandwerk",
+  "name_en": "Sewing, Textiles, and Fashion Crafts",
+  "level": "A1-A2",
+  "concepts": [
+    {
+      "id": "c155_001",
+      "arabic": "إِبْرَةُ خِيَاطَةٍ",
+      "german": "Nähnadel",
+      "article": "die",
+      "plural": "Nähnadeln",
+      "english": "sewing needle",
+      "level": "A1"
+    },
+    {
+      "id": "c155_002",
+      "arabic": "خَيْطٌ",
+      "german": "Faden",
+      "article": "der",
+      "plural": "Fäden",
+      "english": "thread / yarn",
+      "level": "A1"
+    },
+    {
+      "id": "c155_003",
+      "arabic": "قُمَاشٌ",
+      "german": "Stoff",
+      "article": "der",
+      "plural": "Stoffe",
+      "english": "fabric / cloth",
+      "level": "A1"
+    },
+    {
+      "id": "c155_004",
+      "arabic": "مِقَصُّ قُمَاشٍ",
+      "german": "Stoffschere",
+      "article": "die",
+      "plural": "Stoffscheren",
+      "english": "fabric scissors",
+      "level": "A1"
+    },
+    {
+      "id": "c155_005",
+      "arabic": "آلَةُ خِيَاطَةٍ",
+      "german": "Nähmaschine",
+      "article": "die",
+      "plural": "Nähmaschinen",
+      "english": "sewing machine",
+      "level": "A1"
+    },
+    {
+      "id": "c155_006",
+      "arabic": "زِرٌّ",
+      "german": "Knopf",
+      "article": "der",
+      "plural": "Knöpfe",
+      "english": "button",
+      "level": "A1"
+    },
+    {
+      "id": "c155_007",
+      "arabic": "سَحَّابٌ",
+      "german": "Reißverschluss",
+      "article": "der",
+      "plural": "Reißverschlüsse",
+      "english": "zipper",
+      "level": "A1"
+    },
+    {
+      "id": "c155_008",
+      "arabic": "كُشْتُبَانٌ",
+      "german": "Fingerhut",
+      "article": "der",
+      "plural": "Fingerhüte",
+      "english": "thimble",
+      "level": "A2"
+    },
+    {
+      "id": "c155_009",
+      "arabic": "شَرِيطُ قِيَاسٍ قُمَاشِيٌّ",
+      "german": "Maßband",
+      "article": "das",
+      "plural": "Maßbänder",
+      "english": "tape measure",
+      "level": "A1"
+    },
+    {
+      "id": "c155_010",
+      "arabic": "دَبُّوسٌ",
+      "german": "Stecknadel",
+      "article": "die",
+      "plural": "Stecknadeln",
+      "english": "pin",
+      "level": "A1"
+    },
+    {
+      "id": "c155_011",
+      "arabic": "قُطْنٌ طَبِيعِيٌّ",
+      "german": "Baumwolle",
+      "article": "die",
+      "plural": "Baumwollen",
+      "english": "natural cotton",
+      "level": "A1"
+    },
+    {
+      "id": "c155_012",
+      "arabic": "صُوفٌ دَافِئٌ",
+      "german": "Wolle",
+      "article": "die",
+      "plural": "Wollen",
+      "english": "warm wool",
+      "level": "A1"
+    },
+    {
+      "id": "c155_013",
+      "arabic": "حَرِيرٌ",
+      "german": "Seide",
+      "article": "die",
+      "plural": "Seiden",
+      "english": "silk",
+      "level": "A2"
+    },
+    {
+      "id": "c155_014",
+      "arabic": "كَتَّانٌ",
+      "german": "Leinen",
+      "article": "das",
+      "plural": "Leinen",
+      "english": "linen",
+      "level": "A2"
+    },
+    {
+      "id": "c155_015",
+      "arabic": "غُرْزَةٌ",
+      "german": "Stich",
+      "article": "der",
+      "plural": "Stiche",
+      "english": "stitch",
+      "level": "A2"
+    },
+    {
+      "id": "c155_016",
+      "arabic": "خِيَاطَةٌ يَدَوِيَّةٌ",
+      "german": "Handnaht",
+      "article": "die",
+      "plural": "Handnähte",
+      "english": "hand sewing",
+      "level": "A1"
+    },
+    {
+      "id": "c155_017",
+      "arabic": "حَاشِيَةٌ",
+      "german": "Saum",
+      "article": "der",
+      "plural": "Säume",
+      "english": "hem",
+      "level": "A2"
+    },
+    {
+      "id": "c155_018",
+      "arabic": "بَاتْرُونُ خِيَاطَةٍ",
+      "german": "Schnittmuster",
+      "article": "das",
+      "plural": "Schnittmuster",
+      "english": "sewing pattern",
+      "level": "A2"
+    },
+    {
+      "id": "c155_019",
+      "arabic": "جَيْبٌ",
+      "german": "Tasche",
+      "article": "die",
+      "plural": "Taschen",
+      "english": "pocket",
+      "level": "A1"
+    },
+    {
+      "id": "c155_020",
+      "arabic": "يَقَةٌ",
+      "german": "Kragen",
+      "article": "der",
+      "plural": "Kragen",
+      "english": "collar",
+      "level": "A2"
+    },
+    {
+      "id": "c155_021",
+      "arabic": "كُمٌّ",
+      "german": "Ärmel",
+      "article": "der",
+      "plural": "Ärmel",
+      "english": "sleeve",
+      "level": "A1"
+    },
+    {
+      "id": "c155_022",
+      "arabic": "مِكْوَاةٌ",
+      "german": "Bügeleisen",
+      "article": "das",
+      "plural": "Bügeleisen",
+      "english": "iron",
+      "level": "A1"
+    },
+    {
+      "id": "c155_023",
+      "arabic": "طَاوِلَةُ كَيٍّ",
+      "german": "Bügelbrett",
+      "article": "das",
+      "plural": "Bügelbretter",
+      "english": "ironing board",
+      "level": "A1"
+    },
+    {
+      "id": "c155_024",
+      "arabic": "خَيَّاطٌ مَاهِرٌ",
+      "german": "Schneider",
+      "article": "der",
+      "plural": "Schneider",
+      "english": "tailor",
+      "level": "A1"
+    },
+    {
+      "id": "c155_025",
+      "arabic": "ثَوْبٌ مُفَصَّلٌ",
+      "german": "Kleid",
+      "article": "das",
+      "plural": "Kleider",
+      "english": "tailored garment",
+      "level": "A1"
+    }
+  ]
+}
