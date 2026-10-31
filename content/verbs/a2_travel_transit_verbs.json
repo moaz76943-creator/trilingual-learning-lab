@@ -1,0 +1,562 @@
+[
+  {
+    "id": "verb_trvl_001",
+    "infinitive": "reisen",
+    "level": "A1",
+    "category": "Travel & Transit",
+    "arabic": "يُسَافِرُ",
+    "english": "to travel",
+    "conjugation": {
+      "praesens": {
+        "ich": "reise",
+        "du": "reist",
+        "er_sie_es": "reist",
+        "wir": "reisen",
+        "ihr": "reist",
+        "sie_Sie": "reisen"
+      },
+      "praeteritum": {
+        "ich": "reiste",
+        "er_sie_es": "reiste"
+      },
+      "perfekt": "ist gereist"
+    },
+    "preposition": "nach + Dat.",
+    "example_de": "Wir reisen im Sommer gerne mit dem Zug nach Österreich.",
+    "example_ar": "نُسَافِرُ فِي الصَّيْفِ بِالقِطَارِ إِلَى النَّمْسَا بِسُرُورٍ.",
+    "example_en": "In summer we gladly travel by train to Austria.",
+    "svg_icon": "content/assets/svg/verb_travel_001.svg"
+  },
+  {
+    "id": "verb_trvl_002",
+    "infinitive": "abfahren",
+    "level": "A1",
+    "category": "Travel & Transit",
+    "arabic": "يَنْطَلِقُ القِطَارُ / الحَافِلَةُ",
+    "english": "to depart",
+    "conjugation": {
+      "praesens": {
+        "ich": "fahre ab",
+        "du": "fährst ab",
+        "er_sie_es": "fährt ab",
+        "wir": "fahren ab",
+        "ihr": "fahrt ab",
+        "sie_Sie": "fahren ab"
+      },
+      "praeteritum": {
+        "ich": "fuhr ab",
+        "er_sie_es": "fuhr ab"
+      },
+      "perfekt": "ist abgefahren"
+    },
+    "preposition": "von + Dat.",
+    "example_de": "Der Schnellzug fährt pünktlich von Gleis drei ab.",
+    "example_ar": "يَنْطَلِقُ القِطَارُ السَّرِيعُ فِي المَوْعِدِ مِنْ الرَّصِيفِ رَقْمِ ثَلَاثَةٍ.",
+    "example_en": "The express train departs punctually from track three.",
+    "svg_icon": "content/assets/svg/verb_travel_002.svg"
+  },
+  {
+    "id": "verb_trvl_003",
+    "infinitive": "ankommen",
+    "level": "A1",
+    "category": "Travel & Transit",
+    "arabic": "يَصِلُ إِلَى الوَجْهَةِ",
+    "english": "to arrive",
+    "conjugation": {
+      "praesens": {
+        "ich": "komme an",
+        "du": "kommst an",
+        "er_sie_es": "kommt an",
+        "wir": "kommen an",
+        "ihr": "kommt an",
+        "sie_Sie": "kommen an"
+      },
+      "praeteritum": {
+        "ich": "kam an",
+        "er_sie_es": "kam an"
+      },
+      "perfekt": "ist angekommen"
+    },
+    "preposition": "in + Dat.",
+    "example_de": "Wir kommen wohlbehalten und glücklich in der Stadt an.",
+    "example_ar": "نَصِلُ بِسَلَامٍ وَعَافِيَةٍ وَسَعَادَةٍ إِلَى المَدِينَةِ.",
+    "example_en": "We arrive safely and happily in the city.",
+    "svg_icon": "content/assets/svg/verb_travel_003.svg"
+  },
+  {
+    "id": "verb_trvl_004",
+    "infinitive": "einsteigen",
+    "level": "A1",
+    "category": "Travel & Transit",
+    "arabic": "يَصْعَدُ إِلَى القِطَارِ أَوِ الحَافِلَةِ",
+    "english": "to board / get in",
+    "conjugation": {
+      "praesens": {
+        "ich": "steige ein",
+        "du": "steigst ein",
+        "er_sie_es": "steigt ein",
+        "wir": "steigen ein",
+        "ihr": "steigt ein",
+        "sie_Sie": "steigen ein"
+      },
+      "praeteritum": {
+        "ich": "stieg ein",
+        "er_sie_es": "stieg ein"
+      },
+      "perfekt": "ist eingestiegen"
+    },
+    "preposition": "in + Akk.",
+    "example_de": "Bitte steigen Sie zügig und vorsichtig in den Wagen ein.",
+    "example_ar": "اصْعَدُوا مِنْ فَضْلِكُمْ بِانْتِظَامٍ وَحَذَرٍ إِلَى عَرَبَةِ القِطَارِ.",
+    "example_en": "Please board the carriage swiftly and carefully.",
+    "svg_icon": "content/assets/svg/verb_travel_004.svg"
+  },
+  {
+    "id": "verb_trvl_005",
+    "infinitive": "aussteigen",
+    "level": "A1",
+    "category": "Travel & Transit",
+    "arabic": "يَنْزِلُ مِنَ المَرْكَبَةِ",
+    "english": "to get off / disembark",
+    "conjugation": {
+      "praesens": {
+        "ich": "steige aus",
+        "du": "steigst aus",
+        "er_sie_es": "steigt aus",
+        "wir": "steigen aus",
+        "ihr": "steigt aus",
+        "sie_Sie": "steigen aus"
+      },
+      "praeteritum": {
+        "ich": "stieg aus",
+        "er_sie_es": "stieg aus"
+      },
+      "perfekt": "ist ausgestiegen"
+    },
+    "preposition": "an + Dat.",
+    "example_de": "An der Endstation steigen alle Fahrgäste ruhig aus.",
+    "example_ar": "فِي المَحَطَّةِ النِّهَائِيَّةِ يَنْزِلُ جَمِيعُ الرُّكَّابِ بِهُدُوءٍ.",
+    "example_en": "At the terminus station, all passengers disembark quietly.",
+    "svg_icon": "content/assets/svg/verb_travel_005.svg"
+  },
+  {
+    "id": "verb_trvl_006",
+    "infinitive": "umsteigen",
+    "level": "A2",
+    "category": "Travel & Transit",
+    "arabic": "يُبَدِّلُ القِطَارَ / يُحَوِّلُ الخَطَّ",
+    "english": "to transfer / change trains",
+    "conjugation": {
+      "praesens": {
+        "ich": "steige um",
+        "du": "steigst um",
+        "er_sie_es": "steigt um",
+        "wir": "steigen um",
+        "ihr": "steigt um",
+        "sie_Sie": "steigen um"
+      },
+      "praeteritum": {
+        "ich": "stieg um",
+        "er_sie_es": "stieg um"
+      },
+      "perfekt": "ist umgestiegen"
+    },
+    "preposition": "in + Akk.",
+    "example_de": "In Frankfurt steigen wir bequem in den Regionalzug um.",
+    "example_ar": "فِي فْرَانْكْفُورْت نُبَدِّلُ القِطَارَ إِلَى القِطَارِ الإِقْلِيمِيِّ بِرَاحَةٍ.",
+    "example_en": "In Frankfurt we conveniently transfer to the regional train.",
+    "svg_icon": "content/assets/svg/verb_travel_006.svg"
+  },
+  {
+    "id": "verb_trvl_007",
+    "infinitive": "buchen",
+    "level": "A2",
+    "category": "Travel & Transit",
+    "arabic": "يَحْجِزُ التَّذَاكِرَ أَوِ الغُرَفَ",
+    "english": "to book / reserve",
+    "conjugation": {
+      "praesens": {
+        "ich": "buche",
+        "du": "buchst",
+        "er_sie_es": "bucht",
+        "wir": "buchen",
+        "ihr": "bucht",
+        "sie_Sie": "buchen"
+      },
+      "praeteritum": {
+        "ich": "buchte",
+        "er_sie_es": "buchte"
+      },
+      "perfekt": "hat gebucht"
+    },
+    "preposition": "für + Akk.",
+    "example_de": "Wir buchen die Reise frühzeitig für die ganze Familie.",
+    "example_ar": "نَحْجِزُ الرِّحْلَةَ مُبَكِّرًا لِجَمِيعِ أَفْرَادِ العَائِلَةِ.",
+    "example_en": "We book the trip well in advance for the whole family.",
+    "svg_icon": "content/assets/svg/verb_travel_007.svg"
+  },
+  {
+    "id": "verb_trvl_008",
+    "infinitive": "fliegen",
+    "level": "A1",
+    "category": "Travel & Transit",
+    "arabic": "يَطِيرُ / يُسَافِرُ جَوًّا",
+    "english": "to fly",
+    "conjugation": {
+      "praesens": {
+        "ich": "fliege",
+        "du": "fliegst",
+        "er_sie_es": "fliegt",
+        "wir": "fliegen",
+        "ihr": "fliegt",
+        "sie_Sie": "fliegen"
+      },
+      "praeteritum": {
+        "ich": "flog",
+        "er_sie_es": "flog"
+      },
+      "perfekt": "ist geflogen"
+    },
+    "preposition": "nach + Dat.",
+    "example_de": "Morgen fliegen wir direkt von Frankfurt nach Istanbul.",
+    "example_ar": "غَدًا نُسَافِرُ جَوًّا مُبَاشَرَةً مِنْ فْرَانْكْفُورْت إِلَى إِسْطَنْبُول.",
+    "example_en": "Tomorrow we fly directly from Frankfurt to Istanbul.",
+    "svg_icon": "content/assets/svg/verb_travel_008.svg"
+  },
+  {
+    "id": "verb_trvl_009",
+    "infinitive": "fahren",
+    "level": "A1",
+    "category": "Travel & Transit",
+    "arabic": "يَقُودُ / يَرْكَبُ مَرْكَبَةً",
+    "english": "to ride / drive",
+    "conjugation": {
+      "praesens": {
+        "ich": "fahre",
+        "du": "fährst",
+        "er_sie_es": "fährt",
+        "wir": "fahren",
+        "ihr": "fahrt",
+        "sie_Sie": "fahren"
+      },
+      "praeteritum": {
+        "ich": "fuhr",
+        "er_sie_es": "fuhr"
+      },
+      "perfekt": "ist gefahren"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Viele Menschen fahren täglich mit dem Fahrrad zur Arbeit.",
+    "example_ar": "كَثِيرٌ مِنَ النَّاسِ يَرْكَبُونَ الدَّرَّاجَةَ يَوْمِيًّا إِلَى العَمَلِ.",
+    "example_en": "Many people ride their bicycles to work on a daily basis.",
+    "svg_icon": "content/assets/svg/verb_travel_009.svg"
+  },
+  {
+    "id": "verb_trvl_010",
+    "infinitive": "überqueren",
+    "level": "A2",
+    "category": "Travel & Transit",
+    "arabic": "يَعْبُرُ الشَّارِعَ أَوْ الجِسْرَ",
+    "english": "to cross (street/bridge)",
+    "conjugation": {
+      "praesens": {
+        "ich": "überquere",
+        "du": "überquerst",
+        "er_sie_es": "überquert",
+        "wir": "überqueren",
+        "ihr": "überquert",
+        "sie_Sie": "überqueren"
+      },
+      "praeteritum": {
+        "ich": "überquerte",
+        "er_sie_es": "überquerte"
+      },
+      "perfekt": "hat überquert"
+    },
+    "preposition": "an + Dat.",
+    "example_de": "Die Fußgänger überqueren die Straße sicher am Zebrastreifen.",
+    "example_ar": "يَعْبُرُ المُشَاةُ الشَّارِعَ بِأَمَانٍ عِنْدَ مَمَرِّ المُشَاةِ.",
+    "example_en": "Pedestrians cross the street safely at the zebra crossing.",
+    "svg_icon": "content/assets/svg/verb_travel_010.svg"
+  },
+  {
+    "id": "verb_trvl_011",
+    "infinitive": "warten",
+    "level": "A1",
+    "category": "Travel & Transit",
+    "arabic": "يَنْتَظِرُ",
+    "english": "to wait",
+    "conjugation": {
+      "praesens": {
+        "ich": "warte",
+        "du": "wartest",
+        "er_sie_es": "wartet",
+        "wir": "warten",
+        "ihr": "wartet",
+        "sie_Sie": "warten"
+      },
+      "praeteritum": {
+        "ich": "wartete",
+        "er_sie_es": "wartete"
+      },
+      "perfekt": "hat gewartet"
+    },
+    "preposition": "auf + Akk.",
+    "example_de": "Wir warten am Bahnsteig geduldig auf die Ankunft des Zuges.",
+    "example_ar": "نَنْتَظِرُ عَلَى الرَّصِيفِ بِصَبْرٍ وُصُولَ القِطَارِ.",
+    "example_en": "We wait patiently on the platform for the train's arrival.",
+    "svg_icon": "content/assets/svg/verb_travel_011.svg"
+  },
+  {
+    "id": "verb_trvl_012",
+    "infinitive": "erreichen",
+    "level": "A2",
+    "category": "Travel & Transit",
+    "arabic": "يُدْرِكُ / يَصِلُ فِي الوَقْتِ",
+    "english": "to catch a train / reach a destination",
+    "conjugation": {
+      "praesens": {
+        "ich": "erreiche",
+        "du": "erreichst",
+        "er_sie_es": "erreicht",
+        "wir": "erreichen",
+        "ihr": "erreicht",
+        "sie_Sie": "erreichen"
+      },
+      "praeteritum": {
+        "ich": "erreichte",
+        "er_sie_es": "erreichte"
+      },
+      "perfekt": "hat erreicht"
+    },
+    "preposition": "in + Dat.",
+    "example_de": "Wenn wir uns beeilen, erreichen wir den Anschlusszug rechtzeitig.",
+    "example_ar": "إِذَا أَسْرَعْنَا، نَلْحَقُ بِالقِطَارِ المَرْبُوطِ فِي الوَقْتِ المُنَاسِبِ.",
+    "example_en": "If we hurry, we will catch the connecting train in good time.",
+    "svg_icon": "content/assets/svg/verb_travel_012.svg"
+  },
+  {
+    "id": "verb_trvl_013",
+    "infinitive": "mitnehmen",
+    "level": "A1",
+    "category": "Travel & Transit",
+    "arabic": "يَأْخُذُ مَعَهُ",
+    "english": "to take along",
+    "conjugation": {
+      "praesens": {
+        "ich": "nehme mit",
+        "du": "nimmst mit",
+        "er_sie_es": "nimmt mit",
+        "wir": "nehmen mit",
+        "ihr": "nehmt mit",
+        "sie_Sie": "nehmen mit"
+      },
+      "praeteritum": {
+        "ich": "nahm mit",
+        "er_sie_es": "nahm mit"
+      },
+      "perfekt": "hat mitgenommen"
+    },
+    "preposition": "auf + Akk.",
+    "example_de": "Vergiss nicht, eine Flasche Wasser auf die Reise mitzunehmen.",
+    "example_ar": "لَا تَنْسَ أَنْ تَأْخُذَ مَعَكَ قَارُورَةَ مَاءٍ فِي الرِّحْلَةِ.",
+    "example_en": "Do not forget to take a bottle of water along on the trip.",
+    "svg_icon": "content/assets/svg/verb_travel_013.svg"
+  },
+  {
+    "id": "verb_trvl_014",
+    "infinitive": "spazieren",
+    "level": "A1",
+    "category": "Travel & Transit",
+    "arabic": "يَسِيرُ عَلَى مَهَلٍ",
+    "english": "to stroll leisurely",
+    "conjugation": {
+      "praesens": {
+        "ich": "spaziere",
+        "du": "spazierst",
+        "er_sie_es": "spaziert",
+        "wir": "spazieren",
+        "ihr": "spaziert",
+        "sie_Sie": "spazieren"
+      },
+      "praeteritum": {
+        "ich": "spazierte",
+        "er_sie_es": "spazierte"
+      },
+      "perfekt": "ist spaziert"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Am Nachmittag spazieren wir gemütlich durch die alte Stadt.",
+    "example_ar": "فِي بَعْدِ الظُّهْرِ نَتَمَشَّى بِهُدُوءٍ عَبْرَ أَزِقَّةِ المَدِينَةِ القَدِيمَةِ.",
+    "example_en": "In the afternoon we stroll leisurely through the historic old town.",
+    "svg_icon": "content/assets/svg/verb_travel_014.svg"
+  },
+  {
+    "id": "verb_trvl_015",
+    "infinitive": "erkunden",
+    "level": "A2",
+    "category": "Travel & Transit",
+    "arabic": "يَسْتَكْشِفُ مَعَالِمَ المَكَانِ",
+    "english": "to explore a place",
+    "conjugation": {
+      "praesens": {
+        "ich": "erkunde",
+        "du": "erkundest",
+        "er_sie_es": "erkundet",
+        "wir": "erkunden",
+        "ihr": "erkundet",
+        "sie_Sie": "erkunden"
+      },
+      "praeteritum": {
+        "ich": "erkundete",
+        "er_sie_es": "erkundete"
+      },
+      "perfekt": "hat erkundet"
+    },
+    "preposition": "zu + Dat.",
+    "example_de": "Reisende erkunden die wunderschöne Landschaft gerne zu Fuß.",
+    "example_ar": "يَسْتَكْشِفُ المُسَافِرُونَ المَشَاهِدَ الطَّبِيعِيَّةَ الجَمِيلَةَ سَيْرًا عَلَى الأَقْدَامِ.",
+    "example_en": "Travelers love exploring the breathtaking landscape on foot.",
+    "svg_icon": "content/assets/svg/verb_travel_015.svg"
+  },
+  {
+    "id": "verb_trvl_016",
+    "infinitive": "besichtigen",
+    "level": "A2",
+    "category": "Travel & Transit",
+    "arabic": "يَزُورُ المَعَالِمَ الأَثَرِيَّةَ",
+    "english": "to sightsee / tour landmarks",
+    "conjugation": {
+      "praesens": {
+        "ich": "besichtige",
+        "du": "besichtigst",
+        "er_sie_es": "besichtigt",
+        "wir": "besichtigen",
+        "ihr": "besichtigt",
+        "sie_Sie": "besichtigen"
+      },
+      "praeteritum": {
+        "ich": "besichtigte",
+        "er_sie_es": "besichtigte"
+      },
+      "perfekt": "hat besichtigt"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Touristen besichtigen die historische Moschee mit großem Respekt.",
+    "example_ar": "يَزُورُ السُّيَّاحُ المَسْجِدَ التَّارِيخِيَّ بِاحْتِرَامٍ كَبِيرٍ.",
+    "example_en": "Tourists tour the historical mosque with great reverence.",
+    "svg_icon": "content/assets/svg/verb_travel_016.svg"
+  },
+  {
+    "id": "verb_trvl_017",
+    "infinitive": "orientieren",
+    "level": "A2",
+    "category": "Travel & Transit",
+    "arabic": "يَهْتَدِي بِالطَّرِيقِ / يُحَدِّدُ اتِّجَاهَهُ",
+    "english": "to orient oneself",
+    "conjugation": {
+      "praesens": {
+        "ich": "orientiere mich",
+        "du": "orientierst dich",
+        "er_sie_es": "orientiert sich",
+        "wir": "orientieren uns",
+        "ihr": "orientiert euch",
+        "sie_Sie": "orientieren sich"
+      },
+      "praeteritum": {
+        "ich": "orientierte mich",
+        "er_sie_es": "orientierte sich"
+      },
+      "perfekt": "hat sich orientiert"
+    },
+    "preposition": "an + Dat.",
+    "example_de": "In einer fremden Stadt orientiere ich mich gerne an markanten Türmen.",
+    "example_ar": "فِي المَدِينَةِ الغَرِيبَةِ أَهْتَدِي بِالأَبْرَاجِ وَالمَعَالِمِ البَارِزَةِ.",
+    "example_en": "In an unfamiliar city, I readily orient myself by prominent towers.",
+    "svg_icon": "content/assets/svg/verb_travel_017.svg"
+  },
+  {
+    "id": "verb_trvl_018",
+    "infinitive": "fragen",
+    "level": "A1",
+    "category": "Travel & Transit",
+    "arabic": "يَسْأَلُ عَنِ الِاتِّجَاهِ بِأَدَبٍ",
+    "english": "to ask for directions politely",
+    "conjugation": {
+      "praesens": {
+        "ich": "frage",
+        "du": "fragst",
+        "er_sie_es": "fragt",
+        "wir": "fragen",
+        "ihr": "fragt",
+        "sie_Sie": "fragen"
+      },
+      "praeteritum": {
+        "ich": "fragte",
+        "er_sie_es": "fragte"
+      },
+      "perfekt": "hat gefragt"
+    },
+    "preposition": "nach + Dat.",
+    "example_de": "Höflich frage ich den Passanten nach dem Weg zur nächsten U-Bahn-Station.",
+    "example_ar": "أَسْأَلُ المَارَّ بِتَهْذِيبٍ عَنِ الطَّرِيقِ إِلَى أَقْرَبِ مَحَطَّةِ مِتْرُو.",
+    "example_en": "Politely, I ask the passerby for the way to the nearest metro station.",
+    "svg_icon": "content/assets/svg/verb_travel_018.svg"
+  },
+  {
+    "id": "verb_trvl_019",
+    "infinitive": "finden",
+    "level": "A1",
+    "category": "Travel & Transit",
+    "arabic": "يَجِدُ الطَّرِيقَ",
+    "english": "to find the way",
+    "conjugation": {
+      "praesens": {
+        "ich": "finde",
+        "du": "findest",
+        "er_sie_es": "findet",
+        "wir": "finden",
+        "ihr": "findet",
+        "sie_Sie": "finden"
+      },
+      "praeteritum": {
+        "ich": "fand",
+        "er_sie_es": "fand"
+      },
+      "perfekt": "hat gefunden"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Mit dem genauen Stadtplan finden wir das Hotel ohne Mühe.",
+    "example_ar": "بِخَرِيطَةِ المَدِينَةِ الدَّقِيقَةِ نَجِدُ الفُنْدُقَ دُونَ عَنَاءٍ.",
+    "example_en": "With the detailed city map, we find the hotel without effort.",
+    "svg_icon": "content/assets/svg/verb_travel_019.svg"
+  },
+  {
+    "id": "verb_trvl_020",
+    "infinitive": "entwerten",
+    "level": "A2",
+    "category": "Travel & Transit",
+    "arabic": "يَخْتِمُ التَّذْكِرَةَ لِتَفْعِيلِهَا",
+    "english": "to validate a transit ticket",
+    "conjugation": {
+      "praesens": {
+        "ich": "entwerte",
+        "du": "entwertest",
+        "er_sie_es": "entwertet",
+        "wir": "entwerten",
+        "ihr": "entwertet",
+        "sie_Sie": "entwerten"
+      },
+      "praeteritum": {
+        "ich": "entwertete",
+        "er_sie_es": "entwertete"
+      },
+      "perfekt": "hat entwertet"
+    },
+    "preposition": "am + Dat.",
+    "example_de": "Bitte entwerten Sie die Fahrkarte vor dem Einsteigen am Automaten.",
+    "example_ar": "اخْتِمُوا تَذْكِرَةَ السَّفَرِ قَبْلَ الصُّعُودِ عِنْدَ الجِهَازِ لِتَفْعِيلِهَا.",
+    "example_en": "Please validate your transit ticket at the machine before boarding.",
+    "svg_icon": "content/assets/svg/verb_travel_020.svg"
+  }
+]
