@@ -34275,5 +34275,495 @@
     "title_ar": "يُهَدِّئُ وَيُطَمْئِنُ",
     "title_en": "to soothe / to calm",
     "category": "verbs"
+  },
+  "weather_phenom_001.svg": {
+    "path": "content/assets/images/weather_phenom_001.svg",
+    "title_de": "das Wetter",
+    "title_ar": "الطَّقْسُ / الجَوُّ",
+    "title_en": "weather",
+    "category": "vocabulary"
+  },
+  "weather_phenom_002.svg": {
+    "path": "content/assets/images/weather_phenom_002.svg",
+    "title_de": "die Sonne",
+    "title_ar": "الشَّمْسُ المُشْرِقَةُ",
+    "title_en": "sun",
+    "category": "vocabulary"
+  },
+  "weather_phenom_003.svg": {
+    "path": "content/assets/images/weather_phenom_003.svg",
+    "title_de": "der Regen",
+    "title_ar": "المَطَرُ النَّافِعُ",
+    "title_en": "rain",
+    "category": "vocabulary"
+  },
+  "weather_phenom_004.svg": {
+    "path": "content/assets/images/weather_phenom_004.svg",
+    "title_de": "der Regenschauer",
+    "title_ar": "زَخَّةُ المَطَرِ",
+    "title_en": "rain shower",
+    "category": "vocabulary"
+  },
+  "weather_phenom_005.svg": {
+    "path": "content/assets/images/weather_phenom_005.svg",
+    "title_de": "der Wind",
+    "title_ar": "الرِّيحُ العَلِيلَةُ",
+    "title_en": "wind",
+    "category": "vocabulary"
+  },
+  "weather_phenom_006.svg": {
+    "path": "content/assets/images/weather_phenom_006.svg",
+    "title_de": "die Brise",
+    "title_ar": "النَّسِيمُ الرَّقِيقُ",
+    "title_en": "breeze",
+    "category": "vocabulary"
+  },
+  "weather_phenom_007.svg": {
+    "path": "content/assets/images/weather_phenom_007.svg",
+    "title_de": "die Wolke",
+    "title_ar": "السَّحَابَةُ / الغَيْمَةُ",
+    "title_en": "cloud",
+    "category": "vocabulary"
+  },
+  "weather_phenom_008.svg": {
+    "path": "content/assets/images/weather_phenom_008.svg",
+    "title_de": "der Nebel",
+    "title_ar": "الضَّبَابُ الصَّبَاحِيُّ",
+    "title_en": "fog / mist",
+    "category": "vocabulary"
+  },
+  "weather_phenom_009.svg": {
+    "path": "content/assets/images/weather_phenom_009.svg",
+    "title_de": "der Frost",
+    "title_ar": "الصَّقِيعُ",
+    "title_en": "frost",
+    "category": "vocabulary"
+  },
+  "weather_phenom_010.svg": {
+    "path": "content/assets/images/weather_phenom_010.svg",
+    "title_de": "der Tau",
+    "title_ar": "قَطَرَاتُ النَّدَى",
+    "title_en": "dew",
+    "category": "vocabulary"
+  },
+  "weather_phenom_011.svg": {
+    "path": "content/assets/images/weather_phenom_011.svg",
+    "title_de": "der Regenbogen",
+    "title_ar": "قَوْسُ قُزَحَ",
+    "title_en": "rainbow",
+    "category": "vocabulary"
+  },
+  "weather_phenom_012.svg": {
+    "path": "content/assets/images/weather_phenom_012.svg",
+    "title_de": "die Temperatur",
+    "title_ar": "دَرَجَةُ الحَرَارَةِ",
+    "title_en": "temperature",
+    "category": "vocabulary"
+  },
+  "weather_phenom_013.svg": {
+    "path": "content/assets/images/weather_phenom_013.svg",
+    "title_de": "das Thermometer",
+    "title_ar": "مِقْيَاسُ الحَرَارَةِ",
+    "title_en": "thermometer",
+    "category": "vocabulary"
+  },
+  "weather_phenom_014.svg": {
+    "path": "content/assets/images/weather_phenom_014.svg",
+    "title_de": "die Wärme",
+    "title_ar": "الدِّفْءُ",
+    "title_en": "warmth",
+    "category": "vocabulary"
+  },
+  "weather_phenom_015.svg": {
+    "path": "content/assets/images/weather_phenom_015.svg",
+    "title_de": "die Kälte",
+    "title_ar": "البُرُودَةُ",
+    "title_en": "coldness / chill",
+    "category": "vocabulary"
+  },
+  "weather_phenom_016.svg": {
+    "path": "content/assets/images/weather_phenom_016.svg",
+    "title_de": "der Schnee",
+    "title_ar": "الثَّلْجُ النَّاصِعُ",
+    "title_en": "snow",
+    "category": "vocabulary"
+  },
+  "weather_phenom_017.svg": {
+    "path": "content/assets/images/weather_phenom_017.svg",
+    "title_de": "das Gewitter",
+    "title_ar": "العَاصِفَةُ الرَّعْدِيَّةُ",
+    "title_en": "thunderstorm",
+    "category": "vocabulary"
+  },
+  "weather_phenom_018.svg": {
+    "path": "content/assets/images/weather_phenom_018.svg",
+    "title_de": "die Luftfeuchtigkeit",
+    "title_ar": "رُطُوبَةُ الهَوَاءِ",
+    "title_en": "humidity",
+    "category": "vocabulary"
+  },
+  "weather_phenom_019.svg": {
+    "path": "content/assets/images/weather_phenom_019.svg",
+    "title_de": "die Wettervorhersage",
+    "title_ar": "النَّشْرَةُ الجَوِّيَّةُ",
+    "title_en": "weather forecast",
+    "category": "vocabulary"
+  },
+  "weather_phenom_020.svg": {
+    "path": "content/assets/images/weather_phenom_020.svg",
+    "title_de": "der Sonnenschein",
+    "title_ar": "إِشْرَاقُ الشَّمْسِ",
+    "title_en": "sunshine",
+    "category": "vocabulary"
+  },
+  "weather_phenom_021.svg": {
+    "path": "content/assets/images/weather_phenom_021.svg",
+    "title_de": "der Schatten",
+    "title_ar": "الظِّلُّ الظَّلِيلُ",
+    "title_en": "shade / shadow",
+    "category": "vocabulary"
+  },
+  "weather_phenom_022.svg": {
+    "path": "content/assets/images/weather_phenom_022.svg",
+    "title_de": "der Hagel",
+    "title_ar": "حَبَّاتُ البَرَدِ",
+    "title_en": "hail",
+    "category": "vocabulary"
+  },
+  "weather_phenom_023.svg": {
+    "path": "content/assets/images/weather_phenom_023.svg",
+    "title_de": "der Dunst",
+    "title_ar": "السَّدِيمُ / الضَّبَابُ الرَّقِيقُ",
+    "title_en": "haze / mist",
+    "category": "vocabulary"
+  },
+  "weather_phenom_024.svg": {
+    "path": "content/assets/images/weather_phenom_024.svg",
+    "title_de": "das Klima",
+    "title_ar": "المُنَاخُ العَامُّ",
+    "title_en": "climate",
+    "category": "vocabulary"
+  },
+  "weather_phenom_025.svg": {
+    "path": "content/assets/images/weather_phenom_025.svg",
+    "title_de": "die Jahreszeit",
+    "title_ar": "فَصْلُ السَّنَةِ",
+    "title_en": "season",
+    "category": "vocabulary"
+  },
+  "verb_weather_001.svg": {
+    "path": "content/assets/images/verb_weather_001.svg",
+    "title_de": "regnen",
+    "title_ar": "يَمْطُرُ",
+    "title_en": "to rain",
+    "category": "verbs"
+  },
+  "verb_weather_002.svg": {
+    "path": "content/assets/images/verb_weather_002.svg",
+    "title_de": "schneien",
+    "title_ar": "يُثْلِجُ",
+    "title_en": "to snow",
+    "category": "verbs"
+  },
+  "verb_weather_003.svg": {
+    "path": "content/assets/images/verb_weather_003.svg",
+    "title_de": "scheinen",
+    "title_ar": "تَسْطَعُ (الشَّمْسُ)",
+    "title_en": "to shine",
+    "category": "verbs"
+  },
+  "verb_weather_004.svg": {
+    "path": "content/assets/images/verb_weather_004.svg",
+    "title_de": "wehen",
+    "title_ar": "تَهُبُّ (الرِّيحُ)",
+    "title_en": "to blow (wind)",
+    "category": "verbs"
+  },
+  "verb_weather_005.svg": {
+    "path": "content/assets/images/verb_weather_005.svg",
+    "title_de": "stürmen",
+    "title_ar": "تَعْصِفُ الرِّيَاحُ",
+    "title_en": "to storm",
+    "category": "verbs"
+  },
+  "verb_weather_006.svg": {
+    "path": "content/assets/images/verb_weather_006.svg",
+    "title_de": "abkühlen",
+    "title_ar": "يَبْرُدُ الجَوُّ / يَنْخَفِضُ",
+    "title_en": "to cool down",
+    "category": "verbs"
+  },
+  "verb_weather_007.svg": {
+    "path": "content/assets/images/verb_weather_007.svg",
+    "title_de": "erwärmen",
+    "title_ar": "يَدْفَأُ الجَوُّ / يُدَفِّئُ",
+    "title_en": "to warm up",
+    "category": "verbs"
+  },
+  "verb_weather_008.svg": {
+    "path": "content/assets/images/verb_weather_008.svg",
+    "title_de": "aufklären",
+    "title_ar": "تَصْحُو السَّمَاءُ / تَنْقَشِعُ الغُيُومُ",
+    "title_en": "to clear up (sky)",
+    "category": "verbs"
+  },
+  "verb_weather_009.svg": {
+    "path": "content/assets/images/verb_weather_009.svg",
+    "title_de": "sich bewölken",
+    "title_ar": "تَتَغَيَّمُ السَّمَاءُ",
+    "title_en": "to cloud over / become overcast",
+    "category": "verbs"
+  },
+  "verb_weather_010.svg": {
+    "path": "content/assets/images/verb_weather_010.svg",
+    "title_de": "frieren",
+    "title_ar": "يَتَجَمَّدُ / يَشْعُرُ بِالبَرْدِ",
+    "title_en": "to freeze / to feel cold",
+    "category": "verbs"
+  },
+  "verb_weather_011.svg": {
+    "path": "content/assets/images/verb_weather_011.svg",
+    "title_de": "tauen",
+    "title_ar": "يَذُوبُ الثَّلْجُ",
+    "title_en": "to thaw / to melt",
+    "category": "verbs"
+  },
+  "verb_weather_012.svg": {
+    "path": "content/assets/images/verb_weather_012.svg",
+    "title_de": "donnern",
+    "title_ar": "يَرْعَدُ السَّحَابُ",
+    "title_en": "to thunder",
+    "category": "verbs"
+  },
+  "verb_weather_013.svg": {
+    "path": "content/assets/images/verb_weather_013.svg",
+    "title_de": "blitzen",
+    "title_ar": "يَبْرُقُ البَرْقُ",
+    "title_en": "to flash (lightning)",
+    "category": "verbs"
+  },
+  "verb_weather_014.svg": {
+    "path": "content/assets/images/verb_weather_014.svg",
+    "title_de": "hageln",
+    "title_ar": "يَسْقُطُ البَرَدُ",
+    "title_en": "to hail",
+    "category": "verbs"
+  },
+  "verb_weather_015.svg": {
+    "path": "content/assets/images/verb_weather_015.svg",
+    "title_de": "nieseln",
+    "title_ar": "يَهْطِلُ الرَّذَاذُ",
+    "title_en": "to drizzle",
+    "category": "verbs"
+  },
+  "verb_weather_016.svg": {
+    "path": "content/assets/images/verb_weather_016.svg",
+    "title_de": "schwitzen",
+    "title_ar": "يَعْرَقُ مِنَ الحَرِّ",
+    "title_en": "to sweat / perspire",
+    "category": "verbs"
+  },
+  "verb_weather_017.svg": {
+    "path": "content/assets/images/verb_weather_017.svg",
+    "title_de": "frösteln",
+    "title_ar": "يَرْتَجِفُ مِنَ البَرْدِ",
+    "title_en": "to shiver / feel chilly",
+    "category": "verbs"
+  },
+  "verb_weather_018.svg": {
+    "path": "content/assets/images/verb_weather_018.svg",
+    "title_de": "wechseln",
+    "title_ar": "يَتَقَلَّبُ / يَتَغَيَّرُ الطَّقْسُ",
+    "title_en": "to change / fluctuate (weather)",
+    "category": "verbs"
+  },
+  "verb_weather_019.svg": {
+    "path": "content/assets/images/verb_weather_019.svg",
+    "title_de": "vorherrschen",
+    "title_ar": "يَسُودُ (مُنَاخٌ مُعَيَّنٌ)",
+    "title_en": "to prevail / predominate",
+    "category": "verbs"
+  },
+  "verb_weather_020.svg": {
+    "path": "content/assets/images/verb_weather_020.svg",
+    "title_de": "messen",
+    "title_ar": "يَقِيسُ (دَرَجَةَ الحَرَارَةِ)",
+    "title_en": "to measure (temperature)",
+    "category": "verbs"
+  },
+  "garden_plant_001.svg": {
+    "path": "content/assets/images/garden_plant_001.svg",
+    "title_de": "der Garten",
+    "title_ar": "الحَدِيقَةُ المَنْزِلِيَّةُ",
+    "title_en": "garden",
+    "category": "vocabulary"
+  },
+  "garden_plant_002.svg": {
+    "path": "content/assets/images/garden_plant_002.svg",
+    "title_de": "das Beet",
+    "title_ar": "حَوْضُ الزِّرَاعَةِ",
+    "title_en": "flower bed / vegetable patch",
+    "category": "vocabulary"
+  },
+  "garden_plant_003.svg": {
+    "path": "content/assets/images/garden_plant_003.svg",
+    "title_de": "der Blumentopf",
+    "title_ar": "أُصِيصُ الزُّهُورِ / الوِعَاءُ",
+    "title_en": "flowerpot / plant pot",
+    "category": "vocabulary"
+  },
+  "garden_plant_004.svg": {
+    "path": "content/assets/images/garden_plant_004.svg",
+    "title_de": "die Erde",
+    "title_ar": "التُّرْبَةُ الخَصْبَةُ",
+    "title_en": "soil / earth",
+    "category": "vocabulary"
+  },
+  "garden_plant_005.svg": {
+    "path": "content/assets/images/garden_plant_005.svg",
+    "title_de": "der Samen",
+    "title_ar": "البَذْرَةُ",
+    "title_en": "seed",
+    "category": "vocabulary"
+  },
+  "garden_plant_006.svg": {
+    "path": "content/assets/images/garden_plant_006.svg",
+    "title_de": "die Gießkanne",
+    "title_ar": "مِرَشُّ المَاءِ / المِسْقَاةُ",
+    "title_en": "watering can",
+    "category": "vocabulary"
+  },
+  "garden_plant_007.svg": {
+    "path": "content/assets/images/garden_plant_007.svg",
+    "title_de": "die Gartenschere",
+    "title_ar": "مِقَصُّ التَّقْلِيمِ",
+    "title_en": "pruning shears / secateurs",
+    "category": "vocabulary"
+  },
+  "garden_plant_008.svg": {
+    "path": "content/assets/images/garden_plant_008.svg",
+    "title_de": "der Spross",
+    "title_ar": "البُرْعُمُ النَّامِي",
+    "title_en": "sprout / shoot",
+    "category": "vocabulary"
+  },
+  "garden_plant_009.svg": {
+    "path": "content/assets/images/garden_plant_009.svg",
+    "title_de": "die Blüte",
+    "title_ar": "الزَّهْرَةُ / الفُلَّةُ",
+    "title_en": "blossom / flower bloom",
+    "category": "vocabulary"
+  },
+  "garden_plant_010.svg": {
+    "path": "content/assets/images/garden_plant_010.svg",
+    "title_de": "das Blatt",
+    "title_ar": "وَرَقَةُ النَّبَاتِ",
+    "title_en": "leaf",
+    "category": "vocabulary"
+  },
+  "garden_plant_011.svg": {
+    "path": "content/assets/images/garden_plant_011.svg",
+    "title_de": "die Wurzel",
+    "title_ar": "الجَذْرُ",
+    "title_en": "root",
+    "category": "vocabulary"
+  },
+  "garden_plant_012.svg": {
+    "path": "content/assets/images/garden_plant_012.svg",
+    "title_de": "der Balkongarten",
+    "title_ar": "حَدِيقَةُ الشُّرْفَةِ",
+    "title_en": "balcony garden",
+    "category": "vocabulary"
+  },
+  "garden_plant_013.svg": {
+    "path": "content/assets/images/garden_plant_013.svg",
+    "title_de": "das Kraut",
+    "title_ar": "العُشْبُ العِطْرِيُّ",
+    "title_en": "herb",
+    "category": "vocabulary"
+  },
+  "garden_plant_014.svg": {
+    "path": "content/assets/images/garden_plant_014.svg",
+    "title_de": "der Kompost",
+    "title_ar": "السَّمَادُ العُضْوِيُّ",
+    "title_en": "compost / organic fertilizer",
+    "category": "vocabulary"
+  },
+  "garden_plant_015.svg": {
+    "path": "content/assets/images/garden_plant_015.svg",
+    "title_de": "die Ernte",
+    "title_ar": "الحَصَادُ / الجَنَى",
+    "title_en": "harvest / yield",
+    "category": "vocabulary"
+  },
+  "garden_plant_016.svg": {
+    "path": "content/assets/images/garden_plant_016.svg",
+    "title_de": "der Setzling",
+    "title_ar": "الشَّتْلَةُ الصَّغِيرَةُ",
+    "title_en": "seedling",
+    "category": "vocabulary"
+  },
+  "garden_plant_017.svg": {
+    "path": "content/assets/images/garden_plant_017.svg",
+    "title_de": "die Bewässerung",
+    "title_ar": "الرَّيُّ المُنْتَظَمُ",
+    "title_en": "watering / irrigation",
+    "category": "vocabulary"
+  },
+  "garden_plant_018.svg": {
+    "path": "content/assets/images/garden_plant_018.svg",
+    "title_de": "das Gewächshaus",
+    "title_ar": "الدَّفِيئَةُ الزِّرَاعِيَّةُ",
+    "title_en": "greenhouse",
+    "category": "vocabulary"
+  },
+  "garden_plant_019.svg": {
+    "path": "content/assets/images/garden_plant_019.svg",
+    "title_de": "der Strauch",
+    "title_ar": "الشُّجَيْرَةُ",
+    "title_en": "bush / shrub",
+    "category": "vocabulary"
+  },
+  "garden_plant_020.svg": {
+    "path": "content/assets/images/garden_plant_020.svg",
+    "title_de": "das Unkraut",
+    "title_ar": "الأَعْشَابُ الضَّارَّةُ",
+    "title_en": "weeds",
+    "category": "vocabulary"
+  },
+  "garden_plant_021.svg": {
+    "path": "content/assets/images/garden_plant_021.svg",
+    "title_de": "die Pflanzerde",
+    "title_ar": "تُرْبَةُ الزِّرَاعَةِ المُخَصَّصَةُ",
+    "title_en": "potting soil",
+    "category": "vocabulary"
+  },
+  "garden_plant_022.svg": {
+    "path": "content/assets/images/garden_plant_022.svg",
+    "title_de": "der Spaten",
+    "title_ar": "المِجْرَفَةُ اليَدَوِيَّةُ",
+    "title_en": "spade / shovel",
+    "category": "vocabulary"
+  },
+  "garden_plant_023.svg": {
+    "path": "content/assets/images/garden_plant_023.svg",
+    "title_de": "der Rechen",
+    "title_ar": "المِشْطُ الزِّرَاعِيُّ",
+    "title_en": "rake",
+    "category": "vocabulary"
+  },
+  "garden_plant_024.svg": {
+    "path": "content/assets/images/garden_plant_024.svg",
+    "title_de": "das Wachstum",
+    "title_ar": "النُّمُوُّ وَالنَّمَاءُ",
+    "title_en": "growth",
+    "category": "vocabulary"
+  },
+  "garden_plant_025.svg": {
+    "path": "content/assets/images/garden_plant_025.svg",
+    "title_de": "die Frische",
+    "title_ar": "النَّضَارَةُ الخَضْرَاءُ",
+    "title_en": "freshness / lush green",
+    "category": "vocabulary"
   }
 }

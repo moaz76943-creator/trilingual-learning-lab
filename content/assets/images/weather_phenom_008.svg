@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="grad_weather_phenom_008_svg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" />
+      <stop offset="100%" stop-color="#0369a1" />
+    </linearGradient>
+    <filter id="shadow_weather_phenom_008_svg" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+  <rect width="200" height="200" rx="24" fill="url(#grad_weather_phenom_008_svg)" />
+  <circle cx="100" cy="85" r="46" fill="#ffffff" fill-opacity="0.22" filter="url(#shadow_weather_phenom_008_svg)" />
+  <line x1="70" y1="72" x2="130" y2="72" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/><line x1="75" y1="82" x2="125" y2="82" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/><line x1="68" y1="92" x2="132" y2="92" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/><line x1="78" y1="102" x2="122" y2="102" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+  <rect x="15" y="145" width="170" height="42" rx="12" fill="#ffffff" fill-opacity="0.94" filter="url(#shadow_weather_phenom_008_svg)" />
+  <text x="100" y="162" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="bold" font-size="11" fill="#1e293b">der Nebel</text>
+  <text x="100" y="177" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="600" font-size="11" fill="#0f766e">الضَّبَابُ الصَّبَاحِيُّ</text>
+</svg>

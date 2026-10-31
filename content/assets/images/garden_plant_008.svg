@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="grad_garden_plant_008_svg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#16a34a" />
+      <stop offset="100%" stop-color="#14532d" />
+    </linearGradient>
+    <filter id="shadow_garden_plant_008_svg" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+  <rect width="200" height="200" rx="24" fill="url(#grad_garden_plant_008_svg)" />
+  <circle cx="100" cy="85" r="46" fill="#ffffff" fill-opacity="0.22" filter="url(#shadow_garden_plant_008_svg)" />
+  <path d="M100 110 Q100 85 92 75 Q85 68 80 72 Q78 80 92 82 M100 85 Q105 72 118 72 Q122 80 108 86" stroke="#22c55e" stroke-width="4" fill="none"/><line x1="100" y1="110" x2="100" y2="85" stroke="#22c55e" stroke-width="4"/>
+  <rect x="15" y="145" width="170" height="42" rx="12" fill="#ffffff" fill-opacity="0.94" filter="url(#shadow_garden_plant_008_svg)" />
+  <text x="100" y="162" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="bold" font-size="11" fill="#1e293b">der Spross</text>
+  <text x="100" y="177" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="600" font-size="11" fill="#0f766e">البُرْعُمُ النَّامِي</text>
+</svg>
