@@ -1,0 +1,234 @@
+{
+  "category_id": "c154",
+  "name_ar": "النِّجَارَةُ وَالْأَعْمَالُ الْيَدَوِيَّةُ الْمَنْزِلِيَّةُ",
+  "name_de": "Tischlerei und Heimwerken",
+  "name_en": "Carpentry and Home Handicrafts",
+  "level": "A1-A2",
+  "concepts": [
+    {
+      "id": "c154_001",
+      "arabic": "خَشَبٌ",
+      "german": "Holz",
+      "article": "das",
+      "plural": "Hölzer",
+      "english": "wood",
+      "level": "A1"
+    },
+    {
+      "id": "c154_002",
+      "arabic": "مِطْرَقَةٌ",
+      "german": "Hammer",
+      "article": "der",
+      "plural": "Hämmer",
+      "english": "hammer",
+      "level": "A1"
+    },
+    {
+      "id": "c154_003",
+      "arabic": "مِسْمَارٌ",
+      "german": "Nagel",
+      "article": "der",
+      "plural": "Nägel",
+      "english": "nail",
+      "level": "A1"
+    },
+    {
+      "id": "c154_004",
+      "arabic": "مِنْشَارٌ",
+      "german": "Säge",
+      "article": "die",
+      "plural": "Sägen",
+      "english": "saw",
+      "level": "A1"
+    },
+    {
+      "id": "c154_005",
+      "arabic": "مِفَكُّ بَرَاغِي",
+      "german": "Schraubenzieher",
+      "article": "der",
+      "plural": "Schraubenzieher",
+      "english": "screwdriver",
+      "level": "A1"
+    },
+    {
+      "id": "c154_006",
+      "arabic": "بُرْغِيٌّ",
+      "german": "Schraube",
+      "article": "die",
+      "plural": "Schrauben",
+      "english": "screw",
+      "level": "A1"
+    },
+    {
+      "id": "c154_007",
+      "arabic": "كَمَّاشَةٌ",
+      "german": "Zange",
+      "article": "die",
+      "plural": "Zangen",
+      "english": "pliers",
+      "level": "A2"
+    },
+    {
+      "id": "c154_008",
+      "arabic": "شَرِيطُ قِيَاسٍ",
+      "german": "Maßband",
+      "article": "das",
+      "plural": "Maßbänder",
+      "english": "measuring tape",
+      "level": "A1"
+    },
+    {
+      "id": "c154_009",
+      "arabic": "مِسْطَرَةُ زَاوِيَةٍ",
+      "german": "Winkel",
+      "article": "der",
+      "plural": "Winkel",
+      "english": "square ruler",
+      "level": "A2"
+    },
+    {
+      "id": "c154_010",
+      "arabic": "صَنْفَرَةٌ",
+      "german": "Schleifpapier",
+      "article": "das",
+      "plural": "Schleifpapiere",
+      "english": "sandpaper",
+      "level": "A2"
+    },
+    {
+      "id": "c154_011",
+      "arabic": "غِرَاءُ خَشَبٍ",
+      "german": "Holzleim",
+      "article": "der",
+      "plural": "Holzleime",
+      "english": "wood glue",
+      "level": "A2"
+    },
+    {
+      "id": "c154_012",
+      "arabic": "طَاوِلَةُ عَمَلٍ",
+      "german": "Werkbank",
+      "article": "die",
+      "plural": "Werkbänke",
+      "english": "workbench",
+      "level": "A2"
+    },
+    {
+      "id": "c154_013",
+      "arabic": "صُنْدُوقُ عُدَّةٍ",
+      "german": "Werkzeugkasten",
+      "article": "der",
+      "plural": "Werkzeugkästen",
+      "english": "toolbox",
+      "level": "A1"
+    },
+    {
+      "id": "c154_014",
+      "arabic": "مِثْقَابٌ",
+      "german": "Bohrmaschine",
+      "article": "die",
+      "plural": "Bohrmaschinen",
+      "english": "drill",
+      "level": "A2"
+    },
+    {
+      "id": "c154_015",
+      "arabic": "لَوْحُ خَشَبٍ",
+      "german": "Brett",
+      "article": "das",
+      "plural": "Bretter",
+      "english": "wooden board",
+      "level": "A1"
+    },
+    {
+      "id": "c154_016",
+      "arabic": "طِلَاءٌ",
+      "german": "Farbe",
+      "article": "die",
+      "plural": "Farben",
+      "english": "paint",
+      "level": "A1"
+    },
+    {
+      "id": "c154_017",
+      "arabic": "فُرْشَاةُ دِهَانٍ",
+      "german": "Pinsel",
+      "article": "der",
+      "plural": "Pinsel",
+      "english": "paintbrush",
+      "level": "A1"
+    },
+    {
+      "id": "c154_018",
+      "arabic": "قِيَاسٌ دَقِيقٌ",
+      "german": "Messung",
+      "article": "die",
+      "plural": "Messungen",
+      "english": "accurate measurement",
+      "level": "A2"
+    },
+    {
+      "id": "c154_019",
+      "arabic": "تَصْمِيمٌ بَسِيطٌ",
+      "german": "Design",
+      "article": "das",
+      "plural": "Designs",
+      "english": "simple design",
+      "level": "A1"
+    },
+    {
+      "id": "c154_020",
+      "arabic": "رَفُّ كُتُبٍ",
+      "german": "Regal",
+      "article": "das",
+      "plural": "Regale",
+      "english": "bookshelf",
+      "level": "A1"
+    },
+    {
+      "id": "c154_021",
+      "arabic": "كُرْسِيٌّ خَشَبِيٌّ",
+      "german": "Holzstuhl",
+      "article": "der",
+      "plural": "Holzstühle",
+      "english": "wooden chair",
+      "level": "A1"
+    },
+    {
+      "id": "c154_022",
+      "arabic": "صَانِعٌ مَاهِرٌ",
+      "german": "Handwerker",
+      "article": "der",
+      "plural": "Handwerker",
+      "english": "skilled craftsman",
+      "level": "A2"
+    },
+    {
+      "id": "c154_023",
+      "arabic": "نِجَارَةٌ",
+      "german": "Tischlerei",
+      "article": "die",
+      "plural": "Tischlereien",
+      "english": "carpentry",
+      "level": "A2"
+    },
+    {
+      "id": "c154_024",
+      "arabic": "إِصْلَاحٌ مَنْزِلِيٌّ",
+      "german": "Reparatur",
+      "article": "die",
+      "plural": "Reparaturen",
+      "english": "home repair",
+      "level": "A1"
+    },
+    {
+      "id": "c154_025",
+      "arabic": "صُنْعٌ يَدَوِيٌّ",
+      "german": "Handarbeit",
+      "article": "die",
+      "plural": "Handarbeiten",
+      "english": "handcrafted work",
+      "level": "A1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "verb_id": "v086",
+  "infinitive_de": "bauen",
+  "root_ar": "بَنَى",
+  "infinitive_en": "to build",
+  "level": "A1",
+  "present": {
+    "ich": "baue",
+    "du": "baust",
+    "er_sie_es": "baut",
+    "wir": "bauen",
+    "ihr": "baut",
+    "sie_Sie": "bauen"
+  },
+  "past": {
+    "ich": "baute",
+    "du": "bautest",
+    "er_sie_es": "baute",
+    "wir": "bauten",
+    "ihr": "bautet",
+    "sie_Sie": "bauten"
+  },
+  "perfect": {
+    "auxiliary": "haben",
+    "participle": "gebaut"
+  },
+  "examples": [
+    {
+      "german": "Mein Vater baut ein schönes Holzregal.",
+      "arabic": "وَالِدِي يَبْنِي رَفَّ خَشَبٍ جَمِيلًا.",
+      "english": "My father is building a beautiful wooden shelf."
+    }
+  ]
+}

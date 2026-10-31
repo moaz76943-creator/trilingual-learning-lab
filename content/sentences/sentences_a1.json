@@ -1,5 +1,5 @@
 {
-  "count": 770,
+  "count": 790,
   "sentences": [
     {
       "id": "sent_001",
@@ -14915,6 +14915,194 @@
       "concept_refs": [
         "c153_025",
         "v085"
+      ]
+    },
+    {
+      "id": "s791",
+      "german": "Das Holz ist trocken und von guter Qualität.",
+      "arabic": "الْخَشَبُ جَافٌّ وَذُو جَوْدَةٍ عَالِيَةٍ.",
+      "english": "The wood is dry and of good quality.",
+      "concept_refs": [
+        "c154_001"
+      ]
+    },
+    {
+      "id": "s792",
+      "german": "Er schlägt den Nagel mit dem Hammer ein.",
+      "arabic": "هُوَ يَدُقُّ الْمِسْمَارَ بِالْمِطْرَقَةِ.",
+      "english": "He drives the nail in with the hammer.",
+      "concept_refs": [
+        "c154_002",
+        "c154_003"
+      ]
+    },
+    {
+      "id": "s793",
+      "german": "Die Säge schneidet das Brett sehr gerade.",
+      "arabic": "الْمِنْشَارُ يَقْطَعُ اللَّوْحَ بِشَكْلٍ مُسْتَقِيمٍ جِدًّا.",
+      "english": "The saw cuts the board very straight.",
+      "concept_refs": [
+        "c154_004",
+        "c154_015"
+      ]
+    },
+    {
+      "id": "s794",
+      "german": "Ich brauche den Schraubenzieher für diese Schraube.",
+      "arabic": "أَنَا أَحْتَاجُ إِلَى مِفَكِّ الْبَرَاغِي لِهَذَا الْبُرْغِيِّ.",
+      "english": "I need the screwdriver for this screw.",
+      "concept_refs": [
+        "c154_005",
+        "c154_006"
+      ]
+    },
+    {
+      "id": "s795",
+      "german": "Die Zange hält das Metallteil fest.",
+      "arabic": "الْكَمَّاشَةُ تُمْسِكُ الْقِطْعَةَ الْمَعْدِنِيَّةَ بِإِحْكَامٍ.",
+      "english": "The pliers hold the metal part firmly.",
+      "concept_refs": [
+        "c154_007"
+      ]
+    },
+    {
+      "id": "s796",
+      "german": "Messe die Länge mit dem Maßband.",
+      "arabic": "قِسِ الطُّولَ بِشَرِيطِ الْقِيَاسِ.",
+      "english": "Measure the length with the measuring tape.",
+      "concept_refs": [
+        "c154_008",
+        "c154_018"
+      ]
+    },
+    {
+      "id": "s797",
+      "german": "Der Winkel zeigt genau neunzig Grad.",
+      "arabic": "مِسْطَرَةُ الزَّاوِيَةِ تُظْهِرُ تِسْعِينَ دَرَجَةً بِالضَّبْطِ.",
+      "english": "The square ruler shows exactly ninety degrees.",
+      "concept_refs": [
+        "c154_009"
+      ]
+    },
+    {
+      "id": "s798",
+      "german": "Schleife das Holz mit feinem Schleifpapier.",
+      "arabic": "اصْقُلِ الْخَشَبَ بِوَرَقِ الصَّنْفَرَةِ النَّاعِمِ.",
+      "english": "Sand the wood with fine sandpaper.",
+      "concept_refs": [
+        "c154_010",
+        "c154_001"
+      ]
+    },
+    {
+      "id": "s799",
+      "german": "Der Holzleim trocknet in einer Stunde.",
+      "arabic": "غِرَاءُ الْخَشَبِ يَجِفُّ فِي سَاعَةٍ وَاحِدَةٍ.",
+      "english": "The wood glue dries in one hour.",
+      "concept_refs": [
+        "c154_011"
+      ]
+    },
+    {
+      "id": "s800",
+      "german": "Auf der Werkbank liegen alle Werkzeuge bereit.",
+      "arabic": "عَلَى طَاوِلَةِ الْعَمَلِ جَمِيعُ الْعُدَدِ جَاهِزَةٌ.",
+      "english": "All tools are ready on the workbench.",
+      "concept_refs": [
+        "c154_012"
+      ]
+    },
+    {
+      "id": "s801",
+      "german": "Der Werkzeugkasten ist schwer und vollständig.",
+      "arabic": "صُنْدُوقُ الْعُدَّةِ ثَقِيلٌ وَمُكْتَمِلٌ.",
+      "english": "The toolbox is heavy and complete.",
+      "concept_refs": [
+        "c154_013"
+      ]
+    },
+    {
+      "id": "s802",
+      "german": "Er bohrt ein Loch mit der Bohrmaschine.",
+      "arabic": "هُوَ يَحْفِرُ ثَقْبًا بِالْمِثْقَابِ.",
+      "english": "He drills a hole with the drill.",
+      "concept_refs": [
+        "c154_014"
+      ]
+    },
+    {
+      "id": "s803",
+      "german": "Ich streiche das Regal mit weißer Farbe.",
+      "arabic": "أَنَا أَطْلِي الرَّفَّ بِطِلَاءٍ أَبْيَضَ.",
+      "english": "I paint the shelf with white paint.",
+      "concept_refs": [
+        "c154_016",
+        "c154_020"
+      ]
+    },
+    {
+      "id": "s804",
+      "german": "Reinige den Pinsel nach der Arbeit mit Wasser.",
+      "arabic": "نَظِّفِ الْفُرْشَاةَ بَعْدَ الْعَمَلِ بِالْمَاءِ.",
+      "english": "Clean the brush with water after work.",
+      "concept_refs": [
+        "c154_017"
+      ]
+    },
+    {
+      "id": "s805",
+      "german": "Eine genaue Messung verhindert Fehler.",
+      "arabic": "الْقِيَاسُ الدَّقِيقُ يَمْنَعُ الْأَخْطَاءَ.",
+      "english": "An accurate measurement prevents errors.",
+      "concept_refs": [
+        "c154_018"
+      ]
+    },
+    {
+      "id": "s806",
+      "german": "Das einfache Design gefällt allen Kunden.",
+      "arabic": "التَّصْمِيمُ الْبَسِيطُ يُعْجِبُ جَمِيعَ الزَّبَائِنِ.",
+      "english": "The simple design appeals to all customers.",
+      "concept_refs": [
+        "c154_019"
+      ]
+    },
+    {
+      "id": "s807",
+      "german": "Dieser Holzstuhl ist stabil und bequem.",
+      "arabic": "هَذَا الْكُرْسِيُّ الْخَشَبِيُّ مَتِينٌ وَمُرِيحٌ.",
+      "english": "This wooden chair is sturdy and comfortable.",
+      "concept_refs": [
+        "c154_021"
+      ]
+    },
+    {
+      "id": "s808",
+      "german": "Der Handwerker repariert das Fenster schnell.",
+      "arabic": "الصَّانِعُ الْمَاهِرُ يُصْلِحُ النَّافِذَةَ بِسُرْعَةٍ.",
+      "english": "The skilled craftsman repairs the window quickly.",
+      "concept_refs": [
+        "c154_022",
+        "c154_024"
+      ]
+    },
+    {
+      "id": "s809",
+      "german": "Tischlerei erfordert viel Geduld und Übung.",
+      "arabic": "النِّجَارَةُ تَتَطَلَّبُ كَثِيرًا مِنَ الصَّبْرِ وَالْمُمَارَسَةِ.",
+      "english": "Carpentry requires a lot of patience and practice.",
+      "concept_refs": [
+        "c154_023"
+      ]
+    },
+    {
+      "id": "s810",
+      "german": "Wir bauen heute einen neuen Tisch aus Holz.",
+      "arabic": "نَحْنُ نَبْنِي الْيَوْمَ طَاوِلَةً جَدِيدَةً مِنَ الْخَشَبِ.",
+      "english": "We are building a new wooden table today.",
+      "concept_refs": [
+        "v086",
+        "c154_001"
       ]
     }
   ]
