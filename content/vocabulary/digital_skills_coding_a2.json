@@ -1,0 +1,409 @@
+{
+  "category_id": "digital_skills_coding_a2",
+  "category_name_de": "Digitale Kompetenzen, Programmieren & Nützliche Technologie",
+  "category_name_en": "Digital Skills, Coding & Beneficial Technology",
+  "category_name_ar": "المَهَارَاتُ الرَّقْمِيَّةُ وَالبَرْمَجَةُ وَالتِّقْنِيَّةُ النَّافِعَة",
+  "level": "A2+",
+  "items": [
+    {
+      "id": "digital_code_001",
+      "term_de": "der Computer",
+      "plural_de": "die Computer",
+      "term_en": "computer",
+      "term_ar": "الحَاسُوب",
+      "pronunciation_de": "[kɔmˈpjuːtɐ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der Computer ist ein unverzichtbares Werkzeug für Lernen und Forschung.",
+          "en": "The computer is an indispensable tool for learning and research.",
+          "ar": "الحَاسُوبُ أَدَاةٌ لَا غِنَى عَنْهَا لِلتَّعَلُّمِ وَالبَحْثِ العِلْمِيّ."
+        }
+      ]
+    },
+    {
+      "id": "digital_code_002",
+      "term_de": "der Laptop",
+      "plural_de": "die Laptops",
+      "term_en": "laptop, notebook",
+      "term_ar": "الحَاسُوبُ المَحْمُول",
+      "pronunciation_de": "[ˈlɛptɔp]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Mit dem leichten Laptop kann man flexibel in der Bibliothek arbeiten.",
+          "en": "With the lightweight laptop, you can work flexibly in the library.",
+          "ar": "يُمْكِنُ المَرْءَ العَمَلُ بِمُرُونَةٍ فِي المَكْتَبَةِ بِالحَاسُوبِ المَحْمُولِ الخَفِيف."
+        }
+      ]
+    },
+    {
+      "id": "digital_code_003",
+      "term_de": "die Software",
+      "plural_de": "die Softwares",
+      "term_en": "software",
+      "term_ar": "البَرْمَجِيَّات",
+      "pronunciation_de": "[ˈzɔftvɛːɐ̯]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Moderne Software erleichtert die Übersetzung von Texten in drei Sprachen.",
+          "en": "Modern software facilitates the translation of texts into three languages.",
+          "ar": "تُيَسِّرُ البَرْمَجِيَّاتُ الحَدِيثَةُ تَرْجَمَةَ النُّصُوصِ بَيْنَ ثَلَاثِ لُغَات."
+        }
+      ]
+    },
+    {
+      "id": "digital_code_004",
+      "term_de": "das Programm",
+      "plural_de": "die Programme",
+      "term_en": "program, application",
+      "term_ar": "البَرْنَامَج",
+      "pronunciation_de": "[pʁoˈɡʁam]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das Sprachlernprogramm hilft beim systematischen Wiederholen von Vokabeln.",
+          "en": "The language learning program helps with systematic vocabulary review.",
+          "ar": "يُعِينُ بَرْنَامَجُ تَعَلُّمِ اللُّغَاتِ عَلَى المُرَاجَعَةِ المُنْتَظَمَةِ لِلْمُفْرَدَات."
+        }
+      ]
+    },
+    {
+      "id": "digital_code_005",
+      "term_de": "der Quellcode",
+      "plural_de": "die Quellcodes",
+      "term_en": "source code",
+      "term_ar": "الكُودُ المَصْدَرِيّ، الشِّيفْرَةُ البَرْمَجِيَّة",
+      "pronunciation_de": "[ˈkvɛlˌkoːt]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Sauber geschriebener Quellcode ist leicht lesbar und fehlerarm.",
+          "en": "Cleanly written source code is easily readable and low in errors.",
+          "ar": "الشِّيفْرَةُ المَصْدَرِيَّةُ المَكْتُوبَةُ بِنَظَافَةٍ تَكُونُ سَهْلَةَ القِرَاءَةِ وَقَلِيلَةَ الأَخْطَاء."
+        }
+      ]
+    },
+    {
+      "id": "digital_code_006",
+      "term_de": "die Programmiersprache",
+      "plural_de": "die Programmiersprachen",
+      "term_en": "programming language",
+      "term_ar": "لُغَةُ البَرْمَجَة",
+      "pronunciation_de": "[pʁoɡʁaˈmiːɐ̯ˌʃpʁaːxə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Python und Dart sind beliebte Programmiersprachen für moderne Anwendungen.",
+          "en": "Python and Dart are popular programming languages for modern apps.",
+          "ar": "بَايثُون وَدَارْت لُغَتَا بَرْمَجَةٍ شَائِعَتَانِ لِتَطْوِيرِ التَّطْبِيقَاتِ العَصْرِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "digital_code_007",
+      "term_de": "die Datei",
+      "plural_de": "die Dateien",
+      "term_en": "file, data file",
+      "term_ar": "المَلَفُّ الرَّقْمِيّ",
+      "pronunciation_de": "[daˈtaɪ̯]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die strukturierte JSON-Datei speichert alle Wörter und Beispielsätze.",
+          "en": "The structured JSON file stores all words and example sentences.",
+          "ar": "يَحْفَظُ مَلَفُّ جِيسُون المُنَظَّمُ جَمِيعَ الكَلِمَاتِ وَالجُمَلِ التَّدْرِيبِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "digital_code_008",
+      "term_de": "der Algorithmus",
+      "plural_de": "die Algorithmen",
+      "term_en": "algorithm",
+      "term_ar": "الخُوَارِزْمِيَّة",
+      "pronunciation_de": "[ʔalɡoˈʁɪtmʊs]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der Begriff Algorithmus geht auf den großen Gelehrten Al-Chwarizmi zurück.",
+          "en": "The term algorithm traces back to the great scholar Al-Khwarizmi.",
+          "ar": "يَعُودُ مُصْطَلَحُ الخُوَارِزْمِيَّةِ إِلَى العَالِمِ المُسْلِمِ الكَبِيرِ الخُوَارِزْمِيّ."
+        }
+      ]
+    },
+    {
+      "id": "digital_code_009",
+      "term_de": "die Datenbank",
+      "plural_de": "die Datenbanken",
+      "term_en": "database",
+      "term_ar": "قَاعِدَةُ البَيَانَات",
+      "pronunciation_de": "[ˈdaːtn̩ˌbaŋk]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "In der sicheren Datenbank werden die Lernfortschritte der Schüler gespeichert.",
+          "en": "Students' learning progress is stored in the secure database.",
+          "ar": "تُحْفَظُ مَرَاحِلُ تَقَدُّمِ التَّلَامِيذِ فِي قَاعِدَةِ بَيَانَاتٍ آمِنَة."
+        }
+      ]
+    },
+    {
+      "id": "digital_code_010",
+      "term_de": "das Netzwerk",
+      "plural_de": "die Netzwerke",
+      "term_en": "network",
+      "term_ar": "الشَّبَكَةُ الرَّقْمِيَّة",
+      "pronunciation_de": "[ˈnɛt͡sˌvɛʁk]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das schnelle Netzwerk verbindet alle Computer der Schule miteinander.",
+          "en": "The fast network connects all computers of the school with each other.",
+          "ar": "تَرْبِطُ الشَّبَكَةُ السَّرِيعَةُ جَمِيعَ حَوَاسِيبِ المَدْرَسَةِ فِيمَا بَيْنَهَا."
+        }
+      ]
+    },
+    {
+      "id": "digital_code_011",
+      "term_de": "das Internet",
+      "plural_de": "-",
+      "term_en": "internet",
+      "term_ar": "الشَّبَكَةُ العَنْكَبُوتِيَّة، الإِنْتَرْنِت",
+      "pronunciation_de": "[ˈɪntɐnɛt]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das Internet ermöglicht den weltweiten Austausch von nützlichem Wissen.",
+          "en": "The internet enables worldwide exchange of useful knowledge.",
+          "ar": "تُتِيحُ الشَّبَكَةُ العَنْكَبُوتِيَّةُ تَبَادُلَ العُلُومِ النَّافِعَةِ حَوْلَ العَالَم."
+        }
+      ]
+    },
+    {
+      "id": "digital_code_012",
+      "term_de": "die Webseite",
+      "plural_de": "die Webseiten",
+      "term_en": "website, webpage",
+      "term_ar": "المَوْقِعُ الإِلِكْتُرُونِيّ، صَفْحَةُ الوِيب",
+      "pronunciation_de": "[ˈvɛpˌzaɪ̯tə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die barrierefreie Webseite lässt sich auf allen Geräten mühelos bedienen.",
+          "en": "The accessible website can be easily navigated on all devices.",
+          "ar": "يُمْكِنُ تِصَفُّحُ المَوْقِعِ الإِلِكْتُرُونِيِّ المَيْسُورِ عَلَى جَمِيعِ الأَجْهِزَةِ بِيُسْر."
+        }
+      ]
+    },
+    {
+      "id": "digital_code_013",
+      "term_de": "die App",
+      "plural_de": "die Apps",
+      "term_en": "mobile application, app",
+      "term_ar": "التَّطْبِيقُ الذَّكِيّ",
+      "pronunciation_de": "[ʔɛp]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Mit der dreisprachigen App übt man arabische, deutsche und englische Vokabeln.",
+          "en": "With the trilingual app, you practice Arabic, German, and English vocabulary.",
+          "ar": "يَتَدَرَّبُ المَرْءُ عَبْرَ التَّطْبِيقِ ثُلَاثِيِّ اللُّغَاتِ عَلَى الكَلِمَاتِ العَرَبِيَّةِ وَالأَلْمَانِيَّةِ وَالإِنْجِلِيزِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "digital_code_014",
+      "term_de": "die Tastatur",
+      "plural_de": "die Tastaturen",
+      "term_en": "keyboard",
+      "term_ar": "لَوْحَةُ المَفَاتِيح",
+      "pronunciation_de": "[tastaˈtuːɐ̯]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Das Zehnfingersystem auf der Tastatur beschleunigt das Schreiben erheblich.",
+          "en": "Touch typing on the keyboard speeds up typing significantly.",
+          "ar": "الكِتَابَةُ بِالأَصَابِعِ العَشَرَةِ عَلَى لَوْحَةِ المَفَاتِيحِ تُسَرِّعُ التَّدْوِينَ كَثِيرًا."
+        }
+      ]
+    },
+    {
+      "id": "digital_code_015",
+      "term_de": "die Maus",
+      "plural_de": "die Mäuse",
+      "term_en": "computer mouse",
+      "term_ar": "فَأْرَةُ الحَاسُوب",
+      "pronunciation_de": "[maʊ̯s]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Ein Klick mit der Maus öffnet das gewünschte Dokument.",
+          "en": "A click with the mouse opens the desired document.",
+          "ar": "نَقْرَةٌ بِالفَأْرَةِ تَفْتَحُ المَلَفَّ المَطْلُوب."
+        }
+      ]
+    },
+    {
+      "id": "digital_code_016",
+      "term_de": "der Speicher",
+      "plural_de": "die Speicher",
+      "term_en": "storage, computer memory",
+      "term_ar": "ذَاكِرَةُ التَّخْزِين، السَّعَةُ الرَّقْمِيَّة",
+      "pronunciation_de": "[ˈʃpaɪ̯çɐ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Die schnelle SSD-Festplatte bietet ausreichend Speicher für alle Lerninhalte.",
+          "en": "The fast SSD provides sufficient storage for all learning contents.",
+          "ar": "يُوَفِّرُ القُرْصُ الصَّلْبُ السَّرِيعُ سَعَةَ تَخْزِينٍ كَافِيَةً لِجَمِيعِ المَوَادِّ التَّعْلِيمِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "digital_code_017",
+      "term_de": "die Datensicherheit",
+      "plural_de": "-",
+      "term_en": "data security, cybersecurity",
+      "term_ar": "أَمْنُ البَيَانَات، حِمَايَةُ المَعْلُومَات",
+      "pronunciation_de": "[ˈdaːtn̩ˌzɪçɐhaɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Strenge Datensicherheit schützt die Privatsphäre aller Nutzer.",
+          "en": "Strict data security protects the privacy of all users.",
+          "ar": "حِمَايَةُ البَيَانَاتِ الصَّارِمَةُ تَصُونُ خُصُوصِيَّةَ جَمِيعِ المُسْتَخْدِمِين."
+        }
+      ]
+    },
+    {
+      "id": "digital_code_018",
+      "term_de": "das Passwort",
+      "plural_de": "die Passwörter",
+      "term_en": "password",
+      "term_ar": "كَلِمَةُ المُرُور، كَلِمَةُ السِّرّ",
+      "pronunciation_de": "[ˈpasˌvɔʁt]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Ein starkes Passwort enthält Buchstaben, Zahlen und Sonderzeichen.",
+          "en": "A strong password contains letters, numbers, and special characters.",
+          "ar": "تَحْتَوِي كَلِمَةُ المُرُورِ القَوِيَّةُ عَلَى حُرُوفٍ وَأَرْقَامٍ وَرُمُوزٍ خَاصَّة."
+        }
+      ]
+    },
+    {
+      "id": "digital_code_019",
+      "term_de": "das Update",
+      "plural_de": "die Updates",
+      "term_en": "software update",
+      "term_ar": "التَّحْدِيثُ البَرْمَجِيّ",
+      "pronunciation_de": "[ˈʔapdeːt]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das regelmäßige Update schließt Sicherheitslücken und bringt neue Funktionen.",
+          "en": "The regular update patches security gaps and brings new features.",
+          "ar": "يَسُدُّ التَّحْدِيثُ المُنْتَظَمُ الثَّغَرَاتِ الأَمْنِيَّةَ وَيُضِيفُ مِيزَاتٍ جَدِيدَة."
+        }
+      ]
+    },
+    {
+      "id": "digital_code_020",
+      "term_de": "der Fehler",
+      "plural_de": "die Fehler",
+      "term_en": "bug, programming error",
+      "term_ar": "الخَلَلُ البَرْمَجِيّ، الخَطَأ",
+      "pronunciation_de": "[ˈfeːlɐ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der Programmierer fand den kleinen Fehler im Code und korrigierte ihn sofort.",
+          "en": "The programmer found the small bug in the code and corrected it immediately.",
+          "ar": "عَثَرَ المُبَرْمِجُ عَلَى الخَلَلِ الصَّغِيرِ فِي الكُودِ وَأَصْلَحَهُ فَوْرًا."
+        }
+      ]
+    },
+    {
+      "id": "digital_code_021",
+      "term_de": "die Behebung",
+      "plural_de": "die Behebungen",
+      "term_en": "bug fix, error resolution",
+      "term_ar": "مُعَالَجَةُ الخَلَل، الإِصْلَاح",
+      "pronunciation_de": "[bəˈheːbʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die rasche Behebung des Softwarefehlers sorgte für einen stabilen Betrieb.",
+          "en": "The swift resolution of the software bug ensured stable operation.",
+          "ar": "ضَمِنَتِ المُعَالَجَةُ السَّرِيعَةُ لِلْخَلَلِ البَرْمَجِيِّ عَمَلَ النِّظَامِ بِثَبَات."
+        }
+      ]
+    },
+    {
+      "id": "digital_code_022",
+      "term_de": "die Schnittstelle",
+      "plural_de": "die Schnittstellen",
+      "term_en": "interface, API",
+      "term_ar": "وَاجِهَةُ البَرْمَجَة، المَنْفَذُ البَرْمَجِيّ",
+      "pronunciation_de": "[ˈʃnɪtˌʃtɛlə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Über die standardisierte Schnittstelle tauschen die Systeme Daten sicher aus.",
+          "en": "Via the standardized interface, systems exchange data securely.",
+          "ar": "تَتَبَادَلُ الأَنْظِمَةُ البَيَانَاتِ بِأَمَانٍ عَبْرَ وَاجِهَةِ البَرْمَجَةِ المُعْتَمَدَة."
+        }
+      ]
+    },
+    {
+      "id": "digital_code_023",
+      "term_de": "die Effizienz",
+      "plural_de": "-",
+      "term_en": "efficiency, algorithmic performance",
+      "term_ar": "الكَفَاءَةُ البَرْمَجِيَّة",
+      "pronunciation_de": "[ʔɛfiˈt͡si̯ɛnt͡s]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Hohe Effizienz im Quellcode spart Rechenleistung und Akkustrom.",
+          "en": "High efficiency in source code saves computing power and battery.",
+          "ar": "تُوَفِّرُ الكَفَاءَةُ العَالِيَةُ فِي الكُودِ قُدْرَةَ المُعَالَجَةِ وَطَاقَةَ البَطَّارِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "digital_code_024",
+      "term_de": "die Logik",
+      "plural_de": "-",
+      "term_en": "logic, computational reasoning",
+      "term_ar": "المَنْطِقُ البَرْمَجِيّ",
+      "pronunciation_de": "[ˈloːɡɪk]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Klare mathematische Logik bildet das Fundament jeder soliden Programmierung.",
+          "en": "Clear mathematical logic forms the foundation of every sound programming.",
+          "ar": "المَنْطِقُ الرِّيَاضِيُّ السَّلِيمُ هُوَ رَكِيزَةُ كُلِّ بَرْمَجَةٍ رَصِينَة."
+        }
+      ]
+    },
+    {
+      "id": "digital_code_025",
+      "term_de": "der Nutzen",
+      "plural_de": "-",
+      "term_en": "social utility, practical benefit",
+      "term_ar": "النَّفْع، الفَائِدَةُ المُجْتَمَعِيَّةُ لِلتِّقْنِيَّة",
+      "pronunciation_de": "[ˈnʊt͡sn̩]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Wahre Technologie beweist sich durch ihren gemeinnützigen Nutzen für die Menschheit.",
+          "en": "True technology proves itself through its beneficial utility for humanity.",
+          "ar": "تَتَأَكَّدُ القِيمَةُ الحَقِيقِيَّةُ لِلتِّقْنِيَّةِ مِنْ خِلَالِ نَفْعِهَا لِلْبَشَرِيَّة."
+        }
+      ]
+    }
+  ]
+}

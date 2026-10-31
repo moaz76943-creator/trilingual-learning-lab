@@ -1,0 +1,909 @@
+{
+  "category_id": "a2_entrepreneurship_service_verbs",
+  "category_name_de": "Unternehmens-, Beratungs- und Kundenserviceverben",
+  "category_name_en": "Entrepreneurship, Advisory & Customer Service Verbs",
+  "category_name_ar": "أفعال ريادة الأعمال والاستشارة وخدمة العملاء",
+  "level": "A2/B1",
+  "verbs": [
+    {
+      "id": "verb_biz_001",
+      "infinitive": "gründen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "ein neues Unternehmen oder eine Werkstatt ins Leben rufen",
+      "meaning_en": "to found, establish a business",
+      "meaning_ar": "يُؤَسِّسُ، يُنْشِئُ شَرِكَةً أَوْ مَشْرُوعًا",
+      "tenses": {
+        "present": {
+          "ich": "gründe",
+          "du": "gründest",
+          "er_sie_es": "gründet",
+          "wir": "gründen",
+          "ihr": "gründet",
+          "sie_Sie": "gründen"
+        },
+        "past_simple": {
+          "ich": "gründete",
+          "du": "gründetest",
+          "er_sie_es": "gründete",
+          "wir": "gründeten",
+          "ihr": "gründetet",
+          "sie_Sie": "gründeten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gegründet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يؤسس بالشراكة مع"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die beiden Freunde gründeten ein erfolgreiches Unternehmen für Holzhandwerk.",
+          "en": "The two friends founded a successful woodworking company.",
+          "ar": "أَسَّسَ الصَّدِيقَانِ شَرِكَةً نَاجِحَةً لِلصِّنَاعَاتِ الخَشَبِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_biz_002",
+      "infinitive": "leiten",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "ein Geschäft oder Team mit Weitsicht und Verantwortungsbewusstsein führen",
+      "meaning_en": "to manage, lead a venture",
+      "meaning_ar": "يُدِيرُ المَنْشَأَةَ بِحِكْمَةٍ وَمَسْؤُولِيَّة",
+      "tenses": {
+        "present": {
+          "ich": "leite",
+          "du": "leitest",
+          "er_sie_es": "leitet",
+          "wir": "leiten",
+          "ihr": "leitet",
+          "sie_Sie": "leiten"
+        },
+        "past_simple": {
+          "ich": "leitete",
+          "du": "leitetest",
+          "er_sie_es": "leitete",
+          "wir": "leiteten",
+          "ihr": "leitetet",
+          "sie_Sie": "leiteten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geleitet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "seit",
+          "case": "Dativ",
+          "meaning_ar": "يدير منذ سنوات"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Unternehmerin leitet den Handwerksbetrieb seit über zehn Jahren erfolgreich.",
+          "en": "The businesswoman has been leading the craft enterprise successfully for over ten years.",
+          "ar": "تُدِيرُ رَائِدَةُ الأَعْمَالِ المَنْشَأَةَ الحِرَفِيَّةَ بِنَجَاحٍ مُنْذُ أَكْثَرَ مِنْ عَشْرِ سَنَوَات."
+        }
+      ]
+    },
+    {
+      "id": "verb_biz_003",
+      "infinitive": "beraten",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "Kunden fachkundig, geduldig und ehrlich unterstützen",
+      "meaning_en": "to advise, consult clients",
+      "meaning_ar": "يَسْتَشِيرُ، يُقَدِّمُ النُّصْحَ المِهْنِيَّ لِلْعَمِيل",
+      "tenses": {
+        "present": {
+          "ich": "berate",
+          "du": "berätst",
+          "er_sie_es": "berät",
+          "wir": "beraten",
+          "ihr": "beratet",
+          "sie_Sie": "beraten"
+        },
+        "past_simple": {
+          "ich": "beriet",
+          "du": "berietest",
+          "er_sie_es": "beriet",
+          "wir": "berieten",
+          "ihr": "berietet",
+          "sie_Sie": "berieten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "beraten"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "bei",
+          "case": "Dativ",
+          "meaning_ar": "يقدم المشورة في الشراء"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Kundenberater berät die Käufer ausführlich bei der Auswahl des passenden Produkts.",
+          "en": "The customer advisor consults the buyers in detail on selecting the right product.",
+          "ar": "يُقَدِّمُ مُسْتَشَارُ العُمَلَاءِ المَشُورَةَ الوَافِيَةَ لِلْمُشْتَرِينَ عِنْدَ اخْتِيَارِ المُنْتَجِ المُنَاسِب."
+        }
+      ]
+    },
+    {
+      "id": "verb_biz_004",
+      "infinitive": "anbieten",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "Dienstleistungen oder Waren zu fairen Bedingungen zur Verfügung stellen",
+      "meaning_en": "to offer services or products",
+      "meaning_ar": "يَعْرِضُ، يُقَدِّمُ خِدْمَةً أَوْ سِلْعَة",
+      "tenses": {
+        "present": {
+          "ich": "biete an",
+          "du": "bietest an",
+          "er_sie_es": "bietet an",
+          "wir": "bieten an",
+          "ihr": "bietet an",
+          "sie_Sie": "bieten an"
+        },
+        "past_simple": {
+          "ich": "bot an",
+          "du": "botest an",
+          "er_sie_es": "bot an",
+          "wir": "boten an",
+          "ihr": "botet an",
+          "sie_Sie": "boten an"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "angeboten"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "zu",
+          "case": "Dativ",
+          "meaning_ar": "يقدم بأسعار عادلة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Werkstatt bietet hochwertige Reparaturen zu transparenten Preisen an.",
+          "en": "The workshop offers high-quality repairs at transparent prices.",
+          "ar": "تُقَدِّمُ الوَرْشَةُ إِصْلَاحَاتٍ عَالِيَةَ الجَوْدَةِ بِأَسْعَارٍ شَفَّافَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_biz_005",
+      "infinitive": "verhandeln",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "Vertragsbedingungen und Lieferzeiten partnerschaftlich vereinbaren",
+      "meaning_en": "to negotiate contracts",
+      "meaning_ar": "يُفَاوِضُ، يَتَفَاوَضُ عَلَى صَفْقَةٍ تِجَارِيَّة",
+      "tenses": {
+        "present": {
+          "ich": "verhandle",
+          "du": "verhandelst",
+          "er_sie_es": "verhandelt",
+          "wir": "verhandeln",
+          "ihr": "verhandelt",
+          "sie_Sie": "verhandeln"
+        },
+        "past_simple": {
+          "ich": "verhandelte",
+          "du": "verhandeltest",
+          "er_sie_es": "verhandelte",
+          "wir": "verhandelten",
+          "ihr": "verhandeltet",
+          "sie_Sie": "verhandelten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "verhandelt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يتفاوض مع الموردين"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Einkäufer verhandelt stets fair mit den lokalen Lieferanten.",
+          "en": "The purchasing agent always negotiates fairly with local suppliers.",
+          "ar": "يَتَفَاوَضُ مَسْؤُولُ الشِّرَاءِ دَائِمًا بِإِنْصَافٍ مَعَ المُوَرِّدِينَ المَحَلِّيِّين."
+        }
+      ]
+    },
+    {
+      "id": "verb_biz_006",
+      "infinitive": "beliefern",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Kunden pünktlich mit bestellten Waren versorgen",
+      "meaning_en": "to supply, deliver goods to",
+      "meaning_ar": "يُزَوِّدُ، يُوَرِّدُ البَضَائِعَ لِلْعُمَلَاء",
+      "tenses": {
+        "present": {
+          "ich": "beliefere",
+          "du": "belieferst",
+          "er_sie_es": "beliefert",
+          "wir": "beliefern",
+          "ihr": "beliefert",
+          "sie_Sie": "beliefern"
+        },
+        "past_simple": {
+          "ich": "belieferte",
+          "du": "beliefertest",
+          "er_sie_es": "belieferte",
+          "wir": "belieferten",
+          "ihr": "beliefertet",
+          "sie_Sie": "belieferten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "beliefert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يزود بمنتجات طازجة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Bäckerei beliefert die Schulen morgens mit frischem Vollkornbrot.",
+          "en": "The bakery supplies the schools in the morning with fresh wholemeal bread.",
+          "ar": "تُزَوِّدُ المَخْبَزَةُ المَدَارِسَ صَبَاحًا بِخُبْزِ القَمْحِ الكَامِلِ الطَّازَج."
+        }
+      ]
+    },
+    {
+      "id": "verb_biz_007",
+      "infinitive": "betreuen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Kunden während des gesamten Projekts aufmerksam begleiten",
+      "meaning_en": "to look after clients, care for accounts",
+      "meaning_ar": "يَرْعَى العَمِيلَ، يُتَابِعُ احْتِيَاجَاتِهِ بِعِنَايَة",
+      "tenses": {
+        "present": {
+          "ich": "betreue",
+          "du": "betreust",
+          "er_sie_es": "betreut",
+          "wir": "betreuen",
+          "ihr": "betreut",
+          "sie_Sie": "betreuen"
+        },
+        "past_simple": {
+          "ich": "betreute",
+          "du": "betreutest",
+          "er_sie_es": "betreute",
+          "wir": "betreuten",
+          "ihr": "betreutet",
+          "sie_Sie": "betreuten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "betreut"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "während",
+          "case": "Genitiv",
+          "meaning_ar": "يرعى طوال فترة المشروع"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Unser Team betreut jeden Auftraggeber von der Planung bis zur Fertigstellung.",
+          "en": "Our team looks after every client from planning to completion.",
+          "ar": "يَرْعَى فَرِيقُنَا كُلَّ عَمِيلٍ مُنْذُ مَرْحَلَةِ التَّخْطِيطِ حَتَّى التَّسْلِيمِ النِّهَائِيّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_biz_008",
+      "infinitive": "kalkulieren",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "Kosten, Materialbedarf und Zeitaufwand exakt berechnen",
+      "meaning_en": "to calculate costs, estimate",
+      "meaning_ar": "يَحْسُبُ التَّكَالِيفَ وَيُقَدِّرُ الجَدْوَى المَالِيَّة",
+      "tenses": {
+        "present": {
+          "ich": "kalkuliere",
+          "du": "kalkulierst",
+          "er_sie_es": "kalkuliert",
+          "wir": "kalkulieren",
+          "ihr": "kalkuliert",
+          "sie_Sie": "kalkulieren"
+        },
+        "past_simple": {
+          "ich": "kalkulierte",
+          "du": "kalkuliertest",
+          "er_sie_es": "kalkulierte",
+          "wir": "kalkulierten",
+          "ihr": "kalkuliertet",
+          "sie_Sie": "kalkulierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "kalkuliert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Akkusativ",
+          "meaning_ar": "يقدر بدقة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Meister kalkulierte die Materialkosten präzise vor Beginn der Arbeiten.",
+          "en": "The master calculated the material costs precisely before starting work.",
+          "ar": "حَسَبَ الصَّانِعُ تَكَالِيفَ المَوَادِّ بِدِقَّةٍ قَبْلَ الشُّرُوعِ فِي العَمَل."
+        }
+      ]
+    },
+    {
+      "id": "verb_biz_009",
+      "infinitive": "investieren",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Mittel in moderne Werkzeuge und nachhaltige Technik anlegen",
+      "meaning_en": "to invest in equipment",
+      "meaning_ar": "يَسْتَثْمِرُ فِي تَطْوِيرِ المَعَدَّاتِ وَالتِّقْنِيَّات",
+      "tenses": {
+        "present": {
+          "ich": "investiere",
+          "du": "investierst",
+          "er_sie_es": "investiert",
+          "wir": "investieren",
+          "ihr": "investiert",
+          "sie_Sie": "investieren"
+        },
+        "past_simple": {
+          "ich": "investierte",
+          "du": "investiertest",
+          "er_sie_es": "investierte",
+          "wir": "investierten",
+          "ihr": "investiertet",
+          "sie_Sie": "investierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "investiert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Akkusativ",
+          "meaning_ar": "يستثمر في معدات جديدة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Das Unternehmen investiert gezielt in energiesparende Maschinen.",
+          "en": "The enterprise purposefully invests in energy-saving machinery.",
+          "ar": "تَسْتَثْمِرُ المُنْشَأَةُ عَنْ وَعْيٍ فِي مَكِينَاتٍ مُوَفِّرَةٍ لِلطَّاقَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_biz_010",
+      "infinitive": "optimieren",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "Arbeitsabläufe vereinfachen, verbessern und wirtschaftlicher gestalten",
+      "meaning_en": "to optimize workflows",
+      "meaning_ar": "يُحَسِّنُ، يُطَوِّرُ مَسَارَاتِ العَمَل",
+      "tenses": {
+        "present": {
+          "ich": "optimiere",
+          "du": "optimierst",
+          "er_sie_es": "optimiert",
+          "wir": "optimieren",
+          "ihr": "optimiert",
+          "sie_Sie": "optimieren"
+        },
+        "past_simple": {
+          "ich": "optimierte",
+          "du": "optimiertest",
+          "er_sie_es": "optimierte",
+          "wir": "optimierten",
+          "ihr": "optimiertet",
+          "sie_Sie": "optimierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "optimiert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "durch",
+          "case": "Akkusativ",
+          "meaning_ar": "يطور بواسطة تقنيات حديثة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Durch digitale Werkzeuge optimieren wir die Auftragsabwicklung erheblich.",
+          "en": "Through digital tools, we significantly optimize order processing.",
+          "ar": "نُطَوِّرُ مُعَالَجَةَ الطَّلَبَاتِ بِشَكْلٍ مَلْحُوظٍ عَبْرَ الأَدَوَاتِ الرَّقْمِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_biz_011",
+      "infinitive": "kooperieren",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "mit Partnerunternehmen zum gegenseitigen Vorteil zusammenwirken",
+      "meaning_en": "to cooperate with partners",
+      "meaning_ar": "يَتَعَاوَنُ، يَعْقِدُ شَرَاكَاتٍ مُثْمِرَة",
+      "tenses": {
+        "present": {
+          "ich": "kooperiere",
+          "du": "kooperierst",
+          "er_sie_es": "kooperiert",
+          "wir": "kooperieren",
+          "ihr": "kooperiert",
+          "sie_Sie": "kooperieren"
+        },
+        "past_simple": {
+          "ich": "kooperierte",
+          "du": "kooperiertest",
+          "er_sie_es": "kooperierte",
+          "wir": "kooperierten",
+          "ihr": "kooperiertet",
+          "sie_Sie": "kooperierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "kooperiert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يتعاون مع ورشات شقيقة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Lokale Betriebe kooperieren eng, um größere Bauprojekte zu realisieren.",
+          "en": "Local businesses cooperate closely to implement larger construction projects.",
+          "ar": "تَتَعَاوَنُ المُنْشَآتُ المَحَلِّيَّةُ تَعَاوُنًا وَثِيقًا لِتَنْفِيذِ مَشَارِيعَ عُمْرَانِيَّةٍ كُبْرَى."
+        }
+      ]
+    },
+    {
+      "id": "verb_biz_012",
+      "infinitive": "überzeugen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Kunden durch erstklassige Qualität und Zuverlässigkeit für sich gewinnen",
+      "meaning_en": "to convince by quality",
+      "meaning_ar": "يُقْنِعُ العَمِيلَ بِجَوْدَةِ المُنْتَج",
+      "tenses": {
+        "present": {
+          "ich": "überzeuge",
+          "du": "überzeugst",
+          "er_sie_es": "überzeugt",
+          "wir": "überzeugen",
+          "ihr": "überzeugt",
+          "sie_Sie": "überzeugen"
+        },
+        "past_simple": {
+          "ich": "überzeugte",
+          "du": "überzeugtest",
+          "er_sie_es": "überzeugte",
+          "wir": "überzeugten",
+          "ihr": "überzeugtet",
+          "sie_Sie": "überzeugten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "überzeugt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "durch",
+          "case": "Akkusativ",
+          "meaning_ar": "يقنع بالإتقان"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Schreiner überzeugte den Kunden durch die hervorragende Verarbeitung des Tisches.",
+          "en": "The carpenter convinced the client through the excellent craftsmanship of the table.",
+          "ar": "أَقْنَعَ النَّجَّارُ العَمِيلَ بِفَضْلِ التَّشْطِيبِ المُمْتَازِ لِلطَّاوِلَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_biz_013",
+      "infinitive": "vereinbaren",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Fristen, Preise und Lieferbedingungen vertraglich festlegen",
+      "meaning_en": "to agree upon terms",
+      "meaning_ar": "يَتَّفِقُ عَلَى شُرُوطِ التَّعَاقُدِ وَالمَوَاعِيد",
+      "tenses": {
+        "present": {
+          "ich": "vereinbare",
+          "du": "vereinbarst",
+          "er_sie_es": "vereinbart",
+          "wir": "vereinbaren",
+          "ihr": "vereinbart",
+          "sie_Sie": "vereinbaren"
+        },
+        "past_simple": {
+          "ich": "vereinbarte",
+          "du": "vereinbartest",
+          "er_sie_es": "vereinbarte",
+          "wir": "vereinbarten",
+          "ihr": "vereinbartet",
+          "sie_Sie": "vereinbarten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "vereinbart"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يتفق مع الشركاء"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wir vereinbarten einen fairen Zahlungsplan mit dem Auftraggeber.",
+          "en": "We agreed upon a fair payment plan with the client.",
+          "ar": "اتَّفَقْنَا مَعَ العَمِيلِ عَلَى خُطَّةِ سَدَادٍ مُيَسَّرَةٍ وَعَادِلَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_biz_014",
+      "infinitive": "expandieren",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "die eigene Geschäftstätigkeit auf neue Regionen ausdehnen",
+      "meaning_en": "to expand business",
+      "meaning_ar": "يَتَوَسَّعُ تِجَارِيًّا فِي السُّوق",
+      "tenses": {
+        "present": {
+          "ich": "expandiere",
+          "du": "expandierst",
+          "er_sie_es": "expandiert",
+          "wir": "expandieren",
+          "ihr": "expandiert",
+          "sie_Sie": "expandieren"
+        },
+        "past_simple": {
+          "ich": "expandierte",
+          "du": "expandiertest",
+          "er_sie_es": "expandierte",
+          "wir": "expandierten",
+          "ihr": "expandiertet",
+          "sie_Sie": "expandierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "expandiert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Akkusativ",
+          "meaning_ar": "يتوسع في مدن جديدة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Dank treuer Kundschaft expandiert die Manufaktur in benachbarte Städte.",
+          "en": "Thanks to loyal clientele, the manufactory is expanding into neighboring cities.",
+          "ar": "تَتَوَسَّعُ الوَرْشَةُ الحِرَفِيَّةُ فِي المُدُنِ المُجَاوِرَةِ بِفَضْلِ ثِقَةِ الزَّبَائِن."
+        }
+      ]
+    },
+    {
+      "id": "verb_biz_015",
+      "infinitive": "erwirtschaften",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "durch fleißige Arbeit einen ehrlichen Ertrag erzielen",
+      "meaning_en": "to earn, generate honest revenue",
+      "meaning_ar": "يَجْنِي أَرْبَاحًا شَرِيفَةً بِكَدِّ يَمِينِه",
+      "tenses": {
+        "present": {
+          "ich": "erwirtschafte",
+          "du": "erwirtschaftest",
+          "er_sie_es": "erwirtschaftet",
+          "wir": "erwirtschaften",
+          "ihr": "erwirtschaftet",
+          "sie_Sie": "erwirtschaften"
+        },
+        "past_simple": {
+          "ich": "erwirtschaftete",
+          "du": "erwirtschaftetest",
+          "er_sie_es": "erwirtschaftete",
+          "wir": "erwirtschafteten",
+          "ihr": "erwirtschaftetet",
+          "sie_Sie": "erwirtschafteten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "erwirtschaftet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "durch",
+          "case": "Akkusativ",
+          "meaning_ar": "يجني من خلال الإنتاج المتقن"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Handwerker erwirtschafteten einen soliden Gewinn für die Betriebserweiterung.",
+          "en": "The craftsmen generated a solid profit for the business expansion.",
+          "ar": "حَقَّقَ الحِرَفِيُّونَ عِوَضًا مَالِيًّا طَيِّبًا لِتَوْسِعَةِ نَشَاطِهِم."
+        }
+      ]
+    },
+    {
+      "id": "verb_biz_016",
+      "infinitive": "weiterempfehlen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "eine gute Dienstleistung anderen Bekannten anraten",
+      "meaning_en": "to recommend to others",
+      "meaning_ar": "يُوصِي بِالخِدْمَةِ لِغَيْرِه",
+      "tenses": {
+        "present": {
+          "ich": "empfehle weiter",
+          "du": "empfiehlst weiter",
+          "er_sie_es": "empfiehlt weiter",
+          "wir": "empfehlen weiter",
+          "ihr": "empfehlt weiter",
+          "sie_Sie": "empfehlen weiter"
+        },
+        "past_simple": {
+          "ich": "empfahl weiter",
+          "du": "empfahlst weiter",
+          "er_sie_es": "empfahl weiter",
+          "wir": "empfahlen weiter",
+          "ihr": "empfahlt weiter",
+          "sie_Sie": "empfahlen weiter"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "weiterempfohlen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Akkusativ",
+          "meaning_ar": "يوصي به للأصدقاء"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Zufriedene Kunden empfehlen den zuverlässigen Betrieb gerne an Nachbarn weiter.",
+          "en": "Satisfied customers gladly recommend the reliable business to neighbors.",
+          "ar": "يُوصِي العُمَلَاءُ الرَّاضُونَ بِالمَنْشَأَةِ المَوْثُوقَةِ لِجِيرَانِهِمْ بِسَعَادَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_biz_017",
+      "infinitive": "schätzen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "die Treue und den Wert langfristiger Kundenbeziehungen achten",
+      "meaning_en": "to appreciate customer loyalty",
+      "meaning_ar": "يُقَدِّرُ، يَعْتَزُّ بِوَفَاءِ العُمَلَاء",
+      "tenses": {
+        "present": {
+          "ich": "schätze",
+          "du": "schätzt",
+          "er_sie_es": "schätzt",
+          "wir": "schätzen",
+          "ihr": "schätzt",
+          "sie_Sie": "schätzen"
+        },
+        "past_simple": {
+          "ich": "schätzte",
+          "du": "schätztest",
+          "er_sie_es": "schätzte",
+          "wir": "schätzten",
+          "ihr": "schätztet",
+          "sie_Sie": "schätzten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geschätzt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "für",
+          "case": "Akkusativ",
+          "meaning_ar": "يقدر على الإخلاص"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Händler schätzt seine Stammkunden für ihr langjähriges Vertrauen.",
+          "en": "The merchant appreciates his regular customers for their long-standing trust.",
+          "ar": "يُقَدِّرُ التَّاجِرُ عُمَلَاءَهُ الدَّائِمِينَ لِثِقَتِهِمُ المُمْتَدَّةِ عَبْرَ السِّنِين."
+        }
+      ]
+    },
+    {
+      "id": "verb_biz_018",
+      "infinitive": "absichern",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "den Betrieb und die Mitarbeiter gegen unvorhersehbare Risiken schützen",
+      "meaning_en": "to safeguard, secure the business",
+      "meaning_ar": "يُحَصِّنُ المَشْرُوعَ ضِدَّ المَخَاطِر",
+      "tenses": {
+        "present": {
+          "ich": "sichere ab",
+          "du": "sicherst ab",
+          "er_sie_es": "sichert ab",
+          "wir": "sichern ab",
+          "ihr": "sichert ab",
+          "sie_Sie": "sichern ab"
+        },
+        "past_simple": {
+          "ich": "sicherte ab",
+          "du": "sichertest ab",
+          "er_sie_es": "sicherte ab",
+          "wir": "sicherten ab",
+          "ihr": "sichertet ab",
+          "sie_Sie": "sicherten ab"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "abgesichert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "gegen",
+          "case": "Akkusativ",
+          "meaning_ar": "يحصن ضد الأزمات"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Eine solide Rücklage sichert das Familienunternehmen gegen wirtschaftliche Schwankungen ab.",
+          "en": "A solid reserve secures the family business against economic fluctuations.",
+          "ar": "تُحَصِّنُ الِاحْتِيَاطَاتُ المَالِيَّةُ الرَّصِينَةُ الشَّرِكَةَ العَائِلِيَّةَ ضِدَّ تَقَلُّبَاتِ السُّوق."
+        }
+      ]
+    },
+    {
+      "id": "verb_biz_019",
+      "infinitive": "entwickeln",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "neue, praktische Produkte zur Lösung von Kundenproblemen entwerfen",
+      "meaning_en": "to develop practical solutions",
+      "meaning_ar": "يُطَوِّرُ حُلُولًا وَمُنْتَجَاتٍ نَافِعَة",
+      "tenses": {
+        "present": {
+          "ich": "entwickle",
+          "du": "entwickelst",
+          "er_sie_es": "entwickelt",
+          "wir": "entwickeln",
+          "ihr": "entwickelt",
+          "sie_Sie": "entwickeln"
+        },
+        "past_simple": {
+          "ich": "entwickelte",
+          "du": "entwickeltest",
+          "er_sie_es": "entwickelte",
+          "wir": "entwickelten",
+          "ihr": "entwickeltet",
+          "sie_Sie": "entwickelten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "entwickelt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "für",
+          "case": "Akkusativ",
+          "meaning_ar": "يطور لأجل راحة المجتمع"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Ingenieure entwickeln sparsame Solarlampen für den Gartenbau.",
+          "en": "The engineers are developing energy-saving solar lamps for horticulture.",
+          "ar": "يُطَوِّرُ المُهَنْدِسُونَ مَصَابِيحَ شَمْسِيَّةً مُوَفِّرَةً لِخِدْمَةِ الحَدَائِق."
+        }
+      ]
+    },
+    {
+      "id": "verb_biz_020",
+      "infinitive": "florieren",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "wirtschaftlich prächtig gedeihen und stetig wachsen",
+      "meaning_en": "to flourish, prosper",
+      "meaning_ar": "يَزْدَهِرُ، يَنْمُو النَّشَاطُ التِّجَارِيُّ بِبَرَكَة",
+      "tenses": {
+        "present": {
+          "ich": "floriere",
+          "du": "florierst",
+          "er_sie_es": "floriert",
+          "wir": "florieren",
+          "ihr": "floriert",
+          "sie_Sie": "florieren"
+        },
+        "past_simple": {
+          "ich": "florierte",
+          "du": "floriertest",
+          "er_sie_es": "florierte",
+          "wir": "florierten",
+          "ihr": "floriertet",
+          "sie_Sie": "florierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "floriert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "durch",
+          "case": "Akkusativ",
+          "meaning_ar": "يزدهر بفضل الصدق والإتقان"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Dank Ehrlichkeit und hervorragender Qualität floriert das Geschäft seit Generationen.",
+          "en": "Thanks to honesty and outstanding quality, the business has flourished for generations.",
+          "ar": "يَزْدَهِرُ المَتْجَرُ مُنْذُ أَجْيَالٍ بِفَضْلِ الصِّدْقِ وَالإِتْقَانِ الفَائِق."
+        }
+      ]
+    }
+  ]
+}

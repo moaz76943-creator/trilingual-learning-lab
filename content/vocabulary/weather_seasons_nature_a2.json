@@ -1,0 +1,409 @@
+{
+  "category_id": "weather_seasons_nature_a2",
+  "category_name_de": "Wetter, Jahreszeiten & Naturphänomene",
+  "category_name_en": "Weather, Seasons & Natural Phenomena",
+  "category_name_ar": "الطَّقْسُ وَالفُصُولُ وَالظَّوَاهِرُ المُنَاخِيَّة",
+  "level": "A2+",
+  "items": [
+    {
+      "id": "weather_seas_001",
+      "term_de": "das Wetter",
+      "plural_de": "-",
+      "term_en": "weather",
+      "term_ar": "الطَّقْس، الجَوّ",
+      "pronunciation_de": "[ˈvɛtɐ]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Heute ist das Wetter herrlich sonnig und angenehm mild.",
+          "en": "Today the weather is delightfully sunny and pleasantly mild.",
+          "ar": "الطَّقْسُ اليَوْمَ مُشْمِسٌ بَدِيعٌ وَمُعْتَدِلٌ لَطِيف."
+        }
+      ]
+    },
+    {
+      "id": "weather_seas_002",
+      "term_de": "die Jahreszeit",
+      "plural_de": "die Jahreszeiten",
+      "term_en": "season",
+      "term_ar": "فَصْلُ السَّنَة، المَوْسِم",
+      "pronunciation_de": "[ˈjaːʁəsˌt͡saɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Jede der vier Jahreszeiten bringt ihre eigenen Früchte und Schönheiten hervor.",
+          "en": "Each of the four seasons brings forth its own fruits and beauties.",
+          "ar": "يَجْلِبُ كُلُّ فَصْلٍ مِنَ الفُصُولِ الأَرْبَعَةِ ثِمَارَهُ وَجَمَالَهُ الخَاصّ."
+        }
+      ]
+    },
+    {
+      "id": "weather_seas_003",
+      "term_de": "der Frühling",
+      "plural_de": "die Frühlinge",
+      "term_en": "spring",
+      "term_ar": "الرَّبِيع",
+      "pronunciation_de": "[ˈfʁyːlɪŋ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Im Frühling erwacht die Natur zu neuem Leben und die Blumen erblühen.",
+          "en": "In spring, nature awakens to new life and flowers blossom.",
+          "ar": "تَسْتَيْقِظُ الطَّبِيعَةُ فِي الرَّبِيعِ لِحَيَاةٍ جَدِيدَةٍ وَتَتَفَتَّحُ الأَزْهَار."
+        }
+      ]
+    },
+    {
+      "id": "weather_seas_004",
+      "term_de": "der Sommer",
+      "plural_de": "die Sommer",
+      "term_en": "summer",
+      "term_ar": "الصَّيْف",
+      "pronunciation_de": "[ˈzɔmɐ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Im warmen Sommer reifen saftige Feigen und süße Trauben an den Hängen.",
+          "en": "In warm summer, juicy figs and sweet grapes ripen on the slopes.",
+          "ar": "يَنْضَجُ التِّينُ النَّضِرُ وَالعِنَبُ الحُلْوُ عَلَى السُّفُوحِ فِي الصَّيْفِ الدَّافِئ."
+        }
+      ]
+    },
+    {
+      "id": "weather_seas_005",
+      "term_de": "der Herbst",
+      "plural_de": "die Herbste",
+      "term_en": "autumn, fall",
+      "term_ar": "الخَرِيف",
+      "pronunciation_de": "[hɛʁpst]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Im goldenen Herbst färben sich die Blätter der Bäume in leuchtendem Gelb und Rot.",
+          "en": "In golden autumn, tree leaves turn into glowing yellow and red.",
+          "ar": "تَتَلَوَّنُ أَوْرَاقُ الأَشْجَارِ فِي الخَرِيفِ الذَّهَبِيِّ بِالأَصْفَرِ وَالأَحْمَرِ الزَّاهِي."
+        }
+      ]
+    },
+    {
+      "id": "weather_seas_006",
+      "term_de": "der Winter",
+      "plural_de": "die Winter",
+      "term_en": "winter",
+      "term_ar": "الشِّتَاء",
+      "pronunciation_de": "[ˈvɪntɐ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Im Winter bedeckt weißer Schnee die Dächer des friedlichen Dorfes.",
+          "en": "In winter, white snow covers the roofs of the peaceful village.",
+          "ar": "يَكْسُو الثَّلْجُ الأَبْيَضُ فِي الشِّتَاءِ أَسْطُحَ المَنَازِلِ فِي القَرْيَةِ الهَادِئَة."
+        }
+      ]
+    },
+    {
+      "id": "weather_seas_007",
+      "term_de": "die Temperatur",
+      "plural_de": "die Temperaturen",
+      "term_en": "temperature",
+      "term_ar": "دَرَجَةُ الحَرَارَة",
+      "pronunciation_de": "[tɛmpəʁaˈtuːɐ̯]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Das Thermometer zeigt heute eine angenehme Temperatur von zweiundzwanzig Grad.",
+          "en": "The thermometer shows a pleasant temperature of twenty-two degrees today.",
+          "ar": "يُظْهِرُ مِقْيَاسُ الحَرَارَةِ اليَوْمَ دَرَجَةً لَطِيفَةً تَبْلُغُ اثْنَتَيْنِ وَعِشْرِينَ دَرَجَة."
+        }
+      ]
+    },
+    {
+      "id": "weather_seas_008",
+      "term_de": "die Wolke",
+      "plural_de": "die Wolken",
+      "term_en": "cloud",
+      "term_ar": "السَّحَابَة، الغَيْمَة",
+      "pronunciation_de": "[ˈvɔlkə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Weiße Schäfchenwolken ziehen langsam über den blauen Himmel.",
+          "en": "White fleecy clouds drift slowly across the blue sky.",
+          "ar": "تَمُرُّ سُحُبٌ بَيْضَاءُ خَفِيفَةٌ بِبُطْءٍ عَبْرَ السَّمَاءِ الزَّرْقَاء."
+        }
+      ]
+    },
+    {
+      "id": "weather_seas_009",
+      "term_de": "der Regen",
+      "plural_de": "-",
+      "term_en": "rain",
+      "term_ar": "المَطَر، الغَيْث",
+      "pronunciation_de": "[ˈʁeːɡn̩]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der sanfte Regen belebt die ausgetrocknete Erde und schenkt neues Leben.",
+          "en": "The gentle rain revives the dried-up earth and grants new life.",
+          "ar": "يُحْيِي المَطَرُ اللَّطِيفُ الأَرْضَ الجَافَّةَ وَيَمْنَحُهَا حَيَاةً جَدِيدَة."
+        }
+      ]
+    },
+    {
+      "id": "weather_seas_010",
+      "term_de": "der Schneefall",
+      "plural_de": "-",
+      "term_en": "snowfall",
+      "term_ar": "تَسَاقُطُ الثُّلُوج",
+      "pronunciation_de": "[ˈʃneːˌfal]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Dichter Schneefall verzaubert die Gebirgslandschaft in eine weiße Stille.",
+          "en": "Dense snowfall enchants the mountain landscape into a white silence.",
+          "ar": "يُحَوِّلُ تَسَاقُطُ الثَّلْجِ الكَثِيفُ المَشْهَدَ الجَبَلِيَّ إِلَى سُكُونٍ أَبْيَضَ بَدِيع."
+        }
+      ]
+    },
+    {
+      "id": "weather_seas_011",
+      "term_de": "der Wind",
+      "plural_de": "die Winde",
+      "term_en": "wind, breeze",
+      "term_ar": "الرِّيح، النَّسِيم",
+      "pronunciation_de": "[vɪnt]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Ein kühler Wind weht vom Meer herüber und erfrischt den heißen Nachmittag.",
+          "en": "A cool wind blows from the sea, refreshing the hot afternoon.",
+          "ar": "تَهُبُّ رِيحٌ بَارِدَةٌ مِنَ البَحْرِ لِتُنْعِشَ بَعْدَ الظُّهْرِ الحَارّ."
+        }
+      ]
+    },
+    {
+      "id": "weather_seas_012",
+      "term_de": "der Sturm",
+      "plural_de": "die Stürme",
+      "term_en": "storm, gale",
+      "term_ar": "العَاصِفَة",
+      "pronunciation_de": "[ʃtʊʁm]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Die Dorfbewohner blieben während des heftigen Sturms sicher im Haus.",
+          "en": "The villagers stayed safely indoors during the fierce storm.",
+          "ar": "مَكَثَ أَهْلُ القَرْيَةِ بِأَمَانٍ فِي دُورِهِمْ أَثْنَاءَ العَاصِفَةِ الشَّدِيدَة."
+        }
+      ]
+    },
+    {
+      "id": "weather_seas_013",
+      "term_de": "der Regenbogen",
+      "plural_de": "die Regenbogen",
+      "term_en": "rainbow",
+      "term_ar": "قَوْسُ قُزَح، قَوْسُ الأَلْوَان",
+      "pronunciation_de": "[ˈʁeːɡn̩ˌboːɡn̩]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Nach dem Schauer erschien ein leuchtender Regenbogen über den Feldern.",
+          "en": "After the shower, a glowing rainbow appeared over the fields.",
+          "ar": "ظَهَرَ قَوْسُ أَلْوَانٍ مُشْرِقٌ فَوْقَ الحُقُولِ بَعْدَ انْقِضَاءِ المَطَر."
+        }
+      ]
+    },
+    {
+      "id": "weather_seas_014",
+      "term_de": "der Sonnenschein",
+      "plural_de": "-",
+      "term_en": "sunshine",
+      "term_ar": "إِشْرَاقُ الشَّمْس، الضِّيَاء",
+      "pronunciation_de": "[ˈzɔnənˌʃaɪ̯n]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Warmer Sonnenschein lockt die Kinder zum Spielen in den Garten.",
+          "en": "Warm sunshine entices the children into the garden to play.",
+          "ar": "يَسْتَهْوِي ضِيَاءُ الشَّمْسِ الدَّافِئُ الأَطْفَالَ لِلَّعِبِ فِي الحَدِيقَة."
+        }
+      ]
+    },
+    {
+      "id": "weather_seas_015",
+      "term_de": "die Hitze",
+      "plural_de": "-",
+      "term_en": "heat",
+      "term_ar": "الحَرَارَةُ الشَّدِيدَة",
+      "pronunciation_de": "[ˈhɪt͡sə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "In der sommerlichen Hitze spendet der Schatten der Bäume wohltuende Kühle.",
+          "en": "In the summer heat, the shade of trees provides pleasant coolness.",
+          "ar": "يَمْنَحُ ظِلُّ الأَشْجَارِ انْتِعَاشًا طَيِّبًا فِي حَرِّ الصَّيْف."
+        }
+      ]
+    },
+    {
+      "id": "weather_seas_016",
+      "term_de": "die Kälte",
+      "plural_de": "-",
+      "term_en": "coldness, chill",
+      "term_ar": "البُرُودَة، الصَّقْعَة",
+      "pronunciation_de": "[ˈkɛltə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Gegen die Kälte des Winters schützt warme Wollkleidung zuverlässig.",
+          "en": "Warm wool clothing reliably protects against the winter cold.",
+          "ar": "تَقِي المَلَابِسُ الصُّوفِيَّةُ الدَّافِئَةُ مِنْ بُرُودَةِ الشِّتَاءِ بِمَوْثُوقِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "weather_seas_017",
+      "term_de": "der Nebel",
+      "plural_de": "die Nebel",
+      "term_en": "fog, mist",
+      "term_ar": "الضَّبَاب",
+      "pronunciation_de": "[ˈneːbl̩]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Am frühen Morgen lag dichter Nebel über den Wiesen des Flusstals.",
+          "en": "Early in the morning, thick fog lay over the meadows of the river valley.",
+          "ar": "خَيَّمَ ضَبَابٌ كَثِيفٌ صَبَاحًا بَاكِرًا عَلَى مُرُوجِ وَادِي النَّهْر."
+        }
+      ]
+    },
+    {
+      "id": "weather_seas_018",
+      "term_de": "der Frost",
+      "plural_de": "die Fröste",
+      "term_en": "frost",
+      "term_ar": "الصَّقِيع",
+      "pronunciation_de": "[fʁɔst]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Weißer Frost bedeckte die Grashalme wie feiner Puderzucker.",
+          "en": "White frost covered the blades of grass like fine powdered sugar.",
+          "ar": "غَطَّى الصَّقِيعُ الأَبْيَضُ أَعْوَادَ العُشْبِ كَالسُّكَّرِ النَّاعِم."
+        }
+      ]
+    },
+    {
+      "id": "weather_seas_019",
+      "term_de": "das Gewitter",
+      "plural_de": "die Gewitter",
+      "term_en": "thunderstorm",
+      "term_ar": "العَاصِفَةُ الرَّعْدِيَّة",
+      "pronunciation_de": "[ɡəˈvɪtɐ]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das kurze Sommergewitter reinigte die schwüle Luft gründlich.",
+          "en": "The short summer thunderstorm thoroughly cleansed the humid air.",
+          "ar": "نَقَّتِ العَاصِفَةُ الرَّعْدِيَّةُ الصَّيْفِيَّةُ القَصِيرَةُ الهَوَاءَ الخَانِقَ تَمَامًا."
+        }
+      ]
+    },
+    {
+      "id": "weather_seas_020",
+      "term_de": "der Blitz",
+      "plural_de": "die Blitze",
+      "term_en": "lightning",
+      "term_ar": "البَرْق",
+      "pronunciation_de": "[blɪt͡s]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Ein heller Blitz zuckte über das nächtliche Wolkenmeer.",
+          "en": "A bright lightning flashed across the nighttime sea of clouds.",
+          "ar": "لَمَعَ بَرْقٌ سَاطِعٌ عَبْرَ بَحْرِ السُّحُبِ اللَّيْلِيّ."
+        }
+      ]
+    },
+    {
+      "id": "weather_seas_021",
+      "term_de": "der Donner",
+      "plural_de": "die Donner",
+      "term_en": "thunder",
+      "term_ar": "الرَّعْد",
+      "pronunciation_de": "[ˈdɔnɐ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "In der Ferne grollte der dumpfe Donner durch das Tal.",
+          "en": "In the distance, dull thunder rumbled through the valley.",
+          "ar": "دَوَى صَوْتُ الرَّعْدِ الهَادِرِ مِنْ بَعِيدٍ عَبْرَ الوَادِي."
+        }
+      ]
+    },
+    {
+      "id": "weather_seas_022",
+      "term_de": "der Wetterbericht",
+      "plural_de": "die Wetterberichte",
+      "term_en": "weather forecast",
+      "term_ar": "النَّشْرَةُ الجَوِّيَّة",
+      "pronunciation_de": "[ˈvɛtɐbəˌʁɪçt]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der Wetterbericht sagt für das gesamte Wochenende sonnige Tage voraus.",
+          "en": "The weather forecast predicts sunny days for the entire weekend.",
+          "ar": "تَتَوَقَّعُ النَّشْرَةُ الجَوِّيَّةُ أَيَّامًا مُشْمِسَةً لِعُطْلَةِ نِهَايَةِ الأُسْبُوعِ كُلِّهَا."
+        }
+      ]
+    },
+    {
+      "id": "weather_seas_023",
+      "term_de": "der Regenschirm",
+      "plural_de": "die Regenschirme",
+      "term_en": "umbrella",
+      "term_ar": "المِظَلَّةُ المَطَرِيَّة، الشَّمْسِيَّة",
+      "pronunciation_de": "[ˈʁeːɡn̩ˌʃɪʁm]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Nimm vorsorglich den großen Regenschirm mit, der Himmel zieht sich zu.",
+          "en": "Take the large umbrella with you as a precaution, the sky is clouding over.",
+          "ar": "خُذْ مَعَكَ المِظَلَّةَ الكَبِيرَةَ احْتِيَاطًا، فَالسَّمَاءُ تَتَلَبَّدُ بِالغُيُوم."
+        }
+      ]
+    },
+    {
+      "id": "weather_seas_024",
+      "term_de": "die Frische",
+      "plural_de": "-",
+      "term_en": "cool morning freshness",
+      "term_ar": "الانْتِعَاش، الهَوَاءُ العَلِيل",
+      "pronunciation_de": "[ˈfʁɪʃə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die morgendliche Frische nach dem Regen schenkt neue Lebenskraft.",
+          "en": "The morning freshness after the rain gives new vitality.",
+          "ar": "انْتِعَاشُ الصَّبَاحِ بَعْدَ المَطَرِ يَبْعَثُ طَاقَةً وَحَيَوِيَّةً مُتَجَدِّدَة."
+        }
+      ]
+    },
+    {
+      "id": "weather_seas_025",
+      "term_de": "die Milde",
+      "plural_de": "-",
+      "term_en": "mildness of climate",
+      "term_ar": "اعْتِدَالُ الجَوّ، اللَّطَافَةُ المُنَاخِيَّة",
+      "pronunciation_de": "[ˈmɪldə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Milde des Frühlingsklimas tut der Gesundheit unendlich gut.",
+          "en": "The mildness of the spring climate is immensely good for health.",
+          "ar": "اعْتِدَالُ جَوِّ الرَّبِيعِ يُكْسِبُ الصِّحَّةَ عَافِيَةً وَنَشَاطًا."
+        }
+      ]
+    }
+  ]
+}

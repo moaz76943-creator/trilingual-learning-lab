@@ -1,0 +1,914 @@
+{
+  "category_id": "a2_reading_study_verbs",
+  "category_name_de": "Lese-, Studien- und Wissenserwerbsverben",
+  "category_name_en": "Reading, Study & Knowledge Acquisition Verbs",
+  "category_name_ar": "أفعال القراءة والمطالعة والتحصيل المعرفي",
+  "level": "A1/A2",
+  "verbs": [
+    {
+      "id": "verb_read_001",
+      "infinitive": "lesen",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "geschriebene Texte mit den Augen erfassen und verstehen",
+      "meaning_en": "to read",
+      "meaning_ar": "يَقْرَأُ، يُطَالِعُ",
+      "tenses": {
+        "present": {
+          "ich": "lese",
+          "du": "liest",
+          "er_sie_es": "liest",
+          "wir": "lesen",
+          "ihr": "lest",
+          "sie_Sie": "lesen"
+        },
+        "past_simple": {
+          "ich": "las",
+          "du": "lasest",
+          "er_sie_es": "las",
+          "wir": "lasen",
+          "ihr": "last",
+          "sie_Sie": "lasen"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gelesen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "über",
+          "case": "Akkusativ",
+          "meaning_ar": "يقرأ عن"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er liest jeden Abend vor dem Schlafen ein Kapitel in seinem Buch.",
+          "en": "He reads a chapter in his book every evening before sleeping.",
+          "ar": "يَقْرَأُ كُلَّ مَسَاءٍ قَبْلَ النَّوْمِ فَصْلًا فِي كِتَابِه."
+        }
+      ]
+    },
+    {
+      "id": "verb_read_002",
+      "infinitive": "vorlesen",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "einen Text laut sprechen, sodass andere zuhören können",
+      "meaning_en": "to read aloud to others",
+      "meaning_ar": "يَقْرَأُ بِصَوْتٍ عَالٍ لِلآخَرِين",
+      "tenses": {
+        "present": {
+          "ich": "lese vor",
+          "du": "liest vor",
+          "er_sie_es": "liest vor",
+          "wir": "lesen vor",
+          "ihr": "lest vor",
+          "sie_Sie": "lesen vor"
+        },
+        "past_simple": {
+          "ich": "las vor",
+          "du": "lasest vor",
+          "er_sie_es": "las vor",
+          "wir": "lasen vor",
+          "ihr": "last vor",
+          "sie_Sie": "lasen vor"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "vorgelesen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "aus",
+          "case": "Dativ",
+          "meaning_ar": "يقرأ جهراً من"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Vater liest den Kindern eine lehrreiche Erzählung vor.",
+          "en": "The father reads an educational tale aloud to the children.",
+          "ar": "يَقْرَأُ الأَبُ لِلأَطْفَالِ قِصَّةً نَافِعَةً بِصَوْتٍ عَال."
+        }
+      ]
+    },
+    {
+      "id": "verb_read_003",
+      "infinitive": "nachschlagen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "in einem Wörterbuch oder Nachschlagewerk eine Information suchen",
+      "meaning_en": "to look up, consult dictionary",
+      "meaning_ar": "يَبْحَثُ فِي القَامُوسِ أَوِ المَرْجِع",
+      "tenses": {
+        "present": {
+          "ich": "schlage nach",
+          "du": "schlägst nach",
+          "er_sie_es": "schlägt nach",
+          "wir": "schlagen nach",
+          "ihr": "schlagt nach",
+          "sie_Sie": "schlagen nach"
+        },
+        "past_simple": {
+          "ich": "schlug nach",
+          "du": "schlugst nach",
+          "er_sie_es": "schlug nach",
+          "wir": "schlugen nach",
+          "ihr": "schlugt nach",
+          "sie_Sie": "schlugen nach"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "nachgeschlagen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يبحث في"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wenn er ein unbekanntes Wort findet, schlägt er es im Wörterbuch nach.",
+          "en": "When he finds an unfamiliar word, he looks it up in the dictionary.",
+          "ar": "إِذَا صَادَفَ كَلِمَةً غَيْرَ مَعْرُوفَةٍ، بَحَثَ عَنْهَا فِي المُعْجَم."
+        }
+      ]
+    },
+    {
+      "id": "verb_read_004",
+      "infinitive": "ausleihen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "ein Buch für eine bestimmte Zeit aus der Bibliothek mitnehmen",
+      "meaning_en": "to borrow books, check out",
+      "meaning_ar": "يَسْتَعِيرُ الكِتَاب",
+      "tenses": {
+        "present": {
+          "ich": "leihe aus",
+          "du": "leihst aus",
+          "er_sie_es": "leiht aus",
+          "wir": "leihen aus",
+          "ihr": "leiht aus",
+          "sie_Sie": "leihen aus"
+        },
+        "past_simple": {
+          "ich": "lieh aus",
+          "du": "liehst aus",
+          "er_sie_es": "lieh aus",
+          "wir": "liehen aus",
+          "ihr": "lieht aus",
+          "sie_Sie": "liehen aus"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "ausgeliehen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يستعير من مكتبة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Sie leiht sich regelmäßig historische Werke in der Universitätsbibliothek aus.",
+          "en": "She regularly borrows historical works from the university library.",
+          "ar": "تَسْتَعِيرُ بَانْتِظَامٍ كُتُبًا تَارِيخِيَّةً مِنْ مَكْتَبَةِ الجَامِعَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_read_005",
+      "infinitive": "zurückgeben",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "ein entliehenes Buch pünktlich wieder an die Bibliothek aushändigen",
+      "meaning_en": "to return a borrowed book",
+      "meaning_ar": "يُعِيدُ الكِتَابَ المُسْتَعَار",
+      "tenses": {
+        "present": {
+          "ich": "gebe zurück",
+          "du": "gibst zurück",
+          "er_sie_es": "gibt zurück",
+          "wir": "geben zurück",
+          "ihr": "gebt zurück",
+          "sie_Sie": "geben zurück"
+        },
+        "past_simple": {
+          "ich": "gab zurück",
+          "du": "gabst zurück",
+          "er_sie_es": "gab zurück",
+          "wir": "gaben zurück",
+          "ihr": "gabt zurück",
+          "sie_Sie": "gaben zurück"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "zurückgegeben"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Akkusativ",
+          "meaning_ar": "يعيد إلى"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er gab das Buch vor Ablauf der Leihfrist unbeschädigt zurück.",
+          "en": "He returned the book undamaged before the loan period expired.",
+          "ar": "أَعَادَ الكِتَابَ سَلِيمًا قَبْلَ انْتِهَاءِ مُدَّةِ الِاسْتِعَارَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_read_006",
+      "infinitive": "durchblättern",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "die Seiten eines Werkes rasch umwenden, um einen Eindruck zu gewinnen",
+      "meaning_en": "to browse, leaf through",
+      "meaning_ar": "يَتَصَفَّحُ، يُقَلِّبُ الصَّفَحَات",
+      "tenses": {
+        "present": {
+          "ich": "blättere durch",
+          "du": "blätterst durch",
+          "er_sie_es": "blättert durch",
+          "wir": "blättern durch",
+          "ihr": "blättert durch",
+          "sie_Sie": "blättern durch"
+        },
+        "past_simple": {
+          "ich": "blätterte durch",
+          "du": "blättertest durch",
+          "er_sie_es": "blätterte durch",
+          "wir": "blätterten durch",
+          "ihr": "blättertet durch",
+          "sie_Sie": "blätterten durch"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "durchgeblättert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "vor",
+          "case": "Dativ",
+          "meaning_ar": "يتصفح قبل الشراء"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er blättert das Sachbuch neugierig durch, bevor er es kauft.",
+          "en": "He curiously leafs through the non-fiction book before buying it.",
+          "ar": "يَتَصَفَّحُ الكِتَابَ المَعْرِفِيَّ بِشَغَفٍ قَبْلَ أَنْ يَشْتَرِيَه."
+        }
+      ]
+    },
+    {
+      "id": "verb_read_007",
+      "infinitive": "studieren",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "einen Gegenstand oder ein Fachgebiet gründlich und wissenschaftlich ergründen",
+      "meaning_en": "to study deeply",
+      "meaning_ar": "يَدْرُسُ بِعُمْقٍ وَتَدَقُّق",
+      "tenses": {
+        "present": {
+          "ich": "studiere",
+          "du": "studierst",
+          "er_sie_es": "studiert",
+          "wir": "studieren",
+          "ihr": "studiert",
+          "sie_Sie": "studieren"
+        },
+        "past_simple": {
+          "ich": "studierte",
+          "du": "studiertest",
+          "er_sie_es": "studierte",
+          "wir": "studierten",
+          "ihr": "studiertet",
+          "sie_Sie": "studierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "studiert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Dativ",
+          "meaning_ar": "يدرس في جامعة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Sie studiert die arabische Grammatik mit großer Ausdauer.",
+          "en": "She studies Arabic grammar with great perseverance.",
+          "ar": "تَدْرُسُ قَوَاعِدَ اللُّغَةِ العَرَبِيَّةِ بِعَزِيمَةٍ وَصَبْرٍ كَبِير."
+        }
+      ]
+    },
+    {
+      "id": "verb_read_008",
+      "infinitive": "notieren",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "wichtige Gedanken oder Ausdrücke schriftlich festhalten",
+      "meaning_en": "to note down, jot down",
+      "meaning_ar": "يُدَوِّنُ، يُسَجِّلُ مُلَاحَظَات",
+      "tenses": {
+        "present": {
+          "ich": "notiere",
+          "du": "notierst",
+          "er_sie_es": "notiert",
+          "wir": "notieren",
+          "ihr": "notiert",
+          "sie_Sie": "notieren"
+        },
+        "past_simple": {
+          "ich": "notierte",
+          "du": "notiertest",
+          "er_sie_es": "notierte",
+          "wir": "notierten",
+          "ihr": "notiertet",
+          "sie_Sie": "notierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "notiert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Akkusativ",
+          "meaning_ar": "يدون في دفتر"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er notiert die schönsten Zitate in sein ledernes Notizbuch.",
+          "en": "He notes down the most beautiful quotes in his leather notebook.",
+          "ar": "يُدَوِّنُ أَجْمَلَ الِاقْتِبَاسَاتِ فِي دَفْتَرِهِ الجِلْدِيّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_read_009",
+      "infinitive": "zitieren",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "die genauen Worte eines Autors anführen",
+      "meaning_en": "to cite, quote",
+      "meaning_ar": "يَقْتَبِسُ، يَسْتَشْهِدُ بِقَوْل",
+      "tenses": {
+        "present": {
+          "ich": "zitiere",
+          "du": "zitierst",
+          "er_sie_es": "zitiert",
+          "wir": "zitieren",
+          "ihr": "zitiert",
+          "sie_Sie": "zitieren"
+        },
+        "past_simple": {
+          "ich": "zitierte",
+          "du": "zitiertest",
+          "er_sie_es": "zitierte",
+          "wir": "zitierten",
+          "ihr": "zitiertet",
+          "sie_Sie": "zitierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "zitiert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "aus",
+          "case": "Dativ",
+          "meaning_ar": "يقتبس من"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Vortragende zitiert einen bekannten Gelehrten aus dem zehnten Jahrhundert.",
+          "en": "The speaker quotes a famous scholar from the tenth century.",
+          "ar": "يَسْتَشْهِدُ المُحَاضِرُ بِعَالِمٍ مَشْهُورٍ مِنَ القَرْنِ العَاشِر."
+        }
+      ]
+    },
+    {
+      "id": "verb_read_010",
+      "infinitive": "vertiefen",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "sein Verständnis für einen Stoff durch intensives Nachdenken vertiefen",
+      "meaning_en": "to deepen, immerse oneself in",
+      "meaning_ar": "يَتَعَمَّقُ فِي، يَسْتَغْرِقُ فِي فَهْمِ المَسْأَلَة",
+      "tenses": {
+        "present": {
+          "ich": "vertiefe",
+          "du": "vertiefst",
+          "er_sie_es": "vertieft",
+          "wir": "vertiefen",
+          "ihr": "vertieft",
+          "sie_Sie": "vertiefen"
+        },
+        "past_simple": {
+          "ich": "vertiefte",
+          "du": "vertieftest",
+          "er_sie_es": "vertiefte",
+          "wir": "vertieften",
+          "ihr": "vertieftet",
+          "sie_Sie": "vertieften"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "vertieft"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Akkusativ",
+          "meaning_ar": "يستغرق في دراسة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er vertiefte sich im Lesesaal völlig in das alte Geschichtsbuch.",
+          "en": "In the reading room, he immersed himself completely in the ancient history book.",
+          "ar": "اسْتَغْرَقَ فِي قَاعَةِ المُطَالَعَةِ كُلِّيًّا فِي كِتَابِ التَّارِيخِ القَدِيم."
+        }
+      ]
+    },
+    {
+      "id": "verb_read_011",
+      "infinitive": "wiederholen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "Gelerntes nochmals durchgehen, um es im Gedächtnis zu festigen",
+      "meaning_en": "to review, revise",
+      "meaning_ar": "يُرَاجِعُ، يُكَرِّرُ لِلتَّثْبِيت",
+      "tenses": {
+        "present": {
+          "ich": "wiederhole",
+          "du": "wiederholst",
+          "er_sie_es": "wiederholt",
+          "wir": "wiederholen",
+          "ihr": "wiederholt",
+          "sie_Sie": "wiederholen"
+        },
+        "past_simple": {
+          "ich": "wiederholte",
+          "du": "wiederholtest",
+          "er_sie_es": "wiederholte",
+          "wir": "wiederholten",
+          "ihr": "wiederholtet",
+          "sie_Sie": "wiederholten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "wiederholt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "vor",
+          "case": "Dativ",
+          "meaning_ar": "يراجع قبل الاختبار"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Vor der Prüfung wiederholen die Schüler alle Vokabeln sorgfältig.",
+          "en": "Before the exam, students review all vocabulary carefully.",
+          "ar": "يُرَاجِعُ التَّلَامِيذُ قَبْلَ الِاخْتِبَارِ جَمِيعَ المُفْرَدَاتِ بِعِنَايَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_read_012",
+      "infinitive": "zusammenfassen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "die Kernaussagen eines Textes kurz und bündig darstellen",
+      "meaning_en": "to summarize, sum up",
+      "meaning_ar": "يُلَخِّصُ، يُوجِزُ الأَفْكَار",
+      "tenses": {
+        "present": {
+          "ich": "fasse zusammen",
+          "du": "fasst zusammen",
+          "er_sie_es": "fasst zusammen",
+          "wir": "fassen zusammen",
+          "ihr": "fasst zusammen",
+          "sie_Sie": "fassen zusammen"
+        },
+        "past_simple": {
+          "ich": "fasste zusammen",
+          "du": "fasstest zusammen",
+          "er_sie_es": "fasste zusammen",
+          "wir": "fassten zusammen",
+          "ihr": "fasstet zusammen",
+          "sie_Sie": "fassten zusammen"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "zusammengefasst"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يلخص في جمل قليلة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Sie fasst die Hauptgedanken des Kapitels in fünf klaren Sätzen zusammen.",
+          "en": "She summarizes the main ideas of the chapter in five clear sentences.",
+          "ar": "تُلَخِّصُ الأَفْكَارَ الرَّئِيسِيَّةَ لِلْفَصْلِ فِي خَمْسِ جُمَلٍ وَاضِحَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_read_013",
+      "infinitive": "verstehen",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "den Sinn und die Bedeutung von Worten begreifen",
+      "meaning_en": "to understand, comprehend",
+      "meaning_ar": "يَفْهَمُ، يَسْتَوْعِبُ",
+      "tenses": {
+        "present": {
+          "ich": "verstehe",
+          "du": "verstehst",
+          "er_sie_es": "versteht",
+          "wir": "verstehen",
+          "ihr": "versteht",
+          "sie_Sie": "verstehen"
+        },
+        "past_simple": {
+          "ich": "verstand",
+          "du": "verstandest",
+          "er_sie_es": "verstand",
+          "wir": "verstanden",
+          "ihr": "verstandet",
+          "sie_Sie": "verstanden"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "verstanden"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "unter",
+          "case": "Dativ",
+          "meaning_ar": "يفهم من سياق"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Dank der klaren Erklärung verstand die Klasse die grammatische Regel sofort.",
+          "en": "Thanks to the clear explanation, the class understood the grammar rule immediately.",
+          "ar": "فَهِمَ الفَصْلُ القَاعِدَةَ النَّحْوِيَّةَ فَوْرًا بِفَضْلِ الشَّرْحِ الوَاضِح."
+        }
+      ]
+    },
+    {
+      "id": "verb_read_014",
+      "infinitive": "erlernen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "eine Sprache oder Fähigkeit durch Übung beherrschen lernen",
+      "meaning_en": "to master, learn thoroughly",
+      "meaning_ar": "يَتَعَلَّمُ، يُتْقِنُ مَعْرِفَة",
+      "tenses": {
+        "present": {
+          "ich": "erlerne",
+          "du": "erlernst",
+          "er_sie_es": "erlernt",
+          "wir": "erlernen",
+          "ihr": "erlernt",
+          "sie_Sie": "erlernen"
+        },
+        "past_simple": {
+          "ich": "erlernte",
+          "du": "erlerntest",
+          "er_sie_es": "erlernte",
+          "wir": "erlernten",
+          "ihr": "erlerntet",
+          "sie_Sie": "erlernten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "erlernt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يتعلم خلال مدة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Mit täglicher Hingabe erlernt er die deutsche Sprache in Wort und Schrift.",
+          "en": "With daily dedication, he learns the German language in word and script.",
+          "ar": "يَتَعَلَّمُ اللُّغَةَ الأَلْمَانِيَّةَ قِرَاءَةً وَكِتَابَةً بِعَزِيمَةٍ يَوْمِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_read_015",
+      "infinitive": "behalten",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "Wissen und Vokabeln dauerhaft im Gedächtnis bewahren",
+      "meaning_en": "to retain in memory, remember",
+      "meaning_ar": "يَحْفَظُ فِي الذَّاكِرَة، يَسْتَبْقِي",
+      "tenses": {
+        "present": {
+          "ich": "behalte",
+          "du": "behältst",
+          "er_sie_es": "behält",
+          "wir": "behalten",
+          "ihr": "behaltet",
+          "sie_Sie": "behalten"
+        },
+        "past_simple": {
+          "ich": "behielt",
+          "du": "behieltst",
+          "er_sie_es": "behielt",
+          "wir": "behielten",
+          "ihr": "behieltet",
+          "sie_Sie": "behielten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "behalten"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "im",
+          "case": "Dativ",
+          "meaning_ar": "يحفظ في الذاكرة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wer neue Wörter im Kontext lernt, behält sie viel leichter im Gedächtnis.",
+          "en": "Whoever learns new words in context retains them much easier in memory.",
+          "ar": "مَنْ يَتَعَلَّمِ الكَلِمَاتِ فِي سِيَاقِهَا يَحْفَظْهَا فِي ذَاكِرَتِهِ بِسُهُولَةٍ أَبْلَغ."
+        }
+      ]
+    },
+    {
+      "id": "verb_read_016",
+      "infinitive": "übersetzen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "einen Text getreu von einer Sprache in eine andere übertragen",
+      "meaning_en": "to translate accurately",
+      "meaning_ar": "يُتَرْجِمُ بِدِقَّةٍ وَأَمَانَة",
+      "tenses": {
+        "present": {
+          "ich": "übersetze",
+          "du": "übersetzt",
+          "er_sie_es": "übersetzt",
+          "wir": "übersetzen",
+          "ihr": "übersetzt",
+          "sie_Sie": "übersetzen"
+        },
+        "past_simple": {
+          "ich": "übersetzte",
+          "du": "übersetztest",
+          "er_sie_es": "übersetzte",
+          "wir": "übersetzten",
+          "ihr": "übersetztet",
+          "sie_Sie": "übersetzten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "übersetzt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "aus",
+          "case": "Dativ",
+          "meaning_ar": "يترجم من"
+        },
+        {
+          "prep": "in",
+          "case": "Akkusativ",
+          "meaning_ar": "يترجم إلى"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er übersetzt alte arabische Weisheiten ins Deutsche und Englische.",
+          "en": "He translates ancient Arabic wisdom into German and English.",
+          "ar": "يُتَرْجِمُ الحِكَمَ العَرَبِيَّةَ القَدِيمَةَ إِلَى الأَلْمَانِيَّةِ وَالإِنْجِلِيزِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_read_017",
+      "infinitive": "unterstreichen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "eine wichtige Textpassage mit einem Bleistift markieren",
+      "meaning_en": "to underline key points",
+      "meaning_ar": "يَضَعُ خَطًّا تَحْتَ الفِكْرَةِ الرَّئِيسَة",
+      "tenses": {
+        "present": {
+          "ich": "unterstreiche",
+          "du": "unterstreichst",
+          "er_sie_es": "unterstreicht",
+          "wir": "unterstreichen",
+          "ihr": "unterstreicht",
+          "sie_Sie": "unterstreichen"
+        },
+        "past_simple": {
+          "ich": "unterstrich",
+          "du": "unterstrichst",
+          "er_sie_es": "unterstrich",
+          "wir": "unterstrichen",
+          "ihr": "unterstricht",
+          "sie_Sie": "unterstrichen"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "unterstrichen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يضع خطاً بـ"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Sie unterstreicht wichtige Definitionen vorsichtig mit einem Bleistift.",
+          "en": "She carefully underlines important definitions with a pencil.",
+          "ar": "تَضَعُ خَطًّا بِحَذَرٍ بِقَلَمِ الرَّصَاصِ تَحْتَ التَّعْرِيفَاتِ المُهِمَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_read_018",
+      "infinitive": "gliedern",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "einen Aufsatz oder Text logisch in Einleitung, Hauptteil und Schluss ordnen",
+      "meaning_en": "to structure, outline, organize",
+      "meaning_ar": "يُبَوِّبُ، يُقَسِّمُ الأَفْكَارَ مَنْطِقِيًّا",
+      "tenses": {
+        "present": {
+          "ich": "gliedere",
+          "du": "gliederst",
+          "er_sie_es": "gliedert",
+          "wir": "gliedern",
+          "ihr": "gliedert",
+          "sie_Sie": "gliedern"
+        },
+        "past_simple": {
+          "ich": "gliederte",
+          "du": "gliedertest",
+          "er_sie_es": "gliederte",
+          "wir": "gliederten",
+          "ihr": "gliedertet",
+          "sie_Sie": "gliederten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gegliedert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Akkusativ",
+          "meaning_ar": "يقسم إلى أقسام"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Autor gliedert das Buch in zehn übersichtliche Kapitel.",
+          "en": "The author structures the book into ten clear chapters.",
+          "ar": "يُقَسِّمُ المُؤَلِّفُ الكِتَابَ إِلَى عَشْرَةِ فُصُولٍ وَاضِحَةِ التَّرْتِيب."
+        }
+      ]
+    },
+    {
+      "id": "verb_read_019",
+      "infinitive": "verfassen",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "einen Aufsatz, Brief oder ein wissenschaftliches Werk niederschreiben",
+      "meaning_en": "to write, compose",
+      "meaning_ar": "يُؤَلِّفُ، يُحَرِّرُ، يَكْتُبُ",
+      "tenses": {
+        "present": {
+          "ich": "verfasse",
+          "du": "verfasst",
+          "er_sie_es": "verfasst",
+          "wir": "verfassen",
+          "ihr": "verfasst",
+          "sie_Sie": "verfassen"
+        },
+        "past_simple": {
+          "ich": "verfasste",
+          "du": "verfasstest",
+          "er_sie_es": "verfasste",
+          "wir": "verfassten",
+          "ihr": "verfasstet",
+          "sie_Sie": "verfassten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "verfasst"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "über",
+          "case": "Akkusativ",
+          "meaning_ar": "يؤلف حول موضوع"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Forscherin verfasste einen fundierten Artikel über saubere Energiequellen.",
+          "en": "The researcher composed a well-founded article on clean energy sources.",
+          "ar": "حَرَّرَتِ البَاحِثَةُ مَقَالًا رَصِينًا حَوْلَ مَصَادِرِ الطَّاقَةِ النَّظِيفَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_read_020",
+      "infinitive": "bereichern",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "den eigenen Horizont durch edles Wissen und Weisheit erweitern",
+      "meaning_en": "to enrich the mind",
+      "meaning_ar": "يُثْرِي، يُغْنِي العَقْلَ وَالوِجْدَان",
+      "tenses": {
+        "present": {
+          "ich": "bereichere",
+          "du": "bereicherst",
+          "er_sie_es": "bereichert",
+          "wir": "bereichern",
+          "ihr": "bereichert",
+          "sie_Sie": "bereichern"
+        },
+        "past_simple": {
+          "ich": "bereicherte",
+          "du": "bereichertest",
+          "er_sie_es": "bereicherte",
+          "wir": "bereicherten",
+          "ihr": "bereichertet",
+          "sie_Sie": "bereicherten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "bereichert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "durch",
+          "case": "Akkusativ",
+          "meaning_ar": "يثري بواسطة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Tägliches Lesen bereichert den Wortschatz und stärkt den Geist.",
+          "en": "Daily reading enriches vocabulary and strengthens the mind.",
+          "ar": "المُطَالَعَةُ اليَوْمِيَّةُ تُثْرِي الحَصِيلَةَ اللُّغَوِيَّةَ وَتُقَوِّي العَقْل."
+        }
+      ]
+    }
+  ]
+}

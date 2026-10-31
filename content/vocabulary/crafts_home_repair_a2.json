@@ -1,0 +1,409 @@
+{
+  "category_id": "crafts_home_repair_a2",
+  "category_name_de": "Handwerk, Heimwerken & Reparatur",
+  "category_name_en": "Crafts, Home Repair & Maintenance",
+  "category_name_ar": "الحِرَفُ اليَدَوِيَّةُ وَالإِصْلَاحَاتُ المَنْزِلِيَّة",
+  "level": "A2+",
+  "items": [
+    {
+      "id": "crafts_repair_001",
+      "term_de": "die Reparatur",
+      "plural_de": "die Reparaturen",
+      "term_en": "repair, maintenance",
+      "term_ar": "الإِصْلَاح، الصِّيَانَة",
+      "pronunciation_de": "[ʁepaʁaˈtuːɐ̯]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Reparatur des Fahrrads dauerte nur eine halbe Stunde.",
+          "en": "Repairing the bicycle took only half an hour.",
+          "ar": "اسْتَغْرَقَ إِصْلَاحُ الدَّرَّاجَةِ الهَوَائِيَّةِ نِصْفَ سَاعَةٍ فَقَط."
+        }
+      ]
+    },
+    {
+      "id": "crafts_repair_002",
+      "term_de": "der Pinsel",
+      "plural_de": "die Pinsel",
+      "term_en": "paintbrush",
+      "term_ar": "فُرْشَاةُ الطِّلَاء",
+      "pronunciation_de": "[ˈpɪnzl̩]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Er säubert den Pinsel sorgfältig nach dem Streichen der Wand.",
+          "en": "He cleans the paintbrush carefully after painting the wall.",
+          "ar": "يُنَظِّفُ فُرْشَاةَ الطِّلَاءِ بِعِنَايَةٍ بَعْدَ طِلَاءِ الجِدَار."
+        }
+      ]
+    },
+    {
+      "id": "crafts_repair_003",
+      "term_de": "die Farbe",
+      "plural_de": "die Farben",
+      "term_en": "paint, color",
+      "term_ar": "الطِّلَاء، الدِّهَان",
+      "pronunciation_de": "[ˈfaʁbə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Wir haben eine umweltfreundliche weiße Farbe für das Zimmer gewählt.",
+          "en": "We chose an eco-friendly white paint for the room.",
+          "ar": "اخْتَرْنَا طِلَاءً أَبْيَضَ صَدِيقًا لِلْبِيئَةِ لِلْغُرْفَة."
+        }
+      ]
+    },
+    {
+      "id": "crafts_repair_004",
+      "term_de": "der Nagel",
+      "plural_de": "die Nägel",
+      "term_en": "nail",
+      "term_ar": "المِسْمَار",
+      "pronunciation_de": "[ˈnaːɡl̩]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Er schlägt den Nagel vorsichtig in das Holzbrett.",
+          "en": "He drives the nail carefully into the wooden board.",
+          "ar": "يَدُقُّ المِسْمَارَ بِحَذَرٍ فِي اللَّوْحِ الخَشَبِيّ."
+        }
+      ]
+    },
+    {
+      "id": "crafts_repair_005",
+      "term_de": "die Schraube",
+      "plural_de": "die Schrauben",
+      "term_en": "screw",
+      "term_ar": "البُرْغِيّ، اللَّوْلَب",
+      "pronunciation_de": "[ˈʃʁaʊ̯bə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Ziehe die Schraube mit dem Schraubenzieher fest an.",
+          "en": "Tighten the screw firmly using the screwdriver.",
+          "ar": "أَحْكِمْ رَبْطَ البُرْغِيِّ جَيِّدًا بَاسْتِخْدَامِ المِفَكّ."
+        }
+      ]
+    },
+    {
+      "id": "crafts_repair_006",
+      "term_de": "das Maßband",
+      "plural_de": "die Maßbänder",
+      "term_en": "tape measure",
+      "term_ar": "شَرِيطُ القِيَاس",
+      "pronunciation_de": "[ˈmaːsˌbant]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Mit dem Maßband misst die Tischlerin die Länge des Tisches ab.",
+          "en": "With the tape measure, the carpenter measures the length of the table.",
+          "ar": "تَقِيسُ النَّجَّارَةُ طُولَ الطَّاوِلَةِ بِشَرِيطِ القِيَاس."
+        }
+      ]
+    },
+    {
+      "id": "crafts_repair_007",
+      "term_de": "die Bohrmaschine",
+      "plural_de": "die Bohrmaschinen",
+      "term_en": "drill machine",
+      "term_ar": "المِثْقَابُ الكَهْرَبَائِيّ",
+      "pronunciation_de": "[ˈboːɐ̯maˌʃiːnə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Bohrmaschine bohrt ein sauberes Loch in die Betonwand.",
+          "en": "The drill makes a clean hole in the concrete wall.",
+          "ar": "يَصْنَعُ المِثْقَابُ ثَقْبًا نَظِيفًا فِي الجِدَارِ الخَرَسَانِيّ."
+        }
+      ]
+    },
+    {
+      "id": "crafts_repair_008",
+      "term_de": "die Leiter",
+      "plural_de": "die Leitern",
+      "term_en": "ladder",
+      "term_ar": "السُّلَّمُ النَّقَّال",
+      "pronunciation_de": "[ˈlaɪ̯tɐ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Stelle die Leiter standsicher auf den ebenen Boden.",
+          "en": "Place the ladder securely on the flat ground.",
+          "ar": "ضَعِ السُّلَّمَ بِثَبَاتٍ عَلَى الأَرْضِيَّةِ المُسْتَوِيَة."
+        }
+      ]
+    },
+    {
+      "id": "crafts_repair_009",
+      "term_de": "der Klebstoff",
+      "plural_de": "die Klebstoffe",
+      "term_en": "glue, adhesive",
+      "term_ar": "المَادَّةُ اللَّاصِقَة، الغِرَاء",
+      "pronunciation_de": "[ˈkleːpˌʃtɔf]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Dieser starke Klebstoff verbindet Holz und Keramik dauerhaft.",
+          "en": "This strong adhesive permanently bonds wood and ceramic.",
+          "ar": "يَرْبِطُ هَذَا الغِرَاءُ القَوِيُّ بَيْنَ الخَشَبِ وَالسِّيرَامِيكِ بِشَكْلٍ دَائِم."
+        }
+      ]
+    },
+    {
+      "id": "crafts_repair_010",
+      "term_de": "das Schleifpapier",
+      "plural_de": "die Schleifpapiere",
+      "term_en": "sandpaper",
+      "term_ar": "وَرَقُ الصَّنْفَرَة",
+      "pronunciation_de": "[ˈʃlaɪ̯fpaˌpiːɐ̯]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Mit feinem Schleifpapier wird die Holzoberfläche wunderbar glatt.",
+          "en": "With fine sandpaper, the wooden surface becomes wonderfully smooth.",
+          "ar": "يُصْبِحُ سَطْحُ الخَشَبِ أَمْلَسَ تَمَامًا بِفَضْلِ وَرَقِ الصَّنْفَرَةِ النَّاعِم."
+        }
+      ]
+    },
+    {
+      "id": "crafts_repair_011",
+      "term_de": "die Werkbank",
+      "plural_de": "die Werkbänke",
+      "term_en": "workbench",
+      "term_ar": "طَاوِلَةُ العَمَل، المِنْضَدَةُ الحِرَفِيَّة",
+      "pronunciation_de": "[ˈvɛʁkˌbaŋk]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Alle Werkzeuge liegen griffbereit auf der stabilen Werkbank.",
+          "en": "All tools lie ready to hand on the sturdy workbench.",
+          "ar": "جَمِيعُ الأَدَوَاتِ مُرَتَّبَةٌ فِي مُتَنَاوَلِ اليَدِ عَلَى طَاوِلَةِ العَمَلِ المَتِينَة."
+        }
+      ]
+    },
+    {
+      "id": "crafts_repair_012",
+      "term_de": "der Eimer",
+      "plural_de": "die Eimer",
+      "term_en": "bucket, pail",
+      "term_ar": "الدَّلْو، السَّطْل",
+      "pronunciation_de": "[ˈaɪ̯mɐ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Fülle den Eimer mit warmem Wasser und Seife.",
+          "en": "Fill the bucket with warm water and soap.",
+          "ar": "امْلَأِ الدَّلْوَ بِمَاءٍ دَافِئٍ وَصَابُون."
+        }
+      ]
+    },
+    {
+      "id": "crafts_repair_013",
+      "term_de": "das Seil",
+      "plural_de": "die Seile",
+      "term_en": "rope, cord",
+      "term_ar": "الحَبْلُ المَتِين",
+      "pronunciation_de": "[zaɪ̯l]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das robuste Seil sichert schwere Gegenstände beim Transport.",
+          "en": "The robust rope secures heavy objects during transport.",
+          "ar": "يُؤَمِّنُ الحَبْلُ المَتِينُ الأَشْيَاءَ الثَّقِيلَةَ أَثْنَاءَ النَّقْل."
+        }
+      ]
+    },
+    {
+      "id": "crafts_repair_014",
+      "term_de": "die Wasserwaage",
+      "plural_de": "die Wasserwaagen",
+      "term_en": "spirit level",
+      "term_ar": "مِيزَانُ التَّسْوِيَةِ المَائِيّ",
+      "pronunciation_de": "[ˈvasɐˌvaːɡə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Prüfe mit der Wasserwaage, ob das Regal absolut gerade hängt.",
+          "en": "Check with the spirit level whether the shelf hangs perfectly straight.",
+          "ar": "تَحَقَّقْ بِمِيزَانِ المَاءِ مِمَّا إِذَا كَانَ الرَّفُّ مُعَلَّقًا بِاسْتِوَاءٍ تَامّ."
+        }
+      ]
+    },
+    {
+      "id": "crafts_repair_015",
+      "term_de": "die Glühbirne",
+      "plural_de": "die Glühbirnen",
+      "term_en": "light bulb",
+      "term_ar": "المِصْبَاحُ الكَهْرَبَائِيّ",
+      "pronunciation_de": "[ˈɡlyːˌbɪʁnə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Er tauschte die alte Glühbirne gegen eine sparsame LED-Lampe aus.",
+          "en": "He replaced the old light bulb with an energy-saving LED lamp.",
+          "ar": "اسْتَبْدَلَ المِصْبَاحَ الكَهْرَبَائِيَّ القَدِيمَ بِمِصْبَاحِ لِيد مُوَفِّرٍ لِلطَّاقَة."
+        }
+      ]
+    },
+    {
+      "id": "crafts_repair_016",
+      "term_de": "die Steckdose",
+      "plural_de": "die Steckdosen",
+      "term_en": "power socket, wall outlet",
+      "term_ar": "مَقْبِسُ الكَهْرَبَاء",
+      "pronunciation_de": "[ˈʃtɛkˌdoːzə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Stecke den Stecker fest in die Wandsteckdose.",
+          "en": "Plug the connector securely into the wall socket.",
+          "ar": "أَدْخِلِ القَابِسَ بِإِحْكَامٍ فِي مَقْبِسِ الجِدَارِ الكَهْرَبَائِيّ."
+        }
+      ]
+    },
+    {
+      "id": "crafts_repair_017",
+      "term_de": "der Schalter",
+      "plural_de": "die Schalter",
+      "term_en": "switch",
+      "term_ar": "المِفْتَاحُ الكَهْرَبَائِيّ، زِرُّ التَّشْغِيل",
+      "pronunciation_de": "[ˈʃaltɐ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Ein Klick auf den Schalter erleuchtet den gesamten Flur.",
+          "en": "A click on the switch illuminates the entire hallway.",
+          "ar": "نَقْرَةٌ وَاحِدَةٌ عَلَى المِفْتَاحِ تُضِيءُ المَمَرَّ بِأَكْمَلِه."
+        }
+      ]
+    },
+    {
+      "id": "crafts_repair_018",
+      "term_de": "das Kabel",
+      "plural_de": "die Kabel",
+      "term_en": "cable, electric wire",
+      "term_ar": "السِّلْك، الكَابِلُ الكَهْرَبَائِيّ",
+      "pronunciation_de": "[ˈkaːbl̩]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Verlege das Kabel ordentlich hinter der Fußleiste.",
+          "en": "Lay the cable neatly behind the baseboard.",
+          "ar": "مَدِّدِ السِّلْكَ بِنِظَامٍ خَلْفَ حَافَةِ الجِدَارِ السُّفْلِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "crafts_repair_019",
+      "term_de": "der Rohrbruch",
+      "plural_de": "die Rohrbrüche",
+      "term_en": "burst pipe, pipe fracture",
+      "term_ar": "كَسْرُ الأُنْبُوب، تَسَرُّبُ المَاسُورَة",
+      "pronunciation_de": "[ˈʁoːɐ̯ˌbʁʊx]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der Klempner reparierte den Rohrbruch im Keller zügig.",
+          "en": "The plumber repaired the burst pipe in the basement promptly.",
+          "ar": "أَصْلَحَ السَّبَّاكُ كَسْرَ الأُنْبُوبِ فِي القَبْوِ بِسُرْعَةٍ وَإِتْقَان."
+        }
+      ]
+    },
+    {
+      "id": "crafts_repair_020",
+      "term_de": "die Dichtung",
+      "plural_de": "die Dichtungen",
+      "term_en": "gasket, washer, seal",
+      "term_ar": "حَلْقَةُ الإِحْكَام، مَانِعُ التَّسَرُّب",
+      "pronunciation_de": "[ˈdɪçtʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Eine neue Dichtung stoppt das Tropfen des Wasserhahns zuverlässig.",
+          "en": "A new seal reliably stops the water tap from dripping.",
+          "ar": "حَلْقَةُ إِحْكَامٍ جَدِيدَةٌ تُوقِفُ تَقَاطُرَ صُنْبُورِ المَاءِ بِمَوْثُوقِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "crafts_repair_021",
+      "term_de": "der Handgriff",
+      "plural_de": "die Handgriffe",
+      "term_en": "handle, practical knack",
+      "term_ar": "المَقْبِض، الحَرَكَةُ المَاهِرَة",
+      "pronunciation_de": "[ˈhantˌɡʁɪf]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Mit wenigen gekonnten Handgriffen war der Tisch montiert.",
+          "en": "With a few skilled hand movements, the table was assembled.",
+          "ar": "بِحَرَكَاتٍ مَاهِرَةٍ قَلِيلَةٍ جَرَى تَرْكِيبُ الطَّاوِلَة."
+        }
+      ]
+    },
+    {
+      "id": "crafts_repair_022",
+      "term_de": "das Holzbrett",
+      "plural_de": "die Holzbretter",
+      "term_en": "wooden board, plank",
+      "term_ar": "اللَّوْحُ الخَشَبِيّ",
+      "pronunciation_de": "[ˈhɔltsˌbʁɛt]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Er sägt das Holzbrett auf die gewünschte Länge zu.",
+          "en": "He saws the wooden board to the desired length.",
+          "ar": "يَنْشُرُ اللَّوْحَ الخَشَبِيَّ لِيُصْبِحَ بِالطُّولِ المَطْلُوب."
+        }
+      ]
+    },
+    {
+      "id": "crafts_repair_023",
+      "term_de": "der Schutzhelm",
+      "plural_de": "die Schutzhelme",
+      "term_en": "hard hat, safety helmet",
+      "term_ar": "خُوذَةُ السَّلَامَةِ وَالوِقَايَة",
+      "pronunciation_de": "[ˈʃʊtsˌhɛlm]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Das Tragen eines Schutzhelms ist auf der Baustelle Pflicht.",
+          "en": "Wearing a safety helmet is mandatory on the construction site.",
+          "ar": "ارْتِدَاءُ خُوذَةِ السَّلَامَةِ إِلْزَامِيٌّ فِي مَوْقِعِ البِنَاء."
+        }
+      ]
+    },
+    {
+      "id": "crafts_repair_024",
+      "term_de": "die Arbeitshandschuhe",
+      "plural_de": "die Arbeitshandschuhe",
+      "term_en": "work gloves",
+      "term_ar": "قُفَّازَاتُ العَمَل",
+      "pronunciation_de": "[ˈaʁbaɪ̯tsˌhantʃuːə]",
+      "gender_de": "plural",
+      "examples": [
+        {
+          "de": "Robuste Arbeitshandschuhe schützen die Hände vor Verletzungen.",
+          "en": "Sturdy work gloves protect hands against injuries.",
+          "ar": "قُفَّازَاتُ العَمَلِ المَتِينَةُ تَحْمِي اليَدَيْنِ مِنَ الإِصَابَات."
+        }
+      ]
+    },
+    {
+      "id": "crafts_repair_025",
+      "term_de": "die Sorgfalt",
+      "plural_de": "-",
+      "term_en": "care, diligence, accuracy",
+      "term_ar": "الدِّقَّة، العِنَايَة، الإِتْقَان",
+      "pronunciation_de": "[ˈzɔʁkfalt]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Gutes Handwerk zeichnet sich durch große Sorgfalt aus.",
+          "en": "Good craftsmanship is characterized by great care and diligence.",
+          "ar": "يَتَمَيَّزُ العَمَلُ اليَدَوِيُّ المُتْقَنُ بِعِنَايَةٍ وَدِقَّةٍ بَالِغَة."
+        }
+      ]
+    }
+  ]
+}

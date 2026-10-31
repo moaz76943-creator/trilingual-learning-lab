@@ -1,0 +1,909 @@
+{
+  "category_id": "a2_dining_hospitality_verbs",
+  "category_name_de": "Gastronomie-, Bewirtungs- und Esskulturverben",
+  "category_name_en": "Dining, Ordering & Hospitality Verbs",
+  "category_name_ar": "أفعال الضيافة وطلب الطعام وآداب المائدة",
+  "level": "A1/A2",
+  "verbs": [
+    {
+      "id": "verb_dine_001",
+      "infinitive": "reservieren",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "einen Tisch im Restaurant im Voraus vormerken lassen",
+      "meaning_en": "to reserve, book a table",
+      "meaning_ar": "يَحْجِزُ طَاوِلَةً فِي المَطْعَم",
+      "tenses": {
+        "present": {
+          "ich": "reserviere",
+          "du": "reservierst",
+          "er_sie_es": "reserviert",
+          "wir": "reservieren",
+          "ihr": "reserviert",
+          "sie_Sie": "reservieren"
+        },
+        "past_simple": {
+          "ich": "reservierte",
+          "du": "reserviertest",
+          "er_sie_es": "reservierte",
+          "wir": "reservierten",
+          "ihr": "reserviertet",
+          "sie_Sie": "reservierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "reserviert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "für",
+          "case": "Akkusativ",
+          "meaning_ar": "يحجز لعدد من الأشخاص"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Ich reserviere einen ruhigen Tisch am Fenster für heute Abend.",
+          "en": "I am reserving a quiet table by the window for this evening.",
+          "ar": "أَحْجِزُ طَاوِلَةً هَادِئَةً بِجِوَارِ النَّافِذَةِ لِمَسَاءِ اليَوْم."
+        }
+      ]
+    },
+    {
+      "id": "verb_dine_002",
+      "infinitive": "bestellen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "beim Kellner Speisen oder Getränke anfordern",
+      "meaning_en": "to order food or drinks",
+      "meaning_ar": "يَطْلُبُ طَعَامًا أَوْ شَرَابًا",
+      "tenses": {
+        "present": {
+          "ich": "bestelle",
+          "du": "bestellst",
+          "er_sie_es": "bestellt",
+          "wir": "bestellen",
+          "ihr": "bestellt",
+          "sie_Sie": "bestellen"
+        },
+        "past_simple": {
+          "ich": "bestellte",
+          "du": "bestelltest",
+          "er_sie_es": "bestellte",
+          "wir": "bestellten",
+          "ihr": "bestelltet",
+          "sie_Sie": "bestellten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "bestellt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "beim",
+          "case": "Dativ",
+          "meaning_ar": "يطلب من النادل"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wir bestellen als Hauptgericht frischen Fisch mit gedünstetem Reis.",
+          "en": "We order fresh fish with steamed rice as the main course.",
+          "ar": "نَطْلُبُ سَمَكًا طَازَجًا مَعَ أَرُزٍّ مَطْهُوٍّ كَطَبَقٍ رَئِيسِيّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_dine_003",
+      "infinitive": "servieren",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "die zubereiteten Speisen höflich an den Tisch bringen",
+      "meaning_en": "to serve food",
+      "meaning_ar": "يُقَدِّمُ الطَّعَامَ عَلَى المَائِدَة",
+      "tenses": {
+        "present": {
+          "ich": "serviere",
+          "du": "servierst",
+          "er_sie_es": "serviert",
+          "wir": "servieren",
+          "ihr": "serviert",
+          "sie_Sie": "servieren"
+        },
+        "past_simple": {
+          "ich": "servierte",
+          "du": "serviertest",
+          "er_sie_es": "servierte",
+          "wir": "servierten",
+          "ihr": "serviertet",
+          "sie_Sie": "servierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "serviert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Dativ",
+          "meaning_ar": "يقدم في أطباق"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Kellner serviert die warmen Suppen auf kunstvollen Tellern.",
+          "en": "The waiter serves the warm soups on ornate plates.",
+          "ar": "يُقَدِّمُ النَّادِلُ الحَسَاءَ الدَّافِئَ فِي أَطْبَاقٍ مُزَخْرَفَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_dine_004",
+      "infinitive": "probieren",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "einen kleinen Bissen kosten, um den Geschmack zu prüfen",
+      "meaning_en": "to taste, try food",
+      "meaning_ar": "يَتَذَوَّقُ الطَّعَام",
+      "tenses": {
+        "present": {
+          "ich": "probiere",
+          "du": "probierst",
+          "er_sie_es": "probiert",
+          "wir": "probieren",
+          "ihr": "probiert",
+          "sie_Sie": "probieren"
+        },
+        "past_simple": {
+          "ich": "probierte",
+          "du": "probiertest",
+          "er_sie_es": "probierte",
+          "wir": "probierten",
+          "ihr": "probiertet",
+          "sie_Sie": "probierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "probiert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "von",
+          "case": "Dativ",
+          "meaning_ar": "يتذوق من طبق"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Probieren Sie bitte diesen hausgemachten Apfelkuchen.",
+          "en": "Please try this homemade apple pie.",
+          "ar": "تَذَوَّقْ مِنْ فَضْلِكَ فَطِيرَةَ التُّفَّاحِ المَنْزِلِيَّةَ هَذِه."
+        }
+      ]
+    },
+    {
+      "id": "verb_dine_005",
+      "infinitive": "genießen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "ein gutes Essen mit Freude und Genuss zu sich nehmen",
+      "meaning_en": "to enjoy, savor food",
+      "meaning_ar": "يَسْتَمْتِعُ بِالطَّعَامِ الهَنِيء",
+      "tenses": {
+        "present": {
+          "ich": "genieße",
+          "du": "genießt",
+          "er_sie_es": "genießt",
+          "wir": "genießen",
+          "ihr": "genießt",
+          "sie_Sie": "genießen"
+        },
+        "past_simple": {
+          "ich": "genoss",
+          "du": "genossest",
+          "er_sie_es": "genoss",
+          "wir": "genossen",
+          "ihr": "genosst",
+          "sie_Sie": "genossen"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "genossen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يستمتع في جو هادئ"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wir genossen das köstliche Abendessen im Kreise der Familie.",
+          "en": "We enjoyed the delicious dinner in the circle of the family.",
+          "ar": "اسْتَمْتَعْنَا بِالعَشَاءِ اللَّذِيذِ بَيْنَ أَفْرَادِ العَائِلَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_dine_006",
+      "infinitive": "empfehlen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "dem Gast eine besonders gelungene Speise anraten",
+      "meaning_en": "to recommend a dish",
+      "meaning_ar": "يُوصِي بِوَجْبَةٍ طَيِّبَة",
+      "tenses": {
+        "present": {
+          "ich": "empfehle",
+          "du": "empfiehlst",
+          "er_sie_es": "empfiehlt",
+          "wir": "empfehlen",
+          "ihr": "empfehlt",
+          "sie_Sie": "empfehlen"
+        },
+        "past_simple": {
+          "ich": "empfahl",
+          "du": "empfahlst",
+          "er_sie_es": "empfahl",
+          "wir": "empfahlen",
+          "ihr": "empfahlt",
+          "sie_Sie": "empfahlen"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "empfohlen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "als",
+          "case": "Akkusativ",
+          "meaning_ar": "يوصي به كـ"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Koch empfiehlt den Gästen die aromatische Gemüselasagne.",
+          "en": "The chef recommends the aromatic vegetable lasagna to the guests.",
+          "ar": "يُوصِي الطَّاهِي الضُّيُوفَ بِلَازَانْيَا الخُضْرَاوَاتِ الزَّكِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_dine_007",
+      "infinitive": "einladen",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "jemanden als Gast bitten und die Bewirtung übernehmen",
+      "meaning_en": "to invite to a meal, treat",
+      "meaning_ar": "يَدْعُو إِلَى مَأْدُبَة، يُكْرِمُ",
+      "tenses": {
+        "present": {
+          "ich": "lade ein",
+          "du": "lädst ein",
+          "er_sie_es": "lädt ein",
+          "wir": "laden ein",
+          "ihr": "ladet ein",
+          "sie_Sie": "laden ein"
+        },
+        "past_simple": {
+          "ich": "lud ein",
+          "du": "ludst ein",
+          "er_sie_es": "lud ein",
+          "wir": "luden ein",
+          "ihr": "ludet ein",
+          "sie_Sie": "luden ein"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "eingeladen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "zu",
+          "case": "Dativ",
+          "meaning_ar": "يدعو إلى طعام"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Mein Freund lud mich gestern zu einem festlichen Essen ein.",
+          "en": "My friend invited me to a festive meal yesterday.",
+          "ar": "دَعَانِي صَدِيقِي أَمْسِ إِلَى مَأْدُبَةِ طَعَامٍ طَيِّبَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_dine_008",
+      "infinitive": "bewirten",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "Gäste mit Speisen und Getränken großzügig versorgen",
+      "meaning_en": "to host, cater generously",
+      "meaning_ar": "يُضَيِّفُ، يُكْرِمُ وِفَادَةَ القَوْم",
+      "tenses": {
+        "present": {
+          "ich": "bewirte",
+          "du": "bewirtest",
+          "er_sie_es": "bewirtet",
+          "wir": "bewirten",
+          "ihr": "bewirtet",
+          "sie_Sie": "bewirten"
+        },
+        "past_simple": {
+          "ich": "bewirtete",
+          "du": "bewirtetest",
+          "er_sie_es": "bewirtete",
+          "wir": "bewirteten",
+          "ihr": "bewirtetet",
+          "sie_Sie": "bewirteten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "bewirtet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يضيف بأشهى المأكولات"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Gastgeber bewirteten die Reisenden mit den besten Spezialitäten des Hauses.",
+          "en": "The hosts entertained the travelers with the house's best specialties.",
+          "ar": "أَكْرَمَ أَهْلُ البَيْتِ المُسَافِرِينَ بِأَفْضَلِ مَأْكُولَاتِهِم."
+        }
+      ]
+    },
+    {
+      "id": "verb_dine_009",
+      "infinitive": "bezahlen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "den Rechnungsbetrag mit Geld oder Karte begleichen",
+      "meaning_en": "to pay the bill",
+      "meaning_ar": "يَدْفَعُ الحِسَاب",
+      "tenses": {
+        "present": {
+          "ich": "bezahle",
+          "du": "bezahlst",
+          "er_sie_es": "bezahlt",
+          "wir": "bezahlen",
+          "ihr": "bezahlt",
+          "sie_Sie": "bezahlen"
+        },
+        "past_simple": {
+          "ich": "bezahlte",
+          "du": "bezahltest",
+          "er_sie_es": "bezahlte",
+          "wir": "bezahlten",
+          "ihr": "bezahltet",
+          "sie_Sie": "bezahlten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "bezahlt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يدفع نقداً أو بالبطاقة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wir möchten bitte getrennt mit Karte bezahlen.",
+          "en": "We would like to pay separately by card, please.",
+          "ar": "نَرْغَبُ فِي دَفْعِ الحِسَابِ كُلٌّ عَلَى حِدَةٍ بِالبِطَاقَةِ مِنْ فَضْلِك."
+        }
+      ]
+    },
+    {
+      "id": "verb_dine_010",
+      "infinitive": "nachschenken",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "ein leeres Glas wieder mit Wasser oder Saft füllen",
+      "meaning_en": "to pour more, refill glass",
+      "meaning_ar": "يَصُبُّ المَزِيدَ مِنَ المَاءِ أَوِ العَصِير",
+      "tenses": {
+        "present": {
+          "ich": "schenke nach",
+          "du": "schenkst nach",
+          "er_sie_es": "schenkt nach",
+          "wir": "schenken nach",
+          "ihr": "schenkt nach",
+          "sie_Sie": "schenken nach"
+        },
+        "past_simple": {
+          "ich": "schenkte nach",
+          "du": "schenktest nach",
+          "er_sie_es": "schenkte nach",
+          "wir": "schenkten nach",
+          "ihr": "schenktet nach",
+          "sie_Sie": "schenkten nach"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "nachgeschenkt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Akkusativ",
+          "meaning_ar": "يصب في الكوب"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Darf ich Ihnen noch etwas kühles Quellwasser nachschenken?",
+          "en": "May I pour you some more cool spring water?",
+          "ar": "هَلْ لِي أَنْ أَصُبَّ لَكَ المَزِيدَ مِنْ مَاءِ اليَنْبُوعِ البَارِد؟"
+        }
+      ]
+    },
+    {
+      "id": "verb_dine_011",
+      "infinitive": "abräumen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "benutzte Teller und Besteck vom Tisch entfernen",
+      "meaning_en": "to clear the table",
+      "meaning_ar": "يَرْفَعُ الأَطْبَاقَ مِنَ المَائِدَة",
+      "tenses": {
+        "present": {
+          "ich": "räume ab",
+          "du": "räumst ab",
+          "er_sie_es": "räumt ab",
+          "wir": "räumen ab",
+          "ihr": "räumt ab",
+          "sie_Sie": "räumen ab"
+        },
+        "past_simple": {
+          "ich": "räumte ab",
+          "du": "räumtest ab",
+          "er_sie_es": "räumte ab",
+          "wir": "räumten ab",
+          "ihr": "räumtet ab",
+          "sie_Sie": "räumten ab"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "abgeräumt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "von",
+          "case": "Dativ",
+          "meaning_ar": "يرفع من على الطاولة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Kellner räumte das leere Geschirr diskret und leise ab.",
+          "en": "The waiter cleared the empty dishes discreetly and quietly.",
+          "ar": "رَفَعَ النَّادِلُ الصُّحُونَ الفَارِغَةَ بِلَبَاقَةٍ وَهُدُوء."
+        }
+      ]
+    },
+    {
+      "id": "verb_dine_012",
+      "infinitive": "decken",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "den Tisch mit Tischtuch, Tellern und Besteck für das Essen herrichten",
+      "meaning_en": "to set the table",
+      "meaning_ar": "يُعِدُّ، يُرَتِّبُ المَائِدَة",
+      "tenses": {
+        "present": {
+          "ich": "decke",
+          "du": "deckst",
+          "er_sie_es": "deckt",
+          "wir": "decken",
+          "ihr": "deckt",
+          "sie_Sie": "decken"
+        },
+        "past_simple": {
+          "ich": "deckte",
+          "du": "decktest",
+          "er_sie_es": "deckte",
+          "wir": "deckten",
+          "ihr": "decktet",
+          "sie_Sie": "deckten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gedeckt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "für",
+          "case": "Akkusativ",
+          "meaning_ar": "يرتب المائدة لعدد"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Kinder decken den Tisch liebevoll für das Abendessen.",
+          "en": "The children lovingly set the table for dinner.",
+          "ar": "يُرَتِّبُ الأَطْفَالُ المَائِدَةَ بِمَحَبَّةٍ لِطَعَامِ العَشَاء."
+        }
+      ]
+    },
+    {
+      "id": "verb_dine_013",
+      "infinitive": "speisen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "in gepflegter Atmosphäre feierlich essen",
+      "meaning_en": "to dine",
+      "meaning_ar": "يَتَنَاوَلُ الطَّعَامَ بِأَدَبٍ وَوَقَار",
+      "tenses": {
+        "present": {
+          "ich": "speise",
+          "du": "speist",
+          "er_sie_es": "speist",
+          "wir": "speisen",
+          "ihr": "speist",
+          "sie_Sie": "speisen"
+        },
+        "past_simple": {
+          "ich": "speiste",
+          "du": "speistest",
+          "er_sie_es": "speiste",
+          "wir": "speisten",
+          "ihr": "speistet",
+          "sie_Sie": "speisten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gespeist"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يتناول الطعام في مطعم"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Reisenden speisten im traditionsreichen Gasthof am Marktplatz.",
+          "en": "The travelers dined in the traditional inn by the marketplace.",
+          "ar": "تَنَاوَلَ المُسَافِرُونَ طَعَامَهُمْ فِي الفُنْدُوقِ التَّقْلِيدِيِّ عِنْدَ سَاحَةِ السُّوق."
+        }
+      ]
+    },
+    {
+      "id": "verb_dine_014",
+      "infinitive": "schmecken",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "einen bestimmten Wohlgeschmack haben",
+      "meaning_en": "to taste good, be delicious",
+      "meaning_ar": "يَسْتَلِذُّ، يَكُونُ طَعْمُهُ طَيِّبًا",
+      "tenses": {
+        "present": {
+          "ich": "schmecke",
+          "du": "schmeckst",
+          "er_sie_es": "schmeckt",
+          "wir": "schmecken",
+          "ihr": "schmeckt",
+          "sie_Sie": "schmecken"
+        },
+        "past_simple": {
+          "ich": "schmeckte",
+          "du": "schmecktest",
+          "er_sie_es": "schmeckte",
+          "wir": "schmeckten",
+          "ihr": "schme渺tet",
+          "sie_Sie": "schmeckten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geschmeckt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "nach",
+          "case": "Dativ",
+          "meaning_ar": "له نكهة كذا"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die hausgemachte Suppe schmeckt allen Gästen ausgezeichnet.",
+          "en": "The homemade soup tastes excellent to all guests.",
+          "ar": "نَالَتِ الشَّوْرَبَةُ المَنْزِلِيَّةُ إِعْجَابَ كُلِّ الضُّيُوفِ لِطِيبِ مَذَاقِهَا."
+        }
+      ]
+    },
+    {
+      "id": "verb_dine_015",
+      "infinitive": "sattwerden",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "genug gegessen haben und keinen Hunger mehr verspüren",
+      "meaning_en": "to become full, be satisfied",
+      "meaning_ar": "يَشْبَعُ، يَكْتَفِي مِنَ الطَّعَام",
+      "tenses": {
+        "present": {
+          "ich": "werde satt",
+          "du": "wirst satt",
+          "er_sie_es": "wird satt",
+          "wir": "werden satt",
+          "ihr": "werdet satt",
+          "sie_Sie": "werden satt"
+        },
+        "past_simple": {
+          "ich": "wurde satt",
+          "du": "wurdest satt",
+          "er_sie_es": "wurde satt",
+          "wir": "wurden satt",
+          "ihr": "wurdet satt",
+          "sie_Sie": "wurden satt"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "sattgeworden"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "von",
+          "case": "Dativ",
+          "meaning_ar": "يشبع من طعام"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Von diesem nahrhaften Eintopf wird die ganze Familie mühelos satt.",
+          "en": "The whole family easily gets full from this nutritious stew.",
+          "ar": "تَشْبَعُ الأُسْرَةُ كُلُّهَا بِيُسْرٍ مِنْ هَذَا الحَسَاءِ المُغَذِّي."
+        }
+      ]
+    },
+    {
+      "id": "verb_dine_016",
+      "infinitive": "danken",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "den Gastgebern für die freundliche Bewirtung Dankbarkeit zeigen",
+      "meaning_en": "to thank the host",
+      "meaning_ar": "يَشْكُرُ عَلَى حُسْنِ الضِّيَافَة",
+      "tenses": {
+        "present": {
+          "ich": "danke",
+          "du": "dankst",
+          "er_sie_es": "dankt",
+          "wir": "danken",
+          "ihr": "dankt",
+          "sie_Sie": "danken"
+        },
+        "past_simple": {
+          "ich": "dankte",
+          "du": "danktest",
+          "er_sie_es": "dankte",
+          "wir": "dankten",
+          "ihr": "danktet",
+          "sie_Sie": "dankten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gedankt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "für",
+          "case": "Akkusativ",
+          "meaning_ar": "يشكر على الضيافة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wir danken der Familie herzlich für die wunderbare Bewirtung.",
+          "en": "We warmly thank the family for the wonderful hospitality.",
+          "ar": "نَشْكُرُ العَائِلَةَ مِنْ صَمِيمِ القَلْبِ عَلَى كَرَمِ ضِيَافَتِهِمِ الرَّائِعَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_dine_017",
+      "infinitive": "loben",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "die Kochkunst des Gastgebers anerkennend würdigen",
+      "meaning_en": "to praise the cooking",
+      "meaning_ar": "يَمْدَحُ الطَّهْيَ وَيُثْنِي عَلَيْه",
+      "tenses": {
+        "present": {
+          "ich": "lobe",
+          "du": "lobst",
+          "er_sie_es": "lobt",
+          "wir": "loben",
+          "ihr": "lobt",
+          "sie_Sie": "loben"
+        },
+        "past_simple": {
+          "ich": "lobte",
+          "du": "lobtest",
+          "er_sie_es": "lobte",
+          "wir": "lobten",
+          "ihr": "lobtet",
+          "sie_Sie": "lobten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gelobt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "für",
+          "case": "Akkusativ",
+          "meaning_ar": "يمدح على الإتقان"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Gäste lobten die Köchin für das schmackhafte Mahl.",
+          "en": "The guests praised the cook for the delicious meal.",
+          "ar": "أَثْنَى الضُّيُوفُ عَلَى الطَّاهِيَةِ لِطَعَامِهَا الطَّيِّبِ المُشْتَهَى."
+        }
+      ]
+    },
+    {
+      "id": "verb_dine_018",
+      "infinitive": "teilen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "das Essen brüderlich mit anderen am Tisch teilen",
+      "meaning_en": "to share food at table",
+      "meaning_ar": "يَتَقَاسَمُ الطَّعَامَ مَعَ الجُلَسَاء",
+      "tenses": {
+        "present": {
+          "ich": "teile",
+          "du": "teilst",
+          "er_sie_es": "teilt",
+          "wir": "teilen",
+          "ihr": "teilt",
+          "sie_Sie": "teilen"
+        },
+        "past_simple": {
+          "ich": "teilte",
+          "du": "teiltest",
+          "er_sie_es": "teilte",
+          "wir": "teilten",
+          "ihr": "teiltet",
+          "sie_Sie": "teilten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geteilt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يقتسم مع الإخوة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Es ist ein schöner Brauch, das Brot mit den Tischnachbarn zu teilen.",
+          "en": "It is a beautiful custom to share bread with table neighbors.",
+          "ar": "مِنَ العَادَاتِ الجَمِيلَةِ مُشَاطَرَةُ الخُبْزِ مَعَ جُلَسَاءِ المَائِدَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_dine_019",
+      "infinitive": "wünschen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "vor dem ersten Bissen einen gesegneten Appetit wünschen",
+      "meaning_en": "to wish a good appetite",
+      "meaning_ar": "يَتَمَنَّى وَجْبَةً هَنِيئَة",
+      "tenses": {
+        "present": {
+          "ich": "wünsche",
+          "du": "wünschst",
+          "er_sie_es": "wünscht",
+          "wir": "wünschen",
+          "ihr": "wünscht",
+          "sie_Sie": "wünschen"
+        },
+        "past_simple": {
+          "ich": "wünschte",
+          "du": "wünschtest",
+          "er_sie_es": "wünschte",
+          "wir": "wünschten",
+          "ihr": "wünschtet",
+          "sie_Sie": "wünschten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gewünscht"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "zu",
+          "case": "Dativ",
+          "meaning_ar": "يتمنى بالهناء"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Vor Beginn des Essens wünschten sich alle einen guten Appetit.",
+          "en": "Before starting the meal, everyone wished each other a good appetite.",
+          "ar": "تَمَنَّى الجَمِيعُ لِبَعْضِهِمْ طَعَامًا هَنِيئًا شَهِيًّا قَبْلَ بَدْءِ الأَكْل."
+        }
+      ]
+    },
+    {
+      "id": "verb_dine_020",
+      "infinitive": "verweilen",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "nach dem Essen noch gemütlich bei guten Gesprächen zusammensitzen",
+      "meaning_en": "to linger, stay for conversation",
+      "meaning_ar": "يَمْكُثُ، يَسْتَأْنِسُ بِالحَدِيثِ بَعْدَ الطَّعَام",
+      "tenses": {
+        "present": {
+          "ich": "verweile",
+          "du": "verweilst",
+          "er_sie_es": "verweilt",
+          "wir": "verweilen",
+          "ihr": "verweilt",
+          "sie_Sie": "verweilen"
+        },
+        "past_simple": {
+          "ich": "verweilte",
+          "du": "verweiltest",
+          "er_sie_es": "verweilte",
+          "wir": "verweilten",
+          "ihr": "verweiltet",
+          "sie_Sie": "verweilten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "verweilt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "bei",
+          "case": "Dativ",
+          "meaning_ar": "يمكث في مجلس أنس"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Freunde verweilten noch lange bei einer Tasse duftendem Minztee.",
+          "en": "The friends lingered for a long time over a cup of fragrant mint tea.",
+          "ar": "مَكَثَ الأَصْدِقَاءُ طَوِيلًا يَسْتَأْنِسُونَ بِالحَدِيثِ مَعَ كُوبٍ مِنْ شَايِ النَّعْنَاعِ الزَّكِيّ."
+        }
+      ]
+    }
+  ]
+}

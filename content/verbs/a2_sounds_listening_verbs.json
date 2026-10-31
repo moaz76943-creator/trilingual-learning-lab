@@ -1,0 +1,493 @@
+{
+  "id": "a2_sounds_listening_verbs",
+  "engine_number": 79,
+  "title_ar": "أَفْعَالُ الأَصْوَاتِ، الإِنْصَاتِ، وَالإِدْرَاكِ السَّمْعِيِّ",
+  "title_de": "Verben für Klänge, Zuhören und auditive Wahrnehmung",
+  "title_en": "Sounds, Listening & Auditory Perception Verbs Engine",
+  "level": "A2",
+  "description_ar": "مَحْمُوعَةٌ شَامِلَةٌ مِنَ الأَفْعَالِ الحَيَوِيَّةِ تُعَبِّرُ عَنِ السَّمَاعِ، الإِنْصَاتِ بِتَمَعُّنٍ، إِصْدَارِ الأَصْوَاتِ الطَّبِيعِيَّةِ، وَالتَّوَاصُلِ الصَّوْتِيِّ الهَادِفِ.",
+  "description_de": "Umfassende Sammlung handlungsorientierter Verben für Hören, aufmerksames Lauschen, Naturklänge und klangliche Wahrnehmung.",
+  "description_en": "Comprehensive collection of practical verbs for hearing, attentive listening, natural sounds, and auditory communication.",
+  "verbs": [
+    {
+      "id": "v79_001",
+      "ar": "يَسْمَعُ",
+      "de": "hören",
+      "en": "to hear",
+      "conjugation": {
+        "ich": "höre",
+        "du": "hörst",
+        "er_sie_es": "hört",
+        "wir": "hören",
+        "ihr": "hört",
+        "sie_Sie": "hören"
+      },
+      "tenses": {
+        "praesens": "er hört",
+        "praeteritum": "er hörte",
+        "perfekt": "hat gehört"
+      },
+      "preposition": "von + Dativ",
+      "example_ar": "يَسْمَعُ الصَّدِيقُ صَوْتَ النِّدَاءِ فَيُجِيبُ عَلَى الفَوْرِ.",
+      "example_de": "Der Freund hört den Ruf und antwortet sofort.",
+      "example_en": "The friend hears the call and answers immediately.",
+      "image_asset": "verb_sound_001.svg"
+    },
+    {
+      "id": "v79_002",
+      "ar": "يُنْصِتُ / يَتَسَمَّعُ بِاهْتِمَامٍ",
+      "de": "lauschen",
+      "en": "to listen attentively / to eavesdrop",
+      "conjugation": {
+        "ich": "lausche",
+        "du": "lauschst",
+        "er_sie_es": "lauscht",
+        "wir": "lauschen",
+        "ihr": "lauscht",
+        "sie_Sie": "lauschen"
+      },
+      "tenses": {
+        "praesens": "er lauscht",
+        "praeteritum": "er lauschte",
+        "perfekt": "hat gelauscht"
+      },
+      "preposition": "auf + Akkusativ / Dativ",
+      "example_ar": "يُنْصِتُ الطِّفْلُ بِاهْتِمَامٍ لِقِصَّةِ الجَدَّةِ اللَّطِيفَةِ.",
+      "example_de": "Das Kind lauscht aufmerksam der schönen Erzählung der Großmutter.",
+      "example_en": "The child listens attentively to the grandmother's lovely story.",
+      "image_asset": "verb_sound_002.svg"
+    },
+    {
+      "id": "v79_003",
+      "ar": "يَسْتَمِعُ إِلَى",
+      "de": "zuhören",
+      "en": "to listen to",
+      "conjugation": {
+        "ich": "höre zu",
+        "du": "hörst zu",
+        "er_sie_es": "hört zu",
+        "wir": "hören zu",
+        "ihr": "hört zu",
+        "sie_Sie": "hören zu"
+      },
+      "tenses": {
+        "praesens": "er hört zu",
+        "praeteritum": "er hörte zu",
+        "perfekt": "hat zugehört"
+      },
+      "preposition": "Dativ (jemandem)",
+      "example_ar": "يَسْتَمِعُ الطُّلَّابُ إِلَى المُعَلِّمِ بِأَدَبٍ وَاحْتِرَامٍ.",
+      "example_de": "Die Schüler hören dem Lehrer aufmerksam und respektvoll zu.",
+      "example_en": "The students listen to the teacher attentively and respectfully.",
+      "image_asset": "verb_sound_003.svg"
+    },
+    {
+      "id": "v79_004",
+      "ar": "يَرُنُّ / يَبْدُو صَوْتُهُ",
+      "de": "klingen",
+      "en": "to sound / to ring",
+      "conjugation": {
+        "ich": "klinge",
+        "du": "klingst",
+        "er_sie_es": "klingt",
+        "wir": "klingen",
+        "ihr": "klingt",
+        "sie_Sie": "klingen"
+      },
+      "tenses": {
+        "praesens": "es klingt",
+        "praeteritum": "es klang",
+        "perfekt": "hat geklungen"
+      },
+      "preposition": "nach + Dativ",
+      "example_ar": "تَبْدُو هَذِهِ الفِكْرَةُ جَيِّدَةً وَمُشَجِّعَةً لِلْغَايَةِ.",
+      "example_de": "Dieser Vorschlag klingt sehr vernünftig und vielversprechend.",
+      "example_en": "This proposal sounds very sensible and promising.",
+      "image_asset": "verb_sound_004.svg"
+    },
+    {
+      "id": "v79_005",
+      "ar": "يَصْدَحُ / يُصْدِرُ نَغَمًا",
+      "de": "tönen",
+      "en": "to chime / to ring out / to sound",
+      "conjugation": {
+        "ich": "töne",
+        "du": "tönst",
+        "er_sie_es": "tönt",
+        "wir": "tönen",
+        "ihr": "tönt",
+        "sie_Sie": "tönen"
+      },
+      "tenses": {
+        "praesens": "es tönt",
+        "praeteritum": "es tönte",
+        "perfekt": "hat getönt"
+      },
+      "preposition": "aus + Dativ",
+      "example_ar": "تَصْدَحُ النَّغَمَاتُ العَذْبَةُ فِي أَرْجَاءِ البُسْتَانِ البَدِيعِ.",
+      "example_de": "Harmonische Töne tönen sanft durch den Garten.",
+      "example_en": "Harmonious notes sound gently through the garden.",
+      "image_asset": "verb_sound_005.svg"
+    },
+    {
+      "id": "v79_006",
+      "ar": "يَهْدِرُ / يَحُفُّ (المَاءُ أَو الرِّيحُ)",
+      "de": "rauschen",
+      "en": "to rustle / to roar / to murmur",
+      "conjugation": {
+        "ich": "rausche",
+        "du": "rauschst",
+        "er_sie_es": "rauscht",
+        "wir": "rauschen",
+        "ihr": "rauscht",
+        "sie_Sie": "rauschen"
+      },
+      "tenses": {
+        "praesens": "es rauscht",
+        "praeteritum": "es rauschte",
+        "perfekt": "hat gerauscht"
+      },
+      "preposition": "durch + Akkusativ",
+      "example_ar": "تَهْدِرُ الرِّيَاحُ اللَّطِيفَةُ بَيْنَ أَغْصَانِ الأَشْجَارِ العَالِيَةِ.",
+      "example_de": "Der frische Wind rauscht durch die Zweige der hohen Bäume.",
+      "example_en": "The fresh wind rustles through the branches of tall trees.",
+      "image_asset": "verb_sound_006.svg"
+    },
+    {
+      "id": "v79_007",
+      "ar": "يَخْرُّ / يَتَدَفَّقُ بِصَوْتٍ رَقْرَاقٍ",
+      "de": "plätschern",
+      "en": "to ripple / to babble (water)",
+      "conjugation": {
+        "ich": "plätschere",
+        "du": "plätscherst",
+        "er_sie_es": "plätschert",
+        "wir": "plätschern",
+        "ihr": "plätschert",
+        "sie_Sie": "plätschern"
+      },
+      "tenses": {
+        "praesens": "es plätschert",
+        "praeteritum": "es plätscherte",
+        "perfekt": "hat geplätschert"
+      },
+      "preposition": "in + Akkusativ / über + Akkusativ",
+      "example_ar": "يَخْرُّ المَاءُ الرَّقْرَاقُ فَوْقَ الحِجَارَةِ المَلْسَاءِ فِي النَّهْرِ.",
+      "example_de": "Das klare Quellwasser plätschert über die glatten Kieselsteine.",
+      "example_en": "The clear spring water ripples over smooth pebbles in the stream.",
+      "image_asset": "verb_sound_007.svg"
+    },
+    {
+      "id": "v79_008",
+      "ar": "يُغَرِّدُ / يُزَقْزِقُ",
+      "de": "zwitschern",
+      "en": "to chirp / to twitter",
+      "conjugation": {
+        "ich": "zwitschere",
+        "du": "zwitscherst",
+        "er_sie_es": "zwitschert",
+        "wir": "zwitschern",
+        "ihr": "zwitschert",
+        "sie_Sie": "zwitschern"
+      },
+      "tenses": {
+        "praesens": "er zwitschert",
+        "praeteritum": "er zwitscherte",
+        "perfekt": "hat gezwitschert"
+      },
+      "preposition": "auf + Dativ",
+      "example_ar": "تُغَرِّدُ الطُّيُورُ فَوْقَ الأَغْصَانِ تَرْحِيبًا بِالصَّبَاحِ المُنِيرِ.",
+      "example_de": "Die Vögel zwitschern auf den Ästen zur Begrüßung des Morgens.",
+      "example_en": "The birds chirp on the branches welcoming the bright morning.",
+      "image_asset": "verb_sound_008.svg"
+    },
+    {
+      "id": "v79_009",
+      "ar": "يَهْمِسُ",
+      "de": "flüstern",
+      "en": "to whisper",
+      "conjugation": {
+        "ich": "flüstere",
+        "du": "flüsterst",
+        "er_sie_es": "flüstert",
+        "wir": "flüstern",
+        "ihr": "flüstert",
+        "sie_Sie": "flüstern"
+      },
+      "tenses": {
+        "praesens": "er flüstert",
+        "praeteritum": "er flüsterte",
+        "perfekt": "hat geflüstert"
+      },
+      "preposition": "ins + Akkusativ (Ohr)",
+      "example_ar": "يَهْمِسُ الوَلَدُ فِي أُذُنِ صَدِيقِهِ بِكَلِمَةٍ مُفْرِحَةٍ.",
+      "example_de": "Der Junge flüstert seinem Freund eine frohe Botschaft ins Ohr.",
+      "example_en": "The boy whispers joyful news into his friend's ear.",
+      "image_asset": "verb_sound_009.svg"
+    },
+    {
+      "id": "v79_010",
+      "ar": "يُنَادِي / يَدْعُو",
+      "de": "rufen",
+      "en": "to call out / to shout",
+      "conjugation": {
+        "ich": "rufe",
+        "du": "rufst",
+        "er_sie_es": "ruft",
+        "wir": "rufen",
+        "ihr": "ruft",
+        "sie_Sie": "rufen"
+      },
+      "tenses": {
+        "praesens": "er ruft",
+        "praeteritum": "er rief",
+        "perfekt": "hat gerufen"
+      },
+      "preposition": "nach + Dativ",
+      "example_ar": "يُنَادِي الأَبُ أَبْنَاءَهُ لِتَنَاوُلِ طَعَامِ الغَدَاءِ مَعًا.",
+      "example_de": "Der Vater ruft seine Kinder zum gemeinsamen Mittagessen.",
+      "example_en": "The father calls his children for lunch together.",
+      "image_asset": "verb_sound_010.svg"
+    },
+    {
+      "id": "v79_011",
+      "ar": "يُدَنْدِنُ / يَطِنُّ",
+      "de": "summen",
+      "en": "to hum / to buzz",
+      "conjugation": {
+        "ich": "summe",
+        "du": "summst",
+        "er_sie_es": "summt",
+        "wir": "summen",
+        "ihr": "summt",
+        "sie_Sie": "summen"
+      },
+      "tenses": {
+        "praesens": "er summt",
+        "praeteritum": "er summte",
+        "perfekt": "hat gesummt"
+      },
+      "preposition": "vor sich hin",
+      "example_ar": "يُدَنْدِنُ الصَّانِعُ نَشِيدًا طَيِّبًا أَثْنَاءَ عَمَلِهِ فِي الوَرْشَةِ.",
+      "example_de": "Der Handwerker summt bei der Arbeit in der Werkstatt ein Lied.",
+      "example_en": "The craftsman hums a pleasant song while working in the workshop.",
+      "image_asset": "verb_sound_011.svg"
+    },
+    {
+      "id": "v79_012",
+      "ar": "يَدْوِي الصَّوْتُ / يَرِنُّ",
+      "de": "hallen",
+      "en": "to echo / to resound",
+      "conjugation": {
+        "ich": "halle",
+        "du": "hallst",
+        "er_sie_es": "hallt",
+        "wir": "hallen",
+        "ihr": "hallt",
+        "sie_Sie": "hallen"
+      },
+      "tenses": {
+        "praesens": "es hallt",
+        "praeteritum": "es hallte",
+        "perfekt": "hat gehallt"
+      },
+      "preposition": "durch + Akkusativ",
+      "example_ar": "يَدْوِي صَوْتُ الخُطُوَاتِ فِي المَمَرِّ الحَجَرِيِّ الفَسِيحِ.",
+      "example_de": "Die Schritte hallen durch den weiten Steinkorridor.",
+      "example_en": "The footsteps echo through the spacious stone corridor.",
+      "image_asset": "verb_sound_012.svg"
+    },
+    {
+      "id": "v79_013",
+      "ar": "يَتَرَدَّدُ الصَّدَى",
+      "de": "widerhallen",
+      "en": "to reverberate / to echo back",
+      "conjugation": {
+        "ich": "halle wider",
+        "du": "hallst wider",
+        "er_sie_es": "hallt wider",
+        "wir": "hallen wider",
+        "ihr": "hallt wider",
+        "sie_Sie": "hallen wider"
+      },
+      "tenses": {
+        "praesens": "es hallt wider",
+        "praeteritum": "es hallte wider",
+        "perfekt": "hat widergehallt"
+      },
+      "preposition": "von + Dativ",
+      "example_ar": "يَتَرَدَّدُ الصَّدَى مِنْ جُدْرَانِ الجَبَلِ العَالِي بِشَكْلٍ مَدْهُوشٍ.",
+      "example_de": "Der Klang hallt von den Felswänden des Berges eindrucksvoll wider.",
+      "example_en": "The sound reverberates impressively from the mountain cliffs.",
+      "image_asset": "verb_sound_013.svg"
+    },
+    {
+      "id": "v79_014",
+      "ar": "يَنْطَلِقُ الصَّوْتُ / يُدَوِّي",
+      "de": "ertönen",
+      "en": "to ring out / to sound",
+      "conjugation": {
+        "ich": "ertöne",
+        "du": "ertönst",
+        "er_sie_es": "ertönt",
+        "wir": "ertönen",
+        "ihr": "ertönt",
+        "sie_Sie": "ertönen"
+      },
+      "tenses": {
+        "praesens": "es ertönt",
+        "praeteritum": "es ertönte",
+        "perfekt": "ist ertönt"
+      },
+      "preposition": "in + Dativ",
+      "example_ar": "يَنْطَلِقُ جَرَسُ البَدْءِ فَيَتَوَجَّهُ الجَمِيعُ إِلَى مَهَامِّهِمْ.",
+      "example_de": "Das Startsignal ertönt und alle beginnen mit ihren Aufgaben.",
+      "example_en": "The starting signal rings out and everyone begins their tasks.",
+      "image_asset": "verb_sound_014.svg"
+    },
+    {
+      "id": "v79_015",
+      "ar": "يَصْمُتُ / يَهْدَأُ الصَّوْتُ",
+      "de": "verstummen",
+      "en": "to fall silent / to cease sounding",
+      "conjugation": {
+        "ich": "verstumme",
+        "du": "verstummst",
+        "er_sie_es": "verstummt",
+        "wir": "verstummen",
+        "ihr": "verstummt",
+        "sie_Sie": "verstummen"
+      },
+      "tenses": {
+        "praesens": "er verstummt",
+        "praeteritum": "er verstummte",
+        "perfekt": "ist verstummt"
+      },
+      "preposition": "vor + Dativ",
+      "example_ar": "يَصْمُتُ الحَاضِرُونَ احْتِرَامًا عِنْدَمَا يَبْدَأُ الخَطِيبُ فِي الكَلَامِ.",
+      "example_de": "Die Anwesenden verstummen respektvoll, als der Redner beginnt.",
+      "example_en": "The attendees fall silent respectfully when the speaker begins.",
+      "image_asset": "verb_sound_015.svg"
+    },
+    {
+      "id": "v79_016",
+      "ar": "يَلْتَقِطُ السَّمْعَ / يَسْمَعُ",
+      "de": "vernehmen",
+      "en": "to perceive / to hear / to discern",
+      "conjugation": {
+        "ich": "vernehme",
+        "du": "vernimmst",
+        "er_sie_es": "vernimmt",
+        "wir": "vernehmen",
+        "ihr": "vernehmt",
+        "sie_Sie": "vernehmen"
+      },
+      "tenses": {
+        "praesens": "er vernimmt",
+        "praeteritum": "er vernahm",
+        "perfekt": "hat vernommen"
+      },
+      "preposition": "aus + Dativ",
+      "example_ar": "يَسْمَعُ الحَارِسُ صَوْتًا خَافِتًا بَيْنَ الأَشْجَارِ فَيَتَبَيَّنُهُ.",
+      "example_de": "Der Wächter vernimmt ein leises Rascheln im Dickicht.",
+      "example_en": "The guard perceives a faint rustling in the thicket.",
+      "image_asset": "verb_sound_016.svg"
+    },
+    {
+      "id": "v79_017",
+      "ar": "يُصَفِّرُ",
+      "de": "pfeifen",
+      "en": "to whistle",
+      "conjugation": {
+        "ich": "pfeife",
+        "du": "pfeifst",
+        "er_sie_es": "pfeift",
+        "wir": "pfeifen",
+        "ihr": "pfeift",
+        "sie_Sie": "pfeifen"
+      },
+      "tenses": {
+        "praesens": "er pfeift",
+        "praeteritum": "er pfiff",
+        "perfekt": "hat gepfiffen"
+      },
+      "preposition": "nach + Dativ",
+      "example_ar": "يُصَفِّرُ الحَكَمُ مُعْلِنًا نِهَايَةَ شَوْطِ المُبَارَاةِ الأَوَّلِ.",
+      "example_de": "Der Schiedsrichter pfeift und beendet die erste Halbzeit.",
+      "example_en": "The referee blows his whistle to end the first half of the match.",
+      "image_asset": "verb_sound_017.svg"
+    },
+    {
+      "id": "v79_018",
+      "ar": "يَرْتَفِعُ صَوْتُهُ / يَعْلُو",
+      "de": "lauter werden",
+      "en": "to become louder",
+      "conjugation": {
+        "ich": "werde lauter",
+        "du": "wirst lauter",
+        "er_sie_es": "wird lauter",
+        "wir": "werden lauter",
+        "ihr": "werdet lauter",
+        "sie_Sie": "werden lauter"
+      },
+      "tenses": {
+        "praesens": "es wird lauter",
+        "praeteritum": "es wurde lauter",
+        "perfekt": "ist lauter geworden"
+      },
+      "preposition": "mit + Dativ",
+      "example_ar": "يَرْتَفِعُ صَوْتُ النَّهْرِ كُلَّمَا اقْتَرَبْنَا مِنْ مَصَبِّ الشَّلَّالِ.",
+      "example_de": "Das Rauschen des Flusses wird lauter, je näher wir kommen.",
+      "example_en": "The sound of the river becomes louder as we get closer.",
+      "image_asset": "verb_sound_018.svg"
+    },
+    {
+      "id": "v79_019",
+      "ar": "يَنْخَفِضُ صَوْتُهُ / يَهْدَأُ",
+      "de": "leiser werden",
+      "en": "to become softer / quieter",
+      "conjugation": {
+        "ich": "werde leiser",
+        "du": "wirst leiser",
+        "er_sie_es": "wird leiser",
+        "wir": "werden leiser",
+        "ihr": "werdet leiser",
+        "sie_Sie": "werden leiser"
+      },
+      "tenses": {
+        "praesens": "es wird leiser",
+        "praeteritum": "es wurde leiser",
+        "perfekt": "ist leiser geworden"
+      },
+      "preposition": "mit + Dativ",
+      "example_ar": "يَنْخَفِضُ صَوْتُ الرِّيحِ مَعَ حُلُولِ المَسَاءِ السَّاكِنِ.",
+      "example_de": "Der Wind wird mit Einbruch des ruhigen Abends merklich leiser.",
+      "example_en": "The wind becomes noticeably softer as the peaceful evening sets in.",
+      "image_asset": "verb_sound_019.svg"
+    },
+    {
+      "id": "v79_020",
+      "ar": "يُهَدِّئُ وَيُطَمْئِنُ",
+      "de": "beruhigen",
+      "en": "to soothe / to calm",
+      "conjugation": {
+        "ich": "beruhige",
+        "du": "beruhigst",
+        "er_sie_es": "beruhigt",
+        "wir": "beruhigen",
+        "ihr": "beruhigt",
+        "sie_Sie": "beruhigen"
+      },
+      "tenses": {
+        "praesens": "er beruhigt",
+        "praeteritum": "er beruhigte",
+        "perfekt": "hat beruhigt"
+      },
+      "preposition": "durch + Akkusativ",
+      "example_ar": "يُهَدِّئُ الصَّوْتُ الهَادِئُ النَّفْسَ وَيَبْعَثُ فِيهَا السَّلَامَ.",
+      "example_de": "Die sanfte Stimme beruhigt das Gemüt und schenkt Frieden.",
+      "example_en": "The gentle voice calms the spirit and instills peace.",
+      "image_asset": "verb_sound_020.svg"
+    }
+  ]
+}

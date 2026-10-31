@@ -1,0 +1,909 @@
+{
+  "category_id": "a2_school_classroom_verbs",
+  "category_name_de": "Schul-, Unterrichts- und Lernverben",
+  "category_name_en": "School, Teaching & Classroom Verbs",
+  "category_name_ar": "أفعال المدرسة والتدريس وفصول التعلم",
+  "level": "A1/A2",
+  "verbs": [
+    {
+      "id": "verb_school_001",
+      "infinitive": "lernen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "sich neues Wissen oder eine Sprache durch Übung aneignen",
+      "meaning_en": "to learn, study",
+      "meaning_ar": "يَتَعَلَّمُ، يَكْتَسِبُ مَعْرِفَة",
+      "tenses": {
+        "present": {
+          "ich": "lerne",
+          "du": "lernst",
+          "er_sie_es": "lernt",
+          "wir": "lernen",
+          "ihr": "lernt",
+          "sie_Sie": "lernen"
+        },
+        "past_simple": {
+          "ich": "lernte",
+          "du": "lerntest",
+          "er_sie_es": "lernte",
+          "wir": "lernten",
+          "ihr": "lerntet",
+          "sie_Sie": "lernten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gelernt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "für",
+          "case": "Akkusativ",
+          "meaning_ar": "يتعلم لأجل الامتحان"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Kinder lernen fleißig die arabischen Buchstaben und Laute.",
+          "en": "The children diligently learn the Arabic letters and sounds.",
+          "ar": "يَتَعَلَّمُ الأَطْفَالُ بِاجْتِهَادٍ الحُرُوفَ وَالأَصْوَاتَ العَرَبِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_school_002",
+      "infinitive": "lehren",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "anderen Wissen, Tugend und Fertigkeiten vermitteln",
+      "meaning_en": "to teach, instruct",
+      "meaning_ar": "يُعَلِّمُ، يُلَقِّنُ العِلْم",
+      "tenses": {
+        "present": {
+          "ich": "lehre",
+          "du": "lehrst",
+          "er_sie_es": "lehrt",
+          "wir": "lehren",
+          "ihr": "lehrt",
+          "sie_Sie": "lehren"
+        },
+        "past_simple": {
+          "ich": "lehrte",
+          "du": "lehrtest",
+          "er_sie_es": "lehrte",
+          "wir": "lehrten",
+          "ihr": "lehrtet",
+          "sie_Sie": "lehrten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gelehrt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Dativ",
+          "meaning_ar": "يعلم في مدرسة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der erfahrene Pädagoge lehrt Mathematik mit großer Hingabe.",
+          "en": "The experienced educator teaches mathematics with great devotion.",
+          "ar": "يُعَلِّمُ المُعَلِّمُ الخَبِيرُ الرِّيَاضِيَّاتِ بِإِخْلَاصٍ كَبِير."
+        }
+      ]
+    },
+    {
+      "id": "verb_school_003",
+      "infinitive": "unterrichten",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Schülern ein Schulfach im Unterricht vermitteln",
+      "meaning_en": "to teach a school subject",
+      "meaning_ar": "يُدَرِّسُ، يُلْقِي دَرْسًا",
+      "tenses": {
+        "present": {
+          "ich": "unterrichte",
+          "du": "unterrichtest",
+          "er_sie_es": "unterrichtet",
+          "wir": "unterrichten",
+          "ihr": "unterrichtet",
+          "sie_Sie": "unterrichten"
+        },
+        "past_simple": {
+          "ich": "unterrichtete",
+          "du": "unterrichtetest",
+          "er_sie_es": "unterrichtete",
+          "wir": "unterrichteten",
+          "ihr": "unterrichtetet",
+          "sie_Sie": "unterrichteten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "unterrichtet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يدرس في مادة معينة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Lehrerin unterrichtet Biologie und Naturkunde in der fünften Klasse.",
+          "en": "The teacher instructs biology and science in the fifth grade.",
+          "ar": "تُدَرِّسُ المُعَلِّمَةُ عِلْمَ الأَحْيَاءِ فِي الصَّفِّ الخَامِس."
+        }
+      ]
+    },
+    {
+      "id": "verb_school_004",
+      "infinitive": "aufpassen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "dem Lehrer im Unterricht aufmerksam und konzentriert zuhören",
+      "meaning_en": "to pay attention in class",
+      "meaning_ar": "يَنْتَبِهُ، يُرَكِّزُ مَعَ المُعَلِّم",
+      "tenses": {
+        "present": {
+          "ich": "passe auf",
+          "du": "passt auf",
+          "er_sie_es": "passt auf",
+          "wir": "passen auf",
+          "ihr": "passt auf",
+          "sie_Sie": "passen auf"
+        },
+        "past_simple": {
+          "ich": "passte auf",
+          "du": "passtest auf",
+          "er_sie_es": "passte auf",
+          "wir": "passten auf",
+          "ihr": "passtet auf",
+          "sie_Sie": "passten auf"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "aufgepasst"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "bei",
+          "case": "Dativ",
+          "meaning_ar": "ينتبه أثناء الشرح"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wer im Unterricht gut aufpasst, versteht die Hausaufgaben mühelos.",
+          "en": "Whoever pays good attention in class understands homework effortlessly.",
+          "ar": "مَنْ يَنْتَبِهْ جَيِّدًا فِي الصَّفِّ يَفْهَمِ الوَاجِبَاتِ المَنْزِلِيَّةَ بِيُسْر."
+        }
+      ]
+    },
+    {
+      "id": "verb_school_005",
+      "infinitive": "melden",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "die Hand im Unterricht heben, um eine Antwort zu geben",
+      "meaning_en": "to raise one's hand to answer",
+      "meaning_ar": "يَرْفَعُ يَدَهُ لِلْمُشَارَكَةِ أَوِ الإِجَابَة",
+      "tenses": {
+        "present": {
+          "ich": "melde mich",
+          "du": "meldest dich",
+          "er_sie_es": "meldet sich",
+          "wir": "melden uns",
+          "ihr": "meldet euch",
+          "sie_Sie": "melden sich"
+        },
+        "past_simple": {
+          "ich": "meldete mich",
+          "du": "meldetest dich",
+          "er_sie_es": "meldete sich",
+          "wir": "meldeten uns",
+          "ihr": "meldetet euch",
+          "sie_Sie": "meldeten sich"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gemeldet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "zu",
+          "case": "Dativ",
+          "meaning_ar": "يرفع يده للكلمة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Schüler meldet sich höflich, bevor er die richtige Lösung vorträgt.",
+          "en": "The student politely raises his hand before presenting the correct solution.",
+          "ar": "يَرْفَعُ التِّلْمِيذُ يَدَهُ بِأَدَبٍ قَبْلَ أَنْ يَعْرِضَ الحَلَّ الصَّحِيح."
+        }
+      ]
+    },
+    {
+      "id": "verb_school_006",
+      "infinitive": "fragen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "eine Frage stellen, um Unklares zu verstehen",
+      "meaning_en": "to ask a question",
+      "meaning_ar": "يَسْأَلُ، يَسْتَفْسِرُ",
+      "tenses": {
+        "present": {
+          "ich": "frage",
+          "du": "fragst",
+          "er_sie_es": "fragt",
+          "wir": "fragen",
+          "ihr": "fragt",
+          "sie_Sie": "fragen"
+        },
+        "past_simple": {
+          "ich": "fragte",
+          "du": "fragtest",
+          "er_sie_es": "fragte",
+          "wir": "fragten",
+          "ihr": "fragtet",
+          "sie_Sie": "fragten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gefragt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "nach",
+          "case": "Dativ",
+          "meaning_ar": "يسأل عن معنى كلمة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Schülerin fragt den Lehrer nach der Aussprache des neuen Wortes.",
+          "en": "The student asks the teacher about the pronunciation of the new word.",
+          "ar": "تَسْأَلُ التِّلْمِيذَةُ المُعَلِّمَ عَنْ كَيْفِيَّةِ نُطْقِ الكَلِمَةِ الجَدِيدَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_school_007",
+      "infinitive": "antworten",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "die passende Erwiderung auf eine gestellte Frage geben",
+      "meaning_en": "to answer, reply",
+      "meaning_ar": "يُجِيبُ عَلَى السُّؤَال",
+      "tenses": {
+        "present": {
+          "ich": "antworte",
+          "du": "antwortest",
+          "er_sie_es": "antwortet",
+          "wir": "antworten",
+          "ihr": "antwortet",
+          "sie_Sie": "antworten"
+        },
+        "past_simple": {
+          "ich": "antwortete",
+          "du": "antwortetest",
+          "er_sie_es": "antwortete",
+          "wir": "antworteten",
+          "ihr": "antwortetet",
+          "sie_Sie": "antworteten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geantwortet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Akkusativ",
+          "meaning_ar": "يجيب على السؤال"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er antwortete präzise und vollständig auf die Frage der Lehrerin.",
+          "en": "He answered the teacher's question precisely and completely.",
+          "ar": "أَجَابَ بِدِقَّةٍ وَاسْتِيفَاءٍ عَلَى سُؤَالِ المُعَلِّمَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_school_008",
+      "infinitive": "erklären",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "einen Sachverhalt verständlich und deutlich machen",
+      "meaning_en": "to explain clearly",
+      "meaning_ar": "يَشْرَحُ، يُوَضِّحُ الفِكْرَة",
+      "tenses": {
+        "present": {
+          "ich": "erkläre",
+          "du": "erklärst",
+          "er_sie_es": "erklärt",
+          "wir": "erklären",
+          "ihr": "erklärt",
+          "sie_Sie": "erklären"
+        },
+        "past_simple": {
+          "ich": "erklärte",
+          "du": "erklärtest",
+          "er_sie_es": "erklärte",
+          "wir": "erklärten",
+          "ihr": "erklärtet",
+          "sie_Sie": "erklärten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "erklärt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "anhand",
+          "case": "Genitiv",
+          "meaning_ar": "يشرح بالاستعانة بالرسم"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Lehrer erklärt die Regel anhand eines anschaulichen Beispiels.",
+          "en": "The teacher explains the rule using an illustrative example.",
+          "ar": "يَشْرَحُ المُعَلِّمُ القَاعِدَةَ بِالِاسْتِعَانَةِ بِمِثَالٍ وَاضِح."
+        }
+      ]
+    },
+    {
+      "id": "verb_school_009",
+      "infinitive": "zeichnen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "mit Bleistift und Lineal geometrische Formen oder Bilder anfertigen",
+      "meaning_en": "to draw shapes or diagrams",
+      "meaning_ar": "يَرْسُمُ بِالمِسْطَرَةِ وَالقَلَم",
+      "tenses": {
+        "present": {
+          "ich": "zeichne",
+          "du": "zeichnest",
+          "er_sie_es": "zeichnet",
+          "wir": "zeichnen",
+          "ihr": "zeichnet",
+          "sie_Sie": "zeichnen"
+        },
+        "past_simple": {
+          "ich": "zeichnete",
+          "du": "zeichnetest",
+          "er_sie_es": "zeichnete",
+          "wir": "zeichneten",
+          "ihr": "zeichnetet",
+          "sie_Sie": "zeichneten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gezeichnet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Akkusativ",
+          "meaning_ar": "يرسم في الدفتر"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Im Geometrieunterricht zeichnen die Schüler Dreiecke und Kreise.",
+          "en": "In geometry class, students draw triangles and circles.",
+          "ar": "يَرْسُمُ التَّلَامِيذُ فِي حِصَّةِ الهَنْدَسَةِ مُثَلَّثَاتٍ وَدَوَائِر."
+        }
+      ]
+    },
+    {
+      "id": "verb_school_010",
+      "infinitive": "rechnen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "mathematische Aufgaben mit Zahlen lösen",
+      "meaning_en": "to calculate, do math",
+      "meaning_ar": "يَحْسُبُ، يُجْرِي حِسَابَاتٍ رِيَاضِيَّة",
+      "tenses": {
+        "present": {
+          "ich": "rechne",
+          "du": "rechnest",
+          "er_sie_es": "rechnet",
+          "wir": "rechnen",
+          "ihr": "rechnet",
+          "sie_Sie": "rechnen"
+        },
+        "past_simple": {
+          "ich": "rechnete",
+          "du": "rechnetest",
+          "er_sie_es": "rechnete",
+          "wir": "rechneten",
+          "ihr": "rechnetet",
+          "sie_Sie": "rechneten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gerechnet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يحسب بالأرقام"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Grundschüler rechnen eifrig Plus- und Minusaufgaben im Kopf.",
+          "en": "The primary students eagerly calculate addition and subtraction in their heads.",
+          "ar": "يَحْسُبُ تَلَامِيذُ الِابْتِدَائِيِّ مَسَائِلَ الجَمْعِ وَالطَّرْحِ ذِهْنِيًّا بِحَمَاس."
+        }
+      ]
+    },
+    {
+      "id": "verb_school_011",
+      "infinitive": "schreiben",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "Buchstaben und Wörter mit dem Stift auf Papier festhalten",
+      "meaning_en": "to write",
+      "meaning_ar": "يَكْتُبُ",
+      "tenses": {
+        "present": {
+          "ich": "schreibe",
+          "du": "schreibst",
+          "er_sie_es": "schreibt",
+          "wir": "schreiben",
+          "ihr": "schreibt",
+          "sie_Sie": "schreiben"
+        },
+        "past_simple": {
+          "ich": "schrieb",
+          "du": "schriebst",
+          "er_sie_es": "schrieb",
+          "wir": "schrieben",
+          "ihr": "schriebt",
+          "sie_Sie": "schrieben"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geschrieben"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Akkusativ",
+          "meaning_ar": "يكتب في الدفتر"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Sie schreibt einen Aufsatz über die Schönheit der Natur.",
+          "en": "She writes an essay about the beauty of nature.",
+          "ar": "تَكْتُبُ مَقَالًا عَنْ بَدِيعِ جَمَالِ الطَّبِيعَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_school_012",
+      "infinitive": "abschreiben",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "einen Text von der Tafel ordentlich in das eigene Heft übertragen",
+      "meaning_en": "to copy from blackboard",
+      "meaning_ar": "يَنْقُلُ عَنِ السَّبُّورَةِ إِلَى الدَّفْتَر",
+      "tenses": {
+        "present": {
+          "ich": "schreibe ab",
+          "du": "schreibst ab",
+          "er_sie_es": "schreibt ab",
+          "wir": "schreiben ab",
+          "ihr": "schreibt ab",
+          "sie_Sie": "schreiben ab"
+        },
+        "past_simple": {
+          "ich": "schrieb ab",
+          "du": "schriebst ab",
+          "er_sie_es": "schrieb ab",
+          "wir": "schrieben ab",
+          "ihr": "schriebt ab",
+          "sie_Sie": "schrieben ab"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "abgeschrieben"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "von",
+          "case": "Dativ",
+          "meaning_ar": "ينقل عن السبورة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Klasse schreibt den Merksatz ruhig von der grünen Tafel ab.",
+          "en": "The class copies the mnemonic rule quietly from the green board.",
+          "ar": "يَنْقُلُ الفَصْلُ القَاعِدَةَ النَّحْوِيَّةَ بِهُدُوءٍ عَنِ السَّبُّورَةِ الخَضْرَاء."
+        }
+      ]
+    },
+    {
+      "id": "verb_school_013",
+      "infinitive": "korrigieren",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Fehler in Heften oder Aufgaben mit roter Tinte verbessern",
+      "meaning_en": "to correct, grade homework",
+      "meaning_ar": "يُصَحِّحُ الدَّفَاتِرَ وَالوَاجِبَات",
+      "tenses": {
+        "present": {
+          "ich": "korrigiere",
+          "du": "korrigierst",
+          "er_sie_es": "korrigiert",
+          "wir": "korrigieren",
+          "ihr": "korrigiert",
+          "sie_Sie": "korrigieren"
+        },
+        "past_simple": {
+          "ich": "korrigierte",
+          "du": "korrigiertest",
+          "er_sie_es": "korrigierte",
+          "wir": "korrigierten",
+          "ihr": "korrigiertet",
+          "sie_Sie": "korrigierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "korrigiert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يصحح بقلم أحمر"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Lehrer korrigiert die Aufsätze gewissenhaft und gibt wertvolle Hinweise.",
+          "en": "The teacher corrects the essays conscientiously and gives valuable hints.",
+          "ar": "يُصَحِّحُ المُعَلِّمُ المَقَالَاتِ بِأَمَانَةٍ وَيُقَدِّمُ تَوْجِيهَاتٍ قَيِّمَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_school_014",
+      "infinitive": "üben",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "eine Fertigkeit durch stetige Wiederholung trainieren",
+      "meaning_en": "to practice exercises",
+      "meaning_ar": "يَتَدَرَّبُ، يُمَارِسُ التَّمَارِينَ",
+      "tenses": {
+        "present": {
+          "ich": "übe",
+          "du": "übst",
+          "er_sie_es": "übt",
+          "wir": "üben",
+          "ihr": "übt",
+          "sie_Sie": "üben"
+        },
+        "past_simple": {
+          "ich": "übte",
+          "du": "übtest",
+          "er_sie_es": "übte",
+          "wir": "übten",
+          "ihr": "übtet",
+          "sie_Sie": "übten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geübt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "für",
+          "case": "Akkusativ",
+          "meaning_ar": "يتدرب للاختبار"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wir üben jeden Nachmittag eine halbe Stunde die richtige Rechtschreibung.",
+          "en": "We practice correct spelling for half an hour every afternoon.",
+          "ar": "نَتَدَرَّبُ نِصْفَ سَاعَةٍ كُلَّ مَسَاءٍ عَلَى قَوَاعِدِ الإِمْلَاءِ الصَّحِيحَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_school_015",
+      "infinitive": "wiederholen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "Gelerntes nochmals gemeinsam durchsprechen",
+      "meaning_en": "to review, repeat lesson",
+      "meaning_ar": "يُكَرِّرُ، يُرَاجِعُ الدَّرْس",
+      "tenses": {
+        "present": {
+          "ich": "wiederhole",
+          "du": "wiederholst",
+          "er_sie_es": "wiederholt",
+          "wir": "wiederholen",
+          "ihr": "wiederholt",
+          "sie_Sie": "wiederholen"
+        },
+        "past_simple": {
+          "ich": "wiederholte",
+          "du": "wiederholtest",
+          "er_sie_es": "wiederholte",
+          "wir": "wiederholten",
+          "ihr": "wiederholtet",
+          "sie_Sie": "wiederholten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "wiederholt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "vor",
+          "case": "Dativ",
+          "meaning_ar": "يراجع قبل الحصة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Zu Beginn der Stunde wiederholt die Klasse die Regeln des Vortags.",
+          "en": "At the beginning of the lesson, the class reviews the rules from the day before.",
+          "ar": "تُرَاجِعُ الفِئَةُ فِي بَدْءِ الحِصَّةِ قَوَاعِدَ اليَوْمِ السَّابِق."
+        }
+      ]
+    },
+    {
+      "id": "verb_school_016",
+      "infinitive": "verstehen",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "den logischen Sinn einer mathematischen oder sprachlichen Regel erfassen",
+      "meaning_en": "to understand lesson",
+      "meaning_ar": "يَفْهَمُ، يَسْتَوْعِبُ الدَّرْس",
+      "tenses": {
+        "present": {
+          "ich": "verstehe",
+          "du": "verstehst",
+          "er_sie_es": "versteht",
+          "wir": "verstehen",
+          "ihr": "versteht",
+          "sie_Sie": "verstehen"
+        },
+        "past_simple": {
+          "ich": "verstand",
+          "du": "verstandest",
+          "er_sie_es": "verstand",
+          "wir": "verstanden",
+          "ihr": "verstandet",
+          "sie_Sie": "verstanden"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "verstanden"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Akkusativ",
+          "meaning_ar": "يفهم على الفور"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Dank der bildhaften Veranschaulichung verstanden alle Kinder die Bruchrechnung.",
+          "en": "Thanks to the visual illustration, all children understood fractions.",
+          "ar": "فَهِمَ جَمِيعُ الأَطْفَالِ حِسَابَ الكُسُورِ بِفَضْلِ التَّمْثِيلِ البَصَرِيِّ الوَاضِح."
+        }
+      ]
+    },
+    {
+      "id": "verb_school_017",
+      "infinitive": "zuhören",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "dem Vortrag des Lehrers ruhig und mit ganzer Aufmerksamkeit folgen",
+      "meaning_en": "to listen carefully",
+      "meaning_ar": "يُصْغِي، يَسْتَمِعُ لِلْمُعَلِّمِ بِاحْتِرَام",
+      "tenses": {
+        "present": {
+          "ich": "höre zu",
+          "du": "hörst zu",
+          "er_sie_es": "hört zu",
+          "wir": "hören zu",
+          "ihr": "hört zu",
+          "sie_Sie": "hören zu"
+        },
+        "past_simple": {
+          "ich": "hörte zu",
+          "du": "hörtest zu",
+          "er_sie_es": "hörte zu",
+          "wir": "hörten zu",
+          "ihr": "hörtet zu",
+          "sie_Sie": "hörten zu"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "zugehört"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "bei",
+          "case": "Dativ",
+          "meaning_ar": "يصغي أثناء الدرس"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Schüler hören der Lehrerin aufmerksam zu und nicken bejahend.",
+          "en": "The students listen carefully to the teacher and nod in agreement.",
+          "ar": "يُصْغِي التَّلَامِيذُ لِلْمُعَلِّمَةِ بِانْتِبَاهٍ وَيُومِئُونَ بِالمُوَافَقَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_school_018",
+      "infinitive": "behalten",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "Gelerntes dauerhaft im Kopf behalten und bei Bedarf abrufen",
+      "meaning_en": "to retain, memorize",
+      "meaning_ar": "يَحْفَظُ، يَسْتَبْقِي المَعْلُومَةَ فِي ذَاكِرَتِه",
+      "tenses": {
+        "present": {
+          "ich": "behalte",
+          "du": "behältst",
+          "er_sie_es": "behält",
+          "wir": "behalten",
+          "ihr": "behaltet",
+          "sie_Sie": "behalten"
+        },
+        "past_simple": {
+          "ich": "behielt",
+          "du": "behieltst",
+          "er_sie_es": "behielt",
+          "wir": "behielten",
+          "ihr": "behieltet",
+          "sie_Sie": "behielten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "behalten"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "im",
+          "case": "Dativ",
+          "meaning_ar": "يحفظ في الذهن"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Mit Merksätzen behalten Kinder grammatische Regeln viel leichter im Kopf.",
+          "en": "With memory rhymes, children retain grammar rules much more easily.",
+          "ar": "يَحْفَظُ الأَطْفَالُ القَوَاعِدَ النَّحْوِيَّةَ فِي أَذْهَانِهِمْ بِيُسْرٍ بِالجُمَلِ التَّذْكِيرِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_school_019",
+      "infinitive": "loben",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "einen Schüler für Fleiß, Pünktlichkeit oder gute Noten anerkennen",
+      "meaning_en": "to praise a diligent pupil",
+      "meaning_ar": "يَمْدَحُ، يُثْنِي عَلَى اجْتِهَادِ التِّلْمِيذ",
+      "tenses": {
+        "present": {
+          "ich": "lobe",
+          "du": "lobst",
+          "er_sie_es": "lobt",
+          "wir": "loben",
+          "ihr": "lobt",
+          "sie_Sie": "loben"
+        },
+        "past_simple": {
+          "ich": "lobte",
+          "du": "lobtest",
+          "er_sie_es": "lobte",
+          "wir": "lobten",
+          "ihr": "lobtet",
+          "sie_Sie": "lobten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gelobt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "für",
+          "case": "Akkusativ",
+          "meaning_ar": "يثني على التفوق"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Lehrerin lobte die Schülerin für ihre saubere und vorbildliche Schrift.",
+          "en": "The teacher praised the student for her neat and exemplary handwriting.",
+          "ar": "أَثْنَتِ المُعَلِّمَةُ عَلَى التِّلْمِيذَةِ لِخَطِّهَا المُرَتَّبِ النَّمُوذَجِيّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_school_020",
+      "infinitive": "bestehen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "eine Prüfung mit Erfolg und guten Ergebnissen abschließen",
+      "meaning_en": "to pass an exam successfully",
+      "meaning_ar": "يَجْتَازُ، يَنْجَحُ فِي الِاخْتِبَار",
+      "tenses": {
+        "present": {
+          "ich": "bestehe",
+          "du": "bestehst",
+          "er_sie_es": "besteht",
+          "wir": "bestehen",
+          "ihr": "besteht",
+          "sie_Sie": "bestehen"
+        },
+        "past_simple": {
+          "ich": "bestand",
+          "du": "bestandest",
+          "er_sie_es": "bestand",
+          "wir": "bestanden",
+          "ihr": "bestandet",
+          "sie_Sie": "bestanden"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "bestanden"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يجتاز بدرجة امتياز"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Alle Schüler bestanden den Abschlusstest in Mathematik mit Bravour.",
+          "en": "All students passed the final test in mathematics with flying colors.",
+          "ar": "اجْتَازَ جَمِيعُ التَّلَامِيذِ الِاخْتِبَارَ النِّهَائِيَّ فِي الرِّيَاضِيَّاتِ بِتَفَوُّق."
+        }
+      ]
+    }
+  ]
+}

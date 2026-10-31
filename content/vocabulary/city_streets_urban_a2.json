@@ -1,0 +1,409 @@
+{
+  "category_id": "city_streets_urban_a2",
+  "category_name_de": "Stadtleben, Straßen & Öffentlicher Raum",
+  "category_name_en": "City Life, Streets & Urban Landmarks",
+  "category_name_ar": "المَدِينَةُ وَالشَّوَارِعُ وَالمَعَالِمُ الحَضَرِيَّة",
+  "level": "A2+",
+  "items": [
+    {
+      "id": "city_urban_001",
+      "term_de": "die Stadt",
+      "plural_de": "die Städte",
+      "term_en": "city, town",
+      "term_ar": "المَدِينَة",
+      "pronunciation_de": "[ʃtat]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die historische Stadt begeistert durch schöne Architektur und gepflegte Parks.",
+          "en": "The historic city impresses with beautiful architecture and well-kept parks.",
+          "ar": "تَأْسِرُ المَدِينَةُ التَّارِيخِيَّةُ القُلُوبَ بِعِمَارَتِهَا الجَمِيلَةِ وَحَدَائِقِهَا النَّضِرَة."
+        }
+      ]
+    },
+    {
+      "id": "city_urban_002",
+      "term_de": "die Straße",
+      "plural_de": "die Straßen",
+      "term_en": "street, road",
+      "term_ar": "الشَّارِع",
+      "pronunciation_de": "[ˈʃtʁaːsə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Entlang der breiten Straße wachsen alte Platanen, die angenehmen Schatten spenden.",
+          "en": "Along the wide street grow old plane trees providing pleasant shade.",
+          "ar": "تَنْمُو أَشْجَارُ الدِّلْبِ المُعَمَّرَةُ عَلَى طُولِ الشَّارِعِ الوَاسِعِ لِتَمْنَحَ ظِلًّا وَارِفًا."
+        }
+      ]
+    },
+    {
+      "id": "city_urban_003",
+      "term_de": "die Kreuzung",
+      "plural_de": "die Kreuzungen",
+      "term_en": "intersection, crossroads",
+      "term_ar": "تَقَاطُعُ الطُّرُق، المَفْرَق",
+      "pronunciation_de": "[ˈkʁɔɪ̯t͡sʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "An der belebten Kreuzung regelt eine Ampel den Verkehrsfluss sicher.",
+          "en": "At the busy intersection, a traffic light regulates the flow of traffic safely.",
+          "ar": "تُوَجِّهُ إِشَارَةُ المُرُورِ سَيْرَ المَرْكَبَاتِ بِأَمَانٍ عِنْدَ التَّقَاطُعِ المُزْدَحِم."
+        }
+      ]
+    },
+    {
+      "id": "city_urban_004",
+      "term_de": "der Bürgersteig",
+      "plural_de": "die Bürgersteige",
+      "term_en": "sidewalk, pavement",
+      "term_ar": "الرَّصِيف، مَمَرُّ المُشَاة",
+      "pronunciation_de": "[ˈbʏʁɡɐˌʃtaɪ̯k]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Fußgänger gehen sicher auf dem breiten, sauberen Bürgersteig.",
+          "en": "Pedestrians walk safely on the wide, clean sidewalk.",
+          "ar": "يَسِيرُ المُشَاةُ بِأَمَانٍ عَلَى الرَّصِيفِ العَرِيضِ النَّظِيف."
+        }
+      ]
+    },
+    {
+      "id": "city_urban_005",
+      "term_de": "der Zebrastreifen",
+      "plural_de": "die Zebrastreifen",
+      "term_en": "pedestrian crossing, crosswalk",
+      "term_ar": "مَمَرُّ المُشَاةِ المُخَطَّط",
+      "pronunciation_de": "[ˈtseːbʁaˌʃtʁaɪ̯fn̩]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Autofahrer halten vor dem Zebrastreifen an, um Fußgänger queren zu lassen.",
+          "en": "Drivers stop in front of the crosswalk to let pedestrians cross.",
+          "ar": "يَتَوَقَّفُ السَّائِقُونَ أَمَامَ مَمَرِّ المُشَاةِ لِإِفْسَاحِ الطَّرِيقِ لِلْعَابِرِين."
+        }
+      ]
+    },
+    {
+      "id": "city_urban_006",
+      "term_de": "die Fußgängerzone",
+      "plural_de": "die Fußgängerzonen",
+      "term_en": "pedestrian precinct, car-free zone",
+      "term_ar": "مِنْطَقَةُ المُشَاةِ الخَالِيَةُ مِنَ السَّيَّارَات",
+      "pronunciation_de": "[ˈfuːsɡɛŋɐˌt͡soːnə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "In der autofreien Fußgängerzone flanieren Familien entspannt zwischen den Geschäften.",
+          "en": "In the car-free pedestrian zone, families stroll relaxed between shops.",
+          "ar": "تَتَنَزَّهُ العَائِلَاتُ بِارْتِيَاحٍ بَيْنَ المَتَاجِرِ فِي مِنْطَقَةِ المُشَاةِ الخَالِيَةِ مِنَ السَّيَّارَات."
+        }
+      ]
+    },
+    {
+      "id": "city_urban_007",
+      "term_de": "der Marktplatz",
+      "plural_de": "die Marktplätze",
+      "term_en": "market square, town square",
+      "term_ar": "سَاحَةُ السُّوق، المَيْدَانُ العَامّ",
+      "pronunciation_de": "[ˈmaʁktˌplat͡s]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Auf dem zentralen Marktplatz bieten Bauern jeden Samstag frisches Gemüse an.",
+          "en": "On the central market square, farmers offer fresh vegetables every Saturday.",
+          "ar": "يَعْرِضُ الفَلَّاحُونَ الخُضْرَاوَاتِ الطَّازَجَةَ صَبَاحَ كُلِّ سَبْتٍ فِي سَاحَةِ السُّوقِ المَرْكَزِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "city_urban_008",
+      "term_de": "die Ampel",
+      "plural_de": "die Ampeln",
+      "term_en": "traffic light",
+      "term_ar": "إِشَارَةُ المُرُورِ الضَّوْئِيَّة",
+      "pronunciation_de": "[ˈampl̩]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Bei Grün darf man gehen, bei Rot muss man stehen bleiben.",
+          "en": "At green you may go, at red you must stand still.",
+          "ar": "يَعْبُرُ المَرْءُ عِنْدَ الإِشَارَةِ الخَضْرَاءِ وَيَقِفُ عِنْدَ الحَمْرَاءِ."
+        }
+      ]
+    },
+    {
+      "id": "city_urban_009",
+      "term_de": "das Straßenschild",
+      "plural_de": "die Straßenschilder",
+      "term_en": "street name sign",
+      "term_ar": "لَافِتَةُ الشَّارِع، شَاخِصَةُ اسْمِ الطَّرِيق",
+      "pronunciation_de": "[ˈʃtʁaːsn̩ˌʃɪlt]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das blaue Straßenschild an der Ecke zeigt den Namen des berühmten Gelehrten.",
+          "en": "The blue street sign on the corner shows the name of the famous scholar.",
+          "ar": "تَحْمِلُ لَافِتَةُ الشَّارِعِ الزَّرْقَاءُ عِنْدَ الزَّاوِيَةِ اسْمَ العَالِمِ الجَلِيل."
+        }
+      ]
+    },
+    {
+      "id": "city_urban_010",
+      "term_de": "die Straßenlaterne",
+      "plural_de": "die Straßenlaternen",
+      "term_en": "street lamp, lamppost",
+      "term_ar": "عَمُودُ الإِنَارَةِ فِي الشَّارِع",
+      "pronunciation_de": "[ˈʃtʁaːsn̩laˌtɛʁnə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Moderne LED-Straßenlaternen erleuchten die Wege energiesparend in der Nacht.",
+          "en": "Modern LED street lamps illuminate the pathways energy-efficiently at night.",
+          "ar": "تُنِيرُ أَعْمِدَةُ الإنَارَةِ الحَدِيثَةُ الشَّوَارِعَ لَيْلًا بِاسْتِهْلَاكٍ مُوَفِّرٍ لِلطَّاقَة."
+        }
+      ]
+    },
+    {
+      "id": "city_urban_011",
+      "term_de": "die Parkbank",
+      "plural_de": "die Parkbänke",
+      "term_en": "park bench",
+      "term_ar": "مَقْعَدُ الحَدِيقَةِ العَامَّة",
+      "pronunciation_de": "[ˈpaʁkˌbaŋk]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Auf der hölzernen Parkbank ruhen Spaziergänger im Schatten der Linden aus.",
+          "en": "On the wooden park bench, walkers rest in the shade of the linden trees.",
+          "ar": "يَسْتَرِيحُ المَارَّةُ عَلَى مَقْعَدِ الحَدِيقَةِ الخَشَبِيِّ فِي ظِلِّ أَشْجَارِ الزَّيْزَفُون."
+        }
+      ]
+    },
+    {
+      "id": "city_urban_012",
+      "term_de": "der Brunnen",
+      "plural_de": "die Brunnen",
+      "term_en": "fountain, public spring",
+      "term_ar": "نَافُورَةُ المَيْدَان، اليَنْبُوعُ العَامّ",
+      "pronunciation_de": "[ˈbʁʊnən]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Mitten auf dem Platz plätschert ein kunstvoll gestalteter Steinbrunnen.",
+          "en": "In the middle of the square splashes an artfully designed stone fountain.",
+          "ar": "تَتَدَفَّقُ مِيَاهُ نَافُورَةِ المَيْدَانِ الحَجَرِيَّةِ المُزَخْرَفَةِ فِي وَسَطِ السَّاحَة."
+        }
+      ]
+    },
+    {
+      "id": "city_urban_013",
+      "term_de": "das Rathaus",
+      "plural_de": "die Rathäuser",
+      "term_en": "town hall, city hall",
+      "term_ar": "مَبْنَى البَلَدِيَّة، دَارُ الحُكُومَةِ المَحَلِّيَّة",
+      "pronunciation_de": "[ˈʁaːtˌhaʊ̯s]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das historische Rathaus mit seiner astronomischen Uhr ist ein Wahrzeichen der Stadt.",
+          "en": "The historic town hall with its astronomical clock is a landmark of the city.",
+          "ar": "مَبْنَى البَلَدِيَّةِ التَّارِيخِيُّ بِسَاعَتِهِ الفَلَكِيَّةِ مَعْلَمٌ بَارِزٌ فِي المَدِينَة."
+        }
+      ]
+    },
+    {
+      "id": "city_urban_014",
+      "term_de": "die Altstadt",
+      "plural_de": "die Altstädte",
+      "term_en": "old town, historic center",
+      "term_ar": "المَدِينَةُ القَدِيمَة، الحَيُّ التَّارِيخِيّ",
+      "pronunciation_de": "[ˈaltˌʃtat]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "In der verkehrsberuhigten Altstadt stehen gut erhaltene Fachwerkhäuser.",
+          "en": "In the traffic-calmed old town stand well-preserved timber-framed houses.",
+          "ar": "تَصْطَفُّ البُيُوتُ الخَشَبِيَّةُ الأَثَرِيَّةُ المَصُونَةُ فِي الحَيِّ التَّارِيخِيِّ القَدِيم."
+        }
+      ]
+    },
+    {
+      "id": "city_urban_015",
+      "term_de": "das Gebäude",
+      "plural_de": "die Gebäude",
+      "term_en": "building, architectural structure",
+      "term_ar": "المَبْنَى، الصَّرْحُ المِعْمَارِيّ",
+      "pronunciation_de": "[ɡəˈbɔɪ̯də]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das moderne Bibliotheksgebäude verbindet Glas, Stein und Holz harmonisch.",
+          "en": "The modern library building combines glass, stone, and wood harmoniously.",
+          "ar": "يَجْمَعُ مَبْنَى المَكْتَبَةِ الحَدِيثُ بَيْنَ الزُّجَاجِ وَالحَجَرِ وَالخَشَبِ بِانْسِجَام."
+        }
+      ]
+    },
+    {
+      "id": "city_urban_016",
+      "term_de": "das Viertel",
+      "plural_de": "die Viertel",
+      "term_en": "neighborhood, district",
+      "term_ar": "الحَيُّ السَّكَنِيّ",
+      "pronunciation_de": "[ˈfɪʁtl̩]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "In unserem ruhigen Viertel grüßen sich die Nachbarn stets mit einem Lächeln.",
+          "en": "In our quiet district, neighbors always greet each other with a smile.",
+          "ar": "يُحَيِّي الجِيرَانُ بَعْضَهُمْ دَائِمًا بِابْتِسَامَةٍ فِي حَيِّنَا الهَادِئ."
+        }
+      ]
+    },
+    {
+      "id": "city_urban_017",
+      "term_de": "die Gasse",
+      "plural_de": "die Gassen",
+      "term_en": "alley, lane, narrow street",
+      "term_ar": "الزُّقَاق، الحَارَةُ الضَّيِّقَة",
+      "pronunciation_de": "[ˈɡasə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die gepflasterte Gasse führt hinauf zu einem herrlichen Aussichtspunkt.",
+          "en": "The paved lane leads up to a splendid viewpoint.",
+          "ar": "يَقُودُ الزُّقَاقُ المَرْصُوفُ بِالحِجَارَةِ صُعُودًا إِلَى إِطْلَالَةٍ بَدِيعَة."
+        }
+      ]
+    },
+    {
+      "id": "city_urban_018",
+      "term_de": "der Stadtplan",
+      "plural_de": "die Stadtpläne",
+      "term_en": "city map",
+      "term_ar": "خَرِيطَةُ المَدِينَة",
+      "pronunciation_de": "[ˈʃtatˌplaːn]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Auf dem Stadtplan sind alle Museen, Gärten und Haltestellen verzeichnet.",
+          "en": "On the city map, all museums, gardens, and transit stops are marked.",
+          "ar": "تَظْهَرُ عَلَى خَرِيطَةِ المَدِينَةِ جَمِيعُ المَتَاحِفِ وَالحَدَائِقِ وَالمَحَطَّات."
+        }
+      ]
+    },
+    {
+      "id": "city_urban_019",
+      "term_de": "der Verkehr",
+      "plural_de": "-",
+      "term_en": "traffic",
+      "term_ar": "حَرَكَةُ المُرُور",
+      "pronunciation_de": "[fɛɐ̯ˈkeːɐ̯]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Flüssiger Verkehr schont die Nerven und verringert Abgase in der Luft.",
+          "en": "Smooth traffic spares nerves and reduces exhaust fumes in the air.",
+          "ar": "سَلَاسَةُ حَرَكَةِ المُرُورِ تُهَدِّئُ الأَعْصَابَ وَتُقَلِّلُ انْبِعَاثَاتِ العَوَادِم."
+        }
+      ]
+    },
+    {
+      "id": "city_urban_020",
+      "term_de": "der Radweg",
+      "plural_de": "die Radwege",
+      "term_en": "bike lane, cycle path",
+      "term_ar": "مَسَارُ الدَّرَّاجَاتِ الهَوَائِيَّة",
+      "pronunciation_de": "[ˈʁaːtˌveːk]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der rot markierte Radweg trennt Fahrradfahrer sicher vom Autoverkehr.",
+          "en": "The red-marked bike lane separates cyclists safely from car traffic.",
+          "ar": "يَفْصِلُ مَسَارُ الدَّرَّاجَاتِ المُحَدَّدُ بِالأَحْمَرِ رَاكِبِي الدَّرَّاجَاتِ بِأَمَانٍ عَنِ السَّيَّارَات."
+        }
+      ]
+    },
+    {
+      "id": "city_urban_021",
+      "term_de": "der Papierkorb",
+      "plural_de": "die Papierkörbe",
+      "term_en": "litter bin, public waste basket",
+      "term_ar": "سَلَّةُ المُهْمَلَاتِ العَامَّة",
+      "pronunciation_de": "[paˈpiːɐ̯ˌkɔʁp]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Bitte werfen Sie Abfälle stets in den nächsten Papierkorb.",
+          "en": "Please always throw waste into the nearest litter bin.",
+          "ar": "يُرْجَى إِلْقَاءُ المُخَلَّفَاتِ دَائِمًا فِي أَقْرَبِ سَلَّةِ مُهْمَلَات."
+        }
+      ]
+    },
+    {
+      "id": "city_urban_022",
+      "term_de": "die Orientierung",
+      "plural_de": "-",
+      "term_en": "orientation, finding one's way",
+      "term_ar": "الِاهْتِدَاءُ إِلَى المَعَالِم، تَحْدِيدُ الوِجْهَة",
+      "pronunciation_de": "[oʁiɛnˈtiːʁʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Übersichtliche Wegweiser erleichtern Besuchern die Orientierung im Zentrum.",
+          "en": "Clear signposts facilitate orientation in the center for visitors.",
+          "ar": "تُسَهِّلُ اللَّافِتَاتُ المُرْتَّبَةُ عَلَى الزَّائِرِينَ مَعْرِفَةَ الطَّرِيقِ فِي وَسَطِ المَدِينَة."
+        }
+      ]
+    },
+    {
+      "id": "city_urban_023",
+      "term_de": "die Sehenswürdigkeit",
+      "plural_de": "die Sehenswürdigkeiten",
+      "term_en": "sight, tourist attraction",
+      "term_ar": "المَعْلَمُ البَارِز، المَزَارُ التَّارِيخِيّ",
+      "pronunciation_de": "[ˈzeːənsvʏʁdɪçkaɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Das alte Stadttor ist die bekannteste Sehenswürdigkeit der Region.",
+          "en": "The old city gate is the most famous sight in the region.",
+          "ar": "بَوَّابَةُ المَدِينَةِ القَدِيمَةُ هِيَ أَشْهَرُ مَعْلَمٍ فِي المِنْطَقَة."
+        }
+      ]
+    },
+    {
+      "id": "city_urban_024",
+      "term_de": "die Sicherheit",
+      "plural_de": "-",
+      "term_en": "road safety, urban security",
+      "term_ar": "الأَمَان، السَّلَامَةُ فِي الطُّرُقَات",
+      "pronunciation_de": "[ˈzɪçɐhaɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Gute Beleuchtung und breite Gehwege erhöhen die Sicherheit aller Bürger.",
+          "en": "Good lighting and wide sidewalks increase the safety of all citizens.",
+          "ar": "تَزِيدُ الإِنَارَةُ الجَيِّدَةُ وَالأَرْصِفَةُ الوَاسِعَةُ مِنْ سَلَامَةِ كُلِّ المُواطِنِين."
+        }
+      ]
+    },
+    {
+      "id": "city_urban_025",
+      "term_de": "das Stadtbild",
+      "plural_de": "die Stadtbilder",
+      "term_en": "cityscape, urban appearance",
+      "term_ar": "المَظْهَرُ الحَضَرِيّ، الطَّابَعُ العُمْرَانِيُّ لِلْمَدِينَة",
+      "pronunciation_de": "[ˈʃtatˌbɪlt]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Viele Grünflächen und saubere Straßen prägen das gepflegte Stadtbild.",
+          "en": "Many green spaces and clean streets characterize the well-tended cityscape.",
+          "ar": "تَطْبَعُ المِسَاحَاتُ الخَضْرَاءُ وَالشَّوَارِعُ النَّظِيفَةُ المَظْهَرَ العُمْرَانِيَّ الرَّاقِيَ لِلْمَدِينَة."
+        }
+      ]
+    }
+  ]
+}

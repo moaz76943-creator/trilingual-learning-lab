@@ -1,0 +1,493 @@
+{
+  "id": "a2_sports_competition_verbs",
+  "engine_number": 78,
+  "title_ar": "أَفْعَالُ الرِّيَاضَةِ، المُسَابَقَاتِ، وَالأَلْعَابِ الجَمَاعِيَّةِ",
+  "title_de": "Verben für Sport, Wettkampf und Teamspiele",
+  "title_en": "Sports, Games & Team Competition Verbs Engine",
+  "level": "A2",
+  "description_ar": "أَفْعَالٌ أَسَاسِيَّةٌ وَعَمَلِيَّةٌ تُغَطِّي أَنْشِطَةَ الرِّيَاضَةِ البَدَنِيَّةِ، الأَلْعَابِ الجَمَاعِيَّةِ، التَّمْرِيرِ، التَّسْدِيدِ، وَالأَخْلَاقِ الرِّيَاضِيَّةِ الرَّفِيعَةِ.",
+  "description_de": "Grundlegende Verben für körperliche Betätigung, Mannschaftsspiele, Zuspiel, Torschuss und sportliche Fairness.",
+  "description_en": "Essential verbs covering physical sports, team games, passing, shooting, and sportsmanlike conduct.",
+  "verbs": [
+    {
+      "id": "v78_001",
+      "ar": "يَلْعَبُ",
+      "de": "spielen",
+      "en": "to play",
+      "conjugation": {
+        "ich": "spiele",
+        "du": "spielst",
+        "er_sie_es": "spielt",
+        "wir": "spielen",
+        "ihr": "spielt",
+        "sie_Sie": "spielen"
+      },
+      "tenses": {
+        "praesens": "er spielt",
+        "praeteritum": "er spielte",
+        "perfekt": "hat gespielt"
+      },
+      "preposition": "mit + Dativ / um + Akkusativ",
+      "example_ar": "يَلْعَبُ الأَطْفَالُ كُرَةَ القَدَمِ فِي الحَدِيقَةِ بِنَشَاطٍ.",
+      "example_de": "Die Kinder spielen im Park aktiv Fußball.",
+      "example_en": "The children play football actively in the park.",
+      "image_asset": "verb_match_001.svg"
+    },
+    {
+      "id": "v78_002",
+      "ar": "يَرْمِي / يَقْذِفُ",
+      "de": "werfen",
+      "en": "to throw",
+      "conjugation": {
+        "ich": "werfe",
+        "du": "wirfst",
+        "er_sie_es": "wirft",
+        "wir": "werfen",
+        "ihr": "werft",
+        "sie_Sie": "werfen"
+      },
+      "tenses": {
+        "praesens": "er wirft",
+        "praeteritum": "er warf",
+        "perfekt": "hat geworfen"
+      },
+      "preposition": "nach + Dativ / zu + Dativ",
+      "example_ar": "يَرْمِي اللَّاعِبُ الكُرَةَ بِدِقَّةٍ نَحْوَ زَمِيلِهِ.",
+      "example_de": "Der Spieler wirft den Ball präzise zu seinem Mitspieler.",
+      "example_en": "The player throws the ball precisely to his teammate.",
+      "image_asset": "verb_match_002.svg"
+    },
+    {
+      "id": "v78_003",
+      "ar": "يُمْسِكُ / يَلْتَقِطُ",
+      "de": "fangen",
+      "en": "to catch",
+      "conjugation": {
+        "ich": "fange",
+        "du": "fängst",
+        "er_sie_es": "fängt",
+        "wir": "fangen",
+        "ihr": "fangt",
+        "sie_Sie": "fangen"
+      },
+      "tenses": {
+        "praesens": "er fängt",
+        "praeteritum": "er fing",
+        "perfekt": "hat gefangen"
+      },
+      "preposition": "mit + Dativ",
+      "example_ar": "يَلْتَقِطُ حَارِسُ المَرْمَى الكُرَةَ بِكِلْتَا يَدَيْهِ بِبَرَاعَةٍ.",
+      "example_de": "Der Torwart fängt den Ball geschickt mit beiden Händen.",
+      "example_en": "The goalkeeper skillfully catches the ball with both hands.",
+      "image_asset": "verb_match_003.svg"
+    },
+    {
+      "id": "v78_004",
+      "ar": "يُسَدِّدُ / يُطْلِقُ",
+      "de": "schießen",
+      "en": "to shoot / to kick",
+      "conjugation": {
+        "ich": "schieße",
+        "du": "schießt",
+        "er_sie_es": "schießt",
+        "wir": "schießen",
+        "ihr": "schießt",
+        "sie_Sie": "schießen"
+      },
+      "tenses": {
+        "praesens": "er schießt",
+        "praeteritum": "er schoss",
+        "perfekt": "hat geschossen"
+      },
+      "preposition": "auf + Akkusativ / ins + Akkusativ",
+      "example_ar": "يُسَدِّدُ المُهَاجِمُ الكُرَةَ بِقُوَّةٍ نَحْوَ المَرْمَى.",
+      "example_de": "Der Stürmer schießt den Ball kraftvoll auf das Tor.",
+      "example_en": "The striker kicks the ball powerfully towards the goal.",
+      "image_asset": "verb_match_004.svg"
+    },
+    {
+      "id": "v78_005",
+      "ar": "يُصِيبُ الهَدَفَ",
+      "de": "treffen",
+      "en": "to hit (the target) / to score",
+      "conjugation": {
+        "ich": "treffe",
+        "du": "triffst",
+        "er_sie_es": "trifft",
+        "wir": "treffen",
+        "ihr": "trefft",
+        "sie_Sie": "treffen"
+      },
+      "tenses": {
+        "praesens": "er trifft",
+        "praeteritum": "er traf",
+        "perfekt": "hat getroffen"
+      },
+      "preposition": "in + Akkusativ",
+      "example_ar": "يُصِيبُ اللَّاعِبُ زَاوِيَةَ الشِّبَاكِ بِتَسْدِيدَةٍ مُحْكَمَةٍ.",
+      "example_de": "Der Spieler trifft mit einem platzierten Schuss die Torecke.",
+      "example_en": "The player hits the corner of the net with a well-placed shot.",
+      "image_asset": "verb_match_005.svg"
+    },
+    {
+      "id": "v78_006",
+      "ar": "يُمَرِّرُ الكُرَةَ",
+      "de": "passen",
+      "en": "to pass",
+      "conjugation": {
+        "ich": "passe",
+        "du": "passt",
+        "er_sie_es": "passt",
+        "wir": "passen",
+        "ihr": "passt",
+        "sie_Sie": "passen"
+      },
+      "tenses": {
+        "praesens": "er passt",
+        "praeteritum": "er passte",
+        "perfekt": "hat gepasst"
+      },
+      "preposition": "zu + Dativ",
+      "example_ar": "يُمَرِّرُ لَاعِبُ الوَسَطِ الكُرَةَ بِسُرْعَةٍ لِزُمَلَائِهِ.",
+      "example_de": "Der Mittelfeldspieler passt den Ball schnell zu seinen Mitspielern.",
+      "example_en": "The midfielder quickly passes the ball to his teammates.",
+      "image_asset": "verb_match_006.svg"
+    },
+    {
+      "id": "v78_007",
+      "ar": "يَرْكُضُ / يَجْرِي",
+      "de": "rennen",
+      "en": "to run",
+      "conjugation": {
+        "ich": "renne",
+        "du": "rennst",
+        "er_sie_es": "rennt",
+        "wir": "rennen",
+        "ihr": "rennt",
+        "sie_Sie": "rennen"
+      },
+      "tenses": {
+        "praesens": "er rennt",
+        "praeteritum": "er rannte",
+        "perfekt": "ist gerannt"
+      },
+      "preposition": "über + Akkusativ / zu + Dativ",
+      "example_ar": "يَرْكُضُ العَدَّاءُ عَبْرَ المِضْمَارِ لِيُحَافِظَ عَلَى لِيَاقَتِهِ.",
+      "example_de": "Der Läufer rennt über die Bahn, um seine Fitness zu halten.",
+      "example_en": "The runner runs across the track to maintain his fitness.",
+      "image_asset": "verb_match_007.svg"
+    },
+    {
+      "id": "v78_008",
+      "ar": "يَنْطَلِقُ بِسُرْعَةٍ قُصْوَى",
+      "de": "sprinten",
+      "en": "to sprint",
+      "conjugation": {
+        "ich": "sprinte",
+        "du": "sprintest",
+        "er_sie_es": "sprintet",
+        "wir": "sprinten",
+        "ihr": "sprintet",
+        "sie_Sie": "sprinten"
+      },
+      "tenses": {
+        "praesens": "er sprintet",
+        "praeteritum": "er sprintete",
+        "perfekt": "ist gesprintet"
+      },
+      "preposition": "ins + Akkusativ / zur + Dativ",
+      "example_ar": "يَنْطَلِقُ اللَّاعِبُ بِسُرْعَةٍ قُصْوَى لِلَحَاقِ بِالكُرَةِ قَبْلَ خُرُوجِهَا.",
+      "example_de": "Der Spieler sprintet, um den Ball vor der Linie zu erreichen.",
+      "example_en": "The player sprints to reach the ball before the boundary line.",
+      "image_asset": "verb_match_008.svg"
+    },
+    {
+      "id": "v78_009",
+      "ar": "يَنْتَصِرُ / يَفُوزُ",
+      "de": "siegen",
+      "en": "to win / to triumph",
+      "conjugation": {
+        "ich": "siege",
+        "du": "siegst",
+        "er_sie_es": "siegt",
+        "wir": "siegen",
+        "ihr": "siegt",
+        "sie_Sie": "siegen"
+      },
+      "tenses": {
+        "praesens": "er siegt",
+        "praeteritum": "er siegte",
+        "perfekt": "hat gesiegt"
+      },
+      "preposition": "über + Akkusativ",
+      "example_ar": "يَفُوزُ الفَرِيقُ بِالمُبَارَاةِ بِفَضْلِ التَّعَاوُنِ وَالإِصْرَارِ.",
+      "example_de": "Die Mannschaft siegt im Spiel dank Zusammenarbeit und Entschlossenheit.",
+      "example_en": "The team wins the game thanks to teamwork and determination.",
+      "image_asset": "verb_match_009.svg"
+    },
+    {
+      "id": "v78_010",
+      "ar": "يَخْسَرُ بِرُوحٍ رِيَاضِيَّةٍ",
+      "de": "verlieren",
+      "en": "to lose (fairly)",
+      "conjugation": {
+        "ich": "verliere",
+        "du": "verlierst",
+        "er_sie_es": "verliert",
+        "wir": "verlieren",
+        "ihr": "verliert",
+        "sie_Sie": "verlieren"
+      },
+      "tenses": {
+        "praesens": "er verliert",
+        "praeteritum": "er verlor",
+        "perfekt": "hat verloren"
+      },
+      "preposition": "gegen + Akkusativ",
+      "example_ar": "يَتَقَبَّلُ اللَّاعِبُ الخَسَارَةَ بِرُوحٍ رِيَاضِيَّةٍ وَعَزِيمَةٍ لِلتَّطَوُّرِ.",
+      "example_de": "Der Sportler verliert mit Anstand und dem Willen zur Besserung.",
+      "example_en": "The athlete loses gracefully with a determination to improve.",
+      "image_asset": "verb_match_010.svg"
+    },
+    {
+      "id": "v78_011",
+      "ar": "يُهَنِّئُ المُنَافِسَ",
+      "de": "gratulieren",
+      "en": "to congratulate",
+      "conjugation": {
+        "ich": "gratuliere",
+        "du": "gratulierst",
+        "er_sie_es": "gratuliert",
+        "wir": "gratulieren",
+        "ihr": "gratuliert",
+        "sie_Sie": "gratulieren"
+      },
+      "tenses": {
+        "praesens": "er gratuliert",
+        "praeteritum": "er gratulierte",
+        "perfekt": "hat gratuliert"
+      },
+      "preposition": "zu + Dativ",
+      "example_ar": "يُهَنِّئُ اللَّاعِبُ مُنَافِسَهُ عَلَى الأَدَاءِ الرَّائِعِ بَعْدَ الصَّافِرَةِ.",
+      "example_de": "Der Spieler gratuliert seinem Gegner nach dem Abpfiff zur guten Leistung.",
+      "example_en": "The player congratulates his opponent on the great performance after the whistle.",
+      "image_asset": "verb_match_011.svg"
+    },
+    {
+      "id": "v78_012",
+      "ar": "يُشَجِّعُ / يُحَفِّزُ",
+      "de": "anfeuern",
+      "en": "to cheer on / to encourage",
+      "conjugation": {
+        "ich": "feuere an",
+        "du": "feuerst an",
+        "er_sie_es": "feuert an",
+        "wir": "feuern an",
+        "ihr": "feuert an",
+        "sie_Sie": "feuern an"
+      },
+      "tenses": {
+        "praesens": "er feuert an",
+        "praeteritum": "er feuerte an",
+        "perfekt": "hat angefeuert"
+      },
+      "preposition": "zu + Dativ",
+      "example_ar": "يُشَجِّعُ الجُمْهُورُ فَرِيقَهُمْ بِهُتَافَاتٍ طَيِّبَةٍ وَحَمَاسِيَّةٍ.",
+      "example_de": "Das Publikum feuert die Mannschaft mit fairen Rufen begeistert an.",
+      "example_en": "The crowd enthusiastically cheers on their team with positive chants.",
+      "image_asset": "verb_match_012.svg"
+    },
+    {
+      "id": "v78_013",
+      "ar": "يُدَافِعُ عَنِ المَرْمَى",
+      "de": "verteidigen",
+      "en": "to defend",
+      "conjugation": {
+        "ich": "verteidige",
+        "du": "verteidigst",
+        "er_sie_es": "verteidigt",
+        "wir": "verteidigen",
+        "ihr": "verteidigt",
+        "sie_Sie": "verteidigen"
+      },
+      "tenses": {
+        "praesens": "er verteidigt",
+        "praeteritum": "er verteidigte",
+        "perfekt": "hat verteidigt"
+      },
+      "preposition": "gegen + Akkusativ",
+      "example_ar": "يُدَافِعُ خَطُّ الدِّفَاعِ عَنِ المَرْمَى بِتَنَاسُقٍ تَامٍّ.",
+      "example_de": "Die Abwehrreihe verteidigt das Tor in perfekter Abstimmung.",
+      "example_en": "The defensive line defends the goal in complete coordination.",
+      "image_asset": "verb_match_013.svg"
+    },
+    {
+      "id": "v78_014",
+      "ar": "يُهَاجِمُ بِنِظَامٍ",
+      "de": "angreifen",
+      "en": "to attack (in sports) / to advance",
+      "conjugation": {
+        "ich": "greife an",
+        "du": "greifst an",
+        "er_sie_es": "greift an",
+        "wir": "greifen an",
+        "ihr": "greift an",
+        "sie_Sie": "greifen an"
+      },
+      "tenses": {
+        "praesens": "er greift an",
+        "praeteritum": "er griff an",
+        "perfekt": "hat angegriffen"
+      },
+      "preposition": "über + Akkusativ",
+      "example_ar": "يُهَاجِمُ الفَرِيقُ عَبْرَ الأَجْنِحَةِ لِخَلْقِ فُرَصٍ جَدِيدَةٍ.",
+      "example_de": "Das Team greift über die Flügel an, um neue Chancen zu schaffen.",
+      "example_en": "The team attacks via the wings to create new scoring chances.",
+      "image_asset": "verb_match_014.svg"
+    },
+    {
+      "id": "v78_015",
+      "ar": "يُرَاوِغُ بِالكُرَةِ",
+      "de": "dribbeln",
+      "en": "to dribble",
+      "conjugation": {
+        "ich": "dribble",
+        "du": "dribbelst",
+        "er_sie_es": "dribbelt",
+        "wir": "dribbeln",
+        "ihr": "dribbelt",
+        "sie_Sie": "dribbeln"
+      },
+      "tenses": {
+        "praesens": "er dribbelt",
+        "praeteritum": "er dribbelte",
+        "perfekt": "hat gedribbelt"
+      },
+      "preposition": "an + Dativ (vorbei)",
+      "example_ar": "يُرَاوِغُ اللَّاعِبُ بِالكُرَةِ بِخِفَّةٍ بَيْنَ المَسَافَاتِ.",
+      "example_de": "Der Spieler dribbelt geschmeidig mit dem Ball durch die Lücken.",
+      "example_en": "The player dribbles smoothly with the ball through the gaps.",
+      "image_asset": "verb_match_015.svg"
+    },
+    {
+      "id": "v78_016",
+      "ar": "يَسْتَبْدِلُ لَاعِبًا",
+      "de": "auswechseln",
+      "en": "to substitute / to swap a player",
+      "conjugation": {
+        "ich": "wechsle aus",
+        "du": "wechselst aus",
+        "er_sie_es": "wechselt aus",
+        "wir": "wechseln aus",
+        "ihr": "wechselt aus",
+        "sie_Sie": "wechseln aus"
+      },
+      "tenses": {
+        "praesens": "er wechselt aus",
+        "praeteritum": "er wechselte aus",
+        "perfekt": "hat ausgewechselt"
+      },
+      "preposition": "gegen + Akkusativ",
+      "example_ar": "يَسْتَبْدِلُ المُدَرِّبُ لَاعِبًا مُرْهَقًا لِتَجْدِيدِ طَاقَةِ الفَرِيقِ.",
+      "example_de": "Der Trainer wechselt einen ermüdeten Spieler aus, um Frische zu bringen.",
+      "example_en": "The coach substitutes an exhausted player to renew the team's energy.",
+      "image_asset": "verb_match_016.svg"
+    },
+    {
+      "id": "v78_017",
+      "ar": "يَبْذُلُ جَهْدًا / يَجْتَهِدُ",
+      "de": "sich anstrengen",
+      "en": "to exert oneself / to try hard",
+      "conjugation": {
+        "ich": "strenge mich an",
+        "du": "strengst dich an",
+        "er_sie_es": "strengt sich an",
+        "wir": "strengen uns an",
+        "ihr": "strengt euch an",
+        "sie_Sie": "strengen sich an"
+      },
+      "tenses": {
+        "praesens": "er strengt sich an",
+        "praeteritum": "er strengte sich an",
+        "perfekt": "hat sich angestrengt"
+      },
+      "preposition": "für + Akkusativ",
+      "example_ar": "يَجْتَهِدُ كُلُّ رِيَاضِيٍّ لِتَحْقِيقِ أَفْضَلِ نَتِيجَةٍ مُشَرِّفَةٍ.",
+      "example_de": "Jeder Sportler strengt sich an, um ein ehrenwertes Ergebnis zu erzielen.",
+      "example_en": "Every athlete strives hard to achieve an honorable result.",
+      "image_asset": "verb_match_017.svg"
+    },
+    {
+      "id": "v78_018",
+      "ar": "يَبْتَهِجُ / يَهْتِفُ فَرَحًا",
+      "de": "jubeln",
+      "en": "to cheer / to rejoice",
+      "conjugation": {
+        "ich": "jubele",
+        "du": "jubelst",
+        "er_sie_es": "jubelt",
+        "wir": "jubeln",
+        "ihr": "jubelt",
+        "sie_Sie": "jubeln"
+      },
+      "tenses": {
+        "praesens": "er jubelt",
+        "praeteritum": "er jubelte",
+        "perfekt": "hat gejubelt"
+      },
+      "preposition": "über + Akkusativ",
+      "example_ar": "يَبْتَهِجُ أَعْضَاءُ الفَرِيقِ مَعًا عِنْدَ تَسْجِيلِ الهَدَفِ الرَّائِعِ.",
+      "example_de": "Die Teammitglieder jubeln gemeinsam über das gelungene Tor.",
+      "example_en": "The team members cheer together over the wonderful goal scored.",
+      "image_asset": "verb_match_018.svg"
+    },
+    {
+      "id": "v78_019",
+      "ar": "يَرْتَكِبُ خَطَأً رِيَاضِيًّا",
+      "de": "foul spielen",
+      "en": "to commit a foul",
+      "conjugation": {
+        "ich": "spiele foul",
+        "du": "spielst foul",
+        "er_sie_es": "spielt foul",
+        "wir": "spielen foul",
+        "ihr": "spielt foul",
+        "sie_Sie": "spielen foul"
+      },
+      "tenses": {
+        "praesens": "er spielt foul",
+        "praeteritum": "er spielte foul",
+        "perfekt": "hat foul gespielt"
+      },
+      "preposition": "gegen + Akkusativ",
+      "example_ar": "يَتَجَنَّبُ اللَّاعِبُ الصَّادِقُ ارْتِكَابَ الأَخْطَاءِ الرِّيَاضِيَّةِ العَمْدِيَّةِ.",
+      "example_de": "Ein aufrichtiger Spieler vermeidet es, absichtlich foul zu spielen.",
+      "example_en": "A fair player avoids intentionally committing fouls.",
+      "image_asset": "verb_match_019.svg"
+    },
+    {
+      "id": "v78_020",
+      "ar": "يَحْتَرِمُ قَوَاعِدَ اللُّعْبَةِ",
+      "de": "respektieren",
+      "en": "to respect (rules / referee)",
+      "conjugation": {
+        "ich": "respektiere",
+        "du": "respektierst",
+        "er_sie_es": "respektiert",
+        "wir": "respektieren",
+        "ihr": "respektiert",
+        "sie_Sie": "respektieren"
+      },
+      "tenses": {
+        "praesens": "er respektiert",
+        "praeteritum": "er respektierte",
+        "perfekt": "hat respektiert"
+      },
+      "preposition": "in + Dativ",
+      "example_ar": "يَحْتَرِمُ الرِّيَاضِيُّ الحَكَمَ وَالقَوَاعِدَ فِي كُلِّ لَحْظَةٍ.",
+      "example_de": "Der Sportler respektiert den Schiedsrichter und die Regeln jederzeit.",
+      "example_en": "The athlete respects the referee and the rules at all times.",
+      "image_asset": "verb_match_020.svg"
+    }
+  ]
+}

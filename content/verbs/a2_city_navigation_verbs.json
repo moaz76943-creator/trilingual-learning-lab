@@ -1,0 +1,909 @@
+{
+  "category_id": "a2_city_navigation_verbs",
+  "category_name_de": "Stadtbewegungs-, Orientierungs- und Verkehrsverben",
+  "category_name_en": "Urban Navigation, City Movement & Traffic Verbs",
+  "category_name_ar": "أفعال التنقل الحضري وسلوك الطريق والاهتداء بالمدينة",
+  "level": "A1/A2",
+  "verbs": [
+    {
+      "id": "verb_city_001",
+      "infinitive": "überqueren",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "von einer Straßenseite zur anderen über die Fahrbahn gehen",
+      "meaning_en": "to cross the street",
+      "meaning_ar": "يَعْبُرُ الشَّارِعَ أَوْ مَمَرَّ المُشَاة",
+      "tenses": {
+        "present": {
+          "ich": "überquere",
+          "du": "überquerst",
+          "er_sie_es": "überquert",
+          "wir": "überqueren",
+          "ihr": "überquert",
+          "sie_Sie": "überqueren"
+        },
+        "past_simple": {
+          "ich": "überquerte",
+          "du": "überquertest",
+          "er_sie_es": "überquerte",
+          "wir": "überquerten",
+          "ihr": "überquertet",
+          "sie_Sie": "überquerten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "überquert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "am",
+          "case": "Dativ",
+          "meaning_ar": "يعبر عند ممر المشاة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Kinder überqueren die Straße sicher am Zebrastreifen.",
+          "en": "The children cross the street safely at the zebra crossing.",
+          "ar": "يَعْبُرُ الأَطْفَالُ الشَّارِعَ بِأَمَانٍ عِنْدَ مَمَرِّ المُشَاةِ المُخَطَّط."
+        }
+      ]
+    },
+    {
+      "id": "verb_city_002",
+      "infinitive": "abbiegen",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "die Fahrtrichtung nach links oder rechts ändern",
+      "meaning_en": "to turn left or right",
+      "meaning_ar": "يَنْعَطِفُ، يَتَّجِهُ يَمِينًا أَوْ يَسَارًا",
+      "tenses": {
+        "present": {
+          "ich": "biege ab",
+          "du": "biegst ab",
+          "er_sie_es": "biegt ab",
+          "wir": "biegen ab",
+          "ihr": "biegt ab",
+          "sie_Sie": "biegen ab"
+        },
+        "past_simple": {
+          "ich": "bog ab",
+          "du": "bogst ab",
+          "er_sie_es": "bog ab",
+          "wir": "bogen ab",
+          "ihr": "bogt ab",
+          "sie_Sie": "bogen ab"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "abgebogen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "nach",
+          "case": "Dativ",
+          "meaning_ar": "ينعطف يميناً"
+        }
+      ],
+      "examples": [
+        {
+          "de": "An der nächsten Kreuzung biegen wir nach rechts in die Hauptstraße ab.",
+          "en": "At the next intersection, we turn right into the main street.",
+          "ar": "نَنْعَطِفُ عِنْدَ التَّقَاطُعِ التَّالِي يَمِينًا إِلَى الشَّارِعِ الرَّئِيسِيّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_city_003",
+      "infinitive": "anhalten",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "die eigene Bewegung stoppen und stehenbleiben",
+      "meaning_en": "to stop, halt at red light",
+      "meaning_ar": "يَتَوَقَّفُ عِنْدَ الإِشَارَةِ الحَمْرَاء",
+      "tenses": {
+        "present": {
+          "ich": "halte an",
+          "du": "hältst an",
+          "er_sie_es": "hält an",
+          "wir": "halten an",
+          "ihr": "haltet an",
+          "sie_Sie": "halten an"
+        },
+        "past_simple": {
+          "ich": "hielt an",
+          "du": "hieltst an",
+          "er_sie_es": "hielt an",
+          "wir": "hielten an",
+          "ihr": "hieltet an",
+          "sie_Sie": "hielten an"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "angehalten"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "vor",
+          "case": "Dativ",
+          "meaning_ar": "يتوقف أمام إشارة المرور"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Alle Fahrzeuge halten vorschriftsmäßig vor der roten Ampel an.",
+          "en": "All vehicles stop dutifully in front of the red traffic light.",
+          "ar": "تَتَوَقَّفُ جَمِيعُ المَرْكَبَاتِ بِانْضِبَاطٍ أَمَامَ إِشَارَةِ المُرُورِ الحَمْرَاء."
+        }
+      ]
+    },
+    {
+      "id": "verb_city_004",
+      "infinitive": "weitergehen",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "den Weg zu Fuß fortsetzen",
+      "meaning_en": "to walk on, continue walking",
+      "meaning_ar": "يُوَاصلُ السَّيْرَ لِلأَمَام",
+      "tenses": {
+        "present": {
+          "ich": "gehe weiter",
+          "du": "gehst weiter",
+          "er_sie_es": "geht weiter",
+          "wir": "gehen weiter",
+          "ihr": "geht weiter",
+          "sie_Sie": "gehen weiter"
+        },
+        "past_simple": {
+          "ich": "ging weiter",
+          "du": "gingst weiter",
+          "er_sie_es": "ging weiter",
+          "wir": "gingen weiter",
+          "ihr": "gingt weiter",
+          "sie_Sie": "gingen weiter"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "weitergegangen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "bis",
+          "case": "Dativ",
+          "meaning_ar": "يواصل السير حتى الميدان"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Gehen Sie geradeaus weiter, bis Sie den großen Brunnen erblicken.",
+          "en": "Keep walking straight until you see the large fountain.",
+          "ar": "وَاصِلِ السَّيْرَ إِلَى الأَمَامِ حَتَّى تَرَى النَّافُورَةَ الكَبِيرَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_city_005",
+      "infinitive": "flanieren",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "ohne Eile entspannt durch schöne Straßen und Promenaden spazieren",
+      "meaning_en": "to stroll, promenade leisurely",
+      "meaning_ar": "يَتَنَزَّهُ، يَتَمَشَّى بِهُدُوءٍ فِي الشَّارِع",
+      "tenses": {
+        "present": {
+          "ich": "flaniere",
+          "du": "flanierst",
+          "er_sie_es": "flaniert",
+          "wir": "flanieren",
+          "ihr": "flaniert",
+          "sie_Sie": "flanieren"
+        },
+        "past_simple": {
+          "ich": "flanierte",
+          "du": "flaniertest",
+          "er_sie_es": "flanierte",
+          "wir": "flanierten",
+          "ihr": "flaniertet",
+          "sie_Sie": "flanierten"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "flaniert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "durch",
+          "case": "Akkusativ",
+          "meaning_ar": "يتمشى عبر منطقة المشاة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Am sonnigen Nachmittag flanieren viele Bürger durch die Fußgängerzone.",
+          "en": "On sunny afternoons, many citizens stroll through the pedestrian zone.",
+          "ar": "يَتَنَزَّهُ كَثِيرٌ مِنَ المُواطِنِينَ بَعْدَ الظُّهْرِ بِارْتِيَاحٍ فِي مِنْطَقَةِ المُشَاة."
+        }
+      ]
+    },
+    {
+      "id": "verb_city_006",
+      "infinitive": "orientieren",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "sich anhand eines Stadtplans oder von Landmarken zurechtfinden",
+      "meaning_en": "to orient oneself, find directions",
+      "meaning_ar": "يَهْتَدِي، يُحَدِّدُ مَوْقِعَهُ وَوِجْهَتَه",
+      "tenses": {
+        "present": {
+          "ich": "orientiere mich",
+          "du": "orientierst dich",
+          "er_sie_es": "orientiert sich",
+          "wir": "orientieren uns",
+          "ihr": "orientiert euch",
+          "sie_Sie": "orientieren sich"
+        },
+        "past_simple": {
+          "ich": "orientierte mich",
+          "du": "orientiertest dich",
+          "er_sie_es": "orientierte sich",
+          "wir": "orientierten uns",
+          "ihr": "orientiertet euch",
+          "sie_Sie": "orientierten sich"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "orientiert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Dativ",
+          "meaning_ar": "يهتدي بالمعالم البارزة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Besucher orientieren sich leicht an den gut sichtbaren Türmen des Rathauses.",
+          "en": "Visitors easily orient themselves by the prominent towers of the town hall.",
+          "ar": "يَهْتَدِي الزَّائِرُونَ بِسُهُولَةٍ بِأَبْرَاجِ مَبْنَى البَلَدِيَّةِ الشَّاهِقَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_city_007",
+      "infinitive": "nachfragen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "Passanten höflich um Auskunft über den Weg bitten",
+      "meaning_en": "to ask for directions",
+      "meaning_ar": "يَسْتَفْسِرُ، يَسْأَلُ عَنِ الطَّرِيق",
+      "tenses": {
+        "present": {
+          "ich": "frage nach",
+          "du": "fragst nach",
+          "er_sie_es": "fragt nach",
+          "wir": "fragen nach",
+          "ihr": "fragt nach",
+          "sie_Sie": "fragen nach"
+        },
+        "past_simple": {
+          "ich": "fragte nach",
+          "du": "fragtest nach",
+          "er_sie_es": "fragte nach",
+          "wir": "fragten nach",
+          "ihr": "fragtet nach",
+          "sie_Sie": "fragten nach"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "nachgefragt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "bei",
+          "case": "Dativ",
+          "meaning_ar": "يستفسر من المارة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er fragte freundlich bei einer Passantin nach dem Weg zur Stadtbibliothek nach.",
+          "en": "He kindly asked a passerby for directions to the city library.",
+          "ar": "اسْتَفْسَرَ بِلَبَاقَةٍ مِنْ أَحَدِ المَارَّةِ عَنِ الطَّرِيقِ إِلَى مَكْتَبَةِ المَدِينَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_city_008",
+      "infinitive": "beschreiben",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "einem Fragenden den Weg zu einem Zielort genau erklären",
+      "meaning_en": "to describe the route",
+      "meaning_ar": "يَصِفُ الطَّرِيقَ وَالمَسَار",
+      "tenses": {
+        "present": {
+          "ich": "beschreibe",
+          "du": "beschreibst",
+          "er_sie_es": "beschreibt",
+          "wir": "beschreiben",
+          "ihr": "beschreibt",
+          "sie_Sie": "beschreiben"
+        },
+        "past_simple": {
+          "ich": "beschrieb",
+          "du": "beschriebst",
+          "er_sie_es": "beschrieb",
+          "wir": "beschrieben",
+          "ihr": "beschriebt",
+          "sie_Sie": "beschrieben"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "beschrieben"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يصف بوضوح"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Anwohnerin beschreibt den Touristen den kürzesten Weg zum Marktplatz.",
+          "en": "The resident describes to tourists the shortest route to the market square.",
+          "ar": "تَصِفُ السَّاكِنَةُ لِلسُّيَّاحِ أَقْصَرَ طَرِيقٍ إِلَى سَاحَةِ السُّوق."
+        }
+      ]
+    },
+    {
+      "id": "verb_city_009",
+      "infinitive": "finden",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "einen gesuchten Platz oder ein Gebäude erfolgreich erreichen",
+      "meaning_en": "to find a location",
+      "meaning_ar": "يَجِدُ المَكَانَ أَوِ المَعْلَم",
+      "tenses": {
+        "present": {
+          "ich": "finde",
+          "du": "findest",
+          "er_sie_es": "findet",
+          "wir": "finden",
+          "ihr": "findet",
+          "sie_Sie": "finden"
+        },
+        "past_simple": {
+          "ich": "fand",
+          "du": "fandest",
+          "er_sie_es": "fand",
+          "wir": "fanden",
+          "ihr": "fandet",
+          "sie_Sie": "fanden"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gefunden"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "ohne",
+          "case": "Akkusativ",
+          "meaning_ar": "يجد دون صعوبة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Dank der genauen Beschreibung fanden wir das Gasthaus auf Anhieb.",
+          "en": "Thanks to the exact description, we found the inn right away.",
+          "ar": "وَجَدْنَا النُّزُلَ مِنْ أَوَّلِ وَهْلَةٍ بِفَضْلِ الوَصْفِ الدَّقِيق."
+        }
+      ]
+    },
+    {
+      "id": "verb_city_010",
+      "infinitive": "spazieren",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "in gemächlichem Tempo zur Erholung durch die Stadt gehen",
+      "meaning_en": "to walk, take a walk",
+      "meaning_ar": "يَتَمَشَّى، يَتَرَيَّضُ مَشْيًا",
+      "tenses": {
+        "present": {
+          "ich": "spaziere",
+          "du": "spazierst",
+          "er_sie_es": "spaziert",
+          "wir": "spazieren",
+          "ihr": "spaziert",
+          "sie_Sie": "spazieren"
+        },
+        "past_simple": {
+          "ich": "spazierte",
+          "du": "spaziertest",
+          "er_sie_es": "spazierte",
+          "wir": "spazierten",
+          "ihr": "spaziertet",
+          "sie_Sie": "spazierten"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "spaziert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "entlang",
+          "case": "Genitiv",
+          "meaning_ar": "يتمشى على طول النهر"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wir spazieren am Abend gerne entlang der beleuchteten Uferpromenade.",
+          "en": "We enjoy taking a walk along the illuminated river promenade in the evening.",
+          "ar": "نَتَمَشَّى مَسَاءً بِمُحَاذَاةِ مَمْشَى الضَّفَّةِ المُنَارِ بِسَعَادَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_city_011",
+      "infinitive": "beschleunigen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "die eigene Geh- oder Fahrgeschwindigkeit erhöhen",
+      "meaning_en": "to accelerate, hasten pace",
+      "meaning_ar": "يُسْرِعُ الخُطَى",
+      "tenses": {
+        "present": {
+          "ich": "beschleunige",
+          "du": "beschleunigst",
+          "er_sie_es": "beschleunigt",
+          "wir": "beschleunigen",
+          "ihr": "beschleunigt",
+          "sie_Sie": "beschleunigen"
+        },
+        "past_simple": {
+          "ich": "beschleunigte",
+          "du": "beschleunigtest",
+          "er_sie_es": "beschleunigte",
+          "wir": "beschleunigten",
+          "ihr": "beschleunigtet",
+          "sie_Sie": "beschleunigten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "beschleunigt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "wegen",
+          "case": "Genitiv",
+          "meaning_ar": "يسرع بسبب المطر"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wegen der ersten Regentropfen beschleunigten die Fußgänger ihre Schritte.",
+          "en": "Due to the first raindrops, pedestrians hastened their steps.",
+          "ar": "أَسْرَعَ المُشَاةُ خُطَاهُمْ مَعَ هُطُولِ قَطَرَاتِ المَطَرِ الأُولَى."
+        }
+      ]
+    },
+    {
+      "id": "verb_city_012",
+      "infinitive": "bremsen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "das Fahrrad oder Auto verlangsamen und zum Stehen bringen",
+      "meaning_en": "to brake, slow down",
+      "meaning_ar": "يُهَدِّئُ السُّرْعَةَ، يَكْبَحُ الفَرَامِل",
+      "tenses": {
+        "present": {
+          "ich": "bremse",
+          "du": "bremst",
+          "er_sie_es": "bremst",
+          "wir": "bremsen",
+          "ihr": "bremst",
+          "sie_Sie": "bremsen"
+        },
+        "past_simple": {
+          "ich": "bremste",
+          "du": "bremstest",
+          "er_sie_es": "bremste",
+          "wir": "bremsten",
+          "ihr": "bremstet",
+          "sie_Sie": "bremsten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gebremst"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "vor",
+          "case": "Dativ",
+          "meaning_ar": "يكبح قبل التقاطع"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Radfahrer bremst rechtzeitig vor der unübersichtlichen Kurve ab.",
+          "en": "The cyclist slows down in time before the blind curve.",
+          "ar": "يُهَدِّئُ رَاكِبُ الدَّرَّاجَةِ سُرْعَتَهُ فِي الوَقْتِ المُنَاسِبِ قَبْلَ المُنْعَطَف."
+        }
+      ]
+    },
+    {
+      "id": "verb_city_013",
+      "infinitive": "ausweichen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "einem Hindernis oder anderen Passanten geschickt zur Seite treten",
+      "meaning_en": "to step aside, dodge an obstacle",
+      "meaning_ar": "يَتَفَادَى، يَتَنَحَّى عَنِ الطَّرِيق",
+      "tenses": {
+        "present": {
+          "ich": "weiche aus",
+          "du": "weichst aus",
+          "er_sie_es": "weicht aus",
+          "wir": "weichen aus",
+          "ihr": "weicht aus",
+          "sie_Sie": "weichen aus"
+        },
+        "past_simple": {
+          "ich": "wich aus",
+          "du": "wichst aus",
+          "er_sie_es": "wich aus",
+          "wir": "wichen aus",
+          "ihr": "wicht aus",
+          "sie_Sie": "wichen aus"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "ausgewichen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "nach",
+          "case": "Dativ",
+          "meaning_ar": "يتنحى يمنة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Auf dem schmalen Gehweg wich er der entgegenkommenden Familie höflich aus.",
+          "en": "On the narrow sidewalk, he politely stepped aside for the oncoming family.",
+          "ar": "تَنَحَّى بِأَدَبٍ جَانِبًا عَلَى الرَّصِيفِ الضَّيِّقِ لِإِفْسَاحِ المَجَالِ لِلْعَائِلَةِ القَادِمَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_city_014",
+      "infinitive": "verweilen",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "an einem schönen Platz der Stadt eine Zeitlang ruhig verharren",
+      "meaning_en": "to linger, stay awhile",
+      "meaning_ar": "يَمْكُثُ، يَسْتَمْتِعُ بِالبَقَاءِ فِي المَيْدَان",
+      "tenses": {
+        "present": {
+          "ich": "verweile",
+          "du": "verweilst",
+          "er_sie_es": "verweilt",
+          "wir": "verweilen",
+          "ihr": "verweilt",
+          "sie_Sie": "verweilen"
+        },
+        "past_simple": {
+          "ich": "verweilte",
+          "du": "verweiltest",
+          "er_sie_es": "verweilte",
+          "wir": "verweilten",
+          "ihr": "verweiltet",
+          "sie_Sie": "verweilten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "verweilt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "am",
+          "case": "Dativ",
+          "meaning_ar": "يمكث عند النافورة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Viele Spaziergänger verweilen gerne am plätschernden Brunnen.",
+          "en": "Many walkers like to linger by the splashing fountain.",
+          "ar": "يَمْكُثُ كَثِيرٌ مِنَ المَارَّةِ بِارْتِيَاحٍ عِنْدَ خَرِيرِ النَّافُورَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_city_015",
+      "infinitive": "bewundern",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "die Baukunst und Denkmäler der Stadt mit Staunen betrachten",
+      "meaning_en": "to admire city landmarks",
+      "meaning_ar": "يُعْجَبُ بِعِمَارَةِ المَدِينَةِ وَمَعَالِمِهَا",
+      "tenses": {
+        "present": {
+          "ich": "bewundere",
+          "du": "bewunderst",
+          "er_sie_es": "bewundert",
+          "wir": "bewundern",
+          "ihr": "bewundert",
+          "sie_Sie": "bewundern"
+        },
+        "past_simple": {
+          "ich": "bewunderte",
+          "du": "bewundertest",
+          "er_sie_es": "bewunderte",
+          "wir": "bewunderten",
+          "ihr": "bewundertet",
+          "sie_Sie": "bewunderten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "bewundert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "wegen",
+          "case": "Genitiv",
+          "meaning_ar": "يعجب بجمال التصميم"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Besucher bewundern die kunstvollen Schnitzereien an den alten Bürgerhäusern.",
+          "en": "The visitors admire the artistic carvings on the old townhouses.",
+          "ar": "يُعْجَبُ الزَّائِرُونَ بِالنُّقُوشِ الفَنِّيَّةِ البَدِيعَةِ عَلَى بُيُوتِ المَدِينَةِ القَدِيمَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_city_016",
+      "infinitive": "passieren",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "an einem bekannten Bauwerk vorbeigehen",
+      "meaning_en": "to pass by a landmark",
+      "meaning_ar": "يَمُرُّ بِمُحَاذَاةِ مَبْنًى أَوْ مَعْلَم",
+      "tenses": {
+        "present": {
+          "ich": "passiere",
+          "du": "passierst",
+          "er_sie_es": "passiert",
+          "wir": "passieren",
+          "ihr": "passiert",
+          "sie_Sie": "passieren"
+        },
+        "past_simple": {
+          "ich": "passierte",
+          "du": "passiertest",
+          "er_sie_es": "passierte",
+          "wir": "passierten",
+          "ihr": "passiertet",
+          "sie_Sie": "passierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "passiert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Dativ",
+          "meaning_ar": "يمر في طريقه"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Auf unserem morgendlichen Weg passieren wir das historische Stadttor.",
+          "en": "On our morning walk, we pass by the historic city gate.",
+          "ar": "نَمُرُّ فِي طَرِيقِنَا الصَّبَاحِيِّ بِمُحَاذَاةِ بَوَّابَةِ المَدِينَةِ التَّارِيخِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_city_017",
+      "infinitive": "grüßen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "Bekannten und Nachbarn im Vorbeigehen freundlich zunicken",
+      "meaning_en": "to greet neighbors on street",
+      "meaning_ar": "يُسَلِّمُ، يُحَيِّي فِي الطَّرِيق",
+      "tenses": {
+        "present": {
+          "ich": "grüße",
+          "du": "grüßt",
+          "er_sie_es": "grüßt",
+          "wir": "grüßen",
+          "ihr": "grüßt",
+          "sie_Sie": "grüßen"
+        },
+        "past_simple": {
+          "ich": "grüßte",
+          "du": "grüßtest",
+          "er_sie_es": "grüßte",
+          "wir": "grüßten",
+          "ihr": "grüßtet",
+          "sie_Sie": "grüßten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gegrüßt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "im",
+          "case": "Dativ",
+          "meaning_ar": "يحيي أثناء المرور"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Nachbarn grüßen einander freundlich beim morgendlichen Gang zum Bäcker.",
+          "en": "Neighbors greet each other warmly on their morning walk to the bakery.",
+          "ar": "يُحَيِّي الجِيرَانُ بَعْضَهُمْ بِمَوَدَّةٍ أَثْنَاءَ ذَهَابِهِمُ الصَّبَاحِيِّ إِلَى المَخْبَز."
+        }
+      ]
+    },
+    {
+      "id": "verb_city_018",
+      "infinitive": "beleuchten",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "die Wege und Plätze mit Laternen erhellen",
+      "meaning_en": "to light up, illuminate streets",
+      "meaning_ar": "تُنِيرُ أَعْمِدَةُ الشَّوَارِعِ المَسَارَات",
+      "tenses": {
+        "present": {
+          "ich": "beleuchte",
+          "du": "beleuchtest",
+          "er_sie_es": "beleuchtet",
+          "wir": "beleuchten",
+          "ihr": "beleuchtet",
+          "sie_Sie": "beleuchten"
+        },
+        "past_simple": {
+          "ich": "beleuchtete",
+          "du": "beleuchtetest",
+          "er_sie_es": "beleuchtete",
+          "wir": "beleuchteten",
+          "ihr": "beleuchtetet",
+          "sie_Sie": "beleuchteten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "beleuchtet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "تنير في المساء"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Warme Straßenlaternen beleuchten die engen Gassen der Altstadt stimmungsvoll.",
+          "en": "Warm street lamps illuminate the narrow alleys of the old town atmospherically.",
+          "ar": "تُنِيرُ أَعْمِدَةُ الإِنَارَةِ الدَّافِئَةُ أَزِقَّةَ المَدِينَةِ القَدِيمَةِ بِشَكْلٍ بَدِيع."
+        }
+      ]
+    },
+    {
+      "id": "verb_city_019",
+      "infinitive": "trennen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Fußgänger- und Fahrradbereiche zur Sicherheit baulich abgrenzen",
+      "meaning_en": "to separate paths for safety",
+      "meaning_ar": "يَفْصِلُ مَسَارَاتِ الحَرَكَةِ لِتَحْقِيقِ الأَمَان",
+      "tenses": {
+        "present": {
+          "ich": "trenne",
+          "du": "trennst",
+          "er_sie_es": "trennt",
+          "wir": "trennen",
+          "ihr": "trennt",
+          "sie_Sie": "trennen"
+        },
+        "past_simple": {
+          "ich": "trennte",
+          "du": "trenntest",
+          "er_sie_es": "trennte",
+          "wir": "trennten",
+          "ihr": "trenntet",
+          "sie_Sie": "trennten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "getrennt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "von",
+          "case": "Dativ",
+          "meaning_ar": "يفصل عن السيارات"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Grünstreifen trennen den Radweg sicher von der Fahrbahn der Autos.",
+          "en": "Green strips safely separate the cycle path from the roadway of cars.",
+          "ar": "تَفْصِلُ الأَحْزِمَةُ الخَضْرَاءُ مَسَارَ الدَّرَّاجَاتِ بِأَمَانٍ عَنْ طَرِيقِ السَّيَّارَات."
+        }
+      ]
+    },
+    {
+      "id": "verb_city_020",
+      "infinitive": "erreichen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "nach einem Spaziergang am Zielplatz eintreffen",
+      "meaning_en": "to reach the central square",
+      "meaning_ar": "يَصِلُ إِلَى المَيْدَانِ أَوِ المَقْصِد",
+      "tenses": {
+        "present": {
+          "ich": "erreiche",
+          "du": "erreichst",
+          "er_sie_es": "erreicht",
+          "wir": "erreichen",
+          "ihr": "erreicht",
+          "sie_Sie": "erreichen"
+        },
+        "past_simple": {
+          "ich": "erreichte",
+          "du": "erreichtest",
+          "er_sie_es": "erreichte",
+          "wir": "erreichten",
+          "ihr": "erreichtet",
+          "sie_Sie": "erreichten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "erreicht"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "zu",
+          "case": "Dativ",
+          "meaning_ar": "يصل سيراً على الأقدام"
+        }
+      ],
+      "examples": [
+        {
+          "de": "In zehn Minuten erreichen wir zu Fuß den belebten Marktplatz.",
+          "en": "In ten minutes on foot, we reach the busy market square.",
+          "ar": "نَصِلُ سَيْرًا عَلَى الأَقْدَامِ خِلَالَ عَشْرِ دَقَائِقَ إِلَى سَاحَةِ السُّوقِ النَّشِطَة."
+        }
+      ]
+    }
+  ]
+}

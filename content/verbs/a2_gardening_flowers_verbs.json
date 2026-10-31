@@ -1,0 +1,909 @@
+{
+  "category_id": "a2_gardening_flowers_verbs",
+  "category_name_de": "Gartenpflege-, Blumen- und Pflanzverben",
+  "category_name_en": "Gardening, Flower Care & Cultivation Verbs",
+  "category_name_ar": "أفعال العناية بالحديقة وزراعة الزهور والنباتات",
+  "level": "A1/A2",
+  "verbs": [
+    {
+      "id": "verb_garden_001",
+      "infinitive": "pflanzen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "Blumenzwiebeln oder junge Setzlinge in das Beet setzen",
+      "meaning_en": "to plant flowers or seedlings",
+      "meaning_ar": "يَغْرِسُ، يَزْرَعُ الشَّتَلَاتِ وَالأَزْهَار",
+      "tenses": {
+        "present": {
+          "ich": "pflanze",
+          "du": "pflanzt",
+          "er_sie_es": "pflanzt",
+          "wir": "pflanzen",
+          "ihr": "pflanzt",
+          "sie_Sie": "pflanzen"
+        },
+        "past_simple": {
+          "ich": "pflanzte",
+          "du": "pflanztest",
+          "er_sie_es": "pflanzte",
+          "wir": "pflanzten",
+          "ihr": "pflanztet",
+          "sie_Sie": "pflanzten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gepflanzt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Akkusativ",
+          "meaning_ar": "يغرس في الحوض"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wir pflanzen im Frühling rote Tulpenzwiebeln in das sonnige Beet.",
+          "en": "In spring, we plant red tulip bulbs in the sunny flowerbed.",
+          "ar": "نَغْرِسُ فِي فَصْلِ الرَّبِيعِ بَصَلَاتِ التُّولِيبِ الحَمْرَاءِ فِي الحَوْضِ المُشْمِس."
+        }
+      ]
+    },
+    {
+      "id": "verb_garden_002",
+      "infinitive": "gießen",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "den Pflanzen regelmäßig Wasser an die Wurzeln geben",
+      "meaning_en": "to water flowers",
+      "meaning_ar": "يَسْقِي، يَرْوِي الزُّهُور",
+      "tenses": {
+        "present": {
+          "ich": "gieße",
+          "du": "gießt",
+          "er_sie_es": "gießt",
+          "wir": "gießen",
+          "ihr": "gießt",
+          "sie_Sie": "gießen"
+        },
+        "past_simple": {
+          "ich": "goss",
+          "du": "gossest",
+          "er_sie_es": "goss",
+          "wir": "gossen",
+          "ihr": "gosst",
+          "sie_Sie": "gossen"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gegossen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يسقي بواسطة مرشة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Sie gießt die zarten Rosen jeden Morgen vor Sonnenaufgang.",
+          "en": "She waters the delicate roses every morning before sunrise.",
+          "ar": "تَسْقِي الوُرُودَ الرَّقِيقَةَ كُلَّ صَبَاحٍ قَبْلَ شُرُوقِ الشَّمْس."
+        }
+      ]
+    },
+    {
+      "id": "verb_garden_003",
+      "infinitive": "blühen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "Blüten bilden und in voller Farbenpracht stehen",
+      "meaning_en": "to bloom, blossom",
+      "meaning_ar": "يُزْهِرُ، يَتَفَتَّحُ النَّبَات",
+      "tenses": {
+        "present": {
+          "ich": "blühe",
+          "du": "blühst",
+          "er_sie_es": "blüht",
+          "wir": "blühen",
+          "ihr": "blüht",
+          "sie_Sie": "blühen"
+        },
+        "past_simple": {
+          "ich": "blühte",
+          "du": "blühtest",
+          "er_sie_es": "blühte",
+          "wir": "blühten",
+          "ihr": "blühtet",
+          "sie_Sie": "blühten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geblüht"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يزهر بألوان بهيجة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der weiße Jasmin blüht herrlich entlang des hölzernen Gartenzauns.",
+          "en": "The white jasmine blooms magnificently along the wooden garden fence.",
+          "ar": "يُزْهِرُ اليَاسَمِينُ الأَبْيَضُ بِرَوْعَةٍ بِمُحَاذَاةِ سِيَاجِ الحَدِيقَةِ الخَشَبِيّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_garden_004",
+      "infinitive": "riechen",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "einen angenehmen Geruch wahrnehmen oder verbreiten",
+      "meaning_en": "to smell sweet, perceive fragrance",
+      "meaning_ar": "يَشَمُّ، يَفُوحُ بِرَائِحَةٍ طَيِّبَة",
+      "tenses": {
+        "present": {
+          "ich": "rieche",
+          "du": "riechst",
+          "er_sie_es": "riecht",
+          "wir": "riechen",
+          "ihr": "riecht",
+          "sie_Sie": "riechen"
+        },
+        "past_simple": {
+          "ich": "roch",
+          "du": "rochst",
+          "er_sie_es": "roch",
+          "wir": "rochen",
+          "ihr": "rocht",
+          "sie_Sie": "rochen"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gerochen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Dativ",
+          "meaning_ar": "يشم الوردة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Das Kind riecht andächtig an der frisch erblühten Rose.",
+          "en": "The child attentively smells the freshly blossomed rose.",
+          "ar": "يَشَمُّ الطِّفْلُ بِإِعْجَابٍ الوَرْدَةَ المُتَفَتِّحَةَ حَدِيثًا."
+        }
+      ]
+    },
+    {
+      "id": "verb_garden_005",
+      "infinitive": "schneiden",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "welke Blumen oder überlange Triebe mit der Schere kürzen",
+      "meaning_en": "to cut, prune flowers",
+      "meaning_ar": "يَقُصُّ، يُقَلِّمُ الأَغْصَانَ وَالوُرُود",
+      "tenses": {
+        "present": {
+          "ich": "schneide",
+          "du": "schneidest",
+          "er_sie_es": "schneidet",
+          "wir": "schneiden",
+          "ihr": "schneidet",
+          "sie_Sie": "schneiden"
+        },
+        "past_simple": {
+          "ich": "schnitt",
+          "du": "schnittest",
+          "er_sie_es": "schnitt",
+          "wir": "schnitten",
+          "ihr": "schnittet",
+          "sie_Sie": "schnitten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geschnitten"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يقص بمقص الحديقة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er schneidet verblühte Rosenzweige vorsichtig mit der Gartenschere ab.",
+          "en": "He carefully cuts off faded rose twigs with the pruning shears.",
+          "ar": "يُقَلِّمُ أَغْصَانَ الوَرْدِ الذَّابِلَةَ بِحَذَرٍ بِمِقَصِّ الحَدِيقَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_garden_006",
+      "infinitive": "stutzen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "die Gartenhecke oder Sträucher in eine gleichmäßige Form bringen",
+      "meaning_en": "to trim hedges, clip bushes",
+      "meaning_ar": "يُشَذِّبُ الشُّجَيْرَاتِ وَالسِّيَاج",
+      "tenses": {
+        "present": {
+          "ich": "stutze",
+          "du": "stutzt",
+          "er_sie_es": "stutzt",
+          "wir": "stutzen",
+          "ihr": "stutzt",
+          "sie_Sie": "stutzen"
+        },
+        "past_simple": {
+          "ich": "stutzte",
+          "du": "stutztest",
+          "er_sie_es": "stutzte",
+          "wir": "stutzten",
+          "ihr": "stutztet",
+          "sie_Sie": "stutzten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gestutzt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Akkusativ",
+          "meaning_ar": "يشذب إلى ارتفاع معين"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Gärtner stutzt die grüne Hecke akkurat auf zwei Meter Höhe.",
+          "en": "The gardener neatly trims the green hedge to two meters in height.",
+          "ar": "يُشَذِّبُ البُسْتَانِيُّ السِّيَاجَ الأَخْضَرَ بِدِقَّةٍ عَلَى ارْتِفَاعِ مِتْرَيْن."
+        }
+      ]
+    },
+    {
+      "id": "verb_garden_007",
+      "infinitive": "jäten",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "wildes Kraut zwischen den Zierblumen sorgfältig herausziehen",
+      "meaning_en": "to weed flowerbeds",
+      "meaning_ar": "يَعْزِقُ، يُزِيلُ الأَعْشَابَ الضَّارَّةَ مِنَ الأَحْوَاض",
+      "tenses": {
+        "present": {
+          "ich": "jäte",
+          "du": "jätest",
+          "er_sie_es": "jätet",
+          "wir": "jäten",
+          "ihr": "jätet",
+          "sie_Sie": "jäten"
+        },
+        "past_simple": {
+          "ich": "jätete",
+          "du": "jätetest",
+          "er_sie_es": "jätete",
+          "wir": "jäteten",
+          "ihr": "jätetet",
+          "sie_Sie": "jäteten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gejätet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "um",
+          "case": "Akkusativ",
+          "meaning_ar": "يعزق حول الزهور"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Geduldig jätet sie das Unkraut rund um die jungen Lavendelbüsche.",
+          "en": "Patiently she weeds the wild grass around the young lavender bushes.",
+          "ar": "تُزِيلُ الأَعْشَابَ الضَّارَّةَ بِصَبْرٍ حَوْلَ شُجَيْرَاتِ الخُزَامَى الفَتِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_garden_008",
+      "infinitive": "umtopfen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "eine herangewachsene Zimmerpflanze in einen größeren Topf pflanzen",
+      "meaning_en": "to repot, transplant into a larger pot",
+      "meaning_ar": "يَنْقُلُ النَّبْتَةَ إِلَى أَصِيصٍ أَكْبَر",
+      "tenses": {
+        "present": {
+          "ich": "topfe um",
+          "du": "topfst um",
+          "er_sie_es": "topft um",
+          "wir": "topfen um",
+          "ihr": "topft um",
+          "sie_Sie": "topfen um"
+        },
+        "past_simple": {
+          "ich": "topfte um",
+          "du": "topftest um",
+          "er_sie_es": "topfte um",
+          "wir": "topften um",
+          "ihr": "topftet um",
+          "sie_Sie": "topften um"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "umgetopft"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Akkusativ",
+          "meaning_ar": "ينقل إلى أصيص جديد"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Im März topft er den großen Ficus in einen geräumigeren Tontopf um.",
+          "en": "In March, he repots the large ficus into a more spacious clay pot.",
+          "ar": "يَنْقُلُ نَبْتَةَ الفِيكُوسِ الكَبِيرَةَ فِي آذَارَ إِلَى أَصِيصِ فَخَّارٍ أَوْسَع."
+        }
+      ]
+    },
+    {
+      "id": "verb_garden_009",
+      "infinitive": "säen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "feine Blumensamen gleichmäßig in die lockere Erde streuen",
+      "meaning_en": "to sow flower seeds",
+      "meaning_ar": "يَبْذُرُ بُذُورَ الأَزْهَار",
+      "tenses": {
+        "present": {
+          "ich": "säe",
+          "du": "säst",
+          "er_sie_es": "sät",
+          "wir": "säen",
+          "ihr": "sät",
+          "sie_Sie": "säen"
+        },
+        "past_simple": {
+          "ich": "säte",
+          "du": "sätest",
+          "er_sie_es": "säte",
+          "wir": "säten",
+          "ihr": "sätet",
+          "sie_Sie": "säten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gesät"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Akkusativ",
+          "meaning_ar": "يبذر في تربة خصبة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Kinder säen Wildblumensamen für die Bienen auf der Wiese.",
+          "en": "The children sow wildflower seeds for the bees on the meadow.",
+          "ar": "يَبْذُرُ الأَطْفَالُ بُذُورَ الأَزْهَارِ البَرِّيَّةِ لِفَائِدَةِ النَّحْلِ فِي المَرْج."
+        }
+      ]
+    },
+    {
+      "id": "verb_garden_010",
+      "infinitive": "keimen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "als Samenkorn aufbrechen und den ersten grünen Trieb zeigen",
+      "meaning_en": "to sprout, germinate",
+      "meaning_ar": "تَنْبُتُ البَذْرَة، تُبَرْعِمُ",
+      "tenses": {
+        "present": {
+          "ich": "keime",
+          "du": "keimst",
+          "er_sie_es": "keimt",
+          "wir": "keimen",
+          "ihr": "keimt",
+          "sie_Sie": "keimen"
+        },
+        "past_simple": {
+          "ich": "keimte",
+          "du": "keimtest",
+          "er_sie_es": "keimte",
+          "wir": "keimten",
+          "ihr": "keimtet",
+          "sie_Sie": "keimten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gekeimt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "nach",
+          "case": "Dativ",
+          "meaning_ar": "تنبت بعد بضعة أيام"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Nach einer Woche keimen die Sonnenblumensamen in der feuchten Erde.",
+          "en": "After a week, the sunflower seeds germinate in the moist soil.",
+          "ar": "تَنْبُتُ بُذُورُ دُوَّارِ الشَّمْسِ فِي التُّرْبَةِ الرَّطْبَةِ بَعْدَ أُسْبُوع."
+        }
+      ]
+    },
+    {
+      "id": "verb_garden_011",
+      "infinitive": "wachsen",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "durch Licht und Wasser größer, kräftiger und grüner werden",
+      "meaning_en": "to grow",
+      "meaning_ar": "تَنْمُو النَّبْتَةُ وَتَتَرَعْرَعُ",
+      "tenses": {
+        "present": {
+          "ich": "wachse",
+          "du": "wächst",
+          "er_sie_es": "wächst",
+          "wir": "wachsen",
+          "ihr": "wachst",
+          "sie_Sie": "wachsen"
+        },
+        "past_simple": {
+          "ich": "wuchs",
+          "du": "wuchsest",
+          "er_sie_es": "wuchs",
+          "wir": "wuchsen",
+          "ihr": "wuchst",
+          "sie_Sie": "wuchsen"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "gewachsen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "zu",
+          "case": "Dativ",
+          "meaning_ar": "تنمو لتصبح شجيرة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der kleine Busch wuchs im Sommer zu einer dichten Hecke heran.",
+          "en": "The small bush grew into a dense hedge over the summer.",
+          "ar": "نَمَتِ الشُّجَيْرَةُ الصَّغِيرَةُ فِي الصَّيْفِ لِتُصْبِحَ سِيَاجًا كَثِيفًا."
+        }
+      ]
+    },
+    {
+      "id": "verb_garden_012",
+      "infinitive": "düngen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "dem Boden Nährstoffe zuführen, um prachtvolle Blüten zu fördern",
+      "meaning_en": "to fertilize, enrich soil",
+      "meaning_ar": "يُسَمِّدُ التُّرْبَةَ بِسَمَادٍ عُضْوِيّ",
+      "tenses": {
+        "present": {
+          "ich": "dünge",
+          "du": "düngst",
+          "er_sie_es": "düngt",
+          "wir": "düngen",
+          "ihr": "düngt",
+          "sie_Sie": "düngen"
+        },
+        "past_simple": {
+          "ich": "düngte",
+          "du": "düngtest",
+          "er_sie_es": "düngte",
+          "wir": "düngten",
+          "ihr": "düngtet",
+          "sie_Sie": "düngten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gedüngt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يسمد بكومبوست طبيعي"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Sie düngt die Rosenbeete ausschließlich mit reifem Biokompost.",
+          "en": "She fertilizes the rose beds exclusively with mature organic compost.",
+          "ar": "تُسَمِّدُ أَحْوَاضَ الوَرْدِ حَصْرًا بِسَمَادِ الكُومْبُوسْتِ العُضْوِيِّ النَّاضِج."
+        }
+      ]
+    },
+    {
+      "id": "verb_garden_013",
+      "infinitive": "besprühen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "die Blätter von Zierpflanzen mit feinem Wassernebel benetzen",
+      "meaning_en": "to mist, spray plant leaves",
+      "meaning_ar": "يَرُشُّ أَوْرَاقَ النَّبَاتِ بِالرَّذَاذ",
+      "tenses": {
+        "present": {
+          "ich": "besprühe",
+          "du": "besprühst",
+          "er_sie_es": "besprüht",
+          "wir": "besprühen",
+          "ihr": "besprüht",
+          "sie_Sie": "besprühen"
+        },
+        "past_simple": {
+          "ich": "besprühte",
+          "du": "besprühtest",
+          "er_sie_es": "besprühte",
+          "wir": "besprühten",
+          "ihr": "besprühtet",
+          "sie_Sie": "besprühten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "besprüht"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يرش بماء نقي"
+        }
+      ],
+      "examples": [
+        {
+          "de": "An heißen Tagen besprüht er die Zimmerfarne mit lauwarmem Wasser.",
+          "en": "On hot days, he mists the indoor ferns with lukewarm water.",
+          "ar": "يَرُشُّ سَرَاخِسَ المَنْزِلِ فِي الأَيَّامِ الحَارَّةِ بِرَذَاذِ مَاءٍ فَاتِر."
+        }
+      ]
+    },
+    {
+      "id": "verb_garden_014",
+      "infinitive": "erblühen",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "die Blütenknospen prachtvoll und vollständig öffnen",
+      "meaning_en": "to burst into full bloom",
+      "meaning_ar": "يَتَفَتَّحُ عَنْ آخِرِهِ، يَزْدَهِرُ حُسْنًا",
+      "tenses": {
+        "present": {
+          "ich": "erblühe",
+          "du": "erblühst",
+          "er_sie_es": "erblüht",
+          "wir": "erblühen",
+          "ihr": "erblüht",
+          "sie_Sie": "erblühen"
+        },
+        "past_simple": {
+          "ich": "erblühte",
+          "du": "erblühtest",
+          "er_sie_es": "erblühte",
+          "wir": "erblühten",
+          "ihr": "erblühtet",
+          "sie_Sie": "erblühten"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "erblüht"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "im",
+          "case": "Dativ",
+          "meaning_ar": "يتفتح في الربيع"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Im Mai erblüht der gesamte Obstgarten in weißer und rosa Pracht.",
+          "en": "In May, the entire orchard bursts into white and pink splendor.",
+          "ar": "يَتَفَتَّحُ بُسْتَانُ الفَاكِهَةِ كُلُّهُ فِي أَيَّارَ بِبَهَاءٍ أَبْيَضَ وَوَرْدِيّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_garden_015",
+      "infinitive": "pflegen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "den Garten liebevoll mit allen notwendigen Handgriffen versorgen",
+      "meaning_en": "to tend, look after the garden",
+      "meaning_ar": "يَعْتَنِي بِالحَدِيقَة، يَرْعَاهَا",
+      "tenses": {
+        "present": {
+          "ich": "pflege",
+          "du": "pflegst",
+          "er_sie_es": "pflegt",
+          "wir": "pflegen",
+          "ihr": "pflegt",
+          "sie_Sie": "pflegen"
+        },
+        "past_simple": {
+          "ich": "pflegte",
+          "du": "pflegtest",
+          "er_sie_es": "pflegte",
+          "wir": "pflegten",
+          "ihr": "pflegtet",
+          "sie_Sie": "pflegten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gepflegt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يرعى بعناية"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Großmutter pflegt ihre Blumenbeete täglich mit unermüdlicher Liebe.",
+          "en": "The grandmother tends her flowerbeds daily with tireless love.",
+          "ar": "تَرْعَى الجَدَّةُ أَحْوَاضَ أَزْهَارِهَا يَوْمِيًّا بِمَحَبَّةٍ لَا تَفْتُر."
+        }
+      ]
+    },
+    {
+      "id": "verb_garden_016",
+      "infinitive": "anbinden",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "hohe Blütenstängel zum Schutz vor Wind an einen Stab binden",
+      "meaning_en": "to tie, stake up plants",
+      "meaning_ar": "يَرْبِطُ السَّاقَ إِلَى دِعَامَةٍ لِحِمَايَتِهَا",
+      "tenses": {
+        "present": {
+          "ich": "binde an",
+          "du": "bindest an",
+          "er_sie_es": "bindet an",
+          "wir": "binden an",
+          "ihr": "bindet an",
+          "sie_Sie": "binden an"
+        },
+        "past_simple": {
+          "ich": "band an",
+          "du": "bandest an",
+          "er_sie_es": "band an",
+          "wir": "banden an",
+          "ihr": "bandet an",
+          "sie_Sie": "banden an"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "angebunden"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Akkusativ",
+          "meaning_ar": "يربط إلى دعامة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er bindet die schweren Tomatentriebe an stabile Holzstäbe an.",
+          "en": "He ties the heavy tomato shoots to sturdy wooden stakes.",
+          "ar": "يَرْبِطُ أَغْصَانَ الطَّمَاطِمِ الثَّقِيلَةَ إِلَى دَعَائِمَ خَشَبِيَّةٍ مَتِينَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_garden_017",
+      "infinitive": "lockern",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "die verkrustete Erde mit einer kleinen Kralle belüften",
+      "meaning_en": "to loosen, aerate soil",
+      "meaning_ar": "يُقَلِّبُ، يُهَوِّي التُّرْبَة",
+      "tenses": {
+        "present": {
+          "ich": "lockere",
+          "du": "lockerst",
+          "er_sie_es": "lockert",
+          "wir": "lockern",
+          "ihr": "lockert",
+          "sie_Sie": "lockern"
+        },
+        "past_simple": {
+          "ich": "lockerte",
+          "du": "lockertest",
+          "er_sie_es": "lockerte",
+          "wir": "lockerten",
+          "ihr": "lockertet",
+          "sie_Sie": "lockerten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gelockert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يقلب التربة بالمجرفة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Vor dem Gießen lockert er den Boden rund um die Blumen vorsichtig auf.",
+          "en": "Before watering, he carefully loosens the soil around the flowers.",
+          "ar": "يُهَوِّي التُّرْبَةَ حَوْلَ الأَزْهَارِ بِحَذَرٍ قَبْلَ السَّقْي."
+        }
+      ]
+    },
+    {
+      "id": "verb_garden_018",
+      "infinitive": "erfreuen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "die Augen der Menschen durch reiche Farben erheitern",
+      "meaning_en": "to delight the eye with beauty",
+      "meaning_ar": "يَبْعَثُ السُّرُورَ فِي النَّفْسِ بِبَهَائِه",
+      "tenses": {
+        "present": {
+          "ich": "erfreue",
+          "du": "erfreust",
+          "er_sie_es": "erfreut",
+          "wir": "erfreuen",
+          "ihr": "erfreut",
+          "sie_Sie": "erfreuen"
+        },
+        "past_simple": {
+          "ich": "erfreute",
+          "du": "erfreutest",
+          "er_sie_es": "erfreute",
+          "wir": "erfreuten",
+          "ihr": "erfreutet",
+          "sie_Sie": "erfreuten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "erfreut"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "durch",
+          "case": "Akkusativ",
+          "meaning_ar": "يبهج برونق الألوان"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die bunten Tulpen erfreuen jeden Spaziergänger am Wegrand.",
+          "en": "The colorful tulips delight every walker along the path.",
+          "ar": "تَسُرُّ أَزْهَارُ التُّولِيبِ المُلَوَّنَةُ نَفْسَ كُلِّ عَابِرِ سَبِيل."
+        }
+      ]
+    },
+    {
+      "id": "verb_garden_019",
+      "infinitive": "duften",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "einen lieblichen Wohlgeruch in die Luft abgeben",
+      "meaning_en": "to give off sweet scent",
+      "meaning_ar": "يَفُوحُ بِالأَرِيجِ الزَّكِيّ",
+      "tenses": {
+        "present": {
+          "ich": "dufte",
+          "du": "duftest",
+          "er_sie_es": "duftet",
+          "wir": "duften",
+          "ihr": "duftet",
+          "sie_Sie": "duften"
+        },
+        "past_simple": {
+          "ich": "duftete",
+          "du": "duftetest",
+          "er_sie_es": "duftete",
+          "wir": "dufteten",
+          "ihr": "duftetet",
+          "sie_Sie": "dufteten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geduftet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "nach",
+          "case": "Dativ",
+          "meaning_ar": "يفوح برائحة الورد"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Sommerlaube duftet herrlich nach blühendem Geißblatt und Rosen.",
+          "en": "The summer arbor smells wonderfully of blooming honeysuckle and roses.",
+          "ar": "تَفُوحُ العَرِيشَةُ الصَّيْفِيَّةُ بِرَائِحَةِ الوَرْدِ وَالأَزْهَارِ البَدِيعَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_garden_020",
+      "infinitive": "wurzeln",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "feste Wurzeln in die nährende Erde schlagen",
+      "meaning_en": "to take root, root firmly",
+      "meaning_ar": "يَتَجَذَّرُ فِي التُّرْبَة، يَرْسَخُ",
+      "tenses": {
+        "present": {
+          "ich": "wurzele",
+          "du": "wurzelst",
+          "er_sie_es": "wurzelt",
+          "wir": "wurzeln",
+          "ihr": "wurzelt",
+          "sie_Sie": "wurzeln"
+        },
+        "past_simple": {
+          "ich": "wurzelte",
+          "du": "wurzeltest",
+          "er_sie_es": "wurzelte",
+          "wir": "wurzelten",
+          "ihr": "wurzeltet",
+          "sie_Sie": "wurzelten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gewurzelt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يتجذر في الأرض"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der junge Olivenbaum wurzelt tief im steinigen, aber sonnigen Boden.",
+          "en": "The young olive tree roots deeply in the stony but sunny ground.",
+          "ar": "تَتَجَذَّرُ شَجَرَةُ الزَّيْتُونِ الفَتِيَّةُ عَمِيقًا فِي التُّرْبَةِ المُشْمِسَة."
+        }
+      ]
+    }
+  ]
+}

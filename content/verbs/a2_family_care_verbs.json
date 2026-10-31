@@ -1,0 +1,909 @@
+{
+  "category_id": "a2_family_care_verbs",
+  "category_name_de": "Familien-, Fürsorge- und Erziehungsverben",
+  "category_name_en": "Family, Care & Upbringing Verbs",
+  "category_name_ar": "أفعال الأسرة والتربية والرعاية الأسرية",
+  "level": "A1/A2",
+  "verbs": [
+    {
+      "id": "verb_family_001",
+      "infinitive": "aufwachsen",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "die Kindheit und Jugend an einem bestimmten Ort verbringen",
+      "meaning_en": "to grow up",
+      "meaning_ar": "يَنْشَأُ، يَتَرَعْرَعُ",
+      "tenses": {
+        "present": {
+          "ich": "wachse auf",
+          "du": "wächst auf",
+          "er_sie_es": "wächst auf",
+          "wir": "wachsen auf",
+          "ihr": "wachst auf",
+          "sie_Sie": "wachsen auf"
+        },
+        "past_simple": {
+          "ich": "wuchs auf",
+          "du": "wuchsest auf",
+          "er_sie_es": "wuchs auf",
+          "wir": "wuchsen auf",
+          "ihr": "wuchst auf",
+          "sie_Sie": "wuchsen auf"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "aufgewachsen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "ينشأ في"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Geschwister wuchsen wohlbehütet in einem friedlichen Dorf auf.",
+          "en": "The siblings grew up well-protected in a peaceful village.",
+          "ar": "نَشَأَ الإِخْوَةُ فِي كَنَفِ الرِّعَايَةِ فِي قَرْيَةٍ هَادِئَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_family_002",
+      "infinitive": "erziehen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "Kindern gute Werte, Anstand und Bildung vermitteln",
+      "meaning_en": "to bring up, educate, raise",
+      "meaning_ar": "يُرَبِّي، يُؤَدِّبُ بِالحِكْمَة",
+      "tenses": {
+        "present": {
+          "ich": "erziehe",
+          "du": "erziehst",
+          "er_sie_es": "erzieht",
+          "wir": "erziehen",
+          "ihr": "erzieht",
+          "sie_Sie": "erziehen"
+        },
+        "past_simple": {
+          "ich": "erzog",
+          "du": "erzogst",
+          "er_sie_es": "erzog",
+          "wir": "erzogen",
+          "ihr": "erzogt",
+          "sie_Sie": "erzogen"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "erzogen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "zu",
+          "case": "Dativ",
+          "meaning_ar": "يربي على"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die weisen Eltern erziehen ihre Kinder zu Aufrichtigkeit und Nächstenliebe.",
+          "en": "The wise parents raise their children to be sincere and loving.",
+          "ar": "يُرَبِّي الآبَاءُ الحُكَمَاءُ أَبْنَاءَهُمْ عَلَى الصِّدْقِ وَحُبِّ الخَيْرِ لِلنَّاس."
+        }
+      ]
+    },
+    {
+      "id": "verb_family_003",
+      "infinitive": "versorgen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "die Familie mit allem Lebensnotwendigen versorgen",
+      "meaning_en": "to provide for, look after",
+      "meaning_ar": "يَعُولُ، يَقُومُ عَلَى شُؤُونِ أُسْرَتِه",
+      "tenses": {
+        "present": {
+          "ich": "versorge",
+          "du": "versorgst",
+          "er_sie_es": "versorgt",
+          "wir": "versorgen",
+          "ihr": "versorgt",
+          "sie_Sie": "versorgen"
+        },
+        "past_simple": {
+          "ich": "versorgte",
+          "du": "versorgtest",
+          "er_sie_es": "versorgte",
+          "wir": "versorgten",
+          "ihr": "versorgtet",
+          "sie_Sie": "versorgten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "versorgt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يمد بـ / يعول بـ"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Vater versorgt die Familie fleißig mit gesunder Nahrung.",
+          "en": "The father diligently provides the family with healthy food.",
+          "ar": "يَعُولُ الأَبُ الأُسْرَةَ بِكَدٍّ وَيُوَفِّرُ لَهَا الغِذَاءَ الطَّيِّب."
+        }
+      ]
+    },
+    {
+      "id": "verb_family_004",
+      "infinitive": "wiegen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "ein Baby sanft in den Armen hin- und herbewegen",
+      "meaning_en": "to cradle, rock gently",
+      "meaning_ar": "يُهَدْهِدُ الطِّفْلَ، يَمْهُدُ لَهُ لِيَنَام",
+      "tenses": {
+        "present": {
+          "ich": "wiege",
+          "du": "wiegst",
+          "er_sie_es": "wiegt",
+          "wir": "wiegen",
+          "ihr": "wiegt",
+          "sie_Sie": "wiegen"
+        },
+        "past_simple": {
+          "ich": "wiegte",
+          "du": "wiegtest",
+          "er_sie_es": "wiegte",
+          "wir": "wiegten",
+          "ihr": "wiegtet",
+          "sie_Sie": "wiegten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gewiegt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يهدهد في الأحضان"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Mutter wiegte das weinende Baby liebevoll in den Schlaf.",
+          "en": "The mother lovingly rocked the crying baby to sleep.",
+          "ar": "هَدْهَدَتِ الأُمُّ الرَّضِيعَ البَاكِيَ بِمَحَبَّةٍ حَتَّى نَام."
+        }
+      ]
+    },
+    {
+      "id": "verb_family_005",
+      "infinitive": "trösten",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "ein trauriges Familienmitglied mit warmen Worten aufrichten",
+      "meaning_en": "to comfort, soothe",
+      "meaning_ar": "يُوَاسِي، يَجْبُرُ الخَاطِر",
+      "tenses": {
+        "present": {
+          "ich": "tröste",
+          "du": "tröstest",
+          "er_sie_es": "tröstet",
+          "wir": "trösten",
+          "ihr": "tröstet",
+          "sie_Sie": "trösten"
+        },
+        "past_simple": {
+          "ich": "tröstete",
+          "du": "tröstetest",
+          "er_sie_es": "tröstete",
+          "wir": "trösteten",
+          "ihr": "tröstetet",
+          "sie_Sie": "trösteten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "getröstet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يواسي بـ"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der große Bruder tröstet die kleine Schwester nach dem Sturz.",
+          "en": "The big brother comforts the little sister after the fall.",
+          "ar": "يُوَاسِي الأَخُ الكَبِيرُ أُخْتَهُ الصَّغِيرَةَ بَعْدَ سُقُوطِهَا."
+        }
+      ]
+    },
+    {
+      "id": "verb_family_006",
+      "infinitive": "umarmen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "die Arme voll Zuneigung um jemanden legen",
+      "meaning_en": "to hug, embrace",
+      "meaning_ar": "يُعَانِقُ، يَضُمُّ بِمَحَبَّة",
+      "tenses": {
+        "present": {
+          "ich": "umarme",
+          "du": "umarmst",
+          "er_sie_es": "umarmt",
+          "wir": "umarmen",
+          "ihr": "umarmt",
+          "sie_Sie": "umarmen"
+        },
+        "past_simple": {
+          "ich": "umarmte",
+          "du": "umarmtest",
+          "er_sie_es": "umarmte",
+          "wir": "umarmten",
+          "ihr": "umarmtet",
+          "sie_Sie": "umarmten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "umarmt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "vor",
+          "case": "Dativ",
+          "meaning_ar": "يعانق من شدة الفرح"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Sie umarmten einander herzlich nach der langen Reise.",
+          "en": "They embraced each other warmly after the long journey.",
+          "ar": "تَعَانَقُوا بِحَرَارَةٍ بَعْدَ طُولِ السَّفَر."
+        }
+      ]
+    },
+    {
+      "id": "verb_family_007",
+      "infinitive": "beschützen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "die Familie vor allen Gefahren bewahren",
+      "meaning_en": "to protect, shelter",
+      "meaning_ar": "يَحْمِي، يَذُودُ عَنْ أَهْلِه",
+      "tenses": {
+        "present": {
+          "ich": "beschütze",
+          "du": "beschützt",
+          "er_sie_es": "beschützt",
+          "wir": "beschützen",
+          "ihr": "beschützt",
+          "sie_Sie": "beschützen"
+        },
+        "past_simple": {
+          "ich": "beschützte",
+          "du": "beschütztest",
+          "er_sie_es": "beschützte",
+          "wir": "beschützten",
+          "ihr": "beschütztet",
+          "sie_Sie": "beschützten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "beschützt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "vor",
+          "case": "Dativ",
+          "meaning_ar": "يحمي من"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Eltern beschützen ihre Kinder behutsam vor Unheil.",
+          "en": "Parents gently protect their children from harm.",
+          "ar": "يَحْمِي الآبَاءُ أَبْنَاءَهُمْ بِعِنَايَةٍ مِنْ كُلِّ مَكْرُوه."
+        }
+      ]
+    },
+    {
+      "id": "verb_family_008",
+      "infinitive": "beibringen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "Kindern praktische Fertigkeiten und gutes Benehmen lehren",
+      "meaning_en": "to teach, impart skills",
+      "meaning_ar": "يُعَلِّمُ، يُلَقِّنُ مَهَارَة",
+      "tenses": {
+        "present": {
+          "ich": "bringe bei",
+          "du": "bringst bei",
+          "er_sie_es": "bringt bei",
+          "wir": "bringen bei",
+          "ihr": "bringt bei",
+          "sie_Sie": "bringen bei"
+        },
+        "past_simple": {
+          "ich": "brachte bei",
+          "du": "brachtest bei",
+          "er_sie_es": "brachte bei",
+          "wir": "brachten bei",
+          "ihr": "brachtet bei",
+          "sie_Sie": "brachten bei"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "beigebracht"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يعلم بـ"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Großvater bringt dem Enkel geduldig das Holzschnitzen bei.",
+          "en": "The grandfather patiently teaches the grandson wood carving.",
+          "ar": "يُعَلِّمُ الجَدُّ حَفِيدَهُ نَحْتَ الخَشَبِ بِكُلِّ صَبْر."
+        }
+      ]
+    },
+    {
+      "id": "verb_family_009",
+      "infinitive": "gehorchen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "den guten Ratschlägen der Eltern folgen",
+      "meaning_en": "to obey, heed advice",
+      "meaning_ar": "يُطِيعُ بِالمَعْرُوف، يَسْمَعُ الكَلَام",
+      "tenses": {
+        "present": {
+          "ich": "gehorche",
+          "du": "gehorchst",
+          "er_sie_es": "gehorcht",
+          "wir": "gehorchen",
+          "ihr": "gehorcht",
+          "sie_Sie": "gehorchen"
+        },
+        "past_simple": {
+          "ich": "gehorchte",
+          "du": "gehorchtest",
+          "er_sie_es": "gehorchte",
+          "wir": "gehorchten",
+          "ihr": "gehorchtet",
+          "sie_Sie": "gehorchten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gehorcht"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يطيع في أمور الخير"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Das wohlgesittete Kind gehorcht den Eltern gerne und aufmerksam.",
+          "en": "The well-mannered child obeys parents gladly and attentively.",
+          "ar": "يُطِيعُ الطِّفْلُ المُؤَدَّبُ وَالِدَيْهِ بِرِضًا وَانْتِبَاه."
+        }
+      ]
+    },
+    {
+      "id": "verb_family_010",
+      "infinitive": "achten",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "die Älteren ehren und ihnen Wertschätzung zeigen",
+      "meaning_en": "to respect, revere elders",
+      "meaning_ar": "يُوَقِّرُ، يَحْتَرِمُ الكِبَار",
+      "tenses": {
+        "present": {
+          "ich": "achte",
+          "du": "achtest",
+          "er_sie_es": "achtet",
+          "wir": "achten",
+          "ihr": "achtet",
+          "sie_Sie": "achten"
+        },
+        "past_simple": {
+          "ich": "achtete",
+          "du": "achtetest",
+          "er_sie_es": "achtete",
+          "wir": "achteten",
+          "ihr": "achtetet",
+          "sie_Sie": "achteten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geachtet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "wegen",
+          "case": "Genitiv",
+          "meaning_ar": "يوقر بسبب الحكمة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wir achten die Großeltern wegen ihrer reichen Lebenserfahrung.",
+          "en": "We respect our grandparents for their rich life experience.",
+          "ar": "نُوَقِّرُ الأَجْدَادَ لِتَجْرِبَتِهِمُ الحَيَاتِيَّةِ الغَنِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_family_011",
+      "infinitive": "unterstützen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "den Angehörigen bei Aufgaben und Sorgen beistehen",
+      "meaning_en": "to support, assist family",
+      "meaning_ar": "يُسَانِدُ، يُعِينُ أَهْلَه",
+      "tenses": {
+        "present": {
+          "ich": "unterstütze",
+          "du": "unterstützt",
+          "er_sie_es": "unterstützt",
+          "wir": "unterstützen",
+          "ihr": "unterstützt",
+          "sie_Sie": "unterstützen"
+        },
+        "past_simple": {
+          "ich": "unterstützte",
+          "du": "unterstütztest",
+          "er_sie_es": "unterstützte",
+          "wir": "unterstützten",
+          "ihr": "unterstütztet",
+          "sie_Sie": "unterstützten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "unterstützt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "bei",
+          "case": "Dativ",
+          "meaning_ar": "يعين في"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Kinder unterstützen die Mutter liebevoll im Haushalt.",
+          "en": "The children lovingly assist their mother in household chores.",
+          "ar": "يُعِينُ الأَبْنَاءُ أُمَّهُمْ بِمَحَبَّةٍ فِي أَعْمَالِ المَنْزِل."
+        }
+      ]
+    },
+    {
+      "id": "verb_family_012",
+      "infinitive": "zusammenhalten",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "als Familie in jeder Situation eine Einheit bilden",
+      "meaning_en": "to stick together, stand united",
+      "meaning_ar": "يَتَكَاتَفُ، يَتَرَابَطُ أُسَرِيًّا",
+      "tenses": {
+        "present": {
+          "ich": "halte zusammen",
+          "du": "hältst zusammen",
+          "er_sie_es": "hält zusammen",
+          "wir": "halten zusammen",
+          "ihr": "haltet zusammen",
+          "sie_Sie": "halten zusammen"
+        },
+        "past_simple": {
+          "ich": "hielt zusammen",
+          "du": "hieltst zusammen",
+          "er_sie_es": "hielt zusammen",
+          "wir": "hielten zusammen",
+          "ihr": "hieltet zusammen",
+          "sie_Sie": "hielten zusammen"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "zusammengehalten"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يتكاتف في الشدائد"
+        }
+      ],
+      "examples": [
+        {
+          "de": "In schwierigen Tagen hält die Familie wie eine feste Mauer zusammen.",
+          "en": "In difficult days, the family sticks together like a solid wall.",
+          "ar": "تَتَكَاتَفُ الأُسْرَةُ فِي الأَيَّامِ الشَّدِيدَةِ كَالبُنْيَانِ المَرْصُوص."
+        }
+      ]
+    },
+    {
+      "id": "verb_family_013",
+      "infinitive": "besuchen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "zu den Verwandten gehen, um Zeit miteinander zu verbringen",
+      "meaning_en": "to visit relatives, maintain kinship",
+      "meaning_ar": "يَزُورُ الأَقَارِبَ، يَصِلُ رَحِمَه",
+      "tenses": {
+        "present": {
+          "ich": "besuche",
+          "du": "besuchst",
+          "er_sie_es": "besucht",
+          "wir": "besuchen",
+          "ihr": "besucht",
+          "sie_Sie": "besuchen"
+        },
+        "past_simple": {
+          "ich": "besuchte",
+          "du": "besuchtest",
+          "er_sie_es": "besuchte",
+          "wir": "besuchten",
+          "ihr": "besuchtet",
+          "sie_Sie": "besuchten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "besucht"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Dativ",
+          "meaning_ar": "يزور في العطلات"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Am Wochenende besuchen wir die Großeltern auf dem Land.",
+          "en": "On the weekend, we visit our grandparents in the countryside.",
+          "ar": "نَزُورُ جَدَّيْنَا فِي الرِّيفِ فِي عُطْلَةِ نِهَايَةِ الأُسْبُوع."
+        }
+      ]
+    },
+    {
+      "id": "verb_family_014",
+      "infinitive": "ehren",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "den Eltern und Ahnen höchste Würde erweisen",
+      "meaning_en": "to honor, revere",
+      "meaning_ar": "يُكْرِمُ، يَبَرُّ وَالِدَيْه",
+      "tenses": {
+        "present": {
+          "ich": "ehre",
+          "du": "ehrst",
+          "er_sie_es": "ehrt",
+          "wir": "ehren",
+          "ihr": "ehrt",
+          "sie_Sie": "ehren"
+        },
+        "past_simple": {
+          "ich": "ehrte",
+          "du": "ehrtest",
+          "er_sie_es": "ehrte",
+          "wir": "ehrten",
+          "ihr": "ehrtet",
+          "sie_Sie": "ehrten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geehrt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "durch",
+          "case": "Akkusativ",
+          "meaning_ar": "يكرم من خلال"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Man ehrt seine Eltern durch Gehorsam, Freundlichkeit und Fürbitte.",
+          "en": "One honors one's parents through obedience, kindness, and prayer.",
+          "ar": "يَبَرُّ المَرْءُ وَالِدَيْهِ بِالطَّاعَةِ وَالإِحْسَانِ وَالدُّعَاءِ لَهُمَا."
+        }
+      ]
+    },
+    {
+      "id": "verb_family_015",
+      "infinitive": "behüten",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "die Kinder mit wachsamer Liebe vor Unheil bewahren",
+      "meaning_en": "to guard, cherish, protect lovingly",
+      "meaning_ar": "يَحُوطُ بِالرِّعَايَةِ، يَكْلأُ بِعَيْنِ المَحَبَّة",
+      "tenses": {
+        "present": {
+          "ich": "behüte",
+          "du": "behütest",
+          "er_sie_es": "behütet",
+          "wir": "behüten",
+          "ihr": "behütet",
+          "sie_Sie": "behüten"
+        },
+        "past_simple": {
+          "ich": "behütete",
+          "du": "behütetest",
+          "er_sie_es": "behütete",
+          "wir": "behüteten",
+          "ihr": "behütetet",
+          "sie_Sie": "behüteten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "behütet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "vor",
+          "case": "Dativ",
+          "meaning_ar": "يحوط من المخاطر"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Mutter behütet ihr Neugeborenes wie ihren wertvollsten Schatz.",
+          "en": "The mother cherishes her newborn like her most precious treasure.",
+          "ar": "تَحُوطُ الأُمُّ وَلِيدَهَا بِعَيْنِ الحُبِّ كَأَثْمَنِ كُنُوزِهَا."
+        }
+      ]
+    },
+    {
+      "id": "verb_family_016",
+      "infinitive": "herbeieilen",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "schnell herankommen, um einem Angehörigen beizustehen",
+      "meaning_en": "to rush to aid",
+      "meaning_ar": "يَهُبُّ لِلنَّجْدَةِ وَالمَعُونَة",
+      "tenses": {
+        "present": {
+          "ich": "eile herbei",
+          "du": "eilst herbei",
+          "er_sie_es": "eilt herbei",
+          "wir": "eilen herbei",
+          "ihr": "eilt herbei",
+          "sie_Sie": "eilen herbei"
+        },
+        "past_simple": {
+          "ich": "eilte herbei",
+          "du": "eiltest herbei",
+          "er_sie_es": "eilte herbei",
+          "wir": "eilten herbei",
+          "ihr": "eiltet herbei",
+          "sie_Sie": "eilten herbei"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "herbeigeeilt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "zur",
+          "case": "Dativ",
+          "meaning_ar": "يهب إلى النجدة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Onkel eilte sofort herbei, als die Familie Hilfe brauchte.",
+          "en": "The uncle rushed over immediately when the family needed help.",
+          "ar": "هَبَّ العَمُّ عَلَى الفَوْرِ عِنْدَمَا احْتَاجَتِ الأُسْرَةُ إِلَى العَوْن."
+        }
+      ]
+    },
+    {
+      "id": "verb_family_017",
+      "infinitive": "teilen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "die Mahlzeit und die Freude mit den Geschwistern teilen",
+      "meaning_en": "to share with family",
+      "meaning_ar": "يَقْتَسِمُ، يُشَاطِرُ أَهْلَهُ الخَيْر",
+      "tenses": {
+        "present": {
+          "ich": "teile",
+          "du": "teilst",
+          "er_sie_es": "teilt",
+          "wir": "teilen",
+          "ihr": "teilt",
+          "sie_Sie": "teilen"
+        },
+        "past_simple": {
+          "ich": "teilte",
+          "du": "teiltest",
+          "er_sie_es": "teilte",
+          "wir": "teilten",
+          "ihr": "teiltet",
+          "sie_Sie": "teilten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geteilt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يقتسم مع"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Kinder teilen das frische Obst gerecht untereinander auf.",
+          "en": "The children share the fresh fruit fairly among themselves.",
+          "ar": "يَقْتَسِمُ الأَطْفَالُ الفَاكِهَةَ الطَّازَجَةَ بَيْنَهُمْ بِعَدْل."
+        }
+      ]
+    },
+    {
+      "id": "verb_family_018",
+      "infinitive": "erfreuen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "den Angehörigen Freude und Heiterkeit schenken",
+      "meaning_en": "to gladden, bring joy to family",
+      "meaning_ar": "يُفْرِحُ، يُدْخِلُ السُّرُورَ عَلَى أَهْلِه",
+      "tenses": {
+        "present": {
+          "ich": "erfreue",
+          "du": "erfreust",
+          "er_sie_es": "erfreut",
+          "wir": "erfreuen",
+          "ihr": "erfreut",
+          "sie_Sie": "erfreuen"
+        },
+        "past_simple": {
+          "ich": "erfreute",
+          "du": "erfreutest",
+          "er_sie_es": "erfreute",
+          "wir": "erfreuten",
+          "ihr": "erfreutet",
+          "sie_Sie": "erfreuten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "erfreut"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يفرح بـ"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der fleißige Schüler erfreute seine Eltern mit guten Schulnoten.",
+          "en": "The diligent student delighted his parents with good grades.",
+          "ar": "أَدْخَلَ التِّلْمِيذُ المُجْتَهِدُ السُّرُورَ عَلَى قَلْبِ وَالِدَيْهِ بِدَرَجَاتِهِ المُمَيَّزَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_family_019",
+      "infinitive": "vermissen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "Sehnsucht nach den fernen Eltern oder Geschwistern spüren",
+      "meaning_en": "to miss, long for family",
+      "meaning_ar": "يَشْتَاقُ، يَفْتَقِدُ أَهْلَه",
+      "tenses": {
+        "present": {
+          "ich": "vermisse",
+          "du": "vermisst",
+          "er_sie_es": "vermisst",
+          "wir": "vermissen",
+          "ihr": "vermisst",
+          "sie_Sie": "vermissen"
+        },
+        "past_simple": {
+          "ich": "vermisste",
+          "du": "vermisstest",
+          "er_sie_es": "vermisste",
+          "wir": "vermissten",
+          "ihr": "vermisstet",
+          "sie_Sie": "vermissten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "vermisst"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Dativ",
+          "meaning_ar": "يشتاق في الغربة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Auf der Studienreise vermisst er das herzliche Lachen seiner Familie.",
+          "en": "On the study trip, he misses the warm laughter of his family.",
+          "ar": "يَشْتَاقُ فِي رِحْلَتِهِ الدِّرَاسِيَّةِ إِلَى ضَحَكَاتِ أُسْرَتِهِ الدَّافِئَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_family_020",
+      "infinitive": "heimkehren",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "nach der Arbeit oder Reise wieder nach Hause zurückkehren",
+      "meaning_en": "to return home to family",
+      "meaning_ar": "يَعُودُ إِلَى البَيْت، يَقْفُلُ رَاجِعًا",
+      "tenses": {
+        "present": {
+          "ich": "kehre heim",
+          "du": "kehrst heim",
+          "er_sie_es": "kehrt heim",
+          "wir": "kehren heim",
+          "ihr": "kehrt heim",
+          "sie_Sie": "kehren heim"
+        },
+        "past_simple": {
+          "ich": "kehrte heim",
+          "du": "kehrtest heim",
+          "er_sie_es": "kehrte heim",
+          "wir": "kehrten heim",
+          "ihr": "kehrtet heim",
+          "sie_Sie": "kehrten heim"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "heimgekehrt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "zu",
+          "case": "Dativ",
+          "meaning_ar": "يعود إلى أهله"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Am Abend kehrt der Vater glücklich zu seiner Familie heim.",
+          "en": "In the evening, the father happily returns home to his family.",
+          "ar": "يَعُودُ الأَبُ فِي المَسَاءِ مَسْرُورًا إِلَى كَنَفِ أُسْرَتِه."
+        }
+      ]
+    }
+  ]
+}

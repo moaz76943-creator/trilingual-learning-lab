@@ -1,0 +1,909 @@
+{
+  "category_id": "a2_repair_maintenance_verbs",
+  "category_name_de": "Reparatur-, Montage- und Instandhaltungsverben",
+  "category_name_en": "Home Repair, Assembling & Maintenance Verbs",
+  "category_name_ar": "أفعال الصيانة والتركيب والإصلاح المنزلي",
+  "level": "A2/B1",
+  "verbs": [
+    {
+      "id": "verb_repair_001",
+      "infinitive": "streichen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "Farbe mit einem Pinsel oder einer Rolle auf eine Fläche auftragen",
+      "meaning_en": "to paint, coat",
+      "meaning_ar": "يَطْلِي، يَدْهُنُ الجِدَار",
+      "tenses": {
+        "present": {
+          "ich": "streiche",
+          "du": "streichst",
+          "er_sie_es": "streicht",
+          "wir": "streichen",
+          "ihr": "streicht",
+          "sie_Sie": "streichen"
+        },
+        "past_simple": {
+          "ich": "strich",
+          "du": "strichst",
+          "er_sie_es": "strich",
+          "wir": "strichen",
+          "ihr": "stricht",
+          "sie_Sie": "strichen"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gestrichen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يطلي بـ"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er streicht die Wohnzimmerwand in einem warmen Beigeton.",
+          "en": "He paints the living room wall in a warm beige tone.",
+          "ar": "يَطْلِي جِدَارَ غُرْفَةِ المَعِيشَةِ بِلَوْنٍ بَيْج دَافِئ."
+        }
+      ]
+    },
+    {
+      "id": "verb_repair_002",
+      "infinitive": "befestigen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "etwas an einem festen Ort haltbar anbringen",
+      "meaning_en": "to fasten, attach, mount securely",
+      "meaning_ar": "يُثَبِّتُ، يُحْكِمُ التَّثْبِيت",
+      "tenses": {
+        "present": {
+          "ich": "befestige",
+          "du": "befestigst",
+          "er_sie_es": "befestigt",
+          "wir": "befestigen",
+          "ihr": "befestigt",
+          "sie_Sie": "befestigen"
+        },
+        "past_simple": {
+          "ich": "befestigte",
+          "du": "befestigtest",
+          "er_sie_es": "befestigte",
+          "wir": "befestigten",
+          "ihr": "befestigtet",
+          "sie_Sie": "befestigten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "befestigt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Dativ",
+          "meaning_ar": "يثبت في"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Sie befestigt den Spiegel mit soliden Dübeln an der Wand.",
+          "en": "She fastens the mirror to the wall with solid wall plugs.",
+          "ar": "تُثَبِّتُ المِرْآةَ عَلَى الجِدَارِ بِمَرَاسٍ جِدَارِيَّةٍ مَتِينَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_repair_003",
+      "infinitive": "bohren",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "mit einem Bohrer ein rundes Loch in festes Material machen",
+      "meaning_en": "to drill",
+      "meaning_ar": "يَثْقُبُ، يَحْفِرُ ثَقْبًا",
+      "tenses": {
+        "present": {
+          "ich": "bohre",
+          "du": "bohrst",
+          "er_sie_es": "bohrt",
+          "wir": "bohren",
+          "ihr": "bohrt",
+          "sie_Sie": "bohren"
+        },
+        "past_simple": {
+          "ich": "bohrte",
+          "du": "bohrtest",
+          "er_sie_es": "bohrte",
+          "wir": "bohrten",
+          "ihr": "bohrtet",
+          "sie_Sie": "bohrten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gebohrt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Akkusativ",
+          "meaning_ar": "يحفر في"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er bohrt vorsichtig vier Löcher für das Wandregal.",
+          "en": "He carefully drills four holes for the wall shelf.",
+          "ar": "يَثْقُبُ بِحَذَرٍ أَرْبَعَةَ ثُقُوبٍ لِرَفِّ الجِدَار."
+        }
+      ]
+    },
+    {
+      "id": "verb_repair_004",
+      "infinitive": "kleben",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "zwei Dinge mit Klebstoff miteinander verbinden",
+      "meaning_en": "to glue, stick, adhere",
+      "meaning_ar": "يُلْصِقُ، يُغَرِّي",
+      "tenses": {
+        "present": {
+          "ich": "klebe",
+          "du": "klebst",
+          "er_sie_es": "klebt",
+          "wir": "kleben",
+          "ihr": "klebt",
+          "sie_Sie": "kleben"
+        },
+        "past_simple": {
+          "ich": "klebte",
+          "du": "klebtest",
+          "er_sie_es": "klebte",
+          "wir": "klebten",
+          "ihr": "klebtet",
+          "sie_Sie": "klebten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geklebt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Akkusativ",
+          "meaning_ar": "يلصق على"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Sie klebt den gebrochenen Henkel der Lieblingstasse wieder an.",
+          "en": "She glues the broken handle of the favorite mug back on.",
+          "ar": "تُلْصِقُ مَقْبِضَ الكُوبِ المُفَضَّلِ المَكْسُورَ مِنْ جَدِيد."
+        }
+      ]
+    },
+    {
+      "id": "verb_repair_005",
+      "infinitive": "sägen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Holz oder Metall mit einer Säge zuschneiden",
+      "meaning_en": "to saw, cut with a saw",
+      "meaning_ar": "يَنْشُرُ بِالمِنْشَار",
+      "tenses": {
+        "present": {
+          "ich": "säge",
+          "du": "sägst",
+          "er_sie_es": "sägt",
+          "wir": "sägen",
+          "ihr": "sägt",
+          "sie_Sie": "sägen"
+        },
+        "past_simple": {
+          "ich": "sägte",
+          "du": "sägtest",
+          "er_sie_es": "sägte",
+          "wir": "sägten",
+          "ihr": "sägtet",
+          "sie_Sie": "sägten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gesägt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "nach",
+          "case": "Dativ",
+          "meaning_ar": "ينشر وفق قياس"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Handwerker sägt die Leiste exakt auf Maß zu.",
+          "en": "The craftsman saws the molding precisely to size.",
+          "ar": "يَنْشُرُ الحِرَفِيُّ القَطِيعَةَ الخَشَبِيَّةَ بِالمَقَاسِ المَضْبُوطِ تَمَامًا."
+        }
+      ]
+    },
+    {
+      "id": "verb_repair_006",
+      "infinitive": "hämmern",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "mit einem Hammer kräftig auf etwas schlagen",
+      "meaning_en": "to hammer",
+      "meaning_ar": "يَدُقُّ بِالمِطْرَقَة",
+      "tenses": {
+        "present": {
+          "ich": "hämmere",
+          "du": "hämmerst",
+          "er_sie_es": "hämmert",
+          "wir": "hämmern",
+          "ihr": "hämmert",
+          "sie_Sie": "hämmern"
+        },
+        "past_simple": {
+          "ich": "hämmerte",
+          "du": "hämmertest",
+          "er_sie_es": "hämmerte",
+          "wir": "hämmerten",
+          "ihr": "hämmertet",
+          "sie_Sie": "hämmerten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gehämmert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Akkusativ",
+          "meaning_ar": "يدق في"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er hämmert vorsichtig einen Nagel für das Familienfoto in die Wand.",
+          "en": "He carefully hammers a nail into the wall for the family photo.",
+          "ar": "يَدُقُّ مِسْمَارًا بِعِنَايَةٍ فِي الجِدَارِ لِتَعْلِيقِ صُورَةِ العَائِلَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_repair_007",
+      "infinitive": "schrauben",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "eine Schraube mit Drehbewegung eindrehen oder lösen",
+      "meaning_en": "to screw, tighten screws",
+      "meaning_ar": "يَرْبِطُ بِالبُرْغِيّ، يُلَوْلِبُ",
+      "tenses": {
+        "present": {
+          "ich": "schraube",
+          "du": "schraubst",
+          "er_sie_es": "schraubt",
+          "wir": "schrauben",
+          "ihr": "schraubt",
+          "sie_Sie": "schrauben"
+        },
+        "past_simple": {
+          "ich": "schraubte",
+          "du": "schraubtest",
+          "er_sie_es": "schraubte",
+          "wir": "schraubten",
+          "ihr": "schraubtet",
+          "sie_Sie": "schraubten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geschraubt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Akkusativ",
+          "meaning_ar": "يثبت ببرغي على"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er schraubt die Tischbeine fest an die Tischplatte.",
+          "en": "He screws the table legs firmly onto the table top.",
+          "ar": "يَرْبِطُ أَرْجُلَ الطَّاوِلَةِ بِالبَرَاغِي جَيِّدًا فِي السَّطْحِ الخَشَبِيّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_repair_008",
+      "infinitive": "messen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "Länge, Breite oder Höhe eines Werkstücks bestimmen",
+      "meaning_en": "to measure",
+      "meaning_ar": "يَقِيسُ، يُحَدِّدُ الأَبْعَاد",
+      "tenses": {
+        "present": {
+          "ich": "messe",
+          "du": "misst",
+          "er_sie_es": "misst",
+          "wir": "messen",
+          "ihr": "messt",
+          "sie_Sie": "messen"
+        },
+        "past_simple": {
+          "ich": "maß",
+          "du": "maßest",
+          "er_sie_es": "maß",
+          "wir": "maßen",
+          "ihr": "maßt",
+          "sie_Sie": "maßen"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gemessen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يقيس بـ"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Sie misst die Fensternische vor dem Gardinenkauf genau aus.",
+          "en": "She precisely measures the window niche before buying curtains.",
+          "ar": "تَقِيسُ فَتْحَةَ النَّافِذَةِ بِدِقَّةٍ قَبْلَ شِرَاءِ السَّتَائِر."
+        }
+      ]
+    },
+    {
+      "id": "verb_repair_009",
+      "infinitive": "abdichten",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "Fugen oder Anschlüsse wasser- oder luftdicht machen",
+      "meaning_en": "to seal, waterproof, caulk",
+      "meaning_ar": "يَسُدُّ المَسَامّ، يُحْكِمُ ضِدَّ التَّسَرُّب",
+      "tenses": {
+        "present": {
+          "ich": "dichte ab",
+          "du": "dichtest ab",
+          "er_sie_es": "dichtet ab",
+          "wir": "dichten ab",
+          "ihr": "dichtet ab",
+          "sie_Sie": "dichten ab"
+        },
+        "past_simple": {
+          "ich": "dichtete ab",
+          "du": "dichtetest ab",
+          "er_sie_es": "dichtete ab",
+          "wir": "dichteten ab",
+          "ihr": "dichtetet ab",
+          "sie_Sie": "dichteten ab"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "abgedichtet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يحكم الإغلاق بواسطة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er dichtet die Fugen der Duschwanne mit frischem Silikon ab.",
+          "en": "He seals the joints of the shower tray with fresh silicone.",
+          "ar": "يَسُدُّ فَرَغَاتِ حَوْضِ الِاسْتِحْمَامِ بِالسِّيلِيكُونِ الجَدِيدِ مَنْعًا لِلتَّسَرُّب."
+        }
+      ]
+    },
+    {
+      "id": "verb_repair_010",
+      "infinitive": "austauschen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "ein defektes Teil durch ein neues ersetzen",
+      "meaning_en": "to replace, swap, exchange",
+      "meaning_ar": "يَسْتَبْدِلُ، يُغَيِّرُ القِطْعَة",
+      "tenses": {
+        "present": {
+          "ich": "tausche aus",
+          "du": "tauschst aus",
+          "er_sie_es": "tauscht aus",
+          "wir": "tauschen aus",
+          "ihr": "tauscht aus",
+          "sie_Sie": "tauschen aus"
+        },
+        "past_simple": {
+          "ich": "tauschte aus",
+          "du": "tauschtest aus",
+          "er_sie_es": "tauschte aus",
+          "wir": "tauschten aus",
+          "ihr": "tauschtet aus",
+          "sie_Sie": "tauschten aus"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "ausgetauscht"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "gegen",
+          "case": "Akkusativ",
+          "meaning_ar": "يستبدل بـ"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wir tauschen den abgenutzten Türgriff gegen einen modernen aus.",
+          "en": "We replace the worn door handle with a modern one.",
+          "ar": "نَسْتَبْدِلُ مَقْبِضَ البَابِ المُسْتَهْلَكَ بِمَقْبِضٍ عَصْرِيّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_repair_011",
+      "infinitive": "anschließen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "ein Gerät mit dem Stromnetz oder der Wasserleitung verbinden",
+      "meaning_en": "to connect, hook up",
+      "meaning_ar": "يَصِلُ، يَرْبِطُ بِالكَهْرَبَاءِ أَوِ المَاء",
+      "tenses": {
+        "present": {
+          "ich": "schließe an",
+          "du": "schließt an",
+          "er_sie_es": "schließt an",
+          "wir": "schließen an",
+          "ihr": "schließt an",
+          "sie_Sie": "schließen an"
+        },
+        "past_simple": {
+          "ich": "schloss an",
+          "du": "schlossest an",
+          "er_sie_es": "schloss an",
+          "wir": "schlossen an",
+          "ihr": "schlosst an",
+          "sie_Sie": "schlossen an"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "angeschlossen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Akkusativ",
+          "meaning_ar": "يصل إلى"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Fachmann schließt die Waschmaschine fachgerecht an die Wasserleitung an.",
+          "en": "The specialist connects the washing machine properly to the water pipe.",
+          "ar": "يَصِلُ الفَنِّيُّ الغَسَّالَةَ بِأُنْبُوبِ المِيَاهِ بِطَرِيقَةٍ احْتِرَافِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_repair_012",
+      "infinitive": "abschalten",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "die Strom- oder Wasserzufuhr zur Sicherheit unterbrechen",
+      "meaning_en": "to turn off, shut down, disconnect",
+      "meaning_ar": "يَفْصِلُ، يَقْطَعُ التَّيَّارَ أَوِ المَاء",
+      "tenses": {
+        "present": {
+          "ich": "schalte ab",
+          "du": "schaltest ab",
+          "er_sie_es": "schaltet ab",
+          "wir": "schalten ab",
+          "ihr": "schaltet ab",
+          "sie_Sie": "schalten ab"
+        },
+        "past_simple": {
+          "ich": "schaltete ab",
+          "du": "schaltetest ab",
+          "er_sie_es": "schaltete ab",
+          "wir": "schalteten ab",
+          "ihr": "schaltetet ab",
+          "sie_Sie": "schalteten ab"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "abgeschaltet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "vor",
+          "case": "Dativ",
+          "meaning_ar": "يفصل قبل العمل"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Vor der Lampeninstallation schaltet er stets die Hauptsicherung ab.",
+          "en": "Before installing the lamp, he always switches off the main fuse.",
+          "ar": "يَفْصِلُ دَائِمًا القَاطِعَ الرَّئِيسِيَّ لِلْكَهْرَبَاءِ قَبْلَ تَرْكِيبِ المِصْبَاح."
+        }
+      ]
+    },
+    {
+      "id": "verb_repair_013",
+      "infinitive": "ausbessern",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "kleine Schäden oder Risse fachmännisch beheben",
+      "meaning_en": "to touch up, mend, patch",
+      "meaning_ar": "يُرَمِّمُ، يُعَالِجُ التَّشَقُّقَاتِ وَالشُّقُوق",
+      "tenses": {
+        "present": {
+          "ich": "bessere aus",
+          "du": "besserst aus",
+          "er_sie_es": "bessert aus",
+          "wir": "bessern aus",
+          "ihr": "bessert aus",
+          "sie_Sie": "bessern aus"
+        },
+        "past_simple": {
+          "ich": "besserte aus",
+          "du": "bessertest aus",
+          "er_sie_es": "besserte aus",
+          "wir": "besserten aus",
+          "ihr": "bessertet aus",
+          "sie_Sie": "besserten aus"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "ausgebessert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يرمم بـ"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Sie bessert kleine Risse im Putz mit Spachtelmasse aus.",
+          "en": "She touches up small cracks in the plaster with filler compound.",
+          "ar": "تُرَمِّمُ الشُّقُوقَ الصَّغِيرَةَ فِي الطِّلَاءِ بِاسْتِخْدَامِ المَعْجُون."
+        }
+      ]
+    },
+    {
+      "id": "verb_repair_014",
+      "infinitive": "reinigen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "Werkzeuge oder Oberflächen von Staub und Schmutz befreien",
+      "meaning_en": "to clean, wipe down",
+      "meaning_ar": "يُنَظِّفُ الأَدَوَاتِ وَالأَسْطُح",
+      "tenses": {
+        "present": {
+          "ich": "reinige",
+          "du": "reinigst",
+          "er_sie_es": "reinigt",
+          "wir": "reinigen",
+          "ihr": "reinigt",
+          "sie_Sie": "reinigen"
+        },
+        "past_simple": {
+          "ich": "reinigte",
+          "du": "reinigtest",
+          "er_sie_es": "reinigte",
+          "wir": "reinigten",
+          "ihr": "reinigtet",
+          "sie_Sie": "reinigten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gereinigt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "ينظف بـ"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er reinigt die Pinsel gründlich nach jedem Gebrauch.",
+          "en": "He cleans the brushes thoroughly after each use.",
+          "ar": "يُنَظِّفُ الفَرَاشِيَ تَمَامًا بَعْدَ كُلِّ اسْتِعْمَال."
+        }
+      ]
+    },
+    {
+      "id": "verb_repair_015",
+      "infinitive": "ölen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "mechanische Teile mit Öl schmieren, damit sie reibungslos laufen",
+      "meaning_en": "to oil, lubricate",
+      "meaning_ar": "يُزَيِّتُ، يُشَحِّمُ المَفَاصِل",
+      "tenses": {
+        "present": {
+          "ich": "öle",
+          "du": "ölst",
+          "er_sie_es": "ölt",
+          "wir": "ölen",
+          "ihr": "ölt",
+          "sie_Sie": "ölen"
+        },
+        "past_simple": {
+          "ich": "ölte",
+          "du": "öltest",
+          "er_sie_es": "ölte",
+          "wir": "ölten",
+          "ihr": "öltet",
+          "sie_Sie": "ölten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geölt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يزيت بـ"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Ein paar Tropfen Öl bringen die quietschenden Türscharniere zum Schweigen.",
+          "en": "A few drops of oil silence the squeaking door hinges.",
+          "ar": "بِضْعُ قَطَرَاتٍ مِنَ الزَّيْتِ تُوقِفُ صَرِيرَ مَفَاصِلِ البَاب."
+        }
+      ]
+    },
+    {
+      "id": "verb_repair_016",
+      "infinitive": "einstellen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "ein Gerät oder eine Vorrichtung präzise justieren",
+      "meaning_en": "to adjust, calibrate, set",
+      "meaning_ar": "يَضْبِطُ، يُعَدِّلُ الإِعْدَادَات",
+      "tenses": {
+        "present": {
+          "ich": "stelle ein",
+          "du": "stellst ein",
+          "er_sie_es": "stellt ein",
+          "wir": "stellen ein",
+          "ihr": "stellt ein",
+          "sie_Sie": "stellen ein"
+        },
+        "past_simple": {
+          "ich": "stellte ein",
+          "du": "stelltest ein",
+          "er_sie_es": "stellte ein",
+          "wir": "stellten ein",
+          "ihr": "stelltet ein",
+          "sie_Sie": "stellten ein"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "eingestellt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Akkusativ",
+          "meaning_ar": "يضبط على"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er stellt die Wassertemperatur am Thermostat perfekt ein.",
+          "en": "He adjusts the water temperature on the thermostat perfectly.",
+          "ar": "يَضْبِطُ دَرَجَةَ حَرَارَةِ المِيَاهِ عَلَى المُنَظِّمِ الحَرَارِيِّ بِمِثَالِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_repair_017",
+      "infinitive": "prüfen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "kontrollieren, ob alles einwandfrei funktioniert",
+      "meaning_en": "to check, inspect, test",
+      "meaning_ar": "يَفْحَصُ، يَتَأَكَّدُ مِنْ سَلَامَةِ الشَّيْء",
+      "tenses": {
+        "present": {
+          "ich": "prüfe",
+          "du": "prüfst",
+          "er_sie_es": "prüft",
+          "wir": "prüfen",
+          "ihr": "prüft",
+          "sie_Sie": "prüfen"
+        },
+        "past_simple": {
+          "ich": "prüfte",
+          "du": "prüftest",
+          "er_sie_es": "prüfte",
+          "wir": "prüften",
+          "ihr": "prüftet",
+          "sie_Sie": "prüften"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geprüft"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Akkusativ",
+          "meaning_ar": "يفحص للتأكد من"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Vor dem Verlassen des Hauses prüft er alle Wasserhähne.",
+          "en": "Before leaving the house, he checks all water faucets.",
+          "ar": "يَفْحَصُ جَمِيعَ صَنَابِيرِ المِيَاهِ قَبْلَ مُغَادَرَةِ المَنْزِل."
+        }
+      ]
+    },
+    {
+      "id": "verb_repair_018",
+      "infinitive": "renovieren",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "einen Raum oder ein Gebäude durch Arbeiten wieder in guten Zustand bringen",
+      "meaning_en": "to renovate, redecorate",
+      "meaning_ar": "يُجَدِّدُ، يُرَمِّمُ المَنْزِل",
+      "tenses": {
+        "present": {
+          "ich": "renoviere",
+          "du": "renovierst",
+          "er_sie_es": "renoviert",
+          "wir": "renovieren",
+          "ihr": "renoviert",
+          "sie_Sie": "renovieren"
+        },
+        "past_simple": {
+          "ich": "renovierte",
+          "du": "renoviertest",
+          "er_sie_es": "renovierte",
+          "wir": "renovierten",
+          "ihr": "renoviertet",
+          "sie_Sie": "renovierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "renoviert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يجدد في"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Im Frühling renovieren wir die Küche von Grund auf.",
+          "en": "In spring, we are renovating the kitchen from the ground up.",
+          "ar": "فِي فَصْلِ الرَّبِيعِ، نُجَدِّدُ المَطْبَخَ شَامِلًا مِنْ أَسَاسِه."
+        }
+      ]
+    },
+    {
+      "id": "verb_repair_019",
+      "infinitive": "zusammenbauen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "mehrere Einzelteile zu einem Ganzen zusammensetzen",
+      "meaning_en": "to assemble, put together",
+      "meaning_ar": "يُجَمِّعُ، يُرَكِّبُ الأَجْزَاء",
+      "tenses": {
+        "present": {
+          "ich": "baue zusammen",
+          "du": "baust zusammen",
+          "er_sie_es": "baut zusammen",
+          "wir": "bauen zusammen",
+          "ihr": "baut zusammen",
+          "sie_Sie": "bauen zusammen"
+        },
+        "past_simple": {
+          "ich": "baute zusammen",
+          "du": "bautest zusammen",
+          "er_sie_es": "baute zusammen",
+          "wir": "bauten zusammen",
+          "ihr": "bautet zusammen",
+          "sie_Sie": "bauten zusammen"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "zusammengebaut"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "nach",
+          "case": "Dativ",
+          "meaning_ar": "يركب حسب الدليل"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Gemeinsam bauten sie den Kleiderschrank nach der Anleitung zusammen.",
+          "en": "Together, they assembled the wardrobe according to the instructions.",
+          "ar": "جَمَّعُوا خِزَانَةَ المَلَابِسِ مَعًا وِفْقًا لِدَلِيلِ الإِرْشَادَات."
+        }
+      ]
+    },
+    {
+      "id": "verb_repair_020",
+      "infinitive": "montieren",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "ein Bauteil oder eine Lampe an der vorgesehenen Stelle anbringen",
+      "meaning_en": "to install, mount, fit",
+      "meaning_ar": "يُرَكِّبُ، يُثَبِّتُ الجِهَاز",
+      "tenses": {
+        "present": {
+          "ich": "montiere",
+          "du": "montierst",
+          "er_sie_es": "montiert",
+          "wir": "montieren",
+          "ihr": "montiert",
+          "sie_Sie": "montieren"
+        },
+        "past_simple": {
+          "ich": "montierte",
+          "du": "montiertest",
+          "er_sie_es": "montierte",
+          "wir": "montierten",
+          "ihr": "montiertet",
+          "sie_Sie": "montierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "montiert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Dativ",
+          "meaning_ar": "يركب على"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Elektriker montiert die neue Deckenlampe im Flur.",
+          "en": "The electrician mounts the new ceiling lamp in the hallway.",
+          "ar": "يُرَكِّبُ الكَهْرَبَائِيُّ مِصْبَاحَ السَّقْفِ الجَدِيدَ فِي المَمَرّ."
+        }
+      ]
+    }
+  ]
+}

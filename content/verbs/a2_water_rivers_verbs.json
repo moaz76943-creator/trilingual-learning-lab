@@ -1,0 +1,909 @@
+{
+  "category_id": "a2_water_rivers_verbs",
+  "category_name_de": "Wasser-, Fluss- und Schifffahrtsverben",
+  "category_name_en": "Water, River & Navigation Verbs",
+  "category_name_ar": "أفعال المياه والأنهار والإبحار",
+  "level": "A1/A2",
+  "verbs": [
+    {
+      "id": "verb_water_001",
+      "infinitive": "fließen",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "sich als Wasser stetig im Flussbett fortbewegen",
+      "meaning_en": "to flow smoothly",
+      "meaning_ar": "يَجْرِي، يَنْسَابُ المَاءُ العَذْب",
+      "tenses": {
+        "present": {
+          "ich": "fließe",
+          "du": "fließt",
+          "er_sie_es": "fließt",
+          "wir": "fließen",
+          "ihr": "fließt",
+          "sie_Sie": "fließen"
+        },
+        "past_simple": {
+          "ich": "floss",
+          "du": "flossest",
+          "er_sie_es": "floss",
+          "wir": "flossen",
+          "ihr": "flosst",
+          "sie_Sie": "flossen"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "geflossen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "durch",
+          "case": "Akkusativ",
+          "meaning_ar": "يجري عبر الوادي"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der klare Gebirgsfluss fließt ruhig durch das grüne Tal.",
+          "en": "The clear mountain river flows calmly through the green valley.",
+          "ar": "يَنْسَابُ نَهْرُ الجَبَلِ الصَّافِي بِهُدُوءٍ عَبْرَ الوَادِي الأَخْضَر."
+        }
+      ]
+    },
+    {
+      "id": "verb_water_002",
+      "infinitive": "strömen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "mit kräftiger Bewegung in großer Menge fließen",
+      "meaning_en": "to stream, gush forcefully",
+      "meaning_ar": "يَتَدَفَّقُ، يَنْدَفِعُ التَّيَّارُ بِقُوَّة",
+      "tenses": {
+        "present": {
+          "ich": "ströme",
+          "du": "strömst",
+          "er_sie_es": "strömt",
+          "wir": "strömen",
+          "ihr": "strömt",
+          "sie_Sie": "strömen"
+        },
+        "past_simple": {
+          "ich": "strömte",
+          "du": "strömtest",
+          "er_sie_es": "strömte",
+          "wir": "strömten",
+          "ihr": "strömtet",
+          "sie_Sie": "strömten"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "geströmt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Akkusativ",
+          "meaning_ar": "يتدفق إلى البحر"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Nach dem Regen strömt das Wasser mächtig in den See.",
+          "en": "After the rain, the water streams powerfully into the lake.",
+          "ar": "يَتَدَفَّقُ المَاءُ بِغَزَارَةٍ وَقُوَّةٍ فِي البُحَيْرَةِ بَعْدَ المَطَر."
+        }
+      ]
+    },
+    {
+      "id": "verb_water_003",
+      "infinitive": "plätschern",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "in kleinen, leisen Wellen sanftes Geräusch machen",
+      "meaning_en": "to babble, splash gently",
+      "meaning_ar": "يَخْرْخِرُ، يَتَرَقْرَقُ المَاءُ بِصَوْتٍ عَذْب",
+      "tenses": {
+        "present": {
+          "ich": "plätschere",
+          "du": "plätscherst",
+          "er_sie_es": "plätschert",
+          "wir": "plätschern",
+          "ihr": "plätschert",
+          "sie_Sie": "plätschern"
+        },
+        "past_simple": {
+          "ich": "plätscherte",
+          "du": "plätschertest",
+          "er_sie_es": "plätscherte",
+          "wir": "plätscherten",
+          "ihr": "plätschertet",
+          "sie_Sie": "plätscherten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geplätschert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "über",
+          "case": "Akkusativ",
+          "meaning_ar": "يترقرق فوق الحصى"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Das Wasser des kleinen Bachs plätschert beruhigend über glatte Steine.",
+          "en": "The water of the small brook babbles soothingly over smooth stones.",
+          "ar": "يَتَرَقْرَقُ مَاءُ الجَدْوَلِ الصَّغِيرِ بِعُذُوبَةٍ مُرِيحَةٍ فَوْقَ الحِجَارَةِ المَلْسَاء."
+        }
+      ]
+    },
+    {
+      "id": "verb_water_004",
+      "infinitive": "entspringen",
+      "verb_type": "irregular",
+      "level": "B1",
+      "meaning_de": "als Quelle aus dem Felsen oder Erdreich hervortreten",
+      "meaning_en": "to spring from, originate",
+      "meaning_ar": "يَنْبُعُ، يَتَفَجَّرُ مِنَ الأَرْضِ أَوِ الجَبَل",
+      "tenses": {
+        "present": {
+          "ich": "entspringe",
+          "du": "entspringst",
+          "er_sie_es": "entspringt",
+          "wir": "entspringen",
+          "ihr": "entspringt",
+          "sie_Sie": "entspringen"
+        },
+        "past_simple": {
+          "ich": "entsprang",
+          "du": "entsprangst",
+          "er_sie_es": "entsprang",
+          "wir": "entsprangen",
+          "ihr": "entsprangt",
+          "sie_Sie": "entsprangen"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "entsprungen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "ينبع في الجبال العالية"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der majestätische Fluss entspringt hoch oben in den schneebedeckten Bergen.",
+          "en": "The majestic river springs high up in the snow-covered mountains.",
+          "ar": "يَنْبُعُ النَّهْرُ العَظِيمُ مِنْ أَعَالِي الجِبَالِ المُكَلَّلَةِ بِالثَّلْج."
+        }
+      ]
+    },
+    {
+      "id": "verb_water_005",
+      "infinitive": "münden",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "als Fluss in einen größeren See oder das Meer fließen",
+      "meaning_en": "to flow into, empty into sea",
+      "meaning_ar": "يَصُبُّ فِي بَحْرٍ أَوْ بُحَيْرَة",
+      "tenses": {
+        "present": {
+          "ich": "münde",
+          "du": "mündest",
+          "er_sie_es": "mündet",
+          "wir": "münden",
+          "ihr": "mündet",
+          "sie_Sie": "münden"
+        },
+        "past_simple": {
+          "ich": "mündete",
+          "du": "mündetest",
+          "er_sie_es": "mündete",
+          "wir": "mündeten",
+          "ihr": "mündetet",
+          "sie_Sie": "mündeten"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "gemündet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Akkusativ",
+          "meaning_ar": "يصب في المحيط"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Strom mündet nach hunderten Kilometern in den weiten Ozean.",
+          "en": "After hundreds of kilometers, the river empties into the vast ocean.",
+          "ar": "يَصُبُّ النَّهْرُ بَعْدَ مِئَاتِ الكِيلُومِتْرَاتِ فِي المُحِيطِ الوَاسِع."
+        }
+      ]
+    },
+    {
+      "id": "verb_water_006",
+      "infinitive": "schwimmen",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "sich mit Schwimmzügen durch das Wasser bewegen",
+      "meaning_en": "to swim",
+      "meaning_ar": "يَسْبَحُ، يَعُومُ فِي المَاء",
+      "tenses": {
+        "present": {
+          "ich": "schwimme",
+          "du": "schwimmst",
+          "er_sie_es": "schwimmt",
+          "wir": "schwimmen",
+          "ihr": "schwimmt",
+          "sie_Sie": "schwimmen"
+        },
+        "past_simple": {
+          "ich": "schwamm",
+          "du": "schwammst",
+          "er_sie_es": "schwamm",
+          "wir": "schwammen",
+          "ihr": "schwammt",
+          "sie_Sie": "schwammen"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "geschwommen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "im",
+          "case": "Dativ",
+          "meaning_ar": "يسبح في البحيرة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Im Sommer schwimmen die Dorfkinder gerne im kühlen Badesee.",
+          "en": "In summer, the village children like to swim in the cool lake.",
+          "ar": "يَسْبَحُ أَطْفَالُ القَرْيَةِ فِي الصَّيْفِ بِسَعَادَةٍ فِي البُحَيْرَةِ البَارِدَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_water_007",
+      "infinitive": "tauchen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "vollständig unter die Wasseroberfläche sinken",
+      "meaning_en": "to dive under water",
+      "meaning_ar": "يَغُوصُ تَحْتَ المَاء",
+      "tenses": {
+        "present": {
+          "ich": "tauche",
+          "du": "tauchst",
+          "er_sie_es": "taucht",
+          "wir": "tauchen",
+          "ihr": "taucht",
+          "sie_Sie": "tauchen"
+        },
+        "past_simple": {
+          "ich": "tauchte",
+          "du": "tauchtest",
+          "er_sie_es": "tauchte",
+          "wir": "tauchten",
+          "ihr": "tauchtet",
+          "sie_Sie": "tauchten"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "getaucht"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "nach",
+          "case": "Dativ",
+          "meaning_ar": "يغوص بحثاً عن الأصداف"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er tauchte mit einer Taucherbrille nach bunten Kieselsteinen.",
+          "en": "With swimming goggles, he dived for colorful pebbles.",
+          "ar": "غَاصَ بِنَظَّارَاتِ الغَوْصِ بَحْثًا عَنِ الحَصَى المُلَوَّن."
+        }
+      ]
+    },
+    {
+      "id": "verb_water_008",
+      "infinitive": "segeln",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "ein Boot mithilfe der Windkraft fortbewegen",
+      "meaning_en": "to sail",
+      "meaning_ar": "يُبْحِرُ بِالشِّرَاع",
+      "tenses": {
+        "present": {
+          "ich": "segle",
+          "du": "segelst",
+          "er_sie_es": "segelt",
+          "wir": "segeln",
+          "ihr": "segelt",
+          "sie_Sie": "segeln"
+        },
+        "past_simple": {
+          "ich": "segelte",
+          "du": "segeltest",
+          "er_sie_es": "segelte",
+          "wir": "segelten",
+          "ihr": "segeltet",
+          "sie_Sie": "segelten"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "gesegelt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "über",
+          "case": "Akkusativ",
+          "meaning_ar": "يبحر عبر البحيرة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die weißen Segelboote segeln anmutig über den glitzernden See.",
+          "en": "The white sailboats sail gracefully across the glittering lake.",
+          "ar": "تُبْحِرُ القَوَارِبُ الشِّرَاعِيَّةُ البَيْضَاءُ بِرَشَاقَةٍ عَبْرَ البُحَيْرَةِ المُتَلَأْلِئَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_water_009",
+      "infinitive": "steuern",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "das Ruder eines Schiffes führen und den Kurs halten",
+      "meaning_en": "to steer, navigate a ship",
+      "meaning_ar": "يَقُودُ الدَّفَّة، يُوَجِّهُ السَّفِينَة",
+      "tenses": {
+        "present": {
+          "ich": "steuere",
+          "du": "steuerst",
+          "er_sie_es": "steuert",
+          "wir": "steuern",
+          "ihr": "steuert",
+          "sie_Sie": "steuern"
+        },
+        "past_simple": {
+          "ich": "steuerte",
+          "du": "steuertest",
+          "er_sie_es": "steuerte",
+          "wir": "steuerten",
+          "ihr": "steuertet",
+          "sie_Sie": "steuerten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gesteuert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Akkusativ",
+          "meaning_ar": "يوجه إلى الميناء"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Kapitän steuert das große Fährschiff sicher in den Hafen.",
+          "en": "The captain steers the large ferry safely into the port.",
+          "ar": "يُوَجِّهُ القُبْطَانُ العَبَّارَةَ الكَبِيرَةَ بِأَمَانٍ إِلَى المِينَاء."
+        }
+      ]
+    },
+    {
+      "id": "verb_water_010",
+      "infinitive": "ankern",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "den Anker ins Wasser werfen, um das Schiff an Ort und Stelle zu halten",
+      "meaning_en": "to anchor, cast anchor",
+      "meaning_ar": "يُلْقِي المِرْسَاة، يَرْسُو",
+      "tenses": {
+        "present": {
+          "ich": "ankere",
+          "du": "ankerst",
+          "er_sie_es": "ankert",
+          "wir": "ankern",
+          "ihr": "ankert",
+          "sie_Sie": "ankern"
+        },
+        "past_simple": {
+          "ich": "ankerte",
+          "du": "ankertest",
+          "er_sie_es": "ankerte",
+          "wir": "ankerten",
+          "ihr": "ankertet",
+          "sie_Sie": "ankerten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geankert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يرسو في الخليج"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Das Segelschiff ankert in der ruhigen, windgeschützten Bucht.",
+          "en": "The sailing ship anchors in the quiet, sheltered bay.",
+          "ar": "تَرْسُو السَّفِينَةُ الشِّرَاعِيَّةُ فِي الخَلِيجِ الهَادِئِ المَحْمِيِّ مِنَ الرِّيَاح."
+        }
+      ]
+    },
+    {
+      "id": "verb_water_011",
+      "infinitive": "anlegen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "mit dem Boot an den Anlegesteg heranfahren und festmachen",
+      "meaning_en": "to dock, berth at pier",
+      "meaning_ar": "يَرْسُو، يَحُطُّ عِنْدَ رَصِيفِ المِينَاء",
+      "tenses": {
+        "present": {
+          "ich": "lege an",
+          "du": "legst an",
+          "er_sie_es": "legt an",
+          "wir": "legen an",
+          "ihr": "legt an",
+          "sie_Sie": "legen an"
+        },
+        "past_simple": {
+          "ich": "legte an",
+          "du": "legtest an",
+          "er_sie_es": "legte an",
+          "wir": "legten an",
+          "ihr": "legtet an",
+          "sie_Sie": "legten an"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "angelegt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "am",
+          "case": "Dativ",
+          "meaning_ar": "يرسو عند الرصيف"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Das Ausflugsschiff legt pünktlich am hölzernen Steg an.",
+          "en": "The excursion boat docks punctually at the wooden pier.",
+          "ar": "يَرْسُو قَارِبُ الرِّحْلَاتِ فِي المَوْعِدِ تَمَامًا عِنْدَ الرَّصِيفِ الخَشَبِيّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_water_012",
+      "infinitive": "ablegen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "die Taue lösen und die Fahrt auf dem Wasser beginnen",
+      "meaning_en": "to set sail, cast off",
+      "meaning_ar": "يَنْطَلِقُ مُبْحِرًا، يُقْلِعُ عَنِ الشَّاطِئ",
+      "tenses": {
+        "present": {
+          "ich": "lege ab",
+          "du": "legst ab",
+          "er_sie_es": "legt ab",
+          "wir": "legen ab",
+          "ihr": "legt ab",
+          "sie_Sie": "legen ab"
+        },
+        "past_simple": {
+          "ich": "legte ab",
+          "du": "legtest ab",
+          "er_sie_es": "legte ab",
+          "wir": "legten ab",
+          "ihr": "legtet ab",
+          "sie_Sie": "legten ab"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "abgelegt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "vom",
+          "case": "Dativ",
+          "meaning_ar": "ينطلق من الرصيف"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Das Boot legt um acht Uhr morgens vom Ufer ab.",
+          "en": "The boat casts off from the bank at eight in the morning.",
+          "ar": "يَنْطَلِقُ القَارِبُ فِي السَّاعَةِ الثَّامِنَةِ صَبَاحًا مُبْحِرًا مِنَ الضَّفَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_water_013",
+      "infinitive": "überqueren",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "einen Fluss mit der Fähre oder über die Brücke passieren",
+      "meaning_en": "to cross a river",
+      "meaning_ar": "يَعْبُرُ النَّهْرَ عَبْرَ الجِسْرِ أَوِ المَعَدِّيَة",
+      "tenses": {
+        "present": {
+          "ich": "überquere",
+          "du": "überquerst",
+          "er_sie_es": "überquert",
+          "wir": "überqueren",
+          "ihr": "überquert",
+          "sie_Sie": "überqueren"
+        },
+        "past_simple": {
+          "ich": "überquerte",
+          "du": "überquertest",
+          "er_sie_es": "überquerte",
+          "wir": "überquerten",
+          "ihr": "überquertet",
+          "sie_Sie": "überquerten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "überquert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يعبر بواسطة العبارة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Mit der kleinen Fähre überqueren die Passagiere den Fluss in wenigen Minuten.",
+          "en": "With the small ferry, passengers cross the river in a few minutes.",
+          "ar": "يَعْبُرُ الرُّكَّابُ النَّهْرَ فِي دَقَائِقَ مَعْدُودَةٍ بَاسْتِخْدَامِ المَعَدِّيَةِ الصَّغِيرَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_water_014",
+      "infinitive": "spiegeln",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "das Himmelsblau oder Bäume auf der glatten Wasseroberfläche abbilden",
+      "meaning_en": "to reflect on water surface",
+      "meaning_ar": "يَعْكِسُ صُورَةَ السَّمَاءِ عَلَى صَفْحَةِ المَاءِ",
+      "tenses": {
+        "present": {
+          "ich": "spiegele",
+          "du": "spiegelst",
+          "er_sie_es": "spiegelt",
+          "wir": "spiegeln",
+          "ihr": "spiegelt",
+          "sie_Sie": "spiegeln"
+        },
+        "past_simple": {
+          "ich": "spiegelte",
+          "du": "spiegeltest",
+          "er_sie_es": "spiegelte",
+          "wir": "spiegelten",
+          "ihr": "spiegeltet",
+          "sie_Sie": "spiegelten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gespiegelt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Dativ",
+          "meaning_ar": "ينعكس على صفحة البحيرة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die weiße Wolke spiegelt sich friedlich auf der glatten Oberfläche des Sees.",
+          "en": "The white cloud reflects peacefully on the smooth surface of the lake.",
+          "ar": "تَنْعَكِسُ السَّحَابَةُ البَيْضَاءُ بِسَلَامٍ عَلَى صَفْحَةِ البُحَيْرَةِ المَلْسَاء."
+        }
+      ]
+    },
+    {
+      "id": "verb_water_015",
+      "infinitive": "verdampfen",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "flüssiges Wasser durch Hitze in gasförmigen Dampf verwandeln",
+      "meaning_en": "to evaporate",
+      "meaning_ar": "يَتَبَخَّرُ المَاء",
+      "tenses": {
+        "present": {
+          "ich": "verdampfe",
+          "du": "verdampfst",
+          "er_sie_es": "verdampft",
+          "wir": "verdampfen",
+          "ihr": "verdampft",
+          "sie_Sie": "verdampfen"
+        },
+        "past_simple": {
+          "ich": "verdampfte",
+          "du": "verdampftest",
+          "er_sie_es": "verdampfte",
+          "wir": "verdampften",
+          "ihr": "verdampftet",
+          "sie_Sie": "verdampften"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "verdampft"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Akkusativ",
+          "meaning_ar": "يتبخر في الهواء"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Unter der heißen Sommersonne verdampft ein Teil des Wassers und bildet Wolken.",
+          "en": "Under the hot summer sun, part of the water evaporates and forms clouds.",
+          "ar": "يَتَبَخَّرُ جُزْءٌ مِنَ المَاءِ تَحْتَ شَمْسِ الصَّيْفِ الحَارَّةِ لِيُشَكِّلَ السُّحُب."
+        }
+      ]
+    },
+    {
+      "id": "verb_water_016",
+      "infinitive": "trinken",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "frisches Quellwasser schlucken, um den Durst zu stillen",
+      "meaning_en": "to drink fresh water",
+      "meaning_ar": "يَشْرَبُ مَاءً زُلَالًا",
+      "tenses": {
+        "present": {
+          "ich": "trinke",
+          "du": "trinkst",
+          "er_sie_es": "trinkt",
+          "wir": "trinken",
+          "ihr": "trinkt",
+          "sie_Sie": "trinken"
+        },
+        "past_simple": {
+          "ich": "trank",
+          "du": "trankst",
+          "er_sie_es": "trank",
+          "wir": "tranken",
+          "ihr": "trankt",
+          "sie_Sie": "tranken"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "getrunken"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "aus",
+          "case": "Dativ",
+          "meaning_ar": "يشرب من الينبوع"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Wanderer trinkt dankbar einen Schluck kühles Wasser aus der Bergquelle.",
+          "en": "The hiker gratefully drinks a sip of cool water from the mountain spring.",
+          "ar": "يَشْرَبُ الرَّحَّالَةُ بِشُكْرٍ رَشْفَةَ مَاءٍ بَارِدٍ مِنْ يَنْبُوعِ الجَبَل."
+        }
+      ]
+    },
+    {
+      "id": "verb_water_017",
+      "infinitive": "schöpfen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Wasser mit einem Becher oder den Händen aus dem Brunnen heben",
+      "meaning_en": "to draw water, scoop",
+      "meaning_ar": "يَغْتَرِفُ، يَسْتَقِي المَاءَ بِيَدَيْه",
+      "tenses": {
+        "present": {
+          "ich": "schöpfe",
+          "du": "schöpfst",
+          "er_sie_es": "schöpft",
+          "wir": "schöpfen",
+          "ihr": "schöpft",
+          "sie_Sie": "schöpfen"
+        },
+        "past_simple": {
+          "ich": "schöpfte",
+          "du": "schöpftest",
+          "er_sie_es": "schöpfte",
+          "wir": "schöpften",
+          "ihr": "schöpftet",
+          "sie_Sie": "schöpften"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geschöpft"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "aus",
+          "case": "Dativ",
+          "meaning_ar": "يغترف من البئر"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er schöpft klares Wasser mit beiden Händen aus dem Brunnen.",
+          "en": "He scoops clear water with both hands from the well.",
+          "ar": "يَغْتَرِفُ المَاءَ الصَّافِيَ بِكِلْتَا يَدَيْهِ مِنَ البِئْر."
+        }
+      ]
+    },
+    {
+      "id": "verb_water_018",
+      "infinitive": "bewässern",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Felder und Gärten mit Flusswasser versorgen",
+      "meaning_en": "to irrigate, water crops",
+      "meaning_ar": "يَسْقِي، يَرْوِي الحُقُولَ بِمَاءِ النَّهْر",
+      "tenses": {
+        "present": {
+          "ich": "bewässere",
+          "du": "bewässerst",
+          "er_sie_es": "bewässert",
+          "wir": "bewässern",
+          "ihr": "bewässert",
+          "sie_Sie": "bewässern"
+        },
+        "past_simple": {
+          "ich": "bewässerte",
+          "du": "bewässertest",
+          "er_sie_es": "bewässerte",
+          "wir": "bewässerten",
+          "ihr": "bewässertet",
+          "sie_Sie": "bewässerten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "bewässert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يروي بقنوات مائية"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Bauern bewässern ihre Olivenhaine mit Wasser aus dem nahen Fluss.",
+          "en": "The farmers irrigate their olive groves with water from the nearby river.",
+          "ar": "يَرْوِي الفَلَّاحُونَ بَسَاتِينَ الزَّيْتُونِ بِمِيَاهِ النَّهْرِ القَرِيب."
+        }
+      ]
+    },
+    {
+      "id": "verb_water_019",
+      "infinitive": "fischen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "Fische mit Netz oder Angel fangen",
+      "meaning_en": "to fish, catch fish",
+      "meaning_ar": "يَصِيدُ السَّمَك",
+      "tenses": {
+        "present": {
+          "ich": "fische",
+          "du": "fischst",
+          "er_sie_es": "fischt",
+          "wir": "fischen",
+          "ihr": "fischt",
+          "sie_Sie": "fischen"
+        },
+        "past_simple": {
+          "ich": "fischte",
+          "du": "fischtest",
+          "er_sie_es": "fischte",
+          "wir": "fischten",
+          "ihr": "fischtet",
+          "sie_Sie": "fischten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gefischt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "nach",
+          "case": "Dativ",
+          "meaning_ar": "يصطاد في البحيرة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Fischer fischt am frühen Morgen friedlich am Seeufer.",
+          "en": "The fisherman fishes peacefully on the lakeshore early in the morning.",
+          "ar": "يَصِيدُ الصَّيَّادُ الأَسْمَاكَ بِهُدُوءٍ صَبَاحًا عِنْدَ شَاطِئِ البُحَيْرَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_water_020",
+      "infinitive": "rauschen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "das gleichmäßige, mächtige Geräusch fallenden oder strömenden Wassers machen",
+      "meaning_en": "to roar, rush like water",
+      "meaning_ar": "يَدْوِي، يُهَدْهِدُ بِخَرِيرِ المَاءِ وَهَدِيرِه",
+      "tenses": {
+        "present": {
+          "ich": "rausche",
+          "du": "rauschst",
+          "er_sie_es": "rauscht",
+          "wir": "rauschen",
+          "ihr": "rauscht",
+          "sie_Sie": "rauschen"
+        },
+        "past_simple": {
+          "ich": "rauschte",
+          "du": "rauschtest",
+          "er_sie_es": "rauschte",
+          "wir": "rauschten",
+          "ihr": "rauschtet",
+          "sie_Sie": "rauschten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gerauscht"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يدوي في الوادي"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Das beruhigende Rauschen der Meereswellen wiegt den Geist in sanften Frieden.",
+          "en": "The soothing roar of the sea waves lulls the mind into gentle peace.",
+          "ar": "يَبْعَثُ هَدِيرُ أَمْوَاجِ البَحْرِ السَّكِينَةَ وَالسَّلَامَ فِي رُوحِ الإِنْسَان."
+        }
+      ]
+    }
+  ]
+}

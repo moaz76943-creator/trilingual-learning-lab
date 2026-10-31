@@ -1,0 +1,409 @@
+{
+  "category_id": "public_transit_urban_a2",
+  "category_name_de": "Öffentlicher Nahverkehr & Urbane Mobilität",
+  "category_name_en": "Public Transit & Urban Commute",
+  "category_name_ar": "المُوَاصَلَاتُ العَامَّةُ وَالتَّنَقُّلُ الحَضَرِيّ",
+  "level": "A2+",
+  "items": [
+    {
+      "id": "public_transit_001",
+      "term_de": "die U-Bahn",
+      "plural_de": "die U-Bahnen",
+      "term_en": "subway, underground, metro",
+      "term_ar": "قِطَارُ الأَنْفَاق، المِتْرُو",
+      "pronunciation_de": "[ˈuːˌbaːn]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die U-Bahn bringt Pendler schnell und staufrei durch die Metropole.",
+          "en": "The subway takes commuters quickly and traffic-free through the metropolis.",
+          "ar": "يَنْقُلُ المِتْرُو الرُّكَّابَ سَرِيعًا وَبِلَا ازْدِحَامٍ عَبْرَ المَدِينَةِ الكُبْرَى."
+        }
+      ]
+    },
+    {
+      "id": "public_transit_002",
+      "term_de": "die Straßenbahn",
+      "plural_de": "die Straßenbahnen",
+      "term_en": "tram, streetcar",
+      "term_ar": "التِّرَام، القِطَارُ الكَهْرَبَائِيُّ الخَفِيف",
+      "pronunciation_de": "[ˈʃtʁaːsn̩ˌbaːn]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Straßenbahn gleitet leise über die Schienen der Einkaufsstraße.",
+          "en": "The tram glides quietly along the rails of the shopping street.",
+          "ar": "يَنْسَابُ التِّرَامُ بِهُدُوءٍ فَوْقَ قُضْبَانِ شَارِعِ التَّسَوُّق."
+        }
+      ]
+    },
+    {
+      "id": "public_transit_003",
+      "term_de": "der Busbahnhof",
+      "plural_de": "die Busbahnhöfe",
+      "term_en": "bus terminal, central bus station",
+      "term_ar": "مَحَطَّةُ الحَافِلَاتِ المَرْكَزِيَّة",
+      "pronunciation_de": "[ˈbʊsbaːnˌhoːf]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Am Busbahnhof starten alle Überlandbusse pünktlich nach Fahrplan.",
+          "en": "At the bus terminal, all intercity buses depart punctually according to schedule.",
+          "ar": "تَنْطَلِقُ جَمِيعُ حَافِلَاتِ السَّفَرِ مِنَ المَحَطَّةِ المَرْكَزِيَّةِ بِدِقَّةٍ وَفْقَ الجَدْوَل."
+        }
+      ]
+    },
+    {
+      "id": "public_transit_004",
+      "term_de": "die Haltestelle",
+      "plural_de": "die Haltestellen",
+      "term_en": "stop, bus stop, tram stop",
+      "term_ar": "مَوْقِفُ الحَافِلَة، المَحَطَّة",
+      "pronunciation_de": "[ˈhaltəˌʃtɛlə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Haltestelle ist mit einem überdachten Unterstand ausgestattet.",
+          "en": "The stop is equipped with a covered shelter.",
+          "ar": "المَوْقِفُ مُجَهَّزٌ بِمِظَلَّةٍ تَحْمِي مِنَ المَطَرِ وَالشَّمْس."
+        }
+      ]
+    },
+    {
+      "id": "public_transit_005",
+      "term_de": "der Fahrplan",
+      "plural_de": "die Fahrpläne",
+      "term_en": "timetable, schedule",
+      "term_ar": "جَدْوَلُ المَوَاعِيد، مُخَطَّطُ الرِّحْلَات",
+      "pronunciation_de": "[ˈfaːɐ̯ˌplaːn]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der Fahrplan zeigt die genauen Abfahrtszeiten aller Züge an.",
+          "en": "The timetable shows the exact departure times of all trains.",
+          "ar": "يُوَضِّحُ جَدْوَلُ المَوَاعِيدِ أَوْقَاتَ انْطِلَاقِ كُلِّ القِطَارَاتِ بِدِقَّة."
+        }
+      ]
+    },
+    {
+      "id": "public_transit_006",
+      "term_de": "der Fahrschein",
+      "plural_de": "die Fahrscheine",
+      "term_en": "ticket, fare ticket",
+      "term_ar": "تَذْكِرَةُ السَّفَر، بِطَاقَةُ الرُّكُوب",
+      "pronunciation_de": "[ˈfaːɐ̯ˌʃaɪ̯n]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Bitte halten Sie Ihren gültigen Fahrschein zur Kontrolle bereit.",
+          "en": "Please have your valid ticket ready for inspection.",
+          "ar": "يُرْجَى إِبْرَازُ تَذْكِرَةِ السَّفَرِ الصَّالِحَةِ عِنْدَ التَّفْتِيش."
+        }
+      ]
+    },
+    {
+      "id": "public_transit_007",
+      "term_de": "der Fahrkartenautomat",
+      "plural_de": "die Fahrkartenautomaten",
+      "term_en": "ticket vending machine",
+      "term_ar": "جِهَازُ بَيْعِ التَّذَاكِرِ الآلِيّ",
+      "pronunciation_de": "[ˈfaːɐ̯kaʁtn̩ʔaʊ̯toˌmaːt]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Am Fahrkartenautomaten kann man bequem mit Karte oder Bargeld zahlen.",
+          "en": "At the ticket vending machine, you can pay conveniently with card or cash.",
+          "ar": "يُمْكِنُ الدَّفْعُ عِنْدَ جِهَازِ التَّذَاكِرِ بِسُهُولَةٍ بِالبِطَاقَةِ أَوِ النَّقْد."
+        }
+      ]
+    },
+    {
+      "id": "public_transit_008",
+      "term_de": "das Gleis",
+      "plural_de": "die Gleise",
+      "term_en": "track, railway track",
+      "term_ar": "القَضِيب، مَسَارُ السِّكَّةِ الحَدِيدِيَّة",
+      "pronunciation_de": "[ɡlaɪ̯s]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Der Schnellzug fährt heute von Gleis vier ab.",
+          "en": "The express train departs from track four today.",
+          "ar": "يَنْطَلِقُ القِطَارُ السَّرِيعُ اليَوْمَ مِنَ المَسَارِ رَقْمِ أَرْبَعَة."
+        }
+      ]
+    },
+    {
+      "id": "public_transit_009",
+      "term_de": "der Bahnsteig",
+      "plural_de": "die Bahnsteige",
+      "term_en": "platform, train platform",
+      "term_ar": "رَصِيفُ القِطَار",
+      "pronunciation_de": "[ˈbaːnˌʃtaɪ̯k]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Zahlreiche Reisende warten geduldig auf dem sauberen Bahnsteig.",
+          "en": "Numerous travelers wait patiently on the clean platform.",
+          "ar": "يَنْتَظِرُ كَثِيرٌ مِنَ المُسَافِرِينَ بِصَبْرٍ عَلَى رَصِيفِ القِطَارِ النَّظِيف."
+        }
+      ]
+    },
+    {
+      "id": "public_transit_010",
+      "term_de": "die Durchsage",
+      "plural_de": "die Durchsagen",
+      "term_en": "announcement, public address",
+      "term_ar": "الإِعْلَانُ الصَّوْتِيّ، النِّدَاء",
+      "pronunciation_de": "[ˈdʊʁçˌzaːɡə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die freundliche Durchsage informierte über den nächsten Zwischenhalt.",
+          "en": "The friendly announcement informed passengers about the next stop.",
+          "ar": "أَعْلَنَ الصَّوْتُ الوَاضِحُ عَنِ المَحَطَّةِ التَّالِيَةِ لِلتَّوَقُّف."
+        }
+      ]
+    },
+    {
+      "id": "public_transit_011",
+      "term_de": "die Verspätung",
+      "plural_de": "die Verspätungen",
+      "term_en": "delay",
+      "term_ar": "التَّأْخِير، فَوَاتُ المَوْعِد",
+      "pronunciation_de": "[fɛɐ̯ˈʃpɛːtʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Wegen Bauarbeiten hatte die Regionalbahn zehn Minuten Verspätung.",
+          "en": "Due to construction work, the regional train was ten minutes late.",
+          "ar": "بِسَبَبِ أَعْمَالِ الصِّيَانَةِ تَأَخَّرَ القِطَارُ الإِقْلِيمِيُّ عَشْرَ دَقَائِق."
+        }
+      ]
+    },
+    {
+      "id": "public_transit_012",
+      "term_de": "der Anschluss",
+      "plural_de": "die Anschlüsse",
+      "term_en": "connection, connecting train/bus",
+      "term_ar": "قِطَارُ المُتَابَعَة، الوَصْلَةُ التَّالِيَة",
+      "pronunciation_de": "[ˈanˌʃlʊs]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Wir haben glücklicherweise unseren Anschluss nach Hamburg erreicht.",
+          "en": "Fortunately, we caught our connecting train to Hamburg.",
+          "ar": "لَحِقْنَا لِحُسْنِ الحَظِّ بِقِطَارِ المُتَابَعَةِ المُتَّجِهِ إِلَى هَامْبُورْغ."
+        }
+      ]
+    },
+    {
+      "id": "public_transit_013",
+      "term_de": "das Abteil",
+      "plural_de": "die Abteile",
+      "term_en": "train compartment",
+      "term_ar": "مَقْصُورَةُ القِطَار",
+      "pronunciation_de": "[apˈtaɪ̯l]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das ruhige Abteil bot den idealen Platz zum Lesen und Arbeiten.",
+          "en": "The quiet compartment offered the ideal place for reading and working.",
+          "ar": "وَفَّرَتِ المَقْصُورَةُ الهَادِئَةُ مَكَانًا مِثَالِيًّا لِلْقِرَاءَةِ وَالعَمَل."
+        }
+      ]
+    },
+    {
+      "id": "public_transit_014",
+      "term_de": "die Monatskarte",
+      "plural_de": "die Monatskarten",
+      "term_en": "monthly transit pass",
+      "term_ar": "الِاشْتِرَاكُ الشَّهْرِيّ، التَّذْكِرَةُ الشَّهْرِيَّة",
+      "pronunciation_de": "[ˈmoːnatsˌkaʁtə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Mit der Monatskarte fährt man unbegrenzt im gesamten Stadtgebiet.",
+          "en": "With the monthly pass, you ride unlimitedly across the entire city area.",
+          "ar": "يَرْكَبُ المَرْءُ بِالِاشْتِرَاكِ الشَّهْرِيِّ دُونَ حُدُودٍ فِي كَامِلِ نِطَاقِ المَدِينَة."
+        }
+      ]
+    },
+    {
+      "id": "public_transit_015",
+      "term_de": "der Kontrolleur",
+      "plural_de": "die Kontrolleure",
+      "term_en": "ticket inspector",
+      "term_ar": "مُفَتِّشُ التَّذَاكِر",
+      "pronunciation_de": "[kɔntʁɔˈløːɐ̯]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der Kontrolleur prüfte höflich die Fahrkarten aller Passagiere.",
+          "en": "The inspector politely checked the tickets of all passengers.",
+          "ar": "فَحَصَ مُفَتِّشُ التَّذَاكِرِ بِأَدَبٍ تَذَاكِرَ جَمِيعِ الرُّكَّاب."
+        }
+      ]
+    },
+    {
+      "id": "public_transit_016",
+      "term_de": "die Endstation",
+      "plural_de": "die Endstationen",
+      "term_en": "terminus, final stop",
+      "term_ar": "المَحَطَّةُ الأَخِيرَة، نِهَايَةُ الخَطّ",
+      "pronunciation_de": "[ˈɛntʃtaˌt͡si̯oːn]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "An der Endstation müssen alle Fahrgäste den Zug verlassen.",
+          "en": "At the final station, all passengers must leave the train.",
+          "ar": "يَجِبُ عَلَى جَمِيعِ الرُّكَّابِ مُغَادَرَةُ القِطَارِ عِنْدَ المَحَطَّةِ الأَخِيرَة."
+        }
+      ]
+    },
+    {
+      "id": "public_transit_017",
+      "term_de": "der Umstieg",
+      "plural_de": "die Umstiege",
+      "term_en": "transfer, interchange",
+      "term_ar": "تَبْدِيلُ المَرْكَبَة، التَّحْوِيل",
+      "pronunciation_de": "[ˈʊmˌʃtiːk]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der Umstieg von der U-Bahn in den Bus verläuft dank kurzer Wege reibungslos.",
+          "en": "Transferring from subway to bus runs smoothly thanks to short distances.",
+          "ar": "يَتِمُّ التَّحْوِيلُ مِنَ المِتْرُو إِلَى الحَافِلَةِ بِسَلَاسَةٍ بِفَضْلِ قِصَرِ المَسَافَة."
+        }
+      ]
+    },
+    {
+      "id": "public_transit_018",
+      "term_de": "die Hauptverkehrszeit",
+      "plural_de": "die Hauptverkehrszeiten",
+      "term_en": "rush hour, peak hours",
+      "term_ar": "سَاعَةُ الذِّرْوَة",
+      "pronunciation_de": "[ˈhaʊ̯ptfɛɐ̯keːɐ̯sˌt͡saɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "In der Hauptverkehrszeit fahren die Busse im Drei-Minuten-Takt.",
+          "en": "During rush hour, buses run every three minutes.",
+          "ar": "تَنْطَلِقُ الحَافِلَاتُ كُلَّ ثَلَاثِ دَقَائِقَ فِي سَاعَةِ الذِّرْوَة."
+        }
+      ]
+    },
+    {
+      "id": "public_transit_019",
+      "term_de": "die Rolltreppe",
+      "plural_de": "die Rolltreppen",
+      "term_en": "escalator",
+      "term_ar": "السُّلَّمُ المُتَحَرِّك",
+      "pronunciation_de": "[ˈʁɔlˌtʁɛpə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Rechts stehen, links gehen gilt als Regel auf der Rolltreppe.",
+          "en": "Stand on the right, walk on the left is the rule on the escalator.",
+          "ar": "الوُقُوفُ يَمِينًا وَالسَّيْرُ يَسَارًا قَاعِدَةٌ مَعْرُوفَةٌ عَلَى السُّلَّمِ المُتَحَرِّك."
+        }
+      ]
+    },
+    {
+      "id": "public_transit_020",
+      "term_de": "der Fahrstuhl",
+      "plural_de": "die Fahrstühle",
+      "term_en": "elevator, lift",
+      "term_ar": "المِصْعَدُ الكَهْرَبَائِيّ",
+      "pronunciation_de": "[ˈfaːɐ̯ˌʃtuːl]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der gläserne Fahrstuhl bringt Reisende mit Koffern direkt zum Bahnsteig.",
+          "en": "The glass elevator takes travelers with suitcases directly to the platform.",
+          "ar": "يَنْقُلُ المِصْعَدُ الزُّجَاجِيُّ المُسَافِرِينَ بِحَقَائِبِهِمْ مُبَاشَرَةً إِلَى الرَّصِيف."
+        }
+      ]
+    },
+    {
+      "id": "public_transit_021",
+      "term_de": "die Schranke",
+      "plural_de": "die Schranken",
+      "term_en": "railway barrier, level crossing gate",
+      "term_ar": "حَاجِزُ المَعْبَر، البَوَّابَة",
+      "pronunciation_de": "[ˈʃʁaŋkə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Schranke senkt sich automatisch, wenn sich ein Zug nähert.",
+          "en": "The barrier lowers automatically when a train approaches.",
+          "ar": "يَنْخَفِضُ حَاجِزُ المَعْبَرِ تِلْقَائِيًّا عِنْدَ اقْتِرَابِ القِطَار."
+        }
+      ]
+    },
+    {
+      "id": "public_transit_022",
+      "term_de": "der Schienenverkehr",
+      "plural_de": "-",
+      "term_en": "rail transport, train transit",
+      "term_ar": "النَّقْلُ بِالسِّكَكِ الحَدِيدِيَّة",
+      "pronunciation_de": "[ˈʃiːnənfɛɐ̯ˌkeːɐ̯]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Moderner Schienenverkehr schont das Klima und entlastet die Straßen.",
+          "en": "Modern rail transport protects the climate and relieves the roads.",
+          "ar": "النَّقْلُ الحَدِيثُ بِالسِّكَكِ الحَدِيدِيَّةِ يَحْمِي المُنَاخَ وَيُخَفِّفُ الِازْدِحَامَ عَنِ الطُّرُق."
+        }
+      ]
+    },
+    {
+      "id": "public_transit_023",
+      "term_de": "die Pünktlichkeit",
+      "plural_de": "-",
+      "term_en": "punctuality, on-time arrival",
+      "term_ar": "الدِّقَّةُ فِي المَوَاعِيد، الِانْضِبَاط",
+      "pronunciation_de": "[ˈpʏŋktlɪçkaɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Fahrgäste schätzen die hohe Pünktlichkeit der Stadtbahn.",
+          "en": "Passengers appreciate the high punctuality of the light rail.",
+          "ar": "يُقَدِّرُ الرُّكَّابُ الدِّقَّةَ العَالِيَةَ فِي مَوَاعِيدِ قِطَارِ المَدِينَة."
+        }
+      ]
+    },
+    {
+      "id": "public_transit_024",
+      "term_de": "die Fahrgastinformation",
+      "plural_de": "die Fahrgastinformationen",
+      "term_en": "passenger info display",
+      "term_ar": "لَوْحَةُ مَعْلُومَاتِ الرُّكَّاب",
+      "pronunciation_de": "[ˈfaːɐ̯ɡastʔɪnfɔʁmaˌt͡si̯oːn]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die digitale Fahrgastinformation zeigt Ankunftszeiten in Echtzeit an.",
+          "en": "The digital passenger information displays arrival times in real time.",
+          "ar": "تَعْرِضُ لَوْحَةُ مَعْلُومَاتِ الرُّكَّابِ الرَّقْمِيَّةُ مَوَاعِيدَ الوُصُولِ فِي الوَقْتِ الفِعْلِيّ."
+        }
+      ]
+    },
+    {
+      "id": "public_transit_025",
+      "term_de": "die Barrierefreiheit",
+      "plural_de": "-",
+      "term_en": "accessibility for all",
+      "term_ar": "سُهُولَةُ الوُصُولِ لِلْجَمِيع، تَيْسِيرُ التَّنَقُّل",
+      "pronunciation_de": "[baʁˈjeːʁəˌfʁaɪ̯haɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Volle Barrierefreiheit ermöglicht allen Bürgern eine bequeme Reise.",
+          "en": "Full accessibility enables all citizens to travel comfortably.",
+          "ar": "تَيْسِيرُ التَّنَقُّلِ وَإِتَاحَةُ المَرَافِقِ يُمَكِّنَانِ جَمِيعَ المُواطِنِينَ مِنْ سَفَرٍ مُرِيح."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,899 @@
+{
+  "category_id": "a2_arts_calligraphy_verbs",
+  "category_name_de": "Kunst-, Malerei- und Kalligrafieverben",
+  "category_name_en": "Arts, Drawing & Calligraphy Verbs",
+  "category_name_ar": "أفعال الفنون والرسم والخط العربي والتشكيل",
+  "level": "A1/A2",
+  "verbs": [
+    {
+      "id": "verb_art_001",
+      "infinitive": "malen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "mit Pinsel und bunten Farben ein Bild auf Leinwand oder Papier bringen",
+      "meaning_en": "to paint with colors",
+      "meaning_ar": "يَرْسُمُ بِالأَلْوَان",
+      "tenses": {
+        "present": {
+          "ich": "male",
+          "du": "malst",
+          "er_sie_es": "malt",
+          "wir": "malen",
+          "ihr": "malt",
+          "sie_Sie": "malen"
+        },
+        "past_simple": {
+          "ich": "malte",
+          "du": "maltest",
+          "er_sie_es": "malte",
+          "wir": "malten",
+          "ihr": "maltet",
+          "sie_Sie": "malten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gemalt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Akkusativ",
+          "meaning_ar": "يرسم على لوحة القماش"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er malt eine idyllische Landschaft mit grünen Bergen und einem Fluss.",
+          "en": "He paints an idyllic landscape with green mountains and a river.",
+          "ar": "يَرْسُمُ مَشْهَدًا طَبِيعِيًّا بَدِيعًا لِجِبَالٍ خَضْرَاءَ وَنَهْر."
+        }
+      ]
+    },
+    {
+      "id": "verb_art_002",
+      "infinitive": "zeichnen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "mit Bleistift, Kohle oder Kreide Konturen und Formen ziehen",
+      "meaning_en": "to draw with pencil",
+      "meaning_ar": "يَرْسُمُ بِالقَلَمِ وَالخُطُوط",
+      "tenses": {
+        "present": {
+          "ich": "zeichne",
+          "du": "zeichnest",
+          "er_sie_es": "zeichnet",
+          "wir": "zeichnen",
+          "ihr": "zeichnet",
+          "sie_Sie": "zeichnen"
+        },
+        "past_simple": {
+          "ich": "zeichnete",
+          "du": "zeichnetest",
+          "er_sie_es": "zeichnete",
+          "wir": "zeichneten",
+          "ihr": "zeichnetet",
+          "sie_Sie": "zeichneten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gezeichnet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يرسم بقلم الرصاص"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Sie zeichnet das historische Stadttor mit feinen Bleistiftstrichen.",
+          "en": "She draws the historic city gate with fine pencil lines.",
+          "ar": "تَرْسُمُ بَوَّابَةَ المَدِينَةِ التَّارِيخِيَّةَ بِخُطُوطِ رَصَاصٍ دَقِيقَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_art_003",
+      "infinitive": "skizzieren",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "eine Idee oder Szene in raschen Hauptzügen entwerfen",
+      "meaning_en": "to sketch in outline",
+      "meaning_ar": "يُخَطِّطُ، يَرْسُمُ مُسَوَّدَةً أَوْلِيَّة",
+      "tenses": {
+        "present": {
+          "ich": "skizziere",
+          "du": "skizzierst",
+          "er_sie_es": "skizziert",
+          "wir": "skizzieren",
+          "ihr": "skizziert",
+          "sie_Sie": "skizzieren"
+        },
+        "past_simple": {
+          "ich": "skizzierte",
+          "du": "skizziertest",
+          "er_sie_es": "skizzierte",
+          "wir": "skizzierten",
+          "ihr": "skizziertet",
+          "sie_Sie": "skizzierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "skizziert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "im",
+          "case": "Dativ",
+          "meaning_ar": "يخطط في دفتر الرسم"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Architekt skizziert den Bogen der neuen Brücke im Notizbuch.",
+          "en": "The architect sketches the arch of the new bridge in the notebook.",
+          "ar": "يَرْسُمُ المِهْمَارِيُّ تَخْطِيطًا أَوْلِيًّا لِقَوْسِ الجِسْرِ فِي دَفْتَرِه."
+        }
+      ]
+    },
+    {
+      "id": "verb_art_004",
+      "infinitive": "gestalten",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Dingen eine harmonische, ansprechende Gestalt geben",
+      "meaning_en": "to design, fashion aesthetically",
+      "meaning_ar": "يُصَمِّمُ، يُشَكِّلُ بِذَوْقٍ جَمَالِيّ",
+      "tenses": {
+        "present": {
+          "ich": "gestalte",
+          "du": "gestaltest",
+          "er_sie_es": "gestaltet",
+          "wir": "gestalten",
+          "ihr": "gestaltet",
+          "sie_Sie": "gestalten"
+        },
+        "past_simple": {
+          "ich": "gestaltete",
+          "du": "gestaltetest",
+          "er_sie_es": "gestaltete",
+          "wir": "gestalteten",
+          "ihr": "gestaltetet",
+          "sie_Sie": "gestalteten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gestaltet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "nach",
+          "case": "Dativ",
+          "meaning_ar": "يصمم وفق قواعد الفن"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Sie gestaltet das Titelblatt des Buchs mit kunstvoller Schrift.",
+          "en": "She designs the title page of the book with artistic script.",
+          "ar": "تُصَمِّمُ غِلَافَ الكِتَابِ بِخَطٍّ فَنِّيٍّ بَدِيع."
+        }
+      ]
+    },
+    {
+      "id": "verb_art_005",
+      "infinitive": "mischen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "verschiedene Grundfarben auf der Palette zu neuen Nuancen verbinden",
+      "meaning_en": "to mix colors on palette",
+      "meaning_ar": "يَمْزُجُ الأَلْوَانَ عَلَى البَالِيتَة",
+      "tenses": {
+        "present": {
+          "ich": "mische",
+          "du": "mischst",
+          "er_sie_es": "mischt",
+          "wir": "mischen",
+          "ihr": "mischt",
+          "sie_Sie": "mischen"
+        },
+        "past_simple": {
+          "ich": "mischte",
+          "du": "mischtest",
+          "er_sie_es": "mischte",
+          "wir": "mischten",
+          "ihr": "mischtet",
+          "sie_Sie": "mischten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gemischt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Dativ",
+          "meaning_ar": "يمزج على لوحة الألوان"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Maler mischt Blau und Gelb auf der Palette zu einem satten Grün.",
+          "en": "The painter mixes blue and yellow on the palette into a rich green.",
+          "ar": "يَمْزُجُ الرَّسَّامُ الأَزْرَقَ وَالأَصْفَرَ لِيَحْصُلَ عَلَى أَخْضَرَ يَانِع."
+        }
+      ]
+    },
+    {
+      "id": "verb_art_006",
+      "infinitive": "schattieren",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "durch feine Tonabstufungen Licht und Schatten erzeugen",
+      "meaning_en": "to shade, add depth with shadows",
+      "meaning_ar": "يُظَلِّلُ الرَّسْمَ لِيَمْنَحَهُ عُمْقًا",
+      "tenses": {
+        "present": {
+          "ich": "schattiere",
+          "du": "schattierst",
+          "er_sie_es": "schattiert",
+          "wir": "schattieren",
+          "ihr": "schattiert",
+          "sie_Sie": "schattieren"
+        },
+        "past_simple": {
+          "ich": "schattierte",
+          "du": "schattiertest",
+          "er_sie_es": "schattierte",
+          "wir": "schattierten",
+          "ihr": "schattiertet",
+          "sie_Sie": "schattierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "schattiert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يظلل بالفحم"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er schattiert die runden Säulen mit weicher Zeichenkohle.",
+          "en": "He shades the round columns with soft drawing charcoal.",
+          "ar": "يُظَلِّلُ الأَعْمِدَةَ المُسْتَدِيرَةَ بِفَحْمِ الرَّسْمِ النَّاعِم."
+        }
+      ]
+    },
+    {
+      "id": "verb_art_007",
+      "infinitive": "schreiben",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "die Schriftzeichen mit der Rohrfeder kunstvoll auf das Blatt setzen",
+      "meaning_en": "to inscribe calligraphy",
+      "meaning_ar": "يَخُطُّ، يَكْتُبُ بِالقَصَبَةِ جَمِيلًا",
+      "tenses": {
+        "present": {
+          "ich": "schreibe",
+          "du": "schreibst",
+          "er_sie_es": "schreibt",
+          "wir": "schreiben",
+          "ihr": "schreibt",
+          "sie_Sie": "schreiben"
+        },
+        "past_simple": {
+          "ich": "schrieb",
+          "du": "schriebst",
+          "er_sie_es": "schrieb",
+          "wir": "schrieben",
+          "ihr": "schriebt",
+          "sie_Sie": "schrieben"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geschrieben"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يخط بخط الثلث أو النسخ"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Meister schreibt die Weisheit in edler Naskh-Schrift nieder.",
+          "en": "The master writes down the wisdom in noble Naskh script.",
+          "ar": "يَخُطُّ شَيْخُ الخَطَّاطِينَ الحِكْمَةَ بِخَطِّ النَّسْخِ الرَّفِيع."
+        }
+      ]
+    },
+    {
+      "id": "verb_art_008",
+      "infinitive": "verzieren",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "ein Schriftstück oder Gefäß mit Ornamenten schmücken",
+      "meaning_en": "to decorate with ornaments",
+      "meaning_ar": "يُزَخْرِفُ، يُوَشِّي بِالرُّقُوش",
+      "tenses": {
+        "present": {
+          "ich": "verziere",
+          "du": "verzierst",
+          "er_sie_es": "verziert",
+          "wir": "verzieren",
+          "ihr": "verziert",
+          "sie_Sie": "verzieren"
+        },
+        "past_simple": {
+          "ich": "verzierte",
+          "du": "verziertest",
+          "er_sie_es": "verzierte",
+          "wir": "verzierten",
+          "ihr": "verziertet",
+          "sie_Sie": "verzierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "verziert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يزخرف بالذهب الخالص"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Buchkünstler verziert die Ränder der Seite mit goldenen Ornamenten.",
+          "en": "The book artist decorates the edges of the page with golden ornaments.",
+          "ar": "يُزَخْرِفُ مُذَهِّبُ الكُتُبِ حَوَافَّ الصَّفْحَةِ بِزَخَارِفَ مُذَهَّبَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_art_009",
+      "infinitive": "spannen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "die Leinwand straff über den hölzernen Keilrahmen ziehen",
+      "meaning_en": "to stretch canvas over frame",
+      "meaning_ar": "يَشُدُّ قُمَاشَ اللَّوْحَةِ عَلَى الإِطَار",
+      "tenses": {
+        "present": {
+          "ich": "spanne",
+          "du": "spannst",
+          "er_sie_es": "spannt",
+          "wir": "spannen",
+          "ihr": "spannt",
+          "sie_Sie": "spannen"
+        },
+        "past_simple": {
+          "ich": "spannte",
+          "du": "spanntest",
+          "er_sie_es": "spannte",
+          "wir": "spannten",
+          "ihr": "spanntet",
+          "sie_Sie": "spannten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gespannt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Akkusativ",
+          "meaning_ar": "يشد على إطار الخشب"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Vor dem Grundieren spannt er die Leinwand fest auf den Rahmen.",
+          "en": "Before priming, he stretches the canvas firmly onto the frame.",
+          "ar": "يَشُدُّ قُمَاشَ الكَانْفَاسِ بِإِحْكَامٍ عَلَى الإِطَارِ قَبْلَ الطِّلَاءِ الأَسَاسِيّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_art_010",
+      "infinitive": "betrachten",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "ein Kunstwerk aufmerksam und mit innerer Ruhe ansehen",
+      "meaning_en": "to contemplate, view art",
+      "meaning_ar": "يَتَأَمَّلُ، يُطَالِعُ اللَّوْحَةَ بِإِعْجَاب",
+      "tenses": {
+        "present": {
+          "ich": "betrachte",
+          "du": "betrachtest",
+          "er_sie_es": "betrachtet",
+          "wir": "betrachten",
+          "ihr": "betrachtet",
+          "sie_Sie": "betrachten"
+        },
+        "past_simple": {
+          "ich": "betrachtete",
+          "du": "betrachtetest",
+          "er_sie_es": "betrachtete",
+          "wir": "betrachteten",
+          "ihr": "betrachtetet",
+          "sie_Sie": "betrachteten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "betrachtet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يتأمل بإعجاب كبير"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Museumsbesucher betrachten das historische Kalligrafieblatt mit Bewunderung.",
+          "en": "Museum visitors contemplate the historic calligraphy folio with admiration.",
+          "ar": "يَتَأَمَّلُ زُوَّارُ المَتْحَفِ لَوْحَةَ الخَطِّ التَّارِيخِيَّةَ بِإِعْجَابٍ بَالِغ."
+        }
+      ]
+    },
+    {
+      "id": "verb_art_011",
+      "infinitive": "entwerfen",
+      "verb_type": "irregular",
+      "level": "B1",
+      "meaning_de": "ein künstlerisches Konzept oder Ornamentmuster schöpferisch planen",
+      "meaning_en": "to design, draft creative patterns",
+      "meaning_ar": "يَبْتَكِرُ، يُصَمِّمُ نَمَطًا زَخْرَفِيًّا",
+      "tenses": {
+        "present": {
+          "ich": "entwerfe",
+          "du": "entwirfst",
+          "er_sie_es": "entwirft",
+          "wir": "entwerfen",
+          "ihr": "entwerft",
+          "sie_Sie": "entwerfen"
+        },
+        "past_simple": {
+          "ich": "entwarf",
+          "du": "entwarfst",
+          "er_sie_es": "entwarf",
+          "wir": "entwarfen",
+          "ihr": "entwarft",
+          "sie_Sie": "entwarfen"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "entworfen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "für",
+          "case": "Akkusativ",
+          "meaning_ar": "يصمم للمبنى الجديد"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Architektin entwirft ein filigranes Gittermuster für das Portal.",
+          "en": "The architect designs an intricate lattice pattern for the portal.",
+          "ar": "تُصَمِّمُ المِهْمَارِيَّةُ نَمَطًا شَبَكِيًّا دَقِيقًا لِبَوَّابَةِ المَبْنَى."
+        }
+      ]
+    },
+    {
+      "id": "verb_art_012",
+      "infinitive": "vollenden",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "ein Kunstwerk nach monatelanger Arbeit zur Vollkommenheit bringen",
+      "meaning_en": "to complete a work of art",
+      "meaning_ar": "يُتَمِّمُ، يُكْمِلُ اللَّوْحَةَ بِإِتْقَان",
+      "tenses": {
+        "present": {
+          "ich": "vollende",
+          "du": "vollendest",
+          "er_sie_es": "vollendet",
+          "wir": "vollenden",
+          "ihr": "vollendet",
+          "sie_Sie": "vollenden"
+        },
+        "past_simple": {
+          "ich": "vollendete",
+          "du": "vollendetest",
+          "er_sie_es": "vollendete",
+          "wir": "vollendeten",
+          "ihr": "vollendetet",
+          "sie_Sie": "vollendeten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "vollendet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "nach",
+          "case": "Dativ",
+          "meaning_ar": "يتمم بعد جهد طويل"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Nach drei Monaten vollendete der Kalligraf die kunstvolle Schrifttafel.",
+          "en": "After three months, the calligrapher completed the artistic script plaque.",
+          "ar": "أَتَمَّ الخَطَّاطُ لَوْحَتَهُ البَدِيعَةَ بَعْدَ عَمَلٍ دَامَ ثَلَاثَةَ أَشْهُر."
+        }
+      ]
+    },
+    {
+      "id": "verb_art_013",
+      "infinitive": "tuschen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "feine Linien mit schwarzer Tinte oder Tusche ziehen",
+      "meaning_en": "to ink drawings",
+      "meaning_ar": "يَرْسُمُ بِالحِبْرِ الصِّينِيّ",
+      "tenses": {
+        "present": {
+          "ich": "tusche",
+          "du": "tuschst",
+          "er_sie_es": "tuscht",
+          "wir": "tuschen",
+          "ihr": "tuscht",
+          "sie_Sie": "tuschen"
+        },
+        "past_simple": {
+          "ich": "tuschte",
+          "du": "tuschtest",
+          "er_sie_es": "tuschte",
+          "wir": "tuschten",
+          "ihr": "tuschtet",
+          "sie_Sie": "tuschten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "getuscht"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Akkusativ",
+          "meaning_ar": "يحبر على الورق المقوى"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er tuscht die vorgezeichneten Bleistiftlinien mit ruhiger Hand nach.",
+          "en": "He inks over the penciled lines with a steady hand.",
+          "ar": "يُحَبِّرُ خُطُوطَ الرَّصَاصِ بِحِبْرٍ أَسْوَدَ بِيَدٍ ثَابِتَةٍ مُتَمَكِّنَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_art_014",
+      "infinitive": "ausstellen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Bilder oder Handschriften in einer Galerie der Öffentlichkeit präsentieren",
+      "meaning_en": "to exhibit, display artwork",
+      "meaning_ar": "يَعْرِضُ الأَعْمَالَ الفَنِّيَّةَ فِي مَعْرِض",
+      "tenses": {
+        "present": {
+          "ich": "stelle aus",
+          "du": "stellst aus",
+          "er_sie_es": "stellt aus",
+          "wir": "stellen aus",
+          "ihr": "stellt aus",
+          "sie_Sie": "stellen aus"
+        },
+        "past_simple": {
+          "ich": "stellte aus",
+          "du": "stelltest aus",
+          "er_sie_es": "stellte aus",
+          "wir": "stellten aus",
+          "ihr": "stelltet aus",
+          "sie_Sie": "stellten aus"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "ausgestellt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يعرض في صالة الفنون"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die jungen Künstler stellen ihre Werke in der städtischen Galerie aus.",
+          "en": "The young artists exhibit their works in the municipal gallery.",
+          "ar": "يَعْرِضُ الفَنَّانُونَ الشَّبَابُ أَعْمَالَهُمْ فِي صَالَةِ المَدِينَةِ الفَنِّيَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_art_015",
+      "infinitive": "bewundern",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "die Harmonie und meisterhafte Ausführung eines Werkes hoch schätzen",
+      "meaning_en": "to admire beautiful art",
+      "meaning_ar": "يُعْجَبُ بِبَهَاءِ الفَنِّ وَدِقَّتِه",
+      "tenses": {
+        "present": {
+          "ich": "bewundere",
+          "du": "bewunderst",
+          "er_sie_es": "bewundert",
+          "wir": "bewundern",
+          "ihr": "bewundert",
+          "sie_Sie": "bewundern"
+        },
+        "past_simple": {
+          "ich": "bewunderte",
+          "du": "bewundertest",
+          "er_sie_es": "bewunderte",
+          "wir": "bewunderten",
+          "ihr": "bewundertet",
+          "sie_Sie": "bewunderten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "bewundert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "für",
+          "case": "Akkusativ",
+          "meaning_ar": "يعجب بالإتقان"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Alle bewundern die fließenden Linien der arabischen Kalligrafie.",
+          "en": "Everyone admires the flowing lines of Arabic calligraphy.",
+          "ar": "يُعْجَبُ الجَمِيعُ بِانْسِيَابِيَّةِ خُطُوطِ الخَطِّ العَرَبِيِّ البَدِيع."
+        }
+      ]
+    },
+    {
+      "id": "verb_art_016",
+      "infinitive": "erlernen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "die Regeln der klassischen Schriftkunst schrittweise beherrschen",
+      "meaning_en": "to master calligraphy",
+      "meaning_ar": "يَتَعَلَّمُ، يُتْقِنُ قَوَاعِدَ الفَنّ",
+      "tenses": {
+        "present": {
+          "ich": "erlerne",
+          "du": "erlernst",
+          "er_sie_es": "erlernt",
+          "wir": "erlernen",
+          "ihr": "erlernt",
+          "sie_Sie": "erlernen"
+        },
+        "past_simple": {
+          "ich": "erlernte",
+          "du": "erlerntest",
+          "er_sie_es": "erlernte",
+          "wir": "erlernten",
+          "ihr": "erlerntet",
+          "sie_Sie": "erlernten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "erlernt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "bei",
+          "case": "Dativ",
+          "meaning_ar": "يتعلم عند أستاذ كبير"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Schüler erlernt die Proportionen der Thuluth-Schrift bei einem Meister.",
+          "en": "The student learns the proportions of Thuluth script from a master.",
+          "ar": "يَتَعَلَّمُ التِّلْمِيذُ مَوَازِينَ خَطِّ الثُّلُثِ عَلَى يَدِ شَيْخِ الخَطَّاطِين."
+        }
+      ]
+    },
+    {
+      "id": "verb_art_017",
+      "infinitive": "inspirieren",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "durch Naturschönheit zu schöpferischem Schaffen angeregt werden",
+      "meaning_en": "to inspire artistic creation",
+      "meaning_ar": "يُلْهِمُ، يَبْعَثُ عَلَى الإِبْدَاع",
+      "tenses": {
+        "present": {
+          "ich": "inspiriere",
+          "du": "inspirierst",
+          "er_sie_es": "inspiriert",
+          "wir": "inspirieren",
+          "ihr": "inspiriert",
+          "sie_Sie": "inspirieren"
+        },
+        "past_simple": {
+          "ich": "inspirierte",
+          "du": "inspiriertest",
+          "er_sie_es": "inspirierte",
+          "wir": "inspirierten",
+          "ihr": "inspiriertet",
+          "sie_Sie": "inspirierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "inspiriert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "durch",
+          "case": "Akkusativ",
+          "meaning_ar": "يستلهم من جمال الطبيعة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Vielfalt der Wüstenlandschaft inspirierte den Maler zu warmen Farbtönen.",
+          "en": "The variety of the desert landscape inspired the painter to warm hues.",
+          "ar": "أَلْهَمَتْ أَلْوَانُ الصَّحْرَاءِ الرَّسَّامَ لِاسْتِخْدَامِ تَدَرُّجَاتٍ دَافِئَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_art_018",
+      "infinitive": "trocknen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "die aufgetragene Farbe oder Tusche an der Luft fest werden lassen",
+      "meaning_en": "to dry paint",
+      "meaning_ar": "يَجِفُّ الطِّلَاءُ أَوِ الحِبْر",
+      "tenses": {
+        "present": {
+          "das Gemälde": "trocknet"
+        },
+        "past_simple": {
+          "das Gemälde": "trocknete"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "getrocknet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Dativ",
+          "meaning_ar": "يجف في الهواء الطلق"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Das Ölgemälde trocknet langsam auf der Staffelei im Atelier.",
+          "en": "The oil painting dries slowly on the easel in the studio.",
+          "ar": "تَجِفُّ اللَّوْحَةُ الزَّيْتِيَّةُ بِبُطْءٍ عَلَى الحَامِلِ الخَشَبِيِّ فِي المَرْسَم."
+        }
+      ]
+    },
+    {
+      "id": "verb_art_019",
+      "infinitive": "signieren",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "das fertige Kunstwerk am unteren Rand mit der eigenen Signatur versehen",
+      "meaning_en": "to sign artwork",
+      "meaning_ar": "يُوَقِّعُ، يَمْضِي عَلَى عَمَلِهِ الفَنِّيّ",
+      "tenses": {
+        "present": {
+          "ich": "signiere",
+          "du": "signierst",
+          "er_sie_es": "signiert",
+          "wir": "signieren",
+          "ihr": "signiert",
+          "sie_Sie": "signieren"
+        },
+        "past_simple": {
+          "ich": "signierte",
+          "du": "signiertest",
+          "er_sie_es": "signierte",
+          "wir": "signierten",
+          "ihr": "signiertet",
+          "sie_Sie": "signierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "signiert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يوقع باسمه وتاريخه"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Künstler signierte das Gemälde unten rechts mit feiner Feder.",
+          "en": "The artist signed the painting at the bottom right with a fine pen.",
+          "ar": "وَقَّعَ الفَنَّانُ اللَّوْحَةَ فِي أَسْفَلِ اليَمِينِ بِرِيشَةٍ دَقِيقَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_art_020",
+      "infinitive": "schulen",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "das eigene Auge und die Hand durch tägliches Zeichnen verfeinern",
+      "meaning_en": "to train eye and hand in art",
+      "meaning_ar": "يُدَرِّبُ عَيْنَهُ وَيَدَهُ عَلَى مَلَكَةِ الفَنّ",
+      "tenses": {
+        "present": {
+          "ich": "schule",
+          "du": "schulst",
+          "er_sie_es": "schult",
+          "wir": "schulen",
+          "ihr": "schult",
+          "sie_Sie": "schulen"
+        },
+        "past_simple": {
+          "ich": "schulte",
+          "du": "schultest",
+          "er_sie_es": "schulte",
+          "wir": "schulten",
+          "ihr": "schultet",
+          "sie_Sie": "schulten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geschult"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "durch",
+          "case": "Akkusativ",
+          "meaning_ar": "يدرب من خلال المران اليومي"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Tägliches Üben schult den Blick für Proportionen und feinste Nuancen.",
+          "en": "Daily practice trains the eye for proportions and the finest nuances.",
+          "ar": "التَّدْرِيبُ اليَوْمِيُّ يُرَبِّي العَيْنَ عَلَى إِدْرَاكِ النِّسَبِ وَأَدَقِّ التَّفَاصِيل."
+        }
+      ]
+    }
+  ]
+}

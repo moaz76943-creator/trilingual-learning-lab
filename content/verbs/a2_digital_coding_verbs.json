@@ -1,0 +1,909 @@
+{
+  "category_id": "a2_digital_coding_verbs",
+  "category_name_de": "Programmier-, Computer- und Digitalverben",
+  "category_name_en": "Coding, Computing & Digital Tech Verbs",
+  "category_name_ar": "أفعال البرمجة والحوسبة واستخدام التقنية",
+  "level": "A2/B1",
+  "verbs": [
+    {
+      "id": "verb_code_001",
+      "infinitive": "programmieren",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Anweisungen in einer Programmiersprache für den Computer schreiben",
+      "meaning_en": "to program, code",
+      "meaning_ar": "يُبَرْمِجُ، يَكْتُبُ الشِّيفْرَةَ البَرْمَجِيَّة",
+      "tenses": {
+        "present": {
+          "ich": "programmiere",
+          "du": "programmierst",
+          "er_sie_es": "programmiert",
+          "wir": "programmieren",
+          "ihr": "programmiert",
+          "sie_Sie": "programmieren"
+        },
+        "past_simple": {
+          "ich": "programmierte",
+          "du": "programmiertest",
+          "er_sie_es": "programmierte",
+          "wir": "programmierten",
+          "ihr": "programmiertet",
+          "sie_Sie": "programmierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "programmiert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يبرمج بلغة بايثون أو دارت"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Studentin programmiert eine interaktive App in Dart und Flutter.",
+          "en": "The student programs an interactive app in Dart and Flutter.",
+          "ar": "تُبَرْمِجُ الطَّالِبَةُ تَطْبِيقًا تَفَاعُلِيًّا بِلُغَتَيْ دَارْت وَفْلَاتَر."
+        }
+      ]
+    },
+    {
+      "id": "verb_code_002",
+      "infinitive": "tippen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "Tasten auf der Tastatur drücken, um Text einzugeben",
+      "meaning_en": "to type on keyboard",
+      "meaning_ar": "يَكْتُبُ، يَطْبَعُ عَلَى لَوْحَةِ المَفَاتِيح",
+      "tenses": {
+        "present": {
+          "ich": "tippe",
+          "du": "tippst",
+          "er_sie_es": "tippt",
+          "wir": "tippen",
+          "ihr": "tippt",
+          "sie_Sie": "tippen"
+        },
+        "past_simple": {
+          "ich": "tippte",
+          "du": "tipptest",
+          "er_sie_es": "tippte",
+          "wir": "tippten",
+          "ihr": "tipptet",
+          "sie_Sie": "tippten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "getippt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Dativ",
+          "meaning_ar": "يكتب على لوحة المفاتيح"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er tippt den Programmcode flüssig und fehlerfrei auf der Tastatur.",
+          "en": "He types the program code fluently and error-free on the keyboard.",
+          "ar": "يَكْتُبُ كُودَ البَرْنَامَجِ بِطَلَاقَةٍ وَبِلَا أَخْطَاءٍ عَلَى لَوْحَةِ المَفَاتِيح."
+        }
+      ]
+    },
+    {
+      "id": "verb_code_003",
+      "infinitive": "klicken",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "mit der Maustaste auf eine Schaltfläche drücken",
+      "meaning_en": "to click with the mouse",
+      "meaning_ar": "يَنْقُرُ بِالفَأْرَةِ عَلَى زِرّ",
+      "tenses": {
+        "present": {
+          "ich": "klicke",
+          "du": "klickst",
+          "er_sie_es": "klickt",
+          "wir": "klicken",
+          "ihr": "klickt",
+          "sie_Sie": "klicken"
+        },
+        "past_simple": {
+          "ich": "klickte",
+          "du": "klicktest",
+          "er_sie_es": "klickte",
+          "wir": "klickten",
+          "ihr": "klicktet",
+          "sie_Sie": "klickten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geklickt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Akkusativ",
+          "meaning_ar": "ينقر على الأيقونة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Klicken Sie auf den grünen Button, um die Übung zu starten.",
+          "en": "Click on the green button to start the exercise.",
+          "ar": "انْقُرْ عَلَى الزِّرِّ الأَخْضَرِ لِبَدْءِ التَّمْرِين."
+        }
+      ]
+    },
+    {
+      "id": "verb_code_004",
+      "infinitive": "herunterladen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "eine Datei aus dem Internet auf das eigene Gerät übertragen",
+      "meaning_en": "to download files",
+      "meaning_ar": "يُنَزِّلُ، يُحَمِّلُ مَلَفًّا مِنَ الشَّبَكَة",
+      "tenses": {
+        "present": {
+          "ich": "lade herunter",
+          "du": "lädst herunter",
+          "er_sie_es": "lädt herunter",
+          "wir": "laden herunter",
+          "ihr": "ladet herunter",
+          "sie_Sie": "laden herunter"
+        },
+        "past_simple": {
+          "ich": "lud herunter",
+          "du": "ludst herunter",
+          "er_sie_es": "lud herunter",
+          "wir": "luden herunter",
+          "ihr": "ludet herunter",
+          "sie_Sie": "luden herunter"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "heruntergeladen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "aus",
+          "case": "Dativ",
+          "meaning_ar": "يحمل من الموقع"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er lädt das Wörterbuch für die Offline-Nutzung auf sein Tablet herunter.",
+          "en": "He downloads the dictionary for offline use onto his tablet.",
+          "ar": "يُحَمِّلُ المُعْجَمَ عَلَى لَوْحِهِ الإِلِكْتُرُونِيِّ لِلِاسْتِخْدَامِ دُونَ إِنْتَرْنِت."
+        }
+      ]
+    },
+    {
+      "id": "verb_code_005",
+      "infinitive": "hochladen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "eine lokale Datei auf einen Server oder in die Cloud senden",
+      "meaning_en": "to upload files",
+      "meaning_ar": "يَرْفَعُ مَلَفًّا إِلَى الخَادِمِ أَوِ السَّحَابَة",
+      "tenses": {
+        "present": {
+          "ich": "lade hoch",
+          "du": "lädst hoch",
+          "er_sie_es": "lädt hoch",
+          "wir": "laden hoch",
+          "ihr": "ladet hoch",
+          "sie_Sie": "laden hoch"
+        },
+        "past_simple": {
+          "ich": "lud hoch",
+          "du": "ludst hoch",
+          "er_sie_es": "lud hoch",
+          "wir": "luden hoch",
+          "ihr": "ludet hoch",
+          "sie_Sie": "luden hoch"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "hochgeladen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Akkusativ",
+          "meaning_ar": "يرفع إلى المستودع"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Entwickler laden den aktualisierten Quellcode auf GitHub hoch.",
+          "en": "The developers upload the updated source code to GitHub.",
+          "ar": "يَرْفَعُ المُطَوِّرُونَ الكُودَ المَصْدَرِيَّ المُحَدَّثَ إِلَى جِيتْ هَاب."
+        }
+      ]
+    },
+    {
+      "id": "verb_code_006",
+      "infinitive": "installieren",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "ein Programm auf dem Computer betriebsbereit einrichten",
+      "meaning_en": "to install software",
+      "meaning_ar": "يُثَبِّتُ البَرْنَامَجَ عَلَى الحَاسُوب",
+      "tenses": {
+        "present": {
+          "ich": "installiere",
+          "du": "installierst",
+          "er_sie_es": "installiert",
+          "wir": "installieren",
+          "ihr": "installiert",
+          "sie_Sie": "installieren"
+        },
+        "past_simple": {
+          "ich": "installierte",
+          "du": "installiertest",
+          "er_sie_es": "installierte",
+          "wir": "installierten",
+          "ihr": "installiertet",
+          "sie_Sie": "installierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "installiert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Dativ",
+          "meaning_ar": "يثبت على الحاسوب"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er installierte die neueste Version der Lernplattform auf seinem Laptop.",
+          "en": "He installed the latest version of the learning platform on his laptop.",
+          "ar": "ثَبَّتَ النُّسْخَةَ الأَحْدَثَ مِنْ مِنَصَّةِ التَّعَلُّمِ عَلَى حَاسُوبِهِ المَحْمُول."
+        }
+      ]
+    },
+    {
+      "id": "verb_code_007",
+      "infinitive": "aktualisieren",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Software oder Daten auf den neuesten Stand bringen",
+      "meaning_en": "to update, refresh software",
+      "meaning_ar": "يُحَدِّثُ البَرْنَامَجَ أَوِ البَيَانَات",
+      "tenses": {
+        "present": {
+          "ich": "aktualisiere",
+          "du": "aktualisierst",
+          "er_sie_es": "aktualisiert",
+          "wir": "aktualisieren",
+          "ihr": "aktualisiert",
+          "sie_Sie": "aktualisieren"
+        },
+        "past_simple": {
+          "ich": "aktualisierte",
+          "du": "aktualisiertest",
+          "er_sie_es": "aktualisierte",
+          "wir": "aktualisierten",
+          "ihr": "aktualisiertet",
+          "sie_Sie": "aktualisierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "aktualisiert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Akkusativ",
+          "meaning_ar": "يحدث إلى الإصدار الجديد"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Das System aktualisiert die Wörterdatenbank automatisch jede Woche.",
+          "en": "The system automatically updates the vocabulary database every week.",
+          "ar": "يُحَدِّثُ النِّظَامُ قَاعِدَةَ بَيَانَاتِ الكَلِمَاتِ تِلْقَائِيًّا كُلَّ أُسْبُوع."
+        }
+      ]
+    },
+    {
+      "id": "verb_code_008",
+      "infinitive": "testen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "die Funktionalität eines Programmcodes gründlich überprüfen",
+      "meaning_en": "to test software",
+      "meaning_ar": "يَخْتَبِرُ، يَفْحَصُ صِحَّةَ الكُود",
+      "tenses": {
+        "present": {
+          "ich": "teste",
+          "du": "testest",
+          "er_sie_es": "testet",
+          "wir": "testen",
+          "ihr": "testet",
+          "sie_Sie": "testen"
+        },
+        "past_simple": {
+          "ich": "testete",
+          "du": "testetest",
+          "er_sie_es": "testete",
+          "wir": "testeten",
+          "ihr": "testetet",
+          "sie_Sie": "testeten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "getestet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Akkusativ",
+          "meaning_ar": "يختبر للتأكد من خلوه من الأخطاء"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wir testen alle Funktionen der Anwendung mit automatisierten Python-Skripten.",
+          "en": "We test all functions of the application with automated Python scripts.",
+          "ar": "نَفْحَصُ جَمِيعَ وَظَائِفِ التَّطْبِيقِ بِاسْتِخْدَامِ بَرْمَجِيَّاتِ بَايثُون التِّلْقَائِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_code_009",
+      "infinitive": "beheben",
+      "verb_type": "irregular",
+      "level": "B1",
+      "meaning_de": "einen Programmfehler oder ein Problem erfolgreich beseitigen",
+      "meaning_en": "to fix bugs, resolve errors",
+      "meaning_ar": "يُعَالِجُ، يُصْلِحُ الخَلَلَ البَرْمَجِيّ",
+      "tenses": {
+        "present": {
+          "ich": "behebe",
+          "du": "behebst",
+          "er_sie_es": "behebt",
+          "wir": "beheben",
+          "ihr": "behebt",
+          "sie_Sie": "beheben"
+        },
+        "past_simple": {
+          "ich": "behob",
+          "du": "behobst",
+          "er_sie_es": "behob",
+          "wir": "behoben",
+          "ihr": "behobt",
+          "sie_Sie": "behoben"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "behoben"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يصلح الخلل في التحديث الجديد"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Entwicklerin behob den Darstellungsfehler im Handumdrehen.",
+          "en": "The developer resolved the rendering error in no time.",
+          "ar": "أَصْلَحَتِ المُطَوِّرَةُ خَلَلَ العَرْضِ فِي لَمْحِ البَصَر."
+        }
+      ]
+    },
+    {
+      "id": "verb_code_010",
+      "infinitive": "speichern",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "den aktuellen Arbeitsstand als Datei dauerhaft sichern",
+      "meaning_en": "to save files",
+      "meaning_ar": "يَحْفَظُ المَلَفَّ رَقْمِيًّا",
+      "tenses": {
+        "present": {
+          "ich": "speichere",
+          "du": "speicherst",
+          "er_sie_es": "speichert",
+          "wir": "speichern",
+          "ihr": "speichert",
+          "sie_Sie": "speichern"
+        },
+        "past_simple": {
+          "ich": "speicherte",
+          "du": "speichertest",
+          "er_sie_es": "speicherte",
+          "wir": "speicherten",
+          "ihr": "speichertet",
+          "sie_Sie": "speicherten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gespeichert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "unter",
+          "case": "Dativ",
+          "meaning_ar": "يحفظ باسم محدد"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Vergessen Sie nicht, das Dokument vor dem Schließen zu speichern.",
+          "en": "Do not forget to save the document before closing.",
+          "ar": "لَا تَنْسَ حِفْظَ المُسْتَنَدِ قَبْلَ إِغْلَاقِ النَّافِذَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_code_011",
+      "infinitive": "löschen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "überflüssige oder veraltete Daten von der Festplatte entfernen",
+      "meaning_en": "to delete, erase data",
+      "meaning_ar": "يَحْذِفُ المَلَفَّاتِ الزَّائِدَة",
+      "tenses": {
+        "present": {
+          "ich": "lösche",
+          "du": "löschst",
+          "er_sie_es": "löscht",
+          "wir": "löschen",
+          "ihr": "löscht",
+          "sie_Sie": "löschen"
+        },
+        "past_simple": {
+          "ich": "löschte",
+          "du": "löschtest",
+          "er_sie_es": "löschte",
+          "wir": "löschten",
+          "ihr": "löschtet",
+          "sie_Sie": "löschten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gelöscht"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "aus",
+          "case": "Dativ",
+          "meaning_ar": "يحذف من سلة المهملات"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er löscht temporäre Cache-Dateien, um freien Speicherplatz zu gewinnen.",
+          "en": "He deletes temporary cache files to gain free storage space.",
+          "ar": "يَحْذِفُ المَلَفَّاتِ المُؤَقَّتَةَ لِتَوْفِيرِ مِسَاحَةِ تَخْزِينٍ إِضَافِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_code_012",
+      "infinitive": "kopieren",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "ein Duplikat von Text oder Dateien anfertigen",
+      "meaning_en": "to copy data",
+      "meaning_ar": "يَنْسَخُ البَيَانَاتِ أَوِ النَّصّ",
+      "tenses": {
+        "present": {
+          "ich": "kopiere",
+          "du": "kopierst",
+          "er_sie_es": "kopiert",
+          "wir": "kopieren",
+          "ihr": "kopiert",
+          "sie_Sie": "kopieren"
+        },
+        "past_simple": {
+          "ich": "kopierte",
+          "du": "kopiertest",
+          "er_sie_es": "kopierte",
+          "wir": "kopierten",
+          "ihr": "kopiertet",
+          "sie_Sie": "kopierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "kopiert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Akkusativ",
+          "meaning_ar": "ينسخ إلى المجلد"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Mit Tastenkürzeln kopiert man Textpassagen blitzschnell.",
+          "en": "With keyboard shortcuts, you copy text passages in a flash.",
+          "ar": "يَنْسَخُ المَرْءُ فِقْرَاتِ النَّصِّ بِسُرْعَةٍ فَائِقَةٍ بِاخْتِصَارَاتِ لَوْحَةِ المَفَاتِيح."
+        }
+      ]
+    },
+    {
+      "id": "verb_code_013",
+      "infinitive": "einfügen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "kopierte Inhalte an der Cursorposition platzieren",
+      "meaning_en": "to paste text or content",
+      "meaning_ar": "يَلْصِقُ المُحْتَوَى",
+      "tenses": {
+        "present": {
+          "ich": "füge ein",
+          "du": "fügst ein",
+          "er_sie_es": "fügt ein",
+          "wir": "fügen ein",
+          "ihr": "fügt ein",
+          "sie_Sie": "fügen ein"
+        },
+        "past_simple": {
+          "ich": "fügte ein",
+          "du": "fügtest ein",
+          "er_sie_es": "fügte ein",
+          "wir": "fügten ein",
+          "ihr": "fügtet ein",
+          "sie_Sie": "fügten ein"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "eingefügt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Akkusativ",
+          "meaning_ar": "يلصق في المستند"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er fügte das Zitat direkt in das zweite Kapitel seines Berichts ein.",
+          "en": "He pasted the quotation directly into the second chapter of his report.",
+          "ar": "لَصَقَ الِاقْتِبَاسَ مُبَاشَرَةً فِي الفَصْلِ الثَّانِي مِنْ تَقْرِيرِه."
+        }
+      ]
+    },
+    {
+      "id": "verb_code_014",
+      "infinitive": "suchen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "nach bestimmten Begriffen in Texten oder Datenbanken forschen",
+      "meaning_en": "to search for terms",
+      "meaning_ar": "يَبْحَثُ فِي قَاعِدَةِ البَيَانَاتِ عَنْ كَلِمَة",
+      "tenses": {
+        "present": {
+          "ich": "suche",
+          "du": "suchst",
+          "er_sie_es": "sucht",
+          "wir": "suchen",
+          "ihr": "sucht",
+          "sie_Sie": "suchen"
+        },
+        "past_simple": {
+          "ich": "suchte",
+          "du": "suchtest",
+          "er_sie_es": "suchte",
+          "wir": "suchten",
+          "ihr": "suchtet",
+          "sie_Sie": "suchten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gesucht"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "nach",
+          "case": "Dativ",
+          "meaning_ar": "يبحث عن مصطلح"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die App sucht in Millisekunden nach der arabischen Übersetzung des deutschen Wortes.",
+          "en": "The app searches in milliseconds for the Arabic translation of the German word.",
+          "ar": "يَبْحَثُ التَّطْبِيقُ فِي أَجْزَاءِ الثَّانِيَةِ عَنِ التَّرْجَمَةِ العَرَبِيَّةِ لِلْكَلِمَةِ الأَلْمَانِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_code_015",
+      "infinitive": "verbinden",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "den Computer mit dem Netzwerk oder Internet koppeln",
+      "meaning_en": "to connect to network",
+      "meaning_ar": "يَتَّصِلُ بِالشَّبَكَةِ أَوِ الإِنْتَرْنِت",
+      "tenses": {
+        "present": {
+          "ich": "verbinde",
+          "du": "verbindest",
+          "er_sie_es": "verbindet",
+          "wir": "verbinden",
+          "ihr": "verbindet",
+          "sie_Sie": "verbinden"
+        },
+        "past_simple": {
+          "ich": "verband",
+          "du": "verbandest",
+          "er_sie_es": "verband",
+          "wir": "verbanden",
+          "ihr": "verbandet",
+          "sie_Sie": "verbanden"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "verbunden"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يتصل بالشبكة اللاسلكية"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Das Gerät verbindet sich automatisch mit dem sicheren WLAN der Bibliothek.",
+          "en": "The device automatically connects to the library's secure Wi-Fi.",
+          "ar": "يَتَّصِلُ الجِهَازُ تِلْقَائِيًّا بِشَبَكَةِ الوَاي فَاي الآمِنَةِ فِي المَكْتَبَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_code_016",
+      "infinitive": "trennen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "die Verbindung zum Netzwerk ordnungsgemäß beenden",
+      "meaning_en": "to disconnect",
+      "meaning_ar": "يَفْصِلُ الِاتِّصَالَ عَنِ الشَّبَكَة",
+      "tenses": {
+        "present": {
+          "ich": "trenne",
+          "du": "trennst",
+          "er_sie_es": "trennt",
+          "wir": "trennen",
+          "ihr": "trennt",
+          "sie_Sie": "trennen"
+        },
+        "past_simple": {
+          "ich": "trennte",
+          "du": "trenntest",
+          "er_sie_es": "trennte",
+          "wir": "trennten",
+          "ihr": "trenntet",
+          "sie_Sie": "trennten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "getrennt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "vom",
+          "case": "Dativ",
+          "meaning_ar": "يفصل عن الخادم"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Vor Wartungsarbeiten trennt der Administrator das System sicher vom Netz.",
+          "en": "Before maintenance work, the administrator securely disconnects the system from the network.",
+          "ar": "يَفْصِلُ مَسْؤُولُ النِّظَامِ الخَادِمَ بِأَمَانٍ عَنِ الشَّبَكَةِ قَبْلَ الصِّيَانَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_code_017",
+      "infinitive": "sichern",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "ein Backup aller wichtigen Datenbanken und Quellcodes anlegen",
+      "meaning_en": "to back up, secure data",
+      "meaning_ar": "يُنْشِئُ نُسْخَةً احْتِيَاطِيَّةً لِحِمَايَةِ البَيَانَات",
+      "tenses": {
+        "present": {
+          "ich": "sichere",
+          "du": "sicherst",
+          "er_sie_es": "sichert",
+          "wir": "sichern",
+          "ihr": "sichert",
+          "sie_Sie": "sichern"
+        },
+        "past_simple": {
+          "ich": "sicherte",
+          "du": "sichertest",
+          "er_sie_es": "sicherte",
+          "wir": "sicherten",
+          "ihr": "sichertet",
+          "sie_Sie": "sicherten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gesichert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Dativ",
+          "meaning_ar": "يحفظ نسخة احتياطية على قرص خارجي"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er sichert den gesamten Quellcode täglich auf einer externen Festplatte.",
+          "en": "He backs up the entire source code daily onto an external hard drive.",
+          "ar": "يَحْفَظُ نُسْخَةً احْتِيَاطِيَّةً لِكَامِلِ الشِّيفْرَةِ المَصْدَرِيَّةِ يَوْمِيًّا عَلَى قُرْصٍ خَارِجِيّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_code_018",
+      "infinitive": "starten",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "ein Computerprogramm oder eine Anwendung ausführen",
+      "meaning_en": "to start, launch an app",
+      "meaning_ar": "يُشَغِّلُ، يَبْدَأُ تَشْغِيلَ البَرْنَامَج",
+      "tenses": {
+        "present": {
+          "ich": "starte",
+          "du": "startest",
+          "er_sie_es": "startet",
+          "wir": "starten",
+          "ihr": "startet",
+          "sie_Sie": "starten"
+        },
+        "past_simple": {
+          "ich": "startete",
+          "du": "startetest",
+          "er_sie_es": "startete",
+          "wir": "starteten",
+          "ihr": "startetet",
+          "sie_Sie": "starteten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gestartet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "durch",
+          "case": "Akkusativ",
+          "meaning_ar": "يشغل بالنقر المزدوج"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Mit einem Doppelklick startet der Schüler die Lernsoftware.",
+          "en": "With a double click, the student launches the learning software.",
+          "ar": "يُشَغِّلُ التِّلْمِيذُ بَرْنَامَجَ التَّعَلُّمِ بِنَقْرَةٍ مُزْدَوَجَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_code_019",
+      "infinitive": "neustarten",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "den Computer nach einem Update frisch hochfahren",
+      "meaning_en": "to reboot, restart system",
+      "meaning_ar": "يُعِيدُ تَشْغِيلَ الجِهَاز",
+      "tenses": {
+        "present": {
+          "ich": "starte neu",
+          "du": "startest neu",
+          "er_sie_es": "startet neu",
+          "wir": "starten neu",
+          "ihr": "startet neu",
+          "sie_Sie": "starten neu"
+        },
+        "past_simple": {
+          "ich": "startete neu",
+          "du": "startetest neu",
+          "er_sie_es": "startete neu",
+          "wir": "starteten neu",
+          "ihr": "startetet neu",
+          "sie_Sie": "starteten neu"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "neugestartet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "nach",
+          "case": "Dativ",
+          "meaning_ar": "يعيد التشغيل بعد التحديث"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Nach der Installation muss man den Computer kurz neustarten.",
+          "en": "After installation, one must briefly restart the computer.",
+          "ar": "يَجِبُ إِعَادَةُ تَشْغِيلِ الحَاسُوبِ لَحْظِيًّا بَعْدَ اكْتِمَالِ التَّثْبِيت."
+        }
+      ]
+    },
+    {
+      "id": "verb_code_020",
+      "infinitive": "entwickeln",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "komplexe und nützliche Softwarelösungen von Grund auf erschaffen",
+      "meaning_en": "to develop software",
+      "meaning_ar": "يُطَوِّرُ حُلُولًا بَرْمَجِيَّةً نَافِعَة",
+      "tenses": {
+        "present": {
+          "ich": "entwickle",
+          "du": "entwickelst",
+          "er_sie_es": "entwickelt",
+          "wir": "entwickeln",
+          "ihr": "entwickelt",
+          "sie_Sie": "entwickeln"
+        },
+        "past_simple": {
+          "ich": "entwickelte",
+          "du": "entwickeltest",
+          "er_sie_es": "entwickelte",
+          "wir": "entwickelten",
+          "ihr": "entwickeltet",
+          "sie_Sie": "entwickelten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "entwickelt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "für",
+          "case": "Akkusativ",
+          "meaning_ar": "يطور لأجل خدمة التعليم"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Das Team entwickelt ein dreisprachiges Lernlabor zur Förderung des Sprachverständnisses.",
+          "en": "The team develops a trilingual learning lab to foster language comprehension.",
+          "ar": "يُطَوِّرُ الفَرِيقُ مُخْتَبَرًا تَعْلِيمِيًّا ثُلَاثِيَّ اللُّغَاتِ لِتَعْزِيزِ الفَهْمِ اللُّغَوِيّ."
+        }
+      ]
+    }
+  ]
+}

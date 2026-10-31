@@ -1,0 +1,409 @@
+{
+  "category_id": "family_kinship_a1",
+  "category_name_de": "Familie, Verwandtschaft & Zusammenhalt",
+  "category_name_en": "Family, Kinship & Cohesion",
+  "category_name_ar": "الأُسْرَةُ وَصِلَةُ الرَّحِمِ وَالتَّرَابُطُ العَائِلِيّ",
+  "level": "A1/A2",
+  "items": [
+    {
+      "id": "family_kin_001",
+      "term_de": "die Familie",
+      "plural_de": "die Familien",
+      "term_en": "family",
+      "term_ar": "الأُسْرَة، العَائِلَة",
+      "pronunciation_de": "[faˈmiːli̯ə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Familie versammelt sich jeden Freitag zu einem gemeinsamen Essen.",
+          "en": "The family gathers every Friday for a shared meal.",
+          "ar": "تَجْتَمِعُ الأُسْرَةُ كُلَّ جُمُعَةٍ عَلَى طَعَامٍ وَاحِد."
+        }
+      ]
+    },
+    {
+      "id": "family_kin_002",
+      "term_de": "die Eltern",
+      "plural_de": "die Eltern",
+      "term_en": "parents",
+      "term_ar": "الوَالِدَان، الأَبَوَان",
+      "pronunciation_de": "[ˈɛltɐn]",
+      "gender_de": "plural",
+      "examples": [
+        {
+          "de": "Güte und Respekt gegenüber den Eltern sind die edelsten Tugenden.",
+          "en": "Kindness and respect toward parents are the noblest virtues.",
+          "ar": "بِرُّ الوَالِدَيْنِ وَاحْتِرَامُهُمَا مِنْ أَنْبَلِ الفَضَائِل."
+        }
+      ]
+    },
+    {
+      "id": "family_kin_003",
+      "term_de": "der Vater",
+      "plural_de": "die Väter",
+      "term_en": "father",
+      "term_ar": "الأَب، الوَالِد",
+      "pronunciation_de": "[ˈfaːtɐ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Mein Vater lehrt uns stets Geduld, Fleiß und Ehrlichkeit.",
+          "en": "My father always teaches us patience, diligence, and honesty.",
+          "ar": "يُعَلِّمُنَا أَبِي دَائِمًا الصَّبْرَ وَالِاجْتِهَادَ وَالصِّدْق."
+        }
+      ]
+    },
+    {
+      "id": "family_kin_004",
+      "term_de": "die Mutter",
+      "plural_de": "die Mütter",
+      "term_en": "mother",
+      "term_ar": "الأُمّ، الوَالِدَة",
+      "pronunciation_de": "[ˈmʊtɐ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Das Herz der Mutter schenkt bedingungslose Wärme und Geborgenheit.",
+          "en": "The mother's heart grants unconditional warmth and security.",
+          "ar": "يَمْنَحُ قَلْبُ الأُمِّ دِفْئًا وَأَمَانًا لَا مَثِيلَ لَهُمَا."
+        }
+      ]
+    },
+    {
+      "id": "family_kin_005",
+      "term_de": "der Sohn",
+      "plural_de": "die Söhne",
+      "term_en": "son",
+      "term_ar": "الِابْن",
+      "pronunciation_de": "[zoːn]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der Sohn hilft seinem Vater liebevoll bei der Gartenarbeit.",
+          "en": "The son lovingly helps his father with the gardening.",
+          "ar": "يُسَاعِدُ الِابْنُ أَبَاهُ بِمَوَدَّةٍ فِي أَعْمَالِ الحَدِيقَة."
+        }
+      ]
+    },
+    {
+      "id": "family_kin_006",
+      "term_de": "die Tochter",
+      "plural_de": "die Töchter",
+      "term_en": "daughter",
+      "term_ar": "الِابْنَة، البِنْت",
+      "pronunciation_de": "[ˈtɔxtɐ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die kleine Tochter lacht fröhlich und lernt jeden Tag neue Wörter.",
+          "en": "The little daughter laughs cheerfully and learns new words every day.",
+          "ar": "تَضْحَكُ الِابْنَةُ الصَّغِيرَةُ بِمَرَحٍ وَتَتَعَلَّمُ كُلَّ يَوْمٍ كَلِمَاتٍ جَدِيدَة."
+        }
+      ]
+    },
+    {
+      "id": "family_kin_007",
+      "term_de": "der Bruder",
+      "plural_de": "die Brüder",
+      "term_en": "brother",
+      "term_ar": "الأَخ",
+      "pronunciation_de": "[ˈbʁuːdɐ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Mein älterer Bruder ist mein treuer Ratgeber im Leben.",
+          "en": "My older brother is my faithful advisor in life.",
+          "ar": "أَخِي الأَكْبَرُ هُوَ نَاصِحِي الأَمِينُ فِي الحَيَاة."
+        }
+      ]
+    },
+    {
+      "id": "family_kin_008",
+      "term_de": "die Schwester",
+      "plural_de": "die Schwestern",
+      "term_en": "sister",
+      "term_ar": "الأُخْت",
+      "pronunciation_de": "[ˈʃvɛstɐ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Meine Schwester liest am liebsten lehrreiche Geschichten.",
+          "en": "My sister prefers reading educational stories.",
+          "ar": "تُفَضِّلُ أُخْتِي قِرَاءَةَ القِصَصِ النَّافِعَة."
+        }
+      ]
+    },
+    {
+      "id": "family_kin_009",
+      "term_de": "die Geschwister",
+      "plural_de": "die Geschwister",
+      "term_en": "siblings",
+      "term_ar": "الإِخْوَةُ وَالأَخَوَات",
+      "pronunciation_de": "[ɡəˈʃvɪstɐ]",
+      "gender_de": "plural",
+      "examples": [
+        {
+          "de": "Gute Geschwister halten in Freude und Not fest zusammen.",
+          "en": "Good siblings stick firmly together in joy and hardship.",
+          "ar": "يَتَمَاسَكُ الإِخْوَةُ الأَوْفِيَاءُ مَعًا فِي السَّرَّاءِ وَالضَّرَّاء."
+        }
+      ]
+    },
+    {
+      "id": "family_kin_010",
+      "term_de": "die Großeltern",
+      "plural_de": "die Großeltern",
+      "term_en": "grandparents",
+      "term_ar": "الجَدَّان",
+      "pronunciation_de": "[ˈɡʁoːsˌʔɛltɐn]",
+      "gender_de": "plural",
+      "examples": [
+        {
+          "de": "Die Großeltern erzählen den Enkeln weise Erzählungen aus alter Zeit.",
+          "en": "The grandparents tell the grandchildren wise tales from old times.",
+          "ar": "يَرْوِي الجَدَّانِ لِلأَحْفَادِ حِكَايَاتٍ حَكِيمَةً مِنَ الزَّمَنِ القَدِيم."
+        }
+      ]
+    },
+    {
+      "id": "family_kin_011",
+      "term_de": "der Großvater",
+      "plural_de": "die Großväter",
+      "term_en": "grandfather",
+      "term_ar": "الجَدّ",
+      "pronunciation_de": "[ˈɡʁoːsˌfaːtɐ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der Großvater geht jeden Nachmittag mit ruhigen Schritten im Park spazieren.",
+          "en": "The grandfather takes a walk in the park with calm steps every afternoon.",
+          "ar": "يَتَمَشَّى الجَدُّ كُلَّ مَسَاءٍ بِخُطًى وَئِيدَةٍ فِي الحَدِيقَة."
+        }
+      ]
+    },
+    {
+      "id": "family_kin_012",
+      "term_de": "die Großmutter",
+      "plural_de": "die Großmütter",
+      "term_en": "grandmother",
+      "term_ar": "الجَدَّة",
+      "pronunciation_de": "[ˈɡʁoːsˌmʊtɐ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Großmutter bereitet stets das leckerste Brot für die Familie zu.",
+          "en": "The grandmother always prepares the most delicious bread for the family.",
+          "ar": "تُعِدُّ الجَدَّةُ دَائِمًا أَشْهَى خُبْزٍ لِلأُسْرَة."
+        }
+      ]
+    },
+    {
+      "id": "family_kin_013",
+      "term_de": "das Enkelkind",
+      "plural_de": "die Enkelkinder",
+      "term_en": "grandchild",
+      "term_ar": "الحَفِيد",
+      "pronunciation_de": "[ˈɛŋkl̩ˌkɪnt]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das kleine Enkelkind zaubert ein Lächeln auf das Gesicht der Großeltern.",
+          "en": "The little grandchild brings a smile to the grandparents' faces.",
+          "ar": "يَرْسُمُ الحَفِيدُ الصَّغِيرُ ابْتِسَامَةً عَلَى وُجُوهِ الجَدَّيْن."
+        }
+      ]
+    },
+    {
+      "id": "family_kin_014",
+      "term_de": "der Onkel",
+      "plural_de": "die Onkel",
+      "term_en": "uncle",
+      "term_ar": "العَمّ، الخَال",
+      "pronunciation_de": "[ˈɔŋkl̩]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Mein Onkel brachte uns getrocknete Feigen aus seinem Dorf mit.",
+          "en": "My uncle brought us dried figs from his village.",
+          "ar": "أَحْضَرَ لَنَا عَمِّي تِينًا مُجَفَّفًا مِنْ قَرْيَتِه."
+        }
+      ]
+    },
+    {
+      "id": "family_kin_015",
+      "term_de": "die Tante",
+      "plural_de": "die Tanten",
+      "term_en": "aunt",
+      "term_ar": "العَمَّة، الخَالَة",
+      "pronunciation_de": "[ˈtantə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Tante Fatima empfängt ihre Nichten stets mit offenen Armen.",
+          "en": "Aunt Fatima always receives her nieces with open arms.",
+          "ar": "تَسْتَقْبِلُ الخَالَةُ فَاطِمَةُ بَنَاتِ أُخْتِهَا دَائِمًا بِصَدْرٍ رَحْب."
+        }
+      ]
+    },
+    {
+      "id": "family_kin_016",
+      "term_de": "der Cousin",
+      "plural_de": "die Cousins",
+      "term_en": "male cousin",
+      "term_ar": "ابْنُ العَمّ، ابْنُ الخَال",
+      "pronunciation_de": "[kuˈzɛ̃ː]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "In den Ferien spiele ich gerne mit meinem Cousin im Garten.",
+          "en": "During holidays, I like playing with my cousin in the garden.",
+          "ar": "أَلْعَبُ فِي العُطْلَةِ بِسَعَادَةٍ مَعَ ابْنِ عَمِّي فِي الحَدِيقَة."
+        }
+      ]
+    },
+    {
+      "id": "family_kin_017",
+      "term_de": "die Cousine",
+      "plural_de": "die Cousinen",
+      "term_en": "female cousin",
+      "term_ar": "ابْنَةُ العَمّ، ابْنَةُ الخَال",
+      "pronunciation_de": "[kuˈziːnə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Meine Cousine studiert fleißig Medizin an der Universität.",
+          "en": "My cousin is diligently studying medicine at the university.",
+          "ar": "تَدْرُسُ ابْنَةُ خَالِي الطِّبَّ بِاجْتِهَادٍ فِي الجَامِعَة."
+        }
+      ]
+    },
+    {
+      "id": "family_kin_018",
+      "term_de": "der Neffe",
+      "plural_de": "die Neffen",
+      "term_en": "nephew",
+      "term_ar": "ابْنُ الأَخ، ابْنُ الأُخْت",
+      "pronunciation_de": "[ˈnɛfə]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Sein Neffe begann diese Woche stolz mit der Grundschule.",
+          "en": "His nephew proudly started elementary school this week.",
+          "ar": "بَدَأَ ابْنُ أَخِيهِ هَذَا الأُسْبُوعَ دِرَاسَتَهُ الِابْتِدَائِيَّةَ بِفَخْر."
+        }
+      ]
+    },
+    {
+      "id": "family_kin_019",
+      "term_de": "die Nichte",
+      "plural_de": "die Nichten",
+      "term_en": "niece",
+      "term_ar": "ابْنَةُ الأَخ، ابْنَةُ الأُخْت",
+      "pronunciation_de": "[ˈnɪçtə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die kleine Nichte zeichnete ein farbenfrohes Bild für ihren Onkel.",
+          "en": "The little niece drew a colorful picture for her uncle.",
+          "ar": "رَسَمَتِ ابْنَةُ الأُخْتِ الصَّغِيرَةُ لَوْحَةً جَمِيلَةً لِعَمِّهَا."
+        }
+      ]
+    },
+    {
+      "id": "family_kin_020",
+      "term_de": "das Neugeborene",
+      "plural_de": "die Neugeborenen",
+      "term_en": "newborn, infant",
+      "term_ar": "المَوْلُودُ الجَدِيد، الرَّضِيع",
+      "pronunciation_de": "[ˈnɔɪ̯ɡəˌboːʁənə]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das gesunde Neugeborene schläft friedlich in seiner Wiege.",
+          "en": "The healthy newborn sleeps peacefully in its cradle.",
+          "ar": "يَنَامُ المَوْلُودُ الجَدِيدُ السَّلِيمُ بِسَلَامٍ فِي مَهْدِه."
+        }
+      ]
+    },
+    {
+      "id": "family_kin_021",
+      "term_de": "das Zuhause",
+      "plural_de": "-",
+      "term_en": "home, hearth",
+      "term_ar": "البَيْتُ الأُسَرِيّ، المَأْوَى الدَّافِئ",
+      "pronunciation_de": "[t͡suˈhaʊ̯zə]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Ein harmonisches Zuhause schenkt Ruhe nach einem langen Tag.",
+          "en": "A harmonious home provides tranquility after a long day.",
+          "ar": "البَيْتُ المُتَنَاغِمُ يَمْنَحُ السَّكِينَةَ بَعْدَ يَوْمٍ طَوِيل."
+        }
+      ]
+    },
+    {
+      "id": "family_kin_022",
+      "term_de": "der Zusammenhalt",
+      "plural_de": "-",
+      "term_en": "family cohesion, solidarity",
+      "term_ar": "التَّرَابُطُ الأُسَرِيّ، التَّكَاتُف",
+      "pronunciation_de": "[t͡suˈzamənˌhalt]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Starker familiärer Zusammenhalt überwindet alle Sorgen des Alltags.",
+          "en": "Strong family cohesion overcomes all daily worries.",
+          "ar": "التَّكَاتُفُ الأُسَرِيُّ القَوِيُّ يَتَغَلَّبُ عَلَى كُلِّ هُمُومِ الحَيَاة."
+        }
+      ]
+    },
+    {
+      "id": "family_kin_023",
+      "term_de": "die Geborgenheit",
+      "plural_de": "-",
+      "term_en": "feeling of safety, warm security",
+      "term_ar": "الدِّفْءُ وَالأَمَانُ الأُسَرِيّ",
+      "pronunciation_de": "[ɡəˈbɔʁɡn̩haɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Kinder brauchen Liebe und Geborgenheit, um selbstbewusst heranzuwachsen.",
+          "en": "Children need love and security to grow up confident.",
+          "ar": "يَحْتَاجُ الأَطْفَالُ إِلَى المَحَبَّةِ وَالأَمَانِ لِيَنْشَؤُوا وَاثِقِينَ بِأَنْفُسِهِم."
+        }
+      ]
+    },
+    {
+      "id": "family_kin_024",
+      "term_de": "die Fürsorge",
+      "plural_de": "-",
+      "term_en": "care, nurturing, solicitude",
+      "term_ar": "الرِّعَايَة، العِنَايَةُ الحَانِيَة",
+      "pronunciation_de": "[ˈfyːɐ̯ˌzɔʁɡə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Mit rührender Fürsorge pflegen die Kinder ihre betagten Eltern.",
+          "en": "With touching care, the children look after their elderly parents.",
+          "ar": "يَرْعَى الأَبْنَاءُ وَالِدَيْهِمْ كِبَارَ السِّنِّ بِعِنَايَةٍ حَانِيَةٍ تَسُرُّ القُلُوب."
+        }
+      ]
+    },
+    {
+      "id": "family_kin_025",
+      "term_de": "der Segen",
+      "plural_de": "die Segen",
+      "term_en": "blessing, good fortune",
+      "term_ar": "البَرَكَة، الخَيْرُ العَمِيم",
+      "pronunciation_de": "[ˈzeːɡn̩]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Ein gütiges und einträchtiges Familienleben ist ein wahrer Segen.",
+          "en": "A kind and harmonious family life is a true blessing.",
+          "ar": "الحَيَاةُ الأُسَرِيَّةُ الطَّيِّبَةُ المُتَآلِفَةُ بَرَكَةٌ حَقِيقِيَّة."
+        }
+      ]
+    }
+  ]
+}

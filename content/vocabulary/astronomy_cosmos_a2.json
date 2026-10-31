@@ -1,0 +1,409 @@
+{
+  "category_id": "astronomy_cosmos_a2",
+  "category_name_de": "Astronomie, Gestirne & Der Kosmos",
+  "category_name_en": "Astronomy, Stars & The Cosmos",
+  "category_name_ar": "عِلْمُ الفَلَكِ وَالنُّجُومِ وَالكَوْنُ البَدِيع",
+  "level": "A2+",
+  "items": [
+    {
+      "id": "astro_cosmos_001",
+      "term_de": "der Stern",
+      "plural_de": "die Sterne",
+      "term_en": "star",
+      "term_ar": "النَّجْم",
+      "pronunciation_de": "[ʃtɛʁn]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Millionen leuchtender Sterne erhellen die klare Nacht.",
+          "en": "Millions of shining stars illuminate the clear night.",
+          "ar": "مَلَايِينُ النُّجُومِ المُضِيئَةِ تُنِيرُ اللَّيْلَةَ الصَّافِيَة."
+        }
+      ]
+    },
+    {
+      "id": "astro_cosmos_002",
+      "term_de": "der Mond",
+      "plural_de": "die Monde",
+      "term_en": "moon",
+      "term_ar": "القَمَر",
+      "pronunciation_de": "[moːnt]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der Mond zieht auf seiner festen Bahn seine Kreise um die Erde.",
+          "en": "The moon follows its fixed orbit around the earth.",
+          "ar": "يَدُورُ القَمَرُ فِي مَدَارِهِ الثَّابِتِ حَوْلَ الأَرْض."
+        }
+      ]
+    },
+    {
+      "id": "astro_cosmos_003",
+      "term_de": "die Sonne",
+      "plural_de": "die Sonnen",
+      "term_en": "sun",
+      "term_ar": "الشَّمْس",
+      "pronunciation_de": "[ˈzɔnə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Sonne spendet der Erde lebenswichtige Wärme und helles Licht.",
+          "en": "The sun provides the earth with vital warmth and bright light.",
+          "ar": "تَمْنَحُ الشَّمْسُ الأَرْضَ دِفْئًا حَيَوِيًّا وَنُورًا ضَاحِيًا."
+        }
+      ]
+    },
+    {
+      "id": "astro_cosmos_004",
+      "term_de": "der Planet",
+      "plural_de": "die Planeten",
+      "term_en": "planet",
+      "term_ar": "الكَوْكَب",
+      "pronunciation_de": "[plaˈneːt]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Acht Planeten kreisen in harmonischer Ordnung um die Sonne.",
+          "en": "Eight planets orbit the sun in harmonious order.",
+          "ar": "تَدُورُ ثَمَانِيَةُ كَوَاكِبَ فِي نِظَامٍ بَدِيعٍ حَوْلَ الشَّمْس."
+        }
+      ]
+    },
+    {
+      "id": "astro_cosmos_005",
+      "term_de": "die Galaxie",
+      "plural_de": "die Galaxien",
+      "term_en": "galaxy",
+      "term_ar": "المَجَرَّة",
+      "pronunciation_de": "[ɡalaˈksiː]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Unsere Heimatgalaxie, die Milchstraße, umfasst unzählige Sonnensysteme.",
+          "en": "Our home galaxy, the Milky Way, encompasses countless solar systems.",
+          "ar": "تَضُمُّ مَجَرَّتُنَا دَرْبُ التَّبَّانَةِ مَنْظُومَاتٍ شَمْسِيَّةً لَا تُحْصَى."
+        }
+      ]
+    },
+    {
+      "id": "astro_cosmos_006",
+      "term_de": "das Sonnensystem",
+      "plural_de": "die Sonnensysteme",
+      "term_en": "solar system",
+      "term_ar": "المَجْمُوعَةُ الشَّمْسِيَّة",
+      "pronunciation_de": "[ˈzɔnənzʏsˌteːm]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Die Erde ist der dritte Planet in unserem Sonnensystem.",
+          "en": "Earth is the third planet in our solar system.",
+          "ar": "الأَرْضُ هِيَ الكَوْكَبُ الثَّالِثُ فِي مَجْمُوعَتِنَا الشَّمْسِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "astro_cosmos_007",
+      "term_de": "das Weltall",
+      "plural_de": "-",
+      "term_en": "universe, outer space, cosmos",
+      "term_ar": "الكَوْن، الفَضَاءُ الرَّحْب",
+      "pronunciation_de": "[ˈvɛltʔal]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Die unendliche Weite des Weltalls versetzt den Menschen in ehrfürchtiges Staunen.",
+          "en": "The infinite expanse of the universe puts mankind into reverent awe.",
+          "ar": "تَبْعَثُ اتِّسَاعَاتُ الكَوْنِ اللَّامَحْدُودَةِ فِي الإِنْسَانِ خُشُوعًا وَتَأَمُّلًا عَظِيمًا."
+        }
+      ]
+    },
+    {
+      "id": "astro_cosmos_008",
+      "term_de": "die Mondphase",
+      "plural_de": "die Mondphasen",
+      "term_en": "lunar phase, moon phase",
+      "term_ar": "طَوْرُ القَمَر",
+      "pronunciation_de": "[ˈmoːntˌfaːzə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Der Kalender zeigt den Wechsel der Mondphasen im Monatsverlauf.",
+          "en": "The calendar shows the change of lunar phases over the month.",
+          "ar": "يُظْهِرُ التَّقْوِيمُ تَعَاقُبَ أَطْوَارِ القَمَرِ عَلَى مَدَارِ الشَّهْر."
+        }
+      ]
+    },
+    {
+      "id": "astro_cosmos_009",
+      "term_de": "der Neumond",
+      "plural_de": "die Neumonde",
+      "term_en": "new moon, crescent birth",
+      "term_ar": "الهِلَال، مَحَاقُ القَمَر",
+      "pronunciation_de": "[ˈnɔɪ̯ˌmoːnt]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Mit der Sichtung des feinen Neumonds beginnt der neue Monat.",
+          "en": "With the sighting of the fine new moon, the new month begins.",
+          "ar": "يَبْدَأُ الشَّهْرُ الجَدِيدُ مَعَ رُؤْيَةِ الهِلَالِ النَّحِيل."
+        }
+      ]
+    },
+    {
+      "id": "astro_cosmos_010",
+      "term_de": "der Vollmond",
+      "plural_de": "die Vollmonde",
+      "term_en": "full moon",
+      "term_ar": "البَدْرُ التَّامّ",
+      "pronunciation_de": "[ˈfɔlˌmoːnt]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der helle Vollmond beleuchtet die Landschaft wie eine silberne Laterne.",
+          "en": "The bright full moon illuminates the landscape like a silver lantern.",
+          "ar": "يُضِيءُ البَدْرُ المُنِيرُ المَشْهَدَ الطَّبِيعِيَّ كَقِنْدِيلٍ فِضِّيّ."
+        }
+      ]
+    },
+    {
+      "id": "astro_cosmos_011",
+      "term_de": "die Sternschnuppe",
+      "plural_de": "die Sternschnuppen",
+      "term_en": "shooting star, meteor",
+      "term_ar": "الشِّهَاب، النَّيْزَكُ السَّاقِط",
+      "pronunciation_de": "[ˈʃtɛʁnˌʃnʊpə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Am Sommerhimmel huschte eine glänzende Sternschnuppe blitzschnell vorüber.",
+          "en": "A glittering shooting star flashed across the summer sky.",
+          "ar": "مَرَّ شِهَابٌ لَامِعٌ كَالْبَرْقِ فِي سَمَاءِ الصَّيْف."
+        }
+      ]
+    },
+    {
+      "id": "astro_cosmos_012",
+      "term_de": "der Komet",
+      "plural_de": "die Kometen",
+      "term_en": "comet",
+      "term_ar": "المُذَنَّب",
+      "pronunciation_de": "[koˈmeːt]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der Komet zog mit seinem leuchtenden Schweif über den Nachthimmel.",
+          "en": "The comet moved across the night sky with its luminous tail.",
+          "ar": "عَبَرَ المُذَنَّبُ بِذَيْلِهِ المُضِيءِ فِي سَمَاءِ اللَّيْل."
+        }
+      ]
+    },
+    {
+      "id": "astro_cosmos_013",
+      "term_de": "das Fernrohr",
+      "plural_de": "die Fernrohre",
+      "term_en": "telescope",
+      "term_ar": "المِنْظَارُ الفَلَكِيّ، التِّلِسْكُوب",
+      "pronunciation_de": "[ˈfɛʁnˌʁoːɐ̯]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Durch das große Fernrohr der Sternwarte erkennt man die Krater des Mondes.",
+          "en": "Through the observatory's large telescope, one recognizes the moon's craters.",
+          "ar": "تَظْهَرُ فُوَّهَاتُ القَمَرِ بِوُضُوحٍ عَبْرَ مِنْظَارِ المَرْصَدِ الكَبِير."
+        }
+      ]
+    },
+    {
+      "id": "astro_cosmos_014",
+      "term_de": "die Umlaufbahn",
+      "plural_de": "die Umlaufbahnen",
+      "term_en": "orbit, trajectory",
+      "term_ar": "المَدَارُ الفَلَكِيّ، الفَلَك",
+      "pronunciation_de": "[ˈʊmlaʊ̯fˌbaːn]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Jeder Himmelskörper wandelt auf einer genau berechneten Umlaufbahn.",
+          "en": "Every celestial body moves on a precisely calculated orbit.",
+          "ar": "يَسْبَحُ كُلُّ جِرْمٍ سَمَاوِيٍّ فِي فَلَكٍ مَحْسُوبٍ بِدِقَّة."
+        }
+      ]
+    },
+    {
+      "id": "astro_cosmos_015",
+      "term_de": "die Himmelsbeobachtung",
+      "plural_de": "die Himmelsbeobachtungen",
+      "term_en": "sky watching, celestial observation",
+      "term_ar": "رَصْدُ السَّمَاءِ وَالأَجْرَام",
+      "pronunciation_de": "[ˈhɪml̩sbəˌʔoːbaxtʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Himmelsbeobachtung in einer klaren Wüstennacht ist unvergesslich schön.",
+          "en": "Sky observation on a clear desert night is unforgettably beautiful.",
+          "ar": "رَصْدُ السَّمَاءِ فِي لَيْلَةٍ صَحْرَاوِيَّةٍ صَافِيَةٍ جَمَالٌ لَا يُنْسَى."
+        }
+      ]
+    },
+    {
+      "id": "astro_cosmos_016",
+      "term_de": "das Sternbild",
+      "plural_de": "die Sternbilder",
+      "term_en": "constellation",
+      "term_ar": "الكَوْكَبَةُ النَّجْمِيَّة، البُرْجُ السَّمَاوِيّ",
+      "pronunciation_de": "[ˈʃtɛʁnˌbɪlt]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Schon die alten Seefahrer orientierten sich an bekannten Sternbildern.",
+          "en": "Ancient seafarers already oriented themselves using well-known constellations.",
+          "ar": "اهْتَدَى البَحَّارَةُ القُدَمَاءُ بِالكَوَاكِبِ النَّجْمِيَّةِ المَعْرُوفَةِ فِي أَسْفَارِهِم."
+        }
+      ]
+    },
+    {
+      "id": "astro_cosmos_017",
+      "term_de": "der Sonnenaufgang",
+      "plural_de": "die Sonnenaufgänge",
+      "term_en": "sunrise",
+      "term_ar": "شُرُوقُ الشَّمْس",
+      "pronunciation_de": "[ˈzɔnənʔaʊ̯fˌɡaŋ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der Sonnenaufgang taucht die Berggipfel in goldenes Licht.",
+          "en": "The sunrise bathes the mountain peaks in golden light.",
+          "ar": "يَغْمُرُ شُرُوقُ الشَّمْسِ قِمَمَ الجِبَالِ بِنُورٍ ذَهَبِيّ."
+        }
+      ]
+    },
+    {
+      "id": "astro_cosmos_018",
+      "term_de": "der Sonnenuntergang",
+      "plural_de": "die Sonnenuntergänge",
+      "term_en": "sunset",
+      "term_ar": "غُرُوبُ الشَّمْس",
+      "pronunciation_de": "[ˈzɔnənʔʊntɐˌɡaŋ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Beim Sonnenuntergang färbt sich der Horizont in tiefem Orange und Rot.",
+          "en": "At sunset, the horizon colors in deep orange and red.",
+          "ar": "يَتَلَوَّنُ الأُفُقُ عِنْدَ غُرُوبِ الشَّمْسِ بِبُرْتُقَالِيٍّ وَأَحْمَرَ قَانٍ."
+        }
+      ]
+    },
+    {
+      "id": "astro_cosmos_019",
+      "term_de": "die Dämmerung",
+      "plural_de": "die Dämmerungen",
+      "term_en": "twilight, dusk, dawn",
+      "term_ar": "الشَّفَق، الغَسَق",
+      "pronunciation_de": "[ˈdɛməʁʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "In der abendlichen Dämmerung erscheinen die ersten hellen Sterne.",
+          "en": "In the evening twilight, the first bright stars appear.",
+          "ar": "تَظْهَرُ النُّجُومُ المُنِيرَةُ الأُولَى فِي الشَّفَقِ المَسَائِيّ."
+        }
+      ]
+    },
+    {
+      "id": "astro_cosmos_020",
+      "term_de": "die Himmelskugel",
+      "plural_de": "die Himmelskugeln",
+      "term_en": "celestial sphere",
+      "term_ar": "القُبَّةُ السَّمَاوِيَّة",
+      "pronunciation_de": "[ˈhɪml̩sˌkuːɡl̩]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Himmelskugel spannt sich majestätisch über die Erde.",
+          "en": "The celestial sphere arches majestically over the earth.",
+          "ar": "تَمْتَدُّ القُبَّةُ السَّمَاوِيَّةُ بِجَلَالٍ فَوْقَ الأَرْض."
+        }
+      ]
+    },
+    {
+      "id": "astro_cosmos_021",
+      "term_de": "die Schwerkraft",
+      "plural_de": "-",
+      "term_en": "gravitation, gravity",
+      "term_ar": "الجَاذِبِيَّةُ الكَوْنِيَّة",
+      "pronunciation_de": "[ˈʃveːɐ̯ˌkʁaft]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Schwerkraft hält die Planeten auf ihren berechneten Bahnen.",
+          "en": "Gravity keeps the planets on their calculated trajectories.",
+          "ar": "تُحَافِظُ الجَاذِبِيَّةُ عَلَى مَسَارَاتِ الكَوَاكِبِ المَحْسُوبَة."
+        }
+      ]
+    },
+    {
+      "id": "astro_cosmos_022",
+      "term_de": "die Sonnenfinsternis",
+      "plural_de": "die Sonnenfinsternisse",
+      "term_en": "solar eclipse",
+      "term_ar": "كُسُوفُ الشَّمْس",
+      "pronunciation_de": "[ˈzɔnənˌfɪnstɐnɪs]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Bei einer totalen Sonnenfinsternis verdunkelt der Mond die Sonnenscheibe.",
+          "en": "During a total solar eclipse, the moon darkens the solar disk.",
+          "ar": "يَحْجُبُ القَمَرُ قُرْصَ الشَّمْسِ عِنْدَ الكُسُوفِ الكُلِّيّ."
+        }
+      ]
+    },
+    {
+      "id": "astro_cosmos_023",
+      "term_de": "die Mondfinsternis",
+      "plural_de": "die Mondfinsternisse",
+      "term_en": "lunar eclipse",
+      "term_ar": "خُسُوفُ القَمَر",
+      "pronunciation_de": "[ˈmoːntˌfɪnstɐnɪs]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Während der Mondfinsternis tritt der Mond in den Erdschatten ein.",
+          "en": "During a lunar eclipse, the moon enters the earth's shadow.",
+          "ar": "يَدْخُلُ القَمَرُ فِي ظِلِّ الأَرْضِ أَثْنَاءَ الخُسُوف."
+        }
+      ]
+    },
+    {
+      "id": "astro_cosmos_024",
+      "term_de": "die Lichtgeschwindigkeit",
+      "plural_de": "-",
+      "term_en": "speed of light",
+      "term_ar": "سُرْعَةُ الضَّوْء",
+      "pronunciation_de": "[ˈlɪçtɡəˌʃvɪndɪçkaɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Das Sonnenlicht erreicht die Erde mit Lichtgeschwindigkeit in etwa acht Minuten.",
+          "en": "Sunlight reaches the earth at the speed of light in about eight minutes.",
+          "ar": "يَصِلُ ضَوْءُ الشَّمْسِ إِلَى الأَرْضِ بِسُرْعَةِ الضَّوْءِ فِي نَحْوِ ثَمَانِي دَقَائِق."
+        }
+      ]
+    },
+    {
+      "id": "astro_cosmos_025",
+      "term_de": "die Ordnung",
+      "plural_de": "-",
+      "term_en": "cosmic order, harmony",
+      "term_ar": "النِّظَامُ الكَوْنِيُّ البَدِيع",
+      "pronunciation_de": "[ˈɔʁdnʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die vollkommene Ordnung im Kosmos zeugt von erhabener Weisheit.",
+          "en": "The perfect order in the cosmos testifies to sublime wisdom.",
+          "ar": "النِّظَامُ البَدِيعُ فِي الكَوْنِ شَاهِدٌ عَلَى حِكْمَةٍ بَالِغَة."
+        }
+      ]
+    }
+  ]
+}

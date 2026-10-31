@@ -1,0 +1,409 @@
+{
+  "category_id": "postal_services_mail_a2",
+  "category_name_de": "Post, Pakete & Schriftverkehr",
+  "category_name_en": "Postal Services, Packages & Mail",
+  "category_name_ar": "الخِدْمَاتُ البَرِيدِيَّةُ وَالطُّرُودُ وَالمُرَاسَلَات",
+  "level": "A2+",
+  "items": [
+    {
+      "id": "postal_mail_001",
+      "term_de": "das Postamt",
+      "plural_de": "die Postämter",
+      "term_en": "post office, postal branch",
+      "term_ar": "مَكْتَبُ البَرِيد",
+      "pronunciation_de": "[ˈpɔstˌʔamt]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das örtliche Postamt bietet alle Dienstleistungen für Briefe und Pakete.",
+          "en": "The local post office offers all services for letters and parcels.",
+          "ar": "يُقَدِّمُ مَكْتَبُ البَرِيدِ المَحَلِّيُّ جَمِيعَ الخِدْمَاتِ لِلرَّسَائِلِ وَالطُّرُود."
+        }
+      ]
+    },
+    {
+      "id": "postal_mail_002",
+      "term_de": "der Brief",
+      "plural_de": "die Briefe",
+      "term_en": "letter",
+      "term_ar": "الرِّسَالَةُ البَرِيدِيَّة، الخِطَاب",
+      "pronunciation_de": "[bʁiːf]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Sie schrieb einen herzlichen Brief an ihre Großeltern.",
+          "en": "She wrote a warm letter to her grandparents.",
+          "ar": "كَتَبَتْ خِطَابًا مَفْعَمًا بِالمَوَدَّةِ إِلَى جَدَّيْهَا."
+        }
+      ]
+    },
+    {
+      "id": "postal_mail_003",
+      "term_de": "der Briefkasten",
+      "plural_de": "die Briefkästen",
+      "term_en": "mailbox, postbox",
+      "term_ar": "صُنْدُوقُ البَرِيد",
+      "pronunciation_de": "[ˈbʁiːfˌkastn̩]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der gelbe Briefkasten an der Straßenecke wird täglich um siebzehn Uhr geleert.",
+          "en": "The yellow mailbox on the street corner is emptied daily at 5 p.m.",
+          "ar": "يُفْرَغُ صُنْدُوقُ البَرِيدِ الأَصْفَرُ الَّذِي عِنْدَ زَاوِيَةِ الشَّارِعِ يَوْمِيًّا فِي الخَامِسَةِ مَسَاءً."
+        }
+      ]
+    },
+    {
+      "id": "postal_mail_004",
+      "term_de": "die Briefmarke",
+      "plural_de": "die Briefmarken",
+      "term_en": "postage stamp",
+      "term_ar": "طَابَعُ البَرِيد",
+      "pronunciation_de": "[ˈbʁiːfˌmaʁkə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Kleben Sie die Briefmarke ordentlich oben rechts auf den Umschlag.",
+          "en": "Stick the postage stamp neatly onto the top right of the envelope.",
+          "ar": "أَلْصِقْ طَابَعَ البَرِيدِ بِنِظَامٍ فِي أَعْلَى يَمِينِ المَظْرُوف."
+        }
+      ]
+    },
+    {
+      "id": "postal_mail_005",
+      "term_de": "der Umschlag",
+      "plural_de": "die Umschläge",
+      "term_en": "envelope",
+      "term_ar": "مَظْرُوفُ الرِّسَالَة",
+      "pronunciation_de": "[ˈʊmˌʃlaːk]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Er verschloss den weißen Umschlag sorgfältig vor dem Einwurf.",
+          "en": "He sealed the white envelope carefully before posting.",
+          "ar": "أَغْلَقَ المَظْرُوفَ الأَبْيَضَ بِإِحْكَامٍ قَبْلَ وَضْعِهِ فِي الصُّنْدُوق."
+        }
+      ]
+    },
+    {
+      "id": "postal_mail_006",
+      "term_de": "das Paket",
+      "plural_de": "die Pakete",
+      "term_en": "package, parcel",
+      "term_ar": "الطَّرْدُ البَرِيدِيّ",
+      "pronunciation_de": "[paˈkeːt]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das schwere Paket enthält nützliche Bücher für das Studium.",
+          "en": "The heavy parcel contains useful books for studies.",
+          "ar": "يَحْتَوِي الطَّرْدُ الثَّقِيلُ عَلَى كُتُبٍ نَافِعَةٍ لِلدِّرَاسَة."
+        }
+      ]
+    },
+    {
+      "id": "postal_mail_007",
+      "term_de": "das Päckchen",
+      "plural_de": "die Päckchen",
+      "term_en": "small parcel",
+      "term_ar": "الرُّزْمَةُ البَرِيدِيَّةُ الصَّغِيرَة",
+      "pronunciation_de": "[ˈpɛkçən]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Ein kleines Päckchen kam heute als Geschenk per Post an.",
+          "en": "A small parcel arrived today by mail as a gift.",
+          "ar": "وَصَلَتْ رُزْمَةٌ صَغِيرَةٌ اليَوْمَ عَبْرَ البَرِيدِ كَهَدِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "postal_mail_008",
+      "term_de": "die Postkarte",
+      "plural_de": "die Postkarten",
+      "term_en": "postcard",
+      "term_ar": "البِطَاقَةُ البَرِيدِيَّة",
+      "pronunciation_de": "[ˈpɔstˌkaʁtə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Aus den Bergen schickte er eine farbenfrohe Postkarte mit Grüßen.",
+          "en": "From the mountains, he sent a colorful postcard with greetings.",
+          "ar": "أَرْسَلَ مِنَ الجِبَالِ بِطَاقَةً بَرِيدِيَّةً زَاهِيَةَ الأَلْوَانِ تَحْمِلُ التَّحَايَا."
+        }
+      ]
+    },
+    {
+      "id": "postal_mail_009",
+      "term_de": "der Postbote",
+      "plural_de": "die Postboten",
+      "term_en": "mail carrier, postman",
+      "term_ar": "سَاعِي البَرِيد",
+      "pronunciation_de": "[ˈpɔstˌboːtə]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der freundliche Postbote bringt morgens zuverlässig die Post.",
+          "en": "The friendly mail carrier reliably brings the mail in the morning.",
+          "ar": "يَجْلِبُ سَاعِي البَرِيدِ اللَّطِيفُ الرَّسَائِلَ صَبَاحًا بِمَوْثُوقِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "postal_mail_010",
+      "term_de": "die Postleitzahl",
+      "plural_de": "die Postleitzahlen",
+      "term_en": "postal code, ZIP code",
+      "term_ar": "الرَّمْزُ البَرِيدِيّ",
+      "pronunciation_de": "[ˈpɔstlaɪ̯tˌt͡saːl]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Vergessen Sie nicht, die fünfstellige Postleitzahl anzugeben.",
+          "en": "Do not forget to indicate the five-digit postal code.",
+          "ar": "لَا تَنْسَ تَدْوِينَ الرَّمْزِ البَرِيدِيِّ المُكَوَّنِ مِنْ خَمْسَةِ أَرْقَام."
+        }
+      ]
+    },
+    {
+      "id": "postal_mail_011",
+      "term_de": "der Absender",
+      "plural_de": "die Absender",
+      "term_en": "sender, return address",
+      "term_ar": "المُرْسِل، عُنْوَانُ الرُّجُوع",
+      "pronunciation_de": "[ˈapˌzɛndɐ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der Absender steht gut lesbar oben links auf dem Briefumschlag.",
+          "en": "The sender is written clearly on the top left of the envelope.",
+          "ar": "عُنْوَانُ المُرْسِلِ مَكْتُوبٌ بِوُضُوحٍ أَعْلَى يَسَارِ المَظْرُوف."
+        }
+      ]
+    },
+    {
+      "id": "postal_mail_012",
+      "term_de": "der Empfänger",
+      "plural_de": "die Empfänger",
+      "term_en": "recipient, addressee",
+      "term_ar": "المُرْسَلُ إِلَيْه، المُسْتَلِم",
+      "pronunciation_de": "[ɛmˈp͡fɛŋɐ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der Name des Empfängers muss vollständig und korrekt sein.",
+          "en": "The recipient's name must be complete and correct.",
+          "ar": "يَجِبُ أَنْ يَكُونَ اسْمُ المُرْسَلِ إِلَيْهِ كَامِلًا وَصَحِيحًا."
+        }
+      ]
+    },
+    {
+      "id": "postal_mail_013",
+      "term_de": "das Einschreiben",
+      "plural_de": "die Einschreiben",
+      "term_en": "registered mail, certified letter",
+      "term_ar": "البَرِيدُ المُسَجَّلُ المَضْمُون",
+      "pronunciation_de": "[ˈaɪ̯nˌʃʁaɪ̯bn̩]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Wichtige Dokumente versendet man am besten als sicheres Einschreiben.",
+          "en": "Important documents are best sent as secure registered mail.",
+          "ar": "مِنَ الأَفْضَلِ إِرْسَالُ الوَثَائِقِ المُهِمَّةِ كَبَرِيدٍ مُسَجَّلٍ آمِن."
+        }
+      ]
+    },
+    {
+      "id": "postal_mail_014",
+      "term_de": "die Sendungsverfolgung",
+      "plural_de": "die Sendungsverfolgungen",
+      "term_en": "shipment tracking, package tracking",
+      "term_ar": "تَتَبُّعُ الشِّحْنَةِ أَوِ الطَّرْد",
+      "pronunciation_de": "[ˈzɛndʊŋsfɛɐ̯ˌfɔlɡʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Mit der Sendungsverfolgung sieht man den genauen Standort des Pakets.",
+          "en": "With shipment tracking, you can see the exact location of the parcel.",
+          "ar": "يَرَى المَرْءُ مِنْ خِلَالِ خِدْمَةِ تَتَبُّعِ الشِّحْنَةِ مَوْقِعَ الطَّرْدِ بِدِقَّة."
+        }
+      ]
+    },
+    {
+      "id": "postal_mail_015",
+      "term_de": "das Klebeband",
+      "plural_de": "die Klebebänder",
+      "term_en": "adhesive tape, packing tape",
+      "term_ar": "الشَّرِيطُ اللَّاصِقُ لِلتَّغْلِيف",
+      "pronunciation_de": "[ˈkleːbəˌbant]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Er klebt das Paket mit starkem Klebeband fest zu.",
+          "en": "He tapes the parcel firmly shut with strong packing tape.",
+          "ar": "يُحْكِمُ إِغْلَاقَ الطَّرْدِ بِشَرِيطٍ لَاصِقٍ مَتِين."
+        }
+      ]
+    },
+    {
+      "id": "postal_mail_016",
+      "term_de": "der Schalter",
+      "plural_de": "die Schalter",
+      "term_en": "postal counter, service window",
+      "term_ar": "شُبَّاكُ الخِدْمَةِ فِي البَرِيد",
+      "pronunciation_de": "[ˈʃaltɐ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Am Schalter berät die Postangestellte die Kunden zu Portopreisen.",
+          "en": "At the counter, the postal clerk advises customers on postage rates.",
+          "ar": "تُرْشِدُ مُوَظَّفَةُ البَرِيدِ عِنْدَ الشُّبَّاكِ العُمَلَاءَ حَوْلَ أَسْعَارِ الشَّحْن."
+        }
+      ]
+    },
+    {
+      "id": "postal_mail_017",
+      "term_de": "die Unterschrift",
+      "plural_de": "die Unterschriften",
+      "term_en": "signature",
+      "term_ar": "التَّوْقِيع، الإِمْضَاء",
+      "pronunciation_de": "[ˈʊntɐˌʃʁɪft]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Für den Empfang des Pakets ist eine kurze Unterschrift erforderlich.",
+          "en": "A brief signature is required to receive the parcel.",
+          "ar": "تَوْقِيعٌ قَصِيرٌ مَطْلُوبٌ لِاسْتِلَامِ الطَّرْد."
+        }
+      ]
+    },
+    {
+      "id": "postal_mail_018",
+      "term_de": "die Zustellung",
+      "plural_de": "die Zustellungen",
+      "term_en": "delivery",
+      "term_ar": "التَّسْلِيم، التَّوْصِيلُ إِلَى البَاب",
+      "pronunciation_de": "[ˈt͡suːˌʃtɛlʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die pünktliche Zustellung erfolgt meist vor zwölf Uhr mittags.",
+          "en": "Punctual delivery usually takes place before 12 noon.",
+          "ar": "يَتِمُّ التَّوْصِيلُ المُنْضَبِطُ فِي الغَالِبِ قَبْلَ الظَّهِيرَة."
+        }
+      ]
+    },
+    {
+      "id": "postal_mail_019",
+      "term_de": "die Benachrichtigung",
+      "plural_de": "die Benachrichtigungen",
+      "term_en": "delivery notification card",
+      "term_ar": "إِشْعَارُ الِاسْتِلَام، البَيَان",
+      "pronunciation_de": "[bəˈnaːxʁɪçtɪɡʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Der Postbote hinterließ eine Benachrichtigung im Briefkasten.",
+          "en": "The mail carrier left a delivery notification in the mailbox.",
+          "ar": "تَرَكَ سَاعِي البَرِيدِ إِشْعَارًا فِي صُنْدُوقِ البَرِيد."
+        }
+      ]
+    },
+    {
+      "id": "postal_mail_020",
+      "term_de": "der Karton",
+      "plural_de": "die Kartons",
+      "term_en": "cardboard box",
+      "term_ar": "الصُّنْدُوقُ الكَرْتُونِيّ",
+      "pronunciation_de": "[kaʁˈtɔŋ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Ein stabiler Karton schützt zerbrechliche Gegenstände beim Versand.",
+          "en": "A sturdy cardboard box protects fragile objects during shipping.",
+          "ar": "صُنْدُوقُ الكَرْتُونِ المَتِينُ يَحْمِي الأَشْيَاءَ القَابِلَةَ لِلْكَسْرِ أَثْنَاءَ الشَّحْن."
+        }
+      ]
+    },
+    {
+      "id": "postal_mail_021",
+      "term_de": "das Porto",
+      "plural_de": "die Porti",
+      "term_en": "postage, shipping fee",
+      "term_ar": "أُجْرَةُ البَرِيد، رُسُومُ الإِرْسَال",
+      "pronunciation_de": "[ˈpɔʁto]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das Porto richtet sich nach dem Gewicht und der Größe des Briefs.",
+          "en": "The postage depends on the weight and size of the letter.",
+          "ar": "تَتَحَدَّدُ أُجْرَةُ البَرِيدِ وِفْقَ وَزْنِ الرِّسَالَةِ وَحَجْمِهَا."
+        }
+      ]
+    },
+    {
+      "id": "postal_mail_022",
+      "term_de": "der Stempel",
+      "plural_de": "die Stempel",
+      "term_en": "postmark, stamp",
+      "term_ar": "الخَتْمُ البَرِيدِيّ",
+      "pronunciation_de": "[ˈʃtɛmpl̩]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der runde Stempel zeigt das genaue Absendedatum an.",
+          "en": "The round postmark shows the exact dispatch date.",
+          "ar": "يُظْهِرُ الخَتْمُ البَرِيدِيُّ الدَّائِرِيُّ تَارِيخَ الإِرْسَالِ بِدِقَّة."
+        }
+      ]
+    },
+    {
+      "id": "postal_mail_023",
+      "term_de": "die Packstation",
+      "plural_de": "die Packstationen",
+      "term_en": "automated parcel locker",
+      "term_ar": "مَحَطَّةُ الطُّرُودِ الآلِيَّة",
+      "pronunciation_de": "[ˈpakʃtaˌt͡si̯oːn]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "An der Packstation kann man Pakete rund um die Uhr abholen.",
+          "en": "At the parcel locker, you can collect packages around the clock.",
+          "ar": "يُمْكِنُ اسْتِلَامُ الطُّرُودِ مِنْ مَحَطَّةِ الطُّرُودِ الآلِيَّةِ عَلَى مَدَارِ السَّاعَة."
+        }
+      ]
+    },
+    {
+      "id": "postal_mail_024",
+      "term_de": "die Eilzustellung",
+      "plural_de": "die Eilzustellungen",
+      "term_en": "express delivery",
+      "term_ar": "التَّوْصِيلُ السَّرِيعُ العَاجِل",
+      "pronunciation_de": "[ˈaɪ̯lˌt͡suːʃtɛlʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Dank Eilzustellung erreichte die wichtige Sendung den Empfänger am selben Tag.",
+          "en": "Thanks to express delivery, the important shipment reached the recipient on the same day.",
+          "ar": "بِفَضْلِ التَّوْصِيلِ العَاجِلِ وَصَلَتِ الشِّحْنَةُ المُهِمَّةُ إِلَى المُسْتَلِمِ فِي نَفْسِ اليَوْم."
+        }
+      ]
+    },
+    {
+      "id": "postal_mail_025",
+      "term_de": "die Zuverlässigkeit",
+      "plural_de": "-",
+      "term_en": "reliability, dependability",
+      "term_ar": "المَوْثُوقِيَّة، الأَمَانَة، الدِّقَّة",
+      "pronunciation_de": "[ˈt͡suːfɛɐ̯ˌlɛsɪçkaɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Kunden vertrauen auf die Zuverlässigkeit des Postdienstes.",
+          "en": "Customers rely on the reliability of the postal service.",
+          "ar": "يَثِقُ العُمَلَاءُ فِي مَوْثُوقِيَّةِ الخِدْمَةِ البَرِيدِيَّةِ وَأَمَانَتِهَا."
+        }
+      ]
+    }
+  ]
+}

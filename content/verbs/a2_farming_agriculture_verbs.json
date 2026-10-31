@@ -1,0 +1,909 @@
+{
+  "category_id": "a2_farming_agriculture_verbs",
+  "category_name_de": "Landwirtschafts-, Garten- und Ernteverben",
+  "category_name_en": "Agriculture, Gardening & Farming Verbs",
+  "category_name_ar": "أفعال الزراعة والحدائق والمحاصيل",
+  "level": "A2/B1",
+  "verbs": [
+    {
+      "id": "verb_farm_001",
+      "infinitive": "anbauen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Nutzpflanzen auf einem Feld oder im Garten kultivieren",
+      "meaning_en": "to cultivate, grow crops",
+      "meaning_ar": "يَزْرَعُ، يَفْلَحُ الأَرْض",
+      "tenses": {
+        "present": {
+          "ich": "baue an",
+          "du": "baust an",
+          "er_sie_es": "baut an",
+          "wir": "bauen an",
+          "ihr": "baut an",
+          "sie_Sie": "bauen an"
+        },
+        "past_simple": {
+          "ich": "baute an",
+          "du": "bautest an",
+          "er_sie_es": "baute an",
+          "wir": "bauten an",
+          "ihr": "bautet an",
+          "sie_Sie": "bauten an"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "angebaut"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Dativ",
+          "meaning_ar": "يزرع في"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Landwirt baut auf fruchtbarem Boden Bio-Gemüse an.",
+          "en": "The farmer grows organic vegetables on fertile soil.",
+          "ar": "يَزْرَعُ الفَلَّاحُ خُضْرَوَاتٍ عُضْوِيَّةً فِي أَرْضٍ خَصِيبَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_farm_002",
+      "infinitive": "pflügen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "den Ackerboden mit einem Pflug umgraben",
+      "meaning_en": "to plow, furrow",
+      "meaning_ar": "يَحْرُثُ الأَرْض",
+      "tenses": {
+        "present": {
+          "ich": "pflüge",
+          "du": "pflügst",
+          "er_sie_es": "pflügt",
+          "wir": "pflügen",
+          "ihr": "pflügt",
+          "sie_Sie": "pflügen"
+        },
+        "past_simple": {
+          "ich": "pflügte",
+          "du": "pflügtest",
+          "er_sie_es": "pflügte",
+          "wir": "pflügten",
+          "ihr": "pflügtet",
+          "sie_Sie": "pflügten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gepflügt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يحرث بواسطة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Im Herbst pflügt er den weiten Acker vor dem ersten Frost.",
+          "en": "In autumn, he plows the wide field before the first frost.",
+          "ar": "يَحْرُثُ فِي الخَرِيفِ الحَقْلَ الوَاسِعَ قَبْلَ حُلُولِ الصَّقِيعِ الأَوَّل."
+        }
+      ]
+    },
+    {
+      "id": "verb_farm_003",
+      "infinitive": "säen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Saatgut in die vorbereitete Erde streuen",
+      "meaning_en": "to sow, seed",
+      "meaning_ar": "يَبْذُرُ الحَبَّ، يَبْذُرُ",
+      "tenses": {
+        "present": {
+          "ich": "säe",
+          "du": "säst",
+          "er_sie_es": "sät",
+          "wir": "säen",
+          "ihr": "sät",
+          "sie_Sie": "säen"
+        },
+        "past_simple": {
+          "ich": "säte",
+          "du": "sätest",
+          "er_sie_es": "säte",
+          "wir": "säten",
+          "ihr": "sätet",
+          "sie_Sie": "säten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gesät"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Akkusativ",
+          "meaning_ar": "يبذر في"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wer im Frühling fleißig sät, wird im Sommer reichlich ernten.",
+          "en": "Whoever sows diligently in spring will harvest abundantly in summer.",
+          "ar": "مَنْ يَبْذُرْ بِاجْتِهَادٍ فِي الرَّبِيعِ يَحْصُدْ بِوَفْرَةٍ فِي الصَّيْف."
+        }
+      ]
+    },
+    {
+      "id": "verb_farm_004",
+      "infinitive": "ernten",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "die reifen Früchte oder das Korn vom Feld einbringen",
+      "meaning_en": "to harvest, reap",
+      "meaning_ar": "يَحْصُدُ، يَجْنِي الثِّمَار",
+      "tenses": {
+        "present": {
+          "ich": "ernte",
+          "du": "erntest",
+          "er_sie_es": "erntet",
+          "wir": "ernten",
+          "ihr": "erntet",
+          "sie_Sie": "ernten"
+        },
+        "past_simple": {
+          "ich": "erntete",
+          "du": "erntetest",
+          "er_sie_es": "erntete",
+          "wir": "ernteten",
+          "ihr": "erntetet",
+          "sie_Sie": "ernteten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geerntet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "von",
+          "case": "Dativ",
+          "meaning_ar": "يحصد من"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Dorfbewohner ernten gemeinsam die goldenen Weizenfelder.",
+          "en": "The villagers harvest the golden wheat fields together.",
+          "ar": "يَحْصُدُ أَهْلُ القَرْيَةِ مَعًا حُقُولَ القَمْحِ الذَّهَبِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_farm_005",
+      "infinitive": "gießen",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "Pflanzen mit Wasser versorgen",
+      "meaning_en": "to water, pour",
+      "meaning_ar": "يَسْقِي، يَرْوِي النَّبَات",
+      "tenses": {
+        "present": {
+          "ich": "gieße",
+          "du": "gießt",
+          "er_sie_es": "gießt",
+          "wir": "gießen",
+          "ihr": "gießt",
+          "sie_Sie": "gießen"
+        },
+        "past_simple": {
+          "ich": "goss",
+          "du": "gossest",
+          "er_sie_es": "goss",
+          "wir": "gossen",
+          "ihr": "gosst",
+          "sie_Sie": "gossen"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gegossen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يسقي بواسطة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Sie gießt die zarten Blumen morgens mit frischem Brunnenwasser.",
+          "en": "She waters the delicate flowers in the morning with fresh well water.",
+          "ar": "تَسْقِي الزُّهُورَ الرَّقِيقَةَ صَبَاحًا بِمَاءِ البِئْرِ العَذْب."
+        }
+      ]
+    },
+    {
+      "id": "verb_farm_006",
+      "infinitive": "düngen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "dem Boden Nährstoffe zuführen, um das Pflanzenwachstum zu fördern",
+      "meaning_en": "to fertilize",
+      "meaning_ar": "يُسَمِّدُ التُّرْبَة",
+      "tenses": {
+        "present": {
+          "ich": "dünge",
+          "du": "düngst",
+          "er_sie_es": "düngt",
+          "wir": "düngen",
+          "ihr": "düngt",
+          "sie_Sie": "düngen"
+        },
+        "past_simple": {
+          "ich": "düngte",
+          "du": "düngtest",
+          "er_sie_es": "düngte",
+          "wir": "düngten",
+          "ihr": "düngtet",
+          "sie_Sie": "düngten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gedüngt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يسمد بـ"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er düngt den Garten ausschließlich mit natürlichem Kompost.",
+          "en": "He fertilizes the garden exclusively with natural compost.",
+          "ar": "يُسَمِّدُ الحَدِيقَةَ حَصْرًا بِالسَّمَادِ العُضْوِيِّ الطَّبِيعِيّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_farm_007",
+      "infinitive": "pflücken",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "Früchte oder Blumen vorsichtig mit der Hand abtrennen",
+      "meaning_en": "to pick, pluck",
+      "meaning_ar": "يَقْطِفُ الثِّمَارَ أَوِ الأَزْهَار",
+      "tenses": {
+        "present": {
+          "ich": "pflücke",
+          "du": "pflückst",
+          "er_sie_es": "pflückt",
+          "wir": "pflücken",
+          "ihr": "pflückt",
+          "sie_Sie": "pflücken"
+        },
+        "past_simple": {
+          "ich": "pflückte",
+          "du": "pflücktest",
+          "er_sie_es": "pflückte",
+          "wir": "pflückten",
+          "ihr": "pflücktet",
+          "sie_Sie": "pflückten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gepflückt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "von",
+          "case": "Dativ",
+          "meaning_ar": "يقطف من"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Kinder pflücken reife rote Kirschen direkt vom Baum.",
+          "en": "The children pick ripe red cherries directly from the tree.",
+          "ar": "يَقْطِفُ الأَطْفَالُ الكَرَزَ الأَحْمَرَ النَّاضِجَ مُبَاشَرَةً مِنَ الشَّجَرَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_farm_008",
+      "infinitive": "jäten",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "störendes Unkraut aus Beeten herausreißen",
+      "meaning_en": "to weed, remove weeds",
+      "meaning_ar": "يَعْزِقُ، يُزِيلُ الأَعْشَابَ الضَّارَّة",
+      "tenses": {
+        "present": {
+          "ich": "jäte",
+          "du": "jätest",
+          "er_sie_es": "jätet",
+          "wir": "jäten",
+          "ihr": "jätet",
+          "sie_Sie": "jäten"
+        },
+        "past_simple": {
+          "ich": "jätete",
+          "du": "jätetest",
+          "er_sie_es": "jätete",
+          "wir": "jäteten",
+          "ihr": "jätetet",
+          "sie_Sie": "jäteten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gejätet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يعزق في"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Geduldig jätet der Gärtner das Unkraut zwischen den Salatzeilen.",
+          "en": "Patiently, the gardener weeds the grass between the salad rows.",
+          "ar": "يُزِيلُ البُسْتَانِيُّ بِصَبْرٍ الأَعْشَابَ الضَّارَّةَ بَيْنَ صُفُوفِ الخَسّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_farm_009",
+      "infinitive": "pflegen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "sich fürsorglich um Pflanzen oder Tiere kümmern",
+      "meaning_en": "to tend, care for, cultivate",
+      "meaning_ar": "يَعْتَنِي بـ، يَرْعَى",
+      "tenses": {
+        "present": {
+          "ich": "pflege",
+          "du": "pflegst",
+          "er_sie_es": "pflegt",
+          "wir": "pflegen",
+          "ihr": "pflegt",
+          "sie_Sie": "pflegen"
+        },
+        "past_simple": {
+          "ich": "pflegte",
+          "du": "pflegtest",
+          "er_sie_es": "pflegte",
+          "wir": "pflegten",
+          "ihr": "pflegtet",
+          "sie_Sie": "pflegten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gepflegt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يعتني بـ"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Sie pflegt die alten Olivenbäume mit großer Hingabe.",
+          "en": "She tends the old olive trees with great devotion.",
+          "ar": "تَرْعَى أَشْجَارَ الزَّيْتُونِ المُعَمَّرَةَ بِعِنَايَةٍ فَائِقَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_farm_010",
+      "infinitive": "füttern",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "den Tieren auf dem Bauernhof Futter geben",
+      "meaning_en": "to feed animals",
+      "meaning_ar": "يُطْعِمُ المَاشِيَةَ وَالدَّوَابّ",
+      "tenses": {
+        "present": {
+          "ich": "füttere",
+          "du": "fütterst",
+          "er_sie_es": "füttert",
+          "wir": "füttern",
+          "ihr": "füttert",
+          "sie_Sie": "füttern"
+        },
+        "past_simple": {
+          "ich": "fütterte",
+          "du": "füttertest",
+          "er_sie_es": "fütterte",
+          "wir": "fütterten",
+          "ihr": "füttertet",
+          "sie_Sie": "fütterten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gefüttert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يطعم بـ"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Jeden Morgen füttert der Junge die Schafe mit frischem Heu.",
+          "en": "Every morning, the boy feeds the sheep with fresh hay.",
+          "ar": "يُطْعِمُ الفَتَى الأَغْنَامَ كُلَّ صَبَاحٍ بِالقَشِّ الطَّازَج."
+        }
+      ]
+    },
+    {
+      "id": "verb_farm_011",
+      "infinitive": "melken",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "Milch aus dem Euter einer Kuh oder Ziege gewinnen",
+      "meaning_en": "to milk",
+      "meaning_ar": "يَحْلِبُ المَاشِيَة",
+      "tenses": {
+        "present": {
+          "ich": "melke",
+          "du": "melkst",
+          "er_sie_es": "melkt",
+          "wir": "melken",
+          "ihr": "melkt",
+          "sie_Sie": "melken"
+        },
+        "past_simple": {
+          "ich": "molk",
+          "du": "molkst",
+          "er_sie_es": "molk",
+          "wir": "molken",
+          "ihr": "molkt",
+          "sie_Sie": "molken"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gemolken"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Akkusativ",
+          "meaning_ar": "يحلب في"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Bäuerin melkt die gesunden Kühe zweimal täglich.",
+          "en": "The female farmer milks the healthy cows twice a day.",
+          "ar": "تَحْلِبُ الفَلَّاحَةُ الأَبْقَارَ السَّلِيمَةَ مَرَّتَيْنِ فِي اليَوْم."
+        }
+      ]
+    },
+    {
+      "id": "verb_farm_012",
+      "infinitive": "züchten",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "Tiere oder Pflanzen gezielt zur Vermehrung und Veredelung halten",
+      "meaning_en": "to breed, raise livestock",
+      "meaning_ar": "يُرَبِّي المَاشِيَةَ، يُهَجِّنُ النَّبَات",
+      "tenses": {
+        "present": {
+          "ich": "züchte",
+          "du": "züchtest",
+          "er_sie_es": "züchtet",
+          "wir": "züchten",
+          "ihr": "züchtet",
+          "sie_Sie": "züchten"
+        },
+        "past_simple": {
+          "ich": "züchtete",
+          "du": "züchtetest",
+          "er_sie_es": "züchtete",
+          "wir": "züchteten",
+          "ihr": "züchtetet",
+          "sie_Sie": "züchteten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gezüchtet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Dativ",
+          "meaning_ar": "يربي في"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Familie züchtet robuste Schafrassen auf den Almen.",
+          "en": "The family breeds sturdy sheep breeds on the mountain pastures.",
+          "ar": "تُرَبِّي العَائِلَةُ سُلَالَاتِ أَغْنَامٍ مَتِينَةٍ فِي المَرَاعِي الجَبَلِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_farm_013",
+      "infinitive": "treiben",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "eine Tierherde in eine bestimmte Richtung führen",
+      "meaning_en": "to herd, drive animals",
+      "meaning_ar": "يَسُوقُ المَاشِيَةَ، يَحْدُو القَطِيع",
+      "tenses": {
+        "present": {
+          "ich": "treibe",
+          "du": "treibst",
+          "er_sie_es": "treibt",
+          "wir": "treiben",
+          "ihr": "treibt",
+          "sie_Sie": "treiben"
+        },
+        "past_simple": {
+          "ich": "trieb",
+          "du": "triebst",
+          "er_sie_es": "trieb",
+          "wir": "trieben",
+          "ihr": "triebt",
+          "sie_Sie": "trieben"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "getrieben"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Akkusativ",
+          "meaning_ar": "يسوق الماشية إلى"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Hirt treibt die Herde am frühen Morgen auf die Weide.",
+          "en": "The shepherd drives the flock to the pasture early in the morning.",
+          "ar": "يَسُوقُ الرَّاعِي القَطِيعَ فِي الصَّبَاحِ البَاكِرِ إِلَى المَرْعَى."
+        }
+      ]
+    },
+    {
+      "id": "verb_farm_014",
+      "infinitive": "mähen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Gras oder Getreide mit einer Sense oder Maschine abschneiden",
+      "meaning_en": "to mow, cut grass",
+      "meaning_ar": "يَجُزُّ العُشْبَ، يَحُشُّ",
+      "tenses": {
+        "present": {
+          "ich": "mähe",
+          "du": "mähst",
+          "er_sie_es": "mäht",
+          "wir": "mähen",
+          "ihr": "mäht",
+          "sie_Sie": "mähen"
+        },
+        "past_simple": {
+          "ich": "mähte",
+          "du": "mähtest",
+          "er_sie_es": "mähte",
+          "wir": "mähten",
+          "ihr": "mähtet",
+          "sie_Sie": "mähten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gemäht"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يجز بواسطة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er mäht die saftige Wiese, um duftendes Heu zu gewinnen.",
+          "en": "He mows the lush meadow to obtain fragrant hay.",
+          "ar": "يَجُزُّ المَرْجَ النَّضِرَ لِلْحُصُولِ عَلَى قَشٍّ عَطِر."
+        }
+      ]
+    },
+    {
+      "id": "verb_farm_015",
+      "infinitive": "trocknen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Feuchtigkeit durch Sonne und Luft entziehen",
+      "meaning_en": "to dry, dehydrate",
+      "meaning_ar": "يُجَفِّفُ المَحْصُول",
+      "tenses": {
+        "present": {
+          "ich": "trockne",
+          "du": "trocknest",
+          "er_sie_es": "trocknet",
+          "wir": "trocknen",
+          "ihr": "trocknet",
+          "sie_Sie": "trocknen"
+        },
+        "past_simple": {
+          "ich": "trocknete",
+          "du": "trocknetest",
+          "er_sie_es": "trocknete",
+          "wir": "trockneten",
+          "ihr": "trocknetet",
+          "sie_Sie": "trockneten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "getrocknet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Dativ",
+          "meaning_ar": "يجفف في"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die geernteten Feigen trocknen friedlich an der warmen Sommersonne.",
+          "en": "The harvested figs dry peacefully under the warm summer sun.",
+          "ar": "يَجِفُّ التِّينُ المَجْنِيُّ بِهُدُوءٍ تَحْتَ شَمْسِ الصَّيْفِ الدَّافِئَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_farm_016",
+      "infinitive": "lagern",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Ernteerträge an einem geschützten Ort aufbewahren",
+      "meaning_en": "to store, deposit",
+      "meaning_ar": "يُخَزِّنُ الغِلَالَ وَالمَحَاصِيل",
+      "tenses": {
+        "present": {
+          "ich": "lagere",
+          "du": "lagerst",
+          "er_sie_es": "lagert",
+          "wir": "lagern",
+          "ihr": "lagert",
+          "sie_Sie": "lagern"
+        },
+        "past_simple": {
+          "ich": "lagerte",
+          "du": "lagertest",
+          "er_sie_es": "lagerte",
+          "wir": "lagerten",
+          "ihr": "lagertet",
+          "sie_Sie": "lagerten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gelagert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يخزن في"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Das trockene Getreide lagert sicher in der kühlen Scheune.",
+          "en": "The dry grain is stored safely in the cool barn.",
+          "ar": "تُخَزَّنُ الحُبُوبُ الجَافَّةُ بِأَمَانٍ فِي الجُرْنِ البَارِد."
+        }
+      ]
+    },
+    {
+      "id": "verb_farm_017",
+      "infinitive": "mahlen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Körner in der Mühle zu feinem Mehl verarbeiten",
+      "meaning_en": "to grind, mill",
+      "meaning_ar": "يَطْحَنُ الحُبُوب",
+      "tenses": {
+        "present": {
+          "ich": "mahle",
+          "du": "mahlst",
+          "er_sie_es": "mahlt",
+          "wir": "mahlen",
+          "ihr": "mahlt",
+          "sie_Sie": "mahlen"
+        },
+        "past_simple": {
+          "ich": "mahlte",
+          "du": "mahltest",
+          "er_sie_es": "mahlte",
+          "wir": "mahlten",
+          "ihr": "mahltet",
+          "sie_Sie": "mahlten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gemahlen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "zu",
+          "case": "Dativ",
+          "meaning_ar": "يطحن إلى"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Müller mahlt das reine Weizenkorn zu schneeweißem Mehl.",
+          "en": "The miller grinds the pure wheat grain into snow-white flour.",
+          "ar": "يَطْحَنُ الطَّحَّانُ حَبَّ القَمْحِ النَّقِيَّ إِلَى دَقِيقٍ نَاصِعِ البَيَاض."
+        }
+      ]
+    },
+    {
+      "id": "verb_farm_018",
+      "infinitive": "wachsen",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "an Größe, Reife und Umfang zunehmen",
+      "meaning_en": "to grow",
+      "meaning_ar": "يَنْمُو، يَتَرَعْرَعُ",
+      "tenses": {
+        "present": {
+          "ich": "wachse",
+          "du": "wächst",
+          "er_sie_es": "wächst",
+          "wir": "wachsen",
+          "ihr": "wachst",
+          "sie_Sie": "wachsen"
+        },
+        "past_simple": {
+          "ich": "wuchs",
+          "du": "wuchsest",
+          "er_sie_es": "wuchs",
+          "wir": "wuchsen",
+          "ihr": "wuchst",
+          "sie_Sie": "wuchsen"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "gewachsen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Dativ",
+          "meaning_ar": "ينمو على"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Auf gut bewässertem Land wachsen die Pflanzen kräftig und schnell.",
+          "en": "On well-watered land, plants grow vigorously and quickly.",
+          "ar": "تَنْمُو النَّبَاتَاتُ بِقُوَّةٍ وَسُرْعَةٍ فِي الأَرْضِ جَيِّدَةِ الرَّيِّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_farm_019",
+      "infinitive": "reifen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "den Zustand voller Reife und Süße erreichen",
+      "meaning_en": "to ripen, mature",
+      "meaning_ar": "يَنْضَجُ، يَسْتَوِي المَحْصُول",
+      "tenses": {
+        "present": {
+          "ich": "reife",
+          "du": "reifst",
+          "er_sie_es": "reift",
+          "wir": "reifen",
+          "ihr": "reift",
+          "sie_Sie": "reifen"
+        },
+        "past_simple": {
+          "ich": "reifte",
+          "du": "reiftest",
+          "er_sie_es": "reifte",
+          "wir": "reiften",
+          "ihr": "reiftet",
+          "sie_Sie": "reiften"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "gereift"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Dativ",
+          "meaning_ar": "ينضج في/على"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Trauben reifen an den sonnigen Südhängen zu herrlicher Süße.",
+          "en": "The grapes ripen to wonderful sweetness on the sunny southern slopes.",
+          "ar": "تَنْضَجُ أَعْنَابُ السُّفُوحِ الجَنُوبِيَّةِ المُشْمِسَةِ لِتَصِيرَ فِي غَايَةِ الحَلَاوَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_farm_020",
+      "infinitive": "blühen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "Blüten öffnen und in voller Schönheit stehen",
+      "meaning_en": "to bloom, blossom",
+      "meaning_ar": "يُزْهِرُ، يَتَفَتَّحُ",
+      "tenses": {
+        "present": {
+          "ich": "blühe",
+          "du": "blühst",
+          "er_sie_es": "blüht",
+          "wir": "blühen",
+          "ihr": "blüht",
+          "sie_Sie": "blühen"
+        },
+        "past_simple": {
+          "ich": "blühte",
+          "du": "blühtest",
+          "er_sie_es": "blühte",
+          "wir": "blühten",
+          "ihr": "blühtet",
+          "sie_Sie": "blühten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geblüht"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يزهر في"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Im Frühjahr blühen die Obstbäume in prachtvollem Weiß und Rosa.",
+          "en": "In spring, the fruit trees blossom in magnificent white and pink.",
+          "ar": "تُزْهِرُ أَشْجَارُ الفَاكِهَةِ فِي الرَّبِيعِ بِبَيَاضٍ وَوَرْدِيٍّ بَدِيع."
+        }
+      ]
+    }
+  ]
+}

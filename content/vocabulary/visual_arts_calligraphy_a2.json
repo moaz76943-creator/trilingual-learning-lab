@@ -1,0 +1,409 @@
+{
+  "category_id": "visual_arts_calligraphy_a2",
+  "category_name_de": "Bildende Kunst, Malerei & Kalligrafie",
+  "category_name_en": "Visual Arts, Painting & Calligraphy",
+  "category_name_ar": "الفُنُونُ البَصَرِيَّةُ وَالرَّسْمُ وَالخَطُّ الجَمِيل",
+  "level": "A2+",
+  "items": [
+    {
+      "id": "visual_art_001",
+      "term_de": "die Kunst",
+      "plural_de": "die Künste",
+      "term_en": "art",
+      "term_ar": "الفَنّ، الإِبْدَاعُ الجَمَالِيّ",
+      "pronunciation_de": "[kʊnst]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Wahre Kunst spiegelt die Harmonie und Schönheit der Natur wider.",
+          "en": "True art reflects the harmony and beauty of nature.",
+          "ar": "الفَنُّ الحَقِيقِيُّ مِرْآةٌ لِتَنَاغُمِ الطَّبِيعَةِ وَبَهَائِهَا."
+        }
+      ]
+    },
+    {
+      "id": "visual_art_002",
+      "term_de": "die Malerei",
+      "plural_de": "die Malereien",
+      "term_en": "painting, art of painting",
+      "term_ar": "الرَّسْمُ بِالأَلْوَان، فَنُّ التَّصْوِير",
+      "pronunciation_de": "[maːləˈʁaɪ̯]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die traditionelle Malerei erfordert Geduld, Feingefühl und edle Farben.",
+          "en": "Traditional painting requires patience, sensitivity, and noble colors.",
+          "ar": "يَتَطَلَّبُ الرَّسْمُ التَّقْلِيدِيُّ صَبْرًا وَحِسًّا مُرْهَفًا وَأَلْوَانًا نَقِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "visual_art_003",
+      "term_de": "das Gemälde",
+      "plural_de": "die Gemälde",
+      "term_en": "painting, canvas picture",
+      "term_ar": "اللَّوْحَةُ الفَنِّيَّة",
+      "pronunciation_de": "[ɡəˈmɛːldə]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das Gemälde zeigt ein stilles Dorf im goldenen Abendlicht.",
+          "en": "The painting shows a quiet village in the golden evening light.",
+          "ar": "تُصَوِّرُ اللَّوْحَةُ الفَنِّيَّةُ قَرْيَةً وَادِعَةً فِي نُورِ المَسَاءِ الذَّهَبِيّ."
+        }
+      ]
+    },
+    {
+      "id": "visual_art_004",
+      "term_de": "der Pinsel",
+      "plural_de": "die Pinsel",
+      "term_en": "paintbrush",
+      "term_ar": "فُرْشَاةُ الرَّسْم",
+      "pronunciation_de": "[ˈpɪnzl̩]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Mit einem feinen Pinsel setzt der Künstler zarte Farbakzente.",
+          "en": "With a fine paintbrush, the artist sets delicate color accents.",
+          "ar": "يَضَعُ الفَنَّانُ لَمَسَاتٍ لَوْنِيَّةً رَقِيقَةً بِفُرْشَاةِ رَسْمٍ دَقِيقَة."
+        }
+      ]
+    },
+    {
+      "id": "visual_art_005",
+      "term_de": "die Leinwand",
+      "plural_de": "die Leinwände",
+      "term_en": "canvas",
+      "term_ar": "قُمَاشُ اللَّوْحَة، الكَانْفَاس",
+      "pronunciation_de": "[ˈlaɪ̯nvant]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Auf der straff gespannten Leinwand entsteht ein neues Meisterwerk.",
+          "en": "On the tightly stretched canvas, a new masterpiece emerges.",
+          "ar": "تَتَشَكَّلُ تُحْفَةٌ فَنِّيَّةٌ جَدِيدَةٌ عَلَى قُمَاشِ اللَّوْحَةِ المَشْدُودِ بِإِحْكَام."
+        }
+      ]
+    },
+    {
+      "id": "visual_art_006",
+      "term_de": "die Farbpalette",
+      "plural_de": "die Farbpaletten",
+      "term_en": "palette, color range",
+      "term_ar": "لَوْحَةُ مَزْجِ الأَلْوَان، البَالِيتَة",
+      "pronunciation_de": "[ˈfaʁppaˌlɛtə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Auf der hölzernen Farbpalette mischt er Ocker, Kobaltblau und Weiß.",
+          "en": "On the wooden palette, he mixes ochre, cobalt blue, and white.",
+          "ar": "يَمْزُجُ اللَّوْنَ المَغْرِيَّ وَالأَزْرَقَ وَالأَبْيَضَ عَلَى بَالِيتَةِ الأَلْوَانِ الخَشَبِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "visual_art_007",
+      "term_de": "die Kalligrafie",
+      "plural_de": "-",
+      "term_en": "calligraphy, beautiful penmanship",
+      "term_ar": "فَنُّ الخَطِّ الجَمِيل، الخَطُّ العَرَبِيّ",
+      "pronunciation_de": "[kaliɡʁaˈfiː]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die arabische Kalligrafie gilt als erhabene Kunstform von weltweiter Bewunderung.",
+          "en": "Arabic calligraphy is considered a sublime art form of worldwide admiration.",
+          "ar": "يُعَدُّ الخَطُّ العَرَبِيُّ فَنًّا سَامِيًا يَحْظَى بِإِعْجَابِ العَالَمِ أَجْمَع."
+        }
+      ]
+    },
+    {
+      "id": "visual_art_008",
+      "term_de": "die Tusche",
+      "plural_de": "die Tuschen",
+      "term_en": "drawing ink, India ink",
+      "term_ar": "حِبْرُ الخَطّ، الحِبْرُ الصِّينِيّ",
+      "pronunciation_de": "[ˈtʊʃə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Tiefschwarze Tusche fließt geschmeidig aus der handgeschnittenen Rohrfeder.",
+          "en": "Deep black ink flows smoothly from the hand-cut reed pen.",
+          "ar": "يَنْسَابُ الحِبْرُ الأَسْوَدُ النَّاصِعُ بِسَلَاسَةٍ مِنْ قَصَبَةِ الخَطِّ المَبْرِيَّةِ يَدَوِيًّا."
+        }
+      ]
+    },
+    {
+      "id": "visual_art_009",
+      "term_de": "die Feder",
+      "plural_de": "die Federn",
+      "term_en": "calligraphy nib, reed pen",
+      "term_ar": "قَصَبَةُ الخَطّ، رِيشَةُ الكِتَابَة",
+      "pronunciation_de": "[ˈfeːdɐ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Mit geschickter Hand führt der Kalligraf die Bambusfeder über das edle Papier.",
+          "en": "With skilled hand, the calligrapher glides the bamboo pen across fine paper.",
+          "ar": "يُحَرِّكُ الخَطَّاطُ قَصَبَةَ الخَيْزُرَانِ بِيَدٍ مَاهِرَةٍ فَوْقَ الوَرَقِ الفَاخِر."
+        }
+      ]
+    },
+    {
+      "id": "visual_art_010",
+      "term_de": "das Ornament",
+      "plural_de": "die Ornamente",
+      "term_en": "ornament, decorative motif",
+      "term_ar": "الزَّخْرَفَة، الرَّقْشُ الهَنْدَسِيّ",
+      "pronunciation_de": "[ɔʁnaˈmɛnt]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Geometrische Ornamente zieren die Kuppeln und Wände der historischen Bauwerke.",
+          "en": "Geometric ornaments adorn the domes and walls of historic structures.",
+          "ar": "تُزَيِّنُ الزَّخَارِفُ الهَنْدَسِيَّةُ قِبَابَ المَبَانِي التَّارِيخِيَّةِ وَجُدْرَانَهَا."
+        }
+      ]
+    },
+    {
+      "id": "visual_art_011",
+      "term_de": "das Muster",
+      "plural_de": "die Muster",
+      "term_en": "pattern, design",
+      "term_ar": "النَّقْش، النَّمَطُ التَّكْرَارِيّ",
+      "pronunciation_de": "[ˈmʊstɐ]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das florale Muster auf der Keramikschale wiederholt sich in vollendeter Symmetrie.",
+          "en": "The floral pattern on the ceramic bowl repeats in perfect symmetry.",
+          "ar": "يَتَكَرَّرُ النَّقْشُ النَّبَاتِيُّ عَلَى الصَّحْنِ الخَزَفِيِّ بِتَنَاظُرٍ تَامّ."
+        }
+      ]
+    },
+    {
+      "id": "visual_art_012",
+      "term_de": "die Skizze",
+      "plural_de": "die Skizzen",
+      "term_en": "sketch, preliminary draft",
+      "term_ar": "المُخَطَّطُ الأَوَّلِيّ، الاسْكِتْش",
+      "pronunciation_de": "[ˈskɪt͡sə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Vor dem Malen zeichnet die Künstlerin eine genaue Skizze mit Kohle.",
+          "en": "Before painting, the artist draws an exact sketch with charcoal.",
+          "ar": "تَرْسُمُ الفَنَّانَةُ تَخْطِيطًا أَوْلِيًّا دَقِيقًا بِالفَحْمِ قَبْلَ التَّلْوِين."
+        }
+      ]
+    },
+    {
+      "id": "visual_art_013",
+      "term_de": "der Bilderrahmen",
+      "plural_de": "die Bilderrahmen",
+      "term_en": "picture frame",
+      "term_ar": "إِطَارُ اللَّوْحَة، البِرْوَاز",
+      "pronunciation_de": "[ˈbɪldɐˌʁaːmən]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Ein geschnitzter Bilderrahmen aus Nussbaumholz fasst das Kunstwerk würdig ein.",
+          "en": "A carved picture frame of walnut wood frames the artwork dignifyingly.",
+          "ar": "إِطَارٌ مَنْحُوتٌ مِنْ خَشَبِ الجَوْزِ يُحِيطُ بِاللَّوْحَةِ بِرِفْعَةٍ وَأَنَاقَة."
+        }
+      ]
+    },
+    {
+      "id": "visual_art_014",
+      "term_de": "die Aquarellfarbe",
+      "plural_de": "die Aquarellfarben",
+      "term_en": "watercolor paint",
+      "term_ar": "الأَلْوَانُ المَائِيَّة",
+      "pronunciation_de": "[akvaˈʁɛlˌfaʁbə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Mit transparenter Aquarellfarbe fängt er das sanfte Morgenlicht ein.",
+          "en": "With transparent watercolor, he captures the gentle morning light.",
+          "ar": "يُجَسِّدُ نُورَ الصَّبَاحِ اللَّطِيفَ بِالأَلْوَانِ المَائِيَّةِ الشَّفَّافَة."
+        }
+      ]
+    },
+    {
+      "id": "visual_art_015",
+      "term_de": "die Staffelei",
+      "plural_de": "die Staffeleien",
+      "term_en": "easel",
+      "term_ar": "حَامِلُ اللَّوْحَةِ الخَشَبِيّ",
+      "pronunciation_de": "[ʃtafəˈlaɪ̯]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die hölzerne Staffelei steht am Fenster mit bestem Einfall des Tageslichts.",
+          "en": "The wooden easel stands by the window with the best daylight angle.",
+          "ar": "يَقِفُ حَامِلُ اللَّوْحَةِ الخَشَبِيُّ عِنْدَ النَّافِذَةِ حَيْثُ يَنْسَابُ ضَوْءُ النَّهَار."
+        }
+      ]
+    },
+    {
+      "id": "visual_art_016",
+      "term_de": "die Proportion",
+      "plural_de": "die Proportionen",
+      "term_en": "proportion, ratio",
+      "term_ar": "النِّسَبُ الهَنْدَسِيَّةُ وَالجَمَالِيَّة",
+      "pronunciation_de": "[pʁopɔʁˈt͡si̯oːn]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Harmonische Proportionen nach dem Goldenen Schnitt zeichnen klassische Bauten aus.",
+          "en": "Harmonious proportions according to the Golden Ratio distinguish classic buildings.",
+          "ar": "تُمَيِّزُ النِّسَبُ الهَنْدَسِيَّةُ المُتَنَاغِمَةُ وِفْقَ النِّسْبَةِ الذَّهَبِيَّةِ المَبَانِيَ الخَالِدَة."
+        }
+      ]
+    },
+    {
+      "id": "visual_art_017",
+      "term_de": "die Harmonie",
+      "plural_de": "die Harmonien",
+      "term_en": "color harmony, balance",
+      "term_ar": "التَّنَاسُقُ اللَّوْنِيّ، الِانْسِجَام",
+      "pronunciation_de": "[haʁmoˈniː]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die sanfte Harmonie warmer Erdtöne strahlt tiefe Ruhe aus.",
+          "en": "The gentle harmony of warm earth tones radiates deep calm.",
+          "ar": "يَبُثُّ التَّنَاسُقُ اللَّطِيفُ لِأَلْوَانِ التُّرْبَةِ الدَّافِئَةِ سَكِينَةً عَمِيقَة."
+        }
+      ]
+    },
+    {
+      "id": "visual_art_018",
+      "term_de": "der Künstler",
+      "plural_de": "die Künstler",
+      "term_en": "artist, painter",
+      "term_ar": "الفَنَّان، الرَّسَّام",
+      "pronunciation_de": "[ˈkʏnstlɐ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der bescheidene Künstler widmet sein ganzes Leben dem Streben nach Meisterschaft.",
+          "en": "The modest artist dedicates his entire life to the pursuit of mastery.",
+          "ar": "يُكَرِّسُ الفَنَّانُ المُتَوَاضِعُ حَيَاتَهُ كُلَّهَا لِطَلَبِ الإِتْقَانِ وَالإِبْدَاع."
+        }
+      ]
+    },
+    {
+      "id": "visual_art_019",
+      "term_de": "die Künstlerin",
+      "plural_de": "die Künstlerinnen",
+      "term_en": "female artist",
+      "term_ar": "الفَنَّانَة، الرَّسَّامَة",
+      "pronunciation_de": "[ˈkʏnstləʁɪn]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die talentierte Künstlerin stellte ihre Kalligrafie-Werke in der Landesbibliothek aus.",
+          "en": "The talented artist exhibited her calligraphy works in the state library.",
+          "ar": "عَرَضَتِ الفَنَّانَةُ المَوْهُوبَةُ أَعْمَالَهَا فِي الخَطِّ فِي مَكْتَبَةِ الوِلَايَة."
+        }
+      ]
+    },
+    {
+      "id": "visual_art_020",
+      "term_de": "das Meisterwerk",
+      "plural_de": "die Meisterwerke",
+      "term_en": "masterpiece",
+      "term_ar": "التُّحْفَةُ الفَنِّيَّةُ الخَالِدَة",
+      "pronunciation_de": "[ˈmaɪ̯stɐˌvɛʁk]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Diese handgeschriebene Koran-Handschrift ist ein unvergleichliches Meisterwerk.",
+          "en": "This handwritten Quran manuscript is an incomparable masterpiece.",
+          "ar": "هَذِهِ المَخْطُوطَةُ القُرْآنِيَّةُ المَكْتُوبَةُ بِيَدِ الخَطَّاطِ تُحْفَةٌ فَنِّيَّةٌ فَرِيدَة."
+        }
+      ]
+    },
+    {
+      "id": "visual_art_021",
+      "term_de": "die Schattierung",
+      "plural_de": "die Schattierungen",
+      "term_en": "shading, color gradation",
+      "term_ar": "التَّظْلِيلُ اللَّوْنِيّ، التَّدَرُّج",
+      "pronunciation_de": "[ʃaˈtiːʁʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Durch geschickte Schattierung erhält die gezeichnete Frucht plastische Tiefe.",
+          "en": "Through skillful shading, the drawn fruit acquires dimensional depth.",
+          "ar": "تَكْتَسِبُ الفَاكِهَةُ المَرْسُومَةُ عُمْقًا مُجَسَّمًا بِالتَّظْلِيلِ اللَّوْنِيِّ البَارِع."
+        }
+      ]
+    },
+    {
+      "id": "visual_art_022",
+      "term_de": "die Genauigkeit",
+      "plural_de": "-",
+      "term_en": "precision, craftsmanship accuracy",
+      "term_ar": "الدِّقَّةُ المُتَنَاهِيَة، ضَبْطُ الخُطُوط",
+      "pronunciation_de": "[ɡəˈnaʊ̯ɪçkaɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Kalligrafie verlangt höchste Genauigkeit bei jedem Federstrich.",
+          "en": "Calligraphy demands utmost precision in every pen stroke.",
+          "ar": "يَتَطَلَّبُ الخَطُّ دِقَّةً مُتَنَاهِيَةً فِي كُلِّ حَرَكَةٍ مِنَ القَصَبَة."
+        }
+      ]
+    },
+    {
+      "id": "visual_art_023",
+      "term_de": "die Formgebung",
+      "plural_de": "-",
+      "term_en": "aesthetic shaping, design",
+      "term_ar": "التَّشْكِيلُ الجَمَالِيّ، الصِّيَاغَة",
+      "pronunciation_de": "[ˈfɔʁmˌɡeːbʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die elegante Formgebung der Keramikvase vereint Schlichtheit und Würde.",
+          "en": "The elegant shaping of the ceramic vase combines simplicity and dignity.",
+          "ar": "يَجْمَعُ التَّشْكِيلُ الأَنِيقُ لِلْمَزْهَرِيَّةِ الخَزَفِيَّةِ بَيْنَ البَسَاطَةِ وَالهَيْبَة."
+        }
+      ]
+    },
+    {
+      "id": "visual_art_024",
+      "term_de": "die Schönheit",
+      "plural_de": "die Schönheiten",
+      "term_en": "beauty, elegance",
+      "term_ar": "الجَمَال، البَهَاء",
+      "pronunciation_de": "[ˈʃøːnhaɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Gott ist schön und liebt die Schönheit in allem edlen Schaffen.",
+          "en": "God is beautiful and loves beauty in all noble creation.",
+          "ar": "إِنَّ اللَّهَ جَمِيلٌ يُحِبُّ الجَمَالَ فِي كُلِّ عَمَلٍ صَالِحٍ مُتْقَن."
+        }
+      ]
+    },
+    {
+      "id": "visual_art_025",
+      "term_de": "die Baukunst",
+      "plural_de": "-",
+      "term_en": "architecture, architectural art",
+      "term_ar": "فَنُّ العِمَارَةِ وَالهَنْدَسَةِ الجَمَالِيَّة",
+      "pronunciation_de": "[ˈbaʊ̯ˌkʊnst]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die historische Baukunst von Granada zeugt von zeitloser Ästhetik.",
+          "en": "The historic architecture of Granada testifies to timeless aesthetics.",
+          "ar": "تَشْهَدُ عِمَارَةُ غَرْنَاطَةَ التَّارِيخِيَّةُ عَلَى ذَوْقٍ جَمَالِيٍّ خَالِد."
+        }
+      ]
+    }
+  ]
+}

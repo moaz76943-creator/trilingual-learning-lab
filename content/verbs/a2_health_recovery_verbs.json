@@ -1,0 +1,909 @@
+{
+  "category_id": "a2_health_recovery_verbs",
+  "category_name_de": "Gesundheits-, Pflege- und Genesungsverben",
+  "category_name_en": "Health, Care & Recovery Verbs",
+  "category_name_ar": "أفعال الصحة والرعاية والتعافي الطبي",
+  "level": "A2/B1",
+  "verbs": [
+    {
+      "id": "verb_health_001",
+      "infinitive": "untersuchen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "den körperlichen Zustand eines Patienten sorgfältig prüfen",
+      "meaning_en": "to examine medically, check",
+      "meaning_ar": "يَفْحَصُ، يَكْشِفُ طِبِّيًّا",
+      "tenses": {
+        "present": {
+          "ich": "untersuche",
+          "du": "untersuchst",
+          "er_sie_es": "untersucht",
+          "wir": "untersuchen",
+          "ihr": "untersucht",
+          "sie_Sie": "untersuchen"
+        },
+        "past_simple": {
+          "ich": "untersuchte",
+          "du": "untersuchtest",
+          "er_sie_es": "untersuchte",
+          "wir": "untersuchten",
+          "ihr": "untersuchtet",
+          "sie_Sie": "untersuchten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "untersucht"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Akkusativ",
+          "meaning_ar": "يفحص للتأكد من خلوه من"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Arzt untersucht den Hals und horcht die Lunge sorgfältig ab.",
+          "en": "The doctor examines the throat and listens carefully to the lungs.",
+          "ar": "يَفْحَصُ الطَّبِيبُ الحَلْقَ وَيَسْتَمِعُ بِعِنَايَةٍ إِلَى صَوْتِ الرِّئَتَيْن."
+        }
+      ]
+    },
+    {
+      "id": "verb_health_002",
+      "infinitive": "verschreiben",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "ein Medikament auf einem Rezept schriftlich anordnen",
+      "meaning_en": "to prescribe",
+      "meaning_ar": "يَصِفُ دَوَاءً، يَكْتُبُ عِلَاجًا",
+      "tenses": {
+        "present": {
+          "ich": "verschreibe",
+          "du": "verschreibst",
+          "er_sie_es": "verschreibt",
+          "wir": "verschreiben",
+          "ihr": "verschreibt",
+          "sie_Sie": "verschreiben"
+        },
+        "past_simple": {
+          "ich": "verschrieb",
+          "du": "verschriebst",
+          "er_sie_es": "verschrieb",
+          "wir": "verschrieben",
+          "ihr": "verschriebt",
+          "sie_Sie": "verschrieben"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "verschrieben"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "gegen",
+          "case": "Akkusativ",
+          "meaning_ar": "يصف دواء ضد مرض"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Ärztin verschreibt schonende Tropfen gegen den Reizhusten.",
+          "en": "The doctor prescribes gentle drops against the dry cough.",
+          "ar": "تَصِفُ الطَّبِيبَةُ قَطَرَاتٍ مُلَطِّفَةً لِعِلَاجِ السُّعَالِ الجَافّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_health_003",
+      "infinitive": "einnehmen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "Medizin schlucken oder anwenden",
+      "meaning_en": "to take medicine",
+      "meaning_ar": "يَتَنَاوَلُ الدَّوَاء",
+      "tenses": {
+        "present": {
+          "ich": "nehme ein",
+          "du": "nimmst ein",
+          "er_sie_es": "nimmt ein",
+          "wir": "nehmen ein",
+          "ihr": "nehmt ein",
+          "sie_Sie": "nehmen ein"
+        },
+        "past_simple": {
+          "ich": "nahm ein",
+          "du": "nahmst ein",
+          "er_sie_es": "nahm ein",
+          "wir": "nahmen ein",
+          "ihr": "nahmt ein",
+          "sie_Sie": "nahmen ein"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "eingenommen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "nach",
+          "case": "Dativ",
+          "meaning_ar": "يتناول بعد الوجبة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er nimmt die Kapsel morgens vor dem Frühstück regelmäßig ein.",
+          "en": "He takes the capsule regularly in the morning before breakfast.",
+          "ar": "يَتَنَاوَلُ الكَبْسُولَةَ بِانْتِظَامٍ صَبَاحًا قَبْلَ الإِفْطَار."
+        }
+      ]
+    },
+    {
+      "id": "verb_health_004",
+      "infinitive": "kurieren",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "eine Erkrankung durch Ruhe und Heilmittel gründlich heilen",
+      "meaning_en": "to cure, nurse back to health",
+      "meaning_ar": "يُدَاوِي، يُعَالِجُ تَمَامًا",
+      "tenses": {
+        "present": {
+          "ich": "kuriere",
+          "du": "kurierst",
+          "er_sie_es": "kuriert",
+          "wir": "kurieren",
+          "ihr": "kuriert",
+          "sie_Sie": "kurieren"
+        },
+        "past_simple": {
+          "ich": "kurierte",
+          "du": "kuriertest",
+          "er_sie_es": "kurierte",
+          "wir": "kurierten",
+          "ihr": "kuriertet",
+          "sie_Sie": "kurierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "kuriert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "von",
+          "case": "Dativ",
+          "meaning_ar": "يعالج من مرض"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Man muss eine Erkältung mit viel Ruhe im Bett gründlich auskurieren.",
+          "en": "One must thoroughly nurse a cold with plenty of bed rest.",
+          "ar": "يَنْبَغِي لِلْمَرْءِ أَنْ يُدَاوِيَ نَزْلَةَ البَرْدِ تَمَامًا بِالرَّاحَةِ فِي الفِرَاش."
+        }
+      ]
+    },
+    {
+      "id": "verb_health_005",
+      "infinitive": "schonen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "den Körper bei Krankheit oder Erschöpfung vor Belastung schützen",
+      "meaning_en": "to rest, spare, take it easy",
+      "meaning_ar": "يَسْتَرِيحُ، يَحْفَظُ نَفْسَهُ مِنَ الإِجْهَاد",
+      "tenses": {
+        "present": {
+          "ich": "schone mich",
+          "du": "schonst dich",
+          "er_sie_es": "schont sich",
+          "wir": "schonen uns",
+          "ihr": "schont euch",
+          "sie_Sie": "schonen sich"
+        },
+        "past_simple": {
+          "ich": "schonte mich",
+          "du": "schontest dich",
+          "er_sie_es": "schonte sich",
+          "wir": "schonten uns",
+          "ihr": "schontet euch",
+          "sie_Sie": "schonten sich"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geschont"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "bei",
+          "case": "Dativ",
+          "meaning_ar": "يستريح عند المرض"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Sie schont sich heute und trinkt viel heißen Kamillentee.",
+          "en": "She rests today and drinks plenty of hot chamomile tea.",
+          "ar": "تَسْتَرِيحُ اليَوْمَ وَتَشْرَبُ الكَثِيرَ مِنْ شَايِ البَابُونِجِ السَّاخِن."
+        }
+      ]
+    },
+    {
+      "id": "verb_health_006",
+      "infinitive": "bessern",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "in einen gesünderen und schmerzfreien Zustand übergehen",
+      "meaning_en": "to improve, get better",
+      "meaning_ar": "يَتَحَسَّنُ، يَطْرَأُ عَلَيْهِ تَحَسُّن",
+      "tenses": {
+        "present": {
+          "ich": "bessere mich",
+          "du": "besserst dich",
+          "er_sie_es": "bessert sich",
+          "wir": "bessern uns",
+          "ihr": "bessert euch",
+          "sie_Sie": "bessern sich"
+        },
+        "past_simple": {
+          "ich": "besserte mich",
+          "du": "bessertest dich",
+          "er_sie_es": "besserte sich",
+          "wir": "besserten uns",
+          "ihr": "bessertet euch",
+          "sie_Sie": "besserten sich"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gebessert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "nach",
+          "case": "Dativ",
+          "meaning_ar": "يتحسن بعد العلاج"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Sein Allgemeinzustand besserte sich dank der Medizin zusehends.",
+          "en": "His general condition improved noticeably thanks to the medicine.",
+          "ar": "تَحَسَّنَتْ حَالَتُهُ العَامَّةُ بِشَكْلٍ وَاضِحٍ بِفَضْلِ الدَّوَاء."
+        }
+      ]
+    },
+    {
+      "id": "verb_health_007",
+      "infinitive": "erholen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "neue Lebenskraft nach Anstrengung oder Krankheit gewinnen",
+      "meaning_en": "to recover, recuperate",
+      "meaning_ar": "يَسْتَعِيدُ عَافِيَتَهُ، يَنْقَهُ",
+      "tenses": {
+        "present": {
+          "ich": "erhole mich",
+          "du": "erholst dich",
+          "er_sie_es": "erholt sich",
+          "wir": "erholen uns",
+          "ihr": "erholt euch",
+          "sie_Sie": "erholen sich"
+        },
+        "past_simple": {
+          "ich": "erholte mich",
+          "du": "erholtest dich",
+          "er_sie_es": "erholte sich",
+          "wir": "erholten uns",
+          "ihr": "erholtet euch",
+          "sie_Sie": "erholten sich"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "erholt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "von",
+          "case": "Dativ",
+          "meaning_ar": "يتعافى من"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Patient erholt sich im Kurort erstaunlich schnell.",
+          "en": "The patient is recovering remarkably fast at the health resort.",
+          "ar": "يَسْتَعِيدُ المَرِيضُ عَافِيَتَهُ فِي المُنْتَجَعِ الصِّحِّيِّ بِسُرْعَةٍ فَائِقَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_health_008",
+      "infinitive": "messen",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "die Körpertemperatur oder den Blutdruck mit einem Gerät bestimmen",
+      "meaning_en": "to measure temperature or blood pressure",
+      "meaning_ar": "يَقِيسُ الحَرَارَةَ أَوِ الضَّغْط",
+      "tenses": {
+        "present": {
+          "ich": "messe",
+          "du": "misst",
+          "er_sie_es": "misst",
+          "wir": "messen",
+          "ihr": "messt",
+          "sie_Sie": "messen"
+        },
+        "past_simple": {
+          "ich": "maß",
+          "du": "maßest",
+          "er_sie_es": "maß",
+          "wir": "maßen",
+          "ihr": "maßt",
+          "sie_Sie": "maßen"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gemessen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يقيس بـ"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Krankenschwester misst morgens sorgsam den Blutdruck.",
+          "en": "The nurse carefully measures the blood pressure in the morning.",
+          "ar": "تَقِيسُ المُمَرِّضَةُ ضَغْطَ الدَّمِ صَبَاحًا بِكُلِّ عِنَايَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_health_009",
+      "infinitive": "verbinden",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "eine Wunde mit einer Binde oder einem Verband versorgen",
+      "meaning_en": "to dress, bandage a wound",
+      "meaning_ar": "يُضَمِّدُ الجُرْح",
+      "tenses": {
+        "present": {
+          "ich": "verbinde",
+          "du": "verbindest",
+          "er_sie_es": "verbindet",
+          "wir": "verbinden",
+          "ihr": "verbindet",
+          "sie_Sie": "verbinden"
+        },
+        "past_simple": {
+          "ich": "verband",
+          "du": "verbandest",
+          "er_sie_es": "verband",
+          "wir": "verbanden",
+          "ihr": "verbandet",
+          "sie_Sie": "verbanden"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "verbunden"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يضمد بواسطة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Arzt verbindet die Schnittwunde fachgerecht mit steriler Gaze.",
+          "en": "The doctor expertly dresses the cut with sterile gauze.",
+          "ar": "يُضَمِّدُ الطَّبِيبُ جُرْحَ القَطْعِ بِاحْتِرَافٍ بِشَاشٍ مُعَقَّم."
+        }
+      ]
+    },
+    {
+      "id": "verb_health_010",
+      "infinitive": "desinfizieren",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Krankheitserreger auf Wunden oder Händen abtöten",
+      "meaning_en": "to disinfect, sanitize",
+      "meaning_ar": "يُعَقِّمُ، يُطَهِّرُ الجُرْح",
+      "tenses": {
+        "present": {
+          "ich": "desinfiziere",
+          "du": "desinfizierst",
+          "er_sie_es": "desinfiziert",
+          "wir": "desinfizieren",
+          "ihr": "desinfiziert",
+          "sie_Sie": "desinfizieren"
+        },
+        "past_simple": {
+          "ich": "desinfizierte",
+          "du": "desinfiziertest",
+          "er_sie_es": "desinfizierte",
+          "wir": "desinfizierten",
+          "ihr": "desinfiziertet",
+          "sie_Sie": "desinfizierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "desinfiziert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يعقم بـ"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Vor dem Anlegen des Pflasters desinfiziert er die Haut gründlich.",
+          "en": "Before applying the plaster, he disinfects the skin thoroughly.",
+          "ar": "يُطَهِّرُ الجِلْدَ جَيِّدًا قَبْلَ وَضْعِ لَاصِقِ الجُرُوح."
+        }
+      ]
+    },
+    {
+      "id": "verb_health_011",
+      "infinitive": "lindern",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Schmerzen oder Beschwerden schwächer und erträglicher machen",
+      "meaning_en": "to soothe, alleviate, relieve",
+      "meaning_ar": "يُسَكِّنُ الأَلَمَ، يُلَطِّفُ",
+      "tenses": {
+        "present": {
+          "ich": "lindere",
+          "du": "linderst",
+          "er_sie_es": "lindert",
+          "wir": "lindern",
+          "ihr": "lindert",
+          "sie_Sie": "lindern"
+        },
+        "past_simple": {
+          "ich": "linderte",
+          "du": "lindertest",
+          "er_sie_es": "linderte",
+          "wir": "linderten",
+          "ihr": "lindertet",
+          "sie_Sie": "linderten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gelindert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "durch",
+          "case": "Akkusativ",
+          "meaning_ar": "يسكن بواسطة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Das warme Fußbad lindert die Müdigkeit nach einem langen Spaziergang.",
+          "en": "The warm footbath relieves tiredness after a long walk.",
+          "ar": "مَغْطِسُ القَدَمَيْنِ الدَّافِئُ يُسَكِّنُ التَّعَبَ بَعْدَ مَسِيرٍ طَوِيل."
+        }
+      ]
+    },
+    {
+      "id": "verb_health_012",
+      "infinitive": "husten",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "Luft stoßweise und geräuschvoll aus der Lunge ausstoßen",
+      "meaning_en": "to cough",
+      "meaning_ar": "يَسْعُلُ، يَكُحُّ",
+      "tenses": {
+        "present": {
+          "ich": "huste",
+          "du": "hustest",
+          "er_sie_es": "hustet",
+          "wir": "husten",
+          "ihr": "hustet",
+          "sie_Sie": "husten"
+        },
+        "past_simple": {
+          "ich": "hustete",
+          "du": "hustetest",
+          "er_sie_es": "hustete",
+          "wir": "husteten",
+          "ihr": "hustetet",
+          "sie_Sie": "husteten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gehustet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Akkusativ",
+          "meaning_ar": "يسعل في منديل"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Bitte husten Sie stets in die Armbeuge oder in ein Taschentuch.",
+          "en": "Please always cough into the crook of your arm or into a tissue.",
+          "ar": "يُرْجَى السُّعَالُ دَائِمًا فِي ثَنْيَةِ المِرْفَقِ أَوْ فِي مِنْدِيل."
+        }
+      ]
+    },
+    {
+      "id": "verb_health_013",
+      "infinitive": "niesen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "Luft plötzlich und reflexartig durch die Nase ausstoßen",
+      "meaning_en": "to sneeze",
+      "meaning_ar": "يَعْطِسُ",
+      "tenses": {
+        "present": {
+          "ich": "niese",
+          "du": "niest",
+          "er_sie_es": "niest",
+          "wir": "niesen",
+          "ihr": "niest",
+          "sie_Sie": "niesen"
+        },
+        "past_simple": {
+          "ich": "nieste",
+          "du": "niestest",
+          "er_sie_es": "nieste",
+          "wir": "niesten",
+          "ihr": "niestet",
+          "sie_Sie": "niesten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geniest"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "wegen",
+          "case": "Genitiv",
+          "meaning_ar": "يعطس بسبب"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wenn jemand niest, wünscht man ihm im Deutschen 'Gesundheit'.",
+          "en": "When someone sneezes, one wishes them 'Gesundheit' (good health) in German.",
+          "ar": "عِنْدَمَا يَعْطِسُ شَخْصٌ، يُقَالُ لَهُ فِي الأَلْمَانِيَّةِ: 'Gesundheit' (صِحَّة)."
+        }
+      ]
+    },
+    {
+      "id": "verb_health_014",
+      "infinitive": "krankschreiben",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "einem Arbeitnehmer eine ärztliche Arbeitsunfähigkeitsbescheinigung ausstellen",
+      "meaning_en": "to sign off sick, certify sick leave",
+      "meaning_ar": "يَمْنَحُ إِجَازَةً مَرَضِيَّةً بِتَقْرِيرٍ طِبِّيّ",
+      "tenses": {
+        "present": {
+          "ich": "schreibe krank",
+          "du": "schreibst krank",
+          "er_sie_es": "schreibt krank",
+          "wir": "schreiben krank",
+          "ihr": "schreibt krank",
+          "sie_Sie": "schreiben krank"
+        },
+        "past_simple": {
+          "ich": "schrieb krank",
+          "du": "schriebst krank",
+          "er_sie_es": "schrieb krank",
+          "wir": "schrieben krank",
+          "ihr": "schriebt krank",
+          "sie_Sie": "schrieben krank"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "krankgeschrieben"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "für",
+          "case": "Akkusativ",
+          "meaning_ar": "يمنح إجازة مرضية لمدة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Ärztin schrieb den erkälteten Mitarbeiter für drei Tage krank.",
+          "en": "The doctor certified sick leave for the cold-stricken employee for three days.",
+          "ar": "مَنَحَتِ الطَّبِيبَةُ المُوَظَّفَ المُصَابَ بِالزُّكَامِ إِجَازَةً مَرَضِيَّةً لِمُدَّةِ ثَلَاثَةِ أَيَّام."
+        }
+      ]
+    },
+    {
+      "id": "verb_health_015",
+      "infinitive": "heilen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "wieder gesund werden oder eine Krankheit beseitigen",
+      "meaning_en": "to heal, cure",
+      "meaning_ar": "يَشْفِي، يَبْرَأُ، يَلْتَئِمُ",
+      "tenses": {
+        "present": {
+          "ich": "heile",
+          "du": "heilst",
+          "er_sie_es": "heilt",
+          "wir": "heilen",
+          "ihr": "heilt",
+          "sie_Sie": "heilen"
+        },
+        "past_simple": {
+          "ich": "heilte",
+          "du": "heiltest",
+          "er_sie_es": "heilte",
+          "wir": "heilten",
+          "ihr": "heiltet",
+          "sie_Sie": "heilten"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "geheilt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "durch",
+          "case": "Akkusativ",
+          "meaning_ar": "يشفى بفضل"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die kleine Schürfwunde heilt unter dem Pflaster schnell ab.",
+          "en": "The small scrape heals quickly under the plaster.",
+          "ar": "يَلْتَئِمُ الخَدْشُ الصَّغِيرُ سَرِيعًا تَحْتَ لَاصِقِ الجُرُوح."
+        }
+      ]
+    },
+    {
+      "id": "verb_health_016",
+      "infinitive": "vorbeugen",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "rechtzeitig Maßnahmen ergreifen, um Krankheiten zu verhindern",
+      "meaning_en": "to prevent, take precautions",
+      "meaning_ar": "يَقِي، يَمْنَعُ حُدُوثَ المَرَض",
+      "tenses": {
+        "present": {
+          "ich": "beuge vor",
+          "du": "beugst vor",
+          "er_sie_es": "beugt vor",
+          "wir": "beugen vor",
+          "ihr": "beugt vor",
+          "sie_Sie": "beugen vor"
+        },
+        "past_simple": {
+          "ich": "beugte vor",
+          "du": "beugtest vor",
+          "er_sie_es": "beugte vor",
+          "wir": "beugten vor",
+          "ihr": "beugtet vor",
+          "sie_Sie": "beugten vor"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "vorgebeugt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "durch",
+          "case": "Akkusativ",
+          "meaning_ar": "يقي بواسطة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Gesunde Ernährung und Sport beugen vielen Zivilisationskrankheiten vor.",
+          "en": "Healthy nutrition and sport prevent many lifestyle diseases.",
+          "ar": "التَّغْذِيَةُ الصِّحِّيَّةُ وَالرِّيَاضَةُ تَقِيَانِ مِنْ كَثِيرٍ مِنْ أَمْرَاضِ العَصْر."
+        }
+      ]
+    },
+    {
+      "id": "verb_health_017",
+      "infinitive": "einatmen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Luft tief in die Lungen ziehen",
+      "meaning_en": "to inhale, breathe in",
+      "meaning_ar": "يَسْتَنْشِقُ، يَأْخُذُ شَهِيقًا",
+      "tenses": {
+        "present": {
+          "ich": "atme ein",
+          "du": "atmest ein",
+          "er_sie_es": "atmet ein",
+          "wir": "atmen ein",
+          "ihr": "atmet ein",
+          "sie_Sie": "atmen ein"
+        },
+        "past_simple": {
+          "ich": "atmete ein",
+          "du": "atmetest ein",
+          "er_sie_es": "atmete ein",
+          "wir": "atmeten ein",
+          "ihr": "atmetet ein",
+          "sie_Sie": "atmeten ein"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "eingeatmet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "durch",
+          "case": "Akkusativ",
+          "meaning_ar": "يستنشق من خلال"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Atmen Sie ruhig und tief durch die Nase ein.",
+          "en": "Breathe in calmly and deeply through your nose.",
+          "ar": "اسْتَنْشِقِ الهَوَاءَ بِهُدُوءٍ وَعُمْقٍ عَبْرَ الأَنْف."
+        }
+      ]
+    },
+    {
+      "id": "verb_health_018",
+      "infinitive": "kühlen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "eine Prellung oder Schwellung mit Eis oder Kältepackungen behandeln",
+      "meaning_en": "to cool, apply ice",
+      "meaning_ar": "يُكَمِّدُ بِالبُرُودَة، يُبَرِّدُ مَوْضِعَ الأَلَم",
+      "tenses": {
+        "present": {
+          "ich": "kühle",
+          "du": "kühlst",
+          "er_sie_es": "kühlt",
+          "wir": "kühlen",
+          "ihr": "kühlt",
+          "sie_Sie": "kühlen"
+        },
+        "past_simple": {
+          "ich": "kühlte",
+          "du": "kühltest",
+          "er_sie_es": "kühlte",
+          "wir": "kühlten",
+          "ihr": "kühltet",
+          "sie_Sie": "kühlten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gekühlt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يبرد بواسطة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er kühlt das verstauchte Fußgelenk sofort mit einem Kältebeutel.",
+          "en": "He immediately cools the sprained ankle with an ice pack.",
+          "ar": "يُكَمِّدُ كَاحِلَهُ المَلْتَوِيَ فَوْرًا بِكِيسِ ثَلْجٍ بَارِد."
+        }
+      ]
+    },
+    {
+      "id": "verb_health_019",
+      "infinitive": "verabreichen",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "einem Kranken eine Medizin nach ärztlicher Anweisung geben",
+      "meaning_en": "to administer medicine",
+      "meaning_ar": "يُعْطِي الدَّوَاءَ لِلْمَرِيض",
+      "tenses": {
+        "present": {
+          "ich": "verabreiche",
+          "du": "verabreichst",
+          "er_sie_es": "verabreicht",
+          "wir": "verabreichen",
+          "ihr": "verabreicht",
+          "sie_Sie": "verabreichen"
+        },
+        "past_simple": {
+          "ich": "verabreichte",
+          "du": "verabreichtest",
+          "er_sie_es": "verabreichte",
+          "wir": "verabreichten",
+          "ihr": "verabreichtet",
+          "sie_Sie": "verabreichten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "verabreicht"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "nach",
+          "case": "Dativ",
+          "meaning_ar": "يعطي الدواء وفق التعليمات"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Pflegekraft verabreicht die Tropfen nach genauer ärztlicher Vorschrift.",
+          "en": "The caregiver administers the drops according to exact medical instructions.",
+          "ar": "يُعْطِي مُقَدِّمُ الرِّعَايَةِ القَطَرَاتِ وِفْقَ التَّعْلِيمَاتِ الطِّبِّيَّةِ الدَّقِيقَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_health_020",
+      "infinitive": "genesen",
+      "verb_type": "irregular",
+      "level": "B1",
+      "meaning_de": "nach einer Krankheit die Gesundheit vollständig wiedererlangen",
+      "meaning_en": "to convalesce, recover fully",
+      "meaning_ar": "يَتَعَافَى تَمَامًا، يَبْرَأُ",
+      "tenses": {
+        "present": {
+          "ich": "genese",
+          "du": "genest",
+          "er_sie_es": "genest",
+          "wir": "genesen",
+          "ihr": "genest",
+          "sie_Sie": "genesen"
+        },
+        "past_simple": {
+          "ich": "genas",
+          "du": "genasest",
+          "er_sie_es": "genas",
+          "wir": "genasen",
+          "ihr": "genast",
+          "sie_Sie": "genasen"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "genesen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "von",
+          "case": "Dativ",
+          "meaning_ar": "يتعافى من مرض"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Nach zwei Wochen Bettruhe ist er von der Grippe vollkommen genesen.",
+          "en": "After two weeks of bed rest, he has fully recovered from the flu.",
+          "ar": "تَعَافَى تَمَامًا مِنَ الإِنْفْلُوَنْزَا بَعْدَ أُسْبُوعَيْنِ مِنَ الرَّاحَةِ فِي الفِرَاش."
+        }
+      ]
+    }
+  ]
+}

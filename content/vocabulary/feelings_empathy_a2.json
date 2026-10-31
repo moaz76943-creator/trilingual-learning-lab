@@ -1,0 +1,409 @@
+{
+  "category_id": "feelings_empathy_a2",
+  "category_name_de": "Gefühle, Empathie & Menschliche Wärme",
+  "category_name_en": "Feelings, Empathy & Human Kindness",
+  "category_name_ar": "المَشَاعِرُ الإِيجَابِيَّةُ وَالتَّعَاطُفُ الإِنْسَانِيّ",
+  "level": "A2+",
+  "items": [
+    {
+      "id": "empathy_feel_001",
+      "term_de": "die Freude",
+      "plural_de": "die Freuden",
+      "term_en": "joy, gladness",
+      "term_ar": "الفَرَح، البَهْجَة، السُّرُور",
+      "pronunciation_de": "[ˈfʁɔɪ̯də]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Seine Augen strahlten vor wahrer Freude beim Wiedersehen.",
+          "en": "His eyes shone with true joy upon reuniting.",
+          "ar": "أَشْرَقَتْ عَيْنَاهُ بِالفَرَحِ الحَقِيقِيِّ عِنْدَ اللِّقَاءِ مِنْ جَدِيد."
+        }
+      ]
+    },
+    {
+      "id": "empathy_feel_002",
+      "term_de": "die Dankbarkeit",
+      "plural_de": "-",
+      "term_en": "gratitude, thankfulness",
+      "term_ar": "الشُّكْر، الِامْتِنَان، العِرْفَان",
+      "pronunciation_de": "[ˈdaŋkbaːɐ̯kaɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Er erfüllte sein Herz mit tiefer Dankbarkeit für die erwiesene Güte.",
+          "en": "He filled his heart with deep gratitude for the kindness shown.",
+          "ar": "مَلَأَ قَلْبَهُ بِالِامْتِنَانِ العَمِيقِ لِلإِحْسَانِ المَبْذُول."
+        }
+      ]
+    },
+    {
+      "id": "empathy_feel_003",
+      "term_de": "das Mitgefühl",
+      "plural_de": "-",
+      "term_en": "compassion, sympathy",
+      "term_ar": "التَّعَاطُف، مُشَاطَرَةُ الوِجْدَان",
+      "pronunciation_de": "[ˈmɪtɡəˌfyːl]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Mit aufrichtigem Mitgefühl hörte sie den Sorgen der Nachbarin zu.",
+          "en": "With sincere compassion, she listened to the neighbor's worries.",
+          "ar": "أَصْغَتْ بِتَعَاطُفٍ صَادِقٍ إِلَى هُمُومِ الجَارَة."
+        }
+      ]
+    },
+    {
+      "id": "empathy_feel_004",
+      "term_de": "die Ruhe",
+      "plural_de": "-",
+      "term_en": "peace, calmness, tranquility",
+      "term_ar": "السَّكِينَة، الهُدُوء، الطُّمَأْنِينَة",
+      "pronunciation_de": "[ˈʁuːə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Nach einem arbeitsreichen Tag genoss er die wohlige Ruhe im Garten.",
+          "en": "After a busy day, he enjoyed the pleasant tranquility in the garden.",
+          "ar": "اسْتَمْتَعَ بَعْدَ يَوْمٍ حَافِلٍ بِالعَمَلِ بِالسَّكِينَةِ الهَانِئَةِ فِي الحَدِيقَة."
+        }
+      ]
+    },
+    {
+      "id": "empathy_feel_005",
+      "term_de": "die Hoffnung",
+      "plural_de": "die Hoffnungen",
+      "term_en": "hope",
+      "term_ar": "الأَمَل، الرَّجَاء",
+      "pronunciation_de": "[ˈhɔfnʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Hoffnung gibt dem Menschen Kraft in schweren Zeiten.",
+          "en": "Hope gives people strength in difficult times.",
+          "ar": "يَمْنَحُ الأَمَلُ الإِنْسَانَ قُوَّةً فِي الأَوْقَاتِ الصَّعْبَة."
+        }
+      ]
+    },
+    {
+      "id": "empathy_feel_006",
+      "term_de": "die Zuversicht",
+      "plural_de": "-",
+      "term_en": "optimism, confidence",
+      "term_ar": "التَّفَاؤُل، الثِّقَةُ بِالخَيْر",
+      "pronunciation_de": "[ˈt͡suːfɛɐ̯ˌzɪçt]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Mit fester Zuversicht blicken wir in die gemeinsame Zukunft.",
+          "en": "With firm confidence, we look forward to our shared future.",
+          "ar": "نَنْظُرُ بِتَفَاؤُلٍ رَاسِخٍ إِلَى المُسْتَقْبَلِ المُشْتَرَك."
+        }
+      ]
+    },
+    {
+      "id": "empathy_feel_007",
+      "term_de": "die Geduld",
+      "plural_de": "-",
+      "term_en": "patience, forbearance",
+      "term_ar": "الصَّبْر، الأَنَاة",
+      "pronunciation_de": "[ɡəˈdʊlt]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Geduld ist der Schlüssel zu dauerhaftem Erfolg und Frieden.",
+          "en": "Patience is the key to lasting success and peace.",
+          "ar": "الصَّبْرُ مِفْتَاحُ النَّجَاحِ الدَّائِمِ وَالسَّلَام."
+        }
+      ]
+    },
+    {
+      "id": "empathy_feel_008",
+      "term_de": "der Trost",
+      "plural_de": "-",
+      "term_en": "comfort, solace, consolation",
+      "term_ar": "المُوَاسَاة، السَّلْوَى",
+      "pronunciation_de": "[tʁoːst]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Ein freundliches Wort spendet oft den besten Trost.",
+          "en": "A friendly word often provides the best comfort.",
+          "ar": "الكَلِمَةُ الطَّيِّبَةُ تَمْنَحُ فِي كَثِيرٍ مِنَ الأَحْيَانِ أَعْظَمَ مُوَاسَاة."
+        }
+      ]
+    },
+    {
+      "id": "empathy_feel_009",
+      "term_de": "das Lächeln",
+      "plural_de": "die Lächeln",
+      "term_en": "smile",
+      "term_ar": "الِابْتِسَامَة",
+      "pronunciation_de": "[ˈlɛçl̩n]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Ein herzliches Lächeln öffnet selbst verschlossene Herzen.",
+          "en": "A warm smile opens even closed hearts.",
+          "ar": "الِابْتِسَامَةُ الصَّادِقَةُ تَفْتَحُ حَتَّى القُلُوبَ المُغْلَقَة."
+        }
+      ]
+    },
+    {
+      "id": "empathy_feel_010",
+      "term_de": "die Begeisterung",
+      "plural_de": "die Begeisterungen",
+      "term_en": "enthusiasm, excitement",
+      "term_ar": "الحَمَاس، الشَّغَف، الِابْتِهَاج",
+      "pronunciation_de": "[bəˈɡaɪ̯stəʁʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Kinder lernten die neuen Wörter mit großer Begeisterung.",
+          "en": "The children learned the new words with great enthusiasm.",
+          "ar": "تَعَلَّمَ الأَطْفَالُ الكَلِمَاتِ الجَدِيدَةَ بِحَمَاسٍ كَبِير."
+        }
+      ]
+    },
+    {
+      "id": "empathy_feel_011",
+      "term_de": "die Erleichterung",
+      "plural_de": "die Erleichterungen",
+      "term_en": "relief",
+      "term_ar": "الِارْتِيَاح، انْفِرَاجُ الكَرْب",
+      "pronunciation_de": "[ɛɐ̯ˈlaɪ̯çtəʁʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Er atmete vor Erleichterung auf, als die Prüfung bestanden war.",
+          "en": "He sighed with relief when the exam was passed.",
+          "ar": "تَنَفَّسَ الصُّعَدَاءَ ارْتِيَاحًا حِينَ اجْتَازَ الِاخْتِبَار."
+        }
+      ]
+    },
+    {
+      "id": "empathy_feel_012",
+      "term_de": "die Zuneigung",
+      "plural_de": "die Zuneigungen",
+      "term_en": "affection, fondness",
+      "term_ar": "المَوَدَّة، المَحَبَّة، الأُلْفَة",
+      "pronunciation_de": "[ˈt͡suːˌnaɪ̯ɡʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Geschwister begegnen einander mit aufrichtiger Zuneigung.",
+          "en": "The siblings treat each other with sincere affection.",
+          "ar": "يَتَعَامَلُ الإِخْوَةُ فِيمَا بَيْنَهُمْ بِمَوَدَّةٍ صَادِقَة."
+        }
+      ]
+    },
+    {
+      "id": "empathy_feel_013",
+      "term_de": "das Vertrauen",
+      "plural_de": "-",
+      "term_en": "trust, confidence",
+      "term_ar": "الثِّقَة، الِاطْمِئْنَان",
+      "pronunciation_de": "[fɛɐ̯ˈtʁaʊ̯ən]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Gegenseitiges Vertrauen ist das Fundament jeder guten Freundschaft.",
+          "en": "Mutual trust is the foundation of every good friendship.",
+          "ar": "الثِّقَةُ المُتَبَادَلَةُ هِيَ أَسَاسُ كُلِّ صَدَاقَةٍ طَيِّبَة."
+        }
+      ]
+    },
+    {
+      "id": "empathy_feel_014",
+      "term_de": "der Respekt",
+      "plural_de": "-",
+      "term_en": "respect, esteem",
+      "term_ar": "الِاحْتِرَام، التَّقْدِير",
+      "pronunciation_de": "[ʁeˈspɛkt]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Respekt vor älteren Menschen ist ein Zeichen edlen Charakters.",
+          "en": "Respect for elderly people is a sign of noble character.",
+          "ar": "احْتِرَامُ كِبَارِ السِّنِّ عَلَامَةٌ عَلَى حُسْنِ الخُلُقِ وَنُبْلِهِ."
+        }
+      ]
+    },
+    {
+      "id": "empathy_feel_015",
+      "term_de": "die Hilfsbereitschaft",
+      "plural_de": "-",
+      "term_en": "helpfulness, readiness to assist",
+      "term_ar": "حُبُّ المُسَاعَدَة، النَّخْوَة، عَوْنُ الآخَرِين",
+      "pronunciation_de": "[ˈhɪlfsbəˌʁaɪ̯tʃaft]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Seine Hilfsbereitschaft gegenüber Fremden verdient hohe Anerkennung.",
+          "en": "His helpfulness toward strangers deserves high recognition.",
+          "ar": "إِقْبَالُهُ عَلَى عَوْنِ الغُرَبَاءِ يَسْتَحِقُّ التَّقْدِيرَ الكَبِير."
+        }
+      ]
+    },
+    {
+      "id": "empathy_feel_016",
+      "term_de": "die Gelassenheit",
+      "plural_de": "-",
+      "term_en": "serenity, composure",
+      "term_ar": "رَبَاطَةُ الجَأْش، الاتِّزَان، رَاحَةُ البَال",
+      "pronunciation_de": "[ɡəˈlasn̩haɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Mit Gelassenheit löst die weise Lehrerin schwierige Streitigkeiten.",
+          "en": "With composure, the wise teacher resolves difficult disputes.",
+          "ar": "تَفُضُّ المُعَلِّمَةُ الحَكِيمَةُ النِّزَاعَاتِ الصَّعْبَةَ بِاتِّزَانٍ وَرَبَاطَةِ جَأْش."
+        }
+      ]
+    },
+    {
+      "id": "empathy_feel_017",
+      "term_de": "das Staunen",
+      "plural_de": "-",
+      "term_en": "wonder, astonishment",
+      "term_ar": "الدَّهْشَةُ المَحْمُودَة، التَّأَمُّلُ المُنْدَهِش",
+      "pronunciation_de": "[ˈʃtaʊ̯nən]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Der Anblick des Sternenhimmels versetzt uns in ehrfürchtiges Staunen.",
+          "en": "The sight of the starry sky puts us in reverent wonder.",
+          "ar": "مَشْهَدُ السَّمَاءِ المُرَصَّعَةِ بِالنُّجُومِ يَبْعَثُ فِي النَّفْسِ دَهْشَةً وَتَأَمُّلًا عَظِيمًا."
+        }
+      ]
+    },
+    {
+      "id": "empathy_feel_018",
+      "term_de": "die Herzlichkeit",
+      "plural_de": "die Herzlichkeiten",
+      "term_en": "cordiality, warm-heartedness",
+      "term_ar": "حَرَارَةُ المَشَاعِر، الحَفَاوَة، الودّ",
+      "pronunciation_de": "[ˈhɛʁt͡slɪçkaɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Gäste wurden mit außergewöhnlicher Herzlichkeit empfangen.",
+          "en": "The guests were welcomed with exceptional cordiality.",
+          "ar": "جَرَى اسْتِقْبَالُ الضُّيُوفِ بِحَفَاوَةٍ وَمَوَدَّةٍ اسْتِثْنَائِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "empathy_feel_019",
+      "term_de": "die Aufmunterung",
+      "plural_de": "die Aufmunterungen",
+      "term_en": "encouragement, cheer",
+      "term_ar": "التَّشْجِيع، رَفْعُ المَعْنَوِيَّات",
+      "pronunciation_de": "[ˈaʊ̯fˌmʊntəʁʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Deine lieben Worte waren eine willkommene Aufmunterung für ihn.",
+          "en": "Your kind words were a welcome encouragement for him.",
+          "ar": "كَانَتْ كَلِمَاتُكَ الطَّيِّبَةُ تَقْوِيَةً مُرَحَّبًا بِهَا لِمَعْنَوِيَّاتِه."
+        }
+      ]
+    },
+    {
+      "id": "empathy_feel_020",
+      "term_de": "die Eintracht",
+      "plural_de": "-",
+      "term_en": "harmony, concord, unity",
+      "term_ar": "الوِفَاق، التَّآلُف، الِانْسِجَام",
+      "pronunciation_de": "[ˈaɪ̯nˌtʁaxt]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "In friedlicher Eintracht lebt die Gemeinschaft zusammen.",
+          "en": "In peaceful concord, the community lives together.",
+          "ar": "يَعِيشُ أَبْنَاءُ المُجْتَمَعِ مَعًا فِي وِفَاقٍ سِلْمِيٍّ وَتَآلُف."
+        }
+      ]
+    },
+    {
+      "id": "empathy_feel_021",
+      "term_de": "die Bescheidenheit",
+      "plural_de": "-",
+      "term_en": "modesty, humility",
+      "term_ar": "التَّوَاضُع، البَسَاطَة",
+      "pronunciation_de": "[bəˈʃaɪ̯dn̩haɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Wahre Größe zeigt sich stets in aufrichtiger Bescheidenheit.",
+          "en": "True greatness is always shown in sincere humility.",
+          "ar": "تَتَجَلَّى العَظَمَةُ الحَقِيقِيَّةُ دَائِمًا فِي التَّوَاضُعِ الصَّادِق."
+        }
+      ]
+    },
+    {
+      "id": "empathy_feel_022",
+      "term_de": "die Ehrlichkeit",
+      "plural_de": "-",
+      "term_en": "honesty, truthfulness",
+      "term_ar": "الصِّدْق، النَّزَاهَة، الأَمَانَة",
+      "pronunciation_de": "[ˈeːɐ̯lɪçkaɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Ehrlichkeit im Sprechen schafft dauerhaftes Vertrauen.",
+          "en": "Honesty in speech creates enduring trust.",
+          "ar": "الصِّدْقُ فِي القَوْلِ يَبْنِي الثِّقَةَ الدَّائِمَة."
+        }
+      ]
+    },
+    {
+      "id": "empathy_feel_023",
+      "term_de": "der Edelmut",
+      "plural_de": "-",
+      "term_en": "magnanimity, nobility of mind",
+      "term_ar": "النُّبْل، كَرَمُ النَّفْس، المُرُوءَة",
+      "pronunciation_de": "[ˈeːdl̩ˌmuːt]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Er vergab den Fehltritt mit bewundernswertem Edelmut.",
+          "en": "He forgave the misstep with admirable nobility of mind.",
+          "ar": "عَفَا عَنِ الزَّلَّةِ بِنُبْلٍ وَمُرُوءَةٍ تُثِيرُ الإِعْجَاب."
+        }
+      ]
+    },
+    {
+      "id": "empathy_feel_024",
+      "term_de": "die Treue",
+      "plural_de": "-",
+      "term_en": "loyalty, faithfulness",
+      "term_ar": "الوَفَاء، الإِخْلَاص",
+      "pronunciation_de": "[ˈtʁɔɪ̯ə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Treue zu gegebenen Versprechen ehrt jeden Menschen.",
+          "en": "Faithfulness to given promises honors every person.",
+          "ar": "الوَفَاءُ بِالعُهُودِ المَقْطُوعَةِ شَرَفٌ لِكُلِّ إِنْسَان."
+        }
+      ]
+    },
+    {
+      "id": "empathy_feel_025",
+      "term_de": "der Seelenfrieden",
+      "plural_de": "-",
+      "term_en": "peace of mind, inner serenity",
+      "term_ar": "السَّلَامُ الدَّاخِلِيّ، طُمَأْنِينَةُ النَّفْس",
+      "pronunciation_de": "[ˈzeːlənˌfʁiːdn̩]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Gute Taten und ein reines Gewissen schenken tiefen Seelenfrieden.",
+          "en": "Good deeds and a clear conscience grant deep peace of mind.",
+          "ar": "الأَعْمَالُ الصَّالِحَةُ وَصَفَاءُ الضَّمِيرِ يَمْنَحَانِ طُمَأْنِينَةَ النَّفْسِ العَمِيقَة."
+        }
+      ]
+    }
+  ]
+}

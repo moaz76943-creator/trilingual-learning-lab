@@ -1,0 +1,909 @@
+{
+  "category_id": "a2_friendship_cooperation_verbs",
+  "category_name_de": "Freundschafts-, Kooperations- und Hilfsbereitschaftsverben",
+  "category_name_en": "Friendship, Cooperation & Helpfulness Verbs",
+  "category_name_ar": "أفعال الصداقة والتعاون والتآلف الإنساني",
+  "level": "A1/A2",
+  "verbs": [
+    {
+      "id": "verb_friend_001",
+      "infinitive": "anfreunden",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "eine freundschaftliche Beziehung zu jemandem aufbauen",
+      "meaning_en": "to make friends with, become friends",
+      "meaning_ar": "يَتَصَادَقُ، يُنْشِئُ صَدَاقَةً طَيِّبَة",
+      "tenses": {
+        "present": {
+          "ich": "freunde mich an",
+          "du": "freundest dich an",
+          "er_sie_es": "freundet sich an",
+          "wir": "freunden uns an",
+          "ihr": "freundet euch an",
+          "sie_Sie": "freunden sich an"
+        },
+        "past_simple": {
+          "ich": "freundete mich an",
+          "du": "freundetest dich an",
+          "er_sie_es": "freundete sich an",
+          "wir": "freundeten uns an",
+          "ihr": "freundetet euch an",
+          "sie_Sie": "freundeten sich an"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "angefreundet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يتصادق مع"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die neuen Nachbarn freundeten sich schnell mit allen im Viertel an.",
+          "en": "The new neighbors quickly made friends with everyone in the district.",
+          "ar": "تَصَادَقَ الجِيرَانُ الجُدُدُ سَرِيعًا مَعَ كُلِّ أَهْلِ الحَيّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_friend_002",
+      "infinitive": "vertrauen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "sich vollkommen auf die Ehrlichkeit eines Freundes verlassen",
+      "meaning_en": "to trust, rely on a friend",
+      "meaning_ar": "يَثِقُ، يَطْمَئِنُّ إِلَى صَدِيقِه",
+      "tenses": {
+        "present": {
+          "ich": "vertraue",
+          "du": "vertraust",
+          "er_sie_es": "vertraut",
+          "wir": "vertrauen",
+          "ihr": "vertraut",
+          "sie_Sie": "vertrauen"
+        },
+        "past_simple": {
+          "ich": "vertraute",
+          "du": "vertrautest",
+          "er_sie_es": "vertraute",
+          "wir": "vertrauten",
+          "ihr": "vertrautet",
+          "sie_Sie": "vertrauten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "vertraut"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Akkusativ",
+          "meaning_ar": "يثق في صراحة شخص"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Gute Freunde vertrauen einander bedingungslos in allen Lebenslagen.",
+          "en": "Good friends trust each other unconditionally in all circumstances.",
+          "ar": "يَثِقُ الأَصْدِقَاءُ الأَوْفِيَاءُ بِبَعْضِهِمْ دُونَ تَرَدُّدٍ فِي كُلِّ الظُّرُوف."
+        }
+      ]
+    },
+    {
+      "id": "verb_friend_003",
+      "infinitive": "helfen",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "einem Mitmenschen tatkräftig beistehen",
+      "meaning_en": "to help, assist",
+      "meaning_ar": "يُسَاعِدُ، يَمُدُّ يَدَ العَوْن",
+      "tenses": {
+        "present": {
+          "ich": "helfe",
+          "du": "hilfst",
+          "er_sie_es": "hilft",
+          "wir": "helfen",
+          "ihr": "helft",
+          "sie_Sie": "helfen"
+        },
+        "past_simple": {
+          "ich": "half",
+          "du": "halfst",
+          "er_sie_es": "half",
+          "wir": "halfen",
+          "ihr": "halft",
+          "sie_Sie": "halfen"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geholfen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "bei",
+          "case": "Dativ",
+          "meaning_ar": "يساعد في"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er hilft seinem älteren Nachbarn gerne beim Tragen schwerer Taschen.",
+          "en": "He gladly helps his elderly neighbor carry heavy bags.",
+          "ar": "يُسَاعِدُ جَارَهُ المُسِنَّ بِسَعَادَةٍ فِي حَمْلِ الأَكْيَاسِ الثَّقِيلَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_friend_004",
+      "infinitive": "unterstützen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Freunde mit Rat und Tat moralisch und praktisch stärken",
+      "meaning_en": "to support, back up",
+      "meaning_ar": "يُسَانِدُ، يُؤَازِرُ",
+      "tenses": {
+        "present": {
+          "ich": "unterstütze",
+          "du": "unterstützt",
+          "er_sie_es": "unterstützt",
+          "wir": "unterstützen",
+          "ihr": "unterstützt",
+          "sie_Sie": "unterstützen"
+        },
+        "past_simple": {
+          "ich": "unterstützte",
+          "du": "unterstütztest",
+          "er_sie_es": "unterstützte",
+          "wir": "unterstützten",
+          "ihr": "unterstütztet",
+          "sie_Sie": "unterstützten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "unterstützt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يساند في مشروع خير"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Nachbarn unterstützen die Gemeinschaftsaktion zur Begrünung des Parks.",
+          "en": "The neighbors support the community campaign to green the park.",
+          "ar": "يُسَانِدُ الجِيرَانُ مُبَادَرَةَ الحَيِّ لِتَشْجِيرِ الحَدِيقَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_friend_005",
+      "infinitive": "beistehen",
+      "verb_type": "irregular",
+      "level": "B1",
+      "meaning_de": "einem Gefährten in Notfällen treu zur Seite stehen",
+      "meaning_en": "to stand by, aid in hardship",
+      "meaning_ar": "يَقِفُ بِجَانِبِهِ فِي الشِّدَّة، يُعَاضِدُ",
+      "tenses": {
+        "present": {
+          "ich": "stehe bei",
+          "du": "stehst bei",
+          "er_sie_es": "steht bei",
+          "wir": "stehen bei",
+          "ihr": "steht bei",
+          "sie_Sie": "stehen bei"
+        },
+        "past_simple": {
+          "ich": "stand bei",
+          "du": "standest bei",
+          "er_sie_es": "stand bei",
+          "wir": "standen bei",
+          "ihr": "standet bei",
+          "sie_Sie": "standen bei"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "beigestanden"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يقف بجانب في المحنة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er stand seinem Freund in allen schweren Stunden verlässlich bei.",
+          "en": "He faithfully stood by his friend in all difficult hours.",
+          "ar": "وَقَفَ بِجَانِبِ صَدِيقِهِ بِوَفَاءٍ فِي كُلِّ السَّاعَاتِ الحَرِجَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_friend_006",
+      "infinitive": "teilen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "Freude, Wissen und Speisen großmütig mit anderen gemeinsam nutzen",
+      "meaning_en": "to share generously",
+      "meaning_ar": "يَتَقَاسَمُ، يُشَاطِرُ الخَيْرَ مَعَ رِفَاقِه",
+      "tenses": {
+        "present": {
+          "ich": "teile",
+          "du": "teilst",
+          "er_sie_es": "teilt",
+          "wir": "teilen",
+          "ihr": "teilt",
+          "sie_Sie": "teilen"
+        },
+        "past_simple": {
+          "ich": "teilte",
+          "du": "teiltest",
+          "er_sie_es": "teilte",
+          "wir": "teilten",
+          "ihr": "teiltet",
+          "sie_Sie": "teilten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geteilt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يتقاسم مع الجيران"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Sie teilten die frische Ernte gerecht mit ihren Nachbarn.",
+          "en": "They shared the fresh harvest fairly with their neighbors.",
+          "ar": "تَقَاسَمُوا المَحْصُولَ الطَّازَجَ بِعَدْلٍ وَكَرَمٍ مَعَ جِيرَانِهِم."
+        }
+      ]
+    },
+    {
+      "id": "verb_friend_007",
+      "infinitive": "trösten",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "den traurigen Freund mit sanften Worten aufrichten",
+      "meaning_en": "to console, comfort",
+      "meaning_ar": "يُوَاسِي، يُخَفِّفُ الحُزْنَ عَنْ رَفِيقِه",
+      "tenses": {
+        "present": {
+          "ich": "tröste",
+          "du": "tröstest",
+          "er_sie_es": "tröstet",
+          "wir": "trösten",
+          "ihr": "tröstet",
+          "sie_Sie": "trösten"
+        },
+        "past_simple": {
+          "ich": "tröstete",
+          "du": "tröstetest",
+          "er_sie_es": "tröstete",
+          "wir": "trösteten",
+          "ihr": "tröstetet",
+          "sie_Sie": "trösteten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "getröstet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يواسي بكلمات طيبة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Mit herzlichen Worten tröstete sie ihre Freundin bei Kummer.",
+          "en": "With warm words, she comforted her friend in grief.",
+          "ar": "وَاسَتْ صَدِيقَتَهَا عِنْدَ الحُزْنِ بِكَلِمَاتٍ نَابِعَةٍ مِنَ القَلْب."
+        }
+      ]
+    },
+    {
+      "id": "verb_friend_008",
+      "infinitive": "raten",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "einem Gefährten wohlmeinende Empfehlungen für den richtigen Weg geben",
+      "meaning_en": "to advise, counsel well",
+      "meaning_ar": "يَنْصَحُ، يُسْدِي المَشُورَةَ الصَّادِقَة",
+      "tenses": {
+        "present": {
+          "ich": "rate",
+          "du": "rätst",
+          "er_sie_es": "rät",
+          "wir": "raten",
+          "ihr": "ratet",
+          "sie_Sie": "raten"
+        },
+        "past_simple": {
+          "ich": "riet",
+          "du": "rietest",
+          "er_sie_es": "riet",
+          "wir": "rieten",
+          "ihr": "rietet",
+          "sie_Sie": "rieten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geraten"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "zu",
+          "case": "Dativ",
+          "meaning_ar": "ينصح بـ"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der erfahrene Freund riet ihm stets zu Besonnenheit und Geduld.",
+          "en": "The experienced friend always advised him to be prudent and patient.",
+          "ar": "نَصَحَهُ الصَّدِيقُ الخَبِيرُ دَائِمًا بِالتَّأَنِّي وَالصَّبْر."
+        }
+      ]
+    },
+    {
+      "id": "verb_friend_009",
+      "infinitive": "zuhören",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "dem Erzählenden mit vollem Herzen und ohne Unterbrechung lauschen",
+      "meaning_en": "to listen attentively to a friend",
+      "meaning_ar": "يُصْغِي، يَسْتَمِعُ بِانْتِبَاهٍ وَتَفَهُّم",
+      "tenses": {
+        "present": {
+          "ich": "höre zu",
+          "du": "hörst zu",
+          "er_sie_es": "hört zu",
+          "wir": "hören zu",
+          "ihr": "hört zu",
+          "sie_Sie": "hören zu"
+        },
+        "past_simple": {
+          "ich": "hörte zu",
+          "du": "hörtest zu",
+          "er_sie_es": "hörte zu",
+          "wir": "hörten zu",
+          "ihr": "hörtet zu",
+          "sie_Sie": "hörten zu"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "zugehört"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "bei",
+          "case": "Dativ",
+          "meaning_ar": "يصغي في حديث"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Ein wahrer Freund hört geduldig zu, wenn man sein Herz ausschüttet.",
+          "en": "A true friend listens patiently when you pour out your heart.",
+          "ar": "يُصْغِي الصَّدِيقُ الحَقِيقِيُّ بِصَبْرٍ حِينَ يَبُوحُ المَرْءُ بِمَا فِي صَدْرِه."
+        }
+      ]
+    },
+    {
+      "id": "verb_friend_010",
+      "infinitive": "verzeihen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "einem Freund eine Unachtsamkeit edelmütig vergeben",
+      "meaning_en": "to forgive, pardon a misstep",
+      "meaning_ar": "يَسْتَسْمِحُ، يَعْفُو عَنِ الزَّلَّة",
+      "tenses": {
+        "present": {
+          "ich": "verzeihe",
+          "du": "verzeihst",
+          "er_sie_es": "verzeiht",
+          "wir": "verzeihen",
+          "ihr": "verzeiht",
+          "sie_Sie": "verzeihen"
+        },
+        "past_simple": {
+          "ich": "verzieh",
+          "du": "verziehst",
+          "er_sie_es": "verzieh",
+          "wir": "verziehen",
+          "ihr": "verzieht",
+          "sie_Sie": "verziehen"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "verziehen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "von",
+          "case": "Dativ",
+          "meaning_ar": "يعفو من صميم القلب"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er verzieh seinem Kameraden den Fehler sofort von ganzem Herzen.",
+          "en": "He immediately forgave his companion the mistake with all his heart.",
+          "ar": "عَفَا عَنْ خَطَأِ رَفِيقِهِ فَوْرًا مِنْ أَعْمَاقِ قَلْبِه."
+        }
+      ]
+    },
+    {
+      "id": "verb_friend_011",
+      "infinitive": "versöhnen",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "nach einem Streit wieder Frieden und Einigkeit schließen",
+      "meaning_en": "to reconcile, make peace",
+      "meaning_ar": "يَتَصَالَحُ، يَعْقِدُ الصُّلْحَ وَالوِفَاق",
+      "tenses": {
+        "present": {
+          "ich": "versöhne mich",
+          "du": "versöhnst dich",
+          "er_sie_es": "versöhnt sich",
+          "wir": "versöhnen uns",
+          "ihr": "versöhnt euch",
+          "sie_Sie": "versöhnen sich"
+        },
+        "past_simple": {
+          "ich": "versöhnte mich",
+          "du": "versöhntest dich",
+          "er_sie_es": "versöhnte sich",
+          "wir": "versöhnten uns",
+          "ihr": "versöhntet euch",
+          "sie_Sie": "versöhnten sich"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "versöhnt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يتصالح مع رفيقه"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Nach dem Missverständnis versöhnten sich die beiden Nachbarn rasch.",
+          "en": "After the misunderstanding, the two neighbors quickly made peace.",
+          "ar": "تَصَالَحَ الجَارَانِ سَرِيعًا بَعْدَ حُدُوثِ سُوءِ التَّفَاهُم."
+        }
+      ]
+    },
+    {
+      "id": "verb_friend_012",
+      "infinitive": "grüßen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "den Vorübergehenden mit einem freundlichen Gruß begegnen",
+      "meaning_en": "to greet, say hello",
+      "meaning_ar": "يُحَيِّي، يُلْقِي السَّلَام",
+      "tenses": {
+        "present": {
+          "ich": "grüße",
+          "du": "grüßt",
+          "er_sie_es": "grüßt",
+          "wir": "grüßen",
+          "ihr": "grüßt",
+          "sie_Sie": "grüßen"
+        },
+        "past_simple": {
+          "ich": "grüßte",
+          "du": "grüßtest",
+          "er_sie_es": "grüßte",
+          "wir": "grüßten",
+          "ihr": "grüßtet",
+          "sie_Sie": "grüßten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gegrüßt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يحيي بابتسامة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Sie grüßt jeden Morgen alle Passanten mit einem gewinnenden Lächeln.",
+          "en": "Every morning, she greets all passersby with a winning smile.",
+          "ar": "تُحَيِّي كُلَّ صَبَاحٍ جَمِيعَ المَارَّةِ بِابْتِسَامَةٍ مُشْرِقَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_friend_013",
+      "infinitive": "schenken",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "einem Freund aus reiner Zuneigung eine Freude bereiten",
+      "meaning_en": "to gift, give a present",
+      "meaning_ar": "يُهْدِي، يَمْنَحُ هَدِيَّة",
+      "tenses": {
+        "present": {
+          "ich": "schenke",
+          "du": "schenkst",
+          "er_sie_es": "schenkt",
+          "wir": "schenken",
+          "ihr": "schenkt",
+          "sie_Sie": "schenken"
+        },
+        "past_simple": {
+          "ich": "schenkte",
+          "du": "schenktest",
+          "er_sie_es": "schenkte",
+          "wir": "schenkten",
+          "ihr": "schenktet",
+          "sie_Sie": "schenkten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geschenkt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "zu",
+          "case": "Dativ",
+          "meaning_ar": "يهدي بمناسبة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er schenkte seinem Freund ein wertvolles Buch zur Erinnerung.",
+          "en": "He gifted his friend a valuable book as a keepsake.",
+          "ar": "أَهْدَى صَدِيقَهُ كِتَابًا نَفِيسًا لِلذِّكْرَى."
+        }
+      ]
+    },
+    {
+      "id": "verb_friend_014",
+      "infinitive": "einladen",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "Nachbarn und Freunde zum Tee oder Essen bitten",
+      "meaning_en": "to invite friends or neighbors",
+      "meaning_ar": "يَدْعُو، يَسْتَضِيفُ",
+      "tenses": {
+        "present": {
+          "ich": "lade ein",
+          "du": "lädst ein",
+          "er_sie_es": "lädt ein",
+          "wir": "laden ein",
+          "ihr": "ladet ein",
+          "sie_Sie": "laden ein"
+        },
+        "past_simple": {
+          "ich": "lud ein",
+          "du": "ludst ein",
+          "er_sie_es": "lud ein",
+          "wir": "luden ein",
+          "ihr": "ludet ein",
+          "sie_Sie": "luden ein"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "eingeladen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "zu",
+          "case": "Dativ",
+          "meaning_ar": "يدعو إلى مائدة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wir laden die Nachbarn am Samstag zu einer Tasse Tee ein.",
+          "en": "We are inviting the neighbors for a cup of tea on Saturday.",
+          "ar": "نَدْعُو الجِيرَانَ يَوْمَ السَّبْتِ لِتَنَاوُلِ كُوبٍ مِنَ الشَّاي."
+        }
+      ]
+    },
+    {
+      "id": "verb_friend_015",
+      "infinitive": "besuchen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "zu Freunden gehen, um nach ihrem Wohlbefinden zu fragen",
+      "meaning_en": "to visit a friend",
+      "meaning_ar": "يَزُورُ، يَعُودُ صَدِيقَهُ",
+      "tenses": {
+        "present": {
+          "ich": "besuche",
+          "du": "besuchst",
+          "er_sie_es": "besucht",
+          "wir": "besuchen",
+          "ihr": "besucht",
+          "sie_Sie": "besuchen"
+        },
+        "past_simple": {
+          "ich": "besuchte",
+          "du": "besuchtest",
+          "er_sie_es": "besuchte",
+          "wir": "besuchten",
+          "ihr": "besuchtet",
+          "sie_Sie": "besuchten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "besucht"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يزور في المستشفى أو البيت"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er besuchte seinen kranken Gefährten und wünschte ihm rasche Genesung.",
+          "en": "He visited his sick companion and wished him a swift recovery.",
+          "ar": "عَادَ رَفِيقَهُ المَرِيضَ وَتَمَنَّى لَهُ الشِّفَاءَ العَاجِل."
+        }
+      ]
+    },
+    {
+      "id": "verb_friend_016",
+      "infinitive": "zusammenarbeiten",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "in Einmütigkeit an einem gemeinsamen Ziel für das Gemeinwohl wirken",
+      "meaning_en": "to cooperate, work together",
+      "meaning_ar": "يَتَعَاوَنُ، يَعْمَلُ يَدًا بِيَد",
+      "tenses": {
+        "present": {
+          "ich": "arbeite zusammen",
+          "du": "arbeitest zusammen",
+          "er_sie_es": "arbeitet zusammen",
+          "wir": "arbeiten zusammen",
+          "ihr": "arbeitet zusammen",
+          "sie_Sie": "arbeiten zusammen"
+        },
+        "past_simple": {
+          "ich": "arbeitete zusammen",
+          "du": "arbeitetest zusammen",
+          "er_sie_es": "arbeitete zusammen",
+          "wir": "arbeiteten zusammen",
+          "ihr": "arbeitetet zusammen",
+          "sie_Sie": "arbeiteten zusammen"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "zusammengearbeitet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Dativ",
+          "meaning_ar": "يتعاون في مشروع"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Nachbarn arbeiten harmonisch an der Pflege des Gemeinschaftsgartens zusammen.",
+          "en": "The neighbors work together harmoniously in tending the community garden.",
+          "ar": "يَتَعَاوَنُ الجِيرَانُ بِانْسِجَامٍ فِي رِعَايَةِ الحَدِيقَةِ المُشْتَرَكَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_friend_017",
+      "infinitive": "vermissen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "die Abwesenheit eines treuen Freundes schmerzlich spüren",
+      "meaning_en": "to miss a dear friend",
+      "meaning_ar": "يَشْتَاقُ، يَفْتَقِدُ صَدِيقَهُ",
+      "tenses": {
+        "present": {
+          "ich": "vermisse",
+          "du": "vermisst",
+          "er_sie_es": "vermisst",
+          "wir": "vermissen",
+          "ihr": "vermisst",
+          "sie_Sie": "vermissen"
+        },
+        "past_simple": {
+          "ich": "vermisste",
+          "du": "vermisstest",
+          "er_sie_es": "vermisste",
+          "wir": "vermissten",
+          "ihr": "vermisstet",
+          "sie_Sie": "vermissten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "vermisst"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يفتقد في الغربة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er vermisst die anregenden Gespräche mit seinem Jugendfreund.",
+          "en": "He misses the stimulating conversations with his childhood friend.",
+          "ar": "يَشْتَاقُ إِلَى الأَحَادِيثِ الشَّيِّقَةِ مَعَ صَدِيقِ طُفُولَتِه."
+        }
+      ]
+    },
+    {
+      "id": "verb_friend_018",
+      "infinitive": "wertschätzen",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "die edlen Eigenschaften des Gefährten von Herzen achten",
+      "meaning_en": "to cherish, value highly",
+      "meaning_ar": "يُقَدِّرُ، يُعِزُّ، يَرْعَى حَقَّ الصَّدَاقَة",
+      "tenses": {
+        "present": {
+          "ich": "schätze wert",
+          "du": "schätzt wert",
+          "er_sie_es": "schätzt wert",
+          "wir": "schätzen wert",
+          "ihr": "schätzt wert",
+          "sie_Sie": "schätzen wert"
+        },
+        "past_simple": {
+          "ich": "schätzte wert",
+          "du": "schätztest wert",
+          "er_sie_es": "schätzte wert",
+          "wir": "schätzten wert",
+          "ihr": "schätztet wert",
+          "sie_Sie": "schätzten wert"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "wertgeschätzt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "für",
+          "case": "Akkusativ",
+          "meaning_ar": "يقدر شخصاً لأمانته"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Alle schätzen ihn für seine Aufrichtigkeit und Bescheidenheit wert.",
+          "en": "Everyone values him for his sincerity and modesty.",
+          "ar": "يُقَدِّرُهُ الجَمِيعُ لِصِدْقِهِ وَحُسْنِ تَوَاضُعِه."
+        }
+      ]
+    },
+    {
+      "id": "verb_friend_019",
+      "infinitive": "ermutigen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "dem zögernden Freund neuen Mut und Entschlossenheit einflößen",
+      "meaning_en": "to encourage, uplift a friend",
+      "meaning_ar": "يُشَجِّعُ، يَبُثُّ العَزِيمَةَ فِي صَاحِبِه",
+      "tenses": {
+        "present": {
+          "ich": "ermutige",
+          "du": "ermutigst",
+          "er_sie_es": "ermutigt",
+          "wir": "ermutigen",
+          "ihr": "ermutigt",
+          "sie_Sie": "ermutigen"
+        },
+        "past_simple": {
+          "ich": "ermutigte",
+          "du": "ermutigtest",
+          "er_sie_es": "ermutigte",
+          "wir": "ermutigten",
+          "ihr": "ermutigtet",
+          "sie_Sie": "ermutigten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "ermutigt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "zu",
+          "case": "Dativ",
+          "meaning_ar": "يشجع على مواصلة التعلم"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Sie ermutigte ihre Freundin, die schwere Sprachprüfung anzutreten.",
+          "en": "She encouraged her friend to take the challenging language exam.",
+          "ar": "شَجَّعَتْ صَدِيقَتَهَا عَلَى خَوْضِ اخْتِبَارِ اللُّغَةِ الصَّعْب."
+        }
+      ]
+    },
+    {
+      "id": "verb_friend_020",
+      "infinitive": "freuen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "sich von Herzen über den Erfolg des Freundes mitfreuen",
+      "meaning_en": "to rejoice with, be glad for",
+      "meaning_ar": "يَفْرَحُ لِفَرَحِ أَخِيهِ، يَسْعَدُ لِنَجَاحِه",
+      "tenses": {
+        "present": {
+          "ich": "freue mich",
+          "du": "freust dich",
+          "er_sie_es": "freut sich",
+          "wir": "freuen uns",
+          "ihr": "freut euch",
+          "sie_Sie": "freuen sich"
+        },
+        "past_simple": {
+          "ich": "freute mich",
+          "du": "freutest dich",
+          "er_sie_es": "freute sich",
+          "wir": "freuten uns",
+          "ihr": "freutet euch",
+          "sie_Sie": "freuten sich"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gefreut"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "über",
+          "case": "Akkusativ",
+          "meaning_ar": "يفرح لنجاح صديقه"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er freut sich aufrichtig über den Prüfungserfolg seines besten Freundes.",
+          "en": "He sincerely rejoices over his best friend's exam success.",
+          "ar": "يَفْرَحُ مِنْ قَلْبِهِ لِنَجَاحِ صَدِيقِهِ المُفَضَّلِ فِي الِاخْتِبَار."
+        }
+      ]
+    }
+  ]
+}

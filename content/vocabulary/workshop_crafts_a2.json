@@ -1,0 +1,409 @@
+{
+  "category_id": "workshop_crafts_a2",
+  "category_name_de": "Handwerk, Werkstatt & Manufaktur",
+  "category_name_en": "Crafts, Workshop & Manufacturing",
+  "category_name_ar": "الصَّنَائِعُ الحِرَفِيَّةُ وَالوَرْشَةُ وَفُنُونُ النِّجَارَةِ وَالحِدَادَة",
+  "level": "A2+",
+  "items": [
+    {
+      "id": "craft_work_001",
+      "term_de": "die Werkstatt",
+      "plural_de": "die Werkstätten",
+      "term_en": "workshop",
+      "term_ar": "الوَرْشَة، المَشْغَلُ الحِرَفِيّ",
+      "pronunciation_de": "[ˈvɛʁkˌʃtat]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "In der hellen Werkstatt duftet es nach frisch gehobeltem Holz.",
+          "en": "In the bright workshop, it smells of freshly planed wood.",
+          "ar": "تَفُوحُ الوَرْشَةُ المُضِيئَةُ بِرَائِحَةِ الخَشَبِ المَسْحُوجِ حَدِيثًا."
+        }
+      ]
+    },
+    {
+      "id": "craft_work_002",
+      "term_de": "der Handwerker",
+      "plural_de": "die Handwerker",
+      "term_en": "craftsman, artisan",
+      "term_ar": "الحِرَفِيّ، الصَّانِعُ المَاهِر",
+      "pronunciation_de": "[ˈhantˌvɛʁkɐ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der geschickte Handwerker fertigt robuste Möbel mit meisterhafter Präzision.",
+          "en": "The skilled craftsman makes sturdy furniture with masterly precision.",
+          "ar": "يَصْنَعُ الحِرَفِيُّ المَاهِرُ أَثَاثًا مَتِينًا بِدِقَّةٍ صِنَاعِيَّةٍ فَائِقَة."
+        }
+      ]
+    },
+    {
+      "id": "craft_work_003",
+      "term_de": "die Werkzeugkiste",
+      "plural_de": "die Werkzeugkisten",
+      "term_en": "toolbox",
+      "term_ar": "صُنْدُوقُ العُدَّة، صُنْدُوقُ الأَدَوَات",
+      "pronunciation_de": "[ˈvɛʁkt͡sɔɪ̯kˌkɪstə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Alle Schrauben und Zangen liegen geordnet in der stabilen Werkzeugkiste.",
+          "en": "All screws and pliers lie organized in the sturdy toolbox.",
+          "ar": "تَسْتَقِرُّ جَمِيعُ البَرَاغِي وَالكَمَّاشَاتِ بِنِظَامٍ فِي صُنْدُوقِ العُدَّةِ المَتِين."
+        }
+      ]
+    },
+    {
+      "id": "craft_work_004",
+      "term_de": "der Hammer",
+      "plural_de": "die Hämmer",
+      "term_en": "hammer",
+      "term_ar": "المِطْرَقَة",
+      "pronunciation_de": "[ˈhamɐ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Mit dem schweren Hammer treibt der Schmied den glühenden Stahl in Form.",
+          "en": "With the heavy hammer, the blacksmith shapes the glowing steel.",
+          "ar": "يُشَكِّلُ الحَدَّادُ الفُولَاذَ المُتَوَهِّجَ بِالمِطْرَقَةِ الثَّقِيلَة."
+        }
+      ]
+    },
+    {
+      "id": "craft_work_005",
+      "term_de": "die Zange",
+      "plural_de": "die Zangen",
+      "term_en": "pliers, pincers",
+      "term_ar": "الكَمَّاشَة، الكَلْبَة",
+      "pronunciation_de": "[ˈt͡saŋə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Mit einer spitzen Zange biegt er den festen Draht mühelos zurecht.",
+          "en": "With pointed pliers, he bends the firm wire effortlessly.",
+          "ar": "يَثْنِي السِّلْكَ المَتِينَ بِكَمَّاشَةٍ مُدَبَّبَةٍ بِكُلِّ سُهُولَة."
+        }
+      ]
+    },
+    {
+      "id": "craft_work_006",
+      "term_de": "der Schraubenzieher",
+      "plural_de": "die Schraubenzieher",
+      "term_en": "screwdriver",
+      "term_ar": "المِفَكّ",
+      "pronunciation_de": "[ˈʃʁaʊ̯bn̩ˌt͡siːɐ̯]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Er zog die lose Schraube mit dem passenden Schraubenzieher fest.",
+          "en": "He tightened the loose screw with the matching screwdriver.",
+          "ar": "أَحْكَمَ رَبْطَ البُرْغِيِّ المَرْخِيِّ بِالمِفَكِّ المُنَاسِب."
+        }
+      ]
+    },
+    {
+      "id": "craft_work_007",
+      "term_de": "der Schraubenschlüssel",
+      "plural_de": "die Schraubenschlüssel",
+      "term_en": "wrench, spanner",
+      "term_ar": "مِفْتَاحُ الرَّبْط",
+      "pronunciation_de": "[ˈʃʁaʊ̯bn̩ˌʃlʏsl̩]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der Mechaniker wählte den richtigen Schraubenschlüssel für die Mutter.",
+          "en": "The mechanic chose the correct wrench for the nut.",
+          "ar": "اخْتَارَ المِيكَانِيكِيُّ مِفْتَاحَ الرَّبْطِ المُنَاسِبَ لِصَامُولَةِ التَّثْبِيت."
+        }
+      ]
+    },
+    {
+      "id": "craft_work_008",
+      "term_de": "die Säge",
+      "plural_de": "die Sägen",
+      "term_en": "saw",
+      "term_ar": "المِنْشَار",
+      "pronunciation_de": "[ˈzɛːɡə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die scharfe Säge schneidet das Holzbrett auf das genaue Maß zu.",
+          "en": "The sharp saw cuts the wooden board to exact dimensions.",
+          "ar": "يَقْطَعُ المِنْشَارُ الحَادُّ اللَّوْحَ الخَشَبِيَّ بِالمَقَاسِ المَضْبُوطِ تَمَامًا."
+        }
+      ]
+    },
+    {
+      "id": "craft_work_009",
+      "term_de": "der Hobel",
+      "plural_de": "die Hobel",
+      "term_en": "hand plane",
+      "term_ar": "المِسْحَاج، الفَأْرَةُ النَّجَّارِيَّة",
+      "pronunciation_de": "[ˈhoːbl̩]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Mit dem Hobel glättet der Schreiner die raue Oberfläche des Tisches.",
+          "en": "With the hand plane, the carpenter smooths the rough surface of the table.",
+          "ar": "يُسَوِّي النَّجَّارُ السَّطْحَ الخَشِنَ لِلطَّاوِلَةِ بِالمِسْحَاج."
+        }
+      ]
+    },
+    {
+      "id": "craft_work_010",
+      "term_de": "die Feile",
+      "plural_de": "die Feilen",
+      "term_en": "file, rasp",
+      "term_ar": "المِبْرَد",
+      "pronunciation_de": "[ˈfaɪ̯lə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Mit einer feinen Feile entgratet er die Kanten des Metallstücks.",
+          "en": "With a fine file, he deburrs the edges of the metal piece.",
+          "ar": "يُهَذِّبُ حَوَافَّ القِطْعَةِ المَعْدِنِيَّةِ بِمِبْرَدٍ دَقِيق."
+        }
+      ]
+    },
+    {
+      "id": "craft_work_011",
+      "term_de": "der Amboss",
+      "plural_de": "die Ambosse",
+      "term_en": "anvil",
+      "term_ar": "السِّنْدَان",
+      "pronunciation_de": "[ˈambɔs]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der schwere eiserne Amboss steht unverrückbar im Zentrum der Schmiede.",
+          "en": "The heavy iron anvil stands immovable in the center of the forge.",
+          "ar": "يَقِفُ السِّنْدَانُ الحَدِيدِيُّ الثَّقِيلُ ثَابِتًا فِي قَلْبِ مَحَلِّ الحِدَادَة."
+        }
+      ]
+    },
+    {
+      "id": "craft_work_012",
+      "term_de": "der Schraubstock",
+      "plural_de": "die Schraubstöcke",
+      "term_en": "vise, bench clamp",
+      "term_ar": "المَلْزَمَة، المَنْجَنَة",
+      "pronunciation_de": "[ˈʃʁaʊ̯pˌʃtɔk]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Spann das Werkstück fest in den Schraubstock ein, bevor du bohrst.",
+          "en": "Clamp the workpiece firmly in the vise before drilling.",
+          "ar": "ثَبِّتِ القِطْعَةَ جَيِّدًا فِي المَلْزَمَةِ قَبْلَ البَدْءِ بِالثَّقْب."
+        }
+      ]
+    },
+    {
+      "id": "craft_work_013",
+      "term_de": "das Schnitzmesser",
+      "plural_de": "die Schnitzmesser",
+      "term_en": "carving knife",
+      "term_ar": "سِكِّينُ النَّحْتِ الخَشَبِيّ",
+      "pronunciation_de": "[ˈʃnɪt͡sˌmɛsɐ]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Mit dem Schnitzmesser formt er kunstvolle Verzierungen aus Lindenholz.",
+          "en": "With the carving knife, he shapes artistic ornaments from linden wood.",
+          "ar": "يَنْحَتُ زَخَارِفَ فَنِّيَّةً بَدِيعَةً مِنْ خَشَبِ الزَّيْزَفُونِ بِسِكِّينِ النَّحْت."
+        }
+      ]
+    },
+    {
+      "id": "craft_work_014",
+      "term_de": "der Meißel",
+      "plural_de": "die Meißel",
+      "term_en": "chisel",
+      "term_ar": "الإِزْمِيل",
+      "pronunciation_de": "[ˈmaɪ̯sl̩]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der Steinmetz bearbeitet den harten Marmor mit Hammer und Meißel.",
+          "en": "The stone sculptor works the hard marble with hammer and chisel.",
+          "ar": "يَنْقُشُ النَّحَّاتُ الرُّخَامَ الصَّلْبَ بِالمِطْرَقَةِ وَالإِزْمِيل."
+        }
+      ]
+    },
+    {
+      "id": "craft_work_015",
+      "term_de": "das Eisen",
+      "plural_de": "-",
+      "term_en": "iron",
+      "term_ar": "الحَدِيد",
+      "pronunciation_de": "[ˈaɪ̯zn̩]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Glühendes Eisen lässt sich schmieden, solange es heiß ist.",
+          "en": "Glowing iron can be forged as long as it is hot.",
+          "ar": "اطْرُقِ الحَدِيدَ وَهُوَ سَاخِنٌ لِيَنْصَاعَ لِلتَّشْكِيل."
+        }
+      ]
+    },
+    {
+      "id": "craft_work_016",
+      "term_de": "das Kupfer",
+      "plural_de": "-",
+      "term_en": "copper",
+      "term_ar": "النُّحَاس",
+      "pronunciation_de": "[ˈkʊpfɐ]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Kupfer leitet Wärme und elektrischen Strom hervorragend.",
+          "en": "Copper conducts heat and electricity exceptionally well.",
+          "ar": "يُوَصِّلُ النُّحَاسُ الحَرَارَةَ وَالكَهْرَبَاءَ بِكِفَايَةٍ مِثَالِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "craft_work_017",
+      "term_de": "die Eiche",
+      "plural_de": "die Eichen",
+      "term_en": "oak wood",
+      "term_ar": "خَشَبُ البَلُّوطِ الصَّلْب",
+      "pronunciation_de": "[ˈaɪ̯çə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Möbel aus massiver Eiche halten über Generationen hinweg.",
+          "en": "Furniture made of solid oak lasts across generations.",
+          "ar": "الأَثَاثُ المَصْنُوعُ مِنْ خَشَبِ البَلُّوطِ الصَّلْبِ يَبْقَى عَبْرَ الأَجْيَال."
+        }
+      ]
+    },
+    {
+      "id": "craft_work_018",
+      "term_de": "der Leim",
+      "plural_de": "die Leime",
+      "term_en": "wood glue",
+      "term_ar": "الغِرَاءُ الخَشَبِيّ",
+      "pronunciation_de": "[laɪ̯m]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der wasserfeste Leim verbindet die Holzteile unlösbar miteinander.",
+          "en": "The waterproof glue binds the wooden parts insolubly together.",
+          "ar": "يَرْبِطُ الغِرَاءُ المُقَاوِمُ لِلْمَاءِ قِطَعَ الخَشَبِ بِرِبَاطٍ لَا يَنْفَصِم."
+        }
+      ]
+    },
+    {
+      "id": "craft_work_019",
+      "term_de": "die Späne",
+      "plural_de": "die Späne",
+      "term_en": "wood shavings, sawdust",
+      "term_ar": "نُشَارَةُ الخَشَب",
+      "pronunciation_de": "[ˈʃpɛːnə]",
+      "gender_de": "plural",
+      "examples": [
+        {
+          "de": "Goldene Späne bedecken den Werkstattboden nach dem Hobeln.",
+          "en": "Golden shavings cover the workshop floor after planing.",
+          "ar": "تَكْسُو نُشَارَةُ الخَشَبِ الذَّهَبِيَّةُ أَرْضِيَّةَ الوَرْشَةِ بَعْدَ السَّحْج."
+        }
+      ]
+    },
+    {
+      "id": "craft_work_020",
+      "term_de": "das Meisterwerk",
+      "plural_de": "die Meisterwerke",
+      "term_en": "masterpiece",
+      "term_ar": "التُّحْفَةُ الحِرَفِيَّة، الصَّنِيعَةُ المُتْقَنَة",
+      "pronunciation_de": "[ˈmaɪ̯stɐˌvɛʁk]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Der handgeschnitzte Schrank ist ein meisterhaftes Meisterwerk der Tischlerkunst.",
+          "en": "The hand-carved cabinet is a masterful masterpiece of carpentry.",
+          "ar": "تِلْكَ الخِزَانَةُ المَنْحُوتَةُ يَدَوِيًّا تُحْفَةٌ فَنِّيَّةٌ فِي صَنْعَةِ النِّجَارَة."
+        }
+      ]
+    },
+    {
+      "id": "craft_work_021",
+      "term_de": "die Präzision",
+      "plural_de": "-",
+      "term_en": "precision, craftsmanship accuracy",
+      "term_ar": "الدِّقَّةُ المُتَنَاهِيَة، الإِتْقَان",
+      "pronunciation_de": "[pʁɛt͡siˈzi̯oːn]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Gutes Handwerk lebt von Geduld, Genauigkeit und höchster Präzision.",
+          "en": "Good craftsmanship thrives on patience, accuracy, and utmost precision.",
+          "ar": "يَقُومُ العَمَلُ الحِرَفِيُّ الصَّادِقُ عَلَى الصَّبْرِ وَالإِتْقَانِ وَالدِّقَّةِ العَالِيَة."
+        }
+      ]
+    },
+    {
+      "id": "craft_work_022",
+      "term_de": "der Lehrling",
+      "plural_de": "die Lehrlinge",
+      "term_en": "apprentice",
+      "term_ar": "المُتَدَرِّب، تِلْمِيذُ الصَّنْعَة",
+      "pronunciation_de": "[ˈleːɐ̯lɪŋ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der eifrige Lehrling schaut dem Meister bei jedem Handgriff aufmerksam zu.",
+          "en": "The eager apprentice watches the master attentively at every move.",
+          "ar": "يَرْقُبُ المُتَدَرِّبُ المُجِدُّ حَرَكَاتِ شَيْخِ الصَّنْعَةِ بِانْتِبَاهٍ تَامّ."
+        }
+      ]
+    },
+    {
+      "id": "craft_work_023",
+      "term_de": "der Geselle",
+      "plural_de": "die Gesellen",
+      "term_en": "journeyman, skilled worker",
+      "term_ar": "الصَّانِعُ المُؤَهَّل",
+      "pronunciation_de": "[ɡəˈzɛlə]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Nach bestandener Prüfung fertigte der Geselle selbstständig Türen an.",
+          "en": "After passing the exam, the journeyman made doors independently.",
+          "ar": "بَعْدَ اجْتِيَازِ الِاخْتِبَارِ شَرَعَ الصَّانِعُ فِي صِنَاعَةِ الأَبْوَابِ بِاسْتِقْلَالِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "craft_work_024",
+      "term_de": "der Meister",
+      "plural_de": "die Meister",
+      "term_en": "master craftsman",
+      "term_ar": "المُعَلِّم، شَيْخُ الصَّنْعَة",
+      "pronunciation_de": "[ˈmaɪ̯stɐ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der Meister gibt sein langjähriges Erfahrungswissen an die nächste Generation weiter.",
+          "en": "The master passes his years of experience on to the next generation.",
+          "ar": "يَنْقُلُ مُعَلِّمُ الصَّنْعَةِ خِبْرَتَهُ الطَّوِيلَةَ إِلَى الأَجْيَالِ الصَّاعِدَة."
+        }
+      ]
+    },
+    {
+      "id": "craft_work_025",
+      "term_de": "das Geschick",
+      "plural_de": "-",
+      "term_en": "manual dexterity, craftsmanship skill",
+      "term_ar": "المَهَارَةُ اليَدَوِيَّة، البَرَاعَة",
+      "pronunciation_de": "[ɡəˈʃɪk]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Handwerkliches Geschick ist ein wertvolles Gut für das ganze Leben.",
+          "en": "Manual dexterity is a valuable asset for the whole life.",
+          "ar": "المَهَارَةُ اليَدَوِيَّةُ ذُخْرٌ نَافِعٌ لِلإِنْسَانِ طَوَالَ حَيَاتِه."
+        }
+      ]
+    }
+  ]
+}

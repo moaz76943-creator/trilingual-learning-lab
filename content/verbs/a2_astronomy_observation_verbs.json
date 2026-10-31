@@ -1,0 +1,909 @@
+{
+  "category_id": "a2_astronomy_observation_verbs",
+  "category_name_de": "Himmelsbeobachtungs- und Kosmosverben",
+  "category_name_en": "Sky Observation & Cosmic Phenomena Verbs",
+  "category_name_ar": "أفعال الرصد الفلكي والظواهر الكونية",
+  "level": "A2/B1",
+  "verbs": [
+    {
+      "id": "verb_astro_001",
+      "infinitive": "beobachten",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "den Himmel oder Gestirne aufmerksam mit den Augen betrachten",
+      "meaning_en": "to observe, watch stars",
+      "meaning_ar": "يَرْصُدُ، يُرَاقِبُ الأَجْرَامَ السَّمَاوِيَّة",
+      "tenses": {
+        "present": {
+          "ich": "beobachte",
+          "du": "beobachtest",
+          "er_sie_es": "beobachtet",
+          "wir": "beobachten",
+          "ihr": "beobachtet",
+          "sie_Sie": "beobachten"
+        },
+        "past_simple": {
+          "ich": "beobachtete",
+          "du": "beobachtetest",
+          "er_sie_es": "beobachtete",
+          "wir": "beobachteten",
+          "ihr": "beobachtetet",
+          "sie_Sie": "beobachteten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "beobachtet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "durch",
+          "case": "Akkusativ",
+          "meaning_ar": "يرصد بواسطة منظار"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Astronomen beobachten die Planeten durch das große Teleskop.",
+          "en": "Astronomers observe the planets through the large telescope.",
+          "ar": "يَرْصُدُ عُلَمَاءُ الفَلَكِ الكَوَاكِبَ عَبْرَ المِنْظَارِ الضَّخْم."
+        }
+      ]
+    },
+    {
+      "id": "verb_astro_002",
+      "infinitive": "leuchten",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "eigenes Licht aussenden und strahlen",
+      "meaning_en": "to shine, glow",
+      "meaning_ar": "يُشِعُّ، يُضِيءُ، يَتَوَهَّجُ",
+      "tenses": {
+        "present": {
+          "ich": "leuchte",
+          "du": "leuchtest",
+          "er_sie_es": "leuchtet",
+          "wir": "leuchten",
+          "ihr": "leuchtet",
+          "sie_Sie": "leuchten"
+        },
+        "past_simple": {
+          "ich": "leuchtete",
+          "du": "leuchtetest",
+          "er_sie_es": "leuchtete",
+          "wir": "leuchteten",
+          "ihr": "leuchtetet",
+          "sie_Sie": "leuchteten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geleuchtet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يضيء في الظلام"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die fernen Sterne leuchten hell in der finsteren Nacht.",
+          "en": "The distant stars shine brightly in the dark night.",
+          "ar": "تُضِيءُ النُّجُومُ البَعِيدَةُ بِلَمَعَانٍ فِي اللَّيْلَةِ الظَّلْمَاء."
+        }
+      ]
+    },
+    {
+      "id": "verb_astro_003",
+      "infinitive": "kreisen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "sich auf einer kreisenden Bahn um ein Zentrum bewegen",
+      "meaning_en": "to orbit, revolve",
+      "meaning_ar": "يَدُورُ فِي فَلَكٍ حَوْلَ مَرْكَز",
+      "tenses": {
+        "present": {
+          "ich": "kreise",
+          "du": "kreist",
+          "er_sie_es": "kreist",
+          "wir": "kreisen",
+          "ihr": "kreist",
+          "sie_Sie": "kreisen"
+        },
+        "past_simple": {
+          "ich": "kreiste",
+          "du": "kreistest",
+          "er_sie_es": "kreiste",
+          "wir": "kreisten",
+          "ihr": "kreistet",
+          "sie_Sie": "kreisten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gekreist"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "um",
+          "case": "Akkusativ",
+          "meaning_ar": "يدور حول"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Erde kreist in dreihundertfünfundsechzig Tagen um die Sonne.",
+          "en": "The earth orbits the sun in three hundred and sixty-five days.",
+          "ar": "تَدُورُ الأَرْضُ حَوْلَ الشَّمْسِ فِي ثَلَاثِمِائَةٍ وَخَمْسَةٍ وَسِتِّينَ يَوْمًا."
+        }
+      ]
+    },
+    {
+      "id": "verb_astro_004",
+      "infinitive": "aufgehen",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "am östlichen Horizont über der Erde sichtbar werden",
+      "meaning_en": "to rise, ascend",
+      "meaning_ar": "تَشْرُقُ الشَّمْسُ، يَطْلُعُ القَمَر",
+      "tenses": {
+        "present": {
+          "ich": "gehe auf",
+          "du": "gehst auf",
+          "er_sie_es": "geht auf",
+          "wir": "gehen auf",
+          "ihr": "geht auf",
+          "sie_Sie": "gehen auf"
+        },
+        "past_simple": {
+          "ich": "ging auf",
+          "du": "gingst auf",
+          "er_sie_es": "ging auf",
+          "wir": "gingen auf",
+          "ihr": "gingt auf",
+          "sie_Sie": "gingen auf"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "aufgegangen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "im",
+          "case": "Dativ",
+          "meaning_ar": "تشرق في الشرق"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Sonne geht verlässlich jeden Morgen im Osten auf.",
+          "en": "The sun rises reliably every morning in the east.",
+          "ar": "تَشْرُقُ الشَّمْسُ بِمَوْثُوقِيَّةٍ كُلَّ صَبَاحٍ مِنَ المَشْرِق."
+        }
+      ]
+    },
+    {
+      "id": "verb_astro_005",
+      "infinitive": "untergehen",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "am westlichen Horizont unter die Sichtlinie sinken",
+      "meaning_en": "to set, go down",
+      "meaning_ar": "تَغْرُبُ الشَّمْسُ، يَغِيبُ القَمَر",
+      "tenses": {
+        "present": {
+          "ich": "gehe unter",
+          "du": "gehst unter",
+          "er_sie_es": "geht unter",
+          "wir": "gehen unter",
+          "ihr": "geht unter",
+          "sie_Sie": "gehen unter"
+        },
+        "past_simple": {
+          "ich": "ging unter",
+          "du": "gingst unter",
+          "er_sie_es": "ging unter",
+          "wir": "gingen unter",
+          "ihr": "gingt unter",
+          "sie_Sie": "gingen unter"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "untergegangen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "im",
+          "case": "Dativ",
+          "meaning_ar": "تغرب في الغرب"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Sonne geht im goldenen Westen hinter den Bergen unter.",
+          "en": "The sun sets in the golden west behind the mountains.",
+          "ar": "تَغْرُبُ الشَّمْسُ فِي المَغْرِبِ الذَّهَبِيِّ خَلْفَ الجِبَال."
+        }
+      ]
+    },
+    {
+      "id": "verb_astro_006",
+      "infinitive": "funkeln",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "in kleinen, zitternden Lichtpunkten glänzen",
+      "meaning_en": "to twinkle, sparkle",
+      "meaning_ar": "تَتَلَأْلَأُ، تَبْرُقُ النُّجُوم",
+      "tenses": {
+        "present": {
+          "ich": "funkele",
+          "du": "funkelst",
+          "er_sie_es": "funkelt",
+          "wir": "funkeln",
+          "ihr": "funkelt",
+          "sie_Sie": "funkeln"
+        },
+        "past_simple": {
+          "ich": "funkelte",
+          "du": "funkeltest",
+          "er_sie_es": "funkelte",
+          "wir": "funkelten",
+          "ihr": "funkeltet",
+          "sie_Sie": "funkelten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gefunkelt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "am",
+          "case": "Dativ",
+          "meaning_ar": "يتلألأ في السماء"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Sterne funkeln wie Edelsteine am dunklen Firmament.",
+          "en": "The stars twinkle like gems on the dark firmament.",
+          "ar": "تَتَلَأْلَأُ النُّجُومُ كَالجَوَاهِرِ فِي أَدِيمِ السَّمَاءِ المُظْلِم."
+        }
+      ]
+    },
+    {
+      "id": "verb_astro_007",
+      "infinitive": "scheinen",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "Licht ausstrahlen und Helligkeit verbreiten",
+      "meaning_en": "to shine",
+      "meaning_ar": "يَسْطَعُ، يُشْرِقُ",
+      "tenses": {
+        "present": {
+          "ich": "scheine",
+          "du": "scheinst",
+          "er_sie_es": "scheint",
+          "wir": "scheinen",
+          "ihr": "scheint",
+          "sie_Sie": "scheinen"
+        },
+        "past_simple": {
+          "ich": "schien",
+          "du": "schienst",
+          "er_sie_es": "schien",
+          "wir": "schienen",
+          "ihr": "schient",
+          "sie_Sie": "schienen"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geschienen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Akkusativ",
+          "meaning_ar": "يسطع على"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Sonne scheint wohltuend warm auf die grünen Wiesen.",
+          "en": "The sun shines pleasantly warm on the green meadows.",
+          "ar": "تَسْطَعُ الشَّمْسُ بِدِفْءٍ مُرِيحٍ عَلَى المُرُوجِ الخَضْرَاء."
+        }
+      ]
+    },
+    {
+      "id": "verb_astro_008",
+      "infinitive": "entdecken",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "einen bisher unbekannten Stern oder Planeten im All auffinden",
+      "meaning_en": "to discover celestial bodies",
+      "meaning_ar": "يَكْتَشِفُ جِرْمًا أَوْ كَوْكَبًا",
+      "tenses": {
+        "present": {
+          "ich": "entdecke",
+          "du": "entdeckst",
+          "er_sie_es": "entdeckt",
+          "wir": "entdecken",
+          "ihr": "entdeckt",
+          "sie_Sie": "entdecken"
+        },
+        "past_simple": {
+          "ich": "entdeckte",
+          "du": "entdecktest",
+          "er_sie_es": "entdeckte",
+          "wir": "entdeckten",
+          "ihr": "entdecktet",
+          "sie_Sie": "entdeckten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "entdeckt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يكتشف في الفضاء"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wissenschaftler entdeckten einen neuen Kometen am Rande unseres Systems.",
+          "en": "Scientists discovered a new comet at the edge of our system.",
+          "ar": "اكْتَشَفَ العُلَمَاءُ مُذَنَّبًا جَدِيدًا عَلَى حَافَةِ مَجْمُوعَتِنَا الشَّمْسِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_astro_009",
+      "infinitive": "erforschen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "die Gesetze und Geheimnisse des Universums gründlich untersuchen",
+      "meaning_en": "to explore, research the cosmos",
+      "meaning_ar": "يَسْتَكْشِفُ، يَبْحَثُ فِي أَسْرَارِ الكَوْن",
+      "tenses": {
+        "present": {
+          "ich": "erforsche",
+          "du": "erforschst",
+          "er_sie_es": "erforscht",
+          "wir": "erforschen",
+          "ihr": "erforscht",
+          "sie_Sie": "erforschen"
+        },
+        "past_simple": {
+          "ich": "erforschte",
+          "du": "erforschtest",
+          "er_sie_es": "erforschte",
+          "wir": "erforschten",
+          "ihr": "erforschtet",
+          "sie_Sie": "erforschten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "erforscht"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يستكشف بأجهزة حديثة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Mit modernen Weltraumteleskopen erforschen Forscher ferne Galaxien.",
+          "en": "With modern space telescopes, researchers explore distant galaxies.",
+          "ar": "يَسْتَكْشِفُ البَاحِثُونَ المَجَرَّاتِ البَعِيدَةَ بِمَنَاظِيرَ فَضَائِيَّةٍ حَدِيثَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_astro_010",
+      "infinitive": "erblicken",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "einen Stern oder eine Sternschnuppe plötzlich wahrnehmen",
+      "meaning_en": "to catch sight of, behold",
+      "meaning_ar": "يَلْمَحُ، يُبْصِرُ فِي السَّمَاء",
+      "tenses": {
+        "present": {
+          "ich": "erblicke",
+          "du": "erblickst",
+          "er_sie_es": "erblickt",
+          "wir": "erblicken",
+          "ihr": "erblickt",
+          "sie_Sie": "erblicken"
+        },
+        "past_simple": {
+          "ich": "erblickte",
+          "du": "erblicktest",
+          "er_sie_es": "erblickte",
+          "wir": "erblickten",
+          "ihr": "erblicktet",
+          "sie_Sie": "erblickten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "erblickt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "am",
+          "case": "Dativ",
+          "meaning_ar": "يلمح في الأفق"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Gestern Abend erblickten wir den ersten zarten Neumond am Westhimmel.",
+          "en": "Yesterday evening, we caught sight of the first delicate new moon in the western sky.",
+          "ar": "أَبْصَرْنَا مَسَاءَ أَمْسِ أَوَّلَ هِلَالٍ نَحِيلٍ فِي السَّمَاءِ الغَرْبِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_astro_011",
+      "infinitive": "spiegeln",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "das Sonnenlicht als Mond oder Planet zurückwerfen",
+      "meaning_en": "to reflect light",
+      "meaning_ar": "يَعْكِسُ الضَّوْء",
+      "tenses": {
+        "present": {
+          "ich": "spiegele",
+          "du": "spiegelst",
+          "er_sie_es": "spiegelt",
+          "wir": "spiegeln",
+          "ihr": "spiegelt",
+          "sie_Sie": "spiegeln"
+        },
+        "past_simple": {
+          "ich": "spiegelte",
+          "du": "spiegeltest",
+          "er_sie_es": "spiegelte",
+          "wir": "spiegelten",
+          "ihr": "spiegeltet",
+          "sie_Sie": "spiegelten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gespiegelt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "ينعكس في الماء"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Mond spiegelt das Licht der Sonne und leuchtet im stillen See.",
+          "en": "The moon reflects sunlight and shines in the quiet lake.",
+          "ar": "يَعْكِسُ القَمَرُ ضَوْءَ الشَّمْسِ فَيَتَلَأْلَأُ فِي البُحَيْرَةِ السَّاكِنَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_astro_012",
+      "infinitive": "ausrichten",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "ein Teleskop präzise auf ein Gestirn zielen lassen",
+      "meaning_en": "to point, align telescope",
+      "meaning_ar": "يُوَجِّهُ، يَضْبِطُ المِنْظَارَ نَحْوَ الجِرْم",
+      "tenses": {
+        "present": {
+          "ich": "richte aus",
+          "du": "richtest aus",
+          "er_sie_es": "richtet aus",
+          "wir": "richten aus",
+          "ihr": "richtet aus",
+          "sie_Sie": "richten aus"
+        },
+        "past_simple": {
+          "ich": "richtete aus",
+          "du": "richtetest aus",
+          "er_sie_es": "richtete aus",
+          "wir": "richteten aus",
+          "ihr": "richtetet aus",
+          "sie_Sie": "richteten aus"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "ausgerichtet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Akkusativ",
+          "meaning_ar": "يوجه المنظار إلى"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Astronom richtet das Fernrohr exakt auf den Planeten Jupiter aus.",
+          "en": "The astronomer aligns the telescope precisely with the planet Jupiter.",
+          "ar": "يُوَجِّهُ الفَلَكِيُّ المِنْظَارَ بِدِقَّةٍ نَحْوَ كَوْكَبِ المُشْتَرِي."
+        }
+      ]
+    },
+    {
+      "id": "verb_astro_013",
+      "infinitive": "rotieren",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "sich als Planet um die eigene Achse drehen",
+      "meaning_en": "to rotate on axis",
+      "meaning_ar": "يَدُورُ حَوْلَ مِحْوَرِه",
+      "tenses": {
+        "present": {
+          "ich": "rotiere",
+          "du": "rotierst",
+          "er_sie_es": "rotiert",
+          "wir": "rotieren",
+          "ihr": "rotiert",
+          "sie_Sie": "rotieren"
+        },
+        "past_simple": {
+          "ich": "rotierte",
+          "du": "rotiertest",
+          "er_sie_es": "rotierte",
+          "wir": "rotierten",
+          "ihr": "rotiertet",
+          "sie_Sie": "rotierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "rotiert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "um",
+          "case": "Akkusativ",
+          "meaning_ar": "يدور حول المحور"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Erde rotiert in vierundzwanzig Stunden einmal um ihre Achse.",
+          "en": "The earth rotates once on its axis in twenty-four hours.",
+          "ar": "تَدُورُ الأَرْضُ حَوْلَ مِحْوَرِهَا مَرَّةً كُلَّ أَرْبَعٍ وَعِشْرِينَ سَاعَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_astro_014",
+      "infinitive": "erhellen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "die Dunkelheit mit strahlendem Licht vertreiben",
+      "meaning_en": "to illuminate, brighten",
+      "meaning_ar": "يُنِيرُ، يُضِيءُ الظُّلْمَة",
+      "tenses": {
+        "present": {
+          "ich": "erhelle",
+          "du": "erhellst",
+          "er_sie_es": "erhellt",
+          "wir": "erhellen",
+          "ihr": "erhellt",
+          "sie_Sie": "erhellen"
+        },
+        "past_simple": {
+          "ich": "erhellte",
+          "du": "erhelltest",
+          "er_sie_es": "erhellte",
+          "wir": "erhellten",
+          "ihr": "erhelltet",
+          "sie_Sie": "erhellten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "erhellt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "durch",
+          "case": "Akkusativ",
+          "meaning_ar": "ينير بواسطة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der silberne Vollmond erhellt den nächtlichen Waldweg.",
+          "en": "The silver full moon illuminates the nighttime forest path.",
+          "ar": "يُنِيرُ البَدْرُ الفِضِّيُّ طَرِيقَ الغَابَةِ اللَّيْلِيّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_astro_015",
+      "infinitive": "verfinstern",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "durch Schattenbildung dunkel werden oder ein anderes Gestirn verdecken",
+      "meaning_en": "to eclipse, darken",
+      "meaning_ar": "يَنْخَسِفُ، يَنْكَسِفُ، يُظْلِمُ",
+      "tenses": {
+        "present": {
+          "ich": "verfinstere",
+          "du": "verfinsterst",
+          "er_sie_es": "verfinstert",
+          "wir": "verfinstern",
+          "ihr": "verfinstert",
+          "sie_Sie": "verfinstern"
+        },
+        "past_simple": {
+          "ich": "verfinsterte",
+          "du": "verfinstertest",
+          "er_sie_es": "verfinsterte",
+          "wir": "verfinsterten",
+          "ihr": "verfinstertet",
+          "sie_Sie": "verfinsterten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "verfinstert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "bei",
+          "case": "Dativ",
+          "meaning_ar": "ينكسف أثناء الظاهرة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Während der Sonnenfinsternis verfinstert sich der Taghimmel für wenige Minuten.",
+          "en": "During the solar eclipse, the daytime sky darkens for a few minutes.",
+          "ar": "تُظْلِمُ سَمَاءُ النَّهَارِ لِدَقَائِقَ مَعْدُودَةٍ أَثْنَاءَ كُسُوفِ الشَّمْس."
+        }
+      ]
+    },
+    {
+      "id": "verb_astro_016",
+      "infinitive": "wandern",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "sich als Himmelskörper scheinbar über das Firmament bewegen",
+      "meaning_en": "to transit, traverse sky",
+      "meaning_ar": "يَسِيرُ، يَسْبَحُ الجِرْمُ فِي السَّمَاء",
+      "tenses": {
+        "present": {
+          "ich": "wandere",
+          "du": "wanderst",
+          "er_sie_es": "wandert",
+          "wir": "wandern",
+          "ihr": "wandert",
+          "sie_Sie": "wandern"
+        },
+        "past_simple": {
+          "ich": "wanderte",
+          "du": "wandertest",
+          "er_sie_es": "wanderte",
+          "wir": "wanderten",
+          "ihr": "wandertet",
+          "sie_Sie": "wanderten"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "gewandert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "über",
+          "case": "Akkusativ",
+          "meaning_ar": "يسير عبر القبة السماوية"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Mond wandert majestätisch über das nächtliche Himmelszelt.",
+          "en": "The moon wanders majestically across the nocturnal canopy of heaven.",
+          "ar": "يَسْبَحُ القَمَرُ بِجَلَالٍ عَبْرَ قُبَّةِ السَّمَاءِ اللَّيْلِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_astro_017",
+      "infinitive": "messen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "astronomische Entfernungen oder Winkel exakt erfassen",
+      "meaning_en": "to measure cosmic distances",
+      "meaning_ar": "يَقِيسُ المَسَافَاتِ الفَلَكِيَّة",
+      "tenses": {
+        "present": {
+          "ich": "messe",
+          "du": "misst",
+          "er_sie_es": "misst",
+          "wir": "messen",
+          "ihr": "messt",
+          "sie_Sie": "messen"
+        },
+        "past_simple": {
+          "ich": "maß",
+          "du": "maßest",
+          "er_sie_es": "maß",
+          "wir": "maßen",
+          "ihr": "maßt",
+          "sie_Sie": "maßen"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gemessen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يقيس بالسنوات الضوئية"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Astronomen messen die Entfernungen zu fernen Sternen in Lichtjahren.",
+          "en": "Astronomers measure the distances to distant stars in light years.",
+          "ar": "يَقِيسُ الفَلَكِيُّونَ المَسَافَاتِ إِلَى النُّجُومِ البَعِيدَةِ بِالسَّنَوَاتِ الضَّوْئِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_astro_018",
+      "infinitive": "berechnen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "die genauen Bahnen und Finsternisse mathematisch bestimmen",
+      "meaning_en": "to calculate orbits and eclipses",
+      "meaning_ar": "يَحْسُبُ المَدَارَاتِ وَمَوَاقِيتَ الظَّوَاهِر",
+      "tenses": {
+        "present": {
+          "ich": "berechne",
+          "du": "berechnest",
+          "er_sie_es": "berechnet",
+          "wir": "berechnen",
+          "ihr": "berechnet",
+          "sie_Sie": "berechnen"
+        },
+        "past_simple": {
+          "ich": "berechnete",
+          "du": "berechnetest",
+          "er_sie_es": "berechnete",
+          "wir": "berechneten",
+          "ihr": "berechnetet",
+          "sie_Sie": "berechneten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "berechnet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يحسب بدقة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Mathematiker berechnen den Zeitpunkt des Neumonds auf die Sekunde genau.",
+          "en": "Mathematicians calculate the timing of the new moon to the exact second.",
+          "ar": "يَحْسُبُ عُلَمَاءُ الرِّيَاضِيَّاتِ مَوْعِدَ وِلَادَةِ الهِلَالِ بِدِقَّةِ الثَّانِيَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_astro_019",
+      "infinitive": "staunen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "voller Verwunderung und Bewunderung auf den Sternenhimmel blicken",
+      "meaning_en": "to marvel, wonder at the cosmos",
+      "meaning_ar": "يَتَأَمَّلُ مُنْدَهِشًا، يَعْجَبُ مِنْ بَدِيعِ الخَلْق",
+      "tenses": {
+        "present": {
+          "ich": "staune",
+          "du": "staunst",
+          "er_sie_es": "staunt",
+          "wir": "staunen",
+          "ihr": "staunt",
+          "sie_Sie": "staunen"
+        },
+        "past_simple": {
+          "ich": "staunte",
+          "du": "stauntest",
+          "er_sie_es": "staunte",
+          "wir": "staunten",
+          "ihr": "stauntet",
+          "sie_Sie": "staunten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gestaunt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "über",
+          "case": "Akkusativ",
+          "meaning_ar": "يعجب من عظمة الكون"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wir staunen über die vollkommene Harmonie und Weite des Universums.",
+          "en": "We marvel at the perfect harmony and vastness of the universe.",
+          "ar": "نَتَأَمَّلُ مُنْدَهِشِينَ فِي التَّنَاغُمِ البَدِيعِ وَاتِّسَاعِ الكَوْن."
+        }
+      ]
+    },
+    {
+      "id": "verb_astro_020",
+      "infinitive": "erkennen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "bestimmte Sternbilder am Nachthimmel identifizieren",
+      "meaning_en": "to identify, recognize stars",
+      "meaning_ar": "يَتَعَرَّفُ عَلَى النُّجُومِ وَمَوَاقِعِهَا",
+      "tenses": {
+        "present": {
+          "ich": "erkenne",
+          "du": "erkennst",
+          "er_sie_es": "erkennt",
+          "wir": "erkennen",
+          "ihr": "erkennt",
+          "sie_Sie": "erkennen"
+        },
+        "past_simple": {
+          "ich": "erkannte",
+          "du": "erkanntest",
+          "er_sie_es": "erkannte",
+          "wir": "erkannten",
+          "ihr": "erkanntet",
+          "sie_Sie": "erkannten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "erkannt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Dativ",
+          "meaning_ar": "يتعرف على الشكل"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Hobbysterngucker erkennt den Polarstern leicht am Himmel.",
+          "en": "The amateur stargazer easily recognizes the North Star in the sky.",
+          "ar": "يَتَعَرَّفُ هَاوِي الفَلَكِ بِسُهُولَةٍ عَلَى النَّجْمِ القُطْبِيِّ فِي السَّمَاء."
+        }
+      ]
+    }
+  ]
+}

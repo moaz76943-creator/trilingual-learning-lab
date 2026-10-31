@@ -1,0 +1,409 @@
+{
+  "category_id": "health_care_medical_a2",
+  "category_name_de": "Gesundheit, Arztbesuch & Vorsorge",
+  "category_name_en": "Healthcare, Medical Visits & Prevention",
+  "category_name_ar": "الصِّحَّةُ وَالرِّعَايَةُ الطِّبِّيَّةُ وَالوِقَايَة",
+  "level": "A2+",
+  "items": [
+    {
+      "id": "health_med_001",
+      "term_de": "die Praxis",
+      "plural_de": "die Praxen",
+      "term_en": "doctor's office, medical practice",
+      "term_ar": "عِيَادَةُ الطَّبِيب",
+      "pronunciation_de": "[ˈpʁaksɪs]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die moderne Praxis des Hausarztes öffnet pünktlich um acht Uhr.",
+          "en": "The general practitioner's modern office opens punctually at eight o'clock.",
+          "ar": "تَفْتَحُ عِيَادَةُ طَبِيبِ الأُسْرَةِ الحَدِيثَةُ أَبْوَابَهَا بِدِقَّةٍ فِي السَّاعَةِ الثَّامِنَة."
+        }
+      ]
+    },
+    {
+      "id": "health_med_002",
+      "term_de": "das Wartezimmer",
+      "plural_de": "die Wartezimmer",
+      "term_en": "waiting room",
+      "term_ar": "غُرْفَةُ الِانْتِظَار",
+      "pronunciation_de": "[ˈvaʁtəˌt͡sɪmɐ]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Im hellen Wartezimmer liegen informative Gesundheitsmagazine aus.",
+          "en": "Informative health magazines are laid out in the bright waiting room.",
+          "ar": "تَتَوَفَّرُ مَجَلَّاتٌ صِحِّيَّةٌ مُفِيدَةٌ فِي غُرْفَةِ الِانْتِظَارِ المُضِيئَة."
+        }
+      ]
+    },
+    {
+      "id": "health_med_003",
+      "term_de": "die Untersuchung",
+      "plural_de": "die Untersuchungen",
+      "term_en": "medical examination, check-up",
+      "term_ar": "الفَحْصُ الطِّبِّيّ، الكَشْف",
+      "pronunciation_de": "[ˈʊntɐˌzuːxʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die gründliche Untersuchung ergab einen erfreulich guten Befund.",
+          "en": "The thorough examination showed pleasantly good results.",
+          "ar": "أَظْهَرَ الفَحْصُ الطِّبِّيُّ الشَّامِلُ نَتَائِجَ سَلِيمَةً وَمُطَمْئِنَة."
+        }
+      ]
+    },
+    {
+      "id": "health_med_004",
+      "term_de": "das Rezept",
+      "plural_de": "die Rezepte",
+      "term_en": "prescription",
+      "term_ar": "الوَصْفَةُ الطِّبِّيَّة، الرُّوشِتَّة",
+      "pronunciation_de": "[ʁeˈt͡sɛpt]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Die Ärztin stellte ein Rezept für ein wirksames Medikament aus.",
+          "en": "The doctor issued a prescription for an effective medication.",
+          "ar": "كَتَبَتِ الطَّبِيبَةُ وَصْفَةً طِبِّيَّةً لِدَوَاءٍ فَعَّال."
+        }
+      ]
+    },
+    {
+      "id": "health_med_005",
+      "term_de": "das Medikament",
+      "plural_de": "die Medikamente",
+      "term_en": "medication, medicine",
+      "term_ar": "الدَّوَاء، العَقَّارُ الطِّبِّيّ",
+      "pronunciation_de": "[medikaˈmɛnt]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Nehmen Sie dieses pflanzliche Medikament dreimal täglich nach den Mahlzeiten.",
+          "en": "Take this herbal medication three times daily after meals.",
+          "ar": "تَنَاوَلْ هَذَا الدَّوَاءَ العُشْبِيَّ ثَلَاثَ مَرَّاتٍ يَوْمِيًّا بَعْدَ الوَجَبَات."
+        }
+      ]
+    },
+    {
+      "id": "health_med_006",
+      "term_de": "die Apotheke",
+      "plural_de": "die Apotheken",
+      "term_en": "pharmacy, drugstore",
+      "term_ar": "الصَّيْدَلِيَّة",
+      "pronunciation_de": "[apoˈteːkə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Apotheke an der Ecke bietet auch einen zuverlässigen Notdienst an.",
+          "en": "The pharmacy on the corner also offers reliable emergency service.",
+          "ar": "تُقَدِّمُ الصَّيْدَلِيَّةُ الَّتِي عِنْدَ الزَّاوِيَةِ خِدْمَةَ طَوَارِئَ مَوْثُوقَة."
+        }
+      ]
+    },
+    {
+      "id": "health_med_007",
+      "term_de": "die Tablette",
+      "plural_de": "die Tabletten",
+      "term_en": "pill, tablet",
+      "term_ar": "القُرْصُ الدَّوَائِيّ، الحَبَّة",
+      "pronunciation_de": "[taˈblɛtə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Schlucken Sie die Tablette mit einem vollen Glas reinem Wasser.",
+          "en": "Swallow the tablet with a full glass of pure water.",
+          "ar": "ابْلَعِ القُرْصَ الدَّوَائِيَّ مَعَ كُوبٍ مُمْتَلِئٍ بِمَاءٍ نَقِيّ."
+        }
+      ]
+    },
+    {
+      "id": "health_med_008",
+      "term_de": "der Verband",
+      "plural_de": "die Verbände",
+      "term_en": "bandage, dressing",
+      "term_ar": "الضِّمَادَةُ الطِّبِّيَّة",
+      "pronunciation_de": "[fɛɐ̯ˈbant]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der Pfleger erneuerte den sauberen Verband am Unterarm.",
+          "en": "The nurse renewed the clean bandage on the forearm.",
+          "ar": "جَدَّدَ المُمَرِّضُ الضِّمَادَةَ النَّظِيفَةَ عَلَى السَّاعِد."
+        }
+      ]
+    },
+    {
+      "id": "health_med_009",
+      "term_de": "das Pflaster",
+      "plural_de": "die Pflaster",
+      "term_en": "adhesive bandage, plaster",
+      "term_ar": "لَاصِقُ الجُرُوح",
+      "pronunciation_de": "[ˈpflastɐ]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Ein kleines Pflaster schützt den Finger vor Staub und Schmutz.",
+          "en": "A small adhesive bandage protects the finger from dust and dirt.",
+          "ar": "لَاصِقُ جُرُوحٍ صَغِيرٌ يَحْمِي الإِصْبَعَ مِنَ الغُبَارِ وَالأَوْسَاخ."
+        }
+      ]
+    },
+    {
+      "id": "health_med_010",
+      "term_de": "die Salbe",
+      "plural_de": "die Salben",
+      "term_en": "ointment, cream",
+      "term_ar": "المَرْهَم، الدِّهَانُ العِلَاجِيّ",
+      "pronunciation_de": "[ˈzalbə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die kühlende Salbe beruhigt die gereizte Haut spürbar.",
+          "en": "The cooling ointment noticeably soothes the irritated skin.",
+          "ar": "يُهَدِّئُ المَرْهَمُ المُرَطِّبُ البَشَرَةَ المُتَهَيِّجَةَ بِشَكْلٍ مَلْحُوظ."
+        }
+      ]
+    },
+    {
+      "id": "health_med_011",
+      "term_de": "die Spritze",
+      "plural_de": "die Spritzen",
+      "term_en": "injection, syringe",
+      "term_ar": "الحُقْنَةُ الطِّبِّيَّة",
+      "pronunciation_de": "[ˈʃpʁɪt͡sə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die kleine Spritze war kaum schmerzhaft und schnell vorüber.",
+          "en": "The small injection was barely painful and over quickly.",
+          "ar": "كَانَتِ الحُقْنَةُ الصَّغِيرَةُ غَيْرَ مُؤْلِمَةٍ تَقْرِيبًا وَمَرَّتْ بِسُرْعَة."
+        }
+      ]
+    },
+    {
+      "id": "health_med_012",
+      "term_de": "das Fieberthermometer",
+      "plural_de": "die Fieberthermometer",
+      "term_en": "clinical thermometer",
+      "term_ar": "مِقْيَاسُ حَرَارَةِ الجِسْم",
+      "pronunciation_de": "[ˈfiːbɐtɛʁmoˌmeːtɐ]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das digitale Fieberthermometer zeigt die Körpertemperatur sekundenschnell an.",
+          "en": "The digital thermometer displays body temperature in seconds.",
+          "ar": "يُظْهِرُ مِقْيَاسُ الحَرَارَةِ الرَّقْمِيُّ دَرَجَةَ حَرَارَةِ الجِسْمِ فِي ثَوَانٍ مَعْدُودَة."
+        }
+      ]
+    },
+    {
+      "id": "health_med_013",
+      "term_de": "der Blutdruck",
+      "plural_de": "-",
+      "term_en": "blood pressure",
+      "term_ar": "ضَغْطُ الدَّم",
+      "pronunciation_de": "[ˈbluːtˌdʁʊk]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Regelmäßige Bewegung hält den Blutdruck im gesunden Bereich.",
+          "en": "Regular exercise keeps blood pressure in the healthy range.",
+          "ar": "النَّشَاطُ الحَرَكِيُّ المُنْتَظَمُ يُحَافِظُ عَلَى ضَغْطِ الدَّمِ فِي النِّطَاقِ الصِّحِّيّ."
+        }
+      ]
+    },
+    {
+      "id": "health_med_014",
+      "term_de": "die Besserung",
+      "plural_de": "-",
+      "term_en": "recovery, improvement",
+      "term_ar": "التَّحَسُّن، التَّعَافِي",
+      "pronunciation_de": "[ˈbɛsəʁʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Wir wünschen dem geschätzten Kollegen eine rasche und vollständige Besserung.",
+          "en": "We wish our esteemed colleague a swift and complete recovery.",
+          "ar": "نَتَمَنَّى لِلزَّمِيلِ الكَرِيمِ شِفَاءً عَاجِلًا وَتَحَسُّنًا تَامًّا."
+        }
+      ]
+    },
+    {
+      "id": "health_med_015",
+      "term_de": "die Schonung",
+      "plural_de": "-",
+      "term_en": "rest, taking care of oneself",
+      "term_ar": "الرَّاحَة، التَّهْدِئَة، حِفْظُ الصِّحَّة",
+      "pronunciation_de": "[ˈʃoːnʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Der Arzt verordnete nach dem Eingriff eine Woche absolute Schonung.",
+          "en": "The doctor prescribed a week of absolute rest after the procedure.",
+          "ar": "أَوْصَى الطَّبِيبُ بِأُسْبُوعٍ مِنَ الرَّاحَةِ التَّامَّةِ بَعْدَ الإِجْرَاءِ العِلَاجِيّ."
+        }
+      ]
+    },
+    {
+      "id": "health_med_016",
+      "term_de": "der Schmerz",
+      "plural_de": "die Schmerzen",
+      "term_en": "pain, ache",
+      "term_ar": "الأَلَم، الوَجَع",
+      "pronunciation_de": "[ʃmɛʁt͡s]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der Schmerz ließ nach der Einnahme des Mittels deutlich nach.",
+          "en": "The pain subsided noticeably after taking the remedy.",
+          "ar": "خَفَّ الأَلَمُ بِشَكْلٍ مَلْحُوظٍ بَعْدَ تَنَاوُلِ العِلَاج."
+        }
+      ]
+    },
+    {
+      "id": "health_med_017",
+      "term_de": "der Hustensaft",
+      "plural_de": "die Hustensäfte",
+      "term_en": "cough syrup",
+      "term_ar": "شَرَابُ السُّعَال",
+      "pronunciation_de": "[ˈhʊstn̩ˌzaft]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der wohltuende Hustensaft mit Thymian beruhigt den Hals.",
+          "en": "The soothing cough syrup with thyme eases the throat.",
+          "ar": "شَرَابُ السُّعَالِ المُرِيحُ بِالزَّعْتَرِ يُهَدِّئُ الحَلْق."
+        }
+      ]
+    },
+    {
+      "id": "health_med_018",
+      "term_de": "der Kräutertee",
+      "plural_de": "die Kräutertees",
+      "term_en": "herbal tea",
+      "term_ar": "شَايُ الأَعْشَابِ الطِّبِّيَّة",
+      "pronunciation_de": "[ˈkʁɔɪ̯tɐˌteː]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Heißer Kräutertee mit Honig wärmt und stärkt das Wohlbefinden.",
+          "en": "Hot herbal tea with honey warms and strengthens well-being.",
+          "ar": "شَايُ الأَعْشَابِ السَّاخِنُ مَعَ العَسَلِ يُدْفِئُ وَيُعَزِّزُ الصِّحَّة."
+        }
+      ]
+    },
+    {
+      "id": "health_med_019",
+      "term_de": "die Krankenversicherung",
+      "plural_de": "die Krankenversicherungen",
+      "term_en": "health insurance",
+      "term_ar": "التَّأْمِينُ الصِّحِّيّ",
+      "pronunciation_de": "[ˈkʁaŋkn̩fɛɐ̯ˌzɪçəʁʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für Vorsorgeuntersuchungen.",
+          "en": "The health insurance covers the costs for preventive examinations.",
+          "ar": "يُغَطِّي التَّأْمِينُ الصِّحِّيُّ تَكَالِيفَ الفُحُوصَاتِ الوِقَائِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "health_med_020",
+      "term_de": "der Facharzt",
+      "plural_de": "die Fachärzte",
+      "term_en": "medical specialist",
+      "term_ar": "الطَّبِيبُ الأَخِصَّائِيّ",
+      "pronunciation_de": "[ˈfaxˌʔaːɐ̯t͡st]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der Hausarzt überwies den Patienten an einen erfahrenen Facharzt.",
+          "en": "The family doctor referred the patient to an experienced specialist.",
+          "ar": "حَوَّلَ طَبِيبُ الأُسْرَةِ المَرِيضَ إِلَى طَبِيبٍ أَخِصَّائِيٍّ ذِي خِبْرَة."
+        }
+      ]
+    },
+    {
+      "id": "health_med_021",
+      "term_de": "die Notaufnahme",
+      "plural_de": "die Notaufnahmen",
+      "term_en": "emergency room, ER",
+      "term_ar": "قِسْمُ الطَّوَارِئِ وَالإِسْعَاف",
+      "pronunciation_de": "[ˈnoːtʔaʊ̯fˌnaːmə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Notaufnahme im Klinikum ist rund um die Uhr einsatzbereit.",
+          "en": "The emergency room at the clinic is operational around the clock.",
+          "ar": "قِسْمُ الطَّوَارِئِ فِي المَشْفَى جَاهِزٌ لِلْعَمَلِ عَلَى مَدَارِ السَّاعَة."
+        }
+      ]
+    },
+    {
+      "id": "health_med_022",
+      "term_de": "die Tropfen",
+      "plural_de": "die Tropfen",
+      "term_en": "medical drops",
+      "term_ar": "القَطْرَةُ الطِّبِّيَّة",
+      "pronunciation_de": "[ˈtʁɔpfn̩]",
+      "gender_de": "plural",
+      "examples": [
+        {
+          "de": "Geben Sie zweimal täglich drei Tropfen in jedes Auge.",
+          "en": "Apply three drops into each eye twice daily.",
+          "ar": "ضَعْ قَطْرَتَيْنِ فِي كُلِّ عَيْنٍ مَرَّتَيْنِ فِي اليَوْم."
+        }
+      ]
+    },
+    {
+      "id": "health_med_023",
+      "term_de": "die Wunde",
+      "plural_de": "die Wunden",
+      "term_en": "wound, cut",
+      "term_ar": "الجُرْح",
+      "pronunciation_de": "[ˈvʊndə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die saubere Wunde heilte ohne Komplikationen schnell ab.",
+          "en": "The clean wound healed quickly without complications.",
+          "ar": "التَأَمَ الجُرْحُ النَّظِيفُ سَرِيعًا دُونَ أَيِّ مُضَاعَفَات."
+        }
+      ]
+    },
+    {
+      "id": "health_med_024",
+      "term_de": "die Genesung",
+      "plural_de": "-",
+      "term_en": "convalescence, complete recovery",
+      "term_ar": "النَّقَاهَة، الشِّفَاءُ التَّامّ",
+      "pronunciation_de": "[ɡəˈneːzʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Frische Waldluft fördert die Genesung von Patienten nachhaltig.",
+          "en": "Fresh forest air sustainably promotes patients' convalescence.",
+          "ar": "هَوَاءُ الغَابَةِ النَّقِيُّ يُسْرِعُ نَقَاهَةَ المَرْضَى بِشَكْلٍ مَلْحُوظ."
+        }
+      ]
+    },
+    {
+      "id": "health_med_025",
+      "term_de": "die Hygiene",
+      "plural_de": "-",
+      "term_en": "hygiene, sanitary practices",
+      "term_ar": "النَّظَافَةُ الصِّحِّيَّة، الوِقَايَةُ الصِّحِّيَّة",
+      "pronunciation_de": "[hyˈɡi̯eːnə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Sorgfältige Hygiene beim Händewaschen schützt vor Ansteckung.",
+          "en": "Careful hygiene when washing hands protects against contagion.",
+          "ar": "النَّظَافَةُ الصِّحِّيَّةُ الدَّقِيقَةُ عِنْدَ غَسْلِ اليَدَيْنِ تَقِي مِنَ العَدْوَى."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,409 @@
+{
+  "category_id": "environment_nature_a2",
+  "category_name_de": "Umwelt, Naturressourcen & Nachhaltigkeit",
+  "category_name_en": "Environment, Natural Resources & Sustainability",
+  "category_name_ar": "البِيئَةُ وَالمَوَارِدُ الطَّبِيعِيَّةُ وَالِاسْتِدَامَة",
+  "level": "A2+",
+  "items": [
+    {
+      "id": "env_nature_001",
+      "term_de": "die Umwelt",
+      "plural_de": "-",
+      "term_en": "environment",
+      "term_ar": "البِيئَة",
+      "pronunciation_de": "[ˈʊmˌvɛlt]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Der Schutz der Umwelt ist eine gemeinsame Pflicht aller Menschen.",
+          "en": "Protecting the environment is a shared duty of all people.",
+          "ar": "حِمَايَةُ البِيئَةِ وَاجِبٌ مُشْتَرَكٌ عَلَى جَمِيعِ البَشَر."
+        }
+      ]
+    },
+    {
+      "id": "env_nature_002",
+      "term_de": "der Klimaschutz",
+      "plural_de": "-",
+      "term_en": "climate protection",
+      "term_ar": "حِمَايَةُ المُنَاخ",
+      "pronunciation_de": "[ˈkliːmaˌʃʊts]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Wirksamer Klimaschutz beginnt bereits bei kleinen Taten im Alltag.",
+          "en": "Effective climate protection starts already with small actions in everyday life.",
+          "ar": "تَبْدَأُ حِمَايَةُ المُنَاخِ الفَعَّالَةُ مِنْ خِلَالِ الأَفْعَالِ البَسِيطَةِ فِي الحَيَاةِ اليَوْمِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "env_nature_003",
+      "term_de": "die Ressource",
+      "plural_de": "die Ressourcen",
+      "term_en": "resource, natural asset",
+      "term_ar": "المَوْرِدُ الطَّبِيعِيّ",
+      "pronunciation_de": "[ʁeˈsʊʁsə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Wir müssen mit den kostbaren Ressourcen der Erde sparsam umgehen.",
+          "en": "We must treat the precious resources of the earth sparingly.",
+          "ar": "يَجِبُ أَنْ نَتَعَامَلَ مَعَ مَوَارِدِ الأَرْضِ الثَّمِينَةِ بِاقْتِصَادٍ وَحِكْمَة."
+        }
+      ]
+    },
+    {
+      "id": "env_nature_004",
+      "term_de": "die Solarenergie",
+      "plural_de": "-",
+      "term_en": "solar energy",
+      "term_ar": "الطَّاقَةُ الشَّمْسِيَّة",
+      "pronunciation_de": "[zoˈlaːɐ̯ʔenɛʁˌɡiː]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Moderne Dächer nutzen Solarenergie zur sauberen Stromerzeugung.",
+          "en": "Modern rooftops use solar energy for clean electricity generation.",
+          "ar": "تَسْتَخْدِمُ الأَسْطُحُ الحَدِيثَةُ الطَّاقَةَ الشَّمْسِيَّةَ لِتَوْلِيدِ كَهْرَبَاءَ نَظِيفَة."
+        }
+      ]
+    },
+    {
+      "id": "env_nature_005",
+      "term_de": "die Windkraft",
+      "plural_de": "-",
+      "term_en": "wind power",
+      "term_ar": "طَاقَةُ الرِّيَاح",
+      "pronunciation_de": "[ˈvɪntˌkʁaft]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Windkraft liefert erneuerbaren Strom ohne schädliche Emissionen.",
+          "en": "Wind power supplies renewable electricity without harmful emissions.",
+          "ar": "تُوَفِّرُ طَاقَةُ الرِّيَاحِ كَهْرَبَاءَ مُتَجَدِّدَةً دُونَ انْبِعَاثَاتٍ ضَارَّة."
+        }
+      ]
+    },
+    {
+      "id": "env_nature_006",
+      "term_de": "das Trinkwasser",
+      "plural_de": "-",
+      "term_en": "drinking water, potable water",
+      "term_ar": "مَاءُ الشُّرْبِ النَّقِيّ",
+      "pronunciation_de": "[ˈtʁɪŋkˌvasɐ]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Sauberes Trinkwasser ist das wertvollste Gut für jedes Lebewesen.",
+          "en": "Clean drinking water is the most valuable asset for every living creature.",
+          "ar": "مَاءُ الشُّرْبِ النَّقِيُّ هُوَ أَثْمَنُ نِعْمَةٍ لِكُلِّ كَائِنٍ حَيّ."
+        }
+      ]
+    },
+    {
+      "id": "env_nature_007",
+      "term_de": "der Sauerstoff",
+      "plural_de": "-",
+      "term_en": "oxygen",
+      "term_ar": "الأُكْسِجِين",
+      "pronunciation_de": "[ˈzaʊ̯ɐˌʃtɔf]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Die dichten Wälder produzieren lebenswichtigen Sauerstoff für die Atmosphäre.",
+          "en": "Dense forests produce vital oxygen for the atmosphere.",
+          "ar": "تُنْتِجُ الغَابَاتُ الكَثِيفَةُ الأُكْسِجِينَ الحَيَوِيَّ لِلْغِلَافِ الجَوِّيّ."
+        }
+      ]
+    },
+    {
+      "id": "env_nature_008",
+      "term_de": "die Wiederverwertung",
+      "plural_de": "die Wiederverwertungen",
+      "term_en": "recycling, repurposing",
+      "term_ar": "إِعَادَةُ التَّدْوِير، الِاسْتِفَادَةُ مِنَ المَوَادّ",
+      "pronunciation_de": "[ˈviːdɐfɛɐ̯ˌvɛʁtʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Wiederverwertung von Glas und Papier spart wertvolle Rohstoffe.",
+          "en": "Recycling glass and paper saves valuable raw materials.",
+          "ar": "إِعَادَةُ تَدْوِيرِ الزُّجَاجِ وَالوَرَقِ تُوَفِّرُ مَوَادَّ خَامًا ثَمِينَة."
+        }
+      ]
+    },
+    {
+      "id": "env_nature_009",
+      "term_de": "der Naturschutz",
+      "plural_de": "-",
+      "term_en": "nature conservation",
+      "term_ar": "حِمَايَةُ الطَّبِيعَة",
+      "pronunciation_de": "[naˈtuːɐ̯ˌʃʊts]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der Naturschutz bewahrt gefährdete Pflanzen und Tiere vor dem Aussterben.",
+          "en": "Nature conservation protects endangered plants and animals from extinction.",
+          "ar": "تَحْمِي رِعَايَةُ الطَّبِيعَةِ النَّبَاتَاتِ وَالحَيَوَانَاتِ النَّادِرَةَ مِنَ الِانْقِرَاض."
+        }
+      ]
+    },
+    {
+      "id": "env_nature_010",
+      "term_de": "das Schutzgebiet",
+      "plural_de": "die Schutzgebiete",
+      "term_en": "nature reserve, protected area",
+      "term_ar": "المَحْمِيَّةُ الطَّبِيعِيَّة",
+      "pronunciation_de": "[ˈʃʊtsɡəˌbiːt]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Im weitläufigen Schutzgebiet darf die Natur sich frei entfalten.",
+          "en": "In the extensive nature reserve, nature is allowed to develop freely.",
+          "ar": "تَنْمُو الطَّبِيعَةُ بِحُرِّيَّةٍ فِي المَحْمِيَّةِ الطَّبِيعِيَّةِ الفَسِيحَة."
+        }
+      ]
+    },
+    {
+      "id": "env_nature_011",
+      "term_de": "die Sparsamkeit",
+      "plural_de": "-",
+      "term_en": "thriftiness, resource economy",
+      "term_ar": "التَّرْشِيد، الِاقْتِصَادُ فِي المَوَارِد",
+      "pronunciation_de": "[ˈʃpaːɐ̯zaːmkaɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Sparsamkeit beim Wasserverbrauch schützt die natürlichen Quellen.",
+          "en": "Thriftiness in water consumption protects natural springs.",
+          "ar": "التَّرْشِيدُ فِي اسْتِهْلَاكِ المِيَاهِ يَحْمِي اليَنَابِيعَ الطَّبِيعِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "env_nature_012",
+      "term_de": "die Sauberkeit",
+      "plural_de": "-",
+      "term_en": "cleanliness, purity",
+      "term_ar": "النَّظَافَةُ البِيئِيَّة",
+      "pronunciation_de": "[ˈzaʊ̯bɐkaɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Sauberkeit von Flüssen und Seen sichert gesundes Leben.",
+          "en": "Cleanliness of rivers and lakes secures healthy life.",
+          "ar": "نَظَافَةُ الأَنْهَارِ وَالبُحَيْرَاتِ تَضْمَنُ حَيَاةً صِحِّيَّة."
+        }
+      ]
+    },
+    {
+      "id": "env_nature_013",
+      "term_de": "der Baumwuchs",
+      "plural_de": "-",
+      "term_en": "tree growth, woodland cover",
+      "term_ar": "نُمُوُّ الأَشْجَار، الغِطَاءُ الشَّجَرِيّ",
+      "pronunciation_de": "[ˈbaʊ̯mˌvʊks]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Kräftiger Baumwuchs festigt den Boden und verhindert Erosion.",
+          "en": "Vigorous tree growth stabilizes the soil and prevents erosion.",
+          "ar": "نُمُوُّ الأَشْجَارِ القَوِيُّ يُثَبِّتُ التُّرْبَةَ وَيَمْنَعُ انْجِرَافَهَا."
+        }
+      ]
+    },
+    {
+      "id": "env_nature_014",
+      "term_de": "die Aufforstung",
+      "plural_de": "die Aufforstungen",
+      "term_en": "afforestation, tree planting",
+      "term_ar": "التَّشْجِير، غَرْسُ الغَابَات",
+      "pronunciation_de": "[ˈaʊ̯fˌfɔʁstʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Durch gezielte Aufforstung entsteht neuer Lebensraum für Vögel.",
+          "en": "Through targeted afforestation, new habitat for birds is created.",
+          "ar": "مِنْ خِلَالِ التَّشْجِيرِ الهَادِفِ تَنْشَأُ بِيئَةُ عَيْشٍ جَدِيدَةٌ لِلطُّيُور."
+        }
+      ]
+    },
+    {
+      "id": "env_nature_015",
+      "term_de": "das Ökosystem",
+      "plural_de": "die Ökosysteme",
+      "term_en": "ecosystem",
+      "term_ar": "النِّظَامُ البِيئِيّ",
+      "pronunciation_de": "[ˈøːkozyˌsteːm]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Jedes Element im Ökosystem erfüllt eine unverzichtbare Aufgabe.",
+          "en": "Every element in the ecosystem fulfills an indispensable task.",
+          "ar": "يُؤَدِّي كُلُّ عُنْصُرٍ فِي النِّظَامِ البِيئِيِّ مَهَمَّةً لَا غِنَى عَنْهَا."
+        }
+      ]
+    },
+    {
+      "id": "env_nature_016",
+      "term_de": "die Artenvielfalt",
+      "plural_de": "-",
+      "term_en": "biodiversity, variety of species",
+      "term_ar": "التَّنَوُّعُ الحَيَوِيّ",
+      "pronunciation_de": "[ˈaːɐ̯tn̩ˌfiːlfalt]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Bewahrung der Artenvielfalt sichert das Gleichgewicht der Natur.",
+          "en": "Preserving biodiversity secures the balance of nature.",
+          "ar": "صَوْنُ التَّنَوُّعِ الحَيَوِيِّ يَضْمَنُ تَوَازُنَ الطَّبِيعَة."
+        }
+      ]
+    },
+    {
+      "id": "env_nature_017",
+      "term_de": "der Wassertropfen",
+      "plural_de": "die Wassertropfen",
+      "term_en": "water drop",
+      "term_ar": "قَطْرَةُ المَاء",
+      "pronunciation_de": "[ˈvasɐˌtʁɔpfn̩]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Jeder Wassertropfen ist wertvoll und sollte nicht verschwendet werden.",
+          "en": "Every drop of water is valuable and should not be wasted.",
+          "ar": "كُلُّ قَطْرَةِ مَاءٍ ثَمِينَةٌ وَلَا يَنْبَغِي إِهْدَارُهَا."
+        }
+      ]
+    },
+    {
+      "id": "env_nature_018",
+      "term_de": "der Erdboden",
+      "plural_de": "-",
+      "term_en": "soil, earth, ground",
+      "term_ar": "تُرْبَةُ الأَرْض",
+      "pronunciation_de": "[ˈeːɐ̯tˌboːdn̩]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Gesunder Erdboden ist die Grundlage für schmackhafte Nahrung.",
+          "en": "Healthy soil is the foundation for delicious food.",
+          "ar": "تُرْبَةُ الأَرْضِ الخَصْبَةُ السَّلِيمَةُ هِيَ أَسَاسُ الغِذَاءِ الطَّيِّب."
+        }
+      ]
+    },
+    {
+      "id": "env_nature_019",
+      "term_de": "das Sonnenlicht",
+      "plural_de": "-",
+      "term_en": "sunlight",
+      "term_ar": "ضَوْءُ الشَّمْس",
+      "pronunciation_de": "[ˈzɔnənˌlɪçt]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Pflanzen wandeln Sonnenlicht durch Fotosynthese in Nährstoffe um.",
+          "en": "Plants convert sunlight into nutrients through photosynthesis.",
+          "ar": "تُحَوِّلُ النَّبَاتَاتُ ضَوْءَ الشَّمْسِ عَبْرَ التَّمْثِيلِ الضَّوْئِيِّ إِلَى غِذَاء."
+        }
+      ]
+    },
+    {
+      "id": "env_nature_020",
+      "term_de": "die Nachhaltigkeit",
+      "plural_de": "-",
+      "term_en": "sustainability",
+      "term_ar": "الِاسْتِدَامَة",
+      "pronunciation_de": "[ˈnaːxˌhaltɪçkaɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Echte Nachhaltigkeit denkt stets an das Wohl künftiger Generationen.",
+          "en": "True sustainability always thinks of the well-being of future generations.",
+          "ar": "الِاسْتِدَامَةُ الحَقِيقِيَّةُ تُفَكِّرُ دَائِمًا فِي خَيْرِ الأَجْيَالِ القَادِمَة."
+        }
+      ]
+    },
+    {
+      "id": "env_nature_021",
+      "term_de": "die Mülltrennung",
+      "plural_de": "-",
+      "term_en": "waste sorting, waste separation",
+      "term_ar": "فَرْزُ النِّفَايَاتِ المَنْزِلِيَّة",
+      "pronunciation_de": "[ˈmʏlˌtʁɛnʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Konsequente Mülltrennung erleichtert das spätere Recycling erheblich.",
+          "en": "Consistent waste sorting significantly facilitates later recycling.",
+          "ar": "الفَرْزُ المُنْتَظَمُ لِلنِّفَايَاتِ يُسَهِّلُ إِعَادَةَ التَّدْوِيرِ اللَّاحِقَةَ كَثِيرًا."
+        }
+      ]
+    },
+    {
+      "id": "env_nature_022",
+      "term_de": "der Stoffbeutel",
+      "plural_de": "die Stoffbeutel",
+      "term_en": "cloth bag, reusable tote bag",
+      "term_ar": "الحَقِيبَةُ القُمَاشِيَّةُ القَابِلَةُ لِإِعَادَةِ الِاسْتِخْدَام",
+      "pronunciation_de": "[ˈʃtɔfˌbɔɪ̯tl̩]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Er nutzt beim Einkauf stets einen praktischen Stoffbeutel statt Plastik.",
+          "en": "He always uses a practical cloth bag for shopping instead of plastic.",
+          "ar": "يَسْتَخْدِمُ عِنْدَ التَّسَوُّقِ دَائِمًا حَقِيبَةً قُمَاشِيَّةً عَمَلِيَّةً بَدَلَ البِلَاسْتِيك."
+        }
+      ]
+    },
+    {
+      "id": "env_nature_023",
+      "term_de": "die Reinheit",
+      "plural_de": "-",
+      "term_en": "purity, cleanness",
+      "term_ar": "النَّقَاء، الصَّفَاء",
+      "pronunciation_de": "[ˈʁaɪ̯nhaɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Reinheit der Bergluft tut der Lunge unendlich gut.",
+          "en": "The purity of mountain air does the lungs immense good.",
+          "ar": "نَقَاءُ هَوَاءِ الجِبَالِ يَمْنَحُ الرِّئَتَيْنِ عَافِيَةً عَظِيمَة."
+        }
+      ]
+    },
+    {
+      "id": "env_nature_024",
+      "term_de": "die Energieeffizienz",
+      "plural_de": "-",
+      "term_en": "energy efficiency",
+      "term_ar": "كَفَاءَةُ اسْتِهْلَاكِ الطَّاقَة",
+      "pronunciation_de": "[enɛʁˈɡiːʔɛfiˌt͡si̯ɛnt͡s]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Hohe Energieeffizienz senkt die Stromkosten und schont die Natur.",
+          "en": "High energy efficiency lowers electricity costs and protects nature.",
+          "ar": "الكَفَاءَةُ العَالِيَةُ فِي اسْتِهْلَاكِ الطَّاقَةِ تُخَفِّضُ التَّكَالِيفَ وَتَصُونُ الطَّبِيعَة."
+        }
+      ]
+    },
+    {
+      "id": "env_nature_025",
+      "term_de": "das Gleichgewicht",
+      "plural_de": "-",
+      "term_en": "ecological balance, equilibrium",
+      "term_ar": "التَّوَازُنُ البِيئِيّ",
+      "pronunciation_de": "[ˈɡlaɪ̯çɡəˌvɪçt]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Ein intaktes ökologisches Gleichgewicht sichert die Zukunft unseres Planeten.",
+          "en": "An intact ecological balance secures the future of our planet.",
+          "ar": "التَّوَازُنُ البِيئِيُّ السَّلِيمُ يَضْمَنُ مُسْتَقْبَلَ كَوْكَبِنَا."
+        }
+      ]
+    }
+  ]
+}

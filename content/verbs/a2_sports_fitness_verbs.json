@@ -1,0 +1,909 @@
+{
+  "category_id": "a2_sports_fitness_verbs",
+  "category_name_de": "Sport-, Fitness- und Bewegungsverben",
+  "category_name_en": "Sports, Fitness and Physical Movement Verbs",
+  "category_name_ar": "أفعال الرياضة واللياقة والنشاط البدني",
+  "level": "A2/B1",
+  "verbs": [
+    {
+      "id": "verb_sport_001",
+      "infinitive": "trainieren",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "den Körper oder Fähigkeiten gezielt üben und stärken",
+      "meaning_en": "to train, exercise, work out",
+      "meaning_ar": "يَتَدَرَّبُ، يُمَارِسُ التَّمَارِينَ الرِّيَاضِيَّة",
+      "tenses": {
+        "present": {
+          "ich": "trainiere",
+          "du": "trainierst",
+          "er_sie_es": "trainiert",
+          "wir": "trainieren",
+          "ihr": "trainiert",
+          "sie_Sie": "trainieren"
+        },
+        "past_simple": {
+          "ich": "trainierte",
+          "du": "trainiertest",
+          "er_sie_es": "trainierte",
+          "wir": "trainierten",
+          "ihr": "trainiertet",
+          "sie_Sie": "trainierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "trainiert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "für",
+          "case": "Akkusativ",
+          "meaning_ar": "يتدرب لأجل"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er trainiert dreimal pro Woche im Fitnessstudio.",
+          "en": "He works out three times a week at the gym.",
+          "ar": "يَتَدَرَّبُ ثَلَاثَ مَرَّاتٍ فِي الأُسْبُوعِ فِي النَّادِي الرِّيَاضِيّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_sport_002",
+      "infinitive": "schwimmen",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "sich im Wasser mit Schwimmbewegungen fortbewegen",
+      "meaning_en": "to swim",
+      "meaning_ar": "يَسْبَحُ، يَعُومُ",
+      "tenses": {
+        "present": {
+          "ich": "schwimme",
+          "du": "schwimmst",
+          "er_sie_es": "schwimmt",
+          "wir": "schwimmen",
+          "ihr": "schwimmt",
+          "sie_Sie": "schwimmen"
+        },
+        "past_simple": {
+          "ich": "schwamm",
+          "du": "schwammst",
+          "er_sie_es": "schwamm",
+          "wir": "schwammen",
+          "ihr": "schwammt",
+          "sie_Sie": "schwammen"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "geschwommen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يسبح في"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Kinder schwimmen jeden Samstag im städtischen Hallenbad.",
+          "en": "The children swim every Saturday in the municipal indoor pool.",
+          "ar": "يَسْبَحُ الأَطْفَالُ كُلَّ سَبْتٍ فِي المَسْبَحِ البَلَدِيِّ المُغَطَّى."
+        }
+      ]
+    },
+    {
+      "id": "verb_sport_003",
+      "infinitive": "laufen",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "sich zügig zu Fuß fortbewegen oder joggen",
+      "meaning_en": "to run, walk, jog",
+      "meaning_ar": "يَجْرِي، يَرْكُضُ، يَمْشِي",
+      "tenses": {
+        "present": {
+          "ich": "laufe",
+          "du": "läufst",
+          "er_sie_es": "läuft",
+          "wir": "laufen",
+          "ihr": "lauft",
+          "sie_Sie": "laufen"
+        },
+        "past_simple": {
+          "ich": "lief",
+          "du": "liefst",
+          "er_sie_es": "lief",
+          "wir": "liefen",
+          "ihr": "lieft",
+          "sie_Sie": "liefen"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "gelaufen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "durch",
+          "case": "Akkusativ",
+          "meaning_ar": "يجري عبر"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Am frühen Morgen läuft sie gern durch den Stadtpark.",
+          "en": "Early in the morning, she likes to jog through the city park.",
+          "ar": "تَرْكُضُ فِي الصَّبَاحِ البَاكِرِ بِسَعَادَةٍ عَبْرَ حَدِيقَةِ المَدِينَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_sport_004",
+      "infinitive": "rennen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "sich sehr schnell laufend fortbewegen",
+      "meaning_en": "to sprint, race, run fast",
+      "meaning_ar": "يَعْدُو، يَرْكُضُ بِسُرْعَةٍ قُصْوَى",
+      "tenses": {
+        "present": {
+          "ich": "renne",
+          "du": "rennst",
+          "er_sie_es": "rennt",
+          "wir": "rennen",
+          "ihr": "rennt",
+          "sie_Sie": "rennen"
+        },
+        "past_simple": {
+          "ich": "rannte",
+          "du": "ranntest",
+          "er_sie_es": "rannte",
+          "wir": "rannten",
+          "ihr": "ranntet",
+          "sie_Sie": "rannten"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "gerannt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "um",
+          "case": "Akkusativ",
+          "meaning_ar": "يركض حول"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Sportler rennen um die Wette auf der Tartanbahn.",
+          "en": "The athletes race against each other on the running track.",
+          "ar": "يَعْدُو الرِّيَاضِيُّونَ فِي سِبَاقٍ سَرِيعٍ عَلَى مِضْمَارِ الجَرْي."
+        }
+      ]
+    },
+    {
+      "id": "verb_sport_005",
+      "infinitive": "werfen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "einen Gegenstand mit Schwung durch die Luft schleudern",
+      "meaning_en": "to throw, cast",
+      "meaning_ar": "يَرْمِي، يَقْذِفُ",
+      "tenses": {
+        "present": {
+          "ich": "werfe",
+          "du": "wirfst",
+          "er_sie_es": "wirft",
+          "wir": "werfen",
+          "ihr": "werft",
+          "sie_Sie": "werfen"
+        },
+        "past_simple": {
+          "ich": "warf",
+          "du": "warfst",
+          "er_sie_es": "warf",
+          "wir": "warfen",
+          "ihr": "warft",
+          "sie_Sie": "warfen"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geworfen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "nach",
+          "case": "Dativ",
+          "meaning_ar": "يرمي باتجاه"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er wirft den Basketball zielsicher in den Korb.",
+          "en": "He throws the basketball accurately into the hoop.",
+          "ar": "يَرْمِي كُرَةَ السَّلَّةِ بِدِقَّةٍ وَإِحْكَامٍ دَاخِلَ السَّلَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_sport_006",
+      "infinitive": "fangen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "einen fliegenden Gegenstand mit den Händen greifen",
+      "meaning_en": "to catch",
+      "meaning_ar": "يُمْسِكُ، يَتَلَقَّفُ الكُرَة",
+      "tenses": {
+        "present": {
+          "ich": "fange",
+          "du": "fängst",
+          "er_sie_es": "fängt",
+          "wir": "fangen",
+          "ihr": "fangt",
+          "sie_Sie": "fangen"
+        },
+        "past_simple": {
+          "ich": "fing",
+          "du": "fingst",
+          "er_sie_es": "fing",
+          "wir": "fingen",
+          "ihr": "fingt",
+          "sie_Sie": "fingen"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gefangen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يمسك بـ"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Torwart fängt den Ball mit beiden Händen sicher ab.",
+          "en": "The goalkeeper catches the ball safely with both hands.",
+          "ar": "يَتَلَقَّفُ حَارِسُ المَرْمَى الكُرَةَ بِكِلْتَا يَدَيْهِ بِأَمَان."
+        }
+      ]
+    },
+    {
+      "id": "verb_sport_007",
+      "infinitive": "springen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "sich mit einem kräftigen Stoß der Beine vom Boden lösen",
+      "meaning_en": "to jump, leap",
+      "meaning_ar": "يَقْفِزُ، يَثِبُ",
+      "tenses": {
+        "present": {
+          "ich": "springe",
+          "du": "springst",
+          "er_sie_es": "springt",
+          "wir": "springen",
+          "ihr": "springt",
+          "sie_Sie": "springen"
+        },
+        "past_simple": {
+          "ich": "sprang",
+          "du": "sprangst",
+          "er_sie_es": "sprang",
+          "wir": "sprangen",
+          "ihr": "sprangt",
+          "sie_Sie": "sprangen"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "gesprungen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "über",
+          "case": "Akkusativ",
+          "meaning_ar": "يقفز فوق"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Hochspringerin springt mühelos über die Latte.",
+          "en": "The high jumper clears the bar effortlessly.",
+          "ar": "تَقْفِزُ لَاعِبَةُ الوَثْبِ العَالِي بِسُهُولَةٍ فَوْقَ العَارِضَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_sport_008",
+      "infinitive": "dehnen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "die Muskeln gezielt strecken und beweglich halten",
+      "meaning_en": "to stretch",
+      "meaning_ar": "يُمَدِّدُ العَضَلَاتِ، يُمَطِّطُ",
+      "tenses": {
+        "present": {
+          "ich": "dehne",
+          "du": "dehnst",
+          "er_sie_es": "dehnt",
+          "wir": "dehnen",
+          "ihr": "dehnt",
+          "sie_Sie": "dehnen"
+        },
+        "past_simple": {
+          "ich": "dehnte",
+          "du": "dehntest",
+          "er_sie_es": "dehnte",
+          "wir": "dehnten",
+          "ihr": "dehntet",
+          "sie_Sie": "dehnten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gedehnt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "vor",
+          "case": "Dativ",
+          "meaning_ar": "يتمدد قبل"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wir dehnen unsere Waden gründlich vor dem Dauerlauf.",
+          "en": "We stretch our calves thoroughly before the long-distance run.",
+          "ar": "نُمَدِّدُ عَضَلَاتِ السَّاقِ جَيِّدًا قَبْلَ الجَرْيِ المُتَوَاصِل."
+        }
+      ]
+    },
+    {
+      "id": "verb_sport_009",
+      "infinitive": "atmen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "Luft in die Lungen aufnehmen und wieder ausstoßen",
+      "meaning_en": "to breathe",
+      "meaning_ar": "يَتَنَفَّسُ",
+      "tenses": {
+        "present": {
+          "ich": "atme",
+          "du": "atmest",
+          "er_sie_es": "atmet",
+          "wir": "atmen",
+          "ihr": "atmet",
+          "sie_Sie": "atmen"
+        },
+        "past_simple": {
+          "ich": "atmete",
+          "du": "atmetest",
+          "er_sie_es": "atmete",
+          "wir": "atmeten",
+          "ihr": "atmetet",
+          "sie_Sie": "atmeten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geatmet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "durch",
+          "case": "Akkusativ",
+          "meaning_ar": "يتنفس من خلال"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er atmet ruhig und tief durch die Nase ein.",
+          "en": "He breathes quietly and deeply through his nose.",
+          "ar": "يَتَنَفَّسُ بِهُدُوءٍ وَعُمْقٍ عَبْرَ الأَنْف."
+        }
+      ]
+    },
+    {
+      "id": "verb_sport_010",
+      "infinitive": "klettern",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "unter Einsatz von Händen und Füßen in die Höhe steigen",
+      "meaning_en": "to climb",
+      "meaning_ar": "يَتَسَلَّقُ",
+      "tenses": {
+        "present": {
+          "ich": "klettere",
+          "du": "kletterst",
+          "er_sie_es": "klettert",
+          "wir": "klettern",
+          "ihr": "klettert",
+          "sie_Sie": "klettern"
+        },
+        "past_simple": {
+          "ich": "kletterte",
+          "du": "klettertest",
+          "er_sie_es": "kletterte",
+          "wir": "kletterten",
+          "ihr": "klettertet",
+          "sie_Sie": "kletterten"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "geklettert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Akkusativ",
+          "meaning_ar": "يتسلق إلى"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Jugendlichen klettern gesichert an der Kletterwand.",
+          "en": "The youth climb securely attached on the climbing wall.",
+          "ar": "يَتَسَلَّقُ الفِتْيَانُ بِأَمَانٍ عَلَى جِدَارِ التَّسَلُّق."
+        }
+      ]
+    },
+    {
+      "id": "verb_sport_011",
+      "infinitive": "radfahren",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "ein Fahrrad zur Fortbewegung und zum Sport nutzen",
+      "meaning_en": "to ride a bike, cycle",
+      "meaning_ar": "يَرْكَبُ الدَّرَّاجَةَ الهَوَائِيَّة",
+      "tenses": {
+        "present": {
+          "ich": "fahre Rad",
+          "du": "fährst Rad",
+          "er_sie_es": "fährt Rad",
+          "wir": "fahren Rad",
+          "ihr": "fahrt Rad",
+          "sie_Sie": "fahren Rad"
+        },
+        "past_simple": {
+          "ich": "fuhr Rad",
+          "du": "fuhrst Rad",
+          "er_sie_es": "fuhr Rad",
+          "wir": "fuhren Rad",
+          "ihr": "fuhrt Rad",
+          "sie_Sie": "fuhren Rad"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "radgefahren"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Dativ",
+          "meaning_ar": "يقود الدراجة على"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wir fahren am Wochenende gerne entlang des Flussufers Rad.",
+          "en": "We enjoy cycling along the riverbank on the weekend.",
+          "ar": "نَرْكَبُ الدَّرَّاجَاتِ فِي عُطْلَةِ نِهَايَةِ الأُسْبُوعِ بِمُحَاذَاةِ ضَفَّةِ النَّهْر."
+        }
+      ]
+    },
+    {
+      "id": "verb_sport_012",
+      "infinitive": "wandern",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "eine längere Gehstrecke in der freien Natur zurücklegen",
+      "meaning_en": "to hike, trek",
+      "meaning_ar": "يَتَجَوَّلُ مَشْيًا عَلَى الأَقْدَامِ، يَرْتَحِلُ",
+      "tenses": {
+        "present": {
+          "ich": "wandere",
+          "du": "wanderst",
+          "er_sie_es": "wandert",
+          "wir": "wandern",
+          "ihr": "wandert",
+          "sie_Sie": "wandern"
+        },
+        "past_simple": {
+          "ich": "wanderte",
+          "du": "wandertest",
+          "er_sie_es": "wanderte",
+          "wir": "wanderten",
+          "ihr": "wandertet",
+          "sie_Sie": "wanderten"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "gewandert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "durch",
+          "case": "Akkusativ",
+          "meaning_ar": "يتجول مشياً عبر"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Familie wandert gerne durch die schattigen Bergwälder.",
+          "en": "The family likes hiking through the shaded mountain forests.",
+          "ar": "تُحِبُّ الأُسْرَةُ التَّجَوُّلَ سَيْرًا عَلَى الأَقْدَامِ عَبْرَ غَابَاتِ الجِبَالِ الظَّلِيلَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_sport_013",
+      "infinitive": "siegen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "in einem sportlichen Wettkampf den ersten Platz erringen",
+      "meaning_en": "to win, triumph, be victorious",
+      "meaning_ar": "يَفُوزُ، يَنْتَصِرُ",
+      "tenses": {
+        "present": {
+          "ich": "siege",
+          "du": "siegst",
+          "er_sie_es": "siegt",
+          "wir": "siegen",
+          "ihr": "siegt",
+          "sie_Sie": "siegen"
+        },
+        "past_simple": {
+          "ich": "siegte",
+          "du": "siegtest",
+          "er_sie_es": "siegte",
+          "wir": "siegten",
+          "ihr": "siegtet",
+          "sie_Sie": "siegten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gesiegt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "über",
+          "case": "Akkusativ",
+          "meaning_ar": "ينتصر على"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Unsere Schulmannschaft siegte durch hervorragenden Teamgeist.",
+          "en": "Our school team won through outstanding team spirit.",
+          "ar": "فَازَ فَرِيقُ مَدْرَسَتِنَا بِفَضْلِ رُوحِ الفَرِيقِ المُمَيَّزَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_sport_014",
+      "infinitive": "mitspielen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "an einem Spiel oder einer Sportpartie teilnehmen",
+      "meaning_en": "to play along, join in the game",
+      "meaning_ar": "يُشَارِكُ فِي اللَّعِب",
+      "tenses": {
+        "present": {
+          "ich": "spiele mit",
+          "du": "spielst mit",
+          "er_sie_es": "spielt mit",
+          "wir": "spielen mit",
+          "ihr": "spielt mit",
+          "sie_Sie": "spielen mit"
+        },
+        "past_simple": {
+          "ich": "spielte mit",
+          "du": "spieltest mit",
+          "er_sie_es": "spielte mit",
+          "wir": "spielten mit",
+          "ihr": "spieltet mit",
+          "sie_Sie": "spielten mit"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "mitgespielt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "bei",
+          "case": "Dativ",
+          "meaning_ar": "يشارك في لعب مع"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Darf mein kleiner Bruder beim Fußballturnier mitspielen?",
+          "en": "May my little brother play in the soccer tournament?",
+          "ar": "هَلْ يَحِقُّ لِأَخِي الصَّغِيرِ أَنْ يُشَارِكَ فِي دَوْرِيِّ كُرَةِ القَدَم؟"
+        }
+      ]
+    },
+    {
+      "id": "verb_sport_015",
+      "infinitive": "pausieren",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "eine Unterbrechung zur Erholung einlegen",
+      "meaning_en": "to pause, take a break",
+      "meaning_ar": "يَأْخُذُ اسْتِرَاحَةً، يَتَوَقَّفُ مُؤَقَّتًا",
+      "tenses": {
+        "present": {
+          "ich": "pausiere",
+          "du": "pausierst",
+          "er_sie_es": "pausiert",
+          "wir": "pausieren",
+          "ihr": "pausiert",
+          "sie_Sie": "pausieren"
+        },
+        "past_simple": {
+          "ich": "pausierte",
+          "du": "pausiertest",
+          "er_sie_es": "pausierte",
+          "wir": "pausierten",
+          "ihr": "pausiertet",
+          "sie_Sie": "pausierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "pausiert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "nach",
+          "case": "Dativ",
+          "meaning_ar": "يستريح بعد"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Nach zwanzig Minuten intensivem Training pausieren die Athleten kurz.",
+          "en": "After twenty minutes of intense training, the athletes pause briefly.",
+          "ar": "بَعْدَ عِشْرِينَ دَقِيقَةً مِنَ التَّدْرِيبِ المُكَثَّفِ، يَأْخُذُ الرِّيَاضِيُّونَ اسْتِرَاحَةً قَصِيرَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_sport_016",
+      "infinitive": "regenerieren",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "die körperlichen Kräfte nach Anstrengung wiederherstellen",
+      "meaning_en": "to recover, regenerate",
+      "meaning_ar": "يَسْتَعِيدُ نَشَاطَهُ، يَتَعَافَى بَدَنِيًّا",
+      "tenses": {
+        "present": {
+          "ich": "regeneriere",
+          "du": "regenerierst",
+          "er_sie_es": "regeneriert",
+          "wir": "regenerieren",
+          "ihr": "regeneriert",
+          "sie_Sie": "regenerieren"
+        },
+        "past_simple": {
+          "ich": "regenerierte",
+          "du": "regeneriertest",
+          "er_sie_es": "regenerierte",
+          "wir": "regenerierten",
+          "ihr": "regeneriertet",
+          "sie_Sie": "regenerierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "regeneriert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "durch",
+          "case": "Akkusativ",
+          "meaning_ar": "يتعافى بفضل"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Körper regeneriert sich am besten bei ausreichendem Schlaf.",
+          "en": "The body regenerates best with sufficient sleep.",
+          "ar": "يَسْتَعِيدُ الجِسْمُ نَشَاطَهُ عَلَى النَّحْوِ الأَمْثَلِ عِنْدَ الحُصُولِ عَلَى نَوْمٍ كَافٍ."
+        }
+      ]
+    },
+    {
+      "id": "verb_sport_017",
+      "infinitive": "stärken",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "kräftiger und widerstandsfähiger machen",
+      "meaning_en": "to strengthen, invigorate",
+      "meaning_ar": "يُقَوِّي، يُعَزِّزُ بِنْيَتَهُ",
+      "tenses": {
+        "present": {
+          "ich": "stärke",
+          "du": "stärkst",
+          "er_sie_es": "stärkt",
+          "wir": "stärken",
+          "ihr": "stärkt",
+          "sie_Sie": "stärken"
+        },
+        "past_simple": {
+          "ich": "stärkte",
+          "du": "stärktest",
+          "er_sie_es": "stärkte",
+          "wir": "stärkten",
+          "ihr": "stärktet",
+          "sie_Sie": "stärkten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gestärkt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "durch",
+          "case": "Akkusativ",
+          "meaning_ar": "يقوي بواسطة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Regelmäßiges Schwimmen stärkt die Rückenmuskulatur nachhaltig.",
+          "en": "Regular swimming sustainably strengthens back muscles.",
+          "ar": "السِّبَاحَةُ المُنْتَظَمَةُ تُقَوِّي عَضَلَاتِ الظَّهْرِ بِشَكْلٍ فَعَّالٍ وَمُسْتَدَام."
+        }
+      ]
+    },
+    {
+      "id": "verb_sport_018",
+      "infinitive": "bewegen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "den Körper oder Körperteile in Bewegung setzen",
+      "meaning_en": "to move, exercise",
+      "meaning_ar": "يُحَرِّكُ، يَتَحَرَّكُ",
+      "tenses": {
+        "present": {
+          "ich": "bewege",
+          "du": "bewegst",
+          "er_sie_es": "bewegt",
+          "wir": "bewegen",
+          "ihr": "bewegt",
+          "sie_Sie": "bewegen"
+        },
+        "past_simple": {
+          "ich": "bewegte",
+          "du": "bewegtest",
+          "er_sie_es": "bewegte",
+          "wir": "bewegten",
+          "ihr": "bewegtet",
+          "sie_Sie": "bewegten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "bewegt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Dativ",
+          "meaning_ar": "يتحرك في"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Es ist gesund, sich täglich an der frischen Luft zu bewegen.",
+          "en": "It is healthy to move in the fresh air every day.",
+          "ar": "مِنَ الصِّحِّيِّ أَنْ يَتَحَرَّكَ الإِنْسَانُ يَوْمِيًّا فِي الهَوَاءِ الطَّلْق."
+        }
+      ]
+    },
+    {
+      "id": "verb_sport_019",
+      "infinitive": "wiegen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "das Körpergewicht mit einer Waage ermitteln",
+      "meaning_en": "to weigh",
+      "meaning_ar": "يَزِنُ، يَقِيسُ وَزْنَهُ",
+      "tenses": {
+        "present": {
+          "ich": "wiege",
+          "du": "wiegst",
+          "er_sie_es": "wiegt",
+          "wir": "wiegen",
+          "ihr": "wiegt",
+          "sie_Sie": "wiegen"
+        },
+        "past_simple": {
+          "ich": "wog",
+          "du": "wogst",
+          "er_sie_es": "wog",
+          "wir": "wogen",
+          "ihr": "wogt",
+          "sie_Sie": "wogen"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gewogen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Dativ",
+          "meaning_ar": "يزن على"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Sportler wiegt sich jeden Montagmorgen auf der Präzisionswaage.",
+          "en": "The athlete weighs himself every Monday morning on the precision scale.",
+          "ar": "يَزِنُ الرِّيَاضِيُّ نَفْسَهُ صَبَاحَ كُلِّ إِثْنَيْنِ عَلَى المِيزَانِ الدَّقِيق."
+        }
+      ]
+    },
+    {
+      "id": "verb_sport_020",
+      "infinitive": "messen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "eine sportliche Leistung oder Zeitspanne exakt erfassen",
+      "meaning_en": "to measure, time",
+      "meaning_ar": "يَقِيسُ الزَّمَنَ أَوِ المَسَافَة",
+      "tenses": {
+        "present": {
+          "ich": "messe",
+          "du": "misst",
+          "er_sie_es": "misst",
+          "wir": "messen",
+          "ihr": "messt",
+          "sie_Sie": "messen"
+        },
+        "past_simple": {
+          "ich": "maß",
+          "du": "maßest",
+          "er_sie_es": "maß",
+          "wir": "maßen",
+          "ihr": "maßt",
+          "sie_Sie": "maßen"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gemessen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يقيس بـ"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Trainer misst die Laufzeit mit einer digitalen Stoppuhr.",
+          "en": "The coach measures running time with a digital stopwatch.",
+          "ar": "يَقِيسُ المُدَرِّبُ زَمَنَ الجَرْيِ بِسَاعَةِ تَوْقِيتٍ رَقْمِيَّة."
+        }
+      ]
+    }
+  ]
+}

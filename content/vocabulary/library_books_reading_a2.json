@@ -1,0 +1,409 @@
+{
+  "category_id": "library_books_reading_a2",
+  "category_name_de": "Bibliothek, Bücher & Lesekultur",
+  "category_name_en": "Library, Books & Reading Culture",
+  "category_name_ar": "المَكْتَبَةُ وَالكُتُبُ وَالمُطَالَعَةُ النَّافِعَة",
+  "level": "A2+",
+  "items": [
+    {
+      "id": "library_book_001",
+      "term_de": "die Bibliothek",
+      "plural_de": "die Bibliotheken",
+      "term_en": "library",
+      "term_ar": "المَكْتَبَةُ العَامَّة",
+      "pronunciation_de": "[biblioˈteːk]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Stadtbibliothek ist ein ruhiger Ort für Bildung und Wissenserwerb.",
+          "en": "The city library is a quiet place for education and knowledge acquisition.",
+          "ar": "المَكْتَبَةُ العَامَّةُ مَكَانٌ هَادِئٌ لِلتَّعَلُّمِ وَاكْتِسَابِ المَعْرِفَة."
+        }
+      ]
+    },
+    {
+      "id": "library_book_002",
+      "term_de": "das Buch",
+      "plural_de": "die Bücher",
+      "term_en": "book",
+      "term_ar": "الكِتَاب",
+      "pronunciation_de": "[buːx]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Ein gutes Buch ist der beste und treuste Begleiter des Menschen.",
+          "en": "A good book is the best and most faithful companion of man.",
+          "ar": "الكِتَابُ النَّافِعُ خَيْرُ جَلِيسٍ وَأَوْفَى رَفِيقٍ لِلإِنْسَان."
+        }
+      ]
+    },
+    {
+      "id": "library_book_003",
+      "term_de": "das Bücherregal",
+      "plural_de": "die Bücherregale",
+      "term_en": "bookshelf",
+      "term_ar": "رَفُّ الكُتُب، خِزَانَةُ الكُتُب",
+      "pronunciation_de": "[ˈbyːçɐʁeˌɡaːl]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Die Werke stehen nach Sachgebieten geordnet im hohen Bücherregal.",
+          "en": "The works stand organized by subject area in the tall bookshelf.",
+          "ar": "الكُتُبُ مُرَتَّبَةٌ بِحَسَبِ العُلُومِ وَالفُنُونِ فِي رَفِّ الكُتُبِ العَالِي."
+        }
+      ]
+    },
+    {
+      "id": "library_book_004",
+      "term_de": "der Lesesaal",
+      "plural_de": "die Lesesäle",
+      "term_en": "reading room",
+      "term_ar": "قَاعَةُ المُطَالَعَة",
+      "pronunciation_de": "[ˈleːzəˌzaːl]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Im Lesesaal herrscht absolute Stille zum konzentrierten Lernen.",
+          "en": "In the reading room, absolute silence prevails for concentrated study.",
+          "ar": "يَسُودُ قَاعَةَ المُطَالَعَةِ هُدُوءٌ تَامٌّ لِلدِّرَاسَةِ المُرَكَّزَة."
+        }
+      ]
+    },
+    {
+      "id": "library_book_005",
+      "term_de": "der Bibliothekar",
+      "plural_de": "die Bibliothekare",
+      "term_en": "librarian",
+      "term_ar": "أَمِينُ المَكْتَبَة",
+      "pronunciation_de": "[biblioteˈkaːɐ̯]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der erfahrene Bibliothekar hilft bei der Suche nach historischen Quellen.",
+          "en": "The experienced librarian helps in finding historical sources.",
+          "ar": "يُسَاعِدُ أَمِينُ المَكْتَبَةِ الخَبِيرُ فِي البَحْثِ عَنِ المَصَادِرِ التَّارِيخِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "library_book_006",
+      "term_de": "der Bibliotheksausweis",
+      "plural_de": "die Bibliotheksausweise",
+      "term_en": "library card",
+      "term_ar": "بِطَاقَةُ عُضْوِيَّةِ المَكْتَبَة",
+      "pronunciation_de": "[biblioˈteːksʔaʊ̯sˌvaɪ̯s]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Mit dem Bibliotheksausweis kann man bis zu zehn Bücher gleichzeitig entleihen.",
+          "en": "With the library card, you can borrow up to ten books at a time.",
+          "ar": "تُمَكِّنُكَ بِطَاقَةُ المَكْتَبَةِ مِنِ اسْتِعَارَةِ عَشْرَةِ كُتُبٍ فِي آنٍ وَاحِد."
+        }
+      ]
+    },
+    {
+      "id": "library_book_007",
+      "term_de": "die Ausleihe",
+      "plural_de": "die Ausleihen",
+      "term_en": "book loan, borrowing",
+      "term_ar": "اسْتِعَارَةُ الكُتُب، الإِعَارَة",
+      "pronunciation_de": "[ˈaʊ̯sˌlaɪ̯ə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die elektronische Ausleihe erfolgt schnell und unkompliziert am Terminal.",
+          "en": "Electronic borrowing takes place quickly and easily at the terminal.",
+          "ar": "تَتِمُّ اسْتِعَارَةُ الكُتُبِ الإِلِكْتُرُونِيَّةُ بِسُرْعَةٍ وَيُسْرٍ عِنْدَ الجِهَازِ الآلِيّ."
+        }
+      ]
+    },
+    {
+      "id": "library_book_008",
+      "term_de": "das Sachbuch",
+      "plural_de": "die Sachbücher",
+      "term_en": "non-fiction book",
+      "term_ar": "الكِتَابُ المَعْرِفِيّ، الكِتَابُ العِلْمِيّ",
+      "pronunciation_de": "[ˈzaxˌbuːx]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Dieses Sachbuch erklärt komplexe Naturgesetze in einfachen Worten.",
+          "en": "This non-fiction book explains complex laws of nature in simple words.",
+          "ar": "يَشْرَحُ هَذَا الكِتَابُ العِلْمِيُّ قَوَانِينَ الطَّبِيعَةِ بِعِبَارَاتٍ بَسِيطَة."
+        }
+      ]
+    },
+    {
+      "id": "library_book_009",
+      "term_de": "das Wörterbuch",
+      "plural_de": "die Wörterbücher",
+      "term_en": "dictionary",
+      "term_ar": "المُعْجَم، القَامُوس",
+      "pronunciation_de": "[ˈvœʁtɐˌbuːx]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Ein dreisprachiges Wörterbuch erleichtert das präzise Übersetzen ungemein.",
+          "en": "A trilingual dictionary immensely facilitates precise translation.",
+          "ar": "المُعْجَمُ ثُلَاثِيُّ اللُّغَاتِ يُيَسِّرُ التَّرْجَمَةَ الدَّقِيقَةَ إِلَى أَبْعَدِ حَدّ."
+        }
+      ]
+    },
+    {
+      "id": "library_book_010",
+      "term_de": "das Nachschlagewerk",
+      "plural_de": "die Nachschlagewerke",
+      "term_en": "reference book, compendium",
+      "term_ar": "المَرْجِعُ العِلْمِيّ، المَوْسُوعَةُ المَرْجِعِيَّة",
+      "pronunciation_de": "[ˈnaːxʃlaːɡəˌvɛʁk]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Wissenschaftler greifen bei ihrer Recherche auf verlässliche Nachschlagewerke zurück.",
+          "en": "Scientists rely on dependable reference works in their research.",
+          "ar": "يَرْجِعُ العُلَمَاءُ فِي أَبْحَاثِهِمْ إِلَى مَرَاجِعَ عِلْمِيَّةٍ مَوْثُوقَة."
+        }
+      ]
+    },
+    {
+      "id": "library_book_011",
+      "term_de": "das Kapitel",
+      "plural_de": "die Kapitel",
+      "term_en": "chapter",
+      "term_ar": "الفَصْلُ مِنَ الكِتَاب",
+      "pronunciation_de": "[kaˈpiːtl̩]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das dritte Kapitel behandelt die Grundlagen der Botanik.",
+          "en": "The third chapter covers the fundamentals of botany.",
+          "ar": "يُعَالِجُ الفَصْلُ الثَّالِثُ مَبَادِئَ عِلْمِ النَّبَات."
+        }
+      ]
+    },
+    {
+      "id": "library_book_012",
+      "term_de": "das Inhaltsverzeichnis",
+      "plural_de": "die Inhaltsverzeichnisse",
+      "term_en": "table of contents",
+      "term_ar": "فِهْرِسُ المُحْتَوَيَات",
+      "pronunciation_de": "[ˈɪnhaltsfɛɐ̯ˌt͡saɪ̯çnɪs]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Ein Blick in das Inhaltsverzeichnis gibt rasche Übersicht über das Werk.",
+          "en": "A glance at the table of contents gives a quick overview of the work.",
+          "ar": "نَظْرَةٌ سَرِيعَةٌ فِي فِهْرِسِ المُحْتَوَيَاتِ تَمْنَحُ نَظْرَةً شَامِلَةً عَنِ الكِتَاب."
+        }
+      ]
+    },
+    {
+      "id": "library_book_013",
+      "term_de": "das Lesezeichen",
+      "plural_de": "die Lesezeichen",
+      "term_en": "bookmark",
+      "term_ar": "فَاصِلُ الكِتَاب، عَلَامَةُ القِرَاءَة",
+      "pronunciation_de": "[ˈleːzəˌt͡saɪ̯çn̩]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Ein hübsches Lesezeichen aus Seide markiert die aktuelle Seite.",
+          "en": "A pretty silk bookmark marks the current page.",
+          "ar": "فَاصِلُ كِتَابٍ حَرِيرِيٌّ جَمِيلٌ يُحَدِّدُ الصَّفْحَةَ الحَالِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "library_book_014",
+      "term_de": "der Buchdeckel",
+      "plural_de": "die Buchdeckel",
+      "term_en": "book cover, binding",
+      "term_ar": "غِلَافُ الكِتَاب",
+      "pronunciation_de": "[ˈbuːxˌdɛkl̩]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der lederne Buchdeckel schützt die wertvollen Seiten seit Jahrhunderten.",
+          "en": "The leather book cover has protected the precious pages for centuries.",
+          "ar": "يَحْمِي غِلَافُ الكِتَابِ الجِلْدِيُّ صَفَحَاتِهِ الثَّمِينَةَ مُنْذُ قُرُون."
+        }
+      ]
+    },
+    {
+      "id": "library_book_015",
+      "term_de": "die Seitenzahl",
+      "plural_de": "die Seitenzahlen",
+      "term_en": "page number",
+      "term_ar": "رَقْمُ الصَّفْحَة",
+      "pronunciation_de": "[ˈzaɪ̯tn̩ˌt͡saːl]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Notieren Sie sich die genaue Seitenzahl für das Literaturverzeichnis.",
+          "en": "Note down the exact page number for the bibliography.",
+          "ar": "دَوِّنْ رَقْمَ الصَّفْحَةِ الدَّقِيقَ لِقَائِمَةِ المَصَادِر."
+        }
+      ]
+    },
+    {
+      "id": "library_book_016",
+      "term_de": "die Wissbegierde",
+      "plural_de": "-",
+      "term_en": "thirst for knowledge, curiosity",
+      "term_ar": "الشَّغَفُ بِالعِلْم، حُبُّ الِاسْتِطْلَاعِ النَّافِع",
+      "pronunciation_de": "[ˈvɪsbaˌɡiːɐ̯də]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Echte Wissbegierde spornt den Geist zu immer neuen Entdeckungen an.",
+          "en": "True thirst for knowledge spurs the mind on to ever new discoveries.",
+          "ar": "الشَّغَفُ الحَقِيقِيُّ بِالعِلْمِ يَحُثُّ العَقْلَ عَلَى اسْتِكْشَافَاتٍ جَدِيدَة."
+        }
+      ]
+    },
+    {
+      "id": "library_book_017",
+      "term_de": "das Manuskript",
+      "plural_de": "die Manuskripte",
+      "term_en": "manuscript",
+      "term_ar": "المَخْطُوطَةُ العِلْمِيَّة",
+      "pronunciation_de": "[manuˈskʁɪpt]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "In der Handschriftenabteilung ruhen kostbare alte Manuskripte.",
+          "en": "Precious ancient manuscripts rest in the manuscript department.",
+          "ar": "تَسْتَقِرُّ فِي قِسْمِ المَخْطُوطَاتِ نَفَائِسُ قَدِيمَةٌ نَادِرَة."
+        }
+      ]
+    },
+    {
+      "id": "library_book_018",
+      "term_de": "die Enzyklopädie",
+      "plural_de": "die Enzyklopädien",
+      "term_en": "encyclopedia",
+      "term_ar": "المَوْسُوعَةُ العِلْمِيَّة",
+      "pronunciation_de": "[ɛnt͡syklo-pɛˈdiː]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die mehrbändige Enzyklopädie bündelt das Wissen vieler Epochen.",
+          "en": "The multi-volume encyclopedia bundles the knowledge of many eras.",
+          "ar": "تَجْمَعُ المَوْسُوعَةُ مُتَعَدِّدَةُ المُجَلَّدَاتِ عُلُومَ عُصُورٍ عَدِيدَة."
+        }
+      ]
+    },
+    {
+      "id": "library_book_019",
+      "term_de": "der Absatz",
+      "plural_de": "die Absätze",
+      "term_en": "paragraph",
+      "term_ar": "الفِقْرَةُ النَّصِّيَّة",
+      "pronunciation_de": "[ˈapˌzat͡s]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Lies den zweiten Absatz nochmals mit voller Aufmerksamkeit.",
+          "en": "Read the second paragraph again with full attention.",
+          "ar": "اقْرَأِ الفِقْرَةَ الثَّانِيَةَ مَرَّةً أُخْرَى بِانْتِبَاهٍ كَامِل."
+        }
+      ]
+    },
+    {
+      "id": "library_book_020",
+      "term_de": "die Druckausgabe",
+      "plural_de": "die Druckausgaben",
+      "term_en": "printed edition",
+      "term_ar": "الطَّبْعَةُ المَطْبُوعَة",
+      "pronunciation_de": "[ˈdʁʊkʔaʊ̯sˌɡaːbə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Viele Leser schätzen das haptische Gefühl einer hochwertigen Druckausgabe.",
+          "en": "Many readers appreciate the tactile feeling of a high-quality printed edition.",
+          "ar": "يُفَضِّلُ كَثِيرٌ مِنَ القُرَّاءِ المَلْمَسَ الحَقِيقِيَّ لِلطَّبْعَةِ المَطْبُوعَةِ الرَّاقِيَة."
+        }
+      ]
+    },
+    {
+      "id": "library_book_021",
+      "term_de": "das Zitat",
+      "plural_de": "die Zitate",
+      "term_en": "quotation, quote",
+      "term_ar": "الِاقْتِبَاس، القَوْلُ المَأْثُور",
+      "pronunciation_de": "[t͡siˈtaːt]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Er belegte seine wissenschaftliche These mit einem treffenden Zitat.",
+          "en": "He supported his scientific thesis with an apt quotation.",
+          "ar": "دَعَمَ فَرَضِيَّتَهُ العِلْمِيَّةَ بِاقْتِبَاسٍ دَقِيقٍ فِي مَحَلِّه."
+        }
+      ]
+    },
+    {
+      "id": "library_book_022",
+      "term_de": "die Leihfrist",
+      "plural_de": "die Leihfristen",
+      "term_en": "loan period",
+      "term_ar": "مُدَّةُ الِاسْتِعَارَةِ المُحَدَّدَة",
+      "pronunciation_de": "[ˈlaɪ̯ˌfʁɪst]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Leihfrist für Fachbücher beträgt vier Wochen und kann verlängert werden.",
+          "en": "The loan period for specialized books is four weeks and can be extended.",
+          "ar": "مُدَّةُ اسْتِعَارَةِ الكُتُبِ التَّخَصُّصِيَّةِ أَرْبَعَةُ أَسَابِيعَ وَيُمْكِنُ تَمْدِيدُهَا."
+        }
+      ]
+    },
+    {
+      "id": "library_book_023",
+      "term_de": "die Ruhezone",
+      "plural_de": "die Ruhezonen",
+      "term_en": "quiet zone",
+      "term_ar": "مِنْطَقَةُ الهُدُوءِ الصَّامِتَة",
+      "pronunciation_de": "[ˈʁuːəˌt͡soːnə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "In der Ruhezone der Bibliothek sind Gespräche und Telefone untersagt.",
+          "en": "In the library's quiet zone, conversations and phones are prohibited.",
+          "ar": "يُحْظَرُ الحَدِيثُ وَالهَوَاتِفُ فِي مِنْطَقَةِ الهُدُوءِ بِالمَكْتَبَة."
+        }
+      ]
+    },
+    {
+      "id": "library_book_024",
+      "term_de": "die Bildung",
+      "plural_de": "-",
+      "term_en": "education, learning, intellect",
+      "term_ar": "العِلْم، الثَّقَافَةُ الرَّصِينَة",
+      "pronunciation_de": "[ˈbɪldʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Bildung ist ein erhabenes Licht, das den Weg des Menschen erhellt.",
+          "en": "Education is a sublime light that illuminates human path.",
+          "ar": "العِلْمُ نُورٌ سَامٍ يُضِيءُ دَرْبَ الإِنْسَان."
+        }
+      ]
+    },
+    {
+      "id": "library_book_025",
+      "term_de": "die Weisheit",
+      "plural_de": "die Weisheiten",
+      "term_en": "wisdom",
+      "term_ar": "الحِكْمَة",
+      "pronunciation_de": "[ˈvaɪ̯shaɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Wahre Weisheit zeigt sich in Bescheidenheit und edlem Handeln.",
+          "en": "True wisdom is shown in modesty and noble action.",
+          "ar": "تَتَجَلَّى الحِكْمَةُ الحَقِيقِيَّةُ فِي التَّوَاضُعِ وَالعَمَلِ النَّبِيل."
+        }
+      ]
+    }
+  ]
+}

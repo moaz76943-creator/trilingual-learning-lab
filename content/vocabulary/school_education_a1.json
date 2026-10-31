@@ -1,0 +1,409 @@
+{
+  "category_id": "school_education_a1",
+  "category_name_de": "Schule, Grundbildung & Unterricht",
+  "category_name_en": "School, Primary Education & Classroom",
+  "category_name_ar": "المَدْرَسَةُ وَالتَّعْلِيمُ الأَسَاسِيُّ وَفُصُولُ الدِّرَاسَة",
+  "level": "A1/A2",
+  "items": [
+    {
+      "id": "school_edu_001",
+      "term_de": "die Schule",
+      "plural_de": "die Schulen",
+      "term_en": "school",
+      "term_ar": "المَدْرَسَة",
+      "pronunciation_de": "[ˈʃuːlə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Schule ist ein Ort der Bildung, der Freundschaft und des Wissens.",
+          "en": "School is a place of education, friendship, and knowledge.",
+          "ar": "المَدْرَسَةُ صَرْحٌ لِلتَّعْلِيمِ وَالصَّدَاقَةِ وَاكْتِسَابِ المَعْرِفَة."
+        }
+      ]
+    },
+    {
+      "id": "school_edu_002",
+      "term_de": "das Klassenzimmer",
+      "plural_de": "die Klassenzimmer",
+      "term_en": "classroom",
+      "term_ar": "فَصْلُ الدِّرَاسَة، غُرْفَةُ الصَّفّ",
+      "pronunciation_de": "[ˈklasn̩ˌt͡sɪmɐ]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Im hellen Klassenzimmer stehen Tische und Stühle für dreißig Schüler.",
+          "en": "In the bright classroom stand desks and chairs for thirty students.",
+          "ar": "تَسْتَقِرُّ المَقَاعِدُ وَالطَّاوِلَاتُ لِثَلَاثِينَ تِلْمِيذًا فِي الصَّفِّ المُضِيء."
+        }
+      ]
+    },
+    {
+      "id": "school_edu_003",
+      "term_de": "der Lehrer",
+      "plural_de": "die Lehrer",
+      "term_en": "teacher",
+      "term_ar": "المُعَلِّم، الأُسْتَاذ",
+      "pronunciation_de": "[ˈleːʁɐ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der geduldige Lehrer erklärt den schwierigen Stoff mit klaren Beispielen.",
+          "en": "The patient teacher explains the difficult material with clear examples.",
+          "ar": "يَشْرَحُ المُعَلِّمُ الصَّبُورُ المَسَائِلَ الصَّعْبَةَ بِأَمْثِلَةٍ وَاضِحَة."
+        }
+      ]
+    },
+    {
+      "id": "school_edu_004",
+      "term_de": "die Lehrerin",
+      "plural_de": "die Lehrerinnen",
+      "term_en": "female teacher",
+      "term_ar": "المُعَلِّمَة، الأُسْتَاذَة",
+      "pronunciation_de": "[ˈleːʁəʁɪn]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Lehrerin ermutigt die Kinder, neugierig Fragen zu stellen.",
+          "en": "The female teacher encourages the children to ask questions curiously.",
+          "ar": "تُشَجِّعُ المُعَلِّمَةُ الأَطْفَالَ عَلَى طَرْحِ الأَسْئِلَةِ بِشَغَف."
+        }
+      ]
+    },
+    {
+      "id": "school_edu_005",
+      "term_de": "der Schüler",
+      "plural_de": "die Schüler",
+      "term_en": "student, pupil",
+      "term_ar": "التِّلْمِيذ، الطَّالِب",
+      "pronunciation_de": "[ˈʃyːlɐ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der fleißige Schüler liest aufmerksam die neue Lektion im Buch.",
+          "en": "The diligent student reads the new lesson in the book attentively.",
+          "ar": "يَقْرَأُ التِّلْمِيذُ المُجْتَهِدُ الدَّرْسَ الجَدِيدَ فِي الكِتَابِ بِانْتِبَاه."
+        }
+      ]
+    },
+    {
+      "id": "school_edu_006",
+      "term_de": "die Schülerin",
+      "plural_de": "die Schülerinnen",
+      "term_en": "female student, pupil",
+      "term_ar": "التِّلْمِيذَة، الطَّالِبَة",
+      "pronunciation_de": "[ˈʃyːləʁɪn]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Schülerin löste die schwere Rechenaufgabe an der Tafel fehlerfrei.",
+          "en": "The female student solved the difficult math problem on the board flawlessly.",
+          "ar": "حَلَّتِ التِّلْمِيذَةُ المَسْأَلَةَ الحِسَابِيَّةَ الصَّعْبَةَ عَلَى السَّبُّورَةِ دُونَ أَيِّ خَطَأ."
+        }
+      ]
+    },
+    {
+      "id": "school_edu_007",
+      "term_de": "die Schultasche",
+      "plural_de": "die Schultaschen",
+      "term_en": "school bag, satchel",
+      "term_ar": "الحَقِيبَةُ المَدْرَسِيَّة",
+      "pronunciation_de": "[ˈʃuːlˌtaʃə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Am Vorabend packt das Kind seine Schultasche mit Büchern und Heften.",
+          "en": "The night before, the child packs his school bag with books and notebooks.",
+          "ar": "يُرَتِّبُ الطِّفْلُ حَقِيبَتَهُ المَدْرَسِيَّةَ بِالكُتُبِ وَالدَّفَاتِرِ مَسَاءَ كُلِّ يَوْم."
+        }
+      ]
+    },
+    {
+      "id": "school_edu_008",
+      "term_de": "das Schulbuch",
+      "plural_de": "die Schulbücher",
+      "term_en": "textbook, schoolbook",
+      "term_ar": "الكِتَابُ المَدْرَسِيّ",
+      "pronunciation_de": "[ˈʃuːlˌbuːx]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das neue Schulbuch enthält anschauliche Karten und bunte Zeichnungen.",
+          "en": "The new textbook contains illustrative maps and colorful drawings.",
+          "ar": "يَحْتَوِي الكِتَابُ المَدْرَسِيُّ الجَدِيدُ عَلَى خَرَائِطَ وَاضِحَةٍ وَرُسُومٍ زَاهِيَة."
+        }
+      ]
+    },
+    {
+      "id": "school_edu_009",
+      "term_de": "das Heft",
+      "plural_de": "die Hefte",
+      "term_en": "exercise book, notebook",
+      "term_ar": "الدَّفْتَرُ المَدْرَسِيّ، الكُرَّاسَة",
+      "pronunciation_de": "[hɛft]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Er schreibt die Vokabeln mit schöner Handschrift in sein blaues Heft.",
+          "en": "He writes the vocabulary in beautiful handwriting in his blue notebook.",
+          "ar": "يَكْتُبُ الكَلِمَاتِ بِخَطٍّ جَمِيلٍ فِي دَفْتَرِهِ الأَزْرَق."
+        }
+      ]
+    },
+    {
+      "id": "school_edu_010",
+      "term_de": "die Tafel",
+      "plural_de": "die Tafeln",
+      "term_en": "blackboard, chalkboard",
+      "term_ar": "السَّبُّورَة، اللَّوْحُ المَدْرَسِيّ",
+      "pronunciation_de": "[ˈtaːfl̩]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Der Lehrer notiert die wichtigsten Begriffe gut lesbar an der Tafel.",
+          "en": "The teacher notes down the most important terms clearly on the blackboard.",
+          "ar": "يُدَوِّنُ المُعَلِّمُ أَهَمَّ المُصْطَلَحَاتِ بِوُضُوحٍ عَلَى السَّبُّورَة."
+        }
+      ]
+    },
+    {
+      "id": "school_edu_011",
+      "term_de": "die Kreide",
+      "plural_de": "die Kreiden",
+      "term_en": "chalk",
+      "term_ar": "الطَّبْشُور",
+      "pronunciation_de": "[ˈkʁaɪ̯də]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Mit weißer Kreide zeichnet er geometrische Figuren an die Tafel.",
+          "en": "With white chalk, he draws geometric shapes on the board.",
+          "ar": "يَرْسُمُ أَشْكَالًا هَنْدَسِيَّةً عَلَى السَّبُّورَةِ بِالطَّبْشُورِ الأَبْيَض."
+        }
+      ]
+    },
+    {
+      "id": "school_edu_012",
+      "term_de": "der Bleistift",
+      "plural_de": "die Bleistifte",
+      "term_en": "pencil",
+      "term_ar": "قَلَمُ الرَّصَاص",
+      "pronunciation_de": "[ˈblaɪ̯ˌʃtɪft]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Mit spitzem Bleistift zeichnet der Schüler saubere Skizzen.",
+          "en": "With a sharpened pencil, the student draws neat sketches.",
+          "ar": "يَرْسُمُ التِّلْمِيذُ مُخَطَّطَاتٍ نَظِيفَةً بِقَلَمِ رَصَاصٍ مَبْرِيّ."
+        }
+      ]
+    },
+    {
+      "id": "school_edu_013",
+      "term_de": "das Lineal",
+      "plural_de": "die Lineale",
+      "term_en": "ruler",
+      "term_ar": "المِسْطَرَة",
+      "pronunciation_de": "[lineˈaːl]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Mit dem durchsichtigen Lineal zieht sie gerade Linien im Mathematikheft.",
+          "en": "With the transparent ruler, she draws straight lines in her math notebook.",
+          "ar": "تَسْحَبُ خُطُوطًا مُسْتَقِيمَةً فِي دَفْتَرِ الحِسَابِ بِالمِسْطَرَةِ الشَّفَّافَة."
+        }
+      ]
+    },
+    {
+      "id": "school_edu_014",
+      "term_de": "der Radiergummi",
+      "plural_de": "die Radiergummis",
+      "term_en": "eraser, rubber",
+      "term_ar": "المِمْحَاة",
+      "pronunciation_de": "[ʁaˈdiːɐ̯ˌɡʊmi]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Ein weicher Radiergummi entfernt Bleistiftspuren spurlos vom Papier.",
+          "en": "A soft eraser removes pencil marks trace-free from paper.",
+          "ar": "تُزِيلُ المِمْحَاةُ اللَّيِّنَةُ آثَارَ الرَّصَاصِ عَنِ الوَرَقِ دُونَ أَيِّ أَثَر."
+        }
+      ]
+    },
+    {
+      "id": "school_edu_015",
+      "term_de": "der Anspitzer",
+      "plural_de": "die Anspitzer",
+      "term_en": "pencil sharpener",
+      "term_ar": "المِبْرَاة",
+      "pronunciation_de": "[ˈanˌʃpɪt͡sɐ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der kleine Anspitzer schärft abgebrochene Buntstifte im Handumdrehen.",
+          "en": "The small sharpener sharpens broken crayons in no time.",
+          "ar": "تَبْرِي المِبْرَاةُ الصَّغِيرَةُ أَقْلَامَ التَّلْوِينِ المَكْسُورَةَ فِي لَمْحِ البَصَر."
+        }
+      ]
+    },
+    {
+      "id": "school_edu_016",
+      "term_de": "das Mäppchen",
+      "plural_de": "die Mäppchen",
+      "term_en": "pencil case",
+      "term_ar": "المَقْلَمَة",
+      "pronunciation_de": "[ˈmɛpçən]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Alle Stifte, Lineale und Radiergummis liegen geordnet im Mäppchen.",
+          "en": "All pens, rulers, and erasers lie organized in the pencil case.",
+          "ar": "تَسْتَقِرُّ جَمِيعُ الأَقْلَامِ وَالمَسَاطِرِ وَالمَمَاحِي بِنِظَامٍ فِي المَقْلَمَة."
+        }
+      ]
+    },
+    {
+      "id": "school_edu_017",
+      "term_de": "die Schulstunde",
+      "plural_de": "die Schulstunden",
+      "term_en": "school lesson, class period",
+      "term_ar": "الحِصَّةُ الدِّرَاسِيَّة",
+      "pronunciation_de": "[ˈʃuːlˌʃtʊndə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Eine Schulstunde dauert in der Regel fünfundvierzig Minuten.",
+          "en": "A school lesson usually lasts forty-five minutes.",
+          "ar": "تَمْتَدُّ الحِصَّةُ الدِّرَاسِيَّةُ فِي العَادَةِ لِخَمْسٍ وَأَرْبَعِينَ دَقِيقَة."
+        }
+      ]
+    },
+    {
+      "id": "school_edu_018",
+      "term_de": "die Pause",
+      "plural_de": "die Pausen",
+      "term_en": "recess, school break",
+      "term_ar": "الفُسْحَةُ المَدْرَسِيَّة، الِاسْتِرَاحَة",
+      "pronunciation_de": "[ˈpaʊ̯zə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "In der großen Pause essen die Kinder ihr Pausenbrot und spielen munter.",
+          "en": "During the main recess, children eat their snack and play cheerfully.",
+          "ar": "يَتَنَاوَلُ الأَطْفَالُ فِي الفُسْحَةِ الكَبِيرَةِ شَطَائِرَهُمْ وَيَمْرَحُونَ بِنَشَاط."
+        }
+      ]
+    },
+    {
+      "id": "school_edu_019",
+      "term_de": "der Schulhof",
+      "plural_de": "die Schulhöfe",
+      "term_en": "schoolyard, playground",
+      "term_ar": "فِنَاءُ المَدْرَسَة، السَّاحَة",
+      "pronunciation_de": "[ˈʃuːlˌhoːf]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Auf dem grünen Schulhof gibt es Tischtennisplatten und schattige Bäume.",
+          "en": "In the green schoolyard, there are table tennis tables and shaded trees.",
+          "ar": "تَتَوَفَّرُ فِي فِنَاءِ المَدْرَسَةِ طَاوِلَاتُ تِنِسِ طَاوِلَةٍ وَأَشْجَارٌ ظَلِيلَة."
+        }
+      ]
+    },
+    {
+      "id": "school_edu_020",
+      "term_de": "die Hausaufgabe",
+      "plural_de": "die Hausaufgaben",
+      "term_en": "homework",
+      "term_ar": "الوَاجِبُ المَنْزِلِيّ",
+      "pronunciation_de": "[ˈhaʊ̯sʔaʊ̯fˌɡaːbə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Er erledigt seine Hausaufgaben gewissenhaft gleich nach dem Mittagessen.",
+          "en": "He completes his homework conscientiously right after lunch.",
+          "ar": "يُنْجِزُ وَاجِبَاتِهِ المَنْزِلِيَّةَ بِعِنَايَةٍ مُبَاشَرَةً بَعْدَ طَعَامِ الغَدَاء."
+        }
+      ]
+    },
+    {
+      "id": "school_edu_021",
+      "term_de": "das Zeugnis",
+      "plural_de": "die Zeugnisse",
+      "term_en": "school report, report card",
+      "term_ar": "الشَّهَادَةُ المَدْرَسِيَّة، التَّقْرِير",
+      "pronunciation_de": "[ˈt͡sɔɪ̯knɪs]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Mit Stolz zeigte das fleißige Mädchen ihren Eltern das hervorragende Zeugnis.",
+          "en": "With pride, the diligent girl showed her parents the excellent report card.",
+          "ar": "عَرَضَتِ الفَتَاةُ المُجْتَهِدَةُ بِفَخْرٍ شَهَادَتَهَا المَدْرَسِيَّةَ المُمَيَّزَةَ عَلَى وَالِدَيْهَا."
+        }
+      ]
+    },
+    {
+      "id": "school_edu_022",
+      "term_de": "der Fleiß",
+      "plural_de": "-",
+      "term_en": "diligence, industriousness",
+      "term_ar": "الِاجْتِهَاد، الموَاظَبَة، الدَّأَب",
+      "pronunciation_de": "[flaɪ̯s]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Echter Fleiß und stetes Üben führen zum Meistern jeder Sprache.",
+          "en": "Genuine diligence and constant practice lead to mastering any language.",
+          "ar": "الِاجْتِهَادُ الصَّادِقُ وَالمُمَارَسَةُ المُسْتَمِرَّةُ يَقُودَانِ إِلَى إِتْقَانِ كُلِّ لُغَة."
+        }
+      ]
+    },
+    {
+      "id": "school_edu_023",
+      "term_de": "die Neugier",
+      "plural_de": "-",
+      "term_en": "curiosity, desire to learn",
+      "term_ar": "حُبُّ الِاسْتِطْلَاع، الشَّغَفُ العِلْمِيّ",
+      "pronunciation_de": "[ˈnɔɪ̯ˌɡiːɐ̯]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die gesunde Neugier der Schüler öffnet die Tore zu den Wissenschaften.",
+          "en": "Students' healthy curiosity opens the gates to the sciences.",
+          "ar": "يَفْتَحُ حُبُّ الِاسْتِطْلَاعِ لَدَى التَّلَامِيذِ أَبْوَابَ العُلُومِ النَّافِعَة."
+        }
+      ]
+    },
+    {
+      "id": "school_edu_024",
+      "term_de": "die Vorfreude",
+      "plural_de": "-",
+      "term_en": "anticipation, joyous expectation",
+      "term_ar": "البَهْجَةُ وَالتَّطَلُّعُ لِلْبِدَايَة",
+      "pronunciation_de": "[ˈfoːɐ̯ˌfʁɔɪ̯də]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Mit großer Vorfreude erwarten die Schulanfänger ihren ersten Schultag.",
+          "en": "With great anticipation, first graders await their first school day.",
+          "ar": "يَنْتَظِرُ التَّلَامِيذُ الجُدُدُ يَوْمَهُمُ المَدْرَسِيَّ الأَوَّلَ بِبَهْجَةٍ وَشَغَف."
+        }
+      ]
+    },
+    {
+      "id": "school_edu_025",
+      "term_de": "der Wissensdurst",
+      "plural_de": "-",
+      "term_en": "thirst for knowledge",
+      "term_ar": "التَّعَطُّشُ لِلْمَعْرِفَة، الإِقْبَالُ عَلَى العِلْم",
+      "pronunciation_de": "[ˈvɪsn̩sˌdʊʁst]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Gute Lehrer stillen den Wissensdurst ihrer Schüler mit Weisheit.",
+          "en": "Good teachers satisfy their students' thirst for knowledge with wisdom.",
+          "ar": "يُرْوِي المُعَلِّمُونَ الصَّالِحُونَ تَعَطُّشَ تَلَامِيذِهِمْ لِلْعِلْمِ بِالحِكْمَةِ وَالمَوْعِظَةِ الحَسَنَة."
+        }
+      ]
+    }
+  ]
+}

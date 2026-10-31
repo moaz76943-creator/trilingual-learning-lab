@@ -1,0 +1,409 @@
+{
+  "category_id": "rivers_waters_nature_a2",
+  "category_name_de": "Gewässer, Flüsse & Das Leben am Wasser",
+  "category_name_en": "Waters, Rivers & Coastal Nature",
+  "category_name_ar": "المِيَاهُ العَذْبَةُ وَالأَنْهَارُ وَالحَيَاةُ المَائِيَّة",
+  "level": "A2+",
+  "items": [
+    {
+      "id": "river_water_001",
+      "term_de": "das Wasser",
+      "plural_de": "-",
+      "term_en": "fresh water",
+      "term_ar": "المَاءُ العَذْب، نِعْمَةُ الحَيَاة",
+      "pronunciation_de": "[ˈvasɐ]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Klares, reines Wasser ist die Lebensgrundlage für Mensch, Tier und Pflanze.",
+          "en": "Clear, pure water is the foundation of life for humans, animals, and plants.",
+          "ar": "المَاءُ النَّقِيُّ الصَّافِي أَسَاسُ الحَيَاةِ لِلإِنْسَانِ وَالحَيَوَانِ وَالنَّبَات."
+        }
+      ]
+    },
+    {
+      "id": "river_water_002",
+      "term_de": "der Fluss",
+      "plural_de": "die Flüsse",
+      "term_en": "river",
+      "term_ar": "النَّهْر",
+      "pronunciation_de": "[flʊs]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der breite Fluss schlängelt sich sanft durch fruchtbare Täler.",
+          "en": "The wide river winds gently through fertile valleys.",
+          "ar": "يَنْسَابُ النَّهْرُ الفَسِيحُ بِلُطْفٍ عَبْرَ الوِدْيَانِ الخَصِيبَة."
+        }
+      ]
+    },
+    {
+      "id": "river_water_003",
+      "term_de": "das Ufer",
+      "plural_de": "die Ufer",
+      "term_en": "riverbank, shore",
+      "term_ar": "ضَفَّةُ النَّهْر، الشَّاطِئ",
+      "pronunciation_de": "[ˈuːfɐ]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Am schattigen Flussufer wachsen grüne Schilfgräser und Weidenbäume.",
+          "en": "On the shaded riverbank grow green reeds and willow trees.",
+          "ar": "تَنْمُو أَعْشَابُ القَصَبِ الخَضْرَاءُ وَأَشْجَارُ الصَّفْصَافِ عَلَى ضَفَّةِ النَّهْرِ الظَّلِيلَة."
+        }
+      ]
+    },
+    {
+      "id": "river_water_004",
+      "term_de": "der See",
+      "plural_de": "die Seen",
+      "term_en": "lake",
+      "term_ar": "البُحَيْرَة",
+      "pronunciation_de": "[zeː]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der stille Bergsee spiegelt die schneebedeckten Gipfel wider.",
+          "en": "The calm mountain lake reflects the snow-covered peaks.",
+          "ar": "تَعْكِسُ البُحَيْرَةُ الجَبَلِيَّةُ الهَادِئَةُ صُورَةَ القِمَمِ المُغَطَّاةِ بِالثَّلْج."
+        }
+      ]
+    },
+    {
+      "id": "river_water_005",
+      "term_de": "das Meer",
+      "plural_de": "die Meere",
+      "term_en": "sea",
+      "term_ar": "البَحْر",
+      "pronunciation_de": "[meːɐ̯]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Die Weite des blauen Meeres flößt der Seele Ruhe und Frieden ein.",
+          "en": "The expanse of the blue sea instills peace and calm in the soul.",
+          "ar": "اتِّسَاعُ البَحْرِ الأَزْرَقِ يَبُثُّ فِي النَّفْسِ سَكِينَةً وَطُمَأْنِينَة."
+        }
+      ]
+    },
+    {
+      "id": "river_water_006",
+      "term_de": "der Ozean",
+      "plural_de": "die Ozeane",
+      "term_en": "ocean",
+      "term_ar": "المُحِيط",
+      "pronunciation_de": "[ʔoˈt͡seːan]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Die tiefen Ozeane bergen faszinierende Lebenswelten voller Wunder.",
+          "en": "The deep oceans harbor fascinating living worlds full of wonders.",
+          "ar": "تَحْتَضِنُ المُحِيطَاتُ العَمِيقَةُ عَوَالِمَ حَيَّةً مُذْهِلَةً زَاخِرَةً بِالعَجَائِب."
+        }
+      ]
+    },
+    {
+      "id": "river_water_007",
+      "term_de": "die Quelle",
+      "plural_de": "die Quellen",
+      "term_en": "spring, water source",
+      "term_ar": "اليَنْبُوع، النَّبْعُ الصَّافِي",
+      "pronunciation_de": "[ˈkvɛlə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Kühles Quellwasser sprudelt frisch aus dem Felsen hervor.",
+          "en": "Cool spring water bubbles freshly from the rock.",
+          "ar": "يَتَفَجَّرُ مَاءُ اليَنْبُوعِ البَارِدُ طَازَجًا مِنْ بَيْنِ الصُّخُور."
+        }
+      ]
+    },
+    {
+      "id": "river_water_008",
+      "term_de": "der Bach",
+      "plural_de": "die Bäche",
+      "term_en": "brook, stream, creek",
+      "term_ar": "الجَدْوَل، الغَدِير",
+      "pronunciation_de": "[bax]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Ein munterer Bach plätschert fröhlich über runde Kieselsteine.",
+          "en": "A cheerful brook babbles merrily over round pebbles.",
+          "ar": "يَخْرْخِرُ جَدْوَلٌ نَشِيطٌ بِمَرَحٍ فَوْقَ الحَصَى المُسْتَدِير."
+        }
+      ]
+    },
+    {
+      "id": "river_water_009",
+      "term_de": "der Wasserfall",
+      "plural_de": "die Wasserfälle",
+      "term_en": "waterfall",
+      "term_ar": "الشَّلَّال",
+      "pronunciation_de": "[ˈvasɐˌfal]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Mit gewaltigem Rauschen stürzt der Wasserfall in die Schlucht hinab.",
+          "en": "With mighty roaring, the waterfall plunges down into the gorge.",
+          "ar": "يَهْوِي الشَّلَّالُ بِدَوِيٍّ عَظِيمٍ فِي أَعْمَاقِ الوَادِي السَّحِيق."
+        }
+      ]
+    },
+    {
+      "id": "river_water_010",
+      "term_de": "die Welle",
+      "plural_de": "die Wellen",
+      "term_en": "wave",
+      "term_ar": "المَوْجَة",
+      "pronunciation_de": "[ˈvɛlə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Sanfte Wellen rollen im Rhythmus des Meeres an den Sandstrand.",
+          "en": "Gentle waves roll in the rhythm of the sea onto the sandy beach.",
+          "ar": "تَتَهَادَى الأَمْوَاجُ الرَّقِيقَةُ بِإِيقَاعِ البَحْرِ نَحْوَ الشَّاطِئِ الرَّمْلِيّ."
+        }
+      ]
+    },
+    {
+      "id": "river_water_011",
+      "term_de": "die Strömung",
+      "plural_de": "die Strömungen",
+      "term_en": "water current",
+      "term_ar": "التَّيَّارُ المَائِيّ",
+      "pronunciation_de": "[ˈʃtʁøːmʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Erfahrene Schwimmer meiden gefährliche Strömungen im Fluss.",
+          "en": "Experienced swimmers avoid dangerous currents in the river.",
+          "ar": "يَتَجَنَّبُ السَّبَّاحُونَ المَهَرَةُ التَّيَّارَاتِ المَائِيَّةَ الخَطِرَةَ فِي النَّهْر."
+        }
+      ]
+    },
+    {
+      "id": "river_water_012",
+      "term_de": "die Brücke",
+      "plural_de": "die Brücken",
+      "term_en": "bridge",
+      "term_ar": "الجِسْر، القَنْطَرَة",
+      "pronunciation_de": "[ˈbʁʏkə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die alte Steinbrücke verbindet die beiden Ufer der historischen Stadt.",
+          "en": "The old stone bridge connects the two banks of the historic city.",
+          "ar": "يَصِلُ الجِسْرُ الحَجَرِيُّ القَدِيمُ بَيْنَ ضَفَّتَيِ المَدِينَةِ التَّارِيخِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "river_water_013",
+      "term_de": "das Schiff",
+      "plural_de": "die Schiffe",
+      "term_en": "ship, vessel",
+      "term_ar": "السَّفِينَة",
+      "pronunciation_de": "[ʃɪf]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das weiße Passagierschiff gleitet majestätisch über das ruhige Wasser.",
+          "en": "The white passenger ship glides majestically over the calm water.",
+          "ar": "تَنْسَابُ سَفِينَةُ الرُّكَّابِ البَيْضَاءُ بِشُمُوخٍ فَوْقَ المِيَاهِ الهَادِئَة."
+        }
+      ]
+    },
+    {
+      "id": "river_water_014",
+      "term_de": "das Boot",
+      "plural_de": "die Boote",
+      "term_en": "boat",
+      "term_ar": "القَارِب، الزَّوْرَق",
+      "pronunciation_de": "[boːt]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Ein kleines Holzboot schaukelt friedlich am Anlegesteg.",
+          "en": "A small wooden boat rocks peacefully at the pier.",
+          "ar": "يَتَمَايَلُ قَارِبٌ خَشَبِيٌّ صَغِيرٌ بِهُدُوءٍ عِنْدَ رَصِيفِ الرُّسُوّ."
+        }
+      ]
+    },
+    {
+      "id": "river_water_015",
+      "term_de": "der Hafen",
+      "plural_de": "die Häfen",
+      "term_en": "harbor, port",
+      "term_ar": "المِينَاء، المَرْفَأ",
+      "pronunciation_de": "[ˈhaːfn̩]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Im geschützten Hafen finden Schiffe sichere Zuflucht vor Stürmen.",
+          "en": "In the sheltered harbor, ships find safe haven from storms.",
+          "ar": "تَجِدُ السُّفُنُ فِي المِينَاءِ المَحْمِيِّ مَلَاذًا آمِنًا مِنَ العَوَاصِف."
+        }
+      ]
+    },
+    {
+      "id": "river_water_016",
+      "term_de": "der Leuchtturm",
+      "plural_de": "die Leuchttürme",
+      "term_en": "lighthouse",
+      "term_ar": "المَنَارَة",
+      "pronunciation_de": "[ˈlɔɪ̯çtˌtʊʁm]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der Leuchtturm weist den Seefahrern in dunkler Nacht den sicheren Weg.",
+          "en": "The lighthouse guides seafarers safely on their way in the dark night.",
+          "ar": "تُرْشِدُ المَنَارَةُ البَحَّارَةَ فِي اللَّيْلِ البَهِيمِ إِلَى طَرِيقِ الأَمَان."
+        }
+      ]
+    },
+    {
+      "id": "river_water_017",
+      "term_de": "die Insel",
+      "plural_de": "die Inseln",
+      "term_en": "island",
+      "term_ar": "الجَزِيرَة",
+      "pronunciation_de": "[ˈɪnzl̩]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die grüne Insel liegt malerisch inmitten des weiten Sees.",
+          "en": "The green island lies picturesque in the middle of the wide lake.",
+          "ar": "تَسْتَقِرُّ الجَزِيرَةُ الخَضْرَاءُ بِمَنْظَرٍ بَدِيعٍ فِي وَسَطِ البُحَيْرَةِ الفَسِيحَة."
+        }
+      ]
+    },
+    {
+      "id": "river_water_018",
+      "term_de": "der Strand",
+      "plural_de": "die Strände",
+      "term_en": "beach, sandy shore",
+      "term_ar": "الشَّاطِئُ الرَّمْلِيّ",
+      "pronunciation_de": "[ʃtʁant]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Kinder sammeln bunte Muscheln am feinen Sandstrand.",
+          "en": "Children collect colorful seashells on the fine sandy beach.",
+          "ar": "يَجْمَعُ الأَطْفَالُ الأَصْدَافَ المُلَوَّنَةَ عَلَى الشَّاطِئِ الرَّمْلِيِّ النَّاعِم."
+        }
+      ]
+    },
+    {
+      "id": "river_water_019",
+      "term_de": "die Küste",
+      "plural_de": "die Küsten",
+      "term_en": "coast, coastline",
+      "term_ar": "السَّاحِل",
+      "pronunciation_de": "[ˈkʏstə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Entlang der felsigen Küste weht ein erfrischender Seewind.",
+          "en": "Along the rocky coast blows a refreshing sea breeze.",
+          "ar": "تَهُبُّ نَسَمَاتٌ بَحْرِيَّةٌ مُنْعِشَةٌ عَلَى طُولِ السَّاحِلِ الصَّخْرِيّ."
+        }
+      ]
+    },
+    {
+      "id": "river_water_020",
+      "term_de": "der Fisch",
+      "plural_de": "die Fische",
+      "term_en": "fish",
+      "term_ar": "السَّمَك",
+      "pronunciation_de": "[fɪʃ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Silberne Fische schwimmen munter im klaren Flusswasser.",
+          "en": "Silver fish swim briskly in the clear river water.",
+          "ar": "تَسْبَحُ الأَسْمَاكُ الفِضِّيَّةُ بِنَشَاطٍ فِي مِيَاهِ النَّهْرِ الصَّافِيَة."
+        }
+      ]
+    },
+    {
+      "id": "river_water_021",
+      "term_de": "das Korallenriff",
+      "plural_de": "die Korallenriffe",
+      "term_en": "coral reef",
+      "term_ar": "الشِّعَابُ المَرْجَانِيَّة",
+      "pronunciation_de": "[koˈʁaln̩ˌʁɪf]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das bunte Korallenriff bietet unzähligen Meeresbewohnern Schutz und Nahrung.",
+          "en": "The colorful coral reef offers shelter and food to countless sea creatures.",
+          "ar": "تُوَفِّرُ الشِّعَابُ المَرْجَانِيَّةُ المُلَوَّنَةُ المَأْوَى وَالغِذَاءَ لِكَائِنَاتٍ بَحْرِيَّةٍ لَا تُحْصَى."
+        }
+      ]
+    },
+    {
+      "id": "river_water_022",
+      "term_de": "der Tau",
+      "plural_de": "-",
+      "term_en": "morning dew",
+      "term_ar": "النَّدَى الصَّبَاحِيّ",
+      "pronunciation_de": "[taʊ̯]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Glitzernder Morgentau liegt wie Perlen auf den Gräsern der Uferwiese.",
+          "en": "Glittering morning dew lies like pearls on the grasses of the river meadow.",
+          "ar": "يَسْتَقِرُّ النَّدَى الصَّبَاحِيُّ اللَّامِعُ كَاللَّآلِئِ عَلَى أَعْشَابِ المَرْج."
+        }
+      ]
+    },
+    {
+      "id": "river_water_023",
+      "term_de": "der Wasserdampf",
+      "plural_de": "-",
+      "term_en": "water vapor",
+      "term_ar": "بُخَارُ المَاء",
+      "pronunciation_de": "[ˈvasɐˌdamp͡f]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Durch Sonnenwärme steigt unsichtbarer Wasserdampf in den Himmel auf.",
+          "en": "Through solar warmth, invisible water vapor rises into the sky.",
+          "ar": "يَصْعَدُ بُخَارُ المَاءِ إِلَى السَّمَاءِ بِفِعْلِ حَرَارَةِ الشَّمْس."
+        }
+      ]
+    },
+    {
+      "id": "river_water_024",
+      "term_de": "der Wasserkreislauf",
+      "plural_de": "-",
+      "term_en": "hydrological cycle, water cycle",
+      "term_ar": "دَوْرَةُ المِيَاهِ فِي الطَّبِيعَة",
+      "pronunciation_de": "[ˈvasɐˌkʁaɪ̯slaʊ̯f]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der ewige Wasserkreislauf versorgt die Kontinente mit lebenspendendem Regen.",
+          "en": "The eternal water cycle supplies the continents with life-giving rain.",
+          "ar": "تَمُدُّ دَوْرَةُ المِيَاهِ المُسْتَمِرَّةُ القَارَّاتِ بِالأَمْطَارِ المُحْيِيَةِ لِلأَرْض."
+        }
+      ]
+    },
+    {
+      "id": "river_water_025",
+      "term_de": "die Reinheit",
+      "plural_de": "-",
+      "term_en": "water purity, clarity",
+      "term_ar": "عُذُوبَةُ المَاءِ وَنَقَاؤُه",
+      "pronunciation_de": "[ˈʁaɪ̯nhaɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Reinheit des Gebirgswassers schmeckt man bei jedem Schluck.",
+          "en": "The purity of the mountain water is tasted in every sip.",
+          "ar": "يَسْتَشْعِرُ المَرْءُ عُذُوبَةَ مَاءِ الجِبَالِ مَعَ كُلِّ رَشْفَة."
+        }
+      ]
+    }
+  ]
+}

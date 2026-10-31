@@ -1,0 +1,409 @@
+{
+  "category_id": "airport_air_travel_a2",
+  "category_name_de": "Flughafen, Flugreise & Internationales Reisen",
+  "category_name_en": "Airport, Air Travel & International Journeys",
+  "category_name_ar": "الرِّحْلَاتُ الجَوِّيَّةُ وَالمَطَارَاتُ وَالسَّفَرُ الدَّوْلِيّ",
+  "level": "A2+",
+  "items": [
+    {
+      "id": "airport_travel_001",
+      "term_de": "der Flughafen",
+      "plural_de": "die Flughäfen",
+      "term_en": "airport",
+      "term_ar": "المَطَار",
+      "pronunciation_de": "[ˈfluːkˌhaːfn̩]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der internationale Flughafen ist modern, sauber und bestens organisiert.",
+          "en": "The international airport is modern, clean, and excellently organized.",
+          "ar": "المَطَارُ الدَّوْلِيُّ حَدِيثٌ وَنَظِيفٌ وَمُنَظَّمٌ عَلَى أَعْلَى مُسْتَوًى."
+        }
+      ]
+    },
+    {
+      "id": "airport_travel_002",
+      "term_de": "das Flugzeug",
+      "plural_de": "die Flugzeuge",
+      "term_en": "airplane, aircraft",
+      "term_ar": "الطَّائِرَة",
+      "pronunciation_de": "[ˈfluːkˌt͡sɔɪ̯k]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das große Flugzeug gleitet ruhig über den weißen Wolken.",
+          "en": "The large airplane glides smoothly above the white clouds.",
+          "ar": "تَنْسَابُ الطَّائِرَةُ الكَبِيرَةُ بِهُدُوءٍ فَوْقَ السَّحَابِ الأَبْيَض."
+        }
+      ]
+    },
+    {
+      "id": "airport_travel_003",
+      "term_de": "der Flug",
+      "plural_de": "die Flüge",
+      "term_en": "flight",
+      "term_ar": "الرِّحْلَةُ الجَوِّيَّة",
+      "pronunciation_de": "[fluːk]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der direkte Flug nach Frankfurt verlief ruhig und ohne Turbulenzen.",
+          "en": "The direct flight to Frankfurt was calm and without turbulence.",
+          "ar": "مَرَّتِ الرِّحْلَةُ الجَوِّيَّةُ المُبَاشِرَةُ إِلَى فَرَاكْفُورْت بِهُدُوءٍ دُونَ مَطَبَّاتٍ هَوَائِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "airport_travel_004",
+      "term_de": "das Terminal",
+      "plural_de": "die Terminals",
+      "term_en": "airport terminal",
+      "term_ar": "صَالَةُ الرُّكَّاب، مَبْنَى المَطَار",
+      "pronunciation_de": "[ˈtœːɐ̯mɪnl̩]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Im Terminal eins befinden sich die Check-in-Schalter für internationale Flüge.",
+          "en": "In Terminal 1 are the check-in counters for international flights.",
+          "ar": "تَقَعُ مَكَاتِبُ التَّسْجِيلِ لِلرِّحْلَاتِ الدَّوْلِيَّةِ فِي المَبْنَى رَقْمِ وَاحِد."
+        }
+      ]
+    },
+    {
+      "id": "airport_travel_005",
+      "term_de": "der Flugsteig",
+      "plural_de": "die Flugsteige",
+      "term_en": "gate, departure gate",
+      "term_ar": "بَوَّابَةُ الصُّعُودِ إِلَى الطَّائِرَة",
+      "pronunciation_de": "[ˈfluːkˌʃtaɪ̯k]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Das Einsteigen beginnt in zwanzig Minuten an Flugsteig B zwölf.",
+          "en": "Boarding begins in twenty minutes at Gate B12.",
+          "ar": "يَبْدَأُ الصُّعُودُ إِلَى الطَّائِرَةِ خِلَالَ عِشْرِينَ دَقِيقَةً عِنْدَ البَوَّابَةِ بَاء اثْنَيْ عَشَر."
+        }
+      ]
+    },
+    {
+      "id": "airport_travel_006",
+      "term_de": "die Bordkarte",
+      "plural_de": "die Bordkarten",
+      "term_en": "boarding pass",
+      "term_ar": "بِطَاقَةُ صُعُودِ الطَّائِرَة",
+      "pronunciation_de": "[ˈbɔʁtˌkaʁtə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Halten Sie bitte Ihre Bordkarte und den Pass am Gate bereit.",
+          "en": "Please have your boarding pass and passport ready at the gate.",
+          "ar": "يُرْجَى إِبْرَازُ بِطَاقَةِ الصُّعُودِ وَجَوَازِ السَّفَرِ عِنْدَ البَوَّابَة."
+        }
+      ]
+    },
+    {
+      "id": "airport_travel_007",
+      "term_de": "der Reisepass",
+      "plural_de": "die Reisepässe",
+      "term_en": "passport",
+      "term_ar": "جَوَازُ السَّفَر",
+      "pronunciation_de": "[ˈʁaɪ̯zəˌpas]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der Reisepass muss für Auslandsreisen noch mindestens sechs Monate gültig sein.",
+          "en": "The passport must be valid for at least six months for international travel.",
+          "ar": "يَجِبُ أَنْ يَكُونَ جَوَازُ السَّفَرِ صَالِحًا لِسِتَّةِ أَشْهُرٍ عَلَى الأَقَلِّ عِنْدَ السَّفَرِ لِلخَارِج."
+        }
+      ]
+    },
+    {
+      "id": "airport_travel_008",
+      "term_de": "die Sicherheitskontrolle",
+      "plural_de": "die Sicherheitskontrollen",
+      "term_en": "security check",
+      "term_ar": "نُقْطَةُ التَّفْتِيشِ الأَمْنِيّ",
+      "pronunciation_de": "[ˈzɪçɐhaɪ̯tskɔnˌtʁɔlə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "An der Sicherheitskontrolle legt man metallische Gegenstände in die Schale.",
+          "en": "At the security check, you place metallic objects into the tray.",
+          "ar": "يَضَعُ المَرْءُ الأَشْيَاءَ المَعْدِنِيَّةَ فِي الوِعَاءِ عِنْدَ نُقْطَةِ التَّفْتِيشِ الأَمْنِيّ."
+        }
+      ]
+    },
+    {
+      "id": "airport_travel_009",
+      "term_de": "das Handgepäck",
+      "plural_de": "-",
+      "term_en": "carry-on baggage, hand luggage",
+      "term_ar": "حَقِيبَةُ اليَد، الأَمْتِعَةُ المَحْمُولَة",
+      "pronunciation_de": "[ˈhantɡəˌpɛk]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das Handgepäck passt bequem in das Gepäckfach über den Sitzen.",
+          "en": "The carry-on luggage fits comfortably into the overhead compartment.",
+          "ar": "تَتَّسِعُ حَقِيبَةُ اليَدِ بِيُسْرٍ فِي خِزَانَةِ الأَمْتِعَةِ العُلْوِيَّةِ فَوْقَ المَقَاعِد."
+        }
+      ]
+    },
+    {
+      "id": "airport_travel_010",
+      "term_de": "der Koffer",
+      "plural_de": "die Koffer",
+      "term_en": "suitcase",
+      "term_ar": "حَقِيبَةُ السَّفَرِ الكَبِيرَة",
+      "pronunciation_de": "[ˈkɔfɐ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der robuste Koffer schützt die Kleidung zuverlässig auf langen Reisen.",
+          "en": "The sturdy suitcase reliably protects clothing on long journeys.",
+          "ar": "تَحْمِي حَقِيبَةُ السَّفَرِ المَتِينَةُ المَلَابِسَ بِمَوْثُوقِيَّةٍ فِي الرِّحْلَاتِ الطَّوِيلَة."
+        }
+      ]
+    },
+    {
+      "id": "airport_travel_011",
+      "term_de": "die Gepäckausgabe",
+      "plural_de": "die Gepäckausgaben",
+      "term_en": "baggage claim",
+      "term_ar": "مِنْطَقَةُ اسْتِلَامِ الأَمْتِعَة",
+      "pronunciation_de": "[ɡəˈpɛkʔaʊ̯sˌɡaːbə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Nach der Passkontrolle folgt man den Schildern zur Gepäckausgabe.",
+          "en": "After passport control, follow the signs to the baggage claim.",
+          "ar": "يَتَّبِعُ المُسَافِرُ اللَّافِتَاتِ إِلَى مِنْطَقَةِ اسْتِلَامِ الأَمْتِعَةِ بَعْدَ فَتْرَةِ الجَوَازَات."
+        }
+      ]
+    },
+    {
+      "id": "airport_travel_012",
+      "term_de": "das Gepäckband",
+      "plural_de": "die Gepäckbänder",
+      "term_en": "baggage carousel",
+      "term_ar": "شَرِيطُ الأَمْتِعَةِ المُتَحَرِّك",
+      "pronunciation_de": "[ɡəˈpɛkˌbant]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Die Koffer erscheinen nach und nach auf dem rotierenden Gepäckband.",
+          "en": "The suitcases appear one by one on the rotating baggage carousel.",
+          "ar": "تَظْهَرُ الحَقَائِبُ تِبَاعًا عَلَى شَرِيطِ الأَمْتِعَةِ الدَّوَّار."
+        }
+      ]
+    },
+    {
+      "id": "airport_travel_013",
+      "term_de": "der Abflug",
+      "plural_de": "die Abflüge",
+      "term_en": "departure",
+      "term_ar": "الإِقْلَاع، المُغَادَرَةُ الجَوِّيَّة",
+      "pronunciation_de": "[ˈapˌfluːk]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Die Anzeigetafel meldet den pünktlichen Abflug unseres Flugzeugs.",
+          "en": "The display board announces the punctual departure of our plane.",
+          "ar": "تُعْلِنُ شَاشَةُ المَوَاعِيدِ عَنِ الإِقْلَاعِ المُنْضَبِطِ لِطَائِرَتِنَا فِي الوَقْتِ المُحَدَّد."
+        }
+      ]
+    },
+    {
+      "id": "airport_travel_014",
+      "term_de": "die Landung",
+      "plural_de": "die Landungen",
+      "term_en": "landing, arrival",
+      "term_ar": "الهُبُوط، الوُصُولُ الجَوِّيّ",
+      "pronunciation_de": "[ˈlandʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die sanfte Landung auf der beleuchteten Piste verlief reibungslos.",
+          "en": "The smooth landing on the illuminated runway went perfectly.",
+          "ar": "تَمَّ الهُبُوطُ السَّلِسُ عَلَى المَدْرَجِ المُضَاءِ بِسَلَاسَةٍ تَامَّة."
+        }
+      ]
+    },
+    {
+      "id": "airport_travel_015",
+      "term_de": "der Flugkapitän",
+      "plural_de": "die Flugkapitäne",
+      "term_en": "flight captain, pilot",
+      "term_ar": "قُبْطَانُ الطَّائِرَة، الطَّيَّار",
+      "pronunciation_de": "[ˈfluːkkapiˌtɛːn]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der erfahrene Flugkapitän begrüßte die Fluggäste mit ruhiger Stimme.",
+          "en": "The experienced flight captain welcomed passengers with a calm voice.",
+          "ar": "رَحَّبَ قُبْطَانُ الطَّائِرَةِ الخَبِيرُ بِالمُسَافِرِينَ بِصَوْتٍ وَقُورٍ مُطَمْئِن."
+        }
+      ]
+    },
+    {
+      "id": "airport_travel_016",
+      "term_de": "die Flugbegleiterin",
+      "plural_de": "die Flugbegleiterinnen",
+      "term_en": "flight attendant, stewardess",
+      "term_ar": "مُضِيفَةُ الطَّيَرَان",
+      "pronunciation_de": "[ˈfluːkbəˌɡlaɪ̯təʁɪn]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die aufmerksame Flugbegleiterin servierte frisches Wasser und Fruchtsäfte.",
+          "en": "The attentive flight attendant served fresh water and fruit juices.",
+          "ar": "قَدَّمَتْ مُضِيفَةُ الطَّيَرَانِ اللَّبِقَةُ المَاءَ العَذْبَ وَعَصَائِرَ الفَاكِهَة."
+        }
+      ]
+    },
+    {
+      "id": "airport_travel_017",
+      "term_de": "der Gangplatz",
+      "plural_de": "die Gangplätze",
+      "term_en": "aisle seat",
+      "term_ar": "مَقْعَدُ المَمَرّ",
+      "pronunciation_de": "[ˈɡaŋˌplat͡s]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Auf Langstreckenflügen wählt er gerne einen bequemen Gangplatz.",
+          "en": "On long-haul flights, he prefers choosing a comfortable aisle seat.",
+          "ar": "يُفَضِّلُ اخْتِيَارَ مَقْعَدِ المَمَرِّ المُرِيحِ فِي الرِّحْلَاتِ الطَّوِيلَة."
+        }
+      ]
+    },
+    {
+      "id": "airport_travel_018",
+      "term_de": "der Fensterplatz",
+      "plural_de": "die Fensterplätze",
+      "term_en": "window seat",
+      "term_ar": "مَقْعَدُ النَّافِذَة",
+      "pronunciation_de": "[ˈfɛnstɐˌplat͡s]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Vom Fensterplatz aus genießt man den herrlichen Blick auf die schneebedeckten Alpen.",
+          "en": "From the window seat, you enjoy the splendid view of the snow-covered Alps.",
+          "ar": "يَسْتَمْتِعُ المَرْءُ مِنْ مَقْعَدِ النَّافِذَةِ بِمَنْظَرِ جِبَالِ الأَلْبِ المُكَلَّلَةِ بِالثَّلْج."
+        }
+      ]
+    },
+    {
+      "id": "airport_travel_019",
+      "term_de": "der Sicherheitsgurt",
+      "plural_de": "die Sicherheitsgurte",
+      "term_en": "seatbelt",
+      "term_ar": "حِزَامُ الأَمَان",
+      "pronunciation_de": "[ˈzɪçɐhaɪ̯t͡sˌɡʊʁt]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Bitte bleiben Sie während Start und Landung fest mit dem Sicherheitsgurt angeschnallt.",
+          "en": "Please remain firmly fastened with your seatbelt during takeoff and landing.",
+          "ar": "يُرْجَى البَقَاءُ مَرْبُوطِينَ بِحِزَامِ الأَمَانِ بِإِحْكَامٍ أَثْنَاءَ الإِقْلَاعِ وَالهُبُوط."
+        }
+      ]
+    },
+    {
+      "id": "airport_travel_020",
+      "term_de": "die Flugdauer",
+      "plural_de": "-",
+      "term_en": "flight duration",
+      "term_ar": "مُدَّةُ الرِّحْلَةِ الجَوِّيَّة",
+      "pronunciation_de": "[ˈfluːkˌdaʊ̯ɐ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die voraussichtliche Flugdauer nach Istanbul beträgt drei Stunden und zwanzig Minuten.",
+          "en": "The estimated flight duration to Istanbul is three hours and twenty minutes.",
+          "ar": "تَبْلُغُ مُدَّةُ الرِّحْلَةِ المُتَوَقَّعَةُ إِلَى إِسْطَنْبُول ثَلَاثَ سَاعَاتٍ وَعِشْرِينَ دَقِيقَة."
+        }
+      ]
+    },
+    {
+      "id": "airport_travel_021",
+      "term_de": "das Reiseziel",
+      "plural_de": "die Reiseziele",
+      "term_en": "travel destination",
+      "term_ar": "وِجْهَةُ السَّفَر، المَقْصِد",
+      "pronunciation_de": "[ˈʁaɪ̯zəˌt͡siːl]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Unser Reiseziel ist eine geschichtsträchtige Stadt mit reicher Kultur.",
+          "en": "Our travel destination is a historic city with rich culture.",
+          "ar": "وِجْهَةُ سَفَرِنَا مَدِينَةٌ عَارِقَةٌ فِي التَّارِيخِ غَنِيَّةٌ بِالثَّقَافَة."
+        }
+      ]
+    },
+    {
+      "id": "airport_travel_022",
+      "term_de": "der Zoll",
+      "plural_de": "-",
+      "term_en": "customs",
+      "term_ar": "الجُمْرُك، التَّفْتِيشُ الجُمْرُكِيّ",
+      "pronunciation_de": "[t͡sɔl]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Die Zollbeamten kontrollieren die Freimengen bei der Einreise freundlich.",
+          "en": "The customs officers check duty-free allowances amiably upon entry.",
+          "ar": "يُدَقِّقُ ضُبَّاطُ الجَمَارِكِ فِي الحُدُودِ المَسْمُوحِ بِهَا عِنْدَ الدُّخُولِ بِكُلِّ لَبَاقَة."
+        }
+      ]
+    },
+    {
+      "id": "airport_travel_023",
+      "term_de": "der Zwischenstopp",
+      "plural_de": "die Zwischenstopps",
+      "term_en": "layover, stopover",
+      "term_ar": "التَّوَقُّفُ المُؤَقَّت، التَّرَانْزِيت",
+      "pronunciation_de": "[ˈt͡svɪʃn̩ˌʃtɔp]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der kurze Zwischenstopp in Doha gab Zeit für ein entspanntes Gebet.",
+          "en": "The short layover in Doha provided time for a relaxed prayer.",
+          "ar": "أَتَاحَ التَّوَقُّفُ القَصِيرُ فِي الدَّوْحَةِ وَقْتًا لِأَدَاءِ الصَّلَاةِ بِطُمَأْنِينَة."
+        }
+      ]
+    },
+    {
+      "id": "airport_travel_024",
+      "term_de": "die Ankunftshalle",
+      "plural_de": "die Ankunftshallen",
+      "term_en": "arrival hall",
+      "term_ar": "صَالَةُ الوُصُول",
+      "pronunciation_de": "[ˈankʊnft͡sˌhalə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "In der Ankunftshalle wurden die Gäste mit herzlichen Willkommensschildern empfangen.",
+          "en": "In the arrival hall, the guests were welcomed with warm welcome signs.",
+          "ar": "اسْتُقْبِلَ الضُّيُوفُ فِي صَالَةِ الوُصُولِ بِلَافِتَاتِ تَرْحِيبٍ دَافِئَة."
+        }
+      ]
+    },
+    {
+      "id": "airport_travel_025",
+      "term_de": "die Reiselust",
+      "plural_de": "-",
+      "term_en": "wanderlust, joy of traveling",
+      "term_ar": "الشَّغَفُ بِالسَّفَرِ وَاسْتِكْشَافِ الآفَاق",
+      "pronunciation_de": "[ˈʁaɪ̯zəˌlʊst]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Reiselust erweitert den Horizont und lehrt Bescheidenheit vor der weiten Welt.",
+          "en": "Joy of travel broadens the horizon and teaches humility before the wide world.",
+          "ar": "السَّفَرُ يُوَسِّعُ المَدَارِكَ وَيُعَلِّمُ التَّوَاضُعَ أَمَامَ سَعَةِ الكَوْنِ وَخَيْرَاتِه."
+        }
+      ]
+    }
+  ]
+}

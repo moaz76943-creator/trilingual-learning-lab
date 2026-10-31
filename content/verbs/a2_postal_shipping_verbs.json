@@ -1,0 +1,909 @@
+{
+  "category_id": "a2_postal_shipping_verbs",
+  "category_name_de": "Post-, Versand- und Korrespondenzverben",
+  "category_name_en": "Postal, Shipping & Correspondence Verbs",
+  "category_name_ar": "أفعال البريد والشحن والمراسلات",
+  "level": "A1/A2",
+  "verbs": [
+    {
+      "id": "verb_postal_001",
+      "infinitive": "schicken",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "einen Brief oder ein Geschenk auf den Weg bringen",
+      "meaning_en": "to send, mail",
+      "meaning_ar": "يُرْسِلُ، يَبْعَثُ",
+      "tenses": {
+        "present": {
+          "ich": "schicke",
+          "du": "schickst",
+          "er_sie_es": "schickt",
+          "wir": "schicken",
+          "ihr": "schickt",
+          "sie_Sie": "schicken"
+        },
+        "past_simple": {
+          "ich": "schickte",
+          "du": "schicktest",
+          "er_sie_es": "schickte",
+          "wir": "schickten",
+          "ihr": "schicktet",
+          "sie_Sie": "schickten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geschickt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Akkusativ",
+          "meaning_ar": "يرسل إلى"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Ich schicke meiner Familie einen schönen Gruß aus Berlin.",
+          "en": "I am sending my family warm greetings from Berlin.",
+          "ar": "أَبْعَثُ إِلَى عَائِلَتِي تَحِيَّةً طَيِّبَةً مِنْ بَرْلِين."
+        }
+      ]
+    },
+    {
+      "id": "verb_postal_002",
+      "infinitive": "senden",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "eine Nachricht oder Sendung auf postalischem Weg übermitteln",
+      "meaning_en": "to dispatch, send",
+      "meaning_ar": "يُرْسِلُ، يُوَجِّهُ رِسَالَة",
+      "tenses": {
+        "present": {
+          "ich": "sende",
+          "du": "sendest",
+          "er_sie_es": "sendet",
+          "wir": "senden",
+          "ihr": "sendet",
+          "sie_Sie": "senden"
+        },
+        "past_simple": {
+          "ich": "sandte",
+          "du": "sandtest",
+          "er_sie_es": "sandte",
+          "wir": "sandten",
+          "ihr": "sandtet",
+          "sie_Sie": "sandten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gesandt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Akkusativ",
+          "meaning_ar": "يرسل إلى شخص"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wir sandten die wichtigen Unterlagen per Einschreiben an die Behörde.",
+          "en": "We sent the important documents by registered mail to the authority.",
+          "ar": "أَرْسَلْنَا الوَثَائِقَ المُهِمَّةَ عَبْرَ البَرِيدِ المُسَجَّلِ إِلَى المَصْلَحَةِ المَعْنِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_postal_003",
+      "infinitive": "verschicken",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "mehrere Gegenstände oder Einladungen mit der Post absenden",
+      "meaning_en": "to dispatch, mail out",
+      "meaning_ar": "يُوَزِّعُ بِالبَرِيد، يَبْعَثُ رَسَائِل",
+      "tenses": {
+        "present": {
+          "ich": "verschicke",
+          "du": "verschickst",
+          "er_sie_es": "verschickt",
+          "wir": "verschicken",
+          "ihr": "verschickt",
+          "sie_Sie": "verschicken"
+        },
+        "past_simple": {
+          "ich": "verschickte",
+          "du": "verschicktest",
+          "er_sie_es": "verschickte",
+          "wir": "verschickten",
+          "ihr": "verschicktet",
+          "sie_Sie": "verschickten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "verschickt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Akkusativ",
+          "meaning_ar": "يبعث إلى"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Sie verschickt die Einladungskarten rechtzeitig an alle Verwandten.",
+          "en": "She mails out the invitation cards in good time to all relatives.",
+          "ar": "تَبْعَثُ بِطَاقَاتِ الدَّعْوَةِ فِي الوَقْتِ المُنَاسِبِ إِلَى جَمِيعِ الأَقَارِب."
+        }
+      ]
+    },
+    {
+      "id": "verb_postal_004",
+      "infinitive": "abholen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "ein hinterlegtes Paket in der Postfiliale oder Packstation in Empfang nehmen",
+      "meaning_en": "to collect, pick up a parcel",
+      "meaning_ar": "يَسْتَلِمُ، يَتَسَلَّمُ الطَّرْد",
+      "tenses": {
+        "present": {
+          "ich": "hole ab",
+          "du": "holst ab",
+          "er_sie_es": "holt ab",
+          "wir": "holen ab",
+          "ihr": "holt ab",
+          "sie_Sie": "holen ab"
+        },
+        "past_simple": {
+          "ich": "holte ab",
+          "du": "holtest ab",
+          "er_sie_es": "holte ab",
+          "wir": "holten ab",
+          "ihr": "holtet ab",
+          "sie_Sie": "holten ab"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "abgeholt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "bei",
+          "case": "Dativ",
+          "meaning_ar": "يستلم من فرع"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er holt das Päckchen heute Nachmittag in der Postfiliale ab.",
+          "en": "He collects the small parcel this afternoon at the postal branch.",
+          "ar": "يَسْتَلِمُ الرُّزْمَةَ بَعْدَ ظُهْرِ اليَوْمِ مِنْ فَرْعِ البَرِيد."
+        }
+      ]
+    },
+    {
+      "id": "verb_postal_005",
+      "infinitive": "empfangen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "eine Sendung oder Nachricht von jemandem annehmen",
+      "meaning_en": "to receive",
+      "meaning_ar": "يَسْتَقْبِلُ، يَتَلَقَّى",
+      "tenses": {
+        "present": {
+          "ich": "empfange",
+          "du": "empfängst",
+          "er_sie_es": "empfängt",
+          "wir": "empfangen",
+          "ihr": "empfangt",
+          "sie_Sie": "empfangen"
+        },
+        "past_simple": {
+          "ich": "empfing",
+          "du": "empfingst",
+          "er_sie_es": "empfing",
+          "wir": "empfingen",
+          "ihr": "empfingt",
+          "sie_Sie": "empfingen"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "empfangen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "von",
+          "case": "Dativ",
+          "meaning_ar": "يتلقى من"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Sie empfing das Einschreiben und unterschrieb auf dem Lesegerät.",
+          "en": "She received the registered letter and signed on the handheld device.",
+          "ar": "اسْتَلَمَتِ الخِطَابَ المُسَجَّلَ وَوَقَّعَتْ عَلَى جِهَازِ القِرَاءَةِ الإِلِكْتُرُونِيّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_postal_006",
+      "infinitive": "zustellen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Post direkt an die Anschrift des Empfängers liefern",
+      "meaning_en": "to deliver to address",
+      "meaning_ar": "يُوَصِّلُ، يُسَلِّمُ إِلَى العُنْوَان",
+      "tenses": {
+        "present": {
+          "ich": "stelle zu",
+          "du": "stellst zu",
+          "er_sie_es": "stellt zu",
+          "wir": "stellen zu",
+          "ihr": "stellt zu",
+          "sie_Sie": "stellen zu"
+        },
+        "past_simple": {
+          "ich": "stellte zu",
+          "du": "stelltest zu",
+          "er_sie_es": "stellte zu",
+          "wir": "stellten zu",
+          "ihr": "stelltet zu",
+          "sie_Sie": "stellten zu"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "zugestellt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Akkusativ",
+          "meaning_ar": "يسلم إلى"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Bote stellte das Paket sicher an der Haustür zu.",
+          "en": "The courier safely delivered the parcel to the front door.",
+          "ar": "سَلَّمَ سَاعِي البَرِيدِ الطَّرْدَ بِأَمَانٍ عِنْدَ بَابِ المَنْزِل."
+        }
+      ]
+    },
+    {
+      "id": "verb_postal_007",
+      "infinitive": "aufgeben",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "ein Paket oder einen Brief am Schalter zur Beförderung übergeben",
+      "meaning_en": "to post, drop off parcel",
+      "meaning_ar": "يُودِعُ طَرْدًا فِي مَكْتَبِ البَرِيد",
+      "tenses": {
+        "present": {
+          "ich": "gebe auf",
+          "du": "gibst auf",
+          "er_sie_es": "gibt auf",
+          "wir": "geben auf",
+          "ihr": "gebt auf",
+          "sie_Sie": "geben auf"
+        },
+        "past_simple": {
+          "ich": "gab auf",
+          "du": "gabst auf",
+          "er_sie_es": "gab auf",
+          "wir": "gaben auf",
+          "ihr": "gabt auf",
+          "sie_Sie": "gaben auf"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "aufgegeben"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "am",
+          "case": "Dativ",
+          "meaning_ar": "يودع عند الشباك"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Ich gebe das Päckchen heute auf dem Heimweg am Postschalter auf.",
+          "en": "I will drop off the small parcel at the postal counter on my way home today.",
+          "ar": "سَأُودِعُ الرُّزْمَةَ الصَّغِيرَةَ اليَوْمَ فِي طَرِيقِ عَوْدَتِي عِنْدَ شُبَّاكِ البَرِيد."
+        }
+      ]
+    },
+    {
+      "id": "verb_postal_008",
+      "infinitive": "frankieren",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "einen Brief mit dem passenden Porto versehen",
+      "meaning_en": "to frank, stamp with postage",
+      "meaning_ar": "يَضَعُ الطَّابَعَ البَرِيدِيَّ، يُخَلِّصُ أُجْرَةَ البَرِيد",
+      "tenses": {
+        "present": {
+          "ich": "frankiere",
+          "du": "frankierst",
+          "er_sie_es": "frankiert",
+          "wir": "frankieren",
+          "ihr": "frankiert",
+          "sie_Sie": "frankieren"
+        },
+        "past_simple": {
+          "ich": "frankierte",
+          "du": "frankiertest",
+          "er_sie_es": "frankierte",
+          "wir": "frankierten",
+          "ihr": "frankiertet",
+          "sie_Sie": "frankierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "frankiert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يضع طابعاً بقيمة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Bitte frankieren Sie den Umschlag mit einer Achtzig-Cent-Marke.",
+          "en": "Please frank the envelope with an eighty-cent stamp.",
+          "ar": "رَجَاءً أَلْصِقْ عَلَى المَظْرُوفِ طَابَعًا بِقِيمَةِ ثَمَانِينَ سِنْتًا."
+        }
+      ]
+    },
+    {
+      "id": "verb_postal_009",
+      "infinitive": "wiegen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "das Gewicht einer Sendung auf der Waage feststellen",
+      "meaning_en": "to weigh a package",
+      "meaning_ar": "يَزِنُ الطَّرْد",
+      "tenses": {
+        "present": {
+          "ich": "wiege",
+          "du": "wiegst",
+          "er_sie_es": "wiegt",
+          "wir": "wiegen",
+          "ihr": "wiegt",
+          "sie_Sie": "wiegen"
+        },
+        "past_simple": {
+          "ich": "wog",
+          "du": "wogst",
+          "er_sie_es": "wog",
+          "wir": "wogen",
+          "ihr": "wogt",
+          "sie_Sie": "wogen"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gewogen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Dativ",
+          "meaning_ar": "يزن على الميزان"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Beamtin wiegt das Paket auf der elektronischen Paketwaage.",
+          "en": "The postal officer weighs the parcel on the electronic parcel scale.",
+          "ar": "تَزِنُ المُوَظَّفَةُ الطَّرْدَ عَلَى مِيزَانِ الطُّرُودِ الإِلِكْتُرُونِيّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_postal_010",
+      "infinitive": "zukleben",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "den Umschlag oder Karton mit Klebstoff fest verschließen",
+      "meaning_en": "to tape shut, seal",
+      "meaning_ar": "يُلْصِقُ، يُحْكِمُ إِغْلَاقَ الطَّرْدِ بِاللَّاصِق",
+      "tenses": {
+        "present": {
+          "ich": "klebe zu",
+          "du": "klebst zu",
+          "er_sie_es": "klebt zu",
+          "wir": "kleben zu",
+          "ihr": "klebt zu",
+          "sie_Sie": "kleben zu"
+        },
+        "past_simple": {
+          "ich": "klebte zu",
+          "du": "klebtest zu",
+          "er_sie_es": "klebte zu",
+          "wir": "klebten zu",
+          "ihr": "klebtet zu",
+          "sie_Sie": "klebten zu"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "zugeklebt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يغلق بشريط"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er klebte den Karton ringsherum mit braunem Paketband zu.",
+          "en": "He taped the cardboard box shut all around with brown packing tape.",
+          "ar": "أَحْكَمَ إِغْلَاقَ الكَرْتُونِ مِنْ كُلِّ الجَوَانِبِ بِشَرِيطِ الطُّرُودِ البُنِّيّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_postal_011",
+      "infinitive": "verpacken",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Waren sicher in Schutzmaterial und Kartons einhüllen",
+      "meaning_en": "to pack, package securely",
+      "meaning_ar": "يُغَلِّفُ، يَحْزِمُ الطَّرْدَ بِأَمَان",
+      "tenses": {
+        "present": {
+          "ich": "verpacke",
+          "du": "verpackst",
+          "er_sie_es": "verpackt",
+          "wir": "verpacken",
+          "ihr": "verpackt",
+          "sie_Sie": "verpacken"
+        },
+        "past_simple": {
+          "ich": "verpackte",
+          "du": "verpacktest",
+          "er_sie_es": "verpackte",
+          "wir": "verpackten",
+          "ihr": "verpacktet",
+          "sie_Sie": "verpackten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "verpackt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Akkusativ",
+          "meaning_ar": "يغلف في"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Tasse wurde sorgfältig in Luftpolsterfolie verpackt.",
+          "en": "The mug was carefully packed in bubble wrap.",
+          "ar": "غُلِّفَ الكُوبُ بِعِنَايَةٍ فِي وَرَقِ الفُقَّاعَاتِ الهَوَائِيَّةِ الوَاقِي."
+        }
+      ]
+    },
+    {
+      "id": "verb_postal_012",
+      "infinitive": "beschriften",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Name und Anschrift deutlich lesbar auf das Paket schreiben",
+      "meaning_en": "to address, label",
+      "meaning_ar": "يَكْتُبُ العُنْوَانَ وَالبَيَانَاتِ عَلَى الطَّرْد",
+      "tenses": {
+        "present": {
+          "ich": "beschrifte",
+          "du": "beschriftest",
+          "er_sie_es": "beschriftet",
+          "wir": "beschriften",
+          "ihr": "beschriftet",
+          "sie_Sie": "beschriften"
+        },
+        "past_simple": {
+          "ich": "beschriftete",
+          "du": "beschriftetest",
+          "er_sie_es": "beschriftete",
+          "wir": "beschrifteten",
+          "ihr": "beschriftetet",
+          "sie_Sie": "beschrifteten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "beschriftet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يكتب بـ"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Beschriften Sie das Paket bitte in deutlicher Druckschrift.",
+          "en": "Please write the address on the parcel in clear block letters.",
+          "ar": "رَجَاءً اكْتُبِ العُنْوَانَ عَلَى الطَّرْدِ بِحُرُوفٍ وَاضِحَةٍ مَقْرُوءَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_postal_013",
+      "infinitive": "verfolgen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "den Lieferstatus im Internet anhand der Sendungsnummer prüfen",
+      "meaning_en": "to track shipment online",
+      "meaning_ar": "يَتَتَبَّعُ مَسَارَ الشِّحْنَةِ إِلِكْتُرُونِيًّا",
+      "tenses": {
+        "present": {
+          "ich": "verfolge",
+          "du": "verfolgst",
+          "er_sie_es": "verfolgt",
+          "wir": "verfolgen",
+          "ihr": "verfolgt",
+          "sie_Sie": "verfolgen"
+        },
+        "past_simple": {
+          "ich": "verfolgte",
+          "du": "verfolgtest",
+          "er_sie_es": "verfolgte",
+          "wir": "verfolgten",
+          "ihr": "vervolgtet",
+          "sie_Sie": "verfolgten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "verfolgt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "über",
+          "case": "Akkusativ",
+          "meaning_ar": "يتتبع عبر الموقع"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Kunde verfolgt den Weg seiner Bestellung bequem per Smartphone.",
+          "en": "The customer tracks the path of their order conveniently via smartphone.",
+          "ar": "يَتَتَبَّعُ العَمِيلُ مَسَارَ طَلَبِهِ بِسُهُولَةٍ عَبْرَ الهَاتِفِ الذَّكِيّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_postal_014",
+      "infinitive": "unterschreiben",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "den eigenen Namen als Bestätigung unter ein Dokument setzen",
+      "meaning_en": "to sign, put signature",
+      "meaning_ar": "يُوَقِّعُ، يُمْضِي بِاسْمِه",
+      "tenses": {
+        "present": {
+          "ich": "unterschreibe",
+          "du": "unterschreibst",
+          "er_sie_es": "unterschreibt",
+          "wir": "unterschreiben",
+          "ihr": "unterschreibt",
+          "sie_Sie": "unterschreiben"
+        },
+        "past_simple": {
+          "ich": "unterschrieb",
+          "du": "unterschriebst",
+          "er_sie_es": "unterschrieb",
+          "wir": "unterschrieben",
+          "ihr": "unterschriebt",
+          "sie_Sie": "unterschrieben"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "unterschrieben"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Dativ",
+          "meaning_ar": "يوقع على"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Bitte unterschreiben Sie hier zur Bestätigung des Empfangs.",
+          "en": "Please sign here to confirm receipt.",
+          "ar": "يُرْجَى التَّوْقِيعُ هُنَا تَأْكِيدًا لِلِاسْتِلَام."
+        }
+      ]
+    },
+    {
+      "id": "verb_postal_015",
+      "infinitive": "einwerfen",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "einen Brief durch den Schlitz in den Briefkasten gleiten lassen",
+      "meaning_en": "to drop letter into mailbox",
+      "meaning_ar": "يُلْقِي الرِّسَالَةَ فِي صُنْدُوقِ البَرِيد",
+      "tenses": {
+        "present": {
+          "ich": "werfe ein",
+          "du": "wirfst ein",
+          "er_sie_es": "wirft ein",
+          "wir": "werfen ein",
+          "ihr": "werft ein",
+          "sie_Sie": "werfen ein"
+        },
+        "past_simple": {
+          "ich": "warf ein",
+          "du": "warfst ein",
+          "er_sie_es": "warf ein",
+          "wir": "warfen ein",
+          "ihr": "warft ein",
+          "sie_Sie": "warfen ein"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "eingeworfen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Akkusativ",
+          "meaning_ar": "يلقي في"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er warf die frankierte Geburtstagskarte in den gelben Postkasten ein.",
+          "en": "He dropped the stamped birthday card into the yellow mailbox.",
+          "ar": "أَلْقَى بِطَاقَةَ التَّهْنِئَةِ المَخْتُومَةَ فِي صُنْدُوقِ البَرِيدِ الأَصْفَر."
+        }
+      ]
+    },
+    {
+      "id": "verb_postal_016",
+      "infinitive": "öffnen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "einen Briefumschlag oder Karton aufmachen",
+      "meaning_en": "to open mail or parcel",
+      "meaning_ar": "يَفْتَحُ الرِّسَالَةَ أَوِ الطَّرْد",
+      "tenses": {
+        "present": {
+          "ich": "öffne",
+          "du": "öffnest",
+          "er_sie_es": "öffnet",
+          "wir": "öffnen",
+          "ihr": "öffnet",
+          "sie_Sie": "öffnen"
+        },
+        "past_simple": {
+          "ich": "öffnete",
+          "du": "öffnetest",
+          "er_sie_es": "öffnete",
+          "wir": "öffneten",
+          "ihr": "öffnetet",
+          "sie_Sie": "öffneten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geöffnet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يفتح بواسطة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Neugierig öffnet das Mädchen das bunte Geschenkpaket.",
+          "en": "Curiously, the girl opens the colorful gift parcel.",
+          "ar": "تَفْتَحُ الفَتَاةُ طَرْدَ الهَدِيَّةِ المُلَوَّنَ بِشَغَفٍ وَفَرَح."
+        }
+      ]
+    },
+    {
+      "id": "verb_postal_017",
+      "infinitive": "benachrichtigen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "dem Empfänger schriftlich oder digital mitteilen, dass Post bereitliegt",
+      "meaning_en": "to notify recipient",
+      "meaning_ar": "يُخْطِرُ، يُشْعِرُ بِوُصُولِ الطَّرْد",
+      "tenses": {
+        "present": {
+          "ich": "benachrichtige",
+          "du": "benachrichtigst",
+          "er_sie_es": "benachrichtigt",
+          "wir": "benachrichtigen",
+          "ihr": "benachrichtigt",
+          "sie_Sie": "benachrichtigen"
+        },
+        "past_simple": {
+          "ich": "benachrichtigte",
+          "du": "benachrichtigtest",
+          "er_sie_es": "benachrichtigte",
+          "wir": "benachrichtigten",
+          "ihr": "benachrichtigtet",
+          "sie_Sie": "benachrichtigten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "benachrichtigt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "über",
+          "case": "Akkusativ",
+          "meaning_ar": "يشعر بـ"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Post benachrichtigte ihn per E-Mail über das eingetroffene Paket.",
+          "en": "The post office notified him by email about the arrived parcel.",
+          "ar": "أَخْطَرَهُ مَكْتَبُ البَرِيدِ عَبْرَ البَرِيدِ الإِلِكْتُرُونِيِّ بِوُصُولِ الطَّرْد."
+        }
+      ]
+    },
+    {
+      "id": "verb_postal_018",
+      "infinitive": "transportieren",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Pakete sicher von Stadt zu Stadt befördern",
+      "meaning_en": "to transport, haul",
+      "meaning_ar": "يَنْقُلُ، يَشْحَنُ البَضَائِعَ وَالطُّرُود",
+      "tenses": {
+        "present": {
+          "ich": "transportiere",
+          "du": "transportierst",
+          "er_sie_es": "transportiert",
+          "wir": "transportieren",
+          "ihr": "transportiert",
+          "sie_Sie": "transportieren"
+        },
+        "past_simple": {
+          "ich": "transportierte",
+          "du": "transportiertest",
+          "er_sie_es": "transportierte",
+          "wir": "transportierten",
+          "ihr": "transportiertet",
+          "sie_Sie": "transportierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "transportiert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "ينقل بواسطة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Moderne Elektrofahrzeuge transportieren die Briefe leise durch das Viertel.",
+          "en": "Modern electric vehicles transport the letters quietly through the district.",
+          "ar": "تَنْقُلُ المَرْكَبَاتُ الكَهْرَبَائِيَّةُ الحَدِيثَةُ الرَّسَائِلَ بِهُدُوءٍ عَبْرَ الحَيّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_postal_019",
+      "infinitive": "versichern",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "eine wertvolle Sendung gegen Verlust oder Beschädigung absichern",
+      "meaning_en": "to insure shipment",
+      "meaning_ar": "يُؤَمِّنُ عَلَى الشِّحْنَةِ ضِدَّ الفُقْدَان",
+      "tenses": {
+        "present": {
+          "ich": "versichere",
+          "du": "versicherst",
+          "er_sie_es": "versichert",
+          "wir": "versichern",
+          "ihr": "versichert",
+          "sie_Sie": "versichern"
+        },
+        "past_simple": {
+          "ich": "versicherte",
+          "du": "versichertest",
+          "er_sie_es": "versicherte",
+          "wir": "versicherten",
+          "ihr": "versichertet",
+          "sie_Sie": "versicherten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "versichert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "bis",
+          "case": "Akkusativ",
+          "meaning_ar": "يؤمن بقيمة تصل إلى"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er versicherte das wertvolle Paket bis zu fünfhundert Euro.",
+          "en": "He insured the valuable parcel up to five hundred euros.",
+          "ar": "أَمَّنَ عَلَى الطَّرْدِ الثَّمِينِ بِقِيمَةٍ تَصِلُ إِلَى خَمْسِمِائَةِ يُورُو."
+        }
+      ]
+    },
+    {
+      "id": "verb_postal_020",
+      "infinitive": "ankommen",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "beim Empfänger unversehrt eintreffen",
+      "meaning_en": "to arrive safely",
+      "meaning_ar": "يَصِلُ بِأَمَانٍ وَسَلَام",
+      "tenses": {
+        "present": {
+          "ich": "komme an",
+          "du": "kommst an",
+          "er_sie_es": "kommt an",
+          "wir": "kommen an",
+          "ihr": "kommt an",
+          "sie_Sie": "kommen an"
+        },
+        "past_simple": {
+          "ich": "kam an",
+          "du": "kamst an",
+          "er_sie_es": "kam an",
+          "wir": "kamen an",
+          "ihr": "kamt an",
+          "sie_Sie": "kamen an"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "angekommen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "bei",
+          "case": "Dativ",
+          "meaning_ar": "يصل عند شخص"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Das Paket ist unversehrt beim Empfänger angekommen.",
+          "en": "The parcel arrived undamaged at the recipient's address.",
+          "ar": "وَصَلَ الطَّرْدُ سَالِمًا دُونَ أَيِّ ضَرَرٍ إِلَى المُرْسَلِ إِلَيْه."
+        }
+      ]
+    }
+  ]
+}

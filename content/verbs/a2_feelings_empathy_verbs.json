@@ -1,0 +1,914 @@
+{
+  "category_id": "a2_feelings_empathy_verbs",
+  "category_name_de": "Empathie-, Gefühls- und Beziehungsverben",
+  "category_name_en": "Empathy, Feelings and Interpersonal Verbs",
+  "category_name_ar": "أفعال التعاطف والمشاعر والتواصل الإنساني",
+  "level": "A2/B1",
+  "verbs": [
+    {
+      "id": "verb_empathy_001",
+      "infinitive": "freuen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "Freude und Fröhlichkeit empfinden",
+      "meaning_en": "to rejoice, be glad, look forward to",
+      "meaning_ar": "يَفْرَحُ، يَسْعَدُ، يَبْتَهِجُ",
+      "tenses": {
+        "present": {
+          "ich": "freue",
+          "du": "freust",
+          "er_sie_es": "freut",
+          "wir": "freuen",
+          "ihr": "freut",
+          "sie_Sie": "freuen"
+        },
+        "past_simple": {
+          "ich": "freute",
+          "du": "freutest",
+          "er_sie_es": "freute",
+          "wir": "freuten",
+          "ihr": "freutet",
+          "sie_Sie": "freuten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gefreut"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "über",
+          "case": "Akkusativ",
+          "meaning_ar": "يفرح بـ (أمر حاضر)"
+        },
+        {
+          "prep": "auf",
+          "case": "Akkusativ",
+          "meaning_ar": "يتطلع بفرح إلى (أمر قادم)"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Ich freue mich sehr über deinen freundlichen Besuch.",
+          "en": "I am very pleased about your friendly visit.",
+          "ar": "أَفْرَحُ كَثِيرًا بِزِيَارَتِكَ اللَّطِيفَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_empathy_002",
+      "infinitive": "danken",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "seine Dankbarkeit mit Worten zum Ausdruck bringen",
+      "meaning_en": "to thank, express gratitude",
+      "meaning_ar": "يَشْكُرُ، يُعَبِّرُ عَنِ امْتِنَانِه",
+      "tenses": {
+        "present": {
+          "ich": "danke",
+          "du": "dankst",
+          "er_sie_es": "dankt",
+          "wir": "danken",
+          "ihr": "dankt",
+          "sie_Sie": "danken"
+        },
+        "past_simple": {
+          "ich": "dankte",
+          "du": "danktest",
+          "er_sie_es": "dankte",
+          "wir": "dankten",
+          "ihr": "danktet",
+          "sie_Sie": "dankten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gedankt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "für",
+          "case": "Akkusativ",
+          "meaning_ar": "يشكر على"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wir danken dir von Herzen für deine wertvolle Unterstützung.",
+          "en": "We thank you from the bottom of our hearts for your valuable support.",
+          "ar": "نَشْكُرُكَ مِنْ أَعْمَاقِ قُلُوبِنَا عَلَى مُسَانَدَتِكَ القَيِّمَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_empathy_003",
+      "infinitive": "trösten",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "jemandem in traurigen Momenten beistehen und Hoffnung geben",
+      "meaning_en": "to comfort, console",
+      "meaning_ar": "يُوَاسِي، يُخَفِّفُ الحُزْنَ عَنْ",
+      "tenses": {
+        "present": {
+          "ich": "tröste",
+          "du": "tröstest",
+          "er_sie_es": "tröstet",
+          "wir": "trösten",
+          "ihr": "tröstet",
+          "sie_Sie": "trösten"
+        },
+        "past_simple": {
+          "ich": "tröstete",
+          "du": "tröstetest",
+          "er_sie_es": "tröstete",
+          "wir": "trösteten",
+          "ihr": "tröstetet",
+          "sie_Sie": "trösteten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "getröstet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يواسي بـ"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Mutter tröstet das weinende Kind mit sanften Worten.",
+          "en": "The mother consoles the crying child with gentle words.",
+          "ar": "تُوَاسِي الأُمُّ الطِّفْلَ البَاكِيَ بِكَلِمَاتٍ رَقِيقَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_empathy_004",
+      "infinitive": "lächeln",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "die Mundwinkel freundlich nach oben ziehen",
+      "meaning_en": "to smile",
+      "meaning_ar": "يَبْتَسِمُ",
+      "tenses": {
+        "present": {
+          "ich": "lächle",
+          "du": "lächelst",
+          "er_sie_es": "lächelt",
+          "wir": "lächeln",
+          "ihr": "lächelt",
+          "sie_Sie": "lächeln"
+        },
+        "past_simple": {
+          "ich": "lächelte",
+          "du": "lächeltest",
+          "er_sie_es": "lächelte",
+          "wir": "lächelten",
+          "ihr": "lächeltet",
+          "sie_Sie": "lächelten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gelächelt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "über",
+          "case": "Akkusativ",
+          "meaning_ar": "يبتسم لـ"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er lächelt freundlich, wenn er den Nachbarn morgens begegnet.",
+          "en": "He smiles warmly when he meets the neighbor in the morning.",
+          "ar": "يَبْتَسِمُ بِوُدٍّ عِنْدَمَا يَلْتَقِي بِالجَارِ صَبَاحًا."
+        }
+      ]
+    },
+    {
+      "id": "verb_empathy_005",
+      "infinitive": "hoffen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "zuversichtlich auf etwas Positives warten",
+      "meaning_en": "to hope",
+      "meaning_ar": "يَأْمُلُ، يَرْجُو، يَتَمَنَّى الخَيْر",
+      "tenses": {
+        "present": {
+          "ich": "hoffe",
+          "du": "hoffst",
+          "er_sie_es": "hofft",
+          "wir": "hoffen",
+          "ihr": "hofft",
+          "sie_Sie": "hoffen"
+        },
+        "past_simple": {
+          "ich": "hoffte",
+          "du": "hofftest",
+          "er_sie_es": "hoffte",
+          "wir": "hofften",
+          "ihr": "hofftet",
+          "sie_Sie": "hofften"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gehofft"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Akkusativ",
+          "meaning_ar": "يأمل في"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wir hoffen auf eine baldige und friedliche Lösung.",
+          "en": "We hope for a speedy and peaceful solution.",
+          "ar": "نَأْمُلُ فِي حَلٍّ قَرِيبٍ وَسِلْمِيّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_empathy_006",
+      "infinitive": "vertrauen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "sich fest auf die Verlässlichkeit und Güte einer Person verlassen",
+      "meaning_en": "to trust, rely on",
+      "meaning_ar": "يَثِقُ، يَأْمَنُ إِلَى",
+      "tenses": {
+        "present": {
+          "ich": "vertraue",
+          "du": "vertraust",
+          "er_sie_es": "vertraut",
+          "wir": "vertrauen",
+          "ihr": "vertraut",
+          "sie_Sie": "vertrauen"
+        },
+        "past_simple": {
+          "ich": "vertraute",
+          "du": "vertrautest",
+          "er_sie_es": "vertraute",
+          "wir": "vertrauten",
+          "ihr": "vertrautet",
+          "sie_Sie": "vertrauten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "vertraut"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Akkusativ",
+          "meaning_ar": "يثق في / يعتمد على"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Sie vertraut ihrem besten Freund bedingungslos.",
+          "en": "She trusts her best friend unconditionally.",
+          "ar": "تَثِقُ فِي صَدِيقِهَا المُفَضَّلِ دُونَ أَدْنَى شَكّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_empathy_007",
+      "infinitive": "respektieren",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Achtung und Wertschätzung entgegenbringen",
+      "meaning_en": "to respect",
+      "meaning_ar": "يَحْتَرِمُ، يُوَقِّرُ",
+      "tenses": {
+        "present": {
+          "ich": "respektiere",
+          "du": "respektierst",
+          "er_sie_es": "respektiert",
+          "wir": "respektieren",
+          "ihr": "respektiert",
+          "sie_Sie": "respektieren"
+        },
+        "past_simple": {
+          "ich": "respektierte",
+          "du": "respektiertest",
+          "er_sie_es": "respektierte",
+          "wir": "respektierten",
+          "ihr": "respektiertet",
+          "sie_Sie": "respektierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "respektiert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "wegen",
+          "case": "Genitiv",
+          "meaning_ar": "يحترم بسبب"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Schüler respektieren den Lehrer wegen seiner Geduld und Weisheit.",
+          "en": "The students respect the teacher for his patience and wisdom.",
+          "ar": "يَحْتَرِمُ الطُّلَّابُ المُعَلِّمَ لِصَبْرِهِ وَحِكْمَتِه."
+        }
+      ]
+    },
+    {
+      "id": "verb_empathy_008",
+      "infinitive": "beruhigen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Aufregung oder Angst mildern und Ruhe stiften",
+      "meaning_en": "to calm, soothe, reassure",
+      "meaning_ar": "يُهَدِّئُ، يُسَكِّنُ الرَّوْع",
+      "tenses": {
+        "present": {
+          "ich": "beruhige",
+          "du": "beruhigst",
+          "er_sie_es": "beruhigt",
+          "wir": "beruhigen",
+          "ihr": "beruhigt",
+          "sie_Sie": "beruhigen"
+        },
+        "past_simple": {
+          "ich": "beruhigte",
+          "du": "beruhigtest",
+          "er_sie_es": "beruhigte",
+          "wir": "beruhigten",
+          "ihr": "beruhigtet",
+          "sie_Sie": "beruhigten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "beruhigt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "durch",
+          "case": "Akkusativ",
+          "meaning_ar": "يهدئ بواسطة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Seine ruhige Stimme beruhigte die verängstigten Passagiere.",
+          "en": "His calm voice reassured the frightened passengers.",
+          "ar": "هَدَّأَ صَوْتُهُ الوَقُورُ رَوْعَ الرُّكَّابِ الخَائِفِين."
+        }
+      ]
+    },
+    {
+      "id": "verb_empathy_009",
+      "infinitive": "ermutigen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "jemandem Mut zusprechen und Zuversicht geben",
+      "meaning_en": "to encourage, embolden",
+      "meaning_ar": "يُشَجِّعُ، يَبُثُّ العَزِيمَة",
+      "tenses": {
+        "present": {
+          "ich": "ermutige",
+          "du": "ermutigst",
+          "er_sie_es": "ermutigt",
+          "wir": "ermutigen",
+          "ihr": "ermutigt",
+          "sie_Sie": "ermutigen"
+        },
+        "past_simple": {
+          "ich": "ermutigte",
+          "du": "ermutigtest",
+          "er_sie_es": "ermutigte",
+          "wir": "ermutigten",
+          "ihr": "ermutigtet",
+          "sie_Sie": "ermutigten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "ermutigt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "zu",
+          "case": "Dativ",
+          "meaning_ar": "يشجع على"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Vater ermutigt seinen Sohn, stets ehrlich zu bleiben.",
+          "en": "The father encourages his son to always stay honest.",
+          "ar": "يُشَجِّعُ الأَبُ ابْنَهُ عَلَى أَنْ يَبْقَى صَادِقًا دَائِمًا."
+        }
+      ]
+    },
+    {
+      "id": "verb_empathy_010",
+      "infinitive": "zuhören",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "mit voller Aufmerksamkeit den Worten eines anderen lauschen",
+      "meaning_en": "to listen attentively",
+      "meaning_ar": "يُصْغِي، يَسْتَمِعُ بِعِنَايَة",
+      "tenses": {
+        "present": {
+          "ich": "höre zu",
+          "du": "hörst zu",
+          "er_sie_es": "hört zu",
+          "wir": "hören zu",
+          "ihr": "hört zu",
+          "sie_Sie": "hören zu"
+        },
+        "past_simple": {
+          "ich": "hörte zu",
+          "du": "hörtest zu",
+          "er_sie_es": "hörte zu",
+          "wir": "hörten zu",
+          "ihr": "hörtet zu",
+          "sie_Sie": "hörten zu"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "zugehört"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "bei",
+          "case": "Dativ",
+          "meaning_ar": "يصغي إلى (شخص)"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Gute Freunde hören einander geduldig und ohne Urteil zu.",
+          "en": "Good friends listen to each other patiently and without judgment.",
+          "ar": "يُصْغِي الأَصْدِقَاءُ الأَوْفِيَاءُ لِبَعْضِهِمْ بِصَبْرٍ وَدُونَ إِطْلَاقِ أَحْكَام."
+        }
+      ]
+    },
+    {
+      "id": "verb_empathy_011",
+      "infinitive": "verzeihen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "einem anderen eine Verfehlung nicht länger nachtragen",
+      "meaning_en": "to forgive, pardon",
+      "meaning_ar": "يَصْفَحُ، يُسَامِحُ، يَعْفُو",
+      "tenses": {
+        "present": {
+          "ich": "verzeihe",
+          "du": "verzeihst",
+          "er_sie_es": "verzeiht",
+          "wir": "verzeihen",
+          "ihr": "verzeiht",
+          "sie_Sie": "verzeihen"
+        },
+        "past_simple": {
+          "ich": "verzieh",
+          "du": "verziehst",
+          "er_sie_es": "verzieh",
+          "wir": "verziehen",
+          "ihr": "verzieht",
+          "sie_Sie": "verziehen"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "verziehen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "für",
+          "case": "Akkusativ",
+          "meaning_ar": "يسامح على"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wer verzeiht, befreit sein eigenes Herz von Bitterkeit.",
+          "en": "Whoever forgives frees their own heart from bitterness.",
+          "ar": "مَنْ يَعْفُو وَيُسَامِحْ يُحَرِّرْ قَلْبَهُ مِنَ المَرَارَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_empathy_012",
+      "infinitive": "schätzen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "den hohen Wert einer Person oder Tat anerkennen",
+      "meaning_en": "to appreciate, value, cherish",
+      "meaning_ar": "يُقَدِّرُ، يُثَمِّنُ، يَعْتَزُّ بـ",
+      "tenses": {
+        "present": {
+          "ich": "schätze",
+          "du": "schätzt",
+          "er_sie_es": "schätzt",
+          "wir": "schätzen",
+          "ihr": "schätzt",
+          "sie_Sie": "schätzen"
+        },
+        "past_simple": {
+          "ich": "schätzte",
+          "du": "schätztest",
+          "er_sie_es": "schätzte",
+          "wir": "schätzten",
+          "ihr": "schätztet",
+          "sie_Sie": "schätzten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geschätzt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Dativ",
+          "meaning_ar": "يقدر في شخص خصلة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Ich schätze deine Aufrichtigkeit und deine treue Freundschaft sehr.",
+          "en": "I deeply appreciate your sincerity and faithful friendship.",
+          "ar": "أُقَدِّرُ صِدْقَكَ وَصَدَاقَتَكَ المُخْلِصَةَ تَقْدِيرًا عَالِيًا."
+        }
+      ]
+    },
+    {
+      "id": "verb_empathy_013",
+      "infinitive": "loben",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "jemandem für eine gelungene Leistung lobende Worte sagen",
+      "meaning_en": "to praise, commend",
+      "meaning_ar": "يَمْدَحُ، يُثْنِي عَلَى",
+      "tenses": {
+        "present": {
+          "ich": "lobe",
+          "du": "lobst",
+          "er_sie_es": "lobt",
+          "wir": "loben",
+          "ihr": "lobt",
+          "sie_Sie": "loben"
+        },
+        "past_simple": {
+          "ich": "lobte",
+          "du": "lobtest",
+          "er_sie_es": "lobte",
+          "wir": "lobten",
+          "ihr": "lobtet",
+          "sie_Sie": "lobten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gelobt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "für",
+          "case": "Akkusativ",
+          "meaning_ar": "يمدح على"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Meister lobte den jungen Lehrling für seine sorgfältige Arbeit.",
+          "en": "The master praised the young apprentice for his diligent work.",
+          "ar": "أَثْنَى المِعْمَارِيُّ عَلَى المُتَدَرِّبِ الشَّابِّ لِعَمَلِهِ المُتْقَن."
+        }
+      ]
+    },
+    {
+      "id": "verb_empathy_014",
+      "infinitive": "teilen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "etwas mit anderen gemeinsam nutzen oder empfinden",
+      "meaning_en": "to share",
+      "meaning_ar": "يُشَارِكُ، يَقْتَسِمُ، يُشَاطِرُ",
+      "tenses": {
+        "present": {
+          "ich": "teile",
+          "du": "teilst",
+          "er_sie_es": "teilt",
+          "wir": "teilen",
+          "ihr": "teilt",
+          "sie_Sie": "teilen"
+        },
+        "past_simple": {
+          "ich": "teilte",
+          "du": "teiltest",
+          "er_sie_es": "teilte",
+          "wir": "teilten",
+          "ihr": "teiltet",
+          "sie_Sie": "teilten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geteilt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يشارك مع"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Geteilte Freude ist doppelte Freude.",
+          "en": "Shared joy is double joy.",
+          "ar": "الفَرَحُ المُشْتَرَكُ فَرَحٌ مُضَاعَف."
+        }
+      ]
+    },
+    {
+      "id": "verb_empathy_015",
+      "infinitive": "versöhnen",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "nach einem Streit wieder Frieden und Einigkeit herstellen",
+      "meaning_en": "to reconcile, make peace",
+      "meaning_ar": "يُصَالِحُ، يُوَفِّقُ بَيْنَ اثْنَيْن",
+      "tenses": {
+        "present": {
+          "ich": "versöhne",
+          "du": "versöhnst",
+          "er_sie_es": "versöhnt",
+          "wir": "versöhnen",
+          "ihr": "versöhnt",
+          "sie_Sie": "versöhnen"
+        },
+        "past_simple": {
+          "ich": "versöhnte",
+          "du": "versöhntest",
+          "er_sie_es": "versöhnte",
+          "wir": "versöhnten",
+          "ihr": "versöhntet",
+          "sie_Sie": "versöhnten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "versöhnt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يتصالح مع"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die beiden Freunde versöhnten sich nach dem Missverständnis rasch.",
+          "en": "The two friends reconciled quickly after the misunderstanding.",
+          "ar": "تَصَالَحَ الصَّدِيقَانِ سَرِيعًا بَعْدَ سُوءِ التَّفَاهُم."
+        }
+      ]
+    },
+    {
+      "id": "verb_empathy_016",
+      "infinitive": "unterstützen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "jemandem tatkräftig oder moralisch zur Seite stehen",
+      "meaning_en": "to support, assist",
+      "meaning_ar": "يُسَانِدُ، يَدْعَمُ، يُعِينُ",
+      "tenses": {
+        "present": {
+          "ich": "unterstütze",
+          "du": "unterstützt",
+          "er_sie_es": "unterstützt",
+          "wir": "unterstützen",
+          "ihr": "unterstützt",
+          "sie_Sie": "unterstützen"
+        },
+        "past_simple": {
+          "ich": "unterstützte",
+          "du": "unterstütztest",
+          "er_sie_es": "unterstützte",
+          "wir": "unterstützten",
+          "ihr": "unterstütztet",
+          "sie_Sie": "unterstützten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "unterstützt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "bei",
+          "case": "Dativ",
+          "meaning_ar": "يساند في"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wir unterstützen ältere Nachbarn gerne beim wöchentlichen Einkauf.",
+          "en": "We gladly assist elderly neighbors with their weekly shopping.",
+          "ar": "نُسَانِدُ الجِيرَانَ المُسِنِّينَ بِسَعَادَةٍ فِي التَّسَوُّقِ الأُسْبُوعِيّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_empathy_017",
+      "infinitive": "mitempfinden",
+      "verb_type": "irregular",
+      "level": "B1",
+      "meaning_de": "die Gefühle eines Mitmenschen innerlich nachempfinden",
+      "meaning_en": "to empathize, feel with someone",
+      "meaning_ar": "يَتَعَاطَفُ وِجْدَانِيًّا، يَشْعُرُ بِمَشَاعِرِ الآخَر",
+      "tenses": {
+        "present": {
+          "ich": "empfinde mit",
+          "du": "empfindest mit",
+          "er_sie_es": "empfindet mit",
+          "wir": "empfinden mit",
+          "ihr": "empfindet mit",
+          "sie_Sie": "empfinden mit"
+        },
+        "past_simple": {
+          "ich": "empfand mit",
+          "du": "empfandest mit",
+          "er_sie_es": "empfand mit",
+          "wir": "empfanden mit",
+          "ihr": "empfandet mit",
+          "sie_Sie": "empfanden mit"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "mitempfunden"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يشعر وجدانياً مع"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Sie empfand aufrichtig mit den betroffenen Familien mit.",
+          "en": "She sincerely empathized with the affected families.",
+          "ar": "تَعَاطَفَتْ مِنْ قَلْبِهَا وِجْدَانِيًّا مَعَ العَائِلَاتِ المَعْنِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_empathy_018",
+      "infinitive": "erleichtern",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "eine Last oder Sorge von jemandem nehmen oder verringern",
+      "meaning_en": "to relieve, ease, lighten",
+      "meaning_ar": "يُخَفِّفُ العِبْءَ، يُيَسِّرُ",
+      "tenses": {
+        "present": {
+          "ich": "erleichtere",
+          "du": "erleichterst",
+          "er_sie_es": "erleichtert",
+          "wir": "erleichtern",
+          "ihr": "erleichtert",
+          "sie_Sie": "erleichtern"
+        },
+        "past_simple": {
+          "ich": "erleichterte",
+          "du": "erleichtertest",
+          "er_sie_es": "erleichterte",
+          "wir": "erleichterten",
+          "ihr": "erleichtertet",
+          "sie_Sie": "erleichterten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "erleichtert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "durch",
+          "case": "Akkusativ",
+          "meaning_ar": "يخفف من خلال"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Gute Zusammenarbeit erleichtert die Erledigung schwerer Aufgaben.",
+          "en": "Good cooperation eases the completion of heavy tasks.",
+          "ar": "التَّعَاوُنُ الطَّيِّبُ يُيَسِّرُ إِنْجَازَ المَهَامِّ الشَّاقَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_empathy_019",
+      "infinitive": "bewundern",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "hohe Achtung und Staunen für eine edle Eigenschaft hegen",
+      "meaning_en": "to admire",
+      "meaning_ar": "يُعْجَبُ بـ، يُكْبِرُ خَصْلَةً نَبِيلَة",
+      "tenses": {
+        "present": {
+          "ich": "bewundere",
+          "du": "bewunderst",
+          "er_sie_es": "bewundert",
+          "wir": "bewundern",
+          "ihr": "bewundert",
+          "sie_Sie": "bewundern"
+        },
+        "past_simple": {
+          "ich": "bewunderte",
+          "du": "bewundertest",
+          "er_sie_es": "bewunderte",
+          "wir": "bewunderten",
+          "ihr": "bewundertet",
+          "sie_Sie": "bewunderten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "bewundert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "für",
+          "case": "Akkusativ",
+          "meaning_ar": "يعجب بـ لأجل"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Alle bewundern ihre unermüdliche Geduld und Freundlichkeit.",
+          "en": "Everyone admires her tireless patience and kindness.",
+          "ar": "يُعْجَبُ الجَمِيعُ بِصَبْرِهَا الدَّؤُوبِ وَطِيبَتِهَا الفَائِقَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_empathy_020",
+      "infinitive": "begleiten",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "mit jemandem mitgehen und ihm zur Seite stehen",
+      "meaning_en": "to accompany, walk with, stand by",
+      "meaning_ar": "يُرَافِقُ، يُصَاحِبُ، يُؤَازِرُ",
+      "tenses": {
+        "present": {
+          "ich": "begleite",
+          "du": "begleitest",
+          "er_sie_es": "begleitet",
+          "wir": "begleiten",
+          "ihr": "begleitet",
+          "sie_Sie": "begleiten"
+        },
+        "past_simple": {
+          "ich": "begleitete",
+          "du": "begleitetest",
+          "er_sie_es": "begleitete",
+          "wir": "begleiteten",
+          "ihr": "begleitetet",
+          "sie_Sie": "begleiteten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "begleitet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Dativ",
+          "meaning_ar": "يرافق في طريق"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er begleitet den sehbehinderten Mann sicher über die Straße.",
+          "en": "He safely accompanies the visually impaired man across the street.",
+          "ar": "يُرَافِقُ الرَّجُلَ الكَفِيفَ بِأَمَانٍ لِعُبُورِ الشَّارِع."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,909 @@
+{
+  "category_id": "a2_airport_flying_verbs",
+  "category_name_de": "Flughafen-, Flug- und Reiseverben",
+  "category_name_en": "Airport, Air Travel & Flying Verbs",
+  "category_name_ar": "أفعال السفر الجوي والتنقل في المطار",
+  "level": "A1/A2",
+  "verbs": [
+    {
+      "id": "verb_fly_001",
+      "infinitive": "fliegen",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "sich mit dem Flugzeug durch die Luft fortbewegen",
+      "meaning_en": "to fly, travel by air",
+      "meaning_ar": "يَطِيرُ، يُسَافِرُ جَوًّا",
+      "tenses": {
+        "present": {
+          "ich": "fliege",
+          "du": "fliegst",
+          "er_sie_es": "fliegt",
+          "wir": "fliegen",
+          "ihr": "fliegt",
+          "sie_Sie": "fliegen"
+        },
+        "past_simple": {
+          "ich": "flog",
+          "du": "flogst",
+          "er_sie_es": "flog",
+          "wir": "flogen",
+          "ihr": "flogt",
+          "sie_Sie": "flogen"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "geflogen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "nach",
+          "case": "Dativ",
+          "meaning_ar": "يسافر جواً إلى بلد"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wir fliegen morgen früh zur internationalen Konferenz nach Wien.",
+          "en": "We are flying to Vienna early tomorrow morning for the international conference.",
+          "ar": "نُسَافِرُ جَوًّا صَبَاحَ غَدٍ إِلَى فِيِينَّا لِحُضُورِ المُؤْتَمَرِ الدَّوْلِيّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_fly_002",
+      "infinitive": "abfliegen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "den Startflughafen planmäßig mit dem Flugzeug verlassen",
+      "meaning_en": "to depart by plane, take off",
+      "meaning_ar": "يُغَادِرُ جَوًّا، تَنْطَلِقُ الرِّحْلَة",
+      "tenses": {
+        "present": {
+          "ich": "fliege ab",
+          "du": "fliegst ab",
+          "er_sie_es": "fliegt ab",
+          "wir": "fliegen ab",
+          "ihr": "fliegt ab",
+          "sie_Sie": "fliegen ab"
+        },
+        "past_simple": {
+          "ich": "flog ab",
+          "du": "flogst ab",
+          "er_sie_es": "flog ab",
+          "wir": "flogen ab",
+          "ihr": "flogt ab",
+          "sie_Sie": "flogen ab"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "abgeflogen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "von",
+          "case": "Dativ",
+          "meaning_ar": "يقلع من مطار"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Das Flugzeug fliegt pünktlich um zehn Uhr vom Flughafen München ab.",
+          "en": "The plane departs punctually at ten o'clock from Munich Airport.",
+          "ar": "تُقْلِعُ الطَّائِرَةُ فِي تَمَامِ السَّاعَةِ العَاشِرَةِ مِنْ مَطَارِ مِيُونِيخ."
+        }
+      ]
+    },
+    {
+      "id": "verb_fly_003",
+      "infinitive": "landen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "nach dem Flug sicher auf der Piste aufsetzen",
+      "meaning_en": "to land safely",
+      "meaning_ar": "تَهْبُطُ الطَّائِرَةُ بِسَلَام",
+      "tenses": {
+        "present": {
+          "ich": "lande",
+          "du": "landest",
+          "er_sie_es": "landet",
+          "wir": "landen",
+          "ihr": "landet",
+          "sie_Sie": "landen"
+        },
+        "past_simple": {
+          "ich": "landete",
+          "du": "landetest",
+          "er_sie_es": "landete",
+          "wir": "landeten",
+          "ihr": "landetet",
+          "sie_Sie": "landeten"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "gelandet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Dativ",
+          "meaning_ar": "تهبط على المدرج"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Maschine landete sanft und sicher auf der südlichen Landebahn.",
+          "en": "The aircraft landed smoothly and safely on the southern runway.",
+          "ar": "هَبَطَتِ الطَّائِرَةُ بِسَلَاسَةٍ وَأَمَانٍ عَلَى المَدْرَجِ الجَنُوبِيّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_fly_004",
+      "infinitive": "einchecken",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "sich am Schalter oder online für den Flug anmelden",
+      "meaning_en": "to check in for a flight",
+      "meaning_ar": "يُسَجِّلُ دُخُولَهُ لِلرِّحْلَةِ الجَوِّيَّة",
+      "tenses": {
+        "present": {
+          "ich": "checke ein",
+          "du": "checkst ein",
+          "er_sie_es": "checkt ein",
+          "wir": "checken ein",
+          "ihr": "checkt ein",
+          "sie_Sie": "checken ein"
+        },
+        "past_simple": {
+          "ich": "checkte ein",
+          "du": "checktest ein",
+          "er_sie_es": "checkte ein",
+          "wir": "checkten ein",
+          "ihr": "checktet ein",
+          "sie_Sie": "checkten ein"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "eingecheckt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "am",
+          "case": "Dativ",
+          "meaning_ar": "يسجل عند الشباك أو عبر الإنترنت"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wir checken bereits vierundzwanzig Stunden vor Abflug bequem online ein.",
+          "en": "We conveniently check in online twenty-four hours before departure.",
+          "ar": "نُسَجِّلُ الدُّخُولَ عَبْرَ الإِنْتَرْنِت قَبْلَ أَرْبَعٍ وَعِشْرِينَ سَاعَةً مِنَ الإِقْلَاع."
+        }
+      ]
+    },
+    {
+      "id": "verb_fly_005",
+      "infinitive": "einsteigen",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "über die Fluggastbrücke in die Kabine des Flugzeugs gehen",
+      "meaning_en": "to board the aircraft",
+      "meaning_ar": "يَصْعَدُ إِلَى مَتْنِ الطَّائِرَة",
+      "tenses": {
+        "present": {
+          "ich": "steige ein",
+          "du": "steigst ein",
+          "er_sie_es": "steigt ein",
+          "wir": "steigen ein",
+          "ihr": "steigt ein",
+          "sie_Sie": "steigen ein"
+        },
+        "past_simple": {
+          "ich": "stieg ein",
+          "du": "stiegst ein",
+          "er_sie_es": "stieg ein",
+          "wir": "stiegen ein",
+          "ihr": "stiegt ein",
+          "sie_Sie": "stiegen ein"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "eingestiegen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Akkusativ",
+          "meaning_ar": "يصعد إلى الطائرة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Passagiere steigen der Reihe nach ruhig in das Flugzeug ein.",
+          "en": "Passengers board the aircraft calmly row by row.",
+          "ar": "يَصْعَدُ الرُّكَّابُ إِلَى مَتْنِ الطَّائِرَةِ بِهُدُوءٍ صَفًّا بَعْدَ صَفّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_fly_006",
+      "infinitive": "aussteigen",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "das Flugzeug nach der Ankunft am Zielort verlassen",
+      "meaning_en": "to disembark from plane",
+      "meaning_ar": "يَنْزِلُ مِنْ مَتْنِ الطَّائِرَة",
+      "tenses": {
+        "present": {
+          "ich": "steige aus",
+          "du": "steigst aus",
+          "er_sie_es": "steigt aus",
+          "wir": "steigen aus",
+          "ihr": "steigt aus",
+          "sie_Sie": "steigen aus"
+        },
+        "past_simple": {
+          "ich": "stieg aus",
+          "du": "stiegst aus",
+          "er_sie_es": "stieg aus",
+          "wir": "stiegen aus",
+          "ihr": "stiegt aus",
+          "sie_Sie": "stiegen aus"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "ausgestiegen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Dativ",
+          "meaning_ar": "ينزل عند البوابة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Nach dem Stillstand der Maschine steigen alle Reisenden zügig aus.",
+          "en": "After the aircraft comes to a complete halt, all travelers disembark promptly.",
+          "ar": "يَنْزِلُ جَمِيعُ المُسَافِرِينَ بِنِظَامٍ بَعْدَ تَوَقُّفِ الطَّائِرَةِ التَّامّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_fly_007",
+      "infinitive": "aufgeben",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "große Koffer am Gepäckschalter zur Beförderung im Frachtraum abgeben",
+      "meaning_en": "to check in baggage",
+      "meaning_ar": "يُسَلِّمُ الحَقَائِبَ لِشَحْنِهَا",
+      "tenses": {
+        "present": {
+          "ich": "gebe auf",
+          "du": "gibst auf",
+          "er_sie_es": "gibt auf",
+          "wir": "geben auf",
+          "ihr": "gebt auf",
+          "sie_Sie": "geben auf"
+        },
+        "past_simple": {
+          "ich": "gab auf",
+          "du": "gabst auf",
+          "er_sie_es": "gab auf",
+          "wir": "gaben auf",
+          "ihr": "gabt auf",
+          "sie_Sie": "gaben auf"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "aufgegeben"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "am",
+          "case": "Dativ",
+          "meaning_ar": "يسلم عند كاونتر الأمتعة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wir gaben zwei schwere Koffer am Gepäckschalter auf.",
+          "en": "We checked in two heavy suitcases at the baggage drop-off.",
+          "ar": "سَلَّمْنَا حَقِيبَتَيْنِ كَبِيرَتَيْنِ عِنْدَ شُبَّاكِ شَحْنِ الأَمْتِعَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_fly_008",
+      "infinitive": "abholen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "die eigenen Koffer vom rollenden Gepäckband nehmen",
+      "meaning_en": "to collect, pick up luggage",
+      "meaning_ar": "يَسْتَلِمُ الحَقَائِبَ مِنَ الشَّرِيط",
+      "tenses": {
+        "present": {
+          "ich": "hole ab",
+          "du": "holst ab",
+          "er_sie_es": "holt ab",
+          "wir": "holen ab",
+          "ihr": "holt ab",
+          "sie_Sie": "holen ab"
+        },
+        "past_simple": {
+          "ich": "holte ab",
+          "du": "holtest ab",
+          "er_sie_es": "holte ab",
+          "wir": "holten ab",
+          "ihr": "holtet ab",
+          "sie_Sie": "holten ab"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "abgeholt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "am",
+          "case": "Dativ",
+          "meaning_ar": "يستلم عند شريط الأمتعة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "In der Ankunftshalle holten wir unser Gepäck vollständig und unbeschädigt ab.",
+          "en": "In the arrivals hall, we collected our luggage completely and undamaged.",
+          "ar": "اسْتَلَمْنَا حَقَائِبَنَا فِي صَالَةِ الوُصُولِ كَامِلَةً وَسَلِيمَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_fly_009",
+      "infinitive": "vorzeigen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Dokumente wie Pass und Ticket den Beamten zur Kontrolle vorlegen",
+      "meaning_en": "to present passport or ticket",
+      "meaning_ar": "يُبْرِزُ، يُقَدِّمُ جَوَازَ السَّفَرِ لِلتَّدْقِيق",
+      "tenses": {
+        "present": {
+          "ich": "zeige vor",
+          "du": "zeigst vor",
+          "er_sie_es": "zeigt vor",
+          "wir": "zeigen vor",
+          "ihr": "zeigt vor",
+          "sie_Sie": "zeigen vor"
+        },
+        "past_simple": {
+          "ich": "zeigte vor",
+          "du": "zeigtest vor",
+          "er_sie_es": "zeigte vor",
+          "wir": "zeigten vor",
+          "ihr": "zeigtet vor",
+          "sie_Sie": "zeigten vor"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "vorgezeigt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Dativ",
+          "meaning_ar": "يبرز عند نقطة الجوازات"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Bitte zeigen Sie Ihren gültigen Reisepass an der Grenzkontrolle vor.",
+          "en": "Please present your valid passport at border control.",
+          "ar": "يُرْجَى إِبْرَازُ جَوَازِ السَّفَرِ السَّارِي عِنْدَ نُقْطَةِ مُرَاقَبَةِ الحُدُود."
+        }
+      ]
+    },
+    {
+      "id": "verb_fly_010",
+      "infinitive": "anschnallen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "den Sicherheitsgurt im Flugzeugsitz schließen",
+      "meaning_en": "to fasten seatbelt",
+      "meaning_ar": "يَرْبِطُ حِزَامَ الأَمَان",
+      "tenses": {
+        "present": {
+          "ich": "schnalle an",
+          "du": "schnallst an",
+          "er_sie_es": "schnallt an",
+          "wir": "schnallen an",
+          "ihr": "schnallt an",
+          "sie_Sie": "schnallen an"
+        },
+        "past_simple": {
+          "ich": "schnallte an",
+          "du": "schnalltest an",
+          "er_sie_es": "schnallte an",
+          "wir": "schnallten an",
+          "ihr": "schnalltet an",
+          "sie_Sie": "schnallten an"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "angeschnallt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Dativ",
+          "meaning_ar": "يربط الحزام في المقعد"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Alle Passagiere schnallen sich an, sobald das Signal aufleuchtet.",
+          "en": "All passengers fasten their seatbelts as soon as the sign lights up.",
+          "ar": "يَرْبِطُ جَمِيعُ الرُّكَّابِ أَحْزِمَةَ الأَمَانِ بِمُجَرَّدِ إِضَاءَةِ الإِشَارَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_fly_011",
+      "infinitive": "durchsagen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Sicherheitsanweisungen über die Bordlautsprecher mitteilen",
+      "meaning_en": "to announce over cabin loudspeaker",
+      "meaning_ar": "يُعْلِنُ عَبْرَ مُكَبِّرِ صَوْتِ الطَّائِرَة",
+      "tenses": {
+        "present": {
+          "ich": "sage durch",
+          "du": "sagst durch",
+          "er_sie_es": "sagt durch",
+          "wir": "sagen durch",
+          "ihr": "sagt durch",
+          "sie_Sie": "sagen durch"
+        },
+        "past_simple": {
+          "ich": "sagte durch",
+          "du": "sagtest durch",
+          "er_sie_es": "sagte durch",
+          "wir": "sagten durch",
+          "ihr": "sagtet durch",
+          "sie_Sie": "sagten durch"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "durchgesagt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "über",
+          "case": "Akkusativ",
+          "meaning_ar": "يعلن عبر المكبر"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Kapitän sagt die voraussichtliche Ankunftszeit freundlich durch.",
+          "en": "The captain kindly announces the estimated arrival time.",
+          "ar": "يُعْلِنُ القُبْطَانُ عَنْ وَقْتِ الوُصُولِ المُتَوَقَّعِ بِلَبَاقَةٍ عَبْرَ المِذْيَاع."
+        }
+      ]
+    },
+    {
+      "id": "verb_fly_012",
+      "infinitive": "wiegen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "das Koffergewicht vor dem Einchecken auf der Gepäckwaage prüfen",
+      "meaning_en": "to weigh luggage",
+      "meaning_ar": "يَزِنُ الحَقَائِبَ لِلتَّأَكُّدِ مِنَ الوَزْنِ المَسْمُوح",
+      "tenses": {
+        "present": {
+          "ich": "wiege",
+          "du": "wiegst",
+          "er_sie_es": "wiegt",
+          "wir": "wiegen",
+          "ihr": "wiegt",
+          "sie_Sie": "wiegen"
+        },
+        "past_simple": {
+          "ich": "wog",
+          "du": "wogst",
+          "er_sie_es": "wog",
+          "wir": "wogen",
+          "ihr": "wogt",
+          "sie_Sie": "wogen"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gewogen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Dativ",
+          "meaning_ar": "يزن على الميزان"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Mitarbeiterin wiegt das Gepäckstück sorgfältig am Schalter ab.",
+          "en": "The staff member weighs the piece of luggage carefully at the counter.",
+          "ar": "تَزِنُ المُوَظَّفَةُ حَقِيبَةَ السَّفَرِ بِعِنَايَةٍ عِنْدَ الشُّبَّاك."
+        }
+      ]
+    },
+    {
+      "id": "verb_fly_013",
+      "infinitive": "passieren",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "einen Kontrollpunkt oder das Abfluggate durchschreiten",
+      "meaning_en": "to pass through checkpoints",
+      "meaning_ar": "يَجْتَازُ نُقْطَةَ التَّفْتِيشِ أَوِ البَوَّابَة",
+      "tenses": {
+        "present": {
+          "ich": "passiere",
+          "du": "passierst",
+          "er_sie_es": "passiert",
+          "wir": "passieren",
+          "ihr": "passiert",
+          "sie_Sie": "passieren"
+        },
+        "past_simple": {
+          "ich": "passierte",
+          "du": "passiertest",
+          "er_sie_es": "passierte",
+          "wir": "passierten",
+          "ihr": "passiertet",
+          "sie_Sie": "passierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "passiert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "ohne",
+          "case": "Akkusativ",
+          "meaning_ar": "يجتاز دون عوائق"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Reisenden passierten die Sicherheitskontrolle ohne jede Verzögerung.",
+          "en": "The travelers passed through security control without any delay.",
+          "ar": "اجْتَازَ المُسَافِرُونَ نُقْطَةَ التَّفْتِيشِ الأَمْنِيِّ دُونَ أَيِّ تَأْخِير."
+        }
+      ]
+    },
+    {
+      "id": "verb_fly_014",
+      "infinitive": "verspäten",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "aufgrund von Wetter oder Technik später als geplant starten",
+      "meaning_en": "to be delayed",
+      "meaning_ar": "تَتَأَخَّرُ الرِّحْلَةُ عَنْ مَوْعِدِهَا",
+      "tenses": {
+        "present": {
+          "ich": "verspäte mich",
+          "du": "verspätest dich",
+          "er_sie_es": "verspätet sich",
+          "wir": "verspäten uns",
+          "ihr": "verspätet euch",
+          "sie_Sie": "verspäten sich"
+        },
+        "past_simple": {
+          "ich": "verspätete mich",
+          "du": "verspätetest dich",
+          "er_sie_es": "verspätete sich",
+          "wir": "verspäteten uns",
+          "ihr": "verspätetet euch",
+          "sie_Sie": "verspäteten sich"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "verspätet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "wegen",
+          "case": "Genitiv",
+          "meaning_ar": "يتأخر بسبب الضباب"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wegen dichten Nebels verspätete sich der Abflug um eine halbe Stunde.",
+          "en": "Due to dense fog, the departure was delayed by half an hour.",
+          "ar": "تَأَخَّرَ الإِقْلَاعُ نِصْفَ سَاعَةٍ بِسَبَبِ الضَّبَابِ الكَثِيف."
+        }
+      ]
+    },
+    {
+      "id": "verb_fly_015",
+      "infinitive": "starten",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "die Triebwerke beschleunigen und vom Boden abheben",
+      "meaning_en": "to take off, launch",
+      "meaning_ar": "تُقْلِعُ، تَنْطَلِقُ الطَّائِرَةُ صَاعِدَة",
+      "tenses": {
+        "present": {
+          "ich": "starte",
+          "du": "startest",
+          "er_sie_es": "startet",
+          "wir": "starten",
+          "ihr": "startet",
+          "sie_Sie": "starten"
+        },
+        "past_simple": {
+          "ich": "startete",
+          "du": "startetest",
+          "er_sie_es": "startete",
+          "wir": "starteten",
+          "ihr": "startetet",
+          "sie_Sie": "starteten"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "gestartet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "von",
+          "case": "Dativ",
+          "meaning_ar": "تقلع من المدرج"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Das Passagierflugzeug startet majestätisch in den blauen Himmel.",
+          "en": "The passenger plane takes off majestically into the blue sky.",
+          "ar": "تُقْلِعُ طَائِرَةُ الرُّكَّابِ بِشُمُوخٍ فِي أُفُقِ السَّمَاءِ الزَّرْقَاء."
+        }
+      ]
+    },
+    {
+      "id": "verb_fly_016",
+      "infinitive": "reisen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "eine längere Strecke zur Erkundung neuer Länder zurücklegen",
+      "meaning_en": "to travel internationally",
+      "meaning_ar": "يُسَافِرُ، يَرْتَحِلُ لِاسْتِطْلَاعِ الآفَاق",
+      "tenses": {
+        "present": {
+          "ich": "reise",
+          "du": "reist",
+          "er_sie_es": "reist",
+          "wir": "reisen",
+          "ihr": "reist",
+          "sie_Sie": "reisen"
+        },
+        "past_simple": {
+          "ich": "reiste",
+          "du": "reistest",
+          "er_sie_es": "reiste",
+          "wir": "reisten",
+          "ihr": "reistet",
+          "sie_Sie": "reisten"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "gereist"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "um",
+          "case": "Akkusativ",
+          "meaning_ar": "يسافر حول العالم"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er reist gerne mit leichtem Gepäck und offenem Geist in ferne Länder.",
+          "en": "He likes traveling to distant countries with light luggage and an open mind.",
+          "ar": "يُحِبُّ السَّفَرَ إِلَى البُلْدَانِ البَعِيدَةِ بِأَمْتِعَةٍ خَفِيفَةٍ وَعَقْلٍ مُنْفَتِح."
+        }
+      ]
+    },
+    {
+      "id": "verb_fly_017",
+      "infinitive": "erreichen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "nach einem langen Flug pünktlich am Zielort ankommen",
+      "meaning_en": "to reach one's destination",
+      "meaning_ar": "يَصِلُ إِلَى وِجْهَتِهِ بِسَلَام",
+      "tenses": {
+        "present": {
+          "ich": "erreiche",
+          "du": "erreichst",
+          "er_sie_es": "erreicht",
+          "wir": "erreichen",
+          "ihr": "erreicht",
+          "sie_Sie": "erreichen"
+        },
+        "past_simple": {
+          "ich": "erreichte",
+          "du": "erreichtest",
+          "er_sie_es": "erreichte",
+          "wir": "erreichten",
+          "ihr": "erreichtet",
+          "sie_Sie": "erreichten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "erreicht"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "nach",
+          "case": "Dativ",
+          "meaning_ar": "يصل بعد ساعات طيران"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Nach sieben Stunden Flug erreichten wir wohlbehalten die Hauptstadt.",
+          "en": "After a seven-hour flight, we safely reached the capital.",
+          "ar": "وَصَلْنَا بِسَلَامٍ إِلَى العَاصِمَةِ بَعْدَ سَبْعِ سَاعَاتٍ مِنَ الطَّيَرَان."
+        }
+      ]
+    },
+    {
+      "id": "verb_fly_018",
+      "infinitive": "umsteigen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "am Transitflughafen das Flugzeug für den Weiterflug wechseln",
+      "meaning_en": "to transfer flights, change planes",
+      "meaning_ar": "يُحَوِّلُ الطَّائِرَةَ فِي مَحَطَّةِ التَّرَانْزِيت",
+      "tenses": {
+        "present": {
+          "ich": "steige um",
+          "du": "steigst um",
+          "er_sie_es": "steigt um",
+          "wir": "steigen um",
+          "ihr": "steigt um",
+          "sie_Sie": "steigen um"
+        },
+        "past_simple": {
+          "ich": "stieg um",
+          "du": "stiegst um",
+          "er_sie_es": "stieg um",
+          "wir": "stiegen um",
+          "ihr": "stiegt um",
+          "sie_Sie": "stiegen um"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "umgestiegen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Akkusativ",
+          "meaning_ar": "يبدل إلى رحلة متابعة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "In Istanbul steigen wir in den Anschlussflug nach Amman um.",
+          "en": "In Istanbul, we transfer to the connecting flight to Amman.",
+          "ar": "نُحَوِّلُ فِي إِسْطَنْبُولَ إِلَى رِحْلَةِ المُتَابَعَةِ المُتَّجِهَةِ إِلَى عَمَّان."
+        }
+      ]
+    },
+    {
+      "id": "verb_fly_019",
+      "infinitive": "warten",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "geduldig im Abflugbereich auf das Boarding harren",
+      "meaning_en": "to wait in the departure lounge",
+      "meaning_ar": "يَنْتَظِرُ فِي صَالَةِ المُغَادَرَة",
+      "tenses": {
+        "present": {
+          "ich": "warte",
+          "du": "wartest",
+          "er_sie_es": "wartet",
+          "wir": "warten",
+          "ihr": "wartet",
+          "sie_Sie": "warten"
+        },
+        "past_simple": {
+          "ich": "wartete",
+          "du": "wartetest",
+          "er_sie_es": "wartete",
+          "wir": "warteten",
+          "ihr": "wartetet",
+          "sie_Sie": "warteten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gewartet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Akkusativ",
+          "meaning_ar": "ينتظر نداء الصعود"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Fluggäste warten entspannt im Gatebereich auf den Aufruf.",
+          "en": "Passengers wait relaxed in the gate area for the announcement.",
+          "ar": "يَنْتَظِرُ المُسَافِرُونَ فِي مِنْطَقَةِ البَوَّابَةِ بِارْتِيَاحٍ نِدَاءَ الصُّعُود."
+        }
+      ]
+    },
+    {
+      "id": "verb_fly_020",
+      "infinitive": "willkommen heißen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "Fluggäste beim Betreten der Maschine herzlich begrüßen",
+      "meaning_en": "to welcome passengers aboard",
+      "meaning_ar": "يُرَحِّبُ بِالمُسَافِرِينَ عَلَى مَتْنِ الطَّائِرَة",
+      "tenses": {
+        "present": {
+          "ich": "heiße willkommen",
+          "du": "heißt willkommen",
+          "er_sie_es": "heißt willkommen",
+          "wir": "heißen willkommen",
+          "ihr": "heißt willkommen",
+          "sie_Sie": "heißen willkommen"
+        },
+        "past_simple": {
+          "ich": "hieß willkommen",
+          "du": "hießest willkommen",
+          "er_sie_es": "hieß willkommen",
+          "wir": "hießen willkommen",
+          "ihr": "hießt willkommen",
+          "sie_Sie": "hießen willkommen"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "willkommen geheißen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Dativ",
+          "meaning_ar": "يرحب على متن الرحلة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Besatzung hieß alle Passagiere an Bord herzlich willkommen.",
+          "en": "The crew warmly welcomed all passengers on board.",
+          "ar": "رَحَّبَ طَاقَمُ الطَّائِرَةِ بِجَمِيعِ المُسَافِرِينَ عَلَى المَتْنِ بِكُلِّ حَفَاوَة."
+        }
+      ]
+    }
+  ]
+}

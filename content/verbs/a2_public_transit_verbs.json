@@ -1,0 +1,909 @@
+{
+  "category_id": "a2_public_transit_verbs",
+  "category_name_de": "Nahverkehrs- und Mobilitätsverben",
+  "category_name_en": "Public Transit & Commuting Verbs",
+  "category_name_ar": "أفعال ركوب واستخدام المواصلات والتنقل",
+  "level": "A1/A2",
+  "verbs": [
+    {
+      "id": "verb_transit_001",
+      "infinitive": "einsteigen",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "in ein Verkehrsmittel wie Bus oder Bahn hineingehen",
+      "meaning_en": "to board, get in, get on",
+      "meaning_ar": "يَرْكَبُ، يَصْعَدُ إِلَى الحَافِلَةِ أَوِ القِطَار",
+      "tenses": {
+        "present": {
+          "ich": "steige ein",
+          "du": "steigst ein",
+          "er_sie_es": "steigt ein",
+          "wir": "steigen ein",
+          "ihr": "steigt ein",
+          "sie_Sie": "steigen ein"
+        },
+        "past_simple": {
+          "ich": "stieg ein",
+          "du": "stiegst ein",
+          "er_sie_es": "stieg ein",
+          "wir": "stiegen ein",
+          "ihr": "stiegt ein",
+          "sie_Sie": "stiegen ein"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "eingestiegen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Akkusativ",
+          "meaning_ar": "يركب في"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Fahrgäste steigen an der Vordertür in den Bus ein.",
+          "en": "Passengers board the bus at the front door.",
+          "ar": "يَصْعَدُ الرُّكَّابُ إِلَى الحَافِلَةِ مِنَ البَابِ الأَمَامِيّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_transit_002",
+      "infinitive": "aussteigen",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "ein Verkehrsmittel an der Zielhaltestelle verlassen",
+      "meaning_en": "to get off, alight",
+      "meaning_ar": "يَنْزِلُ مِنَ الحَافِلَةِ أَوِ القِطَار",
+      "tenses": {
+        "present": {
+          "ich": "steige aus",
+          "du": "steigst aus",
+          "er_sie_es": "steigt aus",
+          "wir": "steigen aus",
+          "ihr": "steigt aus",
+          "sie_Sie": "steigen aus"
+        },
+        "past_simple": {
+          "ich": "stieg aus",
+          "du": "stiegst aus",
+          "er_sie_es": "stieg aus",
+          "wir": "stiegen aus",
+          "ihr": "stiegt aus",
+          "sie_Sie": "stiegen aus"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "ausgestiegen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Dativ",
+          "meaning_ar": "ينزل عند محطة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wir steigen an der nächsten Haltestelle am Rathaus aus.",
+          "en": "We get off at the next stop by the town hall.",
+          "ar": "نَنْزِلُ عِنْدَ المَوْقِفِ التَّالِي بِجِوَارِ مَبْنَى البَلَدِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_transit_003",
+      "infinitive": "umsteigen",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "von einer Linie in eine andere wechseln",
+      "meaning_en": "to transfer, change lines",
+      "meaning_ar": "يُبَدِّلُ القِطَارَ أَوِ الحَافِلَة، يُحَوِّل",
+      "tenses": {
+        "present": {
+          "ich": "steige um",
+          "du": "steigst um",
+          "er_sie_es": "steigt um",
+          "wir": "steigen um",
+          "ihr": "steigt um",
+          "sie_Sie": "steigen um"
+        },
+        "past_simple": {
+          "ich": "stieg um",
+          "du": "stiegst um",
+          "er_sie_es": "stieg um",
+          "wir": "stiegen um",
+          "ihr": "stiegt um",
+          "sie_Sie": "stiegen um"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "umgestiegen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Akkusativ",
+          "meaning_ar": "يبدل إلى (خط آخر)"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Am Hauptbahnhof müssen wir in die S-Bahn Linie drei umsteigen.",
+          "en": "At the central station, we have to transfer to suburban train line three.",
+          "ar": "يَجِبُ أَنْ نُحَوِّلَ فِي المَحَطَّةِ المَرْكَزِيَّةِ إِلَى قِطَارِ الضَّوَاحِي الخَطِّ الثَّالِث."
+        }
+      ]
+    },
+    {
+      "id": "verb_transit_004",
+      "infinitive": "entwerten",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "ein Ticket am Automaten mit einem Datumsstempel versehen",
+      "meaning_en": "to validate, stamp a ticket",
+      "meaning_ar": "يَخْتِمُ التَّذْكِرَةَ لِتَصِيرَ صَالِحَة",
+      "tenses": {
+        "present": {
+          "ich": "entwerte",
+          "du": "entwertest",
+          "er_sie_es": "entwertet",
+          "wir": "entwerten",
+          "ihr": "entwertet",
+          "sie_Sie": "entwerten"
+        },
+        "past_simple": {
+          "ich": "entwertete",
+          "du": "entwertetest",
+          "er_sie_es": "entwertete",
+          "wir": "entwerteten",
+          "ihr": "entwertetet",
+          "sie_Sie": "entwerteten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "entwertet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "am",
+          "case": "Dativ",
+          "meaning_ar": "يختم في جهاز الختم"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Vergiss nicht, deine Fahrkarte vor Fahrtantritt zu entwerten.",
+          "en": "Do not forget to validate your ticket before starting the journey.",
+          "ar": "لَا تَنْسَ خَتْمَ تَذْكِرَتِكَ فِي الجِهَازِ قَبْلَ بَدْءِ الرِّحْلَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_transit_005",
+      "infinitive": "abfahren",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "die Haltestelle oder den Bahnhof fahrend verlassen",
+      "meaning_en": "to depart, pull out",
+      "meaning_ar": "يَنْطَلِقُ، يَتَحَرَّكُ القِطَار",
+      "tenses": {
+        "present": {
+          "ich": "fahre ab",
+          "du": "fährst ab",
+          "er_sie_es": "fährt ab",
+          "wir": "fahren ab",
+          "ihr": "fahrt ab",
+          "sie_Sie": "fahren ab"
+        },
+        "past_simple": {
+          "ich": "fuhr ab",
+          "du": "fuhrst ab",
+          "er_sie_es": "fuhr ab",
+          "wir": "fuhren ab",
+          "ihr": "fuhrt ab",
+          "sie_Sie": "fuhren ab"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "abgefahren"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "von",
+          "case": "Dativ",
+          "meaning_ar": "ينطلق من"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Intercity fährt pünktlich um zehn Uhr von Gleis zwei ab.",
+          "en": "The intercity train departs punctually at ten o'clock from track two.",
+          "ar": "يَنْطَلِقُ قِطَارُ المَدَائِنِ فِي السَّاعَةِ العَاشِرَةِ تَمَامًا مِنَ المَسَارِ الثَّانِي."
+        }
+      ]
+    },
+    {
+      "id": "verb_transit_006",
+      "infinitive": "ankommen",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "am Zielort oder an der Haltestelle eintreffen",
+      "meaning_en": "to arrive",
+      "meaning_ar": "يَصِلُ",
+      "tenses": {
+        "present": {
+          "ich": "komme an",
+          "du": "kommst an",
+          "er_sie_es": "kommt an",
+          "wir": "kommen an",
+          "ihr": "kommt an",
+          "sie_Sie": "kommen an"
+        },
+        "past_simple": {
+          "ich": "kam an",
+          "du": "kamst an",
+          "er_sie_es": "kam an",
+          "wir": "kamen an",
+          "ihr": "kamt an",
+          "sie_Sie": "kamen an"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "angekommen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يصل إلى مدينة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wir kommen planmäßig um zwölf Uhr im Hauptbahnhof an.",
+          "en": "We arrive on schedule at twelve o'clock at the central station.",
+          "ar": "نَصِلُ حَسَبَ الجَدْوَلِ فِي السَّاعَةِ الثَّانِيَةَ عَشْرَةَ إِلَى المَحَطَّةِ المَرْكَزِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_transit_007",
+      "infinitive": "verpassen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "zu spät kommen und den Bus oder Zug nicht mehr erreichen",
+      "meaning_en": "to miss a bus or train",
+      "meaning_ar": "يُفَوِّتُ الحَافِلَةَ أَوِ القِطَار",
+      "tenses": {
+        "present": {
+          "ich": "verpasse",
+          "du": "verpasst",
+          "er_sie_es": "verpasst",
+          "wir": "verpassen",
+          "ihr": "verpasst",
+          "sie_Sie": "verpassen"
+        },
+        "past_simple": {
+          "ich": "verpasste",
+          "du": "verpasstest",
+          "er_sie_es": "verpasste",
+          "wir": "verpassten",
+          "ihr": "verpasstet",
+          "sie_Sie": "verpassten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "verpasst"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "um",
+          "case": "Akkusativ",
+          "meaning_ar": "يفوت بفارق"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er verpasste den Bus um eine Minute und wartete auf den nächsten.",
+          "en": "He missed the bus by one minute and waited for the next one.",
+          "ar": "فَاتَتْهُ الحَافِلَةُ بِفَارِقِ دَقِيقَةٍ وَاحِدَةٍ فَانْتَظَرَ الحَافِلَةَ التَّالِيَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_transit_008",
+      "infinitive": "erreichen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "rechtzeitig am Bahnsteig ankommen und einsteigen können",
+      "meaning_en": "to catch a train, reach",
+      "meaning_ar": "يَلْحَقُ بِالقِطَارِ فِي الوَقْتِ المُحَدَّد",
+      "tenses": {
+        "present": {
+          "ich": "erreiche",
+          "du": "erreichst",
+          "er_sie_es": "erreicht",
+          "wir": "erreichen",
+          "ihr": "erreicht",
+          "sie_Sie": "erreichen"
+        },
+        "past_simple": {
+          "ich": "erreichte",
+          "du": "erreichtest",
+          "er_sie_es": "erreichte",
+          "wir": "erreichten",
+          "ihr": "erreichtet",
+          "sie_Sie": "erreichten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "erreicht"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يلحق خلال"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Dank schnellem Schritt erreichten wir die Straßenbahn noch rechtzeitig.",
+          "en": "Thanks to brisk walking, we caught the tram just in time.",
+          "ar": "بِفَضْلِ المَشْيِ السَّرِيعِ لَحِقْنَا بِالتِّرَامِ فِي الوَقْتِ المُنَاسِب."
+        }
+      ]
+    },
+    {
+      "id": "verb_transit_009",
+      "infinitive": "warten",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "an der Haltestelle auf das Eintreffen des Verkehrsmittels harren",
+      "meaning_en": "to wait",
+      "meaning_ar": "يَنْتَظِرُ",
+      "tenses": {
+        "present": {
+          "ich": "warte",
+          "du": "wartest",
+          "er_sie_es": "wartet",
+          "wir": "warten",
+          "ihr": "wartet",
+          "sie_Sie": "warten"
+        },
+        "past_simple": {
+          "ich": "wartete",
+          "du": "wartetest",
+          "er_sie_es": "wartete",
+          "wir": "warteten",
+          "ihr": "wartetet",
+          "sie_Sie": "warteten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gewartet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Akkusativ",
+          "meaning_ar": "ينتظر (شخصاً أو حافلة)"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Fahrgäste warten geduldig auf die nächste U-Bahn.",
+          "en": "Passengers wait patiently for the next subway.",
+          "ar": "يَنْتَظِرُ الرُّكَّابُ بِصَبْرٍ قِطَارَ الأَنْفَاقِ التَّالِي."
+        }
+      ]
+    },
+    {
+      "id": "verb_transit_010",
+      "infinitive": "halten",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "an einer Station zum Ein- und Aussteigen stoppen",
+      "meaning_en": "to stop, call at station",
+      "meaning_ar": "يَتَوَقَّفُ فِي المَحَطَّة",
+      "tenses": {
+        "present": {
+          "ich": "halte",
+          "du": "hältst",
+          "er_sie_es": "hält",
+          "wir": "halten",
+          "ihr": "haltet",
+          "sie_Sie": "halten"
+        },
+        "past_simple": {
+          "ich": "hielt",
+          "du": "hieltst",
+          "er_sie_es": "hielt",
+          "wir": "hielten",
+          "ihr": "hieltet",
+          "sie_Sie": "hielten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gehalten"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Dativ",
+          "meaning_ar": "يتوقف عند"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Dieser Regionalexpress hält an allen Zwischenstationen.",
+          "en": "This regional express stops at all intermediate stations.",
+          "ar": "يَتَوَقَّفُ هَذَا القِطَارُ الإِقْلِيمِيُّ السَّرِيعُ عِنْدَ جَمِيعِ المَحَطَّاتِ البَيْنِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_transit_011",
+      "infinitive": "durchsagen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "eine Information über die Lautsprecheranlage bekanntgeben",
+      "meaning_en": "to announce via loudspeaker",
+      "meaning_ar": "يُعْلِنُ صَوْتِيًّا عَبْرَ مُكَبِّرِ الصَّوْت",
+      "tenses": {
+        "present": {
+          "ich": "sage durch",
+          "du": "sagst durch",
+          "er_sie_es": "sagt durch",
+          "wir": "sagen durch",
+          "ihr": "sagt durch",
+          "sie_Sie": "sagen durch"
+        },
+        "past_simple": {
+          "ich": "sagte durch",
+          "du": "sagtest durch",
+          "er_sie_es": "sagte durch",
+          "wir": "sagten durch",
+          "ihr": "sagtet durch",
+          "sie_Sie": "sagten durch"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "durchgesagt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "über",
+          "case": "Akkusativ",
+          "meaning_ar": "يعلن عبر"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Zugbegleiter sagt die Verspätung deutlich durch.",
+          "en": "The conductor clearly announces the delay over the loudspeaker.",
+          "ar": "يُعْلِنُ مُشْرِفُ القِطَارِ عَنِ التَّأْخِيرِ بِوُضُوحٍ عَبْرَ مُكَبِّرِ الصَّوْت."
+        }
+      ]
+    },
+    {
+      "id": "verb_transit_012",
+      "infinitive": "kontrollieren",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "die Gültigkeit der Fahrscheine überprüfen",
+      "meaning_en": "to inspect, check tickets",
+      "meaning_ar": "يُفَتِّشُ، يَتَحَقَّقُ مِنْ صَلَاحِيَّةِ التَّذَاكِر",
+      "tenses": {
+        "present": {
+          "ich": "kontrolliere",
+          "du": "kontrollierst",
+          "er_sie_es": "kontrolliert",
+          "wir": "kontrollieren",
+          "ihr": "kontrolliert",
+          "sie_Sie": "kontrollieren"
+        },
+        "past_simple": {
+          "ich": "kontrollierte",
+          "du": "kontrolliertest",
+          "er_sie_es": "kontrollierte",
+          "wir": "kontrollierten",
+          "ihr": "kontrolliertet",
+          "sie_Sie": "kontrollierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "kontrolliert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يفتش في"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Das Zugpersonal kontrolliert die Tickets freundlich und gewissenhaft.",
+          "en": "The train staff inspects tickets politely and conscientiously.",
+          "ar": "يَفْحَصُ طَاقَمُ القِطَارِ التَّذَاكِرَ بِلُطْفٍ وَأَمَانَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_transit_013",
+      "infinitive": "nachsehen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "im Fahrplan oder in der App nach Abfahrtszeiten schauen",
+      "meaning_en": "to look up in schedule",
+      "meaning_ar": "يَبْحَثُ فِي جَدْوَلِ المَوَاعِيد",
+      "tenses": {
+        "present": {
+          "ich": "sehe nach",
+          "du": "siehst nach",
+          "er_sie_es": "sieht nach",
+          "wir": "sehen nach",
+          "ihr": "seht nach",
+          "sie_Sie": "sehen nach"
+        },
+        "past_simple": {
+          "ich": "sah nach",
+          "du": "sahst nach",
+          "er_sie_es": "sah nach",
+          "wir": "sahen nach",
+          "ihr": "saht nach",
+          "sie_Sie": "sahen nach"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "nachgesehen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يبحث في التطبيق"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Ich sehe kurz in der Verkehrs-App nach der nächsten Verbindung nach.",
+          "en": "I quickly look up the next connection in the transit app.",
+          "ar": "أَبْحَثُ سَرِيعًا فِي تَطْبِيقِ النَّقْلِ عَنِ الرِّحْلَةِ القَادِمَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_transit_014",
+      "infinitive": "aufladen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "Guthaben auf eine elektronische Fahrkarte buchen",
+      "meaning_en": "to top up transit card",
+      "meaning_ar": "يَشْحَنُ رَصِيدَ بِطَاقَةِ المِرْكَبَات",
+      "tenses": {
+        "present": {
+          "ich": "lade auf",
+          "du": "lädst auf",
+          "er_sie_es": "lädt auf",
+          "wir": "laden auf",
+          "ihr": "ladet auf",
+          "sie_Sie": "laden auf"
+        },
+        "past_simple": {
+          "ich": "lud auf",
+          "du": "ludst auf",
+          "er_sie_es": "lud auf",
+          "wir": "luden auf",
+          "ihr": "ludet auf",
+          "sie_Sie": "luden auf"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "aufgeladen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "am",
+          "case": "Dativ",
+          "meaning_ar": "يشحن عند الجهاز"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er lädt seine elektronische Monatskarte am Automaten auf.",
+          "en": "He tops up his electronic monthly pass at the machine.",
+          "ar": "يَشْحَنُ رَصِيدَ بِطَاقَتِهِ الشَّهْرِيَّةِ الإِلِكْتُرُونِيَّةِ عِنْدَ الجِهَازِ الآلِيّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_transit_015",
+      "infinitive": "beeilen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "schnell gehen, um den Zug noch zu erreichen",
+      "meaning_en": "to hurry, rush",
+      "meaning_ar": "يَسْتَعْجِلُ، يُسْرِعُ لِلَّحَاقِ بِالمَوْعِد",
+      "tenses": {
+        "present": {
+          "ich": "beeile mich",
+          "du": "beeilst dich",
+          "er_sie_es": "beeilt sich",
+          "wir": "beeilen uns",
+          "ihr": "beeilt euch",
+          "sie_Sie": "beeilen sich"
+        },
+        "past_simple": {
+          "ich": "beeilte mich",
+          "du": "beeiltest dich",
+          "er_sie_es": "beeilte sich",
+          "wir": "beeilten uns",
+          "ihr": "beeiltet euch",
+          "sie_Sie": "beeilten sich"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "beeilt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يستعجل في"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wir müssen uns beeilen, die Bahn fährt in zwei Minuten ab.",
+          "en": "We must hurry, the train departs in two minutes.",
+          "ar": "عَلَيْنَا أَنْ نُسْرِعَ، فَالقِطَارُ سَيَنْطَلِقُ خِلَالَ دَقِيقَتَيْن."
+        }
+      ]
+    },
+    {
+      "id": "verb_transit_016",
+      "infinitive": "drängeln",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "sich rücksichtslos vordrängen",
+      "meaning_en": "to jostle, push in",
+      "meaning_ar": "يُزَاحِمُ، يَتَدَافَعُ دُونَ انْتِظَار",
+      "tenses": {
+        "present": {
+          "ich": "drängle",
+          "du": "drängelst",
+          "er_sie_es": "drängelt",
+          "wir": "drängeln",
+          "ihr": "drängelt",
+          "sie_Sie": "drängeln"
+        },
+        "past_simple": {
+          "ich": "drängelte",
+          "du": "drängeltest",
+          "er_sie_es": "drängelte",
+          "wir": "drängelten",
+          "ihr": "drängeltet",
+          "sie_Sie": "drängelten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gedrängelt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Dativ",
+          "meaning_ar": "يتدافع عند الباب"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Bitte nicht drängeln, lassen Sie zuerst die Fahrgäste aussteigen.",
+          "en": "Please do not push, let passengers get off first.",
+          "ar": "رَجَاءً لَا تَتَدَافَعُوا، دَعُوا الرُّكَّابَ يَنْزِلُونَ أَوَّلًا."
+        }
+      ]
+    },
+    {
+      "id": "verb_transit_017",
+      "infinitive": "freihalten",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "einen Sitzplatz für eine andere Person reservieren",
+      "meaning_en": "to keep a seat free",
+      "meaning_ar": "يَحْجُزُ المَقْعَدَ شَاغِرًا لِرَفِيقِه",
+      "tenses": {
+        "present": {
+          "ich": "halte frei",
+          "du": "hältst frei",
+          "er_sie_es": "hält frei",
+          "wir": "halten frei",
+          "ihr": "haltet frei",
+          "sie_Sie": "halten frei"
+        },
+        "past_simple": {
+          "ich": "hielt frei",
+          "du": "hieltst frei",
+          "er_sie_es": "hielt frei",
+          "wir": "hielten frei",
+          "ihr": "hieltet frei",
+          "sie_Sie": "hielten frei"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "freigehalten"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "für",
+          "case": "Akkusativ",
+          "meaning_ar": "يبقي مقعداً لـ"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Darf ich diesen Sitzplatz für meinen älteren Großvater freihalten?",
+          "en": "May I keep this seat free for my elderly grandfather?",
+          "ar": "هَلْ لِي أَنْ أُبْقِيَ هَذَا المَقْعَدَ شَاغِرًا لِجَدِّي المُسِنّ؟"
+        }
+      ]
+    },
+    {
+      "id": "verb_transit_018",
+      "infinitive": "überqueren",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "über Gleise oder Straßen auf die andere Seite gehen",
+      "meaning_en": "to cross rails or street",
+      "meaning_ar": "يَعْبُرُ السِّكَّةَ الحَدِيدِيَّةَ أَوِ الشَّارِع",
+      "tenses": {
+        "present": {
+          "ich": "überquere",
+          "du": "überquerst",
+          "er_sie_es": "überquert",
+          "wir": "überqueren",
+          "ihr": "überquert",
+          "sie_Sie": "überqueren"
+        },
+        "past_simple": {
+          "ich": "überquerte",
+          "du": "überquertest",
+          "er_sie_es": "überquerte",
+          "wir": "überquerten",
+          "ihr": "überquertet",
+          "sie_Sie": "überquerten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "überquert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Dativ",
+          "meaning_ar": "يعبر عند المعبر"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Überqueren Sie die Schienen nur an den dafür gekennzeichneten Übergängen.",
+          "en": "Cross the tracks only at the designated crossings.",
+          "ar": "لَا تَعْبُرُوا السِّكَّةَ الحَدِيدِيَّةَ إِلَّا عِنْدَ المَعَابِرِ المُخَصَّصَةِ لِذَلِك."
+        }
+      ]
+    },
+    {
+      "id": "verb_transit_019",
+      "infinitive": "orientieren",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "sich anhand von Schildern oder Plänen im Bahnhof zurechtfinden",
+      "meaning_en": "to orient oneself, find one's way",
+      "meaning_ar": "يَهْتَدِي إِلَى الطَّرِيق، يُحَدِّدُ وِجْهَتَه",
+      "tenses": {
+        "present": {
+          "ich": "orientiere mich",
+          "du": "orientierst dich",
+          "er_sie_es": "orientiert sich",
+          "wir": "orientieren uns",
+          "ihr": "orientiert euch",
+          "sie_Sie": "orientieren sich"
+        },
+        "past_simple": {
+          "ich": "orientierte mich",
+          "du": "orientiertest dich",
+          "er_sie_es": "orientierte sich",
+          "wir": "orientierten uns",
+          "ihr": "orientiertet euch",
+          "sie_Sie": "orientierten sich"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "orientiert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Dativ",
+          "meaning_ar": "يهتدي بـ"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Reisende orientieren sich an den übersichtlichen Schildern im Bahnhof.",
+          "en": "Travelers find their way using the clear signs in the station.",
+          "ar": "يَهْتَدِي المُسَافِرُونَ بِاللَّافِتَاتِ الإِرْشَادِيَّةِ الوَاضِحَةِ فِي المَحَطَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_transit_020",
+      "infinitive": "pendeln",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "regelmäßig zwischen Wohnort und Arbeitsstätte hin- und herfahren",
+      "meaning_en": "to commute",
+      "meaning_ar": "يَتَنَقَّلُ يَوْمِيًّا بَيْنَ مَقَرِّ سَكَنِهِ وَعَمَلِه",
+      "tenses": {
+        "present": {
+          "ich": "pendle",
+          "du": "pendelst",
+          "er_sie_es": "pendelt",
+          "wir": "pendeln",
+          "ihr": "pendelt",
+          "sie_Sie": "pendeln"
+        },
+        "past_simple": {
+          "ich": "pendelte",
+          "du": "pendeltest",
+          "er_sie_es": "pendelte",
+          "wir": "pendelten",
+          "ihr": "pendeltet",
+          "sie_Sie": "pendelten"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "gependelt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "zwischen",
+          "case": "Dativ",
+          "meaning_ar": "يتنقل يومياً بين"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er pendelt jeden Werktag bequem mit dem Regionalzug in die Innenstadt.",
+          "en": "He commutes comfortably every weekday to downtown by regional train.",
+          "ar": "يَتَنَقَّلُ يَوْمِيًّا فِي أَيَّامِ العَمَلِ بِمُرُونَةٍ بِالقِطَارِ الإِقْلِيمِيِّ إِلَى وَسَطِ المَدِينَة."
+        }
+      ]
+    }
+  ]
+}

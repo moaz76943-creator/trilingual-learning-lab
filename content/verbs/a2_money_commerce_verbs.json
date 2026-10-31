@@ -1,0 +1,909 @@
+{
+  "category_id": "a2_money_commerce_verbs",
+  "category_name_de": "Handels-, Spar- und Finanzverben",
+  "category_name_en": "Commerce, Savings & Money Management Verbs",
+  "category_name_ar": "أفعال التجارة والادخار وإدارة الأموال",
+  "level": "A2/B1",
+  "verbs": [
+    {
+      "id": "verb_money_001",
+      "infinitive": "sparen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "Geld nicht unnötig ausgeben, sondern für künftige Zwecke zurücklegen",
+      "meaning_en": "to save money, economize",
+      "meaning_ar": "يَدَّخِرُ المَالَ، يُوَفِّرُ",
+      "tenses": {
+        "present": {
+          "ich": "spare",
+          "du": "sparst",
+          "er_sie_es": "spart",
+          "wir": "sparen",
+          "ihr": "spart",
+          "sie_Sie": "sparen"
+        },
+        "past_simple": {
+          "ich": "sparte",
+          "du": "spartest",
+          "er_sie_es": "sparte",
+          "wir": "sparten",
+          "ihr": "spartet",
+          "sie_Sie": "sparten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gespart"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "für",
+          "case": "Akkusativ",
+          "meaning_ar": "يدخر لأجل"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er spart jeden Monat etwas Geld für eine größere Anschaffung.",
+          "en": "He saves some money every month for a larger purchase.",
+          "ar": "يَدَّخِرُ كُلَّ شَهْرٍ شَيْئًا مِنَ المَالِ لِشِرَاءِ أَمْرٍ مُهِمّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_money_002",
+      "infinitive": "kaufen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "eine Ware gegen Zahlung von Geld erwerben",
+      "meaning_en": "to buy, purchase",
+      "meaning_ar": "يَشْتَرِي",
+      "tenses": {
+        "present": {
+          "ich": "kaufe",
+          "du": "kaufst",
+          "er_sie_es": "kauft",
+          "wir": "kaufen",
+          "ihr": "kauft",
+          "sie_Sie": "kaufen"
+        },
+        "past_simple": {
+          "ich": "kaufte",
+          "du": "kauftest",
+          "er_sie_es": "kaufte",
+          "wir": "kauften",
+          "ihr": "kauftet",
+          "sie_Sie": "kauften"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gekauft"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "bei",
+          "case": "Dativ",
+          "meaning_ar": "يشتري من عند تاجر"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wir kaufen unser frisches Obst direkt beim regionalen Bauern ein.",
+          "en": "We buy our fresh fruit directly from the regional farmer.",
+          "ar": "نَشْتَرِي فَاكِهَتَنَا الطَّازَجَةَ مُبَاشَرَةً مِنَ الفَلَّاحِ المَحَلِّيّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_money_003",
+      "infinitive": "verkaufen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "eigene Erzeugnisse oder Waren gegen Entgelt abgeben",
+      "meaning_en": "to sell",
+      "meaning_ar": "يَبِيعُ",
+      "tenses": {
+        "present": {
+          "ich": "verkaufe",
+          "du": "verkaufst",
+          "er_sie_es": "verkauft",
+          "wir": "verkaufen",
+          "ihr": "verkauft",
+          "sie_Sie": "verkaufen"
+        },
+        "past_simple": {
+          "ich": "verkaufte",
+          "du": "verkauftest",
+          "er_sie_es": "verkaufte",
+          "wir": "verkauften",
+          "ihr": "verkauftet",
+          "sie_Sie": "verkauften"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "verkauft"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Akkusativ",
+          "meaning_ar": "يبيع إلى مشتري"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Händler verkauft hochwertige Stoffe an Kunden aus aller Welt.",
+          "en": "The merchant sells high-quality fabrics to customers from all over the world.",
+          "ar": "يَبِيعُ التَّاجِرُ أَقْمِشَةً رَفِيعَةَ الجَوْدَةِ لِزَبَائِنَ مِنْ كُلِّ مَكَان."
+        }
+      ]
+    },
+    {
+      "id": "verb_money_004",
+      "infinitive": "bezahlen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "den fälligen Geldbetrag für eine Ware oder Leistung entrichten",
+      "meaning_en": "to pay for goods",
+      "meaning_ar": "يَدْفَعُ ثَمَنَ السِّلْعَة",
+      "tenses": {
+        "present": {
+          "ich": "bezahle",
+          "du": "bezahlst",
+          "er_sie_es": "bezahlt",
+          "wir": "bezahlen",
+          "ihr": "bezahlt",
+          "sie_Sie": "bezahlen"
+        },
+        "past_simple": {
+          "ich": "bezahlte",
+          "du": "bezahltest",
+          "er_sie_es": "bezahlte",
+          "wir": "bezahlten",
+          "ihr": "bezahltet",
+          "sie_Sie": "bezahlten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "bezahlt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "für",
+          "case": "Akkusativ",
+          "meaning_ar": "يدفع مقابل بضاعة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er bezahlte die neuen Schuhe an der Kasse mit seiner Bankkarte.",
+          "en": "He paid for the new shoes at the checkout with his bank card.",
+          "ar": "دَفَعَ ثَمَنَ الحِذَاءِ الجَدِيدِ عِنْدَ الصُّنْدُوقِ بِبِطَاقَتِهِ المَصْرِفِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_money_005",
+      "infinitive": "wechseln",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "einen großen Geldschein in kleinere Scheine oder Münzen umtauschen",
+      "meaning_en": "to change, break money",
+      "meaning_ar": "يَصْرِفُ، يُفَكِّكُ النُّقُودَ إِلَى فِئَاتٍ أَصْغَر",
+      "tenses": {
+        "present": {
+          "ich": "wechsle",
+          "du": "wechselst",
+          "er_sie_es": "wechselt",
+          "wir": "wechseln",
+          "ihr": "wechselt",
+          "sie_Sie": "wechseln"
+        },
+        "past_simple": {
+          "ich": "wechselte",
+          "du": "wechseltest",
+          "er_sie_es": "wechselte",
+          "wir": "wechselten",
+          "ihr": "wechseltet",
+          "sie_Sie": "wechselten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gewechselt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Akkusativ",
+          "meaning_ar": "يصرف إلى عملات معدنية"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Können Sie mir bitte diesen Fünfzig-Euro-Schein in Zehner wechseln?",
+          "en": "Could you please change this fifty-euro note into tens for me?",
+          "ar": "هَلْ يُمْكِنُكَ أَنْ تَصْرِفَ لِي هَذِهِ الوَرَقَةَ النَّقْدِيَّةَ إِلَى فَئَاتِ العَشَرَات؟"
+        }
+      ]
+    },
+    {
+      "id": "verb_money_006",
+      "infinitive": "überweisen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "Geld bargeldlos von einem Konto auf ein anderes transferieren",
+      "meaning_en": "to transfer money by bank",
+      "meaning_ar": "يُحَوِّلُ مَالًا عَبْرَ المَصْرِف",
+      "tenses": {
+        "present": {
+          "ich": "überweise",
+          "du": "überweist",
+          "er_sie_es": "überweist",
+          "wir": "überweisen",
+          "ihr": "überweist",
+          "sie_Sie": "überweisen"
+        },
+        "past_simple": {
+          "ich": "überwies",
+          "du": "überwiesest",
+          "er_sie_es": "überwies",
+          "wir": "überwiesen",
+          "ihr": "überwiest",
+          "sie_Sie": "überwiesen"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "überwiesen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Akkusativ",
+          "meaning_ar": "يحول إلى حساب"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er überweist den Rechnungsbetrag bequem per Online-Banking.",
+          "en": "He transfers the invoice amount conveniently via online banking.",
+          "ar": "يُحَوِّلُ قِيمَةَ الفَاتُورَةِ بِيُسْرٍ عَبْرَ الخِدْمَةِ المَصْرِفِيَّةِ الإِلِكْتُرُونِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_money_007",
+      "infinitive": "abheben",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "Bargeld mit einer Karte vom eigenen Bankkonto auszahlen lassen",
+      "meaning_en": "to withdraw cash",
+      "meaning_ar": "يَسْحَبُ نُقُودًا مِنَ الحِسَاب",
+      "tenses": {
+        "present": {
+          "ich": "hebe ab",
+          "du": "hebst ab",
+          "er_sie_es": "hebt ab",
+          "wir": "heben ab",
+          "ihr": "hebt ab",
+          "sie_Sie": "heben ab"
+        },
+        "past_simple": {
+          "ich": "hob ab",
+          "du": "hobst ab",
+          "er_sie_es": "hob ab",
+          "wir": "hoben ab",
+          "ihr": "hobt ab",
+          "sie_Sie": "hoben ab"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "abgehoben"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "vom",
+          "case": "Dativ",
+          "meaning_ar": "يسحب من الحساب"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Vor dem Einkaufen hebt sie hundert Euro am Automaten ab.",
+          "en": "Before shopping, she withdraws one hundred euros from the ATM.",
+          "ar": "تَسْحَبُ مِائَةَ يُورُو مِنَ الصَّرَّافِ الآلِيِّ قَبْلَ التَّسَوُّق."
+        }
+      ]
+    },
+    {
+      "id": "verb_money_008",
+      "infinitive": "einzahlen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Bargeld auf das eigene Bankkonto gutschreiben lassen",
+      "meaning_en": "to deposit money",
+      "meaning_ar": "يُودِعُ نُقُودًا فِي الحِسَاب",
+      "tenses": {
+        "present": {
+          "ich": "zahle ein",
+          "du": "zahlst ein",
+          "er_sie_es": "zahlt ein",
+          "wir": "zahlen ein",
+          "ihr": "zahlt ein",
+          "sie_Sie": "zahlen ein"
+        },
+        "past_simple": {
+          "ich": "zahlte ein",
+          "du": "zahltest ein",
+          "er_sie_es": "zahlte ein",
+          "wir": "zahlten ein",
+          "ihr": "zahltet ein",
+          "sie_Sie": "zahlten ein"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "eingezahlt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Akkusativ",
+          "meaning_ar": "يودع في حساب"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Händler zahlt die Tageseinnahmen abends am Einzahlungsautomaten ein.",
+          "en": "The merchant deposits the day's revenue in the deposit machine in the evening.",
+          "ar": "يُودِعُ التَّاجِرُ إِيرَادَاتِ اليَوْمِ مَسَاءً فِي جِهَازِ الإِيدَاعِ الآلِيّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_money_009",
+      "infinitive": "verhandeln",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "mit dem Verkäufer sachlich und höflich über den Preis sprechen",
+      "meaning_en": "to negotiate prices fairly",
+      "meaning_ar": "يُفَاوِضُ، يُسَاوِمُ بِالمَعْرُوف",
+      "tenses": {
+        "present": {
+          "ich": "verhandle",
+          "du": "verhandelst",
+          "er_sie_es": "verhandelt",
+          "wir": "verhandeln",
+          "ihr": "verhandelt",
+          "sie_Sie": "verhandeln"
+        },
+        "past_simple": {
+          "ich": "verhandelte",
+          "du": "verhandeltest",
+          "er_sie_es": "verhandelte",
+          "wir": "verhandelten",
+          "ihr": "verhandeltet",
+          "sie_Sie": "verhandelten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "verhandelt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "über",
+          "case": "Akkusativ",
+          "meaning_ar": "يفاوض على السعر"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Käufer und Verkäufer verhandelten freundlich über einen fairen Preis.",
+          "en": "Buyer and seller negotiated amiably about a fair price.",
+          "ar": "تَفَاوَضَ المُشْتَرِي وَالبَائِعُ بِوُدٍّ لِلْوُصُولِ إِلَى سِعْرٍ عَادِل."
+        }
+      ]
+    },
+    {
+      "id": "verb_money_010",
+      "infinitive": "kosten",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "einen bestimmten Preis haben",
+      "meaning_en": "to cost",
+      "meaning_ar": "يُكَلِّفُ، يَبْلُغُ ثَمَنُهُ",
+      "tenses": {
+        "present": {
+          "ich": "koste",
+          "du": "kostest",
+          "er_sie_es": "kostet",
+          "wir": "kosten",
+          "ihr": "kostet",
+          "sie_Sie": "kosten"
+        },
+        "past_simple": {
+          "ich": "kostete",
+          "du": "kostetest",
+          "er_sie_es": "kostete",
+          "wir": "kosteten",
+          "ihr": "kostetet",
+          "sie_Sie": "kosteten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gekostet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "pro",
+          "case": "Akkusativ",
+          "meaning_ar": "يكلف للقطعة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Frisches Vollkornbrot kostet zwei Euro pro Laib.",
+          "en": "Fresh wholemeal bread costs two euros per loaf.",
+          "ar": "يُكَلِّفُ خُبْزُ القَمْحِ الكَامِلِ الطَّازَجُ يُورُويَيْنِ لِلرَّغِيف."
+        }
+      ]
+    },
+    {
+      "id": "verb_money_011",
+      "infinitive": "vergleichen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "die Preise und Qualität verschiedener Angebote prüfen",
+      "meaning_en": "to compare prices and quality",
+      "meaning_ar": "يُقَارِنُ الأَسْعَارَ وَالجَوْدَة",
+      "tenses": {
+        "present": {
+          "ich": "vergleiche",
+          "du": "vergleichst",
+          "er_sie_es": "vergleicht",
+          "wir": "vergleichen",
+          "ihr": "vergleicht",
+          "sie_Sie": "vergleichen"
+        },
+        "past_simple": {
+          "ich": "verglich",
+          "du": "verglichst",
+          "er_sie_es": "verglich",
+          "wir": "verglichen",
+          "ihr": "verglicht",
+          "sie_Sie": "verglichen"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "verglichen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يقارن بـ"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Ein kluger Käufer vergleicht stets Preise und Herkunft der Waren.",
+          "en": "A wise buyer always compares prices and origin of goods.",
+          "ar": "المُشْتَرِي الحَكِيمُ يُقَارِنُ دَائِمًا بَيْنَ الأَسْعَارِ وَمَصَادِرِ البَضَائِع."
+        }
+      ]
+    },
+    {
+      "id": "verb_money_012",
+      "infinitive": "spenden",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Geld freiwillig zur Hilfe für Hilfsbedürftige geben",
+      "meaning_en": "to donate money charitably",
+      "meaning_ar": "يَتَصَدَّقُ، يَتَبَرَّعُ بِالمَال",
+      "tenses": {
+        "present": {
+          "ich": "spende",
+          "du": "spendest",
+          "er_sie_es": "spendet",
+          "wir": "spenden",
+          "ihr": "spendet",
+          "sie_Sie": "spenden"
+        },
+        "past_simple": {
+          "ich": "spendete",
+          "du": "spendetest",
+          "er_sie_es": "spendete",
+          "wir": "spendeten",
+          "ihr": "spendetet",
+          "sie_Sie": "spendeten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gespendet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Akkusativ",
+          "meaning_ar": "يتصدق على"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er spendet regelmäßig einen Teil seines Einkommens an hungernde Kinder.",
+          "en": "He regularly donates a portion of his income to hungry children.",
+          "ar": "يَتَصَدَّقُ بَانْتِظَامٍ بِجُزْءٍ مِنْ دَخْلِهِ لِعَوْنِ الأَطْفَالِ المُحْتَاجِين."
+        }
+      ]
+    },
+    {
+      "id": "verb_money_013",
+      "infinitive": "ausgeben",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "Geld für Dinge des täglichen Bedarfs verwenden",
+      "meaning_en": "to spend money",
+      "meaning_ar": "يُنْفِقُ المَالَ",
+      "tenses": {
+        "present": {
+          "ich": "gebe aus",
+          "du": "gibst aus",
+          "er_sie_es": "gibt aus",
+          "wir": "geben aus",
+          "ihr": "gebt aus",
+          "sie_Sie": "geben aus"
+        },
+        "past_simple": {
+          "ich": "gab aus",
+          "du": "gabst aus",
+          "er_sie_es": "gab aus",
+          "wir": "gaben aus",
+          "ihr": "gabt aus",
+          "sie_Sie": "gaben aus"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "ausgegeben"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "für",
+          "case": "Akkusativ",
+          "meaning_ar": "ينفق على"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Man sollte nicht mehr Geld ausgeben, als man einnimmt.",
+          "en": "One should not spend more money than one earns.",
+          "ar": "لَا يَنْبَغِي لِلْمَرْءِ أَنْ يُنْفِقَ أَكْثَرَ مِمَّا يَكْسِب."
+        }
+      ]
+    },
+    {
+      "id": "verb_money_014",
+      "infinitive": "einnehmen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "Geld durch Verkauf von Waren oder Dienstleistungen erhalten",
+      "meaning_en": "to earn, take in revenue",
+      "meaning_ar": "يَجْنِي، يَكْسِبُ إِيرَادًا مَالِيًّا",
+      "tenses": {
+        "present": {
+          "ich": "nehme ein",
+          "du": "nimmst ein",
+          "er_sie_es": "nimmt ein",
+          "wir": "nehmen ein",
+          "ihr": "nehmt ein",
+          "sie_Sie": "nehmen ein"
+        },
+        "past_simple": {
+          "ich": "nahm ein",
+          "du": "nahmst ein",
+          "er_sie_es": "nahm ein",
+          "wir": "nahmen ein",
+          "ihr": "nahmt ein",
+          "sie_Sie": "nahmen ein"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "eingenommen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "durch",
+          "case": "Akkusativ",
+          "meaning_ar": "يجني من خلال"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Durch den Verkauf handgefertigter Töpfe nahm die Familie ihren Lebensunterhalt ein.",
+          "en": "Through selling handmade pots, the family earned their livelihood.",
+          "ar": "جَنَتِ العَائِلَةُ قُوتَ يَوْمِهَا مِنْ خِلَالِ بَيْعِ الفَخَّارِ المَصْنُوعِ يَدَوِيًّا."
+        }
+      ]
+    },
+    {
+      "id": "verb_money_015",
+      "infinitive": "einteilen",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "die finanziellen Mittel über den Monat hinweg weise planen",
+      "meaning_en": "to budget, allocate money wisely",
+      "meaning_ar": "يُدِيرُ، يُقَسِّمُ المِيزَانِيَّةَ بِحِكْمَة",
+      "tenses": {
+        "present": {
+          "ich": "teile ein",
+          "du": "teilst ein",
+          "er_sie_es": "teilt ein",
+          "wir": "teilen ein",
+          "ihr": "teilt ein",
+          "sie_Sie": "teilen ein"
+        },
+        "past_simple": {
+          "ich": "teilte ein",
+          "du": "teiltest ein",
+          "er_sie_es": "teilte ein",
+          "wir": "teilten ein",
+          "ihr": "teiltet ein",
+          "sie_Sie": "teilten ein"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "eingeteilt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Akkusativ",
+          "meaning_ar": "يقسم إلى أبواب إنفاق"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Sie teilt ihr monatliches Einkommen klug in Miete, Nahrung und Ersparnis ein.",
+          "en": "She wisely budgets her monthly income into rent, food, and savings.",
+          "ar": "تُقَسِّمُ دَخْلَهَا الشَّهْرِيَّ بِحِكْمَةٍ بَيْنَ الإِيجَارِ وَالطَّعَامِ وَالِادِّخَار."
+        }
+      ]
+    },
+    {
+      "id": "verb_money_016",
+      "infinitive": "berechnen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "den Endpreis aller Einkäufe mathematisch ermitteln",
+      "meaning_en": "to calculate costs",
+      "meaning_ar": "يَحْسُبُ، يَجْمَعُ الحِسَاب",
+      "tenses": {
+        "present": {
+          "ich": "berechne",
+          "du": "berechnest",
+          "er_sie_es": "berechnet",
+          "wir": "berechnen",
+          "ihr": "berechnet",
+          "sie_Sie": "berechnen"
+        },
+        "past_simple": {
+          "ich": "berechnete",
+          "du": "berechnetest",
+          "er_sie_es": "berechnete",
+          "wir": "berechneten",
+          "ihr": "berechnetet",
+          "sie_Sie": "berechneten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "berechnet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "nach",
+          "case": "Dativ",
+          "meaning_ar": "يحسب وفق الوزن"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Händler berechnet den Gesamtpreis nach dem genauen Gewicht des Getreides.",
+          "en": "The merchant calculates the total price according to the exact weight of the grain.",
+          "ar": "يَحْسُبُ التَّاجِرُ السِّعْرَ الإِجْمَالِيَّ وِفْقَ الوَزْنِ الدَّقِيقِ لِلْحُبُوب."
+        }
+      ]
+    },
+    {
+      "id": "verb_money_017",
+      "infinitive": "quittieren",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "den Erhalt eines Geldbetrages schriftlich bestätigen",
+      "meaning_en": "to receipt, acknowledge payment",
+      "meaning_ar": "يُصْدِرُ إِيصَالًا بِاسْتِلَامِ المَبْلَغ",
+      "tenses": {
+        "present": {
+          "ich": "quittiere",
+          "du": "quittierst",
+          "er_sie_es": "quittiert",
+          "wir": "quittieren",
+          "ihr": "quittiert",
+          "sie_Sie": "quittieren"
+        },
+        "past_simple": {
+          "ich": "quittierte",
+          "du": "quittiertest",
+          "er_sie_es": "quittierte",
+          "wir": "quittierten",
+          "ihr": "quittiertet",
+          "sie_Sie": "quittierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "quittiert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يؤكد استلام المبلغ بتوقيع"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Vermieter quittierte die Barzahlung mit Datum und Unterschrift.",
+          "en": "The landlord acknowledged the cash payment with date and signature.",
+          "ar": "أَصْدَرَ صَاحِبُ البَيْتِ إِيصَالًا بِاسْتِلَامِ الدَّفْعَةِ النَّقْدِيَّةِ مَعَ التَّارِيخِ وَالتَّوْقِيع."
+        }
+      ]
+    },
+    {
+      "id": "verb_money_018",
+      "infinitive": "sichern",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "seine Ersparnisse vor Verlust und unüberlegtem Ausgeben schützen",
+      "meaning_en": "to secure savings",
+      "meaning_ar": "يَحْفَظُ، يُؤَمِّنُ مُدَّخَرَاتِه",
+      "tenses": {
+        "present": {
+          "ich": "sichere",
+          "du": "sicherst",
+          "er_sie_es": "sichert",
+          "wir": "sichern",
+          "ihr": "sichert",
+          "sie_Sie": "sichern"
+        },
+        "past_simple": {
+          "ich": "sicherte",
+          "du": "sichertest",
+          "er_sie_es": "sicherte",
+          "wir": "sicherten",
+          "ihr": "sichertet",
+          "sie_Sie": "sicherten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gesichert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "durch",
+          "case": "Akkusativ",
+          "meaning_ar": "يؤمن بواسطة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Durch wohlüberlegtes Wirtschaften sichert er die Zukunft seiner Kinder.",
+          "en": "Through well-considered management, he secures the future of his children.",
+          "ar": "يُؤَمِّنُ مُسْتَقْبَلَ أَبْنَائِهِ مِنْ خِلَالِ التَّدْبِيرِ المَالِيِّ الرَّشِيد."
+        }
+      ]
+    },
+    {
+      "id": "verb_money_019",
+      "infinitive": "erwerben",
+      "verb_type": "irregular",
+      "level": "B1",
+      "meaning_de": "etwas Nützliches durch eigene Mittel rechtmäßig zu eigen machen",
+      "meaning_en": "to acquire, gain lawfully",
+      "meaning_ar": "يَقْتَنِي، يَكْتَسِبُ بِالحَلَال",
+      "tenses": {
+        "present": {
+          "ich": "erwerbe",
+          "du": "erwirbst",
+          "er_sie_es": "erwirbt",
+          "wir": "erwerben",
+          "ihr": "erwerbt",
+          "sie_Sie": "erwerben"
+        },
+        "past_simple": {
+          "ich": "erwarb",
+          "du": "erwarbst",
+          "er_sie_es": "erwarb",
+          "wir": "erwarben",
+          "ihr": "erwarbt",
+          "sie_Sie": "erwarben"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "erworben"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "durch",
+          "case": "Akkusativ",
+          "meaning_ar": "يكتسب من خلال الكد"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er erwarb ein kleines Stück fruchtbares Land durch jahrelangen Fleiß.",
+          "en": "He acquired a small piece of fertile land through years of diligence.",
+          "ar": "اقْتَنَى قِطْعَةَ أَرْضٍ خَصِيبَةٍ بِفَضْلِ كَدِّهِ وَاجْتِهَادِهِ لِسَنَوَات."
+        }
+      ]
+    },
+    {
+      "id": "verb_money_020",
+      "infinitive": "wiegen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "die Ware auf der Waage vor den Augen des Käufers genau bemessen",
+      "meaning_en": "to weigh goods fairly",
+      "meaning_ar": "يَزِنُ السِّلْعَةَ بِالقِسْطَاسِ العَادِل",
+      "tenses": {
+        "present": {
+          "ich": "wiege",
+          "du": "wiegst",
+          "er_sie_es": "wiegt",
+          "wir": "wiegen",
+          "ihr": "wiegt",
+          "sie_Sie": "wiegen"
+        },
+        "past_simple": {
+          "ich": "wog",
+          "du": "wogst",
+          "er_sie_es": "wog",
+          "wir": "wogen",
+          "ihr": "wogt",
+          "sie_Sie": "wogen"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gewogen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Dativ",
+          "meaning_ar": "يزن على الميزان"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der ehrliche Kaufmann wiegt die Oliven gerecht auf der Waage ab.",
+          "en": "The honest merchant weighs the olives fairly on the scale.",
+          "ar": "يَزِنُ التَّاجِرُ الأَمِينُ الزَّيْتُونَ بِالعَدْلِ وَالإِنْصَافِ عَلَى المِيزَان."
+        }
+      ]
+    }
+  ]
+}

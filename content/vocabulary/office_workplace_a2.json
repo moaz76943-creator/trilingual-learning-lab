@@ -1,0 +1,409 @@
+{
+  "category_id": "office_workplace_a2",
+  "category_name_de": "Berufswelt, Büroalltag & Teamarbeit",
+  "category_name_en": "Workplace, Office Life & Teamwork",
+  "category_name_ar": "بِيئَةُ العَمَلِ وَالمَكْتَبِ وَالتَّعَاوُنُ المِهْنِيّ",
+  "level": "A2+",
+  "items": [
+    {
+      "id": "office_work_001",
+      "term_de": "das Büro",
+      "plural_de": "die Büros",
+      "term_en": "office",
+      "term_ar": "المَكْتَب، مَقَرُّ العَمَل",
+      "pronunciation_de": "[byˈʁoː]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Unser modernes Büro ist hell, ruhig und ergonomisch eingerichtet.",
+          "en": "Our modern office is bright, quiet, and ergonomically furnished.",
+          "ar": "مَكْتَبُنَا الحَدِيثُ مُضِيءٌ وَهَادِئٌ وَمُجَهَّزٌ بِشَكْلٍ صِحِّيٍّ مُرِيح."
+        }
+      ]
+    },
+    {
+      "id": "office_work_002",
+      "term_de": "der Schreibtisch",
+      "plural_de": "die Schreibtische",
+      "term_en": "desk, writing table",
+      "term_ar": "مَكْتَبُ العَمَل، الطَّاوِلَةُ المَكْتَبِيَّة",
+      "pronunciation_de": "[ˈʃʁaɪ̯pˌtɪʃ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Auf dem aufgeräumten Schreibtisch stehen Bildschirm, Tastatur und Notizen.",
+          "en": "On the tidy desk stand the screen, keyboard, and notes.",
+          "ar": "تَسْتَقِرُّ الشَّاشَةُ وَلَوْحَةُ المَفَاتِيحِ وَالمُلَاحَظَاتُ بِنِظَامٍ عَلَى المَكْتَب."
+        }
+      ]
+    },
+    {
+      "id": "office_work_003",
+      "term_de": "der Drehstuhl",
+      "plural_de": "die Drehstühle",
+      "term_en": "swivel chair, office chair",
+      "term_ar": "الكُرْسِيُّ الدَّوَّارُ المَكْتَبِيّ",
+      "pronunciation_de": "[ˈdʁeːˌʃtuːl]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Ein bequemer Drehstuhl schont den Rücken bei längerer Schreibarbeit.",
+          "en": "A comfortable swivel chair protects the back during prolonged writing.",
+          "ar": "كُرْسِيُّ المَكْتَبِ الدَّوَّارُ المُرِيحُ يَحْمِي الظَّهْرَ أَثْنَاءَ سَاعَاتِ العَمَلِ الطَّوِيلَة."
+        }
+      ]
+    },
+    {
+      "id": "office_work_004",
+      "term_de": "die Besprechung",
+      "plural_de": "die Besprechungen",
+      "term_en": "meeting, consultation",
+      "term_ar": "الِاجْتِمَاع، جَلْسَةُ العَمَل",
+      "pronunciation_de": "[bəˈʃpʁɛçʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die wöchentliche Besprechung beginnt pünktlich um neun Uhr.",
+          "en": "The weekly meeting begins punctually at nine o'clock.",
+          "ar": "يَبْدَأُ الِاجْتِمَاعُ الأُسْبُوعِيُّ تَمَامَ السَّاعَةِ التَّاسِعَةِ بِانْضِبَاط."
+        }
+      ]
+    },
+    {
+      "id": "office_work_005",
+      "term_de": "der Konferenzraum",
+      "plural_de": "die Konferenzräume",
+      "term_en": "conference room, meeting room",
+      "term_ar": "قَاعَةُ الِاجْتِمَاعَات",
+      "pronunciation_de": "[kɔnfeˈʁɛnt͡sˌʁaʊ̯m]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Im Konferenzraum steht moderne Präsentationstechnik zur Verfügung.",
+          "en": "Modern presentation technology is available in the conference room.",
+          "ar": "تَتَوَفَّرُ تِقْنِيَّاتُ عَرْضٍ حَدِيثَةٌ فِي قَاعَةِ الِاجْتِمَاعَات."
+        }
+      ]
+    },
+    {
+      "id": "office_work_006",
+      "term_de": "die Teamarbeit",
+      "plural_de": "-",
+      "term_en": "teamwork, collaboration",
+      "term_ar": "العَمَلُ الجَمَاعِيّ، رُوحُ الفَرِيق",
+      "pronunciation_de": "[ˈtiːmˌʔaʁbaɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Erfolgreiche Projekte basieren auf offener Kommunikation und guter Teamarbeit.",
+          "en": "Successful projects are based on open communication and good teamwork.",
+          "ar": "تَقُومُ المَشَارِيعُ النَّاجِحَةُ عَلَى التَّوَاصُلِ الشَّفَّافِ وَالعَمَلِ الجَمَاعِيِّ المُتْقَن."
+        }
+      ]
+    },
+    {
+      "id": "office_work_007",
+      "term_de": "der Kollege",
+      "plural_de": "die Kollegen",
+      "term_en": "male colleague, coworker",
+      "term_ar": "الزَّمِيلُ فِي العَمَل",
+      "pronunciation_de": "[kɔˈleːɡə]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Mein Kollege hilft mir freundlich bei der Einarbeitung in die neue Software.",
+          "en": "My colleague kindly helps me get familiar with the new software.",
+          "ar": "يُسَاعِدُنِي زَمِيلِي بِلُطْفٍ فِي التَّدَرُّبِ عَلَى البَرْنَامَجِ الجَدِيد."
+        }
+      ]
+    },
+    {
+      "id": "office_work_008",
+      "term_de": "die Kollegin",
+      "plural_de": "die Kolleginnen",
+      "term_en": "female colleague, coworker",
+      "term_ar": "الزَّمِيلَةُ فِي العَمَل",
+      "pronunciation_de": "[kɔˈleːɡɪn]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Kollegin präsentierte die Ergebnisse der Recherche hervorragend.",
+          "en": "The colleague presented the research results outstandingly.",
+          "ar": "عَرَضَتِ الزَّمِيلَةُ نَتَائِجَ البَحْثِ بِأُسْلُوبٍ مُمَيَّز."
+        }
+      ]
+    },
+    {
+      "id": "office_work_009",
+      "term_de": "der Vorgesetzte",
+      "plural_de": "die Vorgesetzten",
+      "term_en": "supervisor, line manager",
+      "term_ar": "المَسْؤُولُ المُبَاشِر، المُدِير",
+      "pronunciation_de": "[ˈfoːɐ̯ɡəˌzɛt͡stə]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der verständnisvolle Vorgesetzte lobte den Einsatz des gesamten Teams.",
+          "en": "The understanding supervisor praised the commitment of the whole team.",
+          "ar": "أَثْنَى المَسْؤُولُ المُتَفَهِّمُ عَلَى جُهُودِ فَرِيقِ العَمَلِ بِأَكْمَلِه."
+        }
+      ]
+    },
+    {
+      "id": "office_work_010",
+      "term_de": "die Aufgabe",
+      "plural_de": "die Aufgaben",
+      "term_en": "task, assignment",
+      "term_ar": "المَهَمَّة، الوَاجِبُ الوَظِيفِيّ",
+      "pronunciation_de": "[ˈaʊ̯fˌɡaːbə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Jeder Mitarbeiter erledigt seine zugewiesene Aufgabe gewissenhaft.",
+          "en": "Each employee handles their assigned task conscientiously.",
+          "ar": "يُنْجِزُ كُلُّ مُوَظَّفٍ مَهَمَّتَهُ المُوكَلَةَ إِلَيْهِ بِأَمَانَة."
+        }
+      ]
+    },
+    {
+      "id": "office_work_011",
+      "term_de": "das Projekt",
+      "plural_de": "die Projekte",
+      "term_en": "project",
+      "term_ar": "المَشْرُوع",
+      "pronunciation_de": "[pʁoˈjɛkt]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das neue Projekt soll bis zum Ende des Quartals abgeschlossen sein.",
+          "en": "The new project is scheduled to be completed by the end of the quarter.",
+          "ar": "مِنَ المُقَرَّرِ إِنْجَازُ المَشْرُوعِ الجَدِيدِ قَبْلَ نِهَايَةِ الرُّبْعِ الحَالِيّ."
+        }
+      ]
+    },
+    {
+      "id": "office_work_012",
+      "term_de": "der Terminkalender",
+      "plural_de": "die Terminkalender",
+      "term_en": "calendar, appointment diary",
+      "term_ar": "جَدْوَلُ المَوَاعِيد، المُفَكِّرَة",
+      "pronunciation_de": "[tɛʁˈmiːnkaˌlɛndɐ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Ein digitaler Terminkalender erinnert rechtzeitig an wichtige Fristen.",
+          "en": "A digital calendar reminds you of important deadlines in good time.",
+          "ar": "تُذَكِّرُ المُفَكِّرَةُ الرَّقْمِيَّةُ بِالمَوَاعِيدِ النِّهَائِيَّةِ فِي الوَقْتِ المُنَاسِب."
+        }
+      ]
+    },
+    {
+      "id": "office_work_013",
+      "term_de": "die Frist",
+      "plural_de": "die Fristen",
+      "term_en": "deadline, time limit",
+      "term_ar": "المَوْعِدُ النِّهَائِيّ، الأَجَلُ المُحَدَّد",
+      "pronunciation_de": "[fʁɪst]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Einhaltung aller Fristen zeugt von beruflicher Professionalität.",
+          "en": "Meeting all deadlines demonstrates professional competence.",
+          "ar": "الِالْتِزَامُ بِالأَجَلِ المُحَدَّدِ دَلِيلٌ عَلَى الكَفَاءَةِ المِهْنِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "office_work_014",
+      "term_de": "die E-Mail",
+      "plural_de": "die E-Mails",
+      "term_en": "email",
+      "term_ar": "البَرِيدُ الإِلِكْتُرُونِيّ",
+      "pronunciation_de": "[ˈiːmeːl]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Er antwortete höflich und präzise auf die E-Mail des Kunden.",
+          "en": "He replied politely and precisely to the customer's email.",
+          "ar": "أَجَابَ بِلَبَاقَةٍ وَدِقَّةٍ عَلَى رِسَالَةِ العَمِيلِ الإِلِكْتُرُونِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "office_work_015",
+      "term_de": "der Ordner",
+      "plural_de": "die Ordner",
+      "term_en": "file folder, binder",
+      "term_ar": "مَلَفُّ حِفْظِ الوَثَائِق، المُصَنَّف",
+      "pronunciation_de": "[ˈɔʁdnɐ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Wichtige Verträge werden ordentlich beschriftet im Ordner abgelegt.",
+          "en": "Important contracts are filed neatly labeled in the binder.",
+          "ar": "تُحْفَظُ العُقُودُ المُهِمَّةُ مُصَنَّفَةً بِعِنَايَةٍ فِي المَلَفّ."
+        }
+      ]
+    },
+    {
+      "id": "office_work_016",
+      "term_de": "der Drucker",
+      "plural_de": "die Drucker",
+      "term_en": "printer",
+      "term_ar": "الطَّابِعَة",
+      "pronunciation_de": "[ˈdʁʊkɐ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der sparsame Laserdrucker druckt Dokumente beidseitig aus.",
+          "en": "The economical laser printer prints documents double-sided.",
+          "ar": "تَطْبَعُ طَابِعَةُ اللَّيْزَرِ المُوَفِّرَةُ لِلطَّاقَةِ الوَثَائِقَ عَلَى الوَجْهَيْن."
+        }
+      ]
+    },
+    {
+      "id": "office_work_017",
+      "term_de": "das Dokument",
+      "plural_de": "die Dokumente",
+      "term_en": "document, file",
+      "term_ar": "المُسْتَنَد، الوَثِيقَة",
+      "pronunciation_de": "[dokuˈmɛnt]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Vor dem Versenden prüfte sie das Dokument auf Vollständigkeit.",
+          "en": "Before sending, she checked the document for completeness.",
+          "ar": "دَقَّقَتِ الوَثِيقَةَ لِلتَّأَكُّدِ مِنِ اكْتِمَالِهَا قَبْلَ الإِرْسَال."
+        }
+      ]
+    },
+    {
+      "id": "office_work_018",
+      "term_de": "der Notizblock",
+      "plural_de": "die Notizblöcke",
+      "term_en": "notepad, memo pad",
+      "term_ar": "دَفْتَرُ المُلَاحَظَات",
+      "pronunciation_de": "[noˈtiːtsˌblɔk]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Er notiert die Kernpunkte des Gesprächs auf seinem Notizblock.",
+          "en": "He notes down the key points of the talk on his notepad.",
+          "ar": "يُسَجِّلُ نِقَاطَ الحَدِيثِ الرَّئِيسَةَ فِي دَفْتَرِ المُلَاحَظَات."
+        }
+      ]
+    },
+    {
+      "id": "office_work_019",
+      "term_de": "der Kugelschreiber",
+      "plural_de": "die Kugelschreiber",
+      "term_en": "ballpoint pen",
+      "term_ar": "قَلَمُ الحِبْرِ الجَافّ",
+      "pronunciation_de": "[ˈkuːɡl̩ˌʃʁaɪ̯bɐ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Mit einem blauen Kugelschreiber unterzeichnete der Leiter den Bericht.",
+          "en": "With a blue ballpoint pen, the director signed the report.",
+          "ar": "وَقَّعَ المَسْؤُولُ التَّقْرِيرَ بِقَلَمِ حِبْرٍ جَافٍّ أَزْرَق."
+        }
+      ]
+    },
+    {
+      "id": "office_work_020",
+      "term_de": "der Bildschirm",
+      "plural_de": "die Bildschirme",
+      "term_en": "computer monitor, screen",
+      "term_ar": "شَاشَةُ الحَاسُوب",
+      "pronunciation_de": "[ˈbɪltˌʃɪʁm]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Ein augenschonender Bildschirm erleichtert die tägliche Computerarbeit.",
+          "en": "An eye-friendly monitor facilitates daily computer work.",
+          "ar": "شَاشَةُ الحَاسُوبِ المُرِيحَةُ لِلْعَيْنَيْنِ تُيَسِّرُ العَمَلَ اليَوْمِيّ."
+        }
+      ]
+    },
+    {
+      "id": "office_work_021",
+      "term_de": "die Kaffeepause",
+      "plural_de": "die Kaffeepausen",
+      "term_en": "coffee break, rest break",
+      "term_ar": "اسْتِرَاحَةُ العَمَلِ القَصِيرَة",
+      "pronunciation_de": "[ˈkafeˌpaʊ̯zə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "In der kurzen Kaffeepause tauschen sich die Kollegen über Ideen aus.",
+          "en": "During the short break, colleagues exchange ideas.",
+          "ar": "يَتَبَادَلُ الزُّمَلَاءُ الأَفْكَارَ فِي اسْتِرَاحَةِ العَمَلِ القَصِيرَة."
+        }
+      ]
+    },
+    {
+      "id": "office_work_022",
+      "term_de": "die Zuverlässigkeit",
+      "plural_de": "-",
+      "term_en": "dependability, reliability",
+      "term_ar": "الأَمَانَة، المَوْثُوقِيَّةُ المِهْنِيَّة",
+      "pronunciation_de": "[ˈt͡suːfɛɐ̯ˌlɛsɪçkaɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Ihre stete Zuverlässigkeit wird von Vorgesetzten und Kunden geschätzt.",
+          "en": "Her constant dependability is valued by supervisors and clients.",
+          "ar": "تَحْظَى أَمَانَتُهَا وَمَوْثُوقِيَّتُهَا الدَّائِمَةُ بِتَقْدِيرِ الإِدَارَةِ وَالعُمَلَاء."
+        }
+      ]
+    },
+    {
+      "id": "office_work_023",
+      "term_de": "die Pünktlichkeit",
+      "plural_de": "-",
+      "term_en": "punctuality",
+      "term_ar": "الِانْضِبَاط، الدِّقَّةُ فِي المَوَاعِيد",
+      "pronunciation_de": "[ˈpʏŋktlɪçkaɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Pünktlichkeit bei Meetings zeigt Wertschätzung für die Zeit anderer.",
+          "en": "Punctuality at meetings shows respect for others' time.",
+          "ar": "الِانْضِبَاطُ فِي حُضُورِ الِاجْتِمَاعَاتِ دَلِيلٌ عَلَى احْتِرَامِ أَوْقَاتِ الآخَرِين."
+        }
+      ]
+    },
+    {
+      "id": "office_work_024",
+      "term_de": "die Zusammenarbeit",
+      "plural_de": "-",
+      "term_en": "cooperation, joint work",
+      "term_ar": "التَّعَاوُنُ البَنَّاء",
+      "pronunciation_de": "[t͡suˈzamənˌʔaʁbaɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Gute Zusammenarbeit zwischen den Abteilungen beschleunigt die Abläufe.",
+          "en": "Good cooperation between departments speeds up workflows.",
+          "ar": "التَّعَاوُنُ الطَّيِّبُ بَيْنَ الأَقْسَامِ يُسَرِّعُ وَتِيرَةَ الإِنْجَاز."
+        }
+      ]
+    },
+    {
+      "id": "office_work_025",
+      "term_de": "der Erfolg",
+      "plural_de": "die Erfolge",
+      "term_en": "success, achievement",
+      "term_ar": "النَّجَاح، التَّوْفِيقُ فِي العَمَل",
+      "pronunciation_de": "[ɛɐ̯ˈfɔlk]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Gemeinsame Anstrengung führt das Team zu nachhaltigem Erfolg.",
+          "en": "Joint effort leads the team to sustainable success.",
+          "ar": "الجُهْدُ الجَمَاعِيُّ المُخْلِصُ يَقُودُ الفَرِيقَ إِلَى نَجَاحٍ مُسْتَدَام."
+        }
+      ]
+    }
+  ]
+}

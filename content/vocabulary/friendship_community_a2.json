@@ -1,0 +1,409 @@
+{
+  "category_id": "friendship_community_a2",
+  "category_name_de": "Freundschaft, Nachbarschaft & Gemeinschaft",
+  "category_name_en": "Friendship, Neighborhood & Community",
+  "category_name_ar": "الصَّدَاقَةُ وَالجِيرَةُ وَالتَّرَابُطُ المُجْتَمَعِيّ",
+  "level": "A2+",
+  "items": [
+    {
+      "id": "friend_comm_001",
+      "term_de": "die Freundschaft",
+      "plural_de": "die Freundschaften",
+      "term_en": "friendship",
+      "term_ar": "الصَّدَاقَة",
+      "pronunciation_de": "[ˈfʁɔɪ̯ntʃaft]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Wahre Freundschaft basiert auf Ehrlichkeit und gegenseitigem Vertrauen.",
+          "en": "True friendship is based on honesty and mutual trust.",
+          "ar": "تَقُومُ الصَّدَاقَةُ الحَقِيقِيَّةُ عَلَى الصِّدْقِ وَالثِّقَةِ المُتَبَادَلَة."
+        }
+      ]
+    },
+    {
+      "id": "friend_comm_002",
+      "term_de": "der Freund",
+      "plural_de": "die Freunde",
+      "term_en": "friend",
+      "term_ar": "الصَّدِيق",
+      "pronunciation_de": "[fʁɔɪ̯nt]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Ein treuer Freund steht dir auch in schweren Stunden zur Seite.",
+          "en": "A loyal friend stands by your side even in difficult hours.",
+          "ar": "الصَّدِيقُ الوَفِيُّ يَقِفُ إِلَى جَانِبِكَ حَتَّى فِي السَّاعَاتِ الصَّعْبَة."
+        }
+      ]
+    },
+    {
+      "id": "friend_comm_003",
+      "term_de": "die Freundin",
+      "plural_de": "die Freundinnen",
+      "term_en": "female friend",
+      "term_ar": "الصَّدِيقَة",
+      "pronunciation_de": "[ˈfʁɔɪ̯ndɪn]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Meine beste Freundin hilft mir stets mit klugem Rat.",
+          "en": "My best friend always helps me with wise advice.",
+          "ar": "تُعِينُنِي صَدِيقَتِي المُفَضَّلَةُ دَائِمًا بِالنَّصِيحَةِ الرَّشِيدَة."
+        }
+      ]
+    },
+    {
+      "id": "friend_comm_004",
+      "term_de": "die Kameradschaft",
+      "plural_de": "die Kameradschaften",
+      "term_en": "camaraderie, companionship",
+      "term_ar": "الزَّمَالَةُ الصَّادِقَة، الرُّفْقَةُ الحَسَنَة",
+      "pronunciation_de": "[kaməˈʁaːtʃaft]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "In der Arbeitsgruppe herrscht eine vorbildliche Kameradschaft.",
+          "en": "An exemplary camaraderie prevails in the working group.",
+          "ar": "تَسُودُ فَرِيقَ العَمَلِ رُوحُ زَمَالَةٍ مُتَمَيِّزَة."
+        }
+      ]
+    },
+    {
+      "id": "friend_comm_005",
+      "term_de": "der Gefährte",
+      "plural_de": "die Gefährten",
+      "term_en": "companion, fellow traveler",
+      "term_ar": "الرَّفِيق، المُرَافِقُ فِي السَّفَرِ وَالحَيَاة",
+      "pronunciation_de": "[ɡəˈfɛːɐ̯tə]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Ein guter Gefährte verkürzt die Mühen des langen Weges.",
+          "en": "A good companion shortens the hardships of the long journey.",
+          "ar": "الرَّفِيقُ الصَّالِحُ يُهَوِّنُ مَشَاقَّ الطَّرِيقِ الطَّوِيل."
+        }
+      ]
+    },
+    {
+      "id": "friend_comm_006",
+      "term_de": "die Nachbarschaft",
+      "plural_de": "die Nachbarschaften",
+      "term_en": "neighborhood, neighborliness",
+      "term_ar": "الجِيرَة، حُسْنُ الجِوَار",
+      "pronunciation_de": "[ˈnaːxbaːɐ̯ʃaft]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Gute Nachbarschaft beruht auf Rücksichtnahme und freundlichem Grüßen.",
+          "en": "Good neighborliness rests on consideration and friendly greetings.",
+          "ar": "حُسْنُ الجِوَارِ يَقُومُ عَلَى مُرَاعَاةِ المَشَاعِرِ وَإِفْشَاءِ السَّلَام."
+        }
+      ]
+    },
+    {
+      "id": "friend_comm_007",
+      "term_de": "der Nachbar",
+      "plural_de": "die Nachbarn",
+      "term_en": "neighbor",
+      "term_ar": "الجَار",
+      "pronunciation_de": "[ˈnaːxbaːɐ̯]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Unser Nachbar gießt freundlicherweise unsere Blumen im Urlaub.",
+          "en": "Our neighbor kindly waters our flowers during the holidays.",
+          "ar": "يَسْقِي جَارُنَا أَزْهَارَنَا بِكُلِّ لُطْفٍ أَثْنَاءَ عُطْلَتِنَا."
+        }
+      ]
+    },
+    {
+      "id": "friend_comm_008",
+      "term_de": "die Nachbarin",
+      "plural_de": "die Nachbarinnen",
+      "term_en": "female neighbor",
+      "term_ar": "الجَارَة",
+      "pronunciation_de": "[ˈnaːxbaːʁɪn]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Nachbarin brachte uns frisch gebackenes Gebäck vorbei.",
+          "en": "The neighbor brought us freshly baked pastries.",
+          "ar": "أَحْضَرَتْ لَنَا الجَارَةُ فَطَائِرَ طَازَجَةً لَذِيذَة."
+        }
+      ]
+    },
+    {
+      "id": "friend_comm_009",
+      "term_de": "die Gemeinschaft",
+      "plural_de": "die Gemeinschaften",
+      "term_en": "community, society",
+      "term_ar": "المُجْتَمَع، الجَمَاعَةُ المُتَرَابِطَة",
+      "pronunciation_de": "[ɡəˈmaɪ̯nʃaft]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Eine starke Gemeinschaft kümmert sich um die Schwachen und Bedürftigen.",
+          "en": "A strong community takes care of the weak and needy.",
+          "ar": "المُجْتَمَعُ القَوِيُّ هُوَ الَّذِي يَرْعَى الضُّعَفَاءَ وَالمُحْتَاجِين."
+        }
+      ]
+    },
+    {
+      "id": "friend_comm_010",
+      "term_de": "die Hilfsbereitschaft",
+      "plural_de": "-",
+      "term_en": "helpfulness, readiness to assist",
+      "term_ar": "النَّخْوَة، المُبَادَرَةُ إِلَى عَوْنِ الآخَرِين",
+      "pronunciation_de": "[ˈhɪlfsbəˌʁaɪ̯tʃaft]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Seine stete Hilfsbereitschaft macht ihn im ganzen Viertel beliebt.",
+          "en": "His constant helpfulness makes him beloved in the entire district.",
+          "ar": "إِقْبَالُهُ الدَّائِمُ عَلَى مُسَاعَدَةِ النَّاسِ جَعَلَهُ مَحْبُوبًا فِي كُلِّ الحَيّ."
+        }
+      ]
+    },
+    {
+      "id": "friend_comm_011",
+      "term_de": "das Miteinander",
+      "plural_de": "-",
+      "term_en": "coexistence, living together harmoniously",
+      "term_ar": "التَّعَايُشُ السِّلْمِيّ، العَيْشُ المُشْتَرَك",
+      "pronunciation_de": "[mɪtʔaɪ̯ˈnandɐ]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Friedliches Miteinander bereichert das Zusammenleben verschiedener Kulturen.",
+          "en": "Peaceful coexistence enriches living together across different cultures.",
+          "ar": "التَّعَايُشُ السِّلْمِيُّ يُثْرِي الحَيَاةَ المُشْتَرَكَةَ بَيْنَ مُخْتَلَفِ الثَّقَافَات."
+        }
+      ]
+    },
+    {
+      "id": "friend_comm_012",
+      "term_de": "der Rat",
+      "plural_de": "die Ratschläge",
+      "term_en": "advice, counsel",
+      "term_ar": "النَّصِيحَةُ الصَّادِقَة، المَشُورَة",
+      "pronunciation_de": "[ʁaːt]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Ein aufrichtiger Rat eines wahren Freundes ist unbezahlbar.",
+          "en": "Sincere advice from a true friend is priceless.",
+          "ar": "النَّصِيحَةُ الصَّادِقَةُ مِنَ الصَّدِيقِ الحَقِيقِيِّ لَا تُقَدَّرُ بِثَمَن."
+        }
+      ]
+    },
+    {
+      "id": "friend_comm_013",
+      "term_de": "das Verständnis",
+      "plural_de": "-",
+      "term_en": "understanding, empathy for others",
+      "term_ar": "التَّفَهُّم، التِمَاسُ العُذْر",
+      "pronunciation_de": "[fɛɐ̯ˈʃtɛntnɪs]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Mit großem Verständnis hörte er den Sorgen seines Nachbarn zu.",
+          "en": "With great understanding, he listened to the worries of his neighbor.",
+          "ar": "أَصْغَى إِلَى هُمُومِ جَارِهِ بِتَفَهُّمٍ وَتَعَاطُفٍ كَبِير."
+        }
+      ]
+    },
+    {
+      "id": "friend_comm_014",
+      "term_de": "der Beistand",
+      "plural_de": "-",
+      "term_en": "support, standing by someone",
+      "term_ar": "المُؤَازَرَة، الوُقُوفُ بِجَانِبِ الصَّدِيق",
+      "pronunciation_de": "[ˈbaɪ̯ˌʃtant]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "In Zeiten der Trauer leisteten ihm die Nachbarn treuen Beistand.",
+          "en": "In times of mourning, neighbors provided faithful support.",
+          "ar": "وَقَفَ الجِيرَانُ بِجَانِبِهِ بِمُؤَازَرَةٍ صَادِقَةٍ فِي أَوْقَاتِ الحُزْن."
+        }
+      ]
+    },
+    {
+      "id": "friend_comm_015",
+      "term_de": "das Vertrauen",
+      "plural_de": "-",
+      "term_en": "mutual trust",
+      "term_ar": "الثِّقَةُ المُتَبَادَلَة",
+      "pronunciation_de": "[fɛɐ̯ˈtʁaʊ̯ən]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Ohne Vertrauen kann keine dauerhafte Freundschaft bestehen.",
+          "en": "Without trust, no lasting friendship can endure.",
+          "ar": "لَا يُمْكِنُ لِصَدَاقَةٍ أَنْ تَدُومَ دُونَ وُجُودِ الثِّقَة."
+        }
+      ]
+    },
+    {
+      "id": "friend_comm_016",
+      "term_de": "die Treue",
+      "plural_de": "-",
+      "term_en": "loyalty, faithfulness",
+      "term_ar": "الوَفَاء، الإِخْلَاصُ فِي العَهْد",
+      "pronunciation_de": "[ˈtʁɔɪ̯ə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Treue in der Freundschaft bewährt sich vor allem in schweren Zeiten.",
+          "en": "Loyalty in friendship proves itself above all in difficult times.",
+          "ar": "يَتَبَيَّنُ صِدْقُ الوَفَاءِ فِي الصَّدَاقَةِ خَاصَّةً فِي أَوْقَاتِ الشِّدَّة."
+        }
+      ]
+    },
+    {
+      "id": "friend_comm_017",
+      "term_de": "die Herzlichkeit",
+      "plural_de": "-",
+      "term_en": "warm-heartedness, cordiality",
+      "term_ar": "الحَفَاوَة، المَوَدَّةُ القَلْبِيَّة",
+      "pronunciation_de": "[ˈhɛʁt͡slɪçkaɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Herzlichkeit der Dorfgemeinschaft berührte jeden Reisenden.",
+          "en": "The warm-heartedness of the village community touched every traveler.",
+          "ar": "أَثَّرَتْ حَفَاوَةُ أَهْلِ القَرْيَةِ فِي قَلْبِ كُلِّ مُسَافِر."
+        }
+      ]
+    },
+    {
+      "id": "friend_comm_018",
+      "term_de": "die Verlässlichkeit",
+      "plural_de": "-",
+      "term_en": "dependability, reliability",
+      "term_ar": "المَوْثُوقِيَّة، الصِّدْقُ فِي الوَعْد",
+      "pronunciation_de": "[fɛɐ̯ˈlɛslɪçkaɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Seine Verlässlichkeit ist ein Vorbild für alle Kollegen und Freunde.",
+          "en": "His reliability is a role model for all colleagues and friends.",
+          "ar": "صِدْقُهُ فِي الوَعْدِ وَمَوْثُوقِيَّتُهُ قُدْوَةٌ لِكُلِّ الزُّمَلَاءِ وَالأَصْدِقَاء."
+        }
+      ]
+    },
+    {
+      "id": "friend_comm_019",
+      "term_de": "die Aufrichtigkeit",
+      "plural_de": "-",
+      "term_en": "sincerity, candor",
+      "term_ar": "الإِخْلَاص، الصِّدْقُ النَّاصِع",
+      "pronunciation_de": "[ˈaʊ̯fˌʁɪçtɪçkaɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Aufrichtigkeit im Umgang miteinander baut alle Vorurteile ab.",
+          "en": "Sincerity in dealing with one another breaks down all prejudices.",
+          "ar": "الإِخْلَاصُ وَالصِّدْقُ فِي التَّعَامُلِ يَقْضِيَانِ عَلَى كُلِّ الأَحْكَامِ المُسْبَقَة."
+        }
+      ]
+    },
+    {
+      "id": "friend_comm_020",
+      "term_de": "der Frieden",
+      "plural_de": "-",
+      "term_en": "peace, harmony",
+      "term_ar": "السَّلَام، الوِفَاقُ بَيْنَ النَّاس",
+      "pronunciation_de": "[ˈfʁiːdn̩]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Wer Frieden unter Nachbarn stiftet, vollbringt ein edles Werk.",
+          "en": "Whoever makes peace among neighbors accomplishes a noble deed.",
+          "ar": "مَنْ يَسْعَ فِي إِحْلَالِ السَّلَامِ بَيْنَ الجِيرَانِ يَفْعَلْ عَمَلًا جَلِيلًا."
+        }
+      ]
+    },
+    {
+      "id": "friend_comm_021",
+      "term_de": "die Eintracht",
+      "plural_de": "-",
+      "term_en": "harmony, unity",
+      "term_ar": "الوِئَام، التَّآلُف",
+      "pronunciation_de": "[ˈaɪ̯nˌtʁaxt]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "In eintrachtvollem Miteinander lässt sich jedes Ziel erreichen.",
+          "en": "In harmonious unity, every goal can be achieved.",
+          "ar": "فِي الوِئَامِ وَالتَّآلُفِ يُمْكِنُ تَحْقِيقُ كُلِّ هَدَفٍ نَبِيل."
+        }
+      ]
+    },
+    {
+      "id": "friend_comm_022",
+      "term_de": "das Geschenk",
+      "plural_de": "die Geschenke",
+      "term_en": "gift, present",
+      "term_ar": "الهَدِيَّةُ لِتَوْثِيقِ المَحَبَّة",
+      "pronunciation_de": "[ɡəˈʃɛŋk]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Kleine Geschenke erhalten und vertiefen die Freundschaft.",
+          "en": "Small gifts preserve and deepen friendship.",
+          "ar": "تَهَادَوْا تَحَابُّوا؛ فَالهَدَايَا اللَّطِيفَةُ تُوَثِّقُ عُرَى الصَّدَاقَة."
+        }
+      ]
+    },
+    {
+      "id": "friend_comm_023",
+      "term_de": "das Willkommen",
+      "plural_de": "-",
+      "term_en": "welcome, warm reception",
+      "term_ar": "التَّرْحِيب، كَلِمَةُ التَّهْلِيلِ بِالقَادِم",
+      "pronunciation_de": "[vɪlˈkɔmən]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Ein herzliches Willkommen erwartete die Gäste an der Schwelle.",
+          "en": "A warm welcome awaited the guests at the threshold.",
+          "ar": "كَانَ فِي انْتِظَارِ الضُّيُوفِ تَرْحِيبٌ حَارٌّ عِنْدَ عَتَبَةِ البَاب."
+        }
+      ]
+    },
+    {
+      "id": "friend_comm_024",
+      "term_de": "die Versöhnung",
+      "plural_de": "die Versöhnungen",
+      "term_en": "reconciliation, peacemaking",
+      "term_ar": "الصُّلْح، التَّصَالُحُ بَعْدَ الخِلَاف",
+      "pronunciation_de": "[fɛɐ̯ˈzøːnʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Nach dem Missverständnis reichten sie sich zur Versöhnung die Hand.",
+          "en": "After the misunderstanding, they shook hands in reconciliation.",
+          "ar": "تَصَافَحَا صُلْحًا وَتَسَامُحًا بَعْدَ سُوءِ التَّفَاهُم."
+        }
+      ]
+    },
+    {
+      "id": "friend_comm_025",
+      "term_de": "das Wohlwollen",
+      "plural_de": "-",
+      "term_en": "goodwill, benevolence",
+      "term_ar": "حُسْنُ النِّيَّة، إِرَادَةُ الخَيْرِ لِلنَّاس",
+      "pronunciation_de": "[ˈvoːlˌvɔlən]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Mit aufrichtigem Wohlwollen begegnet er jedem Mitmenschen.",
+          "en": "With sincere goodwill, he treats every fellow human being.",
+          "ar": "يَلْقَى كُلَّ إِنْسَانٍ بِحُسْنِ نِيَّةٍ وَإِرَادَةِ الخَيْرِ لَه."
+        }
+      ]
+    }
+  ]
+}

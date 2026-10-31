@@ -1,0 +1,409 @@
+{
+  "category_id": "entrepreneurship_service_a2",
+  "category_name_de": "Unternehmertum, Selbstständigkeit & Kundenservice",
+  "category_name_en": "Entrepreneurship, Self-Employment & Customer Care",
+  "category_name_ar": "رِيَادَةُ الأَعْمَالِ وَالمِهَنُ الحُرَّةُ وَخِدْمَةُ العُمَلَاء",
+  "level": "A2+",
+  "items": [
+    {
+      "id": "business_serv_001",
+      "term_de": "das Unternehmen",
+      "plural_de": "die Unternehmen",
+      "term_en": "enterprise, business, company",
+      "term_ar": "الشَّرِكَة، المُنْشَأَةُ التِّجَارِيَّة",
+      "pronunciation_de": "[ʊntɐˈneːmʊŋ]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das junge Unternehmen entwickelt umweltfreundliche Verpackungen.",
+          "en": "The young enterprise develops eco-friendly packaging.",
+          "ar": "تُطَوِّرُ المُنْشَأَةُ الوَاعِدَةُ حُلُولَ تَغْلِيفٍ صَدِيقَةً لِلْبِيئَة."
+        }
+      ]
+    },
+    {
+      "id": "business_serv_002",
+      "term_de": "der Unternehmer",
+      "plural_de": "die Unternehmer",
+      "term_en": "entrepreneur, business owner",
+      "term_ar": "رَائِدُ الأَعْمَال، صَاحِبُ المَشْرُوع",
+      "pronunciation_de": "[ʊntɐˈneːmɐ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der gewissenhafte Unternehmer übernimmt soziale Verantwortung für seine Angestellten.",
+          "en": "The conscientious entrepreneur assumes social responsibility for his employees.",
+          "ar": "يَتَحَمَّلُ رَائِدُ الأَعْمَالِ المُخْلِصُ المَسْؤُولِيَّةَ الِاجْتِمَاعِيَّةَ نَحْوَ مُوَظَّفِيه."
+        }
+      ]
+    },
+    {
+      "id": "business_serv_003",
+      "term_de": "die Unternehmerin",
+      "plural_de": "die Unternehmerinnen",
+      "term_en": "female entrepreneur, business owner",
+      "term_ar": "رَائِدَةُ الأَعْمَال",
+      "pronunciation_de": "[ʊntɐˈneːməʁɪn]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die engagierte Unternehmerin leitet ihr Start-up mit Weitblick.",
+          "en": "The dedicated female entrepreneur leads her start-up with vision.",
+          "ar": "تَقُودُ رَائِدَةُ الأَعْمَالِ المُثَابِرَةُ شَرِكَتَهَا النَّاشِئَةَ بِبُعْدِ نَظَر."
+        }
+      ]
+    },
+    {
+      "id": "business_serv_004",
+      "term_de": "die Selbstständigkeit",
+      "plural_de": "-",
+      "term_en": "self-employment, independence",
+      "term_ar": "العَمَلُ الحُرّ، الِاسْتِقْلَالِيَّةُ المِهْنِيَّة",
+      "pronunciation_de": "[ˈzɛlpstˌʃtɛndɪçkaɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Der Schritt in die Selbstständigkeit erfordert Mut, Fleiß und Planung.",
+          "en": "The step into self-employment requires courage, diligence, and planning.",
+          "ar": "تَتَطَلَّبُ الخُطْوَةُ نَحْوَ العَمَلِ الحُرِّ شَجَاعَةً وَاجْتِهَادًا وَتَخْطِيطًا دَقِيقًا."
+        }
+      ]
+    },
+    {
+      "id": "business_serv_005",
+      "term_de": "der Kunde",
+      "plural_de": "die Kunden",
+      "term_en": "customer, client",
+      "term_ar": "العَمِيل، الزَّبُون",
+      "pronunciation_de": "[ˈkʊndə]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der zufriedene Kunde empfiehlt den Service gerne an Freunde weiter.",
+          "en": "The satisfied customer gladly recommends the service to friends.",
+          "ar": "يُوصِي العَمِيلُ الرَّاضِي بِالخِدْمَةِ لِأَصْدِقَائِهِ بِسَعَادَة."
+        }
+      ]
+    },
+    {
+      "id": "business_serv_006",
+      "term_de": "die Kundin",
+      "plural_de": "die Kundinnen",
+      "term_en": "female customer, client",
+      "term_ar": "العَمِيلَة، الزَّبُونَة",
+      "pronunciation_de": "[ˈkʊndɪn]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Kundin lobte die ausführliche und geduldige Beratung im Fachgeschäft.",
+          "en": "The female client praised the detailed and patient advice in the specialty store.",
+          "ar": "أَثْنَتِ العَمِيلَةُ عَلَى المَشُورَةِ المُفَصَّلَةِ وَالصَّبُورَةِ فِي المَتْجَرِ المُتَخَصِّص."
+        }
+      ]
+    },
+    {
+      "id": "business_serv_007",
+      "term_de": "der Kundenservice",
+      "plural_de": "-",
+      "term_en": "customer service, client care",
+      "term_ar": "خِدْمَةُ العُمَلَاء",
+      "pronunciation_de": "[ˈkʊndn̩ˌzœːɐ̯vɪs]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Ein hervorragender Kundenservice löst Fragen schnell und zuvorkommend.",
+          "en": "Outstanding customer service resolves questions quickly and courteously.",
+          "ar": "تُعَالِجُ خِدْمَةُ العُمَلَاءِ المُمَيَّزَةُ الِاسْتِفْسَارَاتِ بِسُرْعَةٍ وَلَبَاقَة."
+        }
+      ]
+    },
+    {
+      "id": "business_serv_008",
+      "term_de": "die Dienstleistung",
+      "plural_de": "die Dienstleistungen",
+      "term_en": "service, provision of service",
+      "term_ar": "الخِدْمَةُ المُقَدَّمَة",
+      "pronunciation_de": "[ˈdiːnstˌlaɪ̯stʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die handwerkliche Dienstleistung zeichnet sich durch hohe Zuverlässigkeit aus.",
+          "en": "The artisanal service is distinguished by high reliability.",
+          "ar": "تَتَمَيَّزُ الخِدْمَةُ الحِرَفِيَّةُ بِالمَوْثُوقِيَّةِ وَالأَمَانَةِ العَالِيَة."
+        }
+      ]
+    },
+    {
+      "id": "business_serv_009",
+      "term_de": "das Angebot",
+      "plural_de": "die Angebote",
+      "term_en": "commercial offer, proposal",
+      "term_ar": "العَرْضُ التِّجَارِيّ، البَيَانُ السِّعْرِيّ",
+      "pronunciation_de": "[ˈanɡəˌboːt]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Der Handwerker erstellte ein transparentes und faires Angebot für die Renovierung.",
+          "en": "The craftsman made a transparent and fair proposal for the renovation.",
+          "ar": "قَدَّمَ الحِرَفِيُّ عَرْضًا سِعْرِيًّا شَفَّافًا وَعَادِلًا لِأَعْمَالِ التَّرْمِيم."
+        }
+      ]
+    },
+    {
+      "id": "business_serv_010",
+      "term_de": "die Nachfrage",
+      "plural_de": "die Nachfragen",
+      "term_en": "market demand",
+      "term_ar": "الطَّلَبُ فِي السُّوق",
+      "pronunciation_de": "[ˈnaːxˌfʁaːɡə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Nachfrage nach regionalen Bioprodukten steigt stetig an.",
+          "en": "The demand for regional organic products is steadily rising.",
+          "ar": "يَرْتَفِعُ الطَّلَبُ عَلَى المُنْتَجَاتِ العُضْوِيَّةِ المَحَلِّيَّةِ بَانْتِظَام."
+        }
+      ]
+    },
+    {
+      "id": "business_serv_011",
+      "term_de": "der Markt",
+      "plural_de": "die Märkte",
+      "term_en": "market",
+      "term_ar": "السُّوقُ التِّجَارِيّ",
+      "pronunciation_de": "[maʁkt]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Ein gesunder Markt basiert auf lautem Wettbewerb und ehrlichen Preisen.",
+          "en": "A healthy market is based on fair competition and honest prices.",
+          "ar": "يَقُومُ السُّوقُ النَّزِيهُ عَلَى التَّنَافُسِ الشَّرِيفِ وَالأَسْعَارِ العَادِلَة."
+        }
+      ]
+    },
+    {
+      "id": "business_serv_012",
+      "term_de": "die Qualitätssicherung",
+      "plural_de": "-",
+      "term_en": "quality assurance",
+      "term_ar": "ضَمَانُ الجَوْدَة، ضَبْطُ الإِتْقَان",
+      "pronunciation_de": "[kvaliˈtɛːt͡sˌzɪçəʁʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Strenge Qualitätssicherung garantiert makellose Erzeugnisse für den Verbraucher.",
+          "en": "Strict quality assurance guarantees flawless products for the consumer.",
+          "ar": "يَضْمَنُ التَّدْقِيقُ الصَّارِمُ فِي الجَوْدَةِ مُنْتَجَاتٍ لَا عَيْبَ فِيهَا لِلْمُسْتَهْلِك."
+        }
+      ]
+    },
+    {
+      "id": "business_serv_013",
+      "term_de": "die Beratung",
+      "plural_de": "die Beratungen",
+      "term_en": "consultation, expert advisory",
+      "term_ar": "الِاسْتِشَارَة، المَشُورَةُ المِهْنِيَّة",
+      "pronunciation_de": "[bəˈʁaːtʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Eine fachkundige Beratung schützt vor Fehlentscheidungen beim Kauf.",
+          "en": "Expert advice protects against wrong decisions when buying.",
+          "ar": "الِاسْتِشَارَةُ المِهْنِيَّةُ الصَّادِقَةُ تَقِي مِنَ القَرَارَاتِ الخَاطِئَةِ عِنْدَ الشِّرَاء."
+        }
+      ]
+    },
+    {
+      "id": "business_serv_014",
+      "term_de": "der Auftrag",
+      "plural_de": "die Aufträge",
+      "term_en": "order, business contract",
+      "term_ar": "أَمْرُ التَّوْرِيد، طَلَبُ التَّنْفِيذ",
+      "pronunciation_de": "[ˈaʊ̯fˌtʁaːk]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Die Schreinerei erhielt einen großen Auftrag für handgefertigte Holztische.",
+          "en": "The joinery received a large order for handcrafted wooden tables.",
+          "ar": "تَلَقَّتْ وَرْشَةُ النِّجَارَةِ طَلَبًا كَبِيرًا لِصِنَاعَةِ طَاوِلَاتٍ خَشَبِيَّةٍ يَدَوِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "business_serv_015",
+      "term_de": "die Frische",
+      "plural_de": "-",
+      "term_en": "freshness, quality of goods",
+      "term_ar": "طَرَاوَةُ السِّلْعَةِ وَنَضَارَتُهَا",
+      "pronunciation_de": "[ˈfʁɪʃə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die unübertroffene Frische der Zutaten ist das Markenzeichen des Bäckers.",
+          "en": "The unmatched freshness of the ingredients is the trademark of the baker.",
+          "ar": "نَضَارَةُ المُكَوِّنَاتِ الفَائِقَةُ هِيَ السِّمَةُ المُمَيَّزَةُ لِلْخَبَّاز."
+        }
+      ]
+    },
+    {
+      "id": "business_serv_016",
+      "term_de": "die Innovation",
+      "plural_de": "die Innovationen",
+      "term_en": "useful innovation",
+      "term_ar": "الِابْتِكَارُ النَّافِع",
+      "pronunciation_de": "[ɪnovaˈt͡si̯oːn]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Praktische Innovationen erleichtern das alltägliche Leben der Menschen.",
+          "en": "Practical innovations ease people's everyday lives.",
+          "ar": "الِابْتِكَارَاتُ العَمَلِيَّةُ النَّافِعَةُ تُيَسِّرُ الحَيَاةَ اليَوْمِيَّةَ لِلنَّاس."
+        }
+      ]
+    },
+    {
+      "id": "business_serv_017",
+      "term_de": "der Mehrwert",
+      "plural_de": "die Mehrwerte",
+      "term_en": "added value",
+      "term_ar": "القِيمَةُ المُضَافَة",
+      "pronunciation_de": "[ˈmeːɐ̯ˌveːɐ̯t]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Langlebige Produkte bieten einen echten Mehrwert für Umwelt und Geldbeutel.",
+          "en": "Durable products provide genuine added value for environment and budget.",
+          "ar": "المُنْتَجَاتُ المَتِينَةُ تُوَفِّرُ قِيمَةً مُضَافَةً حَقِيقِيَّةً لِلْبِيئَةِ وَالمِيزَانِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "business_serv_018",
+      "term_de": "der Kostenvoranschlag",
+      "plural_de": "die Kostenvoranschläge",
+      "term_en": "cost estimate, written quote",
+      "term_ar": "المُقَايَسَةُ التَّقْدِيرِيَّةُ لِلتَّكَالِيف",
+      "pronunciation_de": "[ˈkɔstn̩foːɐ̯ˌʔanʃlaːk]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der Meister erstellte einen detaillierten Kostenvoranschlag ohne versteckte Gebühren.",
+          "en": "The master created a detailed cost estimate without hidden fees.",
+          "ar": "أَعَدَّ مُعَلِّمُ الصَّنْعَةِ مُقَايَسَةً تَقْدِيرِيَّةً مُفَصَّلَةً دُونَ رُسُومٍ خَفِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "business_serv_019",
+      "term_de": "die Zufriedenheit",
+      "plural_de": "-",
+      "term_en": "client satisfaction",
+      "term_ar": "رِضَا العَمِيل",
+      "pronunciation_de": "[t͡suˈfʁiːdn̩haɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Zufriedenheit der Kunden steht im Mittelpunkt jeder guten Geschäftstätigkeit.",
+          "en": "Customer satisfaction is at the center of every good business activity.",
+          "ar": "رِضَا العُمَلَاءِ هُوَ المِحْوَرُ الأَسَاسِيُّ لِكُلِّ نَشَاطٍ تِجَارِيٍّ نَاجِح."
+        }
+      ]
+    },
+    {
+      "id": "business_serv_020",
+      "term_de": "das Geschäftsmodell",
+      "plural_de": "die Geschäftsmodelle",
+      "term_en": "business model",
+      "term_ar": "نَمُوذَجُ العَمَلِ التِّجَارِيّ",
+      "pronunciation_de": "[ɡəˈʃɛft͡smoˌdɛl]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Ein nachhaltiges Geschäftsmodell verbindet Wirtschaftlichkeit mit Gemeinwohl.",
+          "en": "A sustainable business model connects profitability with common good.",
+          "ar": "يَجْمَعُ نَمُوذَجُ العَمَلِ المُسْتَدَامُ بَيْنَ الجَدْوَى المَالِيَّةِ وَالنَّفْعِ العَامّ."
+        }
+      ]
+    },
+    {
+      "id": "business_serv_021",
+      "term_de": "die Partnerschaft",
+      "plural_de": "die Partnerschaften",
+      "term_en": "business partnership",
+      "term_ar": "الشَّرَاكَةُ المِهْنِيَّةُ النَّزِيهَة",
+      "pronunciation_de": "[ˈpaʁtnɐʃaft]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Langjährige Partnerschaften auf Augenhöhe stärken beide Unternehmen.",
+          "en": "Long-standing partnerships on equal footing strengthen both companies.",
+          "ar": "الشَّرَاكَاتُ المِهْنِيَّةُ العَرِيقَةُ القَائِمَةُ عَلَى الِاحْتِرَامِ تُقَوِّي كِلَا الطَّرَفَيْن."
+        }
+      ]
+    },
+    {
+      "id": "business_serv_022",
+      "term_de": "die Empfehlung",
+      "plural_de": "die Empfehlungen",
+      "term_en": "recommendation, endorsement",
+      "term_ar": "التَّوْصِيَةُ الإِيجَابِيَّة، الإِشَادَة",
+      "pronunciation_de": "[ɛmˈp͡feːlʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Persönliche Empfehlungen zufriedener Kunden sind die beste Werbung.",
+          "en": "Personal recommendations from satisfied clients are the best advertisement.",
+          "ar": "التَّوْصِيَاتُ الشَّخْصِيَّةُ مِنَ العُمَلَاءِ الرَّاضِينَ هِيَ خَيْرُ دِعَايَةٍ لِلْمَشْرُوع."
+        }
+      ]
+    },
+    {
+      "id": "business_serv_023",
+      "term_de": "die Transparenz",
+      "plural_de": "-",
+      "term_en": "transparency, openness",
+      "term_ar": "الشَّفَافِيَّةُ وَالوُضُوح",
+      "pronunciation_de": "[tʁanspaˈʁɛnt͡s]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Volle Transparenz bei Preisen und Leistungen schafft tiefes Vertrauen.",
+          "en": "Full transparency in prices and services creates deep trust.",
+          "ar": "الشَّفَافِيَّةُ التَّامَّةُ فِي الأَسْعَارِ وَالخِدْمَاتِ تَبْنِي ثِقَةً عَمِيقَة."
+        }
+      ]
+    },
+    {
+      "id": "business_serv_024",
+      "term_de": "die Termintreue",
+      "plural_de": "-",
+      "term_en": "adherence to schedule, punctuality",
+      "term_ar": "الدِّقَّةُ فِي مَوَاعِيدِ التَّسْلِيم",
+      "pronunciation_de": "[tɛʁˈmiːnˌtʁɔɪ̯ə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Höchste Termintreue ist das Markenzeichen eines professionellen Dienstleisters.",
+          "en": "Utmost adherence to schedule is the hallmark of a professional provider.",
+          "ar": "الدِّقَّةُ التَّامَّةُ فِي مَوَاعِيدِ التَّسْلِيمِ هِيَ سِمَةُ مُقَدِّمِ الخِدْمَةِ المُحْتَرِف."
+        }
+      ]
+    },
+    {
+      "id": "business_serv_025",
+      "term_de": "der gute Ruf",
+      "plural_de": "-",
+      "term_en": "good reputation",
+      "term_ar": "السُّمْعَةُ الطَّيِّبَة، الصِّيتُ الحَسَن",
+      "pronunciation_de": "[ˈɡuːtɐ ʁuːf]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Ein guter Ruf ist das wertvollste Kapital eines jeden Kaufmanns.",
+          "en": "A good reputation is the most valuable capital of every merchant.",
+          "ar": "السُّمْعَةُ الطَّيِّبَةُ هِيَ أَثْمَنُ رَأْسِ مَالٍ لِكُلِّ تَاجِرٍ وَصَانِع."
+        }
+      ]
+    }
+  ]
+}

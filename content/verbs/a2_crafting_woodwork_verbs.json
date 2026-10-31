@@ -1,0 +1,909 @@
+{
+  "category_id": "a2_crafting_woodwork_verbs",
+  "category_name_de": "Werkstatt-, Holzbearbeitungs- und Formgebungsverben",
+  "category_name_en": "Workshop, Woodworking & Crafting Verbs",
+  "category_name_ar": "أفعال الورشة والنجارة وتشكيل المعادن والأخشاب",
+  "level": "A2/B1",
+  "verbs": [
+    {
+      "id": "verb_craft_001",
+      "infinitive": "sägen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Holz oder Metall mit einer Säge präzise zerteilen",
+      "meaning_en": "to saw, cut wood",
+      "meaning_ar": "يَنْشُرُ بِالمِنْشَار",
+      "tenses": {
+        "present": {
+          "ich": "säge",
+          "du": "sägst",
+          "er_sie_es": "sägt",
+          "wir": "sägen",
+          "ihr": "sägt",
+          "sie_Sie": "sägen"
+        },
+        "past_simple": {
+          "ich": "sägte",
+          "du": "sägtest",
+          "er_sie_es": "sägte",
+          "wir": "sägten",
+          "ihr": "sägtet",
+          "sie_Sie": "sägten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gesägt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Akkusativ",
+          "meaning_ar": "ينشر وفق الطول"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Tischler sägt die massiven Holzleisten auf die gewünschte Länge zu.",
+          "en": "The carpenter saws the solid wooden slats to the desired length.",
+          "ar": "يَنْشُرُ النَّجَّارُ الأَلْوَاحَ الخَشَبِيَّةَ الصَّلْبَةَ بِالطُّولِ المَطْلُوب."
+        }
+      ]
+    },
+    {
+      "id": "verb_craft_002",
+      "infinitive": "hämmern",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "mit einem Hammer kräftig Nägel einschlagen oder Metall formen",
+      "meaning_en": "to hammer",
+      "meaning_ar": "يَدُقُّ بِالمِطْرَقَة، يَطْرُقُ",
+      "tenses": {
+        "present": {
+          "ich": "hämmere",
+          "du": "hämmerst",
+          "er_sie_es": "hämmert",
+          "wir": "hämmern",
+          "ihr": "hämmert",
+          "sie_Sie": "hämmern"
+        },
+        "past_simple": {
+          "ich": "hämmerte",
+          "du": "hämmertest",
+          "er_sie_es": "hämmerte",
+          "wir": "hämmerten",
+          "ihr": "hämmertet",
+          "sie_Sie": "hämmerten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gehämmert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Akkusativ",
+          "meaning_ar": "يطرق على السندان"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Schmied hämmert das glühende Eisen mit kräftigen Schlägen auf dem Amboss.",
+          "en": "The blacksmith hammers the glowing iron with powerful strikes on the anvil.",
+          "ar": "يَطْرُقُ الحَدَّادُ الحَدِيدَ المُتَوَهِّجَ بِضَرَبَاتٍ قَوِيَّةٍ فَوْقَ السِّنْدَان."
+        }
+      ]
+    },
+    {
+      "id": "verb_craft_003",
+      "infinitive": "feilen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Metall- oder Holzkanten mit einer Feile glätten",
+      "meaning_en": "to file, rasp edges",
+      "meaning_ar": "يَبْرُدُ بِالمِبْرَد",
+      "tenses": {
+        "present": {
+          "ich": "feile",
+          "du": "feilst",
+          "er_sie_es": "feilt",
+          "wir": "feilen",
+          "ihr": "feilt",
+          "sie_Sie": "feilen"
+        },
+        "past_simple": {
+          "ich": "feilte",
+          "du": "feiltest",
+          "er_sie_es": "feilte",
+          "wir": "feilten",
+          "ihr": "feiltet",
+          "sie_Sie": "feilten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gefeilt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Dativ",
+          "meaning_ar": "يبرد عند الحواف"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er feilt geduldig an den scharfen Metallkanten, bis sie vollkommen glatt sind.",
+          "en": "He patiently files the sharp metal edges until they are perfectly smooth.",
+          "ar": "يَبْرُدُ الحَوَافَّ المَعْدِنِيَّةَ الحَادَّةَ بِصَبْرٍ حَتَّى تُصْبِحَ مَلْسَاءَ تَمَامًا."
+        }
+      ]
+    },
+    {
+      "id": "verb_craft_004",
+      "infinitive": "hobeln",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Holzschichten mit dem Hobel abtragen, um Ebenheit zu schaffen",
+      "meaning_en": "to plane wood",
+      "meaning_ar": "يَسْحَجُ الخَشَبَ بِالمِسْحَاج",
+      "tenses": {
+        "present": {
+          "ich": "hobele",
+          "du": "hobelst",
+          "er_sie_es": "hobelt",
+          "wir": "hobeln",
+          "ihr": "hobelt",
+          "sie_Sie": "hobeln"
+        },
+        "past_simple": {
+          "ich": "hobelte",
+          "du": "hobeltest",
+          "er_sie_es": "hobelte",
+          "wir": "hobelten",
+          "ihr": "hobeltet",
+          "sie_Sie": "hobelten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gehobelt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يسحج بالفأرة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Handwerker hobelt das raue Brett, bis die Maserung herrlich hervortritt.",
+          "en": "The craftsman planes the rough board until the grain emerges wonderfully.",
+          "ar": "يَسْحَجُ الصَّانِعُ اللَّوْحَ الخَشِنَ حَتَّى تَبْرُزَ عُرُوقُ الخَشَبِ بِجَمَال."
+        }
+      ]
+    },
+    {
+      "id": "verb_craft_005",
+      "infinitive": "schnitzen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "mit einem Messer künstlerische Formen aus Holz herausschneiden",
+      "meaning_en": "to carve wood",
+      "meaning_ar": "يَنْحَتُ الخَشَب",
+      "tenses": {
+        "present": {
+          "ich": "schnitze",
+          "du": "schnitzt",
+          "er_sie_es": "schnitzt",
+          "wir": "schnitzen",
+          "ihr": "schnitzt",
+          "sie_Sie": "schnitzen"
+        },
+        "past_simple": {
+          "ich": "schnitzte",
+          "du": "schnitztest",
+          "er_sie_es": "schnitzte",
+          "wir": "schnitzten",
+          "ihr": "schnitztet",
+          "sie_Sie": "schnitzten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geschnitzt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "aus",
+          "case": "Dativ",
+          "meaning_ar": "ينحت من خشب"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Großvater schnitzt eine kleine Holzvogel-Figur für sein Enkelkind.",
+          "en": "The grandfather carves a little wooden bird figurine for his grandchild.",
+          "ar": "يَنْحَتُ الجَدُّ طَائِرًا خَشَبِيًّا صَغِيرًا لِحَفِيدِه."
+        }
+      ]
+    },
+    {
+      "id": "verb_craft_006",
+      "infinitive": "schleifen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Flächen mit Schleifpapier bearbeiten, um Feinschliff zu erzielen",
+      "meaning_en": "to sand, polish smooth",
+      "meaning_ar": "يُصَنْفِرُ، يَصْقُلُ السَّطْح",
+      "tenses": {
+        "present": {
+          "ich": "schleife",
+          "du": "schleifst",
+          "er_sie_es": "schleift",
+          "wir": "schleifen",
+          "ihr": "schleift",
+          "sie_Sie": "schleifen"
+        },
+        "past_simple": {
+          "ich": "schleifte",
+          "du": "schleiftest",
+          "er_sie_es": "schleifte",
+          "wir": "schleiften",
+          "ihr": "schleiftet",
+          "sie_Sie": "schleiften"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geschleift"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يصنفر بورق الصنفرة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Vor dem Streichen schleift der Geselle die Holztür sorgfältig ab.",
+          "en": "Before painting, the journeyman sands the wooden door down carefully.",
+          "ar": "يُصَنْفِرُ الصَّانِعُ البَابَ الخَشَبِيَّ جَيِّدًا قَبْلَ الطِّلَاء."
+        }
+      ]
+    },
+    {
+      "id": "verb_craft_007",
+      "infinitive": "leimen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Holzstücke mit Leim dauerhaft zusammenfügen",
+      "meaning_en": "to glue wood",
+      "meaning_ar": "يُغَرِّي، يَلْصِقُ الخَشَبَ بِالغِرَاء",
+      "tenses": {
+        "present": {
+          "ich": "leime",
+          "du": "leimst",
+          "er_sie_es": "leimt",
+          "wir": "leimen",
+          "ihr": "leimt",
+          "sie_Sie": "leimen"
+        },
+        "past_simple": {
+          "ich": "leimte",
+          "du": "leimtest",
+          "er_sie_es": "leimte",
+          "wir": "leimten",
+          "ihr": "leimtet",
+          "sie_Sie": "leimten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geleimt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Akkusativ",
+          "meaning_ar": "يلصق بـ"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er leimt die Teile des Stuhls zusammen und presst sie mit Schraubzwingen.",
+          "en": "He glues the chair parts together and clamps them with bar clamps.",
+          "ar": "يُلْصِقُ أَجْزَاءَ الكُرْسِيِّ بِالغِرَاءِ وَيَشُدُّهَا بِمَلَازِمِ التَّثْبِيت."
+        }
+      ]
+    },
+    {
+      "id": "verb_craft_008",
+      "infinitive": "bohren",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "mit einem Bohrer ein exaktes Loch in Holz oder Metall einbringen",
+      "meaning_en": "to drill holes",
+      "meaning_ar": "يَثْقُبُ، يَحْفِرُ ثَقْبًا دَقِيقًا",
+      "tenses": {
+        "present": {
+          "ich": "bohre",
+          "du": "bohrst",
+          "er_sie_es": "bohrt",
+          "wir": "bohren",
+          "ihr": "bohrt",
+          "sie_Sie": "bohren"
+        },
+        "past_simple": {
+          "ich": "bohrte",
+          "du": "bohrtest",
+          "er_sie_es": "bohrte",
+          "wir": "bohrten",
+          "ihr": "bohrtet",
+          "sie_Sie": "bohrten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gebohrt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Akkusativ",
+          "meaning_ar": "يثقب في الخشب"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er bohrt passgenaue Löcher für die Holzdübel in den Rahmen.",
+          "en": "He drills custom-fit holes for the wooden dowels into the frame.",
+          "ar": "يَثْقُبُ فِي الإِطَارِ فَتَحَاتٍ دَقِيقَةَ المَقَاسِ لِلأَوْتَادِ الخَشَبِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_craft_009",
+      "infinitive": "schrauben",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "zwei Bauteile mit Schrauben fest verbinden",
+      "meaning_en": "to screw, fasten with screws",
+      "meaning_ar": "يَرْبِطُ بِالبُرْغِيّ، يُثَبِّتُ بِالبَرَاغِي",
+      "tenses": {
+        "present": {
+          "ich": "schraube",
+          "du": "schraubst",
+          "er_sie_es": "schraubt",
+          "wir": "schrauben",
+          "ihr": "schraubt",
+          "sie_Sie": "schrauben"
+        },
+        "past_simple": {
+          "ich": "schraubte",
+          "du": "schraubtest",
+          "er_sie_es": "schraubte",
+          "wir": "schraubten",
+          "ihr": "schraubtet",
+          "sie_Sie": "schraubten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geschraubt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Akkusativ",
+          "meaning_ar": "يثبت ببرغي على"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Scharniere werden mit Edelstahlschrauben sicher an die Tür geschraubt.",
+          "en": "The hinges are securely screwed onto the door with stainless steel screws.",
+          "ar": "تُثَبَّتُ المَفَاصِلُ بِإِحْكَامٍ فِي البَابِ بِبَرَاغِي مِنَ الفُولَاذِ المُقَاوِمِ لِلصَّدَأ."
+        }
+      ]
+    },
+    {
+      "id": "verb_craft_010",
+      "infinitive": "schweißen",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "Metallteile durch hohe Hitze dauerhaft verschmelzen",
+      "meaning_en": "to weld metals",
+      "meaning_ar": "يَلْحَمُ المَعَادِن",
+      "tenses": {
+        "present": {
+          "ich": "schweiße",
+          "du": "schweißt",
+          "er_sie_es": "schweißt",
+          "wir": "schweißen",
+          "ihr": "schweißt",
+          "sie_Sie": "schweißen"
+        },
+        "past_simple": {
+          "ich": "schweißte",
+          "du": "schweißtest",
+          "er_sie_es": "schweißte",
+          "wir": "schweißten",
+          "ihr": "schweißtet",
+          "sie_Sie": "schweißten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geschweißt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يلحم بجهاز اللحام"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Metallbauer schweißt das Geländer mit Schutzgas zusammen.",
+          "en": "The metalworker welds the railing together with shielding gas.",
+          "ar": "يَلْحَمُ حِرَفِيُّ المَعَادِنِ الدَّرَابَزِينَ بِدِقَّةٍ وَأَمَان."
+        }
+      ]
+    },
+    {
+      "id": "verb_craft_011",
+      "infinitive": "schmieden",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "glühendes Metall auf dem Amboss hämmernd formen",
+      "meaning_en": "to forge, blacksmith",
+      "meaning_ar": "يَصُوغُ، يَحْدُدُ الحَدِيدَ المُحْمَى",
+      "tenses": {
+        "present": {
+          "ich": "schmiede",
+          "du": "schmiedest",
+          "er_sie_es": "schmiedet",
+          "wir": "schmieden",
+          "ihr": "schmiedet",
+          "sie_Sie": "schmieden"
+        },
+        "past_simple": {
+          "ich": "schmiedete",
+          "du": "schmiedetest",
+          "er_sie_es": "schmiedete",
+          "wir": "schmiedeten",
+          "ihr": "schmiedetet",
+          "sie_Sie": "schmiedeten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geschmiedet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "zu",
+          "case": "Dativ",
+          "meaning_ar": "يصوغ إلى تحفة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Kunstschmied schmiedet das Eisen zu einem kunstvollen Tor.",
+          "en": "The artistic blacksmith forges the iron into an ornate gate.",
+          "ar": "يَصُوغُ الحَدَّادُ الفَنَّانُ الحَدِيدَ لِيَجْعَلَ مِنْهُ بَوَّابَةً مُزَخْرَفَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_craft_012",
+      "infinitive": "biegen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "Draht oder Rohre in eine geschwungene Form bringen",
+      "meaning_en": "to bend wire or pipes",
+      "meaning_ar": "يَثْنِي، يَعْقِفُ الأَسْلَاكَ أَوِ الأَنَابِيب",
+      "tenses": {
+        "present": {
+          "ich": "biege",
+          "du": "biegst",
+          "er_sie_es": "biegt",
+          "wir": "biegen",
+          "ihr": "biegt",
+          "sie_Sie": "biegen"
+        },
+        "past_simple": {
+          "ich": "bog",
+          "du": "bogst",
+          "er_sie_es": "bog",
+          "wir": "bogen",
+          "ihr": "bogt",
+          "sie_Sie": "bogen"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gebogen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Akkusativ",
+          "meaning_ar": "يثني إلى شكل مقوس"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Mit einer Rohrbiegezange biegt der Installateur das Kupferrohr vorsichtig.",
+          "en": "With a pipe bender, the plumber bends the copper pipe carefully.",
+          "ar": "يَثْنِي السَّبَّاكُ أُنْبُوبَ النُّحَاسِ بِحَذَرٍ بِاسْتِخْدَامِ كَمَّاشَةِ الثَّنْي."
+        }
+      ]
+    },
+    {
+      "id": "verb_craft_013",
+      "infinitive": "glätten",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "unebene Stellen restlos beseitigen und glatt machen",
+      "meaning_en": "to smooth out",
+      "meaning_ar": "يُسَوِّي، يَجْعَلُهُ مَلْسَاء",
+      "tenses": {
+        "present": {
+          "ich": "glätte",
+          "du": "glättest",
+          "er_sie_es": "glättet",
+          "wir": "glätten",
+          "ihr": "glättet",
+          "sie_Sie": "glätten"
+        },
+        "past_simple": {
+          "ich": "glättete",
+          "du": "glättetest",
+          "er_sie_es": "glättete",
+          "wir": "glätteten",
+          "ihr": "glättetet",
+          "sie_Sie": "glätteten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geglättet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يسوي بأداة التنعيم"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er glättet das Holzbrett sorgfältig vor dem Auftragen des Öls.",
+          "en": "He smooths the wooden board carefully before applying oil.",
+          "ar": "يُسَوِّي اللَّوْحَ الخَشَبِيَّ بِعِنَايَةٍ قَبْلَ دَهْنِهِ بِالزَّيْت."
+        }
+      ]
+    },
+    {
+      "id": "verb_craft_014",
+      "infinitive": "anfertigen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "einen Gegenstand nach Maß von Hand herstellen",
+      "meaning_en": "to manufacture, craft, make",
+      "meaning_ar": "يَصْنَعُ، يَبْتَكِرُ قِطْعَةً حِرَفِيَّة",
+      "tenses": {
+        "present": {
+          "ich": "fertige an",
+          "du": "fertigst an",
+          "er_sie_es": "fertigt an",
+          "wir": "fertigen an",
+          "ihr": "fertigt an",
+          "sie_Sie": "fertigen an"
+        },
+        "past_simple": {
+          "ich": "fertigte an",
+          "du": "fertigtest an",
+          "er_sie_es": "fertigte an",
+          "wir": "fertigten an",
+          "ihr": "fertigtet an",
+          "sie_Sie": "fertigten an"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "angefertigt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "nach",
+          "case": "Dativ",
+          "meaning_ar": "يصنع حسب الطلب أو المقاس"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Schreiner fertigt den Esstisch genau nach den Maßen des Kunden an.",
+          "en": "The carpenter makes the dining table exactly to the customer's measurements.",
+          "ar": "يَصْنَعُ النَّجَّارُ طَاوِلَةَ الطَّعَامِ وِفْقَ مَقَايِيسِ العَمِيلِ بِدِقَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_craft_015",
+      "infinitive": "einspannen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "ein Werkstück fest im Schraubstock fixieren",
+      "meaning_en": "to clamp, fix in vise",
+      "meaning_ar": "يُثَبِّتُ فِي المَلْزَمَة",
+      "tenses": {
+        "present": {
+          "ich": "spanne ein",
+          "du": "spannst ein",
+          "er_sie_es": "spannt ein",
+          "wir": "spannen ein",
+          "ihr": "spannt ein",
+          "sie_Sie": "spannen ein"
+        },
+        "past_simple": {
+          "ich": "spannte ein",
+          "du": "spanntest ein",
+          "er_sie_es": "spannte ein",
+          "wir": "spannten ein",
+          "ihr": "spanntet ein",
+          "sie_Sie": "spannten ein"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "eingespannt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Akkusativ",
+          "meaning_ar": "يثبت داخل الملزمة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Vor dem Feilen spannte der Lehrling das Metallrohr fest in den Schraubstock ein.",
+          "en": "Before filing, the apprentice clamped the metal pipe firmly in the vise.",
+          "ar": "ثَبَّتَ المُتَدَرِّبُ الأُنْبُوبَ المَعْدِنِيَّ بِإِحْكَامٍ فِي المَلْزَمَةِ قَبْلَ بَرْدِه."
+        }
+      ]
+    },
+    {
+      "id": "verb_craft_016",
+      "infinitive": "anreißen",
+      "verb_type": "irregular",
+      "level": "B1",
+      "meaning_de": "mit einer Reißnadel oder einem Bleistift die Schnittlinien auf dem Werkstück anzeichnen",
+      "meaning_en": "to score, mark layout lines",
+      "meaning_ar": "يُخَطِّطُ، يُعَلِّمُ خُطُوطَ القَطْعِ عَلَى الخَشَبِ أَوِ المَعْدِن",
+      "tenses": {
+        "present": {
+          "ich": "reiße an",
+          "du": "reißt an",
+          "er_sie_es": "reißt an",
+          "wir": "reißen an",
+          "ihr": "reißt an",
+          "sie_Sie": "reißen an"
+        },
+        "past_simple": {
+          "ich": "riss an",
+          "du": "rissest an",
+          "er_sie_es": "riss an",
+          "wir": "rissen an",
+          "ihr": "risst an",
+          "sie_Sie": "rissen an"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "angerissen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يعلم بإبرة التخطيط"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Handwerker reißt die Schnittkanten mit dem Winkelmaß präzise an.",
+          "en": "The craftsman accurately marks the cutting edges with the square.",
+          "ar": "يُعَلِّمُ الحِرَفِيُّ خُطُوطَ القَطْعِ بِدِقَّةٍ بَاسْتِخْدَامِ زَاوِيَةِ القِيَاس."
+        }
+      ]
+    },
+    {
+      "id": "verb_craft_017",
+      "infinitive": "zusammensetzen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "mehrere vorbereitete Holzteile zu einem fertigen Ganzen fügen",
+      "meaning_en": "to assemble, put together",
+      "meaning_ar": "يُرَكِّبُ، يُجَمِّعُ القِطَعَ فِي بِنْيَةٍ وَاحِدَة",
+      "tenses": {
+        "present": {
+          "ich": "setze zusammen",
+          "du": "setzt zusammen",
+          "er_sie_es": "setzt zusammen",
+          "wir": "setzen zusammen",
+          "ihr": "setzt zusammen",
+          "sie_Sie": "setzen zusammen"
+        },
+        "past_simple": {
+          "ich": "setzte zusammen",
+          "du": "setztest zusammen",
+          "er_sie_es": "setzte zusammen",
+          "wir": "setzten zusammen",
+          "ihr": "setztet zusammen",
+          "sie_Sie": "setzten zusammen"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "zusammengesetzt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "zu",
+          "case": "Dativ",
+          "meaning_ar": "يجمع إلى هيكل متكامل"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Tischler setzten die Teile des Regals passgenau zusammen.",
+          "en": "The carpenters assembled the shelf parts with a precise fit.",
+          "ar": "رَكَّبَ النَّجَّارُونَ أَجْزَاءَ الرَّفِّ بِتَطَابُقٍ وَإِحْكَامٍ تَامّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_craft_018",
+      "infinitive": "lackieren",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Holz oder Metall mit einem schützenden Lack überziehen",
+      "meaning_en": "to varnish, lacquer",
+      "meaning_ar": "يَطْلِي بِالوَرْنِيشِ الوَاقِي",
+      "tenses": {
+        "present": {
+          "ich": "lackiere",
+          "du": "lackierst",
+          "er_sie_es": "lackiert",
+          "wir": "lackieren",
+          "ihr": "lackiert",
+          "sie_Sie": "lackieren"
+        },
+        "past_simple": {
+          "ich": "lackierte",
+          "du": "lackiertest",
+          "er_sie_es": "lackierte",
+          "wir": "lackierten",
+          "ihr": "lackiertet",
+          "sie_Sie": "lackierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "lackiert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يطلي بورنيش طبيعي"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Zum Abschluss lackiert er die Oberfläche mit umweltfreundlichem Klarlack.",
+          "en": "Finally, he varnishes the surface with eco-friendly clear lacquer.",
+          "ar": "يَطْلِي السَّطْحَ خِتَامًا بِوَرْنِيشٍ شَفَّافٍ صَدِيقٍ لِلْبِيئَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_craft_019",
+      "infinitive": "ausrichten",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "ein Bauteil mit der Wasserwaage waagerecht und senkrecht justieren",
+      "meaning_en": "to align, level up",
+      "meaning_ar": "يَضْبِطُ الِاسْتِقَامَةَ وَالتَّسْوِيَة",
+      "tenses": {
+        "present": {
+          "ich": "richte aus",
+          "du": "richtest aus",
+          "er_sie_es": "richtet aus",
+          "wir": "richten aus",
+          "ihr": "richtet aus",
+          "sie_Sie": "richten aus"
+        },
+        "past_simple": {
+          "ich": "richtete aus",
+          "du": "richtetest aus",
+          "er_sie_es": "richtete aus",
+          "wir": "richteten aus",
+          "ihr": "richtetet aus",
+          "sie_Sie": "richteten aus"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "ausgerichtet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "nach",
+          "case": "Dativ",
+          "meaning_ar": "يضبط حسب ميزان التسوية"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er richtet den Wandschrank mit der Wasserwaage absolut gerade aus.",
+          "en": "He aligns the wall cabinet perfectly straight with the spirit level.",
+          "ar": "يَضْبِطُ اسْتِوَاءَ خِزَانَةِ الجِدَارِ تَمَامًا بِمِيزَانِ المَاء."
+        }
+      ]
+    },
+    {
+      "id": "verb_craft_020",
+      "infinitive": "meißeln",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "mit einem Meißel Vertiefungen oder Zapfenlöcher ins Holz schlagen",
+      "meaning_en": "to chisel, carve joints",
+      "meaning_ar": "يَنْقُرُ، يُفَرِّغُ الخَشَبَ بِالإِزْمِيل",
+      "tenses": {
+        "present": {
+          "ich": "meißele",
+          "du": "meißelst",
+          "er_sie_es": "meißelt",
+          "wir": "meißeln",
+          "ihr": "meißelt",
+          "sie_Sie": "meißeln"
+        },
+        "past_simple": {
+          "ich": "meißelte",
+          "du": "meißeltest",
+          "er_sie_es": "meißelte",
+          "wir": "meißelten",
+          "ihr": "meißeltet",
+          "sie_Sie": "meißelten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gemeißelt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Akkusativ",
+          "meaning_ar": "ينقر في الخشب"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Tischler meißelt eine saubere Zapfenverbindung in den Holzpfosten.",
+          "en": "The carpenter chisels a clean mortise-and-tenon joint into the post.",
+          "ar": "يَنْقُرُ النَّجَّارُ تَعْشِيقَةً خَشَبِيَّةً مُتْقَنَةً فِي العَمُود."
+        }
+      ]
+    }
+  ]
+}

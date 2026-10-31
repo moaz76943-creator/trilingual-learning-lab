@@ -1,0 +1,409 @@
+{
+  "category_id": "sports_fairness_games_a2",
+  "category_name_de": "Körpersport, Spiele & Sportliche Fairness",
+  "category_name_en": "Athletics, Games & Fair Play",
+  "category_name_ar": "الرِّيَاضَةُ البَدَنِيَّةُ وَالأَلْعَابُ وَالأَخْلَاقُ الرِّيَاضِيَّة",
+  "level": "A2+",
+  "items": [
+    {
+      "id": "sport_game_001",
+      "term_de": "der Sport",
+      "plural_de": "-",
+      "term_en": "sports, physical exercise",
+      "term_ar": "الرِّيَاضَةُ البَدَنِيَّة",
+      "pronunciation_de": "[ʃpɔʁt]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Regelmäßiger Sport stärkt den Körper und erfrischt den Geist.",
+          "en": "Regular sport strengthens the body and refreshes the mind.",
+          "ar": "تُقَوِّي الرِّيَاضَةُ المُنْتَظَمَةُ الجَسَدَ وَتُنْعِشُ العَقْل."
+        }
+      ]
+    },
+    {
+      "id": "sport_game_002",
+      "term_de": "das Spiel",
+      "plural_de": "die Spiele",
+      "term_en": "game, match",
+      "term_ar": "اللُّعْبَة، المُبَارَاة",
+      "pronunciation_de": "[ʃpiːl]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das spannende Spiel endete in freundschaftlicher Eintracht.",
+          "en": "The thrilling game ended in friendly harmony.",
+          "ar": "انْتَهَتِ المُبَارَاةُ الحَمَاسِيَّةُ بِرُوحٍ وُدِّيَّةٍ وَتَآلُف."
+        }
+      ]
+    },
+    {
+      "id": "sport_game_003",
+      "term_de": "der Ball",
+      "plural_de": "die Bälle",
+      "term_en": "ball",
+      "term_ar": "الكُرَة",
+      "pronunciation_de": "[bal]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Die Kinder werfen sich den Lederball auf der Wiese geschickt zu.",
+          "en": "The children skillfully throw the leather ball to each other on the meadow.",
+          "ar": "يَتَبَادَلُ الأَطْفَالُ رَمْيَ كُرَةِ الجِلْدِ بِمَهَارَةٍ فِي المَرْج."
+        }
+      ]
+    },
+    {
+      "id": "sport_game_004",
+      "term_de": "das Tor",
+      "plural_de": "die Tore",
+      "term_en": "goal",
+      "term_ar": "المَرْمَى، الهَدَف",
+      "pronunciation_de": "[toːɐ̯]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Der Stürmer schoss den Ball mit Präzision direkt ins Tor.",
+          "en": "The striker kicked the ball with precision right into the goal.",
+          "ar": "سَدَّدَ المِهَاجِمُ الكُرَةَ بِدِقَّةٍ مُبَاشَرَةً فِي المَرْمَى."
+        }
+      ]
+    },
+    {
+      "id": "sport_game_005",
+      "term_de": "die Mannschaft",
+      "plural_de": "die Mannschaften",
+      "term_en": "team",
+      "term_ar": "الفَرِيقُ الرِّيَاضِيّ",
+      "pronunciation_de": "[ˈmanʃaft]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Unsere Schulmannschaft gewann das Turnier durch großartigen Zusammenhalt.",
+          "en": "Our school team won the tournament through great cohesion.",
+          "ar": "فَازَ فَرِيقُ مَدْرَسَتِنَا بِالبُطُولَةِ بِفَضْلِ التَّكَاتُفِ الرَّائِع."
+        }
+      ]
+    },
+    {
+      "id": "sport_game_006",
+      "term_de": "der Mitspieler",
+      "plural_de": "die Mitspieler",
+      "term_en": "teammate, fellow player",
+      "term_ar": "الزَّمِيلُ فِي الفَرِيق",
+      "pronunciation_de": "[ˈmɪtˌʃpiːlɐ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Ein guter Spieler passt den Ball stets selbstlos zum freien Mitspieler ab.",
+          "en": "A good player always passes the ball unselfishly to the open teammate.",
+          "ar": "يُمَرِّرُ اللَّاعِبُ الصَّالِحُ الكُرَةَ بِإِيثَارٍ لِزَمِيلِهِ غَيْرِ المُحَاصَر."
+        }
+      ]
+    },
+    {
+      "id": "sport_game_007",
+      "term_de": "der Schiedsrichter",
+      "plural_de": "die Schiedsrichter",
+      "term_en": "referee, umpire",
+      "term_ar": "الحَكَم، قَاضِي المُبَارَاة",
+      "pronunciation_de": "[ˈʃiːtsˌʁɪçtɐ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der unparteiische Schiedsrichter leitete das Finale mit ruhiger Gerechtigkeit.",
+          "en": "The impartial referee officiated the final with calm justice.",
+          "ar": "أَدَارَ الحَكَمُ النَّزِيهُ المُبَارَاةَ النِّهَائِيَّةَ بِعَدْلٍ وَاتِّزَان."
+        }
+      ]
+    },
+    {
+      "id": "sport_game_008",
+      "term_de": "die Fairness",
+      "plural_de": "-",
+      "term_en": "sportsmanship, fair play",
+      "term_ar": "الرُّوحُ الرِّيَاضِيَّة، الإِنْصَاف",
+      "pronunciation_de": "[ˈfɛːɐ̯nɛs]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Sportliche Fairness steht stets über dem reinen Siegeswillen.",
+          "en": "Fair play always ranks above the mere desire to win.",
+          "ar": "تَعْلُو الرُّوحُ الرِّيَاضِيَّةُ وَالإِنْصَافُ فَوْقَ مُجَرَّدِ الرَّغْبَةِ فِي الفَوْز."
+        }
+      ]
+    },
+    {
+      "id": "sport_game_009",
+      "term_de": "das Spielfeld",
+      "plural_de": "die Spielfelder",
+      "term_en": "playing field, sports pitch",
+      "term_ar": "مَلْعَبُ المُبَارَاة، رُقْعَةُ اللَّعِب",
+      "pronunciation_de": "[ˈʃpiːlˌfɛlt]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das grüne Spielfeld war nach dem Regen in tadellosem Zustand.",
+          "en": "The green playing field was in immaculate condition after the rain.",
+          "ar": "كَانَ المَلْعَبُ الأَخْضَرُ فِي حَالَةٍ مِثَالِيَّةٍ بَعْدَ انْقِشَاعِ المَطَر."
+        }
+      ]
+    },
+    {
+      "id": "sport_game_010",
+      "term_de": "das Training",
+      "plural_de": "die Trainings",
+      "term_en": "workout, training session",
+      "term_ar": "التَّدْرِيبُ الرِّيَاضِيّ، المِرَان",
+      "pronunciation_de": "[ˈtʁɛːnɪŋ]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Konsequentes Training verbessert Schnelligkeit und Bewegungskoordination.",
+          "en": "Consistent training improves speed and movement coordination.",
+          "ar": "يُحَسِّنُ التَّدْرِيبُ المُنْتَظَمُ السُّرْعَةَ وَتَنَاسُقَ حَرَكَاتِ الجَسَد."
+        }
+      ]
+    },
+    {
+      "id": "sport_game_011",
+      "term_de": "der Trainer",
+      "plural_de": "die Trainer",
+      "term_en": "coach, sports instructor",
+      "term_ar": "المُدَرِّب",
+      "pronunciation_de": "[ˈtʁɛːnɐ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der weise Trainer motiviert jeden Einzelnen und stärkt das Team.",
+          "en": "The wise coach motivates every individual and strengthens the team.",
+          "ar": "يُحَفِّزُ المُدَرِّبُ الحَكِيمُ كُلَّ لَاعِبٍ وَيُعَزِّزُ قُوَّةَ الفَرِيق."
+        }
+      ]
+    },
+    {
+      "id": "sport_game_012",
+      "term_de": "der Wettkampf",
+      "plural_de": "die Wettkämpfe",
+      "term_en": "competition, athletic contest",
+      "term_ar": "المُنَافَسَةُ الشَّرِيفَة، السِّبَاق",
+      "pronunciation_de": "[ˈvɛtˌkampf]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der faire Wettkampf brachte die besten sportlichen Leistungen hervor.",
+          "en": "The fair competition brought forth the best athletic performances.",
+          "ar": "أَبْرَزَتِ المُنَافَسَةُ الشَّرِيفَةُ أَرْقَى مُسْتَوَيَاتِ الأَدَاءِ الرِّيَاضِيّ."
+        }
+      ]
+    },
+    {
+      "id": "sport_game_013",
+      "term_de": "der Sieg",
+      "plural_de": "die Siege",
+      "term_en": "victory, triumph",
+      "term_ar": "الفَوْز، الِانْتِصَار",
+      "pronunciation_de": "[ziːk]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Sie feierten den verdienten Sieg in Bescheidenheit und Dankbarkeit.",
+          "en": "They celebrated the deserved victory in modesty and gratitude.",
+          "ar": "احْتَفَلُوا بِالفَوْزِ المُسْتَحَقِّ بِتَوَاضُعٍ وَحَمْدٍ كَبِير."
+        }
+      ]
+    },
+    {
+      "id": "sport_game_014",
+      "term_de": "der Pokal",
+      "plural_de": "die Pokale",
+      "term_en": "trophy, cup",
+      "term_ar": "الكَّأْس، كَأْسُ البُطُولَة",
+      "pronunciation_de": "[poˈkaːl]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der Kapitän nahm den glänzenden Pokal unter großem Beifall entgegen.",
+          "en": "The captain received the shining trophy amidst great applause.",
+          "ar": "تَسَلَّمَ قَائِدُ الفَرِيقِ الكَأْسَ اللَّامِعَةَ وَسْطَ تَصْفِيقٍ حَارّ."
+        }
+      ]
+    },
+    {
+      "id": "sport_game_015",
+      "term_de": "die Medaille",
+      "plural_de": "die Medaillen",
+      "term_en": "medal",
+      "term_ar": "المِيدَالِيَّة",
+      "pronunciation_de": "[meˈdaljə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Jeder Teilnehmer erhielt eine goldene Medaille zur Anerkennung seines Fleißes.",
+          "en": "Every participant received a gold medal in recognition of their diligence.",
+          "ar": "حَصَلَ كُلُّ مُشَارِكٍ عَلَى مِيدَالِيَّةٍ تَقْدِيرًا لِاجْتِهَادِه."
+        }
+      ]
+    },
+    {
+      "id": "sport_game_016",
+      "term_de": "die Ausdauer",
+      "plural_de": "-",
+      "term_en": "stamina, endurance",
+      "term_ar": "قُوَّةُ التَّحَمُّل، المُثَابَرَة",
+      "pronunciation_de": "[ˈaʊ̯sˌdaʊ̯ɐ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Regelmäßiges Laufen steigert die Ausdauer von Lunge und Herz.",
+          "en": "Regular running enhances the endurance of lungs and heart.",
+          "ar": "يَرْفَعُ الجَرْيُ المُنْتَظَمُ قُوَّةَ تَحَمُّلِ الرِّئَتَيْنِ وَالقَلْب."
+        }
+      ]
+    },
+    {
+      "id": "sport_game_017",
+      "term_de": "die Beweglichkeit",
+      "plural_de": "-",
+      "term_en": "flexibility, agility",
+      "term_ar": "المُرُونَةُ الجَسَدِيَّة",
+      "pronunciation_de": "[bəˈveːklɪçkaɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Gezielte Dehnübungen erhalten die Beweglichkeit der Gelenke bis ins hohe Alter.",
+          "en": "Targeted stretching exercises preserve joint flexibility into old age.",
+          "ar": "تُحَافِظُ تَمَارِينُ الإِطَالَةِ عَلَى مُرُونَةِ المَفَاصِلِ حَتَّى مَرَاحِلِ العُمْرِ المُتَقَدِّمَة."
+        }
+      ]
+    },
+    {
+      "id": "sport_game_018",
+      "term_de": "die Turnhalle",
+      "plural_de": "die Turnhallen",
+      "term_en": "gymnasium, indoor sports hall",
+      "term_ar": "الصَّالَةُ الرِّيَاضِيَّةُ المُغَطَّاة",
+      "pronunciation_de": "[ˈtʊʁnˌhalə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Bei Regen findet der Schulsport in der gut ausgestatteten Turnhalle statt.",
+          "en": "In the rain, school sports take place in the well-equipped gymnasium.",
+          "ar": "تُقَامُ حِصَّةُ الرِّيَاضَةِ عِنْدَ المَطَرِ فِي الصَّالَةِ الرِّيَاضِيَّةِ المُجَهَّزَة."
+        }
+      ]
+    },
+    {
+      "id": "sport_game_019",
+      "term_de": "die Sportschuhe",
+      "plural_de": "die Sportschuhe",
+      "term_en": "athletic shoes, sneakers",
+      "term_ar": "الحِذَاءُ الرِّيَاضِيّ",
+      "pronunciation_de": "[ˈʃpɔʁtˌʃuːə]",
+      "gender_de": "plural",
+      "examples": [
+        {
+          "de": "Gute Sportschuhe federn den Schritt ab und schonen die Knie.",
+          "en": "Good athletic shoes cushion the step and protect the knees.",
+          "ar": "تَمْتَصُّ الأَحْذِيَةُ الرِّيَاضِيَّةُ الجَيِّدَةُ الصَّدَمَاتِ وَتَحْمِي الرُّكَب."
+        }
+      ]
+    },
+    {
+      "id": "sport_game_020",
+      "term_de": "das Trikot",
+      "plural_de": "die Trikots",
+      "term_en": "sports jersey, shirt",
+      "term_ar": "القَمِيصُ الرِّيَاضِيّ",
+      "pronunciation_de": "[tʁiˈkoː]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Die Mannschaft trägt weiße Trikots mit der Nummer auf dem Rücken.",
+          "en": "The team wears white jerseys with the number on the back.",
+          "ar": "يَرْتَدِي الفَرِيقُ قُمْصَانًا بَيْضَاءَ تَحْمِلُ الأَرْقَامَ عَلَى الظَّهْر."
+        }
+      ]
+    },
+    {
+      "id": "sport_game_021",
+      "term_de": "der Respekt",
+      "plural_de": "-",
+      "term_en": "respect for opponents",
+      "term_ar": "احْتِرَامُ المُنَافِس، التَّوْقِير",
+      "pronunciation_de": "[ʁeˈspɛkt]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Wahre Sportler reichen sich nach dem Schlusspfiff respektvoll die Hände.",
+          "en": "True athletes respectfully shake hands after the final whistle.",
+          "ar": "يَتَصَافَحُ الرِّيَاضِيُّونَ الأَصِيلُونَ بِاحْتِرَامٍ بَعْدَ صَافِرَةِ النِّهَايَة."
+        }
+      ]
+    },
+    {
+      "id": "sport_game_022",
+      "term_de": "die Fitness",
+      "plural_de": "-",
+      "term_en": "physical fitness",
+      "term_ar": "اللِّيَاقَةُ البَدَنِيَّة",
+      "pronunciation_de": "[ˈfɪtnəs]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Tägliches Spazierengehen reicht oft schon aus für solide Grundfitness.",
+          "en": "Daily walking is often sufficient for solid basic fitness.",
+          "ar": "المَشْيُ اليَوْمِيُّ كَفِيلٌ بِتَحْقِيقِ لِيَاقَةٍ بَدَنِيَّةٍ أَسَاسِيَّةٍ مُمْتَازَة."
+        }
+      ]
+    },
+    {
+      "id": "sport_game_023",
+      "term_de": "die Freude",
+      "plural_de": "-",
+      "term_en": "joy of playing",
+      "term_ar": "مُتْعَةُ اللَّعِبِ النَّزِيه",
+      "pronunciation_de": "[ˈfʁɔɪ̯də]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die reine Freude an der Bewegung steht beim Jugendsport an erster Stelle.",
+          "en": "The pure joy of movement comes first in youth sports.",
+          "ar": "تَأْتِي مُتْعَةُ النَّشَاطِ الحَرَكِيِّ فِي المَقَامِ الأَوَّلِ فِي رِيَاضَةِ النَّاشِئَة."
+        }
+      ]
+    },
+    {
+      "id": "sport_game_024",
+      "term_de": "die Disziplin",
+      "plural_de": "-",
+      "term_en": "athletic discipline",
+      "term_ar": "الانْضِبَاطُ الرِّيَاضِيّ",
+      "pronunciation_de": "[dɪst͡siˈpliːn]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Mit eiserner Disziplin bereitete sich die Schwimmerin auf den Wettbewerb vor.",
+          "en": "With strict discipline, the swimmer prepared for the competition.",
+          "ar": "اسْتَعَدَّتِ السَّبَّاحَةُ لِلْمُنَافَسَةِ بِانْضِبَاطٍ صَارِمٍ وَعَزِيمَة."
+        }
+      ]
+    },
+    {
+      "id": "sport_game_025",
+      "term_de": "der Teamgeist",
+      "plural_de": "-",
+      "term_en": "team spirit",
+      "term_ar": "رُوحُ الفَرِيقِ الوَاحِد",
+      "pronunciation_de": "[ˈtiːmˌɡaɪ̯st]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Ein starker Teamgeist verwandelt elf Einzelspieler in eine unschlagbare Einheit.",
+          "en": "A strong team spirit turns eleven individual players into an unbeatable unit.",
+          "ar": "تُحَوِّلُ رُوحُ الفَرِيقِ الصَّادِقَةُ أَحَدَ عَشَرَ لَاعِبًا إِلَى بُنْيَانٍ وَاحِدٍ مُتَمَاسِك."
+        }
+      ]
+    }
+  ]
+}

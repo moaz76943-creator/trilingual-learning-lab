@@ -1,0 +1,409 @@
+{
+  "category_id": "village_farming_a2",
+  "category_name_de": "Dorfleben, Natur & Landwirtschaft",
+  "category_name_en": "Village Life, Nature & Farming",
+  "category_name_ar": "الحَيَاةُ الرِّيفِيَّةُ وَالزِّرَاعَةُ وَالطَّبِيعَة",
+  "level": "A2+",
+  "items": [
+    {
+      "id": "village_farm_001",
+      "term_de": "das Dorf",
+      "plural_de": "die Dörfer",
+      "term_en": "village",
+      "term_ar": "القَرْيَة",
+      "pronunciation_de": "[dɔʁf]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das idyllische Dorf liegt eingebettet zwischen grünen Hügeln.",
+          "en": "The idyllic village is nestled between green hills.",
+          "ar": "تَقَعُ القَرْيَةُ الجَمِيلَةُ الوَادِعَةُ بَيْنَ التِّلَالِ الخَضْرَاء."
+        }
+      ]
+    },
+    {
+      "id": "village_farm_002",
+      "term_de": "der Bauernhof",
+      "plural_de": "die Bauernhöfe",
+      "term_en": "farm, farmstead",
+      "term_ar": "المَزْرَعَة",
+      "pronunciation_de": "[ˈbaʊ̯ɐnˌhoːf]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Auf dem Bauernhof wachsen gesunde Tomaten und Getreide heran.",
+          "en": "Healthy tomatoes and grain grow on the farm.",
+          "ar": "تَنْمُو الطَّمَاطِمُ الصِّحِّيَّةُ وَالحُبُوبُ فِي المَزْرَعَة."
+        }
+      ]
+    },
+    {
+      "id": "village_farm_003",
+      "term_de": "das Feld",
+      "plural_de": "die Felder",
+      "term_en": "field, farmland",
+      "term_ar": "الحَقْل، المَزْرَع",
+      "pronunciation_de": "[fɛlt]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das weite Weizenfeld wiegt sich sanft im Sommerwind.",
+          "en": "The wide wheat field sways gently in the summer wind.",
+          "ar": "يَتَمَايَلُ حَقْلُ القَمْحِ الوَاسِعُ بِرِقَّةٍ فِي رِيحِ الصَّيْف."
+        }
+      ]
+    },
+    {
+      "id": "village_farm_004",
+      "term_de": "die Weide",
+      "plural_de": "die Weiden",
+      "term_en": "pasture, meadow",
+      "term_ar": "المَرْعَى، الكَلأ",
+      "pronunciation_de": "[ˈvaɪ̯də]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Kühe grasen friedlich auf der saftigen Weide.",
+          "en": "The cows graze peacefully on the lush pasture.",
+          "ar": "تَرْعَى الأَبْقَارُ بِسَلَامٍ فِي المَرْعَى الخَصِيب."
+        }
+      ]
+    },
+    {
+      "id": "village_farm_005",
+      "term_de": "der Stall",
+      "plural_de": "die Ställe",
+      "term_en": "barn, stable",
+      "term_ar": "الحَظِيرَة، الإِسْطَبْل",
+      "pronunciation_de": "[ʃtal]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Am Abend kehren die Tiere sicher in den warmen Stall zurück.",
+          "en": "In the evening, the animals return safely to the warm stable.",
+          "ar": "تَعُودُ الحَيَوَانَاتُ فِي المَسَاءِ بِأَمَانٍ إِلَى الحَظِيرَةِ الدَّافِئَة."
+        }
+      ]
+    },
+    {
+      "id": "village_farm_006",
+      "term_de": "der Traktor",
+      "plural_de": "die Traktoren",
+      "term_en": "tractor",
+      "term_ar": "الجَرَّارُ الزِّرَاعِيّ",
+      "pronunciation_de": "[ˈtʁaktoːɐ̯]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der Landwirt pflügt den Acker mit einem modernen Traktor.",
+          "en": "The farmer plows the farmland with a modern tractor.",
+          "ar": "يَحْرُثُ المَزَارِعُ الأَرْضَ بِجَرَّارٍ زِرَاعِيٍّ حَدِيث."
+        }
+      ]
+    },
+    {
+      "id": "village_farm_007",
+      "term_de": "die Ernte",
+      "plural_de": "die Ernten",
+      "term_en": "harvest, crop",
+      "term_ar": "الحَصَاد، المَحْصُول",
+      "pronunciation_de": "[ˈɛʁntə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Dieses Jahr war die Obsternte besonders reichhaltig.",
+          "en": "This year, the fruit harvest was particularly bountiful.",
+          "ar": "كَانَ حَصَادُ الفَاكِهَةِ هَذَا العَامِ وَفِيرًا لِلْغَايَة."
+        }
+      ]
+    },
+    {
+      "id": "village_farm_008",
+      "term_de": "das Heu",
+      "plural_de": "-",
+      "term_en": "hay",
+      "term_ar": "القَشّ، الكَلَأُ المُجَفَّف، التِّبْن",
+      "pronunciation_de": "[hɔɪ̯]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Frisches Heu duftet herrlich nach Sommer und Blumen.",
+          "en": "Fresh hay smells wonderfully of summer and flowers.",
+          "ar": "يَفُوحُ القَشُّ الطَّازَجُ بِرَائِحَةِ الصَّيْفِ وَالزُّهُورِ الزَّكِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "village_farm_009",
+      "term_de": "das Korn",
+      "plural_de": "die Körner",
+      "term_en": "grain, corn",
+      "term_ar": "الحَبّ، الغِلَال",
+      "pronunciation_de": "[kɔʁn]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Aus dem gemahlenen Korn wird nahrhaftes Brot gebacken.",
+          "en": "Nutritious bread is baked from the ground grain.",
+          "ar": "يُخْبَزُ الخُبْزُ المُغَذِّي مِنَ الحَبِّ المَطْحُون."
+        }
+      ]
+    },
+    {
+      "id": "village_farm_010",
+      "term_de": "die Mühle",
+      "plural_de": "die Mühlen",
+      "term_en": "mill",
+      "term_ar": "الطَّاحُونَة",
+      "pronunciation_de": "[ˈmyːlə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die historische Mühle mahlt das Getreide mit Wasserkraft.",
+          "en": "The historical mill grinds grain using water power.",
+          "ar": "تَطْحَنُ الطَّاحُونَةُ التَّارِيخِيَّةُ الحُبُوبَ بِقُوَّةِ المِيَاه."
+        }
+      ]
+    },
+    {
+      "id": "village_farm_011",
+      "term_de": "der Brunnen",
+      "plural_de": "die Brunnen",
+      "term_en": "well, fountain",
+      "term_ar": "البِئْر، اليَنْبُوع",
+      "pronunciation_de": "[ˈbʁʊnən]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Mitten auf dem Dorfplatz spendet ein alter Brunnen klares Quellwasser.",
+          "en": "In the middle of the village square, an old fountain provides clear spring water.",
+          "ar": "فِي وَسَطِ سَاحَةِ القَرْيَةِ، يَمْنَحُ بِئْرٌ قَدِيمٌ مَاءَ يَنْبُوعٍ صَافِيًا."
+        }
+      ]
+    },
+    {
+      "id": "village_farm_012",
+      "term_de": "der Bauer",
+      "plural_de": "die Bauern",
+      "term_en": "farmer",
+      "term_ar": "المَزَارِع، الفَلَّاح",
+      "pronunciation_de": "[ˈbaʊ̯ɐ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der erfahrene Bauer kennt das Wetter an den Wolkenformen.",
+          "en": "The experienced farmer knows the weather by cloud shapes.",
+          "ar": "يَعْرِفُ الفَلَّاحُ الخَبِيرُ حَالَةَ الطَّقْسِ مِنْ أَشْكَالِ السُّحُب."
+        }
+      ]
+    },
+    {
+      "id": "village_farm_013",
+      "term_de": "die Bäuerin",
+      "plural_de": "die Bäuerinnen",
+      "term_en": "female farmer",
+      "term_ar": "المَزَارِعَة، الفَلَّاحَة",
+      "pronunciation_de": "[ˈbɔɪ̯əʁɪn]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Bäuerin pflegt den Gemüsegarten mit großer Sorgfalt.",
+          "en": "The female farmer tends the vegetable garden with great care.",
+          "ar": "تَرْعَى الفَلَّاحَةُ حَدِيقَةَ الخُضْرَوَاتِ بِعِنَايَةٍ كَبِيرَة."
+        }
+      ]
+    },
+    {
+      "id": "village_farm_014",
+      "term_de": "der Schafhirte",
+      "plural_de": "die Schafhirten",
+      "term_en": "shepherd",
+      "term_ar": "رَاعِي الغَنَم",
+      "pronunciation_de": "[ˈʃaːfˌhɪʁtə]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der Schafhirte führt seine Herde auf die sonnigen Berghänge.",
+          "en": "The shepherd leads his flock to the sunny mountain slopes.",
+          "ar": "يَقُودُ رَاعِي الغَنَمِ قَطِيعَهُ إِلَى سُفُوحِ الجِبَالِ المُشْمِسَة."
+        }
+      ]
+    },
+    {
+      "id": "village_farm_015",
+      "term_de": "das Lamm",
+      "plural_de": "die Lämmer",
+      "term_en": "lamb",
+      "term_ar": "الحَمَل، صَغِيرُ الخَرُوف",
+      "pronunciation_de": "[lam]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das weiße Lamm springt munter über die grüne Wiese.",
+          "en": "The white lamb jumps playfully across the green meadow.",
+          "ar": "يَقْفِزُ الحَمَلُ الأَبْيَضُ بِمَرَحٍ عَبْرَ المَرْجِ الأَخْضَر."
+        }
+      ]
+    },
+    {
+      "id": "village_farm_016",
+      "term_de": "das Kalb",
+      "plural_de": "die Kälber",
+      "term_en": "calf",
+      "term_ar": "العِجْل، صَغِيرُ البَقَرَة",
+      "pronunciation_de": "[kalp]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das neugeborene Kalb trinkt gierig warme Milch.",
+          "en": "The newborn calf drinks warm milk eagerly.",
+          "ar": "يَشْرَبُ العِجْلُ حَدِيثُ الوِلَادَةِ الحَلِيبَ الدَّافِئَ بِلَهْفَة."
+        }
+      ]
+    },
+    {
+      "id": "village_farm_017",
+      "term_de": "das Fohlen",
+      "plural_de": "die Fohlen",
+      "term_en": "foal, colt",
+      "term_ar": "المُهْر، صَغِيرُ الفَرَس",
+      "pronunciation_de": "[ˈfoːlən]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das verspielte Fohlen weicht seiner Mutter nicht von der Seite.",
+          "en": "The playful foal does not leave its mother's side.",
+          "ar": "المُهْرُ المَرِحُ لَا يُفَارِقُ أُمَّهُ أَبَدًا."
+        }
+      ]
+    },
+    {
+      "id": "village_farm_018",
+      "term_de": "der Obstgarten",
+      "plural_de": "die Obstgärten",
+      "term_en": "orchard",
+      "term_ar": "بُسْتَانُ الفَاكِهَة",
+      "pronunciation_de": "[ˈoːpstˌɡaʁtn̩]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Im Obstgarten reifen saftige Äpfel, Birnen und Pflaumen.",
+          "en": "Juicy apples, pears, and plums ripen in the orchard.",
+          "ar": "يَنْضَجُ التُّفَّاحُ وَالكُمَّثْرَى وَالبَرْقُوقُ فِي بُسْتَانِ الفَاكِهَة."
+        }
+      ]
+    },
+    {
+      "id": "village_farm_019",
+      "term_de": "die Scheune",
+      "plural_de": "die Scheunen",
+      "term_en": "barn, granary",
+      "term_ar": "المَخْزَنُ الرِّيفِيّ، الجُرْن",
+      "pronunciation_de": "[ˈʃɔɪ̯nə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "In der geräumigen Scheune lagern Heu und landwirtschaftliche Geräte.",
+          "en": "Hay and agricultural tools are stored in the spacious barn.",
+          "ar": "يُخَزَّنُ القَشُّ وَالأَدَوَاتُ الزِّرَاعِيَّةُ فِي المَخْزَنِ الرِّيفِيِّ الفَسِيح."
+        }
+      ]
+    },
+    {
+      "id": "village_farm_020",
+      "term_de": "der Feldweg",
+      "plural_de": "die Feldwege",
+      "term_en": "farm track, dirt road, field path",
+      "term_ar": "الطَّرِيقُ الزِّرَاعِيّ، الدَّرْبُ الرِّيفِيّ",
+      "pronunciation_de": "[ˈfɛltˌveːk]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Wir spazierten entlang des schmalen Feldwegs bis zum Waldrand.",
+          "en": "We walked along the narrow farm path to the edge of the forest.",
+          "ar": "تَنَزَّهْنَا عَلَى طُولِ الطَّرِيقِ الزِّرَاعِيِّ الضَّيِّقِ حَتَّى طَرَفِ الغَابَة."
+        }
+      ]
+    },
+    {
+      "id": "village_farm_021",
+      "term_de": "die Windmühle",
+      "plural_de": "die Windmühlen",
+      "term_en": "windmill",
+      "term_ar": "طَاحُونَةُ الهَوَاء",
+      "pronunciation_de": "[ˈvɪntˌmyːlə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Flügel der Windmühle drehen sich stetig im frischen Nordwind.",
+          "en": "The windmill sails turn steadily in the fresh north wind.",
+          "ar": "تَدُورُ أَجْنِحَةُ طَاحُونَةِ الهَوَاءِ بِثَبَاتٍ فِي رِيحِ الشَّمَالِ المُنْعِشَة."
+        }
+      ]
+    },
+    {
+      "id": "village_farm_022",
+      "term_de": "der Bach",
+      "plural_de": "die Bäche",
+      "term_en": "stream, brook, creek",
+      "term_ar": "الجَدْوَل، الغَدِير",
+      "pronunciation_de": "[bax]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Ein klarer Bach plätschert leise am Rande des Dorfs vorbei.",
+          "en": "A clear stream babbles quietly past the edge of the village.",
+          "ar": "يَتَرَقْرَقُ جَدْوَلٌ صَافٍ بِهُدُوءٍ عَلَى حَافَةِ القَرْيَة."
+        }
+      ]
+    },
+    {
+      "id": "village_farm_023",
+      "term_de": "die Frische",
+      "plural_de": "-",
+      "term_en": "freshness, pure air",
+      "term_ar": "النَّقَاء، الانْتِعَاش",
+      "pronunciation_de": "[ˈfʁɪʃə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die morgendliche Frische auf dem Land schenkt neue Energie.",
+          "en": "The morning freshness in the countryside gives new energy.",
+          "ar": "انْتِعَاشُ الصَّبَاحِ فِي الرِّيفِ يَمْنَحُ طَاقَةً مُتَجَدِّدَة."
+        }
+      ]
+    },
+    {
+      "id": "village_farm_024",
+      "term_de": "die Erntezeit",
+      "plural_de": "die Erntezeiten",
+      "term_en": "harvest season",
+      "term_ar": "مَوْسِمُ الحَصَاد",
+      "pronunciation_de": "[ˈɛʁntəˌt͡saɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Erntezeit im Herbst vereint alle Bewohner in fleißiger Arbeit.",
+          "en": "Harvest season in autumn unites all residents in diligent work.",
+          "ar": "مَوْسِمُ الحَصَادِ فِي الخَرِيفِ يَجْمَعُ كُلَّ أَهْلِ القَرْيَةِ فِي عَمَلٍ دَؤُوب."
+        }
+      ]
+    },
+    {
+      "id": "village_farm_025",
+      "term_de": "die Fruchtbarkeit",
+      "plural_de": "-",
+      "term_en": "fertility of soil",
+      "term_ar": "خُصُوبَةُ الأَرْض",
+      "pronunciation_de": "[ˈfʁʊxtbaːɐ̯kaɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die natürliche Fruchtbarkeit des Bodens bringt reichlichen Ertrag hervor.",
+          "en": "The natural fertility of the soil produces abundant yield.",
+          "ar": "خُصُوبَةُ الأَرْضِ الطَّبِيعِيَّةُ تُنْتِجُ خَيْرَاتٍ وَغِلَالًا وَفِيرَة."
+        }
+      ]
+    }
+  ]
+}

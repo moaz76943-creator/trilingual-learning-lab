@@ -1,0 +1,409 @@
+{
+  "category_id": "home_garden_flowers_a2",
+  "category_name_de": "Hausgarten, Blumen & Pflanzenpflege",
+  "category_name_en": "Home Garden, Flowers & Plant Care",
+  "category_name_ar": "الحَدِيقَةُ المَنْزِلِيَّةُ وَالأَزْهَارُ وَرِعَايَةُ النَّبَاتَات",
+  "level": "A2+",
+  "items": [
+    {
+      "id": "garden_flower_001",
+      "term_de": "der Garten",
+      "plural_de": "die Gärten",
+      "term_en": "garden",
+      "term_ar": "الحَدِيقَة، الرَّوْضَة",
+      "pronunciation_de": "[ˈɡaʁtn̩]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Unser grüner Garten ist eine friedliche Oase der Ruhe und Erholung.",
+          "en": "Our green garden is a peaceful oasis of rest and relaxation.",
+          "ar": "حَدِيقَتُنَا الخَضْرَاءُ وَاحَةٌ هَادِئَةٌ لِلرَّاحَةِ وَالِاسْتِجْمَام."
+        }
+      ]
+    },
+    {
+      "id": "garden_flower_002",
+      "term_de": "das Blumenbeet",
+      "plural_de": "die Blumenbeete",
+      "term_en": "flowerbed",
+      "term_ar": "حَوْضُ الأَزْهَار",
+      "pronunciation_de": "[ˈbluːmənˌbeːt]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Im bunten Blumenbeet blühen duftende Rosen und weiße Tulpen.",
+          "en": "In the colorful flowerbed, fragrant roses and white tulips blossom.",
+          "ar": "تُزْهِرُ فِي حَوْضِ الأَزْهَارِ المُلَوَّنِ وُرُودٌ عَطِرَةٌ وَأَزْهَارُ تُولِيبٍ بَيْضَاء."
+        }
+      ]
+    },
+    {
+      "id": "garden_flower_003",
+      "term_de": "die Rose",
+      "plural_de": "die Rosen",
+      "term_en": "rose",
+      "term_ar": "الوَرْدَةُ الجُورِيَّة",
+      "pronunciation_de": "[ˈʁoːzə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die rote Rose verströmt einen betörenden Duft im Sommermorgen.",
+          "en": "The red rose emits an enchanting fragrance on the summer morning.",
+          "ar": "تَفُوحُ الوَرْدَةُ الحَمْرَاءُ بِأَرِيجٍ زَكِيٍّ فِي صَبَاحِ الصَّيْف."
+        }
+      ]
+    },
+    {
+      "id": "garden_flower_004",
+      "term_de": "die Tulpe",
+      "plural_de": "die Tulpen",
+      "term_en": "tulip",
+      "term_ar": "زَهْرَةُ التُّولِيب",
+      "pronunciation_de": "[ˈtʊlpə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Im Frühling recken die bunten Tulpen ihre Köpfe zur Sonne empor.",
+          "en": "In spring, the colorful tulips raise their heads toward the sun.",
+          "ar": "تَرْفَعُ أَزْهَارُ التُّولِيبِ المُلَوَّنَةُ رُؤُوسَهَا نَحْوَ الشَّمْسِ فِي الرَّبِيع."
+        }
+      ]
+    },
+    {
+      "id": "garden_flower_005",
+      "term_de": "der Jasmin",
+      "plural_de": "-",
+      "term_en": "jasmine",
+      "term_ar": "اليَاسَمِين",
+      "pronunciation_de": "[jasˈmiːn]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Weißer Jasmin klettert an der Gartenmauer empor und erfüllt den Abend mit Wohlgeruch.",
+          "en": "White jasmine climbs up the garden wall and fills the evening with fragrance.",
+          "ar": "يَتَسَلَّقُ اليَاسَمِينُ الأَبْيَضُ جِدَارَ الحَدِيقَةِ وَيَمْلَأُ المَسَاءَ عِطْرًا."
+        }
+      ]
+    },
+    {
+      "id": "garden_flower_006",
+      "term_de": "der Lavendel",
+      "plural_de": "-",
+      "term_en": "lavender",
+      "term_ar": "الخُزَامَى، اللَّافِنْدَر",
+      "pronunciation_de": "[laˈvɛndl̩]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Lila Lavendel lockt Bienen an und beruhigt die Sinne mit sanftem Duft.",
+          "en": "Purple lavender attracts bees and calms the senses with gentle scent.",
+          "ar": "يَجْذِبُ اللَّافِنْدَرُ البَنَفْسَجِيُّ النَّحْلَ وَيُهَدِّئُ الحَوَاسَّ بِعِطْرِهِ اللَّطِيف."
+        }
+      ]
+    },
+    {
+      "id": "garden_flower_007",
+      "term_de": "die Sonnenblume",
+      "plural_de": "die Sonnenblumen",
+      "term_en": "sunflower",
+      "term_ar": "دُوَّارُ الشَّمْس",
+      "pronunciation_de": "[ˈzɔnənˌbluːmə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die hohe Sonnenblume wendet ihre gelbe Blüte stets dem Licht zu.",
+          "en": "The tall sunflower always turns its yellow bloom toward the light.",
+          "ar": "تُدِيرُ زَهْرَةُ دُوَّارِ الشَّمْسِ العَالِيَةُ قُرْصَهَا الأَصْفَرَ دَوْمًا نَحْوَ الضَّوْء."
+        }
+      ]
+    },
+    {
+      "id": "garden_flower_008",
+      "term_de": "die Gießkanne",
+      "plural_de": "die Gießkannen",
+      "term_en": "watering can",
+      "term_ar": "مِرَشَّةُ الحَدِيقَة، إِبْرِيقُ السَّقْي",
+      "pronunciation_de": "[ˈɡiːsˌkanə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Mit der grünen Gießkanne versorgt das Kind die Setzlinge mit Wasser.",
+          "en": "With the green watering can, the child provides the seedlings with water.",
+          "ar": "يَسْقِي الطِّفْلُ الشَّتَلَاتِ بِالمَاءِ بِاسْتِخْدَامِ المِرَشَّةِ الخَضْرَاء."
+        }
+      ]
+    },
+    {
+      "id": "garden_flower_009",
+      "term_de": "die Gartenschere",
+      "plural_de": "die Gartenscheren",
+      "term_en": "pruning shears, secateurs",
+      "term_ar": "مِقَصُّ الحَدِيقَةِ وَالشُّجَيْرَات",
+      "pronunciation_de": "[ˈɡaʁtn̩ˌʃeːʁə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Mit einer scharfen Gartenschere schneidet sie welke Rosenzweige ab.",
+          "en": "With sharp pruning shears, she cuts off withered rose branches.",
+          "ar": "تَقُصُّ أَغْصَانَ الوَرْدِ الذَّابِلَةَ بِمِقَصِّ الحَدِيقَةِ الحَادّ."
+        }
+      ]
+    },
+    {
+      "id": "garden_flower_010",
+      "term_de": "die Schaufel",
+      "plural_de": "die Schaufeln",
+      "term_en": "hand trowel, small shovel",
+      "term_ar": "المِجْرَفَةُ الصَّغِيرَة",
+      "pronunciation_de": "[ˈʃaʊ̯fl̩]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Er hebt mit der Schaufel ein kleines Pflanzloch für den Busch aus.",
+          "en": "He digs a small planting hole for the bush with the trowel.",
+          "ar": "يَحْفِرُ حُفْرَةَ غَرْسٍ صَغِيرَةً لِلشُّجَيْرَةِ بَاسْتِخْدَامِ المِجْرَفَة."
+        }
+      ]
+    },
+    {
+      "id": "garden_flower_011",
+      "term_de": "die Blumenerde",
+      "plural_de": "-",
+      "term_en": "potting soil, compost",
+      "term_ar": "تُرْبَةُ الزِّرَاعَةِ الخَصِيبَة",
+      "pronunciation_de": "[ˈbluːmənˌʔeːɐ̯də]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Nährstoffreiche Blumenerde lässt junge Pflanzen prächtig gedeihen.",
+          "en": "Nutrient-rich potting soil lets young plants thrive splendidly.",
+          "ar": "تَجْعَلُ تُرْبَةُ الأَزْهَارِ الغَنِيَّةُ بِالعَنَاصِرِ النَّبَاتَاتِ الفَتِيَّةَ تَنْمُو بِبَهَاء."
+        }
+      ]
+    },
+    {
+      "id": "garden_flower_012",
+      "term_de": "der Blumentopf",
+      "plural_de": "die Blumentöpfe",
+      "term_en": "flowerpot, planter",
+      "term_ar": "أَصِيصُ الزُّهُور",
+      "pronunciation_de": "[ˈbluːmənˌtɔp͡f]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Auf der sonnigen Fensterbank steht ein Tonblumentopf mit Basilikum.",
+          "en": "On the sunny windowsill stands a clay flowerpot with basil.",
+          "ar": "يَسْتَقِرُّ أَصِيصُ فَخَّارٍ بِهِ رَيْحَانٌ عَلَى حَافَةِ النَّافِذَةِ المُشْمِسَة."
+        }
+      ]
+    },
+    {
+      "id": "garden_flower_013",
+      "term_de": "der Samen",
+      "plural_de": "die Samen",
+      "term_en": "seed",
+      "term_ar": "البَذْرَة، الحَبَّة",
+      "pronunciation_de": "[ˈzaːmən]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Aus einem winzigen Samen wächst mit Geduld eine stattliche Pflanze.",
+          "en": "From a tiny seed, a stately plant grows with patience.",
+          "ar": "تَنْمُو مِنَ البَذْرَةِ الضَّئِيلَةِ نَبْتَةٌ بَاسِقَةٌ بِالصَّبْرِ وَالرِّعَايَة."
+        }
+      ]
+    },
+    {
+      "id": "garden_flower_014",
+      "term_de": "die Knospe",
+      "plural_de": "die Knospen",
+      "term_en": "bud",
+      "term_ar": "البُرْعُم",
+      "pronunciation_de": "[ˈknɔspə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die geschlossene Knospe öffnet sich langsam im ersten Morgenlicht.",
+          "en": "The closed bud slowly opens in the first morning light.",
+          "ar": "يَتَفَتَّحُ البُرْعُمُ المُغْلَقُ بِبُطْءٍ فِي نُورِ الصَّبَاحِ البَاكِر."
+        }
+      ]
+    },
+    {
+      "id": "garden_flower_015",
+      "term_de": "das Blütenblatt",
+      "plural_de": "die Blütenblätter",
+      "term_en": "petal",
+      "term_ar": "بَتَلَةُ الزَّهْرَة",
+      "pronunciation_de": "[ˈblyːtn̩ˌblat]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Zarte rosa Blütenblätter fielen sanft wie Schnee auf den Rasen.",
+          "en": "Delicate pink petals fell gently like snow onto the lawn.",
+          "ar": "تَسَاقَطَتْ بَتَلَاتُ الزَّهْرِ الوَرْدِيَّةُ الرَّقِيقَةُ كَالثَّلْجِ عَلَى المَرْج."
+        }
+      ]
+    },
+    {
+      "id": "garden_flower_016",
+      "term_de": "der Duft",
+      "plural_de": "die Düfte",
+      "term_en": "fragrance, scent",
+      "term_ar": "الأَرِيج، العِطْرُ الزَّكِيّ",
+      "pronunciation_de": "[dʊft]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der liebliche Duft von Minze und Orangenblüten erfreut das Gemüt.",
+          "en": "The lovely scent of mint and orange blossoms delights the soul.",
+          "ar": "يَسُرُّ أَرِيجُ النَّعْنَاعِ وَزَهْرِ البُرْتُقَالِ الطَّيِّبُ النَّفْسَ وَالخَاطِر."
+        }
+      ]
+    },
+    {
+      "id": "garden_flower_017",
+      "term_de": "der Rasen",
+      "plural_de": "-",
+      "term_en": "lawn, turf",
+      "term_ar": "المُسَطَّحُ الأَخْضَر، الكَلأ",
+      "pronunciation_de": "[ˈʁaːzn̩]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Taufrischer Rasen glänzt morgens im goldenen Sonnenschein.",
+          "en": "Dew-fresh lawn gleams in the morning in the golden sunshine.",
+          "ar": "يَتَلَأْلَأُ العُشْبُ الأَخْضَرُ المُنَدَّى صَبَاحًا تَحْتَ ضَوْءِ الشَّمْسِ الذَّهَبِيّ."
+        }
+      ]
+    },
+    {
+      "id": "garden_flower_018",
+      "term_de": "der Rasenmäher",
+      "plural_de": "die Rasenmäher",
+      "term_en": "lawn mower",
+      "term_ar": "جَزَّازَةُ العُشْب",
+      "pronunciation_de": "[ˈʁaːzn̩ˌmɛːɐ̯]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Er kürzt das Gras des Gartens gleichmäßig mit dem Rasenmäher.",
+          "en": "He trims the garden grass evenly with the lawn mower.",
+          "ar": "يُقَلِّمُ عُشْبَ الحَدِيقَةِ بِانْتِظَامٍ بَاسْتِخْدَامِ جَزَّازَةِ العُشْب."
+        }
+      ]
+    },
+    {
+      "id": "garden_flower_019",
+      "term_de": "die Hecke",
+      "plural_de": "die Hecken",
+      "term_en": "hedge",
+      "term_ar": "سِيَاجُ الشُّجَيْرَاتِ الحَيّ",
+      "pronunciation_de": "[ˈhɛkə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Eine dichte grüne Hecke bietet Vögeln Schutz und Nistplätze.",
+          "en": "A dense green hedge provides birds with shelter and nesting sites.",
+          "ar": "يُوَفِّرُ سِيَاجُ الشُّجَيْرَاتِ الخَضْرَاءُ الكَثِيفُ مَأْوًى وَأَمَانًا لِلطُّيُور."
+        }
+      ]
+    },
+    {
+      "id": "garden_flower_020",
+      "term_de": "der Gartenzaun",
+      "plural_de": "die Gartenzäune",
+      "term_en": "garden fence",
+      "term_ar": "سِيَاجُ الحَدِيقَة",
+      "pronunciation_de": "[ˈɡaʁtn̩ˌt͡saʊ̯n]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Ein hölzerner Gartenzaun grenzt das Blumenparadies freundlich ab.",
+          "en": "A wooden garden fence friendly bounds the floral paradise.",
+          "ar": "يُحِيطُ سِيَاجُ الحَدِيقَةِ الخَشَبِيُّ بِبُسْتَانِ الأَزْهَارِ بِمَنْظَرٍ جَمِيل."
+        }
+      ]
+    },
+    {
+      "id": "garden_flower_021",
+      "term_de": "die Laube",
+      "plural_de": "die Lauben",
+      "term_en": "garden bower, arbor",
+      "term_ar": "العَرِيشَة، المِظَلَّةُ الخَضْرَاء",
+      "pronunciation_de": "[ˈlaʊ̯bə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Unter der schattigen Laube trinken die Großeltern nachmittags Tee.",
+          "en": "Under the shaded arbor, the grandparents drink tea in the afternoon.",
+          "ar": "يَشْرَبُ الجَدَّانِ الشَّايَ بَعْدَ الظُّهْرِ تَحْتَ العَرِيشَةِ الظَّلِيلَة."
+        }
+      ]
+    },
+    {
+      "id": "garden_flower_022",
+      "term_de": "das Gewächshaus",
+      "plural_de": "die Gewächshäuser",
+      "term_en": "greenhouse",
+      "term_ar": "الدَّفِيئَةُ الزِّرَاعِيَّة، البَيْتُ الزُّجَاجِيّ",
+      "pronunciation_de": "[ɡəˈvɛksˌhaʊ̯s]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Im gläsernen Gewächshaus reifen Tomaten und Gurken geschützt heran.",
+          "en": "In the glass greenhouse, tomatoes and cucumbers ripen protected.",
+          "ar": "تَنْضَجُ الطَّمَاطِمُ وَالخِيَارُ فِي الدَّفِيئَةِ الزُّجَاجِيَّةِ فِي حِمَايَةٍ مِنَ البَرْد."
+        }
+      ]
+    },
+    {
+      "id": "garden_flower_023",
+      "term_de": "die Biene",
+      "plural_de": "die Bienen",
+      "term_en": "bee",
+      "term_ar": "النَّحْلَة",
+      "pronunciation_de": "[ˈbiːnə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Fleißige Bienen sammeln Nektar und bestäuben die bunten Blüten.",
+          "en": "Diligent bees collect nectar and pollinate the colorful flowers.",
+          "ar": "يَجْمَعُ النَّحْلُ الدَّؤُوبُ الرَّحِيقَ وَيُلَقِّحُ الأَزْهَارَ المُلَوَّنَة."
+        }
+      ]
+    },
+    {
+      "id": "garden_flower_024",
+      "term_de": "der Schmetterling",
+      "plural_de": "die Schmetterlinge",
+      "term_en": "butterfly",
+      "term_ar": "الفَرَاشَة",
+      "pronunciation_de": "[ˈʃmɛtɐlɪŋ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Ein bunter Schmetterling tanzt leicht von einer Blüte zur nächsten.",
+          "en": "A colorful butterfly dances lightly from one flower to the next.",
+          "ar": "تَرْقُصُ الفَرَاشَةُ الزَّاهِيَةُ بِلُطْفٍ مِنْ زَهْرَةٍ إِلَى أُخْرَى."
+        }
+      ]
+    },
+    {
+      "id": "garden_flower_025",
+      "term_de": "die Blütenpracht",
+      "plural_de": "-",
+      "term_en": "floral splendor, bloom abundance",
+      "term_ar": "بَهَاءُ الأَزْهَار، رَوْنَقُ الرِّيَاض",
+      "pronunciation_de": "[ˈblyːtn̩ˌpʁaxt]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die überwältigende Blütenpracht im Mai zeugt von der Schönheit des Frühlings.",
+          "en": "The stunning floral splendor in May testifies to the beauty of spring.",
+          "ar": "يَشْهَدُ بَهَاءُ الأَزْهَارِ الآخِذُ فِي أَيَّار عَلَى حُسْنِ فَصْلِ الرَّبِيع."
+        }
+      ]
+    }
+  ]
+}

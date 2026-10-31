@@ -1,0 +1,909 @@
+{
+  "category_id": "a2_environment_sustainability_verbs",
+  "category_name_de": "Umweltschutz-, Nachhaltigkeits- und Ressourcenverben",
+  "category_name_en": "Environmental, Sustainability & Conservation Verbs",
+  "category_name_ar": "أفعال البيئة والاستدامة وحماية الطبيعة",
+  "level": "A2/B1",
+  "verbs": [
+    {
+      "id": "verb_env_001",
+      "infinitive": "schützen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "die Natur und Ressourcen vor Schaden und Zerstörung bewahren",
+      "meaning_en": "to protect, preserve, guard",
+      "meaning_ar": "يَحْمِي، يَصُونُ الطَّبِيعَة",
+      "tenses": {
+        "present": {
+          "ich": "schütze",
+          "du": "schützt",
+          "er_sie_es": "schützt",
+          "wir": "schützen",
+          "ihr": "schützt",
+          "sie_Sie": "schützen"
+        },
+        "past_simple": {
+          "ich": "schützte",
+          "du": "schütztest",
+          "er_sie_es": "schützte",
+          "wir": "schützten",
+          "ihr": "schütztet",
+          "sie_Sie": "schützten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geschützt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "vor",
+          "case": "Dativ",
+          "meaning_ar": "يحمي من"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wir schützen unsere Wälder vor Verschmutzung und Abholzung.",
+          "en": "We protect our forests from pollution and deforestation.",
+          "ar": "نَحْمِي غَابَاتِنَا مِنَ التَّلَوُّثِ وَالقَطْعِ الجَائِر."
+        }
+      ]
+    },
+    {
+      "id": "verb_env_002",
+      "infinitive": "sparen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "Wasser und Energie vernünftig und zurückhaltend verbrauchen",
+      "meaning_en": "to save, conserve resources",
+      "meaning_ar": "يُوَفِّرُ، يَرْشُدُ فِي الِاسْتِهْلَاك",
+      "tenses": {
+        "present": {
+          "ich": "spare",
+          "du": "sparst",
+          "er_sie_es": "spart",
+          "wir": "sparen",
+          "ihr": "spart",
+          "sie_Sie": "sparen"
+        },
+        "past_simple": {
+          "ich": "sparte",
+          "du": "spartest",
+          "er_sie_es": "sparte",
+          "wir": "sparten",
+          "ihr": "spartet",
+          "sie_Sie": "sparten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gespart"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "bei",
+          "case": "Dativ",
+          "meaning_ar": "يوفر في"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wer beim Zähneputzen den Wasserhahn zudreht, spart wertvolles Trinkwasser.",
+          "en": "Whoever turns off the tap while brushing teeth saves precious drinking water.",
+          "ar": "مَنْ يُغْلِقْ صُنْبُورَ المَاءِ أَثْنَاءَ تَنْظِيفِ الأَسْنَانِ يُوَفِّرْ مَاءَ شُرْبٍ ثَمِينًا."
+        }
+      ]
+    },
+    {
+      "id": "verb_env_003",
+      "infinitive": "recyceln",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Altstoffe aufbereiten und wieder nutzbar machen",
+      "meaning_en": "to recycle",
+      "meaning_ar": "يُعِيدُ تَدْوِيرَ المَوَادّ",
+      "tenses": {
+        "present": {
+          "ich": "recycle",
+          "du": "recycelst",
+          "er_sie_es": "recycelt",
+          "wir": "recyceln",
+          "ihr": "recycelt",
+          "sie_Sie": "recyceln"
+        },
+        "past_simple": {
+          "ich": "recycelte",
+          "du": "recyceltest",
+          "er_sie_es": "recycelte",
+          "wir": "recycelten",
+          "ihr": "recyceltet",
+          "sie_Sie": "recycelten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "recycelt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "zu",
+          "case": "Dativ",
+          "meaning_ar": "يعيد تدوير إلى"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die moderne Anlage recycelt Altglas zu neuen Flaschen.",
+          "en": "The modern facility recycles used glass into new bottles.",
+          "ar": "تُعِيدُ المُنْشَأَةُ الحَدِيثَةُ تَدْوِيرَ الزُّجَاجِ المُسْتَعْمَلِ إِلَى قَوَارِيرَ جَدِيدَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_env_004",
+      "infinitive": "trennen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "Abfälle nach Materialien in verschiedene Behälter sortieren",
+      "meaning_en": "to sort, separate waste",
+      "meaning_ar": "يَفْرِزُ النِّفَايَاتِ حَسَبَ نَوْعِهَا",
+      "tenses": {
+        "present": {
+          "ich": "trenne",
+          "du": "trennst",
+          "er_sie_es": "trennt",
+          "wir": "trennen",
+          "ihr": "trennt",
+          "sie_Sie": "trennen"
+        },
+        "past_simple": {
+          "ich": "trennte",
+          "du": "trenntest",
+          "er_sie_es": "trennte",
+          "wir": "trennten",
+          "ihr": "trenntet",
+          "sie_Sie": "trennten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "getrennt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "nach",
+          "case": "Dativ",
+          "meaning_ar": "يفرز وفق"
+        }
+      ],
+      "examples": [
+        {
+          "de": "In unserer Stadt trennen die Bürger ihren Hausmüll gewissenhaft.",
+          "en": "In our city, citizens separate their household waste conscientiously.",
+          "ar": "يَفْرِزُ المُواطِنُونَ فِي مَدِينَتِنَا نِفَايَاتِهِمُ المَنْزِلِيَّةَ بِضَمِيرٍ حَيّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_env_005",
+      "infinitive": "pflanzen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "Bäume oder Sträucher in die Erde setzen, damit sie wachsen",
+      "meaning_en": "to plant",
+      "meaning_ar": "يَغْرِسُ، يَزْرَعُ الشَّجَرَ",
+      "tenses": {
+        "present": {
+          "ich": "pflanze",
+          "du": "pflanzt",
+          "er_sie_es": "pflanzt",
+          "wir": "pflanzen",
+          "ihr": "pflanzt",
+          "sie_Sie": "pflanzen"
+        },
+        "past_simple": {
+          "ich": "pflanzte",
+          "du": "pflanztest",
+          "er_sie_es": "pflanzte",
+          "wir": "pflanzten",
+          "ihr": "pflanztet",
+          "sie_Sie": "pflanzten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gepflanzt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Akkusativ",
+          "meaning_ar": "يغرس في"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Schüler pflanzen junge Eichen im Gemeindewald.",
+          "en": "The pupils plant young oak trees in the community forest.",
+          "ar": "يَغْرِسُ التَّلَامِيذُ أَشْجَارَ بَلُّوطٍ فَتِيَّةً فِي غَابَةِ البَلْدَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_env_006",
+      "infinitive": "reinigen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Flüsse, Luft oder Parks von Schmutz und Plastik befreien",
+      "meaning_en": "to clean, purify",
+      "meaning_ar": "يُنَقِّي، يُطَهِّرُ البِيئَة",
+      "tenses": {
+        "present": {
+          "ich": "reinige",
+          "du": "reinigst",
+          "er_sie_es": "reinigt",
+          "wir": "reinigen",
+          "ihr": "reinigt",
+          "sie_Sie": "reinigen"
+        },
+        "past_simple": {
+          "ich": "reinigte",
+          "du": "reinigtest",
+          "er_sie_es": "reinigte",
+          "wir": "reinigten",
+          "ihr": "reinigtet",
+          "sie_Sie": "reinigten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gereinigt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "von",
+          "case": "Dativ",
+          "meaning_ar": "ينقي من"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Freiwillige Helfer reinigen das Flussufer jeden Frühling.",
+          "en": "Volunteer helpers clean the riverbank every spring.",
+          "ar": "يُنَظِّفُ المُتَطَوِّعُونَ ضَفَّةَ النَّهْرِ كُلَّ رَبِيع."
+        }
+      ]
+    },
+    {
+      "id": "verb_env_007",
+      "infinitive": "vermeiden",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "unnötigen Müll und Plastikverpackungen gar nicht erst entstehen lassen",
+      "meaning_en": "to avoid, prevent waste",
+      "meaning_ar": "يَتَجَنَّبُ الهَدْرَ وَالتَّلْوِيث",
+      "tenses": {
+        "present": {
+          "ich": "vermeide",
+          "du": "vermeidest",
+          "er_sie_es": "vermeidet",
+          "wir": "vermeiden",
+          "ihr": "vermeidet",
+          "sie_Sie": "vermeiden"
+        },
+        "past_simple": {
+          "ich": "vermied",
+          "du": "vermiedest",
+          "er_sie_es": "vermied",
+          "wir": "vermieden",
+          "ihr": "vermietet",
+          "sie_Sie": "vermieden"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "vermieden"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "durch",
+          "case": "Akkusativ",
+          "meaning_ar": "يتجنب بواسطة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Durch den Kauf unverpackter Ware vermeiden wir Plastikmüll.",
+          "en": "By buying unpackaged goods, we avoid plastic waste.",
+          "ar": "نَتَجَنَّبُ نِفَايَاتِ البِلَاسْتِيكِ بِشِرَاءِ المُنْتَجَاتِ غَيْرِ المُغَلَّفَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_env_008",
+      "infinitive": "bewahren",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "die Schönheit und Unversehrtheit der Natur aufrechterhalten",
+      "meaning_en": "to preserve, safeguard",
+      "meaning_ar": "يَصُونُ، يُحَافِظُ عَلَى سَلَامَةِ الشَّيْء",
+      "tenses": {
+        "present": {
+          "ich": "bewahre",
+          "du": "bewahrst",
+          "er_sie_es": "bewahrt",
+          "wir": "bewahren",
+          "ihr": "bewahrt",
+          "sie_Sie": "bewahren"
+        },
+        "past_simple": {
+          "ich": "bewahrte",
+          "du": "bewahrtest",
+          "er_sie_es": "bewahrte",
+          "wir": "bewahrten",
+          "ihr": "bewahrtet",
+          "sie_Sie": "bewahrten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "bewahrt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "für",
+          "case": "Akkusativ",
+          "meaning_ar": "يحفظ لـ"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wir bewahren die Schöpfung für unsere Kinder und Enkel.",
+          "en": "We preserve creation for our children and grandchildren.",
+          "ar": "نَصُونُ بَدِيعَ الخَلْقِ لِأَبْنَائِنَا وَأَحْفَادِنَا."
+        }
+      ]
+    },
+    {
+      "id": "verb_env_009",
+      "infinitive": "nutzen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "erneuerbare Energien sinnvoll zum Wohl der Gesellschaft einsetzen",
+      "meaning_en": "to utilize, harness clean energy",
+      "meaning_ar": "يَسْتَفِيدُ مِنَ الطَّاقَةِ النَّظِيفَة",
+      "tenses": {
+        "present": {
+          "ich": "nutze",
+          "du": "nutzt",
+          "er_sie_es": "nutzt",
+          "wir": "nutzen",
+          "ihr": "nutzt",
+          "sie_Sie": "nutzen"
+        },
+        "past_simple": {
+          "ich": "nutzte",
+          "du": "nutztest",
+          "er_sie_es": "nutzte",
+          "wir": "nutzten",
+          "ihr": "nutztet",
+          "sie_Sie": "nutzten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "genutzt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "für",
+          "case": "Akkusativ",
+          "meaning_ar": "يستغل لـ"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Immer mehr Haushalte nutzen Sonnenenergie für warmes Wasser.",
+          "en": "More and more households utilize solar energy for warm water.",
+          "ar": "تَسْتَفِيدُ أُسَرٌ مُتَزَايِدَةٌ مِنَ الطَّاقَةِ الشَّمْسِيَّةِ لِتَسْخِينِ المِيَاه."
+        }
+      ]
+    },
+    {
+      "id": "verb_env_010",
+      "infinitive": "erzeugen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Strom durch Windkraft oder Sonnenlicht emissionsfrei hervorbringen",
+      "meaning_en": "to generate, produce clean power",
+      "meaning_ar": "يُوَلِّدُ طَاقَةً كَهْرَبَائِيَّةً نَظِيفَة",
+      "tenses": {
+        "present": {
+          "ich": "erzeuge",
+          "du": "erzeugst",
+          "er_sie_es": "erzeugt",
+          "wir": "erzeugen",
+          "ihr": "erzeugt",
+          "sie_Sie": "erzeugen"
+        },
+        "past_simple": {
+          "ich": "erzeugte",
+          "du": "erzeugtest",
+          "er_sie_es": "erzeugte",
+          "wir": "erzeugten",
+          "ihr": "erzeugtet",
+          "sie_Sie": "erzeugten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "erzeugt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "aus",
+          "case": "Dativ",
+          "meaning_ar": "يولد من"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Windräder erzeugen sauberen Strom aus der Kraft der Brise.",
+          "en": "The wind turbines generate clean electricity from the power of the breeze.",
+          "ar": "تُوَلِّدُ طَوَاحِينُ الهَوَاءِ كَهْرَبَاءَ نَظِيفَةً مِنْ قُوَّةِ النَّسِيم."
+        }
+      ]
+    },
+    {
+      "id": "verb_env_011",
+      "infinitive": "verringern",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "den Ausstoß von Schadstoffen und den Verbrauch senken",
+      "meaning_en": "to reduce, diminish emissions",
+      "meaning_ar": "يُقَلِّلُ، يَحُدُّ مِنَ الِانْبِعَاثَات",
+      "tenses": {
+        "present": {
+          "ich": "verringere",
+          "du": "verringerst",
+          "er_sie_es": "verringert",
+          "wir": "verringern",
+          "ihr": "verringert",
+          "sie_Sie": "verringern"
+        },
+        "past_simple": {
+          "ich": "verringerte",
+          "du": "verringertest",
+          "er_sie_es": "verringerte",
+          "wir": "verringerten",
+          "ihr": "verringertet",
+          "sie_Sie": "verringerten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "verringert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "um",
+          "case": "Akkusativ",
+          "meaning_ar": "يقلل بمقدار"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Fahrradfahren verringert den Ausstoß von Abgasen in der Innenstadt.",
+          "en": "Cycling reduces the emission of exhaust fumes downtown.",
+          "ar": "رُكُوبُ الدَّرَّاجَةِ يُقَلِّلُ انْبِعَاثَ العَوَادِمِ فِي وَسَطِ المَدِينَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_env_012",
+      "infinitive": "wiederverwenden",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "einen Gegenstand mehrfach benutzen statt ihn wegzuwerfen",
+      "meaning_en": "to reuse, repurpose",
+      "meaning_ar": "يُعِيدُ اسْتِخْدَامَ الشَّيْء",
+      "tenses": {
+        "present": {
+          "ich": "verwende wieder",
+          "du": "verwendest wieder",
+          "er_sie_es": "verwendet wieder",
+          "wir": "verwenden wieder",
+          "ihr": "verwendet wieder",
+          "sie_Sie": "verwenden wieder"
+        },
+        "past_simple": {
+          "ich": "verwendete wieder",
+          "du": "verwendetest wieder",
+          "er_sie_es": "verwendete wieder",
+          "wir": "verwendeten wieder",
+          "ihr": "verwendetet wieder",
+          "sie_Sie": "verwendeten wieder"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "wiederverwendet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "als",
+          "case": "Akkusativ",
+          "meaning_ar": "يعيد استخدام كـ"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er verwendet saubere Schraubgläser wieder zur Aufbewahrung von Gewürzen.",
+          "en": "He reuses clean screw-top jars for storing spices.",
+          "ar": "يُعِيدُ اسْتِخْدَامَ المَرَاطِبَانِ الزُّجَاجِيَّةِ النَّظِيفَةِ لِحِفْظِ التَّوَابِل."
+        }
+      ]
+    },
+    {
+      "id": "verb_env_013",
+      "infinitive": "säubern",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Naturlandschaften von weggeworfenen Dingen befreien",
+      "meaning_en": "to clean up, pick up litter",
+      "meaning_ar": "يُنَظِّفُ، يَكْنُسُ الشَّوَائِب",
+      "tenses": {
+        "present": {
+          "ich": "säubere",
+          "du": "säuberst",
+          "er_sie_es": "säubert",
+          "wir": "säubern",
+          "ihr": "säubert",
+          "sie_Sie": "säubern"
+        },
+        "past_simple": {
+          "ich": "säuberte",
+          "du": "säubertest",
+          "er_sie_es": "säuberte",
+          "wir": "säuberten",
+          "ihr": "säubertet",
+          "sie_Sie": "säuberten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gesäubert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "von",
+          "case": "Dativ",
+          "meaning_ar": "ينظف من"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Gemeinsam säuberten die Nachbarn den Spielplatz von Laub und Zweigen.",
+          "en": "Together, the neighbors cleaned the playground of leaves and twigs.",
+          "ar": "نَظَّفَ الجِيرَانُ مَعًا مَلْعَبَ الأَطْفَالِ مِنْ أَوْرَاقِ الشَّجَرِ وَالأَغْصَان."
+        }
+      ]
+    },
+    {
+      "id": "verb_env_014",
+      "infinitive": "schonen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "rücksichtsvoll und behutsam mit der Natur umgehen",
+      "meaning_en": "to conserve, treat gently",
+      "meaning_ar": "يَرْفُقُ بِالطَّبِيعَةِ، يَرْعَاهَا",
+      "tenses": {
+        "present": {
+          "ich": "schone",
+          "du": "schonst",
+          "er_sie_es": "schont",
+          "wir": "schonen",
+          "ihr": "schont",
+          "sie_Sie": "schonen"
+        },
+        "past_simple": {
+          "ich": "schonte",
+          "du": "schontest",
+          "er_sie_es": "schonte",
+          "wir": "schonten",
+          "ihr": "schontet",
+          "sie_Sie": "schonten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geschont"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "durch",
+          "case": "Akkusativ",
+          "meaning_ar": "يرفق من خلال"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Energieeffiziente Geräte schonen die Umwelt und den Geldbeutel.",
+          "en": "Energy-efficient appliances conserve the environment and the wallet.",
+          "ar": "الأَجْهِزَةُ المُوَفِّرَةُ لِلطَّاقَةِ تَرْفُقُ بِالبِيئَةِ وَتُوَفِّرُ المَالَ."
+        }
+      ]
+    },
+    {
+      "id": "verb_env_015",
+      "infinitive": "umwandeln",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "eine Energieform technisch in eine andere umformen",
+      "meaning_en": "to convert, transform energy",
+      "meaning_ar": "يُحَوِّلُ الطَّاقَة",
+      "tenses": {
+        "present": {
+          "ich": "wandle um",
+          "du": "wandelst um",
+          "er_sie_es": "wandelt um",
+          "wir": "wandeln um",
+          "ihr": "wandelt um",
+          "sie_Sie": "wandeln um"
+        },
+        "past_simple": {
+          "ich": "wandelte um",
+          "du": "wandeltest um",
+          "er_sie_es": "wandelte um",
+          "wir": "wandelten um",
+          "ihr": "wandeltet um",
+          "sie_Sie": "wandelten um"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "umgewandelt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Akkusativ",
+          "meaning_ar": "يحول إلى"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Solarzellen wandeln das Licht der Sonne direkt in elektrischen Strom um.",
+          "en": "Solar cells convert the light of the sun directly into electrical current.",
+          "ar": "تُحَوِّلُ الخَلَايَا الشَّمْسِيَّةُ ضَوْءَ الشَّمْسِ مُبَاشَرَةً إِلَى تَيَّارٍ كَهْرَبَائِيّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_env_016",
+      "infinitive": "aufforsten",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "kahle Flächen planmäßig wieder mit Bäumen bepflanzen",
+      "meaning_en": "to reforest, plant woodland",
+      "meaning_ar": "يُعِيدُ التَّشْجِير، يَغْرِسُ الغَابَات",
+      "tenses": {
+        "present": {
+          "ich": "forste auf",
+          "du": "forstest auf",
+          "er_sie_es": "forstet auf",
+          "wir": "forsten auf",
+          "ihr": "forstet auf",
+          "sie_Sie": "forsten auf"
+        },
+        "past_simple": {
+          "ich": "forstete auf",
+          "du": "forstetest auf",
+          "er_sie_es": "forstete auf",
+          "wir": "forsteten auf",
+          "ihr": "forstetet auf",
+          "sie_Sie": "forsteten auf"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "aufgeforstet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يعيد تشجير بـ"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Förster forsten den Hang mit robusten Mischbäumen auf.",
+          "en": "The foresters reforest the hillside with sturdy mixed trees.",
+          "ar": "يُعِيدُ رِجَالُ الغَابَاتِ تَشْجِيرَ المُنْحَدَرِ بِأَشْجَارٍ مُتَنَوِّعَةٍ مَتِينَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_env_017",
+      "infinitive": "drosseln",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "den Ausstoß oder Verbrauch gezielt herabsetzen",
+      "meaning_en": "to curb, throttle, curtail",
+      "meaning_ar": "يَكْبَحُ، يُخَفِّضُ مُعَدَّلَ الِاسْتِهْلَاك",
+      "tenses": {
+        "present": {
+          "ich": "drossle",
+          "du": "drosselst",
+          "er_sie_es": "drosselt",
+          "wir": "drosseln",
+          "ihr": "drosselt",
+          "sie_Sie": "drosseln"
+        },
+        "past_simple": {
+          "ich": "drosselte",
+          "du": "drosseltest",
+          "er_sie_es": "drosselte",
+          "wir": "drosselten",
+          "ihr": "drosseltet",
+          "sie_Sie": "drosselten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gedrosselt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Akkusativ",
+          "meaning_ar": "يخفض إلى"
+        }
+      ],
+      "examples": [
+        {
+          "de": "In der Nacht drosselt die Heizungsanlage automatisch die Raumtemperatur.",
+          "en": "At night, the heating system automatically curbs the room temperature.",
+          "ar": "تَخْفِضُ مَنْظُومَةُ التَّدْفِئَةِ لَيْلًا دَرَجَةَ حَرَارَةِ الغُرَفِ تِلْقَائِيًّا."
+        }
+      ]
+    },
+    {
+      "id": "verb_env_018",
+      "infinitive": "fließen",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "sich als klares Wasser natürlich fortbewegen",
+      "meaning_en": "to flow",
+      "meaning_ar": "يَتَدَفَّقُ، يَجْرِي المَاءُ العَذْب",
+      "tenses": {
+        "present": {
+          "ich": "fließe",
+          "du": "fließt",
+          "er_sie_es": "fließt",
+          "wir": "fließen",
+          "ihr": "fließt",
+          "sie_Sie": "fließen"
+        },
+        "past_simple": {
+          "ich": "floss",
+          "du": "flossest",
+          "er_sie_es": "floss",
+          "wir": "flossen",
+          "ihr": "flosst",
+          "sie_Sie": "flossen"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "geflossen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "durch",
+          "case": "Akkusativ",
+          "meaning_ar": "يجري عبر"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Klares Quellwasser fließt unaufhörlich durch das grüne Bergtal.",
+          "en": "Clear spring water flows continuously through the green mountain valley.",
+          "ar": "يَجْرِي مَاءُ اليَنْبُوعِ الصَّافِي دُونَ انْقِطَاعٍ عَبْرَ وَادِي الجَبَلِ الأَخْضَر."
+        }
+      ]
+    },
+    {
+      "id": "verb_env_019",
+      "infinitive": "erneuern",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Technik modernisieren oder Ressourcen wiederaufbauen",
+      "meaning_en": "to renew, modernize",
+      "meaning_ar": "يُجَدِّدُ، يَسْتَحْدِثُ",
+      "tenses": {
+        "present": {
+          "ich": "erneuere",
+          "du": "erneuerst",
+          "er_sie_es": "erneuert",
+          "wir": "erneuern",
+          "ihr": "erneuert",
+          "sie_Sie": "erneuern"
+        },
+        "past_simple": {
+          "ich": "erneuerte",
+          "du": "erneuertest",
+          "er_sie_es": "erneuerte",
+          "wir": "erneuerten",
+          "ihr": "erneuertet",
+          "sie_Sie": "erneuerten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "erneuert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "durch",
+          "case": "Akkusativ",
+          "meaning_ar": "يجدد بواسطة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Stadtwerke erneuern das Rohrnetz, um Wasserverluste zu stoppen.",
+          "en": "The municipal utilities renew the pipe network to stop water losses.",
+          "ar": "تُجَدِّدُ شَرِكَةُ المِيَاهِ شَبَكَةَ الأَنَابِيبِ لِوَقْفِ هَدْرِ المِيَاه."
+        }
+      ]
+    },
+    {
+      "id": "verb_env_020",
+      "infinitive": "gedeihen",
+      "verb_type": "irregular",
+      "level": "B1",
+      "meaning_de": "in gesunder Umwelt prächtig wachsen und Früchte tragen",
+      "meaning_en": "to thrive, flourish",
+      "meaning_ar": "يَزْدَهِرُ، يَنْمُو فِي بِيئَةٍ طَيِّبَة",
+      "tenses": {
+        "present": {
+          "ich": "gedeihe",
+          "du": "gedeihst",
+          "er_sie_es": "gedeiht",
+          "wir": "gedeihen",
+          "ihr": "gedeiht",
+          "sie_Sie": "gedeihen"
+        },
+        "past_simple": {
+          "ich": "gedieh",
+          "du": "gediehst",
+          "er_sie_es": "gedieh",
+          "wir": "gediehen",
+          "ihr": "gedieht",
+          "sie_Sie": "gediehen"
+        },
+        "perfect": {
+          "auxiliary": "sein",
+          "participle_ii": "gediehen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يزدهر في"
+        }
+      ],
+      "examples": [
+        {
+          "de": "In sauberem Boden und reinem Wasser gedeihen Pflanzen wunderbar.",
+          "en": "In clean soil and pure water, plants thrive wonderfully.",
+          "ar": "تَزْدَهِرُ النَّبَاتَاتُ بِشَكْلٍ بَدِيعٍ فِي التُّرْبَةِ النَّظِيفَةِ وَالمَاءِ النَّقِيّ."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,409 @@
+{
+  "category_id": "hospitality_dining_a2",
+  "category_name_de": "Gastronomie, Gastfreundschaft & Tischkultur",
+  "category_name_en": "Hospitality, Dining & Table Culture",
+  "category_name_ar": "المَطَاعِمُ وَكَرَمُ الضِّيَافَةِ وَآدَابُ المَائِدَة",
+  "level": "A2+",
+  "items": [
+    {
+      "id": "dining_hosp_001",
+      "term_de": "das Restaurant",
+      "plural_de": "die Restaurants",
+      "term_en": "restaurant",
+      "term_ar": "المَطْعَم",
+      "pronunciation_de": "[ʁɛstoˈʁãː]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das familiengeführte Restaurant serviert traditionelle und gesunde Gerichte.",
+          "en": "The family-run restaurant serves traditional and healthy dishes.",
+          "ar": "يُقَدِّمُ المَطْعَمُ العَائِلِيُّ أَطْبَاقًا تَقْلِيدِيَّةً وَصِحِّيَّة."
+        }
+      ]
+    },
+    {
+      "id": "dining_hosp_002",
+      "term_de": "die Gastfreundschaft",
+      "plural_de": "-",
+      "term_en": "hospitality, welcoming warmth",
+      "term_ar": "كَرَمُ الضِّيَافَة، حُسْنُ الوِفَادَة",
+      "pronunciation_de": "[ˈɡastˌfʁɔɪ̯ntʃaft]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die herzliche Gastfreundschaft der Gastgeber berührte alle Besucher.",
+          "en": "The warm hospitality of the hosts touched all visitors.",
+          "ar": "تَرَكَ كَرَمُ الضِّيَافَةِ الصَّادِقُ مِنْ أَهْلِ البَيْتِ أَثَرًا طَيِّبًا فِي جَمِيعِ الزَّائِرِينَ."
+        }
+      ]
+    },
+    {
+      "id": "dining_hosp_003",
+      "term_de": "der Kellner",
+      "plural_de": "die Kellner",
+      "term_en": "waiter",
+      "term_ar": "النَّادِل، قَيِّمُ الخِدْمَة",
+      "pronunciation_de": "[ˈkɛlnɐ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der aufmerksame Kellner empfahl das frische Tagesgericht.",
+          "en": "The attentive waiter recommended the fresh dish of the day.",
+          "ar": "أَوْصَى النَّادِلُ النَّبِيهُ بِطَبَقِ اليَوْمِ الطَّازَج."
+        }
+      ]
+    },
+    {
+      "id": "dining_hosp_004",
+      "term_de": "die Kellnerin",
+      "plural_de": "die Kellnerinnen",
+      "term_en": "waitress",
+      "term_ar": "النَّادِلَة",
+      "pronunciation_de": "[ˈkɛlnəʁɪn]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die freundliche Kellnerin brachte die Getränke ohne lange Wartezeit.",
+          "en": "The friendly waitress brought the drinks without long waiting.",
+          "ar": "أَحْضَرَتِ النَّادِلَةُ اللَّطِيفَةُ المَشْرُوبَاتِ دُونَ انْتِظَارٍ طَوِيل."
+        }
+      ]
+    },
+    {
+      "id": "dining_hosp_005",
+      "term_de": "die Speisekarte",
+      "plural_de": "die Speisekarten",
+      "term_en": "menu",
+      "term_ar": "قَائِمَةُ الطَّعَام",
+      "pronunciation_de": "[ˈʃpaɪ̯zəˌkaʁtə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Speisekarte enthält eine reiche Auswahl an vegetarischen Speisen.",
+          "en": "The menu contains a rich selection of vegetarian dishes.",
+          "ar": "تَحْتَوِي قَائِمَةُ الطَّعَامِ عَلَى تَشْكِيلَةٍ وَافِرَةٍ مِنَ الأَطْبَاقِ النَّبَاتِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "dining_hosp_006",
+      "term_de": "die Reservierung",
+      "plural_de": "die Reservierungen",
+      "term_en": "reservation, booking",
+      "term_ar": "الحَجْزُ المُسْبَقُ لِلطَّاوِلَة",
+      "pronunciation_de": "[ʁezeʁˈviːʁʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Wir haben für heute Abend eine Reservierung für vier Personen.",
+          "en": "We have a reservation for four people for this evening.",
+          "ar": "لَدَيْنَا حَجْزٌ لِمَسَاءِ اليَوْمِ لِأَرْبَعَةِ أَشْخَاص."
+        }
+      ]
+    },
+    {
+      "id": "dining_hosp_007",
+      "term_de": "die Vorspeise",
+      "plural_de": "die Vorspeisen",
+      "term_en": "appetizer, starter",
+      "term_ar": "المُقَبِّلَات، الطَّبَقُ التَّمْهِيدِيّ",
+      "pronunciation_de": "[ˈfoːɐ̯ˌʃpaɪ̯zə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Als Vorspeise wählten wir eine dampfende Linsensuppe.",
+          "en": "As an appetizer, we chose a steaming lentil soup.",
+          "ar": "اخْتَرْنَا حَسَاءَ العَدَسِ السَّاخِنَ كَمُقَبِّلَاتٍ لِلطَّعَام."
+        }
+      ]
+    },
+    {
+      "id": "dining_hosp_008",
+      "term_de": "das Hauptgericht",
+      "plural_de": "die Hauptgerichte",
+      "term_en": "main course, entree",
+      "term_ar": "الطَّبَقُ الرَّئِيسِيّ",
+      "pronunciation_de": "[ˈhaʊ̯ptɡəˌʁɪçt]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das Hauptgericht bestand aus gegrilltem Fisch mit frischem Gemüse.",
+          "en": "The main course consisted of grilled fish with fresh vegetables.",
+          "ar": "تَكَوَّنَ الطَّبَقُ الرَّئِيسِيُّ مِنْ سَمَكٍ مَشْوِيٍّ مَعَ خُضْرَوَاتٍ طَازَجَة."
+        }
+      ]
+    },
+    {
+      "id": "dining_hosp_009",
+      "term_de": "der Nachtisch",
+      "plural_de": "die Nachtische",
+      "term_en": "dessert",
+      "term_ar": "الحَلْوَى بَعْدَ الطَّعَام، التَّحْلِيَة",
+      "pronunciation_de": "[ˈnaːxˌtɪʃ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Zum Nachtisch gab es frischen Obstsalat mit süßen Datteln.",
+          "en": "For dessert, there was a fresh fruit salad with sweet dates.",
+          "ar": "قُدِّمَتْ كَتَحْلِيَةٍ سَلَطَةُ فَوَاكِهَ طَازَجَةٌ مَعَ تَمْرٍ حُلْو."
+        }
+      ]
+    },
+    {
+      "id": "dining_hosp_010",
+      "term_de": "das Trinkgeld",
+      "plural_de": "die Trinkgelder",
+      "term_en": "tip, gratuity",
+      "term_ar": "الإِكْرَامِيَّة، البَقْشِيش",
+      "pronunciation_de": "[ˈtʁɪŋkˌɡɛlt]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Für den hervorragenden Service gaben wir ein großzügiges Trinkgeld.",
+          "en": "For the outstanding service, we gave a generous tip.",
+          "ar": "أَعْطَيْنَا إِكْرَامِيَّةً سَخِيَّةً تَقْدِيرًا لِلْخِدْمَةِ المُمَيَّزَة."
+        }
+      ]
+    },
+    {
+      "id": "dining_hosp_011",
+      "term_de": "die Rechnung",
+      "plural_de": "die Rechnungen",
+      "term_en": "bill, check",
+      "term_ar": "فَاتُورَةُ الحِسَاب",
+      "pronunciation_de": "[ˈʁɛçnʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Wir baten höflich um die Rechnung und zahlten kontaktlos.",
+          "en": "We politely asked for the bill and paid contactlessly.",
+          "ar": "طَلَبْنَا الحِسَابَ بِأَدَبٍ وَدَفَعْنَا عَبْرَ البِطَاقَةِ اللَّاتَلَامُسِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "dining_hosp_012",
+      "term_de": "der Gast",
+      "plural_de": "die Gäste",
+      "term_en": "guest, diner",
+      "term_ar": "الضَّيْف، الزَّبُون",
+      "pronunciation_de": "[ɡast]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Jeder Gast wird mit Respekt und herzlicher Höflichkeit empfangen.",
+          "en": "Every guest is received with respect and warm politeness.",
+          "ar": "يُسْتَقْبَلُ كُلُّ ضَيْفٍ بِاحْتِرَامٍ وَحَفَاوَةٍ بَالِغَة."
+        }
+      ]
+    },
+    {
+      "id": "dining_hosp_013",
+      "term_de": "das Besteck",
+      "plural_de": "die Bestecke",
+      "term_en": "cutlery, silverware",
+      "term_ar": "أَدَوَاتُ المَائِدَة (المِلْعَقَةُ وَالشَّوْكَةُ وَالسِّكِّين)",
+      "pronunciation_de": "[bəˈʃtɛk]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das glänzende Besteck liegt ordentlich neben dem Teller.",
+          "en": "The shining cutlery lies neatly beside the plate.",
+          "ar": "أَدَوَاتُ المَائِدَةِ اللَّامِعَةُ مُرَتَّبَةٌ بِعِنَايَةٍ بِجِوَارِ الصَّحْن."
+        }
+      ]
+    },
+    {
+      "id": "dining_hosp_014",
+      "term_de": "die Serviette",
+      "plural_de": "die Servietten",
+      "term_en": "napkin",
+      "term_ar": "مِنْدِيلُ المَائِدَة",
+      "pronunciation_de": "[zɛʁˈvi̯ɛtə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Er legte die weiße Stoffserviette vor dem Essen auf den Schoß.",
+          "en": "He placed the white cloth napkin on his lap before eating.",
+          "ar": "وَضَعَ مِنْدِيلَ المَائِدَةِ القُمَاشِيَّ الأَبْيَضَ عَلَى حِجْرِهِ قَبْلَ تَنَاوُلِ الطَّعَام."
+        }
+      ]
+    },
+    {
+      "id": "dining_hosp_015",
+      "term_de": "das Tischtuch",
+      "plural_de": "die Tischtücher",
+      "term_en": "tablecloth",
+      "term_ar": "مَفْرَشُ الطَّاوِلَة",
+      "pronunciation_de": "[ˈtɪʃˌtuːx]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das saubere Tischtuch verleiht dem Speisesaal eine festliche Note.",
+          "en": "The clean tablecloth gives the dining room a festive touch.",
+          "ar": "يَمْنَحُ مَفْرَشُ الطَّاوِلَةِ النَّظِيفُ قَاعَةَ الطَّعَامِ طَابَعًا أَنِيقًا."
+        }
+      ]
+    },
+    {
+      "id": "dining_hosp_016",
+      "term_de": "der Geschmack",
+      "plural_de": "-",
+      "term_en": "taste, flavor",
+      "term_ar": "المَذَاق، الطَّعْم",
+      "pronunciation_de": "[ɡəˈʃmak]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Die frischen Kräuter verleihen der Soße einen vorzüglichen Geschmack.",
+          "en": "Fresh herbs give the sauce an exquisite flavor.",
+          "ar": "تَمْنَحُ الأَعْشَابُ الطَّازَجَةُ الصَّلْصَةَ مَذَاقًا رَائِعًا."
+        }
+      ]
+    },
+    {
+      "id": "dining_hosp_017",
+      "term_de": "das Aroma",
+      "plural_de": "die Aromen",
+      "term_en": "aroma, fragrance",
+      "term_ar": "الرَّائِحَةُ الزَّكِيَّةُ لِلطَّعَام",
+      "pronunciation_de": "[aˈʁoːma]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Das herrliche Aroma von frisch gebackenem Brot erfüllte die Küche.",
+          "en": "The wonderful aroma of freshly baked bread filled the kitchen.",
+          "ar": "مَلَأَتِ الرَّائِحَةُ الزَّكِيَّةُ لِلْخُبْزِ الطَّازَجِ أَرْجَاءَ المَطْبَخ."
+        }
+      ]
+    },
+    {
+      "id": "dining_hosp_018",
+      "term_de": "der Appetit",
+      "plural_de": "-",
+      "term_en": "appetite",
+      "term_ar": "الشَّهِيَّةُ لِتَنَاوُلِ الطَّعَام",
+      "pronunciation_de": "[apeˈtiːt]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Ein langer Spaziergang an der frischen Luft regt den Appetit an.",
+          "en": "A long walk in the fresh air stimulates the appetite.",
+          "ar": "المَشْيُ الطَّوِيلُ فِي الهَوَاءِ الطَّلْقِ يَفْتَحُ الشَّهِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "dining_hosp_019",
+      "term_de": "die Spezialität",
+      "plural_de": "die Spezialitäten",
+      "term_en": "specialty dish",
+      "term_ar": "الوَجْبَةُ الخَاصَّةُ المُمَيَّزَة",
+      "pronunciation_de": "[ʃpet͡sialiˈtɛːt]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Gefüllte Weinblätter sind eine berühmte Spezialität der mediterranen Küche.",
+          "en": "Stuffed grape leaves are a famous specialty of Mediterranean cuisine.",
+          "ar": "وَرَقُ العِنَبِ المَحْشُوُّ وَجْبَةٌ مُمَيَّزَةٌ شَهِيرَةٌ فِي مَطْبَخِ البَحْرِ الأَبْيَضِ المُتَوَسِّط."
+        }
+      ]
+    },
+    {
+      "id": "dining_hosp_020",
+      "term_de": "das Gewürz",
+      "plural_de": "die Gewürze",
+      "term_en": "spice, seasoning",
+      "term_ar": "التَّابِل، البَهَار",
+      "pronunciation_de": "[ɡəˈvʏʁt͡s]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Kardamom und Kreuzkümmel sind aromatische Gewürze für traditionelle Eintöpfe.",
+          "en": "Cardamom and cumin are aromatic spices for traditional stews.",
+          "ar": "الهَيْلُ وَالكَمُّونُ تَوَابِلُ عَطِرَةٌ تُضْفِي نَكْهَةً عَلَى الأَطْبَاقِ التَّقْلِيدِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "dining_hosp_021",
+      "term_de": "der Feinschmecker",
+      "plural_de": "die Feinschmecker",
+      "term_en": "gourmet, connoisseur of food",
+      "term_ar": "مُتَذَوِّقُ الطَّعَامِ الرَّفِيع",
+      "pronunciation_de": "[ˈfaɪ̯nˌʃmɛkɐ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Selbst anspruchsvolle Feinschmecker lobten die Frische der Zutaten.",
+          "en": "Even demanding gourmets praised the freshness of the ingredients.",
+          "ar": "أَثْنَى حَتَّى خُبَرَاءُ التَّذَوُّقِ عَلَى نَضَارَةِ المُكَوِّنَاتِ الطَّازَجَة."
+        }
+      ]
+    },
+    {
+      "id": "dining_hosp_022",
+      "term_de": "die Portion",
+      "plural_de": "die Portionen",
+      "term_en": "portion, serving",
+      "term_ar": "حِصَّةُ الطَّعَام، المِقْدَار",
+      "pronunciation_de": "[pɔʁˈt͡si̯oːn]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Das Gericht bietet eine großzügige und sättigende Portion.",
+          "en": "The dish offers a generous and satisfying portion.",
+          "ar": "يُوَفِّرُ هَذَا الطَّبَقُ حِصَّةً وَافِرَةً وَمُشْبِعَة."
+        }
+      ]
+    },
+    {
+      "id": "dining_hosp_023",
+      "term_de": "die Zufriedenheit",
+      "plural_de": "-",
+      "term_en": "satisfaction, contentment",
+      "term_ar": "الرِّضَا، الِارْتِيَاح",
+      "pronunciation_de": "[t͡suˈfʁiːdn̩haɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Das Lächeln der Gäste zeigte ihre volle Zufriedenheit mit dem Mahl.",
+          "en": "The guests' smiles showed their full satisfaction with the meal.",
+          "ar": "أَظْهَرَتِ ابْتِسَامَةُ الضُّيُوفِ رِضَاهُمُ التَّامَّ عَنِ الوَجْبَةِ الهَنِيئَة."
+        }
+      ]
+    },
+    {
+      "id": "dining_hosp_024",
+      "term_de": "die Bewirtung",
+      "plural_de": "-",
+      "term_en": "hosting, catering, hospitality service",
+      "term_ar": "الإِطْعَام، حُسْنُ القِرَى",
+      "pronunciation_de": "[bəˈvɪʁtʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die vorbildliche Bewirtung machte die Feier zu einem unvergesslichen Erlebnis.",
+          "en": "The exemplary catering made the celebration an unforgettable experience.",
+          "ar": "جَعَلَ الإِطْعَامُ الكَرِيمُ المُتْقَنُ مِنَ الِاحْتِفَالِ ذِكْرَى لَا تُنْسَى."
+        }
+      ]
+    },
+    {
+      "id": "dining_hosp_025",
+      "term_de": "das Mahl",
+      "plural_de": "die Mahle",
+      "term_en": "meal, feast",
+      "term_ar": "المَأْدُبَة، الوَجْبَةُ الهَنِيئَة",
+      "pronunciation_de": "[maːl]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Nach dem gesegneten Mahl dankten alle dem Schöpfer für die Gaben.",
+          "en": "After the blessed meal, everyone thanked the Creator for the bounties.",
+          "ar": "بَعْدَ تَنَاوُلِ المَأْدُبَةِ المُبَارَكَةِ شَكَرَ الجَمِيعُ الخَالِقَ عَلَى النِّعَم."
+        }
+      ]
+    }
+  ]
+}

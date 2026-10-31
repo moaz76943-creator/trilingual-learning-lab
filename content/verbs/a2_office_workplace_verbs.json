@@ -1,0 +1,909 @@
+{
+  "category_id": "a2_office_workplace_verbs",
+  "category_name_de": "Büro-, Organisations- und Arbeitsverben",
+  "category_name_en": "Office, Organization & Workplace Verbs",
+  "category_name_ar": "أفعال العمل المكتبي والتنظيم والمهام الإدارية",
+  "level": "A2/B1",
+  "verbs": [
+    {
+      "id": "verb_office_001",
+      "infinitive": "arbeiten",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "beruflich tätig sein und Aufgaben pflichtbewusst erfüllen",
+      "meaning_en": "to work diligently",
+      "meaning_ar": "يَعْمَلُ بِجِدٍّ وَإِخْلَاص",
+      "tenses": {
+        "present": {
+          "ich": "arbeite",
+          "du": "arbeitest",
+          "er_sie_es": "arbeitet",
+          "wir": "arbeiten",
+          "ihr": "arbeitet",
+          "sie_Sie": "arbeiten"
+        },
+        "past_simple": {
+          "ich": "arbeitete",
+          "du": "arbeitetest",
+          "er_sie_es": "arbeitete",
+          "wir": "arbeiteten",
+          "ihr": "arbeitetet",
+          "sie_Sie": "arbeiteten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gearbeitet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Dativ",
+          "meaning_ar": "يعمل على مشروع"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Das gesamte Team arbeitet konzentriert an dem neuen Konzept.",
+          "en": "The whole team works concentratedly on the new concept.",
+          "ar": "يَعْمَلُ الفَرِيقُ بِأَكْمَلِهِ بِتَرْكِيزٍ عَلَى الخُطَّةِ الجَدِيدَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_office_002",
+      "infinitive": "besprechen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "eine Angelegenheit im Team ausführlich und sachlich erörtern",
+      "meaning_en": "to discuss in a meeting",
+      "meaning_ar": "يُنَاقِشُ، يَتَدَاوَلُ فِي اجْتِمَاع",
+      "tenses": {
+        "present": {
+          "ich": "bespreche",
+          "du": "besprichst",
+          "er_sie_es": "bespricht",
+          "wir": "besprechen",
+          "ihr": "besprecht",
+          "sie_Sie": "besprechen"
+        },
+        "past_simple": {
+          "ich": "besprach",
+          "du": "besprachst",
+          "er_sie_es": "besprach",
+          "wir": "besprachen",
+          "ihr": "bespracht",
+          "sie_Sie": "besprachen"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "besprochen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يناقش مع الزملاء"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wir besprechen die nächsten Schritte morgen im Konferenzraum.",
+          "en": "We will discuss the next steps tomorrow in the conference room.",
+          "ar": "سَنُنَاقِشُ الخُطُوَاتِ القَادِمَةَ غَدًا فِي قَاعَةِ الِاجْتِمَاعَات."
+        }
+      ]
+    },
+    {
+      "id": "verb_office_003",
+      "infinitive": "planen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "einen Ablauf oder ein Vorhaben im Voraus methodisch festlegen",
+      "meaning_en": "to plan, schedule",
+      "meaning_ar": "يُخَطِّطُ، يُعِدُّ الخُطَّة",
+      "tenses": {
+        "present": {
+          "ich": "plane",
+          "du": "planst",
+          "er_sie_es": "plant",
+          "wir": "planen",
+          "ihr": "plant",
+          "sie_Sie": "planen"
+        },
+        "past_simple": {
+          "ich": "plante",
+          "du": "plantest",
+          "er_sie_es": "plante",
+          "wir": "planten",
+          "ihr": "plantet",
+          "sie_Sie": "planten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geplant"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "für",
+          "case": "Akkusativ",
+          "meaning_ar": "يخطط للمستقبل"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Abteilungsleiterin plant die Quartalsziele mit großer Weitsicht.",
+          "en": "The department head plans quarterly goals with great foresight.",
+          "ar": "تُخَطِّطُ رَئِيسَةُ القِسْمِ لِأَهْدَافِ الرُّبْعِ السَّنَوِيِّ بِبُعْدِ نَظَر."
+        }
+      ]
+    },
+    {
+      "id": "verb_office_004",
+      "infinitive": "organisieren",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Vorgänge und Termine planvoll ordnen und koordinieren",
+      "meaning_en": "to organize, coordinate",
+      "meaning_ar": "يُنَظِّمُ، يُرَتِّبُ الأَعْمَالَ وَالمَوَاعِيد",
+      "tenses": {
+        "present": {
+          "ich": "organisiere",
+          "du": "organisierst",
+          "er_sie_es": "organisiert",
+          "wir": "organisieren",
+          "ihr": "organisiert",
+          "sie_Sie": "organisieren"
+        },
+        "past_simple": {
+          "ich": "organisierte",
+          "du": "organisiertest",
+          "er_sie_es": "organisierte",
+          "wir": "organisierten",
+          "ihr": "organisiertet",
+          "sie_Sie": "organisierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "organisiert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "für",
+          "case": "Akkusativ",
+          "meaning_ar": "ينظم لأجل الفريق"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Assistent organisiert den Ablauf der Fortbildung vorbildlich.",
+          "en": "The assistant organizes the schedule of the training exemplarily.",
+          "ar": "يُنَظِّمُ المُسَاعِدُ جَدْوَلَ الدَّوْرَةِ التَّدْرِيبِيَّةِ بِشَكْلٍ نَمُوذَجِيّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_office_005",
+      "infinitive": "erledigen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "eine Aufgabe vollständig und termingerecht zu Ende bringen",
+      "meaning_en": "to complete, settle tasks",
+      "meaning_ar": "يُنْجِزُ، يُتَمِّمُ المَهَمَّة",
+      "tenses": {
+        "present": {
+          "ich": "erledige",
+          "du": "erledigst",
+          "er_sie_es": "erledigt",
+          "wir": "erledigen",
+          "ihr": "erledigt",
+          "sie_Sie": "erledigen"
+        },
+        "past_simple": {
+          "ich": "erledigte",
+          "du": "erledigtest",
+          "er_sie_es": "erledigte",
+          "wir": "erledigten",
+          "ihr": "erledigtet",
+          "sie_Sie": "erledigten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "erledigt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "bis",
+          "case": "Akkusativ",
+          "meaning_ar": "ينجز قبل موعد محدد"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er erledigte alle dringenden E-Mails noch vor der Mittagspause.",
+          "en": "He handled all urgent emails before the lunch break.",
+          "ar": "أَنْجَزَ جَمِيعَ الرَّسَائِلِ الإِلِكْتُرُونِيَّةِ العَاجِلَةِ قَبْلَ اسْتِرَاحَةِ الغَدَاء."
+        }
+      ]
+    },
+    {
+      "id": "verb_office_006",
+      "infinitive": "vereinbaren",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "einen festen Termin für ein Treffen verabreden",
+      "meaning_en": "to arrange, schedule an appointment",
+      "meaning_ar": "يَتَّفِقُ عَلَى مَوْعِد",
+      "tenses": {
+        "present": {
+          "ich": "vereinbare",
+          "du": "vereinbarst",
+          "er_sie_es": "vereinbart",
+          "wir": "vereinbaren",
+          "ihr": "vereinbart",
+          "sie_Sie": "vereinbaren"
+        },
+        "past_simple": {
+          "ich": "vereinbarte",
+          "du": "vereinbartest",
+          "er_sie_es": "vereinbarte",
+          "wir": "vereinbarten",
+          "ihr": "vereinbartet",
+          "sie_Sie": "vereinbarten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "vereinbart"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يتفق مع عميل"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wir vereinbarten einen Termin für kommenden Dienstagmorgen.",
+          "en": "We arranged an appointment for next Tuesday morning.",
+          "ar": "اتَّفَقْنَا عَلَى مَوْعِدٍ صَبَاحَ الثُّلَاثَاءِ القَادِم."
+        }
+      ]
+    },
+    {
+      "id": "verb_office_007",
+      "infinitive": "teilnehmen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "bei einer Sitzung oder Schulung anwesend und aktiv sein",
+      "meaning_en": "to participate, attend meeting",
+      "meaning_ar": "يُشَارِكُ، يَحْضُرُ الِاجْتِمَاع",
+      "tenses": {
+        "present": {
+          "ich": "nehme teil",
+          "du": "nimmst teil",
+          "er_sie_es": "nimmt teil",
+          "wir": "nehmen teil",
+          "ihr": "nehmt teil",
+          "sie_Sie": "nehmen teil"
+        },
+        "past_simple": {
+          "ich": "nahm teil",
+          "du": "nahmst teil",
+          "er_sie_es": "nahm teil",
+          "wir": "nahmen teil",
+          "ihr": "nahmt teil",
+          "sie_Sie": "nahmen teil"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "teilgenommen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Dativ",
+          "meaning_ar": "يشارك في مؤتمر"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Alle Abteilungsmitglieder nehmen an der Fortbildung teil.",
+          "en": "All department members are participating in the training.",
+          "ar": "يُشَارِكُ جَمِيعُ أَعْضَاءِ القِسْمِ فِي الدَّوْرَةِ التَّطْوِيرِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_office_008",
+      "infinitive": "präsentieren",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Ergebnisse oder Vorschläge vor dem Kollegium anschaulich darlegen",
+      "meaning_en": "to present results",
+      "meaning_ar": "يَعْرِضُ، يُقَدِّمُ عَرْضًا تَوْضِيحِيًّا",
+      "tenses": {
+        "present": {
+          "ich": "präsentiere",
+          "du": "präsentierst",
+          "er_sie_es": "präsentiert",
+          "wir": "präsentieren",
+          "ihr": "präsentiert",
+          "sie_Sie": "präsentieren"
+        },
+        "past_simple": {
+          "ich": "präsentierte",
+          "du": "präsentiertest",
+          "er_sie_es": "präsentierte",
+          "wir": "präsentierten",
+          "ihr": "präsentiertet",
+          "sie_Sie": "präsentierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "präsentiert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "vor",
+          "case": "Dativ",
+          "meaning_ar": "يعرض أمام الحضور"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Kollegin präsentierte die Projektideen klar und überzeugend.",
+          "en": "The colleague presented the project ideas clearly and convincingly.",
+          "ar": "عَرَضَتِ الزَّمِيلَةُ أَفْكَارَ المَشْرُوعِ بِوُضُوحٍ وَإِقْنَاع."
+        }
+      ]
+    },
+    {
+      "id": "verb_office_009",
+      "infinitive": "leiten",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "eine Besprechung oder ein Team verantwortungsvoll führen",
+      "meaning_en": "to lead, chair a meeting",
+      "meaning_ar": "يَقُودُ، يُدِيرُ الجَلْسَةَ أَوِ القِسْم",
+      "tenses": {
+        "present": {
+          "ich": "leite",
+          "du": "leitest",
+          "er_sie_es": "leitet",
+          "wir": "leiten",
+          "ihr": "leitet",
+          "sie_Sie": "leiten"
+        },
+        "past_simple": {
+          "ich": "leitete",
+          "du": "leitetest",
+          "er_sie_es": "leitete",
+          "wir": "leiteten",
+          "ihr": "leitetet",
+          "sie_Sie": "leiteten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geleitet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يدير بحكمة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der erfahrene Manager leitet das Projekt mit Ruhe und Fachkompetenz.",
+          "en": "The experienced manager leads the project with calm and expertise.",
+          "ar": "يَقُودُ المُدِيرُ الخَبِيرُ المَشْرُوعَ بِاتِّزَانٍ وَكَفَاءَةٍ عَالِيَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_office_010",
+      "infinitive": "drucken",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "eine digitale Datei auf Papier ausgeben",
+      "meaning_en": "to print documents",
+      "meaning_ar": "يَطْبَعُ الوَثِيقَة",
+      "tenses": {
+        "present": {
+          "ich": "drucke",
+          "du": "druckst",
+          "er_sie_es": "druckt",
+          "wir": "drucken",
+          "ihr": "druckt",
+          "sie_Sie": "drucken"
+        },
+        "past_simple": {
+          "ich": "druckte",
+          "du": "drucktest",
+          "er_sie_es": "druckte",
+          "wir": "druckten",
+          "ihr": "drucktet",
+          "sie_Sie": "druckten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gedruckt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Akkusativ",
+          "meaning_ar": "يطبع على ورق معاد تدويره"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Er druckt den fertigen Bericht auf Recyclingpapier aus.",
+          "en": "He prints the finished report onto recycled paper.",
+          "ar": "يَطْبَعُ التَّقْرِيرَ المُنْجَزَ عَلَى وَرَقٍ مُعَادِ التَّدْوِير."
+        }
+      ]
+    },
+    {
+      "id": "verb_office_011",
+      "infinitive": "speichern",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "Daten sicher auf dem Computer oder Server hinterlegen",
+      "meaning_en": "to save files, store data",
+      "meaning_ar": "يَحْفَظُ المَلَفَّ رَقْمِيًّا",
+      "tenses": {
+        "present": {
+          "ich": "speichere",
+          "du": "speicherst",
+          "er_sie_es": "speichert",
+          "wir": "speichern",
+          "ihr": "speichert",
+          "sie_Sie": "speichern"
+        },
+        "past_simple": {
+          "ich": "speicherte",
+          "du": "speichertest",
+          "er_sie_es": "speicherte",
+          "wir": "speicherten",
+          "ihr": "speichertet",
+          "sie_Sie": "speicherten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gespeichert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Dativ",
+          "meaning_ar": "يحفظ على الخادم"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Bitte speichern Sie die Tabelle regelmäßig auf dem gemeinsamen Server.",
+          "en": "Please save the spreadsheet regularly on the shared server.",
+          "ar": "يُرْجَى حِفْظُ الجَدْوَلِ بَانْتِظَامٍ عَلَى الخَادِمِ المُشْتَرَك."
+        }
+      ]
+    },
+    {
+      "id": "verb_office_012",
+      "infinitive": "weiterleiten",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "eine erhaltene E-Mail an die zuständige Person senden",
+      "meaning_en": "to forward email",
+      "meaning_ar": "يُعِيدُ تَوْجِيهَ الرِّسَالَةِ الإِلِكْتُرُونِيَّة",
+      "tenses": {
+        "present": {
+          "ich": "leite weiter",
+          "du": "leitest weiter",
+          "er_sie_es": "leitet weiter",
+          "wir": "leiten weiter",
+          "ihr": "leitet weiter",
+          "sie_Sie": "leiten weiter"
+        },
+        "past_simple": {
+          "ich": "leitete weiter",
+          "du": "leitetest weiter",
+          "er_sie_es": "leitete weiter",
+          "wir": "leiteten weiter",
+          "ihr": "leitetet weiter",
+          "sie_Sie": "leiteten weiter"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "weitergeleitet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Akkusativ",
+          "meaning_ar": "يوجه إلى الزميل المعني"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Ich leite die Anfrage des Kunden direkt an die Fachabteilung weiter.",
+          "en": "I forward the customer's inquiry directly to the specialized department.",
+          "ar": "أُعِيدُ تَوْجِيهَ اسْتِفْسَارِ العَمِيلِ مُبَاشَرَةً إِلَى القِسْمِ المُخْتَصّ."
+        }
+      ]
+    },
+    {
+      "id": "verb_office_013",
+      "infinitive": "absprechen",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "sich mit Kollegen über die Aufgabenteilung einig werden",
+      "meaning_en": "to coordinate, agree on tasks",
+      "meaning_ar": "يُنَسِّقُ، يَتَّفِقُ عَلَى تَوْزِيعِ المَهَامّ",
+      "tenses": {
+        "present": {
+          "ich": "spreche ab",
+          "du": "sprichst ab",
+          "er_sie_es": "spricht ab",
+          "wir": "sprechen ab",
+          "ihr": "sprecht ab",
+          "sie_Sie": "sprechen ab"
+        },
+        "past_simple": {
+          "ich": "sprach ab",
+          "du": "sprachst ab",
+          "er_sie_es": "sprach ab",
+          "wir": "sprachen ab",
+          "ihr": "spracht ab",
+          "sie_Sie": "sprachen ab"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "abgesprochen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "ينسق مع الفريق"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wir sprechen den Urlaubsplan frühzeitig im Team ab.",
+          "en": "We coordinate the vacation schedule early within the team.",
+          "ar": "نُنَسِّقُ جَدْوَلَ الإِجَازَاتِ فِي الفَرِيقِ فِي وَقْتٍ مُبَكِّر."
+        }
+      ]
+    },
+    {
+      "id": "verb_office_014",
+      "infinitive": "verschieben",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "einen Termin auf einen späteren Zeitpunkt verlegen",
+      "meaning_en": "to postpone, reschedule",
+      "meaning_ar": "يُؤَجِّلُ المَوْعِد، يُرَجِّئُ",
+      "tenses": {
+        "present": {
+          "ich": "verschiebe",
+          "du": "verschiebst",
+          "er_sie_es": "verschiebt",
+          "wir": "verschieben",
+          "ihr": "verschiebt",
+          "sie_Sie": "verschieben"
+        },
+        "past_simple": {
+          "ich": "verschob",
+          "du": "verschobst",
+          "er_sie_es": "verschob",
+          "wir": "verschoben",
+          "ihr": "verschobt",
+          "sie_Sie": "verschoben"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "verschoben"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Akkusativ",
+          "meaning_ar": "يؤجل إلى موعد لاحق"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Wegen der Schulung verschieben wir die Besprechung auf Freitag.",
+          "en": "Due to the training, we postpone the meeting to Friday.",
+          "ar": "نُؤَجِّلُ الِاجْتِمَاعَ إِلَى يَوْمِ الجُمُعَةِ بِسَبَبِ الدَّوْرَةِ التَّدْرِيبِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_office_015",
+      "infinitive": "einhalten",
+      "verb_type": "irregular",
+      "level": "A2",
+      "meaning_de": "eine Frist oder Vereinbarung gewissenhaft respektieren",
+      "meaning_en": "to keep, adhere to a deadline",
+      "meaning_ar": "يَلْتَزِمُ بِالمَوْعِدِ المُحَدَّد",
+      "tenses": {
+        "present": {
+          "ich": "halte ein",
+          "du": "hältst ein",
+          "er_sie_es": "hält ein",
+          "wir": "halten ein",
+          "ihr": "haltet ein",
+          "sie_Sie": "halten ein"
+        },
+        "past_simple": {
+          "ich": "hielt ein",
+          "du": "hieltst ein",
+          "er_sie_es": "hielt ein",
+          "wir": "hielten ein",
+          "ihr": "hieltet ein",
+          "sie_Sie": "hielten ein"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "eingehalten"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "bei",
+          "case": "Dativ",
+          "meaning_ar": "يلتزم في التسليم"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Das Projektteam hielt alle vereinbarten Fristen vorbildlich ein.",
+          "en": "The project team met all agreed deadlines exemplarily.",
+          "ar": "الْتَزَمَ فَرِيقُ المَشْرُوعِ بِجَمِيعِ المَوَاعِيدِ المُحَدَّدَةِ بِمِثَالِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_office_016",
+      "infinitive": "protokollieren",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "die Ergebnisse und Beschlüsse einer Sitzung schriftlich festhalten",
+      "meaning_en": "to take minutes, document",
+      "meaning_ar": "يُدَوِّنُ مَحْضَرَ الِاجْتِمَاع",
+      "tenses": {
+        "present": {
+          "ich": "protokolliere",
+          "du": "protokollierst",
+          "er_sie_es": "protokolliert",
+          "wir": "protokollieren",
+          "ihr": "protokolliert",
+          "sie_Sie": "protokollieren"
+        },
+        "past_simple": {
+          "ich": "protokollierte",
+          "du": "protokolliertest",
+          "er_sie_es": "protokollierte",
+          "wir": "protokollierten",
+          "ihr": "protokolliertet",
+          "sie_Sie": "protokollierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "protokolliert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يدون في المحضر"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Schriftführer protokollierte alle Beschlüsse der Konferenz genau.",
+          "en": "The secretary minuted all decisions of the conference accurately.",
+          "ar": "دَوَّنَ مُقَرِّرُ الجَلْسَةِ جَمِيعَ قَرَارَاتِ المُؤْتَمَرِ بِدِقَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_office_017",
+      "infinitive": "kooperieren",
+      "verb_type": "regular",
+      "level": "B1",
+      "meaning_de": "mit anderen Institutionen oder Teams partnerschaftlich zusammenarbeiten",
+      "meaning_en": "to cooperate constructively",
+      "meaning_ar": "يَتَعَاوَنُ بَنَّاءً، يُنَسِّقُ مُشْتَرَكًا",
+      "tenses": {
+        "present": {
+          "ich": "kooperiere",
+          "du": "kooperierst",
+          "er_sie_es": "kooperiert",
+          "wir": "kooperieren",
+          "ihr": "kooperiert",
+          "sie_Sie": "kooperieren"
+        },
+        "past_simple": {
+          "ich": "kooperierte",
+          "du": "kooperiertest",
+          "er_sie_es": "kooperierte",
+          "wir": "kooperierten",
+          "ihr": "kooperiertet",
+          "sie_Sie": "kooperierten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "kooperiert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "يتعاون مع مؤسسات شريكة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Unser Forschungsinstitut kooperiert eng mit internationalen Universitäten.",
+          "en": "Our research institute cooperates closely with international universities.",
+          "ar": "يَتَعَاوَنُ مَعْهَدُنَا البَحْثِيُّ تَعَاوُنًا وَثِيقًا مَعَ جَامِعَاتٍ دَوْلِيَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_office_018",
+      "infinitive": "prüfen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Zahlen, Rechnungen oder Berichte sorgsam auf Fehler kontrollieren",
+      "meaning_en": "to check, audit, verify",
+      "meaning_ar": "يُدَقِّقُ، يُرَاجِعُ البَيَانَاتِ وَالحِسَابَات",
+      "tenses": {
+        "present": {
+          "ich": "prüfe",
+          "du": "prüfst",
+          "er_sie_es": "prüft",
+          "wir": "prüfen",
+          "ihr": "prüft",
+          "sie_Sie": "prüfen"
+        },
+        "past_simple": {
+          "ich": "prüfte",
+          "du": "prüftest",
+          "er_sie_es": "prüfte",
+          "wir": "prüften",
+          "ihr": "prüftet",
+          "sie_Sie": "prüften"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geprüft"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Akkusativ",
+          "meaning_ar": "يدقق للتأكد من الصحة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Der Buchhalter prüft alle Belege gewissenhaft vor der Freigabe.",
+          "en": "The accountant checks all vouchers conscientiously before release.",
+          "ar": "يُدَقِّقُ المُحَاسِبُ جَمِيعَ الإِيصَالَاتِ بِأَمَانَةٍ قَبْلَ اعْتِمَادِهَا."
+        }
+      ]
+    },
+    {
+      "id": "verb_office_019",
+      "infinitive": "unterstützen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Kollegen bei hoher Arbeitsbelastung helfend unter die Arme greifen",
+      "meaning_en": "to support a colleague",
+      "meaning_ar": "يُسَانِدُ الزَّمِيلَ عِنْدَ ضَغْطِ العَمَل",
+      "tenses": {
+        "present": {
+          "ich": "unterstütze",
+          "du": "unterstützt",
+          "er_sie_es": "unterstützt",
+          "wir": "unterstützen",
+          "ihr": "unterstützt",
+          "sie_Sie": "unterstützen"
+        },
+        "past_simple": {
+          "ich": "unterstützte",
+          "du": "unterstütztest",
+          "er_sie_es": "unterstützte",
+          "wir": "unterstützten",
+          "ihr": "unterstütztet",
+          "sie_Sie": "unterstützten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "unterstützt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "bei",
+          "case": "Dativ",
+          "meaning_ar": "يساند في مشروع عاجل"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Mitarbeiter unterstützen einander kollegial bei dringenden Abgabeterminen.",
+          "en": "Colleagues support each other collegially during urgent deadlines.",
+          "ar": "يَتَسَانَدُ المُمَثِّلُونَ فِي الفَرِيقِ بِمَوَدَّةٍ عِنْدَ مَوَاعِيدِ التَّسْلِيمِ العَاجِلَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_office_020",
+      "infinitive": "erreichen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "ein gestecktes berufliches Ziel erfolgreich verwirklichen",
+      "meaning_en": "to achieve professional goals",
+      "meaning_ar": "يُحَقِّقُ الهَدَفَ وَالنَّجَاحَ المِهْنِيّ",
+      "tenses": {
+        "present": {
+          "ich": "erreiche",
+          "du": "erreichst",
+          "er_sie_es": "erreicht",
+          "wir": "erreichen",
+          "ihr": "erreicht",
+          "sie_Sie": "erreichen"
+        },
+        "past_simple": {
+          "ich": "erreichte",
+          "du": "erreichtest",
+          "er_sie_es": "erreichte",
+          "wir": "erreichten",
+          "ihr": "erreichtet",
+          "sie_Sie": "erreichten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "erreicht"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "durch",
+          "case": "Akkusativ",
+          "meaning_ar": "يحقق بواسطة الجد"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Durch beharrlichen Fleiß erreichte die Arbeitsgruppe alle Jahresziele.",
+          "en": "Through persistent diligence, the working group achieved all annual goals.",
+          "ar": "حَقَّقَتْ مَجْمُوعَةُ العَمَلِ جَمِيعَ أَهْدَافِهَا السَّنَوِيَّةِ بِفَضْلِ الكَدِّ الدَّؤُوب."
+        }
+      ]
+    }
+  ]
+}

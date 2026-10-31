@@ -1,0 +1,409 @@
+{
+  "category_id": "money_savings_commerce_a2",
+  "category_name_de": "Geld, Sparen & Ehrlicher Handel",
+  "category_name_en": "Money, Savings & Honest Commerce",
+  "category_name_ar": "المُعَامَلَاتُ المَالِيَّةُ وَالِادِّخَارُ وَالتِّجَارَةُ الرَّشِيدَة",
+  "level": "A2+",
+  "items": [
+    {
+      "id": "money_comm_001",
+      "term_de": "das Geld",
+      "plural_de": "-",
+      "term_en": "money",
+      "term_ar": "المَال، النُّقُود",
+      "pronunciation_de": "[ɡɛlt]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Rechtes Geld wird durch ehrliche und fleißige Arbeit erworben.",
+          "en": "Righteous money is earned through honest and diligent work.",
+          "ar": "المَالُ الحَلَالُ يُكْتَسَبُ بِالعَمَلِ الشَّرِيفِ وَالكَدِّ الطَّيِّب."
+        }
+      ]
+    },
+    {
+      "id": "money_comm_002",
+      "term_de": "das Bargeld",
+      "plural_de": "-",
+      "term_en": "cash",
+      "term_ar": "النُّقُودُ الوَرَقِيَّةُ وَالمَعْدِنِيَّة، الكَاش",
+      "pronunciation_de": "[ˈbaːɐ̯ˌɡɛlt]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Auf dem Wochenmarkt zahlen viele Kunden weiterhin gerne mit Bargeld.",
+          "en": "At the weekly market, many customers still prefer paying with cash.",
+          "ar": "يُفَضِّلُ كَثِيرٌ مِنَ الزَّبَائِنِ الدَّفْعَ نَقْدًا فِي السُّوقِ الأُسْبُوعِيّ."
+        }
+      ]
+    },
+    {
+      "id": "money_comm_003",
+      "term_de": "die Münze",
+      "plural_de": "die Münzen",
+      "term_en": "coin",
+      "term_ar": "القِطْعَةُ النَّقْدِيَّةُ المَعْدِنِيَّة",
+      "pronunciation_de": "[ˈmʏnt͡sə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Er steckte die glänzende Ein-Euro-Münze in die Sparbüchse seines Sohnes.",
+          "en": "He put the shining one-euro coin into his son's money box.",
+          "ar": "وَضَعَ القِطْعَةَ النَّقْدِيَّةَ اللَّامِعَةَ فِي حَصَّالَةِ ابْنِه."
+        }
+      ]
+    },
+    {
+      "id": "money_comm_004",
+      "term_de": "der Geldschein",
+      "plural_de": "die Geldscheine",
+      "term_en": "banknote, paper bill",
+      "term_ar": "الوَرَقَةُ النَّقْدِيَّة",
+      "pronunciation_de": "[ˈɡɛltˌʃaɪ̯n]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der Händler prüfte den Fünfzig-Euro-Schein sorgfältig vor der Kasse.",
+          "en": "The merchant checked the fifty-euro note carefully at the register.",
+          "ar": "فَحَصَ التَّاجِرُ الوَرَقَةَ النَّقْدِيَّةَ بِعِنَايَةٍ أَمَامَ الصُّنْدُوق."
+        }
+      ]
+    },
+    {
+      "id": "money_comm_005",
+      "term_de": "das Portemonnaie",
+      "plural_de": "die Portemonnaies",
+      "term_en": "wallet, purse",
+      "term_ar": "المَحْفَظَةُ النَّقْدِيَّة",
+      "pronunciation_de": "[pɔʁtmoˈneː]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Er bewahrt seine Fahrkarte und Münzen sicher im Portemonnaie auf.",
+          "en": "He keeps his ticket and coins safely in his wallet.",
+          "ar": "يَحْفَظُ تَذْكِرَتَهُ وَنُقُودَهُ المَعْدِنِيَّةَ بِأَمَانٍ فِي مَحْفَظَتِه."
+        }
+      ]
+    },
+    {
+      "id": "money_comm_006",
+      "term_de": "das Sparkonto",
+      "plural_de": "die Sparkonten",
+      "term_en": "savings account",
+      "term_ar": "حِسَابُ التَّوْفِير، حِسَابُ الِادِّخَار",
+      "pronunciation_de": "[ˈʃpaːɐ̯ˌkɔnto]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Jeden Monat legt er einen festen Betrag auf sein Sparkonto zurück.",
+          "en": "Every month, he puts a fixed amount into his savings account.",
+          "ar": "يُودِعُ كُلَّ شَهْرٍ مَبْلَغًا ثَابِتًا فِي حِسَابِ الِادِّخَارِ لَدَيْه."
+        }
+      ]
+    },
+    {
+      "id": "money_comm_007",
+      "term_de": "die Sparbüchse",
+      "plural_de": "die Sparbüchsen",
+      "term_en": "money box, piggy bank",
+      "term_ar": "الحَصَّالَةُ المَنْزِلِيَّة",
+      "pronunciation_de": "[ˈʃpaːɐ̯ˌbʏksə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Kinder lernten den Wert des Sparens durch ihre bunte Sparbüchse.",
+          "en": "The children learned the value of saving through their colorful piggy bank.",
+          "ar": "تَعَلَّمَ الأَطْفَالُ قِيمَةَ الِادِّخَارِ مِنْ خِلَالِ حَصَّالَتِهِمُ المُلَوَّنَة."
+        }
+      ]
+    },
+    {
+      "id": "money_comm_008",
+      "term_de": "der Geldautomat",
+      "plural_de": "die Geldautomaten",
+      "term_en": "ATM, cash machine",
+      "term_ar": "الصَّرَّافُ الآلِيّ",
+      "pronunciation_de": "[ˈɡɛltʔaʊ̯toˌmaːt]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Am Geldautomaten der Bank kann man rund um die Uhr Bargeld abheben.",
+          "en": "At the bank's ATM, you can withdraw cash around the clock.",
+          "ar": "يُمْكِنُ سَحْبُ النُّقُودِ مِنْ صَرَّافِ البَنْكِ الآلِيِّ عَلَى مَدَارِ السَّاعَة."
+        }
+      ]
+    },
+    {
+      "id": "money_comm_009",
+      "term_de": "die Banküberweisung",
+      "plural_de": "die Banküberweisungen",
+      "term_en": "bank transfer",
+      "term_ar": "التَّحْوِيلُ المَصْرِفِيّ",
+      "pronunciation_de": "[ˈbaŋkʔyːbɐˌvaɪ̯zʊŋ]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Miete wird pünktlich per Banküberweisung beglichen.",
+          "en": "The rent is paid punctually via bank transfer.",
+          "ar": "يَتِمُّ سَدَادُ الإِيجَارِ فِي المَوْعِدِ عَبْرَ التَّحْوِيلِ المَصْرِفِيّ."
+        }
+      ]
+    },
+    {
+      "id": "money_comm_010",
+      "term_de": "der Kassenbon",
+      "plural_de": "die Kassenbons",
+      "term_en": "receipt, sales slip",
+      "term_ar": "إِيصَالُ الشِّرَاء، الفَاتُورَة",
+      "pronunciation_de": "[ˈkasn̩ˌbɔŋ]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Bitte bewahren Sie den Kassenbon als Kaufnachweis auf.",
+          "en": "Please keep the receipt as proof of purchase.",
+          "ar": "يُرْجَى الِاحْتِفَاظُ بِإِيصَالِ الشِّرَاءِ كَإِثْبَاتٍ لِلدَّفْع."
+        }
+      ]
+    },
+    {
+      "id": "money_comm_011",
+      "term_de": "der Preis",
+      "plural_de": "die Preise",
+      "term_en": "price, cost",
+      "term_ar": "السِّعْر، الثَّمَن",
+      "pronunciation_de": "[pʁaɪ̯s]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der Händler verlangt einen gerechten Preis für seine erstklassigen Waren.",
+          "en": "The merchant charges a fair price for his first-class goods.",
+          "ar": "يَطْلُبُ التَّاجِرُ سِعْرًا عَادِلًا مُقَابِلَ بَضَائِعِهِ المُمَيَّزَة."
+        }
+      ]
+    },
+    {
+      "id": "money_comm_012",
+      "term_de": "der Rabatt",
+      "plural_de": "die Rabatte",
+      "term_en": "discount, price deduction",
+      "term_ar": "الخَصْم، التَّخْفِيض",
+      "pronunciation_de": "[ʁaˈbat]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Beim Kauf von zehn Büchern gewährte der Buchhändler einen kleinen Rabatt.",
+          "en": "When purchasing ten books, the bookseller granted a small discount.",
+          "ar": "مَنَحَ بَائِعُ الكُتُبِ خَصْمًا لَطِيفًا عِنْدَ شِرَاءِ عَشْرَةِ كُتُب."
+        }
+      ]
+    },
+    {
+      "id": "money_comm_013",
+      "term_de": "das Wechselgeld",
+      "plural_de": "-",
+      "term_en": "change",
+      "term_ar": "بَاقِي النُّقُود، الفَكَّة",
+      "pronunciation_de": "[ˈvɛksl̩ˌɡɛlt]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Die Verkäuferin zählte das Wechselgeld centgenau auf den Tresen.",
+          "en": "The shop assistant counted the change down to the cent onto the counter.",
+          "ar": "عَدَّتِ البَائِعَةُ بَاقِيَ النُّقُودِ بِدِقَّةِ السِّنْتِ عَلَى طَاوِلَةِ المَحَلّ."
+        }
+      ]
+    },
+    {
+      "id": "money_comm_014",
+      "term_de": "die Sparsamkeit",
+      "plural_de": "-",
+      "term_en": "thriftiness, frugality",
+      "term_ar": "التَّرْشِيد، الِاقْتِصَادُ الحَكِيم",
+      "pronunciation_de": "[ˈʃpaːɐ̯zaːmkaɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Sparsamkeit im täglichen Leben bewahrt vor unnötigen Schulden.",
+          "en": "Thriftiness in daily life protects against unnecessary debts.",
+          "ar": "التَّرْشِيدُ فِي الحَيَاةِ اليَوْمِيَّةِ يَقِي مِنَ الدُّيُونِ غَيْرِ النَّافِعَة."
+        }
+      ]
+    },
+    {
+      "id": "money_comm_015",
+      "term_de": "der Handel",
+      "plural_de": "-",
+      "term_en": "trade, commerce",
+      "term_ar": "التِّجَارَة، التَّبَادُلُ التِّجَارِيّ",
+      "pronunciation_de": "[ˈhandl̩]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Ehrlicher Handel verbindet Völker und fördert den Wohlstand.",
+          "en": "Honest trade connects nations and promotes prosperity.",
+          "ar": "التِّجَارَةُ الشَّرِيفَةُ تَرْبِطُ بَيْنَ الشُّعُوبِ وَتُعَزِّزُ الرَّخَاء."
+        }
+      ]
+    },
+    {
+      "id": "money_comm_016",
+      "term_de": "der Kaufmann",
+      "plural_de": "die Kaufleute",
+      "term_en": "merchant, trader",
+      "term_ar": "التَّاجِر",
+      "pronunciation_de": "[ˈkaʊ̯fman]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Der vertrauenswürdige Kaufmann wiegt alle Gewürze mit großer Sorgfalt ab.",
+          "en": "The trustworthy merchant weighs all spices with great care.",
+          "ar": "يَزِنُ التَّاجِرُ الأَمِينُ كُلَّ التَّوَابِلِ بِعِنَايَةٍ وَعَدْل."
+        }
+      ]
+    },
+    {
+      "id": "money_comm_017",
+      "term_de": "die Kauffrau",
+      "plural_de": "die Kauffrauen",
+      "term_en": "female merchant, businesswoman",
+      "term_ar": "التَّاجِرَة",
+      "pronunciation_de": "[ˈkaʊ̯fˌfʁaʊ̯]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die geschickte Kauffrau führt ihr Geschäft mit Integrität und Erfolg.",
+          "en": "The skillful businesswoman runs her shop with integrity and success.",
+          "ar": "تُدِيرُ التَّاجِرَةُ المَاهِرَةُ مَتْجَرَهَا بِنَزَاهَةٍ وَنَجَاح."
+        }
+      ]
+    },
+    {
+      "id": "money_comm_018",
+      "term_de": "die Ware",
+      "plural_de": "die Waren",
+      "term_en": "goods, merchandise",
+      "term_ar": "البِضَاعَة، السِّلْعَة",
+      "pronunciation_de": "[ˈvaːʁə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Frische und einwandfreie Ware steht morgens in den Auslagen bereit.",
+          "en": "Fresh and flawless goods stand ready in the displays in the morning.",
+          "ar": "تُرَتَّبُ البَضَائِعُ الطَّازَجَةُ السَّلِيمَةُ صَبَاحًا فِي أَرْوِقَةِ العَرْض."
+        }
+      ]
+    },
+    {
+      "id": "money_comm_019",
+      "term_de": "die Qualität",
+      "plural_de": "die Qualitäten",
+      "term_en": "quality",
+      "term_ar": "الجَوْدَة، الإِتْقَان",
+      "pronunciation_de": "[kvaliˈtɛːt]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Auf gute Qualität zu achten spart auf lange Sicht viel Geld.",
+          "en": "Paying attention to good quality saves a lot of money in the long run.",
+          "ar": "الحِرْصُ عَلَى الجَوْدَةِ العَالِيَةِ يُوَفِّرُ الكَثِيرَ مِنَ المَالِ عَلَى المَدَى البَعِيد."
+        }
+      ]
+    },
+    {
+      "id": "money_comm_020",
+      "term_de": "die Ehrlichkeit",
+      "plural_de": "-",
+      "term_en": "honesty, uprightness",
+      "term_ar": "الأَمَانَة، الصِّدْقُ فِي البَيْعِ وَالشِّرَاء",
+      "pronunciation_de": "[ˈeːɐ̯lɪçkaɪ̯t]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Ehrlichkeit im Handel schafft Kundenvertrauen, das Jahrzehnte überdauert.",
+          "en": "Honesty in trade creates customer trust that lasts for decades.",
+          "ar": "الصِّدْقُ وَالأَمَانَةُ فِي التِّجَارَةِ يَبْنِيَانِ ثِقَةً تَدُومُ لِعُقُود."
+        }
+      ]
+    },
+    {
+      "id": "money_comm_021",
+      "term_de": "die Ausgabe",
+      "plural_de": "die Ausgaben",
+      "term_en": "expense, expenditure",
+      "term_ar": "المَصْرُوفَات، النَّفَقَات",
+      "pronunciation_de": "[ˈaʊ̯sˌɡaːbə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Eine klare Übersicht der monatlichen Ausgaben hilft beim Sparen.",
+          "en": "A clear overview of monthly expenses helps with saving.",
+          "ar": "التَّدْوِينُ المُنْتَظَمُ لِلنَّفَقَاتِ الشَّهْرِيَّةِ يُعِينُ عَلَى الِادِّخَار."
+        }
+      ]
+    },
+    {
+      "id": "money_comm_022",
+      "term_de": "die Einnahme",
+      "plural_de": "die Einnahmen",
+      "term_en": "income, revenue",
+      "term_ar": "الدَّخْل، الإِيرَادُ المَالِيّ",
+      "pronunciation_de": "[ˈaɪ̯nˌnaːmə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Die Einnahmen aus dem Verkauf deckten alle Kosten vollständig ab.",
+          "en": "The income from the sale covered all costs completely.",
+          "ar": "غَطَّتْ إِيرَادَاتُ المَبِيعَاتِ جَمِيعَ التَّكَالِيفِ بِالكَامِل."
+        }
+      ]
+    },
+    {
+      "id": "money_comm_023",
+      "term_de": "das Budget",
+      "plural_de": "die Budgets",
+      "term_en": "budget",
+      "term_ar": "المِيزَانِيَّةُ المَرْصُودَة",
+      "pronunciation_de": "[byˈd͡ʒeː]",
+      "gender_de": "neuter",
+      "examples": [
+        {
+          "de": "Die Familie hielt ihr monatliches Budget für Lebensmittel genau ein.",
+          "en": "The family strictly adhered to their monthly food budget.",
+          "ar": "الْتَزَمَتِ الأُسْرَةُ بِمِيزَانِيَّتِهَا الشَّهْرِيَّةِ لِلْغِذَاءِ بِدِقَّة."
+        }
+      ]
+    },
+    {
+      "id": "money_comm_024",
+      "term_de": "der Wohlstand",
+      "plural_de": "-",
+      "term_en": "prosperity, well-being",
+      "term_ar": "سَعَةُ الرِّزْق، الرَّخَاءُ وَالبَرَكَة",
+      "pronunciation_de": "[ˈvoːlˌʃtant]",
+      "gender_de": "masculine",
+      "examples": [
+        {
+          "de": "Gerechte Verteilung von Gütern sichert dauerhaften Wohlstand für alle.",
+          "en": "Fair distribution of goods secures lasting prosperity for all.",
+          "ar": "التَّوْزِيعُ العَادِلُ لِلْخَيْرَاتِ يَضْمَنُ سَعَةَ الرِّزْقِ وَالرَّخَاءَ لِلْجَمِيع."
+        }
+      ]
+    },
+    {
+      "id": "money_comm_025",
+      "term_de": "die Spende",
+      "plural_de": "die Spenden",
+      "term_en": "charitable donation, charity",
+      "term_ar": "الصَّدَقَة، المِنْحَةُ الخَيْرِيَّة",
+      "pronunciation_de": "[ˈʃpɛndə]",
+      "gender_de": "feminine",
+      "examples": [
+        {
+          "de": "Eine freiwillige Spende an Bedürftige bringt Segen in das eigene Vermögen.",
+          "en": "A voluntary donation to the needy brings blessing to one's wealth.",
+          "ar": "الصَّدَقَةُ الطَّيِّبَةُ عَلَى المُحْتَاجِينَ تَجْلِبُ البَرَكَةَ فِي المَال."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,769 @@
+{
+  "category_id": "a2_weather_climate_verbs",
+  "category_name_de": "Wetter-, Natur- und Himmelsverben",
+  "category_name_en": "Weather, Nature & Atmospheric Verbs",
+  "category_name_ar": "أفعال الطقس والتغيرات الجوية والمناخية",
+  "level": "A1/A2",
+  "verbs": [
+    {
+      "id": "verb_weather_001",
+      "infinitive": "regnen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "als Wassertropfen aus Wolken auf die Erde fallen",
+      "meaning_en": "to rain",
+      "meaning_ar": "تُمْطِرُ السَّمَاء",
+      "tenses": {
+        "present": {
+          "er_sie_es": "regnet"
+        },
+        "past_simple": {
+          "er_sie_es": "regnete"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geregnet"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Akkusativ",
+          "meaning_ar": "تمطر على الحقول"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Es regnet sanft auf die durstigen Felder und Gärten.",
+          "en": "It rains gently onto the thirsty fields and gardens.",
+          "ar": "تُمْطِرُ السَّمَاءُ بِلُطْفٍ عَلَى الحُقُولِ وَالبَسَاتِينِ العَطْشَى."
+        }
+      ]
+    },
+    {
+      "id": "verb_weather_002",
+      "infinitive": "schneien",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "als weiße Schneeflocken vom Himmel schweben",
+      "meaning_en": "to snow",
+      "meaning_ar": "تُثْلِجُ، يَتَسَاقَطُ الثَّلْج",
+      "tenses": {
+        "present": {
+          "er_sie_es": "schneit"
+        },
+        "past_simple": {
+          "er_sie_es": "schneite"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geschneit"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "über",
+          "case": "Dativ",
+          "meaning_ar": "تثلج فوق الجبال"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Seit gestern Abend schneit es leise über den Berggipfeln.",
+          "en": "Since yesterday evening, it has been snowing quietly over the mountain peaks.",
+          "ar": "يَتَسَاقَطُ الثَّلْجُ بِهُدُوءٍ فَوْقَ قِمَمِ الجِبَالِ مُنْذُ مَسَاءِ أَمْس."
+        }
+      ]
+    },
+    {
+      "id": "verb_weather_003",
+      "infinitive": "wehen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "sich als spürbarer Luftstrom in Bewegung befinden",
+      "meaning_en": "to blow like wind",
+      "meaning_ar": "تَهُبُّ، تَسْرِي الرِّيح",
+      "tenses": {
+        "present": {
+          "ich": "wehe",
+          "du": "wehst",
+          "er_sie_es": "weht",
+          "wir": "wehen",
+          "ihr": "weht",
+          "sie_Sie": "wehen"
+        },
+        "past_simple": {
+          "ich": "wehte",
+          "du": "wehtest",
+          "er_sie_es": "wehte",
+          "wir": "wehten",
+          "ihr": "wehtet",
+          "sie_Sie": "wehten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geweht"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "aus",
+          "case": "Dativ",
+          "meaning_ar": "تهب من جهة البحر"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Ein erfrischender Wind weht aus dem Osten durch die Gassen.",
+          "en": "A refreshing wind blows from the east through the lanes.",
+          "ar": "تَهُبُّ رِيحٌ مُنْعِشَةٌ مِنَ الشَّرْقِ عَبْرَ الأَزِقَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_weather_004",
+      "infinitive": "scheinen",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "als Sonne wärmendes und helles Licht spenden",
+      "meaning_en": "to shine like sun",
+      "meaning_ar": "تَسْطَعُ، تُشْرِقُ الشَّمْس",
+      "tenses": {
+        "present": {
+          "ich": "scheine",
+          "du": "scheinst",
+          "er_sie_es": "scheint",
+          "wir": "scheinen",
+          "ihr": "scheint",
+          "sie_Sie": "scheinen"
+        },
+        "past_simple": {
+          "ich": "schien",
+          "du": "schienst",
+          "er_sie_es": "schien",
+          "wir": "schienen",
+          "ihr": "schient",
+          "sie_Sie": "schienen"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geschienen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "auf",
+          "case": "Akkusativ",
+          "meaning_ar": "تسطع على الحقول"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Sonne scheint den ganzen Tag vom wolkenlosen Himmel.",
+          "en": "The sun shines all day from the cloudless sky.",
+          "ar": "تَسْطَعُ الشَّمْسُ طَوَالَ اليَوْمِ مِنْ سَمَاءٍ صَافِيَةٍ لَا غَيْمَ فِيهَا."
+        }
+      ]
+    },
+    {
+      "id": "verb_weather_005",
+      "infinitive": "donnern",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "als dumpfes Gewittergrollen am Himmel zu hören sein",
+      "meaning_en": "to thunder",
+      "meaning_ar": "يَرْعَدُ، يُدَوِّي صَوْتُ الرَّعْد",
+      "tenses": {
+        "present": {
+          "er_sie_es": "donnert"
+        },
+        "past_simple": {
+          "er_sie_es": "donnerte"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gedonnert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يرعد في البعيد"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Es donnert in der Ferne hinter den Bergen, aber hier bleibt es trocken.",
+          "en": "It thunders in the distance behind the mountains, but it stays dry here.",
+          "ar": "يَرْعَدُ فِي الأُفُقِ البَعِيدِ خَلْفَ الجِبَالِ وَلَكِنَّ الجَوَّ هُنَا يَبْقَى صَحْوًا."
+        }
+      ]
+    },
+    {
+      "id": "verb_weather_006",
+      "infinitive": "blitzen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "in plötzlichen hellen Lichtzuckungen den Himmel erleuchten",
+      "meaning_en": "to flash lightning",
+      "meaning_ar": "يَبْرُقُ، يَلْمَعُ البَرْق",
+      "tenses": {
+        "present": {
+          "er_sie_es": "blitzt"
+        },
+        "past_simple": {
+          "er_sie_es": "blitzte"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geblitzt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "am",
+          "case": "Dativ",
+          "meaning_ar": "يبرق في الأفق"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Es blitzt am finsteren Nachthimmel kurz vor dem Eintreffen des Regens.",
+          "en": "Lightning flashes in the dark night sky just before the rain arrives.",
+          "ar": "يَبْرُقُ فِي سَمَاءِ اللَّيْلِ المُظْلِمَةِ قُبَيْلَ هُطُولِ المَطَر."
+        }
+      ]
+    },
+    {
+      "id": "verb_weather_007",
+      "infinitive": "stürmen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "mit heftigem Wind und orkanartigen Böen toben",
+      "meaning_en": "to storm, blow a gale",
+      "meaning_ar": "تَعْصِفُ الرِّيَاح",
+      "tenses": {
+        "present": {
+          "er_sie_es": "stürmt"
+        },
+        "past_simple": {
+          "er_sie_es": "stürmte"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gestürmt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "an",
+          "case": "Dativ",
+          "meaning_ar": "تعصف عند الساحل"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Draußen stürmt es gewaltig, doch im Haus ist es warm und behaglich.",
+          "en": "Outside it storms fiercely, but inside the house it is warm and cozy.",
+          "ar": "تَعْصِفُ الرِّيَاحُ فِي الخَارِجِ بِشِدَّةٍ لَكِنَّ البَيْتَ دَافِئٌ وَمُرِيح."
+        }
+      ]
+    },
+    {
+      "id": "verb_weather_008",
+      "infinitive": "frieren",
+      "verb_type": "irregular",
+      "level": "A1",
+      "meaning_de": "unter starker Kälte leiden oder zu Eis erstarren",
+      "meaning_en": "to freeze, feel chilled",
+      "meaning_ar": "يَتَجَمَّدُ، يَشْعُرُ بِالبَرْد",
+      "tenses": {
+        "present": {
+          "ich": "friere",
+          "du": "frierst",
+          "er_sie_es": "friert",
+          "wir": "frieren",
+          "ihr": "friert",
+          "sie_Sie": "frieren"
+        },
+        "past_simple": {
+          "ich": "fror",
+          "du": "frorst",
+          "er_sie_es": "fror",
+          "wir": "froren",
+          "ihr": "frort",
+          "sie_Sie": "froren"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gefroren"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "vor",
+          "case": "Dativ",
+          "meaning_ar": "يرتجف من البرد"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Im kalten Wind fror er an den Händen und zog seine Handschuhe an.",
+          "en": "In the cold wind, his hands froze and he put on his gloves.",
+          "ar": "شَعَرَ بِالبَرْدِ فِي يَدَيْهِ بِفِعْلِ الرِّيَاحِ فَارْتَدَى قُفَّازَيْه."
+        }
+      ]
+    },
+    {
+      "id": "verb_weather_009",
+      "infinitive": "tauen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "Eis oder Schnee durch wärmere Temperaturen verflüssigen",
+      "meaning_en": "to thaw, melt",
+      "meaning_ar": "يَذُوبُ الثَّلْج، يَنْصَهِرُ الجَلِيد",
+      "tenses": {
+        "present": {
+          "er_sie_es": "taut"
+        },
+        "past_simple": {
+          "er_sie_es": "taute"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "getaut"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "in",
+          "case": "Dativ",
+          "meaning_ar": "يذوب في الشمس"
+        }
+      ],
+      "examples": [
+        {
+          "de": "In der milden Frühlingssonne taut der Schnee rasch von den Dächern.",
+          "en": "In the mild spring sun, the snow thaws quickly from the roofs.",
+          "ar": "يَذُوبُ الثَّلْجُ سَرِيعًا عَنِ الأَسْطُحِ تَحْتَ شَمْسِ الرَّبِيعِ اللَّطِيفَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_weather_010",
+      "infinitive": "abkühlen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "nach einem heißen Sommertag wieder kühler und milder werden",
+      "meaning_en": "to cool down in temperature",
+      "meaning_ar": "يَبْرُدُ الجَوّ، تَنْخَفِضُ الحَرَارَة",
+      "tenses": {
+        "present": {
+          "es": "kühlt ab"
+        },
+        "past_simple": {
+          "es": "kühlte ab"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "abgekühlt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "am",
+          "case": "Dativ",
+          "meaning_ar": "يبرد الجو في المساء"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Am Abend kühlt es merklich ab und ein sanfter Wind zieht auf.",
+          "en": "In the evening, it cools down noticeably and a gentle breeze picks up.",
+          "ar": "يَبْرُدُ الجَوُّ مَسَاءً بِشَكْلٍ مَلْحُوظٍ مَعَ هُبُوبِ نَسِيمٍ عَلِيل."
+        }
+      ]
+    },
+    {
+      "id": "verb_weather_011",
+      "infinitive": "erwärmen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "die Temperatur durch Sonneneinstrahlung steigen lassen",
+      "meaning_en": "to warm up weather",
+      "meaning_ar": "يَدْفَأُ الجَوّ، تَرْتَفِعُ حَرَارَتُه",
+      "tenses": {
+        "present": {
+          "es": "erwärmt sich"
+        },
+        "past_simple": {
+          "es": "erwärmte sich"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "erwärmt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "durch",
+          "case": "Akkusativ",
+          "meaning_ar": "يدفأ بفعل أشعة الشمس"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Gegen Mittag erwärmt sich die Frühlingsluft spürbar.",
+          "en": "Toward noon, the spring air warms up noticeably.",
+          "ar": "يَدْفَأُ هَوَاءُ الرَّبِيعِ بِشَكْلٍ مَلْمُوسٍ مَعَ اقْتِرَابِ الظَّهِيرَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_weather_012",
+      "infinitive": "aufklaren",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "den Himmel von dichten Wolken befreien und wieder blau werden",
+      "meaning_en": "to clear up, clouds dissipate",
+      "meaning_ar": "تَصْفُو السَّمَاء، تَنْقَشِعُ الغُيُوم",
+      "tenses": {
+        "present": {
+          "es": "klart auf"
+        },
+        "past_simple": {
+          "es": "klarte auf"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "aufgeklart"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "nach",
+          "case": "Dativ",
+          "meaning_ar": "تصفو بعد المطر"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Nach dem Regenguss klart der Himmel auf und die Sonne strahlt wieder.",
+          "en": "After the downpour, the sky clears up and the sun shines again.",
+          "ar": "تَصْفُو السَّمَاءُ بَعْدَ هُطُولِ المَطَرِ وَتُشْرِقُ الشَّمْسُ مِنْ جَدِيد."
+        }
+      ]
+    },
+    {
+      "id": "verb_weather_013",
+      "infinitive": "bedecken",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "den Himmel mit einer durchgehenden Wolkenschicht überziehen",
+      "meaning_en": "to become overcast with clouds",
+      "meaning_ar": "تَتَلَبَّدُ السَّمَاءُ بِالغُيُوم",
+      "tenses": {
+        "present": {
+          "der Himmel": "bedeckt sich"
+        },
+        "past_simple": {
+          "der Himmel": "bedeckte sich"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "bedeckt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "mit",
+          "case": "Dativ",
+          "meaning_ar": "تتلبد بغيوم داكنة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Am Nachmittag bedeckte sich der Himmel mit dicken grauen Wolken.",
+          "en": "In the afternoon, the sky became overcast with thick gray clouds.",
+          "ar": "تَلَبَّدَتِ السَّمَاءُ بَعْدَ الظُّهْرِ بِغُيُومٍ رَمَادِيَّةٍ كَثِيفَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_weather_014",
+      "infinitive": "nieseln",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "in sehr feinen, dichten Wassertröpfchen niedergehen",
+      "meaning_en": "to drizzle",
+      "meaning_ar": "يَرُذُّ المَطَر، يَهْطِلُ رَذَاذًا خَفِيفًا",
+      "tenses": {
+        "present": {
+          "es": "nieselt"
+        },
+        "past_simple": {
+          "es": "nieselte"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "genieselt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "am",
+          "case": "Dativ",
+          "meaning_ar": "يرذ في الصباح"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Draußen nieselt es nur ganz leicht, man braucht kaum einen Schirm.",
+          "en": "Outside it is only drizzling very lightly; you hardly need an umbrella.",
+          "ar": "يَهْطِلُ رَذَاذُ مَطَرٍ خَفِيفٌ فِي الخَارِجِ لَا يَكَادُ يَحْتَاجُ إِلى مِظَلَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_weather_015",
+      "infinitive": "hageln",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "als feste Eiskörner prasselnd vom Himmel stürzen",
+      "meaning_en": "to hail",
+      "meaning_ar": "يَتَسَاقَطُ البَرَد",
+      "tenses": {
+        "present": {
+          "es": "hagelt"
+        },
+        "past_simple": {
+          "es": "hagelte"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gehagelt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "während",
+          "case": "Genitiv",
+          "meaning_ar": "يتساقط البرد أثناء العاصفة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Während des Sommergewitters hagelte es für wenige Minuten erbsengroße Körner.",
+          "en": "During the thunderstorm, it hailed pea-sized pellets for a few minutes.",
+          "ar": "تَسَاقَطَ البَرَدُ لِدَقَائِقَ مَعْدُودَةٍ كَحَبَّاتِ البَازِلَّاءِ أَثْنَاءَ العَاصِفَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_weather_016",
+      "infinitive": "schwitzen",
+      "verb_type": "regular",
+      "level": "A1",
+      "meaning_de": "bei großer Hitze Feuchtigkeit über die Haut abgeben",
+      "meaning_en": "to sweat in the heat",
+      "meaning_ar": "يَعْرَقُ مِنْ شِدَّةِ الحَرّ",
+      "tenses": {
+        "present": {
+          "ich": "schwitze",
+          "du": "schwitzt",
+          "er_sie_es": "schwitzt",
+          "wir": "schwitzen",
+          "ihr": "schwitzt",
+          "sie_Sie": "schwitzen"
+        },
+        "past_simple": {
+          "ich": "schwitzte",
+          "du": "schwitztest",
+          "er_sie_es": "schwitzte",
+          "wir": "schwitzten",
+          "ihr": "schwitztet",
+          "sie_Sie": "schwitzten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "geschwitzt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "bei",
+          "case": "Dativ",
+          "meaning_ar": "يعرق عند ارتفاع الحرارة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Bei der sommerlichen Hitze von vierzig Grad schwitzt jeder Spaziergänger.",
+          "en": "In the summer heat of forty degrees, every walker sweats.",
+          "ar": "يَعْرَقُ كُلُّ مَاشٍ فِي حَرِّ الصَّيْفِ عِنْدَ بُلُوغِ الحَرَارَةِ أَرْبَعِينَ دَرَجَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_weather_017",
+      "infinitive": "zittern",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "vor frostiger Kälte am ganzen Körper beben",
+      "meaning_en": "to shiver with cold",
+      "meaning_ar": "يَرْتَجِفُ، يَرْتَعِدُ مِنَ البَرْد",
+      "tenses": {
+        "present": {
+          "ich": "zittere",
+          "du": "zitterst",
+          "er_sie_es": "zittert",
+          "wir": "zittern",
+          "ihr": "zittert",
+          "sie_Sie": "zittern"
+        },
+        "past_simple": {
+          "ich": "zitterte",
+          "du": "zittertest",
+          "er_sie_es": "zitterte",
+          "wir": "zitterten",
+          "ihr": "zittertet",
+          "sie_Sie": "zitterten"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gezittert"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "vor",
+          "case": "Dativ",
+          "meaning_ar": "يرتجف من الصقيع"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Ohne warme Winterjacke zitterte er vor Kälte an der Haltestelle.",
+          "en": "Without a warm winter jacket, he shivered with cold at the bus stop.",
+          "ar": "ارْتَجَفَ مِنَ البَرْدِ عِنْدَ المَوْقِفِ لِعَدَمِ ارْتِدَائِهِ مِعْطَفًا دَافِئًا."
+        }
+      ]
+    },
+    {
+      "id": "verb_weather_018",
+      "infinitive": "vorhersehen",
+      "verb_type": "irregular",
+      "level": "B1",
+      "meaning_de": "die künftige Wetterentwicklung wissenschaftlich prognostizieren",
+      "meaning_en": "to forecast weather",
+      "meaning_ar": "يَتَوَقَّعُ، يَرْصُدُ حَالَةَ الجَوِّ القَادِمَة",
+      "tenses": {
+        "present": {
+          "ich": "sehe vorher",
+          "du": "siehst vorher",
+          "er_sie_es": "sieht vorher",
+          "wir": "sehen vorher",
+          "ihr": "seht vorher",
+          "sie_Sie": "sehen vorher"
+        },
+        "past_simple": {
+          "ich": "sah vorher",
+          "du": "sahst vorher",
+          "er_sie_es": "sah vorher",
+          "wir": "sahen vorher",
+          "ihr": "saht vorher",
+          "sie_Sie": "sahen vorher"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "vorhergesehen"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "für",
+          "case": "Akkusativ",
+          "meaning_ar": "يتوقع للأيام القادمة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Die Meteorologen sahen den frühen Schneefall für das Bergland treffsicher vorher.",
+          "en": "Meteorologists accurately forecasted the early snowfall for the highlands.",
+          "ar": "تَوَقَّعَ خُبَرَاءُ الأَرْصَادِ تَسَاقُطَ الثُّلُوجِ المُبَكِّرَ عَلَى المُرْتَفَعَاتِ بِدِقَّة."
+        }
+      ]
+    },
+    {
+      "id": "verb_weather_019",
+      "infinitive": "wechseln",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "zwischen Sonnenschein und Regenschauern rasch umschlagen",
+      "meaning_en": "to alternate, change weather",
+      "meaning_ar": "يَتَقَلَّبُ الطَّقْس، يَتَبَدَّلُ",
+      "tenses": {
+        "present": {
+          "das Wetter": "wechselt"
+        },
+        "past_simple": {
+          "das Wetter": "wechselte"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "gewechselt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "zwischen",
+          "case": "Dativ",
+          "meaning_ar": "يتقلب بين المطر والشمس"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Im April wechselt das Wetter oft rasch zwischen Sonne und kurzen Schauern.",
+          "en": "In April, the weather often alternates quickly between sun and brief showers.",
+          "ar": "يَتَقَلَّبُ الطَّقْسُ كَثِيرًا فِي نَيْسَانَ بَيْنَ إِشْرَاقِ الشَّمْسِ وَهَطَلَاتِ المَطَرِ السَّرِيعَة."
+        }
+      ]
+    },
+    {
+      "id": "verb_weather_020",
+      "infinitive": "beruhigen",
+      "verb_type": "regular",
+      "level": "A2",
+      "meaning_de": "nach einem Sturm wieder still und friedlich werden",
+      "meaning_en": "to calm down after storm",
+      "meaning_ar": "يَهْدَأُ الجَوُّ وَتَسْكُنُ الرِّيَاح",
+      "tenses": {
+        "present": {
+          "das Wetter": "beruhigt sich"
+        },
+        "past_simple": {
+          "das Wetter": "beruhigte sich"
+        },
+        "perfect": {
+          "auxiliary": "haben",
+          "participle_ii": "beruhigt"
+        }
+      },
+      "prepositions": [
+        {
+          "prep": "nach",
+          "case": "Dativ",
+          "meaning_ar": "يهدأ بعد العاصفة"
+        }
+      ],
+      "examples": [
+        {
+          "de": "Gegen Abend beruhigte sich der Wind und die Vögel begannen wieder zu singen.",
+          "en": "Toward evening, the wind calmed down and the birds began to sing again.",
+          "ar": "سَكَنَتِ الرِّيَاحُ قُبَيْلَ المَسَاءِ وَعَادَتِ العَصَافِيرُ لِلتَّغْرِيد."
+        }
+      ]
+    }
+  ]
+}
