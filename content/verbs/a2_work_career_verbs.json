@@ -1,0 +1,562 @@
+[
+  {
+    "id": "verb_work_001",
+    "infinitive": "reparieren",
+    "level": "A2",
+    "category": "Work & Career",
+    "arabic": "يُصْلِحُ الأَعْطَالَ",
+    "english": "to repair / fix",
+    "conjugation": {
+      "praesens": {
+        "ich": "repariere",
+        "du": "reparierst",
+        "er_sie_es": "repariert",
+        "wir": "reparieren",
+        "ihr": "repariert",
+        "sie_Sie": "reparieren"
+      },
+      "praeteritum": {
+        "ich": "reparierte",
+        "er_sie_es": "reparierte"
+      },
+      "perfekt": "hat repariert"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Der Handwerker repariert das defekte Gerät schnell und zuverlässig.",
+    "example_ar": "يُصْلِحُ الحِرَفِيُّ الجِهَازَ المُعَطَّلَ بِسُرْعَةٍ وَمَوْثُوقِيَّةٍ.",
+    "example_en": "The craftsman repairs the defective appliance quickly and reliably.",
+    "svg_icon": "content/assets/svg/verb_work_001.svg"
+  },
+  {
+    "id": "verb_work_002",
+    "infinitive": "herstellen",
+    "level": "A2",
+    "category": "Work & Career",
+    "arabic": "يَصْنَعُ / يُنْتِجُ",
+    "english": "to produce / manufacture",
+    "conjugation": {
+      "praesens": {
+        "ich": "stelle her",
+        "du": "stellst her",
+        "er_sie_es": "stellt her",
+        "wir": "stellen her",
+        "ihr": "stellt her",
+        "sie_Sie": "stellen her"
+      },
+      "praeteritum": {
+        "ich": "stellte her",
+        "er_sie_es": "stellte her"
+      },
+      "perfekt": "hat hergestellt"
+    },
+    "preposition": "aus + Dat.",
+    "example_de": "Der Betrieb stellt hochwertige Holzmöbel aus heimischen Bäumen her.",
+    "example_ar": "يَصْنَعُ المَصْنَعُ أَثَاثًا خَشَبِيًّا عَالِيَ الجَوْدَةِ مِنْ أَشْجَارٍ مَحَلِّيَّةٍ.",
+    "example_en": "The enterprise manufactures high-quality wooden furniture from local trees.",
+    "svg_icon": "content/assets/svg/verb_work_002.svg"
+  },
+  {
+    "id": "verb_work_003",
+    "infinitive": "planen",
+    "level": "A2",
+    "category": "Work & Career",
+    "arabic": "يُخَطِّطُ لِلمَشْرُوعِ",
+    "english": "to plan / schedule",
+    "conjugation": {
+      "praesens": {
+        "ich": "plane",
+        "du": "planst",
+        "er_sie_es": "plant",
+        "wir": "planen",
+        "ihr": "plant",
+        "sie_Sie": "planen"
+      },
+      "praeteritum": {
+        "ich": "plante",
+        "er_sie_es": "plante"
+      },
+      "perfekt": "hat geplant"
+    },
+    "preposition": "für + Akk.",
+    "example_de": "Das Team plant die nächsten Schritte für den Bau des Hauses.",
+    "example_ar": "يُخَطِّطُ الفَرِيقُ لِلخُطُوَاتِ التَّالِيَةِ لِبِنَاءِ المَنْزِلِ.",
+    "example_en": "The team plans the next steps for building the house.",
+    "svg_icon": "content/assets/svg/verb_work_003.svg"
+  },
+  {
+    "id": "verb_work_004",
+    "infinitive": "organisieren",
+    "level": "A2",
+    "category": "Work & Career",
+    "arabic": "يُنَظِّمُ المَهَامَّ",
+    "english": "to organize",
+    "conjugation": {
+      "praesens": {
+        "ich": "organisiere",
+        "du": "organisierst",
+        "er_sie_es": "organisiert",
+        "wir": "organisieren",
+        "ihr": "organisiert",
+        "sie_Sie": "organisieren"
+      },
+      "praeteritum": {
+        "ich": "organisierte",
+        "er_sie_es": "organisierte"
+      },
+      "perfekt": "hat organisiert"
+    },
+    "preposition": "in + Dat.",
+    "example_de": "Die Leiterin organisiert die Arbeitsabläufe in der Werkstatt vorbildlich.",
+    "example_ar": "تُنَظِّمُ المُدِيرَةُ مَسَارَاتِ العَمَلِ فِي الوَرْشَةِ بِشَكْلٍ نَمُوذَجِيٍّ.",
+    "example_en": "The manager organizes the workflows in the workshop exemplarily.",
+    "svg_icon": "content/assets/svg/verb_work_004.svg"
+  },
+  {
+    "id": "verb_work_005",
+    "infinitive": "prüfen",
+    "level": "A2",
+    "category": "Work & Career",
+    "arabic": "يَفْحَصُ وَيُدَقِّقُ الجَوْدَةَ",
+    "english": "to inspect / check",
+    "conjugation": {
+      "praesens": {
+        "ich": "prüfe",
+        "du": "prüfst",
+        "er_sie_es": "prüft",
+        "wir": "prüfen",
+        "ihr": "prüft",
+        "sie_Sie": "prüfen"
+      },
+      "praeteritum": {
+        "ich": "prüfte",
+        "er_sie_es": "prüfte"
+      },
+      "perfekt": "hat geprüft"
+    },
+    "preposition": "auf + Akk.",
+    "example_de": "Der Meister prüft jedes fertige Werkstück genau auf Fehler.",
+    "example_ar": "يَفْحَصُ المَسْؤُولُ كُلَّ قِطْعَةِ عَمَلٍ مُنْجَزَةٍ بِدِقَّةٍ خُلُوًّا مِنَ الأَخْطَاءِ.",
+    "example_en": "The master craftsman inspects each finished workpiece closely for flaws.",
+    "svg_icon": "content/assets/svg/verb_work_005.svg"
+  },
+  {
+    "id": "verb_work_006",
+    "infinitive": "entwickeln",
+    "level": "B1",
+    "category": "Work & Career",
+    "arabic": "يُطَوِّرُ حُلُولاً عَمَلِيَّةً",
+    "english": "to develop practical solutions",
+    "conjugation": {
+      "praesens": {
+        "ich": "entwickle",
+        "du": "entwickelst",
+        "er_sie_es": "entwickelt",
+        "wir": "entwickeln",
+        "ihr": "entwickelt",
+        "sie_Sie": "entwickeln"
+      },
+      "praeteritum": {
+        "ich": "entwickelte",
+        "er_sie_es": "entwickelte"
+      },
+      "perfekt": "hat entwickelt"
+    },
+    "preposition": "für + Akk.",
+    "example_de": "Ingenieure entwickeln innovative Techniken für den Umweltschutz.",
+    "example_ar": "يُطَوِّرُ المُهَنْدِسُونَ تِقْنِيَّاتٍ مُبْتَكَرَةً لِحِمَايَةِ البِيئَةِ.",
+    "example_en": "Engineers develop innovative technologies for environmental protection.",
+    "svg_icon": "content/assets/svg/verb_work_006.svg"
+  },
+  {
+    "id": "verb_work_007",
+    "infinitive": "montieren",
+    "level": "A2",
+    "category": "Work & Career",
+    "arabic": "يُرَكِّبُ الأَجْزَاءَ / يُجَمِّعُ",
+    "english": "to assemble / mount",
+    "conjugation": {
+      "praesens": {
+        "ich": "montiere",
+        "du": "montierst",
+        "er_sie_es": "montiert",
+        "wir": "montieren",
+        "ihr": "montiert",
+        "sie_Sie": "montieren"
+      },
+      "praeteritum": {
+        "ich": "montierte",
+        "er_sie_es": "montierte"
+      },
+      "perfekt": "hat montiert"
+    },
+    "preposition": "an + Dat.",
+    "example_de": "Der Handwerker montiert die neue Lampe fachgerecht an der Decke.",
+    "example_ar": "يُرَكِّبُ الحِرَفِيُّ المِصْبَاحَ الجَدِيدَ بِإِتْقَانٍ عَلَى السَّقْفِ.",
+    "example_en": "The craftsman professionally mounts the new lamp onto the ceiling.",
+    "svg_icon": "content/assets/svg/verb_work_007.svg"
+  },
+  {
+    "id": "verb_work_008",
+    "infinitive": "bedienen",
+    "level": "A2",
+    "category": "Work & Career",
+    "arabic": "يُشَغِّلُ الآلَةَ / يَخْدُمُ الزَّبَائِنَ",
+    "english": "to operate machinery / serve customers",
+    "conjugation": {
+      "praesens": {
+        "ich": "bediene",
+        "du": "bedienst",
+        "er_sie_es": "bedient",
+        "wir": "bedienen",
+        "ihr": "bedient",
+        "sie_Sie": "bedienen"
+      },
+      "praeteritum": {
+        "ich": "bediente",
+        "er_sie_es": "bediente"
+      },
+      "perfekt": "hat bedient"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Der Arbeiter bedient die moderne Maschine mit großer Aufmerksamkeit.",
+    "example_ar": "يُشَغِّلُ العَامِلُ الآلَةَ الحَدِيثَةَ بِانْتِبَاهٍ كَبِيرٍ.",
+    "example_en": "The worker operates the modern machine with close attentiveness.",
+    "svg_icon": "content/assets/svg/verb_work_008.svg"
+  },
+  {
+    "id": "verb_work_009",
+    "infinitive": "beraten",
+    "level": "A2",
+    "category": "Work & Career",
+    "arabic": "يَنْصَحُ / يُقَدِّمُ المَشُورَةَ",
+    "english": "to advise / consult",
+    "conjugation": {
+      "praesens": {
+        "ich": "berate",
+        "du": "berätst",
+        "er_sie_es": "berät",
+        "wir": "beraten",
+        "ihr": "beratet",
+        "sie_Sie": "beraten"
+      },
+      "praeteritum": {
+        "ich": "beriet",
+        "er_sie_es": "beriet"
+      },
+      "perfekt": "hat beraten"
+    },
+    "preposition": "bei + Dat.",
+    "example_de": "Die Beraterin unterstützt Kunden geduldig bei der richtigen Auswahl.",
+    "example_ar": "تُسَاعِدُ المُسْتَشَارَةُ الزَّبَائِنَ بِصَبْرٍ فِي الِاخْتِيَارِ المُنَاسِبِ.",
+    "example_en": "The consultant patiently assists clients with making the right choice.",
+    "svg_icon": "content/assets/svg/verb_work_009.svg"
+  },
+  {
+    "id": "verb_work_010",
+    "infinitive": "ausbilden",
+    "level": "B1",
+    "category": "Work & Career",
+    "arabic": "يُدَرِّبُ / يُؤَهِّلُ مِهْنِيًّا",
+    "english": "to train / apprentice",
+    "conjugation": {
+      "praesens": {
+        "ich": "bilde aus",
+        "du": "bildest aus",
+        "er_sie_es": "bildet aus",
+        "wir": "bilden aus",
+        "ihr": "bildet aus",
+        "sie_Sie": "bilden aus"
+      },
+      "praeteritum": {
+        "ich": "bildete aus",
+        "er_sie_es": "bildete aus"
+      },
+      "perfekt": "hat ausgebildet"
+    },
+    "preposition": "zu + Dat.",
+    "example_de": "Der Betrieb bildet jedes Jahr junge Menschen zu Fachkräften aus.",
+    "example_ar": "يُؤَهِّلُ المَصْنَعُ كُلَّ عَامٍ شَبَابًا لِيَكُونُوا كَوَادِرَ مُتَخَصِّصَةً.",
+    "example_en": "Every year the company trains young people to become skilled professionals.",
+    "svg_icon": "content/assets/svg/verb_work_010.svg"
+  },
+  {
+    "id": "verb_work_011",
+    "infinitive": "bewerben",
+    "level": "A2",
+    "category": "Work & Career",
+    "arabic": "يَتَقَدَّمُ بِطَلَبِ عَمَلٍ",
+    "english": "to apply for a job",
+    "conjugation": {
+      "praesens": {
+        "ich": "bewerbe mich",
+        "du": "bewirbst dich",
+        "er_sie_es": "bewirbt sich",
+        "wir": "bewerben uns",
+        "ihr": "bewerbt euch",
+        "sie_Sie": "bewerben sich"
+      },
+      "praeteritum": {
+        "ich": "bewarb mich",
+        "er_sie_es": "bewarb sich"
+      },
+      "perfekt": "hat sich beworben"
+    },
+    "preposition": "um + Akk.",
+    "example_de": "Er bewirbt sich hoffnungsvoll um die neue Arbeitsstelle.",
+    "example_ar": "يَتَقَدَّمُ بِأَمَلٍ بِطَلَبٍ لِشَغْلِ الوَظِيفَةِ الجَدِيدَةِ.",
+    "example_en": "He applies hopefully for the new job opening.",
+    "svg_icon": "content/assets/svg/verb_work_011.svg"
+  },
+  {
+    "id": "verb_work_012",
+    "infinitive": "einstellen",
+    "level": "A2",
+    "category": "Work & Career",
+    "arabic": "يُوَظِّفُ / يُعَيِّنُ",
+    "english": "to hire / employ",
+    "conjugation": {
+      "praesens": {
+        "ich": "stelle ein",
+        "du": "stellst ein",
+        "er_sie_es": "stellt ein",
+        "wir": "stellen ein",
+        "ihr": "stellt ein",
+        "sie_Sie": "stellen ein"
+      },
+      "praeteritum": {
+        "ich": "stellte ein",
+        "er_sie_es": "stellte ein"
+      },
+      "perfekt": "hat eingestellt"
+    },
+    "preposition": "als + Akk.",
+    "example_de": "Das Unternehmen stellt neue qualifizierte Mitarbeiter ein.",
+    "example_ar": "تُعَيِّنُ الشَّرِكَةُ مُوَظَّفِينَ جُدُدًا ذَوِي كَفَاءَةٍ.",
+    "example_en": "The enterprise hires new qualified employees.",
+    "svg_icon": "content/assets/svg/verb_work_012.svg"
+  },
+  {
+    "id": "verb_work_013",
+    "infinitive": "verdienen",
+    "level": "A1",
+    "category": "Work & Career",
+    "arabic": "يَكْسِبُ رِزْقًا / رَاتِبًا",
+    "english": "to earn an honest living",
+    "conjugation": {
+      "praesens": {
+        "ich": "verdiene",
+        "du": "verdienst",
+        "er_sie_es": "verdient",
+        "wir": "verdienen",
+        "ihr": "verdient",
+        "sie_Sie": "verdienen"
+      },
+      "praeteritum": {
+        "ich": "verdiente",
+        "er_sie_es": "verdiente"
+      },
+      "perfekt": "hat verdient"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Durch ehrliche und fleißige Arbeit verdient er den Lebensunterhalt.",
+    "example_ar": "بِالعَمَلِ الصَّادِقِ الدَّؤُوبِ يَكْسِبُ قُوتَ يَوْمِهِ بِحَلَالٍ.",
+    "example_en": "Through honest and diligent work, he earns his livelihood.",
+    "svg_icon": "content/assets/svg/verb_work_013.svg"
+  },
+  {
+    "id": "verb_work_014",
+    "infinitive": "zusammenarbeiten",
+    "level": "A2",
+    "category": "Work & Career",
+    "arabic": "يَتَعَاوَنُ فِي العَمَلِ",
+    "english": "to cooperate / collaborate",
+    "conjugation": {
+      "praesens": {
+        "ich": "arbeite zusammen",
+        "du": "arbeitest zusammen",
+        "er_sie_es": "arbeitet zusammen",
+        "wir": "arbeiten zusammen",
+        "ihr": "arbeitet zusammen",
+        "sie_Sie": "arbeiten zusammen"
+      },
+      "praeteritum": {
+        "ich": "arbeitete zusammen",
+        "er_sie_es": "arbeitete zusammen"
+      },
+      "perfekt": "hat zusammengearbeitet"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Alle Abteilungen arbeiten eng zusammen, um das Ziel pünktlich zu erreichen.",
+    "example_ar": "تَتَعَاوَنُ جَمِيعُ الأَقْسَامِ عَنْ كَثَبٍ لِتَحْقِيقِ الهَدَفِ فِي المَوْعِدِ.",
+    "example_en": "All departments collaborate closely to achieve the goal on schedule.",
+    "svg_icon": "content/assets/svg/verb_work_014.svg"
+  },
+  {
+    "id": "verb_work_015",
+    "infinitive": "vereinbaren",
+    "level": "A2",
+    "category": "Work & Career",
+    "arabic": "يَتَّفِقُ عَلَى مَوْعِدٍ",
+    "english": "to arrange an appointment",
+    "conjugation": {
+      "praesens": {
+        "ich": "vereinbare",
+        "du": "vereinbarst",
+        "er_sie_es": "vereinbart",
+        "wir": "vereinbaren",
+        "ihr": "vereinbart",
+        "sie_Sie": "vereinbaren"
+      },
+      "praeteritum": {
+        "ich": "vereinbarte",
+        "er_sie_es": "vereinbarte"
+      },
+      "perfekt": "hat vereinbart"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Ich vereinbare telefonisch einen passenden Termin für die Besprechung.",
+    "example_ar": "أَتَّفِقُ هَاتِفِيًّا عَلَى مَوْعِدٍ مُنَاسِبٍ لِلِاجْتِمَاعِ.",
+    "example_en": "I arrange a suitable appointment for the meeting by phone.",
+    "svg_icon": "content/assets/svg/verb_work_015.svg"
+  },
+  {
+    "id": "verb_work_016",
+    "infinitive": "erklären",
+    "level": "A2",
+    "category": "Work & Career",
+    "arabic": "يَشْرَحُ وَيُوَضِّحُ المَهَامَّ",
+    "english": "to explain clearly",
+    "conjugation": {
+      "praesens": {
+        "ich": "erkläre",
+        "du": "erklärst",
+        "er_sie_es": "erklärt",
+        "wir": "erklären",
+        "ihr": "erklärt",
+        "sie_Sie": "erklären"
+      },
+      "praeteritum": {
+        "ich": "erklärte",
+        "er_sie_es": "erklärte"
+      },
+      "perfekt": "hat erklärt"
+    },
+    "preposition": "auf + Akk.",
+    "example_de": "Der Meister erklärt dem Lehrling den Ablauf Schritt für Schritt.",
+    "example_ar": "يَشْرَحُ المَسْؤُولُ لِلمُتَدَرِّبِ سَيْرَ العَمَلِ خُطْوَةً بِخُطْوَةٍ.",
+    "example_en": "The master craftsman explains the workflow step-by-step to the apprentice.",
+    "svg_icon": "content/assets/svg/verb_work_016.svg"
+  },
+  {
+    "id": "verb_work_017",
+    "infinitive": "verbessern",
+    "level": "A2",
+    "category": "Work & Career",
+    "arabic": "يُحَسِّنُ الأَدَاءَ",
+    "english": "to improve work performance",
+    "conjugation": {
+      "praesens": {
+        "ich": "verbessere",
+        "du": "verbesserst",
+        "er_sie_es": "verbessert",
+        "wir": "verbessern",
+        "ihr": "verbessert",
+        "sie_Sie": "verbessern"
+      },
+      "praeteritum": {
+        "ich": "verbesserte",
+        "er_sie_es": "verbesserte"
+      },
+      "perfekt": "hat verbessert"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Durch tägliche Übung verbessern wir unsere handwerklichen Fertigkeiten.",
+    "example_ar": "بِالمُمَارَسَةِ اليَوْمِيَّةِ نُحَسِّنُ مَهَارَاتِنَا الحِرَفِيَّةَ.",
+    "example_en": "Through daily practice, we improve our craftsmanship skills.",
+    "svg_icon": "content/assets/svg/verb_work_017.svg"
+  },
+  {
+    "id": "verb_work_018",
+    "infinitive": "leiten",
+    "level": "B1",
+    "category": "Work & Career",
+    "arabic": "يَقُودُ / يُدِيرُ المَشْرُوعَ",
+    "english": "to lead / manage",
+    "conjugation": {
+      "praesens": {
+        "ich": "leite",
+        "du": "leitest",
+        "er_sie_es": "leitet",
+        "wir": "leiten",
+        "ihr": "leitet",
+        "sie_Sie": "leiten"
+      },
+      "praeteritum": {
+        "ich": "leitete",
+        "er_sie_es": "leitete"
+      },
+      "perfekt": "hat geleitet"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Die Ingenieurin leitet das Bauvorhaben mit großer Fachkompetenz.",
+    "example_ar": "تَقُودُ المُهَنْدِسَةُ مَشْرُوعَ البِنَاءِ بِكِفَايَةٍ مِهْنِيَّةٍ عَالِيَةٍ.",
+    "example_en": "The engineer leads the construction project with immense expertise.",
+    "svg_icon": "content/assets/svg/verb_work_018.svg"
+  },
+  {
+    "id": "verb_work_019",
+    "infinitive": "verhandeln",
+    "level": "B1",
+    "category": "Work & Career",
+    "arabic": "يَتَفَاوَضُ بِإِنْصَافٍ",
+    "english": "to negotiate fairly",
+    "conjugation": {
+      "praesens": {
+        "ich": "verhandle",
+        "du": "verhandelst",
+        "er_sie_es": "verhandelt",
+        "wir": "verhandeln",
+        "ihr": "verhandelt",
+        "sie_Sie": "verhandeln"
+      },
+      "praeteritum": {
+        "ich": "verhandelte",
+        "er_sie_es": "verhandelte"
+      },
+      "perfekt": "hat verhandelt"
+    },
+    "preposition": "über + Akk.",
+    "example_de": "Die Kaufleute verhandeln fair über die Preise und Lieferfristen.",
+    "example_ar": "يَتَفَاوَضُ التُّجَّارُ بِإِنْصَافٍ حَوْلَ الأَسْعَارِ وَمَوَاعِيدِ التَّسْلِيمِ.",
+    "example_en": "The merchants negotiate fairly regarding pricing and delivery schedules.",
+    "svg_icon": "content/assets/svg/verb_work_019.svg"
+  },
+  {
+    "id": "verb_work_020",
+    "infinitive": "abschließen",
+    "level": "A2",
+    "category": "Work & Career",
+    "arabic": "يُتِمُّ المَهَمَّةَ بِنَجَاحٍ",
+    "english": "to conclude / finish a project",
+    "conjugation": {
+      "praesens": {
+        "ich": "schließe ab",
+        "du": "schließt ab",
+        "er_sie_es": "schließt ab",
+        "wir": "schließen ab",
+        "ihr": "schließt ab",
+        "sie_Sie": "schließen ab"
+      },
+      "praeteritum": {
+        "ich": "schloss ab",
+        "er_sie_es": "schloss ab"
+      },
+      "perfekt": "hat abgeschlossen"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Wir schließen das erfolgreiche Projekt pünktlich zum Monatsende ab.",
+    "example_ar": "نُتِمُّ المَشْرُوعَ النَّاجِحَ فِي المَوْعِدِ المُحَدَّدِ نِهَايَةَ الشَّهْرِ.",
+    "example_en": "We conclude the successful project on schedule by the end of the month.",
+    "svg_icon": "content/assets/svg/verb_work_020.svg"
+  }
+]
