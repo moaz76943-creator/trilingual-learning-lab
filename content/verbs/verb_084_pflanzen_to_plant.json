@@ -1,0 +1,34 @@
+{
+  "verb_id": "v084",
+  "infinitive_de": "pflanzen",
+  "root_ar": "غَرَسَ",
+  "infinitive_en": "to plant",
+  "level": "A1",
+  "present": {
+    "ich": "pflanze",
+    "du": "pflanzt",
+    "er_sie_es": "pflanzt",
+    "wir": "pflanzen",
+    "ihr": "pflanzt",
+    "sie_Sie": "pflanzen"
+  },
+  "past": {
+    "ich": "pflanzte",
+    "du": "pflanztest",
+    "er_sie_es": "pflanzte",
+    "wir": "pflanzten",
+    "ihr": "pflanztet",
+    "sie_Sie": "pflanzten"
+  },
+  "perfect": {
+    "auxiliary": "haben",
+    "participle": "gepflanzt"
+  },
+  "examples": [
+    {
+      "german": "Ich pflanze eine Blume im Garten.",
+      "arabic": "أَنَا أَغْرِسُ زَهْرَةً فِي الْحَدِيقَةِ.",
+      "english": "I plant a flower in the garden."
+    }
+  ]
+}

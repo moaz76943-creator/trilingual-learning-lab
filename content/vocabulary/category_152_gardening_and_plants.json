@@ -1,0 +1,234 @@
+{
+  "category_id": "c152",
+  "name_ar": "الْحَدِيقَةُ الْمَنْزِلِيَّةُ وَالْعِنَايَةُ بِالنَّبَاتَاتِ",
+  "name_de": "Hausgarten und Pflanzenpflege",
+  "name_en": "Home Gardening and Plant Care",
+  "level": "A1-A2",
+  "concepts": [
+    {
+      "id": "c152_001",
+      "arabic": "حَدِيقَةٌ",
+      "german": "Garten",
+      "article": "der",
+      "plural": "Gärten",
+      "english": "garden",
+      "level": "A1"
+    },
+    {
+      "id": "c152_002",
+      "arabic": "نَبْتَةٌ",
+      "german": "Pflanze",
+      "article": "die",
+      "plural": "Pflanzen",
+      "english": "plant",
+      "level": "A1"
+    },
+    {
+      "id": "c152_003",
+      "arabic": "شَجَرَةٌ",
+      "german": "Baum",
+      "article": "der",
+      "plural": "Bäume",
+      "english": "tree",
+      "level": "A1"
+    },
+    {
+      "id": "c152_004",
+      "arabic": "زَهْرَةٌ",
+      "german": "Blume",
+      "article": "die",
+      "plural": "Blumen",
+      "english": "flower",
+      "level": "A1"
+    },
+    {
+      "id": "c152_005",
+      "arabic": "وَرَقَةُ شَجَرٍ",
+      "german": "Blatt",
+      "article": "das",
+      "plural": "Blätter",
+      "english": "leaf",
+      "level": "A1"
+    },
+    {
+      "id": "c152_006",
+      "arabic": "غُصْنٌ",
+      "german": "Ast",
+      "article": "der",
+      "plural": "Äste",
+      "english": "branch",
+      "level": "A2"
+    },
+    {
+      "id": "c152_007",
+      "arabic": "تُرْبَةٌ",
+      "german": "Erde",
+      "article": "die",
+      "plural": "Erden",
+      "english": "soil",
+      "level": "A1"
+    },
+    {
+      "id": "c152_008",
+      "arabic": "بِذْرَةٌ",
+      "german": "Samen",
+      "article": "der",
+      "plural": "Samen",
+      "english": "seed",
+      "level": "A1"
+    },
+    {
+      "id": "c152_009",
+      "arabic": "سِمَادٌ طَبِيعِيٌّ",
+      "german": "Kompost",
+      "article": "der",
+      "plural": "Komposte",
+      "english": "compost",
+      "level": "A2"
+    },
+    {
+      "id": "c152_010",
+      "arabic": "مِرَشَّةُ الْمَاءِ",
+      "german": "Gießkanne",
+      "article": "die",
+      "plural": "Gießkannen",
+      "english": "watering can",
+      "level": "A1"
+    },
+    {
+      "id": "c152_011",
+      "arabic": "مِجْرَفَةٌ",
+      "german": "Schaufel",
+      "article": "die",
+      "plural": "Schaufeln",
+      "english": "trowel / shovel",
+      "level": "A2"
+    },
+    {
+      "id": "c152_012",
+      "arabic": "مِقَصُّ الْأَشْجَارِ",
+      "german": "Gartenschere",
+      "article": "die",
+      "plural": "Gartenscheren",
+      "english": "pruning shears",
+      "level": "A2"
+    },
+    {
+      "id": "c152_013",
+      "arabic": "خُرْطُومُ الْمَاءِ",
+      "german": "Gartenschlauch",
+      "article": "der",
+      "plural": "Gartenschläuche",
+      "english": "garden hose",
+      "level": "A1"
+    },
+    {
+      "id": "c152_014",
+      "arabic": "أَصِيصُ زُهُورٍ",
+      "german": "Blumentopf",
+      "article": "der",
+      "plural": "Blumentöpfe",
+      "english": "flower pot",
+      "level": "A1"
+    },
+    {
+      "id": "c152_015",
+      "arabic": "ضَوْءُ الشَّمْسِ",
+      "german": "Sonnenlicht",
+      "article": "das",
+      "plural": "Sonnenlichter",
+      "english": "sunlight",
+      "level": "A1"
+    },
+    {
+      "id": "c152_016",
+      "arabic": "ظِلٌّ",
+      "german": "Schatten",
+      "article": "der",
+      "plural": "Schatten",
+      "english": "shade",
+      "level": "A1"
+    },
+    {
+      "id": "c152_017",
+      "arabic": "سِقَايَةٌ",
+      "german": "Bewässerung",
+      "article": "die",
+      "plural": "Bewässerungen",
+      "english": "watering",
+      "level": "A1"
+    },
+    {
+      "id": "c152_018",
+      "arabic": "جُذُورٌ",
+      "german": "Wurzel",
+      "article": "die",
+      "plural": "Wurzeln",
+      "english": "roots",
+      "level": "A2"
+    },
+    {
+      "id": "c152_019",
+      "arabic": "بُرْعُمٌ",
+      "german": "Knospe",
+      "article": "die",
+      "plural": "Knospen",
+      "english": "bud",
+      "level": "A2"
+    },
+    {
+      "id": "c152_020",
+      "arabic": "ثَمَرَةٌ",
+      "german": "Frucht",
+      "article": "die",
+      "plural": "Früchte",
+      "english": "fruit",
+      "level": "A1"
+    },
+    {
+      "id": "c152_021",
+      "arabic": "حَصَادٌ",
+      "german": "Ernte",
+      "article": "die",
+      "plural": "Ernten",
+      "english": "harvest",
+      "level": "A2"
+    },
+    {
+      "id": "c152_022",
+      "arabic": "عُشْبٌ أَخْضَرُ",
+      "german": "Gras",
+      "article": "das",
+      "plural": "Gräser",
+      "english": "green grass",
+      "level": "A1"
+    },
+    {
+      "id": "c152_023",
+      "arabic": "شُجَيْرَةٌ",
+      "german": "Strauch",
+      "article": "der",
+      "plural": "Sträucher",
+      "english": "shrub / bush",
+      "level": "A2"
+    },
+    {
+      "id": "c152_024",
+      "arabic": "نَحْلَةٌ",
+      "german": "Biene",
+      "article": "die",
+      "plural": "Bienen",
+      "english": "bee",
+      "level": "A1"
+    },
+    {
+      "id": "c152_025",
+      "arabic": "فَرَاشَةٌ",
+      "german": "Schmetterling",
+      "article": "der",
+      "plural": "Schmetterlinge",
+      "english": "butterfly",
+      "level": "A1"
+    }
+  ]
+}

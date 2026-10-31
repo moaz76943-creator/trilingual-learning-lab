@@ -1,5 +1,5 @@
 {
-  "count": 730,
+  "count": 750,
   "sentences": [
     {
       "id": "sent_001",
@@ -14537,6 +14537,197 @@
         "Kunst",
         "Schönheit",
         "inspirieren"
+      ]
+    },
+    {
+      "id": "s751",
+      "german": "Der Garten ist sehr schön und grün.",
+      "arabic": "الْحَدِيقَةُ جَمِيلَةٌ جِدًّا وَخَضْرَاءُ.",
+      "english": "The garden is very beautiful and green.",
+      "concept_refs": [
+        "c152_001"
+      ]
+    },
+    {
+      "id": "s752",
+      "german": "Ich gieße die Blumen jeden Morgen.",
+      "arabic": "أَنَا أَسْقِي الزُّهُورَ كُلَّ صَبَاحٍ.",
+      "english": "I water the flowers every morning.",
+      "concept_refs": [
+        "c152_004",
+        "c152_017"
+      ]
+    },
+    {
+      "id": "s753",
+      "german": "Der Baum braucht viel Sonnenlicht.",
+      "arabic": "الشَّجَرَةُ تَحْتَاجُ إِلَى كَثِيرٍ مِنْ ضَوْءِ الشَّمْسِ.",
+      "english": "The tree needs a lot of sunlight.",
+      "concept_refs": [
+        "c152_003",
+        "c152_015"
+      ]
+    },
+    {
+      "id": "s754",
+      "german": "Wir pflanzen heute frische Samen.",
+      "arabic": "نَحْنُ نَغْرِسُ الْيَوْمَ بُذُورًا طَازَجَةً.",
+      "english": "We are planting fresh seeds today.",
+      "concept_refs": [
+        "c152_008",
+        "v084"
+      ]
+    },
+    {
+      "id": "s755",
+      "german": "Die Gießkanne steht neben der Tür.",
+      "arabic": "مِرَشَّةُ الْمَاءِ تَقِفُ بِجَانِبِ الْبَابِ.",
+      "english": "The watering can is next to the door.",
+      "concept_refs": [
+        "c152_010"
+      ]
+    },
+    {
+      "id": "s756",
+      "german": "Die Erde im Topf ist feucht.",
+      "arabic": "التُّرْبَةُ فِي الْأَصِيصِ رَطْبَةٌ.",
+      "english": "The soil in the pot is moist.",
+      "concept_refs": [
+        "c152_007",
+        "c152_014"
+      ]
+    },
+    {
+      "id": "s757",
+      "german": "Ein grünes Blatt fällt vom Ast.",
+      "arabic": "وَرَقَةٌ خَضْرَاءُ تَسْقُطُ مِنَ الْغُصْنِ.",
+      "english": "A green leaf falls from the branch.",
+      "concept_refs": [
+        "c152_005",
+        "c152_006"
+      ]
+    },
+    {
+      "id": "s758",
+      "german": "Die Bienen fliegen um die Blüten.",
+      "arabic": "النَّحْلُ يَطِيرُ حَوْلَ الْأَزْهَارِ.",
+      "english": "The bees are flying around the blossoms.",
+      "concept_refs": [
+        "c152_024",
+        "c152_004"
+      ]
+    },
+    {
+      "id": "s759",
+      "german": "Eine bunte Schmetterling sitzt auf dem Strauch.",
+      "arabic": "فَرَاشَةٌ مُلَوَّنَةٌ تَجْلِسُ عَلَى الشُّجَيْرَةِ.",
+      "english": "A colorful butterfly sits on the shrub.",
+      "concept_refs": [
+        "c152_025",
+        "c152_023"
+      ]
+    },
+    {
+      "id": "s760",
+      "german": "Wir sitzen gerne im kühlen Schatten.",
+      "arabic": "نَحْنُ نُحِبُّ الْجُلُوسَ فِي الظِّلِّ الْبَارِدِ.",
+      "english": "We like sitting in the cool shade.",
+      "concept_refs": [
+        "c152_016"
+      ]
+    },
+    {
+      "id": "s761",
+      "german": "Die Schaufel ist nützlich für die Gartenarbeit.",
+      "arabic": "الْمِجْرَفَةُ مُفِيدَةٌ لِأَعْمَالِ الْحَدِيقَةِ.",
+      "english": "The shovel is useful for gardening.",
+      "concept_refs": [
+        "c152_011"
+      ]
+    },
+    {
+      "id": "s762",
+      "german": "Er schneidet die Äste mit der Gartenschere.",
+      "arabic": "هُوَ يَقُصُّ الْأَغْصَانَ بِمِقَصِّ الْأَشْجَارِ.",
+      "english": "He trims the branches with the pruning shears.",
+      "concept_refs": [
+        "c152_012",
+        "c152_006"
+      ]
+    },
+    {
+      "id": "s763",
+      "german": "Der Gartenschlauch ist sehr lang.",
+      "arabic": "خُرْطُومُ الْمَاءِ طَوِيلٌ جِدًّا.",
+      "english": "The garden hose is very long.",
+      "concept_refs": [
+        "c152_013"
+      ]
+    },
+    {
+      "id": "s764",
+      "german": "Die Wurzeln wachsen tief in die Erde.",
+      "arabic": "الْجُذُورُ تَنْمُو عَمِيقًا فِي التُّرْبَةِ.",
+      "english": "The roots grow deep into the soil.",
+      "concept_refs": [
+        "c152_018",
+        "c152_007"
+      ]
+    },
+    {
+      "id": "s765",
+      "german": "Im Frühling öffnet sich die Knospe.",
+      "arabic": "فِي الرَّبِيعِ تَتَفَتَّحُ الْبُرْعُمُ.",
+      "english": "In spring the bud opens.",
+      "concept_refs": [
+        "c152_019"
+      ]
+    },
+    {
+      "id": "s766",
+      "german": "Der Apfelbaum trägt süße Früchte.",
+      "arabic": "شَجَرَةُ التُّفَّاحِ تَحْمِلُ ثِمَارًا حُلْوَةً.",
+      "english": "The apple tree bears sweet fruits.",
+      "concept_refs": [
+        "c152_020",
+        "c152_003"
+      ]
+    },
+    {
+      "id": "s767",
+      "german": "Die Ernte dieses Jahres ist reichlich.",
+      "arabic": "حَصَادُ هَذَا الْعَامِ وَفِيرٌ.",
+      "english": "This year's harvest is plentiful.",
+      "concept_refs": [
+        "c152_021"
+      ]
+    },
+    {
+      "id": "s768",
+      "german": "Die Kinder spielen auf dem grünen Gras.",
+      "arabic": "الْأَطْفَالُ يَلْعَبُونَ عَلَى الْعُشْبِ الْأَخْضَرِ.",
+      "english": "The children are playing on the green grass.",
+      "concept_refs": [
+        "c152_022"
+      ]
+    },
+    {
+      "id": "s769",
+      "german": "Kompost verbessert die Qualität des Bodens.",
+      "arabic": "السِّمَادُ الطَّبِيعِيُّ يُحَسِّنُ جَوْدَةَ التُّرْبَةِ.",
+      "english": "Compost improves the quality of the soil.",
+      "concept_refs": [
+        "c152_009"
+      ]
+    },
+    {
+      "id": "s770",
+      "german": "Mein Vater pflanzt gerne Tomaten.",
+      "arabic": "وَالِدِي يُحِبُّ أَنْ يَغْرِسَ الطَّمَاطِمَ.",
+      "english": "My father likes to plant tomatoes.",
+      "concept_refs": [
+        "v084",
+        "c152_002"
       ]
     }
   ]
