@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <defs>
+    <linearGradient id="grad_h_9" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1565C0" />
+      <stop offset="100%" stop-color="#42A5F5" />
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="18" fill="url(#grad_h_9)" />
+  <!-- Home & Cozy roof motif -->
+  <polygon points="50,22 80,48 20,48" fill="#FFFFFF" opacity="0.9"/>
+  <rect x="28" y="48" width="44" height="28" rx="2" fill="#FFFFFF" opacity="0.8"/>
+  <rect x="42" y="56" width="16" height="20" rx="1" fill="#1565C0"/>
+  <text x="50" y="90" font-family="system-ui, sans-serif" font-size="6.5" font-weight="bold" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.5">HOME-10</text>
+</svg>

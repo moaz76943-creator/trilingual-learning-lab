@@ -1,0 +1,562 @@
+[
+  {
+    "id": "verb_daily_001",
+    "infinitive": "aufstehen",
+    "level": "A1",
+    "category": "Daily Routine",
+    "arabic": "يَسْتَيْقِظُ / يَنْهَضُ مِنَ النَّوْمِ",
+    "english": "to get up / rise",
+    "conjugation": {
+      "praesens": {
+        "ich": "stehe auf",
+        "du": "stehst auf",
+        "er_sie_es": "steht auf",
+        "wir": "stehen auf",
+        "ihr": "steht auf",
+        "sie_Sie": "stehen auf"
+      },
+      "praeteritum": {
+        "ich": "stand auf",
+        "er_sie_es": "stand auf"
+      },
+      "perfekt": "ist aufgestanden"
+    },
+    "preposition": "um + Akk.",
+    "example_de": "Ich stehe jeden Morgen früh um sechs Uhr auf.",
+    "example_ar": "أَسْتَيْقِظُ كُلَّ صَبَاحٍ بَاكِرًا عِنْدَ السَّاعَةِ السَّادِسَةِ.",
+    "example_en": "I get up early every morning at six o'clock.",
+    "svg_icon": "content/assets/svg/verb_daily_001.svg"
+  },
+  {
+    "id": "verb_daily_002",
+    "infinitive": "frühstücken",
+    "level": "A1",
+    "category": "Daily Routine",
+    "arabic": "يَتَنَاوَلُ فُطُورَ الصَّبَاحِ",
+    "english": "to have breakfast",
+    "conjugation": {
+      "praesens": {
+        "ich": "frühstücke",
+        "du": "frühstückst",
+        "er_sie_es": "frühstückt",
+        "wir": "frühstücken",
+        "ihr": "frühstückt",
+        "sie_Sie": "frühstücken"
+      },
+      "praeteritum": {
+        "ich": "frühstückte",
+        "er_sie_es": "frühstückte"
+      },
+      "perfekt": "hat gefrühstückt"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Die Familie frühstückt gemeinsam mit Brot, Honig und Oliven.",
+    "example_ar": "تُفْطِرُ العَائِلَةُ مَعًا عَلَى الخُبْزِ، وَالعَسَلِ، وَالزَّيْتُونِ.",
+    "example_en": "The family has breakfast together with bread, honey, and olives.",
+    "svg_icon": "content/assets/svg/verb_daily_002.svg"
+  },
+  {
+    "id": "verb_daily_003",
+    "infinitive": "kochen",
+    "level": "A1",
+    "category": "Daily Routine",
+    "arabic": "يَطْبُخُ / يُعِدُّ الطَّعَامَ",
+    "english": "to cook",
+    "conjugation": {
+      "praesens": {
+        "ich": "koche",
+        "du": "kochst",
+        "er_sie_es": "kocht",
+        "wir": "kochen",
+        "ihr": "kocht",
+        "sie_Sie": "kochen"
+      },
+      "praeteritum": {
+        "ich": "kochte",
+        "er_sie_es": "kochte"
+      },
+      "perfekt": "hat gekocht"
+    },
+    "preposition": "für + Akk.",
+    "example_de": "Mein Vater kocht heute eine köstliche Gemüsesuppe für alle.",
+    "example_ar": "يَطْبُخُ وَالِدِي اليَوْمَ حَسَاءَ خُضَارٍ لَذِيذًا لِلجَمِيعِ.",
+    "example_en": "My father is cooking a delicious vegetable soup for everyone today.",
+    "svg_icon": "content/assets/svg/verb_daily_003.svg"
+  },
+  {
+    "id": "verb_daily_004",
+    "infinitive": "aufräumen",
+    "level": "A1",
+    "category": "Daily Routine",
+    "arabic": "يُرَتِّبُ / يُنَظِّمُ الغُرْفَةَ",
+    "english": "to tidy up / clean up",
+    "conjugation": {
+      "praesens": {
+        "ich": "räume auf",
+        "du": "räumst auf",
+        "er_sie_es": "räumt auf",
+        "wir": "räumen auf",
+        "ihr": "räumt auf",
+        "sie_Sie": "räumen auf"
+      },
+      "praeteritum": {
+        "ich": "räumte auf",
+        "er_sie_es": "räumte auf"
+      },
+      "perfekt": "hat aufgeräumt"
+    },
+    "preposition": "in + Dat.",
+    "example_de": "Die Kinder räumen ihre Spielsachen ordentlich im Zimmer auf.",
+    "example_ar": "يُرَتِّبُ الأَطْفَالُ أَلْعَابَهُمْ بِنِظَامٍ فِي الغُرْفَةِ.",
+    "example_en": "The children tidy up their toys neatly in the room.",
+    "svg_icon": "content/assets/svg/verb_daily_004.svg"
+  },
+  {
+    "id": "verb_daily_005",
+    "infinitive": "putzen",
+    "level": "A1",
+    "category": "Daily Routine",
+    "arabic": "يُنَظِّفُ / يَغْسِلُ الأَسْنَانَ أَوِ البَيْتَ",
+    "english": "to clean / brush",
+    "conjugation": {
+      "praesens": {
+        "ich": "putze",
+        "du": "putzt",
+        "er_sie_es": "putzt",
+        "wir": "putzen",
+        "ihr": "putzt",
+        "sie_Sie": "putzen"
+      },
+      "praeteritum": {
+        "ich": "putzte",
+        "er_sie_es": "putzte"
+      },
+      "perfekt": "hat geputzt"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Ich putze mir nach jedem Essen gründlich die Zähne.",
+    "example_ar": "أُنَظِّفُ أَسْنَانِي بِعِنَايَةٍ بَعْدَ كُلِّ وَجْبَةِ طَعَامٍ.",
+    "example_en": "I brush my teeth thoroughly after every meal.",
+    "svg_icon": "content/assets/svg/verb_daily_005.svg"
+  },
+  {
+    "id": "verb_daily_006",
+    "infinitive": "waschen",
+    "level": "A1",
+    "category": "Daily Routine",
+    "arabic": "يَغْسِلُ بِالمَاءِ",
+    "english": "to wash",
+    "conjugation": {
+      "praesens": {
+        "ich": "wasche",
+        "du": "wäschst",
+        "er_sie_es": "wäscht",
+        "wir": "waschen",
+        "ihr": "wascht",
+        "sie_Sie": "waschen"
+      },
+      "praeteritum": {
+        "ich": "wusch",
+        "er_sie_es": "wusch"
+      },
+      "perfekt": "hat gewaschen"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Vor dem Essen waschen wir die Hände immer mit Wasser und Seife.",
+    "example_ar": "قَبْلَ الطَّعَامِ نَغْسِلُ أَيْدِيَنَا دَائِمًا بِالمَاءِ وَالصَّابُونِ.",
+    "example_en": "Before eating, we always wash our hands with water and soap.",
+    "svg_icon": "content/assets/svg/verb_daily_006.svg"
+  },
+  {
+    "id": "verb_daily_007",
+    "infinitive": "einkaufen",
+    "level": "A1",
+    "category": "Daily Routine",
+    "arabic": "يَتَسَوَّقُ / يَشْتَرِي المَوَادَّ",
+    "english": "to go shopping",
+    "conjugation": {
+      "praesens": {
+        "ich": "kaufe ein",
+        "du": "kaufst ein",
+        "er_sie_es": "kauft ein",
+        "wir": "kaufen ein",
+        "ihr": "kauft ein",
+        "sie_Sie": "kaufen ein"
+      },
+      "praeteritum": {
+        "ich": "kaufte ein",
+        "er_sie_es": "kaufte ein"
+      },
+      "perfekt": "hat eingekauft"
+    },
+    "preposition": "auf + Dat.",
+    "example_de": "Am Samstag kaufen wir frisches Obst auf dem Markt ein.",
+    "example_ar": "يَوْمَ السَّبْتِ نَتَسَوَّقُ فَوَاكِهَ طَازَجَةً مِنَ السُّوقِ.",
+    "example_en": "On Saturday we shop for fresh fruit at the market.",
+    "svg_icon": "content/assets/svg/verb_daily_007.svg"
+  },
+  {
+    "id": "verb_daily_008",
+    "infinitive": "schlafen",
+    "level": "A1",
+    "category": "Daily Routine",
+    "arabic": "يَنَامُ",
+    "english": "to sleep",
+    "conjugation": {
+      "praesens": {
+        "ich": "schlafe",
+        "du": "schläfst",
+        "er_sie_es": "schläft",
+        "wir": "schlafen",
+        "ihr": "schlaft",
+        "sie_Sie": "schlafen"
+      },
+      "praeteritum": {
+        "ich": "schlief",
+        "er_sie_es": "schlief"
+      },
+      "perfekt": "hat geschlafen"
+    },
+    "preposition": "in + Dat.",
+    "example_de": "Das kleine Kind schläft friedlich in seinem Bettchen.",
+    "example_ar": "يَنَامُ الطِّفْلُ الصَّغِيرُ بِسَلَامٍ فِي سَرِيرِهِ.",
+    "example_en": "The young child sleeps peacefully in its little bed.",
+    "svg_icon": "content/assets/svg/verb_daily_008.svg"
+  },
+  {
+    "id": "verb_daily_009",
+    "infinitive": "lesen",
+    "level": "A1",
+    "category": "Daily Routine",
+    "arabic": "يَقْرَأُ",
+    "english": "to read",
+    "conjugation": {
+      "praesens": {
+        "ich": "lese",
+        "du": "liest",
+        "er_sie_es": "liest",
+        "wir": "lesen",
+        "ihr": "lest",
+        "sie_Sie": "lesen"
+      },
+      "praeteritum": {
+        "ich": "las",
+        "er_sie_es": "las"
+      },
+      "perfekt": "hat gelesen"
+    },
+    "preposition": "aus + Dat.",
+    "example_de": "Der Großvater liest den Enkeln eine lehrreiche Geschichte vor.",
+    "example_ar": "يَقْرَأُ الجَدُّ لِأَحْفَادِهِ قِصَّةً ذَاتَ مَوْعِظَةٍ.",
+    "example_en": "The grandfather reads an instructive story to his grandchildren.",
+    "svg_icon": "content/assets/svg/verb_daily_009.svg"
+  },
+  {
+    "id": "verb_daily_010",
+    "infinitive": "schreiben",
+    "level": "A1",
+    "category": "Daily Routine",
+    "arabic": "يَكْتُبُ",
+    "english": "to write",
+    "conjugation": {
+      "praesens": {
+        "ich": "schreibe",
+        "du": "schreibst",
+        "er_sie_es": "schreibt",
+        "wir": "schreiben",
+        "ihr": "schreibt",
+        "sie_Sie": "schreiben"
+      },
+      "praeteritum": {
+        "ich": "schrieb",
+        "er_sie_es": "schrieb"
+      },
+      "perfekt": "hat geschrieben"
+    },
+    "preposition": "an + Akk.",
+    "example_de": "Ich schreibe einen herzlichen Brief an meine liebe Mutter.",
+    "example_ar": "أَكْتُبُ رِسَالَةً قَلْبِيَّةً إِلَى وَالِدَتِي الحَبِيبَةِ.",
+    "example_en": "I am writing a heartfelt letter to my dear mother.",
+    "svg_icon": "content/assets/svg/verb_daily_010.svg"
+  },
+  {
+    "id": "verb_daily_011",
+    "infinitive": "trinken",
+    "level": "A1",
+    "category": "Daily Routine",
+    "arabic": "يَشْرَبُ مَاءً أَوْ شَايًا",
+    "english": "to drink",
+    "conjugation": {
+      "praesens": {
+        "ich": "trinke",
+        "du": "trinkst",
+        "er_sie_es": "trinkt",
+        "wir": "trinken",
+        "ihr": "trinkt",
+        "sie_Sie": "trinken"
+      },
+      "praeteritum": {
+        "ich": "trank",
+        "er_sie_es": "trank"
+      },
+      "perfekt": "hat getrunken"
+    },
+    "preposition": "aus + Dat.",
+    "example_de": "Ich trinke tagsüber reichlich klares Wasser für meine Gesundheit.",
+    "example_ar": "أَشْرَبُ خِلَالَ النَّهَارِ مَاءً نَقِيًّا وَفِيرًا لِصِحَّتِي.",
+    "example_en": "I drink plenty of pure water throughout the day for my health.",
+    "svg_icon": "content/assets/svg/verb_daily_011.svg"
+  },
+  {
+    "id": "verb_daily_012",
+    "infinitive": "essen",
+    "level": "A1",
+    "category": "Daily Routine",
+    "arabic": "يَأْكُلُ طَعَامًا طَيِّبًا",
+    "english": "to eat",
+    "conjugation": {
+      "praesens": {
+        "ich": "esse",
+        "du": "isst",
+        "er_sie_es": "isst",
+        "wir": "essen",
+        "ihr": "esst",
+        "sie_Sie": "essen"
+      },
+      "praeteritum": {
+        "ich": "aß",
+        "er_sie_es": "aß"
+      },
+      "perfekt": "hat gegessen"
+    },
+    "preposition": "zu + Dat.",
+    "example_de": "Wir essen mittags nahrhaften Reis mit frischem Gemüse.",
+    "example_ar": "نَتَنَاوَلُ ظُهْرًا أَرُزًّا مُغَذِّيًا مَعَ الخُضَارِ الطَّازَجَةِ.",
+    "example_en": "At noon we eat nutritious rice with fresh vegetables.",
+    "svg_icon": "content/assets/svg/verb_daily_012.svg"
+  },
+  {
+    "id": "verb_daily_013",
+    "infinitive": "öffnen",
+    "level": "A1",
+    "category": "Daily Routine",
+    "arabic": "يَفْتَحُ البَابَ أَوِ النَّافِذَةَ",
+    "english": "to open",
+    "conjugation": {
+      "praesens": {
+        "ich": "öffne",
+        "du": "öffnest",
+        "er_sie_es": "öffnet",
+        "wir": "öffnen",
+        "ihr": "öffnet",
+        "sie_Sie": "öffnen"
+      },
+      "praeteritum": {
+        "ich": "öffnete",
+        "er_sie_es": "öffnete"
+      },
+      "perfekt": "hat geöffnet"
+    },
+    "preposition": "für + Akk.",
+    "example_de": "Er öffnet freundlich die Tür für die eintreffenden Gäste.",
+    "example_ar": "يَفْتَحُ البَابَ بِبَشَاشَةٍ لِلضُّيُوفِ القَادِمِينَ.",
+    "example_en": "He kindly opens the door for the arriving guests.",
+    "svg_icon": "content/assets/svg/verb_daily_013.svg"
+  },
+  {
+    "id": "verb_daily_014",
+    "infinitive": "schließen",
+    "level": "A1",
+    "category": "Daily Routine",
+    "arabic": "يُغْلِقُ",
+    "english": "to close / lock",
+    "conjugation": {
+      "praesens": {
+        "ich": "schließe",
+        "du": "schließt",
+        "er_sie_es": "schließt",
+        "wir": "schließen",
+        "ihr": "schließt",
+        "sie_Sie": "schließen"
+      },
+      "praeteritum": {
+        "ich": "schloss",
+        "er_sie_es": "schloss"
+      },
+      "perfekt": "hat geschlossen"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Vor dem Schlafengehen schließe ich die Haustür mit dem Schlüssel ab.",
+    "example_ar": "قَبْلَ النَّوْمِ أُغْلِقُ بَابَ البَيْتِ بِالمِفْتَاحِ.",
+    "example_en": "Before going to sleep, I lock the front door with the key.",
+    "svg_icon": "content/assets/svg/verb_daily_014.svg"
+  },
+  {
+    "id": "verb_daily_015",
+    "infinitive": "anrufen",
+    "level": "A1",
+    "category": "Daily Routine",
+    "arabic": "يَتَّصِلُ هَاتِفِيًّا بِـ",
+    "english": "to call / phone",
+    "conjugation": {
+      "praesens": {
+        "ich": "rufe an",
+        "du": "rufst an",
+        "er_sie_es": "ruft an",
+        "wir": "rufen an",
+        "ihr": "ruft an",
+        "sie_Sie": "rufen an"
+      },
+      "praeteritum": {
+        "ich": "rief an",
+        "er_sie_es": "rief an"
+      },
+      "perfekt": "hat angerufen"
+    },
+    "preposition": "bei + Dat.",
+    "example_de": "Ich rufe am Abend kurz bei meinen Eltern an.",
+    "example_ar": "أَتَّصِلُ فِي المَسَاءِ اتِّصَالًا قَصِيرًا بِوَالِدَيَّ.",
+    "example_en": "I make a brief phone call to my parents in the evening.",
+    "svg_icon": "content/assets/svg/verb_daily_015.svg"
+  },
+  {
+    "id": "verb_daily_016",
+    "infinitive": "helfen",
+    "level": "A1",
+    "category": "Daily Routine",
+    "arabic": "يُسَاعِدُ وَيُعِينُ",
+    "english": "to help / assist",
+    "conjugation": {
+      "praesens": {
+        "ich": "helfe",
+        "du": "hilfst",
+        "er_sie_es": "hilft",
+        "wir": "helfen",
+        "ihr": "helft",
+        "sie_Sie": "helfen"
+      },
+      "praeteritum": {
+        "ich": "half",
+        "er_sie_es": "half"
+      },
+      "perfekt": "hat geholfen"
+    },
+    "preposition": "bei + Dat.",
+    "example_de": "Gute Nachbarn helfen einander gerne bei der Gartenarbeit.",
+    "example_ar": "الجِيرَانُ الطَّيِّبُونَ يُعِينُ بَعْضُهُمْ بَعْضًا فِي أَعْمَالِ الحَدِيقَةِ.",
+    "example_en": "Good neighbors gladly assist one another with garden chores.",
+    "svg_icon": "content/assets/svg/verb_daily_016.svg"
+  },
+  {
+    "id": "verb_daily_017",
+    "infinitive": "wohnen",
+    "level": "A1",
+    "category": "Daily Routine",
+    "arabic": "يَسْكُنُ فِي مَنْزِلٍ",
+    "english": "to reside / live",
+    "conjugation": {
+      "praesens": {
+        "ich": "wohne",
+        "du": "wohnst",
+        "er_sie_es": "wohnt",
+        "wir": "wohnen",
+        "ihr": "wohnt",
+        "sie_Sie": "wohnen"
+      },
+      "praeteritum": {
+        "ich": "wohnte",
+        "er_sie_es": "wohnte"
+      },
+      "perfekt": "hat gewohnt"
+    },
+    "preposition": "in + Dat.",
+    "example_de": "Wir wohnen seit drei Jahren in einer hellen und ruhigen Wohnung.",
+    "example_ar": "نَسْكُنُ مُنْذُ ثَلَاثِ سَنَوَاتٍ فِي شَقَّةٍ مُشْرِقَةٍ وَهَادِئَةٍ.",
+    "example_en": "We have been living in a bright and quiet apartment for three years.",
+    "svg_icon": "content/assets/svg/verb_daily_017.svg"
+  },
+  {
+    "id": "verb_daily_018",
+    "infinitive": "vorbereiten",
+    "level": "A2",
+    "category": "Daily Routine",
+    "arabic": "يُعِدُّ وَيُجَهِّزُ",
+    "english": "to prepare",
+    "conjugation": {
+      "praesens": {
+        "ich": "bereite vor",
+        "du": "bereitest vor",
+        "er_sie_es": "bereitet vor",
+        "wir": "bereiten vor",
+        "ihr": "bereitet vor",
+        "sie_Sie": "bereiten vor"
+      },
+      "praeteritum": {
+        "ich": "bereitete vor",
+        "er_sie_es": "bereitete vor"
+      },
+      "perfekt": "hat vorbereitet"
+    },
+    "preposition": "auf + Akk.",
+    "example_de": "Die Schülerin bereitet sich fleißig auf die morgige Prüfung vor.",
+    "example_ar": "تَسْتَعِدُّ التِّلْمِيذَةُ بِاجْتِهَادٍ لِامْتِحَانِ الغَدِ.",
+    "example_en": "The student prepares diligently for tomorrow's examination.",
+    "svg_icon": "content/assets/svg/verb_daily_018.svg"
+  },
+  {
+    "id": "verb_daily_019",
+    "infinitive": "spazierengehen",
+    "level": "A1",
+    "category": "Daily Routine",
+    "arabic": "يَتَنَزَّهُ عَلَى الأَقْدَامِ",
+    "english": "to go for a walk",
+    "conjugation": {
+      "praesens": {
+        "ich": "gehe spazieren",
+        "du": "gehst spazieren",
+        "er_sie_es": "geht spazieren",
+        "wir": "gehen spazieren",
+        "ihr": "geht spazieren",
+        "sie_Sie": "gehen spazieren"
+      },
+      "praeteritum": {
+        "ich": "ging spazieren",
+        "er_sie_es": "ging spazieren"
+      },
+      "perfekt": "ist spazierengegangen"
+    },
+    "preposition": "im + Dat.",
+    "example_de": "Nach dem Essen gehen wir oft im nahen Stadtpark spazieren.",
+    "example_ar": "بَعْدَ الأَكْلِ نَتَنَزَّهُ كَثِيرًا فِي حَدِيقَةِ المَدِينَةِ القَرِيبَةِ.",
+    "example_en": "After the meal, we often go for a stroll in the nearby city park.",
+    "svg_icon": "content/assets/svg/verb_daily_019.svg"
+  },
+  {
+    "id": "verb_daily_020",
+    "infinitive": "besuchen",
+    "level": "A1",
+    "category": "Daily Routine",
+    "arabic": "يَزُورُ الأَقَارِبَ وَالأَصْدِقَاءَ",
+    "english": "to visit",
+    "conjugation": {
+      "praesens": {
+        "ich": "besuche",
+        "du": "besuchst",
+        "er_sie_es": "besucht",
+        "wir": "besuchen",
+        "ihr": "besucht",
+        "sie_Sie": "besuchen"
+      },
+      "praeteritum": {
+        "ich": "besuchte",
+        "er_sie_es": "besuchte"
+      },
+      "perfekt": "hat besucht"
+    },
+    "preposition": "an + Dat.",
+    "example_de": "Am Wochenende besuchen wir gerne unsere Großeltern auf dem Land.",
+    "example_ar": "فِي عُطْلَةِ نِهَايَةِ الأُسْبُوعِ نَزُورُ جَدَّيْنَا فِي الرِّيفِ بِسُرُورٍ.",
+    "example_en": "On the weekend, we gladly visit our grandparents in the countryside.",
+    "svg_icon": "content/assets/svg/verb_daily_020.svg"
+  }
+]
