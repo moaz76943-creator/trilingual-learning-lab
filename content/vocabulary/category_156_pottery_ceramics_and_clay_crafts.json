@@ -1,0 +1,234 @@
+{
+  "category_id": "c156",
+  "name_ar": "الْخَزَفُ وَالْفَخَّارُ وَالصِّنَاعَاتُ الطِّينِيَّةُ",
+  "name_de": "Töpferei, Keramik und Tonhandwerk",
+  "name_en": "Pottery, Ceramics, and Clay Crafts",
+  "level": "A1-A2",
+  "concepts": [
+    {
+      "id": "c156_001",
+      "arabic": "طِينٌ",
+      "german": "Ton",
+      "article": "der",
+      "plural": "Tone",
+      "english": "clay",
+      "level": "A1"
+    },
+    {
+      "id": "c156_002",
+      "arabic": "فَخَّارٌ",
+      "german": "Töpferware",
+      "article": "die",
+      "plural": "Töpferwaren",
+      "english": "pottery",
+      "level": "A1"
+    },
+    {
+      "id": "c156_003",
+      "arabic": "خَزَفٌ",
+      "german": "Keramik",
+      "article": "die",
+      "plural": "Keramiken",
+      "english": "ceramics",
+      "level": "A1"
+    },
+    {
+      "id": "c156_004",
+      "arabic": "عَجَلَةُ الْفَخَّارِيِّ",
+      "german": "Töpferscheibe",
+      "article": "die",
+      "plural": "Töpferscheiben",
+      "english": "potter's wheel",
+      "level": "A2"
+    },
+    {
+      "id": "c156_005",
+      "arabic": "فُرْنُ الْحَرْقِ",
+      "german": "Brennofen",
+      "article": "der",
+      "plural": "Brennöfen",
+      "english": "kiln / firing oven",
+      "level": "A2"
+    },
+    {
+      "id": "c156_006",
+      "arabic": "جَرَّةٌ طِينِيَّةٌ",
+      "german": "Tonkrug",
+      "article": "der",
+      "plural": "Tonkrüge",
+      "english": "clay jar / pitcher",
+      "level": "A1"
+    },
+    {
+      "id": "c156_007",
+      "arabic": "إِنَاءٌ خَزَفِيٌّ",
+      "german": "Schale",
+      "article": "die",
+      "plural": "Schalen",
+      "english": "ceramic bowl",
+      "level": "A1"
+    },
+    {
+      "id": "c156_008",
+      "arabic": "فِنْجَانٌ",
+      "german": "Tasse",
+      "article": "die",
+      "plural": "Tassen",
+      "english": "cup / mug",
+      "level": "A1"
+    },
+    {
+      "id": "c156_009",
+      "arabic": "صَحْنٌ",
+      "german": "Teller",
+      "article": "der",
+      "plural": "Teller",
+      "english": "plate",
+      "level": "A1"
+    },
+    {
+      "id": "c156_010",
+      "arabic": "مِزْهَرِيَّةٌ",
+      "german": "Vase",
+      "article": "die",
+      "plural": "Vasen",
+      "english": "vase",
+      "level": "A1"
+    },
+    {
+      "id": "c156_011",
+      "arabic": "قَالَبٌ",
+      "german": "Form",
+      "article": "die",
+      "plural": "Formen",
+      "english": "mold",
+      "level": "A2"
+    },
+    {
+      "id": "c156_012",
+      "arabic": "إِسْفَنْجَةُ تَسْوِيَةٍ",
+      "german": "Schwamm",
+      "article": "der",
+      "plural": "Schwämme",
+      "english": "sponge",
+      "level": "A1"
+    },
+    {
+      "id": "c156_013",
+      "arabic": "سِلْكُ قَطْعٍ",
+      "german": "Schneidedraht",
+      "article": "der",
+      "plural": "Schneidedrähte",
+      "english": "cutting wire",
+      "level": "A2"
+    },
+    {
+      "id": "c156_014",
+      "arabic": "أَدَاةُ نَحْتٍ",
+      "german": "Modellierwerkzeug",
+      "article": "das",
+      "plural": "Modellierwerkzeuge",
+      "english": "sculpting tool",
+      "level": "A2"
+    },
+    {
+      "id": "c156_015",
+      "arabic": "طِلَاءٌ خَزَفِيٌّ",
+      "german": "Glasur",
+      "article": "die",
+      "plural": "Glasuren",
+      "english": "glaze",
+      "level": "A2"
+    },
+    {
+      "id": "c156_016",
+      "arabic": "مَلْمَسٌ نَاعِمٌ",
+      "german": "Oberfläche",
+      "article": "die",
+      "plural": "Oberflächen",
+      "english": "smooth texture",
+      "level": "A1"
+    },
+    {
+      "id": "c156_017",
+      "arabic": "طِينٌ رَطْبٌ",
+      "german": "feuchter Ton",
+      "article": "der",
+      "plural": "feuchte Tone",
+      "english": "moist clay",
+      "level": "A1"
+    },
+    {
+      "id": "c156_018",
+      "arabic": "تَجْفِيفٌ فِي الْهَوَاءِ",
+      "german": "Trocknung",
+      "article": "die",
+      "plural": "Trocknungen",
+      "english": "air drying",
+      "level": "A2"
+    },
+    {
+      "id": "c156_019",
+      "arabic": "صَلَابَةٌ",
+      "german": "Härte",
+      "article": "die",
+      "plural": "Härten",
+      "english": "hardness / durability",
+      "level": "A2"
+    },
+    {
+      "id": "c156_020",
+      "arabic": "زَخْرَفَةٌ يَدَوِيَّةٌ",
+      "german": "Verzierung",
+      "article": "die",
+      "plural": "Verzierungen",
+      "english": "hand decoration",
+      "level": "A2"
+    },
+    {
+      "id": "c156_021",
+      "arabic": "إِبْدَاعٌ فَنِّيٌّ",
+      "german": "Kreativität",
+      "article": "die",
+      "plural": "Kreativitäten",
+      "english": "artistic creativity",
+      "level": "A1"
+    },
+    {
+      "id": "c156_022",
+      "arabic": "حِرْفِيٌّ مَاهِرٌ",
+      "german": "Handwerker",
+      "article": "der",
+      "plural": "Handwerker",
+      "english": "artisan / craftsman",
+      "level": "A2"
+    },
+    {
+      "id": "c156_023",
+      "arabic": "نَقْشٌ دَقِيقٌ",
+      "german": "Gravur",
+      "article": "die",
+      "plural": "Gravuren",
+      "english": "fine engraving",
+      "level": "A2"
+    },
+    {
+      "id": "c156_024",
+      "arabic": "وِعَاءٌ تَقْلِيدِيٌّ",
+      "german": "Gefäß",
+      "article": "das",
+      "plural": "Gefäße",
+      "english": "traditional vessel",
+      "level": "A1"
+    },
+    {
+      "id": "c156_025",
+      "arabic": "صُنْعٌ بِالْيَدِ",
+      "german": "handgemacht",
+      "article": "das",
+      "plural": "handgemachte",
+      "english": "handcrafted",
+      "level": "A1"
+    }
+  ]
+}

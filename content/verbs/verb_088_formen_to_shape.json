@@ -1,0 +1,34 @@
+{
+  "verb_id": "v088",
+  "infinitive_de": "formen",
+  "root_ar": "شَكَّلَ",
+  "infinitive_en": "to shape / to mold",
+  "level": "A1",
+  "present": {
+    "ich": "forme",
+    "du": "formst",
+    "er_sie_es": "formt",
+    "wir": "formen",
+    "ihr": "formt",
+    "sie_Sie": "formen"
+  },
+  "past": {
+    "ich": "formte",
+    "du": "formtest",
+    "er_sie_es": "formte",
+    "wir": "formten",
+    "ihr": "formtet",
+    "sie_Sie": "formten"
+  },
+  "perfect": {
+    "auxiliary": "haben",
+    "participle": "geformt"
+  },
+  "examples": [
+    {
+      "german": "Der Handwerker formt den weichen Ton auf der Scheibe.",
+      "arabic": "الْحِرْفِيُّ يُشَكِّلُ الطِّينَ اللَّيِّنَ عَلَى الْعَجَلَةِ.",
+      "english": "The artisan shapes the soft clay on the wheel."
+    }
+  ]
+}

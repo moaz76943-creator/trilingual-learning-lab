@@ -1,5 +1,5 @@
 {
-  "count": 810,
+  "count": 830,
   "sentences": [
     {
       "id": "sent_001",
@@ -15290,6 +15290,194 @@
       "concept_refs": [
         "v087",
         "c155_024"
+      ]
+    },
+    {
+      "id": "s831",
+      "german": "Der feuchte Ton lässt sich leicht formen.",
+      "arabic": "الطِّينُ الرَّطْبُ يَسْهُلُ تَشْكِيلُهُ.",
+      "english": "The moist clay is easy to shape.",
+      "concept_refs": [
+        "c156_001",
+        "c156_017",
+        "v088"
+      ]
+    },
+    {
+      "id": "s832",
+      "german": "Diese Töpferware stammt aus einer alten Werkstatt.",
+      "arabic": "هَذَا الْفَخَّارُ يَأْتِي مِنْ وَرْشَةٍ قَدِيمَةٍ.",
+      "english": "This pottery comes from an old workshop.",
+      "concept_refs": [
+        "c156_002"
+      ]
+    },
+    {
+      "id": "s833",
+      "german": "Moderne Keramik ist schön und nützlich im Alltag.",
+      "arabic": "الْخَزَفُ الْحَدِيثُ جَمِيلٌ وَمُفِيدٌ فِي الْحَيَاةِ الْيَوْمِيَّةِ.",
+      "english": "Modern ceramics are beautiful and useful in daily life.",
+      "concept_refs": [
+        "c156_003"
+      ]
+    },
+    {
+      "id": "s834",
+      "german": "Die Töpferscheibe dreht sich gleichmäßig schnell.",
+      "arabic": "عَجَلَةُ الْفَخَّارِيِّ تَدُورُ بِسُرْعَةٍ مُنْتَظِمَةٍ.",
+      "english": "The potter's wheel spins steadily and fast.",
+      "concept_refs": [
+        "c156_004"
+      ]
+    },
+    {
+      "id": "s835",
+      "german": "Der Brennofen erreicht sehr hohe Temperaturen.",
+      "arabic": "فُرْنُ الْحَرْقِ يَصِلُ إِلَى دَرَجَاتِ حَرَارَةٍ عَالِيَةٍ جِدًّا.",
+      "english": "The kiln reaches very high temperatures.",
+      "concept_refs": [
+        "c156_005"
+      ]
+    },
+    {
+      "id": "s836",
+      "german": "Wasser bleibt im Tonkrug kühl und frisch.",
+      "arabic": "الْمَاءُ يَبْقَى بَارِدًا وَعَذْبًا فِي الْجَرَّةِ الطِّينِيَّةِ.",
+      "english": "Water stays cool and fresh in the clay pitcher.",
+      "concept_refs": [
+        "c156_006"
+      ]
+    },
+    {
+      "id": "s837",
+      "german": "Die Keramikschale steht mitten auf dem Esstisch.",
+      "arabic": "الْإِنَاءُ الْخَزَفِيُّ يَقِفُ فِي وَسَطِ طَاوِلَةِ الطَّعَامِ.",
+      "english": "The ceramic bowl stands in the middle of the dining table.",
+      "concept_refs": [
+        "c156_007"
+      ]
+    },
+    {
+      "id": "s838",
+      "german": "Ich trinke warmen Tee aus dieser Tasse.",
+      "arabic": "أَنَا أَشْرَبُ الشَّايَ الدَّافِئَ مِنْ هَذَا الْفِنْجَانِ.",
+      "english": "I drink warm tea from this cup.",
+      "concept_refs": [
+        "c156_008"
+      ]
+    },
+    {
+      "id": "s839",
+      "german": "Der Teller ist sauber gewaschen und getrocknet.",
+      "arabic": "الصَّحْنُ مَغْسُولٌ بِنَظَافَةٍ وَمُجَفَّفٌ.",
+      "english": "The plate is cleanly washed and dried.",
+      "concept_refs": [
+        "c156_009"
+      ]
+    },
+    {
+      "id": "s840",
+      "german": "Die bunte Vase hält frische Blumen im Zimmer.",
+      "arabic": "الْمِزْهَرِيَّةُ الْمُلَوَّنَةُ تَحْمِلُ زُهُورًا نَضِرَةً فِي الْغُرْفَةِ.",
+      "english": "The colorful vase holds fresh flowers in the room.",
+      "concept_refs": [
+        "c156_010"
+      ]
+    },
+    {
+      "id": "s841",
+      "german": "Wir gießen flüssigen Gips in die Form.",
+      "arabic": "نَحْنُ نَصُبُّ الْجِبْسَ السَّائِلَ فِي الْقَالَبِ.",
+      "english": "We pour liquid plaster into the mold.",
+      "concept_refs": [
+        "c156_011"
+      ]
+    },
+    {
+      "id": "s842",
+      "german": "Glätte den Rand mit dem nassen Schwamm.",
+      "arabic": "سَوِّ الْحَافَّةَ بِالْإِسْفَنْجَةِ الْمُبَلَّلَةِ.",
+      "english": "Smooth the edge with the wet sponge.",
+      "concept_refs": [
+        "c156_012"
+      ]
+    },
+    {
+      "id": "s843",
+      "german": "Mit dem Schneidedraht trennt er den Krug von der Scheibe.",
+      "arabic": "بِسِلْكِ الْقَطْعِ يَفْصِلُ الْجَرَّةَ عَنِ الْعَجَلَةِ.",
+      "english": "With the cutting wire he separates the jar from the wheel.",
+      "concept_refs": [
+        "c156_013",
+        "c156_006"
+      ]
+    },
+    {
+      "id": "s844",
+      "german": "Das Modellierwerkzeug schnitzt schöne Muster.",
+      "arabic": "أَدَاةُ النَّحْتِ تَنْقُشُ أَنْمَاطًا جَمِيلَةً.",
+      "english": "The sculpting tool carves beautiful patterns.",
+      "concept_refs": [
+        "c156_014",
+        "c156_020"
+      ]
+    },
+    {
+      "id": "s845",
+      "german": "Die grüne Glasur glänzt nach dem Brennen wunderbar.",
+      "arabic": "الطِّلَاءُ الْخَزَفِيُّ الْأَخْضَرُ يَلْمَعُ رَائِعًا بَعْدَ الْحَرْقِ.",
+      "english": "The green glaze shines wonderfully after firing.",
+      "concept_refs": [
+        "c156_015"
+      ]
+    },
+    {
+      "id": "s846",
+      "german": "Die glatte Oberfläche fühlt sich sehr angenehm an.",
+      "arabic": "الْمَلْمَسُ النَّاعِمُ يُعْطِي شُعُورًا مُرِيحًا جِدًّا.",
+      "english": "The smooth texture feels very pleasant.",
+      "concept_refs": [
+        "c156_016"
+      ]
+    },
+    {
+      "id": "s847",
+      "german": "Die Lufttrocknung dauert zwei sonnige Tage.",
+      "arabic": "التَّجْفِيفُ فِي الْهَوَاءِ يَسْتَغْرِقُ يَوْمَيْنِ مُشْمِسَيْنِ.",
+      "english": "Air drying takes two sunny days.",
+      "concept_refs": [
+        "c156_018"
+      ]
+    },
+    {
+      "id": "s848",
+      "german": "Das gebrannte Gefäß gewinnt hohe Härte.",
+      "arabic": "الْوِعَاءُ الْمَحْرُوقُ يَكْتَسِبُ صَلَابَةً عَالِيَةً.",
+      "english": "The fired vessel gains high durability.",
+      "concept_refs": [
+        "c156_019",
+        "c156_024"
+      ]
+    },
+    {
+      "id": "s849",
+      "german": "Der Handwerker zeigt große künstlerische Kreativität.",
+      "arabic": "الْحِرْفِيُّ يُظْهِرُ إِبْدَاعًا فَنِّيًّا كَبِيرًا.",
+      "english": "The artisan shows great artistic creativity.",
+      "concept_refs": [
+        "c156_021",
+        "c156_022"
+      ]
+    },
+    {
+      "id": "s850",
+      "german": "Wir formen heute eine kleine Schale aus Ton.",
+      "arabic": "نَحْنُ نُشَكِّلُ الْيَوْمَ إِنَاءً صَغِيرًا مِنَ الطِّينِ.",
+      "english": "We are shaping a small clay bowl today.",
+      "concept_refs": [
+        "v088",
+        "c156_001",
+        "c156_007"
       ]
     }
   ]
