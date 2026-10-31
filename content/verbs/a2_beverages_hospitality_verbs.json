@@ -1,0 +1,493 @@
+{
+  "id": "a2_beverages_hospitality_verbs",
+  "engine_number": 84,
+  "title_ar": "أَفْعَالُ المَشْرُوبَاتِ، الضِّيَافَةِ، وَالارْتِوَاءِ",
+  "title_de": "Verben für Getränke, Gastfreundschaft und Erfrischung",
+  "title_en": "Beverages, Hospitality & Refreshment Verbs Engine",
+  "level": "A2",
+  "description_ar": "أَفْعَالٌ أَسَاسِيَّةٌ وَعَمَلِيَّةٌ تَتَنَاوَلُ سَكْبَ المَشْرُوبَاتِ، نَقْعَ الأَعْشَابِ، كَرَمَ الضِّيَافَةِ، وَارْتِوَاءَ العَطَشِ بِالمَاءِ النَّقِيِّ.",
+  "description_de": "Zentrale Verben für Einschenken, Teeaufguss, Gastfreundschaft, Süßen, Kühlen und gesundes Trinken.",
+  "description_en": "Core verbs covering pouring drinks, steeping tea, hospitality, sweetening, chilling, and quenching thirst.",
+  "verbs": [
+    {
+      "id": "v84_001",
+      "ar": "يَشْرَبُ",
+      "de": "trinken",
+      "en": "to drink",
+      "conjugation": {
+        "ich": "trinke",
+        "du": "trinkst",
+        "er_sie_es": "trinkt",
+        "wir": "trinken",
+        "ihr": "trinkt",
+        "sie_Sie": "trinken"
+      },
+      "tenses": {
+        "praesens": "er trinkt",
+        "praeteritum": "er trank",
+        "perfekt": "hat getrunken"
+      },
+      "preposition": "aus + Dativ (Glas)",
+      "example_ar": "يَشْرَبُ المَرْءُ المَاءَ النَّقِيَّ بِهُدُوءٍ وَعَلَى جُرُعَاتٍ.",
+      "example_de": "Er trinkt das klare Quellwasser ruhig und in Zügen.",
+      "example_en": "He drinks the clear spring water calmly and in sips.",
+      "image_asset": "verb_drink_001.svg"
+    },
+    {
+      "id": "v84_002",
+      "ar": "يَصُبُّ / يَسْكُبُ",
+      "de": "einschenken",
+      "en": "to pour",
+      "conjugation": {
+        "ich": "schenke ein",
+        "du": "schenkst ein",
+        "er_sie_es": "schenkt ein",
+        "wir": "schenken ein",
+        "ihr": "schenkt ein",
+        "sie_Sie": "schenken ein"
+      },
+      "tenses": {
+        "praesens": "er schenkt ein",
+        "praeteritum": "er schenkte ein",
+        "perfekt": "hat eingeschenkt"
+      },
+      "preposition": "in + Akkusativ",
+      "example_ar": "يَصُبُّ المُضِيفُ الشَّايَ السَّاخِنَ فِي الفَنَاجِينِ بِكَرَمٍ وَحَفَاوَةٍ بَالِغَةٍ.",
+      "example_de": "Der Gastgeber schenkt den heißen Tee mit großer Herzlichkeit in die Tassen ein.",
+      "example_en": "The host pours the hot tea into the cups with great warmth and hospitality.",
+      "image_asset": "verb_drink_002.svg"
+    },
+    {
+      "id": "v84_003",
+      "ar": "يَنْقَعُ الأَعْشَابَ / يَصُبُّ المَاءَ السَّاخِنَ",
+      "de": "aufgießen",
+      "en": "to infuse / pour boiling water",
+      "conjugation": {
+        "ich": "gieße auf",
+        "du": "gießt auf",
+        "er_sie_es": "gießt auf",
+        "wir": "gießen auf",
+        "ihr": "gießt auf",
+        "sie_Sie": "gießen auf"
+      },
+      "tenses": {
+        "praesens": "er gießt auf",
+        "praeteritum": "er goss auf",
+        "perfekt": "hat aufgegossen"
+      },
+      "preposition": "mit + Dativ",
+      "example_ar": "يَصُبُّ المَاءَ المَغْلِيَّ فَوْقَ أَوْرَاقِ النَّعْنَاعِ الطَّازَجَةِ.",
+      "example_de": "Er gießt die frischen Minzblätter mit kochendem Wasser auf.",
+      "example_en": "He infuses the fresh mint leaves with boiling water.",
+      "image_asset": "verb_drink_003.svg"
+    },
+    {
+      "id": "v84_004",
+      "ar": "يَتْرُكُ الشَّايَ يَنْقَعُ",
+      "de": "ziehen lassen",
+      "en": "to let steep / brew",
+      "conjugation": {
+        "ich": "lasse ziehen",
+        "du": "lässt ziehen",
+        "er_sie_es": "lässt ziehen",
+        "wir": "lassen ziehen",
+        "ihr": "lasst ziehen",
+        "sie_Sie": "lassen ziehen"
+      },
+      "tenses": {
+        "praesens": "er lässt ziehen",
+        "praeteritum": "er ließ ziehen",
+        "perfekt": "hat ziehen lassen"
+      },
+      "preposition": "für + Akkusativ (Minuten)",
+      "example_ar": "يَتْرُكُ شَايَ البَابُونِجِ يَنْقَعُ لِدَقَائِقَ مَعْدُودَةٍ لِيَكْتَسِبَ نَكْهَتَهُ الهَادِئَةَ.",
+      "example_de": "Er lässt den Kamillentee einige Minuten ziehen, um sein mildes Aroma zu entfalten.",
+      "example_en": "He lets the chamomile tea steep for a few minutes to release its gentle flavor.",
+      "image_asset": "verb_drink_004.svg"
+    },
+    {
+      "id": "v84_005",
+      "ar": "يُحَلِّي بِالعَسَلِ",
+      "de": "süßen",
+      "en": "to sweeten",
+      "conjugation": {
+        "ich": "süße",
+        "du": "süßt",
+        "er_sie_es": "süßt",
+        "wir": "süßen",
+        "ihr": "süßt",
+        "sie_Sie": "süßen"
+      },
+      "tenses": {
+        "praesens": "er süßt",
+        "praeteritum": "er süßte",
+        "perfekt": "hat gesüßt"
+      },
+      "preposition": "mit + Dativ",
+      "example_ar": "يُحَلِّي الكُوبَ بِمِلْعَقَةٍ صَغِيرَةٍ مِنْ عَسَلِ النَّحْلِ الطَّبِيعِيِّ الصَّافِي.",
+      "example_de": "Sie süßt das Getränk mit einem kleinen Löffel reinem Naturhonig.",
+      "example_en": "She sweetens the drink with a small spoonful of pure natural honey.",
+      "image_asset": "verb_drink_005.svg"
+    },
+    {
+      "id": "v84_006",
+      "ar": "يُحَرِّكُ بِالمِلْعَقَةِ",
+      "de": "umrühren",
+      "en": "to stir",
+      "conjugation": {
+        "ich": "rühre um",
+        "du": "rührst um",
+        "er_sie_es": "rührt um",
+        "wir": "rühren um",
+        "ihr": "rührt um",
+        "sie_Sie": "rühren um"
+      },
+      "tenses": {
+        "praesens": "er rührt um",
+        "praeteritum": "er rührte um",
+        "perfekt": "hat umgerührt"
+      },
+      "preposition": "mit + Dativ",
+      "example_ar": "يُحَرِّكُ الشَّايَ بِالمِلْعَقَةِ الصَّغِيرَةِ لِيَذُوبَ العَسَلُ تَمَامًا.",
+      "example_de": "Er rührt den Tee mit dem kleinen Löffel vorsichtig um.",
+      "example_en": "He gently stirs the tea with the small spoon until the honey dissolves.",
+      "image_asset": "verb_drink_006.svg"
+    },
+    {
+      "id": "v84_007",
+      "ar": "يَعْرِضُ / يُقَدِّمُ ضِيَافَةً",
+      "de": "anbieten",
+      "en": "to offer",
+      "conjugation": {
+        "ich": "biete an",
+        "du": "bietest an",
+        "er_sie_es": "bietet an",
+        "wir": "bieten an",
+        "ihr": "bietet an",
+        "sie_Sie": "bieten an"
+      },
+      "tenses": {
+        "praesens": "er bietet an",
+        "praeteritum": "er bot an",
+        "perfekt": "hat angeboten"
+      },
+      "preposition": "Dativ (jemandem)",
+      "example_ar": "يَعْرِضُ عَلَى الضُّيُوفِ مَشْرُوبًا سَاخِنًا أَوْ عَصِيرًا بَارِدًا.",
+      "example_de": "Er bietet den Gästen ein erfrischendes Getränk an.",
+      "example_en": "He offers the guests a refreshing drink.",
+      "image_asset": "verb_drink_007.svg"
+    },
+    {
+      "id": "v84_008",
+      "ar": "يُضَيِّفُ / يُكْرِمُ الوِفَادَةَ",
+      "de": "bewirten",
+      "en": "to host / entertain guests",
+      "conjugation": {
+        "ich": "bewirte",
+        "du": "bewirtest",
+        "er_sie_es": "bewirtet",
+        "wir": "bewirten",
+        "ihr": "bewirtet",
+        "sie_Sie": "bewirten"
+      },
+      "tenses": {
+        "praesens": "er bewirtet",
+        "praeteritum": "er bewirtete",
+        "perfekt": "hat bewirtet"
+      },
+      "preposition": "mit + Dativ",
+      "example_ar": "يُضَيِّفُ الزَّائِرِينَ بِأَطْيَبِ التُّمُورِ وَأَعْذَبِ المَشْرُوبَاتِ.",
+      "example_de": "Die Familie bewirtet ihre Besucher mit vorzüglichem Tee und Datteln.",
+      "example_en": "The family treats their visitors to exquisite tea and dates.",
+      "image_asset": "verb_drink_008.svg"
+    },
+    {
+      "id": "v84_009",
+      "ar": "يُقَدِّمُ المَشْرُوبَ",
+      "de": "servieren",
+      "en": "to serve (drinks)",
+      "conjugation": {
+        "ich": "serviere",
+        "du": "servierst",
+        "er_sie_es": "serviert",
+        "wir": "servieren",
+        "ihr": "serviert",
+        "sie_Sie": "servieren"
+      },
+      "tenses": {
+        "praesens": "er serviert",
+        "praeteritum": "er servierte",
+        "perfekt": "hat serviert"
+      },
+      "preposition": "auf + Dativ (Tablett)",
+      "example_ar": "يُقَدِّمُ عَصِيرَ البُرْتُقَالِ البَارِدَ لِلضُّيُوفِ لِيَمْنَحَهُمُ الانْتِعَاشَ فِي الصَّيْفِ.",
+      "example_de": "Er serviert den Gästen kühlen Orangensaft zur Erfrischung an heißen Tagen.",
+      "example_en": "He serves the guests cool orange juice for refreshment on hot days.",
+      "image_asset": "verb_drink_009.svg"
+    },
+    {
+      "id": "v84_010",
+      "ar": "يَرْتَشِفُ رَشْفَةً",
+      "de": "nippen",
+      "en": "to sip",
+      "conjugation": {
+        "ich": "nippe",
+        "du": "nippst",
+        "er_sie_es": "nippt",
+        "wir": "nippen",
+        "ihr": "nippt",
+        "sie_Sie": "nippen"
+      },
+      "tenses": {
+        "praesens": "er nippt",
+        "praeteritum": "er nippte",
+        "perfekt": "hat genippt"
+      },
+      "preposition": "an + Dativ",
+      "example_ar": "يَرْتَشِفُ الصَّدِيقُ قَلِيلًا مِنَ المَشْرُوبِ الدَّافِئِ وَيَبْتَسِمُ امْتِنَانًا.",
+      "example_de": "Der Freund nippt vorsichtig am warmen Getränk und lächelt dankbar.",
+      "example_en": "The friend sips gently from the warm drink and smiles gratefully.",
+      "image_asset": "verb_drink_010.svg"
+    },
+    {
+      "id": "v84_011",
+      "ar": "يَرْوِي العَطَشَ",
+      "de": "löschen",
+      "en": "to quench (thirst)",
+      "conjugation": {
+        "ich": "lösche",
+        "du": "löschst",
+        "er_sie_es": "löscht",
+        "wir": "löschen",
+        "ihr": "löscht",
+        "sie_Sie": "löschen"
+      },
+      "tenses": {
+        "praesens": "er löscht",
+        "praeteritum": "er löschte",
+        "perfekt": "hat gelöscht"
+      },
+      "preposition": "mit + Dativ",
+      "example_ar": "يَرْوِي المَاءُ الصَّافِي عَطَشَ العَدَّاءِ بَعْدَ التَّمْرِينِ.",
+      "example_de": "Kühles Wasser löscht den Durst nach dem Sport am besten.",
+      "example_en": "Cool water quenches thirst best after sports.",
+      "image_asset": "verb_drink_011.svg"
+    },
+    {
+      "id": "v84_012",
+      "ar": "يُبَرِّدُ",
+      "de": "kühlen",
+      "en": "to chill / cool",
+      "conjugation": {
+        "ich": "kühle",
+        "du": "kühlst",
+        "er_sie_es": "kühlt",
+        "wir": "kühlen",
+        "ihr": "kühlt",
+        "sie_Sie": "kühlen"
+      },
+      "tenses": {
+        "praesens": "er kühlt",
+        "praeteritum": "er kühlte",
+        "perfekt": "hat gekühlt"
+      },
+      "preposition": "im + Dativ (Kühlschrank)",
+      "example_ar": "يُبَرِّدُ إِبْرِيقَ المَاءِ فِي الثَّلَّاجَةِ لِيَبْقَى مُنْعِشًا.",
+      "example_de": "Er kühlt die Karaffe mit Wasser im Kühlschrank.",
+      "example_en": "He chills the water carafe in the refrigerator.",
+      "image_asset": "verb_drink_012.svg"
+    },
+    {
+      "id": "v84_013",
+      "ar": "يُدَفِّئُ",
+      "de": "erwärmen",
+      "en": "to warm up",
+      "conjugation": {
+        "ich": "erwärme",
+        "du": "erwärmst",
+        "er_sie_es": "erwärmt",
+        "wir": "erwärmen",
+        "ihr": "erwärmt",
+        "sie_Sie": "erwärmen"
+      },
+      "tenses": {
+        "praesens": "er erwärmt",
+        "praeteritum": "er erwärmte",
+        "perfekt": "hat erwärmt"
+      },
+      "preposition": "auf + Dativ",
+      "example_ar": "يُدَفِّئُ الحَلِيبَ مَعَ قَلِيلٍ مِنَ العَسَلِ قَبْلَ النَّوْمِ.",
+      "example_de": "Sie erwärmt die Milch mit etwas Honig vor dem Schlafen.",
+      "example_en": "She warms up the milk with a little honey before bedtime.",
+      "image_asset": "verb_drink_013.svg"
+    },
+    {
+      "id": "v84_014",
+      "ar": "يَسْتَمْتِعُ بِالشَّرَابِ",
+      "de": "genießen",
+      "en": "to enjoy / savor",
+      "conjugation": {
+        "ich": "genieße",
+        "du": "genießt",
+        "er_sie_es": "genießt",
+        "wir": "genießen",
+        "ihr": "genießt",
+        "sie_Sie": "genießen"
+      },
+      "tenses": {
+        "praesens": "er genießt",
+        "praeteritum": "er genoss",
+        "perfekt": "hat genossen"
+      },
+      "preposition": "in + Dativ (Ruhe)",
+      "example_ar": "يَسْتَمْتِعُ بِفِنْجَانِ الشَّايِ فِي جَلْسَةٍ هَادِئَةٍ مَعَ الأَهْلِ.",
+      "example_de": "Er genießt die Tasse Tee in aller Ruhe mit der Familie.",
+      "example_en": "He enjoys the cup of tea in peace with the family.",
+      "image_asset": "verb_drink_014.svg"
+    },
+    {
+      "id": "v84_015",
+      "ar": "يُعِدُّ / يُجَهِّزُ المَشْرُوبَ",
+      "de": "zubereiten",
+      "en": "to prepare",
+      "conjugation": {
+        "ich": "bereite zu",
+        "du": "bereitest zu",
+        "er_sie_es": "bereitet zu",
+        "wir": "bereiten zu",
+        "ihr": "bereitet zu",
+        "sie_Sie": "bereiten zu"
+      },
+      "tenses": {
+        "praesens": "er bereitet zu",
+        "praeteritum": "er bereitete zu",
+        "perfekt": "hat zubereitet"
+      },
+      "preposition": "aus + Dativ",
+      "example_ar": "تُعِدُّ مَشْرُوبَ الزَّنْجَبِيلِ وَاللَّيْمُونِ الطَّازَجِ.",
+      "example_de": "Sie bereitet einen frischen Ingwertee für alle zu.",
+      "example_en": "She prepares fresh ginger tea for everyone.",
+      "image_asset": "verb_drink_015.svg"
+    },
+    {
+      "id": "v84_016",
+      "ar": "يَعْصِرُ اللَّيْمُونَ",
+      "de": "auspressen",
+      "en": "to squeeze (lemon/orange)",
+      "conjugation": {
+        "ich": "presse aus",
+        "du": "presst aus",
+        "er_sie_es": "presst aus",
+        "wir": "pressen aus",
+        "ihr": "presst aus",
+        "sie_Sie": "pressen aus"
+      },
+      "tenses": {
+        "praesens": "er presst aus",
+        "praeteritum": "er presste aus",
+        "perfekt": "hat ausgepresst"
+      },
+      "preposition": "mit + Dativ",
+      "example_ar": "يَعْصِرُ حَبَّاتِ البُرْتُقَالِ الطَّازَجَةِ بِالمِعْصَرَةِ اليَدَوِيَّةِ.",
+      "example_de": "Er presst die reifen Orangen von Hand aus.",
+      "example_en": "He squeezes the ripe oranges by hand.",
+      "image_asset": "verb_drink_016.svg"
+    },
+    {
+      "id": "v84_017",
+      "ar": "يَتَذَوَّقُ",
+      "de": "kosten",
+      "en": "to taste / sample",
+      "conjugation": {
+        "ich": "koste",
+        "du": "kostest",
+        "er_sie_es": "kostet",
+        "wir": "kosten",
+        "ihr": "kostet",
+        "sie_Sie": "kosten"
+      },
+      "tenses": {
+        "praesens": "er kostet",
+        "praeteritum": "er kostete",
+        "perfekt": "hat gekostet"
+      },
+      "preposition": "von + Dativ",
+      "example_ar": "يَتَذَوَّقُ العَصِيرَ لِيَتَأَكَّدَ مِنْ حَلَاوَتِهِ الطَّبِيعِيَّةِ.",
+      "example_de": "Er kostet vom frisch zubereiteten Saft.",
+      "example_en": "He tastes the freshly made juice.",
+      "image_asset": "verb_drink_017.svg"
+    },
+    {
+      "id": "v84_018",
+      "ar": "يَصُبُّ مَزِيدًا / يُعِيدُ المَلْءَ",
+      "de": "nachschenken",
+      "en": "to refill / pour more",
+      "conjugation": {
+        "ich": "schenke nach",
+        "du": "schenkst nach",
+        "er_sie_es": "schenkt nach",
+        "wir": "schenken nach",
+        "ihr": "schenkt nach",
+        "sie_Sie": "schenken nach"
+      },
+      "tenses": {
+        "praesens": "er schenkt nach",
+        "praeteritum": "er schenkte nach",
+        "perfekt": "hat nachgeschenkt"
+      },
+      "preposition": "Dativ (jemandem)",
+      "example_ar": "يَصُبُّ لِصَاحِبِهِ مَزِيدًا مِنَ الشَّايِ بِتَرْحَابٍ كَرِيمٍ.",
+      "example_de": "Er schenkt seinem Gast gerne noch einmal Tee nach.",
+      "example_en": "He gladly pours more tea for his guest.",
+      "image_asset": "verb_drink_018.svg"
+    },
+    {
+      "id": "v84_019",
+      "ar": "يُنَاوِلُ بِأَدَبٍ",
+      "de": "überreichen",
+      "en": "to hand over politely",
+      "conjugation": {
+        "ich": "überreiche",
+        "du": "überreichst",
+        "er_sie_es": "überreicht",
+        "wir": "überreichen",
+        "ihr": "überreicht",
+        "sie_Sie": "überreichen"
+      },
+      "tenses": {
+        "praesens": "er überreicht",
+        "praeteritum": "er überreichte",
+        "perfekt": "hat überreicht"
+      },
+      "preposition": "mit + Dativ (beiden Händen)",
+      "example_ar": "يُنَاوِلُ فِنْجَانَ الشَّايِ لِلْوَالِدِ بِكِلْتَا يَدَيْهِ احْتِرَامًا.",
+      "example_de": "Er überreicht die Tasse Tee höflich mit beiden Händen.",
+      "example_en": "He politely hands over the cup of tea with both hands.",
+      "image_asset": "verb_drink_019.svg"
+    },
+    {
+      "id": "v84_020",
+      "ar": "يُنْعِشُ",
+      "de": "erfrischen",
+      "en": "to refresh / invigorate",
+      "conjugation": {
+        "ich": "erfrische",
+        "du": "erfrischst",
+        "er_sie_es": "erfrischt",
+        "wir": "erfrischen",
+        "ihr": "erfrischt",
+        "sie_Sie": "erfrischen"
+      },
+      "tenses": {
+        "praesens": "es erfrischt",
+        "praeteritum": "es erfrischte",
+        "perfekt": "hat erfrischt"
+      },
+      "preposition": "durch + Akkusativ",
+      "example_ar": "يُنْعِشُ المَاءُ البَارِدُ الجَسَدَ فِي الظَّهِيرَةِ الحَارَّةِ.",
+      "example_de": "Das kalte Wasser erfrischt den Körper an heißen Sommertagen.",
+      "example_en": "Cold water refreshes the body on hot summer days.",
+      "image_asset": "verb_drink_020.svg"
+    }
+  ]
+}

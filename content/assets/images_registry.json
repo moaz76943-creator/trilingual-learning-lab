@@ -35710,5 +35710,460 @@
     "title_ar": "الصِّحَّةُ وَالسَّلَامَةُ",
     "title_en": "health",
     "category": "vocabulary"
+  },
+  "verb_drink_001.svg": {
+    "path": "content/assets/images/verb_drink_001.svg",
+    "title_de": "trinken",
+    "title_ar": "يَشْرَبُ",
+    "title_en": "to drink",
+    "category": "verbs"
+  },
+  "verb_drink_002.svg": {
+    "path": "content/assets/images/verb_drink_002.svg",
+    "title_de": "einschenken",
+    "title_ar": "يَصُبُّ / يَسْكُبُ",
+    "title_en": "to pour",
+    "category": "verbs"
+  },
+  "verb_drink_003.svg": {
+    "path": "content/assets/images/verb_drink_003.svg",
+    "title_de": "aufgießen",
+    "title_ar": "يَنْقَعُ الأَعْشَابَ / يَصُبُّ المَاءَ السَّاخِنَ",
+    "title_en": "to infuse / pour boiling water",
+    "category": "verbs"
+  },
+  "verb_drink_004.svg": {
+    "path": "content/assets/images/verb_drink_004.svg",
+    "title_de": "ziehen lassen",
+    "title_ar": "يَتْرُكُ الشَّايَ يَنْقَعُ",
+    "title_en": "to let steep / brew",
+    "category": "verbs"
+  },
+  "verb_drink_005.svg": {
+    "path": "content/assets/images/verb_drink_005.svg",
+    "title_de": "süßen",
+    "title_ar": "يُحَلِّي بِالعَسَلِ",
+    "title_en": "to sweeten",
+    "category": "verbs"
+  },
+  "verb_drink_006.svg": {
+    "path": "content/assets/images/verb_drink_006.svg",
+    "title_de": "umrühren",
+    "title_ar": "يُحَرِّكُ بِالمِلْعَقَةِ",
+    "title_en": "to stir",
+    "category": "verbs"
+  },
+  "verb_drink_007.svg": {
+    "path": "content/assets/images/verb_drink_007.svg",
+    "title_de": "anbieten",
+    "title_ar": "يَعْرِضُ / يُقَدِّمُ ضِيَافَةً",
+    "title_en": "to offer",
+    "category": "verbs"
+  },
+  "verb_drink_008.svg": {
+    "path": "content/assets/images/verb_drink_008.svg",
+    "title_de": "bewirten",
+    "title_ar": "يُضَيِّفُ / يُكْرِمُ الوِفَادَةَ",
+    "title_en": "to host / entertain guests",
+    "category": "verbs"
+  },
+  "verb_drink_009.svg": {
+    "path": "content/assets/images/verb_drink_009.svg",
+    "title_de": "servieren",
+    "title_ar": "يُقَدِّمُ المَشْرُوبَ",
+    "title_en": "to serve (drinks)",
+    "category": "verbs"
+  },
+  "verb_drink_010.svg": {
+    "path": "content/assets/images/verb_drink_010.svg",
+    "title_de": "nippen",
+    "title_ar": "يَرْتَشِفُ رَشْفَةً",
+    "title_en": "to sip",
+    "category": "verbs"
+  },
+  "verb_drink_011.svg": {
+    "path": "content/assets/images/verb_drink_011.svg",
+    "title_de": "löschen",
+    "title_ar": "يَرْوِي العَطَشَ",
+    "title_en": "to quench (thirst)",
+    "category": "verbs"
+  },
+  "verb_drink_012.svg": {
+    "path": "content/assets/images/verb_drink_012.svg",
+    "title_de": "kühlen",
+    "title_ar": "يُبَرِّدُ",
+    "title_en": "to chill / cool",
+    "category": "verbs"
+  },
+  "verb_drink_013.svg": {
+    "path": "content/assets/images/verb_drink_013.svg",
+    "title_de": "erwärmen",
+    "title_ar": "يُدَفِّئُ",
+    "title_en": "to warm up",
+    "category": "verbs"
+  },
+  "verb_drink_014.svg": {
+    "path": "content/assets/images/verb_drink_014.svg",
+    "title_de": "genießen",
+    "title_ar": "يَسْتَمْتِعُ بِالشَّرَابِ",
+    "title_en": "to enjoy / savor",
+    "category": "verbs"
+  },
+  "verb_drink_015.svg": {
+    "path": "content/assets/images/verb_drink_015.svg",
+    "title_de": "zubereiten",
+    "title_ar": "يُعِدُّ / يُجَهِّزُ المَشْرُوبَ",
+    "title_en": "to prepare",
+    "category": "verbs"
+  },
+  "verb_drink_016.svg": {
+    "path": "content/assets/images/verb_drink_016.svg",
+    "title_de": "auspressen",
+    "title_ar": "يَعْصِرُ اللَّيْمُونَ",
+    "title_en": "to squeeze (lemon/orange)",
+    "category": "verbs"
+  },
+  "verb_drink_017.svg": {
+    "path": "content/assets/images/verb_drink_017.svg",
+    "title_de": "kosten",
+    "title_ar": "يَتَذَوَّقُ",
+    "title_en": "to taste / sample",
+    "category": "verbs"
+  },
+  "verb_drink_018.svg": {
+    "path": "content/assets/images/verb_drink_018.svg",
+    "title_de": "nachschenken",
+    "title_ar": "يَصُبُّ مَزِيدًا / يُعِيدُ المَلْءَ",
+    "title_en": "to refill / pour more",
+    "category": "verbs"
+  },
+  "verb_drink_019.svg": {
+    "path": "content/assets/images/verb_drink_019.svg",
+    "title_de": "überreichen",
+    "title_ar": "يُنَاوِلُ بِأَدَبٍ",
+    "title_en": "to hand over politely",
+    "category": "verbs"
+  },
+  "verb_drink_020.svg": {
+    "path": "content/assets/images/verb_drink_020.svg",
+    "title_de": "erfrischen",
+    "title_ar": "يُنْعِشُ",
+    "title_en": "to refresh / invigorate",
+    "category": "verbs"
+  },
+  "clean_home_001.svg": {
+    "path": "content/assets/images/clean_home_001.svg",
+    "title_de": "die Sauberkeit",
+    "title_ar": "النَّظَافَةُ",
+    "title_en": "cleanliness",
+    "category": "vocabulary"
+  },
+  "clean_home_002.svg": {
+    "path": "content/assets/images/clean_home_002.svg",
+    "title_de": "die Ordnung",
+    "title_ar": "النِّظَامُ وَالتَّرْتِيبُ",
+    "title_en": "order / neatness",
+    "category": "vocabulary"
+  },
+  "clean_home_003.svg": {
+    "path": "content/assets/images/clean_home_003.svg",
+    "title_de": "der Besen",
+    "title_ar": "المِكْنَسَةُ اليَدَوِيَّةُ",
+    "title_en": "broom",
+    "category": "vocabulary"
+  },
+  "clean_home_004.svg": {
+    "path": "content/assets/images/clean_home_004.svg",
+    "title_de": "der Mopp",
+    "title_ar": "مِمْسَحَةُ الأَرْضِيَّاتِ",
+    "title_en": "mop",
+    "category": "vocabulary"
+  },
+  "clean_home_005.svg": {
+    "path": "content/assets/images/clean_home_005.svg",
+    "title_de": "der Eimer",
+    "title_ar": "دَلْوُ المَاءِ",
+    "title_en": "bucket / pail",
+    "category": "vocabulary"
+  },
+  "clean_home_006.svg": {
+    "path": "content/assets/images/clean_home_006.svg",
+    "title_de": "das Tuch",
+    "title_ar": "قُمَاشُ التَّنْظِيفِ",
+    "title_en": "cleaning cloth",
+    "category": "vocabulary"
+  },
+  "clean_home_007.svg": {
+    "path": "content/assets/images/clean_home_007.svg",
+    "title_de": "der Lappen",
+    "title_ar": "خِرْقَةُ المَسْحِ",
+    "title_en": "rag / wipe",
+    "category": "vocabulary"
+  },
+  "clean_home_008.svg": {
+    "path": "content/assets/images/clean_home_008.svg",
+    "title_de": "das Spülmittel",
+    "title_ar": "سَائِلُ غَسْلِ الأَطْبَاقِ",
+    "title_en": "dishwashing liquid",
+    "category": "vocabulary"
+  },
+  "clean_home_009.svg": {
+    "path": "content/assets/images/clean_home_009.svg",
+    "title_de": "die Seife",
+    "title_ar": "الصَّابُونُ الطَّبِيعِيُّ",
+    "title_en": "soap",
+    "category": "vocabulary"
+  },
+  "clean_home_010.svg": {
+    "path": "content/assets/images/clean_home_010.svg",
+    "title_de": "die Waschmaschine",
+    "title_ar": "غَسَّالَةُ المَلَابِسِ",
+    "title_en": "washing machine",
+    "category": "vocabulary"
+  },
+  "clean_home_011.svg": {
+    "path": "content/assets/images/clean_home_011.svg",
+    "title_de": "das Waschmittel",
+    "title_ar": "مَسْحُوقُ الغَسِيلِ",
+    "title_en": "laundry detergent",
+    "category": "vocabulary"
+  },
+  "clean_home_012.svg": {
+    "path": "content/assets/images/clean_home_012.svg",
+    "title_de": "der Wäscheständer",
+    "title_ar": "مَنْشَرُ الغَسِيلِ",
+    "title_en": "drying rack / clothes horse",
+    "category": "vocabulary"
+  },
+  "clean_home_013.svg": {
+    "path": "content/assets/images/clean_home_013.svg",
+    "title_de": "das Bügeleisen",
+    "title_ar": "المِكْوَاةُ",
+    "title_en": "iron",
+    "category": "vocabulary"
+  },
+  "clean_home_014.svg": {
+    "path": "content/assets/images/clean_home_014.svg",
+    "title_de": "der Staubsauger",
+    "title_ar": "المِكْنَسَةُ الكَهْرَبَائِيَّةُ",
+    "title_en": "vacuum cleaner",
+    "category": "vocabulary"
+  },
+  "clean_home_015.svg": {
+    "path": "content/assets/images/clean_home_015.svg",
+    "title_de": "der Staub",
+    "title_ar": "الغُبَارُ",
+    "title_en": "dust",
+    "category": "vocabulary"
+  },
+  "clean_home_016.svg": {
+    "path": "content/assets/images/clean_home_016.svg",
+    "title_de": "der Schwamm",
+    "title_ar": "إِسْفَنْجَةُ التَّنْظِيفِ",
+    "title_en": "sponge",
+    "category": "vocabulary"
+  },
+  "clean_home_017.svg": {
+    "path": "content/assets/images/clean_home_017.svg",
+    "title_de": "der Glanz",
+    "title_ar": "اللَّمَعَانُ وَالبَرِيقُ",
+    "title_en": "shine / luster",
+    "category": "vocabulary"
+  },
+  "clean_home_018.svg": {
+    "path": "content/assets/images/clean_home_018.svg",
+    "title_de": "das Lüften",
+    "title_ar": "التَّهْوِيَةُ",
+    "title_en": "airing / ventilation",
+    "category": "vocabulary"
+  },
+  "clean_home_019.svg": {
+    "path": "content/assets/images/clean_home_019.svg",
+    "title_de": "das Fenster",
+    "title_ar": "النَّافِذَةُ",
+    "title_en": "window",
+    "category": "vocabulary"
+  },
+  "clean_home_020.svg": {
+    "path": "content/assets/images/clean_home_020.svg",
+    "title_de": "der Mülleimer",
+    "title_ar": "سَلَّةُ المُهْمَلَاتِ",
+    "title_en": "trash bin / rubbish bin",
+    "category": "vocabulary"
+  },
+  "clean_home_021.svg": {
+    "path": "content/assets/images/clean_home_021.svg",
+    "title_de": "das Recycling",
+    "title_ar": "إِعَادَةُ التَّدْوِيرِ",
+    "title_en": "recycling",
+    "category": "vocabulary"
+  },
+  "clean_home_022.svg": {
+    "path": "content/assets/images/clean_home_022.svg",
+    "title_de": "die Frische",
+    "title_ar": "النَّضَارَةُ وَالانْتِعَاشُ",
+    "title_en": "freshness",
+    "category": "vocabulary"
+  },
+  "clean_home_023.svg": {
+    "path": "content/assets/images/clean_home_023.svg",
+    "title_de": "die Bürste",
+    "title_ar": "فُرْشَاةُ التَّنْظِيفِ",
+    "title_en": "scrubbing brush",
+    "category": "vocabulary"
+  },
+  "clean_home_024.svg": {
+    "path": "content/assets/images/clean_home_024.svg",
+    "title_de": "die Reinheit",
+    "title_ar": "الطَّهَارَةُ وَالنَّقَاءُ",
+    "title_en": "purity / cleanliness",
+    "category": "vocabulary"
+  },
+  "clean_home_025.svg": {
+    "path": "content/assets/images/clean_home_025.svg",
+    "title_de": "das Heim",
+    "title_ar": "البَيْتُ الدَّافِئُ / المَسْكَنُ",
+    "title_en": "home",
+    "category": "vocabulary"
+  },
+  "verb_clean_001.svg": {
+    "path": "content/assets/images/verb_clean_001.svg",
+    "title_de": "putzen",
+    "title_ar": "يُنَظِّفُ",
+    "title_en": "to clean",
+    "category": "verbs"
+  },
+  "verb_clean_002.svg": {
+    "path": "content/assets/images/verb_clean_002.svg",
+    "title_de": "wischen",
+    "title_ar": "يَمْسَحُ الأَرْضِيَّةَ",
+    "title_en": "to wipe / mop",
+    "category": "verbs"
+  },
+  "verb_clean_003.svg": {
+    "path": "content/assets/images/verb_clean_003.svg",
+    "title_de": "kehren",
+    "title_ar": "يَكْنُسُ بِالمِكْنَسَةِ",
+    "title_en": "to sweep",
+    "category": "verbs"
+  },
+  "verb_clean_004.svg": {
+    "path": "content/assets/images/verb_clean_004.svg",
+    "title_de": "saugen",
+    "title_ar": "يَكْنُسُ بِالمِكْنَسَةِ الكَهْرَبَائِيَّةِ",
+    "title_en": "to vacuum",
+    "category": "verbs"
+  },
+  "verb_clean_005.svg": {
+    "path": "content/assets/images/verb_clean_005.svg",
+    "title_de": "aufräumen",
+    "title_ar": "يُرَتِّبُ المَكَانَ",
+    "title_en": "to tidy up",
+    "category": "verbs"
+  },
+  "verb_clean_006.svg": {
+    "path": "content/assets/images/verb_clean_006.svg",
+    "title_de": "ordnen",
+    "title_ar": "يُنَظِّمُ الأَشْيَاءَ",
+    "title_en": "to organize / arrange",
+    "category": "verbs"
+  },
+  "verb_clean_007.svg": {
+    "path": "content/assets/images/verb_clean_007.svg",
+    "title_de": "waschen",
+    "title_ar": "يَغْسِلُ (المَلَابِسَ)",
+    "title_en": "to wash (laundry)",
+    "category": "verbs"
+  },
+  "verb_clean_008.svg": {
+    "path": "content/assets/images/verb_clean_008.svg",
+    "title_de": "aufhängen",
+    "title_ar": "يَنْشُرُ الغَسِيلَ",
+    "title_en": "to hang up (laundry)",
+    "category": "verbs"
+  },
+  "verb_clean_009.svg": {
+    "path": "content/assets/images/verb_clean_009.svg",
+    "title_de": "bügeln",
+    "title_ar": "يَكْوِي المَلَابِسَ",
+    "title_en": "to iron",
+    "category": "verbs"
+  },
+  "verb_clean_010.svg": {
+    "path": "content/assets/images/verb_clean_010.svg",
+    "title_de": "zusammenlegen",
+    "title_ar": "يَطْوِي المَلَابِسَ",
+    "title_en": "to fold (laundry)",
+    "category": "verbs"
+  },
+  "verb_clean_011.svg": {
+    "path": "content/assets/images/verb_clean_011.svg",
+    "title_de": "abstauben",
+    "title_ar": "يَنْفُضُ الغُبَارَ",
+    "title_en": "to dust off",
+    "category": "verbs"
+  },
+  "verb_clean_012.svg": {
+    "path": "content/assets/images/verb_clean_012.svg",
+    "title_de": "lüften",
+    "title_ar": "يُهَوِّي الغُرْفَةَ",
+    "title_en": "to air / ventilate",
+    "category": "verbs"
+  },
+  "verb_clean_013.svg": {
+    "path": "content/assets/images/verb_clean_013.svg",
+    "title_de": "spülen",
+    "title_ar": "يَشْطُفُ بِالمَاءِ",
+    "title_en": "to rinse",
+    "category": "verbs"
+  },
+  "verb_clean_014.svg": {
+    "path": "content/assets/images/verb_clean_014.svg",
+    "title_de": "trocknen",
+    "title_ar": "يُجَفِّفُ",
+    "title_en": "to dry",
+    "category": "verbs"
+  },
+  "verb_clean_015.svg": {
+    "path": "content/assets/images/verb_clean_015.svg",
+    "title_de": "polieren",
+    "title_ar": "يُعِيدُ اللَّمَعَانَ / يُلَمِّعُ",
+    "title_en": "to polish",
+    "category": "verbs"
+  },
+  "verb_clean_016.svg": {
+    "path": "content/assets/images/verb_clean_016.svg",
+    "title_de": "wegräumen",
+    "title_ar": "يُعِيدُ الأَشْيَاءَ إِلَى مَكَانِهَا",
+    "title_en": "to put away",
+    "category": "verbs"
+  },
+  "verb_clean_017.svg": {
+    "path": "content/assets/images/verb_clean_017.svg",
+    "title_de": "leeren",
+    "title_ar": "يُفْرِغُ (سَلَّةَ المُهْمَلَاتِ)",
+    "title_en": "to empty",
+    "category": "verbs"
+  },
+  "verb_clean_018.svg": {
+    "path": "content/assets/images/verb_clean_018.svg",
+    "title_de": "wechseln",
+    "title_ar": "يُغَيِّرُ (الشَّرَاشِفَ)",
+    "title_en": "to change / replace (bedding)",
+    "category": "verbs"
+  },
+  "verb_clean_019.svg": {
+    "path": "content/assets/images/verb_clean_019.svg",
+    "title_de": "einräumen",
+    "title_ar": "يُرَتِّبُ فِي الخِزَانَةِ",
+    "title_en": "to put into cupboards / pack away",
+    "category": "verbs"
+  },
+  "verb_clean_020.svg": {
+    "path": "content/assets/images/verb_clean_020.svg",
+    "title_de": "pflegen",
+    "title_ar": "يَعْتَنِي بِـ / يُحَافِظُ عَلَى",
+    "title_en": "to maintain / care for (home)",
+    "category": "verbs"
   }
 }

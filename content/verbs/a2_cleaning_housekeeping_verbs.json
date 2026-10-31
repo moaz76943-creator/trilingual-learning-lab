@@ -1,0 +1,493 @@
+{
+  "id": "a2_cleaning_housekeeping_verbs",
+  "engine_number": 85,
+  "title_ar": "أَفْعَالُ التَّنْظِيفِ، التَّرْتِيبِ، وَشُؤُونِ المَنْزِلِ",
+  "title_de": "Verben für Putzen, Aufräumen und Haushaltsführung",
+  "title_en": "Cleaning, Tidying & Housekeeping Verbs Engine",
+  "level": "A2",
+  "description_ar": "أَفْعَالٌ أَسَاسِيَّةٌ وَيَوْمِيَّةٌ تُرَافِقُ مَهَامَّ تَرْتِيبِ الغُرَفِ، كَنْسِ الأَرْضِيَّاتِ، غَسْلِ المَلَابِسِ، وَالعِنَايَةِ الشَّامِلَةِ بِالمَسْكَنِ.",
+  "description_de": "Alltagsnahe Verben für Hausputz, Wischen, Fegen, Staubsaugen, Wäschewaschen und das Schaffen behaglicher Wohnordnung.",
+  "description_en": "Everyday verbs for housekeeping, mopping, sweeping, vacuuming, laundry, and creating a comfortable home order.",
+  "verbs": [
+    {
+      "id": "v85_001",
+      "ar": "يُنَظِّفُ",
+      "de": "putzen",
+      "en": "to clean",
+      "conjugation": {
+        "ich": "putze",
+        "du": "putzt",
+        "er_sie_es": "putzt",
+        "wir": "putzen",
+        "ihr": "putzt",
+        "sie_Sie": "putzen"
+      },
+      "tenses": {
+        "praesens": "er putzt",
+        "praeteritum": "er putzte",
+        "perfekt": "hat geputzt"
+      },
+      "preposition": "mit + Dativ",
+      "example_ar": "يُنَظِّفُ الأَوْلَادُ غُرَفَهُمْ بِتَعَاوُنٍ وَنَشَاطٍ.",
+      "example_de": "Die Kinder putzen ihr Zimmer jeden Samstag gemeinsam.",
+      "example_en": "The children clean their room together every Saturday.",
+      "image_asset": "verb_clean_001.svg"
+    },
+    {
+      "id": "v85_002",
+      "ar": "يَمْسَحُ الأَرْضِيَّةَ",
+      "de": "wischen",
+      "en": "to wipe / mop",
+      "conjugation": {
+        "ich": "wische",
+        "du": "wischst",
+        "er_sie_es": "wischt",
+        "wir": "wischen",
+        "ihr": "wischt",
+        "sie_Sie": "wischen"
+      },
+      "tenses": {
+        "praesens": "er wischt",
+        "praeteritum": "er wischte",
+        "perfekt": "hat gewischt"
+      },
+      "preposition": "mit + Dativ (Mopp)",
+      "example_ar": "يَمْسَحُ الطَّاوِلَةَ بِقُمَاشٍ نَاعِمٍ وَمُبَلَّلٍ لِيُعِيدَ إِلَيْهَا لَمَعَانَهَا النَّقِيَّ.",
+      "example_de": "Sie wischt den Tisch mit einem feuchten Tuch sauber und poliert ihn.",
+      "example_en": "She wipes the table clean with a damp cloth and polishes it.",
+      "image_asset": "verb_clean_002.svg"
+    },
+    {
+      "id": "v85_003",
+      "ar": "يَكْنُسُ بِالمِكْنَسَةِ",
+      "de": "kehren",
+      "en": "to sweep",
+      "conjugation": {
+        "ich": "kehre",
+        "du": "kehrst",
+        "er_sie_es": "kehrt",
+        "wir": "kehren",
+        "ihr": "kehrt",
+        "sie_Sie": "kehren"
+      },
+      "tenses": {
+        "praesens": "er kehrt",
+        "praeteritum": "er kehrte",
+        "perfekt": "hat gekehrt"
+      },
+      "preposition": "mit + Dativ (Besen)",
+      "example_ar": "يَكْنُسُ الشَّابُّ الأَرْضِيَّةَ بِالمِكْنَسَةِ لِإِزَالَةِ الأَتْرِبَةِ قَبْلَ المَسْحِ.",
+      "example_de": "Er kehrt den Boden gründlich mit dem Besen, bevor er ihn wischt.",
+      "example_en": "He sweeps the floor thoroughly with the broom before mopping it.",
+      "image_asset": "verb_clean_003.svg"
+    },
+    {
+      "id": "v85_004",
+      "ar": "يَكْنُسُ بِالمِكْنَسَةِ الكَهْرَبَائِيَّةِ",
+      "de": "saugen",
+      "en": "to vacuum",
+      "conjugation": {
+        "ich": "sauge",
+        "du": "saugst",
+        "er_sie_es": "saugt",
+        "wir": "saugen",
+        "ihr": "saugt",
+        "sie_Sie": "saugen"
+      },
+      "tenses": {
+        "praesens": "er saugt",
+        "praeteritum": "er saugte",
+        "perfekt": "hat gesaugt"
+      },
+      "preposition": "in + Dativ",
+      "example_ar": "يَكْنُسُ سَجَّادَ غُرْفَةِ الجُلُوسِ بِالمِكْنَسَةِ الكَهْرَبَائِيَّةِ.",
+      "example_de": "Er saugt den Teppich im Wohnzimmer gründlich ab.",
+      "example_en": "He vacuums the living room carpet thoroughly.",
+      "image_asset": "verb_clean_004.svg"
+    },
+    {
+      "id": "v85_005",
+      "ar": "يُرَتِّبُ المَكَانَ",
+      "de": "aufräumen",
+      "en": "to tidy up",
+      "conjugation": {
+        "ich": "räume auf",
+        "du": "räumst auf",
+        "er_sie_es": "räumt auf",
+        "wir": "räumen auf",
+        "ihr": "räumt auf",
+        "sie_Sie": "räumen auf"
+      },
+      "tenses": {
+        "praesens": "er räumt auf",
+        "praeteritum": "er räumte auf",
+        "perfekt": "hat aufgeräumt"
+      },
+      "preposition": "in + Dativ",
+      "example_ar": "يُرَتِّبُ مَكْتَبَهُ بَعْدَ الانْتِهَاءِ مِنْ مُذَاكَرَةِ دُرُوسِهِ.",
+      "example_de": "Er räumt seinen Schreibtisch nach den Hausaufgaben ordentlich auf.",
+      "example_en": "He tidies up his desk neatly after doing homework.",
+      "image_asset": "verb_clean_005.svg"
+    },
+    {
+      "id": "v85_006",
+      "ar": "يُنَظِّمُ الأَشْيَاءَ",
+      "de": "ordnen",
+      "en": "to organize / arrange",
+      "conjugation": {
+        "ich": "ordne",
+        "du": "ordnest",
+        "er_sie_es": "ordnet",
+        "wir": "ordnen",
+        "ihr": "ordnet",
+        "sie_Sie": "ordnen"
+      },
+      "tenses": {
+        "praesens": "er ordnet",
+        "praeteritum": "er ordnete",
+        "perfekt": "hat geordnet"
+      },
+      "preposition": "nach + Dativ",
+      "example_ar": "يُنَظِّمُ الكُتُبَ عَلَى الرُّفُوفِ بِشَكْلٍ جَمِيلٍ وَمُتَنَاسِقٍ.",
+      "example_de": "Sie ordnet die Bücher im Regal nach Sachgebieten.",
+      "example_en": "She arranges the books on the shelf by subject.",
+      "image_asset": "verb_clean_006.svg"
+    },
+    {
+      "id": "v85_007",
+      "ar": "يَغْسِلُ (المَلَابِسَ)",
+      "de": "waschen",
+      "en": "to wash (laundry)",
+      "conjugation": {
+        "ich": "wasche",
+        "du": "wäschst",
+        "er_sie_es": "wäscht",
+        "wir": "waschen",
+        "ihr": "wascht",
+        "sie_Sie": "waschen"
+      },
+      "tenses": {
+        "praesens": "er wäscht",
+        "praeteritum": "er wusch",
+        "perfekt": "hat gewaschen"
+      },
+      "preposition": "in + Dativ (Maschine)",
+      "example_ar": "يَغْسِلُ الأَبْنَاءُ مَلَابِسَهُمْ فِي الغَسَّالَةِ ثُمَّ يَنْشُرُونَهَا فِي الشَّمْسِ لِتَجِفَّ.",
+      "example_de": "Die Kinder waschen ihre Wäsche und hängen sie zum Trocknen in die Sonne.",
+      "example_en": "The children wash their laundry and hang it out in the sun to dry.",
+      "image_asset": "verb_clean_007.svg"
+    },
+    {
+      "id": "v85_008",
+      "ar": "يَنْشُرُ الغَسِيلَ",
+      "de": "aufhängen",
+      "en": "to hang up (laundry)",
+      "conjugation": {
+        "ich": "hänge auf",
+        "du": "hängst auf",
+        "er_sie_es": "hängt auf",
+        "wir": "hängen auf",
+        "ihr": "hängt auf",
+        "sie_Sie": "hängen auf"
+      },
+      "tenses": {
+        "praesens": "er hängt auf",
+        "praeteritum": "er hängte auf",
+        "perfekt": "hat aufgehängt"
+      },
+      "preposition": "auf + Akkusativ",
+      "example_ar": "يَنْشُرُ الثِّيَابَ عَلَى حَبْلِ الغَسِيلِ تَحْتَ ضَوْءِ الشَّمْسِ.",
+      "example_de": "Sie hängt die frische Wäsche auf die Leine im Garten auf.",
+      "example_en": "She hangs the fresh laundry on the line in the garden.",
+      "image_asset": "verb_clean_008.svg"
+    },
+    {
+      "id": "v85_009",
+      "ar": "يَكْوِي المَلَابِسَ",
+      "de": "bügeln",
+      "en": "to iron",
+      "conjugation": {
+        "ich": "bügele",
+        "du": "bügelst",
+        "er_sie_es": "bügelt",
+        "wir": "bügeln",
+        "ihr": "bügelt",
+        "sie_Sie": "bügeln"
+      },
+      "tenses": {
+        "praesens": "er bügelt",
+        "praeteritum": "er bügelte",
+        "perfekt": "hat gebügelt"
+      },
+      "preposition": "mit + Dativ",
+      "example_ar": "يَكْوِي قَمِيصَهُ بِمِكْوَاةِ البُخَارِ لِإِزَالَةِ التَّجَاعِيدِ.",
+      "example_de": "Er bügelt die Hemden glatt mit dem Dampfbügeleisen.",
+      "example_en": "He irons the shirts smooth with the steam iron.",
+      "image_asset": "verb_clean_009.svg"
+    },
+    {
+      "id": "v85_010",
+      "ar": "يَطْوِي المَلَابِسَ",
+      "de": "zusammenlegen",
+      "en": "to fold (laundry)",
+      "conjugation": {
+        "ich": "lege zusammen",
+        "du": "legst zusammen",
+        "er_sie_es": "legt zusammen",
+        "wir": "legen zusammen",
+        "ihr": "legt zusammen",
+        "sie_Sie": "legen zusammen"
+      },
+      "tenses": {
+        "praesens": "er legt zusammen",
+        "praeteritum": "er legte zusammen",
+        "perfekt": "hat zusammengelegt"
+      },
+      "preposition": "auf + Dativ",
+      "example_ar": "يَطْوِي المَلَابِسَ الجَافَّةَ بِعِنَايَةٍ قَبْلَ وَضْعِهَا فِي الخِزَانَةِ.",
+      "example_de": "Sie legt die getrocknete Kleidung ordentlich zusammen.",
+      "example_en": "She neatly folds the dried clothes before putting them in the closet.",
+      "image_asset": "verb_clean_010.svg"
+    },
+    {
+      "id": "v85_011",
+      "ar": "يَنْفُضُ الغُبَارَ",
+      "de": "abstauben",
+      "en": "to dust off",
+      "conjugation": {
+        "ich": "staube ab",
+        "du": "staubst ab",
+        "er_sie_es": "staubt ab",
+        "wir": "stauben ab",
+        "ihr": "staubt ab",
+        "sie_Sie": "stauben ab"
+      },
+      "tenses": {
+        "praesens": "er staubt ab",
+        "praeteritum": "er staubte ab",
+        "perfekt": "hat abgestaubt"
+      },
+      "preposition": "mit + Dativ",
+      "example_ar": "يَنْفُضُ الغُبَارَ عَنْ لَوْحَاتِ الحَائِطِ بِفُرْشَاةٍ نَاعِمَةٍ.",
+      "example_de": "Er staubt die Bilderrahmen vorsichtig mit dem Wedel ab.",
+      "example_en": "He carefully dusts the picture frames with the duster.",
+      "image_asset": "verb_clean_011.svg"
+    },
+    {
+      "id": "v85_012",
+      "ar": "يُهَوِّي الغُرْفَةَ",
+      "de": "lüften",
+      "en": "to air / ventilate",
+      "conjugation": {
+        "ich": "lüfte",
+        "du": "lüftest",
+        "er_sie_es": "lüftet",
+        "wir": "lüften",
+        "ihr": "lüftet",
+        "sie_Sie": "lüften"
+      },
+      "tenses": {
+        "praesens": "er lüftet",
+        "praeteritum": "er lüftete",
+        "perfekt": "hat gelüftet"
+      },
+      "preposition": "durch + Akkusativ",
+      "example_ar": "يُهَوِّي غُرْفَةَ النَّوْمِ عَبْرَ فَتْحِ النَّافِذَتَيْنِ لِدُخُولِ النَّسِيمِ.",
+      "example_de": "Sie lüftet das Schlafzimmer jeden Morgen zehn Minuten lang.",
+      "example_en": "She airs the bedroom every morning for ten minutes.",
+      "image_asset": "verb_clean_012.svg"
+    },
+    {
+      "id": "v85_013",
+      "ar": "يَشْطُفُ بِالمَاءِ",
+      "de": "spülen",
+      "en": "to rinse",
+      "conjugation": {
+        "ich": "spüle",
+        "du": "spülst",
+        "er_sie_es": "spült",
+        "wir": "spülen",
+        "ihr": "spült",
+        "sie_Sie": "spülen"
+      },
+      "tenses": {
+        "praesens": "er spült",
+        "praeteritum": "er spülte",
+        "perfekt": "hat gespült"
+      },
+      "preposition": "mit + Dativ",
+      "example_ar": "يَشْطُفُ الكُؤُوسَ بِمَاءٍ جَارٍ بَعْدَ غَسْلِهَا بِالصَّابُونِ.",
+      "example_de": "Er spült die Gläser gründlich mit klarem Wasser ab.",
+      "example_en": "He rinses the glasses thoroughly with clear water.",
+      "image_asset": "verb_clean_013.svg"
+    },
+    {
+      "id": "v85_014",
+      "ar": "يُجَفِّفُ",
+      "de": "trocknen",
+      "en": "to dry",
+      "conjugation": {
+        "ich": "trockne",
+        "du": "trocknest",
+        "er_sie_es": "trocknet",
+        "wir": "trocknen",
+        "ihr": "trocknet",
+        "sie_Sie": "trocknen"
+      },
+      "tenses": {
+        "praesens": "er trocknet",
+        "praeteritum": "er trocknete",
+        "perfekt": "hat getrocknet"
+      },
+      "preposition": "mit + Dativ (Handtuch)",
+      "example_ar": "يُجَفِّفُ الأَطْبَاقَ بِمِنْشَفَةٍ قُطْنِيَّةٍ نَظِيفَةٍ.",
+      "example_de": "Sie trocknet das Geschirr mit einem frischen Geschirrtuch ab.",
+      "example_en": "She dries the dishes with a fresh dish towel.",
+      "image_asset": "verb_clean_014.svg"
+    },
+    {
+      "id": "v85_015",
+      "ar": "يُعِيدُ اللَّمَعَانَ / يُلَمِّعُ",
+      "de": "polieren",
+      "en": "to polish",
+      "conjugation": {
+        "ich": "poliere",
+        "du": "polierst",
+        "er_sie_es": "poliert",
+        "wir": "polieren",
+        "ihr": "poliert",
+        "sie_Sie": "polieren"
+      },
+      "tenses": {
+        "praesens": "er poliert",
+        "praeteritum": "er polierte",
+        "perfekt": "hat poliert"
+      },
+      "preposition": "mit + Dativ",
+      "example_ar": "يُلَمِّعُ المَرَايَا وَالزُّجَاجَ حَتَّى تَصِيرَ صَافِيَةً تَمَامًا.",
+      "example_de": "Er poliert den Spiegel, bis er streifenfrei glänzt.",
+      "example_en": "He polishes the mirror until it shines streak-free.",
+      "image_asset": "verb_clean_015.svg"
+    },
+    {
+      "id": "v85_016",
+      "ar": "يُعِيدُ الأَشْيَاءَ إِلَى مَكَانِهَا",
+      "de": "wegräumen",
+      "en": "to put away",
+      "conjugation": {
+        "ich": "räume weg",
+        "du": "räumst weg",
+        "er_sie_es": "räumt weg",
+        "wir": "räumen weg",
+        "ihr": "räumt weg",
+        "sie_Sie": "räumen weg"
+      },
+      "tenses": {
+        "praesens": "er räumt weg",
+        "praeteritum": "er räumte weg",
+        "perfekt": "hat weggeräumt"
+      },
+      "preposition": "in + Akkusativ",
+      "example_ar": "يُعِيدُ الطِّفْلُ أَلْعَابَهُ إِلَى الصُّنْدُوقِ بَعْدَ الانْتِهَاءِ مِنَ اللَّعِبِ.",
+      "example_de": "Das Kind räumt seine Spielsachen ordentlich in die Kiste weg.",
+      "example_en": "The child neatly puts away his toys into the box.",
+      "image_asset": "verb_clean_016.svg"
+    },
+    {
+      "id": "v85_017",
+      "ar": "يُفْرِغُ (سَلَّةَ المُهْمَلَاتِ)",
+      "de": "leeren",
+      "en": "to empty",
+      "conjugation": {
+        "ich": "leere",
+        "du": "leerst",
+        "er_sie_es": "leert",
+        "wir": "leeren",
+        "ihr": "leert",
+        "sie_Sie": "leeren"
+      },
+      "tenses": {
+        "praesens": "er leert",
+        "praeteritum": "er leerte",
+        "perfekt": "hat geleert"
+      },
+      "preposition": "in + Akkusativ",
+      "example_ar": "يُفْرِغُ سَلَّةَ الوَرَقِ فِي صُنْدُوقِ التَّدْوِيرِ الخَارِجِيِّ.",
+      "example_de": "Er leert den Papiereimer regelmäßig in die Wertstofftonne.",
+      "example_en": "He empties the paper bin regularly into the recycling container.",
+      "image_asset": "verb_clean_017.svg"
+    },
+    {
+      "id": "v85_018",
+      "ar": "يُغَيِّرُ (الشَّرَاشِفَ)",
+      "de": "wechseln",
+      "en": "to change / replace (bedding)",
+      "conjugation": {
+        "ich": "wechsle",
+        "du": "wechselst",
+        "er_sie_es": "wechselt",
+        "wir": "wechseln",
+        "ihr": "wechselt",
+        "sie_Sie": "wechseln"
+      },
+      "tenses": {
+        "praesens": "er wechselt",
+        "praeteritum": "er wechselte",
+        "perfekt": "hat gewechselt"
+      },
+      "preposition": "gegen + Akkusativ",
+      "example_ar": "نُغَيِّرُ شَرَاشِفَ الأَسِرَّةِ أُسْبُوعِيًّا لِضَمَانِ رَاحَةٍ نَقِيَّةٍ.",
+      "example_de": "Wir wechseln die Bettwäsche regelmäßig jede Woche.",
+      "example_en": "We change the bed linen regularly every week.",
+      "image_asset": "verb_clean_018.svg"
+    },
+    {
+      "id": "v85_019",
+      "ar": "يُرَتِّبُ فِي الخِزَانَةِ",
+      "de": "einräumen",
+      "en": "to put into cupboards / pack away",
+      "conjugation": {
+        "ich": "räume ein",
+        "du": "räumst ein",
+        "er_sie_es": "räumt ein",
+        "wir": "räumen ein",
+        "ihr": "räumt ein",
+        "sie_Sie": "räumen ein"
+      },
+      "tenses": {
+        "praesens": "er räumt ein",
+        "praeteritum": "er räumte ein",
+        "perfekt": "hat eingeräumt"
+      },
+      "preposition": "in + Akkusativ",
+      "example_ar": "يُرَتِّبُ الأَوَانِيَ النَّظِيفَةَ دَاخِلَ خِزَانَةِ المَطْبَخِ.",
+      "example_de": "Sie räumt das saubere Geschirr ordentlich in den Schrank ein.",
+      "example_en": "She neatly arranges the clean dishes into the kitchen cupboard.",
+      "image_asset": "verb_clean_019.svg"
+    },
+    {
+      "id": "v85_020",
+      "ar": "يَعْتَنِي بِـ / يُحَافِظُ عَلَى",
+      "de": "pflegen",
+      "en": "to maintain / care for (home)",
+      "conjugation": {
+        "ich": "pflege",
+        "du": "pflegst",
+        "er_sie_es": "pflegt",
+        "wir": "pflegen",
+        "ihr": "pflegt",
+        "sie_Sie": "pflegen"
+      },
+      "tenses": {
+        "praesens": "er pflegt",
+        "praeteritum": "er pflegte",
+        "perfekt": "hat gepflegt"
+      },
+      "preposition": "mit + Dativ",
+      "example_ar": "يَتَعَاوَنُ الجَمِيعُ فِي إِعَادَةِ كُلِّ غَرَضٍ إِلَى مَكَانِهِ لِتَسُودَ السَّكِينَةُ فِي الدَّارِ.",
+      "example_de": "Alle helfen zusammen, um das Haus aufzuräumen und Harmonie zu schaffen.",
+      "example_en": "Everyone helps together to tidy the house and create lasting harmony.",
+      "image_asset": "verb_clean_020.svg"
+    }
+  ]
+}

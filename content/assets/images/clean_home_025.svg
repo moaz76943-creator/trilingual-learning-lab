@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="grad_clean_home_025_svg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d9488" />
+      <stop offset="100%" stop-color="#115e59" />
+    </linearGradient>
+    <filter id="shadow_clean_home_025_svg" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+  <rect width="200" height="200" rx="24" fill="url(#grad_clean_home_025_svg)" />
+  <circle cx="100" cy="85" r="46" fill="#ffffff" fill-opacity="0.22" filter="url(#shadow_clean_home_025_svg)" />
+  <polygon points="100,62 72,85 128,85" fill="#facc15"/><rect x="80" y="85" width="40" height="26" fill="#ffffff"/><rect x="94" y="95" width="12" height="16" fill="#0284c7"/>
+  <rect x="15" y="145" width="170" height="42" rx="12" fill="#ffffff" fill-opacity="0.94" filter="url(#shadow_clean_home_025_svg)" />
+  <text x="100" y="162" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="bold" font-size="11" fill="#1e293b">das Heim</text>
+  <text x="100" y="177" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="600" font-size="11" fill="#0f766e">البَيْتُ الدَّافِئُ / المَسْكَنُ</text>
+</svg>
