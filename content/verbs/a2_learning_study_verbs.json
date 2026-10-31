@@ -1,0 +1,562 @@
+[
+  {
+    "id": "verb_learn_001",
+    "infinitive": "lernen",
+    "level": "A1",
+    "category": "Learning & Study",
+    "arabic": "يَتَعَلَّمُ لُغَةً أَوْ مَهَارَةً",
+    "english": "to learn",
+    "conjugation": {
+      "praesens": {
+        "ich": "lerne",
+        "du": "lernst",
+        "er_sie_es": "lernt",
+        "wir": "lernen",
+        "ihr": "lernt",
+        "sie_Sie": "lernen"
+      },
+      "praeteritum": {
+        "ich": "lernte",
+        "er_sie_es": "lernte"
+      },
+      "perfekt": "hat gelernt"
+    },
+    "preposition": "für + Akk.",
+    "example_de": "Wir lernen jeden Tag fleißig neue Wörter für die Sprachprüfung.",
+    "example_ar": "نَتَعَلَّمُ كُلَّ يَوْمٍ بِاجْتِهَادٍ كَلِمَاتٍ جَدِيدَةً لِامْتِحَانِ اللُّغَةِ.",
+    "example_en": "We diligently learn new words every day for the language exam.",
+    "svg_icon": "content/assets/svg/verb_learn_001.svg"
+  },
+  {
+    "id": "verb_learn_002",
+    "infinitive": "studieren",
+    "level": "A2",
+    "category": "Learning & Study",
+    "arabic": "يَدْرُسُ فِي الجَامِعَةِ",
+    "english": "to study at university",
+    "conjugation": {
+      "praesens": {
+        "ich": "studiere",
+        "du": "studierst",
+        "er_sie_es": "studiert",
+        "wir": "studieren",
+        "ihr": "studiert",
+        "sie_Sie": "studieren"
+      },
+      "praeteritum": {
+        "ich": "studierte",
+        "er_sie_es": "studierte"
+      },
+      "perfekt": "hat studiert"
+    },
+    "preposition": "an + Dat.",
+    "example_de": "Mein älterer Bruder studiert Medizin an der renommierten Universität.",
+    "example_ar": "يَدْرُسُ أَخِي الأَكْبَرُ الطِّبَّ فِي جَامِعَةٍ مَرْمُوقَةٍ.",
+    "example_en": "My older brother studies medicine at the prestigious university.",
+    "svg_icon": "content/assets/svg/verb_learn_002.svg"
+  },
+  {
+    "id": "verb_learn_003",
+    "infinitive": "verstehen",
+    "level": "A1",
+    "category": "Learning & Study",
+    "arabic": "يَفْهَمُ المَعْنَى",
+    "english": "to understand",
+    "conjugation": {
+      "praesens": {
+        "ich": "verstehe",
+        "du": "verstehst",
+        "er_sie_es": "versteht",
+        "wir": "verstehen",
+        "ihr": "versteht",
+        "sie_Sie": "verstehen"
+      },
+      "praeteritum": {
+        "ich": "verstand",
+        "er_sie_es": "verstand"
+      },
+      "perfekt": "hat verstanden"
+    },
+    "preposition": "ohne + Akk.",
+    "example_de": "Dank der klaren Erklärung verstehe ich die Grammatikregel mühelos.",
+    "example_ar": "بِفَضْلِ الشَّرْحِ الوَاضِحِ أَفْهَمُ قَاعِدَةَ النَّحْوِ دُونَ عَنَاءٍ.",
+    "example_en": "Thanks to the clear explanation, I understand the grammar rule effortlessly.",
+    "svg_icon": "content/assets/svg/verb_learn_003.svg"
+  },
+  {
+    "id": "verb_learn_004",
+    "infinitive": "wiederholen",
+    "level": "A1",
+    "category": "Learning & Study",
+    "arabic": "يُكَرِّرُ / يُعِيدُ لِلتَّثْبِيتِ",
+    "english": "to review / repeat",
+    "conjugation": {
+      "praesens": {
+        "ich": "wiederhole",
+        "du": "wiederholst",
+        "er_sie_es": "wiederholt",
+        "wir": "wiederholen",
+        "ihr": "wiederholt",
+        "sie_Sie": "wiederholen"
+      },
+      "praeteritum": {
+        "ich": "wiederholte",
+        "er_sie_es": "wiederholte"
+      },
+      "perfekt": "hat wiederholt"
+    },
+    "preposition": "vor + Dat.",
+    "example_de": "Vor der Prüfung wiederholen wir die wichtigsten Dialoge noch einmal.",
+    "example_ar": "قَبْلَ الِاخْتِبَارِ نُعِيدُ أَهَمَّ الحِوَارَاتِ مَرَّةً أُخْرَى لِلتَّأْكِيدِ.",
+    "example_en": "Before the exam, we review the most important dialogues once more.",
+    "svg_icon": "content/assets/svg/verb_learn_004.svg"
+  },
+  {
+    "id": "verb_learn_005",
+    "infinitive": "üben",
+    "level": "A1",
+    "category": "Learning & Study",
+    "arabic": "يَتَمَرَّنُ / يَتَدَرَّبُ",
+    "english": "to practice / train",
+    "conjugation": {
+      "praesens": {
+        "ich": "übe",
+        "du": "übst",
+        "er_sie_es": "übt",
+        "wir": "üben",
+        "ihr": "übt",
+        "sie_Sie": "üben"
+      },
+      "praeteritum": {
+        "ich": "übte",
+        "er_sie_es": "übte"
+      },
+      "perfekt": "hat geübt"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Die Schülerin übt täglich das Sprechen mit kurzen Sätzen.",
+    "example_ar": "تَتَدَرَّبُ التِّلْمِيذَةُ يَوْمِيًّا عَلَى التَّحَدُّثِ بِجُمَلٍ قَصِيرَةٍ.",
+    "example_en": "The pupil practices speaking daily with concise sentences.",
+    "svg_icon": "content/assets/svg/verb_learn_005.svg"
+  },
+  {
+    "id": "verb_learn_006",
+    "infinitive": "fragen",
+    "level": "A1",
+    "category": "Learning & Study",
+    "arabic": "يَسْأَلُ لِلتَّعَلُّمِ",
+    "english": "to ask a question",
+    "conjugation": {
+      "praesens": {
+        "ich": "frage",
+        "du": "fragst",
+        "er_sie_es": "fragt",
+        "wir": "fragen",
+        "ihr": "fragt",
+        "sie_Sie": "fragen"
+      },
+      "praeteritum": {
+        "ich": "fragte",
+        "er_sie_es": "fragte"
+      },
+      "perfekt": "hat gefragt"
+    },
+    "preposition": "nach + Dat.",
+    "example_de": "Wenn etwas unklar ist, frage ich den Lehrer höflich nach der Bedeutung.",
+    "example_ar": "عِنْدَمَا يَكُونُ شَيْءٌ غَيْرَ وَاضِحٍ، أَسْأَلُ المُعَلِّمَ بِأَدَبٍ عَنِ المَعْنَى.",
+    "example_en": "Whenever something is unclear, I politely ask the teacher for the meaning.",
+    "svg_icon": "content/assets/svg/verb_learn_006.svg"
+  },
+  {
+    "id": "verb_learn_007",
+    "infinitive": "antworten",
+    "level": "A1",
+    "category": "Learning & Study",
+    "arabic": "يُجِيبُ بِصِحَّةٍ",
+    "english": "to answer / reply",
+    "conjugation": {
+      "praesens": {
+        "ich": "antworte",
+        "du": "antwortest",
+        "er_sie_es": "antwortet",
+        "wir": "antworten",
+        "ihr": "antwortet",
+        "sie_Sie": "antworten"
+      },
+      "praeteritum": {
+        "ich": "antwortete",
+        "er_sie_es": "antwortete"
+      },
+      "perfekt": "hat geantwortet"
+    },
+    "preposition": "auf + Akk.",
+    "example_de": "Er antwortet freundlich und präzise auf die Fragen der Prüfer.",
+    "example_ar": "يُجِيبُ بِلُطْفٍ وَدِقَّةٍ عَلَى أَسْئِلَةِ المُمْتَحِنِينَ.",
+    "example_en": "He answers the examiners' questions pleasantly and precisely.",
+    "svg_icon": "content/assets/svg/verb_learn_007.svg"
+  },
+  {
+    "id": "verb_learn_008",
+    "infinitive": "merken",
+    "level": "A2",
+    "category": "Learning & Study",
+    "arabic": "يَحْفَظُ فِي البَالِ (يَتَذَكَّرُ)",
+    "english": "to memorize / remember",
+    "conjugation": {
+      "praesens": {
+        "ich": "merke mir",
+        "du": "merkst dir",
+        "er_sie_es": "merkt sich",
+        "wir": "merken uns",
+        "ihr": "merkt euch",
+        "sie_Sie": "merken sich"
+      },
+      "praeteritum": {
+        "ich": "merkte mir",
+        "er_sie_es": "merkte sich"
+      },
+      "perfekt": "hat sich gemerkt"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Durch bildhafte Beispiele merke ich mir neue Vokabeln dauerhaft.",
+    "example_ar": "عَبْرَ الأَمْثِلَةِ المَرْئِيَّةِ أَحْفَظُ فِي بَالِي الكَلِمَاتِ الجَدِيدَةَ دَائِمًا.",
+    "example_en": "Through illustrative examples, I memorize new vocabulary permanently.",
+    "svg_icon": "content/assets/svg/verb_learn_008.svg"
+  },
+  {
+    "id": "verb_learn_009",
+    "infinitive": "behalten",
+    "level": "A2",
+    "category": "Learning & Study",
+    "arabic": "يَسْتَبْقِي فِي الذَّاكِرَةِ",
+    "english": "to retain in memory",
+    "conjugation": {
+      "praesens": {
+        "ich": "behalte",
+        "du": "behältst",
+        "er_sie_es": "behält",
+        "wir": "behalten",
+        "ihr": "behaltet",
+        "sie_Sie": "behalten"
+      },
+      "praeteritum": {
+        "ich": "behielt",
+        "er_sie_es": "behielt"
+      },
+      "perfekt": "hat behalten"
+    },
+    "preposition": "in + Dat.",
+    "example_de": "Wer den Stoff laut liest, behält ihn besser im Gedächtnis.",
+    "example_ar": "مَنْ يَقْرَأُ المَادَّةَ بِصَوْتٍ مَسْمُوعٍ يَسْتَبْقِيهَا أَفْضَلَ فِي الذَّاكِرَةِ.",
+    "example_en": "Whoever reads the material aloud retains it better in memory.",
+    "svg_icon": "content/assets/svg/verb_learn_009.svg"
+  },
+  {
+    "id": "verb_learn_010",
+    "infinitive": "erklären",
+    "level": "A2",
+    "category": "Learning & Study",
+    "arabic": "يَشْرَحُ بِوُضُوحٍ",
+    "english": "to explain lucidly",
+    "conjugation": {
+      "praesens": {
+        "ich": "erkläre",
+        "du": "erklärst",
+        "er_sie_es": "erklärt",
+        "wir": "erklären",
+        "ihr": "erklärt",
+        "sie_Sie": "erklären"
+      },
+      "praeteritum": {
+        "ich": "erklärte",
+        "er_sie_es": "erklärte"
+      },
+      "perfekt": "hat erklärt"
+    },
+    "preposition": "an + Dat.",
+    "example_de": "Die Lehrerin erklärt die schwierige Aufgabe an einem einfachen Modell.",
+    "example_ar": "تَشْرَحُ المُعَلِّمَةُ المَسْأَلَةَ الصَّعْبَةَ بِنَمُوذَجٍ بَسِيطٍ.",
+    "example_en": "The teacher explains the difficult problem using a simple model.",
+    "svg_icon": "content/assets/svg/verb_learn_010.svg"
+  },
+  {
+    "id": "verb_learn_011",
+    "infinitive": "bestehen",
+    "level": "A2",
+    "category": "Learning & Study",
+    "arabic": "يَجْتَازُ الِامْتِحَانَ بِنَجَاحٍ",
+    "english": "to pass an examination",
+    "conjugation": {
+      "praesens": {
+        "ich": "bestehe",
+        "du": "bestehst",
+        "er_sie_es": "besteht",
+        "wir": "bestehen",
+        "ihr": "besteht",
+        "sie_Sie": "bestehen"
+      },
+      "praeteritum": {
+        "ich": "bestand",
+        "er_sie_es": "bestand"
+      },
+      "perfekt": "hat bestanden"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Dank konsequenter Vorbereitung besteht er den Sprachtest mit Erfolg.",
+    "example_ar": "بِفَضْلِ الِاسْتِعْدَادِ المُنْتَظِمِ يَجْتَازُ اخْتِبَارَ اللُّغَةِ بِنَجَاحٍ.",
+    "example_en": "Thanks to consistent preparation, he passes the language exam with success.",
+    "svg_icon": "content/assets/svg/verb_learn_011.svg"
+  },
+  {
+    "id": "verb_learn_012",
+    "infinitive": "nachschlagen",
+    "level": "A2",
+    "category": "Learning & Study",
+    "arabic": "يَبْحَثُ فِي القَامُوسِ",
+    "english": "to look up in dictionary",
+    "conjugation": {
+      "praesens": {
+        "ich": "schlage nach",
+        "du": "schlägst nach",
+        "er_sie_es": "schlägt nach",
+        "wir": "schlagen nach",
+        "ihr": "schlagt nach",
+        "sie_Sie": "schlagen nach"
+      },
+      "praeteritum": {
+        "ich": "schlug nach",
+        "er_sie_es": "schlug nach"
+      },
+      "perfekt": "hat nachgeschlagen"
+    },
+    "preposition": "in + Dat.",
+    "example_de": "Unbekannte Wörter schlage ich sofort im praktischen Wörterbuch nach.",
+    "example_ar": "أَبْحَثُ عَنِ الكَلِمَاتِ غَيْرِ المَعْرُوفَةِ فَوْرًا فِي القَامُوسِ العَمَلِيِّ.",
+    "example_en": "I look up unfamiliar words immediately in the practical dictionary.",
+    "svg_icon": "content/assets/svg/verb_learn_012.svg"
+  },
+  {
+    "id": "verb_learn_013",
+    "infinitive": "vorlesen",
+    "level": "A1",
+    "category": "Learning & Study",
+    "arabic": "يَقْرَأُ بِصَوْتٍ عَالٍ لِلآخَرِينَ",
+    "english": "to read aloud",
+    "conjugation": {
+      "praesens": {
+        "ich": "lese vor",
+        "du": "liest vor",
+        "er_sie_es": "liest vor",
+        "wir": "lesen vor",
+        "ihr": "lest vor",
+        "sie_Sie": "lesen vor"
+      },
+      "praeteritum": {
+        "ich": "las vor",
+        "er_sie_es": "las vor"
+      },
+      "perfekt": "hat vorgelesen"
+    },
+    "preposition": "aus + Dat.",
+    "example_de": "Der Vater liest seinen Kindern eine lehrreiche Geschichte aus dem Buch vor.",
+    "example_ar": "يَقْرَأُ الأَبُ لِأَبْنَائِهِ قِصَّةً ذَاتَ مَوْعِظَةٍ مِنَ الكِتَابِ.",
+    "example_en": "The father reads an instructive story aloud from the book to his children.",
+    "svg_icon": "content/assets/svg/verb_learn_013.svg"
+  },
+  {
+    "id": "verb_learn_014",
+    "infinitive": "notieren",
+    "level": "A2",
+    "category": "Learning & Study",
+    "arabic": "يُدَوِّنُ المُلَاحَظَاتِ",
+    "english": "to jot down / note down",
+    "conjugation": {
+      "praesens": {
+        "ich": "notiere",
+        "du": "notierst",
+        "er_sie_es": "notiert",
+        "wir": "notieren",
+        "ihr": "notiert",
+        "sie_Sie": "notieren"
+      },
+      "praeteritum": {
+        "ich": "notierte",
+        "er_sie_es": "notierte"
+      },
+      "perfekt": "hat notiert"
+    },
+    "preposition": "in + Dat.",
+    "example_de": "Wichtige Merksätze notiere ich sauber in meinem Vokabelheft.",
+    "example_ar": "أُدَوِّنُ القَوَاعِدَ الإِرْشَادِيَّةَ المُهِمَّةَ بِنَظَافَةٍ فِي دَفْتَرِ الكَلِمَاتِ.",
+    "example_en": "I neatly note down essential mnemonic rules in my vocabulary notebook.",
+    "svg_icon": "content/assets/svg/verb_learn_014.svg"
+  },
+  {
+    "id": "verb_learn_015",
+    "infinitive": "korrigieren",
+    "level": "A2",
+    "category": "Learning & Study",
+    "arabic": "يُصَحِّحُ الأَخْطَاءَ بِعِنَايَةٍ",
+    "english": "to correct / rectify",
+    "conjugation": {
+      "praesens": {
+        "ich": "korrigiere",
+        "du": "korrigierst",
+        "er_sie_es": "korrigiert",
+        "wir": "korrigieren",
+        "ihr": "korrigiert",
+        "sie_Sie": "korrigieren"
+      },
+      "praeteritum": {
+        "ich": "korrigierte",
+        "er_sie_es": "korrigierte"
+      },
+      "perfekt": "hat korrigiert"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Der geduldige Lehrer korrigiert kleine Aussprachefehler freundlich.",
+    "example_ar": "يُصَحِّحُ المُعَلِّمُ الصَّبُورُ أَخْطَاءَ النُّطْقِ الصَّغِيرَةَ بِلُطْفٍ.",
+    "example_en": "The patient teacher gently corrects minor pronunciation mistakes.",
+    "svg_icon": "content/assets/svg/verb_learn_015.svg"
+  },
+  {
+    "id": "verb_learn_016",
+    "infinitive": "verbessern",
+    "level": "A2",
+    "category": "Learning & Study",
+    "arabic": "يُحَسِّنُ القُدُرَاتِ اللُّغَوِيَّةَ",
+    "english": "to improve skills",
+    "conjugation": {
+      "praesens": {
+        "ich": "verbessere",
+        "du": "verbesserst",
+        "er_sie_es": "verbessert",
+        "wir": "verbessern",
+        "ihr": "verbessert",
+        "sie_Sie": "verbessern"
+      },
+      "praeteritum": {
+        "ich": "verbesserte",
+        "er_sie_es": "verbesserte"
+      },
+      "perfekt": "hat verbessert"
+    },
+    "preposition": "durch + Akk.",
+    "example_de": "Durch tägliches Hören verbessert er sein Hörverstehen kontinuierlich.",
+    "example_ar": "بِالِاسْتِمَاعِ اليَوْمِيِّ يُحَسِّنُ فَهْمَهُ المَسْمُوعَ بِاسْتِمْرَارٍ.",
+    "example_en": "Through daily listening, he continuously improves his auditory comprehension.",
+    "svg_icon": "content/assets/svg/verb_learn_016.svg"
+  },
+  {
+    "id": "verb_learn_017",
+    "infinitive": "beibringen",
+    "level": "A2",
+    "category": "Learning & Study",
+    "arabic": "يُعَلِّمُ / يُلَقِّنُ شَخْصًا مَهَارَةً",
+    "english": "to teach / impart a skill",
+    "conjugation": {
+      "praesens": {
+        "ich": "bringe bei",
+        "du": "bringst bei",
+        "er_sie_es": "bringt bei",
+        "wir": "bringen bei",
+        "ihr": "bringt bei",
+        "sie_Sie": "bringen bei"
+      },
+      "praeteritum": {
+        "ich": "brachte bei",
+        "er_sie_es": "brachte bei"
+      },
+      "perfekt": "hat beigebracht"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Der Meister bringt den Schülern das Handwerk mit viel Geduld bei.",
+    "example_ar": "يُعَلِّمُ الأُسْتَاذُ التَّلَامِيذَ الحِرْفَةَ بِصَبْرٍ جَمِيلٍ.",
+    "example_en": "The master craftsman teaches the trade to the students with great patience.",
+    "svg_icon": "content/assets/svg/verb_learn_017.svg"
+  },
+  {
+    "id": "verb_learn_018",
+    "infinitive": "wissen",
+    "level": "A1",
+    "category": "Learning & Study",
+    "arabic": "يَعْلَمُ حَقِيقَةً",
+    "english": "to know a fact",
+    "conjugation": {
+      "praesens": {
+        "ich": "weiß",
+        "du": "weißt",
+        "er_sie_es": "weiß",
+        "wir": "wissen",
+        "ihr": "wisst",
+        "sie_Sie": "wissen"
+      },
+      "praeteritum": {
+        "ich": "wusste",
+        "er_sie_es": "wusste"
+      },
+      "perfekt": "hat gewusst"
+    },
+    "preposition": "über + Akk.",
+    "example_de": "Wir wissen um die Bedeutung von Bildung für eine gute Zukunft.",
+    "example_ar": "نَعْلَمُ أَهَمِّيَّةَ التَّعْلِيمِ لِبِنَاءِ مُسْتَقْبَلٍ مُشْرِقٍ.",
+    "example_en": "We know the profound significance of education for a bright future.",
+    "svg_icon": "content/assets/svg/verb_learn_018.svg"
+  },
+  {
+    "id": "verb_learn_019",
+    "infinitive": "kennen",
+    "level": "A1",
+    "category": "Learning & Study",
+    "arabic": "يَعْرِفُ شَخْصًا أَوْ كِتَابًا",
+    "english": "to know / be familiar with",
+    "conjugation": {
+      "praesens": {
+        "ich": "kenne",
+        "du": "kennst",
+        "er_sie_es": "kennt",
+        "wir": "kennen",
+        "ihr": "kennt",
+        "sie_Sie": "kennen"
+      },
+      "praeteritum": {
+        "ich": "kannte",
+        "er_sie_es": "kannte"
+      },
+      "perfekt": "hat gekannt"
+    },
+    "preposition": "aus + Dat.",
+    "example_de": "Ich kenne dieses lehrreiche Buch bereits aus meiner Schulzeit.",
+    "example_ar": "أَعْرِفُ هَذَا الكِتَابَ النَّافِعَ مُنْذُ أَيَّامِ الدِّرَاسَةِ المَدْرَسِيَّةِ.",
+    "example_en": "I am already familiar with this instructive book from my school days.",
+    "svg_icon": "content/assets/svg/verb_learn_019.svg"
+  },
+  {
+    "id": "verb_learn_020",
+    "infinitive": "zuhören",
+    "level": "A1",
+    "category": "Learning & Study",
+    "arabic": "يَسْتَمِعُ وَيُنْصِتُ بِانْتِبَاهٍ",
+    "english": "to listen attentively",
+    "conjugation": {
+      "praesens": {
+        "ich": "höre zu",
+        "du": "hörst zu",
+        "er_sie_es": "hört zu",
+        "wir": "hören zu",
+        "ihr": "hört zu",
+        "sie_Sie": "hören zu"
+      },
+      "praeteritum": {
+        "ich": "hörte zu",
+        "er_sie_es": "hörte zu"
+      },
+      "perfekt": "hat zugehört"
+    },
+    "preposition": "mit + Dat.",
+    "example_de": "Die Schüler hören der Lehrerin mit großem Interesse aufmerksam zu.",
+    "example_ar": "يَسْتَمِعُ التَّلَامِيذُ لِلمُعَلِّمَةِ بِانْتِبَاهٍ وَاهْتِمَامٍ كَبِيرٍ.",
+    "example_en": "The students listen attentively to the teacher with keen interest.",
+    "svg_icon": "content/assets/svg/verb_learn_020.svg"
+  }
+]

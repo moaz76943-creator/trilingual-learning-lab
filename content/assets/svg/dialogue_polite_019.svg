@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <defs>
+    <linearGradient id="grad_pol_18" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2E7D32" />
+      <stop offset="100%" stop-color="#66BB6A" />
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="18" fill="url(#grad_pol_18)" />
+  <!-- Dialogue bubbles and hand shake / smile motif -->
+  <path d="M 25 35 Q 25 24, 45 24 Q 65 24, 65 35 Q 65 46, 50 46 L 40 54 L 42 46 Q 25 46, 25 35 Z" fill="#FFFFFF" opacity="0.95"/>
+  <circle cx="38" cy="35" r="2.5" fill="#2E7D32"/>
+  <circle cx="45" cy="35" r="2.5" fill="#2E7D32"/>
+  <circle cx="52" cy="35" r="2.5" fill="#2E7D32"/>
+  <text x="50" y="90" font-family="system-ui, sans-serif" font-size="6.5" font-weight="bold" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.5">DIALOG-19</text>
+</svg>
