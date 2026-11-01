@@ -1,0 +1,30 @@
+{
+  "id": "category_005",
+  "name_ar": "الزِّرَاعَةُ وَالنَّبَاتَاتُ النَّافِعَةُ",
+  "name_de": "Landwirtschaft und Nutzpflanzen",
+  "name_en": "Agriculture and Beneficial Plants",
+  "cefr_level": "A2",
+  "concepts": [
+    {
+      "id": "concept_016_olive_oil",
+      "arabic": "زَيْتُ الزَّيْتُونِ المُبَارَكُ",
+      "german": "das gesegnete Olivenöl",
+      "english": "the blessed olive oil",
+      "image_key": "asset_plant_olive_oil"
+    },
+    {
+      "id": "concept_017_honey",
+      "arabic": "العَسَلُ الصَّافِي الشَّافِي",
+      "german": "der reine, heilende Honig",
+      "english": "the pure healing honey",
+      "image_key": "asset_plant_pure_honey"
+    },
+    {
+      "id": "concept_018_palm",
+      "arabic": "النَّخْلَةُ الكَرِيمَةُ",
+      "german": "die edle Palme",
+      "english": "the noble palm tree",
+      "image_key": "asset_plant_palm_tree"
+    }
+  ]
+}

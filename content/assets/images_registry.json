@@ -36695,5 +36695,11 @@
   "asset_astronomy_sun": "content/assets/svg/astronomy_sun.svg",
   "asset_astronomy_moon": "content/assets/svg/astronomy_moon.svg",
   "asset_nature_cloud": "content/assets/svg/nature_cloud.svg",
-  "asset_nature_earth": "content/assets/svg/nature_earth.svg"
+  "asset_nature_earth": "content/assets/svg/nature_earth.svg",
+  "asset_hygiene_water": "content/assets/svg/hygiene_water.svg",
+  "asset_health_nutrition": "content/assets/svg/health_nutrition.svg",
+  "asset_hygiene_cleanliness": "content/assets/svg/hygiene_cleanliness.svg",
+  "asset_plant_olive_oil": "content/assets/svg/plant_olive_oil.svg",
+  "asset_plant_pure_honey": "content/assets/svg/plant_pure_honey.svg",
+  "asset_plant_palm_tree": "content/assets/svg/plant_palm_tree.svg"
 }

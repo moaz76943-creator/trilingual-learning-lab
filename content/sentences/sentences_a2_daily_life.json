@@ -1,0 +1,24 @@
+{
+  "level": "A2",
+  "theme": "الحَيَاةُ اليَوْمِيَّةُ وَالتَّعَاوُنُ البَنَّاءُ",
+  "sentences": [
+    {
+      "id": "sent_a2_001",
+      "arabic": "يَبْدَأُ الصَّانِعُ يَوْمَهُ بِاسْمِ اللهِ وَيَعْمَلُ بِإِخْلَاصٍ.",
+      "german": "Der Handwerker beginnt seinen Tag im Namen Gottes und arbeitet aufrichtig.",
+      "english": "The craftsman begins his day in the name of God and works sincerely."
+    },
+    {
+      "id": "sent_a2_002",
+      "arabic": "التَّعَاوُنُ بَيْنَ الجِيرَانِ يَنْشُرُ المَحَبَّةَ وَالأَمَانَ فِي الحَيِّ.",
+      "german": "Die Zusammenarbeit zwischen den Nachbarn verbreitet Liebe und Sicherheit im Viertel.",
+      "english": "Cooperation among neighbors spreads love and safety in the neighborhood."
+    },
+    {
+      "id": "sent_a2_003",
+      "arabic": "طَلَبُ العِلْمِ النَّافِعِ يَرْفَعُ قَدْرَ الإِنْسَانِ وَيَخْدُمُ المُجْتَمَعَ.",
+      "german": "Das Streben nach nützlichem Wissen erhöht das Ansehen des Menschen und dient der Gesellschaft.",
+      "english": "Seeking beneficial knowledge elevates a person and serves society."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "category_004",
+  "name_ar": "الصِّحَّةُ وَالنَّظَافَةُ الشَّخْصِيَّةُ",
+  "name_de": "Gesundheit und persönliche Hygiene",
+  "name_en": "Health and Personal Hygiene",
+  "cefr_level": "A1",
+  "concepts": [
+    {
+      "id": "concept_013_water",
+      "arabic": "المَاءُ الطَّهُورُ",
+      "german": "das reine Wasser",
+      "english": "the pure water",
+      "image_key": "asset_hygiene_water"
+    },
+    {
+      "id": "concept_014_nutrition",
+      "arabic": "الغِذَاءُ الصِّحِّيُّ",
+      "german": "die gesunde Ernährung",
+      "english": "healthy nutrition",
+      "image_key": "asset_health_nutrition"
+    },
+    {
+      "id": "concept_015_cleanliness",
+      "arabic": "النَّظَافَةُ الجَمِيلَةُ",
+      "german": "die schöne Sauberkeit",
+      "english": "the beautiful cleanliness",
+      "image_key": "asset_hygiene_cleanliness"
+    }
+  ]
+}
