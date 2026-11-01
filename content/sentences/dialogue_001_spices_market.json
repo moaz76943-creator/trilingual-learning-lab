@@ -1,0 +1,37 @@
+{
+  "dialogue_id": "dialogue_001",
+  "title_ar": "فِي سُوقِ التَّوَابِلِ وَالأَعْشَابِ الطَّبِيعِيَّةِ",
+  "title_de": "Auf dem Markt für natürliche Gewürze und Kräuter",
+  "title_en": "At the Natural Spices and Herbs Market",
+  "cefr_level": "A2",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُشْتَرِي",
+      "ar": "السَّلَامُ عَلَيْكُمْ، بَارَكَ اللهُ فِي رِزْقِكَ، هَلْ لَدَيْكَ زَعْفَرَانٌ أَصِيلٌ؟",
+      "de": "Friede sei mit Ihnen! Möge Gott Ihren Lebensunterhalt segnen. Haben Sie echten Safran?",
+      "en": "Peace be upon you! May God bless your livelihood. Do you have authentic saffron?"
+    },
+    {
+      "turn": 2,
+      "speaker": "العَطَّارُ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ وَرَحْمَةُ اللهِ، أَهْلًا بِكَ. نَعَمْ، هَذَا مَحْصُولٌ جَدِيدٌ نَقِيٌّ رَائِحَتُهُ زَكِيَّةٌ.",
+      "de": "Und Friede sei mit Ihnen und Gottes Barmherzigkeit! Willkommen. Ja, das ist eine neue, reine Ernte mit herrlichem Duft.",
+      "en": "And upon you be peace and God's mercy! Welcome. Yes, this is a new, pure harvest with a delightful aroma."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُشْتَرِي",
+      "ar": "مَا شَاءَ اللهُ! أُرِيدُ أَيْضًا نِصْفَ كِيلُوغْرَامٍ مِنَ الزَّعْتَرِ البَرِّيِّ المُنَقَّى.",
+      "de": "Wie Gott will! Ich möchte auch ein halbes Kilogramm gereinigten wilden Thymian.",
+      "en": "Wonderful! I also want half a kilogram of purified wild thyme."
+    },
+    {
+      "turn": 4,
+      "speaker": "العَطَّارُ",
+      "ar": "أَبْشِرْ، هَذَا زَعْتَرٌ جَبَلِيٌّ مُجَفَّفٌ بِعِنَايَةٍ فَائِقَةٍ.",
+      "de": "Sehr gerne! Das ist Bergthymian, der mit größter Sorgfalt getrocknet wurde.",
+      "en": "With pleasure! This is mountain thyme dried with exceptional care."
+    }
+  ]
+}

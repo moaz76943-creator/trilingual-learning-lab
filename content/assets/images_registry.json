@@ -36701,5 +36701,9 @@
   "asset_hygiene_cleanliness": "content/assets/svg/hygiene_cleanliness.svg",
   "asset_plant_olive_oil": "content/assets/svg/plant_olive_oil.svg",
   "asset_plant_pure_honey": "content/assets/svg/plant_pure_honey.svg",
-  "asset_plant_palm_tree": "content/assets/svg/plant_palm_tree.svg"
+  "asset_plant_palm_tree": "content/assets/svg/plant_palm_tree.svg",
+  "asset_arch_carved_stone": "content/assets/svg/arch_carved_stone.svg",
+  "asset_arch_geometric_arch": "content/assets/svg/arch_geometric_arch.svg",
+  "asset_arch_master_builder": "content/assets/svg/arch_master_builder.svg",
+  "asset_arch_solid_foundation": "content/assets/svg/arch_solid_foundation.svg"
 }
