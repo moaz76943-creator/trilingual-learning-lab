@@ -1,5 +1,5 @@
 {
-  "count": 850,
+  "count": 870,
   "sentences": [
     {
       "id": "sent_001",
@@ -15666,6 +15666,192 @@
         "v089",
         "c157_007",
         "c157_025"
+      ]
+    },
+    {
+      "id": "s871",
+      "german": "Der Olivenbaum wächst seit hundert Jahren auf dem Hügel.",
+      "arabic": "شَجَرَةُ الزَّيْتُونِ تَنْمُو مُنْذُ مِائَةِ عَامٍ عَلَى التَّلِّ.",
+      "english": "The olive tree has been growing on the hill for a hundred years.",
+      "concept_refs": [
+        "c158_001"
+      ]
+    },
+    {
+      "id": "s872",
+      "german": "Frische Oliven reifen im warmen Herbstwind.",
+      "arabic": "حَبَّاتُ الزَّيْتُونِ الطَّازَجَةُ تَنْضَجُ فِي رِيحِ الْخَرِيفِ الدَّافِئَةِ.",
+      "english": "Fresh olives ripen in the warm autumn breeze.",
+      "concept_refs": [
+        "c158_002"
+      ]
+    },
+    {
+      "id": "s873",
+      "german": "Natives Olivenöl hat eine wunderschöne goldene Farbe.",
+      "arabic": "زَيْتُ الزَّيْتُونِ الْبِكْرُ لَهُ لَوْنٌ ذَهَبِيٌّ رَائِعٌ.",
+      "english": "Extra virgin olive oil has a wonderful golden color.",
+      "concept_refs": [
+        "c158_003"
+      ]
+    },
+    {
+      "id": "s874",
+      "german": "Die alte Ölmühle duftet nach frischem Öl.",
+      "arabic": "مَعْصَرَةُ الزَّيْتُونِ الْقَدِيمَةُ تَفُوحُ بِرَائِحَةِ الزَّيْتِ الطَّازَجِ.",
+      "english": "The old oil mill smells of fresh oil.",
+      "concept_refs": [
+        "c158_004",
+        "c158_020"
+      ]
+    },
+    {
+      "id": "s875",
+      "german": "Die ganze Familie hilft bei der Olivenernte.",
+      "arabic": "الْعَائِلَةُ بِأَكْمَلِهَا تُسَاعِدُ فِي قِطَافِ الزَّيْتُونِ.",
+      "english": "The whole family helps with the olive harvest.",
+      "concept_refs": [
+        "c158_005"
+      ]
+    },
+    {
+      "id": "s876",
+      "german": "Der schwere Mühlstein dreht sich langsam im Kreis.",
+      "arabic": "حَجَرُ الرَّحَى الثَّقِيلُ يَدُورُ بِبُطْءٍ فِي دَائِرَةٍ.",
+      "english": "The heavy millstone turns slowly in a circle.",
+      "concept_refs": [
+        "c158_006"
+      ]
+    },
+    {
+      "id": "s877",
+      "german": "Diese traditionelle Presse arbeitet mit natürlicher Kraft.",
+      "arabic": "هَذِهِ الْمِعْصَرَةُ التَّقْلِيدِيَّةُ تَعْمَلُ بِقُوَّةٍ طَبِيعِيَّةٍ.",
+      "english": "This traditional press works with natural power.",
+      "concept_refs": [
+        "c158_007"
+      ]
+    },
+    {
+      "id": "s878",
+      "german": "Grüne Oliven schmecken knackig und leicht würzig.",
+      "arabic": "الزَّيْتُونُ الْأَخْضَرُ مَذَاقُهُ مُقَرْمَشٌ وَحَارٌّ خَفِيفًا.",
+      "english": "Green olives taste crisp and slightly tangy.",
+      "concept_refs": [
+        "c158_008"
+      ]
+    },
+    {
+      "id": "s879",
+      "german": "Schwarze Oliven sind vollreif und reich an Öl.",
+      "arabic": "الزَّيْتُونُ الْأَسْوَدُ نَاضِجٌ تَمَامًا وَغَنِيٌّ بِالزَّيْتِ.",
+      "english": "Black olives are fully ripe and rich in oil.",
+      "concept_refs": [
+        "c158_009"
+      ]
+    },
+    {
+      "id": "s880",
+      "german": "Der Olivenzweig ist ein uraltes Symbol des Friedens.",
+      "arabic": "غُصْنُ الزَّيْتُونِ رَمْزٌ قَدِيمٌ لِلسَّلَامِ.",
+      "english": "The olive branch is an ancient symbol of peace.",
+      "concept_refs": [
+        "c158_010"
+      ]
+    },
+    {
+      "id": "s881",
+      "german": "Die Bauern füllen die Ernte in dicke Jutesäcke.",
+      "arabic": "الْمُزَارِعُونَ يَمْلَؤُونَ الْمَحْصُولَ فِي أَكْيَاسِ خَيْشٍ سَمِيكَةٍ.",
+      "english": "The farmers fill the harvest into thick burlap sacks.",
+      "concept_refs": [
+        "c158_011"
+      ]
+    },
+    {
+      "id": "s882",
+      "german": "Er klettert auf die hölzerne Leiter zum Pflücken.",
+      "arabic": "هُوَ يَصْعَدُ عَلَى السُّلَّمِ الْخَشَبِيِّ لِلْقِطَافِ.",
+      "english": "He climbs onto the wooden ladder for picking.",
+      "concept_refs": [
+        "c158_012"
+      ]
+    },
+    {
+      "id": "s883",
+      "german": "Wir breiten das große Erntetuch unter dem Baum aus.",
+      "arabic": "نَحْنُ نَبْسُطُ مِفْرَشَ الْجَمْعِ الْكَبِيرَ تَحْتَ الشَّجَرَةِ.",
+      "english": "We spread the large harvesting tarp under the tree.",
+      "concept_refs": [
+        "c158_013",
+        "c158_001"
+      ]
+    },
+    {
+      "id": "s884",
+      "german": "Jede Sammelkiste fasst zwanzig Kilo Oliven.",
+      "arabic": "كُلُّ صُنْدُوقِ جَمْعٍ يَسَعُ عِشْرِينَ كِيلُو زَيْتُونٍ.",
+      "english": "Each harvesting crate holds twenty kilos of olives.",
+      "concept_refs": [
+        "c158_014"
+      ]
+    },
+    {
+      "id": "s885",
+      "german": "Sanfter Druck trennt das Öl vom Fruchtfleisch.",
+      "arabic": "الضَّغْطُ اللَّطِيفُ يَفْصِلُ الزَّيْتَ عَنْ لُبِّ الثَّمَرَةِ.",
+      "english": "Gentle pressure separates the oil from the pulp.",
+      "concept_refs": [
+        "c158_015"
+      ]
+    },
+    {
+      "id": "s886",
+      "german": "Die Filterung entfernt kleine Schwebstoffe sorgfältig.",
+      "arabic": "التَّرْشِيحُ يُزِيلُ الشَّوَائِبَ الصَّغِيرَةَ بِعِنَايَةٍ.",
+      "english": "Filtration carefully removes small particles.",
+      "concept_refs": [
+        "c158_016"
+      ]
+    },
+    {
+      "id": "s887",
+      "german": "Der dunkle Ölkrug hält das Öl kühl und frisch.",
+      "arabic": "جَرَّةُ الْفَخَّارِ الدَّاكِنَةُ تُحَافِظُ عَلَى الزَّيْتِ بَارِدًا وَطَازَجًا.",
+      "english": "The dark clay jar keeps the oil cool and fresh.",
+      "concept_refs": [
+        "c158_018",
+        "c158_017"
+      ]
+    },
+    {
+      "id": "s888",
+      "german": "Die Reinheit des Öls erkennt man am klaren Geschmack.",
+      "arabic": "نَقَاءُ الزَّيْتِ يُعْرَفُ مِنْ مَذَاقِهِ الصَّافِي.",
+      "english": "The purity of the oil is recognized by its clear taste.",
+      "concept_refs": [
+        "c158_019"
+      ]
+    },
+    {
+      "id": "s889",
+      "german": "Der Olivenbaum ist ein wahrhaft gesegneter Baum.",
+      "arabic": "شَجَرَةُ الزَّيْتُونِ شَجَرَةٌ مُبَارَكَةٌ حَقًّا.",
+      "english": "The olive tree is truly a blessed tree.",
+      "concept_refs": [
+        "c158_021",
+        "c158_001"
+      ]
+    },
+    {
+      "id": "s890",
+      "german": "Wir pressen die Oliven kalt für beste Qualität.",
+      "arabic": "نَحْنُ نَعْصِرُ الزَّيْتُونَ عَلَى الْبَارِدِ لِأَفْضَلِ جَوْدَةٍ.",
+      "english": "We cold-press the olives for the best quality.",
+      "concept_refs": [
+        "v090",
+        "c158_002",
+        "c158_003"
       ]
     }
   ]

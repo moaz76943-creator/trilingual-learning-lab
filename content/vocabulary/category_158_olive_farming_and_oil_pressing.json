@@ -1,0 +1,234 @@
+{
+  "category_id": "c158",
+  "name_ar": "زِرَاعَةُ الزَّيْتُونِ وَعَصْرُ الزَّيْتِ الطَّبِيعِيِّ",
+  "name_de": "Olivenanbau und Olivenölpressung",
+  "name_en": "Olive Farming and Olive Oil Pressing",
+  "level": "A1-A2",
+  "concepts": [
+    {
+      "id": "c158_001",
+      "arabic": "شَجَرَةُ زَيْتُونٍ",
+      "german": "Olivenbaum",
+      "article": "der",
+      "plural": "Olivenbäume",
+      "english": "olive tree",
+      "level": "A1"
+    },
+    {
+      "id": "c158_002",
+      "arabic": "حَبَّةُ زَيْتُونٍ",
+      "german": "Olive",
+      "article": "die",
+      "plural": "Oliven",
+      "english": "olive",
+      "level": "A1"
+    },
+    {
+      "id": "c158_003",
+      "arabic": "زَيْتٌ بِكْرٌ",
+      "german": "natives Öl",
+      "article": "das",
+      "plural": "native Öle",
+      "english": "extra virgin oil",
+      "level": "A1"
+    },
+    {
+      "id": "c158_004",
+      "arabic": "مَعْصَرَةُ زَيْتُونٍ",
+      "german": "Ölmühle",
+      "article": "die",
+      "plural": "Ölmühlen",
+      "english": "olive press / oil mill",
+      "level": "A2"
+    },
+    {
+      "id": "c158_005",
+      "arabic": "قِطَافُ الزَّيْتُونِ",
+      "german": "Olivenernte",
+      "article": "die",
+      "plural": "Olivenernten",
+      "english": "olive harvest",
+      "level": "A1"
+    },
+    {
+      "id": "c158_006",
+      "arabic": "حَجَرُ الرَّحَى",
+      "german": "Mühlstein",
+      "article": "der",
+      "plural": "Mühlsteine",
+      "english": "millstone",
+      "level": "A2"
+    },
+    {
+      "id": "c158_007",
+      "arabic": "مِعْصَرَةٌ تَقْلِيدِيَّةٌ",
+      "german": "Presse",
+      "article": "die",
+      "plural": "Pressen",
+      "english": "traditional press",
+      "level": "A2"
+    },
+    {
+      "id": "c158_008",
+      "arabic": "زَيْتُونٌ أَخْضَرُ",
+      "german": "grüne Olive",
+      "article": "die",
+      "plural": "grüne Oliven",
+      "english": "green olive",
+      "level": "A1"
+    },
+    {
+      "id": "c158_009",
+      "arabic": "زَيْتُونٌ أَسْوَدُ",
+      "german": "schwarze Olive",
+      "article": "die",
+      "plural": "schwarze Oliven",
+      "english": "black olive",
+      "level": "A1"
+    },
+    {
+      "id": "c158_010",
+      "arabic": "غُصْنُ زَيْتُونٍ",
+      "german": "Olivenzweig",
+      "article": "der",
+      "plural": "Olivenzweige",
+      "english": "olive branch",
+      "level": "A1"
+    },
+    {
+      "id": "c158_011",
+      "arabic": "كِيسُ خَيْشٍ",
+      "german": "Jutesack",
+      "article": "der",
+      "plural": "Jutesäcke",
+      "english": "burlap sack",
+      "level": "A2"
+    },
+    {
+      "id": "c158_012",
+      "arabic": "سُلَّمُ قِطَافٍ",
+      "german": "Leiter",
+      "article": "die",
+      "plural": "Leitern",
+      "english": "harvesting ladder",
+      "level": "A1"
+    },
+    {
+      "id": "c158_013",
+      "arabic": "مِفْرَشُ جَمْعٍ",
+      "german": "Erntetuch",
+      "article": "das",
+      "plural": "Erntetücher",
+      "english": "harvesting tarp",
+      "level": "A2"
+    },
+    {
+      "id": "c158_014",
+      "arabic": "صُنْدُوقُ جَمْعٍ",
+      "german": "Sammelkiste",
+      "article": "die",
+      "plural": "Sammelkisten",
+      "english": "harvesting crate",
+      "level": "A1"
+    },
+    {
+      "id": "c158_015",
+      "arabic": "ضَغْطٌ هِيدْرُولِيكِيٌّ",
+      "german": "Druck",
+      "article": "der",
+      "plural": "Drücke",
+      "english": "hydraulic pressure",
+      "level": "A2"
+    },
+    {
+      "id": "c158_016",
+      "arabic": "تَرْشِيحُ الزَّيْتِ",
+      "german": "Filterung",
+      "article": "die",
+      "plural": "Filterungen",
+      "english": "oil filtration",
+      "level": "A2"
+    },
+    {
+      "id": "c158_017",
+      "arabic": "وِعَاءُ حِفْظٍ",
+      "german": "Behälter",
+      "article": "der",
+      "plural": "Behälter",
+      "english": "storage container",
+      "level": "A1"
+    },
+    {
+      "id": "c158_018",
+      "arabic": "جَرَّةُ فَخَّارٍ لِلزَّيْتِ",
+      "german": "Ölkrug",
+      "article": "der",
+      "plural": "Ölkrüge",
+      "english": "clay oil jar",
+      "level": "A1"
+    },
+    {
+      "id": "c158_019",
+      "arabic": "نَقَاءُ الزَّيْتِ",
+      "german": "Reinheit",
+      "article": "die",
+      "plural": "Reinheiten",
+      "english": "oil purity",
+      "level": "A2"
+    },
+    {
+      "id": "c158_020",
+      "arabic": "رَائِحَةٌ زَكِيَّةٌ",
+      "german": "Duft",
+      "article": "der",
+      "plural": "Düfte",
+      "english": "pleasant aroma",
+      "level": "A1"
+    },
+    {
+      "id": "c158_021",
+      "arabic": "شَجَرَةٌ مُبَارَكَةٌ",
+      "german": "gesegneter Baum",
+      "article": "der",
+      "plural": "gesegnete Bäume",
+      "english": "blessed tree",
+      "level": "A1"
+    },
+    {
+      "id": "c158_022",
+      "arabic": "زِرَاعَةٌ عُضْوِيَّةٌ",
+      "german": "Biolandbau",
+      "article": "der",
+      "plural": "Biolandbaue",
+      "english": "organic farming",
+      "level": "A2"
+    },
+    {
+      "id": "c158_023",
+      "arabic": "أَوْرَاقُ زَيْتُونٍ",
+      "german": "Olivenblätter",
+      "article": "die",
+      "plural": "Olivenblätter",
+      "english": "olive leaves",
+      "level": "A1"
+    },
+    {
+      "id": "c158_024",
+      "arabic": "مَحْصُولٌ وَفِيرٌ",
+      "german": "Ertrag",
+      "article": "der",
+      "plural": "Erträge",
+      "english": "plentiful yield",
+      "level": "A2"
+    },
+    {
+      "id": "c158_025",
+      "arabic": "صِحَّةٌ وَمَنَاعَةٌ",
+      "german": "Gesundheit",
+      "article": "die",
+      "plural": "Gesundheiten",
+      "english": "health and immunity",
+      "level": "A1"
+    }
+  ]
+}

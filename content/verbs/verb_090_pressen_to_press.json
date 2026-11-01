@@ -1,0 +1,34 @@
+{
+  "verb_id": "v090",
+  "infinitive_de": "pressen",
+  "root_ar": "عَصَرَ",
+  "infinitive_en": "to press / to extract",
+  "level": "A1",
+  "present": {
+    "ich": "presse",
+    "du": "presst",
+    "er_sie_es": "presst",
+    "wir": "pressen",
+    "ihr": "presst",
+    "sie_Sie": "pressen"
+  },
+  "past": {
+    "ich": "presste",
+    "du": "presstest",
+    "er_sie_es": "presste",
+    "wir": "pressten",
+    "ihr": "presstet",
+    "sie_Sie": "pressten"
+  },
+  "perfect": {
+    "auxiliary": "haben",
+    "participle": "gepresst"
+  },
+  "examples": [
+    {
+      "german": "Die Mühle presst frische Oliven zu feinstem Öl.",
+      "arabic": "الْمَعْصَرَةُ تَعْصِرُ الزَّيْتُونَ الطَّازَجَ إِلَى أَجْوَدِ زَيْتٍ.",
+      "english": "The mill presses fresh olives into the finest oil."
+    }
+  ]
+}
