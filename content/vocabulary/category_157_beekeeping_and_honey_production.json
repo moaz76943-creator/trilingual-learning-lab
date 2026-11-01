@@ -1,0 +1,234 @@
+{
+  "category_id": "c157",
+  "name_ar": "تَرْبِيَةُ النَّحْلِ وَإِنْتَاجُ الْعَسَلِ الطَّبِيعِيِّ",
+  "name_de": "Imkerei und Honigherstellung",
+  "name_en": "Beekeeping and Honey Production",
+  "level": "A1-A2",
+  "concepts": [
+    {
+      "id": "c157_001",
+      "arabic": "نَحْلٌ",
+      "german": "Biene",
+      "article": "die",
+      "plural": "Bienen",
+      "english": "bee",
+      "level": "A1"
+    },
+    {
+      "id": "c157_002",
+      "arabic": "خَلِيَّةُ نَحْلٍ",
+      "german": "Bienenstock",
+      "article": "der",
+      "plural": "Bienenstöcke",
+      "english": "beehive",
+      "level": "A1"
+    },
+    {
+      "id": "c157_003",
+      "arabic": "مَلِكَةُ النَّحْلِ",
+      "german": "Bienenkönigin",
+      "article": "die",
+      "plural": "Bienenköniginnen",
+      "english": "queen bee",
+      "level": "A2"
+    },
+    {
+      "id": "c157_004",
+      "arabic": "عَامِلَةُ النَّحْلِ",
+      "german": "Arbeiterin",
+      "article": "die",
+      "plural": "Arbeiterinnen",
+      "english": "worker bee",
+      "level": "A2"
+    },
+    {
+      "id": "c157_005",
+      "arabic": "شَمْعُ عَسَلٍ",
+      "german": "Bienenwachs",
+      "article": "das",
+      "plural": "Bienenwachse",
+      "english": "beeswax",
+      "level": "A2"
+    },
+    {
+      "id": "c157_006",
+      "arabic": "قُرْصُ عَسَلٍ",
+      "german": "Honigwabe",
+      "article": "die",
+      "plural": "Honigwaben",
+      "english": "honeycomb",
+      "level": "A1"
+    },
+    {
+      "id": "c157_007",
+      "arabic": "عَسَلٌ نَقِيٌّ",
+      "german": "Honig",
+      "article": "der",
+      "plural": "Honige",
+      "english": "pure honey",
+      "level": "A1"
+    },
+    {
+      "id": "c157_008",
+      "arabic": "رَحِيقُ الْأَزْهَارِ",
+      "german": "Nektar",
+      "article": "der",
+      "plural": "Nektare",
+      "english": "flower nectar",
+      "level": "A1"
+    },
+    {
+      "id": "c157_009",
+      "arabic": "حُبُوبُ لِقَاحٍ",
+      "german": "Pollen",
+      "article": "die",
+      "plural": "Pollen",
+      "english": "flower pollen",
+      "level": "A2"
+    },
+    {
+      "id": "c157_010",
+      "arabic": "لِبَاسُ النَّحَّالِ",
+      "german": "Imkeranzug",
+      "article": "der",
+      "plural": "Imkeranzüge",
+      "english": "beekeeper suit",
+      "level": "A2"
+    },
+    {
+      "id": "c157_011",
+      "arabic": "قِنَاعُ حِمَايَةٍ",
+      "german": "Schleier",
+      "article": "der",
+      "plural": "Schleier",
+      "english": "protective veil",
+      "level": "A2"
+    },
+    {
+      "id": "c157_012",
+      "arabic": "قُفَّازَاتٌ وَاقِيَةٌ",
+      "german": "Handschuhe",
+      "article": "die",
+      "plural": "Handschuhe",
+      "english": "protective gloves",
+      "level": "A1"
+    },
+    {
+      "id": "c157_013",
+      "arabic": "مِدْخَنَةُ النَّحْلِ",
+      "german": "Smoker",
+      "article": "der",
+      "plural": "Smoker",
+      "english": "bee smoker",
+      "level": "A2"
+    },
+    {
+      "id": "c157_014",
+      "arabic": "عَتَلَةُ النَّحَّالِ",
+      "german": "Stockmeißel",
+      "article": "der",
+      "plural": "Stockmeißel",
+      "english": "hive tool",
+      "level": "A2"
+    },
+    {
+      "id": "c157_015",
+      "arabic": "فَرَّازَةُ عَسَلٍ",
+      "german": "Honigschleuder",
+      "article": "die",
+      "plural": "Honigschleudern",
+      "english": "honey extractor",
+      "level": "A2"
+    },
+    {
+      "id": "c157_016",
+      "arabic": "مِرْطَبَانُ عَسَلٍ",
+      "german": "Honigglas",
+      "article": "das",
+      "plural": "Honiggläser",
+      "english": "honey jar",
+      "level": "A1"
+    },
+    {
+      "id": "c157_017",
+      "arabic": "طَنِينُ النَّحْلِ",
+      "german": "Summen",
+      "article": "das",
+      "plural": "Summen",
+      "english": "buzzing",
+      "level": "A1"
+    },
+    {
+      "id": "c157_018",
+      "arabic": "لَسْعَةُ نَحْلَةٍ",
+      "german": "Bienenstich",
+      "article": "der",
+      "plural": "Bienenstiche",
+      "english": "bee sting",
+      "level": "A2"
+    },
+    {
+      "id": "c157_019",
+      "arabic": "لِقَاحٌ نَبَاتِيٌّ",
+      "german": "Bestäubung",
+      "article": "die",
+      "plural": "Bestäubungen",
+      "english": "pollination",
+      "level": "A2"
+    },
+    {
+      "id": "c157_020",
+      "arabic": "نَحَّالٌ مَاهِرٌ",
+      "german": "Imker",
+      "article": "der",
+      "plural": "Imker",
+      "english": "beekeeper",
+      "level": "A1"
+    },
+    {
+      "id": "c157_021",
+      "arabic": "شِفَاءٌ وَعَافِيَةٌ",
+      "german": "Heilung",
+      "article": "die",
+      "plural": "Heilungen",
+      "english": "healing / cure",
+      "level": "A1"
+    },
+    {
+      "id": "c157_022",
+      "arabic": "غِذَاءُ الْمَلِكَاتِ",
+      "german": "Gelée Royale",
+      "article": "das",
+      "plural": "Gelée Royale",
+      "english": "royal jelly",
+      "level": "A2"
+    },
+    {
+      "id": "c157_023",
+      "arabic": "عُكْبَرٌ",
+      "german": "Propolis",
+      "article": "das",
+      "plural": "Propolis",
+      "english": "propolis / bee glue",
+      "level": "A2"
+    },
+    {
+      "id": "c157_024",
+      "arabic": "مَرْعَى نَحْلٍ",
+      "german": "Bienenweide",
+      "article": "die",
+      "plural": "Bienenweiden",
+      "english": "bee pasture",
+      "level": "A2"
+    },
+    {
+      "id": "c157_025",
+      "arabic": "جَنْيُ الْعَسَلِ",
+      "german": "Honigernte",
+      "article": "die",
+      "plural": "Honigernten",
+      "english": "honey harvest",
+      "level": "A1"
+    }
+  ]
+}

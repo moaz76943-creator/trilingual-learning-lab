@@ -1,0 +1,34 @@
+{
+  "verb_id": "v089",
+  "infinitive_de": "ernten",
+  "root_ar": "جَنَى",
+  "infinitive_en": "to harvest / to gather",
+  "level": "A1",
+  "present": {
+    "ich": "ernte",
+    "du": "erntest",
+    "er_sie_es": "erntet",
+    "wir": "ernten",
+    "ihr": "erntet",
+    "sie_Sie": "ernten"
+  },
+  "past": {
+    "ich": "erntete",
+    "du": "erntetest",
+    "er_sie_es": "erntete",
+    "wir": "ernteten",
+    "ihr": "erntetet",
+    "sie_Sie": "ernteten"
+  },
+  "perfect": {
+    "auxiliary": "haben",
+    "participle": "geerntet"
+  },
+  "examples": [
+    {
+      "german": "Der Imker erntet im Sommer süßen Honig.",
+      "arabic": "النَّحَّالُ يَجْنِي فِي الصَّيْفِ عَسَلًا حُلْوًا.",
+      "english": "The beekeeper harvests sweet honey in summer."
+    }
+  ]
+}

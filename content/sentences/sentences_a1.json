@@ -1,5 +1,5 @@
 {
-  "count": 830,
+  "count": 850,
   "sentences": [
     {
       "id": "sent_001",
@@ -15478,6 +15478,194 @@
         "v088",
         "c156_001",
         "c156_007"
+      ]
+    },
+    {
+      "id": "s851",
+      "german": "Die Bienen fliegen von Blume zu Blume.",
+      "arabic": "النَّحْلُ يَطِيرُ مِنْ زَهْرَةٍ إِلَى زَهْرَةٍ.",
+      "english": "The bees fly from flower to flower.",
+      "concept_refs": [
+        "c157_001"
+      ]
+    },
+    {
+      "id": "s852",
+      "german": "Der Bienenstock steht am Rande der Wiese.",
+      "arabic": "خَلِيَّةُ النَّحْلِ تَقِفُ عَلَى حَافَّةِ الْمَرْجِ.",
+      "english": "The beehive stands at the edge of the meadow.",
+      "concept_refs": [
+        "c157_002"
+      ]
+    },
+    {
+      "id": "s853",
+      "german": "Die Bienenkönigin legt viele Eier jeden Tag.",
+      "arabic": "مَلِكَةُ النَّحْلِ تَضَعُ بَيْضًا كَثِيرًا كُلَّ يَوْمٍ.",
+      "english": "The queen bee lays many eggs every day.",
+      "concept_refs": [
+        "c157_003"
+      ]
+    },
+    {
+      "id": "s854",
+      "german": "Die fleißige Arbeiterin sammelt frischen Nektar.",
+      "arabic": "الْعَامِلَةُ النَّشِيطَةُ تَجْمَعُ رَحِيقًا طَازَجًا.",
+      "english": "The diligent worker bee collects fresh nectar.",
+      "concept_refs": [
+        "c157_004",
+        "c157_008"
+      ]
+    },
+    {
+      "id": "s855",
+      "german": "Aus reinem Bienenwachs machen wir Kerzen.",
+      "arabic": "مِنْ شَمْعِ الْعَسَلِ النَّقِيِّ نَصْنَعُ شُمُوعًا.",
+      "english": "From pure beeswax we make candles.",
+      "concept_refs": [
+        "c157_005"
+      ]
+    },
+    {
+      "id": "s856",
+      "german": "Die Honigwabe ist voll mit süßem Gold.",
+      "arabic": "قُرْصُ الْعَسَلِ مَلِيءٌ بِالذَّهَبِ الْحُلْوِ.",
+      "english": "The honeycomb is full of sweet gold.",
+      "concept_refs": [
+        "c157_006",
+        "c157_007"
+      ]
+    },
+    {
+      "id": "s857",
+      "german": "Reiner Honig schmeckt wunderbar zum Frühstück.",
+      "arabic": "الْعَسَلُ النَّقِيُّ مَذَاقُهُ رَائِعٌ فِي الْإِفْطَارِ.",
+      "english": "Pure honey tastes wonderful for breakfast.",
+      "concept_refs": [
+        "c157_007"
+      ]
+    },
+    {
+      "id": "s858",
+      "german": "Bienen tragen gelbe Pollen an ihren Beinen.",
+      "arabic": "النَّحْلُ يَحْمِلُ حُبُوبَ لِقَاحٍ صَفْرَاءَ عَلَى أَرْجُلِهِ.",
+      "english": "Bees carry yellow pollen on their legs.",
+      "concept_refs": [
+        "c157_009"
+      ]
+    },
+    {
+      "id": "s859",
+      "german": "Der weiße Imkeranzug schützt vor Stichen.",
+      "arabic": "لِبَاسُ النَّحَّالِ الْأَبْيَضُ يَحْمِي مِنَ اللَّسَعَاتِ.",
+      "english": "The white beekeeper suit protects against stings.",
+      "concept_refs": [
+        "c157_010",
+        "c157_018"
+      ]
+    },
+    {
+      "id": "s860",
+      "german": "Der Schleier bedeckt das Gesicht sicher.",
+      "arabic": "قِنَاعُ الْحِمَايَةِ يُغَطِّي الْوَجْهَ بِأَمَانٍ.",
+      "english": "The protective veil covers the face safely.",
+      "concept_refs": [
+        "c157_011"
+      ]
+    },
+    {
+      "id": "s861",
+      "german": "Er zieht dicke Handschuhe bei der Arbeit an.",
+      "arabic": "هُوَ يَلْبَسُ قُفَّازَاتٍ سَمِيكَةً أَثْنَاءَ الْعَمَلِ.",
+      "english": "He puts on thick gloves during work.",
+      "concept_refs": [
+        "c157_012"
+      ]
+    },
+    {
+      "id": "s862",
+      "german": "Der Imker beruhigt das Volk mit dem Smoker.",
+      "arabic": "النَّحَّالُ يُهَدِّئُ خَلِيَّةَ النَّحْلِ بِالْمِدْخَنَةِ.",
+      "english": "The beekeeper calms the colony with the smoker.",
+      "concept_refs": [
+        "c157_013",
+        "c157_020"
+      ]
+    },
+    {
+      "id": "s863",
+      "german": "Mit dem Stockmeißel öffnet er den Kasten.",
+      "arabic": "بِعَتَلَةِ النَّحَّالِ يَفْتَحُ الصُّنْدُوقَ.",
+      "english": "With the hive tool he opens the box.",
+      "concept_refs": [
+        "c157_014"
+      ]
+    },
+    {
+      "id": "s864",
+      "german": "Die Honigschleuder dreht die Waben schnell.",
+      "arabic": "فَرَّازَةُ الْعَسَلِ تُدِيرُ الْأَقْرَاصَ بِسُرْعَةٍ.",
+      "english": "The honey extractor spins the combs quickly.",
+      "concept_refs": [
+        "c157_015",
+        "c157_006"
+      ]
+    },
+    {
+      "id": "s865",
+      "german": "Ein großes Honigglas steht im Küchenschrank.",
+      "arabic": "مِرْطَبَانُ عَسَلٍ كَبِيرٌ يَقِفُ فِي خِزَانَةِ الْمَطْبَخِ.",
+      "english": "A large honey jar sits in the kitchen cupboard.",
+      "concept_refs": [
+        "c157_016"
+      ]
+    },
+    {
+      "id": "s866",
+      "german": "Das leise Summen erfüllt den Garten.",
+      "arabic": "الطَّنِينُ الْهَادِئُ يَمْلَأُ الْحَدِيقَةَ.",
+      "english": "The quiet buzzing fills the garden.",
+      "concept_refs": [
+        "c157_017"
+      ]
+    },
+    {
+      "id": "s867",
+      "german": "Die Bestäubung durch Bienen hilft den Obstbäumen.",
+      "arabic": "اللِّقَاحُ النَّبَاتِيُّ بِوَاسِطَةِ النَّحْلِ يُسَاعِدُ أَشْجَارَ الْفَاكِهَةِ.",
+      "english": "Pollination by bees helps the fruit trees.",
+      "concept_refs": [
+        "c157_019"
+      ]
+    },
+    {
+      "id": "s868",
+      "german": "Honig bringt natürliche Heilung für den Hals.",
+      "arabic": "الْعَسَلُ يَجْلِبُ شِفَاءً طَبِيعِيًّا لِلْحَلْقِ.",
+      "english": "Honey brings natural healing for the throat.",
+      "concept_refs": [
+        "c157_021",
+        "c157_007"
+      ]
+    },
+    {
+      "id": "s869",
+      "german": "Diese bunte Blumenwiese ist eine ideale Bienenweide.",
+      "arabic": "هَذَا الْمَرْجُ الْمُزْهِرُ مَرْعًى مِثَالِيٌّ لِلنَّحْلِ.",
+      "english": "This colorful flower meadow is an ideal bee pasture.",
+      "concept_refs": [
+        "c157_024"
+      ]
+    },
+    {
+      "id": "s870",
+      "german": "Wir ernten heute frischen Waldhonig.",
+      "arabic": "نَحْنُ نَجْنِي الْيَوْمَ عَسَلَ غَابَاتٍ طَازَجًا.",
+      "english": "We are harvesting fresh forest honey today.",
+      "concept_refs": [
+        "v089",
+        "c157_007",
+        "c157_025"
       ]
     }
   ]
