@@ -1,28 +1,23 @@
 import 'package:flutter/material.dart';
-import 'screens/categories_screen.dart';
+import 'core/di/injection_container.dart';
+import 'core/router/app_router.dart';
 
-void main() {
+void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  runApp(const TrilingualApp());
+  await AppDI.initialize();
+  runApp(const MyApp());
 }
 
-class TrilingualApp extends StatelessWidget {
-  const TrilingualApp({super.key});
+class MyApp extends StatelessWidget {
+  const MyApp({super.key});
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Trilingual Learning Lab',
-      debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-        useMaterial3: true,
-        colorScheme: ColorScheme.fromSeed(
-          seedColor: const Color(0xFF0284C7),
-          surface: const Color(0xFFF8FAFC),
-        ),
-        scaffoldBackgroundColor: const Color(0xFFF8FAFC),
-      ),
-      home: const CategoriesScreen(),
+      theme: ThemeData(primarySwatch: Colors.teal),
+      onGenerateRoute: AppRouter.generateRoute,
+      initialRoute: AppRoutes.home,
     );
   }
 }

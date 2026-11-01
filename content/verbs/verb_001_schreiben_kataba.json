@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_001",
+  "root_ar": "ك-ت-ب",
+  "infinitive_ar": "كَتَبَ - يَكْتُبُ",
+  "infinitive_de": "schreiben",
+  "infinitive_en": "to write",
+  "cefr_level": "A1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَكْتُبُ",
+      "de_ich": "ich schreibe",
+      "en_i": "I write"
+    },
+    "past": {
+      "ar_ana": "أَنَا كَتَبْتُ",
+      "de_ich": "ich schrieb",
+      "en_i": "I wrote"
+    }
+  }
+}

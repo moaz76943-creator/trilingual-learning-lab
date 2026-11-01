@@ -1,4 +1,9 @@
 import 'dart:async';
+import '../storage/secure_storage_service.dart';
+import '../../data/unified_content_repository.dart';
+import '../../features/settings/presentation/language_controller.dart';
+import '../../features/search/presentation/controllers/search_controller.dart';
+import '../../features/home/presentation/controllers/home_controller.dart';
 
 typedef FactoryFunc<T> = T Function();
 
@@ -12,31 +17,18 @@ class AppDI {
   final Map<Type, FactoryFunc<dynamic>> _lazySingletons = {};
   final Map<Type, FactoryFunc<dynamic>> _factories = {};
 
-  /// تسجيل كائن أحادي جاهز (Singleton)
   void registerSingleton<T>(T instance) {
-    if (_singletons.containsKey(T)) {
-      throw StateError('النوع $T مسجل بالفعل كـ Singleton');
-    }
     _singletons[T] = instance;
   }
 
-  /// تسجيل مصنع كسلان يتم إنشاؤه عند أول طلب فقط (Lazy Singleton)
   void registerLazySingleton<T>(FactoryFunc<T> factory) {
-    if (_lazySingletons.containsKey(T) || _singletons.containsKey(T)) {
-      throw StateError('النوع $T مسجل بالفعل');
-    }
     _lazySingletons[T] = factory;
   }
 
-  /// تسجيل مصنع يُنشئ كائناً جديداً في كل استدعاء (Factory)
   void registerFactory<T>(FactoryFunc<T> factory) {
-    if (_factories.containsKey(T)) {
-      throw StateError('النوع $T مسجل بالفعل كـ Factory');
-    }
     _factories[T] = factory;
   }
 
-  /// استرجاع النسخة المسجلة من النوع المطلوب
   T get<T>() {
     if (_singletons.containsKey(T)) {
       return _singletons[T] as T;
@@ -53,14 +45,12 @@ class AppDI {
     throw StateError('النوع $T غير مسجل في حاوية حقن التبعيات AppDI');
   }
 
-  /// التحقق من تسجيل نوع معين
   bool isRegistered<T>() {
     return _singletons.containsKey(T) ||
         _lazySingletons.containsKey(T) ||
         _factories.containsKey(T);
   }
 
-  /// إعادة ضبط الحاوية لمسارات الاختبار
   void reset() {
     _singletons.clear();
     _lazySingletons.clear();
@@ -68,10 +58,29 @@ class AppDI {
   }
 }
 
-/// الاختصار العام للوصول لحاوية التبعيات
 final di = AppDI();
 
-/// نقطة تهيئة التبعيات النواتية للتطبيق
+/// نقطة تهيئة وربط كافة التبعيات النواتية للتطبيق
 Future<void> initDependencies() async {
-  // جاهز لتسجيل قواعد البيانات ومستودعات البيانات في المهام القادمة
+  // 1. خدمات التخزين الآمن
+  final storage = SecureStorageService();
+  di.registerSingleton<SecureStorageService>(storage);
+
+  // 2. مستودع المحتوى التعليمي الموحد
+  final contentRepo = UnifiedContentRepository();
+  await contentRepo.preload();
+  di.registerSingleton<UnifiedContentRepository>(contentRepo);
+
+  // 3. متحكم اللغة والإعدادات
+  final langController = LanguageController(storage);
+  await langController.init();
+  di.registerSingleton<LanguageController>(langController);
+
+  // 4. متحكمات الواجهة التفاعلية (Search & Home)
+  di.registerFactory<TrilingualSearchController>(
+    () => TrilingualSearchController(contentRepo),
+  );
+  di.registerFactory<HomeController>(
+    () => HomeController(storage),
+  );
 }

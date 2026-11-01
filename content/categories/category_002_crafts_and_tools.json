@@ -1,0 +1,30 @@
+{
+  "id": "category_002",
+  "name_ar": "الحِرَفُ اليَدَوِيَّةُ وَالأَدَوَاتُ",
+  "name_de": "Handwerk und Werkzeuge",
+  "name_en": "Craftsmanship and Tools",
+  "cefr_level": "A2",
+  "concepts": [
+    {
+      "id": "concept_005_carpenter",
+      "arabic": "النَّجَّارُ المَاهِرُ",
+      "german": "der geschickte Tischler",
+      "english": "the skilled carpenter",
+      "image_key": "asset_craft_carpenter"
+    },
+    {
+      "id": "concept_006_hammer",
+      "arabic": "المِطْرَقَةُ القَوِيَّةُ",
+      "german": "der starke Hammer",
+      "english": "the strong hammer",
+      "image_key": "asset_tool_hammer"
+    },
+    {
+      "id": "concept_007_workbench",
+      "arabic": "طَاوِلَةُ العَمَلِ",
+      "german": "die Werkbank",
+      "english": "the workbench",
+      "image_key": "asset_tool_workbench"
+    }
+  ]
+}

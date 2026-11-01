@@ -1,0 +1,15 @@
+{
+  "verb_id": "verb_002",
+  "root_ar": "ع-م-ل",
+  "infinitive_ar": "عَمِلَ - يَعْمَلُ",
+  "infinitive_de": "arbeiten",
+  "infinitive_en": "to work",
+  "cefr_level": "A1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَعْمَلُ بِإِتْقَانٍ",
+      "de_ich": "ich arbeite fleißig",
+      "en_i": "I work diligently"
+    }
+  }
+}

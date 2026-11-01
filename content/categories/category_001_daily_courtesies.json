@@ -1,0 +1,37 @@
+{
+  "id": "category_001",
+  "name_ar": "التَّحِيَّاتُ وَاللَّبَاقَةُ اليَوْمِيَّةُ",
+  "name_de": "Tägliche Höflichkeit und Begrüßungen",
+  "name_en": "Daily Courtesies and Greetings",
+  "cefr_level": "A1",
+  "concepts": [
+    {
+      "id": "concept_001_peace",
+      "arabic": "السَّلَامُ عَلَيْكُمْ",
+      "german": "Friede sei mit euch",
+      "english": "Peace be upon you",
+      "image_key": "asset_greeting_peace"
+    },
+    {
+      "id": "concept_002_morning",
+      "arabic": "صَبَاحُ الخَيْرِ",
+      "german": "Guten Morgen",
+      "english": "Good morning",
+      "image_key": "asset_greeting_morning"
+    },
+    {
+      "id": "concept_003_thanks",
+      "arabic": "شُكْرًا جَزِيلًا",
+      "german": "Vielen Dank",
+      "english": "Thank you very much",
+      "image_key": "asset_courtesy_thanks"
+    },
+    {
+      "id": "concept_004_welcome",
+      "arabic": "أَهْلًا وَسَهْلًا",
+      "german": "Herzlich willkommen",
+      "english": "Welcome",
+      "image_key": "asset_courtesy_welcome"
+    }
+  ]
+}
