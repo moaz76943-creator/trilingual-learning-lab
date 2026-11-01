@@ -1,0 +1,34 @@
+{
+  "verb_id": "v091",
+  "infinitive_de": "bewässern",
+  "root_ar": "سَقَى",
+  "infinitive_en": "to irrigate / to water",
+  "level": "A1",
+  "present": {
+    "ich": "bewässere",
+    "du": "bewässerst",
+    "er_sie_es": "bewässert",
+    "wir": "bewässern",
+    "ihr": "bewässert",
+    "sie_Sie": "bewässern"
+  },
+  "past": {
+    "ich": "bewässerte",
+    "du": "bewässertest",
+    "er_sie_es": "bewässerte",
+    "wir": "bewässerten",
+    "ihr": "bewässertet",
+    "sie_Sie": "bewässerten"
+  },
+  "perfect": {
+    "auxiliary": "haben",
+    "participle": "bewässert"
+  },
+  "examples": [
+    {
+      "german": "Der Bauer bewässert die Felder am frühen Morgen.",
+      "arabic": "الْمُزَارِعُ يَسْقِي الْحُقُولَ فِي الصَّبَاحِ الْبَاكِرِ.",
+      "english": "The farmer irrigates the fields in the early morning."
+    }
+  ]
+}

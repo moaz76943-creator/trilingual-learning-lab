@@ -1,0 +1,234 @@
+{
+  "category_id": "c159",
+  "name_ar": "حَفْرُ الْآبَارِ وَشَبَكَاتُ الرَّيِّ وَالْمِيَاهِ",
+  "name_de": "Brunnenbau, Bewässerungssysteme und Wassernetze",
+  "name_en": "Water Wells, Irrigation Systems, and Water Networks",
+  "level": "A1-A2",
+  "concepts": [
+    {
+      "id": "c159_001",
+      "arabic": "بِئْرُ مَاءٍ",
+      "german": "Brunnen",
+      "article": "der",
+      "plural": "Brunnen",
+      "english": "water well",
+      "level": "A1"
+    },
+    {
+      "id": "c159_002",
+      "arabic": "يَنْبُوعٌ",
+      "german": "Quelle",
+      "article": "die",
+      "plural": "Quellen",
+      "english": "spring / fountain",
+      "level": "A1"
+    },
+    {
+      "id": "c159_003",
+      "arabic": "مِيَاهٌ جَوْفِيَّةٌ",
+      "german": "Grundwasser",
+      "article": "das",
+      "plural": "Grundwässer",
+      "english": "groundwater",
+      "level": "A2"
+    },
+    {
+      "id": "c159_004",
+      "arabic": "مِضَخَّةُ مَاءٍ",
+      "german": "Wasserpumpe",
+      "article": "die",
+      "plural": "Wasserpumpen",
+      "english": "water pump",
+      "level": "A1"
+    },
+    {
+      "id": "c159_005",
+      "arabic": "أُنْبُوبُ مِيَاهٍ",
+      "german": "Wasserrohr",
+      "article": "das",
+      "plural": "Wasserrohre",
+      "english": "water pipe",
+      "level": "A1"
+    },
+    {
+      "id": "c159_006",
+      "arabic": "رَيٌّ بِالتَّنْقِيطِ",
+      "german": "Tröpfchenbewässerung",
+      "article": "die",
+      "plural": "Tröpfchenbewässerungen",
+      "english": "drip irrigation",
+      "level": "A2"
+    },
+    {
+      "id": "c159_007",
+      "arabic": "خَزَّانُ مَاءٍ",
+      "german": "Wassertank",
+      "article": "der",
+      "plural": "Wassertanks",
+      "english": "water tank",
+      "level": "A1"
+    },
+    {
+      "id": "c159_008",
+      "arabic": "صِمَامُ تَحَكُّمٍ",
+      "german": "Ventil",
+      "article": "das",
+      "plural": "Ventile",
+      "english": "control valve",
+      "level": "A2"
+    },
+    {
+      "id": "c159_009",
+      "arabic": "فِلْتَرُ تَنْقِيَةٍ",
+      "german": "Wasserfilter",
+      "article": "der",
+      "plural": "Wasserfilter",
+      "english": "water filter",
+      "level": "A2"
+    },
+    {
+      "id": "c159_010",
+      "arabic": "عُذُوبَةُ الْمَاءِ",
+      "german": "Süßwasser",
+      "article": "das",
+      "plural": "Süßwässer",
+      "english": "fresh water",
+      "level": "A1"
+    },
+    {
+      "id": "c159_011",
+      "arabic": "سَدٌّ مَائِيٌّ",
+      "german": "Staudamm",
+      "article": "der",
+      "plural": "Staudämme",
+      "english": "water dam",
+      "level": "A2"
+    },
+    {
+      "id": "c159_012",
+      "arabic": "قَنَاةُ رَيٍّ",
+      "german": "Bewässerungskanal",
+      "article": "der",
+      "plural": "Bewässerungskanäle",
+      "english": "irrigation canal",
+      "level": "A2"
+    },
+    {
+      "id": "c159_013",
+      "arabic": "رَشَّاشُ مَاءٍ",
+      "german": "Sprenger",
+      "article": "der",
+      "plural": "Sprenger",
+      "english": "sprinkler",
+      "level": "A1"
+    },
+    {
+      "id": "c159_014",
+      "arabic": "مَنْسُوبُ الْمِيَاهِ",
+      "german": "Wasserspiegel",
+      "article": "der",
+      "plural": "Wasserspiegel",
+      "english": "water table level",
+      "level": "A2"
+    },
+    {
+      "id": "c159_015",
+      "arabic": "حَفْرٌ عَمِيقٌ",
+      "german": "Bohrung",
+      "article": "die",
+      "plural": "Bohrungen",
+      "english": "deep drilling",
+      "level": "A2"
+    },
+    {
+      "id": "c159_016",
+      "arabic": "تَدَفُّقُ الْمَاءِ",
+      "german": "Durchfluss",
+      "article": "der",
+      "plural": "Durchflüsse",
+      "english": "water flow",
+      "level": "A2"
+    },
+    {
+      "id": "c159_017",
+      "arabic": "تَرْشِيدُ الِاسْتِهْلَاكِ",
+      "german": "Wassersparen",
+      "article": "das",
+      "plural": "Wassersparen",
+      "english": "water conservation",
+      "level": "A1"
+    },
+    {
+      "id": "c159_018",
+      "arabic": "جَفَافٌ",
+      "german": "Trockenheit",
+      "article": "die",
+      "plural": "Trockenheiten",
+      "english": "drought",
+      "level": "A1"
+    },
+    {
+      "id": "c159_019",
+      "arabic": "مِيَاهُ أَمْطَارٍ",
+      "german": "Regenwasser",
+      "article": "das",
+      "plural": "Regenwässer",
+      "english": "rainwater",
+      "level": "A1"
+    },
+    {
+      "id": "c159_020",
+      "arabic": "تَجْمِيعُ الْمِيَاهِ",
+      "german": "Wassersammlung",
+      "article": "die",
+      "plural": "Wassersammlungen",
+      "english": "rainwater harvesting",
+      "level": "A2"
+    },
+    {
+      "id": "c159_021",
+      "arabic": "شَبَكَةُ تَوْزِيعٍ",
+      "german": "Verteilungsnetz",
+      "article": "das",
+      "plural": "Verteilungsnetze",
+      "english": "distribution network",
+      "level": "A2"
+    },
+    {
+      "id": "c159_022",
+      "arabic": "ضَغْطُ الْمِيَاهِ",
+      "german": "Wasserdruck",
+      "article": "der",
+      "plural": "Wassdrücke",
+      "english": "water pressure",
+      "level": "A1"
+    },
+    {
+      "id": "c159_023",
+      "arabic": "نَقَاءٌ صَافٍ",
+      "german": "Reinheit",
+      "article": "die",
+      "plural": "Reinheiten",
+      "english": "clear purity",
+      "level": "A1"
+    },
+    {
+      "id": "c159_024",
+      "arabic": "مَاءٌ زُلَالٌ",
+      "german": "kristallklares Wasser",
+      "article": "das",
+      "plural": "kristallklare Wässer",
+      "english": "crystal pure water",
+      "level": "A1"
+    },
+    {
+      "id": "c159_025",
+      "arabic": "خُصُوبَةُ الْأَرْضِ",
+      "german": "Fruchtbarkeit",
+      "article": "die",
+      "plural": "Fruchtbarkeiten",
+      "english": "land fertility",
+      "level": "A1"
+    }
+  ]
+}

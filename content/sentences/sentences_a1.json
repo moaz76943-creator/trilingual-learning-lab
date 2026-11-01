@@ -1,5 +1,5 @@
 {
-  "count": 870,
+  "count": 890,
   "sentences": [
     {
       "id": "sent_001",
@@ -15852,6 +15852,193 @@
         "v090",
         "c158_002",
         "c158_003"
+      ]
+    },
+    {
+      "id": "s891",
+      "german": "Das Wasser aus diesem tiefen Brunnen ist sehr frisch.",
+      "arabic": "الْمَاءُ مِنْ هَذَا الْبِئْرِ الْعَمِيقِ عَذْبٌ جِدًّا.",
+      "english": "The water from this deep well is very fresh.",
+      "concept_refs": [
+        "c159_001",
+        "c159_015"
+      ]
+    },
+    {
+      "id": "s892",
+      "german": "Eine natürliche Quelle entspringt am Fuße des Berges.",
+      "arabic": "يَنْبُوعٌ طَبِيعِيٌّ يَنْبُعُ عِنْدَ سَفْحِ الْجَبَلِ.",
+      "english": "A natural spring emerges at the foot of the mountain.",
+      "concept_refs": [
+        "c159_002"
+      ]
+    },
+    {
+      "id": "s893",
+      "german": "Das Grundwasser muss vor Verschmutzung geschützt werden.",
+      "arabic": "الْمِيَاهُ الْجَوْفِيَّةُ يَجِبُ حِمَايَتُهَا مِنَ التَّلَوُّثِ.",
+      "english": "Groundwater must be protected from pollution.",
+      "concept_refs": [
+        "c159_003"
+      ]
+    },
+    {
+      "id": "s894",
+      "german": "Die starke Wasserpumpe fördert hundert Liter pro Minute.",
+      "arabic": "مِضَخَّةُ الْمَاءِ الْقَوِيَّةُ تَضُخُّ مِائَةَ لِتْرٍ فِي الدَّقِيقَةِ.",
+      "english": "The powerful water pump delivers a hundred liters per minute.",
+      "concept_refs": [
+        "c159_004"
+      ]
+    },
+    {
+      "id": "s895",
+      "german": "Das unterirdische Wasserrohr leitet das Wasser zum Garten.",
+      "arabic": "أُنْبُوبُ الْمِيَاهِ تَحْتَ الْأَرْضِ يَنْقُلُ الْمَاءَ إِلَى الْحَدِيقَةِ.",
+      "english": "The underground water pipe directs water to the garden.",
+      "concept_refs": [
+        "c159_005"
+      ]
+    },
+    {
+      "id": "s896",
+      "german": "Tröpfchenbewässerung spart viel wertvolles Wasser.",
+      "arabic": "الرَّيُّ بِالتَّنْقِيطِ يُوَفِّرُ كَثِيرًا مِنَ الْمَاءِ الثَّمِينِ.",
+      "english": "Drip irrigation saves a lot of valuable water.",
+      "concept_refs": [
+        "c159_006",
+        "c159_017"
+      ]
+    },
+    {
+      "id": "s897",
+      "german": "Der große Wassertank speichert Wasser für den Sommer.",
+      "arabic": "خَزَّانُ الْمَاءِ الْكَبِيرُ يَخْزُنُ الْمَاءَ لِفَصْلِ الصَّيْفِ.",
+      "english": "The large water tank stores water for the summer.",
+      "concept_refs": [
+        "c159_007"
+      ]
+    },
+    {
+      "id": "s898",
+      "german": "Schließe das Ventil, um den Durchfluss zu stoppen.",
+      "arabic": "أَغْلِقِ الصِّمَامَ لِإِيقَافِ التَّدَفُّقِ.",
+      "english": "Close the valve to stop the flow.",
+      "concept_refs": [
+        "c159_008",
+        "c159_016"
+      ]
+    },
+    {
+      "id": "s899",
+      "german": "Der Wasserfilter sorgt für sauberes Trinkwasser.",
+      "arabic": "فِلْتَرُ التَّنْقِيَةِ يُؤَمِّنُ مَاءَ شُرْبٍ نَظِيفًا.",
+      "english": "The water filter ensures clean drinking water.",
+      "concept_refs": [
+        "c159_009"
+      ]
+    },
+    {
+      "id": "s900",
+      "german": "Klares Süßwasser ist die Grundlage allen Lebens.",
+      "arabic": "عُذُوبَةُ الْمَاءِ الصَّافِي هِيَ أَسَاسُ كُلِّ حَيَاةٍ.",
+      "english": "Clear fresh water is the foundation of all life.",
+      "concept_refs": [
+        "c159_010"
+      ]
+    },
+    {
+      "id": "s901",
+      "german": "Der Staudamm hält das Wasser des Tals zurück.",
+      "arabic": "السَّدُّ الْمَائِيُّ يَحْجِزُ مِيَاهَ الْوَادِي.",
+      "english": "The water dam holds back the water of the valley.",
+      "concept_refs": [
+        "c159_011"
+      ]
+    },
+    {
+      "id": "s902",
+      "german": "Das Wasser fließt durch den breiten Kanal.",
+      "arabic": "الْمَاءُ يَجْرِي عَبْرَ الْقَنَاةِ الْعَرِيضَةِ.",
+      "english": "The water flows through the wide canal.",
+      "concept_refs": [
+        "c159_012"
+      ]
+    },
+    {
+      "id": "s903",
+      "german": "Der Sprenger verteilt das Wasser gleichmäßig auf dem Rasen.",
+      "arabic": "الرَّشَّاشُ يُوَزِّعُ الْمَاءَ بِانْتِظَامٍ عَلَى الْعُشْبِ.",
+      "english": "The sprinkler distributes water evenly on the lawn.",
+      "concept_refs": [
+        "c159_013"
+      ]
+    },
+    {
+      "id": "s904",
+      "german": "Der Wasserspiegel steigt nach den Regenfällen an.",
+      "arabic": "مَنْسُوبُ الْمِيَاهِ يَرْتَفِعُ بَعْدَ هُطُولِ الْأَمْطَارِ.",
+      "english": "The water table rises after the rainfalls.",
+      "concept_refs": [
+        "c159_014",
+        "c159_019"
+      ]
+    },
+    {
+      "id": "s905",
+      "german": "Wassersparen schützt die Umwelt und senkt Kosten.",
+      "arabic": "تَرْشِيدُ الِاسْتِهْلَاكِ يَحْمِي الْبِيئَةَ وَيُقَلِّلُ التَّكَالِيفَ.",
+      "english": "Water conservation protects the environment and reduces costs.",
+      "concept_refs": [
+        "c159_017"
+      ]
+    },
+    {
+      "id": "s906",
+      "german": "Lange Trockenheit schadet den Feldern.",
+      "arabic": "الْجَفَافُ الطَّوِيلُ يَضُرُّ بِالْحُقُولِ.",
+      "english": "Prolonged drought harms the fields.",
+      "concept_refs": [
+        "c159_018"
+      ]
+    },
+    {
+      "id": "s907",
+      "german": "Wir sammeln Regenwasser vom Dach in Tonnen.",
+      "arabic": "نَحْنُ نَجْمَعُ مِيَاهَ الْأَمْطَارِ مِنَ السَّطْحِ فِي بَرَامِيلَ.",
+      "english": "We collect rainwater from the roof in barrels.",
+      "concept_refs": [
+        "c159_019",
+        "c159_020"
+      ]
+    },
+    {
+      "id": "s908",
+      "german": "Ein stabiles Verteilungsnetz versorgt das ganze Dorf.",
+      "arabic": "شَبَكَةُ تَوْزِيعٍ مُسْتَقِرَّةٌ تُغَذِّي الْقَرْيَةَ بِأَكْمَلِهَا.",
+      "english": "A stable distribution network supplies the whole village.",
+      "concept_refs": [
+        "c159_021"
+      ]
+    },
+    {
+      "id": "s909",
+      "german": "Aus dem Berg fließt kristallklares Wasser.",
+      "arabic": "مِنَ الْجَبَلِ يَتَدَفَّقُ مَاءٌ زُلَالٌ صَافٍ.",
+      "english": "Crystal pure water flows from the mountain.",
+      "concept_refs": [
+        "c159_024",
+        "c159_023"
+      ]
+    },
+    {
+      "id": "s910",
+      "german": "Wir bewässern die Olivenbäume regelmäßig.",
+      "arabic": "نَحْنُ نَسْقِي أَشْجَارَ الزَّيْتُونِ بَانْتِظَامٍ.",
+      "english": "We irrigate the olive trees regularly.",
+      "concept_refs": [
+        "v091",
+        "c159_025"
       ]
     }
   ]
