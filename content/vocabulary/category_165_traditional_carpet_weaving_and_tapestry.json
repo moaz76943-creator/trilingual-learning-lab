@@ -1,0 +1,234 @@
+{
+  "category_id": "c165",
+  "name_ar": "حِيَاكَةُ السَّجَّادِ التَّقْلِيدِيِّ وَفُنُونُ النَّسِيجِ",
+  "name_de": "Teppichweberei und traditionelle Webkunst",
+  "name_en": "Traditional Carpet Weaving and Tapestry",
+  "level": "A1-A2",
+  "concepts": [
+    {
+      "id": "c165_001",
+      "arabic": "نَوْلُ حِيَاكَةٍ",
+      "german": "Webstuhl",
+      "article": "der",
+      "plural": "Webstühle",
+      "english": "weaving loom",
+      "level": "A1"
+    },
+    {
+      "id": "c165_002",
+      "arabic": "سَجَّادٌ يَدَوِيٌّ",
+      "german": "handgewebter Teppich",
+      "article": "der",
+      "plural": "handgewebte Teppiche",
+      "english": "handwoven carpet",
+      "level": "A1"
+    },
+    {
+      "id": "c165_003",
+      "arabic": "خَيْطُ السَّدَى",
+      "german": "Kettfaden",
+      "article": "der",
+      "plural": "Kettfäden",
+      "english": "warp thread",
+      "level": "A2"
+    },
+    {
+      "id": "c165_004",
+      "arabic": "خَيْطُ اللُّحْمَةِ",
+      "german": "Schussfaden",
+      "article": "der",
+      "plural": "Schussfäden",
+      "english": "weft thread",
+      "level": "A2"
+    },
+    {
+      "id": "c165_005",
+      "arabic": "صُوفٌ مَغْزُولٌ",
+      "german": "gesponnene Wolle",
+      "article": "die",
+      "plural": "gesponnene Wollen",
+      "english": "spun wool",
+      "level": "A1"
+    },
+    {
+      "id": "c165_006",
+      "arabic": "مَكُّوكُ النَّسِيجِ",
+      "german": "Webschiffchen",
+      "article": "das",
+      "plural": "Webschiffchen",
+      "english": "shuttle",
+      "level": "A2"
+    },
+    {
+      "id": "c165_007",
+      "arabic": "مِشْطُ النَّسَّاجِ",
+      "german": "Webkamm",
+      "article": "der",
+      "plural": "Webkämme",
+      "english": "weaving comb",
+      "level": "A2"
+    },
+    {
+      "id": "c165_008",
+      "arabic": "صِبَاغٌ طَبِيعِيٌّ",
+      "german": "Pflanzenfarbstoff",
+      "article": "der",
+      "plural": "Pflanzenfarbstoffe",
+      "english": "natural plant dye",
+      "level": "A2"
+    },
+    {
+      "id": "c165_009",
+      "arabic": "عُقْدَةٌ مُحْكَمَةٌ",
+      "german": "fester Knoten",
+      "article": "der",
+      "plural": "feste Knoten",
+      "english": "tight knot",
+      "level": "A1"
+    },
+    {
+      "id": "c165_010",
+      "arabic": "زَخْرَفَةٌ شَرْقِيَّةٌ",
+      "german": "orientalisches Muster",
+      "article": "das",
+      "plural": "orientalische Muster",
+      "english": "oriental ornament",
+      "level": "A1"
+    },
+    {
+      "id": "c165_011",
+      "arabic": "هَنْدَسَةٌ بَصَرِيَّةٌ",
+      "german": "geometrische Form",
+      "article": "die",
+      "plural": "geometrische Formen",
+      "english": "geometric shape",
+      "level": "A2"
+    },
+    {
+      "id": "c165_012",
+      "arabic": "حَافَّةُ السَّجَّادَةِ",
+      "german": "Teppichkante",
+      "article": "die",
+      "plural": "Teppichkanten",
+      "english": "carpet border",
+      "level": "A1"
+    },
+    {
+      "id": "c165_013",
+      "arabic": "أَهْدَابٌ مُتَدَلِّيَةٌ",
+      "german": "Fransen",
+      "article": "die",
+      "plural": "Fransen",
+      "english": "fringes",
+      "level": "A1"
+    },
+    {
+      "id": "c165_014",
+      "arabic": "مَغْزَلٌ يَدَوِيٌّ",
+      "german": "Handspindel",
+      "article": "die",
+      "plural": "Handspindeln",
+      "english": "hand spindle",
+      "level": "A2"
+    },
+    {
+      "id": "c165_015",
+      "arabic": "حَرِيرٌ طَبِيعِيٌّ",
+      "german": "Naturseide",
+      "article": "die",
+      "plural": "Naturseiden",
+      "english": "natural silk",
+      "level": "A1"
+    },
+    {
+      "id": "c165_016",
+      "arabic": "لَوْنٌ نَاصِعٌ",
+      "german": "leuchtende Farbe",
+      "article": "die",
+      "plural": "leuchtende Farben",
+      "english": "bright color",
+      "level": "A1"
+    },
+    {
+      "id": "c165_017",
+      "arabic": "كَثَافَةُ الْعُقَدِ",
+      "german": "Knotendichte",
+      "article": "die",
+      "plural": "Knotendichten",
+      "english": "knot density",
+      "level": "A2"
+    },
+    {
+      "id": "c165_018",
+      "arabic": "نَسَّاجٌ مَاهِرٌ",
+      "german": "Weber",
+      "article": "der",
+      "plural": "Weber",
+      "english": "skilled weaver",
+      "level": "A1"
+    },
+    {
+      "id": "c165_019",
+      "arabic": "لَوْحَةٌ نَسِيجِيَّةٌ",
+      "german": "Wandteppich",
+      "article": "der",
+      "plural": "Wandteppiche",
+      "english": "tapestry",
+      "level": "A2"
+    },
+    {
+      "id": "c165_020",
+      "arabic": "صَبْرٌ وَإِتْقَانٌ",
+      "german": "Geduld",
+      "article": "die",
+      "plural": "Gedulden",
+      "english": "patience and precision",
+      "level": "A1"
+    },
+    {
+      "id": "c165_021",
+      "arabic": "صَفٌّ مَنْسُوجٌ",
+      "german": "Reihe",
+      "article": "die",
+      "plural": "Reihen",
+      "english": "woven row",
+      "level": "A2"
+    },
+    {
+      "id": "c165_022",
+      "arabic": "صِلَابَةُ النَّسِيجِ",
+      "german": "Haltbarkeit",
+      "article": "die",
+      "plural": "Haltbarkeiten",
+      "english": "fabric durability",
+      "level": "A2"
+    },
+    {
+      "id": "c165_023",
+      "arabic": "نَمَطٌ تُرَاثِيٌّ",
+      "german": "traditioneller Stil",
+      "article": "der",
+      "plural": "traditionelle Stile",
+      "english": "traditional style",
+      "level": "A1"
+    },
+    {
+      "id": "c165_024",
+      "arabic": "تَصْمِيمٌ مُتَنَاظِرٌ",
+      "german": "Symmetrie",
+      "article": "die",
+      "plural": "Symmetrien",
+      "english": "symmetrical design",
+      "level": "A2"
+    },
+    {
+      "id": "c165_025",
+      "arabic": "تُحْفَةٌ فَنِّيَّةٌ",
+      "german": "Kunstwerk",
+      "article": "das",
+      "plural": "Kunstwerke",
+      "english": "masterpiece",
+      "level": "A1"
+    }
+  ]
+}

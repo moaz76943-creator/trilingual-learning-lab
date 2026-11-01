@@ -1,5 +1,5 @@
 {
-  "count": 970,
+  "count": 990,
   "sentences": [
     {
       "id": "sent_001",
@@ -16797,6 +16797,197 @@
       "concept_refs": [
         "v096",
         "c164_001"
+      ]
+    },
+    {
+      "id": "s1011",
+      "german": "Der alte Webstuhl aus Holz steht in der Werkstatt.",
+      "arabic": "نَوْلُ الْحِيَاكَةِ الْقَدِيمُ الْمَصْنُوعُ مِنَ الْخَشَبِ يَقِفُ فِي الْوَرْشَةِ.",
+      "english": "The old wooden loom stands in the workshop.",
+      "concept_refs": [
+        "c165_001"
+      ]
+    },
+    {
+      "id": "s1012",
+      "german": "Ein handgewebter Teppich hält viele Jahrzehnte.",
+      "arabic": "السَّجَّادُ الْيَدَوِيُّ يَعِيشُ عُقُودًا طَوِيلَةً.",
+      "english": "A handwoven carpet lasts for many decades.",
+      "concept_refs": [
+        "c165_002"
+      ]
+    },
+    {
+      "id": "s1013",
+      "german": "Der feste Kettfaden spannt sich senkrecht auf den Rahmen.",
+      "arabic": "خَيْطُ السَّدَى الْمَتِينُ يَمْتَدُّ رَأْسِيًّا عَلَى الْإِطَارِ.",
+      "english": "The strong warp thread stretches vertically on the frame.",
+      "concept_refs": [
+        "c165_003"
+      ]
+    },
+    {
+      "id": "s1014",
+      "german": "Mit dem Schiffchen führt sie den Schussfaden hindurch.",
+      "arabic": "بِالْمَكُّوكِ تُدْخِلُ خَيْطَ اللُّحْمَةِ بَيْنَ الْخُيُوطِ.",
+      "english": "With the shuttle she passes the weft thread through.",
+      "concept_refs": [
+        "c165_004",
+        "c165_006"
+      ]
+    },
+    {
+      "id": "s1015",
+      "german": "Reine Wolle wird von Hand gefärbt und gesponnen.",
+      "arabic": "الصُّوفُ الصَّافِي يُصْبَغُ وَيُغْزَلُ بِالْيَدِ.",
+      "english": "Pure wool is dyed and spun by hand.",
+      "concept_refs": [
+        "c165_005",
+        "c165_008"
+      ]
+    },
+    {
+      "id": "s1016",
+      "german": "Der Webkamm drückt die Reihen fest zusammen.",
+      "arabic": "مِشْطُ النَّسَّاجِ يَضْغَطُ الصُّفُوفَ مَعًا بِإِحْكَامٍ.",
+      "english": "The weaving comb presses the rows tightly together.",
+      "concept_refs": [
+        "c165_007",
+        "c165_021"
+      ]
+    },
+    {
+      "id": "s1017",
+      "german": "Pflanzenfarbstoffe geben den Fäden warme und sanfte Töne.",
+      "arabic": "الْأَصْبَاغُ النَّبَاتِيَّةُ تَمْنَحُ الْخُيُوطَ أَلْوَانًا دَافِئَةً وَهَادِئَةً.",
+      "english": "Plant dyes give the threads warm and soft tones.",
+      "concept_refs": [
+        "c165_008",
+        "c165_016"
+      ]
+    },
+    {
+      "id": "s1018",
+      "german": "Jeder feste Knoten verlangt höchste Aufmerksamkeit.",
+      "arabic": "كُلُّ عُقْدَةٍ مُحْكَمَةٍ تَتَطَلَّبُ أَقْصَى دَرَجَاتِ الِانْتِبَاهِ.",
+      "english": "Every tight knot demands the utmost attention.",
+      "concept_refs": [
+        "c165_009",
+        "c165_020"
+      ]
+    },
+    {
+      "id": "s1019",
+      "german": "Das orientalische Muster erzählt alte Geschichten.",
+      "arabic": "الزَّخْرَفَةُ الشَّرْقِيَّةُ تَرْوِي حِكَايَاتٍ قَدِيمَةً.",
+      "english": "The oriental ornament tells ancient stories.",
+      "concept_refs": [
+        "c165_010"
+      ]
+    },
+    {
+      "id": "s1020",
+      "german": "Geometrische Formen schmücken das Zentrum des Teppichs.",
+      "arabic": "الْأَشْكَالُ الْهَنْدَسِيَّةُ تُزَيِّنُ وَسَطَ السَّجَّادَةِ.",
+      "english": "Geometric shapes decorate the center of the carpet.",
+      "concept_refs": [
+        "c165_011",
+        "c165_002"
+      ]
+    },
+    {
+      "id": "s1021",
+      "german": "Die Teppichkante ist sorgfältig von Hand umnäht.",
+      "arabic": "حَافَّةُ السَّجَّادَةِ مَخِيطَةٌ بِعِنَايَةٍ بِالْيَدِ.",
+      "english": "The carpet edge is carefully hemmed by hand.",
+      "concept_refs": [
+        "c165_012"
+      ]
+    },
+    {
+      "id": "s1022",
+      "german": "Lange weiße Fransen bilden den Abschluss.",
+      "arabic": "أَهْدَابٌ بَيْضَاءُ طَوِيلَةٌ تُشَكِّلُ النِّهَايَةَ.",
+      "english": "Long white fringes form the end.",
+      "concept_refs": [
+        "c165_013"
+      ]
+    },
+    {
+      "id": "s1023",
+      "german": "Die Handspindel dreht sich gleichmäßig zwischen den Fingern.",
+      "arabic": "الْمَغْزَلُ الْيَدَوِيُّ يَدُورُ بِانْتِظَامٍ بَيْنَ الْأَصَابِعِ.",
+      "english": "The hand spindle turns evenly between the fingers.",
+      "concept_refs": [
+        "c165_014"
+      ]
+    },
+    {
+      "id": "s1024",
+      "german": "Naturseide verleiht dem Wandteppich einen edlen Glanz.",
+      "arabic": "الْحَرِيرُ الطَّبِيعِيُّ يَمْنَحُ اللَّوْحَةَ النَّسِيجِيَّةَ بَرِيقًا نَبِيلًا.",
+      "english": "Natural silk gives the tapestry a noble shine.",
+      "concept_refs": [
+        "c165_015",
+        "c165_019"
+      ]
+    },
+    {
+      "id": "s1025",
+      "german": "Hohe Knotendichte zeigt meisterhafte handwerkliche Qualität.",
+      "arabic": "كَثَافَةُ الْعُقَدِ الْعَالِيَةُ تَدُلُّ عَلَى جَوْدَةٍ حِرَفِيَّةٍ بَارِعَةٍ.",
+      "english": "High knot density indicates masterful craft quality.",
+      "concept_refs": [
+        "c165_017",
+        "c165_018"
+      ]
+    },
+    {
+      "id": "s1026",
+      "german": "Große Geduld führt zu einem vollkommenen Ergebnis.",
+      "arabic": "الصَّبْرُ الْكَبِيرُ يَقُودُ إِلَى نَتِيجَةٍ كَامِلَةٍ.",
+      "english": "Great patience leads to a perfect result.",
+      "concept_refs": [
+        "c165_020"
+      ]
+    },
+    {
+      "id": "s1027",
+      "german": "Die Haltbarkeit dieses Teppichs ist erstaunlich hoch.",
+      "arabic": "صِلَابَةُ نَسِيجِ هَذِهِ السَّجَّادَةِ مَلْحُوظَةٌ جِدًّا.",
+      "english": "The durability of this carpet is remarkably high.",
+      "concept_refs": [
+        "c165_022",
+        "c165_002"
+      ]
+    },
+    {
+      "id": "s1028",
+      "german": "Die perfekte Symmetrie fasziniert jeden Betrachter.",
+      "arabic": "التَّنَاظُرُ التَّامُّ يُبْهِرُ كُلَّ نَاظِرٍ.",
+      "english": "The perfect symmetry fascinates every viewer.",
+      "concept_refs": [
+        "c165_024"
+      ]
+    },
+    {
+      "id": "s1029",
+      "german": "Dieser Wandteppich ist ein echtes Kunstwerk.",
+      "arabic": "هَذِهِ اللَّوْحَةُ النَّسِيجِيَّةُ تُحْفَةٌ فَنِّيَّةٌ حَقِيقِيَّةٌ.",
+      "english": "This tapestry is a true work of art.",
+      "concept_refs": [
+        "c165_019",
+        "c165_025"
+      ]
+    },
+    {
+      "id": "s1030",
+      "german": "Wir weben heute eine traditionelle bunte Decke.",
+      "arabic": "نَحْنُ نَنْسُجُ الْيَوْمَ غِطَاءً تُرَاثِيًّا مُلَوَّنًا.",
+      "english": "We are weaving a traditional colorful blanket today.",
+      "concept_refs": [
+        "v097",
+        "c165_023"
       ]
     }
   ]

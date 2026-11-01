@@ -1,0 +1,34 @@
+{
+  "verb_id": "v097",
+  "infinitive_de": "weben",
+  "root_ar": "نَسَجَ",
+  "infinitive_en": "to weave",
+  "level": "A1",
+  "present": {
+    "ich": "webe",
+    "du": "webst",
+    "er_sie_es": "webt",
+    "wir": "weben",
+    "ihr": "webt",
+    "sie_Sie": "weben"
+  },
+  "past": {
+    "ich": "webte",
+    "du": "webtest",
+    "er_sie_es": "webte",
+    "wir": "webten",
+    "ihr": "webtet",
+    "sie_Sie": "webten"
+  },
+  "perfect": {
+    "auxiliary": "haben",
+    "participle": "gewebt"
+  },
+  "examples": [
+    {
+      "german": "Die Weberin webt geduldig einen farbenfrohen Teppich.",
+      "arabic": "النَّسَّاجَةُ تَنْسُجُ بِصَبْرٍ سَجَّادَةً زَاهِيَةَ الْأَلْوَانِ.",
+      "english": "The weaver patiently weaves a colorful carpet."
+    }
+  ]
+}
