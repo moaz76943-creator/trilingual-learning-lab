@@ -1,0 +1,14 @@
+{
+  "compression": {
+    "uncompressedGlob": ["assets/**", "content/compressed/**"]
+  },
+  "abi": {
+    "enable": true
+  },
+  "density": {
+    "enable": true
+  },
+  "language": {
+    "enable": false
+  }
+}

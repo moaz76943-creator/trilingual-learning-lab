@@ -1,0 +1,234 @@
+{
+  "category_id": "c167",
+  "name_ar": "الْعِمَارَةُ الْبِيئِيَّةُ وَالْبِنَاءُ الْمُسْتَدَامُ",
+  "name_de": "Ökologische Architektur und nachhaltiges Bauen",
+  "name_en": "Eco-Architecture and Sustainable Building",
+  "level": "A1-A2",
+  "concepts": [
+    {
+      "id": "c167_001",
+      "arabic": "حَجَرٌ طَبِيعِيٌّ",
+      "german": "Naturstein",
+      "article": "der",
+      "plural": "Natursteine",
+      "english": "natural stone",
+      "level": "A1"
+    },
+    {
+      "id": "c167_002",
+      "arabic": "عَزْلٌ حَرَارِيٌّ",
+      "german": "Wärmedämmung",
+      "article": "die",
+      "plural": "Wärmedämmungen",
+      "english": "thermal insulation",
+      "level": "A2"
+    },
+    {
+      "id": "c167_003",
+      "arabic": "طِينٌ مُجَفَّفٌ",
+      "german": "Lehmziegel",
+      "article": "der",
+      "plural": "Lehmziegel",
+      "english": "adobe / mud brick",
+      "level": "A2"
+    },
+    {
+      "id": "c167_004",
+      "arabic": "إِضَاءَةٌ طَبِيعِيَّةٌ",
+      "german": "Tageslichtbeleuchtung",
+      "article": "die",
+      "plural": "Tageslichtbeleuchtungen",
+      "english": "natural lighting",
+      "level": "A1"
+    },
+    {
+      "id": "c167_005",
+      "arabic": "تَهْوِيَةٌ طَبِيعِيَّةٌ",
+      "german": "natürliche Belüftung",
+      "article": "die",
+      "plural": "natürliche Belüftungen",
+      "english": "natural ventilation",
+      "level": "A1"
+    },
+    {
+      "id": "c167_006",
+      "arabic": "سَطْحٌ أَخْضَرُ",
+      "german": "Gründach",
+      "article": "das",
+      "plural": "Gründächer",
+      "english": "green roof",
+      "level": "A1"
+    },
+    {
+      "id": "c167_007",
+      "arabic": "زُجَاجٌ عَازِلٌ",
+      "german": "Isolierglas",
+      "article": "das",
+      "plural": "Isoliergläser",
+      "english": "insulated glass",
+      "level": "A2"
+    },
+    {
+      "id": "c167_008",
+      "arabic": "جِدَارٌ سَمِيكٌ",
+      "german": "dicke Wand",
+      "article": "die",
+      "plural": "dicke Wände",
+      "english": "thick wall",
+      "level": "A1"
+    },
+    {
+      "id": "c167_009",
+      "arabic": "بِنَاءٌ طِينِيٌّ",
+      "german": "Lehmbau",
+      "article": "der",
+      "plural": "Lehmbauten",
+      "english": "clay building",
+      "level": "A2"
+    },
+    {
+      "id": "c167_010",
+      "arabic": "مَوَادُّ مُسْتَدَامَةٌ",
+      "german": "nachhaltige Baustoffe",
+      "article": "die",
+      "plural": "nachhaltige Baustoffe",
+      "english": "sustainable materials",
+      "level": "A2"
+    },
+    {
+      "id": "c167_011",
+      "arabic": "ظِلٌّ طَبِيعِيٌّ",
+      "german": "natürlicher Schatten",
+      "article": "der",
+      "plural": "natürliche Schatten",
+      "english": "natural shade",
+      "level": "A1"
+    },
+    {
+      "id": "c167_012",
+      "arabic": "فِنَاءٌ دَاخِلِيٌّ",
+      "german": "Innenhof",
+      "article": "der",
+      "plural": "Innenhöfe",
+      "english": "courtyard",
+      "level": "A1"
+    },
+    {
+      "id": "c167_013",
+      "arabic": "نَافُورَةُ تَبْرِيدٍ",
+      "german": "Brunnen",
+      "article": "der",
+      "plural": "Brunnen",
+      "english": "cooling fountain",
+      "level": "A1"
+    },
+    {
+      "id": "c167_014",
+      "arabic": "مَشْرَبِيَّةٌ",
+      "german": "Holzgitter",
+      "article": "das",
+      "plural": "Holzgitter",
+      "english": "wooden lattice / screen",
+      "level": "A2"
+    },
+    {
+      "id": "c167_015",
+      "arabic": "تَبْرِيدٌ سَلْبِيٌّ",
+      "german": "passive Kühlung",
+      "article": "die",
+      "plural": "passive Kühlungen",
+      "english": "passive cooling",
+      "level": "A2"
+    },
+    {
+      "id": "c167_016",
+      "arabic": "تَدْفِئَةٌ شَمْسِيَّةٌ",
+      "german": "Solarheizung",
+      "article": "die",
+      "plural": "Solarheizungen",
+      "english": "solar heating",
+      "level": "A2"
+    },
+    {
+      "id": "c167_017",
+      "arabic": "طَاقَةٌ صِفْرِيَّةٌ",
+      "german": "Nullenergiehaus",
+      "article": "das",
+      "plural": "Nullenergiehäuser",
+      "english": "zero-energy building",
+      "level": "A2"
+    },
+    {
+      "id": "c167_018",
+      "arabic": "قُبَّةٌ هَوَائِيَّةٌ",
+      "german": "Kuppel",
+      "article": "die",
+      "plural": "Kuppeln",
+      "english": "dome",
+      "level": "A1"
+    },
+    {
+      "id": "c167_019",
+      "arabic": "بَابٌ عَازِلٌ",
+      "german": "gedämmte Tür",
+      "article": "die",
+      "plural": "gedämmte Türen",
+      "english": "insulated door",
+      "level": "A1"
+    },
+    {
+      "id": "c167_020",
+      "arabic": "كَفَاءَةُ الطَّاقَةِ",
+      "german": "Energieeffizienz",
+      "article": "die",
+      "plural": "Energieeffizienzen",
+      "english": "energy efficiency",
+      "level": "A2"
+    },
+    {
+      "id": "c167_021",
+      "arabic": "إِعَادَةُ تَدْوِيرِ الْمَوَادِّ",
+      "german": "Recycling",
+      "article": "das",
+      "plural": "Recycling",
+      "english": "material recycling",
+      "level": "A2"
+    },
+    {
+      "id": "c167_022",
+      "arabic": "صَدِيقٌ لِلْبِيئَةِ",
+      "german": "umweltfreundlich",
+      "article": "das",
+      "plural": "umweltfreundliche",
+      "english": "eco-friendly",
+      "level": "A1"
+    },
+    {
+      "id": "c167_023",
+      "arabic": "نَقَاءُ الْهَوَاءِ",
+      "german": "Luftqualität",
+      "article": "die",
+      "plural": "Luftqualitäten",
+      "english": "indoor air quality",
+      "level": "A1"
+    },
+    {
+      "id": "c167_024",
+      "arabic": "عِمَارَةٌ تُرَاثِيَّةٌ",
+      "german": "traditionelle Architektur",
+      "article": "die",
+      "plural": "traditionelle Architekturen",
+      "english": "vernacular architecture",
+      "level": "A2"
+    },
+    {
+      "id": "c167_025",
+      "arabic": "بَيْتٌ مُرِيحٌ",
+      "german": "behagliches Haus",
+      "article": "das",
+      "plural": "behagliche Häuser",
+      "english": "comfortable home",
+      "level": "A1"
+    }
+  ]
+}

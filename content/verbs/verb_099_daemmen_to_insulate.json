@@ -1,0 +1,34 @@
+{
+  "verb_id": "v099",
+  "infinitive_de": "dämmen",
+  "root_ar": "عَزَلَ",
+  "infinitive_en": "to insulate",
+  "level": "A2",
+  "present": {
+    "ich": "dämme",
+    "du": "dämmst",
+    "er_sie_es": "dämmt",
+    "wir": "dämmen",
+    "ihr": "dämmt",
+    "sie_Sie": "dämmen"
+  },
+  "past": {
+    "ich": "dämmte",
+    "du": "dämmtest",
+    "er_sie_es": "dämmte",
+    "wir": "dämmten",
+    "ihr": "dämmtet",
+    "sie_Sie": "dämmten"
+  },
+  "perfect": {
+    "auxiliary": "haben",
+    "participle": "gedämmt"
+  },
+  "examples": [
+    {
+      "german": "Wir dämmen die Wände des Hauses mit Naturfasern.",
+      "arabic": "نَحْنُ نَعْزِلُ جُدْرَانَ الْبَيْتِ بِأَلْيَافٍ طَبِيعِيَّةٍ.",
+      "english": "We insulate the walls of the house with natural fibers."
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "count": 1010,
+  "count": 1030,
   "sentences": [
     {
       "id": "sent_001",
@@ -17177,6 +17177,191 @@
         "v098",
         "c166_015",
         "c166_025"
+      ]
+    },
+    {
+      "id": "s1051",
+      "german": "Der helle Naturstein hält das Haus im Sommer angenehm kühl.",
+      "arabic": "الْحَجَرُ الطَّبِيعِيُّ النَّاصِعُ يُبْقِي الْبَيْتَ فِي الصَّيْفِ بَارِدًا بِلُطْفٍ.",
+      "english": "The bright natural stone keeps the house pleasantly cool in summer.",
+      "concept_refs": [
+        "c167_001",
+        "c167_025"
+      ]
+    },
+    {
+      "id": "s1052",
+      "german": "Gute Wärmedämmung spart im Winter viel Heizenergie.",
+      "arabic": "الْعَزْلُ الْحَرَارِيُّ الْجَيِّدُ يُوَفِّرُ فِي الشِّتَاءِ كَثِيرًا مِنْ طَاقَةِ التَّدْفِئَةِ.",
+      "english": "Good thermal insulation saves a lot of heating energy in winter.",
+      "concept_refs": [
+        "c167_002",
+        "v099"
+      ]
+    },
+    {
+      "id": "s1053",
+      "german": "Alte Lehmziegel atmen und regulieren die Feuchtigkeit.",
+      "arabic": "طِينُ الْبِنَاءِ الْمُجَفَّفُ يَتَنَفَّسُ وَيُعَدِّلُ الرُّطُوبَةَ.",
+      "english": "Old adobe bricks breathe and regulate humidity.",
+      "concept_refs": [
+        "c167_003"
+      ]
+    },
+    {
+      "id": "s1054",
+      "german": "Große Fenster bringen wunderbare Tageslichtbeleuchtung.",
+      "arabic": "النَّوَافِذُ الْكَبِيرَةُ تَجْلِبُ إِضَاءَةً طَبِيعِيَّةً رَائِعَةً.",
+      "english": "Large windows bring wonderful natural lighting.",
+      "concept_refs": [
+        "c167_004"
+      ]
+    },
+    {
+      "id": "s1055",
+      "german": "Die natürliche Belüftung sorgt für stetig frische Luft.",
+      "arabic": "التَّهْوِيَةُ الطَّبِيعِيَّةُ تُؤَمِّنُ هَوَاءً مُتَجَدِّدًا بَانْتِظَامٍ.",
+      "english": "Natural ventilation provides consistently fresh air.",
+      "concept_refs": [
+        "c167_005",
+        "c167_023"
+      ]
+    },
+    {
+      "id": "s1056",
+      "german": "Das Gründach schützt vor Hitze und sieht lebendig aus.",
+      "arabic": "السَّطْحُ الْأَخْضَرُ يَحْمِي مِنَ الْحَرَارَةِ وَيَبْدُو نَابِضًا بِالْحَيَاةِ.",
+      "english": "The green roof protects against heat and looks vibrant.",
+      "concept_refs": [
+        "c167_006"
+      ]
+    },
+    {
+      "id": "s1057",
+      "german": "Modernes Isolierglas dämpft Lärm und hält die Wärme drinnen.",
+      "arabic": "الزُّجَاجُ الْعَازِلُ الْحَدِيثُ يَكْتُمُ الضَّوْضَاءَ وَيَحْفَظُ الدِّفْءَ فِي الدَّاخِلِ.",
+      "english": "Modern insulated glass dampens noise and keeps the warmth inside.",
+      "concept_refs": [
+        "c167_007"
+      ]
+    },
+    {
+      "id": "s1058",
+      "german": "Die dicke Wand speichert die Kühle der Nacht.",
+      "arabic": "الْجِدَارُ السَّمِيكُ يَخْزُنُ بُرُودَةَ اللَّيْلِ.",
+      "english": "The thick wall stores the coolness of the night.",
+      "concept_refs": [
+        "c167_008"
+      ]
+    },
+    {
+      "id": "s1059",
+      "german": "Nachhaltige Baustoffe schonen Ressourcen und Gesundheit.",
+      "arabic": "الْمَوَادُّ الْمُسْتَدَامَةُ تُحَافِظُ عَلَى الْمَوَارِدِ وَالصِّحَّةِ.",
+      "english": "Sustainable building materials preserve resources and health.",
+      "concept_refs": [
+        "c167_010"
+      ]
+    },
+    {
+      "id": "s1060",
+      "german": "Hohe Bäume spenden im Garten natürlichen Schatten.",
+      "arabic": "الْأَشْجَارُ الْعَالِيَةُ تَمْنَحُ فِي الْحَدِيقَةِ ظِلًّا طَبِيعِيًّا.",
+      "english": "Tall trees provide natural shade in the garden.",
+      "concept_refs": [
+        "c167_011"
+      ]
+    },
+    {
+      "id": "s1061",
+      "german": "Der schattige Innenhof ist das Herz des Hauses.",
+      "arabic": "الْفِنَاءُ الدَّاخِلِيُّ الظَّلِيلُ هُوَ قَلْبُ الْبَيْتِ.",
+      "english": "The shaded courtyard is the heart of the home.",
+      "concept_refs": [
+        "c167_012"
+      ]
+    },
+    {
+      "id": "s1062",
+      "german": "Das sanfte Plätschern der Brunnen kühlt die Luft.",
+      "arabic": "خَرِيرُ النَّافُورَةِ اللَّطِيفُ يُبَرِّدُ الْهَوَاءَ.",
+      "english": "The gentle rippling of the fountain cools the air.",
+      "concept_refs": [
+        "c167_013"
+      ]
+    },
+    {
+      "id": "s1063",
+      "german": "Die kunstvolle Maschrabiyya filtert das grelle Sonnenlicht.",
+      "arabic": "الْمَشْرَبِيَّةُ الْفَنِّيَّةُ تُرَشِّحُ ضَوْءَ الشَّمْسِ الْقَوِيَّ.",
+      "english": "The artistic wooden lattice filters the bright sunlight.",
+      "concept_refs": [
+        "c167_014"
+      ]
+    },
+    {
+      "id": "s1064",
+      "german": "Passive Kühlung funktioniert ganz ohne Stromverbrauch.",
+      "arabic": "التَّبْرِيدُ السَّلْبِيُّ يَعْمَلُ دُونَ أَيِّ اسْتِهْلَاكٍ لِلْكَهْرَبَاءِ.",
+      "english": "Passive cooling works entirely without electricity consumption.",
+      "concept_refs": [
+        "c167_015"
+      ]
+    },
+    {
+      "id": "s1065",
+      "german": "Die Solarheizung liefert ganzjährig warmes Wasser.",
+      "arabic": "التَّدْفِئَةُ الشَّمْسِيَّةُ تُؤَمِّنُ مَاءً سَاخِنًا عَلَى مَدَارِ الْعَامِ.",
+      "english": "Solar heating supplies warm water year-round.",
+      "concept_refs": [
+        "c167_016"
+      ]
+    },
+    {
+      "id": "s1066",
+      "german": "Die hohe Kuppel lässt die aufsteigende Warmluft entweichen.",
+      "arabic": "الْقُبَّةُ الْعَالِيَةُ تَسْمَحُ لِلْهَوَاءِ السَّاخِنِ الصَّاعِدِ بِالْخُرُوجِ.",
+      "english": "The high dome lets the rising warm air escape.",
+      "concept_refs": [
+        "c167_018"
+      ]
+    },
+    {
+      "id": "s1067",
+      "german": "Hohe Energieeffizienz senkt die Umweltbelastung dauerhaft.",
+      "arabic": "كَفَاءَةُ الطَّاقَةِ الْعَالِيَةُ تُقَلِّلُ الْأَثَرَ الْبِيئِيَّ دَائِمًا.",
+      "english": "High energy efficiency reduces environmental impact permanently.",
+      "concept_refs": [
+        "c167_020",
+        "c167_022"
+      ]
+    },
+    {
+      "id": "s1068",
+      "german": "Traditionelle Architektur verbindet Schönheit mit Nutzen.",
+      "arabic": "الْعِمَارَةُ التُّرَاثِيَّةُ تَجْمَعُ بَيْنَ الْجَمَالِ وَالْمَنْفَعَةِ.",
+      "english": "Vernacular architecture combines beauty with utility.",
+      "concept_refs": [
+        "c167_024"
+      ]
+    },
+    {
+      "id": "s1069",
+      "german": "Dieses behagliche Haus schenkt Geborgenheit und Frieden.",
+      "arabic": "هَذَا الْبَيْتُ الْمُرِيحُ يَمْنَحُ السَّكِينَةَ وَالسَّلَامَ.",
+      "english": "This comfortable home gives security and peace.",
+      "concept_refs": [
+        "c167_025"
+      ]
+    },
+    {
+      "id": "s1070",
+      "german": "Wir dämmen das Dach sorgfältig gegen die Winterkälte.",
+      "arabic": "نَحْنُ نَعْزِلُ السَّطْحَ بِعِنَايَةٍ ضِدَّ بَرْدِ الشِّتَاءِ.",
+      "english": "We carefully insulate the roof against the winter cold.",
+      "concept_refs": [
+        "v099",
+        "c167_002"
       ]
     }
   ]

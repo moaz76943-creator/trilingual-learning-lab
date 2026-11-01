@@ -1,0 +1,9 @@
+{
+  "description": "Unicode ranges for trilingual Arabic-German-English subsetting",
+  "unicodes": "U+0020-007E,U+00C4,U+00D6,U+00DC,U+00E4,U+00F6,U+00FC,U+00DF,U+0600-06FF,U+200C-200F",
+  "target_fonts": [
+    "Cairo",
+    "Amiri",
+    "Inter"
+  ]
+}
