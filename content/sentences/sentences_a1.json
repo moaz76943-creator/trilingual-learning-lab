@@ -1,5 +1,5 @@
 {
-  "count": 1110,
+  "count": 1130,
   "sentences": [
     {
       "id": "sent_001",
@@ -18112,6 +18112,194 @@
       "concept_refs": [
         "v103",
         "c171_010"
+      ]
+    },
+    {
+      "id": "s1151",
+      "german": "Rotes Kupfer leitet Wärme besonders schnell und gleichmäßig.",
+      "arabic": "النُّحَاسُ الْأَحْمَرُ يُوَصِّلُ الْحَرَارَةَ بِسُرْعَةٍ وَانْتِظَامٍ.",
+      "english": "Red copper conducts heat especially quickly and evenly.",
+      "concept_refs": [
+        "c172_001"
+      ]
+    },
+    {
+      "id": "s1152",
+      "german": "Gelbes Messing glänzt wie pures Gold im Licht.",
+      "arabic": "النُّحَاسُ الْأَصْفَرُ يَلْمَعُ كَالذَّهَبِ الْخَالِصِ فِي الضَّوْءِ.",
+      "english": "Yellow brass shines like pure gold in the light.",
+      "concept_refs": [
+        "c172_002",
+        "c172_014"
+      ]
+    },
+    {
+      "id": "s1153",
+      "german": "Der geschickte Kupferschmied arbeitet fleißig in seiner Werkstatt.",
+      "arabic": "النَّحَّاسُ الْمَاهِرُ يَعْمَلُ بِنَشَاطٍ فِي وَرْشَتِهِ.",
+      "english": "The skilled coppersmith works diligently in his workshop.",
+      "concept_refs": [
+        "c172_003",
+        "c172_022"
+      ]
+    },
+    {
+      "id": "s1154",
+      "german": "Mit dem Treibhammer formt er sanfte Wölbungen ins Blech.",
+      "arabic": "بِمِطْرَقَةِ التَّشْكِيلِ يُشَكِّلُ انْحِنَاءَاتٍ نَاعِمَةً فِي الصَّفِيحِ.",
+      "english": "With the chasing hammer he forms gentle curves into the sheet metal.",
+      "concept_refs": [
+        "c172_004"
+      ]
+    },
+    {
+      "id": "s1155",
+      "german": "Der schwere eiserne Amboss steht fest auf dem Holzblock.",
+      "arabic": "السِّنْدَانُ الْحَدِيدِيُّ الثَّقِيلُ يَقِفُ بِثَبَاتٍ عَلَى جِذْعِ الْخَشَبِ.",
+      "english": "The heavy iron anvil stands firmly on the wooden block.",
+      "concept_refs": [
+        "c172_005"
+      ]
+    },
+    {
+      "id": "s1156",
+      "german": "Die glühende Kohle im Schmiedefeuer erhitzt das Metall rot.",
+      "arabic": "الْفَحْمُ الْمُتَوَهِّجُ فِي كُورِ الْحِدَادَةِ يَجْعَلُ الْمَعْدِنَ يَتَوَهَّجُ حُمْرَةً.",
+      "english": "The glowing coal in the forge heats the metal red.",
+      "concept_refs": [
+        "c172_006"
+      ]
+    },
+    {
+      "id": "s1157",
+      "german": "Dieser schwere Kupfertopf kocht köstliche traditionelle Speisen.",
+      "arabic": "هَذَا الْقِدْرُ النُّحَاسِيُّ الثَّقِيلُ يَطْبُخُ أَطْعِمَةً تُرَاثِيَّةً شَهِيَّةً.",
+      "english": "This heavy copper pot cooks delicious traditional dishes.",
+      "concept_refs": [
+        "c172_007"
+      ]
+    },
+    {
+      "id": "s1158",
+      "german": "Eine verzierte Kupferkanne steht servierbereit auf dem Tisch.",
+      "arabic": "إِبْرِيقٌ نُحَاسِيٌّ مُزَخْرَفٌ يَقِفُ جَاهِزًا لِلتَّقْدِيمِ عَلَى الطَّاوِلَةِ.",
+      "english": "An ornamented copper pitcher stands ready to serve on the table.",
+      "concept_refs": [
+        "c172_008"
+      ]
+    },
+    {
+      "id": "s1159",
+      "german": "Das gravierte Tablett zeigt kunstvolle orientalische Muster.",
+      "arabic": "الصِّينِيَّةُ الْمَنْقُوشَةُ تُظْهِرُ زَخَارِفَ شَرْقِيَّةً بَدِيعَةً.",
+      "english": "The engraved tray shows artistic oriental patterns.",
+      "concept_refs": [
+        "c172_009",
+        "c172_020"
+      ]
+    },
+    {
+      "id": "s1160",
+      "german": "Mit dem spitzen Gravierstichel ritzt er feine Linien ein.",
+      "arabic": "بِإِزْمِيلِ النَّقْشِ الْحَادِّ يَحْفِرُ خُطُوطًا رَقِيقَةً.",
+      "english": "With the sharp engraving chisel he carves fine lines.",
+      "concept_refs": [
+        "c172_010"
+      ]
+    },
+    {
+      "id": "s1161",
+      "german": "Rhythmisches Hämmern hallt durch die Gassen des Marktes.",
+      "arabic": "الطَّرْقُ الْإِيقَاعِيُّ يَتَرَدَّدُ صَدَاهُ فِي أَزِقَّةِ السُّوقِ.",
+      "english": "Rhythmic hammering echoes through the market alleys.",
+      "concept_refs": [
+        "c172_011"
+      ]
+    },
+    {
+      "id": "s1162",
+      "german": "Feines Ziselieren verleiht dem Gefäß lebendige Tiefe.",
+      "arabic": "التَّفْرِيغُ الْفَنِّيُّ الدَّقِيقُ يَمْنَحُ الْإِنَاءَ عُمْقًا حَيًّا.",
+      "english": "Fine chasing gives the vessel vivid depth.",
+      "concept_refs": [
+        "c172_012",
+        "c172_025"
+      ]
+    },
+    {
+      "id": "s1163",
+      "german": "Gründliches Polieren bringt den goldenen Glanz zurück.",
+      "arabic": "الصَّقْلُ الدَّقِيقُ يُعِيدُ اللَّمَعَانَ الذَّهَبِيَّ الْأَصِيلَ.",
+      "english": "Thorough polishing brings back the golden luster.",
+      "concept_refs": [
+        "c172_013",
+        "c172_014"
+      ]
+    },
+    {
+      "id": "s1164",
+      "german": "Reines Zinn schützt die Innenseite vor Säure.",
+      "arabic": "الْقَصْدِيرُ الصَّافِي يَحْمِي الْجَانِبَ الدَّاخِلِيَّ مِنَ الْحُمُوضَةِ.",
+      "english": "Pure tin protects the inside from acid.",
+      "concept_refs": [
+        "c172_015"
+      ]
+    },
+    {
+      "id": "s1165",
+      "german": "Das traditionelle Verzinnen macht Töpfe lebensmittelecht.",
+      "arabic": "تَبْيِيضُ النُّحَاسِ التَّقْلِيدِيُّ يَجْعَلُ الْقُدُورَ صَالِحَةً لِلطَّعَامِ.",
+      "english": "Traditional tinning makes pots food-safe.",
+      "concept_refs": [
+        "c172_016",
+        "c172_007"
+      ]
+    },
+    {
+      "id": "s1166",
+      "german": "Der Handwerker verbindet die Griffe durch stabiles Löten.",
+      "arabic": "الْحِرْفِيُّ يَصِلُ الْمَقَابِضَ عَبْرَ لِحَامٍ مَتِينٍ.",
+      "english": "The craftsman connects the handles by stable soldering.",
+      "concept_refs": [
+        "c172_017"
+      ]
+    },
+    {
+      "id": "s1167",
+      "german": "Ein warmer metallischer Schimmer erfüllt die Werkstatt.",
+      "arabic": "بَرِيقٌ مَعْدَنِيٌّ دَافِئٌ يَمْلَأُ أَرْجَاءَ الْوَرْشَةِ.",
+      "english": "A warm metallic sheen fills the workshop.",
+      "concept_refs": [
+        "c172_019",
+        "c172_022"
+      ]
+    },
+    {
+      "id": "s1168",
+      "german": "Mit der langen Schmiedezange hält er das heiße Werkstück.",
+      "arabic": "بِمِلْقَطِ الْحِدَادَةِ الطَّوِيلِ يُمْسِكُ الْقِطْعَةَ السَّاخِنَةَ.",
+      "english": "With the long blacksmith tongs he holds the hot piece.",
+      "concept_refs": [
+        "c172_021"
+      ]
+    },
+    {
+      "id": "s1169",
+      "german": "Dieses traditionelle Gefäß ist ein wertvolles Familienerbstück.",
+      "arabic": "هَذِهِ الْآنِيَةُ التُّرَاثِيَّةُ إِرْثٌ عَائِلِيٌّ ثَمِينٌ.",
+      "english": "This heritage vessel is a valuable family heirloom.",
+      "concept_refs": [
+        "c172_025"
+      ]
+    },
+    {
+      "id": "s1170",
+      "german": "Wir schmieden heute eine schöne Schale aus glänzendem Kupfer.",
+      "arabic": "نَحْنُ نَصُوغُ الْيَوْمَ إِنَاءً جَمِيلًا مِنْ نُحَاسٍ لَامِعٍ.",
+      "english": "We are forging a beautiful bowl from shiny copper today.",
+      "concept_refs": [
+        "v104",
+        "c172_001"
       ]
     }
   ]

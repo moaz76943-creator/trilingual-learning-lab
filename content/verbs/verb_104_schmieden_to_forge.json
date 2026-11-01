@@ -1,0 +1,34 @@
+{
+  "verb_id": "v104",
+  "infinitive_de": "schmieden",
+  "root_ar": "طَرَقَ",
+  "infinitive_en": "to forge / to hammer",
+  "level": "A1",
+  "present": {
+    "ich": "schmiede",
+    "du": "schmiedest",
+    "er_sie_es": "schmiedet",
+    "wir": "schmieden",
+    "ihr": "schmiedet",
+    "sie_Sie": "schmieden"
+  },
+  "past": {
+    "ich": "schmiedete",
+    "du": "schmiedetest",
+    "er_sie_es": "schmiedete",
+    "wir": "schmiedeten",
+    "ihr": "schmiedetet",
+    "sie_Sie": "schmiedeten"
+  },
+  "perfect": {
+    "auxiliary": "haben",
+    "participle": "geschmiedet"
+  },
+  "examples": [
+    {
+      "german": "Der Kupferschmied schmiedet das rote Kupfer auf dem Amboss.",
+      "arabic": "النَّحَّاسُ يَطْرُقُ النُّحَاسَ الْأَحْمَرَ عَلَى السِّنْدَانِ.",
+      "english": "The coppersmith forges the red copper on the anvil."
+    }
+  ]
+}

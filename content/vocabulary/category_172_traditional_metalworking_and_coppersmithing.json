@@ -1,0 +1,234 @@
+{
+  "category_id": "c172",
+  "name_ar": "صِيَاغَةُ النُّحَاسِ وَالْأَعْمَالُ الْمَعْدَنِيَّةُ التَّقْلِيدِيَّةُ",
+  "name_de": "Kupferschmiede und traditionelle Metallkunst",
+  "name_en": "Coppersmithing and Traditional Metalworking",
+  "level": "A1-A2",
+  "concepts": [
+    {
+      "id": "c172_001",
+      "arabic": "نُحَاسٌ أَحْمَرُ",
+      "german": "Kupfer",
+      "article": "das",
+      "plural": "Kupfer",
+      "english": "copper",
+      "level": "A1"
+    },
+    {
+      "id": "c172_002",
+      "arabic": "نُحَاسٌ أَصْفَرُ",
+      "german": "Messing",
+      "article": "das",
+      "plural": "Messinge",
+      "english": "brass",
+      "level": "A1"
+    },
+    {
+      "id": "c172_003",
+      "arabic": "صَفَّارٌ / نَحَّاسٌ",
+      "german": "Kupferschmied",
+      "article": "der",
+      "plural": "Kupferschmiede",
+      "english": "coppersmith",
+      "level": "A2"
+    },
+    {
+      "id": "c172_004",
+      "arabic": "مِطْرَقَةُ تَشْكِيلٍ",
+      "german": "Treibhammer",
+      "article": "der",
+      "plural": "Treibhämmer",
+      "english": "chasing hammer",
+      "level": "A2"
+    },
+    {
+      "id": "c172_005",
+      "arabic": "سِنْدَانٌ",
+      "german": "Amboss",
+      "article": "der",
+      "plural": "Ambosse",
+      "english": "anvil",
+      "level": "A1"
+    },
+    {
+      "id": "c172_006",
+      "arabic": "كُورُ حِدَادَةٍ",
+      "german": "Schmiedefeuer",
+      "article": "das",
+      "plural": "Schmiedefeuer",
+      "english": "forge / hearth",
+      "level": "A2"
+    },
+    {
+      "id": "c172_007",
+      "arabic": "قِدْرٌ نُحَاسِيٌّ",
+      "german": "Kupfertopf",
+      "article": "der",
+      "plural": "Kupfertöpfe",
+      "english": "copper pot",
+      "level": "A1"
+    },
+    {
+      "id": "c172_008",
+      "arabic": "إِبْرِيقٌ نُحَاسِيٌّ",
+      "german": "Kupferkanne",
+      "article": "die",
+      "plural": "Kupferkannen",
+      "english": "copper pitcher",
+      "level": "A1"
+    },
+    {
+      "id": "c172_009",
+      "arabic": "صِينِيَّةٌ مَنْقُوشَةٌ",
+      "german": "graviertes Tablett",
+      "article": "das",
+      "plural": "gravierte Tabletts",
+      "english": "engraved tray",
+      "level": "A1"
+    },
+    {
+      "id": "c172_010",
+      "arabic": "إِزْمِيلُ نَقْشٍ",
+      "german": "Gravierstichel",
+      "article": "der",
+      "plural": "Gravierstichel",
+      "english": "engraving chisel",
+      "level": "A2"
+    },
+    {
+      "id": "c172_011",
+      "arabic": "طَرْقٌ يَدَوِيٌّ",
+      "german": "Hämmern",
+      "article": "das",
+      "plural": "Hämmern",
+      "english": "hand hammering",
+      "level": "A1"
+    },
+    {
+      "id": "c172_012",
+      "arabic": "تَفْرِيغٌ فَنِّيٌّ",
+      "german": "Ziselieren",
+      "article": "das",
+      "plural": "Ziselieren",
+      "english": "chasing / repoussé",
+      "level": "A2"
+    },
+    {
+      "id": "c172_013",
+      "arabic": "صَقْلٌ وَتَلْمِيعٌ",
+      "german": "Polieren",
+      "article": "das",
+      "plural": "Polieren",
+      "english": "polishing",
+      "level": "A1"
+    },
+    {
+      "id": "c172_014",
+      "arabic": "لَمَعَانٌ ذَهَبِيٌّ",
+      "german": "goldener Glanz",
+      "article": "der",
+      "plural": "Glänze",
+      "english": "golden luster",
+      "level": "A1"
+    },
+    {
+      "id": "c172_015",
+      "arabic": "قَصْدِيرٌ",
+      "german": "Zinn",
+      "article": "das",
+      "plural": "Zinne",
+      "english": "tin",
+      "level": "A2"
+    },
+    {
+      "id": "c172_016",
+      "arabic": "تَبْيِيضُ النُّحَاسِ",
+      "german": "Verzinnen",
+      "article": "das",
+      "plural": "Verzinnen",
+      "english": "tinning",
+      "level": "A2"
+    },
+    {
+      "id": "c172_017",
+      "arabic": "لِحَامٌ مَعْدَنِيٌّ",
+      "german": "Löten",
+      "article": "das",
+      "plural": "Löten",
+      "english": "soldering",
+      "level": "A2"
+    },
+    {
+      "id": "c172_018",
+      "arabic": "أَدَاةُ ثَقْبٍ",
+      "german": "Locheisen",
+      "article": "das",
+      "plural": "Locheisen",
+      "english": "punch tool",
+      "level": "A2"
+    },
+    {
+      "id": "c172_019",
+      "arabic": "بَرِيقٌ مَعْدَنِيٌّ",
+      "german": "metallischer Schimmer",
+      "article": "der",
+      "plural": "Schimmer",
+      "english": "metallic sheen",
+      "level": "A1"
+    },
+    {
+      "id": "c172_020",
+      "arabic": "زَخْرَفَةٌ هَنْدَسِيَّةٌ",
+      "german": "geometrisches Muster",
+      "article": "das",
+      "plural": "geometrische Muster",
+      "english": "geometric engraving",
+      "level": "A1"
+    },
+    {
+      "id": "c172_021",
+      "arabic": "مِلْقَطُ حِدَادَةٍ",
+      "german": "Schmiedezange",
+      "article": "die",
+      "plural": "Schmiedezangen",
+      "english": "blacksmith tongs",
+      "level": "A2"
+    },
+    {
+      "id": "c172_022",
+      "arabic": "وَرْشَةُ صِيَاغَةٍ",
+      "german": "Kupferwerkstatt",
+      "article": "die",
+      "plural": "Kupferwerkstätten",
+      "english": "coppersmith workshop",
+      "level": "A1"
+    },
+    {
+      "id": "c172_023",
+      "arabic": "نَقْشٌ نَافِرٌ",
+      "german": "Relief",
+      "article": "das",
+      "plural": "Reliefs",
+      "english": "embossed relief",
+      "level": "A2"
+    },
+    {
+      "id": "c172_024",
+      "arabic": "صَلَابَةُ الْمَعْدِنِ",
+      "german": "Metallhärte",
+      "article": "die",
+      "plural": "Härten",
+      "english": "metal hardness",
+      "level": "A2"
+    },
+    {
+      "id": "c172_025",
+      "arabic": "آنِيَةٌ تُرَاثِيَّةٌ",
+      "german": "traditionelles Gefäß",
+      "article": "das",
+      "plural": "traditionelle Gefäße",
+      "english": "heritage vessel",
+      "level": "A1"
+    }
+  ]
+}
