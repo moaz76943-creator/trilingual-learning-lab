@@ -1,0 +1,234 @@
+{
+  "category_id": "c168",
+  "name_ar": "صِنَاعَةُ الصَّابُونِ التَّقْلِيدِيِّ وَالزُّيُوتِ الْعِطْرِيَّةِ",
+  "name_de": "Traditionelle Seifenherstellung und ätherische Öle",
+  "name_en": "Traditional Soapmaking and Essential Oils",
+  "level": "A1-A2",
+  "concepts": [
+    {
+      "id": "c168_001",
+      "arabic": "صَابُونٌ طَبِيعِيٌّ",
+      "german": "Naturseife",
+      "article": "die",
+      "plural": "Naturseifen",
+      "english": "natural soap",
+      "level": "A1"
+    },
+    {
+      "id": "c168_002",
+      "arabic": "صَابُونُ زَيْتُونٍ",
+      "german": "Olivenseife",
+      "article": "die",
+      "plural": "Olivenseifen",
+      "english": "olive oil soap",
+      "level": "A1"
+    },
+    {
+      "id": "c168_003",
+      "arabic": "زَيْتُ غَارٍ",
+      "german": "Lorbeeröl",
+      "article": "das",
+      "plural": "Lorbeeröle",
+      "english": "laurel oil",
+      "level": "A2"
+    },
+    {
+      "id": "c168_004",
+      "arabic": "زَيْتٌ عِطْرِيٌّ",
+      "german": "ätherisches Öl",
+      "article": "das",
+      "plural": "ätherische Öle",
+      "english": "essential oil",
+      "level": "A2"
+    },
+    {
+      "id": "c168_005",
+      "arabic": "مِصْبَنَةٌ تَقْلِيدِيَّةٌ",
+      "german": "Seifensiederei",
+      "article": "die",
+      "plural": "Seifensiedereien",
+      "english": "soap workshop",
+      "level": "A2"
+    },
+    {
+      "id": "c168_006",
+      "arabic": "قَالَبُ صَابُونٍ",
+      "german": "Seifenform",
+      "article": "die",
+      "plural": "Seifenformen",
+      "english": "soap mold",
+      "level": "A1"
+    },
+    {
+      "id": "c168_007",
+      "arabic": "قَاطِعُ صَابُونٍ",
+      "german": "Seifenschneider",
+      "article": "der",
+      "plural": "Seifenschneider",
+      "english": "soap cutter",
+      "level": "A2"
+    },
+    {
+      "id": "c168_008",
+      "arabic": "رَغْوَةٌ نَاعِمَةٌ",
+      "german": "sanfter Schaum",
+      "article": "der",
+      "plural": "sanfte Schäume",
+      "english": "gentle foam / lather",
+      "level": "A1"
+    },
+    {
+      "id": "c168_009",
+      "arabic": "نَظَافَةٌ وَطَهَارَةٌ",
+      "german": "Reinheit",
+      "article": "die",
+      "plural": "Reinheiten",
+      "english": "cleanliness and purity",
+      "level": "A1"
+    },
+    {
+      "id": "c168_010",
+      "arabic": "عِطْرُ الْيَاسَمِينِ",
+      "german": "Jasminduft",
+      "article": "der",
+      "plural": "Jasmindüfte",
+      "english": "jasmine scent",
+      "level": "A1"
+    },
+    {
+      "id": "c168_011",
+      "arabic": "عِطْرُ الْخُزَامَى",
+      "german": "Lavendelduft",
+      "article": "der",
+      "plural": "Lavendeldüfte",
+      "english": "lavender scent",
+      "level": "A1"
+    },
+    {
+      "id": "c168_012",
+      "arabic": "تَصَبُّنٌ",
+      "german": "Verseifung",
+      "article": "die",
+      "plural": "Verseifungen",
+      "english": "saponification",
+      "level": "A2"
+    },
+    {
+      "id": "c168_013",
+      "arabic": "مَاءُ وَرْدٍ",
+      "german": "Rosenwasser",
+      "article": "das",
+      "plural": "Rosenwässer",
+      "english": "rose water",
+      "level": "A1"
+    },
+    {
+      "id": "c168_014",
+      "arabic": "أَعْشَابٌ طِبِّيَّةٌ",
+      "german": "Heilkräuter",
+      "article": "die",
+      "plural": "Heilkräuter",
+      "english": "medicinal herbs",
+      "level": "A2"
+    },
+    {
+      "id": "c168_015",
+      "arabic": "جْلِيسِرِينٌ طَبِيعِيٌّ",
+      "german": "Glyzerin",
+      "article": "das",
+      "plural": "Glyzerine",
+      "english": "natural glycerin",
+      "level": "A2"
+    },
+    {
+      "id": "c168_016",
+      "arabic": "خَتْمُ الصَّابُونِ",
+      "german": "Seifenstempel",
+      "article": "der",
+      "plural": "Seifenstempel",
+      "english": "soap stamp",
+      "level": "A2"
+    },
+    {
+      "id": "c168_017",
+      "arabic": "جَفَافُ الصَّابُونِ",
+      "german": "Trocknung",
+      "article": "die",
+      "plural": "Trocknungen",
+      "english": "soap curing",
+      "level": "A2"
+    },
+    {
+      "id": "c168_018",
+      "arabic": "قِطْعَةُ صَابُونٍ",
+      "german": "Seifenstück",
+      "article": "das",
+      "plural": "Seifenstücke",
+      "english": "bar of soap",
+      "level": "A1"
+    },
+    {
+      "id": "c168_019",
+      "arabic": "بَشَرَةٌ نَاعِمَةٌ",
+      "german": "sanfte Haut",
+      "article": "die",
+      "plural": "sanfte Häute",
+      "english": "soft skin",
+      "level": "A1"
+    },
+    {
+      "id": "c168_020",
+      "arabic": "رَائِحَةٌ زَكِيَّةٌ",
+      "german": "angenehmer Duft",
+      "article": "der",
+      "plural": "angenehme Düfte",
+      "english": "pleasant aroma",
+      "level": "A1"
+    },
+    {
+      "id": "c168_021",
+      "arabic": "صِنَاعَةٌ يَدَوِيَّةٌ",
+      "german": "Herstellung",
+      "article": "die",
+      "plural": "Herstellungen",
+      "english": "handcrafted production",
+      "level": "A1"
+    },
+    {
+      "id": "c168_022",
+      "arabic": "وِعَاءُ خَلْطٍ",
+      "german": "Mischbehälter",
+      "article": "der",
+      "plural": "Mischbehälter",
+      "english": "mixing vessel",
+      "level": "A2"
+    },
+    {
+      "id": "c168_023",
+      "arabic": "مِلْعَقَةُ تَحْرِيكٍ",
+      "german": "Rührlöffel",
+      "article": "der",
+      "plural": "Rührlöffel",
+      "english": "stirring spoon",
+      "level": "A1"
+    },
+    {
+      "id": "c168_024",
+      "arabic": "مَوَادُّ نَقِيَّةٌ",
+      "german": "reine Rohstoffe",
+      "article": "die",
+      "plural": "reine Rohstoffe",
+      "english": "pure raw materials",
+      "level": "A2"
+    },
+    {
+      "id": "c168_025",
+      "arabic": "عِنَايَةٌ صِحِّيَّةٌ",
+      "german": "Gesundheitspflege",
+      "article": "die",
+      "plural": "Gesundheitspflegen",
+      "english": "healthy care / hygiene",
+      "level": "A1"
+    }
+  ]
+}

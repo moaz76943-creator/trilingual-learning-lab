@@ -1,5 +1,5 @@
 {
-  "count": 1030,
+  "count": 1050,
   "sentences": [
     {
       "id": "sent_001",
@@ -17362,6 +17362,193 @@
       "concept_refs": [
         "v099",
         "c167_002"
+      ]
+    },
+    {
+      "id": "s1071",
+      "german": "Echte Naturseife wird aus reinem Olivenöl hergestellt.",
+      "arabic": "الصَّابُونُ الطَّبِيعِيُّ الْأَصِيلُ يُصْنَعُ مِنْ زَيْتِ الزَّيْتُونِ الصَّافِي.",
+      "english": "Genuine natural soap is made from pure olive oil.",
+      "concept_refs": [
+        "c168_001",
+        "c168_002"
+      ]
+    },
+    {
+      "id": "s1072",
+      "german": "Wertvolles Lorbeeröl verleiht der Seife ihre grüne Farbe.",
+      "arabic": "زَيْتُ الْغَارِ الثَّمِينُ يَمْنَحُ الصَّابُونَ لَوْنَهُ الْأَخْضَرَ.",
+      "english": "Precious laurel oil gives the soap its green color.",
+      "concept_refs": [
+        "c168_003"
+      ]
+    },
+    {
+      "id": "s1073",
+      "german": "Ein paar Tropfen ätherisches Öl duften wunderbar.",
+      "arabic": "بِضْعُ قَطَرَاتٍ مِنْ زَيْتٍ عِطْرِيٍّ تَفُوحُ بِرَائِحَةٍ رَائِعَةٍ.",
+      "english": "A few drops of essential oil smell wonderful.",
+      "concept_refs": [
+        "c168_004",
+        "c168_020"
+      ]
+    },
+    {
+      "id": "s1074",
+      "german": "Die traditionelle Seifensiederei blickt auf Jahrhunderte zurück.",
+      "arabic": "الْمِصْبَنَةُ التَّقْلِيدِيَّةُ تَعُودُ إِلَى قُرُونٍ طَوِيلَةٍ.",
+      "english": "The traditional soap workshop dates back centuries.",
+      "concept_refs": [
+        "c168_005"
+      ]
+    },
+    {
+      "id": "s1075",
+      "german": "Wir gießen die flüssige Masse in die hölzerne Seifenform.",
+      "arabic": "نَحْنُ نَصُبُّ الْمَزِيجَ السَّائِلَ فِي قَالَبِ الصَّابُونِ الْخَشَبِيِّ.",
+      "english": "We pour the liquid mixture into the wooden soap mold.",
+      "concept_refs": [
+        "c168_006"
+      ]
+    },
+    {
+      "id": "s1076",
+      "german": "Der Seifenschneider teilt den großen Block in gleichmäßige Stücke.",
+      "arabic": "قَاطِعُ الصَّابُونِ يُقَسِّمُ الْكُتْلَةَ الْكَبِيرَةَ إِلَى قِطَعٍ مُتَسَاوِيَةٍ.",
+      "english": "The soap cutter divides the large block into even pieces.",
+      "concept_refs": [
+        "c168_007",
+        "c168_018"
+      ]
+    },
+    {
+      "id": "s1077",
+      "german": "Ein sanfter Schaum pflegt die empfindliche Haut.",
+      "arabic": "رَغْوَةٌ نَاعِمَةٌ تَعْتَنِي بِالْبَشَرَةِ الْحَسَّاسَةِ.",
+      "english": "A gentle foam cares for sensitive skin.",
+      "concept_refs": [
+        "c168_008",
+        "c168_019"
+      ]
+    },
+    {
+      "id": "s1078",
+      "german": "Reinheit und Sauberkeit schenken Frische und Wohlbefinden.",
+      "arabic": "النَّظَافَةُ وَالطَّهَارَةُ تَمْنَحَانِ الِانْتِعَاشَ وَالرَّاحَةَ.",
+      "english": "Cleanliness and purity give freshness and well-being.",
+      "concept_refs": [
+        "c168_009"
+      ]
+    },
+    {
+      "id": "s1079",
+      "german": "Der zarte Jasminduft erfüllt das helle Badezimmer.",
+      "arabic": "عِطْرُ الْيَاسَمِينِ الرَّقِيقُ يَمْلَأُ الْحَمَّامَ الْمُضِيءَ.",
+      "english": "The delicate jasmine scent fills the bright bathroom.",
+      "concept_refs": [
+        "c168_010"
+      ]
+    },
+    {
+      "id": "s1080",
+      "german": "Lavendelduft beruhigt die Sinne am Abend.",
+      "arabic": "عِطْرُ الْخُزَامَى يُهَدِّئُ الْحَوَاسَّ فِي الْمَسَاءِ.",
+      "english": "Lavender scent calms the senses in the evening.",
+      "concept_refs": [
+        "c168_011"
+      ]
+    },
+    {
+      "id": "s1081",
+      "german": "Die Verseifung von Öl erfordert genaue Temperaturen.",
+      "arabic": "تَصَبُّنُ الزَّيْتِ يَتَطَلَّبُ دَرَجَاتِ حَرَارَةٍ دَقِيقَةً.",
+      "english": "The saponification of oil requires exact temperatures.",
+      "concept_refs": [
+        "c168_012"
+      ]
+    },
+    {
+      "id": "s1082",
+      "german": "Natürliches Rosenwasser erfrischt das Gesicht am Morgen.",
+      "arabic": "مَاءُ الْوَرْدِ الطَّبِيعِيُّ يُنْعِشُ الْوَجْهَ فِي الصَّبَاحِ.",
+      "english": "Natural rose water refreshes the face in the morning.",
+      "concept_refs": [
+        "c168_013"
+      ]
+    },
+    {
+      "id": "s1083",
+      "german": "Heilkräuter bereichern die Seife mit wertvollen Nährstoffen.",
+      "arabic": "الْأَعْشَابُ الطِّبِّيَّةُ تُثْرِي الصَّابُونَ بِمَوَادَّ مُغَذِّيَةٍ قَيِّمَةٍ.",
+      "english": "Medicinal herbs enrich the soap with valuable nutrients.",
+      "concept_refs": [
+        "c168_014"
+      ]
+    },
+    {
+      "id": "s1084",
+      "german": "Pflanzliches Glyzerin spendet der Haut viel Feuchtigkeit.",
+      "arabic": "الْجْلِيسِرِينُ النَّبَاتِيُّ يَمْنَحُ الْبَشَرَةَ رُطُوبَةً عَالِيَةً.",
+      "english": "Plant glycerin provides the skin with plenty of moisture.",
+      "concept_refs": [
+        "c168_015",
+        "c168_019"
+      ]
+    },
+    {
+      "id": "s1085",
+      "german": "Der Handwerker prägt sein Siegel mit dem Seifenstempel ein.",
+      "arabic": "الْحِرْفِيُّ يَطْبَعُ خَتْمَهُ بِخَتْمِ الصَّابُونِ.",
+      "english": "The craftsman imprints his seal with the soap stamp.",
+      "concept_refs": [
+        "c168_016"
+      ]
+    },
+    {
+      "id": "s1086",
+      "german": "Die lange Trocknung dauert bis zu neun Monate.",
+      "arabic": "الْجَفَافُ الطَّوِيلُ لِلصَّابُونِ يَسْتَغْرِقُ حَتَّى تِسْعَةِ أَشْهُرٍ.",
+      "english": "The long soap curing takes up to nine months.",
+      "concept_refs": [
+        "c168_017"
+      ]
+    },
+    {
+      "id": "s1087",
+      "german": "Ein festes Seifenstück liegt auf der Schale.",
+      "arabic": "قِطْعَةُ صَابُونٍ صَلْبَةٌ تَقِفُ عَلَى الصَّحْنِ.",
+      "english": "A solid bar of soap sits on the dish.",
+      "concept_refs": [
+        "c168_018"
+      ]
+    },
+    {
+      "id": "s1088",
+      "german": "Sanfte Haut braucht keine künstlichen Zusätze.",
+      "arabic": "الْبَشَرَةُ النَّاعِمَةُ لَا تَحْتَاجُ إِلَى إِضَافَاتٍ صِنَاعِيَّةٍ.",
+      "english": "Soft skin does not need artificial additives.",
+      "concept_refs": [
+        "c168_019",
+        "c168_024"
+      ]
+    },
+    {
+      "id": "s1089",
+      "german": "Traditionelle Herstellung bewahrt bewährtes Wissen.",
+      "arabic": "الصِّنَاعَةُ التَّقْلِيدِيَّةُ الْيَدَوِيَّةُ تَحْفَظُ مَعَارِفَ أَصِيلَةً.",
+      "english": "Traditional production preserves proven knowledge.",
+      "concept_refs": [
+        "c168_021"
+      ]
+    },
+    {
+      "id": "s1090",
+      "german": "Wir reinigen die Gefäße gründlich mit warmem Wasser.",
+      "arabic": "نَحْنُ نُنَظِّفُ الْأَوْعِيَةَ بِعِنَايَةٍ بِالْمَاءِ الدَّافِئِ.",
+      "english": "We clean the vessels thoroughly with warm water.",
+      "concept_refs": [
+        "v100",
+        "c168_022"
       ]
     }
   ]
