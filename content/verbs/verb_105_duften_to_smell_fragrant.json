@@ -1,0 +1,34 @@
+{
+  "verb_id": "v105",
+  "infinitive_de": "duften",
+  "root_ar": "فَاحَ",
+  "infinitive_en": "to smell pleasant / to be fragrant",
+  "level": "A1",
+  "present": {
+    "ich": "dufte",
+    "du": "duftest",
+    "er_sie_es": "duftet",
+    "wir": "duften",
+    "ihr": "duftet",
+    "sie_Sie": "duften"
+  },
+  "past": {
+    "ich": "duftete",
+    "du": "duftetest",
+    "er_sie_es": "duftete",
+    "wir": "dufteten",
+    "ihr": "duftetet",
+    "sie_Sie": "dufteten"
+  },
+  "perfect": {
+    "auxiliary": "haben",
+    "participle": "geduftet"
+  },
+  "examples": [
+    {
+      "german": "Der edle Weihrauch duftet herrlich im ganzen Raum.",
+      "arabic": "الْبَخُورُ النَّفِيسُ يَفُوحُ رَائِعًا فِي أَرْجَاءِ الْغُرْفَةِ.",
+      "english": "The noble incense smells wonderfully in the whole room."
+    }
+  ]
+}

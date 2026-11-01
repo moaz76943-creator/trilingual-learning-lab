@@ -1,5 +1,5 @@
 {
-  "count": 1130,
+  "count": 1150,
   "sentences": [
     {
       "id": "sent_001",
@@ -18300,6 +18300,195 @@
       "concept_refs": [
         "v104",
         "c172_001"
+      ]
+    },
+    {
+      "id": "s1171",
+      "german": "Natürliches Parfüm schenkt den ganzen Tag ein Gefühl von Frische.",
+      "arabic": "الْعِطْرُ الطَّبِيعِيُّ يَمْنَحُ شُعُورًا بِالِانْتِعَاشِ طَوَالَ الْيَوْمِ.",
+      "english": "Natural perfume gives a feeling of freshness all day.",
+      "concept_refs": [
+        "c173_001"
+      ]
+    },
+    {
+      "id": "s1172",
+      "german": "Echtes Oud-Öl ist ein kostbarer Schatz der Natur.",
+      "arabic": "دُهْنُ الْعُودِ الْأَصِيلُ كَنْزٌ ثَمِينٌ مِنَ الطَّبِيعَةِ.",
+      "english": "Genuine oud oil is a precious treasure of nature.",
+      "concept_refs": [
+        "c173_002"
+      ]
+    },
+    {
+      "id": "s1173",
+      "german": "Ein kleiner Tropfen reiner Moschus genügt für viele Stunden.",
+      "arabic": "قَطْرَةٌ صَغِيرَةٌ مِنْ مِسْكٍ نَقِيٍّ تَكْفِي لِسَاعَاتٍ طَوِيلَةٍ.",
+      "english": "A small drop of pure musk is enough for many hours.",
+      "concept_refs": [
+        "c173_003"
+      ]
+    },
+    {
+      "id": "s1174",
+      "german": "Das warme Aroma von Ambra beruhigt die Sinne am Abend.",
+      "arabic": "رَائِحَةُ الْعَنْبَرِ الدَّافِئَةُ تُهَدِّئُ الْحَوَاسَّ فِي الْمَسَاءِ.",
+      "english": "The warm aroma of amber calms the senses in the evening.",
+      "concept_refs": [
+        "c173_004"
+      ]
+    },
+    {
+      "id": "s1175",
+      "german": "Der edle Weihrauch verbreitet eine feierliche Atmosphäre.",
+      "arabic": "الْبَخُورُ الزَّكِيُّ يَنْشُرُ أَجْوَاءً بَهِيجَةً.",
+      "english": "The noble incense spreads a festive atmosphere.",
+      "concept_refs": [
+        "c173_005"
+      ]
+    },
+    {
+      "id": "s1176",
+      "german": "Sie stellt das kunstvolle Räuchergefäß mitten in das Gästezimmer.",
+      "arabic": "هِيَ تَضَعُ الْمَبْخَرَةَ الْفَنِّيَّةَ فِي وَسَطِ غُرْفَةِ الضُّيُوفِ.",
+      "english": "She places the ornate censer in the middle of the guest room.",
+      "concept_refs": [
+        "c173_006",
+        "c173_018"
+      ]
+    },
+    {
+      "id": "s1177",
+      "german": "Er legt das duftende Holz auf die glühende Kohle.",
+      "arabic": "هُوَ يَضَعُ الْخَشَبَ الْعَطِرَ عَلَى الْجَمْرَةِ الْمُتَّقِدَةِ.",
+      "english": "He places the scented wood on the glowing charcoal.",
+      "concept_refs": [
+        "c173_007",
+        "c173_016"
+      ]
+    },
+    {
+      "id": "s1178",
+      "german": "Reines Rosenöl wird aus tausenden frischen Blütenblättern destilliert.",
+      "arabic": "عِطْرُ الْوَرْدِ النَّقِيُّ يُقَطَّرُ مِنْ آلَافِ بَتَلَاتِ الْأَزْهَارِ الطَّازَجَةِ.",
+      "english": "Pure rose oil is distilled from thousands of fresh flower petals.",
+      "concept_refs": [
+        "c173_008",
+        "c173_013"
+      ]
+    },
+    {
+      "id": "s1179",
+      "german": "Sandelholzöl hat eine wunderbar beruhigende Wirkung.",
+      "arabic": "دُهْنُ الصَّنْدَلِ لَهُ أَثَرٌ مُهَدِّئٌ رَائِعٌ.",
+      "english": "Sandalwood oil has a wonderfully soothing effect.",
+      "concept_refs": [
+        "c173_009"
+      ]
+    },
+    {
+      "id": "s1180",
+      "german": "Der kleine gläserne Flakon passt perfekt in jede Tasche.",
+      "arabic": "زُجَاجَةُ الْعِطْرِ الصَّغِيرَةُ تُنَاسِبُ كُلَّ حَقِيبَةٍ.",
+      "english": "The small glass flacon fits perfectly into any bag.",
+      "concept_refs": [
+        "c173_010"
+      ]
+    },
+    {
+      "id": "s1181",
+      "german": "Mit der präzisen Pipette dosiert sie das wertvolle Öl.",
+      "arabic": "بِالْقَطَّارَةِ الدَّقِيقَةِ تُعَيِّرُ الزَّيْتَ الثَّمِينَ.",
+      "english": "With the precise dropper she doses the valuable oil.",
+      "concept_refs": [
+        "c173_011"
+      ]
+    },
+    {
+      "id": "s1182",
+      "german": "Im kupfernen Destillierkolben dampfen die frischen Rosen.",
+      "arabic": "فِي الْمِقْطَرَةِ النُّحَاسِيَّةِ يَتَبَخَّرُ الْوَرْدُ الطَّازَجُ.",
+      "english": "In the copper alembic the fresh roses steam.",
+      "concept_refs": [
+        "c173_012",
+        "c173_008"
+      ]
+    },
+    {
+      "id": "s1183",
+      "german": "Traditionelle Blütendestillation bewahrt den reinsten Duft.",
+      "arabic": "تَقْطِيرُ الْأَزْهَارِ التَّقْلِيدِيُّ يَحْفَظُ أَنْقَى رَائِحَةٍ.",
+      "english": "Traditional flower distillation preserves the purest scent.",
+      "concept_refs": [
+        "c173_013",
+        "c173_021"
+      ]
+    },
+    {
+      "id": "s1184",
+      "german": "Ein intensiver Duft begrüßt die Gäste schon an der Haustür.",
+      "arabic": "عِطْرٌ فَوَّاحٌ يُرَحِّبُ بِالضُّيُوفِ عِنْدَ بَابِ الْمَنْزِلِ.",
+      "english": "A long-lasting fragrance greets the guests right at the door.",
+      "concept_refs": [
+        "c173_014",
+        "c173_018"
+      ]
+    },
+    {
+      "id": "s1185",
+      "german": "Der duftende Rauch steigt in zarten Schleiern empor.",
+      "arabic": "الدُّخَانُ الْمُعَطَّرُ يَصْعَدُ فِي سُحُبٍ رَقِيقَةٍ.",
+      "english": "The scented smoke rises in delicate veils.",
+      "concept_refs": [
+        "c173_017"
+      ]
+    },
+    {
+      "id": "s1186",
+      "german": "Weihrauch anzünden ist ein schöner Brauch der Gastfreundschaft.",
+      "arabic": "إِشْعَالُ الْبَخُورِ عَادَةٌ جَمِيلَةٌ فِي الضِّيَافَةِ الْكَرِيمَةِ.",
+      "english": "Lighting incense is a lovely custom of hospitality.",
+      "concept_refs": [
+        "c173_018",
+        "c173_005"
+      ]
+    },
+    {
+      "id": "s1187",
+      "german": "Das Parfümieren vor dem Fest gehört zu den guten Gewohnheiten.",
+      "arabic": "التَّطَيُّبُ قَبْلَ الْعِيدِ مِنَ الْعَادَاتِ الْحَمِيدَةِ.",
+      "english": "Perfuming oneself before the celebration is a fine habit.",
+      "concept_refs": [
+        "c173_019"
+      ]
+    },
+    {
+      "id": "s1188",
+      "german": "Der zarte Duft von Jasmin erinnert an blühende Sommergärten.",
+      "arabic": "عِطْرُ الْفُلِّ الرَّقِيقُ يُذَكِّرُ بِحَدَائِقِ الصَّيْفِ الْمُزْهِرَةِ.",
+      "english": "The delicate scent of jasmine recalls blossoming summer gardens.",
+      "concept_refs": [
+        "c173_022"
+      ]
+    },
+    {
+      "id": "s1189",
+      "german": "Edles Parfümöl schenkt dem Herzen Freude und Wohlbehagen.",
+      "arabic": "الْعِطْرُ الزَّيْتِيُّ النَّفِيسُ يَمْنَحُ الْقَلْبَ بَهْجَةً وَسُرُورًا.",
+      "english": "Precious perfume oil gives the heart joy and delight.",
+      "concept_refs": [
+        "c173_024",
+        "c173_025"
+      ]
+    },
+    {
+      "id": "s1190",
+      "german": "Die weißen Blüten duften heute Abend besonders intensiv.",
+      "arabic": "الْأَزْهَارُ الْبَيْضَاءُ تَفُوحُ اللَّيْلَةَ بِعَبَقٍ شَدِيدٍ.",
+      "english": "The white blossoms smell especially fragrant this evening.",
+      "concept_refs": [
+        "v105",
+        "c173_014"
       ]
     }
   ]

@@ -1,0 +1,234 @@
+{
+  "category_id": "c173",
+  "name_ar": "صِنَاعَةُ الْعُطُورِ الشَّرْقِيَّةِ وَأَعْوَادِ الْبَخُورِ",
+  "name_de": "Traditionelle Parfümherstellung und Weihrauchkunst",
+  "name_en": "Traditional Perfumery and Incense Crafting",
+  "level": "A1-A2",
+  "concepts": [
+    {
+      "id": "c173_001",
+      "arabic": "عِطْرٌ طَبِيعِيٌّ",
+      "german": "natürliches Parfüm",
+      "article": "das",
+      "plural": "natürliche Parfüms",
+      "english": "natural perfume",
+      "level": "A1"
+    },
+    {
+      "id": "c173_002",
+      "arabic": "دُهْنُ الْعُودِ",
+      "german": "Oud",
+      "article": "das",
+      "plural": "Oud-Öle",
+      "english": "oud oil / agarwood",
+      "level": "A1"
+    },
+    {
+      "id": "c173_003",
+      "arabic": "مِسْكٌ نَقِيٌّ",
+      "german": "reiner Moschus",
+      "article": "der",
+      "plural": "reine Moschus",
+      "english": "pure musk",
+      "level": "A1"
+    },
+    {
+      "id": "c173_004",
+      "arabic": "عَنْبَرٌ",
+      "german": "Ambra",
+      "article": "das",
+      "plural": "Ambra",
+      "english": "amber",
+      "level": "A2"
+    },
+    {
+      "id": "c173_005",
+      "arabic": "بَخُورٌ زَكِيٌّ",
+      "german": "Weihrauch",
+      "article": "der",
+      "plural": "Weihrauche",
+      "english": "incense",
+      "level": "A1"
+    },
+    {
+      "id": "c173_006",
+      "arabic": "مَبْخَرَةٌ",
+      "german": "Räuchergefäß",
+      "article": "das",
+      "plural": "Räuchergefäße",
+      "english": "censer / incense burner",
+      "level": "A1"
+    },
+    {
+      "id": "c173_007",
+      "arabic": "جَمْرَةٌ مُتَّقِدَةٌ",
+      "german": "glühende Kohle",
+      "article": "die",
+      "plural": "glühende Kohlen",
+      "english": "burning charcoal",
+      "level": "A2"
+    },
+    {
+      "id": "c173_008",
+      "arabic": "عِطْرُ الْوَرْدِ",
+      "german": "Rosenöl",
+      "article": "das",
+      "plural": "Rosenöle",
+      "english": "rose oil / attar",
+      "level": "A1"
+    },
+    {
+      "id": "c173_009",
+      "arabic": "دُهْنُ الصَّنْدَلِ",
+      "german": "Sandelholzöl",
+      "article": "das",
+      "plural": "Sandelholzöle",
+      "english": "sandalwood oil",
+      "level": "A2"
+    },
+    {
+      "id": "c173_010",
+      "arabic": "زُجَاجَةُ عِطْرٍ",
+      "german": "Parfümflakon",
+      "article": "der",
+      "plural": "Parfümflakons",
+      "english": "perfume bottle",
+      "level": "A1"
+    },
+    {
+      "id": "c173_011",
+      "arabic": "قَطَّارَةُ عِطْرٍ",
+      "german": "Pipette",
+      "article": "die",
+      "plural": "Pipetten",
+      "english": "perfume dropper",
+      "level": "A2"
+    },
+    {
+      "id": "c173_012",
+      "arabic": "مِقْطَرَةٌ نُحَاسِيَّةٌ",
+      "german": "Destillierkolben",
+      "article": "der",
+      "plural": "Destillierkolben",
+      "english": "distillation alembic",
+      "level": "A2"
+    },
+    {
+      "id": "c173_013",
+      "arabic": "تَقْطِيرُ الْأَزْهَارِ",
+      "german": "Blütendestillation",
+      "article": "die",
+      "plural": "Blütendestillationen",
+      "english": "flower distillation",
+      "level": "A2"
+    },
+    {
+      "id": "c173_014",
+      "arabic": "عِطْرٌ فَوَّاحٌ",
+      "german": "intensiver Duft",
+      "article": "der",
+      "plural": "intensive Düfte",
+      "english": "long-lasting fragrance",
+      "level": "A1"
+    },
+    {
+      "id": "c173_015",
+      "arabic": "كُرَةُ عَنْبَرٍ",
+      "german": "Ambrakugel",
+      "article": "die",
+      "plural": "Ambrakugeln",
+      "english": "ambergris ball",
+      "level": "A2"
+    },
+    {
+      "id": "c173_016",
+      "arabic": "خَشَبُ الْعُودِ",
+      "german": "Adlerholzstücke",
+      "article": "das",
+      "plural": "Adlerholzstücke",
+      "english": "agarwood chips",
+      "level": "A1"
+    },
+    {
+      "id": "c173_017",
+      "arabic": "دُخَانٌ مُعَطَّرٌ",
+      "german": "duftender Rauch",
+      "article": "der",
+      "plural": "duftende Rauche",
+      "english": "scented smoke",
+      "level": "A1"
+    },
+    {
+      "id": "c173_018",
+      "arabic": "ضِيَافَةٌ كَرِيمَةٌ",
+      "german": "Gastfreundschaft",
+      "article": "die",
+      "plural": "Gastfreundschaften",
+      "english": "warm hospitality",
+      "level": "A1"
+    },
+    {
+      "id": "c173_019",
+      "arabic": "تَطَيُّبٌ",
+      "german": "Parfümieren",
+      "article": "das",
+      "plural": "Parfümieren",
+      "english": "perfuming oneself",
+      "level": "A1"
+    },
+    {
+      "id": "c173_020",
+      "arabic": "قِنِّينَةُ مِسْكٍ",
+      "german": "Fläschchen",
+      "article": "das",
+      "plural": "Fläschchen",
+      "english": "musk vial",
+      "level": "A1"
+    },
+    {
+      "id": "c173_021",
+      "arabic": "رَائِحَةُ الصَّبَاحِ",
+      "german": "Morgenduft",
+      "article": "der",
+      "plural": "Morgendüfte",
+      "english": "morning fragrance",
+      "level": "A1"
+    },
+    {
+      "id": "c173_022",
+      "arabic": "عِطْرُ الْفُلِّ",
+      "german": "Jasmin",
+      "article": "der",
+      "plural": "Jasmine",
+      "english": "jasmine scent",
+      "level": "A1"
+    },
+    {
+      "id": "c173_023",
+      "arabic": "نَفْحَةٌ عَطِرَةٌ",
+      "german": "Duftnote",
+      "article": "die",
+      "plural": "Duftnoten",
+      "english": "fragrance note",
+      "level": "A2"
+    },
+    {
+      "id": "c173_024",
+      "arabic": "عِطْرٌ زَيْتِيٌّ",
+      "german": "Parfümöl",
+      "article": "das",
+      "plural": "Parfümöle",
+      "english": "perfume oil",
+      "level": "A1"
+    },
+    {
+      "id": "c173_025",
+      "arabic": "بَهْجَةٌ وَسُرُورٌ",
+      "german": "Freude",
+      "article": "die",
+      "plural": "Freuden",
+      "english": "joy and delight",
+      "level": "A1"
+    }
+  ]
+}
