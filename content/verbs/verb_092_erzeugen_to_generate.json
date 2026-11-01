@@ -1,0 +1,34 @@
+{
+  "verb_id": "v092",
+  "infinitive_de": "erzeugen",
+  "root_ar": "وَلَّدَ",
+  "infinitive_en": "to generate / to produce",
+  "level": "A1",
+  "present": {
+    "ich": "erzeuge",
+    "du": "erzeugst",
+    "er_sie_es": "erzeugt",
+    "wir": "erzeugen",
+    "ihr": "erzeugt",
+    "sie_Sie": "erzeugen"
+  },
+  "past": {
+    "ich": "erzeugte",
+    "du": "erzeugtest",
+    "er_sie_es": "erzeugte",
+    "wir": "erzeugten",
+    "ihr": "erzeugtet",
+    "sie_Sie": "erzeugten"
+  },
+  "perfect": {
+    "auxiliary": "haben",
+    "participle": "erzeugt"
+  },
+  "examples": [
+    {
+      "german": "Die Solaranlage erzeugt sauberen Strom für das ganze Haus.",
+      "arabic": "الْمَنْظُومَةُ الشَّمْسِيَّةُ تُوَلِّدُ كَهْرَبَاءَ نَظِيفَةً لِلْمَنْزِلِ كُلِّهِ.",
+      "english": "The solar system generates clean electricity for the entire house."
+    }
+  ]
+}

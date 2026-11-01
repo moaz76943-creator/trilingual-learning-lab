@@ -1,0 +1,234 @@
+{
+  "category_id": "c160",
+  "name_ar": "الطَّاقَةُ الشَّمْسِيَّةُ وَالْكَهْرَبَاءُ النَّظِيفَةُ",
+  "name_de": "Solarenergie und saubere Elektrizität",
+  "name_en": "Solar Energy and Clean Power",
+  "level": "A1-A2",
+  "concepts": [
+    {
+      "id": "c160_001",
+      "arabic": "طَاقَةٌ شَمْسِيَّةٌ",
+      "german": "Solarenergie",
+      "article": "die",
+      "plural": "Solarenergien",
+      "english": "solar energy",
+      "level": "A1"
+    },
+    {
+      "id": "c160_002",
+      "arabic": "لَوْحٌ شَمْسِيٌّ",
+      "german": "Solarpanel",
+      "article": "das",
+      "plural": "Solarpanels",
+      "english": "solar panel",
+      "level": "A1"
+    },
+    {
+      "id": "c160_003",
+      "arabic": "خَلِيَّةٌ كَهْرُوضَوْئِيَّةٌ",
+      "german": "Solarzelle",
+      "article": "die",
+      "plural": "Solarzellen",
+      "english": "photovoltaic cell",
+      "level": "A2"
+    },
+    {
+      "id": "c160_004",
+      "arabic": "أَشِعَّةُ الشَّمْسِ",
+      "german": "Sonnenstrahlen",
+      "article": "die",
+      "plural": "Sonnenstrahlen",
+      "english": "sunlight / rays",
+      "level": "A1"
+    },
+    {
+      "id": "c160_005",
+      "arabic": "كَهْرَبَاءٌ نَظِيفَةٌ",
+      "german": "sauberer Strom",
+      "article": "der",
+      "plural": "saubere Ströme",
+      "english": "clean electricity",
+      "level": "A1"
+    },
+    {
+      "id": "c160_006",
+      "arabic": "مِحَوِّلُ طَاقَةٍ",
+      "german": "Wechselrichter",
+      "article": "der",
+      "plural": "Wechselrichter",
+      "english": "inverter",
+      "level": "A2"
+    },
+    {
+      "id": "c160_007",
+      "arabic": "بَطَّارِيَّةُ تَخْزِينٍ",
+      "german": "Speicherbatterie",
+      "article": "die",
+      "plural": "Speicherbatterien",
+      "english": "storage battery",
+      "level": "A1"
+    },
+    {
+      "id": "c160_008",
+      "arabic": "شَحْنٌ كَهْرَبَائِيٌّ",
+      "german": "Ladung",
+      "article": "die",
+      "plural": "Ladungen",
+      "english": "electrical charge",
+      "level": "A2"
+    },
+    {
+      "id": "c160_009",
+      "arabic": "سِلْكٌ نَاقِلٌ",
+      "german": "Kabel",
+      "article": "das",
+      "plural": "Kabel",
+      "english": "conductive cable",
+      "level": "A1"
+    },
+    {
+      "id": "c160_010",
+      "arabic": "عَدَّادُ طَاقَةٍ",
+      "german": "Stromzähler",
+      "article": "der",
+      "plural": "Stromzähler",
+      "english": "energy meter",
+      "level": "A2"
+    },
+    {
+      "id": "c160_011",
+      "arabic": "شَبَكَةٌ كَهْرَبَائِيَّةٌ",
+      "german": "Stromnetz",
+      "article": "das",
+      "plural": "Stromnetze",
+      "english": "power grid",
+      "level": "A2"
+    },
+    {
+      "id": "c160_012",
+      "arabic": "طَاقَةٌ مُتَجَدِّدَةٌ",
+      "german": "erneuerbare Energie",
+      "article": "die",
+      "plural": "erneuerbare Energien",
+      "english": "renewable energy",
+      "level": "A1"
+    },
+    {
+      "id": "c160_013",
+      "arabic": "تَوْفِيرُ الطَّاقَةِ",
+      "german": "Energiesparen",
+      "article": "das",
+      "plural": "Energiesparen",
+      "english": "energy saving",
+      "level": "A1"
+    },
+    {
+      "id": "c160_014",
+      "arabic": "اسْتِدَامَةٌ بِيئِيَّةٌ",
+      "german": "Nachhaltigkeit",
+      "article": "die",
+      "plural": "Nachhaltigkeiten",
+      "english": "environmental sustainability",
+      "level": "A2"
+    },
+    {
+      "id": "c160_015",
+      "arabic": "كَفَاءَةٌ عَالِيَةٌ",
+      "german": "hohe Effizienz",
+      "article": "die",
+      "plural": "hohe Effizienzen",
+      "english": "high efficiency",
+      "level": "A2"
+    },
+    {
+      "id": "c160_016",
+      "arabic": "سَطْحُ الْمَنْزِلِ",
+      "german": "Hausdach",
+      "article": "das",
+      "plural": "Hausdächer",
+      "english": "rooftop",
+      "level": "A1"
+    },
+    {
+      "id": "c160_017",
+      "arabic": "ضَوْءُ النَّهَارِ",
+      "german": "Tageslicht",
+      "article": "das",
+      "plural": "Tageslichter",
+      "english": "daylight",
+      "level": "A1"
+    },
+    {
+      "id": "c160_018",
+      "arabic": "جُهْدٌ كَهْرَبَائِيٌّ",
+      "german": "Spannung",
+      "article": "die",
+      "plural": "Spannungen",
+      "english": "voltage",
+      "level": "A2"
+    },
+    {
+      "id": "c160_019",
+      "arabic": "تَيَّارٌ كَهْرَبَائِيٌّ",
+      "german": "elektrischer Strom",
+      "article": "der",
+      "plural": "elektrische Ströme",
+      "english": "electric current",
+      "level": "A1"
+    },
+    {
+      "id": "c160_020",
+      "arabic": "قُدْرَةٌ كَهْرَبَائِيَّةٌ",
+      "german": "Leistung",
+      "article": "die",
+      "plural": "Leistungen",
+      "english": "electrical power",
+      "level": "A2"
+    },
+    {
+      "id": "c160_021",
+      "arabic": "حِمَايَةُ الْبِيئَةِ",
+      "german": "Umweltschutz",
+      "article": "der",
+      "plural": "Umweltschütze",
+      "english": "environmental protection",
+      "level": "A1"
+    },
+    {
+      "id": "c160_022",
+      "arabic": "هَوَاءٌ نَقِيٌّ",
+      "german": "reine Luft",
+      "article": "die",
+      "plural": "reine Lüfte",
+      "english": "clean air",
+      "level": "A1"
+    },
+    {
+      "id": "c160_023",
+      "arabic": "مَصْدَرٌ طَبِيعِيٌّ",
+      "german": "natürliche Quelle",
+      "article": "die",
+      "plural": "natürliche Quellen",
+      "english": "natural resource",
+      "level": "A1"
+    },
+    {
+      "id": "c160_024",
+      "arabic": "تَشْغِيلٌ ذَاتِيٌّ",
+      "german": "autarker Betrieb",
+      "article": "der",
+      "plural": "autarke Betriebe",
+      "english": "self-powered operation",
+      "level": "A2"
+    },
+    {
+      "id": "c160_025",
+      "arabic": "إِنَارَةٌ لَيْلِيَّةٌ",
+      "german": "Nachtbeleuchtung",
+      "article": "die",
+      "plural": "Nachtbeleuchtungen",
+      "english": "night lighting",
+      "level": "A1"
+    }
+  ]
+}

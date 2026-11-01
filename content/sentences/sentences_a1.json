@@ -1,5 +1,5 @@
 {
-  "count": 890,
+  "count": 910,
   "sentences": [
     {
       "id": "sent_001",
@@ -16039,6 +16039,201 @@
       "concept_refs": [
         "v091",
         "c159_025"
+      ]
+    },
+    {
+      "id": "s911",
+      "german": "Solarenergie ist sauber und schont unsere Umwelt.",
+      "arabic": "الطَّاقَةُ الشَّمْسِيَّةُ نَظِيفَةٌ وَتَحْمِي بِيئَتَنَا.",
+      "english": "Solar energy is clean and protects our environment.",
+      "concept_refs": [
+        "c160_001",
+        "c160_021"
+      ]
+    },
+    {
+      "id": "s912",
+      "german": "Die neuen Solarpanels fangen das Sonnenlicht optimal ein.",
+      "arabic": "الْأَلْوَاحُ الشَّمْسِيَّةُ الْجَدِيدَةُ تَلْتَقِطُ ضَوْءَ الشَّمْسِ بِشَكْلٍ مِثَالِيٍّ.",
+      "english": "The new solar panels capture sunlight optimally.",
+      "concept_refs": [
+        "c160_002",
+        "c160_004"
+      ]
+    },
+    {
+      "id": "s913",
+      "german": "Jede kleine Solarzelle trägt zur Stromerzeugung bei.",
+      "arabic": "كُلُّ خَلِيَّةٍ كَهْرُوضَوْئِيَّةٍ تُسَاهِمُ فِي تَوْلِيدِ الْكَهْرَبَاءِ.",
+      "english": "Each small solar cell contributes to power generation.",
+      "concept_refs": [
+        "c160_003",
+        "v092"
+      ]
+    },
+    {
+      "id": "s914",
+      "german": "Warme Sonnenstrahlen erwärmen das Wasser auf dem Dach.",
+      "arabic": "أَشِعَّةُ الشَّمْسِ الدَّافِئَةُ تُسَخِّنُ الْمَاءَ عَلَى السَّطْحِ.",
+      "english": "Warm sunbeams heat the water on the roof.",
+      "concept_refs": [
+        "c160_004",
+        "c160_016"
+      ]
+    },
+    {
+      "id": "s915",
+      "german": "Wir nutzen grünen Strom für alle Haushaltsgeräte.",
+      "arabic": "نَحْنُ نَسْتَخْدِمُ كَهْرَبَاءَ نَظِيفَةً لِجَمِيعِ الْأَجْهِزَةِ الْمَنْزِلِيَّةِ.",
+      "english": "We use green electricity for all household appliances.",
+      "concept_refs": [
+        "c160_005"
+      ]
+    },
+    {
+      "id": "s916",
+      "german": "Der Wechselrichter wandelt den Gleichstrom in Wechselstrom um.",
+      "arabic": "الْمُحَوِّلُ يُحَوِّلُ التَّيَّارَ الْمُسْتَمِرَّ إِلَى تَيَّارٍ مُتَرَدِّدٍ.",
+      "english": "The inverter converts direct current to alternating current.",
+      "concept_refs": [
+        "c160_006",
+        "c160_019"
+      ]
+    },
+    {
+      "id": "s917",
+      "german": "Die Speicherbatterie hält Energie für die Nacht bereit.",
+      "arabic": "بَطَّارِيَّةُ التَّخْزِينِ تُبْقِي الطَّاقَةَ جَاهِزَةً لِلَّيْلِ.",
+      "english": "The storage battery keeps energy ready for the night.",
+      "concept_refs": [
+        "c160_007",
+        "c160_025"
+      ]
+    },
+    {
+      "id": "s918",
+      "german": "Das Handy benötigt eine schnelle elektrische Ladung.",
+      "arabic": "الْهَاتِفُ يَحْتَاجُ إِلَى شَحْنٍ كَهْرَبَائِيٍّ سَرِيعٍ.",
+      "english": "The phone requires a quick electrical charge.",
+      "concept_refs": [
+        "c160_008"
+      ]
+    },
+    {
+      "id": "s919",
+      "german": "Ein isoliertes Kabel verbindet das Panel mit der Batterie.",
+      "arabic": "سِلْكٌ مَعْزُولٌ يَرْبِطُ اللَّوْحَ بِالْبَطَّارِيَّةِ.",
+      "english": "An insulated cable connects the panel to the battery.",
+      "concept_refs": [
+        "c160_009",
+        "c160_002",
+        "c160_007"
+      ]
+    },
+    {
+      "id": "s920",
+      "german": "Der digitale Stromzähler zeigt den Verbrauch genau an.",
+      "arabic": "عَدَّادُ الطَّاقَةِ الرَّقْمِيُّ يُظْهِرُ الِاسْتِهْلَاكِ بِدِقَّةٍ.",
+      "english": "The digital energy meter displays consumption accurately.",
+      "concept_refs": [
+        "c160_010"
+      ]
+    },
+    {
+      "id": "s921",
+      "german": "Überschüssiger Strom fließt zurück ins Stromnetz.",
+      "arabic": "الْكَهْرَبَاءُ الزَّائِدَةُ تَتَدَفَّقُ إِلَى الشَّبَكَةِ الْعَامَّةِ.",
+      "english": "Surplus electricity flows back into the power grid.",
+      "concept_refs": [
+        "c160_011",
+        "c160_005"
+      ]
+    },
+    {
+      "id": "s922",
+      "german": "Erneuerbare Energien sichern eine gute Zukunft.",
+      "arabic": "الطَّاقَاتُ الْمُتَجَدِّدَةُ تَضْمَنُ مُسْتَقْبَلًا طَيِّبًا.",
+      "english": "Renewable energies secure a good future.",
+      "concept_refs": [
+        "c160_012"
+      ]
+    },
+    {
+      "id": "s923",
+      "german": "Energiesparen senkt die monatliche Stromrechnung.",
+      "arabic": "تَوْفِيرُ الطَّاقَةِ يُخَفِّضُ فَاتُورَةَ الْكَهْرَبَاءِ الشَّهْرِيَّةَ.",
+      "english": "Energy saving lowers the monthly electric bill.",
+      "concept_refs": [
+        "c160_013"
+      ]
+    },
+    {
+      "id": "s924",
+      "german": "Nachhaltigkeit bedeutet Verantwortung für kommende Generationen.",
+      "arabic": "الِاسْتِدَامَةُ تَعْنِي الْمَسْؤُولِيَّةَ تُجَاهَ الْأَجْيَالِ الْقَادِمَةِ.",
+      "english": "Sustainability means responsibility for future generations.",
+      "concept_refs": [
+        "c160_014"
+      ]
+    },
+    {
+      "id": "s925",
+      "german": "Diese Solaranlage arbeitet mit hoher Effizienz.",
+      "arabic": "هَذِهِ الْمَنْظُومَةُ الشَّمْسِيَّةُ تَعْمَلُ بِكَفَاءَةٍ عَالِيَةٍ.",
+      "english": "This solar installation operates with high efficiency.",
+      "concept_refs": [
+        "c160_015",
+        "c160_001"
+      ]
+    },
+    {
+      "id": "s926",
+      "german": "Auf dem Hausdach ist viel Platz für Solarmodule.",
+      "arabic": "عَلَى سَطْحِ الْمَنْزِلِ مَسَاحَةٌ كَبِيرَةٌ لِأَلْوَاحِ الطَّاقَةِ.",
+      "english": "On the rooftop is plenty of space for solar modules.",
+      "concept_refs": [
+        "c160_016",
+        "c160_002"
+      ]
+    },
+    {
+      "id": "s927",
+      "german": "Helles Tageslicht reicht oft schon für die Stromerzeugung.",
+      "arabic": "ضَوْءُ النَّهَارِ السَّاطِعُ يَكْفِي غَالِبًا لِتَوْلِيدِ الْكَهْرَبَاءِ.",
+      "english": "Bright daylight is often enough for generating power.",
+      "concept_refs": [
+        "c160_017",
+        "v092"
+      ]
+    },
+    {
+      "id": "s928",
+      "german": "Die elektrische Spannung bleibt den ganzen Tag konstant.",
+      "arabic": "الْجُهْدُ الْكَهْرَبَائِيُّ يَبْقَى ثَابِتًا طَوَالَ الْيَوْمِ.",
+      "english": "The voltage remains constant throughout the day.",
+      "concept_refs": [
+        "c160_018"
+      ]
+    },
+    {
+      "id": "s929",
+      "german": "Saubere Energie sorgt für frische und reine Luft.",
+      "arabic": "الطَّاقَةُ النَّظِيفَةُ تُؤَمِّنُ هَوَاءً نَقِيًّا وَعَلِيلًا.",
+      "english": "Clean energy provides fresh and pure air.",
+      "concept_refs": [
+        "c160_022",
+        "c160_005"
+      ]
+    },
+    {
+      "id": "s930",
+      "german": "Wir erzeugen unseren eigenen Strom auf dem Dach.",
+      "arabic": "نَحْنُ نُوَلِّدُ كَهْرَبَاءَنَا الْخَاصَّةَ عَلَى السَّطْحِ.",
+      "english": "We generate our own electricity on the roof.",
+      "concept_refs": [
+        "v092",
+        "c160_005",
+        "c160_016"
       ]
     }
   ]
