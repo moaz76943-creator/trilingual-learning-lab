@@ -36690,5 +36690,10 @@
   "c173_022": "content/assets/images/category_173/c173_022.svg",
   "c173_023": "content/assets/images/category_173/c173_023.svg",
   "c173_024": "content/assets/images/category_173/c173_024.svg",
-  "c173_025": "content/assets/images/category_173/c173_025.svg"
+  "c173_025": "content/assets/images/category_173/c173_025.svg",
+  "asset_astronomy_star": "content/assets/svg/astronomy_star.svg",
+  "asset_astronomy_sun": "content/assets/svg/astronomy_sun.svg",
+  "asset_astronomy_moon": "content/assets/svg/astronomy_moon.svg",
+  "asset_nature_cloud": "content/assets/svg/nature_cloud.svg",
+  "asset_nature_earth": "content/assets/svg/nature_earth.svg"
 }

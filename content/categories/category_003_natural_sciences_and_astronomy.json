@@ -1,0 +1,44 @@
+{
+  "id": "category_003",
+  "name_ar": "عُلُومُ الطَّبِيعَةِ وَالفَلَكِ",
+  "name_de": "Naturwissenschaften und Astronomie",
+  "name_en": "Natural Sciences and Astronomy",
+  "cefr_level": "A2",
+  "concepts": [
+    {
+      "id": "concept_008_star",
+      "arabic": "النَّجْمُ الثَّاقِبُ",
+      "german": "der leuchtende Stern",
+      "english": "the piercing star",
+      "image_key": "asset_astronomy_star"
+    },
+    {
+      "id": "concept_009_sun",
+      "arabic": "الشَّمْسُ المُشْرِقَةُ",
+      "german": "die strahlende Sonne",
+      "english": "the shining sun",
+      "image_key": "asset_astronomy_sun"
+    },
+    {
+      "id": "concept_010_moon",
+      "arabic": "القَمَرُ المُنِيرُ",
+      "german": "der leuchtende Mond",
+      "english": "the luminous moon",
+      "image_key": "asset_astronomy_moon"
+    },
+    {
+      "id": "concept_011_cloud",
+      "arabic": "السَّحَابُ المُمْطِرُ",
+      "german": "die Regenwolke",
+      "english": "the rain cloud",
+      "image_key": "asset_nature_cloud"
+    },
+    {
+      "id": "concept_012_earth",
+      "arabic": "الأَرْضُ الطَّيِّبَةُ",
+      "german": "die fruchtbare Erde",
+      "english": "the fertile land",
+      "image_key": "asset_nature_earth"
+    }
+  ]
+}
