@@ -1,5 +1,5 @@
 {
-  "count": 1050,
+  "count": 1070,
   "sentences": [
     {
       "id": "sent_001",
@@ -17549,6 +17549,194 @@
       "concept_refs": [
         "v100",
         "c168_022"
+      ]
+    },
+    {
+      "id": "s1091",
+      "german": "Echtes Leder schützt das wertvolle Buch für Generationen.",
+      "arabic": "الْجِلْدُ الطَّبِيعِيُّ يَحْمِي الْكِتَابَ الْقَيِّمَ لِأَجْيَالٍ طَوِيلَةٍ.",
+      "english": "Genuine leather protects the valuable book for generations.",
+      "concept_refs": [
+        "c169_001",
+        "c169_025"
+      ]
+    },
+    {
+      "id": "s1092",
+      "german": "Die Buchbinderei erfordert großes handwerkliches Geschick.",
+      "arabic": "تَجْلِيدُ الْكُتُبِ يَتَطَلَّبُ مَهَارَةً حِرَفِيَّةً عَالِيَةً.",
+      "english": "Bookbinding requires great craftsmanship.",
+      "concept_refs": [
+        "c169_002"
+      ]
+    },
+    {
+      "id": "s1093",
+      "german": "Der Buchdeckel ist mit feinen Linien verziert.",
+      "arabic": "غِلَافُ الْكِتَابِ مُزَيَّنٌ بِخُطُوطٍ رَقِيقَةٍ.",
+      "english": "The book cover is decorated with fine lines.",
+      "concept_refs": [
+        "c169_003"
+      ]
+    },
+    {
+      "id": "s1094",
+      "german": "Handgeschöpftes Büttenpapier fühlt sich griffig und edel an.",
+      "arabic": "الْوَرَقُ الْمَقْهُورُ الْمَصْنُوعُ بِالْيَدِ لَهُ مَلْمَسٌ نَفِيسٌ.",
+      "english": "Handmade paper feels substantial and noble.",
+      "concept_refs": [
+        "c169_004"
+      ]
+    },
+    {
+      "id": "s1095",
+      "german": "Der reißfeste Buchbinderfaden hält alle Seiten zusammen.",
+      "arabic": "خَيْطُ التَّجْلِيدِ الْمَتِينُ يُمْسِكُ جَمِيعَ الصَّفَحَاتِ مَعًا.",
+      "english": "The tear-resistant bookbinding thread holds all pages together.",
+      "concept_refs": [
+        "c169_005",
+        "c169_021"
+      ]
+    },
+    {
+      "id": "s1096",
+      "german": "Der Handwerker streicht Pflanzenleim dünn auf das Leder.",
+      "arabic": "الْحِرْفِيُّ يَدْهَنُ الْغِرَاءَ النَّبَاتِيَّ بِرِقَّةٍ عَلَى الْجِلْدِ.",
+      "english": "The craftsman spreads plant glue thinly on the leather.",
+      "concept_refs": [
+        "c169_006",
+        "c169_001"
+      ]
+    },
+    {
+      "id": "s1097",
+      "german": "Die schwere Buchpresse presst die Lagen gleichmäßig flach.",
+      "arabic": "مَكْبَسُ الْكُتُبِ الثَّقِيلُ يَضْغَطُ الْمَلَازِمَ بِاسْتِوَاءٍ.",
+      "english": "The heavy book press presses the sections evenly flat.",
+      "concept_refs": [
+        "c169_007"
+      ]
+    },
+    {
+      "id": "s1098",
+      "german": "Mit der spitzen Ahle sticht er Löcher für die Fäden.",
+      "arabic": "بِالْمِخْرَزِ الْحَادِّ يَثْقُبُ ثُقُوبًا لِلْخُيُوطِ.",
+      "english": "With the sharp awl he punches holes for the threads.",
+      "concept_refs": [
+        "c169_008",
+        "c169_005"
+      ]
+    },
+    {
+      "id": "s1099",
+      "german": "Das Schneidelineal sorgt für saubere gerade Papierkanten.",
+      "arabic": "مِسْطَرَةُ الْقَطْعِ تُؤَمِّنُ حَوَافَّ وَرَقٍ مُسْتَقِيمَةً وَنَظِيفَةً.",
+      "english": "The cutting ruler ensures clean straight paper edges.",
+      "concept_refs": [
+        "c169_009"
+      ]
+    },
+    {
+      "id": "s1100",
+      "german": "Die glänzende Goldprägung ziert den Buchtitel.",
+      "arabic": "النَّقْشُ الذَّهَبِيُّ اللَّامِعُ يُزَيِّنُ عُنْوَانَ الْكِتَابِ.",
+      "english": "The shiny gold embossing adorns the book title.",
+      "concept_refs": [
+        "c169_010"
+      ]
+    },
+    {
+      "id": "s1101",
+      "german": "Pflanzliche Gerbung bewahrt die natürliche Festigkeit der Haut.",
+      "arabic": "الدِّبَاغَةُ النَّبَاتِيَّةُ تَحْفَظُ مَتَانَةَ الْجِلْدِ الطَّبِيعِيَّةَ.",
+      "english": "Vegetable tanning preserves the natural strength of the hide.",
+      "concept_refs": [
+        "c169_011"
+      ]
+    },
+    {
+      "id": "s1102",
+      "german": "Der Buchschnitt wird glatt geschliffen und gefärbt.",
+      "arabic": "حَافَّةُ الْكِتَابِ تُصْقَلُ نَاعِمَةً وَتُلَوَّنُ.",
+      "english": "The book edge is smoothed and colored.",
+      "concept_refs": [
+        "c169_012"
+      ]
+    },
+    {
+      "id": "s1103",
+      "german": "Ein rotes Lesebändchen markiert die aktuelle Leseseite.",
+      "arabic": "شَرِيطُ فِهْرِسٍ أَحْمَرُ يُعَلِّمُ صَفْحَةَ الْقِرَاءَةِ الْحَالِيَّةَ.",
+      "english": "A red ribbon bookmark marks the current reading page.",
+      "concept_refs": [
+        "c169_013"
+      ]
+    },
+    {
+      "id": "s1104",
+      "german": "Mit dem glatten Falzbein streicht sie das Papier sauber um.",
+      "arabic": "بِالصِّقَالِ الْخَشَبِيِّ النَّاعِمِ تَطْوِي الْوَرَقَ بِنَظَافَةٍ.",
+      "english": "With the smooth bone folder she folds the paper cleanly.",
+      "concept_refs": [
+        "c169_015"
+      ]
+    },
+    {
+      "id": "s1105",
+      "german": "Der heiße Prägestempel hinterlässt ein tiefes Siegel.",
+      "arabic": "الْخَتْمُ النُّحَاسِيُّ السَّاخِنُ يَتْرُكُ خَتْمًا عَمِيقًا.",
+      "english": "The hot embossing stamp leaves a deep seal.",
+      "concept_refs": [
+        "c169_016"
+      ]
+    },
+    {
+      "id": "s1106",
+      "german": "Alte wertvolle Manuskripte werden mit Geduld restauriert.",
+      "arabic": "الْمَخْطُوطَاتُ النَّفِيسَةُ الْقَدِيمَةُ تُصَانُ بِصَبْرٍ وَعِنَايَةٍ.",
+      "english": "Old valuable manuscripts are restored with patience.",
+      "concept_refs": [
+        "c169_019",
+        "c169_020"
+      ]
+    },
+    {
+      "id": "s1107",
+      "german": "Genähte Seiten halten viel länger als geklebte Blätter.",
+      "arabic": "الصَّفَحَاتُ الْمَخِيطَةُ تَدُومُ أَطْوَلَ بِكَثِيرٍ مِنَ الْأَوْرَاقِ الْمُلْصَقَةِ.",
+      "english": "Sewn pages last much longer than glued leaves.",
+      "concept_refs": [
+        "c169_021"
+      ]
+    },
+    {
+      "id": "s1108",
+      "german": "Auf dem Buchrücken steht der Autorenname in Gold.",
+      "arabic": "عَلَى كَعْبِ الْكِتَابِ يُكْتَبُ اسْمُ الْمُؤَلِّفِ بِالذَّهَبِ.",
+      "english": "On the book spine the author's name is written in gold.",
+      "concept_refs": [
+        "c169_022",
+        "c169_010"
+      ]
+    },
+    {
+      "id": "s1109",
+      "german": "Klassische Buchkunst verbindet Schönheit und Dauerhaftigkeit.",
+      "arabic": "فَنُّ الصَّحَافَةِ وَالتَّجْلِيدِ يَجْمَعُ بَيْنَ الْجَمَالِ وَالْبَقَاءِ.",
+      "english": "Classical book art combines beauty and permanence.",
+      "concept_refs": [
+        "c169_024",
+        "c169_023"
+      ]
+    },
+    {
+      "id": "s1110",
+      "german": "Wir binden die gesammelten Blätter zu einem festen Buch.",
+      "arabic": "نَحْنُ نُجَلِّدُ الْأَوْرَاقَ الْمَجْمُوعَةَ فِي كِتَابٍ مُحْكَمٍ.",
+      "english": "We bind the collected sheets into a solid book.",
+      "concept_refs": [
+        "v101",
+        "c169_025"
       ]
     }
   ]

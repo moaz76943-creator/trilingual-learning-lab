@@ -1,0 +1,34 @@
+{
+  "verb_id": "v101",
+  "infinitive_de": "binden",
+  "root_ar": "جَلَّدَ",
+  "infinitive_en": "to bind",
+  "level": "A1",
+  "present": {
+    "ich": "binde",
+    "du": "bindest",
+    "er_sie_es": "bindet",
+    "wir": "binden",
+    "ihr": "bindet",
+    "sie_Sie": "binden"
+  },
+  "past": {
+    "ich": "band",
+    "du": "bandest",
+    "er_sie_es": "band",
+    "wir": "banden",
+    "ihr": "bandet",
+    "sie_Sie": "banden"
+  },
+  "perfect": {
+    "auxiliary": "haben",
+    "participle": "gebunden"
+  },
+  "examples": [
+    {
+      "german": "Der Buchbinder bindet das alte Buch mit feinem Leder ein.",
+      "arabic": "مُجَلِّدُ الْكُتُبِ يُجَلِّدُ الْكِتَابَ الْقَدِيمَ بِجِلْدٍ نَفِيسٍ.",
+      "english": "The bookbinder binds the old book with fine leather."
+    }
+  ]
+}

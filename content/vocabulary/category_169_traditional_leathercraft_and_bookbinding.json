@@ -1,0 +1,234 @@
+{
+  "category_id": "c169",
+  "name_ar": "صِنَاعَةُ الْجُلُودِ التَّقْلِيدِيَّةِ وَتَجْلِيدُ الْكُتُبِ",
+  "name_de": "Traditionelle Lederverarbeitung und Buchbinderei",
+  "name_en": "Traditional Leathercraft and Bookbinding",
+  "level": "A1-A2",
+  "concepts": [
+    {
+      "id": "c169_001",
+      "arabic": "جِلْدٌ طَبِيعِيٌّ",
+      "german": "Echtleder",
+      "article": "das",
+      "plural": "Echtleder",
+      "english": "genuine leather",
+      "level": "A1"
+    },
+    {
+      "id": "c169_002",
+      "arabic": "تَجْلِيدُ الْكُتُبِ",
+      "german": "Buchbinderei",
+      "article": "die",
+      "plural": "Buchbindereien",
+      "english": "bookbinding",
+      "level": "A2"
+    },
+    {
+      "id": "c169_003",
+      "arabic": "غِلَافُ كِتَابٍ",
+      "german": "Buchdeckel",
+      "article": "der",
+      "plural": "Buchdeckel",
+      "english": "book cover",
+      "level": "A1"
+    },
+    {
+      "id": "c169_004",
+      "arabic": "وَرَقٌ مَقْهُورٌ",
+      "german": "Büttenpapier",
+      "article": "das",
+      "plural": "Büttenpapiere",
+      "english": "handmade paper",
+      "level": "A2"
+    },
+    {
+      "id": "c169_005",
+      "arabic": "خَيْطُ تَجْلِيدٍ",
+      "german": "Buchbinderfaden",
+      "article": "der",
+      "plural": "Buchbinderfäden",
+      "english": "bookbinding thread",
+      "level": "A1"
+    },
+    {
+      "id": "c169_006",
+      "arabic": "غِرَاءٌ نَبَاتِيٌّ",
+      "german": "Pflanzenleim",
+      "article": "der",
+      "plural": "Pflanzenleime",
+      "english": "plant glue",
+      "level": "A2"
+    },
+    {
+      "id": "c169_007",
+      "arabic": "مَكْبَسُ كُتُبٍ",
+      "german": "Buchpresse",
+      "article": "die",
+      "plural": "Buchpressen",
+      "english": "book press",
+      "level": "A2"
+    },
+    {
+      "id": "c169_008",
+      "arabic": "مِخْرَزٌ",
+      "german": "Ahle",
+      "article": "die",
+      "plural": "Ahlen",
+      "english": "awl / piercing tool",
+      "level": "A2"
+    },
+    {
+      "id": "c169_009",
+      "arabic": "مِسْطَرَةُ قَطْعٍ",
+      "german": "Schneidelineal",
+      "article": "das",
+      "plural": "Schneidelineale",
+      "english": "cutting ruler",
+      "level": "A1"
+    },
+    {
+      "id": "c169_010",
+      "arabic": "نَقْشٌ ذَهَبِيٌّ",
+      "german": "Goldprägung",
+      "article": "die",
+      "plural": "Goldprägungen",
+      "english": "gold embossing",
+      "level": "A2"
+    },
+    {
+      "id": "c169_011",
+      "arabic": "دِبَاغَةٌ نَبَاتِيَّةٌ",
+      "german": "pflanzliche Gerbung",
+      "article": "die",
+      "plural": "pflanzliche Gerbungen",
+      "english": "vegetable tanning",
+      "level": "A2"
+    },
+    {
+      "id": "c169_012",
+      "arabic": "حَافَّةُ الْكِتَابِ",
+      "german": "Buchschnitt",
+      "article": "der",
+      "plural": "Buchschnitte",
+      "english": "book edge",
+      "level": "A2"
+    },
+    {
+      "id": "c169_013",
+      "arabic": "شَرِيطُ فِهْرِسٍ",
+      "german": "Lesebändchen",
+      "article": "das",
+      "plural": "Lesebändchen",
+      "english": "ribbon bookmark",
+      "level": "A1"
+    },
+    {
+      "id": "c169_014",
+      "arabic": "لَوْحُ غِلَافٍ",
+      "german": "Einbanddeckel",
+      "article": "der",
+      "plural": "Einbanddeckel",
+      "english": "binding board",
+      "level": "A2"
+    },
+    {
+      "id": "c169_015",
+      "arabic": "صِقَالٌ خَشَبِيٌّ",
+      "german": "Falzbein",
+      "article": "das",
+      "plural": "Falzbeine",
+      "english": "bone folder",
+      "level": "A2"
+    },
+    {
+      "id": "c169_016",
+      "arabic": "خَتْمٌ نُحَاسِيٌّ",
+      "german": "Prägestempel",
+      "article": "der",
+      "plural": "Prägestempel",
+      "english": "embossing stamp",
+      "level": "A2"
+    },
+    {
+      "id": "c169_017",
+      "arabic": "مِشْطُ تَسْوِيَةٍ",
+      "german": "Leimkamm",
+      "article": "der",
+      "plural": "Leimkämme",
+      "english": "glue comb",
+      "level": "A2"
+    },
+    {
+      "id": "c169_018",
+      "arabic": "جِلْدٌ مَدْبُوغٌ",
+      "german": "gegerbtes Leder",
+      "article": "das",
+      "plural": "gegerbte Leder",
+      "english": "tanned leather",
+      "level": "A1"
+    },
+    {
+      "id": "c169_019",
+      "arabic": "مَخْطُوطَةٌ نَفِيسَةٌ",
+      "german": "Manuskript",
+      "article": "das",
+      "plural": "Manuskripte",
+      "english": "precious manuscript",
+      "level": "A1"
+    },
+    {
+      "id": "c169_020",
+      "arabic": "صِيَانَةُ الْكُتُبِ",
+      "german": "Restaurierung",
+      "article": "die",
+      "plural": "Restaurierungen",
+      "english": "book conservation",
+      "level": "A2"
+    },
+    {
+      "id": "c169_021",
+      "arabic": "صَفَحَاتٌ مَخِيطَةٌ",
+      "german": "genähte Seiten",
+      "article": "die",
+      "plural": "genähte Seiten",
+      "english": "sewn pages",
+      "level": "A1"
+    },
+    {
+      "id": "c169_022",
+      "arabic": "كَعْبُ الْكِتَابِ",
+      "german": "Buchrücken",
+      "article": "der",
+      "plural": "Buchrücken",
+      "english": "book spine",
+      "level": "A1"
+    },
+    {
+      "id": "c169_023",
+      "arabic": "مَتَانَةُ التَّجْلِيدِ",
+      "german": "Haltbarkeit",
+      "article": "die",
+      "plural": "Haltbarkeiten",
+      "english": "binding durability",
+      "level": "A2"
+    },
+    {
+      "id": "c169_024",
+      "arabic": "فَنُّ الصَّحَافَةِ",
+      "german": "Buchkunst",
+      "article": "die",
+      "plural": "Buchkünste",
+      "english": "book art",
+      "level": "A1"
+    },
+    {
+      "id": "c169_025",
+      "arabic": "كِتَابٌ مُحْكَمٌ",
+      "german": "gebundenes Buch",
+      "article": "das",
+      "plural": "gebundene Bücher",
+      "english": "solid book",
+      "level": "A1"
+    }
+  ]
+}
