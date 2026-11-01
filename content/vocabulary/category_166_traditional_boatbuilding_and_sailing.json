@@ -1,0 +1,234 @@
+{
+  "category_id": "c166",
+  "name_ar": "صِنَاعَةُ السُّفُنِ التَّقْلِيدِيَّةِ وَالْمِلَاحَةُ الْبَحْرِيَّةُ",
+  "name_de": "Traditioneller Schiffbau und Schifffahrt",
+  "name_en": "Traditional Boatbuilding and Sailing",
+  "level": "A1-A2",
+  "concepts": [
+    {
+      "id": "c166_001",
+      "arabic": "سَفِينَةٌ شِرَاعِيَّةٌ",
+      "german": "Segelschiff",
+      "article": "das",
+      "plural": "Segelschiffe",
+      "english": "sailing ship",
+      "level": "A1"
+    },
+    {
+      "id": "c166_002",
+      "arabic": "قَارِبُ صَيْدٍ",
+      "german": "Fischerboot",
+      "article": "das",
+      "plural": "Fischerboote",
+      "english": "fishing boat",
+      "level": "A1"
+    },
+    {
+      "id": "c166_003",
+      "arabic": "شِرَاعٌ أَبْيَضُ",
+      "german": "weißes Segel",
+      "article": "das",
+      "plural": "weiße Segel",
+      "english": "white sail",
+      "level": "A1"
+    },
+    {
+      "id": "c166_004",
+      "arabic": "صَارِي السَّفِينَةِ",
+      "german": "Mast",
+      "article": "der",
+      "plural": "Masten",
+      "english": "ship's mast",
+      "level": "A1"
+    },
+    {
+      "id": "c166_005",
+      "arabic": "دَفَّةُ قِيَادَةٍ",
+      "german": "Ruder",
+      "article": "das",
+      "plural": "Ruder",
+      "english": "steering rudder",
+      "level": "A2"
+    },
+    {
+      "id": "c166_006",
+      "arabic": "مِرْسَاةٌ حَدِيدِيَّةٌ",
+      "german": "Anker",
+      "article": "der",
+      "plural": "Anker",
+      "english": "anchor",
+      "level": "A1"
+    },
+    {
+      "id": "c166_007",
+      "arabic": "حَبْلٌ بَحْرِيٌّ",
+      "german": "Tau",
+      "article": "das",
+      "plural": "Taue",
+      "english": "nautical rope",
+      "level": "A2"
+    },
+    {
+      "id": "c166_008",
+      "arabic": "قَبْطَانٌ مَاهِرٌ",
+      "german": "Kapitän",
+      "article": "der",
+      "plural": "Kapitäne",
+      "english": "captain",
+      "level": "A1"
+    },
+    {
+      "id": "c166_009",
+      "arabic": "بَحَّارٌ",
+      "german": "Matrose",
+      "article": "der",
+      "plural": "Matrosen",
+      "english": "sailor",
+      "level": "A1"
+    },
+    {
+      "id": "c166_010",
+      "arabic": "مِينَاءٌ تِجَارِيٌّ",
+      "german": "Hafen",
+      "article": "der",
+      "plural": "Häfen",
+      "english": "harbor / port",
+      "level": "A1"
+    },
+    {
+      "id": "c166_011",
+      "arabic": "رَصِيفُ مِينَاءٍ",
+      "german": "Steg",
+      "article": "der",
+      "plural": "Stege",
+      "english": "pier / dock",
+      "level": "A1"
+    },
+    {
+      "id": "c166_012",
+      "arabic": "مَنَارَةٌ مُضِيئَةٌ",
+      "german": "Leuchtturm",
+      "article": "der",
+      "plural": "Leuchttürme",
+      "english": "lighthouse",
+      "level": "A1"
+    },
+    {
+      "id": "c166_013",
+      "arabic": "مَوْجٌ هَادِئٌ",
+      "german": "ruhige Welle",
+      "article": "die",
+      "plural": "ruhige Wellen",
+      "english": "calm wave",
+      "level": "A1"
+    },
+    {
+      "id": "c166_014",
+      "arabic": "مَدٌّ وَجَزْرٌ",
+      "german": "Gezeiten",
+      "article": "die",
+      "plural": "Gezeiten",
+      "english": "tides",
+      "level": "A2"
+    },
+    {
+      "id": "c166_015",
+      "arabic": "رِيحٌ مُوَاتِيَةٌ",
+      "german": "günstiger Wind",
+      "article": "der",
+      "plural": "günstige Winde",
+      "english": "favorable wind",
+      "level": "A1"
+    },
+    {
+      "id": "c166_016",
+      "arabic": "خَرِيطَةٌ بَحْرِيَّةٌ",
+      "german": "Seekarte",
+      "article": "die",
+      "plural": "Seekarten",
+      "english": "nautical chart",
+      "level": "A2"
+    },
+    {
+      "id": "c166_017",
+      "arabic": "مِجْدَافٌ خَشَبِيٌّ",
+      "german": "Ruderriemen",
+      "article": "der",
+      "plural": "Ruderriemen",
+      "english": "oar",
+      "level": "A1"
+    },
+    {
+      "id": "c166_018",
+      "arabic": "سُتْرَةُ نَجَاةٍ",
+      "german": "Rettungsweste",
+      "article": "die",
+      "plural": "Rettungswesten",
+      "english": "life jacket",
+      "level": "A1"
+    },
+    {
+      "id": "c166_019",
+      "arabic": "طَوْقُ نَجَاةٍ",
+      "german": "Rettungsring",
+      "article": "der",
+      "plural": "Rettungsringe",
+      "english": "lifebuoy",
+      "level": "A1"
+    },
+    {
+      "id": "c166_020",
+      "arabic": "حَشْوُ خَشَبِ السَّفِينَةِ",
+      "german": "Kalfatern",
+      "article": "das",
+      "plural": "Kalfatern",
+      "english": "caulking",
+      "level": "A2"
+    },
+    {
+      "id": "c166_021",
+      "arabic": "خَشَبُ السَّاجِ",
+      "german": "Teakholz",
+      "article": "das",
+      "plural": "Teakhölzer",
+      "english": "teak wood",
+      "level": "A2"
+    },
+    {
+      "id": "c166_022",
+      "arabic": "عُقْدَةٌ بَحْرِيَّةٌ",
+      "german": "Seemannsknoten",
+      "article": "der",
+      "plural": "Seemannsknoten",
+      "english": "sailor's knot",
+      "level": "A2"
+    },
+    {
+      "id": "c166_023",
+      "arabic": "نَوْرَسٌ بَحْرِيٌّ",
+      "german": "Möwe",
+      "article": "die",
+      "plural": "Möwen",
+      "english": "seagull",
+      "level": "A1"
+    },
+    {
+      "id": "c166_024",
+      "arabic": "أُفُقُ الْبَحْرِ",
+      "german": "Meereshorizont",
+      "article": "der",
+      "plural": "Meereshorizonte",
+      "english": "sea horizon",
+      "level": "A1"
+    },
+    {
+      "id": "c166_025",
+      "arabic": "رِحْلَةٌ بَحْرِيَّةٌ",
+      "german": "Seereise",
+      "article": "die",
+      "plural": "Seereisen",
+      "english": "sea voyage",
+      "level": "A1"
+    }
+  ]
+}

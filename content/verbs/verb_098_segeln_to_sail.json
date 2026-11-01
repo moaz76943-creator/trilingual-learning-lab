@@ -1,0 +1,34 @@
+{
+  "verb_id": "v098",
+  "infinitive_de": "segeln",
+  "root_ar": "أَبْحَرَ",
+  "infinitive_en": "to sail",
+  "level": "A1",
+  "present": {
+    "ich": "segle",
+    "du": "segelst",
+    "er_sie_es": "segelt",
+    "wir": "segeln",
+    "ihr": "segelt",
+    "sie_Sie": "segeln"
+  },
+  "past": {
+    "ich": "segelte",
+    "du": "segeltest",
+    "er_sie_es": "segelte",
+    "wir": "segelten",
+    "ihr": "segeltet",
+    "sie_Sie": "segelten"
+  },
+  "perfect": {
+    "auxiliary": "sein",
+    "participle": "gesegelt"
+  },
+  "examples": [
+    {
+      "german": "Das weiße Segelschiff ist sicher in den Hafen gesegelt.",
+      "arabic": "السَّفِينَةُ الشِّرَاعِيَّةُ الْبَيْضَاءُ أَبْحَرَتْ بِأَمَانٍ إِلَى الْمِينَاءِ.",
+      "english": "The white sailing ship sailed safely into the harbor."
+    }
+  ]
+}

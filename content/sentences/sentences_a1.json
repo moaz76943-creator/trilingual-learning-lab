@@ -1,5 +1,5 @@
 {
-  "count": 990,
+  "count": 1010,
   "sentences": [
     {
       "id": "sent_001",
@@ -16988,6 +16988,195 @@
       "concept_refs": [
         "v097",
         "c165_023"
+      ]
+    },
+    {
+      "id": "s1031",
+      "german": "Das traditionelle Segelschiff gleitet majestätisch über das Wasser.",
+      "arabic": "السَّفِينَةُ الشِّرَاعِيَّةُ التَّقْلِيدِيَّةُ تَنْسَابُ بِهَيْبَةٍ فَوْقَ الْمَاءِ.",
+      "english": "The traditional sailing ship glides majestically over the water.",
+      "concept_refs": [
+        "c166_001"
+      ]
+    },
+    {
+      "id": "s1032",
+      "german": "Das kleine Fischerboot kehrt am Abend beladen zurück.",
+      "arabic": "قَارِبُ الصَّيْدِ الصَّغِيرُ يَعُودُ مُحَمَّلًا فِي الْمَسَاءِ.",
+      "english": "The small fishing boat returns laden in the evening.",
+      "concept_refs": [
+        "c166_002"
+      ]
+    },
+    {
+      "id": "s1033",
+      "german": "Der Wind spannt das weiße Segel straff an.",
+      "arabic": "الرِّيحُ تَشُدُّ الشِّرَاعَ الْأَبْيَضَ بِقُوَّةٍ.",
+      "english": "The wind stretches the white sail taut.",
+      "concept_refs": [
+        "c166_003",
+        "c166_015"
+      ]
+    },
+    {
+      "id": "s1034",
+      "german": "Der hohe Mast ragt weit in den blauen Himmel.",
+      "arabic": "صَارِي السَّفِينَةِ الْعَالِي يَرْتَفِعُ بَعِيدًا فِي السَّمَاءِ الزَّرْقَاءِ.",
+      "english": "The tall mast rises high into the blue sky.",
+      "concept_refs": [
+        "c166_004"
+      ]
+    },
+    {
+      "id": "s1035",
+      "german": "Der Steuermann hält das Ruder fest in der Hand.",
+      "arabic": "رُبَّانُ الدَّفَّةِ يُمْسِكُ الدَّفَّةَ بِإِحْكَامٍ بِيَدِهِ.",
+      "english": "The helmsman holds the rudder firmly in hand.",
+      "concept_refs": [
+        "c166_005"
+      ]
+    },
+    {
+      "id": "s1036",
+      "german": "Die schwere eiserne Anker sinkt auf den Meeresgrund.",
+      "arabic": "الْمِرْسَاةُ الْحَدِيدِيَّةُ الثَّقِيلَةُ تَهْبِطُ إِلَى قَاعِ الْبَحْرِ.",
+      "english": "The heavy iron anchor sinks to the sea floor.",
+      "concept_refs": [
+        "c166_006"
+      ]
+    },
+    {
+      "id": "s1037",
+      "german": "Ein starkes Tau befestigt das Boot am Steg.",
+      "arabic": "حَبْلٌ بَحْرِيٌّ مَتِينٌ يُثَبِّتُ الْقَارِبَ عَلَى الرَّصِيفِ.",
+      "english": "A strong nautical rope fastens the boat to the pier.",
+      "concept_refs": [
+        "c166_007",
+        "c166_011"
+      ]
+    },
+    {
+      "id": "s1038",
+      "german": "Der erfahrene Kapitän kennt alle Gefahren der Küste.",
+      "arabic": "الْقَبْطَانُ ذُو الْخِبْرَةِ يَعْرِفُ جَمِيعَ مَخَاطِرِ السَّاحِلِ.",
+      "english": "The experienced captain knows all the hazards of the coast.",
+      "concept_refs": [
+        "c166_008"
+      ]
+    },
+    {
+      "id": "s1039",
+      "german": "Die tüchtigen Matrosen hissen gemeinsam die Segel.",
+      "arabic": "الْبَحَّارَةُ النَّشِيطُونَ يَرْفَعُونَ الْأَشْرِعَةَ مَعًا.",
+      "english": "The capable sailors hoist the sails together.",
+      "concept_refs": [
+        "c166_009",
+        "c166_003"
+      ]
+    },
+    {
+      "id": "s1040",
+      "german": "Im geschäftigen Hafen liegen viele Schiffe vor Anker.",
+      "arabic": "فِي الْمِينَاءِ التِّجَارِيِّ تَرْسُو سُفُنٌ كَثِيرَةٌ.",
+      "english": "Many ships lie at anchor in the busy harbor.",
+      "concept_refs": [
+        "c166_010",
+        "c166_006"
+      ]
+    },
+    {
+      "id": "s1041",
+      "german": "Der alte Leuchtturm weist den Schiffen den sicheren Weg.",
+      "arabic": "الْمَنَارَةُ الْمُضِيئَةُ الْقَدِيمَةُ تُرْشِدُ السُّفُنَ إِلَى الطَّرِيقِ الْآمِنِ.",
+      "english": "The old lighthouse guides the ships to the safe path.",
+      "concept_refs": [
+        "c166_012"
+      ]
+    },
+    {
+      "id": "s1042",
+      "german": "Eine ruhige Welle wiegt das Holzboot sanft.",
+      "arabic": "مَوْجٌ هَادِئٌ يُهَدْهِدُ الْقَارِبَ الْخَشَبِيَّ بِلُطْفٍ.",
+      "english": "A calm wave rocks the wooden boat gently.",
+      "concept_refs": [
+        "c166_013",
+        "c166_002"
+      ]
+    },
+    {
+      "id": "s1043",
+      "german": "Die Gezeiten bestimmen den besten Zeitpunkt zum Auslaufen.",
+      "arabic": "الْمَدُّ وَالْجَزْرُ يُحَدِّدَانِ الْوَقْتَ الْأَفْضَلَ لِلْإِبْحَارِ.",
+      "english": "The tides determine the best time to set sail.",
+      "concept_refs": [
+        "c166_014",
+        "v098"
+      ]
+    },
+    {
+      "id": "s1044",
+      "german": "Der Seefahrer liest den Kurs auf der alten Seekarte.",
+      "arabic": "الْمَلَّاحُ يَقْرَأُ الْمَسَارَ عَلَى الْخَرِيطَةِ الْبَحْرِيَّةِ الْقَدِيمَةِ.",
+      "english": "The seafarer reads the course on the ancient nautical chart.",
+      "concept_refs": [
+        "c166_016"
+      ]
+    },
+    {
+      "id": "s1045",
+      "german": "Die Männer greifen synchron zu den hölzernen Ruderriemen.",
+      "arabic": "الرِّجَالُ يُمْسِكُونَ بِتَنَاغُمٍ بِالْمَجَاذِيفِ الْخَشَبِيَّةِ.",
+      "english": "The men grip the wooden oars in sync.",
+      "concept_refs": [
+        "c166_017"
+      ]
+    },
+    {
+      "id": "s1046",
+      "german": "Jeder an Bord trägt vorschriftsmäßig eine Rettungsweste.",
+      "arabic": "كُلُّ مَنْ عَلَى الْمَتْنِ يَرْتَدِي سُتْرَةَ نَجَاةٍ بَانْضِبَاطٍ.",
+      "english": "Everyone on board wears a life jacket properly.",
+      "concept_refs": [
+        "c166_018"
+      ]
+    },
+    {
+      "id": "s1047",
+      "german": "Teakholz widersteht dem salzigen Meerwasser hervorragend.",
+      "arabic": "خَشَبُ السَّاجِ يُقَاوِمُ مِيَاهَ الْبَحْرِ الْمَالِحَةَ بِامْتِيَازٍ.",
+      "english": "Teak wood resists salty seawater exceptionally well.",
+      "concept_refs": [
+        "c166_021"
+      ]
+    },
+    {
+      "id": "s1048",
+      "german": "Ein geschickter Seemannsknoten öffnet sich niemals von allein.",
+      "arabic": "الْعُقْدَةُ الْبَحْرِيَّةُ الْمُتْقَنَةُ لَا تَنْحَلُّ أَبَدًا تِلْقَائِيًّا.",
+      "english": "A skilled sailor's knot never comes undone on its own.",
+      "concept_refs": [
+        "c166_022"
+      ]
+    },
+    {
+      "id": "s1049",
+      "german": "Weiße Möwen kreisen über dem weiten Meereshorizont.",
+      "arabic": "نَوَارِسُ بَيْضَاءُ تُحَلِّقُ فَوْقَ أُفُقِ الْبَحْرِ الْوَاسِعِ.",
+      "english": "White seagulls circle over the wide sea horizon.",
+      "concept_refs": [
+        "c166_023",
+        "c166_024"
+      ]
+    },
+    {
+      "id": "s1050",
+      "german": "Wir segeln heute mit günstigem Wind nach Norden.",
+      "arabic": "نَحْنُ نُبْحِرُ الْيَوْمَ بِرِيحٍ مُوَاتِيَةٍ نَحْوَ الشَّمَالِ.",
+      "english": "We sail north today with favorable wind.",
+      "concept_refs": [
+        "v098",
+        "c166_015",
+        "c166_025"
       ]
     }
   ]
