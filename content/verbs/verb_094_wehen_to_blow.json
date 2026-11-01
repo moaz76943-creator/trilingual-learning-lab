@@ -1,0 +1,34 @@
+{
+  "verb_id": "v094",
+  "infinitive_de": "wehen",
+  "root_ar": "هَبَّ",
+  "infinitive_en": "to blow / to gust",
+  "level": "A1",
+  "present": {
+    "ich": "wehe",
+    "du": "wehst",
+    "er_sie_es": "weht",
+    "wir": "wehen",
+    "ihr": "weht",
+    "sie_Sie": "wehen"
+  },
+  "past": {
+    "ich": "wehte",
+    "du": "wehtest",
+    "er_sie_es": "wehte",
+    "wir": "wehten",
+    "ihr": "wehtet",
+    "sie_Sie": "wehten"
+  },
+  "perfect": {
+    "auxiliary": "haben",
+    "participle": "geweht"
+  },
+  "examples": [
+    {
+      "german": "Ein kühler Wind weht heute über die Felder.",
+      "arabic": "رِيحٌ بَارِدَةٌ تَهُبُّ الْيَوْمَ فَوْقَ الْحُقُولِ.",
+      "english": "A cool wind blows over the fields today."
+    }
+  ]
+}

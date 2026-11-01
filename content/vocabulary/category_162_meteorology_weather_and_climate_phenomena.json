@@ -1,0 +1,234 @@
+{
+  "category_id": "c162",
+  "name_ar": "عِلْمُ الْأَرْصَادِ وَالْأَحْوَالِ الْجَوِّيَّةِ وَالْمُنَاخِ",
+  "name_de": "Meteorologie, Wetter und Klimaphänomene",
+  "name_en": "Meteorology, Weather, and Climate Phenomena",
+  "level": "A1-A2",
+  "concepts": [
+    {
+      "id": "c162_001",
+      "arabic": "طَقْسٌ",
+      "german": "Wetter",
+      "article": "das",
+      "plural": "Wetter",
+      "english": "weather",
+      "level": "A1"
+    },
+    {
+      "id": "c162_002",
+      "arabic": "مُنَاخٌ",
+      "german": "Klima",
+      "article": "das",
+      "plural": "Klimata",
+      "english": "climate",
+      "level": "A2"
+    },
+    {
+      "id": "c162_003",
+      "arabic": "مَطَرٌ غَزِيرٌ",
+      "german": "starker Regen",
+      "article": "der",
+      "plural": "starke Regen",
+      "english": "heavy rain",
+      "level": "A1"
+    },
+    {
+      "id": "c162_004",
+      "arabic": "سَحَابَةٌ بَيْضَاءُ",
+      "german": "weiße Wolke",
+      "article": "die",
+      "plural": "weiße Wolken",
+      "english": "white cloud",
+      "level": "A1"
+    },
+    {
+      "id": "c162_005",
+      "arabic": "رِيحٌ هَادِئَةٌ",
+      "german": "ruhiger Wind",
+      "article": "der",
+      "plural": "ruhige Winde",
+      "english": "gentle wind",
+      "level": "A1"
+    },
+    {
+      "id": "c162_006",
+      "arabic": "عَاصِفَةٌ",
+      "german": "Sturm",
+      "article": "der",
+      "plural": "Stürme",
+      "english": "storm",
+      "level": "A1"
+    },
+    {
+      "id": "c162_007",
+      "arabic": "رَعْدٌ",
+      "german": "Donner",
+      "article": "der",
+      "plural": "Donner",
+      "english": "thunder",
+      "level": "A2"
+    },
+    {
+      "id": "c162_008",
+      "arabic": "بَرْقٌ",
+      "german": "Blitz",
+      "article": "der",
+      "plural": "Blitze",
+      "english": "lightning",
+      "level": "A2"
+    },
+    {
+      "id": "c162_009",
+      "arabic": "قَوْسُ قُزَحٍ",
+      "german": "Regenbogen",
+      "article": "der",
+      "plural": "Regenbögen",
+      "english": "rainbow",
+      "level": "A1"
+    },
+    {
+      "id": "c162_010",
+      "arabic": "نَدَى الصَّبَاحِ",
+      "german": "Morgentau",
+      "article": "der",
+      "plural": "Taue",
+      "english": "morning dew",
+      "level": "A2"
+    },
+    {
+      "id": "c162_011",
+      "arabic": "ضَبَابٌ كَثِيفٌ",
+      "german": "dichter Nebel",
+      "article": "der",
+      "plural": "dichte Nebel",
+      "english": "dense fog",
+      "level": "A1"
+    },
+    {
+      "id": "c162_012",
+      "arabic": "ثَلْجٌ أَبْيَضُ",
+      "german": "weißer Schnee",
+      "article": "der",
+      "plural": "weiße Schnee",
+      "english": "white snow",
+      "level": "A1"
+    },
+    {
+      "id": "c162_013",
+      "arabic": "صَقِيعٌ",
+      "german": "Frost",
+      "article": "der",
+      "plural": "Froste",
+      "english": "frost",
+      "level": "A2"
+    },
+    {
+      "id": "c162_014",
+      "arabic": "حَرَارَةٌ",
+      "german": "Wärme",
+      "article": "die",
+      "plural": "Wärmen",
+      "english": "heat / temperature",
+      "level": "A1"
+    },
+    {
+      "id": "c162_015",
+      "arabic": "بُرُودَةٌ",
+      "german": "Kälte",
+      "article": "die",
+      "plural": "Kälten",
+      "english": "coldness",
+      "level": "A1"
+    },
+    {
+      "id": "c162_016",
+      "arabic": "مِقْيَاسُ حَرَارَةٍ",
+      "german": "Thermometer",
+      "article": "das",
+      "plural": "Thermometer",
+      "english": "thermometer",
+      "level": "A1"
+    },
+    {
+      "id": "c162_017",
+      "arabic": "مِقْيَاسُ ضَغْطٍ",
+      "german": "Barometer",
+      "article": "das",
+      "plural": "Barometer",
+      "english": "barometer",
+      "level": "A2"
+    },
+    {
+      "id": "c162_018",
+      "arabic": "نَشْرَةٌ جَوِّيَّةٌ",
+      "german": "Wetterbericht",
+      "article": "der",
+      "plural": "Wetterberichte",
+      "english": "weather forecast",
+      "level": "A1"
+    },
+    {
+      "id": "c162_019",
+      "arabic": "رُطُوبَةٌ",
+      "german": "Luftfeuchtigkeit",
+      "article": "die",
+      "plural": "Luftfeuchtigkeiten",
+      "english": "air humidity",
+      "level": "A2"
+    },
+    {
+      "id": "c162_020",
+      "arabic": "ضَغْطٌ جَوِّيٌّ",
+      "german": "Luftdruck",
+      "article": "der",
+      "plural": "Luftdrücke",
+      "english": "atmospheric pressure",
+      "level": "A2"
+    },
+    {
+      "id": "c162_021",
+      "arabic": "نَسِيمٌ عَلِيلٌ",
+      "german": "sanfte Brise",
+      "article": "die",
+      "plural": "sanfte Brisen",
+      "english": "gentle breeze",
+      "level": "A1"
+    },
+    {
+      "id": "c162_022",
+      "arabic": "جَوٌّ مُعْتَدِلٌ",
+      "german": "mildes Wetter",
+      "article": "das",
+      "plural": "milde Wetter",
+      "english": "mild weather",
+      "level": "A1"
+    },
+    {
+      "id": "c162_023",
+      "arabic": "شَمْسٌ مُشْرِقَةٌ",
+      "german": "Sonnenschein",
+      "article": "der",
+      "plural": "Sonnenscheine",
+      "english": "sunshine",
+      "level": "A1"
+    },
+    {
+      "id": "c162_024",
+      "arabic": "هُطُولٌ",
+      "german": "Niederschlag",
+      "article": "der",
+      "plural": "Niederschläge",
+      "english": "precipitation",
+      "level": "A2"
+    },
+    {
+      "id": "c162_025",
+      "arabic": "فَصْلُ السَّنَةِ",
+      "german": "Jahreszeit",
+      "article": "die",
+      "plural": "Jahreszeiten",
+      "english": "season of the year",
+      "level": "A1"
+    }
+  ]
+}

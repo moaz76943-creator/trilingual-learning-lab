@@ -1,5 +1,5 @@
 {
-  "count": 930,
+  "count": 950,
   "sentences": [
     {
       "id": "sent_001",
@@ -16420,6 +16420,194 @@
       "concept_refs": [
         "v093",
         "c161_007"
+      ]
+    },
+    {
+      "id": "s951",
+      "german": "Das Wetter ist heute sonnig und angenehm warm.",
+      "arabic": "الطَّقْسُ الْيَوْمَ مُشْمِسٌ وَدَافِئٌ بِشَكْلٍ مُمْتِعٍ.",
+      "english": "The weather today is sunny and pleasantly warm.",
+      "concept_refs": [
+        "c162_001",
+        "c162_023"
+      ]
+    },
+    {
+      "id": "s952",
+      "german": "Das milde Klima in dieser Region lockt viele Besucher an.",
+      "arabic": "الْمُنَاخُ الْمُعْتَدِلُ فِي هَذِهِ الْمِنْطَقَةِ يَجْذِبُ كَثِيرًا مِنَ الزُّوَّارِ.",
+      "english": "The mild climate in this region attracts many visitors.",
+      "concept_refs": [
+        "c162_002",
+        "c162_022"
+      ]
+    },
+    {
+      "id": "s953",
+      "german": "Starker Regen fällt ununterbrochen seit heute Morgen.",
+      "arabic": "مَطَرٌ غَزِيرٌ يَهْطِلُ بِلَا انْقِطَاعٍ مُنْذُ صَبَاحِ الْيَوْمِ.",
+      "english": "Heavy rain has been falling continuously since this morning.",
+      "concept_refs": [
+        "c162_003",
+        "c162_024"
+      ]
+    },
+    {
+      "id": "s954",
+      "german": "Eine weiße Wolke zieht langsam über den blauen Himmel.",
+      "arabic": "سَحَابَةٌ بَيْضَاءُ تَمُرُّ بِبُطْءٍ فَوْقَ السَّمَاءِ الزَّرْقَاءِ.",
+      "english": "A white cloud moves slowly across the blue sky.",
+      "concept_refs": [
+        "c162_004"
+      ]
+    },
+    {
+      "id": "s955",
+      "german": "Ein ruhiger Wind bewegt sanft die Baumkronen.",
+      "arabic": "رِيحٌ هَادِئَةٌ تُحَرِّكُ قِمَمَ الْأَشْجَارِ بِلُطْفٍ.",
+      "english": "A gentle wind softly moves the treetops.",
+      "concept_refs": [
+        "c162_005"
+      ]
+    },
+    {
+      "id": "s956",
+      "german": "Der heftige Sturm entwurzelte mehrere alte Bäume.",
+      "arabic": "الْعَاصِفَةُ الشَّدِيدَةُ اقْتَلَعَتْ عِدَّةَ أَشْجَارٍ قَدِيمَةٍ.",
+      "english": "The violent storm uprooted several old trees.",
+      "concept_refs": [
+        "c162_006"
+      ]
+    },
+    {
+      "id": "s957",
+      "german": "Wir hörten den lauten Donner aus der Ferne grollen.",
+      "arabic": "نَحْنُ سَمِعْنَا الرَّعْدَ الْعَالِيَ يُدَوِّي مِنَ الْبَعِيدِ.",
+      "english": "We heard the loud thunder rumbling from afar.",
+      "concept_refs": [
+        "c162_007"
+      ]
+    },
+    {
+      "id": "s958",
+      "german": "Ein greller Blitz erhellte für eine Sekunde die Nacht.",
+      "arabic": "بَرْقٌ خَاطِفٌ أَضَاءَ اللَّيْلَ لِثَانِيَةٍ وَاحِدَةٍ.",
+      "english": "A bright lightning lit up the night for a second.",
+      "concept_refs": [
+        "c162_008"
+      ]
+    },
+    {
+      "id": "s959",
+      "german": "Nach dem Regen erschien ein wunderschöner Regenbogen.",
+      "arabic": "بَعْدَ الْمَطَرِ ظَهَرَ قَوْسُ قُزَحٍ بَدِيعٌ.",
+      "english": "After the rain a wonderful rainbow appeared.",
+      "concept_refs": [
+        "c162_009",
+        "c162_003"
+      ]
+    },
+    {
+      "id": "s960",
+      "german": "Der frische Morgentau glitzert wie Perlen auf den Gräsern.",
+      "arabic": "نَدَى الصَّبَاحِ الطَّازَجُ يَلْمَعُ كَاللَّآلِئِ عَلَى الْأَعْشَابِ.",
+      "english": "The fresh morning dew glitters like pearls on the grass.",
+      "concept_refs": [
+        "c162_010"
+      ]
+    },
+    {
+      "id": "s961",
+      "german": "Dichter Nebel verdeckte am Morgen die Straßen.",
+      "arabic": "ضَبَابٌ كَثِيفٌ غَطَّى الطُّرُقَاتِ فِي الصَّبَاحِ.",
+      "english": "Dense fog covered the streets in the morning.",
+      "concept_refs": [
+        "c162_011"
+      ]
+    },
+    {
+      "id": "s962",
+      "german": "Weißer Schnee bedeckt die Dächer der kleinen Stadt.",
+      "arabic": "ثَلْجٌ أَبْيَضُ يُغَطِّي أَسْطُحَ الْمَدِينَةِ الصَّغِيرَةِ.",
+      "english": "White snow covers the rooftops of the small town.",
+      "concept_refs": [
+        "c162_012"
+      ]
+    },
+    {
+      "id": "s963",
+      "german": "Der plötzliche Frost schadet den zarten Blüten.",
+      "arabic": "الصَّقِيعُ الْمُفَاجِئُ يَضُرُّ بِالْأَزْهَارِ الرَّقِيقَةِ.",
+      "english": "The sudden frost damages the tender blossoms.",
+      "concept_refs": [
+        "c162_013"
+      ]
+    },
+    {
+      "id": "s964",
+      "german": "Das Thermometer zeigt heute genau zwanzig Grad an.",
+      "arabic": "مِقْيَاسُ الْحَرَارَةِ يُشِيرُ الْيَوْمَ إِلَى عِشْرِينَ دَرَجَةً بِالضَّبْطِ.",
+      "english": "The thermometer shows exactly twenty degrees today.",
+      "concept_refs": [
+        "c162_016",
+        "c162_014"
+      ]
+    },
+    {
+      "id": "s965",
+      "german": "Das Barometer kündigt ein stabiles Hochdruckgebiet an.",
+      "arabic": "مِقْيَاسُ الضَّغْطِ يُنْبِئُ عَنْ مِنْطَقَةِ ضَغْطٍ مُرْتَفِعٍ مُسْتَقِرَّةٍ.",
+      "english": "The barometer announces a stable high-pressure area.",
+      "concept_refs": [
+        "c162_017",
+        "c162_020"
+      ]
+    },
+    {
+      "id": "s966",
+      "german": "Im Wetterbericht sagten sie Sonnenschein für morgen voraus.",
+      "arabic": "فِي النَّشْرَةِ الْجَوِّيَّةِ تَوَقَّعُوا شَمْسًا مُشْرِقَةً لِلْغَدِ.",
+      "english": "In the weather forecast they predicted sunshine for tomorrow.",
+      "concept_refs": [
+        "c162_018",
+        "c162_023"
+      ]
+    },
+    {
+      "id": "s967",
+      "german": "Die hohe Luftfeuchtigkeit macht die Luft recht schwül.",
+      "arabic": "الرُّطُوبَةُ الْعَالِيَةُ تَجْعَلُ الْهَوَاءَ خَانِقًا.",
+      "english": "The high humidity makes the air quite muggy.",
+      "concept_refs": [
+        "c162_019"
+      ]
+    },
+    {
+      "id": "s968",
+      "german": "Eine sanfte Brise kühlt uns am warmen Nachmittag.",
+      "arabic": "نَسِيمٌ عَلِيلٌ يُلَطِّفُ جَوَّنَا فِي مَا بَعْدَ الظُّهْرِ الدَّافِئِ.",
+      "english": "A gentle breeze cools us on the warm afternoon.",
+      "concept_refs": [
+        "c162_021"
+      ]
+    },
+    {
+      "id": "s969",
+      "german": "Der Frühling ist meine absolute Lieblingsjahreszeit.",
+      "arabic": "الرَّبِيعُ هُوَ فَصْلُ السَّنَةِ الْمُفَضَّلُ لَدَيَّ تَمَامًا.",
+      "english": "Spring is absolutely my favorite season of the year.",
+      "concept_refs": [
+        "c162_025"
+      ]
+    },
+    {
+      "id": "s970",
+      "german": "Ein frischer Wind weht vom nahen Meer herüber.",
+      "arabic": "رِيحٌ مُنْعِشَةٌ تَهُبُّ مِنْ نَاحِيَةِ الْبَحْرِ الْقَرِيبِ.",
+      "english": "A fresh wind blows over from the nearby sea.",
+      "concept_refs": [
+        "v094",
+        "c162_005"
       ]
     }
   ]
