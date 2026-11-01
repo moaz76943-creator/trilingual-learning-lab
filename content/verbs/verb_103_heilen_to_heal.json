@@ -1,0 +1,34 @@
+{
+  "verb_id": "v103",
+  "infinitive_de": "heilen",
+  "root_ar": "شَفَى",
+  "infinitive_en": "to heal / to cure",
+  "level": "A1",
+  "present": {
+    "ich": "heile",
+    "du": "heilst",
+    "er_sie_es": "heilt",
+    "wir": "heilen",
+    "ihr": "heilt",
+    "sie_Sie": "heilen"
+  },
+  "past": {
+    "ich": "heilte",
+    "du": "heiltest",
+    "er_sie_es": "heilte",
+    "wir": "heilten",
+    "ihr": "heiltet",
+    "sie_Sie": "heilten"
+  },
+  "perfect": {
+    "auxiliary": "haben",
+    "participle": "geheilt"
+  },
+  "examples": [
+    {
+      "german": "Warmer Kamillentee heilt Halsschmerzen auf natürliche Weise.",
+      "arabic": "شَايُ الْبَابُونِجِ الدَّافِئُ يَشْفِي آلَامَ الْحَلْقِ بِطَرِيقَةٍ طَبِيعِيَّةٍ.",
+      "english": "Warm chamomile tea heals sore throats in a natural way."
+    }
+  ]
+}

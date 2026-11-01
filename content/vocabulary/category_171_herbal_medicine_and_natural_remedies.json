@@ -1,0 +1,234 @@
+{
+  "category_id": "c171",
+  "name_ar": "طِبُّ الْأَعْشَابِ وَالتَّدَاوِي بِالنَّبَاتَاتِ الطَّبِيعِيَّةِ",
+  "name_de": "Pflanzenheilkunde und natürliche Heilmittel",
+  "name_en": "Herbal Medicine and Natural Remedies",
+  "level": "A1-A2",
+  "concepts": [
+    {
+      "id": "c171_001",
+      "arabic": "بَابُونِجٌ",
+      "german": "Kamille",
+      "article": "die",
+      "plural": "Kamillen",
+      "english": "chamomile",
+      "level": "A1"
+    },
+    {
+      "id": "c171_002",
+      "arabic": "نَعْنَاعٌ طَازَجٌ",
+      "german": "frische Minze",
+      "article": "die",
+      "plural": "frische Minzen",
+      "english": "fresh mint",
+      "level": "A1"
+    },
+    {
+      "id": "c171_003",
+      "arabic": "زَعْتَرٌ بَرِّيٌّ",
+      "german": "wilder Thymian",
+      "article": "der",
+      "plural": "wilde Thymiane",
+      "english": "wild thyme",
+      "level": "A1"
+    },
+    {
+      "id": "c171_004",
+      "arabic": "يَنْسُونٌ",
+      "german": "Anis",
+      "article": "der",
+      "plural": "Anise",
+      "english": "anise",
+      "level": "A1"
+    },
+    {
+      "id": "c171_005",
+      "arabic": "مَرْمِيَّةٌ",
+      "german": "Salbei",
+      "article": "der",
+      "plural": "Salbeie",
+      "english": "sage",
+      "level": "A1"
+    },
+    {
+      "id": "c171_006",
+      "arabic": "زَنْجَبِيلٌ",
+      "german": "Ingwer",
+      "article": "der",
+      "plural": "Ingwer",
+      "english": "ginger",
+      "level": "A1"
+    },
+    {
+      "id": "c171_007",
+      "arabic": "قِرْفَةٌ",
+      "german": "Zimt",
+      "article": "der",
+      "plural": "Zimte",
+      "english": "cinnamon",
+      "level": "A1"
+    },
+    {
+      "id": "c171_008",
+      "arabic": "شَايُ أَعْشَابٍ",
+      "german": "Kräutertee",
+      "article": "der",
+      "plural": "Kräutertees",
+      "english": "herbal tea",
+      "level": "A1"
+    },
+    {
+      "id": "c171_009",
+      "arabic": "مَنْقُوعٌ سَاخِنٌ",
+      "german": "Aufguss",
+      "article": "der",
+      "plural": "Aufgüsse",
+      "english": "hot infusion",
+      "level": "A2"
+    },
+    {
+      "id": "c171_010",
+      "arabic": "عُشْبٌ شَافٍ",
+      "german": "Heilkraut",
+      "article": "das",
+      "plural": "Heilkräuter",
+      "english": "healing herb",
+      "level": "A1"
+    },
+    {
+      "id": "c171_011",
+      "arabic": "مَهْرَسٌ / هَاوَنٌ",
+      "german": "Mörser",
+      "article": "der",
+      "plural": "Mörser",
+      "english": "mortar and pestle",
+      "level": "A2"
+    },
+    {
+      "id": "c171_012",
+      "arabic": "مِرْهَمٌ طَبِيعِيٌّ",
+      "german": "Salbe",
+      "article": "die",
+      "plural": "Salben",
+      "english": "natural ointment",
+      "level": "A2"
+    },
+    {
+      "id": "c171_013",
+      "arabic": "مَاءٌ مَقْطَرٌ",
+      "german": "destilliertes Wasser",
+      "article": "das",
+      "plural": "destillierte Wässer",
+      "english": "distilled water",
+      "level": "A2"
+    },
+    {
+      "id": "c171_014",
+      "arabic": "شِفَاءٌ طَبِيعِيٌّ",
+      "german": "Heilung",
+      "article": "die",
+      "plural": "Heilungen",
+      "english": "natural healing",
+      "level": "A1"
+    },
+    {
+      "id": "c171_015",
+      "arabic": "تَهْدِئَةُ الْأَلَمِ",
+      "german": "Linderung",
+      "article": "die",
+      "plural": "Linderungen",
+      "english": "pain relief",
+      "level": "A2"
+    },
+    {
+      "id": "c171_016",
+      "arabic": "مَنَاعَةُ الْجِسْمِ",
+      "german": "Immunsystem",
+      "article": "das",
+      "plural": "Immunsysteme",
+      "english": "immune system",
+      "level": "A1"
+    },
+    {
+      "id": "c171_017",
+      "arabic": "جُذُورٌ طِبِّيَّةٌ",
+      "german": "Heilwurzeln",
+      "article": "die",
+      "plural": "Heilwurzeln",
+      "english": "medicinal roots",
+      "level": "A2"
+    },
+    {
+      "id": "c171_018",
+      "arabic": "أَوْرَاقٌ مُجَفَّفَةٌ",
+      "german": "getrocknete Blätter",
+      "article": "die",
+      "plural": "getrocknete Blätter",
+      "english": "dried leaves",
+      "level": "A1"
+    },
+    {
+      "id": "c171_019",
+      "arabic": "بُذُورُ كَتَّانٍ",
+      "german": "Leinsamen",
+      "article": "die",
+      "plural": "Leinsamen",
+      "english": "flaxseed",
+      "level": "A2"
+    },
+    {
+      "id": "c171_020",
+      "arabic": "كَرَاوْيَا",
+      "german": "Kümmel",
+      "article": "der",
+      "plural": "Kümmel",
+      "english": "caraway",
+      "level": "A2"
+    },
+    {
+      "id": "c171_021",
+      "arabic": "شَمَرٌ",
+      "german": "Fenchel",
+      "article": "der",
+      "plural": "Fenchel",
+      "english": "fennel",
+      "level": "A1"
+    },
+    {
+      "id": "c171_022",
+      "arabic": "زَيْتٌ مُعَالِجٌ",
+      "german": "Heilöl",
+      "article": "das",
+      "plural": "Heilöle",
+      "english": "therapeutic oil",
+      "level": "A2"
+    },
+    {
+      "id": "c171_023",
+      "arabic": "صَيْدَلِيَّةُ الطَّبِيعَةِ",
+      "german": "Apotheke",
+      "article": "die",
+      "plural": "Apotheken",
+      "english": "nature's pharmacy",
+      "level": "A1"
+    },
+    {
+      "id": "c171_024",
+      "arabic": "صِحَّةٌ وَعَافِيَةٌ",
+      "german": "Wohlbefinden",
+      "article": "das",
+      "plural": "Wohlbefinden",
+      "english": "health and wellness",
+      "level": "A1"
+    },
+    {
+      "id": "c171_025",
+      "arabic": "وَصْفَةٌ طَبِيعِيَّةٌ",
+      "german": "Naturrezept",
+      "article": "das",
+      "plural": "Naturrezepte",
+      "english": "natural remedy",
+      "level": "A1"
+    }
+  ]
+}

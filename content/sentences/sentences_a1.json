@@ -1,5 +1,5 @@
 {
-  "count": 1090,
+  "count": 1110,
   "sentences": [
     {
       "id": "sent_001",
@@ -17926,6 +17926,192 @@
       "concept_refs": [
         "v102",
         "c170_024"
+      ]
+    },
+    {
+      "id": "s1131",
+      "german": "Kamille beruhigt den Magen und hilft beim Einschlafen.",
+      "arabic": "الْبَابُونِجُ يُهَدِّئُ الْمَعِدَةَ وَيُسَاعِدُ عَلَى النَّوْمِ.",
+      "english": "Chamomile calms the stomach and helps with falling asleep.",
+      "concept_refs": [
+        "c171_001"
+      ]
+    },
+    {
+      "id": "s1132",
+      "german": "Frische Minze verleiht dem heißen Tee ein herrliches Aroma.",
+      "arabic": "النَّعْنَاعُ الطَّازَجُ يَمْنَحُ الشَّايَ السَّاخِنَ رَائِحَةً رَائِعَةً.",
+      "english": "Fresh mint gives the hot tea a wonderful aroma.",
+      "concept_refs": [
+        "c171_002",
+        "c171_008"
+      ]
+    },
+    {
+      "id": "s1133",
+      "german": "Wilder Thymian stärkt die Lungen bei Husten.",
+      "arabic": "الزَّعْتَرُ الْبَرِّيُّ يُقَوِّي الرِّئَتَيْنِ عِنْدَ السُّعَالِ.",
+      "english": "Wild thyme strengthens the lungs during a cough.",
+      "concept_refs": [
+        "c171_003"
+      ]
+    },
+    {
+      "id": "s1134",
+      "german": "Warmer Anistee entspannt den Körper nach einem langen Tag.",
+      "arabic": "شَايُ الْيَنْسُونِ الدَّافِئُ يُرِيحُ الْجِسْمَ بَعْدَ يَوْمٍ طَوِيلٍ.",
+      "english": "Warm anise tea relaxes the body after a long day.",
+      "concept_refs": [
+        "c171_004",
+        "c171_008"
+      ]
+    },
+    {
+      "id": "s1135",
+      "german": "Gurgeln mit Salbei lindert Entzündungen im Hals.",
+      "arabic": "الْغَرْغَرَةُ بِالْمَرْمِيَّةِ تُخَفِّفُ الْتِهَابَاتِ الْحَلْقِ.",
+      "english": "Gargling with sage relieves inflammation in the throat.",
+      "concept_refs": [
+        "c171_005",
+        "c171_015"
+      ]
+    },
+    {
+      "id": "s1136",
+      "german": "Frischer Ingwer mit Zitrone wärmt von innen.",
+      "arabic": "الزَّنْجَبِيلُ الطَّازَجُ مَعَ اللَّيْمُونِ يَمْنَحُ دِفْئًا مِنَ الدَّاخِلِ.",
+      "english": "Fresh ginger with lemon warms from within.",
+      "concept_refs": [
+        "c171_006"
+      ]
+    },
+    {
+      "id": "s1137",
+      "german": "Eine Prise Zimt duftet köstlich im warmen Brei.",
+      "arabic": "رَشَّةٌ مِنَ الْقِرْفَةِ تَفُوحُ بِرَائِحَةٍ طَيِّبَةٍ فِي الْحَسَاءِ الدَّافِئِ.",
+      "english": "A pinch of cinnamon smells delicious in warm porridge.",
+      "concept_refs": [
+        "c171_007"
+      ]
+    },
+    {
+      "id": "s1138",
+      "german": "Ein heißer Aufguss zieht zehn Minuten zugedeckt.",
+      "arabic": "الْمَنْقُوعُ السَّاخِنُ يُنْقَعُ عَشْرَ دَقَائِقَ وَهُوَ مُغَطًّى.",
+      "english": "A hot infusion steeps covered for ten minutes.",
+      "concept_refs": [
+        "c171_009"
+      ]
+    },
+    {
+      "id": "s1139",
+      "german": "Dieses bekannte Heilkraut wächst überall auf den Wiesen.",
+      "arabic": "هَذَا الْعُشْبُ الشَّافِي الْمَعْرُوفُ يَنْمُو فِي كُلِّ مَكَانٍ عَلَى الْمُرُوجِ.",
+      "english": "This well-known healing herb grows everywhere on the meadows.",
+      "concept_refs": [
+        "c171_010"
+      ]
+    },
+    {
+      "id": "s1140",
+      "german": "Er zerreibt getrocknete Samen im schweren Mörser.",
+      "arabic": "هُوَ يَسْحَقُ الْبُذُورَ الْمُجَفَّفَةَ فِي الْهَاوَنِ الثَّقِيلِ.",
+      "english": "He grinds dried seeds in the heavy mortar.",
+      "concept_refs": [
+        "c171_011",
+        "c171_018"
+      ]
+    },
+    {
+      "id": "s1141",
+      "german": "Die pflegende Salbe schützt raue Hände im Winter.",
+      "arabic": "الْمِرْهَمُ الْمُغَذِّي يَحْمِي الْأَيْدِيَ الْخَشِنَةَ فِي الشِّتَاءِ.",
+      "english": "The nourishing ointment protects rough hands in winter.",
+      "concept_refs": [
+        "c171_012"
+      ]
+    },
+    {
+      "id": "s1142",
+      "german": "Natürliche Heilung braucht Zeit und sanfte Geduld.",
+      "arabic": "الشِّفَاءُ الطَّبِيعِيُّ يَحْتَاجُ إِلَى الْوَقْتِ وَالصَّبْرِ الْجَمِيلِ.",
+      "english": "Natural healing takes time and gentle patience.",
+      "concept_refs": [
+        "c171_014"
+      ]
+    },
+    {
+      "id": "s1143",
+      "german": "Eine gesunde Ernährung stärkt das Immunsystem nachhaltig.",
+      "arabic": "التَّغْذِيَةُ الصِّحِّيَّةُ تُقَوِّي مَنَاعَةَ الْجِسْمِ دَائِمًا.",
+      "english": "A healthy diet strengthens the immune system sustainably.",
+      "concept_refs": [
+        "c171_016"
+      ]
+    },
+    {
+      "id": "s1144",
+      "german": "Heilwurzeln graben wir im späten Herbst vorsichtig aus.",
+      "arabic": "الْجُذُورَ الطِّبِّيَّةَ نَحْفِرُهَا بِحَذَرٍ فِي أَوَاخِرِ الْخَرِيفِ.",
+      "english": "We carefully dig up medicinal roots in late autumn.",
+      "concept_refs": [
+        "c171_017"
+      ]
+    },
+    {
+      "id": "s1145",
+      "german": "Getrocknete Blätter bewahren wir in dunklen Gläsern auf.",
+      "arabic": "الْأَوْرَاقَ الْمُجَفَّفَةَ نَحْفَظُهَا فِي مَرَاطِيبَ دَاكِنَةٍ.",
+      "english": "We store dried leaves in dark glass jars.",
+      "concept_refs": [
+        "c171_018"
+      ]
+    },
+    {
+      "id": "s1146",
+      "german": "Fencheltee ist besonders wohltuend für kleine Kinder.",
+      "arabic": "شَايُ الشَّمَرِ مُلَطِّفٌ جِدًّا لِلْأَطْفَالِ الصِّغَارِ.",
+      "english": "Fennel tea is especially soothing for young children.",
+      "concept_refs": [
+        "c171_021",
+        "c171_008"
+      ]
+    },
+    {
+      "id": "s1147",
+      "german": "Reines Schwarzkümmelöl ist ein bewährtes Heilöl.",
+      "arabic": "زَيْتُ حَبَّةِ الْبَرَكَةِ الصَّافِي زَيْتٌ مُعَالِجٌ مُجَرَّبٌ.",
+      "english": "Pure black seed oil is a proven therapeutic oil.",
+      "concept_refs": [
+        "c171_022"
+      ]
+    },
+    {
+      "id": "s1148",
+      "german": "Die Apotheke der Natur bietet reiche Schätze.",
+      "arabic": "صَيْدَلِيَّةُ الطَّبِيعَةِ تُقَدِّمُ كُنُوزًا وَفِيرَةً.",
+      "english": "Nature's pharmacy offers rich treasures.",
+      "concept_refs": [
+        "c171_023"
+      ]
+    },
+    {
+      "id": "s1149",
+      "german": "Ich wünsche dir von Herzen Gesundheit und Wohlbefinden.",
+      "arabic": "أَتَمَنَّى لَكَ مِنْ كُلِّ قَلْبِي صِحَّةً وَعَافِيَةً.",
+      "english": "I wish you health and well-being from the bottom of my heart.",
+      "concept_refs": [
+        "c171_024"
+      ]
+    },
+    {
+      "id": "s1150",
+      "german": "Traditionelle Kräuter heilen viele Alltagsbeschwerden sanft.",
+      "arabic": "الْأَعْشَابُ التَّقْلِيدِيَّةُ تَشْفِي كَثِيرًا مِنْ أَوْجَاعِ الْحَيَاةِ الْيَوْمِيَّةِ بِلُطْفٍ.",
+      "english": "Traditional herbs heal many everyday ailments gently.",
+      "concept_refs": [
+        "v103",
+        "c171_010"
       ]
     }
   ]
