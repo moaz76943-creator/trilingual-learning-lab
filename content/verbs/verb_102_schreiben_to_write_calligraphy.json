@@ -1,0 +1,34 @@
+{
+  "verb_id": "v102",
+  "infinitive_de": "schreiben",
+  "root_ar": "كَتَبَ",
+  "infinitive_en": "to write / to inscribe",
+  "level": "A1",
+  "present": {
+    "ich": "schreibe",
+    "du": "schreibst",
+    "er_sie_es": "schreibt",
+    "wir": "schreiben",
+    "ihr": "schreibt",
+    "sie_Sie": "schreiben"
+  },
+  "past": {
+    "ich": "schrieb",
+    "du": "schriebst",
+    "er_sie_es": "schrieb",
+    "wir": "schrieben",
+    "ihr": "schriebt",
+    "sie_Sie": "schrieben"
+  },
+  "perfect": {
+    "auxiliary": "haben",
+    "participle": "geschrieben"
+  },
+  "examples": [
+    {
+      "german": "Der Meister schreibt schöne arabische Buchstaben mit der Rohrfeder.",
+      "arabic": "الْأُسْتَاذُ يَخُطُّ حُرُوفًا عَرَبِيَّةً جَمِيلَةً بِقَلَمِ الْقَصَبِ.",
+      "english": "The master writes beautiful Arabic letters with the reed pen."
+    }
+  ]
+}

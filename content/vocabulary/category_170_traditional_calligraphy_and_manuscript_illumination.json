@@ -1,0 +1,234 @@
+{
+  "category_id": "c170",
+  "name_ar": "فَنُّ الْخَطِّ الْعَرَبِيِّ وَتَذْهِيبُ الْمَخْطُوطَاتِ",
+  "name_de": "Arabische Kalligrafie und Buchmalerei",
+  "name_en": "Arabic Calligraphy and Manuscript Illumination",
+  "level": "A1-A2",
+  "concepts": [
+    {
+      "id": "c170_001",
+      "arabic": "قَلَمُ قَصَبٍ",
+      "german": "Rohrfeder",
+      "article": "die",
+      "plural": "Rohrfedern",
+      "english": "reed pen",
+      "level": "A1"
+    },
+    {
+      "id": "c170_002",
+      "arabic": "حِبْرٌ أَسْوَدُ",
+      "german": "schwarze Tinte",
+      "article": "die",
+      "plural": "schwarze Tinten",
+      "english": "black ink",
+      "level": "A1"
+    },
+    {
+      "id": "c170_003",
+      "arabic": "مِحْبَرَةٌ",
+      "german": "Tintenfass",
+      "article": "das",
+      "plural": "Tintenfässer",
+      "english": "inkwell",
+      "level": "A1"
+    },
+    {
+      "id": "c170_004",
+      "arabic": "خَطَّاطٌ بَارِعٌ",
+      "german": "Kalligraf",
+      "article": "der",
+      "plural": "Kalligrafen",
+      "english": "master calligrapher",
+      "level": "A1"
+    },
+    {
+      "id": "c170_005",
+      "arabic": "وَرَقٌ مُقَهَّرٌ",
+      "german": "poliertes Papier",
+      "article": "das",
+      "plural": "polierte Papiere",
+      "english": "polished paper",
+      "level": "A2"
+    },
+    {
+      "id": "c170_006",
+      "arabic": "خَطُّ النَّسْخِ",
+      "german": "Naskh-Schrift",
+      "article": "die",
+      "plural": "Naskh-Schriften",
+      "english": "Naskh script",
+      "level": "A1"
+    },
+    {
+      "id": "c170_007",
+      "arabic": "خَطُّ الثُّلُثِ",
+      "german": "Thuluth-Schrift",
+      "article": "die",
+      "plural": "Thuluth-Schriften",
+      "english": "Thuluth script",
+      "level": "A2"
+    },
+    {
+      "id": "c170_008",
+      "arabic": "خَطُّ الرُّقْعَةِ",
+      "german": "Ruqah-Schrift",
+      "article": "die",
+      "plural": "Ruqah-Schriften",
+      "english": "Ruqah script",
+      "level": "A1"
+    },
+    {
+      "id": "c170_009",
+      "arabic": "خَطٌّ كُوفِيٌّ",
+      "german": "Kufi-Schrift",
+      "article": "die",
+      "plural": "Kufi-Schriften",
+      "english": "Kufic script",
+      "level": "A2"
+    },
+    {
+      "id": "c170_010",
+      "arabic": "خَطُّ الدِّيوَانِيِّ",
+      "german": "Diwani-Schrift",
+      "article": "die",
+      "plural": "Diwani-Schriften",
+      "english": "Diwani script",
+      "level": "A2"
+    },
+    {
+      "id": "c170_011",
+      "arabic": "تَذْهِيبٌ",
+      "german": "Vergoldung",
+      "article": "die",
+      "plural": "Vergoldungen",
+      "english": "gold illumination",
+      "level": "A2"
+    },
+    {
+      "id": "c170_012",
+      "arabic": "وَرَقُ ذَهَبٍ",
+      "german": "Blattgold",
+      "article": "das",
+      "plural": "Blattgolde",
+      "english": "gold leaf",
+      "level": "A2"
+    },
+    {
+      "id": "c170_013",
+      "arabic": "نُقْطَةُ مِيزَانٍ",
+      "german": "Messpunkt",
+      "article": "der",
+      "plural": "Messpunkte",
+      "english": "proportion dot",
+      "level": "A2"
+    },
+    {
+      "id": "c170_014",
+      "arabic": "لَوْحَةُ خَطٍّ",
+      "german": "Kalligrafie-Tafel",
+      "article": "die",
+      "plural": "Kalligrafie-Tafeln",
+      "english": "calligraphy board",
+      "level": "A1"
+    },
+    {
+      "id": "c170_015",
+      "arabic": "مِسْطَرَةُ تَسْطِيرٍ",
+      "german": "Linierblatt",
+      "article": "das",
+      "plural": "Linierblätter",
+      "english": "ruling board",
+      "level": "A2"
+    },
+    {
+      "id": "c170_016",
+      "arabic": "سِكِّينُ قَطِّ الْقَلَمِ",
+      "german": "Federmesser",
+      "article": "das",
+      "plural": "Federmesser",
+      "english": "pen-cutting knife",
+      "level": "A2"
+    },
+    {
+      "id": "c170_017",
+      "arabic": "مَقَطٌّ عَاجِيٌّ",
+      "german": "Schneideblock",
+      "article": "der",
+      "plural": "Schneideblöcke",
+      "english": "nib cutting block",
+      "level": "A2"
+    },
+    {
+      "id": "c170_018",
+      "arabic": "إِجَازَةُ خَطٍّ",
+      "german": "Kalligrafie-Diplom",
+      "article": "das",
+      "plural": "Kalligrafie-Diplome",
+      "english": "calligraphy certificate",
+      "level": "A2"
+    },
+    {
+      "id": "c170_019",
+      "arabic": "بَرَاعَةٌ يَدَوِيَّةٌ",
+      "german": "handwerkliches Können",
+      "article": "das",
+      "plural": "Können",
+      "english": "manual dexterity",
+      "level": "A1"
+    },
+    {
+      "id": "c170_020",
+      "arabic": "هَنْدَسَةٌ رُوحِيَّةٌ",
+      "german": "Geometrie",
+      "article": "die",
+      "plural": "Geometrien",
+      "english": "spiritual geometry",
+      "level": "A2"
+    },
+    {
+      "id": "c170_021",
+      "arabic": "إِطَارٌ مُزَخْرَفٌ",
+      "german": "verzierter Rahmen",
+      "article": "der",
+      "plural": "verzierte Rahmen",
+      "english": "illuminated frame",
+      "level": "A1"
+    },
+    {
+      "id": "c170_022",
+      "arabic": "زَخْرَفَةٌ نَبَاتِيَّةٌ",
+      "german": "Pflanzenornament",
+      "article": "das",
+      "plural": "Pflanzenornamente",
+      "english": "arabesque motif",
+      "level": "A1"
+    },
+    {
+      "id": "c170_023",
+      "arabic": "نَقَاءُ الْحَرْفِ",
+      "german": "Klarheit",
+      "article": "die",
+      "plural": "Klarheiten",
+      "english": "letter purity",
+      "level": "A2"
+    },
+    {
+      "id": "c170_024",
+      "arabic": "جَمَالِيَّةُ الْكِتَابَةِ",
+      "german": "Ästhetik der Schrift",
+      "article": "die",
+      "plural": "Ästhetiken",
+      "english": "aesthetics of writing",
+      "level": "A1"
+    },
+    {
+      "id": "c170_025",
+      "arabic": "مَشْقٌ وَتَمْرِينٌ",
+      "german": "Schreibübung",
+      "article": "die",
+      "plural": "Schreibübungen",
+      "english": "calligraphy practice",
+      "level": "A1"
+    }
+  ]
+}

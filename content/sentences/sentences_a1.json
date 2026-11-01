@@ -1,5 +1,5 @@
 {
-  "count": 1070,
+  "count": 1090,
   "sentences": [
     {
       "id": "sent_001",
@@ -17737,6 +17737,195 @@
       "concept_refs": [
         "v101",
         "c169_025"
+      ]
+    },
+    {
+      "id": "s1111",
+      "german": "Der Kalligraf schneidet die Rohrfeder mit großer Sorgfalt.",
+      "arabic": "الْخَطَّاطُ يَقُطُّ قَلَمَ الْقَصَبِ بِعِنَايَةٍ فَائِقَةٍ.",
+      "english": "The calligrapher cuts the reed pen with great care.",
+      "concept_refs": [
+        "c170_001",
+        "c170_004",
+        "c170_016"
+      ]
+    },
+    {
+      "id": "s1112",
+      "german": "Tiefschwarze Tinte fließt sanft über das polierte Papier.",
+      "arabic": "حِبْرٌ أَسْوَدُ قَاتِمٌ يَسِيلُ بِانْسِيَابٍ فَوْقَ الْوَرَقِ الْمُقَهَّرِ.",
+      "english": "Deep black ink flows smoothly across the polished paper.",
+      "concept_refs": [
+        "c170_002",
+        "c170_005"
+      ]
+    },
+    {
+      "id": "s1113",
+      "german": "Die gläserne Tintenfass steht sicher auf dem Schreibtisch.",
+      "arabic": "الْمِحْبَرَةُ الزُّجَاجِيَّةُ تَقِفُ بِثَبَاتٍ عَلَى طَاوِلَةِ الْكِتَابَةِ.",
+      "english": "The glass inkwell stands securely on the desk.",
+      "concept_refs": [
+        "c170_003"
+      ]
+    },
+    {
+      "id": "s1114",
+      "german": "Ein erfahrener Meister übt täglich viele Stunden.",
+      "arabic": "الْأُسْتَاذُ ذُو الْخِبْرَةِ يَتَمَرَّنُ يَوْمِيًّا سَاعَاتٍ طَوِيلَةً.",
+      "english": "An experienced master practices for many hours daily.",
+      "concept_refs": [
+        "c170_004",
+        "c170_025"
+      ]
+    },
+    {
+      "id": "s1115",
+      "german": "Die Naskh-Schrift ist klar und sehr angenehm zu lesen.",
+      "arabic": "خَطُّ النَّسْخِ وَاضِحٌ وَمُرِيحٌ جِدًّا فِي الْقِرَاءَةِ.",
+      "english": "Naskh script is clear and very pleasant to read.",
+      "concept_refs": [
+        "c170_006"
+      ]
+    },
+    {
+      "id": "s1116",
+      "german": "Die monumentale Thuluth-Schrift schmückt Moscheenkuppeln.",
+      "arabic": "خَطُّ الثُّلُثِ الْجَلِيلُ يُزَيِّنُ قِبَابَ الْمَسَاجِدِ.",
+      "english": "Monumental Thuluth script decorates mosque domes.",
+      "concept_refs": [
+        "c170_007"
+      ]
+    },
+    {
+      "id": "s1117",
+      "german": "Die Ruqah-Schrift eignet sich hervorragend für schnelle Notizen.",
+      "arabic": "خَطُّ الرُّقْعَةِ مِثَالِيٌّ لِلتَّدْوِينِ السَّرِيعِ.",
+      "english": "Ruqah script is excellent for quick notes.",
+      "concept_refs": [
+        "c170_008"
+      ]
+    },
+    {
+      "id": "s1118",
+      "german": "Die alte Kufi-Schrift hat strenge geometrische Formen.",
+      "arabic": "الْخَطُّ الْكُوفِيُّ الْقَدِيمُ لَهُ أَشْكَالٌ هَنْدَسِيَّةٌ صَارِمَةٌ.",
+      "english": "Ancient Kufic script has strict geometric shapes.",
+      "concept_refs": [
+        "c170_009"
+      ]
+    },
+    {
+      "id": "s1119",
+      "german": "Die schwungvolle Diwani-Schrift wirkt besonders elegant.",
+      "arabic": "خَطُّ الدِّيوَانِيِّ الرَّشِيقُ يَبْدُو فِي غَايَةِ الْأَنَاقَةِ.",
+      "english": "Sweeping Diwani script looks particularly elegant.",
+      "concept_refs": [
+        "c170_010"
+      ]
+    },
+    {
+      "id": "s1120",
+      "german": "Die feine Vergoldung glänzt im Sonnenlicht wie reines Gold.",
+      "arabic": "التَّذْهِيبُ الدَّقِيقُ يَلْمَعُ فِي ضَوْءِ الشَّمْسِ كَالذَّهَبِ الْخَالِصِ.",
+      "english": "Fine gold illumination shines in sunlight like pure gold.",
+      "concept_refs": [
+        "c170_011",
+        "c170_012"
+      ]
+    },
+    {
+      "id": "s1121",
+      "german": "Der Messpunkt bestimmt die Proportion jedes Buchstabens.",
+      "arabic": "نُقْطَةُ الْمِيزَانِ تُحَدِّدُ نِسَبَ كُلِّ حَرْفٍ.",
+      "english": "The proportion dot determines the scale of every letter.",
+      "concept_refs": [
+        "c170_013",
+        "c170_023"
+      ]
+    },
+    {
+      "id": "s1122",
+      "german": "Die fertige Tafel hängt gerahmt an der Wand.",
+      "arabic": "لَوْحَةُ الْخَطِّ الْمُكْتَمِلَةُ مُعَلَّقَةٌ فِي إِطَارٍ عَلَى الْجِدَارِ.",
+      "english": "The finished calligraphy board hangs framed on the wall.",
+      "concept_refs": [
+        "c170_014",
+        "c170_021"
+      ]
+    },
+    {
+      "id": "s1123",
+      "german": "Das Linierblatt prägt feine Rillen für gerade Zeilen ein.",
+      "arabic": "مِسْطَرَةُ التَّسْطِيرِ تَطْبَعُ خُطُوطًا رَقِيقَةً لِاسْتِقَامَةِ السُّطُورِ.",
+      "english": "The ruling board indents fine lines for straight rows.",
+      "concept_refs": [
+        "c170_015"
+      ]
+    },
+    {
+      "id": "s1124",
+      "german": "Der Schüler erlangt nach Jahren die begehrte Meisterurkunde.",
+      "arabic": "التِّلْمِيذُ يَنَالُ بَعْدَ سَنَوَاتٍ إِجَازَةَ الْخَطِّ الْمُبَارَكَةَ.",
+      "english": "The student earns the cherished calligraphy certificate after years.",
+      "concept_refs": [
+        "c170_018"
+      ]
+    },
+    {
+      "id": "s1125",
+      "german": "Kalligrafie verbindet Handwerk mit geistiger Geometrie.",
+      "arabic": "الْخَطُّ يَجْمَعُ بَيْنَ الْمَهَارَةِ الْيَدَوِيَّةِ وَالْهَنْدَسَةِ الرُّوحِيَّةِ.",
+      "english": "Calligraphy combines craftsmanship with spiritual geometry.",
+      "concept_refs": [
+        "c170_019",
+        "c170_020"
+      ]
+    },
+    {
+      "id": "s1126",
+      "german": "Der verzierte Rahmen umschließt den Text harmonisch.",
+      "arabic": "الْإِطَارُ الْمُزَخْرَفُ يُحِيطُ بِالنَّصِّ بِتَنَاغُمٍ تَامٍّ.",
+      "english": "The illuminated border encloses the text harmoniously.",
+      "concept_refs": [
+        "c170_021"
+      ]
+    },
+    {
+      "id": "s1127",
+      "german": "Bunte Pflanzenornamente schmücken die Ecken der Seite.",
+      "arabic": "الزَّخَارِفُ النَّبَاتِيَّةُ الْمُلَوَّنَةُ تُزَيِّنُ أَرْكَانَ الصَّفْحَةِ.",
+      "english": "Colorful arabesque motifs decorate the corners of the page.",
+      "concept_refs": [
+        "c170_022"
+      ]
+    },
+    {
+      "id": "s1128",
+      "german": "Die Ästhetik der arabischen Schrift berührt das Herz.",
+      "arabic": "جَمَالِيَّةُ الْكِتَابَةِ الْعَرَبِيَّةِ تَلْمَسُ الْقَلْبَ.",
+      "english": "The aesthetics of Arabic writing touches the heart.",
+      "concept_refs": [
+        "c170_024"
+      ]
+    },
+    {
+      "id": "s1129",
+      "german": "Geduldige Schreibübung führt zur wahren Meisterschaft.",
+      "arabic": "الْمَشْقُ وَالتَّمْرِينُ الصَّبُورُ يَقُودَانِ إِلَى الْإِتْقَانِ الْحَقِيقِيِّ.",
+      "english": "Patient calligraphy practice leads to true mastery.",
+      "concept_refs": [
+        "c170_025"
+      ]
+    },
+    {
+      "id": "s1130",
+      "german": "Wir schreiben heute Verse in kunstvoller Schrift.",
+      "arabic": "نَحْنُ نَخُطُّ الْيَوْمَ أَبْيَاتًا بِخَطٍّ فَنِّيٍّ بَدِيعٍ.",
+      "english": "We write verses in artistic script today.",
+      "concept_refs": [
+        "v102",
+        "c170_024"
       ]
     }
   ]
