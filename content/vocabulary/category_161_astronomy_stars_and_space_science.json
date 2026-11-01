@@ -1,0 +1,234 @@
+{
+  "category_id": "c161",
+  "name_ar": "عِلْمُ الْفَلَكِ وَالنُّجُومِ وَاسْتِكْشَافُ الْفَضَاءِ",
+  "name_de": "Astronomie, Sterne und Weltraumforschung",
+  "name_en": "Astronomy, Stars, and Space Exploration",
+  "level": "A1-A2",
+  "concepts": [
+    {
+      "id": "c161_001",
+      "arabic": "سَمَاءٌ صَافِيَةٌ",
+      "german": "klarer Himmel",
+      "article": "der",
+      "plural": "klare Himmel",
+      "english": "clear sky",
+      "level": "A1"
+    },
+    {
+      "id": "c161_002",
+      "arabic": "نَجْمٌ لَامِعٌ",
+      "german": "heller Stern",
+      "article": "der",
+      "plural": "helle Sterne",
+      "english": "bright star",
+      "level": "A1"
+    },
+    {
+      "id": "c161_003",
+      "arabic": "قَمَرٌ مُنِيرٌ",
+      "german": "Mond",
+      "article": "der",
+      "plural": "Monde",
+      "english": "luminous moon",
+      "level": "A1"
+    },
+    {
+      "id": "c161_004",
+      "arabic": "هِلَالٌ",
+      "german": "Mondsichel",
+      "article": "die",
+      "plural": "Mondsicheln",
+      "english": "crescent moon",
+      "level": "A1"
+    },
+    {
+      "id": "c161_005",
+      "arabic": "بَدْرٌ تَمَامٌ",
+      "german": "Vollmond",
+      "article": "der",
+      "plural": "Vollmonde",
+      "english": "full moon",
+      "level": "A1"
+    },
+    {
+      "id": "c161_006",
+      "arabic": "شَمْسٌ مُشْرِقَةٌ",
+      "german": "Sonne",
+      "article": "die",
+      "plural": "Sonnen",
+      "english": "radiant sun",
+      "level": "A1"
+    },
+    {
+      "id": "c161_007",
+      "arabic": "كَوْكَبٌ",
+      "german": "Planet",
+      "article": "der",
+      "plural": "Planeten",
+      "english": "planet",
+      "level": "A1"
+    },
+    {
+      "id": "c161_008",
+      "arabic": "مَجَرَّةٌ",
+      "german": "Galaxie",
+      "article": "die",
+      "plural": "Galaxien",
+      "english": "galaxy",
+      "level": "A2"
+    },
+    {
+      "id": "c161_009",
+      "arabic": "مَدَارٌ فَلَكِيٌّ",
+      "german": "Umlaufbahn",
+      "article": "die",
+      "plural": "Umlaufbahnen",
+      "english": "orbit",
+      "level": "A2"
+    },
+    {
+      "id": "c161_010",
+      "arabic": "كَوْكَبَةٌ نَجْمِيَّةٌ",
+      "german": "Sternbild",
+      "article": "das",
+      "plural": "Sternbilder",
+      "english": "constellation",
+      "level": "A2"
+    },
+    {
+      "id": "c161_011",
+      "arabic": "شِهَابٌ ثَاقِبٌ",
+      "german": "Sternschnuppe",
+      "article": "die",
+      "plural": "Sternschnuppen",
+      "english": "shooting star / meteor",
+      "level": "A1"
+    },
+    {
+      "id": "c161_012",
+      "arabic": "نَيْزَكٌ",
+      "german": "Meteorit",
+      "article": "der",
+      "plural": "Meteoriten",
+      "english": "meteorite",
+      "level": "A2"
+    },
+    {
+      "id": "c161_013",
+      "arabic": "مُذَنَّبٌ",
+      "german": "Komet",
+      "article": "der",
+      "plural": "Kometen",
+      "english": "comet",
+      "level": "A2"
+    },
+    {
+      "id": "c161_014",
+      "arabic": "مِنْظَارٌ فَلَكِيٌّ",
+      "german": "Teleskop",
+      "article": "das",
+      "plural": "Teleskope",
+      "english": "telescope",
+      "level": "A1"
+    },
+    {
+      "id": "c161_015",
+      "arabic": "مَرْصَدٌ فَلَكِيٌّ",
+      "german": "Sternwarte",
+      "article": "die",
+      "plural": "Sternwarten",
+      "english": "observatory",
+      "level": "A2"
+    },
+    {
+      "id": "c161_016",
+      "arabic": "لَيْلٌ مُظْلِمٌ",
+      "german": "dunkle Nacht",
+      "article": "die",
+      "plural": "dunkle Nächte",
+      "english": "dark night",
+      "level": "A1"
+    },
+    {
+      "id": "c161_017",
+      "arabic": "كُسُوفُ الشَّمْسِ",
+      "german": "Sonnenfinsternis",
+      "article": "die",
+      "plural": "Sonnenfinsternisse",
+      "english": "solar eclipse",
+      "level": "A2"
+    },
+    {
+      "id": "c161_018",
+      "arabic": "خُسُوفُ الْقَمَرِ",
+      "german": "Mondfinsternis",
+      "article": "die",
+      "plural": "Mondfinsternisse",
+      "english": "lunar eclipse",
+      "level": "A2"
+    },
+    {
+      "id": "c161_019",
+      "arabic": "جَاذِبِيَّةٌ أَرْضِيَّةٌ",
+      "german": "Schwerkraft",
+      "article": "die",
+      "plural": "Schwerkraft",
+      "english": "gravity",
+      "level": "A2"
+    },
+    {
+      "id": "c161_020",
+      "arabic": "فِضَاءٌ خَارِجِيٌّ",
+      "german": "Weltraum",
+      "article": "der",
+      "plural": "Weltraum",
+      "english": "outer space",
+      "level": "A1"
+    },
+    {
+      "id": "c161_021",
+      "arabic": "نَجْمُ الْقُطْبِ",
+      "german": "Polarstern",
+      "article": "der",
+      "plural": "Polarsterne",
+      "english": "North Star",
+      "level": "A1"
+    },
+    {
+      "id": "c161_022",
+      "arabic": "بُوصِلَةُ اتِّجَاهَاتٍ",
+      "german": "Kompass",
+      "article": "der",
+      "plural": "Kompasse",
+      "english": "compass",
+      "level": "A1"
+    },
+    {
+      "id": "c161_023",
+      "arabic": "أُفُقٌ بَعِيدٌ",
+      "german": "Horizont",
+      "article": "der",
+      "plural": "Horizonte",
+      "english": "distant horizon",
+      "level": "A1"
+    },
+    {
+      "id": "c161_024",
+      "arabic": "بَرِيقٌ نَاصِعٌ",
+      "german": "Glanz",
+      "article": "der",
+      "plural": "Glanz",
+      "english": "bright shimmer",
+      "level": "A1"
+    },
+    {
+      "id": "c161_025",
+      "arabic": "كَوْنٌ بَدِيعٌ",
+      "german": "Universum",
+      "article": "das",
+      "plural": "Universen",
+      "english": "marvellous universe",
+      "level": "A1"
+    }
+  ]
+}

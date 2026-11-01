@@ -1,5 +1,5 @@
 {
-  "count": 910,
+  "count": 930,
   "sentences": [
     {
       "id": "sent_001",
@@ -16234,6 +16234,192 @@
         "v092",
         "c160_005",
         "c160_016"
+      ]
+    },
+    {
+      "id": "s931",
+      "german": "Der klare Himmel heute Nacht ist voller Sterne.",
+      "arabic": "السَّمَاءُ الصَّافِيَةُ اللَّيْلَةَ مَلِيئَةٌ بِالنُّجُومِ.",
+      "english": "The clear sky tonight is full of stars.",
+      "concept_refs": [
+        "c161_001",
+        "c161_002"
+      ]
+    },
+    {
+      "id": "s932",
+      "german": "Ein heller Stern leuchtet über den Bergen.",
+      "arabic": "نَجْمٌ لَامِعٌ يُضِيءُ فَوْقَ الْجِبَالِ.",
+      "english": "A bright star shines over the mountains.",
+      "concept_refs": [
+        "c161_002"
+      ]
+    },
+    {
+      "id": "s933",
+      "german": "Der Mond scheint hell in unser Zimmer.",
+      "arabic": "الْقَمَرُ يُشْرِقُ سَاطِعًا فِي غُرْفَتِنَا.",
+      "english": "The moon shines brightly into our room.",
+      "concept_refs": [
+        "c161_003"
+      ]
+    },
+    {
+      "id": "s934",
+      "german": "Wir sehen eine zarte Mondsichel am Abendhimmel.",
+      "arabic": "نَحْنُ نَرَى هِلَالًا رَقِيقًا فِي سَمَاءِ الْمَسَاءِ.",
+      "english": "We see a delicate crescent moon in the evening sky.",
+      "concept_refs": [
+        "c161_004"
+      ]
+    },
+    {
+      "id": "s935",
+      "german": "Bei Vollmond ist die Nacht fast taghell.",
+      "arabic": "عِنْدَ الْبَدْرِ التَّمَامِ يَكُونُ اللَّيْلُ مُضِيئًا كَالنَّهَارِ تَقْرِيبًا.",
+      "english": "At full moon the night is almost as bright as day.",
+      "concept_refs": [
+        "c161_005"
+      ]
+    },
+    {
+      "id": "s936",
+      "german": "Die strahlende Sonne wärmt die Erde jeden Morgen.",
+      "arabic": "الشَّمْسُ الْمُشْرِقَةُ تُدْفِئُ الْأَرْضَ كُلَّ صَبَاحٍ.",
+      "english": "The radiant sun warms the earth every morning.",
+      "concept_refs": [
+        "c161_006"
+      ]
+    },
+    {
+      "id": "s937",
+      "german": "Die Erde ist ein wunderschöner blauer Planet.",
+      "arabic": "الْأَرْضُ كَوْكَبٌ أَزْرَقُ جَمِيلٌ جِدًّا.",
+      "english": "The Earth is a beautiful blue planet.",
+      "concept_refs": [
+        "c161_007"
+      ]
+    },
+    {
+      "id": "s938",
+      "german": "Unsere Galaxie umfasst Milliarden leuchtender Sterne.",
+      "arabic": "مَجَرَّتُنَا تَضُمُّ مِلْيَارَاتِ النُّجُومِ الْمُضِيئَةِ.",
+      "english": "Our galaxy comprises billions of shining stars.",
+      "concept_refs": [
+        "c161_008",
+        "c161_002"
+      ]
+    },
+    {
+      "id": "s939",
+      "german": "Der Mond folgt einer festen Umlaufbahn um die Erde.",
+      "arabic": "الْقَمَرُ يَتَّبِعُ مَدَارًا فَلَكِيًّا ثَابِتًا حَوْلَ الْأَرْضِ.",
+      "english": "The moon follows a fixed orbit around the Earth.",
+      "concept_refs": [
+        "c161_009",
+        "c161_003"
+      ]
+    },
+    {
+      "id": "s940",
+      "german": "Der Große Wagen ist ein bekanntes Sternbild.",
+      "arabic": "الدُّبُّ الْأَكْبَرُ كَوْكَبَةٌ نَجْمِيَّةٌ مَعْرُوفَةٌ.",
+      "english": "The Big Dipper is a well-known constellation.",
+      "concept_refs": [
+        "c161_010"
+      ]
+    },
+    {
+      "id": "s941",
+      "german": "Ich habe eine schnelle Sternschnuppe gesehen.",
+      "arabic": "أَنَا رَأَيْتُ شِهَابًا ثَاقِبًا سَرِيعًا.",
+      "english": "I saw a fast shooting star.",
+      "concept_refs": [
+        "c161_011"
+      ]
+    },
+    {
+      "id": "s942",
+      "german": "Der Komet hat einen langen leuchtenden Schweif.",
+      "arabic": "الْمُذَنَّبُ لَهُ ذَيْلٌ طَوِيلٌ مُضِيءٌ.",
+      "english": "The comet has a long glowing tail.",
+      "concept_refs": [
+        "c161_013"
+      ]
+    },
+    {
+      "id": "s943",
+      "german": "Mit dem modernen Teleskop sehen wir Mondkrater.",
+      "arabic": "بِالْمِنْظَارِ الْفَلَكِيِّ الْحَدِيثِ نَرَى فَوَّهَاتِ الْقَمَرِ.",
+      "english": "With the modern telescope we see lunar craters.",
+      "concept_refs": [
+        "c161_014",
+        "c161_003"
+      ]
+    },
+    {
+      "id": "s944",
+      "german": "Die Sternwarte auf dem Gipfel ist weltberühmt.",
+      "arabic": "الْمَرْصَدُ الْفَلَكِيُّ عَلَى الْقِمَّةِ مَشْهُورٌ عَالَمِيًّا.",
+      "english": "The observatory on the summit is world-famous.",
+      "concept_refs": [
+        "c161_015"
+      ]
+    },
+    {
+      "id": "s945",
+      "german": "In der dunklen Nacht funkeln die Sterne besonders schön.",
+      "arabic": "فِي اللَّيْلِ الْمُظْلِمِ تَتَلَأْلَأُ النُّجُومُ بِجَمَالٍ خَاصٍّ.",
+      "english": "In the dark night the stars sparkle especially beautifully.",
+      "concept_refs": [
+        "c161_016",
+        "c161_002"
+      ]
+    },
+    {
+      "id": "s946",
+      "german": "Eine totale Sonnenfinsternis ist ein seltenes Wunder.",
+      "arabic": "كُسُوفُ الشَّمْسِ الْكُلِّيُّ مُعْجِزَةٌ نَادِرَةٌ.",
+      "english": "A total solar eclipse is a rare wonder.",
+      "concept_refs": [
+        "c161_017"
+      ]
+    },
+    {
+      "id": "s947",
+      "german": "Die Schwerkraft hält uns fest auf dem Boden.",
+      "arabic": "الْجَاذِبِيَّةُ الْأَرْضِيَّةُ تُثَبِّتُنَا عَلَى الْأَرْضِ.",
+      "english": "Gravity keeps us firmly on the ground.",
+      "concept_refs": [
+        "c161_019"
+      ]
+    },
+    {
+      "id": "s948",
+      "german": "Reisende orientieren sich nachts am Polarstern.",
+      "arabic": "الْمُسَافِرُونَ يَهْتَدُونَ لَيْلًا بِنَجْمِ الْقُطْبِ.",
+      "english": "Travelers navigate at night by the North Star.",
+      "concept_refs": [
+        "c161_021"
+      ]
+    },
+    {
+      "id": "s949",
+      "german": "Der Kompass zeigt immer genau nach Norden.",
+      "arabic": "الْبُوصِلَةُ تُشِيرُ دَائِمًا بِدِقَّةٍ إِلَى الشَّمَالِ.",
+      "english": "The compass always points exactly North.",
+      "concept_refs": [
+        "c161_022"
+      ]
+    },
+    {
+      "id": "s950",
+      "german": "Wir beobachten heute Nacht die Wanderung der Planeten.",
+      "arabic": "نَحْنُ نَرْقُبُ اللَّيْلَةَ حَرَكَةَ الْكَوَاكِبِ.",
+      "english": "We are observing the motion of the planets tonight.",
+      "concept_refs": [
+        "v093",
+        "c161_007"
       ]
     }
   ]
