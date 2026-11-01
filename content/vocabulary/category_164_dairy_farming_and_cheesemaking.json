@@ -1,0 +1,234 @@
+{
+  "category_id": "c164",
+  "name_ar": "صِنَاعَةُ الْأَلْبَانِ وَالْأَجْبَانِ الطَّبِيعِيَّةِ",
+  "name_de": "Milchwirtschaft und traditionelle Käseherstellung",
+  "name_en": "Dairy Farming and Traditional Cheesemaking",
+  "level": "A1-A2",
+  "concepts": [
+    {
+      "id": "c164_001",
+      "arabic": "حَلِيبٌ طَازَجٌ",
+      "german": "frische Milch",
+      "article": "die",
+      "plural": "frische Milche",
+      "english": "fresh milk",
+      "level": "A1"
+    },
+    {
+      "id": "c164_002",
+      "arabic": "جُبْنٌ أَبْيَضُ",
+      "german": "weißer Käse",
+      "article": "der",
+      "plural": "weiße Käse",
+      "english": "white cheese",
+      "level": "A1"
+    },
+    {
+      "id": "c164_003",
+      "arabic": "زُبْدَةٌ طَبِيعِيَّةٌ",
+      "german": "Butter",
+      "article": "die",
+      "plural": "Butter",
+      "english": "natural butter",
+      "level": "A1"
+    },
+    {
+      "id": "c164_004",
+      "arabic": "لَبَنٌ رَائِبٌ",
+      "german": "Joghurt",
+      "article": "der",
+      "plural": "Joghurts",
+      "english": "curd / yogurt",
+      "level": "A1"
+    },
+    {
+      "id": "c164_005",
+      "arabic": "قِشْطَةٌ",
+      "german": "Sahne",
+      "article": "die",
+      "plural": "Sahnen",
+      "english": "cream",
+      "level": "A1"
+    },
+    {
+      "id": "c164_006",
+      "arabic": "مَخْفَقَةٌ",
+      "german": "Schneebesen",
+      "article": "der",
+      "plural": "Schneebesen",
+      "english": "whisk",
+      "level": "A1"
+    },
+    {
+      "id": "c164_007",
+      "arabic": "مِخَضَّةُ لَبَنٍ",
+      "german": "Butterfass",
+      "article": "das",
+      "plural": "Butterfässer",
+      "english": "butter churn",
+      "level": "A2"
+    },
+    {
+      "id": "c164_008",
+      "arabic": "قَالَبُ جُبْنٍ",
+      "german": "Käseform",
+      "article": "die",
+      "plural": "Käseformen",
+      "english": "cheese mold",
+      "level": "A2"
+    },
+    {
+      "id": "c164_009",
+      "arabic": "قُمَاشُ تَصْفِيَةٍ",
+      "german": "Käsetuch",
+      "article": "das",
+      "plural": "Käsetücher",
+      "english": "cheesecloth",
+      "level": "A2"
+    },
+    {
+      "id": "c164_010",
+      "arabic": "مَصْلُ اللَّبَنِ",
+      "german": "Molke",
+      "article": "die",
+      "plural": "Molken",
+      "english": "whey",
+      "level": "A2"
+    },
+    {
+      "id": "c164_011",
+      "arabic": "مِقْيَاسُ حَرَارَةٍ",
+      "german": "Thermometer",
+      "article": "das",
+      "plural": "Thermometer",
+      "english": "dairy thermometer",
+      "level": "A1"
+    },
+    {
+      "id": "c164_012",
+      "arabic": "تَخَثُّرُ الْحَلِيبِ",
+      "german": "Gerinnung",
+      "article": "die",
+      "plural": "Gerinnungen",
+      "english": "milk curdling",
+      "level": "A2"
+    },
+    {
+      "id": "c164_013",
+      "arabic": "بَسْتَرَةٌ",
+      "german": "Pasteurisierung",
+      "article": "die",
+      "plural": "Pasteurisierungen",
+      "english": "pasteurization",
+      "level": "A2"
+    },
+    {
+      "id": "c164_014",
+      "arabic": "تَخَمُّرٌ لَبَنِيٌّ",
+      "german": "Gärung",
+      "article": "die",
+      "plural": "Gärungen",
+      "english": "lactic fermentation",
+      "level": "A2"
+    },
+    {
+      "id": "c164_015",
+      "arabic": "إِنَاءٌ نَقِيٌّ",
+      "german": "Kessel",
+      "article": "der",
+      "plural": "Kessel",
+      "english": "clean kettle / vat",
+      "level": "A1"
+    },
+    {
+      "id": "c164_016",
+      "arabic": "تَعْتِيقُ الْجُبْنِ",
+      "german": "Reifung",
+      "article": "die",
+      "plural": "Reifungen",
+      "english": "cheese aging",
+      "level": "A2"
+    },
+    {
+      "id": "c164_017",
+      "arabic": "رَائِحَةٌ زَكِيَّةٌ",
+      "german": "Duft",
+      "article": "der",
+      "plural": "Düfte",
+      "english": "fresh aroma",
+      "level": "A1"
+    },
+    {
+      "id": "c164_018",
+      "arabic": "قِوَامٌ كَرِيمِيٌّ",
+      "german": "Textur",
+      "article": "die",
+      "plural": "Texturen",
+      "english": "creamy texture",
+      "level": "A1"
+    },
+    {
+      "id": "c164_019",
+      "arabic": "مَزْرَعَةُ أَبْقَارٍ",
+      "german": "Bauernhof",
+      "article": "der",
+      "plural": "Bauernhöfe",
+      "english": "dairy farm",
+      "level": "A1"
+    },
+    {
+      "id": "c164_020",
+      "arabic": "رَاعِي مَاشِيَةٍ",
+      "german": "Hirte",
+      "article": "der",
+      "plural": "Hirten",
+      "english": "herdsman",
+      "level": "A2"
+    },
+    {
+      "id": "c164_021",
+      "arabic": "عَلَفٌ طَبِيعِيٌّ",
+      "german": "Futter",
+      "article": "das",
+      "plural": "Futter",
+      "english": "green fodder",
+      "level": "A2"
+    },
+    {
+      "id": "c164_022",
+      "arabic": "حَلْبُ الصَّبَاحِ",
+      "german": "Melken",
+      "article": "das",
+      "plural": "Melken",
+      "english": "morning milking",
+      "level": "A1"
+    },
+    {
+      "id": "c164_023",
+      "arabic": "نَظَافَةٌ تَامَّةٌ",
+      "german": "Hygiene",
+      "article": "die",
+      "plural": "Hygiene",
+      "english": "perfect hygiene",
+      "level": "A1"
+    },
+    {
+      "id": "c164_024",
+      "arabic": "غِذَاءٌ كَامِلٌ",
+      "german": "Nahrung",
+      "article": "die",
+      "plural": "Nahrungen",
+      "english": "complete food",
+      "level": "A1"
+    },
+    {
+      "id": "c164_025",
+      "arabic": "كَالْسِيُومٌ مُفِيدٌ",
+      "german": "Kalzium",
+      "article": "das",
+      "plural": "Kalzium",
+      "english": "beneficial calcium",
+      "level": "A2"
+    }
+  ]
+}

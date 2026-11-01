@@ -1,5 +1,5 @@
 {
-  "count": 950,
+  "count": 970,
   "sentences": [
     {
       "id": "sent_001",
@@ -16608,6 +16608,195 @@
       "concept_refs": [
         "v094",
         "c162_005"
+      ]
+    },
+    {
+      "id": "s991",
+      "german": "Frische Milch schmeckt am Morgen besonders gut.",
+      "arabic": "الْحَلِيبُ الطَّازَجُ مَذَاقُهُ فِي الصَّبَاحِ طَيِّبٌ جِدًّا.",
+      "english": "Fresh milk tastes especially good in the morning.",
+      "concept_refs": [
+        "c164_001"
+      ]
+    },
+    {
+      "id": "s992",
+      "german": "Weißer Käse passt hervorragend zu frischen Oliven.",
+      "arabic": "الْجُبْنُ الْأَبْيَضُ يُنَاسِبُ الزَّيْتُونَ الطَّازَجَ تَمَامًا.",
+      "english": "White cheese goes great with fresh olives.",
+      "concept_refs": [
+        "c164_002"
+      ]
+    },
+    {
+      "id": "s993",
+      "german": "Natürliche Butter schmilzt auf dem heißen Brot.",
+      "arabic": "الزُّبْدَةُ الطَّبِيعِيَّةُ تَذُوبُ عَلَى الْخُبْزِ السَّاخِنِ.",
+      "english": "Natural butter melts on the hot bread.",
+      "concept_refs": [
+        "c164_003"
+      ]
+    },
+    {
+      "id": "s994",
+      "german": "Kühler Joghurt beruhigt den Magen nach dem Essen.",
+      "arabic": "اللَّبَنُ الرَّائِبُ الْبَارِدُ يُرِيحُ الْمَعِدَةَ بَعْدَ الطَّعَامِ.",
+      "english": "Cool yogurt settles the stomach after eating.",
+      "concept_refs": [
+        "c164_004"
+      ]
+    },
+    {
+      "id": "s995",
+      "german": "Frische Sahne verfeinert viele traditionelle Soßen.",
+      "arabic": "الْقِشْطَةُ الطَّازَجَةُ تُثْرِي كَثِيرًا مِنَ الصَّلَصَاتِ التَّقْلِيدِيَّةِ.",
+      "english": "Fresh cream enriches many traditional sauces.",
+      "concept_refs": [
+        "c164_005"
+      ]
+    },
+    {
+      "id": "s996",
+      "german": "Er schlägt die Sahne mit dem Schneebesen steif.",
+      "arabic": "هُوَ يَخْفِقُ الْقِشْطَةَ بِالْمَخْفَقَةِ حَتَّى تَتَمَاسَكَ.",
+      "english": "He whips the cream stiff with the whisk.",
+      "concept_refs": [
+        "c164_006",
+        "c164_005"
+      ]
+    },
+    {
+      "id": "s997",
+      "german": "Im hölzernen Butterfass entsteht goldene Butter.",
+      "arabic": "فِي مِخَضَّةِ اللَّبَنِ الْخَشَبِيَّةِ تَتَكَوَّنُ زُبْدَةٌ ذَهَبِيَّةٌ.",
+      "english": "Golden butter forms in the wooden butter churn.",
+      "concept_refs": [
+        "c164_007",
+        "c164_003"
+      ]
+    },
+    {
+      "id": "s998",
+      "german": "Wir drücken den frischen Bruch in die Käseform.",
+      "arabic": "نَحْنُ نَضْغَطُ الْخُثَارَةَ الطَّازَجَةَ فِي قَالَبِ الْجُبْنِ.",
+      "english": "We press the fresh curd into the cheese mold.",
+      "concept_refs": [
+        "c164_008"
+      ]
+    },
+    {
+      "id": "s999",
+      "german": "Das saubere Käsetuch trennt den Käse von der Molke.",
+      "arabic": "قُمَاشُ التَّصْفِيَةِ النَّظِيفُ يَفْصِلُ الْجُبْنَ عَنِ الْمَصْلِ.",
+      "english": "The clean cheesecloth separates the cheese from the whey.",
+      "concept_refs": [
+        "c164_009",
+        "c164_010"
+      ]
+    },
+    {
+      "id": "s1000",
+      "german": "Ein genaues Thermometer misst die Temperatur der Milch.",
+      "arabic": "مِقْيَاسُ حَرَارَةٍ دَقِيقٌ يَقِيسُ دَرَجَةَ حَرَارَةِ الْحَلِيبِ.",
+      "english": "An accurate thermometer measures the temperature of the milk.",
+      "concept_refs": [
+        "c164_011",
+        "c164_001"
+      ]
+    },
+    {
+      "id": "s1001",
+      "german": "Die natürliche Gerinnung beginnt nach dreißig Minuten.",
+      "arabic": "التَّخَثُّرُ الطَّبِيعِيُّ يَبْدَأُ بَعْدَ ثَلَاثِينَ دَقِيقَةً.",
+      "english": "Natural curdling begins after thirty minutes.",
+      "concept_refs": [
+        "c164_012"
+      ]
+    },
+    {
+      "id": "s1002",
+      "german": "Schonende Pasteurisierung tötet unerwünschte Keime ab.",
+      "arabic": "الْبَسْتَرَةُ الْهَادِئَةُ تَقْضِي عَلَى الْجَرَاثِيمِ غَيْرِ الْمَرْغُوبَةِ.",
+      "english": "Gentle pasteurization kills unwanted germs.",
+      "concept_refs": [
+        "c164_013"
+      ]
+    },
+    {
+      "id": "s1003",
+      "german": "Im kupfernen Kessel wird die Milch langsam erwärmt.",
+      "arabic": "فِي الْإِنَاءِ النُّحَاسِيِّ يُسَخَّنُ الْحَلِيبُ بِبُطْءٍ.",
+      "english": "In the copper kettle the milk is heated slowly.",
+      "concept_refs": [
+        "c164_015",
+        "c164_001"
+      ]
+    },
+    {
+      "id": "s1004",
+      "german": "Die Reifung des Käses dauert mehrere Monate.",
+      "arabic": "تَعْتِيقُ الْجُبْنِ يَسْتَغْرِقُ عِدَّةَ أَشْهُرٍ.",
+      "english": "The aging of the cheese takes several months.",
+      "concept_refs": [
+        "c164_016",
+        "c164_002"
+      ]
+    },
+    {
+      "id": "s1005",
+      "german": "Der cremige Schnittkäse schmeckt mild und nussig.",
+      "arabic": "الْجُبْنُ ذُو الْقِوَامِ الْكَرِيمِيِّ مَذَاقُهُ مُعْتَدِلٌ وَلَذِيذٌ.",
+      "english": "The creamy semi-hard cheese tastes mild and nutty.",
+      "concept_refs": [
+        "c164_018",
+        "c164_002"
+      ]
+    },
+    {
+      "id": "s1006",
+      "german": "Auf dem Bauernhof leben gesunde Kühe auf grünen Weiden.",
+      "arabic": "فِي الْمَزْرَعَةِ تَعِيشُ أَبْقَارٌ صِحِّيَّةٌ فِي مُرُوجٍ خَضْرَاءَ.",
+      "english": "On the dairy farm healthy cows live in green pastures.",
+      "concept_refs": [
+        "c164_019"
+      ]
+    },
+    {
+      "id": "s1007",
+      "german": "Der Hirte führt die Herde am Abend zurück.",
+      "arabic": "الرَّاعِي يَقُودُ الْمَاشِيَةَ فِي الْمَسَاءِ إِلَى الْحَظِيرَةِ.",
+      "english": "The herdsman leads the cattle back in the evening.",
+      "concept_refs": [
+        "c164_020"
+      ]
+    },
+    {
+      "id": "s1008",
+      "german": "Das morgendliche Melken beginnt pünktlich um sechs Uhr.",
+      "arabic": "حَلْبُ الصَّبَاحِ يَبْدَأُ تَمَامًا فِي السَّاعَةِ السَّادِسَةِ.",
+      "english": "Morning milking begins promptly at six o'clock.",
+      "concept_refs": [
+        "c164_022"
+      ]
+    },
+    {
+      "id": "s1009",
+      "german": "Milchprodukte liefern wertvolles Kalzium für die Knochen.",
+      "arabic": "مُنْتَجَاتُ الْأَلْبَانِ تُقَدِّمُ كَالْسِيُومًا مُفِيدًا لِلْعِظَامِ.",
+      "english": "Dairy products provide valuable calcium for bones.",
+      "concept_refs": [
+        "c164_025",
+        "c164_024"
+      ]
+    },
+    {
+      "id": "s1010",
+      "german": "Wir rühren die Milch gleichmäßig auf kleiner Flamme.",
+      "arabic": "نَحْنُ نُحَرِّكُ الْحَلِيبَ بِانْتِظَامٍ عَلَى نَارٍ هَادِئَةٍ.",
+      "english": "We stir the milk evenly over low heat.",
+      "concept_refs": [
+        "v096",
+        "c164_001"
       ]
     }
   ]

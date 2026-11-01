@@ -1,0 +1,34 @@
+{
+  "verb_id": "v096",
+  "infinitive_de": "rühren",
+  "root_ar": "حَرَّكَ",
+  "infinitive_en": "to stir / to mix",
+  "level": "A1",
+  "present": {
+    "ich": "rühre",
+    "du": "rührst",
+    "er_sie_es": "rührt",
+    "wir": "rühren",
+    "ihr": "rührt",
+    "sie_Sie": "rühren"
+  },
+  "past": {
+    "ich": "rührte",
+    "du": "rührtest",
+    "er_sie_es": "rührte",
+    "wir": "rührten",
+    "ihr": "rührtet",
+    "sie_Sie": "rührten"
+  },
+  "perfect": {
+    "auxiliary": "haben",
+    "participle": "gerührt"
+  },
+  "examples": [
+    {
+      "german": "Die Bäuerin rührt die warme Milch im großen Kessel.",
+      "arabic": "الْمُزَارِعَةُ تُحَرِّكُ الْحَلِيبَ الدَّافِئَ فِي الْإِنَاءِ الْكَبِيرِ.",
+      "english": "The farmer stirs the warm milk in the large kettle."
+    }
+  ]
+}
