@@ -1,0 +1,37 @@
+{
+  "dialogue_id": "dialogue_017",
+  "title_ar": "عِنْدَ الخَطَّاطِ المَاهِرِ وَصِنَاعَةِ المِدَادِ",
+  "title_de": "Beim Kalligraphen und der traditionellen Tinteherstellung",
+  "title_en": "At the Master Calligrapher and Natural Ink Making",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُتَعَلِّمُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَا أَبْهَى هَذِهِ الحُرُوفَ العَرَبِيَّةَ الَّتِي تَفِيضُ جَمَالًا وَتَنَاسُقًا!",
+      "de": "Guten Tag! Wie prachtvoll diese arabischen Buchstaben sind, die von vollendeter Harmonie zeugen!",
+      "en": "Good day! How magnificent these Arabic letters are, radiating beauty and harmony!"
+    },
+    {
+      "turn": 2,
+      "speaker": "الخَطَّاطُ الشَّيْخُ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. الخَطُّ هَنْدَسَةٌ رُوحَانِيَّةٌ ظَهَرَتْ بِآلَةٍ جِسْمَانِيَّةٍ، وَأَسَاسُهُ القَصَبُ المَبْرِيُّ بِعِنَايَةٍ.",
+      "de": "Willkommen! Die Kalligraphie ist eine geistige Geometrie, sichtbar gemacht durch ein feines Schilfrohr.",
+      "en": "Welcome! Calligraphy is a spiritual geometry made manifest through a carefully carved reed pen."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُتَعَلِّمُ",
+      "ar": "وَكَيْفَ تَصْنَعُونَ هَذَا الحِبْرَ الأَسْوَدَ اللَّامِعَ الَّذِي لَا يَزُولُ مَعَ الزَّمَنِ؟",
+      "de": "Und wie stellen Sie diese glänzende schwarze Tinte her, die über Jahrhunderte beständig bleibt?",
+      "en": "And how do you craft this radiant black ink that endures across generations?"
+    },
+    {
+      "turn": 4,
+      "speaker": "الخَطَّاطُ الشَّيْخُ",
+      "ar": "نَمْزُجُ هِبَابَ الفَحْمِ النَّقِيَّ بِالصَّمْغِ العَرَبِيِّ وَالمَاءِ العَذْبِ لِيَبْقَى ثَابِتًا عَلَى الوَرَقِ المَصْقُولِ.",
+      "de": "Wir mischen reinsten Ruß mit Gummi arabicum und klarem Wasser für höchste Beständigkeit.",
+      "en": "We blend pure carbon soot with gum arabic and fresh water to ensure lasting permanence on smooth paper."
+    }
+  ]
+}

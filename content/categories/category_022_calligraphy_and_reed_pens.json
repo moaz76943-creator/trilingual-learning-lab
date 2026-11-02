@@ -1,0 +1,30 @@
+{
+  "id": "category_022",
+  "name_ar": "فُنُونُ الخَطِّ وَأَقْلَامُ القَصَبِ",
+  "name_de": "Kalligraphiekunst und Rohrfedern",
+  "name_en": "Calligraphy Arts and Reed Pens",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_068_reed_pen",
+      "arabic": "قَلَمُ القَصَبِ المَبْرِيُّ بِدِقَّةٍ",
+      "german": "die sorgfältig geschnittene Rohrfeder",
+      "english": "the precisely cut reed pen",
+      "image_key": "asset_callig_reed_pen"
+    },
+    {
+      "id": "concept_069_carbon_ink",
+      "arabic": "المِدَادُ الطَّبِيعِيُّ النَّقِيُّ",
+      "german": "die traditionelle Naturtinte",
+      "english": "the pure natural carbon ink",
+      "image_key": "asset_callig_carbon_ink"
+    },
+    {
+      "id": "concept_070_smooth_paper",
+      "arabic": "الوَرَقُ المَصْقُولُ النَّاعِمُ",
+      "german": "das geglättete feine Papier",
+      "english": "the polished smooth paper",
+      "image_key": "asset_callig_smooth_paper"
+    }
+  ]
+}

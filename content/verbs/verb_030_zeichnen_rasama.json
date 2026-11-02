@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_030",
+  "root_ar": "ر-س-م",
+  "infinitive_ar": "رَسَمَ - يَرْسُمُ",
+  "infinitive_de": "zeichnen",
+  "infinitive_en": "to draw",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَرْسُمُ حُرُوفًا هَنْدَسِيَّةً",
+      "de_ich": "ich zeichne geometrische Buchstaben",
+      "en_i": "I draw geometric letters"
+    },
+    "past": {
+      "ar_ana": "أَنَا رَسَمْتُ خَطًّا جَمِيلًا",
+      "de_ich": "ich habe eine schöne Schrift gezeichnet",
+      "en_i": "I drew a beautiful script"
+    }
+  }
+}
