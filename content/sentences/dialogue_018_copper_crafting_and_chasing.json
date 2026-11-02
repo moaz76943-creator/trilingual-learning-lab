@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_018",
+  "title_ar": "عِنْدَ صَانِعِ النُّحَاسِ وَالزَّخْرَفَةِ اليَدَوِيَّةِ",
+  "title_de": "Beim Kupferschmied und traditioneller Ziselierkunst",
+  "title_en": "At the Coppersmith and Traditional Metal Chasing",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "الزَّائِرُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَا أَعْذَبَ هَذَا الإِيقَاعَ المُنْتَظِمَ لِمِطْرَقَتِكَ الصَّغِيرَةِ عَلَى النُّحَاسِ!",
+      "de": "Guten Tag! Wie rhythmisch und harmonisch der Klang Ihres feinen Treibhammers auf dem Kupfer ist!",
+      "en": "Good day! How rhythmic and harmonious the sound of your fine chasing hammer is on the copper!"
+    },
+    {
+      "turn": 2,
+      "speaker": "النَّحَّاسُ المَاهِرُ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَطْرُقُ النُّحَاسَ الأَحْمَرَ النَّقِيَّ لِنُبْرِزَ نُقُوشًا هَنْدَسِيَّةً نَاتِئَةً.",
+      "de": "Willkommen! Wir treiben das reine rote Kupfer, um feine geometrische Reliefmuster zu erschaffen.",
+      "en": "Welcome! We hammer the pure red copper to craft delicate raised geometric patterns."
+    },
+    {
+      "turn": 3,
+      "speaker": "الزَّائِرُ",
+      "ar": "بَارَكَ اللهُ فِي صَنْعَتِكَ؛ هَذِهِ الآنِيَةُ تَجْمَعُ بَيْنَ الصَّلَابَةِ وَالبَهَاءِ.",
+      "de": "Möge Gott Ihr Handwerk segnen; dieses Gefäß vereint dauerhafte Festigkeit mit wahrer Pracht.",
+      "en": "May God bless your craftsmanship; this vessel combines enduring strength with true elegance."
+    }
+  ]
+}

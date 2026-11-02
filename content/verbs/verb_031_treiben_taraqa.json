@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_031",
+  "root_ar": "ط-ر-ق",
+  "infinitive_ar": "طَرَقَ - يَطْرُقُ",
+  "infinitive_de": "hämmern",
+  "infinitive_en": "to hammer / forge",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَطْرُقُ النُّحَاسَ بِتَأَنٍّ",
+      "de_ich": "ich hämmere das Kupfer mit Geduld",
+      "en_i": "I hammer the copper patiently"
+    },
+    "past": {
+      "ar_ana": "أَنَا طَرَقْتُ المَعْدِنَ",
+      "de_ich": "ich habe das Metall gehämmert",
+      "en_i": "I hammered the metal"
+    }
+  }
+}

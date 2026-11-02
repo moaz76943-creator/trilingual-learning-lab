@@ -1,0 +1,30 @@
+{
+  "id": "category_023",
+  "name_ar": "صِيَاغَةُ النُّحَاسِ وَالأَوَانِي المَنْقُوشَةِ",
+  "name_de": "Kupferschmiedekunst und Ziselierarbeiten",
+  "name_en": "Coppersmithing and Chased Metalwork",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_071_engraved_copper_tray",
+      "arabic": "صِينِيَّةُ النُّحَاسِ المَنْقُوشَةُ",
+      "german": "das gravierte Kupferteller",
+      "english": "the engraved copper tray",
+      "image_key": "asset_metal_copper_tray"
+    },
+    {
+      "id": "concept_072_chasing_hammer",
+      "arabic": "مِطْرَقَةُ النَّحَّاسِ الخَفِيفَةُ",
+      "german": "der feine Treibhammer",
+      "english": "the light chasing hammer",
+      "image_key": "asset_metal_chasing_hammer"
+    },
+    {
+      "id": "concept_073_copper_pitcher",
+      "arabic": "إِبْرِيقُ النُّحَاسِ الأَصِيلُ",
+      "german": "die traditionelle Kupferkanne",
+      "english": "the traditional copper pitcher",
+      "image_key": "asset_metal_copper_pitcher"
+    }
+  ]
+}

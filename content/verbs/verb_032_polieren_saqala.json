@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_032",
+  "root_ar": "ص-ق-ل",
+  "infinitive_ar": "صَقَلَ - يَصْقُلُ",
+  "infinitive_de": "polieren",
+  "infinitive_en": "to polish",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَصْقُلُ الإِبْرِيقَ لِيَلْمَعَ",
+      "de_ich": "ich poliere die Kanne zum Glänzen",
+      "en_i": "I polish the pitcher to shine"
+    },
+    "past": {
+      "ar_ana": "أَنَا صَقَلْتُ الصِّينِيَّةَ",
+      "de_ich": "ich habe das Tablett poliert",
+      "en_i": "I polished the tray"
+    }
+  }
+}
