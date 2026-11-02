@@ -1,0 +1,30 @@
+{
+  "id": "category_013",
+  "name_ar": "صِنَاعَةُ الفَخَّارِ وَالخَزَفِ",
+  "name_de": "Töpferei und Keramikkunst",
+  "name_en": "Pottery and Ceramic Crafting",
+  "cefr_level": "A2",
+  "concepts": [
+    {
+      "id": "concept_041_pottery_clay",
+      "arabic": "الطِّينُ النَّقِيُّ الصَّالِحُ",
+      "german": "der reine Töpferton",
+      "english": "pure pottery clay",
+      "image_key": "asset_craft_pottery_clay"
+    },
+    {
+      "id": "concept_042_potters_wheel",
+      "arabic": "دُولَابُ الخَزَّافِ المَاهِرِ",
+      "german": "die klassische Töpferscheibe",
+      "english": "the skilled potter's wheel",
+      "image_key": "asset_craft_potters_wheel"
+    },
+    {
+      "id": "concept_043_clay_pitcher",
+      "arabic": "الإِبْرِيقُ الفَخَّارِيُّ البَدِيعُ",
+      "german": "der traditionelle Tonkrug",
+      "english": "the traditional clay pitcher",
+      "image_key": "asset_craft_clay_pitcher"
+    }
+  ]
+}

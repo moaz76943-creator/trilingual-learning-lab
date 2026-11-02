@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_012",
+  "root_ar": "ن-ق-ش",
+  "infinitive_ar": "نَقَشَ - يَنْقُشُ",
+  "infinitive_de": "verzieren",
+  "infinitive_en": "to engrave",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَنْقُشُ زَخَارِفَ نَبَاتِيَّةً",
+      "de_ich": "ich verziere die Keramik mit Blumenmustern",
+      "en_i": "I engrave floral patterns"
+    },
+    "past": {
+      "ar_ana": "أَنَا نَقَشْتُ الخَزَفَ",
+      "de_ich": "ich habe die Keramik verziert",
+      "en_i": "I engraved the ceramic"
+    }
+  }
+}

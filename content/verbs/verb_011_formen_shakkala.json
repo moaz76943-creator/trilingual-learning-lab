@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_011",
+  "root_ar": "ش-ك-ل",
+  "infinitive_ar": "شَكَّلَ - يُشَكِّلُ",
+  "infinitive_de": "formen",
+  "infinitive_en": "to shape",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أُشَكِّلُ الفَخَّارَ بِعِنَايَةٍ",
+      "de_ich": "ich forme den Ton mit Sorgfalt",
+      "en_i": "I shape the clay carefully"
+    },
+    "past": {
+      "ar_ana": "أَنَا شَكَّلْتُ آنِيَةً جَمِيلَةً",
+      "de_ich": "ich habe ein Gefäß geformt",
+      "en_i": "I shaped a vessel"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_008",
+  "title_ar": "فِي وَرْشَةِ الخَزَفِ وَالفَخَّارِ التَّقْلِيدِيِّ",
+  "title_de": "In der traditionellen Töpfereiwerkstatt",
+  "title_en": "At the Traditional Pottery Workshop",
+  "cefr_level": "A2",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "الزَّائِرُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَا شَاءَ اللهُ! كَيْفَ تُحَوِّلُ هَذَا الطِّينَ إِلَى آنِيَةٍ بَدِيعَةٍ؟",
+      "de": "Guten Tag! Wie verwandeln Sie diesen Ton in so wunderschöne Gefäße?",
+      "en": "Good day! How do you transform this clay into such beautiful vessels?"
+    },
+    {
+      "turn": 2,
+      "speaker": "الخَزَّافُ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ، أَهْلًا بِكَ. نَسْتَخْدِمُ دُولَابَ الخَزَفِ بِتَأَنٍّ وَصَبْرٍ لِتَشْكِيلِ الطِّينِ النَّقِيِّ.",
+      "de": "Willkommen! Wir benutzen die Töpferscheibe mit Geduld und Ruhe, um den reinen Ton zu formen.",
+      "en": "Welcome! We use the potter's wheel with patience and care to shape the pure clay."
+    },
+    {
+      "turn": 3,
+      "speaker": "الزَّائِرُ",
+      "ar": "بَارَكَ اللهُ فِي أَنَامِلِكَ؛ الصِّنَاعَةُ اليَدَوِيَّةُ تَحْمِلُ رُوحَ التُّرَاثِ الأَصِيلِ.",
+      "de": "Möge Gott Ihre Hände segnen; das echte Handwerk trägt den Geist des wahren Erbes.",
+      "en": "May God bless your hands; authentic craftsmanship carries the spirit of true heritage."
+    }
+  ]
+}
