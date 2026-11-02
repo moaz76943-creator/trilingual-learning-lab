@@ -1,0 +1,30 @@
+{
+  "id": "category_012",
+  "name_ar": "عُلُومُ الأَرْصَادِ وَدَوْرَةُ المِيَاهِ",
+  "name_de": "Meteorologie und Wasserkreislauf",
+  "name_en": "Meteorology and Water Cycle",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_038_water_cycle",
+      "arabic": "دَوْرَةُ المِيَاهِ الطَّبِيعِيَّةُ",
+      "german": "der natürliche Wasserkreislauf",
+      "english": "the natural water cycle",
+      "image_key": "asset_meteo_water_cycle"
+    },
+    {
+      "id": "concept_039_beneficial_rain",
+      "arabic": "الغَيْثُ النَّافِعُ المُبَارَكُ",
+      "german": "der nützliche und gesegnete Regen",
+      "english": "the beneficial and blessed rain",
+      "image_key": "asset_meteo_beneficial_rain"
+    },
+    {
+      "id": "concept_040_morning_dew",
+      "arabic": "النَّدَى الصَّبَاحِيُّ العَذْبُ",
+      "german": "der frische Morgentau",
+      "english": "the fresh morning dew",
+      "image_key": "asset_meteo_morning_dew"
+    }
+  ]
+}

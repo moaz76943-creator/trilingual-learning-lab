@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_010",
+  "root_ar": "ج-ر-ي",
+  "infinitive_ar": "جَرَى - يَجْرِي",
+  "infinitive_de": "fließen",
+  "infinitive_en": "to flow",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "المَاءُ العَذْبُ يَجْرِي فِي النَّهْرِ",
+      "de_er": "das Wasser fließt im Fluss",
+      "en_it": "the water flows in the river"
+    },
+    "past": {
+      "ar_ana": "جَرَى المَاءُ الرُّقْرَاقُ",
+      "de_er": "das Wasser ist geflossen",
+      "en_it": "the water flowed"
+    }
+  }
+}

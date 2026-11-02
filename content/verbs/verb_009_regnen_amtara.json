@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_009",
+  "root_ar": "م-ط-ر",
+  "infinitive_ar": "أَمْطَرَ - يُمْطِرُ",
+  "infinitive_de": "regnen",
+  "infinitive_en": "to rain",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_hawa": "السَّمَاءُ تُمْطِرُ خَيْرًا",
+      "de_es": "es regnet sanft",
+      "en_it": "it rains gently"
+    },
+    "past": {
+      "ar_hawa": "أَمْطَرَتِ السَّمَاءُ",
+      "de_es": "es hat geregnet",
+      "en_it": "it rained"
+    }
+  }
+}

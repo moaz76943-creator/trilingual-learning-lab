@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_007",
+  "title_ar": "مَوْسِمُ قِطَافِ الزَّيْتُونِ وَعَصْرِهِ بِالتَّعَاوُنِ",
+  "title_de": "Olivenernte und traditionelles Pressen in Gemeinschaft",
+  "title_en": "Olive Harvest Season and Cooperative Pressing",
+  "cefr_level": "A2",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُزَارِعُ الكَبِيرُ",
+      "ar": "الحَمْدُ للهِ، هَذَا مَوْسِمٌ مُبَارَكٌ وَأَشْجَارُ الزَّيْتُونِ مُثْمِرَةٌ بِخَيْرٍ عَمِيمٍ.",
+      "de": "Gott sei Dank! Dies ist eine gesegnete Saison, und die Olivenbäume tragen reichlich Früchte.",
+      "en": "Praise be to God! This is a blessed season, and the olive trees are bearing bountiful fruit."
+    },
+    {
+      "turn": 2,
+      "speaker": "الشَّابُّ المُتَطَوِّعُ",
+      "ar": "سَنَبْدَأُ القِطَافَ يَدَوِيًّا لِلْحِفَاظِ عَلَى نَقَاءِ الثِّمَارِ قَبْلَ نَقْلِهَا إِلَى المَعْصَرَةِ.",
+      "de": "Wir werden von Hand ernten, um die Reinheit der Früchte vor dem Transport zur Mühle zu bewahren.",
+      "en": "We will harvest by hand to preserve the purity of the fruit before taking it to the press."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُزَارِعُ الكَبِيرُ",
+      "ar": "بَارَكَ اللهُ فِي هِمَّتِكُمْ؛ الزَّيْتُ البِكْرُ الصَّافِي نِعْمَةٌ عَظِيمَةٌ مِنَ اللهِ.",
+      "de": "Möge Gott Ihren Eifer segnen. Reines, kaltgepresstes Olivenöl ist ein wunderbarer Segen.",
+      "en": "May God bless your dedication; pure extra virgin olive oil is a great blessing from God."
+    }
+  ]
+}
