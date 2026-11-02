@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_020",
+  "title_ar": "عِنْدَ صَانِعِ الأَوَانِي الخَشَبِيَّةِ وَحِفْظِ الغِلَالِ",
+  "title_de": "Beim Böttcher und traditioneller Fassbinderei",
+  "title_en": "At the Traditional Cooper and Wooden Storage Vessels",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُسْتَفْسِرُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، كَيْفَ تَثْنُونَ هَذِهِ الأَلْوَاحَ الخَشَبِيَّةَ الصَّلْبَةَ دُونَ أَنْ تَنْكَسِرَ؟",
+      "de": "Guten Tag! Wie biegen Sie diese massiven Holzdauben, ohne dass sie brechen?",
+      "en": "Good day! How do you bend these solid wooden staves without breaking them?"
+    },
+    {
+      "turn": 2,
+      "speaker": "صَانِعُ البَرَامِيلِ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نُعَرِّضُهَا لِبُخَارِ المَاءِ الحَارِّ حَتَّى تَلِينَ، ثُمَّ نَشُدُّ عَلَيْهَا الأَطْوَاقَ الحَدِيدِيَّةَ.",
+      "de": "Willkommen! Wir bedampfen sie mit heißem Wasserdampf, bis sie biegsam sind, und spannen dann die Reifen.",
+      "en": "Welcome! We steam them with hot water vapor until pliable, then clamp the iron hoops around them."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُسْتَفْسِرُ",
+      "ar": "مَا أَرْوَعَ هَذَا الحِفْظَ الطَّبِيعِيَّ لِلْحُبُوبِ الَّذِي يَحْمِيهَا مِنَ الرُّطُوبَةِ وَالتَّلَفِ!",
+      "de": "Wie herrlich diese natürliche Getreidelagerung ist, die vor Feuchtigkeit und Verderb schützt!",
+      "en": "How wonderful this natural grain storage is, protecting harvests from moisture and decay!"
+    }
+  ]
+}

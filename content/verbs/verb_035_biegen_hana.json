@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_035",
+  "root_ar": "ح-ن-ي",
+  "infinitive_ar": "حَنَى - يَحْنِي",
+  "infinitive_de": "biegen",
+  "infinitive_en": "to bend",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَحْنِي لَوْحَ الخَشَبِ بِحَذَرٍ",
+      "de_ich": "ich biege das Holzbrett vorsichtig",
+      "en_i": "I bend the wood plank carefully"
+    },
+    "past": {
+      "ar_ana": "أَنَا حَنَيْتُ أَلْوَاحَ البِرْمِيلِ",
+      "de_ich": "ich habe die Dauben gebogen",
+      "en_i": "I bent the barrel staves"
+    }
+  }
+}

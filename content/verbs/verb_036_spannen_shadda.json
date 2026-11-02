@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_036",
+  "root_ar": "ش-د-د",
+  "infinitive_ar": "شَدَّ - يَشُدُّ",
+  "infinitive_de": "spannen",
+  "infinitive_en": "to clamp / tighten",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَشُدُّ الطَّوْقَ حَوْلَ الخَشَبِ",
+      "de_ich": "ich spanne den Reif um das Holz",
+      "en_i": "I tighten the hoop around the wood"
+    },
+    "past": {
+      "ar_ana": "أَنَا شَدَدْتُ الإِطَارَ بِإِحْكَامٍ",
+      "de_ich": "ich habe den Rahmen fest gespannt",
+      "en_i": "I clamped the frame tightly"
+    }
+  }
+}

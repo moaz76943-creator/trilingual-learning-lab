@@ -1,0 +1,30 @@
+{
+  "id": "category_025",
+  "name_ar": "صِنَاعَةُ البَرَامِيلِ وَحِفْظِ الغِلَالِ",
+  "name_de": "Fassbinderei und Vorratshaltung",
+  "name_en": "Cooperage and Grain Storage Craft",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_077_wooden_barrel",
+      "arabic": "البِرْمِيلُ الخَشَبِيُّ المَحْبُوكُ",
+      "german": "das dichte Holzfass",
+      "english": "the tight wooden barrel",
+      "image_key": "asset_cooper_wooden_barrel"
+    },
+    {
+      "id": "concept_078_iron_hoop",
+      "arabic": "الطَّوْقُ الحَدِيدِيُّ المَتِينُ",
+      "german": "der feste Eisenreif",
+      "english": "the solid iron hoop",
+      "image_key": "asset_cooper_iron_hoop"
+    },
+    {
+      "id": "concept_079_grain_silo",
+      "arabic": "صَوْمَعَةُ الغِلَالِ التُّرَاثِيَّةُ",
+      "german": "der traditionelle Getreidespeicher",
+      "english": "the traditional grain silo",
+      "image_key": "asset_cooper_grain_silo"
+    }
+  ]
+}
