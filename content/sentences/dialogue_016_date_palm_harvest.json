@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_016",
+  "title_ar": "مَوْسِمُ جَنْيِ التُّمُورِ فِي الوَاحَةِ",
+  "title_de": "Dattelernte in der gesegneten Oase",
+  "title_en": "Date Palm Harvest in the Blessed Oasis",
+  "cefr_level": "A2",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "الشَّابُّ المُتَعَلِّمُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَا شَاءَ اللهُ! كَيْفَ تَصْعَدُونَ هَذِهِ النَّخْلَةَ العَالِيَةَ بِكُلِّ ثَبَاتٍ؟",
+      "de": "Guten Tag! Wie klettern Sie mit so viel Ruhe und Sicherheit auf diese hohe Palme?",
+      "en": "Good day! How do you climb this tall palm tree with such steady confidence?"
+    },
+    {
+      "turn": 2,
+      "speaker": "خَبِيرُ النَّخِيلِ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَسْتَعِينُ بِحَبْلِ الصُّعُودِ المَتِينِ، وَنَقْطِفُ أَعْذَاقَ الرُّطَبِ النَّاضِجَةِ بِرِفْقٍ.",
+      "de": "Willkommen! Wir nutzen ein stabiles Kletterseil und ernten die reifen Datteln behutsam.",
+      "en": "Welcome! We use a sturdy climbing harness and harvest the ripe dates gently."
+    },
+    {
+      "turn": 3,
+      "speaker": "الشَّابُّ المُتَعَلِّمُ",
+      "ar": "التَّمْرُ غِذَاءٌ كَامِلٌ مُبَارَكٌ فِيهِ طَاقَةٌ وَعَافِيَةٌ لِلْبَدَنِ.",
+      "de": "Datteln sind eine gesegnete, vollwertige Nahrung, die dem Körper gesunde Kraft schenkt.",
+      "en": "Dates are a blessed, wholesome food that brings vital nourishment to the body."
+    }
+  ]
+}

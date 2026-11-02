@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_027",
+  "root_ar": "غ-ر-س",
+  "infinitive_ar": "غَرَسَ - يَغْرِسُ",
+  "infinitive_de": "pflanzen",
+  "infinitive_en": "to plant",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَغْرِسُ فَسِيلَةَ نَخْلٍ",
+      "de_ich": "ich pflanze einen Palmableger",
+      "en_i": "I plant a palm offshoot"
+    },
+    "past": {
+      "ar_ana": "أَنَا غَرَسْتُ فِي الوَاحَةِ",
+      "de_ich": "ich habe in der Oase gepflanzt",
+      "en_i": "I planted in the oasis"
+    }
+  }
+}

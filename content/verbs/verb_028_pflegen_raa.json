@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_028",
+  "root_ar": "ر-ع-ي",
+  "infinitive_ar": "رَعَى - يَرْعَى",
+  "infinitive_de": "pflegen",
+  "infinitive_en": "to nurture",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَرْعَى البُسْتَانَ بِإِخْلَاصٍ",
+      "de_ich": "ich pflege den Garten mit Hingabe",
+      "en_i": "I tend the garden with dedication"
+    },
+    "past": {
+      "ar_ana": "أَنَا رَعَيْتُ المَحْصُولَ",
+      "de_ich": "ich habe die Ernte gepflegt",
+      "en_i": "I nurtured the crop"
+    }
+  }
+}

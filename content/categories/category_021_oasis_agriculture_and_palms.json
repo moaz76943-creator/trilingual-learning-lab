@@ -1,0 +1,30 @@
+{
+  "id": "category_021",
+  "name_ar": "عُلُومُ الوَاحَاتِ وَزِرَاعَةُ النَّخِيلِ",
+  "name_de": "Oasenkultur und Dattelpalmenanbau",
+  "name_en": "Oasis Agriculture and Date Palm Cultivation",
+  "cefr_level": "A2",
+  "concepts": [
+    {
+      "id": "concept_065_green_oasis",
+      "arabic": "الوَاحَةُ الخَضْرَاءُ الغَنَّاءُ",
+      "german": "die fruchtbare grüne Oase",
+      "english": "the fertile green oasis",
+      "image_key": "asset_palm_green_oasis"
+    },
+    {
+      "id": "concept_066_date_cluster",
+      "arabic": "عِذْقُ التَّمْرِ السُّكَّرِيِّ",
+      "german": "die volle reife Datteldolde",
+      "english": "the sweet date cluster",
+      "image_key": "asset_palm_date_cluster"
+    },
+    {
+      "id": "concept_067_palm_offshoot",
+      "arabic": "الفَسِيلَةُ الصَّغِيرَةُ النَّاضِرَةُ",
+      "german": "der junge Palmableger",
+      "english": "the young palm offshoot",
+      "image_key": "asset_palm_young_offshoot"
+    }
+  ]
+}
