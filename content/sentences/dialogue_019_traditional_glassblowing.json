@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_019",
+  "title_ar": "عِنْدَ نَفَّاخِ الزُّجَاجِ التَّقْلِيدِيِّ",
+  "title_de": "Beim traditionellen Glasbläser und Glaskunsthandwerk",
+  "title_en": "At the Traditional Glassblower and Stained Glass Workshop",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُتَأَمِّلُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَا أَعْجَبَ كَيْفَ يَلِينُ هَذَا الزُّجَاجُ المَصْهُورُ فِي لَهِيبِ النَّارِ!",
+      "de": "Guten Tag! Wie erstaunlich, wie dieses geschmolzene Glas in der Glut der Flammen formbar wird!",
+      "en": "Good day! How amazing how this molten glass softens in the glow of the flame!"
+    },
+    {
+      "turn": 2,
+      "speaker": "النَّفَّاخُ المَاهِرُ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَنْفُخُ بِأُنْبُوبِ الحَدِيدِ بِرِفْقٍ لِنُعْطِيَ الآنِيَةَ شَكْلَهَا البَدِيعَ قَبْلَ أَنْ تَبْرُدَ.",
+      "de": "Willkommen! Wir blasen behutsam durch das Eisenrohr, um dem Gefäß seine edle Form zu geben.",
+      "en": "Welcome! We blow gently through the iron blowpipe to give the vessel its fine shape before it cools."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُتَأَمِّلُ",
+      "ar": "سُبْحَانَ الخَالِقِ! هَذَا القِنْدِيلُ الزُّجَاجِيُّ يَنْشُرُ ضَوْءًا دَافِئًا يُبْهِجُ القَلْبَ.",
+      "de": "Gepriesen sei der Schöpfer! Diese Glaslaterne verbreitet ein warmes Licht, das Freude schenkt.",
+      "en": "Glory be to the Creator! This glass lantern diffuses a warm light that brings joy to the heart."
+    }
+  ]
+}

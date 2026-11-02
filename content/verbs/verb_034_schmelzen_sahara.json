@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_034",
+  "root_ar": "ص-ه-ر",
+  "infinitive_ar": "صَهَرَ - يَصْهَرُ",
+  "infinitive_de": "schmelzen",
+  "infinitive_en": "to melt / fuse",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "الفُرْنُ يَصْهَرُ الرَّمْلَ النَّقِيَّ",
+      "de_er": "der Ofen schmilzt den reinen Sand",
+      "en_it": "the furnace melts the pure sand"
+    },
+    "past": {
+      "ar_ana": "صَهَرَ الصَّانِعُ الزُّجَاجَ",
+      "de_er": "der Handwerker hat das Glas geschmolzen",
+      "en_he": "the artisan melted the glass"
+    }
+  }
+}

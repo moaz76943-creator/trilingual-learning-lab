@@ -1,0 +1,30 @@
+{
+  "id": "category_024",
+  "name_ar": "فُنُونُ نَفْخِ الزُّجَاجِ وَالقَنَادِيلِ",
+  "name_de": "Glasbläserkunst und farbige Laternen",
+  "name_en": "Glassblowing and Stained Lantern Crafting",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_074_blown_glass",
+      "arabic": "الزُّجَاجُ المَنْفُوخُ يَدَوِيًّا",
+      "german": "das mundgeblasene Kunstglas",
+      "english": "hand-blown artistic glass",
+      "image_key": "asset_glass_hand_blown"
+    },
+    {
+      "id": "concept_075_stained_lantern",
+      "arabic": "القِنْدِيلُ الزُّجَاجِيُّ المُلَوَّنُ",
+      "german": "die bunte Glaslaterne",
+      "english": "the stained glass lantern",
+      "image_key": "asset_glass_stained_lantern"
+    },
+    {
+      "id": "concept_076_glass_blowpipe",
+      "arabic": "أُنْبُوبُ النَّفْخِ الحَدِيدِيُّ",
+      "german": "die eiserne Glasmacherpfeife",
+      "english": "the iron glassmaking blowpipe",
+      "image_key": "asset_glass_blowpipe"
+    }
+  ]
+}
