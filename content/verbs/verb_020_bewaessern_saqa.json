@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_020",
+  "root_ar": "س-ق-ي",
+  "infinitive_ar": "سَقَى - يَسْقِي",
+  "infinitive_de": "bewässern",
+  "infinitive_en": "to irrigate",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَسْقِي الزَّرْعَ صَبَاحًا",
+      "de_ich": "ich bewässere die Pflanzen am Morgen",
+      "en_i": "I irrigate the crops in the morning"
+    },
+    "past": {
+      "ar_ana": "أَنَا سَقَيْتُ البُسْتَانَ",
+      "de_ich": "ich habe den Garten bewässert",
+      "en_i": "I irrigated the garden"
+    }
+  }
+}

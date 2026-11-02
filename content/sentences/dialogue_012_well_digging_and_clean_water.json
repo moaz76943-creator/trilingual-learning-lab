@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_012",
+  "title_ar": "حَفْرُ بِئْرِ المَاءِ العَذْبِ وَسُقْيَا المَاءِ",
+  "title_de": "Brunnenbau für sauberes Wasser und Nächstenliebe",
+  "title_en": "Digging the Fresh Water Well and Community Charity",
+  "cefr_level": "A2",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "أَحَدُ أَهْلِ القَرْيَةِ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، هَلْ وَصَلْتُمْ إِلَى طَبَقَاتِ المَاءِ العَذْبِ الصَّافِي؟",
+      "de": "Guten Tag! Haben Sie die Schichten des reinen Süßwassers erreicht?",
+      "en": "Peace be upon you! Have you reached the layers of pure fresh water?"
+    },
+    {
+      "turn": 2,
+      "speaker": "حَفَّارُ الآبَارِ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ، أَبْشِرْ بِالخَيْرِ؛ نَبَعَ المَاءُ الزُّلاَلُ عَلَى عُمْقِ عِشْرِينَ مِتْرًا.",
+      "de": "Willkommen! Freuen Sie sich über die gute Nachricht; klares Quellwasser sprudelt in zwanzig Metern Tiefe.",
+      "en": "Welcome! Glad tidings; pure crystal water has surfaced at a depth of twenty meters."
+    },
+    {
+      "turn": 3,
+      "speaker": "أَحَدُ أَهْلِ القَرْيَةِ",
+      "ar": "الحَمْدُ للهِ! سُقْيَا المَاءِ مِنْ أَعْظَمِ الصَّدَقَاتِ الَّتِي تَنْفَعُ النَّاسَ وَالدَّوَابَّ.",
+      "de": "Gott sei Dank! Das Spenden von Wasser ist eine der edelsten Taten, die Mensch und Natur nützt.",
+      "en": "Praise be to God! Providing water is among the greatest charitable acts that benefit people and nature."
+    }
+  ]
+}

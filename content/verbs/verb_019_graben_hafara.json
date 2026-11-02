@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_019",
+  "root_ar": "ح-ف-ر",
+  "infinitive_ar": "حَفَرَ - يَحْفِرُ",
+  "infinitive_de": "graben",
+  "infinitive_en": "to dig",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَحْفِرُ بِئْرَ المَاءِ",
+      "de_ich": "ich grabe den Brunnen",
+      "en_i": "I dig the water well"
+    },
+    "past": {
+      "ar_ana": "أَنَا حَفَرْتُ فِي الأَرْضِ",
+      "de_ich": "ich habe gegraben",
+      "en_i": "I dug into the ground"
+    }
+  }
+}

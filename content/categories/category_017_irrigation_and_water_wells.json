@@ -1,0 +1,30 @@
+{
+  "id": "category_017",
+  "name_ar": "عُلُومُ اليَنَابِيعِ وَالآبَارِ وَالرَّيِّ",
+  "name_de": "Quellkunde, Brunnenbau und Bewässerung",
+  "name_en": "Springs, Water Wells and Irrigation",
+  "cefr_level": "A2",
+  "concepts": [
+    {
+      "id": "concept_053_fresh_well",
+      "arabic": "البِئْرُ العَمِيقَةُ العَذْبَةُ",
+      "german": "der tiefe Süßwasserbrunnen",
+      "english": "the deep fresh water well",
+      "image_key": "asset_water_fresh_well"
+    },
+    {
+      "id": "concept_054_flowing_spring",
+      "arabic": "العَيْنُ الجَارِيَةُ الصَّافِيَةُ",
+      "german": "die klare, fließende Quelle",
+      "english": "the clear, flowing spring",
+      "image_key": "asset_water_flowing_spring"
+    },
+    {
+      "id": "concept_055_irrigation_canal",
+      "arabic": "قَنَاةُ الرَّيِّ المُنَظَّمَةُ",
+      "german": "der geordnete Bewässerungskanal",
+      "english": "the organized irrigation canal",
+      "image_key": "asset_water_irrigation_canal"
+    }
+  ]
+}
