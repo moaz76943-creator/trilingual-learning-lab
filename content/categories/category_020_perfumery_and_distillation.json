@@ -1,0 +1,30 @@
+{
+  "id": "category_020",
+  "name_ar": "تَقْطِيرُ الزُّهُورِ وَصِنَاعَةُ الطِّيبِ",
+  "name_de": "Blütendestillation und reine Naturparfümerie",
+  "name_en": "Floral Distillation and Natural Perfumery",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_062_distilled_rosewater",
+      "arabic": "مَاءُ الوَرْدِ المُقَطَّرُ النَّقِيُّ",
+      "german": "das reine destillierte Rosenwasser",
+      "english": "pure distilled rosewater",
+      "image_key": "asset_perfume_rosewater"
+    },
+    {
+      "id": "concept_063_copper_alembic",
+      "arabic": "جِهَازُ التَّقْطِيرِ النُّحَاسِيُّ",
+      "german": "die traditionelle Kupferdestille",
+      "english": "the traditional copper alembic",
+      "image_key": "asset_perfume_copper_still"
+    },
+    {
+      "id": "concept_064_pure_musk",
+      "arabic": "المِسْكُ الخَالِصُ الصَّافِي",
+      "german": "der edle und reine Moschusduft",
+      "english": "pure noble musk",
+      "image_key": "asset_perfume_pure_musk"
+    }
+  ]
+}

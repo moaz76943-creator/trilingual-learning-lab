@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_026",
+  "root_ar": "ف-ي-ح",
+  "infinitive_ar": "فَاحَ - يَفُوحُ",
+  "infinitive_de": "duften",
+  "infinitive_en": "to diffuse fragrance",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_hawa": "يَفُوحُ العِطْرُ الطَّيِّبُ فِي المَجْلِسِ",
+      "de_es": "der Duft erfüllt wohltuend den Raum",
+      "en_it": "the pleasant scent fills the room"
+    },
+    "past": {
+      "ar_hawa": "فَاحَتْ رَائِحَةُ المِسْكِ",
+      "de_es": "der Moschusduft duftete herrlich",
+      "en_it": "the musk fragrance diffused beautifully"
+    }
+  }
+}

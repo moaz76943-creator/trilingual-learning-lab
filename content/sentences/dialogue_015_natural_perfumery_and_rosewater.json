@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_015",
+  "title_ar": "عِنْدَ صَانِعِ العُطُورِ وَتَقْطِيرِ مَاءِ الوَرْدِ",
+  "title_de": "Beim traditionellen Parfümeur und der Rosenwasserdestillation",
+  "title_en": "At the Natural Perfumer and Rosewater Distillation",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُشْتَرِي",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَا هَذِهِ الرَّائِحَةُ الزَّكِيَّةُ الَّتِي تَمْلَأُ الدُّكَّانَ؟",
+      "de": "Guten Tag! Welch herrlicher Duft erfüllt diesen ganzen Laden?",
+      "en": "Good day! What is this exquisite fragrance that fills the entire shop?"
+    },
+    {
+      "turn": 2,
+      "speaker": "العَطَّارُ الصَّانِعُ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَقُومُ الآنَ بِتَقْطِيرِ مَاءِ الوَرْدِ الدِّمَشْقِيِّ بِالمِقْطَرَةِ النُّحَاسِيَّةِ.",
+      "de": "Willkommen! Wir destillieren gerade frisches Rosenwasser in der traditionellen Kupferdestille.",
+      "en": "Welcome! We are currently distilling fresh rosewater using the traditional copper alembic."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُشْتَرِي",
+      "ar": "سُبْحَانَ مَنْ أَوْدَعَ فِي هَذِهِ الأَزْهَارِ البَسِيطَةِ هَذَا الشَّذَى العَطِرَ!",
+      "de": "Gepriesen sei Gott, der in diese zarten Blüten einen so wunderbaren Wohlgeruch gelegt hat!",
+      "en": "Glory be to God, who placed in these delicate blossoms such a delightful aroma!"
+    }
+  ]
+}
