@@ -36705,5 +36705,8 @@
   "asset_arch_carved_stone": "content/assets/svg/arch_carved_stone.svg",
   "asset_arch_geometric_arch": "content/assets/svg/arch_geometric_arch.svg",
   "asset_arch_master_builder": "content/assets/svg/arch_master_builder.svg",
-  "asset_arch_solid_foundation": "content/assets/svg/arch_solid_foundation.svg"
+  "asset_arch_solid_foundation": "content/assets/svg/arch_solid_foundation.svg",
+  "asset_env_solar_energy": "content/assets/svg/env_solar_energy.svg",
+  "asset_env_water_conservation": "content/assets/svg/env_water_conservation.svg",
+  "asset_env_beneficial_planting": "content/assets/svg/env_beneficial_planting.svg"
 }

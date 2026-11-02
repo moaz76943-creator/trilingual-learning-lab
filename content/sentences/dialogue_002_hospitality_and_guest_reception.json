@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_002",
+  "title_ar": "إِكْرَامُ الضَّيْفِ وَحُسْنُ الاسْتِقْبَالِ",
+  "title_de": "Gastfreundschaft und herzlicher Empfang",
+  "title_en": "Hospitality and Warm Reception",
+  "cefr_level": "A2",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُضِيفُ",
+      "ar": "أَهْلًا وَسَهْلًا بِكُمْ، حَلَلْتُمْ أَهْلًا وَوَطِئْتُمْ سَهْلًا، البَيْتُ بَيْتُكُمْ.",
+      "de": "Herzlich willkommen bei uns! Fühlen Sie sich ganz wie zu Hause.",
+      "en": "A very warm welcome to you! Please make yourself completely at home."
+    },
+    {
+      "turn": 2,
+      "speaker": "الضَّيْفُ",
+      "ar": "أَكْرَمَكُمُ اللهُ وَبَارَكَ فِي كَرَمِكُمْ وَطِيبِ مَجْلِسِكُمْ.",
+      "de": "Möge Gott Sie segnen und Ihre edle Großzügigkeit belohnen.",
+      "en": "May God bless you and reward your noble generosity and warmth."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُضِيفُ",
+      "ar": "تَفَضَّلُوا بِتَنَاوُلِ القَهْوَةِ الطَّيِّبَةِ وَالتَّمْرِ الزَّكِيِّ.",
+      "de": "Bitte bedienen Sie sich mit diesem guten Kaffee und den frischen Datteln.",
+      "en": "Please enjoy this wonderful coffee and fresh wholesome dates."
+    }
+  ]
+}

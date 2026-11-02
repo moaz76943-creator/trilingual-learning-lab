@@ -1,0 +1,30 @@
+{
+  "id": "category_007",
+  "name_ar": "الطَّاقَةُ النَّظِيفَةُ وَحِمَايَةُ البِيئَةِ",
+  "name_de": "Saubere Energie und Umweltschutz",
+  "name_en": "Clean Energy and Environmental Protection",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_023_solar_energy",
+      "arabic": "الطَّاقَةُ الشَّمْسِيَّةُ النَّظِيفَةُ",
+      "german": "die saubere Solarenergie",
+      "english": "clean solar energy",
+      "image_key": "asset_env_solar_energy"
+    },
+    {
+      "id": "concept_024_water_conservation",
+      "arabic": "تَرْشِيدُ المَوَارِدِ المَائِيَّةِ",
+      "german": "die Schonung der Wasserressourcen",
+      "english": "conservation of water resources",
+      "image_key": "asset_env_water_conservation"
+    },
+    {
+      "id": "concept_025_beneficial_planting",
+      "arabic": "الغَرْسُ البِيئِيُّ النَّافِعُ",
+      "german": "das nützliche ökologische Pflanzen",
+      "english": "beneficial ecological planting",
+      "image_key": "asset_env_beneficial_planting"
+    }
+  ]
+}
