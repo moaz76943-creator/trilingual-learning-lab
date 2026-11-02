@@ -36741,5 +36741,8 @@
   "asset_water_irrigation_canal": "content/assets/svg/water_irrigation_canal.svg",
   "asset_leather_vegetable_tanned": "content/assets/svg/leather_vegetable_tanned.svg",
   "asset_leather_waxed_thread": "content/assets/svg/leather_waxed_thread.svg",
-  "asset_leather_craft_awl": "content/assets/svg/leather_craft_awl.svg"
+  "asset_leather_craft_awl": "content/assets/svg/leather_craft_awl.svg",
+  "asset_wood_solid_hardwood": "content/assets/svg/wood_solid_hardwood.svg",
+  "asset_wood_carving_chisel": "content/assets/svg/wood_carving_chisel.svg",
+  "asset_wood_shell_inlay": "content/assets/svg/wood_shell_inlay.svg"
 }

@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_014",
+  "title_ar": "عِنْدَ نَحَّاتِ الخَشَبِ وَالتَّطْعِيمِ الهَنْدَسِيِّ",
+  "title_de": "Beim Holzschnitzer und traditioneller Intarsienkunst",
+  "title_en": "At the Woodcarver and Geometric Inlay Workshop",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "الزَّائِرُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَا أَبْرَعَ هَذِهِ النُّقُوشَ الخَشَبِيَّةَ المُعَشَّقَةَ بِالصَّدَفِ النَّقِيِّ!",
+      "de": "Guten Tag! Wie meisterhaft diese Holzschnitzereien mit reinen Perlmutteinlagen verziert sind!",
+      "en": "Good day! How masterfully these wooden carvings are inlaid with pure mother-of-pearl!"
+    },
+    {
+      "turn": 2,
+      "speaker": "النَّجَّارُ الحِرَفِيُّ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَعْتَمِدُ عَلَى خَشَبِ الجَوْزِ الصَّلْدِ وَنَقْطَعُ قِطَعَ الصَّدَفِ بِتَنَاسُقٍ هَنْدَسِيٍّ دَقِيقٍ.",
+      "de": "Willkommen! Wir nutzen massives Walnussholz und schneiden die Perlmuttelemente in präziser Geometrie.",
+      "en": "Welcome! We use solid walnut wood and cut the mother-of-pearl pieces in precise geometric alignment."
+    },
+    {
+      "turn": 3,
+      "speaker": "الزَّائِرُ",
+      "ar": "هَذَا فَنٌّ عَرِيقٌ يَجْمَعُ بَيْنَ الصَّبْرِ الجَمِيلِ وَالإِتْقَانِ العَالِي.",
+      "de": "Dies ist eine edle Kunst, die geduldige Ausdauer mit höchster handwerklicher Meisterschaft vereint.",
+      "en": "This is a noble art that combines patient perseverance with exceptional craftsmanship."
+    }
+  ]
+}

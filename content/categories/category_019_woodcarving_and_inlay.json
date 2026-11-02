@@ -1,0 +1,30 @@
+{
+  "id": "category_019",
+  "name_ar": "فُنُونُ النَّحْتِ عَلَى الخَشَبِ وَالتَّطْعِيمِ",
+  "name_de": "Holzschnitzkunst und Intarsien",
+  "name_en": "Woodcarving Arts and Inlay",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_059_hardwood",
+      "arabic": "الخَشَبُ الصَّلْدُ الأَصِيلُ",
+      "german": "das massive Edelholz",
+      "english": "authentic hardwood",
+      "image_key": "asset_wood_solid_hardwood"
+    },
+    {
+      "id": "concept_060_carving_chisel",
+      "arabic": "إِزْمِيلُ النَّحَّاتِ الدَّقِيقُ",
+      "german": "der präzise Schnitzmeißel",
+      "english": "the precise carving chisel",
+      "image_key": "asset_wood_carving_chisel"
+    },
+    {
+      "id": "concept_061_mother_of_pearl_inlay",
+      "arabic": "التَّطْعِيمُ الصَّدَفِيُّ البَدِيعُ",
+      "german": "die kunstvolle Perlmutteinlage",
+      "english": "the exquisite mother-of-pearl inlay",
+      "image_key": "asset_wood_shell_inlay"
+    }
+  ]
+}

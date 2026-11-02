@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_024",
+  "root_ar": "ر-ك-ب",
+  "infinitive_ar": "رَكَّبَ - يُرَكِّبُ",
+  "infinitive_de": "zusammenfügen",
+  "infinitive_en": "to assemble",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أُرَكِّبُ الأَجْزَاءَ بِدِقَّةٍ",
+      "de_ich": "ich füge die Teile präzise zusammen",
+      "en_i": "I assemble the parts precisely"
+    },
+    "past": {
+      "ar_ana": "أَنَا رَكَّبْتُ البَابَ الخَشَبِيَّ",
+      "de_ich": "ich habe die Holztür zusammengefügt",
+      "en_i": "I assembled the wooden door"
+    }
+  }
+}
