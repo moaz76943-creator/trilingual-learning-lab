@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_021",
+  "root_ar": "د-ب-غ",
+  "infinitive_ar": "دَبَغَ - يَدْبُغُ",
+  "infinitive_de": "gerben",
+  "infinitive_en": "to tan leather",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَدْبُغُ الجِلْدَ بِالبَلُّوطِ",
+      "de_ich": "ich gerbe das Leder mit Eichenrinde",
+      "en_i": "I tan the leather with oak bark"
+    },
+    "past": {
+      "ar_ana": "أَنَا دَبَغْتُ الجِلْدَ",
+      "de_ich": "ich habe das Leder gegerbt",
+      "en_i": "I tanned the leather"
+    }
+  }
+}

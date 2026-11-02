@@ -1,0 +1,30 @@
+{
+  "id": "category_018",
+  "name_ar": "الدِّبَاغَةُ النَّبَاتِيَّةُ وَحِرَفُ الجُلُودِ",
+  "name_de": "Pflanzliche Gerberei und Lederhandwerk",
+  "name_en": "Vegetable Tanning and Leather Crafting",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_056_vegetable_leather",
+      "arabic": "الجِلْدُ المَدْبُوغُ نَبَاتِيًّا",
+      "german": "das pflanzlich gegerbte Leder",
+      "english": "vegetable-tanned leather",
+      "image_key": "asset_leather_vegetable_tanned"
+    },
+    {
+      "id": "concept_057_waxed_thread",
+      "arabic": "الخَيْطُ المُشَمَّعُ المَتِينُ",
+      "german": "der gewachste stabile Faden",
+      "english": "the durable waxed thread",
+      "image_key": "asset_leather_waxed_thread"
+    },
+    {
+      "id": "concept_058_leather_awl",
+      "arabic": "مِخْرَزُ الجِلْدِ الدَّقِيقُ",
+      "german": "die feine Ahle",
+      "english": "the fine leather awl",
+      "image_key": "asset_leather_craft_awl"
+    }
+  ]
+}

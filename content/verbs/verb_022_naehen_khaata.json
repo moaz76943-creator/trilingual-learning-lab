@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_022",
+  "root_ar": "خ-ي-ط",
+  "infinitive_ar": "خَاطَ - يَخِيطُ",
+  "infinitive_de": "nähen",
+  "infinitive_en": "to sew",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَخِيطُ ثَوْبًا نَظِيفًا",
+      "de_ich": "ich nähe ein sauberes Gewand",
+      "en_i": "I sew a clean garment"
+    },
+    "past": {
+      "ar_ana": "أَنَا خِطْتُ الثَّوْبَ بِإِتْقَانٍ",
+      "de_ich": "ich habe das Gewand sorgfältig genäht",
+      "en_i": "I sewed the garment carefully"
+    }
+  }
+}

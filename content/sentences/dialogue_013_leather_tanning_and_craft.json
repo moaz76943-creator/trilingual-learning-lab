@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_013",
+  "title_ar": "عِنْدَ دَبَّاغِ الجُلُودِ وَالدِّبَاغَةِ الطَّبِيعِيَّةِ",
+  "title_de": "Beim traditionellen Gerber und pflanzlicher Gerbung",
+  "title_en": "At the Traditional Leather Tanner and Vegetable Tanning",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُتَعَلِّمُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، كَيْفَ تَحْفَظُونَ الجُلُودَ لِتَبْقَى مَتِينَةً سِنِينَ طَوِيلَةً؟",
+      "de": "Guten Tag! Wie behandeln Sie das Leder, damit es viele Jahre haltbar bleibt?",
+      "en": "Good day! How do you treat the leather so it remains durable for many years?"
+    },
+    {
+      "turn": 2,
+      "speaker": "الدَّبَّاغُ الأَمِينُ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَسْتَخْدِمُ لِحَاءَ شَجَرِ البَلُّوطِ وَالمَوَادَّ النَّبَاتِيَّةَ النَّقِيَّةَ فِي الدِّبَاغَةِ.",
+      "de": "Willkommen! Wir nutzen Eichenrinde und reine pflanzliche Extrakte für die traditionelle Gerbung.",
+      "en": "Welcome! We use oak bark and pure vegetable extracts for traditional tanning."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُتَعَلِّمُ",
+      "ar": "مَا أَجْمَلَ هَذِهِ الصِّنَاعَةَ الصَّدِيقَةَ لِلْبِيئَةِ وَالخَالِيَةَ مِنَ المَوَادِّ الضَّارَّةِ!",
+      "de": "Wie wunderbar dieses umweltfreundliche Handwerk ist, das frei von schädlichen Chemikalien ist!",
+      "en": "How wonderful this eco-friendly craft is, entirely free from harmful chemicals!"
+    }
+  ]
+}
