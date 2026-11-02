@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_013",
+  "root_ar": "ج-ن-ي",
+  "infinitive_ar": "جَنَى - يَجْنِي",
+  "infinitive_de": "ernten",
+  "infinitive_en": "to harvest",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَجْنِي الثِّمَارَ النَّاضِجَةَ",
+      "de_ich": "ich ernte die reifen Früchte",
+      "en_i": "I harvest the ripe fruits"
+    },
+    "past": {
+      "ar_ana": "أَنَا جَنَيْتُ العَسَلَ النَّقِيَّ",
+      "de_ich": "ich habe den reinen Honig geerntet",
+      "en_i": "I harvested the pure honey"
+    }
+  }
+}

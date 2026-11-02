@@ -1,0 +1,30 @@
+{
+  "id": "category_014",
+  "name_ar": "عَالَمُ النَّحْلِ وَإِنْتَاجُ العَسَلِ",
+  "name_de": "Bienenhaltung und Honigproduktion",
+  "name_en": "Beekeeping and Honey Production",
+  "cefr_level": "A2",
+  "concepts": [
+    {
+      "id": "concept_044_beehive",
+      "arabic": "خَلِيَّةُ النَّحْلِ المُنَظَّمَةُ",
+      "german": "der geordnete Bienenstock",
+      "english": "the organized beehive",
+      "image_key": "asset_bee_hive"
+    },
+    {
+      "id": "concept_045_honeycomb",
+      "arabic": "قُرْصُ الشَّمْعِ الطَّبِيعِيُّ",
+      "german": "die natürliche Bienenwabe",
+      "english": "the natural honeycomb",
+      "image_key": "asset_bee_comb"
+    },
+    {
+      "id": "concept_046_pollination",
+      "arabic": "تَلْقِيحُ الأَزْهَارِ النَّافِعُ",
+      "german": "die nützliche Bestäubung der Blüten",
+      "english": "the beneficial pollination of flowers",
+      "image_key": "asset_bee_pollination"
+    }
+  ]
+}

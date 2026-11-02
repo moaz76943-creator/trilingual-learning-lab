@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_009",
+  "title_ar": "فِي المَنْحَلِ وَجَنْيِ العَسَلِ النَّقِيِّ",
+  "title_de": "In der Imkerei und die Ernte des reinen Honigs",
+  "title_en": "At the Apiary and Harvesting Pure Honey",
+  "cefr_level": "A2",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُتَدَرِّبُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، سُبْحَانَ اللهِ! كَيْفَ يَعِيشُ النَّحْلُ بِهَذَا النِّظَامِ الدَّقِيقِ؟",
+      "de": "Guten Tag! Wie erstaunlich! Wie lebt das Bienenvolk in so vollkommener Ordnung?",
+      "en": "Good day! How amazing! How do bees live in such perfect organization?"
+    },
+    {
+      "turn": 2,
+      "speaker": "النَّحَّالُ الحَكِيمُ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. هِيَ آيَةٌ فِي التَّعَاوُنِ؛ كُلُّ نَحْلَةٍ تَعْرِفُ وَاجِبَهَا فِي جَمْعِ رَحِيقِ الأَزْهَارِ.",
+      "de": "Willkommen! Es ist ein Vorbild an Zusammenarbeit; jede Biene kennt ihre Aufgabe beim Sammeln des Blütennektars.",
+      "en": "Welcome! It is an example of cooperation; every bee knows its duty in collecting floral nectar."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُتَدَرِّبُ",
+      "ar": "مَا أَنْقَى هَذَا العَسَلَ الَّذِي فِيهِ شِفَاءٌ وَغِذَاءٌ لِلنَّاسِ!",
+      "de": "Wie rein dieser Honig ist, der Nahrung und Wohltat für die Menschen bringt!",
+      "en": "How pure this honey is, which brings nourishment and wholesome benefit to people!"
+    }
+  ]
+}

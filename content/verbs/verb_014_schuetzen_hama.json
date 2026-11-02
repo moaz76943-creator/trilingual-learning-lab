@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_014",
+  "root_ar": "ح-م-ي",
+  "infinitive_ar": "حَمَى - يَحْمِي",
+  "infinitive_de": "schützen",
+  "infinitive_en": "to protect",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَحْمِي المَنْحَلَ بِعِنَايَةٍ",
+      "de_ich": "ich schütze die Bienen sorgfältig",
+      "en_i": "I protect the apiary carefully"
+    },
+    "past": {
+      "ar_ana": "أَنَا حَمَيْتُ البِيئَةَ الطَّبِيعِيَّةَ",
+      "de_ich": "ich habe die Natur geschützt",
+      "en_i": "I protected the natural environment"
+    }
+  }
+}
