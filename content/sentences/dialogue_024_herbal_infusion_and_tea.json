@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_024",
+  "title_ar": "عِنْدَ صَانِعِ المَشْرُوبَاتِ العُشْبِيَّةِ النَّافِعَةِ",
+  "title_de": "Beim Kräutermeister und traditioneller Teekunst",
+  "title_en": "At the Herbal Infusions and Wholesome Teas Artisan",
+  "cefr_level": "A2",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "الزَّائِرُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَاذَا تَنْصَحُنِي لِمَشْرُوبٍ دَافِئٍ يُرِيحُ البَدَنَ بَعْدَ يَوْمِ عَمَلٍ؟",
+      "de": "Guten Tag! Was empfehlen Sie für einen wärmenden Kräutertee, der den Körper am Abend entspannt?",
+      "en": "Good day! What do you recommend for a warm herbal infusion to relax the body after work?"
+    },
+    {
+      "turn": 2,
+      "speaker": "العَطَّارُ الحَكِيمُ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. أَنْصَحُكَ بِمَزِيجِ زُهُورِ البَابُونِجِ البَرِّيِّ وَأَوْرَاقِ النَّعْنَاعِ البَلَدِيِّ.",
+      "de": "Willkommen! Ich empfehle Ihnen eine Mischung aus wilden Kamillenblüten und frischen Minzblättern.",
+      "en": "Welcome! I recommend a blend of wild chamomile blossoms and fresh fragrant mint leaves."
+    },
+    {
+      "turn": 3,
+      "speaker": "الزَّائِرُ",
+      "ar": "سُبْحَانَ مَنْ جَعَلَ فِي هَذِهِ الأَعْشَابِ البَسِيطَةِ رَاحَةً وَسَكِينَةً!",
+      "de": "Gepriesen sei der Schöpfer, der in diese schlichten Pflanzen Ruhe und Wohlbefinden gelegt hat!",
+      "en": "Glory be to the Creator, who placed peace and comfort in these simple plants!"
+    }
+  ]
+}

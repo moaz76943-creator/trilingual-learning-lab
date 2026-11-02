@@ -1,0 +1,30 @@
+{
+  "id": "category_029",
+  "name_ar": "عُلُومُ الأَعْشَابِ وَالمَشْرُوبَاتِ الدَّافِئَةِ",
+  "name_de": "Kräuterkunde und wärmende Aufgüsse",
+  "name_en": "Herbal Botany and Warming Infusions",
+  "cefr_level": "A2",
+  "concepts": [
+    {
+      "id": "concept_089_chamomile_blossoms",
+      "arabic": "زُهُورُ البَابُونِجِ البَرِّيِّ",
+      "german": "die wilden Kamillenblüten",
+      "english": "wild chamomile blossoms",
+      "image_key": "asset_tea_chamomile"
+    },
+    {
+      "id": "concept_090_fragrant_mint",
+      "arabic": "أَوْرَاقُ النَّعْنَاعِ العَطِرِ",
+      "german": "die duftenden Minzblätter",
+      "english": "fragrant mint leaves",
+      "image_key": "asset_tea_mint_leaves"
+    },
+    {
+      "id": "concept_091_clay_teapot",
+      "arabic": "إِبْرِيقُ الشَّايِ الخَزَفِيُّ",
+      "german": "die traditionelle Teekanne aus Ton",
+      "english": "the traditional clay teapot",
+      "image_key": "asset_tea_clay_pot"
+    }
+  ]
+}

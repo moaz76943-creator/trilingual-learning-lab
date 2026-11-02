@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_043",
+  "root_ar": "ن-ق-ع",
+  "infinitive_ar": "نَقَعَ - يَنْقَعُ",
+  "infinitive_de": "aufbrühen / ziehen lassen",
+  "infinitive_en": "to steep / infuse",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَنْقَعُ الزُّهُورَ فِي المَاءِ السَّاخِنِ",
+      "de_ich": "ich brühe die Blüten im heißen Wasser auf",
+      "en_i": "I steep the blossoms in hot water"
+    },
+    "past": {
+      "ar_ana": "أَنَا نَقَعْتُ الأَعْشَابَ لِعَشْرِ دَقَائِقَ",
+      "de_ich": "ich habe die Kräuter ziehen lassen",
+      "en_i": "I steeped the herbs for ten minutes"
+    }
+  }
+}

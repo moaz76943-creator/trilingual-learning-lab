@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_044",
+  "root_ar": "خ-م-ر",
+  "infinitive_ar": "خَمَّرَ - يُخَمِّرُ",
+  "infinitive_de": "fermentieren / reifen lassen",
+  "infinitive_en": "to brew / age naturally",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أُخَمِّرُ العَجِينَ بِالخَمِيرَةِ البَلَدِيَّةِ",
+      "de_ich": "ich lasse den Teig natürlich reifen",
+      "en_i": "I let the dough ferment naturally"
+    },
+    "past": {
+      "ar_ana": "خَمَّرْتُ الخَلِيطَ الطَّبِيعِيَّ",
+      "de_ich": "ich habe die Mischung reifen lassen",
+      "en_i": "I fermented the natural mixture"
+    }
+  }
+}
