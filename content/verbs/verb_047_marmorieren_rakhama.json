@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_047",
+  "root_ar": "ر-خ-م",
+  "infinitive_ar": "رَخَّمَ - يُرَخِّمُ",
+  "infinitive_de": "marmorieren",
+  "infinitive_en": "to marble (paper)",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أُرَخِّمُ الوَرَقَ بِأَلْوَانٍ طَبِيعِيَّةٍ",
+      "de_ich": "ich marmoriere das Papier mit Naturfarben",
+      "en_i": "I marble the paper with natural colors"
+    },
+    "past": {
+      "ar_ana": "أَنَا رَخَّمْتُ أَغْلِفَةَ الكُتُبِ",
+      "de_ich": "ich habe die Bucheinbände marmoriert",
+      "en_i": "I marbled the book covers"
+    }
+  }
+}

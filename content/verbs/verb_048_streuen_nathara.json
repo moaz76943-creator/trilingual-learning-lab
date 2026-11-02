@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_048",
+  "root_ar": "ن-ث-ر",
+  "infinitive_ar": "نَثَرَ - يَنْثُرُ",
+  "infinitive_de": "streuen / spritzen",
+  "infinitive_en": "to scatter / sprinkle",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَنْثُرُ قَطَرَاتِ اللَّوْنِ بِالفُرْشَاةِ",
+      "de_ich": "ich spritze Farbtropfen mit dem Pinsel",
+      "en_i": "I sprinkle color droplets with the brush"
+    },
+    "past": {
+      "ar_ana": "أَنَا نَثَرْتُ الأَصْبَاغَ فَوْقَ المَاءِ",
+      "de_ich": "ich habe die Pigmente auf das Wasser gespritzt",
+      "en_i": "I sprinkled the pigments upon the water"
+    }
+  }
+}

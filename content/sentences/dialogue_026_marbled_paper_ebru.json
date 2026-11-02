@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_026",
+  "title_ar": "فِي وَرْشَةِ فَنِّ الإِبْرُو وَالتَّرْخِيمِ المَائِيِّ",
+  "title_de": "In der Ebru-Werkstatt und traditioneller Marmorpapierkunst",
+  "title_en": "At the Ebru Workshop and Traditional Water Marbling",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُتَعَلِّمُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَا أَعْجَبَ كَيْفَ تَطْفُو هَذِهِ الأَلْوَانُ فَوْقَ المَاءِ دُونَ أَنْ تَغْرَقَ!",
+      "de": "Guten Tag! Wie erstaunlich, wie diese Farben auf dem Wasser schweben, ohne unterzugehen!",
+      "en": "Good day! How amazing how these colors float on the water without sinking!"
+    },
+    {
+      "turn": 2,
+      "speaker": "فَنَّانُ الإِبْرُو",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نُكَثِّفُ المَاءَ بِمُسْتَخْلَصِ نَبَاتِ الكَتِيرَاءِ، وَنَنْثُرُ الأَصْبَاغَ التُّرَابِيَّةَ بِفُرْشَاةِ الخَيْلِ.",
+      "de": "Willkommen! Wir verdichten das Wasser mit Tragant und spritzen Erdfarben mit dem Rosshaarpinsel auf.",
+      "en": "Welcome! We thicken the water with tragacanth extract and scatter earth pigments with a horsehair brush."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُتَعَلِّمُ",
+      "ar": "وَحِينَ تَضَعُ صَحِيفَةَ الوَرَقِ فَوْقَ المَاءِ تَنْتَقِلُ اللَّوْحَةُ إِلَيْهَا كَأَنَّهَا سِحْرٌ طَبِيعِيٌّ!",
+      "de": "Und wenn Sie den Papierbogen auflegen, überträgt sich das Bild wie ein natürliches Wunder!",
+      "en": "And when you lay the paper sheet on the water, the painting transfers as if by natural wonder!"
+    }
+  ]
+}

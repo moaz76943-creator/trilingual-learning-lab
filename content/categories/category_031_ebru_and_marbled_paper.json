@@ -1,0 +1,30 @@
+{
+  "id": "category_031",
+  "name_ar": "فُنُونُ الإِبْرُو وَالتَّرْخِيمِ المَائِيِّ",
+  "name_de": "Ebru-Kunst und Marmorpapier",
+  "name_en": "Ebru Art and Water Marbling",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_095_marbled_paper",
+      "arabic": "الوَرَقُ المُرَخَّمُ البَدِيعُ",
+      "german": "das kunstvolle Marmorpapier",
+      "english": "the exquisite marbled paper",
+      "image_key": "asset_ebru_marbled_paper"
+    },
+    {
+      "id": "concept_096_thickened_tray",
+      "arabic": "حَوْضُ المَاءِ المُكَثَّفِ",
+      "german": "das verdichtete Wasserbad",
+      "english": "the thickened water tray",
+      "image_key": "asset_ebru_water_tray"
+    },
+    {
+      "id": "concept_097_horsehair_brush",
+      "arabic": "فُرْشَاةُ شَعْرِ الخَيْلِ المَرِنَةُ",
+      "german": "der feine Rosshaarpinsel",
+      "english": "the flexible horsehair brush",
+      "image_key": "asset_ebru_horsehair_brush"
+    }
+  ]
+}
