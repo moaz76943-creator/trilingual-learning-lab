@@ -1,0 +1,30 @@
+{
+  "id": "category_009",
+  "name_ar": "آدَابُ السَّفَرِ وَوَسَائِلُ التَّنَقُّلِ",
+  "name_de": "Reiseetikette und Transportmittel",
+  "name_en": "Travel Etiquette and Transportation",
+  "cefr_level": "A2",
+  "concepts": [
+    {
+      "id": "concept_029_safe_journey",
+      "arabic": "الرِّحْلَةُ المَيْمُونَةُ الآمِنَةُ",
+      "german": "die sichere und gesegnete Reise",
+      "english": "the safe and blessed journey",
+      "image_key": "asset_travel_safe_journey"
+    },
+    {
+      "id": "concept_030_train_station",
+      "arabic": "مَحَطَّةُ القِطَارِ المُنَظَّمَةُ",
+      "german": "der organisierte Bahnhof",
+      "english": "the organized train station",
+      "image_key": "asset_travel_train_station"
+    },
+    {
+      "id": "concept_031_travel_ticket",
+      "arabic": "تَذْكِرَةُ السَّفَرِ المُؤَكَّدَةُ",
+      "german": "die bestätigte Fahrkarte",
+      "english": "the confirmed travel ticket",
+      "image_key": "asset_travel_ticket"
+    }
+  ]
+}

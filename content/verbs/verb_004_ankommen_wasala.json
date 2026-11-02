@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_004",
+  "root_ar": "و-ص-ل",
+  "infinitive_ar": "وَصَلَ - يَصِلُ",
+  "infinitive_de": "ankommen",
+  "infinitive_en": "to arrive",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَصِلُ فِي المَوْعِدِ",
+      "de_ich": "ich komme pünktlich an",
+      "en_i": "I arrive on time"
+    },
+    "past": {
+      "ar_ana": "أَنَا وَصَلْتُ بِخَيْرٍ",
+      "de_ich": "ich bin gut angekommen",
+      "en_i": "I arrived safely"
+    }
+  }
+}

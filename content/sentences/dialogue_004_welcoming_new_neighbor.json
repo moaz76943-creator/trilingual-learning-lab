@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_004",
+  "title_ar": "التَّرْحِيبُ بِالجَارِ الجَدِيدِ وَأَدَبُ الجِوَارِ",
+  "title_de": "Begrüßung des neuen Nachbarn und Nachbarschaftsetikette",
+  "title_en": "Welcoming the New Neighbor and Neighborhood Etiquette",
+  "cefr_level": "A2",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "الجَارُ الأَصِيلُ",
+      "ar": "مَرْحَبًا بِكَ يَا جَارَنَا العَزِيزَ، نَوَّرْتَ الحَيَّ بِقُدُومِكَ المُبَارَكِ.",
+      "de": "Herzlich willkommen, unser lieber Nachbar! Ihre Ankunft bereichert unser Viertel.",
+      "en": "Welcome, our dear neighbor! Your arrival brightens our neighborhood."
+    },
+    {
+      "turn": 2,
+      "speaker": "الجَارُ الجَدِيدُ",
+      "ar": "حَيَّاكَ اللهُ وَبَيَّاكَ، جَزَاكَ اللهُ خَيْرًا عَلَى حُسْنِ اسْتِقْبَالِكَ وَلُطْفِكَ.",
+      "de": "Möge Gott Sie segnen! Vielen Dank für Ihren herzlichen Empfang und Ihre Freundlichkeit.",
+      "en": "May God bless you! Thank you very much for your warm reception and kindness."
+    },
+    {
+      "turn": 3,
+      "speaker": "الجَارُ الأَصِيلُ",
+      "ar": "نَحْنُ فِي خِدْمَتِكَ دَائِمًا، إِذَا احْتَجْتَ أَيَّ شَيْءٍ فَبَيْتُنَا بَيْتُكَ.",
+      "de": "Wir sind immer für Sie da. Wenn Sie etwas brauchen, ist unser Haus wie Ihr eigenes.",
+      "en": "We are always at your service. If you need anything, our home is your home."
+    }
+  ]
+}

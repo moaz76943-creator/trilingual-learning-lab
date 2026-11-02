@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_003",
+  "root_ar": "س-ف-ر",
+  "infinitive_ar": "سَافَرَ - يُسَافِرُ",
+  "infinitive_de": "reisen",
+  "infinitive_en": "to travel",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أُسَافِرُ بِسَلَامٍ",
+      "de_ich": "ich reise sicher",
+      "en_i": "I travel safely"
+    },
+    "past": {
+      "ar_ana": "أَنَا سَافَرْتُ",
+      "de_ich": "ich bin gereist",
+      "en_i": "I traveled"
+    }
+  }
+}
