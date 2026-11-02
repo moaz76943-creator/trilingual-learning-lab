@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_016",
+  "root_ar": "ط-ح-ن",
+  "infinitive_ar": "طَحَنَ - يَطْحَنُ",
+  "infinitive_de": "mahlen",
+  "infinitive_en": "to grind",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَطْحَنُ القَمْحَ بِالطَّاحُونَةِ",
+      "de_ich": "ich mahle das Korn in der Mühle",
+      "en_i": "I grind the wheat in the mill"
+    },
+    "past": {
+      "ar_ana": "أَنَا طَحَنْتُ الحُبُوبَ",
+      "de_ich": "ich habe das Getreide gemahlen",
+      "en_i": "I ground the grains"
+    }
+  }
+}

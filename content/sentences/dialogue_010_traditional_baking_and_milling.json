@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_010",
+  "title_ar": "فِي المَخْبَزِ التَّقْلِيدِيِّ وَطَحْنِ الحُبُوبِ",
+  "title_de": "In der traditionellen Bäckerei und Getreidemühle",
+  "title_en": "At the Traditional Bakery and Grain Mill",
+  "cefr_level": "A2",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُشْتَرِي",
+      "ar": "صَبَاحُ الخَيْرِ وَالبَرَكَةِ، مَا أَطْيَبَ رَائِحَةَ الخُبْزِ السَّاخِنِ النَّازِلِ مِنَ الفُرْنِ!",
+      "de": "Guten Morgen! Wie herrlich der Duft von frischem, warmem Brot aus dem Ofen ist!",
+      "en": "Good morning! How delightful the smell of fresh, warm bread from the oven is!"
+    },
+    {
+      "turn": 2,
+      "speaker": "الخَبَّازُ الأَمِينُ",
+      "ar": "أَهْلًا بِكَ! نَحْنُ نَطْحَنُ القَمْحَ الكَامِلَ حَدِيثًا وَنَعْجِنُهُ بِالخَمِيرَةِ الطَّبِيعِيَّةِ.",
+      "de": "Willkommen! Wir mahlen das volle Korn frisch und backen mit traditionellem Sauerteig.",
+      "en": "Welcome! We freshly grind the whole grain and bake using natural sourdough."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُشْتَرِي",
+      "ar": "أَعْطِنِي مِنْ فَضْلِكَ رَغِيفَيْنِ، بَارَكَ اللهُ فِي عَمَلِكَ وَرِزْقِكَ.",
+      "de": "Geben Sie mir bitte zwei Laibe. Möge Gott Ihre Arbeit und Ihren Lebensunterhalt segnen.",
+      "en": "Please give me two loaves. May God bless your work and your livelihood."
+    }
+  ]
+}

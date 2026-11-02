@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_015",
+  "root_ar": "خ-ب-ز",
+  "infinitive_ar": "خَبَزَ - يَخْبِزُ",
+  "infinitive_de": "backen",
+  "infinitive_en": "to bake",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَخْبِزُ خُبْزًا طَيِّبًا",
+      "de_ich": "ich backe frisches Brot",
+      "en_i": "I bake fresh bread"
+    },
+    "past": {
+      "ar_ana": "أَنَا خَبَزْتُ فِي الصَّبَاحِ",
+      "de_ich": "ich habe am Morgen gebacken",
+      "en_i": "I baked in the morning"
+    }
+  }
+}

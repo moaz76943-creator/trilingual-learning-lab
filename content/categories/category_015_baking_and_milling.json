@@ -1,0 +1,30 @@
+{
+  "id": "category_015",
+  "name_ar": "طَحْنُ الحُبُوبِ وَالخِبَازَةُ",
+  "name_de": "Getreidemüllerei und traditionelle Bäckerei",
+  "name_en": "Grain Milling and Traditional Baking",
+  "cefr_level": "A2",
+  "concepts": [
+    {
+      "id": "concept_047_wholegrain_flour",
+      "arabic": "الدَّقِيقُ الكَامِلُ الصِّحِّيُّ",
+      "german": "das gesunde Vollkornmehl",
+      "english": "healthy whole grain flour",
+      "image_key": "asset_bake_wholegrain_flour"
+    },
+    {
+      "id": "concept_048_natural_sourdough",
+      "arabic": "الخَمِيرَةُ البَلَدِيَّةُ الطَّبِيعِيَّةُ",
+      "german": "der traditionelle Natursauerteig",
+      "english": "the natural sourdough starter",
+      "image_key": "asset_bake_natural_sourdough"
+    },
+    {
+      "id": "concept_049_warm_bread",
+      "arabic": "رَغِيفُ الخُبْزِ الطَّازَجُ",
+      "german": "der frische Brotlaib",
+      "english": "the fresh loaf of bread",
+      "image_key": "asset_bake_warm_bread"
+    }
+  ]
+}
