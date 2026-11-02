@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_037",
+  "root_ar": "س-ب-ك",
+  "infinitive_ar": "سَبَكَ - يَسْبُكُ",
+  "infinitive_de": "schmieden / gießen",
+  "infinitive_en": "to cast / forge",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَسْبُكُ المَعْدِنَ الصَّلْبَ",
+      "de_ich": "ich schmiede das feste Metall",
+      "en_i": "I forge the solid metal"
+    },
+    "past": {
+      "ar_ana": "أَنَا سَبَكْتُ الفُولَاذَ",
+      "de_ich": "ich habe den Stahl geschmiedet",
+      "en_i": "I forged the steel"
+    }
+  }
+}

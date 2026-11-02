@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_021",
+  "title_ar": "عِنْدَ الحَدَّادِ التَّقْلِيدِيِّ وَطَرْقِ أَدَوَاتِ الزِّرَاعَةِ",
+  "title_de": "Beim traditionellen Schmied und Ackerwerkzeugen",
+  "title_en": "At the Traditional Blacksmith and Agricultural Tools",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُزَارِعُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، قَرُبَ مَوْسِمُ الحَصَادِ وَنَحْتَاجُ إِلَى صِيَانَةِ المَنَاجِلِ وَالمَحَارِيثِ.",
+      "de": "Guten Tag! Die Erntezeit naht und wir müssen unsere Sicheln und Pflüge instand setzen.",
+      "en": "Good day! Harvest season is approaching and we need to maintain our sickles and plows."
+    },
+    {
+      "turn": 2,
+      "speaker": "الحَدَّادُ الصَّانِعُ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. سَأُحْمِي الفُولَاذَ فِي الكِيرِ ثُمَّ أَحُدُّ النِّصَالَ لِتَكُونَ قَاطِعَةً مَتِينَةً.",
+      "de": "Willkommen! Ich werde den Stahl in der Esse erhitzen und die Schneiden schärfen, damit sie scharf und fest sind.",
+      "en": "Welcome! I will heat the steel in the forge and sharpen the blades so they are keen and sturdy."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُزَارِعُ",
+      "ar": "جَزَاكَ اللهُ خَيْرًا؛ فَبَرَكَةُ الزِّرَاعَةِ تَقُومُ عَلَى سَوَاعِدِ الصُّنَّاعِ المُخْلِصِينَ.",
+      "de": "Möge Gott Sie segnen; denn der Segen der Landwirtschaft ruht auf den Händen der gewissenhaften Handwerker.",
+      "en": "May God reward you with good; for the blessing of agriculture rests on the hands of dedicated craftsmen."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_038",
+  "root_ar": "ح-د-د",
+  "infinitive_ar": "حَدَّ - يَحُدُّ",
+  "infinitive_de": "schärfen",
+  "infinitive_en": "to sharpen",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَحُدُّ نَصْلَ السِّكِّينِ",
+      "de_ich": "ich schärfe die Klinge",
+      "en_i": "I sharpen the blade"
+    },
+    "past": {
+      "ar_ana": "أَنَا حَدَدْتُ المِنْجَلَ",
+      "de_ich": "ich habe die Sichel geschärft",
+      "en_i": "I sharpened the sickle"
+    }
+  }
+}

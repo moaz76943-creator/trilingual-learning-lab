@@ -1,0 +1,30 @@
+{
+  "id": "category_026",
+  "name_ar": "حِرْفَةُ الحِدَادَةِ وَأَدَوَاتُ الفِلَاحَةِ",
+  "name_de": "Schmiedehandwerk und landwirtschaftliche Werkzeuge",
+  "name_en": "Blacksmithing and Farming Implements",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_080_steel_anvil",
+      "arabic": "السِّنْدَانُ الفُولَاذِيُّ المَتِينُ",
+      "german": "der massive Stahlamboss",
+      "english": "the solid steel anvil",
+      "image_key": "asset_forge_steel_anvil"
+    },
+    {
+      "id": "concept_081_harvest_sickle",
+      "arabic": "المِنْجَلُ الحَادُّ لِلْحَصَادِ",
+      "german": "die scharfe Getreidesichel",
+      "english": "the sharp harvest sickle",
+      "image_key": "asset_forge_harvest_sickle"
+    },
+    {
+      "id": "concept_082_iron_plow",
+      "arabic": "المِحْرَاثُ الحَدِيدِيُّ لِشَقِّ الأَرْضِ",
+      "german": "der eiserne Ackerpflug",
+      "english": "the iron earth-turning plow",
+      "image_key": "asset_forge_iron_plow"
+    }
+  ]
+}
