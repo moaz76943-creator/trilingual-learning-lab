@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_025",
+  "title_ar": "بِنَاءُ مَظَلَّةِ الاسْتِرَاحَةِ لِعَابِرِي السَّبِيلِ",
+  "title_de": "Bau einer Rastlaube für Wanderer und Reisende",
+  "title_en": "Building a Rest Shade Pavilion for Travelers",
+  "cefr_level": "A2",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُتَطَوِّعُ الأَوَّلُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَا أَعْظَمَ نَفْعَ هَذِهِ المَظَلَّةِ الخَشَبِيَّةِ عَلَى قَارِعَةِ الطَّرِيقِ!",
+      "de": "Guten Tag! Wie segensreich diese hölzerne Rastlaube am Wegesrand für alle sein wird!",
+      "en": "Good day! How beneficial this wooden shade pavilion along the roadside will be for everyone!"
+    },
+    {
+      "turn": 2,
+      "speaker": "البَنَّاءُ المُتَطَوِّعُ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. سَنَرْفَعُ السَّقْفَ بِأَعْمِدَةِ السِّنْدِيَانِ لِيَسْتَظِلَّ بِهَا المُسَافِرُ فِي القَيْظِ.",
+      "de": "Willkommen! Wir stützen das Dach mit Eichenholzsäulen, damit Reisende in der Hitze kühlen Schatten finden.",
+      "en": "Welcome! We will support the roof with oak pillars so travelers find cool shade in the midday heat."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُتَطَوِّعُ الأَوَّلُ",
+      "ar": "وَسَنَضَعُ حَوْضَ مَاءٍ عَذْبٍ لِسُقْيَا الطَّيْرِ وَعَابِرِي السَّبِيلِ.",
+      "de": "Und wir werden ein Becken mit klarem Trinkwasser für Vögel und Wanderer bereitstellen.",
+      "en": "And we will place a fresh water basin for birds and passing travelers."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_045",
+  "root_ar": "ظ-ل-ل",
+  "infinitive_ar": "ظَلَّلَ - يُظَلِّلُ",
+  "infinitive_de": "beschatten",
+  "infinitive_en": "to shade",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أُظَلِّلُ المَمَرَّ بِالأَشْجَارِ",
+      "de_ich": "ich beschatte den Weg mit Bäumen",
+      "en_i": "I shade the pathway with trees"
+    },
+    "past": {
+      "ar_ana": "أَنَا ظَلَّلْتُ مَقْعَدَ الاسْتِرَاحَةِ",
+      "de_ich": "ich habe die Rastbank beschattet",
+      "en_i": "I shaded the rest bench"
+    }
+  }
+}

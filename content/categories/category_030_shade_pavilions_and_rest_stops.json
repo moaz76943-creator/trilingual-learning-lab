@@ -1,0 +1,30 @@
+{
+  "id": "category_030",
+  "name_ar": "مَظَلَّاتُ الاسْتِرَاحَةِ وَالمَرَافِقُ النَّافِعَةُ",
+  "name_de": "Rastlauben und gemeinnützige Wegearchitektur",
+  "name_en": "Shade Pavilions and Public Rest Architecture",
+  "cefr_level": "A2",
+  "concepts": [
+    {
+      "id": "concept_092_wooden_pavilion",
+      "arabic": "المَظَلَّةُ الخَشَبِيَّةُ الظَّلِيلَةُ",
+      "german": "die schattige Holzlaube",
+      "english": "the shaded wooden pavilion",
+      "image_key": "asset_rest_wooden_pavilion"
+    },
+    {
+      "id": "concept_093_stone_bench",
+      "arabic": "مَقْعَدُ الاسْتِرَاحَةِ الحَجَرِيُّ",
+      "german": "die solide steinerne Rastbank",
+      "english": "the sturdy stone rest bench",
+      "image_key": "asset_rest_stone_bench"
+    },
+    {
+      "id": "concept_094_public_fountain",
+      "arabic": "سَبِيلُ المَاءِ العَذْبِ المَبْذُولِ",
+      "german": "der öffentliche Trinkbrunnen",
+      "english": "the public fresh water fountain",
+      "image_key": "asset_rest_public_fountain"
+    }
+  ]
+}

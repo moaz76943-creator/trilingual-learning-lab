@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_046",
+  "root_ar": "ق-و-م",
+  "infinitive_ar": "أَقَامَ - يُقِيمُ",
+  "infinitive_de": "errichten / aufstellen",
+  "infinitive_en": "to erect / establish",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أُقِيمُ مَظَلَّةً لِلْمُسَافِرِينَ",
+      "de_ich": "ich errichte eine Laube für die Reisenden",
+      "en_i": "I erect a pavilion for travelers"
+    },
+    "past": {
+      "ar_ana": "أَنَا أَقَمْتُ جِدَارًا مَتِينًا",
+      "de_ich": "ich habe eine feste Mauer errichtet",
+      "en_i": "I erected a sturdy wall"
+    }
+  }
+}
