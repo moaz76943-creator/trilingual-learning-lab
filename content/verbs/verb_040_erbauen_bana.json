@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_040",
+  "root_ar": "ب-ن-ي",
+  "infinitive_ar": "بَنَى - يَبْنِي",
+  "infinitive_de": "erbauen / mauern",
+  "infinitive_en": "to build / erect",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَبْنِي جِدَارًا حَجَرِيًّا",
+      "de_ich": "ich erbaue eine Steinmauer",
+      "en_i": "I build a stone wall"
+    },
+    "past": {
+      "ar_ana": "أَنَا بَنَيْتُ بَيْتًا ثَابِتًا",
+      "de_ich": "ich habe ein festes Haus gebaut",
+      "en_i": "I built a steady house"
+    }
+  }
+}

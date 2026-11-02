@@ -1,0 +1,30 @@
+{
+  "id": "category_027",
+  "name_ar": "عُلُومُ البِنَاءِ بِالحَجَرِ وَالعُقُودِ",
+  "name_de": "Natursteinbau und Gewölbearchitektur",
+  "name_en": "Natural Stone Masonry and Vaulting",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_083_solid_limestone",
+      "arabic": "الحَجَرُ الكِلْسِيُّ الصَّلْدُ",
+      "german": "der massive Kalkstein",
+      "english": "solid limestone",
+      "image_key": "asset_stone_limestone"
+    },
+    {
+      "id": "concept_084_masonry_vault",
+      "arabic": "العَقْدُ المِعْمَارِيُّ المَتِينُ",
+      "german": "das solide gemauerte Gewölbe",
+      "english": "the solid masonry vault",
+      "image_key": "asset_stone_masonry_vault"
+    },
+    {
+      "id": "concept_085_plumb_line",
+      "arabic": "الشَّاقُولُ الدَّقِيقُ لِضَبْطِ البِنَاءِ",
+      "german": "das präzise Senklot",
+      "english": "the precise plumb line",
+      "image_key": "asset_stone_plumb_line"
+    }
+  ]
+}

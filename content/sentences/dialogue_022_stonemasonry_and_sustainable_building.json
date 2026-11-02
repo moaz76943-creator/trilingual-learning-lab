@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_022",
+  "title_ar": "عِنْدَ بَنَّاءِ الحَجَرِ وَالعِمَارَةِ المُسْتَدَامَةِ",
+  "title_de": "Beim Steinmetz und nachhaltigem Natursteinbau",
+  "title_en": "At the Stonemason and Sustainable Stone Architecture",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُهَنْدِسُ الشَّابُّ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، كَيْفَ تُحَقِّقُ هَذِهِ الجُدْرَانُ الحَجَرِيَّةُ العَزْلَ الحَرَارِيَّ الطَّبِيعِيَّ؟",
+      "de": "Guten Tag! Wie erreichen diese massiven Steinmauern eine so hervorragende natürliche Wärmedämmung?",
+      "en": "Good day! How do these solid stone walls achieve such excellent natural thermal insulation?"
+    },
+    {
+      "turn": 2,
+      "speaker": "البَنَّاءُ الخَبِيرُ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. سَمَاكَةُ الحَجَرِ الكِلْسِيِّ وَالمِلْطِ الجِيرِيِّ تَمْتَصُّ حَرَارَةَ النَّهَارِ وَتَبُثُّهَا لَيْلًا.",
+      "de": "Willkommen! Die Dicke des Kalksteins und der natürliche Kalkmörtel speichern die Tageswärme und geben sie nachts ab.",
+      "en": "Welcome! The thickness of limestone and natural lime mortar absorbs daytime heat and releases it at night."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُهَنْدِسُ الشَّابُّ",
+      "ar": "هَذِهِ عِمَارَةٌ بِيئِيَّةٌ أَصِيلَةٌ تُوَفِّرُ الطَّاقَةَ وَتَحْيَا مِئَاتِ السِّنِينَ.",
+      "de": "Das ist eine wahrhaft ökologische Architektur, die Energie spart und über Jahrhunderte besteht.",
+      "en": "This is truly ecological architecture that conserves energy and endures for centuries."
+    }
+  ]
+}

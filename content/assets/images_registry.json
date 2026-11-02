@@ -36765,5 +36765,8 @@
   "asset_cooper_grain_silo": "content/assets/svg/cooper_grain_silo.svg",
   "asset_forge_steel_anvil": "content/assets/svg/forge_steel_anvil.svg",
   "asset_forge_harvest_sickle": "content/assets/svg/forge_harvest_sickle.svg",
-  "asset_forge_iron_plow": "content/assets/svg/forge_iron_plow.svg"
+  "asset_forge_iron_plow": "content/assets/svg/forge_iron_plow.svg",
+  "asset_stone_limestone": "content/assets/svg/stone_limestone.svg",
+  "asset_stone_masonry_vault": "content/assets/svg/stone_masonry_vault.svg",
+  "asset_stone_plumb_line": "content/assets/svg/stone_plumb_line.svg"
 }

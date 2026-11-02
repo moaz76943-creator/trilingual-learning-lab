@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_039",
+  "root_ar": "ن-ق-ر",
+  "infinitive_ar": "نَقَرَ - يَنْقُرُ",
+  "infinitive_de": "meißeln / behauen",
+  "infinitive_en": "to chisel stone",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَنْقُرُ الحَجَرَ بِالإِزْمِيلِ",
+      "de_ich": "ich meißele den Stein mit Sorgfalt",
+      "en_i": "I chisel the stone carefully"
+    },
+    "past": {
+      "ar_ana": "أَنَا نَقَرْتُ صَخْرَةً صَلْدَةً",
+      "de_ich": "ich habe den Fels behauen",
+      "en_i": "I dressed a solid rock"
+    }
+  }
+}
