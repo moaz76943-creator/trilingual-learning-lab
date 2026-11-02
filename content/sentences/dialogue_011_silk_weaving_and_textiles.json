@@ -1,0 +1,37 @@
+{
+  "dialogue_id": "dialogue_011",
+  "title_ar": "فِي وَرْشَةِ نَسْجِ الحَرِيرِ وَالنَّوْلِ التَّقْلِيدِيِّ",
+  "title_de": "In der Seidenweberei und am traditionellen Webstuhl",
+  "title_en": "At the Silk Weaving and Traditional Loom Workshop",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُشَاهِدُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَا أَرْوَعَ هَذَا التَّنَاسُقَ فِي حَرَكَةِ المَكُوكِ عَلَى النَّوْلِ الخَشَبِيِّ!",
+      "de": "Guten Tag! Wie wundervoll die harmonische Bewegung des Weberschiffchens auf dem Holzwebstuhl ist!",
+      "en": "Good day! How wonderful the harmonious motion of the shuttle is on the wooden loom!"
+    },
+    {
+      "turn": 2,
+      "speaker": "النَّسَّاجُ المَاهِرُ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَعَمْ، تَتَشَابَكُ خُيُوطُ السَّدَى وَاللُّحْمَةِ بِدِقَّةٍ لِتَكْوِينِ ثَوْبٍ مَتِينٍ.",
+      "de": "Willkommen! Ja, Kette und Schuss verweben sich präzise zu einem festen und edlen Stoff.",
+      "en": "Welcome! Yes, warp and weft threads intertwine precisely to create a durable, noble fabric."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُشَاهِدُ",
+      "ar": "وَهَلْ تَسْتَخْدِمُونَ أَلْوَانًا طَبِيعِيَّةً فِي صِبَاغَةِ الخُيُوطِ؟",
+      "de": "Und verwenden Sie natürliche Farben beim Färben der Fäden?",
+      "en": "And do you use natural dyes for coloring the threads?"
+    },
+    {
+      "turn": 4,
+      "speaker": "النَّسَّاجُ المَاهِرُ",
+      "ar": "بِالتَّأْكِيدِ؛ نَعْتَمِدُ عَلَى جُذُورِ النَّبَاتَاتِ وَقُشُورِ الرُّمَّانِ لِصِبَاغَةٍ ثَابِتَةٍ زَاهِيَةٍ.",
+      "de": "Gewiss; wir nutzen Pflanzenwurzeln und Granatapfelschalen für dauerhafte und lebendige Farben.",
+      "en": "Certainly; we rely on plant roots and pomegranate rinds for lasting, vibrant colors."
+    }
+  ]
+}

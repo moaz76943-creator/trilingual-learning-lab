@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_017",
+  "root_ar": "ن-س-ج",
+  "infinitive_ar": "نَسَجَ - يَنْسُجُ",
+  "infinitive_de": "weben",
+  "infinitive_en": "to weave",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَنْسُجُ ثَوْبًا دَافِئًا",
+      "de_ich": "ich webe einen warmen Stoff",
+      "en_i": "I weave a warm fabric"
+    },
+    "past": {
+      "ar_ana": "أَنَا نَسَجْتُ النَّسِيجَ",
+      "de_ich": "ich habe das Tuch gewebt",
+      "en_i": "I wove the fabric"
+    }
+  }
+}

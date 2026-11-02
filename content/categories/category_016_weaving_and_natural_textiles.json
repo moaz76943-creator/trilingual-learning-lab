@@ -1,0 +1,30 @@
+{
+  "id": "category_016",
+  "name_ar": "فُنُونُ النَّسِيجِ وَالأَصْبَاغِ الطَّبِيعِيَّةِ",
+  "name_de": "Webkunst und natürliche Textilfärbung",
+  "name_en": "Weaving Arts and Natural Dyes",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_050_wooden_loom",
+      "arabic": "النَّوْلُ الخَشَبِيُّ التَّقْلِيدِيُّ",
+      "german": "der traditionelle Handwebstuhl",
+      "english": "the traditional wooden loom",
+      "image_key": "asset_textile_wooden_loom"
+    },
+    {
+      "id": "concept_051_natural_dye",
+      "arabic": "الصِّبَاغُ الطَّبِيعِيُّ النَّبَاتِيُّ",
+      "german": "die natürliche Pflanzenfarbe",
+      "english": "the natural plant dye",
+      "image_key": "asset_textile_natural_dye"
+    },
+    {
+      "id": "concept_052_fine_silk_thread",
+      "arabic": "خَيْطُ الحَرِيرِ الدَّقِيقُ",
+      "german": "der feine Seidenfaden",
+      "english": "the fine silk thread",
+      "image_key": "asset_textile_silk_thread"
+    }
+  ]
+}
