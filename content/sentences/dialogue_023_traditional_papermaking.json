@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_023",
+  "title_ar": "عِنْدَ صَانِعِ الوَرَقِ التَّقْلِيدِيِّ",
+  "title_de": "Beim Papiermacher und traditioneller Papierherstellung",
+  "title_en": "At the Traditional Papermaker and Natural Fiber Craft",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُتَعَلِّمُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، كَيْفَ تُحَوِّلُونَ هَذِهِ الأَلْيَافَ النَّبَاتِيَّةَ الخَامَ إِلَى صَفَحَاتٍ نَاعِمَةٍ؟",
+      "de": "Guten Tag! Wie verwandeln Sie diese rohen Pflanzenfasern in so feine, glatte Papierbögen?",
+      "en": "Good day! How do you transform these raw plant fibers into such fine, smooth paper sheets?"
+    },
+    {
+      "turn": 2,
+      "speaker": "صَانِعُ الوَرَقِ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَدُقُّ أَلْيَافَ القِنَّبِ وَالقُطْنِ فِي المَاءِ النَّقِيِّ، ثُمَّ نَغْرِفُهَا بِقَالَبِ النَّسْجِ الدَّقِيقِ.",
+      "de": "Willkommen! Wir stampfen Hanf- und Baumwollfasern in reinem Wasser und schöpfen sie mit dem feinen Sieb.",
+      "en": "Welcome! We pound hemp and cotton fibers in pure water, then scoop them using the fine wire mould."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُتَعَلِّمُ",
+      "ar": "هَذَا وَرَقٌ نَقِيٌّ خَالٍ مِنَ المَوَادِّ الكِيمْيَائِيَّةِ يَصْلُحُ لِحِفْظِ العُلُومِ النَّافِعَةِ.",
+      "de": "Dies ist ein reines, säurefreies Papier, vollkommen geeignet, um wertvolles Wissen zu bewahren.",
+      "en": "This is pure, acid-free paper, perfectly suited to preserve beneficial knowledge for centuries."
+    }
+  ]
+}

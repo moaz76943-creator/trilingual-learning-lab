@@ -1,0 +1,30 @@
+{
+  "id": "category_028",
+  "name_ar": "صِنَاعَةُ الوَرَقِ اليَدَوِيِّ وَالأَلْيَافِ",
+  "name_de": "Traditionelle Papierherstellung und Faserstoffe",
+  "name_en": "Handmade Papermaking and Plant Fibers",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_086_papermaking_mould",
+      "arabic": "قَالَبُ الوَرَقِ ذُو المَنْخَلِ الدَّقِيقِ",
+      "german": "das feine Papierschöpfsieb",
+      "english": "the fine papermaking mould",
+      "image_key": "asset_paper_mould"
+    },
+    {
+      "id": "concept_087_plant_pulp",
+      "arabic": "لِبَابُ الأَلْيَافِ النَّبَاتِيَّةِ النَّقِيُّ",
+      "german": "der reine Pflanzenfaserbrei",
+      "english": "pure plant fiber pulp",
+      "image_key": "asset_paper_pulp"
+    },
+    {
+      "id": "concept_088_drying_press",
+      "arabic": "مِكْبَسُ التَّجْفِيفِ اليَدَوِيُّ",
+      "german": "die manuelle Trockenpresse",
+      "english": "the manual drying press",
+      "image_key": "asset_paper_press"
+    }
+  ]
+}

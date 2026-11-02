@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_042",
+  "root_ar": "ك-ب-س",
+  "infinitive_ar": "كَبَسَ - يَكْبِسُ",
+  "infinitive_de": "pressen",
+  "infinitive_en": "to press / compact",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَكْبِسُ الأَوْرَاقَ لِتَجِفَّ",
+      "de_ich": "ich presse die Bögen zum Trocknen",
+      "en_i": "I press the sheets to dry"
+    },
+    "past": {
+      "ar_ana": "أَنَا كَبَسْتُ الصَّفَحَاتِ",
+      "de_ich": "ich habe die Blätter gepresst",
+      "en_i": "I pressed the pages"
+    }
+  }
+}
