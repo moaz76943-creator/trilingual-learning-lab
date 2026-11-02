@@ -1,0 +1,30 @@
+{
+  "id": "category_011",
+  "name_ar": "عُلُومُ البِحَارِ وَالمِلَاحَةِ",
+  "name_de": "Meereskunde und Schifffahrt",
+  "name_en": "Marine Sciences and Navigation",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_035_vast_sea",
+      "arabic": "البَحْرُ الزَّاخِرُ الهَادِئُ",
+      "german": "das weite und ruhige Meer",
+      "english": "the vast and calm sea",
+      "image_key": "asset_marine_vast_sea"
+    },
+    {
+      "id": "concept_036_coral_reefs",
+      "arabic": "الشُّعَبُ المَرْجَانِيَّةُ البَدِيعَةُ",
+      "german": "die prächtigen Korallenriffe",
+      "english": "the magnificent coral reefs",
+      "image_key": "asset_marine_coral_reefs"
+    },
+    {
+      "id": "concept_037_guiding_lighthouse",
+      "arabic": "المَنَارَةُ المُرْشِدَةُ لِلسُّفُنِ",
+      "german": "der weisende Leuchtturm",
+      "english": "the guiding lighthouse",
+      "image_key": "asset_marine_lighthouse"
+    }
+  ]
+}

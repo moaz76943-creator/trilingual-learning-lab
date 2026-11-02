@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_006",
+  "title_ar": "عِنْدَ مُجَلِّدِ الكُتُبِ وَحِفْظِ المَخْطُوطَاتِ",
+  "title_de": "Beim Buchbinder und der Restaurierung von Handschriften",
+  "title_en": "At the Bookbinder and Manuscript Preservation",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "طَالِبُ العِلْمِ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَعِي كِتَابٌ قَدِيمٌ نَافِعٌ أُرِيدُ تَرْمِيمَ غِلَافِهِ الجِلْدِيِّ.",
+      "de": "Guten Tag! Ich habe ein altes, wertvolles Buch, dessen Ledereinband ich restaurieren möchte.",
+      "en": "Peace be upon you! I have an old beneficial book whose leather cover I wish to restore."
+    },
+    {
+      "turn": 2,
+      "speaker": "المُجَلِّدُ الخَبِيرُ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ، أَهْلًا بِكَ. سَنَسْتَخْدِمُ خُيُوطَ الحَرِيرِ الطَّبِيعِيِّ وَالجِلْدَ الأَصِيلَ لِحِفْظِهِ.",
+      "de": "Willkommen! Wir werden echte Seidenfäden und hochwertiges Leder verwenden, um es zu bewahren.",
+      "en": "Welcome! We will use natural silk threads and genuine leather to preserve it."
+    },
+    {
+      "turn": 3,
+      "speaker": "طَالِبُ العِلْمِ",
+      "ar": "بَارَكَ اللهُ فِي عَمَلِكَ، إِنَّ حِفْظَ العِلْمِ أَمَانَةٌ كَبِيرَةٌ.",
+      "de": "Möge Gott Ihre Arbeit segnen. Die Bewahrung des Wissens ist eine große Verantwortung.",
+      "en": "May God bless your work; preserving knowledge is indeed a great trust."
+    }
+  ]
+}

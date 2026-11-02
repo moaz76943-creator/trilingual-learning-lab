@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_008",
+  "root_ar": "غ-و-ص",
+  "infinitive_ar": "غَاصَ - يَغُوصُ",
+  "infinitive_de": "tauchen",
+  "infinitive_en": "to dive",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَغُوصُ لِمُشَاهَدَةِ المَرْجَانِ",
+      "de_ich": "ich tauche, um die Korallen zu sehen",
+      "en_i": "I dive to observe the corals"
+    },
+    "past": {
+      "ar_ana": "أَنَا غُصْتُ فِي الأَعْمَاقِ",
+      "de_ich": "ich bin in die Tiefe getaucht",
+      "en_i": "I dived into the deep"
+    }
+  }
+}

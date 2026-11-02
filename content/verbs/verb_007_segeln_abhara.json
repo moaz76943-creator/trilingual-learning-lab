@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_007",
+  "root_ar": "ب-ح-ر",
+  "infinitive_ar": "أَبْحَرَ - يُبْحِرُ",
+  "infinitive_de": "segeln",
+  "infinitive_en": "to sail",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أُبْحِرُ نَحْوَ المِينَاءِ",
+      "de_ich": "ich segele zum Hafen",
+      "en_i": "I sail towards the harbor"
+    },
+    "past": {
+      "ar_ana": "أَنَا أَبْحَرْتُ",
+      "de_ich": "ich bin gesegelt",
+      "en_i": "I sailed"
+    }
+  }
+}
