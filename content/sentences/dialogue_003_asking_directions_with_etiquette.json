@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_003",
+  "title_ar": "السُّؤَالُ عَنِ الطَّرِيقِ بِلَبَاقَةٍ وَأَدَبٍ",
+  "title_de": "Höfliches Nach-dem-Weg-Fragen",
+  "title_en": "Politely Asking for Directions",
+  "cefr_level": "A1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "السَّائِلُ",
+      "ar": "مِنْ فَضْلِكَ يَا أَخِي الكَرِيمَ، كَيْفَ أَصِلُ إِلَى المَكْتَبَةِ العَامَّةِ؟",
+      "de": "Entschuldigen Sie bitte, mein lieber Bruder, wie komme ich zur öffentlichen Bibliothek?",
+      "en": "Excuse me, kind brother, how do I get to the public library?"
+    },
+    {
+      "turn": 2,
+      "speaker": "المُرْشِدُ",
+      "ar": "سِرْ إِلَى الأَمَامِ مُبَاشَرَةً، ثُمَّ اتَّجِهْ يَمِينًا عِنْدَ المَيْدَانِ الكَبِيرِ.",
+      "de": "Gehen Sie geradeaus und biegen Sie dann am großen Platz rechts ab.",
+      "en": "Walk straight ahead, then turn right at the big square."
+    },
+    {
+      "turn": 3,
+      "speaker": "السَّائِلُ",
+      "ar": "جَزَاكَ اللهُ خَيْرًا وَبَارَكَ فِي وَقْتِكَ.",
+      "de": "Möge Gott Sie reichlich belohnen und Ihre Zeit segnen.",
+      "en": "May God reward you with good and bless your time."
+    }
+  ]
+}

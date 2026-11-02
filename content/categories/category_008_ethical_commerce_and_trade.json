@@ -1,0 +1,30 @@
+{
+  "id": "category_008",
+  "name_ar": "التِّجَارَةُ الصَّادِقَةُ وَأَخْلَاقِيَّاتُ التَّعَامُلِ",
+  "name_de": "Ehrlicher Handel und Geschäftsethik",
+  "name_en": "Ethical Commerce and Trade Ethics",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_026_honest_trader",
+      "arabic": "التَّاجِرُ الصَّدُوقُ الأَمِينُ",
+      "german": "der ehrliche und vertrauenswürdige Händler",
+      "english": "the honest and trustworthy merchant",
+      "image_key": "asset_trade_honest_merchant"
+    },
+    {
+      "id": "concept_027_just_scale",
+      "arabic": "المِيزَانُ العَادِلُ بِالقِسْطِ",
+      "german": "die gerechte und genaue Waage",
+      "english": "the just and equitable scale",
+      "image_key": "asset_trade_just_scale"
+    },
+    {
+      "id": "concept_028_blessed_profit",
+      "arabic": "الرِّبْحُ الحَلَالُ المُبَارَكُ",
+      "german": "der gesegnete und rechtmäßige Gewinn",
+      "english": "the lawful and blessed profit",
+      "image_key": "asset_trade_blessed_profit"
+    }
+  ]
+}
