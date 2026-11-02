@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_006",
+  "root_ar": "ر-ق-ب",
+  "infinitive_ar": "رَاقَبَ - يُرَاقِبُ",
+  "infinitive_de": "beobachten",
+  "infinitive_en": "to observe",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أُرَاقِبُ النُّجُومَ بِتَفَكُّرٍ",
+      "de_ich": "ich beobachte aufmerksam die Sterne",
+      "en_i": "I observe the stars thoughtfully"
+    },
+    "past": {
+      "ar_ana": "أَنَا رَاقَبْتُ",
+      "de_ich": "ich habe beobachtet",
+      "en_i": "I observed"
+    }
+  }
+}

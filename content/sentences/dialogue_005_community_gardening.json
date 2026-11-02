@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_005",
+  "title_ar": "العَمَلُ التَّطَوُّعِيُّ فِي حَدِيقَةِ الحَيِّ",
+  "title_de": "Freiwillige Arbeit im Nachbarschaftsgarten",
+  "title_en": "Volunteering in the Community Garden",
+  "cefr_level": "A2",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُتَطَوِّعُ الأَوَّلُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَا أَجْمَلَ هَذَا الصَّبَاحَ وَنَحْنُ نَغْرِسُ الأَشْجَارَ مَعًا!",
+      "de": "Guten Morgen! Wie schön dieser Morgen ist, an dem wir gemeinsam Bäume pflanzen!",
+      "en": "Good morning! How wonderful this morning is as we plant trees together!"
+    },
+    {
+      "turn": 2,
+      "speaker": "المُتَطَوِّعُ الثَّانِي",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ، صَدَقْتَ؛ إِعْمَارُ الأَرْضِ وَنَفْعُ النَّاسِ مِنْ أَنْبَلِ الأَعْمَالِ.",
+      "de": "Ganz genau! Die Erde fruchtbar zu machen und den Menschen zu nützen, ist eine edle Tat.",
+      "en": "Indeed! Cultivating the earth and benefiting people is among the noblest deeds."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُتَطَوِّعُ الأَوَّلُ",
+      "ar": "دَعْنَا نَسْقِي شُجَيْرَاتِ الزَّيْتُونِ الصَّغِيرَةَ بِمَاءِ المَطَرِ المُجَمَّعِ.",
+      "de": "Lasst uns die kleinen Olivenbäumchen mit dem gesammelten Regenwasser gießen.",
+      "en": "Let us water the small olive saplings with the harvested rainwater."
+    }
+  ]
+}

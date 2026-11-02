@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_005",
+  "root_ar": "ك-ش-ف",
+  "infinitive_ar": "اِكْتَشَفَ - يَكْتَشِفُ",
+  "infinitive_de": "entdecken",
+  "infinitive_en": "to discover",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَكْتَشِفُ حَقَائِقَ نَافِعَةً",
+      "de_ich": "ich entdecke nützliche Fakten",
+      "en_i": "I discover useful facts"
+    },
+    "past": {
+      "ar_ana": "أَنَا اكْتَشَفْتُ",
+      "de_ich": "ich habe entdeckt",
+      "en_i": "I discovered"
+    }
+  }
+}

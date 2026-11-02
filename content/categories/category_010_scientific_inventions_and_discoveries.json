@@ -1,0 +1,30 @@
+{
+  "id": "category_010",
+  "name_ar": "الاِكْتِشَافَاتُ العِلْمِيَّةُ وَالأَدَوَاتُ النَّافِعَةُ",
+  "name_de": "Wissenschaftliche Entdeckungen und Instrumente",
+  "name_en": "Scientific Discoveries and Instruments",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_032_microscope",
+      "arabic": "المِجْهَرُ الدَّقِيقُ",
+      "german": "das optische Mikroskop",
+      "english": "the optical microscope",
+      "image_key": "asset_science_microscope"
+    },
+    {
+      "id": "concept_033_telescope",
+      "arabic": "المِرْقَبُ الفَلَكِيُّ العَظِيمُ",
+      "german": "das astronomische Fernrohr",
+      "english": "the astronomical telescope",
+      "image_key": "asset_science_telescope"
+    },
+    {
+      "id": "concept_034_compass",
+      "arabic": "البَوْصَلَةُ المِلَاحِيَّةُ الدَّقِيقَةُ",
+      "german": "der präzise Navigationskompass",
+      "english": "the precise navigation compass",
+      "image_key": "asset_science_compass"
+    }
+  ]
+}
