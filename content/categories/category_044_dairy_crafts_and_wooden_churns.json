@@ -1,0 +1,30 @@
+{
+  "id": "category_044",
+  "name_ar": "صِنَاعَةُ المَخَاضَاتِ وَالأَلْبَانِ الطَّبِيعِيَّةِ",
+  "name_de": "Butterfassbau und traditionelle Milchwirtschaft",
+  "name_en": "Wooden Butter Churns and Traditional Dairy Crafts",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_134_wooden_butter_churn",
+      "arabic": "المَخَاضَةُ الخَشَبِيَّةُ التَّقْلِيدِيَّةُ",
+      "german": "das traditionelle Holzbutterfass",
+      "english": "the traditional wooden butter churn",
+      "image_key": "asset_dairy_butter_churn"
+    },
+    {
+      "id": "concept_135_churn_dasher",
+      "arabic": "مِحْرَاكُ المَخَاضَةِ الأَصِيلُ",
+      "german": "der hölzerne Butterstößel",
+      "english": "the wooden churn dasher",
+      "image_key": "asset_dairy_churn_dasher"
+    },
+    {
+      "id": "concept_136_fresh_country_butter",
+      "arabic": "الزُّبْدُ البَلَدِيُّ الطَّازَجُ",
+      "german": "die frische reine Bauernbutter",
+      "english": "fresh pure country butter",
+      "image_key": "asset_dairy_country_butter"
+    }
+  ]
+}

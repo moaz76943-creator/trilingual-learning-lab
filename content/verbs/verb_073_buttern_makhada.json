@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_073",
+  "root_ar": "م-خ-ض",
+  "infinitive_ar": "مَخَضَ - يَمْخُضُ",
+  "infinitive_de": "buttern / schütteln",
+  "infinitive_en": "to churn butter",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَمْخُضُ اللَّبَنَ فِي المَخَاضَةِ",
+      "de_ich": "ich buttere die Milch im Fass",
+      "en_i": "I churn the milk in the churn"
+    },
+    "past": {
+      "ar_ana": "أَنَا مَخَضْتُ اللَّبَنَ صَبَاحًا",
+      "de_ich": "ich habe am Morgen gebuttert",
+      "en_i": "I churned the milk in the morning"
+    }
+  }
+}

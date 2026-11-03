@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_074",
+  "root_ar": "ق-ش-د",
+  "infinitive_ar": "قَشَدَ - يَقْشِدُ",
+  "infinitive_de": "abschöpfen / Rahm abheben",
+  "infinitive_en": "to skim cream",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَقْشِدُ الزُّبْدَ عَنِ المَخِيضِ",
+      "de_ich": "ich schöpfe die Butter von der Buttermilch ab",
+      "en_i": "I skim the butter from the buttermilk"
+    },
+    "past": {
+      "ar_ana": "أَنَا قَشَدْتُ الطَّبَقَةَ الذَّهَبِيَّةَ",
+      "de_ich": "ich habe die goldene Schicht abgeschöpft",
+      "en_i": "I skimmed the golden layer"
+    }
+  }
+}

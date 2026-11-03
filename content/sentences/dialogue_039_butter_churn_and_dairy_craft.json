@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_039",
+  "title_ar": "عِنْدَ صَانِعِ المَخَاضَةِ الخَشَبِيَّةِ وَإِعْدَادِ الزُّبْدِ",
+  "title_de": "Beim traditionellen Butterfassbauer und natürlicher Butterherstellung",
+  "title_en": "At the Wooden Butter Churn Maker and Natural Dairy Craft",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُزارِعُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، هَلْ صَنَعْتَ لَنَا مَخَاضَةً مِنْ خَشَبِ الصَّنَوْبَرِ النَّقِيِّ الَّذِي لَا يُغَيِّرُ طَعْمَ الحَلِيبِ؟",
+      "de": "Guten Tag! Haben Sie das Butterfass aus reinem Kiefernholz gefertigt, das den Geschmack der Milch nicht verfälscht?",
+      "en": "Good day! Did you craft the churn from pure pine wood that does not alter the milk's flavor?"
+    },
+    {
+      "turn": 2,
+      "speaker": "البَنَّاءُ النَّجَّارُ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَعَمْ، حَبَكْتُ أَلْوَاحَهَا بِدِقَّةٍ، وَصَنَعْتُ مِحْرَاكَهَا الخَشَبِيَّ أَمْلَسَ لِيَفْصِلَ الزُّبْدَ بِسَلَاسَةٍ.",
+      "de": "Willkommen! Ja, die Dauben sind fugendicht gefügt, und der hölzerne Stoßer ist glatt geschliffen für leichte Trennung.",
+      "en": "Welcome! Yes, I fitted the staves tightly and sanded the wooden dasher smooth to separate the butter seamlessly."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُزارِعُ",
+      "ar": "بَارَكَ اللهُ فِي صَنْعَتِكَ؛ فَالغِذَاءُ النَّقِيُّ مِنْ أَعْظَمِ نِعَمِ اللهِ عَلَى عِبَادِهِ.",
+      "de": "Möge Gott Ihr Handwerk segnen; unverfälschte Nahrung ist eine der reinsten Gaben für die Menschen.",
+      "en": "May God bless your craftsmanship; pure unadulterated food is among the greatest blessings for humanity."
+    }
+  ]
+}
