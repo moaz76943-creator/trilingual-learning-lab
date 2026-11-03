@@ -1,0 +1,30 @@
+{
+  "id": "category_043",
+  "name_ar": "بَسَاتِينُ الحِمْضِيَّاتِ وَالصَّنَادِيقُ الخَشَبِيَّةُ",
+  "name_de": "Zitrushaine und Holzsteigen",
+  "name_en": "Citrus Groves and Wooden Crates",
+  "cefr_level": "A2",
+  "concepts": [
+    {
+      "id": "concept_131_orange_grove",
+      "arabic": "بُسْتَانُ البُرْتُقَالِ العَطِرُ",
+      "german": "der duftende Orangenhain",
+      "english": "the fragrant orange grove",
+      "image_key": "asset_citrus_orange_grove"
+    },
+    {
+      "id": "concept_132_wooden_crate",
+      "arabic": "الصُّنْدُوقُ الخَشَبِيُّ المُهَوَّى",
+      "german": "die luftige Holzkiste",
+      "english": "the ventilated wooden crate",
+      "image_key": "asset_citrus_wooden_crate"
+    },
+    {
+      "id": "concept_133_sweet_lemon_blossom",
+      "arabic": "زَهْرُ اللَّيْمُونِ الزَّكِيُّ",
+      "german": "die zarte Zitronenblüte",
+      "english": "delicate lemon blossom",
+      "image_key": "asset_citrus_lemon_blossom"
+    }
+  ]
+}

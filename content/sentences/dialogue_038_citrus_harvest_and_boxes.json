@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_038",
+  "title_ar": "مَوْسِمُ جَنْيِ الحِمْضِيَّاتِ وَتَعْبِئَتِهَا",
+  "title_de": "Zitrusfrüchte-Ernte und schonende Holzkistenverpackung",
+  "title_en": "Citrus Harvest and Wooden Crate Packaging",
+  "cefr_level": "A2",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُشْتَرِي",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَا أَنْدَى رَائِحَةَ زَهْرِ اللَّيْمُونِ وَالبُرْتُقَالِ فِي هَذَا البُسْتَانِ المِعْطَاءِ!",
+      "de": "Guten Tag! Wie erfrischend der Duft der Zitronen- und Orangenblüten in diesem reichen Hain ist!",
+      "en": "Good day! How refreshing the scent of lemon and orange blossoms is in this bountiful grove!"
+    },
+    {
+      "turn": 2,
+      "speaker": "صَاحِبُ البُسْتَانِ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَقْطِفُ الثِّمَارَ بِيَدٍ رَفِيقَةٍ، وَنُرَتِّبُهَا فِي صَنَادِيقِ خَشَبِ الصَّنَوْبَرِ المُهَوَّاةِ.",
+      "de": "Willkommen! Wir pflücken die Früchte behutsam von Hand und schichten sie in luftige Kiefernholzkisten.",
+      "en": "Welcome! We pick the fruits with gentle hands and pack them into well-aerated pine wood crates."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُشْتَرِي",
+      "ar": "هَذَا حِفْظٌ سَلِيمٌ يَمْنَعُ ضَغْطَ الثِّمَارِ وَيَصُونُ نَضَارَتَهَا حَتَّى تَصِلَ إِلَى النَّاسِ طَازَجَةً.",
+      "de": "Das ist eine vorbildliche Lagerung, die Druckstellen vermeidet und die Frische bis zu den Menschen bewahrt.",
+      "en": "This is an exemplary method that prevents bruising and preserves freshness until it reaches people."
+    }
+  ]
+}

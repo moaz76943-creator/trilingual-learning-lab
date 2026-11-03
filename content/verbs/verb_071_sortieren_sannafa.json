@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_071",
+  "root_ar": "ص-ن-ف",
+  "infinitive_ar": "صَنَّفَ - يُصَنِّفُ",
+  "infinitive_de": "sortieren / einteilen",
+  "infinitive_en": "to sort / grade",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أُصَنِّفُ البُرْتُقَالَ حَسَبَ الحَجْمِ",
+      "de_ich": "ich sortiere die Orangen nach Größe",
+      "en_i": "I sort the oranges by size"
+    },
+    "past": {
+      "ar_ana": "أَنَا صَنَّفْتُ الثِّمَارَ النَّاضِجَةَ",
+      "de_ich": "ich habe die reifen Früchte sortiert",
+      "en_i": "I sorted the ripe fruits"
+    }
+  }
+}
