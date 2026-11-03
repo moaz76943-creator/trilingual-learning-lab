@@ -1,0 +1,30 @@
+{
+  "id": "category_039",
+  "name_ar": "أَدَوَاتُ القَوَافِلِ وَصِنَاعَةُ الأَسْرِجَةِ",
+  "name_de": "Karawanenausrüstung und traditioneller Sattelbau",
+  "name_en": "Caravan Equipment and Traditional Saddlery",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_119_wooden_packsaddle",
+      "arabic": "الشِّدَادُ الخَشَبِيُّ الخَفِيفُ",
+      "german": "der leichte Holzlastsattel",
+      "english": "the light wooden pack-saddle",
+      "image_key": "asset_caravan_packsaddle"
+    },
+    {
+      "id": "concept_120_wool_saddlebag",
+      "arabic": "خُرْجُ السَّفَرِ الصُّوفِيُّ",
+      "german": "die gewebte wollene Satteltasche",
+      "english": "the woven wool saddlebag",
+      "image_key": "asset_caravan_saddlebag"
+    },
+    {
+      "id": "concept_121_braided_halter",
+      "arabic": "الرِّشَاءُ المَجْدُولُ المَتِينُ",
+      "german": "das feste handgeflochtene Halfter",
+      "english": "the sturdy braided halter",
+      "image_key": "asset_caravan_halter"
+    }
+  ]
+}

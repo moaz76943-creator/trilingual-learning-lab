@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_034",
+  "title_ar": "عِنْدَ صَانِعِ الأَحْدَاجِ وَالأَسْرِجَةِ الخَشَبِيَّةِ",
+  "title_de": "Beim traditionellen Sattler für Karawanenausrüstung",
+  "title_en": "At the Traditional Pack-Saddle Maker for Caravans",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُسَافِرُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، نُرِيدُ شِدَادًا خَشَبِيًّا مَرِنًا لَا يُثْقِلُ عَلَى ظَهْرِ النَّاقَةِ فِي السَّفَرِ الطَّوِيلِ.",
+      "de": "Guten Tag! Wir benötigen ein leichtes Holzgestell, das den Rücken des Kamels auf der langen Reise schont.",
+      "en": "Good day! We need a flexible wooden pack-saddle that does not weigh down the camel's back on long journeys."
+    },
+    {
+      "turn": 2,
+      "speaker": "الصَّانِعُ الحَكِيمُ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَنْحَتُهُ مِنْ خَشَبِ الأَثْلِ الخَفِيفِ، وَنُبَطِّنُهُ بِاللِّبْدِ الصُّوفِيِّ النَّاعِمِ رِفْقًا بِالدَّابَّةِ.",
+      "de": "Willkommen! Wir schnitzen es aus leichtem Tamariskenholz und polstern es mit weichem Wollfilz aus Barmherzigkeit zum Tier.",
+      "en": "Welcome! We carve it from light tamarisk wood and pad it with soft wool felt out of compassion for the animal."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُسَافِرُ",
+      "ar": "بَارَكَ اللهُ فِيكُمْ؛ فَالرِّفْقُ بِالحَيَوَانِ مِنْ أَعْظَمِ خِصَالِ الإِحْسَانِ فِي دِينِنَا وَأَخْلَاقِنَا.",
+      "de": "Möge Gott Sie segnen; Sanftmut gegenüber Tieren ist eines der edelsten Zeichen wahren Mitgefühls.",
+      "en": "May God bless you; kindness to animals is indeed one of the highest virtues of compassionate character."
+    }
+  ]
+}

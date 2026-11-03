@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_064",
+  "root_ar": "ر-ب-ط",
+  "infinitive_ar": "رَبَطَ - يَرْبُطُ",
+  "infinitive_de": "festbinden / befestigen",
+  "infinitive_en": "to fasten / tie securely",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَرْبُطُ الخُرْجَ بِإِحْكَامٍ",
+      "de_ich": "ich binde die Satteltasche sicher fest",
+      "en_i": "I fasten the saddlebag securely"
+    },
+    "past": {
+      "ar_ana": "أَنَا رَبَطْتُ الرِّشَاءَ بِرِفْقٍ",
+      "de_ich": "ich habe das Halfter behutsam befestigt",
+      "en_i": "I tied the halter gently"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_063",
+  "root_ar": "ح-م-ل",
+  "infinitive_ar": "حَمَّلَ - يُحَمِّلُ",
+  "infinitive_de": "beladen / aufpacken",
+  "infinitive_en": "to load / pack",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أُحَمِّلُ الدَّابَّةَ حِمْلًا خَفِيفًا",
+      "de_ich": "ich belade das Tier mit schonender Last",
+      "en_i": "I load the mount with a gentle burden"
+    },
+    "past": {
+      "ar_ana": "أَنَا حَمَّلْتُ الزَّادَ بِتَوَازُنٍ",
+      "de_ich": "ich habe den Proviant ausgewogen aufgeladen",
+      "en_i": "I loaded the provisions in balance"
+    }
+  }
+}
