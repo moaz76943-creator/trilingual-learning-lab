@@ -1,0 +1,30 @@
+{
+  "id": "category_036",
+  "name_ar": "عُلُومُ المَزَاوِلِ الشَّمْسِيَّةِ وَالوَقْتِ",
+  "name_de": "Sonnenuhren und astronomische Zeitmessung",
+  "name_en": "Sundials and Solar Astronomical Timekeeping",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_110_marble_sundial",
+      "arabic": "المِزْوَلَةُ الرُّخَامِيَّةُ الدَّقِيقَةُ",
+      "german": "die präzise Marmorsonnenuhr",
+      "english": "the precise marble sundial",
+      "image_key": "asset_astro_marble_sundial"
+    },
+    {
+      "id": "concept_111_bronze_gnomon",
+      "arabic": "شَاخِصُ الظِّلِّ النُّحَاسِيُّ",
+      "german": "der bronzene Schattenzeiger",
+      "english": "the bronze shadow gnomon",
+      "image_key": "asset_astro_bronze_gnomon"
+    },
+    {
+      "id": "concept_112_hour_lines",
+      "arabic": "خُطُوطُ السَّاعَاتِ الشَّمْسِيَّةِ",
+      "german": "die eingravierten Stundenlinien",
+      "english": "the engraved solar hour lines",
+      "image_key": "asset_astro_hour_lines"
+    }
+  ]
+}

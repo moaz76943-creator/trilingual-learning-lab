@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_031",
+  "title_ar": "عِنْدَ صَانِعِ المَزَاوِلِ الشَّمْسِيَّةِ",
+  "title_de": "Beim Sonnenuhrmacher und Zeitmessung durch Schatten",
+  "title_en": "At the Sundial Maker and Shadow Timekeeping",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "طَالِبُ العِلْمِ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، كَيْفَ تُحَدِّدُ سَاعَاتِ النَّهَارِ بِدِقَّةٍ عَبْرَ هَذَا الشَّاخِصِ النُّحَاسِيِّ؟",
+      "de": "Guten Tag! Wie bestimmen Sie die Tagesstunden so exakt mithilfe dieses bronzenen Schattenzeigers?",
+      "en": "Good day! How do you determine the daytime hours so precisely using this bronze gnomon?"
+    },
+    {
+      "turn": 2,
+      "speaker": "الفَلَكِيُّ الحَكِيمُ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نُوَجِّهُ قَاعِدَةَ المِزْوَلَةِ الرُّخَامِيَّةِ نَحْوَ الشَّمَالِ الحَقِيقِيِّ، وَنَرْسُمُ خُطُوطَ السَّاعَاتِ حَسَبَ مَيْلِ الشَّمْسِ.",
+      "de": "Willkommen! Wir richten die Marmorplatte nach dem wahren Norden aus und berechnen die Linien nach dem Sonnenstand.",
+      "en": "Welcome! We align the marble base with true north and engrave the hour lines according to solar declination."
+    },
+    {
+      "turn": 3,
+      "speaker": "طَالِبُ العِلْمِ",
+      "ar": "سُبْحَانَ مَنْ جَعَلَ الشَّمْسَ ضِيَاءً وَالقَمَرَ نُورًا وَقَدَّرَهُ مَنَازِلَ لِنَعْلَمَ عَدَدَ السِّنِينَ وَالحِسَابَ!",
+      "de": "Gepriesen sei Gott, der die Sonne als Leuchte und den Mond als Licht schuf zur Berechnung der Zeiten!",
+      "en": "Glory be to God, who made the sun a radiance and the moon a light to know the number of years and reckon time!"
+    }
+  ]
+}

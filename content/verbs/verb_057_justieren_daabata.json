@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_057",
+  "root_ar": "ض-ب-ط",
+  "infinitive_ar": "ضَبَطَ - يَضْبُطُ",
+  "infinitive_de": "justieren / einstellen",
+  "infinitive_en": "to calibrate / adjust",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَضْبُطُ شَاخِصَ المِزْوَلَةِ بِدِقَّةٍ",
+      "de_ich": "ich justiere den Schattenzeiger präzise",
+      "en_i": "I calibrate the shadow gnomon precisely"
+    },
+    "past": {
+      "ar_ana": "أَنَا ضَبَطْتُ مِيلَانَ الآلَةِ",
+      "de_ich": "ich habe die Neigung eingestellt",
+      "en_i": "I adjusted the device inclination"
+    }
+  }
+}

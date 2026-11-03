@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_058",
+  "root_ar": "ق-ي-س",
+  "infinitive_ar": "قَاسَ - يَقِيسُ",
+  "infinitive_de": "messen",
+  "infinitive_en": "to measure",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَقِيسُ طُولَ الظِّلِّ عِنْدَ الظَّهِيرَةِ",
+      "de_ich": "ich messe die Schattenlänge am Mittag",
+      "en_i": "I measure the shadow length at noon"
+    },
+    "past": {
+      "ar_ana": "أَنَا قِسْتُ الزَّاوِيَةَ الشَّمْسِيَّةَ",
+      "de_ich": "ich habe den Sonnenwinkel gemessen",
+      "en_i": "I measured the solar angle"
+    }
+  }
+}
