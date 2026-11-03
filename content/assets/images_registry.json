@@ -36795,5 +36795,8 @@
   "asset_almond_sweet_almond": "content/assets/svg/almond_sweet_almond.svg",
   "asset_astro_marble_sundial": "content/assets/svg/astro_marble_sundial.svg",
   "asset_astro_bronze_gnomon": "content/assets/svg/astro_bronze_gnomon.svg",
-  "asset_astro_hour_lines": "content/assets/svg/astro_hour_lines.svg"
+  "asset_astro_hour_lines": "content/assets/svg/astro_hour_lines.svg",
+  "asset_clock_bronze_pendulum": "content/assets/svg/clock_bronze_pendulum.svg",
+  "asset_clock_precision_gear": "content/assets/svg/clock_precision_gear.svg",
+  "asset_clock_polished_hands": "content/assets/svg/clock_polished_hands.svg"
 }

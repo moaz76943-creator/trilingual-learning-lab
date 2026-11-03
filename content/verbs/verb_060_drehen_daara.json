@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_060",
+  "root_ar": "د-و-ر",
+  "infinitive_ar": "دَارَ - يَدُورُ",
+  "infinitive_de": "sich drehen / rotieren",
+  "infinitive_en": "to rotate / turn",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "تَدُورُ التُّرُوسُ المَعْدِنِيَّةُ بِسَلَاسَةٍ",
+      "de_sie": "die Zahnräder drehen sich reibungslos",
+      "en_they": "the gears turn smoothly"
+    },
+    "past": {
+      "ar_ana": "دَارَ عَقْرَبُ السَّاعَةِ دَوْرَةً كَامِلَةً",
+      "de_er": "der Zeiger hat sich voll gedreht",
+      "en_it": "the clock hand rotated a full cycle"
+    }
+  }
+}

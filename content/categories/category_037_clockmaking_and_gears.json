@@ -1,0 +1,30 @@
+{
+  "id": "category_037",
+  "name_ar": "عُلُومُ السَّاعَاتِ وَحَرَكَةِ التُّرُوسِ",
+  "name_de": "Mechanische Uhrmacherei und Zahnradtechnik",
+  "name_en": "Mechanical Clockmaking and Gear Harmony",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_113_bronze_pendulum",
+      "arabic": "البَنَدُولُ النُّحَاسِيُّ الرَّزِينُ",
+      "german": "das schwingende Bronzependel",
+      "english": "the steady bronze pendulum",
+      "image_key": "asset_clock_bronze_pendulum"
+    },
+    {
+      "id": "concept_114_precision_gear",
+      "arabic": "التُّرْسُ المَسْنُونُ بِدِقَّةٍ",
+      "german": "das fein gezahnte Präzisionsrad",
+      "english": "the precisely toothed gear",
+      "image_key": "asset_clock_precision_gear"
+    },
+    {
+      "id": "concept_115_clock_hands",
+      "arabic": "عَقَارِبُ السَّاعَةِ المَصْقُولَةُ",
+      "german": "die polierten Uhrzeiger",
+      "english": "the polished clock hands",
+      "image_key": "asset_clock_polished_hands"
+    }
+  ]
+}

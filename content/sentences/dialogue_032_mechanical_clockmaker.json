@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_032",
+  "title_ar": "عِنْدَ سَاعَاتِيِّ التُّرَاثِ وَحَرَكَةِ التُّرُوسِ",
+  "title_de": "Beim traditionellen Uhrmacher und der Harmonie der Zahnräder",
+  "title_en": "At the Traditional Clockmaker and Mechanical Gears",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُتَعَلِّمُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَا أَعْجَبَ هَذَا التَّنَاغُمَ بَيْنَ عَشَرَاتِ التُّرُوسِ الصَّغِيرَةِ فِي هَذِهِ السَّاعَةِ الحَائِطِيَّةِ!",
+      "de": "Guten Tag! Wie bewundernswert dieses harmonische Zusammenspiel der feinen Zahnräder in dieser Wanduhr ist!",
+      "en": "Good day! How admirable this harmonious interplay among dozens of tiny gears is in this wall clock!"
+    },
+    {
+      "turn": 2,
+      "speaker": "السَّاعَاتِيُّ الخَبِيرُ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. كُلُّ سِنٍّ فِي التُّرْسِ مَصْنُوعٌ بِدِقَّةِ أَجْزَاءِ المِلِّيمِتْرِ لِتَنْتَقِلَ الحَرَكَةُ بِانْتِظَامٍ ثَابِتٍ.",
+      "de": "Willkommen! Jeder Zahn des Rades ist auf den Bruchteil eines Millimeters gefertigt für gleichmäßige Bewegung.",
+      "en": "Welcome! Each tooth of the gear is crafted to fractions of a millimeter to transfer motion with steady cadence."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُتَعَلِّمُ",
+      "ar": "صَوْتُ تَكْتَكَةِ البَنَدُولِ يُذَكِّرُنَا دَائِمًا بِأَنَّ كُلَّ ثَانِيَةٍ أَمَانَةٌ غَالِيَةٌ فِي حَيَاتِنَا.",
+      "de": "Das gleichmäßige Ticken des Pendels erinnert uns daran, dass jede Sekunde ein kostbares Gut ist.",
+      "en": "The steady ticking of the pendulum constantly reminds us that every second is a precious trust in our lives."
+    }
+  ]
+}
