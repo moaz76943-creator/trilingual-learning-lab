@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_062",
+  "root_ar": "ج-ل-و",
+  "infinitive_ar": "جَلَى - يَجْلِي",
+  "infinitive_de": "glätten / zum Glänzen bringen",
+  "infinitive_en": "to burnish / polish bright",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَجْلِي الذَّهَبَ بِحَجَرِ العَقِيقِ",
+      "de_ich": "ich poliere das Gold mit dem Achat",
+      "en_i": "I burnish the gold with the agate"
+    },
+    "past": {
+      "ar_ana": "أَنَا جَلَيْتُ النُّقُوشَ لِتَبْرُقَ",
+      "de_ich": "ich habe die Ornamente glänzend poliert",
+      "en_i": "I burnished the patterns to shine"
+    }
+  }
+}

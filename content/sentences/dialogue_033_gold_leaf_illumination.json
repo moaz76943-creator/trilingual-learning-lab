@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_033",
+  "title_ar": "عِنْدَ مُذَهِّبِ المَخْطُوطَاتِ التُّرَاثِيِّ",
+  "title_de": "Beim Buchilluminator und traditioneller Blattgoldkunst",
+  "title_en": "At the Manuscript Illuminator and Gold Leaf Art",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "طَالِبُ الفُنُونِ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَا أَرَقَّ هَذِهِ الوَرَيْقَاتِ الذَّهَبِيَّةَ الخَالِصَةَ الَّتِي تَكَادُ تَطِيرُ مَعَ النَّسِيمِ!",
+      "de": "Guten Tag! Wie hauchdünn diese reinen Blattgoldblättchen sind, die fast im Lufthauch schweben!",
+      "en": "Good day! How ultra-fine these pure gold leaf sheets are, almost floating with the gentle breeze!"
+    },
+    {
+      "turn": 2,
+      "speaker": "المُذَهِّبُ المَاهِرُ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَرْفَعُهَا بِفُرْشَاةِ السِّنْجَابِ النَّاعِمَةِ، وَنُلْصِقُهَا بِمَحْلُولِ الصَّمْغِ العَرَبِيِّ المُصَفَّى.",
+      "de": "Willkommen! Wir heben sie mit dem feinen Haarpinsel an und fixieren sie mit reinem Gummi arabicum.",
+      "en": "Welcome! We lift them with a fine soft hair brush and bond them using purified gum arabic solution."
+    },
+    {
+      "turn": 3,
+      "speaker": "طَالِبُ الفُنُونِ",
+      "ar": "ثُمَّ تَجْلُونَهَا بِحَجَرِ العَقِيقِ الأَمْلَسِ فَتَلْمَعُ كَالشَّمْسِ المُشْرِقَةِ فِي صَفْحَةِ الكِتَابِ.",
+      "de": "Dann polieren Sie das Gold mit dem glatten Achatstein, sodass es wie Morgensonne auf dem Blatt strahlt.",
+      "en": "Then you burnish it with a smooth agate stone, so it shines like the morning sun upon the page."
+    }
+  ]
+}

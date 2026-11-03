@@ -36798,5 +36798,8 @@
   "asset_astro_hour_lines": "content/assets/svg/astro_hour_lines.svg",
   "asset_clock_bronze_pendulum": "content/assets/svg/clock_bronze_pendulum.svg",
   "asset_clock_precision_gear": "content/assets/svg/clock_precision_gear.svg",
-  "asset_clock_polished_hands": "content/assets/svg/clock_polished_hands.svg"
+  "asset_clock_polished_hands": "content/assets/svg/clock_polished_hands.svg",
+  "asset_gild_gold_leaf": "content/assets/svg/gild_gold_leaf.svg",
+  "asset_gild_agate_burnisher": "content/assets/svg/gild_agate_burnisher.svg",
+  "asset_gild_gum_arabic": "content/assets/svg/gild_gum_arabic.svg"
 }

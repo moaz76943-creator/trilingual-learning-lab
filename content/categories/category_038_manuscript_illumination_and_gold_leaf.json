@@ -1,0 +1,30 @@
+{
+  "id": "category_038",
+  "name_ar": "تَذْهِيبُ المَخْطُوطَاتِ وَأَوْرَاقُ الذَّهَبِ",
+  "name_de": "Buchillumination und Blattgoldverzierung",
+  "name_en": "Manuscript Illumination and Gold Leaf Art",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_116_fine_gold_leaf",
+      "arabic": "وَرَقُ الذَّهَبِ الخَالِصُ الرَّقِيقُ",
+      "german": "das feine reine Blattgold",
+      "english": "fine pure gold leaf",
+      "image_key": "asset_gild_gold_leaf"
+    },
+    {
+      "id": "concept_117_agate_burnisher",
+      "arabic": "المَصْقَلَةُ العَقِيقِيَّةُ لِتَلْمِيعِ الذَّهَبِ",
+      "german": "der Achatglättzahn",
+      "english": "the agate stone burnisher",
+      "image_key": "asset_gild_agate_burnisher"
+    },
+    {
+      "id": "concept_118_clarified_gum_arabic",
+      "arabic": "الصَّمْغُ العَرَبِيُّ المُصَفَّى",
+      "german": "das gereinigte Gummi arabicum",
+      "english": "clarified gum arabic binder",
+      "image_key": "asset_gild_gum_arabic"
+    }
+  ]
+}

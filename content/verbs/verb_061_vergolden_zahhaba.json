@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_061",
+  "root_ar": "ذ-ه-ب",
+  "infinitive_ar": "ذَهَّبَ - يُذَهِّبُ",
+  "infinitive_de": "vergolden / illuminieren",
+  "infinitive_en": "to gild / illuminate with gold",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أُذَهِّبُ زَخَارِفَ المَخْطُوطِ",
+      "de_ich": "ich vergolde die Ornamente der Handschrift",
+      "en_i": "I gild the manuscript ornaments"
+    },
+    "past": {
+      "ar_ana": "أَنَا ذَهَّبْتُ صَفْحَةَ العُنْوَانِ",
+      "de_ich": "ich habe die Titelseite vergoldet",
+      "en_i": "I gilded the title page"
+    }
+  }
+}
