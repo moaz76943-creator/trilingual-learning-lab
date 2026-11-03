@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_066",
+  "root_ar": "ق-ل-م",
+  "infinitive_ar": "قَلَّمَ - يُقَلِّمُ",
+  "infinitive_de": "beschneiden / stutzen",
+  "infinitive_en": "to prune trees",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أُقَلِّمُ أَغْصَانَ البُسْتَانِ",
+      "de_ich": "ich beschneide die Zweige im Garten",
+      "en_i": "I prune the branches in the orchard"
+    },
+    "past": {
+      "ar_ana": "أَنَا قَلَّمْتُ الشَّجَرَ فِي الشِّتَاءِ",
+      "de_ich": "ich habe die Bäume im Winter gestutzt",
+      "en_i": "I pruned the trees in winter"
+    }
+  }
+}

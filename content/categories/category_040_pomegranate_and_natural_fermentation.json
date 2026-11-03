@@ -1,0 +1,30 @@
+{
+  "id": "category_040",
+  "name_ar": "بَسَاتِينُ الرُّمَّانِ وَالتَّخْمِيرُ الطَّبِيعِيُّ",
+  "name_de": "Granatapfelhaine und traditionelle Essiggärung",
+  "name_en": "Pomegranate Orchards and Natural Fermentation",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_122_mountain_pomegranate",
+      "arabic": "الرُّمَّانُ الجَبَلِيُّ الحُلْوُ",
+      "german": "der süße Berggranatapfel",
+      "english": "sweet mountain pomegranate",
+      "image_key": "asset_pom_mountain_fruit"
+    },
+    {
+      "id": "concept_123_fermentation_jar",
+      "arabic": "جَرَّةُ التَّخْمِيرِ الفَخَّارِيَّةُ",
+      "german": "das irdene Gärgefäß",
+      "english": "clay fermentation jar",
+      "image_key": "asset_pom_ferment_jar"
+    },
+    {
+      "id": "concept_124_aged_natural_vinegar",
+      "arabic": "خَلُّ الرُّمَّانِ المُعَتَّقُ الصَّافِي",
+      "german": "der gereifte reine Granatapfelessig",
+      "english": "pure aged pomegranate vinegar",
+      "image_key": "asset_pom_aged_vinegar"
+    }
+  ]
+}

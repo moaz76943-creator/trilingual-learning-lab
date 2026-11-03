@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_035",
+  "title_ar": "فِي مَعْصَرَةِ الرُّمَّانِ وَصِنَاعَةِ الخَلِّ",
+  "title_de": "In der Granatapfelkelter und traditioneller Essigreifung",
+  "title_en": "At the Pomegranate Press and Natural Vinegar Aging",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُتَعَلِّمُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَا أَبْهَى هَذِهِ الحَبَّاتِ اليَاقُوتِيَّةَ لِلرُّمَّانِ الجَبَلِيِّ!",
+      "de": "Guten Tag! Wie prachtvoll diese rubinroten Kerne der Berggranatäpfel sind!",
+      "en": "Good day! How magnificent these ruby-red arils of mountain pomegranates are!"
+    },
+    {
+      "turn": 2,
+      "speaker": "خَبِيرُ التَّخْمِيرِ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَعْصِرُ الثِّمَارَ النَّاضِجَةَ ثُمَّ نَحْفَظُ العَصِيرَ فِي جِرَارِ الفَخَّارِ لِيَتَخَمَّرَ بِبُطْءٍ وَأَمَانٍ.",
+      "de": "Willkommen! Wir keltern die reifen Früchte und lagern den Saft in Tonkrügen zur langsamen, natürlichen Gärung.",
+      "en": "Welcome! We press the ripe fruit and store the juice in clay jars for slow, safe natural fermentation."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُتَعَلِّمُ",
+      "ar": "فَيَتَحَوَّلُ إِلَى خَلٍّ نَقِيٍّ نَافِعٍ لِلْغِذَاءِ وَالصِّحَّةِ دُونَ أَيِّ إِضَافَاتٍ صِنَاعِيَّةٍ.",
+      "de": "So entsteht ein reiner, gesunder Essig für die Ernährung, ganz ohne künstliche Zusätze.",
+      "en": "Thus it becomes pure wholesome vinegar for nutrition and wellness, entirely free of artificial additives."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_065",
+  "root_ar": "ع-ص-ر",
+  "infinitive_ar": "عَصَرَ - يَعْصِرُ",
+  "infinitive_de": "keltern / auspressen",
+  "infinitive_en": "to press fruit",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَعْصِرُ ثِمَارَ الرُّمَّانِ",
+      "de_ich": "ich keltere die Granatäpfel",
+      "en_i": "I press the pomegranates"
+    },
+    "past": {
+      "ar_ana": "أَنَا عَصَرْتُ المَحْصُولَ",
+      "de_ich": "ich habe die Früchte gekeltert",
+      "en_i": "I pressed the harvest"
+    }
+  }
+}
