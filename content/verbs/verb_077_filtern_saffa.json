@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_077",
+  "root_ar": "ص-ف-ي",
+  "infinitive_ar": "صَفَّى - يُصَفِّي",
+  "infinitive_de": "filtern / klären",
+  "infinitive_en": "to filter / clarify water",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أُصَفِّي مَاءَ المَطَرِ بِالحَصَى وَالرَّمْلِ",
+      "de_ich": "ich filtere das Regenwasser mit Kies und Sand",
+      "en_i": "I filter the rainwater with gravel and sand"
+    },
+    "past": {
+      "ar_ana": "أَنَا صَفَّيْتُ المَاءَ لِيَصِيرَ زُلَالًا",
+      "de_ich": "ich habe das Wasser kristallklar gefiltert",
+      "en_i": "I filtered the water crystal clear"
+    }
+  }
+}

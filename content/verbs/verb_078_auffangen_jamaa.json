@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_078",
+  "root_ar": "ج-م-ع",
+  "infinitive_ar": "جَمَعَ - يَجْمَعُ",
+  "infinitive_de": "auffangen / sammeln",
+  "infinitive_en": "to catch / collect water",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَجْمَعُ مَاءَ الغَيْثِ فِي الصِّهْرِيجِ",
+      "de_ich": "ich fange das Regenwasser in der Zisterne auf",
+      "en_i": "I catch the rainwater in the cistern"
+    },
+    "past": {
+      "ar_ana": "أَنَا جَمَعْتُ خَيْرَ المَطَرِ",
+      "de_ich": "ich habe den Regensegen aufgefangen",
+      "en_i": "I collected the rainfall bounty"
+    }
+  }
+}

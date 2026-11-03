@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_041",
+  "title_ar": "صِيَانَةُ صِهْرِيجِ مِيَاهِ الأَمْطَارِ فِي الفِنَاءِ",
+  "title_de": "Instandhaltung der Regenwasserzisterne im Innenhof",
+  "title_en": "Maintenance of the Courtyard Rainwater Cistern",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "الشَّابُّ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، كَيْفَ نُهَيِّئُ صِهْرِيجَ الفِنَاءِ لِاسْتِقْبَالِ غَيْثِ الشِّتَاءِ القَادِمِ؟",
+      "de": "Guten Tag! Wie bereiten wir die Hofzisterne auf den kommenden Winterregen vor?",
+      "en": "Good day! How do we prepare the courtyard cistern to receive the coming winter rain?"
+    },
+    {
+      "turn": 2,
+      "speaker": "البَنَّاءُ الخَبِيرُ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نُنَظِّفُ قَنَوَاتِ المَرَازِيبِ، ثُمَّ نُجَدِّدُ طَبَقَاتِ الرَّمْلِ وَالحَصَى فِي مِرْشَحِ المَاءِ الطَّبِيعِيِّ.",
+      "de": "Willkommen! Wir säubern die Dachrinnen und erneuern die Sand- und Kiesschichten im Naturfilter.",
+      "en": "Welcome! We clean the roof gutters and refresh the sand and gravel layers in the natural water filter."
+    },
+    {
+      "turn": 3,
+      "speaker": "الشَّابُّ",
+      "ar": "فَيَنْزِلُ المَاءُ إِلَى جَوْفِ الصِّهْرِيجِ رُقْرَاقًا صَافِيًا كَأَنَّهُ مَاءُ عَيْنٍ جَبَلِيَّةٍ.",
+      "de": "So fließt das Wasser kristallklar in die Zisterne, als sei es frisches Bergquellwasser.",
+      "en": "Thus the water flows into the cistern crystal-clear, as though it were mountain spring water."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "category_046",
+  "name_ar": "حِصَادُ مِيَاهِ الأَمْطَارِ وَالصَّهَارِيجُ",
+  "name_de": "Regenwassernutzung und Hofzisternen",
+  "name_en": "Rainwater Harvesting and Courtyard Cisterns",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_140_stone_cistern",
+      "arabic": "صِهْرِيجُ مِيَاهِ الأَمْطَارِ المَحْفُورُ",
+      "german": "die gemauerte Regenwasserzisterne",
+      "english": "excavated stone rainwater cistern",
+      "image_key": "asset_rain_stone_cistern"
+    },
+    {
+      "id": "concept_141_sand_gravel_filter",
+      "arabic": "مِرْشَحُ الرَّمْلِ وَالحَصَى النَّقِيُّ",
+      "german": "der Sand- und Kieswasserfilter",
+      "english": "natural sand and gravel water filter",
+      "image_key": "asset_rain_gravel_filter"
+    },
+    {
+      "id": "concept_142_wooden_gutter",
+      "arabic": "مَزْرَابُ السَّطْحِ الخَشَبِيُّ",
+      "german": "die hölzerne Dachrinne",
+      "english": "the wooden roof gutter",
+      "image_key": "asset_rain_wooden_gutter"
+    }
+  ]
+}
