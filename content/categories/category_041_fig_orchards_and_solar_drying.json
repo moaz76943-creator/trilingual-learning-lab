@@ -1,0 +1,30 @@
+{
+  "id": "category_041",
+  "name_ar": "بَسَاتِينُ التِّينِ وَالتَّجْفِيفُ الشَّمْسِيُّ",
+  "name_de": "Feigenhaine und Solartrocknung",
+  "name_en": "Fig Orchards and Solar Drying Craft",
+  "cefr_level": "A2",
+  "concepts": [
+    {
+      "id": "concept_125_mountain_fig_tree",
+      "arabic": "شَجَرَةُ التِّينِ الجَبَلِيِّ المُبَارَكَةُ",
+      "german": "der gesegnete Bergfeigenbaum",
+      "english": "the blessed mountain fig tree",
+      "image_key": "asset_fig_mountain_tree"
+    },
+    {
+      "id": "concept_126_wooden_drying_rack",
+      "arabic": "قَفَصُ التَّجْفِيفِ الخَشَبِيُّ",
+      "german": "die hölzerne Trockenhorde",
+      "english": "the wooden drying rack",
+      "image_key": "asset_fig_drying_rack"
+    },
+    {
+      "id": "concept_127_honey_dried_fig",
+      "arabic": "التِّينُ المُجَفَّفُ العَسَلِيُّ",
+      "german": "die honigsüße getrocknete Feige",
+      "english": "the honey-sweet dried fig",
+      "image_key": "asset_fig_dried_sweet"
+    }
+  ]
+}

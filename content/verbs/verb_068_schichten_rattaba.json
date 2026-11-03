@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_068",
+  "root_ar": "ر-ت-ب",
+  "infinitive_ar": "رَتَّبَ - يُرَتِّبُ",
+  "infinitive_de": "schichten / ordnen",
+  "infinitive_en": "to arrange / layer",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أُرَتِّبُ الحَبَّاتِ بِانْتِظَامٍ",
+      "de_ich": "ich schichte die Früchte geordnet",
+      "en_i": "I arrange the pieces in order"
+    },
+    "past": {
+      "ar_ana": "أَنَا رَتَّبْتُ الصَّوَانِيَ",
+      "de_ich": "ich habe die Horden geordnet",
+      "en_i": "I arranged the trays"
+    }
+  }
+}

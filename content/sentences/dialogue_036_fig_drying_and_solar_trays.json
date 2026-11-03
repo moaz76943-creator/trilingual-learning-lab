@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_036",
+  "title_ar": "مَوْسِمُ جَنَى التِّينِ وَتَجْفِيفِهِ الشَّمْسِيِّ",
+  "title_de": "Feigenernte und traditionelle Solartrocknung",
+  "title_en": "Fig Harvest and Natural Sun-Drying Craft",
+  "cefr_level": "A2",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُزَارِعُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَا أَعْذَبَ حَلَاوَةَ هَذَا التِّينِ الجَبَلِيِّ الَّذِي اكْتَمَلَ نُضْجُهُ فِي الشَّمْسِ!",
+      "de": "Guten Tag! Wie herrlich süß diese Bergfeigen sind, die unter der warmen Sonne voll ausgereift sind!",
+      "en": "Good day! How delightfully sweet these mountain figs are, having fully ripened under the warm sun!"
+    },
+    {
+      "turn": 2,
+      "speaker": "خَبِيرُ التَّجْفِيفِ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نُرَتِّبُ الثِّمَارَ عَلَى صَوَانِي القَصَبِ المُهَوَّاةِ، وَنُغَطِّيهَا بِقُمَاشٍ أَبْيَضَ نَقِيٍّ.",
+      "de": "Willkommen! Wir schichten die Früchte auf luftige Schilfhorden und decken sie mit reinem weißem Tuch ab.",
+      "en": "Welcome! We arrange the fruit on airy reed racks and cover them with pure white protective cloth."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُزَارِعُ",
+      "ar": "فَتَبْقَى الثِّمَارُ طَيِّبَةً صَحِّيَّةً كَالعَسَلِ لِتَكُونَ زَادًا مُبَارَكًا طِيلَةَ فَصْلِ الشِّتَاءِ.",
+      "de": "So bleiben die Früchte wohlschmeckend wie Honig und dienen als gesegnete Nahrung durch den ganzen Winter.",
+      "en": "Thus the fruit remains wholesome like honey, serving as a blessed nourishment throughout winter."
+    }
+  ]
+}
