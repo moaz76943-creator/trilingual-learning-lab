@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_050",
+  "root_ar": "ه-و-ي",
+  "infinitive_ar": "هَوَّى - يُهَوِّي",
+  "infinitive_de": "lüften / belüften",
+  "infinitive_en": "to aerate / ventilate",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أُهَوِّي المَخْزَنَ صَبَاحًا",
+      "de_ich": "ich lüfte den Vorratsraum am Morgen",
+      "en_i": "I ventilate the storage room in the morning"
+    },
+    "past": {
+      "ar_ana": "أَنَا هَوَّيْتُ حُجْرَةَ الحُبُوبِ",
+      "de_ich": "ich habe den Getreideraum gelüftet",
+      "en_i": "I aerated the grain room"
+    }
+  }
+}

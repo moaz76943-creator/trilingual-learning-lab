@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_049",
+  "root_ar": "خ-ز-ن",
+  "infinitive_ar": "خَزَنَ - يَخْزُنُ",
+  "infinitive_de": "lagern / aufbewahren",
+  "infinitive_en": "to store / preserve",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَخْزُنُ القَمْحَ فِي الصَّوْمَعَةِ",
+      "de_ich": "ich lagere den Weizen im Speicher",
+      "en_i": "I store the wheat in the granary"
+    },
+    "past": {
+      "ar_ana": "أَنَا خَزَنْتُ المَحْصُولَ بِأَمَانٍ",
+      "de_ich": "ich habe die Ernte sicher gelagert",
+      "en_i": "I stored the harvest safely"
+    }
+  }
+}

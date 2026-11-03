@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_027",
+  "title_ar": "فِي صَوْمَعَةِ الحُبُوبِ وَحِفْظِ الغِلَالِ",
+  "title_de": "Im Getreidespeicher und traditioneller Vorratshaltung",
+  "title_en": "At the Granary and Traditional Grain Preservation",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُزَارِعُ الشَّابُّ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، كَيْفَ تَحْمُونَ هَذِهِ الحُبُوبَ المُخَزَّنَةَ مِنَ الرُّطُوبَةِ عَلَى مَدَارِ العَامِ؟",
+      "de": "Guten Tag! Wie schützen Sie dieses eingelagerte Getreide das ganze Jahr über vor Feuchtigkeit?",
+      "en": "Good day! How do you protect this stored grain from moisture throughout the year?"
+    },
+    {
+      "turn": 2,
+      "speaker": "أَمِينُ المَخْزَنِ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَرْفَعُ الصَّوَامِعَ عَنِ الأَرْضِ، وَنَفْتَحُ مَنَافِذَ التَّهْوِيَةِ الطَّبِيعِيَّةِ المَشْمُولَةِ بِشِبَاكٍ دَقِيقَةٍ.",
+      "de": "Willkommen! Wir erhöhen die Speicher über dem Boden und nutzen natürliche Lüftungsfenster mit feinen Gittern.",
+      "en": "Welcome! We elevate the granaries above ground and use natural ventilation windows covered with fine screens."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُزَارِعُ الشَّابُّ",
+      "ar": "حِفْظُ الغِذَاءِ أَمَانَةٌ وَحِكْمَةٌ تُؤَمِّنُ حَاجَةَ النَّاسِ فِي كُلِّ الفُصُولِ.",
+      "de": "Die kluge Bevorratung der Nahrung ist eine edle Verantwortung, die das Wohl der Menschen sichert.",
+      "en": "Wise food preservation is a noble stewardship that secures people's needs across all seasons."
+    }
+  ]
+}

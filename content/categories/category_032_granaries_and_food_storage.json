@@ -1,0 +1,30 @@
+{
+  "id": "category_032",
+  "name_ar": "صَوَامِعُ الحُبُوبِ وَالتَّخْزِينُ الآمِنُ",
+  "name_de": "Getreidespeicher und sichere Vorratshaltung",
+  "name_en": "Grain Granaries and Secure Food Storage",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_098_ventilated_silo",
+      "arabic": "صَوْمَعَةُ القَمْحِ المَهْوَاةُ",
+      "german": "der gut belüftete Getreidespeicher",
+      "english": "the well-aerated wheat granary",
+      "image_key": "asset_store_ventilated_silo"
+    },
+    {
+      "id": "concept_099_clay_storage_jar",
+      "arabic": "جَرَّةُ الفَخَّارِ لِحِفْظِ الزَّيْتِ",
+      "german": "der traditionelle Tonkrug für Olivenöl",
+      "english": "the clay jar for olive oil storage",
+      "image_key": "asset_store_clay_jar"
+    },
+    {
+      "id": "concept_100_dried_legumes",
+      "arabic": "الحُبُوبُ الجَافَّةُ النَّقِيَّةُ",
+      "german": "die reinen getrockneten Hülsenfrüchte",
+      "english": "pure dried legumes",
+      "image_key": "asset_store_dried_legumes"
+    }
+  ]
+}
