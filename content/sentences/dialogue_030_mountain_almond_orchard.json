@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_030",
+  "title_ar": "غَرْسُ بَسَاتِينِ اللَّوْزِ فِي الجَبَلِ",
+  "title_de": "Pflanzung von Mandelbäumen auf den Bergterrassen",
+  "title_en": "Planting Mountain Almond Orchards on Terraces",
+  "cefr_level": "A2",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُزَارِعُ الشَّابُّ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَا أَعْظَمَ حِكْمَةَ بِنَاءِ هَذِهِ المَصَاطِبِ الحَجَرِيَّةِ عَلَى سَفْحِ الجَبَلِ!",
+      "de": "Guten Tag! Wie weise es ist, diese steinernen Terrassen am Berghang anzulegen!",
+      "en": "Good day! How wise it is to build these stone terraces along the mountainside!"
+    },
+    {
+      "turn": 2,
+      "speaker": "غَارِسُ الأَشْجَارِ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. هِيَ تَحْفَظُ التُّرْبَةَ الخِصْبَةَ مِنْ جَرْفِ الأَمْطَارِ، وَتُمَكِّنُ جُذُورَ اللَّوْزِ مِنَ التَّعَمُّقِ.",
+      "de": "Willkommen! Sie bewahren die fruchtbare Erde vor der Erosion und lassen die Mandelwurzeln tief greifen.",
+      "en": "Welcome! They protect fertile soil from rain erosion and allow the almond roots to anchor deeply."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُزَارِعُ الشَّابُّ",
+      "ar": "وَقَرِيبًا سَتَكْتَسِي هَذِهِ المُنْحَدَرَاتُ بِأَزْهَارِ اللَّوْزِ البَيْضَاءِ الزَّاهِيَةِ.",
+      "de": "Und bald werden sich diese Hänge in strahlend weiße Mandelblüten kleiden.",
+      "en": "And soon these slopes will be adorned with radiant white almond blossoms."
+    }
+  ]
+}

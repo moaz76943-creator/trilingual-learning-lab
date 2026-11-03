@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_056",
+  "root_ar": "ز-ه-ر",
+  "infinitive_ar": "أَزْهَرَ - يُزْهِرُ",
+  "infinitive_de": "blühen / aufblühen",
+  "infinitive_en": "to blossom / bloom",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_hawa": "شَجَرُ اللَّوْزِ يُزْهِرُ فِي الرَّبِيعِ",
+      "de_es": "der Mandelbaum blüht im Frühling",
+      "en_it": "the almond tree blossoms in spring"
+    },
+    "past": {
+      "ar_hawa": "أَزْهَرَتِ البَسَاتِينُ كُلُّهَا",
+      "de_es": "die Gärten haben herrlich geblüht",
+      "en_it": "the orchards blossomed beautifully"
+    }
+  }
+}

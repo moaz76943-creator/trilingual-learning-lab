@@ -1,0 +1,30 @@
+{
+  "id": "category_035",
+  "name_ar": "المُدَرَّجَاتُ الجَبَلِيَّةُ وَأَشْجَارُ اللَّوْزِ",
+  "name_de": "Bergterrassen und Mandelbaumkultur",
+  "name_en": "Mountain Terraces and Almond Orchards",
+  "cefr_level": "A2",
+  "concepts": [
+    {
+      "id": "concept_107_stone_terrace",
+      "arabic": "المُدَرَّجُ الزِّرَاعِيُّ الحَجَرِيُّ",
+      "german": "die steinerne Ackerterrasse",
+      "english": "the stone agricultural terrace",
+      "image_key": "asset_almond_stone_terrace"
+    },
+    {
+      "id": "concept_108_blossoming_almond",
+      "arabic": "شَجَرَةُ اللَّوْزِ الجَبَلِيِّ المُزْهِرَةُ",
+      "german": "der blühende Bergmandelbaum",
+      "english": "the blossoming mountain almond tree",
+      "image_key": "asset_almond_blossoming_tree"
+    },
+    {
+      "id": "concept_109_fresh_almond",
+      "arabic": "اللَّوْزُ الحُلْوُ الطَّازَجُ",
+      "german": "die frische süße Mandel",
+      "english": "the fresh sweet almond",
+      "image_key": "asset_almond_sweet_almond"
+    }
+  ]
+}
