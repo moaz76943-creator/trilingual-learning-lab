@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_052",
+  "root_ar": "د-ف-ق",
+  "infinitive_ar": "تَدَفَّقَ - يَتَدَفَّقُ",
+  "infinitive_de": "strömen / fließen",
+  "infinitive_en": "to stream forth / flow",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "المَاءُ العَذْبُ يَتَدَفَّقُ فِي القَنَاةِ",
+      "de_es": "das reine Wasser strömt im Kanal",
+      "en_it": "the pure water streams in the channel"
+    },
+    "past": {
+      "ar_ana": "تَدَفَّقَ المَاءُ الرُّقْرَاقُ",
+      "de_es": "das klare Wasser ist geströmt",
+      "en_it": "the clear water streamed forth"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "category_033",
+  "name_ar": "طَوَاحِينُ المِيَاهِ وَالطَّاقَةُ الطَّبِيعِيَّةُ",
+  "name_de": "Wassermühlen und hydraulische Naturkraft",
+  "name_en": "Watermills and Natural Hydraulic Power",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_101_watermill",
+      "arabic": "طَاحُونَةُ المَاءِ التَّقْلِيدِيَّةُ",
+      "german": "die traditionelle Wassermühle",
+      "english": "the traditional watermill",
+      "image_key": "asset_mill_watermill"
+    },
+    {
+      "id": "concept_102_massive_millstone",
+      "arabic": "حَجَرُ الرَّحَى الصَّلْدُ",
+      "german": "der massive Mühlstein",
+      "english": "the solid millstone",
+      "image_key": "asset_mill_millstone"
+    },
+    {
+      "id": "concept_103_wooden_waterwheel",
+      "arabic": "دُولَابُ المَاءِ الخَشَبِيُّ",
+      "german": "das hölzerne Wasserrad",
+      "english": "the wooden water wheel",
+      "image_key": "asset_mill_waterwheel"
+    }
+  ]
+}

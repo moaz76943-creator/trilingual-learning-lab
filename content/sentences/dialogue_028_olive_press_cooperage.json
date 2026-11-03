@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_028",
+  "title_ar": "فِي مَعْصَرَةِ الزَّيْتُونِ وَصِيَانَةِ آلَاتِهَا",
+  "title_de": "In der traditionellen Ölmühle und Instandhaltung der Presse",
+  "title_en": "At the Traditional Olive Press and Mechanical Maintenance",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُزَارِعُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، هَلْ دُولَابُ المَاءِ جَاهِزٌ لِتَدْوِيرِ حَجَرِ الرَّحَى الضَّخْمِ؟",
+      "de": "Guten Tag! Ist das Wasserrad bereit, den großen Mühlstein anzutreiben?",
+      "en": "Good day! Is the water wheel ready to turn the massive millstone?"
+    },
+    {
+      "turn": 2,
+      "speaker": "مُهَنْدِسُ المَعْصَرَةِ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَعَمْ، قُمْنَا بِتَشْحِيمِ المِحْوَرِ الخَشَبِيِّ بِزَيْتٍ نَقِيٍّ لِيَدُورَ بِسَلَاسَةٍ وَدُونَ ضَجِيجٍ.",
+      "de": "Willkommen! Ja, wir haben die Holzachse mit reinem Pflanzenöl geschmiert, damit sie sanft und geräuschlos läuft.",
+      "en": "Welcome! Yes, we lubricated the wooden axle with pure plant oil so it turns smoothly and silently."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُزَارِعُ",
+      "ar": "بَارَكَ اللهُ فِي عَمَلِكُمْ؛ فَطَاقَةُ المَاءِ الجَارِي نِعْمَةٌ بِيئِيَّةٌ نَظِيفَةٌ تُعِينُ عَلَى الإِنْتَاجِ.",
+      "de": "Möge Gott Ihre Arbeit segnen; die Wasserkraft ist ein sauberer Segen, der der ganzen Gemeinschaft dient.",
+      "en": "May God bless your work; flowing water power is a clean ecological blessing that aids communal production."
+    }
+  ]
+}
