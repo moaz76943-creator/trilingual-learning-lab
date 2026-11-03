@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_070",
+  "root_ar": "س-و-ي",
+  "infinitive_ar": "سَوَّى - يُسَوِّي",
+  "infinitive_de": "ebnen / glätten",
+  "infinitive_en": "to level / smooth out",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أُسَوِّي الرَّمْلَ تَحْتَ الحِجَارَةِ",
+      "de_ich": "ich ebne das Sandbett unter den Steinen",
+      "en_i": "I level the sand under the stones"
+    },
+    "past": {
+      "ar_ana": "أَنَا سَوَّيْتُ الأَرْضِيَّةَ",
+      "de_ich": "ich habe den Boden geebnet",
+      "en_i": "I leveled the ground"
+    }
+  }
+}

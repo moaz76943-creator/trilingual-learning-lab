@@ -1,0 +1,30 @@
+{
+  "id": "category_042",
+  "name_ar": "رَصْفُ الطُّرُقَاتِ بِالحَجَرِ الطَّبِيعِيِّ",
+  "name_de": "Natursteinpflasterung und Wegebau",
+  "name_en": "Natural Stone Paving and Walkways",
+  "cefr_level": "A2",
+  "concepts": [
+    {
+      "id": "concept_128_river_pebble",
+      "arabic": "حَصَى الوَادِي المَصْقُولُ",
+      "german": "der geschliffene Flusskiesel",
+      "english": "smooth river pebble",
+      "image_key": "asset_pave_river_pebble"
+    },
+    {
+      "id": "concept_129_paved_pathway",
+      "arabic": "المَمَرُّ المُرَصَّفُ بِإِتْقَانٍ",
+      "german": "der solide gepflasterte Weg",
+      "english": "the well-paved walkway",
+      "image_key": "asset_pave_paved_walkway"
+    },
+    {
+      "id": "concept_130_stone_curb",
+      "arabic": "حَافَةُ الرَّصِيفِ الحَجَرِيَّةُ",
+      "german": "die steinerne Wegkante",
+      "english": "the solid stone curb edge",
+      "image_key": "asset_pave_stone_curb"
+    }
+  ]
+}

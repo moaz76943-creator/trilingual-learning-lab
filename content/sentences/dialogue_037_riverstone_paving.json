@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_037",
+  "title_ar": "رَصْفُ مَمَرَّاتِ القَرْيَةِ بِحِجَارَةِ الوَادِي",
+  "title_de": "Pflastern der Dorfwege mit natürlichen Flusssteinen",
+  "title_en": "Paving Village Pathways with Natural River Stones",
+  "cefr_level": "A2",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "الشَّابُّ المُتَطَوِّعُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَا أَجْمَلَ هَذِهِ الحِجَارَةَ المَلْسَاءَ الَّتِي جَمَعْنَاهَا مِنْ مَجْرَى السَّيْلِ!",
+      "de": "Guten Tag! Wie schön diese glatten Flusskiesel sind, die wir aus dem Bachbett gesammelt haben!",
+      "en": "Good day! How beautiful these smooth river stones are, which we gathered from the streambed!"
+    },
+    {
+      "turn": 2,
+      "speaker": "البَنَّاءُ الكَبِيرُ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَفْرِشُ طَبَقَةً مِنَ الرَّمْلِ الخَشِنِ، ثُمَّ نَرْصُفُ الأَحْجَارَ مُتَلَاصِقَةً لِتَصْرِيفِ مَاءِ المَطَرِ.",
+      "de": "Willkommen! Wir legen ein Kiesbett an und pflastern die Steine dicht aneinander für den Wasserabfluss.",
+      "en": "Welcome! We lay a bed of coarse sand, then pave the stones tightly together for natural drainage."
+    },
+    {
+      "turn": 3,
+      "speaker": "الشَّابُّ المُتَطَوِّعُ",
+      "ar": "فَيَصِيرُ المَمَرُّ آمِنًا سَهْلًا لِلصِّغَارِ وَكِبَارِ السِّنِّ فِي أَيَّامِ الشِّتَاءِ.",
+      "de": "So wird der Weg sicher und leicht begehbar für Kinder und ältere Menschen an Regentagen.",
+      "en": "Thus the walkway becomes safe and easy for children and elders during rainy winter days."
+    }
+  ]
+}

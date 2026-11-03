@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_069",
+  "root_ar": "ر-ص-ف",
+  "infinitive_ar": "رَصَفَ - يَرْصُفُ",
+  "infinitive_de": "pflastern",
+  "infinitive_en": "to pave with stone",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَرْصُفُ مَمَرَّ المَسْجِدِ بِالحِجَارَةِ",
+      "de_ich": "ich pflastere den Gehweg mit Steinen",
+      "en_i": "I pave the walkway with stones"
+    },
+    "past": {
+      "ar_ana": "أَنَا رَصَفْتُ الطَّرِيقَ",
+      "de_ich": "ich habe die Gasse gepflastert",
+      "en_i": "I paved the alley"
+    }
+  }
+}
