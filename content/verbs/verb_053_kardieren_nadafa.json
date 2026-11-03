@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_053",
+  "root_ar": "ن-د-ف",
+  "infinitive_ar": "نَدَفَ - يَنْدُفُ",
+  "infinitive_de": "kardieren / kämmen",
+  "infinitive_en": "to card / comb wool",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَنْدُفُ الصُّوفَ النَّاعِمَ",
+      "de_ich": "ich kardiere die weiche Wolle",
+      "en_i": "I card the soft wool"
+    },
+    "past": {
+      "ar_ana": "أَنَا نَدَفْتُ الأَلْيَافَ",
+      "de_ich": "ich habe die Fasern gekämmt",
+      "en_i": "I combed the fibers"
+    }
+  }
+}

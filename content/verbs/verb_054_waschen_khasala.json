@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_054",
+  "root_ar": "غ-س-ل",
+  "infinitive_ar": "غَسَلَ - يَغْسِلُ",
+  "infinitive_de": "waschen / reinigen",
+  "infinitive_en": "to wash / cleanse",
+  "cefr_level": "A1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَغْسِلُ الصُّوفَ بِمَاءِ النَّبْعِ",
+      "de_ich": "ich wasche die Wolle mit Quellwasser",
+      "en_i": "I wash the wool with spring water"
+    },
+    "past": {
+      "ar_ana": "أَنَا غَسَلْتُ الثِّيَابَ",
+      "de_ich": "ich habe die Kleider gewaschen",
+      "en_i": "I washed the garments"
+    }
+  }
+}

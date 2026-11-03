@@ -1,0 +1,30 @@
+{
+  "id": "category_034",
+  "name_ar": "نَدَافَةُ الصُّوفِ وَالغَسْلُ الطَّبِيعِيُّ",
+  "name_de": "Wollkardierung und natürliche Reinigung",
+  "name_en": "Wool Carding and Natural Cleansing",
+  "cefr_level": "A2",
+  "concepts": [
+    {
+      "id": "concept_104_raw_sheared_wool",
+      "arabic": "جُزَازُ الصُّوفِ الأَبْيَضُ",
+      "german": "die weiße Schafschurwolle",
+      "english": "white sheared raw wool",
+      "image_key": "asset_wool_sheared_raw"
+    },
+    {
+      "id": "concept_105_wool_carding_comb",
+      "arabic": "مِشْطُ النَّدَّافِ الخَشَبِيُّ",
+      "german": "die hölzerne Wollkarde",
+      "english": "the wooden wool carding comb",
+      "image_key": "asset_wool_carding_comb"
+    },
+    {
+      "id": "concept_106_mountain_spring_water",
+      "arabic": "مَاءُ النَّبْعِ الجَبَلِيِّ العَذْبُ",
+      "german": "das klare Bergquellwasser",
+      "english": "pure mountain spring water",
+      "image_key": "asset_wool_mountain_spring"
+    }
+  ]
+}

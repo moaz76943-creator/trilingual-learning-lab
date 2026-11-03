@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_029",
+  "title_ar": "غَسْلُ الصُّوفِ فِي مَاءِ النَّبْعِ الجَبَلِيِّ",
+  "title_de": "Waschen der Wolle an der reinen Bergquelle",
+  "title_en": "Washing Wool at the Pure Mountain Spring",
+  "cefr_level": "A2",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "الشَّابُّ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَا أَنْقَى هَذَا المَاءَ الجَارِيَ مِنْ قِمَمِ الجِبَالِ لِتَنْظِيفِ الصُّوفِ!",
+      "de": "Guten Tag! Wie rein dieses fließende Wasser von den Berggipfeln ist, um die Wolle zu waschen!",
+      "en": "Good day! How pure this water flowing from the mountain peaks is for cleansing the wool!"
+    },
+    {
+      "turn": 2,
+      "speaker": "الغَزَّالُ الخَبِيرُ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَغْسِلُ جُزَازَ الصُّوفِ بِمَغْلِيِّ جُذُورِ عُشْبَةِ الصَّابُونِيَّةِ الطَّبِيعِيَّةِ دُونَ إِضْرَارٍ بِالأَلْيَافِ.",
+      "de": "Willkommen! Wir waschen die Schurwolle mit natürlichem Seifenkrautsud, ganz ohne die Fasern zu beschädigen.",
+      "en": "Welcome! We wash the sheared wool with natural soapwort decoction without harming the fibers."
+    },
+    {
+      "turn": 3,
+      "speaker": "الشَّابُّ",
+      "ar": "فَيَخْرُجُ الصُّوفُ أَبْيَضَ نَاصِعًا لَيِّنًا جَاهِزًا لِلنَّدَافَةِ وَالمِغْزَلِ.",
+      "de": "So wird die Wolle strahlend weiß, wunderbar weich und bereit zum Kardieren und Spinnen.",
+      "en": "Thus the wool emerges radiantly white, soft, and ready for carding and the spindle."
+    }
+  ]
+}
