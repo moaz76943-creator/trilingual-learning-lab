@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_040",
+  "title_ar": "عِنْدَ صَانِعِ أَدَوَاتِ خَشَبِ الزَّيْتُونِ",
+  "title_de": "Beim Olivenholzschnitzer und traditioneller Holzkunst",
+  "title_en": "At the Olive Wood Artisan and Traditional Kitchenware",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُتَسَوِّقُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَا أَبْهَى هَذِهِ التَّمَوُّجَاتِ الدَّاخِلِيَّةَ فِي صَحْفَةِ خَشَبِ الزَّيْتُونِ!",
+      "de": "Guten Tag! Wie prachtvoll diese natürliche Maserung in dieser Schale aus Olivenholz ist!",
+      "en": "Good day! How magnificent these natural wavy grains are in this olive wood bowl!"
+    },
+    {
+      "turn": 2,
+      "speaker": "الصَّانِعُ النَّجَّارُ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. خَشَبُ الزَّيْتُونِ كَثِيفٌ صَلْدٌ لَا يَمْتَصُّ السَّوَائِلَ، وَنَدْهُنُهُ فَقَطْ بِزَيْتِ الزَّيْتُونِ النَّقِيِّ.",
+      "de": "Willkommen! Olivenholz ist dicht und fest; es nimmt keine Flüssigkeit auf und wird nur mit reinem Olivenöl gepflegt.",
+      "en": "Welcome! Olive wood is dense and hard; it absorbs no liquids and is conditioned solely with pure olive oil."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُتَسَوِّقُ",
+      "ar": "هَذِهِ أَدَوَاتٌ صِحِّيَّةٌ صَدِيقَةٌ لِلْبِيئَةِ تَحْمِلُ بَرَكَةَ الشَّجَرَةِ المُبَارَكَةِ إِلَى كُلِّ بَيْتٍ.",
+      "de": "Dies sind gesunde, umweltfreundliche Utensilien, die den Segen dieses edlen Baumes in jedes Haus tragen.",
+      "en": "These are wholesome, eco-friendly utensils carrying the blessing of this noble tree into every home."
+    }
+  ]
+}

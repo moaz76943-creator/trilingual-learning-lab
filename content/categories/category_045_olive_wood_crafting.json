@@ -1,0 +1,30 @@
+{
+  "id": "category_045",
+  "name_ar": "صِنَاعَةُ أَدَوَاتِ خَشَبِ الزَّيْتُونِ",
+  "name_de": "Olivenholzhandwerk und Haushaltswaren",
+  "name_en": "Olive Wood Crafting and Kitchen Utensils",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_137_figured_olive_wood",
+      "arabic": "خَشَبُ الزَّيْتُونِ المُعَرَّقُ الصَّلْدُ",
+      "german": "das gemaserte massive Olivenholz",
+      "english": "dense figured olive wood",
+      "image_key": "asset_wood_figured_olive"
+    },
+    {
+      "id": "concept_138_polished_wooden_spoon",
+      "arabic": "مِلْعَقَةُ الخَشَبِ المَصْقُولَةُ",
+      "german": "der fein geschliffene Holzlöffel",
+      "english": "the polished wooden spoon",
+      "image_key": "asset_wood_olive_spoon"
+    },
+    {
+      "id": "concept_139_olive_wood_bowl",
+      "arabic": "صَحْفَةُ الخَشَبِ التُّرَاثِيَّةُ",
+      "german": "die traditionelle Olivenholzschale",
+      "english": "traditional olive wood bowl",
+      "image_key": "asset_wood_olive_bowl"
+    }
+  ]
+}

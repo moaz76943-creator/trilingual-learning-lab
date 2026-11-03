@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_075",
+  "root_ar": "د-ه-ن",
+  "infinitive_ar": "دَهَنَ - يَدْهُنُ",
+  "infinitive_de": "einölen / pflegen",
+  "infinitive_en": "to oil / condition",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَدْهُنُ صَحْفَةَ الخَشَبِ بِالزَّيْتِ",
+      "de_ich": "ich öle die Holzschale mit reinem Öl ein",
+      "en_i": "I oil the wooden bowl with pure oil"
+    },
+    "past": {
+      "ar_ana": "أَنَا دَهَنْتُ المِلْعَقَةَ",
+      "de_ich": "ich habe den Löffel eingeölt",
+      "en_i": "I oiled the spoon"
+    }
+  }
+}

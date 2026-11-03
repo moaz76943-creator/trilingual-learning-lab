@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_076",
+  "root_ar": "س-ح-ج",
+  "infinitive_ar": "سَحَجَ - يَسْحَجُ",
+  "infinitive_de": "hobeln / glätten",
+  "infinitive_en": "to plane / smooth wood",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَسْحَجُ لَوْحَ الزَّيْتُونِ بِمِسْحَاجٍ حَادٍّ",
+      "de_ich": "ich hobele das Olivenbrett mit dem Hobel",
+      "en_i": "I plane the olive board with the planer"
+    },
+    "past": {
+      "ar_ana": "أَنَا سَحَجْتُ سَطْحَ الخَشَبِ",
+      "de_ich": "ich habe die Holzoberfläche gehobelt",
+      "en_i": "I planed the wooden surface"
+    }
+  }
+}
