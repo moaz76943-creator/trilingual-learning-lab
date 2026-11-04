@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_066",
+  "title_ar": "فِي مَشْغَلِ نَقْشِ الصَّوَانِي النُّحَاسِيَّةِ بِالحِكَمِ",
+  "title_de": "In der Kupferwerkstatt für gravierte Spruchschalen",
+  "title_en": "At the Engraved Copper Wisdom Platters Workshop",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُتَسَوِّقُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَا أَبْهَى هَذِهِ الصِّينِيَّةَ النُّحَاسِيَّةَ المَنْقُوشَةَ بِعِبَارَةِ: (الصِّدْقُ سَفِينَةُ النَّجَاةِ)!",
+      "de": "Guten Tag! Wie prachtvoll diese Kupferschale mit der Gravur ist: 'Wahrhaftigkeit ist das Schiff der Rettung'!",
+      "en": "Good day! How magnificent this copper platter engraved with: 'Truthfulness is the vessel of salvation'!"
+    },
+    {
+      "turn": 2,
+      "speaker": "النَّقَّاشُ الصَّانِعُ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَنْقُشُ الحِكَمَ بِخَطِّ الثُّلُثِ الجَلِيلِ لِيَبْقَى الكَلَامُ الطَّيِّبُ حَاضِرًا فِي مَجَالِسِ النَّاسِ.",
+      "de": "Willkommen! Wir ziselieren Weisheiten in erhabener Schrift, damit das gute Wort stets in den Häusern leuchtet.",
+      "en": "Welcome! We engrave wisdom in majestic calligraphy so noble words remain present in people's gatherings."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُتَسَوِّقُ",
+      "ar": "هَذَا فَنٌّ يُذَكِّرُ بِالقِيَمِ الأَصِيلَةِ كُلَّمَا جَلَسَ الضُّيُوفُ لِتَنَاوُلِ الطَّعَامِ وَالشَّرَابِ الطَّهُورِ.",
+      "de": "Dies ist eine Kunst, die an edle Werte erinnert, wann immer Gäste zu reiner Speise und Trank zusammenkommen.",
+      "en": "This is art that evokes noble values whenever guests gather to share wholesome food and pure drink."
+    }
+  ]
+}

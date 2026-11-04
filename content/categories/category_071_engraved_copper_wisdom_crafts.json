@@ -1,0 +1,30 @@
+{
+  "id": "category_071",
+  "name_ar": "نَقْشُ الحِكَمِ عَلَى النُّحَاسِ",
+  "name_de": "Kupfergravur und sittliche Spruchkunst",
+  "name_en": "Copper Inscriptions and Moral Wisdom Crafts",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_215_engraved_wisdom_platter",
+      "arabic": "صِينِيَّةُ النُّحَاسِ المَنْقُوشَةُ بِالحِكْمَةِ",
+      "german": "das spruchgravierte Kupferteller",
+      "english": "wisdom-engraved copper platter",
+      "image_key": "asset_plate_copper_wisdom"
+    },
+    {
+      "id": "concept_216_fine_lettering_graver",
+      "arabic": "مِرْقَمُ الخَطِّ النَّحَّاسِيُّ",
+      "german": "der feine Schriftstichel",
+      "english": "the copper lettering stylus",
+      "image_key": "asset_plate_lettering_graver"
+    },
+    {
+      "id": "concept_217_ornamental_calligraphic_rim",
+      "arabic": "إِطَارُ الخَطِّ التَّزْيِينِيُّ",
+      "german": "der ziselierte kalligraphische Rand",
+      "english": "the ornamental calligraphic rim",
+      "image_key": "asset_plate_calligraphic_rim"
+    }
+  ]
+}

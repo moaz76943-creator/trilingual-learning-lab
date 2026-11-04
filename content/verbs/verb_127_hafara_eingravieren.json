@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_127",
+  "root_ar": "ح-ف-ر",
+  "infinitive_ar": "حَفَرَ - يَحْفِرُ",
+  "infinitive_de": "eingravieren / ritzen",
+  "infinitive_en": "to inscribe / engrave letters",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَحْفِرُ الحِكْمَةَ عَلَى المَعْدِنِ",
+      "de_ich": "ich graviere den Sinnspruch in das Metall ein",
+      "en_i": "I inscribe the wisdom upon the metal"
+    },
+    "past": {
+      "ar_ana": "أَنَا حَفَرْتُ كَلِمَاتٍ طَيِّبَةً",
+      "de_ich": "ich habe gute Worte eingraviert",
+      "en_i": "I inscribed noble words"
+    }
+  }
+}

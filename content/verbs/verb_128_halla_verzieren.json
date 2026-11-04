@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_128",
+  "root_ar": "ح-ل-ي",
+  "infinitive_ar": "حَلَّى - يُحَلِّي",
+  "infinitive_de": "verzieren / schmücken",
+  "infinitive_en": "to ornament / embellish",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أُحَلِّي حَوَافِيَ الصِّينِيَّةِ بِالزُّهُورِ",
+      "de_ich": "ich verziere die Ränder des Tellers mit Blumen",
+      "en_i": "I ornament the edges of the platter with floral motifs"
+    },
+    "past": {
+      "ar_ana": "أَنَا حَلَّيْتُ الإِنَاءَ بِالنُّقُوشِ",
+      "de_ich": "ich habe das Gefäß mit Ornamenten geschmückt",
+      "en_i": "I embellished the vessel with patterns"
+    }
+  }
+}
