@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_068",
+  "title_ar": "مَجْلِسُ الحِرَفِيِّينَ الأَصِيلِ وَالاحْتِفَاءُ بِالإِتْقَانِ",
+  "title_de": "Meistertreffen des traditionellen Handwerks und Würdigung der Vollendung",
+  "title_en": "Grand Gathering of Master Artisans and Celebration of Mastery",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "شَيْخُ الصُّنَّاعِ",
+      "ar": "الحَمْدُ للهِ الَّذِي بِنِعْمَتِهِ تَتِمُّ الصَّالِحَاتُ، نَلْتَقِي اليَوْمَ لِنَحْتَفِيَ بِتَمَامِ هَذِهِ الأَعْمَالِ النَّافِعَةِ.",
+      "de": "Alles Lob gebührt Gott, durch dessen Gnade die guten Werke vollendet werden; wir feiern heute den reichen Ertrag.",
+      "en": "All praise is due to God, by whose grace righteous deeds are completed; today we gather to honor fruitful work."
+    },
+    {
+      "turn": 2,
+      "speaker": "البَنَّاءُ الخَبِيرُ",
+      "ar": "تَظَافَرَتْ سَوَاعِدُنَا فِي الحَفْرِ وَالبِنَاءِ، وَالغَرْسِ وَالنَّسْجِ، حَتَّى عَادَتِ الأَرْضُ تُزْهِرُ بِالخَيْرِ وَالعِمَارَةِ.",
+      "de": "Vereinte Hände wirkten im Bauen, Pflanzen und Weben, bis das Land in fruchtbarem Segen erblühte.",
+      "en": "Our hands united in building, planting, and weaving, until the earth blossomed with wholesome prosperity."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُتَعَلِّمُ الشَّابُّ",
+      "ar": "عَلَّمْتُمُونَا أَنَّ الصَّنْعَةَ أَمَانَةٌ، وَأَنَّ الإِتْقَانَ عِبَادَةٌ، وَأَنَّ نَفْعَ النَّاسِ أَنْبَلُ غَايَاتِ الحَيَاةِ.",
+      "de": "Sie lehrten uns, dass Handwerk eine Treue ist, Vollendung ein Gottesdienst, und der Dienst am Nächsten der höchste Sinn.",
+      "en": "You taught us that craft is a sacred trust, excellence is devotion, and serving humanity is life's noblest purpose."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "category_073",
+  "name_ar": "مَوْسِمُ البَرَكَةِ وَالحَصَادِ الذَّهَبِيِّ",
+  "name_de": "Segensreiche Ernte und Fest der Meisterschaft",
+  "name_en": "Golden Harvest Season and Celebration of Mastery",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_221_golden_harvest_abundance",
+      "arabic": "مَوْسِمُ البَرَكَةِ وَالحَصَادِ الذَّهَبِيِّ",
+      "german": "die segensreiche goldene Erntezeit",
+      "english": "blessed golden harvest season",
+      "image_key": "asset_harvest_golden_season"
+    },
+    {
+      "id": "concept_222_communal_banquet_table",
+      "arabic": "مَائِدَةُ التَّعَاوُنِ البَلَدِيَّةُ المِعْطَاءَةُ",
+      "german": "die festliche Tafel der Gemeinschaft",
+      "english": "generous communal banquet table",
+      "image_key": "asset_harvest_communal_table"
+    },
+    {
+      "id": "concept_223_joy_of_accomplished_work",
+      "arabic": "فَرْحَةُ الإِنْجَازِ بِالإِتْقَانِ التَّامِّ",
+      "german": "die reine Freude an vollendeter Meisterschaft",
+      "english": "the pure joy of accomplished mastery",
+      "image_key": "asset_harvest_joy_accomplishment"
+    }
+  ]
+}

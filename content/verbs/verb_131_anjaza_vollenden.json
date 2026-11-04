@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_131",
+  "root_ar": "ن-ج-ز",
+  "infinitive_ar": "أَنْجَزَ - يُنْجِزُ",
+  "infinitive_de": "vollenden / vollkommen abschließen",
+  "infinitive_en": "to accomplish / complete masterfully",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أُنْجِزُ المَهَمَّةَ بِإِتْقَانٍ تَامٍّ",
+      "de_ich": "ich vollende das Werk in Meisterschaft",
+      "en_i": "I accomplish the task with complete mastery"
+    },
+    "past": {
+      "ar_ana": "أَنْجَزْنَا خَارِطَةَ العَمَلِ كَامِلَةً",
+      "de_wir": "wir haben den gesamten Arbeitsplan vollendet",
+      "en_we": "we accomplished the entire roadmap"
+    }
+  }
+}

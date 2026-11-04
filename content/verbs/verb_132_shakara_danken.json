@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_132",
+  "root_ar": "ش-ك-ر",
+  "infinitive_ar": "شَكَرَ - يَشْكُرُ",
+  "infinitive_de": "danken / Dankbarkeit bezeugen",
+  "infinitive_en": "to give thanks / express gratitude",
+  "cefr_level": "A1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَشْكُرُ اللهَ عَلَى تَمَامِ النِّعْمَةِ",
+      "de_ich": "ich danke Gott für die vollendete Gnade",
+      "en_i": "I thank God for the completed blessing"
+    },
+    "past": {
+      "ar_ana": "شَكَرْنَا كُلَّ مَنْ سَاهَمَ فِي الإِحْسَانِ",
+      "de_wir": "wir dankten jedem, der zum Guten beitrug",
+      "en_we": "we thanked everyone who contributed to excellence"
+    }
+  }
+}
