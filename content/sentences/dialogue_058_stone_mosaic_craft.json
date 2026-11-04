@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_058",
+  "title_ar": "فِي مَشْغَلِ الفُسَيْفِسَاءِ الحَجَرِيَّةِ التُّرَاثِيَّةِ",
+  "title_de": "In der traditionellen Steinmosaikwerkstatt",
+  "title_en": "At the Traditional Stone Mosaic Workshop",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُتَأَمِّلُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَا أَبْرَعَ كَيْفَ تَأْتَلِفُ هَذِهِ الحِجَارَةُ الصَّغِيرَةُ المُلَوَّنَةُ لِتُشَكِّلَ لَوْحَةً مُعَبِّرَةً!",
+      "de": "Guten Tag! Wie meisterhaft sich diese winzigen bunten Steinchen zu einem harmonischen Gesamtbild fügen!",
+      "en": "Good day! How masterfully these tiny colored stones harmonize to form an expressive artwork!"
+    },
+    {
+      "turn": 2,
+      "speaker": "فَنَّانُ الفُسَيْفِسَاءِ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَقْطَعُ حِجَارَةَ الصَّوَّانِ وَالرُّخَامِ الطَّبِيعِيِّ مُكَعَّبَاتٍ دَقِيقَةً، ثُمَّ نَرْصُفُهَا بِالمِلْطِ الجِيرِيِّ.",
+      "de": "Willkommen! Wir schlagen Naturmarmor und Kiesel in feine Würfel und setzen sie in reinen Kalkmörtel.",
+      "en": "Welcome! We cut natural marble and pebbles into fine cubes and set them into pure lime mortar."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُتَأَمِّلُ",
+      "ar": "إِنَّهَا مَثَلٌ حَيٌّ لِأَهْلِ المُجْتَمَعِ الصَّالِحِ؛ كُلُّ فَرْدٍ لَهُ مَكَانُهُ الَّذِي يُكَمِّلُ بِهِ خَيْرَ الجَمَاعَةِ.",
+      "de": "Es ist ein lebendiges Gleichnis für die Gemeinschaft: Jeder Einzelne vollendet das Wohl des Ganzen.",
+      "en": "It is a living parable of wholesome community: each individual completes the good of the whole."
+    }
+  ]
+}

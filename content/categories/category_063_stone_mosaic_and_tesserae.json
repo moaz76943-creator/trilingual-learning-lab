@@ -1,0 +1,30 @@
+{
+  "id": "category_063",
+  "name_ar": "فُنُونُ الفُسَيْفِسَاءِ الحَجَرِيَّةِ",
+  "name_de": "Steinmosaikkunst und Farbharmonie",
+  "name_en": "Stone Mosaic Arts and Visual Harmony",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_191_natural_tesserae",
+      "arabic": "مُكَعَّبَاتُ الفُسَيْفِسَاءِ الرُّخَامِيَّةُ",
+      "german": "die feinen Marmormosaiksteinchen",
+      "english": "natural marble mosaic tesserae",
+      "image_key": "asset_mosaic_marble_cubes"
+    },
+    {
+      "id": "concept_192_stone_chopping_hammer",
+      "arabic": "مِطْرَقَةُ تَقْطِيعِ الحَجَرِ الدَّقِيقَةُ",
+      "german": "der feine Mosaikhammer",
+      "english": "the precise stone-chopping hammer",
+      "image_key": "asset_mosaic_cutting_hammer"
+    },
+    {
+      "id": "concept_193_lime_bedding_mortar",
+      "arabic": "المِلْطُ الجِيرِيُّ لِتَثْبِيتِ الأَحْجَارِ",
+      "german": "das kalkgebundene Setzbett",
+      "english": "the natural lime bedding mortar",
+      "image_key": "asset_mosaic_lime_bed"
+    }
+  ]
+}

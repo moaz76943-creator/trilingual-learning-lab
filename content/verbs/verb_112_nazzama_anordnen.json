@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_112",
+  "root_ar": "ن-ظ-م",
+  "infinitive_ar": "نَظَّمَ - يُنَظِّمُ",
+  "infinitive_de": "anordnen / harmonisch fügen",
+  "infinitive_en": "to arrange / harmonize tesserae",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أُنَظِّمُ الأَلْوَانَ فِي اللَّوْحَةِ",
+      "de_ich": "ich ordne die Farben im Mosaik harmonisch an",
+      "en_i": "I arrange the colors harmoniously in the mosaic"
+    },
+    "past": {
+      "ar_ana": "أَنَا نَظَّمْتُ الأَحْجَارَ فِي المِلْطِ",
+      "de_ich": "ich habe die Steinchen im Mörtelbett angeordnet",
+      "en_i": "I arranged the stones in the mortar bed"
+    }
+  }
+}
