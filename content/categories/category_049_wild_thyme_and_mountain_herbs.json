@@ -1,0 +1,30 @@
+{
+  "id": "category_049",
+  "name_ar": "عُلُومُ الزَّعْتَرِ البَرِّيِّ وَالأَعْشَابِ",
+  "name_de": "Wildthymiankunde und Gebirgskräuter",
+  "name_en": "Wild Mountain Thyme and Aromatic Herbs",
+  "cefr_level": "A2",
+  "concepts": [
+    {
+      "id": "concept_149_wild_mountain_thyme",
+      "arabic": "الزَّعْتَرُ الجَبَلِيُّ البَرِّيُّ",
+      "german": "der duftende wilde Bergthymian",
+      "english": "fragrant wild mountain thyme",
+      "image_key": "asset_herb_mountain_thyme"
+    },
+    {
+      "id": "concept_150_herbal_sickle",
+      "arabic": "المِنْجَلُ الصَّغِيرُ لِقَطْعِ الأَعْشَابِ",
+      "german": "die kleine Kräutersichel",
+      "english": "the small herbal foraging sickle",
+      "image_key": "asset_herb_small_sickle"
+    },
+    {
+      "id": "concept_151_woven_wicker_basket",
+      "arabic": "السَّلَّةُ الخَيْزُرَانِيَّةُ المُهَوَّاةُ",
+      "german": "der luftige geflochtene Weidenkorb",
+      "english": "the airy woven wicker basket",
+      "image_key": "asset_herb_wicker_basket"
+    }
+  ]
+}

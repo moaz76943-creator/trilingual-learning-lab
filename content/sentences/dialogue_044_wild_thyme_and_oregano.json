@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_044",
+  "title_ar": "جَنْيُ الزَّعْتَرِ البَرِّيِّ فِي سُفُوحِ الجِبَالِ",
+  "title_de": "Ernte des wilden Bergthymians an den Berghängen",
+  "title_en": "Harvesting Wild Mountain Thyme on the Slopes",
+  "cefr_level": "A2",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُتَعَلِّمُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَا أَعْطَرَ هَذَا الشَّذَى الفَوَّاحَ الَّذِي يَمْلَأُ نَسِيمَ الجَبَلِ!",
+      "de": "Guten Tag! Welch herrlicher, würziger Duft erfüllt die frische Bergluft!",
+      "en": "Good day! What an exquisite, aromatic fragrance fills the fresh mountain breeze!"
+    },
+    {
+      "turn": 2,
+      "speaker": "جَانِي الأَعْشَابِ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَقُصُّ أَطْرَافَ أَغْصَانِ الزَّعْتَرِ بِمِنْجَلٍ صَغِيرٍ دُونَ قَلْعِ الجُذُورِ حِفْظًا لِلْبِيئَةِ.",
+      "de": "Willkommen! Wir schneiden die Triebspitzen mit einer kleinen Sichel, ohne die Wurzeln zu beschädigen.",
+      "en": "Welcome! We trim the thyme tips with a small sickle without uprooting, preserving the natural habitat."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُتَعَلِّمُ",
+      "ar": "فَتَبْقَى الشَّتْلَةُ حَيَّةً تُثْمِرُ عَامًا بَعْدَ عَامٍ وَيَسْتَفِيدُ النَّحْلُ مِنْ أَزْهَارِهَا البَدِيعَةِ.",
+      "de": "So bleibt die Pflanze lebendig, wächst Jahr für Jahr nach, und die Bienen finden reichlich Weide.",
+      "en": "Thus the plant stays alive to thrive year after year, and bees find bountiful forage on its blossoms."
+    }
+  ]
+}
