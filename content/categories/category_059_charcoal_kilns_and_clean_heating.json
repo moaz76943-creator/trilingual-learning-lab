@@ -1,0 +1,30 @@
+{
+  "id": "category_059",
+  "name_ar": "عُلُومُ الفَحْمِ النَّبَاتِيِّ وَالمَفَاحِمِ",
+  "name_de": "Köhlerei und Erdmeilerbau",
+  "name_en": "Charcoal Kilns and Clean Heating",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_179_earthen_charcoal_kiln",
+      "arabic": "المَفْحَمَةُ التُّرَابِيَّةُ التَّقْلِيدِيَّةُ",
+      "german": "der traditionelle Erdmeiler",
+      "english": "the traditional earthen charcoal mound",
+      "image_key": "asset_kiln_earth_mound"
+    },
+    {
+      "id": "concept_180_dense_plant_charcoal",
+      "arabic": "الفَحْمُ النَّبَاتِيُّ الصَّلْدُ النَّقِيُّ",
+      "german": "die feste, reine Pflanzenholzkohle",
+      "english": "pure dense vegetable charcoal",
+      "image_key": "asset_kiln_plant_charcoal"
+    },
+    {
+      "id": "concept_181_smothering_earth_shovel",
+      "arabic": "مِجْرَفَةُ طَمْرِ الجَمْرِ بِالتُّرَابِ",
+      "german": "die Erdschaufel zum Ersticken der Glut",
+      "english": "the earth shovel for smothering embers",
+      "image_key": "asset_kiln_earth_shovel"
+    }
+  ]
+}

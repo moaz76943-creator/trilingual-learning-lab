@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_104",
+  "root_ar": "ط-م-ر",
+  "infinitive_ar": "طَمَرَ - يَطْمُرُ",
+  "infinitive_de": "mit Erde abdecken / ersticken",
+  "infinitive_en": "to cover with earth / smother",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَطْمُرُ المَفْحَمَةَ بِالتُّرَابِ لِمَنْعِ اللَّهِيبِ",
+      "de_ich": "ich decke den Meiler mit Erde ab",
+      "en_i": "I cover the mound with earth"
+    },
+    "past": {
+      "ar_ana": "أَنَا طَمَرْتُ الجَمْرَ حِفْظًا لَهُ",
+      "de_ich": "ich habe die Glut mit Erde bedeckt",
+      "en_i": "I smothered the embers with earth"
+    }
+  }
+}

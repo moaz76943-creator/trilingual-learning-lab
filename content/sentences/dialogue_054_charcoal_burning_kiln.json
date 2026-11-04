@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_054",
+  "title_ar": "عِنْدَ صَانِعِ الفَحْمِ النَّبَاتِيِّ فِي المَفْحَمَةِ",
+  "title_de": "Beim traditionellen Köhler am Erdmeiler",
+  "title_en": "At the Traditional Charcoal Burner and Earthen Kiln",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُتَعَلِّمُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، كَيْفَ يَتَحَوَّلُ هَذَا الخَشَبُ الجَافُّ إِلَى فَحْمٍ أَسْوَدَ صَلْبٍ دُونَ أَنْ يَحْتَرِقَ رَمَادًا؟",
+      "de": "Guten Tag! Wie wandelt sich dieses trockene Holz in feste Holzkohle, ohne zu Asche zu verbrennen?",
+      "en": "Good day! How does this dry wood turn into solid charcoal without burning to ash?"
+    },
+    {
+      "turn": 2,
+      "speaker": "الفَحَّامُ الخَبِيرُ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نُنَضِّدُ الحَطَبَ فِي كَوْمَةٍ هَرَمِيَّةٍ، وَنَطْمُرُهَا بِالتُّرَابِ وَالعُشْبِ لِنَمْنَعَ دُخُولَ الهَوَاءِ.",
+      "de": "Willkommen! Wir schichten das Holz kegelförmig auf und decken es mit Erde und Gras ab, um Luft abzusperren.",
+      "en": "Welcome! We stack the firewood in a pyramid mound and cover it with earth and grass to seal off the air."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُتَعَلِّمُ",
+      "ar": "فَيَتَفَحَّمُ بِبُطْءٍ عَلَى مَدَارِ أَيَّامٍ لِيَمْنَحَ دِفْئًا نَقِيًّا خَالِيًا مِنَ الدُّخَانِ فِي بُيُوتِ النَّاسِ.",
+      "de": "So verkohlt es langsam über Tage und spendet rauchfreie, reine Wärme in den Häusern.",
+      "en": "Thus it chars slowly over days to provide pure, smokeless warmth in people's homes."
+    }
+  ]
+}

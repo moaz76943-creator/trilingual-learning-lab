@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_103",
+  "root_ar": "ف-ح-م",
+  "infinitive_ar": "فَحَّمَ - يُفَحِّمُ",
+  "infinitive_de": "verkohlen / zu Kohle brennen",
+  "infinitive_en": "to char / turn into charcoal",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أُفَحِّمُ خَشَبَ البَلُّوطِ فِي المَفْحَمَةِ",
+      "de_ich": "ich verkohle das Eichenholz im Meiler",
+      "en_i": "I char the oak wood in the kiln"
+    },
+    "past": {
+      "ar_ana": "أَنَا فَحَّمْتُ الحَطَبَ بِبُطْءٍ",
+      "de_ich": "ich habe das Holz langsam verkohlt",
+      "en_i": "I charred the firewood slowly"
+    }
+  }
+}
