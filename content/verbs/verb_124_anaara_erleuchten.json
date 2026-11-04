@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_124",
+  "root_ar": "ن-و-ر",
+  "infinitive_ar": "أَنَارَ - يُنِيرُ",
+  "infinitive_de": "erleuchten / erhellen",
+  "infinitive_en": "to illuminate / light up",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "المَنَارَةُ تُنِيرُ سَاحِلَ الوَطَنِ",
+      "de_sie": "der Leuchtturm erleuchtet die Küste",
+      "en_it": "the lighthouse illuminates the coast"
+    },
+    "past": {
+      "ar_ana": "أَنَارَ الضِّيَاءُ عَتَمَةَ الدُّجَى",
+      "de_er": "das Licht hat die Finsternis erhellt",
+      "en_it": "the radiance lit up the dark night"
+    }
+  }
+}

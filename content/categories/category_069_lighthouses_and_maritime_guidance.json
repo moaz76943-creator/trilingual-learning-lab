@@ -1,0 +1,30 @@
+{
+  "id": "category_069",
+  "name_ar": "عُلُومُ المَنَارَاتِ البَحْرِيَّةِ وَالإِرْشَادِ",
+  "name_de": "Leuchtturmkunde und maritime Navigation",
+  "name_en": "Lighthouses and Maritime Guidance",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_209_stone_lighthouse",
+      "arabic": "المَنَارَةُ الحَجَرِيَّةُ الشَّامِخَةُ",
+      "german": "der majestätische steinerne Leuchtturm",
+      "english": "majestic stone coastal lighthouse",
+      "image_key": "asset_light_stone_tower"
+    },
+    {
+      "id": "concept_210_polished_bronze_reflector",
+      "arabic": "مِرْآةُ النُّحَاسِ المَصْقُولَةُ لِعَكْسِ النُّورِ",
+      "german": "der polierte Bronzespiegel zur Lichtbündelung",
+      "english": "polished bronze reflector mirror",
+      "image_key": "asset_light_bronze_mirror"
+    },
+    {
+      "id": "concept_211_guiding_beacon_lamp",
+      "arabic": "مِصْبَاحُ الهِدَايَةِ الزَّيْتِيُّ",
+      "german": "die weisende Öllampe des Feuers",
+      "english": "the guiding oil beacon lamp",
+      "image_key": "asset_light_beacon_lamp"
+    }
+  ]
+}

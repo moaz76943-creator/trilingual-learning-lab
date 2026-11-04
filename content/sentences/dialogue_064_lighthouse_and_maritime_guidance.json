@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_064",
+  "title_ar": "عِنْدَ حَارِسِ المَنَارَةِ وَإِرْشَادِ السُّفُنِ",
+  "title_de": "Beim Leuchtturmwärter und nächtlicher Schiffslenkung",
+  "title_en": "At the Lighthouse Keeper and Maritime Night Guidance",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُسَافِرُ البَحْرِيُّ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَا أَبْهَى هَذَا الشُّعَاعَ الوَهَّاجَ الَّذِي يَمْتَدُّ أَمْيَالًا فِي عُرْضِ البَحْرِ الهَائِجِ!",
+      "de": "Guten Tag! Wie strahlend hell dieser Lichtstrahl viele Meilen weit über das stürmische Meer leuchtet!",
+      "en": "Good day! How brilliantly radiant this beam stretches for miles across the stormy sea!"
+    },
+    {
+      "turn": 2,
+      "speaker": "حَارِسُ المَنَارَةِ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نُشْعِلُ مِصْبَاحَ الزَّيْتِ النَّقِيِّ، وَنَعْكِسُ نُورَهُ بِمَرَايَا النُّحَاسِ المَصْقُولَةِ لِيَهْتَدِيَ المَلَّاحُونَ.",
+      "de": "Willkommen! Wir nähren die reine Öllampe und bündeln ihr Licht mit polierten Bronzespiegeln zum Geleit der Schiffe.",
+      "en": "Welcome! We fuel the pure oil lamp and reflect its light with polished bronze mirrors to guide mariners safely."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُسَافِرُ البَحْرِيُّ",
+      "ar": "بَارَكَ اللهُ فِي عَمَلِكُمْ؛ فَإِنْقَاذُ الأَنْفُسِ وَإِرْشَادُ التَّائِهِينَ مِنْ أَعْظَمِ أَعْمَالِ المُرُوءَةِ وَالإِحْسَانِ.",
+      "de": "Möge Gott Ihr Werk segnen; das Retten von Leben und Leiten der Suchenden ist edelste Barmherzigkeit.",
+      "en": "May God bless your work; saving lives and guiding the lost is among the highest deeds of noble compassion."
+    }
+  ]
+}

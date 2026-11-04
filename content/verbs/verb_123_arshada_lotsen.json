@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_123",
+  "root_ar": "ر-ش-د",
+  "infinitive_ar": "أَرْشَدَ - يُرْشِدُ",
+  "infinitive_de": "lotsen / leiten / weisen",
+  "infinitive_en": "to guide / pilot safely",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أُرْشِدُ السَّفِينَةَ إِلَى المَرْسَى الآمِنِ",
+      "de_ich": "ich lotse das Schiff in den sicheren Hafen",
+      "en_i": "I guide the ship into the safe harbor"
+    },
+    "past": {
+      "ar_ana": "أَنَا أَرْشَدْتُ التَّائِهَ فِي البَحْرِ",
+      "de_ich": "ich habe den Verirrten sicher geleitet",
+      "en_i": "I guided the lost wanderer safely"
+    }
+  }
+}
