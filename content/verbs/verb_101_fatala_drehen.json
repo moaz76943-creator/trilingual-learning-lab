@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_101",
+  "root_ar": "ف-ت-ل",
+  "infinitive_ar": "فَتَلَ - يَفْتِلُ",
+  "infinitive_de": "drehen / zu Seilen winden",
+  "infinitive_en": "to twist fibers into rope",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَفْتِلُ حِبَالَ الحَلْفَاءِ بِكَفَّيَّ",
+      "de_ich": "ich drehe die Espartoseile mit den Händen",
+      "en_i": "I twist esparto cords with my hands"
+    },
+    "past": {
+      "ar_ana": "أَنَا فَتَلْتُ حَبْلًا مَتِينًا",
+      "de_ich": "ich habe ein festes Seil gedreht",
+      "en_i": "I twisted a sturdy rope"
+    }
+  }
+}

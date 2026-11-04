@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_053",
+  "title_ar": "عِنْدَ صَانِعِ سِلَالِ الحَلْفَاءِ وَالقَشِّ",
+  "title_de": "Beim traditionellen Flechter von Espartogras-Körben",
+  "title_en": "At the Esparto Grass Basketry and Natural Weaving",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُتَسَوِّقُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، هَلْ هَذِهِ السِّلَالُ مَصْنُوعَةٌ مِنْ نَبَاتِ الحَلْفَاءِ البَرِّيِّ الَّذِي يَنْبُتُ فِي السُّهُولِ؟",
+      "de": "Guten Tag! Sind diese Körbe aus dem wilden Espartogras gefertigt, das in den Ebenen wächst?",
+      "en": "Good day! Are these baskets crafted from wild esparto grass that grows in the plains?"
+    },
+    {
+      "turn": 2,
+      "speaker": "الحِرَفِيُّ النَّسَّاجُ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَعَمْ، نَمْشُطُ الأَلْيَافَ ثُمَّ نَفْتِلُهَا جَدَائِلَ مَتِينَةً تَتَنَفَّسُ فِيهَا الثِّمَارُ دُونَ رُطُوبَةٍ ضَارَّةٍ.",
+      "de": "Willkommen! Ja, wir kämmen die Fasern und flechten sie zu festen Zöpfen, damit die Früchte luftig lagern.",
+      "en": "Welcome! Yes, we comb the fibers and braid them into sturdy cords so fruits stay ventilated without dampness."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُتَسَوِّقُ",
+      "ar": "مَا أَطْيَبَ العَوْدَةَ إِلَى خَامَاتِ الأَرْضِ النَّقِيَّةِ الَّتِي تُغْنِينَا عَنِ المَوَادِّ الصِّنَاعِيَّةِ البِلَاسْتِيكِيَّةِ المُضِرَّةِ!",
+      "de": "Wie heilsam die Rückkehr zu reinen Naturstoffen ist, die schädliches Plastik vollkommen ersetzen!",
+      "en": "How wholesome the return to pure natural materials is, replacing harmful synthetic plastics entirely!"
+    }
+  ]
+}

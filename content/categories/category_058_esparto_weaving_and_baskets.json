@@ -1,0 +1,30 @@
+{
+  "id": "category_058",
+  "name_ar": "جَدْلُ نَبَاتِ الحَلْفَاءِ وَالسِّلَالِ",
+  "name_de": "Espartograsflechterei und Naturkörbe",
+  "name_en": "Esparto Grass Weaving and Natural Baskets",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_176_combed_esparto",
+      "arabic": "الحَلْفَاءُ البَرِّيَّةُ المَمْشُوطَةُ",
+      "german": "das gekämmte wilde Espartogras",
+      "english": "combed wild esparto grass",
+      "image_key": "asset_esparto_combed_grass"
+    },
+    {
+      "id": "concept_177_braided_harvest_basket",
+      "arabic": "الزَّبِّيلُ المَجْدُولُ لِحَمْلِ الثِّمَارِ",
+      "german": "der geflochtene Erntetragkorb",
+      "english": "the braided harvest carry basket",
+      "image_key": "asset_esparto_harvest_basket"
+    },
+    {
+      "id": "concept_178_twisted_fiber_cord",
+      "arabic": "الحَبْلُ المَفْتُولُ مِنَ الأَلْيَافِ",
+      "german": "das handgedrehte Pflanzenfaserseil",
+      "english": "the twisted natural fiber cord",
+      "image_key": "asset_esparto_fiber_cord"
+    }
+  ]
+}

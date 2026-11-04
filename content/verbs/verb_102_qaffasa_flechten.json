@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_102",
+  "root_ar": "ق-ف-ص",
+  "infinitive_ar": "قَفَصَ - يَقْفِصُ",
+  "infinitive_de": "zu Körben flechten / fassen",
+  "infinitive_en": "to plait into baskets",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَقْفِصُ القَشَّ لِصُنْعِ السِّلَالِ",
+      "de_ich": "ich flechte das Stroh zu Körben",
+      "en_i": "I plait the straw into baskets"
+    },
+    "past": {
+      "ar_ana": "أَنَا قَفَصْتُ زَبِّيلًا مُهَوًّى",
+      "de_ich": "ich habe einen luftigen Korb geflochten",
+      "en_i": "I plaited an airy basket"
+    }
+  }
+}
