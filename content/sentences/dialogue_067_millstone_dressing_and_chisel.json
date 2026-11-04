@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_067",
+  "title_ar": "عِنْدَ مُعَلِّمِ نَقْرِ حِجَارَةِ الرَّحَى",
+  "title_de": "Beim Mühlsteinschärfer und Pflege der Mahlsteine",
+  "title_en": "At the Master Millstone Dresser and Furrow Chisel",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "طَحَّانُ القَرْيَةِ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، صَارَتْ حِجَارَةُ الرَّحَى مَلْسَاءَ وَنَحْتَاجُ إِلَى نَقْرِ أَخَادِيدِهَا لِتَطْحَنَ القَمْحَ نَاعِمًا كَالسَّحَابِ.",
+      "de": "Guten Tag! Die Mühlsteine sind glatt geworden; wir müssen die Furchen nachschärfen, damit das Mehl feinstäubig wird.",
+      "en": "Good day! The millstones have worn smooth; we must dress their furrows so the wheat grinds fine as clouds."
+    },
+    {
+      "turn": 2,
+      "speaker": "مُعَلِّمُ النَّقْرِ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَسْتَعْمِلُ هَذَا الفَأْسَ الفُولَاذِيَّ الحَادَّ، وَنَنْقُرُ حَجَرَ الغَرَانِيتِ شُعَاعِيًّا لِيَنْفُذَ الهَوَاءُ وَلَا يَحْتَرِقَ الدَّقِيقُ.",
+      "de": "Willkommen! Wir nutzen diese scharfe Bille und schärfen den Granit radial, damit Luft einströmt und das Mehl kühl bleibt.",
+      "en": "Welcome! We use this sharp steel pick to chisel the granite radially so air flows through and the flour never overheats."
+    },
+    {
+      "turn": 3,
+      "speaker": "طَحَّانُ القَرْيَةِ",
+      "ar": "بَارَكَ اللهُ فِي عِلْمِكَ؛ فَإِتْقَانُ صِيَانَةِ آلَاتِ القُوتِ حَيَاةٌ لِلْبَلَدِ وَبَرَكَةٌ فِي رَغِيفِ الخُبْزِ.",
+      "de": "Möge Gott Ihr Wissen segnen; das meisterhafte Pflegen der Kornmühlen ist das Leben des Landes und der Segen des Brotes.",
+      "en": "May God bless your knowledge; masterful upkeep of milling tools is the life of the land and blessing in daily bread."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_130",
+  "root_ar": "ن-خ-ل",
+  "infinitive_ar": "نَخَلَ - يَنْخُلُ",
+  "infinitive_de": "sieben / beuteln",
+  "infinitive_en": "to sift / sieve flour",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَنْخُلُ الطَّحِينَ بِالمُنْخُلِ الحَرِيرِيِّ",
+      "de_ich": "ich siebe das Mehl mit dem Seidensieb",
+      "en_i": "I sift the flour with the silk sieve"
+    },
+    "past": {
+      "ar_ana": "أَنَا نَخَلْتُ الدَّقِيقَ لِعَجْنِ الخُبْزِ",
+      "de_ich": "ich habe das Mehl zum Kneten gesiebt",
+      "en_i": "I sifted the flour for kneading"
+    }
+  }
+}

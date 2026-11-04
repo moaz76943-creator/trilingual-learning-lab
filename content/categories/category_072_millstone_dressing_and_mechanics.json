@@ -1,0 +1,30 @@
+{
+  "id": "category_072",
+  "name_ar": "نَقْرُ حِجَارَةِ الرَّحَى وَالطَّوَاحِينُ",
+  "name_de": "Mühlsteinschärfen und Mühlentechnik",
+  "name_en": "Millstone Dressing and Milling Mechanics",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_218_granite_millstone",
+      "arabic": "حَجَرُ الرَّحَى الغَرَانِيتِيُّ الصَّلْدُ",
+      "german": "der massive Granitmühlstein",
+      "english": "the solid granite millstone",
+      "image_key": "asset_mill_granite_stone"
+    },
+    {
+      "id": "concept_219_millstone_dressing_pick",
+      "arabic": "فَأْسُ نَقْرِ الرَّحَى الفُولَاذِيُّ",
+      "german": "die stählerne Mühlsteinbille",
+      "english": "steel millstone dressing pick",
+      "image_key": "asset_mill_steel_pick"
+    },
+    {
+      "id": "concept_220_sifted_wholegrain_flour",
+      "arabic": "الدَّقِيقُ الكَامِلُ المَنْخُولُ",
+      "german": "das gesiebte Vollkornmehl",
+      "english": "the sifted whole grain flour",
+      "image_key": "asset_mill_sifted_flour"
+    }
+  ]
+}
