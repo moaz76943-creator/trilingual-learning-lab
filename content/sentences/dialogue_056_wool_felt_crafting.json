@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_056",
+  "title_ar": "عِنْدَ صَانِعِ اللِّبْدِ الصُّوفِيِّ وَبُسُطِ التَّدْفِئَةِ",
+  "title_de": "Beim traditionellen Wollfilzer und Teppichmacher",
+  "title_en": "At the Wool Felt Artisan and Thermal Floor Rugs",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُتَسَوِّقُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، كَيْفَ تَتَمَاسَكُ أَلْيَافُ الصُّوفِ فِي هَذَا البِسَاطِ المَتِينِ دُونَ غَزْلٍ وَلَا خِيَاطَةٍ؟",
+      "de": "Guten Tag! Wie verbinden sich die Wollfasern in diesem festen Teppich ganz ohne Spinnen und Weben?",
+      "en": "Good day! How do wool fibers bond in this sturdy rug without spinning or weaving?"
+    },
+    {
+      "turn": 2,
+      "speaker": "الصَّانِعُ اللَّبَّادُ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَفْرِشُ الصُّوفَ المَنْدُوفَ طَبَقَاتٍ، وَنَرُشُّهُ بِمَاءِ الصَّابُونِ الدَّافِئِ، ثُمَّ نَلُفُّهُ وَنَدْعَكُهُ حَتَّى تَتَشَابَكَ الحَرَاشِفُ.",
+      "de": "Willkommen! Wir schichten die Wolle, besprühen sie mit warmem Seifenwasser, rollen sie und walken sie fest.",
+      "en": "Welcome! We layer carded wool, sprinkle warm soapy water, then roll and knead it until the scales interlock."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُتَسَوِّقُ",
+      "ar": "فَيَصِيرُ بِسَاطًا سَمِيكًا عَازِلًا لِبُرُودَةِ الأَرْضِ، يَمْنَحُ البَيْتَ دِفْئًا طَبِيعِيًّا فِي أَيَّامِ الشِّتَاءِ.",
+      "de": "So entsteht ein dicker, kälteisolierender Teppich, der dem Heim im Winter wohlige Wärme schenkt.",
+      "en": "Thus it becomes a thick, insulating rug that shields from floor cold and gives homes natural winter warmth."
+    }
+  ]
+}

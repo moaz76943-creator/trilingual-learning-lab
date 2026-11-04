@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_108",
+  "root_ar": "ل-ف-ف",
+  "infinitive_ar": "لَفَّ - يَلُفُّ",
+  "infinitive_de": "rollen / wickeln",
+  "infinitive_en": "to roll up tightly",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَلُفُّ الحَصِيرَةَ بِإِحْكَامٍ",
+      "de_ich": "ich rolle die Matte fest zusammen",
+      "en_i": "I roll the mat tightly"
+    },
+    "past": {
+      "ar_ana": "أَنَا لَفَفْتُ البِسَاطَ لِدَعْكِهِ",
+      "de_ich": "ich habe den Teig gewickelt",
+      "en_i": "I rolled the rug to knead it"
+    }
+  }
+}

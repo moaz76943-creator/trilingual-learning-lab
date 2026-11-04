@@ -1,0 +1,30 @@
+{
+  "id": "category_061",
+  "name_ar": "صِنَاعَةُ اللِّبْدِ الصُّوفِيِّ وَالعَزْلِ",
+  "name_de": "Wollfilzhandwerk und Naturdämmung",
+  "name_en": "Wool Felting and Natural Insulation",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_185_dense_wool_felt",
+      "arabic": "اللِّبْدُ الصُّوفِيُّ المَرْصُوصُ",
+      "german": "der gewalkte dichte Wollfilz",
+      "english": "dense compressed wool felt",
+      "image_key": "asset_felt_dense_rug"
+    },
+    {
+      "id": "concept_186_bamboo_rolling_mat",
+      "arabic": "حَصِيرَةُ اللَّفِّ الخَيْزُرَانِيَّةُ",
+      "german": "die Schilfrollmatte zum Walken",
+      "english": "bamboo rolling mat for felting",
+      "image_key": "asset_felt_rolling_mat"
+    },
+    {
+      "id": "concept_187_thermal_felt_rug",
+      "arabic": "بِسَاطُ اللِّبْدِ العَازِلُ لِلْبُرُودَةِ",
+      "german": "der wärmende Filzteppich",
+      "english": "insulating thermal felt floor rug",
+      "image_key": "asset_felt_thermal_rug"
+    }
+  ]
+}

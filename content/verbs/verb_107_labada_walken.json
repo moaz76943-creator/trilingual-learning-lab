@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_107",
+  "root_ar": "ل-ب-د",
+  "infinitive_ar": "لَبَّدَ - يُلَبِّدُ",
+  "infinitive_de": "walken / filzen",
+  "infinitive_en": "to felt / full wool",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أُلَبِّدُ الصُّوفَ بِمَاءِ الصَّابُونِ الدَّافِئِ",
+      "de_ich": "ich walke die Wolle mit warmem Seifenwasser",
+      "en_i": "I felt the wool with warm soapy water"
+    },
+    "past": {
+      "ar_ana": "أَنَا لَبَّدْتُ الأَلْيَافَ حَتَّى تَمَاسَكَتْ",
+      "de_ich": "ich habe die Fasern gewalkt, bis sie fest waren",
+      "en_i": "I felted the fibers until they bonded"
+    }
+  }
+}
