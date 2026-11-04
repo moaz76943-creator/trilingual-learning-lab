@@ -1,0 +1,30 @@
+{
+  "id": "category_052",
+  "name_ar": "أَقْبِيَةُ الحَجَرِ وَتَعْتِيقُ الصَّابُونِ",
+  "name_de": "Steingewölbekeller und Seifenreifung",
+  "name_en": "Stone Cellars and Traditional Soap Curing",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_158_stone_vault_cellar",
+      "arabic": "القَبْوُ الحَجَرِيُّ ذُو التَّهْوِيَةِ الطَّبِيعِيَّةِ",
+      "german": "das belüftete Natursteingewölbe",
+      "english": "ventilated natural stone vault cellar",
+      "image_key": "asset_vault_stone_cellar"
+    },
+    {
+      "id": "concept_159_cured_hard_soap",
+      "arabic": "قَالَبُ الصَّابُونِ المُعَتَّقُ الصُّلْبُ",
+      "german": "das gereifte, feste Seifenstück",
+      "english": "the cured, hard soap bar",
+      "image_key": "asset_vault_cured_soap"
+    },
+    {
+      "id": "concept_160_wooden_curing_shelves",
+      "arabic": "الرُّفُوفُ الخَشَبِيَّةُ المَرْفُوعَةُ",
+      "german": "die erhöhten Holzregale",
+      "english": "elevated wooden curing shelves",
+      "image_key": "asset_vault_wooden_shelves"
+    }
+  ]
+}

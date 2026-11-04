@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_090",
+  "root_ar": "ن-ض-د",
+  "infinitive_ar": "نَضَّدَ - يُنَضِّدُ",
+  "infinitive_de": "stapeln / schichten",
+  "infinitive_en": "to stack in tiers",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أُنَضِّدُ القَوَالِبَ عَلَى الرُّفُوفِ",
+      "de_ich": "ich staple die Stücke auf den Regalen",
+      "en_i": "I stack the bars on the shelves"
+    },
+    "past": {
+      "ar_ana": "أَنَا نَضَّدْتُ الصَّابُونَ بِانْتِظَامٍ",
+      "de_ich": "ich habe die Seife ordentlich geschichtet",
+      "en_i": "I stacked the soap in orderly tiers"
+    }
+  }
+}

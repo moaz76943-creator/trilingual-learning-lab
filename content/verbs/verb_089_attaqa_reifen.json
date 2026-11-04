@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_089",
+  "root_ar": "ع-ت-ق",
+  "infinitive_ar": "عَتَّقَ - يُعَتِّقُ",
+  "infinitive_de": "reifen lassen / lagern",
+  "infinitive_en": "to cure / age naturally",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أُعَتِّقُ قَوَالِبَ الصَّابُونِ فِي القَبْوِ",
+      "de_ich": "ich lasse die Seifenstücke im Gewölbe reifen",
+      "en_i": "I cure the soap bars in the vault"
+    },
+    "past": {
+      "ar_ana": "أَنَا عَتَّقْتُ الصَّابُونَ لِعَامٍ كَامِلٍ",
+      "de_ich": "ich habe die Seife ein ganzes Jahr gelagert",
+      "en_i": "I cured the soap for a full year"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_047",
+  "title_ar": "تَعْتِيقُ صَابُونِ الغَارِ فِي القَبْوِ الحَجَرِيِّ",
+  "title_de": "Reifung der Lorbeerseife im Natursteingewölbe",
+  "title_en": "Curing Laurel Soap in the Stone Vault Cellar",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُتَعَلِّمُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، لِمَاذَا تَحْفَظُونَ قَوَالِبَ الصَّابُونِ فِي هَذَا القَبْوِ الحَجَرِيِّ البَارِدِ لِأَشْهُرٍ طَوِيلَةٍ؟",
+      "de": "Guten Tag! Warum lagern Sie die Seifenstücke monatelang in diesem kühlen Steingewölbe?",
+      "en": "Good day! Why do you store the soap bars for many months in this cool stone cellar?"
+    },
+    {
+      "turn": 2,
+      "speaker": "أَمِينُ المَصْبَنَةِ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. التَّهْوِيَةُ البَارِدَةُ تُمَكِّنُ المَاءَ مِنْ مُغَادَرَةِ الصَّابُونِ بِبُطْءٍ، فَيَكْتَسِبُ صَلَابَةً وَتَطُولُ بَرَكَتُهُ عِنْدَ الاسْتِعْمَالِ.",
+      "de": "Willkommen! Die kühle Lüftung lässt das Wasser langsam entweichen; so wird die Seife fest und ergiebig im Gebrauch.",
+      "en": "Welcome! Cool ventilation allows water to evaporate slowly; thus the soap gains hardness and lasts long in use."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُتَعَلِّمُ",
+      "ar": "فَيَتَحَوَّلُ لَوْنُهَا الخَارِجِيُّ إِلَى الذَّهَبِيِّ الدَّافِئِ مَعَ بَقَاءِ قَلْبِهَا أَخْضَرَ زَكِيًّا كَزَيْتِ الغَارِ.",
+      "de": "So wandelt sich die Rinde in ein warmes Goldgelb, während ihr Kern smaragdgrün und duftend wie Lorbeer bleibt.",
+      "en": "Thus its outer crust turns to a warm golden tone while its core remains vibrant green and fragrant as laurel."
+    }
+  ]
+}
