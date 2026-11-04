@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_106",
+  "root_ar": "ق-و-ر",
+  "infinitive_ar": "قَوَّرَ - يُقَوِّرُ",
+  "infinitive_de": "aushöhlen / ausschaben",
+  "infinitive_en": "to hollow out",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أُقَوِّرُ جَوْفَ القَدَحِ الخَشَبِيِّ",
+      "de_ich": "ich höhle das Innere des Holzbechers aus",
+      "en_i": "I hollow out the interior of the wooden cup"
+    },
+    "past": {
+      "ar_ana": "أَنَا قَوَّرْتُ صَحْفَةَ الطَّعَامِ",
+      "de_ich": "ich habe die Holzschale ausgehöhlt",
+      "en_i": "I hollowed out the food bowl"
+    }
+  }
+}

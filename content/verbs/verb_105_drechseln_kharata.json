@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_105",
+  "root_ar": "خ-ر-ط",
+  "infinitive_ar": "خَرَطَ - يَخْرُطُ",
+  "infinitive_de": "drechseln",
+  "infinitive_en": "to turn on a lathe",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَخْرُطُ قِطْعَةَ الخَشَبِ لِتَصِيرَ قَدَحًا",
+      "de_ich": "ich drechsle das Holzstück zu einem Becher",
+      "en_i": "I turn the wood block into a goblet"
+    },
+    "past": {
+      "ar_ana": "أَنَا خَرَطْتُ المِغْرَفَةَ بِإِتْقَانٍ",
+      "de_ich": "ich habe die Kelle meisterhaft gedrechselt",
+      "en_i": "I turned the ladle masterfully"
+    }
+  }
+}

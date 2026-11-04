@@ -1,0 +1,30 @@
+{
+  "id": "category_060",
+  "name_ar": "خِرَاطَةُ الخَشَبِ وَصِنَاعَةُ المَغَارِفِ",
+  "name_de": "Holzdrechseln und traditionelle Schöpfgefäße",
+  "name_en": "Woodturning and Handcrafted Ladles",
+  "cefr_level": "A2",
+  "concepts": [
+    {
+      "id": "concept_182_carved_water_ladle",
+      "arabic": "مِغْرَفَةُ المَاءِ الخَشَبِيَّةُ",
+      "german": "die hölzerne Wasserschöpfkelle",
+      "english": "the carved wooden water ladle",
+      "image_key": "asset_lathe_water_ladle"
+    },
+    {
+      "id": "concept_183_turned_wooden_goblet",
+      "arabic": "قَدَحُ الخَشَبِ الصِّحِّيُّ لِلشُّرْبِ",
+      "german": "der gedrechselte Holztrinkbecher",
+      "english": "the turned wooden drinking goblet",
+      "image_key": "asset_lathe_wooden_goblet"
+    },
+    {
+      "id": "concept_184_manual_pole_lathe",
+      "arabic": "مِخْرَطَةُ الخَشَبِ التَّقْلِيدِيَّةُ",
+      "german": "die traditionelle Drechselbank",
+      "english": "the traditional woodturning lathe",
+      "image_key": "asset_lathe_wood_lathe"
+    }
+  ]
+}

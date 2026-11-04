@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_055",
+  "title_ar": "عِنْدَ صَانِعِ المَغَارِفِ وَالأَقْدَاحِ الخَشَبِيَّةِ",
+  "title_de": "Beim traditionellen Schöpfkellen- und Holzbecherschnitzer",
+  "title_en": "At the Wooden Ladle and Water Goblet Woodturner",
+  "cefr_level": "A2",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُسَافِرُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَا أَرْوَعَ هَذَا القَدَحَ الخَشَبِيَّ الأَمْلَسَ الَّذِي يَبْعَثُ بُرُودَةً فِي المَاءِ!",
+      "de": "Guten Tag! Wie herrlich dieser glatte Holzbecher ist, der dem Wasser eine angenehme Frische verleiht!",
+      "en": "Good day! How wonderful this smooth wooden goblet is, imparting pleasant coolness to the water!"
+    },
+    {
+      "turn": 2,
+      "speaker": "الخَرَّاطُ الحَكِيمُ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَخْرُطُهُ مِنْ خَشَبِ الزَّانِ الصَّلْدِ دُونَ أَيِّ طِلَاءٍ صِنَاعِيٍّ، وَنَدْهُنُهُ فَقَطْ بِزَيْتِ الزَّيْتُونِ الطَّبِيعِيِّ.",
+      "de": "Willkommen! Wir drechseln ihn aus Buchenholz ganz ohne chemischen Lack und pflegen ihn nur mit Olivenöl.",
+      "en": "Welcome! We turn it from solid beechwood without chemical lacquer and condition it solely with pure olive oil."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُسَافِرُ",
+      "ar": "هَذِهِ آنِيَةٌ صِحِّيَّةٌ صَافِيَةٌ تَصُونُ نَقَاوَةَ الشَّرَابِ وَتُرِيحُ النَّفْسَ.",
+      "de": "Das ist ein vollkommen gesundes, reines Trinkgefäß, das die Frische des Wassers wahrt und Freude schenkt.",
+      "en": "This is a wholesome, pure drinking vessel that preserves water freshness and comforts the soul."
+    }
+  ]
+}
