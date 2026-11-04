@@ -1,0 +1,30 @@
+{
+  "id": "category_067",
+  "name_ar": "صِنَاعَةُ المَكَاحِلِ وَالأَحْجَارِ البَصَرِيَّةِ",
+  "name_de": "Traditionelle Kohlgefäße und Augensteinkunde",
+  "name_en": "Kohl Crafting and Optical Mineral Stones",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_203_carved_kohl_bottle",
+      "arabic": "المَكْحَلَةُ الخَشَبِيَّةُ المَنْحُوتَةُ",
+      "german": "das geschnitzte hölzerne Kohlfläschchen",
+      "english": "carved wooden kohl bottle",
+      "image_key": "asset_kohl_wooden_bottle"
+    },
+    {
+      "id": "concept_204_smooth_wood_applicator",
+      "arabic": "المِرْوَدُ الأَمْلَسُ اللَّطِيفُ",
+      "german": "das glatte hölzerne Reibestäbchen",
+      "english": "smooth gentle wooden applicator",
+      "image_key": "asset_kohl_smooth_applicator"
+    },
+    {
+      "id": "concept_205_pure_antimony_stone",
+      "arabic": "حَجَرُ الإِثْمِدِ النَّقِيُّ",
+      "german": "der reine natürliche Antimonitstein",
+      "english": "pure natural kohl mineral stone",
+      "image_key": "asset_kohl_pure_mineral"
+    }
+  ]
+}

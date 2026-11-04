@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_119",
+  "root_ar": "ك-ح-ل",
+  "infinitive_ar": "كَحَلَ - يَكْحُلُ",
+  "infinitive_de": "die Augen umranden / pflegen",
+  "infinitive_en": "to apply kohl to the eyes",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَكْحُلُ العَيْنَ بِالمِرْوَدِ الأَمْلَسِ",
+      "de_ich": "ich trage den Kohl mit dem feinen Stäbchen auf",
+      "en_i": "I apply kohl with the smooth applicator"
+    },
+    "past": {
+      "ar_ana": "أَنَا كَحَلْتُ العَيْنَ بِحَذَرٍ",
+      "de_ich": "ich habe die Augen behutsam gepflegt",
+      "en_i": "I applied kohl carefully"
+    }
+  }
+}

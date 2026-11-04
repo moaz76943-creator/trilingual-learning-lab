@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_062",
+  "title_ar": "عِنْدَ صَانِعِ المَكَاحِلِ التُّرَاثِيَّةِ",
+  "title_de": "Beim traditionellen Schnitzer von Kohlfläschchen und Reibestäbchen",
+  "title_en": "At the Traditional Kohl Bottle and Applicator Artisan",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُتَسَوِّقُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَا أَنْعَمَ مَلْمَسَ هَذَا المِرْوَدِ الخَشَبِيِّ المَصْقُولِ بِعِنَايَةٍ!",
+      "de": "Guten Tag! Wie vollkommen glatt dieser sorgfältig polierte Holzapplikator gefertigt ist!",
+      "en": "Good day! How perfectly smooth this carefully polished wooden applicator is crafted!"
+    },
+    {
+      "turn": 2,
+      "speaker": "الصَّانِعُ الخَرَّاطُ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَخْرُطُ المَكْحَلَةَ مِنْ خَشَبِ الزَّيْتُونِ الصَّلْدِ، وَنَجْعَلُ رَأْسَ المِرْوَدِ أَمْلَسَ كَالْحَرِيرِ رِفْقًا بِالعَيْنِ.",
+      "de": "Willkommen! Wir drechseln das Gefäß aus Olivenholz und glätten die Spitze wie Seide zur Schonung des Auges.",
+      "en": "Welcome! We turn the bottle from solid olive wood and smooth the applicator tip like silk to be gentle on the eyes."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُتَسَوِّقُ",
+      "ar": "هَذِهِ أَدَوَاتٌ صِحِّيَّةٌ أَنِيقَةٌ تُعِينُ عَلَى حِفْظِ نَقَاءِ البَصَرِ وَطَهَارَةِ الهَيْئَةِ.",
+      "de": "Dies sind edle, hygienische Utensilien, die zur Pflege des Blicks und natürlicher Würde beitragen.",
+      "en": "These are noble, hygienic utensils that help preserve sight clarity and natural dignity."
+    }
+  ]
+}

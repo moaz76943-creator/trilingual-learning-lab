@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_120",
+  "root_ar": "س-ح-ق",
+  "infinitive_ar": "سَحَقَ - يَسْحَقُ",
+  "infinitive_de": "fein zerreiben / pulverisieren",
+  "infinitive_en": "to grind into ultra-fine powder",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَسْحَقُ الحَجَرَ النَّقِيَّ فِي الهَاوَنِ",
+      "de_ich": "ich zerreibe den reinen Stein im Mörser",
+      "en_i": "I grind the pure stone in the mortar"
+    },
+    "past": {
+      "ar_ana": "أَنَا سَحَقْتُ المَعْدِنَ لِيَصِيرَ كَالغُبَارِ",
+      "de_ich": "ich habe das Mineral staubfein zerrieben",
+      "en_i": "I ground the mineral into dust-fine powder"
+    }
+  }
+}
