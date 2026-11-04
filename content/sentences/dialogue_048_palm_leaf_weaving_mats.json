@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_048",
+  "title_ar": "عِنْدَ صَانِعِ الحُصُرِ مِنْ سَعَفِ النَّخِيلِ",
+  "title_de": "Beim traditionellen Flechter von Palmblattmatten",
+  "title_en": "At the Traditional Palm Leaf Mat Weaver",
+  "cefr_level": "A2",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "الزَّائِرُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَا أَبْرَدَ هَذَا الحَصِيرَ المَجْدُولَ لِأَرْضِيَّةِ البَيْتِ فِي أَيَّامِ الصَّيْفِ!",
+      "de": "Guten Tag! Wie herrlich kühl diese handgeflochtene Matte für den Hausboden im Sommer ist!",
+      "en": "Good day! How wonderfully cool this hand-plaited mat is for the house floor in summer!"
+    },
+    {
+      "turn": 2,
+      "speaker": "الصَّانِعُ الحَصَّارُ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَنْقَعُ سَعَفَ النَّخْلِ فِي المَاءِ لِيَلِينَ، ثُمَّ نَجْدِلُهُ بِإِحْكَامٍ خَيْطًا فَخَيْطًا.",
+      "de": "Willkommen! Wir weichen die Palmwedel in Wasser ein, damit sie biegsam werden, und flechten sie dicht.",
+      "en": "Welcome! We soak the palm fronds in water to soften them, then braid them tightly strand by strand."
+    },
+    {
+      "turn": 3,
+      "speaker": "الزَّائِرُ",
+      "ar": "هَذَا فِرَاشٌ طَبِيعِيٌّ طَهُورٌ يَحْمِلُ نَسِيمَ الوَاحَةِ وَيَصُونُ نَظَافَةَ المَجْلِسِ.",
+      "de": "Dies ist ein reiner Naturteppich, der die Frische der Oase bringt und die Sauberkeit des Raumes wahrt.",
+      "en": "This is a pure natural floor covering that brings the oasis breeze and preserves room cleanliness."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_092",
+  "root_ar": "ل-ي-ن",
+  "infinitive_ar": "لَيَّنَ - يُلَيِّنُ",
+  "infinitive_de": "geschmeidig machen / erweichen",
+  "infinitive_en": "to soften / make pliable",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أُلَيِّنُ الخُوصَ بِالمَاءِ العَذْبِ",
+      "de_ich": "ich mache die Fasern mit Wasser geschmeidig",
+      "en_i": "I make the fibers pliable with fresh water"
+    },
+    "past": {
+      "ar_ana": "أَنَا لَيَّنْتُ السَّعَفَ لِيَسْهُلَ جَدْلُهُ",
+      "de_ich": "ich habe die Blätter für das Flechten geschmeidig gemacht",
+      "en_i": "I softened the fronds for easy braiding"
+    }
+  }
+}

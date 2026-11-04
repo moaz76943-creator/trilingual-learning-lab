@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_091",
+  "root_ar": "ج-د-ل",
+  "infinitive_ar": "جَدَلَ - يَجْدِلُ",
+  "infinitive_de": "flechten / verweben",
+  "infinitive_en": "to plait / braid",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَجْدِلُ سَعَفَ النَّخْلِ بِإِحْكَامٍ",
+      "de_ich": "ich flechte die Palmblätter fest zusammen",
+      "en_i": "I plait the palm fronds tightly"
+    },
+    "past": {
+      "ar_ana": "أَنَا جَدَلْتُ حَصِيرًا بَارِدًا",
+      "de_ich": "ich habe eine kühle Matte geflochten",
+      "en_i": "I plaited a cool mat"
+    }
+  }
+}

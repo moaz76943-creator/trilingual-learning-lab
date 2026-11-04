@@ -1,0 +1,30 @@
+{
+  "id": "category_053",
+  "name_ar": "جَدْلُ سَعَفِ النَّخِيلِ وَصِنَاعَةُ الحُصُرِ",
+  "name_de": "Palmblattflechterei und Naturmatten",
+  "name_en": "Palm Leaf Plaiting and Natural Mats",
+  "cefr_level": "A2",
+  "concepts": [
+    {
+      "id": "concept_161_plaited_palm_mat",
+      "arabic": "الحَصِيرُ المَجْدُولُ مِنْ سَعَفِ النَّخْلِ",
+      "german": "die handgeflochtene Palmblattmatte",
+      "english": "hand-plaited palm leaf mat",
+      "image_key": "asset_mat_palm_leaf"
+    },
+    {
+      "id": "concept_162_pliable_palm_frond",
+      "arabic": "السَّعَفُ المَنْقُوعُ اللَّيِّنُ",
+      "german": "die geschmeidigen eingeweichten Palmblätter",
+      "english": "softened soaked palm fronds",
+      "image_key": "asset_mat_soaked_fronds"
+    },
+    {
+      "id": "concept_163_wooden_plaiting_bodkin",
+      "arabic": "مِخْرَزُ الحَصَّارِ الخَشَبِيُّ",
+      "german": "die hölzerne Flechtnadel",
+      "english": "wooden mat plaiting bodkin",
+      "image_key": "asset_mat_wooden_bodkin"
+    }
+  ]
+}
