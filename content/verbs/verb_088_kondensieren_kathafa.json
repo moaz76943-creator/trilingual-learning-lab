@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_088",
+  "root_ar": "ك-ث-ف",
+  "infinitive_ar": "كَثَّفَ - يُكَثِّفُ",
+  "infinitive_de": "kondensieren / niederschlagen",
+  "infinitive_en": "to condense vapor",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "المُبَرِّدُ يُكَثِّفُ البُخَارَ العَطِرَ",
+      "de_er": "der Kühler kondensiert den aromatischen Dampf",
+      "en_it": "the condenser condenses the fragrant steam"
+    },
+    "past": {
+      "ar_ana": "كَثَّفْتُ خُلَاصَةَ الزُّهُورِ",
+      "de_ich": "ich habe den Pflanzenauszug kondensiert",
+      "en_i": "I condensed the floral extract"
+    }
+  }
+}

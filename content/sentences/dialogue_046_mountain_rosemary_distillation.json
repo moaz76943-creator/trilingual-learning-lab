@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_046",
+  "title_ar": "جَنْيُ إِكْلِيلِ الجَبَلِ وَاسْتِخْلَاصُ زَيْتِهِ",
+  "title_de": "Ernte von Bergrosmarin und Destillation reiner ätherischer Öle",
+  "title_en": "Harvesting Mountain Rosemary and Essential Oil Extraction",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُتَدَرِّبُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَا أَنْعَشَ رَائِحَةَ هَذِهِ الأَغْصَانِ الخَضْرَاءِ لإِكْلِيلِ الجَبَلِ!",
+      "de": "Guten Tag! Wie belebend der frische Duft dieser grünen Rosmarinzweige ist!",
+      "en": "Good day! How invigorating the fresh scent of these green rosemary sprigs is!"
+    },
+    {
+      "turn": 2,
+      "speaker": "خَبِيرُ التَّقْطِيرِ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نُعَرِّضُ الأَوْرَاقَ لِبُخَارِ المَاءِ النَّقِيِّ، فَيَحْمِلُ قَطَرَاتِ الزَّيْتِ إِلَى مُبَرِّدِ التَّكْثِيفِ.",
+      "de": "Willkommen! Wir bedampfen die Blätter mit reinem Wasserdampf; dieser trägt die Öltropfen in den Kühlkondensator.",
+      "en": "Welcome! We pass pure steam through the leaves, carrying oil droplets into the cooling condenser."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُتَدَرِّبُ",
+      "ar": "سُبْحَانَ الخَالِقِ! يَطْفُو الزَّيْتُ الخَالِصُ فَوْقَ المَاءِ فَيَنْفَصِلُ صَافِيًا كَالذَّهَبِ السَّائِلِ.",
+      "de": "Gepriesen sei der Schöpfer! Das reine Öl schwimmt auf dem Wasser und trennt sich ab wie flüssiges Gold.",
+      "en": "Glory be to the Creator! Pure oil floats upon the water, separating crystal-clear like liquid gold."
+    }
+  ]
+}

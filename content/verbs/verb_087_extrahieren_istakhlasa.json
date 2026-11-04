@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_087",
+  "root_ar": "خ-ل-ص",
+  "infinitive_ar": "اسْتَخْلَصَ - يَسْتَخْلِصُ",
+  "infinitive_de": "extrahieren / gewinnen",
+  "infinitive_en": "to extract / derive essence",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَسْتَخْلِصُ عِطْرَ الرَّوْزَمَارِي بِالبُخَارِ",
+      "de_ich": "ich extrahiere das Rosmarinöl durch Dampf",
+      "en_i": "I extract rosemary oil through steam"
+    },
+    "past": {
+      "ar_ana": "أَنَا اسْتَخْلَصْتُ قَطَرَاتٍ صَافِيَةً",
+      "de_ich": "ich habe reine Essenzen gewonnen",
+      "en_i": "I extracted pure essences"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "category_051",
+  "name_ar": "عُلُومُ إِكْلِيلِ الجَبَلِ وَالزُّيُوتِ العِطْرِيَّةِ",
+  "name_de": "Bergrosmarin und ätherische Ölgewinnung",
+  "name_en": "Mountain Rosemary and Essential Oil Distillation",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_155_mountain_rosemary",
+      "arabic": "إِكْلِيلُ الجَبَلِ العَطِرُ الصَّافِي",
+      "german": "der duftende Bergrosmarin",
+      "english": "fragrant mountain rosemary",
+      "image_key": "asset_oil_mountain_rosemary"
+    },
+    {
+      "id": "concept_156_pure_essential_oil",
+      "arabic": "قَطَرَاتُ الزَّيْتِ العِطْرِيِّ الخَالِصِ",
+      "german": "die reinen ätherischen Öltropfen",
+      "english": "pure essential oil drops",
+      "image_key": "asset_oil_pure_drops"
+    },
+    {
+      "id": "concept_157_florentine_separator",
+      "arabic": "فَاصِلُ المَاءِ وَالزَّيْتِ الزُّجَاجِيُّ",
+      "german": "die Florentiner Öltrennflasche",
+      "english": "the Florentine oil separator flask",
+      "image_key": "asset_oil_florentine_flask"
+    }
+  ]
+}
