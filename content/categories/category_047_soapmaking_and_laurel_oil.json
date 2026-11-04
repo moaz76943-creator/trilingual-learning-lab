@@ -1,0 +1,30 @@
+{
+  "id": "category_047",
+  "name_ar": "صِنَاعَةُ صَابُونِ الزَّيْتِ وَالغَارِ",
+  "name_de": "Traditionelle Seifensiederei und Lorbeeröl",
+  "name_en": "Traditional Soapmaking and Laurel Oil",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_143_olive_oil_soap",
+      "arabic": "صَابُونُ زَيْتِ الزَّيْتُونِ البَلَدِيُّ",
+      "german": "die traditionelle Olivenölseife",
+      "english": "traditional olive oil soap bar",
+      "image_key": "asset_soap_olive_bar"
+    },
+    {
+      "id": "concept_144_aromatic_laurel_oil",
+      "arabic": "زَيْتُ الغَارِ العَطِرُ النَّفِيسُ",
+      "german": "das edle Lorbeeröl",
+      "english": "precious aromatic laurel berry oil",
+      "image_key": "asset_soap_laurel_oil"
+    },
+    {
+      "id": "concept_145_drying_towers",
+      "arabic": "أَبْرَاجُ التَّجْفِيفِ الهَوَائِيَّةُ",
+      "german": "die luftigen Seifentrockentürme",
+      "english": "airy soap drying towers",
+      "image_key": "asset_soap_drying_towers"
+    }
+  ]
+}

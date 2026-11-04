@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_080",
+  "root_ar": "خ-ت-م",
+  "infinitive_ar": "خَتَمَ - يَخْتِمُ",
+  "infinitive_de": "stempeln / prägen",
+  "infinitive_en": "to stamp / seal soap bars",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَخْتِمُ لَوْحَ الصَّابُونِ بِالخَاتَمِ التُّرَاثِيِّ",
+      "de_ich": "ich präge das Seifenstück mit dem Holzstempel",
+      "en_i": "I stamp the soap bar with the heritage seal"
+    },
+    "past": {
+      "ar_ana": "أَنَا خَتَمْتُ القَوَالِبَ كُلَّهَا",
+      "de_ich": "ich habe alle Stücke geprägt",
+      "en_i": "I stamped all the bars"
+    }
+  }
+}

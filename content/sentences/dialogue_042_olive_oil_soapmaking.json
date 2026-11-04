@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_042",
+  "title_ar": "فِي مَصْبَنَةِ الغَارِ وَزَيْتِ الزَّيْتُونِ",
+  "title_de": "In der traditionellen Lorbeerseifenmanufaktur",
+  "title_en": "At the Traditional Olive and Laurel Soap Workshop",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُتَسَوِّقُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَا هَذِهِ الأَبْرَاجُ العَالِيَةُ مِنْ قَوَالِبِ الصَّابُونِ الخَضْرَاءِ؟",
+      "de": "Guten Tag! Was bedeuten diese hohen Türme aus grünen Seifenstücken im Raum?",
+      "en": "Good day! What are these high towers of green soap bars drying in the room?"
+    },
+    {
+      "turn": 2,
+      "speaker": "الصَّابُونِيُّ المَاهِرُ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَبْنِي قَوَالِبَ صَابُونِ زَيْتِ الزَّيْتُونِ وَالغَارِ عَلَى هَيْئَةِ أَبْرَاجٍ لِيَمُرَّ الهَوَاءُ بَيْنَهَا وَتَجِفَّ أَشْهُرًا.",
+      "de": "Willkommen! Wir schichten die Seifen zu Türmen auf, damit die Luft hindurchzieht und sie monatelang reifen.",
+      "en": "Welcome! We stack the olive and laurel soap bars into towers so air flows through to cure them for months."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُتَسَوِّقُ",
+      "ar": "هَذَا مُنْتَجٌ طَبِيعِيٌّ خَالِصٌ يَصُونُ نَضَارَةَ البَشَرَةِ وَيَحْمِلُ عِبْقَ التُّرَاثِ.",
+      "de": "Dies ist ein vollkommen reines Naturprodukt, das die Haut schont und den Duft der Tradition trägt.",
+      "en": "This is a completely pure natural product that nourishes the skin and carries the aroma of tradition."
+    }
+  ]
+}

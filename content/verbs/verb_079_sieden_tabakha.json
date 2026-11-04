@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_079",
+  "root_ar": "ط-ب-خ",
+  "infinitive_ar": "طَبَخَ - يَطْبُخُ",
+  "infinitive_de": "sieden / kochen",
+  "infinitive_en": "to simmer / boil soap",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَطْبُخُ مَزِيجَ الزَّيْتِ فِي المِرْجَلِ",
+      "de_ich": "ich siede die Ölmischung im Kessel",
+      "en_i": "I simmer the oil mixture in the cauldron"
+    },
+    "past": {
+      "ar_ana": "أَنَا طَبَخْتُ الصَّابُونَ بِتَأَنٍّ",
+      "de_ich": "ich habe die Seife behutsam gesiedet",
+      "en_i": "I simmered the soap gently"
+    }
+  }
+}
