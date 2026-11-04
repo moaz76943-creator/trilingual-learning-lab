@@ -1,0 +1,30 @@
+{
+  "id": "category_068",
+  "name_ar": "صِنَاعَةُ الصَّنَادِيقِ السَّفَرِيَّةِ المُصَفَّحَةِ",
+  "name_de": "Reisetruhenbau und sichere Verwahrung",
+  "name_en": "Reinforced Travel Chests and Safekeeping",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_206_reinforced_travel_trunk",
+      "arabic": "الصُّنْدُوقُ السَّفَرِيُّ المُصَفَّحُ",
+      "german": "die metallbeschlagene Reisetruhe",
+      "english": "reinforced metal-plated travel trunk",
+      "image_key": "asset_chest_reinforced_trunk"
+    },
+    {
+      "id": "concept_207_secure_brass_hasp",
+      "arabic": "القُفْلُ النُّحَاسِيُّ المَأْمُونُ",
+      "german": "der verlässliche Messingüberwurf",
+      "english": "the secure brass locking hasp",
+      "image_key": "asset_chest_brass_hasp"
+    },
+    {
+      "id": "concept_208_sturdy_side_handles",
+      "arabic": "المَقَابِضُ الجَانِبِيَّةُ المَتِينَةُ",
+      "german": "die stabilen seitlichen Tragegriffe",
+      "english": "sturdy side carry handles",
+      "image_key": "asset_chest_side_handles"
+    }
+  ]
+}

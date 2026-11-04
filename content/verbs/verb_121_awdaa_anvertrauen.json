@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_121",
+  "root_ar": "و-د-ع",
+  "infinitive_ar": "أَوْدَعَ - يُودِعُ",
+  "infinitive_de": "anvertrauen / hinterlegen",
+  "infinitive_en": "to deposit / entrust",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أُودِعُ المَتَاعَ فِي الصُّنْدُوقِ الآمِنِ",
+      "de_ich": "ich vertraue die Güter der sicheren Truhe an",
+      "en_i": "I deposit the goods in the secure chest"
+    },
+    "past": {
+      "ar_ana": "أَنَا أَوْدَعْتُ الأَمَانَةَ عِنْدَ الصَّادِقِ",
+      "de_ich": "ich habe das Gut dem Wahrhaften anvertraut",
+      "en_i": "I entrusted the deposit to the truthful person"
+    }
+  }
+}

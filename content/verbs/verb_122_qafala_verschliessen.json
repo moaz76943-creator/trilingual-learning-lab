@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_122",
+  "root_ar": "ق-ف-ل",
+  "infinitive_ar": "قَفَلَ - يَقْفِلُ",
+  "infinitive_de": "verschließen / verriegeln",
+  "infinitive_en": "to lock / latch securely",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَقْفِلُ الصُّنْدُوقَ بِالمِفْتَاحِ",
+      "de_ich": "ich verschließe die Truhe mit dem Schlüssel",
+      "en_i": "I lock the chest with the key"
+    },
+    "past": {
+      "ar_ana": "أَنَا قَفَلْتُ المَزْلَاجَ بِإِحْكَامٍ",
+      "de_ich": "ich habe den Riegel fest verschlossen",
+      "en_i": "I latched the bolt securely"
+    }
+  }
+}

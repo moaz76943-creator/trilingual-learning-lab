@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_063",
+  "title_ar": "عِنْدَ صَانِعِ الصَّنَادِيقِ السَّفَرِيَّةِ التُّرَاثِيَّةِ",
+  "title_de": "Beim traditionellen Reisetruhenbauer für Karawanen",
+  "title_en": "At the Traditional Travel Trunk and Chest Maker",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُسَافِرُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، نُرِيدُ صُنْدُوقًا سَفَرِيًّا صَلْدًا يَحْمِي المَتَاعَ مِنْ غُبَارِ الرِّيحِ وَعَوَادِي الطَّرِيقِ.",
+      "de": "Guten Tag! Wir benötigen eine feste Reisetruhe, die das Gepäck vor Wüstenstaub und Reiseunbilden schützt.",
+      "en": "Good day! We need a solid travel chest that shields our gear from desert dust and road hazards."
+    },
+    {
+      "turn": 2,
+      "speaker": "الصَّانِعُ النَّجَّارُ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَصْنَعُهُ مِنْ خَشَبِ السِّنْدِيَانِ، وَنُصَفِّحُ حَوَافِيَهُ بِشَرَائِحِ النُّحَاسِ مَعَ إِحْكَامِ قُفْلِهِ المَأْمُونِ.",
+      "de": "Willkommen! Wir bauen ihn aus Eichenholz, beschlagen die Kanten mit Bronze und versehen ihn mit einem sicheren Schloss.",
+      "en": "Welcome! We build it from oak, plate the edges with brass strips, and fit it with a secure locking hasp."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُسَافِرُ",
+      "ar": "بَارَكَ اللهُ فِيكُمْ؛ فَحِفْظُ الأَمْتِعَةِ وَأَمَانَاتِ النَّاسِ رَاحَةٌ لِلْقَلْبِ فِي طُولِ المَسِيرِ.",
+      "de": "Möge Gott Sie segnen; das sichere Verwahren von Gütern schenkt innere Ruhe auf weiten Reisen.",
+      "en": "May God bless you; safe custody of belongings and trusts grants true peace of mind on long journeys."
+    }
+  ]
+}
