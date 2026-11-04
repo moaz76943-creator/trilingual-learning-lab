@@ -36894,5 +36894,8 @@
   "asset_chest_side_handles": "content/assets/svg/chest_side_handles.svg",
   "asset_light_stone_tower": "content/assets/svg/light_stone_tower.svg",
   "asset_light_bronze_mirror": "content/assets/svg/light_bronze_mirror.svg",
-  "asset_light_beacon_lamp": "content/assets/svg/light_beacon_lamp.svg"
+  "asset_light_beacon_lamp": "content/assets/svg/light_beacon_lamp.svg",
+  "asset_pigeon_carrier_bird": "content/assets/svg/pigeon_carrier_bird.svg",
+  "asset_pigeon_wooden_loft": "content/assets/svg/pigeon_wooden_loft.svg",
+  "asset_pigeon_message_capsule": "content/assets/svg/pigeon_message_capsule.svg"
 }

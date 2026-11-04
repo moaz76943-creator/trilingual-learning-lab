@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_126",
+  "root_ar": "ح-ل-ق",
+  "infinitive_ar": "حَلَّقَ - يُحَلِّقُ",
+  "infinitive_de": "emporsteigen / kreisen",
+  "infinitive_en": "to soar / fly high",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "يُحَلِّقُ الطَّائِرُ عَالِيًا فِي صَفَاءِ السَّمَاءِ",
+      "de_er": "der Vogel steigt hoch am reinen Himmel empor",
+      "en_it": "the bird soars high in the clear sky"
+    },
+    "past": {
+      "ar_ana": "حَلَّقَ الحَمَامُ نَحْوَ دَارِهِ",
+      "de_er": "die Taube ist gen Heimat geflogen",
+      "en_it": "the pigeon soared towards its home"
+    }
+  }
+}

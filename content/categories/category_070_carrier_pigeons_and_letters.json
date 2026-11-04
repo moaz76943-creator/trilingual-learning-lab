@@ -1,0 +1,30 @@
+{
+  "id": "category_070",
+  "name_ar": "عُلُومُ الحَمَامِ الزَّاجِلِ وَالرَّسَائِلِ",
+  "name_de": "Brieftaubenkunde und historische Botschaften",
+  "name_en": "Carrier Pigeons and Historical Letters",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_212_homing_pigeon",
+      "arabic": "الحَمَامُ الزَّاجِلُ الأَمِينُ",
+      "german": "die treue Brieftaube",
+      "english": "the faithful homing pigeon",
+      "image_key": "asset_pigeon_carrier_bird"
+    },
+    {
+      "id": "concept_213_wooden_loft_box",
+      "arabic": "بُرْجُ الحَمَامِ الخَشَبِيُّ المُهَوَّى",
+      "german": "der luftige hölzerne Taubenschlag",
+      "english": "the ventilated wooden pigeon loft",
+      "image_key": "asset_pigeon_wooden_loft"
+    },
+    {
+      "id": "concept_214_scroll_capsule",
+      "arabic": "أُنْبُوبَةُ الرِّسَالَةِ الحَرِيرِيَّةُ",
+      "german": "die seidene Botschaftshülse",
+      "english": "the silk letter scroll capsule",
+      "image_key": "asset_pigeon_message_capsule"
+    }
+  ]
+}

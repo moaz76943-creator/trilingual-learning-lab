@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_065",
+  "title_ar": "فِي بُرْجِ الحَمَامِ الزَّاجِلِ وَصِنَاعَةِ أَقْفَاصِهِ",
+  "title_de": "Am Taubenschlag und Bau von Reisetransportkäfigen",
+  "title_en": "At the Carrier Pigeon Loft and Travel Cages",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُرَبِّي الشَّابُّ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، كَيْفَ تَبْنُونَ هَذِهِ الأَبْرَاجَ الخَشَبِيَّةَ لِتَكُونَ آمِنَةً لِطُيُورِ الحَمَامِ الزَّاجِلِ؟",
+      "de": "Guten Tag! Wie errichten Sie diese hölzernen Schläge, damit sie den Brieftauben sichere Heimat bieten?",
+      "en": "Good day! How do you build these wooden lofts so they provide a safe home for carrier pigeons?"
+    },
+    {
+      "turn": 2,
+      "speaker": "خَبِيرُ الحَمَامِ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَرْفَعُهَا عَنِ الأَرْضِ حِمَايَةً لَهَا، وَنَصْنَعُ مَنَافِذَ مُهَوَّاةً تَدْخُلُ مِنْهَا الشَّمْسُ بِاعْتِدَالٍ.",
+      "de": "Willkommen! Wir erhöhen sie zum Schutz vor Tieren und schaffen luftige Fenster für milden Sonnenschein.",
+      "en": "Welcome! We elevate them for safety and craft airy windows where gentle sunlight enters in balance."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُرَبِّي الشَّابُّ",
+      "ar": "سُبْحَانَ مَنْ أَوْدَعَ فِي هَذَا الطَّائِرِ الأَمِينَ حُبَّ الرُّجُوعِ إِلَى دَارِهِ مَهْمَا بَعُدَتِ المَسَافَاتُ!",
+      "de": "Gepriesen sei Gott, der diesem treuen Vogel die Sehnsucht nach der Heimat ins Herz gelegt hat!",
+      "en": "Glory be to God, who placed in this faithful bird the instinct to return home across any distance!"
+    }
+  ]
+}
