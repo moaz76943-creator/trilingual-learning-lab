@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_050",
+  "title_ar": "عِنْدَ بَنَّاءِ النَّوَاعِيرِ الخَشَبِيَّةِ وَسُقْيَا البَسَاتِينِ",
+  "title_de": "Beim Wasserschöpfradbauer und Flussbewässerung",
+  "title_en": "At the Wooden Noria Builder and River Irrigation",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُهَنْدِسُ الشَّابُّ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَا أَعْظَمَ هَذَا الدُّولَابَ المَائِيَّ العِمْلَاقَ الَّذِي يَدُورُ بِلَا كَلَلٍ وَلَا وَقُودٍ!",
+      "de": "Guten Tag! Wie gewaltig dieses riesige Schöpfrad ist, das unermüdlich ganz ohne Treibstoff kreist!",
+      "en": "Good day! How magnificent this colossal waterwheel is, turning tirelessly without any fuel!"
+    },
+    {
+      "turn": 2,
+      "speaker": "بَنَّاءُ النَّوَاعِيرِ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. صَنَعْنَاهُ مِنْ خَشَبِ الجَوْزِ المَتِينِ؛ يَدْفَعُهُ تَيَّارُ النَّهْرِ فَتَمْتَلِئُ صَنَادِيقُهُ لِتَصُبَّ فِي القَنَاةِ العَالِيَةِ.",
+      "de": "Willkommen! Wir bauten es aus festem Walnussholz; die Strömung treibt es an, sodass die Schöpfkästen das Aquädukt füllen.",
+      "en": "Welcome! We built it from sturdy walnut wood; the river current propels it, filling the buckets to pour into the high flume."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُهَنْدِسُ الشَّابُّ",
+      "ar": "فَيَصِلُ المَاءُ إِلَى أَعْلَى البَسَاتِينِ بِقُوَّةِ الطَّبِيعَةِ النَّقِيَّةِ دُونَ أَنْ يُلَوِّثَ هَوَاءً أَوْ يَهْدِرَ طَاقَةً.",
+      "de": "So erreicht das Wasser die hoch gelegenen Haine durch reine Naturkraft, ohne Luft zu belasten oder Energie zu verschwenden.",
+      "en": "Thus water reaches elevated orchards by pure natural power, without polluting the air or wasting energy."
+    }
+  ]
+}

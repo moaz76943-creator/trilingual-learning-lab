@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_096",
+  "root_ar": "س-ي-ب",
+  "infinitive_ar": "انْسَابَ - يَنْسَابُ",
+  "infinitive_de": "dahingleiten / strömen",
+  "infinitive_en": "to flow / glide smoothly",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "يَنْسَابُ المَاءُ الرُّقْرَاقُ فِي المَجْرَى الحَجَرِيِّ",
+      "de_er": "das klare Wasser gleitet im Steinkanal dahin",
+      "en_it": "the clear water glides smoothly in the stone channel"
+    },
+    "past": {
+      "ar_ana": "انْسَابَتِ المِيَاهُ إِلَى البَسَاتِينِ",
+      "de_sie": "das Wasser ist zu den Gärten geströmt",
+      "en_it": "the water flowed to the orchards"
+    }
+  }
+}

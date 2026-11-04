@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_095",
+  "root_ar": "ر-ف-ع",
+  "infinitive_ar": "رَفَعَ - يَرْفَعُ",
+  "infinitive_de": "emporheben / schöpfen",
+  "infinitive_en": "to lift / scoop water",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "النَّاعُورَةُ تَرْفَعُ المَاءَ إِلَى القَنَاةِ",
+      "de_sie": "das Schöpfrad hebt das Wasser zum Kanal empor",
+      "en_it": "the noria lifts the water to the aqueduct"
+    },
+    "past": {
+      "ar_ana": "رَفَعَتِ الدَّوَالِيبُ مَاءَ النَّهْرِ",
+      "de_sie": "die Räder haben das Flusswasser emporgehoben",
+      "en_they": "the wheels lifted the river water"
+    }
+  }
+}

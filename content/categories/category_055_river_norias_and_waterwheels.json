@@ -1,0 +1,30 @@
+{
+  "id": "category_055",
+  "name_ar": "النَّوَاعِيرُ النَّهْرِيَّةُ وَالقَنَوَاتُ",
+  "name_de": "Wasserschöpfräder und Aquädukte",
+  "name_en": "River Norias and Elevated Aqueducts",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_167_wooden_noria",
+      "arabic": "النَّاعُورَةُ الخَشَبِيَّةُ العِمْلَاقَةُ",
+      "german": "das gewaltige Wasserschöpfrad",
+      "english": "the colossal wooden waterwheel noria",
+      "image_key": "asset_noria_wooden_wheel"
+    },
+    {
+      "id": "concept_168_stone_aqueduct",
+      "arabic": "قَنَاةُ المَاءِ الحَجَرِيَّةُ المَرْفُوعَةُ",
+      "german": "das steinerne Aquädukt",
+      "english": "the elevated stone aqueduct flume",
+      "image_key": "asset_noria_stone_aqueduct"
+    },
+    {
+      "id": "concept_169_water_scoop_box",
+      "arabic": "صُنْدُوقُ رَفْعِ المَاءِ الخَشَبِيُّ",
+      "german": "der hölzerne Schöpfkasten",
+      "english": "the wooden water scoop box",
+      "image_key": "asset_noria_scoop_box"
+    }
+  ]
+}
