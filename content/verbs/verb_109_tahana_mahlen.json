@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_109",
+  "root_ar": "ط-ح-ن",
+  "infinitive_ar": "طَحَنَ - يَطْحَنُ",
+  "infinitive_de": "mahlen / vermahlen",
+  "infinitive_en": "to grind / stone-mill",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَطْحَنُ السِّمْسِمَ بِحَجَرِ الرَّحَى",
+      "de_ich": "ich mahle den Sesam mit dem Mühlstein",
+      "en_i": "I grind the sesame with the millstone"
+    },
+    "past": {
+      "ar_ana": "أَنَا طَحَنْتُ الحُبُوبَ بِرِفْقٍ",
+      "de_ich": "ich habe die Körner schonend gemahlen",
+      "en_i": "I ground the seeds gently"
+    }
+  }
+}

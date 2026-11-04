@@ -1,0 +1,30 @@
+{
+  "id": "category_062",
+  "name_ar": "عَصْرُ السِّمْسِمِ وَصِنَاعَةُ الطَّحِينَةِ",
+  "name_de": "Sesammüllerei und reine Tahina-Herstellung",
+  "name_en": "Sesame Milling and Pure Tahini Craft",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_188_pure_roasted_sesame",
+      "arabic": "حُبُوبُ السِّمْسِمِ المَحْمُوصَةُ النَّقِيَّةُ",
+      "german": "die reinen gerösteten Sesamsamen",
+      "english": "pure gently roasted sesame seeds",
+      "image_key": "asset_sesame_roasted_seeds"
+    },
+    {
+      "id": "concept_189_stone_sesame_mill",
+      "arabic": "حَجَرُ رَحَى السِّمْسِمِ الصَّلْدُ",
+      "german": "der massive Mühlstein für Sesam",
+      "english": "the solid sesame stone mill",
+      "image_key": "asset_sesame_millstone"
+    },
+    {
+      "id": "concept_190_pure_virgin_tahini",
+      "arabic": "الطَّحِينَةُ البَلَدِيَّةُ الصَّافِيَةُ",
+      "german": "das reine naturbelassene Tahina",
+      "english": "pure traditional stoneground tahini",
+      "image_key": "asset_sesame_pure_tahini"
+    }
+  ]
+}

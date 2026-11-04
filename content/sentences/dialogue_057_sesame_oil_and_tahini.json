@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_057",
+  "title_ar": "فِي مَعْصَرَةِ زَيْتِ السِّمْسِمِ التُّرَاثِيَّةِ",
+  "title_de": "In der traditionellen Sesammühle und Tahina-Herstellung",
+  "title_en": "At the Traditional Sesame Mill and Pure Tahini Craft",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُتَسَوِّقُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَا أَعْبَقَ هَذِهِ الرَّائِحَةَ الزَّكِيَّةَ لِلسِّمْسِمِ المَحْمُوصِ بِعِنَايَةٍ!",
+      "de": "Guten Tag! Wie herrlich der Duft dieser schonend gerösteten Sesamsamen ist!",
+      "en": "Good day! How delightfully fragrant the aroma of these gently roasted sesame seeds is!"
+    },
+    {
+      "turn": 2,
+      "speaker": "مُعَلِّمُ المَعْصَرَةِ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَطْحَنُ الحُبُوبَ بِحَجَرِ الرَّحَى الصَّلْدِ دُونَ إِضَافَةِ قَطْرَةِ زَيْتٍ غَرِيبَةٍ، فَتَسِيلُ الطَّحِينَةُ صَافِيَةً.",
+      "de": "Willkommen! Wir mahlen die Samen mit dem Mühlstein ohne jeden Fremdzusatz, sodass reines Tahina fließt.",
+      "en": "Welcome! We grind the seeds with the solid millstone without adding any foreign oils, yielding pure tahini."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُتَسَوِّقُ",
+      "ar": "هَذَا هُوَ الرِّزْقُ الحَلَالُ الطَّيِّبُ؛ الأَمَانَةُ فِي الصَّنْعَةِ تَبْعَثُ الطُّمَأْنِينَةَ فِي قُلُوبِ النَّاسِ.",
+      "de": "Das ist wahrhaft gesegneter Erwerb; handwerkliche Redlichkeit schenkt den Menschen tiefes Vertrauen.",
+      "en": "This is truly blessed livelihood; artisan honesty instills deep peace and trust in people's hearts."
+    }
+  ]
+}

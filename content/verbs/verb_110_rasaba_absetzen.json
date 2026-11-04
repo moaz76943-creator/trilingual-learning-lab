@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_110",
+  "root_ar": "ر-س-ب",
+  "infinitive_ar": "رَسَبَ - يَرْسُبُ",
+  "infinitive_de": "sich absetzen / absinken",
+  "infinitive_en": "to settle naturally / precipitate",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_hawa": "يَرْسُبُ دُقَاقُ الحَبِّ فِي قَاعِ الإِنَاءِ",
+      "de_es": "der feine Schwebstoff setzt sich am Boden ab",
+      "en_it": "the fine sediment settles at the bottom"
+    },
+    "past": {
+      "ar_hawa": "رَسَبَتِ الشَّوَائِبُ وَصَفَا الزَّيْتُ",
+      "de_es": "die Partikel haben sich abgesetzt und das Öl klärte sich",
+      "en_it": "the particles settled and the oil clarified"
+    }
+  }
+}
