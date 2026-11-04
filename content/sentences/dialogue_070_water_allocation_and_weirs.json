@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_070",
+  "title_ar": "عِنْدَ مِيزَانِ المِيَاهِ وَقِسْمَةِ حِصَصِ الرَّيِّ",
+  "title_de": "Am traditionellen Wasserteiler und gerechter Zuteilung",
+  "title_en": "At the Traditional Water Divider and Fair Irrigation Allocation",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُزَارِعُ الشَّابُّ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، كَيْفَ تَضْمَنُونَ وُصُولَ مَاءِ العَيْنِ إِلَى كُلِّ بَسَاتِينِ الوَادِي دُونَ حَيْفٍ؟",
+      "de": "Guten Tag! Wie stellen Sie sicher, dass das Quellwasser alle Gärten des Tals ohne Benachteiligung erreicht?",
+      "en": "Good day! How do you ensure the spring water reaches every orchard in the valley without injustice?"
+    },
+    {
+      "turn": 2,
+      "speaker": "أَمِينُ المَاءِ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَعْتَمِدُ عَلَى لَوْحِ الحَجَرِ المَنْقُورِ بِفَتَحَاتٍ مُتَسَاوِيَةِ القِيَاسِ، فَيَنْسَابُ المَاءُ حَسَبَ حَاجَةِ كُلِّ بُسْتَانٍ.",
+      "de": "Willkommen! Wir nutzen eine Steinplatte mit kalibrierten Öffnungen, sodass das Wasser gleichmäßig nach Bedarf strömt.",
+      "en": "Welcome! We rely on a stone slab chiseled with calibrated notches so water flows evenly according to each orchard's need."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُزَارِعُ الشَّابُّ",
+      "ar": "هَذِهِ هَنْدَسَةٌ عَادِلَةٌ تَرْوِي الشَّجَرَ وَتَحْفَظُ المَحَبَّةَ بَيْنَ الجِيرَانِ.",
+      "de": "Das ist eine gerechte Baukunst, die die Bäume tränkt und Eintracht unter den Nachbarn stiftet.",
+      "en": "This is equitable engineering that nourishes the trees and safeguards harmony among neighbors."
+    }
+  ]
+}

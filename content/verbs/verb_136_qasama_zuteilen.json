@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_136",
+  "root_ar": "ق-س-م",
+  "infinitive_ar": "قَسَمَ - يَقْسِمُ",
+  "infinitive_de": "zuteilen / aufteilen",
+  "infinitive_en": "to allocate / divide equitably",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَقْسِمُ المَاءَ بِالعَدْلِ بَيْنَ البَسَاتِينِ",
+      "de_ich": "ich teile das Wasser gerecht unter den Gärten auf",
+      "en_i": "I allocate the water equitably among the orchards"
+    },
+    "past": {
+      "ar_ana": "قَسَمْتُ الحِصَصَ بِالقِسْطِ",
+      "de_ich": "ich habe die Anteile gerecht aufgeteilt",
+      "en_i": "I divided the shares with justice"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "category_075",
+  "name_ar": "هَنْدَسَةُ مَوَازِينِ المِيَاهِ وَالرَّيِّ",
+  "name_de": "Wasserteilungswehre und genossenschaftliche Bewässerung",
+  "name_en": "Water Dividers and Cooperative Irrigation Engineering",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_227_stone_water_divider",
+      "arabic": "مِيزَانُ المَاءِ الحَجَرِيُّ المَنْقُورُ",
+      "german": "der steinerne kalibrierte Wasserteiler",
+      "english": "calibrated stone water dividing weir",
+      "image_key": "asset_weir_stone_divider"
+    },
+    {
+      "id": "concept_228_distribution_sluice",
+      "arabic": "بَوَّابَةُ التَّوْزِيعِ الخَشَبِيَّةُ",
+      "german": "das hölzerne Verteilerschütz",
+      "english": "the wooden distribution sluice gate",
+      "image_key": "asset_weir_wooden_sluice"
+    },
+    {
+      "id": "concept_229_secondary_irrigation_furrow",
+      "arabic": "سَاقِيَةُ التَّوْزِيعِ التُّرَابِيَّةُ",
+      "german": "der kleine Zuleitungsgraben",
+      "english": "secondary earthen irrigation furrow",
+      "image_key": "asset_weir_feeder_furrow"
+    }
+  ]
+}
