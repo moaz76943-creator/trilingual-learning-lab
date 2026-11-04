@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_045",
+  "title_ar": "صِبَاغَةُ الجُلُودِ بِقُشُورِ الرُّمَّانِ وَالشَّبَّةِ",
+  "title_de": "Lederfärbung mit Granatapfelschalen und natürlichem Alaun",
+  "title_en": "Leather Dyeing with Pomegranate Rinds and Natural Alum",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُتَعَلِّمُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، كَيْفَ تَسْتَخْرِجُونَ هَذَا اللَّوْنَ الذَّهَبِيَّ الدَّافِئَ لِلْجِلْدِ مِنْ قُشُورِ الرُّمَّانِ؟",
+      "de": "Guten Tag! Wie gewinnen Sie diesen warmen Goldgelbton für das Leder aus den Granatapfelschalen?",
+      "en": "Good day! How do you extract this warm golden-yellow tone for leather from pomegranate rinds?"
+    },
+    {
+      "turn": 2,
+      "speaker": "الصَّبَّاغُ الحَكِيمُ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَغْلِي القُشُورَ فِي المِرْجَلِ النُّحَاسِيِّ، ثُمَّ نُضِيفُ الشَّبَّةَ المَعْدِنِيَّةَ لِتَثْبِيتِ اللَّوْنِ دَاخِلَ المَسَامِّ.",
+      "de": "Willkommen! Wir kochen die Schalen im Kupferkessel ab und geben natürlichen Alaun zur Farbfixierung hinzu.",
+      "en": "Welcome! We boil the rinds in the copper vat and add natural alum mineral to fix the color in the pores."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُتَعَلِّمُ",
+      "ar": "هَذَا لَوْنٌ نَقِيٌّ ثَابِتٌ لَا يَزُولُ مَعَ الشَّمْسِ، وَلَا يُلَوِّثُ مَاءَ النَّهْرِ بَعْدَ الغَسْلِ.",
+      "de": "Das ist eine dauerhafte Naturfarbe, die dem Sonnenlicht widersteht und das Flusswasser nicht belastet.",
+      "en": "This is a lasting natural color that resists sunlight and does not contaminate river water after washing."
+    }
+  ]
+}

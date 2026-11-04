@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_085",
+  "root_ar": "غ-ل-ي",
+  "infinitive_ar": "غَلَى - يَغْلِي",
+  "infinitive_de": "abkochen / sieden",
+  "infinitive_en": "to boil / decoct",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَغْلِي قُشُورَ الرُّمَّانِ لِاسْتِخْرَاجِ اللَّوْنِ",
+      "de_ich": "ich koche die Granatapfelschalen ab",
+      "en_i": "I boil the pomegranate rinds to extract the color"
+    },
+    "past": {
+      "ar_ana": "أَنَا غَلَيْتُ المَحْلُولَ فِي المِرْجَلِ",
+      "de_ich": "ich habe den Sud im Kessel gekocht",
+      "en_i": "I boiled the decoction in the cauldron"
+    }
+  }
+}

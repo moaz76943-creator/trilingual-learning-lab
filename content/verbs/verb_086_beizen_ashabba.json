@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_086",
+  "root_ar": "ش-ب-ب",
+  "infinitive_ar": "شَبَّ - يَشُبُّ",
+  "infinitive_de": "beizen / mit Alaun fixieren",
+  "infinitive_en": "to mordant / fix with alum",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَشُبُّ الجِلْدَ بِالشَّبَّةِ لِيَثْبُتَ لَوْنُهُ",
+      "de_ich": "ich beize das Leder mit Alaun zur Farbfixierung",
+      "en_i": "I mordant the leather with alum to fix its color"
+    },
+    "past": {
+      "ar_ana": "أَنَا شَبَبْتُ النَّسِيجَ بِإِتْقَانٍ",
+      "de_ich": "ich habe das Gewebe sorgfältig gebeizt",
+      "en_i": "I mordanted the fabric carefully"
+    }
+  }
+}

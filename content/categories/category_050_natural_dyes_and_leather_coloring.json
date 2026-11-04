@@ -1,0 +1,30 @@
+{
+  "id": "category_050",
+  "name_ar": "عُلُومُ اسْتِخْلَاصِ الأَصْبَاغِ الطَّبِيعِيَّةِ",
+  "name_de": "Pflanzenfarben und traditionelle Lederfärbung",
+  "name_en": "Natural Dye Extraction and Leather Coloring",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_152_pomegranate_dye",
+      "arabic": "صِبَاغُ قُشُورِ الرُّمَّانِ الذَّهَبِيُّ",
+      "german": "der goldgelbe Granatapfelfarbstoff",
+      "english": "golden yellow pomegranate dye",
+      "image_key": "asset_dye_pomegranate"
+    },
+    {
+      "id": "concept_153_alum_mineral",
+      "arabic": "حَجَرُ الشَّبَّةِ المَعْدِنِيُّ",
+      "german": "der natürliche Alaunstein",
+      "english": "natural mineral alum stone",
+      "image_key": "asset_dye_alum_stone"
+    },
+    {
+      "id": "concept_154_copper_dyeing_vat",
+      "arabic": "مِرْجَلُ الصِّبَاغَةِ النُّحَاسِيُّ",
+      "german": "der kupferne Färbekessel",
+      "english": "the copper dyeing cauldron",
+      "image_key": "asset_dye_copper_vat"
+    }
+  ]
+}
