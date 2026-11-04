@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_093",
+  "root_ar": "ع-ش-ق",
+  "infinitive_ar": "عَشَّقَ - يُعَشِّقُ",
+  "infinitive_de": "verzinken / passgenau fügen",
+  "infinitive_en": "to dovetail / interlock wood joints",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أُعَشِّقُ زَوَايَا الصُّنْدُوقِ بِدِقَّةٍ",
+      "de_ich": "ich verzinke die Kassettenecken präzise",
+      "en_i": "I dovetail the chest corners precisely"
+    },
+    "past": {
+      "ar_ana": "أَنَا عَشَّقْتُ أَلْوَاحَ الأَرْزِ",
+      "de_ich": "ich habe die Zedernbretter verzinkt",
+      "en_i": "I dovetailed the cedar boards"
+    }
+  }
+}

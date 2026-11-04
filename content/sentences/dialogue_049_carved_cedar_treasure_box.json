@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_049",
+  "title_ar": "عِنْدَ صَانِعِ صَنَادِيقِ خَشَبِ الأَرْزِ",
+  "title_de": "Beim Kunsttischler für geschnitzte Zedernholzkassetten",
+  "title_en": "At the Carved Cedar Box Maker for Manuscripts",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُؤَرِّخُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَا أَبْرَعَ تَعْشِيقَ زَوَايَا هَذَا الصُّنْدُوقِ دُونَ اسْتِخْدَامِ مِسْمَارٍ وَاحِدٍ!",
+      "de": "Guten Tag! Wie meisterhaft die Eckverzinkung dieser Kassette ganz ohne Nägel gefertigt ist!",
+      "en": "Good day! How masterfully the dovetail joints of this chest are fitted without a single nail!"
+    },
+    {
+      "turn": 2,
+      "speaker": "النَّجَّارُ الحِرَفِيُّ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. خَشَبُ الأَرْزِ يَمْتَازُ بِصَلَابَتِهِ وَزُيُوتِهِ العَطِرَةِ الَّتِي تَطْرُدُ العَثَّ وَتَحْفَظُ الوَرَقَ مِئَاتِ السِّنِينَ.",
+      "de": "Willkommen! Zedernholz zeichnet sich durch Festigkeit und ätherische Öle aus, die Motten fernhalten.",
+      "en": "Welcome! Cedar wood is distinguished by strength and natural oils that repel moths and preserve paper for centuries."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُؤَرِّخُ",
+      "ar": "وَقَدْ زِدْتَهُ بَهَاءً بِالقُفْلِ النُّحَاسِيِّ المَنْقُوشِ وَالبِطَانَةِ الحَرِيرِيَّةِ الدَّافِئَةِ.",
+      "de": "Und Sie haben es mit dem ziselierten Bronzeschloss und dem seidenen Samtfutter vollendet.",
+      "en": "And you perfected it with the engraved brass lock and warm silk velvet lining."
+    }
+  ]
+}

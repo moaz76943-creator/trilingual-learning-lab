@@ -1,0 +1,30 @@
+{
+  "id": "category_054",
+  "name_ar": "صَنَادِيقُ خَشَبِ الأَرْزِ وَحِفْظُ التُّرَاثِ",
+  "name_de": "Zedernholzkassetten und Kulturgüterschutz",
+  "name_en": "Cedar Chests and Heritage Preservation",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_164_carved_cedar_chest",
+      "arabic": "صُنْدُوقُ خَشَبِ الأَرْزِ العَطِرُ",
+      "german": "die duftende Zedernholzkassette",
+      "english": "fragrant carved cedar chest",
+      "image_key": "asset_cedar_carved_chest"
+    },
+    {
+      "id": "concept_165_engraved_brass_lock",
+      "arabic": "القُفْلُ النُّحَاسِيُّ المَنْقُوشُ",
+      "german": "das ziselierte Bronzeschloss",
+      "english": "the engraved brass hasp lock",
+      "image_key": "asset_cedar_brass_lock"
+    },
+    {
+      "id": "concept_166_dovetail_joinery",
+      "arabic": "التَّعْشِيقُ الخَشَبِيُّ المَتِينُ",
+      "german": "die solide Zinkenverbindung",
+      "english": "sturdy dovetail wood joinery",
+      "image_key": "asset_cedar_dovetail_joint"
+    }
+  ]
+}
