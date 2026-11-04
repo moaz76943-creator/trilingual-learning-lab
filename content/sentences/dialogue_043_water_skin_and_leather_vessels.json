@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_043",
+  "title_ar": "عِنْدَ صَانِعِ قِرَبِ المَاءِ التُّرَاثِيَّةِ",
+  "title_de": "Beim traditionellen Wasserschlauchmacher für Wüstenreisen",
+  "title_en": "At the Traditional Waterskin Artisan for Travel Hydration",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُسَافِرُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، نَحْتَاجُ قِرْبَةً مَتِينَةً تُبْقِي المَاءَ عَذْبًا بَارِدًا فِي حَرِّ الصَّيْفِ.",
+      "de": "Guten Tag! Wir benötigen einen dichten Wasserschlauch, der das Wasser in der Sommerhitze kühl und frisch hält.",
+      "en": "Good day! We need a sturdy waterskin that keeps water sweet and cool in the summer heat."
+    },
+    {
+      "turn": 2,
+      "speaker": "الخَرَّازُ الصَّانِعُ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. أَدْبُغُ الجِلْدَ بِقُشُورِ الرُّمَّانِ، وَأَخْرِزُهُ بِخَيْطٍ مُشَمَّعٍ مَتِينٍ مَعَ شَدِّ الوِكَاءِ.",
+      "de": "Willkommen! Ich gerbe das Leder mit Granatapfelschalen und nähe es mit gewachstem Faden absolut dicht.",
+      "en": "Welcome! I tan the leather with pomegranate rinds and stitch it with waxed thread for complete watertightness."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُسَافِرُ",
+      "ar": "بَارَكَ اللهُ فِي عَمَلِكَ؛ فَإِرْوَاءُ العِطَاشِ فِي فَيَافِي الصَّحْرَاءِ حَيَاةٌ لِلنُّفُوسِ.",
+      "de": "Möge Gott Ihr Werk segnen; das Tränken der Durstigen in der Wüste schenkt Leben und Barmherzigkeit.",
+      "en": "May God bless your work; quenching the thirst of travelers in arid lands brings life and mercy."
+    }
+  ]
+}

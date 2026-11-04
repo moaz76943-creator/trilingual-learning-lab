@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_082",
+  "root_ar": "و-ك-ي",
+  "infinitive_ar": "أَوْكَى - يُوكِي",
+  "infinitive_de": "zubinden / fest zuschnüren",
+  "infinitive_en": "to tie the mouth of a vessel tightly",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أُوكِي فَمَ القِرْبَةِ بِالحَبْلِ الجِلْدِيِّ",
+      "de_ich": "ich binde die Schlauchöffnung fest zu",
+      "en_i": "I tie the waterskin mouth tightly"
+    },
+    "past": {
+      "ar_ana": "أَنَا أَوْكَيْتُ الإِنَاءَ حِفْظًا لِلْمَاءِ",
+      "de_ich": "ich habe das Gefäß fest zugebunden",
+      "en_i": "I tied the vessel tightly to protect the water"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "category_048",
+  "name_ar": "صِنَاعَةُ قِرَبِ المَاءِ وَالأَوَانِي الجِلْدِيَّةِ",
+  "name_de": "Wasserschlauchmacherei und Reisebehälter",
+  "name_en": "Waterskin Crafting and Travel Hydration",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_146_leather_waterskin",
+      "arabic": "قِرْبَةُ المَاءِ الجِلْدِيَّةُ المَتِينَةُ",
+      "german": "der traditionelle lederne Wasserschlauch",
+      "english": "traditional leather waterskin",
+      "image_key": "asset_skin_leather_waterskin"
+    },
+    {
+      "id": "concept_147_watertight_stitching",
+      "arabic": "خِرَازَةُ الجِلْدِ المُحْكَمَةُ",
+      "german": "die wasserdichte traditionelle Ledernaht",
+      "english": "the watertight leather stitching",
+      "image_key": "asset_skin_watertight_seam"
+    },
+    {
+      "id": "concept_148_leather_mouth_strap",
+      "arabic": "وِكَاءُ القِرْبَةِ الوَثِيقُ",
+      "german": "das feste Lederband zum Verschließen",
+      "english": "the secure leather mouth strap",
+      "image_key": "asset_skin_mouth_strap"
+    }
+  ]
+}
