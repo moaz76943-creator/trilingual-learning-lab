@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_097",
+  "root_ar": "ج-ر-ش",
+  "infinitive_ar": "جَرَشَ - يَجْرُشُ",
+  "infinitive_de": "mahlen / zerkleinern",
+  "infinitive_en": "to crush / mill coarsely",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَجْرُشُ الزَّيْتُونَ بِحَجَرِ الرَّحَى",
+      "de_ich": "ich mahle die Oliven mit dem Mühlstein",
+      "en_i": "I crush the olives with the millstone"
+    },
+    "past": {
+      "ar_ana": "أَنَا جَرَشْتُ الثِّمَارَ الطَّازَجَةَ",
+      "de_ich": "ich habe die frischen Früchte gemahlen",
+      "en_i": "I crushed the fresh fruits"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_051",
+  "title_ar": "فِي مَعْصَرَةِ الزَّيْتِ عَلَى البَارِدِ",
+  "title_de": "In der Kaltpressölmühle mit traditionellem Basaltstein",
+  "title_en": "At the Cold-Press Olive Mill with Black Basalt Stone",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُتَسَوِّقُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَا سِرُّ هَذَا اللَّوْنِ الأَخْضَرِ الزَّاهِي وَالرَّائِحَةِ العَبِقَةِ لِزَيْتِ الزَّيْتُونِ هُنَا؟",
+      "de": "Guten Tag! Was ist das Geheimnis dieser leuchtend grünen Farbe und des frischen Aromas Ihres Öls?",
+      "en": "Good day! What is the secret of this vibrant green color and fragrant aroma of your olive oil?"
+    },
+    {
+      "turn": 2,
+      "speaker": "مُعَلِّمُ المَعْصَرَةِ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَجْرُشُ الزَّيْتُونَ بِحَجَرِ البَازِلْتِ البَارِدِ دُونَ تَسْخِينٍ، ثُمَّ نَعْصِرُهُ عَلَى البَارِدِ لِيَحْفَظَ كُلَّ خَيْرِهِ.",
+      "de": "Willkommen! Wir mahlen die Oliven mit kühlem Basaltstein ohne Erhitzung und pressen sie kalt für volle Reinheit.",
+      "en": "Welcome! We crush olives with cool basalt stone without heat, then cold-press them to preserve their natural vitality."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُتَسَوِّقُ",
+      "ar": "هَذَا هُوَ الزَّيْتُ البِكْرُ الأَصِيلُ الَّذِي فِيهِ الشِّفَاءُ وَالبَرَكَةُ كَمَا وَصَفَهُ اللهُ فِي كِتَابِهِ الكَرِيمِ.",
+      "de": "Dies ist das reine, unverfälschte native Öl, das Segen und Wohlbefinden in sich birgt.",
+      "en": "This is genuine extra-virgin oil that carries blessing and wholesome nourishment."
+    }
+  ]
+}

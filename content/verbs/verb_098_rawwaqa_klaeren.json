@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_098",
+  "root_ar": "ر-و-ق",
+  "infinitive_ar": "رَوَّقَ - يُرَوِّقُ",
+  "infinitive_de": "klären / absetzen lassen",
+  "infinitive_en": "to decant / clarify naturally",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أُرَوِّقُ الزَّيْتَ فِي الحَوْضِ بِهُدُوءٍ",
+      "de_ich": "ich kläre das Öl im Becken in aller Ruhe",
+      "en_i": "I decant the oil in the basin calmly"
+    },
+    "past": {
+      "ar_ana": "أَنَا رَوَّقْتُ المَحْصُولَ حَتَّى صَفَا",
+      "de_ich": "ich habe das Öl geklärt, bis es rein war",
+      "en_i": "I clarified the oil until it was pure"
+    }
+  }
+}

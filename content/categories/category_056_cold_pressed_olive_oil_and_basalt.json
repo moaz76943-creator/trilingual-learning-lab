@@ -1,0 +1,30 @@
+{
+  "id": "category_056",
+  "name_ar": "مَعَاصِرُ البَازِلْتِ وَالزَّيْتُ البِكْرُ",
+  "name_de": "Basaltsteinmühlen und natives Olivenöl",
+  "name_en": "Basalt Stone Mills and Extra Virgin Olive Oil",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_170_basalt_millstone",
+      "arabic": "حَجَرُ الرَّحَى البَازِلْتِيُّ الأَسْوَدُ",
+      "german": "der schwarze Basaltmühlstein",
+      "english": "the black basalt millstone",
+      "image_key": "asset_oil_basalt_millstone"
+    },
+    {
+      "id": "concept_171_esparto_pressing_mats",
+      "arabic": "مَخَاضِفُ الخَوْصِ لِلْعَصْرِ",
+      "german": "die geflochtenen Esparto-Pressmatten",
+      "english": "the woven esparto pressing mats",
+      "image_key": "asset_oil_esparto_mats"
+    },
+    {
+      "id": "concept_172_cold_pressed_virgin_oil",
+      "arabic": "الزَّيْتُ البِكْرُ المَعْصُورُ عَلَى البَارِدِ",
+      "german": "das kaltgepresste native Olivenöl",
+      "english": "cold-pressed extra virgin olive oil",
+      "image_key": "asset_oil_cold_pressed"
+    }
+  ]
+}
