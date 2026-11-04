@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_061",
+  "title_ar": "عِنْدَ صَائِغِ الفِضَّةِ وَالنُّقُوشِ اليَدَوِيَّةِ",
+  "title_de": "Beim traditionellen Silberschmied und Handgravur",
+  "title_en": "At the Traditional Silversmith and Hand Engraving",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُتَسَوِّقُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَا أَبْهَى هَذَا البَرِيقَ النَّقِيَّ لِلْفِضَّةِ الخَالِصَةِ المَنْقُوشَةِ بِالزَّهْرِ البَرِّيِّ!",
+      "de": "Guten Tag! Wie prachtvoll der reine Glanz dieses feinen Silbers mit Wildblumenmotiven strahlt!",
+      "en": "Good day! How magnificent the pure luster of this fine silver engraved with wild flowers radiates!"
+    },
+    {
+      "turn": 2,
+      "speaker": "الصَّائِغُ الأَمِينُ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَصْهَرُ الفِضَّةَ النَّقِيَّةَ عِيَارَ تِسْعِمِائَةٍ وَخَمْسَةٍ وَعِشْرِينَ، وَنَنْقُشُهَا بِمِخْرَزِ الفُولَاذِ بِيَدٍ ثَابِتَةٍ.",
+      "de": "Willkommen! Wir schmelzen 925er Feinsilber und ziselieren es mit ruhiger Hand und stählernem Stichel.",
+      "en": "Welcome! We melt 925 sterling silver and engrave it with a steady hand using a hardened steel graver."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُتَسَوِّقُ",
+      "ar": "هَذِهِ صِيَاغَةٌ تَجْمَعُ بَيْنَ عِفَّةِ المَعْدِنِ وَجَمَالِ التُّرَاثِ الإِنْسَانِيِّ النَّافِعِ.",
+      "de": "Dies ist ein Kunsthandwerk, das die Reinheit des Metalls mit der Schönheit nützlichen Kulturgutes vereint.",
+      "en": "This is craftsmanship that unites the purity of the metal with the beauty of noble heritage."
+    }
+  ]
+}

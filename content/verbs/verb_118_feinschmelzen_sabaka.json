@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_118",
+  "root_ar": "س-ب-ك",
+  "infinitive_ar": "سَبَكَ - يَسْبُكُ",
+  "infinitive_de": "feinschmelzen / läutern",
+  "infinitive_en": "to refine and melt silver",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَسْبُكُ الفِضَّةَ فِي البُوتَقَةِ",
+      "de_ich": "ich schmelze das Silber im Tiegel",
+      "en_i": "I melt the silver in the crucible"
+    },
+    "past": {
+      "ar_ana": "أَنَا سَبَكْتُ المَعْدِنَ الصَّافِيَ",
+      "de_ich": "ich habe das reine Metall geschmolzen",
+      "en_i": "I melted the pure metal"
+    }
+  }
+}

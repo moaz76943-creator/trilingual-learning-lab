@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_117",
+  "root_ar": "ف-ض-ض",
+  "infinitive_ar": "فَضَّضَ - يُفَضِّضُ",
+  "infinitive_de": "versilbern / mit Silber verzieren",
+  "infinitive_en": "to overlay with silver",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أُفَضِّضُ الإِنَاءَ النُّحَاسِيَّ",
+      "de_ich": "ich versilbere das Kupfergefäß",
+      "en_i": "I inlay the copper vessel with silver"
+    },
+    "past": {
+      "ar_ana": "أَنَا فَضَّضْتُ الآنِيَةَ التُّرَاثِيَّةَ",
+      "de_ich": "ich habe das traditionelle Gefäß versilbert",
+      "en_i": "I ornamented the traditional vessel with silver"
+    }
+  }
+}

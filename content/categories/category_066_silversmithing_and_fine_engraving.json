@@ -1,0 +1,30 @@
+{
+  "id": "category_066",
+  "name_ar": "صِيَاغَةُ الفِضَّةِ وَالنُّقُوشِ اليَدَوِيَّةِ",
+  "name_de": "Silberschmiedekunst und Handgravur",
+  "name_en": "Silversmithing and Hand Engraving Arts",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_200_sterling_silver",
+      "arabic": "الفِضَّةُ الخَالِصَةُ النَّقِيَّةُ",
+      "german": "das reine Sterlingsilber",
+      "english": "pure sterling silver",
+      "image_key": "asset_silver_sterling_pure"
+    },
+    {
+      "id": "concept_201_steel_graver",
+      "arabic": "مِرْقَمُ النَّقْشِ الفُولَاذِيُّ",
+      "german": "der stählerne Gravierstichel",
+      "english": "the hardened steel graver",
+      "image_key": "asset_silver_steel_graver"
+    },
+    {
+      "id": "concept_202_silver_filigree",
+      "arabic": "التَّخْرِيمُ الفِضِّيُّ البَدِيعُ",
+      "german": "die kunstvolle Silberfiligranarbeit",
+      "english": "exquisite silver filigree artwork",
+      "image_key": "asset_silver_filigree_work"
+    }
+  ]
+}
