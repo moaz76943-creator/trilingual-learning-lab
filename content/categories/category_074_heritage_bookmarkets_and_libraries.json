@@ -1,0 +1,30 @@
+{
+  "id": "category_074",
+  "name_ar": "أَسْوَاقُ الكُتُبِ وَخَزَائِنُ التُّرَاثِ",
+  "name_de": "Traditionelle Buchmärkte und Wissensarchive",
+  "name_en": "Heritage Bookmarkets and Knowledge Archives",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_224_bound_manuscript_codex",
+      "arabic": "المُجَلَّدُ المَخْطُوطُ المَصُونُ",
+      "german": "der sorgsam gebundene Handschriftenkodex",
+      "english": "the well-bound preserved manuscript codex",
+      "image_key": "asset_book_bound_codex"
+    },
+    {
+      "id": "concept_225_wooden_reading_stand",
+      "arabic": "المِحْمَلُ الخَشَبِيُّ لِلْقِرَاءَةِ",
+      "german": "das hölzerne Buchlesepult",
+      "english": "the wooden folding reading stand",
+      "image_key": "asset_book_reading_stand"
+    },
+    {
+      "id": "concept_226_scholarly_catalog",
+      "arabic": "فِهْرِسُ الكُتُبِ المُنَظَّمُ",
+      "german": "das geordnete Bibliotheksverzeichnis",
+      "english": "the organized scholarly library catalog",
+      "image_key": "asset_book_library_catalog"
+    }
+  ]
+}

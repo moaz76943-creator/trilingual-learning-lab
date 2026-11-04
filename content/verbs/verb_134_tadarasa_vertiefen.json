@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_134",
+  "root_ar": "د-ر-س",
+  "infinitive_ar": "تَدَارَسَ - يَتَدَارَسُ",
+  "infinitive_de": "gemeinsam studieren / vertiefen",
+  "infinitive_en": "to study together / deliberate",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "نَحْنُ نَتَدَارَسُ مَعَانِيَ الحِكْمَةِ",
+      "de_wir": "wir vertiefen gemeinsam die Bedeutungen der Weisheit",
+      "en_we": "we study together the meanings of wisdom"
+    },
+    "past": {
+      "ar_ana": "تَدَارَسْنَا الفَصْلَ بِتَفَكُّرٍ",
+      "de_wir": "wir haben das Kapitel mit Bedacht studiert",
+      "en_we": "we deliberated the chapter thoughtfully"
+    }
+  }
+}

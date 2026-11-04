@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_069",
+  "title_ar": "فِي سُوقِ الكُتُبِ وَالمَخْطُوطَاتِ النَّفِيسَةِ",
+  "title_de": "Auf dem Buchmarkt und Austausch wertvoller Handschriften",
+  "title_en": "At the Heritage Bookmarket and Knowledge Exchange",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "طَالِبُ العِلْمِ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَا أَبْهَى هَذِهِ الدَّكَاكِينَ المَمْلُوءَةَ بِأُمَّهَاتِ الكُتُبِ فِي عُلُومِ الفَلَكِ وَالعِمَارَةِ وَاللِّسَانِ!",
+      "de": "Guten Tag! Wie prachtvoll diese Buchläden gefüllt mit Meisterwerken der Astronomie, Baukunst und Sprachwissenschaft sind!",
+      "en": "Good day! How magnificent these bookshops filled with classic works in astronomy, architecture, and linguistics are!"
+    },
+    {
+      "turn": 2,
+      "speaker": "الوَرَّاقُ الكَبِيرُ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَحْنُ نَفْرِزُ النُّسَخَ المَضْبُوطَةَ المَشْكُولَةَ بِعِنَايَةٍ لِيَسْهُلَ عَلَى الشَّادِي فَهْمُهَا.",
+      "de": "Willkommen! Wir sichten sorgfältig vokalisierte, geprüfte Abschriften, um dem Suchenden das Verstehen zu erleichtern.",
+      "en": "Welcome! We select carefully vocalized, verified copies so learners can comprehend them with ease and delight."
+    },
+    {
+      "turn": 3,
+      "speaker": "طَالِبُ العِلْمِ",
+      "ar": "بَارَكَ اللهُ فِي حِرْصِكُمْ؛ فَالقِرَاءَةُ النَّافِعَةُ حَيَاةٌ لِلْعُقُولِ وَعِمَارَةٌ لِلْوِجْدَانِ.",
+      "de": "Möge Gott Ihre Sorgfalt segnen; nützliches Lesen belebt den Geist und bereichert das Herz.",
+      "en": "May God bless your dedication; beneficial reading enlivens the mind and enriches the soul."
+    }
+  ]
+}

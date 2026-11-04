@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_133",
+  "root_ar": "ع-ي-ر",
+  "infinitive_ar": "أَعَارَ - يُعِيرُ",
+  "infinitive_de": "ausleihen / leihen",
+  "infinitive_en": "to lend / loan a book",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أُعِيرُ الكِتَابَ النَّافِعَ لِزَمِيلِي",
+      "de_ich": "ich leihe das nützliche Buch meinem Gefährten",
+      "en_i": "I lend the beneficial book to my peer"
+    },
+    "past": {
+      "ar_ana": "أَنَا أَعَرْتُ المُجَلَّدَ لِطَالِبِ العِلْمِ",
+      "de_ich": "ich habe den Band dem Lernenden geliehen",
+      "en_i": "I loaned the volume to the seeker of knowledge"
+    }
+  }
+}
