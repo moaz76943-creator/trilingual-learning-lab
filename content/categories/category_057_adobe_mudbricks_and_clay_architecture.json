@@ -1,0 +1,30 @@
+{
+  "id": "category_057",
+  "name_ar": "عُلُومُ البِنَاءِ بِالطِّينِ اللَّبِنِ",
+  "name_de": "Lehmziegelbau und nachhaltige Erdarchitektur",
+  "name_en": "Adobe Mudbricks and Earthen Architecture",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_173_sun_dried_adobe",
+      "arabic": "اللَّبِنُ الطِّينِيُّ المُجَفَّفُ شَمْسِيًّا",
+      "german": "der sonnengetrocknete Lehmziegel",
+      "english": "sun-dried adobe mudbrick",
+      "image_key": "asset_adobe_mudbrick"
+    },
+    {
+      "id": "concept_174_chopped_straw_binder",
+      "arabic": "تِبْنُ القَمْحِ المَفْرُومُ",
+      "german": "das gehäckselte Weizenstroh",
+      "english": "chopped wheat straw binder",
+      "image_key": "asset_adobe_wheat_straw"
+    },
+    {
+      "id": "concept_175_wooden_brick_mould",
+      "arabic": "قَالَبُ الطُّوبِ الخَشَبِيُّ",
+      "german": "die hölzerne Ziegelform",
+      "english": "wooden brick mould",
+      "image_key": "asset_adobe_brick_mould"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_099",
+  "root_ar": "ع-ج-ن",
+  "infinitive_ar": "عَجَنَ - يَعْجِنُ",
+  "infinitive_de": "kneten / vermengen",
+  "infinitive_en": "to knead / mix clay",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَعْجِنُ الطِّينَ بِالتِّبْنِ وَالمَاءِ",
+      "de_ich": "ich knete den Lehm mit Stroh und Wasser",
+      "en_i": "I knead the clay with straw and water"
+    },
+    "past": {
+      "ar_ana": "أَنَا عَجَنْتُ مَزِيجَ البِنَاءِ",
+      "de_ich": "ich habe die Baumischung geknetet",
+      "en_i": "I kneaded the building mixture"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_052",
+  "title_ar": "عِنْدَ صَانِعِ الطُّوبِ اللَّبِنِ وَالبِنَاءِ بِالطِّينِ",
+  "title_de": "Beim Lehmziegelmacher und traditionellem Lehmbau",
+  "title_en": "At the Adobe Mudbrick Maker and Earthen Architecture",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُهَنْدِسُ المِعْمَارِيُّ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، مَا أَعْظَمَ هَذِهِ المَادَّةَ الطَّبِيعِيَّةَ الَّتِي تَمْنَحُ البُيُوتَ دِفْئًا شِتَاءً وَبُرُودَةً صَيْفًا!",
+      "de": "Guten Tag! Wie bewundernswert dieser Naturbaustoff ist, der Häusern im Winter Wärme und im Sommer Kühle schenkt!",
+      "en": "Good day! How admirable this natural building material is, giving houses warmth in winter and coolness in summer!"
+    },
+    {
+      "turn": 2,
+      "speaker": "الصَّانِعُ اللَّبَّانُ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَمْزُجُ طِينَ الوَادِي النَّقِيَّ بِتِبْنِ القَمْحِ المَفْرُومِ، وَنَكْبِسُهُ فِي قَوَالِبَ خَشَبِيَّةٍ لِيَجِفَّ فِي الشَّمْسِ.",
+      "de": "Willkommen! Wir mischen reinen Ton mit gehäckseltem Weizenstroh und schlagen ihn in Holzformen zur Sonnentrocknung.",
+      "en": "Welcome! We blend pure valley clay with chopped wheat straw and compact it into wooden moulds for sun-drying."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُهَنْدِسُ المِعْمَارِيُّ",
+      "ar": "هَذِهِ عِمَارَةٌ مُسْتَدَامَةٌ تَتَنَفَّسُ بِهَا الجُدْرَانُ، وَتُعِيدُ لِلْإِنْسَانِ أُلْفَتَهُ مَعَ الأَرْضِ.",
+      "de": "Das ist wahrhaft nachhaltige Architektur, in der die Wände atmen und den Menschen mit der Erde verbinden.",
+      "en": "This is truly sustainable architecture where walls breathe, restoring human harmony with the earth."
+    }
+  ]
+}

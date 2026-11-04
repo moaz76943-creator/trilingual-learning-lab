@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_100",
+  "root_ar": "ل-ب-ن",
+  "infinitive_ar": "لَبَنَ - يَلْبِنُ",
+  "infinitive_de": "in Ziegelformen schlagen",
+  "infinitive_en": "to mould into mudbricks",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَلْبِنُ الطِّينَ فِي القَالَبِ",
+      "de_ich": "ich forme den Lehm in der Holzform",
+      "en_i": "I mould the clay in the form"
+    },
+    "past": {
+      "ar_ana": "أَنَا لَبَنْتُ مِئَةَ طُوبَةٍ",
+      "de_ich": "ich habe hundert Ziegel geformt",
+      "en_i": "I moulded a hundred bricks"
+    }
+  }
+}
