@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_060",
+  "title_ar": "صِنَاعَةُ الخَوَابِي الفَخَّارِيَّةِ لِلتَّخْزِينِ الأَرْضِيِّ",
+  "title_de": "Herstellung großer Tonkrüge für unterirdische Vorratshaltung",
+  "title_en": "Crafting Large Clay Amphoras for Subterranean Storage",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُتَعَلِّمُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، كَيْفَ تُشَيِّدُونَ هَذِهِ الخَابِيَةَ الضَّخْمَةَ الَّتِي تَسَعُ جَنَى مَوْسِمٍ كَامِلٍ مِنَ الغِلَالِ؟",
+      "de": "Guten Tag! Wie errichten Sie diesen gewaltigen Tonkrug, der die Ernte einer ganzen Saison fasst?",
+      "en": "Good day! How do you build this massive clay amphora that holds an entire season's grain harvest?"
+    },
+    {
+      "turn": 2,
+      "speaker": "صَانِعُ الفَخَّارِ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَبْنِيهَا طَبَقَةً بَعْدَ طَبَقَةٍ مِنَ الطِّينِ المَمْزُوجِ بِالرَّمْلِ الدَّقِيقِ لِيَتَحَمَّلَ ضَغْطَ التُّرْبَةِ عِنْدَ طَمْرِهَا فِي الأَرْضِ.",
+      "de": "Willkommen! Wir schichten sie Schicht für Schicht aus sandgemagertem Ton auf, damit sie dem Erddruck standhält.",
+      "en": "Welcome! We build it layer by layer from fine sand-tempered clay so it withstands earth pressure when buried."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُتَعَلِّمُ",
+      "ar": "فَتَبْقَى الحُبُوبُ بَارِدَةً فِي جَوْفِ الأَرْضِ مَحْمِيَّةً مِنَ الرُّطُوبَةِ وَالحَرَارَةِ.",
+      "de": "So bleibt das Getreide kühl im Schoß der Erde geborgen, geschützt vor Feuchtigkeit und Sommerhitze.",
+      "en": "Thus the grain remains cool within the earth, naturally shielded from humidity and scorching summer heat."
+    }
+  ]
+}

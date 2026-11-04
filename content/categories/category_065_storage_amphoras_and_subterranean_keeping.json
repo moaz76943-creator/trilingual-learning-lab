@@ -1,0 +1,30 @@
+{
+  "id": "category_065",
+  "name_ar": "صِنَاعَةُ الخَوَابِي الفَخَّارِيَّةِ الضَّخْمَةِ",
+  "name_de": "Großamphoren und Erdlagerung",
+  "name_en": "Storage Amphoras and Subterranean Food Keeping",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_197_large_clay_amphora",
+      "arabic": "الخَابِيَةُ الفَخَّارِيَّةُ الضَّخْمَةُ",
+      "german": "die gewaltige Tonamphore",
+      "english": "large subterranean clay amphora",
+      "image_key": "asset_amphora_large_vessel"
+    },
+    {
+      "id": "concept_198_stone_sealing_lid",
+      "arabic": "غِطَاءُ الخَابِيَةِ الحَجَرِيُّ المُحْكَمُ",
+      "german": "der passgenaue steinerne Verschlussdeckel",
+      "english": "tight-fitting stone sealing lid",
+      "image_key": "asset_amphora_stone_lid"
+    },
+    {
+      "id": "concept_199_sand_tempered_clay",
+      "arabic": "الطِّينُ المَمْزُوجُ بِالرَّمْلِ الصَّلْدِ",
+      "german": "der sandgemagerte feuerfeste Ton",
+      "english": "durable sand-tempered clay",
+      "image_key": "asset_amphora_tempered_clay"
+    }
+  ]
+}

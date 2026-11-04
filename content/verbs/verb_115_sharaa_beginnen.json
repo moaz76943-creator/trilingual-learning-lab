@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_115",
+  "root_ar": "ش-ر-ع",
+  "infinitive_ar": "شَرَعَ - يَشْرَعُ",
+  "infinitive_de": "beginnen / anfangen",
+  "infinitive_en": "to begin / initiate",
+  "cefr_level": "B1",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَشْرَعُ فِي بِنَاءِ الخَابِيَةِ صَبَاحًا",
+      "de_ich": "ich beginne am Morgen mit dem Krugbau",
+      "en_i": "I initiate building the amphora in the morning"
+    },
+    "past": {
+      "ar_ana": "أَنَا شَرَعْتُ فِي صَنْعَتِي بِاسْمِ اللهِ",
+      "de_ich": "ich begann mein Werk im Namen Gottes",
+      "en_i": "I began my work in the name of God"
+    }
+  }
+}

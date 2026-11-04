@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_116",
+  "root_ar": "ن-ض-ج",
+  "infinitive_ar": "نَضَجَ - يَنْضَجُ",
+  "infinitive_de": "ausreifen / fest werden",
+  "infinitive_en": "to mature / cure fully",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "الفَخَّارُ يَنْضَجُ فِي الفُرْنِ بِحَرَارَةٍ مُتَدَرِّجَةٍ",
+      "de_er": "der Ton reift im Ofen durch stufenweise Hitze",
+      "en_it": "the pottery cures in the kiln with gradual heat"
+    },
+    "past": {
+      "ar_ana": "نَضِجَتِ الخَابِيَةُ وَاشْتَدَّتْ صَلَابَتُهَا",
+      "de_sie": "die Amphore ist voll ausgereift und fest geworden",
+      "en_it": "the amphora cured completely and became solid"
+    }
+  }
+}
