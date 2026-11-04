@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_059",
+  "title_ar": "صِنَاعَةُ القَنَانِي الزُّجَاجِيَّةِ العَاتِمَةِ",
+  "title_de": "Herstellung dunkler Glasflaschen zum Lichtschutz von Speiseöl",
+  "title_en": "Crafting Dark Glass Bottles for Food Light Protection",
+  "cefr_level": "B1",
+  "turns": [
+    {
+      "turn": 1,
+      "speaker": "المُزارِعُ",
+      "ar": "السَّلَامُ عَلَيْكُمْ، هَلْ تَصْنَعُونَ قَنَانِيَ زُجَاجِيَّةً بِلَوْنِ الكَهْرَمَانِ الدَّاكِنِ لِحِمَايَةِ زَيْتِ الزَّيْتُونِ؟",
+      "de": "Guten Tag! Stellen Sie bernsteinfarbene dunkle Glasflaschen her, um unser Olivenöl vor Licht zu schützen?",
+      "en": "Good day! Do you craft dark amber glass bottles to protect our olive oil from sunlight?"
+    },
+    {
+      "turn": 2,
+      "speaker": "نَفَّاخُ الزُّجَاجِ",
+      "ar": "وَعَلَيْكُمُ السَّلَامُ. نَعَمْ، نَمْزُجُ رَمْلَ السِّيلِيكَا بِأَكَاسِيدِ الحَدِيدِ الطَّبِيعِيَّةِ لِتَمْنَعَ نَفَاذَ الضَّوْءِ إِلَى الزَّيْتِ.",
+      "de": "Willkommen! Ja, wir mischen reinen Quarzsand mit natürlichen Eisenoxiden, damit kein schädliches Licht eindringt.",
+      "en": "Welcome! Yes, we blend silica sand with natural iron oxides so that no degrading light penetrates into the oil."
+    },
+    {
+      "turn": 3,
+      "speaker": "المُزارِعُ",
+      "ar": "هَذَا حِفْظٌ حَكِيمٌ يَصُونُ القِيمَةَ الغِذَائِيَّةَ وَالنَّكْهَةَ الأَصِيلَةَ عَامًا كَامِلًا.",
+      "de": "Das ist ein kluger Schutz, der den Nährwert und das feine Aroma ein ganzes Jahr lang bewahrt.",
+      "en": "This is wise preservation that shields nutritional value and authentic flavor for a whole year."
+    }
+  ]
+}

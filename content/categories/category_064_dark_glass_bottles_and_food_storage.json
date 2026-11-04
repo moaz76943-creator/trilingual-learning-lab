@@ -1,0 +1,30 @@
+{
+  "id": "category_064",
+  "name_ar": "صِنَاعَةُ القَنَانِي الزُّجَاجِيَّةِ العَاتِمَةِ",
+  "name_de": "Dunkelglasherstellung und Lichtschutz",
+  "name_en": "Dark Glass Bottles and Light-Proof Storage",
+  "cefr_level": "B1",
+  "concepts": [
+    {
+      "id": "concept_194_amber_oil_bottle",
+      "arabic": "قِنِّينَةُ الزَّيْتِ الكَهْرَمَانِيَّةُ العَاتِمَةُ",
+      "german": "die bernsteinfarbene lichtdichte Ölflasche",
+      "english": "dark amber light-proof oil bottle",
+      "image_key": "asset_glass_amber_bottle"
+    },
+    {
+      "id": "concept_195_natural_cork_stopper",
+      "arabic": "سِدَادَةُ الفِلِّينِ الطَّبِيعِيِّ المُحْكَمَةُ",
+      "german": "der dichte Naturkorkstopfen",
+      "english": "tight-fitting natural cork stopper",
+      "image_key": "asset_glass_cork_stopper"
+    },
+    {
+      "id": "concept_196_iron_oxide_colorant",
+      "arabic": "أُكْسِيدُ الحَدِيدِ لِتَعْتِيمِ الزُّجَاجِ",
+      "german": "das Eisenoxid zur Glasfärbung",
+      "english": "natural iron oxide for glass darkening",
+      "image_key": "asset_glass_iron_oxide"
+    }
+  ]
+}

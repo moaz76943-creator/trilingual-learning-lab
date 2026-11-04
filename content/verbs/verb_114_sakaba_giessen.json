@@ -1,0 +1,20 @@
+{
+  "verb_id": "verb_114",
+  "root_ar": "س-ك-ب",
+  "infinitive_ar": "سَكَبَ - يَسْكُبُ",
+  "infinitive_de": "gießen / einschenken",
+  "infinitive_en": "to pour / decant",
+  "cefr_level": "A2",
+  "conjugations": {
+    "present": {
+      "ar_ana": "أَنَا أَسْكُبُ الزَّيْتَ النَّقِيَّ فِي القِنِّينَةِ",
+      "de_ich": "ich gieße das reine Öl in die Flasche",
+      "en_i": "I pour the pure oil into the bottle"
+    },
+    "past": {
+      "ar_ana": "أَنَا سَكَبْتُ المَاءَ الزُّلَالَ",
+      "de_ich": "ich habe das klare Wasser eingegossen",
+      "en_i": "I poured the clear water"
+    }
+  }
+}
