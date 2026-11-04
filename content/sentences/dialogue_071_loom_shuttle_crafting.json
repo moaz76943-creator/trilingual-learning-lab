@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_071",
+  "title": {
+    "ar": "صِنَاعَةُ مَكُوكِ النَّسِيجِ مِنْ خَشَبِ الزَّيْتُونِ",
+    "de": "Das Schnitzen des Webschiffchens aus Olivenholz",
+    "en": "Crafting the Olive Wood Loom Shuttle"
+  },
+  "level": "B1",
+  "topic": "traditional_woodworking_and_textiles",
+  "lines": [
+    {
+      "speaker": "أَبُو إِبْرَاهِيمَ",
+      "ar": "يَجْدُرُ بِنَا انْتِقَاءُ خَشَبِ زَيْتُونٍ جَافٍّ لِصُنْعِ المَكُوكِ حَتَّى لا يَلْتَوِيَ.",
+      "de": "Es gilt, trockenes Olivenholz für das Schiffchen zu wählen, damit es sich nicht verzieht.",
+      "en": "It behoves us to select seasoned olive wood for the shuttle so that it does not warp."
+    },
+    {
+      "speaker": "يُوسُفُ",
+      "ar": "كَيْفَ نَضْمَنُ أَنَّ الخُيُوطَ الحَرِيرِيَّةَ لَنْ تَتَمَزَّقَ أَثْنَاءَ المُرُورِ؟",
+      "de": "Wie stellen wir sicher, dass die Seidenfäden beim Durchgleiten nicht reißen?",
+      "en": "How do we ensure that the silk threads will not snag during the pass?"
+    },
+    {
+      "speaker": "أَبُو إِبْرَاهِيمَ",
+      "ar": "نُصَنْفِرُ السَّطْحَ بِوَرَقٍ نَاعِمٍ حَتَّى يَسْلُسَ المَسَارُ كَالزُّجَاجِ المَصْقُولِ.",
+      "de": "Wir schleifen die Oberfläche mit feinem Papier, bis die Bahn wie poliertes Glas gleitet.",
+      "en": "We sand the surface with fine grit until the path glides like polished glass."
+    }
+  ]
+}

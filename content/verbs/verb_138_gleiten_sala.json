@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_138",
+  "lemma_ar": "سَلَسَ",
+  "root": "س-ل-س",
+  "meaning_de": "reibungslos gleiten / leichtgängig sein",
+  "meaning_en": "to glide smoothly / run freely",
+  "conjugation": {
+    "past": {
+      "ar": "سَلَسَ مَرُورُ الخَيْطِ",
+      "de": "Der Faden glitt reibungslos",
+      "en": "The thread ran smoothly"
+    },
+    "present": {
+      "ar": "يَسْلُسُ المَكُوكُ بَيْنَ السَّدَى",
+      "de": "Das Schiffchen gleitet sanft durch die Kette",
+      "en": "The shuttle glides smoothly through the warp"
+    },
+    "imperative": {
+      "ar": "اسْلَسْ فِي المَمَرِّ",
+      "de": "Gleite sanft!",
+      "en": "Glide smoothly!"
+    }
+  }
+}

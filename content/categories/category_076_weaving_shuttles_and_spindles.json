@@ -1,0 +1,33 @@
+{
+  "category_id": "076",
+  "slug": "weaving_shuttles_and_spindles",
+  "name": {
+    "ar": "مَكَاكِيكُ النِّسَاجَةِ وَالمَغَازِلُ الخَشَبِيَّةُ",
+    "de": "Webschiffchen und Holzspindeln",
+    "en": "Weaving Shuttles and Wooden Spindles"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "shuttle_olive",
+      "ar": "المَكُوكُ الخَشَبِيُّ الانْسِيَابِيُّ",
+      "de": "Das stromlinienförmige Webschiffchen",
+      "en": "Streamlined wooden weaver shuttle",
+      "asset_key": "svg_cat076_shuttle_olive"
+    },
+    {
+      "id": "spindle_wool",
+      "ar": "مِغْزَلُ الصُّوفِ اليَدَوِيُّ",
+      "de": "Die Handspindel für Wolle",
+      "en": "Manual wool spindle",
+      "asset_key": "svg_cat076_spindle_wool"
+    },
+    {
+      "id": "yarn_bobbin",
+      "ar": "مَكَبُّ الخُيُوطِ المَصْقُولُ",
+      "de": "Die polierte Garnspule",
+      "en": "Polished yarn bobbin",
+      "asset_key": "svg_cat076_yarn_bobbin"
+    }
+  ]
+}
