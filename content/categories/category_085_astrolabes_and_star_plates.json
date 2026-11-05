@@ -1,0 +1,33 @@
+{
+  "category_id": "085",
+  "slug": "astrolabes_and_star_plates",
+  "name": {
+    "ar": "أَدَوَاتُ الإِسْطِرْلَابِ النُّحَاسِيِّ وَصَفَائِحِ الكَوَاكِبِ",
+    "de": "Kupfer-Astrolabien und Sternenkartenplatten",
+    "en": "Brass Astrolabes and Astronomical Horizon Plates"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "pierced_rete",
+      "ar": "عَنْكَبُوتُ الإِسْطِرْلَابِ المَخْرُومُ",
+      "de": "Die durchbrochene Rete des Astrolabiums",
+      "en": "Pierced astronomical brass rete",
+      "asset_key": "svg_cat085_pierced_rete"
+    },
+    {
+      "id": "sighting_alidade",
+      "ar": "عِضَادَةُ التَّصْوِيبِ الشَّمْسِيَّةُ",
+      "de": "Die Alhidade mit Abseh-Löchern",
+      "en": "Astronomical sighting alidade",
+      "asset_key": "svg_cat085_sighting_alidade"
+    },
+    {
+      "id": "climate_plate",
+      "ar": "صَفِيحَةُ الآفَاقِ المَنْقُوشَةُ",
+      "de": "Die gravierte Horizontplatte",
+      "en": "Engraved latitude climate plate",
+      "asset_key": "svg_cat085_climate_plate"
+    }
+  ]
+}

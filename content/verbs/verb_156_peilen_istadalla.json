@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_156",
+  "lemma_ar": "اسْتَدَلَّ",
+  "root": "د-ل-ل",
+  "meaning_de": "sich orientieren / anhand von Sternen den Weg finden",
+  "meaning_en": "to deduce route / navigate by celestial signs",
+  "conjugation": {
+    "past": {
+      "ar": "اسْتَدَلَّ الرَّكْبُ بِمَطَالِعِ الثُّرَيَّا",
+      "de": "Die Karawane orientierte sich am Aufgang der Plejaden",
+      "en": "The riders navigated by the rising of the Pleiades"
+    },
+    "present": {
+      "ar": "يَسْتَدِلُّ بِحَرَكَةِ الفَلَكِ عَلَى دَرْبِهِ",
+      "de": "Er findet seinen Weg anhand der Himmelsbahnen",
+      "en": "He deduces his path by the motion of the heavens"
+    },
+    "imperative": {
+      "ar": "اسْتَدِلَّ بِعَلَامَاتِ السَّمَاءِ المُنِيرَةِ",
+      "de": "Orientiere dich an den leuchtenden Himmelszeichen!",
+      "en": "Navigate by the luminous signs of the sky!"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_080",
+  "title": {
+    "ar": "فَحْصُ عَنْكَبُوتِ الإِسْطِرْلَابِ وَصَفَائِحِ الآفَاقِ",
+    "de": "Prüfen der Astrolabium-Rete und Horizontplatten",
+    "en": "Testing the Astrolabe Rete and Climate Plates"
+  },
+  "level": "B1",
+  "topic": "traditional_astronomy_and_desert_navigation",
+  "lines": [
+    {
+      "speaker": "مَنْصُورٌ",
+      "ar": "هَلْ تَطَابَقَتْ شَظَايَا العَنْكَبُوتِ النُّحَاسِيِّ مَعَ مَوَاضِعِ النُّجُومِ الثَّابِتَةِ؟",
+      "de": "Stimmen die Zeigerspitzen der durchbrochenen Messing-Rete mit den Positionen der Fixsterne überein?",
+      "en": "Do the pointers of the pierced brass rete align with the positions of the fixed stars?"
+    },
+    {
+      "speaker": "زَكَرِيَّا",
+      "ar": "نَعَمْ، وَأَدْرَجْنَا صَفِيحَةَ عَرْضِ مَكَّةَ المُكَرَّمَةِ لِنَضْبِطَ ارْتِفَاعَ الشَّمْسِ عِنْدَ الزَّوَالِ.",
+      "de": "Ja, und wir haben die Breitengradplatte von Mekka eingelegt, um die Sonnenhöhe am Mittag zu bestimmen.",
+      "en": "Yes, and we inserted the latitude plate of Mecca to calibrate the sun altitude at midday."
+    },
+    {
+      "speaker": "مَنْصُورٌ",
+      "ar": "سَدِّدْ ثَقْبَيِ العِضَادَةِ نَحْوَ النَّجْمِ؛ عِنْدَمَا يَنْفُذُ الضَّوْءُ سَنَعْرِفُ مَسَارَ القَافِلَةِ.",
+      "de": "Richte die beiden Diopterlöcher der Alhidade auf den Stern; sobald das Licht hindurchfällt, kennen wir den Weg.",
+      "en": "Sight the alidade pinholes toward the star; when the beam passes through, we will know the caravan route."
+    }
+  ]
+}

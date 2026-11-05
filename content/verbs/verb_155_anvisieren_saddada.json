@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_155",
+  "lemma_ar": "سَدَّدَ",
+  "root": "س-د-د",
+  "meaning_de": "anvisieren / dioptrisch ausrichten",
+  "meaning_en": "to sight / align through pinholes",
+  "conjugation": {
+    "past": {
+      "ar": "سَدَّدَ الفَلَكِيُّ العِضَادَةَ نَحْوَ النَّجْمِ",
+      "de": "Der Astronom richtete die Alhidade auf den Stern aus",
+      "en": "The astronomer sighted the alidade toward the star"
+    },
+    "present": {
+      "ar": "يُسَدِّدُ البَصَرَ عَبْرَ ثَقْبِ الصَّفِيحَةِ",
+      "de": "Er peilt durch die Öffnung der Platte",
+      "en": "He sights through the plate aperture"
+    },
+    "imperative": {
+      "ar": "سَدِّدْ بِثَبَاتٍ وَتَمَعُّنٍ",
+      "de": "Visierte mit ruhiger Hand an!",
+      "en": "Sight with steady focus!"
+    }
+  }
+}
