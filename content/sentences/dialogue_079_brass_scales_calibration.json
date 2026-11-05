@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_079",
+  "title": {
+    "ar": "مُعَايَرَةُ مِيزَانِ الكِفَّتَيْنِ النُّحَاسِيِّ",
+    "de": "Eichen der kupfernen Balkenwaage",
+    "en": "Calibrating the Equal-Arm Brass Scale"
+  },
+  "level": "B1",
+  "topic": "traditional_metrology_and_fair_trade",
+  "lines": [
+    {
+      "speaker": "سُلَيْمَانُ",
+      "ar": "تَأَمَّلْ لِسَانَ المِيزَانِ فِي سُكُونِهِ؛ هَلْ يَقِفُ مُتَعَامِدًا تَمَامًا مَعَ نُقْطَةِ الصِّفْرِ؟",
+      "de": "Betrachte den Zeiger der Waage in seiner Ruhelage; steht er genau senkrecht auf dem Nullpunkt?",
+      "en": "Observe the scale tongue at rest; does it stand perfectly perpendicular to the zero mark?"
+    },
+    {
+      "speaker": "يَحْيَى",
+      "ar": "نَمِيلُ إِلَى إِضَافَةِ حَبَّةِ رَصَاصٍ صَغِيرَةٍ فِي كِفَّةِ اليَسَارِ لِيَسْتَقِيمَ التَّوَازُنُ.",
+      "de": "Wir müssen ein winziges Bleikorn in die linke Schale legen, damit das Gleichgewicht vollkommen eintritt.",
+      "en": "We need to add a tiny lead grain to the left pan so the balance becomes fully straight."
+    },
+    {
+      "speaker": "سُلَيْمَانُ",
+      "ar": "الآنَ تَطَابَقَتِ الصَّنْجَاتُ مَعَ المِعْيَارِ، وَصَارَ الوَزْنُ عَدْلًا لَا يُبْخَسُ فِيهِ حَقٌّ.",
+      "de": "Nun stimmen die Gewichte mit dem Maß überein; die Wägung ist gerecht und schmälert niemandes Recht.",
+      "en": "Now the weights match the standard; the weighing is just and diminishes no one's due."
+    }
+  ]
+}

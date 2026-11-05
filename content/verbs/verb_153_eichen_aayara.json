@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_153",
+  "lemma_ar": "عَايَرَ",
+  "root": "ع-ي-ر",
+  "meaning_de": "eichen / kalibrieren",
+  "meaning_en": "to calibrate / verify against standard weights",
+  "conjugation": {
+    "past": {
+      "ar": "عَايَرَ الصَّائِغُ كِفَّتَيِ المِيزَانِ",
+      "de": "Der Goldschmied eichte die Waagschalen",
+      "en": "The goldsmith calibrated the balance pans"
+    },
+    "present": {
+      "ar": "يُعَايِرُ الصَّنْجَاتِ بِصَنْجَةٍ نَمُوذَجِيَّةٍ",
+      "de": "Er eicht die Gewichte an einem Normalgewicht",
+      "en": "He calibrates the weights against a certified reference"
+    },
+    "imperative": {
+      "ar": "عَايِرْ بِدِقَّةٍ مُتَنَاهِيَةٍ",
+      "de": "Eiche mit äußerster Präzision!",
+      "en": "Calibrate with utmost precision!"
+    }
+  }
+}

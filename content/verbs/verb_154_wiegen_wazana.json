@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_154",
+  "lemma_ar": "وَزَنَ",
+  "root": "و-ز-ن",
+  "meaning_de": "wiegen / abwägen",
+  "meaning_en": "to weigh accurately / balance fairly",
+  "conjugation": {
+    "past": {
+      "ar": "وَزَنَ التَّاجِرُ حُبُوبَ البُنِّ بِالقِسْطِ",
+      "de": "Der Händler wog die Kaffeebohnen gerecht ab",
+      "en": "The merchant weighed the coffee beans justly"
+    },
+    "present": {
+      "ar": "يَزِنُ البَضَائِعَ دُونَ بَخْسٍ",
+      "de": "Er wiegt die Waren ab, ohne zu schmälern",
+      "en": "He weighs goods without diminishing due measure"
+    },
+    "imperative": {
+      "ar": "زِنْ بِالعَدْلِ وَالإِنْصَافِ",
+      "de": "Wiege mit Gerechtigkeit und Fairness ab!",
+      "en": "Weigh with justice and equity!"
+    }
+  }
+}

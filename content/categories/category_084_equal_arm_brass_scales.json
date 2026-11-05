@@ -1,0 +1,33 @@
+{
+  "category_id": "084",
+  "slug": "equal_arm_brass_scales",
+  "name": {
+    "ar": "أَدَوَاتُ مَوَازِينِ الكِفَّتَيْنِ وَالصَّنْجَاتِ المِعْيَارِيَّةُ",
+    "de": "Balkenwaagen und geeichte Messgewichte",
+    "en": "Equal-Arm Scales and Calibrated Brass Weights"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "brass_scale",
+      "ar": "مِيزَانُ الكِفَّتَيْنِ النُّحَاسِيُّ",
+      "de": "Die doppelarmige Balkenwaage aus Messing",
+      "en": "Equal-arm brass balance scale",
+      "asset_key": "svg_cat084_brass_scale"
+    },
+    {
+      "id": "standard_weight",
+      "ar": "صَنْجَةُ الوَزْنِ المَعْيَارِيَّةُ",
+      "de": "Das geeichte Messinggewicht",
+      "en": "Standardized brass counterweight",
+      "asset_key": "svg_cat084_standard_weight"
+    },
+    {
+      "id": "scale_pointer",
+      "ar": "لِسَانُ المِيزَانِ الشَّاقُولِيُّ",
+      "de": "Der senkrechte Zeiger der Waage",
+      "en": "Vertical scale indicator tongue",
+      "asset_key": "svg_cat084_scale_pointer"
+    }
+  ]
+}
