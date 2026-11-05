@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_144",
+  "lemma_ar": "كَثَّفَ",
+  "root": "ك-ث-ف",
+  "meaning_de": "kondensieren / verdichten",
+  "meaning_en": "to condense vapors / liquefy",
+  "conjugation": {
+    "past": {
+      "ar": "كَثَّفَ الأُنْبُوبُ البَارِدُ البُخَارَ",
+      "de": "Das kalte Rohr kondensierte den Dampf",
+      "en": "The cold tube condensed the vapor"
+    },
+    "present": {
+      "ar": "يُكَثِّفُ النَّدَى العَطِرَ فِي القَارُورَةِ",
+      "de": "Es kondensiert den duftenden Tau im Gefäß",
+      "en": "It condenses aromatic dew into the vessel"
+    },
+    "imperative": {
+      "ar": "كَثِّفْ بِتَبْرِيدٍ مُتَوَاصِلٍ",
+      "de": "Kondensiere durch stetige Kühlung!",
+      "en": "Condense with continuous cooling!"
+    }
+  }
+}

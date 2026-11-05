@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_074",
+  "title": {
+    "ar": "فَحْصُ إِنْبِيقِ التَّقْطِيرِ النُّحَاسِيِّ لِزَهْرِ اللَّيْمُونِ",
+    "de": "Inspektion der Kupferbrennblase für Orangenblüten",
+    "en": "Inspecting the Copper Alembic for Orange Blossom Distillation"
+  },
+  "level": "B1",
+  "topic": "traditional_botanical_distillation",
+  "lines": [
+    {
+      "speaker": "طَارِقٌ",
+      "ar": "هَلْ تَأَكَّدْتَ مِنْ إِحْكَامِ عُنُقِ الإِنْبِيقِ بِعَجِينَةِ الرَّمَادِ كَيْ لَا يَتَسَرَّبَ البُخَارُ العَطِرُ؟",
+      "de": "Hast du den Schwanenhals des Helms mit Ascheteig abgedichtet, damit kein aromatischer Dampf entweicht?",
+      "en": "Did you verify sealing the alembic neck with ash paste so no aromatic vapor escapes?"
+    },
+    {
+      "speaker": "سَعِيدٌ",
+      "ar": "نَعَمْ، وَمَلَأْنَا حَوْضَ التَّبْرِيدِ بِالمَاءِ العَذْبِ لِيَتَكَاثَفَ النَّدَى قَطْرَةً قَطْرَةً.",
+      "de": "Ja, und wir haben das Kühlbecken mit frischem Wasser gefüllt, damit der Tau Tropfen für Tropfen kondensiert.",
+      "en": "Yes, and we filled the cooling basin with fresh water so the dew condenses drop by drop."
+    },
+    {
+      "speaker": "طَارِقٌ",
+      "ar": "يَجِبُ أَنْ تَكُونَ النَّارُ هَادِئَةً جِدًّا حَتَّى لَا تَحْتَرِقَ بِتَلَاتُ الزَّهْرِ الرَّقِيقَةُ فِي القَعْرِ.",
+      "de": "Das Feuer muss sehr sanft brennen, damit die zarten Blütenblätter am Boden nicht verbrennen.",
+      "en": "The flame must be very gentle so the delicate flower petals at the bottom do not scorch."
+    }
+  ]
+}

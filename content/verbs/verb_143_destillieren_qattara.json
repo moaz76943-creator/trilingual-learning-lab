@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_143",
+  "lemma_ar": "قَطَّرَ",
+  "root": "ق-ط-ر",
+  "meaning_de": "destillieren / tröpfeln lassen",
+  "meaning_en": "to distill drop by drop",
+  "conjugation": {
+    "past": {
+      "ar": "قَطَّرَ الحَكِيمُ زَهْرَ البَابُونِجِ",
+      "de": "Der Kundige destillierte die Kamillenblüten",
+      "en": "The herbalist distilled the chamomile blossoms"
+    },
+    "present": {
+      "ar": "يُقَطِّرُ مَاءَ الوَرْدِ بِعِنَايَةٍ",
+      "de": "Er destilliert das Rosenwasser mit Sorgfalt",
+      "en": "He distills the rosewater with care"
+    },
+    "imperative": {
+      "ar": "قَطِّرْ عَلَى مَهَلٍ",
+      "de": "Destilliere mit Geduld!",
+      "en": "Distill unhurriedly!"
+    }
+  }
+}

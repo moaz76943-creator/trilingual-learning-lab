@@ -1,0 +1,33 @@
+{
+  "category_id": "079",
+  "slug": "herbal_distillation_apparatus",
+  "name": {
+    "ar": "أَدَوَاتُ تَقْطِيرِ الزُّهُورِ وَالأَعْشَابِ النُّحَاسِيَّةُ",
+    "de": "Kupfergeräte zur Kräuter- und Blütendestillation",
+    "en": "Copper Floral and Herbal Distillation Implements"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "copper_alembic",
+      "ar": "إِنْبِيقُ التَّقْطِيرِ النُّحَاسِيُّ",
+      "de": "Die kupferne Destillierblase mit Helm",
+      "en": "Hand-hammered copper distillation alembic",
+      "asset_key": "svg_cat079_copper_alembic"
+    },
+    {
+      "id": "spiral_condenser",
+      "ar": "مُكَثِّفُ البُخَارِ الحَلَزُونِيُّ",
+      "de": "Das spiralförmige Kühlrohr",
+      "en": "Spiral copper vapor condenser coil",
+      "asset_key": "svg_cat079_spiral_condenser"
+    },
+    {
+      "id": "separator_flask",
+      "ar": "قَارُورَةُ فَصْلِ الدُّهْنِ العِطْرِيِّ",
+      "de": "Die Florentiner Flasche zur Öltrennung",
+      "en": "Florentine essential oil separator flask",
+      "asset_key": "svg_cat079_separator_flask"
+    }
+  ]
+}
