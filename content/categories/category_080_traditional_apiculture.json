@@ -1,0 +1,33 @@
+{
+  "category_id": "080",
+  "slug": "traditional_apiculture",
+  "name": {
+    "ar": "أَدَوَاتُ تَرْبِيَةِ النَّحْلِ وَخَلَايَا الفَخَّارِ التُّرَاثِيَّةُ",
+    "de": "Traditionelle Imkerei und Tonröhrenbeuten",
+    "en": "Traditional Apiculture and Clay Cylinder Hives"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "clay_hive",
+      "ar": "خَلِيَّةُ الفَخَّارِ الأُسْطُوَانِيَّةُ",
+      "de": "Die zylindrische Tonröhrenbeute",
+      "en": "Cylindrical clay beehive",
+      "asset_key": "svg_cat080_clay_hive"
+    },
+    {
+      "id": "bee_smoker",
+      "ar": "مِدْخَنَةُ النَّحْلِ اليَدَوِيَّةُ",
+      "de": "Der handbetriebene Bienen-Smoker",
+      "en": "Manual bellows bee smoker",
+      "asset_key": "svg_cat080_bee_smoker"
+    },
+    {
+      "id": "comb_tool",
+      "ar": "عَتَلَةُ فَحْصِ الأَقْرَاصِ",
+      "de": "Der Stockmeißel zur Wabenkontrolle",
+      "en": "Comb inspection pry tool",
+      "asset_key": "svg_cat080_comb_tool"
+    }
+  ]
+}

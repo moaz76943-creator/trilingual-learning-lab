@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_146",
+  "lemma_ar": "جَنَى",
+  "root": "ج-ن-ي",
+  "meaning_de": "ernten / Wabenhonig entnehmen",
+  "meaning_en": "to harvest comb honey / gather fruits",
+  "conjugation": {
+    "past": {
+      "ar": "جَنَى المُزَارِعُ أَقْرَاصَ الشَّهْدِ",
+      "de": "Der Landwirt erntete die Honigwaben",
+      "en": "The farmer harvested the honeycombs"
+    },
+    "present": {
+      "ar": "يَجْنِي العَسَلَ الصَّافِيَ فِي مَوْسِمِ السِّدْرِ",
+      "de": "Er erntet reinen Honig während der Sidr-Blüte",
+      "en": "He harvests pure honey during the Sidr season"
+    },
+    "imperative": {
+      "ar": "اجْنِ مَعَ إِبْقَاءِ مَؤُونَةِ الخَلِيَّةِ",
+      "de": "Ernte und belasse dem Volk seine Vorräte!",
+      "en": "Harvest while preserving the hive reserves!"
+    }
+  }
+}

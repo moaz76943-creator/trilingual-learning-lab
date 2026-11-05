@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_075",
+  "title": {
+    "ar": "فَحْصُ خَلَايَا الفَخَّارِ وَتَهْدِئَةُ النَّحْلِ",
+    "de": "Inspektion der Tonröhren-Bienenstöcke",
+    "en": "Inspecting Clay Cylinder Hives and Calming Bees"
+  },
+  "level": "B1",
+  "topic": "traditional_apiculture_and_nature",
+  "lines": [
+    {
+      "speaker": "مُعَاذٌ",
+      "ar": "هَلْ أَشْعَلْتَ نَبَاتَاتِ المَيْرَمِيَّةِ وَالزَّعْتَرِ الجَافِّ دَاخِلَ المِدْخَنَةِ؟",
+      "de": "Hast du getrockneten Salbei und Thymian im Rauchbläser entzündet?",
+      "en": "Did you light dried sage and thyme inside the smoker?"
+    },
+    {
+      "speaker": "سُهَيْلٌ",
+      "ar": "نَعَمْ، دُخَانُهَا بَارِدٌ وَعَطِرٌ يُهَدِّئُ النَّحْلَ دُونَ أَنْ يَضُرَّ بِأَجْنِحَتِهِ.",
+      "de": "Ja, ihr Rauch ist kühl und aromatisch; er beruhigt die Bienen, ohne ihren Flügeln zu schaden.",
+      "en": "Yes, its smoke is cool and aromatic; it calms the bees without harming their wings."
+    },
+    {
+      "speaker": "مُعَاذٌ",
+      "ar": "لِنَفْحَصْ قُرْصَ الشَّمْعِ الأَوَّلَ، وَلَا نَأْخُذْ إِلَّا فَائِضَ العَسَلِ لِنَتْرُكَ كِفَايَتَهُمْ لِلشِّتَاءِ.",
+      "de": "Lasst uns die erste Wabe prüfen und nur den Honigüberschuss entnehmen, damit ihnen genug für den Winter bleibt.",
+      "en": "Let us inspect the first wax comb and take only excess honey so they retain enough for winter."
+    }
+  ]
+}

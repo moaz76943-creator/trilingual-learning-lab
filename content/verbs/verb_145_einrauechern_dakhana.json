@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_145",
+  "lemma_ar": "دَخَّنَ",
+  "root": "د-خ-ن",
+  "meaning_de": "einräuchern / mit Rauch beruhigen",
+  "meaning_en": "to smoke gently / calm bees",
+  "conjugation": {
+    "past": {
+      "ar": "دَخَّنَ النَّحَّالُ عَلَى مَدْخَلِ الخَلِيَّةِ",
+      "de": "Der Imker räucherte den Eingang der Beute ein",
+      "en": "The beekeeper gently smoked the hive entrance"
+    },
+    "present": {
+      "ar": "يُدَخِّنُ بِدُخَانِ المَيْرَمِيَّةِ البَارِدِ",
+      "de": "Er beruhigt sie mit kühlem Salbeirauch",
+      "en": "He calms them with cool sage smoke"
+    },
+    "imperative": {
+      "ar": "دَخِّنْ بِرِفْقٍ دُونَ إِفْرَاطٍ",
+      "de": "Räuchere sanft und maßvoll ein!",
+      "en": "Smoke gently without excess!"
+    }
+  }
+}
