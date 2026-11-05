@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_150",
+  "lemma_ar": "مَلَقَ",
+  "root": "م-ل-ق",
+  "meaning_de": "glätten / mit Kieselstein polieren",
+  "meaning_en": "to smooth / burnish with a pebble",
+  "conjugation": {
+    "past": {
+      "ar": "مَلَقَ الصَّانِعُ الجِيرَ حَتَّى لَمَعَ",
+      "de": "Der Handwerker polierte den Kalk, bis er glänzte",
+      "en": "The artisan burnished the lime until it gleamed"
+    },
+    "present": {
+      "ar": "يَمْلُقُ السَّطْحَ بِحَجَرٍ نَهْرِيٍّ",
+      "de": "Er glättet die Wandung mit einem Flusskiesel",
+      "en": "He burnishes the wall with a river pebble"
+    },
+    "imperative": {
+      "ar": "امْلُقْ بِدَوَائِرَ مُتَدَاخِلَةٍ",
+      "de": "Poliere in überlappenden Kreisen!",
+      "en": "Burnish in overlapping circles!"
+    }
+  }
+}

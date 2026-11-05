@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_149",
+  "lemma_ar": "لَيَّسَ",
+  "root": "ل-ي-س",
+  "meaning_de": "verputzen / mit Mörtel bestreichen",
+  "meaning_en": "to plaster / apply lime mortar",
+  "conjugation": {
+    "past": {
+      "ar": "لَيَّسَ البَنَّاءُ جِدَارَ الفِنَاءِ",
+      "de": "Der Maurer verputzte die Hofmauer",
+      "en": "The mason plastered the courtyard wall"
+    },
+    "present": {
+      "ar": "يُلَيِّسُ السَّطْحَ بِمِلَاطٍ مُتَجَانِسٍ",
+      "de": "Er verputzt die Fläche mit homogenem Mörtel",
+      "en": "He plasters the surface with homogeneous mortar"
+    },
+    "imperative": {
+      "ar": "لَيِّسْ بِانْتِظَامٍ وَثَبَاتٍ",
+      "de": "Verputze gleichmäßig und stetig!",
+      "en": "Plaster evenly and steadily!"
+    }
+  }
+}

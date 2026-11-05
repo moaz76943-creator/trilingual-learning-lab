@@ -1,0 +1,33 @@
+{
+  "category_id": "082",
+  "slug": "traditional_lime_plastering",
+  "name": {
+    "ar": "أَدَوَاتُ مِلَاطِ الجِيرِ وَحِجَارَةِ الصَّقْلِ التُّرَاثِيَّةُ",
+    "de": "Kalkputz- und Tadelakt-Werkzeuge",
+    "en": "Traditional Lime Plaster and Burnishing Tools"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "polishing_pebble",
+      "ar": "حَجَرُ الصَّقْلِ النَّهْرِيُّ الأَمْلَسُ",
+      "de": "Der glatte Flusskiesel zum Polieren",
+      "en": "Smooth river burnishing pebble",
+      "asset_key": "svg_cat082_polishing_pebble"
+    },
+    {
+      "id": "olive_soap_wash",
+      "ar": "صَابُونُ الزَّيْتِ لِعَزْلِ المَاءِ",
+      "de": "Die Olivenölseife zur Abdichtung",
+      "en": "Traditional olive soap waterproofing wash",
+      "asset_key": "svg_cat082_olive_soap_wash"
+    },
+    {
+      "id": "plaster_trowel",
+      "ar": "مَالَجُ الجِيرِ الفُولَاذِيُّ",
+      "de": "Die stählerne Putzkelle für Kalk",
+      "en": "Steel lime plastering trowel",
+      "asset_key": "svg_cat082_plaster_trowel"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_077",
+  "title": {
+    "ar": "صَقْلُ جِدَارِ التَّادْلَاكْتِ بِالجِيرِ وَحَجَرِ النَّهْرِ",
+    "de": "Tadelakt-Glätten mit Kalk und Flusskiesel",
+    "en": "Polishing Tadelakt Lime Plaster with River Stone"
+  },
+  "level": "B1",
+  "topic": "traditional_architecture_and_stonemasonry",
+  "lines": [
+    {
+      "speaker": "إِدْرِيسُ",
+      "ar": "انْتَظِرْ حَتَّى يَشُدَّ الجِيرُ قَلِيلًا قَبْلَ أَنْ تَبْدَأَ بِصَقْلِهِ بِالحَجَرِ البَازِلْتِيِّ الأَمْلَسِ.",
+      "de": "Warte, bis der Kalk leicht anzieht, bevor du beginnst, ihn mit dem glatten Basaltkiesel zu glätten.",
+      "en": "Wait until the lime firms up slightly before you begin burnishing it with the smooth basalt pebble."
+    },
+    {
+      "speaker": "مُنْذِرٌ",
+      "ar": "كَيْفَ نَدْهَنُ مَحْلُولَ صَابُونِ الزَّيْتِ لِيَمْنَعَ تَسَرُّبَ المَاءِ دُونَ سَدِّ مَسَامِّ التَّنَفُّسِ؟",
+      "de": "Wie tragen wir die Olivenölseifenlösung auf, um Wassereintritt zu verhindern, ohne die Poren zu ersticken?",
+      "en": "How do we apply the olive soap wash to prevent water ingress without choking the breathability?"
+    },
+    {
+      "speaker": "إِدْرِيسُ",
+      "ar": "نَفْرُكُ الصَّابُونَ بِحَرَكَاتٍ دَائِرِيَّةٍ هَادِئَةٍ فَيَتَفَاعَلَ الجِيرُ مَعَ الزَّيْتِ مُكَوِّنًا سَطْحًا كَالرُّخَامِ.",
+      "de": "Wir verreiben die Seife in kreisenden Bewegungen; Kalk und Öl reagieren und bilden eine marmorgleiche Schicht.",
+      "en": "We rub the soap in circular strokes; the lime reacts with the oil, yielding a marble-like sheen."
+    }
+  ]
+}
