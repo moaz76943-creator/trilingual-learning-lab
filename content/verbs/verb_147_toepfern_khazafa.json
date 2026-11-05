@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_147",
+  "lemma_ar": "خَزَفَ",
+  "root": "خ-ز-ف",
+  "meaning_de": "töpfern / Tongefäße formen",
+  "meaning_en": "to shape earthenware / turn clay on the wheel",
+  "conjugation": {
+    "past": {
+      "ar": "خَزَفَ الحِرَفِيُّ جَرَّةً عَظِيمَةً",
+      "de": "Der Handwerker töpferte einen großen Krug",
+      "en": "The artisan turned a great earthenware jar"
+    },
+    "present": {
+      "ar": "يَخْزِفُ الآنِيَةَ بِدِقَّةٍ وَإِبْدَاعٍ",
+      "de": "Er töpfert das Gefäß mit Präzision und Kunstfertigkeit",
+      "en": "He turns the vessel with precision and art"
+    },
+    "imperative": {
+      "ar": "اخْزِفْ بِثَبَاتِ اليَدَيْنِ",
+      "de": "Töpfe mit ruhigen Händen!",
+      "en": "Shape the clay with steady hands!"
+    }
+  }
+}

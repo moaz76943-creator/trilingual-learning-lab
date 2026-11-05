@@ -1,0 +1,33 @@
+{
+  "category_id": "081",
+  "slug": "terracotta_water_coolers",
+  "name": {
+    "ar": "أَدَوَاتُ الفَخَّارِ النَّضَّاحِ وَدُولَابِ الخَزَفِ",
+    "de": "Poröse Tongefäße und Töpferscheiben",
+    "en": "Evaporative Terracotta Jars and Potter Wheels"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "cooling_jar",
+      "ar": "الجَرَّةُ النَّضَّاحَةُ المُبَرِّدَةُ",
+      "de": "Der poröse Verdunstungskühlkrug",
+      "en": "Porous evaporative cooling jar",
+      "asset_key": "svg_cat081_cooling_jar"
+    },
+    {
+      "id": "potter_wheel",
+      "ar": "دُولَابُ الخَزَفِيِّ الدَّوَّارُ",
+      "de": "Die fußbetriebene Töpferscheibe",
+      "en": "Potter kick-wheel",
+      "asset_key": "svg_cat081_potter_wheel"
+    },
+    {
+      "id": "shaping_rib",
+      "ar": "مِسْوَاةُ الطِّينِ الخَشَبِيَّةُ",
+      "de": "Die hölzerne Modellierschiene",
+      "en": "Wooden clay shaping rib",
+      "asset_key": "svg_cat081_shaping_rib"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_076",
+  "title": {
+    "ar": "صِنَاعَةُ الجِرَارِ الفَخَّارِيَّةِ النَّضَّاحَةِ لِتَبْرِيدِ المَاءِ",
+    "de": "Formen poröser Tonkrüge zur Verdunstungskühlung",
+    "en": "Shaping Porous Terracotta Jars for Water Cooling"
+  },
+  "level": "B1",
+  "topic": "traditional_pottery_and_natural_physics",
+  "lines": [
+    {
+      "speaker": "حَامِدٌ",
+      "ar": "لِمَاذَا نَمْزِجُ الطِّينَ الأَحْمَرَ بِنِسْبَةٍ قَلِيلَةٍ مِنَ الرَّمْلِ الدَّقِيقِ؟",
+      "de": "Warum mischen wir dem roten Ton einen geringen Anteil feinen Sandes bei?",
+      "en": "Why do we mix the red clay with a small proportion of fine sand?"
+    },
+    {
+      "speaker": "نَاصِرٌ",
+      "ar": "لِنَمْنَحَ جِدَارَ الجَرَّةِ مَسَامَّ دَقِيقَةً تَنْضَحُ المَاءَ بِبُطْءٍ فَيَبْرُدَ الشَّرَابُ بِفِعْلِ التَّبَخُّرِ.",
+      "de": "Um der Wand feine Poren zu verleihen, die Wasser langsam ausschwitzen, sodass es durch Verdunstung abkühlt.",
+      "en": "To give the wall micro-pores that slowly transpire water, naturally chilling the drink through evaporation."
+    },
+    {
+      "speaker": "حَامِدٌ",
+      "ar": "سَأَسْتَعْمِلُ هَذِهِ المِسْوَاةَ الخَشَبِيَّةَ لِتَكُونَ سَمَاكَةُ الجِدَارِ مُتَمَاثِلَةً كُلَّهَا.",
+      "de": "Ich werde diese Holzrippe verwenden, damit die Wandstärke überall vollkommen gleichmäßig wird.",
+      "en": "I will use this wooden rib so that the wall thickness remains completely uniform throughout."
+    }
+  ]
+}
