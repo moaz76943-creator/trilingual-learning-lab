@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_139",
+  "lemma_ar": "جَدَلَ",
+  "root": "ج-د-ل",
+  "meaning_de": "flechten / verflechten",
+  "meaning_en": "to plait / braid / intertwine",
+  "conjugation": {
+    "past": {
+      "ar": "جَدَلَ الحِرَفِيُّ خُوصَ السَّلَّةِ",
+      "de": "Der Handwerker flocht die Palmblätter des Korbes",
+      "en": "The artisan plaited the basket palm fronds"
+    },
+    "present": {
+      "ar": "يَجْدِلُ الشَّرَائِطَ بِإِحْكَامٍ",
+      "de": "Er flicht die Streifen fest zusammen",
+      "en": "He plaits the strips firmly"
+    },
+    "imperative": {
+      "ar": "اجْدِلْ بِانْتِظَامٍ",
+      "de": "Flicht gleichmäßig!",
+      "en": "Plait evenly!"
+    }
+  }
+}

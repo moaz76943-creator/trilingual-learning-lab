@@ -1,0 +1,33 @@
+{
+  "category_id": "077",
+  "slug": "palm_basketry_and_winnowing",
+  "name": {
+    "ar": "أَدَوَاتُ خُوصِ النَّخِيلِ وَالمَنَاسِفِ الرِّيفِيَّةِ",
+    "de": "Palmblattflechterei und ländliche Worfelsiebe",
+    "en": "Palm Frond Basketry and Rural Winnowing Implements"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "palm_basket",
+      "ar": "قُفَّةُ الخُوصِ المَجْدُولَةُ",
+      "de": "Der geflochtene Palmblattkorb",
+      "en": "Plaited palm-leaf basket",
+      "asset_key": "svg_cat077_palm_basket"
+    },
+    {
+      "id": "winnowing_tray",
+      "ar": "مِنْسَفُ الحُبُوبِ التُّرَاثِيُّ",
+      "de": "Das traditionelle Worfelsieb für Getreide",
+      "en": "Traditional grain winnowing tray",
+      "asset_key": "svg_cat077_winnowing_tray"
+    },
+    {
+      "id": "frond_awl",
+      "ar": "مِخْرَزُ حَبْكِ الجَرِيدِ",
+      "de": "Die Ahle zum Binden der Palmrippen",
+      "en": "Palm-rib binding awl",
+      "asset_key": "svg_cat077_frond_awl"
+    }
+  ]
+}

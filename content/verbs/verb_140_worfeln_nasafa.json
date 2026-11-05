@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_140",
+  "lemma_ar": "نَسَفَ",
+  "root": "ن-س-ف",
+  "meaning_de": "worfeln / Getreide im Wind trennen",
+  "meaning_en": "to winnow / sift in the breeze",
+  "conjugation": {
+    "past": {
+      "ar": "نَسَفَ الفَلَّاحُ الحُبُوبَ فِي المِنْسَفِ",
+      "de": "Der Bauer worfelte das Getreide im Sieb",
+      "en": "The farmer winnowed the grain in the tray"
+    },
+    "present": {
+      "ar": "يَنْسِفُ القَمْحَ لِيُزِيلَ العَصِيفَةَ",
+      "de": "Er worfelt den Weizen, um die Spreu abzusondern",
+      "en": "He winnows the wheat to separate the chaff"
+    },
+    "imperative": {
+      "ar": "انْسِفْ مَعَ نَسَمَاتِ الصَّبَاحِ",
+      "de": "Worfle mit der Morgenbrise!",
+      "en": "Winnow with the morning breeze!"
+    }
+  }
+}

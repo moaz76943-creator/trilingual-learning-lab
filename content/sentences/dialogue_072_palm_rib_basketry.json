@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_072",
+  "title": {
+    "ar": "حِيَاكَةُ سِلَالِ الخُوصِ وَمَنَاسِفِ القَمْحِ",
+    "de": "Das Flechten von Palmkörben und Worfelsieben",
+    "en": "Weaving Palm Frond Baskets and Winnowing Trays"
+  },
+  "level": "B1",
+  "topic": "sustainable_agriculture_and_crafts",
+  "lines": [
+    {
+      "speaker": "سَلْمَانُ",
+      "ar": "كُلَّمَا نَقَعْنَا خُوصَ النَّخِيلِ فِي المَاءِ، سَهُلَ جَدْلُهُ دُونَ أَنْ يَتَقَصَّفَ.",
+      "de": "Je länger wir die Palmblätter im Wasser einweichen, desto leichter lassen sie sich flechten, ohne zu brechen.",
+      "en": "The longer we soak the palm fronds in water, the easier they are to plait without snapping."
+    },
+    {
+      "speaker": "عِمْرَانُ",
+      "ar": "كَيْفَ نَضْبِطُ عُمْقَ المِنْسَفِ لِيَسْمَحَ بِتَذْرِيَةِ الحُبُوبِ مَعَ هُبُوبِ الرِّيحِ؟",
+      "de": "Wie bestimmen wir die Tiefe des Worfelsiebs, um das Getreide im Wind optimal zu säubern?",
+      "en": "How do we gauge the depth of the winnowing tray to clean the grain effectively in the breeze?"
+    },
+    {
+      "speaker": "سَلْمَانُ",
+      "ar": "نَجْعَلُ الحَافَةَ مُنْبَسِطَةً قَلِيلًا لِيَنْسِفَ الهَوَاءُ التِّبْنَ وَيَبْقَى الحَبُّ الصَّافِي.",
+      "de": "Wir flachen den Rand leicht ab, damit der Wind die Spreu fortträgt und das reine Korn zurückbleibt.",
+      "en": "We make the rim slightly shallow so the wind winnows away the chaff while pure grain remains."
+    }
+  ]
+}
