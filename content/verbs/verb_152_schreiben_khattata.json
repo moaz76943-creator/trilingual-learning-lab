@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_152",
+  "lemma_ar": "خَطَّطَ",
+  "root": "خ-ط-ط",
+  "meaning_de": "kalligraphieren / zierlich schreiben",
+  "meaning_en": "to inscribe elegant calligraphy",
+  "conjugation": {
+    "past": {
+      "ar": "خَطَّطَ الوَرَّاقُ صَفْحَةَ الدِّيوَانِ",
+      "de": "Der Buchschreiber kalligraphierte die Seite der Schrift",
+      "en": "The scribe inscribed the manuscript page"
+    },
+    "present": {
+      "ar": "يُخَطِّطُ الحُرُوفَ بِتَنَاسُقٍ بَدِيعٍ",
+      "de": "Er kalligraphiert die Buchstaben in vollendeter Harmonie",
+      "en": "He inscribes the letters with exquisite balance"
+    },
+    "imperative": {
+      "ar": "خَطِّطْ بِرَوِيَّةٍ وَإِتْقَانٍ",
+      "de": "Kalligraphiere mit Bedacht und Meisterschaft!",
+      "en": "Inscribe with deliberation and mastery!"
+    }
+  }
+}

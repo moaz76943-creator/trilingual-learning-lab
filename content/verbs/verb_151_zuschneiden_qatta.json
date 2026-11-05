@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_151",
+  "lemma_ar": "قَطَّ",
+  "root": "ق-ط-ط",
+  "meaning_de": "die Rohrfeder zuschneiden / spalten",
+  "meaning_en": "to slit / cut the reed pen nib obliquely",
+  "conjugation": {
+    "past": {
+      "ar": "قَطَّ الخَطَّاطُ رَأْسَ القَصَبَةِ",
+      "de": "Der Kalligraph schnitt die Spitze des Schilfrohrs zu",
+      "en": "The calligrapher slit the reed tip obliquely"
+    },
+    "present": {
+      "ar": "يَقُطُّ القَلَمَ بِمِقَطٍّ أَمْلَسَ",
+      "de": "Er schneidet die Feder auf einer glatten Unterlage zu",
+      "en": "He cuts the nib on a smooth cutting block"
+    },
+    "imperative": {
+      "ar": "قُطَّ بِضَغْطَةٍ حَاسِمَةٍ",
+      "de": "Schneide mit sicherem Druck zu!",
+      "en": "Cut with a decisive, firm stroke!"
+    }
+  }
+}

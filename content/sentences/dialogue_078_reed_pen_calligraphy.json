@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_078",
+  "title": {
+    "ar": "قَطُّ أَقْلَامِ القَصَبِ وَإِعْدَادُ حِبْرِ العَفْصِ",
+    "de": "Das Zuschneiden der Rohrfeder und Bereiten der Gallapfeltinte",
+    "en": "Slitting Reed Pens and Preparing Oak-Gall Ink"
+  },
+  "level": "B1",
+  "topic": "traditional_calligraphy_and_manuscript_arts",
+  "lines": [
+    {
+      "speaker": "زِيَادٌ",
+      "ar": "كَيْفَ تَضْبِطُ مَيَلَانَ قَطَّةِ القَلَمِ لِيَكُونَ خَطُّ الثُّلُثِ وَاضِحَ التَّبَايُنِ؟",
+      "de": "Wie stimmst du die Schräge des Federschnitts ab, damit die Thuluth-Schrift deutliche Kontraste zeigt?",
+      "en": "How do you calibrate the oblique angle of the pen cut so the Thuluth script displays clear contrasts?"
+    },
+    {
+      "speaker": "بَشِيرٌ",
+      "ar": "أَضَعُ القَصَبَةَ عَلَى مِقَطِّ العَاجِ وَأَقْطَعُ الرَّأْسَ بِضَغْطَةٍ سَرِيعَةٍ حَاسِمَةٍ كَيْ لَا يَتَفَتَّتَ.",
+      "de": "Ich lege das Schilfrohr auf die Elfenbein-Schneideplatte und kappe die Spitze mit einem schnellen, entschlossenen Druck.",
+      "en": "I place the reed onto the ivory cutting slab and sever the tip with a swift, decisive press so it does not fray."
+    },
+    {
+      "speaker": "زِيَادٌ",
+      "ar": "وَحِبْرُ العَفْصِ المُعَتَّقُ مَعَ الصَّمْغِ العَرَبِيِّ يَمْنَحُ الحُرُوفَ سَوَادًا ثَابِتًا لَا يَمْحُوهُ الزَّمَانُ.",
+      "de": "Und die mit Gummi arabicum gereifte Gallapfeltinte verleiht den Buchstaben ein tiefes, unvergängliches Schwarz.",
+      "en": "And the oak-gall ink cured with gum arabic imparts to the letters a steadfast blackness that time cannot fade."
+    }
+  ]
+}

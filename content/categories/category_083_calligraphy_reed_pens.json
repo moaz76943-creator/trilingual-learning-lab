@@ -1,0 +1,33 @@
+{
+  "category_id": "083",
+  "slug": "calligraphy_reed_pens",
+  "name": {
+    "ar": "أَدَوَاتُ أَقْلَامِ القَصَبِ وَالمَحَابِرِ التُّرَاثِيَّةُ",
+    "de": "Kalligraphie-Rohrfedern und Tintenfässer",
+    "en": "Calligraphic Reed Pens and Heritage Inkwells"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "reed_pen",
+      "ar": "قَلَمُ القَصَبِ المَقْطُوطُ",
+      "de": "Die zugeschnittene Rohrfeder",
+      "en": "Obliquely slit reed pen",
+      "asset_key": "svg_cat083_reed_pen"
+    },
+    {
+      "id": "nib_cutting_slab",
+      "ar": "مِقَطُّ العَاجِ وَالأَبَنُوسِ",
+      "de": "Die Schneideunterlage für Schreibfedern",
+      "en": "Ivory and ebony nib cutting slab",
+      "asset_key": "svg_cat083_nib_cutting_slab"
+    },
+    {
+      "id": "oak_gall_inkwell",
+      "ar": "مِحْبَرَةُ حِبْرِ العَفْصِ",
+      "de": "Das Tintenfass mit Gallapfeltinte",
+      "en": "Oak-gall soot inkwell with silk wad",
+      "asset_key": "svg_cat083_oak_gall_inkwell"
+    }
+  ]
+}
