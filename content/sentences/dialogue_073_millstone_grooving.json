@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_073",
+  "title": {
+    "ar": "تَحْبِيلُ رَحَى البَازِلْتِ وَإِعْدَادُ الطَّحْنِ",
+    "de": "Das Schärfen des Basalt-Mühlsteins",
+    "en": "Dressing the Basalt Quern for Milling"
+  },
+  "level": "B1",
+  "topic": "traditional_stonemasonry_and_milling",
+  "lines": [
+    {
+      "speaker": "عَبْدُ اللهِ",
+      "ar": "حَانَ وَقْتُ تَحْبِيلِ الرَّحَى؛ فَقَدْ مَلِسَ سَطْحُ الحَجَرِ وَصَارَ يَسْحَقُ الحَبَّ بَدَلَ فَلْقِهِ.",
+      "de": "Es ist Zeit, den Mühlstein nachzuschärfen; seine Oberfläche ist glatt geworden und quetscht das Korn nur noch.",
+      "en": "It is time to redress the quern stone; its surface has grown smooth and now crushes the grain instead of shearing it."
+    },
+    {
+      "speaker": "حَسَنٌ",
+      "ar": "بِأَيِّ زَاوِيَةٍ نَضْرِبُ بِمِنْقَارِ الفُولَاذِ لِنُعِيدَ فَتْحَ مَسَارَاتِ الطَّحِينِ؟",
+      "de": "In welchem Winkel setzen wir den Stahlpickel an, um die Mehlfurchen wieder zu öffnen?",
+      "en": "At what angle do we strike with the steel pick to reopen the flour channels?"
+    },
+    {
+      "speaker": "عَبْدُ اللهِ",
+      "ar": "نَنْقُرُ خُطُوطًا شُعَاعِيَّةً مَائِلَةً بِرِفْقٍ كَيْ يَنْحَدِرَ الدَّقِيقُ الصَّافِي خَالِيًا مِنَ الشَّظَايَا.",
+      "de": "Wir schlagen sanft schräge Radiallinien, damit das reine Mehl splitterfrei nach außen gleitet.",
+      "en": "We gently tap oblique radial furrows so the pure flour sweeps outward free of grit."
+    }
+  ]
+}

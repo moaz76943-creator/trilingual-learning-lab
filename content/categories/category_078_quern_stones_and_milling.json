@@ -1,0 +1,33 @@
+{
+  "category_id": "078",
+  "slug": "quern_stones_and_milling",
+  "name": {
+    "ar": "أَدَوَاتُ رَحَى البَازِلْتِ وَتَحْبِيلِ المَطَاحِنِ",
+    "de": "Basalt-Mühlsteine und Schärfwerkzeuge",
+    "en": "Basalt Querns and Millstone Dressing Tools"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "basalt_quern",
+      "ar": "رَحَى البَازِلْتِ اليَدَوِيَّةُ",
+      "de": "Die Handmühle aus Basaltstein",
+      "en": "Basalt rotary hand quern",
+      "asset_key": "svg_cat078_basalt_quern"
+    },
+    {
+      "id": "grooving_pick",
+      "ar": "مِنْقَارُ تَحْبِيلِ الرَّحَى",
+      "de": "Der Pickel zum Schärfen der Mahlsteine",
+      "en": "Millstone dressing pick",
+      "asset_key": "svg_cat078_grooving_pick"
+    },
+    {
+      "id": "wooden_handle",
+      "ar": "مِقْبَضُ الرَّحَى الخَشَبِيُّ",
+      "de": "Der hölzerne Drehkurbelgriff der Mühle",
+      "en": "Wooden quern turning handle",
+      "asset_key": "svg_cat078_wooden_handle"
+    }
+  ]
+}
