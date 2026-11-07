@@ -1,0 +1,33 @@
+{
+  "category_id": "135",
+  "slug": "lusterware_and_reduction_kilns",
+  "name": {
+    "ar": "أَدَوَاتُ خَزَفِ البَرِيقِ المَعْدِنِيِّ وَأَكَاسِيدِ التَّلْوِينِ التُّرَاثِيَّةُ",
+    "de": "Lüsterkeramik-Werkzeuge, Metalloxide und Reduktionsbrennöfen",
+    "en": "Lusterware Ceramic Tools, Metal Oxides and Reduction Kilns"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "silver_copper_pigment",
+      "ar": "مَسْحُوقُ أَكَاسِيدِ الفِضَّةِ وَالنُّحَاسِ",
+      "de": "Das gemahlene Silber- und Kupferoxid-Farbpigment",
+      "en": "Ground silver and copper metallic luster pigment",
+      "asset_key": "svg_cat135_silver_copper_pigment"
+    },
+    {
+      "id": "luster_fine_brush",
+      "ar": "رِيشَةُ الخَزَّافِ الدَّقِيقَةُ لِلزَّخْرَفَةِ",
+      "de": "Der feine Marderhaarpinsel für Keramikmuster",
+      "en": "Fine hair detail ceramic painting brush",
+      "asset_key": "svg_cat135_luster_fine_brush"
+    },
+    {
+      "id": "tin_glazed_luster_bowl",
+      "ar": "قَصْعَةُ الخَزَفِ ذَاتُ البَرِيقِ الذَّهَبِيِّ",
+      "de": "Die zinnglasierte Schale mit goldenem Lüsterglanz",
+      "en": "Tin-glazed golden metallic lusterware bowl",
+      "asset_key": "svg_cat135_tin_glazed_luster_bowl"
+    }
+  ]
+}

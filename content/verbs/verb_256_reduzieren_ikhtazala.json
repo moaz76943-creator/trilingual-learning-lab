@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_256",
+  "lemma_ar": "اخْتَزَلَ",
+  "root": "خ-ز-ل",
+  "meaning_de": "reduzierend brennen / Sauerstoff entziehen",
+  "meaning_en": "to reduce in kiln / starve kiln atmosphere of oxygen",
+  "conjugation": {
+    "past": {
+      "ar": "اخْتَزَلَ الصَّانِعُ هَوَاءَ الحَرْقِ عِنْدَ القِمَّةِ",
+      "de": "Der Handwerker drosselte die Luftzufuhr auf dem Brennhöhepunkt",
+      "en": "The artisan reduced the kiln airflow at peak heat"
+    },
+    "present": {
+      "ar": "يَخْتَزِلُ الأَكَاسِيدَ لِتَتَحَوَّلَ إِلَى صَفِيحَةٍ بَرَّاقَةٍ",
+      "de": "Er reduziert die Oxide zur glänzenden Metallhaut",
+      "en": "He reduces the oxides to form a gleaming metallic film"
+    },
+    "imperative": {
+      "ar": "اخْتَزِلْ بِحَذَرٍ يَحْفَظُ سَلَامَةَ الطِّلَاءِ",
+      "de": "Reduziere behutsam zum Schutze der Glasur!",
+      "en": "Reduce carefully to preserve the glaze integrity!"
+    }
+  }
+}

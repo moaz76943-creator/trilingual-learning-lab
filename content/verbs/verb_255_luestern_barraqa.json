@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_255",
+  "lemma_ar": "بَرَّقَ",
+  "root": "ب-ر-ق",
+  "meaning_de": "mit Lüsterglanz versehen / zum Schimmern bringen",
+  "meaning_en": "to luster glaze / impart golden metallic sheen to pottery",
+  "conjugation": {
+    "past": {
+      "ar": "بَرَّقَ الخَزَّافُ جِدَارَ الإِبْرِيقِ فِي الأَتُونِ",
+      "de": "Der Töpfer verlieh der Kannenwand im Ofen Lüsterglanz",
+      "en": "The potter imparted luster to the pitcher wall in the kiln"
+    },
+    "present": {
+      "ar": "يُبَرِّقُ الآنِيَةَ بِدُخَانِ حَطَبِ الزَّيْتُونِ",
+      "de": "Er lüstert das Gefäß mit Olivenholzrauch",
+      "en": "He lusters the vessel through dense olive wood smoke"
+    },
+    "imperative": {
+      "ar": "بَرِّقْ بِنَارٍ مُخْتَزِلَةٍ مُحْكَمَةِ الإِغْلَاقِ",
+      "de": "Lüstere mit dichter, reduzierender Ofenglut!",
+      "en": "Luster with sealed, dense reducing kiln flame!"
+    }
+  }
+}

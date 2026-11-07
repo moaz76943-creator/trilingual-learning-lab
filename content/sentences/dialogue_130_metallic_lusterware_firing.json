@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_130",
+  "title": {
+    "ar": "طِلَاءُ خَزَفِ البَرِيقِ المَعْدِنِيِّ وَضَبْطُ حَرْقِ الِاخْتِزَالِ",
+    "de": "Bemalen von Lüsterkeramik und Steuerung des Reduktionsbrandes",
+    "en": "Painting Metallic Lusterware and Controlling Reduction Firing"
+  },
+  "level": "B1",
+  "topic": "traditional_lusterware_and_ceramic_chemistry",
+  "lines": [
+    {
+      "speaker": "المُعَلِّمُ مَيْمُونٌ",
+      "ar": "كَيْفَ نَمْزِجُ أَكَاسِيدَ الفِضَّةِ المَسْحُوقَةِ مَعَ خَلِّ التَّمْرِ لِنَرْسُمَ فَوْقَ الطِّلَاءِ الأَبْيَضِ؟",
+      "de": "Wie mischen wir gemahlenes Silberoxid mit Dattelessig, um auf die weiße Glasur zu malen?",
+      "en": "How do we grind silver oxides with date vinegar to paint over the white tin glaze?"
+    },
+    {
+      "speaker": "الصَّبِيُّ شُعَيْبٌ",
+      "ar": "نَسْحَقُهَا بِالمِدَقَّةِ حَتَّى تَغْدُوَ كَالكَحْلِ، ثُمَّ نُغْلِقُ فُوَّهَةَ الأَتُونِ بِحَطَبِ الزَّيْتُونِ الرَّطْبِ لِيَعُمَّ الدُّخَانُ.",
+      "de": "Wir zerreiben sie feinst wie Augenschwärze und heizen mit feuchtem Olivenholz, damit dichter Rauch entsteht.",
+      "en": "We grind it as fine as kohl, then seal the kiln with damp olive wood so thick smoke envelops the pots."
+    },
+    {
+      "speaker": "المُعَلِّمُ مَيْمُونٌ",
+      "ar": "فَيَخْرُجُ الخَزَفُ يَبْرُقُ كَالذَّهَبِ الإِبْرِيزِ، شَاهِدًا عَلَى كَرَامَةِ الصَّنْعَةِ الَّتِي تُغْنِي عَنِ اسْتِعْمَالِ مَعَادِنِ التَّرَفِ.",
+      "de": "So glänzt die Keramik wie Feingold – ein edles Zeugnis des Handwerks, das kostbare Metalle entbehrlich macht.",
+      "en": "Thus the pottery emerges gleaming like pure gold, honoring a noble craft that replaces luxurious metalware."
+    }
+  ]
+}
