@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="gridBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fff8e1"/>
+      <stop offset="100%" stop-color="#ffecb3"/>
+    </linearGradient>
+  </defs>
+  <!-- Background Disk -->
+  <circle cx="100" cy="100" r="85" fill="url(#gridBg)" stroke="#5d4037" stroke-width="3"/>
+  <!-- Inclined Ecliptic Grid (Rotated 23.5 degrees) in Crimson -->
+  <g transform="rotate(23.5 100 100)">
+    <line x1="15" y1="100" x2="185" y2="100" stroke="#c62828" stroke-width="2"/>
+    <line x1="100" y1="15" x2="100" y2="185" stroke="#c62828" stroke-width="2"/>
+    <path d="M 25,75 A 85,85 0 0,1 175,75" fill="none" stroke="#e57373" stroke-width="1" stroke-dasharray="3,2"/>
+    <path d="M 25,125 A 85,85 0 0,0 175,125" fill="none" stroke="#e57373" stroke-width="1" stroke-dasharray="3,2"/>
+  </g>
+  <!-- Equatorial Grid in Navy Blue -->
+  <line x1="15" y1="100" x2="185" y2="100" stroke="#1565c0" stroke-width="2"/>
+  <line x1="100" y1="15" x2="100" y2="185" stroke="#1565c0" stroke-width="2"/>
+  <path d="M 25,75 A 85,85 0 0,1 175,75" fill="none" stroke="#64b5f6" stroke-width="1" stroke-dasharray="3,2"/>
+  <path d="M 25,125 A 85,85 0 0,0 175,125" fill="none" stroke="#64b5f6" stroke-width="1" stroke-dasharray="3,2"/>
+  <!-- Coordinate Legend Inscription -->
+  <text x="100" y="45" font-family="serif" font-size="10" font-weight="bold" fill="#1565c0" text-anchor="middle">مَعَدِّلُ النَّهَارِ</text>
+  <text x="100" y="165" font-family="serif" font-size="10" font-weight="bold" fill="#c62828" text-anchor="middle">مَنْطَقَةُ البُرُوجِ</text>
+</svg>

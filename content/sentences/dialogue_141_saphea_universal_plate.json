@@ -1,0 +1,65 @@
+{
+  "dialogue_id": "dialogue_141_saphea_universal_plate",
+  "title": {
+    "ar": "نَقْشُ الصَّفِيحَةِ الزَّرْقَالِيَّةِ الشَّامِلَةِ لِجَمِيعِ العُرُوضِ",
+    "de": "Das Gravieren der universellen Saphea-Platte von az-Zarqali für alle Breitengrade",
+    "en": "Engraving al-Zarqali’s Universal Saphea Plate for All Latitudes"
+  },
+  "context": {
+    "ar": "حِوَارٌ فِي طُلَيْطِلَةَ بَيْنَ أَبِي إِسْحَاقَ الزَّرْقَالِيِّ وَتِلْمِيذِهِ حَوْلَ رَسْمِ شَبَكَةِ الإِحْدَاثِيَّاتِ المُزْدَوِجَةِ الَّتِي تُغْنِي عَنْ جَمِيعِ صَفَائِحِ الأَسْطُرْلابِ التَّقْلِيدِيَّةِ.",
+    "de": "Ein Fachgespräch in Toledo zwischen Abu Ishaq az-Zarqali und seinem Schüler über das Aufzeichnen des dualen Koordinatennetzes, das alle herkömmlichen Astrolabien-Platten ersetzt.",
+    "en": "A dialogue in Toledo between Abu Ishaq al-Zarqali and his pupil on scribing the dual coordinate grid that supersedes all conventional astrolabe plates."
+  },
+  "turns": [
+    {
+      "speaker": {
+        "ar": "الشَّيْخُ أَبُو إِسْحَاقَ الزَّرْقَالِيُّ",
+        "de": "Scheich Abu Ishaq az-Zarqali",
+        "en": "Sheikh Abu Ishaq al-Zarqali"
+      },
+      "ar": "لَقَدْ أَسْقَطْتُ دَوَائِرَ الفَلَكِ مِنْ نُقْطَةِ الاِعْتِدَالِ، فَلَمْ تَعُدْ هَذِهِ الصَّفِيحَةُ حَبِيسَةَ عَرْضٍ جُغْرَافِيٍّ وَاحِدٍ.",
+      "de": "Ich habe die Himmelskreise vom Frühlingspunkt aus projiziert; somit ist diese Platte nicht mehr an einen einzigen Breitengrad gebunden.",
+      "en": "I projected the celestial circles from the equinox point; thus this plate is no longer confined to a single geographic latitude."
+    },
+    {
+      "speaker": {
+        "ar": "التِّلْمِيذُ إِبْرَاهِيمُ",
+        "de": "Schüler Ibrahim",
+        "en": "Student Ibrahim"
+      },
+      "ar": "أَرَى شَبَكَتَيْنِ مُتَدَاخِلَتَيْنِ: إِحْدَاهُمَا لِمَعَدِّلِ النَّهَارِ وَالأُخْرَى لِمَنْطَقَةِ البُرُوجِ، فَمَا الحِكْمَةُ مِنْ ذَلِكَ؟",
+      "de": "Ich sehe zwei ineinandergreifende Netze: eines für den Äquator und eines für die Ekliptik. Welcher Sinn liegt darin?",
+      "en": "I observe two intersecting coordinate grids: one for the celestial equator and another for the ecliptic. What is the wisdom behind this?"
+    },
+    {
+      "speaker": {
+        "ar": "الزَّرْقَالِيُّ",
+        "de": "Az-Zarqali",
+        "en": "Al-Zarqali"
+      },
+      "ar": "تُمَكِّنُ الرَّاصِدَ مِنْ تَحْوِيلِ الإِحْدَاثِيَّاتِ البُرُوجِيَّةِ إِلَى اسْتِوَائِيَّةٍ بِمُجَرَّدِ مَدِّ الخَيْطِ المُرَقَّمِ دُونَ أَيِّ جَدَاوِلَ حِسَابِيَّةٍ.",
+      "de": "Sie gestatten dem Beobachter, ekliptikale Koordinaten durch bloßes Anlegen des skalierten Fadens ohne Rechentabellen in äquatoriale umzurechnen.",
+      "en": "They enable the observer to convert ecliptic coordinates to equatorial ones merely by laying the graduated cord, without any mathematical tables."
+    },
+    {
+      "speaker": {
+        "ar": "إِبْرَاهِيمُ",
+        "de": "Ibrahim",
+        "en": "Ibrahim"
+      },
+      "ar": "هَذَا فَتْحٌ عَظِيمٌ لِرُوَّادِ البِحَارِ وَقَوَافِلِ التِّجَارَةِ فِي أَقَاصِي الأَرْضِ!",
+      "de": "Dies ist ein gewaltiger Durchbruch für Seefahrer und Handelskarawanen an den fernsten Enden der Erde!",
+      "en": "This is a monumental breakthrough for seafarers and trade caravans across the farthest ends of the Earth!"
+    },
+    {
+      "speaker": {
+        "ar": "الزَّرْقَالِيُّ",
+        "de": "Az-Zarqali",
+        "en": "Al-Zarqali"
+      },
+      "ar": "العِلْمُ النَّافِعُ هُوَ مَا يَسَّرَ حَيَاةَ الخَلْقِ، وَرَفَعَ عَنْهُمْ مَشَقَّةَ الحَمْلِ، وَقَرَّبَ لَهُمْ دُرُوبَ السَّلامَةِ.",
+      "de": "Wahrhaft nützliches Wissen ist jenes, das den Menschen das Leben erleichtert, ihnen Lasten abnimmt und sichere Pfade weist.",
+      "en": "Truly beneficial knowledge is that which eases people's lives, relieves their burdens, and illuminates safe paths for them."
+    }
+  ]
+}

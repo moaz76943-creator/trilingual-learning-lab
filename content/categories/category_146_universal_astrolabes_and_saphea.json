@@ -1,0 +1,52 @@
+{
+  "category_id": "category_146_universal_astrolabes_and_saphea",
+  "title": {
+    "ar": "الصَّفَائِحُ الزَّرْقَالِيَّةُ وَالأَسْطُرْلابَاتُ الشَّامِلَةُ",
+    "de": "Universelle Saphea-Platten und allumfassende Astrolabien",
+    "en": "Universal Saphea Plates and Universal Astrolabes"
+  },
+  "level": "B1",
+  "description": {
+    "ar": "مُصْطَلَحَاتُ الصَّفِيحَةِ الزَّرْقَالِيَّةِ الشَّامِلَةِ، وَشَبَكَاتِ التَّسْطِيحِ العُمُومِيَّةِ، وَأَدَوَاتِ التَّحْوِيلِ الإِحْدَاثِيِّ البَصَرِيِّ فِي الأَنْدَلُسِ.",
+    "de": "Fachbegriffe zur universellen Saphea-Platte von az-Zarqali, allumfassenden Projektionsnetzen und visuellen Koordinatentransformationen im klassischen Andalusien.",
+    "en": "Terminology of al-Zarqali's universal Saphea plate, universal coordinate projection grids, and visual coordinate transformation in classical Andalusia."
+  },
+  "vocabulary": [
+    {
+      "id": "term_146_01",
+      "ar": "الصَّفِيحَةُ الزَّرْقَالِيَّةُ الشَّامِلَةُ",
+      "de": "die universelle Saphea-Platte (Saphaea Arzachelis)",
+      "en": "universal Saphea Arzachelis plate",
+      "phonetic_ar": "aṣ-ṣafīḥatu az-zarqāliyyatu ash-shāmilah",
+      "example": {
+        "ar": "تَعْمَلُ الصَّفِيحَةُ الزَّرْقَالِيَّةُ الشَّامِلَةُ عِنْدَ خَطِّ الاسْتِوَاءِ كَمَا تَعْمَلُ فِي طُلَيْطِلَةَ أَوِ القُسْطَنْطِينِيَّةِ.",
+        "de": "Die universelle Saphea-Platte funktioniert am Äquator genauso präzise wie in Toledo oder Konstantinopel.",
+        "en": "The universal Saphea plate functions as precisely at the equator as it does in Toledo or Constantinople."
+      }
+    },
+    {
+      "id": "term_146_02",
+      "ar": "شَبَكَةُ الإِحْدَاثِيَّاتِ الشَّامِلَةُ",
+      "de": "das universelle Koordinatennetz",
+      "en": "universal coordinate projection grid",
+      "phonetic_ar": "shabakatu al-'iḥdāthiyyāti ash-shāmilah",
+      "example": {
+        "ar": "تَتَقَاطَعُ فِي شَبَكَةِ الإِحْدَاثِيَّاتِ الشَّامِلَةِ دَوَائِرُ المَيْلِ مَعَ دَوَائِرِ العَرْضِ السَّمَاوِيِّ بِتَنَاغُمٍ مُبْهِرٍ.",
+        "de": "Auf dem universellen Koordinatennetz schneiden sich Deklinations- und ekliptikale Breitenkreise in bestechender Harmonie.",
+        "en": "On the universal coordinate grid, circles of declination and celestial latitude intersect in stunning harmony."
+      }
+    },
+    {
+      "id": "term_146_03",
+      "ar": "الخَيْطُ المُرَقَّمُ بِمِقْيَاسِ الأَجْزَاءِ",
+      "de": "der skalierte Messfaden (der Kursor)",
+      "en": "graduated cursor cord",
+      "phonetic_ar": "al-khayṭu al-muraqqamu bi-miqyāsi al-'ajzā'",
+      "example": {
+        "ar": "يَمُدُّ الفَلَكِيُّ الخَيْطَ المُرَقَّمَ بِمِقْيَاسِ الأَجْزَاءِ لِتَحْدِيدِ بُعْدِ الكَوْكَبِ فِي لَمْحِ البَصَرِ.",
+        "de": "Der Astronom spannt den skalierten Messfaden, um die Koordinaten des Gestirns im Handumdrehen zu bestimmen.",
+        "en": "The astronomer stretches the graduated cursor cord to determine the planet's coordinates in the blink of an eye."
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <radialGradient id="cordBead" cx="40%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#ff8a80"/>
+      <stop offset="40%" stop-color="#d50000"/>
+      <stop offset="100%" stop-color="#4a0007"/>
+    </radialGradient>
+  </defs>
+  <!-- Background Brass Plate Quadrant Sector -->
+  <path d="M 20,20 L 175,20 A 155,155 0 0,1 20,175 Z" fill="#fffde7" stroke="#b78103" stroke-width="3"/>
+  <path d="M 20,20 L 160,20 A 140,140 0 0,1 20,160 Z" fill="none" stroke="#d4af37" stroke-width="1.5" stroke-dasharray="4,4"/>
+  <!-- Pivoting Silk Cord Anchored at (20,20) -->
+  <line x1="20" y1="20" x2="145" y2="125" stroke="#b71c1c" stroke-width="2.5"/>
+  <!-- Knotted Graduated Metric Beads on the Cord -->
+  <circle cx="45" cy="41" r="3.5" fill="url(#cordBead)"/>
+  <circle cx="70" cy="62" r="3.5" fill="url(#cordBead)"/>
+  <circle cx="95" cy="83" r="3.5" fill="url(#cordBead)"/>
+  <circle cx="120" cy="104" r="3.5" fill="url(#cordBead)"/>
+  <!-- Sliding Brass Cursor (Bead Pointer) at current coordinate -->
+  <rect x="91" y="79" width="8" height="8" rx="1" fill="#ffd54f" stroke="#3e2723" stroke-width="1.5" transform="rotate(40 95 83)"/>
+  <!-- Anchor Ring at Center -->
+  <circle cx="20" cy="20" r="7" fill="#ffd54f" stroke="#3e2723" stroke-width="2"/>
+  <circle cx="20" cy="20" r="3" fill="#3e2723"/>
+</svg>

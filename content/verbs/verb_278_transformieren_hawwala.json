@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_278_transformieren_hawwala",
+  "root": "ح - و - ل",
+  "trilingual": {
+    "ar": {
+      "infinitive": "تَحْوِيلٌ",
+      "past": "حَوَّلَ",
+      "present": "يُحَوِّلُ",
+      "imperative": "حَوِّلْ",
+      "meaning": "نَقَلَ المَوْقِعَ مِنْ نِظَامِ إِحْدَاثِيَّاتٍ إِلَى نِظَامٍ آخَرَ بِمَيْزَانٍ هَنْدَسِيٍّ"
+    },
+    "de": {
+      "infinitive": "transformieren / umwandeln",
+      "past": "transformierte",
+      "present": "transformiert",
+      "perfect": "hat transformiert",
+      "meaning": "Himmelskoordinaten von einem System in ein anderes geometrisch umrechnen"
+    },
+    "en": {
+      "infinitive": "to transform / convert coordinates",
+      "past": "transformed",
+      "present": "transforms",
+      "participle": "transformed",
+      "meaning": "to transform coordinates between equatorial and ecliptic systems via geometric alignment"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يُحَوِّلُ الفَلَكِيُّ مَطَالِعَ الكَوَاكِبِ إِلَى إِحْدَاثِيَّاتِ البُرُوجِ بِيُسْرٍ.",
+      "de": "Der Astronom transformiert die Rektaszensionen mühelos in ekliptikale Koordinaten.",
+      "en": "The astronomer transforms the right ascensions into ecliptic coordinates with ease."
+    },
+    {
+      "tense": "past",
+      "ar": "حَوَّلَ المُرَتِّبُ مَوْقِعَ الهِلاَلِ لِيَتَبَيَّنَ إِمْكَانِيَّةَ الرُّؤْيَةِ عِنْدَ الغُرُوبِ.",
+      "de": "Der Zeitmesser wandelte die Neumondposition um, um die Sichtbarkeit bei Sonnenuntergang zu prüfen.",
+      "en": "The timekeeper transformed the crescent coordinates to assess visibility at sunset."
+    }
+  ]
+}

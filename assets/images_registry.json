@@ -256,5 +256,20 @@
   "svg_cat140_transparent_glaze_vat": "assets/svg/svg_cat140_transparent_glaze_vat.svg",
   "svg_cat141_gridiron_pendulum_frame": "assets/svg/svg_cat141_gridiron_pendulum_frame.svg",
   "svg_cat141_lens_bob_micrometer": "assets/svg/svg_cat141_lens_bob_micrometer.svg",
-  "svg_cat141_deadbeat_anchor_pallet": "assets/svg/svg_cat141_deadbeat_anchor_pallet.svg"
+  "svg_cat141_deadbeat_anchor_pallet": "assets/svg/svg_cat141_deadbeat_anchor_pallet.svg",
+  "cat_146_saphea_plate": {
+    "path": "assets/images/categories/cat_146_saphea_plate.svg",
+    "category": "category_146_universal_astrolabes_and_saphea",
+    "description": "Al-Zarqali's universal Saphea plate with all-latitude stereographic projection"
+  },
+  "cat_146_universal_grid": {
+    "path": "assets/images/categories/cat_146_universal_grid.svg",
+    "category": "category_146_universal_astrolabes_and_saphea",
+    "description": "Dual equatorial and ecliptic coordinate net overlay on universal plate"
+  },
+  "cat_146_graduated_cursor": {
+    "path": "assets/images/categories/cat_146_graduated_cursor.svg",
+    "category": "category_146_universal_astrolabes_and_saphea",
+    "description": "Graduated silk cursor cord with sliding marker on universal astrolabe"
+  }
 }

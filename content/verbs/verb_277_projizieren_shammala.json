@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_277_projizieren_shammala",
+  "root": "ش - م - ل",
+  "trilingual": {
+    "ar": {
+      "infinitive": "تَشْمِيلٌ",
+      "past": "شَمَّلَ",
+      "present": "يُشَمِّلُ",
+      "imperative": "شَمِّلْ",
+      "meaning": "جَعَلَ الآلَةَ أَوِ الإِسْقَاطَ صَالِحًا لِكُلِّ الأَقَالِيمِ وَالعُرُوضِ"
+    },
+    "de": {
+      "infinitive": "universell projizieren / verallgemeinern",
+      "past": "projizierte universell",
+      "present": "projiziert universell",
+      "perfect": "hat universell projiziert",
+      "meaning": "ein astronomisches Instrument für alle Breitengrade universell nutzbar machen"
+    },
+    "en": {
+      "infinitive": "to project universally",
+      "past": "projected universally",
+      "present": "projects universally",
+      "participle": "projected universally",
+      "meaning": "to design or project an instrument universally applicable to all terrestrial latitudes"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يُشَمِّلُ العَالِمُ صَفِيحَتَهُ لِتَخْدِمَ الرَّحَّالَةَ فِي الشَّمَالِ وَالجَنُوبِ.",
+      "de": "Der Gelehrte projiziert seine Platte universell, damit sie Reisenden im Norden wie im Süden dient.",
+      "en": "The scholar projects his plate universally to serve travelers in the north and the south."
+    },
+    {
+      "tense": "past",
+      "ar": "شَمَّلَ الزَّرْقَالِيُّ حِسَابَ الأَسْطُرْلابِ فَرَاحَتْ عَنْهُ كُلْفَةُ الصَّفَائِحِ الكَثِيرَةِ.",
+      "de": "Az-Zarqali verallgemeinerte die Astrolabien-Berechnung und erlöste sie von der Last vieler Platten.",
+      "en": "Al-Zarqali projected the astrolabe calculations universally, eliminating the burden of multiple plates."
+    }
+  ]
+}
