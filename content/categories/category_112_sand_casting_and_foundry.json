@@ -1,0 +1,33 @@
+{
+  "category_id": "112",
+  "slug": "sand_casting_and_foundry",
+  "name": {
+    "ar": "أَدَوَاتُ سِبَاكَةِ الرَّمْلِ وَبَوَاتِقِ الصَّهْرِ التُّرَاثِيَّةُ",
+    "de": "Sandguss-Werkzeuge und traditionelle Schmelztiegel",
+    "en": "Sand Casting Molds, Crucibles and Foundry Tools"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "refractory_crucible",
+      "ar": "بُوتَقَةُ الصَّهْرِ الغِرَافِيتِيَّةُ",
+      "de": "Der feuerfeste Graphitschmelztiegel",
+      "en": "Graphite refractory smelting crucible",
+      "asset_key": "svg_cat112_refractory_crucible"
+    },
+    {
+      "id": "casting_flask_frame",
+      "ar": "إِطَارُ قَالَبِ الرَّمْلِ الخَشَبِيُّ",
+      "de": "Der hölzerne Sandguss-Formkasten",
+      "en": "Wooden sand-casting molding flask frame",
+      "asset_key": "svg_cat112_casting_flask_frame"
+    },
+    {
+      "id": "tamping_rammer",
+      "ar": "مِدَكُّ الرَّمْلِ الحَدِيدِيُّ",
+      "de": "Der eiserne Sandstampfer",
+      "en": "Forged iron foundry sand rammer",
+      "asset_key": "svg_cat112_tamping_rammer"
+    }
+  ]
+}

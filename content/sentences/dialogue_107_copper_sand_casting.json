@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_107",
+  "title": {
+    "ar": "صَبُّ النُّحَاسِ الأَحْمَرِ فِي قَوَالِبِ الرَّمْلِ المَسْبُوكَةِ",
+    "de": "Gießen von Rotkupfer in geformte Sandgussformen",
+    "en": "Casting Red Copper into Compacted Sand Molds"
+  },
+  "level": "B1",
+  "topic": "traditional_metallurgy_and_sand_casting",
+  "lines": [
+    {
+      "speaker": "الصَّبَّابُ عِمْرَانُ",
+      "ar": "كَيْفَ نَدُكُّ رَمْلَ السِّيلِيكَا حَوْلَ النَّمُوذَجِ الخَشَبِيِّ لِيَنْطَبِعَ الشَّكْلُ بِلَا عَيْبٍ؟",
+      "de": "Wie stampfen wir den Quarzsand um das Holzmodell, damit sich die Form makellos abdrückt?",
+      "en": "How do we ram the silica sand around the wooden pattern so the form imprints without flaw?"
+    },
+    {
+      "speaker": "المُسَاعِدُ هِشَامٌ",
+      "ar": "نَمْزِجُ الرَّمْلَ بِقَلِيلٍ مِنَ الطِّينِ الغَرَوِيِّ، ثُمَّ نَدُكُّهُ بِالمِدَقَّةِ لِيَحْبِسَ شَكْلَ الإِبْرِيقِ بِدِقَّةٍ.",
+      "de": "Wir mischen den Sand mit etwas Bindeton und stampfen ihn fest, um die Kannenform exakt zu binden.",
+      "en": "We blend the sand with colloidal binder clay, then tamp it firmly to lock the flagon shape exactly."
+    },
+    {
+      "speaker": "الصَّبَّابُ عِمْرَانُ",
+      "ar": "احْمِلْ مِلْقَطَ البُوتَقَةِ بِثَبَاتٍ؛ سَنَصُبُّ المَعْدِنَ المُنْصَهِرَ فِي فُوَّهَةِ القَالَبِ بِانْسِيَابٍ مُتَّصِلٍ.",
+      "de": "Halte die Tiegelzange ruhig; wir gießen das flüssige Metall in einem steten Strahl in den Einguss.",
+      "en": "Grip the crucible tongs steadily; we shall pour the molten metal into the sprue in an unbroken stream."
+    }
+  ]
+}

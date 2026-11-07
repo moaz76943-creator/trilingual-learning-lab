@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_209",
+  "lemma_ar": "دَكَّ",
+  "root": "د-ك-ك",
+  "meaning_de": "stampfen / Formsand verdichten",
+  "meaning_en": "to tamp / ram foundry sand tightly around pattern",
+  "conjugation": {
+    "past": {
+      "ar": "دَكَّ الصَّانِعُ الرَّمْلَ حَوْلَ قَالَبِ النُّحَاسِ",
+      "de": "Der Handwerker stampfte den Sand um das Kupfermodell",
+      "en": "The artisan tamped the sand around the copper pattern"
+    },
+    "present": {
+      "ar": "يَدُكُّ الإِطَارَ لِيَتَمَاسَكَ دُونَ فَرَاغَاتٍ",
+      "de": "Er verdichtet den Kasten, damit er hohlraumfrei bindet",
+      "en": "He tamps the flask so it binds without voids"
+    },
+    "imperative": {
+      "ar": "دُكَّ بِتَوَازُنٍ يَحْفَظُ تَفَاصِيلَ النَّقْشِ",
+      "de": "Stampfe gleichmäßig, um die feinen Konturen zu wahren!",
+      "en": "Tamp evenly to preserve fine ornamental relief!"
+    }
+  }
+}

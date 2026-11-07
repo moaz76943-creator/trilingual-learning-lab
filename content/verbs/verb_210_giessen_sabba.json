@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_210",
+  "lemma_ar": "صَبَّ",
+  "root": "ص-ب-ب",
+  "meaning_de": "gießen / geschmolzenes Metall einfüllen",
+  "meaning_en": "to pour / cast molten metal into the mold",
+  "conjugation": {
+    "past": {
+      "ar": "صَبَّ المُسَبِّكُ النُّحَاسَ المُنْصَهِرَ فِي الفُوَّهَةِ",
+      "de": "Der Gießer goss das flüssige Kupfer in den Einguss",
+      "en": "The founder poured the molten copper into the sprue"
+    },
+    "present": {
+      "ar": "يَصُبُّ المَعْدِنَ بِتَدَفُّقٍ مُتَّصِلٍ هَادِئٍ",
+      "de": "Er gießt das Metall in stetem, ruhigem Strahl",
+      "en": "He pours the metal in a calm, continuous stream"
+    },
+    "imperative": {
+      "ar": "صُبَّ بِحَذَرٍ يَصُونُ الجَسَدَ وَالقَالَبَ",
+      "de": "Gieße mit Bedacht zum Schutz von Leib und Form!",
+      "en": "Pour with caution safeguarding both body and mold!"
+    }
+  }
+}
