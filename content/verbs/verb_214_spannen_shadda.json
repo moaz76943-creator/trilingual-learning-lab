@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_214",
+  "lemma_ar": "شَدَّ",
+  "root": "ش-د-د",
+  "meaning_de": "zusammenziehen / mit Zwingen festklemmen",
+  "meaning_en": "to clamp / pull tight with joinery bar clamps",
+  "conjugation": {
+    "past": {
+      "ar": "شَدَّ الصَّانِعُ قِمَاطَ الخَشَبِ بِالمَلْزَمَةِ",
+      "de": "Der Handwerker zog die Zwingen des Holzes an",
+      "en": "The artisan clamped the timber pieces with the vise"
+    },
+    "present": {
+      "ar": "يَشُدُّ الأَلْوَاحَ لِتَلْتَصِقَ بِلَا فُرْجَةٍ",
+      "de": "Er spannt die Bretter, damit sie fugenlos binden",
+      "en": "He clamps the boards so they adhere without gaps"
+    },
+    "imperative": {
+      "ar": "شُدَّ بِتَوَازُنٍ دُونَ كَسْرِ الأَطْرَافِ",
+      "de": "Spanne mit Bedacht, ohne die Ränder zu quetschen!",
+      "en": "Clamp with balance without crushing the edges!"
+    }
+  }
+}

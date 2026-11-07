@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_213",
+  "lemma_ar": "غَرَّى",
+  "root": "غ-ر-و",
+  "meaning_de": "leimen / mit Heißleim bestreichen",
+  "meaning_en": "to glue / apply hot hide glue to wood joint",
+  "conjugation": {
+    "past": {
+      "ar": "غَرَّى النَّجَّارُ دُرُوزَ الطَّاوِلَةِ",
+      "de": "Der Schreiner leimte die Fugen des Tisches",
+      "en": "The carpenter glued the table joints"
+    },
+    "present": {
+      "ar": "يُغَرِّي التَّعْشِيقَاتِ بِغِرَاءٍ سَاخِنٍ لَزِجٍ",
+      "de": "Er leimt die Holzverbindungen mit heißem, zähem Leim",
+      "en": "He glues the interlocking joints with viscous hot glue"
+    },
+    "imperative": {
+      "ar": "غَرِّ بِسُرْعَةٍ قَبْلَ أَنْ يَبْرُدَ السَّائِلُ",
+      "de": "Leime zügig, bevor die Flüssigkeit erstarrt!",
+      "en": "Glue quickly before the liquid sets cold!"
+    }
+  }
+}

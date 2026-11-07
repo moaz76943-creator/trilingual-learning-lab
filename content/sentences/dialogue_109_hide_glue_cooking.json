@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_109",
+  "title": {
+    "ar": "طَبْخُ غِرَاءِ الجِلْدِ الحَيَوَانِيِّ لِتَثْبِيتِ صَنَادِيقِ الخَشَبِ",
+    "de": "Kochen des tierischen Hautleims für Holzverbindungen",
+    "en": "Cooking Animal Hide Glue for Securing Wooden Chests"
+  },
+  "level": "B1",
+  "topic": "traditional_joinery_and_natural_adhesives",
+  "lines": [
+    {
+      "speaker": "النَّجَّارُ لَبِيدٌ",
+      "ar": "كَيْفَ نُذِيبُ حُبَيْبَاتِ غِرَاءِ الجِلْدِ فِي المِرْجَلِ المَائِيِّ دُونَ أَنْ يَحْتَرِقَ؟",
+      "de": "Wie lösen wir das Hautleimgranulat im Wasserbad auf, ohne dass der Leim verbrennt?",
+      "en": "How do we dissolve the hide glue granules in the double boiler without scorching?"
+    },
+    {
+      "speaker": "الصَّبِيُّ بَرَكَةُ",
+      "ar": "نَسْكُبُ المَاءَ السَّاخِنَ حَوْلَ القِدْرِ الصَّغِيرِ، فَيَسِيلُ الغِرَاءُ ذَهَبِيًّا كَالْعَسَلِ الصَّافِي.",
+      "de": "Wir füllen heißes Wasser in den Außenkessel; der Leim schmilzt goldgelb wie reiner Honig.",
+      "en": "We pour hot water around the inner pot; the glue liquefies golden like pure honey."
+    },
+    {
+      "speaker": "النَّجَّارُ لَبِيدٌ",
+      "ar": "اطْلِ بِهِ لِسَانَ التَّعْشِيقَةِ عَلَى عَجَلٍ؛ فَإِنَّهُ يَشُدُّ الخَشَبَ شَدًّا يَدُومُ مِئَاتِ السِّنِينَ.",
+      "de": "Bestreiche den Zapfen rasch; denn er bindet das Holz mit einer Festigkeit für Jahrhunderte.",
+      "en": "Brush the tenon swiftly; for it binds the wood with a tenacity that endures for centuries."
+    }
+  ]
+}

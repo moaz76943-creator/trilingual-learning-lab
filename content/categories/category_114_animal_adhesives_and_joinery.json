@@ -1,0 +1,33 @@
+{
+  "category_id": "114",
+  "slug": "animal_adhesives_and_joinery",
+  "name": {
+    "ar": "أَدَوَاتُ غِرَاءِ الجِلْدِ الحَيَوَانِيِّ وَقُدُورِ التَّسْخِينِ التُّرَاثِيَّةُ",
+    "de": "Hautleim-Werkzeuge und traditionelle Leimkocher",
+    "en": "Animal Hide Adhesives, Double Boilers and Glue Brushes"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "copper_glue_pot",
+      "ar": "قِدْرُ الغِرَاءِ النُّحَاسِيُّ المُزْدَوَجُ",
+      "de": "Der kupferne Doppelwand-Leimtopf",
+      "en": "Double-walled copper water-bath glue pot",
+      "asset_key": "svg_cat114_copper_glue_pot"
+    },
+    {
+      "id": "boar_bristle_brush",
+      "ar": "فُرْشَاةُ شَعْرِ الخِنْزِيرِ المَعْقُوفَةُ",
+      "de": "Der Naturborstenpinsel für Heißleim",
+      "en": "Natural stiff bristle hot glue brush",
+      "asset_key": "svg_cat114_boar_bristle_brush"
+    },
+    {
+      "id": "hide_glue_pearls",
+      "ar": "حُبَيْبَاتُ غِرَاءِ الجِلْدِ المُجَفَّفَةُ",
+      "de": "Die getrockneten Hautleim-Perlen",
+      "en": "Dried natural animal hide glue pearls",
+      "asset_key": "svg_cat114_hide_glue_pearls"
+    }
+  ]
+}
