@@ -1,0 +1,33 @@
+{
+  "category_id": "096",
+  "slug": "wooden_mortars_and_pestles",
+  "name": {
+    "ar": "أَدَوَاتُ خَرَاطَةِ أَهْوِنَةِ الخَشَبِ وَالمَدَقَّاتِ التُّرَاثِيَّةُ",
+    "de": "Olivenholzmörser und traditionelle Drechselwerkzeuge",
+    "en": "Turned Olive Wood Mortars and Pestle Craft Implements"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "turned_mortar",
+      "ar": "هَاوِنُ خَشَبِ الزَّيْتُونِ المَخْرُوطُ",
+      "de": "Der gedrechselte Mörser aus Olivenholz",
+      "en": "Lathe-turned dense olive wood mortar",
+      "asset_key": "svg_cat096_turned_mortar"
+    },
+    {
+      "id": "dense_pestle",
+      "ar": "مِدَقَّةُ الخَشَبِ الصَّلْبَةُ",
+      "de": "Der massive Stößel aus Hartholz",
+      "en": "Solid hardwood crushing pestle",
+      "asset_key": "svg_cat096_dense_pestle"
+    },
+    {
+      "id": "almond_curing_oil",
+      "ar": "زَيْتُ اللَّوْزِ لِتَغْذِيَةِ الأَلْيَافِ",
+      "de": "Das süße Mandelöl zur Holzpflege",
+      "en": "Sweet almond wood-nourishing oil",
+      "asset_key": "svg_cat096_almond_curing_oil"
+    }
+  ]
+}

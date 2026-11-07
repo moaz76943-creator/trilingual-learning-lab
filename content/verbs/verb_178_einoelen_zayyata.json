@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_178",
+  "lemma_ar": "زَيَّتَ",
+  "root": "ز-ي-ت",
+  "meaning_de": "mit Speiseöl einölen / imprägnieren",
+  "meaning_en": "to oil-cure / saturate wood fibers with food-safe oil",
+  "conjugation": {
+    "past": {
+      "ar": "زَيَّتَ الصَّانِعُ جَوْفَ القَصْعَةِ",
+      "de": "Der Handwerker ölte das Innere der Schale ein",
+      "en": "The artisan oiled the inside of the bowl"
+    },
+    "present": {
+      "ar": "يُزَيِّتُ الآنِيَةَ لِيَحْمِيَهَا مِنَ الجَفَافِ",
+      "de": "Er ölt das Gefäß, um es vor Austrocknung zu schützen",
+      "en": "He oil-cures the vessel to protect it from drying"
+    },
+    "imperative": {
+      "ar": "زَيِّتْ بِمِسْحَةٍ نَاعِمَةٍ بَعْدَ الصَّقْلِ",
+      "de": "Öle es nach dem Glätten mit sanftem Wisch ein!",
+      "en": "Oil-cure with a soft wipe after polishing!"
+    }
+  }
+}

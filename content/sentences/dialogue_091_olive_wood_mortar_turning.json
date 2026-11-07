@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_091",
+  "title": {
+    "ar": "خَرَاطَةُ هَاوِنِ خَشَبِ الزَّيْتُونِ لِسَحْقِ التَّوَابِلِ",
+    "de": "Drechseln des Olivenholzmörsers zum Mahlen von Gewürzen",
+    "en": "Turning the Olive Wood Mortar for Grinding Spices"
+  },
+  "level": "B1",
+  "topic": "traditional_woodturning_and_culinary_craft",
+  "lines": [
+    {
+      "speaker": "أَمِينٌ",
+      "ar": "لِمَاذَا نَفْضُلُ جُذُورَ شَجَرِ الزَّيْتُونِ العَتِيقِ لِخَرَاطَةِ أَهْوِنَةِ البُهَارَاتِ؟",
+      "de": "Warum bevorzugen wir die Wurzeln alter Olivenbäume zum Drechseln von Gewürzmörsern?",
+      "en": "Why do we prefer the roots of seasoned olive trees for turning spice mortars?"
+    },
+    {
+      "speaker": "حَازِمٌ",
+      "ar": "لِأَنَّ أَلْيَافَهَا مُلْتَفَّةٌ بِكَثَافَةٍ تَمْنَعُ انْفِصَالَ الشَّظَايَا عِنْدَ طَرْقِ المِدَقَّةِ الحَامِيَةِ.",
+      "de": "Weil ihre Fasern dicht ineinander verwoben sind und Splittern unter kräftigen Stößelhieben verhindern.",
+      "en": "Because their fibers are densely interlocked, preventing splintering beneath forceful pestle strikes."
+    },
+    {
+      "speaker": "أَمِينٌ",
+      "ar": "وَسَأُشْبِعُ جَوْفَ الهَاوِنِ بِزَيْتِ اللَّوْزِ الدَّافِئِ كَيْ لَا تَمْتَصَّ المَسَامُ رَوَائِحَ الحُبُوبِ.",
+      "de": "Und ich tränke das Mörserinnere mit warmem Mandelöl, damit die Poren keine Gewürzdüfte annehmen.",
+      "en": "And I will saturate the mortar cavity with warm almond oil so pores never absorb spice aromatics."
+    }
+  ]
+}

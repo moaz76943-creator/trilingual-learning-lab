@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_177",
+  "lemma_ar": "خَرَطَ",
+  "root": "خ-ر-ط",
+  "meaning_de": "drechseln / aushöhlen",
+  "meaning_en": "to turn on a lathe / shape hollow wooden vessels",
+  "conjugation": {
+    "past": {
+      "ar": "خَرَطَ النَّجَّارُ هَاوِنًا مُسْتَدِيرًا",
+      "de": "Der Drechsler drechselte einen runden Mörser",
+      "en": "The woodturner turned a rounded mortar"
+    },
+    "present": {
+      "ar": "يَخْرُطُ الخَشَبَ بِأَزْمِيلِ الخَرَاطَةِ",
+      "de": "Er formt das Holz mit der Drechselröhre",
+      "en": "He shapes the wood with the turning gouge"
+    },
+    "imperative": {
+      "ar": "اخْرُطْ بِتَوَازُنٍ وَسُرْعَةٍ مُنْتَظَمَةٍ",
+      "de": "Drechsle gleichmäßig und mit ruhiger Hand!",
+      "en": "Turn with balanced poise and steady speed!"
+    }
+  }
+}
