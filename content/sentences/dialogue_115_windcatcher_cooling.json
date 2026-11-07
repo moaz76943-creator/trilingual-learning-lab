@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_115",
+  "title": {
+    "ar": "بِنَاءُ مَلَاقِفِ الهَوَاءِ التُّرَاثِيَّةِ لِتَبْرِيدِ البُيُوتِ الصَّحْرَاوِيَّةِ",
+    "de": "Bau traditioneller Windtürme zur passiven Kühlung von Wüstenhäusern",
+    "en": "Constructing Traditional Windcatchers for Passive Cooling of Desert Homes"
+  },
+  "level": "B1",
+  "topic": "traditional_architecture_and_passive_cooling",
+  "lines": [
+    {
+      "speaker": "المِعْمَارِيُّ غَيَّاثٌ",
+      "ar": "كَيْفَ نُوَجِّهُ فَتَحَاتِ البَادْجِيرِ العَالِي لِتَصْطَادَ أَلْطَفَ نَسَمَاتِ الصَّبَاحِ فِي سَمَاءِ المَدِينَةِ؟",
+      "de": "Wie richten wir die oberen Öffnungen des Windturms aus, um die sanfteste Morgenbrise über den Dächern einzufangen?",
+      "en": "How do we orient the upper windcatcher apertures to catch the gentlest morning breeze above city rooftops?"
+    },
+    {
+      "speaker": "البَنَّاءُ رَاشِدٌ",
+      "ar": "نَفْتَحُهَا نَحْوَ الشَّمَالِ الغَرْبِيِّ حَيْثُ تَهُبُّ رِيَاحُ البَحْرِ، وَنَضَعُ جِرَارًا فَخَّارِيَّةً نَضَّاحَةً فِي قَاعِ المَجْرَى.",
+      "de": "Wir öffnen sie nach Nordwesten zur Meeresbrise und stellen poröse Tonkrüge auf den Grund des Schachts.",
+      "en": "We open them northwest toward sea winds and place porous earthenware jars at the base of the conduit."
+    },
+    {
+      "speaker": "المِعْمَارِيُّ غَيَّاثٌ",
+      "ar": "فَيَهْبِطُ الهَوَاءُ مُرَطَّبًا بَارِدًا إِلَى الإِيوَانِ دُونَ صَخَبٍ، شَاهِدًا عَلَى عَبْقَرِيَّةِ البِنَاءِ بِالطِّينِ.",
+      "de": "So sinkt die Luft befeuchtet und kühl geräuschlos in die Halle – ein Zeugnis der Meisterschaft des Lehmbaus.",
+      "en": "Thus the air descends humidified and cool into the hall without din, attesting to the genius of earth architecture."
+    }
+  ]
+}

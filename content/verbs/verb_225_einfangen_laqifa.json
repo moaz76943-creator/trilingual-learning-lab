@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_225",
+  "lemma_ar": "لَقِفَ",
+  "root": "ل-ق-ف",
+  "meaning_de": "auffangen / den Wind einfangen",
+  "meaning_en": "to catch / capture airborne breezes through high vents",
+  "conjugation": {
+    "past": {
+      "ar": "لَقِفَ البَادْجِيرُ نَسِيمَ الصَّبَاحِ العَلِيلَ",
+      "de": "Der Windturm fing die frische Morgenbrise ein",
+      "en": "The windcatcher captured the fresh morning breeze"
+    },
+    "present": {
+      "ar": "يَلْقَفُ الرِّيَاحَ العُلْوِيَّةَ فَيَصُبُّهَا فِي الغُرَفِ",
+      "de": "Er fängt die Höhenwinde ein und leitet sie in die Räume",
+      "en": "It catches the upper winds, channeling them into the rooms"
+    },
+    "imperative": {
+      "ar": "الْقَفْ رِيَاحَ الخَيْرِ لِتَبُثَّ الانْتِعَاشَ",
+      "de": "Fange die Winde ein, um Erfrischung zu spenden!",
+      "en": "Catch the cooling winds to bestow refreshment!"
+    }
+  }
+}

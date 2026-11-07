@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_226",
+  "lemma_ar": "رَوَّحَ",
+  "root": "ر-و-ح",
+  "meaning_de": "lüften / erfrischende Kühle bringen",
+  "meaning_en": "to ventilate / diffuse refreshing airflow throughout a home",
+  "conjugation": {
+    "past": {
+      "ar": "رَوَّحَ مَجْرَى الهَوَاءِ رُبُوعَ الدَّارِ الكَبِيرَةِ",
+      "de": "Der Luftzug erfrischte die Räume des großen Hauses",
+      "en": "The air current ventilated the halls of the great house"
+    },
+    "present": {
+      "ar": "يُرَوِّحُ الفِنَاءَ بِلَا صَوْتٍ وَلَا عَنَاءٍ",
+      "de": "Er lüftet den Innenhof lautlos und ohne Mühe",
+      "en": "It ventilates the courtyard silently and effortlessly"
+    },
+    "imperative": {
+      "ar": "رَوِّحْ عَنِ السَّاكِنِينَ بِنَسَمَاتٍ بَارِدَةٍ",
+      "de": "Spende den Bewohnern kühle Linderung!",
+      "en": "Ventilate the dwellers with cool relief!"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "category_id": "120",
+  "slug": "windcatchers_and_passive_airflow",
+  "name": {
+    "ar": "أَدَوَاتُ مَلَاقِفِ الهَوَاءِ وَالبَادْجِيرِ التُّرَاثِيِّ",
+    "de": "Windtürme und passive Belüftungselemente",
+    "en": "Windcatchers and Vernacular Airflow Implements"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "windcatcher_louvers",
+      "ar": "شَبَابِيكُ مَلْقَفِ الهَوَاءِ الخَشَبِيَّةُ",
+      "de": "Die hölzernen Lamellengitter des Windturms",
+      "en": "Louvered hardwood windcatcher vents",
+      "asset_key": "svg_cat120_windcatcher_louvers"
+    },
+    {
+      "id": "evaporative_water_jar",
+      "ar": "جَرَّةُ التَّبْرِيدِ التَّبَخُّرِيِّ المَسَامِيَّةُ",
+      "de": "Der poröse Verdunstungskrug im Luftschacht",
+      "en": "Porous conduit evaporative cooling jar",
+      "asset_key": "svg_cat120_evaporative_water_jar"
+    },
+    {
+      "id": "thermal_chimney_flue",
+      "ar": "مَدْخَنَةُ سَحْبِ الهَوَاءِ السَّاخِنِ",
+      "de": "Der thermische Abluftschornstein",
+      "en": "Thermal buoyancy exhaust solar chimney flue",
+      "asset_key": "svg_cat120_thermal_chimney_flue"
+    }
+  ]
+}
