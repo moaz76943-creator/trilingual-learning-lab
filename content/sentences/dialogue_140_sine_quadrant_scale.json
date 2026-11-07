@@ -1,0 +1,65 @@
+{
+  "dialogue_id": "dialogue_140_sine_quadrant_scale",
+  "title": {
+    "ar": "نَقْشُ شَبَكَةِ الجُيُوبِ وَمُرَبَّعِ الظِّلِّ عَلَى الرُّبْعِ النُّحَاسِيِّ",
+    "de": "Das Gravieren des Sinusnetzes und des Schattenquadrats auf den Messingquadranten",
+    "en": "Engraving the Sine Grid and Shadow Square on the Brass Quadrant"
+  },
+  "context": {
+    "ar": "حِوَارٌ فِي مَشْغَلِ الآلاَتِ الهَنْدَسِيَّةِ بَيْنَ مُعَلِّمِ النِّقَاشَةِ وَمُسَاعِدِهِ حَوْلَ تَخْطِيطِ سِتِّينَ قِسْمًا لِجُيُوبِ الزَّوَايَا وَمُرَبَّعِ الظِّلِّ المَنْكُوسِ.",
+    "de": "Ein Werkstattgespräch über das Einritzen des Sechziger-Sinusgitters und des inversen Schattenquadrats zur Höhenmessung.",
+    "en": "A workshop dialogue on scribing the sexagesimal sine grid and inverse shadow square for elevation reckoning."
+  },
+  "turns": [
+    {
+      "speaker": {
+        "ar": "الأُسْتَاذُ جَعْفَرٌ (النَّقَّاشُ الرِّيَاضِيُّ)",
+        "de": "Meister Dschafar (Der mathematische Graveur)",
+        "en": "Master Jafar (The Mathematical Engraver)"
+      },
+      "ar": "قَسَّمْتُ قَوْسَ الرُّبْعِ إِلَى تِسْعِينَ دَرَجَةً، وَسَأَبْدَأُ الآنَ فِي مَدِّ خُطُوطِ الجُيُوبِ السِّتِّينِيَّةِ بِالمِسْطَرَةِ الفُولاذِيَّةِ.",
+      "de": "Ich habe den Quadrantenbogen in neunzig Grade geteilt und beginne nun mit dem Ziehen der sechzig Sinuslinien mit dem Stahl-Haarlineal.",
+      "en": "I divided the quadrant arc into ninety degrees and will now begin drawing the sexagesimal sine grid lines using the steel straightedge."
+    },
+    {
+      "speaker": {
+        "ar": "مَحْمُودٌ (المُتَدَرِّبُ)",
+        "de": "Mahmud (Der Geselle)",
+        "en": "Mahmud (The Apprentice)"
+      },
+      "ar": "كَيْفَ سَتَنْقُشُ مُرَبَّعَ الظِّلِّ فِي الزَّاوِيَةِ لِيَكُونَ صَالِحًا لِقِيَاسِ الظِّلِّ المَبْسُوطِ وَالمَنْكُوسِ مَعًا؟",
+      "de": "Wie gravierst du das Schattenquadrat im Winkel, damit es sowohl für den horizontalen als auch für den vertikalen Schatten taugt?",
+      "en": "How will you engrave the shadow square in the corner so it serves for both horizontal and vertical shadow measurements?"
+    },
+    {
+      "speaker": {
+        "ar": "جَعْفَرٌ",
+        "de": "Dschafar",
+        "en": "Jafar"
+      },
+      "ar": "أَجْعَلُ كُلَّ ضِلْعٍ مُقَسَّمًا إِلَى اثْنَيْ عَشَرَ أُصْبُعًا، أَوْ سَبْعَةِ أَقْدَامٍ، مَعَ تَرْقِيمٍ جَلِيٍّ بِحُرُوفِ الجُمَّلِ.",
+      "de": "Ich teile jeden Schenkel in zwölf Fingerbreiten oder sieben Fuß, mit klarer Nummerierung in Adsched-Buchstabenziffern.",
+      "en": "I divide each side into twelve finger-widths or seven feet, with clear graduation in Abjad numerical characters."
+    },
+    {
+      "speaker": {
+        "ar": "مَحْمُودٌ",
+        "de": "Mahmud",
+        "en": "Mahmud"
+      },
+      "ar": "وَهَلْ خَرَزْتَ هَدَفَتَيِ الرُّؤْيَةِ عَلَى ضِلْعِ القِيَاسِ بِثُقْبَيْنِ مُتَطَابِقَيْنِ؟",
+      "de": "Und hast du die zwei Visierkörnchen auf der Messkante mit absolut deckungsgleichen Bohrungen versehen?",
+      "en": "And did you drill the two sighting pinnules on the reference edge with perfectly aligned apertures?"
+    },
+    {
+      "speaker": {
+        "ar": "جَعْفَرٌ",
+        "de": "Dschafar",
+        "en": "Jafar"
+      },
+      "ar": "نَعَمْ، بِثُقْبٍ دَقِيقٍ كَسِنِّ الإِبْرَةِ؛ فَإِذَا نَفَذَ ضَوْءُ الشَّمْسِ مِنْهُمَا مَعًا، دَلَّ خَيْطُ الحَرِيرِ عَلَى ارْتِفَاعِ الجِرْمِ بِلاَ رَيْبٍ.",
+      "de": "Ja, mit nadelspitzenfeinen Löchern; sobald der Sonnenstrahl durch beide fällt, zeigt der Seidenfaden die Gestirnshöhe unzweifelhaft an.",
+      "en": "Yes, with holes as delicate as needle eyes; when sunlight passes through both, the silk plumb line indicates the altitude beyond doubt."
+    }
+  ]
+}

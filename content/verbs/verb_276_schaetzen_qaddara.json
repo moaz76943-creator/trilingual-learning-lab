@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_276_schaetzen_qaddara",
+  "root": "ق - د - ر",
+  "trilingual": {
+    "ar": {
+      "infinitive": "تَقْدِيرٌ",
+      "past": "قَدَّرَ",
+      "present": "يُقَدِّرُ",
+      "imperative": "قَدِّرْ",
+      "meaning": "حَسَبَ المِقْدَارَ وَالمَسَافَةَ بِدَلَالَةِ الظِّلِّ وَالزَّاوِيَةِ"
+    },
+    "de": {
+      "infinitive": "trigonometrisch berechnen / ermitteln",
+      "past": "berechnete trigonometrisch",
+      "present": "berechnet trigonometrisch",
+      "perfect": "hat trigonometrisch berechnet",
+      "meaning": "Höhe und Distanz anhand von Schatten- und Winkelverhältnissen genau feststellen"
+    },
+    "en": {
+      "infinitive": "to estimate / calculate trigonometrically",
+      "past": "calculated trigonometrically",
+      "present": "calculates trigonometrically",
+      "participle": "calculated trigonometrically",
+      "meaning": "to determine height and distance from angular sightings and shadow proportions"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يُقَدِّرُ المَسَّاحُ عُمْقَ البِئْرِ بِوَاسِطَةِ مُرَبَّعِ الظِّلِّ المَنْكُوسِ.",
+      "de": "Der Landvermesser berechnet die Brunnentiefe trigonometrisch mittels des inversen Schattenquadrats.",
+      "en": "The surveyor calculates the depth of the well using the inverse shadow square."
+    },
+    {
+      "tense": "past",
+      "ar": "قَدَّرَ المُهَنْدِسُ عُلُوَّ حِصْنِ المَدِينَةِ مِنْ خَلْفِ النَّهْرِ.",
+      "de": "Der Baumeister ermittelte die Höhe der Stadtfestung von jenseits des Flusses.",
+      "en": "The engineer calculated the height of the city fortress from across the river."
+    }
+  ]
+}

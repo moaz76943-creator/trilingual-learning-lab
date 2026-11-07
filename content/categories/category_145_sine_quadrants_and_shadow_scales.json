@@ -1,0 +1,52 @@
+{
+  "category_id": "category_145_sine_quadrants_and_shadow_scales",
+  "title": {
+    "ar": "أَرْبَاعُ المُجَيَّبِ وَمُرَبَّعَاتُ الظِّلِّ الهَنْدَسِيَّةُ",
+    "de": "Sinusquadranten und geometrische Schattenquadrate",
+    "en": "Sine Quadrants and Geometric Shadow Squares"
+  },
+  "level": "B1",
+  "description": {
+    "ar": "مُصْطَلَحَاتُ أَرْبَاعِ الدَّائِرَةِ الحِسَابِيَّةِ، وَشَبَكَاتِ الجُيُوبِ السِّتِّينِيَّةِ، وَمَقَايِيسِ الظِّلِّ المَسَّاحِيَّةِ فِي التُّرَاثِ العِلْمِيِّ.",
+    "de": "Fachbegriffe zu mathematischen Viertelkreis-Instrumenten, sechzigteiligen Sinusgittern und geodätischen Schattenskalen der klassischen Wissenschaft.",
+    "en": "Terminology of mathematical quadrants, sexagesimal sine grids, and geodetic shadow scales in classical scientific heritage."
+  },
+  "vocabulary": [
+    {
+      "id": "term_145_01",
+      "ar": "رُبْعُ المُجَيَّبِ النُّحَاسِيُّ",
+      "de": "der messingene Sinusquadrant",
+      "en": "brass sine quadrant",
+      "phonetic_ar": "rub'u al-mujayyabi an-nuḥāsiyy",
+      "example": {
+        "ar": "يَسْتَعْمِلُ الفَلَكِيُّ رُبْعَ المُجَيَّبِ لِحَلِّ مَسَائِلِ المُثَلَّثَاتِ الكُرَوِيَّةِ بِسُرْعَةٍ وَدِقَّةٍ.",
+        "de": "Der Astronom verwendet den Sinusquadranten, um sphärische Dreiecke rasch und präzise zu berechnen.",
+        "en": "The astronomer utilizes the sine quadrant to solve spherical trigonometry problems rapidly and accurately."
+      }
+    },
+    {
+      "id": "term_145_02",
+      "ar": "مُرَبَّعُ الظِّلِّ المَنْقُوشُ",
+      "de": "das gravierte Schattenquadrat",
+      "en": "engraved shadow square",
+      "phonetic_ar": "murabba'u aẓ-ẓilli al-manqūsh",
+      "example": {
+        "ar": "يُوَضِّحُ مُرَبَّعُ الظِّلِّ المَنْقُوشُ نِسْبَةَ ارْتِفَاعِ الأَبْرَاجِ إِلَى ظِلِّهَا دُونَ حِسَابٍ مُعَقَّدٍ.",
+        "de": "Das gravierte Schattenquadrat zeigt das Höhenverhältnis von Türmen zu ihrem Schatten ohne komplizierte Rechenschritte.",
+        "en": "The engraved shadow square demonstrates the height-to-shadow ratio of towers without convoluted calculation."
+      }
+    },
+    {
+      "id": "term_145_03",
+      "ar": "هَدَفَتَا الرُّؤْيَةِ النُّحَاسِيَّتَانِ",
+      "de": "die zwei messingene Visierkörnchen (Diopter)",
+      "en": "brass sighting pinnules (sights)",
+      "phonetic_ar": "hadafatā ar-ru'yati an-nuḥāsiyyatān",
+      "example": {
+        "ar": "تَقِفُ هَدَفَتَا الرُّؤْيَةِ عَلَى حَافَّةِ الرُّبْعِ لِتَصْوِيبِ النَّظَرِ نَحْوَ قِمَّةِ الجَبَلِ.",
+        "de": "Die zwei Visierkörnchen stehen an der Kante des Quadranten, um die Bergspitze genau anzuvisieren.",
+        "en": "The two sighting pinnules stand on the edge of the quadrant to aim toward the mountain summit."
+      }
+    }
+  ]
+}

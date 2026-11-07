@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="pinnuleGold" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#fff176"/>
+      <stop offset="60%" stop-color="#fbc02d"/>
+      <stop offset="100%" stop-color="#a67c00"/>
+    </linearGradient>
+  </defs>
+  <!-- Background Quadrant Edge Section -->
+  <rect x="20" y="140" width="160" height="30" fill="#6d4c41" stroke="#3e2723" stroke-width="2.5"/>
+  <circle cx="45" cy="155" r="4" fill="#d7ccc8"/>
+  <circle cx="155" cy="155" r="4" fill="#d7ccc8"/>
+  <!-- Foldable Sighting Pinnule Plate (Upright Diopter) -->
+  <path d="M 65,140 L 65,45 Q 100,20 135,45 L 135,140 Z" fill="url(#pinnuleGold)" stroke="#3e2723" stroke-width="3"/>
+  <!-- Center Sighting Pin-Hole -->
+  <circle cx="100" cy="75" r="7" fill="#1b120c" stroke="#ffe082" stroke-width="2"/>
+  <!-- Optical Crosshair Sight Guides -->
+  <line x1="82" y1="75" x2="90" y2="75" stroke="#3e2723" stroke-width="1.5"/>
+  <line x1="110" y1="75" x2="118" y2="75" stroke="#3e2723" stroke-width="1.5"/>
+  <line x1="100" y1="57" x2="100" y2="65" stroke="#3e2723" stroke-width="1.5"/>
+  <line x1="100" y1="85" x2="100" y2="93" stroke="#3e2723" stroke-width="1.5"/>
+  <!-- Ray of Light Passing Through -->
+  <line x1="30" y1="75" x2="170" y2="75" stroke="#ffeb3b" stroke-width="2" stroke-dasharray="4,3" opacity="0.8"/>
+</svg>

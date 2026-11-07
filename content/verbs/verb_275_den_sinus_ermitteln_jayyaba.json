@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_275_den_sinus_ermitteln_jayyaba",
+  "root": "ج - ي - ب",
+  "trilingual": {
+    "ar": {
+      "infinitive": "تَجْيِيبٌ",
+      "past": "جَيَّبَ",
+      "present": "يُجَيِّبُ",
+      "imperative": "جَيِّبْ",
+      "meaning": "اسْتَخْرَجَ جَيْبَ الزَّاوِيَةِ حِسَابِيًّا أَوْ بِاسْتِعْمَالِ الرُّبْعِ"
+    },
+    "de": {
+      "infinitive": "den Sinus ermitteln",
+      "past": "ermittelte den Sinus",
+      "present": "ermittelt den Sinus",
+      "perfect": "hat den Sinus ermittelt",
+      "meaning": "den Sinuswert eines Winkels mit dem Quadranten rechnerisch oder grafisch bestimmen"
+    },
+    "en": {
+      "infinitive": "to compute the sine value",
+      "past": "computed the sine value",
+      "present": "computes the sine value",
+      "participle": "computed the sine value",
+      "meaning": "to extract the sine trigonometric function geometrically using the sine quadrant"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يُجَيِّبُ الرِّيَاضِيُّ ارْتِفَاعَ الشَّمْسِ بِقِرَاءَةِ خَطِّ السِّتِّينَ.",
+      "de": "Der Mathematiker ermittelt den Sinus der Sonnenhöhe durch Ablesen der Sechzigerlinie.",
+      "en": "The mathematician computes the sine of the solar altitude by reading the sexagesimal line."
+    },
+    {
+      "tense": "past",
+      "ar": "جَيَّبَ العَالِمُ زَاوِيَةَ المَيْلِ لِيُدَوِّنَهَا فِي الزِّيجِ الجَدِيدِ.",
+      "de": "Der Gelehrte ermittelte den Sinus des Neigungswinkels, um ihn in das neue astronomische Handbuch einzutragen.",
+      "en": "The scholar computed the sine of the inclination angle to record it in the new astronomical table."
+    }
+  ]
+}

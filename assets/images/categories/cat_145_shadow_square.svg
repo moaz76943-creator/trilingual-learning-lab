@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bronzePlate" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fff59d"/>
+      <stop offset="50%" stop-color="#d4af37"/>
+      <stop offset="100%" stop-color="#8d6e63"/>
+    </linearGradient>
+  </defs>
+  <!-- Background Plate Fragment -->
+  <rect x="25" y="25" width="150" height="150" rx="4" fill="url(#bronzePlate)" stroke="#4e342e" stroke-width="3"/>
+  <!-- Inscribed Shadow Square -->
+  <rect x="45" y="45" width="110" height="110" fill="#fffde7" stroke="#3e2723" stroke-width="2.5"/>
+  <!-- Diagonal Divider -->
+  <line x1="45" y1="45" x2="155" y2="155" stroke="#c62828" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <!-- 12-Digit Scale Subdivisions on Sides -->
+  <line x1="155" y1="63" x2="147" y2="63" stroke="#3e2723" stroke-width="1.5"/>
+  <line x1="155" y1="81" x2="147" y2="81" stroke="#3e2723" stroke-width="1.5"/>
+  <line x1="155" y1="100" x2="143" y2="100" stroke="#3e2723" stroke-width="2"/>
+  <line x1="155" y1="118" x2="147" y2="118" stroke="#3e2723" stroke-width="1.5"/>
+  <line x1="155" y1="136" x2="147" y2="136" stroke="#3e2723" stroke-width="1.5"/>
+
+  <line x1="63" y1="155" x2="63" y2="147" stroke="#3e2723" stroke-width="1.5"/>
+  <line x1="81" y1="155" x2="81" y2="147" stroke="#3e2723" stroke-width="1.5"/>
+  <line x1="100" y1="155" x2="100" y2="143" stroke="#3e2723" stroke-width="2"/>
+  <line x1="118" y1="155" x2="118" y2="147" stroke="#3e2723" stroke-width="1.5"/>
+  <line x1="136" y1="155" x2="136" y2="147" stroke="#3e2723" stroke-width="1.5"/>
+
+  <!-- Inscriptions for Umbra Recta and Umbra Versa -->
+  <text x="100" y="80" font-family="serif" font-size="11" font-weight="bold" fill="#3e2723" text-anchor="middle">ظِلٌّ مَبْسُوطٌ</text>
+  <text x="100" y="130" font-family="serif" font-size="11" font-weight="bold" fill="#3e2723" text-anchor="middle">ظِلٌّ مَنْكُوسٌ</text>
+</svg>

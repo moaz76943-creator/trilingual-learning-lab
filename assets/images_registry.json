@@ -43,5 +43,20 @@
     "path": "assets/images/categories/cat_144_polar_axis.svg",
     "category": "category_144_armillary_spheres_and_colures",
     "description": "Turned brass polar celestial axis rod with finials and mounting collars"
+  },
+  "cat_145_sine_quadrant": {
+    "path": "assets/images/categories/cat_145_sine_quadrant.svg",
+    "category": "category_145_sine_quadrants_and_shadow_scales",
+    "description": "Brass sine quadrant with sexagesimal grid lines and red silk plumb line"
+  },
+  "cat_145_shadow_square": {
+    "path": "assets/images/categories/cat_145_shadow_square.svg",
+    "category": "category_145_sine_quadrants_and_shadow_scales",
+    "description": "Engraved shadow square for direct and inverse shadow trigonometric ratios"
+  },
+  "cat_145_sighting_pinnule": {
+    "path": "assets/images/categories/cat_145_sighting_pinnule.svg",
+    "category": "category_145_sine_quadrants_and_shadow_scales",
+    "description": "Brass upright sighting pinnule with precision pinhole aperture"
   }
 }

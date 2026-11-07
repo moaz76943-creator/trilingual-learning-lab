@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <radialGradient id="brassQuad" cx="20%" cy="20%" r="90%">
+      <stop offset="0%" stop-color="#fff9c4"/>
+      <stop offset="45%" stop-color="#fbc02d"/>
+      <stop offset="85%" stop-color="#c49000"/>
+      <stop offset="100%" stop-color="#5d4037"/>
+    </radialGradient>
+  </defs>
+  <!-- Quadrant Shape (90 degree sector from top-left pivot) -->
+  <path d="M 30,30 L 175,30 A 145,145 0 0,1 30,175 Z" fill="url(#brassQuad)" stroke="#3e2723" stroke-width="3"/>
+  <!-- Sexagesimal Sine Grid Lines (Horizontal & Vertical) -->
+  <path d="M 30,55 L 160,55 M 30,80 L 140,80 M 30,105 L 115,105 M 30,130 L 85,130 M 30,155 L 50,155" fill="none" stroke="#795548" stroke-width="1.2" stroke-dasharray="2,2"/>
+  <path d="M 55,30 L 55,160 M 80,30 L 80,140 M 105,30 L 105,115 M 130,30 L 130,85 M 155,30 L 155,50" fill="none" stroke="#795548" stroke-width="1.2" stroke-dasharray="2,2"/>
+  <!-- Limiting Outer Graduated Arc -->
+  <path d="M 165,30 A 135,135 0 0,1 30,165" fill="none" stroke="#5d4037" stroke-width="3" stroke-dasharray="2,3"/>
+  <!-- Pivot Point with Silk Plumb Cord -->
+  <circle cx="30" cy="30" r="6" fill="#d32f2f" stroke="#3e2723" stroke-width="1.5"/>
+  <line x1="30" y1="30" x2="120" y2="135" stroke="#b71c1c" stroke-width="1.8"/>
+  <!-- Brass Plumb Bob Bead -->
+  <polygon points="120,135 116,145 124,145" fill="#fbc02d" stroke="#3e2723" stroke-width="1"/>
+  <!-- Two Sighting Pinnules on Upper Edge -->
+  <rect x="50" y="22" width="8" height="8" fill="#5d4037" stroke="#ffd54f" stroke-width="1"/>
+  <rect x="150" y="22" width="8" height="8" fill="#5d4037" stroke="#ffd54f" stroke-width="1"/>
+</svg>
