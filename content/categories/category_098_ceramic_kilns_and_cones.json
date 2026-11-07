@@ -1,0 +1,33 @@
+{
+  "category_id": "098",
+  "slug": "ceramic_kilns_and_cones",
+  "name": {
+    "ar": "أَدَوَاتُ أَتُونِ الخَزَفِ وَالأَقْمَاعِ الحَرَارِيَّةِ التُّرَاثِيَّةُ",
+    "de": "Töpferöfen und pyrometrische Messkegel",
+    "en": "Ceramic Kilns and Pyrometric Heat Cones"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "pyrometric_cone",
+      "ar": "القَمْعُ الحَرَارِيُّ الفَخَّارِيُّ",
+      "de": "Der pyrometrische Schmelzkegel",
+      "en": "Ceramic pyrometric witness cone",
+      "asset_key": "svg_cat098_pyrometric_cone"
+    },
+    {
+      "id": "kiln_spyhole",
+      "ar": "ثَقْبُ الرُّؤْيَةِ فِي جِدَارِ الأَتُونِ",
+      "de": "Das Schauloch in der Ofenwandung",
+      "en": "Kiln spyhole refractory plug",
+      "asset_key": "svg_cat098_kiln_spyhole"
+    },
+    {
+      "id": "kiln_prop",
+      "ar": "رَكِيزَةُ الأَرْفُفِ الحَرَارِيَّةُ",
+      "de": "Die feuerfeste Ofenstütze",
+      "en": "Refractory kiln furniture prop",
+      "asset_key": "svg_cat098_kiln_prop"
+    }
+  ]
+}

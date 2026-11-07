@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_182",
+  "lemma_ar": "زَجَّجَ",
+  "root": "ز-ج-ج",
+  "meaning_de": "glasieren / mit Glasur überziehen",
+  "meaning_en": "to glaze pottery / melt vitreous coat",
+  "conjugation": {
+    "past": {
+      "ar": "زَجَّجَ الصَّانِعُ سَطْحَ الجَرَّةِ",
+      "de": "Der Handwerker glasierte die Oberfläche des Kruges",
+      "en": "The artisan glazed the surface of the jar"
+    },
+    "present": {
+      "ar": "يُزَجِّجُ الآنِيَةَ بِمَزِيجٍ شَفَّافٍ",
+      "de": "Er glasiert das Gefäß mit einer klaren Mischung",
+      "en": "He glazes the vessel with a transparent slip"
+    },
+    "imperative": {
+      "ar": "زَجِّجْ بِطَبَقَةٍ رَقِيقَةٍ مُتَجَانِسَةٍ",
+      "de": "Glasiere mit einer feinen, ebenmäßigen Schicht!",
+      "en": "Glaze with a fine, uniform coat!"
+    }
+  }
+}

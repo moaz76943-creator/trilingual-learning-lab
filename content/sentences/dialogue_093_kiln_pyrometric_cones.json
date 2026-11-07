@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_093",
+  "title": {
+    "ar": "فَحْصُ دَرَجَةِ حَرَارَةِ الأَتُونِ الخَزَفِيِّ بِالأَقْمَاعِ الحَرَارِيَّةِ",
+    "de": "Temperaturmessung im Töpferofen mit Schmelzkegeln",
+    "en": "Inspecting Ceramic Kiln Heat with Pyrometric Cones"
+  },
+  "level": "B1",
+  "topic": "traditional_ceramics_and_thermal_engineering",
+  "lines": [
+    {
+      "speaker": "سُفْيَانُ",
+      "ar": "كَيْفَ نَعْرِفُ أَنَّ الأَتُونَ وَصَلَ إِلَى دَرَجَةِ نُضْجِ الطِّلَاءِ الزُّجَاجِيِّ دُونَ فَتْحِ البَابِ؟",
+      "de": "Wie wissen wir, dass der Ofen die Reifetemperatur der Glasur erreichte, ohne die Tür zu öffnen?",
+      "en": "How do we know the kiln reached the glaze maturation temperature without opening the door?"
+    },
+    {
+      "speaker": "مَحْمُودٌ",
+      "ar": "نَنْظُرُ عَبْرَ ثَقْبِ الرُّؤْيَةِ إِلَى أَقْمَاعِ الفَخَّارِ؛ فَإِذَا انْحَنَى رَأْسُ القَمْعِ الأَوْسَطِ أَغْلَقْنَا مَنَافِذَ الهَوَاءِ.",
+      "de": "Wir blicken durch das Schauloch auf die Schmelzkegel; biegt sich die Spitze des mittleren, schließen wir die Züge.",
+      "en": "We gaze through the spyhole at the ceramic cones; when the tip of the middle cone bends, we seal the flues."
+    },
+    {
+      "speaker": "سُفْيَانُ",
+      "ar": "سَنَدَعُ الأَتُونَ يَبْرُدُ بِبُطْءٍ شَدِيدٍ كَيْ لَا تَنْشَعِبَ الآنِيَةُ مِنَ الصَّدْمَةِ الحَرَارِيَّةِ.",
+      "de": "Wir lassen den Ofen sehr langsam abkühlen, damit das Tongeschirr keinen Riss durch Thermoschock erleidet.",
+      "en": "We will let the kiln cool very gradually so the earthenware vessels do not craze from thermal shock."
+    }
+  ]
+}
