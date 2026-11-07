@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_120",
+  "title": {
+    "ar": "مَسْحُ أَنْفَاقِ الأَفْلَاجِ الجَوْفِيَّةِ وَجَلْبُ مِيَاهِ أُمَّهَاتِ الآبَارِ",
+    "de": "Vermessung der unterirdischen Aflaj-Stollen und Fassung der Mutterbrunnen",
+    "en": "Surveying Subterranean Aflaj Tunnels and Tapping Mountain Mother-Wells"
+  },
+  "level": "B1",
+  "topic": "traditional_aflaj_hydrology_and_oasis_farming",
+  "lines": [
+    {
+      "speaker": "خَبِيرُ الأَفْلَاجِ مُحْرِزٌ",
+      "ar": "كَيْفَ نَضْبِطُ مَيَلَانَ النَّفَقِ فِي بَاطِنِ الجَبَلِ لِيَتَدَفَّقَ المَاءُ هُوَيْنَا نَحْوَ وَاحَةِ النَّخِيلِ؟",
+      "de": "Wie stimmen wir das Gefälle des Tunnels im Berginneren ab, damit das Wasser sanft zur Datteloase fließt?",
+      "en": "How do we calibrate the tunnel gradient inside the mountain so water flows steadily toward the palm oasis?"
+    },
+    {
+      "speaker": "المُقَنِّي صَبِيحٌ",
+      "ar": "نَسْتَعْمِلُ مُثَلَّثَ المِسَاحَةِ الخَشَبِيَّ مَعَ شُعْلَةِ الزَّيْتِ؛ فَنَحْفِرُ مِيلًا وَاحِدًا لِكُلِّ مِئَةِ ذِرَاعٍ.",
+      "de": "Wir nutzen das hölzerne Peildreieck mit der Ölflamme; so meißeln wir genau ein Elle Gefälle auf hundert Ellen.",
+      "en": "We use the wooden surveying triangle with oil flame sight; chiseling one cubit of drop per hundred cubits."
+    },
+    {
+      "speaker": "خَبِيرُ الأَفْلَاجِ مُحْرِزٌ",
+      "ar": "إِنَّ أَمَانَةَ الأَفْلَاجِ هِيَ شِرْيَانُ الحَيَاةِ لِلْوَاحَةِ، حَيْثُ تَقْسِمُ شَرِيعَةُ المَاءِ الحِصَصَ بِالعَدْلِ وَالإِنْصَافِ.",
+      "de": "Das Gesetz der Aflaj ist die Lebensader der Oase, wo die Wasserordnung die Anteile gerecht zuteilt.",
+      "en": "The covenant of the aflaj is the lifeblood of the oasis, where water rights are apportioned with justice and equity."
+    }
+  ]
+}

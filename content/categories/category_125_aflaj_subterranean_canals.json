@@ -1,0 +1,33 @@
+{
+  "category_id": "125",
+  "slug": "aflaj_subterranean_canals",
+  "name": {
+    "ar": "أَدَوَاتُ أَنْفَاقِ الأَفْلَاجِ الجَوْفِيَّةِ وَشَرِيعَةِ تَوْزِيعِ المِيَاهِ",
+    "de": "Aflaj-Stollenbauwerkzeuge und traditionelle Wasserteilungswehre",
+    "en": "Aflaj Subterranean Canals and Water Apportioning Weirs"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "qanat_tunneling_pick",
+      "ar": "مِنْقَارُ حَفْرِ الأَنْفَاقِ القَصِيرُ",
+      "de": "Die kurzstielige Stollenhaue der Qanat-Gräber",
+      "en": "Short-handled subterranean qanat tunneling pick",
+      "asset_key": "svg_cat125_qanat_tunneling_pick"
+    },
+    {
+      "id": "water_distribution_weir",
+      "ar": "صَفِيحَةُ تَقْسِيمِ الحِصَصِ النُّحَاسِيَّةُ",
+      "de": "Das bronzene Wasserteilungswehr mit Kerben",
+      "en": "Notched bronze water-share dividing weir plate",
+      "asset_key": "svg_cat125_water_distribution_weir"
+    },
+    {
+      "id": "surveyor_leveling_triangle",
+      "ar": "مُثَلَّثُ المِسَاحَةِ الخَشَبِيُّ لِضَبْطِ المَيَلَانِ",
+      "de": "Das hölzerne Neigungsdreieck zur Gefällekontrolle",
+      "en": "Hardwood plumb-level surveying triangle",
+      "asset_key": "svg_cat125_surveyor_leveling_triangle"
+    }
+  ]
+}

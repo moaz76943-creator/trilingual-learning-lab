@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_236",
+  "lemma_ar": "قَنَى",
+  "root": "ق-ن-ي",
+  "meaning_de": "in Kanäle leiten / kanalisieren",
+  "meaning_en": "to direct water flow into agricultural surface channels",
+  "conjugation": {
+    "past": {
+      "ar": "قَنَى الفَلَّاحُ السَّاقِيَةَ نَحْوَ الجَنَّةِ",
+      "de": "Der Landwirt leitete den Graben zum Obstgarten",
+      "en": "The farmer directed the water flume toward the orchard"
+    },
+    "present": {
+      "ar": "يَقْنِي المَاءَ العَذْبَ بِحَسَبِ الأَوْقَاتِ المَعْلُومَةِ",
+      "de": "Er kanalisiert das Quellwasser nach festgelegten Zeittakten",
+      "en": "He directs the sweet water according to agreed schedules"
+    },
+    "imperative": {
+      "ar": "اقْنِ بِالإِنْصَافِ وَأَعْطِ كُلَّ ذِي حَقٍّ نَصِيبَهُ",
+      "de": "Leite gerecht und gib jedem seinen vollen Anteil!",
+      "en": "Direct with fairness and grant each his rightful share!"
+    }
+  }
+}

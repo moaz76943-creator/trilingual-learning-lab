@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_235",
+  "lemma_ar": "فَلَجَ",
+  "root": "ف-ل-ج",
+  "meaning_de": "unterirdisch leiten / Aflaj-Kanal graben",
+  "meaning_en": "to channel subterranean water / dig aflaj irrigation canal",
+  "conjugation": {
+    "past": {
+      "ar": "فَلَجَ أَهْلُ القَرْيَةِ المَاءَ عَبْرَ الصُّخُورِ",
+      "de": "Die Dorfbewohner leiteten das Wasser unterirdisch durch den Fels",
+      "en": "The villagers tunneled the water through the subterranean rock"
+    },
+    "present": {
+      "ar": "يَفْلُجُ القَنَاةَ لِتَصِلَ المِيَاهُ إِلَى النَّخْلِ",
+      "de": "Er gräbt den Kanal, damit das Wasser die Palmen erreicht",
+      "en": "He tunnels the conduit so water reaches the date palms"
+    },
+    "imperative": {
+      "ar": "افْلُجْ بِمَيَلَانٍ مَوْزُونٍ يَحْفَظُ التَّدَفُّقَ",
+      "de": "Leite mit wohlbedachtem Gefälle, das den Fluss bewahrt!",
+      "en": "Channel with calibrated slope that sustains the flow!"
+    }
+  }
+}
