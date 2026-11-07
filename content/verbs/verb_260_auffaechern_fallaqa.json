@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_260",
+  "lemma_ar": "فَلَّقَ",
+  "root": "ف-ل-ق",
+  "meaning_de": "auffächern / in Spektralfarben zerlegen",
+  "meaning_en": "to disperse / unfold composite white light into spectrum",
+  "conjugation": {
+    "past": {
+      "ar": "فَلَّقَ البِلَّوْرُ حُزْمَةَ النُّورِ إِلَى سَبْعَةِ أَلْوَانٍ",
+      "de": "Der Kristall fächerte das Lichtbündel in sieben Farben auf",
+      "en": "The crystal dispersed the light beam into seven colors"
+    },
+    "present": {
+      "ar": "يُفَلِّقُ البَيَاضَ فَيُبْدِي مَكْنُونَ الجَمَالِ",
+      "de": "Er zerlegt das Weiß und offenbart verborgene Schönheit",
+      "en": "It disperses whiteness, revealing hidden beauty"
+    },
+    "imperative": {
+      "ar": "فَلِّقِ الشُّعَاعَ عَلَى صَفْحَةٍ بَيْضَاءَ",
+      "de": "Fächere den Strahl auf weißem Schirm auf!",
+      "en": "Disperse the beam upon a white screen!"
+    }
+  }
+}

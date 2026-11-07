@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_132",
+  "title": {
+    "ar": "صَقْلُ مَوَاشِيرِ البِلَّوْرِ الصَّخْرِيِّ وَدِرَاسَةُ انْكِسَارِ الضَّوْءِ",
+    "de": "Schleifen von Bergkristall-Prismen und Erforschung der Lichtbrechung",
+    "en": "Grinding Rock-Crystal Prisms and Studying Light Refraction"
+  },
+  "level": "B1",
+  "topic": "traditional_optics_and_crystal_cutting",
+  "lines": [
+    {
+      "speaker": "البَصَرِيُّ نِبْرَاسٌ",
+      "ar": "كَيْفَ نَحْتُّ أَوْجُهَ حَجَرِ المَهْوِ البِلَّوْرِيِّ لِتَكُونَ زَوَايَاهُ الثَّلَاثُ مُتَسَاوِيَةً تَمَامًا؟",
+      "de": "Wie schleifen wir die Flächen des Bergkristalls ab, damit seine drei Winkel vollkommen gleichmäßig werden?",
+      "en": "How do we abrade the faces of the rock crystal so its three angles become perfectly equilateral?"
+    },
+    {
+      "speaker": "المُتَعَلِّمُ نَمِيرٌ",
+      "ar": "نَفْرُكُهَا بِمَسْحُوقِ صَنْفَرَةِ الإِمَرِي عَلَى قُرْصِ النُّحَاسِ، ثُمَّ نَفْحَصُ المَيَلَانَ بِمِقْيَاسِ الزَّوَايَا الخَشَبِيِّ.",
+      "de": "Wir reiben sie mit Schmirgelpulver auf der Kupferscheibe und prüfen die Neigung mit dem hölzernen Winkelmaß.",
+      "en": "We grind them with emery powder upon the copper lap, then verify the inclination with the wooden goniometer."
+    },
+    {
+      "speaker": "البَصَرِيُّ نِبْرَاسٌ",
+      "ar": "إِنَّ تَفْكِيكَ النُّورِ كَشْفٌ لِأَسْرَارِ الخَلْقِ البَدِيعِ، حَيْثُ يَحْمِلُ الضَّوْءُ البَسِيطُ فِي جَوْفِهِ أَلْوَانَ الحَيَاةِ كُلَّهَا.",
+      "de": "Das Auffächern des Lichts offenbart die Wunder der Schöpfung, da das schlichte Licht alle Farben des Lebens birgt.",
+      "en": "Deconstructing light unveils the marvels of sublime creation, where simple daylight conceals all hues of life."
+    }
+  ]
+}

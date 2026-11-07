@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_259",
+  "lemma_ar": "كَسَرَ_ضَوْء",
+  "root": "ك-س-ر",
+  "meaning_de": "brechen / Lichtstrahlen ablenken",
+  "meaning_en": "to refract / bend light rays through transparent prism",
+  "conjugation": {
+    "past": {
+      "ar": "كَسَرَ المَوْشُورُ ضَوْءَ الشَّمْسِ البَاهِرَ",
+      "de": "Das Prisma brach das helle Sonnenlicht",
+      "en": "The prism refracted the bright sunlight"
+    },
+    "present": {
+      "ar": "يَكْسِرُ الشُّعَاعَ مُظْهِرًا أَلْوَانَ الطَّيْفِ",
+      "de": "Es bricht den Strahl und lässt die Spektralfarben hervortreten",
+      "en": "It refracts the ray, displaying the spectral colors"
+    },
+    "imperative": {
+      "ar": "اكْسِرِ الضَّوْءَ بِزَاوِيَةٍ مُحْكَمَةٍ",
+      "de": "Brich das Licht in genauem Einfallswinkel!",
+      "en": "Refract the light at a precise angle of incidence!"
+    }
+  }
+}

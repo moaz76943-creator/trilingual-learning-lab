@@ -1,0 +1,33 @@
+{
+  "category_id": "137",
+  "slug": "crystal_prisms_and_optics",
+  "name": {
+    "ar": "أَدَوَاتُ مَوَاشِيرِ البِلَّوْرِ وَعِلْمِ المَنَاظِرِ التُّرَاثِيِّ",
+    "de": "Kristallprismen, optische Winkelmesser und Läppscheiben",
+    "en": "Rock-Crystal Prisms, Optical Goniometers and Lapping Discs"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "triangular_quartz_prism",
+      "ar": "مَوْشُورُ الكُوَارْتْزِ الثُّلَاثِيُّ",
+      "de": "Das dreiseitige Bergkristall-Prisma",
+      "en": "Equilateral rock-crystal quartz triangular prism",
+      "asset_key": "svg_cat137_triangular_quartz_prism"
+    },
+    {
+      "id": "copper_lapping_wheel",
+      "ar": "قُرْصُ التَّسْوِيَةِ النُّحَاسِيُّ لِلْحِجَارَةِ",
+      "de": "Die kupferne Schleif- und Läppscheibe",
+      "en": "Rotary copper lapidary lapping wheel",
+      "asset_key": "svg_cat137_copper_lapping_wheel"
+    },
+    {
+      "id": "wooden_optical_goniometer",
+      "ar": "مِقْيَاسُ الزَّوَايَا الخَشَبِيُّ لِلبَصَرِيَّاتِ",
+      "de": "Der hölzerne optische Winkelmesser",
+      "en": "Graduated hardwood optical goniometer protractor",
+      "asset_key": "svg_cat137_wooden_optical_goniometer"
+    }
+  ]
+}
