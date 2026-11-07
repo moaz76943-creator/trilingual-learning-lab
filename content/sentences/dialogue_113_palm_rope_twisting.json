@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_113",
+  "title": {
+    "ar": "فَتْلُ حِبَالِ لِيفِ النَّخِيلِ وَتَجْدِيلِ أَمْرَاسِ المَرَاسِي",
+    "de": "Zwirnen von Palmfaserseilen und Schlagen von Festmacherleinen",
+    "en": "Twisting Palm Bast Cordage and Laying Mooring Cables"
+  },
+  "level": "B1",
+  "topic": "traditional_cordage_and_palm_fiber_craft",
+  "lines": [
+    {
+      "speaker": "الحَبَّالُ طَرِيفٌ",
+      "ar": "كَيْفَ نُسَرِّحُ لِيفَ جُذُوعِ النَّخِيلِ المَنْقُوعِ كَيْ تَتَرَاصَفَ الأَلْيَافُ بِلَا عُقَدٍ؟",
+      "de": "Wie hecheln wir die eingeweichten Palmfasern, damit sie sich ohne Knoten parallel legen?",
+      "en": "How do we card the soaked date-palm fibers so the strands align without knots?"
+    },
+    {
+      "speaker": "الفَتَى مَسْعُودٌ",
+      "ar": "نُمِرُّهَا بَيْنَ أَسْنَانِ مِشْطِ الخَشَبِ، ثُمَّ نَشُدُّ طَرَفَهَا إِلَى مِفْتَلِ الحِبَالِ الدَّوَّارِ.",
+      "de": "Wir ziehen sie durch die Zähne des Holzkamms und spannen ihr Ende in den drehbaren Seilerhaken.",
+      "en": "We draw them through the teeth of the wooden comb, then hitch their end to the rotating rope spindle."
+    },
+    {
+      "speaker": "الحَبَّالُ طَرِيفٌ",
+      "ar": "ادْرُجْ مَعَ المَمْشَى رُوَيْدًا؛ كُلَّمَا تَلَاحَمَتِ الخُيُوطُ الثَّلَاثَةُ صَارَ الحَبْلُ كَالعَصَبِ المَتِينِ.",
+      "de": "Schreite die Seilerbahn langsam ab; je fester die drei Stränge binden, desto sehnengleicher wird das Tau.",
+      "en": "Pace down the ropewalk steadily; the more the three strands interlock, the more sinew-tough the cable becomes."
+    }
+  ]
+}

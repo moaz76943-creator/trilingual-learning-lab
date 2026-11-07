@@ -1,0 +1,33 @@
+{
+  "category_id": "118",
+  "slug": "palm_cordage_and_ropewalk",
+  "name": {
+    "ar": "أَدَوَاتُ فَتْلِ حِبَالِ اللِّيفِ وَمَمَاشِي الحَبَّالِينَ التُّرَاثِيَّةُ",
+    "de": "Seilerwerkzeuge und traditionelle Palmfaser-Seilerbahnen",
+    "en": "Palm Bast Cordage, Twisting Spindles and Ropewalk Tools"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "twisting_spindle",
+      "ar": "مِفْتَلُ الحِبَالِ الخَشَبِيُّ",
+      "de": "Der hölzerne Seilerwirbel",
+      "en": "Hardwood rotating rope-twisting spindle",
+      "asset_key": "svg_cat118_twisting_spindle"
+    },
+    {
+      "id": "palm_bast_cable",
+      "ar": "حَبْلُ مَسَدِ اللِّيفِ المَجْدُولُ",
+      "de": "Das geschlagene Palmfasertau",
+      "en": "Braided natural palm-bast hawser cable",
+      "asset_key": "svg_cat118_palm_bast_cable"
+    },
+    {
+      "id": "fiber_carding_comb",
+      "ar": "مِشْطُ تَسْرِيحِ الأَلْيَافِ الخَشَبِيُّ",
+      "de": "Die hölzerne Hechel für Palmfasern",
+      "en": "Hardwood fiber carding heckle comb",
+      "asset_key": "svg_cat118_fiber_carding_comb"
+    }
+  ]
+}

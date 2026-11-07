@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_221",
+  "lemma_ar": "فَتَلَ",
+  "root": "ف-ت-ل",
+  "meaning_de": "zwirnen / Seile drehen",
+  "meaning_en": "to twist / ply fiber strands into cordage",
+  "conjugation": {
+    "past": {
+      "ar": "فَتَلَ الصَّانِعُ حَبْلَ اللِّيفِ بِالمِفْتَلِ",
+      "de": "Der Seiler drehte das Palmfaserseil mit dem Wirbel",
+      "en": "The ropemaker twisted the bast cord with the spindle"
+    },
+    "present": {
+      "ar": "يَفْتِلُ الشَّرَائِطَ بِقُوَّةٍ مُنْتَظَمَةٍ",
+      "de": "Er zwirnt die Stränge mit gleichmäßiger Kraft",
+      "en": "He twists the strands with measured, steady torque"
+    },
+    "imperative": {
+      "ar": "افْتِلْ بِتَرَاصٍّ يَمْنَعُ انْحِلَالَ الحَبْلِ",
+      "de": "Zwirne dicht, damit sich das Seil nicht aufdreht!",
+      "en": "Twist densely to prevent the rope from unlaying!"
+    }
+  }
+}

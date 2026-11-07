@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_222",
+  "lemma_ar": "مَسَدَ",
+  "root": "م-س-د",
+  "meaning_de": "festflechten / glätten und straffen",
+  "meaning_en": "to braid firmly / smooth and lay taut palm cordage",
+  "conjugation": {
+    "past": {
+      "ar": "مَسَدَ الحَبَّالُ خُيُوطَ المَرْسَى تَمَامًا",
+      "de": "Der Seiler schlug die Festmacherleinen vollkommen straff",
+      "en": "The ropemaker laid the mooring lines completely taut"
+    },
+    "present": {
+      "ar": "يَمْسُدُ الحَبْلَ فَيَغْدُو شَدِيدَ المَتَانَةِ",
+      "de": "Er glättet das Tau, sodass es äußerste Zähigkeit erlangt",
+      "en": "He lays the rope so it attains supreme tensile toughness"
+    },
+    "imperative": {
+      "ar": "امْسُدْ بِإِحْكَامٍ يَشُدُّ الأَلْيَافَ",
+      "de": "Schlage es fest, um die Fasern zu binden!",
+      "en": "Lay taut firmly to bind the fibers tight!"
+    }
+  }
+}
