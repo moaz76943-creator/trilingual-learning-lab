@@ -58,5 +58,8 @@
     "path": "assets/images/categories/cat_145_sighting_pinnule.svg",
     "category": "category_145_sine_quadrants_and_shadow_scales",
     "description": "Brass upright sighting pinnule with precision pinhole aperture"
-  }
+  },
+  "svg_cat076_shuttle_olive": "assets/svg/svg_cat076_shuttle_olive.svg",
+  "svg_cat076_spindle_wool": "assets/svg/svg_cat076_spindle_wool.svg",
+  "svg_cat076_yarn_bobbin": "assets/svg/svg_cat076_yarn_bobbin.svg"
 }
