@@ -1,0 +1,33 @@
+{
+  "category_id": "128",
+  "slug": "lute_luthiery_and_soundboards",
+  "name": {
+    "ar": "أَدَوَاتُ صِنَاعَةِ الأَعْوَادِ التُّرَاثِيَّةِ وَشَمْسِيَّاتِ الرَّنِينِ",
+    "de": "Lautenbau-Werkzeuge, Fichtendecken und Schalllochrosetten",
+    "en": "Traditional Lute Luthiery, Soundboards and Rosettes"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "spruce_soundboard",
+      "ar": "وَجْهُ العُودِ مِنْ خَشَبِ الشُّوحِ",
+      "de": "Die feine Fichtenholzdecke der Laute",
+      "en": "Bookmatched mountain spruce lute soundboard",
+      "asset_key": "svg_cat128_spruce_soundboard"
+    },
+    {
+      "id": "carved_soundhole_rosette",
+      "ar": "شَمْسِيَّةُ الرَّنِينِ المَخْرُومَةُ",
+      "de": "Die filigran durchbrochene Schalllochrosette",
+      "en": "Delicately pierced wooden acoustic rosette",
+      "asset_key": "svg_cat128_carved_soundhole_rosette"
+    },
+    {
+      "id": "ebony_tuning_peg",
+      "ar": "مِلْوَى الأَبَنُوسِ لِضَبْطِ الوَتَرِ",
+      "de": "Der handgedrechselte Ebenholz-Stimmwirbel",
+      "en": "Hand-turned ebony lute tuning peg",
+      "asset_key": "svg_cat128_ebony_tuning_peg"
+    }
+  ]
+}

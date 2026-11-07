@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_123",
+  "title": {
+    "ar": "صِنَاعَةُ صَدْرِ العُودِ التُّرَاثِيِّ وَخَرْقُ الشَّمْسِيَّةِ الرَّنَّانَةِ",
+    "de": "Bau der Lautendecke und Schnitzen der Schalllochrosette",
+    "en": "Crafting the Heritage Lute Soundboard and Carving the Resonant Rosette"
+  },
+  "level": "B1",
+  "topic": "traditional_luthiery_and_acoustic_woodwork",
+  "lines": [
+    {
+      "speaker": "الصَّانِعُ شَاكِرٌ",
+      "ar": "كَيْفَ نَقِيسُ رِقَّةَ وَجْهِ العُودِ المَصْنُوعِ مِنْ خَشَبِ الشُّوحِ الجَبَلِيِّ؟",
+      "de": "Wie messen wir die Stärke der Lautendecke aus feinjährigem Gebirgsfichtenholz?",
+      "en": "How do we gauge the thickness of the lute soundboard crafted from mountain spruce?"
+    },
+    {
+      "speaker": "المُتَعَلِّمُ نَجِيبٌ",
+      "ar": "نَنْقُرُ بِأَصَابِعِنَا عَلَى مَوَاضِعَ مُخْتَلِفَةٍ؛ فَإِذَا رَنَّ الخَشَبُ كَالجَرَسِ عَرَفْنَا أَنَّهُ اسْتَوَى.",
+      "de": "Wir klopfen mit den Fingerknöcheln an verschiedenen Stellen; klingt das Holz glockenklar, ist es vollendet.",
+      "en": "We tap with our knuckles across different spots; when the wood rings like a bell, we know it is balanced."
+    },
+    {
+      "speaker": "الصَّانِعُ شَاكِرٌ",
+      "ar": "وَالآنَ نَنْحَتُ شَمْسِيَّةَ الصَّوْتِ بِزَخَارِفَ هَنْدَسِيَّةٍ دَقِيقَةٍ تَسْمَحُ لِلنَّغَمَاتِ أَنْ تَنْطَلِقَ سَلِسَةً.",
+      "de": "Und nun schnitzen wir die Rosette mit feiner Laubsägearbeit, damit die Töne frei und samtweich strömen.",
+      "en": "And now we carve the sound rosette with delicate geometric fretwork, allowing tones to stream free and mellow."
+    }
+  ]
+}

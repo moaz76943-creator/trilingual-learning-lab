@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_241",
+  "lemma_ar": "نَغَّمَ",
+  "root": "ن-غ-م",
+  "meaning_de": "stimmen / intonieren",
+  "meaning_en": "to tune strings to harmonic pitch intervals",
+  "conjugation": {
+    "past": {
+      "ar": "نَغَّمَ العَازِفُ أَوْتَارَ عُودِهِ بِالمَلَاوِي",
+      "de": "Der Musiker stimmte die Saiten seiner Laute mit den Wirbeln",
+      "en": "The player tuned the strings of his lute with the pegs"
+    },
+    "present": {
+      "ar": "يُنَغِّمُ الأَصْوَاتَ لِتَتَطَابَقَ مَعَ المَقَامِ",
+      "de": "Er intoniert die Töne, damit sie dem Modus entsprechen",
+      "en": "He tunes the pitches to harmonize with the mode"
+    },
+    "imperative": {
+      "ar": "نَغِّمْ بِأُذُنٍ مُرْهَفَةٍ لَا تَغْفُلُ عَنِ الدَّقَائِقِ",
+      "de": "Stimme mit feinem Gehör ohne Unachtsamkeit!",
+      "en": "Tune with a refined ear attentive to every nuance!"
+    }
+  }
+}

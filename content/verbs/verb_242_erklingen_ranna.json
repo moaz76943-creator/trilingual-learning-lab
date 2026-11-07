@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_242",
+  "lemma_ar": "رَنَّ",
+  "root": "ر-ن-ن",
+  "meaning_de": "erklingen / rein mitschwingen",
+  "meaning_en": "to ring out / resonate clearly with pure acoustic tone",
+  "conjugation": {
+    "past": {
+      "ar": "رَنَّ وَتَرُ الحَرِيرِ رَنِينًا شَجِيًّا",
+      "de": "Die Seidensaite erklang mit wehmütigem, klarem Ton",
+      "en": "The silk string rang out with a sweet, evocative resonance"
+    },
+    "present": {
+      "ar": "يَرِنُّ صَدْرُ الخَشَبِ حِينَ تَمَسُّهُ الرِّيشَةُ",
+      "de": "Der Holzkorpus resoniert, sobald das Plektrum ihn berührt",
+      "en": "The wooden soundbox resonates when the plectrum strikes"
+    },
+    "imperative": {
+      "ar": "رِنَّ بِنَغَمٍ صَافٍ يَبُثُّ الطُّمَأْنِينَةَ",
+      "de": "Klinge mit reinem Ton, der Zuversicht spendet!",
+      "en": "Ring out with pure melody that instills peace!"
+    }
+  }
+}
