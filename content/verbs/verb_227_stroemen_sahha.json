@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_227",
+  "lemma_ar": "سَحَّ",
+  "root": "س-ح-ح",
+  "meaning_de": "in vollem Schwall fließen / strömen",
+  "meaning_en": "to flow in copious continuous stream under head pressure",
+  "conjugation": {
+    "past": {
+      "ar": "سَحَّ المَاءُ النَّقِيُّ مِنْ فُوَّهَةِ الصُّعُودِ",
+      "de": "Das reine Wasser strömte aus der Auslauföffnung hervor",
+      "en": "The pure water flowed copiously from the rising outlet"
+    },
+    "present": {
+      "ar": "يَسُحُّ الجَدْوَلُ بِلَا انْقِطَاعٍ نَحْوَ الحُقُولِ",
+      "de": "Der Strom fließt ununterbrochen zu den Äckern",
+      "en": "The stream flows unceasingly toward the tilled fields"
+    },
+    "imperative": {
+      "ar": "سُحَّ بِسَخَاءٍ لِتَرْوِيَ الزَّرْعَ وَالشَّجَرَ",
+      "de": "Fließe reichlich, um Saat und Baum zu tränken!",
+      "en": "Flow copiously to nourish crops and trees!"
+    }
+  }
+}

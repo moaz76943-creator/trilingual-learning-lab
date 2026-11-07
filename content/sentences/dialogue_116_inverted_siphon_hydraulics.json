@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_116",
+  "title": {
+    "ar": "هَنْدَسَةُ سَحَّاحَاتِ المِيَاهِ المَقْلُوبَةِ لِعُبُورِ الأَوْدِيَةِ العَمِيقَةِ",
+    "de": "Bau umgekehrter Düker-Heber zur Überquerung tiefer Täler",
+    "en": "Engineering Inverted Siphon Conduits across Deep Ravines"
+  },
+  "level": "B1",
+  "topic": "traditional_hydraulics_and_inverted_siphons",
+  "lines": [
+    {
+      "speaker": "المُهَنْدِسُ سَلِيمٌ",
+      "ar": "كَيْفَ نَنْقُلُ عَيْنَ المَاءِ العَذْبِ عَبْرَ هَذَا الوَادِي الصَّخْرِيِّ دُونَ بِنَاءِ قَنَاطِرَ بَاهِظَةِ الكُلْفَةِ؟",
+      "de": "Wie führen wir das Quellwasser durch dieses Felsental, ohne kostspielige Aquäduktbrücken zu errichten?",
+      "en": "How do we convey the spring water across this rocky gorge without erecting costly soaring aqueduct arches?"
+    },
+    {
+      "speaker": "المِعْمَارِيُّ وَهْبٌ",
+      "ar": "نَمُدُّ سَحَّاحَةً مَقْلُوبَةً مِنْ أَنَابِيبِ الفَخَّارِ المُدَعَّمِ، فَيَنْحَدِرُ المَاءُ مُتَسَارِعًا ثُمَّ يَصْعَدُ بِقُوَّةِ ضَغْطِهِ.",
+      "de": "Wir verlegen einen umgekehrten Düker aus verstärktem Ton; das Wasser schießt hinab und steigt durch Eigendruck auf.",
+      "en": "We lay an inverted siphon of reinforced earthenware; water descends with momentum and ascends by its own pressure."
+    },
+    {
+      "speaker": "المُهَنْدِسُ سَلِيمٌ",
+      "ar": "حِكْمَةُ الأَوَانِي المُسْتَطْرَقَةِ تُعِيدُ الحَيَاةَ إِلَى حُقُولِ الضِّفَّةِ الأُخْرَى دُونَ هَدْرِ قَطْرَةٍ وَاحِدَةٍ.",
+      "de": "Das Gesetz der kommunizierenden Röhren bringt Leben auf die andere Talseite, ohne einen Tropfen zu vergeuden.",
+      "en": "The principle of communicating vessels restores vitality to the opposing bank without wasting a single drop."
+    }
+  ]
+}

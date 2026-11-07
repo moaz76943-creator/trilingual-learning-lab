@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_228",
+  "lemma_ar": "نَفَذَ",
+  "root": "ن-ف-ذ",
+  "meaning_de": "hindurchdringen / das Tal queren",
+  "meaning_en": "to pass completely through / penetrate and cross the gorge",
+  "conjugation": {
+    "past": {
+      "ar": "نَفَذَ المَجْرَى عَبْرَ عُمْقِ الوَادِي الصَّخْرِيِّ",
+      "de": "Der Kanal drang durch die Tiefe des Felstals",
+      "en": "The conduit passed safely through the rocky valley depths"
+    },
+    "present": {
+      "ar": "يَنْفُذُ التَّدَفُّقُ مُسْتَعِيدًا ارْتِفَاعَهُ عَلَى الهَضَبَةِ",
+      "de": "Der Fluss gewinnt auf der Hochebene seine Höhe wieder",
+      "en": "The flow penetrates across, regaining its elevation on the plateau"
+    },
+    "imperative": {
+      "ar": "انْفُذْ بِثَبَاتٍ وَاحْفَظْ صَفَاءَ المَاءِ",
+      "de": "Dringe unerschütterlich hindurch und wahre die Reinheit!",
+      "en": "Pass through steadfastly and preserve the water purity!"
+    }
+  }
+}

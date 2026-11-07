@@ -1,0 +1,33 @@
+{
+  "category_id": "121",
+  "slug": "inverted_siphons_and_pressurized_conduits",
+  "name": {
+    "ar": "أَدَوَاتُ سَحَّاحَاتِ المِيَاهِ المَقْلُوبَةِ وَأَنَابِيبِ الضَّغْطِ",
+    "de": "Umgekehrte Düker-Siphons und Druckwasserrohre",
+    "en": "Inverted Siphons and Pressurized Terracotta Conduits"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "reinforced_earthenware_pipe",
+      "ar": "أُنْبُوبُ الفَخَّارِ المُسَلَّحُ بِالمِلَاطِ",
+      "de": "Das mörtelverstärkte Ton-Druckrohr",
+      "en": "Mortar-jacketed pressurized earthenware pipe segment",
+      "asset_key": "svg_cat121_reinforced_earthenware_pipe"
+    },
+    {
+      "id": "siphon_intake_chamber",
+      "ar": "حَوْضُ اسْتِقْبَالِ السَّحَّاحَةِ العُلْوِيُّ",
+      "de": "Das obere Einlaufbecken des Dükers",
+      "en": "Elevated siphon intake settling chamber",
+      "asset_key": "svg_cat121_siphon_intake_chamber"
+    },
+    {
+      "id": "hydraulic_drain_plug",
+      "ar": "سِدَادَةُ تَفْرِيغِ الرَّوَاسِبِ النُّحَاسِيَّةُ",
+      "de": "Der kupferne Schlammablassstopfen der Talsohle",
+      "en": "Bronze valley-bottom sediment scour plug",
+      "asset_key": "svg_cat121_hydraulic_drain_plug"
+    }
+  ]
+}
