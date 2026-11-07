@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_261",
+  "lemma_ar": "أَسْقَطَ",
+  "root": "س-ق-ط",
+  "meaning_de": "projizieren / ein Bild werfen",
+  "meaning_en": "to project / cast an inverted optical image onto screen",
+  "conjugation": {
+    "past": {
+      "ar": "أَسْقَطَ الثَّقْبُ صُورَةَ المَشْهَدِ عَلَى الجِدَارِ",
+      "de": "Das Nadelöhr warf das Bild der Szene an die Wand",
+      "en": "The pinhole projected the image of the scene onto the wall"
+    },
+    "present": {
+      "ar": "يُسْقِطُ النُّورَ مَقْلُوبًا بِدِقَّةٍ بَالِغَةٍ",
+      "de": "Es projiziert das Licht mit äußerster Schärfe umgekehrt",
+      "en": "It projects the light inverted with extreme precision"
+    },
+    "imperative": {
+      "ar": "أَسْقِطِ الصُّورَةَ فِي غُرْفَةٍ مُحْكَمَةِ الظَّلَامِ",
+      "de": "Projiziere das Bild in einer vollkommen abgedunkelten Kammer!",
+      "en": "Project the image inside a completely darkened chamber!"
+    }
+  }
+}

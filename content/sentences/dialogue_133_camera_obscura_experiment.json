@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_133",
+  "title": {
+    "ar": "تَجْرِبَةُ البَيْتِ المُظْلِمِ وَدِرَاسَةُ اسْتِقَامَةِ أَنْوَارِ الشَّمْسِ",
+    "de": "Das Experiment der Camera Obscura und Nachweis der geradlinigen Lichtausbreitung",
+    "en": "The Camera Obscura Experiment and Proving the Rectilinear Path of Light"
+  },
+  "level": "B1",
+  "topic": "traditional_optics_and_camera_obscura",
+  "lines": [
+    {
+      "speaker": "الحَكِيمُ حَيَّانٌ",
+      "ar": "كَيْفَ نَحْجُبُ كُلَّ ضَوْءٍ عَنْ هَذِهِ الغُرْفَةِ مَا خَلَا ثَقْبًا مُسْتَدِيرًا فِي لَوْحِ الخَشَبِ؟",
+      "de": "Wie sperren wir alles Licht aus dieser Kammer aus, bis auf ein rundes Nadelöhr im Holzladen?",
+      "en": "How do we block all daylight from this chamber, save for a single round pinhole in the wooden shutter?"
+    },
+    {
+      "speaker": "المُتَعَلِّمُ مَرْوَانٌ",
+      "ar": "نَسُدُّ النَّوَافِذَ بِقُمَاشِ الصُّوفِ الأَسْوَدِ، فَيَنْفُذُ الشُّعَاعُ مُسْتَقِيمًا لِيَرْسُمَ الشَّجَرَةَ عَلَى الجِدَارِ الأَبْيَضِ مَقْلُوبَةً.",
+      "de": "Wir dichten die Fenster mit schwarzem Wolltuch ab; der Strahl fällt geradlinig ein und malt den Baum verkehrt an die weiße Wand.",
+      "en": "We seal the windows with black wool cloth; the ray travels straight, painting the tree inverted upon the white wall."
+    },
+    {
+      "speaker": "الحَكِيمُ حَيَّانٌ",
+      "ar": "إِنَّ هَذَا البُرْهَانَ الصَّادِقَ يَهْدِمُ الأَوْهَامَ، مُؤَكِّدًا أَنَّ النُّورَ يَسِيرُ فِي خُطُوطٍ مُسْتَقِيمَةٍ لَا عِوَجَ فِيهَا.",
+      "de": "Dieser unbestechliche Beweis tilgt jeden Irrtum und bezeugt, dass das Licht in geraden Linien ohne Krümmung wandert.",
+      "en": "This unassailable proof dispels illusions, verifying that light travels along true straight lines without deviation."
+    }
+  ]
+}

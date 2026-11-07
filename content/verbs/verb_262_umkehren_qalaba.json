@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_262",
+  "lemma_ar": "قَلَبَ",
+  "root": "ق-ل-ب",
+  "meaning_de": "umkehren / auf den Kopf stellen",
+  "meaning_en": "to invert / flip top and bottom through pinhole geometry",
+  "conjugation": {
+    "past": {
+      "ar": "قَلَبَ انْتِشَارُ الأَشِعَّةِ المَنَاظِرَ رَأْسًا عَلَى عَقِبٍ",
+      "de": "Die Strahlenkreuzung stellte die Landschaft auf den Kopf",
+      "en": "The ray crossing inverted the vista upside down"
+    },
+    "present": {
+      "ar": "يَقْلِبُ الضَّوْءَ نَتِيجَةَ سَيْرِهِ فِي خُطُوطٍ مُسْتَقِيمَةٍ",
+      "de": "Es kehrt das Licht um, weil es sich geradlinig ausbreitet",
+      "en": "It inverts light as a consequence of its rectilinear path"
+    },
+    "imperative": {
+      "ar": "اقْلِبِ الشَّاشَةَ لِتُعَايِنَ انْطِبَاعَ الأَلْوَانِ",
+      "de": "Richte den Schirm aus, um das Farbenspiel zu prüfen!",
+      "en": "Align the screen to examine the color fidelity!"
+    }
+  }
+}

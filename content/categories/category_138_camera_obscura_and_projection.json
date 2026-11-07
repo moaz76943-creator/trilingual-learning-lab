@@ -1,0 +1,33 @@
+{
+  "category_id": "138",
+  "slug": "camera_obscura_and_projection",
+  "name": {
+    "ar": "أَدَوَاتُ البَيْتِ المُظْلِمِ وَعِلْمِ الإِسْقَاطِ البَصَرِيِّ",
+    "de": "Camera Obscura, Lochblenden und Projektionsschirme",
+    "en": "Camera Obscura, Pinhole Apertures and Projection Screens"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "brass_pinhole_aperture",
+      "ar": "صَفِيحَةُ الثَّقْبِ النُّحَاسِيَّةُ المَثْقُوبَةُ",
+      "de": "Die feingelochte Messing-Lochblende",
+      "en": "Precision-drilled brass pinhole aperture disc",
+      "asset_key": "svg_cat138_brass_pinhole_aperture"
+    },
+    {
+      "id": "white_projection_screen",
+      "ar": "شَاشَةُ الإِسْقَاطِ الكَتَّانِيَّةُ البَيْضَاءُ",
+      "de": "Der weiße Leinen-Projektionsschirm",
+      "en": "Bleached white linen optical projection screen",
+      "asset_key": "svg_cat138_white_projection_screen"
+    },
+    {
+      "id": "lightproof_shutter_panel",
+      "ar": "لَوْحُ حَجْبِ الضَّوْءِ الخَشَبِيُّ",
+      "de": "Der lichtdichte hölzerne Verdunkelungsladen",
+      "en": "Lightproof hardwood blackout shutter panel",
+      "asset_key": "svg_cat138_lightproof_shutter_panel"
+    }
+  ]
+}
