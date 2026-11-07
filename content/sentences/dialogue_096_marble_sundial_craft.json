@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_096",
+  "title": {
+    "ar": "بِنَاءُ سَاعَةِ الظِّلِّ الشَّمْسِيَّةِ الرُّخَامِيَّةِ لِضَبْطِ المَوَاقِيتِ",
+    "de": "Bau der marmornen Sonnenuhr zur Zeitmessung",
+    "en": "Constructing the Marble Sundial for Accurate Solar Timing"
+  },
+  "level": "B1",
+  "topic": "traditional_chronometry_and_gnomonics",
+  "lines": [
+    {
+      "speaker": "إِلْيَاسُ",
+      "ar": "كَيْفَ نَضْبِطُ مَيَلَانَ شَاخِصِ المِزْوَلَةِ النُّحَاسِيِّ لِيَتَطَابَقَ مَعَ خَطِّ عَرْضِ بَلَدِنَا؟",
+      "de": "Wie richten wir die Neigung des Messing-Gnomons auf den Breitengrad unseres Ortes aus?",
+      "en": "How do we calibrate the tilt of the brass gnomon to match the geographic latitude of our town?"
+    },
+    {
+      "speaker": "عِمَادُ الدِّينِ",
+      "ar": "نُوَجِّهُهُ نَحْوَ القُطْبِ الشَّمَالِيِّ بِدِقَّةٍ، ثُمَّ نَحْفِرُ خُطُوطَ السَّاعَاتِ عَلَى قُرْصِ الرُّخَامِ الأَبْيَضِ.",
+      "de": "Wir peilen genau nach Norden und ritzen die Stundenlinien auf die weiße Marmorscheibe.",
+      "en": "We align it true north with precision, then carve the hour lines across the white marble dial."
+    },
+    {
+      "speaker": "إِلْيَاسُ",
+      "ar": "عِنْدَمَا يَتَحَرَّكُ الظِّلُّ فَوْقَ الرُّخَامِ، يَعْرِفُ أَهْلُ المَدِينَةِ حُلُولَ الصَّلَوَاتِ وَمَوَاعِيدَ العَمَلِ.",
+      "de": "Wandert der Schatten über den Marmor, so kennen die Bürger die Gebetszeiten und Tagwerke.",
+      "en": "When the shadow traverses the marble, the townsfolk ascertain prayer times and daily labors."
+    }
+  ]
+}

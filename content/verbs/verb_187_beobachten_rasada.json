@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_187",
+  "lemma_ar": "رَصَدَ",
+  "root": "ر-ص-د",
+  "meaning_de": "beobachten / den Schattenstand messen",
+  "meaning_en": "to observe shadow transit / monitor solar culmination",
+  "conjugation": {
+    "past": {
+      "ar": "رَصَدَ المُوَقِّتُ مَسَارَ ظِلِّ الشَّمْسِ",
+      "de": "Der Zeitmesser beobachtete die Bahn des Sonnenschattens",
+      "en": "The chronometer observed the sun shadow path"
+    },
+    "present": {
+      "ar": "يَرْصُدُ زَوَالَ الشَّمْسِ بِعِنَايَةٍ بَالِغَةٍ",
+      "de": "Er beobachtet den Sonnenhöchststand mit größter Sorgfalt",
+      "en": "He monitors the midday solar transit with extreme care"
+    },
+    "imperative": {
+      "ar": "ارْصُدْ عِنْدَ انْتِصَافِ النَّهَارِ",
+      "de": "Miss den Schatten genau am Mittag!",
+      "en": "Observe precisely at high noon!"
+    }
+  }
+}

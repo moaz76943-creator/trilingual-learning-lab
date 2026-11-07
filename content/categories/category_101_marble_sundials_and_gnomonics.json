@@ -1,0 +1,33 @@
+{
+  "category_id": "101",
+  "slug": "marble_sundials_and_gnomonics",
+  "name": {
+    "ar": "أَدَوَاتُ المَزَاوِلِ الشَّمْسِيَّةِ الرُّخَامِيَّةِ وَعِلْمِ المِيقَاتِ",
+    "de": "Marmorne Sonnenuhren und Gnomonik-Instrumente",
+    "en": "Marble Sundials and Solar Chronometry Implements"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "brass_gnomon",
+      "ar": "شَاخِصُ المِزْوَلَةِ النُّحَاسِيُّ",
+      "de": "Der schattenwerfende Messing-Gnomon",
+      "en": "Brass shadow-casting gnomon pointer",
+      "asset_key": "svg_cat101_brass_gnomon"
+    },
+    {
+      "id": "marble_dial_plate",
+      "ar": "قُرْصُ الرُّخَامِ المَنْقُوشُ",
+      "de": "Das gravierte weiße Marmor-Zifferblatt",
+      "en": "Engraved white marble dial face",
+      "asset_key": "svg_cat101_marble_dial_plate"
+    },
+    {
+      "id": "hour_chisel",
+      "ar": "أَزْمِيلُ حَفْرِ خُطُوطِ السَّاعَاتِ",
+      "de": "Der Meißel zum Einschlagen der Stundenlinien",
+      "en": "Fine chisel for engraving sundial hour lines",
+      "asset_key": "svg_cat101_hour_chisel"
+    }
+  ]
+}
