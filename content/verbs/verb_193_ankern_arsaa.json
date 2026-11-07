@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_193",
+  "lemma_ar": "أَرْسَى",
+  "root": "ر-س-و",
+  "meaning_de": "vor Anker gehen / festmachen",
+  "meaning_en": "to anchor / dock firmly in harbor",
+  "conjugation": {
+    "past": {
+      "ar": "أَرْسَى النَّوْخِذَةُ سَفِينَتَهُ فِي الخَلِيجِ الهَادِئِ",
+      "de": "Der Kapitän ankerte sein Schiff in der ruhigen Bucht",
+      "en": "The captain anchored his ship in the peaceful bay"
+    },
+    "present": {
+      "ar": "يُرْسِي المَرْكَبَ عِنْدَ الرَّصِيفِ الحَجَرِيِّ",
+      "de": "Er macht das Fahrzeug am Steinkai fest",
+      "en": "He moors the craft by the stone pier"
+    },
+    "imperative": {
+      "ar": "أَرْسِ المِرْسَاةَ فِي أَمَانٍ وَاطْمِئْنَانٍ",
+      "de": "Wirf den Anker in Frieden und Sicherheit!",
+      "en": "Drop anchor with calm peace and confidence!"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_099",
+  "title": {
+    "ar": "إِلْقَاءُ المِرْسَاةِ الحَدِيدِيَّةِ وَالرُّسُوُّ فِي حَوْضِ المِينَاءِ",
+    "de": "Werfen des eisernen Ankers und Einlaufen in den Hafen",
+    "en": "Dropping the Forged Iron Anchor and Docking in Harbor"
+  },
+  "level": "B1",
+  "topic": "traditional_maritime_anchorage_and_hospitality",
+  "lines": [
+    {
+      "speaker": "البَحَّارُ مَرْزُوقٌ",
+      "ar": "هَلْ أَنْزَلْنَا شِرَاعَ السَّفِينَةِ الرَّئِيسَ لِنُهَدِّئَ سُرْعَتَهَا عِنْدَ مَدْخَلِ الخَوْرِ؟",
+      "de": "Haben wir das Hauptsegel gerefft, um die Fahrt an der Hafeneinfahrt zu drosseln?",
+      "en": "Have we lowered the mainsail to ease our speed at the mouth of the bay?"
+    },
+    {
+      "speaker": "الرَّبَّانُ إِبْرَاهِيمُ",
+      "ar": "نَعَمْ، وَأَلْقَيْنَا أَنْجَرَ الحَدِيدِ المَطْرُوقِ فِي القَاعِ الرَّمْلِيِّ لِيَمْسِكَ السَّفِينَةَ بِثَبَاتٍ.",
+      "de": "Ja, und wir warfen den geschmiedeten Eisenanker auf den Sandgrund, damit er das Schiff fest hält.",
+      "en": "Yes, and we dropped the forged iron anchor into sandy seabed to hold the vessel firmly."
+    },
+    {
+      "speaker": "البَحَّارُ مَرْزُوقٌ",
+      "ar": "وَهَا هُمْ أَهْلُ المَرْفَأِ يَسْتَقْبِلُونَ القَافِلَةَ البَحْرِيَّةَ بِالتَّمْرِ وَالمَاءِ العَذْبِ الزُّلَالِ.",
+      "de": "Und da empfangen die Hafenbewohner die Meereskarawane mit Datteln und süßem Quellwasser.",
+      "en": "And here the harbor folk welcome the sea caravan with dates and cool, sweet spring water."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_194",
+  "lemma_ar": "رَبَطَ",
+  "root": "ر-ب-ط",
+  "meaning_de": "vertäuen / anbinden",
+  "meaning_en": "to lash / tie mooring ropes securely to bollard",
+  "conjugation": {
+    "past": {
+      "ar": "رَبَطَ البَحَّارُ حَبْلَ الرُّسُوِّ بِالرَّبَّاطَةِ",
+      "de": "Der Seemann vertäute das Tau am Poller",
+      "en": "The sailor secured the mooring line to the bollard"
+    },
+    "present": {
+      "ar": "يَرْبُطُ المَشَدَّ بِعُقْدَةٍ بَحْرِيَّةٍ مُحْكَمَةٍ",
+      "de": "Er bindet die Leine mit festem Seemannsknoten",
+      "en": "He ties the rope with a steadfast marine knot"
+    },
+    "imperative": {
+      "ar": "ارْبُطْ بِإِحْكَامٍ يَثْبُتُ أَمَامَ المَدِّ وَالجَزْرِ",
+      "de": "Vertäue sicher gegen Ebbe und Flut!",
+      "en": "Tie firmly to hold against ebb and tide!"
+    }
+  }
+}

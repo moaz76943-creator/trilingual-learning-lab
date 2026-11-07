@@ -1,0 +1,33 @@
+{
+  "category_id": "104",
+  "slug": "harbor_anchorage_and_mooring",
+  "name": {
+    "ar": "أَدَوَاتُ مَرَاسِي المَوَانِئِ وَحِبَالِ الرُّسُوِّ التُّرَاثِيَّةُ",
+    "de": "Hafenanker und traditionelle Festmachetaue",
+    "en": "Harbor Anchors and Traditional Mooring Tackle"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "forged_anchor",
+      "ar": "مِرْسَاةُ الحَدِيدِ المَطْرُوقَةُ",
+      "de": "Der geschmiedete eiserne Stockanker",
+      "en": "Hand-forged iron stock anchor",
+      "asset_key": "svg_cat104_forged_anchor"
+    },
+    {
+      "id": "mooring_cable",
+      "ar": "حَبْلُ الرُّسُوِّ المَجْدُولُ",
+      "de": "Die geflochtene Festmachetrosse",
+      "en": "Braided natural hemp mooring cable",
+      "asset_key": "svg_cat104_mooring_cable"
+    },
+    {
+      "id": "stone_bollard",
+      "ar": "رَبَّاطَةُ الرَّصِيفِ الحَجَرِيَّةُ",
+      "de": "Der steinerne Haltepoller am Kai",
+      "en": "Carved stone dockside mooring bollard",
+      "asset_key": "svg_cat104_stone_bollard"
+    }
+  ]
+}
