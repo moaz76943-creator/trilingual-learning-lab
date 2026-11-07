@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_185",
+  "lemma_ar": "نَقَشَ",
+  "root": "ن-ق-ش",
+  "meaning_de": "ziselieren / gravieren",
+  "meaning_en": "to chase / engrave decorative patterns on metal",
+  "conjugation": {
+    "past": {
+      "ar": "نَقَشَ الصَّائِغُ حَوَافَّ الإِبْرِيقِ الفِضِّيِّ",
+      "de": "Der Silberschmied ziselierte den Rand der Kanne",
+      "en": "The silversmith engraved the rim of the silver ewer"
+    },
+    "present": {
+      "ar": "يَنْقُشُ الزَّخَارِفَ بِدِقَّةٍ وَإِبْدَاعٍ",
+      "de": "Er graviert die Muster mit Präzision und Kunstsinn",
+      "en": "He chases the arabesques with precision and artistry"
+    },
+    "imperative": {
+      "ar": "انْقُشْ بِثَبَاتِ المِنْقَاشِ دُونَ ارْتِجَافٍ",
+      "de": "Ziseliere mit ruhiger Hand ohne Zittern!",
+      "en": "Engrave with a steady burin without flinching!"
+    }
+  }
+}

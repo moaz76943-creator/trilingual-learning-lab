@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_095",
+  "title": {
+    "ar": "صِيَاغَةُ صَفَائِحِ الفِضَّةِ وَنَقْشُ الحِلْيِ بِالمِنْقَاشِ",
+    "de": "Ziselieren von Silberplatten und Gravur mit dem Grabstichel",
+    "en": "Chasing Silver Plates and Engraving with the Burin"
+  },
+  "level": "B1",
+  "topic": "traditional_silversmithing_and_jewelry_art",
+  "lines": [
+    {
+      "speaker": "سِرَاجٌ",
+      "ar": "كَيْفَ نُثَبِّتُ صَفِيحَةَ الفِضَّةِ قَبْلَ أَنْ نَطْرُقَ نُقُوشَهَا بِالمِنْقَاشِ وَالمِطْرَقَةِ؟",
+      "de": "Wie befestigen wir das Silberblech, bevor wir seine Verzierungen mit Punzen und Hammer treiben?",
+      "en": "How do we secure the silver plate before chasing its patterns with burin and hammer?"
+    },
+    {
+      "speaker": "نَذِيرٌ",
+      "ar": "نَصُبُّ خَلْفَهَا وِسَادَةً مِنْ قَارِ النَّبَاتِ اللَّيِّنِ؛ لِيَمْتَصَّ الصَّدَمَاتِ فَلَا تَنْثَقِبَ الفِضَّةُ الرَّقِيقَةُ.",
+      "de": "Wir gießen ein Bett aus weichem Pflanzenpech dahinter, das die Stöße dämpft, damit das Blech nicht reißt.",
+      "en": "We bed it on a cushion of soft pitch to absorb the blows so the delicate silver does not puncture."
+    },
+    {
+      "speaker": "سِرَاجٌ",
+      "ar": "سَأَحْفِرُ زَخَارِفَ هَنْدَسِيَّةً مُتَنَاظِرَةً تَزْدَانُ بِهَا أَبَارِيقُ المَاءِ العَذْبِ.",
+      "de": "Ich werde symmetrische geometrische Ornamente gravieren, die frische Wasserkrüge zieren.",
+      "en": "I will engrave symmetrical geometric arabesques to adorn fresh water flagons."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "category_id": "100",
+  "slug": "silversmithing_and_chasing",
+  "name": {
+    "ar": "أَدَوَاتُ صِيَاغَةِ الفِضَّةِ وَمَنَاقِيشِ النَّقْشِ التُّرَاثِيَّةُ",
+    "de": "Silberschmiedewerkzeuge und Ziselierpunzen",
+    "en": "Silversmithing Implements and Chasing Burins"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "chasing_burin",
+      "ar": "مِنْقَاشُ النَّقْشِ الفُولَاذِيُّ",
+      "de": "Der stählerne Ziselierstichel",
+      "en": "Hardened steel chasing burin",
+      "asset_key": "svg_cat100_chasing_burin"
+    },
+    {
+      "id": "pitch_bowl",
+      "ar": "وِسَادَةُ القَارِ لِتَثْبِيتِ الصَّفَائِحِ",
+      "de": "Die Pechkugel zur Blechbefestigung",
+      "en": "Chasing pitch bowl support",
+      "asset_key": "svg_cat100_pitch_bowl"
+    },
+    {
+      "id": "horn_mallet",
+      "ar": "مِطْرَقَةُ القَرْنِ لِتَسْوِيَةِ المَعْدِنِ",
+      "de": "Der Hornhammer zum Richten von Silber",
+      "en": "Horn mallet for non-marring silver planishing",
+      "asset_key": "svg_cat100_horn_mallet"
+    }
+  ]
+}

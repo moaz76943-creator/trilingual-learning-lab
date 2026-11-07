@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_186",
+  "lemma_ar": "سَبَكَ",
+  "root": "س-ب-ك",
+  "meaning_de": "gießen / legieren",
+  "meaning_en": "to cast molten metal / smelt unadulterated ingots",
+  "conjugation": {
+    "past": {
+      "ar": "سَبَكَ المَعْدِنِيُّ الفِضَّةَ النَّقِيَّةَ فِي القَالَبِ",
+      "de": "Der Metaller goss das reine Silber in die Form",
+      "en": "The metallurgist cast pure silver into the mold"
+    },
+    "present": {
+      "ar": "يَسْبُكُ السَّبَائِكَ بِعِيَارٍ صَحِيحٍ مُعْتَمَدٍ",
+      "de": "Er gießt die Barren nach streng genormtem Feingehalt",
+      "en": "He casts ingots to a certified accurate standard"
+    },
+    "imperative": {
+      "ar": "اسْبُكْ بَعْدَ تَخْلِيصِ المَعْدِنِ مِنَ الشَّوَائِبِ",
+      "de": "Gieße erst nach vollständiger Schlackentrennung!",
+      "en": "Cast only after purifying the melt of all dross!"
+    }
+  }
+}
