@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_135",
+  "title": {
+    "ar": "رَسْمُ أَزْرَقِ الكُوبَالْتِ تَحْتَ الطِّلَاءِ وَصِنَاعَةُ الصُّحُونِ اللَّازَوَرْدِيَّةِ",
+    "de": "Unterglasurmalerei mit Kobaltblau und Brennen von Lapis-Schalen",
+    "en": "Painting Underglaze Cobalt Blue and Firing Lapis-Glazed Bowls"
+  },
+  "level": "B1",
+  "topic": "traditional_ceramics_and_cobalt_underglaze",
+  "lines": [
+    {
+      "speaker": "الخَزَّافُ عِمَادُ الدِّينِ",
+      "ar": "كَيْفَ نَحُلُّ مَسْحُوقَ حَجَرِ اللَّازَوَرْدِ الكُوبَالْتِيِّ لِيَنْسَابَ عَلَى الطِّينِ الأَبْيَضِ الجَافِّ؟",
+      "de": "Wie lösen wir das kobaltblaue Gesteinspulver an, damit es flüssig über den weißen Biskuit gleitet?",
+      "en": "How do we dissolve the cobalt lapis mineral powder so it glides smoothly across the dry white bisque?"
+    },
+    {
+      "speaker": "المُتَعَلِّمُ أَدِيبٌ",
+      "ar": "نَمْزِجُهُ بِمَاءِ الصَّمْغِ العَرَبِيِّ الرَّقِيقِ، ثُمَّ نَخُطُّ الأَوْرَاقَ النَّبَاتِيَّةَ قَبْلَ غَمْسِ الصَّحْنِ فِي حَوْضِ الزُّجَاجِ الشَّفَّافِ.",
+      "de": "Wir rühren es mit feinem Gummi-arabicum-Wasser an, malen die Ranken und tauchen die Schale in Klarglasur.",
+      "en": "We blend it with thin gum arabic water, paint the floral vines, and dip the bowl into the clear glaze vat."
+    },
+    {
+      "speaker": "الخَزَّافُ عِمَادُ الدِّينِ",
+      "ar": "عِنْدَمَا تَخْرُجُ الصُّحُونُ مِنَ الأَتُونِ، يَبْدُو الأَزْرَقُ عَمِيقًا كَسَمَاءِ الصَّيْفِ الصَّافِيَةِ، يَسُرُّ النَّاظِرِينَ.",
+      "de": "Verlässt das Geschirr den Ofen, strahlt das Blau tief wie der klare Sommerhimmel und erfreut das Auge.",
+      "en": "When the bowls emerge from the kiln, the blue glows deep like a clear summer sky, gladdening the beholder."
+    }
+  ]
+}

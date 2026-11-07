@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_266",
+  "lemma_ar": "شَفَّ",
+  "root": "ش-ف-ف",
+  "meaning_de": "durchscheinen / transparent werden",
+  "meaning_en": "to reveal transparently / show clearly beneath vitreous glaze",
+  "conjugation": {
+    "past": {
+      "ar": "شَفَّ الطِّلَاءُ الزُّجَاجِيُّ عَنْ نُقُوشِ الكُوبَالْتِ البَدِيعَةِ",
+      "de": "Die Klarglasur ließ die meisterhaften Kobaltmuster durchscheinen",
+      "en": "The clear glaze revealed the exquisite cobalt motifs beneath"
+    },
+    "present": {
+      "ar": "يَشِفُّ الزُّجَاجُ عَنْ صَفَاءِ اللَّوْنِ تَحْتَهُ",
+      "de": "Das Glas lässt die Reinheit der darunterliegenden Farbe leuchten",
+      "en": "The glass reveals the pure radiance of the color underneath"
+    },
+    "imperative": {
+      "ar": "اشْفِفْ بِنَقَاءٍ يُبْرِزُ إِتْقَانَ الصَّانِعِ",
+      "de": "Lasse das Werk in vollendeter Reinheit durchscheinen!",
+      "en": "Reveal the masterwork with unclouded purity!"
+    }
+  }
+}

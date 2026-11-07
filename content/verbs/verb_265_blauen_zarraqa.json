@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_265",
+  "lemma_ar": "زَرَّقَ_خَزَف",
+  "root": "ز-ر-ق",
+  "meaning_de": "kobaltblau bemalen / unterglasieren",
+  "meaning_en": "to paint in cobalt blue / apply lapis underglaze",
+  "conjugation": {
+    "past": {
+      "ar": "زَرَّقَ الخَزَّافُ جَوَانِبَ الصَّحْنِ بِالكُوبَالْتِ",
+      "de": "Der Töpfer bemalte die Ränder der Schale mit Kobaltblau",
+      "en": "The potter painted the rim of the bowl in cobalt blue"
+    },
+    "present": {
+      "ar": "يُزَرِّقُ الأَزْهَارَ بِرِيشَةٍ دَقِيقَةِ الأَطْرَافِ",
+      "de": "Er malt die Blüten mit feinspitzigem Pinsel blau",
+      "en": "He paints the floral motifs in blue with a fine-tipped brush"
+    },
+    "imperative": {
+      "ar": "زَرِّقْ بِتَمَاسُكٍ لَا يُسِيلُ اللَّوْنَ",
+      "de": "Trage das Blau mit ruhiger Hand ohne Verlaufen auf!",
+      "en": "Paint in blue with steady hand without bleeding!"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "category_id": "140",
+  "slug": "cobalt_underglaze_ceramics",
+  "name": {
+    "ar": "أَدَوَاتُ خَزَفِ الكُوبَالْتِ وَالأَصْبَاغِ اللَّازَوَرْدِيَّةِ التُّرَاثِيَّةُ",
+    "de": "Kobalt-Unterglasurkeramik und traditionelle Lapis-Pigmente",
+    "en": "Cobalt Underglaze Ceramics and Lapis Mineral Pigments"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "cobalt_oxide_cake",
+      "ar": "قُرْصُ أُكْسِيدِ الكُوبَالْتِ النَّقِيُّ",
+      "de": "Der reine Kobaltoxid-Farbkuchen",
+      "en": "Refined cobalt mineral underglaze pigment cake",
+      "asset_key": "svg_cat140_cobalt_oxide_cake"
+    },
+    {
+      "id": "fine_lining_brush",
+      "ar": "رِيشَةُ التَّحْبِيرِ الخَزَفِيَّةُ النَّاعِمَةُ",
+      "de": "Der feine Keramik-Konturenpinsel",
+      "en": "Fine goat-hair ceramic lining brush",
+      "asset_key": "svg_cat140_fine_lining_brush"
+    },
+    {
+      "id": "transparent_glaze_vat",
+      "ar": "خَابِيَةُ الطِّلَاءِ الزُّجَاجِيِّ الشَّفَّافِ",
+      "de": "Die Wanne mit transparenter Klarglasur",
+      "en": "Glaze dipping vat with transparent alkali suspension",
+      "asset_key": "svg_cat140_transparent_glaze_vat"
+    }
+  ]
+}
