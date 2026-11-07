@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_106",
+  "title": {
+    "ar": "رَفْعُ مِيَاهِ النَّهْرِ بِالشَّادُوفِ التُّرَاثِيِّ لِسَقْيِ البَسَاتِينِ",
+    "de": "Heben des Flusswassers mit dem traditionellen Schaduf",
+    "en": "Lifting River Water with the Heritage Irrigation Shaduf"
+  },
+  "level": "B1",
+  "topic": "traditional_irrigation_and_lever_mechanics",
+  "lines": [
+    {
+      "speaker": "المُزَارِعُ كِنَانٌ",
+      "ar": "كَيْفَ نُوَازِنُ كُتْلَةَ الطِّينِ وَالحَجَرِ عِنْدَ طَرَفِ الجِذْعِ لِيَسْهُلَ رَفْعُ دَلْوِ الجِلْدِ المَلِيءِ؟",
+      "de": "Wie tarieren wir das Lehm- und Steingewicht am Balkenende aus, um den vollen Ledereimer leicht zu heben?",
+      "en": "How do we balance the clay and stone mass at the beam end to lift the filled leather bucket with ease?"
+    },
+    {
+      "speaker": "الفَلَّاحُ رَيَّانٌ",
+      "ar": "نَجْعَلُ ثِقَلَ الحَجَرِ مُسَاوِيًا لِثِقَلِ نِصْفِ الدَّلْوِ، فَيَنْزِلُ خَفِيفًا وَيَرْتَفِعُ بِلَا مَشَقَّةٍ.",
+      "de": "Wir stimmen das Gegengewicht auf das halbe Eimervolumen ab; so senkt er sich leicht und steigt mühelos.",
+      "en": "We calibrate the counterweight to equal half the bucket weight; thus it dips lightly and rises without strain."
+    },
+    {
+      "speaker": "المُزَارِعُ كِنَانٌ",
+      "ar": "إِنَّ الشَّادُوفَ حِكْمَةٌ أَصِيلَةٌ تَرْوِي حُقُولَ الحِنْطَةِ وَتَحْفَظُ جُهْدَ الزَّارِعِ فِي هَجِيرِ النَّهَارِ.",
+      "de": "Der Schaduf ist eine edle Erfindung, die Weizenfelder tränkt und die Kraft des Bauern in der Glut schont.",
+      "en": "The shaduf is an ancient wisdom that waters wheat fields while conserving the farmer's strength in noon heat."
+    }
+  ]
+}

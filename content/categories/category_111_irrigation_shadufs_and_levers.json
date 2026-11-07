@@ -1,0 +1,33 @@
+{
+  "category_id": "111",
+  "slug": "irrigation_shadufs_and_levers",
+  "name": {
+    "ar": "أَدَوَاتُ الشَّادُوفِ التُّرَاثِيِّ وَرَفْعِ مِيَاهِ الآبَارِ",
+    "de": "Traditionelle Schadufs und Hebel-Ziehbrunnen",
+    "en": "Heritage Irrigation Shadufs and Lever Well Implements"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "shaduf_lever_beam",
+      "ar": "ذِرَاعُ الشَّادُوفِ الخَشَبِيُّ",
+      "de": "Der hölzerne Schaduf-Hebelbalken",
+      "en": "Pivoting hardwood shaduf lever arm",
+      "asset_key": "svg_cat111_shaduf_lever_beam"
+    },
+    {
+      "id": "tanned_leather_bucket",
+      "ar": "دَلْوُ الجِلْدِ المَدْبُوغُ",
+      "de": "Der gegerbte lederne Schöpfeimer",
+      "en": "Tanned leather water-drawing bucket",
+      "asset_key": "svg_cat111_tanned_leather_bucket"
+    },
+    {
+      "id": "counterweight_stone",
+      "ar": "ثِقَالَةُ الطِّينِ وَالحَجَرِ لِلْمُعَادَلَةِ",
+      "de": "Das steinerne Gegengewicht des Schadufs",
+      "en": "Mud-and-stone balancing counterweight",
+      "asset_key": "svg_cat111_counterweight_stone"
+    }
+  ]
+}

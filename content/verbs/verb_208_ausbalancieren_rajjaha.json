@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_208",
+  "lemma_ar": "رَجَّحَ",
+  "root": "ر-ج-ح",
+  "meaning_de": "ausbalancieren / das Gegengewicht wiegen",
+  "meaning_en": "to counterbalance / weight lever arm for effortless lift",
+  "conjugation": {
+    "past": {
+      "ar": "رَجَّحَ المُزَارِعُ ذِرَاعَ الشَّادُوفِ بِالحَجَرِ",
+      "de": "Der Landwirt tarierte den Schadufbalken mit dem Stein aus",
+      "en": "The farmer counterbalanced the shaduf arm with the stone"
+    },
+    "present": {
+      "ar": "يُرَجِّحُ الكِفَّةَ لِتَرْتَفِعَ بِأَقَلِّ جُهْدٍ",
+      "de": "Er gleicht die Last aus, damit sie mit geringster Mühe steigt",
+      "en": "He counterbalances the load so it rises with minimal effort"
+    },
+    "imperative": {
+      "ar": "رَجِّحِ الثِّقَلَ حَتَّى يَسْتَقِيمَ المِيزَانُ",
+      "de": "Tariere das Gewicht aus, bis die Balance stimmt!",
+      "en": "Counterbalance the weight until the lever balances true!"
+    }
+  }
+}

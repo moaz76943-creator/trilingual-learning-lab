@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_207",
+  "lemma_ar": "نَزَحَ",
+  "root": "ن-ز-ح",
+  "meaning_de": "schöpfen / Wasser mit dem Eimer heben",
+  "meaning_en": "to draw water / bail water with shaduf bucket",
+  "conjugation": {
+    "past": {
+      "ar": "نَزَحَ الفَلَّاحُ المَاءَ العَذْبَ مِنَ النَّهْرِ",
+      "de": "Der Bauer schöpfte das frische Wasser aus dem Fluss",
+      "en": "The farmer drew fresh water from the river"
+    },
+    "present": {
+      "ar": "يَنْزَحُ البِئْرَ لِيَرْوِيَ غِرَاسَ الزَّيْتُونِ",
+      "de": "Er schöpft den Brunnen, um die Olivenpflanzung zu tränken",
+      "en": "He draws from the well to irrigate the olive saplings"
+    },
+    "imperative": {
+      "ar": "انْزَحْ بِرِفْقٍ دُونَ إِتْلَافِ الدَّلْوِ",
+      "de": "Schöpfe behutsam, ohne den Eimer zu beschädigen!",
+      "en": "Draw gently without damaging the bucket!"
+    }
+  }
+}
