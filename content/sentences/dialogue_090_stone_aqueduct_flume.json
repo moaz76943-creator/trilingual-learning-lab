@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_090",
+  "title": {
+    "ar": "بِنَاءُ سَوَاقِي الحَجَرِ المَنْحُوتِ لِجَلْبِ مِيَاهِ اليَنَابِيعِ",
+    "de": "Bau von Haustein-Aquädukten zur Quellwasserführung",
+    "en": "Constructing Ashlar Aqueduct Channels for Spring Water"
+  },
+  "level": "B1",
+  "topic": "traditional_hydraulics_and_civil_craft",
+  "lines": [
+    {
+      "speaker": "حَسَّانٌ",
+      "ar": "كَيْفَ نَحْفِرُ مَجْرَى السَّاقِيَةِ فِي الحَجَرِ الكِلْسِيِّ لِيَمْنَعَ تَسَرُّبَ النَّبْعِ العَذْبِ؟",
+      "de": "Wie meißeln wir die Rinne in den Kalkstein, um das Versickern der frischen Quelle zu verhindern?",
+      "en": "How do we chisel the aqueduct flume into limestone to prevent sweet spring water from seeping away?"
+    },
+    {
+      "speaker": "مِهْيَارٌ",
+      "ar": "نَنْحَتُ حَوْضًا نِصْفَ دَائِرِيٍّ أَمْلَسَ، ثُمَّ نَلْحَمُ المَفَاصِلَ بِكِلْسٍ مَعْجُونٍ بِزَيْتِ الكَتَّانِ.",
+      "de": "Wir hauen eine glatte halbrunde Rinne und dichten die Fugen mit leinölversetztem Kalkmörtel ab.",
+      "en": "We carve a smooth semicircular trough and seal the joints with linseed-oil tempered lime mortar."
+    },
+    {
+      "speaker": "حَسَّانٌ",
+      "ar": "إِنَّ إِيصَالَ المَاءِ إِلَى بَسَاتِينِ القَرْيَةِ عَمَلٌ صَالِحٌ يُحْيِي الأَرْضَ وَيُسْعِدُ أَهْلَهَا.",
+      "de": "Das Leiten des Wassers zu den dörflichen Hainen ist ein edles Werk, das die Erde belebt und Menschen erfreut.",
+      "en": "Bringing water to the village groves is a noble deed that revives the soil and gladdens the community."
+    }
+  ]
+}

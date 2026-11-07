@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_176",
+  "lemma_ar": "لَحَمَ",
+  "root": "ل-ح-م",
+  "meaning_de": "Fugen abdichten / mit Mörtel verbinden",
+  "meaning_en": "to seal joints / cement stones water-tight",
+  "conjugation": {
+    "past": {
+      "ar": "لَحَمَ الحِرَفِيُّ مَفَاصِلَ السَّاقِيَةِ",
+      "de": "Der Handwerker dichtete die Fugen der Rinne ab",
+      "en": "The artisan sealed the flume stone joints"
+    },
+    "present": {
+      "ar": "يَلْحَمُ الشُّقُوقَ بِمِلَاطٍ مُقَاوِمٍ لِلْمَاءِ",
+      "de": "Er versiegelt die Ritzen mit wasserfestem Mörtel",
+      "en": "He cements crevices with water-resistant mortar"
+    },
+    "imperative": {
+      "ar": "الْحَمْ بِعِنَايَةٍ تَمْنَعُ النَّضْحَ",
+      "de": "Dichte sorgsam ab, um Leckagen zu verhindern!",
+      "en": "Seal meticulously to prevent seepage!"
+    }
+  }
+}

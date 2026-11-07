@@ -1,0 +1,33 @@
+{
+  "category_id": "095",
+  "slug": "stone_aqueducts_and_channels",
+  "name": {
+    "ar": "أَدَوَاتُ سَوَاقِي المِيَاهِ وَقَنَوَاتِ اليَنَابِيعِ التُّرَاثِيَّةُ",
+    "de": "Quellwasser-Rinnen und Haustein-Aquädukte",
+    "en": "Stone Aqueducts and Spring Water Channel Tools"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "chiseled_flume",
+      "ar": "سَاقِيَةُ الحَجَرِ المَنْحُوتُ",
+      "de": "Die gemeißelte Haustein-Wasserrinne",
+      "en": "Chiseled ashlar stone water flume",
+      "asset_key": "svg_cat095_chiseled_flume"
+    },
+    {
+      "id": "hydraulic_level",
+      "ar": "مِيزَانُ المَاءِ التُّرَاثِيُّ",
+      "de": "Die traditionelle Schlauchwasserwaage",
+      "en": "Traditional hydrostatic water level gauge",
+      "asset_key": "svg_cat095_hydraulic_level"
+    },
+    {
+      "id": "linseed_mortar",
+      "ar": "مِلَاطُ الزَّيْتِ لِسَدِّ المَفَاصِلِ",
+      "de": "Der wasserfeste Leinöl-Dichtmörtel",
+      "en": "Waterproof linseed-oil joint mortar",
+      "asset_key": "svg_cat095_linseed_mortar"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_175",
+  "lemma_ar": "سَاقَى",
+  "root": "س-ق-ي",
+  "meaning_de": "durch Rinnen leiten / bewässern",
+  "meaning_en": "to channel water through aqueduct flumes",
+  "conjugation": {
+    "past": {
+      "ar": "سَاقَى البَنَّاءُ المَاءَ إِلَى الحُقُولِ",
+      "de": "Der Baumeister leitete das Wasser zu den Feldern",
+      "en": "The builder channeled water toward the fields"
+    },
+    "present": {
+      "ar": "يُسَاقِي الجَدْوَلَ بِانْحِدَارٍ مَوْزُونٍ",
+      "de": "Er führt den Wasserlauf mit wohlbedachtem Gefälle",
+      "en": "He channels the brook with measured gradient"
+    },
+    "imperative": {
+      "ar": "سَاقِ بِإِنْصَافٍ دُونَ احْتِكَارٍ",
+      "de": "Leite das Wasser gerecht ohne Eigennutz!",
+      "en": "Channel water fairly without hoarding!"
+    }
+  }
+}
