@@ -1,0 +1,33 @@
+{
+  "category_id": "124",
+  "slug": "pottery_flywheels_and_ribs",
+  "name": {
+    "ar": "أَدَوَاتُ دُولَابِ الخَزَفِ وَمَسَانِدِ الطِّينِ التُّرَاثِيَّةُ",
+    "de": "Töpferscheiben-Schwungräder und Modellierhölzer",
+    "en": "Pottery Kick-Wheel Flywheels, Wooden Ribs and Centering Tools"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "basalt_flywheel_stone",
+      "ar": "حَجَرُ القَاعِدَةِ البَازِلْتِيُّ لِلدُولَابِ",
+      "de": "Der schwere Basalt-Schwungstein der Töpferscheibe",
+      "en": "Heavy basalt flywheel base stone",
+      "asset_key": "svg_cat124_basalt_flywheel_stone"
+    },
+    {
+      "id": "boxwood_throwing_rib",
+      "ar": "مِسْوَاةُ خَشَبِ البَقْسِ المَصْقُولَةُ",
+      "de": "Die feine Buchsbaum-Töpferschiene",
+      "en": "Polished boxwood clay-throwing rib",
+      "asset_key": "svg_cat124_boxwood_throwing_rib"
+    },
+    {
+      "id": "copper_pottery_wire",
+      "ar": "سِلْكُ فَصْلِ الآنِيَةِ النُّحَاسِيُّ",
+      "de": "Der kupferne Schneidedraht zum Ablösen",
+      "en": "Braided copper vessel cut-off wire",
+      "asset_key": "svg_cat124_copper_pottery_wire"
+    }
+  ]
+}

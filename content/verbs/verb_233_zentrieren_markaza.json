@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_233",
+  "lemma_ar": "مَرْكَزَ",
+  "root": "ر-ك-ز",
+  "meaning_de": "zentrieren / Tonklumpen mittig ausrichten",
+  "meaning_en": "to center clay mass true on potter wheel axis",
+  "conjugation": {
+    "past": {
+      "ar": "مَرْكَزَ الخَزَّافُ الطِّينَ عَلَى قُرْصِ الدُولَابِ",
+      "de": "Der Töpfer zentrierte den Ton auf der Scheibe",
+      "en": "The potter centered the clay upon the wheel head"
+    },
+    "present": {
+      "ar": "يُمَرْكِزُ الكُتْلَةَ بِثَبَاتِ المِرْفَقَيْنِ عَلَى رُكْبَتَيْهِ",
+      "de": "Er zentriert den Klumpen mit auf den Knien ruhenden Ellbogen",
+      "en": "He centers the mass with steady braced elbows"
+    },
+    "imperative": {
+      "ar": "مَرْكِزْ بِهُدُوءٍ حَتَّى يَسْكُنَ الطِّينُ تَمَامًا",
+      "de": "Zentriere ruhig, bis der Ton vollkommen stillsteht!",
+      "en": "Center calmly until the clay rests completely true!"
+    }
+  }
+}

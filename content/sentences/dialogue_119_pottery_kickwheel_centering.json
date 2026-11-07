@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_119",
+  "title": {
+    "ar": "تَدْوِيرُ قَصْعَةِ الخَزَفِ وَمُوَازَنَةُ عَزْمِ الدُولَابِ الدَّوَّارِ",
+    "de": "Drehen der Tonschale und Ausbalancieren des Schwungrads",
+    "en": "Centering the Earthenware Bowl and Balancing Kick-Wheel Momentum"
+  },
+  "level": "B1",
+  "topic": "traditional_pottery_and_rotational_physics",
+  "lines": [
+    {
+      "speaker": "الخَزَّافُ إِيَاسٌ",
+      "ar": "كَيْفَ نَدْفَعُ حَجَرَ الدُولَابِ السُّفْلِيَّ بِالقَدَمِ لِيَمْنَحَنَا دَوَرَانًا طَوِيلًا هَادِئًا؟",
+      "de": "Wie stoßen wir den unteren Schwungstein mit dem Fuß an, um einen langen, ruhigen Lauf zu erzielen?",
+      "en": "How do we kick the lower flywheel stone to grant us a prolonged, tranquil rotational momentum?"
+    },
+    {
+      "speaker": "المُتَدَرِّبُ بِلَالٌ",
+      "ar": "نَرْكُلُ الإِطَارَ بِضَرَبَاتٍ دَائِرِيَّةٍ مُنْتَظَمَةٍ، ثُمَّ نَضْغَطُ كُتْلَةَ الطِّينِ بِرَاحَتَيِ اليَدَيْنِ نَحْوَ المَرْكَزِ.",
+      "de": "Wir treiben den Rand mit steten Fußtritten an und pressen den Tonklumpen mit beiden Handflächen zur Mitte.",
+      "en": "We kick the rim with steady tangential strokes, then compress the clay mass toward the axis with both palms."
+    },
+    {
+      "speaker": "الخَزَّافُ إِيَاسٌ",
+      "ar": "عِنْدَمَا يَسْكُنُ الطِّينُ فِي الوَسَطِ، نَفْتَحُ قَلْبَهُ بِالإِبْهَامِ لِيَرْتَفِعَ الجِدَارُ رَقِيقًا كَأَنَّهُ يَتَنَفَّسُ.",
+      "de": "Ruht der Ton im Zentrum, öffnen wir ihn mit dem Daumen, damit die Wandung zart wie ein Hauch aufsteigt.",
+      "en": "When the clay settles true at the center, we open its core with the thumbs so the wall rises delicate and living."
+    }
+  ]
+}

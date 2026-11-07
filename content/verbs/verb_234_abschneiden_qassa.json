@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_234",
+  "lemma_ar": "قَصَّ_خَزَف",
+  "root": "ق-ص-ص",
+  "meaning_de": "mit Draht abschneiden / ablösen",
+  "meaning_en": "to cut off finished vessel from wheel head with wire",
+  "conjugation": {
+    "past": {
+      "ar": "قَصَّ الصَّانِعُ قَاعِدَةَ الإِبْرِيقِ بِالسِّلْكِ النُّحَاسِيِّ",
+      "de": "Der Handwerker schnitt den Kannenboden mit dem Kupferdraht ab",
+      "en": "The artisan severed the pitcher base with the copper wire"
+    },
+    "present": {
+      "ar": "يَقُصُّ الآنِيَةَ بِسَحْبَةٍ مُنْسَابَةٍ أُفُقِيَّةٍ",
+      "de": "Er trennt das Gefäß mit glattem horizontalem Zug ab",
+      "en": "He cuts the vessel with a smooth horizontal draw"
+    },
+    "imperative": {
+      "ar": "قُصَّ دُونَ إِمَالَةِ السِّلْكِ كَيْ لَا تَمِيلَ القَاعِدَةُ",
+      "de": "Schneide ohne Verkanten, damit der Boden eben bleibt!",
+      "en": "Cut without tilting the wire so the foot stays level!"
+    }
+  }
+}
