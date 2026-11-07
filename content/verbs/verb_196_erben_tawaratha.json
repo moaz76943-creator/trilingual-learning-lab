@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_196",
+  "lemma_ar": "تَوَارَثَ",
+  "root": "و-ر-ث",
+  "meaning_de": "überliefern / von Generation zu Generation erben",
+  "meaning_en": "to inherit / transmit traditional skills through generations",
+  "conjugation": {
+    "past": {
+      "ar": "تَوَارَثَ الأَبْنَاءُ فَنَّ الصِّيَاغَةِ عَنِ الآبَاءِ",
+      "de": "Die Söhne erbten die Schmiedekunst von den Vätern",
+      "en": "The sons inherited the art of smithing from their fathers"
+    },
+    "present": {
+      "ar": "يَتَوَارَثُونَ أَسْرَارَ المِهْنَةِ بِأَمَانَةٍ وَحِرْصٍ",
+      "de": "Sie überliefern die Werkgeheimnisse treu und gewissenhaft",
+      "en": "They transmit the craft secrets faithfully and conscientiously"
+    },
+    "imperative": {
+      "ar": "تَوَارَثُوا صِدْقَ العَمَلِ جِيلًا بَعْدَ جِيلٍ",
+      "de": "Haltet die Redlichkeit des Handwerks von Geschlecht zu Geschlecht in Ehren!",
+      "en": "Inherit and preserve honest craftsmanship generation after generation!"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "category_id": "105",
+  "slug": "guild_assemblage_and_artisan_market",
+  "name": {
+    "ar": "أَدَوَاتُ أَسْوَاقِ الحِرَفِ التُّرَاثِيَّةِ وَأَخْتَامِ الإِتْقَانِ",
+    "de": "Alte Handwerksmärkte und Meisterstempel",
+    "en": "Heritage Guild Markets and Master Artisan Seals"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "master_seal",
+      "ar": "خَاتَمُ شَيْخِ الحِرْفَةِ النُّحَاسِيُّ",
+      "de": "Das bronzene Siegel des Zunftmeisters",
+      "en": "Guild master bronze hallmark seal",
+      "asset_key": "svg_cat105_master_seal"
+    },
+    {
+      "id": "guild_banner",
+      "ar": "رَايَةُ أَهْلِ الصَّنَائِعِ المَنْسُوجَةُ",
+      "de": "Das gewebte Banner der Handwerkerzunft",
+      "en": "Woven artisan guild standard banner",
+      "asset_key": "svg_cat105_guild_banner"
+    },
+    {
+      "id": "ledger_registry",
+      "ar": "سِجِلُّ الصُّنَّاعِ المَجْلُودُ بِالجِلْدِ",
+      "de": "Das ledergebundene Handwerker-Gilderegister",
+      "en": "Leather-bound master craftsman guild roll",
+      "asset_key": "svg_cat105_ledger_registry"
+    }
+  ]
+}

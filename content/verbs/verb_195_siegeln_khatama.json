@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_195",
+  "lemma_ar": "خَتَمَ",
+  "root": "خ-ت-م",
+  "meaning_de": "siegeln / mit Meisterstempel versehen",
+  "meaning_en": "to seal with hallmark / certify master completion",
+  "conjugation": {
+    "past": {
+      "ar": "خَتَمَ شَيْخُ الصُّنَّاعِ عَلَى التُّحْفَةِ بِخَاتَمِ الجَوْدَةِ",
+      "de": "Der Zunftmeister siegelte das Werkstück mit dem Gütestempel",
+      "en": "The guild master stamped the artifact with the seal of quality"
+    },
+    "present": {
+      "ar": "يَخْتِمُ السِّجِلَّ اعْتِرَافًا بِإِتْقَانِ الحِرَفِيِّ",
+      "de": "Er siegelt das Register in Anerkennung der Meisterschaft",
+      "en": "He seals the registry in recognition of the artisan mastery"
+    },
+    "imperative": {
+      "ar": "اخْتِمْ بِمِسْكِ الإِتْقَانِ وَالإِخْلَاصِ",
+      "de": "Besiegle das Werk mit Hingabe und Vollendung!",
+      "en": "Seal the work with devotion and exquisite finish!"
+    }
+  }
+}

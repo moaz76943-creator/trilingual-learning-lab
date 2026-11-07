@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_100",
+  "title": {
+    "ar": "مَجْلِسُ الحِرَفِيِّينَ فِي سُوقِ الصُّنَّاعِ العَتِيقِ وَاحْتِفَالُ الإِتْقَانِ",
+    "de": "Das Treffen der Meister im alten Handwerkermarkt und das Fest der Meisterschaft",
+    "en": "The Master Artisans Assembly in the Ancient Guild Market and the Feast of Mastery"
+  },
+  "level": "B1",
+  "topic": "culminating_guild_assembly_and_craftsmanship_celebration",
+  "lines": [
+    {
+      "speaker": "شَيْخُ الصُّنَّاعِ حَسَنٌ",
+      "ar": "اجْتَمَعَتِ اليَوْمَ فِي سُوقِنَا مِئَةُ صَنْعَةٍ شَرِيفَةٍ، مِنْ نَسْجِ الحَرِيرِ وَخَرَاطَةِ الخَشَبِ إِلَى جِلْفَاطَةِ السُّفُنِ.",
+      "de": "Heute versammeln sich auf unserem Markt einhundert edle Gewerke, von Seidenweberei bis zum Schiffbau.",
+      "en": "Today in our market assemble one hundred noble crafts, from silk weaving and woodturning to shipbuilding."
+    },
+    {
+      "speaker": "الصَّائِغُ زَيْدٌ",
+      "ar": "كُلُّ آنِيَةٍ مَنْقُوشَةٍ، وَكُلُّ رَحًى مَحْفُورَةٍ، شَاهِدٌ عَلَى أَنَّ بَرَكَةَ الرِّزْقِ مَقْرُونَةٌ بِالإِحْسَانِ وَالصِّدْقِ.",
+      "de": "Jedes verzierte Gefäß und jeder Mühlstein bezeugt, dass Segen mit Wahrhaftigkeit und Meisterschaft einhergeht.",
+      "en": "Every engraved vessel and chiseled quern attests that blessed sustenance is bound to excellence and truth."
+    },
+    {
+      "speaker": "شَيْخُ الصُّنَّاعِ حَسَنٌ",
+      "ar": "فَلْنُعَلِّمْ هَذِهِ الحِرَفَ لِأَبْنَائِنَا لِيَظَلَّ جَنَى الأَيْدِي الكَرِيمَةِ فَخْرًا لِلأُمَّةِ وَعِمَارَةً لِلأَرْضِ.",
+      "de": "Lasst uns dieses Handwerk unseren Kindern lehren, damit die Arbeit freier Hände der Stolz der Heimat bleibt.",
+      "en": "Let us teach these crafts to our children so the fruit of honest hands remains the pride of communities."
+    }
+  ]
+}
