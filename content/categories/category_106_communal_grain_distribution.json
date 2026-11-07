@@ -1,0 +1,33 @@
+{
+  "category_id": "106",
+  "slug": "communal_grain_distribution",
+  "name": {
+    "ar": "أَدَوَاتُ كَيْلِ الحُبُوبِ وَالمَكَايِيلِ المُشْتَرَكَةِ التُّرَاثِيَّةُ",
+    "de": "Getreide-Hohlmaße und traditionelle Schöpfer",
+    "en": "Communal Grain Measures and Wooden Scooping Vessels"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "standard_sa_measure",
+      "ar": "صَاعُ الحُبُوبِ المِعْيَارِيُّ",
+      "de": "Das genormte hölzerne Getreide-Hohlmaß",
+      "en": "Standardized wooden cubic grain sa' measure",
+      "asset_key": "svg_cat106_standard_sa_measure"
+    },
+    {
+      "id": "hardwood_grain_scoop",
+      "ar": "مِغْرَفَةُ القَمْحِ الخَشَبِيَّةُ",
+      "de": "Die Hartholz-Getreideschaufel",
+      "en": "Carved hardwood grain scooping shovel",
+      "asset_key": "svg_cat106_hardwood_grain_scoop"
+    },
+    {
+      "id": "strike_leveler",
+      "ar": "مِرْفَاعُ تَسْوِيَةِ الكَيْلِ",
+      "de": "Das Abstreichholz für Getreidemaße",
+      "en": "Straight cylindrical strike-leveling rod",
+      "asset_key": "svg_cat106_strike_leveler"
+    }
+  ]
+}

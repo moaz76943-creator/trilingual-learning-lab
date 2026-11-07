@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_101",
+  "title": {
+    "ar": "كَيْلُ الصَّاعِ النَّبَوِيِّ وَتَوْزِيعُ غِلَالِ المَخْزَنِ المُشْتَرَكِ",
+    "de": "Abmessen des Getreidemaßes und Verteilung der Gemeinschaftsernte",
+    "en": "Measuring the Standard Sa' Volume and Distributing Communal Grain"
+  },
+  "level": "B1",
+  "topic": "communal_grain_distribution_and_solidarity",
+  "lines": [
+    {
+      "speaker": "أَمِينُ البَيْدَرِ سَعِيدٌ",
+      "ar": "هَلْ تَأَكَّدْتَ مِنْ اسْتِوَاءِ الصَّاعِ الخَشَبِيِّ عِنْدَ مَسْحِ حَافَّتِهِ بِالمِرْفَاعِ؟",
+      "de": "Hast du geprüft, dass das hölzerne Hohlmaß beim Abstreichen am Rand vollkommen eben abschließt?",
+      "en": "Did you verify that the wooden volume measure levels off flush when smoothed with the leveling strike?"
+    },
+    {
+      "speaker": "الفَتَى يُوسُفُ",
+      "ar": "نَعَمْ، كِلْنَا لِكُلِّ بَيْتٍ نَصِيبَهُ بِلَا تَطْفِيفٍ، وَخَصَّصْنَا لِلأَرَامِلِ وَالأَيْتَامِ مَكايِيلَ مَوْفُورَةً.",
+      "de": "Ja, wir maßen jedem Haus seinen Anteil unverkürzt zu und bedachten Bedürftige mit reichlichen Maßen.",
+      "en": "Yes, we measured each household their full due without shortfall, allocating abundant portions to those in need."
+    },
+    {
+      "speaker": "أَمِينُ البَيْدَرِ سَعِيدٌ",
+      "ar": "هَكَذَا يَعُمُّ الأَمَانُ فِي قَرْيَتِنَا، فَلَا يَبِيتَنَّ أَحَدٌ طَاوِيًا وَفِي صَوَامِعِنَا حَبَّةُ قَمْحٍ.",
+      "de": "So zieht Geborgenheit in unser Dorf ein; niemand soll hungern, solange ein Korn in unseren Speichern ruht.",
+      "en": "Thus peace prevails in our village; no soul shall spend the night hungry while grain rests in our granaries."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_197",
+  "lemma_ar": "كَالَ",
+  "root": "ك-ي-ل",
+  "meaning_de": "messen / mit dem Hohlmaß abmessen",
+  "meaning_en": "to measure grain by capacity volume / dispense dry measure",
+  "conjugation": {
+    "past": {
+      "ar": "كَالَ الأَمِينُ القَمْحَ بِالصَّاعِ العَدْلِ",
+      "de": "Der Treuhänder maß den Weizen mit dem gerechten Maß ab",
+      "en": "The steward measured the wheat with the just measure"
+    },
+    "present": {
+      "ar": "يَكِيلُ لِلنَّاسِ بِالقِسْطِ وَالإِحْسَانِ",
+      "de": "Er misst den Menschen mit Gerechtigkeit und Güte zu",
+      "en": "He measures out to people with equity and kindness"
+    },
+    "imperative": {
+      "ar": "كِلْ بِالوَفَاءِ وَاحْذَرِ البَخْسَ",
+      "de": "Miss in voller Treue und hüte dich vor Verkürzung!",
+      "en": "Measure in full fidelity and beware of diminishing!"
+    }
+  }
+}
