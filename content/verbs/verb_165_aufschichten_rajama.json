@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_165",
+  "lemma_ar": "رَجَمَ",
+  "root": "ر-ج-م",
+  "meaning_de": "Steine zu Wegweisern aufschichten",
+  "meaning_en": "to pile stones into waymarkers / erect a cairn",
+  "conjugation": {
+    "past": {
+      "ar": "رَجَمَ الدَّلِيلُ حِجَارَةَ الرَّجْمِ فِي المَمَرِّ",
+      "de": "Der Kundige schichtete das Steinmal am Pass auf",
+      "en": "The desert guide piled the landmark stones at the pass"
+    },
+    "present": {
+      "ar": "يَرْجُمُ الصُّوَى لِيَهْتَدِيَ النَّاسُ بِهَا",
+      "de": "Er schichtet Wegmale auf, damit Reisende den Weg finden",
+      "en": "He stacks cairns so wayfarers may orient themselves"
+    },
+    "imperative": {
+      "ar": "ارْجُمْ بِحِجَارَةٍ صَلْبَةٍ لَا تَزُولُ",
+      "de": "Schichte mit unvergänglichen Felssteinen auf!",
+      "en": "Stack with steadfast rocks that withstand time!"
+    }
+  }
+}

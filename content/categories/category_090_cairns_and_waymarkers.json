@@ -1,0 +1,33 @@
+{
+  "category_id": "090",
+  "slug": "cairns_and_waymarkers",
+  "name": {
+    "ar": "أَدَوَاتُ صُوَّى الطُّرُقِ وَعَلَامَاتِ السَّبِيلِ الصَّحْرَاوِيَّةُ",
+    "de": "Wegweisende Steinmale und Wüstenpeilzeichen",
+    "en": "Navigational Trail Cairns and Desert Waymarkers"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "trail_cairn",
+      "ar": "صُوَّةُ السَّبِيلِ الحَجَرِيَّةُ",
+      "de": "Das aufgeschichtete Steinmännchen am Pfad",
+      "en": "Navigational dry-stone trail cairn",
+      "asset_key": "svg_cat090_trail_cairn"
+    },
+    {
+      "id": "capstone_marker",
+      "ar": "حَجَرُ القِمَّةِ الدَّلِيلُ",
+      "de": "Der oberste Leitstein des Steinmals",
+      "en": "Cairn apex pointer capstone",
+      "asset_key": "svg_cat090_capstone_marker"
+    },
+    {
+      "id": "surveyor_rod",
+      "ar": "عَصَا المَسَّاحِ التُّرَاثِيَّةُ",
+      "de": "Der traditionelle hölzerne Fluchtstab",
+      "en": "Traditional wooden trail alignment rod",
+      "asset_key": "svg_cat090_surveyor_rod"
+    }
+  ]
+}

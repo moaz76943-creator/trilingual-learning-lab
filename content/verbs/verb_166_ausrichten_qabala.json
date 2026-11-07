@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_166",
+  "lemma_ar": "قَابَلَ",
+  "root": "ق-ب-ل",
+  "meaning_de": "gegenüberstehen / ausrichten",
+  "meaning_en": "to face / align directly toward a landmark",
+  "conjugation": {
+    "past": {
+      "ar": "قَابَلَتِ الصُّوَّةُ مَشْرِقَ الشَّمْسِ",
+      "de": "Das Steinmal stand dem Sonnenaufgang gegenüber",
+      "en": "The cairn faced the sunrise directly"
+    },
+    "present": {
+      "ar": "يُقَابِلُ المَسَارُ قِمَّةَ الجَبَلِ الشَّامِخِ",
+      "de": "Der Pfad richtet sich auf den Berggipfel aus",
+      "en": "The route aligns directly with the mountain peak"
+    },
+    "imperative": {
+      "ar": "قَابِلْ بَيْنَ العَلَامَاتِ بِدِقَّةٍ",
+      "de": "Richte dich genau nach den Geländemarken aus!",
+      "en": "Align accurately between landmark points!"
+    }
+  }
+}

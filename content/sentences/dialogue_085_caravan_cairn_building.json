@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_085",
+  "title": {
+    "ar": "بِنَاءُ صُوَّى الحِجَارَةِ لِإِرْشَادِ قَوَافِلِ الصَّحْرَاءِ",
+    "de": "Errichten von Steinmännchen als Karawanen-Wegweiser",
+    "en": "Building Navigational Stone Cairns for Desert Caravans"
+  },
+  "level": "B1",
+  "topic": "desert_navigation_and_trail_marking",
+  "lines": [
+    {
+      "speaker": "سُعُودٌ",
+      "ar": "كَيْفَ نَصُفُّ هَذِهِ الصُّخُورَ الصَّوَانِيَّةَ لِتَصْمُدَ أَمَامَ سَوَافِي الرِّمَالِ؟",
+      "de": "Wie schichten wir diese Feuersteine auf, damit sie den wehenden Sandmassen trotzen?",
+      "en": "How do we stack these flint rocks so they endure against blowing drift sands?"
+    },
+    {
+      "speaker": "هِلَالٌ",
+      "ar": "نَجْعَلُ القَاعِدَةَ عَرِيضَةً ثَابِتَةً، ثُمَّ نَرْفَعُ الحَجَرَ الدَّلِيلَ فِي الأَعْلَى لِيَلُوحَ مِنْ بَعِيدٍ.",
+      "de": "Wir bauen die Basis breit und fest, dann setzen wir den Leitstein ganz oben auf, damit er weithin leuchtet.",
+      "en": "We make the base broad and firm, then place the marker capstone on top so it stands visible from afar."
+    },
+    {
+      "speaker": "سُعُودٌ",
+      "ar": "إِنَّ إِقَامَةَ هَذِهِ الصُّوَى تُنْقِذُ التَّائِهَ لَيْلًا وَتَهْدِي السَّابِلَةَ إِلَى مَوَارِدِ المَاءِ.",
+      "de": "Das Aufstellen dieser Steinmale rettet nächtliche Wanderer und leitet Reisende zu den Wasserstellen.",
+      "en": "Erecting these cairns rescues the lost at night and guides travelers safely to water springs."
+    }
+  ]
+}
