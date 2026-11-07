@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_094",
+  "title": {
+    "ar": "صِنَاعَةُ صَحَائِفِ البَرْدِيِّ النَّهْرِيِّ وَضَغْطُ شَرَائِطِهِ",
+    "de": "Herstellung von Flusspapyrus-Bögen und Pressung der Streifen",
+    "en": "Crafting River Papyrus Sheets and Pressing Strips"
+  },
+  "level": "B1",
+  "topic": "traditional_papyrus_craft_and_riverine_ecology",
+  "lines": [
+    {
+      "speaker": "أَوْسٌ",
+      "ar": "كَيْفَ نُنَضِّدُ شَرَائِطَ سِيقَانِ البَرْدِيِّ لِتَلْتَحِمَ دُونَ حَاجَةٍ إِلَى صَمْغٍ خَارِجِيٍّ؟",
+      "de": "Wie schichten wir die Papyrusstreifen auf, damit sie ohne äußeren Leim fest verkleben?",
+      "en": "How do we layer the papyrus reed strips so they fuse without needing external glue?"
+    },
+    {
+      "speaker": "عَبَّادٌ",
+      "ar": "نَصُفُّ طَبَقَةً أُفُقِيَّةً تَعْلُوهَا طَبَقَةٌ عَمُودِيَّةٌ، ثُمَّ نَدُقُّهَا لِيَنْسَابَ نَسْغُ النَّبَاتِ اللَّزِجُ بَيْنَ الأَلْيَافِ.",
+      "de": "Wir legen eine Lage quer über eine längs und klopfen sie, damit der klebrige Pflanzensaft die Fasern bindet.",
+      "en": "We lay a horizontal layer over a vertical one and beat it so the natural plant sap bonds the fibers."
+    },
+    {
+      "speaker": "أَوْسٌ",
+      "ar": "وَالمِكْبَسُ الخَشَبِيُّ سَيَضْغَطُ الصَّحِيفَةَ أَيَّامًا لِتَغْدُوَ قِرْطَاسًا مَصْقُولًا يَقْبَلُ الحِبْرَ النَّابِضَ.",
+      "de": "Und die Holzpresse presst den Bogen tagelang, bis er zu einem glatten, beschreibbaren Papyrus reift.",
+      "en": "And the wooden press will compact the sheet for days until it becomes a glazed scroll receptive to ink."
+    }
+  ]
+}

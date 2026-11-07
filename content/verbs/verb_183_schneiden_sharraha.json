@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_183",
+  "lemma_ar": "شَرَّحَ",
+  "root": "ش-ر-ح",
+  "meaning_de": "in Streifen schneiden / spalten",
+  "meaning_en": "to slice reed stalks into fine longitudinal ribbons",
+  "conjugation": {
+    "past": {
+      "ar": "شَرَّحَ الصَّانِعُ سَاقَ البَرْدِيِّ شَرَائِحَ طُولِيَّةً",
+      "de": "Der Handwerker spaltete den Papyrusstängel in Längsstreifen",
+      "en": "The artisan sliced the papyrus stalk into longitudinal strips"
+    },
+    "present": {
+      "ar": "يُشَرِّحُ القَصَبَ بِسِكِّينٍ حَادٍّ مُتَسَاوٍ",
+      "de": "Er schneidet das Schilf mit scharfem, gleichmäßigem Messer",
+      "en": "He slices the reed with a sharp, even blade"
+    },
+    "imperative": {
+      "ar": "شَرِّحْ بِسَمَاكَةٍ وَاحِدَةٍ دُونَ مَيَلَانٍ",
+      "de": "Schneide in gleichförmiger Dicke ohne Schräge!",
+      "en": "Slice with uniform thickness without taper!"
+    }
+  }
+}

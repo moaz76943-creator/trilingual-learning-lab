@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_184",
+  "lemma_ar": "كَبَسَ",
+  "root": "ك-ب-س",
+  "meaning_de": "pressen / unter Druck zusammenfügen",
+  "meaning_en": "to press / compact sheet layers under heavy weight",
+  "conjugation": {
+    "past": {
+      "ar": "كَبَسَ الوَرَّاقُ الصَّحِيفَةَ الرَّطْبَةَ فِي المِكْبَسِ",
+      "de": "Der Papiermacher presste den feuchten Bogen in der Presse",
+      "en": "The artisan pressed the moist sheet in the screw press"
+    },
+    "present": {
+      "ar": "يَكْبِسُ الطَّبَقَاتِ لِيَسْتَخْرِجَ المَاءَ الزَّائِدَ",
+      "de": "Er presst die Lagen, um überschüssiges Wasser auszutreiben",
+      "en": "He presses the layers to expel surplus water"
+    },
+    "imperative": {
+      "ar": "اكْبِسْ بِثِقَلٍ مُتَوَازِنٍ فَوْقَ الأَلْوَاحِ",
+      "de": "Presse mit ausgewogener Last auf die Platten!",
+      "en": "Press with balanced weight across the boards!"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "category_id": "099",
+  "slug": "papyrus_sheet_craft",
+  "name": {
+    "ar": "أَدَوَاتُ إِعْدَادِ صَحَائِفِ البَرْدِيِّ وَالمَكَابِسِ التُّرَاثِيَّةُ",
+    "de": "Papyrusherstellung und traditionelle Holzpressen",
+    "en": "Papyrus Sheet Craft and Wooden Press Implements"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "papyrus_mallet",
+      "ar": "مِدَقَّةُ شَرَائِطِ البَرْدِيِّ",
+      "de": "Der Holzschlegel für Papyrusstreifen",
+      "en": "Wooden papyrus strip compaction mallet",
+      "asset_key": "svg_cat099_papyrus_mallet"
+    },
+    {
+      "id": "wooden_sheet_press",
+      "ar": "مِكْبَسُ الصَّحَائِفِ الخَشَبِيُّ",
+      "de": "Die hölzerne Bogenpresse",
+      "en": "Heavy wooden scroll pressing board",
+      "asset_key": "svg_cat099_wooden_sheet_press"
+    },
+    {
+      "id": "reed_slicing_knife",
+      "ar": "مِبْضَعُ شَقِّ السِّيقَانِ",
+      "de": "Das Schälmesser für Schilfstängel",
+      "en": "Fine reed stalk peeling knife",
+      "asset_key": "svg_cat099_reed_slicing_knife"
+    }
+  ]
+}
