@@ -1,0 +1,33 @@
+{
+  "category_id": "110",
+  "slug": "masonry_plumb_lines_and_leveling",
+  "name": {
+    "ar": "أَدَوَاتُ مَطَامِيرِ البِنَاءِ وَمَوَازِينِ الاسْتِقَامَةِ التُّرَاثِيَّةُ",
+    "de": "Maurerlote und traditionelle Fluchtwerkzeuge",
+    "en": "Masonry Plumb Lines and Traditional Leveling Tools"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "lead_plumb_bob",
+      "ar": "ثِقَالَةُ الرَّصَاصِ المَخْرُوطِيَّةُ",
+      "de": "Das kegelförmige Senkblei",
+      "en": "Conical lead plumb bob weight",
+      "asset_key": "svg_cat110_lead_plumb_bob"
+    },
+    {
+      "id": "braided_plumb_line",
+      "ar": "خَيْطُ المِطْمَارِ الحَرِيرِيُّ",
+      "de": "Die geflochtene Lotschnur",
+      "en": "Braided silk plumb line cord",
+      "asset_key": "svg_cat110_braided_plumb_line"
+    },
+    {
+      "id": "wooden_gauge_spacer",
+      "ar": "صَفِيحَةُ ضَبْطِ المَسَافَةِ الخَشَبِيَّةُ",
+      "de": "Das hölzerne Abstandsholz für das Lot",
+      "en": "Hardwood plumb spacer block",
+      "asset_key": "svg_cat110_wooden_gauge_spacer"
+    }
+  ]
+}

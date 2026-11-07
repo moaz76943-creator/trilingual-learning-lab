@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_205",
+  "lemma_ar": "طَمَرَ_بِنَاء",
+  "root": "ط-م-ر",
+  "meaning_de": "ausloten / mit dem Senkblei messen",
+  "meaning_en": "to plumb a wall / verify vertical alignment with plumb bob",
+  "conjugation": {
+    "past": {
+      "ar": "طَمَرَ البَنَّاءُ رُكْنَ الجِدَارِ العَالِي",
+      "de": "Der Maurer lotete die Ecke der hohen Mauer aus",
+      "en": "The mason plumbed the corner of the high wall"
+    },
+    "present": {
+      "ar": "يَطْمُرُ المِدْمَاكَ لِيَتَأَكَّدَ مِنْ تَعَامُدِهِ",
+      "de": "Er lotet die Steinlage aus, um ihre Rechtwinkligkeit zu sichern",
+      "en": "He plumbs the course to verify its perpendicularity"
+    },
+    "imperative": {
+      "ar": "اطْمُرْ كُلَّ صَفٍّ حَتَّى يَسْتَقِيمَ البِنَاءُ",
+      "de": "Lote jede Lage, damit der Bau lotrecht steht!",
+      "en": "Plumb every course so the building stands true!"
+    }
+  }
+}

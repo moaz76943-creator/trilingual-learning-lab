@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_206",
+  "lemma_ar": "سَوَّى",
+  "root": "س-و-ي",
+  "meaning_de": "ebnen / ausrichten",
+  "meaning_en": "to level / align stones uniformly flush",
+  "conjugation": {
+    "past": {
+      "ar": "سَوَّى الحَجَّارُ وَجْهَ الحَجَرِ المَنْحُوتِ",
+      "de": "Der Steinmetz richtete die Fläche des Quaders ab",
+      "en": "The stonemason leveled the surface of the dressed stone"
+    },
+    "present": {
+      "ar": "يُسَوِّي المَدَامِيكَ بِمِيزَانِ المَاءِ التُّرَاثِيِّ",
+      "de": "Er richtet die Schichten mit der traditionellen Wasserwaage aus",
+      "en": "He levels the courses with the heritage water level"
+    },
+    "imperative": {
+      "ar": "سَوِّ الصُّفُوفَ بِعِنَايَةٍ وَإِتْقَانٍ",
+      "de": "Richte die Reihen mit Sorgfalt und Meisterschaft aus!",
+      "en": "Level the stone courses with care and mastery!"
+    }
+  }
+}

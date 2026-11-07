@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_105",
+  "title": {
+    "ar": "ضَبْطُ تَعَامُدِ جُدْرَانِ المَبْنَى بِخَيْطِ المِطْمَارِ التُّرَاثِيِّ",
+    "de": "Lotung der Mauern mit der traditionellen Lotschnur",
+    "en": "Plumbing Building Walls with the Heritage Plumb Line"
+  },
+  "level": "B1",
+  "topic": "traditional_masonry_and_gravitational_leveling",
+  "lines": [
+    {
+      "speaker": "المُعَلِّمُ مَرْوَانُ",
+      "ar": "أَسْدِلْ خَيْطَ المِطْمَارِ مِنْ أَعْلَى الرُّكْنِ حَتَّى يَكَادَ يُلَامِسَ أَسْفَلَ المِدْمَاكِ.",
+      "de": "Lass die Lotschnur von der oberen Mauerecke herab, bis sie fast die untere Steinlage berührt.",
+      "en": "Lower the plumb line from the corner apex until it almost grazes the foundation course."
+    },
+    {
+      "speaker": "البَنَّاءُ رَائِفٌ",
+      "ar": "تَوَقَّفَتْ ثِقَالَةُ الرَّصَاصِ عَنِ الِاهْتِزَازِ؛ الحَجَرُ الأَوْسَطُ يَحْتَاجُ دَفْعَةً يَسِيرَةً بِالمِطْرَقَةِ لِيَسْتَقِيمَ.",
+      "de": "Das Bleigewicht hat sich beruhigt; der mittlere Stein braucht einen leichten Schlag, um im Lot zu stehen.",
+      "en": "The lead bob has ceased swinging; the middle stone requires a gentle tap with the mallet to plumb true."
+    },
+    {
+      "speaker": "المُعَلِّمُ مَرْوَانُ",
+      "ar": "اسْتِقَامَةُ الجُدْرَانِ فِي المَبْدَأِ أَمَانَةٌ تَضْمَنُ بَقَاءَ الدَّارِ مَرْفُوعَةَ السَّقْفِ آمِنَةً عَبْرَ الأَجْيَالِ.",
+      "de": "Das genaue Loten der Wände ist eine Ehrensache, die der Wohnstätte generationslangen Schutz sichert.",
+      "en": "Plumbing the walls truly from the outset is a sacred trust ensuring the dwelling stands safe across generations."
+    }
+  ]
+}
