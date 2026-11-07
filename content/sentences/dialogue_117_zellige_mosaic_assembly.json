@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_117",
+  "title": {
+    "ar": "تَقْطِيعُ فِلَقِ الزَّلِّيجِ وَتَرْكِيبُ لَوْحَةِ النَّجْمَةِ الِاثْنَيْ عَشْرِيَّةِ",
+    "de": "Behauen von Zellige-Mosaiksteinen und Setzen des Zwölfersterns",
+    "en": "Chipping Zellige Tesserae and Assembling the Twelve-Pointed Star Rosette"
+  },
+  "level": "B1",
+  "topic": "traditional_zellige_and_islamic_geometry",
+  "lines": [
+    {
+      "speaker": "المُعَلِّمُ طَاهِرٌ",
+      "ar": "كَيْفَ تَحُطُّ شَفْرَةَ مَنْقَاشِ الكَسْرِ عَلَى حَافَّةِ القِرْمِيدِ المَطْلِيِّ دُونَ كَسْرِ لَوْنِهِ الزُّجَاجِيِّ؟",
+      "de": "Wie setzt du die Schneide des Spalthammers an, ohne die Glasur der Kachel abzusplittern?",
+      "en": "How do you strike with the splitting hammer bevel without shattering the vitreous enamel?"
+    },
+    {
+      "speaker": "الصَّانِعُ زُهَيْرٌ",
+      "ar": "أَضْرِبُ بِمَيَلَانٍ خَفِيفٍ إِلَى الخَلْفِ، فَيَنْفَصِلُ الطِّينُ مَشْطُوبًا وَتَبْقَى حَافَّةُ الطِّلَاءِ نَقِيَّةً حَادَّةً.",
+      "de": "Ich schlage leicht schräg nach hinten; der Ton bricht gefast ab und die Glasurkante bleibt messerscharf.",
+      "en": "I strike angled slightly backward; the clay shears beveled while the enamel edge remains sharp and pure."
+    },
+    {
+      "speaker": "المُعَلِّمُ طَاهِرٌ",
+      "ar": "صُفَّ الفِلَقَ مَقْلُوبَةً فَوْقَ الرَّسْمِ؛ ثُمَّ نَصُبُّ مِلَاطَ الجِيرِ لِيَرْبِطَهَا لَوْحَةً مُتَرَاصَّةً لَا تَبْلَى.",
+      "de": "Lege die Steine spiegelverkehrt auf den Riss; dann gießen wir Kalkmörtel, der sie unvergänglich bindet.",
+      "en": "Lay the tesserae face-down on the cartoon; then we pour lime mortar to bind them into an eternal mosaic."
+    }
+  ]
+}

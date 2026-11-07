@@ -1,0 +1,33 @@
+{
+  "category_id": "122",
+  "slug": "zellige_geometric_mosaics",
+  "name": {
+    "ar": "أَدَوَاتُ زَلِّيجِ الفَيْسَفْسَاءِ وَمَنَاقِيشِ الخَزَفِ التُّرَاثِيَّةُ",
+    "de": "Zellige-Mosaikwerkzeuge und traditionelle Kachelhämmer",
+    "en": "Zellige Geometric Cut-Tiles and Mosaic Splitting Tools"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "beveled_zellige_tessera",
+      "ar": "فِرَامُ الزَّلِّيجِ المُشَطَّبُ",
+      "de": "Die gefaste Zellige-Mosaikfliese",
+      "en": "Hand-beveled glazed zellige tile tessera",
+      "asset_key": "svg_cat122_beveled_zellige_tessera"
+    },
+    {
+      "id": "zellige_chopping_hammer",
+      "ar": "مَنْقَاشُ تَقْطِيعِ الخَزَفِ الفُولَاذِيُّ",
+      "de": "Der schwere stählerne Zellige-Spalthammer",
+      "en": "Wide-blade steel zellige chipping hammer",
+      "asset_key": "svg_cat122_zellige_chopping_hammer"
+    },
+    {
+      "id": "twelve_pointed_star_matrix",
+      "ar": "قَالَبُ النَّجْمَةِ الِاثْنَيْ عَشْرِيَّةِ",
+      "de": "Die Schablone des zwölfzackigen Sterns",
+      "en": "Twelve-pointed star mosaic design template",
+      "asset_key": "svg_cat122_twelve_pointed_star_matrix"
+    }
+  ]
+}

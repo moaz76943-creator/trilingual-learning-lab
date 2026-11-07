@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_229",
+  "lemma_ar": "شَطَّبَ",
+  "root": "ش-ط-ب",
+  "meaning_de": "kanten / Kacheln auf Maß behauen",
+  "meaning_en": "to bevel / chip zellige tile edges with hammer",
+  "conjugation": {
+    "past": {
+      "ar": "شَطَّبَ المُعَلِّمُ حَوَافَّ الزَّلِّيجَةِ بِالمَنْقَاشِ",
+      "de": "Der Meister faste die Kanten der Kachel mit dem Hammer an",
+      "en": "The master beveled the tile edges with the chipping hammer"
+    },
+    "present": {
+      "ar": "يُشَطِّبُ القِطَعَ لِتَتَطَابَقَ فِي اللَّوْحَةِ",
+      "de": "Er behaut die Stücke, damit sie passgenau fügen",
+      "en": "He bevels the pieces to fit seamlessly in the mosaic"
+    },
+    "imperative": {
+      "ar": "شَطِّبْ بِحَذَرٍ لَا يُهَشِّمُ المِينَا المُلَوَّنَةَ",
+      "de": "Behaue vorsichtig, ohne die Emaille zu splittern!",
+      "en": "Bevel with care without chipping the colored enamel!"
+    }
+  }
+}
