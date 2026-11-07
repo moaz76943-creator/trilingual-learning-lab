@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_192",
+  "lemma_ar": "أَبْحَرَ",
+  "root": "ب-ح-ر",
+  "meaning_de": "in See stechen / die Segel setzen",
+  "meaning_en": "to set sail / navigate into the open sea",
+  "conjugation": {
+    "past": {
+      "ar": "أَبْحَرَتِ السَّفِينَةُ مَعَ هُبُوبِ رِيَاحِ المَوْسِمِ",
+      "de": "Das Schiff stach mit dem Monsunwind in See",
+      "en": "The dhow set sail with the monsoon winds"
+    },
+    "present": {
+      "ar": "يُبْحِرُ الرَّبَّانُ بِأَمَانٍ رَاعِيًا مَسَارَاتِ النُّجُومِ",
+      "de": "Der Kapitän segelt sicher nach den Sternenbahnen",
+      "en": "The captain navigates safely following stellar paths"
+    },
+    "imperative": {
+      "ar": "أَبْحِرْ عَلَى بَرَكَةِ اللهِ وَعَوْنِهِ",
+      "de": "Setze die Segel im Vertrauen auf Beistand!",
+      "en": "Set sail with divine blessing and peaceful confidence!"
+    }
+  }
+}

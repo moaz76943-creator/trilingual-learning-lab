@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_191",
+  "lemma_ar": "جَلْفَطَ",
+  "root": "ج-ل-ف-ط",
+  "meaning_de": "kalfatern / Fugen abdichten",
+  "meaning_en": "to caulk ship seams with oakum and tallow",
+  "conjugation": {
+    "past": {
+      "ar": "جَلْفَطَ القَلَّافُ أَلْوَاحَ السَّفِينَةِ",
+      "de": "Der Schiffbauer kalfaterte die Planken des Schiffes",
+      "en": "The shipwright caulked the ship planks"
+    },
+    "present": {
+      "ar": "يُجَلْفِطُ الدُّرُوزَ بِأَلْيَافِ القُنْبَارِ المَدْهُونَةِ",
+      "de": "Er kalfatert die Nähte mit geöltem Werg",
+      "en": "He caulks the seams with oiled coir fibers"
+    },
+    "imperative": {
+      "ar": "جَلْفِطْ بِإِحْكَامٍ يَسُدُّ مَسَارِبَ المَاءِ",
+      "de": "Kalfatere dicht gegen jeden Wassereintritt!",
+      "en": "Caulk tightly against every water leak!"
+    }
+  }
+}

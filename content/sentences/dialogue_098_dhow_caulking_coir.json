@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_098",
+  "title": {
+    "ar": "جِلْفَاطَةُ أَلْوَاحِ السَّفِينَةِ الشِّرَاعِيَّةِ بِأَلْيَافِ النَّارَجِيلِ",
+    "de": "Kalfatern der Dhau-Planken mit Kokosfasern",
+    "en": "Caulking Dhow Hull Planks with Coconut Coir"
+  },
+  "level": "B1",
+  "topic": "traditional_boatbuilding_and_maritime_heritage",
+  "lines": [
+    {
+      "speaker": "نَوْخِذَةُ عُمَرَ",
+      "ar": "كَيْفَ نَحْشُو الدُّرُوزَ بَيْنَ أَلْوَاحِ السَّاجِ لِتَصْمُدَ السَّفِينَةُ أَمَامَ لُجَّةِ المُحِيطِ؟",
+      "de": "Wie dichten wir die Fugen zwischen den Teakplanken ab, damit das Schiff den Ozeanfluten trotzt?",
+      "en": "How do we caulk the seams between teak planks so the vessel withstands ocean depths?"
+    },
+    {
+      "speaker": "قَلَّافُ سَالِمٌ",
+      "ar": "نَدُقُّ قُنْبَارَ أَلْيَافِ النَّارَجِيلِ بِإِسْفِينِ الجِلْفَاطَةِ، ثُمَّ نَطْلِيهَا بِزَيْتِ السِّمْسِمِ وَدَهْنِ الصِّلِّ.",
+      "de": "Wir treiben Kokosfaserwerg mit dem Kalfateisen ein und bestreichen es mit Sesam- und Fischöl.",
+      "en": "We drive coconut coir fiber with the caulking iron, then coat it with sesame oil and fish tallow."
+    },
+    {
+      "speaker": "نَوْخِذَةُ عُمَرَ",
+      "ar": "إِنَّ إِحْكَامَ الجِلْفَاطَةِ أَمَانَةٌ عُظْمَى تَحْفَظُ أَرْوَاحَ البَحَّارَةِ فِي ظُلُمَاتِ اليَمِّ.",
+      "de": "Sorgfältiges Kalfatern ist eine heilige Pflicht, die das Leben der Seeleute auf See bewahrt.",
+      "en": "Meticulous caulking is a sacred trust that safeguards the lives of sailors across the deep seas."
+    }
+  ]
+}

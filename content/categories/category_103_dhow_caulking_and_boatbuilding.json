@@ -1,0 +1,33 @@
+{
+  "category_id": "103",
+  "slug": "dhow_caulking_and_boatbuilding",
+  "name": {
+    "ar": "أَدَوَاتُ جِلْفَاطَةِ السُّفُنِ التُّرَاثِيَّةِ وَصِنَاعَةِ الأَبْحَارِ",
+    "de": "Kalfaterwerkzeuge und traditioneller Dhau-Schiffbau",
+    "en": "Traditional Dhow Caulking and Boatbuilding Tools"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "caulking_iron",
+      "ar": "إِسْفِينُ الجِلْفَاطَةِ الحَدِيدِيُّ",
+      "de": "Das stählerne Kalfateisen",
+      "en": "Forged steel caulking iron chisel",
+      "asset_key": "svg_cat103_caulking_iron"
+    },
+    {
+      "id": "coir_oakum",
+      "ar": "قُنْبَارُ أَلْيَافِ النَّارَجِيلِ",
+      "de": "Das Kalfaterwerg aus Kokosfasern",
+      "en": "Treated coconut coir oakum packing",
+      "asset_key": "svg_cat103_coir_oakum"
+    },
+    {
+      "id": "caulking_mallet",
+      "ar": "مِطْرَقَةُ القَلَّافِ الخَشَبِيَّةُ",
+      "de": "Der hölzerne Kalfathammer",
+      "en": "Hardwood shipwright caulking mallet",
+      "asset_key": "svg_cat103_caulking_mallet"
+    }
+  ]
+}
