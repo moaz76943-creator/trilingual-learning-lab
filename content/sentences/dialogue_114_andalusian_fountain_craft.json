@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_114",
+  "title": {
+    "ar": "هَنْدَسَةُ فَوَّارَاتِ المِيَاهِ الأَنْدَلُسِيَّةِ فِي أَفْنِيَةِ الرِّيَاضِ",
+    "de": "Bau andalusischer Wasserspiele in schattigen Innenhöfen",
+    "en": "Engineering Andalusian Gravity Fountains in Shaded Courtyards"
+  },
+  "level": "B1",
+  "topic": "traditional_hydraulics_and_garden_architecture",
+  "lines": [
+    {
+      "speaker": "المُهَنْدِسُ فَرَجٌ",
+      "ar": "كَيْفَ نَضْبِطُ تَدَفُّقَ مِيَاهِ الصَّهْرِيجِ العُلْوِيِّ لِيَفُورَ الحَوْضُ الرُّخَامِيُّ بِخَرِيرٍ هَادِئٍ؟",
+      "de": "Wie stimmen wir den Zufluss des Hochbehälters ab, damit das Marmorbecken mit leisem Plätschern sprudelt?",
+      "en": "How do we calibrate the gravity feed from the upper cistern so the marble basin bubbles with tranquil murmur?"
+    },
+    {
+      "speaker": "المِعْمَارِيُّ صَابِرٌ",
+      "ar": "نَمُدُّ أَنَابِيبَ الرَّصَاصِ المَلْحُومَةِ بِمَيَلَانٍ مُتَدَرِّجٍ، ثُمَّ نُثَبِّتُ فُوَّهَةَ النُّحَاسِ المَخْرُوطِيَّةَ فِي القَلْبِ.",
+      "de": "Wir verlegen gelötete Bleirohre mit stetem Gefälle und setzen die konische Kupferdüse in die Mitte.",
+      "en": "We lay soldered lead conduit with gradual slope, then mount the conical copper nozzle at the core."
+    },
+    {
+      "speaker": "المُهَنْدِسُ فَرَجٌ",
+      "ar": "إِنَّ خَرِيرَ المَاءِ فِي هَجِيرِ الصَّيْفِ يُبَرِّدُ هَوَاءَ الفِنَاءِ وَيَبُثُّ السَّكِينَةَ فِي أَرْوَاحِ السَّاكِنِينَ.",
+      "de": "Das Plätschern kühlt in sommerlicher Glut die Hofluft und schenkt den Bewohnern tiefe Seelenruhe.",
+      "en": "The murmur of water in summer heat tempers the courtyard air and bestows serenity upon the dwellers."
+    }
+  ]
+}

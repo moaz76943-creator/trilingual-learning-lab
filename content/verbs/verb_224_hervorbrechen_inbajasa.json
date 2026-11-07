@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_224",
+  "lemma_ar": "نَبَجَسَ",
+  "root": "ب-ج-س",
+  "meaning_de": "hervorbrechen / emporschießen",
+  "meaning_en": "to gush forth / spring forth under hydrostatic pressure",
+  "conjugation": {
+    "past": {
+      "ar": "انْبَجَسَ الدَّفْقُ حِينَ انْفَتَحَ صِمَامُ الرَّصَاصِ",
+      "de": "Der Strahl brach hervor, als das Bleiventil geöffnet wurde",
+      "en": "The jet gushed forth when the lead valve was opened"
+    },
+    "present": {
+      "ar": "يَنْبَجِسُ فِي الهَوَاءِ كَعَمُودٍ مِنَ البِلَّوْرِ",
+      "de": "Es schießt wie eine Kristallsäule in die Luft empor",
+      "en": "It gushes into the air like a pillar of crystal"
+    },
+    "imperative": {
+      "ar": "انْبَجِسْ بِلَا انْقِطَاعٍ لِتَرْوِيَ الفِنَاءَ",
+      "de": "Brich ohne Unterlass hervor, um den Hof zu kühlen!",
+      "en": "Gush forth ceaselessly to refresh the courtyard!"
+    }
+  }
+}

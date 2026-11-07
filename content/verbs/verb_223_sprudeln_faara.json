@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_223",
+  "lemma_ar": "فَارَ",
+  "root": "ف-و-ر",
+  "meaning_de": "sprudeln / als Fontäne aufsteigen",
+  "meaning_en": "to bubble up / jet upward as a fountain",
+  "conjugation": {
+    "past": {
+      "ar": "فَارَ المَاءُ مِنْ قَلْبِ الحَوْضِ الرُّخَامِيِّ",
+      "de": "Das Wasser sprudelte aus der Mitte des Marmorbeckens",
+      "en": "The water jetted up from the heart of the marble basin"
+    },
+    "present": {
+      "ar": "يَفُورُ النَّبْعُ بِخَرِيرٍ عَذْبٍ مُطْمَئِنٍّ",
+      "de": "Die Quelle sprudelt mit lieblichem, beruhigendem Plätschern",
+      "en": "The fountain bubbles with sweet, tranquil murmur"
+    },
+    "imperative": {
+      "ar": "فُرْ بِانْسِيَابٍ هَادِئٍ يَبْعَثُ السَّكِينَةَ",
+      "de": "Sprudle in sanftem Fluss, der Ruhe stiftet!",
+      "en": "Bubble in gentle flow that instills serenity!"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "category_id": "119",
+  "slug": "andalusian_gravity_fountains",
+  "name": {
+    "ar": "أَدَوَاتُ فَوَّارَاتِ المِيَاهِ وَأَنَابِيبِ الرِّيَاضِ التُّرَاثِيَّةُ",
+    "de": "Andalusische Wasserspiele und traditionelle Brunnenleitungen",
+    "en": "Andalusian Gravity Fountains and Courtyard Water Jet Tools"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "conical_copper_jet",
+      "ar": "فُوَّهَةُ الفَوَّارَةِ النُّحَاسِيَّةُ المَخْرُوطِيَّةُ",
+      "de": "Die konische Kupferdüse der Fontäne",
+      "en": "Conical cast copper fountain jet nozzle",
+      "asset_key": "svg_cat119_conical_copper_jet"
+    },
+    {
+      "id": "carved_marble_basin",
+      "ar": "حَوْضُ الفَوَّارَةِ الرُّخَامِيُّ المَنْحُوتُ",
+      "de": "Das gemeißelte Marmorschöpfbecken",
+      "en": "Carved polygonal white marble fountain basin",
+      "asset_key": "svg_cat119_carved_marble_basin"
+    },
+    {
+      "id": "gravity_header_tank",
+      "ar": "صَهْرِيجُ التَّغْذِيَةِ العُلْوِيُّ",
+      "de": "Der hochliegende Wasserspeichertank",
+      "en": "Elevated gravity water feed cistern",
+      "asset_key": "svg_cat119_gravity_header_tank"
+    }
+  ]
+}
