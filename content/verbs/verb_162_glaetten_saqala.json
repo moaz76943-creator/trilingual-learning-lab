@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_162",
+  "lemma_ar": "صَقَلَ",
+  "root": "ص-ق-ل",
+  "meaning_de": "mit Achatstein glätten / satinieren",
+  "meaning_en": "to burnish / glaze with an agate stone",
+  "conjugation": {
+    "past": {
+      "ar": "صَقَلَ الوَرَّاقُ وَجْهَ الكَاغَدِ",
+      "de": "Der Papiermacher satinierte die Oberfläche des Blattes",
+      "en": "The papermaker burnished the sheet surface"
+    },
+    "present": {
+      "ar": "يَصْقُلُ الصَّحِيفَةَ حَتَّى تَلْمَعَ",
+      "de": "Er glättet das Blatt, bis es seidig glänzt",
+      "en": "He burnishes the leaf until it gleams silkily"
+    },
+    "imperative": {
+      "ar": "اصْقُلْ بِحَرَكَاتٍ مُتَوَازِيَةٍ",
+      "de": "Glätte in gleichmäßigen Parallelbahnen!",
+      "en": "Burnish in smooth, parallel strokes!"
+    }
+  }
+}

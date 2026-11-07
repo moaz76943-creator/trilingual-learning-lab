@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_161",
+  "lemma_ar": "أَهَّرَ",
+  "root": "أ-ه-ر",
+  "meaning_de": "mit Stärke leimen / stärken",
+  "meaning_en": "to size paper with starch paste",
+  "conjugation": {
+    "past": {
+      "ar": "أَهَّرَ الصَّانِعُ صَفَحَاتِ المَخْطُوطِ",
+      "de": "Der Handwerker leimte die Seiten des Manuskripts",
+      "en": "The artisan sized the manuscript sheets with starch"
+    },
+    "present": {
+      "ar": "يُؤَهِّرُ الوَرَقَ بِمِفْرَشَةٍ نَاعِمَةٍ",
+      "de": "Er leimt das Papier mit einem weichen Pinsel",
+      "en": "He sizes the paper with a soft brush"
+    },
+    "imperative": {
+      "ar": "أَهِّرْ بِاعْتِدَالٍ كَيْ لَا يَتَجَعَّدَ",
+      "de": "Leime maßvoll, damit es nicht wellt!",
+      "en": "Size moderately so it does not wrinkle!"
+    }
+  }
+}

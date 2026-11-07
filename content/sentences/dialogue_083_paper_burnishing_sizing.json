@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_083",
+  "title": {
+    "ar": "تَأْهِيرُ وَرَقِ الكَتَّانِ وَصَقْلُهُ بِحَجَرِ العَقِيقِ",
+    "de": "Leimen des Leinenpapiers mit Stärke und Achat-Politur",
+    "en": "Starch Sizing and Agate Burnishing of Linen Paper"
+  },
+  "level": "B1",
+  "topic": "traditional_papermaking_and_conservation",
+  "lines": [
+    {
+      "speaker": "بُرْهَانٌ",
+      "ar": "لِمَاذَا نَطْلِي وَرَقَ الكَتَّانِ بِعَصِيدَةِ النَّشَا الرَّقِيقَةِ قَبْلَ الكِتَابَةِ عَلَيْهِ؟",
+      "de": "Warum bestreichen wir das Leinenpapier vor dem Beschreiben mit feinem Stärkekleister?",
+      "en": "Why do we coat the linen paper with thin starch paste prior to writing upon it?"
+    },
+    {
+      "speaker": "عَاصِمٌ",
+      "ar": "لِنَسُدَّ الفَرَاغَاتِ بَيْنَ الأَلْيَافِ فَلَا يَتَسَرَّبَ الحِبْرُ إِلَى بَاطِنِ الصَّفْحَةِ.",
+      "de": "Um die Lücken zwischen den Fasern zu schließen, damit die Tinte nicht in das Blattinnere sickert.",
+      "en": "To seal the interstices between fibers so that ink does not bleed into the core of the sheet."
+    },
+    {
+      "speaker": "بُرْهَانٌ",
+      "ar": "وَالآنَ نَدْلُكُ الوَجْهَيْنِ بِحَجَرِ العَقِيقِ الأَمْلَسِ حَتَّى يَغْدُوَ المَلْمَسُ كَالزُّجَاجِ.",
+      "de": "Und nun reiben wir beide Seiten mit dem glatten Achatstein, bis die Haptik wie Glas wird.",
+      "en": "And now we burnish both sides with the smooth agate stone until the feel resembles glass."
+    }
+  ]
+}

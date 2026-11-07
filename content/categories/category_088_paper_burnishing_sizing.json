@@ -1,0 +1,33 @@
+{
+  "category_id": "088",
+  "slug": "paper_burnishing_sizing",
+  "name": {
+    "ar": "أَدَوَاتُ تَأْهِيرِ الوَرَقِ وَحِجَارَةِ العَقِيقِ التُّرَاثِيَّةُ",
+    "de": "Werkzeuge zur Papierleimung und Achatglättung",
+    "en": "Paper Starch Sizing and Agate Burnishing Implements"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "agate_burnisher",
+      "ar": "حَجَرُ العَقِيقِ المَصْقُولُ",
+      "de": "Der polierte Achatglättstein",
+      "en": "Polished agate stone burnisher",
+      "asset_key": "svg_cat088_agate_burnisher"
+    },
+    {
+      "id": "starch_size",
+      "ar": "أَهَارُ النَّشَا لِتَقْوِيَةِ الوَرَقِ",
+      "de": "Der gekochte Stärkekleister zur Papierleimung",
+      "en": "Cooked rice-starch sizing paste",
+      "asset_key": "svg_cat088_starch_size"
+    },
+    {
+      "id": "burnishing_board",
+      "ar": "لَوْحُ الصَّقْلِ الخَشَبِيُّ",
+      "de": "Das glatte Hartholz-Polierbrett",
+      "en": "Hardwood paper burnishing board",
+      "asset_key": "svg_cat088_burnishing_board"
+    }
+  ]
+}
