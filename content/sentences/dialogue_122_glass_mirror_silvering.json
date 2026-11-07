@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_122",
+  "title": {
+    "ar": "تَفْضِيضُ أَلْوَاحِ الزُّجَاجِ وَصِنَاعَةُ المَرَايَا الصَّافِيَةِ",
+    "de": "Versilbern von Glasplatten und Herstellung klarer Spiegel",
+    "en": "Silvering Glass Plates and Crafting True Reflective Mirrors"
+  },
+  "level": "B1",
+  "topic": "traditional_optics_and_mirror_making",
+  "lines": [
+    {
+      "speaker": "المِرْآتِيُّ صُبَيْحٌ",
+      "ar": "كَيْفَ نُسَوِّي صَفِيحَةَ الزُّجَاجِ قَبْلَ صَبِّ مَحْلُولِ الفِضَّةِ كَيْ لَا تَتَمَوَّجَ الصُّورَةُ؟",
+      "de": "Wie glätten wir die Glasplatte vor dem Aufbringen der Silberlösung, damit das Bild nicht wellt?",
+      "en": "How do we level the glass plate before pouring the silver solution so the image does not ripple?"
+    },
+    {
+      "speaker": "المُتَدَرِّبُ نَاصِحٌ",
+      "ar": "نَفْرُكُ السَّطْحَ بِمَسْحُوقِ حَجَرِ الخَفَّافِ النَّاعِمِ مَعَ المَاءِ، ثُمَّ نَغْسِلُهُ بِالخَلِّ المُنَقَّى حَتَّى يَزُولَ الغُبَارُ.",
+      "de": "Wir reiben die Fläche mit feinem Bimssteinpulver ab und waschen sie mit Essig, bis aller Staub weicht.",
+      "en": "We scrub the surface with fine pumice powder and water, then rinse with distilled vinegar until all dust vanishes."
+    },
+    {
+      "speaker": "المِرْآتِيُّ صُبَيْحٌ",
+      "ar": "إِنَّ المِرْآةَ الصَّادِقَةَ تُشْبِهُ القَلْبَ النَّقِيَّ الَّذِي يَعْكِسُ خَيْرَ مَا فِي النُّفُوسِ دُونَ كِبْرٍ.",
+      "de": "Der lautere Spiegel gleicht dem reinen Herzen, das das Gute im Menschen ohne Eitelkeit widerspiegelt.",
+      "en": "The true mirror resembles the pure heart that reflects goodness in souls without vanity."
+    }
+  ]
+}

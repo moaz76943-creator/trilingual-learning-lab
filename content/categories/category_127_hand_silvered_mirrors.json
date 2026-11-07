@@ -1,0 +1,33 @@
+{
+  "category_id": "127",
+  "slug": "hand_silvered_mirrors",
+  "name": {
+    "ar": "أَدَوَاتُ تَفْضِيضِ المَرَايَا وَصَقْلِ الزُّجَاجِ التُّرَاثِيَّةُ",
+    "de": "Spiegel-Versilberungswerkzeuge und optisches Polierglas",
+    "en": "Hand-Silvered Mirrors, Glass Polishing and Optical Tools"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "silvered_glass_mirror",
+      "ar": "مِرْآةُ الزُّجَاجِ المُفَضَّضَةُ",
+      "de": "Der handversilberte Glasspiegel",
+      "en": "Hand-silvered crystal glass wall mirror",
+      "asset_key": "svg_cat127_silvered_glass_mirror"
+    },
+    {
+      "id": "pumice_polishing_powder",
+      "ar": "مَسْحُوقُ حَجَرِ الخَفَّافِ النَّاعِمُ",
+      "de": "Das feine Bimsstein-Polierpulver",
+      "en": "Fine volcanic pumice glass-smoothing powder",
+      "asset_key": "svg_cat127_pumice_polishing_powder"
+    },
+    {
+      "id": "protective_varnish_brush",
+      "ar": "فُرْشَاةُ طِلَاءِ ظَهْرِ المِرْآةِ الوَاقِي",
+      "de": "Der Pinsel für den Schutzlack der Spiegelfolie",
+      "en": "Protective mirror backing lacquer brush",
+      "asset_key": "svg_cat127_protective_varnish_brush"
+    }
+  ]
+}

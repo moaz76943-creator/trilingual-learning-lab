@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_240",
+  "lemma_ar": "عَكَسَ",
+  "root": "ع-ك-س",
+  "meaning_de": "spiegeln / Lichtstrahlen reflektieren",
+  "meaning_en": "to reflect / return light rays and faithful images",
+  "conjugation": {
+    "past": {
+      "ar": "عَكَسَتِ المِرْآةُ نُورَ الشَّمْسِ البَهِيجَ",
+      "de": "Der Spiegel reflektierte das heitere Sonnenlicht",
+      "en": "The mirror reflected the radiant sunlight"
+    },
+    "present": {
+      "ar": "يَعْكِسُ السَّطْحُ المَصْقُولُ كُلَّ تَفَاصِيلِ الرُّؤْيَةِ",
+      "de": "Die polierte Fläche spiegelt jedes Detail des Blicks wider",
+      "en": "The polished surface reflects every detail of sight"
+    },
+    "imperative": {
+      "ar": "اعْكِسِ الصِّدْقَ فِي قَوْلِكَ وَعَمَلِكَ",
+      "de": "Spiegle Aufrichtigkeit in Wort und Tat!",
+      "en": "Reflect sincerity in your words and deeds!"
+    }
+  }
+}
