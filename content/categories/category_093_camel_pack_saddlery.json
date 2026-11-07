@@ -1,0 +1,33 @@
+{
+  "category_id": "093",
+  "slug": "camel_pack_saddlery",
+  "name": {
+    "ar": "أَدَوَاتُ أَقْتَابِ الإِبِلِ وَسِرَاجَةِ الرِّحَالِ التُّرَاثِيَّةُ",
+    "de": "Kamelsattelbäume und traditionelle Wüstengeschirre",
+    "en": "Camel Pack Saddles and Traditional Desert Harnesses"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "carved_saddle_tree",
+      "ar": "قَتَبُ الجَمَلِ المَنْحُوتُ",
+      "de": "Der geschnitzte Kamelsattelbaum aus Holz",
+      "en": "Carved hardwood camel pack-saddle frame",
+      "asset_key": "svg_cat093_carved_saddle_tree"
+    },
+    {
+      "id": "braided_girth",
+      "ar": "حِزَامُ البِطَانِ المَجْدُولُ",
+      "de": "Der geflochtene lederne Bauchgurt",
+      "en": "Braided leather saddle girth strap",
+      "asset_key": "svg_cat093_braided_girth"
+    },
+    {
+      "id": "stipa_padding",
+      "ar": "حَشْوَةُ نَبَاتِ الحَلْفَاءِ",
+      "de": "Das Polster aus weichem Halfagras",
+      "en": "Resilient stipa grass cushion pad",
+      "asset_key": "svg_cat093_stipa_padding"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_172",
+  "lemma_ar": "بَطَنَ",
+  "root": "ب-ط-ن",
+  "meaning_de": "den Bauchgurt anlegen / festgurten",
+  "meaning_en": "to fasten the girth strap beneath the belly",
+  "conjugation": {
+    "past": {
+      "ar": "بَطَنَ المُسَافِرُ رَحْلَهُ بِحِزَامٍ مَجْدُولٍ",
+      "de": "Der Reisende gurtete seinen Sattel mit einem geflochtenen Riemen",
+      "en": "The traveler fastened his saddle with a braided girth"
+    },
+    "present": {
+      "ar": "يَبْطُنُ الدَّابَّةَ بِاعْتِدَالٍ كَيْ تَتَنَفَّسَ",
+      "de": "Er gurtet das Tier maßvoll, damit es frei atmet",
+      "en": "He tightens the girth moderately so it breathes freely"
+    },
+    "imperative": {
+      "ar": "ابْطُنْ بِإِحْكَامٍ دُونَ عَسْفٍ",
+      "de": "Gurte sicher, aber ohne Härte fest!",
+      "en": "Fasten securely without pinching!"
+    }
+  }
+}

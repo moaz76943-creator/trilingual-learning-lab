@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_088",
+  "title": {
+    "ar": "صِنَاعَةُ أَقْتَابِ الجِمَالِ وَتَبْطِينِ أَحْزِمَةِ الرِّحَالِ",
+    "de": "Herstellung von Kamelsattelbäumen und Polstergurten",
+    "en": "Crafting Camel Pack Saddles and Padded Girths"
+  },
+  "level": "B1",
+  "topic": "traditional_saddlery_and_animal_welfare",
+  "lines": [
+    {
+      "speaker": "سُوَيْدٌ",
+      "ar": "كَيْفَ نَقِيسُ انْحِنَاءَ عَصَبِ القَتَبِ لِيَسْتَقِرَّ فَوْقَ غَارِبِ البَعِيرِ دُونَ عَقْرٍ؟",
+      "de": "Wie messen wir die Krümmung des Sattelholzes, damit es ohne Druckstellen auf dem Kamelwiderrist ruht?",
+      "en": "How do we gauge the curvature of the saddle tree so it sits upon the camel wither without chafing?"
+    },
+    {
+      "speaker": "غَانِمٌ",
+      "ar": "نَنْحَتُ خَشَبَ الطَّلْحِ مُتَوَازِيًا مَعَ فَقَرَاتِ الظَّهْرِ، ثُمَّ نُحْشِي الجِلْدَ المَدْبُوغَ بِنَبَاتِ الحَلْفَاءِ المَرِنِ.",
+      "de": "Wir schnitzen das Akazienholz passgenau und polstern das gegerbte Leder mit weichem Steppengras.",
+      "en": "We carve the acacia wood parallel to the spine and line the tanned leather with resilient stipa grass."
+    },
+    {
+      "speaker": "سُوَيْدٌ",
+      "ar": "إِنَّ إِحْسَانَ تَبْطِينِ القَتَبِ رَحْمَةٌ بِالحَيَوَانِ تُعِينُهُ عَلَى قَطْعِ الفَيَافِي بِأَمَانٍ.",
+      "de": "Eine sorgfältige Sattelpolsterung ist Barmherzigkeit gegenüber dem Tier und hilft ihm, Weiten sicher zu queren.",
+      "en": "Careful padding of the saddle is mercy toward the animal, aiding it to cross the arid plains safely."
+    }
+  ]
+}
