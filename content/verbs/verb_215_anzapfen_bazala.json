@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_215",
+  "lemma_ar": "بَزَلَ",
+  "root": "ب-ز-ل",
+  "meaning_de": "anzapfen / Saft gewinnen",
+  "meaning_en": "to tap / draw sweet sap from palm crown",
+  "conjugation": {
+    "past": {
+      "ar": "بَزَلَ الزَّارِعُ جِذْعَ النَّخْلَةِ الكَرِيمَةِ",
+      "de": "Der Landwirt zapfte den Stamm der edlen Palme an",
+      "en": "The farmer tapped the trunk of the noble palm"
+    },
+    "present": {
+      "ar": "يَبْزُلُ النَّسْغَ عِنْدَ انْبِلَاجِ الصَّبَاحِ",
+      "de": "Er zapft den Saft beim ersten Morgengrauen ab",
+      "en": "He draws the sap at the break of dawn"
+    },
+    "imperative": {
+      "ar": "ابْزُلْ بِرِفْقٍ دُونَ إِضْرَارٍ بِالجُمَّارِ",
+      "de": "Zapfe behutsam, ohne das Palmenherz zu verletzen!",
+      "en": "Tap gently without harming the palm heart!"
+    }
+  }
+}

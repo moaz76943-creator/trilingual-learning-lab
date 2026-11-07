@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_216",
+  "lemma_ar": "عَقَدَ_دِبْس",
+  "root": "ع-ق-د",
+  "meaning_de": "eindicken / Sirup einkochen",
+  "meaning_en": "to condense / thicken syrup by boiling into molasses",
+  "conjugation": {
+    "past": {
+      "ar": "عَقَدَ الصَّانِعُ عَصِيرَ النَّسْغِ عَلَى النَّارِ",
+      "de": "Der Handwerker dickte den Palmsaft über dem Feuer ein",
+      "en": "The artisan condensed the sap juice over the fire"
+    },
+    "present": {
+      "ar": "يَعْقِدُ السَّائِلَ حَتَّى يَثْخُنَ قِوَامُهُ",
+      "de": "Er kocht die Flüssigkeit ein, bis sie zähflüssig wird",
+      "en": "He thickens the liquid until its texture turns viscous"
+    },
+    "imperative": {
+      "ar": "اعْقِدْ بِمَهَلٍ مَعَ التَّحْرِيكِ المُتَّصِلِ",
+      "de": "Koche langsam unter stetem Rühren ein!",
+      "en": "Condense slowly with continuous stirring!"
+    }
+  }
+}

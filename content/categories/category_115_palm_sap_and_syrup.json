@@ -1,0 +1,33 @@
+{
+  "category_id": "115",
+  "slug": "palm_sap_and_syrup",
+  "name": {
+    "ar": "أَدَوَاتُ جَنْيِ نَسْغِ النَّخِيلِ وَقُدُورِ تَكْثِيفِ الدِّبْسِ",
+    "de": "Palmsaftgewinnung und Sirup-Eindickpfannen",
+    "en": "Palm Sap Tapping Implements and Molasses Evaporator Pans"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "clay_sap_cup",
+      "ar": "مَحْجَمُ جَنْيِ النَّسْغِ الفَخَّارِيُّ",
+      "de": "Der irdene Auffangkrug für Palmsaft",
+      "en": "Earthenware palm sap collection cup",
+      "asset_key": "svg_cat115_clay_sap_cup"
+    },
+    {
+      "id": "curved_bark_knife",
+      "ar": "مِسْحَاةُ جَذْبِ الجُمَّارِ المُنْحَنِيَةُ",
+      "de": "Das gebogene Palmschälmesser",
+      "en": "Curved palm crown draw-shave knife",
+      "asset_key": "svg_cat115_curved_bark_knife"
+    },
+    {
+      "id": "copper_syrup_pan",
+      "ar": "طَاسَةُ تَكْثِيفِ الدِّبْسِ النُّحَاسِيَّةُ",
+      "de": "Die flache kupferne Sirupeindickpfanne",
+      "en": "Shallow copper molasses boiling pan",
+      "asset_key": "svg_cat115_copper_syrup_pan"
+    }
+  ]
+}

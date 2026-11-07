@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_110",
+  "title": {
+    "ar": "جَنْيُ نَسْغِ النَّخِيلِ البَرِّيِّ وَطَبْخُ دِبْسِ التَّمْرِ الذَّهَبِيِّ",
+    "de": "Gewinnung des Palmsaftes und Einkochen von goldenem Dattelsirup",
+    "en": "Harvesting Wild Palm Sap and Boiling Golden Date Molasses"
+  },
+  "level": "B1",
+  "topic": "traditional_oasis_agroforestry_and_syrup_making",
+  "lines": [
+    {
+      "speaker": "الفَلَّاحُ مَحْرُوسٌ",
+      "ar": "كَيْفَ نَشُقُّ لِحَاءَ جُمَّارِ النَّخْلَةِ دُونَ أَنْ نَجْرَحَ قَلْبَهَا النَّابِضَ بِالحَيَاةِ؟",
+      "de": "Wie ritzen wir die Rinde der Palmenkrone an, ohne das lebendige Herz des Baumes zu verletzen?",
+      "en": "How do we score the bark of the palm crown without injuring its living heartwood?"
+    },
+    {
+      "speaker": "الشَّابُّ رَشِيدٌ",
+      "ar": "نَقْشِطُ طَبَقَةً رَقِيقَةً بِمِسْحَاةِ القَشْطِ المُنْحَنِيَةِ، ثُمَّ نُعَلِّقُ قَادُوسَ الفَخَّارِ لِيَقْطُرَ فِيهِ السَّائِلُ العَذْبُ.",
+      "de": "Wir schaben eine feine Schicht mit dem Hohleisen und hängen den Tonkrug auf, damit der Saft tropft.",
+      "en": "We shave a thin layer with the curved draw-knife and suspend the clay cup to catch the sweet drips."
+    },
+    {
+      "speaker": "الفَلَّاحُ مَحْرُوسٌ",
+      "ar": "ثُمَّ نَطْبُخُهُ فِي طَاسَةِ النُّحَاسِ العَرِيضَةِ حَتَّى يَعْقِدَ دِبْسًا عَسَلِيًّا زَكِيَّ الرَّائِحَةِ.",
+      "de": "Dann kochen wir ihn in der flachen Kupferpfanne ein, bis er zu duftendem, honiggleichem Sirup dickt.",
+      "en": "Then we simmer it in the wide copper pan until it condenses into aromatic honey-like molasses."
+    }
+  ]
+}
