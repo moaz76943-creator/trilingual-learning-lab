@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_167",
+  "lemma_ar": "نَفَخَ",
+  "root": "ن-ف-خ",
+  "meaning_de": "den Blasebalg betätigen / anfachen",
+  "meaning_en": "to pump bellows / blow air to kindle fire",
+  "conjugation": {
+    "past": {
+      "ar": "نَفَخَ الصَّبِيُّ الهَوَاءَ فِي الكُورِ",
+      "de": "Der Gehilfe blies die Luft in die Esse",
+      "en": "The apprentice pumped air into the forge hearth"
+    },
+    "present": {
+      "ar": "يَنْفُخُ الكِيرَ لِيُذْكِيَ جَمْرَ الفَحْمِ",
+      "de": "Er betätigt den Blasebalg, um die Kohlen anzufeuern",
+      "en": "He pumps the bellows to kindle the charcoal embers"
+    },
+    "imperative": {
+      "ar": "انْفُخْ بِتَنَاغُمٍ دُونَ انْقِطَاعٍ",
+      "de": "Blase im Takt ohne Unterlass!",
+      "en": "Pump in rhythm without interruption!"
+    }
+  }
+}

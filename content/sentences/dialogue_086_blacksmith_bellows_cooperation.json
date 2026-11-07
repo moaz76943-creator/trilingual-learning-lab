@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_086",
+  "title": {
+    "ar": "تَنَاغُمُ ضَخِّ الكِيرِ وَطَرْقِ الحَدِيدِ عِنْدَ الكُورِ",
+    "de": "Zusammenspiel von Blasebalg und Amboss an der Esse",
+    "en": "Harmonizing the Forge Bellows and Anvil Hammering"
+  },
+  "level": "B1",
+  "topic": "traditional_blacksmithing_and_teamwork",
+  "lines": [
+    {
+      "speaker": "أَبُو طَالِبٍ",
+      "ar": "انْفُخْ بِالكِيرِ المَزْدُوجِ نَفْخًا مُنْتَظَمًا كَيْ لَا تَبْرُدَ صَفِيحَةُ الفُولَاذِ.",
+      "de": "Betätige den Doppelblasebalg gleichmäßig, damit das Stahlband nicht erkaltet.",
+      "en": "Pump the double bellows in a steady cadence so the steel bar does not lose its heat."
+    },
+    {
+      "speaker": "سَعْدٌ",
+      "ar": "أَرَى لَوْنَ الحَدِيدِ تَوَهَّجَ بِالبَيَاضِ السَّاطِعِ؛ هَلْ أَسْحَبُهُ الآنَ إِلَى السِّنْدَانِ؟",
+      "de": "Ich sehe, wie das Eisen weißglühend strahlt; soll ich es nun auf den Amboss ziehen?",
+      "en": "I see the iron glowing with radiant white heat; shall I draw it onto the anvil now?"
+    },
+    {
+      "speaker": "أَبُو طَالِبٍ",
+      "ar": "أَمْسِكْهُ بِمِلْقَطِكَ بِإِحْكَامٍ؛ سَأَطْرُقُ الحَافَةَ بِضَرَبَاتٍ رَزِينَةٍ لِأَصُوغَ شَفْرَةً مَصْقُولَةً.",
+      "de": "Halte es fest mit der Zange; ich werde den Rand mit gezielten Schlägen zur Klinge formen.",
+      "en": "Grip it firmly with your tongs; I will forge the bevel with measured blows to shape a true blade."
+    }
+  ]
+}

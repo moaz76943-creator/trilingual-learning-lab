@@ -1,0 +1,33 @@
+{
+  "category_id": "091",
+  "slug": "traditional_forge_and_bellows",
+  "name": {
+    "ar": "أَدَوَاتُ كُورِ الحِدَادَةِ وَأَكْيَارِ الجِلْدِ التُّرَاثِيَّةُ",
+    "de": "Schmiedeessen und lederne Blasebälge",
+    "en": "Traditional Forge Hearths and Leather Bellows"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "double_bellows",
+      "ar": "كِيرُ الجِلْدِ المُزْدَوَجُ",
+      "de": "Der lederne Doppelkammer-Blasebalg",
+      "en": "Double-chamber leather forge bellows",
+      "asset_key": "svg_cat091_double_bellows"
+    },
+    {
+      "id": "steel_anvil",
+      "ar": "سِنْدَانُ الفُولَاذِ المَصْقُولُ",
+      "de": "Der geschmiedete stählerne Amboss",
+      "en": "Polished forged steel anvil",
+      "asset_key": "svg_cat091_steel_anvil"
+    },
+    {
+      "id": "ember_tongs",
+      "ar": "مِلْقَطُ الجَمْرِ الحَدِيدِيُّ",
+      "de": "Die geschmiedete Schmiedezange für Glut",
+      "en": "Forged iron blacksmith ember tongs",
+      "asset_key": "svg_cat091_ember_tongs"
+    }
+  ]
+}

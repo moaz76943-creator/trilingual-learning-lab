@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_168",
+  "lemma_ar": "طَرَقَ",
+  "root": "ط-ر-ق",
+  "meaning_de": "schmieden / mit dem Hammer formen",
+  "meaning_en": "to forge / hammer hot iron on the anvil",
+  "conjugation": {
+    "past": {
+      "ar": "طَرَقَ الحَدَّادُ الحَدِيدَ المُحْمَى",
+      "de": "Der Schmied hämmerte das glühende Eisen",
+      "en": "The blacksmith hammered the glowing iron"
+    },
+    "present": {
+      "ar": "يَطْرُقُ النَّصْلَ عَلَى السِّنْدَانِ بِعَزِيمَةٍ",
+      "de": "Er schmiedet die Klinge kraftvoll auf dem Amboss",
+      "en": "He hammers the blade on the anvil with resolve"
+    },
+    "imperative": {
+      "ar": "اطْرُقْ وَالحَدِيدُ سَاخِنٌ",
+      "de": "Schmiede das Eisen, solange es heiß ist!",
+      "en": "Strike the iron while it is hot!"
+    }
+  }
+}
