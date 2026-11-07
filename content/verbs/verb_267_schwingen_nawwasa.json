@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_267",
+  "lemma_ar": "نَوَّسَ",
+  "root": "ن-و-س",
+  "meaning_de": "schwingen / im Pendeltakt schlagen",
+  "meaning_en": "to oscillate / swing as an isochronous pendulum",
+  "conjugation": {
+    "past": {
+      "ar": "نَوَّسَ الرَّقَّاصُ بِحَرَكَةٍ دَقِيقَةٍ ثَابِتَةٍ",
+      "de": "Das Pendel schwang in steter, gleichmäßiger Bahn",
+      "en": "The pendulum oscillated in a steady, precise arc"
+    },
+    "present": {
+      "ar": "يُنَوِّسُ بِإِيقَاعٍ مُنْتَظَمٍ يُقَسِّمُ السَّاعَةَ",
+      "de": "Es schwingt im Takte, der die Stunde teilt",
+      "en": "It swings in a measured cadence dividing the hour"
+    },
+    "imperative": {
+      "ar": "نَوِّسْ بِاتِّسَاقٍ لَا يُبْطِئُ وَلَا يُسْرِعُ",
+      "de": "Schwinge gleichförmig ohne Nachgehen oder Voreilen!",
+      "en": "Oscillate with symmetry neither gaining nor losing!"
+    }
+  }
+}

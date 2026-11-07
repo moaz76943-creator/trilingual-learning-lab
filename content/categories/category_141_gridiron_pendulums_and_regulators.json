@@ -1,0 +1,33 @@
+{
+  "category_id": "141",
+  "slug": "gridiron_pendulums_and_regulators",
+  "name": {
+    "ar": "أَدَوَاتُ رَقَّاصَاتِ التَّعْوِيضِ الحَرَارِيِّ وَسَاعَاتِ المِيقَاتِ الفَلَكِيَّةِ",
+    "de": "Kompensationspendel, Hemmungen und astronomische Präzisionsuhren",
+    "en": "Gridiron Pendulums, Escapements and Astronomical Regulators"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "gridiron_pendulum_frame",
+      "ar": "شَبَكَةُ قُضْبَانِ الرَّقَّاصِ الحَرَارِيِّ",
+      "de": "Das Rostgestell mit Messing- und Stahlstäben",
+      "en": "Bimetallic brass-and-steel gridiron pendulum frame",
+      "asset_key": "svg_cat141_gridiron_pendulum_frame"
+    },
+    {
+      "id": "lens_bob_micrometer",
+      "ar": "قُرْصُ الرَّقَّاصِ النُّحَاسِيُّ مَعَ بُرْغِي الضَّبْطِ",
+      "de": "Die schwere Messinglinse mit Rändelmutter",
+      "en": "Heavy brass pendulum lens bob with rating nut",
+      "asset_key": "svg_cat141_lens_bob_micrometer"
+    },
+    {
+      "id": "deadbeat_anchor_pallet",
+      "ar": "مِرْسَاةُ السَّقَّاطِ الرَّاكِدِ لِلتَّوْقِيتِ",
+      "de": "Der ruhende Graham-Anker der Hemmung",
+      "en": "Deadbeat anchor pallet escapement fork",
+      "asset_key": "svg_cat141_deadbeat_anchor_pallet"
+    }
+  ]
+}

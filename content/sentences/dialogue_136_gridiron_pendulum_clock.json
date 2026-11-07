@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_136",
+  "title": {
+    "ar": "مُعَايَرَةُ رَقَّاصِ السَّاعَةِ الفَلَكِيَّةِ وَضَبْطُ قُضْبَانِ التَّعْوِيضِ الحَرَارِيِّ",
+    "de": "Kalibrierung des astronomischen Rostpendels und Justierung der Ausgleichsstäbe",
+    "en": "Calibrating the Astronomical Gridiron Pendulum and Adjusting Thermal Compensation Rods"
+  },
+  "level": "B1",
+  "topic": "traditional_horology_and_thermal_compensation",
+  "lines": [
+    {
+      "speaker": "السَّاعَاتِيُّ بَهْرَامٌ",
+      "ar": "كَيْفَ نُنَظِّمُ قُضْبَانَ النُّحَاسِ وَالفُولَاذِ المُتَبَادِلَةَ فِي رَقَّاصِ السَّاعَةِ الجِدَارِيَّةِ؟",
+      "de": "Wie ordnen wir die abwechselnden Messing- und Stahlstäbe im Rostpendel der Standuhr an?",
+      "en": "How do we arrange the alternating brass and steel rods in the longcase clock gridiron pendulum?"
+    },
+    {
+      "speaker": "المُتَعَلِّمُ كَيْوَانٌ",
+      "ar": "نَجْعَلُ قُضْبَانَ النُّحَاسِ تَتَمَدَّدُ صَاعِدَةً فَتَرْفَعُ الثِّقَلَ، بَيْنَمَا تَتَمَدَّدُ قُضْبَانُ الفُولَاذِ هَابِطَةً، فَيَبْطُلُ الأَثَرُ.",
+      "de": "Die Messingstäbe dehnen sich nach oben und heben die Linse, während die Stahlstäbe nach unten dehnen und dies aufheben.",
+      "en": "The brass rods expand upward to raise the bob, while the steel rods expand downward, canceling out the shift."
+    },
+    {
+      "speaker": "السَّاعَاتِيُّ بَهْرَامٌ",
+      "ar": "فَيَظَلُّ طُولُ الرَّقَّاصِ قَيْدَ شَعْرَةٍ لَا يَتَغَيَّرُ، شَاهِدًا عَلَى تَنَاغُمِ عِلْمِ الطَّبِيعَةِ مَعَ حِكْمَةِ الصَّانِعِ.",
+      "de": "So bleibt die Pendellänge haargenau konstant – ein Beweis für den Einklang der Physik mit der Kunst des Meisters.",
+      "en": "Thus the pendulum length remains constant to a hairsbreadth, attesting to physical law harmonized with artisanal skill."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_268",
+  "lemma_ar": "عَادَلَ",
+  "root": "ع-د-ل",
+  "meaning_de": "ausgleichen / thermisch kompensieren",
+  "meaning_en": "to offset / compensate thermal expansion differences",
+  "conjugation": {
+    "past": {
+      "ar": "عَادَلَ قَضِيبُ النُّحَاسِ تَمَدُّدَ الفُولَاذِ",
+      "de": "Der Messingstab glich die Ausdehnung des Stahls aus",
+      "en": "The brass rod offset the thermal expansion of the steel"
+    },
+    "present": {
+      "ar": "يُعَادِلُ تَغَيُّرَاتِ الفُصُولِ فَيَحْفَظُ الوَقْتَ",
+      "de": "Er gleicht die Jahreszeiten aus und wahrt die Zeit",
+      "en": "It compensates seasonal shifts, preserving true time"
+    },
+    "imperative": {
+      "ar": "عَادِلْ بِمِيزَانِ الصِّدْقِ دُونَ انْحِرَافٍ",
+      "de": "Gleiche nach dem Maß der Wahrheit ohne Abweichung aus!",
+      "en": "Compensate by the measure of truth without deviation!"
+    }
+  }
+}
