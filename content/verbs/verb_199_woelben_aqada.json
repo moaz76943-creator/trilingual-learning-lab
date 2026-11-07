@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_199",
+  "lemma_ar": "عَقَدَ",
+  "root": "ع-ق-د",
+  "meaning_de": "einen Bogen wölben / schließen",
+  "meaning_en": "to vault a stone arch / crown an architectural arcade",
+  "conjugation": {
+    "past": {
+      "ar": "عَقَدَ البَنَّاءُ قَوْسَ القِنْطَرَةِ العَظِيمَةِ",
+      "de": "Der Maurer wölbte den Bogen der großen Brücke",
+      "en": "The mason vaulted the arch of the great bridge"
+    },
+    "present": {
+      "ar": "يَعْقِدُ الحِجَارَةَ بِتَنَاظُرٍ مُحْكَمٍ",
+      "de": "Er schließt die Steine in vollendeter Symmetrie",
+      "en": "He vaults the stones in steadfast symmetry"
+    },
+    "imperative": {
+      "ar": "اعْقِدْ بِإِتْقَانٍ يَضْمَنُ بَقَاءَ البِنَاءِ",
+      "de": "Schließe den Bogen mit unvergänglicher Meisterschaft!",
+      "en": "Vault with craftsmanship that ensures eternal standing!"
+    }
+  }
+}

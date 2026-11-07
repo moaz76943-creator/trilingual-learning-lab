@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_102",
+  "title": {
+    "ar": "وَضْعُ حَجَرِ العَقْدِ فِي قِمَّةِ القَوْسِ الحَجَرِيِّ",
+    "de": "Setzen des Schlusssteins im Bogenscheitel",
+    "en": "Placing the Keystone at the Crown of the Stone Arch"
+  },
+  "level": "B1",
+  "topic": "traditional_stonemasonry_and_arch_geometry",
+  "lines": [
+    {
+      "speaker": "المِعْمَارِيُّ زَكَرِيَّا",
+      "ar": "هَلْ تَأَكَّدْتُمْ مِنْ تَسْوِيَةِ قَالَبِ الخَشَبِ المَقْوُوسِ قَبْلَ إِنْزَالِ الحَجَرِ الأَوْسَطِ؟",
+      "de": "Habt ihr das hölzerne Lehrgerüst genau ausgerichtet, bevor der mittlere Stein gesenkt wird?",
+      "en": "Did you verify the alignment of the wooden centering frame before lowering the central stone?"
+    },
+    {
+      "speaker": "البَنَّاءُ حَيَّانٌ",
+      "ar": "نَعَمْ، قَدْ نَحَتْنَا حَجَرَ العَقْدِ إِسْفِينًا دَقِيقًا يَقْفِلُ الصَّفَّيْنِ وَيَنْقُلُ الثِّقَلَ إِلَى الدِّعَامَاتِ.",
+      "de": "Ja, wir meißelten den Schlussstein als Keil, der beide Bogenhälften schließt und die Last ableitet.",
+      "en": "Yes, we dressed the keystone into an exact wedge that locks both halves and transfers the load to the piers."
+    },
+    {
+      "speaker": "المِعْمَارِيُّ زَكَرِيَّا",
+      "ar": "الآنَ نَسْحَبُ القَالَبَ فَيَقِفُ القَوْسُ بِنَفْسِهِ شَامِخًا فِي وَجْهِ صُرُوفِ الزَّمَانِ.",
+      "de": "Nun ziehen wir das Gerüst ab; der Bogen steht von selbst erhaben gegen den Lauf der Zeiten.",
+      "en": "Now we withdraw the centering frame; the arch stands self-supported and steadfast against the trials of time."
+    }
+  ]
+}

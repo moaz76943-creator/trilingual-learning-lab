@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_200",
+  "lemma_ar": "أَسْفَنَ",
+  "root": "س-ف-ن",
+  "meaning_de": "verkeilen / mit Keilen festigen",
+  "meaning_en": "to wedge firmly / secure with masonry shims",
+  "conjugation": {
+    "past": {
+      "ar": "أَسْفَنَ الحَجَّارُ مَفَاصِلَ العَقْدِ",
+      "de": "Der Steinmetz verkeilte die Bogenfugen",
+      "en": "The stonemason wedged the arch joints"
+    },
+    "present": {
+      "ar": "يُؤْسِفِنُ الكُتَلَ لِتَتَوَزَّعَ الأَحْمَالُ",
+      "de": "Er verkeilt die Blöcke zur gleichmäßigen Lastverteilung",
+      "en": "He wedges the blocks to balance load distribution"
+    },
+    "imperative": {
+      "ar": "أَسْفِنْ بِرِفْقٍ دُونَ كَسْرِ الحَافَّاتِ",
+      "de": "Verkeile behutsam ohne Kantenschaden!",
+      "en": "Wedge gently without fracturing the edges!"
+    }
+  }
+}

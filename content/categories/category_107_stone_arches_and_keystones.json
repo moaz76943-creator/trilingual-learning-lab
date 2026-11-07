@@ -1,0 +1,33 @@
+{
+  "category_id": "107",
+  "slug": "stone_arches_and_keystones",
+  "name": {
+    "ar": "أَدَوَاتُ أَقْوَاسِ الحَجَرِ وَحِجَارَةِ العَقْدِ التُّرَاثِيَّةُ",
+    "de": "Steinbogenbau und Schlussstein-Werkzeuge",
+    "en": "Stone Arches, Keystones and Masonry Centering Tools"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "arch_keystone",
+      "ar": "حَجَرُ العَقْدِ الإِسْفِينِيُّ",
+      "de": "Der keilförmige Schlussstein",
+      "en": "Dressed wedge-shaped masonry keystone",
+      "asset_key": "svg_cat107_arch_keystone"
+    },
+    {
+      "id": "wooden_centering",
+      "ar": "قَالَبُ العَقْدِ الخَشَبِيُّ",
+      "de": "Das hölzerne Bogenlehrgerüst",
+      "en": "Curved timber arch centering frame",
+      "asset_key": "svg_cat107_wooden_centering"
+    },
+    {
+      "id": "mason_stone_wedge",
+      "ar": "إِسْفِينُ ضَبْطِ المَدَامِيكِ",
+      "de": "Der Justierkeil für Quaderlagen",
+      "en": "Fine iron leveling shim wedge",
+      "asset_key": "svg_cat107_mason_stone_wedge"
+    }
+  ]
+}
