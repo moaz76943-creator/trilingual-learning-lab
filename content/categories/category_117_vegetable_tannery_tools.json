@@ -1,0 +1,33 @@
+{
+  "category_id": "117",
+  "slug": "vegetable_tannery_tools",
+  "name": {
+    "ar": "أَدَوَاتُ دِبَاغَةِ الجُلُودِ النَّبَاتِيَّةِ وَمَدَابِغِ القَرَظِ",
+    "de": "Pflanzliche Gerbereiwerkzeuge und Akazienbäder",
+    "en": "Vegetable Tannery Tools and Acacia Tannin Pits"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "wooden_stirring_paddle",
+      "ar": "مِخْوَاضُ الدِّبَاغَةِ الخَشَبِيُّ",
+      "de": "Das hölzerne Rührholz für die Gerbgrube",
+      "en": "Carved hardwood tannery stirring paddle",
+      "asset_key": "svg_cat117_wooden_stirring_paddle"
+    },
+    {
+      "id": "acacia_tannin_pod",
+      "ar": "قُرُونُ قَرَظِ السِّنْطِ المَسْحُوقَةُ",
+      "de": "Die gemahlenen Akazien-Gerbhülsen",
+      "en": "Crushed botanical acacia tannin pods",
+      "asset_key": "svg_cat117_acacia_tannin_pod"
+    },
+    {
+      "id": "scudding_beam_knife",
+      "ar": "مِجْرَدُ تَنْظِيفِ الإِهَابِ المُنْحَنِي",
+      "de": "Das zweihändige Schabeeisen zur Hautreinigung",
+      "en": "Curved two-handled hide scudding knife",
+      "asset_key": "svg_cat117_scudding_beam_knife"
+    }
+  ]
+}

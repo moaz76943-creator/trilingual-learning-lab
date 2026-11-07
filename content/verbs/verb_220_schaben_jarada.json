@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_220",
+  "lemma_ar": "جَرَدَ",
+  "root": "ج-ر-د",
+  "meaning_de": "schaben / Haare und Reste vom Leder abstreifen",
+  "meaning_en": "to scud / scrape hair and flesh from raw hide over beam",
+  "conjugation": {
+    "past": {
+      "ar": "جَرَدَ الدَّبَّاغُ الصُّوفَ عَنِ المَسْكِ بِالمِجْرَدِ",
+      "de": "Der Gerber schabte die Wolle mit dem Schabeeisen ab",
+      "en": "The tanner scraped the wool from the hide with the beam knife"
+    },
+    "present": {
+      "ar": "يَجْرُدُ الشَّوَائِبَ بِحَرَكَةٍ مُنْسَابَةٍ مُحْكَمَةٍ",
+      "de": "Er schabt die Rückstände mit gleichmäßigem Zug ab",
+      "en": "He scrapes away residues with smooth, firm strokes"
+    },
+    "imperative": {
+      "ar": "اجْرُدْ بِرِفْقٍ دُونَ خَدْشِ صَفْحَةِ الإِهَابِ",
+      "de": "Schabe behutsam, ohne die Narbenseite zu verletzen!",
+      "en": "Scrape gently without scoring the grain face!"
+    }
+  }
+}

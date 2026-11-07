@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_219",
+  "lemma_ar": "دَبَغَ",
+  "root": "د-ب-غ",
+  "meaning_de": "gerben / mit Pflanzenbrühe haltbar machen",
+  "meaning_en": "to tan / preserve raw hides with vegetable tannin liquor",
+  "conjugation": {
+    "past": {
+      "ar": "دَبَغَ الصَّانِعُ جِلْدَ الجَدْيِ بِالقَرَظِ",
+      "de": "Der Gerber gerbte das Ziegenleder mit Akaziensud",
+      "en": "The tanner tanned the goat hide with acacia liquor"
+    },
+    "present": {
+      "ar": "يَدْبَغُ الإِهَابَ فِي أَحْوَاضِ الطِّينِ",
+      "de": "Er gerbt die Rohhaut in den Lehmgruben",
+      "en": "He tans the hide within earthen pits"
+    },
+    "imperative": {
+      "ar": "ادْبَغْ بِتَأَنٍّ حَتَّى تَلِينَ الأَلْيَافُ",
+      "de": "Gerbe mit Geduld, bis die Fasern geschmeidig werden!",
+      "en": "Tan patiently until the fibers turn supple!"
+    }
+  }
+}

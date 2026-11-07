@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_112",
+  "title": {
+    "ar": "دِبَاغَةُ جُلُودِ المَاعِزِ بِعُصَارَةِ قَرَظِ السِّنْطِ الطَّبِيعِيِّ",
+    "de": "Gerben von Ziegenleder mit natürlichem Akaziensud",
+    "en": "Tanning Goat Hides with Natural Acacia Tannin Liquor"
+  },
+  "level": "B1",
+  "topic": "traditional_tannery_and_vegetable_leathercraft",
+  "lines": [
+    {
+      "speaker": "الدَّبَّاغُ وَاصِلٌ",
+      "ar": "كَيْفَ نُعِدُّ حَوْضَ الدِّبَاغَةِ النَّبَاتِيِّ لِيَكْتَسِبَ الجِلْدُ لَوْنَهُ العَسَلِيَّ المَرِنَ؟",
+      "de": "Wie bereiten wir die pflanzliche Gerbgrube vor, damit das Leder seinen geschmeidigen Honigton erhält?",
+      "en": "How do we prepare the botanical tanning pit so the hide acquires its supple honey hue?"
+    },
+    {
+      "speaker": "المُتَعَلِّمُ نَدِيمٌ",
+      "ar": "نَسْحَقُ قُرُونَ قَرَظِ السَّلَمِ الجَافَّةَ، ثُمَّ نَنْقَعُهَا فِي المَاءِ العَذْبِ قَبْلَ غَمْسِ الإِهَابِ المَنْزُوعِ الصُّوفِ.",
+      "de": "Wir mahlen getrocknete Akazienhülsen und weichen sie in Quellwasser ein, bevor wir die enthaarte Haut eintauchen.",
+      "en": "We crush dried acacia pods and steep them in fresh water before immersing the dehaired hide."
+    },
+    {
+      "speaker": "الدَّبَّاغُ وَاصِلٌ",
+      "ar": "سَنَقْلِبُ الجُلُودَ يَوْمِيًّا بِمِخْوَاضِ الخَشَبِ لِيَتَوَزَّعَ الدِّبَاغُ بِعَدْلٍ بَيْنَ الطَّبَقَاتِ.",
+      "de": "Wir wenden die Häute täglich mit dem Holzrührholz, damit sich die Gerbbrühe gleichmäßig verteilt.",
+      "en": "We will turn the hides daily with the wooden paddle so the tannin distributes evenly through the layers."
+    }
+  ]
+}
