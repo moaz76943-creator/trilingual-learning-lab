@@ -1,0 +1,33 @@
+{
+  "category_id": "136",
+  "slug": "faience_and_turquoise_glaze",
+  "name": {
+    "ar": "أَدَوَاتُ خَزَفِ الفَائِشِ وَأَمْلَاحِ التَّزْجِيجِ الفَيْرُوزِيِّ",
+    "de": "Fayence-Quarzwerkzeuge und Türkis-Salzglasuren",
+    "en": "Faience Quartz Paste, Turquoise Oxides and Self-Glazing Beads"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "quartz_faience_paste",
+      "ar": "عَجِينَةُ الفَائِشِ الكُوَارْتْزِيَّةُ",
+      "de": "Die quarzreiche Fayence-Knetmasse",
+      "en": "Silica-rich quartz faience modeling paste",
+      "asset_key": "svg_cat136_quartz_faience_paste"
+    },
+    {
+      "id": "turquoise_copper_frit",
+      "ar": "مَسْحُوقُ أُكْسِيدِ النُّحَاسِ الفَيْرُوزِيِّ",
+      "de": "Das türkise Kupfer-Frittenpulver",
+      "en": "Ground turquoise copper oxide glass frit",
+      "asset_key": "svg_cat136_turquoise_copper_frit"
+    },
+    {
+      "id": "earthenware_press_mold",
+      "ar": "قَالَبُ التَّشْكِيلِ الفَخَّارِيُّ لِلْخَرَزِ",
+      "de": "Die irdene Druckform für Amulettperlen",
+      "en": "Carved earthenware bead press-mold matrix",
+      "asset_key": "svg_cat136_earthenware_press_mold"
+    }
+  ]
+}

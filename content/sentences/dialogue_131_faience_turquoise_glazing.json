@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_131",
+  "title": {
+    "ar": "صِنَاعَةُ خَرَزِ الفَائِشِ الفَيْرُوزِيِّ بِعَجِينَةِ الكُوَارْتْزِ",
+    "de": "Herstellung von Fayence-Perlen aus Quarzpaste und Türkisglasur",
+    "en": "Crafting Turquoise Faience Beads with Quartz Paste"
+  },
+  "level": "B1",
+  "topic": "traditional_faience_and_ancient_mineral_glazes",
+  "lines": [
+    {
+      "speaker": "الصَّانِعُ عِرْفَانٌ",
+      "ar": "كَيْفَ نَعْجِنُ رَمْلَ السِّيلِيكَا النَّقِيَّ مَعَ النَّطْرُونِ لِيَصِيرَ قَابِلًا لِلتَّشْكِيلِ فِي القَوَالِبِ؟",
+      "de": "Wie kneten wir den reinen Quarzsand mit Natron an, damit er sich in Tonformen prägen lässt?",
+      "en": "How do we knead pure silica sand with natron so it becomes pliable for shaping inside press-molds?"
+    },
+    {
+      "speaker": "المُتَدَرِّبُ لُؤَيٌّ",
+      "ar": "نَمْزِجُهُ بِمَاءِ الصَّمْغِ العَرَبِيِّ وَأُكْسِيدِ النُّحَاسِ الأَزْرَقِ، فَيَنْدَفِعُ المِلْحُ إِلَى القِشْرَةِ أَثْنَاءَ الجَفَافِ.",
+      "de": "Wir mischen ihn mit Gummi arabicum und blauem Kupferoxid; das Salz wandert beim Trocknen an die Oberfläche.",
+      "en": "We mix it with gum arabic water and blue copper oxide; the salt migrates to the shell during air-drying."
+    },
+    {
+      "speaker": "الصَّانِعُ عِرْفَانٌ",
+      "ar": "عِنْدَ إِدْخَالِهِ فِي الأَتُونِ يَتَزَجَّجُ السَّطْحُ فَيَخْرُجُ الخَرَزُ كَأَنَّهُ حِجَارَةُ فَيْرُوزٍ قُطِفَتْ مِنْ عُرُوقِ الجَبَلِ.",
+      "de": "Im Ofen verglast die Außenschicht; die Perlen treten hervor wie Türkisgestein aus den Adern der Berge.",
+      "en": "Inside the kiln, the surface self-glazes; the beads emerge as though turquoise gems plucked from mountain veins."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_258",
+  "lemma_ar": "تَزَجَّجَ",
+  "root": "ز-ج-ج",
+  "meaning_de": "sich glasieren / glasartig schmelzen",
+  "meaning_en": "to self-glaze / form vitreous surface layer during firing",
+  "conjugation": {
+    "past": {
+      "ar": "تَزَجَّجَ سَطْحُ الخَرَزِ الفَيْرُوزِيِّ فِي الأَتُونِ",
+      "de": "Die Oberfläche der Türkisperlen verglaste im Ofen",
+      "en": "The turquoise bead surface self-glazed inside the kiln"
+    },
+    "present": {
+      "ar": "يَتَزَجَّجُ الغِلَافُ لِيَمْنَحَ البَرِيقَ النَّاصِعَ",
+      "de": "Die Hülle verglast und schenkt strahlenden Glanz",
+      "en": "The shell vitrifies, imparting a radiant glass sheen"
+    },
+    "imperative": {
+      "ar": "تَزَجَّجْ بِصَفَاءِ اللَّوْنِ دُونَ انْطِفَاءٍ",
+      "de": "Verglase in reiner Farbe ohne Eintrübung!",
+      "en": "Vitrify with clear, vibrant color without clouding!"
+    }
+  }
+}

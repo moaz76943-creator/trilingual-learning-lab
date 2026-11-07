@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_257",
+  "lemma_ar": "لَزَّ",
+  "root": "ل-ز-ز",
+  "meaning_de": "sintern / fest zusammenbacken",
+  "meaning_en": "to sinter / fuse mineral grains into solid body under heat",
+  "conjugation": {
+    "past": {
+      "ar": "لَزَّ حَبُّ الكُوَارْتْزِ عِنْدَ اشْتِدَادِ الحَرَارَةِ",
+      "de": "Das Quarzkorn sinterte bei zunehmender Hitze zusammen",
+      "en": "The quartz grains sintered tightly as heat intensified"
+    },
+    "present": {
+      "ar": "يَلُزُّ مَسْحُوقَ السِّيلِيكَا فَيَصِيرُ صَلْدًا",
+      "de": "Er sintert das Silikapulver zu festem Scherben",
+      "en": "It sinters the silica powder into solid stone-paste"
+    },
+    "imperative": {
+      "ar": "لُزَّ بِتَدَرُّجٍ حَرَارِيٍّ مُنْتَظَمٍ",
+      "de": "Sintere mit gleichmäßiger Temperatursteigerung!",
+      "en": "Sinter with steady, calibrated temperature progression!"
+    }
+  }
+}
