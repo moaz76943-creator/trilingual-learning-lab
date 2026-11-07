@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_203",
+  "lemma_ar": "لَبَّدَ",
+  "root": "ل-ب-د",
+  "meaning_de": "walken / filzen",
+  "meaning_en": "to full / felt wool fibers together with pressure and moisture",
+  "conjugation": {
+    "past": {
+      "ar": "لَبَّدَتِ الحِرَفِيَّةُ شَعْرَ الصُّوفِ فِي الحَصِيرَةِ",
+      "de": "Die Handwerkerin filzte die Wolle in der Matte",
+      "en": "The artisan felted the wool fibers inside the mat"
+    },
+    "present": {
+      "ar": "تُلَبِّدُ الطَّبَقَاتِ بِالضَّغْطِ المُتَوَاصِلِ",
+      "de": "Sie walkt die Lagen mit stetem Druck",
+      "en": "She felts the layers through continuous pressure"
+    },
+    "imperative": {
+      "ar": "لَبِّدْ بِعِنَايَةٍ حَتَّى يَتَمَاسَكَ السَّطْحُ",
+      "de": "Filze sorgfältig, bis die Fläche dicht bindet!",
+      "en": "Felt carefully until the surface binds firmly!"
+    }
+  }
+}

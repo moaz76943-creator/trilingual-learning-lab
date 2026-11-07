@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_204",
+  "lemma_ar": "لَفَّ",
+  "root": "ل-ف-ف",
+  "meaning_de": "einrollen / wickeln",
+  "meaning_en": "to roll the reed mat tightly / wrap around the wool core",
+  "conjugation": {
+    "past": {
+      "ar": "لَفَّ الفَتَى الحَصِيرَةَ لَفًّا وَثِيقًا",
+      "de": "Der Junge rollte die Matte straff ein",
+      "en": "The youth rolled the mat tightly"
+    },
+    "present": {
+      "ar": "يَلُفُّ القَصَبَ مَعَ دَرْكِهِ بِالأَقْدَامِ",
+      "de": "Er rollt das Schilf und walkt es mit den Füßen",
+      "en": "He rolls the reed bundle while pressing with his feet"
+    },
+    "imperative": {
+      "ar": "لُفَّ بِشِدَّةٍ تَمْنَعُ انْفِرَاطَ الصُّوفِ",
+      "de": "Rolle es fest, damit die Wolle nicht verrutscht!",
+      "en": "Roll tightly to prevent the wool from shifting!"
+    }
+  }
+}

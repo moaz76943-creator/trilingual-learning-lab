@@ -1,0 +1,33 @@
+{
+  "category_id": "109",
+  "slug": "wool_felting_and_mats",
+  "name": {
+    "ar": "أَدَوَاتُ تَلْبِيدِ الصُّوفِ وَحَصَائِرِ الدَّرْكِ التُّرَاثِيَّةُ",
+    "de": "Wollfilz-Werkzeuge und traditionelle Walkmatten",
+    "en": "Traditional Wool Felting and Rolling Mat Implements"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "reed_felting_mat",
+      "ar": "حَصِيرَةُ لَفِّ اللِّبَادِ القَصَبِيَّةُ",
+      "de": "Die Schilfmatte zum Einrollen des Filzes",
+      "en": "Woven reed felt-rolling mat",
+      "asset_key": "svg_cat109_reed_felting_mat"
+    },
+    {
+      "id": "dense_felt_rug",
+      "ar": "لِبَادُ الصُّوفِ المَرْصُوصُ",
+      "de": "Der verdichtete Wollfilzteppich",
+      "en": "Compacted insulating wool felt rug",
+      "asset_key": "svg_cat109_dense_felt_rug"
+    },
+    {
+      "id": "soapy_sprinkler",
+      "ar": "مِرْشَاشُ المَاءِ الصَّابُونِيِّ",
+      "de": "Das Sprenggefäß für Seifenwasser",
+      "en": "Hot soapy water sprinkling vessel",
+      "asset_key": "svg_cat109_soapy_sprinkler"
+    }
+  ]
+}

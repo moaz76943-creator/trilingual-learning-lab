@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_104",
+  "title": {
+    "ar": "صِنَاعَةُ لِبَادِ الصُّوفِ التُّرَاثِيِّ وَدَرْكُ الحَصِيرَةِ",
+    "de": "Herstellung des traditionellen Wollfilzes und Walken der Matte",
+    "en": "Crafting Traditional Wool Felt and Rolling the Reed Mat"
+  },
+  "level": "B1",
+  "topic": "traditional_wool_felting_and_nomadic_warmth",
+  "lines": [
+    {
+      "speaker": "أُمُّ مَيْسُورٍ",
+      "ar": "كَيْفَ نَبْسُطُ طَبَقَاتِ صُوفِ الضَّأْنِ الرَّبِيعِيِّ فَوْقَ حَصِيرَةِ القَصَبِ؟",
+      "de": "Wie breiten wir die Lagen der Frühlings-Schafwolle auf der Schilfmatte aus?",
+      "en": "How do we spread the layers of spring sheep wool across the reed mat?"
+    },
+    {
+      "speaker": "مَيْسُورٌ",
+      "ar": "نَفْرِشُهَا مُتَعَامِدَةً طَبَقَةً بَعْدَ طَبَقَةٍ، ثُمَّ نَرُشُّ المَاءَ السَّاخِنَ بِالصَّابُونِ البَلَدِيِّ.",
+      "de": "Wir legen sie kreuzweise Lage für Lage aus und besprengen sie mit heißer Seifenlauge.",
+      "en": "We lay them perpendicularly layer upon layer, then sprinkle with hot natural soap water."
+    },
+    {
+      "speaker": "أُمُّ مَيْسُورٍ",
+      "ar": "لِنَلُفَّ الحَصِيرَةَ بِإِحْكَامٍ وَنَدْرُكْهَا بِسَوَاعِدِنَا حَتَّى تَلْتَحِمَ الأَلْيَافُ كَالجِلْدِ المَتِينِ.",
+      "de": "Lasst uns die Matte fest einrollen und mit den Armen walken, bis die Fasern wie Leder verfilzen.",
+      "en": "Let us roll the mat tightly and roll it with our forearms until the fibers fuse like durable leather."
+    }
+  ]
+}
