@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_231",
+  "lemma_ar": "وَتَرَ",
+  "root": "و-ت-ر",
+  "meaning_de": "die Sehne aufspannen / besaiten",
+  "meaning_en": "to string a bow / slip bowstring loop into nocks",
+  "conjugation": {
+    "past": {
+      "ar": "وَتَرَ الرَّامِي قَوْسَهُ المُرَكَّبَ بِرِفْقٍ",
+      "de": "Der Schütze spannte seinen Kompositbogen behutsam auf",
+      "en": "The archer braced his composite bow with care"
+    },
+    "present": {
+      "ar": "يَتِرُ القَوْسَ فَيَتَّخِذُ شَكْلَهُ الهِلَالِيَّ",
+      "de": "Er spannt die Sehne, sodass er seine Mondsichelform annimmt",
+      "en": "He strings the bow so it assumes its crescent curve"
+    },
+    "imperative": {
+      "ar": "تِرْ بِتَوَازُنٍ يَصُونُ سِيَةَ الطَّرَفَيْنِ",
+      "de": "Spanne mit gleichmäßiger Kraft für beide Bogenenden!",
+      "en": "String with balanced torque safeguarding both tips!"
+    }
+  }
+}

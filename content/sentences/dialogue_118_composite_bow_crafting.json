@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_118",
+  "title": {
+    "ar": "صِنَاعَةُ القَوْسِ المُرَكَّبِ مِنْ خَشَبِ القَيْقَبِ وَقَرْنِ الجَامُوسِ",
+    "de": "Bau des Kompositbogens aus Ahornholz, Horn und Sehnen",
+    "en": "Crafting the Composite Bow from Maple Wood, Buffalo Horn and Sinew"
+  },
+  "level": "B1",
+  "topic": "traditional_archery_and_composite_craftsmanship",
+  "lines": [
+    {
+      "speaker": "القَوَّاسُ نَافِذٌ",
+      "ar": "كَيْفَ نُلْصِقُ شَرِيحَةَ قَرْنِ الجَامُوسِ عَلَى بَطْنِ القَوْسِ دُونَ أَنْ تَنْفَصِلَ عِنْدَ الشَّدِّ؟",
+      "de": "Wie leimen wir die Hornleiste auf den Bogenbauch, damit sie sich beim Spannen nicht löst?",
+      "en": "How do we bond the buffalo horn slat to the bow belly so it does not delaminate upon drawing?"
+    },
+    {
+      "speaker": "الصَّانِعُ قُدَامَةُ",
+      "ar": "نَخْدِشُ السَّطْحَيْنِ بِمِشْطِ التَّخْدِيشِ، ثُمَّ نَدْهَنُ غِرَاءَ مَثَانَةِ السَّمَكِ الدَّافِئَ وَنَشُدُّهُمَا بِحَبْلِ القِنَّبِ.",
+      "de": "Wir kämmen beide Flächen mit dem Rilleneisen, streichen warmen Fischleim auf und wickeln Hanfseil darum.",
+      "en": "We score both surfaces with the toothing plane, apply warm isinglass glue, and wrap them tightly with hemp rope."
+    },
+    {
+      "speaker": "القَوَّاسُ نَافِذٌ",
+      "ar": "إِنَّ الرِّمَايَةَ شَرَفٌ يَبْدَأُ مِنْ صَفَاءِ صَنْعَةِ القَوْسِ وَيَنْتَهِي بِسَكِينَةِ القَلْبِ عِنْدَ إِطْلَاقِ السَّهْمِ.",
+      "de": "Das Bogenschießen ist eine edle Kunst, die mit lauterm Handwerk beginnt und in Herzensruhe mündet.",
+      "en": "Archery is a noble discipline that begins with pure bow craftsmanship and culminates in serenity of heart."
+    }
+  ]
+}

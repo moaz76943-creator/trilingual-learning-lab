@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_232",
+  "lemma_ar": "قَوَّمَ_قَوْس",
+  "root": "ق-و-م",
+  "meaning_de": "tillern / Bogenkrümmung auswuchten",
+  "meaning_en": "to tiller a bow / balance limb curvature symmetrically",
+  "conjugation": {
+    "past": {
+      "ar": "قَوَّمَ الصَّانِعُ سِيَتَيِ القَوْسِ عَلَى المِيزَانِ",
+      "de": "Der Meister wuchtete die Bogenarme auf dem Tillerbrett aus",
+      "en": "The bowyer balanced both limbs upon the tillering board"
+    },
+    "present": {
+      "ar": "يُقَوِّمُ الانْحِنَاءَ لِيَتَسَاوَى انْثِنَاءُ الطَّرَفَيْنِ",
+      "de": "Er gleicht die Biegung ab, damit beide Arme gleichmäßig biegen",
+      "en": "He tillers the bend so both limbs flex in unison"
+    },
+    "imperative": {
+      "ar": "قَوِّمْ بِتَأَنٍّ حَتَّى يَتَطَابَقَ المَسَارُ",
+      "de": "Tillere mit Geduld, bis der Auszug vollkommen symmetrisch ist!",
+      "en": "Tiller patiently until the draw curve is perfectly matched!"
+    }
+  }
+}

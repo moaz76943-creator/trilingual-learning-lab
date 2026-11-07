@@ -1,0 +1,33 @@
+{
+  "category_id": "123",
+  "slug": "composite_bow_craft",
+  "name": {
+    "ar": "أَدَوَاتُ صِنَاعَةِ الأَقْوَاسِ المُرَكَّبَةِ وَصَفَائِحِ القَرْنِ",
+    "de": "Kompositbogenbau, Hornplatten und Sehnenschichten",
+    "en": "Composite Bow Craft, Horn Plates and Sinew Backing"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "composite_recurve_bow",
+      "ar": "قَوْسُ العَصَبِ المُرَكَّبُ",
+      "de": "Der sehnenbelegte Komposit-Reflexbogen",
+      "en": "Sinew-backed horn composite recurve bow",
+      "asset_key": "svg_cat123_composite_recurve_bow"
+    },
+    {
+      "id": "buffalo_horn_plate",
+      "ar": "شَرِيحَةُ قَرْنِ الجَامُوسِ المَصْقُولَةُ",
+      "de": "Die geschliffene Büffelhornleiste",
+      "en": "Polished water-buffalo horn compression belly strip",
+      "asset_key": "svg_cat123_buffalo_horn_plate"
+    },
+    {
+      "id": "twisted_silk_bowstring",
+      "ar": "وَتَرُ الحَرِيرِ المَفْتُولُ",
+      "de": "Die gezwirnte Sehnensehne aus Rohseide",
+      "en": "Twisted natural raw silk bowstring",
+      "asset_key": "svg_cat123_twisted_silk_bowstring"
+    }
+  ]
+}
