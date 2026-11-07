@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_169",
+  "lemma_ar": "عَصَرَ",
+  "root": "ع-ص-ر",
+  "meaning_de": "pressen / kaltpressen",
+  "meaning_en": "to press olives / extract oil mechanically",
+  "conjugation": {
+    "past": {
+      "ar": "عَصَرَ الفَلَّاحُ مَحْصُولَ الزَّيْتُونِ",
+      "de": "Der Bauer presste die Olivenernte",
+      "en": "The farmer pressed the olive harvest"
+    },
+    "present": {
+      "ar": "يَعْصِرُ الحَبَّ بِضَغْطٍ بَارِدٍ مُحْكَمٍ",
+      "de": "Er presst die Früchte mit schonendem Kaltverfahren",
+      "en": "He presses the fruit with controlled cold extraction"
+    },
+    "imperative": {
+      "ar": "اعْصِرْ دُونَ إِفْرَاطٍ فِي الحَرَارَةِ",
+      "de": "Presse ohne übermäßige Hitze!",
+      "en": "Press without overheating the paste!"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_170",
+  "lemma_ar": "رَوَّقَ",
+  "root": "ر-و-ق",
+  "meaning_de": "klären / dekantieren",
+  "meaning_en": "to clarify / decant oil naturally by gravity",
+  "conjugation": {
+    "past": {
+      "ar": "رَوَّقَ الزَّيَّاتُ الزَّيْتَ فِي الخَوَابِي",
+      "de": "Der Ölmüller klärte das Öl in den Fässern",
+      "en": "The oil miller decanted the oil in earthenware vats"
+    },
+    "present": {
+      "ar": "يُرَوِّقُ السَّائِلَ لِيَفْصِلَ الشَّوَائِبَ",
+      "de": "Er klärt die Flüssigkeit, um Schwebstoffe zu trennen",
+      "en": "He decants the liquid to separate all sediment"
+    },
+    "imperative": {
+      "ar": "رَوِّقْ بِهُدُوءٍ وَتَأَنٍّ",
+      "de": "Kläre mit Ruhe und Geduld!",
+      "en": "Decant with calm and patience!"
+    }
+  }
+}

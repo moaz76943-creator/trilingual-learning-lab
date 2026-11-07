@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_087",
+  "title": {
+    "ar": "عَصْرُ الزَّيْتُونِ بِالمِعْصَرَةِ الخَشَبِيَّةِ وَتَرْوِيقُ الزَّيْتِ",
+    "de": "Kaltpressung der Oliven und Klärung des Öls",
+    "en": "Cold-Pressing Olives with the Wooden Beam Press"
+  },
+  "level": "B1",
+  "topic": "traditional_agriculture_and_food_craft",
+  "lines": [
+    {
+      "speaker": "إِسْمَاعِيلُ",
+      "ar": "كَيْفَ نُرَتِّبُ بُرُوشَ الخَوْصِ المَمْلُوءَةَ بِعَجِينِ الزَّيْتُونِ تَحْتَ العَارِضَةِ؟",
+      "de": "Wie schichten wir die mit Olivenbrei gefüllten geflochtenen Pressmatten unter dem Balken auf?",
+      "en": "How do we stack the woven esparto mats filled with crushed olive paste beneath the beam?"
+    },
+    {
+      "speaker": "خَلِيلٌ",
+      "ar": "نُنَضِّدُهَا فَوْقَ بَعْضٍ بِاعْتِدَالٍ، ثُمَّ نُنْزِلُ ثِقَلَ الحَجَرِ بِتَأَنٍّ كَيْ يَخْرُجَ الزَّيْتُ بَارِدًا صَافِيًا.",
+      "de": "Wir stapeln sie gleichmäßig und senken das Steingewicht behutsam, damit das Öl kalt und rein ausfließt.",
+      "en": "We stack them evenly and lower the stone counterweight gently so the oil presses cold and pristine."
+    },
+    {
+      "speaker": "إِسْمَاعِيلُ",
+      "ar": "سَنَدَعُ الزَّيْتَ فِي الجِرَارِ لِيَرُوقَ عَلَى مَهَلٍ فَيَطْفُوَ السَّائِلُ الذَّهَبِيُّ فَوْقَ رَاسِبِ المَاءِ.",
+      "de": "Wir lassen das Öl in den Tonkrügen ruhen, damit es sich klärt und das flüssige Gold oben schwimmt.",
+      "en": "We shall let the oil rest in earthenware jars to decant unhurriedly until the liquid gold floats atop."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "category_id": "092",
+  "slug": "olive_oil_presses",
+  "name": {
+    "ar": "أَدَوَاتُ مَعَاصِرِ الزَّيْتُونِ وَتَرْوِيقِ الزَّيْتِ التُّرَاثِيَّةُ",
+    "de": "Olivenölpressen und Klärgefäße",
+    "en": "Traditional Olive Oil Presses and Decanting Vessels"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "esparto_pressing_mat",
+      "ar": "بُرْشُ الخَوْصِ لِعَصْرِ الزَّيْتِ",
+      "de": "Die geflochtene Pressmatte aus Espartogras",
+      "en": "Woven esparto olive pressing disc",
+      "asset_key": "svg_cat092_esparto_pressing_mat"
+    },
+    {
+      "id": "beam_press",
+      "ar": "مِعْصَرَةُ العَارِضَةِ التُّرَاثِيَّةُ",
+      "de": "Die hölzerne Hebel-Balkenpresse",
+      "en": "Traditional wooden lever beam press",
+      "asset_key": "svg_cat092_beam_press"
+    },
+    {
+      "id": "decanting_amphora",
+      "ar": "جَرَّةُ تَرْوِيقِ الزَّيْتِ الفَخَّارِيَّةُ",
+      "de": "Die irdene Amphore zur Ölklärung",
+      "en": "Earthenware olive oil decanting amphora",
+      "asset_key": "svg_cat092_decanting_amphora"
+    }
+  ]
+}
