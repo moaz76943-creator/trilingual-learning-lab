@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_270_sphaerisch_schleifen_kawwara",
+  "root": "ك - و - ر",
+  "trilingual": {
+    "ar": {
+      "infinitive": "تَكْوِيرٌ",
+      "past": "كَوَّرَ",
+      "present": "يُكَوِّرُ",
+      "imperative": "كَوِّرْ",
+      "meaning": "شَكَّلَ السَّطْحَ عَلَى هَيْئَةِ قَوْسٍ كُرَوِيٍّ مُحَدَّبٍ"
+    },
+    "de": {
+      "infinitive": "sphärisch wölben",
+      "past": "wölbte sphärisch",
+      "present": "wölbt sphärisch",
+      "perfect": "hat sphärisch gewölbt",
+      "meaning": "eine Linsenoberfläche gleichmäßig kreisförmig-konvex schleifen"
+    },
+    "en": {
+      "infinitive": "to grind into a spherical curvature",
+      "past": "ground spherically",
+      "present": "grinds spherically",
+      "participle": "ground spherically",
+      "meaning": "to fashion and polish an optical surface into a convex spherical dome"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يُكَوِّرُ الصَّانِعُ قِمَّةَ العَدَسَةِ بِحَرَكَةٍ دَائِرِيَّةٍ مُحْكَمَةٍ.",
+      "de": "Der Handwerker wölbt die Linsenkuppel mit gleichmäßigen Kreisbewegungen.",
+      "en": "The craftsman grinds the lens dome with controlled circular motions."
+    },
+    {
+      "tense": "past",
+      "ar": "كَوَّرَ البِلَّوْرِيُّ حَجَرَ المَرْوِ حَتَّى تَسَاوَى انْحِنَاؤُهُ مِنْ جَمِيعِ الجِهَاتِ.",
+      "de": "Der Kristaller wölbte den Quarzkristall, bis die Krümmung von allen Seiten homogen war.",
+      "en": "The crystal lapidary ground the quartz stone until its curvature was symmetrical from all angles."
+    }
+  ]
+}

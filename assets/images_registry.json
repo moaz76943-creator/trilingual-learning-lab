@@ -1,0 +1,17 @@
+{
+  "cat_142_reading_stone": {
+    "path": "assets/images/categories/cat_142_reading_stone.svg",
+    "category": "category_142_reading_stones_and_magnification",
+    "description": "Planoconvex crystal reading stone magnifying ancient Arabic script"
+  },
+  "cat_142_lens_mold": {
+    "path": "assets/images/categories/cat_142_lens_mold.svg",
+    "category": "category_142_reading_stones_and_magnification",
+    "description": "Spherical brass grinding bowl for forming convex optical lenses"
+  },
+  "cat_142_tin_oxide": {
+    "path": "assets/images/categories/cat_142_tin_oxide.svg",
+    "category": "category_142_reading_stones_and_magnification",
+    "description": "Tin oxide fine optical polishing powder in apothecary container"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "category_id": "category_142_reading_stones_and_magnification",
+  "title": {
+    "ar": "حِجَارَةُ القِرَاءَةِ وَعَدَسَاتُ التَّكْبِيرِ البِلَّوْرِيَّةِ",
+    "de": "Lesesteine und optische Kristall-Vergrößerungslinsen",
+    "en": "Reading Stones and Optical Crystal Magnifying Lenses"
+  },
+  "level": "B1",
+  "description": {
+    "ar": "مُصْطَلَحَاتُ أَدَوَاتِ التَّكْبِيرِ البَصَرِيِّ، وَحِجَارَةِ الرُّؤْيَةِ البِلَّوْرِيَّةِ، وَأَسَالِيبِ صَقْلِ العَدَسَاتِ المُحَدَّبَةِ لِخِدْمَةِ العِلْمِ وَحِفْظِ البَصَرِ.",
+    "de": "Fachwortschatz zu optischen Vergrößerungswerkzeugen, Bergkristall-Lesesteinen und Schleiftechniken für konvexe Linsen im Dienste der Gelehrsamkeit.",
+    "en": "Terminology of optical magnifying instruments, crystal reading stones, and convex lens grinding techniques dedicated to preserving scholarly vision."
+  },
+  "vocabulary": [
+    {
+      "id": "term_142_01",
+      "ar": "حَجَرُ القِرَاءَةِ البِلَّوْرِيُّ",
+      "de": "der Bergkristall-Lesestein",
+      "en": "planoconvex crystal reading stone",
+      "phonetic_ar": "ḥajaru al-qirā'ati al-billawriyy",
+      "example": {
+        "ar": "وَضَعَ العَالِمُ حَجَرَ القِرَاءَةِ البِلَّوْرِيَّ فَوْقَ حَاشِيَةِ الكِتَابِ فَبَانَتْ كَلِمَاتُهُ جَلِيَّةً.",
+        "de": "Der Gelehrte legte den Bergkristall-Lesestein auf den Buchrand, sodass die Worte deutlich hervortraten.",
+        "en": "The scholar placed the crystal reading stone over the manuscript margin, rendering its words remarkably legible."
+      }
+    },
+    {
+      "id": "term_142_02",
+      "ar": "قَالَبُ الصَّقْلِ الكُرَوِيُّ",
+      "de": "die sphärische Schleifschale",
+      "en": "spherical brass grinding bowl",
+      "phonetic_ar": "qālabu aṣ-ṣaqli al-kurawiyy",
+      "example": {
+        "ar": "يُحَرِّكُ الصَّانِعُ قِطْعَةَ الكِوَارْتِزِ دَاخِلَ قَالَبِ الصَّقْلِ الكُرَوِيِّ لِيَنْتَظِمَ تَحَدُّبُهَا.",
+        "de": "Der Handwerker führt das Quarzstück in der sphärischen Schleifschale kreisförmig, um eine gleichmäßige Wölbung zu erzielen.",
+        "en": "The artisan rotates the quartz piece inside the spherical grinding bowl to achieve a uniform convex contour."
+      }
+    },
+    {
+      "id": "term_142_03",
+      "ar": "مَسْحُوقُ أُكْسِيدِ القَصْدِيرِ",
+      "de": "das Zinnoxid-Poliermehl",
+      "en": "tin oxide polishing putty",
+      "phonetic_ar": "masḥūqu 'uksīdi al-qaṣdīr",
+      "example": {
+        "ar": "يَمْنَحُ مَسْحُوقُ أُكْسِيدِ القَصْدِيرِ سَطْحَ العَدَسَةِ لَمَعَانًا فَرِيدًا وَصَفَاءً بَصَرِيًّا تَامًّا.",
+        "de": "Das Zinnoxid-Poliermehl verleiht der Linsenoberfläche unübertroffenen Glanz und vollkommene optische Reinheit.",
+        "en": "Tin oxide polishing powder imparts unmatched brilliance and complete optical clarity to the lens surface."
+      }
+    }
+  ]
+}

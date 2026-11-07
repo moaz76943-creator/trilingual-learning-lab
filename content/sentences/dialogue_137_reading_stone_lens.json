@@ -1,0 +1,65 @@
+{
+  "dialogue_id": "dialogue_137_reading_stone_lens",
+  "title": {
+    "ar": "صَقْلُ حِجَارَةِ القِرَاءَةِ البِلَّوْرِيَّةِ لِإِعَانَةِ العُلَمَاءِ",
+    "de": "Das Schleifen von Bergkristall-Lesesteinen zur Unterstützung der Gelehrten",
+    "en": "Polishing Rock-Crystal Reading Stones to Assist Scholars"
+  },
+  "context": {
+    "ar": "حِوَارٌ فِي مَشْغَلِ الصَّيَاقِلَةِ وَالبِلَّوْرِيِّينَ حَوْلَ تَشْكِيلِ حَجَرٍ بِلَّوْرِيٍّ مُحَدَّبٍ لِمُعَاوَنَةِ نَاسِخٍ مُسِنٍّ عَلَى تَبَيُّنِ المَخْطُوطَاتِ المُنْدَرِسَةِ.",
+    "de": "Ein Fachgespräch in der Kristaller-Werkstatt über das Formen einer plankonvexen Lupe, um einem betagten Schreiber das Entziffern alter Handschriften zu erleichtern.",
+    "en": "A workshop dialogue between opticians shaping a planoconvex crystal stone to aid an elderly scribe in reading faded manuscripts."
+  },
+  "turns": [
+    {
+      "speaker": {
+        "ar": "عِمْرَانُ (الصَّيْقَلُ البِلَّوْرِيُّ)",
+        "de": "Imran (Der Kristallschleifer)",
+        "en": "Imran (The Crystal Lapidary)"
+      },
+      "ar": "اخْتَرْتُ قِطْعَةً نَقِيَّةً مِنْ بِلَّوْرِ المَرْوِ لِأَصْنَعَ مِنْهَا حَجَرَ قِرَاءَةٍ يُسَاعِدُ الشَّيْخَ عَبْدَ اللهِ عَلَى مُوَاصَلَةِ التَّحْقِيقِ.",
+      "de": "Ich habe ein makelloses Stück Bergkristall ausgewählt, um daraus einen Lesestein zu fertigen, der Scheich Abdullah bei seinen Studien hilft.",
+      "en": "I selected a flawless piece of quartz crystal to fashion a reading stone that will assist Sheikh Abdullah in continuing his manuscript research."
+    },
+    {
+      "speaker": {
+        "ar": "سَعِيدٌ (المُسَاعِدُ)",
+        "de": "Said (Der Assistent)",
+        "en": "Said (The Assistant)"
+      },
+      "ar": "كَيْفَ سَتُسَوِّي قَاعِدَتَهُ لِتَسْتَقِرَّ بِمَلَاسَةٍ عَلَى رِقِّ الكِتَابِ دُونَ خَدْشِ الحِبْرِ؟",
+      "de": "Wie wirst du seine Grundfläche glätten, damit er sanft auf dem Pergament aufliegt, ohne die Tinte zu beschädigen?",
+      "en": "How will you smooth its base so that it rests gently on the parchment without scratching the ink?"
+    },
+    {
+      "speaker": {
+        "ar": "عِمْرَانُ",
+        "de": "Imran",
+        "en": "Imran"
+      },
+      "ar": "سَأَجْعَلُ سَطْحَهُ الأَسْفَلَ مُسْتَوِيًا تَمَامًا، بَيْنَمَا أُكَوِّرُ وَجْهَهُ الأَعْلَى فِي قَالَبِ النُّحَاسِ الكُرَوِيِّ حَتَّى يُجَمِّعَ شُعَاعَ النُّورِ.",
+      "de": "Ich schleife die Unterseite völlig plan, während ich die Oberseite in einer kugelförmigen Kupferschale wölbe, um das Licht optimal zu bündeln.",
+      "en": "I shall grind the underside completely flat, while curving the upper face inside a spherical copper mold to converge the light rays."
+    },
+    {
+      "speaker": {
+        "ar": "سَعِيدٌ",
+        "de": "Said",
+        "en": "Said"
+      },
+      "ar": "وَبِأَيِّ مَسْحُوقٍ سَتُنْهِي صَقْلَهُ لِيَغْدُوَ شَفَّافًا كَالمَاءِ الزُّلاَلِ؟",
+      "de": "Und mit welchem Schleifpulver vollendest du die Politur, damit er glasklar wie reines Quellwasser wird?",
+      "en": "And with what powder will you conclude the polish so that it becomes crystal-clear like pure spring water?"
+    },
+    {
+      "speaker": {
+        "ar": "عِمْرَانُ",
+        "de": "Imran",
+        "en": "Imran"
+      },
+      "ar": "بِمَسْحُوقِ أُكْسِيدِ القَصْدِيرِ الرَّفِيعِ عَلَى قِطْعَةِ لِبَادٍ نَاعِمَةٍ؛ فَتَظْهَرُ الحُرُوفُ تَحْتَهُ نَيِّرَةً مُكَبَّرَةً تُبْهِجُ نَاظِرَ العَالِمِ.",
+      "de": "Mit feinstem Zinnoxid-Poliermehl auf weichem Filz; dadurch erscheinen die Buchstaben darunter hell vergrößert und schonen die Augen des Gelehrten.",
+      "en": "With ultra-fine tin oxide polishing putty upon a soft felt cloth; thus the letters beneath appear brightly magnified, relieving the scholar's eyes."
+    }
+  ]
+}

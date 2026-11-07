@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="ceramicJar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#455a64"/>
+      <stop offset="40%" stop-color="#90a4ae"/>
+      <stop offset="100%" stop-color="#37474f"/>
+    </linearGradient>
+    <linearGradient id="powderWhite" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#cfd8dc"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+    </linearGradient>
+  </defs>
+  <!-- Ceramic Unguent Jar Body -->
+  <path d="M 50,160 C 45,110 55,90 65,85 L 135,85 C 145,90 155,110 150,160 Z" fill="url(#ceramicJar)" stroke="#263238" stroke-width="3"/>
+  <ellipse cx="100" cy="160" rx="50" ry="14" fill="#37474f"/>
+  <!-- Jar Neck & Opening -->
+  <ellipse cx="100" cy="85" rx="35" ry="10" fill="#263238"/>
+  <path d="M 70,85 C 70,75 80,70 100,70 C 120,70 130,75 130,85 Z" fill="#cfd8dc" stroke="#263238" stroke-width="2"/>
+  <!-- Heaping Powder Pile -->
+  <path d="M 75,80 Q 100,45 125,80 Z" fill="url(#powderWhite)" stroke="#b0bec5" stroke-width="1.5"/>
+  <!-- Polishing Cloth Spatula -->
+  <line x1="120" y1="55" x2="165" y2="35" stroke="#8d6e63" stroke-width="6" stroke-linecap="round"/>
+  <ellipse cx="120" cy="55" rx="7" ry="5" fill="#eceff1"/>
+</svg>

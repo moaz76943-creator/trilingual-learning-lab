@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_269_vergroessern_kabbara",
+  "root": "ك - ب - ر",
+  "trilingual": {
+    "ar": {
+      "infinitive": "تَكْبِيرٌ",
+      "past": "كَبَّرَ",
+      "present": "يُكَبِّرُ",
+      "imperative": "كَبِّرْ",
+      "meaning": "جَعَلَ الشَّيْءَ يَبْدُو أَعْظَمَ حَجْمًا بِوَاسِطَةِ أَدَاةٍ بَصَرِيَّةٍ"
+    },
+    "de": {
+      "infinitive": "vergrößern",
+      "past": "vergrößerte",
+      "present": "vergrößert",
+      "perfect": "hat vergrößert",
+      "meaning": "etwas durch eine optische Linse optisch vergrößern und verdeutlichen"
+    },
+    "en": {
+      "infinitive": "to magnify",
+      "past": "magnified",
+      "present": "magnifies",
+      "participle": "magnified",
+      "meaning": "to make fine objects or script appear visually larger using an optical lens"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يُكَبِّرُ الحَجَرُ البِلَّوْرِيُّ الحُرُوفَ الدَّقِيقَةَ دُونَ تَشْوِيهٍ.",
+      "de": "Der Kristall-Lesestein vergrößert die feinen Schriftzeichen verzerrungsfrei.",
+      "en": "The crystal reading stone magnifies the minute letters without distortion."
+    },
+    {
+      "tense": "past",
+      "ar": "كَبَّرَ الصَّيْقَلُ الرُّمُوزَ الغَامِضَةَ لِيَقْرَأَهَا شَيْخُ الكُتَّابِ.",
+      "de": "Der Schleifer vergrößerte die unklaren Zeichen, damit der Oberlehrer sie entziffern konnte.",
+      "en": "The lapidary magnified the ambiguous glyphs so the chief scribe could decipher them."
+    }
+  ]
+}
