@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_273_ausrichten_samata",
+  "root": "س - م - ت",
+  "trilingual": {
+    "ar": {
+      "infinitive": "سَمْتٌ",
+      "past": "سَمَتَ",
+      "present": "يَسْمُتُ",
+      "imperative": "اسْمُتْ",
+      "meaning": "وَجَّهَ آلَةَ الرَّصْدِ نَحْوَ سَمْتِ النَّجْمِ فِي السَّمَاءِ"
+    },
+    "de": {
+      "infinitive": "nach dem Azimut ausrichten",
+      "past": "richtete nach dem Azimut aus",
+      "present": "richtet nach dem Azimut aus",
+      "perfect": "hat nach dem Azimut ausgerichtet",
+      "meaning": "ein Beobachtungsinstrument exakt auf den Azimutwinkel eines Gestirns einstellen"
+    },
+    "en": {
+      "infinitive": "to align azimuthally",
+      "past": "aligned azimuthally",
+      "present": "aligns azimuthally",
+      "participle": "aligned azimuthally",
+      "meaning": "to point and orient an observational instrument toward the true celestial azimuth"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يَسْمُتُ الفَلَكِيُّ حَلْقَةَ الرُّؤْيَةِ نَحْوَ مَطْلَعِ الشِّعْرَى اليَمَانِيَّةِ.",
+      "de": "Der Astronom richtet den Visierring auf den Aufgangsort des Sirius aus.",
+      "en": "The astronomer azimuthally aligns the sighting ring toward the rising of Sirius."
+    },
+    {
+      "tense": "past",
+      "ar": "سَمَتَ العَالِمُ مِرْصَدَهُ بِدِقَّةٍ مَتِينَةٍ قَبْلَ غُرُوبِ الشَّمْسِ.",
+      "de": "Der Gelehrte richtete sein Instrument vor Sonnenuntergang mit robuster Präzision aus.",
+      "en": "The scholar accurately aligned his instrument before sunset."
+    }
+  ]
+}

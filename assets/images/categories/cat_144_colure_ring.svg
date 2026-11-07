@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <radialGradient id="ringShine" cx="50%" cy="30%" r="65%">
+      <stop offset="0%" stop-color="#fffde7"/>
+      <stop offset="50%" stop-color="#fbc02d"/>
+      <stop offset="100%" stop-color="#7f5800"/>
+    </radialGradient>
+  </defs>
+  <!-- Heavy Brass Graduated Ring Rim -->
+  <circle cx="100" cy="100" r="76" fill="none" stroke="url(#ringShine)" stroke-width="14"/>
+  <circle cx="100" cy="100" r="83" fill="none" stroke="#3e2723" stroke-width="1.5"/>
+  <circle cx="100" cy="100" r="69" fill="none" stroke="#3e2723" stroke-width="1.5"/>
+  <!-- Quadrant Degree Division Ticks -->
+  <circle cx="100" cy="100" r="76" fill="none" stroke="#3e2723" stroke-width="10" stroke-dasharray="1.5,4.5"/>
+  <!-- Pivot Notches for Celestial Poles -->
+  <rect x="94" y="14" width="12" height="18" rx="2" fill="#5d4037" stroke="#ffd54f" stroke-width="1.5"/>
+  <circle cx="100" cy="23" r="3" fill="#fffde7"/>
+  <rect x="94" y="168" width="12" height="18" rx="2" fill="#5d4037" stroke="#ffd54f" stroke-width="1.5"/>
+  <circle cx="100" cy="177" r="3" fill="#fffde7"/>
+  <!-- Engraved Solstitial Cardinal Markers -->
+  <text x="100" y="60" font-family="serif" font-size="11" font-weight="bold" fill="#3e2723" text-anchor="middle">اِنْقِلابٌ</text>
+  <text x="100" y="145" font-family="serif" font-size="11" font-weight="bold" fill="#3e2723" text-anchor="middle">اِعْتِدَالٌ</text>
+</svg>

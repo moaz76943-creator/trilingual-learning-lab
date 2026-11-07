@@ -1,0 +1,52 @@
+{
+  "category_id": "category_144_armillary_spheres_and_colures",
+  "title": {
+    "ar": "ذَاتُ الحِلَقِ وَأَطْوَاقُ الأَفْلاَكِ النُّحَاسِيَّةُ",
+    "de": "Die Armillarsphäre und astronomische Himmelskreise",
+    "en": "Armillary Spheres and Celestial Coordinate Rings"
+  },
+  "level": "B1",
+  "description": {
+    "ar": "مُصْطَلَحَاتُ الكُرَةِ الحَلَقِيَّةِ الفَلَكِيَّةِ، وَأَطْوَاقِ مَعَدِّلِ النَّهَارِ وَالبُرُوجِ، وَمَحَاوِرِ الرَّصْدِ الفَلَكِيِّ التَّارِيخِيِّ.",
+    "de": "Fachwortschatz zur Armillarsphäre, Himmelsäquator- und Ekliptikringen sowie Beobachtungsachsen historischer Sternwarten.",
+    "en": "Terminology of armillary spheres, celestial equator and ecliptic rings, and observational coordinate axes of historical observatories."
+  },
+  "vocabulary": [
+    {
+      "id": "term_144_01",
+      "ar": "ذَاتُ الحِلَقِ الفَلَكِيَّةُ",
+      "de": "die Armillarsphäre (das Ringelwerk)",
+      "en": "astronomical armillary sphere",
+      "phonetic_ar": "dhātu al-ḥilaqi al-falakiyyah",
+      "example": {
+        "ar": "نَصَبَ الفَلَكِيُّ ذَاتَ الحِلَقِ فِي صَحْنِ المَرْصَدِ لِتَتَبُّعِ مَسَارَاتِ النُّجُومِ النَّيِّرَةِ.",
+        "de": "Der Astronom errichtete die Armillarsphäre im Innenhof des Observatoriums, um die Bahnen der hellen Gestirne zu verfolgen.",
+        "en": "The astronomer erected the armillary sphere in the observatory courtyard to track the courses of bright stars."
+      }
+    },
+    {
+      "id": "term_144_02",
+      "ar": "حَلْقَةُ الاِعْتِدَالَيْنِ النُّحَاسِيَّةُ",
+      "de": "der Kolurring der Tagundnachtgleichen",
+      "en": "equinoctial colure ring",
+      "phonetic_ar": "ḥalqatu al-i'tidālayni an-nuḥāsiyyah",
+      "example": {
+        "ar": "تَقْطَعُ حَلْقَةُ الاِعْتِدَالَيْنِ النُّحَاسِيَّةُ مَعَدِّلَ النَّهَارِ بِزَاوِيَةٍ قَائِمَةٍ عِنْدَ القُطْبَيْنِ.",
+        "de": "Der Kolurring der Tagundnachtgleichen schneidet den Himmelsäquator rechtwinklig an den Himmelspolen.",
+        "en": "The brass equinoctial colure ring intersects the celestial equator at right angles through the poles."
+      }
+    },
+    {
+      "id": "term_144_03",
+      "ar": "مِحْوَرُ القُطْبَيْنِ النُّحَاسِيُّ",
+      "de": "die messingene Polachse",
+      "en": "brass celestial polar axis",
+      "phonetic_ar": "miḥwaru al-quṭbayni an-nuḥāsiyy",
+      "example": {
+        "ar": "يَدُورُ الهَيْكَلُ الكُرَوِيُّ بِأَسْرِهِ حَوْلَ مِحْوَرِ القُطْبَيْنِ النُّحَاسِيِّ المُثَبَّتِ بِعِنَايَةٍ.",
+        "de": "Das gesamte sphärische Gerüst dreht sich um die sorgsam verankerte messingene Polachse.",
+        "en": "The entire spherical framework rotates around the meticulously anchored brass polar axis."
+      }
+    }
+  ]
+}

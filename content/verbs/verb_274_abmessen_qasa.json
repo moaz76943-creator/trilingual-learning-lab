@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_274_abmessen_qasa",
+  "root": "ق - ي - س",
+  "trilingual": {
+    "ar": {
+      "infinitive": "قِيَاسٌ",
+      "past": "قَاسَ",
+      "present": "يَقِيسُ",
+      "imperative": "قِسْ",
+      "meaning": "حَدَّدَ المِقْدَارَ الزَّاوِيَّ أَوِ الطُّولِيَّ بِأَدَاةٍ عِلْمِيَّةٍ مُعَايَرَةٍ"
+    },
+    "de": {
+      "infinitive": "messen / eichen",
+      "past": "maß",
+      "present": "misst",
+      "perfect": "hat gemessen",
+      "meaning": "Winkelabstände und Himmelsbögen mit kalibrierten Instrumenten exakt bestimmen"
+    },
+    "en": {
+      "infinitive": "to measure / gauge",
+      "past": "measured",
+      "present": "measures",
+      "participle": "measured",
+      "meaning": "to determine angular dimensions and celestial coordinates with calibrated instruments"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يَقِيسُ الرَّاصِدُ البُعْدَ الزَّاوِيَّ بَيْنَ كَوْكَبَيِ المُشْتَرِي وَزُحَلَ.",
+      "de": "Der Beobachter misst den Winkelabstand zwischen Jupiter und Saturn.",
+      "en": "The observer measures the angular separation between Jupiter and Saturn."
+    },
+    {
+      "tense": "past",
+      "ar": "قَاسَ المُهَنْدِسُ قُطْرَ الحَلْقَةِ النُّحَاسِيَّةِ لِضَمَانِ اِسْتِدَارَتِهَا التَّامَّةِ.",
+      "de": "Der Geometer maß den Durchmesser des Messingrings, um seine vollkommene Kreisform sicherzustellen.",
+      "en": "The geometer measured the diameter of the brass ring to verify its perfect circularity."
+    }
+  ]
+}

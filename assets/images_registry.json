@@ -28,5 +28,20 @@
     "path": "assets/images/categories/cat_143_brass_alidade.svg",
     "category": "category_143_astrolabes_and_celestial_plates",
     "description": "Graduated brass sighting alidade with folded pinhole pinnules"
+  },
+  "cat_144_armillary_sphere": {
+    "path": "assets/images/categories/cat_144_armillary_sphere.svg",
+    "category": "category_144_armillary_spheres_and_colures",
+    "description": "Classical brass armillary sphere model with concentric celestial rings"
+  },
+  "cat_144_colure_ring": {
+    "path": "assets/images/categories/cat_144_colure_ring.svg",
+    "category": "category_144_armillary_spheres_and_colures",
+    "description": "Graduated equinoctial and solstitial brass colure ring with quadrant markings"
+  },
+  "cat_144_polar_axis": {
+    "path": "assets/images/categories/cat_144_polar_axis.svg",
+    "category": "category_144_armillary_spheres_and_colures",
+    "description": "Turned brass polar celestial axis rod with finials and mounting collars"
   }
 }

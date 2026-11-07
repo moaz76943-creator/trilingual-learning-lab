@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="rodGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#fff9c4"/>
+      <stop offset="35%" stop-color="#fbc02d"/>
+      <stop offset="70%" stop-color="#b78103"/>
+      <stop offset="100%" stop-color="#5d4037"/>
+    </linearGradient>
+  </defs>
+  <!-- Background Coordinate Crosshairs -->
+  <line x1="20" y1="100" x2="180" y2="100" stroke="#b0bec5" stroke-width="1" stroke-dasharray="4,4"/>
+  <line x1="100" y1="20" x2="100" y2="180" stroke="#b0bec5" stroke-width="1" stroke-dasharray="4,4"/>
+  <!-- Rotated Polar Rod with Finials -->
+  <g transform="rotate(45 100 100)">
+    <!-- Central Brass Shaft -->
+    <rect x="94" y="25" width="12" height="150" rx="3" fill="url(#rodGrad)" stroke="#3e2723" stroke-width="1.5"/>
+    <!-- Threaded Collar Sections -->
+    <rect x="91" y="55" width="18" height="8" rx="2" fill="#d4af37" stroke="#3e2723" stroke-width="1"/>
+    <rect x="91" y="137" width="18" height="8" rx="2" fill="#d4af37" stroke="#3e2723" stroke-width="1"/>
+    <!-- North & South Acorn Finials -->
+    <path d="M 100,10 C 93,18 93,25 100,25 C 107,25 107,18 100,10 Z" fill="#ffd54f" stroke="#3e2723" stroke-width="1.5"/>
+    <path d="M 100,190 C 93,182 93,175 100,175 C 107,175 107,182 100,190 Z" fill="#ffd54f" stroke="#3e2723" stroke-width="1.5"/>
+    <!-- Central Locking Nut -->
+    <circle cx="100" cy="100" r="12" fill="#fbc02d" stroke="#3e2723" stroke-width="2"/>
+    <circle cx="100" cy="100" r="4" fill="#3e2723"/>
+  </g>
+</svg>

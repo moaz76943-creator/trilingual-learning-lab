@@ -1,0 +1,65 @@
+{
+  "dialogue_id": "dialogue_139_armillary_sphere_rings",
+  "title": {
+    "ar": "مُعَايَرَةُ حِلَقِ ذَاتِ الحِلَقِ فِي المَرْصَدِ الفَلَكِيِّ",
+    "de": "Die Kalibrierung der Ringe der Armillarsphäre im Observatorium",
+    "en": "Calibrating the Rings of the Armillary Sphere at the Observatory"
+  },
+  "context": {
+    "ar": "حِوَارٌ فِي قَاعَةِ المَرْصَدِ بَيْنَ فَلَكِيٍّ قَدِيمٍ وَتِلْمِيذِهِ حَوْلَ ضَبْطِ الحِلَقِ النُّحَاسِيَّةِ المُتَدَاخِلَةِ لِتَتَبُّعِ حَرَكَةِ الشَّمْسِ عِنْدَ مَوْقِعِ الاِنْقِلابِ الصَّيْفِيِّ.",
+    "de": "Ein Fachgespräch im Observatorium zwischen einem erfahrenen Astronomen und seinem Schüler über das Justieren der ineinandergreifenden Messingringe zur Sonnenbahnbeobachtung bei der Sommersonnenwende.",
+    "en": "A discussion in the observatory between a veteran astronomer and his student on adjusting nested brass rings to observe solar path at the summer solstice."
+  },
+  "turns": [
+    {
+      "speaker": {
+        "ar": "الفَلَكِيُّ شَرَفُ الدِّينِ",
+        "de": "Astronom Scharaf ad-Din",
+        "en": "Astronomer Sharaf al-Din"
+      },
+      "ar": "احْرِصْ عَلَى أَنْ يَكُونَ مِحْوَرُ القُطْبَيْنِ لِذَاتِ الحِلَقِ مُوَازِيًا لِمِحْوَرِ دَوَرَانِ الأَرْضِ تَمَامًا.",
+      "de": "Achte sorgfältig darauf, dass die Polachse der Armillarsphäre exakt parallel zur Erdrotationsachse ausgerichtet ist.",
+      "en": "Ensure that the polar axis of the armillary sphere is aligned exactly parallel to Earth's rotational axis."
+    },
+    {
+      "speaker": {
+        "ar": "التِّلْمِيذُ كَمَالُ الدِّينِ",
+        "de": "Schüler Kamal ad-Din",
+        "en": "Student Kamal al-Din"
+      },
+      "ar": "لَقَدْ ضَبَطْتُ حَلْقَةَ نِصْفِ النَّهَارِ بِشَاقُولِ الرَّصَاصِ، فَهَلْ نُثَبِّتُ حَلْقَةَ مَعَدِّلِ النَّهَارِ الآنَ؟",
+      "de": "Ich habe den Meridianring mit dem Bleilot justiert; sollen wir nun den Himmelsäquatorring fixieren?",
+      "en": "I calibrated the meridian ring using the plumb line; shall we now secure the celestial equator ring?"
+    },
+    {
+      "speaker": {
+        "ar": "شَرَفُ الدِّينِ",
+        "de": "Scharaf ad-Din",
+        "en": "Sharaf al-Din"
+      },
+      "ar": "نَعَمْ، ثُمَّ أَدْخِلْ حَلْقَةَ البُرُوجِ المَائِلَةَ بِزَاوِيَةِ ثَلاَثٍ وَعِشْرِينَ دَرَجَةً وَنِصْفٍ لِتُحَاكِيَ مَيْلَ دَائِرَةِ الكُسُوفِ.",
+      "de": "Ja, und setze dann den Ekliptikring im Neigungswinkel von dreiundzwanzigundeinhalb Grad ein, um die Schiefe der Ekliptik nachzubilden.",
+      "en": "Yes, then insert the inclined ecliptic ring at an angle of twenty-three and a half degrees to reflect the obliquity of the ecliptic."
+    },
+    {
+      "speaker": {
+        "ar": "كَمَالُ الدِّينِ",
+        "de": "Kamal ad-Din",
+        "en": "Kamal al-Din"
+      },
+      "ar": "وَكَيْفَ نَتَأَكَّدُ مِنْ عَدَمِ وُجُودِ احْتِكَاكٍ يُعِيقُ دَوَرَانَ حَلْقَةِ الرُّؤْيَةِ الدَّاخِلِيَّةِ؟",
+      "de": "Und wie vergewissern wir uns, dass keine Reibung die sanfte Drehung des inneren Visierrings behindert?",
+      "en": "And how do we ensure there is no friction impeding the smooth rotation of the inner sighting ring?"
+    },
+    {
+      "speaker": {
+        "ar": "شَرَفُ الدِّينِ",
+        "de": "Scharaf ad-Din",
+        "en": "Sharaf al-Din"
+      },
+      "ar": "نَمْسَحُ نُقَاطَ الِارْتِكَازِ بِقَطَرَاتٍ مِنْ زَيْتِ البَانِ النَّقِيِّ، حَتَّى تَنْسَابَ الحِلَقُ كَالنَّسِيمِ عِنْدَ رَصْدِ مَطَالِعِ الكَوَاكِبِ.",
+      "de": "Wir benetzen die Drehlager mit Tropfen reinsten Behenöls, damit die Ringe bei der Beobachtung des Planetenaufgangs wie ein Lufthauch gleiten.",
+      "en": "We lubricate the pivot bearings with drops of pure ben oil, so the rings glide like a gentle breeze when observing planetary risings."
+    }
+  ]
+}
