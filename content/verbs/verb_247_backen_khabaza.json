@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_247",
+  "lemma_ar": "خَبَزَ",
+  "root": "خ-ب-ز",
+  "meaning_de": "backen / im Ofen ausbacken",
+  "meaning_en": "to bake bread loaves in oven",
+  "conjugation": {
+    "past": {
+      "ar": "خَبَزَ الخَبَّازُ رَقَائِقَ الحِنْطَةِ فِي التَّنُّورِ",
+      "de": "Der Bäcker backte die Weizenfladen im Lehmofen",
+      "en": "The baker baked the wheat loaves inside the tannur"
+    },
+    "present": {
+      "ar": "يَخْبِزُ الأَرْغِفَةَ لِتَكُونَ هَشَّةً ذَكِيَّةَ الرَّائِحَةِ",
+      "de": "Er backt die Fladen knusprig und duftend aus",
+      "en": "He bakes the loaves so they turn crisp and aromatic"
+    },
+    "imperative": {
+      "ar": "اخْبِزْ بِحَرَارَةٍ مُعْتَدِلَةٍ تَحْفَظُ لِينَ اللُّبِّ",
+      "de": "Backe bei mäßiger Hitze, die die Krume saftig hält!",
+      "en": "Bake with moderate heat that preserves crumb tenderness!"
+    }
+  }
+}

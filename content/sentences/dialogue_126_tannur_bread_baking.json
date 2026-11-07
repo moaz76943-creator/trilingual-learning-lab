@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_126",
+  "title": {
+    "ar": "خَبْزُ أَرْغِفَةِ الحِنْطَةِ فِي تَنُّورِ الطِّينِ وَضَبْطُ حَرَارَةِ الجَمْرِ",
+    "de": "Backen der Weizenfladen im Lehmofen und Glutkontrolle",
+    "en": "Baking Wheat Loaves in the Clay Tannur and Ember Heat Control"
+  },
+  "level": "B1",
+  "topic": "traditional_baking_and_clay_tannur_craft",
+  "lines": [
+    {
+      "speaker": "الخَبَّازُ مُخْلِصٌ",
+      "ar": "كَيْفَ نَعْرِفُ أَنَّ جِدَارَ التَّنُّورِ الفَخَّارِيِّ صَارَ جَاهِزًا لِاسْتِقْبَالِ رَقَائِقِ العَجِينِ؟",
+      "de": "Woran erkennen wir, dass die Lehmofenwand bereit ist, die Teigfladen aufzunehmen?",
+      "en": "How do we tell that the earthenware tannur wall has become ready to receive the flattened dough sheets?"
+    },
+    {
+      "speaker": "المُسَاعِدُ سَالِمٌ",
+      "ar": "عِنْدَمَا يَزُولُ السَّوَادُ عَنِ الطِّينِ الدَّاخِلِيِّ وَيَتَوَهَّجُ بِالبَيَاضِ، نَلْسَقُ الرَّغِيفَ بِمِخْبَزَةِ القُمَاشِ المَحْشُوَّةِ.",
+      "de": "Wenn der Ruß am Innenlehm weicht und weiß aufglüht, schlagen wir den Fladen mit dem gepolsterten Stoffkissen an.",
+      "en": "When the soot clears from the interior clay and it glows white, we slap the loaf on with the padded cloth cushion."
+    },
+    {
+      "speaker": "الخَبَّازُ مُخْلِصٌ",
+      "ar": "إِنَّ خُبْزَ التَّنُّورِ بَرَكَةُ البُيُوتِ وَطَعَامُ الكِرَامِ الَّذِي يَمْلَأُ الدُّورَ بِعَبِيرِ الخَيْرِ.",
+      "de": "Das Brot aus dem Lehmofen ist der Segen des Hauses und nährt die Familie mit dem Duft der Güte.",
+      "en": "Tannur bread is the blessing of homes and honorable food that fills dwellings with the sweet aroma of bounty."
+    }
+  ]
+}

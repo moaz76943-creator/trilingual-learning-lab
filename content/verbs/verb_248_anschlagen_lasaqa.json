@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_248",
+  "lemma_ar": "لَصَقَ",
+  "root": "ل-ص-ق",
+  "meaning_de": "anschlagen / an die Ofenwand heften",
+  "meaning_en": "to slap / adhere dough sheet to inner oven wall",
+  "conjugation": {
+    "past": {
+      "ar": "لَصَقَ الصَّانِعُ الرَّغِيفَ عَلَى جِدَارِ الفَخَّارِ السَّاخِنِ",
+      "de": "Der Handwerker schlug den Fladen an die heiße Tonwand",
+      "en": "The artisan slapped the loaf onto the hot clay wall"
+    },
+    "present": {
+      "ar": "يَلْصَقُ العَجِينَ بِخِفَّةِ يَدٍ وَبَرَاعَةٍ",
+      "de": "Er heftet den Teig mit flinker Hand und Meisterschaft an",
+      "en": "He adheres the dough with deft hand and skill"
+    },
+    "imperative": {
+      "ar": "الْصَقْ بِضَغْطَةٍ خَفِيفَةٍ تُثَبِّتُ الرَّغِيفَ",
+      "de": "Schlage mit sanftem Druck an, der den Fladen hält!",
+      "en": "Slap with a gentle press that secures the loaf!"
+    }
+  }
+}

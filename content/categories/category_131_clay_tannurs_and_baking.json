@@ -1,0 +1,33 @@
+{
+  "category_id": "131",
+  "slug": "clay_tannurs_and_baking",
+  "name": {
+    "ar": "أَدَوَاتُ تَنَانِيرِ الطِّينِ وَخَبْزِ الأَرْغِفَةِ التُّرَاثِيَّةُ",
+    "de": "Lehmöfen (Tannur) und traditionelle Fladenbäckerwerkzeuge",
+    "en": "Traditional Clay Tannurs, Dough Cushions and Bread Tools"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "padded_bread_cushion",
+      "ar": "مِخْبَزَةُ الأَرْغِفَةِ القُمَاشِيَّةُ",
+      "de": "Das gepolsterte Stoffkissen zum Anschlagen des Fladens",
+      "en": "Padded cloth dough slap cushion pillow",
+      "asset_key": "svg_cat131_padded_bread_cushion"
+    },
+    {
+      "id": "clay_tannur_body",
+      "ar": "تَنُّورُ الطِّينِ المَفْخُورُ",
+      "de": "Der gebrannte zylindrische Lehm-Tannur",
+      "en": "Kiln-baked earthenware cylindrical tannur oven",
+      "asset_key": "svg_cat131_clay_tannur_body"
+    },
+    {
+      "id": "bread_retrieval_hook",
+      "ar": "مِلْقَاطُ الخُبْزِ الحَدِيدِيُّ المَعْقُوفُ",
+      "de": "Der geschmiedete eiserne Brothaken",
+      "en": "Forged iron curved bread retrieval hook",
+      "asset_key": "svg_cat131_bread_retrieval_hook"
+    }
+  ]
+}
