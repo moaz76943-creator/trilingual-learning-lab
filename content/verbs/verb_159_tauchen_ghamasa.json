@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_159",
+  "lemma_ar": "غَمَسَ",
+  "root": "غ-م-س",
+  "meaning_de": "eintauchen / tränken",
+  "meaning_en": "to submerge / immerse in dye vat",
+  "conjugation": {
+    "past": {
+      "ar": "غَمَسَ الصَّبَّاغُ الغَزْلَ فِي الخَابِيَةِ",
+      "de": "Der Färber tauchte das Garn in die Küpe",
+      "en": "The dyer submerged the yarn into the vat"
+    },
+    "present": {
+      "ar": "يَغْمِسُ النَّسِيجَ بِتَأَنٍّ لِيَتَشَرَّبَ",
+      "de": "Er taucht das Gewebe langsam ein, damit es sich sättigt",
+      "en": "He immerses the fabric slowly to absorb evenly"
+    },
+    "imperative": {
+      "ar": "اغْمِسْ بِرِفْقٍ دُونَ إِحْدَاثِ فَقَاقِيعَ",
+      "de": "Tauche behutsam ohne Luftblasen ein!",
+      "en": "Submerge gently without creating air bubbles!"
+    }
+  }
+}

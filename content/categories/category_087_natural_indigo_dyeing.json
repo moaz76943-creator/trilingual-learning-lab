@@ -1,0 +1,33 @@
+{
+  "category_id": "087",
+  "slug": "natural_indigo_dyeing",
+  "name": {
+    "ar": "أَدَوَاتُ خَوَابِي النِّيلَةِ وَالصِّبَاغَةِ الطَّبِيعِيَّةِ",
+    "de": "Indigoküpen und traditionelle Naturfärbung",
+    "en": "Natural Indigo Vats and Botanical Dye Implements"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "indigo_vat",
+      "ar": "خَابِيَةُ النِّيلَةِ الزَّرْقَاءِ",
+      "de": "Die irdene Indigoküpe",
+      "en": "Earthenware natural indigo fermentation vat",
+      "asset_key": "svg_cat087_indigo_vat"
+    },
+    {
+      "id": "ash_lye",
+      "ar": "قِلْيُ الرَّمَادِ القَلَوِيُّ",
+      "de": "Die alkalische Holzaschenlauge",
+      "en": "Alkaline wood-ash lye solution",
+      "asset_key": "svg_cat087_ash_lye"
+    },
+    {
+      "id": "azure_yarn",
+      "ar": "غَزْلُ القُطْنِ المَصْبُوغُ",
+      "de": "Das indigoblau gefärbte Baumwollgarn",
+      "en": "Deep azure dyed cotton yarn skein",
+      "asset_key": "svg_cat087_azure_yarn"
+    }
+  ]
+}

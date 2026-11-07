@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_160",
+  "lemma_ar": "زَرَّقَ",
+  "root": "ز-ر-ق",
+  "meaning_de": "in Azurblau verwandeln / durch Luftkontakt oxidieren",
+  "meaning_en": "to turn azure blue upon atmospheric oxidation",
+  "conjugation": {
+    "past": {
+      "ar": "زَرَّقَ الهَوَاءُ الخُيُوطَ حِينَ ارْتَفَعَتْ",
+      "de": "Die Luft färbte die Fäden blau, als sie gehoben wurden",
+      "en": "The air turned the threads blue as they were lifted"
+    },
+    "present": {
+      "ar": "يُزَرِّقُ الأُكْسِجِينُ اللَّوْنَ أَمَامَ الأَعْيُنِ",
+      "de": "Der Sauerstoff wandelt den Ton vor den Augen in Blau",
+      "en": "Oxygen oxidizes the tone into vibrant blue before one's eyes"
+    },
+    "imperative": {
+      "ar": "زَرِّقْ بِتَعْرِيضِ القُمَاشِ لِلنَّسِيمِ",
+      "de": "Lasse es an der Brise blau anlaufen!",
+      "en": "Let it oxidize into azure in the breeze!"
+    }
+  }
+}

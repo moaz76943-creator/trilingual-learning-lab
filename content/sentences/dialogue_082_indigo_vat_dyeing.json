@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_082",
+  "title": {
+    "ar": "تَخْمِيرُ خَابِيَةِ النِّيلَةِ وَصِبَاغَةُ القُطْنِ",
+    "de": "Gärung der Indigo-Küpe und Baumwollfärbung",
+    "en": "Natural Indigo Vat Fermentation and Cotton Dyeing"
+  },
+  "level": "B1",
+  "topic": "traditional_dyeing_and_natural_chemistry",
+  "lines": [
+    {
+      "speaker": "سَعْدُونٌ",
+      "ar": "تَأَمَّلْ سَطْحَ خَابِيَةِ النِّيلَةِ؛ كَيْفَ نَعْرِفُ أَنَّ الخَمِيرَةَ بَلَغَتْ غَايَتَهَا؟",
+      "de": "Betrachte die Oberfläche der Indigoküpe; woran erkennen wir, dass die Gärung vollendet ist?",
+      "en": "Observe the surface of the indigo vat; how do we know the fermentation has reached perfection?"
+    },
+    {
+      "speaker": "جَعْفَرٌ",
+      "ar": "عِنْدَمَا تَطْفُو رَغْوَةٌ كُحْلِيَّةٌ بَرَّاقَةٌ وَيَتَحَوَّلُ لَوْنُ السَّائِلِ فِي العُمْقِ إِلَى خُضْرَةٍ ذَهَبِيَّةٍ.",
+      "de": "Wenn ein glänzender Schaum oben schwimmt und die Flüssigkeit in der Tiefe ein Grüngold annimmt.",
+      "en": "When a lustrous navy froth floats on top and the liquid in the depths turns into golden olive-green."
+    },
+    {
+      "speaker": "سَعْدُونٌ",
+      "ar": "نَغْمِسُ خُيُوطَ القُطْنِ بِرِفْقٍ؛ فَمَا إِنْ نَرْفَعُهَا إِلَى الهَوَاءِ حَتَّى يُزَرِّقَهَا الأُكْسِجِينُ كَسَمَاءِ الصَّيْفِ.",
+      "de": "Wir tauchen das Baumwollgarn behutsam ein; kaum heben wir es an die Luft, färbt Sauerstoff es himmelblau.",
+      "en": "We gently submerge the cotton yarn; no sooner do we lift it into the air than oxygen turns it azure like a summer sky."
+    }
+  ]
+}
