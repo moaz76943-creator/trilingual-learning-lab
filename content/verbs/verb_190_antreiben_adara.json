@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_190",
+  "lemma_ar": "أَدَارَ",
+  "root": "د-و-ر",
+  "meaning_de": "durch Wasserkraft antreiben / drehen",
+  "meaning_en": "to drive rotary mechanism via river waterwheel",
+  "conjugation": {
+    "past": {
+      "ar": "أَدَارَ المَاءُ الجَارِي مِحْوَرَ المَطْحَنَةِ",
+      "de": "Das fließende Wasser trieb die Mühlenwelle an",
+      "en": "The flowing water drove the mill axle shaft"
+    },
+    "present": {
+      "ar": "يُدِيرُ النَّاعُورَةَ لِتَطْحَنَ الغِلَالَ لِلقَرْيَةِ",
+      "de": "Es dreht das Wasserrad, um Korn für das Dorf zu mahlen",
+      "en": "It drives the waterwheel to grind grain for the village"
+    },
+    "imperative": {
+      "ar": "أَدِرِ التُّرْسَ بِتَدَفُّقٍ مُنْتَظَمٍ",
+      "de": "Treibe das Rad mit stetigem Wasserfluss an!",
+      "en": "Drive the wheel with steady water flow!"
+    }
+  }
+}

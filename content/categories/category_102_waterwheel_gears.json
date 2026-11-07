@@ -1,0 +1,33 @@
+{
+  "category_id": "102",
+  "slug": "waterwheel_gears",
+  "name": {
+    "ar": "أَدَوَاتُ تُرُوسِ النَّوَاعِيرِ الخَشَبِيَّةِ وَمَحَاوِرِ الدَّوَرَانِ",
+    "de": "Hölzerne Wasserradgetriebe und Wellenbäume",
+    "en": "Wooden Waterwheel Gears and Drive Shaft Implements"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "wooden_spur_gear",
+      "ar": "تَرْسُ النَّاعُورَةِ الخَشَبِيُّ",
+      "de": "Das hölzerne Stirnrad des Wasserrads",
+      "en": "Hardwood waterwheel spur gear wheel",
+      "asset_key": "svg_cat102_wooden_spur_gear"
+    },
+    {
+      "id": "wild_pear_cogs",
+      "ar": "أَسْنَانُ خَشَبِ الإِجَّاصِ البَرِّيِّ",
+      "de": "Die Zähne aus hartem Wildbirnenholz",
+      "en": "Friction-resistant wild pear gear cogs",
+      "asset_key": "svg_cat102_wild_pear_cogs"
+    },
+    {
+      "id": "oak_drive_shaft",
+      "ar": "مِحْوَرُ الدَّوَرَانِ البَلُّوطِيُّ",
+      "de": "Der mächtige Wellenbaum aus Eichenholz",
+      "en": "Massive oak waterwheel drive axle",
+      "asset_key": "svg_cat102_oak_drive_shaft"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_189",
+  "lemma_ar": "شَبَّكَ",
+  "root": "ش-ب-ك",
+  "meaning_de": "ineinandergreifen lassen / verzahnen",
+  "meaning_en": "to mesh gear teeth / interlock cogs smoothly",
+  "conjugation": {
+    "past": {
+      "ar": "شَبَّكَ النَّجَّارُ أَسْنَانَ التُّرْسَيْنِ",
+      "de": "Der Zimmermann verzahnte die Zähne beider Räder",
+      "en": "The millwright meshed the teeth of both gears"
+    },
+    "present": {
+      "ar": "يُشَبِّكُ الخَشَبَ بِتَطَابُقٍ هَنْدَسِيٍّ",
+      "de": "Er lässt das Holz in geometrischer Passung greifen",
+      "en": "He meshes the cogs in geometric alignment"
+    },
+    "imperative": {
+      "ar": "شَبِّكْ دُونَ إِحْدَاثِ احْتِكَاكٍ عَنِيفٍ",
+      "de": "Verzahne ohne harte Reibung!",
+      "en": "Mesh smoothly without harsh friction!"
+    }
+  }
+}

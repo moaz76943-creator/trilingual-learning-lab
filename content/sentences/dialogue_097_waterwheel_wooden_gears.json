@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_097",
+  "title": {
+    "ar": "تَرْكِيبُ تُرُوسِ النَّاعُورَةِ الخَشَبِيَّةِ وَضَبْطُ تَعْشِيقِهَا",
+    "de": "Montage der hölzernen Wasserrad-Zahnräder und Verzahnungsjustierung",
+    "en": "Fitting Wooden Waterwheel Gears and Adjusting Mesh"
+  },
+  "level": "B1",
+  "topic": "traditional_hydromechanics_and_milling",
+  "lines": [
+    {
+      "speaker": "طَلْحَةُ",
+      "ar": "لِمَاذَا نَصْنَعُ أَسْنَانَ التُّرُوسِ مِنْ خَشَبِ الإِجَّاصِ البَرِّيِّ دُونَ سَائِرِ الأَشْجَارِ؟",
+      "de": "Warum fertigen wir die Zähne des Getriebes aus Wildbirnenholz vor allen anderen Hölzern?",
+      "en": "Why do we fashion the gear teeth from wild pear wood above all other timbers?"
+    },
+    {
+      "speaker": "سِنَانٌ",
+      "ar": "لِأَنَّ خَشَبَهُ صَلْدٌ عَدِيمُ التَّشَظِّي يَنْصَقِلُ بِالاحْتِكَاكِ دُونَ أَنْ يَتَآكَلَ أَمَامَ ثِقَلِ الرَّحَى.",
+      "de": "Weil sein Holz splitterfrei aushärtet und durch Reibung glatter wird, ohne unter der Last zu verschleißen.",
+      "en": "Because its timber is hard and non-splintering, burnishing with friction without wearing under mill load."
+    },
+    {
+      "speaker": "طَلْحَةُ",
+      "ar": "سَنَدْهُنُ الأَسْنَانَ بِشَحْمٍ نَقِيٍّ مَمْزُوجٍ بِشَمْعِ النَّحْلِ لِيَدُورَ التُّرْسُ بِانْسِيَابٍ هَادِئٍ.",
+      "de": "Wir bestreichen die Zähne mit reinem Talg und Bienenwachs, damit das Rad lautlos und sanft greift.",
+      "en": "We will grease the teeth with pure tallow and beeswax so the gears engage in whisper-quiet flow."
+    }
+  ]
+}
