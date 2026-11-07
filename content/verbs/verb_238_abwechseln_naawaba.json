@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_238",
+  "lemma_ar": "نَاوَبَ",
+  "root": "ن-و-ب",
+  "meaning_de": "im Wechsel zuteilen / den Zeittakt wechseln",
+  "meaning_en": "to alternate irrigation turns / transfer water share cyclically",
+  "conjugation": {
+    "past": {
+      "ar": "نَاوَبَ أَمِينُ المَاءِ بَيْنَ سَوَاقِي البَسَاتِينِ",
+      "de": "Der Wasserwart wechselte die Zuteilung zwischen den Gräben",
+      "en": "The water steward alternated the flow between orchard canals"
+    },
+    "present": {
+      "ar": "يُنَاوِبُ الحِصَصَ بِالعَدْلِ بَيْنَ النَّاسِ",
+      "de": "Er teilt die Wassertakte gerecht unter den Bürgern auf",
+      "en": "He alternates the quotas justly among the people"
+    },
+    "imperative": {
+      "ar": "نَاوِبْ بِإِنْصَافٍ يَصُونُ الزَّرْعَ كُلَّهُ",
+      "de": "Wechsle die Takte gerecht zum Schutz aller Saat!",
+      "en": "Alternate turns with equity that preserves all crops!"
+    }
+  }
+}

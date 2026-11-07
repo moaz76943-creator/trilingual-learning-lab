@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_237",
+  "lemma_ar": "غَطَسَ",
+  "root": "غ-ط-س",
+  "meaning_de": "untersinken / im Zeittakt eintauchen",
+  "meaning_en": "to submerge / sink in water over calibrated duration",
+  "conjugation": {
+    "past": {
+      "ar": "غَطَسَتْ طَاسَةُ المَاءِ مُعْلِنَةً انْتِهَاءَ النَّوْبَةِ",
+      "de": "Die Wasserschale sank unter und verkündete das Ende des Zeittakts",
+      "en": "The water bowl submerged, announcing the turn completion"
+    },
+    "present": {
+      "ar": "تَغْطِسُ فِي الحَوْضِ عِنْدَ اكْتِمَالِ مِلْئِهَا",
+      "de": "Sie sinkt im Becken herab, sobald sie voll gelaufen ist",
+      "en": "It submerges in the basin once fully filled"
+    },
+    "imperative": {
+      "ar": "اغْطِسْ بِمِيقَاتٍ صَادِقٍ لَا يُبْخَسُ",
+      "de": "Sinke nach gerechtem Maß ohne Fälschung!",
+      "en": "Submerge upon true measure without shortfall!"
+    }
+  }
+}

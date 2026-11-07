@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_121",
+  "title": {
+    "ar": "ضَبْطُ سَاعَةِ الطَّارْجَهَارَةِ المَائِيَّةِ لِقِسْمَةِ نُوَبِ السَّقْيِ",
+    "de": "Eichen der Tarjaharah-Wasseruhr zur Verteilung der Bewässerungszeiten",
+    "en": "Calibrating the Tarjaharah Water Clock for Irrigation Turn Allocation"
+  },
+  "level": "B1",
+  "topic": "traditional_water_clocks_and_irrigation_equity",
+  "lines": [
+    {
+      "speaker": "أَمِينُ المَاءِ رَزِينٌ",
+      "ar": "كَيْفَ نُعَايِرُ ثَقْبَ طَاسَةِ النُّحَاسِ لِيَكُونَ زَمَنُ غَرَقِهَا نِصْفَ سَاعَةٍ بِالضَّبْطِ؟",
+      "de": "Wie eichen wir die Öffnung der Kupferschale, damit ihre Sinkzeit exakt einer halben Stunde entspricht?",
+      "en": "How do we calibrate the copper bowl orifice so its sinking time spans precisely half an hour?"
+    },
+    {
+      "speaker": "المُوَقِّتُ هِلَالٌ",
+      "ar": "نَصْقُلُ الثَّقْبَ بِإِبْرَةِ العَقِيقِ حَتَّى يَكُونَ دَائِرِيًّا كَالشَّعْرَةِ، فَيَدْخُلُ المَاءُ بِانْتِظَامٍ لَا يَتَبَدَّلُ.",
+      "de": "Wir glätten das Loch mit einer Achatnadel hauchfein, damit das Wasser absolut gleichmäßig einströmt.",
+      "en": "We burnish the hole with an agate needle hairline-round, so water enters with unwavering regularity."
+    },
+    {
+      "speaker": "أَمِينُ المَاءِ رَزِينٌ",
+      "ar": "عِنْدَمَا تَغْرَقُ الطَّاسَةُ نَرْفَعُ صَفِيحَةَ السَّاقِيَةِ؛ فَيَنَالُ كُلُّ فَلَّاحٍ حَقَّهُ فِي المَاءِ كَفَافًا بِلَا مِرَاءِ.",
+      "de": "Sinkt die Schale, heben wir das Wehr; so empfängt jeder Bauer sein unbestreitbares Wasserrecht.",
+      "en": "When the bowl sinks, we lift the sluice plate; thus each farmer receives his undisputed water share."
+    }
+  ]
+}

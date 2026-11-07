@@ -1,0 +1,33 @@
+{
+  "category_id": "126",
+  "slug": "clepsydra_water_clocks",
+  "name": {
+    "ar": "أَدَوَاتُ الطَّارْجَهَارَةِ المَائِيَّةِ وَسَاعَاتِ السَّقْيِ التُّرَاثِيَّةُ",
+    "de": "Wasseruhren, Tarjaharah-Schalen und Zeitmessbecken",
+    "en": "Clepsydra Water Clocks, Timing Bowls and Irrigation Gauges"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "sinking_copper_bowl",
+      "ar": "طَاسَةُ الطَّارْجَهَارَةِ النُّحَاسِيَّةُ",
+      "de": "Die sinkende Kupferschale der Wasseruhr",
+      "en": "Calibrated sinking copper clepsydra bowl",
+      "asset_key": "svg_cat126_sinking_copper_bowl"
+    },
+    {
+      "id": "bronze_signaling_gong",
+      "ar": "نَاقُوسُ الإِشْعَارِ البُرُونْزِيُّ",
+      "de": "Die bronzene Signalschale der Wasseruhr",
+      "en": "Resonant bronze time-signal chime bowl",
+      "asset_key": "svg_cat126_bronze_signaling_gong"
+    },
+    {
+      "id": "agate_piercing_needle",
+      "ar": "مِخْرَزُ العَقِيقِ لِمُعَايَرَةِ الثَّقْبِ",
+      "de": "Die Achat-Eichnadel für Ausflussdüsen",
+      "en": "Polished agate orifice calibration needle",
+      "asset_key": "svg_cat126_agate_piercing_needle"
+    }
+  ]
+}
