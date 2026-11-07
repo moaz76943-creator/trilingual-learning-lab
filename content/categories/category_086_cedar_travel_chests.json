@@ -1,0 +1,33 @@
+{
+  "category_id": "086",
+  "slug": "cedar_travel_chests",
+  "name": {
+    "ar": "أَدَوَاتُ صَنَادِيقِ الأَرْزِ المَعْشُوقَةِ وَتَرْصِيعِ الصَّدَفِ",
+    "de": "Verzahnte Zedernholztruhen und Perlmutteinlegekunst",
+    "en": "Dovetailed Cedar Chests and Mother-of-Pearl Inlay"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "cedar_chest",
+      "ar": "صُنْدُوقُ الأَرْزِ المَعْشُوقُ",
+      "de": "Die gezinkte Reisetruhe aus Zedernholz",
+      "en": "Dovetailed mountain cedar travel chest",
+      "asset_key": "svg_cat086_cedar_chest"
+    },
+    {
+      "id": "pearl_inlay",
+      "ar": "رَقَائِقُ صَدَفِ البَحْرِ",
+      "de": "Die Perlmuttplättchen zur Einlegearbeit",
+      "en": "Mother-of-pearl inlay veneers",
+      "asset_key": "svg_cat086_pearl_inlay"
+    },
+    {
+      "id": "brass_padlock",
+      "ar": "قُفْلُ النُّحَاسِ المَصْفُوحُ",
+      "de": "Das geschmiedete Messingvorhängeschloss",
+      "en": "Forged brass traveling padlock",
+      "asset_key": "svg_cat086_brass_padlock"
+    }
+  ]
+}

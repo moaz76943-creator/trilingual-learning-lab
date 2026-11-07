@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_158",
+  "lemma_ar": "رَصَّعَ",
+  "root": "ر-ص-ع",
+  "meaning_de": "einlegen / mit Perlmutt schmücken",
+  "meaning_en": "to inlay / encrust with mother-of-pearl",
+  "conjugation": {
+    "past": {
+      "ar": "رَصَّعَ الصَّانِعُ الغِطَاءَ بِالصَّدَفِ النَّقِيِّ",
+      "de": "Der Kunsthandwerker legte den Deckel mit Perlmutt aus",
+      "en": "The artisan inlaid the lid with pure nacre"
+    },
+    "present": {
+      "ar": "يُرَصِّعُ النُّقُوشَ بِرِقَّةٍ وَإِبْدَاعٍ",
+      "de": "Er verziert die Muster mit Feingefühl und Kunstfertigkeit",
+      "en": "He inlays the patterns with delicacy and skill"
+    },
+    "imperative": {
+      "ar": "رَصِّعْ بِتَرَاتُبٍ هَنْدَسِيٍّ",
+      "de": "Lege in geometrischer Ordnung ein!",
+      "en": "Inlay in geometric alignment!"
+    }
+  }
+}

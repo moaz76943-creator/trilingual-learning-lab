@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_081",
+  "title": {
+    "ar": "صِنَاعَةُ صَنَادِيقِ الأَرْزِ المَعْشُوقَةِ لِحِفْظِ المَخْطُوطَاتِ",
+    "de": "Bau verzahnter Zedernholztruhen für Manuskripte",
+    "en": "Crafting Dovetailed Cedar Travel Chests for Manuscripts"
+  },
+  "level": "B1",
+  "topic": "traditional_cabinetmaking_and_conservation",
+  "lines": [
+    {
+      "speaker": "قَاسِمٌ",
+      "ar": "لِمَاذَا نُعَشِّقُ أَلْوَاحَ خَشَبِ الأَرْزِ بِتَعْشِيقَةِ ذَيْلِ اليَمَامِ بَدَلَ المَسَامِيرِ؟",
+      "de": "Warum verzahnen wir die Zedernholzbretter im Schwalbenschwanzgehrung statt Nägel zu nutzen?",
+      "en": "Why do we interlock the cedar boards with dovetail joints rather than nails?"
+    },
+    {
+      "speaker": "عِمَادٌ",
+      "ar": "لِأَنَّ التَّعْشِيقَ يُقَاوِمُ اهْتِزَازَاتِ السَّفَرِ، وَرَائِحَةُ الأَرْزِ تَطْرُدُ الرُّطُوبَةَ وَالعَثَّ عَنِ الصَّحَائِفِ.",
+      "de": "Weil die Verzahnung den Erschütterungen der Reise trotzt und der Zedernduft Feuchtigkeit und Motten abwehrt.",
+      "en": "Because dovetailing withstands the jolts of travel, and cedar scent repels dampness and moths from the parchment."
+    },
+    {
+      "speaker": "قَاسِمٌ",
+      "ar": "سَأُرَصِّعُ الغِطَاءَ بِرَقَائِقِ صَدَفِ السَّاحِلِ لِيَكُونَ تُحْفَةً تَحْمِلُ خَيْرَ الوَدَائِعِ.",
+      "de": "Ich werde den Deckel mit Muschelplättchen von der Küste einlegen, damit er eine ehrwürdige Truhe wird.",
+      "en": "I will inlay the lid with coastal mother-of-pearl so it becomes an honorable vessel for sacred trusts."
+    }
+  ]
+}
