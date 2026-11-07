@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_202",
+  "lemma_ar": "عَتَّقَ",
+  "root": "ع-ت-ق",
+  "meaning_de": "reifen lassen / ablagern",
+  "meaning_en": "to cure / age perfume oil to mature richness",
+  "conjugation": {
+    "past": {
+      "ar": "عَتَّقَ العَطَّارُ قَوَارِيرَ العُودِ فِي المَخْزَنِ",
+      "de": "Der Parfümeur ließ das Adlerholzöl im Lager reifen",
+      "en": "The perfumer aged the phials of agarwood in the store"
+    },
+    "present": {
+      "ar": "يُعَتِّقُ الدُّهْنَ لِيَكْتَسِبَ ثَبَاتًا وَعُمْقًا",
+      "de": "Er lässt die Essenz reifen, um Dauerhaftigkeit zu erlangen",
+      "en": "He cures the essence to gain steadfast persistence"
+    },
+    "imperative": {
+      "ar": "عَتِّقْ فِي مَكَانٍ بَارِدٍ مَحْجُوبٍ عَنِ الشَّمْسِ",
+      "de": "Lagere es an einem kühlen, sonnengeschützten Ort!",
+      "en": "Age in a cool sanctuary shielded from sunlight!"
+    }
+  }
+}

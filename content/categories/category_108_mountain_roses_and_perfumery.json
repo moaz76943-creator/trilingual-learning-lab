@@ -1,0 +1,33 @@
+{
+  "category_id": "108",
+  "slug": "mountain_roses_and_perfumery",
+  "name": {
+    "ar": "أَدَوَاتُ جَنْيِ الوَرْدِ وَقَوَارِيرِ العِطْرِ التُّرَاثِيَّةُ",
+    "de": "Bergrosenernte und traditionelle Parfümflakons",
+    "en": "Mountain Rose Harvesting and Heritage Perfumery Phials"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "dark_perfume_phial",
+      "ar": "قَارُورَةُ العِطْرِ الزُّجَاجِيَّةُ الدَّاكِنَةُ",
+      "de": "Der dunkle gläserne Duftflakon",
+      "en": "Amber glass essential oil phial",
+      "asset_key": "svg_cat108_dark_perfume_phial"
+    },
+    {
+      "id": "rose_harvest_basket",
+      "ar": "سَلَّةُ جَنْيِ الوَرْدِ الخَيْزُرَانِيَّةُ",
+      "de": "Der geflochtene Rosen-Erntekorb",
+      "en": "Woven wicker rose blossom basket",
+      "asset_key": "svg_cat108_rose_harvest_basket"
+    },
+    {
+      "id": "crystal_dropper",
+      "ar": "مِقْطَارُ الدُّهْنِ البِلَّوْرِيُّ",
+      "de": "Die gläserne Tropfpipette für Essenzen",
+      "en": "Fine crystal essential oil dropper",
+      "asset_key": "svg_cat108_crystal_dropper"
+    }
+  ]
+}

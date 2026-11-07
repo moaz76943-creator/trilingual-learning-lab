@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_201",
+  "lemma_ar": "فَاحَ",
+  "root": "ف-و-ح",
+  "meaning_de": "duften / Wohlgeruch verbreiten",
+  "meaning_en": "to diffuse a fragrant scent / exude pure aroma",
+  "conjugation": {
+    "past": {
+      "ar": "فَاحَ عَبِيرُ الوَرْدِ فِي رُبُوعِ الحَدِيقَةِ",
+      "de": "Der Duft der Rosen erfüllte den Garten",
+      "en": "The fragrance of roses diffused through the garden"
+    },
+    "present": {
+      "ar": "يَفُوحُ شَذَا المَاءِ المَقْطُورِ زَكِيًّا",
+      "de": "Der liebliche Duft des Destillats strömt aus",
+      "en": "The aroma of the distilled rosewater wafts sweetly"
+    },
+    "imperative": {
+      "ar": "فُحْ بِطِيبِ الكَلِمِ وَحُسْنِ الخُلُقِ",
+      "de": "Verbreite den Wohlgeruch edler Worte und Taten!",
+      "en": "Diffuse the sweet fragrance of noble speech and character!"
+    }
+  }
+}

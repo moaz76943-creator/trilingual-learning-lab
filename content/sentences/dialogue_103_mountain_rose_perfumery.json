@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_103",
+  "title": {
+    "ar": "جَنْيُ وَرْدِ الجِبَالِ وَتَعْتِيقُ قَوَارِيرِ العِطْرِ فِي الظِّلِّ",
+    "de": "Ernte der Bergrosen und Reifung der Duftflakons im Schatten",
+    "en": "Harvesting Mountain Roses and Shade-Curing Perfume Phials"
+  },
+  "level": "B1",
+  "topic": "traditional_apothecary_and_rose_distillation",
+  "lines": [
+    {
+      "speaker": "العَطَّارُ لُقْمَانُ",
+      "ar": "لِمَاذَا نَقْطِفُ بِتَلَاتِ الوَرْدِ الجَبَلِيِّ فِي سَاعَاتِ الفَجْرِ قَبْلَ شُرُوقِ الشَّمْسِ؟",
+      "de": "Warum pflücken wir die Blütenblätter der Bergrose in den Morgenstunden vor Sonnenaufgang?",
+      "en": "Why do we pluck the mountain rose petals during dawn hours prior to sunrise?"
+    },
+    {
+      "speaker": "الصَّبِيُّ هِشَامٌ",
+      "ar": "لِأَنَّ قَطَرَاتِ النَّدَى تَحْبِسُ الزُّيُوتَ العِطْرِيَّةَ الطَّيَّارَةَ دَاخِلَ الزَّهْرَةِ فَلَا يُبَدِّدُهَا القَيْظُ.",
+      "de": "Weil die Tautropfen die ätherischen Öle in der Blüte bewahren, bevor die Mittagshitze sie verflüchtigt.",
+      "en": "Because dew drops lock the volatile aromatic essences inside the blossom before heat disperses them."
+    },
+    {
+      "speaker": "العَطَّارُ لُقْمَانُ",
+      "ar": "سَنَصُبُّ الخُلَاصَةَ المُنَقَّاةَ فِي قَوَارِيرِ الزُّجَاجِ الدَّاكِنِ كَيْ يَحْفَظَهَا الظَّلَامُ سِنِينَ عَدِيدَةً.",
+      "de": "Wir füllen das reine Destillat in dunkle Glasflakons, damit die Dunkelheit das Aroma jahrelang schützt.",
+      "en": "We will pour the clarified essence into dark glass phials so darkness preserves it across years."
+    }
+  ]
+}
