@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_174",
+  "lemma_ar": "رَدَمَ",
+  "root": "ر-د-م",
+  "meaning_de": "zudecken / luftdicht verschließen",
+  "meaning_en": "to seal hermetically / cover the silo capstone",
+  "conjugation": {
+    "past": {
+      "ar": "رَدَمَ الرَّجُلُ فُوَّهَةَ المَدْفَنِ بِالتُّرَابِ",
+      "de": "Der Mann deckte die Öffnung des Silos mit Erde ab",
+      "en": "The farmer covered the pit aperture with clean earth"
+    },
+    "present": {
+      "ar": "يَرْدُمُ الغِطَاءَ لِيَمْنَعَ دُخُولَ الهَوَاءِ",
+      "de": "Er versiegelt den Deckel, um Lufteintritt zu verhindern",
+      "en": "He seals the capstone to prevent airflow ingress"
+    },
+    "imperative": {
+      "ar": "ارْدُمْ بِإِحْكَامٍ يَصُونُ المَخْزُونَ",
+      "de": "Verschließe es dicht zum Schutze der Vorräte!",
+      "en": "Seal firmly to safeguard the stored grain!"
+    }
+  }
+}

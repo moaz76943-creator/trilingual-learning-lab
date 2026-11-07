@@ -1,0 +1,33 @@
+{
+  "category_id": "094",
+  "slug": "underground_grain_silos",
+  "name": {
+    "ar": "أَدَوَاتُ المَطَامِيرِ الأَرْضِيَّةِ وَحِفْظِ الغِلَالِ التُّرَاثِيَّةُ",
+    "de": "Unterirdische Getreidesilos und Vorratsbau",
+    "en": "Subterranean Grain Silos and Granary Storage Tools"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "sealed_silo_pit",
+      "ar": "مَطْمُورَةُ الغِلَالِ المَحْكَمَةُ",
+      "de": "Das versiegelte unterirdische Kornsilo",
+      "en": "Sealed subterranean grain storage silo pit",
+      "asset_key": "svg_cat094_sealed_silo_pit"
+    },
+    {
+      "id": "silo_capstone",
+      "ar": "حَجَرُ غِطَاءِ المَطْمُورَةِ",
+      "de": "Der schwere Verschlussstein des Silos",
+      "en": "Heavy circular silo capstone cover",
+      "asset_key": "svg_cat094_silo_capstone"
+    },
+    {
+      "id": "chaff_lining",
+      "ar": "بِطَانَةُ تِبْنِ القَمْحِ العَازِلَةُ",
+      "de": "Die isolierende Strohhäcksel-Auskleidung",
+      "en": "Insulating wheat chaff cavity lining",
+      "asset_key": "svg_cat094_chaff_lining"
+    }
+  ]
+}

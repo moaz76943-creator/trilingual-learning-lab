@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_089",
+  "title": {
+    "ar": "بِنَاءُ المَطَامِيرِ الأَرْضِيَّةِ لِخَزْنِ حُبُوبِ القَمْحِ",
+    "de": "Bau unterirdischer Kornsilos zur Vorratshaltung",
+    "en": "Constructing Subterranean Silos for Grain Storage"
+  },
+  "level": "B1",
+  "topic": "traditional_agriculture_and_food_security",
+  "lines": [
+    {
+      "speaker": "عُثْمَانُ",
+      "ar": "كَيْفَ نَعْزِلُ جُدْرَانَ المَطْمُورَةِ كَيْ لَا تَتَسَرَّبَ رُطُوبَةُ الأَرْضِ إِلَى حَبِّ الحِنْطَةِ؟",
+      "de": "Wie isolieren wir die Wände des Kornsilos, damit keine Bodenfeuchte an das Weizenkorn dringt?",
+      "en": "How do we insulate the silo walls so subterranean dampness does not reach the wheat grain?"
+    },
+    {
+      "speaker": "ثَابِتٌ",
+      "ar": "نُبَطِّنُ الجَوْفَ بِطَبَقَةٍ كَثِيفَةٍ مِنْ تِبْنِ الشَّعِيرِ الجَافِّ، ثُمَّ نَطْلِيهَا بِطِينٍ مَمْزُوجٍ بِالرَّمَادِ.",
+      "de": "Wir kleiden das Innere mit einer dichten Schicht Gerstenstroh aus und verstreichen sie mit ascheversetztem Lehm.",
+      "en": "We line the cavity with a dense layer of dry barley chaff and plaster it with ash-tempered clay."
+    },
+    {
+      "speaker": "عُثْمَانُ",
+      "ar": "وَبَعْدَ مَلْءِ القَمْحِ نُطْبِقُ الحَجَرَ الدَّائِرِيَّ وَنَرْدُمُهُ بِالتُّرَابِ لِيَحْفَظَ الغِلَالَ سِنِينَ عِدَادًا.",
+      "de": "Nach dem Befüllen schließen wir den runden Deckstein und decken ihn ab, um das Korn jahrelang zu wahren.",
+      "en": "After filling with wheat, we seat the circular capstone and seal it with earth to preserve the grain for years."
+    }
+  ]
+}

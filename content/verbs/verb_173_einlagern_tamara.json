@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_173",
+  "lemma_ar": "طَمَرَ",
+  "root": "ط-م-ر",
+  "meaning_de": "in der Erdgrube einlagern / einbringen",
+  "meaning_en": "to store grain in an underground silo pit",
+  "conjugation": {
+    "past": {
+      "ar": "طَمَرَ الزَّارِعُ القَمْحَ فِي المَطْمُورَةِ",
+      "de": "Der Landwirt lagerte den Weizen im Kornsilo ein",
+      "en": "The farmer stored the wheat inside the subterranean silo"
+    },
+    "present": {
+      "ar": "يَطْمُرُ الحُبُوبَ الجَافَّةَ لِأَيَّامِ الشِّدَّةِ",
+      "de": "Er lagert das trockene Getreide für karge Tage ein",
+      "en": "He stores dry grain against days of scarcity"
+    },
+    "imperative": {
+      "ar": "اطْمُرْ بَعْدَ التَّجْفِيفِ التَّامِّ",
+      "de": "Lagere erst nach vollständiger Trocknung ein!",
+      "en": "Store only after thorough sun-drying!"
+    }
+  }
+}
