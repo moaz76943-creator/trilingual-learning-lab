@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_164",
+  "lemma_ar": "وَتَّدَ",
+  "root": "و-ت-د",
+  "meaning_de": "festpflöcken / im Boden verankern",
+  "meaning_en": "to stake firmly / anchor tent with pegs",
+  "conjugation": {
+    "past": {
+      "ar": "وَتَّدَ الرَّجُلُ حِبَالَ الخَيْمَةِ فِي الرِّمَالِ",
+      "de": "Der Mann verankerte die Zeltseile im Sand",
+      "en": "The nomad pegged the tent guy-lines in the sand"
+    },
+    "present": {
+      "ar": "يُوَتِّدُ الأَوْتَادَ عَمِيقًا لِتَقْوَى عَلَى الرِّيحِ",
+      "de": "Er schlägt die Pflöcke tief ein, um dem Wind zu trotzen",
+      "en": "He drives the pegs deep to withstand the gale"
+    },
+    "imperative": {
+      "ar": "وَتِّدْ بِضَرَبَاتٍ ثَابِتَةٍ فِي الأَرْضِ",
+      "de": "Verankere die Pflöcke mit festen Schlägen!",
+      "en": "Drive the stakes deep with firm strokes!"
+    }
+  }
+}

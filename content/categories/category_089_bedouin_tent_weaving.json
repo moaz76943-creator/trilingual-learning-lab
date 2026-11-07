@@ -1,0 +1,33 @@
+{
+  "category_id": "089",
+  "slug": "bedouin_tent_weaving",
+  "name": {
+    "ar": "أَدَوَاتُ حِيَاكَةِ بُيُوتِ الشَّعْرِ وَالمَنَاسِجِ الأَرْضِيَّةِ",
+    "de": "Bodenwebrahmen und Zeltbahnen der Beduinen",
+    "en": "Bedouin Ground Looms and Hair-Tent Weaving Implements"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "hair_tent_strip",
+      "ar": "شُقَّةُ بَيْتِ الشَّعْرِ السَّوْدَاءُ",
+      "de": "Die schwarze Zeltbahn aus Ziegenhaar",
+      "en": "Black goat-hair woven tent strip",
+      "asset_key": "svg_cat089_hair_tent_strip"
+    },
+    {
+      "id": "ground_loom",
+      "ar": "المَنْسَجُ الأَرْضِيُّ البَدَوِيُّ",
+      "de": "Der traditionelle horizontale Bodenwebrahmen",
+      "en": "Traditional desert ground loom",
+      "asset_key": "svg_cat089_ground_loom"
+    },
+    {
+      "id": "acacia_peg",
+      "ar": "أَوْتَادُ السَّمُرِ الصَّلْبَةُ",
+      "de": "Die harten Zeltpflöcke aus Akazienholz",
+      "en": "Hardwood acacia tent stakes",
+      "asset_key": "svg_cat089_acacia_peg"
+    }
+  ]
+}

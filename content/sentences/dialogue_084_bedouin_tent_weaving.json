@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_084",
+  "title": {
+    "ar": "نَسْجُ شُقَقِ بَيْتِ الشَّعْرِ عَلَى المَنْسَجِ الأَرْضِيِّ",
+    "de": "Weben der Zeltbahnen auf dem traditionellen Bodenwebrahmen",
+    "en": "Weaving Bedouin Tent Strips on the Ground Loom"
+  },
+  "level": "B1",
+  "topic": "traditional_bedouin_weaving_and_shelter",
+  "lines": [
+    {
+      "speaker": "سَلْمَى",
+      "ar": "كَيْفَ يَحْمِي بَيْتُ الشَّعْرِ سَاكِنِيهِ مِنَ المَطَرِ رَغْمَ وُجُودِ مَسَامَّ فِي النَّسِيجِ؟",
+      "de": "Wie schützt das Haarzelt vor Regen, obwohl das Gewebe Poren aufweist?",
+      "en": "How does the hair tent shelter its dwellers from rain despite pores in the weave?"
+    },
+    {
+      "speaker": "أُمُّ صَالِحٍ",
+      "ar": "عِنْدَ هُطُولِ الغَيْثِ تَنْتَفِخُ أَلْيَافُ شَعْرِ المَاعِزِ فَتَسُدُّ الفَتَحَاتِ، وَفِي القَيْظِ تَتَنَفَّسُ لِتَدْخُلَ النَّسَمَاتُ.",
+      "de": "Beim Regen quellen die Ziegenhaare auf und dichten ab; in der Sommerhitze lassen sie die Brise durch.",
+      "en": "When rain falls, the goat-hair fibers swell shut to seal the roof; in summer heat, they breathe to admit the breeze."
+    },
+    {
+      "speaker": "سَلْمَى",
+      "ar": "سَأَشُدُّ السَّدَى بِالمِدْرَاةِ الخَشَبِيَّةِ حَتَّى تَكُونَ الشُّقَّةُ مُتَرَاصَّةَ الخُيُوطِ كَالجِدَارِ المَرْصُوصِ.",
+      "de": "Ich werde die Kettfäden mit dem Weberschwert festschlagen, damit die Zeltbahn dicht wie eine Mauer wird.",
+      "en": "I will beat the weft with the wooden weaving sword so the strip is compacted firmly like a solid rampart."
+    }
+  ]
+}
