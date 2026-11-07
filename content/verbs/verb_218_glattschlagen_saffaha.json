@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_218",
+  "lemma_ar": "صَفَّحَ",
+  "root": "ص-ف-ح",
+  "meaning_de": "schlichten / glattschlagen",
+  "meaning_en": "to planish / hammer copper sheet uniformly smooth on stake",
+  "conjugation": {
+    "past": {
+      "ar": "صَفَّحَ الحِرَفِيُّ جِدَارَ القِدْرِ المَنْحُوتِ",
+      "de": "Der Handwerker schlichtete die Kesselwand auf dem Eisen",
+      "en": "The artisan planished the cauldron wall upon the stake"
+    },
+    "present": {
+      "ar": "يُصَفِّحُ النُّحَاسَ بِضَرَبَاتٍ مُتَرَاصَّةٍ هَادِئَةٍ",
+      "de": "Er glättet das Kupfer mit dicht aneinandergesetzten Schlägen",
+      "en": "He planishes the copper with dense, steady strokes"
+    },
+    "imperative": {
+      "ar": "صَفِّحْ حَتَّى يَسْتَوِيَ السَّطْحُ كَالمِرْآةِ",
+      "de": "Schlichte, bis die Fläche spiegelgleich eben wird!",
+      "en": "Planish until the surface levels smooth like a mirror!"
+    }
+  }
+}

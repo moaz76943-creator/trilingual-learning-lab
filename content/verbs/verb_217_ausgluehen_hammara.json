@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_217",
+  "lemma_ar": "حَمَّرَ",
+  "root": "ح-م-ر",
+  "meaning_de": "ausglühen / rotglühend weichmachen",
+  "meaning_en": "to anneal / heat copper to dull red heat for softening",
+  "conjugation": {
+    "past": {
+      "ar": "حَمَّرَ الصَّفَّارُ صَفِيحَةَ الإِبْرِيقِ فِي الكُورِ",
+      "de": "Der Kupferschmied glühte das Kannenblech in der Esse aus",
+      "en": "The coppersmith annealed the flagon plate in the forge"
+    },
+    "present": {
+      "ar": "يُحَمِّرُ المَعْدِنَ لِيَسْتَعِيدَ لِينَةَ الطَّرْقِ",
+      "de": "Er glüht das Metall aus, um die Schmiedbarkeit zu erneuern",
+      "en": "He anneals the metal to restore hammering malleability"
+    },
+    "imperative": {
+      "ar": "حَمِّرْ بِاعْتِدَالٍ دُونَ بُلُوغِ نُقْطَةِ الانْصِهَارِ",
+      "de": "Glühe maßvoll, ohne den Schmelzpunkt zu erreichen!",
+      "en": "Anneal moderately without reaching melting temperature!"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "category_id": "116",
+  "slug": "coppersmithing_and_cauldrons",
+  "name": {
+    "ar": "أَدَوَاتُ صَفَّارَةِ النُّحَاسِ وَمَسَانِدِ التَّسْوِيَةِ التُّرَاثِيَّةُ",
+    "de": "Kupferschmiedewerkzeuge und Schlichtambosse",
+    "en": "Coppersmithing Stakes, Planishing Hammers and Cauldrons"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "planishing_stake",
+      "ar": "مِسْنَدُ النُّحَاسِ الفُولَاذِيُّ",
+      "de": "Das polierte stählerne Schlichteisen",
+      "en": "Polished steel coppersmith planishing stake",
+      "asset_key": "svg_cat116_planishing_stake"
+    },
+    {
+      "id": "hammered_cauldron",
+      "ar": "قِدْرُ النُّحَاسِ الأَحْمَرِ المَطْرُوقُ",
+      "de": "Der handgeschmiedete Kupferkessel",
+      "en": "Hand-hammered red copper cooking cauldron",
+      "asset_key": "svg_cat116_hammered_cauldron"
+    },
+    {
+      "id": "planishing_hammer",
+      "ar": "مِطْرَقَةُ التَّسْوِيَةِ المَصْقُولَةُ",
+      "de": "Der glattflächige Schlichthammer",
+      "en": "Mirror-faced planishing smoothing hammer",
+      "asset_key": "svg_cat116_planishing_hammer"
+    }
+  ]
+}

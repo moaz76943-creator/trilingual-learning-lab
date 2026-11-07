@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_111",
+  "title": {
+    "ar": "تَحْمِيرُ قُدُورِ النُّحَاسِ وَتَصْفِيحُهَا عَلَى المِسْنَدِ",
+    "de": "Ausglühen von Kupfertöpfen und Schlichten auf dem Schmiedeeisen",
+    "en": "Annealing Copper Cauldrons and Planishing upon the Stake"
+  },
+  "level": "B1",
+  "topic": "traditional_coppersmithing_and_metal_raising",
+  "lines": [
+    {
+      "speaker": "الصَّفَّارُ مُرْتَضَى",
+      "ar": "تَصَلَّبَ جِدَارُ القِدْرِ النُّحَاسِيِّ؛ هَيَّا نَضَعْهُ فَوْقَ جَمْرِ الكُورِ حَتَّى يَتَوَرَّدَ بِلَوْنِ الكَرَزِ.",
+      "de": "Die Kupferkesselwand ist spröde geworden; lasst sie uns auf die Glut heben, bis sie kirschrot glüht.",
+      "en": "The copper cauldron wall has work-hardened; let us place it upon the embers until it glows cherry red."
+    },
+    {
+      "speaker": "المُسَاعِدُ عَدْنَانُ",
+      "ar": "سَأَغْمِسُهُ فِي حَوْضِ المَاءِ البَارِدِ لِيَسْتَعِيدَ لَدَانَتَهُ، ثُمَّ نُثَبِّتُهُ عَلَى المِسْنَدِ الفُولَاذِيِّ المَصْقُولِ.",
+      "de": "Ich tauche ihn ins kalte Wasserbad zur Wiedererweichung und spanne ihn auf das polierte Schlichteisen.",
+      "en": "I will quench it in cold water to restore its malleability, then mount it on the polished steel stake."
+    },
+    {
+      "speaker": "الصَّفَّارُ مُرْتَضَى",
+      "ar": "اطْرُقْ بِمِطْرَقَةِ التَّسْوِيَةِ رَفِيقًا؛ لِتَتَلَاشَى آثَارُ الضَّرَبَاتِ وَيَغْدُوَ السَّطْحُ كَمِرْآةٍ سَاطِعَةٍ.",
+      "de": "Schlage mit dem Schlichthammer behutsam, damit alle Hammerspuren weichen und die Fläche spiegelt.",
+      "en": "Strike gently with the planishing hammer so all coarse dings vanish and the surface shines like a mirror."
+    }
+  ]
+}
