@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_249",
+  "lemma_ar": "نَخَلَ",
+  "root": "ن-خ-ل",
+  "meaning_de": "sieben / durch das Mehlsieb schütteln",
+  "meaning_en": "to sift flour through a sieve / bolt grain meal",
+  "conjugation": {
+    "past": {
+      "ar": "نَخَلَ الطَّحَّانُ طَحِينَ الحِنْطَةِ بِمُنْخُلِ الحَرِيرِ",
+      "de": "Der Müller siebte das Weizenmehl mit dem Seidensieb",
+      "en": "The miller sifted the wheat meal with the silk sieve"
+    },
+    "present": {
+      "ar": "يَنْخُلُ القَمْحَ لِيُخْرِجَ الدَّقِيقَ الصَّافِيَ",
+      "de": "Er siebt den Weizen, um das reine Mehl zu gewinnen",
+      "en": "He sifts the wheat to extract the pristine white flour"
+    },
+    "imperative": {
+      "ar": "انْخُلْ بِرِفْقٍ لِيَنْسَابَ الطَّحِينُ كَالنَّدَى",
+      "de": "Siebe behutsam, damit das Mehl wie feiner Staub fällt!",
+      "en": "Sift gently so the flour descends like morning dew!"
+    }
+  }
+}

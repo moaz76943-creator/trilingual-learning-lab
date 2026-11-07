@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_127",
+  "title": {
+    "ar": "نَخْلُ طَحِينِ الحِنْطَةِ بِمَنَاخِلِ الحَرِيرِ وَفَرْزُ النُّخَالَةِ",
+    "de": "Sieben des Weizenmehls mit Seidenbeuteln und Kleieabsonderung",
+    "en": "Sifting Wheat Flour through Silk Sieves and Sorting Bran"
+  },
+  "level": "B1",
+  "topic": "traditional_milling_and_flour_refinement",
+  "lines": [
+    {
+      "speaker": "الطَّحَّانُ عَبْقَرٌ",
+      "ar": "كَيْفَ نَشُدُّ نَسِيجَ الحَرِيرِ النَّاعِمِ عَلَى إِطَارِ خَشَبِ الزَّانِ دُونَ ارْتِخَاءٍ؟",
+      "de": "Wie spannen wir das feine Seidengewebe straff auf den Buchenholzrahmen ohne Nachgeben?",
+      "en": "How do we stretch the fine silk gauze taut across the beechwood hoop without slackening?"
+    },
+    {
+      "speaker": "المُتَعَلِّمُ كَامِلٌ",
+      "ar": "نُثَبِّتُهُ بِأَسْفِينٍ دَائِرِيٍّ مَحْكَمٍ، فَيَصِيرُ كَالدُّفِّ المَرْدُودِ يَنْخُلُ الدَّقِيقَ الحُوَّارَى كَالثَّلْجِ الأَبْيَضِ.",
+      "de": "Wir klemmen es mit einem passgenauen Reifen fest; es wird straff wie ein Tamburin und siebt schneeweißes Mehl.",
+      "en": "We secure it with a snug circular wedge; it becomes taut like a tambourine, sifting fine flour white as snow."
+    },
+    {
+      "speaker": "الطَّحَّانُ عَبْقَرٌ",
+      "ar": "إِنَّ إِخْلَاصَ الطَّحَّانِ فِي نَخْلِ القَمْحِ وَعَدَمِ خَلْطِهِ بِمَا لَيْسَ مِنْهُ أَمَانَةٌ فِي غِذَاءِ النَّاسِ.",
+      "de": "Die Lauterkeit des Müllers beim Sieben ohne fremde Zusätze ist eine heilige Pflicht für die Nahrung der Menschen.",
+      "en": "The miller's sincerity in sifting wheat without blending foreign additives is a sacred trust in feeding humanity."
+    }
+  ]
+}

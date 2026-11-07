@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_250",
+  "lemma_ar": "فَرَزَ",
+  "root": "ف-ر-ز",
+  "meaning_de": "absondern / Kleie vom Mehl trennen",
+  "meaning_en": "to sort / separate bran from refined flour particles",
+  "conjugation": {
+    "past": {
+      "ar": "فَرَزَ الصَّانِعُ قُشُورَ النُّخَالَةِ عَنِ اللُّبِّ",
+      "de": "Der Handwerker sonderte die Kleie vom Kern ab",
+      "en": "The artisan separated the bran husks from the core"
+    },
+    "present": {
+      "ar": "يَفْرِزُ الحَبَّ بِدِقَّةٍ لَا تُبْقِي كَدَرًا",
+      "de": "Er sortiert das Korn sorgsam ohne Verunreinigung",
+      "en": "He sorts the grain with precision leaving no sediment"
+    },
+    "imperative": {
+      "ar": "افْرِزْ بِأَمَانَةٍ تَصُونُ نَقَاءَ الغِذَاءِ",
+      "de": "Sondere gewissenhaft ab zum Schutze reiner Nahrung!",
+      "en": "Sort conscientiously to preserve the purity of food!"
+    }
+  }
+}
