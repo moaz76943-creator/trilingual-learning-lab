@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_129",
+  "title": {
+    "ar": "تَصْفِيَةُ مِيَاهِ الأَمْطَارِ فِي صَهَارِيجِ الرَّمْلِ وَالفَحْمِ الحَجَرِيِّ",
+    "de": "Filtern von Regenwasser in Sand- und Holzkohlezisternen",
+    "en": "Filtering Rainwater through Sand and Charcoal Cistern Beds"
+  },
+  "level": "B1",
+  "topic": "traditional_water_filtration_and_potable_wells",
+  "lines": [
+    {
+      "speaker": "السَّقَّاءُ إِدْرِيسُ",
+      "ar": "كَيْفَ نُنَضِّدُ طَبَقَاتِ التَّصْفِيَةِ فِي قَاعِ صَهْرِيجِ المَاءِ كَيْ لَا يَتَعَكَّرَ الشَّرَابُ؟",
+      "de": "Wie schichten wir die Filterbetten auf dem Zisternengrund, damit das Trinkwasser nicht trübt?",
+      "en": "How do we layer the filter beds at the cistern bottom so the drinking water does not turn turbid?"
+    },
+    {
+      "speaker": "المُعِينُ مَأْمُونٌ",
+      "ar": "نَضَعُ حَصَى الوَادِي فِي الأَسْفَلِ، ثُمَّ فَحْمَ الخَشَبِ المُنَقَّى، ثُمَّ رَمْلَ السِّيلِيكَا النَّاصِعَ لِيَحْبِسَ كُلَّ كَدَرٍ.",
+      "de": "Wir legen Flussschotter nach unten, dann reine Holzkohle, darauf feinen Quarzsand, um jede Trübung zu binden.",
+      "en": "We place river gravel at the base, then purified charcoal, then white silica sand to trap all sediment."
+    },
+    {
+      "speaker": "السَّقَّاءُ إِدْرِيسُ",
+      "ar": "إِنَّ تَطْهِيرَ مِيَاهِ الشُّرْبِ لِعَامَّةِ النَّاسِ صَدَقَةٌ جَارِيَةٌ تَصُونُ الأَبْدَانَ وَتَبُثُّ العَافِيَةَ فِي القَرْيَةِ.",
+      "de": "Das Bereitstellen reinen Trinkwassers für jedermann ist ein segensreicher Dienst, der Gesundheit und Wohl schenkt.",
+      "en": "Purifying drinking water for the community is an enduring charity that preserves health and bestows wellbeing."
+    }
+  ]
+}

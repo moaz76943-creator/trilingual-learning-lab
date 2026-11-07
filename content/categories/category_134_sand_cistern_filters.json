@@ -1,0 +1,33 @@
+{
+  "category_id": "134",
+  "slug": "sand_cistern_filters",
+  "name": {
+    "ar": "أَدَوَاتُ تَصْفِيَةِ الصَّهَارِيجِ وَتَرْشِيحِ المِيَاهِ التُّرَاثِيَّةُ",
+    "de": "Zisternenfilter, Sandbetten und traditionelle Holzkohleklärer",
+    "en": "Sand Cistern Filters, Charcoal Clarifiers and Water Strainers"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "charcoal_filter_bed",
+      "ar": "طَبَقَةُ الفَحْمِ الخَشَبِيِّ لِتَنْقِيَةِ الطَّعْمِ",
+      "de": "Die Holzkohleschicht zur Geschmacksreinigung",
+      "en": "Activated lump charcoal water-sweetening filter bed",
+      "asset_key": "svg_cat134_charcoal_filter_bed"
+    },
+    {
+      "id": "perforated_copper_strainer",
+      "ar": "مِصْفَاةُ النُّحَاسِ المُثَقَّبَةُ لِحَجْزِ الحَصَى",
+      "de": "Das gelochte Kupfersieb zum Kiesrückhalt",
+      "en": "Perforated copper intake gravel strainer plate",
+      "asset_key": "svg_cat134_perforated_copper_strainer"
+    },
+    {
+      "id": "porous_sandstone_dipper",
+      "ar": "قَادُوسُ الحَجَرِ المَسَامِيِّ لِلتَّرْشِيحِ",
+      "de": "Das poröse Sandsteingefäß zur Tropffiltration",
+      "en": "Porous sandstone gravity drip filter vessel",
+      "asset_key": "svg_cat134_porous_sandstone_dipper"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_254",
+  "lemma_ar": "صَفَّى",
+  "root": "ص-ف-ي",
+  "meaning_de": "klären / reinigen",
+  "meaning_en": "to clarify / purify water free of silt and floating chaff",
+  "conjugation": {
+    "past": {
+      "ar": "صَفَّى السَّقَّاءُ مَاءَ الحَوْضِ بِالفَحْمِ",
+      "de": "Der Wasserträger klärte das Beckenwasser mit Holzkohle",
+      "en": "The water-bearer clarified the cistern water with charcoal"
+    },
+    "present": {
+      "ar": "يُصَفِّي المَعِينَ فَيَغْدُو عَذْبًا سَائِغًا",
+      "de": "Er klärt den Quell, sodass er köstlich und bekömmlich wird",
+      "en": "He clarifies the spring so it becomes sweet and wholesome"
+    },
+    "imperative": {
+      "ar": "صَفِّ قَبْلَ الشُّرْبِ رِعَايَةً لِلعَافِيَةِ",
+      "de": "Kläre das Wasser vor dem Trinken zum Schutz der Gesundheit!",
+      "en": "Clarify before drinking in care of health!"
+    }
+  }
+}
