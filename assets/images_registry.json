@@ -13,5 +13,20 @@
     "path": "assets/images/categories/cat_142_tin_oxide.svg",
     "category": "category_142_reading_stones_and_magnification",
     "description": "Tin oxide fine optical polishing powder in apothecary container"
+  },
+  "cat_143_astrolabe_rete": {
+    "path": "assets/images/categories/cat_143_astrolabe_rete.svg",
+    "category": "category_143_astrolabes_and_celestial_plates",
+    "description": "Pierced brass astrolabe rete with fixed star pointers and zodiac ring"
+  },
+  "cat_143_almucantar_plate": {
+    "path": "assets/images/categories/cat_143_almucantar_plate.svg",
+    "category": "category_143_astrolabes_and_celestial_plates",
+    "description": "Engraved brass almucantar tympan plate with horizon and altitude arcs"
+  },
+  "cat_143_brass_alidade": {
+    "path": "assets/images/categories/cat_143_brass_alidade.svg",
+    "category": "category_143_astrolabes_and_celestial_plates",
+    "description": "Graduated brass sighting alidade with folded pinhole pinnules"
   }
 }

@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_272_peilen_rasada",
+  "root": "ر - ص - د",
+  "trilingual": {
+    "ar": {
+      "infinitive": "رَصْدٌ",
+      "past": "رَصَدَ",
+      "present": "يَرْصُدُ",
+      "imperative": "ارْصُدْ",
+      "meaning": "تَتَبَّعَ مَوْقِعَ الكَوْكَبِ أَوِ النَّجْمِ بِآلَةِ الرُّؤْيَةِ لِتَحْدِيدِ سَمْتِهِ"
+    },
+    "de": {
+      "infinitive": "peilen / beobachten",
+      "past": "peilte / beobachtete",
+      "present": "peilt / beobachtet",
+      "perfect": "hat gepeilt / beobachtet",
+      "meaning": "die Höhe eines Gestirns mittels Alhidade und Visier genau anvisieren"
+    },
+    "en": {
+      "infinitive": "to sight / observe",
+      "past": "sighted / observed",
+      "present": "sights / observes",
+      "participle": "sighted / observed",
+      "meaning": "to sight celestial coordinates using an alidade and pinhole sights"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يَرْصُدُ المُرَتِّبُ مَيْلَ الشَّمْسِ لِتَحْدِيدِ أَذَانِ الظُّهْرِ.",
+      "de": "Der Zeitmesser peilt den Sonnenstand zur Feststellung des Mittagsgebets.",
+      "en": "The timekeeper sights the solar altitude to determine the midday call to prayer."
+    },
+    {
+      "tense": "past",
+      "ar": "رَصَدَ العُلَمَاءُ حَرَكَةَ الكَوَاكِبِ مِنْ أَعْلَى المَنَارَةِ فِي لَيْلَةٍ صَافِيَةٍ.",
+      "de": "Die Gelehrten beobachteten die Planetenbahnen von der Turmhöhe in klarer Nacht.",
+      "en": "The scholars observed the planetary motions from atop the tower on a clear night."
+    }
+  ]
+}

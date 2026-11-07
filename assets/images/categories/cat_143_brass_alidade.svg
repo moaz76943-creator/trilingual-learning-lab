@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="alidadeGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fff59d"/>
+      <stop offset="50%" stop-color="#fbc02d"/>
+      <stop offset="100%" stop-color="#c49000"/>
+    </linearGradient>
+  </defs>
+  <!-- Background Astrolabe Dorsum Ring -->
+  <circle cx="100" cy="100" r="82" fill="#3e2723" stroke="#827717" stroke-width="3"/>
+  <circle cx="100" cy="100" r="76" fill="#fffde7"/>
+  <!-- Graduated Degree Markings on Rim -->
+  <circle cx="100" cy="100" r="72" fill="none" stroke="#d4af37" stroke-width="4" stroke-dasharray="2,3"/>
+  <!-- Rotating Sighting Rule (Alidade Arm) -->
+  <g transform="rotate(35 100 100)">
+    <!-- Main Rule Bar with Chamfered Edges -->
+    <rect x="25" y="93" width="150" height="14" rx="3" fill="url(#alidadeGold)" stroke="#6d4c41" stroke-width="1.5"/>
+    <polygon points="25,93 15,100 25,107" fill="url(#alidadeGold)" stroke="#6d4c41" stroke-width="1.5"/>
+    <polygon points="175,93 185,100 175,107" fill="url(#alidadeGold)" stroke="#6d4c41" stroke-width="1.5"/>
+    <!-- Folded Sighting Vanes (Pinhole Sights) -->
+    <rect x="42" y="78" width="12" height="15" fill="#f57f17" stroke="#4e342e" stroke-width="1"/>
+    <circle cx="48" cy="85" r="2.5" fill="#3e2723"/>
+    <rect x="146" y="78" width="12" height="15" fill="#f57f17" stroke="#4e342e" stroke-width="1"/>
+    <circle cx="152" cy="85" r="2.5" fill="#3e2723"/>
+    <!-- Central Pivot Collar -->
+    <circle cx="100" cy="100" r="14" fill="#f57f17" stroke="#3e2723" stroke-width="2"/>
+    <circle cx="100" cy="100" r="5" fill="#2c1d11"/>
+  </g>
+</svg>

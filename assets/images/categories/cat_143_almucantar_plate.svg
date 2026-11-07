@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <radialGradient id="plateBronze" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fff9c4"/>
+      <stop offset="60%" stop-color="#fbc02d"/>
+      <stop offset="100%" stop-color="#c49000"/>
+    </radialGradient>
+  </defs>
+  <!-- Brass Tympan Plate Base -->
+  <circle cx="100" cy="100" r="85" fill="url(#plateBronze)" stroke="#827717" stroke-width="3"/>
+  <!-- Tropic of Capricorn and Equator Circles -->
+  <circle cx="100" cy="100" r="75" fill="none" stroke="#5d4037" stroke-width="1.5"/>
+  <circle cx="100" cy="100" r="55" fill="none" stroke="#5d4037" stroke-width="1.2"/>
+  <circle cx="100" cy="100" r="35" fill="none" stroke="#5d4037" stroke-width="1"/>
+  <!-- Horizon Line (Oblique Arc) -->
+  <path d="M 30,120 Q 100,85 170,120" fill="none" stroke="#bf360c" stroke-width="2.5"/>
+  <!-- Almucantar Altitude Arcs -->
+  <path d="M 40,108 Q 100,78 160,108" fill="none" stroke="#6d4c41" stroke-width="1.2"/>
+  <path d="M 50,96 Q 100,72 150,96" fill="none" stroke="#6d4c41" stroke-width="1.2"/>
+  <path d="M 62,84 Q 100,68 138,84" fill="none" stroke="#6d4c41" stroke-width="1.2"/>
+  <path d="M 76,74 Q 100,64 124,74" fill="none" stroke="#6d4c41" stroke-width="1.2"/>
+  <!-- Zenith Point -->
+  <circle cx="100" cy="62" r="2.5" fill="#bf360c"/>
+  <!-- Unequal Hour Lines Below Horizon -->
+  <line x1="100" y1="120" x2="100" y2="175" stroke="#795548" stroke-width="1" stroke-dasharray="3,3"/>
+  <line x1="75" y1="125" x2="60" y2="170" stroke="#795548" stroke-width="1" stroke-dasharray="3,3"/>
+  <line x1="125" y1="125" x2="140" y2="170" stroke="#795548" stroke-width="1" stroke-dasharray="3,3"/>
+</svg>

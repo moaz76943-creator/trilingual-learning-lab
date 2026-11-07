@@ -1,0 +1,52 @@
+{
+  "category_id": "category_143_astrolabes_and_celestial_plates",
+  "title": {
+    "ar": "الأَسْطُرْلابَاتُ النُّحَاسِيَّةُ وَالصَّفَائِحُ الفَلَكِيَّةُ",
+    "de": "Messing-Astrolabien und astronomische Tympan-Platten",
+    "en": "Brass Astrolabes and Astronomical Tympan Plates"
+  },
+  "level": "B1",
+  "description": {
+    "ar": "مُفْرَدَاتُ الأَسْطُرْلابَاتِ المَعْدِنِيَّةِ، وَعَنْكَبُوتِ النُّجُومِ، وَصَفَائِحِ المُقَنْطَرَاتِ، وَأَدَوَاتِ الرَّصْدِ الفَلَكِيِّ فِي الحَضَارَةِ الإِسْلَامِيَّةِ.",
+    "de": "Fachbegriffe zu metallenen Astrolabien, Sternzeiger-Reten, Almukantarat-Platten und Himmelsbeobachtungsinstrumenten der klassischen Gelehrsamkeit.",
+    "en": "Terminology of metal astrolabes, star-pointer retes, almucantar plates, and celestial sighting instruments in classical scholarly tradition."
+  },
+  "vocabulary": [
+    {
+      "id": "term_143_01",
+      "ar": "عَنْكَبُوتُ الأَسْطُرْلابِ",
+      "de": "die Astrolabium-Rete (das Sternzeigergitter)",
+      "en": "astrolabe rete (celestial star-pointer fretwork)",
+      "phonetic_ar": "'ankabūtu al-'asṭurlāb",
+      "example": {
+        "ar": "يَدُورُ عَنْكَبُوتُ الأَسْطُرْلابِ فَوْقَ الصَّفِيحَةِ لِيُحَاكِيَ حَرَكَةَ الفَلَكِ اليَوْمِيَّةَ.",
+        "de": "Die Astrolabium-Rete dreht sich über der Platte und simuliert den täglichen Lauf des Himmels.",
+        "en": "The astrolabe rete rotates over the plate, simulating the diurnal motion of the celestial sphere."
+      }
+    },
+    {
+      "id": "term_143_02",
+      "ar": "صَفِيحَةُ المُقَنْطَرَاتِ",
+      "de": "die Almukantarat-Platte (das Tympanon)",
+      "en": "almucantar tympan plate",
+      "phonetic_ar": "ṣafīḥatu al-muqanṭarāt",
+      "example": {
+        "ar": "نُقِشَتْ عَلَى صَفِيحَةِ المُقَنْطَرَاتِ أَقْوَاسُ ارْتِفَاعِ الأَجْرَامِ السَّمَاوِيَّةِ بِدِقَّةٍ بَالِغَةٍ.",
+        "de": "Auf der Almukantarat-Platte wurden die Höhenbögen der Himmelskörper mit höchster Präzision eingraviert.",
+        "en": "The altitude arcs of celestial bodies were engraved onto the almucantar plate with extreme precision."
+      }
+    },
+    {
+      "id": "term_143_03",
+      "ar": "العِضَادَةُ النُّحَاسِيَّةُ",
+      "de": "die Messing-Alhidade (das Visierlineal)",
+      "en": "brass alidade (sighting rule)",
+      "phonetic_ar": "al-'iḍādatu an-nuḥāsiyyah",
+      "example": {
+        "ar": "وَجَّهَ الفَلَكِيُّ العِضَادَةَ النُّحَاسِيَّةَ نَحْوَ النَّجْمِ القُطْبِيِّ لِقِيَاسِ ارْتِفَاعِهِ عَنِ الأُفُقِ.",
+        "de": "Der Astronom richtete die Messing-Alhidade auf den Polarstern, um dessen Höhe über dem Horizont zu messen.",
+        "en": "The astronomer directed the brass alidade toward the North Star to measure its altitude above the horizon."
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_271_gravieren_naqasha",
+  "root": "ن - ق - ش",
+  "trilingual": {
+    "ar": {
+      "infinitive": "نَقْشٌ",
+      "past": "نَقَشَ",
+      "present": "يَنْقُشُ",
+      "imperative": "انْقُشْ",
+      "meaning": "حَفَرَ الرُّسُومَ وَالدَّرَجَاتِ عَلَى صَفِيحَةِ المَعْدِنِ بِأَدَاةٍ دَقِيقَةٍ"
+    },
+    "de": {
+      "infinitive": "gravieren",
+      "past": "gravierte",
+      "present": "graviert",
+      "perfect": "hat graviert",
+      "meaning": "geometrische Skalen und Tierkreiszeichen präzise in Metall ritzen"
+    },
+    "en": {
+      "infinitive": "to engrave",
+      "past": "engraved",
+      "present": "engraves",
+      "participle": "engraved",
+      "meaning": "to incise graduated scales and celestial figures onto metal plates"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يَنْقُشُ الصَّانِعُ دَرَجَاتِ الرِّفَاعِ عَلَى طَوْقِ الأَسْطُرْلابِ.",
+      "de": "Der Meister graviert die Höheneinteilungen auf den Astrolabium-Rand.",
+      "en": "The artisan engraves the altitude graduations on the limb of the astrolabe."
+    },
+    {
+      "tense": "past",
+      "ar": "نَقَشَ الفَلَكِيُّ أَسْمَاءَ البُرُوجِ بِخَطٍّ كُوفِيٍّ مُحْكَمٍ.",
+      "de": "Der Astronom gravierte die Sternzeichen in meisterhafter kufischer Schrift.",
+      "en": "The astronomer engraved the zodiac names in immaculate Kufic script."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "dialogue_id": "dialogue_138_astrolabe_engraving",
+  "title": {
+    "ar": "نَقْشُ عَنْكَبُوتِ الأَسْطُرْلابِ وَحِسَابُ صَفِيحَةِ المُقَنْطَرَاتِ",
+    "de": "Das Gravieren der Rete und die Berechnung der Almukantarat-Platte",
+    "en": "Engraving the Astrolabe Rete and Calculating the Almucantar Plate"
+  },
+  "context": {
+    "ar": "حِوَارٌ فِي مَرْصَدِ النُّحَاسِيِّينَ حَوْلَ نَقْشِ شَظَايَا النُّجُومِ عَلَى عَنْكَبُوتِ الأَسْطُرْلابِ وَضَبْطِ خُطُوطِ العَرْضِ لِمَدِينَةِ فَاسَ.",
+    "de": "Ein Gespräch in der Werkstatt des Astrolabienbauers über das Gravieren der Sternzeiger auf der Rete und die Eichung der Breitengrade für Fès.",
+    "en": "A dialogue in the astrolabist workshop regarding the engraving of star pointers on the rete and calibrating latitude circles for Fez."
+  },
+  "turns": [
+    {
+      "speaker": {
+        "ar": "مَنْصُورٌ (صَانِعُ الأَسْطُرْلابَاتِ)",
+        "de": "Mansur (Der Astrolabienbauer)",
+        "en": "Mansur (The Astrolabist)"
+      },
+      "ar": "أَتْمَمْتُ حَفْرَ دَائِرَةِ البُرُوجِ، وَسَأَبْدَأُ الآنَ فِي تَفْرِيغِ عَنْكَبُوتِ الأَسْطُرْلابِ لِتَبْرُزَ شَظَايَا النُّجُومِ الثَّابِتَةِ.",
+      "de": "Ich habe die Tierkreislinie graviert und beginne nun mit dem Durchbrechen der Rete, damit die Zeiger der Fixsterne filigran hervortreten.",
+      "en": "I have completed engraving the zodiac circle and will now begin piercing the rete so the fixed star pointers stand out delicately."
+    },
+    {
+      "speaker": {
+        "ar": "زُهَيْرٌ (المُهَنْدِسُ الشَّابُّ)",
+        "de": "Zuhair (Der junge Geometer)",
+        "en": "Zuhair (The Young Geometer)"
+      },
+      "ar": "هَلْ رَاعَيْتَ مَوْقِعَ نَجْمِ النَّسْرِ الطَّائِرِ وَقَلْبِ العَقْرَبِ بِدِقَّةِ الدَّقَائِقِ القَوْسِيَّةِ؟",
+      "de": "Hast du die Positionen von Altair und Antares auf Bogenminuten genau berücksichtigt?",
+      "en": "Did you position the pointers of Altair and Antares accurately to the arcminute?"
+    },
+    {
+      "speaker": {
+        "ar": "مَنْصُورٌ",
+        "de": "Mansur",
+        "en": "Mansur"
+      },
+      "ar": "نَعَمْ، وَنَقَشْتُ صَفِيحَةَ المُقَنْطَرَاتِ لِخَطِّ عَرْضِ فَاسَ دَرَجَةً دَرَجَةً حَتَّى سَمْتِ الرَّأْسِ.",
+      "de": "Gewiss, und ich habe die Almukantarat-Platte für die Breite von Fès Grad für Grad bis zum Zenit graviert.",
+      "en": "Indeed, and I engraved the almucantar plate for the latitude of Fez degree by degree up to the zenith."
+    },
+    {
+      "speaker": {
+        "ar": "زُهَيْرٌ",
+        "de": "Zuhair",
+        "en": "Zuhair"
+      },
+      "ar": "وَكَيْفَ سَتَضْبِطُ حَرَكَةَ العِضَادَةِ فِي ظَهْرِ الآلَةِ لِرَصْدِ ارْتِفَاعِ الشَّمْسِ عِنْدَ الزَّوَالِ؟",
+      "de": "Und wie justierst du die Alhidade auf der Rückseite, um die Sonnenhöhe beim Meridiandurchgang zu peilen?",
+      "en": "And how will you adjust the alidade on the back of the instrument to sight the solar altitude at noon?"
+    },
+    {
+      "speaker": {
+        "ar": "مَنْصُورٌ",
+        "de": "Mansur",
+        "en": "Mansur"
+      },
+      "ar": "أَرْكَبُهَا عَلَى قُطْبٍ نُحَاسِيٍّ مَصْقُولٍ يُؤَمِّنُ دَوَرَانًا أَمْلَسَ كَالزَّيْتِ، فَيَتَمَكَّنُ المُرَتِّبُ مِنْ تَحْدِيدِ وَقْتِ الصَّلَاةِ بِيَقِينٍ.",
+      "de": "Ich befestige sie an einer polierten Messingachse für seidenweiche Drehung, damit der Zeitmesser das Gebet exakt bestimmen kann.",
+      "en": "I mount it upon a polished brass pin ensuring silky smooth rotation, so the timekeeper can determine prayer times with certainty."
+    }
+  ]
+}
