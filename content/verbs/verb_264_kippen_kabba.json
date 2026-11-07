@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_264",
+  "lemma_ar": "كَبَّ",
+  "root": "ك-ب-ب",
+  "meaning_de": "kippen / Wasserbecher umstürzen",
+  "meaning_en": "to tip over / dump filled water bucket to cycle automaton",
+  "conjugation": {
+    "past": {
+      "ar": "كَبَّ القَادُوسُ مَاءَهُ حِينَ امْتَلَأَ جَوْفُهُ",
+      "de": "Der Becher kippte sein Wasser, sobald er voll war",
+      "en": "The bucket tipped its water once its cavity filled"
+    },
+    "present": {
+      "ar": "يَكُبُّ الحَوْضُ السَّائِلَ لِيَرْفَعَ الثِّقَالَ",
+      "de": "Das Becken kippt die Flüssigkeit, um das Gewicht zu heben",
+      "en": "The basin dumps the fluid to raise the counterweight"
+    },
+    "imperative": {
+      "ar": "كُبَّ بِمَيْعَةٍ تُعِيدُ الدَّوْرَةَ كُلَّ سَاعَةٍ",
+      "de": "Kippe im Takt, der den Stundengang erneuert!",
+      "en": "Tip in rhythm that restarts the hourly cycle!"
+    }
+  }
+}

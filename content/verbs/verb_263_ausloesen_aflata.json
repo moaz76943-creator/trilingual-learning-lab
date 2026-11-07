@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_263",
+  "lemma_ar": "أَفْلَتَ",
+  "root": "ف-ل-ت",
+  "meaning_de": "freigeben / Hemmung auslösen",
+  "meaning_en": "to trip escapement / release automaton linkage intermittently",
+  "conjugation": {
+    "past": {
+      "ar": "أَفْلَتَ الزِّنَادُ كُرَةَ البُرُونْزِ فِي مِيعَادِهَا",
+      "de": "Der Auslöser gab die Bronzekugel zur rechten Zeit frei",
+      "en": "The trigger released the bronze ball on time"
+    },
+    "present": {
+      "ar": "يُفْلِتُ المِفْلَتُ التُّرْسَ بِحِسَابٍ دَقِيقٍ",
+      "de": "Die Hemmung gibt das Rad nach genauem Maß frei",
+      "en": "The escapement releases the wheel with precise calculation"
+    },
+    "imperative": {
+      "ar": "أَفْلِتْ بِانْضِبَاطٍ لَا يَتَقَدَّمُ وَلَا يَتَأَخَّرُ",
+      "de": "Löse mit Pünktlichkeit ohne Verzug aus!",
+      "en": "Release with punctuality neither leading nor lagging!"
+    }
+  }
+}

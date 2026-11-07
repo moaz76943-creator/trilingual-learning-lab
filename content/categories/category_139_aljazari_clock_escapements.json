@@ -1,0 +1,33 @@
+{
+  "category_id": "139",
+  "slug": "aljazari_clock_escapements",
+  "name": {
+    "ar": "أَدَوَاتُ سَاعَاتِ الجَزَرِيِّ وَحِيَلِ الدُّمَى المَائِيَّةِ",
+    "de": "Al-Dschazari-Uhrenmechanik, Kippbecher und Automaten",
+    "en": "Al-Jazari Clock Escapements, Tipping Buckets and Automata"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "articulated_tipping_bucket",
+      "ar": "قَادُوسُ التَّفْرِيغِ المَفْصِلِيُّ المَائِيُّ",
+      "de": "Der gelenkige Kippbecher des Zeitauslösers",
+      "en": "Articulated hydro-mechanical tipping-bucket escapement",
+      "asset_key": "svg_cat139_articulated_tipping_bucket"
+    },
+    {
+      "id": "bronze_automaton_ball",
+      "ar": "كُرَةُ الإِشْعَارِ البُرُونْزِيَّةُ السَّاقِطَةُ",
+      "de": "Die bronzene Signal-Schlagkugel",
+      "en": "Cast bronze percussive automaton release ball",
+      "asset_key": "svg_cat139_bronze_automaton_ball"
+    },
+    {
+      "id": "horological_trip_lever",
+      "ar": "رَافِعَةُ الزِّنَادِ الخَشَبِيَّةُ لِلتَّوْقِيتِ",
+      "de": "Der hölzerne Auslösehebel des Räderwerks",
+      "en": "Horological trip-lever rocker trigger",
+      "asset_key": "svg_cat139_horological_trip_lever"
+    }
+  ]
+}

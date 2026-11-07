@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_134",
+  "title": {
+    "ar": "تَرْكِيبُ حِيَلِ سَاعَةِ الفِيلِ الجَزَرِيَّةِ وَضَبْطُ سُقُوطِ الكُرَاتِ",
+    "de": "Montage des al-Dschazari-Elefantenuhr-Getriebes und Justierung des Kugelabwurfs",
+    "en": "Assembling the Al-Jazari Elephant Clock Automata and Calibrating Ball Drops"
+  },
+  "level": "B1",
+  "topic": "traditional_automata_and_islamic_horology",
+  "lines": [
+    {
+      "speaker": "المُهَنْدِسُ بَدِيعُ الزَّمَانِ",
+      "ar": "كَيْفَ نَضْبِطُ حَبْلَ الحَرِيرِ الرَّابِطَ بَيْنَ الطَّارْجَهَارَةِ العَائِمَةِ وَمِنْقَارِ الصَّقْرِ فِي أَعْلَى الهَوْدَجِ؟",
+      "de": "Wie stimmen wir das Seil zwischen der sinkenden Schale und dem Falkenschnabel auf der Sänfte ab?",
+      "en": "How do we adjust the silk cord connecting the submersible float bowl to the falcon beak atop the canopy?"
+    },
+    {
+      "speaker": "الصَّانِعُ عِمَادٌ",
+      "ar": "نَمُدُّهُ عَبْرَ بَكَرَاتِ النُّحَاسِ المَصْقُولَةِ؛ فَإِذَا غَرِقَ القَادُوسُ جَذَبَ الزِّنَادَ لِتَسْقُطَ الكُرَةُ فِي فَمِ التِّنِّينِ.",
+      "de": "Wir führen es über polierte Kupferrollen; sinkt das Becken, löst es den Fall der Kugel in den Drachenrachen aus.",
+      "en": "We route it across polished bronze pulleys; when the bowl sinks, it trips the trigger to drop a ball into the dragon jaw."
+    },
+    {
+      "speaker": "المُهَنْدِسُ بَدِيعُ الزَّمَانِ",
+      "ar": "إِنَّ عِلْمَ الحِيَلِ نِعْمَةٌ بَدِيعَةٌ تُسَخِّرُ قُوَّةَ المَاءِ وَالثِّقَلِ لِتَضْبِطَ سَاعَاتِ العُمْرِ بِالجَمَالِ وَالبَهْجَةِ.",
+      "de": "Die Kunst der Automaten nutzt Wasser- und Schwerkraft, um die Stunden des Lebens in Schönheit zu messen.",
+      "en": "The science of ingenious devices harnesses water and gravity to measure the hours of life in beauty and joy."
+    }
+  ]
+}
