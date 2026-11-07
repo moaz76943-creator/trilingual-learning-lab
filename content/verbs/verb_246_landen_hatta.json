@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_246",
+  "lemma_ar": "حَطَّ",
+  "root": "ح-ط-ط",
+  "meaning_de": "landen / im Heimatschlag niedergehen",
+  "meaning_en": "to alight / touch down safely in the loft",
+  "conjugation": {
+    "past": {
+      "ar": "حَطَّ الزَّاجِلُ عَلَى مَجْثَمِ البُرْجِ سَالِمًا",
+      "de": "Die Brieftaube landete wohlbehalten auf der Stange des Schlags",
+      "en": "The homing bird landed safely upon the loft perch"
+    },
+    "present": {
+      "ar": "يَحُطُّ بِرِفْقٍ بَعْدَ قَطْعِ مَسَافَاتِ السَّمَاءِ",
+      "de": "Sie setzt nach langem Flug sanft zur Landung an",
+      "en": "It alights gently after traversing sky vistas"
+    },
+    "imperative": {
+      "ar": "حُطَّ فِي أَمَانٍ وَبَلِّغِ الوَدِيعَةَ",
+      "de": "Lande in Frieden und überbringe die Botschaft!",
+      "en": "Touch down in peace and deliver the trust!"
+    }
+  }
+}

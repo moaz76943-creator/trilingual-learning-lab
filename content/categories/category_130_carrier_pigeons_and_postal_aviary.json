@@ -1,0 +1,33 @@
+{
+  "category_id": "130",
+  "slug": "carrier_pigeons_and_postal_aviary",
+  "name": {
+    "ar": "أَدَوَاتُ الحَمَامِ الزَّاجِلِ وَحُقَقِ البَرِيدِ التُّرَاثِيَّةُ",
+    "de": "Brieftaubenschläge und historische Botschaftskapseln",
+    "en": "Carrier Pigeon Lofts, Message Capsules and Aviary Tools"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "quill_message_capsule",
+      "ar": "حُقَّةُ الرِّيشَةِ لِحِفْظِ الرِّسَالَةِ",
+      "de": "Die federleichte Federkiel-Botschaftshülse",
+      "en": "Quill tube micro-scroll message capsule",
+      "asset_key": "svg_cat130_quill_message_capsule"
+    },
+    {
+      "id": "pigeon_loft_perch",
+      "ar": "مَجْثَمُ بُرْجِ الحَمَامِ الخَشَبِيُّ",
+      "de": "Die hölzerne Sitzstange des Taubenschlags",
+      "en": "Hardwood aviary pigeon loft perch",
+      "asset_key": "svg_cat130_pigeon_loft_perch"
+    },
+    {
+      "id": "silk_dispatch_thread",
+      "ar": "خَيْطُ الحَرِيرِ لِرَبْطِ السَّاقِ",
+      "de": "Der seidene Befestigungsfaden fürs Beinchen",
+      "en": "Natural silk message leg-binding thread",
+      "asset_key": "svg_cat130_silk_dispatch_thread"
+    }
+  ]
+}

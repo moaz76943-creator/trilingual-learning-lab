@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_245",
+  "lemma_ar": "زَجَلَ",
+  "root": "ز-ج-ل",
+  "meaning_de": "die Taube auf den Weg schicken / fliegen lassen",
+  "meaning_en": "to dispatch a homing pigeon / release with message",
+  "conjugation": {
+    "past": {
+      "ar": "زَجَلَ أَمِينُ البَرِيدِ الطَّائِرَ نَحْوَ المَدِينَةِ",
+      "de": "Der Postmeister schickte die Taube zur Stadt auf den Weg",
+      "en": "The postmaster dispatched the bird toward the city"
+    },
+    "present": {
+      "ar": "يَزْجُلُ الحَمَامَ لِيَحْمِلَ بَشَائِرَ الأَمَانِ",
+      "de": "Er lässt die Tauben steigen, um Friedensbotschaften zu tragen",
+      "en": "He dispatches pigeons to carry peaceful tidings"
+    },
+    "imperative": {
+      "ar": "ازْجُلْ عِنْدَ اعْتِدَالِ الرِّيحِ وَصَفَاءِ الجَوِّ",
+      "de": "Lass sie bei mildem Wind und klarem Himmel steigen!",
+      "en": "Dispatch when winds are mild and skies are clear!"
+    }
+  }
+}

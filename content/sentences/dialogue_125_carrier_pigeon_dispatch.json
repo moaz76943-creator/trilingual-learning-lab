@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_125",
+  "title": {
+    "ar": "إِرْسَالُ رَسَائِلِ الحَمَامِ الزَّاجِلِ وَتَثْبِيتُ حُقَقِ الحَرِيرِ",
+    "de": "Aussenden der Brieftauben und Befestigen der Seidenkapseln",
+    "en": "Dispatching Carrier Pigeons and Fastening Silk Message Capsules"
+  },
+  "level": "B1",
+  "topic": "traditional_avian_postal_communication_and_falconry",
+  "lines": [
+    {
+      "speaker": "أَمِينُ البَرِيدِ كَرِيمٌ",
+      "ar": "كَيْفَ نَلُفُّ رُقْعَةَ الحَرِيرِ الدَّقِيقَةَ لِتَدْخُلَ فِي أُنْبُوبَةِ الرِّيشَةِ الخَفِيفَةِ؟",
+      "de": "Wie rollen wir das feine Seidenblatt, damit es in die leichte Federhülse passt?",
+      "en": "How do we roll the delicate silk leaf so it fits inside the lightweight quill capsule?"
+    },
+    {
+      "speaker": "المُرَبِّي حَسِيبٌ",
+      "ar": "نَلُفُّهَا مَبْرُومَةً كَالإِبْرَةِ وَنَخْتِمُهَا بِالشَّمْعِ الأَحْمَرِ، ثُمَّ نَشُدُّ الخَيْطَ إِلَى سَاقِ الزَّاجِلِ بِلَا عَصْرٍ.",
+      "de": "Wir rollen sie nadelfein, siegeln mit rotem Wachs und binden sie behutsam ohne Druck ans Beinchen.",
+      "en": "We roll it needle-thin, seal it with red wax, and tie it gently to the pigeon leg without pinching."
+    },
+    {
+      "speaker": "أَمِينُ البَرِيدِ كَرِيمٌ",
+      "ar": "إِنَّ أَمَانَةَ البَرِيدِ تَحْمِلُ خَيْرَ البَشَائِرِ بَيْنَ الأَمْصَارِ وَتَصِلُ الأَرْحَامَ عَبْرَ السَّحَابِ.",
+      "de": "Der Postdienst überbringt frohe Botschaften zwischen Städten und verbindet Herzen über Wolken hinweg.",
+      "en": "The postal trust bears glad tidings between realms, connecting distant hearts across the clouds."
+    }
+  ]
+}
