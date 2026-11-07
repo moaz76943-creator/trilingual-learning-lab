@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_212",
+  "lemma_ar": "شَهَقَ",
+  "root": "ش-ه-ق",
+  "meaning_de": "ansaugen / Frischluft einziehen",
+  "meaning_en": "to draw in fresh air through the flap valve intake",
+  "conjugation": {
+    "past": {
+      "ar": "شَهَقَ الكِيرُ الهَوَاءَ عِنْدَ رَفْعِ الغِطَاءِ",
+      "de": "Der Blasebalg saugte Luft beim Heben des Deckels ein",
+      "en": "The bellows drew in air upon lifting the lid"
+    },
+    "present": {
+      "ar": "يَشْهَقُ النَّسِيمَ عَبْرَ الصِّمَامِ دُونَ عَائِقٍ",
+      "de": "Er zieht die Brise ungehindert durch das Ventil ein",
+      "en": "It draws in the draft through the valve unimpeded"
+    },
+    "imperative": {
+      "ar": "اشْهَقْ بِمِلْءِ الجَوْفِ لِتَمْتَلِئَ الحُجْرَةُ",
+      "de": "Saufe mit vollem Raum ein, damit sich die Kammer füllt!",
+      "en": "Draw in with full volume to fill the chamber!"
+    }
+  }
+}

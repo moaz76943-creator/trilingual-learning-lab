@@ -1,0 +1,33 @@
+{
+  "category_id": "113",
+  "slug": "bellows_leatherwork_and_tuyeres",
+  "name": {
+    "ar": "أَدَوَاتُ جِلْدِ الأَكْيَارِ وَفُوَّهَاتِ النَّفْخِ التُّرَاثِيَّةُ",
+    "de": "Blasebalg-Lederbau und traditionelle Blasdüsentechnik",
+    "en": "Bellows Leatherwork, Tuyere Nozzles and Pneumatic Forge Tools"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "copper_tuyere_nozzle",
+      "ar": "فُوَّهَةُ النَّفْخِ النُّحَاسِيَّةُ",
+      "de": "Die kupferne Winddüse der Esse",
+      "en": "Forged copper hearth tuyere nozzle",
+      "asset_key": "svg_cat113_copper_tuyere_nozzle"
+    },
+    {
+      "id": "greased_flap_valve",
+      "ar": "صِمَامُ الجِلْدِ المَدْهُونُ",
+      "de": "Das gefettete Klappenventil aus Leder",
+      "en": "Grease-treated leather flap intake valve",
+      "asset_key": "svg_cat113_greased_flap_valve"
+    },
+    {
+      "id": "bellows_rib_board",
+      "ar": "لَوْحُ الكِيرِ الخَشَبِيُّ المَفْصِلِيُّ",
+      "de": "Das scharnierte hölzerne Blasebalgbrett",
+      "en": "Hinged hardwood bellows rib board",
+      "asset_key": "svg_cat113_bellows_rib_board"
+    }
+  ]
+}

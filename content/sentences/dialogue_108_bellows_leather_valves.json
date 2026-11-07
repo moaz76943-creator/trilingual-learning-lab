@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_108",
+  "title": {
+    "ar": "خِيَاطَةُ صِمَامَاتِ الكِيرِ الجِلْدِيِّ وَتَثْبِيتُ فُوَّهَةِ النُّحَاسِ",
+    "de": "Nähen der Lederbalg-Ventile und Einsetzen der Kupferdüse",
+    "en": "Stitching Leather Bellows Flap Valves and Fitting Copper Tuyere"
+  },
+  "level": "B1",
+  "topic": "traditional_metallurgy_and_pneumatic_leatherwork",
+  "lines": [
+    {
+      "speaker": "الصَّانِعُ صَالِحٌ",
+      "ar": "كَيْفَ نَضْمَنُ أَنَّ صِمَامَ الجِلْدِ يَنْغَلِقُ تَمَامًا عِنْدَ ضَغْطِ الكِيرِ كَيْ لَا يَرْتَدَّ الهَوَاءُ؟",
+      "de": "Wie stellen wir sicher, dass das Lederventil beim Zusammendrücken schließt, damit keine Luft zurückweicht?",
+      "en": "How do we ensure that the leather flap valve seals completely upon compression so air does not backfire?"
+    },
+    {
+      "speaker": "المُتَدَرِّبُ أَنَسٌ",
+      "ar": "نُخَيِّطُ لِسَانًا مِنْ جِلْدِ المَاعِزِ المَدْبُوغِ بِالدُّهْنِ فَوْقَ ثَقْبِ الخَشَبِ، فَيَنْفَتِحُ شَاهِقًا وَيَنْسَدُّ زَافِرًا.",
+      "de": "Wir nähen eine gefettete Ziegenlederlasche über das Holzloch; sie öffnet beim Ansaugen und schließt beim Stoß.",
+      "en": "We stitch a grease-tanned goat-leather flap over the timber port; it opens upon intake and seals upon expulsion."
+    },
+    {
+      "speaker": "الصَّانِعُ صَالِحٌ",
+      "ar": "ثُمَّ نُدْخِلُ فُوَّهَةَ النُّحَاسِ فِي جِدَارِ الكُورِ؛ لِتَصُبَّ نَفَخَاتِ الرِّيحِ فِي لُبِّ الفَحْمِ.",
+      "de": "Dann führen wir die Kupferdüse in die Essenwand ein, um den Windstoß mitten in die Kohlen zu leiten.",
+      "en": "Then we insert the copper tuyere nozzle into the hearth wall to direct the blast into the charcoal core."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_211",
+  "lemma_ar": "زَفَرَ",
+  "root": "ز-ف-ر",
+  "meaning_de": "Luft ausstoßen / mit Druck blasen",
+  "meaning_en": "to expel pressurized air blast from bellows",
+  "conjugation": {
+    "past": {
+      "ar": "زَفَرَ الكِيرُ دَفْعَةً مِنَ الهَوَاءِ فِي الكُورِ",
+      "de": "Der Blasebalg stieß einen kräftigen Luftschwall in die Esse",
+      "en": "The bellows expelled a gust of air into the forge"
+    },
+    "present": {
+      "ar": "يَزْفِرُ الرِّيحَ نَحْوَ الجَمْرِ فَيَتَوَهَّجُ",
+      "de": "Er stößt den Wind zur Glut, sodass sie aufglüht",
+      "en": "It expels the wind toward the embers so they glow"
+    },
+    "imperative": {
+      "ar": "ازْفِرْ بِإِيقَاعٍ مُتَّسِقٍ مَعَ سَحْبِ الذِّرَاعِ",
+      "de": "Stoße im Takt mit dem Hebelzug aus!",
+      "en": "Expel in steady rhythm aligned with the lever pull!"
+    }
+  }
+}
