@@ -1,0 +1,33 @@
+{
+  "category_id": "097",
+  "slug": "traditional_glassblowing_implements",
+  "name": {
+    "ar": "أَدَوَاتُ نَفْخِ الزُّجَاجِ وَقَصَبَاتِ الصَّانِعِ التُّرَاثِيَّةُ",
+    "de": "Glasmacherpfeifen und traditionelle Glasbläserwerkzeuge",
+    "en": "Traditional Glassblowing Pipes and Marver Implements"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "steel_blowpipe",
+      "ar": "قَصَبَةُ النَّفْخِ الفُولَاذِيَّةُ",
+      "de": "Die hohle stählerne Glasmacherpfeife",
+      "en": "Hollow steel glassblowing pipe",
+      "asset_key": "svg_cat097_steel_blowpipe"
+    },
+    {
+      "id": "marble_marver",
+      "ar": "بَلَاطَةُ الرُّخَامِ لِلتَّدْوِيرِ",
+      "de": "Die glatte Marmorplatte zum Vorformen",
+      "en": "Polished marble glass marver slab",
+      "asset_key": "svg_cat097_marble_marver"
+    },
+    {
+      "id": "glass_shears",
+      "ar": "مِقَصُّ الزُّجَاجِ السَّاخِنِ",
+      "de": "Die Schere für heißes Glas",
+      "en": "Spring shears for trimming hot glass",
+      "asset_key": "svg_cat097_glass_shears"
+    }
+  ]
+}

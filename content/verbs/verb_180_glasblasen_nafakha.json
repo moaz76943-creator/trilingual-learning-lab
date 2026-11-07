@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_180",
+  "lemma_ar": "نَفَخَ_زُجَاج",
+  "root": "ن-ف-خ",
+  "meaning_de": "Glas blasen / hohlblasen",
+  "meaning_en": "to blow glass through the blowpipe",
+  "conjugation": {
+    "past": {
+      "ar": "نَفَخَ الصَّانِعُ قِنْدِيلًا بَدِيعًا",
+      "de": "Der Meister blies eine meisterhafte Ampel",
+      "en": "The master blew an exquisite hanging lamp"
+    },
+    "present": {
+      "ar": "يَنْفُخُ بِتَدَرُّجٍ لِيَتَّسِعَ الجِدَارُ",
+      "de": "Er bläst sachte ein, damit sich die Wandung weitet",
+      "en": "He blows in measured stages so the wall expands"
+    },
+    "imperative": {
+      "ar": "انْفُخْ بِرِفْقٍ مَعَ تَدْوِيرِ القَصَبَةِ",
+      "de": "Blase behutsam unter stetem Drehen der Pfeife!",
+      "en": "Blow gently while turning the pipe steadily!"
+    }
+  }
+}

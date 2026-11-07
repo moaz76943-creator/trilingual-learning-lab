@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_092",
+  "title": {
+    "ar": "نَفْخُ الزُّجَاجِ التُّرَاثِيِّ بِقَصَبَةِ الفُولَاذِ المَفْرُوغَةِ",
+    "de": "Traditionelles Glasblasen mit der stählernen Glasmacherpfeife",
+    "en": "Blowing Heritage Glass with the Hollow Steel Blowpipe"
+  },
+  "level": "B1",
+  "topic": "traditional_glassblowing_and_thermal_physics",
+  "lines": [
+    {
+      "speaker": "جَمِيلٌ",
+      "ar": "كَيْفَ نَلْتَقِطُ لُقْمَةَ الزُّجَاجِ المُنْصَهِرِ مِنْ قَلْبِ البُوتَقَةِ دُونَ أَنْ تَسْقُطَ؟",
+      "de": "Wie nehmen wir den zähflüssigen Glasposten mit der Pfeife auf, ohne dass er abtropft?",
+      "en": "How do we gather the molten glass gather from the crucible without it dropping?"
+    },
+    {
+      "speaker": "شِهَابٌ",
+      "ar": "نُدِيرُ قَصَبَةَ النَّفْخِ بِحَرَكَةٍ دَائِرِيَّةٍ مُتَّصِلَةٍ، ثُمَّ نَدْحَرِجُهَا فَوْقَ بَلَاطَةِ الرُّخَامِ لِتَتَّخِذَ شَكْلَهَا.",
+      "de": "Wir drehen die Glasmacherpfeife stetig und wälzen sie auf der Marmorplatte, um sie vorzuformen.",
+      "en": "We rotate the blowpipe continuously and marver it across the marble slab to pre-shape the gather."
+    },
+    {
+      "speaker": "جَمِيلٌ",
+      "ar": "انْفُخْ نَفْخَةً خَفِيفَةً مُنْتَظَمَةً؛ لِيَتَمَدَّدَ الزُّجَاجُ كَالقِنْدِيلِ الشَّفَّافِ الَّذِي يَحْمِلُ النُّورَ.",
+      "de": "Blase einen sanften, gleichmäßigen Luftstoß ein, damit sich das Glas wie eine leuchtende Ampel weitet.",
+      "en": "Blow a gentle, steady breath so the glass expands like a luminous lamp destined to carry light."
+    }
+  ]
+}
