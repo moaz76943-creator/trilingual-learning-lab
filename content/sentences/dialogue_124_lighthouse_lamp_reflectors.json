@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_124",
+  "title": {
+    "ar": "إِشْعَالُ قِنْدِيلِ المَنَارَةِ البَحْرِيَّةِ وَتَوْجِيهُ مَرَايَا النُّحَاسِ",
+    "de": "Entzünden der Leuchtturmlampe und Ausrichten der Kupferspiegel",
+    "en": "Kindling the Lighthouse Lamp and Aligning Copper Reflectors"
+  },
+  "level": "B1",
+  "topic": "traditional_lighthouses_and_maritime_safety",
+  "lines": [
+    {
+      "speaker": "حَارِسُ المَنَارَةِ بَهْجَتٌ",
+      "ar": "هَلْ مَلَأْتَ خَزَّانَ القِنْدِيلِ بِزَيْتِ السِّمْسِمِ الصَّافِي لِيَظَلَّ اللَّهِيبُ مُشْرِقًا حَتَّى الفَجْرِ؟",
+      "de": "Hast du den Lampentank mit reinem Sesamöl gefüllt, damit die Flamme bis zum Morgengrauen hell brennt?",
+      "en": "Did you fill the lamp reservoir with pure sesame oil so the flame burns bright until daybreak?"
+    },
+    {
+      "speaker": "المُسَاعِدُ أَدِيمٌ",
+      "ar": "نَعَمْ، وَصَقَلْتُ المِرْآةَ النُّحَاسِيَّةَ المَقْعَرَةَ خَلْفَ الفَتِيلِ لِيَرْتَدَّ النُّورُ شُعَاعًا يَخْتَرِقُ الضَّبَابَ.",
+      "de": "Ja, und ich habe den Hohlspiegel aus Kupfer poliert, damit das Licht als Nebelstrahl weit ins Meer reicht.",
+      "en": "Yes, and I polished the concave copper mirror behind the wick so the light beams far through sea fog."
+    },
+    {
+      "speaker": "حَارِسُ المَنَارَةِ بَهْجَتٌ",
+      "ar": "إِنَّ إِيقَادَ النُّورِ لِلسَّافِرِينَ فِي البَحْرِ رِبَاطٌ شَرِيفٌ يَحْرُسُ الأَرْوَاحَ وَيَهْدِي الحَيَارَى إِلَى الشَّاطِئِ.",
+      "de": "Das Hüten des Lichts für Seefahrer ist ein heiliger Dienst, der Leben schützt und Suchende heimleitet.",
+      "en": "Tending the light for seafarers is a sacred vigil that protects lives and guides wanderers to shore."
+    }
+  ]
+}

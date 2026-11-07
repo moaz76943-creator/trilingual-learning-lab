@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_243",
+  "lemma_ar": "أَنَارَ",
+  "root": "ن-و-ر",
+  "meaning_de": "erleuchten / den Seeweg weisen",
+  "meaning_en": "to illuminate / light coastal navigational paths",
+  "conjugation": {
+    "past": {
+      "ar": "أَنَارَتِ المَنَارَةُ مَدْخَلَ الخَلِيجِ لَيْلًا",
+      "de": "Der Leuchtturm erleuchtete die Einfahrt der Bucht bei Nacht",
+      "en": "The lighthouse illuminated the entrance of the bay at night"
+    },
+    "present": {
+      "ar": "يُنِيرُ المِصْبَاحُ عُبَابَ البَحْرِ بِشُعَاعٍ وَضَّاءٍ",
+      "de": "Die Lampe erleuchtet die Meereswogen mit hellem Strahl",
+      "en": "The lamp illuminates the sea billows with a radiant beam"
+    },
+    "imperative": {
+      "ar": "أَنِرْ لِلسَّالِكِينَ طَرِيقَ النَّجَاةِ",
+      "de": "Leuchte den Suchenden den Weg des Heils!",
+      "en": "Light the way of deliverance for travelers!"
+    }
+  }
+}

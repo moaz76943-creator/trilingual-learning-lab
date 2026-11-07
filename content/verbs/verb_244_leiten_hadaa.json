@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_244",
+  "lemma_ar": "هَدَى",
+  "root": "ه-د-ي",
+  "meaning_de": "leiten / den sicheren Weg weisen",
+  "meaning_en": "to guide / lead wanderers and ships safely",
+  "conjugation": {
+    "past": {
+      "ar": "هَدَى ضَوْءُ البُرْجِ السَّفِينَةَ إِلَى المَرْفَأِ",
+      "de": "Das Turmlicht leitete das Schiff sicher in den Hafen",
+      "en": "The tower light guided the vessel safely into the harbor"
+    },
+    "present": {
+      "ar": "يَهْدِي النُّورُ السَّابِلَةَ فِي دَيَاجِيرِ الظَّلَامِ",
+      "de": "Das Licht leitet Wanderer durch finstere Nächte",
+      "en": "The light guides travelers through the depths of darkness"
+    },
+    "imperative": {
+      "ar": "اهْدِ الحَيَارَى بِصِدْقِ القَوْلِ وَالعَمَلِ",
+      "de": "Leite die Suchenden durch Wahrheit in Wort und Tat!",
+      "en": "Guide seekers through truth in word and deed!"
+    }
+  }
+}

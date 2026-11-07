@@ -1,0 +1,33 @@
+{
+  "category_id": "129",
+  "slug": "lighthouses_and_coastal_beacons",
+  "name": {
+    "ar": "أَدَوَاتُ مَنَارَاتِ البَحْرِ وَقَنَادِيلِ الإِرْشَادِ التُّرَاثِيَّةُ",
+    "de": "Leuchtturmlampen und traditionelle Hohlspiegel-Reflektoren",
+    "en": "Traditional Lighthouses, Oil Lamps and Concave Reflectors"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "concave_copper_reflector",
+      "ar": "المِرْآةُ النُّحَاسِيَّةُ المَقْعَرَةُ لِتَوْجِيهِ النُّورِ",
+      "de": "Der kupferne Hohlspiegel zur Lichtbündelung",
+      "en": "Concave polished copper light-focusing reflector",
+      "asset_key": "svg_cat129_concave_copper_reflector"
+    },
+    {
+      "id": "lighthouse_oil_lantern",
+      "ar": "فَانُوسُ المَنَارَةِ الزُّجَاجِيُّ الضَّخْمُ",
+      "de": "Die mächtige Leuchtturm-Öllaterne",
+      "en": "Heavy brass-framed glass lighthouse oil lantern",
+      "asset_key": "svg_cat129_lighthouse_oil_lantern"
+    },
+    {
+      "id": "braided_cotton_wick",
+      "ar": "فَتِيلُ القُطْنِ المَجْدُولُ لِلْقَنَادِيلِ",
+      "de": "Der geflochtene Baumwolldocht für Starklicht",
+      "en": "Braided natural cotton heavy lantern wick",
+      "asset_key": "svg_cat129_braided_cotton_wick"
+    }
+  ]
+}
