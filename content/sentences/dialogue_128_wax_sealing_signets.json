@@ -1,0 +1,30 @@
+{
+  "dialogue_id": "dialogue_128",
+  "title": {
+    "ar": "صَهْرُ شَمْعِ الخَتْمِ الأَحْمَرِ وَطَبْعُ خَوَاتِمِ الفِضَّةِ",
+    "de": "Schmelzen des roten Siegelwachses und Prägen mit dem Silbersiegel",
+    "en": "Melting Red Sealing Wax and Imprinting Silver Signets"
+  },
+  "level": "B1",
+  "topic": "traditional_chancery_and_wax_sealing_craft",
+  "lines": [
+    {
+      "speaker": "أَمِينُ السِّرِّ هِشَامٌ",
+      "ar": "كَيْفَ نَمْزِجُ صَمْغَ الشَّجَرِ مَعَ مَسْحُوقِ الشَّنْجَرْفِ الأَحْمَرِ لِيَكْتَسِبَ الشَّمْعُ لَوْنَهُ القَانِيَ؟",
+      "de": "Wie mischen wir das Baumharz mit feinem Zinnoberpulver, damit das Wachs sein tiefes Scharlachrot annimmt?",
+      "en": "How do we blend the tree resin with fine cinnabar powder so the wax gains its rich vermilion hue?"
+    },
+    {
+      "speaker": "الصَّبِيُّ نُمَيْرٌ",
+      "ar": "نُسَخِّنُ شَمْعَ النَّحْلِ فِي مِلْعَقَةِ النُّحَاسِ، ثُمَّ نَقْطُرُ الدَّمْعَةَ فَوْقَ رِبَاطِ الحَرِيرِ وَنَكْبِسُ بِالخَاتَمِ البَارِدِ.",
+      "de": "Wir erwärmen Bienenwachs im Kupferlöffel, tropfen es aufs Seidenband und drücken mit dem kalten Siegel zu.",
+      "en": "We warm beeswax in the copper spoon, drop a bead over the silk cord, and press with the cold signet."
+    },
+    {
+      "speaker": "أَمِينُ السِّرِّ هِشَامٌ",
+      "ar": "إِنَّ خَتْمَ الكُتُبِ أَمَانَةٌ تَصُونُ عُهُودَ النَّاسِ، فَلَا يَفُضُّ الخَاتَمَ إِلَّا صَاحِبُ الحَقِّ المُبِينِ.",
+      "de": "Das Siegeln von Schriftstücken ist ein heiliger Schutz, den nur der rechtmäßige Empfänger lösen darf.",
+      "en": "Sealing documents is a sacred trust that guards pacts, which none may unseal save the rightful recipient."
+    }
+  ]
+}

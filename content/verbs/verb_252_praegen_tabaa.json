@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_252",
+  "lemma_ar": "طَبَعَ",
+  "root": "ط-ب-ع",
+  "meaning_de": "prägen / das Siegel eindrücken",
+  "meaning_en": "to stamp / impress signet into pliable wax",
+  "conjugation": {
+    "past": {
+      "ar": "طَبَعَ الوَزِيرُ خَاتَمَهُ عَلَى الشَّمْعِ الدَّافِئِ",
+      "de": "Der Minister prägte sein Siegel in das warme Wachs",
+      "en": "The minister impressed his signet into the warm wax"
+    },
+    "present": {
+      "ar": "يَطْبَعُ الشِّعَارَ بِضَغْطَةٍ رَزِينَةٍ ثَابِتَةٍ",
+      "de": "Er prägt das Wappen mit ruhigem, festem Druck ein",
+      "en": "He stamps the emblem with calm, firm pressure"
+    },
+    "imperative": {
+      "ar": "اطْبَعْ بِثَبَاتٍ كَيْ لَا تَمِيلَ الحُرُوفُ",
+      "de": "Präge sicher ein, damit die Schrift nicht verrutscht!",
+      "en": "Stamp steadily so the lettering does not blur!"
+    }
+  }
+}

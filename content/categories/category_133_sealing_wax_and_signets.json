@@ -1,0 +1,33 @@
+{
+  "category_id": "133",
+  "slug": "sealing_wax_and_signets",
+  "name": {
+    "ar": "أَدَوَاتُ شَمْعِ الخَتْمِ وَخَوَاتِمِ الفِضَّةِ التُّرَاثِيَّةُ",
+    "de": "Siegelwachs, Silber-Petschaften und Kanzleigeräte",
+    "en": "Sealing Wax, Silver Signets and Chancery Implements"
+  },
+  "level": "B1",
+  "items": [
+    {
+      "id": "silver_signet_matrix",
+      "ar": "خَاتَمُ الخَتْمِ الفِضِّيُّ المَنْقُوشُ",
+      "de": "Das gravierte silberne Siegel-Petschaft",
+      "en": "Hand-engraved silver signet matrix stamp",
+      "asset_key": "svg_cat133_silver_signet_matrix"
+    },
+    {
+      "id": "copper_wax_melting_spoon",
+      "ar": "مِلْعَقَةُ صَهْرِ الشَّمْعِ النُّحَاسِيَّةُ",
+      "de": "Der kupferne Wachsschmelzlöffel",
+      "en": "Long-handled copper wax melting spoon",
+      "asset_key": "svg_cat133_copper_wax_melting_spoon"
+    },
+    {
+      "id": "vermilion_wax_stick",
+      "ar": "عَمُودُ الشَّمْعِ الأَحْمَرِ القَانِي",
+      "de": "Die zinnoberrote Siegelwachsstange",
+      "en": "Cinnabar-tinted vermilion sealing wax stick",
+      "asset_key": "svg_cat133_vermilion_wax_stick"
+    }
+  ]
+}

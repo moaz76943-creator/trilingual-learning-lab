@@ -1,0 +1,24 @@
+{
+  "verb_id": "verb_251",
+  "lemma_ar": "شَمَّعَ",
+  "root": "ش-م-ع",
+  "meaning_de": "versiegeln / mit Wachs verkleben",
+  "meaning_en": "to seal with wax / coat cords in sealing wax",
+  "conjugation": {
+    "past": {
+      "ar": "شَمَّعَ الكَاتِبُ طَيَّ الصَّحِيفَةِ",
+      "de": "Der Schreiber versiegelte die gefaltete Botschaft",
+      "en": "The scribe sealed the folded letter with wax"
+    },
+    "present": {
+      "ar": "يُشَمِّعُ الرِّسَالَةَ لِيَمْنَعَ فَتْحَهَا دُونَ إِذْنٍ",
+      "de": "Er versiegelt den Brief, um unbefugtes Öffnen zu wehren",
+      "en": "He wax-seals the letter to prevent unauthorized opening"
+    },
+    "imperative": {
+      "ar": "شَمِّعْ بِقَطْرَةٍ مُسْتَدِيرَةٍ مُحْكَمَةٍ",
+      "de": "Versiegle mit einem runden, festen Tropfen!",
+      "en": "Seal with a neat, firm circular drop!"
+    }
+  }
+}
