@@ -15,11 +15,11 @@ class ArabicLexeme {
 
   factory ArabicLexeme.fromJson(Map<String, dynamic> json) {
     return ArabicLexeme(
-      word: json['word'] ?? '',
-      vocalized: json['vocalized'] ?? '',
-      gender: json['gender'] ?? 'm',
-      plural: json['plural'] ?? '',
-      example: json['example'] ?? '',
+      word: (json['word'] as String?) ?? '',
+      vocalized: (json['vocalized'] as String?) ?? '',
+      gender: (json['gender'] as String?) ?? 'm',
+      plural: (json['plural'] as String?) ?? '',
+      example: (json['example'] as String?) ?? '',
     );
   }
 }
@@ -39,10 +39,10 @@ class GermanLexeme {
 
   factory GermanLexeme.fromJson(Map<String, dynamic> json) {
     return GermanLexeme(
-      article: json['article'] ?? '',
-      word: json['word'] ?? '',
-      plural: json['plural'] ?? '',
-      example: json['example'] ?? '',
+      article: (json['article'] as String?) ?? '',
+      word: (json['word'] as String?) ?? '',
+      plural: (json['plural'] as String?) ?? '',
+      example: (json['example'] as String?) ?? '',
     );
   }
 }
@@ -60,9 +60,9 @@ class EnglishLexeme {
 
   factory EnglishLexeme.fromJson(Map<String, dynamic> json) {
     return EnglishLexeme(
-      word: json['word'] ?? '',
-      plural: json['plural'] ?? '',
-      example: json['example'] ?? '',
+      word: (json['word'] as String?) ?? '',
+      plural: (json['plural'] as String?) ?? '',
+      example: (json['example'] as String?) ?? '',
     );
   }
 }
@@ -86,12 +86,12 @@ class Concept {
 
   factory Concept.fromJson(Map<String, dynamic> json) {
     return Concept(
-      conceptId: json['concept_id'] ?? '',
-      imageId: json['image_id'] ?? '',
-      semanticDistinction: json['semantic_distinction'],
-      ar: ArabicLexeme.fromJson(json['ar'] ?? {}),
-      de: GermanLexeme.fromJson(json['de'] ?? {}),
-      en: EnglishLexeme.fromJson(json['en'] ?? {}),
+      conceptId: (json['concept_id'] as String?) ?? '',
+      imageId: (json['image_id'] as String?) ?? '',
+      semanticDistinction: json['semantic_distinction'] as String?,
+      ar: ArabicLexeme.fromJson((json['ar'] as Map<String, dynamic>?) ?? const <String, dynamic>{}),
+      de: GermanLexeme.fromJson((json['de'] as Map<String, dynamic>?) ?? const <String, dynamic>{}),
+      en: EnglishLexeme.fromJson((json['en'] as Map<String, dynamic>?) ?? const <String, dynamic>{}),
     );
   }
 }
