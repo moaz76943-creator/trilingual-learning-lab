@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="pinPlank" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#bcaaa4"/>
+      <stop offset="50%" stop-color="#8d6e63"/>
+      <stop offset="100%" stop-color="#4e342e"/>
+    </linearGradient>
+    <linearGradient id="tailPlank" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#d7ccc8"/>
+      <stop offset="50%" stop-color="#a1887f"/>
+      <stop offset="100%" stop-color="#5d4037"/>
+    </linearGradient>
+  </defs>
+  <!-- Background Construction Plane -->
+  <rect x="20" y="20" width="160" height="160" rx="4" fill="#fafafa" stroke="#cfd8dc" stroke-width="1.5"/>
+  <!-- Left Timber Plank with Dovetail Tails (Pins & Tails Intermeshed) -->
+  <path d="M 30,30 L 85,30 L 105,48 L 85,66 L 105,84 L 85,102 L 105,120 L 85,138 L 105,156 L 85,170 L 30,170 Z" fill="url(#pinPlank)" stroke="#271b16" stroke-width="2"/>
+  <!-- Right Timber Plank Interlocking into Dovetails -->
+  <path d="M 170,30 L 85,30 L 105,48 L 85,66 L 105,84 L 85,102 L 105,120 L 85,138 L 105,156 L 85,170 L 170,170 Z" fill="url(#tailPlank)" stroke="#271b16" stroke-width="2"/>
+  <!-- Highlight Outlines along Trapezoidal Dovetail Flanks -->
+  <polygon points="85,30 105,48 85,66" fill="#ffd54f" opacity="0.3"/>
+  <polygon points="85,66 105,84 85,102" fill="#ffd54f" opacity="0.3"/>
+  <polygon points="85,102 105,120 85,138" fill="#ffd54f" opacity="0.3"/>
+  <!-- Wood Grain Rings on End Grain -->
+  <line x1="45" y1="35" x2="45" y2="165" stroke="#3e2723" stroke-width="1.2" opacity="0.5"/>
+  <line x1="60" y1="35" x2="60" y2="165" stroke="#3e2723" stroke-width="1.2" opacity="0.5"/>
+</svg>

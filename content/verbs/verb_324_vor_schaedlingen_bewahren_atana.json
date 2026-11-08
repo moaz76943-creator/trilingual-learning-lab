@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_324_vor_schaedlingen_bewahren_atana",
+  "root": "ص - و - ن",
+  "trilingual": {
+    "ar": {
+      "infinitive": "صِيَانَةٌ",
+      "past": "صَانَ",
+      "present": "يَصُونُ",
+      "imperative": "صُنْ",
+      "meaning": "حَفِظَ الشَّيْءَ وَحَمَاهُ مِنْ طَوَارِقِ التَّلَفِ وَالحَشَرَاتِ"
+    },
+    "de": {
+      "infinitive": "vor Schädlingen bewahren / konservieren",
+      "past": "bewahrte",
+      "present": "bewahrt",
+      "perfect": "hat bewahrt",
+      "meaning": "Handschriften durch natürliche Vorkehrungen dauerhaft vor Verfall und Fraß schützen"
+    },
+    "en": {
+      "infinitive": "to conserve against vermin / safeguard manuscripts",
+      "past": "conserved against vermin",
+      "present": "conserves against vermin",
+      "participle": "conserved against vermin",
+      "meaning": "to preserve documents and folios permanently against pestilence and atmospheric decay"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يَصُونُ خَشَبُ الأَرْزِ دَفَاتِرَ العِلْمِ قُرُونًا طَوِيلَةً.",
+      "de": "Das Zedernholz bewahrt die Bücher der Gelehrsamkeit über viele Jahrhunderte.",
+      "en": "The cedarwood conserves scholarly registers over long centuries."
+    },
+    {
+      "tense": "past",
+      "ar": "صَانَ خَازِنُ القَيْرَوَانِ مَصَاحِفَ المَسْجِدِ فِي صَنَادِيقِ الخَيْرِ.",
+      "de": "Der Bibliothekar von Kairouan bewahrte die Korane in wohlbedachten Truhen.",
+      "en": "The archivist of Kairouan safeguarded the mosque codices in noble chests."
+    }
+  ]
+}

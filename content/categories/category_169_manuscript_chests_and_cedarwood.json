@@ -1,0 +1,52 @@
+{
+  "category_id": "category_169_manuscript_chests_and_cedarwood",
+  "title": {
+    "ar": "صَنَادِيقُ الأَرْزِ الأَطْلَسِيِّ وَخَزَائِنُ حِفْظِ المَخْطُوطَاتِ",
+    "de": "Atlas-Zedernholztruhen und Handschriften-Schränke",
+    "en": "Aromatic Atlas Cedar Manuscript Chests and Archival Bookcases"
+  },
+  "level": "B1",
+  "description": {
+    "ar": "مُصْطَلَحَاتُ صَنَادِيقِ الكُتُبِ مِنْ خَشَبِ الأَرْزِ، وَتَعْشِيقِ ذَيْلِ اليَمَامَةِ، وَشَبَكَاتِ التَّهْوِيَةِ المَانِعَةِ لِلْعَفَنِ، وَحِمَايَةِ المَكْتَبَاتِ التُّرَاثِيَّةِ.",
+    "de": "Fachbegriffe zu Zedernholz-Buchschränken, Schwalbenschwanzverbindungen, insektenresistenten Lüftungsgittern und historischer Archivkonservierung.",
+    "en": "Terminology of cedar manuscript chests, dovetail joinery, mold-preventing ventilation louvers, and historical library conservation."
+  },
+  "vocabulary": [
+    {
+      "id": "term_169_01",
+      "ar": "صُنْدُوقُ الأَرْزِ الأَطْلَسِيِّ لِلْمَصَاحِفِ",
+      "de": "die Handschriftentruhe aus Atlas-Zedernholz",
+      "en": "aromatic Atlas cedar manuscript chest",
+      "phonetic_ar": "ṣundūqu al-'arzi al-'aṭlasiyyi lil-maṣāḥif",
+      "example": {
+        "ar": "يَحْفَظُ صُنْدُوقُ الأَرْزِ الأَطْلَسِيِّ المَصَاحِفَ مِنْ دُخُولِ الحَشَرَاتِ بِفَضْلِ رَائِحَتِهِ الزَّكِيَّةِ المَانِعَةِ لِلتَّسَوُّسِ.",
+        "de": "Die Atlas-Zedernholztruhe schützt Prachthandschriften vor Insektenbefall dank ihrer aromatischen, fraßabwehrenden Öle.",
+        "en": "The Atlas cedar chest safeguards manuscripts from insect infestation owing to its aromatic, pest-repelling natural oils."
+      }
+    },
+    {
+      "id": "term_169_02",
+      "ar": "تَعْشِيقُ ذَيْلِ اليَمَامَةِ الخَشَبِيُّ",
+      "de": "die Schwalbenschwanzverbindung (die Zinkung)",
+      "en": "dovetail wood joinery joint",
+      "phonetic_ar": "ta'shīqu dhayli al-yamāmati al-khashabiyy",
+      "example": {
+        "ar": "يُحْكِمُ تَعْشِيقُ ذَيْلِ اليَمَامَةِ الخَشَبِيُّ زَوَايَا الخِزَانَةِ دُونَ حَاجَةٍ إِلَى مَسَامِيرَ حَدِيدِيَّةٍ تَصْدَأُ.",
+        "de": "Die Schwalbenschwanzverbindung verzinkt die Ecken der Truhe unlösbar ohne rostende Eisennägel.",
+        "en": "The dovetail wood joint interlocks the cabinet corners permanently without rusting iron nails."
+      }
+    },
+    {
+      "id": "term_169_03",
+      "ar": "كُوَّةُ التَّهْوِيَةِ الشَّرَائِطِيَّةُ",
+      "de": "der belüftete Lamellenschlitz (das Schutzgitter)",
+      "en": "slotted archival breathing louver",
+      "phonetic_ar": "kuwwatu at-tahwiyati ash-sharā'iṭiyyah",
+      "example": {
+        "ar": "تَسْمَحُ كُوَّةُ التَّهْوِيَةِ الشَّرَائِطِيَّةُ بِتَدْوِيرِ الهَوَاءِ دَاخِلَ الصُّنْدُوقِ لِمَنْعِ تَكَاثُفِ الرُّطُوبَةِ.",
+        "de": "Der belüftete Lamellenschlitz ermöglicht stetige Luftzirkulation im Kasten, um Schimmelbildung zu verhindern.",
+        "en": "The slotted breathing louver enables continuous air circulation inside the chest to prevent moisture condensation."
+      }
+    }
+  ]
+}

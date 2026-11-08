@@ -1,0 +1,65 @@
+{
+  "dialogue_id": "dialogue_164_cedar_book_chest",
+  "title": {
+    "ar": "تَعْشِيقُ صُنْدُوقِ الأَرْزِ الأَطْلَسِيِّ لِحِمَايَةِ مَخْطُوطَاتِ القَيْرَوَانِ",
+    "de": "Das Schwalbenschwanz-Zinken der Zedernholztruhe für die Handschriften von Kairouan",
+    "en": "Dovetailing the Atlas Cedar Chest to Protect Manuscripts in Kairouan"
+  },
+  "context": {
+    "ar": "حِوَارٌ فِي خِزَانَةِ جَامِعِ عُقْبَةَ فِي القَيْرَوَانِ بَيْنَ كَبِيرِ النَّجَّارِينَ وَخَازِنِ الكُتُبِ حَوْلَ تَعْشِيقِ أَلْوَاحِ خَشَبِ الأَرْزِ بِذَيْلِ اليَمَامَةِ وَتَرْكِيبِ نَوَافِذِ التَّنَفُّسِ لِصِيَانَةِ الرُّقُوقِ العَتِيقَةِ.",
+    "de": "Ein Gespräch in der Bibliothek der Hauptmoschee von Kairouan zwischen dem Schreinermeister und dem Archivar über die Schwalbenschwanzverbindung von Zedernbohlen zum Schutz alter Pergamente vor Schädlingen.",
+    "en": "A dialogue in the library of the Great Mosque of Kairouan between the master cabinetmaker and the archivist on dovetailing Atlas cedar planks and installing breathing louvers to preserve ancient vellum scrolls."
+  },
+  "turns": [
+    {
+      "speaker": {
+        "ar": "المُعَلِّمُ مَنْصُورٌ (نَجَّارُ الخَزَائِنِ)",
+        "de": "Meister Mansur (Der Schreinermeister)",
+        "en": "Master Mansur (The Cabinetmaker)"
+      },
+      "ar": "اخْتَرْتُ أَلْوَاحًا مِنْ صَمِيمِ شَجَرِ الأَرْزِ الأَطْلَسِيِّ الجَبَلِيِّ؛ فَرَائِحَتُهُ الزَّكِيَّةُ مَوْتٌ زُؤَامٌ لِعُثِّ الوَرَقِ وَالأَرَضَةِ.",
+      "de": "Ich habe Kernholzbohlen der Atlaszeder ausgewählt; ihr edler Duft ist ein unfehlbarer Schild gegen Papierwürmer und Holzschädlinge.",
+      "en": "I selected heartwood planks of mountain Atlas cedar; its noble fragrance is an infallible deterrent against paper mites and bookworms."
+    },
+    {
+      "speaker": {
+        "ar": "الشَّيْخُ عَبْدُ الصَّمَدِ (خَازِنُ الكُتُبِ)",
+        "de": "Scheich Abd as-Samad (Der Bibliothekar)",
+        "en": "Sheikh Abd al-Samad (The Archivist)"
+      },
+      "ar": "كَيْفَ سَتَعْشِقُ زَوَايَا الصُّنْدُوقِ لِيَتَحَمَّلَ ثِقَلَ مِائَةِ مِصْحَفٍ جِلْدِيٍّ ضَخْمٍ؟",
+      "de": "Wie verbindest du die Truhenecken, damit sie der schweren Last von hundert ledergebundenen Prachtkoranen standhalten?",
+      "en": "How will you join the chest corners so they bear the immense weight of a hundred leather-bound codices?"
+    },
+    {
+      "speaker": {
+        "ar": "مَنْصُورٌ",
+        "de": "Mansur",
+        "en": "Mansur"
+      },
+      "ar": "نَعْشِقُهَا بِتَعْشِيقِ (ذَيْلِ اليَمَامَةِ) المُتَدَاخِلِ؛ فَتَتَعَانَقُ أَسْنَانُ الخَشَبِ تَعَانُقًا يَزْدَادُ قُوَّةً كُلَّمَا اشْتَدَّ الحِمْلُ عَلَيْهَا.",
+      "de": "Wir fügen sie im Schwalbenschwanz-Verband zusammen; die Holzfinger greifen so ineinander, dass die Last die Fugen nur noch fester schließt.",
+      "en": "We join them with interlocking dovetails; the wooden fingers interlock so tightly that the heavier the load, the firmer the joint binds."
+    },
+    {
+      "speaker": {
+        "ar": "عَبْدُ الصَّمَدِ",
+        "de": "Abd as-Samad",
+        "en": "Abd al-Samad"
+      },
+      "ar": "وَهَلْ جَعَلْتَ لِلْخَزَانَةِ نَوَافِذَ شَبَكِيَّةً دَقِيقَةً تَمْنَعُ الحَبْسَ وَالعَفَنَ؟",
+      "de": "Und hast du der Truhe feine Vergitterungen gegeben, um Staufeuchte und Schimmelbefall zu verhindern?",
+      "en": "And did you fit the chest with fine latticed vents to prevent stagnant dampness and mold?"
+    },
+    {
+      "speaker": {
+        "ar": "مَنْصُورٌ",
+        "de": "Mansur",
+        "en": "Mansur"
+      },
+      "ar": "نَعَمْ؛ كُوَّاتٌ جَانِبِيَّةٌ مُهَوَّاةٌ مَبْطُونَةٌ بِشَبَكِ النُّحَاسِ؛ فَيَتَنَفَّسُ الكَاغَدُ نَسِيمًا عَطِرًا يَحْفَظُ حِبْرَهُ نَيِّرًا عَلَى تَعَاقُبِ الأَجْيَالِ.",
+      "de": "Gewiss; seitliche Lamellenschlitze mit feinem Messinggitter; so atmet das Papier balsamische Luft und bewahrt seine Tinte über Generationen.",
+      "en": "Indeed; lateral louvered vents backed by fine brass mesh; thus the paper breathes balmy air, preserving its ink radiant across generations."
+    }
+  ]
+}

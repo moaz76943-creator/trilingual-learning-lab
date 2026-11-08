@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_323_schwalbenschwanz_zinken_yamama",
+  "root": "ي - م - م",
+  "trilingual": {
+    "ar": {
+      "infinitive": "تَيْيِيمٌ / تَعْشِيقُ اليَمَامَةِ",
+      "past": "يَمَّمَ",
+      "present": "يُيَمِّمُ",
+      "imperative": "يَمِّمْ",
+      "meaning": "شَكَّلَ أَطْرَافَ الخَشَبِ عَلَى هَيْئَةِ أَذْيَالِ الحَمَامِ لِتَتَشَابَكَ الزَّوَايَا"
+    },
+    "de": {
+      "infinitive": "im Schwalbenschwanz zinken / verzinken",
+      "past": "zinkte im Schwalbenschwanz",
+      "present": "zinkt im Schwalbenschwanz",
+      "perfect": "hat im Schwalbenschwanz gezinkt",
+      "meaning": "Holzbohlen an den Kanten schwalbenschwanzförmig verzinken"
+    },
+    "en": {
+      "infinitive": "to dovetail / interlock timber joints",
+      "past": "dovetailed",
+      "present": "dovetails",
+      "participle": "dovetailed",
+      "meaning": "to fashion trapezoidal tenons resembling a dove's tail to interlock wooden corners"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يُيَمِّمُ النَّجَّارُ زَوَايَا صُنْدُوقِ الأَرْزِ فَتَمْتَنِعُ عَنِ الِانْفِكَاكِ.",
+      "de": "Der Schreiner zinkt die Ecken der Zedernholztruhe, sodass sie unauflöslich halten.",
+      "en": "The carpenter dovetails the corners of the cedar chest, rendering them unbreakable."
+    },
+    {
+      "tense": "past",
+      "ar": "يَمَّمَ الصَّانِعُ أَلْوَاحَ الخِزَانَةِ بِإِتْقَانٍ تَامٍّ.",
+      "de": "Der Handwerker zinkte die Schrankbohlen in vollendeter Meisterschaft.",
+      "en": "The artisan dovetailed the cabinet planks with consummate mastery."
+    }
+  ]
+}

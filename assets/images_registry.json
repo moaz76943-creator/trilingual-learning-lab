@@ -586,5 +586,20 @@
     "path": "assets/images/categories/cat_168_seljuk_wood_panel.svg",
     "category": "category_168_folding_rahl_and_lecterns",
     "description": "Seljuk tongue-and-groove kundekari wood strapwork panel with 8-pointed star"
+  },
+  "cat_169_cedar_chest": {
+    "path": "assets/images/categories/cat_169_cedar_chest.svg",
+    "category": "category_169_manuscript_chests_and_cedarwood",
+    "description": "Aromatic Atlas cedar manuscript chest with brass strap hinges and lockplate"
+  },
+  "cat_169_dovetail_joint": {
+    "path": "assets/images/categories/cat_169_dovetail_joint.svg",
+    "category": "category_169_manuscript_chests_and_cedarwood",
+    "description": "Interlocking dovetail joinery joint connecting thick cedarwood corner planks"
+  },
+  "cat_169_louvered_vent": {
+    "path": "assets/images/categories/cat_169_louvered_vent.svg",
+    "category": "category_169_manuscript_chests_and_cedarwood",
+    "description": "Slotted wooden breathing louver backed by fine brass mesh for humidity circulation"
   }
 }
