@@ -15,11 +15,11 @@ class DialogueLine {
 
   factory DialogueLine.fromJson(Map<String, dynamic> json) {
     return DialogueLine(
-      speaker: json['speaker'] ?? 'A',
-      name: json['name'] ?? '',
-      textDe: json['de'] ?? '',
-      textEn: json['en'] ?? '',
-      textAr: json['ar'] ?? '',
+      speaker: (json['speaker'] as String?) ?? 'A',
+      name: (json['name'] as String?) ?? '',
+      textDe: (json['de'] as String?) ?? '',
+      textEn: (json['en'] as String?) ?? '',
+      textAr: (json['ar'] as String?) ?? '',
     );
   }
 }
@@ -48,19 +48,19 @@ class DialogueModel {
   });
 
   factory DialogueModel.fromJson(Map<String, dynamic> json) {
-    final title = json['title'] ?? {};
-    final sit = json['situation'] ?? {};
-    final rawLines = json['lines'] as List? ?? [];
+    final title = (json['title'] as Map<String, dynamic>?) ?? const <String, dynamic>{};
+    final sit = (json['situation'] as Map<String, dynamic>?) ?? const <String, dynamic>{};
+    final rawLines = (json['lines'] as List<dynamic>?) ?? const <dynamic>[];
     return DialogueModel(
-      id: json['id'] ?? '',
-      imageId: json['image_id'] ?? '',
-      titleAr: title['ar'] ?? '',
-      titleDe: title['de'] ?? '',
-      titleEn: title['en'] ?? '',
-      situationAr: sit['ar'] ?? '',
-      situationDe: sit['de'] ?? '',
-      situationEn: sit['en'] ?? '',
-      lines: rawLines.map((l) => DialogueLine.fromJson(l)).toList(),
+      id: (json['id'] as String?) ?? '',
+      imageId: (json['image_id'] as String?) ?? '',
+      titleAr: (title['ar'] as String?) ?? '',
+      titleDe: (title['de'] as String?) ?? '',
+      titleEn: (title['en'] as String?) ?? '',
+      situationAr: (sit['ar'] as String?) ?? '',
+      situationDe: (sit['de'] as String?) ?? '',
+      situationEn: (sit['en'] as String?) ?? '',
+      lines: rawLines.map((l) => DialogueLine.fromJson(l as Map<String, dynamic>)).toList(),
     );
   }
 }
