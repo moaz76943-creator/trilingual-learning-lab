@@ -301,5 +301,20 @@
     "path": "assets/images/categories/cat_148_facade_declination.svg",
     "category": "category_148_vertical_wall_sundials_and_facades",
     "description": "Geometric facade declination diagram showing angular deviation from south"
+  },
+  "cat_149_scaphe_sundial": {
+    "path": "assets/images/categories/cat_149_scaphe_sundial.svg",
+    "category": "category_149_hemispherical_scaphes_and_bowls",
+    "description": "Hemispherical concave scaphe sundial carved in stone block with central gnomon"
+  },
+  "cat_149_gnomon_nodus": {
+    "path": "assets/images/categories/cat_149_gnomon_nodus.svg",
+    "category": "category_149_hemispherical_scaphes_and_bowls",
+    "description": "Central gnomon nodus bead projecting focused point shadow in solar scaphe"
+  },
+  "cat_149_inverted_dome_arc": {
+    "path": "assets/images/categories/cat_149_inverted_dome_arc.svg",
+    "category": "category_149_hemispherical_scaphes_and_bowls",
+    "description": "Cross-sectional diagram of inverted celestial dome projection inside concave basin"
   }
 }

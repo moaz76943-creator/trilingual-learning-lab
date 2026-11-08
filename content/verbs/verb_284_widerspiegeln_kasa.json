@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_284_widerspiegeln_kasa",
+  "root": "ع - ك - س",
+  "trilingual": {
+    "ar": {
+      "infinitive": "عَكْسٌ",
+      "past": "عَكَسَ",
+      "present": "يَعْكِسُ",
+      "imperative": "اعْكِسْ",
+      "meaning": "قَلَبَ صُورَةَ الشَّيْءِ أَوْ مَسَارَ الضَّوْءِ فَبَانَ مُحَاكِيًا لَهُ بِالتَّنَاظُرِ"
+    },
+    "de": {
+      "infinitive": "widerspiegeln / umkehren",
+      "past": "spiegelte wider",
+      "present": "spiegelt wider",
+      "perfect": "hat widergespiegelt",
+      "meaning": "den Sonnenlauf spiegelbildlich und seitenverkehrt im Hohlraum abbilden"
+    },
+    "en": {
+      "infinitive": "to mirror / invert projection",
+      "past": "mirrored / inverted",
+      "present": "mirrors / inverts",
+      "participle": "mirrored / inverted",
+      "meaning": "to invert and project the solar trajectory symmetrically inside an optical hollow"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يَعْكِسُ التَّجْوِيفُ النِّصْفُ كُرَوِيِّ حَرَكَةَ الفَلَكِ بِأَسْرِهِ فِي بَاطِنِ الرُّخَامِ.",
+      "de": "Die halbkugelförmige Vertiefung spiegelt den gesamten Himmelslauf im Inneren des Marmors wider.",
+      "en": "The hemispherical cavity mirrors the entire celestial motion within the depth of the marble."
+    },
+    {
+      "tense": "past",
+      "ar": "عَكَسَ شَاخِصُ النُّؤْرَةِ شُعَاعَ الظَّهِيرَةِ فِي أَعْمَقِ نُقْطَةٍ مِنَ السَّكِيفَةِ.",
+      "de": "Der Nodus-Gnomon spiegelte den Mittagsstrahl am tiefsten Punkt der Skaphe wider.",
+      "en": "The nodus gnomon mirrored the midday beam at the lowest point of the scaphe basin."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "category_id": "category_149_hemispherical_scaphes_and_bowls",
+  "title": {
+    "ar": "المَزَاوِلُ النِّصْفُ كُرَوِيَّةِ المُجَوَّفَةُ (السَّكِيفَةُ)",
+    "de": "Halbkugelförmige Skaphe-Sonnenuhren und Sonnenschalen",
+    "en": "Hemispherical Scaphe Sundials and Solar Hour Bowls"
+  },
+  "level": "B1",
+  "description": {
+    "ar": "مُصْطَلَحَاتُ المَزَاوِلِ المَقْعَرَةِ، وَتَجَاوِيفِ السَّكِيفَةِ الرُّخَامِيَّةِ، وَنُؤْرَاتِ الظِّلِّ المَرْكَزِيَّةِ، وَمُحَاكَاةِ القُبَّةِ السَّمَاوِيَّةِ المَعْكُوسَةِ.",
+    "de": "Fachbegriffe zu konkaven Sonnenuhren, marmornen Skaphe-Schalen, zentralen Schattenkugeln (Nodi) und der Abbildung des Himmelsgewölbes.",
+    "en": "Terminology of concave sundials, marble scaphe bowls, central shadow nodi, and inverted celestial dome projections."
+  },
+  "vocabulary": [
+    {
+      "id": "term_149_01",
+      "ar": "المِزْوَلَةُ النِّصْفُ كُرَوِيَّةِ المُجَوَّفَةُ",
+      "de": "die halbkugelförmige Skaphe-Sonnenuhr",
+      "en": "hemispherical concave scaphe sundial",
+      "phonetic_ar": "al-mizwalatu an-niṣfu kurawiyyati al-mujawwafah",
+      "example": {
+        "ar": "تَمْتَازُ المِزْوَلَةُ النِّصْفُ كُرَوِيَّةِ المُجَوَّفَةُ بِقُدْرَتِهَا عَلَى إِظْهَارِ السَّاعَاتِ الشَّمْسِيَّةِ دُونَ تَشْوِيهٍ زَاوِيٍّ.",
+        "de": "Die halbkugelförmige Skaphe-Sonnenuhr zeichnet sich dadurch aus, dass sie die Sonnenstunden ohne Winkelverzerrung darstellt.",
+        "en": "The hemispherical concave scaphe sundial is distinguished by its ability to represent solar hours without angular distortion."
+      }
+    },
+    {
+      "id": "term_149_02",
+      "ar": "حَبَّةُ الشَّاخِصِ المَرْكَزِيَّةُ (النُّؤْرَةُ)",
+      "de": "die zentrale Schattenkugel (der Nodus)",
+      "en": "central gnomon nodus bead",
+      "phonetic_ar": "ḥabbatu ash-shākhiṣi al-markaziyyah",
+      "example": {
+        "ar": "تَقِفُ حَبَّةُ الشَّاخِصِ المَرْكَزِيَّةُ فِي بُؤْرَةِ الكُرَةِ لِتُلْقِيَ ظِلًّا نُقْطِيًّا بَالِغَ الدِّقَّةِ.",
+        "de": "Die zentrale Schattenkugel steht im Brennpunkt der Sphäre und wirft einen punktförmigen Schatten von höchster Schärfe.",
+        "en": "The central gnomon nodus stands at the geometric focus of the sphere to cast an exceptionally sharp point shadow."
+      }
+    },
+    {
+      "id": "term_149_03",
+      "ar": "قَوْسُ السَّمَاءِ المَعْكُوسِ",
+      "de": "der gespiegelte Himmelsbogen",
+      "en": "inverted celestial dome projection arc",
+      "phonetic_ar": "qawsu as-samā'i al-ma'kūs",
+      "example": {
+        "ar": "يَرَى النَّاظِرُ فِي التَّجْوِيفِ قَوْسَ السَّمَاءِ المَعْكُوسَ وَقَدْ تَرَسَّمَتْ عَلَيْهِ مَوَاقِعُ البُرُوجِ الِاثْنَيْ عَشَرَ.",
+        "de": "Der Betrachter sieht in der Höhlung den gespiegelten Himmelsbogen, auf dem die Bahnen der zwölf Tierkreiszeichen verzeichnet sind.",
+        "en": "The viewer observes the inverted celestial arc within the cavity, upon which the twelve zodiac paths are inscribed."
+      }
+    }
+  ]
+}

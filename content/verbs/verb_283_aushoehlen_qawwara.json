@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_283_aushoehlen_qawwara",
+  "root": "ق - و - ر",
+  "trilingual": {
+    "ar": {
+      "infinitive": "تَقْوِيرٌ",
+      "past": "قَوَّرَ",
+      "present": "يُقَوِّرُ",
+      "imperative": "قَوِّرْ",
+      "meaning": "حَفَرَ الكُتْلَةَ حَفْرًا مُسْتَدِيرًا مُجَوَّفًا كَبَاطِنِ الكُرَةِ"
+    },
+    "de": {
+      "infinitive": "aushöhlen / sphärisch vertiefen",
+      "past": "höhlte aus",
+      "present": "höhlt aus",
+      "perfect": "hat ausgehöhlt",
+      "meaning": "einen Steinblock gleichmäßig halbkugelförmig aushöhlen und glätten"
+    },
+    "en": {
+      "infinitive": "to hollow out / scoop spherically",
+      "past": "hollowed out",
+      "present": "hollows out",
+      "participle": "hollowed out",
+      "meaning": "to excavate and polish a stone block into a uniform concave hemispherical basin"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يُقَوِّرُ النَّحَّاتُ قَلْبَ الحَجَرِ بِإِزْمِيلٍ مُنْحَنٍ مُرْهَفٍ.",
+      "de": "Der Bildhauer höhlt das Herz des Steins mit einem feinen Hohleisen aus.",
+      "en": "The mason hollows out the core of the stone with a delicate curved gouge."
+    },
+    {
+      "tense": "past",
+      "ar": "قَوَّرَ الصَّانِعُ الصَّخْرَةَ حَتَّى تَطَابَقَتْ مَعَ قَوْسِ القِيَاسِ.",
+      "de": "Der Meister höhlte den Felsblock aus, bis er der Messlehre exakt entsprach.",
+      "en": "The artisan hollowed the rock until it conformed perfectly to the gauge template."
+    }
+  ]
+}

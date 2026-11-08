@@ -1,0 +1,65 @@
+{
+  "dialogue_id": "dialogue_144_stone_scaphe_sundial",
+  "title": {
+    "ar": "نَحْتُ المِزْوَلَةِ النِّصْفِ كُرَوِيَّةِ المُجَوَّفَةِ فِي الكِلْسِ الأَنْدَلُسِيِّ",
+    "de": "Das Meißeln der halbkugelförmigen Skaphe-Sonnenuhr im andalusischen Kalkstein",
+    "en": "Carving the Hemispherical Concave Scaphe Sundial in Andalusian Limestone"
+  },
+  "context": {
+    "ar": "حِوَارٌ فِي مَدِينَةِ قُرْطُبَةَ بَيْنَ صَانِعِ المَزَاوِلِ وَنَحَّاتِ الرُّخَامِ حَوْلَ تَقْوِيرِ تَجْوِيفٍ نِصْفِ كُرَوِيٍّ أَمْلَسَ وَتَثْبِيتِ نُؤْرَةِ الظِّلِّ فِي مَرْكَزِ الكُرَةِ.",
+    "de": "Ein Gespräch in Córdoba zwischen dem Sonnenuhrenbauer und dem Bildhauer über das Aushöhlen einer kugeligen Mulde und die Befestigung des Schattenpunkts im Kugelzentrum.",
+    "en": "A dialogue in Cordoba between the sundial maker and the stonemason on hollowing out a spherical cavity and securing the shadow nodus at the sphere's geometric center."
+  },
+  "turns": [
+    {
+      "speaker": {
+        "ar": "المُهَنْدِسُ يَحْيَى بنُ سَعِيدٍ (المُوَقِّتُ)",
+        "de": "Ingenieur Yahya ibn Said (Der Zeitmesser)",
+        "en": "Engineer Yahya ibn Said (The Timekeeper)"
+      },
+      "ar": "قَوِّرْ هَذِهِ الكُتْلَةَ الرُّخَامِيَّةَ بِقَالَبٍ نِصْفِ كُرَوِيٍّ تَامِّ الِاسْتِدَارَةِ، فَالخَطَأُ فِي نِصْفِ القُطْرِ يُفْسِدُ مَسَارَاتِ البُرُوجِ.",
+      "de": "Höhle diesen Marmorblock mit einer exakt halbkugelförmigen Schablone aus; jeder Fehler im Radius verzerrt die Tierkreisbahnen.",
+      "en": "Hollow this marble block using a perfectly hemispherical template; any deviation in the radius distorts the zodiac arcs."
+    },
+    {
+      "speaker": {
+        "ar": "المُعَلِّمُ طَارِقٌ (النَّحَّاتُ)",
+        "de": "Meister Tariq (Der Steinmetz)",
+        "en": "Master Tariq (The Stonemason)"
+      },
+      "ar": "لَقَدْ صَقَلْتُ التَّجْوِيفَ حَتَّى غَدَا أَمْلَسَ كَبَاطِنِ الصَّدَفَةِ، فَأَيْنَ نَغْرِزُ إِبْرَةَ الشَّاخِصِ؟",
+      "de": "Ich habe die Vertiefung geglättet, bis sie spiegelblank wie das Innere einer Muschel wurde. Wo setzen wir nun den Gnomonstab ein?",
+      "en": "I smoothed the cavity until it became as polished as the inside of a sea shell. Where do we embed the gnomon rod?"
+    },
+    {
+      "speaker": {
+        "ar": "يَحْيَى",
+        "de": "Yahya",
+        "en": "Yahya"
+      },
+      "ar": "نَمُدُّ قَضِيبًا نُحَاسِيًّا أُفُقِيًّا مِنْ حَافَّةِ التَّجْوِيفِ، وَنَجْعَلُ حَبَّتَهُ الصَّغِيرَةَ تَقَعُ فِي المَرْكَزِ الهَنْدَسِيِّ تَمَامًا.",
+      "de": "Wir spannen einen horizontalen Messingstab vom Rand der Höhlung und platzieren seine winzige Kugel genau im geometrischen Kugelmittelpunkt.",
+      "en": "We extend a horizontal brass rod from the rim of the cavity, positioning its tiny bead precisely at the geometric center of the sphere."
+    },
+    {
+      "speaker": {
+        "ar": "طَارِقٌ",
+        "de": "Tariq",
+        "en": "Tariq"
+      },
+      "ar": "وَكَيْفَ سَتَبْدُو أَقْوَاسُ السَّاعَاتِ عِنْدَمَا يَقَعُ ظِلُّ الحَبَّةِ عَلَيْهَا؟",
+      "de": "Und wie wirken die Stundenbögen, wenn der Schatten der Kugel darauf fällt?",
+      "en": "And how will the hour curves appear when the shadow of the bead falls upon them?"
+    },
+    {
+      "speaker": {
+        "ar": "يَحْيَى",
+        "de": "Yahya",
+        "en": "Yahya"
+      },
+      "ar": "تَكُونُ أَقْوَاسًا مُتَنَاظِرَةً بَدِيعَةً؛ فَكُلَّمَا ارْتَفَعَتِ الشَّمْسُ فِي السَّمَاءِ، غَاصَتْ نُقْطَةُ الظِّلِّ فِي قَاعِ التَّجْوِيفِ كَأَنَّهَا لُؤْلُؤَةٌ سَابِحَةٌ فِي بَحْرِ النُّورِ.",
+      "de": "Sie bilden wunderbar symmetrische Kurven; je höher die Sonne am Himmel steigt, desto tiefer taucht der Schattenpunkt auf den Grund der Schale, wie eine Perle im Lichtmeer.",
+      "en": "They form exquisite symmetrical arcs; the higher the sun ascends in the sky, the deeper the shadow point sinks into the base of the hollow, like a pearl floating in a sea of light."
+    }
+  ]
+}
