@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_287_aushebern_zaaba",
+  "root": "ز - ع - ب",
+  "trilingual": {
+    "ar": {
+      "infinitive": "زَعْبٌ",
+      "past": "زَعَبَ",
+      "present": "يَزْعَبُ",
+      "imperative": "ازْعَبْ",
+      "meaning": "دَفَعَ السَّائِلَ دَفْعًا سَرِيعًا عَبْرَ السَّيْفُونِ حَتَّى امْتَلَأَ المَجْرَى"
+    },
+    "de": {
+      "infinitive": "aushebern / siphonal abziehen",
+      "past": "heberte aus",
+      "present": "hebert aus",
+      "perfect": "hat ausgehebert",
+      "meaning": "Flüssigkeit durch Heberwirkung unter Druck rasch absaugen"
+    },
+    "en": {
+      "infinitive": "to siphon out / surge through a siphon",
+      "past": "siphoned out",
+      "present": "siphons out",
+      "participle": "siphoned out",
+      "meaning": "to draw off fluid rapidly under siphonic and atmospheric pressure differentials"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يَزْعَبُ أُنْبُوبُ الحِيلَةِ المَاءَ مِنْ قَاعِ الإِنَاءِ بِمُجَرَّدِ امْتِلَائِهِ.",
+      "de": "Das Heberrohr saugt das Wasser vom Gefäßboden ab, sobald es vollläuft.",
+      "en": "The siphon tube draws off the water from the vessel floor as soon as it is brim-full."
+    },
+    {
+      "tense": "past",
+      "ar": "زَعَبَ السَّيْفُونُ السَّائِلَ فَانْحَدَرَ فِي قَنَاةِ التَّفْرِيغِ بِدَفْعَةٍ وَاحِدَةٍ.",
+      "de": "Der Heber zog die Flüssigkeit schlagartig in den Abflusskanal ab.",
+      "en": "The siphon drew the fluid, sending it down the discharge channel in a single rush."
+    }
+  ]
+}

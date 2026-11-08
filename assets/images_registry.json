@@ -331,5 +331,20 @@
     "path": "assets/images/categories/cat_150_onyx_orifice.svg",
     "category": "category_150_clepsydras_and_hydraulic_floats",
     "description": "Turned brass collet mounting pierced ruby agate discharge nozzle"
+  },
+  "cat_151_siphon_cup": {
+    "path": "assets/images/categories/cat_151_siphon_cup.svg",
+    "category": "category_151_siphons_and_pneumatic_vessels",
+    "description": "Silver siphonic chalice of justice with concentric drain sheath"
+  },
+  "cat_151_concentric_tube": {
+    "path": "assets/images/categories/cat_151_concentric_tube.svg",
+    "category": "category_151_siphons_and_pneumatic_vessels",
+    "description": "Cross-sectional diagram of concentric siphon tubes and threshold trigger"
+  },
+  "cat_151_moderation_threshold": {
+    "path": "assets/images/categories/cat_151_moderation_threshold.svg",
+    "category": "category_151_siphons_and_pneumatic_vessels",
+    "description": "Engraved metallic band with Kufic moderation inscription and limit ticks"
   }
 }

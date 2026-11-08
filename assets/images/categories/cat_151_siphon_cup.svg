@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="silverCup" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#b0bec5"/>
+      <stop offset="35%" stop-color="#eceff1"/>
+      <stop offset="70%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#78909c"/>
+    </linearGradient>
+    <linearGradient id="liquidWine" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#c2185b" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#880e4f" stop-opacity="0.95"/>
+    </linearGradient>
+  </defs>
+  <!-- Chalice Base and Stem -->
+  <path d="M 65,180 L 135,180 L 115,150 L 105,115 L 95,115 L 85,150 Z" fill="url(#silverCup)" stroke="#37474f" stroke-width="2"/>
+  <!-- Chalice Bowl in Cross Section -->
+  <path d="M 45,35 L 45,95 C 45,135 155,135 155,95 L 155,35 Z" fill="url(#silverCup)" stroke="#37474f" stroke-width="2.5"/>
+  <!-- Interior Cutaway showing Liquid Level at Threshold -->
+  <path d="M 52,70 L 52,95 C 52,125 148,125 148,95 L 148,70 Z" fill="url(#liquidWine)"/>
+  <!-- Inscribed Moderation Line Ring -->
+  <line x1="50" y1="70" x2="150" y2="70" stroke="#ffd54f" stroke-width="2" stroke-dasharray="4,2"/>
+  <!-- Central Siphon Column Sheath -->
+  <rect x="92" y="55" width="16" height="60" rx="3" fill="#cfd8dc" stroke="#263238" stroke-width="1.5"/>
+  <circle cx="100" cy="55" r="8" fill="#ffd54f" stroke="#263238" stroke-width="1.5"/>
+  <!-- Liquid Siphoning Down through the Stem -->
+  <line x1="100" y1="115" x2="100" y2="185" stroke="#ad1457" stroke-width="3" stroke-dasharray="3,3"/>
+  <ellipse cx="100" cy="192" rx="3" ry="5" fill="#ad1457"/>
+</svg>

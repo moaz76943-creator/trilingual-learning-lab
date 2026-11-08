@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_288_vollstaendig_entleeren_afraqa",
+  "root": "ف - ر - ق",
+  "trilingual": {
+    "ar": {
+      "infinitive": "إِفْرَاقٌ",
+      "past": "أَفْرَقَ",
+      "present": "يُفْرِقُ",
+      "imperative": "أَفْرِقْ",
+      "meaning": "أَخْرَجَ جَمِيعَ مَا فِي الإِنَاءِ فَلَمْ يَتْرُكْ فِيهِ ثُمَالَةً"
+    },
+    "de": {
+      "infinitive": "vollständig entleeren / restlos leeren",
+      "past": "entleerte vollständig",
+      "present": "entleert vollständig",
+      "perfect": "hat vollständig entleert",
+      "meaning": "den gesamten Inhalt eines Gefäßes bis auf den letzten Tropfen ausfließen lassen"
+    },
+    "en": {
+      "infinitive": "to drain completely / evacuate entirely",
+      "past": "drained completely",
+      "present": "drains completely",
+      "participle": "drained completely",
+      "meaning": "to discharge the contents of a vessel utterly until not a dreg remains"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يُفْرِقُ كَأْسُ العَدْلِ شَرَابَهُ حَتَّى يَجِفَّ قَاعُهُ تَمَامًا.",
+      "de": "Der Becher der Gerechtigkeit entleert seinen Trank, bis sein Boden völlig trocken ist.",
+      "en": "The cup of justice drains its beverage until its floor is completely dry."
+    },
+    {
+      "tense": "past",
+      "ar": "أَفْرَقَ الصَّانِعُ حَوْضَ التَّجْرِبَةِ لِيَتَأَكَّدَ مِنْ إِحْكَامِ الصِّمَامِ.",
+      "de": "Der Handwerker entleerte das Testbecken restlos, um die Dichtigkeit des Ventils zu prüfen.",
+      "en": "The artisan evacuated the test tank completely to verify the seal of the valve."
+    }
+  ]
+}

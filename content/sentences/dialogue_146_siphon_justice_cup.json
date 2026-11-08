@@ -1,0 +1,65 @@
+{
+  "dialogue_id": "dialogue_146_siphon_justice_cup",
+  "title": {
+    "ar": "صِنَاعَةُ كَأْسِ العَدْلِ السَّيْفُونِيِّ فِي مَشْغَلِ الحِيَلِ",
+    "de": "Die Fertigung des siphonalen Bechers der Gerechtigkeit in der Mechanikerwerkstatt",
+    "en": "Crafting the Siphonic Cup of Justice in the Mechanicians' Workshop"
+  },
+  "context": {
+    "ar": "حِوَارٌ فِي بَغْدَادَ بَيْنَ الصَّانِعِ الفِضِّيِّ وَتِلْمِيذِهِ حَوْلَ لِحَامِ أُنْبُوبِ السَّيْفُونِ المَرْكَزِيِّ دَاخِلَ كَأْسٍ فِضِّيٍّ لِتَعْلِيمِ النَّاسِ فَضِيلَةَ القَنَاعَةِ.",
+    "de": "Ein Gespräch in Bagdad zwischen dem Silberschmied und seinem Lehrling über das Einlöten des konzentrischen Heberrohrs zur Veranschaulichung der Tugend der Mäßigung.",
+    "en": "A dialogue in Baghdad between the silversmith and his apprentice on soldering the central concentric siphon tube inside a silver chalice to illustrate the virtue of contentment."
+  },
+  "turns": [
+    {
+      "speaker": {
+        "ar": "المُعَلِّمُ حَسَنُ بنُ مُوسَى (صَانِعُ الحِيَلِ)",
+        "de": "Meister Hasan ibn Musa (Der Mechaniker)",
+        "en": "Master Hasan ibn Musa (The Mechanician)"
+      },
+      "ar": "أَلْحِمْ هَذَا الأُنْبُوبَ النُّحَاسِيَّ المَفْتُوحَ مِنْ أَسْفَلِ قَاعِدَةِ الكَأْسِ، ثُمَّ غَطِّهِ بِأُنْبُوبٍ أَوْسَعَ مُغْلَقِ الرَّأْسِ.",
+      "de": "Löte dieses von unten offene Messingrohr in den Becherboden ein und stülpe dann ein weiteres Rohr mit geschlossenem Kopf darüber.",
+      "en": "Solder this brass tube open through the base of the cup, then cap it with a wider sleeve sealed at its top."
+    },
+    {
+      "speaker": {
+        "ar": "زَيْدٌ (المُتَدَرِّبُ)",
+        "de": "Zaid (Der Geselle)",
+        "en": "Zaid (The Journeyman)"
+      },
+      "ar": "كَيْفَ يَسْرِي المَاءُ بَيْنَ الأُنْبُوبَيْنِ دُونَ أَنْ يَرَاهُ مَنْ يَشْرَبُ؟",
+      "de": "Wie steigt das Wasser zwischen den beiden Röhren auf, ohne dass der Trinkende es bemerkt?",
+      "en": "How does the water rise between both tubes without the drinker perceiving it?"
+    },
+    {
+      "speaker": {
+        "ar": "حَسَنٌ",
+        "de": "Hasan",
+        "en": "Hasan"
+      },
+      "ar": "يَدْخُلُ السَّائِلُ مِنْ شُقُوقٍ سُفْلِيَّةٍ خَفِيَّةٍ، فَيَرْتَفِعُ فِي الفَرَاغِ بَيْنَهُمَا بِمِقْدَارِ ارْتِفَاعِهِ فِي الكَأْسِ تَمَامًا.",
+      "de": "Die Flüssigkeit dringt durch verdeckte Schlitze am Fuß ein und steigt im Zwischenraum genauso hoch wie im Becher selbst.",
+      "en": "The liquid enters through concealed bottom slits, rising in the annulus exactly as high as it stands in the cup."
+    },
+    {
+      "speaker": {
+        "ar": "زَيْدٌ",
+        "de": "Zaid",
+        "en": "Zaid"
+      },
+      "ar": "وَمَاذَا يَحْدُثُ إِذَا صَبَّ الضَّيْفُ مِلْءَ الكَأْسِ حَتَّى الحَافَّةِ دُونَ اكْتِرَاثٍ لِحَدِّ الكِفَايَةِ؟",
+      "de": "Und was geschieht, wenn der Gast den Becher bis zum Rand füllt, ohne das Maß des Genügens zu achten?",
+      "en": "And what happens if the guest pours to the brim heedless of the threshold of sufficiency?"
+    },
+    {
+      "speaker": {
+        "ar": "حَسَنٌ",
+        "de": "Hasan",
+        "en": "Hasan"
+      },
+      "ar": "يَفِيضُ المَاءُ فَوْقَ حَافَّةِ الأُنْبُوبِ الدَّاخِلِيِّ، فَيَنْشَأُ ضَغْطٌ هَيْدْرُولِيكِيٌّ يَسْحَبُ كُلَّ قَطْرَةٍ إِلَى خَزَّانِ القَاعِدَةِ؛ فَيَبْقَى الطَّامِعُ ظَمْآنًا يَتَعَلَّمُ حِكْمَةَ التَّوَاضُعِ.",
+      "de": "Das Wasser schwappt über den Rand des Innenrohrs; der entstehende Saugdruck zieht jeden Tropfen in den Sockelbehälter ab, und der Gierige bleibt durstig und lernt Bescheidenheit.",
+      "en": "The water crests the inner tube rim; the resulting siphon suction drains every drop into the base reservoir, leaving the covetous thirsty to learn humility."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "category_id": "category_151_siphons_and_pneumatic_vessels",
+  "title": {
+    "ar": "كُؤُوسُ العَدْلِ السَّيْفُونِيَّةُ وَالأَوَانِي الهَيْدْرُولِيكِيَّةُ",
+    "de": "Siphonale Becher der Gerechtigkeit und pneumatische Gefäße",
+    "en": "Siphonic Justice Cups and Pneumatic Vessels"
+  },
+  "level": "B1",
+  "description": {
+    "ar": "مُصْطَلَحَاتُ أَبْرَاقِ الحِيَلِ، وَسَيَافِينِ التَّفْرِيغِ التِّلْقَائِيِّ، وَكُؤُوسِ الِاعْتِدَالِ، وَالضَّغْطِ الهَوَائِيِّ فِي تُرَاثِ بَنِي مُوسَى وَالجَزَرِيِّ.",
+    "de": "Fachbegriffe zu Vexiergefäßen, automatischen Aushebern, Mäßigungsbechern und pneumatischen Druckventilen der klassischen Mechanik.",
+    "en": "Terminology of trick vessels, automatic siphons, temperance cups, and pneumatic pressure differentials in Banu Musa and al-Jazari's mechanics."
+  },
+  "vocabulary": [
+    {
+      "id": "term_151_01",
+      "ar": "كَأْسُ القِسْطِ السَّيْفُونِيُّ",
+      "de": "der siphonale Becher der Gerechtigkeit (Tantalusbecher)",
+      "en": "siphonic cup of justice (Tantalus chalice)",
+      "phonetic_ar": "ka'su al-qisṭi as-sayfūniyy",
+      "example": {
+        "ar": "يُفْرِغُ كَأْسُ القِسْطِ السَّيْفُونِيُّ نَفْسَهُ تِلْقَائِيًّا عِنْدَمَا يَتَجَاوَزُ الشَّرَابُ الحَدَّ المَسْمُوحَ.",
+        "de": "Der siphonale Becher der Gerechtigkeit entleert sich automatisch, wenn der Trank die zulässige Grenze übersteigt.",
+        "en": "The siphonic cup of justice empties itself automatically whenever the beverage exceeds the allowable threshold."
+      }
+    },
+    {
+      "id": "term_151_02",
+      "ar": "أُنْبُوبُ التَّفْرِيغِ المُتَدَاخِلُ",
+      "de": "das konzentrische Heberrohr",
+      "en": "concentric siphonic discharge tube",
+      "phonetic_ar": "'unbūbu at-tafrīghi al-mutadākhil",
+      "example": {
+        "ar": "يَخْتَفِي أُنْبُوبُ التَّفْرِيغِ المُتَدَاخِلُ فِي سَاقِ الكَأْسِ لِيَجْرِيَ المَاءُ إِلَى الخَارِجِ دُونَ جَلَبَةٍ.",
+        "de": "Das konzentrische Heberrohr verbirgt sich im Stiel des Bechers, sodass das Wasser geräuschlos nach außen abfließt.",
+        "en": "The concentric siphonic discharge tube is concealed within the stem of the cup so fluid flows out noiselessly."
+      }
+    },
+    {
+      "id": "term_151_03",
+      "ar": "حَدُّ الِاعْتِدَالِ المَنْقُوشُ",
+      "de": "die eingravierte Mäßigungslinie",
+      "en": "inscribed line of moderation",
+      "phonetic_ar": "ḥaddu al-i'tidāli al-manqūsh",
+      "example": {
+        "ar": "يُحَذِّرُ حَدُّ الِاعْتِدَالِ المَنْقُوشُ كُلَّ مَنْ يَمْلَأُ الإِنَاءَ مِنْ مَغَبَّةِ الإِسْرَافِ.",
+        "de": "Die eingravierte Mäßigungslinie warnt jeden, der das Gefäß füllt, vor den Folgen der Verschwendung.",
+        "en": "The inscribed line of moderation warns anyone filling the vessel against the perils of extravagance."
+      }
+    }
+  ]
+}
