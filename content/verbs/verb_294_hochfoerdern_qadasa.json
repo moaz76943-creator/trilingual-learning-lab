@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_294_hochfoerdern_qadasa",
+  "root": "ق - د - س",
+  "trilingual": {
+    "ar": {
+      "infinitive": "قَدْسٌ",
+      "past": "قَدَسَ",
+      "present": "يَقْدِسُ",
+      "imperative": "اقْدِسْ",
+      "meaning": "غَرَفَ المَاءَ بِالقَادُوسِ وَرَفَعَهُ مِنْ قَاعِ البِئْرِ إِلَى أَعْلَاهُ"
+    },
+    "de": {
+      "infinitive": "mit Schöpfkrügen hochfördern",
+      "past": "förderte hoch",
+      "present": "fördert hoch",
+      "perfect": "hat hochgefördert",
+      "meaning": "Wasser mittels Krugkette aus der Brunnentiefe heraufbefördern"
+    },
+    "en": {
+      "infinitive": "to hoist water via pot-chain",
+      "past": "hoisted water",
+      "present": "hoists water",
+      "participle": "hoisted water",
+      "meaning": "to scoop and elevate well water continuously through a succession of tethered jars"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يَقْدِسُ الدُولابُ سَيْلَ المَاءِ فَيَمْلَأُ خَزَّانَ المَزْرَعَةِ فِي البُكْرَةِ.",
+      "de": "Das Schöpfrad fördert den Wasserstrom herauf und füllt den Hofspeicher am frühen Morgen.",
+      "en": "The wheel hoists the stream of water, filling the farm cistern in early morning."
+    },
+    {
+      "tense": "past",
+      "ar": "قَدَسَتِ السَّاقِيَةُ مِئَةَ جَرَّةٍ فِي سَاعَةِ شُرُوقِ الشَّمْسِ.",
+      "de": "Die Saqiya förderte bei Sonnenaufgang hundert Krüge Wasser empor.",
+      "en": "The saqiya hoisted a hundred pots of water at the hour of sunrise."
+    }
+  ]
+}

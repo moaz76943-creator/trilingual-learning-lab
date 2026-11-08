@@ -1,0 +1,65 @@
+{
+  "dialogue_id": "dialogue_149_saqiya_gearing_assembly",
+  "title": {
+    "ar": "تَعْشِيقُ تُرُوسِ السَّاقِيَةِ الخَشَبِيَّةِ فِي بَسَاتِينِ حَمَاةَ",
+    "de": "Das Einpassen der hölzernen Schöpfrad-Zahnräder in den Gärten von Hama",
+    "en": "Fitting the Wooden Saqiya Pin-Gears in the Orchards of Hama"
+  },
+  "context": {
+    "ar": "حِوَارٌ فِي بُسْتَانٍ عَلَى ضَفَافِ نَهْرِ العَاصِي بَيْنَ نَجَّارِ السَّوَاقِي وَمُسَاعِدِهِ حَوْلَ خَرْطِ أَسْنَانِ خَشَبِ السِّنْدِيَانِ وَضَبْطِ تَبَاعُدِ القَوَادِيسِ عَلَى الحَبْلِ.",
+    "de": "Ein Gespräch in den Obstgärten am Orontes zwischen dem Mühlenbauer und seinem Gehilfen über das Drechseln der Eichenholzzähne und den Abstand der Tonkrüge am Schöpfseil.",
+    "en": "A dialogue in an orchard along the Orontes between the millwright and his apprentice on turning oak gear pegs and spacing the earthenware pots on the hoist rope."
+  },
+  "turns": [
+    {
+      "speaker": {
+        "ar": "المُعَلِّمُ نُورُ الدِّينِ (نَجَّارُ السَّوَاقِي)",
+        "de": "Meister Nur ad-Din (Der Mühlenbauer)",
+        "en": "Master Nur al-Din (The Millwright)"
+      },
+      "ar": "اخْرُطْ أَسْنَانَ التُّرْسِ المِغْزَلِيِّ مِنْ خَشَبِ السِّنْدِيَانِ اليَابِسِ، وَامْسَحْهَا بِالشَّحْمِ لِيَنْسَابَ التَّعْشِيقُ دُونَ صَرِيرٍ.",
+      "de": "Drechsle die Zähne des Stockgetriebes aus trockenem Eichenholz und fette sie gut ein, damit die Verzahnung ohne jedes Quietschen greift.",
+      "en": "Turn the teeth of the lantern pinion from seasoned oak, and coat them with tallow so the meshing proceeds without shrieking."
+    },
+    {
+      "speaker": {
+        "ar": "سَالِمٌ (المُسَاعِدُ)",
+        "de": "Salim (Der Gehilfe)",
+        "en": "Salim (The Assistant)"
+      },
+      "ar": "كَمْ شِبْرًا سَنَجْعَلُ بَيْنَ القَادُوسِ وَالآخَرِ عَلَى حَبْلِ اللِّيفِ المَفْتُولِ؟",
+      "de": "Wie viele Spannen Abstand lassen wir zwischen den einzelnen Krügen auf dem geflochtenen Palmbastseil?",
+      "en": "How many spans shall we leave between successive pots on the twisted palm-fiber rope?"
+    },
+    {
+      "speaker": {
+        "ar": "نُورُ الدِّينِ",
+        "de": "Nur ad-Din",
+        "en": "Nur al-Din"
+      },
+      "ar": "ذِرَاعًا وَاحِدًا؛ فَإِنْ تَقَارَبَتْ أَثْقَلَتْ عَلَى الدَّابَّةِ، وَإِنْ تَبَاعَدَتْ تَرَاخَى تَدَفُّقُ المَاءِ فِي سَوَاقِي الزَّرْعِ.",
+      "de": "Genau eine Elle; stehen sie zu dicht, überlasten sie das Zugtier; sind sie zu weit, stockt der Wasserfluss in den Beeten.",
+      "en": "Exactly one cubit; if crowded too close they overburden the beast, and if spaced too far the irrigation stream falters."
+    },
+    {
+      "speaker": {
+        "ar": "سَالِمٌ",
+        "de": "Salim",
+        "en": "Salim"
+      },
+      "ar": "وَهَلْ نَثْقُبُ قَاعَ كُلِّ قَادُوسٍ بِثُقْبٍ دَقِيقٍ كَمَا عَلَّمْتَنِي؟",
+      "de": "Und bohren wir in den Boden jedes Schöpfkruges ein winziges Loch, wie du es mich gelehrt hast?",
+      "en": "And do we pierce the base of each jar with a pinhole as you taught me?"
+    },
+    {
+      "speaker": {
+        "ar": "نُورُ الدِّينِ",
+        "de": "Nur ad-Din",
+        "en": "Nur al-Din"
+      },
+      "ar": "نَعَمْ؛ لِيَخْرُجَ الهَوَاءُ عِنْدَ الغَوْصِ فِي قَاعِ البِئْرِ فَيَمْتَلِئَ سَرِيعًا، وَيَتَفَرَّغَ المَاءُ عِنْدَ التَّوَقُّفِ فَيَخِفَّ الوَزْنُ عَلَى الحَيَوَانِ.",
+      "de": "Gewiss; damit die Luft beim Eintauchen entweicht und der Krug voll wird, und damit das Restwasser beim Stillstand abläuft, um das Tier zu schonen.",
+      "en": "Indeed; so air vents freely when plunging into the well allowing swift filling, and residual water drains during rest to relieve the animal."
+    }
+  ]
+}

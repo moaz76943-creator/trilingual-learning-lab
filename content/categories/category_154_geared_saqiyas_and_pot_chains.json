@@ -1,0 +1,52 @@
+{
+  "category_id": "category_154_geared_saqiyas_and_pot_chains",
+  "title": {
+    "ar": "السَّوَاقِي التُّرْسِيَّةُ وَسَلاَسِلُ القَوَادِيسِ الخَزَفِيَّةُ",
+    "de": "Zahnrad-Schöpfräder und Krügeketten (Saqiyas)",
+    "en": "Geared Saqiyas and Earthenware Pot-Chains"
+  },
+  "level": "B1",
+  "description": {
+    "ar": "مُصْطَلَحَاتُ السَّوَاقِي الحَبْلِيَّةِ، وَالتُّرُوسِ المِغْزَلِيَّةِ القَائِمَةِ، وَقَوَادِيسِ الفَخَّارِ، وَدَوَالِيبِ الغَرْفِ التُّرَاثِيَّةِ لِرَفْعِ المِيَاهِ.",
+    "de": "Fachbegriffe zu tiergetriebenen Schöpfrädern, Stockgetrieben, Ton-Schöpfkrügen und historischen Kettenpumpen zur Feldbewässerung.",
+    "en": "Terminology of animal-driven saqiyas, vertical lantern pinions, earthenware pots, and historical bucket-chains for agrarian irrigation."
+  },
+  "vocabulary": [
+    {
+      "id": "term_154_01",
+      "ar": "التُّرْسُ المِغْزَلِيُّ القَائِمُ",
+      "de": "das vertikale Stockgetriebe (das Laternenrad)",
+      "en": "vertical lantern pinion gear",
+      "phonetic_ar": "at-tursu al-mighzaliyyu al-qā'im",
+      "example": {
+        "ar": "يَتَشَابَكُ التُّرْسُ المِغْزَلِيُّ القَائِمُ مَعَ دُولابِ السَّاقِيَةِ لِتَدْوِيرِ حَبْلِ القَوَادِيسِ.",
+        "de": "Das vertikale Stockgetriebe greift in das Rad der Saqiya, um die Krügekette anzutreiben.",
+        "en": "The vertical lantern pinion gear interlocks with the saqiya wheel to rotate the pot-chain."
+      }
+    },
+    {
+      "id": "term_154_02",
+      "ar": "حَبْلُ القَوَادِيسِ الخَزَفِيَّةِ",
+      "de": "die Krügekette aus Tongefäßen",
+      "en": "earthenware bucket-chain (pot-chain)",
+      "phonetic_ar": "ḥablu al-qawādīsi al-khazafiyyah",
+      "example": {
+        "ar": "يَهْبِطُ حَبْلُ القَوَادِيسِ الخَزَفِيَّةِ فِي ظُلْمَةِ البِئْرِ فَيَغْرِفُ المَاءَ الزُّلاَلَ إِلَى السَّطْحِ.",
+        "de": "Die Kette aus Tonkrügen taucht in das Dunkel des Brunnens und hebt das klare Quellwasser empor.",
+        "en": "The earthenware pot-chain descends into the dark well, lifting crystal water to the surface."
+      }
+    },
+    {
+      "id": "term_154_03",
+      "ar": "دُولابُ الغَرْفِ الحَلَزُونِيُّ",
+      "de": "das schneckenförmige Schöpfrad (Spiralrad)",
+      "en": "spiral scoop-wheel",
+      "phonetic_ar": "dūlābu al-gharfi al-ḥalazūniyy",
+      "example": {
+        "ar": "يَسْكُبُ دُولابُ الغَرْفِ الحَلَزُونِيُّ المَاءَ فِي المِزْرَابِ المَرْفُوعِ بِسَلاَسَةٍ تَامَّةٍ.",
+        "de": "Das spiralförmige Schöpfrad gießt das Wasser mit vollendeter Sanftheit in die erhöhte Rinne.",
+        "en": "The spiral scoop-wheel empties water into the elevated flume with consummate smoothness."
+      }
+    }
+  ]
+}

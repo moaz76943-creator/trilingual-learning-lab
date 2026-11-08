@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="clayPot" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#bf360c"/>
+      <stop offset="50%" stop-color="#ff7043"/>
+      <stop offset="100%" stop-color="#870000"/>
+    </linearGradient>
+    <linearGradient id="ropeTexture" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#d7ccc8"/>
+      <stop offset="100%" stop-color="#8d6e63"/>
+    </linearGradient>
+  </defs>
+  <!-- Two Parallel Palm-Fiber Ropes -->
+  <line x1="75" y1="15" x2="75" y2="185" stroke="url(#ropeTexture)" stroke-width="4" stroke-dasharray="6,2"/>
+  <line x1="125" y1="15" x2="125" y2="185" stroke="url(#ropeTexture)" stroke-width="4" stroke-dasharray="6,2"/>
+  <!-- Top Upright Earthenware Jar (Full of water ascending) -->
+  <g transform="translate(0, 20)">
+    <path d="M 82,45 C 75,30 125,30 118,45 C 128,60 125,75 115,80 L 85,80 C 75,75 72,60 82,45 Z" fill="url(#clayPot)" stroke="#3e2723" stroke-width="1.8"/>
+    <ellipse cx="100" cy="35" rx="15" ry="4" fill="#0288d1"/>
+    <!-- Rope Lashes Around Jar Neck -->
+    <line x1="75" y1="42" x2="125" y2="42" stroke="#4e342e" stroke-width="2.5"/>
+  </g>
+  <!-- Middle Inverting Jar (Discharging into Flume) -->
+  <g transform="translate(0, 95) rotate(-35 100 40)">
+    <path d="M 82,45 C 75,30 125,30 118,45 C 128,60 125,75 115,80 L 85,80 C 75,75 72,60 82,45 Z" fill="url(#clayPot)" stroke="#3e2723" stroke-width="1.8"/>
+    <ellipse cx="100" cy="35" rx="15" ry="4" fill="#3e2723"/>
+    <!-- Water Gushing from Lip -->
+    <path d="M 115,35 Q 140,55 145,95" fill="none" stroke="#29b6f6" stroke-width="4" stroke-linecap="round"/>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <radialGradient id="wheelCenter" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="60%" stop-color="#fff8e1"/>
+      <stop offset="100%" stop-color="#ffb300"/>
+    </radialGradient>
+  </defs>
+  <!-- Heavy Outer Wheel Rim -->
+  <circle cx="100" cy="100" r="75" fill="none" stroke="#5d4037" stroke-width="8"/>
+  <circle cx="100" cy="100" r="80" fill="none" stroke="#271b16" stroke-width="1.5"/>
+  <circle cx="100" cy="100" r="70" fill="none" stroke="#271b16" stroke-width="1.5"/>
+  <!-- Central Hub -->
+  <circle cx="100" cy="100" r="22" fill="url(#wheelCenter)" stroke="#3e2723" stroke-width="2.5"/>
+  <circle cx="100" cy="100" r="8" fill="#212121"/>
+  <!-- Internal Curved Archimedean Spiral Scoops -->
+  <path d="M 100,78 Q 65,70 45,95 Q 35,115 50,135 Q 70,155 100,122" fill="none" stroke="#0288d1" stroke-width="3"/>
+  <path d="M 122,100 Q 130,65 105,45 Q 85,35 65,50 Q 45,70 78,100" fill="none" stroke="#0288d1" stroke-width="3"/>
+  <path d="M 100,122 Q 135,130 155,105 Q 165,85 150,65 Q 130,45 100,78" fill="none" stroke="#0288d1" stroke-width="3"/>
+  <!-- Tangential Water Scooping Cups on Rim -->
+  <rect x="92" y="18" width="16" height="10" rx="2" fill="#bf360c" stroke="#3e2723" stroke-width="1"/>
+  <rect x="92" y="172" width="16" height="10" rx="2" fill="#bf360c" stroke="#3e2723" stroke-width="1"/>
+  <rect x="18" y="92" width="10" height="16" rx="2" fill="#bf360c" stroke="#3e2723" stroke-width="1"/>
+  <rect x="172" y="92" width="10" height="16" rx="2" fill="#bf360c" stroke="#3e2723" stroke-width="1"/>
+</svg>

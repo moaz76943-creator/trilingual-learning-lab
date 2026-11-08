@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_293_verzahnen_ashshaqa",
+  "root": "ع - ش - ق",
+  "trilingual": {
+    "ar": {
+      "infinitive": "تَعْشِيقٌ",
+      "past": "عَشَّقَ",
+      "present": "يُعَشِّقُ",
+      "imperative": "عَشِّقْ",
+      "meaning": "أَدْخَلَ أَسْنَانَ التُّرْسِ فِي مَجَارِي التُّرْسِ الآخَرِ بِإِحْكَامٍ"
+    },
+    "de": {
+      "infinitive": "im Winkel verzahnen / kämmen",
+      "past": "verzahnte",
+      "present": "verzahnt",
+      "perfect": "hat verzahnt",
+      "meaning": "Zahnräder passgenau ineinandergreifen lassen, um Drehkräfte zu übertragen"
+    },
+    "en": {
+      "infinitive": "to mesh gears / interlock pinions",
+      "past": "meshed gears",
+      "present": "meshes gears",
+      "participle": "meshed gears",
+      "meaning": "to engage wooden gear teeth precisely with another pinion to transmit drive torque"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يُعَشِّقُ النَّجَّارُ تُرْسَ القَاعِدَةِ مَعَ دُولابِ البِئْرِ بِإِتْقَانٍ.",
+      "de": "Der Zimmermann verzahnt das Bodenrad präzise mit dem Brunnenrad.",
+      "en": "The carpenter meshes the crown wheel with the well wheel masterfully."
+    },
+    {
+      "tense": "past",
+      "ar": "عَشَّقَ الصَّانِعُ الخَشَبَ فَدَارَتِ السَّاقِيَةُ بِسُكُونٍ عَجِيبٍ.",
+      "de": "Der Meister verzahnte das Holzwerk, und das Schöpfrad drehte sich erstaunlich leise.",
+      "en": "The artisan meshed the woodwork, and the waterwheel turned with wondrous quiet."
+    }
+  ]
+}

@@ -376,5 +376,20 @@
     "path": "assets/images/categories/cat_153_air_compression_vessel.svg",
     "category": "category_153_hydraulic_flutes_and_automata",
     "description": "Cutaway sealed chamber compressing air into acoustic nozzle as water rises"
+  },
+  "cat_154_geared_saqiya": {
+    "path": "assets/images/categories/cat_154_geared_saqiya.svg",
+    "category": "category_154_geared_saqiyas_and_pot_chains",
+    "description": "Right-angle geared saqiya whim mechanism with crown wheel and lantern pinion"
+  },
+  "cat_154_pot_chain": {
+    "path": "assets/images/categories/cat_154_pot_chain.svg",
+    "category": "category_154_geared_saqiyas_and_pot_chains",
+    "description": "Earthenware bucket-chain lashed on palm-fiber ropes hoisting well water"
+  },
+  "cat_154_spiral_scoop": {
+    "path": "assets/images/categories/cat_154_spiral_scoop.svg",
+    "category": "category_154_geared_saqiyas_and_pot_chains",
+    "description": "Archimedean spiral scoop-wheel lifting irrigation water to elevated flume"
   }
 }
