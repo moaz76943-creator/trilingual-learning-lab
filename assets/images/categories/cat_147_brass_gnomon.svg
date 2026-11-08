@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="gnomonGold" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#b78103"/>
+      <stop offset="40%" stop-color="#fbc02d"/>
+      <stop offset="80%" stop-color="#fff59d"/>
+      <stop offset="100%" stop-color="#d4af37"/>
+    </linearGradient>
+  </defs>
+  <!-- Background Mounting Plate -->
+  <rect x="25" y="150" width="150" height="20" rx="3" fill="#5d4037" stroke="#3e2723" stroke-width="2"/>
+  <circle cx="45" cy="160" r="3.5" fill="#ffd54f"/>
+  <circle cx="155" cy="160" r="3.5" fill="#ffd54f"/>
+  <!-- Pierced Openwork Brass Gnomon (Right Triangle with 33.5° Latitude Angle) -->
+  <path d="M 40,150 L 160,150 L 40,65 Z" fill="url(#gnomonGold)" stroke="#3e2723" stroke-width="3"/>
+  <!-- Decorative Cutout Apertures inside Gnomon -->
+  <circle cx="70" cy="125" r="12" fill="#3e2723"/>
+  <circle cx="105" cy="135" r="8" fill="#3e2723"/>
+  <path d="M 52,100 Q 75,90 65,115 Z" fill="#3e2723"/>
+  <!-- Sighting Nodum (Hole at Gnomon Tip) -->
+  <circle cx="48" cy="74" r="3.5" fill="#ffffff" stroke="#3e2723" stroke-width="1.5"/>
+</svg>

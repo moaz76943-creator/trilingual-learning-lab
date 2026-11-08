@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_280_zeiten_einteilen_waqqata",
+  "root": "و - ق - ت",
+  "trilingual": {
+    "ar": {
+      "infinitive": "تَوْقِيتٌ",
+      "past": "وَقَّتَ",
+      "present": "يُوَقِّتُ",
+      "imperative": "وَقِّتْ",
+      "meaning": "حَدَّدَ أَوْقَاتَ اليَوْمِ وَالسَّاعَاتِ الشَّرْعِيَّةِ بِآلاَتِ الظِّلِّ"
+    },
+    "de": {
+      "infinitive": "die Zeit einteilen / zeitlich bestimmen",
+      "past": "teilte die Zeit ein",
+      "present": "teilt die Zeit ein",
+      "perfect": "hat die Zeit eingeteilt",
+      "meaning": "die kanonischen Tages- und Gebetszeiten mit Schatteninstrumenten exakt festlegen"
+    },
+    "en": {
+      "infinitive": "to calibrate / determine canonical hours",
+      "past": "calibrated canonical hours",
+      "present": "calibrates canonical hours",
+      "participle": "calibrated canonical hours",
+      "meaning": "to partition and determine daily temporal and canonical hours using solar shadow instruments"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يُوَقِّتُ ابْنُ الشَّاطِرِ سَاعَاتِ النَّهَارِ بِحِسَابَاتِ المِزْوَلَةِ الشَّامِيَّةِ.",
+      "de": "Ibn asch-Schatir bestimmt die Tageszeiten nach den Berechnungen der damaszenischen Sonnenuhr.",
+      "en": "Ibn al-Shatir calibrates the daytime hours according to calculations of the Damascene sundial."
+    },
+    {
+      "tense": "past",
+      "ar": "وَقَّتَ الفَلَكِيُّ مَوَاعِيدَ الفُصُولِ بِرَصْدِ أَقْصَى بُعْدٍ لِلظِّلِّ فِي الشِّتَاءِ.",
+      "de": "Der Astronom bestimmte die Jahreszeitenwenden durch Beobachtung des maximalen Winterschattens.",
+      "en": "The astronomer determined the seasonal transitions by recording the maximum winter shadow reach."
+    }
+  ]
+}

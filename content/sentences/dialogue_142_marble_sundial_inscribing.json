@@ -1,0 +1,65 @@
+{
+  "dialogue_id": "dialogue_142_marble_sundial_inscribing",
+  "title": {
+    "ar": "نَقْشُ المِزْوَلَةِ الرُّخَامِيَّةِ الأُفُقِيَّةِ لِصَحْنِ الجَامِعِ",
+    "de": "Das Einmeißeln der horizontalen Marmor-Sonnenuhr für den Moscheehof",
+    "en": "Inscribing the Horizontal Marble Sundial for the Mosque Courtyard"
+  },
+  "context": {
+    "ar": "حِوَارٌ فِي صَحْنِ الجَامِعِ الأُمَوِيِّ بَيْنَ المُوَقِّتِ ابْنِ الشَّاطِرِ وَنَحَّاتِ الرُّخَامِ حَوْلَ ضَبْطِ زَاوِيَةِ شَاخِصِ المِزْوَلَةِ وَنَقْشِ خُطُوطِ السَّاعَاتِ الشَّمْسِيَّةِ.",
+    "de": "Ein Gespräch im Innenhof der Umayyaden-Moschee zwischen dem Zeitmesser Ibn asch-Schatir und dem Marmorbildhauer über den Neigungswinkel des Gnomons und das Gravieren der Sonnenlinien.",
+    "en": "A dialogue in the Umayyad Mosque courtyard between the timekeeper Ibn al-Shatir and a marble mason on aligning the gnomon angle and engraving solar hour lines."
+  },
+  "turns": [
+    {
+      "speaker": {
+        "ar": "عَلَاءُ الدِّينِ ابْنُ الشَّاطِرِ (المُوَقِّتُ)",
+        "de": "Ala ad-Din Ibn asch-Schatir (Der Zeitmesser)",
+        "en": "Ala al-Din Ibn al-Shatir (The Timekeeper)"
+      },
+      "ar": "اضْبِطْ زَاوِيَةَ الشَّاخِصِ النُّحَاسِيِّ لِتُطَابِقَ عَرْضَ دِمَشْقَ البَالِغَ ثَلاَثًا وَثَلاَثِينَ دَرَجَةً وَنِصْفًا.",
+      "de": "Richte den Neigungswinkel des Messing-Gnomons exakt auf die geografische Breite von Damaskus mit dreiunddreißigundeinhalb Grad aus.",
+      "en": "Calibrate the angle of the brass gnomon to match Damascus's latitude of thirty-three and a half degrees."
+    },
+    {
+      "speaker": {
+        "ar": "عَبَّاسٌ (نَحَّاتُ الرُّخَامِ)",
+        "de": "Abbas (Der Marmormetz)",
+        "en": "Abbas (The Marble Carver)"
+      },
+      "ar": "لَقَدْ سَوَّيْتُ بَلَاطَةَ الرُّخَامِ بِالمِيزَانِ المَائِيِّ، فَكَيْفَ أَنْقُشُ أَقْوَاسَ بُرْجَيِ الجَدْيِ وَالسَّرَطَانِ؟",
+      "de": "Ich habe die weiße Marmorplatte mit der Wasserwaage nivelliert; wie soll ich nun die Hyperbelbögen für Steinbock und Krebs einmeißeln?",
+      "en": "I leveled the white marble slab with the water level; how shall I carve the hyperbolic arcs for Capricorn and Cancer?"
+    },
+    {
+      "speaker": {
+        "ar": "ابْنُ الشَّاطِرِ",
+        "de": "Ibn asch-Schatir",
+        "en": "Ibn al-Shatir"
+      },
+      "ar": "احْفِرْ قَوْسَ الاِنْقِلابِ الصَّيْفِيِّ أَقْرَبَ إِلَى قَاعِدَةِ الشَّاخِصِ، بَيْنَمَا يَمْتَدُّ قَوْسُ الشِّتَاءِ بَعِيدًا عِنْدَ طَرَفِ البَلَاطَةِ.",
+      "de": "Meißle den Bogen der Sommersonnenwende näher am Fuß des Gnomons ein, während der Winterbogen weit zum Plattenrand reicht.",
+      "en": "Carve the summer solstice hyperbola closer to the gnomon base, while the winter arc extends far toward the edge of the slab."
+    },
+    {
+      "speaker": {
+        "ar": "عَبَّاسٌ",
+        "de": "Abbas",
+        "en": "Abbas"
+      },
+      "ar": "وَبِمَاذَا نَمْلأُ هَذِهِ الشُّقُوقَ المَنْقُوشَةَ لِتَظْهَرَ لِلْمُصَلِّينَ مِنْ بَعِيدٍ؟",
+      "de": "Und womit füllen wir die eingehauenen Rillen aus, damit sie für die Betenden weithin sichtbar leuchten?",
+      "en": "And with what shall we inlay the engraved grooves so they stand out clearly for worshipers from afar?"
+    },
+    {
+      "speaker": {
+        "ar": "ابْنُ الشَّاطِرِ",
+        "de": "Ibn asch-Schatir",
+        "en": "Ibn al-Shatir"
+      },
+      "ar": "نَمْلَؤُهَا بِمَعْجُونِ الرَّصَاصِ الأَسْوَدِ وَالمَصْطَكَى؛ فَيَبْرُزُ خَطُّ الزَّوَالِ حَالِكًا كَالسَّوَادِ فَوْقَ بَيَاضِ المَرْمَرِ النَّاصِعِ.",
+      "de": "Wir füllen sie mit einer Paste aus Bleiglanz und Mastix; dadurch hebt sich die Mittagslinie pechschwarz vom strahlend weißen Marmor ab.",
+      "en": "We fill them with black galena paste and mastic; thus the meridian line stands out jet-black against the radiant white marble."
+    }
+  ]
+}

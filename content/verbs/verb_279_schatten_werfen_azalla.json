@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_279_schatten_werfen_azalla",
+  "root": "ظ - ل - ل",
+  "trilingual": {
+    "ar": {
+      "infinitive": "إِظْلَالٌ",
+      "past": "أَظَلَّ",
+      "present": "يُظِلُّ",
+      "imperative": "أَظْلِلْ",
+      "meaning": "أَلْقَى الظِّلَّ فَوْقَ سَطْحِ المِزْوَلَةِ لِبَيَانِ الوَقْتِ"
+    },
+    "de": {
+      "infinitive": "Schatten werfen",
+      "past": "warf Schatten",
+      "present": "wirft Schatten",
+      "perfect": "hat Schatten geworfen",
+      "meaning": "einen gerichteten Zeigerschatten auf das Zifferblatt der Sonnenuhr werfen"
+    },
+    "en": {
+      "infinitive": "to cast a shadow",
+      "past": "cast a shadow",
+      "present": "casts a shadow",
+      "participle": "cast a shadow",
+      "meaning": "to project a slender pointer shadow across the dial surface to indicate solar time"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يُظِلُّ رَأْسُ الشَّاخِصِ دَائِرَةَ الزَّوَالِ فِي تَمَامِ الِانْتِصَافِ.",
+      "de": "Die Gnomonspitze beschattet die Meridianlinie exakt am wahren Mittag.",
+      "en": "The gnomon tip casts its shadow precisely upon the meridian at true solar noon."
+    },
+    {
+      "tense": "past",
+      "ar": "أَظَلَّ المِعْيَارُ النُّحَاسِيُّ قَوْسَ العَصْرِ فَاسْتَعَدَّ أَهْلُ السُّوقِ لِلصَّلَاةِ.",
+      "de": "Der Messingzeiger beschattete den Asr-Bogen, und die Händler rüsteten sich zum Gebet.",
+      "en": "The brass pointer cast a shadow over the Asr arc, prompting merchants to prepare for prayer."
+    }
+  ]
+}

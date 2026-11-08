@@ -1,0 +1,52 @@
+{
+  "category_id": "category_147_sundials_and_gnomon_shadows",
+  "title": {
+    "ar": "المَزَاوِلُ الرُّخَامِيَّةُ وَشَوَاخِصُ الظِّلِّ الشَّمْسِيَّةُ",
+    "de": "Marmor-Sonnenuhren und Schattenwerfer (Gnomone)",
+    "en": "Marble Sundials and Solar Shadow Gnomons"
+  },
+  "level": "B1",
+  "description": {
+    "ar": "مُصْطَلَحَاتُ المَزَاوِلِ الأُفُقِيَّةِ، وَشَوَاخِصِ الرَّصْدِ الشَّمْسِيِّ، وَأَقْوَاسِ الانْقِلابَيْنِ، وَخُطُوطِ الزَّوَالِ فِي العِمَارَةِ الإِسْلَامِيَّةِ.",
+    "de": "Fachwortschatz zu horizontalen Sonnenuhren, Gnomonen, Hyperbelkurven der Sonnenwenden und Meridianlinien in der klassischen Architektur.",
+    "en": "Terminology of horizontal sundials, gnomons, solstitial declination hyperbolas, and meridian lines in classical architectural horology."
+  },
+  "vocabulary": [
+    {
+      "id": "term_147_01",
+      "ar": "المِزْوَلَةُ الرُّخَامِيَّةُ الأُفُقِيَّةُ",
+      "de": "die horizontale Marmor-Sonnenuhr",
+      "en": "horizontal marble sundial",
+      "phonetic_ar": "al-mizwalatu ar-rukhāmiyyatu al-'ufuqiyyah",
+      "example": {
+        "ar": "تَسْتَقِرُّ المِزْوَلَةُ الرُّخَامِيَّةُ الأُفُقِيَّةُ فِي صَحْنِ الجَامِعِ لِتَحْدِيدِ المَوَاقِيتِ بِالنُّورِ الطَّبِيعِيِّ.",
+        "de": "Die horizontale Marmor-Sonnenuhr ruht im Moscheehof zur Bestimmung der Gebetszeiten nach dem natürlichen Sonnenlicht.",
+        "en": "The horizontal marble sundial rests in the mosque courtyard to determine prayer times by natural solar light."
+      }
+    },
+    {
+      "id": "term_147_02",
+      "ar": "شَاخِصُ الظِّلِّ النُّحَاسِيُّ",
+      "de": "der messingen Schattenstab (Gnomon)",
+      "en": "triangular brass gnomon",
+      "phonetic_ar": "shākhiṣu aẓ-ẓilli an-nuḥāsiyy",
+      "example": {
+        "ar": "يَرْمِي شَاخِصُ الظِّلِّ النُّحَاسِيُّ خَيْطًا مِنَ الظِّلَالِ يُحَدِّدُ حَرَكَةَ السَّاعَاتِ الشَّمْسِيَّةِ.",
+        "de": "Der messingene Schattenstab wirft einen feinen Schattenfaden, der den Lauf der Sonnenstunden markiert.",
+        "en": "The triangular brass gnomon casts a slender shadow that delineates the course of solar hours."
+      }
+    },
+    {
+      "id": "term_147_03",
+      "ar": "خَطُّ نِصْفِ النَّهَارِ المَنْقُوشُ",
+      "de": "die eingemeißelte Mittagslinie (der Meridian)",
+      "en": "inscribed meridian line",
+      "phonetic_ar": "khaṭṭu niṣfi an-nahāri al-manqūsh",
+      "example": {
+        "ar": "عِنْدَمَا يَتَطَابَقُ ظِلُّ الشَّاخِصِ مَعَ خَطِّ نِصْفِ النَّهَارِ المَنْقُوشِ، يَبْدَأُ وَقْتُ الظُّهْرِ الشَّرْعِيُّ.",
+        "de": "Sobald der Gnomonschatten mit der eingemeißelten Mittagslinie zusammenfällt, beginnt die Mittagsgebetszeit.",
+        "en": "When the gnomon shadow aligns with the inscribed meridian line, the canonical midday period commences."
+      }
+    }
+  ]
+}
