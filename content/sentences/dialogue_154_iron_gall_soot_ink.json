@@ -1,0 +1,65 @@
+{
+  "dialogue_id": "dialogue_154_iron_gall_soot_ink",
+  "title": {
+    "ar": "طَبْخُ حِبْرِ العَفْصِ وَعَجْنُ السِّخَامِ فِي القَاهِرَةِ المَمْلُوكِيَّةِ",
+    "de": "Das Sieden der Galläpfeltinte und Kneten des Lampenrußes im Kairo der Mamluken",
+    "en": "Brewing Oak Gall Ink and Kneading Lampblack Soot in Mamluk Cairo"
+  },
+  "context": {
+    "ar": "حِوَارٌ فِي خِزَانَةِ الكُتُبِ فِي القَاهِرَةِ بَيْنَ شَيْخِ الحَبَّارِينَ وَخَطَّاطٍ شَابٍّ حَوْلَ غَلْيِ ثِمَارِ العَفْصِ وَإِضَافَةِ مَاءِ الصَّمْغِ النَّقِيِّ لِتَحْضِيرِ حِبْرِ المَصَاحِفِ.",
+    "de": "Ein Gespräch in der Hofschreiberei in Kairo zwischen dem Tintenmeister und einem jungen Kalligraphen über das Kochen von Galläpfeln und die Zugabe von reinem Gummiwasser für Korantinten.",
+    "en": "A dialogue in the scribal quarters of Cairo between the master inkmaker and a young calligrapher on boiling gallnuts and blending purified gum arabic for Quranic manuscripts."
+  },
+  "turns": [
+    {
+      "speaker": {
+        "ar": "المُعَلِّمُ شَمْسُ الدِّينِ (الحَبَّارُ)",
+        "de": "Meister Schams ad-Din (Der Tintenmeister)",
+        "en": "Master Shams al-Din (The Inkmaker)"
+      },
+      "ar": "اطْبُخْ مَسْحُوقَ العَفْصِ فِي مَاءِ المَطَرِ عَلَى نَارٍ لَيِّنَةٍ، حَتَّى يَذْهَبَ ثُلُثَا المَاءِ وَيَثْخُنَ قِوَامُ الدِّبَاغِ.",
+      "de": "Koche das Galläpfelpulver in reinem Regenwasser über sanftem Feuer, bis zwei Drittel der Flüssigkeit verdampft sind und die Gerbsäure eindickt.",
+      "en": "Boil the powdered gallnuts in rainwater over gentle embers until two-thirds of the fluid evaporates and the tannin thickens."
+    },
+    {
+      "speaker": {
+        "ar": "عَلِيٌّ (الخَطَّاطُ)",
+        "de": "Ali (Der Kalligraph)",
+        "en": "Ali (The Calligrapher)"
+      },
+      "ar": "كَيْفَ نَضْبِطُ مِقْدَارَ الزَّاجِ حَتَّى لا يُحْرِقَ الحِمْضُ صَفَحَاتِ الكَاغَدِ بَعْدَ حِينٍ؟",
+      "de": "Wie bemessen wir das grüne Vitriol genau, damit die Säure das kostbare Papier später nicht zerfrisst?",
+      "en": "How do we balance the vitriol proportion so the acidity does not corrode the precious paper sheets over time?"
+    },
+    {
+      "speaker": {
+        "ar": "شَمْسُ الدِّينِ",
+        "de": "Schams ad-Din",
+        "en": "Shams al-Din"
+      },
+      "ar": "نَجْعَلُ لِكُلِّ ثَلاَثَةِ أَجْزَاءٍ مِنَ العَفْصِ جُزْءًا وَاحِدًا مِنَ الزَّاجِ، مَعَ جُزْءٍ مِنَ الصَّمْغِ العَرَبِيِّ؛ فَيَعْتَدِلُ المَزَاجُ وَيَأْمَنُ الكَاغَدُ.",
+      "de": "Auf drei Teile Gallapfelsud geben wir genau einen Teil Vitriol und einen Teil Gummi arabicum; so ist das Gleichgewicht gewahrt und das Papier sicher.",
+      "en": "To three parts gallnut decoction we add exactly one part vitriol and one part gum arabic; thus the temperament balances and the paper remains safe."
+    },
+    {
+      "speaker": {
+        "ar": "عَلِيٌّ",
+        "de": "Ali",
+        "en": "Ali"
+      },
+      "ar": "وَهَلْ نَخْلِطُ مَعَهُ سِخَامَ زَيْتِ السِّمْسِمِ لِيَمْنَحَ الحِبْرَ سَوَادًا لَيْلِيًّا فَاخِرًا؟",
+      "de": "Und mischen wir feinsten Ruß aus Sesamöl bei, um der Tinte ein tiefes samtschwarzes Leuchten zu verleihen?",
+      "en": "And do we blend in sesame lampblack soot to endow the ink with a deep, velvety nocturnal blackness?"
+    },
+    {
+      "speaker": {
+        "ar": "شَمْسُ الدِّينِ",
+        "de": "Schams ad-Din",
+        "en": "Shams al-Din"
+      },
+      "ar": "نَعَمْ؛ لِيَجْمَعَ بَيْنَ عُمْقِ السَّوَادِ الكَرْبُونِيِّ وَثَبَاتِ الرَّابِطِ الكِيمْيَائِيِّ؛ فَتَظْهَرَ الآيَاتُ نَيِّرَةً شَامِخَةً تَسْلَمُ مِنَ المَحْوِ أَبَدَ الدَّهْرِ.",
+      "de": "Ja; um die Tiefe des Kohlenstoffschwarz mit der unauflöslichen Bindung der Eisengallustinte zu vereinen; so trotzen die Verse jedem Verblassen auf ewig.",
+      "en": "Yes; uniting the depth of carbon black with the permanent molecular bond of iron gall; thus the verses endure unfading forever."
+    }
+  ]
+}

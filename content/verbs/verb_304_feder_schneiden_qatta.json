@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_304_feder_schneiden_qatta",
+  "root": "ق - ط - ط",
+  "trilingual": {
+    "ar": {
+      "infinitive": "قَطٌّ",
+      "past": "قَطَّ",
+      "present": "يَقُطُّ",
+      "imperative": "قُطَّ",
+      "meaning": "قَطَعَ رَأْسَ قَلَمِ القَصَبِ قَطْعًا مَائِلًا مُسْتَوِيًا عَلَى المِقَطَّةِ"
+    },
+    "de": {
+      "infinitive": "die Schreibfeder schräg zuschneiden",
+      "past": "schnitt die Feder zu",
+      "present": "schneidet die Feder zu",
+      "perfect": "hat die Feder zugeschnitten",
+      "meaning": "die Spitze einer Rohrfeder auf dem Schneidebrettchen im exakten Schreibwinkel kappen"
+    },
+    "en": {
+      "infinitive": "to cut the reed nib / bevel a pen tip",
+      "past": "cut the reed nib",
+      "present": "cuts the reed nib",
+      "participle": "cut the reed nib",
+      "meaning": "to slice and bevel the nib of a reed pen against a cutting bone to the precise angle"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يَقُطُّ الخَطَّاطُ قَلَمَهُ بِشَفْرَةٍ حَادَّةٍ كَحَدِّ السَّيْفِ.",
+      "de": "Der Kalligraph schneidet seine Rohrfeder mit einer rasiermesserscharfen Klinge zu.",
+      "en": "The calligrapher bevels his reed pen with a blade as keen as a sword."
+    },
+    {
+      "tense": "past",
+      "ar": "قَطَّ الشَّيْخُ رَأْسَ القَصَبَةِ قَطًّا مُحَرَّفًا لِيَضْبِطَ حُرُوفَ النَّسْخِ.",
+      "de": "Der Meister schnitt die Federspitze schräg zu, um den Naskh-Schriftzug zu vollenden.",
+      "en": "The master cut the reed tip obliquely to balance the Naskh lettering."
+    }
+  ]
+}

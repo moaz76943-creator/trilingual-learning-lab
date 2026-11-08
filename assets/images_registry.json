@@ -436,5 +436,20 @@
     "path": "assets/images/categories/cat_158_envelope_flap.svg",
     "category": "category_158_bookbinding_and_blind_tooling",
     "description": "Pentagonal protective leather envelope flap with gilded arabesque borders"
+  },
+  "cat_159_gall_ink_bottle": {
+    "path": "assets/images/categories/cat_159_gall_ink_bottle.svg",
+    "category": "category_159_inks_and_calligraphy_tools",
+    "description": "Ceramic flask of Aleppo oak gall ink beside green vitriol and gallnut"
+  },
+  "cat_159_bronze_inkwell": {
+    "path": "assets/images/categories/cat_159_bronze_inkwell.svg",
+    "category": "category_159_inks_and_calligraphy_tools",
+    "description": "Faceted bronze calligrapher's inkwell with raw silk wad and Kufic band"
+  },
+  "cat_159_reed_pen_qalam": {
+    "path": "assets/images/categories/cat_159_reed_pen_qalam.svg",
+    "category": "category_159_inks_and_calligraphy_tools",
+    "description": "Obliquely beveled reed calligraphy pen with slit nib and cutting bone"
   }
 }

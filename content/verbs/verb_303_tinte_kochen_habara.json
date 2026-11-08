@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_303_tinte_kochen_habara",
+  "root": "ح - ب - ر",
+  "trilingual": {
+    "ar": {
+      "infinitive": "تَحْبِيرٌ",
+      "past": "حَبَّرَ",
+      "present": "يُحَبِّرُ",
+      "imperative": "حَبِّرْ",
+      "meaning": "طَبَخَ الحِبْرَ وَصَفَّاهُ بِإِتْقَانٍ، أَوْ جَمَّلَ الخَطَّ وَالكِتَابَةَ"
+    },
+    "de": {
+      "infinitive": "Tinte sieden / veredeln",
+      "past": "siedete Tinte",
+      "present": "siedet Tinte",
+      "perfect": "hat Tinte gesiedet",
+      "meaning": "Schreibtinte nach ausgewogenen Rezepturen kochen und veredeln"
+    },
+    "en": {
+      "infinitive": "to brew ink / pen beautifully",
+      "past": "brewed ink",
+      "present": "brews ink",
+      "participle": "brewed ink",
+      "meaning": "to formulate and boil manuscript ink, or to inscribe calligraphy beautifully"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يُحَبِّرُ الصَّانِعُ مِدَادَ الرَّسَائِلِ بِدُهْنِ الجَوْزِ وَالعَفْصِ.",
+      "de": "Der Meister siedet Tinte für offizielle Briefe aus Nussöl und Galläpfeln.",
+      "en": "The artisan brews correspondence ink from nut oil and gallnuts."
+    },
+    {
+      "tense": "past",
+      "ar": "حَبَّرَ الوَرَّاقُ الصَّحِيفَةَ بِخَطِّ الثُّلُثِ الجَلِيِّ.",
+      "de": "Der Kalligraph veredelte das Blatt mit erhabener Thuluth-Schrift.",
+      "en": "The scribe penned the folio in majestic illuminated Thuluth script."
+    }
+  ]
+}

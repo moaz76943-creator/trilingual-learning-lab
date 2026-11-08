@@ -1,0 +1,52 @@
+{
+  "category_id": "category_159_inks_and_calligraphy_tools",
+  "title": {
+    "ar": "الأَحْبَارُ التُّرَاثِيَّةُ وَمَحَابِرُ النُّحَاسِ وَأَقْلاَمُ القَصَبِ",
+    "de": "Historische Tinten, bronzene Tintenfässer und Rohrfedern",
+    "en": "Traditional Inks, Bronze Inkwells and Reed Calligraphy Pens"
+  },
+  "level": "B1",
+  "description": {
+    "ar": "مُصْطَلَحَاتُ صِنَاعَةِ حِبْرِ العَفْصِ وَالسِّخَامِ، وَمَحَابِرِ النُّحَاسِ ذَاتِ اللِّيقَةِ الحَرِيرِيَّةِ، وَبَرْيِ أَقْلاَمِ القَصَبِ فِي تُرَاثِ الخَطِّ العَرَبِيِّ.",
+    "de": "Fachbegriffe zur Herstellung von Eisengallustinten, Lampenruß, bronzenen Tintenfässern mit Seidenflocke (Liqah) und dem Zuschneiden von Schilfrohrfedern.",
+    "en": "Terminology of iron gall and carbon soot inks, bronze inkwells with silk wads, and reed pen cutting in Arabic calligraphic heritage."
+  },
+  "vocabulary": [
+    {
+      "id": "term_159_01",
+      "ar": "حِبْرُ العَفْصِ وَالزَّاجِ التُّرَاثِيُّ",
+      "de": "die traditionelle Eisengallustinte",
+      "en": "classical iron gall and vitriol ink",
+      "phonetic_ar": "ḥibru al-'afṣi waz-zāji at-turāthiyy",
+      "example": {
+        "ar": "يَمْتَازُ حِبْرُ العَفْصِ وَالزَّاجِ التُّرَاثِيُّ بِقُوَّةِ تَغَلْغُلِهِ فِي صَفَحَاتِ الكَاغَدِ دُونَ أَنْ يَمْحُوَهُ المَاءُ.",
+        "de": "Die traditionelle Eisengallustinte dringt tief in das Papiergewebe ein und widersteht selbst Wasser.",
+        "en": "Classical iron gall ink penetrates deeply into paper leaves, resisting erasure even by water."
+      }
+    },
+    {
+      "id": "term_159_02",
+      "ar": "المَحْبَرَةُ النُّحَاسِيَّةُ ذَاتُ اللِّيقَةِ",
+      "de": "das bronzene Tintenfass mit Seidenflocke (Liqah)",
+      "en": "bronze inkwell with silk wad (liqah)",
+      "phonetic_ar": "al-maḥbaratu an-nuḥāsiyyatu dhātu al-līqah",
+      "example": {
+        "ar": "تَمْنَعُ لِيقَةُ الحَرِيرِ دَاخِلَ المَحْبَرَةِ انْسِكَابَ المِدَادِ وَتَضْبِطُ مِقْدَارَ مَا يَعْلَقُ بِسِنِّ القَلَمِ.",
+        "de": "Die Seidenflocke im Tintenfass verhindert das Verschütten und dosiert den Tintenfluss an der Schreibfeder.",
+        "en": "The raw silk wad inside the inkwell prevents spillage and regulates the volume of ink clinging to the nib."
+      }
+    },
+    {
+      "id": "term_159_03",
+      "ar": "قَلَمُ القَصَبِ المَقْطُوطُ",
+      "de": "die schräg zugeschnittene Rohrfeder (der Qalam)",
+      "en": "obliquely cut reed calligraphy pen (qalam)",
+      "phonetic_ar": "qalamu al-qaṣabi al-maqṭūṭ",
+      "example": {
+        "ar": "يَشُقُّ الخَطَّاطُ سِنَّ قَلَمِ القَصَبِ المَقْطُوطِ شَقًّا رَفِيعًا لِيُسْرِبَ المِدَادَ بِسَلاَسَةٍ عَلَى صَفْحَةِ الوَرَقِ.",
+        "de": "Der Kalligraph ritzt einen feinen Spalt in die Rohrfederspitze, damit die Tinte sanft auf den Bogen gleitet.",
+        "en": "The calligrapher slits the tip of the obliquely cut reed pen to ensure smooth ink flow onto the page."
+      }
+    }
+  ]
+}
