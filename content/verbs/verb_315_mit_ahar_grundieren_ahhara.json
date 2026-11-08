@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_315_mit_ahar_grundieren_ahhara",
+  "root": "ء - ه - ر",
+  "trilingual": {
+    "ar": {
+      "infinitive": "تَأْهِيرٌ",
+      "past": "آهَرَ",
+      "present": "يُؤَهِّرُ",
+      "imperative": "آهِرْ",
+      "meaning": "طَلَى الكَاغَدَ بِمَحْلُولِ الآهَارِ النَّشَوِيِّ لِيَصِيرَ صَالِحًا لِلْكِتَابَةِ الفَاخِرَةِ"
+    },
+    "de": {
+      "infinitive": "mit Ahar grundieren / stärken",
+      "past": "grundierte mit Ahar",
+      "present": "grundiert mit Ahar",
+      "perfect": "hat mit Ahar grundiert",
+      "meaning": "Papierbogen mit Stärke- und Eiweißschlichte beschichten und glätten"
+    },
+    "en": {
+      "infinitive": "to size with Ahar / glaze paper",
+      "past": "sized with Ahar",
+      "present": "sizes with Ahar",
+      "participle": "sized with Ahar",
+      "meaning": "to coat paper with rice starch and egg-white glaze to prepare it for master calligraphy"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يُؤَهِّرُ الوَرَّاقُ صَحَائِفَ المَخْطُوطِ قَبْلَ تَسْلِيمِهَا لِلْخَطَّاطِ.",
+      "de": "Der Buchkünstler grundiert die Bogen mit Ahar, bevor er sie dem Kalligraphen übergibt.",
+      "en": "The papermaker sizes the manuscript folios with Ahar before handing them to the scribe."
+    },
+    {
+      "tense": "past",
+      "ar": "آهَرَ الصَّانِعُ الوَرَقَ ثَلاَثَ مَرَّاتٍ لِيَغْدُوَ كَالزُّجَاجِ الصَّافِي.",
+      "de": "Der Handwerker schlichtete das Papier dreimal, bis es wie klares Glas glänzte.",
+      "en": "The artisan sized the paper three times until it gleamed like clear glass."
+    }
+  ]
+}

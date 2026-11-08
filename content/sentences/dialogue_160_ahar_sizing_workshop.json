@@ -1,0 +1,65 @@
+{
+  "dialogue_id": "dialogue_160_ahar_sizing_workshop",
+  "title": {
+    "ar": "طَبْخُ نَشَا الأَرُزِّ وَخَفْقُ زُلاَلِ البَيْضِ لِتَهْيِئَةِ الكَاغَدِ فِي شِيرَازَ",
+    "de": "Das Kochen von Reisstärke und Schlagen von Eiweiß für die Ahar-Grundierung in Schiraz",
+    "en": "Cooking Rice Starch and Whipping Egg White Glaze for Ahar Sizing in Shiraz"
+  },
+  "context": {
+    "ar": "حِوَارٌ فِي مَشْغَلِ الوِرَاقَةِ فِي شِيرَازَ بَيْنَ خَبِيرِ الآهَارِ وَمُسَاعِدِهِ حَوْلَ غَلْيِ طَحِينِ الأَرُزِّ الأَبْيَضِ وَمَزْجِهِ بِبَيَاضِ البَيْضِ المَخْفُوقِ بِالشَّبَّةِ لِصَقْلِ صَفَحَاتِ المَخْطُوطِ.",
+    "de": "Ein Gespräch in der Papierschlichte-Werkstatt in Schiraz zwischen dem Ahar-Meister und seinem Gehilfen über das Kochen von Reismehlbrei und das Klären von Eiweiß mit Alaun zur Bogenveredelung.",
+    "en": "A dialogue in the Shiraz sizing atelier between the Ahar master and his assistant on boiling white rice starch and blending it with alum-whipped egg whites to coat manuscript folios."
+  },
+  "turns": [
+    {
+      "speaker": {
+        "ar": "المُعَلِّمُ مِيرْزَا حُسَيْنٌ (خَبِيرُ الآهَارِ)",
+        "de": "Meister Mirza Husain (Der Ahar-Meister)",
+        "en": "Master Mirza Husain (The Ahar Sizer)"
+      },
+      "ar": "اطْبُخْ نَشَا الأَرُزِّ فِي المَاءِ النَّقِيِّ حَتَّى يَصِيرَ هُلاَمًا رَائِقًا شَفَّافًا لا كُتَلَ فِيهِ.",
+      "de": "Koche die Reisstärke in reinem Quellwasser, bis ein vollkommen klarer, klumpenfreier Schlichtebrei entsteht.",
+      "en": "Cook the rice starch in pure water until it forms a crystal-clear, translucent jelly free of any lumps."
+    },
+    {
+      "speaker": {
+        "ar": "فَرْهَادٌ (المُتَدَرِّبُ)",
+        "de": "Farhad (Der Geselle)",
+        "en": "Farhad (The Apprentice)"
+      },
+      "ar": "كَيْفَ أُصَفِّي زُلاَلَ البَيْضِ حَتَّى لا يَتْرُكَ لَزُوجَةً كَدِرَةً فَوْقَ صَفْحَةِ الكَاغَدِ؟",
+      "de": "Wie kläre ich das Eiweiß, damit es keinen trüben Schleim auf der Papieroberfläche hinterlässt?",
+      "en": "How do I clarify the egg whites so they leave no cloudy residue upon the paper surface?"
+    },
+    {
+      "speaker": {
+        "ar": "مِيرْزَا حُسَيْنٌ",
+        "de": "Mirza Husain",
+        "en": "Mirza Husain"
+      },
+      "ar": "اخْفِقْهُ مَعَ قِطْعَةٍ صَغِيرَةٍ مِنْ شَبَّةِ الفُؤَادِ حَتَّى يَرْغُوَ كَالثَّلْجِ، ثُمَّ دَعْهُ يَرْقُدُ لَيْلَةً كَامِلَةً فَتَنْفَصِلَ المِيَاهُ الصَّافِيَةُ.",
+      "de": "Schlage es mit einer Prise Alaun, bis es wie Schnee schäumt, und lass es über Nacht ruhen; am Morgen schöpfst du den klaren Saft ab.",
+      "en": "Whip it with a pinch of alum until it froths like snow, then let it rest overnight; by morning, the pure clarified liquid separates."
+    },
+    {
+      "speaker": {
+        "ar": "فَرْهَادٌ",
+        "de": "Farhad",
+        "en": "Farhad"
+      },
+      "ar": "وَبِمَاذَا نَمْسَحُ الوَرَقَ بِهَذَا الطِّلَاءِ دُونَ أَنْ تَتَجَعَّدَ أَطْرَافُهُ؟",
+      "de": "Und womit streichen wir die Schlichte auf das Papier, ohne dass sich die Ränder werfen?",
+      "en": "And with what do we brush the glaze onto the paper so the margins do not wrinkle?"
+    },
+    {
+      "speaker": {
+        "ar": "مِيرْزَا حُسَيْنٌ",
+        "de": "Mirza Husain",
+        "en": "Mirza Husain"
+      },
+      "ar": "بِقِطْعَةِ حَرِيرٍ نَاعِمَةٍ فِي اتِّجَاهٍ وَاحِدٍ، ثُمَّ نَمُدُّهُ عَلَى لَوْحِ الإِجَّاصِ لِنَصْقُلَهُ بِالعَقِيقِ؛ فَيَصِيرَ كَالعَاجِ الصَّقِيلِ يَسْتَقْبِلُ المِدَادَ بِعِزَّةٍ.",
+      "de": "Mit einem weichen Seidentuch in gleichmäßigem Zug; dann spannen wir den Bogen auf Birnbaumholz und glätten ihn mit Achat, bis er wie poliertes Elfenbein strahlt.",
+      "en": "With a soft silk cloth in a single uniform stroke, then lay it upon the pearwood board to burnish with agate; thus it turns like polished ivory, receiving the ink with noble grace."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_316_poren_schliessen_tannasa",
+  "root": "ط - ن - س",
+  "trilingual": {
+    "ar": {
+      "infinitive": "تَطْنِيسٌ / سَدٌّ",
+      "past": "طَنَّسَ",
+      "present": "يُطَنِّسُ",
+      "imperative": "طَنِّسْ",
+      "meaning": "سَدَّ مَسَامَ الكَاغَدِ بِالصَّقْلِ وَالغِرَاءِ فَلَمْ يَبْقَ فِيهِ مَنْفَذٌ لِلْحِبْرِ"
+    },
+    "de": {
+      "infinitive": "Poren versiegeln / porendicht machen",
+      "past": "versiegelte die Poren",
+      "present": "versiegelt die Poren",
+      "perfect": "hat die Poren versiegelt",
+      "meaning": "die mikroskopischen Fasern des Papiers durch Leimung und Reibung vollkommen verdichten"
+    },
+    "en": {
+      "infinitive": "to seal pores / occlude paper fibers",
+      "past": "sealed pores",
+      "present": "seals pores",
+      "participle": "sealed pores",
+      "meaning": "to compress and close the microscopic pores of paper through sizing and burnishing"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يُطَنِّسُ حَجَرُ العَقِيقِ سَطْحَ الوَرَقَةِ فَيَمْنَعُ تَشَرُّبَ السَّوَائِلِ.",
+      "de": "Der Achatstein versiegelt die Poren des Papiers und verhindert das Aufsaugen von Flüssigkeit.",
+      "en": "The agate stone seals the paper pores, preventing liquid absorption."
+    },
+    {
+      "tense": "past",
+      "ar": "طَنَّسَ الكَاغَدِيُّ الأَلْيَافَ فَجَرَى المِدَادُ عَلَيْهَا دُونَ أَنْ يَنْفُذَ لِلظَّهْرِ.",
+      "de": "Der Papiermacher versiegelte die Fasern, und die Tinte floss, ohne auf die Rückseite durchzuschlagen.",
+      "en": "The papermaker occluded the fibers, and the ink flowed without bleeding to the reverse."
+    }
+  ]
+}

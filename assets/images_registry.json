@@ -526,5 +526,20 @@
     "path": "assets/images/categories/cat_164_horsehair_brush.svg",
     "category": "category_164_paper_marbling_and_ebru",
     "description": "Horsehair brush on rosewood stem flicking carmine pigment drops"
+  },
+  "cat_165_ahar_glaze_bowl": {
+    "path": "assets/images/categories/cat_165_ahar_glaze_bowl.svg",
+    "category": "category_165_ahar_sizing_and_glazes",
+    "description": "Turquoise ceramic bowl containing rice starch and egg-white Ahar glaze with sponge"
+  },
+  "cat_165_burnishing_board": {
+    "path": "assets/images/categories/cat_165_burnishing_board.svg",
+    "category": "category_165_ahar_sizing_and_glazes",
+    "description": "Smooth planed pearwood plank supporting clamped paper leaf for agate burnishing"
+  },
+  "cat_165_sized_paper_folio": {
+    "path": "assets/images/categories/cat_165_sized_paper_folio.svg",
+    "category": "category_165_ahar_sizing_and_glazes",
+    "description": "Burnished ivory Ahar-sized paper leaf with razor-sharp calligraphy strokes"
   }
 }

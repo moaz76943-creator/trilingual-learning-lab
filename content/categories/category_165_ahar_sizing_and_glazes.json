@@ -1,0 +1,52 @@
+{
+  "category_id": "category_165_ahar_sizing_and_glazes",
+  "title": {
+    "ar": "طِلاَءُ الآهَارِ النَّشَوِيُّ وَأَلْوَاحُ الصَّقْلِ الخَشَبِيَّةُ",
+    "de": "Ahar-Papierschlichte, Reisstärkeglasur und Glättbretter",
+    "en": "Ahar Paper Sizing, Starch Glazes and Burnishing Boards"
+  },
+  "level": "B1",
+  "description": {
+    "ar": "مُصْطَلَحَاتُ تَهْيِئَةِ أَوْرَاقِ المَخْطُوطَاتِ بِالآهَارِ، وَطَبْخِ نَشَا الأَرُزِّ، وَتَصْفِيَةِ زُلاَلِ البَيْضِ، وَأَلْوَاحِ صَقْلِ الكَاغَدِ فِي شِيرَازَ وَإِصْفَهَانَ.",
+    "de": "Fachbegriffe zur Ahar-Papierschlichte, Reisstärkebrei, geklärtem Eiweißfirnis und Hartholz-Glättbrettern der klassischen Buchmanufakturen von Schiraz und Isfahan.",
+    "en": "Terminology of manuscript Ahar sizing, rice starch decoction, clarified egg-white glaze, and hardwood burnishing boards in Shiraz and Isfahan."
+  },
+  "vocabulary": [
+    {
+      "id": "term_165_01",
+      "ar": "طِلاَءُ الآهَارِ النَّشَوِيُّ",
+      "de": "die stärkehaltige Ahar-Schlichte (die Papierglasur)",
+      "en": "rice starch and egg-white Ahar glaze",
+      "phonetic_ar": "ṭilā'u al-'āhāri an-nashawiyy",
+      "example": {
+        "ar": "يَسُدُّ طِلاَءُ الآهَارِ النَّشَوِيُّ مَسَامَ الكَاغَدِ فَيَمْنَعُ انْتِشَارَ المِدَادِ خَارِجَ رَسْمِ الحَرْفِ.",
+        "de": "Die stärkehaltige Ahar-Schlichte versiegelt die Papierporen und verhindert das Auslaufen der Tinte über den Strich hinaus.",
+        "en": "The rice starch Ahar glaze seals paper pores, preventing ink from bleeding beyond the letterform outline."
+      }
+    },
+    {
+      "id": "term_165_02",
+      "ar": "لَوْحُ الصَّقْلِ الخَشَبِيُّ الأَمْلَسُ",
+      "de": "das glatte Hartholz-Glättbrett (aus Birnbaum)",
+      "en": "smooth hardwood paper-burnishing board",
+      "phonetic_ar": "lawḥu aṣ-ṣaqli al-khashabiyyu al-'amlas",
+      "example": {
+        "ar": "يَسْتَقِرُّ الكَاغَدُ فَوْقَ لَوْحِ الصَّقْلِ الخَشَبِيِّ الأَمْلَسِ لِيَتَحَمَّلَ ضَغْطَ حَجَرِ العَقِيقِ دُونَ تَمَزُّقٍ.",
+        "de": "Das Papier ruht auf dem glatten Hartholzbrett, um dem Druck des Achatsteins ohne Reißen standzuhalten.",
+        "en": "The paper rests upon the smooth hardwood board to sustain the pressure of the agate stone without tearing."
+      }
+    },
+    {
+      "id": "term_165_03",
+      "ar": "صَفْحَةُ الكَاغَدِ المُؤَهَّرَةُ",
+      "de": "der mit Ahar veredelte Papierbogen",
+      "en": "Ahar-sized ink-proof paper folio",
+      "phonetic_ar": "ṣafḥatu al-kāghadi al-mu'ahharah",
+      "example": {
+        "ar": "تَمْتَازُ صَفْحَةُ الكَاغَدِ المُؤَهَّرَةُ بِمَلْمَسٍ كَالحَرِيرِ يُمْكِنُ كَشْطُ الخَطَأِ عَنْهَا بِلِسَانِ المِبْضَعِ.",
+        "de": "Der mit Ahar veredelte Bogen zeichnet sich durch seidenglatte Haptik aus, von der sich Schreibfehler mit der Klinge tilgen lassen.",
+        "en": "The Ahar-sized folio features a silk-like touch, allowing scribal errors to be erased from its surface with a scalpel."
+      }
+    }
+  ]
+}
