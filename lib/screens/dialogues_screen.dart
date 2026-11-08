@@ -25,10 +25,10 @@ class _DialoguesScreenState extends State<DialoguesScreen> {
   Future<void> _loadDialogues() async {
     try {
       final jsonString = await rootBundle.loadString('content/dialogues/dialogues_a1.json');
-      final Map<String, dynamic> data = jsonDecode(jsonString);
-      final List list = data['dialogues'] ?? [];
+      final Map<String, dynamic> data = jsonDecode(jsonString) as Map<String, dynamic>;
+      final List<dynamic> list = (data['dialogues'] as List<dynamic>?) ?? const <dynamic>[];
       setState(() {
-        _dialogues = list.map((item) => DialogueModel.fromJson(item)).toList();
+        _dialogues = list.map((item) => DialogueModel.fromJson(item as Map<String, dynamic>)).toList();
         _isLoading = false;
       });
     } catch (_) {
