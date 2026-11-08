@@ -1,5 +1,6 @@
 import 'dart:async';
 import '../storage/secure_storage_service.dart';
+import '../assets/asset_index_database.dart';
 import '../../data/unified_content_repository.dart';
 import '../../features/settings/presentation/language_controller.dart';
 import '../../features/search/presentation/controllers/search_controller.dart';
@@ -65,6 +66,9 @@ Future<void> initDependencies() async {
   // 1. خدمات التخزين الآمن
   final storage = SecureStorageService();
   di.registerSingleton<SecureStorageService>(storage);
+
+  // تهيئة فهرس الأصول المضمّنة قبل بدء عرض الواجهة
+  await assetIndexDb.initialize();
 
   // 2. مستودع المحتوى التعليمي الموحد
   final contentRepo = UnifiedContentRepository();

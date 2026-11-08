@@ -22,17 +22,17 @@ class VerbModel {
   });
 
   factory VerbModel.fromJson(Map<String, dynamic> json) {
-    final conj = json['conjugations'] ?? {};
+    final conj = (json['conjugations'] as Map<String, dynamic>?) ?? const <String, dynamic>{};
     return VerbModel(
-      verbId: json['verb_id'] ?? '',
-      rootAr: json['root_ar'] ?? '',
-      typeDe: json['type_de'] ?? 'regular',
-      imageId: json['image_id'] ?? '',
-      infinitive: Map<String, String>.from(json['infinitive'] ?? {}),
-      conjugationsDe: Map<String, String>.from(conj['de'] ?? {}),
-      conjugationsEn: Map<String, String>.from(conj['en'] ?? {}),
-      conjugationsAr: Map<String, String>.from(conj['ar'] ?? {}),
-      examples: Map<String, String>.from(json['examples'] ?? {}),
+      verbId: (json['verb_id'] as String?) ?? '',
+      rootAr: (json['root_ar'] as String?) ?? '',
+      typeDe: (json['type_de'] as String?) ?? 'regular',
+      imageId: (json['image_id'] as String?) ?? '',
+      infinitive: Map<String, String>.from((json['infinitive'] as Map<String, dynamic>?) ?? const <String, dynamic>{}),
+      conjugationsDe: Map<String, String>.from((conj['de'] as Map<String, dynamic>?) ?? const <String, dynamic>{}),
+      conjugationsEn: Map<String, String>.from((conj['en'] as Map<String, dynamic>?) ?? const <String, dynamic>{}),
+      conjugationsAr: Map<String, String>.from((conj['ar'] as Map<String, dynamic>?) ?? const <String, dynamic>{}),
+      examples: Map<String, String>.from((json['examples'] as Map<String, dynamic>?) ?? const <String, dynamic>{}),
     );
   }
 }

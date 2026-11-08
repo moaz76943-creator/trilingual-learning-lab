@@ -16,16 +16,16 @@ class SentenceModel {
   });
 
   factory SentenceModel.fromJson(Map<String, dynamic> json) {
-    final ar = json['ar'] ?? {};
-    final de = json['de'] ?? {};
-    final en = json['en'] ?? {};
+    final ar = (json['ar'] as Map<String, dynamic>?) ?? const <String, dynamic>{};
+    final de = (json['de'] as Map<String, dynamic>?) ?? const <String, dynamic>{};
+    final en = (json['en'] as Map<String, dynamic>?) ?? const <String, dynamic>{};
     return SentenceModel(
-      id: json['id'] ?? '',
-      fullAr: ar['full'] ?? '',
-      fullDe: de['full'] ?? '',
-      fullEn: en['full'] ?? '',
-      tokensDe: List<String>.from(de['tokens'] ?? []),
-      tokensEn: List<String>.from(en['tokens'] ?? []),
+      id: (json['id'] as String?) ?? '',
+      fullAr: (ar['full'] as String?) ?? '',
+      fullDe: (de['full'] as String?) ?? '',
+      fullEn: (en['full'] as String?) ?? '',
+      tokensDe: List<String>.from((de['tokens'] as List<dynamic>?) ?? const <dynamic>[]),
+      tokensEn: List<String>.from((en['tokens'] as List<dynamic>?) ?? const <dynamic>[]),
     );
   }
 }

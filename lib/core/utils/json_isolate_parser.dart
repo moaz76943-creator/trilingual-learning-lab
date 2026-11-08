@@ -6,7 +6,7 @@ import '../utils/result.dart';
 /// محلل JSON في مسار معالجة منفصل (Background Isolate) لمنع تجميد واجهة المستخدم
 class JsonIsolateParser {
   /// فك ترميز نص JSON خام إلى خريطة Map في الخلفية
-  static Future<Result, Failure>> parseMap(String jsonString) async {
+  static Future<Result<Map<String, dynamic>, Failure>> parseMap(String jsonString) async {
     try {
       final result = await compute(_decodeMap, jsonString);
       return Result.success(result);

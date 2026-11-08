@@ -1,7 +1,7 @@
 import 'dart:convert';
-import '../../../../core/errors/failures.dart';
-import '../../../../core/storage/secure_storage_service.dart';
-import '../../../../core/utils/result.dart';
+import '../../../core/errors/failures.dart';
+import '../../../core/storage/secure_storage_service.dart';
+import '../../../core/utils/result.dart';
 
 /// خدمة تصدير واستيراد النسخ الاحتياطي لتقدم المتعلم محلياً
 class BackupService {
@@ -31,7 +31,7 @@ class BackupService {
   }
 
   /// استيراد والتحقق من صحة ملف النسخة الاحتياطية
-  Future<Result, Failure>> importBackupJson(String jsonString) async {
+  Future<Result<Map<String, dynamic>, Failure>> importBackupJson(String jsonString) async {
     try {
       final decoded = jsonDecode(jsonString);
       if (decoded is! Map<String, dynamic>) {

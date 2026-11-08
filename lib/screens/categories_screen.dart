@@ -38,9 +38,9 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
     await _srsRepo.init('.');
     try {
       final vString = await rootBundle.loadString('content/verbs/verbs_a1.json');
-      final Map<String, dynamic> vData = jsonDecode(vString);
-      final List vList = vData['verbs'] ?? [];
-      _verbs = vList.map((i) => VerbModel.fromJson(i)).toList();
+      final Map<String, dynamic> vData = jsonDecode(vString) as Map<String, dynamic>;
+      final List<dynamic> vList = (vData['verbs'] as List<dynamic>?) ?? const <dynamic>[];
+      _verbs = vList.map((i) => VerbModel.fromJson(i as Map<String, dynamic>)).toList();
     } catch (_) {}
     if (mounted) setState(() => _isLoading = false);
   }
@@ -177,7 +177,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
 
                 // الأفعال والتصريفات
                 InkWell(
-                  onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => VerbsScreen(targetLang: _targetLang)));
+                  onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => VerbsScreen(targetLang: _targetLang))),
                   borderRadius: BorderRadius.circular(16),
                   child: Container(
                     padding: const EdgeInsets.all(12),
@@ -196,7 +196,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
 
                 // حروف الجر
                 InkWell(
-                  onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => PrepositionsScreen(targetLang: _targetLang)));
+                  onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => PrepositionsScreen(targetLang: _targetLang))),
                   borderRadius: BorderRadius.circular(16),
                   child: Container(
                     padding: const EdgeInsets.all(12),

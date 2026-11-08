@@ -53,11 +53,11 @@ class SRSCard {
   };
 
   factory SRSCard.fromJson(Map<String, dynamic> json) => SRSCard(
-    conceptId: json['concept_id'] ?? '',
-    repetitions: json['repetitions'] ?? 0,
-    intervalDays: json['interval_days'] ?? 1,
-    easeFactor: (json['ease_factor'] ?? 2.5).toDouble(),
-    nextReviewDate: DateTime.tryParse(json['next_review'] ?? '') ?? DateTime.now(),
-    lastReviewedDate: DateTime.tryParse(json['last_reviewed'] ?? ''),
+    conceptId: (json['concept_id'] as String?) ?? '',
+    repetitions: (json['repetitions'] as num?)?.toInt() ?? 0,
+    intervalDays: (json['interval_days'] as num?)?.toInt() ?? 1,
+    easeFactor: (json['ease_factor'] as num?)?.toDouble() ?? 2.5,
+    nextReviewDate: DateTime.tryParse((json['next_review'] as String?) ?? '') ?? DateTime.now(),
+    lastReviewedDate: DateTime.tryParse((json['last_reviewed'] as String?) ?? ''),
   );
 }

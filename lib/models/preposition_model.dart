@@ -24,20 +24,20 @@ class PrepositionModel {
   });
 
   factory PrepositionModel.fromJson(Map<String, dynamic> json) {
-    final ar = json['ar'] ?? {};
-    final de = json['de'] ?? {};
-    final en = json['en'] ?? {};
+    final ar = (json['ar'] as Map<String, dynamic>?) ?? const <String, dynamic>{};
+    final de = (json['de'] as Map<String, dynamic>?) ?? const <String, dynamic>{};
+    final en = (json['en'] as Map<String, dynamic>?) ?? const <String, dynamic>{};
     return PrepositionModel(
-      id: json['id'] ?? '',
-      imageId: json['image_id'] ?? '',
-      wordAr: ar['word'] ?? '',
-      meaningAr: ar['meaning'] ?? '',
-      exampleAr: ar['example'] ?? '',
-      wordDe: de['word'] ?? '',
-      caseRuleDe: de['case_rule'] ?? '',
-      exampleDe: de['example'] ?? '',
-      wordEn: en['word'] ?? '',
-      exampleEn: en['example'] ?? '',
+      id: (json['id'] as String?) ?? '',
+      imageId: (json['image_id'] as String?) ?? '',
+      wordAr: (ar['word'] as String?) ?? '',
+      meaningAr: (ar['meaning'] as String?) ?? '',
+      exampleAr: (ar['example'] as String?) ?? '',
+      wordDe: (de['word'] as String?) ?? '',
+      caseRuleDe: (de['case_rule'] as String?) ?? '',
+      exampleDe: (de['example'] as String?) ?? '',
+      wordEn: (en['word'] as String?) ?? '',
+      exampleEn: (en['example'] as String?) ?? '',
     );
   }
 }

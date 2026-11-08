@@ -25,10 +25,10 @@ class _VerbsScreenState extends State<VerbsScreen> {
   Future<void> _loadVerbs() async {
     try {
       final jsonString = await rootBundle.loadString('content/verbs/verbs_a1.json');
-      final Map<String, dynamic> data = jsonDecode(jsonString);
-      final List list = data['verbs'] ?? [];
+      final Map<String, dynamic> data = jsonDecode(jsonString) as Map<String, dynamic>;
+      final List<dynamic> list = (data['verbs'] as List<dynamic>?) ?? const <dynamic>[];
       setState(() {
-        _verbs = list.map((item) => VerbModel.fromJson(item)).toList();
+        _verbs = list.map((item) => VerbModel.fromJson(item as Map<String, dynamic>)).toList();
         _isLoading = false;
       });
     } catch (e) {

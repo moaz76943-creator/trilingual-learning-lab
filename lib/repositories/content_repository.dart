@@ -48,9 +48,9 @@ class ContentRepository {
     try {
       for (var cat in registeredCategories) {
         final jsonString = await rootBundle.loadString(cat.jsonPath);
-        final Map<String, dynamic> data = jsonDecode(jsonString);
-        final List raw = data['concepts'] ?? [];
-        final parsed = raw.map((item) => Concept.fromJson(item)).toList();
+        final Map<String, dynamic> data = jsonDecode(jsonString) as Map<String, dynamic>;
+        final List<dynamic> raw = (data['concepts'] as List<dynamic>?) ?? const <dynamic>[];
+        final parsed = raw.map((item) => Concept.fromJson(item as Map<String, dynamic>)).toList();
         _categoriesData[cat.id] = parsed;
         cat.concepts = parsed;
       }

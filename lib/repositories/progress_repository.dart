@@ -19,13 +19,13 @@ class ProgressRepository {
     if (await file.exists()) {
       try {
         final content = await file.readAsString();
-        final Map<String, dynamic> data = jsonDecode(content);
+        final Map<String, dynamic> data = jsonDecode(content) as Map<String, dynamic>;
         
         _favoriteIds.clear();
         _learnedIds.clear();
 
-        final List favs = data['favorites'] ?? [];
-        final List learned = data['learned'] ?? [];
+        final List<dynamic> favs = (data['favorites'] as List<dynamic>?) ?? const <dynamic>[];
+        final List<dynamic> learned = (data['learned'] as List<dynamic>?) ?? const <dynamic>[];
 
         _favoriteIds.addAll(favs.map((e) => e.toString()));
         _learnedIds.addAll(learned.map((e) => e.toString()));

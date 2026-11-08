@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import '../../../../core/config/app_config.dart';
-import '../../../../core/events/app_event_bus.dart';
-import '../../../../core/storage/secure_storage_service.dart';
+import '../../../core/config/app_config.dart';
+import '../../../core/events/app_event_bus.dart';
+import '../../../core/storage/secure_storage_service.dart';
 
 /// متحكم لغة الواجهة التفاعلي مع الحفظ المحلي الفوري وتبديل اتجاه النصوص
 class LanguageController extends ChangeNotifier {

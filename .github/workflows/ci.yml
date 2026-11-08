@@ -1,27 +1,45 @@
-name: CI - Quality & Data Verification
+name: CI - JSON, assets, Dart and Flutter checks
 
 on:
   push:
-    branches: [ main ]
+    branches: [main, 'audit/**']
   pull_request:
-    branches: [ main ]
+    branches: [main]
 
 permissions:
   contents: read
 
 jobs:
-  validate:
+  content:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-
+    timeout-minutes: 15
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
-      - name: Validate Vocabulary & Visual Assets
+      - name: Parse all content JSON and verify asset registry paths
         run: python tests/validate_content.py
+      - name: Test validator and audited Dart bootstrap guards
+        if: always()
+        run: python -m unittest discover -s tests -p 'test_audit_guards.py' -v
+
+  flutter:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Install Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+      - name: Resolve dependencies
+        run: flutter pub get
+      - name: Analyze Dart and Flutter sources
+        run: flutter analyze --no-pub --no-fatal-infos --no-fatal-warnings
+      - name: Run Flutter tests
+        if: always()
+        run: flutter test --no-pub
