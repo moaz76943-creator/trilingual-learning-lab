@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="rosewoodTwig" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6d4c41"/>
+      <stop offset="50%" stop-color="#4e342e"/>
+      <stop offset="100%" stop-color="#271b16"/>
+    </linearGradient>
+  </defs>
+  <!-- Natural Dried Rosewood / Bamboo Twig Stem (Diagonal) -->
+  <line x1="30" y1="30" x2="120" y2="120" stroke="url(#rosewoodTwig)" stroke-width="8" stroke-linecap="round"/>
+  <!-- Dried Branch Node Knots -->
+  <circle cx="65" cy="65" r="5" fill="#3e2723"/>
+  <circle cx="95" cy="95" r="5" fill="#3e2723"/>
+  <!-- Wrapped Bleached Fishgut String Binding around Bristles -->
+  <rect x="110" y="110" width="22" height="18" rx="2" fill="#fff9c4" stroke="#8d6e63" stroke-width="1.5" transform="rotate(45 121 119)"/>
+  <!-- Flaring Fan of Pure Horsehair Bristles Loaded with Pigment -->
+  <path d="M 125,125 C 135,130 160,140 180,180 C 140,160 130,135 125,125 Z" fill="#212121" stroke="#37474f" stroke-width="1.5"/>
+  <path d="M 128,122 C 145,120 170,125 185,160 C 150,150 132,130 128,122 Z" fill="#424242"/>
+  <!-- Drops of Brilliant Carmine Pigment Flying from Brush Tip -->
+  <circle cx="175" cy="185" r="4.5" fill="#d81b60"/>
+  <circle cx="188" cy="170" r="3.5" fill="#d81b60"/>
+  <circle cx="160" cy="192" r="2.5" fill="#d81b60"/>
+</svg>

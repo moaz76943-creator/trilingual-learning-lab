@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_314_pigmente_spritzen_dharra",
+  "root": "ذ - ر - ر",
+  "trilingual": {
+    "ar": {
+      "infinitive": "ذَرٌّ",
+      "past": "ذَرَّ",
+      "present": "يَذُرُّ",
+      "imperative": "ذُرَّ",
+      "meaning": "نَثَرَ قَطَرَاتِ الصِّبْغِ فَوْقَ سَطْحِ المَاءِ بِضَرْبِ الفُرْشَاةِ"
+    },
+    "de": {
+      "infinitive": "Farbtropfen aufsprenkeln / stäuben",
+      "past": "sprenkelte auf",
+      "present": "sprenkelt auf",
+      "perfect": "hat aufgesprenkelt",
+      "meaning": "Farbtropfen mittels Rosshaarpinsel fein auf die Wasseroberfläche spritzen"
+    },
+    "en": {
+      "infinitive": "to sprinkle droplets / spatter pigments",
+      "past": "sprinkled droplets",
+      "present": "sprinkles droplets",
+      "participle": "sprinkled droplets",
+      "meaning": "to spatter fine pigment droplets onto the sizing liquid using a flicked brush"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يَذُرُّ المُعَلِّمُ كُرَاتِ الصِّبْغِ فَوْقَ الحَوْضِ بِضَرْبَاتٍ هَادِئَةٍ.",
+      "de": "Der Meister sprenkelt die Farbtropfen mit ruhigen Schlägen auf das Becken.",
+      "en": "The master spatters the color beads over the vat with calm taps."
+    },
+    {
+      "tense": "past",
+      "ar": "ذَرَّ التِّلْمِيذُ الأَصْفَرَ الزَّعْفَرَانِيَّ فَتَفَتَّحَتْ أَزْهَارُ الأَبْرُو.",
+      "de": "Der Schüler sprenkelte Safrangelb auf, und die Ebru-Blüten entfalteten sich.",
+      "en": "The apprentice sprinkled saffron yellow, and the Ebru blossoms unfolded."
+    }
+  ]
+}

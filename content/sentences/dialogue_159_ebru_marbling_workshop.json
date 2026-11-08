@@ -1,0 +1,65 @@
+{
+  "dialogue_id": "dialogue_159_ebru_marbling_workshop",
+  "title": {
+    "ar": "تَعْرِيقُ كَاغَدِ الأَبْرُو عَلَى مَاءِ الكَثِيرَاءِ فِي إِسْطَنْبُولَ",
+    "de": "Das Marmorieren von Ebru-Papier auf Tragantschleim in Istanbul",
+    "en": "Marbling Ebru Paper over Tragacanth Size in Istanbul"
+  },
+  "context": {
+    "ar": "حِوَارٌ فِي مَرْسَمِ الأَبْرُو فِي حَيِّ بَايَزِيدَ فِي إِسْطَنْبُولَ بَيْنَ مُعَلِّمِ التَّعْرِيقِ وَتِلْمِيذِهِ حَوْلَ ضَبْطِ لُزُوجَةِ مَاءِ الكَثِيرَاءِ وَنَثْرِ قَطَرَاتِ الأَصْبَاغِ بِفُرْشَاةِ شَعْرِ الخَيْلِ.",
+    "de": "Ein Werkstattgespräch im Ebru-Atelier im Beyazit-Viertel in Istanbul über die Viskosität des Tragantschleims und das Aufspritzen von Erdfarben mit dem Rosshaarpinsel.",
+    "en": "A dialogue in the Ebru atelier in the Beyazid district of Istanbul between the master marbler and his apprentice on testing the viscosity of tragacanth size and flicking pigments with horsehair brushes."
+  },
+  "turns": [
+    {
+      "speaker": {
+        "ar": "المُعَلِّمُ حِكْمَتْ (مُعَلِّمُ الأَبْرُو)",
+        "de": "Meister Hikmet (Der Ebru-Meister)",
+        "en": "Master Hikmet (The Ebru Master)"
+      },
+      "ar": "اخْتَبِرْ لُزُوجَةَ الحَوْضِ بِطَرَفِ المِرْوَدِ؛ يَجِبُ أَنْ يَكُونَ لُعَابُ الكَثِيرَاءِ كَزُلاَلِ البَيْضِ الرَّقِيقِ لِيَحْمِلَ كُتَلَ التُّرَابِ المَعْدِنِيِّ.",
+      "de": "Prüfe die Zähflüssigkeit der Bütte mit der Nadelspitze: Der Schleim muss wie feines Eiweiß sein, um die schweren Mineralfarben schwebend zu tragen.",
+      "en": "Test the viscosity of the vat with the stylus tip: the tragacanth size must feel like light egg-white to keep the dense mineral pigments afloat."
+    },
+    {
+      "speaker": {
+        "ar": "أَوْرْخَانُ (المُتَدَرِّبُ)",
+        "de": "Orhan (Der Lehrling)",
+        "en": "Orhan (The Apprentice)"
+      },
+      "ar": "لَقَدْ أَضَفْتُ قَطَرَاتٍ مِنْ مَرَارَةِ البَقَرِ إِلَى اللَّازَوَرْدِ وَالمَغْرَةِ الحَمْرَاءِ، فَهَلْ أَنْثُرُ اللَّوْنَ الأَوَّلَ الآنَ؟",
+      "de": "Ich habe Ochsengalle in das Ultramarin und den roten Ocker geträufelt; soll ich nun die erste Grundfarbe aufsprengen?",
+      "en": "I added drops of ox gall to the ultramarine and red ochre; shall I sprinkle the first ground color now?"
+    },
+    {
+      "speaker": {
+        "ar": "حِكْمَتْ",
+        "de": "Hikmet",
+        "en": "Hikmet"
+      },
+      "ar": "انْفُضْ فُرْشَاةَ شَعْرِ الخَيْلِ بِسَبَّابَتِكَ بِرِفْقٍ؛ فَيَتَفَتَّحُ الأَزْرَقُ كَسَمَاءِ الرَّبِيعِ، ثُمَّ أَلْقِ الأَصْفَرَ فِي قَلْبِهِ لِيَنْبَثِقَ العَجَبُ.",
+      "de": "Klopfe den Rosshaarpinsel sanft an deinen Zeigefinger; das Blau wird wie ein Frühlingshimmel aufblühen; setze dann Gelb hinein, damit das Wunder erwacht.",
+      "en": "Tap the horsehair brush gently against your index finger; the blue will blossom like a spring sky, then drop yellow into its center to awaken the wonder."
+    },
+    {
+      "speaker": {
+        "ar": "أَوْرْخَانُ",
+        "de": "Orhan",
+        "en": "Orhan"
+      },
+      "ar": "وَهَلْ نُمَرِّرُ مُشْطَ النُّحَاسِ لِنَصْنَعَ أَمْوَاجَ الشَّالِ التُّرَاثِيِّ؟",
+      "de": "Und ziehen wir nun den Messingkamm durch das Becken, um die traditionellen Schal-Wellenmuster zu formen?",
+      "en": "And shall we draw the brass comb through the bath to fashion the heritage shawl-wave ripples?"
+    },
+    {
+      "speaker": {
+        "ar": "حِكْمَتْ",
+        "de": "Hikmet",
+        "en": "Hikmet"
+      },
+      "ar": "مَرِّرْهُ بِيَدٍ هَادِئَةٍ لا تَرْتَجِفُ، ثُمَّ أَنْزِلْ صَحِيفَةَ الكَاغَدِ مِنْ طَرَفِهَا دُونَ احْتِبَاسِ فُقَّاعَةٍ؛ فَتَرْتَفِعَ الصَّفْحَةُ حَامِلَةً بَهْجَةَ الأَلْوَانِ إِلَى الأَبَدِ.",
+      "de": "Führe ihn mit ruhiger Hand, und senke dann den Bogen von der Kante her ab, ohne Luftblasen einzuschließen; so hebt sich das Blatt, geschmückt mit ewigem Farbenglanz.",
+      "en": "Draw it with an untrembling hand, then lower the paper sheet from its edge without trapping air bubbles; thus the page rises bearing the joy of living color forever."
+    }
+  ]
+}

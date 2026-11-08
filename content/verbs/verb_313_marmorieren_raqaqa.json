@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_313_marmorieren_raqaqa",
+  "root": "ع - ر - ق",
+  "trilingual": {
+    "ar": {
+      "infinitive": "تَعْرِيقٌ",
+      "past": "عَرَّقَ",
+      "present": "يُعَرِّقُ",
+      "imperative": "عَرِّقْ",
+      "meaning": "زَيَّنَ الكَاغَدَ بِأَمْوَاجِ الأَلْوَانِ المَائِيَّةِ فَبَدَا كَالرُّخَامِ المُعَرَّقِ"
+    },
+    "de": {
+      "infinitive": "marmorieren / mit Adern mustern",
+      "past": "marmorierte",
+      "present": "marmoriert",
+      "perfect": "hat marmoriert",
+      "meaning": "Papierbogen mit wellenförmigen Wasserfarben marmorartig mustern"
+    },
+    "en": {
+      "infinitive": "to marble paper / pattern with veined waves",
+      "past": "marbled paper",
+      "present": "marbles paper",
+      "participle": "marbled paper",
+      "meaning": "to decorate paper with undulating veined patterns lifted from a prepared liquid size"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يُعَرِّقُ الفَنَّانُ صَفَحَاتِ الدِّيوَانِ بِتَمَوُّجَاتِ الفَيْرُوزِ وَالذَّهَبِ.",
+      "de": "Der Künstler marmoriert die Buchseiten mit türkis- und goldfarbenen Wellen.",
+      "en": "The artist marbles the book leaves with turquoise and gold undulations."
+    },
+    {
+      "tense": "past",
+      "ar": "عَرَّقَ الصَّانِعُ مِئَةَ صَحِيفَةٍ لِتَبْطِينِ أَغْلِفَةِ المَصَاحِفِ.",
+      "de": "Der Handwerker marmorierte hundert Bogen zum Auskleiden der Korandeckel.",
+      "en": "The artisan marbled a hundred sheets to line the covers of the Quranic codices."
+    }
+  ]
+}

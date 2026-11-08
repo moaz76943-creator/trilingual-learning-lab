@@ -1,0 +1,52 @@
+{
+  "category_id": "category_164_paper_marbling_and_ebru",
+  "title": {
+    "ar": "فَنُّ تَعْرِيقِ الكَاغَدِ (الأَبْرُو) وَأَمْوَاجُ الأَلْوَانِ المَائِيَّةُ",
+    "de": "Ebru-Marmorpapier und osmanische Marmorierkunst",
+    "en": "Paper Marbling (Ebru) and Aqueous Wave Patterns"
+  },
+  "level": "B1",
+  "description": {
+    "ar": "مُصْطَلَحَاتُ أَبْرُو الكَاغَدِ التُّرَاثِيِّ، وَأَحْوَاضِ لُعَابِ الكَثِيرَاءِ، وَأَمْشَاطِ التَّعْرِيقِ النُّحَاسِيَّةِ، وَفَرَاشِي شَعْرِ الخَيْلِ فِي التُّرَاثِ الإِسْلَامِيِّ.",
+    "de": "Fachbegriffe zur traditionellen Ebru-Papierkunst, Tragantschleim-Bütten, Marmorierkämmen und Rosshaarpinseln der osmanischen Buchkultur.",
+    "en": "Terminology of traditional Ebru paper marbling, tragacanth size vats, brass marbling combs, and horsehair brushes in Islamic book arts."
+  },
+  "vocabulary": [
+    {
+      "id": "term_164_01",
+      "ar": "كَاغَدُ الأَبْرُو المُعَرَّقُ",
+      "de": "das marmorierte Ebru-Papier",
+      "en": "marbled Ebru paper",
+      "phonetic_ar": "kāghadu al-'abrū al-mu'arraq",
+      "example": {
+        "ar": "يُبَطَّنُ دَاخِلُ غِلاَفِ المَخْطُوطِ بِكَاغَدِ الأَبْرُو المُعَرَّقِ لِحِمَايَتِهِ وَإِضْفَاءِ الجَمَالِ عَلَيْهِ.",
+        "de": "Das Vorsatzblatt des Bucheinbands wird mit marmoriertem Ebru-Papier ausgekleidet, um es zu schützen und zu zieren.",
+        "en": "The endpapers of the codex binding are lined with marbled Ebru paper to protect and adorn it."
+      }
+    },
+    {
+      "id": "term_164_02",
+      "ar": "لُعَابُ الكَثِيرَاءِ لِلطَّفْوِ",
+      "de": "der Tragantschleim (die Marmorierflüssigkeit)",
+      "en": "gum tragacanth sizing bath (mucilage)",
+      "phonetic_ar": "lu'ābu al-kathīrā'i liṭ-ṭafw",
+      "example": {
+        "ar": "يَمْنَحُ لُعَابُ الكَثِيرَاءِ لِلطَّفْوِ سَطْحَ الحَوْضِ قُوَّةً تَمْنَعُ ذَرَّاتِ الطِّينِ المُلَوَّنِ مِنَ الرُّسُوبِ.",
+        "de": "Der Tragantschleim verleiht der Bütte die Tragkraft, die ein Absinken der Farbpigmente verhindert.",
+        "en": "The gum tragacanth size provides the vat surface with buoyant tension that prevents pigment particles from precipitating."
+      }
+    },
+    {
+      "id": "term_164_03",
+      "ar": "مُشْطُ التَّعْرِيقِ النُّحَاسِيُّ",
+      "de": "der messingen Marmorierkamm",
+      "en": "brass marbling comb rake",
+      "phonetic_ar": "mushṭu at-ta'rīqi an-nuḥāsiyy",
+      "example": {
+        "ar": "تَمُرُّ أَسْنَانُ مُشْطِ التَّعْرِيقِ النُّحَاسِيِّ عَبْرَ المَاءِ فَتُحَوِّلُ الدَّوَائِرَ إِلَى تَمَوُّجَاتٍ كَرِيشِ الطَّاوُوسِ.",
+        "de": "Die Zähne des Messingkamms gleiten durch das Wasser und verwandeln Farbpunkte in pfauenfedergleiche Wellen.",
+        "en": "The teeth of the brass marbling comb glide through the bath, transforming dots into peacock-feather wave ripples."
+      }
+    }
+  ]
+}

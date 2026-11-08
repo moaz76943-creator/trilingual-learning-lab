@@ -511,5 +511,20 @@
     "path": "assets/images/categories/cat_163_proportional_compass.svg",
     "category": "category_163_proportional_calligraphy_and_compass",
     "description": "Brass proportional divider compass for verifying calligraphic letter diameters"
+  },
+  "cat_164_ebru_tray": {
+    "path": "assets/images/categories/cat_164_ebru_tray.svg",
+    "category": "category_164_paper_marbling_and_ebru",
+    "description": "Zinc Ebru marbling tray with concentric floating pigments and comb waves"
+  },
+  "cat_164_marbling_comb": {
+    "path": "assets/images/categories/cat_164_marbling_comb.svg",
+    "category": "category_164_paper_marbling_and_ebru",
+    "description": "Brass wire marbling comb rake on wooden spine for drawing wave patterns"
+  },
+  "cat_164_horsehair_brush": {
+    "path": "assets/images/categories/cat_164_horsehair_brush.svg",
+    "category": "category_164_paper_marbling_and_ebru",
+    "description": "Horsehair brush on rosewood stem flicking carmine pigment drops"
   }
 }
