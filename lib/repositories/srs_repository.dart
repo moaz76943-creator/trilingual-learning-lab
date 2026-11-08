@@ -15,11 +15,11 @@ class SRSRepository {
     if (await file.exists()) {
       try {
         final content = await file.readAsString();
-        final Map<String, dynamic> data = jsonDecode(content);
-        final List list = data['cards'] ?? [];
+        final Map<String, dynamic> data = jsonDecode(content) as Map<String, dynamic>;
+        final List<dynamic> list = (data['cards'] as List<dynamic>?) ?? const <dynamic>[];
         _cards.clear();
         for (var item in list) {
-          final c = SRSCard.fromJson(item);
+          final c = SRSCard.fromJson(item as Map<String, dynamic>);
           _cards[c.conceptId] = c;
         }
       } catch (_) {}
