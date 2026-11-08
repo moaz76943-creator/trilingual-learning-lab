@@ -8,7 +8,7 @@ class MockHttpClient {
   Duration simulatedLatency = const Duration(milliseconds: 150);
 
   /// محاكاة طلب GET غير متزامن
-  Future<Result, Failure>> get(String endpoint) async {
+  Future<Result<Map<String, dynamic>, Failure>> get(String endpoint) async {
     if (simulateOffline) {
       return Result.failure(
         const NetworkFailure('لا يوجد اتصال بالإنترنت (وضع عدم الاتصال المحاكى)'),
@@ -25,7 +25,7 @@ class MockHttpClient {
   }
 
   /// محاكاة طلب POST غير متزامن
-  Future<Result, Failure>> post(
+  Future<Result<Map<String, dynamic>, Failure>> post(
     String endpoint,
     Map<String, dynamic> body,
   ) async {
