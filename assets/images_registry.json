@@ -571,5 +571,20 @@
     "path": "assets/images/categories/cat_167_silver_inlay_wire.svg",
     "category": "category_167_inlaid_penboxes_and_qalamdans",
     "description": "Pure silver wire being chased into undercut brass groove with chasing hammer"
+  },
+  "cat_168_folding_rahl": {
+    "path": "assets/images/categories/cat_168_folding_rahl.svg",
+    "category": "category_168_folding_rahl_and_lecterns",
+    "description": "Folding walnut book rest (rahl) carved as an interlocking X-shaped cradle"
+  },
+  "cat_168_interlocking_hinge": {
+    "path": "assets/images/categories/cat_168_interlocking_hinge.svg",
+    "category": "category_168_folding_rahl_and_lecterns",
+    "description": "Chiseled interlocking knuckle joints sculptured from a single solid plank"
+  },
+  "cat_168_seljuk_wood_panel": {
+    "path": "assets/images/categories/cat_168_seljuk_wood_panel.svg",
+    "category": "category_168_folding_rahl_and_lecterns",
+    "description": "Seljuk tongue-and-groove kundekari wood strapwork panel with 8-pointed star"
   }
 }

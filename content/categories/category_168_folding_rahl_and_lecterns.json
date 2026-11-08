@@ -1,0 +1,52 @@
+{
+  "category_id": "category_168_folding_rahl_and_lecterns",
+  "title": {
+    "ar": "الأَرْحُلُ الخَشَبِيَّةُ المَفْصِلِيَّةُ (الرَّحْلُ) وَحَوَامِلُ المَصَاحِفِ",
+    "de": "Faltbare Buchständer (Rahl), Kündekari-Holzkunst und Lesepulte",
+    "en": "Folding Book Rests (Rahl), Seljuk Kundekari and Carved Lecterns"
+  },
+  "level": "B1",
+  "description": {
+    "ar": "مُصْطَلَحَاتُ أَرْحُلِ المَصَاحِفِ المَفْصِلِيَّةِ المَنْحُوتَةِ مِنْ لَوْحٍ وَاحِدٍ، وَتَعْشِيقِ الكُنْدِكَارِي السَّلْجُوقِيِّ، وَأَسِرَّةِ القِرَاءَةِ فِي المَسَاجِدِ وَالمَدَارِسِ.",
+    "de": "Fachbegriffe zu einteiligen Faltbuchständern (Rahl), seldschukischer Kündekari-Flechtwerktechnik und holzgeschnitzten Lesepulten für Moscheen und Medresen.",
+    "en": "Terminology of one-piece folding Quran stands (rahl), Seljuk interlocking kundekari joinery, and carved study lecterns in mosques and madrasas."
+  },
+  "vocabulary": [
+    {
+      "id": "term_168_01",
+      "ar": "الرَّحْلُ الخَشَبِيُّ المَفْصِلِيُّ",
+      "de": "der faltbare hölzerne Buchständer (das Rahl)",
+      "en": "folding wooden book rest (rahl / rihl)",
+      "phonetic_ar": "ar-raḥlu al-khashabiyyu al-mafṣiliyy",
+      "example": {
+        "ar": "يَنْفَتِحُ الرَّحْلُ الخَشَبِيُّ المَفْصِلِيُّ فِي صَحْنِ المَسْجِدِ لِيَحْمِلَ المِصْحَفَ فِي زَاوِيَةٍ مُرِيحَةٍ لِعَيْنِ القَارِئِ.",
+        "de": "Das faltbare Holzpult öffnet sich im Moscheehof und hält den Koran im angenehmen Lesewinkel für die Augen.",
+        "en": "The folding wooden book rest opens in the mosque courtyard, cradling the codex at a restful angle for the reader's eyes."
+      }
+    },
+    {
+      "id": "term_168_02",
+      "ar": "مَفْصِلُ التَّعْشِيقِ المَحْفُورُ",
+      "de": "das herausgeschnitzte Scharniergelenk (die Fingerverzahnung)",
+      "en": "chiseled interlocking knuckle hinge",
+      "phonetic_ar": "mafṣilu at-ta'shīqi al-maḥfūr",
+      "example": {
+        "ar": "يَدُورُ مَفْصِلُ التَّعْشِيقِ المَحْفُورُ بِانْسِيَابٍ دُونَ حَاجَةٍ إِلَى مَفَاصِلِ حَدِيدٍ أَوْ صَفَائِحَ مَعْدِنِيَّةٍ.",
+        "de": "Das herausgeschnitzte Holzscharnier dreht sich geschmeidig ohne Eisengelenke oder Metallscharniere.",
+        "en": "The chiseled interlocking knuckle hinge pivots smoothly without requiring iron joints or metal plates."
+      }
+    },
+    {
+      "id": "term_168_03",
+      "ar": "تَعْشِيقُ الكُنْدِكَارِي السَّلْجُوقِيُّ",
+      "de": "das seldschukische Kündekari-Nut-und-Feder-Flechtwerk",
+      "en": "Seljuk tongue-and-groove kundekari woodwork",
+      "phonetic_ar": "ta'shīqu al-kundikārī as-saljūqiyy",
+      "example": {
+        "ar": "يُقَاوِمُ تَعْشِيقُ الكُنْدِكَارِي السَّلْجُوقِيُّ تَغَيُّرَاتِ المُنَاخِ لِأَنَّ أَجْزَاءَهُ تَتَحَرَّكُ بِحُرِّيَّةٍ دُونَ أَنْ تَتَشَقَّقَ.",
+        "de": "Das seldschukische Kündekari-Holzwerk widersteht Klimaschwankungen, da sich seine Teile spannungsfrei bewegen können.",
+        "en": "Seljuk kundekari woodwork resists climatic shifts because its interlocking elements expand freely without splitting."
+      }
+    }
+  ]
+}

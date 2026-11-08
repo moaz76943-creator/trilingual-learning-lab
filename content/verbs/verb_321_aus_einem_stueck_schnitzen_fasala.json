@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_321_aus_einem_stueck_schnitzen_fasala",
+  "root": "ف - ص - ل",
+  "trilingual": {
+    "ar": {
+      "infinitive": "تَفْصِيلٌ",
+      "past": "فَصَّلَ",
+      "present": "يُفَصِّلُ",
+      "imperative": "فَصِّلْ",
+      "meaning": "نَحَتَ المَفَاصِلَ المُتَدَاخِلَةَ فِي الخَشَبِ لِيَنْثَنِيَ اللَّوْحُ دُونَ انْفِصَالٍ"
+    },
+    "de": {
+      "infinitive": "aus einem Stück falzbar schnitzen",
+      "past": "schnitzte falzbar",
+      "present": "schnitzt falzbar",
+      "perfect": "hat falzbar geschnitzt",
+      "meaning": "bewegliche Scharnierglieder aus einem einzigen massiven Holzblock herausschnitzen"
+    },
+    "en": {
+      "infinitive": "to carve interlocking knuckles / sculpt a living hinge",
+      "past": "carved interlocking knuckles",
+      "present": "carves interlocking knuckles",
+      "participle": "carved interlocking knuckles",
+      "meaning": "to chisel interlocking hinge knuckles from a single piece of wood so it folds without separating"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يُفَصِّلُ النَّجَّارُ لَوْحَ الجَوْزِ بِدِقَّةٍ لِيَصْنَعَ مِنْهُ رَحْلًا مَفْصِلِيًّا.",
+      "de": "Der Schreiner schnitzt das Walnussbrett meisterhaft, um daraus ein faltbares Pult zu formen.",
+      "en": "The carpenter carves the walnut plank with precision to fashion a folding lectern."
+    },
+    {
+      "tense": "past",
+      "ar": "فَصَّلَ أَهْلُ قُونْيَةَ حَوَامِلَ المَصَاحِفِ فَبَقِيَتْ شَاهِدَةً عَلَى إِعْجَازِهِمْ.",
+      "de": "Die Meister von Konya schnitzten die Lesepulte aus einem Stück, und sie zeugen bis heute von ihrer Kunst.",
+      "en": "The craftsmen of Konya carved the book rests as monoblocs, enduring as monuments to their genius."
+    }
+  ]
+}

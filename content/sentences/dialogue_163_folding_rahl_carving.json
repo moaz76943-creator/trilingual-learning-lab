@@ -1,0 +1,65 @@
+{
+  "dialogue_id": "dialogue_163_folding_rahl_carving",
+  "title": {
+    "ar": "نَحْتُ مَفَاصِلِ الرَّحْلِ الخَشَبِيِّ المَفْصِلِيِّ مِنْ قِطْعَةٍ وَاحِدَةٍ فِي قُونْيَةَ",
+    "de": "Das Schnitzen des einteiligen Faltpults (Rahl) aus Walnussholz in Konya",
+    "en": "Carving the Monobloc Interlocking Hinge of the Walnut Rahl in Konya"
+  },
+  "context": {
+    "ar": "حِوَارٌ فِي مَشْغَلِ النِّجَارَةِ السَّلْجُوقِيَّةِ فِي قُونْيَةَ بَيْنَ أُسْتَاذِ الحَفْرِ وَمُسَاعِدِهِ حَوْلَ شَقِّ مَفَاصِلِ التَّعْشِيقِ فِي جِذْعِ الجَوْزِ لِيَنْطَوِيَ الرَّحْلُ وَيَنْفَتِحَ دُونَ أَيِّ حَدِيدٍ.",
+    "de": "Ein Gespräch in der seldschukischen Holzschnitzer-Gilde in Konya zwischen dem Meister und seinem Gehilfen über das Freilegen der Scharnierfinger aus einem massiven Walnussbrett.",
+    "en": "A dialogue in the Seljuk woodcarving guild in Konya between the master and his apprentice on releasing interlocking hinge knuckles from a solid walnut plank to fold without metal."
+  },
+  "turns": [
+    {
+      "speaker": {
+        "ar": "المُعَلِّمُ عَبْدُ الوَاحِدِ (نَحَّاتُ الخَشَبِ)",
+        "de": "Meister Abd al-Wahid (Der Holzschnitzer)",
+        "en": "Master Abd al-Wahid (The Woodcarver)"
+      },
+      "ar": "احْفِرْ بِإِزْمِيلِكَ المُنْحَنِي بَيْنَ مَفَاصِلِ الحَبْسِ، وَفَرِّغِ الخَشَبَ بِرِفْقٍ حَتَّى تَنْفَصِلَ الأَسْنَانُ وَهِيَ لا تَزَالُ مُتَشَابِكَةً.",
+      "de": "Stich mit deinem Hohleisen behutsam zwischen die Knöchelglieder und höhle das Holz frei, bis sich die Zähne lösen und dennoch unlösbar verkettet bleiben.",
+      "en": "Carve with your curved gouge between the knuckle joints, clearing the wood gently until the teeth separate while remaining immovably interlocked."
+    },
+    {
+      "speaker": {
+        "ar": "سُلَيْمَانُ (المُتَدَرِّبُ)",
+        "de": "Suleiman (Der Lehrling)",
+        "en": "Suleiman (The Apprentice)"
+      },
+      "ar": "أَخَافُ أَنْ تَنْكَسِرَ عُرْوَةُ المَفْصِلِ حِينَ أَفْتَحُ اللَّوْحَ لِلْمَرَّةِ الأُولَى!",
+      "de": "Ich bange, dass ein Scharnierzahn bricht, wenn ich das Brett zum ersten Mal auffalte!",
+      "en": "I fear a hinge knuckle might snap when I open the board for the very first time!"
+    },
+    {
+      "speaker": {
+        "ar": "عَبْدُ الوَاحِدِ",
+        "de": "Abd al-Wahid",
+        "en": "Abd al-Wahid"
+      },
+      "ar": "اخْتَرْنَا لِهَذَا جَوْزًا صَلْبًا دُهِنَ بِزَيْتِ الجَوْزِ الدَّافِئِ؛ حَرِّكْهُ بِمَهَلٍ، فَتَسْمَعُ لَهُ صَوْتًا مُطْمَئِنًّا حِينَ يَفْتَرِقُ فَيَغْدُو حَامِلًا عَلَى هَيْئَةِ حَرْفِ (X).",
+      "de": "Deshalb wählten wir zähes Walnussholz, getränkt mit warmem Nussöl; bewege es sacht, dann teilt es sich mit leisem Knistern zum kreuzförmigen Pult.",
+      "en": "That is why we selected seasoned walnut steeped in warm walnut oil; move it gently, and you will hear a reassuring whisper as it parts into an X-shaped cradle."
+    },
+    {
+      "speaker": {
+        "ar": "سُلَيْمَانُ",
+        "de": "Suleiman",
+        "en": "Suleiman"
+      },
+      "ar": "سُبْحَانَ مَنْ عَلَّمَ الإِنْسَانَ! لَوْحٌ وَاحِدٌ يُصْبِحُ مَقْعَدًا لِأَجَلِّ الكُتُبِ دُونَ مِسْمَارٍ وَاحِدٍ!",
+      "de": "Gepriesen sei der Schöpfer, der den Menschen lehrte! Eine einzige Bohle wird zum Thron für das edelste aller Bücher, ganz ohne einen einzigen Nagel!",
+      "en": "Glory be to the Teacher of mankind! A single board becomes a throne for the noblest of books without a single nail!"
+    },
+    {
+      "speaker": {
+        "ar": "عَبْدُ الوَاحِدِ",
+        "de": "Abd al-Wahid",
+        "en": "Abd al-Wahid"
+      },
+      "ar": "هَذَا سِرُّ الصَّنْعَةِ السَّلْجُوقِيَّةِ؛ نَجْعَلُ الخَشَبَ يَخْدِمُ بَعْضُهُ بَعْضًا، وَنَرْفَعُ كَلِمَةَ الحَقِّ عَنِ التُّرَابِ إِجْلاَلاً لِمَنْزِلَتِهَا فِي السَّمَاءِ.",
+      "de": "Das ist das Geheimnis seldschukischer Meisterschaft: Das Holz stützt sich selbst, und wir heben das Wort der Wahrheit über den Staub, in Ehrfurcht vor seinem himmlischen Rang.",
+      "en": "That is the secret of Seljuk mastery: we make the wood sustain itself, lifting the word of truth above the dust in reverence for its celestial station."
+    }
+  ]
+}

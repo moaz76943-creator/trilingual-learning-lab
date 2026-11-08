@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_322_zusammenklappen_thana",
+  "root": "ث - ن - ي",
+  "trilingual": {
+    "ar": {
+      "infinitive": "ثَنْيٌ",
+      "past": "ثَنَى",
+      "present": "يَثْنِي",
+      "imperative": "اثْنِ",
+      "meaning": "طَوَى دَفَّتَيِ الرَّحْلِ عَلَى بَعْضِهِمَا حَتَّى عَادَ لَوْحًا وَاحِدًا سَهْلَ الحَمْلِ"
+    },
+    "de": {
+      "infinitive": "zusammenklappen / zusammenfalten",
+      "past": "klappte zusammen",
+      "present": "klappt zusammen",
+      "perfect": "hat zusammengeklappt",
+      "meaning": "die beiden Flügel des Buchständers zu einem flachen, tragbaren Brett zusammenfalten"
+    },
+    "en": {
+      "infinitive": "to fold flat / collapse a book stand",
+      "past": "folded flat",
+      "present": "folds flat",
+      "participle": "folded flat",
+      "meaning": "to collapse the cross-wings of a book rest flush against one another into a portable slab"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يَثْنِي القَارِئُ الرَّحْلَ بَعْدَ فَرَاغِ التِّلاَوَةِ لِيَضَعَهُ فِي صُنْدُوقِهِ.",
+      "de": "Der Leser klappt das Pult nach der Rezitation zusammen, um es in seiner Truhe zu verwahren.",
+      "en": "The reader folds the rahl flat after recitation to stow it inside its chest."
+    },
+    {
+      "tense": "past",
+      "ar": "ثَنَى التِّلْمِيذُ الحَامِلَ فَلَمْ يَشْغَلْ حَيِّزًا فِي مَسِيرِهِ إِلَى الكُتَّابِ.",
+      "de": "Der Schüler klappte das Gestell zusammen, sodass es auf dem Weg zur Schule kaum Raum einnahm.",
+      "en": "The student folded the stand flat so it occupied little room on his way to school."
+    }
+  ]
+}

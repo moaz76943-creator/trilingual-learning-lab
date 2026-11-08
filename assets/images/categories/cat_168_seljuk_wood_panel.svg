@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <radialGradient id="kundekariCenter" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#d7ccc8"/>
+      <stop offset="60%" stop-color="#8d6e63"/>
+      <stop offset="100%" stop-color="#3e2723"/>
+    </radialGradient>
+  </defs>
+  <!-- Outer Walnut Border Molding -->
+  <rect x="25" y="25" width="150" height="150" rx="4" fill="#4e342e" stroke="#271b16" stroke-width="3"/>
+  <!-- Inset Geometric Octagram Star (8-Pointed Star) -->
+  <g transform="translate(100, 100)">
+    <!-- First Square -->
+    <rect x="-42" y="-42" width="84" height="84" fill="url(#kundekariCenter)" stroke="#ffd54f" stroke-width="1.8"/>
+    <!-- Second Square Rotated 45° -->
+    <rect x="-42" y="-42" width="84" height="84" fill="url(#kundekariCenter)" stroke="#ffd54f" stroke-width="1.8" transform="rotate(45)"/>
+    <!-- Central Hexagonal Boss -->
+    <circle cx="0" cy="0" r="16" fill="#271b16" stroke="#ffd54f" stroke-width="1.5"/>
+    <circle cx="0" cy="0" r="5" fill="#ffd54f"/>
+  </g>
+  <!-- Radiating Interlocking Kite Strapwork Polygonal Battens -->
+  <line x1="25" y1="25" x2="58" y2="58" stroke="#ffd54f" stroke-width="2"/>
+  <line x1="175" y1="25" x2="142" y2="58" stroke="#ffd54f" stroke-width="2"/>
+  <line x1="25" y1="175" x2="58" y2="142" stroke="#ffd54f" stroke-width="2"/>
+  <line x1="175" y1="175" x2="142" y2="142" stroke="#ffd54f" stroke-width="2"/>
+</svg>
