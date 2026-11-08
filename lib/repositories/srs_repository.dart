@@ -32,12 +32,16 @@ class SRSRepository {
     final now = DateTime.now();
     final List<Concept> due = [];
 
-    for (var concept in allConcepts) {
+    final today = DateTime(now.year, now.month, now.day);
+    for (final concept in allConcepts) {
       final card = _cards[concept.conceptId];
       if (card == null) {
-        // بطاقة جديدة لم تدرس بعد، تدخل ضمن المستحق اليوم
         due.add(concept);
-      } else if (card.nextReviewDate.isBefore(now) || card.nextReviewDate.day == now.day) {
+        continue;
+      }
+      final scheduled = card.nextReviewDate;
+      final dueDay = DateTime(scheduled.year, scheduled.month, scheduled.day);
+      if (!dueDay.isAfter(today)) {
         due.add(concept);
       }
     }
