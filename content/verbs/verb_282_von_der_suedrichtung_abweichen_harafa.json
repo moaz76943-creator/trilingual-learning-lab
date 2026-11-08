@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_282_von_der_suedrichtung_abweichen_harafa",
+  "root": "ح - ر - ف",
+  "trilingual": {
+    "ar": {
+      "infinitive": "انْحِرَافٌ",
+      "past": "حَرَفَ",
+      "present": "يَحْرِفُ",
+      "imperative": "احْرِفْ",
+      "meaning": "مَالَ عَنِ اتِّجَاهِ القِبْلَةِ أَوْ خَطِّ الزَّوَالِ بِزَاوِيَةٍ مَعْلُومَةٍ"
+    },
+    "de": {
+      "infinitive": "von der Südrichtung abweichen",
+      "past": "wich von der Südrichtung ab",
+      "present": "weicht von der Südrichtung ab",
+      "perfect": "ist von der Südrichtung abgewichen",
+      "meaning": "mit einer Gebäudefassade um einen bestimmten Winkel vom Meridian abweichen"
+    },
+    "en": {
+      "infinitive": "to decline / veer from cardinal south",
+      "past": "declined / veered",
+      "present": "declines / veers",
+      "participle": "declined / veered",
+      "meaning": "to diverge or deviate at a measurable azimuthal angle from true south"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يَحْرِفُ الحَائِطُ الغَرْبِيُّ نَحْوَ مَغِيبِ الشَّمْسِ بِعِشْرِينَ دَرَجَةً.",
+      "de": "Die Westmauer weicht um zwanzig Grad in Richtung des Sonnenuntergangs ab.",
+      "en": "The western wall declines by twenty degrees toward the setting sun."
+    },
+    {
+      "tense": "past",
+      "ar": "حَرَفَ الفَلَكِيُّ مَسَارَ الشَّاخِصِ لِيُوَافِقَ مَيْلَ القِبْلَةِ الشَّرِيفَةِ.",
+      "de": "Der Astronom neigte die Gnomonbahn, um sie der exakten Qibla-Richtung anzupassen.",
+      "en": "The astronomer angled the gnomon trajectory to align with the sacred Qibla direction."
+    }
+  ]
+}

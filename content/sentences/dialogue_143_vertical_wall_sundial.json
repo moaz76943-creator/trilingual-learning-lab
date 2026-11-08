@@ -1,0 +1,65 @@
+{
+  "dialogue_id": "dialogue_143_vertical_wall_sundial",
+  "title": {
+    "ar": "تَرْكِيبُ المِزْوَلَةِ الجِدَارِيَّةِ المُنْحَرِفَةِ عَلَى وَاجِهَةِ المِئْذَنَةِ",
+    "de": "Montage der abweichenden Vertikalsonnenuhr an der Minarettfassade",
+    "en": "Installing the Declining Vertical Wall Sundial on the Minaret Facade"
+  },
+  "context": {
+    "ar": "حِوَارٌ فِي سَاحَةِ جَامِعِ القَرَوِيِّينَ بَيْنَ رَئِيسِ البَنَّائِينَ وَالمُوَقِّتِ الفَلَكِيِّ حَوْلَ ضَبْطِ مِزْوَلَةٍ جِدَارِيَّةٍ تَنْظُرُ نَحْوَ الجَنُوبِ الغَرْبِيِّ.",
+    "de": "Ein Gespräch auf dem Hof der al-Qarawiyyin-Moschee zwischen dem Baumeister und dem Hofastronomen über das Justieren einer südwestlich geneigten Vertikalsonnenuhr.",
+    "en": "A dialogue in the al-Qarawiyyin courtyard between the master mason and the astronomer on calibrating a south-west declining vertical sundial."
+  },
+  "turns": [
+    {
+      "speaker": {
+        "ar": "المُهَنْدِسُ إِدْرِيسُ (المُوَقِّتُ)",
+        "de": "Ingenieur Idris (Der Zeitmesser)",
+        "en": "Engineer Idris (The Timekeeper)"
+      },
+      "ar": "قِسْتُ انْحِرَافَ هَذَا الجِدَارِ عَنْ خَطِّ الزَّوَالِ، فَوَجَدْتُهُ يَمِيلُ نَحْوَ الغَرْبِ بِسَبْعَ عَشْرَةَ دَرَجَةً.",
+      "de": "Ich habe die Abweichung dieser Mauer vom Meridian gemessen; sie weicht um siebzehn Grad nach Westen ab.",
+      "en": "I measured this wall's declination from the meridian line; it veers seventeen degrees toward the west."
+    },
+    {
+      "speaker": {
+        "ar": "المُعَلِّمُ قَاسِمٌ (البَنَّاءُ)",
+        "de": "Meister Qasim (Der Baumeister)",
+        "en": "Master Qasim (The Master Mason)"
+      },
+      "ar": "كَيْفَ سَنَجْعَلُ الشَّاخِصَ مُوَازِيًا لِمِحْوَرِ الأَرْضِ وَالجِدَارُ لَيْسَ جَنُوبِيًّا صِرْفًا؟",
+      "de": "Wie richten wir den Gnomon parallel zur Erdachse aus, wenn die Wand nicht rein nach Süden zeigt?",
+      "en": "How shall we align the gnomon parallel to the Earth's axis when the wall is not facing purely south?"
+    },
+    {
+      "speaker": {
+        "ar": "إِدْرِيسُ",
+        "de": "Idris",
+        "en": "Idris"
+      },
+      "ar": "نَصْنَعُ قَاعِدَةَ الشَّاخِصِ مُنْحَرِفَةً بِذَاتِ القَدْرِ، فَيَبْدُو مَائِلًا جَانِبِيًّا دُونَ أَنْ يَفْقِدَ اسْتِقَامَتَهُ القُطْبِيَّةَ.",
+      "de": "Wir schmieden den Fuß des Gnomons im selben Maß abgeschrägt; so neigt er sich seitlich, ohne seine polare Ausrichtung zu verlieren.",
+      "en": "We forge the gnomon base offset by the same magnitude; thus it leans sideways without losing its polar alignment."
+    },
+    {
+      "speaker": {
+        "ar": "قَاسِمٌ",
+        "de": "Qasim",
+        "en": "Qasim"
+      },
+      "ar": "وَهَلْ تَكُونُ خُطُوطُ سَاعَاتِ الصَّبَاحِ مُتَقَارِبَةً، بَيْنَمَا تَتَبَاعَدُ سَاعَاتُ المَسَاءِ؟",
+      "de": "Werden die Morgenstundenlinien enger beieinander liegen, während sich die Nachmittagsstunden weiten?",
+      "en": "Will the morning hour lines crowd closer together, while the afternoon hours fan out widely?"
+    },
+    {
+      "speaker": {
+        "ar": "إِدْرِيسُ",
+        "de": "Idris",
+        "en": "Idris"
+      },
+      "ar": "نَعَمْ؛ لِأَنَّ الشَّمْسَ تَسْطَعُ عَلَى هَذَا الجِدَارِ طَوِيلًا فِي الأَصِيلِ؛ فَيَرَى أَهْلُ المَدِينَةِ مَوْعِدَ العَصْرِ وَالمَغْرِبِ مِنْ بَعِيدٍ.",
+      "de": "Ganz recht; da die Nachmittagssonne lange auf diese Wand scheint, sehen die Bürger die Asr- und Maghrib-Zeiten schon aus weiter Ferne.",
+      "en": "Precisely; since the afternoon sun illuminates this facade for hours, the townsfolk observe the Asr and Maghrib times from afar."
+    }
+  ]
+}

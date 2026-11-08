@@ -286,5 +286,20 @@
     "path": "assets/images/categories/cat_147_declination_hyperbola.svg",
     "category": "category_147_sundials_and_gnomon_shadows",
     "description": "Solstitial and equinoctial declination hyperbola curves on sundial"
+  },
+  "cat_148_vertical_sundial": {
+    "path": "assets/images/categories/cat_148_vertical_sundial.svg",
+    "category": "category_148_vertical_wall_sundials_and_facades",
+    "description": "Declining vertical wall sundial with asymmetric afternoon hour lines"
+  },
+  "cat_148_polar_wall_gnomon": {
+    "path": "assets/images/categories/cat_148_polar_wall_gnomon.svg",
+    "category": "category_148_vertical_wall_sundials_and_facades",
+    "description": "Slanted polar wall gnomon mounted on stone facade with bronze bracket"
+  },
+  "cat_148_facade_declination": {
+    "path": "assets/images/categories/cat_148_facade_declination.svg",
+    "category": "category_148_vertical_wall_sundials_and_facades",
+    "description": "Geometric facade declination diagram showing angular deviation from south"
   }
 }

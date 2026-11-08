@@ -1,0 +1,52 @@
+{
+  "category_id": "category_148_vertical_wall_sundials_and_facades",
+  "title": {
+    "ar": "المَزَاوِلُ الجِدَارِيَّةُ المُنْحَرِفَةُ وَشَوَاخِصُ الوَاجِهَاتِ",
+    "de": "Abweichende Vertikalsonnenuhren und Fassaden-Zeitmesser",
+    "en": "Declining Vertical Wall Sundials and Facade Horology"
+  },
+  "level": "B1",
+  "description": {
+    "ar": "مُصْطَلَحَاتُ مَزَاوِلِ الجُدْرَانِ العَمُودِيَّةِ، وَانْحِرَافِ الحَائِطِ عَنِ السَّمْتِ، وَشَوَاخِصِ المَآذِنِ فِي العِمَارَةِ الإِسْلَامِيَّةِ التُّرَاثِيَّةِ.",
+    "de": "Fachwortschatz zu vertikalen Wandsonnenuhren, Mauer-Azimutabweichungen und Minarett-Gnomonen der klassischen islamischen Baukunst.",
+    "en": "Terminology of vertical wall sundials, wall azimuth declination, and minaret gnomons in classical Islamic architecture."
+  },
+  "vocabulary": [
+    {
+      "id": "term_148_01",
+      "ar": "المِزْوَلَةُ الجِدَارِيَّةُ المُنْحَرِفَةُ",
+      "de": "die abweichende Vertikalsonnenuhr",
+      "en": "declining vertical wall sundial",
+      "phonetic_ar": "al-mizwalatu al-jidāriyyatu al-munḥarifah",
+      "example": {
+        "ar": "تُثَبَّتُ المِزْوَلَةُ الجِدَارِيَّةُ المُنْحَرِفَةُ عَلَى صَدْرِ المِئْذَنَةِ لِيَرَاهَا رُوَّادُ السُّوقِ وَالمُصَلُّونَ.",
+        "de": "Die abweichende Vertikalsonnenuhr wird an der Minarettwand angebracht, damit Marktgäste und Betende sie weithin sehen.",
+        "en": "The declining vertical wall sundial is mounted on the minaret facade so market visitors and worshipers view it clearly."
+      }
+    },
+    {
+      "id": "term_148_02",
+      "ar": "شَاخِصُ الجِدَارِ المَائِلُ",
+      "de": "der schräg montierte Polstab (Wandgnomon)",
+      "en": "slanted polar wall gnomon",
+      "phonetic_ar": "shākhiṣu al-jidāri al-mā'il",
+      "example": {
+        "ar": "يَبْرُزُ شَاخِصُ الجِدَارِ المَائِلُ مِنْ بَلَاطَةِ الرُّخَامِ لِيَرْمِيَ ظِلَّهُ عَلَى أَقْوَاسِ السَّاعَاتِ.",
+        "de": "Der schräg montierte Wandgnomon ragt aus der Marmorplatte hervor und wirft seinen Schatten auf die Stundenbögen.",
+        "en": "The slanted polar wall gnomon projects from the marble plaque to cast its shadow across the hour arcs."
+      }
+    },
+    {
+      "id": "term_148_03",
+      "ar": "زَاوِيَةُ انْحِرَافِ الحَائِطِ",
+      "de": "der Wandabweichungswinkel (die Deklination der Wand)",
+      "en": "wall declination azimuth angle",
+      "phonetic_ar": "zāwiyatu inḥirāfi al-ḥā'iṭ",
+      "example": {
+        "ar": "يَحْسُبُ الفَلَكِيُّ زَاوِيَةَ انْحِرَافِ الحَائِطِ قَبْلَ الشُّرُوعِ فِي خَطِّ سَاعَاتِ المِزْوَلَةِ.",
+        "de": "Der Astronom berechnet den Wandabweichungswinkel sorgfältig, bevor er die Stundenlinien der Sonnenuhr anreißt.",
+        "en": "The astronomer calculates the wall declination angle before beginning to scribe the sundial hour lines."
+      }
+    }
+  ]
+}

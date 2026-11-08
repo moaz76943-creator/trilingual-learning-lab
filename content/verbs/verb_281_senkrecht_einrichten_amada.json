@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_281_senkrecht_einrichten_amada",
+  "root": "ع - م - د",
+  "trilingual": {
+    "ar": {
+      "infinitive": "تَعْمِيدٌ",
+      "past": "عَمَدَ",
+      "present": "يَعْمِدُ",
+      "imperative": "اعْمِدْ",
+      "meaning": "أَقَامَ الشَّيْءَ شَاقُولِيًّا عَلَى الحَائِطِ دُونَ مَيْلَانٍ"
+    },
+    "de": {
+      "infinitive": "senkrecht einrichten / lotrecht montieren",
+      "past": "richtete senkrecht ein",
+      "present": "richtet senkrecht ein",
+      "perfect": "hat senkrecht eingerichtet",
+      "meaning": "eine Sonnenuhrplatte mittels Lot absolut senkrecht an einer Wand anbringen"
+    },
+    "en": {
+      "infinitive": "to plumb vertically / mount upright",
+      "past": "plumbed vertically",
+      "present": "plumbs vertically",
+      "participle": "plumbed vertically",
+      "meaning": "to install an instrument perfectly plumb and perpendicular against a vertical wall"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يَعْمِدُ البَنَّاءُ بَلَاطَةَ المِزْوَلَةِ بِاسْتِعْمَالِ مِيزَانِ الرَّصَاصِ.",
+      "de": "Der Baumeister richtet die Sonnenuhrplatte mit dem Bleilot exakt senkrecht ein.",
+      "en": "The mason plumbs the sundial slab vertically using the lead plumb bob."
+    },
+    {
+      "tense": "past",
+      "ar": "عَمَدَ المُهَنْدِسُ الجِدَارَ قَبْلَ أَنْ يَحْفِرَ مَجْرَى الشَّاخِصِ.",
+      "de": "Der Ingenieur richtete die Wandfläche lotrecht aus, bevor er die Gnomon-Fassung aushob.",
+      "en": "The engineer leveled the wall vertically before chiseling the socket for the gnomon."
+    }
+  ]
+}

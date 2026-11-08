@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <radialGradient id="compassBg" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="70%" stop-color="#fff8e1"/>
+      <stop offset="100%" stop-color="#ffe082"/>
+    </radialGradient>
+  </defs>
+  <!-- Background Compass Rose Circle -->
+  <circle cx="100" cy="100" r="78" fill="url(#compassBg)" stroke="#8d6e63" stroke-width="2.5"/>
+  <!-- Cardinal Meridian Line (North-South) -->
+  <line x1="100" y1="25" x2="100" y2="175" stroke="#1565c0" stroke-width="2.5"/>
+  <text x="100" y="20" font-family="serif" font-size="11" font-weight="bold" fill="#1565c0" text-anchor="middle">شَمَالٌ</text>
+  <text x="100" y="190" font-family="serif" font-size="11" font-weight="bold" fill="#1565c0" text-anchor="middle">جَنُوبٌ</text>
+  <!-- East-West Line -->
+  <line x1="25" y1="100" x2="175" y2="100" stroke="#90a4ae" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <!-- Oblique Wall Facade Plane (Tilted 25 degrees) -->
+  <g transform="rotate(-25 100 100)">
+    <rect x="30" y="93" width="140" height="14" rx="2" fill="#bcaaa4" stroke="#4e342e" stroke-width="2"/>
+    <!-- Normal Vector Perpendicular to Wall -->
+    <line x1="100" y1="100" x2="100" y2="170" stroke="#d32f2f" stroke-width="2.5" stroke-dasharray="4,2"/>
+    <polygon points="100,175 96,165 104,165" fill="#d32f2f"/>
+  </g>
+  <!-- Angular Arc Indicating Wall Declination -->
+  <path d="M 100,145 A 45,45 0 0,0 120,140" fill="none" stroke="#d32f2f" stroke-width="2.5"/>
+  <text x="135" y="148" font-family="serif" font-size="10" font-weight="bold" fill="#d32f2f">١٧° غَرْبًا</text>
+</svg>
