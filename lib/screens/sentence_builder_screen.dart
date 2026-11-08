@@ -29,9 +29,9 @@ class _SentenceBuilderScreenState extends State<SentenceBuilderScreen> {
   Future<void> _loadSentences() async {
     try {
       final jsonString = await rootBundle.loadString('content/grammar/sentences_a1.json');
-      final Map<String, dynamic> data = jsonDecode(jsonString);
-      final List list = data['sentences'] ?? [];
-      _sentences = list.map((i) => SentenceModel.fromJson(i)).toList();
+      final Map<String, dynamic> data = jsonDecode(jsonString) as Map<String, dynamic>;
+      final List<dynamic> list = (data['sentences'] as List<dynamic>?) ?? const <dynamic>[];
+      _sentences = list.map((i) => SentenceModel.fromJson(i as Map<String, dynamic>)).toList();
       _initCurrentQuestion();
     } catch (_) {}
     if (mounted) setState(() => _isLoading = false);
