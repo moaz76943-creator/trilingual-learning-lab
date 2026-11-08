@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_309_linien_praegen_sattara",
+  "root": "س - ط - ر",
+  "trilingual": {
+    "ar": {
+      "infinitive": "تَسْطِيرٌ",
+      "past": "سَطَّرَ",
+      "present": "يُسَطِّرُ",
+      "imperative": "سَطِّرْ",
+      "meaning": "أَوْقَعَ خُطُوطَ الإِرْشَادِ عَلَى الوَرَقِ بِالمِسْطَرَةِ دُونَ مِدَادٍ"
+    },
+    "de": {
+      "infinitive": "blind linieren / Zeilen prägen",
+      "past": "linierte blind",
+      "present": "liniert blind",
+      "perfect": "hat blind liniert",
+      "meaning": "Papier mittels Linierbrett tintenlos mit fühlbaren Leitlinien versehen"
+    },
+    "en": {
+      "infinitive": "to rule blind guidelines / impress lines",
+      "past": "ruled blind guidelines",
+      "present": "rules blind guidelines",
+      "participle": "ruled blind guidelines",
+      "meaning": "to impress faint, inkless guidelines into paper using a corded Mistara board"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يُسَطِّرُ الوَرَّاقُ رُزْمَةَ الأَوْرَاقِ قَبْلَ الشُّرُوعِ فِي النَّسْخِ.",
+      "de": "Der Buchkünstler liniert den Papierstapel blind, bevor er mit der Niederschrift beginnt.",
+      "en": "The scribe rules the batch of leaves blind before embarking on copying."
+    },
+    {
+      "tense": "past",
+      "ar": "سَطَّرَ الخَطَّاطُ الدَّفْتَرَ كُلَّهُ بِمِسْطَرَةِ حَرِيرٍ فَاسْتَوَتْ حُرُوفُهُ.",
+      "de": "Der Kalligraph liniert das ganze Buch mit der Seidenmistara, und seine Zeilen standen vollkommen gerade.",
+      "en": "The calligrapher ruled the entire codex with the silk Mistara, leaving his lines immaculate."
+    }
+  ]
+}

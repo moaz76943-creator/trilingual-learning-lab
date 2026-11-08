@@ -1,0 +1,52 @@
+{
+  "category_id": "category_162_mistara_and_ruling_boards",
+  "title": {
+    "ar": "مَسَاطِرُ التَّسْطِيرِ الحَرِيرِيَّةُ (المِسْطَرَةُ) وَأَدَوَاتُ التَّبْصِيمِ",
+    "de": "Seiden-Linierbretter (Mistara) und Prägewerkzeuge",
+    "en": "Silk-Strung Ruling Boards (Mistara) and Scribes' Indenting Tools"
+  },
+  "level": "B1",
+  "description": {
+    "ar": "مُصْطَلَحَاتُ مِسْطَرَةِ التَّسْطِيرِ الكَاغَدِيَّةِ، وَخُيُوطِ الحَرِيرِ المَشْدُودَةِ، وَتَبْصِيمِ السُّطُورِ البَارِزَةِ، وَضَبْطِ المَسَاحَاتِ الخَطِّيَّةِ فِي الكِتَابِ الإِسْلَامِيِّ.",
+    "de": "Fachbegriffe zu seidenbespannten Linierbrettern (Mistara), Blindlinien-Reliefs, Satzspiegelrahmen und Zeilenmaßen der islamischen Handschriftenkunst.",
+    "en": "Terminology of silk-strung Mistara ruling boards, blind line relief impressions, text block margins, and layout proportions in Islamic codicology."
+  },
+  "vocabulary": [
+    {
+      "id": "term_162_01",
+      "ar": "مِسْطَرَةُ التَّسْطِيرِ الحَرِيرِيَّةُ (المِسْطَرَةُ)",
+      "de": "das seidenbespannte Linierbrett (die Mistara)",
+      "en": "silk-strung Mistara ruling board",
+      "phonetic_ar": "misṭaratu at-tasṭīri al-ḥarīriyyah",
+      "example": {
+        "ar": "تَسْتَقِرُّ مِسْطَرَةُ التَّسْطِيرِ الحَرِيرِيَّةُ تَحْتَ الوَرَقَةِ لِتَرْسُمَ أَثَرَ السُّطُورِ بِلاَ قَلَمٍ وَلاَ رَصَاصٍ.",
+        "de": "Das seidenbespannte Linierbrett ruht unter dem Papier, um Zeilenlinien ganz ohne Stift oder Graphit einzuprägen.",
+        "en": "The silk-strung Mistara ruling board rests beneath the paper to impress line tracks without pen or lead."
+      }
+    },
+    {
+      "id": "term_162_02",
+      "ar": "خُيُوطُ النَّسْخِ المَشْدُودَةُ",
+      "de": "die straff gespannten Seiden-Linierfäden",
+      "en": "taut silk ruling cords",
+      "phonetic_ar": "khuyūṭu an-naskhi al-mashdūdah",
+      "example": {
+        "ar": "تَبْقَى خُيُوطُ النَّسْخِ المَشْدُودَةُ مُتَوَازِيَةً بِدِقَّةِ الدَّقِيقَةِ لِضَمَانِ انْتِظَامِ الكِتَابَةِ.",
+        "de": "Die straff gespannten Seidenfäden verlaufen haargenau parallel, um ein ebenmäßiges Schriftbild zu gewährleisten.",
+        "en": "The taut silk ruling cords remain strictly parallel to guarantee flawless scriptural uniformity."
+      }
+    },
+    {
+      "id": "term_162_03",
+      "ar": "مِبْصَمُ التَّسْطِيرِ العَظْمِيُّ",
+      "de": "das glatte Falz- und Prägebein (das Reibholz)",
+      "en": "bone paper-rubbing folder (folder tool)",
+      "phonetic_ar": "mibṣamu at-tasṭīri al-'aẓmiyy",
+      "example": {
+        "ar": "يَمْسَحُ الخَطَّاطُ وَجْهَ الكَاغَدِ بِمِبْصَمِ التَّسْطِيرِ العَظْمِيِّ لِتَغُورَ الخُيُوطُ فِي ظَهْرِ الصَّحِيفَةِ.",
+        "de": "Der Schreiber streicht mit dem glatten Falzbein über das Papier, damit sich die Fäden auf der Rückseite abbilden.",
+        "en": "The calligrapher rubs the paper surface with the bone folder so the cords indent into the reverse of the leaf."
+      }
+    }
+  ]
+}

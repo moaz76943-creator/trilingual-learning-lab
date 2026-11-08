@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <radialGradient id="cordShine" cx="50%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="40%" stop-color="#e0f7fa"/>
+      <stop offset="80%" stop-color="#00acc1"/>
+      <stop offset="100%" stop-color="#006064"/>
+    </radialGradient>
+  </defs>
+  <!-- Background Cardboard Texture Section -->
+  <rect x="20" y="20" width="160" height="160" rx="6" fill="#f5f5f5" stroke="#bcaaa4" stroke-width="2"/>
+  <!-- Taut Strung Blue Silk Cord under High Tension -->
+  <line x1="15" y1="100" x2="185" y2="100" stroke="url(#cordShine)" stroke-width="8" stroke-linecap="round"/>
+  <!-- Silk Thread Twist Fibers Texture -->
+  <path d="M 30,96 Q 40,104 50,96 Q 60,104 70,96 Q 80,104 90,96 Q 100,104 110,96 Q 120,104 130,96 Q 140,104 150,96 Q 160,104 170,96" fill="none" stroke="#ffffff" stroke-width="1.5" opacity="0.8"/>
+  <!-- Needle Hole Puncture Grommets at Left and Right -->
+  <circle cx="28" cy="100" r="8" fill="#3e2723" stroke="#ffd54f" stroke-width="1.5"/>
+  <circle cx="172" cy="100" r="8" fill="#3e2723" stroke="#ffd54f" stroke-width="1.5"/>
+  <!-- Pressure Contour Lines Radiating Above and Below -->
+  <line x1="30" y1="65" x2="170" y2="65" stroke="#b0bec5" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <line x1="30" y1="135" x2="170" y2="135" stroke="#b0bec5" stroke-width="1.5" stroke-dasharray="3,3"/>
+</svg>

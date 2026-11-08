@@ -1,0 +1,65 @@
+{
+  "dialogue_id": "dialogue_157_mistara_ruling_board",
+  "title": {
+    "ar": "تَشْدِيدُ خُيُوطِ الحَرِيرِ عَلَى مِسْطَرَةِ التَّسْطِيرِ فِي بَغْدَادَ",
+    "de": "Das Spannen der Seidenfäden auf dem Linierbrett (Mistara) in Bagdad",
+    "en": "Stringing Silk Cords on the Mistara Ruling Board in Baghdad"
+  },
+  "context": {
+    "ar": "حِوَارٌ فِي دَارِ الوِرَاقَةِ فِي بَغْدَادَ بَيْنَ خَطَّاطِ المَصَاحِفِ وَتِلْمِيذِهِ حَوْلَ صُنْعِ مِسْطَرَةِ التَّسْطِيرِ (المِسْطَرَةِ) مِنْ وَرَقٍ مُقَوًّى وَشَدِّ خُيُوطِ الحَرِيرِ لِتَبْصِيمِ سُطُورِ النَّسْخِ.",
+    "de": "Ein Fachgespräch in der Schreibstube von Bagdad zwischen dem Meisterkalligraphen und seinem Schüler über den Bau eines Linierbretts aus starkem Karton mit straff gespannten Seidenfäden zur Zeilenvorprägung.",
+    "en": "A dialogue in the Baghdad scriptorium between the master calligrapher and his disciple on constructing a pasteboard Mistara with taut silk threads to emboss guidelines for Naskh script."
+  },
+  "turns": [
+    {
+      "speaker": {
+        "ar": "الشَّيْخُ عَبْدُ اللهِ ابْنُ البَوَّابِ (الخَطَّاطُ)",
+        "de": "Scheich Abdullah Ibn al-Bawwab (Der Kalligraph)",
+        "en": "Sheikh Abdullah Ibn al-Bawwab (The Calligrapher)"
+      },
+      "ar": "أَلْصِقْ خَمْسَ طَبَقَاتٍ مِنْ وَرَقِ الكَاغَدِ بِالنَّشَا حَتَّى يَصِيرَ لَوْحًا صَلْبًا لا يَلْتَوِي، ثُمَّ اخْرِمْ طَرَفَيْهِ بِالإِبْرَةِ.",
+      "de": "Leime fünf Lagen Papier mit Weizenstärke aufeinander, bis eine formstabile Pappe entsteht, und stich dann beide Ränder mit der Ahle durch.",
+      "en": "Paste five layers of rag paper with starch glue until a rigid unbending board forms, then pierce both margins with the awl."
+    },
+    {
+      "speaker": {
+        "ar": "جَمَالٌ (المُتَعَلِّمُ)",
+        "de": "Dschamal (Der Schüler)",
+        "en": "Jamal (The Disciple)"
+      },
+      "ar": "كَمْ خَيْطًا حَرِيرِيًّا سَنَمُدُّ بَيْنَ الثُّقُوبِ لِيَسْتَقِيمَ صَفُّ السُّطُورِ فِي صَحِيفَةِ الكِتَابِ؟",
+      "de": "Wie viele Seidenfäden spannen wir durch die Löcher, damit die Zeilenfolge auf dem Buchblatt vollkommen parallel steht?",
+      "en": "How many silk cords shall we string between the punctures to align the row of lines across the book folio?"
+    },
+    {
+      "speaker": {
+        "ar": "ابْنُ البَوَّابِ",
+        "de": "Ibn al-Bawwab",
+        "en": "Ibn al-Bawwab"
+      },
+      "ar": "خَمْسَةَ عَشَرَ سَطْرًا لِلْمَتْنِ، مَعَ خَيْطَيْنِ قَائِمَيْنِ عَلَى الجَانِبَيْنِ لِحَصْرِ الهَامِشِ وَعَدَمِ خُرُوجِ القَلَمِ عَنْ حَدِّهِ.",
+      "de": "Fünfzehn Zeilen für den Textkörper, flankiert von zwei senkrechten Fäden an den Rändern, um das Satzbild streng zu begrenzen.",
+      "en": "Fifteen lines for the text body, flanked by two vertical cords on the sides to bound the margin and prevent the pen from straying."
+    },
+    {
+      "speaker": {
+        "ar": "جَمَالٌ",
+        "de": "Dschamal",
+        "en": "Jamal"
+      },
+      "ar": "وَكَيْفَ أُثَبِّتُ الوَرَقَةَ فَوْقَهَا لِأَبْصِمَ الخُطُوطَ دُونَ أَنْ تَتَزَحْزَحَ؟",
+      "de": "Und wie lege ich das Bogenblatt darüber, um die Linien einzuprägen, ohne dass es verrutscht?",
+      "en": "And how do I position the sheet over it to press the lines without it shifting?"
+    },
+    {
+      "speaker": {
+        "ar": "ابْنُ البَوَّابِ",
+        "de": "Ibn al-Bawwab",
+        "en": "Ibn al-Bawwab"
+      },
+      "ar": "ضَعِ الوَرَقَةَ بِتَطَابُقٍ، وَمَرِّرْ بَاطِنَ إِبْهَامِكَ بِمِرْوَدٍ أَمْلَسَ بَيْنَ الخُيُوطِ؛ فَيَبْرُزُ فِي القَفَا أَثَرٌ لَطِيفٌ يُرَى بِالعَيْنِ وَلا يُلَوِّثُ الصَّفْحَةَ.",
+      "de": "Lege das Blatt bündig auf und fahre mit dem Daumenballen sanft entlang der Fäden; auf der Rückseite entsteht ein zartes Relief, sichtbar dem Auge, ohne das Papier zu beflecken.",
+      "en": "Align the paper flush, and run your thumb pad smoothly along the threads; on the reverse appears a delicate relief, visible to the eye without soiling the page."
+    }
+  ]
+}

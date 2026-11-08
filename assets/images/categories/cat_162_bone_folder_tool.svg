@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="oxBone" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="40%" stop-color="#fffde7"/>
+      <stop offset="80%" stop-color="#f5f5dc"/>
+      <stop offset="100%" stop-color="#d7ccc8"/>
+    </linearGradient>
+  </defs>
+  <!-- Background Paper Sheet with Blind Embossed Ribs -->
+  <rect x="25" y="25" width="150" height="150" rx="4" fill="#fafafa" stroke="#cfd8dc" stroke-width="2"/>
+  <line x1="35" y1="55" x2="165" y2="55" stroke="#e0e0e0" stroke-width="2.5"/>
+  <line x1="35" y1="85" x2="165" y2="85" stroke="#e0e0e0" stroke-width="2.5"/>
+  <line x1="35" y1="115" x2="165" y2="115" stroke="#e0e0e0" stroke-width="2.5"/>
+  <line x1="35" y1="145" x2="165" y2="145" stroke="#e0e0e0" stroke-width="2.5"/>
+  <!-- Smooth Ox-Bone Folding / Rubbing Tool (Diagonal Blade) -->
+  <g transform="rotate(-35 100 100)">
+    <path d="M 40,90 C 35,90 35,110 40,110 L 150,106 C 165,106 170,100 170,100 C 170,100 165,94 150,94 Z" fill="url(#oxBone)" stroke="#a1887f" stroke-width="2"/>
+    <!-- Polished Highlight Along Spine of Bone -->
+    <path d="M 45,95 L 145,97" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <!-- Embossed Blind Ridge Emerging Under Tool -->
+  <circle cx="100" cy="115" r="4" fill="#00acc1" opacity="0.6"/>
+</svg>

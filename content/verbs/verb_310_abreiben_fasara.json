@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_310_abreiben_fasara",
+  "root": "ف - ص - ر",
+  "trilingual": {
+    "ar": {
+      "infinitive": "فَصْرٌ / تَبْصِيمٌ",
+      "past": "فَصَرَ",
+      "present": "يَفْصِرُ",
+      "imperative": "افْصِرْ",
+      "meaning": "ضَغَطَ الوَرَقَةَ فَوْقَ الخُيُوطِ لِيَبْرُزَ شَكْلُهَا فِي الصَّفْحَةِ"
+    },
+    "de": {
+      "infinitive": "durch Reiben einprägen / anreiben",
+      "past": "rieb ein",
+      "present": "reibt ein",
+      "perfect": "hat eingerieben",
+      "meaning": "das Papier über gespannten Fäden verreiben, um das Linienrelief abzubilden"
+    },
+    "en": {
+      "infinitive": "to rub-emboss / transfer line relief",
+      "past": "rub-embossed",
+      "present": "rub-embosses",
+      "participle": "rub-embossed",
+      "meaning": "to stroke the back of a paper sheet against raised cords to transfer relief guidelines"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يَفْصِرُ النَّاسِخُ وَجْهَ الكَاغَدِ بِإِبْهَامِهِ لِيَظْهَرَ النُّتُوءُ.",
+      "de": "Der Abschreiber reibt das Papier mit dem Daumen an, damit die Rillen hervortreten.",
+      "en": "The copyist rubs the paper surface with his thumb so the ridges stand out."
+    },
+    {
+      "tense": "past",
+      "ar": "فَصَرَ الصَّانِعُ المَخْطُوطَ فَبَدَتْ سُطُورُهُ جَلِيَّةً تَحْتَ ضَوْءِ السِّرَاجِ.",
+      "de": "Der Meister rieb das Blatt an, und seine Zeilen traten im Lampenlicht klar hervor.",
+      "en": "The artisan rub-embossed the folio, and its lines showed clearly under the lamp light."
+    }
+  ]
+}
