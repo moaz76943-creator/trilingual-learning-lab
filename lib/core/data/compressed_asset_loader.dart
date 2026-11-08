@@ -7,7 +7,7 @@ import '../utils/result.dart';
 /// محمل بيانات فوري يفك ضغط GZip مباشرة في الذاكرة دون كتابة ملفات مؤقتة على القرص
 class CompressedAssetLoader {
   /// فك ضغط بايتات gzip إلى نص JSON وتحليله في الذاكرة
-  static Result, Failure> decompressJsonMap(Uint8List compressedBytes) {
+  static Result<Map<String, dynamic>, Failure> decompressJsonMap(Uint8List compressedBytes) {
     try {
       final decompressedBytes = gzip.decode(compressedBytes);
       final jsonString = utf8.decode(decompressedBytes);
@@ -19,7 +19,7 @@ class CompressedAssetLoader {
   }
 
   /// فك ضغط ملف gzip مباشرة من مسار محلي
-  static Future<Result, Failure>> loadFromFile(String filePath) async {
+  static Future<Result<Map<String, dynamic>, Failure>> loadFromFile(String filePath) async {
     try {
       final file = File(filePath);
       if (!await file.exists()) {
