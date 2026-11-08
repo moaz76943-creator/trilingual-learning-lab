@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <radialGradient id="floatSphere" cx="35%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#fff59d"/>
+      <stop offset="40%" stop-color="#fbc02d"/>
+      <stop offset="80%" stop-color="#d4af37"/>
+      <stop offset="100%" stop-color="#5d4037"/>
+    </radialGradient>
+    <linearGradient id="leverBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#cfd8dc"/>
+      <stop offset="50%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#90a4ae"/>
+    </linearGradient>
+  </defs>
+  <!-- Background Water Surface Line -->
+  <line x1="20" y1="120" x2="180" y2="120" stroke="#0288d1" stroke-width="2.5" stroke-dasharray="6,4"/>
+  <!-- Pivot Fulcrum Post -->
+  <polygon points="50,150 40,70 60,70" fill="#455a64" stroke="#263238" stroke-width="2"/>
+  <circle cx="50" cy="70" r="5" fill="#fbc02d" stroke="#263238" stroke-width="1.5"/>
+  <!-- Counterweighted Balance Lever Arm -->
+  <line x1="30" y1="70" x2="145" y2="90" stroke="url(#leverBar)" stroke-width="5" stroke-linecap="round"/>
+  <!-- Conical Valve Plug at Left -->
+  <polygon points="30,70 25,50 35,50" fill="#c62828" stroke="#3e2723" stroke-width="1.5"/>
+  <!-- Suspended Buoyant Hollow Float Sphere -->
+  <circle cx="145" cy="120" r="28" fill="url(#floatSphere)" stroke="#3e2723" stroke-width="2.5"/>
+  <circle cx="137" cy="110" r="6" fill="#ffffff" opacity="0.6"/>
+  <!-- Connecting Vertical Linkage Rod -->
+  <line x1="145" y1="90" x2="145" y2="98" stroke="#b78103" stroke-width="3"/>
+</svg>

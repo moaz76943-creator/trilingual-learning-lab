@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bronzeTankGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8d6e63"/>
+      <stop offset="35%" stop-color="#bcaaa4"/>
+      <stop offset="70%" stop-color="#d7ccc8"/>
+      <stop offset="100%" stop-color="#5d4037"/>
+    </linearGradient>
+    <linearGradient id="waterLevelBlue" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#81d4fa" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#0288d1" stop-opacity="0.95"/>
+    </linearGradient>
+  </defs>
+  <!-- Reservoir Pillar Pedestal -->
+  <rect x="50" y="160" width="100" height="25" rx="4" fill="#4e342e" stroke="#271b16" stroke-width="2"/>
+  <!-- Cylindrical Bronze Water Reservoir Body -->
+  <rect x="55" y="45" width="90" height="115" rx="6" fill="url(#bronzeTankGrad)" stroke="#3e2723" stroke-width="3"/>
+  <!-- Cutaway Window Showing Constant Water Column -->
+  <rect x="68" y="60" width="64" height="90" rx="3" fill="#eceff1" stroke="#3e2723" stroke-width="1.5"/>
+  <rect x="70" y="80" width="60" height="68" fill="url(#waterLevelBlue)"/>
+  <!-- Floating Spherical Valve Bulb -->
+  <circle cx="100" cy="80" r="14" fill="#fbc02d" stroke="#3e2723" stroke-width="1.5"/>
+  <line x1="100" y1="66" x2="100" y2="40" stroke="#b78103" stroke-width="3" stroke-linecap="round"/>
+  <!-- Inflow Spout at Top -->
+  <path d="M 90,25 L 110,25 L 105,40 L 95,40 Z" fill="#cfd8dc" stroke="#37474f" stroke-width="1.5"/>
+  <!-- Outflow Drain Spigot with Gemstone Orifice at Bottom -->
+  <rect x="145" y="135" width="25" height="10" rx="2" fill="#5d4037" stroke="#3e2723" stroke-width="1.5"/>
+  <circle cx="170" cy="140" r="5" fill="#d32f2f" stroke="#3e2723" stroke-width="1.5"/>
+  <!-- Escaping Uniform Water Droplet -->
+  <ellipse cx="170" cy="158" rx="2.5" ry="4" fill="#0288d1"/>
+</svg>

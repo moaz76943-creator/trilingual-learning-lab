@@ -1,0 +1,65 @@
+{
+  "dialogue_id": "dialogue_145_clepsydra_float_calibrating",
+  "title": {
+    "ar": "مُعَايَرَةُ عَوَّامَةِ التَّدَفُّقِ فِي سَاعَةِ الفَسْقِيَّةِ المَائِيَّةِ",
+    "de": "Das Eichen des Regulierungs-Schwimmers in der hydraulischen Wasseruhr",
+    "en": "Calibrating the Flow Regulator Float in the Hydraulic Water Clock"
+  },
+  "context": {
+    "ar": "حِوَارٌ فِي دَارِ الحِيَلِ الهَنْدَسِيَّةِ فِي بَغْدَادَ بَيْنَ مُهَنْدِسِ السَّاعَاتِ وَمُسَاعِدِهِ حَوْلَ ضَبْطِ صِمَامِ العَوَّامَةِ لِضَمَانِ جَرَيَانِ المَاءِ بِانْتِظَامٍ طَوَالَ اللَّيْلِ.",
+    "de": "Ein Fachgespräch im Haus der Ingenieurskünste in Bagdad über das Justieren des Schwimmerventils für einen gleichmäßigen Wasserabfluss über Nacht.",
+    "en": "A workshop dialogue in the Baghdad House of Ingenious Devices on adjusting the float valve to guarantee uniform water outflow throughout the night."
+  },
+  "turns": [
+    {
+      "speaker": {
+        "ar": "المُهَنْدِسُ بَنُو مُوسَى (أَحْمَدُ)",
+        "de": "Ingenieur Banu Musa (Ahmad)",
+        "en": "Engineer Banu Musa (Ahmad)"
+      },
+      "ar": "ثَبِّتْ صِمَامَ النُّحَاسِ المَخْرُوطِيَّ بِذِرَاعِ العَوَّامَةِ، فَإِذَا ارْتَفَعَ المَاءُ شَعْرَةً، سَدَّ المَجْرَى فَوْرًا.",
+      "de": "Befestige den konischen Messingkegel am Schwimmerarm; steigt das Wasser auch nur um Haaresbreite, schließt er den Zulauf sofort.",
+      "en": "Mount the conical brass plug to the float arm; if the water rises by a hair's breadth, it seals the conduit immediately."
+    },
+    {
+      "speaker": {
+        "ar": "رَافِعٌ (المُسَاعِدُ الهَيْدْرُولِيكِيُّ)",
+        "de": "Rafi (Der Assistent)",
+        "en": "Rafi (The Assistant)"
+      },
+      "ar": "لَقَدْ وَزَنْتُ العَوَّامَةَ بِكُرَاتِ الرَّصَاصِ حَتَّى اسْتَقَرَّتْ عِنْدَ خَطِّ النِّصْفِ، فَهَلْ نَخْتَبِرُ ثَقْبَ العَقِيقِ الآنَ؟",
+      "de": "Ich habe den Schwimmer mit Bleischrot ausbalanciert, bis er genau zur Hälfte eintaucht; prüfen wir nun die Achat-Ausflussdüse?",
+      "en": "I balanced the float with lead pellets until it settled exactly at mid-line; shall we test the agate discharge orifice now?"
+    },
+    {
+      "speaker": {
+        "ar": "أَحْمَدُ",
+        "de": "Ahmad",
+        "en": "Ahmad"
+      },
+      "ar": "نَعَمْ، افْتَحْ مَحْبَسَ المَاءِ النَّقِيِّ، وَاحْسُبْ قَطَرَاتِ الصَّبِّ فِي مِعْيَارِ الزُّجَاجِ بِعَدِّ نَبَضَاتِ النَّوَّاسِ.",
+      "de": "Ja, öffne den Hahn für reines Quellwasser und zähle die Tropfen im Messglas anhand der Pendelschläge.",
+      "en": "Yes, open the stopcock of purified water, and tally the discharge droplets in the glass graduate against the pendulum beats."
+    },
+    {
+      "speaker": {
+        "ar": "رَافِعٌ",
+        "de": "Rafi",
+        "en": "Rafi"
+      },
+      "ar": "يَقْطُرُ المَاءُ بِسُكُونٍ تَامٍّ؛ مِائَةُ قَطْرَةٍ فِي كُلِّ سُدُسِ دَرَجَةٍ زَمَنِيَّةٍ دُونَ أَيِّ تَذَبْذُبٍ!",
+      "de": "Das Wasser tropft mit vollkommener Ruhe; genau hundert Tropfen je Sechstel-Zeitgrad ohne die geringste Schwankung!",
+      "en": "The water drips with utter serenity; exactly one hundred drops per sixth of a temporal degree without any fluctuation!"
+    },
+    {
+      "speaker": {
+        "ar": "أَحْمَدُ",
+        "de": "Ahmad",
+        "en": "Ahmad"
+      },
+      "ar": "هَذَا هُوَ التَّدَفُّقُ الحَقُّ؛ سَتَسْقُطُ كُرَاتُ النُّحَاسِ فِي طَاسَاتِهَا عِنْدَ كُلِّ سَاعَةٍ فَيَسْمَعُ أَهْلُ القَصْرِ رَنِينَ الزَّمَنِ بِانْتِظَامٍ.",
+      "de": "Das ist wahrhaftige Stetigkeit; so fallen die Messingkugeln stündlich in ihre Becken, und der Hof vernimmt den reinen Klang der Zeit.",
+      "en": "This is true hydraulic constancy; thus the bronze spheres will drop into their cymbals at each hour, letting the court hear the steady chime of time."
+    }
+  ]
+}

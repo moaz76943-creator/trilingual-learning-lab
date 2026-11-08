@@ -316,5 +316,20 @@
     "path": "assets/images/categories/cat_149_inverted_dome_arc.svg",
     "category": "category_149_hemispherical_scaphes_and_bowls",
     "description": "Cross-sectional diagram of inverted celestial dome projection inside concave basin"
+  },
+  "cat_150_clepsydra_tank": {
+    "path": "assets/images/categories/cat_150_clepsydra_tank.svg",
+    "category": "category_150_clepsydras_and_hydraulic_floats",
+    "description": "Bronze constant-head clepsydra supply tank with cutaway float column"
+  },
+  "cat_150_float_regulator": {
+    "path": "assets/images/categories/cat_150_float_regulator.svg",
+    "category": "category_150_clepsydras_and_hydraulic_floats",
+    "description": "Counterweighted balance lever with buoyant sphere and conical valve"
+  },
+  "cat_150_onyx_orifice": {
+    "path": "assets/images/categories/cat_150_onyx_orifice.svg",
+    "category": "category_150_clepsydras_and_hydraulic_floats",
+    "description": "Turned brass collet mounting pierced ruby agate discharge nozzle"
   }
 }

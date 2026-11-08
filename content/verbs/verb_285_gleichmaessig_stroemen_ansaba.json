@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_285_gleichmaessig_stroemen_ansaba",
+  "root": "ن - س - ب",
+  "trilingual": {
+    "ar": {
+      "infinitive": "إِنْسَابٌ",
+      "past": "أَنْسَبَ",
+      "present": "يُنْسِبُ",
+      "imperative": "أَنْسِبْ",
+      "meaning": "جَعَلَ المَاءَ يَجْرِي بِمِقْدَارٍ رَتِيبٍ دُونَ زِيَادَةٍ وَلَا نُقْصَانٍ"
+    },
+    "de": {
+      "infinitive": "gleichmäßig ausströmen lassen",
+      "past": "ließ gleichmäßig ausströmen",
+      "present": "lässt gleichmäßig ausströmen",
+      "perfect": "hat gleichmäßig ausströmen lassen",
+      "meaning": "eine Flüssigkeit mit unveränderlicher Geschwindigkeit stetig abfließen lassen"
+    },
+    "en": {
+      "infinitive": "to regulate to a uniform flow rate",
+      "past": "regulated to a uniform flow rate",
+      "present": "regulates to a uniform flow rate",
+      "participle": "regulated to a uniform flow rate",
+      "meaning": "to calibrate a fluid discharge to proceed at a strictly constant rate over time"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يُنْسِبُ الصَّانِعُ جَرَيَانَ القَطَرَاتِ لِتَتَطَابَقَ مَعَ دَقَائِقِ السَّاعَةِ.",
+      "de": "Der Meister lässt die Tropfen gleichmäßig ausströmen, damit sie den Minuten der Uhr entsprechen.",
+      "en": "The artisan regulates the drip flow uniformly to match the clock minutes."
+    },
+    {
+      "tense": "past",
+      "ar": "أَنْسَبَ المُهَنْدِسُ تَدَفُّقَ المِعْيَارِ قَبْلَ بَدْءِ الرَّصْدِ اللَّيْلِيِّ.",
+      "de": "Der Ingenieur regulierte den Durchfluss des Messgefäßes vor Beginn der Nachtbeobachtung.",
+      "en": "The engineer calibrated the orifice discharge to a uniform rate prior to nocturnal observation."
+    }
+  ]
+}

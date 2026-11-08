@@ -1,0 +1,52 @@
+{
+  "category_id": "category_150_clepsydras_and_hydraulic_floats",
+  "title": {
+    "ar": "السَّاعَاتُ المَائِيَّةُ (الفِنْجَانُ) وَمُنَظِّمَاتُ التَّدَفُّقِ الهَيْدْرُولِيكِيَّةُ",
+    "de": "Hydraulische Wasseruhren (Klepsydren) und Durchflussregler",
+    "en": "Water Clepsydras and Hydraulic Flow Regulators"
+  },
+  "level": "B1",
+  "description": {
+    "ar": "مُصْطَلَحَاتُ السَّاعَاتِ المَائِيَّةِ التُّرَاثِيَّةِ، وَعَوَّامَاتِ ضَبْطِ المَنْسُوبِ، وَثُقُوبِ التَّفْرِيغِ البِلَّوْرِيَّةِ فِي عِلْمِ الحِيَلِ الهَيْدْرُولِيكِيَّةِ.",
+    "de": "Fachbegriffe zu historischen Wasseruhren, Schwimmer-Niveaureglern und Achat-Ausflussdüsen der klassischen islamischen Hydrotechnik.",
+    "en": "Terminology of historical water clocks, float-level regulators, and calibrated gemstone discharge orifices in classical Islamic hydro-engineering."
+  },
+  "vocabulary": [
+    {
+      "id": "term_150_01",
+      "ar": "السَّاعَةُ المَائِيَّةُ الهَيْدْرُولِيكِيَّةُ",
+      "de": "die hydraulische Wasseruhr (die Klepsydra)",
+      "en": "hydraulic water clepsydra clock",
+      "phonetic_ar": "as-sā'atu al-mā'iyyatu al-haydrūlīkiyyah",
+      "example": {
+        "ar": "تَقِيسُ السَّاعَةُ المَائِيَّةُ الهَيْدْرُولِيكِيَّةُ الزَّمَنَ فِي اللَّيَالِي الغَائِمَةِ حِينَ تَغِيبُ النُّجُومُ.",
+        "de": "Die hydraulische Wasseruhr misst die Zeit in bewölkten Nächten, wenn keine Sterne sichtbar sind.",
+        "en": "The hydraulic water clepsydra clock measures time during overcast nights when the stars are obscured."
+      }
+    },
+    {
+      "id": "term_150_02",
+      "ar": "عَوَّامَةُ المُنَظِّمِ الهَيْدْرُولِيكِيِّ",
+      "de": "der hydraulische Schwimmerregler",
+      "en": "hydraulic float-valve regulator",
+      "phonetic_ar": "'awwāmatu al-munaẓẓimi al-haydrūlīkiyy",
+      "example": {
+        "ar": "تَصْعَدُ عَوَّامَةُ المُنَظِّمِ الهَيْدْرُولِيكِيِّ لِتَكْبَحَ مَجْرَى الصَّبِّ عِنْدَ بُلُوغِ الحَدِّ المَرْسُومِ.",
+        "de": "Der hydraulische Schwimmerregler steigt auf, um den Zufluss beim Erreichen der Sollhöhe zu drosseln.",
+        "en": "The hydraulic float-valve regulator ascends to choke the inflow upon reaching the calibrated limit."
+      }
+    },
+    {
+      "id": "term_150_03",
+      "ar": "ثَقْبُ التَّفْرِيغِ البِلَّوْرِيُّ",
+      "de": "die Achat-Ausflussdüse (die kalibrierte Blende)",
+      "en": "calibrated gemstone discharge orifice",
+      "phonetic_ar": "thaqbu at-tafrīghi al-billawriyy",
+      "example": {
+        "ar": "يُصْنَعُ ثَقْبُ التَّفْرِيغِ البِلَّوْرِيُّ مِنْ حَجَرِ العَقِيقِ لِيَقَاوِمَ تَآكُلَ المَاءِ عَلَى مَرِّ السِّنِينَ.",
+        "de": "Die Ausflussdüse wird aus Achat gefertigt, um der Wassererosion über viele Jahre zu widerstehen.",
+        "en": "The calibrated discharge orifice is fashioned from agate to withstand water erosion over decades."
+      }
+    }
+  ]
+}

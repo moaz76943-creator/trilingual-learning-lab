@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <radialGradient id="rubyAgate" cx="45%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#ff8a80"/>
+      <stop offset="35%" stop-color="#d50000"/>
+      <stop offset="75%" stop-color="#880e4f"/>
+      <stop offset="100%" stop-color="#311b92"/>
+    </radialGradient>
+    <linearGradient id="brassCollet" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fff59d"/>
+      <stop offset="50%" stop-color="#fbc02d"/>
+      <stop offset="100%" stop-color="#8d6e63"/>
+    </linearGradient>
+  </defs>
+  <!-- Threaded Brass Mounting Collet Collar -->
+  <circle cx="100" cy="100" r="75" fill="url(#brassCollet)" stroke="#3e2723" stroke-width="4"/>
+  <!-- Hexagonal Nut Facets -->
+  <polygon points="100,32 158,65 158,135 100,168 42,135 42,65" fill="none" stroke="#5d4037" stroke-width="2"/>
+  <!-- Gemstone Seat (Precision Turned Ring) -->
+  <circle cx="100" cy="100" r="50" fill="#212121" stroke="#ffeb3b" stroke-width="2"/>
+  <!-- Polished Ruby/Agate Jewel Bearing Disc -->
+  <circle cx="100" cy="100" r="44" fill="url(#rubyAgate)"/>
+  <!-- Microscopic Pierced Siphon Aperture (Discharge Nozzle) -->
+  <circle cx="100" cy="100" r="7" fill="#000000" stroke="#ffffff" stroke-width="1.5"/>
+  <!-- Perfectly Symmetrical Clear Water Droplet in Center -->
+  <circle cx="100" cy="100" r="3.5" fill="#e1f5fe"/>
+</svg>

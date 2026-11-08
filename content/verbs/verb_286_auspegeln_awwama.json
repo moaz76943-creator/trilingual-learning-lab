@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_286_auspegeln_awwama",
+  "root": "ع - و - م",
+  "trilingual": {
+    "ar": {
+      "infinitive": "تَعْوِيمٌ",
+      "past": "عَوَّمَ",
+      "present": "يُعَوِّمُ",
+      "imperative": "عَوِّمْ",
+      "meaning": "وَضَعَ عَوَّامَةً طَافِيَةً فَوْقَ المَاءِ لِضَبْطِ ارْتِفَاعِ المَنْسُوبِ"
+    },
+    "de": {
+      "infinitive": "mit einem Schwimmer auspegeln",
+      "past": "pegelte mit einem Schwimmer aus",
+      "present": "pegelt mit einem Schwimmer aus",
+      "perfect": "hat mit einem Schwimmer ausgepegelt",
+      "meaning": "den Flüssigkeitsstand mittels Schwimmerkörper stabilisieren"
+    },
+    "en": {
+      "infinitive": "to level with a float valve",
+      "past": "leveled with a float valve",
+      "present": "levels with a float valve",
+      "participle": "leveled with a float valve",
+      "meaning": "to stabilize hydraulic head equilibrium using a buoyant float valve mechanism"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يُعَوِّمُ الخَبِيرُ خَزَّانَ السَّاعَةِ لِيَمْنَعَ انْخِفَاضَ الضَّغْطِ الهَيْدْرُولِيكِيِّ.",
+      "de": "Der Experte pegelt den Wassertank mit einem Schwimmer aus, um Druckabfall zu verhindern.",
+      "en": "The expert levels the clock tank with a float to prevent hydraulic head drop."
+    },
+    {
+      "tense": "past",
+      "ar": "عَوَّمَ بَنُو مُوسَى حَوْضَ الفَسْقِيَّةِ بِكُرَةٍ مُجَوَّفَةٍ مِنْ نُحَاسٍ.",
+      "de": "Die Banu Musa pegelten das Brunnenbecken mit einer hohlen Messingkugel aus.",
+      "en": "The Banu Musa leveled the fountain basin using a hollow brass float ball."
+    }
+  ]
+}
