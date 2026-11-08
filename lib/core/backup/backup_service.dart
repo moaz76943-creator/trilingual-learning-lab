@@ -12,7 +12,7 @@ class BackupService {
     return jsonEncode(payload);
   }
 
-  static Result, Failure> importFromJson(String rawJson) {
+  static Result<Map<String, dynamic>, Failure> importFromJson(String rawJson) {
     try {
       final decoded = jsonDecode(rawJson) as Map<String, dynamic>;
       if (!decoded.containsKey('data')) {
