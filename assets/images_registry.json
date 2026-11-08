@@ -391,5 +391,20 @@
     "path": "assets/images/categories/cat_154_spiral_scoop.svg",
     "category": "category_154_geared_saqiyas_and_pot_chains",
     "description": "Archimedean spiral scoop-wheel lifting irrigation water to elevated flume"
+  },
+  "cat_156_trip_hammer": {
+    "path": "assets/images/categories/cat_156_trip_hammer.svg",
+    "category": "category_156_paper_mills_and_trip_hammers",
+    "description": "Hydraulic paper-mill trip-hammer striking rag fibers in limestone mortar"
+  },
+  "cat_156_maceration_vat": {
+    "path": "assets/images/categories/cat_156_maceration_vat.svg",
+    "category": "category_156_paper_mills_and_trip_hammers",
+    "description": "Stone vat basin steeping flax and mulberry bark fibers in lime water"
+  },
+  "cat_156_iron_shoe": {
+    "path": "assets/images/categories/cat_156_iron_shoe.svg",
+    "category": "category_156_paper_mills_and_trip_hammers",
+    "description": "Forged iron drop-hammer shoe with blunted striking face for fiber maceration"
   }
 }

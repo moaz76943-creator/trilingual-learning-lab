@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_298_einweichen_anka_a",
+  "root": "ن - ق - ع",
+  "trilingual": {
+    "ar": {
+      "infinitive": "إِنْقَاعٌ",
+      "past": "أَنْقَعَ",
+      "present": "يُنْقِعُ",
+      "imperative": "أَنْقِعْ",
+      "meaning": "غَمَرَ الأَلْيَافَ فِي المَاءِ وَالجِيرِ أَيَّامًا لِتَذُوبَ لُزُوجَتُهَا"
+    },
+    "de": {
+      "infinitive": "fermentieren lassen / einweichen",
+      "past": "weichte ein",
+      "present": "weicht ein",
+      "perfect": "hat eingeweicht",
+      "meaning": "Fasern tagelang in Kalkwasser laugen, um sie mürbe und weiß zu machen"
+    },
+    "en": {
+      "infinitive": "to steep / macerate in lime water",
+      "past": "steeped in lime water",
+      "present": "steeps in lime water",
+      "participle": "steeped in lime water",
+      "meaning": "to immerse raw textile fibers in alkaline water for days to ferment and soften them"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يُنْقِعُ الكَاغَدِيُّ لِحَاءَ الشَّجَرِ فِي حَوْضِ الجِيرِ المَصْقُولِ.",
+      "de": "Der Papiermacher weicht den Baumbast im gekalkten Trog ein.",
+      "en": "The papermaker steeps tree bark in the polished lime vat."
+    },
+    {
+      "tense": "past",
+      "ar": "أَنْقَعَ الصُّنَّاعُ سِيقَانَ القِنَّبِ أُسْبُوعًا قَبْلَ صَبِّهَا فِي جُرْنِ الرَّحَى.",
+      "de": "Die Handwerker weichten die Hanfstängel eine Woche lang ein, bevor sie ins Mahlwerk kamen.",
+      "en": "The craftsmen steeped the hemp stalks for a week before pouring them into the mortar."
+    }
+  ]
+}

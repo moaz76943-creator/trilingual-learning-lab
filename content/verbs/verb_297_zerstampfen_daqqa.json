@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_297_zerstampfen_daqqa",
+  "root": "د - ق - ق",
+  "trilingual": {
+    "ar": {
+      "infinitive": "دَقٌّ",
+      "past": "دَقَّ",
+      "present": "يَدُقُّ",
+      "imperative": "دُقَّ",
+      "meaning": "ضَرَبَ أَلْيَافَ القُطْنِ وَالكَتَّانِ فِي الجُرْنِ بِالمَطَارِقِ حَتَّى تَفَتَّتَتْ"
+    },
+    "de": {
+      "infinitive": "mit Wasserkraft zerstampfen / pochen",
+      "past": "zerstampfte",
+      "present": "zerstampft",
+      "perfect": "hat zerstampft",
+      "meaning": "Hadernfasern im Steintrog mit schweren Wasserkraft-Hämmern stundenlang aufschließen"
+    },
+    "en": {
+      "infinitive": "to macerate / crush fibers under water-hammers",
+      "past": "macerated fibers",
+      "present": "macerates fibers",
+      "participle": "macerated fibers",
+      "meaning": "to pulverize and fibrillate linen fibers inside a mortar using rhythmic hydraulic drop-hammers"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يَدُقُّ طَاحُونُ سَمَرْقَنْدَ لِحَاءَ التُّوتِ يَوْمَيْنِ كَامِلَيْنِ.",
+      "de": "Die Mühle von Samarkand stampft den Maulbeerbast zwei volle Tage lang.",
+      "en": "The Samarkand mill pounds the mulberry bark for two full days."
+    },
+    {
+      "tense": "past",
+      "ar": "دَقَّتِ المَطَارِقُ المَائِيَّةُ خِرَقَ الحَرِيرِ حَتَّى اسْتَحَالَتْ عَجِينًا لَيِّنًا.",
+      "de": "Die Wasserhämmer zerstampften die Seidenfetzen, bis sie zu weichem Teig wurden.",
+      "en": "The hydraulic trip-hammers crushed the silk rags until they turned into pliable paste."
+    }
+  ]
+}

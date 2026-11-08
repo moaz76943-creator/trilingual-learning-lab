@@ -1,0 +1,52 @@
+{
+  "category_id": "category_156_paper_mills_and_trip_hammers",
+  "title": {
+    "ar": "طَوَاحِينُ الكَاغَدِ المَائِيَّةُ وَمَطَارِقُ دَقِّ الأَلْيَافِ",
+    "de": "Wasserkraft-Papiermühlen und Hadern-Stampfwerke",
+    "en": "Hydraulic Paper Mills and Rag-Pulp Trip-Hammers"
+  },
+  "level": "B1",
+  "description": {
+    "ar": "مُصْطَلَحَاتُ مَصَانِعِ الكَاغَدِ المَائِيَّةِ، وَمَطَارِقِ الدَّقِّ الرَّتِيبَةِ، وَأَحْوَاضِ تَخْمِيرِ الكَتَّانِ، وَتَحْضِيرِ لِفَائِفِ المَخْطُوطَاتِ فِي التُّرَاثِ الإِسْلَامِيِّ.",
+    "de": "Fachbegriffe zu historischen Papiermühlen, nockengetriebenen Stampfhämmern, Hadernbottichen und der Aufbereitung haltbarer Pergamentersatz-Papiere.",
+    "en": "Terminology of water-powered paper mills, cam-driven drop hammers, rag maceration vats, and preparing enduring manuscript substrates in Islamic culture."
+  },
+  "vocabulary": [
+    {
+      "id": "term_156_01",
+      "ar": "مَطْرَقَةُ دَقِّ الكَاغَدِ المَائِيَّةُ",
+      "de": "der wassergetriebene Hadern-Stampfhammer",
+      "en": "hydraulic paper-mill trip-hammer",
+      "phonetic_ar": "miṭraqatu daqqi al-kāghadi al-mā'iyyah",
+      "example": {
+        "ar": "تَهْوِي مَطْرَقَةُ دَقِّ الكَاغَدِ المَائِيَّةُ فِي جُرْنِ الحَجَرِ لِتُحَوِّلَ خِرَقَ الكَتَّانِ إِلَى لِبَابٍ نَاصِعٍ.",
+        "de": "Der wassergetriebene Stampfhammer saust in den Steintrog hinab, um Leinenhadern in strahlenden Faserbrei zu wandeln.",
+        "en": "The hydraulic paper-mill trip-hammer crashes into the stone mortar to transform linen rags into radiant pulp."
+      }
+    },
+    {
+      "id": "term_156_02",
+      "ar": "جُرْنُ تَعْفِينِ وَتَلْيِينِ الكَتَّانِ",
+      "de": "der steinerne Einweich- und Gärtrog (der Hadernbottich)",
+      "en": "limestone rag fermentation and steeping vat",
+      "phonetic_ar": "jurnu ta'fīni wa-talyīni al-kattān",
+      "example": {
+        "ar": "تُرْبَطُ أَلْيَافُ القُطْنِ فِي جُرْنِ تَعْفِينِ الكَتَّانِ مَعَ مَاءِ الجِيرِ لِتَفْقِدَ قَسْوَتَهَا قَبْلَ الدَّقِّ.",
+        "de": "Die Baumwollfasern ruhen im Hadernbottich mit Kalkwasser, um ihre Härte vor dem Stampfen zu verlieren.",
+        "en": "Cotton fibers steep in the limestone vat with slaked lime to lose their stiffness before pounding."
+      }
+    },
+    {
+      "id": "term_156_03",
+      "ar": "نَعْلُ المَطْرَقَةِ الحَدِيدِيُّ",
+      "de": "der geschmiedete eiserne Hammerbeschlag (der Schuh)",
+      "en": "forged iron drop-hammer shoe",
+      "phonetic_ar": "na'lu al-miṭraqati al-ḥadīdiyy",
+      "example": {
+        "ar": "يُثَبَّتُ نَعْلُ المَطْرَقَةِ الحَدِيدِيُّ فِي رَأْسِ خَشَبِ السِّنْدِيَانِ لِيَمْنَعَ تَشَقُّقَهُ تَحْتَ ضَرْبَاتِ المَاءِ.",
+        "de": "Der geschmiedete Eisenbeschlag wird am Kopf des Eichenholzbalkens befestigt, um ein Splittern bei den wuchtigen Schlägen zu verhindern.",
+        "en": "The forged iron shoe is fastened to the oak beam head to prevent splintering under heavy water strokes."
+      }
+    }
+  ]
+}

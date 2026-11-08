@@ -1,0 +1,65 @@
+{
+  "dialogue_id": "dialogue_151_samarkand_paper_mill",
+  "title": {
+    "ar": "تَرْكِيبُ مَطَارِقِ طَاحُونَةِ الكَاغَدِ عَلَى نَهْرِ سِيَابَ فِي سَمَرْقَنْدَ",
+    "de": "Montage der Hadern-Stampfhämmer am Siyob-Kanal in Samarkand",
+    "en": "Assembling the Paper Mill Trip-Hammers on the Siyob Canal in Samarkand"
+  },
+  "context": {
+    "ar": "حِوَارٌ فِي مَشْغَلِ كَاغَدْخَانَة سَمَرْقَنْدَ بَيْنَ شَيْخِ الكَاغَدِيِّينَ وَحَدَّادِ الآلاَتِ حَوْلَ صَبِّ نُعُولِ الحَدِيدِ لِمَطَارِقِ الرَّحَى المَائِيَّةِ لِدَقِّ لِحَاءِ التُّوتِ وَالكَتَّانِ.",
+    "de": "Ein Gespräch in der Papiermühle von Samarkand zwischen dem Papiermachermeister und dem Zeugschmied über das Aufpassen der eisernen Hammerbeschläge zur Zerkleinerung von Maulbeerbast und Flachs.",
+    "en": "A dialogue in the Samarkand paper quarters between the master papermaker and the blacksmith on fitting iron shoes onto waterwheel drop-hammers to macerate mulberry bark and flax."
+  },
+  "turns": [
+    {
+      "speaker": {
+        "ar": "المُعَلِّمُ مَحْمُودٌ (شَيْخُ الكَاغَدِيِّينَ)",
+        "de": "Meister Mahmud (Der Papiermeister)",
+        "en": "Master Mahmud (The Paper Master)"
+      },
+      "ar": "اصْنَعْ نِعَالَ المَطَارِقِ مِنْ حَدِيدٍ كَلِيلِ الأَطْرَافِ، حَتَّى تَعْصِرَ اللِّيفَ عَصْرًا بَدَلًا مِنْ أَنْ تَقْطَعَهُ.",
+      "de": "Schmiede die Schuhe der Hämmer mit abgerundeten Kanten, damit sie die Fasern quetschen und zerfasern, statt sie zu zerschneiden.",
+      "en": "Forge the hammer shoes with blunted contours so they bruise and fray the fibers rather than cutting them."
+    },
+    {
+      "speaker": {
+        "ar": "أَفْضَلُ (حَدَّادُ الآلاَتِ)",
+        "de": "Afdal (Der Werkzeugschmied)",
+        "en": "Afdal (The Toolsmith)"
+      },
+      "ar": "كَمْ رِطْلًا نَجْعَلُ فِي وَزْنِ رَأْسِ كُلِّ مَطْرَقَةٍ لِيَكُونَ وَقْعُهَا كَافِيًا لِتَلْيِينِ لِحَاءِ التُّوتِ؟",
+      "de": "Wie viele Pfund soll der Kopf jedes Hammers wiegen, damit sein Schlag genügt, um den zähen Maulbeerbast geschmeidig zu stampfen?",
+      "en": "How many pounds should each hammer head weigh so its stroke suffices to soften the tough mulberry bark?"
+    },
+    {
+      "speaker": {
+        "ar": "مَحْمُودٌ",
+        "de": "Mahmud",
+        "en": "Mahmud"
+      },
+      "ar": "أَرْبَعِينَ رِطْلًا؛ فَإِذَا ارْتَفَعَتْ بِكَامَاتِ النَّاعُورَةِ وَسَقَطَتْ فِي جُرْنِ المَاءِ، دَقَّتْ قِطَعَ الخِرَقِ دَقًّا رَتِيبًا دُونَ تَوَقُّفٍ.",
+      "de": "Vierzig Pfund; wenn sie von den Nocken des Wasserrades gehoben wird und in den Steintrog saust, zermalmt sie das Hadernzeug stetig Tag und Nacht.",
+      "en": "Forty pounds; when lifted by the waterwheel cams and dropped into the stone trough, it mashes the rags in relentless rhythm day and night."
+    },
+    {
+      "speaker": {
+        "ar": "أَفْضَلُ",
+        "de": "Afdal",
+        "en": "Afdal"
+      },
+      "ar": "وَهَلْ نَجْعَلُ المَطَارِقَ الثَّلاَثَ تَهْوِي مَعًا أَمْ نُوَاكِبُهَا بِالتَّنَاوُبِ؟",
+      "de": "Lassen wir alle drei Hämmer gleichzeitig fallen, oder staffeln wir ihren Takt abwechselnd?",
+      "en": "Shall we let all three hammers strike simultaneously, or phase them in alternating succession?"
+    },
+    {
+      "speaker": {
+        "ar": "مَحْمُودٌ",
+        "de": "Mahmud",
+        "en": "Mahmud"
+      },
+      "ar": "بِالتَّنَاوُبِ الدَّقِيقِ؛ لِيَخِفَّ الحِمْلُ عَلَى مِحْوَرِ المَاءِ، وَيَبْقَى العَجِينُ مَمْخُوضًا فِي الجُرْنِ كَالحَلِيبِ الرَّائِقِ.",
+      "de": "In präzisem Wechseltakt; so wird die Wasserradwelle geschont, und der Faserbrei im Trog bleibt wie feine Milch in ständiger Bewegung.",
+      "en": "In precise alternating rhythm; thus the waterwheel axle is spared strain, and the pulp in the trough churns continuously like rich cream."
+    }
+  ]
+}
