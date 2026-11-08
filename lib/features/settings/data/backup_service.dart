@@ -31,7 +31,7 @@ class BackupService {
   }
 
   /// استيراد والتحقق من صحة ملف النسخة الاحتياطية
-  Future<Result, Failure>> importBackupJson(String jsonString) async {
+  Future<Result<Map<String, dynamic>, Failure>> importBackupJson(String jsonString) async {
     try {
       final decoded = jsonDecode(jsonString);
       if (decoded is! Map<String, dynamic>) {
