@@ -1,0 +1,65 @@
+{
+  "dialogue_id": "dialogue_158_proportional_calligraphy_ratios",
+  "title": {
+    "ar": "تَأْسِيسُ مِيزَانِ النُّقْطَةِ المَعِينِيَّةِ لِلْخَطِّ المَنْسُوبِ فِي بَغْدَادَ",
+    "de": "Die Begründung des Rautenpunkt-Maßes für die proportionierte Schrift in Bagdad",
+    "en": "Establishing the Rhombic Dot Standard for Proportioned Script in Baghdad"
+  },
+  "context": {
+    "ar": "حِوَارٌ فِي دِيوَانِ الإِنْشَاءِ فِي بَغْدَادَ بَيْنَ الوَزِيرِ الخَطَّاطِ أَبِي عَلِيِّ بنِ مُقْلَةَ وَتِلْمِيذِهِ حَوْلَ قِيَاسِ قَامَةِ الأَلِفِ بِعَرْضِ قَطَّةِ القَلَمِ وَإِدَارَةِ دَائِرَةِ التَّنَاسُبِ.",
+    "de": "Ein Gespräch in der Staatskanzlei von Bagdad zwischen Wesir Ibn Muqla und seinem Schüler über die Bemessung des Alif nach der Federbreite und das Schlagen des Proportionskreises.",
+    "en": "A dialogue in the Baghdad chancellery between Vizier Ibn Muqla and his pupil on measuring the height of the Alif by pen-nib width and drawing the circle of proportion."
+  },
+  "turns": [
+    {
+      "speaker": {
+        "ar": "الوَزِيرُ أَبُو عَلِيِّ بنُ مُقْلَةَ",
+        "de": "Wesir Abu Ali Ibn Muqla",
+        "en": "Vizier Abu Ali Ibn Muqla"
+      },
+      "ar": "اضْغَطْ بِسِنِّ القَلَمِ ضَغْطَةً مُتَرَافِعَةَ الزَّوَايَا؛ فَيَنْشَأُ مُرَبَّعٌ مَعِينِيٌّ يَتَسَاوَى طُولُ قُطْرَيْهِ، وَهُوَ مِيزَانُ حُرُوفِنَا.",
+      "de": "Setze die Federspitze im Neigungswinkel auf; so entsteht eine gleichschenklige Raute, deren Diagonale das unfehlbare Grundmaß unserer Buchstaben bildet.",
+      "en": "Press the pen-nib obliquely; thus a rhombic dot emerges whose diagonals balance, serving as the infallible metric of our letters."
+    },
+    {
+      "speaker": {
+        "ar": "إِسْمَاعِيلُ (كَاتِبُ السِّرِّ)",
+        "de": "Ismail (Der Kanzleischreiber)",
+        "en": "Ismail (The Chancellery Scribe)"
+      },
+      "ar": "كَيْفَ نَبْنِي قَامَةَ الأَلِفِ فَوْقَ هَذِهِ النُّقْطَةِ دُونَ أَنْ تَقْصُرَ أَوْ تَمِيلَ؟",
+      "de": "Wie errichten wir den Stamm des Alif über diesem Punkt, damit er weder zu kurz noch schief gerät?",
+      "en": "How do we erect the shaft of the Alif upon this dot so that it neither falls short nor tilts?"
+    },
+    {
+      "speaker": {
+        "ar": "ابْنُ مُقْلَةَ",
+        "de": "Ibn Muqla",
+        "en": "Ibn Muqla"
+      },
+      "ar": "نَرْصُفُ سَبْعَ نِقَاطٍ مَعِينِيَّةٍ فَوْقَ بَعْضِهَا رَصْفًا مُتَمَاسًّا، فَيَكُونُ طُولُهَا هُوَ قُطْرَ الدَّائِرَةِ الحَاصِرَةِ الَّتِي تُشْتَقُّ مِنْهَا سَائِرُ الحُرُوفِ.",
+      "de": "Wir reihen sieben Rautenpunkte berührend übereinander; ihre Gesamthöhe ist der Durchmesser des Leitkreises, aus dem alle übrigen Formen fließen.",
+      "en": "We stack seven rhombic dots touching tip-to-tip; their total span constitutes the diameter of the guiding circle from which all other glyphs derive."
+    },
+    {
+      "speaker": {
+        "ar": "إِسْمَاعِيلُ",
+        "de": "Ismail",
+        "en": "Ismail"
+      },
+      "ar": "فَهَلْ تَكُونُ كَاسَةُ النُّونِ وَبَطْنُ اللَّامِ نِصْفَ هَذِهِ الدَّائِرَةِ تَمَامًا؟",
+      "de": "Entspricht die Rundung des Nun und der Bogen des Lam genau dem Halbkreis dieses Umkreises?",
+      "en": "Does the bowl of the Nun and the tail of the Lam correspond exactly to the semicircle of this perimeter?"
+    },
+    {
+      "speaker": {
+        "ar": "ابْنُ مُقْلَةَ",
+        "de": "Ibn Muqla",
+        "en": "Ibn Muqla"
+      },
+      "ar": "نَعَمْ؛ لِيَكُونَ الخَطُّ هَنْدَسَةً رُوحَانِيَّةً ظَهَرَتْ بِآلَةٍ جُسْمَانِيَّةٍ؛ فَمَا بُنِيَ عَلَى العَدْلِ رَسَخَ فِي القُلُوبِ وَأَبْهَرَ العُقُولَ.",
+      "de": "Ja; damit die Schrift zu einer geistigen Geometrie wird, sichtbar gemacht durch irdisches Werkzeug. Was auf Gerechtigkeit ruht, besteht ewig.",
+      "en": "Yes; so the script becomes spiritual geometry manifested through physical instruments. Whatever is founded upon equity endures in hearts and captivates minds."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "category_id": "category_163_proportional_calligraphy_and_compass",
+  "title": {
+    "ar": "الخَطُّ المَنْسُوبُ وَمِيزَانُ النُّقْطَةِ المَعِينِيَّةِ وَفَرَاجِيرُ التَّنَاسُبِ",
+    "de": "Proportionierte Schrift (Al-Khatt Al-Mansub) und Rautenpunkt-Maße",
+    "en": "Proportioned Script (Al-Khatt Al-Mansub) and Rhombic Dot Geometry"
+  },
+  "level": "B1",
+  "description": {
+    "ar": "مُصْطَلَحَاتُ مَنْظُومَةِ الخَطِّ المَنْسُوبِ لاِبْنِ مُقْلَةَ، وَنِقَاطِ المِيزَانِ المَعِينِيَّةِ، وَالدَّائِرَةِ الحَاصِرَةِ، وَفَرَاجِيرِ الضَّبْطِ الهَنْدَسِيِّ فِي الحَضَارَةِ الإِسْلَامِيَّةِ.",
+    "de": "Fachbegriffe zum Proportionssystem von Ibn Muqla, Rautenpunkt-Einheiten, umschriebenen Kreisen und Proportionszirkeln der klassischen Kalligraphie.",
+    "en": "Terminology of Ibn Muqla's proportioned script canon, rhombic dot metrics, circumscribed circle geometry, and brass proportional calipers."
+  },
+  "vocabulary": [
+    {
+      "id": "term_163_01",
+      "ar": "نِظَامُ الخَطِّ المَنْسُوبِ",
+      "de": "das proportionierte Schriftsystem (Al-Khatt Al-Mansub)",
+      "en": "geometric proportioned script system",
+      "phonetic_ar": "niẓāmu al-khaṭṭi al-mansūb",
+      "example": {
+        "ar": "أَسَّسَ ابْنُ مُقْلَةَ نِظَامَ الخَطِّ المَنْسُوبِ لِيَحْمِيَ حُرُوفَ العَرَبِيَّةِ مِنَ التَّشْوِيهِ وَالاضْطِرَابِ.",
+        "de": "Ibn Muqla begründete das proportionierte Schriftsystem, um die arabischen Buchstaben vor Verzerrung zu schützen.",
+        "en": "Ibn Muqla founded the proportioned script system to preserve Arabic letters from distortion and inconsistency."
+      }
+    },
+    {
+      "id": "term_163_02",
+      "ar": "نُقْطَةُ المِيزَانِ المَعِينِيَّةُ",
+      "de": "der Rautenpunkt als Maßeinheit (Nuqta)",
+      "en": "rhombic dot pen-metric (nuqta)",
+      "phonetic_ar": "nuqṭatu al-mīzāni al-ma'īniyyah",
+      "example": {
+        "ar": "تُقَاسُ سَمَاكَةُ أَعْنَاقِ الحُرُوفِ بِأَجْزَاءِ نُقْطَةِ المِيزَانِ المَعِينِيَّةِ الَّتِي يُخَلِّفُهَا سِنُّ القَلَمِ.",
+        "de": "Die Strichstärken der Buchstaben werden nach Bruchteilen des Rautenpunktes der Federspitze bemessen.",
+        "en": "Stroke thicknesses of letter necks are measured in fractions of the rhombic dot produced by the pen nib."
+      }
+    },
+    {
+      "id": "term_163_03",
+      "ar": "فِرْجَارُ التَّنَاسُبِ النُّحَاسِيُّ",
+      "de": "der messingene Proportionszirkel",
+      "en": "brass proportional divider compass",
+      "phonetic_ar": "firjāru at-tanāsubi an-nuḥāsiyy",
+      "example": {
+        "ar": "يَسْتَعْمِلُ الخَطَّاطُ فِرْجَارَ التَّنَاسُبِ النُّحَاسِيَّ لِلتَّأَكُّدِ مِنْ تَطَابُقِ أَقْطَارِ الحُرُوفِ المُسْتَدِيرَةِ.",
+        "de": "Der Kalligraph nutzt den messingenen Proportionszirkel, um den Kreisdurchmesser runder Buchstaben zu eichen.",
+        "en": "The calligrapher employs the brass proportional compass to verify the matching diameters of circular letters."
+      }
+    }
+  ]
+}

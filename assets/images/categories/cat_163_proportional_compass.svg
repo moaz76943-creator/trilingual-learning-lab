@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="compassBrass" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fff59d"/>
+      <stop offset="40%" stop-color="#fbc02d"/>
+      <stop offset="80%" stop-color="#b78103"/>
+      <stop offset="100%" stop-color="#4e342e"/>
+    </linearGradient>
+  </defs>
+  <!-- Background Construction Lines -->
+  <circle cx="100" cy="100" r="70" fill="none" stroke="#e0e0e0" stroke-width="1.2" stroke-dasharray="4,4"/>
+  <line x1="100" y1="20" x2="100" y2="180" stroke="#cfd8dc" stroke-width="1"/>
+  <!-- Brass Proportional Double-Legged Calliper Arms crossed in X shape -->
+  <!-- Left Leg -->
+  <polygon points="45,35 155,165 145,172 38,42" fill="url(#compassBrass)" stroke="#3e2723" stroke-width="1.8"/>
+  <!-- Right Leg -->
+  <polygon points="155,35 45,165 38,158 148,28" fill="url(#compassBrass)" stroke="#3e2723" stroke-width="1.8"/>
+  <!-- Central Adjustable Pivot Nut with Knurled Thumb-Screw -->
+  <circle cx="100" cy="100" r="14" fill="#ffd54f" stroke="#3e2723" stroke-width="2.5"/>
+  <circle cx="100" cy="100" r="6" fill="#bf360c"/>
+  <!-- Hardened Needle Scribing Points at the Four Tips -->
+  <circle cx="45" cy="35" r="2.5" fill="#212121"/>
+  <circle cx="155" cy="35" r="2.5" fill="#212121"/>
+  <circle cx="45" cy="165" r="2.5" fill="#212121"/>
+  <circle cx="155" cy="165" r="2.5" fill="#212121"/>
+</svg>

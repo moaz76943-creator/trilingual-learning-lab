@@ -496,5 +496,20 @@
     "path": "assets/images/categories/cat_162_bone_folder_tool.svg",
     "category": "category_162_mistara_and_ruling_boards",
     "description": "Polished ox-bone paper-rubbing folder embossing blind relief guidelines"
+  },
+  "cat_163_rhombic_dot_ruler": {
+    "path": "assets/images/categories/cat_163_rhombic_dot_ruler.svg",
+    "category": "category_163_proportional_calligraphy_and_compass",
+    "description": "Rhombic dot metric calibration scale demonstrating 45-degree pen angle"
+  },
+  "cat_163_circumscribed_alif": {
+    "path": "assets/images/categories/cat_163_circumscribed_alif.svg",
+    "category": "category_163_proportional_calligraphy_and_compass",
+    "description": "Circumscribed circle and proportioned seven-dot Alif with semicircular Nun arc"
+  },
+  "cat_163_proportional_compass": {
+    "path": "assets/images/categories/cat_163_proportional_compass.svg",
+    "category": "category_163_proportional_calligraphy_and_compass",
+    "description": "Brass proportional divider compass for verifying calligraphic letter diameters"
   }
 }

@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_311_nach_punkten_messen_naqqata",
+  "root": "ن - ق - ط",
+  "trilingual": {
+    "ar": {
+      "infinitive": "تَنْقِيطٌ",
+      "past": "نَقَّطَ",
+      "present": "يُنَقِّطُ",
+      "imperative": "نَقِّطْ",
+      "meaning": "عَايَرَ طُولَ الحَرْفِ وَأَبْعَادَهُ بِنِقَاطِ القَلَمِ المَعِينِيَّةِ"
+    },
+    "de": {
+      "infinitive": "nach Rautenpunkten eichen / einmessen",
+      "past": "eichte nach Punkten",
+      "present": "eicht nach Punkten",
+      "perfect": "hat nach Punkten geeicht",
+      "meaning": "die Proportionen eines Buchstabens mit Rhombenpunkten des Federkiels exakt abmessen"
+    },
+    "en": {
+      "infinitive": "to gauge by rhombic dots / calibrate letter heights",
+      "past": "gauged by rhombic dots",
+      "present": "gauges by rhombic dots",
+      "participle": "gauged by rhombic dots",
+      "meaning": "to calibrate letter heights and spacings against aligned rhombic dots made by the pen nib"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يُنَقِّطُ الأُسْتَاذُ حَرْفَ البَاءِ لِيُوَضِّحَ اتِّسَاعَهُ البَالِغَ خَمْسَ نِقَاطٍ.",
+      "de": "Der Meister eicht den Buchstaben Ba, um dessen Breite von fünf Punkten zu demonstrieren.",
+      "en": "The master gauges the letter Ba to demonstrate its span of five dots."
+    },
+    {
+      "tense": "past",
+      "ar": "نَقَّطَ ابْنُ مُقْلَةَ سَائِرَ الحُرُوفِ فَاسْتَقَرَّ مِيزَانُهَا فِي الآفَاقِ.",
+      "de": "Ibn Muqla eichte alle Buchstaben nach Punkten, und ihre Maße wurden weltweit verbindlich.",
+      "en": "Ibn Muqla calibrated all letters by dots, establishing their canon across civilizations."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <radialGradient id="rhombDot" cx="40%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#424242"/>
+      <stop offset="60%" stop-color="#212121"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </radialGradient>
+  </defs>
+  <!-- Background Ruled Grid Guidelines -->
+  <rect x="25" y="15" width="150" height="170" rx="4" fill="#fffde7" stroke="#bcaaa4" stroke-width="2"/>
+  <line x1="35" y1="100" x2="165" y2="100" stroke="#cfd8dc" stroke-width="1.2" stroke-dasharray="3,3"/>
+  <!-- Single Large Rhombic Calligraphic Dot (45° Square) -->
+  <g transform="translate(65, 65)">
+    <polygon points="35,0 70,35 35,70 0,35" fill="url(#rhombDot)" stroke="#b78103" stroke-width="2"/>
+    <!-- Diagonal Guidelines through Dot -->
+    <line x1="35" y1="0" x2="35" y2="70" stroke="#ffd54f" stroke-width="1.2" stroke-dasharray="2,2"/>
+    <line x1="0" y1="35" x2="70" y2="35" stroke="#ffd54f" stroke-width="1.2" stroke-dasharray="2,2"/>
+  </g>
+  <!-- Vertical Stack of 7 Small Metric Dots on Left -->
+  <g transform="translate(38, 30)">
+    <polygon points="5,0 10,5 5,10 0,5" fill="#212121"/>
+    <polygon points="5,10 10,15 5,20 0,15" fill="#212121"/>
+    <polygon points="5,20 10,25 5,30 0,25" fill="#212121"/>
+    <polygon points="5,30 10,35 5,40 0,35" fill="#212121"/>
+    <polygon points="5,40 10,45 5,50 0,45" fill="#212121"/>
+    <polygon points="5,50 10,55 5,60 0,55" fill="#212121"/>
+    <polygon points="5,60 10,65 5,70 0,65" fill="#212121"/>
+    <line x1="15" y1="0" x2="15" y2="70" stroke="#c62828" stroke-width="1.5"/>
+    <text x="24" y="40" font-family="serif" font-size="11" font-weight="bold" fill="#c62828">٧</text>
+  </g>
+  <!-- Inscription -->
+  <text x="110" y="160" font-family="serif" font-size="11" font-weight="bold" fill="#3e2723" text-anchor="middle">مِيزَانُ النُّقْطَةِ</text>
+</svg>

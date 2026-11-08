@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_312_geometrisch_proportionieren_nasaba",
+  "root": "ن - س - ب",
+  "trilingual": {
+    "ar": {
+      "infinitive": "مَنْسُوبٌ / نِسْبَةٌ",
+      "past": "نَسَبَ",
+      "present": "يَنْسُبُ",
+      "imperative": "انْسُبْ",
+      "meaning": "جَعَلَ الحُرُوفَ فِي نِسْبَةٍ هَنْدَسِيَّةٍ مُحْكَمَةٍ إِلَى بَعْضِهَا"
+    },
+    "de": {
+      "infinitive": "geometrisch proportionieren / in Bezug setzen",
+      "past": "proportionierte",
+      "present": "proportioniert",
+      "perfect": "hat proportioniert",
+      "meaning": "Buchstabenformen in ein vollkommenes geometrisches Größenverhältnis zueinander setzen"
+    },
+    "en": {
+      "infinitive": "to proportion geometrically / harmonize ratios",
+      "past": "proportioned geometrically",
+      "present": "proportions geometrically",
+      "participle": "proportioned geometrically",
+      "meaning": "to structure glyph forms according to strict geometric ratios relative to a primary circle"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يَنْسُبُ الخَطَّاطُ مَدَّةَ الكَافِ إِلَى قَامَةِ الأَلِفِ فِي تَنَاغُمٍ تَامٍّ.",
+      "de": "Der Kalligraph setzt den Kaph-Schwung in vollkommenes Verhältnis zum Alif-Stamm.",
+      "en": "The calligrapher proportions the stroke of the Kaf in harmony with the Alif shaft."
+    },
+    {
+      "tense": "past",
+      "ar": "نَسَبَ العَالِمُ الحُرُوفَ إِلَى الدَّائِرَةِ فَظَهَرَتْ فَرِيدَةَ البَهَاءِ.",
+      "de": "Der Gelehrte proportionierte die Buchstaben am Kreis, und sie erstrahlten in erhabener Pracht.",
+      "en": "The scholar proportioned the letters to the circle, revealing their sublime splendor."
+    }
+  ]
+}
