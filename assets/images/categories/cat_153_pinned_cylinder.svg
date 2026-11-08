@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="cylinderWood" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#bcaaa4"/>
+      <stop offset="50%" stop-color="#8d6e63"/>
+      <stop offset="100%" stop-color="#4e342e"/>
+    </linearGradient>
+  </defs>
+  <!-- Main Rotating Drum Barrel (Horizontal Cylinder in Perspective) -->
+  <rect x="40" y="55" width="120" height="90" fill="url(#cylinderWood)" stroke="#271b16" stroke-width="2.5"/>
+  <ellipse cx="40" cy="100" rx="14" ry="45" fill="#5d4037" stroke="#271b16" stroke-width="2"/>
+  <ellipse cx="160" cy="100" rx="14" ry="45" fill="#8d6e63" stroke="#271b16" stroke-width="2"/>
+  <!-- Central Steel Axle Shaft -->
+  <line x1="15" y1="100" x2="185" y2="100" stroke="#37474f" stroke-width="6" stroke-linecap="round"/>
+  <!-- Patterned Rows of Brass Tone Pins (Studs) -->
+  <!-- Track 1 -->
+  <circle cx="65" cy="70" r="3.5" fill="#ffd54f" stroke="#3e2723" stroke-width="1"/>
+  <circle cx="105" cy="72" r="3.5" fill="#ffd54f" stroke="#3e2723" stroke-width="1"/>
+  <circle cx="135" cy="68" r="3.5" fill="#ffd54f" stroke="#3e2723" stroke-width="1"/>
+  <!-- Track 2 -->
+  <circle cx="80" cy="95" r="3.5" fill="#ffd54f" stroke="#3e2723" stroke-width="1"/>
+  <circle cx="120" cy="98" r="3.5" fill="#ffd54f" stroke="#3e2723" stroke-width="1"/>
+  <circle cx="148" cy="93" r="3.5" fill="#ffd54f" stroke="#3e2723" stroke-width="1"/>
+  <!-- Track 3 -->
+  <circle cx="55" cy="120" r="3.5" fill="#ffd54f" stroke="#3e2723" stroke-width="1"/>
+  <circle cx="95" cy="125" r="3.5" fill="#ffd54f" stroke="#3e2723" stroke-width="1"/>
+  <circle cx="130" cy="122" r="3.5" fill="#ffd54f" stroke="#3e2723" stroke-width="1"/>
+  <!-- Rotation Direction Arrow -->
+  <path d="M 100,32 Q 120,25 135,35" fill="none" stroke="#f57f17" stroke-width="2.5"/>
+  <polygon points="138,35 132,28 139,26" fill="#f57f17"/>
+</svg>

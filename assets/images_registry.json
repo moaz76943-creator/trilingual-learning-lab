@@ -361,5 +361,20 @@
     "path": "assets/images/categories/cat_152_clack_valve.svg",
     "category": "category_152_suction_pumps_and_camshafts",
     "description": "Weighted leather flapper non-return suction valve on bronze seating"
+  },
+  "cat_153_hydraulic_flute": {
+    "path": "assets/images/categories/cat_153_hydraulic_flute.svg",
+    "category": "category_153_hydraulic_flutes_and_automata",
+    "description": "Acoustic hydraulic flute pipe with mechanical finger levers and sound waves"
+  },
+  "cat_153_pinned_cylinder": {
+    "path": "assets/images/categories/cat_153_pinned_cylinder.svg",
+    "category": "category_153_hydraulic_flutes_and_automata",
+    "description": "Rotating wooden drum barrel studded with calibrated brass musical pins"
+  },
+  "cat_153_air_compression_vessel": {
+    "path": "assets/images/categories/cat_153_air_compression_vessel.svg",
+    "category": "category_153_hydraulic_flutes_and_automata",
+    "description": "Cutaway sealed chamber compressing air into acoustic nozzle as water rises"
   }
 }

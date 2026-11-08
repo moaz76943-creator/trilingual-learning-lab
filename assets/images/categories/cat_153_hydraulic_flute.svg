@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="fluteWood" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#8d6e63"/>
+      <stop offset="50%" stop-color="#5d4037"/>
+      <stop offset="100%" stop-color="#3e2723"/>
+    </linearGradient>
+    <linearGradient id="airJet" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e1f5fe" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#81d4fa" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <!-- Long Acoustic Flute Pipe (Horizontal) -->
+  <rect x="25" y="85" width="150" height="18" rx="4" fill="url(#fluteWood)" stroke="#271b16" stroke-width="2"/>
+  <!-- Beveled Mouthpiece Fixture on Left -->
+  <polygon points="25,85 10,88 10,100 25,103" fill="#ffd54f" stroke="#3e2723" stroke-width="1.5"/>
+  <!-- Inflow Air Nozzle Tube entering mouthpiece -->
+  <rect x="5" y="91" width="12" height="6" fill="#cfd8dc" stroke="#263238" stroke-width="1"/>
+  <path d="M 12,94 Q 30,80 50,94" fill="none" stroke="url(#airJet)" stroke-width="4"/>
+  <!-- Tone Hole Pallets (Mechanical Finger Keys) -->
+  <g transform="translate(0, -12)">
+    <circle cx="70" cy="95" r="4" fill="#212121"/>
+    <rect x="66" y="85" width="8" height="10" rx="1" fill="#fbc02d" stroke="#3e2723" stroke-width="1"/>
+    <circle cx="95" cy="95" r="4" fill="#212121"/>
+    <rect x="91" y="80" width="8" height="15" rx="1" fill="#fbc02d" stroke="#3e2723" stroke-width="1"/>
+    <circle cx="120" cy="95" r="4" fill="#212121"/>
+    <rect x="116" y="85" width="8" height="10" rx="1" fill="#fbc02d" stroke="#3e2723" stroke-width="1"/>
+    <circle cx="145" cy="95" r="4" fill="#212121"/>
+    <rect x="141" y="78" width="8" height="17" rx="1" fill="#fbc02d" stroke="#3e2723" stroke-width="1"/>
+  </g>
+  <!-- Sound Waves Emanating from Flute Bell on Right -->
+  <path d="M 175,82 Q 185,94 175,106" fill="none" stroke="#29b6f6" stroke-width="2"/>
+  <path d="M 182,76 Q 194,94 182,112" fill="none" stroke="#29b6f6" stroke-width="2"/>
+  <path d="M 189,70 Q 203,94 189,118" fill="none" stroke="#29b6f6" stroke-width="2"/>
+</svg>

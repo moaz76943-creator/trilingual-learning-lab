@@ -1,0 +1,65 @@
+{
+  "dialogue_id": "dialogue_148_hydraulic_flute_tuning",
+  "title": {
+    "ar": "ضَبْطُ أَنْغَامِ المِزْمَارِ الهَيْدْرُولِيكِيِّ التِّلْقَائِيِّ فِي سَامَرَّاءَ",
+    "de": "Das Stimmen der automatischen Wasserflöte in Samarra",
+    "en": "Tuning the Automatic Hydraulic Flute in Samarra"
+  },
+  "context": {
+    "ar": "حِوَارٌ فِي مَشْغَلِ دَارِ الحِكْمَةِ فِي سَامَرَّاءَ بَيْنَ أَحْمَدَ بنِ مُوسَى وَمُسَاعِدِهِ حَوْلَ تَوْزِيعِ الأَسْنَانِ عَلَى أُسْطُوَانَةِ النَّغَمَاتِ لِعَزْفِ مَقَامِ الرَّاسْتِ.",
+    "de": "Ein Fachgespräch im Haus der Weisheit in Samarra zwischen Ahmad ibn Musa und seinem Gehilfen über das Setzen der Stifte auf der Notenwalze für den Rast-Modus.",
+    "en": "A dialogue in the House of Wisdom workshop in Samarra between Ahmad ibn Musa and his assistant on arranging pins on the melody cylinder for the Rast maqam."
+  },
+  "turns": [
+    {
+      "speaker": {
+        "ar": "المُهَنْدِسُ أَحْمَدُ بنُ مُوسَى",
+        "de": "Ingenieur Ahmad ibn Musa",
+        "en": "Engineer Ahmad ibn Musa"
+      },
+      "ar": "ثَبِّتْ صَفَّ الأَسْنَانِ النُّحَاسِيَّةِ عَلَى جَسَدِ الأُسْطُوَانَةِ لِيَضْغَطَ ثُقُوبَ المِزْمَارِ بِأَوْزَانِ الشِّعْرِ وَالإِيقَاعِ.",
+      "de": "Befestige die Reihe der Messingstifte auf dem Walzenkörper, damit sie die Grifflöcher der Flöte nach strengem Versmaß und Takt betätigen.",
+      "en": "Affix the row of brass pins onto the cylinder body so they depress the flute tone holes in strict poetic meter and rhythm."
+    },
+    {
+      "speaker": {
+        "ar": "سِنَانٌ (صَانِعُ الآلاَتِ المَوْسِيقِيَّةِ)",
+        "de": "Sinan (Der Instrumentenbauer)",
+        "en": "Sinan (The Instrument Maker)"
+      },
+      "ar": "كَيْفَ نَضْمَنُ أَنْ يَنْدَفِعَ الهَوَاءُ فِي قَصَبَةِ المِزْمَارِ بِلاَ انْقِطَاعٍ فَيَظَلَّ الصَّوْتُ صَافِيًا كَالنُّورِ؟",
+      "de": "Wie stellen wir sicher, dass die Luft ununterbrochen in das Flötenrohr strömt, damit der Klang rein wie Licht bleibt?",
+      "en": "How do we ensure that air streams into the flute pipe without interruption so the tone remains clear as light?"
+    },
+    {
+      "speaker": {
+        "ar": "أَحْمَدُ",
+        "de": "Ahmad",
+        "en": "Ahmad"
+      },
+      "ar": "نَجْعَلُ خَزَّانَيْنِ مُتَنَاوِبَيْنِ؛ حِينَ يَمْتَلِئُ الأَوَّلُ بِالمَاءِ يَطْرُدُ هَوَاءَهُ إِلَى المِزْمَارِ، بَيْنَمَا يُفْرِغُ الثَّانِي مَاءَهُ بِالسَّيْفُونِ لِيَسْتَنْشِقَ هَوَاءً جَدِيدًا.",
+      "de": "Wir nutzen zwei wechselwirkende Kammern: Füllt sich die erste mit Wasser, presst sie ihre Luft in die Flöte, während die zweite sich leert und neue Luft einsaugt.",
+      "en": "We employ two alternating chambers: as the first fills with water it expels its air into the flute, while the second drains via siphon to inhale fresh air."
+    },
+    {
+      "speaker": {
+        "ar": "سِنَانٌ",
+        "de": "Sinan",
+        "en": "Sinan"
+      },
+      "ar": "يَا لَهَا مِنْ حِيلَةٍ عَبْقَرِيَّةٍ! كَأَنَّ الآلَةَ تَتَنَفَّسُ بِرِئَتَيْنِ حَيَّتَيْنِ!",
+      "de": "Welch ein genialer Kunstgriff! Als atme das Werk mit zwei lebendigen Lungen!",
+      "en": "What an ingenious device! It is as though the machine breathes through two living lungs!"
+    },
+    {
+      "speaker": {
+        "ar": "أَحْمَدُ",
+        "de": "Ahmad",
+        "en": "Ahmad"
+      },
+      "ar": "هَذَا سِرُّ الصَّنْعَةِ البَدِيعَةِ؛ نَسْتَخْدِمُ سُكُونَ المَاءِ وَلَطَافَةَ الهَوَاءِ لِنَبُثَّ البَهْجَةَ فِي نُفُوسِ النَّاسِ وَنُحْيِيَ مَجَالِسَ العِلْمِ.",
+      "de": "Das ist das Geheimnis edler Baukunst: Wir nutzen die Kraft des Wassers und die Zartheit der Luft, um Freude zu schenken und Runden des Geistes zu beleben.",
+      "en": "That is the secret of noble craft: we employ the force of water and the subtlety of air to bring joy and elevate gatherings of learning."
+    }
+  ]
+}

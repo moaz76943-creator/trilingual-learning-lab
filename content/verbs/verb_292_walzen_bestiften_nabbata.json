@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_292_walzen_bestiften_nabbata",
+  "root": "ن - ب - ت",
+  "trilingual": {
+    "ar": {
+      "infinitive": "تَنْبِيتٌ",
+      "past": "نَبَّتَ",
+      "present": "يُنَبِّتُ",
+      "imperative": "نَبِّتْ",
+      "meaning": "غَرَزَ الأَسْنَانَ النُّحَاسِيَّةَ فِي أُسْطُوَانَةِ العَزْفِ بِمَقَادِيرَ مَوْزُونَةٍ"
+    },
+    "de": {
+      "infinitive": "eine Walze mit Stiften besetzen / bestiften",
+      "past": "bestiftete",
+      "present": "bestiftet",
+      "perfect": "hat bestiftet",
+      "meaning": "Stifte nach musikalischen Intervallen präzise in eine Melodiewalze einsetzen"
+    },
+    "en": {
+      "infinitive": "to pin a cylinder / peg musical pins",
+      "past": "pinned a cylinder",
+      "present": "pins a cylinder",
+      "participle": "pinned a cylinder",
+      "meaning": "to insert calibrated brass pins into a musical barrel according to rhythmic notation"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يُنَبِّتُ الصَّانِعُ الأُسْطُوَانَةَ لِتُحَاكِيَ دَسَاتِينَ العُودِ وَنَقَرَاتِهِ.",
+      "de": "Der Meister bestiftet die Walze so, dass sie die Bünde und Schläge der Laute nachahmt.",
+      "en": "The artisan pins the barrel to emulate the frets and plucks of the lute."
+    },
+    {
+      "tense": "past",
+      "ar": "نَبَّتَ بَنُو مُوسَى خَشَبَةَ اللَّحْنِ بِأَسْنَانٍ صَلْبَةٍ لا تَنْثَنِي.",
+      "de": "Die Banu Musa bestifteten das Notenholz mit gehärteten Stiften, die sich niemals biegen.",
+      "en": "The Banu Musa pinned the melody wooden barrel with hardened studs that never bend."
+    }
+  ]
+}

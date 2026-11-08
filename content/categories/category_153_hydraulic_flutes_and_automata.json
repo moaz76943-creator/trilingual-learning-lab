@@ -1,0 +1,52 @@
+{
+  "category_id": "category_153_hydraulic_flutes_and_automata",
+  "title": {
+    "ar": "المَزَامِيرُ الهَيْدْرُولِيكِيَّةُ وَآلاَتُ النَّغَمِ التِّلْقَائِيَّةُ",
+    "de": "Hydraulische Flöten und automatische Musikwerke",
+    "en": "Hydraulic Flutes and Automatic Musical Automata"
+  },
+  "level": "B1",
+  "description": {
+    "ar": "مُصْطَلَحَاتُ مَزَامِيرِ المَاءِ التِّلْقَائِيَّةِ، وَأُسْطُوَانَاتِ النَّغَمَاتِ المُنَقَّطَةِ، وَغُرَفِ ضَغْطِ الهَوَاءِ التَّنَاوُبِيَّةِ فِي كِتَابِ الحِيَلِ.",
+    "de": "Fachbegriffe zu automatischen Wasserflöten, bestifteten Notenwalzen und alternierenden Luftkompressionskammern im Kitāb al-Ḥiyal.",
+    "en": "Terminology of automatic water flutes, pinned melody cylinders, and alternating air-compression chambers in the Book of Ingenious Devices."
+  },
+  "vocabulary": [
+    {
+      "id": "term_153_01",
+      "ar": "المِزْمَارُ الهَيْدْرُولِيكِيُّ التِّلْقَائِيُّ",
+      "de": "die automatische hydraulische Flöte",
+      "en": "automatic hydraulic flute automaton",
+      "phonetic_ar": "al-mizmāru al-haydrūlīkiyyu at-tilqā'iyy",
+      "example": {
+        "ar": "يَعْزِفُ المِزْمَارُ الهَيْدْرُولِيكِيُّ التِّلْقَائِيُّ أَلْحَانًا عَذْبَةً بِمُجَرَّدِ تَدَفُّقِ مِيَاهِ القَنَاةِ.",
+        "de": "Die automatische hydraulische Flöte spielt liebliche Melodien, sobald das Kanalwasser einströmt.",
+        "en": "The automatic hydraulic flute plays sweet melodies as soon as the aqueduct water flows in."
+      }
+    },
+    {
+      "id": "term_153_02",
+      "ar": "أُسْطُوَانَةُ النَّغَمَاتِ المُنَقَّطَةُ",
+      "de": "die bestiftete Notenwalze (die Tonwalze)",
+      "en": "pinned melody cylinder (barrel)",
+      "phonetic_ar": "'usṭuwānatu an-naghamāti al-munaqqaṭah",
+      "example": {
+        "ar": "تَحْوِي أُسْطُوَانَةُ النَّغَمَاتِ المُنَقَّطَةُ مَسَارَاتِ الأَلْحَانِ مُحَدَّدَةً بِأَسْنَانٍ نُحَاسِيَّةٍ دَقِيقَةٍ.",
+        "de": "Die bestiftete Notenwalze trägt die Tonspuren der Melodien in Gestalt präziser Messingstifte.",
+        "en": "The pinned melody cylinder carries the musical tracks inscribed with delicate brass pins."
+      }
+    },
+    {
+      "id": "term_153_03",
+      "ar": "وِعَاءُ ضَغْطِ الهَوَاءِ المَائِيُّ",
+      "de": "der hydraulische Luftkompressionskessel",
+      "en": "hydraulic air-compression vessel",
+      "phonetic_ar": "wi'ā'u ḍaghṭi al-hawā'i al-mā'iyy",
+      "example": {
+        "ar": "يَدْفَعُ وِعَاءُ ضَغْطِ الهَوَاءِ المَائِيُّ رِيحًا مُسْتَمِرَّةً نَحْوَ قَصَبَةِ المِزْمَارِ دُونَ انْقِطَاعٍ.",
+        "de": "Der hydraulische Luftkessel presst einen stetigen Luftstrom ohne Unterbrechung in das Flötenrohr.",
+        "en": "The hydraulic air-compression vessel forces a continuous stream of air into the flute reed uninterruptedly."
+      }
+    }
+  ]
+}

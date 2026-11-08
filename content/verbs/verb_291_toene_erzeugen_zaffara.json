@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_291_toene_erzeugen_zaffara",
+  "root": "ز - ف - ر",
+  "trilingual": {
+    "ar": {
+      "infinitive": "تَزْفِيرٌ",
+      "past": "زَفَّرَ",
+      "present": "يُزَفِّرُ",
+      "imperative": "زَفِّرْ",
+      "meaning": "دَفَعَ الهَوَاءَ بِقُوَّةٍ فِي أُنْبُوبِ الصَّوْتِ فَخَرَجَ صَفِيرٌ رَنَّانٌ"
+    },
+    "de": {
+      "infinitive": "Töne durch Luftdruck erzeugen / anblasen",
+      "past": "erzeugte Töne",
+      "present": "erzeugt Töne",
+      "perfect": "hat Töne erzeugt",
+      "meaning": "Druckluft in eine Pfeife stoßen und einen vollen Klang erzeugen"
+    },
+    "en": {
+      "infinitive": "to sound an acoustic pipe by air pressure",
+      "past": "sounded an acoustic pipe",
+      "present": "sounds an acoustic pipe",
+      "participle": "sounded an acoustic pipe",
+      "meaning": "to force compressed air into an acoustic reed pipe to generate resonant tone"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يُزَفِّرُ خَزَّانُ الحِيلَةِ الرِّيحَ فِي قَصَبَةِ النَّايِ فَيَعْلُو شَدْوُهُ.",
+      "de": "Der Luftkessel der Apparatur bläst den Wind in das Flötenrohr, und ihr Gesang erklingt weithin.",
+      "en": "The mechanism's air vessel expels breeze into the reed, raising its melodic song."
+    },
+    {
+      "tense": "past",
+      "ar": "زَفَّرَ المِزْمَارُ نَغْمَةً عَمِيقَةً حِينَ امْتَلَأَ حَوْضُ الصَّبِّ.",
+      "de": "Die Flöte stieß einen tiefen Ton aus, sobald sich das Zuflussbecken füllte.",
+      "en": "The pipe sounded a deep tone as soon as the inflow chamber filled."
+    }
+  ]
+}
