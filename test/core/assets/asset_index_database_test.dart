@@ -12,7 +12,7 @@ class _MockAssetBundle extends CachingAssetBundle {
   @override
   Future<ByteData> load(String key) async {
     if (key != 'content/assets/images_registry.json') {
-      throw FlutterError('Unknown asset: $key');
+      throw StateError('Unknown asset: $key');
     }
     final bytes = Uint8List.fromList(utf8.encode(payload));
     return ByteData.sublistView(bytes);
