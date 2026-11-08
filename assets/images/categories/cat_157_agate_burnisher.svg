@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <radialGradient id="agateStoneGlow" cx="40%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#ffcc80"/>
+      <stop offset="30%" stop-color="#fb8c00"/>
+      <stop offset="70%" stop-color="#d84315"/>
+      <stop offset="100%" stop-color="#4e342e"/>
+    </radialGradient>
+    <linearGradient id="turnerHandle" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#8d6e63"/>
+      <stop offset="40%" stop-color="#d7ccc8"/>
+      <stop offset="100%" stop-color="#4e342e"/>
+    </linearGradient>
+  </defs>
+  <!-- Background Polished Manuscript Sheet Segment -->
+  <rect x="25" y="125" width="150" height="55" rx="3" fill="#fffde7" stroke="#bcaaa4" stroke-width="2"/>
+  <line x1="35" y1="145" x2="165" y2="145" stroke="#cfd8dc" stroke-width="1.5"/>
+  <line x1="35" y1="165" x2="165" y2="165" stroke="#cfd8dc" stroke-width="1.5"/>
+  <!-- Turned Hardwood Handle (Upright Grip) -->
+  <rect x="88" y="20" width="24" height="65" rx="6" fill="url(#turnerHandle)" stroke="#271b16" stroke-width="2"/>
+  <circle cx="100" cy="30" r="14" fill="#5d4037" stroke="#271b16" stroke-width="1.5"/>
+  <!-- Brass Mounting Ferrule Collar -->
+  <polygon points="80,85 120,85 115,105 85,105" fill="#fbc02d" stroke="#3e2723" stroke-width="1.5"/>
+  <!-- Smooth Curved Agate Burnishing Tooth Stone -->
+  <path d="M 85,105 C 80,115 70,135 100,140 C 130,135 120,115 115,105 Z" fill="url(#agateStoneGlow)" stroke="#271b16" stroke-width="2.5"/>
+  <!-- Gloss Sheen Reflection on Paper -->
+  <ellipse cx="100" cy="142" rx="20" ry="3.5" fill="#ffffff" opacity="0.85"/>
+</svg>

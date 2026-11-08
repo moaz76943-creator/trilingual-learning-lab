@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_299_schoepfen_gharafa",
+  "root": "غ - ر - ف",
+  "trilingual": {
+    "ar": {
+      "infinitive": "غَرْفٌ",
+      "past": "غَرَفَ",
+      "present": "يَغْرِفُ",
+      "imperative": "اغْرِفْ",
+      "meaning": "رَفَعَ عَجِينَ الوَرَقِ مِنَ الحَوْضِ بِالقَالَبِ لِيُكَوِّنَ صَفْحَةً كَاغَدِيَّةً"
+    },
+    "de": {
+      "infinitive": "den Papierbogen schöpfen",
+      "past": "schöpfte den Bogen",
+      "present": "schöpft den Bogen",
+      "perfect": "hat den Bogen geschöpft",
+      "meaning": "den Faserbrei mit der Schopfform aus der Bütte heben und gleichmäßig verteilen"
+    },
+    "en": {
+      "infinitive": "to dip and form a paper sheet",
+      "past": "dipped and formed a sheet",
+      "present": "dips and forms a sheet",
+      "participle": "dipped and formed a sheet",
+      "meaning": "to immerse the wire mould into the vat and lift a uniform layer of paper pulp"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يَغْرِفُ الصَّانِعُ مِئَةَ صَفْحَةٍ فِي كُلِّ سَاعَةِ صَبَاحٍ بِيَدَيْنِ ثَابِتَتَيْنِ.",
+      "de": "Der Handwerker schöpft in jeder Morgenstunde mit ruhigen Händen hundert Bogen Papier.",
+      "en": "The artisan dips and forms a hundred sheets each morning hour with steady hands."
+    },
+    {
+      "tense": "past",
+      "ar": "غَرَفَ الكَاغَدِيُّ وَرَقَةً شَفَّافَةً لِيُكْتَبَ عَلَيْهَا مُصْحَفٌ كَرِيمٌ.",
+      "de": "Der Papiermacher schöpfte ein makelloses Blatt für die Abschrift des edlen Korans.",
+      "en": "The papermaker formed a flawless sheet to bear the copy of the noble Quran."
+    }
+  ]
+}

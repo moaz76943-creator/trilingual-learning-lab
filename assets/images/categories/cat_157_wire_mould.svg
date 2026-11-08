@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="deckleWood" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#bcaaa4"/>
+      <stop offset="50%" stop-color="#8d6e63"/>
+      <stop offset="100%" stop-color="#4e342e"/>
+    </linearGradient>
+    <linearGradient id="brassMesh" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffd54f"/>
+      <stop offset="50%" stop-color="#fff9c4"/>
+      <stop offset="100%" stop-color="#fbc02d"/>
+    </linearGradient>
+  </defs>
+  <!-- Outer Removable Wooden Deckle Frame -->
+  <rect x="25" y="25" width="150" height="150" rx="4" fill="none" stroke="url(#deckleWood)" stroke-width="12"/>
+  <rect x="31" y="31" width="138" height="138" rx="2" fill="none" stroke="#271b16" stroke-width="1.5"/>
+  <!-- Fine Brass Wire Sieve Ribs (Laid and Chain Wire Lines) -->
+  <g fill="none" stroke="url(#brassMesh)" stroke-width="1.2">
+    <line x1="32" y1="45" x2="168" y2="45"/>
+    <line x1="32" y1="60" x2="168" y2="60"/>
+    <line x1="32" y1="75" x2="168" y2="75"/>
+    <line x1="32" y1="90" x2="168" y2="90"/>
+    <line x1="32" y1="105" x2="168" y2="105"/>
+    <line x1="32" y1="120" x2="168" y2="120"/>
+    <line x1="32" y1="135" x2="168" y2="135"/>
+    <line x1="32" y1="150" x2="168" y2="150"/>
+  </g>
+  <g fill="none" stroke="#b78103" stroke-width="1.8" stroke-dasharray="3,3">
+    <line x1="65" y1="32" x2="65" y2="168"/>
+    <line x1="100" y1="32" x2="100" y2="168"/>
+    <line x1="135" y1="32" x2="135" y2="168"/>
+  </g>
+  <!-- Watermark Wire Contour in Center (Crescent & Star) -->
+  <path d="M 95,90 A 10,10 0 1,0 110,105 A 12,12 0 1,1 95,90 Z" fill="none" stroke="#ffd54f" stroke-width="1.8"/>
+  <circle cx="108" cy="95" r="2" fill="#ffd54f"/>
+</svg>

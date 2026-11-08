@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_300_glaetten_saghasa",
+  "root": "س - غ - س",
+  "trilingual": {
+    "ar": {
+      "infinitive": "سِغَاسٌ / صَقْلٌ",
+      "past": "سَغَسَ",
+      "present": "يَسْغَسُ",
+      "imperative": "اسْغَسْ",
+      "meaning": "صَقَلَ وَجْهَ الكَاغَدِ بِحَجَرِ العَقِيقِ حَتَّى اسْتَوَى وَلَمَعَ"
+    },
+    "de": {
+      "infinitive": "mit Achat spiegelblank glätten",
+      "past": "glättete mit Achat",
+      "present": "glättet mit Achat",
+      "perfect": "hat mit Achat geglättet",
+      "meaning": "die getrocknete Papieroberfläche mit einem Achatstein polieren und verdichten"
+    },
+    "en": {
+      "infinitive": "to burnish with agate / polish paper lustrous",
+      "past": "burnished with agate",
+      "present": "burnishes with agate",
+      "participle": "burnished with agate",
+      "meaning": "to rub and compress dry paper using an agate burnisher until smooth and mirror-like"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يَسْغَسُ الوَرَّاقُ صَفَحَاتِ الدِّيوَانِ لِيَنْسَابَ المِدَادُ عَلَيْهَا بِلاَ انْتِشَارٍ.",
+      "de": "Der Buchkünstler glättet die Bogen mit Achat, damit die Tinte ohne Verlaufen fließt.",
+      "en": "The calligrapher burnishes the manuscript folios so ink flows across them without spreading."
+    },
+    {
+      "tense": "past",
+      "ar": "سَغَسَ الأُسْتَاذُ مَتْنَ الكِتَابِ فَبَانَتْ كَلِمَاتُهُ كَاللَّآلِئِ المَنْظُومَةِ.",
+      "de": "Der Meister polierte das Papier, und die Worte erstrahlten wie aufgereihte Perlen.",
+      "en": "The master burnished the book pages, and its words shone like pearls strung in a row."
+    }
+  ]
+}

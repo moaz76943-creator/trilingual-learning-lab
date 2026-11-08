@@ -406,5 +406,20 @@
     "path": "assets/images/categories/cat_156_iron_shoe.svg",
     "category": "category_156_paper_mills_and_trip_hammers",
     "description": "Forged iron drop-hammer shoe with blunted striking face for fiber maceration"
+  },
+  "cat_157_wire_mould": {
+    "path": "assets/images/categories/cat_157_wire_mould.svg",
+    "category": "category_157_papermaking_moulds_and_burnishers",
+    "description": "Wire-mesh papermaking mould with wooden deckle and crescent watermark"
+  },
+  "cat_157_couching_felt": {
+    "path": "assets/images/categories/cat_157_couching_felt.svg",
+    "category": "category_157_papermaking_moulds_and_burnishers",
+    "description": "Wool couching felt with freshly transferred wet sheet of linen paper"
+  },
+  "cat_157_agate_burnisher": {
+    "path": "assets/images/categories/cat_157_agate_burnisher.svg",
+    "category": "category_157_papermaking_moulds_and_burnishers",
+    "description": "Curved agate stone burnisher mounted in turned hardwood grip"
   }
 }

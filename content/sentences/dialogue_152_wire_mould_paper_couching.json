@@ -1,0 +1,65 @@
+{
+  "dialogue_id": "dialogue_152_wire_mould_paper_couching",
+  "title": {
+    "ar": "غَرْفُ الكَاغَدِ بِالقَالَبِ السِّلْكِيِّ وَصَقْلُهُ بِالعَقِيقِ فِي فَاسَ (المَحَطَّةُ رَقْمُ 1000)",
+    "de": "Das Schöpfen des Papiers mit dem Drahtsieb und das Achat-Glätten in Fès (Meilenstein #1000)",
+    "en": "Dipping the Wire Mould and Agate Burnishing in Fez (Historic Milestone #1000)"
+  },
+  "context": {
+    "ar": "حِوَارٌ احْتِفَالِيٌّ فِي عُدْوَةِ الأَنْدَلُسِيِّينَ فِي فَاسَ بَيْنَ شَيْخِ صُنَّاعِ الكَاغَدِ وَتِلْمِيذِهِ عِنْدَ إِتْمَامِ أَلْفِ لَوْحَةٍ وَمَهَمَّةٍ هَنْدَسِيَّةٍ فِي تُرَاثِ العِلْمِ وَاللُّغَةِ.",
+    "de": "Ein festliches Gespräch im Viertel der Andalusier in Fès zwischen dem Papiermachermeister und seinem Schüler anlässlich der Vollendung von eintausend wissenschaftlichen und sprachlichen Meilensteinen.",
+    "en": "A celebratory dialogue in the Andalusian quarter of Fez between the master papermaker and his pupil upon completing one thousand milestones of scientific and trilingual heritage."
+  },
+  "turns": [
+    {
+      "speaker": {
+        "ar": "المُعَلِّمُ عَبْدُ الرَّحْمَنِ الفَاسِيُّ",
+        "de": "Meister Abd ar-Rahman al-Fasi",
+        "en": "Master Abd al-Rahman al-Fasi"
+      },
+      "ar": "اغْمِسْ قَالَبَ السِّلْكِ النُّحَاسِيَّ فِي الحَوْضِ بِزَاوِيَةٍ مَائِلَةٍ، ثُمَّ ارْفَعْهُ مَعَ هَزَّةٍ خَفِيفَةٍ لِيَسْتَوِيَ اللِّيفُ كَمَلْمَسِ الحَرِيرِ.",
+      "de": "Tauche das Messingdrahtsieb schräg in die Bütte und hebe es mit sanftem Wiegeschlag, damit sich die Fasern seidengleich verteilen.",
+      "en": "Dip the brass wire mould obliquely into the vat, then raise it with a gentle shake so the fibers settle smooth as silk."
+    },
+    {
+      "speaker": {
+        "ar": "يُوسُفُ (المُتَدَرِّبُ النَّابِغُ)",
+        "de": "Yusuf (Der gelehrige Geselle)",
+        "en": "Yusuf (The Gifted Apprentice)"
+      },
+      "ar": "انْظُرْ يَا سَيِّدِي كَيْفَ نَفَذَ المَاءُ بَيْنَ قُضْبَانِ الخَيْزُرَانِ الرَّفِيعَةِ، وَتَرَكَ صَفْحَةً نَاصِعَةَ البَيَاضِ تَتَلَأْلَأُ!",
+      "de": "Sieh, mein Meister, wie das Wasser durch die feinen Bambusstege entweicht und ein strahlend weißes, schimmerndes Blatt zurücklässt!",
+      "en": "Behold, master, how the water drains through the slender bamboo ribs, leaving a pristine sheet shimmering with white radiance!"
+    },
+    {
+      "speaker": {
+        "ar": "عَبْدُ الرَّحْمَنِ",
+        "de": "Abd ar-Rahman",
+        "en": "Abd al-Rahman"
+      },
+      "ar": "اقْلِبْهَا الآنَ بِرِفْقٍ عَلَى لِبَادِ الصُّوفِ النَّاعِمِ؛ فَهَذِهِ الصَّفْحَةُ هِيَ تَمَامُ الأَلْفِ مِنْ صَفَائِحِ الكَاغَدِ الفَاخِرِ الَّذِي سَيُخَلِّدُ عُلُومَ أُمَّتِنَا.",
+      "de": "Gautsche sie nun behutsam auf den weichen Wollfilz; dieses Blatt vollendet die Zahl Tausend unserer edlen Bogen zur Bewahrung unseres Wissens.",
+      "en": "Couch it now gently upon the soft wool felt; this very sheet marks the completion of one thousand noble folios destined to preserve our learning."
+    },
+    {
+      "speaker": {
+        "ar": "يُوسُفُ",
+        "de": "Yusuf",
+        "en": "Yusuf"
+      },
+      "ar": "وَبَعْدَ أَنْ تَجِفَّ فِي ظِلاَلِ الرِّيحِ، هَلْ سَنَصْقُلُهَا بِمَحَارِ العَقِيقِ حَتَّى تَغْدُوَ كَالزُّجَاجِ المِرْآتِيِّ؟",
+      "de": "Und wenn sie im Windschatten getrocknet ist, glätten wir sie mit dem Achatstein, bis sie spiegelt wie klares Glas?",
+      "en": "And after drying in the shaded breeze, shall we burnish it with the agate stone until it mirrors like clear glass?"
+    },
+    {
+      "speaker": {
+        "ar": "عَبْدُ الرَّحْمَنِ",
+        "de": "Abd ar-Rahman",
+        "en": "Abd al-Rahman"
+      },
+      "ar": "نَعَمْ؛ لِيَجْرِيَ عَلَيْهَا قَلَمُ العَالِمِ انْسِيَابًا كَالغَيْثِ؛ فَمَنْ صَنَعَ وِعَاءَ الحِكْمَةِ كَانَ شَرِيكًا فِي أَجْرِهَا وَنُورِهَا إِلَى آخِرِ الدَّهْرِ.",
+      "de": "Gewiss; damit die Feder des Gelehrten wie strömender Regen gleitet. Wer das Gefäß der Weisheit formt, teilt ihren Lohn und ihr Licht auf ewig.",
+      "en": "Yes; so the scholar's reed pen glides like flowing rain. Whoever crafts the vessel of wisdom partakes in its reward and illumination forever."
+    }
+  ]
+}

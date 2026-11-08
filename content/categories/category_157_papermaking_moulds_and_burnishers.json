@@ -1,0 +1,52 @@
+{
+  "category_id": "category_157_papermaking_moulds_and_burnishers",
+  "title": {
+    "ar": "قَوَالِبُ سَحْبِ الكَاغَدِ وَمَحَارُ الصَّقْلِ العَقِيقِيُّ",
+    "de": "Schöpfsiebe, Gautschfilze und Achat-Glättsteine",
+    "en": "Papermaking Wire Moulds, Couching Felts and Agate Burnishers"
+  },
+  "level": "B1",
+  "description": {
+    "ar": "مُصْطَلَحَاتُ أُطُرِ سَحْبِ الوَرَقِ السِّلْكِيَّةِ، وَأَطْوَاقِ الحَصْرِ (الدَّكَل)، وَلِبَادِ القَلْبِ الصُّوفِيِّ، وَأَدَوَاتِ صَقْلِ الكَاغَدِ بِالعَقِيقِ فِي فَاسَ وَسَمَرْقَنْدَ.",
+    "de": "Fachbegriffe zu Schöpfsieben mit Deckel, Woll-Gautschfilzen, Leimwannen und Achat-Glättwerkzeugen der traditionellen Papiermacherei.",
+    "en": "Terminology of wire papermaking moulds with deckles, wool couching felts, sizing tubs, and agate burnishers in Fez and Samarkand."
+  },
+  "vocabulary": [
+    {
+      "id": "term_157_01",
+      "ar": "قَالَبُ سَحْبِ الكَاغَدِ السِّلْكِيُّ",
+      "de": "das Schöpfsieb mit Drahtbespannung (die Schopfform)",
+      "en": "wire-mesh papermaking mould with deckle",
+      "phonetic_ar": "qālabu saḥbi al-kāghadi as-silkiyy",
+      "example": {
+        "ar": "يَحْمِلُ قَالَبُ سَحْبِ الكَاغَدِ السِّلْكِيُّ شَبَكَةً نُحَاسِيَّةً تَحْبِسُ الأَلْيَافَ وَتُسَرِّبُ المَاءَ.",
+        "de": "Das Schöpfsieb mit Drahtbespannung trägt ein feines Messingnetz, das die Fasern hält und das Wasser abführt.",
+        "en": "The wire-mesh papermaking mould carries a brass sieve that retains the fibers while releasing the water."
+      }
+    },
+    {
+      "id": "term_157_02",
+      "ar": "لِبَادُ تَحْوِيلِ الوَرَقِ المَبْلُولِ",
+      "de": "der wollene Gautschfilz",
+      "en": "wool sheet-couching felt",
+      "phonetic_ar": "libādu taḥwīli al-waraqi al-mablūl",
+      "example": {
+        "ar": "يَفْصِلُ لِبَادُ تَحْوِيلِ الوَرَقِ المَبْلُولِ كُلَّ صَفْحَةٍ عَنْ أُخْتِهَا قَبْلَ وَضْعِ الرُّزْمَةِ فِي المِعْصَرَةِ.",
+        "de": "Der wollene Gautschfilz trennt jeden feuchten Papierbogen vom nächsten vor dem Pressen.",
+        "en": "The wool sheet-couching felt separates each wet sheet from the next before pressing in the screw press."
+      }
+    },
+    {
+      "id": "term_157_03",
+      "ar": "مَحَارُ الصَّقْلِ العَقِيقِيُّ",
+      "de": "der Achat-Glättstein (der Brünierstein)",
+      "en": "agate paper-burnishing stone",
+      "phonetic_ar": "maḥāru aṣ-ṣaqli al-'aqīqiyy",
+      "example": {
+        "ar": "يَمْنَحُ مَحَارُ الصَّقْلِ العَقِيقِيُّ وَجْهَ الكَاغَدِ بَرِيقًا نَاعِمًا يَمْنَعُ سَيَلَانَ الحِبْرِ بَيْنَ أَلْيَافِهِ.",
+        "de": "Der Achat-Glättstein verleiht dem Papier einen samtigen Glanz, der ein Ausfransen der Tinte verhindert.",
+        "en": "The agate paper-burnishing stone imparts a velvety sheen that prevents ink from bleeding into the fibers."
+      }
+    }
+  ]
+}
