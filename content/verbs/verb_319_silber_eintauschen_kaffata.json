@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_319_silber_eintauschen_kaffata",
+  "root": "ك - ف - ت",
+  "trilingual": {
+    "ar": {
+      "infinitive": "تَكْفِيتٌ",
+      "past": "كَفَّتَ",
+      "present": "يُكَفِّتُ",
+      "imperative": "كَفِّتْ",
+      "meaning": "دَقَّ أَسْلاَكِ الذَّهَبِ أَوِ الفِضَّةِ فِي مَجَارِي المَعْدِنِ المَحْفُورَةِ لِلتَّزْيِينِ"
+    },
+    "de": {
+      "infinitive": "mit Silberdraht tauschen / einlegen",
+      "past": "tauschte mit Silber",
+      "present": "tauscht mit Silber",
+      "perfect": "hat mit Silber getauscht",
+      "meaning": "Silber- oder Goldfäden durch Hämmern fest in gravierte Metallrillen eintreiben"
+    },
+    "en": {
+      "infinitive": "to damascene / inlay with silver wire",
+      "past": "damascened with silver",
+      "present": "damascenes with silver",
+      "participle": "damascened with silver",
+      "meaning": "to hammer fine silver or gold wire into undercut chiseled grooves in brass or bronze"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يُكَفِّتُ الصَّانِعُ جِسْمَ المِقْلَمَةِ بِأَسْلاَكِ الفِضَّةِ الخَالِصَةِ.",
+      "de": "Der Meister tauschiert den Körper des Schreibzeugs mit Drähten aus reinem Silber.",
+      "en": "The artisan damascenes the body of the pen-box with wires of pure silver."
+    },
+    {
+      "tense": "past",
+      "ar": "كَفَّتَ شُجَاعٌ النُّحَاسَ فَأَشْرَقَتِ النُّقُوشُ كَالأَنْجُمِ الزَّاهِرَةِ.",
+      "de": "Schudscha tauschte das Messing, und die Ornamente leuchteten wie helle Gestirne.",
+      "en": "Shuja inlaid the brass, and the arabesques shone like radiant stars."
+    }
+  ]
+}

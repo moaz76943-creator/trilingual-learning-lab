@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="sheetBrass" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fff59d"/>
+      <stop offset="50%" stop-color="#fbc02d"/>
+      <stop offset="100%" stop-color="#c49000"/>
+    </linearGradient>
+    <linearGradient id="silverRibbon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="50%" stop-color="#eceff1"/>
+      <stop offset="100%" stop-color="#cfd8dc"/>
+    </linearGradient>
+  </defs>
+  <!-- Thick Brass Plate Surface -->
+  <rect x="25" y="30" width="150" height="140" rx="4" fill="url(#sheetBrass)" stroke="#3e2723" stroke-width="2.5"/>
+  <!-- Chiseled Undercut Dovetail Groove in Brass -->
+  <path d="M 35,100 C 60,60 110,60 135,100 C 150,125 165,120 170,100" fill="none" stroke="#3e2723" stroke-width="8" stroke-linecap="round"/>
+  <!-- Pure Silver Wire Being Hammered into the Groove -->
+  <path d="M 35,100 C 60,60 110,60 115,85" fill="none" stroke="url(#silverRibbon)" stroke-width="6" stroke-linecap="round"/>
+  <line x1="115" y1="85" x2="135" y2="45" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/> <!-- Wire lifting off -->
+  <!-- Chaser's Steel Hammer Point Striking Wire -->
+  <polygon points="110,75 125,75 120,50 115,50" fill="#455a64" stroke="#212121" stroke-width="1.5"/>
+  <!-- Hammer Blow Sparks of Light -->
+  <circle cx="118" cy="80" r="3" fill="#ffffff"/>
+  <line x1="118" y1="74" x2="118" y2="68" stroke="#ffeb3b" stroke-width="1.5"/>
+  <line x1="124" y1="80" x2="130" y2="80" stroke="#ffeb3b" stroke-width="1.5"/>
+</svg>

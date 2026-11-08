@@ -1,0 +1,65 @@
+{
+  "dialogue_id": "dialogue_162_mosul_inlaid_penbox",
+  "title": {
+    "ar": "تَكْفِيتُ المِقْلَمَةِ النُّحَاسِيَّةِ بِالفِضَّةِ فِي مَشَاغِلِ المَوْصِلِ",
+    "de": "Das Tauschieren des Messingschreibzeugs mit Silber in den Werkstätten von Mossul",
+    "en": "Inlaying Silver Arabesques into the Brass Pen-Box in Mosul Workshops"
+  },
+  "context": {
+    "ar": "حِوَارٌ فِي سُوقِ الصَّفَّارِينَ فِي المَوْصِلِ بَيْنَ صَانِعِ المَعَادِنِ وَكَاتِبِ الإِنْشَاءِ حَوْلَ حَفْرِ مَجَارِي النُّحَاسِ وَدَقِّ أَسْلاَكِ الفِضَّةِ لِتَزْيِينِ قَلَمْدَانِ السَّفَرِ.",
+    "de": "Ein Gespräch auf dem Metallmarkt in Mossul zwischen dem Kupferschmied und dem Hofsekretär über das Eintreiben von Silberfäden in gravierte Rillen eines Reiseschreibzeugs.",
+    "en": "A dialogue in the coppersmiths' bazaar in Mosul between the metalsmith and the chancellery scribe on chasing brass grooves and hammering silver wire into a traveling qalamdan."
+  },
+  "turns": [
+    {
+      "speaker": {
+        "ar": "المُعَلِّمُ شُجَاعُ بنُ مَنَاعَةَ (صَانِعُ المَعَادِنِ)",
+        "de": "Meister Schudscha ibn Mana'a (Der Metallkünstler)",
+        "en": "Master Shuja ibn Mana'a (The Metalsmith)"
+      },
+      "ar": "احْفِرْ خُطُوطَ الأَبْرَاجِ السَّمَاوِيَّةِ عَلَى غِمْدِ المِقْلَمَةِ بِإِزْمِيلٍ حَادٍّ، وَاجْعَلْ حَوَافَّ الحَفْرِ مُنْبَطِحَةً لِتَعَضَّ عَلَى سِلْكِ الفِضَّةِ.",
+      "de": "Meißle die Linien der Sternbilder mit spitzem Stichel in das Futteral und unterschneide die Kanten, damit sie den Silberdraht fest umkrallen.",
+      "en": "Chisel the celestial constellation outlines into the scabbard with a keen burin, undercutting the groove flanks so they grip the silver wire tenaciously."
+    },
+    {
+      "speaker": {
+        "ar": "بَهَاءُ الدِّينِ (كَاتِبُ الإِنْشَاءِ)",
+        "de": "Baha ad-Din (Der Staatssekretär)",
+        "en": "Baha al-Din (The Chancellery Scribe)"
+      },
+      "ar": "أَرِيدُ أَنْ تَنْقُشَ دُعَاءً بِالعِزِّ وَالإِقْبَالِ لِأَهْلِ العِلْمِ، وَأَنْ تَكُونَ المَحْبَرَةُ مُتَّصِلَةً بِصَدْرِ الأُنْبُوبِ بِلاَ فَاصِلٍ.",
+      "de": "Ich wünsche eine Segensinschrift für die Gelehrten, und das Tintenfass soll nahtlos an den Röhrenkopf angegossen sein.",
+      "en": "I desire an inscribed prayer of honor and prosperity for the learned, and the inkwell must be cast seamlessly onto the head of the scabbard."
+    },
+    {
+      "speaker": {
+        "ar": "شُجَاعٌ",
+        "de": "Schudscha",
+        "en": "Shuja"
+      },
+      "ar": "سَأَسْبُكُ المَحْبَرَةَ فِي مَوْضِعِهَا، وَأَجْعَلُ لَهَا غِطَاءً مِفْصَلِيًّا يُقْفَلُ بِمِزْلاَجٍ نُحَاسِيٍّ يَمْنَعُ قَطْرَةَ مِدَادٍ أَنْ تَخْرُجَ.",
+      "de": "Ich gieße das Fass aus einem Stück und versehe es mit einem Scharnierdeckel mit Riegel, der keinen Tropfen Tinte entweichen lässt.",
+      "en": "I shall cast the inkwell in place, fitting it with a hinged lid secured by a brass latch that prevents a single drop of ink from escaping."
+    },
+    {
+      "speaker": {
+        "ar": "بَهَاءُ الدِّينِ",
+        "de": "Baha ad-Din",
+        "en": "Baha al-Din"
+      },
+      "ar": "وَهَلْ يَسَعُ الغِمْدُ أَرْبَعَةَ أَقْلاَمٍ مِنْ قَصَبِ مِصْرَ وَوَاسِطَ مَعَ مِقَطَّتِهَا وَسِكِّينِهَا؟",
+      "de": "Und fasst das Futteral vier Rohrfedern aus Ägypten und Wasit samt Schneidebein und Federmesser?",
+      "en": "And will the sheath accommodate four reed pens from Egypt and Wasit along with their cutting bone and penknife?"
+    },
+    {
+      "speaker": {
+        "ar": "شُجَاعٌ",
+        "de": "Schudscha",
+        "en": "Shuja"
+      },
+      "ar": "يَسَعُهَا جَمِيعًا فِي بَطْنٍ مَبْطُونٍ بِالحَرِيرِ؛ فَتَسِيرُ بِهَا فِي الحَضَرِ وَالسَّفَرِ كَمَا يَسِيرُ الفَارِسُ بِسَيْفِهِ، وَسِلاَحُكَ كَلِمَةُ الحَقِّ وَبَيَانُ العِلْمِ.",
+      "de": "Es birgt sie alle im seidenweichen Inneren; so trägst du sie auf Reisen wie der Ritter sein Schwert, denn deine Waffe ist das Wort der Wahrheit.",
+      "en": "It holds them all within a silk-padded cavity; thus you carry them in town and on journey as a knight bears his sword, for your weapon is the word of truth."
+    }
+  ]
+}

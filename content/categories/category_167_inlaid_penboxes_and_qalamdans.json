@@ -1,0 +1,52 @@
+{
+  "category_id": "category_167_inlaid_penboxes_and_qalamdans",
+  "title": {
+    "ar": "المَقَالِمُ النُّحَاسِيَّةُ المَكْفُوتَةُ (القَلَمْدَانُ) وَمَحَابِرُ السَّفَرِ",
+    "de": "Tauschierte Schreibzeuge (Qalamdan) und Reisetintenfässer",
+    "en": "Silver-Inlaid Brass Pen-Boxes (Qalamdan) and Traveling Inkwells"
+  },
+  "level": "B1",
+  "description": {
+    "ar": "مُصْطَلَحَاتُ مَقَالِمِ النُّحَاسِ المَكْفُوتَةِ بِالفِضَّةِ، وَأَغْمَادِ القَصَبِ الأُسْطُوَانِيَّةِ، وَمَحَابِرِ السَّفَرِ المُلْتَحِمَةِ فِي مَدَارِسِ المَوْصِلِ وَالقَاهِرَةِ.",
+    "de": "Fachbegriffe zu silbertauschierten Messingschreibzeugen (Divit/Qalamdan), röhrenförmigen Rohrfederfutteralen und Reisetintenfässern von Mossul und Kairo.",
+    "en": "Terminology of silver-inlaid brass pen-boxes (qalamdan), tubular reed scabbards, and hermetic traveling inkwells in Mosul and Cairo."
+  },
+  "vocabulary": [
+    {
+      "id": "term_167_01",
+      "ar": "المِقْلَمَةُ النُّحَاسِيَّةُ المَكْفُوتَةُ",
+      "de": "das silbertauschierte Messingschreibzeug (der Qalamdan)",
+      "en": "silver-inlaid brass pen-box (qalamdan)",
+      "phonetic_ar": "al-miqlamatu an-nuḥāsiyyatu al-makfūtah",
+      "example": {
+        "ar": "تَزْدَانُ المِقْلَمَةُ النُّحَاسِيَّةُ المَكْفُوتَةُ بِزَخَارِفَ فِضِّيَّةٍ تُحَاكِي أَبْرَاجَ الفَلَكِ وَأَدْعِيَةَ البَرَكَةِ.",
+        "de": "Das silbertauschierte Messingschreibzeug prangt mit Einlegearbeiten der Tierkreiszeichen und Segenssprüchen.",
+        "en": "The silver-inlaid brass pen-box is adorned with silver arabesques depicting zodiac constellations and benedictions."
+      }
+    },
+    {
+      "id": "term_167_02",
+      "ar": "المَحْبَرَةُ السَّفَرِيَّةُ المُلْتَحِمَةُ",
+      "de": "das angegossene Reisetintenfass (die Schraubbüchse)",
+      "en": "integrated hermetic traveling inkwell",
+      "phonetic_ar": "al-maḥbaratu as-safariyyatu al-multaḥimah",
+      "example": {
+        "ar": "تَمْتَازُ المَحْبَرَةُ السَّفَرِيَّةُ المُلْتَحِمَةُ بِغِطَاءٍ لَوْلَبِيٍّ يَحْبِسُ المِدَادَ عِنْدَ رُكُوبِ الخَيْلِ.",
+        "de": "Das angegossene Reisetintenfass zeichnet sich durch einen Schraubdeckel aus, der die Tinte beim Reiten sichert.",
+        "en": "The integrated traveling inkwell features a threaded lid that confines the ink securely during horse riding."
+      }
+    },
+    {
+      "id": "term_167_03",
+      "ar": "غِمْدُ أَقْلاَمِ القَصَبِ النُّحَاسِيُّ",
+      "de": "die messingene Rohrfederscheide (das Futteral)",
+      "en": "brass reed-pen tubular scabbard",
+      "phonetic_ar": "ghimdu 'aqlāmi al-qaṣabi an-nuḥāsiyy",
+      "example": {
+        "ar": "يَحْفَظُ غِمْدُ أَقْلاَمِ القَصَبِ النُّحَاسِيُّ أَسِنَّةَ القَصَبِ مِنْ أَنْ تَنْكَسِرَ عِنْدَ السَّيْرِ فِي الأَوْعَارِ.",
+        "de": "Die messingene Rohrfederscheide bewahrt die zarten Spitzen vor Bruch auf holprigen Wegen.",
+        "en": "The brass reed-pen scabbard protects the fragile nibs from breaking when traversing rugged trails."
+      }
+    }
+  ]
+}

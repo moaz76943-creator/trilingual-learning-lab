@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_320_im_futteral_verwahren_aghfada",
+  "root": "غ - م - د",
+  "trilingual": {
+    "ar": {
+      "infinitive": "إِغْمَادٌ",
+      "past": "أَغْمَدَ",
+      "present": "يُغْمِدُ",
+      "imperative": "أَغْمِدْ",
+      "meaning": "أَدْخَلَ القَلَمَ أَوْ السِّكِّينَ فِي غِمْدِهِ المَحْمِيِّ لِحِفْظِهِ"
+    },
+    "de": {
+      "infinitive": "in die Scheide stecken / im Futteral verwahren",
+      "past": "steckte in die Scheide",
+      "present": "steckt in die Scheide",
+      "perfect": "hat in die Scheide gesteckt",
+      "meaning": "die Schreibfedern sicher in das schützende Futteral schieben"
+    },
+    "en": {
+      "infinitive": "to sheathe / stow inside a protective scabbard",
+      "past": "sheathed",
+      "present": "sheathes",
+      "participle": "sheathed",
+      "meaning": "to insert reed pens or blades snugly into a protective casing to safeguard their tips"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يُغْمِدُ الكَاتِبُ أَقْلاَمَهُ فِي القَلَمْدَانِ عِنْدَ انْتِهَاءِ مَجْلِسِ التَّحْرِيرِ.",
+      "de": "Der Sekretär steckt seine Federn bei Sitzungsende in das Schreibfutteral.",
+      "en": "The scribe sheathes his pens inside the qalamdan upon concluding the drafting session."
+    },
+    {
+      "tense": "past",
+      "ar": "أَغْمَدَ الخَطَّاطُ سِكِّينَهُ بَعْدَ أَنْ قَطَّ سِنَّ القَصَبَةِ بِإِحْكَامٍ.",
+      "de": "Der Kalligraph steckte sein Messer ein, nachdem er die Federspitze meisterhaft zugeschnitten hatte.",
+      "en": "The calligrapher sheathed his knife after beveling the reed nib with precision."
+    }
+  ]
+}

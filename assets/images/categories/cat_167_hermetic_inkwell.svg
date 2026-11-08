@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="inkwellBrassCut" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffd54f"/>
+      <stop offset="50%" stop-color="#ffb300"/>
+      <stop offset="100%" stop-color="#b78103"/>
+    </linearGradient>
+  </defs>
+  <!-- Inkwell Body Cutaway Section -->
+  <rect x="50" y="55" width="100" height="110" rx="8" fill="url(#inkwellBrassCut)" stroke="#3e2723" stroke-width="3"/>
+  <!-- Hermetic Threaded Neck -->
+  <rect x="70" y="32" width="60" height="23" fill="#ffd54f" stroke="#3e2723" stroke-width="2"/>
+  <line x1="70" y1="38" x2="130" y2="38" stroke="#b78103" stroke-width="1.8"/>
+  <line x1="70" y1="46" x2="130" y2="46" stroke="#b78103" stroke-width="1.8"/>
+  <!-- Bayonet Screw Lid with O-Ring Gasket -->
+  <polygon points="65,32 135,32 130,15 70,15" fill="#3e2723" stroke="#ffd54f" stroke-width="1.5"/>
+  <circle cx="100" cy="12" r="6" fill="#fbc02d" stroke="#3e2723" stroke-width="1.5"/>
+  <!-- Saturated Black Silk Liqah in Cavity -->
+  <rect x="62" y="70" width="76" height="85" rx="4" fill="#212121"/>
+  <path d="M 70,105 Q 100,95 130,105 Q 100,115 70,105 Z" fill="#424242"/>
+  <!-- Silver Inlaid Calligraphic Band around Body -->
+  <rect x="53" y="125" width="94" height="20" rx="2" fill="#271b16"/>
+  <text x="100" y="139" font-family="serif" font-size="10" font-weight="bold" fill="#ffffff" text-anchor="middle">العِزُّ الدَّائِمُ</text>
+</svg>

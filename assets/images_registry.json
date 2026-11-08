@@ -556,5 +556,20 @@
     "path": "assets/images/categories/cat_166_oilstone_whetstone.svg",
     "category": "category_166_penknives_and_cutting_blocks",
     "description": "Arkansas oilstone whetstone in wooden casket with glinting bead of oil"
+  },
+  "cat_167_inlaid_qalamdan": {
+    "path": "assets/images/categories/cat_167_inlaid_qalamdan.svg",
+    "category": "category_167_inlaid_penboxes_and_qalamdans",
+    "description": "Silver-inlaid brass traveling pen-box (qalamdan) with integrated inkwell"
+  },
+  "cat_167_hermetic_inkwell": {
+    "path": "assets/images/categories/cat_167_hermetic_inkwell.svg",
+    "category": "category_167_inlaid_penboxes_and_qalamdans",
+    "description": "Cutaway view of hermetically threaded brass inkwell filled with raw silk liqah"
+  },
+  "cat_167_silver_inlay_wire": {
+    "path": "assets/images/categories/cat_167_silver_inlay_wire.svg",
+    "category": "category_167_inlaid_penboxes_and_qalamdans",
+    "description": "Pure silver wire being chased into undercut brass groove with chasing hammer"
   }
 }
