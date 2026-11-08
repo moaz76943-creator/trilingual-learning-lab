@@ -77,7 +77,7 @@ class SecureStorageService implements IStorageService {
   }
 
   /// قراءة كائن JSON مفكوك
-  Future<Result?, Failure>> readJson(String key) async {
+  Future<Result<Map<String, dynamic>?, Failure>> readJson(String key) async {
     final res = await read(key);
     return res.fold(
       (failure) => Result.failure(failure),
