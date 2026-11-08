@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_308_mit_mondmesser_schaben_kashata",
+  "root": "ك - ش - ط",
+  "trilingual": {
+    "ar": {
+      "infinitive": "كَشْطٌ",
+      "past": "كَشَطَ",
+      "present": "يَكْشِطُ",
+      "imperative": "اكْشِطْ",
+      "meaning": "أَزَالَ طَبَقَاتِ الشَّعْرِ وَالشَّحْمِ بِسِكِّينِ الهِلاَلِ حَتَّى رَقَّ الجِلْدُ"
+    },
+    "de": {
+      "infinitive": "mit dem Mondsichelmesser schaben",
+      "past": "schabte ab",
+      "present": "schabt ab",
+      "perfect": "hat abgeschabt",
+      "meaning": "Haar- und Fettreste mit der halbmondförmigen Klinge gleichmäßig von der Haut abtragen"
+    },
+    "en": {
+      "infinitive": "to scrape with a lunarium / pare vellum",
+      "past": "scraped with a lunarium",
+      "present": "scrapes with a lunarium",
+      "participle": "scraped with a lunarium",
+      "meaning": "to pare away epidermis and fat with a semi-lunar knife until the hide reaches uniform thinness"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يَكْشِطُ الشَّابُّ خُشُونَةَ الجِلْدِ فَيَتَصَاعَدُ الغُبَارُ الجِيرِيُّ النَّاعِمُ.",
+      "de": "Der Gehilfe schabt die Rauheit der Haut ab, und feiner Kreidestaub steigt auf.",
+      "en": "The apprentice scrapes the roughness of the hide, raising fine powdery chalk dust."
+    },
+    {
+      "tense": "past",
+      "ar": "كَشَطَ شَيْخُ الرَّقَّاقِينَ بَاطِنَ الأَدِيمِ فَظَهَرَتْ عُرُوقُهُ الشَّفَّافَةُ كَالنَّدَى.",
+      "de": "Der Altmeister schabte die Fleischseite ab, bis ihre Adern zart wie Tau schimmerten.",
+      "en": "The elder parchmenter scraped the flesh side until its veins gleamed translucent like dew."
+    }
+  ]
+}

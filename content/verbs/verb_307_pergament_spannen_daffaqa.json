@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_307_pergament_spannen_daffaqa",
+  "root": "د - ف - ق",
+  "trilingual": {
+    "ar": {
+      "infinitive": "تَدْفِيقٌ",
+      "past": "دَفَّقَ",
+      "present": "يُدَفِّقُ",
+      "imperative": "دَفِّقْ",
+      "meaning": "شَدَّ جِلْدَ الحَيَوَانِ عَلَى المِدْفَقِ الخَشَبِيِّ شَدًّا قَوِيًّا لِيَتَمَدَّدَ"
+    },
+    "de": {
+      "infinitive": "auf den Rahmen spannen / einspannen",
+      "past": "spannte ein",
+      "present": "spannt ein",
+      "perfect": "hat eingespannt",
+      "meaning": "eine Tierhaut mit Schnüren und Pflöcken straff auf den Holzrahmen spannen"
+    },
+    "en": {
+      "infinitive": "to stretch on a herse frame / tension hide",
+      "past": "stretched on a frame",
+      "present": "stretches on a frame",
+      "participle": "stretched on a frame",
+      "meaning": "to lace and tension an animal hide firmly across a wooden herse frame using toggle pegs"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يُدَفِّقُ الرَّقَّاقُ أَدِيمَ الجَدْيِ بِحِرْصٍ حَتَّى لا يَتَمَزَّقَ الطَّرَفُ.",
+      "de": "Der Pergamentmacher spannt die Ziegenhaut behutsam ein, damit kein Rand einreißt.",
+      "en": "The parchmenter stretches the goatskin with care so no edge tears."
+    },
+    {
+      "tense": "past",
+      "ar": "دَفَّقَ الصَّانِعُ الرَّقَّ فِي الصَّبَاحِ فَبَاتَ مَشْدُودًا كَوَجْهِ المِرْآةِ.",
+      "de": "Der Meister spannte das Pergament am Morgen ein, und es stand straff wie ein Spiegel.",
+      "en": "The master tensioned the skin in the morning, leaving it taut as a mirror face."
+    }
+  ]
+}

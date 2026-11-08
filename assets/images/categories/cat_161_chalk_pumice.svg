@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <radialGradient id="pumiceStoneGrad" cx="45%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#eceff1"/>
+      <stop offset="50%" stop-color="#b0bec5"/>
+      <stop offset="100%" stop-color="#607d8b"/>
+    </radialGradient>
+    <linearGradient id="chalkHeap" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#cfd8dc"/>
+      <stop offset="60%" stop-color="#f5f5f5"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+    </linearGradient>
+  </defs>
+  <!-- Background Clean Parchment Leaf -->
+  <rect x="25" y="35" width="150" height="130" rx="4" fill="#fffde7" stroke="#bcaaa4" stroke-width="2"/>
+  <!-- Porous Volcanic Pumice Stone Block -->
+  <path d="M 45,100 C 40,75 75,65 95,70 C 115,75 110,105 105,120 C 100,135 50,135 45,100 Z" fill="url(#pumiceStoneGrad)" stroke="#37474f" stroke-width="2"/>
+  <!-- Porous Micro-Cavity Vesicles on Pumice -->
+  <circle cx="65" cy="85" r="2" fill="#37474f"/>
+  <circle cx="80" cy="80" r="2.5" fill="#37474f"/>
+  <circle cx="95" cy="95" r="2" fill="#37474f"/>
+  <circle cx="75" cy="105" r="3" fill="#37474f"/>
+  <circle cx="60" cy="115" r="2.5" fill="#37474f"/>
+  <circle cx="85" cy="118" r="2" fill="#37474f"/>
+  <!-- Mound of Fine Degreasing Chalk Powder Beside Stone -->
+  <path d="M 105,145 Q 135,85 165,145 Z" fill="url(#chalkHeap)" stroke="#90a4ae" stroke-width="1.5"/>
+  <ellipse cx="135" cy="145" rx="30" ry="8" fill="#cfd8dc"/>
+  <!-- Fine Chalk Powder Grains Sprinkled on Parchment -->
+  <circle cx="120" cy="120" r="1.2" fill="#ffffff"/>
+  <circle cx="140" cy="110" r="1.5" fill="#ffffff"/>
+  <circle cx="150" cy="128" r="1.2" fill="#ffffff"/>
+</svg>

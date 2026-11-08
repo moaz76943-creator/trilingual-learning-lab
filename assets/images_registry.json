@@ -466,5 +466,20 @@
     "path": "assets/images/categories/cat_160_illuminated_frontispiece.svg",
     "category": "category_160_illumination_and_shell_gold",
     "description": "Illuminated manuscript frontispiece sar-lowh arch canopy in gold and ultramarine"
+  },
+  "cat_161_parchment_herse": {
+    "path": "assets/images/categories/cat_161_parchment_herse.svg",
+    "category": "category_161_parchment_making_and_frames",
+    "description": "Square wooden parchment herse frame with tautly stretched animal pelt"
+  },
+  "cat_161_lunarium_knife": {
+    "path": "assets/images/categories/cat_161_lunarium_knife.svg",
+    "category": "category_161_parchment_making_and_frames",
+    "description": "Semi-lunar lunarium scraping knife with turned wooden T-handle"
+  },
+  "cat_161_chalk_pumice": {
+    "path": "assets/images/categories/cat_161_chalk_pumice.svg",
+    "category": "category_161_parchment_making_and_frames",
+    "description": "Porous volcanic pumice stone and mound of degreasing chalk powder"
   }
 }

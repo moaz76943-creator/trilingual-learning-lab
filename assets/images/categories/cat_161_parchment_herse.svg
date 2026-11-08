@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="herseWood" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a1887f"/>
+      <stop offset="50%" stop-color="#6d4c41"/>
+      <stop offset="100%" stop-color="#3e2723"/>
+    </linearGradient>
+    <radialGradient id="stretchedSkin" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="70%" stop-color="#fffde7"/>
+      <stop offset="100%" stop-color="#fff9c4"/>
+    </radialGradient>
+  </defs>
+  <!-- Square Wooden Herse Frame with Peg Holes -->
+  <rect x="20" y="20" width="160" height="160" rx="4" fill="none" stroke="url(#herseWood)" stroke-width="14"/>
+  <rect x="27" y="27" width="146" height="146" rx="2" fill="none" stroke="#271b16" stroke-width="1.5"/>
+  <!-- Tensioning Wooden Pegs on Frame Rim -->
+  <circle cx="50" cy="20" r="3.5" fill="#ffd54f"/>
+  <circle cx="100" cy="20" r="3.5" fill="#ffd54f"/>
+  <circle cx="150" cy="20" r="3.5" fill="#ffd54f"/>
+  <circle cx="50" cy="180" r="3.5" fill="#ffd54f"/>
+  <circle cx="100" cy="180" r="3.5" fill="#ffd54f"/>
+  <circle cx="150" cy="180" r="3.5" fill="#ffd54f"/>
+  <circle cx="20" cy="65" r="3.5" fill="#ffd54f"/>
+  <circle cx="20" cy="135" r="3.5" fill="#ffd54f"/>
+  <circle cx="180" cy="65" r="3.5" fill="#ffd54f"/>
+  <circle cx="180" cy="135" r="3.5" fill="#ffd54f"/>
+  <!-- Tautly Stretched Animal Hide (Curvilinear Organic Outline) -->
+  <path d="M 55,48 C 80,42 120,42 145,48 C 158,80 158,120 145,152 C 120,158 80,158 55,152 C 42,120 42,80 55,48 Z" fill="url(#stretchedSkin)" stroke="#bcaaa4" stroke-width="1.8"/>
+  <!-- Tensioning Cords Radiating from Pegs to Pippin Stones in Skin -->
+  <line x1="50" y1="20" x2="65" y2="46" stroke="#8d6e63" stroke-width="1.8"/>
+  <line x1="100" y1="20" x2="100" y2="44" stroke="#8d6e63" stroke-width="1.8"/>
+  <line x1="150" y1="20" x2="135" y2="46" stroke="#8d6e63" stroke-width="1.8"/>
+  <line x1="50" y1="180" x2="65" y2="154" stroke="#8d6e63" stroke-width="1.8"/>
+  <line x1="100" y1="180" x2="100" y2="156" stroke="#8d6e63" stroke-width="1.8"/>
+  <line x1="150" y1="180" x2="135" y2="154" stroke="#8d6e63" stroke-width="1.8"/>
+  <line x1="20" y1="65" x2="48" y2="70" stroke="#8d6e63" stroke-width="1.8"/>
+  <line x1="20" y1="135" x2="48" y2="130" stroke="#8d6e63" stroke-width="1.8"/>
+  <line x1="180" y1="65" x2="152" y2="70" stroke="#8d6e63" stroke-width="1.8"/>
+  <line x1="180" y1="135" x2="152" y2="130" stroke="#8d6e63" stroke-width="1.8"/>
+  <!-- Pippin Knots along Skin Edge -->
+  <circle cx="100" cy="45" r="3" fill="#5d4037"/>
+  <circle cx="100" cy="155" r="3" fill="#5d4037"/>
+</svg>

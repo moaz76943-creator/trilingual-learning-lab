@@ -1,0 +1,65 @@
+{
+  "dialogue_id": "dialogue_156_parchment_scraping_herse",
+  "title": {
+    "ar": "كَشْطُ رَقِّ الغَزَالِ عَلَى مِدْفَقِ الخَشَبِ فِي القَيْرَوَانِ",
+    "de": "Das Schaben von Pergament auf dem hölzernen Spannrahmen in Kairouan",
+    "en": "Scraping Gazelle Parchment on the Wooden Herse in Kairouan"
+  },
+  "context": {
+    "ar": "حِوَارٌ فِي مَحَلَّةِ الرَّقَّاقِينَ فِي القَيْرَوَانِ بَيْنَ شَيْخِ الحِرْفَةِ وَمُسَاعِدِهِ حَوْلَ شَدِّ حَصَى الجِلْدِ بِأَوْتَارِ المِدْفَقِ وَكَشْطِهِ بِسِكِّينِ الهِلاَلِ لِكِتَابَةِ المَصَاحِفِ.",
+    "de": "Ein Gespräch im Pergamentmacherviertel von Kairouan zwischen dem Altmeister und seinem Gehilfen über das Einbinden der Spannsteine und das Glätten mit dem Lunarium-Messer für Prachthandschriften.",
+    "en": "A dialogue in the parchmenters' quarter of Kairouan between the elder master and his assistant on tying pippin stones and scraping the skin with a lunarium knife for sacred codices."
+  },
+  "turns": [
+    {
+      "speaker": {
+        "ar": "الشَّيْخُ عِمْرَانُ (رَقَّاقُ المَصَاحِفِ)",
+        "de": "Scheich Imran (Der Pergamentmeister)",
+        "en": "Sheikh Imran (The Parchment Master)"
+      },
+      "ar": "لُفَّ حَصَيَاتِ الرَّضْخِ فِي أَطْرَافِ الأَدِيمِ، وَاحْزِمْهَا بِحِبَالِ الجِلْدِ الخَامِ حَوْلَ مَفَاتِيحِ المِدْفَقِ حَتَّى يَرِنَّ الجِلْدُ كَالدُّفِّ.",
+      "de": "Wickle die kleinen Spannkiesel in die Ränder der Haut und schnüre sie mit Rohlederriemen um die Spannpflöcke, bis die Haut straff wie eine Trommel klingt.",
+      "en": "Wrap the small round pippin stones into the edges of the hide, lashing them with rawhide cords around the frame pegs until the pelt rings like a tambourine."
+    },
+    {
+      "speaker": {
+        "ar": "سَعْدُونٌ (المُتَدَرِّبُ)",
+        "de": "Sa'dun (Der Gehilfe)",
+        "en": "Sa'dun (The Apprentice)"
+      },
+      "ar": "كَيْفَ أُمْسِكُ سِكِّينَ الهِلاَلِ بِكِلْتَا يَدَيَّ دُونَ أَنْ أَخْرِقَ بَاطِنَ الجِلْدِ الرَّفِيعِ؟",
+      "de": "Wie führe ich das mondsichelförmige Lunarium mit beiden Händen, ohne die empfindliche Hautmembran zu durchstoßen?",
+      "en": "How do I wield the semi-lunar knife with both hands without piercing through the delicate membrane of the hide?"
+    },
+    {
+      "speaker": {
+        "ar": "عِمْرَانُ",
+        "de": "Imran",
+        "en": "Imran"
+      },
+      "ar": "اجْعَلْ حَدَّهَا المُنْحَنِيَ مَائِلًا بِمِقْدَارٍ يَسِيرٍ، وَاكْشِطْ مِنْ أَعْلَى المِدْفَقِ إِلَى أَسْفَلِهِ بِحَرَكَاتٍ مُتَرَاتِبَةٍ تَقْشُرُ المَادَّةَ الزُّلَالِيَّةَ.",
+      "de": "Halte die bogenförmige Schneide in sanftem Winkel und schabe von oben nach unten in gleichmäßigem Rhythmus, um alle Eiweißreste abzutragen.",
+      "en": "Hold the curved edge at a gentle rake, scraping from the top of the herse downwards in measured rhythm to peel away gelatinous remnants."
+    },
+    {
+      "speaker": {
+        "ar": "سَعْدُونٌ",
+        "de": "Sa'dun",
+        "en": "Sa'dun"
+      },
+      "ar": "وَمَتَى نَفْرُكُ السَّطْحَ بِمَسْحُوقِ الطَّبَاشِيرِ وَحَجَرِ الخَفَّافِ؟",
+      "de": "Und wann reiben wir die Oberfläche mit Kreidepulver und Bimsstein ab?",
+      "en": "And when do we rub the surface with powdered chalk and pumice stone?"
+    },
+    {
+      "speaker": {
+        "ar": "عِمْرَانُ",
+        "de": "Imran",
+        "en": "Imran"
+      },
+      "ar": "حِينَ يَجِفُّ الأَدِيمُ نِصْفَ جَفَافٍ؛ فَيَمْتَصَّ الطَّبَاشِيرُ كُلَّ دَسَمٍ مُتَبَقٍّ، فَيَغْدُوَ الرَّقُّ طَيِّعًا يَشْرَبُ مِدَادَ الكَاتِبِ وَيَحْفَظُهُ أَلْفَ عَامٍ.",
+      "de": "Wenn die Haut halbtrocken ist; die Kreide saugt jedes letzte Fetttröpfchen auf, und das Pergament wird geschmeidig, nimmt die Tinte begierig an und bewahrt sie über ein Jahrtausend.",
+      "en": "When the skin is half-dry; the chalk absorbs every lingering trace of grease, rendering the vellum supple to drink the scribe's ink and preserve it for a thousand years."
+    }
+  ]
+}

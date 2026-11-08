@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="lunariumSteel" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="35%" stop-color="#cfd8dc"/>
+      <stop offset="70%" stop-color="#90a4ae"/>
+      <stop offset="100%" stop-color="#546e7a"/>
+    </linearGradient>
+    <linearGradient id="doubleWoodGrip" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#5d4037"/>
+      <stop offset="50%" stop-color="#8d6e63"/>
+      <stop offset="100%" stop-color="#3e2723"/>
+    </linearGradient>
+  </defs>
+  <!-- Central Turned Wooden T-Handle -->
+  <rect x="88" y="25" width="24" height="65" rx="5" fill="url(#doubleWoodGrip)" stroke="#271b16" stroke-width="2"/>
+  <ellipse cx="100" cy="30" rx="16" ry="6" fill="#3e2723"/>
+  <!-- Brass Tang Attachment Collar -->
+  <polygon points="85,90 115,90 110,110 90,110" fill="#ffd54f" stroke="#3e2723" stroke-width="1.5"/>
+  <!-- Crescent-Shaped Semi-Lunar Steel Blade (Concave Top, Razor Convex Bottom) -->
+  <path d="M 30,115 Q 100,135 170,115 Q 100,185 30,115 Z" fill="url(#lunariumSteel)" stroke="#263238" stroke-width="2.5"/>
+  <!-- Beveled Cutting Edge Highlight -->
+  <path d="M 32,118 Q 100,180 168,118" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  <!-- Central Rivet Pin on Tang -->
+  <circle cx="100" cy="120" r="3.5" fill="#3e2723"/>
+</svg>

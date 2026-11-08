@@ -1,0 +1,52 @@
+{
+  "category_id": "category_161_parchment_making_and_frames",
+  "title": {
+    "ar": "دِبَاغَةُ الرَّقِّ وَمَدَافِقُ الشَّدِّ الخَشَبِيَّةُ وَسَكَاكِينُ الهِلاَلِ",
+    "de": "Pergamentherstellung, Spannrahmen (Hersen) und Lunarium-Schabmesser",
+    "en": "Parchment Making, Tensioning Herses and Lunarium Knives"
+  },
+  "level": "B1",
+  "description": {
+    "ar": "مُصْطَلَحَاتُ صِنَاعَةِ رَقِّ المَصَاحِفِ، وَمَدَافِقِ الشَّدِّ الخَشَبِيَّةِ، وَسَكَاكِينِ الكَشْطِ الهِلاَلِيَّةِ، وَتَنْقِيَةِ الأَدِيمِ بِالطَّبَاشِيرِ فِي التُّرَاثِ الإِسْلَامِيِّ.",
+    "de": "Fachbegriffe zur Fertigung von Prachtpergamenten, hölzernen Spannrahmen, halbmondförmigen Lunarium-Messern und dem Kreideentfetten.",
+    "en": "Terminology of manuscript vellum preparation, wooden tensioning herses, semi-lunar scraping knives, and chalk degreasing in Islamic tradition."
+  },
+  "vocabulary": [
+    {
+      "id": "term_161_01",
+      "ar": "مِدْفَقُ شَدِّ الرَّقِّ الخَشَبِيُّ",
+      "de": "der hölzerne Spannrahmen (die Herse)",
+      "en": "wooden parchment tensioning frame (herse)",
+      "phonetic_ar": "midfaqu shaddi ar-raqqi al-khashabiyy",
+      "example": {
+        "ar": "يُعَلَّقُ جِلْدُ الجَدْيِ عَلَى مِدْفَقِ شَدِّ الرَّقِّ الخَشَبِيِّ لِيَتَمَدَّدَ تَحْتَ قُوَّةِ الأَوْتَارِ المُحْكَمَةِ.",
+        "de": "Die Ziegenhaut wird auf die hölzerne Herse gespannt, um sich unter dem Zug der Seile vollkommen zu dehnen.",
+        "en": "The goatskin is mounted upon the wooden herse frame to stretch tautly under tensioned cords."
+      }
+    },
+    {
+      "id": "term_161_02",
+      "ar": "سِكِّينُ الهِلاَلِ لِكَشْطِ الأَدِيمِ",
+      "de": "das halbmondförmige Schabmesser (das Lunarium)",
+      "en": "semi-lunar scraping knife (lunarium)",
+      "phonetic_ar": "sikkīnu al-hilāli li-kashṭi al-'adīm",
+      "example": {
+        "ar": "تَقْشُرُ سِكِّينُ الهِلاَلِ لِكَشْطِ الأَدِيمِ طَبَقَاتِ الشَّحْمِ دُونَ أَنْ تَتْرُكَ خَدْشًا فِي الرَّقِّ.",
+        "de": "Das halbmondförmige Lunarium schabt die Fettschichten ab, ohne den feinen Pergamentgrund zu zerkratzen.",
+        "en": "The semi-lunar knife scrapes away adipose tissue without scratching the delicate vellum ground."
+      }
+    },
+    {
+      "id": "term_161_03",
+      "ar": "حَجَرُ الخَفَّافِ وَمَسْحُوقُ الطَّبَاشِيرِ",
+      "de": "der Bimsstein und das Kreide-Entfettungspulver",
+      "en": "pumice stone and degreasing chalk powder",
+      "phonetic_ar": "ḥajaru al-khaffāfi wa-masḥūqu aṭ-ṭabāshīr",
+      "example": {
+        "ar": "يَفْرُكُ الصَّانِعُ الرَّقَّ بِحَجَرِ الخَفَّافِ وَمَسْحُوقِ الطَّبَاشِيرِ لِيُزِيلَ كُلَّ أَثَرٍ لِلزُّيُوتِ العَالِقَةِ.",
+        "de": "Der Handwerker reibt das Pergament mit Bimsstein und Kreidepulver ab, um letzte Spuren von Fett zu binden.",
+        "en": "The artisan rubs the parchment with pumice stone and chalk powder to neutralize all trapped animal oils."
+      }
+    }
+  ]
+}
