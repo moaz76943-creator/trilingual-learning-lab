@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bronzeCylinder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8d6e63"/>
+      <stop offset="50%" stop-color="#bcaaa4"/>
+      <stop offset="100%" stop-color="#5d4037"/>
+    </linearGradient>
+    <linearGradient id="pistonSteel" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#cfd8dc"/>
+      <stop offset="50%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#78909c"/>
+    </linearGradient>
+  </defs>
+  <!-- Central Triangular Cam Drive Housing -->
+  <polygon points="100,25 70,85 130,85" fill="#5d4037" stroke="#271b16" stroke-width="2"/>
+  <circle cx="100" cy="65" r="12" fill="#ffd54f" stroke="#3e2723" stroke-width="2"/>
+  <!-- Left Bronze Cylinder Body -->
+  <rect x="25" y="85" width="40" height="75" rx="4" fill="url(#bronzeCylinder)" stroke="#271b16" stroke-width="2"/>
+  <rect x="35" y="95" width="20" height="55" fill="#e0f7fa"/>
+  <rect x="32" y="110" width="26" height="12" rx="2" fill="url(#pistonSteel)" stroke="#263238" stroke-width="1.5"/>
+  <line x1="45" y1="110" x2="80" y2="75" stroke="#37474f" stroke-width="3"/>
+  <!-- Right Bronze Cylinder Body -->
+  <rect x="135" y="85" width="40" height="75" rx="4" fill="url(#bronzeCylinder)" stroke="#271b16" stroke-width="2"/>
+  <rect x="145" y="95" width="20" height="55" fill="#e0f7fa"/>
+  <rect x="142" y="130" width="26" height="12" rx="2" fill="url(#pistonSteel)" stroke="#263238" stroke-width="1.5"/>
+  <line x1="155" y1="130" x2="120" y2="75" stroke="#37474f" stroke-width="3"/>
+  <!-- Common Delivery Pipe Header (Center Top) -->
+  <rect x="88" y="145" width="24" height="40" fill="#37474f" stroke="#263238" stroke-width="2"/>
+  <path d="M 45,160 L 45,170 L 155,170 L 155,160" fill="none" stroke="#37474f" stroke-width="5"/>
+  <!-- Non-Return Valves Indicators -->
+  <circle cx="45" cy="160" r="4" fill="#00e676"/>
+  <circle cx="155" cy="160" r="4" fill="#00e676"/>
+</svg>

@@ -346,5 +346,20 @@
     "path": "assets/images/categories/cat_151_moderation_threshold.svg",
     "category": "category_151_siphons_and_pneumatic_vessels",
     "description": "Engraved metallic band with Kufic moderation inscription and limit ticks"
+  },
+  "cat_152_suction_pump": {
+    "path": "assets/images/categories/cat_152_suction_pump.svg",
+    "category": "category_152_suction_pumps_and_camshafts",
+    "description": "Double-acting reciprocating suction pump with dual bronze cylinders"
+  },
+  "cat_152_camshaft_drive": {
+    "path": "assets/images/categories/cat_152_camshaft_drive.svg",
+    "category": "category_152_suction_pumps_and_camshafts",
+    "description": "Wooden camshaft with 180-degree offset eccentric lobes driving followers"
+  },
+  "cat_152_clack_valve": {
+    "path": "assets/images/categories/cat_152_clack_valve.svg",
+    "category": "category_152_suction_pumps_and_camshafts",
+    "description": "Weighted leather flapper non-return suction valve on bronze seating"
   }
 }

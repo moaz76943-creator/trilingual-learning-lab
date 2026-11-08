@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_290_ansaugen_shafata",
+  "root": "ش - ف - ط",
+  "trilingual": {
+    "ar": {
+      "infinitive": "شَفْطٌ",
+      "past": "شَفَطَ",
+      "present": "يَشْفِطُ",
+      "imperative": "اشْفِطْ",
+      "meaning": "جَذَبَ السَّائِلَ إِلَى دَاخِلِ الأُسْطُوَانَةِ بِتَفْرِيغِ الهَوَاءِ مِنْهَا"
+    },
+    "de": {
+      "infinitive": "ansaugen",
+      "past": "saugte an",
+      "present": "saugt an",
+      "perfect": "hat angesaugt",
+      "meaning": "Flüssigkeit durch Erzeugung eines Unterdrucks in den Zylinder einziehen"
+    },
+    "en": {
+      "infinitive": "to suction / draw in by vacuum",
+      "past": "suctioned",
+      "present": "suctions",
+      "participle": "suctioned",
+      "meaning": "to draw fluid into a cylinder chamber through differential atmospheric pressure"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يَشْفِطُ المِكْبَسُ المَاءَ مِنْ عُمْقِ السَّاقِيَةِ بِقُوَّةِ الفَرَاغِ.",
+      "de": "Der Kolben saugt das Wasser durch Unterdruck aus der Tiefe des Kanals an.",
+      "en": "The piston suctions water from the canal depth by the power of partial vacuum."
+    },
+    {
+      "tense": "past",
+      "ar": "شَفَطَتِ المِضَخَّةُ كُلَّ المَاءِ الرَّاكِدِ وَدَفَعَتْهُ نَحْوَ الحَقْلِ البَعِيدِ.",
+      "de": "Die Pumpe saugte das gesamte stehende Wasser an und presste es zum fernen Feld.",
+      "en": "The pump suctioned all the standing water, propelling it toward the distant field."
+    }
+  ]
+}

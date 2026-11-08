@@ -1,0 +1,65 @@
+{
+  "dialogue_id": "dialogue_147_suction_pump_assembly",
+  "title": {
+    "ar": "تَرْكِيبُ مِضَخَّةِ المَاءِ ذَاتِ الأُسْطُوَانَتَيْنِ فِي دِيَارِ بَكْرٍ",
+    "de": "Montage der doppeltwirkenden Kolbenpumpe in Diyarbakir",
+    "en": "Assembling the Double-Acting Suction Pump in Diyarbakir"
+  },
+  "context": {
+    "ar": "حِوَارٌ فِي مَشْغَلِ قَصْرِ الآرْتُقِيِّينَ بَيْنَ بَدِيعِ الزَّمَانِ الجَزَرِيِّ وَكَبِيرِ السَّبَّاكِينَ حَوْلَ خَرْطِ أُسْطُوَانَتَيِ النُّحَاسِ وَتَرْكِيبِ صِمَامَاتِ الجِلْدِ لِرَفْعِ المَاءِ إِلَى القَلْعَةِ.",
+    "de": "Ein Gespräch im Palast der Artukiden zwischen Badi' az-Zaman al-Dschazari und dem Gießermeister über das Ausdrehen der Bronzezylinder und den Einbau der Lederklappenventile.",
+    "en": "A dialogue in the Artuqid palace workshop between Badi' al-Zaman al-Jazari and the master founder on boring the bronze cylinders and fitting leather non-return valves to lift river water."
+  },
+  "turns": [
+    {
+      "speaker": {
+        "ar": "بَدِيعُ الزَّمَانِ الجَزَرِيُّ (رَئِيسُ المُهَنْدِسِينَ)",
+        "de": "Badi' az-Zaman al-Dschazari",
+        "en": "Badi' al-Zaman al-Jazari"
+      },
+      "ar": "احْرِصْ عَلَى أَنْ يَكُونَ التَّجْوِيفُ الدَّاخِلِيُّ لِكِلْتَا الأُسْطُوَانَتَيْنِ مَصْقُولًا تَمَامًا حَتَّى يُحْبَسَ الهَوَاءُ وَيَقْوَى الشَّفْطُ.",
+      "de": "Achte peinlich genau darauf, dass die Innenbohrung beider Zylinder spiegelblank ausgedreht ist, damit keine Luft entweicht und der Saugdruck maximiert wird.",
+      "en": "Ensure that the internal bore of both cylinders is polished smooth so no air leaks and suction power is maximized."
+    },
+    {
+      "speaker": {
+        "ar": "المُعَلِّمُ مَنْصُورٌ (سَبَّاكُ النُّحَاسِ)",
+        "de": "Meister Mansur (Der Erzgießer)",
+        "en": "Master Mansur (The Bronze Founder)"
+      },
+      "ar": "لَقَدْ صَبَبْتُهُمَا مِنْ نُحَاسٍ مُحْكَمٍ، وَخَرَطْتُ المِكْبَسَيْنِ بِلِبَادٍ مُشْبَعٍ بِالشَّحْمِ؛ فَكَيْفَ سَنَضْبِطُ صِمَامَاتِ السَّحْبِ؟",
+      "de": "Ich habe sie aus dichter Bronze gegossen und die Kolben mit gefettetem Filz abgedichtet; wie justieren wir nun die Einlass-Klappenventile?",
+      "en": "I cast them from dense bronze and packed the pistons with greased felt; how shall we calibrate the inlet clack valves?"
+    },
+    {
+      "speaker": {
+        "ar": "الجَزَرِيُّ",
+        "de": "Al-Dschazari",
+        "en": "Al-Jazari"
+      },
+      "ar": "نَشُدُّ لِسَانَ الجِلْدِ المُدَبَّغِ لِيَفْتَحَ لِلْمَاءِ الصَّاعِدِ فَقَطْ، ثُمَّ يُطْبِقَ بِوَزْنِهِ وَثِقَلِ المَاءِ حِينَ يَبْدَأُ الدَّفْعُ.",
+      "de": "Wir befestigen die Zunge aus gegerbtem Leder so, dass sie nur für aufsteigendes Wasser öffnet und sofort durch Eigengewicht und Wasserdruck schließt, sobald der Vorstoß beginnt.",
+      "en": "We secure the tanned leather tongue so it opens solely for rising water, snapping shut under gravity and water weight the instant compression begins."
+    },
+    {
+      "speaker": {
+        "ar": "مَنْصُورٌ",
+        "de": "Mansur",
+        "en": "Mansur"
+      },
+      "ar": "وَبِأَيِّ حَرَكَةٍ سَيَدُورُ عَمُودُ الكَامَاتِ المَرْكُوزُ فِي النَّاعُورَةِ؟",
+      "de": "Und durch welche Bewegung wird die Nockenwelle angetrieben, die mit dem Wasserrad verbunden ist?",
+      "en": "And by what motion will the camshaft mounted to the water wheel be driven?"
+    },
+    {
+      "speaker": {
+        "ar": "الجَزَرِيُّ",
+        "de": "Al-Dschazari",
+        "en": "Al-Jazari"
+      },
+      "ar": "تَدُورُ النَّاعُورَةُ بِقُوَّةِ تَيَّارِ النَّهْرِ، فَتَدْفَعُ الكَامَاتُ الخَشَبِيَّةُ ذِرَاعَيِ المِكْبَسَيْنِ بِالتَّنَاوُبِ، فَيَرْفَعُ المَاءُ نَفْسَهُ بِنَفْسِهِ لِيَسْقِيَ الزُّرُوعَ وَالعِطَاشَ.",
+      "de": "Das Schaufelrad dreht sich durch die Flussströmung; die Nocken treiben die Kolbenstangen abwechselnd an, sodass das Wasser sich selbst hebt und Gärten und Durstige labt.",
+      "en": "The paddle wheel rotates under the river current; its wooden cams alternately drive the piston rods, enabling the water to lift itself to irrigate crops and quench thirst."
+    }
+  ]
+}

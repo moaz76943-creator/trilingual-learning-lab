@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_289_umwandeln_kawwama",
+  "root": "ك - و - م",
+  "trilingual": {
+    "ar": {
+      "infinitive": "تَكْوِيمٌ",
+      "past": "كَوَّمَ",
+      "present": "يُكَوِّمُ",
+      "imperative": "كَوِّمْ",
+      "meaning": "شَكَّلَ حَدَبَاتِ الكَامَاتِ عَلَى المِحْوَرِ لِتَدْفَعَ أَذْرُعَ الآلَةِ بِالتَّنَاوُبِ"
+    },
+    "de": {
+      "infinitive": "mit Nocken versehen / nockensteuern",
+      "past": "versah mit Nocken",
+      "present": "versieht mit Nocken",
+      "perfect": "hat mit Nocken versehen",
+      "meaning": "eine Welle mit Exzenternocken bestücken, um Hebel mechanisch anzutreiben"
+    },
+    "en": {
+      "infinitive": "to cam-drive / fit with eccentric lobes",
+      "past": "cam-drove",
+      "present": "cam-drives",
+      "participle": "cam-driven",
+      "meaning": "to equip a drive axle with eccentric cam lobes to actuate reciprocating levers"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يُكَوِّمُ المُهَنْدِسُ جِذْعَ الخَشَبِ لِيَضْمَنَ تَدَافُعَ المَكَابِسِ بِمِيزَانٍ.",
+      "de": "Der Ingenieur versieht die Holzwelle mit Nocken, um den Kolbenhub harmonisch zu steuern.",
+      "en": "The engineer fits the wooden axle with cams to ensure balanced piston reciprocation."
+    },
+    {
+      "tense": "past",
+      "ar": "كَوَّمَ الجَزَرِيُّ المِحْوَرَ فَتَحَوَّلَتِ الحَرَكَةُ الدَّائِرِيَّةُ إِلَى دَفْعٍ مُسْتَقِيمٍ.",
+      "de": "Al-Dschazari bestückte die Welle mit Nocken, und die Kreisbewegung wandelte sich in linearen Schub.",
+      "en": "Al-Jazari cammed the drive shaft, converting rotary motion into linear thrust."
+    }
+  ]
+}

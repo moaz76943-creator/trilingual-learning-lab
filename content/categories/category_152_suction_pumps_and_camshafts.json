@@ -1,0 +1,52 @@
+{
+  "category_id": "category_152_suction_pumps_and_camshafts",
+  "title": {
+    "ar": "المِضَخَّاتُ الكَبْسِيَّةُ وَأَعْمِدَةُ الكَامَاتِ الهَيْدْرُولِيكِيَّةُ",
+    "de": "Kolbenpumpen und hydraulische Nockenwellen",
+    "en": "Suction Piston Pumps and Hydraulic Camshafts"
+  },
+  "level": "B1",
+  "description": {
+    "ar": "مُصْطَلَحَاتُ مِضَخَّاتِ الرَّفْعِ ذَاتِ الأُسْطُوَانَتَيْنِ، وَأَعْمِدَةِ التَّحْوِيلِ الحَرَكِيِّ، وَصِمَامَاتِ عَدَمِ الرُّجُوعِ فِي هَنْدَسَةِ الجَزَرِيِّ.",
+    "de": "Fachwortschatz zu doppeltwirkenden Kolbenpumpen, Bewegungswandler-Nockenwellen und Rückschlagventilen in der Ingenieurskunst von al-Dschazari.",
+    "en": "Terminology of double-acting lift pumps, motion-converting camshafts, and non-return clack valves in al-Jazari's mechanical treatises."
+  },
+  "vocabulary": [
+    {
+      "id": "term_152_01",
+      "ar": "مِضَخَّةُ المَاءِ ذَاتُ الأُسْطُوَانَتَيْنِ",
+      "de": "die doppeltwirkende Kolbenpumpe",
+      "en": "double-acting reciprocating suction pump",
+      "phonetic_ar": "miḍakhkhatu al-mā'i dhātu al-'usṭuwānatayn",
+      "example": {
+        "ar": "تَرْفَعُ مِضَخَّةُ المَاءِ ذَاتُ الأُسْطُوَانَتَيْنِ سُيُولَ النَّهْرِ إِلَى أَعْلَى الحِصْنِ دُونَ انْقِطَاعٍ.",
+        "de": "Die doppeltwirkende Kolbenpumpe fördert das Flusswasser ohne Unterbrechung auf die Höhe der Festung.",
+        "en": "The double-acting reciprocating suction pump lifts river currents up to the citadel continuously."
+      }
+    },
+    {
+      "id": "term_152_02",
+      "ar": "عَمُودُ الكَامَاتِ الخَشَبِيُّ",
+      "de": "die hölzerne Nockenwelle",
+      "en": "wooden camshaft with eccentric lobes",
+      "phonetic_ar": "'amūdu al-kāmāti al-khashabiyy",
+      "example": {
+        "ar": "يُحَوِّلُ عَمُودُ الكَامَاتِ الخَشَبِيُّ دَوَرَانَ النَّاعُورَةِ إِلَى حَرَكَةٍ مُسْتَقِيمَةٍ تَدْفَعُ المَكَابِسَ.",
+        "de": "Die hölzerne Nockenwelle wandelt die Drehung des Schaufelrads in geradlinigen Kolbenantrieb um.",
+        "en": "The wooden camshaft converts the waterwheel's rotation into linear motion driving the pistons."
+      }
+    },
+    {
+      "id": "term_152_03",
+      "ar": "صِمَامُ عَدَمِ الرُّجُوعِ الجِلْدِيُّ",
+      "de": "das lederne Rückschlag-Klappenventil",
+      "en": "leather non-return clack valve",
+      "phonetic_ar": "ṣimāmu 'adami ar-rujū'i al-jildiyy",
+      "example": {
+        "ar": "يَمْنَعُ صِمَامُ عَدَمِ الرُّجُوعِ الجِلْدِيُّ عَوْدَةَ المَاءِ إِلَى البِئْرِ أَثْنَاءَ ضَغْطِ الأُسْطُوَانَةِ.",
+        "de": "Das lederne Rückschlagventil verhindert den Rückfluss des Wassers in den Brunnen während des Druckhubs.",
+        "en": "The leather non-return clack valve prevents backflow of water into the well during the compression stroke."
+      }
+    }
+  ]
+}
