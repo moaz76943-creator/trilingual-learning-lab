@@ -5,7 +5,7 @@ import 'core/widgets/error_boundary.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  await AppDI.initialize();
+  await initDependencies();
   runApp(
     const ErrorBoundary(
       child: TrilingualLearningLabApp(),
