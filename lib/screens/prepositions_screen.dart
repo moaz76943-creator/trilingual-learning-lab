@@ -26,10 +26,10 @@ class _PrepositionsScreenState extends State<PrepositionsScreen> {
   Future<void> _loadPrepositions() async {
     try {
       final jsonString = await rootBundle.loadString('content/grammar/prepositions_a1.json');
-      final Map<String, dynamic> data = jsonDecode(jsonString);
-      final List list = data['prepositions'] ?? [];
+      final Map<String, dynamic> data = jsonDecode(jsonString) as Map<String, dynamic>;
+      final List<dynamic> list = (data['prepositions'] as List<dynamic>?) ?? const <dynamic>[];
       setState(() {
-        _allPreps = list.map((item) => PrepositionModel.fromJson(item)).toList();
+        _allPreps = list.map((item) => PrepositionModel.fromJson(item as Map<String, dynamic>)).toList();
         _isLoading = false;
       });
     } catch (_) {
