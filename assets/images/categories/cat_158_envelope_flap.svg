@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="flapLeather" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4a0072"/>
+      <stop offset="50%" stop-color="#6a1b9a"/>
+      <stop offset="100%" stop-color="#8e24aa"/>
+    </linearGradient>
+  </defs>
+  <!-- Back Board Edge on Left -->
+  <rect x="15" y="30" width="40" height="140" fill="#311b92" stroke="#212121" stroke-width="2"/>
+  <!-- Fore-Edge Spine Extension (Hinge strip) -->
+  <rect x="55" y="30" width="22" height="140" fill="#4a0072" stroke="#212121" stroke-width="1.5"/>
+  <line x1="66" y1="35" x2="66" y2="165" stroke="#ba68c8" stroke-width="1" stroke-dasharray="3,3"/>
+  <!-- Pentagonal Envelope Flap (Pointed tongue projecting right) -->
+  <polygon points="77,30 145,30 180,100 145,170 77,170" fill="url(#flapLeather)" stroke="#212121" stroke-width="2.5"/>
+  <!-- Gold-Tooled Arabesque Border along Flap Pentagonal Perimeter -->
+  <polygon points="85,40 140,40 168,100 140,160 85,160" fill="none" stroke="#ffd54f" stroke-width="1.8"/>
+  <!-- Central Diamond Rosette Stamping on Flap Point -->
+  <g transform="translate(135, 100)">
+    <polygon points="0,-16 16,0 0,16 -16,0" fill="#ffd54f" stroke="#3e2723" stroke-width="1.5"/>
+    <circle cx="0" cy="0" r="5" fill="#4a0072"/>
+  </g>
+</svg>

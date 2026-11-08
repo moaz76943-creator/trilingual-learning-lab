@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_301_blindpraegen_kawa",
+  "root": "ك - و - ي",
+  "trilingual": {
+    "ar": {
+      "infinitive": "كَيٌّ",
+      "past": "كَوَى",
+      "present": "يَكْوِي",
+      "imperative": "اكْوِ",
+      "meaning": "ضَغَطَ الجِلْدَ بِحَدِيدَةٍ حَامِيَةٍ لِيَغُورَ فِيهِ النَّقْشُ وَالتَّذْهِيبُ"
+    },
+    "de": {
+      "infinitive": "blindprägen / heißprägen",
+      "past": "prägte heiß",
+      "present": "prägt heiß",
+      "perfect": "hat heißgeprägt",
+      "meaning": "Leder mit erhitzten Metallstempeln vertieft ornamentieren"
+    },
+    "en": {
+      "infinitive": "to blind-tool / hot-stamp leather",
+      "past": "hot-stamped leather",
+      "present": "hot-stamps leather",
+      "participle": "hot-stamped leather",
+      "meaning": "to impress ornamental geometric motifs into leather with heated metal stamps"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يَكْوِي المُسَفِّرُ إِطَارَ الدَّفَّةِ بِعَجَلَةِ النُّحَاسِ الدَّوَّارَةِ.",
+      "de": "Der Buchbinder prägt den Deckelrahmen heiß mit der rotierenden Messingfilete.",
+      "en": "The bookbinder hot-stamps the board border using the revolving brass fillet wheel."
+    },
+    {
+      "tense": "past",
+      "ar": "كَوَى الصَّانِعُ قَلْبَ الجِلْدِ فَارْتَسَمَتْ شَمْسَةٌ بَدِيعَةُ التَّنَاظُرِ.",
+      "de": "Der Meister prägte die Mitte des Leders, und ein prachtvoll symmetrisches Medaillon entstand.",
+      "en": "The artisan hot-tooled the leather center, producing an exquisitely symmetrical mandorla."
+    }
+  ]
+}

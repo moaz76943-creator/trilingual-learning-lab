@@ -1,0 +1,52 @@
+{
+  "category_id": "category_158_bookbinding_and_blind_tooling",
+  "title": {
+    "ar": "تَسْفِيرُ الكُتُبِ الإِسْلَامِيُّ وَالضَّرْبُ بِالمَكَاوِي الحَارَّةِ",
+    "de": "Islamische Buchbindekunst, Blinddruck und Heißprägung",
+    "en": "Islamic Bookbinding, Blind Tooling and Leather Embossing"
+  },
+  "level": "B1",
+  "description": {
+    "ar": "مُصْطَلَحَاتُ تَجْلِيدِ المَخْطُوطَاتِ، وَشَمْسَاتِ الجِلْدِ المَضْرُوبَةِ، وَأَلْسِنَةِ الحِمَايَةِ المُخَمَّسَةِ، وَمَكَاوِي النَّقْشِ النُّحَاسِيَّةِ فِي التُّرَاثِ الإِسْلَامِيِّ.",
+    "de": "Fachbegriffe zu Leder-Bucheinbänden, geprägten Mittelmedaillons (Schamsa), fünfeckigen Schutzklappen und gravierten Messing-Prägeeisen.",
+    "en": "Terminology of leather codex binding, embossed central mandorlas, pentagonal envelope flaps, and engraved brass tooling irons in Islamic tradition."
+  },
+  "vocabulary": [
+    {
+      "id": "term_158_01",
+      "ar": "شَمْسَةُ التَّجْلِيدِ المَضْرُوبَةُ",
+      "de": "das geprägte Mittelmedaillon (die Schamsa)",
+      "en": "embossed leather mandorla medallion",
+      "phonetic_ar": "shamsatu at-tajlīdi al-maḍrūbah",
+      "example": {
+        "ar": "تَتَوَسَّطُ شَمْسَةُ التَّجْلِيدِ المَضْرُوبَةُ دَفَّتَيِ الكِتَابِ فَتَمْنَحُهُ هَيْبَةً وَجَمَالاً أَنْدَلُسِيًّا.",
+        "de": "Das geprägte Mittelmedaillon ziert die Mitte beider Buchdeckel und verleiht dem Band andalusische Erhabenheit.",
+        "en": "The embossed leather mandorla medallion centers both book boards, imparting Andalusian majesty and beauty."
+      }
+    },
+    {
+      "id": "term_158_02",
+      "ar": "لِسَانُ التَّسْفِيرِ الوَاقِي (المِخْلاَةُ)",
+      "de": "die fünfeckige Schutzklappe (die Umschlagklappe)",
+      "en": "protective envelope flap",
+      "phonetic_ar": "lisānu at-tasfīri al-wāqī",
+      "example": {
+        "ar": "يَنْثَنِي لِسَانُ التَّسْفِيرِ الوَاقِي فَوْقَ حَافَّةِ الأَوْرَاقِ لِيَحْجُبَ عَنْهَا رُطُوبَةَ الجَوِّ.",
+        "de": "Die schützende Umschlagklappe faltet sich über den Buchschnitt, um die Seiten vor Luftfeuchtigkeit zu bewahren.",
+        "en": "The protective envelope flap folds over the fore-edge to shield the folios from atmospheric humidity."
+      }
+    },
+    {
+      "id": "term_158_03",
+      "ar": "مِكْوَاةُ النَّقْشِ النُّحَاسِيَّةُ",
+      "de": "das gravierte Messing-Prägeeisen (der Filetenstempel)",
+      "en": "heated brass decorative finishing iron",
+      "phonetic_ar": "mikwātu an-naqshi an-nuḥāsiyyah",
+      "example": {
+        "ar": "تُحْمَى مِكْوَاةُ النَّقْشِ النُّحَاسِيَّةُ عَلَى جَمْرِ الغَضَا لِتَحْفِرَ خُطُوطَ الإِطَارِ بِلَوْنٍ كَسْتَنَائِيٍّ دَافِئٍ.",
+        "de": "Das gravierte Messing-Prägeeisen wird über Glut erwärmt, um warme kastanienbraune Rahmenlinien in das Leder zu brennen.",
+        "en": "The heated brass finishing iron is warmed over charcoal embers to burn warm chestnut border lines into the leather."
+      }
+    }
+  ]
+}

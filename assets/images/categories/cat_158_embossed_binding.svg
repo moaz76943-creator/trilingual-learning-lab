@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="moroccoLeather" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#880e4f"/>
+      <stop offset="50%" stop-color="#4a0072"/>
+      <stop offset="100%" stop-color="#311b92"/>
+    </linearGradient>
+    <radialGradient id="shamsaGold" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fff9c4"/>
+      <stop offset="60%" stop-color="#ffd54f"/>
+      <stop offset="100%" stop-color="#ffb300"/>
+    </radialGradient>
+  </defs>
+  <!-- Main Leather Board Rectangular Panel -->
+  <rect x="30" y="15" width="140" height="170" rx="6" fill="url(#moroccoLeather)" stroke="#212121" stroke-width="3"/>
+  <!-- Blind-Tooled Border Fillet Frame -->
+  <rect x="42" y="27" width="116" height="146" rx="3" fill="none" stroke="#ffeb3b" stroke-width="1.8"/>
+  <rect x="46" y="31" width="108" height="138" rx="2" fill="none" stroke="#ffb300" stroke-width="1" stroke-dasharray="3,2"/>
+  <!-- Corner Quarter-Medallions (Loshanges) -->
+  <path d="M 46,31 Q 65,31 65,50 L 46,50 Z" fill="url(#shamsaGold)"/>
+  <path d="M 154,31 Q 135,31 135,50 L 154,50 Z" fill="url(#shamsaGold)"/>
+  <path d="M 46,169 Q 65,169 65,150 L 46,150 Z" fill="url(#shamsaGold)"/>
+  <path d="M 154,169 Q 135,169 135,150 L 154,150 Z" fill="url(#shamsaGold)"/>
+  <!-- Central Mandorla Medallion (Shamsa) with Ogival Tips -->
+  <path d="M 100,55 C 130,75 130,125 100,145 C 70,125 70,75 100,55 Z" fill="url(#shamsaGold)" stroke="#3e2723" stroke-width="1.8"/>
+  <circle cx="100" cy="100" r="14" fill="#880e4f" stroke="#ffd54f" stroke-width="1.5"/>
+  <circle cx="100" cy="100" r="5" fill="#ffd54f"/>
+  <!-- Delicate Pendant Droplets (Pendants / Sar-e Lowh) -->
+  <polygon points="100,45 96,54 104,54" fill="#ffd54f"/>
+  <polygon points="100,155 96,146 104,146" fill="#ffd54f"/>
+</svg>

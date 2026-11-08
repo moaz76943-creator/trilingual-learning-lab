@@ -1,0 +1,65 @@
+{
+  "dialogue_id": "dialogue_153_leather_bookbinding_tooling",
+  "title": {
+    "ar": "نَقْشُ الشَّمْسَةِ وَلِسَانِ التَّسْفِيرِ عَلَى جِلْدِ المَرُوكِيِّ فِي القَيْرَوَانِ",
+    "de": "Das Prägen der Mittelmandorla und der Klappe auf Maroquinleder in Kairouan",
+    "en": "Tooling the Central Mandorla and Envelope Flap on Morocco Leather in Kairouan"
+  },
+  "context": {
+    "ar": "حِوَارٌ فِي سُوقِ الكُتُبِيِّينَ فِي القَيْرَوَانِ بَيْنَ مُسَفِّرِ المَصَاحِفِ وَتِلْمِيذِهِ حَوْلَ إِحْمَاءِ مَكَاوِي النُّحَاسِ عَلَى الجَمْرِ لِضَرْبِ زَخَارِفِ الشَّمْسَةِ وَلِسَانِ الحِمَايَةِ.",
+    "de": "Ein Werkstattgespräch auf dem Buchbindermarkt in Kairouan zwischen dem Meister und seinem Schüler über das Erhitzen der Messingstempel über Holzkohle zur Heißprägung der Lederornamente.",
+    "en": "A workshop dialogue in the Kairouan bookbinders' market between the master binder and his pupil on heating brass finishing stamps over charcoal to emboss leather mandorla ornaments."
+  },
+  "turns": [
+    {
+      "speaker": {
+        "ar": "المُعَلِّمُ إِبْرَاهِيمُ التُّونُسِيُّ (المُسَفِّرُ)",
+        "de": "Meister Ibrahim at-Tunisi (Der Buchbinder)",
+        "en": "Master Ibrahim al-Tunisi (The Bookbinder)"
+      },
+      "ar": "اخْتَبِرْ حَرَارَةَ المِكْوَاةِ بِقَطْرَةِ مَاءٍ؛ فَإِنْ صَفَرَتْ دُونَ أَنْ تَتَبَخَّرَ بِلَحْظَةٍ، فَهِيَ الجَاهِزَةُ لِكَابِسِ الشَّمْسَةِ.",
+      "de": "Prüfe die Hitze des Stempels mit einem Tropfen Wasser: Zischt er sanft, ohne schlagartig zu verdampfen, so hat das Eisen die perfekte Temperatur.",
+      "en": "Test the heat of the finishing tool with a drop of water: if it hisses gently without vanishing in a flash, it is ready to strike the central mandorla."
+    },
+    {
+      "speaker": {
+        "ar": "عِمَادٌ (المُتَدَرِّبُ)",
+        "de": "Imad (Der Lehrling)",
+        "en": "Imad (The Apprentice)"
+      },
+      "ar": "كَيْفَ سَنَجْعَلُ لِسَانَ الغِلاَفِ يَنْطَوِي بِمَرَانَةٍ لِيَحْمِيَ حَوَافَّ الوَرَقِ مِنَ الغُبَارِ؟",
+      "de": "Wie sorgen wir dafür, dass sich die Umschlagklappe geschmeidig faltet, um die Blattkanten vor Staub zu schützen?",
+      "en": "How shall we ensure that the envelope flap folds supplely to protect the leaf fore-edges from dust?"
+    },
+    {
+      "speaker": {
+        "ar": "إِبْرَاهِيمُ",
+        "de": "Ibrahim",
+        "en": "Ibrahim"
+      },
+      "ar": "نُرِقُّ حَافَّةَ الجِلْدِ بِمِبْرَدِ الكَشْطِ عِنْدَ خَطِّ الثَّنْيِ، فَيَنْطَبِقُ اللِّسَانُ المُخَمَّسُ فَوْقَ الدَّفَّةِ العُلْيَا كَحِضْنٍ حَرِيصٍ.",
+      "de": "Wir schaben die Lederkante an der Knicklinie mit dem Schärfmesser hauchdünn; so schmiegt sich die fünfeckige Klappe wie eine schützende Hand um den Vorderdeckel.",
+      "en": "We pare the leather edge paper-thin along the hinge line with the paring knife; thus the pentagonal flap hugs the upper board like a vigilant embrace."
+    },
+    {
+      "speaker": {
+        "ar": "عِمَادٌ",
+        "de": "Imad",
+        "en": "Imad"
+      },
+      "ar": "وَهَلْ نَضَعُ بَيَاضَ البَيْضِ كَغِرَاءٍ تَحْتَ وَرَقِ الذَّهَبِ لِيَثْبُتَ عَلَى خُطُوطِ الضَّرْبِ؟",
+      "de": "Und streichen wir Eiweiß als Schlichte unter das Blattgold, damit es in den geprägten Vertiefungen unlösbar haftet?",
+      "en": "And do we apply glair (egg white) under the gold leaf so it adheres permanently inside the impressed grooves?"
+    },
+    {
+      "speaker": {
+        "ar": "إِبْرَاهِيمُ",
+        "de": "Ibrahim",
+        "en": "Ibrahim"
+      },
+      "ar": "نَعَمْ؛ لِيَظَلَّ النُّورُ يَلْمَعُ فَوْقَ جِلْدِ السِّفْرِ قُرُونًا طَوِيلَةً، شَاهِدًا عَلَى تَوْقِيرِ العِلْمِ وَحِفْظِ كَلِمَاتِ الحَقِّ.",
+      "de": "Ja; damit das Gold über Jahrhunderte auf dem Lederband leuchtet, als Zeugnis der Ehrfurcht vor dem Geist und den Worten der Wahrheit.",
+      "en": "Yes; so the gold gleams upon the leather binding across long centuries, bearing witness to reverence for knowledge and the preservation of truth."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_302_einbinden_saffara",
+  "root": "س - ف - ر",
+  "trilingual": {
+    "ar": {
+      "infinitive": "تَسْفِيرٌ",
+      "past": "سَفَّرَ",
+      "present": "يُسَفِّرُ",
+      "imperative": "سَفِّرْ",
+      "meaning": "خَاطَ كَرَارِيسَ الكِتَابِ وَجَمَعَهَا بَيْنَ دَفَّتَيْنِ مِنْ جِلْدٍ أَوْ وَرَقٍ مُقَوًّى"
+    },
+    "de": {
+      "infinitive": "einbinden / binden (Buch)",
+      "past": "band ein",
+      "present": "bindet ein",
+      "perfect": "hat eingebunden",
+      "meaning": "Buchlagen heften und mit einem schützenden Leder- oder Gewebeeinband versehen"
+    },
+    "en": {
+      "infinitive": "to bind a codex / encase in leather",
+      "past": "bound a codex",
+      "present": "binds a codex",
+      "participle": "bound a codex",
+      "meaning": "to stitch book gatherings and encase them between protective leather-covered boards"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يُسَفِّرُ الكُتُبِيُّ تَفْسِيرَ القُرْآنِ بِجِلْدِ تَيْسٍ مَصْبُوغٍ بِالعَنَّابِيِّ.",
+      "de": "Der Buchkünstler bindet den Korankommentar in kastanienbraun gefärbtes Ziegenleder ein.",
+      "en": "The book artist binds the Quranic commentary in maroon-dyed morocco goatskin."
+    },
+    {
+      "tense": "past",
+      "ar": "سَفَّرَ أَهْلُ القَيْرَوَانِ مَخْطُوطَاتِ المَسْجِدِ بِلِسَانٍ وَاقٍ يَحْفَظُ أَطْرَافَهَا.",
+      "de": "Die Meister von Kairouan banden die Handschriften mit schützenden Klappen ein.",
+      "en": "The masters of Kairouan bound the mosque manuscripts with envelope flaps guarding their edges."
+    }
+  ]
+}
