@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="oilStoneGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#90a4ae"/>
+      <stop offset="50%" stop-color="#607d8b"/>
+      <stop offset="100%" stop-color="#37474f"/>
+    </linearGradient>
+    <linearGradient id="woodCasket" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#8d6e63"/>
+      <stop offset="100%" stop-color="#4e342e"/>
+    </linearGradient>
+  </defs>
+  <!-- Wooden Protective Casket Box for the Stone -->
+  <rect x="25" y="65" width="150" height="75" rx="5" fill="url(#woodCasket)" stroke="#271b16" stroke-width="2.5"/>
+  <rect x="35" y="75" width="130" height="55" rx="3" fill="#212121"/>
+  <!-- Fine-Grit Slate / Arkansas Oilstone Block Fitted in Box -->
+  <rect x="37" y="77" width="126" height="51" rx="2" fill="url(#oilStoneGrad)" stroke="#455a64" stroke-width="1.5"/>
+  <!-- Bead of Clear Honing Oil Glinting on Stone Surface -->
+  <ellipse cx="95" cy="100" rx="18" ry="10" fill="#e0f7fa" opacity="0.6"/>
+  <ellipse cx="90" cy="98" rx="6" ry="3" fill="#ffffff" opacity="0.85"/>
+  <circle cx="125" cy="105" r="3" fill="#ffffff" opacity="0.7"/>
+</svg>

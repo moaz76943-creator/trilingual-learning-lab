@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="damascusSteel" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="30%" stop-color="#cfd8dc"/>
+      <stop offset="70%" stop-color="#90a4ae"/>
+      <stop offset="100%" stop-color="#37474f"/>
+    </linearGradient>
+    <linearGradient id="boneHandle" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#d7ccc8"/>
+      <stop offset="50%" stop-color="#fffde7"/>
+      <stop offset="100%" stop-color="#bcaaa4"/>
+    </linearGradient>
+  </defs>
+  <!-- Slender Calligraphy Penknife Handle (Left Section) -->
+  <rect x="25" y="92" width="75" height="16" rx="5" fill="url(#boneHandle)" stroke="#271b16" stroke-width="1.8"/>
+  <!-- Gold Rivets on Handle -->
+  <circle cx="40" cy="100" r="2.5" fill="#ffd54f"/>
+  <circle cx="65" cy="100" r="2.5" fill="#ffd54f"/>
+  <circle cx="90" cy="100" r="2.5" fill="#ffd54f"/>
+  <!-- Brass Bolster Collar -->
+  <rect x="98" y="90" width="10" height="20" rx="2" fill="#fbc02d" stroke="#3e2723" stroke-width="1.5"/>
+  <!-- Slender Keen Damascus Steel Blade (Curved Scalpel Profile) -->
+  <path d="M 108,94 L 165,94 C 180,94 175,106 155,106 L 108,106 Z" fill="url(#damascusSteel)" stroke="#263238" stroke-width="2"/>
+  <!-- Watered Steel Wave Lines (Damascening) -->
+  <path d="M 115,97 Q 130,102 145,97 Q 160,102 170,96" fill="none" stroke="#607d8b" stroke-width="1" opacity="0.6"/>
+  <path d="M 115,102 Q 130,105 145,101" fill="none" stroke="#607d8b" stroke-width="1" opacity="0.6"/>
+  <!-- Razor Cutting Edge Reflection -->
+  <line x1="110" y1="106" x2="165" y2="106" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round"/>
+</svg>

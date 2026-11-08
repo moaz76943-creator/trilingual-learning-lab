@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_318_spalten_shaqqa",
+  "root": "ش - ق - ق",
+  "trilingual": {
+    "ar": {
+      "infinitive": "شَقٌّ",
+      "past": "شَقَّ",
+      "present": "يَشُقُّ",
+      "imperative": "شُقَّ",
+      "meaning": "حَزَّ وَسَطَ سِنِّ القَلَمِ شَقًّا طُولِيًّا لِيَجْرِيَ فِيهِ المِدَادُ"
+    },
+    "de": {
+      "infinitive": "die Schreibfederspitze spalten",
+      "past": "spaltete",
+      "present": "spaltet",
+      "perfect": "hat gespalten",
+      "meaning": "den Federschnitt mittig anritzen, um den Kapillarkanal für die Tinte zu öffnen"
+    },
+    "en": {
+      "infinitive": "to slit the reed nib / split the pen tip",
+      "past": "slit the nib",
+      "present": "slits the nib",
+      "participle": "slit the nib",
+      "meaning": "to incise a central longitudinal slit into the reed nib to create an ink capillary channel"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يَشُقُّ الكَاتِبُ صَدْرَ القَصَبَةِ بِسِنِّ السِّكِّينِ بِرِفْقٍ شَدِيدٍ.",
+      "de": "Der Schreiber spaltet die Brust des Schilfrohrs behutsam mit der Kリングenspitze.",
+      "en": "The scribe slits the breast of the reed tenderly with the point of the knife."
+    },
+    {
+      "tense": "past",
+      "ar": "شَقَّ ابْنُ البَوَّابِ سِنَّ القَلَمِ فَفَاضَ المِدَادُ بِانْسِيَابٍ مُعْجِزٍ.",
+      "de": "Ibn al-Bawwab spaltete die Spitze, und die Tinte ergoss sich in meisterhaftem Fluss.",
+      "en": "Ibn al-Bawwab slit the nib, and the ink flowed forth in wondrous ease."
+    }
+  ]
+}

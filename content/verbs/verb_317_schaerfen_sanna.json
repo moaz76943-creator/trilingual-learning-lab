@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_317_schaerfen_sanna",
+  "root": "س - ن - ن",
+  "trilingual": {
+    "ar": {
+      "infinitive": "سَنٌّ",
+      "past": "سَنَّ",
+      "present": "يَسُنُّ",
+      "imperative": "سُنَّ",
+      "meaning": "شَحَذَ الشَّفْرَةَ عَلَى المَسَنِّ حَتَّى غَدَتْ بَالِغَةَ الحِدَّةِ"
+    },
+    "de": {
+      "infinitive": "auf dem Wetzstein schärfen / abziehen",
+      "past": "schärfte",
+      "present": "schärft",
+      "perfect": "hat geschärft",
+      "meaning": "eine Federmesserklinge auf dem feinen Abziehstein rasiermesserscharf wetzen"
+    },
+    "en": {
+      "infinitive": "to hone / sharpen on a whetstone",
+      "past": "honed",
+      "present": "hones",
+      "participle": "honed",
+      "meaning": "to sharpen a penknife blade against an oilstone until razor-keen"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يَسُنُّ الخَطَّاطُ سِكِّينَهُ قَبْلَ كُلِّ جَلْسَةِ كِتَابَةٍ لِيَضْمَنَ نَظَافَةَ القَطِّ.",
+      "de": "Der Kalligraph schärft sein Messer vor jeder Schreibstunde, um einen sauberen Schnitt zu sichern.",
+      "en": "The calligrapher hones his knife before each writing session to ensure a clean cut."
+    },
+    {
+      "tense": "past",
+      "ar": "سَنَّ الصَّانِعُ الفُولاذَ حَتَّى عَكَسَ صُورَتَهُ كالمِرْآةِ الصَّافِيَةِ.",
+      "de": "Der Handwerker schärfte den Stahl, bis er wie ein klarer Spiegel glänzte.",
+      "en": "The artisan honed the steel until it reflected his image like a clear mirror."
+    }
+  ]
+}

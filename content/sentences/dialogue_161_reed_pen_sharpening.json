@@ -1,0 +1,65 @@
+{
+  "dialogue_id": "dialogue_161_reed_pen_sharpening",
+  "title": {
+    "ar": "شَحْذُ سِكِّينِ القَلَمِ وَقَطُّ سِنِّ القَصَبِ عَلَى المِقَطَّةِ فِي إِصْفَهَانَ",
+    "de": "Das Schärfen des Federmessers und Zuschneiden der Rohrfederspitze in Isfahan",
+    "en": "Honing the Penknife and Beveling the Reed Nib on the Bone Miqatta in Isfahan"
+  },
+  "context": {
+    "ar": "حِوَارٌ فِي مَرْسَمِ خَطِّ النَّسْتَعْلِيقِ فِي إِصْفَهَانَ بَيْنَ أُسْتَاذِ الخَطِّ وَتِلْمِيذِهِ حَوْلَ صَقْلِ شَفْرَةِ الفُولاذِ الدِّمَشْقِيِّ عَلَى حَجَرِ الزَّيْتِ وَقَطِّ قَصَبَةِ دَزْفُولَ المَصْقُولَةِ.",
+    "de": "Ein Werkstattgespräch in Isfahan zwischen dem Kalligraphiemeister und seinem Schüler über das Abziehen der Klinge auf dem Ölstein und das schräge Kappen des harten Dezful-Rohrs.",
+    "en": "A dialogue in the Isfahan calligraphy atelier between the master and his apprentice on honing the Damascus steel blade on an oilstone and oblique-beveling the dense Dezful reed."
+  },
+  "turns": [
+    {
+      "speaker": {
+        "ar": "المُعَلِّمُ مِيرْ عِمَادٌ الحَسَنِيُّ (كَبِيرُ الخَطَّاطِينَ)",
+        "de": "Meister Mir Emad al-Hasani",
+        "en": "Master Mir Emad al-Hasani"
+      },
+      "ar": "اسْنُنْ شَفْرَةَ سِكِّينِ القَلَمِ عَلَى حَجَرِ الزَّيْتِ بِمَسَحَاتٍ دَائِرِيَّةٍ لَطِيفَةٍ، حَتَّى تَصِيرَ أَرَقَّ مِنْ حَدِّ النَّدَى.",
+      "de": "Ziehe die Klinge des Federmessers auf dem feinen Ölstein mit kreisenden Bewegungen ab, bis ihre Schneide zarter als der Hauch des Taus wird.",
+      "en": "Hone the blade of the penknife on the oilstone in gentle circular strokes until its edge is keener than a blade of grass."
+    },
+    {
+      "speaker": {
+        "ar": "عَلِيُّ رِضَا (المُتَدَرِّبُ)",
+        "de": "Ali Reza (Der Geselle)",
+        "en": "Ali Reza (The Apprentice)"
+      },
+      "ar": "لَقَدْ أَصْبَحَتِ الشَّفْرَةُ تَقْطَعُ الشَّعْرَةَ فِي الهَوَاءِ، فَأَيْنَ أَضَعُ القَصَبَةَ عَلَى لَوْحِ العَظْمِ؟",
+      "de": "Die Klinge trennt nun ein Haar im Flug; wo platziere ich das Schilfrohr auf dem Knochenplättchen?",
+      "en": "The blade now slices a hair in mid-air; where shall I place the reed upon the bone slab?"
+    },
+    {
+      "speaker": {
+        "ar": "مِيرْ عِمَادٌ",
+        "de": "Mir Emad",
+        "en": "Mir Emad"
+      },
+      "ar": "أَسْنِدْ طَرَفَ القَصَبَةِ فِي مَجْرَى المِقَطَّةِ العَظْمِيَّةِ، وَأَمِلْ سِكِّينَكَ بِمِقْدَارِ عِشْرِينَ دَرَجَةً نَحْوَ اليَسَارِ لِتُلائِمَ رَشَاقَةَ النَّسْتَعْلِيقِ.",
+      "de": "Bette die Rohrspitze in die Rille der knöchernen Miqatta und neige dein Messer um zwanzig Grad nach links, passend für den schwungvollen Nastaliq.",
+      "en": "Rest the reed tip within the channel of the bone miqatta, slanting your knife twenty degrees to the left to suit the grace of Nastaliq."
+    },
+    {
+      "speaker": {
+        "ar": "عَلِيُّ رِضَا",
+        "de": "Ali Reza",
+        "en": "Ali Reza"
+      },
+      "ar": "وَهَلْ أَضْغَطُ بِتَرَدُّدٍ أَمْ بِضَرْبَةٍ قَاطِعَةٍ وَاحِدَةٍ؟",
+      "de": "Und drücke ich zögernd nieder, oder führe ich einen einzigen, beherzten Schnitt aus?",
+      "en": "And do I press with hesitation, or deliver a single, resolute cut?"
+    },
+    {
+      "speaker": {
+        "ar": "مِيرْ عِمَادٌ",
+        "de": "Mir Emad",
+        "en": "Mir Emad"
+      },
+      "ar": "بِضَرْبَةٍ وَاحِدَةٍ يَسْمَعُ لَهَا العَظْمُ طَقْطَقَةً صَافِيَةً؛ فَإِنَّ التَّرَدُّدَ يُثْلِمُ القَصَبَةَ، كَمَا يُثْلِمُ الشَّكُّ عَزِيمَةَ السَّالِكِ فِي طَرِيقِ الحِكْمَةِ.",
+      "de": "Mit einem einzigen Stoß, dass der Knochen hell knackt; denn Zögern schartet die Feder, so wie Zweifel den Entschluss des Suchenden auf dem Pfad der Weisheit schwächt.",
+      "en": "With a single strike that makes the bone ring with a crisp click; for hesitation frays the reed, just as doubt blunts the resolve of the seeker on the path of wisdom."
+    }
+  ]
+}

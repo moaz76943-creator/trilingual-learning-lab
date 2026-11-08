@@ -1,0 +1,52 @@
+{
+  "category_id": "category_166_penknives_and_cutting_blocks",
+  "title": {
+    "ar": "سَكَاكِينُ بَرْيِ الأَقْلاَمِ (قَلَمْتَرَاش) وَالمَقَطَّاتُ العَظْمِيَّةُ",
+    "de": "Federmesser (Qalamtarash), Schneidebeine (Miqatta) und Abziehsteine",
+    "en": "Calligraphy Penknives (Qalamtarash), Bone Cutting Blocks and Whetstones"
+  },
+  "level": "B1",
+  "description": {
+    "ar": "مُصْطَلَحَاتُ سَكَاكِينِ بَرْيِ أَقْلاَمِ القَصَبِ الفُولاذِيَّةِ، وَمَقَطَّاتِ العَظْمِ وَالعَاجِ، وَأَحْجَارِ المَسَنِّ الزَّيْتِيَّةِ فِي دَوَاويِنِ الخَطِّ العَرَبِيِّ.",
+    "de": "Fachbegriffe zu damaszenischen Federmessern (Qalamtarash), Knochen-Schneideplättchen (Miqatta) und Arkansas-Ölsteinen der klassischen Schreibkunst.",
+    "en": "Terminology of steel calligraphy penknives (qalamtarash), bone and ivory cutting blocks (miqatta), and fine oilstone whetstones in Arabic scriptoria."
+  },
+  "vocabulary": [
+    {
+      "id": "term_166_01",
+      "ar": "سِكِّينُ بَرْيِ القَلَمِ الفُولاذِيُّ (القَلَمْتَرَاش)",
+      "de": "das stählerne Federmesser (der Qalamtarash)",
+      "en": "damascened steel calligraphy penknife (qalamtarash)",
+      "phonetic_ar": "sikkīnu baryi al-qalami al-fūlāzhiyy",
+      "example": {
+        "ar": "يَحْمِلُ سِكِّينُ بَرْيِ القَلَمِ الفُولاذِيُّ شَفْرَةً صَلْبَةً مَكْفُوتَةً بِالذَّهَبِ لِبَرْيِ أَصْلَبِ أَنْوَاعِ القَصَبِ.",
+        "de": "Das stählerne Federmesser besitzt eine feuergehärtete, goldtauschierte Klinge zum Schneiden harter Schilfrohre.",
+        "en": "The steel penknife carries a hardened, gold-damascened blade to carve the densest species of reed."
+      }
+    },
+    {
+      "id": "term_166_02",
+      "ar": "مِقَطَّةُ القَطْعِ العَظْمِيَّةُ (المِقَطَّةُ)",
+      "de": "das knöcherne Schneideplättchen (die Miqatta)",
+      "en": "camel-bone pen-cutting block (miqatta)",
+      "phonetic_ar": "miqaṭṭatu al-qaṭ'i al-'aẓmiyyah",
+      "example": {
+        "ar": "تَسْتَنِدُ سِنُّ القَصَبَةِ عَلَى مِقَطَّةِ القَطْعِ العَظْمِيَّةِ لِتَتَلَقَّى ضَرْبَةَ الشَّفْرَةِ دُونَ أَنْ تَتَشَظَّى.",
+        "de": "Die Rohrspitze ruht auf dem Knochenplättchen, um den Klingenstoß aufzufangen, ohne zu splittern.",
+        "en": "The reed nib rests upon the bone block to absorb the blade stroke without splintering."
+      }
+    },
+    {
+      "id": "term_166_03",
+      "ar": "حَجَرُ مَسَنِّ الزَّيْتِ الدَّقِيقُ",
+      "de": "der feine Öl-Abziehstein (der Wetzstein)",
+      "en": "fine oilstone whetstone",
+      "phonetic_ar": "ḥajaru masanni az-zayti ad-daqīq",
+      "example": {
+        "ar": "يَسْكُبُ الخَطَّاطُ قَطْرَةَ زَيْتٍ فَوْقَ حَجَرِ المَسَنِّ لِيَشْحَذَ شَفْرَتَهُ حَتَّى تَلْمَعَ كَالقَمَرِ.",
+        "de": "Der Kalligraph gibt einen Tropfen Öl auf den Abziehstein, um die Klinge auf Hochglanz zu schärfen.",
+        "en": "The calligrapher drops a bead of oil on the whetstone to sharpen his blade until it gleams like the moon."
+      }
+    }
+  ]
+}

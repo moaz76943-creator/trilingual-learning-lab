@@ -541,5 +541,20 @@
     "path": "assets/images/categories/cat_165_sized_paper_folio.svg",
     "category": "category_165_ahar_sizing_and_glazes",
     "description": "Burnished ivory Ahar-sized paper leaf with razor-sharp calligraphy strokes"
+  },
+  "cat_166_qalamtarash_knife": {
+    "path": "assets/images/categories/cat_166_qalamtarash_knife.svg",
+    "category": "category_166_penknives_and_cutting_blocks",
+    "description": "Damascened steel penknife with ivory scales and razor cutting edge"
+  },
+  "cat_166_bone_miqatta": {
+    "path": "assets/images/categories/cat_166_bone_miqatta.svg",
+    "category": "category_166_penknives_and_cutting_blocks",
+    "description": "Polished camel-bone pen-cutting block with longitudinal reed channel"
+  },
+  "cat_166_oilstone_whetstone": {
+    "path": "assets/images/categories/cat_166_oilstone_whetstone.svg",
+    "category": "category_166_penknives_and_cutting_blocks",
+    "description": "Arkansas oilstone whetstone in wooden casket with glinting bead of oil"
   }
 }
