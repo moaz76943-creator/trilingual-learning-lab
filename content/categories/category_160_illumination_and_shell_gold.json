@@ -1,0 +1,52 @@
+{
+  "category_id": "category_160_illumination_and_shell_gold",
+  "title": {
+    "ar": "تَذْهِيبُ المَخْطُوطَاتِ وَذَهَبُ المَحَارِ وَالأَلْوَانُ المَعْدِنِيَّةُ",
+    "de": "Buchillumination, Muschelgold und Mineralpigmente",
+    "en": "Manuscript Illumination, Shell Gold and Mineral Pigments"
+  },
+  "level": "B1",
+  "description": {
+    "ar": "مُصْطَلَحَاتُ تَذْهِيبِ المَصَاحِفِ، وَتَحْضِيرِ ذَهَبِ المَحَارِ، وَسَرْ لَوْحِ المَخْطُوطَاتِ، وَالأَلْوَانِ المَعْدِنِيَّةِ فِي مَدَارِسِ هَرَاةَ وَشِيرَازَ.",
+    "de": "Fachbegriffe zur Prachtillumination von Handschriften, Muschelgold-Zubereitung, Frontispizen und mineralischen Pigmenten der Schulen von Herat und Schiraz.",
+    "en": "Terminology of manuscript illumination, shell-gold preparation, illuminated frontispieces, and mineral pigments in the Herat and Shiraz schools."
+  },
+  "vocabulary": [
+    {
+      "id": "term_160_01",
+      "ar": "ذَهَبُ المَحَارِ المَحْلُولُ",
+      "de": "das Muschelgold (aufgelöstes Malergold)",
+      "en": "shell gold (powdered gold watercolor)",
+      "phonetic_ar": "dhahabu al-maḥāri al-maḥlūl",
+      "example": {
+        "ar": "يَغْمِسُ المُذَهِّبُ رِيشَتَهُ فِي ذَهَبِ المَحَارِ المَحْلُولِ لِيَرْسُمَ أَوْرَاقَ النَّبَاتِ الدَّقِيقَةَ.",
+        "de": "Der Illuminator taucht seinen Pinsel in das Muschelgold, um feinste Blattornamente zu zeichnen.",
+        "en": "The illuminator dips his sable brush into the shell gold to trace delicate floral arabesques."
+      }
+    },
+    {
+      "id": "term_160_02",
+      "ar": "سَرْ لَوْحِ المَخْطُوطِ المُذَهَّبُ",
+      "de": "das illuminierte Frontispiz (die Pracht-Titelzier)",
+      "en": "illuminated manuscript frontispiece (sar-lowh)",
+      "phonetic_ar": "sar lawḥi al-makhṭūṭi al-mudhahhab",
+      "example": {
+        "ar": "يَفْتَتِحُ سَرْ لَوْحِ المَخْطُوطِ المُذَهَّبُ الدِّيوَانَ بِزَخَارِفَ هَنْدَسِيَّةٍ تَسْلُبُ الأَلْبَابَ.",
+        "de": "Das illuminierte Frontispiz eröffnet die Handschrift mit atemberaubenden geometrischen Flechtbändern.",
+        "en": "The illuminated frontispiece opens the codex with breathtaking geometric arabesques."
+      }
+    },
+    {
+      "id": "term_160_03",
+      "ar": "مِهْرَاسُ العَقِيقِ وَالخَزَفِ",
+      "de": "die Porzellan-Reibschale (der Achat-Mörser)",
+      "en": "porcelain and agate grinding mortar",
+      "phonetic_ar": "mihrāsu al-'aqīqi wal-khazaf",
+      "example": {
+        "ar": "يَسْحَقُ الصَّانِعُ حَجَرَ الّلازَوَرْدِ فِي مِهْرَاسِ العَقِيقِ لِيَحْصُلَ عَلَى أَزْرَقَ سَمَاوِيٍّ نَقِيٍّ.",
+        "de": "Der Künstler zerreibt Lapislazuli in der Achatschale, um ein reines himmelblaues Ultramarin zu gewinnen.",
+        "en": "The artisan crushes lapis lazuli in the agate mortar to yield pure celestial ultramarine."
+      }
+    }
+  ]
+}

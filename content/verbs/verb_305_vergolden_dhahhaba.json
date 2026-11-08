@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_305_vergolden_dhahhaba",
+  "root": "ذ - ه - ب",
+  "trilingual": {
+    "ar": {
+      "infinitive": "تَذْهِيبٌ",
+      "past": "ذَهَّبَ",
+      "present": "يُذَهِّبُ",
+      "imperative": "ذَهِّبْ",
+      "meaning": "طَلَى الصَّفْحَةَ أَوِ النَّقْشَ بِمَحْلُولِ الذَّهَبِ لِيَلْمَعَ"
+    },
+    "de": {
+      "infinitive": "vergolden / mit Gold illuminieren",
+      "past": "vergoldete",
+      "present": "vergoldet",
+      "perfect": "hat vergoldet",
+      "meaning": "Schriftzüge oder Ornamente mit feinstem Blatt- oder Muschelgold verzieren"
+    },
+    "en": {
+      "infinitive": "to gild / illuminate with gold",
+      "past": "gilded",
+      "present": "gilds",
+      "participle": "gilded",
+      "meaning": "to illuminate folios or arabesques with prepared shell gold or gold leaf"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يُذَهِّبُ الفَنَّانُ فَوَاصِلَ الآيَاتِ فِي صَحِيفَةِ الرَّقِّ.",
+      "de": "Der Künstler vergoldet die Versetrennzeichen auf dem Pergamentblatt.",
+      "en": "The artist gilds the verse markers upon the parchment leaf."
+    },
+    {
+      "tense": "past",
+      "ar": "ذَهَّبَ شَيْخُ الرَّسَّامِينَ سَرْ لَوْحِ الكِتَابِ بِإِعْجَازٍ بَصَرِيٍّ.",
+      "de": "Der Meistermaler vergoldete das Frontispiz mit meisterhafter visueller Pracht.",
+      "en": "The master illuminator gilded the frontispiece with visual mastery."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "verb_id": "verb_306_auswaschen_sahana",
+  "root": "س - ح - ن",
+  "trilingual": {
+    "ar": {
+      "infinitive": "سَحْنٌ",
+      "past": "سَحَنَ",
+      "present": "يَسْحَنُ",
+      "imperative": "اسْحَنْ",
+      "meaning": "سَحَقَ الذَّهَبَ أَوِ الحَجَرَ الكَرِيمَ فِي الهَاوَنِ حَتَّى عَادَ دَقِيقًا نَاعِمًا"
+    },
+    "de": {
+      "infinitive": "feinst verreiben / zermahlen",
+      "past": "verrieb feinst",
+      "present": "verreibt feinst",
+      "perfect": "hat feinst verrieben",
+      "meaning": "Goldflitter oder Mineralbrocken im Mörser zu staubfeinem Malpigment zermahlen"
+    },
+    "en": {
+      "infinitive": "to triturate / grind into impalpable powder",
+      "past": "triturated",
+      "present": "triturates",
+      "participle": "triturated",
+      "meaning": "to grind gold leaf or mineral gems in a mortar into ultra-fine painter's pigment"
+    }
+  },
+  "conjugation_examples": [
+    {
+      "tense": "present",
+      "ar": "يَسْحَنُ المُذَهِّبُ كُتَلَ الّلازَوَرْدِ لِيَصْنَعَ مِنْهَا طِلاَءَ المُلُوكِ.",
+      "de": "Der Illuminator verreibt Lapislazuli-Brocken, um königliche Ultramarinfarbe zu bereiten.",
+      "en": "The illuminator triturates lapis lazuli lumps to produce royal ultramarine paint."
+    },
+    {
+      "tense": "past",
+      "ar": "سَحَنَ الصَّانِعُ الذَّهَبَ بِالعَسَلِ حَتَّى صَارَ كَالمَاءِ الصَّافِي.",
+      "de": "Der Handwerker verrieb das Gold mit Honig, bis es so flüssig wie klares Wasser schien.",
+      "en": "The artisan triturated the gold with honey until it appeared as fluid as clear water."
+    }
+  ]
+}

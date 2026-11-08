@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <radialGradient id="shellPearl" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="40%" stop-color="#f5f5f5"/>
+      <stop offset="80%" stop-color="#e0e0e0"/>
+      <stop offset="100%" stop-color="#b0bec5"/>
+    </radialGradient>
+    <radialGradient id="pureGoldWell" cx="40%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#fffde7"/>
+      <stop offset="40%" stop-color="#ffd54f"/>
+      <stop offset="80%" stop-color="#ffb300"/>
+      <stop offset="100%" stop-color="#ff6f00"/>
+    </radialGradient>
+  </defs>
+  <!-- Natural Sea Scallop Shell (Mother of Pearl) -->
+  <path d="M 100,165 C 50,165 25,120 30,75 C 55,45 145,45 170,75 C 175,120 150,165 100,165 Z" fill="url(#shellPearl)" stroke="#78909c" stroke-width="2.5"/>
+  <!-- Shell Radial Fluting Ribs -->
+  <path d="M 100,165 L 45,65 M 100,165 L 70,55 M 100,165 L 100,50 M 100,165 L 130,55 M 100,165 L 155,65" stroke="#cfd8dc" stroke-width="1.5" fill="none"/>
+  <!-- Cake of Prepared Shell Gold inside the Shell Hollow -->
+  <ellipse cx="100" cy="110" rx="35" ry="24" fill="url(#pureGoldWell)" stroke="#b78103" stroke-width="1.8"/>
+  <ellipse cx="94" cy="104" rx="14" ry="8" fill="#ffffff" opacity="0.6"/>
+  <!-- Fine Kolinsky Sable Brush resting on Shell -->
+  <line x1="30" y1="140" x2="160" y2="40" stroke="#5d4037" stroke-width="5" stroke-linecap="round"/>
+  <polygon points="160,40 178,25 170,48" fill="#212121"/>
+  <polygon points="172,30 178,25 175,34" fill="#ffd54f"/>
+</svg>

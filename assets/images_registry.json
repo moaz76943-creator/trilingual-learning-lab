@@ -451,5 +451,20 @@
     "path": "assets/images/categories/cat_159_reed_pen_qalam.svg",
     "category": "category_159_inks_and_calligraphy_tools",
     "description": "Obliquely beveled reed calligraphy pen with slit nib and cutting bone"
+  },
+  "cat_160_shell_gold_palette": {
+    "path": "assets/images/categories/cat_160_shell_gold_palette.svg",
+    "category": "category_160_illumination_and_shell_gold",
+    "description": "Natural sea scallop shell containing golden watercolor cake with sable brush"
+  },
+  "cat_160_porcelain_mortar": {
+    "path": "assets/images/categories/cat_160_porcelain_mortar.svg",
+    "category": "category_160_illumination_and_shell_gold",
+    "description": "Porcelain mortar and agate pestle grinding ultramarine lapis lazuli pigment"
+  },
+  "cat_160_illuminated_frontispiece": {
+    "path": "assets/images/categories/cat_160_illuminated_frontispiece.svg",
+    "category": "category_160_illumination_and_shell_gold",
+    "description": "Illuminated manuscript frontispiece sar-lowh arch canopy in gold and ultramarine"
   }
 }

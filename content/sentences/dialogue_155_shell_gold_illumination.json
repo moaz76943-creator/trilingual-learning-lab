@@ -1,0 +1,65 @@
+{
+  "dialogue_id": "dialogue_155_shell_gold_illumination",
+  "title": {
+    "ar": "سَحْنُ الذَّهَبِ بِالعَسَلِ لِتَذْهِيبِ سَرْ لَوْحِ المَخْطُوطِ فِي هَرَاةَ",
+    "de": "Das Verreiben von Blattgold mit Honig für die Prachtinitialen in Herat",
+    "en": "Grinding Gold Leaf with Honey for Frontispiece Illumination in Herat"
+  },
+  "context": {
+    "ar": "حِوَارٌ فِي مَرْسَمِ البِلَاطِ فِي هَرَاةَ بَيْنَ كَبِيرِ المُذَهِّبِينَ وَتِلْمِيذِهِ حَوْلَ سَحْنِ رَقَائِقِ الذَّهَبِ الخَالِصِ فِي هَاوَنِ الخَزَفِ وَغَسْلِهَا لِصُنْعِ ذَهَبِ المَحَارِ.",
+    "de": "Ein Fachgespräch im Hofatelier in Herat zwischen dem Meisterilluminator und seinem Gehilfen über das Zerreiben von Blattgold mit Honig und das Auswaschen zur Muschelgoldherstellung.",
+    "en": "A dialogue in the court atelier in Herat between the chief illuminator and his apprentice on grinding pure gold leaf with honey and washing it to create shell gold."
+  },
+  "turns": [
+    {
+      "speaker": {
+        "ar": "المُعَلِّمُ كَمَالُ الدِّينِ (المُذَهِّبُ)",
+        "de": "Meister Kamal ad-Din (Der Illuminator)",
+        "en": "Master Kamal al-Din (The Illuminator)"
+      },
+      "ar": "ضَعْ عِشْرِينَ وَرَقَةً مِنْ خَالِصِ الذَّهَبِ فِي هَاوَنِ الخَزَفِ، وَأَضِفْ مِلْعَقَةً مِنْ عَسَلِ النَّحْلِ الصَّافِي لِيَمْسِكَ الذَّرَّاتِ.",
+      "de": "Gib zwanzig Blatt reinsten Goldes in die Porzellanschale und füge einen Löffel klaren Bienenhonigs hinzu, um die Flitterchen zu binden.",
+      "en": "Place twenty leaves of pure gold in the porcelain mortar and add a spoonful of clear honey to bind the particles."
+    },
+    {
+      "speaker": {
+        "ar": "جَعْفَرٌ (المُتَدَرِّبُ)",
+        "de": "Dschafar (Der Gehilfe)",
+        "en": "Jafar (The Apprentice)"
+      },
+      "ar": "كَمْ سَاعَةً سَأَسْحَنُ الذَّهَبَ بِبَاطِنِ إِبْهَامِي حَتَّى يَذُوبَ مَلْمَسُهُ؟",
+      "de": "Wie viele Stunden soll ich das Gold mit der Daumenkuppe verreiben, bis es vollkommen teigig und staubfein wird?",
+      "en": "How many hours must I grind the gold with the ball of my thumb until all graininess dissolves?"
+    },
+    {
+      "speaker": {
+        "ar": "كَمَالُ الدِّينِ",
+        "de": "Kamal ad-Din",
+        "en": "Kamal al-Din"
+      },
+      "ar": "ثَلاَثَ سَاعَاتٍ دُونَ كَلَلٍ؛ فَإِذَا اسْتَحَالَ طِينًا ذَهَبِيًّا، صَبَبْنَا عَلَيْهِ المَاءَ الدَّافِئَ لِيَطْفُوَ العَسَلُ وَيَرْسُبَ التِّبْرُ النَّاعِمُ.",
+      "de": "Drei Stunden ohne Unterlass; sobald es zu goldenem Brei wird, gießen wir lauwarmes Wasser auf, damit der Honig aufsteigt und das feine Gold absinkt.",
+      "en": "Three hours without pause; when it turns into golden paste, we pour warm water so the honey rises and the impalpable gold settles."
+    },
+    {
+      "speaker": {
+        "ar": "جَعْفَرٌ",
+        "de": "Dschafar",
+        "en": "Jafar"
+      },
+      "ar": "وَبِمَاذَا نَحْفَظُ هَذَا المَسْحُوقَ الثَّمِينَ بَعْدَ تَجْفِيفِهِ؟",
+      "de": "Und worin bewahren wir dieses kostbare Puder nach dem Trocknen auf?",
+      "en": "And in what vessel do we store this precious powder after drying?"
+    },
+    {
+      "speaker": {
+        "ar": "كَمَالُ الدِّينِ",
+        "de": "Kamal ad-Din",
+        "en": "Kamal al-Din"
+      },
+      "ar": "نَجْمَعُهُ فِي أَصْدَافِ البَحْرِ اللُّؤْلُؤِيَّةِ كَذَهَبِ مَحَارٍ نَقِيٍّ، لِنَرْسُمَ بِهِ نُجُومَ الآيَاتِ وَتِيجَانَ السُّوَرِ فَيَبْهَجَ قَلْبُ القَارِئِ.",
+      "de": "Wir füllen es in perlmuttene Muschelschalen als reines Muschelgold, um damit die Sternverzierungen der Verse zu malen und das Herz des Lesers zu erfreuen.",
+      "en": "We collect it inside mother-of-pearl sea shells as pure shell gold, painting verse markers and surah headers to gladden the reader's heart."
+    }
+  ]
+}
