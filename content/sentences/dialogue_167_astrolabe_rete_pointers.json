@@ -1,0 +1,35 @@
+{
+  "dialogue_id": "dialogue_167_astrolabe_rete_pointers",
+  "title": {
+    "ar": "تَفْرِيغُ الشَّبَكَةِ العَنْكَبُوتِيَّةِ وَنَحْتُ شَظَايَا الكَوَاكِبِ",
+    "de": "Das Durchbrechen der Rete und das Formen der Sternzeiger",
+    "en": "Piercing the Astrolabe Rete and Scribing the Star Pointers"
+  },
+  "context": {
+    "ar": "حِوَارٌ فِي مَشْغَلِ الفَلَكِيِّينَ بَيْنَ حَاذِقِ النُّحَاسِ وَمُسَاعِدِهِ حَوْلَ تَفْرِيغِ صَفِيحَةِ العَنْكَبُوتِ لِإِظْهَارِ المَقَنْطَرَاتِ مَعَ إِبْقَاءِ أَسِنَّةِ النُّجُومِ الثَّابِتَةِ.",
+    "de": "Ein Fachgespräch über das feine Durchbrechen der Messing-Rete zur Freilegung der Almutantare unter Beibehaltung der flammenförmigen Sternspitzen.",
+    "en": "A master dialogue on delicately piercing the brass rete plate to reveal the altitude circles while preserving the flame-like fixed star pointers."
+  },
+  "turns": [
+    {
+      "speaker": {
+        "ar": "المُعَلِّمُ إِبْرَاهِيمُ (صَانِعُ الآلاَتِ)",
+        "de": "Meister Ibrahim (Instrumentenbauer)",
+        "en": "Master Ibrahim (Instrument Maker)"
+      },
+      "ar": "فَرِّغِ النُّحَاسَ الزَّائِدَ بِمِبْرَدِ الحَدِيدِ الدَّقِيقِ، حَتَّى تَبْدُوَ دَوَائِرُ المَقَنْطَرَاتِ فِي الصَّفِيحَةِ السُّفْلِيَّةِ بِوُضُوحٍ تَامٍّ.",
+      "de": "Feile das überschüssige Messing mit der feinen Nadelraspel aus, damit die Almutantarenkreise der darunterliegenden Scheibe vollkommen sichtbar werden.",
+      "en": "Pierce away the excess brass with the fine needle file so that the altitude circles on the underlying plate show through with absolute clarity."
+    },
+    {
+      "speaker": {
+        "ar": "كَمَالٌ (المُسَاعِدُ النَّحَّاسُ)",
+        "de": "Kamal (Der Geselle)",
+        "en": "Kamal (The Journeyman)"
+      },
+      "ar": "كَمْ شَظِيَّةً سَنَبْقِي عَلَى طَوْقِ مَنَازِلِ البُرُوجِ لِتُشِيرَ إِلَى رُءُوسِ النُّجُومِ كَالنَّسْرِ الطَّائِرِ وَقَلْبِ العَقْرَبِ؟",
+      "de": "Wie viele Sternzeigerspitzen belassen wir auf dem Ekliptikring für Hauptsterne wie Altair und Antares?",
+      "en": "How many star pointers shall we leave along the ecliptic ring to indicate prominent stars like Altair and Antares?"
+    }
+  ]
+}
