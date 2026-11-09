@@ -84,8 +84,10 @@ class UnifiedContentRepository {
   int get dialogueCount => _dialogueCache.length;
 
   /// Loads, parses, and indexes actual content datasets into active caches.
+  /// Parallelized for better startup performance.
   Future<bool> preload({AssetBundle? bundle}) async {
     final effectiveBundle = bundle ?? rootBundle;
+    final stopwatch = Stopwatch()..start();
     try {
       // 1. Try reading asset manifest to discover packaged JSON files
       String manifestContent = '';
@@ -99,19 +101,23 @@ class UnifiedContentRepository {
         final Map<String, dynamic> manifestMap = json.decode(manifestContent);
         final jsonPaths = manifestMap.keys.where((k) => k.endsWith('.json')).toList();
 
+        final futures = <Future<void>>[];
         for (final path in jsonPaths) {
           if (path.contains('content/categories/')) {
-            await _loadCategoryFile(effectiveBundle, path);
+            futures.add(_loadCategoryFile(effectiveBundle, path));
           } else if (path.contains('content/verbs/')) {
-            await _loadVerbFile(effectiveBundle, path);
+            futures.add(_loadVerbFile(effectiveBundle, path));
           } else if (path.contains('content/sentences/')) {
-            await _loadDialogueFile(effectiveBundle, path);
+            futures.add(_loadDialogueFile(effectiveBundle, path));
           }
         }
+        // Concurrent loads (I/O bound) - limits implicit by Dart isolate scheduling
+        await Future.wait(futures);
       }
 
       _isLoaded = true;
-      debugPrint('UnifiedContentRepository successfully populated: '
+      stopwatch.stop();
+      debugPrint('UnifiedContentRepository successfully populated in ${stopwatch.elapsedMilliseconds}ms: '
           '${_categoryCache.length} categories, '
           '${_verbCache.length} verbs, '
           '${_dialogueCache.length} dialogues.');
@@ -187,14 +193,9 @@ class UnifiedContentRepository {
   List<Map<String, dynamic>> getAllDialogues() => _dialogueCache.values.toList();
 
   void clearCaches() {
-    _categoryCache.clearDecoder = null;
     _categoryCache.clear();
     _verbCache.clear();
     _dialogueCache.clear();
     _isLoaded = false;
   }
-}
-
-extension on Map<String, ContentCategory> {
-  set clearDecoder(Null clearDecoder) {}
 }
