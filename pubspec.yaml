@@ -19,6 +19,14 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
+    - assets/images_registry.json
+    - assets/images/categories/
+    - assets/svg/
+    - content/assets/
+    - content/vocabulary/
+    - content/verbs/
+    - content/sentences/
+    - content/categories/
     - content/vocabulary/family_a1.json
     - content/vocabulary/food_a1.json
     - content/vocabulary/home_a1.json
