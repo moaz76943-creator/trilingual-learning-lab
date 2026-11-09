@@ -1,0 +1,58 @@
+{
+  "category_id": "category_174_astrolabe_tympan_plates",
+  "level": "B1",
+  "title": {
+    "ar": "حُجْرَةُ الأَسْطُرْلاَبِ وَصَفَائِحُ الأَقَالِيمِ",
+    "de": "Die Astrolabium-Mutter und die Klimaplatten",
+    "en": "The Astrolabe Mater and Latitude Tympan Plates"
+  },
+  "description": {
+    "ar": "مُصْطَلَحَاتُ حُجْرَةِ الأَسْطُرْلاَبِ العَمِيقَةِ (الأُمِّ)، وَصَفَائِحِ عُرُوضِ البُلْدَانِ المَنْقُوشَةِ (الأَقَالِيمِ)، وَدَوَائِرِ السُّمُوتِ الفَلَكِيَّةِ، وَسِنِّ التَّثْبِيتِ المَانِعِ لِلدَّوَرَانِ.",
+    "de": "Fachbegriffe für das Gehäuse des Astrolabiums (die Mutter), die eingravierten Klimaplatten (Tympana) für verschiedene Breitengrade, die Azimutkreise und die Rastnase.",
+    "en": "Terminology for the hollow astrolabe case (the mater), engraved latitude plates (tympans) for specific climates, azimuth circles, and the locating lug."
+  },
+  "items": [
+    {
+      "id": "item_174_01",
+      "ar": "حُجْرَةُ الصَّفَائِحِ (الأُمُّ)",
+      "de": "Die Mutter / Das Gehäuse",
+      "en": "The Mater",
+      "transliteration": "ḥujratu aṣ-ṣafā’iḥ (al-umm)"
+    },
+    {
+      "id": "item_174_02",
+      "ar": "صَفَائِحُ عُرُوضِ البُلْدَانِ",
+      "de": "Die Klimaplatten / Tympana",
+      "en": "The Latitude Plates (Tympans)",
+      "transliteration": "ṣafā’iḥu ʿurūḍi al-buldān"
+    },
+    {
+      "id": "item_174_03",
+      "ar": "دَوَائِرُ السُّمُوتِ الفَلَكِيَّةُ",
+      "de": "Die Azimutkreise",
+      "en": "The Azimuth Circles",
+      "transliteration": "dawā’iru as-sumūti al-falakiyyah"
+    },
+    {
+      "id": "item_174_04",
+      "ar": "خَطُّ الأُفُقِ المَنْقُوشُ",
+      "de": "Die gravierte Horizontlinie",
+      "en": "The Engraved Horizon Line",
+      "transliteration": "khaṭṭu al-ufuqi al-manqūsh"
+    },
+    {
+      "id": "item_174_05",
+      "ar": "سَمْتُ الرَّأْسِ المَرْكُوزُ",
+      "de": "Der Zenitpunkt",
+      "en": "The Zenith Point",
+      "transliteration": "samtu ar-ra’si al-markūz"
+    },
+    {
+      "id": "item_174_06",
+      "ar": "سِنُّ التَّثْبِيتِ المَانِعُ لِلدَّوَرَانِ",
+      "de": "Die Arretiernase / Rastnase",
+      "en": "The Locating Lug / Tooth",
+      "transliteration": "sinnu at-tathbīti al-māniʿu lid-dawarān"
+    }
+  ]
+}
