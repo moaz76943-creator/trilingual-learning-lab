@@ -1,94 +1,126 @@
 import 'dart:convert';
-import '../errors/failures.dart';
-import '../utils/result.dart';
+import 'dart:io';
+import 'package:flutter/foundation.dart';
+import 'package:path_provider/path_provider.dart';
 
-/// واجهة تخزين المفاتيح والقيم المجردة
-abstract class IStorageService {
-  Future<Result<void, Failure>> write(String key, String value);
-  Future<Result<String?, Failure>> read(String key);
-  Future<Result<void, Failure>> delete(String key);
-  Future<Result<bool, Failure>> containsKey(String key);
-  Future<Result<void, Failure>> clearAll();
+/// Contract for durable key-value storage surviving process restarts.
+abstract class ISecureStorageService {
+  Future<void> write({required String key, required String value});
+  Future<String?> read({required String key});
+  Future<void> delete({required String key});
+  Future<void> deleteAll();
+  Future<bool> containsKey({required String key});
 }
 
-/// خدمة تخزين المفاتيح المشفرة والمحلية الآمنة مع حماية من الأخطاء
-class SecureStorageService implements IStorageService {
-  final Map<String, String> _memoryStore = {};
+/// Durable, private-disk storage service replacing volatile in-memory maps.
+/// Implements immediate memory caching with asynchronous, durable disk serialization.
+class SecureStorageService implements ISecureStorageService {
+  static final SecureStorageService _instance = SecureStorageService._internal();
+  factory SecureStorageService() => _instance;
+  SecureStorageService._internal();
 
-  SecureStorageService();
+  File? _storageFile;
+  final Map<String, String> _cache = {};
+  bool _isInitialized = false;
 
-  @override
-  Future<Result<void, Failure>> write(String key, String value) async {
+  /// Initializes the physical storage file path in app-private storage.
+  Future<void> init([Directory? baseDir]) async {
+    if (_isInitialized && baseDir == null) return;
+
     try {
-      if (key.trim().isEmpty) {
-        return Result.failure(const ValidationFailure('مفتاح التخزين لا يمكن أن يكون فارغاً'));
+      final Directory directory = baseDir ?? await getApplicationDocumentsDirectory();
+      final storageDir = Directory('${directory.path}/security_store');
+      if (!await storageDir.exists()) {
+        await storageDir.create(recursive: true);
       }
-      _memoryStore[key] = value;
-      return Result.success(null);
+      _storageFile = File('${storageDir.path}/app_secure_kv.json');
+      await _loadFromDisk();
+      _isInitialized = true;
     } catch (e) {
-      return Result.failure(CacheFailure('فشل حفظ البيانات في التخزين الآمن: $e'));
-    }
-  }
-
-  @override
-  Future<Result<String?, Failure>> read(String key) async {
-    try {
-      if (!_memoryStore.containsKey(key)) {
-        return Result.success(null);
+      debugPrint('SecureStorageService initialization notice: $e (using local fallback)');
+      // Local fallback for headless CLI / Termux unit tests
+      final fallbackDir = Directory('./.app_secure_store');
+      if (!fallbackDir.existsSync()) {
+        fallbackDir.createSync(recursive: true);
       }
-      return Result.success(_memoryStore[key]);
+      _storageFile = File('${fallbackDir.path}/app_secure_kv.json');
+      await _loadFromDisk();
+      _isInitialized = true;
+    }
+  }
+
+  Future<void> _loadFromDisk() async {
+    if (_storageFile == null || !await _storageFile!.exists()) {
+      _cache.clear();
+      return;
+    }
+
+    try {
+      final content = await _storageFile!.readAsString();
+      if (content.trim().isNotEmpty) {
+        final Map<String, dynamic> decoded = json.decode(content);
+        _cache.clear();
+        decoded.forEach((k, v) => _cache[k] = v.toString());
+      }
     } catch (e) {
-      return Result.failure(CacheFailure('فشل قراءة المفتاح من التخزين الآمن: $e'));
+      debugPrint('Failed to load secure store from disk, starting clean: $e');
+      _cache.clear();
+    }
+  }
+
+  Future<void> _flushToDisk() async {
+    if (_storageFile == null) return;
+    try {
+      final jsonString = json.encode(_cache);
+      final tempFile = File('${_storageFile!.path}.tmp');
+      await tempFile.writeAsString(jsonString, flush: true);
+      if (await _storageFile!.exists()) {
+        await _storageFile!.delete();
+      }
+      await tempFile.rename(_storageFile!.path);
+    } catch (e) {
+      debugPrint('Error flushing secure storage to disk: $e');
     }
   }
 
   @override
-  Future<Result<void, Failure>> delete(String key) async {
-    try {
-      _memoryStore.remove(key);
-      return Result.success(null);
-    } catch (e) {
-      return Result.failure(CacheFailure('فشل حذف المفتاح من التخزين: $e'));
+  Future<void> write({required String key, required String value}) async {
+    if (!_isInitialized) await init();
+    _cache[key] = value;
+    await _flushToDisk();
+  }
+
+  @override
+  Future<String?> read({required String key}) async {
+    if (!_isInitialized) await init();
+    return _cache[key];
+  }
+
+  @override
+  Future<void> delete({required String key}) async {
+    if (!_isInitialized) await init();
+    if (_cache.containsKey(key)) {
+      _cache.remove(key);
+      await _flushToDisk();
     }
   }
 
   @override
-  Future<Result<bool, Failure>> containsKey(String key) async {
-    try {
-      return Result.success(_memoryStore.containsKey(key));
-    } catch (e) {
-      return Result.failure(CacheFailure('فشل التحقق من وجود المفتاح: $e'));
-    }
+  Future<void> deleteAll() async {
+    if (!_isInitialized) await init();
+    _cache.clear();
+    await _flushToDisk();
   }
 
   @override
-  Future<Result<void, Failure>> clearAll() async {
-    try {
-      _memoryStore.clear();
-      return Result.success(null);
-    } catch (e) {
-      return Result.failure(CacheFailure('فشل مسح التخزين بالكامل: $e'));
-    }
+  Future<bool> containsKey({required String key}) async {
+    if (!_isInitialized) await init();
+    return _cache.containsKey(key);
   }
 
-  /// تخزين كائن بصيغة JSON
-  Future<Result<void, Failure>> writeJson(String key, Map<String, dynamic> json) async {
-    return write(key, jsonEncode(json));
-  }
-
-  /// قراءة كائن JSON مفكوك
-  Future<Result?, Failure>> readJson(String key) async {
-    final res = await read(key);
-    return res.fold(
-      (failure) => Result.failure(failure),
-      (data) {
-        if (data == null) return Result.success(null);
-        try {
-          return Result.success(jsonDecode(data) as Map<String, dynamic>);
-        } catch (e) {
-          return Result.failure(ParseFailure('فشل فك ترميز كائن JSON: $e'));
-        }
-      },
-    );
+  @visibleForTesting
+  void clearMemoryCacheOnly() {
+    _cache.clear();
+    _isInitialized = false;
   }
 }

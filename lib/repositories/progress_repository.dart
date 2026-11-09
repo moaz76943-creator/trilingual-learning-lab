@@ -1,89 +1,118 @@
 import 'dart:convert';
 import 'dart:io';
+import 'package:flutter/foundation.dart';
+import 'package:trilingual_learning_lab/core/storage/atomic_file_writer.dart';
 
+/// Domain model representing persistent learner progress metrics.
+class UserProgressModel {
+  int wordsLearned;
+  int streakDays;
+  int dailyGoal;
+  int todayReviewsCount;
+  DateTime lastActiveDate;
+  Set<String> masteredConceptIds;
+
+  UserProgressModel({
+    this.wordsLearned = 0,
+    this.streakDays = 1,
+    this.dailyGoal = 20,
+    this.todayReviewsCount = 0,
+    DateTime? lastActiveDate,
+    Set<String>? masteredConceptIds,
+  })  : lastActiveDate = lastActiveDate ?? DateTime.now(),
+        masteredConceptIds = masteredConceptIds ?? {};
+
+  Map<String, dynamic> toJson() => {
+        'wordsLearned': wordsLearned,
+        'streakDays': streakDays,
+        'dailyGoal': dailyGoal,
+        'todayReviewsCount': todayReviewsCount,
+        'lastActiveDate': lastActiveDate.toIso8601String(),
+        'masteredConceptIds': masteredConceptIds.toList(),
+      };
+
+  factory UserProgressModel.fromJson(Map<String, dynamic> json) {
+    return UserProgressModel(
+      wordsLearned: json['wordsLearned'] as int? ?? 0,
+      streakDays: json['streakDays'] as int? ?? 1,
+      dailyGoal: json['dailyGoal'] as int? ?? 20,
+      todayReviewsCount: json['todayReviewsCount'] as int? ?? 0,
+      lastActiveDate: json['lastActiveDate'] != null
+          ? DateTime.tryParse(json['lastActiveDate'] as String) ?? DateTime.now()
+          : DateTime.now(),
+      masteredConceptIds: (json['masteredConceptIds'] as List<dynamic>?)
+              ?.map((e) => e.toString())
+              .toSet() ??
+          {},
+    );
+  }
+}
+
+/// Durable Progress Repository enforcing atomic file persistence without data loss gaps.
 class ProgressRepository {
-  final Set<String> _favoriteIds = {};
-  final Set<String> _learnedIds = {};
+  static final ProgressRepository _instance = ProgressRepository._internal();
+  factory ProgressRepository() => _instance;
+  ProgressRepository._internal();
+
+  UserProgressModel _currentProgress = UserProgressModel();
+  File? _dataFile;
   bool _isInitialized = false;
 
-  Set<String> get favoriteIds => _favoriteIds;
-  Set<String> get learnedIds => _learnedIds;
-  bool get isInitialized => _isInitialized;
+  UserProgressModel get currentProgress => _currentProgress;
 
-  bool isFavorite(String conceptId) => _favoriteIds.contains(conceptId);
-  bool isLearned(String conceptId) => _learnedIds.contains(conceptId);
-
-  // تهيئة وقراءة البيانات من الملف المحلي الآمن
-  Future<void> init(String storageDirectoryPath) async {
-    final file = File('$storageDirectoryPath/user_progress.json');
-    if (await file.exists()) {
-      try {
-        final content = await file.readAsString();
-        final Map<String, dynamic> data = jsonDecode(content);
-        
-        _favoriteIds.clear();
-        _learnedIds.clear();
-
-        final List favs = data['favorites'] ?? [];
-        final List learned = data['learned'] ?? [];
-
-        _favoriteIds.addAll(favs.map((e) => e.toString()));
-        _learnedIds.addAll(learned.map((e) => e.toString()));
-      } catch (e) {
-        // حماية البيانات: عمل نسخة احتياطية من الملف التالف بدلاً من مسحه
-        try {
-          await file.copy('$storageDirectoryPath/user_progress.corrupted.bak');
-        } catch (_) {}
-      }
+  Future<void> init([Directory? baseDir]) async {
+    final Directory dir = baseDir ?? Directory('./.app_progress_store');
+    if (!await dir.exists()) {
+      await dir.create(recursive: true);
     }
+    _dataFile = File('${dir.path}/learner_progress.json');
+    await loadProgress();
     _isInitialized = true;
   }
 
-  // تبديل حالة المفضلة وحفظها ذرياً
-  Future<bool> toggleFavorite(String conceptId, String storageDirectoryPath) async {
-    if (_favoriteIds.contains(conceptId)) {
-      _favoriteIds.remove(conceptId);
-    } else {
-      _favoriteIds.add(conceptId);
-    }
-    return await _saveSafely(storageDirectoryPath);
-  }
-
-  // تبديل حالة الإتقان وحفظها ذرياً
-  Future<bool> toggleLearned(String conceptId, String storageDirectoryPath) async {
-    if (_learnedIds.contains(conceptId)) {
-      _learnedIds.remove(conceptId);
-    } else {
-      _learnedIds.add(conceptId);
-    }
-    return await _saveSafely(storageDirectoryPath);
-  }
-
-  // تقنية الكتابة الذرية (Atomic Write) لمنع تلف الملف
-  Future<bool> _saveSafely(String storageDirectoryPath) async {
-    try {
-      final targetFile = File('$storageDirectoryPath/user_progress.json');
-      final tempFile = File('$storageDirectoryPath/user_progress.tmp');
-
-      final payload = {
-        'version': 1,
-        'updated_at': DateTime.now().toIso8601String(),
-        'favorites': _favoriteIds.toList(),
-        'learned': _learnedIds.toList(),
-      };
-
-      final jsonString = jsonEncode(payload);
-
-      // 1. الكتابة في ملف مؤقت أولاً
-      await tempFile.writeAsString(jsonString, flush: true);
-
-      // 2. استبدال الملف الأصلي بالملف المؤقت بعملية ذرية (Atomic Rename)
-      if (await targetFile.exists()) {
-        await targetFile.delete();
+  Future<void> loadProgress() async {
+    if (_dataFile == null) return;
+    final content = await AtomicFileWriter.safeReadFile(_dataFile!);
+    if (content != null && content.trim().isNotEmpty) {
+      try {
+        final decoded = json.decode(content);
+        if (decoded is Map<String, dynamic>) {
+          _currentProgress = UserProgressModel.fromJson(decoded);
+        }
+      } catch (e) {
+        debugPrint('Failed to parse progress file: $e');
       }
-      await tempFile.rename(targetFile.path);
+    }
+  }
+
+  /// Records review completion atomically. Updates in-memory state ONLY if disk write succeeds.
+  Future<bool> recordConceptMastered(String conceptId) async {
+    if (!_isInitialized) await init();
+    if (_dataFile == null) return false;
+
+    // Create candidate state
+    final updatedMastered = Set<String>.from(_currentProgress.masteredConceptIds)..add(conceptId);
+    final candidateProgress = UserProgressModel(
+      wordsLearned: updatedMastered.length,
+      streakDays: _currentProgress.streakDays,
+      dailyGoal: _currentProgress.dailyGoal,
+      todayReviewsCount: _currentProgress.todayReviewsCount + 1,
+      lastActiveDate: DateTime.now(),
+      masteredConceptIds: updatedMastered,
+    );
+
+    final jsonString = json.encode(candidateProgress.toJson());
+    final success = await AtomicFileWriter.safeWriteFile(
+      targetFile: _dataFile!,
+      content: jsonString,
+    );
+
+    if (success) {
+      // Memory state updated strictly after durable persistence confirmed
+      _currentProgress = candidateProgress;
       return true;
-    } catch (e) {
+    } else {
+      debugPrint('Atomic progress write failed; in-memory state protected from divergence.');
       return false;
     }
   }
