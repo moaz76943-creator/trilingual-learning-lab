@@ -1,0 +1,29 @@
+{
+  "verb_id": "verb_334_darraja_graduate",
+  "root": "د - ر - ج",
+  "trilingual": {
+    "ar": {
+      "infinitive": "تَدْرِيجٌ",
+      "past": "دَرَّجَ",
+      "present": "يُدَرِّجُ",
+      "imperative": "دَرِّجْ"
+    },
+    "de": {
+      "infinitive": "graduieren / einteilen",
+      "preterite": "graduierte",
+      "participle": "graduiert"
+    },
+    "en": {
+      "infinitive": "to graduate / calibrate",
+      "past": "graduated",
+      "participle": "graduated"
+    }
+  },
+  "examples": [
+    {
+      "ar": "دَرَّجَ الحِرَفِيُّ طَوْقَ الأَسْطُرْلاَبِ إِلَى ثَلاَثِمِائَةٍ وَسِتِّينَ دَرَجَةً دَقِيقَةً.",
+      "de": "Der Kunsthandwerker graduierte den Rand des Astrolabiums in dreihundertsechzig präzise Grade.",
+      "en": "The artisan graduated the rim of the astrolabe into three hundred and sixty precise degrees."
+    }
+  ]
+}

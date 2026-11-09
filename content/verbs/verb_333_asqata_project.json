@@ -1,0 +1,29 @@
+{
+  "verb_id": "verb_333_asqata_project",
+  "root": "س - ق - ط",
+  "trilingual": {
+    "ar": {
+      "infinitive": "إِسْقَاطٌ",
+      "past": "أَسْقَطَ",
+      "present": "يُسْقِطُ",
+      "imperative": "أَسْقِطْ"
+    },
+    "de": {
+      "infinitive": "projizieren",
+      "preterite": "projizierte",
+      "participle": "projiziert"
+    },
+    "en": {
+      "infinitive": "to project",
+      "past": "projected",
+      "participle": "projected"
+    }
+  },
+  "examples": [
+    {
+      "ar": "أَسْقَطَ عَالِمُ الرِّيَاضِيَّاتِ مَدَارَاتِ النُّجُومِ عَلَى صَفِيحَةِ الأَسْطُرْلاَبِ المُسْتَوِيَةِ.",
+      "de": "Der Mathematiker projizierte die Sternbahnen auf die ebene Astrolabium-Platte.",
+      "en": "The mathematician projected the stellar orbits onto the flat astrolabe plate."
+    }
+  ]
+}

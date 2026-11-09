@@ -1,0 +1,35 @@
+{
+  "dialogue_id": "dialogue_169_stereographic_tympan_projection",
+  "title": {
+    "ar": "نَقْشُ الإِسْقَاطِ المُجَسَّمِ عَلَى صَفِيحَةِ الأَسْطُرْلاَبِ",
+    "de": "Gravur der stereographischen Projektion auf die Astrolabium-Platte",
+    "en": "Engraving the Stereographic Projection on the Astrolabe Plate"
+  },
+  "context": {
+    "ar": "حِوَارٌ فِي مَرْصَدِ بَغْدَادَ بَيْنَ حَاسِبِ الفَلَكِ وَمُسَاعِدِهِ حَوْلَ إِسْقَاطِ مَدَارِ الجَدْيِ وَخَطِّ الاسْتِوَاءِ وَالمَقَنْطَرَاتِ عَلَى الصَّفِيحَةِ النُّحَاسِيَّةِ حَسَبَ عَرْضِ بَلَدِ الرَّصْدِ.",
+    "de": "Ein Fachgespräch im Observatorium über die stereographische Projektion des Wendekreises des Steinbocks, des Äquators und der Almutantare auf die Messingplatte gemäß der geographischen Breite.",
+    "en": "A scholarly dialogue in the observatory on stereographically projecting the Tropic of Capricorn, equator, and altitude circles onto the brass plate for the local latitude."
+  },
+  "turns": [
+    {
+      "speaker": {
+        "ar": "الفَلَكِيُّ الحَسَنُ (المُهَنْدِسُ)",
+        "de": "Astronom Al-Hasan (Der Ingenieur)",
+        "en": "Astronomer Al-Hasan (The Engineer)"
+      },
+      "ar": "ثَبِّتْ سِنَّ البِرْكَارِ فِي قُطْبِ الجَنُوبِ لِتَمُدَّ دَائِرَةَ مَدَارِ الجَدْيِ، فَهِيَ الحَدُّ الأَقْصَى لِهَذِهِ الصَّفِيحَةِ.",
+      "de": "Setze die Zirkelspitze in den Südpol, um den Kreis des Wendekreises des Steinbocks zu ziehen; er bildet die äußerste Begrenzung dieser Platte.",
+      "en": "Anchor the compass point at the south celestial pole to strike the circle of the Tropic of Capricorn, which forms the outer boundary of this plate."
+    },
+    {
+      "speaker": {
+        "ar": "يَحْيَى (المُدَرِّجُ)",
+        "de": "Yahya (Der Graveur)",
+        "en": "Yahya (The Graduator)"
+      },
+      "ar": "أَسْقَطْتُ دَوَائِرَ الِارتِفَاعِ بِفَارِقِ دَرَجَتَيْنِ لِتَتَّضِحَ خُطُوطُ السُّمُوتِ عِنْدَ الأُفُقِ الحَقِيقِيِّ.",
+      "de": "Ich habe die Höhenkreise im Abstand von zwei Graden projiziert, damit die Azimutlinien am wahren Horizont klar hervortreten.",
+      "en": "I projected the altitude circles at two-degree intervals so that the azimuth lines stand out distinctly at the true horizon."
+    }
+  ]
+}
