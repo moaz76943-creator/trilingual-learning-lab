@@ -1,72 +1,123 @@
-import 'package:flutter/material.dart';
-import '../../../../core/events/app_event_bus.dart';
-import '../../../../core/storage/secure_storage_service.dart';
+import 'dart:async';
+import 'package:flutter/foundation.dart';
+import 'package:trilingual_learning_lab/core/events/app_event_bus.dart';
+import 'package:trilingual_learning_lab/repositories/progress_repository.dart';
+import 'package:trilingual_learning_lab/repositories/srs_repository.dart';
 
-class HomeStats {
+/// State object representing verified, dynamic learner dashboard metrics.
+class DashboardMetricsState {
   final int wordsLearned;
   final int streakDays;
   final int dailyGoal;
   final int todayReviewsCount;
+  final int dueSrsCardsCount;
+  final bool isLoading;
 
-  const HomeStats({
+  const DashboardMetricsState({
     this.wordsLearned = 0,
-    this.streakDays = 0,
-    this.dailyGoal = 10,
+    this.streakDays = 1,
+    this.dailyGoal = 20,
     this.todayReviewsCount = 0,
+    this.dueSrsCardsCount = 0,
+    this.isLoading = false,
   });
 
-  double get dailyGoalProgress =>
-      dailyGoal == 0 ? 0.0 : (todayReviewsCount / dailyGoal).clamp(0.0, 1.0);
+  DashboardMetricsState copyWith({
+    int? wordsLearned,
+    int? streakDays,
+    int? dailyGoal,
+    int? todayReviewsCount,
+    int? dueSrsCardsCount,
+    bool? isLoading,
+  }) {
+    return DashboardMetricsState(
+      wordsLearned: wordsLearned ?? this.wordsLearned,
+      streakDays: streakDays ?? this.streakDays,
+      dailyGoal: dailyGoal ?? this.dailyGoal,
+      todayReviewsCount: todayReviewsCount ?? this.todayReviewsCount,
+      dueSrsCardsCount: dueSrsCardsCount ?? this.dueSrsCardsCount,
+      isLoading: isLoading ?? this.isLoading,
+    );
+  }
 }
 
-/// متحكم الشاشة الرئيسية التفاعلي HomeDashboardController
+/// Authoritative HomeController binding real persistent progress to the UI
+/// and strictly managing StreamSubscription lifecycles to prevent memory leaks.
 class HomeController extends ChangeNotifier {
-  final SecureStorageService _storage;
-  HomeStats _stats = const HomeStats();
-  bool _isLoading = false;
+  final ProgressRepository _progressRepo;
+  final SrsRepository _srsRepo;
+  final AppEventBus _eventBus;
 
-  HomeController(this._storage) {
-    _listenToEvents();
+  DashboardMetricsState _state = const DashboardMetricsState(isLoading: true);
+  final List<StreamSubscription<dynamic>> _subscriptions = [];
+  bool _isDisposed = false;
+
+  HomeController({
+    ProgressRepository? progressRepository,
+    SrsRepository? srsRepository,
+    AppEventBus? eventBus,
+  })  : _progressRepo = progressRepository ?? ProgressRepository(),
+        _srsRepo = srsRepository ?? SrsRepository(),
+        _eventBus = eventBus ?? AppEventBus() {
+    _initSubscriptions();
   }
 
-  HomeStats get stats => _stats;
-  bool get isLoading => _isLoading;
+  DashboardMetricsState get state => _state;
+  bool get isDisposed => _isDisposed;
 
-  void _listenToEvents() {
-    eventBus.on<StreakUpdatedEvent>().listen((event) {
-      _stats = HomeStats(
-        wordsLearned: _stats.wordsLearned,
-        streakDays: event.streakDays,
-        dailyGoal: _stats.dailyGoal,
-        todayReviewsCount: _stats.todayReviewsCount,
-      );
-      notifyListeners();
+  void _initSubscriptions() {
+    // Retain subscription handle explicitly to cancel on dispose
+    final sub = _eventBus.on<AppEvent>().listen((event) {
+      if (!_isDisposed) {
+        refreshDashboardData();
+      }
     });
-
-    eventBus.on<WordMasteredEvent>().listen((event) {
-      _stats = HomeStats(
-        wordsLearned: _stats.wordsLearned + 1,
-        streakDays: _stats.streakDays,
-        dailyGoal: _stats.dailyGoal,
-        todayReviewsCount: _stats.todayReviewsCount + 1,
-      );
-      notifyListeners();
-    });
+    _subscriptions.add(sub);
   }
 
+  /// Loads verified metrics from persistent storage without fake dummy data.
   Future<void> loadDashboardData() async {
-    _isLoading = true;
+    if (_isDisposed) return;
+    _state = _state.copyWith(isLoading: true);
     notifyListeners();
 
-    await Future.delayed(const Duration(milliseconds: 100));
-    _stats = const HomeStats(
-      wordsLearned: 5435,
-      streakDays: 7,
-      dailyGoal: 15,
-      todayReviewsCount: 12,
-    );
+    try {
+      await _progressRepo.loadProgress();
+      final progress = _progressRepo.currentProgress;
+      final dueCards = _srsRepo.getDueCards();
 
-    _isLoading = false;
-    notifyListeners();
+      if (!_isDisposed) {
+        _state = DashboardMetricsState(
+          wordsLearned: progress.wordsLearned,
+          streakDays: progress.streakDays,
+          dailyGoal: progress.dailyGoal,
+          todayReviewsCount: progress.todayReviewsCount,
+          dueSrsCardsCount: dueCards.length,
+          isLoading: false,
+        );
+        notifyListeners();
+      }
+    } catch (e) {
+      debugPrint('Error loading real dashboard metrics: $e');
+      if (!_isDisposed) {
+        _state = _state.copyWith(isLoading: false);
+        notifyListeners();
+      }
+    }
+  }
+
+  Future<void> refreshDashboardData() async {
+    await loadDashboardData();
+  }
+
+  @override
+  void dispose() {
+    _isDisposed = true;
+    // Cancel all StreamSubscriptions to eliminate memory leaks and callbacks after disposal
+    for (final sub in _subscriptions) {
+      sub.cancel();
+    }
+    _subscriptions.clear();
+    super.dispose();
   }
 }
