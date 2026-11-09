@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'core/di/injection_container.dart';
 import 'core/router/app_router.dart';
 import 'core/widgets/error_boundary.dart';
+import 'core/theme/app_theme.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -19,12 +20,13 @@ class TrilingualLearningLabApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Trilingual Learning Lab (100% Complete)',
+      title: 'Trilingual Learning Lab',
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-        useMaterial3: true,
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.teal),
-      ),
+      theme: AppTheme.light,
+      darkTheme: AppTheme.dark,
+      highContrastTheme: AppTheme.highContrastLight,
+      highContrastDarkTheme: AppTheme.highContrastDark,
+      themeMode: ThemeMode.system,
       onGenerateRoute: AppRouter.generateRoute,
       initialRoute: AppRoutes.home,
     );
