@@ -1,0 +1,29 @@
+{
+  "verb_id": "verb_330_qawwasa_curve",
+  "root": "ق - و - س",
+  "trilingual": {
+    "ar": {
+      "infinitive": "تَقْوِيسٌ",
+      "past": "قَوَّسَ",
+      "present": "يُقَوِّسُ",
+      "imperative": "قَوِّسْ"
+    },
+    "de": {
+      "infinitive": "wölben",
+      "preterite": "wölbte",
+      "participle": "gewölbt"
+    },
+    "en": {
+      "infinitive": "to curve",
+      "past": "curved",
+      "participle": "curved"
+    }
+  },
+  "examples": [
+    {
+      "ar": "قَوَّسَ النَّقَّاشُ رَأْسَ الشَّظِيَّةِ كَشُعْلَةِ النَّارِ لِتُشِيرَ إِلَى قَلْبِ العَقْرَبِ.",
+      "de": "Der Graveur wölbte die Zeigerspitze flammenförmig, um auf Antares zu weisen.",
+      "en": "The engraver curved the tip of the pointer like a flame to point toward Antares."
+    }
+  ]
+}

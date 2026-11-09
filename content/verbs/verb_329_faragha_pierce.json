@@ -1,0 +1,29 @@
+{
+  "verb_id": "verb_329_faragha_pierce",
+  "root": "ف - ر - غ",
+  "trilingual": {
+    "ar": {
+      "infinitive": "تَفْرِيغٌ",
+      "past": "فَرَّغَ",
+      "present": "يُفَرِّغُ",
+      "imperative": "فَرِّغْ"
+    },
+    "de": {
+      "infinitive": "ausfeilen",
+      "preterite": "feilte aus",
+      "participle": "ausgefeilt"
+    },
+    "en": {
+      "infinitive": "to pierce",
+      "past": "pierced",
+      "participle": "pierced"
+    }
+  },
+  "examples": [
+    {
+      "ar": "فَرَّغَ الصَّانِعُ النُّحَاسَ بَيْنَ شَظَايَا الكَوَاكِبِ بِمِهَارَةٍ فَائِقَةٍ.",
+      "de": "Der Handwerker feilte das Messing zwischen den Sternspitzen mit meisterhaftem Geschick aus.",
+      "en": "The artisan pierced the brass between the star pointers with exquisite skill."
+    }
+  ]
+}

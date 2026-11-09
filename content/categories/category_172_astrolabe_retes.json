@@ -1,0 +1,58 @@
+{
+  "category_id": "category_172_astrolabe_retes",
+  "level": "B1",
+  "title": {
+    "ar": "تَفْرِيغُ الشَّبَكَةِ العَنْكَبُوتِيَّةِ وَنَحْتُ شَظَايَا الكَوَاكِبِ",
+    "de": "Das Durchbrechen der Rete und das Formen der Sternzeiger",
+    "en": "Piercing the Astrolabe Rete and Scribing the Star Pointers"
+  },
+  "description": {
+    "ar": "مُصْطَلَحَاتُ صِنَاعَةِ صَفِيحَةِ العَنْكَبُوتِ النُّحَاسِيَّةِ، وَتَفْرِيغِ أَرْضِيَّتِهَا لِإِظْهَارِ المَقَنْطَرَاتِ، وَنَحْتِ شَظَايَا النُّجُومِ الثَّابِتَةِ كَالنَّسْرِ الطَّائِرِ وَالعَيُّوقِ.",
+    "de": "Fachbegriffe für das kunstvolle Durchbrechen der Messing-Rete, das Freistellen der Almutantare und das Schnitzen der flammenförmigen Zeiger für Fixsterne wie Altair und Kapella.",
+    "en": "Technical terminology for piercing the openwork brass rete plate, exposing the altitude circles, and carving flame-shaped pointers for fixed stars like Altair and Capella."
+  },
+  "items": [
+    {
+      "id": "item_172_01",
+      "ar": "الشَّبَكَةُ العَنْكَبُوتِيَّةُ",
+      "de": "Die Rete / Die Netzscheibe",
+      "en": "The Astrolabe Rete",
+      "transliteration": "ash-shabakatu al-ʿankabūtiyyah"
+    },
+    {
+      "id": "item_172_02",
+      "ar": "شَظَايَا الكَوَاكِبِ",
+      "de": "Die Sternzeiger / Sternspitzen",
+      "en": "The Fixed Star Pointers",
+      "transliteration": "shadhāyā al-kawākib"
+    },
+    {
+      "id": "item_172_03",
+      "ar": "طَوْقُ مَنَازِلِ البُرُوجِ",
+      "de": "Der Ekliptikring",
+      "en": "The Ecliptic Ring",
+      "transliteration": "ṭawqu manāzili al-burūj"
+    },
+    {
+      "id": "item_172_04",
+      "ar": "المِبْرَدُ الإِبْرِيُّ الدَّقِيقُ",
+      "de": "Die feine Nadelfeile",
+      "en": "The Fine Needle File",
+      "transliteration": "al-mibradu al-ibriyyu ad-daqīq"
+    },
+    {
+      "id": "item_172_05",
+      "ar": "مَقَنْطَرَاتُ الِارتِفَاعِ",
+      "de": "Die Almutantaren / Höhenkreise",
+      "en": "The Altitude Circles (Almucantars)",
+      "transliteration": "maqanṭarātu al-irtifāʿ"
+    },
+    {
+      "id": "item_172_06",
+      "ar": "المُرْشِدُ الشَّمَالِيُّ",
+      "de": "Der Nordzeiger / Indexzeiger",
+      "en": "The North Pointer / Almuri",
+      "transliteration": "al-murshidu ash-shamāliyy"
+    }
+  ]
+}
