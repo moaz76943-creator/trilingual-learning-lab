@@ -1,14 +1,25 @@
 import 'package:flutter/material.dart';
-import '../../../../core/routing/route_guards.dart';
+import 'package:trilingual_learning_lab/core/router/app_router.dart';
+import 'package:trilingual_learning_lab/core/storage/secure_storage_service.dart';
+import 'package:trilingual_learning_lab/data/unified_content_repository.dart';
+import 'package:trilingual_learning_lab/repositories/progress_repository.dart';
+import 'package:trilingual_learning_lab/repositories/srs_repository.dart';
 
+/// State of the initial application bootstrap gate.
+enum BootstrapStatus {
+  initializing,
+  ready,
+  failed,
+}
+
+/// Verifiable Splash Screen checking real repository and persistence health
+/// before navigating to home, preventing blank screens or unmounted setState calls.
 class SplashScreen extends StatefulWidget {
-  final Future<void> Function()? onInitialize;
-  final VoidCallback onReady;
+  final Future<bool> Function()? customInitializer;
 
   const SplashScreen({
     super.key,
-    this.onInitialize,
-    required this.onReady,
+    this.customInitializer,
   });
 
   @override
@@ -16,106 +27,137 @@ class SplashScreen extends StatefulWidget {
 }
 
 class _SplashScreenState extends State<SplashScreen> {
-  double _progress = 0.1;
-  String _statusMessage = 'جاري تهيئة بيئة اللغات الثلاث...';
+  BootstrapStatus _status = BootstrapStatus.initializing;
+  String _statusMessage = 'جاري تهيئة بيئة التعلم الثلاثية...';
 
   @override
   void initState() {
     super.initState();
-    _startInitialization();
+    _runRealBootstrap();
   }
 
-  Future<void> _startInitialization() async {
-    try {
-      setState(() {
-        _progress = 0.3;
-        _statusMessage = 'تحميل المفردات والأفعال الحياتية...';
-      });
+  Future<void> _runRealBootstrap() async {
+    if (!mounted) return;
+    setState(() {
+      _status = BootstrapStatus.initializing;
+      _statusMessage = 'جاري تحميل المعاجم والقواعد والتقدم...';
+    });
 
-      if (widget.onInitialize != null) {
-        await widget.onInitialize!();
-      } else {
-        await Future.delayed(const Duration(milliseconds: 600));
+    try {
+      if (widget.customInitializer != null) {
+        final success = await widget.customInitializer!();
+        if (!mounted) return;
+        if (success) {
+          _navigateToHome();
+        } else {
+          _handleFailure('فشل التحقق من صحة المكونات المخصصة.');
+        }
+        return;
       }
 
-      setState(() {
-        _progress = 0.8;
-        _statusMessage = 'فهرسة الجمل التفاعلية والمتجهات...';
-      });
+      // Real health gate: parallel verification of content repository and persistence stores
+      final results = await Future.wait([
+        UnifiedContentRepository().preload(),
+        ProgressRepository().init().then((_) => true).catchError((_) => false),
+        SrsRepository().init().then((_) => true).catchError((_) => false),
+        SecureStorageService().init().then((_) => true).catchError((_) => false),
+      ]);
 
-      await Future.delayed(const Duration(milliseconds: 300));
+      if (!mounted) return;
 
-      setState(() {
-        _progress = 1.0;
-        _statusMessage = 'اكتملت الجاهزية!';
-      });
-
-      ContentReadyGuard.markContentReady();
-      await Future.delayed(const Duration(milliseconds: 200));
-
-      if (mounted) {
-        widget.onReady();
+      final allHealthy = results.every((r) => r == true);
+      if (allHealthy) {
+        _status = BootstrapStatus.ready;
+        _navigateToHome();
+      } else {
+        _handleFailure('تعذر تحميل بعض ملفات المحتوى أو قواعد التخزين المحلية.');
       }
     } catch (e) {
-      setState(() {
-        _statusMessage = 'حدث خطأ أثناء التهيئة: $e';
-      });
+      if (!mounted) return;
+      _handleFailure('حدث خطأ أثناء التهيئة: $e');
     }
+  }
+
+  void _navigateToHome() {
+    Navigator.of(context).pushReplacementNamed(AppRoutes.home);
+  }
+
+  void _handleFailure(String error) {
+    setState(() {
+      _status = BootstrapStatus.failed;
+      _statusMessage = error;
+    });
   }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: const Color(0xFF1B5E20), // أخضر غابي وقور ومريح
-      body: SafeArea(
-        child: Center(
-          child: Padding(
-            padding: const EdgeInsets.symmetric(horizontal: 32.0),
-            child: Column(
-              mainAxisAlignment: MainAxisAlignment.center,
-              children: [
-                const Icon(
-                  Icons.translate_rounded,
-                  size: 80,
+      backgroundColor: const Color(0xFF1E293B),
+      body: Center(
+        child: Padding(
+          padding: const EdgeInsets.symmetric(horizontal: 32.0),
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              // Logo or App Emblem
+              Container(
+                width: 96,
+                height: 96,
+                decoration: BoxDecoration(
+                  color: Colors.amber.shade700,
+                  shape: BoxShape.circle,
+                ),
+                child: const Icon(
+                  Icons.menu_book_rounded,
+                  size: 54,
                   color: Colors.white,
                 ),
-                const SizedBox(height: 24),
-                const Text(
-                  'المختبر اللغوي الثلاثي',
-                  style: TextStyle(
-                    fontSize: 26,
-                    fontWeight: FontWeight.bold,
-                    color: Colors.white,
-                    letterSpacing: 0.5,
-                  ),
+              ),
+              const SizedBox(height: 28),
+              const Text(
+                'مختبر اللغات الثلاث',
+                style: TextStyle(
+                  fontSize: 24,
+                  fontWeight: FontWeight.bold,
+                  color: Colors.white,
                 ),
-                const SizedBox(height: 8),
-                const Text(
-                  'العربية • Deutsch • English',
-                  style: TextStyle(
-                    fontSize: 15,
-                    color: Colors.white70,
-                    letterSpacing: 1.0,
-                  ),
+              ),
+              const SizedBox(height: 8),
+              const Text(
+                'Trilingual Learning Lab • Arabisch, Deutsch, Englisch',
+                style: TextStyle(fontSize: 13, color: Colors.white70),
+                textAlign: TextAlign.center,
+              ),
+              const SizedBox(height: 40),
+
+              if (_status == BootstrapStatus.initializing) ...[
+                const CircularProgressIndicator(color: Colors.amber),
+                const SizedBox(height: 20),
+                Text(
+                  _statusMessage,
+                  style: const TextStyle(fontSize: 14, color: Colors.white60),
+                  textAlign: TextAlign.center,
                 ),
-                const SizedBox(height: 48),
-                LinearProgressIndicator(
-                  value: _progress,
-                  backgroundColor: Colors.white24,
-                  valueColor: const AlwaysStoppedAnimation<Color>(Color(0xFF81C784)),
-                  minHeight: 6,
-                  borderRadius: BorderRadius.circular(3),
-                ),
+              ] else if (_status == BootstrapStatus.failed) ...[
+                const Icon(Icons.warning_amber_rounded, size: 48, color: Colors.redAccent),
                 const SizedBox(height: 16),
                 Text(
                   _statusMessage,
-                  style: const TextStyle(
-                    fontSize: 13,
-                    color: Colors.white60,
+                  style: const TextStyle(fontSize: 14, color: Colors.redAccent),
+                  textAlign: TextAlign.center,
+                ),
+                const SizedBox(height: 24),
+                ElevatedButton.icon(
+                  onPressed: _runRealBootstrap,
+                  icon: const Icon(Icons.refresh),
+                  label: const Text('إعادة المحاولة'),
+                  style: ElevatedButton.styleFrom(
+                    backgroundColor: Colors.amber.shade700,
+                    foregroundColor: Colors.white,
                   ),
                 ),
               ],
-            ),
+            ],
           ),
         ),
       ),
