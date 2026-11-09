@@ -1,0 +1,29 @@
+{
+  "verb_id": "verb_332_thaqaba_perforate",
+  "root": "ث - ق - ب",
+  "trilingual": {
+    "ar": {
+      "infinitive": "ثَقْبٌ",
+      "past": "ثَقَبَ",
+      "present": "يَثْقُبُ",
+      "imperative": "اثْقُبْ"
+    },
+    "de": {
+      "infinitive": "durchbohren",
+      "preterite": "durchbohrte",
+      "participle": "durchbohrt"
+    },
+    "en": {
+      "infinitive": "to perforate",
+      "past": "perforated",
+      "participle": "perforated"
+    }
+  },
+  "examples": [
+    {
+      "ar": "ثَقَبَ الصَّانِعُ شَظِيَّةَ العِضَادَةِ بِمِثْقَابٍ دَقِيقٍ لِيَسْمَحَ بِمُرُورِ ضَوْءِ الشَّمْسِ.",
+      "de": "Der Handwerker durchbohrte die Visierklappe mit einem feinen Bohrer, um den Durchtritt des Sonnenlichts zu ermöglichen.",
+      "en": "The artisan perforated the sighting vane with a fine drill to allow sunlight to pass through."
+    }
+  ]
+}

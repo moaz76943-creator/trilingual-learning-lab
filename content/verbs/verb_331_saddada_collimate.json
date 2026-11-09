@@ -1,0 +1,29 @@
+{
+  "verb_id": "verb_331_saddada_collimate",
+  "root": "س - د - د",
+  "trilingual": {
+    "ar": {
+      "infinitive": "تَسْدِيدٌ",
+      "past": "سَدَّدَ",
+      "present": "يُسَدِّدُ",
+      "imperative": "سَدِّدْ"
+    },
+    "de": {
+      "infinitive": "anvisieren",
+      "preterite": "visierte an",
+      "participle": "anvisiert"
+    },
+    "en": {
+      "infinitive": "to collimate",
+      "past": "collimated",
+      "participle": "collimated"
+    }
+  },
+  "examples": [
+    {
+      "ar": "سَدَّدَ المُهَنْدِسُ خَطَّ البَصَرِ عَبْرَ شَظِيَّتَيِ العِضَادَةِ بِدِقَّةٍ بَالِغَةٍ.",
+      "de": "Der Ingenieur visierte die Sichtlinie durch die beiden Visierklappen der Alhidade mit äußerster Präzision an.",
+      "en": "The engineer collimated the line of sight through the two alidade sighting vanes with utmost precision."
+    }
+  ]
+}

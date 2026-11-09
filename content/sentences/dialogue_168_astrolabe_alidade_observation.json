@@ -1,0 +1,35 @@
+{
+  "dialogue_id": "dialogue_168_astrolabe_alidade_observation",
+  "title": {
+    "ar": "رَصْدُ ارْتِفَاعِ الشَّمْسِ بِعِضَادَةِ الأَسْطُرْلاَبِ",
+    "de": "Sonnenhöhenmessung mit der Astrolabium-Alhidade",
+    "en": "Measuring Solar Altitude with the Astrolabe Alidade"
+  },
+  "context": {
+    "ar": "حِوَارٌ فَلَكِيٌّ عِنْدَ زَوَالِ الشَّمْسِ حَوْلَ تَعْلِيقِ الأَسْطُرْلاَبِ مِنْ حَلْقَتِهِ العُرْوَةِ، وَتَدْوِيرِ العِضَادَةِ حَتَّى يَنْفُذَ شُعَاعُ الضَّوْءِ عَبْرَ ثَقْبَيِ الشَّظِيَّتَيْنِ دُونَ النَّظَرِ المُبَاشِرِ إِلَى قُرْصِ الشَّمْسِ.",
+    "de": "Ein astronomisches Fachgespräch am Mittag über das freie Aufhängen des Astrolabiums am Tragering und das Drehen der Alhidade, bis der Lichtstrahl beide Peillöcher blendfrei durchdringt.",
+    "en": "An astronomical dialogue at solar noon on freely suspending the astrolabe by its thumb ring and rotating the alidade until the sunbeam passes through both pinholes without direct viewing."
+  },
+  "turns": [
+    {
+      "speaker": {
+        "ar": "الفَلَكِيُّ زَيْدٌ (رَاصِدُ المَرْمَى)",
+        "de": "Astronom Zaid (Der Beobachter)",
+        "en": "Astronomer Zaid (The Observer)"
+      },
+      "ar": "عَلِّقِ الأَسْطُرْلاَبَ بِإِبْهَامِكَ مِنْ عُرْوَتِهِ لِيَتَدَلَّى شَاقُولِيًّا بِفِعْلِ ثِقَلِهِ النُّحَاسِيِّ.",
+      "de": "Hänge das Astrolabium mit deinem Daumen an der Tragering-Öse auf, damit es durch sein Messinggewicht vollkommen lotrecht pendelt.",
+      "en": "Suspend the astrolabe by your thumb from its ring so that it hangs perfectly plumb under its own brass weight."
+    },
+    {
+      "speaker": {
+        "ar": "طَارِقٌ (المُسَاعِدُ الرِّيَاضِيُّ)",
+        "de": "Tariq (Der mathematische Gehilfe)",
+        "en": "Tariq (The Mathematical Assistant)"
+      },
+      "ar": "سَدَّدْتُ العِضَادَةَ نَحْوَ قُرْصِ النَّهَارِ حَتَّى سَقَطَتْ بُقْعَةُ النُّورِ فِي مَرْكَزِ الثَّقْبِ السُّفْلِيِّ تَمَامًا.",
+      "de": "Ich habe die Alhidade auf das Tagesgestirn ausgerichtet, bis der Lichtpunkt exakt in die Mitte des unteren Peillochs traf.",
+      "en": "I collimated the alidade toward the sun until the dot of light fell exactly into the center of the lower pinhole."
+    }
+  ]
+}
