@@ -1,0 +1,58 @@
+{
+  "category_id": "category_173_astrolabe_alidade_sights",
+  "level": "B1",
+  "title": {
+    "ar": "عِضَادَةُ التَّصْوِيبِ وَالشَّظِيَّتَانِ المَثْقُوبَتَانِ",
+    "de": "Die Alhidade und die Visierklappen mit Peillöchern",
+    "en": "The Alidade and the Sighting Pinhole Vanes"
+  },
+  "description": {
+    "ar": "مُصْطَلَحَاتُ عِضَادَةِ الأَسْطُرْلاَبِ الدَّوَّارَةِ، وَشَظِيَّتَيِ التَّسْدِيدِ، وَثَقْبَيِ الرَّصْدِ الشَّمْسِيِّ لِتَحْدِيدِ ارْتِفَاعِ الشَّمْسِ دُونَ الإِضْرَارِ بِالعَيْنِ.",
+    "de": "Fachbegriffe für die drehbare Alhidade des Astrolabiums, die Visierklappen und die Lochblenden zur blendfreien Sonnenhöhenmessung.",
+    "en": "Terminology for the rotating astrolabe alidade, sighting vanes, and pinholes designed to gauge solar altitude without blinding the eye."
+  },
+  "items": [
+    {
+      "id": "item_173_01",
+      "ar": "العِضَادَةُ النُّحَاسِيَّةُ",
+      "de": "Die Messing-Alhidade",
+      "en": "The Brass Alidade",
+      "transliteration": "al-ʿiḍādatu an-nuḥāsiyyah"
+    },
+    {
+      "id": "item_173_02",
+      "ar": "الشَّظِيَّتَانِ المَثْقُوبَتَانِ",
+      "de": "Die Visierklappen mit Peillöchern",
+      "en": "The Sighting Pinholes and Vanes",
+      "transliteration": "ash-shadhīyatāni al-mathqūbatān"
+    },
+    {
+      "id": "item_173_03",
+      "ar": "ثَقْبُ التَّسْدِيدِ الشَّمْسِيِّ",
+      "de": "Das Sonnenpeilloch",
+      "en": "The Solar Sighting Pinhole",
+      "transliteration": "thaqbu at-tasdīdi ash-shamsiyy"
+    },
+    {
+      "id": "item_173_04",
+      "ar": "خَطُّ التَّسْدِيدِ البَصَرِيُّ",
+      "de": "Die optische Visierlinie",
+      "en": "The Optical Line of Collimation",
+      "transliteration": "khaṭṭu at-tasdīdi al-baṣariyy"
+    },
+    {
+      "id": "item_173_05",
+      "ar": "دَرَجَاتُ الرَّصْدِ الظَّهْرِيِّ",
+      "de": "Die dorsale Gradeinteilung",
+      "en": "The Dorsal Altitude Graduations",
+      "transliteration": "darajātu ar-raṣdi aẓ-ẓahriyy"
+    },
+    {
+      "id": "item_173_06",
+      "ar": "مِحْوَرُ القُطْبِ المَرْكَزِيُّ",
+      "de": "Der Zentralbolzen / Die Drehachse",
+      "en": "The Central Pivot Pin",
+      "transliteration": "miḥwaru al-quṭbi al-markaziyy"
+    }
+  ]
+}
