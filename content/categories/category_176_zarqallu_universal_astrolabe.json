@@ -1,0 +1,58 @@
+{
+  "category_id": "category_176_zarqallu_universal_astrolabe",
+  "level": "B1",
+  "title": {
+    "ar": "أَسْطُرْلاَبُ الزَّرْقَالِيِّ الشَّكَّازِيُّ الجَامِعُ",
+    "de": "Das universelle Astrolabium von Al-Zarqali (Saphaea)",
+    "en": "Al-Zarqali’s Universal Astrolabe (The Saphaea Arzachelis)"
+  },
+  "description": {
+    "ar": "مُصْطَلَحَاتُ الأَسْطُرْلاَبِ الشَّكَّازِيِّ العَبْقَرِيِّ الَّذِي ابْتَكَرَهُ ابْنُ الزَّرْقَالِ فِي طُلَيْطِلَةَ، وَيَعْمَلُ لِجَمِيعِ خُطُوطِ العَرْضِ عَلَى صَفِيحَةٍ وَاحِدَةٍ دُونَ حَاجَةٍ إِلَى تَبْدِيلِ الصَّفَائِحِ.",
+    "de": "Fachbegriffe für das geniale universelle Astrolabium (Saphaea), das von Al-Zarqali in Toledo erfunden wurde und auf einer einzigen Platte für alle Breitengrade der Erde ohne Plattenwechsel funktioniert.",
+    "en": "Terminology for the ingenious universal astrolabe plate (the Saphaea) invented by Al-Zarqali in Toledo, functioning for all latitudes across the globe without changing plates."
+  },
+  "items": [
+    {
+      "id": "item_176_01",
+      "ar": "الصَّفِيحَةُ الشَّكَّازِيَّةُ الجَامِعَةُ",
+      "de": "Die Universelle Projektionsplatte (Saphaea)",
+      "en": "The Universal Projection Plate (Saphaea)",
+      "transliteration": "aṣ-ṣafīḥatu ash-shakkāziyyatu al-jāmiʿah"
+    },
+    {
+      "id": "item_176_02",
+      "ar": "إِسْقَاطُ الِاعْتِدَالَيْنِ الأُفُقِيُّ",
+      "de": "Die Äquinoktial-Projektion",
+      "en": "The Equinoctial Projection",
+      "transliteration": "isqāṭu al-iʿtidālayni al-ufuqiyy"
+    },
+    {
+      "id": "item_176_03",
+      "ar": "قَوْسُ خَطِّ الاسْتِوَاءِ السَّمَاوِيِّ",
+      "de": "Der Himmelsäquatorbogen",
+      "en": "The Celestial Equator Arc",
+      "transliteration": "qawsu khaṭṭi al-istiwā’i as-samāwiyy"
+    },
+    {
+      "id": "item_176_04",
+      "ar": "مَدَارُ البُرُوجِ المَائِلُ",
+      "de": "Der schiefe Ekliptikbogen",
+      "en": "The Oblique Ecliptic Arc",
+      "transliteration": "madāru al-burūji al-mā’il"
+    },
+    {
+      "id": "item_176_05",
+      "ar": "مِسْطَرَةُ الرَّصْدِ الدَّوَّارَةُ",
+      "de": "Die drehbare Peilschiene",
+      "en": "The Revolving Sighting Rule",
+      "transliteration": "misṭaratu ar-raṣdi ad-dawwārah"
+    },
+    {
+      "id": "item_176_06",
+      "ar": "مِزْلاَجُ قِيَاسِ المَيْلِ",
+      "de": "Der Deklinationsschieber / Läufer",
+      "en": "The Declination Cursor / Slider",
+      "transliteration": "mizlāju qiyāsi al-mayl"
+    }
+  ]
+}
