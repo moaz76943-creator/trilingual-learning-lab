@@ -1,0 +1,29 @@
+{
+  "verb_id": "verb_342_maghnata_magnetize",
+  "root": "م - غ - ن - ط",
+  "trilingual": {
+    "ar": {
+      "infinitive": "مَغْنَطَةٌ",
+      "past": "مَغْنَطَ",
+      "present": "يُمَغْنِطُ",
+      "imperative": "مَغْنِطْ"
+    },
+    "de": {
+      "infinitive": "magnetisieren",
+      "preterite": "magnetisierte",
+      "participle": "magnetisiert"
+    },
+    "en": {
+      "infinitive": "to magnetize",
+      "past": "magnetized",
+      "participle": "magnetized"
+    }
+  },
+  "examples": [
+    {
+      "ar": "مَغْنَطَ الصَّانِعُ سِنَّ الإِبْرَةِ بِحَجَرِ المِغْنَاطِيسِ لِتَتَّجِهَ نَحْوَ قُطْبِ الشَّمَالِ.",
+      "de": "Der Handwerker magnetisierte die Nadelspitze mit dem Magnetstein, damit sie zum Nordpol weist.",
+      "en": "The artisan magnetized the tip of the needle with lodestone so that it points toward the north pole."
+    }
+  ]
+}

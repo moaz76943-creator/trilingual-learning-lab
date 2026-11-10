@@ -1,0 +1,58 @@
+{
+  "category_id": "category_177_shatir_compendium_sundial",
+  "level": "B1",
+  "title": {
+    "ar": "صُنْدُوقُ اليَوَاقِيتِ وَالمِزْوَلَةُ الجَامِعَةُ لِابْنِ الشَّاطِرِ",
+    "de": "Das Kompendium-Sonnenuhrkästchen von Ibn al-Shatir",
+    "en": "Ibn al-Shatir’s Jewel Box Sundial Compendium"
+  },
+  "description": {
+    "ar": "مُصْطَلَحَاتُ صُنْدُوقِ اليَوَاقِيتِ الفَلَكِيِّ المَحْمُولِ الَّذِي ابْتَكَرَهُ ابْنُ الشَّاطِرِ فِي دِمَشْقَ، وَيَجْمَعُ بَيْنَ بَيْتِ الإِبْرَةِ المَغْنَاطِيسِيَّةِ، وَالمِزْوَلَةِ القُطْبِيَّةِ، وَمَقَايِيسِ السَّاعَاتِ الزَّمَانِيَّةِ وَالمُسْتَوِيَةِ.",
+    "de": "Fachbegriffe für das tragbare Sonnenuhr-Kompendium (Sanduq al-Yawaqit), das Ibn al-Shatir in Damaskus erfand und das einen Magnetkompass, eine Polarsonnenuhr und universelle Stundenskalen vereint.",
+    "en": "Terminology for the portable astronomical compendium (Sanduq al-Yawaqit) invented by Ibn al-Shatir in Damascus, combining a magnetic compass, polar gnomon, and universal hour scales."
+  },
+  "items": [
+    {
+      "id": "item_177_01",
+      "ar": "صُنْدُوقُ اليَوَاقِيتِ المَحْمُولُ",
+      "de": "Das tragbare Juwelenkästchen (Kompendium)",
+      "en": "The Portable Compendium Box",
+      "transliteration": "ṣundūqu al-yawāqīti al-maḥmūl"
+    },
+    {
+      "id": "item_177_02",
+      "ar": "بَيْتُ الإِبْرَةِ المَغْنَاطِيسِيَّةِ",
+      "de": "Das Magnetkompassgehäuse",
+      "en": "The Magnetic Compass Housing",
+      "transliteration": "baytu al-ibrati al-maghnāṭīsiyyah"
+    },
+    {
+      "id": "item_177_03",
+      "ar": "شَاخِصُ القُطْبِ المَفْصِلِيُّ",
+      "de": "Der klappbare Polstab / Gnomon",
+      "en": "The Hinged Polar Gnomon",
+      "transliteration": "shākhisu al-quṭbi al-mafṣiliyy"
+    },
+    {
+      "id": "item_177_04",
+      "ar": "صَفِيحَةُ السَّاعَاتِ الاسْتِوَائِيَّةُ",
+      "de": "Die Äquatorial-Stundenplatte",
+      "en": "The Equatorial Hour Plate",
+      "transliteration": "ṣafīḥatu as-sāʿāti al-istiwā’iyyah"
+    },
+    {
+      "id": "item_177_05",
+      "ar": "خَطُّ الزَّوَالِ المَغْنَاطِيسِيُّ",
+      "de": "Der magnetische Meridian",
+      "en": "The Magnetic Meridian Line",
+      "transliteration": "khaṭṭu az-zawāli al-maghnāṭīsiyy"
+    },
+    {
+      "id": "item_177_06",
+      "ar": "مَفْصِلُ الطَّيِّ النُّحَاسِيُّ",
+      "de": "Das Messing-Klappscharnier",
+      "en": "The Brass Folding Hinge",
+      "transliteration": "mafṣilu aṭ-ṭayyi an-nuḥāsiyy"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "verb_id": "verb_341_tawa_fold",
+  "root": "ط - و - ي",
+  "trilingual": {
+    "ar": {
+      "infinitive": "طَيٌّ",
+      "past": "طَوَى",
+      "present": "يَطْوِي",
+      "imperative": "اطْوِ"
+    },
+    "de": {
+      "infinitive": "zusammenklappen",
+      "preterite": "klappte zusammen",
+      "participle": "zusammengeklappt"
+    },
+    "en": {
+      "infinitive": "to fold / collapse",
+      "past": "folded",
+      "participle": "folded"
+    }
+  },
+  "examples": [
+    {
+      "ar": "طَوَى المُسَافِرُ غِطَاءَ المِزْوَلَةِ النُّحَاسِيَّةِ لِيَحْمِيَ الإِبْرَةَ أَثْنَاءَ التَّرْحَالِ.",
+      "de": "Der Reisende klappte den Deckel der Messingsonnenuhr zusammen, um die Nadel auf der Reise zu schützen.",
+      "en": "The traveler folded the lid of the brass sundial to protect the needle during the journey."
+    }
+  ]
+}
