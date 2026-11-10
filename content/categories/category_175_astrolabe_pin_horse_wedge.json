@@ -1,0 +1,58 @@
+{
+  "category_id": "category_175_astrolabe_pin_horse_wedge",
+  "level": "B1",
+  "title": {
+    "ar": "قُطْبُ الأَسْطُرْلاَبِ وَفَرَسُ التَّثْبِيتِ النُّحَاسِيُّ",
+    "de": "Der Zentralbolzen und der Pferdekeil des Astrolabiums",
+    "en": "The Central Pivot Pin and the Horse Wedge"
+  },
+  "description": {
+    "ar": "مُصْطَلَحَاتُ تَثْبِيتِ صَفَائِحِ الأَسْطُرْلاَبِ وَعَنْكَبُوتِهِ وَعِضَادَتِهِ بِوَاسِطَةِ القُطْبِ المَرْكَزِيِّ، وَالفَلْكَةِ المَانِعَةِ لِلاحْتِكَاكِ، وَفَرَسِ التَّثْبِيتِ المَنْحُوتِ عَلَى شَكْلِ جَوَادٍ عَرَبِيٍّ.",
+    "de": "Fachbegriffe für das Zusammenhalten der Astrolabium-Platten, der Rete und der Alhidade durch den Zentralbolzen, die Beilagscheibe und den pferdeförmigen Messingkeil.",
+    "en": "Terminology for securing the astrolabe tympan plates, rete, and alidade together via the central pivot pin, the protective washer, and the horse-shaped wedge."
+  },
+  "items": [
+    {
+      "id": "item_175_01",
+      "ar": "قُطْبُ المِحْوَرِ المَرْكَزِيِّ",
+      "de": "Der Zentralbolzen / Die Drehachse",
+      "en": "The Central Pivot Pin",
+      "transliteration": "quṭbu al-miḥwari al-markaziyy"
+    },
+    {
+      "id": "item_175_02",
+      "ar": "فَرَسُ التَّثْبِيتِ المَنْحُوتُ",
+      "de": "Der pferdeförmige Arretierungskeil",
+      "en": "The Carved Horse Wedge",
+      "transliteration": "farasu at-tathbīti al-manḥūt"
+    },
+    {
+      "id": "item_175_03",
+      "ar": "فَلْكَةُ الحِمَايَةِ الدَّائِرِيَّةُ",
+      "de": "Die Beilagscheibe / Der Reibungsring",
+      "en": "The Circular Protective Washer",
+      "transliteration": "falkatu al-ḥimāyati ad-dā’iriyyah"
+    },
+    {
+      "id": "item_175_04",
+      "ar": "شَقُّ القُطْبِ المَفْتُوحُ",
+      "de": "Der Bolzenschlitz für den Keil",
+      "en": "The Pin Wedge Slot",
+      "transliteration": "shaqqu al-quṭbi al-maftūḥ"
+    },
+    {
+      "id": "item_175_05",
+      "ar": "عُرْوَةُ التَّعْلِيقِ العُلْيَا",
+      "de": "Die Aufhängeöse / Die Krone",
+      "en": "The Suspension Shackle / Throne",
+      "transliteration": "ʿurwatu at-taʿlīqi al-ʿulyā"
+    },
+    {
+      "id": "item_175_06",
+      "ar": "حَلْقَةُ الرَّصْدِ الإِبْهَامِيَّةُ",
+      "de": "Der Daumenring zur Lotung",
+      "en": "The Plumb Thumb Ring",
+      "transliteration": "ḥalqatu ar-raṣdi al-ibhāmiyyah"
+    }
+  ]
+}

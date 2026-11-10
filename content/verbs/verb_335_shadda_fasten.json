@@ -1,0 +1,29 @@
+{
+  "verb_id": "verb_335_shadda_fasten",
+  "root": "ش - د - د",
+  "trilingual": {
+    "ar": {
+      "infinitive": "شَدٌّ",
+      "past": "شَدَّ",
+      "present": "يَشُدُّ",
+      "imperative": "اشْدُدْ"
+    },
+    "de": {
+      "infinitive": "verkeilen / festziehen",
+      "preterite": "verkeilte",
+      "participle": "verkeilt"
+    },
+    "en": {
+      "infinitive": "to fasten with a wedge",
+      "past": "fastened",
+      "participle": "fastened"
+    }
+  },
+  "examples": [
+    {
+      "ar": "شَدَّ الصَّانِعُ فَرَسَ الأَسْطُرْلاَبِ فِي شَقِّ القُطْبِ لِيَمْنَعَ اهْتِزَازَ الصَّفَائِحِ.",
+      "de": "Der Handwerker verkeilte den Pferdekeil im Bolzenschlitz, um jedes Wackeln der Platten zu verhindern.",
+      "en": "The artisan fastened the horse wedge into the pin slot to prevent the plates from wobbling."
+    }
+  ]
+}

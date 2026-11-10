@@ -1,0 +1,29 @@
+{
+  "verb_id": "verb_336_rakkaba_assemble",
+  "root": "ر - ك - ب",
+  "trilingual": {
+    "ar": {
+      "infinitive": "تَرْكِيبٌ",
+      "past": "رَكَّبَ",
+      "present": "يُرَكِّبُ",
+      "imperative": "رَكِّبْ"
+    },
+    "de": {
+      "infinitive": "zusammenbauen / montieren",
+      "preterite": "montierte",
+      "participle": "montiert"
+    },
+    "en": {
+      "infinitive": "to assemble / mount",
+      "past": "assembled",
+      "participle": "assembled"
+    }
+  },
+  "examples": [
+    {
+      "ar": "رَكَّبَ الفَلَكِيُّ صَفِيحَةَ عَرْضِ مَكَّةَ فَوْقَ الحُجْرَةِ ثُمَّ وَضَعَ الشَّبَكَةَ العَنْكَبُوتِيَّةَ.",
+      "de": "Der Astronom montierte die Breitengradplatte von Mekka in die Mutter und setzte die Rete darüber.",
+      "en": "The astronomer assembled the latitude plate for Mecca into the mater and placed the rete atop it."
+    }
+  ]
+}
