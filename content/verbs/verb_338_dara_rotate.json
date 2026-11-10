@@ -1,0 +1,29 @@
+{
+  "verb_id": "verb_338_dara_rotate",
+  "root": "د - و - ر",
+  "trilingual": {
+    "ar": {
+      "infinitive": "دَوَرَانٌ",
+      "past": "دَارَ",
+      "present": "يَدُورُ",
+      "imperative": "دُرْ"
+    },
+    "de": {
+      "infinitive": "sich drehen / rotieren",
+      "preterite": "drehte sich",
+      "participle": "gedreht"
+    },
+    "en": {
+      "infinitive": "to rotate / revolve",
+      "past": "rotated",
+      "participle": "rotated"
+    }
+  },
+  "examples": [
+    {
+      "ar": "دَارَتِ الشَّبَكَةُ العَنْكَبُوتِيَّةُ حَوْلَ مِحْوَرِ القُطْبِ لِتُحَاكِيَ حَرَكَةَ الفَلَكِ اليَوْمِيَّةَ.",
+      "de": "Die Rete drehte sich um die Polachse, um die tägliche Himmelsbewegung nachzubilden.",
+      "en": "The rete rotated around the polar axis to simulate the diurnal motion of the heavens."
+    }
+  ]
+}

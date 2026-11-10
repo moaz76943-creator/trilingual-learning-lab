@@ -1,0 +1,35 @@
+{
+  "dialogue_id": "dialogue_170_astrolabe_final_assembly",
+  "title": {
+    "ar": "تَرْكِيبُ أَجْزَاءِ الأَسْطُرْلاَبِ وَشَدُّ الفَرَسِ",
+    "de": "Zusammenbau der Astrolabium-Teile und Einsetzen des Pferdekeils",
+    "en": "Assembling the Astrolabe Components and Fastening the Horse Wedge"
+  },
+  "context": {
+    "ar": "حِوَارٌ فِي مَشْغَلِ صُنَّاعِ الآلاَتِ الفَلَكِيَّةِ حَوْلَ تَرْتِيبِ صَفَائِحِ الأَقَالِيمِ دَاخِلَ الحُجْرَةِ، وَوَضْعِ الفَلْكَةِ المَانِعَةِ لِلاحْتِكَاكِ، وَإِدْخَالِ فَرَسِ التَّثْبِيتِ فِي شَقِّ القُطْبِ لِيَدُورَ العَنْكَبُوتُ بِانْسِيَابٍ تَامٍّ دُونَ ارْتِخَاءٍ.",
+    "de": "Ein Werkstattgespräch über das geordnete Einlegen der Klimaplatten in die Mutter, das Aufsetzen der Gleitscheibe und das feste Eintreiben des Pferdekeils in den Bolzenschlitz zur spielfreien Drehung der Rete.",
+    "en": "A master workshop dialogue on seating the climate tympans into the mater, fitting the low-friction washer, and driving the horse wedge into the pin slot for smooth, wobble-free rotation."
+  },
+  "turns": [
+    {
+      "speaker": {
+        "ar": "الأُسْتَاذُ عَلِيٌّ (صَانِعُ الأَسْطُرْلاَبَاتِ)",
+        "de": "Meister Ali (Der Astrolabienbauer)",
+        "en": "Master Ali (The Astrolabe Maker)"
+      },
+      "ar": "أَدْخِلْ سِنَّ صَفِيحَةِ دِمَشْقَ فِي ثَلْمِ الحُجْرَةِ لِتَمْنَعَهَا مِنَ الدَّوَرَانِ، ثُمَّ أَنْزِلِ الشَّبَكَةَ العَنْكَبُوتِيَّةَ فَوْقَهَا.",
+      "de": "Führe die Nase der Damaskus-Platte in die Nut der Mutter ein, damit sie sich nicht verdreht, und lege dann die Rete darüber.",
+      "en": "Insert the tooth of the Damascus plate into the notch of the mater to lock it against rotation, then seat the rete atop it."
+    },
+    {
+      "speaker": {
+        "ar": "حُسَامٌ (المُسَاعِدُ المِيكَانِيكِيُّ)",
+        "de": "Husam (Der mechanische Gehilfe)",
+        "en": "Husam (The Mechanical Assistant)"
+      },
+      "ar": "أَدْخَلْتُ القُطْبَ عَبْرَ جَمِيعِ الصَّفَائِحِ، وَوَضَعْتُ الفَلْكَةَ ثُمَّ شَدَدْتُ الفَرَسَ بِضَرْبَةٍ خَفِيفَةٍ فَاسْتَقَرَّتِ الآلَةُ.",
+      "de": "Ich habe den Zentralbolzen durch alle Platten geführt, die Beilagscheibe aufgesetzt und den Keil mit einem leichten Schlag festgekeilt; das Instrument sitzt nun vollkommen fest.",
+      "en": "I pushed the pivot pin through all the plates, fitted the washer, and secured the horse wedge with a gentle tap; the instrument is now perfectly seated."
+    }
+  ]
+}

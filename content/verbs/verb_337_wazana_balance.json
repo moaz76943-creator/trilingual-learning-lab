@@ -1,0 +1,29 @@
+{
+  "verb_id": "verb_337_wazana_balance",
+  "root": "و - ز - ن",
+  "trilingual": {
+    "ar": {
+      "infinitive": "مُوَازَنَةٌ",
+      "past": "وَازَنَ",
+      "present": "يُوَازِنُ",
+      "imperative": "وَازِنْ"
+    },
+    "de": {
+      "infinitive": "ausbalancieren / kalibrieren",
+      "preterite": "balancierte aus",
+      "participle": "ausbalanciert"
+    },
+    "en": {
+      "infinitive": "to balance / calibrate",
+      "past": "balanced",
+      "participle": "balanced"
+    }
+  },
+  "examples": [
+    {
+      "ar": "وَازَنَ الفَلَكِيُّ كُتْلَةَ العِضَادَةِ لِتَتَحَرَّكَ بِسَلاَسَةٍ عِنْدَ رَصْدِ النُّجُومِ.",
+      "de": "Der Astronom balancierte das Gewicht der Alhidade aus, damit sie sich beim Beobachten der Sterne reibungslos bewegt.",
+      "en": "The astronomer balanced the mass of the alidade so that it moves smoothly when observing the stars."
+    }
+  ]
+}
