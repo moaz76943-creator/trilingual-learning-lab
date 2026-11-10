@@ -1,0 +1,29 @@
+{
+  "verb_id": "verb_340_istaghna_dispense",
+  "root": "غ - ن - ي",
+  "trilingual": {
+    "ar": {
+      "infinitive": "اسْتِغْنَاءٌ",
+      "past": "اسْتَغْنَى",
+      "present": "يَسْتَغْنِي",
+      "imperative": "اسْتَغْنِ"
+    },
+    "de": {
+      "infinitive": "verzichten auf / entbehren",
+      "preterite": "verzichtete auf",
+      "participle": "verzichtet auf"
+    },
+    "en": {
+      "infinitive": "to dispense with / do without",
+      "past": "dispensed with",
+      "participle": "dispensed with"
+    }
+  },
+  "examples": [
+    {
+      "ar": "اسْتَغْنَى المَسَّاحُ بِالصَّفِيحَةِ الشَّكَّازِيَّةِ عَنْ حَمْلِ مَجْمُوعَةِ الصَّفَائِحِ الثَّقِيلَةِ.",
+      "de": "Der Landvermesser verzichtete dank der Saphaea auf das Mitführen des schweren Plattensatzes.",
+      "en": "The surveyor dispensed with carrying the heavy set of plates thanks to the universal Saphaea."
+    }
+  ]
+}

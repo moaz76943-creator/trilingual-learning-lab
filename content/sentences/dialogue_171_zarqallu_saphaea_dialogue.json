@@ -1,0 +1,35 @@
+{
+  "dialogue_id": "dialogue_171_zarqallu_saphaea_dialogue",
+  "title": {
+    "ar": "تَخْطِيطُ الصَّفِيحَةِ الشَّكَّازِيَّةِ الجَامِعَةِ فِي طُلَيْطِلَةَ",
+    "de": "Konstruktion der universellen Saphaea-Platte in Toledo",
+    "en": "Scribing Al-Zarqali’s Universal Saphaea Plate in Toledo"
+  },
+  "context": {
+    "ar": "حِوَارٌ عِلْمِيٌّ فِي طُلَيْطِلَةَ الأَنْدَلُسِيَّةِ بَيْنَ ابْنِ الزَّرْقَالِ وَتِلْمِيذِهِ حَوْلَ إِسْقَاطِ الإِحْدَاثِيَّاتِ السَّمَاوِيَّةِ عَلَى مُسْتَوَى نُقْطَتَيِ الِاعْتِدَالَيْنِ، مِمَّا يُمَكِّنُ المَسَّاحَ مِنِ اسْتِعْمَالِ صَفِيحَةٍ وَاحِدَةٍ فِي كُلِّ أَقَالِيمِ الأَرْضِ.",
+    "de": "Ein wissenschaftliches Fachgespräch im andalusischen Toledo über die Projektion der Himmelskoordinaten auf die Ebene der Äquinoktien, wodurch eine einzige Platte für alle Breitengrade der Erde nutzbar wird.",
+    "en": "A scholarly dialogue in Andalusian Toledo on projecting celestial coordinates onto the plane of the solstices and equinoxes, allowing a single plate to serve all global latitudes."
+  },
+  "turns": [
+    {
+      "speaker": {
+        "ar": "ابْنُ الزَّرْقَالِ (الفَلَكِيُّ المُبْتَكِرُ)",
+        "de": "Ibn az-Zarqali (Der Astronom)",
+        "en": "Ibn al-Zarqali (The Inventor)"
+      },
+      "ar": "عَمَّمْتُ خُطُوطَ المَيْلِ وَالسُّمُوتِ عَلَى هَذِهِ الصَّفِيحَةِ، فَاسْتَغْنَيْنَا عَنْ حَمْلِ عَشَرَاتِ الصَّفَائِحِ المَنْقُوشَةِ لِكُلِّ بَلَدٍ.",
+      "de": "Ich habe die Deklinations- und Azimutlinien auf dieser Platte verallgemeinert, sodass wir auf das Mitführen Dutzender einzelner Klimaplatten verzichten können.",
+      "en": "I generalized the declination and azimuth arcs on this plate, dispensing with the burden of carrying dozens of individual latitude plates."
+    },
+    {
+      "speaker": {
+        "ar": "عَبْدُ اللهِ (طَالِبُ المَرْصَدِ)",
+        "de": "Abdullah (Der Observatoriumsschüler)",
+        "en": "Abdullah (The Observatory Student)"
+      },
+      "ar": "كَيْفَ يَضْبِطُ المُسَافِرُ مَوْقِعَ الشَّمْسِ بِالمِسْطَرَةِ الدَّوَّارَةِ عِنْدَمَا يَنْتَقِلُ مِنْ قُرْطُبَةَ إِلَى مَرَّاكُشَ؟",
+      "de": "Wie stellt der Reisende den Sonnenstand mit der Peilschiene ein, wenn er von Cordoba nach Marrakesch zieht?",
+      "en": "How does the traveler adjust the sun’s position with the revolving rule when journeying from Cordoba to Marrakech?"
+    }
+  ]
+}

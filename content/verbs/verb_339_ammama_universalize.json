@@ -1,0 +1,29 @@
+{
+  "verb_id": "verb_339_ammama_universalize",
+  "root": "ع - م - م",
+  "trilingual": {
+    "ar": {
+      "infinitive": "تَعْمِيمٌ",
+      "past": "عَمَّمَ",
+      "present": "يُعَمِّمُ",
+      "imperative": "عَمِّمْ"
+    },
+    "de": {
+      "infinitive": "verallgemeinern",
+      "preterite": "verallgemeinerte",
+      "participle": "verallgemeinert"
+    },
+    "en": {
+      "infinitive": "to universalize / generalize",
+      "past": "universalized",
+      "participle": "universalized"
+    }
+  },
+  "examples": [
+    {
+      "ar": "عَمَّمَ الفَلَكِيُّ الأَنْدَلُسِيُّ مَسَارَاتِ الرَّصْدِ لِتَصْلُحَ لِجَمِيعِ خُطُوطِ العَرْضِ.",
+      "de": "Der andalusische Astronom verallgemeinerte die Beobachtungslinien, damit sie für alle Breitengrade taugen.",
+      "en": "The Andalusian astronomer universalized the observation arcs so that they serve all latitudes."
+    }
+  ]
+}
