@@ -1,0 +1,257 @@
+import 'package:flutter/material.dart';
+
+import '../../apposition_coordination/data/apposition_coordination_repository.dart';
+import '../../apposition_coordination/screens/apposition_coordination_studio_screen.dart';
+import '../../discourse_connectives/data/discourse_connectives_repository.dart';
+import '../../discourse_connectives/screens/discourse_connectives_studio_screen.dart';
+import '../../ellipsis_anaphora/data/ellipsis_anaphora_repository.dart';
+import '../../ellipsis_anaphora/screens/ellipsis_anaphora_studio_screen.dart';
+import '../../modal_verbs_deontic/data/modal_verbs_repository.dart';
+import '../../modal_verbs_deontic/screens/modal_verbs_studio_screen.dart';
+import '../../nominalization_morphology/data/nominalization_repository.dart';
+import '../../nominalization_morphology/screens/nominalization_studio_screen.dart';
+import '../../phonotactics_prosody/data/phonotactics_prosody_repository.dart';
+import '../../phonotactics_prosody/screens/phonotactics_prosody_studio_screen.dart';
+import '../../prepositional_government/data/prepositional_government_repository.dart';
+import '../../prepositional_government/screens/prepositional_government_studio_screen.dart';
+import '../../reported_speech/data/reported_speech_repository.dart';
+import '../../reported_speech/screens/reported_speech_studio_screen.dart';
+import '../models/diagnostic_models.dart';
+
+class TrilingualRegistryService {
+  const TrilingualRegistryService();
+
+  List<TrilingualStudioDescriptor> getRegisteredStudios() {
+    return [
+      TrilingualStudioDescriptor(
+        id: 'reported_speech',
+        taskNumber: 1220,
+        group: StudioDomainGroup.discourseAndCorpus,
+        titleAr: 'مُخْتَبَرُ الْكَلَامِ الْمَنْقُولِ وَتَحَوُّلَاتِ الْإِحَالَةِ',
+        titleEn: 'Reported Speech & Deictic Shift Studio',
+        titleDe: 'Indirekte Rede (Konjunktiv I/II) & Deixis',
+        summaryAr:
+            'كَسْرُ هَمْزَةِ إِنَّ بَعْدَ الْقَوْلِ، التَّرْجِيعُ الزَّمَنِيُّ، وَصِيغَةُ Konjunktiv I/II مَعَ تَحَوُّلَاتِ الزَّمَانِ وَالْمَكَانِ.',
+        icon: Icons.record_voice_over_outlined,
+        builder: (_) => const ReportedSpeechStudioScreen(),
+      ),
+      TrilingualStudioDescriptor(
+        id: 'ellipsis_anaphora',
+        taskNumber: 1221,
+        group: StudioDomainGroup.syntaxAndGrammar,
+        titleAr: 'مُخْتَبَرُ الْحَذْفِ وَالتَّقْدِيرِ وَالْإِحَالَةِ الضَّمِيرِيَّةِ',
+        titleEn: 'Ellipsis, Gapping, Sluicing & Pro-Forms Studio',
+        titleDe: 'Ellipse, Verb-Gapping, Sluicing & Pronominaladverbien',
+        summaryAr:
+            'حَذْفُ الْفِعْلِ وَالْمُضَافِ وَالْخَبَرِ بَعْدَ «لَوْلَا» مُقَابِلَ Gapping وَSluicing وَالشَّرْطَةِ الصَّرْفِيَّةِ الْأَلْمَانِيَّةِ.',
+        icon: Icons.auto_fix_high_outlined,
+        builder: (_) => const EllipsisAnaphoraStudioScreen(),
+      ),
+      TrilingualStudioDescriptor(
+        id: 'apposition_coordination',
+        taskNumber: 1222,
+        group: StudioDomainGroup.syntaxAndGrammar,
+        titleAr: 'مُخْتَبَرُ الْبَدَلِ وَالْعَطْفِ وَالْجُمْلَةِ الِاعْتِرَاضِيَّةِ',
+        titleEn: 'Apposition, Coordination & Parenthetical Studio',
+        titleDe: 'Apposition, Kasus-Kongruenz & Koordination (sondern/aber)',
+        summaryAr:
+            'الْبَدَلُ الْمُطَابِقُ وَبَدَلُ الْبَعْضِ وَالِاشْتِمَالِ، وَدَقَائِقُ حُرُوفِ الْعَطْفِ وَالْإِضْرَابِ بـ «بَلْ / sondern».',
+        icon: Icons.account_tree_outlined,
+        builder: (_) => const AppositionCoordinationStudioScreen(),
+      ),
+      TrilingualStudioDescriptor(
+        id: 'prepositional_government',
+        taskNumber: 1223,
+        group: StudioDomainGroup.syntaxAndGrammar,
+        titleAr: 'مُخْتَبَرُ حُرُوفِ الْجَرِّ وَالتَّعَدِّي اللُّغَوِيِّ',
+        titleEn: 'Prepositional Semantics & Verbal Valency Studio',
+        titleDe: 'Wechselpräpositionen (Dativ/Akkusativ) & Verb-Rektion',
+        summaryAr:
+            'الْمُقَارَنَةُ بَيْنَ السُّكُونِ (Wo? Dativ) وَالْحَرَكَةِ (Wohin? Akkusativ) وَتَبَدُّلِ مَعْنَى الْفِعْلِ بِحَرْفِ الْجَرِّ.',
+        icon: Icons.alt_route_rounded,
+        builder: (_) => const PrepositionalGovernmentStudioScreen(),
+      ),
+      TrilingualStudioDescriptor(
+        id: 'nominalization_morphology',
+        taskNumber: 1224,
+        group: StudioDomainGroup.morphologyAndPhonology,
+        titleAr: 'مُخْتَبَرُ الْمَصَادِرِ وَالِاسْمِيَّةِ وَالِاشْتِقَاقِ',
+        titleEn: 'Nominalization, Masdar & Derivational Morphology Studio',
+        titleDe: 'Substantivierung, Nominalstil & Genus-Suffixe',
+        summaryAr:
+            'الْمَصْدَرُ الصَّرِيحُ وَالصِّنَاعِيُّ وَالْمُؤَوَّلُ، وَإِعْمَالُ الْمَصْدَرِ، وَقَوَاعِدُ جِنْسِ الْأَسْمَاءِ الْمُشْتَقَّةِ فِي الْأَلْمَانِيَّةِ.',
+        icon: Icons.transform_rounded,
+        builder: (_) => const NominalizationStudioScreen(),
+      ),
+      TrilingualStudioDescriptor(
+        id: 'phonotactics_prosody',
+        taskNumber: 1225,
+        group: StudioDomainGroup.morphologyAndPhonology,
+        titleAr: 'مُخْتَبَرُ الصَّوْتِيَّاتِ وَالْإِدْغَامِ وَالنَّبْرِ',
+        titleEn: 'Phonotactics, Assimilation & Prosodic Stress Studio',
+        titleDe: 'Auslautverhärtung, Ich-/Ach-Laut & Wortakzent',
+        summaryAr:
+            'الْإِبْدَالُ الصَّوْتِيُّ، وَتَوْزِيعُ صَوْتَيِ [ç] وَ[x]، وَأَثَرُ النَّبْرِ فِي فَصْلِ السَّوَابِقِ الْفِعْلِيَّةِ الْأَلْمَانِيَّةِ.',
+        icon: Icons.graphic_eq_rounded,
+        builder: (_) => const PhonotacticsProsodyStudioScreen(),
+      ),
+      TrilingualStudioDescriptor(
+        id: 'discourse_connectives',
+        taskNumber: 1226,
+        group: StudioDomainGroup.discourseAndCorpus,
+        titleAr: 'مُخْتَبَرُ الرَّوَابِطِ النَّصِّيَّةِ وَتَمَاسُكِ الْفَقْرَةِ',
+        titleEn: 'Discourse Connectives & Paragraph Cohesion Studio',
+        titleDe: 'Konnektoren (weil, obwohl, deshalb, damit) & Satzbau',
+        summaryAr:
+            'رَوَابِطُ التَّعْلِيلِ وَالِاسْتِدْرَاكِ وَالْغَايَةِ وَالنَّتِيجَةِ وَأَثَرُهَا عَلَى رُتْبَةِ الْفِعْلِ وَالتَّرْقِيمِ.',
+        icon: Icons.link_rounded,
+        builder: (_) => const DiscourseConnectivesStudioScreen(),
+      ),
+      TrilingualStudioDescriptor(
+        id: 'modal_verbs_deontic',
+        taskNumber: 1227,
+        group: StudioDomainGroup.semanticsAndPragmatics,
+        titleAr: 'مُخْتَبَرُ أَفْعَالِ الْوُجُوبِ وَالِاحْتِمَالِ وَالْإِذْنِ',
+        titleEn: 'Modal Auxiliaries: Deontic vs. Epistemic Studio',
+        titleDe: 'Modalverben: Pflicht, Vermutung, Verbot & Ersatzinfinitiv',
+        summaryAr:
+            'التَّفْرِيقُ بَيْنَ الْإِلْزَامِ وَالِاسْتِنْتَاجِ، وَالْمَنْعِ (darf nicht) وَعَدَمِ اللُّزُومِ (muss nicht)، وَالْمَصْدَرِ الْمُزْدَوَجِ.',
+        icon: Icons.balance_rounded,
+        builder: (_) => const ModalVerbsStudioScreen(),
+      ),
+    ];
+  }
+
+  List<ModuleHealthReport> runSelfDiagnostics() {
+    final reportedRepo = const ReportedSpeechRepository();
+    final ellipsisRepo = const EllipsisAnaphoraRepository();
+    final appositionRepo = const AppositionCoordinationRepository();
+    final prepRepo = const PrepositionalGovernmentRepository();
+    final nomRepo = const NominalizationRepository();
+    final phonoRepo = const PhonotacticsProsodyRepository();
+    final discourseRepo = const DiscourseConnectivesRepository();
+    final modalRepo = const ModalVerbsRepository();
+
+    final reports = <ModuleHealthReport>[
+      _verifyModule(
+        id: 'reported_speech',
+        titleAr: 'مُخْتَبَرُ الْكَلَامِ الْمَنْقُولِ (#1220)',
+        itemsCount: reportedRepo.getScenarios().length,
+        drillsCount: reportedRepo.getDrills().length,
+        hasValidTrilingualContent: reportedRepo.getScenarios().every(
+              (s) =>
+                  s.directAr.isNotEmpty &&
+                  s.indirectEn.isNotEmpty &&
+                  s.indirectDe.isNotEmpty,
+            ),
+      ),
+      _verifyModule(
+        id: 'ellipsis_anaphora',
+        titleAr: 'مُخْتَبَرُ الْحَذْفِ وَالتَّقْدِيرِ (#1221)',
+        itemsCount: ellipsisRepo.getCaseStudies().length,
+        drillsCount: ellipsisRepo.getDrills().length,
+        hasValidTrilingualContent: ellipsisRepo.getCaseStudies().every(
+              (c) =>
+                  c.surfaceAr.isNotEmpty &&
+                  c.recoveredEn.isNotEmpty &&
+                  c.recoveredDe.isNotEmpty,
+            ),
+      ),
+      _verifyModule(
+        id: 'apposition_coordination',
+        titleAr: 'مُخْتَبَرُ الْبَدَلِ وَالْعَطْفِ (#1222)',
+        itemsCount: appositionRepo.getItems().length,
+        drillsCount: appositionRepo.getDrills().length,
+        hasValidTrilingualContent: appositionRepo.getItems().every(
+              (i) =>
+                  i.exampleAr.isNotEmpty &&
+                  i.exampleEn.isNotEmpty &&
+                  i.exampleDe.isNotEmpty,
+            ),
+      ),
+      _verifyModule(
+        id: 'prepositional_government',
+        titleAr: 'مُخْتَبَرُ حُرُوفِ الْجَرِّ (#1223)',
+        itemsCount: prepRepo.getPairs().length,
+        drillsCount: prepRepo.getDrills().length,
+        hasValidTrilingualContent: prepRepo.getPairs().every(
+              (p) =>
+                  p.patternAAr.isNotEmpty &&
+                  p.patternAEn.isNotEmpty &&
+                  p.patternADe.isNotEmpty,
+            ),
+      ),
+      _verifyModule(
+        id: 'nominalization_morphology',
+        titleAr: 'مُخْتَبَرُ الْمَصَادِرِ وَالِاشْتِقَاقِ (#1224)',
+        itemsCount: nomRepo.getLessons().length,
+        drillsCount: nomRepo.getDrills().length,
+        hasValidTrilingualContent: nomRepo.getLessons().every(
+              (l) =>
+                  l.nominalFormAr.isNotEmpty &&
+                  l.nominalFormEn.isNotEmpty &&
+                  l.nominalFormDe.isNotEmpty,
+            ),
+      ),
+      _verifyModule(
+        id: 'phonotactics_prosody',
+        titleAr: 'مُخْتَبَرُ الصَّوْتِيَّاتِ وَالنَّبْرِ (#1225)',
+        itemsCount: phonoRepo.getLessons().length,
+        drillsCount: phonoRepo.getDrills().length,
+        hasValidTrilingualContent: phonoRepo.getLessons().every(
+              (l) =>
+                  l.arabicExamples.isNotEmpty &&
+                  l.englishExamples.isNotEmpty &&
+                  l.germanExamples.isNotEmpty,
+            ),
+      ),
+      _verifyModule(
+        id: 'discourse_connectives',
+        titleAr: 'مُخْتَبَرُ الرَّوَابِطِ النَّصِّيَّةِ (#1226)',
+        itemsCount: discourseRepo.getTriplets().length,
+        drillsCount: discourseRepo.getDrills().length,
+        hasValidTrilingualContent: discourseRepo.getTriplets().every(
+              (t) =>
+                  t.subordinatingAr.isNotEmpty &&
+                  t.subordinatingEn.isNotEmpty &&
+                  t.subordinatingDe.isNotEmpty,
+            ),
+      ),
+      _verifyModule(
+        id: 'modal_verbs_deontic',
+        titleAr: 'مُخْتَبَرُ الْأَفْعَالِ النَّاقِصَةِ (#1227)',
+        itemsCount: modalRepo.getUnits().length,
+        drillsCount: modalRepo.getDrills().length,
+        hasValidTrilingualContent: modalRepo.getUnits().every(
+              (u) =>
+                  u.deonticOrBaseAr.isNotEmpty &&
+                  u.deonticOrBaseEn.isNotEmpty &&
+                  u.deonticOrBaseDe.isNotEmpty,
+            ),
+      ),
+    ];
+
+    return reports;
+  }
+
+  ModuleHealthReport _verifyModule({
+    required String id,
+    required String titleAr,
+    required int itemsCount,
+    required int drillsCount,
+    required bool hasValidTrilingualContent,
+  }) {
+    final healthy =
+        itemsCount >= 6 && drillsCount >= 6 && hasValidTrilingualContent;
+    return ModuleHealthReport(
+      moduleId: id,
+      titleAr: titleAr,
+      isHealthy: healthy,
+      verifiedItemsCount: itemsCount,
+      verifiedDrillsCount: drillsCount,
+      diagnosticNoteAr: healthy
+          ? 'مُكْتَمِلٌ وَسَلِيمٌ برمجياً ولغوياً ($itemsCount وَحَدَاتٍ / $drillsCount تَدْرِيبَاتٍ)'
+          : 'يَحْتَاجُ إِلَى اسْتِكْمَالِ بَعْضِ الْبَيَانَاتِ',
+    );
+  }
+}
