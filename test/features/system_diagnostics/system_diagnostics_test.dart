@@ -7,15 +7,15 @@ import 'package:trilingual_learning_lab/features/system_diagnostics/services/tri
 import 'package:trilingual_learning_lab/main.dart';
 
 void main() {
-  group('TrilingualRegistryService & Complete 16-Studio Audit', () {
+  group('TrilingualRegistryService & Complete 17-Studio Audit', () {
     const service = TrilingualRegistryService();
 
-    test('registers all 16 studios (#1220-#1237) and verifies health', () {
+    test('registers all 17 studios (#1220-#1238) and verifies health', () {
       final studios = service.getRegisteredStudios();
-      expect(studios.length, 16);
+      expect(studios.length, 17);
 
       final reports = service.runSelfDiagnostics();
-      expect(reports.length, 16);
+      expect(reports.length, 17);
       for (final report in reports) {
         expect(
           report.isHealthy,
@@ -29,22 +29,22 @@ void main() {
   });
 
   group('SystemDiagnosticsController', () {
-    test('computes totals across all 16 studios and filters by group/query', () {
+    test('computes totals across all 17 studios and filters by group/query', () {
       final controller = SystemDiagnosticsController();
       expect(controller.state.lastAuditPassed, isTrue);
-      expect(controller.state.filteredStudios.length, 16);
-      expect(controller.state.totalVerifiedLessons, greaterThanOrEqualTo(96));
-      expect(controller.state.totalVerifiedDrills, greaterThanOrEqualTo(96));
+      expect(controller.state.filteredStudios.length, 17);
+      expect(controller.state.totalVerifiedLessons, greaterThanOrEqualTo(102));
+      expect(controller.state.totalVerifiedDrills, greaterThanOrEqualTo(102));
 
-      controller.selectGroup(StudioDomainGroup.syntaxAndGrammar);
-      expect(controller.state.filteredStudios.length, 6);
+      controller.selectGroup(StudioDomainGroup.morphologyAndPhonology);
+      expect(controller.state.filteredStudios.length, 4);
 
       controller.selectGroup(null);
-      controller.updateSearch('1237');
+      controller.updateSearch('1238');
       expect(controller.state.filteredStudios.length, 1);
       expect(
         controller.state.filteredStudios.first.id,
-        'passive_voice_matrix',
+        'reflexive_reciprocal',
       );
     });
   });

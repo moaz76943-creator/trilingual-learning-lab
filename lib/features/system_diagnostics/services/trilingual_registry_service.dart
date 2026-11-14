@@ -22,6 +22,8 @@ import '../../phonotactics_prosody/data/phonotactics_prosody_repository.dart';
 import '../../phonotactics_prosody/screens/phonotactics_prosody_studio_screen.dart';
 import '../../prepositional_government/data/prepositional_government_repository.dart';
 import '../../prepositional_government/screens/prepositional_government_studio_screen.dart';
+import '../../reflexive_reciprocal/data/reflexive_reciprocal_repository.dart';
+import '../../reflexive_reciprocal/screens/reflexive_reciprocal_studio_screen.dart';
 import '../../reported_speech/data/reported_speech_repository.dart';
 import '../../reported_speech/screens/reported_speech_studio_screen.dart';
 import '../../situational_dialogue/data/situational_dialogue_repository.dart';
@@ -231,6 +233,18 @@ class TrilingualRegistryService {
         icon: Icons.swap_horiz_rounded,
         builder: (_) => const PassiveVoiceStudioScreen(),
       ),
+      TrilingualStudioDescriptor(
+        id: 'reflexive_reciprocal',
+        taskNumber: 1238,
+        group: StudioDomainGroup.morphologyAndPhonology,
+        titleAr: 'مُخْتَبَرُ الْأَفْعَالِ الِانْعِكَاسِيَّةِ وَالْمُطَاوَعَةِ',
+        titleEn: 'Reflexive Verbs, Reciprocal Actions & Mutaʿawa Studio',
+        titleDe: 'Reflexivpronomen (mich/mir), einander & Medialverben',
+        summaryAr:
+            'الْفَرْقُ بَيْنَ mich وَmir، وَالْأَفْعَالُ الِانْعِكَاسِيَّةُ اللَّازِمَةُ، وَصِيغَةُ تَفَاعَلَ مُقَابِلَ einander وَالْمُطَاوَعَةِ.',
+        icon: Icons.loop_rounded,
+        builder: (_) => const ReflexiveReciprocalStudioScreen(),
+      ),
     ];
   }
 
@@ -251,6 +265,7 @@ class TrilingualRegistryService {
     final clozeRepo = const ComprehensionClozeRepository();
     final wordOrderRepo = const WordOrderRepository();
     final passiveRepo = const PassiveVoiceRepository();
+    final reflexiveRepo = const ReflexiveReciprocalRepository();
 
     return [
       _verifyModule(
@@ -440,6 +455,18 @@ class TrilingualRegistryService {
                   u.passiveFormAr.isNotEmpty &&
                   u.passiveFormEn.isNotEmpty &&
                   u.passiveFormDe.isNotEmpty,
+            ),
+      ),
+      _verifyModule(
+        id: 'reflexive_reciprocal',
+        titleAr: 'مُخْتَبَرُ الْأَفْعَالِ الِانْعِكَاسِيَّةِ وَالْمُطَاوَعَةِ (#1238)',
+        itemsCount: reflexiveRepo.getUnits().length,
+        drillsCount: reflexiveRepo.getDrills().length,
+        hasValidTrilingualContent: reflexiveRepo.getUnits().every(
+              (r) =>
+                  r.exampleAr.isNotEmpty &&
+                  r.exampleEn.isNotEmpty &&
+                  r.exampleDe.isNotEmpty,
             ),
       ),
     ];
