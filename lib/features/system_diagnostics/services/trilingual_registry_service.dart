@@ -16,6 +16,8 @@ import '../../nominal_agreement_declension/data/nominal_agreement_repository.dar
 import '../../nominal_agreement_declension/screens/nominal_agreement_studio_screen.dart';
 import '../../nominalization_morphology/data/nominalization_repository.dart';
 import '../../nominalization_morphology/screens/nominalization_studio_screen.dart';
+import '../../numerals_measurement/data/numerals_measurement_repository.dart';
+import '../../numerals_measurement/screens/numerals_measurement_studio_screen.dart';
 import '../../passive_voice_matrix/data/passive_voice_repository.dart';
 import '../../passive_voice_matrix/screens/passive_voice_studio_screen.dart';
 import '../../phonotactics_prosody/data/phonotactics_prosody_repository.dart';
@@ -245,6 +247,18 @@ class TrilingualRegistryService {
         icon: Icons.loop_rounded,
         builder: (_) => const ReflexiveReciprocalStudioScreen(),
       ),
+      TrilingualStudioDescriptor(
+        id: 'numerals_measurement',
+        taskNumber: 1239,
+        group: StudioDomainGroup.syntaxAndGrammar,
+        titleAr: 'مُخْتَبَرُ الْأَعْدَادِ وَالتَّوْقِيتِ وَالْمَقَادِيرِ',
+        titleEn: 'Numerals, Tamyiz al-Adad, Dates & Measurement Studio',
+        titleDe: 'Kardinal-/Ordinalzahlen, Uhrzeit (halb drei) & Maßeinheiten',
+        summaryAr:
+            'مُخَالَفَةُ الْعَدَدِ لِلْمَعْدُودِ، وَقَلْبُ الْآحَادِ الْأَلْمَانِيُّ (einundzwanzig)، وَتَرَاكِيبُ التَّوَارِيخِ وَالسَّاعَةِ وَالْمَكَايِيلِ.',
+        icon: Icons.pin_outlined,
+        builder: (_) => const NumeralsMeasurementStudioScreen(),
+      ),
     ];
   }
 
@@ -266,6 +280,7 @@ class TrilingualRegistryService {
     final wordOrderRepo = const WordOrderRepository();
     final passiveRepo = const PassiveVoiceRepository();
     final reflexiveRepo = const ReflexiveReciprocalRepository();
+    final numeralsRepo = const NumeralsMeasurementRepository();
 
     return [
       _verifyModule(
@@ -467,6 +482,18 @@ class TrilingualRegistryService {
                   r.exampleAr.isNotEmpty &&
                   r.exampleEn.isNotEmpty &&
                   r.exampleDe.isNotEmpty,
+            ),
+      ),
+      _verifyModule(
+        id: 'numerals_measurement',
+        titleAr: 'مُخْتَبَرُ الْأَعْدَادِ وَالتَّوْقِيتِ وَالْمَقَادِيرِ (#1239)',
+        itemsCount: numeralsRepo.getUnits().length,
+        drillsCount: numeralsRepo.getDrills().length,
+        hasValidTrilingualContent: numeralsRepo.getUnits().every(
+              (n) =>
+                  n.exampleAr.isNotEmpty &&
+                  n.exampleEn.isNotEmpty &&
+                  n.exampleDe.isNotEmpty,
             ),
       ),
     ];
