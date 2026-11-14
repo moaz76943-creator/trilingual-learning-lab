@@ -9,9 +9,9 @@ enum StudioDomainGroup {
   ),
   semanticsAndPragmatics(
     id: 'semantics_pragmatics',
-    titleAr: 'الدَّلَالَةُ وَالتَّدَاوُلِيَّةُ وَالْبَلَاغَةُ',
-    titleEn: 'Semantics, Pragmatics & Rhetoric',
-    titleDe: 'Semantik, Pragmatik & Rhetorik',
+    titleAr: 'الدَّلَالَةُ وَالتَّدَاوُلِيَّةُ وَالْحِوَارُ',
+    titleEn: 'Semantics, Pragmatics & Dialogue',
+    titleDe: 'Semantik, Pragmatik & Dialog',
   ),
   morphologyAndPhonology(
     id: 'morphology_phonology',
@@ -19,11 +19,11 @@ enum StudioDomainGroup {
     titleEn: 'Morphology, Derivation & Phonotactics',
     titleDe: 'Morphologie, Wortbildung & Phonetik',
   ),
-  discourseAndCorpus(
-    id: 'discourse_corpus',
-    titleAr: 'تَحْلِيلُ الْخِطَابِ وَالْمُتَلَازِمَاتُ اللَّفْظِيَّةُ',
-    titleEn: 'Discourse Cohesion & Corpus Studies',
-    titleDe: 'Diskursanalyse & Korpuslinguistik',
+  discourseAndMastery(
+    id: 'discourse_mastery',
+    titleAr: 'الْخِطَابُ وَالتَّكْرَارُ الْمُتَبَاعِدُ (SRS)',
+    titleEn: 'Discourse Cohesion & SRS Mastery',
+    titleDe: 'Diskursanalyse & SRS-Training',
   );
 
   const StudioDomainGroup({

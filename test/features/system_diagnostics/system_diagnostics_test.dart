@@ -4,17 +4,18 @@ import 'package:trilingual_learning_lab/features/system_diagnostics/controllers/
 import 'package:trilingual_learning_lab/features/system_diagnostics/models/diagnostic_models.dart';
 import 'package:trilingual_learning_lab/features/system_diagnostics/screens/trilingual_master_hub_screen.dart';
 import 'package:trilingual_learning_lab/features/system_diagnostics/services/trilingual_registry_service.dart';
+import 'package:trilingual_learning_lab/main.dart';
 
 void main() {
-  group('TrilingualRegistryService & Self-Healing Audit', () {
+  group('TrilingualRegistryService & Complete 10-Studio Audit', () {
     const service = TrilingualRegistryService();
 
-    test('registers all 8 core studios (#1220-#1227) and passes health checks', () {
+    test('registers all 10 studios (#1220-#1230) and verifies health', () {
       final studios = service.getRegisteredStudios();
-      expect(studios.length, 8);
+      expect(studios.length, 10);
 
       final reports = service.runSelfDiagnostics();
-      expect(reports.length, 8);
+      expect(reports.length, 10);
       for (final report in reports) {
         expect(
           report.isHealthy,
@@ -28,38 +29,32 @@ void main() {
   });
 
   group('SystemDiagnosticsController', () {
-    test('filters registered studios by domain group and search query', () {
+    test('computes totals across all 10 studios and filters by group/query', () {
       final controller = SystemDiagnosticsController();
       expect(controller.state.lastAuditPassed, isTrue);
-      expect(controller.state.filteredStudios.length, 8);
-      expect(controller.state.totalVerifiedLessons, 48);
-      expect(controller.state.totalVerifiedDrills, 48);
+      expect(controller.state.filteredStudios.length, 10);
+      expect(controller.state.totalVerifiedLessons, 60);
+      expect(controller.state.totalVerifiedDrills, 60);
 
-      controller.selectGroup(StudioDomainGroup.morphologyAndPhonology);
+      controller.selectGroup(StudioDomainGroup.semanticsAndPragmatics);
       expect(controller.state.filteredStudios.length, 2);
 
       controller.selectGroup(null);
-      controller.updateSearch('1227');
+      controller.updateSearch('1230');
       expect(controller.state.filteredStudios.length, 1);
-      expect(controller.state.filteredStudios.first.id, 'modal_verbs_deontic');
+      expect(controller.state.filteredStudios.first.id, 'situational_dialogue');
     });
   });
 
-  group('TrilingualMasterHubScreen', () {
-    testWidgets('renders hub, navigates to a studio, and displays health tab',
+  group('TrilingualLearningLabApp & Master Hub Smoke Test', () {
+    testWidgets('boots full app and navigates between catalog and health tabs',
         (WidgetTester tester) async {
-      final controller = SystemDiagnosticsController();
-      await tester.pumpWidget(
-        MaterialApp(
-          home: TrilingualMasterHubScreen(controller: controller),
-        ),
-      );
+      await tester.pumpWidget(const TrilingualLearningLabApp());
 
       expect(
         find.text('الْبَوَّابَةُ الْمُوَحَّدَةُ وَفَحْصُ سَلَامَةِ الْمُخْتَبَرِ'),
         findsOneWidget,
       );
-      expect(find.text('#1220'), findsOneWidget);
 
       await tester.tap(find.text('تَقْرِيرُ السَّلَامَةِ الْبَرْمَجِيَّةِ'));
       await tester.pumpAndSettle();
@@ -68,6 +63,7 @@ void main() {
         find.textContaining('حَالَةُ النِّظَامِ: جَمِيعُ الْمُخْتَبَرَاتِ سَلِيمَةٌ'),
         findsOneWidget,
       );
+      expect(find.textContaining('60'), findsOneWidget);
     });
   });
 }

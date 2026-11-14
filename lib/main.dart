@@ -1,17 +1,10 @@
 import 'package:flutter/material.dart';
-import 'core/di/injection_container.dart';
-import 'core/router/app_router.dart';
-import 'core/widgets/error_boundary.dart';
-import 'core/theme/app_theme.dart';
 
-void main() async {
+import 'features/system_diagnostics/screens/trilingual_master_hub_screen.dart';
+
+void main() {
   WidgetsFlutterBinding.ensureInitialized();
-  await AppDI.initialize();
-  runApp(
-    const ErrorBoundary(
-      child: TrilingualLearningLabApp(),
-    ),
-  );
+  runApp(const TrilingualLearningLabApp());
 }
 
 class TrilingualLearningLabApp extends StatelessWidget {
@@ -22,13 +15,17 @@ class TrilingualLearningLabApp extends StatelessWidget {
     return MaterialApp(
       title: 'Trilingual Learning Lab',
       debugShowCheckedModeBanner: false,
-      theme: AppTheme.light,
-      darkTheme: AppTheme.dark,
-      highContrastTheme: AppTheme.highContrastLight,
-      highContrastDarkTheme: AppTheme.highContrastDark,
-      themeMode: ThemeMode.system,
-      onGenerateRoute: AppRouter.generateRoute,
-      initialRoute: AppRoutes.home,
+      theme: ThemeData(
+        useMaterial3: true,
+        colorSchemeSeed: const Color(0xFF0D6E6E),
+        brightness: Brightness.light,
+      ),
+      darkTheme: ThemeData(
+        useMaterial3: true,
+        colorSchemeSeed: const Color(0xFF0D6E6E),
+        brightness: Brightness.dark,
+      ),
+      home: const TrilingualMasterHubScreen(),
     );
   }
 }

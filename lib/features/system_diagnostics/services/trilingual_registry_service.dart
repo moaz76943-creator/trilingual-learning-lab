@@ -16,6 +16,10 @@ import '../../prepositional_government/data/prepositional_government_repository.
 import '../../prepositional_government/screens/prepositional_government_studio_screen.dart';
 import '../../reported_speech/data/reported_speech_repository.dart';
 import '../../reported_speech/screens/reported_speech_studio_screen.dart';
+import '../../situational_dialogue/data/situational_dialogue_repository.dart';
+import '../../situational_dialogue/screens/situational_dialogue_studio_screen.dart';
+import '../../srs_mastery_engine/data/srs_seed_repository.dart';
+import '../../srs_mastery_engine/screens/srs_mastery_studio_screen.dart';
 import '../models/diagnostic_models.dart';
 
 class TrilingualRegistryService {
@@ -26,7 +30,7 @@ class TrilingualRegistryService {
       TrilingualStudioDescriptor(
         id: 'reported_speech',
         taskNumber: 1220,
-        group: StudioDomainGroup.discourseAndCorpus,
+        group: StudioDomainGroup.discourseAndMastery,
         titleAr: 'مُخْتَبَرُ الْكَلَامِ الْمَنْقُولِ وَتَحَوُّلَاتِ الْإِحَالَةِ',
         titleEn: 'Reported Speech & Deictic Shift Studio',
         titleDe: 'Indirekte Rede (Konjunktiv I/II) & Deixis',
@@ -98,7 +102,7 @@ class TrilingualRegistryService {
       TrilingualStudioDescriptor(
         id: 'discourse_connectives',
         taskNumber: 1226,
-        group: StudioDomainGroup.discourseAndCorpus,
+        group: StudioDomainGroup.discourseAndMastery,
         titleAr: 'مُخْتَبَرُ الرَّوَابِطِ النَّصِّيَّةِ وَتَمَاسُكِ الْفَقْرَةِ',
         titleEn: 'Discourse Connectives & Paragraph Cohesion Studio',
         titleDe: 'Konnektoren (weil, obwohl, deshalb, damit) & Satzbau',
@@ -119,6 +123,30 @@ class TrilingualRegistryService {
         icon: Icons.balance_rounded,
         builder: (_) => const ModalVerbsStudioScreen(),
       ),
+      TrilingualStudioDescriptor(
+        id: 'srs_mastery_engine',
+        taskNumber: 1229,
+        group: StudioDomainGroup.discourseAndMastery,
+        titleAr: 'مُحَرِّكُ التَّكْرَارِ الْمُتَبَاعِدِ وَالْإِتْقَانِ (SM-2)',
+        titleEn: 'Spaced Repetition (SM-2) & Adaptive Mastery Engine',
+        titleDe: 'Spaced-Repetition-System (SM-2) & Fehlertraining',
+        summaryAr:
+            'جَدْوَلَةُ الْمُرَاجَعَاتِ الذَّكِيَّةُ بِخَوَارِزْمِيَّةِ SM-2 مَعَ تَتَبُّعِ مُعَامِلِ السُّهُولَةِ وَالتَّعَثُّرَاتِ.',
+        icon: Icons.psychology_outlined,
+        builder: (_) => const SrsMasteryStudioScreen(),
+      ),
+      TrilingualStudioDescriptor(
+        id: 'situational_dialogue',
+        taskNumber: 1230,
+        group: StudioDomainGroup.semanticsAndPragmatics,
+        titleAr: 'مُخْتَبَرُ الْمُحَادَثَاتِ الْحَيَّةِ وَالْحِوَارِ الْمَوْقِفِيِّ',
+        titleEn: 'Real-World Situational Dialogue & Roleplay Studio',
+        titleDe: 'Alltagsdialoge, Rollenspiel & Höflichkeitsstrategien',
+        summaryAr:
+            'حِوَارَاتٌ وَاقِعِيَّةٌ فِي الْمَكْتَبَةِ وَالصَّيْدَلِيَّةِ وَالْقِطَارِ وَالْعَمَلِ التِّقْنِيِّ وَآدَابِ الضِّيَافَةِ.',
+        icon: Icons.forum_outlined,
+        builder: (_) => const SituationalDialogueStudioScreen(),
+      ),
     ];
   }
 
@@ -131,8 +159,10 @@ class TrilingualRegistryService {
     final phonoRepo = const PhonotacticsProsodyRepository();
     final discourseRepo = const DiscourseConnectivesRepository();
     final modalRepo = const ModalVerbsRepository();
+    final srsRepo = const SrsSeedRepository();
+    final dialogueRepo = const SituationalDialogueRepository();
 
-    final reports = <ModuleHealthReport>[
+    return [
       _verifyModule(
         id: 'reported_speech',
         titleAr: 'مُخْتَبَرُ الْكَلَامِ الْمَنْقُولِ (#1220)',
@@ -229,9 +259,28 @@ class TrilingualRegistryService {
                   u.deonticOrBaseDe.isNotEmpty,
             ),
       ),
+      _verifyModule(
+        id: 'srs_mastery_engine',
+        titleAr: 'مُحَرِّكُ التَّكْرَارِ الْمُتَبَاعِدِ (#1229)',
+        itemsCount: srsRepo.loadInitialDeck().length,
+        drillsCount: srsRepo.loadInitialDeck().length,
+        hasValidTrilingualContent: srsRepo.loadInitialDeck().every(
+              (c) =>
+                  c.promptAr.isNotEmpty &&
+                  c.answerEn.isNotEmpty &&
+                  c.answerDe.isNotEmpty,
+            ),
+      ),
+      _verifyModule(
+        id: 'situational_dialogue',
+        titleAr: 'مُخْتَبَرُ الْمُحَادَثَاتِ الْحَيَّةِ (#1230)',
+        itemsCount: dialogueRepo.getScenarios().length,
+        drillsCount: dialogueRepo.getChallenges().length,
+        hasValidTrilingualContent: dialogueRepo.getScenarios().every(
+              (s) => s.turns.isNotEmpty && s.turns.first.lineDe.isNotEmpty,
+            ),
+      ),
     ];
-
-    return reports;
   }
 
   ModuleHealthReport _verifyModule({
@@ -250,7 +299,7 @@ class TrilingualRegistryService {
       verifiedItemsCount: itemsCount,
       verifiedDrillsCount: drillsCount,
       diagnosticNoteAr: healthy
-          ? 'مُكْتَمِلٌ وَسَلِيمٌ برمجياً ولغوياً ($itemsCount وَحَدَاتٍ / $drillsCount تَدْرِيبَاتٍ)'
+          ? 'مُكْتَمِلٌ وَسَلِيمٌ بَرْمَجِيًّا وَلُغَوِيًّا ($itemsCount وَحَدَاتٍ / $drillsCount تَدْرِيبَاتٍ)'
           : 'يَحْتَاجُ إِلَى اسْتِكْمَالِ بَعْضِ الْبَيَانَاتِ',
     );
   }
