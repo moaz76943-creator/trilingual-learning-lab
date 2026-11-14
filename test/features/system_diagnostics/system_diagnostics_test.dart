@@ -7,15 +7,15 @@ import 'package:trilingual_learning_lab/features/system_diagnostics/services/tri
 import 'package:trilingual_learning_lab/main.dart';
 
 void main() {
-  group('TrilingualRegistryService & Complete 18-Studio Audit', () {
+  group('TrilingualRegistryService & Complete 19-Studio Audit', () {
     const service = TrilingualRegistryService();
 
-    test('registers all 18 studios (#1220-#1239) and verifies health', () {
+    test('registers all 19 studios (#1220-#1240) and verifies health', () {
       final studios = service.getRegisteredStudios();
-      expect(studios.length, 18);
+      expect(studios.length, 19);
 
       final reports = service.runSelfDiagnostics();
-      expect(reports.length, 18);
+      expect(reports.length, 19);
       for (final report in reports) {
         expect(
           report.isHealthy,
@@ -29,22 +29,22 @@ void main() {
   });
 
   group('SystemDiagnosticsController', () {
-    test('computes totals across all 18 studios and filters by group/query', () {
+    test('computes totals across all 19 studios and filters by group/query', () {
       final controller = SystemDiagnosticsController();
       expect(controller.state.lastAuditPassed, isTrue);
-      expect(controller.state.filteredStudios.length, 18);
-      expect(controller.state.totalVerifiedLessons, greaterThanOrEqualTo(108));
-      expect(controller.state.totalVerifiedDrills, greaterThanOrEqualTo(108));
+      expect(controller.state.filteredStudios.length, 19);
+      expect(controller.state.totalVerifiedLessons, greaterThanOrEqualTo(114));
+      expect(controller.state.totalVerifiedDrills, greaterThanOrEqualTo(114));
 
       controller.selectGroup(StudioDomainGroup.morphologyAndPhonology);
       expect(controller.state.filteredStudios.length, 4);
 
       controller.selectGroup(null);
-      controller.updateSearch('1239');
+      controller.updateSearch('1240');
       expect(controller.state.filteredStudios.length, 1);
       expect(
         controller.state.filteredStudios.first.id,
-        'numerals_measurement',
+        'idafa_compound_nouns',
       );
     });
   });

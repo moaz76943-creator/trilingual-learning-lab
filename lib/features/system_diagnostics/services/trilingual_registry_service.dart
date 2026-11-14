@@ -10,6 +10,8 @@ import '../../ellipsis_anaphora/data/ellipsis_anaphora_repository.dart';
 import '../../ellipsis_anaphora/screens/ellipsis_anaphora_studio_screen.dart';
 import '../../false_friends_register/data/false_friends_repository.dart';
 import '../../false_friends_register/screens/false_friends_studio_screen.dart';
+import '../../idafa_compound_nouns/data/idafa_compound_repository.dart';
+import '../../idafa_compound_nouns/screens/idafa_compound_studio_screen.dart';
 import '../../modal_verbs_deontic/data/modal_verbs_repository.dart';
 import '../../modal_verbs_deontic/screens/modal_verbs_studio_screen.dart';
 import '../../nominal_agreement_declension/data/nominal_agreement_repository.dart';
@@ -259,6 +261,18 @@ class TrilingualRegistryService {
         icon: Icons.pin_outlined,
         builder: (_) => const NumeralsMeasurementStudioScreen(),
       ),
+      TrilingualStudioDescriptor(
+        id: 'idafa_compound_nouns',
+        taskNumber: 1240,
+        group: StudioDomainGroup.syntaxAndGrammar,
+        titleAr: 'مُخْتَبَرُ الْإِضَافَةِ وَالْمُرَكَّبَاتِ الِاسْمِيَّةِ',
+        titleEn: 'Idafa Chains, Genitive & German Komposita Studio',
+        titleDe: 'Komposita, Fugenelemente (-s/-n) & Genitiv-Kongruenz',
+        summaryAr:
+            'الْإِضَافَةُ الْمَحْضَةُ وَاللَّفْظِيَّةُ، وَمَوْقِعُ النَّعْتِ، وَالمُرَكَّبَاتُ الْأَلْمَانِيَّةُ وَحُرُوفُ الرَّبْطِ (Fugenelemente).',
+        icon: Icons.layers_outlined,
+        builder: (_) => const IdafaCompoundStudioScreen(),
+      ),
     ];
   }
 
@@ -281,6 +295,7 @@ class TrilingualRegistryService {
     final passiveRepo = const PassiveVoiceRepository();
     final reflexiveRepo = const ReflexiveReciprocalRepository();
     final numeralsRepo = const NumeralsMeasurementRepository();
+    final idafaRepo = const IdafaCompoundRepository();
 
     return [
       _verifyModule(
@@ -494,6 +509,18 @@ class TrilingualRegistryService {
                   n.exampleAr.isNotEmpty &&
                   n.exampleEn.isNotEmpty &&
                   n.exampleDe.isNotEmpty,
+            ),
+      ),
+      _verifyModule(
+        id: 'idafa_compound_nouns',
+        titleAr: 'مُخْتَبَرُ الْإِضَافَةِ وَالْمُرَكَّبَاتِ الِاسْمِيَّةِ (#1240)',
+        itemsCount: idafaRepo.getUnits().length,
+        drillsCount: idafaRepo.getDrills().length,
+        hasValidTrilingualContent: idafaRepo.getUnits().every(
+              (c) =>
+                  c.exampleAr.isNotEmpty &&
+                  c.exampleEn.isNotEmpty &&
+                  c.exampleDe.isNotEmpty,
             ),
       ),
     ];
