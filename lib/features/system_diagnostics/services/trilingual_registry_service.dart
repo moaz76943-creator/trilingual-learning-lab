@@ -28,6 +28,8 @@ import '../../srs_mastery_engine/data/srs_seed_repository.dart';
 import '../../srs_mastery_engine/screens/srs_mastery_studio_screen.dart';
 import '../../verb_paradigm_matrix/data/verb_paradigm_repository.dart';
 import '../../verb_paradigm_matrix/screens/verb_paradigm_studio_screen.dart';
+import '../../word_order_topology/data/word_order_repository.dart';
+import '../../word_order_topology/screens/word_order_studio_screen.dart';
 import '../models/diagnostic_models.dart';
 
 class TrilingualRegistryService {
@@ -203,6 +205,18 @@ class TrilingualRegistryService {
         icon: Icons.menu_book_outlined,
         builder: (_) => const ComprehensionClozeStudioScreen(),
       ),
+      TrilingualStudioDescriptor(
+        id: 'word_order_topology',
+        taskNumber: 1236,
+        group: StudioDomainGroup.syntaxAndGrammar,
+        titleAr: 'مُخْتَبَرُ رُتْبَةِ الْكَلِمَاتِ وَالْقَوْسِ الْفِعْلِيِّ',
+        titleEn: 'Word Order Topology, Satzklammer & TeKaMoLo Studio',
+        titleDe: 'Wortstellung: V2, Satzklammer, TeKaMoLo & Objektfolge',
+        summaryAr:
+            'قَاعِدَةُ الْمَوْقِعِ الثَّانِي (V2) وَالْقَوْسِ الْفِعْلِيِّ وَتَرْتِيبِ TeKaMoLo مُقَابِلَ MPT وَتَقْدِيمِ الْخَبَرِ الْعَرَبِيِّ.',
+        icon: Icons.view_week_outlined,
+        builder: (_) => const WordOrderStudioScreen(),
+      ),
     ];
   }
 
@@ -221,6 +235,7 @@ class TrilingualRegistryService {
     final verbRepo = const VerbParadigmRepository();
     final agreementRepo = const NominalAgreementRepository();
     final clozeRepo = const ComprehensionClozeRepository();
+    final wordOrderRepo = const WordOrderRepository();
 
     return [
       _verifyModule(
@@ -386,6 +401,18 @@ class TrilingualRegistryService {
                   p.bodyAr.isNotEmpty &&
                   p.bodyEn.isNotEmpty &&
                   p.bodyDe.isNotEmpty,
+            ),
+      ),
+      _verifyModule(
+        id: 'word_order_topology',
+        titleAr: 'مُخْتَبَرُ رُتْبَةِ الْكَلِمَاتِ وَالْقَوْسِ الْفِعْلِيِّ (#1236)',
+        itemsCount: wordOrderRepo.getPatterns().length,
+        drillsCount: wordOrderRepo.getDrills().length,
+        hasValidTrilingualContent: wordOrderRepo.getPatterns().every(
+              (w) =>
+                  w.sentenceAr.isNotEmpty &&
+                  w.sentenceEn.isNotEmpty &&
+                  w.sentenceDe.isNotEmpty,
             ),
       ),
     ];
