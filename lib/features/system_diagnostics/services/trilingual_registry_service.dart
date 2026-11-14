@@ -16,6 +16,8 @@ import '../../idafa_compound_nouns/data/idafa_compound_repository.dart';
 import '../../idafa_compound_nouns/screens/idafa_compound_studio_screen.dart';
 import '../../imperative_requests/data/imperative_requests_repository.dart';
 import '../../imperative_requests/screens/imperative_requests_studio_screen.dart';
+import '../../interrogative_syntax/data/interrogative_syntax_repository.dart';
+import '../../interrogative_syntax/screens/interrogative_syntax_studio_screen.dart';
 import '../../modal_verbs_deontic/data/modal_verbs_repository.dart';
 import '../../modal_verbs_deontic/screens/modal_verbs_studio_screen.dart';
 import '../../nominal_agreement_declension/data/nominal_agreement_repository.dart';
@@ -301,6 +303,18 @@ class TrilingualRegistryService {
         icon: Icons.bolt_outlined,
         builder: (_) => const CausativeValencyStudioScreen(),
       ),
+      TrilingualStudioDescriptor(
+        id: 'interrogative_syntax',
+        taskNumber: 1243,
+        group: StudioDomainGroup.syntaxAndGrammar,
+        titleAr: 'مُخْتَبَرُ الِاسْتِفْهَامِ وَالتَّصْدِيقِ وَالتَّصَوُّرِ',
+        titleEn: 'Interrogative Syntax, Balā/Doch & Embedded Questions Studio',
+        titleDe: 'W-Fragen (wo/wohin/woher), „doch“, „ob“ & „was für ein“',
+        summaryAr:
+            'الْجَوَابُ بـ «بَلَى / doch» بَعْدَ النَّفْيِ، وَحَذْفُ أَلِفِ «مَا» (عَمَّ/فِيمَ)، وَرُتْبَةُ الِاسْتِفْهَامِ غَيْرِ الْمُبَاشِرِ.',
+        icon: Icons.help_outline_rounded,
+        builder: (_) => const InterrogativeSyntaxStudioScreen(),
+      ),
     ];
   }
 
@@ -326,6 +340,7 @@ class TrilingualRegistryService {
     final idafaRepo = const IdafaCompoundRepository();
     final imperativeRepo = const ImperativeRequestsRepository();
     final causativeRepo = const CausativeValencyRepository();
+    final interrogativeRepo = const InterrogativeSyntaxRepository();
 
     return [
       _verifyModule(
@@ -575,6 +590,18 @@ class TrilingualRegistryService {
                   v.exampleAr.isNotEmpty &&
                   v.exampleEn.isNotEmpty &&
                   v.exampleDe.isNotEmpty,
+            ),
+      ),
+      _verifyModule(
+        id: 'interrogative_syntax',
+        titleAr: 'مُخْتَبَرُ الِاسْتِفْهَامِ وَالتَّصْدِيقِ وَالتَّصَوُّرِ (#1243)',
+        itemsCount: interrogativeRepo.getUnits().length,
+        drillsCount: interrogativeRepo.getDrills().length,
+        hasValidTrilingualContent: interrogativeRepo.getUnits().every(
+              (q) =>
+                  q.exampleAr.isNotEmpty &&
+                  q.exampleEn.isNotEmpty &&
+                  q.exampleDe.isNotEmpty,
             ),
       ),
     ];
