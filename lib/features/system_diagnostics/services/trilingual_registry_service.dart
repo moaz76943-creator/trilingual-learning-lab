@@ -10,6 +10,8 @@ import '../../false_friends_register/data/false_friends_repository.dart';
 import '../../false_friends_register/screens/false_friends_studio_screen.dart';
 import '../../modal_verbs_deontic/data/modal_verbs_repository.dart';
 import '../../modal_verbs_deontic/screens/modal_verbs_studio_screen.dart';
+import '../../nominal_agreement_declension/data/nominal_agreement_repository.dart';
+import '../../nominal_agreement_declension/screens/nominal_agreement_studio_screen.dart';
 import '../../nominalization_morphology/data/nominalization_repository.dart';
 import '../../nominalization_morphology/screens/nominalization_studio_screen.dart';
 import '../../phonotactics_prosody/data/phonotactics_prosody_repository.dart';
@@ -175,6 +177,18 @@ class TrilingualRegistryService {
         icon: Icons.table_chart_outlined,
         builder: (_) => const VerbParadigmStudioScreen(),
       ),
+      TrilingualStudioDescriptor(
+        id: 'nominal_agreement_declension',
+        taskNumber: 1234,
+        group: StudioDomainGroup.syntaxAndGrammar,
+        titleAr: 'مُخْتَبَرُ النَّعْتِ وَالتَّصْرِيفِ الِاسْمِيِّ وَالتَّعْرِيفِ',
+        titleEn: 'Adjective Declension, Definiteness & Naʿt Agreement Studio',
+        titleDe: 'Adjektivdeklination (schwach/gemischt/stark) & Kongruenz',
+        summaryAr:
+            'تَصْرِيفُ الصِّفَاتِ الْأَلْمَانِيَّةِ بَعْدَ der/ein/Nullartikel، وَمُطَابَقَةُ جَمْعِ غَيْرِ الْعَاقِلِ، وَالتَّعْرِيفُ التَّجْرِيدِيُّ.',
+        icon: Icons.view_list_outlined,
+        builder: (_) => const NominalAgreementStudioScreen(),
+      ),
     ];
   }
 
@@ -191,6 +205,7 @@ class TrilingualRegistryService {
     final dialogueRepo = const SituationalDialogueRepository();
     final falseFriendsRepo = const FalseFriendsRepository();
     final verbRepo = const VerbParadigmRepository();
+    final agreementRepo = const NominalAgreementRepository();
 
     return [
       _verifyModule(
@@ -332,6 +347,18 @@ class TrilingualRegistryService {
                   v.arabicForms.isNotEmpty &&
                   v.englishForms.isNotEmpty &&
                   v.germanForms.isNotEmpty,
+            ),
+      ),
+      _verifyModule(
+        id: 'nominal_agreement_declension',
+        titleAr: 'مُخْتَبَرُ النَّعْتِ وَالتَّصْرِيفِ الِاسْمِيِّ (#1234)',
+        itemsCount: agreementRepo.getLessons().length,
+        drillsCount: agreementRepo.getDrills().length,
+        hasValidTrilingualContent: agreementRepo.getLessons().every(
+              (a) =>
+                  a.exampleAr.isNotEmpty &&
+                  a.exampleEn.isNotEmpty &&
+                  a.exampleDe.isNotEmpty,
             ),
       ),
     ];
