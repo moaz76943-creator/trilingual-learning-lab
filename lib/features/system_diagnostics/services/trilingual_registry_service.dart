@@ -24,6 +24,8 @@ import '../../nominal_agreement_declension/data/nominal_agreement_repository.dar
 import '../../nominal_agreement_declension/screens/nominal_agreement_studio_screen.dart';
 import '../../nominalization_morphology/data/nominalization_repository.dart';
 import '../../nominalization_morphology/screens/nominalization_studio_screen.dart';
+import '../../nonfinite_clauses/data/nonfinite_clauses_repository.dart';
+import '../../nonfinite_clauses/screens/nonfinite_clauses_studio_screen.dart';
 import '../../numerals_measurement/data/numerals_measurement_repository.dart';
 import '../../numerals_measurement/screens/numerals_measurement_studio_screen.dart';
 import '../../orthography_punctuation/data/orthography_punctuation_repository.dart';
@@ -329,6 +331,18 @@ class TrilingualRegistryService {
         icon: Icons.spellcheck_rounded,
         builder: (_) => const OrthographyPunctuationStudioScreen(),
       ),
+      TrilingualStudioDescriptor(
+        id: 'nonfinite_clauses',
+        taskNumber: 1245,
+        group: StudioDomainGroup.syntaxAndGrammar,
+        titleAr: 'مُخْتَبَرُ الْمَصْدَرِ الْمُؤَوَّلِ وَالْجُمَلِ غَيْرِ الْمُصَرَّفَةِ',
+        titleEn: 'Non-Finite Clauses, zu-Infinitiv, Gerund & Participles Studio',
+        titleDe: 'um...zu / damit, ohne...zu & erweitertes Partizip-Attribut',
+        summaryAr:
+            'الْمَقَارَنَةُ بَيْنَ um...zu وَdamit، وَحَذْفُ zu مَعَ النَّوَاقِصِ، وَتَقْدِيمُ اسْمِ الْفَاعِلِ وَالْمَفْعُولِ (Linksattribut).',
+        icon: Icons.schema_outlined,
+        builder: (_) => const NonFiniteClausesStudioScreen(),
+      ),
     ];
   }
 
@@ -356,6 +370,7 @@ class TrilingualRegistryService {
     final causativeRepo = const CausativeValencyRepository();
     final interrogativeRepo = const InterrogativeSyntaxRepository();
     final orthographyRepo = const OrthographyPunctuationRepository();
+    final nonFiniteRepo = const NonFiniteClausesRepository();
 
     return [
       _verifyModule(
@@ -629,6 +644,18 @@ class TrilingualRegistryService {
                   o.exampleAr.isNotEmpty &&
                   o.exampleEn.isNotEmpty &&
                   o.exampleDe.isNotEmpty,
+            ),
+      ),
+      _verifyModule(
+        id: 'nonfinite_clauses',
+        titleAr: 'مُخْتَبَرُ الْمَصْدَرِ الْمُؤَوَّلِ وَالْجُمَلِ غَيْرِ الْمُصَرَّفَةِ (#1245)',
+        itemsCount: nonFiniteRepo.getUnits().length,
+        drillsCount: nonFiniteRepo.getDrills().length,
+        hasValidTrilingualContent: nonFiniteRepo.getUnits().every(
+              (nf) =>
+                  nf.exampleAr.isNotEmpty &&
+                  nf.exampleEn.isNotEmpty &&
+                  nf.exampleDe.isNotEmpty,
             ),
       ),
     ];
