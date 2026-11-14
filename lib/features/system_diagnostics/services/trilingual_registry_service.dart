@@ -12,6 +12,8 @@ import '../../false_friends_register/data/false_friends_repository.dart';
 import '../../false_friends_register/screens/false_friends_studio_screen.dart';
 import '../../idafa_compound_nouns/data/idafa_compound_repository.dart';
 import '../../idafa_compound_nouns/screens/idafa_compound_studio_screen.dart';
+import '../../imperative_requests/data/imperative_requests_repository.dart';
+import '../../imperative_requests/screens/imperative_requests_studio_screen.dart';
 import '../../modal_verbs_deontic/data/modal_verbs_repository.dart';
 import '../../modal_verbs_deontic/screens/modal_verbs_studio_screen.dart';
 import '../../nominal_agreement_declension/data/nominal_agreement_repository.dart';
@@ -273,6 +275,18 @@ class TrilingualRegistryService {
         icon: Icons.layers_outlined,
         builder: (_) => const IdafaCompoundStudioScreen(),
       ),
+      TrilingualStudioDescriptor(
+        id: 'imperative_requests',
+        taskNumber: 1241,
+        group: StudioDomainGroup.semanticsAndPragmatics,
+        titleAr: 'مُخْتَبَرُ الْأَمْرِ وَالنَّهْيِ وَالطَّلَبِ الْمُؤَدَّبِ',
+        titleEn: 'Imperative Mood, Prohibitions & Polite Requests Studio',
+        titleDe: 'Imperativ (du/ihr/Sie), Adhortativ & höfliche Bitten',
+        summaryAr:
+            'صِيَاغَةُ فِعْلِ الْأَمْرِ وَالنَّهْيِ بِـ «لَا» وَالْحَثِّ بِـ «لَامِ الْأَمْرِ» مُقَابِلَ Imperativ وَKonjunktiv II وَLet\'s.',
+        icon: Icons.campaign_outlined,
+        builder: (_) => const ImperativeRequestsStudioScreen(),
+      ),
     ];
   }
 
@@ -296,6 +310,7 @@ class TrilingualRegistryService {
     final reflexiveRepo = const ReflexiveReciprocalRepository();
     final numeralsRepo = const NumeralsMeasurementRepository();
     final idafaRepo = const IdafaCompoundRepository();
+    final imperativeRepo = const ImperativeRequestsRepository();
 
     return [
       _verifyModule(
@@ -521,6 +536,18 @@ class TrilingualRegistryService {
                   c.exampleAr.isNotEmpty &&
                   c.exampleEn.isNotEmpty &&
                   c.exampleDe.isNotEmpty,
+            ),
+      ),
+      _verifyModule(
+        id: 'imperative_requests',
+        titleAr: 'مُخْتَبَرُ الْأَمْرِ وَالنَّهْيِ وَالطَّلَبِ الْمُؤَدَّبِ (#1241)',
+        itemsCount: imperativeRepo.getUnits().length,
+        drillsCount: imperativeRepo.getDrills().length,
+        hasValidTrilingualContent: imperativeRepo.getUnits().every(
+              (i) =>
+                  i.exampleAr.isNotEmpty &&
+                  i.exampleEn.isNotEmpty &&
+                  i.exampleDe.isNotEmpty,
             ),
       ),
     ];
