@@ -7,15 +7,15 @@ import 'package:trilingual_learning_lab/features/system_diagnostics/services/tri
 import 'package:trilingual_learning_lab/main.dart';
 
 void main() {
-  group('TrilingualRegistryService & Complete 20-Studio Audit', () {
+  group('TrilingualRegistryService & Complete 21-Studio Audit', () {
     const service = TrilingualRegistryService();
 
-    test('registers all 20 studios (#1220-#1241) and verifies health', () {
+    test('registers all 21 studios (#1220-#1242) and verifies health', () {
       final studios = service.getRegisteredStudios();
-      expect(studios.length, 20);
+      expect(studios.length, 21);
 
       final reports = service.runSelfDiagnostics();
-      expect(reports.length, 20);
+      expect(reports.length, 21);
       for (final report in reports) {
         expect(
           report.isHealthy,
@@ -29,22 +29,22 @@ void main() {
   });
 
   group('SystemDiagnosticsController', () {
-    test('computes totals across all 20 studios and filters by group/query', () {
+    test('computes totals across all 21 studios and filters by group/query', () {
       final controller = SystemDiagnosticsController();
       expect(controller.state.lastAuditPassed, isTrue);
-      expect(controller.state.filteredStudios.length, 20);
-      expect(controller.state.totalVerifiedLessons, greaterThanOrEqualTo(120));
-      expect(controller.state.totalVerifiedDrills, greaterThanOrEqualTo(120));
+      expect(controller.state.filteredStudios.length, 21);
+      expect(controller.state.totalVerifiedLessons, greaterThanOrEqualTo(126));
+      expect(controller.state.totalVerifiedDrills, greaterThanOrEqualTo(126));
 
       controller.selectGroup(StudioDomainGroup.morphologyAndPhonology);
       expect(controller.state.filteredStudios.length, 4);
 
       controller.selectGroup(null);
-      controller.updateSearch('1241');
+      controller.updateSearch('1242');
       expect(controller.state.filteredStudios.length, 1);
       expect(
         controller.state.filteredStudios.first.id,
-        'imperative_requests',
+        'causative_valency',
       );
     });
   });

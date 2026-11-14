@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 
 import '../../apposition_coordination/data/apposition_coordination_repository.dart';
 import '../../apposition_coordination/screens/apposition_coordination_studio_screen.dart';
+import '../../causative_valency/data/causative_valency_repository.dart';
+import '../../causative_valency/screens/causative_valency_studio_screen.dart';
 import '../../comprehension_cloze/data/comprehension_cloze_repository.dart';
 import '../../comprehension_cloze/screens/comprehension_cloze_studio_screen.dart';
 import '../../discourse_connectives/data/discourse_connectives_repository.dart';
@@ -287,6 +289,18 @@ class TrilingualRegistryService {
         icon: Icons.campaign_outlined,
         builder: (_) => const ImperativeRequestsStudioScreen(),
       ),
+      TrilingualStudioDescriptor(
+        id: 'causative_valency',
+        taskNumber: 1242,
+        group: StudioDomainGroup.syntaxAndGrammar,
+        titleAr: 'مُخْتَبَرُ التَّعْدِيَةِ وَالسَّبَبِيَّةِ وَالتَّكْلِيفِ',
+        titleEn: 'Causative, Factitive & Benefactive Valency Studio',
+        titleDe: 'Kausativ (lassen + Infinitiv), legen/liegen & Dativus Commodi',
+        summaryAr:
+            'هَمْزَةُ التَّعْدِيَةِ وَالتَّضْعِيفُ، وَأَفْعَالُ السَّبَبِيَّةِ (lassen / make / have / get)، وَأَزْوَاجُ التَّسْبِيبِ وَالثَّبَاتِ.',
+        icon: Icons.bolt_outlined,
+        builder: (_) => const CausativeValencyStudioScreen(),
+      ),
     ];
   }
 
@@ -311,6 +325,7 @@ class TrilingualRegistryService {
     final numeralsRepo = const NumeralsMeasurementRepository();
     final idafaRepo = const IdafaCompoundRepository();
     final imperativeRepo = const ImperativeRequestsRepository();
+    final causativeRepo = const CausativeValencyRepository();
 
     return [
       _verifyModule(
@@ -548,6 +563,18 @@ class TrilingualRegistryService {
                   i.exampleAr.isNotEmpty &&
                   i.exampleEn.isNotEmpty &&
                   i.exampleDe.isNotEmpty,
+            ),
+      ),
+      _verifyModule(
+        id: 'causative_valency',
+        titleAr: 'مُخْتَبَرُ التَّعْدِيَةِ وَالسَّبَبِيَّةِ وَالتَّكْلِيفِ (#1242)',
+        itemsCount: causativeRepo.getUnits().length,
+        drillsCount: causativeRepo.getDrills().length,
+        hasValidTrilingualContent: causativeRepo.getUnits().every(
+              (v) =>
+                  v.exampleAr.isNotEmpty &&
+                  v.exampleEn.isNotEmpty &&
+                  v.exampleDe.isNotEmpty,
             ),
       ),
     ];
