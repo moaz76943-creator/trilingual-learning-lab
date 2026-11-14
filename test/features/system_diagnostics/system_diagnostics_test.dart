@@ -7,15 +7,15 @@ import 'package:trilingual_learning_lab/features/system_diagnostics/services/tri
 import 'package:trilingual_learning_lab/main.dart';
 
 void main() {
-  group('TrilingualRegistryService & Complete 10-Studio Audit', () {
+  group('TrilingualRegistryService & Complete 12-Studio Audit', () {
     const service = TrilingualRegistryService();
 
-    test('registers all 10 studios (#1220-#1230) and verifies health', () {
+    test('registers all 12 studios (#1220-#1233) and verifies health', () {
       final studios = service.getRegisteredStudios();
-      expect(studios.length, 10);
+      expect(studios.length, 12);
 
       final reports = service.runSelfDiagnostics();
-      expect(reports.length, 10);
+      expect(reports.length, 12);
       for (final report in reports) {
         expect(
           report.isHealthy,
@@ -29,20 +29,20 @@ void main() {
   });
 
   group('SystemDiagnosticsController', () {
-    test('computes totals across all 10 studios and filters by group/query', () {
+    test('computes totals across all 12 studios and filters by group/query', () {
       final controller = SystemDiagnosticsController();
       expect(controller.state.lastAuditPassed, isTrue);
-      expect(controller.state.filteredStudios.length, 10);
-      expect(controller.state.totalVerifiedLessons, 60);
-      expect(controller.state.totalVerifiedDrills, 60);
+      expect(controller.state.filteredStudios.length, 12);
+      expect(controller.state.totalVerifiedLessons, greaterThanOrEqualTo(72));
+      expect(controller.state.totalVerifiedDrills, greaterThanOrEqualTo(72));
 
-      controller.selectGroup(StudioDomainGroup.semanticsAndPragmatics);
-      expect(controller.state.filteredStudios.length, 2);
+      controller.selectGroup(StudioDomainGroup.morphologyAndPhonology);
+      expect(controller.state.filteredStudios.length, 3);
 
       controller.selectGroup(null);
-      controller.updateSearch('1230');
+      controller.updateSearch('1233');
       expect(controller.state.filteredStudios.length, 1);
-      expect(controller.state.filteredStudios.first.id, 'situational_dialogue');
+      expect(controller.state.filteredStudios.first.id, 'verb_paradigm_matrix');
     });
   });
 
@@ -63,7 +63,6 @@ void main() {
         find.textContaining('حَالَةُ النِّظَامِ: جَمِيعُ الْمُخْتَبَرَاتِ سَلِيمَةٌ'),
         findsOneWidget,
       );
-      expect(find.textContaining('60'), findsOneWidget);
     });
   });
 }

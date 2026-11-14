@@ -6,6 +6,8 @@ import '../../discourse_connectives/data/discourse_connectives_repository.dart';
 import '../../discourse_connectives/screens/discourse_connectives_studio_screen.dart';
 import '../../ellipsis_anaphora/data/ellipsis_anaphora_repository.dart';
 import '../../ellipsis_anaphora/screens/ellipsis_anaphora_studio_screen.dart';
+import '../../false_friends_register/data/false_friends_repository.dart';
+import '../../false_friends_register/screens/false_friends_studio_screen.dart';
 import '../../modal_verbs_deontic/data/modal_verbs_repository.dart';
 import '../../modal_verbs_deontic/screens/modal_verbs_studio_screen.dart';
 import '../../nominalization_morphology/data/nominalization_repository.dart';
@@ -20,6 +22,8 @@ import '../../situational_dialogue/data/situational_dialogue_repository.dart';
 import '../../situational_dialogue/screens/situational_dialogue_studio_screen.dart';
 import '../../srs_mastery_engine/data/srs_seed_repository.dart';
 import '../../srs_mastery_engine/screens/srs_mastery_studio_screen.dart';
+import '../../verb_paradigm_matrix/data/verb_paradigm_repository.dart';
+import '../../verb_paradigm_matrix/screens/verb_paradigm_studio_screen.dart';
 import '../models/diagnostic_models.dart';
 
 class TrilingualRegistryService {
@@ -147,6 +151,30 @@ class TrilingualRegistryService {
         icon: Icons.forum_outlined,
         builder: (_) => const SituationalDialogueStudioScreen(),
       ),
+      TrilingualStudioDescriptor(
+        id: 'false_friends_register',
+        taskNumber: 1232,
+        group: StudioDomainGroup.semanticsAndPragmatics,
+        titleAr: 'مُخْتَبَرُ الْأَلْفَاظِ الْخَادِعَةِ (Falsche Freunde)',
+        titleEn: 'False Friends & Semantic Divergence Studio',
+        titleDe: 'Falsche Freunde (bekommen/become, aktuell, Gift)',
+        summaryAr:
+            'كَشْفُ الْكَلِمَاتِ الْمُتَشَابِهَةِ رَسْمًا بَيْنَ الْأَلْمَانِيَّةِ وَالْإِنْجِلِيزِيَّةِ وَالْمُخْتَلِفَةِ مَعْنًى.',
+        icon: Icons.warning_amber_rounded,
+        builder: (_) => const FalseFriendsStudioScreen(),
+      ),
+      TrilingualStudioDescriptor(
+        id: 'verb_paradigm_matrix',
+        taskNumber: 1233,
+        group: StudioDomainGroup.morphologyAndPhonology,
+        titleAr: 'مُخْتَبَرُ تَصْرِيفِ الْأَفْعَالِ وَالْمِيزَانِ الصَّرْفِيِّ',
+        titleEn: 'Verb Conjugation, Root-Measure & Ablaut Studio',
+        titleDe: 'Starke/Gemischte Verben, Ablaut & haben/sein Perfekt',
+        summaryAr:
+            'الْأَوْزَانُ الصَّرْفِيَّةُ، وَسَلَاسِلُ Ablaut، وَالْمَاضِي الْمُرَكَّبُ بِـ haben/sein، وَجَزْمُ الْمُعْتَلِّ وَالْأَفْعَالُ الْمُنْفَصِلَةُ.',
+        icon: Icons.table_chart_outlined,
+        builder: (_) => const VerbParadigmStudioScreen(),
+      ),
     ];
   }
 
@@ -161,6 +189,8 @@ class TrilingualRegistryService {
     final modalRepo = const ModalVerbsRepository();
     final srsRepo = const SrsSeedRepository();
     final dialogueRepo = const SituationalDialogueRepository();
+    final falseFriendsRepo = const FalseFriendsRepository();
+    final verbRepo = const VerbParadigmRepository();
 
     return [
       _verifyModule(
@@ -278,6 +308,30 @@ class TrilingualRegistryService {
         drillsCount: dialogueRepo.getChallenges().length,
         hasValidTrilingualContent: dialogueRepo.getScenarios().every(
               (s) => s.turns.isNotEmpty && s.turns.first.lineDe.isNotEmpty,
+            ),
+      ),
+      _verifyModule(
+        id: 'false_friends_register',
+        titleAr: 'مُخْتَبَرُ الْأَلْفَاظِ الْخَادِعَةِ (#1232)',
+        itemsCount: falseFriendsRepo.getEntries().length,
+        drillsCount: falseFriendsRepo.getDrills().length,
+        hasValidTrilingualContent: falseFriendsRepo.getEntries().every(
+              (e) =>
+                  e.germanTerm.isNotEmpty &&
+                  e.englishLookalike.isNotEmpty &&
+                  e.exampleAr.isNotEmpty,
+            ),
+      ),
+      _verifyModule(
+        id: 'verb_paradigm_matrix',
+        titleAr: 'مُخْتَبَرُ تَصْرِيفِ الْأَفْعَالِ (#1233)',
+        itemsCount: verbRepo.getEntries().length,
+        drillsCount: verbRepo.getDrills().length,
+        hasValidTrilingualContent: verbRepo.getEntries().every(
+              (v) =>
+                  v.arabicForms.isNotEmpty &&
+                  v.englishForms.isNotEmpty &&
+                  v.germanForms.isNotEmpty,
             ),
       ),
     ];
