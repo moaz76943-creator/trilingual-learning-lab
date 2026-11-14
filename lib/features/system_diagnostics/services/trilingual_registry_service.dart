@@ -26,6 +26,8 @@ import '../../nominalization_morphology/data/nominalization_repository.dart';
 import '../../nominalization_morphology/screens/nominalization_studio_screen.dart';
 import '../../numerals_measurement/data/numerals_measurement_repository.dart';
 import '../../numerals_measurement/screens/numerals_measurement_studio_screen.dart';
+import '../../orthography_punctuation/data/orthography_punctuation_repository.dart';
+import '../../orthography_punctuation/screens/orthography_punctuation_studio_screen.dart';
 import '../../passive_voice_matrix/data/passive_voice_repository.dart';
 import '../../passive_voice_matrix/screens/passive_voice_studio_screen.dart';
 import '../../phonotactics_prosody/data/phonotactics_prosody_repository.dart';
@@ -315,6 +317,18 @@ class TrilingualRegistryService {
         icon: Icons.help_outline_rounded,
         builder: (_) => const InterrogativeSyntaxStudioScreen(),
       ),
+      TrilingualStudioDescriptor(
+        id: 'orthography_punctuation',
+        taskNumber: 1244,
+        group: StudioDomainGroup.morphologyAndPhonology,
+        titleAr: 'مُخْتَبَرُ الْإِمْلَاءِ وَالتَّرْقِيمِ وَنِظَامِ الْكِتَابَةِ',
+        titleEn: 'Orthography, Punctuation & Script-Mapping Studio',
+        titleDe: 'Großschreibung, ß/ss-Regel, Kommasetzung & Anführungszeichen',
+        summaryAr:
+            'ضَوَابِطُ الْهَمْزَةِ وَالتَّاءِ الْمَرْبُوطَةِ، وَقَاعِدَةُ ß/ss، وَالْحُرُوفُ الْكَبِيرَةُ، وَالْفَاصِلَةُ النَّحْوِيَّةُ بَيْنَ اللُّغَاتِ.',
+        icon: Icons.spellcheck_rounded,
+        builder: (_) => const OrthographyPunctuationStudioScreen(),
+      ),
     ];
   }
 
@@ -341,6 +355,7 @@ class TrilingualRegistryService {
     final imperativeRepo = const ImperativeRequestsRepository();
     final causativeRepo = const CausativeValencyRepository();
     final interrogativeRepo = const InterrogativeSyntaxRepository();
+    final orthographyRepo = const OrthographyPunctuationRepository();
 
     return [
       _verifyModule(
@@ -602,6 +617,18 @@ class TrilingualRegistryService {
                   q.exampleAr.isNotEmpty &&
                   q.exampleEn.isNotEmpty &&
                   q.exampleDe.isNotEmpty,
+            ),
+      ),
+      _verifyModule(
+        id: 'orthography_punctuation',
+        titleAr: 'مُخْتَبَرُ الْإِمْلَاءِ وَالتَّرْقِيمِ وَنِظَامِ الْكِتَابَةِ (#1244)',
+        itemsCount: orthographyRepo.getUnits().length,
+        drillsCount: orthographyRepo.getDrills().length,
+        hasValidTrilingualContent: orthographyRepo.getUnits().every(
+              (o) =>
+                  o.exampleAr.isNotEmpty &&
+                  o.exampleEn.isNotEmpty &&
+                  o.exampleDe.isNotEmpty,
             ),
       ),
     ];

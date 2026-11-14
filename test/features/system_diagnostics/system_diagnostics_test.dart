@@ -7,15 +7,15 @@ import 'package:trilingual_learning_lab/features/system_diagnostics/services/tri
 import 'package:trilingual_learning_lab/main.dart';
 
 void main() {
-  group('TrilingualRegistryService & Complete 22-Studio Audit', () {
+  group('TrilingualRegistryService & Complete 23-Studio Audit', () {
     const service = TrilingualRegistryService();
 
-    test('registers all 22 studios (#1220-#1243) and verifies health', () {
+    test('registers all 23 studios (#1220-#1244) and verifies health', () {
       final studios = service.getRegisteredStudios();
-      expect(studios.length, 22);
+      expect(studios.length, 23);
 
       final reports = service.runSelfDiagnostics();
-      expect(reports.length, 22);
+      expect(reports.length, 23);
       for (final report in reports) {
         expect(
           report.isHealthy,
@@ -29,22 +29,22 @@ void main() {
   });
 
   group('SystemDiagnosticsController', () {
-    test('computes totals across all 22 studios and filters by group/query', () {
+    test('computes totals across all 23 studios and filters by group/query', () {
       final controller = SystemDiagnosticsController();
       expect(controller.state.lastAuditPassed, isTrue);
-      expect(controller.state.filteredStudios.length, 22);
-      expect(controller.state.totalVerifiedLessons, greaterThanOrEqualTo(132));
-      expect(controller.state.totalVerifiedDrills, greaterThanOrEqualTo(132));
+      expect(controller.state.filteredStudios.length, 23);
+      expect(controller.state.totalVerifiedLessons, greaterThanOrEqualTo(138));
+      expect(controller.state.totalVerifiedDrills, greaterThanOrEqualTo(138));
 
       controller.selectGroup(StudioDomainGroup.morphologyAndPhonology);
-      expect(controller.state.filteredStudios.length, 4);
+      expect(controller.state.filteredStudios.length, 5);
 
       controller.selectGroup(null);
-      controller.updateSearch('1243');
+      controller.updateSearch('1244');
       expect(controller.state.filteredStudios.length, 1);
       expect(
         controller.state.filteredStudios.first.id,
-        'interrogative_syntax',
+        'orthography_punctuation',
       );
     });
   });
