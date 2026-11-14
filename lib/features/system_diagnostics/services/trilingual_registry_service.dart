@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 
 import '../../apposition_coordination/data/apposition_coordination_repository.dart';
 import '../../apposition_coordination/screens/apposition_coordination_studio_screen.dart';
+import '../../comprehension_cloze/data/comprehension_cloze_repository.dart';
+import '../../comprehension_cloze/screens/comprehension_cloze_studio_screen.dart';
 import '../../discourse_connectives/data/discourse_connectives_repository.dart';
 import '../../discourse_connectives/screens/discourse_connectives_studio_screen.dart';
 import '../../ellipsis_anaphora/data/ellipsis_anaphora_repository.dart';
@@ -189,6 +191,18 @@ class TrilingualRegistryService {
         icon: Icons.view_list_outlined,
         builder: (_) => const NominalAgreementStudioScreen(),
       ),
+      TrilingualStudioDescriptor(
+        id: 'comprehension_cloze',
+        taskNumber: 1235,
+        group: StudioDomainGroup.discourseAndMastery,
+        titleAr: 'مُخْتَبَرُ الْفَهْمِ الْقِرَائِيِّ وَمَلْءِ الْفَرَاغَاتِ',
+        titleEn: 'Connected Reading & Contextual Cloze Studio',
+        titleDe: 'Leseverstehen & Lückentext-Training (Cloze)',
+        summaryAr:
+            'نُصُوصٌ قِرَائِيَّةٌ مُتَرَابِطَةٌ بِاللُّغَاتِ الثَّلَاثِ مَعَ مَسْرَدِ الْمُصْطَلَحَاتِ وَتَدْرِيبَاتِ مَلْءِ الْفَرَاغَاتِ السِّيَاقِيَّةِ.',
+        icon: Icons.menu_book_outlined,
+        builder: (_) => const ComprehensionClozeStudioScreen(),
+      ),
     ];
   }
 
@@ -206,6 +220,7 @@ class TrilingualRegistryService {
     final falseFriendsRepo = const FalseFriendsRepository();
     final verbRepo = const VerbParadigmRepository();
     final agreementRepo = const NominalAgreementRepository();
+    final clozeRepo = const ComprehensionClozeRepository();
 
     return [
       _verifyModule(
@@ -359,6 +374,18 @@ class TrilingualRegistryService {
                   a.exampleAr.isNotEmpty &&
                   a.exampleEn.isNotEmpty &&
                   a.exampleDe.isNotEmpty,
+            ),
+      ),
+      _verifyModule(
+        id: 'comprehension_cloze',
+        titleAr: 'مُخْتَبَرُ الْفَهْمِ الْقِرَائِيِّ وَمَلْءِ الْفَرَاغَاتِ (#1235)',
+        itemsCount: clozeRepo.getPassages().length,
+        drillsCount: clozeRepo.getClozeDrills().length,
+        hasValidTrilingualContent: clozeRepo.getPassages().every(
+              (p) =>
+                  p.bodyAr.isNotEmpty &&
+                  p.bodyEn.isNotEmpty &&
+                  p.bodyDe.isNotEmpty,
             ),
       ),
     ];
