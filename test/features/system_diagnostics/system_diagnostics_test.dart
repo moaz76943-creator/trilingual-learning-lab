@@ -7,15 +7,15 @@ import 'package:trilingual_learning_lab/features/system_diagnostics/services/tri
 import 'package:trilingual_learning_lab/main.dart';
 
 void main() {
-  group('TrilingualRegistryService & Complete 15-Studio Audit', () {
+  group('TrilingualRegistryService & Complete 16-Studio Audit', () {
     const service = TrilingualRegistryService();
 
-    test('registers all 15 studios (#1220-#1236) and verifies health', () {
+    test('registers all 16 studios (#1220-#1237) and verifies health', () {
       final studios = service.getRegisteredStudios();
-      expect(studios.length, 15);
+      expect(studios.length, 16);
 
       final reports = service.runSelfDiagnostics();
-      expect(reports.length, 15);
+      expect(reports.length, 16);
       for (final report in reports) {
         expect(
           report.isHealthy,
@@ -29,22 +29,22 @@ void main() {
   });
 
   group('SystemDiagnosticsController', () {
-    test('computes totals across all 15 studios and filters by group/query', () {
+    test('computes totals across all 16 studios and filters by group/query', () {
       final controller = SystemDiagnosticsController();
       expect(controller.state.lastAuditPassed, isTrue);
-      expect(controller.state.filteredStudios.length, 15);
-      expect(controller.state.totalVerifiedLessons, greaterThanOrEqualTo(90));
-      expect(controller.state.totalVerifiedDrills, greaterThanOrEqualTo(90));
+      expect(controller.state.filteredStudios.length, 16);
+      expect(controller.state.totalVerifiedLessons, greaterThanOrEqualTo(96));
+      expect(controller.state.totalVerifiedDrills, greaterThanOrEqualTo(96));
 
       controller.selectGroup(StudioDomainGroup.syntaxAndGrammar);
-      expect(controller.state.filteredStudios.length, 5);
+      expect(controller.state.filteredStudios.length, 6);
 
       controller.selectGroup(null);
-      controller.updateSearch('1236');
+      controller.updateSearch('1237');
       expect(controller.state.filteredStudios.length, 1);
       expect(
         controller.state.filteredStudios.first.id,
-        'word_order_topology',
+        'passive_voice_matrix',
       );
     });
   });

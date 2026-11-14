@@ -16,6 +16,8 @@ import '../../nominal_agreement_declension/data/nominal_agreement_repository.dar
 import '../../nominal_agreement_declension/screens/nominal_agreement_studio_screen.dart';
 import '../../nominalization_morphology/data/nominalization_repository.dart';
 import '../../nominalization_morphology/screens/nominalization_studio_screen.dart';
+import '../../passive_voice_matrix/data/passive_voice_repository.dart';
+import '../../passive_voice_matrix/screens/passive_voice_studio_screen.dart';
 import '../../phonotactics_prosody/data/phonotactics_prosody_repository.dart';
 import '../../phonotactics_prosody/screens/phonotactics_prosody_studio_screen.dart';
 import '../../prepositional_government/data/prepositional_government_repository.dart';
@@ -217,6 +219,18 @@ class TrilingualRegistryService {
         icon: Icons.view_week_outlined,
         builder: (_) => const WordOrderStudioScreen(),
       ),
+      TrilingualStudioDescriptor(
+        id: 'passive_voice_matrix',
+        taskNumber: 1237,
+        group: StudioDomainGroup.syntaxAndGrammar,
+        titleAr: 'مُخْتَبَرُ الْمَبْنِيِّ لِلْمَجْهُولِ وَوَسَائِطِ الْحَدَثِ',
+        titleEn: 'Passive Voice, Vorgangs-/Zustandspassiv & Majhul Studio',
+        titleDe: 'Vorgangs- vs. Zustandspassiv, worden & Passiversatz',
+        summaryAr:
+            'الْمَبْنِيُّ لِلْمَجْهُولِ الْعَرَبِيُّ، وَالْفَرْقُ بَيْنَ werden وَsein، وَاستِعْمَالُ von/durch، وَبَدَائِلُ الْمَجْهُولِ (sich lassen / -bar).',
+        icon: Icons.swap_horiz_rounded,
+        builder: (_) => const PassiveVoiceStudioScreen(),
+      ),
     ];
   }
 
@@ -236,6 +250,7 @@ class TrilingualRegistryService {
     final agreementRepo = const NominalAgreementRepository();
     final clozeRepo = const ComprehensionClozeRepository();
     final wordOrderRepo = const WordOrderRepository();
+    final passiveRepo = const PassiveVoiceRepository();
 
     return [
       _verifyModule(
@@ -413,6 +428,18 @@ class TrilingualRegistryService {
                   w.sentenceAr.isNotEmpty &&
                   w.sentenceEn.isNotEmpty &&
                   w.sentenceDe.isNotEmpty,
+            ),
+      ),
+      _verifyModule(
+        id: 'passive_voice_matrix',
+        titleAr: 'مُخْتَبَرُ الْمَبْنِيِّ لِلْمَجْهُولِ (#1237)',
+        itemsCount: passiveRepo.getUnits().length,
+        drillsCount: passiveRepo.getDrills().length,
+        hasValidTrilingualContent: passiveRepo.getUnits().every(
+              (u) =>
+                  u.passiveFormAr.isNotEmpty &&
+                  u.passiveFormEn.isNotEmpty &&
+                  u.passiveFormDe.isNotEmpty,
             ),
       ),
     ];
