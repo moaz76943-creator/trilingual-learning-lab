@@ -1,4 +1,4 @@
-name: CI - Quality & Data Verification
+name: CI - Quality, Analyze & Test
 
 on:
   push:
@@ -10,10 +10,9 @@ permissions:
   contents: read
 
 jobs:
-  validate:
+  validate-content:
     runs-on: ubuntu-latest
     timeout-minutes: 5
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -25,3 +24,28 @@ jobs:
 
       - name: Validate Vocabulary & Visual Assets
         run: python tests/validate_content.py
+
+  flutter-quality:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: '3.24.0'
+          channel: 'stable'
+
+      - name: Get dependencies
+        run: flutter pub get
+
+      - name: Analyze
+        run: flutter analyze --fatal-infos
+
+      - name: Run tests
+        run: flutter test
+
+      - name: Build APK (debug, for smoke check)
+        run: flutter build apk --debug
